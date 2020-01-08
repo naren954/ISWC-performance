@@ -1,0 +1,4 @@
+F1: 0.60000,Precision: 0.60000,Recall: 0.60000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Marty,http://dbpedia.org/resource/Marty_Howe,http://dbpedia.org/resource/Marty_(film)
+0,3,Mister Roberts,http://dbpedia.org/resource/Mister_Sinister,http://dbpedia.org/resource/Mister_Roberts_(1955_film)

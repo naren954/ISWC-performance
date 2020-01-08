@@ -1,0 +1,11 @@
+F1: 0.55000,Precision: 0.55000,Recall: 0.55000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,Jet City Rollergirls,http://dbpedia.org/resource/Rat_City_Roller_Derby,http://dbpedia.org/resource/Jet_City_Rollergirls http://dbpedia.org/resource/Jet_City_Roller_Girls
+0,6,Rat City Rollergirls,http://dbpedia.org/resource/Rat_City_Roller_Derby,http://dbpedia.org/resource/Rat_Rollergirls http://dbpedia.org/resource/Rat_City_Rollergirls http://dbpedia.org/resource/Derby_Liberation_Front http://dbpedia.org/resource/Sockit_Wenches http://dbpedia.org/resource/Throttle_Rockets
+0,7,Seattle Cascades,http://dbpedia.org/resource/Seattle_Seahawks,http://dbpedia.org/resource/Cascades_Drum_and_Bugle_Corps http://dbpedia.org/resource/Seattle_Cascades_Drum_and_Bugle_Corps http://dbpedia.org/resource/Seattle_cascades_drum_and_bugle_corps http://dbpedia.org/resource/Cascades_drum_and_bugle_corps
+0,8,Seattle Force,http://dbpedia.org/resource/Seattle_Seahawks,http://dbpedia.org/resource/Dallas_Dragons http://dbpedia.org/resource/USARL http://dbpedia.org/resource/Houston_Hornets http://dbpedia.org/resource/USA_Rugby_League http://dbpedia.org/resource/Seattle_Force http://dbpedia.org/resource/Los_Angeles_Raiders_RLFC http://dbpedia.org/resource/Orange_County_Outlaws http://dbpedia.org/resource/Denver_Wolverines http://dbpedia.org/resource/Los_Angeles_Raiders_Rugby_League_Football_Club
+0,12,Seattle Mountaineers,http://dbpedia.org/resource/Seattle_Seahawks,http://dbpedia.org/resource/Seattle_Mountaineers
+0,13,Seattle Sockeye,http://dbpedia.org/resource/Seattle_Seahawks,http://dbpedia.org/resource/Seattle_Sockeye
+0,15,Seattle Cascades,http://dbpedia.org/resource/Seattle_Seahawks,http://dbpedia.org/resource/Seattle_Cascades_(AUDL)
+0,16,Seattle Sounders FC 2,http://dbpedia.org/resource/Seattle_Sounders_FC,http://dbpedia.org/resource/Seattle_Sounders_FC_2
+0,20,Seattle Totems,http://dbpedia.org/resource/Seattle_Totems,http://dbpedia.org/resource/Kent_Crusaders_(NPHL) http://dbpedia.org/resource/Seattle_Totems_(NORPAC) http://dbpedia.org/resource/Seattle_Totems_(junior_hockey) http://dbpedia.org/resource/Seattle_Totems_(NPHL)

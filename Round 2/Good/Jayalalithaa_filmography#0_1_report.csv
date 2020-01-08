@@ -1,0 +1,8 @@
+F1: 0.86047,Precision: 0.86047,Recall: 0.86047,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,8,Ayirathil Oruvan,http://dbpedia.org/resource/Aayirathil_Oruvan_(2010_film),http://dbpedia.org/resource/Aayirathil_Oruvan_(1965_film)
+1,18,Major Chandrakanth,http://dbpedia.org/resource/Major_Chandrakanth_(1993_film),http://dbpedia.org/resource/Major_Chandrakanth_(1966_film)
+1,24,Nee,http://dbpedia.org/resource/Nee_(Perfume_song),http://dbpedia.org/resource/Nee_(film)
+1,42,Brahmachari,http://dbpedia.org/resource/Brahmachari_(1968_Hindi_film),http://dbpedia.org/resource/Brahmachari_(1968_Telugu_film) http://dbpedia.org/resource/Brahmachari_(Telugu_film)
+1,64,Nam Naadu,http://dbpedia.org/resource/Nam_Naadu_(2007_film),http://dbpedia.org/resource/Nam_Naadu_(1969_film)
+1,68,Kathanayakudu,http://dbpedia.org/resource/Kuselan,http://dbpedia.org/resource/Kathanayakudu_(1969_film) http://dbpedia.org/resource/Katha_Nayakudu

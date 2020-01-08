@@ -1,0 +1,39 @@
+F1: 0.75658,Precision: 0.75658,Recall: 0.75658,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,1,S. Artuç,http://dbpedia.org/resource/Andy_Warhol,http://dbpedia.org/resource/Sedat_Artuc http://dbpedia.org/resource/Sedat_Artuç
+2,4,A. A. Petrov,http://dbpedia.org/resource/Aleksandr_Petrov_(basketball),http://dbpedia.org/resource/Aleksei_Aleksandrovich_Petrov http://dbpedia.org/resource/Aleksey_Petrov_(weightlifter)
+2,12,A. A. Petrov,http://dbpedia.org/resource/Aleksandr_Petrov_(basketball),http://dbpedia.org/resource/Aleksei_Aleksandrovich_Petrov http://dbpedia.org/resource/Aleksey_Petrov_(weightlifter)
+2,31,K. Manabe,http://dbpedia.org/resource/Kazuyuki_Manabe,http://dbpedia.org/resource/Kazushito_Manabe http://dbpedia.org/resource/Kazushito
+2,35,K. Manabe,http://dbpedia.org/resource/Kazuyuki_Manabe,http://dbpedia.org/resource/Kazushito_Manabe http://dbpedia.org/resource/Kazushito
+2,36,J. Verheijen,http://dbpedia.org/resource/Carl_Verheijen,http://dbpedia.org/resource/Jan_Verheijen http://dbpedia.org/resource/Johannes_Verheyen
+2,37,G. Scheffer,http://dbpedia.org/resource/Stans_Scheffer,http://dbpedia.org/resource/Guus_Scheffer http://dbpedia.org/resource/August_Scheffer
+2,40,J. Skobla,http://dbpedia.org/resource/Jiří_Skobla,http://dbpedia.org/resource/Jaroslav_Skobla
+2,41,J. Verheijen,http://dbpedia.org/resource/Carl_Verheijen,http://dbpedia.org/resource/Jan_Verheijen http://dbpedia.org/resource/Johannes_Verheyen
+2,42,G. Scheffer,http://dbpedia.org/resource/Stans_Scheffer,http://dbpedia.org/resource/Guus_Scheffer http://dbpedia.org/resource/August_Scheffer
+2,45,J. Skobla,http://dbpedia.org/resource/Jiří_Skobla,http://dbpedia.org/resource/Jaroslav_Skobla
+2,46,L. Friedrich,http://dbpedia.org/resource/Jörg_Friedrich_(rower),http://dbpedia.org/resource/Leopold_Friedrich
+2,49,A. Reinmann,http://dbpedia.org/resource/Baptist_Reinmann,http://dbpedia.org/resource/Arthur_Reinmann
+2,51,L. Friedrich,http://dbpedia.org/resource/Jörg_Friedrich_(rower),http://dbpedia.org/resource/Leopold_Friedrich
+2,54,A. Reinmann,http://dbpedia.org/resource/Baptist_Reinmann,http://dbpedia.org/resource/Arthur_Reinmann
+2,58,M. A. Club,http://dbpedia.org/resource/Nottingham_Forest_F.C.,http://dbpedia.org/resource/Missouri_Athletic_Club http://dbpedia.org/resource/Missouri_Athletic_Association
+2,59,M. P. Service,http://dbpedia.org/resource/University_of_Michigan,http://dbpedia.org/resource/The_London_Police http://dbpedia.org/resource/London_Met_Police http://dbpedia.org/resource/Metropolitan_Police_Force http://dbpedia.org/resource/London_Metropolitan_police http://dbpedia.org/resource/London_bobby http://dbpedia.org/resource/Metropolitan_Police_Officer http://dbpedia.org/resource/Metropolitian_Police http://dbpedia.org/resource/Borough_Operational_Command_Units http://dbpedia.org/resource/Met.police.uk http://dbpedia.org/resource/Metropolitan_police_force http://dbpedia.org/resource/Met_Police http://dbpedia.org/resource/New_police http://dbpedia.org/resource/Metropolitan_Police_Service http://dbpedia.org/resource/Metropolitan_Police_of_1829 http://dbpedia.org/resource/Obscene_Publications_Squad http://dbpedia.org/resource/London_Metropolitan_Police http://dbpedia.org/resource/Metropolitan_Police
+2,68,S. Williams,http://dbpedia.org/resource/Serena_Williams,http://dbpedia.org/resource/Susan_Williams_(triathlete) http://dbpedia.org/resource/Susan_Williams_(athlete)
+2,69,S. Riederer,http://dbpedia.org/resource/Stefan_Riederer,http://dbpedia.org/resource/Sven_Riederer
+2,70,S. Williams,http://dbpedia.org/resource/Serena_Williams,http://dbpedia.org/resource/Susan_Williams_(triathlete) http://dbpedia.org/resource/Susan_Williams_(athlete)
+2,71,S. Riederer,http://dbpedia.org/resource/Stefan_Riederer,http://dbpedia.org/resource/Sven_Riederer
+2,97,H. Timmer,http://dbpedia.org/resource/Henk_Timmer,http://dbpedia.org/resource/Hendrick_Timmer http://dbpedia.org/resource/Hendrik_Timmer_(tennis_player) http://dbpedia.org/resource/Hendrik_Timmer_(tennis) http://dbpedia.org/resource/Henrik_Timmer
+2,102,H. Timmer,http://dbpedia.org/resource/Henk_Timmer,http://dbpedia.org/resource/Hendrick_Timmer http://dbpedia.org/resource/Hendrik_Timmer_(tennis_player) http://dbpedia.org/resource/Hendrik_Timmer_(tennis) http://dbpedia.org/resource/Henrik_Timmer
+2,108,M. Décugis,http://dbpedia.org/resource/Marie_Decugis,"http://dbpedia.org/resource/Maxime_Omer_Decugis http://dbpedia.org/resource/Maxime_""Max""_Omer_Decugis http://dbpedia.org/resource/Maxime_Décugis http://dbpedia.org/resource/Max_Décugis http://dbpedia.org/resource/Max_Decugis"
+2,112,M. Décugis,http://dbpedia.org/resource/Marie_Decugis,"http://dbpedia.org/resource/Maxime_Omer_Decugis http://dbpedia.org/resource/Maxime_""Max""_Omer_Decugis http://dbpedia.org/resource/Maxime_Décugis http://dbpedia.org/resource/Max_Décugis http://dbpedia.org/resource/Max_Decugis"
+2,113,M. Bjurstedt,,http://dbpedia.org/resource/Molla_Bjurstedt http://dbpedia.org/resource/Anna_Bjursted http://dbpedia.org/resource/Molla_Mallory http://dbpedia.org/resource/Molla_Bjurstedt_Mallory http://dbpedia.org/resource/Molly_Bjurstedt http://dbpedia.org/resource/Anna_Bjurstedt
+2,117,M. Bjurstedt,,http://dbpedia.org/resource/Molla_Bjurstedt http://dbpedia.org/resource/Anna_Bjursted http://dbpedia.org/resource/Molla_Mallory http://dbpedia.org/resource/Molla_Bjurstedt_Mallory http://dbpedia.org/resource/Molly_Bjurstedt http://dbpedia.org/resource/Anna_Bjurstedt
+2,139,L. Muhammad,http://dbpedia.org/resource/Muhammad,http://dbpedia.org/resource/Lutalo_Muhammad
+2,140,T. Jennings,http://dbpedia.org/resource/Tom_Jennings_(cricketer),http://dbpedia.org/resource/Terrence_Jennings
+2,141,Ó. M. Oviedo,http://dbpedia.org/resource/Eugene_M._O'Neill,http://dbpedia.org/resource/Oscar_Munoz_Oveido http://dbpedia.org/resource/Óscar_Muñoz http://dbpedia.org/resource/Óscar_Muñoz_Oviedo
+2,142,R. Despaigne,http://dbpedia.org/resource/Alfredo_Despaigne,http://dbpedia.org/resource/Robelis_Despaigne
+2,147,L. Muhammad,http://dbpedia.org/resource/Muhammad,http://dbpedia.org/resource/Lutalo_Muhammad
+2,148,T. Jennings,http://dbpedia.org/resource/Tom_Jennings_(cricketer),http://dbpedia.org/resource/Terrence_Jennings
+2,149,Ó. M. Oviedo,http://dbpedia.org/resource/Eugene_M._O'Neill,http://dbpedia.org/resource/Oscar_Munoz_Oveido http://dbpedia.org/resource/Óscar_Muñoz http://dbpedia.org/resource/Óscar_Muñoz_Oviedo
+2,150,R. Despaigne,http://dbpedia.org/resource/Alfredo_Despaigne,http://dbpedia.org/resource/Robelis_Despaigne
+2,151,S. Šarić,http://dbpedia.org/resource/Danijel_Šarić,http://dbpedia.org/resource/Sandra_Šarić http://dbpedia.org/resource/Sandra_Saric
+2,152,D. López,http://dbpedia.org/resource/Daniel_López_(water_polo),http://dbpedia.org/resource/Diana_López http://dbpedia.org/resource/Diana_Lopez

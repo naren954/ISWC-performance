@@ -1,0 +1,6 @@
+F1: 0.33333,Precision: 0.33333,Recall: 0.33333,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Augustin de MÃ©sy,http://dbpedia.org/resource/Augustin_de_Saffray_de_Mésy,http://dbpedia.org/resource/Augustin_de_Mésy
+0,4,Joseph-Antoine de LaBarre,http://dbpedia.org/resource/Antoine_Lefèbvre_de_La_Barre,"http://dbpedia.org/resource/Joseph-Antoine_Le_Febvre_de_la_Barre http://dbpedia.org/resource/Antoine-Lefebvre http://dbpedia.org/resource/Joseph-Antoine_Le_Febvre_de_La_Barre http://dbpedia.org/resource/Joseph-Antoine_de_La_Barre http://dbpedia.org/resource/Joseph_Antoine_de_LaBarre http://dbpedia.org/resource/Joseph-Antoine_de_LaBarre http://dbpedia.org/resource/Governor_de_la_Barre http://dbpedia.org/resource/Joseph-Antoine_le_Febvre_de_la_Barre http://dbpedia.org/resource/Joseph_Antoine_de_La_Barre http://dbpedia.org/resource/Barre,_Antoine-Lefebvre,_Sieur_de_la"
+0,7,Hector de CalliÃ¨re,http://dbpedia.org/resource/Louis-Hector_de_Callière,http://dbpedia.org/resource/Hector_de_Callière
+0,13,"Pierre FranÃ§ois de Rigaud, Marquis de Vaudreuil-Cavagnal","http://dbpedia.org/resource/Pierre_de_Rigaud,_marquis_de_Vaudreuil-Cavagnial","http://dbpedia.org/resource/Pierre_François_de_Rigaud,_Marquis_de_Vaudreuil-Cavagnal"

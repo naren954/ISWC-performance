@@ -1,0 +1,23 @@
+F1: 0.41667,Precision: 0.41667,Recall: 0.41667,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,2,SrÄ\u0091an Å½akula,http://dbpedia.org/resource/Akula,http://dbpedia.org/resource/Srđan_Žakula
+2,4,Igor VujaÄ\u008DiÄ\u0087,http://dbpedia.org/resource/Igor_Antón,http://dbpedia.org/resource/Igor_Vujačić
+2,5,Branislav TrajkoviÄ\u0087,http://dbpedia.org/resource/FK_Rudar_Prijedor,http://dbpedia.org/resource/Branislav_Trajković
+2,6,Enver AlivodiÄ\u0087,http://dbpedia.org/resource/Veneration_of_Mary_in_the_Catholic_Church,http://dbpedia.org/resource/Enver_Alivodić
+2,13,Bojan NastiÄ\u0087,,http://dbpedia.org/resource/Bojan_Nastić
+2,14,NebojÅ¡a KosoviÄ\u0087,,http://dbpedia.org/resource/Nebojša_Kosović
+2,15,Marko PoletanoviÄ\u0087,http://dbpedia.org/resource/Marcus_Antonius_(orator),http://dbpedia.org/resource/Marko_Poletanović
+2,16,Stefan NikoliÄ\u0087,http://dbpedia.org/resource/Stefan_Karlsson_(badminton),http://dbpedia.org/resource/Stefan_Nikolić_(Serbian_footballer)
+2,18,MiloÅ¡ DeletiÄ\u0087,http://dbpedia.org/resource/Miloš_Nikolić,http://dbpedia.org/resource/Miloš_Deletić
+2,19,Miroslav VuliÄ\u0087eviÄ\u0087,http://dbpedia.org/resource/Miroslav_Klose,http://dbpedia.org/resource/Miroslav_Vulićević
+2,20,Igor Ä\u0090uriÄ\u0087,http://de.dbpedia.org/resource/Igor_Strgar,http://dbpedia.org/resource/Igor_Đurić_(Serbian_footballer)
+2,21,Nemanja SekuliÄ\u0087,,http://dbpedia.org/resource/Nemanja_Sekulić
+2,22,Nemanja SupiÄ\u0087,,http://dbpedia.org/resource/Nemanja_Supić
+2,24,Goran SmiljaniÄ\u0087,,http://dbpedia.org/resource/Goran_Smiljanić
+2,25,Marko KordiÄ\u0087,http://dbpedia.org/resource/Marcus_Antonius_(orator),http://dbpedia.org/resource/Marko_Kordić
+2,26,Vladan PavloviÄ\u0087,,http://dbpedia.org/resource/Vladan_Pavlović
+2,29,Ä\u0090orÄ\u0091e JokiÄ\u0087,,http://dbpedia.org/resource/Đorđe_Jokić
+2,31,Vladimir BrankoviÄ\u0087,http://dbpedia.org/resource/Uladzimir_Makowski,http://dbpedia.org/resource/Vladimir_Branković
+2,35,Milan BojoviÄ\u0087,http://dbpedia.org/resource/A.C._Milan,http://dbpedia.org/resource/Milan_Bojović
+2,38,Miroslav StevanoviÄ\u0087,,http://dbpedia.org/resource/Miroslav_Stevanović
+2,40,Aleksandar KesiÄ\u0087,http://dbpedia.org/resource/Aleksandar_Pešić,http://dbpedia.org/resource/Aleksandar_Kesić

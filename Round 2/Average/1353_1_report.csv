@@ -1,0 +1,9 @@
+F1: 0.53333,Precision: 0.53333,Recall: 0.53333,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,B. name,http://dbpedia.org/resource/Billy_Name,http://dbpedia.org/resource/Burmese_honorific http://dbpedia.org/resource/Burmese_name http://dbpedia.org/resource/Burmese_honorifics http://dbpedia.org/resource/Tekkatho http://dbpedia.org/resource/Burmese_honorfic http://dbpedia.org/resource/Burmese_names http://dbpedia.org/resource/Burnese_names
+1,2,D. Chung,http://dbpedia.org/resource/Park_Chung-hee,http://dbpedia.org/resource/Doreen_Chung
+1,6,E. Kabua,http://dbpedia.org/resource/Amata_Kabua,http://dbpedia.org/resource/Emlain_Kabua
+1,7,S. Koroma,http://dbpedia.org/resource/Johnny_Paul_Koroma,http://dbpedia.org/resource/Sylvanus_Koroma
+1,9,B. P. Martínez,http://es.dbpedia.org/resource/Mucio_P._Martínez,http://dbpedia.org/resource/Berta_Puga http://dbpedia.org/resource/Bertha_Puga_Martinez http://dbpedia.org/resource/Berta_Puga_Martínez http://dbpedia.org/resource/Bertha_Puga_Martínez
+1,13,H. A. Samatar,http://dbpedia.org/resource/Mohammad_Ali_Samatar,http://dbpedia.org/resource/Hawa_Abdi_Samatar
+1,14,P. Robinson,http://dbpedia.org/resource/Peter_Robinson_(Northern_Ireland_politician),http://dbpedia.org/resource/Patricia_Robinson

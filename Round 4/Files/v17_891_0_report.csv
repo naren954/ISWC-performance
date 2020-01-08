@@ -1,0 +1,8 @@
+"F1: 0.33333","Precision: 0.33333","Recall: 0.33333"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","2","R. Drummond","http://dbpedia.org/resource/Roberto_Drummond","http://dbpedia.org/resource/Roscoe_Drummond"
+"0","3","M. Davidson","http://dbpedia.org/resource/Max_Davidson","http://dbpedia.org/resource/Michael_Davidson_(journalist)"
+"0","5","J. Perry","http://dbpedia.org/resource/John_Perry_(musician)","http://dbpedia.org/resource/James_Perry_(journalist)"
+"0","7","D. Johnston","http://dbpedia.org/resource/David_Johnston","http://dbpedia.org/resource/Dick_Johnston_(journalist)"
+"0","8","C. Jennings","http://dbpedia.org/resource/Connor_Jennings","http://dbpedia.org/resource/Charles_Jennings_(journalist) http://dbpedia.org/resource/Charles_Jennings_(Journalist)"
+"0","9","A. Dunnett","http://dbpedia.org/resource/Dorothy_Dunnett","http://dbpedia.org/resource/Sir_Alastair_Dunnett http://dbpedia.org/resource/Alastair_Dunnett http://dbpedia.org/resource/Alastair_MacTavish_Dunnett"

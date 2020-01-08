@@ -1,0 +1,4 @@
+F1: 0.83333,Precision: 0.83333,Recall: 0.83333,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,4,* D. G. Bradman,http://dbpedia.org/resource/Don_Bradman,http://dbpedia.org/resource/Captain_(cricket) http://dbpedia.org/resource/Cricket_captaincy http://dbpedia.org/resource/Cricket_captain http://dbpedia.org/resource/Cricket_captains http://dbpedia.org/resource/Role_of_a_cricket_captain http://dbpedia.org/resource/Vice_Captain_(cricket)
+0,9,+ D. Tallon,http://dbpedia.org/resource/Don_Tallon,http://dbpedia.org/resource/Wicket_keeping http://dbpedia.org/resource/Wicket-keeping http://dbpedia.org/resource/Wicket-Keeper http://dbpedia.org/resource/Occasional_Wicket-keeper http://dbpedia.org/resource/Wicket-keeper http://dbpedia.org/resource/Wicket_keeper http://dbpedia.org/resource/Wicketkeeper http://dbpedia.org/resource/Wicket-keeping_(cricket)

@@ -1,0 +1,6 @@
+"F1: 0.69231","Precision: 0.69231","Recall: 0.69231"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","3","B. Walsh","http://dbpedia.org/resource/Brian_Walsh_(ice_hockey)","http://dbpedia.org/resource/William_J._Walsh_(curler) http://dbpedia.org/resource/Billy_Walsh_(curler)"
+"0","6","B. Grant","http://dbpedia.org/resource/Benny_Grant","http://dbpedia.org/resource/Bill_Grant_(curler) http://dbpedia.org/resource/William_A._Grant"
+"0","11","A. Welsh","http://dbpedia.org/resource/Ab_Welsh","http://dbpedia.org/resource/Alex_Welsh_(curler)"
+"0","12","A. Langlois","http://dbpedia.org/resource/Al_Langlois","http://dbpedia.org/resource/Al_Langlois_(curler) http://dbpedia.org/resource/Allan_D._Langlois"

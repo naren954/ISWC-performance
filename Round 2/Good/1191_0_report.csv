@@ -1,0 +1,8 @@
+F1: 0.86667,Precision: 0.86667,Recall: 0.86667,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,E. o. Brunswick-Wolfenbüttel,http://dbpedia.org/resource/Elisabeth_Christine_of_Brunswick-Wolfenbüttel,http://dbpedia.org/resource/Elisabeth_of_Brunswick-Wolfenbuttel_(1567–1618) http://dbpedia.org/resource/Elisabeth_of_Brunswick-Wolfenbüttel_(1567-1618) http://dbpedia.org/resource/Elisabeth_of_Brunswick-Wolfenbuttel_(1567-1618) http://dbpedia.org/resource/Elisabeth_of_Brunswick-Wolfenbüttel_(1567–1618)
+0,5,E. o. Anhalt-Zerbst,http://dbpedia.org/resource/Catherine_the_Great,http://dbpedia.org/resource/Elisabeth_of_Anhalt-Zerbst
+0,23,C. o. Brunswick-Wolfenbüttel,http://dbpedia.org/resource/Elisabeth_Christine_of_Brunswick-Wolfenbüttel,http://dbpedia.org/resource/Clara_of_Brunswick-Wolfenbuttel http://dbpedia.org/resource/Clara_of_Brunswick-Wolfenbüttel
+0,31,C. o. Austria,http://dbpedia.org/resource/Maria_Christina_of_Austria,http://dbpedia.org/resource/Catherine_of_Austria_(1420-1493) http://dbpedia.org/resource/Catherine_of_Austria_(1420–1493)
+0,32,C. o. Bourbon,"http://dbpedia.org/resource/Louis,_Grand_Dauphin",http://dbpedia.org/resource/Catharine_of_Bourbon http://dbpedia.org/resource/Catherine_de_Bourbon_(1440-1469)
+0,41,B. o. Brandenburg-Ansbach-Kulmbach,http://dbpedia.org/resource/Caroline_of_Ansbach,http://dbpedia.org/resource/Barbara_of_Brandenburg-Ansbach-Kulmbach

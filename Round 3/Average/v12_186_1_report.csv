@@ -1,0 +1,42 @@
+F1: 0.67213,Precision: 0.67213,Recall: 0.67213,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,4,A. Miller,http://dbpedia.org/resource/Arthur_Miller,http://dbpedia.org/resource/Adir_Miller
+1,5,D. McDermott,http://dbpedia.org/resource/Marc_McDermott,http://dbpedia.org/resource/Dylan_McDermott http://dbpedia.org/resource/Dylan_mcdermott http://dbpedia.org/resource/Dylan_mcdermot http://dbpedia.org/resource/Dylan_McDermitt
+1,6,G. McKee,http://dbpedia.org/resource/Lyra_McKee,http://dbpedia.org/resource/Gina_Mckee http://dbpedia.org/resource/Gina_McKee
+1,8,C. Richard,http://dbpedia.org/resource/Richard_Attenborough,"http://dbpedia.org/resource/Real_As_I_Wanna_Be http://dbpedia.org/resource/Cliff_Richard http://dbpedia.org/resource/Cliff_Richard_and_the_Shadows http://dbpedia.org/resource/It's_Cliff_Richard! http://dbpedia.org/resource/International_Cliff_Richard_Movement http://dbpedia.org/resource/Just..._Fabulous_Rock_'n'_Roll http://dbpedia.org/resource/Sir_Cliff_Richard http://dbpedia.org/resource/Just_Fabulous_Rock_'n'_Roll http://dbpedia.org/resource/Richard,_Cliff http://dbpedia.org/resource/Wind_Me_Up http://dbpedia.org/resource/Sir_Cliff http://dbpedia.org/resource/Cliff_Richard_&_the_Drifters http://dbpedia.org/resource/Cliff_Richard_&_The_Shadows http://dbpedia.org/resource/Harry_Rodger_Webb http://dbpedia.org/resource/Cliff_Richard_&_the_Shadows"
+1,9,M. Worden,http://dbpedia.org/resource/Hank_Worden,http://dbpedia.org/resource/Marc_Worden
+1,12,M. Douglas,http://dbpedia.org/resource/Melvyn_Douglas,"http://dbpedia.org/resource/Michael_Douglas http://dbpedia.org/resource/Douglas,_Michael http://dbpedia.org/resource/Michael_dougless http://dbpedia.org/resource/Michael_Kirk_Douglas http://dbpedia.org/resource/Michael_douglas"
+1,14,L. Hamilton,http://dbpedia.org/resource/Linda_Hamilton,http://dbpedia.org/resource/Lloyd_Hamilton
+1,19,M. Simon,http://dbpedia.org/resource/Marie_Jalowicz-Simon,http://dbpedia.org/resource/Michel_Simon
+1,22,M. Okada,http://dbpedia.org/resource/Masumi_Okada,http://dbpedia.org/resource/Mariko_Okada
+1,28,V. Staal,http://dbpedia.org/resource/Frits_Staal,http://dbpedia.org/resource/Viktor_Staal
+1,32,R. Quintana,http://dbpedia.org/resource/Enrique_Fuentes_Quintana,http://dbpedia.org/resource/Rosita_Quintana
+1,33,G. Barraud,http://dbpedia.org/resource/François_Barraud,http://dbpedia.org/resource/George_Barraud
+1,34,I. Rich,http://dbpedia.org/resource/Adrienne_Rich,http://dbpedia.org/resource/Irene_Rich
+1,35,Z. Dan,http://dbpedia.org/resource/Zhang_Dan,http://dbpedia.org/resource/Dan_Zhao http://dbpedia.org/resource/Zhao_Dan
+1,38,J. H. Murray,http://dbpedia.org/resource/Archibald_Murray,"http://dbpedia.org/resource/Murray,_J._Harold http://dbpedia.org/resource/J._Harold_Murray"
+1,39,R. Hare,http://dbpedia.org/resource/George_III_of_the_United_Kingdom,http://dbpedia.org/resource/Robertson_Hare http://dbpedia.org/resource/J._Robertson_Hare
+1,41,P. O'Brien,http://dbpedia.org/resource/Parry_O'Brien,http://dbpedia.org/resource/Pat_O'Brien_(actor)
+1,47,B. Langford,http://dbpedia.org/resource/Frances_Langford,http://dbpedia.org/resource/Bonnie_Langford http://dbpedia.org/resource/Bonnie_Langford_Now
+1,48,C. Chau,http://dbpedia.org/resource/Ngô_Bảo_Châu,http://dbpedia.org/resource/Chrissie_Chow http://dbpedia.org/resource/Chrissie_Chau http://dbpedia.org/resource/Chrissy_Chau
+1,49,M. Smith,http://dbpedia.org/resource/Mamie_Smith,http://dbpedia.org/resource/Matthew_Robert_Smith http://dbpedia.org/resource/Matt_Smith_(Doctor_Who) http://dbpedia.org/resource/Matt_Smith_(actor) http://dbpedia.org/resource/Matt_Smith_(British_actor)
+1,51,R. Ishibashi,http://dbpedia.org/resource/Tanzan_Ishibashi,http://dbpedia.org/resource/Ishibashi_Renji http://dbpedia.org/resource/Renji_Ishibashi http://dbpedia.org/resource/石橋蓮司
+1,54,K. Tae-woo,http://dbpedia.org/resource/Roh_Tae-woo,http://dbpedia.org/resource/Kim_Tae-woo_(actor)
+1,58,J. Davis,http://dbpedia.org/resource/Jimmie_Davis,http://dbpedia.org/resource/Jim_Davis_(actor)
+1,59,Y. Okada,http://dbpedia.org/resource/Yukiko_Okada,http://dbpedia.org/resource/Yoshiko_Okada
+1,64,Y. Yuh-jung,http://dbpedia.org/resource/Carl_Jung,http://dbpedia.org/resource/Yun_Yeo-jeong http://dbpedia.org/resource/Youn_Yuh-jung http://dbpedia.org/resource/Youn_Yuh-Jung http://dbpedia.org/resource/Yeo-jong_Yun http://dbpedia.org/resource/Yoon_Yeo-jeong http://dbpedia.org/resource/Yoon_Yeo_Jeong http://dbpedia.org/resource/Yun_Yeo-Jeong http://dbpedia.org/resource/Yun_Yeo-Jong http://dbpedia.org/resource/Yeo-Jong_Yun http://dbpedia.org/resource/Yun_Yeo_Jeong http://dbpedia.org/resource/Yun_Yeo-jong
+1,69,R. Benedict,http://dbpedia.org/resource/Ruth_Benedict,"http://dbpedia.org/resource/Rick_Benedetto http://dbpedia.org/resource/Benedetto,_Dick http://dbpedia.org/resource/Benedetto,_Riccardo http://dbpedia.org/resource/Rich_Benedict http://dbpedia.org/resource/Benedetto,_Rich http://dbpedia.org/resource/Benedict,_Rich http://dbpedia.org/resource/Rick_Benedict http://dbpedia.org/resource/Benedict,_Riccardo http://dbpedia.org/resource/Riccardo_Benedetto http://dbpedia.org/resource/Benedict,_Richard http://dbpedia.org/resource/Benedict,_Dick http://dbpedia.org/resource/Rich_Benedetto http://dbpedia.org/resource/Riccardo_Benedict http://dbpedia.org/resource/Dick_Benedetto http://dbpedia.org/resource/Benedetto,_Richard http://dbpedia.org/resource/Richard_Benedict http://dbpedia.org/resource/Dick_Benedict"
+1,79,L. Devine,http://dbpedia.org/resource/Andy_Devine,http://dbpedia.org/resource/Loretta_DeVine http://dbpedia.org/resource/Loretta_Devine
+1,82,M. Scott,http://dbpedia.org/resource/Gordon_Scott,http://dbpedia.org/resource/Margaretta_Scott http://dbpedia.org/resource/Margueretta_Scott
+1,83,K. Scott,http://dbpedia.org/resource/Scott_Walker_(politician),http://dbpedia.org/resource/Ken_Scott http://dbpedia.org/resource/Ken_Scott_(Record_producer)
+1,88,J. Winter,http://dbpedia.org/resource/Johnny_Winter,http://dbpedia.org/resource/Judy_Winter http://dbpedia.org/resource/Beate_Richard
+1,90,M. Barrault,http://dbpedia.org/resource/Jean-Louis_Barrault,http://dbpedia.org/resource/MarieChristine_Barrault http://dbpedia.org/resource/Marie-Christine_Barrault
+1,93,S. Seong-il,http://dbpedia.org/resource/Kim_Il-sung,http://dbpedia.org/resource/Shin_Sung-il http://dbpedia.org/resource/Sung-il_Shin http://dbpedia.org/resource/Shin_Seong-il
+1,94,D. Fowley,http://dbpedia.org/resource/Kim_Fowley,http://dbpedia.org/resource/Douglas_V._Fowley http://dbpedia.org/resource/Doug_Fowley http://dbpedia.org/resource/Douglas_Fowley
+1,97,P. Driscoll,http://dbpedia.org/resource/Paddy_Driscoll,http://dbpedia.org/resource/Patricia_Driscoll
+1,98,C. Talmadge,http://dbpedia.org/resource/Norma_Talmadge,http://dbpedia.org/resource/Constance_Talmadge
+1,99,I. Petrovich,http://dbpedia.org/resource/Paul_I_of_Russia,http://dbpedia.org/resource/Ivan_Petrovich http://dbpedia.org/resource/Iván_Petrovich
+1,111,H. Gibson,http://dbpedia.org/resource/Henry_Gibson,http://dbpedia.org/resource/Hoot_Gibson
+1,118,J. Nicholson,http://dbpedia.org/resource/William_Nicholson_(writer),"http://dbpedia.org/resource/Jack_Nicholson_movies http://dbpedia.org/resource/Nicholson,_John_Joseph http://dbpedia.org/resource/Nicholson,_John http://dbpedia.org/resource/Jack_nicholson_(filmography) http://dbpedia.org/resource/John_Joseph_Nicholson http://dbpedia.org/resource/List_of_Jack_Nicholson_films http://dbpedia.org/resource/Jack_Nicolson http://dbpedia.org/resource/Filmography_of_Jack_Nicholson http://dbpedia.org/resource/Jack_nickelson http://dbpedia.org/resource/Jack_Nicholson http://dbpedia.org/resource/I_warned_him http://dbpedia.org/resource/John_J._Nicholson http://dbpedia.org/resource/Jack_Nickolson http://dbpedia.org/resource/Jack_nicholson_movies http://dbpedia.org/resource/John_""Jack""_Joseph_Nicholson http://dbpedia.org/resource/Jack_Nickelson http://dbpedia.org/resource/Jack_nicholson"
+1,120,J. Moss,http://dbpedia.org/resource/Jeff_Moss,http://dbpedia.org/resource/Jesse_Moss_(actor)
+1,121,M. Machácek,http://dbpedia.org/resource/Alex_Machacek,http://dbpedia.org/resource/Miroslav_Machacek http://dbpedia.org/resource/Miroslav_Machácek http://dbpedia.org/resource/Miroslav_Macháček

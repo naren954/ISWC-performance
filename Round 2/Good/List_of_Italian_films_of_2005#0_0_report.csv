@@ -1,0 +1,7 @@
+F1: 0.82759,Precision: 0.82759,Recall: 0.82759,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,9,The Fever,http://dbpedia.org/resource/The_Fever_(band),http://dbpedia.org/resource/La_febbre http://dbpedia.org/resource/The_Fever_(2005_film)
+0,16,Manuale d'amore,http://dbpedia.org/resource/Manual_of_Love,http://dbpedia.org/resource/Manuale_d'amore
+0,19,Onde,http://dbpedia.org/resource/Mille_Lune_Mille_Onde,http://dbpedia.org/resource/Onde http://dbpedia.org/resource/Waves_(film)
+0,27,Texas,http://dbpedia.org/resource/Texas_(band),http://dbpedia.org/resource/Texas_(2005_film)
+0,30,Il vento fa il suo giro,http://dbpedia.org/resource/The_Wind_Blows_Round,http://dbpedia.org/resource/Il_vento_fa_il_suo_giro

@@ -1,0 +1,4 @@
+F1: 0.84615,Precision: 0.84615,Recall: 0.84615,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,Cold Bay Volcano,http://dbpedia.org/resource/Frosty_Peak_Volcano,http://dbpedia.org/resource/Cold_Bay_Volcano
+0,10,Brown Mountain,http://dbpedia.org/resource/Brown_Mountain_forest,"http://dbpedia.org/resource/Brown_Mountain_(Klamath_County,_Oregon) http://dbpedia.org/resource/Brown_Mountain_(Oregon)"

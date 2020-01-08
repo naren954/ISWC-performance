@@ -1,0 +1,5 @@
+"F1: 0.40000","Precision: 0.40000","Recall: 0.40000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"5","1","Lewis","http://dbpedia.org/resource/C._S._Lewis","http://dbpedia.org/resource/Reg_lewis http://dbpedia.org/resource/Reg_Lewis"
+"5","32","Jones","http://dbpedia.org/resource/David_Bowie","http://dbpedia.org/resource/Bryn_Jones_(footballer,_born_1912) http://dbpedia.org/resource/Bryn_Jones_(footballer_born_1912)"
+"5","40","Sloan","http://dbpedia.org/resource/Alfred_P._Sloan_Foundation","http://dbpedia.org/resource/JW_Sloan http://dbpedia.org/resource/Paddy_Sloan http://dbpedia.org/resource/Josiah_Sloan http://dbpedia.org/resource/Joshua_Walter_Sloan http://dbpedia.org/resource/Joshua_Sloan"

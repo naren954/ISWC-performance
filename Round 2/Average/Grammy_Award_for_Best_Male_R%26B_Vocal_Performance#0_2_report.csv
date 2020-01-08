@@ -1,0 +1,4 @@
+F1: 0.66667,Precision: 0.66667,Recall: 0.66667,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,26,Power of Love\/Love Power,"http://dbpedia.org/resource/Heaven,_Heartache_and_the_Power_of_Love",http://dbpedia.org/resource/Power_of_Love/Love_Power http://dbpedia.org/resource/Power_of_Love_(Luther_Vandross_song) http://dbpedia.org/resource/Power_Of_Love/Love_Power
+2,27,Heaven and Earth,http://dbpedia.org/resource/Heaven_&_Earth_(Yes_album),http://dbpedia.org/resource/Heaven_and_Earth_(1992_album) http://dbpedia.org/resource/Heaven_and_Earth_(Al_Jarreau_album)

@@ -1,0 +1,9 @@
+F1: 0.36364,Precision: 0.36364,Recall: 0.36364,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,Auburn hair,"http://dbpedia.org/resource/Auburn_Hills,_Michigan",http://dbpedia.org/resource/Abram-color http://dbpedia.org/resource/Auburn_(colour) http://dbpedia.org/resource/Abram_(color) http://dbpedia.org/resource/Auburn_hair http://dbpedia.org/resource/Auburn_color http://dbpedia.org/resource/Auburn_(color)
+0,4,Aqua,http://dbpedia.org/resource/Aqua_(record_producer),http://dbpedia.org/resource/Aqua_color http://dbpedia.org/resource/Aqua_(colour) http://dbpedia.org/resource/Aqua_(color)
+0,6,Android green,http://dbpedia.org/resource/Android_(operating_system),http://dbpedia.org/resource/Android_green
+0,7,Amber,http://dbpedia.org/resource/Amber_Marks,http://dbpedia.org/resource/SAE/ECE_amber http://dbpedia.org/resource/Yellow-orange http://dbpedia.org/resource/Amber_(colour) http://dbpedia.org/resource/Orange-yellow http://dbpedia.org/resource/Amber_(color) http://dbpedia.org/resource/UNECE_Amber http://dbpedia.org/resource/Amber_color
+0,8,Amaranth,http://dbpedia.org/resource/Amaranth_(album),http://dbpedia.org/resource/Amaranth_pink http://dbpedia.org/resource/Amaranth_(color) http://dbpedia.org/resource/Amaranth_purple
+0,9,Alizarin crimson,http://dbpedia.org/resource/Alizarin,http://dbpedia.org/resource/Alizarin_crimson_(color) http://dbpedia.org/resource/Alizarine_crimson_(color)
+0,11,Acid green,http://dbpedia.org/resource/Light_Green_SF,http://dbpedia.org/resource/Acid_green

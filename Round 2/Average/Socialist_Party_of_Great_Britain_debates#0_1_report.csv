@@ -1,0 +1,34 @@
+F1: 0.66667,Precision: 0.66667,Recall: 0.66667,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,4,E. J. B. Allen,http://dbpedia.org/resource/Joel_Asaph_Allen,http://dbpedia.org/resource/E.J.B._Allen http://dbpedia.org/resource/E._J._B._Allen http://dbpedia.org/resource/Ernest_John_Bartlett_Allen http://dbpedia.org/resource/EJB_Allen
+1,14,E. J. B. Allen,http://dbpedia.org/resource/Joel_Asaph_Allen,http://dbpedia.org/resource/E.J.B._Allen http://dbpedia.org/resource/E._J._B._Allen http://dbpedia.org/resource/Ernest_John_Bartlett_Allen http://dbpedia.org/resource/EJB_Allen
+1,15,T. A. Jackson,http://dbpedia.org/resource/Stonewall_Jackson,http://dbpedia.org/resource/Thomas_Alfred_Jackson http://dbpedia.org/resource/Thomas_A._Jackson http://dbpedia.org/resource/T._A._Jackson http://dbpedia.org/resource/TA_Jackson
+1,19,"Albion Richardson, MP",http://dbpedia.org/resource/John_Richardson_(Canadian_MP),http://dbpedia.org/resource/Albion_Richardson
+1,33,J. T. Murphy,http://dbpedia.org/resource/William_J._Murphy_(Idaho_politician),http://dbpedia.org/resource/JT_Murphy http://dbpedia.org/resource/J.T._Murphy http://dbpedia.org/resource/J._T._Murphy http://dbpedia.org/resource/John_Thomas_Murphy http://dbpedia.org/resource/Jack_Murphy_(Communist) http://dbpedia.org/resource/J_T_Murphy
+1,50,Jack Gaster,http://dbpedia.org/resource/Moses_Gaster,http://dbpedia.org/resource/Jack_Gaster
+1,60,Eva Hubback,http://dbpedia.org/resource/Catherine_Hubback,http://dbpedia.org/resource/Eva_Marian_Hubback http://dbpedia.org/resource/Eva_M._Hubback http://dbpedia.org/resource/Eva_Hubback
+1,61,Frank Ridley,http://dbpedia.org/resource/Matt_Ridley,http://dbpedia.org/resource/FA_Ridley http://dbpedia.org/resource/F.A._Ridley http://dbpedia.org/resource/F_A_Ridley http://dbpedia.org/resource/Frank_Ridley http://dbpedia.org/resource/F._A._Ridley
+1,69,Jock Haston,http://dbpedia.org/resource/Jock_Mahoney,http://dbpedia.org/resource/Jock_Haston
+1,79,Jock Haston,http://dbpedia.org/resource/Jock_Mahoney,http://dbpedia.org/resource/Jock_Haston
+1,82,Jock Haston,http://dbpedia.org/resource/Jock_Mahoney,http://dbpedia.org/resource/Jock_Haston
+1,88,John Parker,http://dbpedia.org/resource/John_M._Parker,http://dbpedia.org/resource/John_Parker_(UK_politician) http://dbpedia.org/resource/John_Parker_(British_politician) http://dbpedia.org/resource/Herbert_John_Harvey_Parker
+1,115,Sybil Morrison,http://dbpedia.org/resource/Sybil_Thorndike,http://dbpedia.org/resource/Sybil_Morrison
+1,116,Sybil Morrison,http://dbpedia.org/resource/Sybil_Thorndike,http://dbpedia.org/resource/Sybil_Morrison
+1,137,Oliver Brown,http://dbpedia.org/resource/Norman_O._Brown,http://dbpedia.org/resource/Oliver_Brown_(Scottish_activist) http://dbpedia.org/resource/Oliver_Brown_(Scottish_politician) http://dbpedia.org/resource/Oliver_Brown_Award http://dbpedia.org/resource/Scottish_Socialist_Party_(1942) http://dbpedia.org/resource/W._Oliver_Brown http://dbpedia.org/resource/William_Oliver_Brown
+1,160,Edward Martell,http://dbpedia.org/resource/Edward_Martell_(politician),http://dbpedia.org/resource/Edward_Martell http://dbpedia.org/resource/Ed_Martell
+1,197,David Ramsay Steele,http://dbpedia.org/resource/David_Ramsay_(Ontario_politician),http://dbpedia.org/resource/David_Ramsay_Steele http://dbpedia.org/resource/David_Ramsey_Steele
+1,200,David Ramsay Steele,http://dbpedia.org/resource/David_Ramsay_(Ontario_politician),http://dbpedia.org/resource/David_Ramsay_Steele http://dbpedia.org/resource/David_Ramsey_Steele
+1,206,David Ramsay Steele,http://dbpedia.org/resource/David_Ramsay_(Ontario_politician),http://dbpedia.org/resource/David_Ramsay_Steele http://dbpedia.org/resource/David_Ramsey_Steele
+1,213,William Shepherd,"http://dbpedia.org/resource/William_Morrison,_1st_Viscount_Dunrossil",http://dbpedia.org/resource/William_Shepherd_(UK_politician) http://dbpedia.org/resource/William_Shepherd_(British_politician)
+1,221,David Martin,http://dbpedia.org/resource/David_Martin_(Scottish_politician),http://dbpedia.org/resource/David_Martin_(English_politician)
+1,239,Lady Olga Maitland & Virginia Bottomley,http://dbpedia.org/resource/Virginia_Bottomley,http://dbpedia.org/resource/Lady_Olga_Haviland_Maitland http://dbpedia.org/resource/Lady_Olga_Maitland http://dbpedia.org/resource/Olga_Maitland http://dbpedia.org/resource/Lady_Olga_Hay
+1,244,"Tom Sackville, MP",http://dbpedia.org/resource/Tom_Watson_(Labour_politician),http://dbpedia.org/resource/Tom_Sackville http://dbpedia.org/resource/Thomas_Geoffrey_Sackville http://dbpedia.org/resource/Thomas_George_Sackville
+1,254,"Richard Balfe, MEP",http://dbpedia.org/resource/Richard_Howitt_(politician),http://dbpedia.org/resource/Richard_Balfe http://dbpedia.org/resource/Baron_Balfe
+1,260,David Selbourne,http://de.dbpedia.org/resource/David_Serrano,"http://dbpedia.org/resource/Selbourne,_David http://dbpedia.org/resource/David_Selbourne"
+1,294,"Ron Brown, MP",http://dbpedia.org/resource/Gordon_Brown,http://dbpedia.org/resource/Ronald_Brown_(English_politician) http://dbpedia.org/resource/Ronald_Brown_(British_politician) http://dbpedia.org/resource/Ronald_William_Brown
+1,331,Julian Lewis,http://dbpedia.org/resource/Julian_Lewis,http://dbpedia.org/resource/Julian_Lewis_MP http://dbpedia.org/resource/Julian_Lewis_(politician) http://dbpedia.org/resource/Julian_Lewis_(MP) http://dbpedia.org/resource/Julian_Murray_Lewis http://dbpedia.org/resource/Julian_Lewis_(New_Forest_East)
+1,342,Cllr. Roger Lord,"http://dbpedia.org/resource/Roger_Roberts,_Baron_Roberts_of_Llandudno","http://dbpedia.org/resource/Clacton_by-election http://dbpedia.org/resource/Tim_Young_(politician) http://dbpedia.org/resource/Roger_Lord_(politician) http://dbpedia.org/resource/Clacton_by-election_2014 http://dbpedia.org/resource/Clacton_by-election,_2014 http://dbpedia.org/resource/2014_Clacton_by-election"
+1,356,John Papworth,http://dbpedia.org/resource/John_Buonarotti_Papworth,http://dbpedia.org/resource/John_Papworth
+1,366,Richard W. Bourne,http://dbpedia.org/resource/Richard_W._Thompson,http://dbpedia.org/resource/Richard_W._Bourne
+1,408,"Richard Balfe, MEP",http://dbpedia.org/resource/Richard_Howitt_(politician),http://dbpedia.org/resource/Richard_Balfe http://dbpedia.org/resource/Baron_Balfe
+1,412,Eamonn Butler,http://dbpedia.org/resource/Eamonn_Coghlan,http://dbpedia.org/resource/Eamonn_Butler

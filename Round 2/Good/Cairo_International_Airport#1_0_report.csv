@@ -1,0 +1,4 @@
+F1: 0.84615,Precision: 0.84615,Recall: 0.84615,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,8,Lufthansa Cargo,http://dbpedia.org/resource/Lufthansa,http://dbpedia.org/resource/Lufthansa_cargo_hub_dispute http://dbpedia.org/resource/Lufthansa_Cargo_AG http://dbpedia.org/resource/Lufthansa_Cargo http://dbpedia.org/resource/Lufthansa_Cargo_dispute
+0,11,RAM Cargo,http://dbpedia.org/resource/Shepherd_Rams,http://dbpedia.org/resource/RAM_Cargo

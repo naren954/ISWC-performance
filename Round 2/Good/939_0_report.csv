@@ -1,0 +1,5 @@
+F1: 0.94231,Precision: 0.94231,Recall: 0.94231,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,É. Poirier,http://dbpedia.org/resource/Paul_Poirier,http://dbpedia.org/resource/Émile_Poirier http://dbpedia.org/resource/Emile_Poirier
+0,19,T. Bertuzzi,http://dbpedia.org/resource/Todd_Bertuzzi,http://dbpedia.org/resource/Tyler_Bertuzzi
+0,42,S. Williams,http://dbpedia.org/resource/Shaun_Williams_(American_football),http://dbpedia.org/resource/Stephon_Williams

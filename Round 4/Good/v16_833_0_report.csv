@@ -1,0 +1,6 @@
+F1: 0.83333,Precision: 0.83333,Recall: 0.83333,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,5,Bocock-Isbell House,http://dbpedia.org/resource/Isbell_House,http://dbpedia.org/resource/Bocock-Isbell_House
+0,10,Big Creek Bridge 2,http://dbpedia.org/resource/Big_Creek_Bridge_(Oregon),http://dbpedia.org/resource/Big_Creek_Bridge_2
+0,20,Beaver Creek Bridge,"http://dbpedia.org/resource/Beaver_Creek_Bridge_(Schleswig,_Iowa)","http://dbpedia.org/resource/Beaver_Creek_Bridge_(Perry,_Iowa)"
+0,21,Beaver Creek Bridge,"http://dbpedia.org/resource/Beaver_Creek_Bridge_(Schleswig,_Iowa)","http://dbpedia.org/resource/Beaver_Creek_Bridge_(Electra,_Texas)"

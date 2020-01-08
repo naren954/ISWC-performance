@@ -1,0 +1,4 @@
+F1: 0.86667,Precision: 0.86667,Recall: 0.86667,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,B. U,http://dbpedia.org/resource/Lyndon_B._Johnson,http://dbpedia.org/resource/Ba_U
+0,7,A. Koroma,http://dbpedia.org/resource/Johnny_Paul_Koroma,http://dbpedia.org/resource/Alice_Koroma

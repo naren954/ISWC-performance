@@ -1,0 +1,5 @@
+F1: 0.78571,Precision: 0.78571,Recall: 0.78571,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,Europeans,http://dbpedia.org/resource/Europe,http://dbpedia.org/resource/European_Figure_Skating_Championships http://dbpedia.org/resource/European_figure_skating_championships http://dbpedia.org/resource/European_Figure_Skating_Championship http://dbpedia.org/resource/ISU_European_Figure_Skating_Championships
+0,8,Gardena,http://dbpedia.org/resource/Egna_Trophy,http://dbpedia.org/resource/Gardena_Spring_Trophy http://dbpedia.org/resource/Gardena_Trophy http://dbpedia.org/resource/Val_Gardena_Trophy
+0,19,EYOF,http://dbpedia.org/resource/European_Youth_Olympic_Festival,http://dbpedia.org/resource/Figure_skating_at_the_European_Youth_Olympic_Festival http://dbpedia.org/resource/Figure_skating_at_the_european_youth_olympic_festival http://dbpedia.org/resource/Figure_skating_at_the_European_Youth_Olympic_Days

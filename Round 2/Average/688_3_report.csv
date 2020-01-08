@@ -1,0 +1,6 @@
+F1: 0.69231,Precision: 0.69231,Recall: 0.69231,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,1,Buna,http://dbpedia.org/resource/Bojana_(river),http://dbpedia.org/resource/Buna_(Neretva) http://dbpedia.org/resource/Buna_(river) http://dbpedia.org/resource/Buna_River_(Neretva)
+3,3,Deschutes River,http://dbpedia.org/resource/Deschutes_River_(Oregon),http://dbpedia.org/resource/Deschutes_River_(Washington)
+3,6,Owens River,http://dbpedia.org/resource/Ovens_River,http://dbpedia.org/resource/Owens_River
+3,13,Coyote Creek,http://dbpedia.org/resource/Coyote_Creek_(Long_Tom_River),http://dbpedia.org/resource/Coyote_Creek_(Santa_Clara_County)

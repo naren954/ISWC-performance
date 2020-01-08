@@ -1,0 +1,15 @@
+F1: 0.72917,Precision: 0.72917,Recall: 0.72917,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,Halloween,http://dbpedia.org/resource/Halloween_(1978_film),http://dbpedia.org/resource/Halloween_(Dave_Matthews_Band_song)
+0,13,George of the Jungle,http://dbpedia.org/resource/George_of_the_Jungle_(film),http://dbpedia.org/resource/George_of_the_Jungle_(2007) http://dbpedia.org/resource/George_of_the_Jungle_(2007_TV_series)
+0,23,Gangsta?,http://fr.dbpedia.org/resource/Gangsta_(film),http://dbpedia.org/resource/Gangsta?_(Tinchy_Stryder_song)
+0,27,Fuego en la sangre,http://dbpedia.org/resource/Fuego_en_la_sangre_(TV_series),http://dbpedia.org/resource/Fuego_en_la_Sangre_(telenovela) http://dbpedia.org/resource/Fuego_en_la_sangre_(telenovela) http://dbpedia.org/resource/Fuego_En_La_Sangre
+0,29,Friend of the Devil,http://dbpedia.org/resource/Friend_of_the_Devil_(novel),http://dbpedia.org/resource/Friend_Of_The_Devil http://dbpedia.org/resource/Friend_of_the_Devil http://dbpedia.org/resource/Friend_of_the_devil
+0,30,Freddie Freeloader,http://dbpedia.org/resource/Freddie_the_Freeloader's_Christmas_Dinner,http://dbpedia.org/resource/Freddie_Freeloader
+0,35,Famous,http://dbpedia.org/resource/Famous_(Puddle_of_Mudd_album),http://dbpedia.org/resource/Famous_(Tinchy_Stryder_song)
+0,36,Eva Luna,http://dbpedia.org/resource/Eva_Luna_(TV_series),http://dbpedia.org/resource/Eva_Luna_(telenovela) http://dbpedia.org/resource/Eva_Luna_(soap_opera)
+0,37,Esperança,http://dbpedia.org/resource/Esperança_(TV_series),http://dbpedia.org/resource/Esperanca_(telenovela) http://dbpedia.org/resource/Esperança_(telenovela)
+0,39,Esperança,http://dbpedia.org/resource/Esperança_(TV_series),http://dbpedia.org/resource/Esperanca_(telenovela) http://dbpedia.org/resource/Esperança_(telenovela)
+0,40,Encadenados,http://dbpedia.org/resource/Encadenados_(1988_TV_series),http://dbpedia.org/resource/Encadenados_(telenovela)
+0,42,Emperatriz,http://dbpedia.org/resource/Emperatriz_(Venezuelan_TV_series),http://dbpedia.org/resource/Manuel_Leon_(fictional_character) http://dbpedia.org/resource/Emperatriz
+0,43,Em Família,http://dbpedia.org/resource/Em_Família_(TV_series),http://dbpedia.org/resource/Em_Família_(telenovela) http://dbpedia.org/resource/Em_Familia_(telenovela)

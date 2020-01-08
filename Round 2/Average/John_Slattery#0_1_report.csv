@@ -1,0 +1,9 @@
+F1: 0.73077,Precision: 0.73077,Recall: 0.73077,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,3,Hallmark Hall of Fame,http://dbpedia.org/resource/The_Piano_Lesson_(film),http://dbpedia.org/resource/Hallmark_Hall_of_Fame_Productions http://dbpedia.org/resource/Hallmark_Hall_of_Fame http://dbpedia.org/resource/Hallmark_Hall_of_Fame_Production
+1,10,The Naked Man,http://dbpedia.org/resource/The_Naked_Man_(1923_film),http://dbpedia.org/resource/The_Naked_Man_(film)
+1,13,Sam the Man,http://dbpedia.org/resource/The_Out-of-Towners_(1999_film),http://dbpedia.org/resource/Sam_the_Man
+1,19,The Situation,http://dbpedia.org/resource/Dirty_Situation,http://dbpedia.org/resource/The_Situation_(film)
+1,21,Underdog,http://dbpedia.org/resource/Underdog_(2007_film),http://dbpedia.org/resource/One_nation_under_dog http://dbpedia.org/resource/Underdog_(movie_soundtrack) http://dbpedia.org/resource/Underdog_(film)
+1,23,Charlie Wilson's War,http://dbpedia.org/resource/Charlie_Wilson's_War_(film),http://dbpedia.org/resource/Charlie_Wilson's_War
+1,26,Return,http://dbpedia.org/resource/The_Lord_of_the_Rings:_The_Return_of_the_King,http://dbpedia.org/resource/Return_(2011) http://dbpedia.org/resource/Return_(2011_film)

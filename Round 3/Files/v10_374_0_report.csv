@@ -1,0 +1,6 @@
+"F1: 0.84000","Precision: 0.84000","Recall: 0.84000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","6","You're My Number One","http://dbpedia.org/resource/You're_My_Number_One","http://dbpedia.org/resource/You're_My_Number_One_(song)"
+"0","7","You're My Man","http://dbpedia.org/resource/Stars_on_45_(song)","http://dbpedia.org/resource/You're_My_Man"
+"0","14","You're My Everything","http://dbpedia.org/resource/You're_My_Everything_(The_Temptations_song)","http://dbpedia.org/resource/You're_My_Everything_(Anita_Baker_song)"
+"0","17","You're My Best Friend","http://dbpedia.org/resource/You're_My_Best_Friend_(Don_Williams_song)","http://dbpedia.org/resource/You're_My_Best_Friend_(Queen_song) http://dbpedia.org/resource/You're_My_Best_Friend/'39"

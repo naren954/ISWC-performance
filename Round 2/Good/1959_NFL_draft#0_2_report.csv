@@ -1,0 +1,4 @@
+F1: 0.83333,Precision: 0.83333,Recall: 0.83333,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,5,Dave Baker,http://dbpedia.org/resource/Dave_Baker_(American_football),"http://dbpedia.org/resource/David_Baker_(poker) http://dbpedia.org/resource/David_Baker_(poker_player) http://dbpedia.org/resource/Baker,_David http://dbpedia.org/resource/David_Baker_(disambiguation) http://dbpedia.org/resource/David_Baker http://dbpedia.org/resource/Dave_Baker http://dbpedia.org/resource/David_A._Baker http://dbpedia.org/resource/Dave_Baker_(disambiguation)"
+2,7,Don Clark,http://dbpedia.org/resource/Don_Clark_(American_football),http://dbpedia.org/resource/Don_Clark_(back) http://dbpedia.org/resource/Don_Clark_(Canadian_football)

@@ -1,0 +1,4 @@
+F1: 0.81818,Precision: 0.81818,Recall: 0.81818,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,3,Ã\u0089mile Krieps,http://dbpedia.org/resource/Sherman_Miles,http://dbpedia.org/resource/Émile_Krieps
+1,4,Camille Ney,http://dbpedia.org/resource/Michel_Ney,http://dbpedia.org/resource/Camille_Ney

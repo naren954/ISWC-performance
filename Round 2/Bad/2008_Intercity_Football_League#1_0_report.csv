@@ -1,0 +1,4 @@
+F1: 0.50000,Precision: 0.50000,Recall: 0.50000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Bros,http://dbpedia.org/resource/Warner_Bros.,http://dbpedia.org/resource/Ming_Chuan_University http://dbpedia.org/resource/Ming-Chuan_College
+0,2,Chia Cheng Hsin (Taichung),http://dbpedia.org/resource/Cheng_Wen-hsing,http://dbpedia.org/resource/Taiwan_PE_College http://dbpedia.org/resource/National_Taiwan_University_of_Physical_Education_and_Sport http://dbpedia.org/resource/Taiwan_Junior_College_of_Physical_Education http://dbpedia.org/resource/National_Taiwan_College_of_Physical_Education http://dbpedia.org/resource/Taiwan_P.E._College http://dbpedia.org/resource/National_taiwan_college_of_physical_education http://dbpedia.org/resource/國立臺灣體育運動大學 http://dbpedia.org/resource/國立台灣體育運動大學 http://dbpedia.org/resource/NTUPES http://dbpedia.org/resource/Taiwan_Provincial_College_of_Physical_Education

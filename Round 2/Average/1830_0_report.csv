@@ -1,0 +1,5 @@
+F1: 0.62500,Precision: 0.62500,Recall: 0.62500,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,Médoc AOC,http://dbpedia.org/resource/Médoc,http://dbpedia.org/resource/Medoc_AOC http://dbpedia.org/resource/Medoc_wine http://dbpedia.org/resource/Médoc_AOC http://dbpedia.org/resource/Medoc_(wine)
+0,6,Médoc AOC,http://dbpedia.org/resource/Médoc,http://dbpedia.org/resource/Medoc_AOC http://dbpedia.org/resource/Medoc_wine http://dbpedia.org/resource/Médoc_AOC http://dbpedia.org/resource/Medoc_(wine)
+0,8,Alella,http://dbpedia.org/resource/Alella,http://dbpedia.org/resource/Alella_(wine) http://dbpedia.org/resource/Alella_(DO)

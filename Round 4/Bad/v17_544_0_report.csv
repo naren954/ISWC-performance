@@ -1,0 +1,13 @@
+F1: 0.50000,Precision: 0.50000,Recall: 0.50000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,E. Hinton,http://dbpedia.org/resource/Gerry_E._Hinton,http://dbpedia.org/resource/Ed_Hinton_(actor)
+0,2,D. Douglas,http://dbpedia.org/resource/David_Douglas_(offensive_lineman),http://dbpedia.org/resource/Donna_Douglas
+0,3,D. Gray,http://dbpedia.org/resource/Dolores_Gray,http://dbpedia.org/resource/Donald_Gray http://dbpedia.org/resource/Elred_Tidbury http://dbpedia.org/resource/Elred_Owermann_Tidbury
+0,4,D. Brooks,http://dbpedia.org/resource/Donnie_Brooks,http://dbpedia.org/resource/Donald_Brooks
+0,5,D. Keefer,http://dbpedia.org/resource/Francis_Henry_Keefer,http://dbpedia.org/resource/Don_Keefer
+0,10,D. quintuplets,http://dbpedia.org/resource/Kienast_quintuplets,http://dbpedia.org/resource/Marie_Dionne http://dbpedia.org/resource/Dion_Quintuplets http://dbpedia.org/resource/Dionne_Sisters http://dbpedia.org/resource/Oliva_Dionne http://dbpedia.org/resource/Quintland http://dbpedia.org/resource/Dion_Sisters http://dbpedia.org/resource/Annette_Dionne http://dbpedia.org/resource/Émilie_Dionne http://dbpedia.org/resource/Dion_quintuplets http://dbpedia.org/resource/Annette_Lillianne_Marie_Dionne http://dbpedia.org/resource/Elzire_Dionne http://dbpedia.org/resource/Dionne_quintuplets http://dbpedia.org/resource/Doinne_quintuplets http://dbpedia.org/resource/Cecile_Dionne http://dbpedia.org/resource/Dion_sisters http://dbpedia.org/resource/Cécile_Dionne http://dbpedia.org/resource/Dionne_Quintuplets http://dbpedia.org/resource/Emilie_Dionne http://dbpedia.org/resource/Dionne_sisters
+0,11,D. Thakur,http://dbpedia.org/resource/Dayal_Thakur,http://dbpedia.org/resource/Dinesh_Thakur_(theatre_director) http://dbpedia.org/resource/Dinesh_Thakur
+0,15,D. Patrick,http://dbpedia.org/resource/Dorothy_Patrick,http://dbpedia.org/resource/Dennis_Patrick
+0,18,D. Kelly,http://dbpedia.org/resource/David_Kelly_(weapons_expert),http://dbpedia.org/resource/David_Kelly_(actor)
+0,19,D. Ward,http://dbpedia.org/resource/David_Ward_(singer),http://dbpedia.org/resource/Darrell_Ward
+0,22,C. Moore,http://dbpedia.org/resource/Cleo_Moore,http://dbpedia.org/resource/Clayton_Moore

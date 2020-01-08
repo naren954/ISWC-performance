@@ -1,0 +1,6 @@
+F1: 0.69231,Precision: 0.69231,Recall: 0.69231,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,5,J. A. Murphy,http://dbpedia.org/resource/John_Murphy_(bishop),http://dbpedia.org/resource/James_Anthony_Murphy
+2,6,M. Sailer,http://de.dbpedia.org/resource/Markus_Sailer,http://dbpedia.org/resource/Max_Sailer
+2,11,R. d. Palma,http://it.dbpedia.org/resource/Ringo_De_Palma,http://dbpedia.org/resource/Racer_Depalma http://dbpedia.org/resource/Ralph_De_Palma http://dbpedia.org/resource/Ralph_de_Palma http://dbpedia.org/resource/Ralph_DePalma
+2,12,A. Duray,http://dbpedia.org/resource/Leon_Duray,http://dbpedia.org/resource/Arthur_Duray

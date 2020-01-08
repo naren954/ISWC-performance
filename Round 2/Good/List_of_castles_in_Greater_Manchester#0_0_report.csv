@@ -1,0 +1,4 @@
+F1: 0.77778,Precision: 0.77778,Recall: 0.77778,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,Bury Castle,"http://dbpedia.org/resource/Bury_Castle,_Greater_Manchester",http://dbpedia.org/resource/Bury_Castle
+0,8,Ullerwood Castle,http://dbpedia.org/resource/Roch_Castle,http://dbpedia.org/resource/Ullerwood_Castle

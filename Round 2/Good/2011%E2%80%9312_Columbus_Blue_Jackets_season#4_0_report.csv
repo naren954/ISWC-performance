@@ -1,0 +1,4 @@
+F1: 0.92308,Precision: 0.92308,Recall: 0.92308,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,4,David Savard,http://dbpedia.org/resource/Denis_Savard,http://dbpedia.org/resource/David_Savard
+0,11,John Moore,http://dbpedia.org/resource/John_Moore_(skier),http://dbpedia.org/resource/John_Moore_(Ice_hockey_player) http://dbpedia.org/resource/John_Moore_(ice_hockey)

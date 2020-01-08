@@ -1,0 +1,5 @@
+F1: 0.80000,Precision: 0.80000,Recall: 0.80000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,4,Santaan,http://dbpedia.org/resource/Santaan,http://dbpedia.org/resource/Santaan_(TV_series)
+1,5,Ardhangani,,http://dbpedia.org/resource/Ardhangani http://dbpedia.org/resource/Ardhangini
+1,9,Dancing Queen,http://dbpedia.org/resource/Dancing_Queen_(American_TV_series),http://dbpedia.org/resource/Dancing_Queen_(TV_series)

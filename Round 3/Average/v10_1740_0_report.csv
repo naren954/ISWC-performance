@@ -1,0 +1,32 @@
+F1: 0.58333,Precision: 0.58333,Recall: 0.58333,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,WYZZ-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WYZZ-TV http://dbpedia.org/resource/WYZZ
+0,2,WYPX-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WYPX-TV http://dbpedia.org/resource/WYPX
+0,5,WYJJ-LD,http://dbpedia.org/resource/KTPN-LD,http://dbpedia.org/resource/WYJJ-LD
+0,11,WXWZ-LP,,http://dbpedia.org/resource/WXWZ-LP
+0,14,WXOD-LD,http://dbpedia.org/resource/KTPN-LD,http://dbpedia.org/resource/WXOD-LD
+0,17,WXEL-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WHRS-TV http://dbpedia.org/resource/WXEL-TV http://dbpedia.org/resource/W31DC-D
+0,23,WWRS-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WWRS-TV http://dbpedia.org/resource/WWRS-DT
+0,24,WWPX-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WWPX http://dbpedia.org/resource/WWPX-DT http://dbpedia.org/resource/WWPX-TV
+0,25,WWNY-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WWNY http://dbpedia.org/resource/WWNY-DT http://dbpedia.org/resource/WWNY-TV
+0,26,WWME-CD,http://dbpedia.org/resource/.cd,http://dbpedia.org/resource/Me-TV_Chicago http://dbpedia.org/resource/WWME http://dbpedia.org/resource/WWME-CA http://dbpedia.org/resource/WWME-CD
+0,29,WWJS-CD,http://dbpedia.org/resource/.cd,http://dbpedia.org/resource/WNDA-CA http://dbpedia.org/resource/WWJS-CA http://dbpedia.org/resource/WVHF-TV http://dbpedia.org/resource/WWJS-CD
+0,30,WWCI-CD,http://dbpedia.org/resource/.cd,http://dbpedia.org/resource/WWCI-CA http://dbpedia.org/resource/WWCI-CD
+0,34,WVUA-CD,http://dbpedia.org/resource/.cd,http://dbpedia.org/resource/WDVZ-CD http://dbpedia.org/resource/WOUA http://dbpedia.org/resource/WJMY-CD http://dbpedia.org/resource/WVUA-CA http://dbpedia.org/resource/WVUA-CD http://dbpedia.org/resource/WUOA-TV http://dbpedia.org/resource/WJMY-LD http://dbpedia.org/resource/WJMY-CA http://dbpedia.org/resource/WVUA_(TV) http://dbpedia.org/resource/WJMY-LP http://dbpedia.org/resource/WUOA http://dbpedia.org/resource/WDVZ-CA
+0,37,WVNS-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WVNS-TV http://dbpedia.org/resource/WVNS
+0,39,WVIR-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WVIR http://dbpedia.org/resource/W28BF http://dbpedia.org/resource/W41DT-D http://dbpedia.org/resource/NBC29.com http://dbpedia.org/resource/WVIR-TV http://dbpedia.org/resource/NBC_29 http://dbpedia.org/resource/W30CT-D
+0,40,WVII-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WVII http://dbpedia.org/resource/WVII-TV http://dbpedia.org/resource/WVII-DT
+0,41,WVAW-LD,http://dbpedia.org/resource/KTPN-LD,http://dbpedia.org/resource/WVAW-LP http://dbpedia.org/resource/WVAW-LD http://dbpedia.org/resource/WVAW
+0,42,WUXP-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WUXP http://dbpedia.org/resource/WUXP-TV
+0,44,WUPX-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WUPX-TV
+0,46,WTXL-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WTXL http://dbpedia.org/resource/WTXL-TV
+0,48,WTWC-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WTWC http://dbpedia.org/resource/WTWC-TV
+0,50,WTVR-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/CBS_Richmond http://dbpedia.org/resource/WTVR-TV http://dbpedia.org/resource/WTRV.com http://dbpedia.org/resource/CBS_6_Richmond
+0,54,WTVH,http://dbpedia.org/resource/WHOI_(TV),http://dbpedia.org/resource/WTVH-TV http://dbpedia.org/resource/WTVH http://dbpedia.org/resource/WHEN-TV
+0,62,WTSD-CA,http://dbpedia.org/resource/.ca,http://dbpedia.org/resource/WTSD-CA
+0,63,WTRF-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/FOX_Ohio_Valley http://dbpedia.org/resource/WTRF-TV http://dbpedia.org/resource/WRTF-DT2 http://dbpedia.org/resource/WTRF
+0,64,WTPX-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WTPX-TV http://dbpedia.org/resource/WTPX
+0,65,WTPM-LD,http://dbpedia.org/resource/KTPN-LD,http://dbpedia.org/resource/WTPM-LD http://dbpedia.org/resource/WTPM-LP
+0,66,WTPC-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WHRE-TV http://dbpedia.org/resource/WTPC-TV
+0,67,WTOV-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WTOV-TV http://dbpedia.org/resource/WTOV http://dbpedia.org/resource/Wtov-tv http://dbpedia.org/resource/WTOV-DT
+0,69,WTOK-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WTOK-TV http://dbpedia.org/resource/WTOK-DT3

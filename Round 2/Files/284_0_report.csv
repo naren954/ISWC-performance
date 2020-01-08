@@ -1,0 +1,5 @@
+"F1: 0.75000","Precision: 0.75000","Recall: 0.75000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","2","Pleurotus nebrodensis","http://dbpedia.org/resource/Pleurotus_eryngii","http://dbpedia.org/resource/Pleurotus_nebrodensis"
+"0","9","Hygrocybe griseoramosa","http://dbpedia.org/resource/Hygrocybe_ingrata","http://dbpedia.org/resource/Hygrocybe_griseoramosa"
+"0","11","Fungia repanda","http://dbpedia.org/resource/Fungia","http://dbpedia.org/resource/Fungia_repanda"

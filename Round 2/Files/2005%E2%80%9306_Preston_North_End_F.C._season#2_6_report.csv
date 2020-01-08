@@ -1,0 +1,4 @@
+"F1: 0.33333","Precision: 0.33333","Recall: 0.33333"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"6","1","Alexander, Sedgwick","http://dbpedia.org/resource/Adam_Sedgwick","http://dbpedia.org/resource/Graeme_Alexander http://dbpedia.org/resource/Graham_Alexander http://dbpedia.org/resource/Alexander,_Graham"
+"6","2","O'Neil","http://dbpedia.org/resource/Eugene_O'Neill","http://dbpedia.org/resource/Brian_O'Neil_(footballer_born_1972)"

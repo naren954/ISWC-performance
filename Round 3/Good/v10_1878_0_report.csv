@@ -1,0 +1,9 @@
+F1: 0.82927,Precision: 0.82927,Recall: 0.82927,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,11,Brenner,http://de.dbpedia.org/resource/Der_Brenner,http://dbpedia.org/resource/Brenner_(TV_series)
+0,12,Born Free,http://dbpedia.org/resource/Born_Free,http://dbpedia.org/resource/Born_Free_(TV_Series) http://dbpedia.org/resource/Born_Free_(TV_series)
+0,23,Angry Boys,http://dbpedia.org/resource/The_Angry_Birds_Movie,http://dbpedia.org/resource/Angry_Boys
+0,27,Alvin and the Chipmunks,http://dbpedia.org/resource/Alvin_and_the_Chipmunks_(film),http://dbpedia.org/resource/Alvin_and_the_Chipmunks_(1983_TV_series) http://dbpedia.org/resource/We're_The_Chipmunks
+0,30,Aaha,http://dbpedia.org/resource/Aahaa...!,http://dbpedia.org/resource/Aaha_(TV_series)
+0,34,A Nero Wolfe Mystery,http://dbpedia.org/resource/The_Golden_Spiders:_A_Nero_Wolfe_Mystery,http://dbpedia.org/resource/A_Nero_Wolfe_Mystery http://dbpedia.org/resource/Nero_Wolfe_(2001)
+0,41,10.5: Apocalypse,http://dbpedia.org/resource/10.5_(miniseries),http://dbpedia.org/resource/10.5_Apocalypse http://dbpedia.org/resource/10.5:Apocalypse http://dbpedia.org/resource/10.5:_Apocalypse

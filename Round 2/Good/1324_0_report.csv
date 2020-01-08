@@ -1,0 +1,21 @@
+F1: 0.83478,Precision: 0.83478,Recall: 0.83478,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,4,W. Churchill,http://dbpedia.org/resource/Winston_Churchill,"http://dbpedia.org/resource/Winston_Churchill_(grandson) http://dbpedia.org/resource/Winston_Churchill_(1940-2010) http://dbpedia.org/resource/Winston_Churchill_(politician,_born_1940) http://dbpedia.org/resource/Winston_Churchill_(born_1940) http://dbpedia.org/resource/Winston_Churchill_(1940–2010) http://dbpedia.org/resource/Winston_Churchill_(1940-) http://dbpedia.org/resource/Winston_Churchill_(1940)"
+0,8,W. H. Ewing,http://dbpedia.org/resource/Thomas_W._Ewing,http://dbpedia.org/resource/W._H._Ewing http://dbpedia.org/resource/William_H._Ewing
+0,12,W. P. Jennings,http://dbpedia.org/resource/William_Jennings_Bryan,http://dbpedia.org/resource/W._Pat_Jennings http://dbpedia.org/resource/William_P._Jennings http://dbpedia.org/resource/William_Pat_Jennings
+0,17,Ulysses S. Grant presidential administration scandals,http://dbpedia.org/resource/Ulysses_S._Grant,http://dbpedia.org/resource/Ulysses_S._Grant_(scandals) http://dbpedia.org/resource/Ulysses_S._Grant_presidential_administration_scandals
+0,29,T. Baldwin,http://dbpedia.org/resource/Tammy_Baldwin,http://dbpedia.org/resource/Ted_Baldwin_(Queensland_politician)
+0,35,S. Digby,"http://dbpedia.org/resource/Digby_Jones,_Baron_Jones_of_Birmingham",http://dbpedia.org/resource/Simon_Wingfield_Digby http://dbpedia.org/resource/Simon_Digby_(Conservative_politician) http://dbpedia.org/resource/Simon_Wingfield-Digby
+0,38,Sardar Saeed-ul haq dogar,http://dbpedia.org/resource/Saeed-ul_Haq_Dogar,http://dbpedia.org/resource/Sardar_Saeed-ul_haq_dogar
+0,49,Richard G. L. Paige,http://dbpedia.org/resource/Richard_Lugar,http://dbpedia.org/resource/Richard_G._L._Paige
+0,57,Presidency of Boris Yeltsin,http://dbpedia.org/resource/Boris_Yeltsin,http://dbpedia.org/resource/Presidency_of_Boris_Yeltsin
+0,59,P. Colfox,,"http://dbpedia.org/resource/Philip_Colfox http://dbpedia.org/resource/Sir_Philip_Colfox,1st_Baronet http://dbpedia.org/resource/Sir_(William)_Philip_Colfox http://dbpedia.org/resource/William_Philip_Colfox http://dbpedia.org/resource/Sir_Philip_Colfox,_1st_Baronet"
+0,71,P. Brown,http://dbpedia.org/resource/Paul_Brown_(Georgia_politician),"http://dbpedia.org/resource/Edmund_Gerald_Brown_Sr. http://dbpedia.org/resource/Edmund_""Pat""_Brown http://dbpedia.org/resource/Edmund_G_Brown http://dbpedia.org/resource/Edmund_G._(Pat)_Brown http://dbpedia.org/resource/Pat_Brown http://dbpedia.org/resource/Edmund_G._""Pat""_Brown http://dbpedia.org/resource/Edmund_Brown_Sr. http://dbpedia.org/resource/Edmund_G._Brown_Sr. http://dbpedia.org/resource/Edmund_Brown,_Sr. http://dbpedia.org/resource/Edmund_Gerald_Brown,_Sr. http://dbpedia.org/resource/Brown,_Pat http://dbpedia.org/resource/Pat_brown http://dbpedia.org/resource/Edmund_G._Brown,_Sr. http://dbpedia.org/resource/Pat_Brown,_Sr."
+0,85,M. Koehl,http://dbpedia.org/resource/Émile_Koehl,http://dbpedia.org/resource/Matt_Koehl http://dbpedia.org/resource/Matthias_Koehl
+0,86,M. E. Welsh,http://dbpedia.org/resource/Henry_Morton_Stanley,http://dbpedia.org/resource/Matthew_Empson_Welsh http://dbpedia.org/resource/Matthew_E._Welsh
+0,94,L. Jensen,http://dbpedia.org/resource/Leslie_Jensen,http://dbpedia.org/resource/Lou_Jensen
+0,99,K. Hall,http://dbpedia.org/resource/Katie_Hall_(politician),http://dbpedia.org/resource/Katie_Beatrice_Green_Hall http://dbpedia.org/resource/Katie_B._Hall http://dbpedia.org/resource/Katie_Hall http://dbpedia.org/resource/Katie_Beatrice_Hall http://dbpedia.org/resource/Katie_Beatrice_Green
+0,100,J. Gunn,http://dbpedia.org/resource/James_Gunn_(congressman),http://dbpedia.org/resource/Julien_Gunn
+0,106,J. W. Williams,http://dbpedia.org/resource/Jared_W._Williams,http://dbpedia.org/resource/John_W._Williams_(Virginia)
+0,107,J. P. Buchanan,http://dbpedia.org/resource/James_Buchanan,http://dbpedia.org/resource/John_Preston_Buchanan
+0,115,"John J. Wicker, Jr.",http://dbpedia.org/resource/John_J._Doles,"http://dbpedia.org/resource/John_J._Wicker,_Jr."

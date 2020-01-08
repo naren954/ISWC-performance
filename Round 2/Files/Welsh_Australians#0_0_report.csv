@@ -1,0 +1,6 @@
+"F1: 0.71429","Precision: 0.71429","Recall: 0.71429"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","3","John Beard","http://dbpedia.org/resource/John_Relly_Beard","http://dbpedia.org/resource/John_Beard_(artist)"
+"0","8","David Jones (merchant)","http://dbpedia.org/resource/David_Bowie","http://dbpedia.org/resource/David_Jones_(Sydney_merchant) http://dbpedia.org/resource/David_Jones_(Sydney_Merchant) http://dbpedia.org/resource/David_Jones_(merchant)"
+"0","10","John McCarthy","http://dbpedia.org/resource/Kevin_McCarthy_(actor)","http://dbpedia.org/resource/John_McCarthy_(Australian_rules_footballer,_born_1967) http://dbpedia.org/resource/John_McCarthy_(Australian_rules_footballer_born_1967)"
+"0","14","Rhys Williams","http://dbpedia.org/resource/Rhys_Rhys-Williams","http://dbpedia.org/resource/Rhys_Williams_(footballer)"

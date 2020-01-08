@@ -1,0 +1,14 @@
+F1: 0.84615,Precision: 0.84615,Recall: 0.84615,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,4,V,http://dbpedia.org/resource/Atlas_V,http://dbpedia.org/resource/V_(The_Final_Battle) http://dbpedia.org/resource/V_The_Final_Battle http://dbpedia.org/resource/V_the_Final_Battle
+2,14,Super Friends,http://dbpedia.org/resource/Super_Friends_(1973_TV_series),http://dbpedia.org/resource/Super_Friends_(1980_TV_series) http://dbpedia.org/resource/Super_Friends_(1980) http://dbpedia.org/resource/The_Best_of_Super_Friends http://dbpedia.org/resource/Best_of_Super_Friends http://dbpedia.org/resource/The_Super_Friends_Hour
+2,18,The Growing Pains of Adrian Mole,http://dbpedia.org/resource/The_Secret_Diary_of_Adrian_Mole_(TV_series),http://dbpedia.org/resource/The_Growing_Pains_of_Adrian_Mole_(TV_series)
+2,21,Lightfields,http://dbpedia.org/resource/Marchlands,http://dbpedia.org/resource/Lightfields
+2,22,Perry Mason,http://dbpedia.org/resource/Perry_Mason_(TV_series),http://dbpedia.org/resource/Perry_Mason_(TV_movies)
+2,25,The Heaven Sword and Dragon Saber,http://dbpedia.org/resource/The_Heaven_Sword_and_Dragon_Saber_(1978_TV_series),http://dbpedia.org/resource/The_Heaven_Sword_and_Dragon_Sabre_(2000_TV_series) http://dbpedia.org/resource/The_Heaven_Sword_and_Dragon_Saber_(2000_TV_series)
+2,43,The Living Dead,http://dbpedia.org/resource/Return_of_the_Living_Dead:_Necropolis,http://dbpedia.org/resource/The_Living_Dead_(TV_series) http://dbpedia.org/resource/The_Living_Dead_(television_documentary_series)
+2,45,Bean,http://dbpedia.org/resource/Mr._Bean,http://dbpedia.org/resource/Bean:_The_Ultimate_Disaster_Movie http://dbpedia.org/resource/Bean:_The_Movie http://dbpedia.org/resource/Bean_(film) http://dbpedia.org/resource/Mr._Bean:_The_Movie http://dbpedia.org/resource/Mad_piano http://dbpedia.org/resource/Bean_-_The_Ultimate_Disaster_Movie http://dbpedia.org/resource/Bean_(1997_movie) http://dbpedia.org/resource/Mr._Bean_the_Movie http://dbpedia.org/resource/Bean:_the_Ultimate_Disaster http://dbpedia.org/resource/Bean_(1997_film)
+2,47,Pole to Pole,http://dbpedia.org/resource/Pole_(album),http://dbpedia.org/resource/Pole_to_Pole http://dbpedia.org/resource/Pole_To_Pole http://dbpedia.org/resource/Pole_to_pole
+2,58,Kamen Rider ZX,http://dbpedia.org/resource/Kamen_Rider_Decade,http://dbpedia.org/resource/Kamen_Rider_ZX
+2,68,Kamen Rider W,http://dbpedia.org/resource/Kamen_Rider_Decade,http://dbpedia.org/resource/Kamen_Rider_W_(Double) http://dbpedia.org/resource/Kamen_Rider_W/Double http://dbpedia.org/resource/Masked_Rider_Double http://dbpedia.org/resource/Kamen_Rider_W http://dbpedia.org/resource/Dopant_(Kamen_Rider_Double) http://dbpedia.org/resource/Kamen_Rider_Double http://dbpedia.org/resource/Masked_Rider_W
+2,71,Thangam,http://dbpedia.org/resource/Thangam,http://dbpedia.org/resource/Thangam_(serial) http://dbpedia.org/resource/Thangam_(TV_series)

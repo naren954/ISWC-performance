@@ -1,0 +1,4 @@
+"F1: 0.88235","Precision: 0.88235","Recall: 0.88235"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","2","Ballycastle Castle","http://dbpedia.org/resource/Ballycastle_railway_station","http://dbpedia.org/resource/Ballycastle_Castle"
+"0","4","Ballylough Castle","http://dbpedia.org/resource/Roch_Castle","http://dbpedia.org/resource/Ballylough_Castle"

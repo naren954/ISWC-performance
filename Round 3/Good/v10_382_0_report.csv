@@ -1,0 +1,10 @@
+F1: 0.87692,Precision: 0.87692,Recall: 0.87692,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Where Do You Go,http://dbpedia.org/resource/Where_Do_You_Go_(La_Bouche_song),http://dbpedia.org/resource/Where_Do_You_Go_(Cher_song)
+0,2,Where Do We Go from Here,http://dbpedia.org/resource/Where_Do_I_Go_from_Here_(The_Supremes_song),http://dbpedia.org/resource/Where_Do_We_Go_From_Here?_(Chicago_Song) http://dbpedia.org/resource/Where_Do_We_Go_from_Here_(Chicago_song)
+0,3,Where Do We Go from Here?,http://dbpedia.org/resource/Where_Do_I_Go_from_Here_(The_Supremes_song),http://dbpedia.org/resource/Where_Do_We_Go_from_Here?_(Vanessa_Williams_song)
+0,10,Where Did We Go Wrong,http://dbpedia.org/resource/Where_Did_I_Go_Wrong,http://dbpedia.org/resource/Where_Did_We_Go_Wrong_(BlackGirl_song)
+0,29,Whenever You Need Me,http://dbpedia.org/resource/Whenever_You_Need_Me_(T'Pau_song),http://dbpedia.org/resource/Whenever_You_Need_Me_(Infernal_song)
+0,30,Whenever You're Ready,http://dbpedia.org/resource/Whenever_You're_Around,http://dbpedia.org/resource/Whenever_You're_Ready http://dbpedia.org/resource/Whenever_you're_ready
+0,41,When the Sun Goes Down,http://dbpedia.org/resource/When_the_Sun_Goes_Down_(Kenny_Chesney_song),http://dbpedia.org/resource/When_the_Sun_Goes_Down_(Arctic_Monkeys_song) http://dbpedia.org/resource/When_The_Sun_Goes_Down_(Scummy)
+0,63,When You Were Young,http://dbpedia.org/resource/Where_Were_You_(When_the_World_Stopped_Turning),http://dbpedia.org/resource/When_You_Were_Young

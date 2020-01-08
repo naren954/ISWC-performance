@@ -1,0 +1,8 @@
+F1: 0.92941,Precision: 0.92941,Recall: 0.92941,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,35,Tribhuvannagar Airport,http://dbpedia.org/resource/Ahuas_Airport,http://dbpedia.org/resource/Tribhuvannagar_Airport http://dbpedia.org/resource/Dang_Airport
+0,40,Tri-County Regional Airport,http://dbpedia.org/resource/Oxford_County_Regional_Airport,http://dbpedia.org/resource/Tri-County_Regional_Airport
+0,41,Tri-County Airport,http://dbpedia.org/resource/Tri-County_Airport_(Florida),http://dbpedia.org/resource/Tri-County_Airport_(North_Carolina) http://dbpedia.org/resource/KASJ
+0,42,Tri-City Airport,"http://dbpedia.org/resource/Tri-City_Airport_(West_Lafayette,_Ohio)",http://dbpedia.org/resource/Tri-City_Airport_(Kansas) http://dbpedia.org/resource/KPPF
+0,45,Tri-Cities Airport,http://dbpedia.org/resource/Tri-Cities_Airport_(Washington),http://dbpedia.org/resource/KCZG http://dbpedia.org/resource/CZG http://dbpedia.org/resource/Tri-Cities_Airport_(New_York)
+0,50,Trenton Municipal Airport,http://dbpedia.org/resource/Trenton_Municipal_Airport_(Nebraska),http://dbpedia.org/resource/Trenton_Municipal_Airport_(Missouri)

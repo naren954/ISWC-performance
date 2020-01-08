@@ -1,0 +1,5 @@
+F1: 0.88889,Precision: 0.88889,Recall: 0.88889,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,8,"Jacob Fry, Jr.",http://dbpedia.org/resource/Jacob_Fry_Jr.,"http://dbpedia.org/resource/Jacob_Fry,_Jr. http://dbpedia.org/resource/Jacob_Fry"
+1,13,William Clark,http://dbpedia.org/resource/William_A._Clark,http://dbpedia.org/resource/William_Clark_(congressman)
+1,22,"John Klingensmith, Jr.",http://dbpedia.org/resource/John_Klingensmith_Jr.,"http://dbpedia.org/resource/John_Klingensmith http://dbpedia.org/resource/John_J._Klingensmith http://dbpedia.org/resource/John_Klingensmith,_Jr."

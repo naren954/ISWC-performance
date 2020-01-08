@@ -1,0 +1,5 @@
+"F1: 0.25000","Precision: 0.25000","Recall: 0.25000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","2","The Ring","http://dbpedia.org/resource/The_Ring_(magazine)","http://dbpedia.org/resource/The_Ring_(1985_film) http://dbpedia.org/resource/Ringul"
+"1","4","The Moment","http://dbpedia.org/resource/The_Moment_After","http://dbpedia.org/resource/The_Moment_(1979_film) http://dbpedia.org/resource/Clipa"
+"1","5","Ultimul cartuÅ\u009F","http://dbpedia.org/resource/Ultimul_cartuș","http://dbpedia.org/resource/Ultimul_cartuş"

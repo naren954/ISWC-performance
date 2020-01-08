@@ -1,0 +1,4 @@
+"F1: 0.71429","Precision: 0.71429","Recall: 0.71429"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","1","Fairchild, Cassius","http://dbpedia.org/resource/Lucius_Fairchild","http://dbpedia.org/resource/Cassius_Fairchild"
+"0","24","Forsyth, George Alexander","http://dbpedia.org/resource/Alexander_George_Woodford","http://dbpedia.org/resource/George_A._Forsyth http://dbpedia.org/resource/George_Alexander_Forsyth"

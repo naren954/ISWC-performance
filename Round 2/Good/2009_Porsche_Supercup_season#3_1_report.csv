@@ -1,0 +1,8 @@
+F1: 0.80645,Precision: 0.80645,Recall: 0.80645,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,7,Matt Halliday,http://dbpedia.org/resource/Brad_Halliday,http://dbpedia.org/resource/Matt_Halliday
+1,8,Richard Williams,http://dbpedia.org/resource/R._Norris_Williams,http://dbpedia.org/resource/Richard_Williams_(auto_racing) http://dbpedia.org/resource/Richard_Williams_(racing_driver)
+1,10,JiÅ\u0099Ã­ JanÃ¡k,http://dbpedia.org/resource/Tō-ji,http://dbpedia.org/resource/Jiří_Janák
+1,12,Will Langhorne,http://dbpedia.org/resource/Crystal_Langhorne,http://dbpedia.org/resource/Will_Langhorne
+1,22,Alessandro Balzan,http://dbpedia.org/resource/Alessandro_Fabian,http://dbpedia.org/resource/Alessandro_Balzan
+1,45,Ian Khan,http://dbpedia.org/resource/Ian_Khan_(cricketer),http://dbpedia.org/resource/Ian_Khan

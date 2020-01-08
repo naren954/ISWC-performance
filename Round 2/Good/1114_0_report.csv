@@ -1,0 +1,12 @@
+F1: 0.91228,Precision: 0.91228,Recall: 0.91228,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,33,J. James,http://dbpedia.org/resource/John_James_(racing_driver),http://dbpedia.org/resource/Joe_James_(racing_driver)
+0,40,J. Clark,http://dbpedia.org/resource/Jim_Clark_(Scottish_footballer),"http://dbpedia.org/resource/Jim_""Jimmy""_Clark http://dbpedia.org/resource/Jim_Clark http://dbpedia.org/resource/Clark,_Jim http://dbpedia.org/resource/Jimmy_Clark http://dbpedia.org/resource/Jim_Clark_(racing_driver)"
+0,41,J. U. Jr.,http://dbpedia.org/resource/Calvin_Coolidge,"http://dbpedia.org/resource/Jerry_Unser,_Jr. http://dbpedia.org/resource/Jerry_Unser http://dbpedia.org/resource/Jerry_Unser_Jr."
+0,42,J. Holmes,http://dbpedia.org/resource/Jim_Holmes,http://dbpedia.org/resource/Jackie_Holmes http://dbpedia.org/resource/John_Holmes_(driver)
+0,51,H. Walter,http://dbpedia.org/resource/Horst_Walter_(footballer),http://dbpedia.org/resource/Heini_Walter
+0,75,D. Taylor,"http://dbpedia.org/resource/Dave_Taylor_(footballer,_born_1940)",http://dbpedia.org/resource/Dennis_Taylor_(auto_racing) http://dbpedia.org/resource/Dennis_Taylor_(racing_driver)
+0,77,D. Wilson,http://dbpedia.org/resource/Dwaine_Wilson,http://dbpedia.org/resource/Dempsey_Wilson
+0,79,C. Harrison,http://dbpedia.org/resource/Caroline_Harrison,http://dbpedia.org/resource/Cuth_Harrison
+0,86,C. Green,http://dbpedia.org/resource/Carl_Green,http://dbpedia.org/resource/Cecil_Green
+0,94,B. Scott,http://dbpedia.org/resource/Billy_Scott_(racing_driver),http://dbpedia.org/resource/Bob_Scott_(auto_racer) http://dbpedia.org/resource/Bob_Scott_(racing_driver) http://dbpedia.org/resource/Bob_Scott_(racind_driver)

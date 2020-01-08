@@ -1,0 +1,5 @@
+"F1: 0.57143","Precision: 0.57143","Recall: 0.57143"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","2","Melodi Jaya SC","http://dbpedia.org/resource/Melodi_Jaya_S.C.","http://dbpedia.org/resource/Melodi_Jaya_Sports_Club"
+"0","5","KP Shahzan Muda FC","http://dbpedia.org/resource/Young_Lions_FC","http://dbpedia.org/resource/Shahzan_Muda_F.C. http://dbpedia.org/resource/Shahzan_Muda_FC"
+"0","7","KL SPA FC","http://dbpedia.org/resource/São_Paulo_FC","http://dbpedia.org/resource/Putrajaya_SPA_F.C. http://dbpedia.org/resource/Suruhanjaya_Perkhidmatan_Awam_FC http://dbpedia.org/resource/Putrajaya_SPA_FC http://dbpedia.org/resource/SPA_Putrajaya_F.C."

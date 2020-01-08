@@ -1,0 +1,4 @@
+F1: 0.86667,Precision: 0.86667,Recall: 0.86667,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,5,I. Zhuk,http://dbpedia.org/resource/Nina_Zhuk,http://dbpedia.org/resource/Irina_Zhuk
+3,14,K. Johnson,http://dbpedia.org/resource/Dwayne_Johnson,http://dbpedia.org/resource/Kelly_Johnson_(figure_skater)

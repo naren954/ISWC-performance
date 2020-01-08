@@ -1,0 +1,5 @@
+F1: 0.57143,Precision: 0.57143,Recall: 0.57143,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,4,Wisoon Wichaya,http://dbpedia.org/resource/Wisoot_Wichaya,http://dbpedia.org/resource/Wisoon_Wichaya
+0,6,Anant Amornkiat,http://dbpedia.org/resource/Anant_Mohani,http://dbpedia.org/resource/Bangkok_Bank_F.C. http://dbpedia.org/resource/Bangkok_Bank_FC http://dbpedia.org/resource/Apiruck_Sriaroon http://dbpedia.org/resource/Anant_Amornkiat
+0,8,Wisoon Wichaya,http://dbpedia.org/resource/Wisoot_Wichaya,http://dbpedia.org/resource/Wisoon_Wichaya

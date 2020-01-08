@@ -1,0 +1,13 @@
+F1: 0.54167,Precision: 0.54167,Recall: 0.54167,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,1,A. Morishima,http://dbpedia.org/resource/Michio_Morishima,http://dbpedia.org/resource/Morishima_Akiko http://dbpedia.org/resource/Akiko_Morishima
+2,2,K. Takahashi,http://dbpedia.org/resource/Ai_Takahashi,http://dbpedia.org/resource/Kazuki_Takahashi http://dbpedia.org/resource/Kazuki_Takahasi http://dbpedia.org/resource/Takahasi_Kazuki http://dbpedia.org/resource/Kazaki_Takahashi http://dbpedia.org/resource/Takahashi_Kazuki
+2,5,Y. ABe,http://dbpedia.org/resource/Kōbō_Abe,"http://dbpedia.org/resource/ABe,_Yoshitoshi http://dbpedia.org/resource/Yoshitoshi_Abe http://dbpedia.org/resource/Yoshitoshi_ABe http://dbpedia.org/resource/Abe_Yoshitoshi http://dbpedia.org/resource/Oshitoshi_Abe http://dbpedia.org/resource/ABe_Yoshitoshi http://dbpedia.org/resource/ABe"
+2,6,Yasu,http://fr.dbpedia.org/resource/Yasunori_Hayashi,http://dbpedia.org/resource/Yasu_(illustrator)
+2,7,G. Nagai,http://dbpedia.org/resource/Kafū_Nagai,http://dbpedia.org/resource/永井豪 http://dbpedia.org/resource/Nagai_Go http://dbpedia.org/resource/Dynamic_Productions http://dbpedia.org/resource/Gou_Nagai http://dbpedia.org/resource/Grendizer_(mecha) http://dbpedia.org/resource/Go_Nagai http://dbpedia.org/resource/Nagai_Gô http://dbpedia.org/resource/Gô_Nagai http://dbpedia.org/resource/Gō_Nagai http://dbpedia.org/resource/Grendizer_(robot)
+2,8,J. Suzuki,http://dbpedia.org/resource/Julietta_Suzuki,http://dbpedia.org/resource/Jirō_Suzuki http://dbpedia.org/resource/Jiro_Suzuki
+2,9,Yasu,http://fr.dbpedia.org/resource/Yasunori_Hayashi,http://dbpedia.org/resource/Yasu_(illustrator)
+2,10,Y. Sumiyoshi,http://dbpedia.org/resource/Kawamura_Sumiyoshi,http://dbpedia.org/resource/Fumiko_Sumiyoshi http://dbpedia.org/resource/Yukiko_Sumiyoshi
+2,15,F. Satō,http://dbpedia.org/resource/Eisaku_Satō,http://dbpedia.org/resource/Fumiya_Satō http://dbpedia.org/resource/Fumiya_Sato
+2,18,H. Shimada,http://dbpedia.org/resource/Izumi_Shimada,http://dbpedia.org/resource/Humikane_Shimada http://dbpedia.org/resource/Fumikane_Shimada
+2,19,C. Maki,http://dbpedia.org/resource/Claude_Maki,http://dbpedia.org/resource/Chitose_Maki

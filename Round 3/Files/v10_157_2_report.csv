@@ -1,0 +1,5 @@
+"F1: 0.83333","Precision: 0.83333","Recall: 0.83333"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"2","6","Cyclura rileyi rileyi","http://dbpedia.org/resource/Cyclura_rileyi_cristata","http://dbpedia.org/resource/San_Salvador_Ground_Iguana http://dbpedia.org/resource/Bahamian_Rock_Iguana http://dbpedia.org/resource/Cyclura_rileyi http://dbpedia.org/resource/Cyclura_rileyi_rileyi"
+"2","12","Abarema cochleata","http://dbpedia.org/resource/Abarema_obovata","http://dbpedia.org/resource/Abarema_cochleata"
+"2","13","Abarema alexandri","http://dbpedia.org/resource/Abarema_abbottii","http://dbpedia.org/resource/Shadbark_Abarema http://dbpedia.org/resource/Abarema_alexandri"

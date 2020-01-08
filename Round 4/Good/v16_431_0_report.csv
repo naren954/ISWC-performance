@@ -1,0 +1,22 @@
+F1: 0.85401,Precision: 0.85401,Recall: 0.85401,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,28,Yesterday,http://dbpedia.org/resource/Yesterday_(Shanice_song),http://dbpedia.org/resource/Yesterday_(Toni_Braxton_song)
+0,29,Yesterday,http://dbpedia.org/resource/Yesterday_(Shanice_song),http://dbpedia.org/resource/Yesterday_(The_Beatles_song) http://dbpedia.org/resource/Yesterday_(Beatles_song) http://dbpedia.org/resource/Yesterday/Maybe_I'm_In_Love http://dbpedia.org/resource/Yesterday/Maybe_I'm_in_Love http://dbpedia.org/resource/Scrambled_Eggs_(Beatles)
+0,34,Yesterday's Gone,http://dbpedia.org/resource/Yesterday's_Gone_(song),http://dbpedia.org/resource/Yesterday's_Gone
+0,39,Yes It Is,,http://dbpedia.org/resource/Yes_It_Is_(The_Beatles_song) http://dbpedia.org/resource/Yes_It_Is
+0,40,Yes,http://dbpedia.org/resource/Yes_(LMFAO_song),http://dbpedia.org/resource/Yes_(McAlmont_and_Butler_song) http://dbpedia.org/resource/Yes_(McAlmont_&_Butler_song)
+0,42,Yellow Submarine,http://dbpedia.org/resource/Yellow_Submarine_(album),http://dbpedia.org/resource/We_all_live_in_a_yellow_submarine http://dbpedia.org/resource/Yellow_Submarine_(song) http://dbpedia.org/resource/Yellow_Submarine_(Song)
+0,51,Yeah,http://dbpedia.org/resource/Yeah!_(Usher_song),http://dbpedia.org/resource/Yeah_(LCD_Soundsystem_song)
+0,52,Yeah,http://dbpedia.org/resource/Yeah!_(Usher_song),http://dbpedia.org/resource/Yeah_(Joe_Nichols_song)
+0,54,Yeah!,http://dbpedia.org/resource/Yeah!_(Usher_song),http://dbpedia.org/resource/Yeah!_(Paul_Brandt_song)
+0,60,Yang Yang,http://dbpedia.org/resource/Yang_(surname),http://dbpedia.org/resource/Yang_Yang_(song)
+0,74,Xanadu,http://dbpedia.org/resource/Xanadu_(Olivia_Newton-John_and_Electric_Light_Orchestra_song),http://dbpedia.org/resource/Xanadu_(Rush_song)
+0,79,X,http://dbpedia.org/resource/X_(Ed_Sheeran_album),http://dbpedia.org/resource/X_(Xzibit_song)
+0,80,X,http://dbpedia.org/resource/X_(Ed_Sheeran_album),http://dbpedia.org/resource/X_(Liberty_X_single) http://dbpedia.org/resource/X_(Liberty_X_song)
+0,85,XXL,http://dbpedia.org/resource/XXL_(Mylène_Farmer_song),http://dbpedia.org/resource/XXL_(Keith_Anderson_song)
+0,90,Wuthering Heights,,http://dbpedia.org/resource/Wuthering_Heights_(Kate_Bush_song) http://dbpedia.org/resource/Wuthering_Heights_Song http://dbpedia.org/resource/Wuthering_Heights_(song) http://dbpedia.org/resource/Wuthering_Heights_(Song)
+0,100,Wrong,http://dbpedia.org/resource/Wrong_(Depeche_Mode_song),http://dbpedia.org/resource/Wrong_(Waylon_Jennings_song)
+0,121,Wow,http://dbpedia.org/resource/Wow_(Kylie_Minogue_song),http://dbpedia.org/resource/WOW_(Inna_song) http://dbpedia.org/resource/Wow_(Inna_song)
+0,123,Wouldn't It Be Nice,,http://dbpedia.org/resource/Wouldn't_it_be_nice http://dbpedia.org/resource/Wouldn't_It_Be_Nice? http://dbpedia.org/resource/Wouldn't_it_Be_Nice http://dbpedia.org/resource/Wouldn't_It_Be_Nice
+0,130,Would You...?,http://dbpedia.org/resource/Would_You...?_(Touch_and_Go_song),http://dbpedia.org/resource/Would_You...?
+0,131,Would?,http://dbpedia.org/resource/Dark_Globe,http://dbpedia.org/resource/Would?

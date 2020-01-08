@@ -1,0 +1,6 @@
+"F1: 0.85714","Precision: 0.85714","Recall: 0.85714"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","17","L. Deslatte","nan","http://dbpedia.org/resource/Leo_Deslatte"
+"0","22","J. Bruneau","http://fr.dbpedia.org/resource/Isabelle_Bruneau","http://dbpedia.org/resource/Joel_Bruneau http://dbpedia.org/resource/Joël_Bruneau"
+"0","24","J. E. Sinnott","http://dbpedia.org/resource/Nicholas_J._Sinnott","http://dbpedia.org/resource/Joseph_Sinnott http://dbpedia.org/resource/Joseph_E._Sinnott"
+"0","26","J. V. González","http://dbpedia.org/resource/Joaquín_Vela_González","http://dbpedia.org/resource/Jorge_Vargas_González http://dbpedia.org/resource/Heredero_de_Tu_Amor http://dbpedia.org/resource/Heredero_De_Tu_Amor http://dbpedia.org/resource/Jorge_Vargas_Gonzalez"

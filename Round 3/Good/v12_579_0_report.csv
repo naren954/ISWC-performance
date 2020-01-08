@@ -1,0 +1,21 @@
+F1: 0.82569,Precision: 0.82569,Recall: 0.82569,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,6,J. Wilson,http://dbpedia.org/resource/Johnny_Wilson_(boxer),http://dbpedia.org/resource/Jackie_Wilson_(boxer) http://dbpedia.org/resource/Jackie_Wilson_(Boxer)
+0,9,J. Thompson,http://dbpedia.org/resource/Jocko_Thompson,http://dbpedia.org/resource/Jack_Thompson_(boxer)
+0,12,J. Petersen,http://dbpedia.org/resource/Jim_Petersen,http://dbpedia.org/resource/Jack_Petersen
+0,13,J. Moran,http://dbpedia.org/resource/Jim_Moran_(basketball),http://dbpedia.org/resource/Jack_Moran_(boxer)
+0,18,J. Gardner,http://dbpedia.org/resource/Jack_Gardner_(basketball),http://dbpedia.org/resource/Jack_Gardner_(fighter) http://dbpedia.org/resource/Jack_Gardner_(boxer)
+0,19,J. Delaney,http://dbpedia.org/resource/Joe_Delaney,http://dbpedia.org/resource/Jack_Delaney
+0,38,H. Thomas,http://dbpedia.org/resource/Herb_Thomas,http://dbpedia.org/resource/Henry_Thomas_(boxer) http://dbpedia.org/resource/A._Henry_Thomas
+0,44,H. Singh,http://dbpedia.org/resource/Hanumant_Singh,http://dbpedia.org/resource/Hawa_Singh
+0,51,H. Johnson,http://dbpedia.org/resource/Harold_Johnson_(basketball),http://dbpedia.org/resource/Harry_Johnson_(boxer)
+0,54,H. Johnson,http://dbpedia.org/resource/Harold_Johnson_(basketball),http://dbpedia.org/resource/Harold_Johnson_(boxer)
+0,63,G. Jones,http://dbpedia.org/resource/Garrett_Jones,http://dbpedia.org/resource/William_Jones_(boxer) http://dbpedia.org/resource/Gorilla_Jones
+0,68,G. Jones,http://dbpedia.org/resource/Garrett_Jones,http://dbpedia.org/resource/Ginger_Jones
+0,71,G. Sutton,http://dbpedia.org/resource/Greg_Sutton_(basketball),http://dbpedia.org/resource/George_Sutton_(boxer)
+0,72,G. Johnson,http://dbpedia.org/resource/Gus_Johnson_(basketball),http://dbpedia.org/resource/George_Johnson_(boxer)
+0,74,G. Godfrey,http://dbpedia.org/resource/George_Godfrey_(boxer_born_1897),http://dbpedia.org/resource/George_Godfrey_(boxer_born_1853)
+0,84,G. Hernández,http://dbpedia.org/resource/Genaro_Hernández,http://dbpedia.org/resource/Gabriel_Hernandez_(boxer) http://dbpedia.org/resource/Gabriel_Hernández_(boxer)
+0,100,F. Johnson,http://dbpedia.org/resource/Francis_Johnson_(basketball),http://dbpedia.org/resource/Frank_Johnson_(boxer)
+0,107,F. Nagy,http://dbpedia.org/resource/Fritz_Nagy,http://dbpedia.org/resource/Ferenc_Nagy_(boxer)
+0,109,E. Sellers,http://dbpedia.org/resource/Brad_Sellers,http://dbpedia.org/resource/Ezra_Sellers

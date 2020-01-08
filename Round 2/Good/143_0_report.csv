@@ -1,0 +1,22 @@
+F1: 0.85915,Precision: 0.85915,Recall: 0.85915,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,18,K. Andersen,http://dbpedia.org/resource/Kristine_Andersen,http://dbpedia.org/resource/Knud_Andersen_(cyclist)
+0,31,K. Magnussen,http://dbpedia.org/resource/Karen_Magnussen,http://dbpedia.org/resource/Karl_Magnussen
+0,35,K. Hansen,http://dbpedia.org/resource/Karl_Aage_Hansen,http://dbpedia.org/resource/Karl_Hansen_(cyclist)
+0,45,J. Simon,http://dbpedia.org/resource/Jérôme_Simon,http://dbpedia.org/resource/Jürgen_Simon http://dbpedia.org/resource/Jurgen_Simon
+0,49,J. Jensen,http://dbpedia.org/resource/Jackie_Jensen,http://dbpedia.org/resource/Jorgen_Jensen_(cyclist) http://dbpedia.org/resource/Jørgen_Jensen_(cyclist)
+0,56,J. Jørgensen,http://dbpedia.org/resource/Jørgen_Jørgensen_(cyclist),http://dbpedia.org/resource/Junker_Jorgensen http://dbpedia.org/resource/Junker_Jørgensen
+0,82,J. Pauwels,http://dbpedia.org/resource/Eddy_Pauwels,http://dbpedia.org/resource/José_Pauwels http://dbpedia.org/resource/Jose_Pauwels
+0,86,J. Gómez,http://dbpedia.org/resource/Jaime_Gómez_(Mexican_footballer),http://dbpedia.org/resource/José_Gómez_(cyclist) http://dbpedia.org/resource/Jose_Gomez_(cyclist)
+0,88,J. A. Momeñe,http://dbpedia.org/resource/J._J._Philbin,http://dbpedia.org/resource/José_Antonio_Momene http://dbpedia.org/resource/José-Antonio_Momene http://dbpedia.org/resource/Jose_Antonio_Momene http://dbpedia.org/resource/José_Antonio_Momeñe
+0,89,J. Wauters,http://fr.dbpedia.org/resource/Jean_Wauters_(cyclisme),http://dbpedia.org/resource/Joseph_Wauters
+0,102,J. Wagner,http://dbpedia.org/resource/Joe_Wagner,http://dbpedia.org/resource/Josef_Wagner_(cyclist)
+0,103,J. Rieder,http://dbpedia.org/resource/Josl_Rieder,http://dbpedia.org/resource/Joseph_Rieder http://dbpedia.org/resource/Josef_Rieder_(cyclist)
+0,107,J. Fischer,http://dbpedia.org/resource/Jean_Fischer,http://dbpedia.org/resource/Josef_Fischer_(cyclist)
+0,117,J. Pauwels,http://dbpedia.org/resource/Eddy_Pauwels,http://dbpedia.org/resource/José_Pauwels http://dbpedia.org/resource/Jose_Pauwels
+0,121,J. Gómez,http://dbpedia.org/resource/Jaime_Gómez_(Mexican_footballer),http://dbpedia.org/resource/José_Gómez_(cyclist) http://dbpedia.org/resource/Jose_Gomez_(cyclist)
+0,123,J. A. Momeñe,http://dbpedia.org/resource/J._J._Philbin,http://dbpedia.org/resource/José_Antonio_Momene http://dbpedia.org/resource/José-Antonio_Momene http://dbpedia.org/resource/Jose_Antonio_Momene http://dbpedia.org/resource/José_Antonio_Momeñe
+0,129,J. Miller,"http://dbpedia.org/resource/Justin_Miller_(baseball,_born_1977)",http://dbpedia.org/resource/John_Miller_(cyclist)
+0,131,J. Lawson,http://dbpedia.org/resource/Jim_Lawson_(American_football),http://dbpedia.org/resource/The_Terrible_Swede http://dbpedia.org/resource/John_Lawson_(cyclist)
+0,133,J. Kennedy,http://dbpedia.org/resource/John_Kennedy_(shortstop),http://dbpedia.org/resource/John_Kennedy_(cyclist)
+0,142,J. Becker,http://dbpedia.org/resource/Joe_Becker_(baseball),http://dbpedia.org/resource/Joe_Becker_(cyclist) http://dbpedia.org/resource/Joseph_Becker_(cyclist)

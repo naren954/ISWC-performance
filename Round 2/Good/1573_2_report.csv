@@ -1,0 +1,5 @@
+F1: 0.81250,Precision: 0.81250,Recall: 0.81250,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,3,B. Merrill,http://dbpedia.org/resource/Dina_Merrill,http://dbpedia.org/resource/Bob_Merrill
+2,4,S. Schwartz,http://de.dbpedia.org/resource/Stefan_Schwartz,http://dbpedia.org/resource/Stephen_Schwartz_(composer)
+2,5,L. Dahlquist,http://dbpedia.org/resource/Michael_Dahlquist,http://dbpedia.org/resource/Lasse_Dahlquist

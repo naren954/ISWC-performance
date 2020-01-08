@@ -1,0 +1,14 @@
+F1: 0.33333,Precision: 0.33333,Recall: 0.33333,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Astra PloieÈ\u0099ti,http://dbpedia.org/resource/Toyota,http://dbpedia.org/resource/FC_Astra_Ploiești
+0,2,BraÅ\u009Fov,http://dbpedia.org/resource/Cyborg_009,http://dbpedia.org/resource/FC_Braşov
+0,3,CeahlÄ\u0083ul Piatra NeamÅ£,,http://dbpedia.org/resource/FC_Ceahlăul_Piatra_Neamţ
+0,6,Dinamo BucureÅ\u009Fti,http://dbpedia.org/resource/FC_Dinamo_București,http://dbpedia.org/resource/FC_Dinamo_Bucureşti
+0,7,Gaz Metan MediaÅ\u009F,http://dbpedia.org/resource/CS_Gaz_Metan_Mediaș,http://dbpedia.org/resource/CS_Gaz_Metan_Mediaş
+0,9,OÅ£elul GalaÅ£i,http://dbpedia.org/resource/ASC_Oțelul_Galați,http://dbpedia.org/resource/FC_Oţelul_Galaţi
+0,11,Petrolul PloieÅ\u009Fti,http://dbpedia.org/resource/FC_Petrolul_Ploiești,http://dbpedia.org/resource/FC_Petrolul_Ploieşti
+0,12,Rapid BucureÅ\u009Fti,http://de.dbpedia.org/resource/FTI_Group,http://dbpedia.org/resource/FC_Rapid_Bucureşti
+0,13,Sportul StudenÅ£esc,http://dbpedia.org/resource/FC_Sportul_Studențesc_București,http://dbpedia.org/resource/FC_Sportul_Studenţesc_Bucureşti
+0,14,Steaua BucureÅ\u009Fti,http://dbpedia.org/resource/FCSB,http://dbpedia.org/resource/FC_Steaua_Bucureşti
+0,15,TÃ¢rgu MureÅ\u009F,http://dbpedia.org/resource/ASA_Târgu_Mureș_(1962),http://dbpedia.org/resource/FCM_Târgu_Mureş
+0,18,VoinÅ£a Sibiu,http://dbpedia.org/resource/CSU_Voința_Sibiu,http://dbpedia.org/resource/CSU_Voinţa_Sibiu

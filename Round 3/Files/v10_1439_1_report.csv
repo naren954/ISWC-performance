@@ -1,0 +1,7 @@
+"F1: 0.66667","Precision: 0.66667","Recall: 0.66667"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","4","Neckarelz","http://dbpedia.org/resource/Mosbach","http://dbpedia.org/resource/Neckarelz"
+"1","6","Mascouche","http://dbpedia.org/resource/Mascouche_line","http://dbpedia.org/resource/Mascouche_railway_station http://dbpedia.org/resource/Mascouche_(AMT)"
+"1","7","Martinborough","http://dbpedia.org/resource/Martinborough_Branch","http://dbpedia.org/resource/UN/LOCODE:NZMRB http://dbpedia.org/resource/Martinborough http://dbpedia.org/resource/Martinborough,_New_Zealand"
+"1","8","Lecce","http://dbpedia.org/resource/Lecce_railway_station","http://dbpedia.org/resource/Luppìu http://dbpedia.org/resource/Lupiae http://dbpedia.org/resource/Lecce http://dbpedia.org/resource/Lecce,_Italy"
+"1","11","Marina di Carrara","http://it.dbpedia.org/resource/Stazione_di_Marina_di_Carrara_(FMC)","http://dbpedia.org/resource/Carrara http://dbpedia.org/resource/Carrara,_Italy http://dbpedia.org/resource/Marina_di_Carrara http://dbpedia.org/resource/Avenza http://dbpedia.org/resource/Principality_of_Carrara http://dbpedia.org/resource/Comune_di_Carrara"

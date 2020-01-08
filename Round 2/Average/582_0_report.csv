@@ -1,0 +1,29 @@
+F1: 0.72727,Precision: 0.72727,Recall: 0.72727,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,D. Durant,http://dbpedia.org/resource/Will_Durant,http://dbpedia.org/resource/Don_Durant
+0,4,D. Guimarães,http://dbpedia.org/resource/Ulysses_Guimarães,http://dbpedia.org/resource/Djalma_Guimaraes http://dbpedia.org/resource/Djalma_Guimarães
+0,5,D. Carter,http://dbpedia.org/resource/Jimmy_Carter,http://dbpedia.org/resource/Dixie_Carter_(actress) http://dbpedia.org/resource/Dixie_Carter
+0,10,D. quintuplets,http://dbpedia.org/resource/Kienast_quintuplets,http://dbpedia.org/resource/Quintland http://dbpedia.org/resource/Doinne_quintuplets http://dbpedia.org/resource/Dionne_Quintuplets http://dbpedia.org/resource/Dion_sisters http://dbpedia.org/resource/Dionne_quintuplets http://dbpedia.org/resource/Marie_Dionne http://dbpedia.org/resource/Dion_quintuplets http://dbpedia.org/resource/Oliva_Dionne http://dbpedia.org/resource/Émilie_Dionne http://dbpedia.org/resource/Cecile_Dionne http://dbpedia.org/resource/Dionne_sisters http://dbpedia.org/resource/Emilie_Dionne http://dbpedia.org/resource/Dionne_Sisters http://dbpedia.org/resource/Dion_Quintuplets http://dbpedia.org/resource/Annette_Dionne http://dbpedia.org/resource/Dion_Sisters http://dbpedia.org/resource/Cécile_Dionne http://dbpedia.org/resource/Elzire_Dionne http://dbpedia.org/resource/Annette_Lillianne_Marie_Dionne
+0,12,D. Thakur,http://dbpedia.org/resource/Dinesh_Thakur_(mathematician),http://dbpedia.org/resource/Dinesh_Thakur_(theatre_director) http://dbpedia.org/resource/Dinesh_Thakur
+0,13,D. Andrusov,http://dbpedia.org/resource/Nicolai_Ivanovich_Andrusov,http://dbpedia.org/resource/Dimitrij_Andrusov
+0,20,D. Patrick,http://dbpedia.org/resource/Patrick_Leahy,http://dbpedia.org/resource/Dennis_Patrick
+0,21,D. M. Bose,http://dbpedia.org/resource/Amar_Bose,http://dbpedia.org/resource/Debendramohan_Basu http://dbpedia.org/resource/Debendra_Mohan_Bose http://dbpedia.org/resource/D._M._Bose
+0,22,D. Biswas,http://dbpedia.org/resource/Seema_Biswas,http://dbpedia.org/resource/Debabrata_Biswas
+0,23,D. Kelley,http://dbpedia.org/resource/Harold_Kelley,"http://dbpedia.org/resource/Forest_Kelley http://dbpedia.org/resource/Kelley,_DeForrest http://dbpedia.org/resource/Deforest_Kelly http://dbpedia.org/resource/De_forest_kelley http://dbpedia.org/resource/Deforest_Kelley http://dbpedia.org/resource/DeForest_Kelley http://dbpedia.org/resource/Deforrest_Kelley http://dbpedia.org/resource/DeForest_Kelly"
+0,24,D. Waltz,http://dbpedia.org/resource/Kenneth_Waltz,http://dbpedia.org/resource/David_L._Waltz http://dbpedia.org/resource/David_Leigh_Waltz http://dbpedia.org/resource/Dave_waltz http://dbpedia.org/resource/David_Waltz http://dbpedia.org/resource/David_L_Waltz
+0,32,D. Kelly,http://dbpedia.org/resource/David_Kelly_(weapons_expert),http://dbpedia.org/resource/David_Kelly_(actor)
+0,35,D. Heath,http://dbpedia.org/resource/David_Heath_(politician),http://dbpedia.org/resource/David_Heath_(probabilist)
+0,42,D. Ward,http://dbpedia.org/resource/Dudley_Ward_(judge),http://dbpedia.org/resource/Darrell_Ward
+0,56,"Crawford Hallock Greenewalt, Jr.",http://dbpedia.org/resource/Crawford_Hallock_Greenewalt_Jr.,"http://dbpedia.org/resource/C._H._Greenewalt,_Jr. http://dbpedia.org/resource/Crawford_Hallock_Greenewalt,_Jr. http://dbpedia.org/resource/Crawford_H._Greenewalt,_Jr."
+0,59,C. H. Jr.,http://dbpedia.org/resource/Charles_Henry_Smyth_Jr.,"http://dbpedia.org/resource/Constantijn_Huygens_Jr. http://dbpedia.org/resource/Constantijn_Huygens_jr. http://dbpedia.org/resource/Constantijn_Huygens,_Jr."
+0,62,C. A. Adams,http://dbpedia.org/resource/Charles_Baker_Adams,http://dbpedia.org/resource/Comfort_Adams http://dbpedia.org/resource/Comfort_A._Adams http://dbpedia.org/resource/C._A._Adams
+0,67,C. H. Pope,,http://dbpedia.org/resource/Clifford_Hillhouse_Pope http://dbpedia.org/resource/Clifford_Pope http://dbpedia.org/resource/Clifford_H._Pope
+0,68,C. Moore,http://dbpedia.org/resource/Charles_Moore_(architect),http://dbpedia.org/resource/Clayton_Moore
+0,70,C. Ellis,http://dbpedia.org/resource/Carla_Ellis,http://dbpedia.org/resource/Clarence_Ellis_(computer_scientist) http://dbpedia.org/resource/Clarence_Ellis_(Computer_Scientist) http://dbpedia.org/resource/Clarence_A._Ellis
+0,81,C. Maclagan,http://dbpedia.org/resource/William_Maclagan,http://dbpedia.org/resource/Christian_Maclagan
+0,88,C. Barnard,http://dbpedia.org/resource/Christiaan_Barnard,http://dbpedia.org/resource/Chester_Irving_Barnard http://dbpedia.org/resource/C._Barnard http://dbpedia.org/resource/Chester_I._Barnard http://dbpedia.org/resource/Acceptance_theory_of_authority http://dbpedia.org/resource/Chester_Barnard http://dbpedia.org/resource/Acceptance_theory
+0,89,C. Jerome,http://dbpedia.org/resource/C._Jérôme,http://dbpedia.org/resource/Chauncey_jerome http://dbpedia.org/resource/Chauncey_Jerome
+0,93,C. Friend,http://dbpedia.org/resource/Cynthia_Friend,http://dbpedia.org/resource/Charlotte_Friend
+0,94,C. Seuerling,http://dbpedia.org/resource/Carl_Seuerling,http://dbpedia.org/resource/Charlotte_Seuerling http://dbpedia.org/resource/Charlotta_Seuerling
+0,95,C. W. Simpson,http://dbpedia.org/resource/Charles_Walter_Simpson_(Canadian_artist),http://dbpedia.org/resource/Charles_Walter_Simpson_(1885–1971) http://dbpedia.org/resource/Charles_Walter_Simpson_(1885-1971) http://dbpedia.org/resource/Charles_Walter_Simpson_(English_artist)
+0,96,C. Wachsmuth,http://dbpedia.org/resource/Curt_Wachsmuth,http://dbpedia.org/resource/Charles_Wachsmuth http://dbpedia.org/resource/C._Wachsmuth

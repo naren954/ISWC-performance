@@ -1,0 +1,9 @@
+F1: 0.84783,Precision: 0.84783,Recall: 0.84783,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,Brian Bloom,http://dbpedia.org/resource/Claire_Bloom,http://dbpedia.org/resource/Brian_Bloom
+0,6,Patricia Bruder,http://es.dbpedia.org/resource/Patricia_Martínez,http://dbpedia.org/resource/Patsy_Bruder http://dbpedia.org/resource/Patricia_Bruder
+0,10,Joseph Cross,http://dbpedia.org/resource/Joseph_Stalin,http://dbpedia.org/resource/Joseph_Michael_Cross http://dbpedia.org/resource/Joseph_Cross_(actor)
+0,13,Thomas Gibson,http://dbpedia.org/resource/Thomas_Milner_Gibson,"http://dbpedia.org/resource/Gibson,_Thomas http://dbpedia.org/resource/Thomas_Gibson"
+0,29,Rosemary Prinz,http://fr.dbpedia.org/resource/Rosemary_Lane,http://dbpedia.org/resource/Rosemary_Prinz
+0,39,Michael Swan,http://dbpedia.org/resource/Michael_Gira,http://dbpedia.org/resource/Michael_Swan
+0,44,Steven Weber,http://dbpedia.org/resource/Steven_Weber,http://dbpedia.org/resource/Steven_Weber_(actor)

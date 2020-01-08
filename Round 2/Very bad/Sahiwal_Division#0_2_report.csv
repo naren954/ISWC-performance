@@ -1,0 +1,6 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,2,Chichawatni,http://dbpedia.org/resource/Chichawatni_railway_station,http://dbpedia.org/resource/Cheechawutnee http://dbpedia.org/resource/Chichawatni http://dbpedia.org/resource/History_of_Chichawatni
+2,4,Depalpur,http://dbpedia.org/resource/Dipalpur,http://dbpedia.org/resource/Depalpur_Tehsil
+2,5,Renala Khurd,http://dbpedia.org/resource/Renala_Khurd_railway_station,http://dbpedia.org/resource/Renala_khurd http://dbpedia.org/resource/Renala_Khurd
+2,7,Arifwala,http://dbpedia.org/resource/Arif_Wala_railway_station,"http://dbpedia.org/resource/Arifwala http://dbpedia.org/resource/Trikhni http://dbpedia.org/resource/Chak_68EB_Dogaranwala http://dbpedia.org/resource/Arifwala,_Pakistan"

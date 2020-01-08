@@ -1,0 +1,6 @@
+"F1: 0.66667","Precision: 0.66667","Recall: 0.66667"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"3","1","Invincible","http://dbpedia.org/resource/Invincible_(2001_TV_film)","http://dbpedia.org/resource/Invincible_(Muse_song)"
+"3","2","Mare","http://dbpedia.org/resource/Mare_(band)","http://dbpedia.org/resource/Mare_(TV_series)"
+"3","5","Rubí","http://dbpedia.org/resource/Rubí_(2004_TV_series)","http://dbpedia.org/resource/Rubi_(Philippine_TV_Remake) http://dbpedia.org/resource/Rubí http://dbpedia.org/resource/Rubi_(TV_series)"
+"3","7","Anne of Green Gables","http://dbpedia.org/resource/Anne_of_Green_Gables:_The_Continuing_Story","http://dbpedia.org/resource/Anne_of_Green_Gables_(1985_movie) http://dbpedia.org/resource/Anne_of_Green_Gables_(1985_film)"

@@ -1,0 +1,35 @@
+F1: 0.83077,Precision: 0.83077,Recall: 0.83077,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,4,S. Yang,http://dbpedia.org/resource/Yu_Yang_(badminton),http://dbpedia.org/resource/Sun_Yang http://dbpedia.org/resource/Sunyang http://dbpedia.org/resource/Sun_Yang_(sportsperson) http://dbpedia.org/resource/Sun_Yang_(swimmer)
+1,5,J. Magnussen,http://dbpedia.org/resource/Karen_Magnussen,http://dbpedia.org/resource/James_Magnussen
+1,9,L. Cseh,http://dbpedia.org/resource/László_Cseh_(footballer),http://dbpedia.org/resource/Cseh_László http://dbpedia.org/resource/Laszlo_Cseh http://dbpedia.org/resource/Laszlo_Czeh http://dbpedia.org/resource/Cseh_Laszlo http://dbpedia.org/resource/László_Cseh http://dbpedia.org/resource/Cseh_laszlo http://dbpedia.org/resource/Cseh_lászló http://dbpedia.org/resource/Czeh_László
+1,15,B. Hansen,http://dbpedia.org/resource/Bent_Hansen,http://dbpedia.org/resource/Brendan_Hanson http://dbpedia.org/resource/Brendan_Hansen
+1,30,T. Yi,http://dbpedia.org/resource/Teng_Yi,http://dbpedia.org/resource/Yi_Tang http://dbpedia.org/resource/Tang_Yi
+1,32,S. Suzuki,http://dbpedia.org/resource/Seiichi_Suzuki,http://dbpedia.org/resource/Satomi_Suzuki
+1,36,S. Yang,http://dbpedia.org/resource/Yu_Yang_(badminton),http://dbpedia.org/resource/Sun_Yang http://dbpedia.org/resource/Sunyang http://dbpedia.org/resource/Sun_Yang_(sportsperson) http://dbpedia.org/resource/Sun_Yang_(swimmer)
+1,41,L. Cseh,http://dbpedia.org/resource/László_Cseh_(footballer),http://dbpedia.org/resource/Cseh_László http://dbpedia.org/resource/Laszlo_Cseh http://dbpedia.org/resource/Laszlo_Czeh http://dbpedia.org/resource/Cseh_Laszlo http://dbpedia.org/resource/László_Cseh http://dbpedia.org/resource/Cseh_laszlo http://dbpedia.org/resource/Cseh_lászló http://dbpedia.org/resource/Czeh_László
+1,47,B. Hansen,http://dbpedia.org/resource/Bent_Hansen,http://dbpedia.org/resource/Brendan_Hanson http://dbpedia.org/resource/Brendan_Hansen
+1,50,C. Campbell,http://dbpedia.org/resource/Cassie_Campbell,http://dbpedia.org/resource/Cate_Campbell
+1,53,C. Campbell,http://dbpedia.org/resource/Cassie_Campbell,http://dbpedia.org/resource/Cate_Campbell
+1,55,J. Jackson,http://dbpedia.org/resource/Julius_Jackson,http://dbpedia.org/resource/Jo_Jackson_(swimmer) http://dbpedia.org/resource/Jo_jackson http://dbpedia.org/resource/Joanne_Jackson_(swimmer) http://dbpedia.org/resource/Joanne_Jackson_(swimming)
+1,82,C. Campbell,http://dbpedia.org/resource/Cassie_Campbell,http://dbpedia.org/resource/Cate_Campbell
+1,85,C. Campbell,http://dbpedia.org/resource/Cassie_Campbell,http://dbpedia.org/resource/Cate_Campbell
+1,87,J. Jackson,http://dbpedia.org/resource/Julius_Jackson,http://dbpedia.org/resource/Jo_Jackson_(swimmer) http://dbpedia.org/resource/Jo_jackson http://dbpedia.org/resource/Joanne_Jackson_(swimmer) http://dbpedia.org/resource/Joanne_Jackson_(swimming)
+1,114,L. Lenton,http://dbpedia.org/resource/Jay_Lenton,http://dbpedia.org/resource/Lisbeth_Lenton http://dbpedia.org/resource/Libby_Lenton http://dbpedia.org/resource/Lisbeth_Trickett http://dbpedia.org/resource/Libby_Tricket http://dbpedia.org/resource/Libby_Trickett
+1,117,C. Groot,http://dbpedia.org/resource/Nycke_Groot,http://dbpedia.org/resource/Chantal_Groot
+1,127,L. Jones,http://dbpedia.org/resource/Lloyd_Jones_(footballer),http://dbpedia.org/resource/Liesel_Jones http://dbpedia.org/resource/Leisel_Jones
+1,133,L. Cseh,http://dbpedia.org/resource/László_Cseh_(footballer),http://dbpedia.org/resource/Cseh_László http://dbpedia.org/resource/Laszlo_Cseh http://dbpedia.org/resource/Laszlo_Czeh http://dbpedia.org/resource/Cseh_Laszlo http://dbpedia.org/resource/László_Cseh http://dbpedia.org/resource/Cseh_laszlo http://dbpedia.org/resource/Cseh_lászló http://dbpedia.org/resource/Czeh_László
+1,134,K. Keller,http://dbpedia.org/resource/Kasey_Keller,http://dbpedia.org/resource/Klete_Keller
+1,138,B. Hansen,http://dbpedia.org/resource/Bent_Hansen,http://dbpedia.org/resource/Brendan_Hanson http://dbpedia.org/resource/Brendan_Hansen
+1,140,D. Davies,"http://dbpedia.org/resource/David_Davies_(footballer,_born_1888)",http://dbpedia.org/resource/David_Davies_(swimmer)
+1,146,L. Lenton,http://dbpedia.org/resource/Jay_Lenton,http://dbpedia.org/resource/Lisbeth_Lenton http://dbpedia.org/resource/Libby_Lenton http://dbpedia.org/resource/Lisbeth_Trickett http://dbpedia.org/resource/Libby_Tricket http://dbpedia.org/resource/Libby_Trickett
+1,159,L. Jones,http://dbpedia.org/resource/Lloyd_Jones_(footballer),http://dbpedia.org/resource/Liesel_Jones http://dbpedia.org/resource/Leisel_Jones
+1,165,L. Cseh,http://dbpedia.org/resource/László_Cseh_(footballer),http://dbpedia.org/resource/Cseh_László http://dbpedia.org/resource/Laszlo_Cseh http://dbpedia.org/resource/Laszlo_Czeh http://dbpedia.org/resource/Cseh_Laszlo http://dbpedia.org/resource/László_Cseh http://dbpedia.org/resource/Cseh_laszlo http://dbpedia.org/resource/Cseh_lászló http://dbpedia.org/resource/Czeh_László
+1,166,K. Keller,http://dbpedia.org/resource/Kasey_Keller,http://dbpedia.org/resource/Klete_Keller
+1,170,B. Hansen,http://dbpedia.org/resource/Bent_Hansen,http://dbpedia.org/resource/Brendan_Hanson http://dbpedia.org/resource/Brendan_Hansen
+1,172,D. Davies,"http://dbpedia.org/resource/David_Davies_(footballer,_born_1888)",http://dbpedia.org/resource/David_Davies_(swimmer)
+1,180,M. Nakamura,http://dbpedia.org/resource/Micheal_Nakamura,http://dbpedia.org/resource/Mai_Nakamura
+1,183,C. Poll,http://dbpedia.org/resource/Silvia_Poll,http://dbpedia.org/resource/Claudia_Maria_Poll_Ahrens http://dbpedia.org/resource/Claudia_Poll http://dbpedia.org/resource/Claudia_Poll_Ahrens http://dbpedia.org/resource/Claudia_poll
+1,185,C. Poll,http://dbpedia.org/resource/Silvia_Poll,http://dbpedia.org/resource/Claudia_Maria_Poll_Ahrens http://dbpedia.org/resource/Claudia_Poll http://dbpedia.org/resource/Claudia_Poll_Ahrens http://dbpedia.org/resource/Claudia_poll
+1,187,A. Beard,http://dbpedia.org/resource/Alana_Beard,http://dbpedia.org/resource/Amanda_Beard
+1,189,J. Thompson,http://dbpedia.org/resource/Jocko_Thompson,http://dbpedia.org/resource/Jenny_Thompson

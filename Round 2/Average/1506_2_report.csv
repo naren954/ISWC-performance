@@ -1,0 +1,7 @@
+F1: 0.72222,Precision: 0.72222,Recall: 0.72222,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,1,"Sikandra, Agra",http://dbpedia.org/resource/Sikandra_Rao,"http://dbpedia.org/resource/Tomb_of_Akbar_the_Great http://dbpedia.org/resource/Sikandra,_Agra http://dbpedia.org/resource/Akbar's_Tomb"
+2,2,Holy Trinity Cathedral,http://dbpedia.org/resource/Gloucester_Cathedral,http://dbpedia.org/resource/Holy_Trinity_Cathedral_(Addis_Ababa)
+2,6,Mexico City Cathedral,http://dbpedia.org/resource/Durham_Cathedral,"http://dbpedia.org/resource/Mexico_City_Metropolitan_Cathedral http://dbpedia.org/resource/Metropolitan_Cathedral,_Mexico_City http://dbpedia.org/resource/Sagrario_Metropolitano http://dbpedia.org/resource/Mexico_City_Cathedral http://dbpedia.org/resource/Metropolitan_Cathedral_of_Mexico_City http://dbpedia.org/resource/Iglesia_de_Santa_Domingo"
+2,8,Mexico City Cathedral,http://dbpedia.org/resource/Durham_Cathedral,"http://dbpedia.org/resource/Mexico_City_Metropolitan_Cathedral http://dbpedia.org/resource/Metropolitan_Cathedral,_Mexico_City http://dbpedia.org/resource/Sagrario_Metropolitano http://dbpedia.org/resource/Mexico_City_Cathedral http://dbpedia.org/resource/Metropolitan_Cathedral_of_Mexico_City http://dbpedia.org/resource/Iglesia_de_Santa_Domingo"
+2,16,Alcobaça,http://dbpedia.org/resource/Alcobaça_Monastery,http://dbpedia.org/resource/Alcobaça_(Portugal)

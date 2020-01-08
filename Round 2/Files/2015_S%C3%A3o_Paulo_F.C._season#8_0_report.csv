@@ -1,0 +1,5 @@
+"F1: 0.25000","Precision: 0.25000","Recall: 0.25000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","2","SÃ£o Paulo","http://dbpedia.org/resource/São_Paulo_(state)","http://dbpedia.org/resource/São_Paulo_FC"
+"0","3","San Lorenzo","http://dbpedia.org/resource/Saint_Lawrence","http://dbpedia.org/resource/Club_Atletico_San_Lorenzo_de_Almagro http://dbpedia.org/resource/San_Lorenzo_de_Almagro http://dbpedia.org/resource/Club_Atletico_San_Lorenzo http://dbpedia.org/resource/CA_San_Lorenzo_de_Almagro http://dbpedia.org/resource/CASLA http://dbpedia.org/resource/Club_Atlético_San_Lorenzo_de_Almagro http://dbpedia.org/resource/Club_Atlético_San_Lorenzo"
+"0","4","Danubio","http://dbpedia.org/resource/Danube","http://dbpedia.org/resource/Danubio_F.C. http://dbpedia.org/resource/Danubio_F._C. http://dbpedia.org/resource/FC_Danubio_Montevideo http://dbpedia.org/resource/Danubio http://dbpedia.org/resource/Danubio_Fútbol_Club http://dbpedia.org/resource/Danubio_F_C http://dbpedia.org/resource/Danubio_FC"

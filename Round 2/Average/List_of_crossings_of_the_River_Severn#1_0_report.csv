@@ -1,0 +1,11 @@
+F1: 0.62500,Precision: 0.62500,Recall: 0.62500,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,52,St George's Bridge,http://dbpedia.org/resource/St._Georges_Bridge_(Delaware),http://dbpedia.org/resource/St_George's_Bridge
+0,53,Welsh Bridge,http://dbpedia.org/resource/Matthew_E._Welsh_Bridge,http://dbpedia.org/resource/Welsh_Bridge_(Shrewsbury) http://dbpedia.org/resource/Welsh_Bridge
+0,57,English Bridge,http://dbpedia.org/resource/English_Bridge_(Saint_Petersburg),http://dbpedia.org/resource/English_Bridge
+0,59,Castle Walk Footbridge,http://dbpedia.org/resource/Kildrummy_Castle,http://dbpedia.org/resource/Castle_Walk_Footbridge
+0,85,Hampton Loade Ferry,http://dbpedia.org/resource/Virginia_State_Route_337,http://dbpedia.org/resource/Hampton_Loade_Ferry_(River_Severn) http://dbpedia.org/resource/Hampton_Loade_Ferry
+0,89,Victoria Bridge,http://dbpedia.org/resource/Chelsea_Bridge,"http://dbpedia.org/resource/Victoria_Bridge,_Worcestershire"
+0,95,Holt Fleet Bridge,http://dbpedia.org/resource/Farndon_Bridge,http://dbpedia.org/resource/Holt_Bridge http://dbpedia.org/resource/Holt_Fleet_Bridge
+0,128,Severn tunnel (1810),http://dbpedia.org/resource/Sapperton_Canal_Tunnel,http://dbpedia.org/resource/Severn_tunnel_(1810)
+0,135,Severn Tunnel,http://dbpedia.org/resource/Sapperton_Canal_Tunnel,http://dbpedia.org/resource/Severn_Tunnel http://dbpedia.org/resource/Severn_tunnel http://dbpedia.org/resource/Twnnel_Hafren

@@ -1,0 +1,8 @@
+"F1: 0.00000","Precision: 0.00000","Recall: 0.00000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","6","Weston","http://dbpedia.org/resource/Weston_(surname)","http://dbpedia.org/resource/Phil_Weston http://dbpedia.org/resource/Philip_Weston"
+"0","2","Thomas","http://dbpedia.org/resource/Thomas_(surname)","http://dbpedia.org/resource/Paul_Thomas_(cricketer)"
+"0","5","Solanki","http://dbpedia.org/resource/Solanki","http://dbpedia.org/resource/Vikram_Solanki"
+"0","3","Haynes","http://dbpedia.org/resource/Haynes_(surname)","http://dbpedia.org/resource/Gavin_Haynes"
+"0","1","Newport","nan","http://dbpedia.org/resource/Phil_John_Newport http://dbpedia.org/resource/Philip_Newport http://dbpedia.org/resource/Philip_John_Newport http://dbpedia.org/resource/Phil_Newport"
+"0","4","Lampitt","nan","http://dbpedia.org/resource/Stuart_Lampitt"

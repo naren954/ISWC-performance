@@ -1,0 +1,4 @@
+"F1: 0.85714","Precision: 0.85714","Recall: 0.85714"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","2","Days of Wine and Roses","http://dbpedia.org/resource/Days_of_Wine_and_Roses_(film)","http://dbpedia.org/resource/Days_of_Wine_and_Roses_(Playhouse_90) http://dbpedia.org/resource/Days_of_Wine_and_Roses_(1958_TV_drama)"
+"0","7","Cash","http://dbpedia.org/resource/Johnny_Cash_(song)","http://dbpedia.org/resource/Cash_(The_Young_Ones) http://dbpedia.org/resource/Cash_(Young_Ones) http://dbpedia.org/resource/Cash_(Young_Ones_episode) http://dbpedia.org/resource/Cash_(The_Young_Ones_episode)"

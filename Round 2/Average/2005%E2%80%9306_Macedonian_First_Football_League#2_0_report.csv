@@ -1,0 +1,7 @@
+F1: 0.58333,Precision: 0.58333,Recall: 0.58333,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,BaÅ¡kimi,http://dbpedia.org/resource/Software_maintenance,http://dbpedia.org/resource/FK_Bashkimi_(1947–2008)
+0,6,Pobeda,http://dbpedia.org/resource/FK_Vardar,http://dbpedia.org/resource/FK_Pobeda http://dbpedia.org/resource/Pobeda_Prilep
+0,7,RabotniÄ\u008Dki,http://dbpedia.org/resource/Tyrrell_008,http://dbpedia.org/resource/FK_Rabotnički
+0,9,ShkÃ«ndija,http://dbpedia.org/resource/KF_Shkëndija,http://dbpedia.org/resource/FK_Shkëndija
+0,11,Vardar,http://dbpedia.org/resource/FK_Partizan,http://dbpedia.org/resource/Vardar_Skopje http://dbpedia.org/resource/FC_Vardar http://dbpedia.org/resource/FK_Vardar_Skopje http://dbpedia.org/resource/FC_Varadar http://dbpedia.org/resource/FK_Vardar

@@ -1,0 +1,6 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,4,Juvenil,http://dbpedia.org/resource/Racing_de_Santander,http://dbpedia.org/resource/SD_Juvenil
+1,5,Lemos,http://dbpedia.org/resource/Daniel_Lemos,http://dbpedia.org/resource/Club_Lemos
+1,6,Pontevedra,http://dbpedia.org/resource/Pontevedra,http://dbpedia.org/resource/Pontevedra_Club_de_Fútbol http://dbpedia.org/resource/Pontevedra_Club_de_Futbol http://dbpedia.org/resource/Pontevedra_CF
+1,9,Lugo,http://dbpedia.org/resource/Lugo,http://dbpedia.org/resource/CD_Lugo http://dbpedia.org/resource/Club_Deportivo_Lugo

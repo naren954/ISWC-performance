@@ -1,0 +1,5 @@
+F1: 0.70000,Precision: 0.70000,Recall: 0.70000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Y. Tseklenis,http://dbpedia.org/resource/Yannis_Tseklenis,http://dbpedia.org/resource/Yiannis_Tseklenis
+0,5,S. Burton,http://dbpedia.org/resource/David_Burton_(director),http://dbpedia.org/resource/Sarah_Jane_Burton http://dbpedia.org/resource/Sarah_Burton http://dbpedia.org/resource/Sarah_J._Burton
+0,8,N. Cohn,http://dbpedia.org/resource/Art_Cohn,http://dbpedia.org/resource/Nudie's_of_Hollyood http://dbpedia.org/resource/Nudie_Cohen http://dbpedia.org/resource/Nudie's_of_Hollywood http://dbpedia.org/resource/Nudy_Cohen http://dbpedia.org/resource/Nuta_Kotlyarenko http://dbpedia.org/resource/The_nudie_cowboys http://dbpedia.org/resource/Nudie_suit http://dbpedia.org/resource/Nudie_Cohn http://dbpedia.org/resource/Nudy_Cohn http://dbpedia.org/resource/The_Nudie_Cowboys

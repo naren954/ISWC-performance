@@ -1,0 +1,8 @@
+F1: 0.90000,Precision: 0.90000,Recall: 0.90000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,4,V. Rakhimov,"http://ru.dbpedia.org/resource/Рахимов,_Александр_Викторович",http://dbpedia.org/resource/Vyuhar_Rahimov http://dbpedia.org/resource/Vyugar_Ragymov http://dbpedia.org/resource/Vugar_Rakhimov
+0,8,V. Koblova,http://dbpedia.org/resource/V._V._Sadagopan,http://dbpedia.org/resource/Valeria_Koblova http://dbpedia.org/resource/Valeriia_Zholobova http://dbpedia.org/resource/Valeria_Zholobova
+0,20,R. Kumar,http://dbpedia.org/resource/Ravi_Kumar_(sport_shooter),http://dbpedia.org/resource/Ramesh_Kumar_(wrestler)
+0,36,J. Herbert,http://dbpedia.org/resource/Johnny_Herbert,http://dbpedia.org/resource/Jake_Herbert
+0,53,A. Surkov,http://dbpedia.org/resource/Alexey_Surkov,http://dbpedia.org/resource/Artem_Surkov
+0,54,A. Gill,http://dbpedia.org/resource/André_Gill,http://dbpedia.org/resource/Arjun_Gill

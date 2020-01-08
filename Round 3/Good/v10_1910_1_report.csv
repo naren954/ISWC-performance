@@ -1,0 +1,20 @@
+F1: 0.88535,Precision: 0.88535,Recall: 0.88535,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,5,Flambards Divided,http://dbpedia.org/resource/Flambards_in_Summer,http://dbpedia.org/resource/Flambards_Divided
+1,11,Midnight,http://dbpedia.org/resource/Midnight_Sun_(Meyer_novel),http://dbpedia.org/resource/Midnight_(Warriors) http://dbpedia.org/resource/Midnight_(Hunter_novel) http://dbpedia.org/resource/Midnight_(Hunter)
+1,12,Nearer the Moon: From A Journal of Love,http://dbpedia.org/resource/Fire:_From_a_Journal_of_Love,http://dbpedia.org/resource/Nearer_the_Moon http://dbpedia.org/resource/Nearer_the_Moon:_From_A_Journal_of_Love
+1,29,Hollywood,http://dbpedia.org/resource/Hollywood_(Bukowski_novel),http://dbpedia.org/resource/Hollywood_(Gore_Vidal_novel) http://dbpedia.org/resource/Hollywood_(Vidal_novel) http://dbpedia.org/resource/Hollywood_(Vidal)
+1,54,The Master Harper of Pern,http://dbpedia.org/resource/Power_Rangers_Jungle_Fury,http://dbpedia.org/resource/The_Master_Harper_of_Pern http://dbpedia.org/resource/The_Masterharper_of_Pern
+1,73,Cross Country,http://dbpedia.org/resource/Cross-country_skiing_(sport),http://dbpedia.org/resource/Cross_Country_(novel)
+1,74,"Patience, Princess Catherine",http://dbpedia.org/resource/Catherine_of_Valois,"http://dbpedia.org/resource/Mary,_Bloody_Mary http://dbpedia.org/resource/Patience,_Princess_Catherine http://dbpedia.org/resource/Young_Royals http://dbpedia.org/resource/Beware,_Princess_Elizabeth"
+1,78,The Lost World,http://dbpedia.org/resource/The_Lost_World_(Conan_Doyle_novel),http://dbpedia.org/resource/The_Lost_World_(Crichton_novel) http://dbpedia.org/resource/The_Lost_World_(Michael_Crichton)
+1,79,Diurnity's Dawn,http://dbpedia.org/resource/Dawn_(newspaper),http://dbpedia.org/resource/Diuturnity's_Dawn http://dbpedia.org/resource/Diurnity's_Dawn
+1,84,Haunted,http://dbpedia.org/resource/Haunted_(Cabot_novel),http://dbpedia.org/resource/Haunted_(short_stories_anthology) http://dbpedia.org/resource/Tess_Clark http://dbpedia.org/resource/Foot_Work_(Short_story) http://dbpedia.org/resource/Haunted_(palahniuk) http://dbpedia.org/resource/Haunted_(Palahniuk_novel) http://dbpedia.org/resource/Foot_Work
+1,87,The Remnant,http://dbpedia.org/resource/The_Remnant_(newspaper),http://dbpedia.org/resource/The_Remnant_(Left_Behind) http://dbpedia.org/resource/The_Remnant_(novel) http://dbpedia.org/resource/The_Remnant_(LaHaye_novel)
+1,103,Sacred,http://dbpedia.org/resource/Sacred_(video_game),http://dbpedia.org/resource/Sacred_(novel)
+1,107,Dark Fire,http://dbpedia.org/resource/Dark_Fire_(The_Last_Dragon_Chronicles),http://dbpedia.org/resource/Dark_Fire_(Feehan_novel)
+1,122,Requiem,http://dbpedia.org/resource/Requiem_(short_story),http://dbpedia.org/resource/The_Fall_of_the_Templars http://dbpedia.org/resource/Requiem_(Young_novel)
+1,136,Sebastian,http://dbpedia.org/resource/Belle_and_Sebastian,http://dbpedia.org/resource/Sebastian_(Durrell_novel)
+1,141,Extinction,http://dbpedia.org/resource/Countdown_to_Extinction,http://dbpedia.org/resource/Extinction_(Smedman_novel) http://dbpedia.org/resource/Extinction_(Forgotten_Realms_novel)
+1,151,Unnatural Death,http://dbpedia.org/resource/Unnatural_Death_(novel),http://dbpedia.org/resource/Unnatural_Death
+1,154,Abyss,http://dbpedia.org/resource/Abyss_(Weddle_and_Lang_novel),http://dbpedia.org/resource/Abyss_(Star_Trek) http://dbpedia.org/resource/Abyss_(Star_Trek_novel)

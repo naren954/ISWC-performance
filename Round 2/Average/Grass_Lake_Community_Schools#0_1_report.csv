@@ -1,0 +1,6 @@
+F1: 0.63636,Precision: 0.63636,Recall: 0.63636,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,2,Cinderella,http://dbpedia.org/resource/Cinderella_(2013_Broadway_production),http://dbpedia.org/resource/Cinderella_(TV) http://dbpedia.org/resource/Cinderella_(tv) http://dbpedia.org/resource/Rodger's_and_Hammerstein's_Cinderella http://dbpedia.org/resource/Rodgers_and_Hammerstein's_Cinderella http://dbpedia.org/resource/Cinderella_(telefilms) http://dbpedia.org/resource/Cinderella_(musical)
+1,3,The Wizard of Oz,http://dbpedia.org/resource/The_Wizard_of_Oz_(2011_musical),http://dbpedia.org/resource/The_Wizard_of_Oz_(1987_stage_play) http://dbpedia.org/resource/The_Wizard_of_Oz_(1987_musical)
+1,6,Roald Dahl's Willy Wonka,http://dbpedia.org/resource/Roald_Dahl's_Willy_Wonka_(musical),http://dbpedia.org/resource/Roald_Dahl's_Willy_Wonka_(play)
+1,8,Oliver!,http://dbpedia.org/resource/Jackie_Oliver,http://dbpedia.org/resource/Oliver_(musical) http://dbpedia.org/resource/Oliver!_(musical) http://dbpedia.org/resource/Oliver!

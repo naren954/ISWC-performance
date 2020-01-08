@@ -1,0 +1,5 @@
+F1: 0.62500,Precision: 0.62500,Recall: 0.62500,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,5,Margaret of Denmark,http://dbpedia.org/resource/Margaret_I_of_Denmark,"http://dbpedia.org/resource/Margaret_of_Denmark,_Queen_of_Scotland"
+2,6,Margaret of England,http://dbpedia.org/resource/Saint_Margaret_of_Scotland,"http://dbpedia.org/resource/Margaret_Tudor http://dbpedia.org/resource/Margaret,_queen-dowager_of_Scotland http://dbpedia.org/resource/Princess_Margaret_Tudor http://dbpedia.org/resource/Margaret_Tudor,_Queen_of_Scots"
+2,7,Madeleine of Valois,http://dbpedia.org/resource/Magdalena_of_France,http://dbpedia.org/resource/Madeleine_of_Valois

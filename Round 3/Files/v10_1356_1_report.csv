@@ -1,0 +1,4 @@
+"F1: 0.92593","Precision: 0.92593","Recall: 0.92593"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","9","Interlaken","http://dbpedia.org/resource/Interlaken","http://dbpedia.org/resource/Interlaken_District http://dbpedia.org/resource/Interlaken_district http://dbpedia.org/resource/Interlaken_(district)"
+"1","27","Aarau","http://dbpedia.org/resource/Aarau","http://dbpedia.org/resource/Aarau_District http://dbpedia.org/resource/Aarau_(district)"

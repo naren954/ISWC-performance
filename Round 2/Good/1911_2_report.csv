@@ -1,0 +1,20 @@
+F1: 0.83333,Precision: 0.83333,Recall: 0.83333,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,20,The Extreme,http://dbpedia.org/resource/PC_Extreme,http://dbpedia.org/resource/The_Extreme_(novel) http://dbpedia.org/resource/The_Extreme_(Animorphs)
+2,23,The Appeal,http://dbpedia.org/resource/The_Commercial_Appeal,http://dbpedia.org/resource/The_Appeal
+2,24,The Natural,http://dbpedia.org/resource/The_Natural_Farmer,http://dbpedia.org/resource/Hebrew_Oilers http://dbpedia.org/resource/Roy_Hobbs http://dbpedia.org/resource/The_Natural http://dbpedia.org/resource/Hebrew_oilers
+2,27,Artemis Fowl,http://dbpedia.org/resource/Artemis_Fowl:_The_Arctic_Incident,http://dbpedia.org/resource/Artemis_Fowl_(book) http://dbpedia.org/resource/Artemis_Fowl_(novel) http://dbpedia.org/resource/Artemis_Fowl:The_Graphic_Novel
+2,28,Spirit of Progress,,http://dbpedia.org/resource/Spirit_of_Progress_(train) http://dbpedia.org/resource/The_Spirit_of_Progress http://dbpedia.org/resource/The_Spirit_of_Progress_(train) http://dbpedia.org/resource/Spirit_of_Progress
+2,32,The Weakness,http://dbpedia.org/resource/My_Strongest_Weakness,http://dbpedia.org/resource/The_Weakness http://dbpedia.org/resource/The_Weakness_(novel) http://dbpedia.org/resource/The_Weakness_(Animorphs)
+2,41,The Sacrifice,http://dbpedia.org/resource/Sacrifice_(novel),http://dbpedia.org/resource/The_Sacrifice_(novel) http://dbpedia.org/resource/The_Sacrifice_(Animorphs)
+2,44,The Secret,http://dbpedia.org/resource/The_Secret_Circle,http://dbpedia.org/resource/The_Secret_(novel) http://dbpedia.org/resource/The_Secret_(Animorphs)
+2,45,The Change,http://dbpedia.org/resource/Change_(Sugababes_album),http://dbpedia.org/resource/The_Change_(Animorphs) http://dbpedia.org/resource/The_Change_(novel)
+2,46,The Stranger,http://dbpedia.org/resource/The_Stranger_(song),http://dbpedia.org/resource/The_Stranger_(Applegate_novel) http://dbpedia.org/resource/The_Stranger_(Animorphs)
+2,55,The Pilgrimage,http://dbpedia.org/resource/Childe_Harold's_Pilgrimage,http://dbpedia.org/resource/The_Diary_of_a_Magus http://dbpedia.org/resource/The_Pilgrimage http://dbpedia.org/resource/Pilgrim_(diary)
+2,63,Cat Among the Pigeons,http://dbpedia.org/resource/Cat_Among_the_Pigeons_(Golding_novel),http://dbpedia.org/resource/Cat_Among_the_Pigeons http://dbpedia.org/resource/Cat_among_the_pigeons
+2,68,The Ultimate,http://dbpedia.org/resource/The_Ultimates_(comic_book),http://dbpedia.org/resource/The_Ultimate_(novel) http://dbpedia.org/resource/The_Ultimate_(Animorphs)
+2,78,The 1988 Annual World's Best SF,http://dbpedia.org/resource/The_1982_Annual_World's_Best_SF,http://dbpedia.org/resource/The_1988_Annual_World's_Best_SF
+2,79,The 1987 Annual World's Best SF,http://dbpedia.org/resource/The_1982_Annual_World's_Best_SF,http://dbpedia.org/resource/The_1987_Annual_World's_Best_SF
+2,83,The 1983 Annual World's Best SF,http://dbpedia.org/resource/The_1982_Annual_World's_Best_SF,http://dbpedia.org/resource/The_1983_Annual_World's_Best_SF
+2,85,The 1981 Annual World's Best SF,http://dbpedia.org/resource/The_1982_Annual_World's_Best_SF,http://dbpedia.org/resource/The_1981_Annual_World's_Best_SF
+2,104,Ambient,http://dbpedia.org/resource/Ambient_(album),http://dbpedia.org/resource/Ambient_(novel)

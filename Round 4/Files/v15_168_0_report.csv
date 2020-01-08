@@ -1,0 +1,8 @@
+"F1: 0.77778","Precision: 0.77778","Recall: 0.77778"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","1","Specials @ 10","http://dbpedia.org/resource/Law_&_Order:_Special_Victims_Unit","http://dbpedia.org/resource/Specials_@_10"
+"0","12","South Central","http://dbpedia.org/resource/South_Central_Review","http://dbpedia.org/resource/South_Central_(TV_series)"
+"0","18","Songbird","http://dbpedia.org/resource/Songbird_(Oasis_song)","http://dbpedia.org/resource/Songbird_(TV_series)"
+"0","19","Son","nan","http://dbpedia.org/resource/Son_(TV_series)"
+"0","20","Somewhere in My Heart","http://dbpedia.org/resource/Wansapanataym","http://dbpedia.org/resource/Somewhere_In_My_Heart_(TV_series) http://dbpedia.org/resource/Somewhere_in_My_Heart_(TV_series)"
+"0","25","Snoops","http://dbpedia.org/resource/Snoops_(1999_TV_series)","http://dbpedia.org/resource/Snoops_(1989_TV_series) http://dbpedia.org/resource/Snoops_(1989)"

@@ -1,0 +1,4 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,1,SEB 20,http://dbpedia.org/resource/SEB_Pank,http://dbpedia.org/resource/Sebring_Raceway http://dbpedia.org/resource/Sebring_International_Raceway
+2,2,STP 18,http://dbpedia.org/resource/Tropicana_Field,http://dbpedia.org/resource/St._Pete_Grand_Prix http://dbpedia.org/resource/Streets_of_St._Petersburg http://dbpedia.org/resource/Grand_Prix_of_St._Petersburg http://dbpedia.org/resource/Sports_Car_Challenge_of_St._Petersburg http://dbpedia.org/resource/Firestone_Grand_Prix_of_St._Petersburg http://dbpedia.org/resource/Honda_Grand_Prix_of_St._Petersburg

@@ -1,0 +1,6 @@
+"F1: 0.20000","Precision: 0.20000","Recall: 0.20000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","1","KHK Crvena Zvezda","http://dbpedia.org/resource/KK_Crvena_zvezda","http://dbpedia.org/resource/KHK_Crvena_Zvezda http://dbpedia.org/resource/KHK_Red_Star http://dbpedia.org/resource/KHK_Red_Star_Belgrade http://dbpedia.org/resource/KHK_Crvena_zvezda http://dbpedia.org/resource/HK_Crvena_Zvezda http://dbpedia.org/resource/HK_Red_Star_Belgrade"
+"1","2","HK Vojvodina","http://dbpedia.org/resource/FK_Vojvodina","http://dbpedia.org/resource/HK_Vojvodina http://dbpedia.org/resource/HK_Vojvodina_Novi_Sad"
+"1","4","HK TaÅ¡","http://dbpedia.org/resource/HK_Vitebsk","http://dbpedia.org/resource/HK_Taš"
+"1","5","HK Spartak","http://dbpedia.org/resource/HC_MVD","http://dbpedia.org/resource/HK_Spartak_Subotica"

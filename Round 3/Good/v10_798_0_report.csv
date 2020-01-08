@@ -1,0 +1,25 @@
+F1: 0.84564,Precision: 0.84564,Recall: 0.84564,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,William H. Vincent House,"http://dbpedia.org/resource/William_H._Grant_House_(Richmond,_Virginia)",http://dbpedia.org/resource/William_H._Vincent_House
+0,5,William H. Trusty House,"http://dbpedia.org/resource/William_H._Grant_House_(Richmond,_Virginia)",http://dbpedia.org/resource/William_H._Trusty_House
+0,7,William H. Smith House,"http://dbpedia.org/resource/William_Smith_House_(Wrightstown,_Pennsylvania)",http://dbpedia.org/resource/William_H._Smith_House
+0,20,William H. Long House,"http://dbpedia.org/resource/William_H._Grant_House_(Richmond,_Virginia)",http://dbpedia.org/resource/William_H._Long_House
+0,23,William H. Lee House,http://dbpedia.org/resource/William_H._Wells_House,http://dbpedia.org/resource/William_H._Lee_House
+0,24,William H. Hull House,http://dbpedia.org/resource/William_H._Wells_House,http://dbpedia.org/resource/William_H._Hull_House
+0,28,William H. Grogan House,"http://dbpedia.org/resource/William_H._Grant_House_(Richmond,_Virginia)",http://dbpedia.org/resource/William_H._Grogan_House
+0,31,William H. Grant House,"http://dbpedia.org/resource/William_H._Grant_House_(Richmond,_Virginia)","http://dbpedia.org/resource/William_H._Grant_House_(Middleport,_Ohio)"
+0,39,William Green House,"http://dbpedia.org/resource/William_Green_House_(Ewing_Township,_New_Jersey)","http://dbpedia.org/resource/William_Green_House_(Rochester,_Iowa)"
+0,52,William G. Smith House,"http://dbpedia.org/resource/William_G._Smith_House_(Davenport,_Iowa)","http://dbpedia.org/resource/William_G._Smith_House_(Bullock,_North_Carolina)"
+0,57,William G. Blakeley House,http://dbpedia.org/resource/William_G._LeDuc_House,http://dbpedia.org/resource/William_G._Blakeley_House
+0,67,William Fisher Polygonal Barn,http://dbpedia.org/resource/William_Haner_Polygonal_Barn,http://dbpedia.org/resource/William_Fisher_Polygonal_Barn
+0,75,William F. Perry House,http://dbpedia.org/resource/William_F._Pierce_House,http://dbpedia.org/resource/William_F._Perry_House
+0,76,William F. Norton House,http://dbpedia.org/resource/William_F._Pierce_House,http://dbpedia.org/resource/William_F._Norton_House
+0,80,William F. Grant House,"http://dbpedia.org/resource/William_H._Grant_House_(Richmond,_Virginia)",http://dbpedia.org/resource/William_F._Grant_House
+0,93,William E. Wells House,http://dbpedia.org/resource/William_H._Wells_House,http://dbpedia.org/resource/William_E._Wells_House
+0,95,William E. Smith House,"http://dbpedia.org/resource/William_Smith_House_(Wrightstown,_Pennsylvania)",http://dbpedia.org/resource/William_E._Smith_House
+0,99,William E. Ervin House,http://dbpedia.org/resource/William_Poole_House,http://dbpedia.org/resource/William_E._Ervin_House
+0,113,William Dillard Homestead,http://dbpedia.org/resource/William_Black_Homestead,http://dbpedia.org/resource/William_Dillard_Homestead
+0,115,William Dean Howells House,"http://dbpedia.org/resource/William_Dean_Howells_House_(Cambridge,_Massachusetts)","http://dbpedia.org/resource/William_Dean_Howells_House_(Kittery_Point,_Maine)"
+0,122,William D. Roberts House,http://dbpedia.org/resource/William_H._Roberts_House,http://dbpedia.org/resource/William_D._Roberts_House
+0,133,William Cook House,"http://dbpedia.org/resource/William_Cook_House_(Mebane,_North_Carolina)","http://dbpedia.org/resource/Cook,_William,_House http://dbpedia.org/resource/William_Cook_House_(Cambridge,_Massachusetts)"
+0,135,William Colburn House,http://dbpedia.org/resource/Gilbert_Colburn_House,http://dbpedia.org/resource/William_Colburn_House

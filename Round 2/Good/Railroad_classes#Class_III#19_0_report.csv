@@ -1,0 +1,4 @@
+F1: 0.80000,Precision: 0.80000,Recall: 0.80000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,6,Nebraska Northeastern Railway,http://dbpedia.org/resource/El_Paso_and_Northeastern_Railway,http://dbpedia.org/resource/NENE http://dbpedia.org/resource/Nebraska_Northeastern_Railway
+0,7,Nebraska Northwestern Railroad,http://dbpedia.org/resource/Prescott_and_Northwestern_Railroad,http://dbpedia.org/resource/Nebraska_Northwestern_Railroad

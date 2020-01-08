@@ -1,0 +1,10 @@
+F1: 0.33333,Precision: 0.33333,Recall: 0.33333,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,2,B. Monroe,http://dbpedia.org/resource/Bill_Monroe,http://dbpedia.org/resource/Bryan_Monroe
+1,3,Rankin,http://dbpedia.org/resource/Ian_Rankin,http://dbpedia.org/resource/John_Rankin_Waddell http://dbpedia.org/resource/Tuuli_Shipster http://dbpedia.org/resource/Rankin_(photographer)
+1,4,M. Politycki,http://de.dbpedia.org/resource/Matthias_Politycki,http://dbpedia.org/resource/Matthias_Politycki
+1,7,N. M. Mohanan,http://dbpedia.org/resource/N._Mohanan,http://dbpedia.org/resource/N.M._Mohan http://dbpedia.org/resource/N._M._Mohanan http://dbpedia.org/resource/NM_Mohanan http://dbpedia.org/resource/NM_Mohan http://dbpedia.org/resource/N._M._Mohan http://dbpedia.org/resource/Mohan_(Mayavi)
+1,8,Ö. Sjöstrand,http://dbpedia.org/resource/Arnold_Sjöstrand,http://dbpedia.org/resource/Osten_Sjostrand http://dbpedia.org/resource/Osten_Sjoestrand http://dbpedia.org/resource/Östen_Sjöstrand
+1,9,J. C. O'Laughlin,http://fr.dbpedia.org/resource/John_J._McLaughlin,http://dbpedia.org/resource/John_O'Laughlin http://dbpedia.org/resource/John_Callan_O'Laughlin
+1,10,O. Humphries,http://dbpedia.org/resource/Barry_Humphries,http://dbpedia.org/resource/Oscar_Humphries
+1,11,S. Cairns,http://dbpedia.org/resource/David_Cairns_(politician),http://dbpedia.org/resource/Scott_Cairns

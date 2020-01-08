@@ -1,0 +1,29 @@
+F1: 0.77119,Precision: 0.77119,Recall: 0.77119,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,When He's Gone,http://dbpedia.org/resource/When_I'm_Gone_(Eminem_song),http://dbpedia.org/resource/When_He's_Gone
+0,11,When Boy Meets Boy,http://dbpedia.org/resource/When_Boy_Meets_Girl,http://dbpedia.org/resource/When_Boy_Meets_Boy
+0,14,When,http://dbpedia.org/resource/When_Doves_Cry,http://dbpedia.org/resource/When_(1958_song) http://dbpedia.org/resource/When_(The_Kalin_Twins_song)
+0,15,When,http://dbpedia.org/resource/When_Doves_Cry,http://dbpedia.org/resource/When_(Shania_Twain_song)
+0,16,When,http://dbpedia.org/resource/When_Doves_Cry,http://dbpedia.org/resource/When_(Amanda_Lear_song)
+0,18,Wheels,http://dbpedia.org/resource/Wheels_(Foo_Fighters_song),http://dbpedia.org/resource/Wheels_(Restless_Heart_song)
+0,21,Whatever You Want,http://dbpedia.org/resource/Whatever_You_Want_(Tina_Turner_song),http://dbpedia.org/resource/Whatever_You_Want_(Tony!_Toni!_Tone!_song) http://dbpedia.org/resource/Whatever_You_Want_(Tony!_Toni!_Toné!_song)
+0,23,Whatever You Want,http://dbpedia.org/resource/Whatever_You_Want_(Tina_Turner_song),http://dbpedia.org/resource/Whatever_You_Want_(Status_Quo_song)
+0,26,Whatever You Like,http://dbpedia.org/resource/Whatever_You_Like,"http://dbpedia.org/resource/Whatever_You_Like_(""Weird_Al""_Yankovic_song) http://dbpedia.org/resource/Whatever_You_Like_(""Weird_Al""_Yankovic)"
+0,29,Whatever We Want,http://dbpedia.org/resource/Whatever_You_Want_(Tina_Turner_song),http://dbpedia.org/resource/Whatever_We_Want http://dbpedia.org/resource/Whatever_We_Want_(Havana_Brown_song)
+0,34,Whatever,http://dbpedia.org/resource/Whatever_(Cro_song),http://dbpedia.org/resource/Whatever_(Oasis) http://dbpedia.org/resource/(It's_Good)_To_Be_Free http://dbpedia.org/resource/Whatever_(Oasis_song)
+0,35,Whatever,http://dbpedia.org/resource/Whatever_(Cro_song),http://dbpedia.org/resource/Whatever_(Jill_Scott_song)
+0,36,Whatever,http://dbpedia.org/resource/Whatever_(Cro_song),http://dbpedia.org/resource/Whatever_(Godsmack_song)
+0,37,Whatever,http://dbpedia.org/resource/Whatever_(Cro_song),http://dbpedia.org/resource/Whatever_(En_Vogue_song)
+0,39,Whatever,http://dbpedia.org/resource/Whatever_(Cro_song),http://dbpedia.org/resource/Whatever_(Ayumi_Hamasaki_song)
+0,57,What a Feeling,http://dbpedia.org/resource/Flashdance..._What_a_Feeling,http://dbpedia.org/resource/What_a_Feeling_(song) http://dbpedia.org/resource/What_a_Feeling_(Alex_Gaudino_song)
+0,62,What You Want,http://dbpedia.org/resource/What_You_Want_(Evanescence_song),http://dbpedia.org/resource/What_You_Want_(Mase_song)
+0,66,What You Know,http://dbpedia.org/resource/What_You_Know_(T.I._song),http://dbpedia.org/resource/What_You_Know http://dbpedia.org/resource/What_You_Know_About_That http://dbpedia.org/resource/What_you_know_about_that
+0,68,What You Got,http://dbpedia.org/resource/What_You_Got_(Grinspoon_song),http://dbpedia.org/resource/What_U_Got http://dbpedia.org/resource/What_You_Got_(Colby_O'Donis_song)
+0,72,What You Don't Know,http://dbpedia.org/resource/What_You_Don't_Know_(Monrose_song),http://dbpedia.org/resource/What_You_Don't_Know_(Expose_song) http://dbpedia.org/resource/What_You_Don't_Know_(Exposé_song)
+0,74,What You Are,http://dbpedia.org/resource/What_You_Want_(Evanescence_song),http://dbpedia.org/resource/What_You_Are http://dbpedia.org/resource/What_You_Are_(Audioslave_song)
+0,79,What Ya Gonna Do,http://dbpedia.org/resource/Until_You_Come_Back_to_Me_(That's_What_I'm_Gonna_Do),http://dbpedia.org/resource/What_Ya_Gonna_Do
+0,81,What Would You Do?,http://dbpedia.org/resource/What_Would_You_Say,http://dbpedia.org/resource/What_Would_You_Do?_(Tha_Dogg_Pound_song)
+0,82,What Would You Do?,http://dbpedia.org/resource/What_Would_You_Say,http://dbpedia.org/resource/What_Would_You_Do?_(City_High_song)
+0,98,What Say You,http://dbpedia.org/resource/What_Do_You_Say_(Reba_McEntire_song),http://dbpedia.org/resource/What_Say_You
+0,104,What More Can I Say,http://dbpedia.org/resource/What_More_Can_I_Give,http://dbpedia.org/resource/What_More_Can_I_Say
+0,114,What Kind of Man,http://dbpedia.org/resource/What_Kind_of_Man_(Florence_and_the_Machine_song),http://dbpedia.org/resource/What_Kind_of_Man

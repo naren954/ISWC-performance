@@ -1,0 +1,5 @@
+"F1: 0.86957","Precision: 0.86957","Recall: 0.86957"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","4","2013 Nürnberger Versicherungscup","http://dbpedia.org/resource/2015_Nürnberger_Versicherungscup","http://dbpedia.org/resource/2013_Nürnberger_Versicherungscup http://dbpedia.org/resource/2013_Nurnberger_Versicherungscup"
+"0","15","2013 Korea Open","http://dbpedia.org/resource/2016_Korea_Open","http://dbpedia.org/resource/2013_KDB_Korea_Open http://dbpedia.org/resource/2013_Korea_Open"
+"0","21","2013 John Newcombe Women's Pro Challenge","http://dbpedia.org/resource/2012_John_Newcombe_Women's_Pro_Challenge","http://dbpedia.org/resource/2013_John_Newcombe_Women's_Pro_Challenge"

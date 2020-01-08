@@ -1,0 +1,67 @@
+F1: 0.35000,Precision: 0.35000,Recall: 0.35000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Factor XIII,,"http://dbpedia.org/resource/Protein-glutamine_g-glutamyltransferase http://dbpedia.org/resource/EC_2.3.2.13 http://dbpedia.org/resource/Coagulation_factor_XIII http://dbpedia.org/resource/Factor_XIIIa http://dbpedia.org/resource/Factor_xiii http://dbpedia.org/resource/Factor_XIII http://dbpedia.org/resource/Factor_XIII_deficiency,_congenital http://dbpedia.org/resource/Fibrin-stabilizing_factor http://dbpedia.org/resource/Factor_xiiia"
+0,3,FXYD6,,http://dbpedia.org/resource/FXYD6
+0,4,FUT4,,http://dbpedia.org/resource/FUT4
+0,5,FKBP6,,http://dbpedia.org/resource/FKBP6
+0,6,FGF22,,http://dbpedia.org/resource/FGF22
+0,7,FGF20,,http://dbpedia.org/resource/FGF20
+0,8,FGF11,,http://dbpedia.org/resource/FGF11
+0,9,FCER1,http://dbpedia.org/resource/FCER1G,http://dbpedia.org/resource/Fc_epsilon_RI http://dbpedia.org/resource/FceRI http://dbpedia.org/resource/FCER1 http://dbpedia.org/resource/FCERI http://dbpedia.org/resource/High_affinity_IgE_receptor http://dbpedia.org/resource/FcεRI
+0,12,Extracellular signal–regulated kinases,,http://dbpedia.org/resource/Extracellular-signal-regulated_kinase http://dbpedia.org/resource/Extracellular_signal-regulated_map_kinases http://dbpedia.org/resource/Extracellular_signal–regulated_kinases http://dbpedia.org/resource/Mitogen-activated_protein_kinase_3 http://dbpedia.org/resource/Erk_kinase http://dbpedia.org/resource/ERKs http://dbpedia.org/resource/ERK_kinase http://dbpedia.org/resource/Extracellular_signal-regulated_kinases http://dbpedia.org/resource/Extracellular_signal-regulated_kinase
+0,13,Estrogen receptor,http://dbpedia.org/resource/Estrogen_receptor_alpha,"http://dbpedia.org/resource/Receptors,_estrogen http://dbpedia.org/resource/Estrogen_receptor http://dbpedia.org/resource/ER_subtypes http://dbpedia.org/resource/Estradiol_receptor http://dbpedia.org/resource/Oestrogen_receptor http://dbpedia.org/resource/Estrogen_receptors http://dbpedia.org/resource/Estrogen_receptor_negative http://dbpedia.org/resource/Estrogen_receptor_modulators http://dbpedia.org/resource/Estrogen_receptor_positive"
+0,15,Epididymal secretory protein E1,,http://dbpedia.org/resource/Epididymal_secretory_protein_E1 http://dbpedia.org/resource/NPC2
+0,16,Enoyl-CoA hydratase,,http://dbpedia.org/resource/Enoyl-coa_hydratase http://dbpedia.org/resource/Enoyl-CoA_hydratase http://dbpedia.org/resource/Enoyl_CoA_hydratase http://dbpedia.org/resource/2-enoyl_coenzyme_A_(CoA)_hydratase http://dbpedia.org/resource/EC_4.2.1.17 http://dbpedia.org/resource/(3S)-3-hydroxyacyl-CoA_hydro-lyase
+0,19,Endothelial lipase,,http://dbpedia.org/resource/LIPG http://dbpedia.org/resource/Endothelial_lipase
+0,20,Emopamil binding protein,,http://dbpedia.org/resource/Emopamil_binding_protein http://dbpedia.org/resource/EBP_(gene)
+0,22,EVC,,http://dbpedia.org/resource/EVC_(gene)
+0,23,EVC2,,http://dbpedia.org/resource/EVC2
+0,26,ELMO3,,http://dbpedia.org/resource/Engulfment_and_cell_motility_protein_3 http://dbpedia.org/resource/ELMO3
+0,27,EIF4A,,http://dbpedia.org/resource/EIF4A http://dbpedia.org/resource/Eif4a
+0,28,EID2,,http://dbpedia.org/resource/EID2
+0,29,EHHADH,,http://dbpedia.org/resource/EHHADH
+0,34,Doubletime,,http://dbpedia.org/resource/Doubletime_(gene)
+0,35,Dipeptidase 2,,http://dbpedia.org/resource/DPEP2 http://dbpedia.org/resource/Dipeptidase_2
+0,36,Dihydropyrimidine dehydrogenase,,http://dbpedia.org/resource/DihydroPyrimidine_Dehydrogenase http://dbpedia.org/resource/Dihydropyrimidine_dehydrogenase
+0,37,Dihydroorotase,,http://dbpedia.org/resource/(S)-dihydroorotate_amidohydrolase http://dbpedia.org/resource/Carbamoylaspartic_dehydrase http://dbpedia.org/resource/Dihydroorotate_hydrolase http://dbpedia.org/resource/EC_3.5.2.3 http://dbpedia.org/resource/Dihydroorotase http://dbpedia.org/resource/Dihhydroorotase
+0,40,Delta catenin,,http://dbpedia.org/resource/Delta-catenine http://dbpedia.org/resource/CTNND2 http://dbpedia.org/resource/Delta_catenin
+0,41,DNA damage-binding protein,,http://dbpedia.org/resource/DNA_damage-binding_protein
+0,43,DHH,http://dbpedia.org/resource/Desert_hedgehog_protein,http://dbpedia.org/resource/DHH_(hedgehog)
+0,44,DHDPSL,,http://dbpedia.org/resource/DHDPSL
+0,46,D-amino acid oxidase activator,,http://dbpedia.org/resource/D-amino_acid_oxidase_activator http://dbpedia.org/resource/G72_protein http://dbpedia.org/resource/DAOA http://dbpedia.org/resource/G72
+0,47,Cytochrome b5,,http://dbpedia.org/resource/Cytochrome_b5
+0,50,Cyclin E2,,http://dbpedia.org/resource/CCNE2 http://dbpedia.org/resource/Cyclin_E2
+0,51,Cyclin E,http://dbpedia.org/resource/Cyclin_E1,http://dbpedia.org/resource/Cyclin_E
+0,52,Cyclin D,http://dbpedia.org/resource/Cyclin_D2,http://dbpedia.org/resource/Cyclin_D http://dbpedia.org/resource/Cyclin-D1
+0,53,Cyclin B,http://dbpedia.org/resource/CDKN1B,http://dbpedia.org/resource/Cyclin_B
+0,54,Cyclin A,http://dbpedia.org/resource/Cyclin_D2,http://dbpedia.org/resource/Cyclin_A
+0,57,Corticotropin-releasing hormone receptor,,"http://dbpedia.org/resource/CRHR http://dbpedia.org/resource/Receptors,_corticotropin-releasing_hormone http://dbpedia.org/resource/Corticotropin_releasing_hormone_receptor http://dbpedia.org/resource/Corticotropin-releasing_hormone_receptor"
+0,60,Complement component 5a,http://dbpedia.org/resource/Complement_component_5,http://dbpedia.org/resource/Complement_c5a http://dbpedia.org/resource/Complement_component_5a
+0,61,Complement component 4,http://dbpedia.org/resource/Complement_component_5,http://dbpedia.org/resource/Chido-Rodgers_antigen_system http://dbpedia.org/resource/Complement_component_4 http://dbpedia.org/resource/Complement_c4 http://dbpedia.org/resource/C4a http://dbpedia.org/resource/Chido_antigen_system http://dbpedia.org/resource/C4b
+0,63,Complement component 1R,,"http://dbpedia.org/resource/EC_3.4.21.41 http://dbpedia.org/resource/Complement_subcomponent_C_overbar_1r http://dbpedia.org/resource/C_overbar_1r_esterase http://dbpedia.org/resource/Complement_component_1,_r_subcomponent http://dbpedia.org/resource/Complement_component_1R http://dbpedia.org/resource/Complement_subcomponent_C1r http://dbpedia.org/resource/Complement_c1r http://dbpedia.org/resource/Activated_complement_C1r"
+0,64,Collectin liver 1,,http://dbpedia.org/resource/Collectin_liver_1
+0,66,"Collagen, type XX, alpha 1",,"http://dbpedia.org/resource/COL20A1 http://dbpedia.org/resource/Collagen,_type_XX,_alpha_1"
+0,67,Cocaine and amphetamine regulated transcript,,http://dbpedia.org/resource/Cocaine_and_amphetamine_regulated_transcript http://dbpedia.org/resource/Cocaine-and-amphetamine-regulating_transcript http://dbpedia.org/resource/Cocaine-and-amphetamine-regulated_transcript http://dbpedia.org/resource/CARTPT http://dbpedia.org/resource/Cocaine-and_amphetamine_regulated_transcript http://dbpedia.org/resource/Cocaine-_and_amphetamine-regulated_transcript
+0,69,Citrin,,http://dbpedia.org/resource/Citrin http://dbpedia.org/resource/SLC25A13
+0,70,Ciliary neurotrophic factor receptor,,http://dbpedia.org/resource/Ciliary_neurotrophic_factor_receptor http://dbpedia.org/resource/Cntfr http://dbpedia.org/resource/CNTFR
+0,71,Chymase,,http://dbpedia.org/resource/Skeletal_muscle_(SK)_protease http://dbpedia.org/resource/Skin_chymotryptic_proteinase http://dbpedia.org/resource/EC_3.4.21.39 http://dbpedia.org/resource/Chymase http://dbpedia.org/resource/Mast_cell_protease_I http://dbpedia.org/resource/Mast_cell_serine_proteinase http://dbpedia.org/resource/Skeletal_muscle_protease http://dbpedia.org/resource/Chymases
+0,72,Chordin,,http://dbpedia.org/resource/Chordin
+0,74,Cholecystokinin receptor,http://dbpedia.org/resource/Cholecystokinin_A_receptor,"http://dbpedia.org/resource/CCK_receptor http://dbpedia.org/resource/Receptor,_cholecystokinin_a http://dbpedia.org/resource/Cholecystokinin_receptor http://dbpedia.org/resource/Receptors,_cholecystokinin http://dbpedia.org/resource/Receptor,_cholecystokinin_b"
+0,75,Chicken ovalbumin upstream promoter-transcription factor,,http://dbpedia.org/resource/Chicken_ovalbumin_upstream_promoter_transcription_factor http://dbpedia.org/resource/Chicken_ovalbumin_upstream_promoter-transcription_factor http://dbpedia.org/resource/COUP-TF
+0,77,Cellular apoptosis susceptibility protein,,http://dbpedia.org/resource/Cellular_apoptosis_susceptibility_protein
+0,79,Cation channels of sperm,,http://dbpedia.org/resource/CatSper http://dbpedia.org/resource/Cation_channels_of_sperm
+0,80,Caspase 5,,http://dbpedia.org/resource/EC_3.4.22.58 http://dbpedia.org/resource/Caspase-5 http://dbpedia.org/resource/CASP5 http://dbpedia.org/resource/Caspase_5
+0,81,Caspase 4,,http://dbpedia.org/resource/Ich-2 http://dbpedia.org/resource/ICErelII http://dbpedia.org/resource/Caspase-4 http://dbpedia.org/resource/CASP4 http://dbpedia.org/resource/TX_protease http://dbpedia.org/resource/Transcript_X http://dbpedia.org/resource/CASP-4 http://dbpedia.org/resource/EC_3.4.22.57 http://dbpedia.org/resource/Caspase_4 http://dbpedia.org/resource/ICErel-II
+0,82,Caspase 12,,http://dbpedia.org/resource/Caspase-12 http://dbpedia.org/resource/Caspase_12
+0,83,Casein kinase 2,,http://dbpedia.org/resource/Casein_kinase_2 http://dbpedia.org/resource/Casein_kinase_ii http://dbpedia.org/resource/Protein_kinase_CK2
+0,84,Carboxypeptidase B,http://dbpedia.org/resource/Carboxypeptidase_B2,http://dbpedia.org/resource/EC_3.4.17.2 http://dbpedia.org/resource/Carboxypeptidase_B
+0,86,Cannabinoid receptor,http://dbpedia.org/resource/Cannabinoid_receptor_type_1,"http://dbpedia.org/resource/Cannabinoid_receptor http://dbpedia.org/resource/Receptor,_cannabinoid,_cb1 http://dbpedia.org/resource/Receptor,_cannabinoid,_cb2 http://dbpedia.org/resource/Cannabinoid_Receptors http://dbpedia.org/resource/Cannabinoid_receptors http://dbpedia.org/resource/Receptors,_cannabinoid"
+0,88,Calcitonin gene-related peptide,,"http://dbpedia.org/resource/Calcitonin_gene-related_peptide http://dbpedia.org/resource/CGRP http://dbpedia.org/resource/Receptors,_calcitonin_gene-related_peptide http://dbpedia.org/resource/Calcitonin_gene_related_peptide"
+0,90,Calbindin,,http://dbpedia.org/resource/Calbindin
+0,91,CXCL6,,http://dbpedia.org/resource/CXCL6
+0,92,CXCL2,,http://dbpedia.org/resource/CXCL2
+0,93,CXCL16,,http://dbpedia.org/resource/CXCL16
+0,95,CORO1B,,http://dbpedia.org/resource/CORO1B
+0,97,CGMP-dependent protein kinase,,http://dbpedia.org/resource/STK23 http://dbpedia.org/resource/ATP:protein_phosphotransferase_(cGMP-dependent) http://dbpedia.org/resource/EC_2.7.11.12 http://dbpedia.org/resource/CGMP_dependent_protein_kinase http://dbpedia.org/resource/Protein_kinase_G http://dbpedia.org/resource/CGMP-dependent_protein_kinase http://dbpedia.org/resource/Protein_kinase_g http://dbpedia.org/resource/Cyclic_gmp-dependent_protein_kinases
+0,98,CEACAM4,,http://dbpedia.org/resource/CEACAM4
+0,100,CEACAM20,,http://dbpedia.org/resource/CEACAM20

@@ -1,0 +1,17 @@
+F1: 0.60759,Precision: 0.60000,Recall: 0.61538,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,4,John Thorne,http://dbpedia.org/resource/Richard_Whiting_(abbot),http://dbpedia.org/resource/John_Thorne_(MP)
+1,8,John Thorne,http://dbpedia.org/resource/Richard_Whiting_(abbot),http://dbpedia.org/resource/John_Thorne_(MP)
+1,18,William Gregory,http://dbpedia.org/resource/William_Henry_Gregory,http://dbpedia.org/resource/William_Gregory_(fl.1406)
+1,19,Robert Hull,"http://dbpedia.org/resource/Robert_Pierrepont,_1st_Earl_of_Kingston-upon-Hull",http://dbpedia.org/resource/Robert_Hull_(MP)
+1,35,Sir Thomas Palmer,"http://dbpedia.org/resource/Sir_Thomas_Palmer,_4th_Baronet,_of_Carlton",http://dbpedia.org/resource/Thomas_Palmer_(by_1520-1582) http://dbpedia.org/resource/Thomas_Palmer_(by_1520–82) http://dbpedia.org/resource/Thomas_Palmer_(by_1520-82) http://dbpedia.org/resource/Thomas_Palmer_(by_1520–1582)
+1,38,Sir John Baker,http://dbpedia.org/resource/John_Baker_(Australian_politician),http://dbpedia.org/resource/John_Baker_(died_1558) http://dbpedia.org/resource/John_Baker_(English_statesman)
+1,46,Edward Popham,http://dbpedia.org/resource/Home_Riggs_Popham,http://dbpedia.org/resource/Edward_Popham_(died_1586)
+1,47,Sir Thomas Palmer,"http://dbpedia.org/resource/Sir_Thomas_Palmer,_4th_Baronet,_of_Carlton",http://dbpedia.org/resource/Thomas_Palmer_(by_1520-1582) http://dbpedia.org/resource/Thomas_Palmer_(by_1520–82) http://dbpedia.org/resource/Thomas_Palmer_(by_1520-82) http://dbpedia.org/resource/Thomas_Palmer_(by_1520–1582)
+1,49,Peter Osborne,http://dbpedia.org/resource/Peter_Osborne_(1584–1653),http://dbpedia.org/resource/Peter_Osborne_(Keeper_of_the_Privy_Purse)
+1,53,Sir William More,"http://dbpedia.org/resource/Sir_William_Rae,_3rd_Baronet",http://dbpedia.org/resource/William_More_(died_1600) http://dbpedia.org/resource/William_More_(of_Losely)
+1,55,Sir William More I,http://dbpedia.org/resource/William_Irvine_(Australian_politician),http://dbpedia.org/resource/William_More
+1,56,Robert More,http://dbpedia.org/resource/Robert_More_(botanist),http://dbpedia.org/resource/Robert_More
+1,58,Sir Robert More,http://dbpedia.org/resource/Robert_Peel,http://dbpedia.org/resource/Robert_More
+1,59,Sir Robert More,http://dbpedia.org/resource/Robert_Peel,http://dbpedia.org/resource/Robert_More
+1,60,Sir Robert More,http://dbpedia.org/resource/Robert_Peel,http://dbpedia.org/resource/Robert_More

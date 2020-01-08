@@ -1,0 +1,5 @@
+F1: 0.94000,Precision: 0.94000,Recall: 0.94000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,6,T. Thompson,http://dbpedia.org/resource/Tina_Thompson,"http://dbpedia.org/resource/Trevor_Thompson_(footballer_born_1955) http://dbpedia.org/resource/Trevor_Thompson_(footballer,_born_1955)"
+0,21,T. Anderson,http://dbpedia.org/resource/Tommy_Anderson_(ice_hockey),http://dbpedia.org/resource/Trevor_Anderson
+0,31,T. Yoshida,http://dbpedia.org/resource/Takayuki_Yoshida,http://dbpedia.org/resource/Toru_Yoshida

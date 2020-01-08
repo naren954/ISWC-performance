@@ -1,0 +1,47 @@
+F1: 0.77387,Precision: 0.77387,Recall: 0.77387,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,6,When in Rome,http://dbpedia.org/resource/When_in_Rome_(2010_film),http://dbpedia.org/resource/When_in_Rome_(1952_film) http://dbpedia.org/resource/When_in_Rome_(1952)
+0,19,When Ladies Meet,http://dbpedia.org/resource/When_Ladies_Meet_(1933_film),"http://dbpedia.org/resource/When_Ladies_Meet_(1941_film) http://dbpedia.org/resource/When_Ladies_Meet;_1941,_MGM_film"
+0,32,What a Man!,http://dbpedia.org/resource/What_a_Man_(2011_film),http://dbpedia.org/resource/What_a_Man!_(1938_film)
+0,36,What Time Is It?,http://dbpedia.org/resource/What_a_Time_to_Be_Alive,http://dbpedia.org/resource/What_Time_Is_It?_(film)
+0,40,What Price Glory,http://dbpedia.org/resource/What_Price_Glory?_(1926_film),http://dbpedia.org/resource/What_Price_Glory_(1952_film) http://dbpedia.org/resource/What_Price_Glory?_(1952_film)
+0,43,What Next?,http://dbpedia.org/resource/What_Next,http://dbpedia.org/resource/What_Next?
+0,45,What Just Happened,http://dbpedia.org/resource/What_Just_Happened_(2008_film),http://dbpedia.org/resource/What_Just_Happened? http://dbpedia.org/resource/What_Just_Happened
+0,46,What Is It?,"http://dbpedia.org/resource/What,_No_Men!",http://dbpedia.org/resource/What_Is_It?
+0,49,What Happened Then?,http://dbpedia.org/resource/What_Happened_to_Mary,http://dbpedia.org/resource/What_Happened_Then?
+0,68,Westward Ho!,http://dbpedia.org/resource/Westward_Ho_(1942_film),http://dbpedia.org/resource/Westward_Ho_(1940_film) http://dbpedia.org/resource/Westward_Ho!_(1940_film)
+0,69,Western Heritage,http://dbpedia.org/resource/Germany,http://dbpedia.org/resource/Western_Heritage
+0,73,West of the Pecos,http://dbpedia.org/resource/West_of_the_Pecos_(1945_film),http://dbpedia.org/resource/West_of_the_Pecos_(1934_film)
+0,76,West of Nevada,http://dbpedia.org/resource/California,http://dbpedia.org/resource/West_of_Nevada
+0,78,West Side Story,http://dbpedia.org/resource/West_Side_Story_(1961_film),http://dbpedia.org/resource/West_side_story(film) http://dbpedia.org/resource/West_side_story_(film) http://dbpedia.org/resource/West_Side_Story_(movie) http://dbpedia.org/resource/West_Side_Story_(film)
+0,80,West Point,"http://dbpedia.org/resource/West_Point,_New_York","http://dbpedia.org/resource/West_Point_(1928_movie) http://dbpedia.org/resource/West_Point_(film) http://dbpedia.org/resource/West_Point_(1928_film) http://dbpedia.org/resource/West_Point,_1928_film"
+0,81,West 11,http://dbpedia.org/resource/Jungle_West_11,http://dbpedia.org/resource/West_11
+0,84,Wer,http://dbpedia.org/resource/Home_Improvement_(TV_series),http://dbpedia.org/resource/Wer_(2013_film) http://dbpedia.org/resource/Wer_(film)
+0,86,Wenn der Vater mit dem Sohne,http://dbpedia.org/resource/Hurrah!_I'm_a_Father,http://dbpedia.org/resource/Wenn_der_Vater_mit_dem_Sohne
+0,97,Welcome,http://dbpedia.org/resource/Welcome_(Santana_album),http://dbpedia.org/resource/Welcome_(2009_film) http://dbpedia.org/resource/Derya_Ayverdi
+0,99,Weightless,http://dbpedia.org/resource/Song_to_Song,http://dbpedia.org/resource/Untitled_Terrence_Malick_Project http://dbpedia.org/resource/Untitled_Terrence_Malick_project http://dbpedia.org/resource/Terrence_Malick_Untitled_Project http://dbpedia.org/resource/Untitled_Terrence_Malick_film http://dbpedia.org/resource/Weightless_(2016_film) http://dbpedia.org/resource/Untitled_Terrence_Malick_Musical_Drama http://dbpedia.org/resource/Weightless_(film)
+0,102,Weekend,http://dbpedia.org/resource/The_Weekend_(Homeland),http://dbpedia.org/resource/Weekend_(2011_film) http://dbpedia.org/resource/Weekend_(2011_British_film)
+0,105,Weeds,http://dbpedia.org/resource/Weeds_(TV_series),http://dbpedia.org/resource/Weeds_(film)
+0,107,Wednesday's Child,http://dbpedia.org/resource/Family_Life_(1971_British_film),http://dbpedia.org/resource/Wednesday's_Child_(film) http://dbpedia.org/resource/Wednesday's_Child_(1934_film)
+0,111,Web Cam,,http://dbpedia.org/resource/Web_Cam_(film) http://dbpedia.org/resource/Web_Cam_3D
+0,114,Weapons,http://dbpedia.org/resource/Lethal_Weapons,http://dbpedia.org/resource/WEAPONS_(film) http://dbpedia.org/resource/Weapons_(film)
+0,133,We Are What We Are,http://dbpedia.org/resource/Chemistry_Is_What_We_Are,http://dbpedia.org/resource/We_Are_What_We_Are_(2013_film)
+0,143,We're No Angels,http://dbpedia.org/resource/We're_No_Angels_(1989_film),http://dbpedia.org/resource/We're_No_Angels_(1955_film)
+0,147,Way Out West,http://dbpedia.org/resource/Way_Out_West_(duo),http://dbpedia.org/resource/Way_Out_West_(1930_film)
+0,152,Wavelength,http://es.dbpedia.org/resource/Wavelength_(canción),http://dbpedia.org/resource/Wavelength_(1983_film)
+0,153,Wavelength,http://es.dbpedia.org/resource/Wavelength_(canción),http://dbpedia.org/resource/WVLNT http://dbpedia.org/resource/Wavelength_(1966_film) http://dbpedia.org/resource/Wavelength_(1967_film)
+0,156,Waterloo Bridge,http://dbpedia.org/resource/Waterloo_Bridge_(1940_film),http://dbpedia.org/resource/Waterloo_Bridge_(1931_film) http://dbpedia.org/resource/Waterloo_bridge_(1931_film)
+0,157,Waterfront,http://dbpedia.org/resource/Waterfront_(1944_film),http://dbpedia.org/resource/Waterfront_(1950_film)
+0,158,Waterfront,http://dbpedia.org/resource/Waterfront_(1944_film),http://dbpedia.org/resource/Waterfront_(1928_film)
+0,162,Watch,http://dbpedia.org/resource/Third_Watch,http://dbpedia.org/resource/Watch_(film)
+0,163,Wasteland,http://dbpedia.org/resource/Wasteland_(film),http://dbpedia.org/resource/Wasteland_(1960_film) http://dbpedia.org/resource/Terrain_vague
+0,165,Washington Heights,http://dbpedia.org/resource/Washington_Heights_(TV_series),http://dbpedia.org/resource/Washington_Heights_(film)
+0,167,Warning Sign,http://dbpedia.org/resource/Warning_Sign_(song),http://dbpedia.org/resource/Warning_Sign_(film)
+0,168,Warning Shot,http://dbpedia.org/resource/Warning_Shot_(1967_film),http://dbpedia.org/resource/Warning_Shot
+0,174,War of the Buttons,http://dbpedia.org/resource/War_of_the_Buttons_(1962_film),http://dbpedia.org/resource/La_nouvelle_guerre_des_boutons http://dbpedia.org/resource/War_of_the_Buttons_(2011_film) http://dbpedia.org/resource/La_Nouvelle_Guerre_des_boutons
+0,177,War and Peace,http://dbpedia.org/resource/War_and_Peace_(1915_film),http://dbpedia.org/resource/War_and_Peace_(1956_film) http://dbpedia.org/resource/War_and_peace_(1956_film) http://dbpedia.org/resource/War_and_Peace_(1956_movie)
+0,184,Wanderers,http://dbpedia.org/resource/The_Wanderers_(Price_novel),http://dbpedia.org/resource/Wanderers_(2014_film) http://dbpedia.org/resource/Wanderers_(short_film)
+0,189,Wall Street,http://dbpedia.org/resource/Wall_Street:_Money_Never_Sleeps,http://dbpedia.org/resource/Greed_is_good http://dbpedia.org/resource/Wall_Street_(1987_film) http://dbpedia.org/resource/Bluestar_airlines http://dbpedia.org/resource/Wall_Street_I http://dbpedia.org/resource/Greed_Is_Good http://dbpedia.org/resource/Greed_is_Good http://dbpedia.org/resource/Wall_Street_1 http://dbpedia.org/resource/Wall_Street_(1987_movie)
+0,195,Walking Tall,http://dbpedia.org/resource/Walking_Tall_(2004_film),http://dbpedia.org/resource/Walking_Tall_(1973_film)
+0,197,"Walking, Walking",http://dbpedia.org/resource/The_Walking_Dead_(TV_series),"http://dbpedia.org/resource/Cammina,_cammina http://dbpedia.org/resource/Walking_Walking http://dbpedia.org/resource/Keep_Walking http://dbpedia.org/resource/Cammina_cammina http://dbpedia.org/resource/Walking,_Walking"
+0,198,Walker,http://dbpedia.org/resource/The_Walkers_(Danish_band),http://dbpedia.org/resource/Walker_(film)

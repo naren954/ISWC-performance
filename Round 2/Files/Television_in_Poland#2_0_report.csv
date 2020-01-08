@@ -1,0 +1,4 @@
+"F1: 0.75000","Precision: 0.75000","Recall: 0.75000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","3","TVP2 HD","http://dbpedia.org/resource/TVP_Info","http://dbpedia.org/resource/TVP2 http://dbpedia.org/resource/TVP_2 http://dbpedia.org/resource/TVP2_HD http://dbpedia.org/resource/Rodzinka.pl"
+"0","8","TVP Rozrywka","http://dbpedia.org/resource/ATM_Rozrywka","http://dbpedia.org/resource/TVP_Rozrywka"

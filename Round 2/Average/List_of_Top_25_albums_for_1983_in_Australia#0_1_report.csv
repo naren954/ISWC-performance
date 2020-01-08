@@ -1,0 +1,11 @@
+F1: 0.64000,Precision: 0.64000,Recall: 0.64000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,Thriller,http://dbpedia.org/resource/Thriller_25,http://dbpedia.org/resource/The_Lady_in_My_Life http://dbpedia.org/resource/Thriller_(album) http://dbpedia.org/resource/Thriller_(Michael_Jackson_album http://dbpedia.org/resource/Thriller_(Michael_Jackson_album) http://dbpedia.org/resource/Thriller_album http://dbpedia.org/resource/Michael_Jackson's_Thriller_album http://dbpedia.org/resource/Legacy_of_Thriller http://dbpedia.org/resource/Carousel_(Michael_Jackson_song) http://dbpedia.org/resource/Carousel_(Michael_Jackson_unrealesed_song) http://dbpedia.org/resource/The_Lady_In_My_Life
+1,5,Flashdance,http://dbpedia.org/resource/Flashdance..._What_a_Feeling,http://dbpedia.org/resource/Music_used_in_Flashdance http://dbpedia.org/resource/Cast_and_music_used_in_Flashdance http://dbpedia.org/resource/Flashdance_(soundtrack)
+1,7,The Key,http://dbpedia.org/resource/Songs_in_the_Key_of_Life,http://dbpedia.org/resource/The_Key_(Joan_Armatrading_album)
+1,10,True,http://dbpedia.org/resource/True_(Avicii_album),http://dbpedia.org/resource/True_(Spandau_Ballet_album)
+1,12,Business as Usual,http://dbpedia.org/resource/Business_as_Usual_(EPMD_album),http://dbpedia.org/resource/Business_as_Usual_(Men_at_Work_album) http://dbpedia.org/resource/Helpless_automaton http://dbpedia.org/resource/Helpless_Automaton
+1,13,Greatest Hits vol 3,http://dbpedia.org/resource/Greatest_Hits_Volume_Three:_Best_of_the_Brother_Years_1970–1986,http://dbpedia.org/resource/Olivia's_Greatest_Hits_Vol._2
+1,19,Sweet Dreams,http://dbpedia.org/resource/Sweet_Dreams_(Are_Made_of_This),http://dbpedia.org/resource/Sweet_Dreams_(Are_Made_of_This)_(album)
+1,20,Escapade,http://dbpedia.org/resource/Escapade_(song),http://dbpedia.org/resource/Escapade_(album)
+1,21,IV,http://dbpedia.org/resource/Grand_Theft_Auto_IV,http://dbpedia.org/resource/Toto_IV http://dbpedia.org/resource/Toto_4 http://dbpedia.org/resource/Afraid_of_Love_(song) http://dbpedia.org/resource/It's_a_Feeling

@@ -1,0 +1,5 @@
+F1: 0.86957,Precision: 0.86957,Recall: 0.86957,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,Shift,http://dbpedia.org/resource/Perspective_control_lens,http://dbpedia.org/resource/Shift_(magazine) http://dbpedia.org/resource/Shift_magazine
+0,5,Rolling Stone Australia,http://dbpedia.org/resource/Rolling_Stone,http://dbpedia.org/resource/Rolling_Stone_Australia
+0,15,Jazz Forum,http://dbpedia.org/resource/Jazz_Forum_(historic_periodical),http://dbpedia.org/resource/Jazz_Forum http://dbpedia.org/resource/Jazz_Forum_(magazine)

@@ -1,0 +1,4 @@
+"F1: 0.88889","Precision: 0.88889","Recall: 0.88889"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","13","Kopa","http://dbpedia.org/resource/Kopa,_Estonia","http://dbpedia.org/resource/Kopa_lake http://dbpedia.org/resource/Lake_Kopa"
+"0","18","Zerenda","http://dbpedia.org/resource/Zerendi","http://dbpedia.org/resource/Lake_Zerenda"

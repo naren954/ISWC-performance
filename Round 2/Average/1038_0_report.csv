@@ -1,0 +1,47 @@
+F1: 0.70968,Precision: 0.70968,Recall: 0.70968,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Siege of Jaén,http://dbpedia.org/resource/Siege_of_Jaén_(1225),http://dbpedia.org/resource/Siege_of_Jaén_(1230) http://dbpedia.org/resource/Siege_of_Jaen_(1230)
+0,6,Siege of Inverness,http://dbpedia.org/resource/Siege_of_Inverness_(1562),http://dbpedia.org/resource/Siege_of_Inverness_(1746)
+0,7,Siege of Inverness,http://dbpedia.org/resource/Siege_of_Inverness_(1562),http://dbpedia.org/resource/Siege_of_Inverness_(1715)
+0,8,Siege of Inverness,http://dbpedia.org/resource/Siege_of_Inverness_(1562),http://dbpedia.org/resource/Siege_of_Inverness_(1650)
+0,9,Siege of Inverness,http://dbpedia.org/resource/Siege_of_Inverness_(1562),http://dbpedia.org/resource/Siege_of_Inverness_(1649)
+0,16,Siege of Humaitá,http://dbpedia.org/resource/Passage_of_Humaitá,http://dbpedia.org/resource/Siege_of_Humaitá http://dbpedia.org/resource/Siege_of_Humaita http://dbpedia.org/resource/Siege_of_humaita http://dbpedia.org/resource/Siege_of_humaitá
+0,18,Siege of Hulst,http://dbpedia.org/resource/Siege_of_Hulst_(1645),http://dbpedia.org/resource/Siege_of_Hulst_(1596)
+0,19,Siege of Hulst,http://dbpedia.org/resource/Siege_of_Hulst_(1645),http://dbpedia.org/resource/Siege_of_Hulst_(1591)
+0,20,Siege of Hull,http://dbpedia.org/resource/Siege_of_Hull_(1643),http://dbpedia.org/resource/First_Siege_of_Hull http://dbpedia.org/resource/Siege_of_Hull_(1642)
+0,30,Siege of Hameln,http://dbpedia.org/resource/Siege_of_Hamelin,http://dbpedia.org/resource/Siege_of_Hameln
+0,35,Siege of Hachigata,http://dbpedia.org/resource/Siege_of_Hachigata_(1590),http://dbpedia.org/resource/Siege_of_Hachigata_(1568) http://dbpedia.org/resource/Siege_of_Hachigata_1568
+0,42,Siege of Groenlo,http://dbpedia.org/resource/Siege_of_Groenlo_(1595),http://dbpedia.org/resource/Siege_of_Groenlo_(1672)
+0,43,Siege of Groenlo,http://dbpedia.org/resource/Siege_of_Groenlo_(1595),http://dbpedia.org/resource/Siege_of_Groenlo_(1606)
+0,44,Siege of Groenlo,http://dbpedia.org/resource/Siege_of_Groenlo_(1595),http://dbpedia.org/resource/Siege_of_Groenlo_(1597)
+0,46,Siege of Grave,http://dbpedia.org/resource/Siege_of_Grave_(1586),http://dbpedia.org/resource/Siege_of_Grave_(1602)
+0,58,Siege of Ganja,http://dbpedia.org/resource/Siege_of_Ganja_(1734),http://dbpedia.org/resource/Siege_of_Ganja
+0,62,Siege of Gaeta,http://dbpedia.org/resource/Siege_of_Gaeta_(1734),http://dbpedia.org/resource/Siege_of_Gaeta_(1861) http://dbpedia.org/resource/Siege_of_Gaeta_(1860)
+0,63,Siege of Gaeta,http://dbpedia.org/resource/Siege_of_Gaeta_(1734),http://dbpedia.org/resource/Siege_of_Gaeta_(1806)
+0,78,Siege of Fort Nashwaak,http://dbpedia.org/resource/Siege_of_Fort_Morgan,http://dbpedia.org/resource/Siege_of_Fort_Nashwaak_(1696)
+0,86,Siege of Fort Harrison,"http://dbpedia.org/resource/Fort_Harrison,_Indiana",http://dbpedia.org/resource/Joseph_Lenar http://dbpedia.org/resource/Battle_of_fort_harrison http://dbpedia.org/resource/Siege_of_Fort_Harrison http://dbpedia.org/resource/Battle_of_Fort_Harrison
+0,89,Siege of Fort Augustus,http://dbpedia.org/resource/Siege_of_Fort_Augustus_(March_1746),http://dbpedia.org/resource/Siege_of_Fort_Augustus_(December_1745)
+0,98,Siege of Esztergom,http://dbpedia.org/resource/Siege_of_Esztergom_(1543),http://dbpedia.org/resource/Siege_of_Esztergom_(1241)
+0,105,Siege of Edessa,http://dbpedia.org/resource/Siege_of_Edessa_(1144),http://dbpedia.org/resource/Fall_of_Edessa http://dbpedia.org/resource/The_Siege_of_Edessa http://dbpedia.org/resource/Siege_of_Edessa
+0,107,Siege of Dura Europos,http://dbpedia.org/resource/Siege_of_Dura-Europos_(256),http://dbpedia.org/resource/Siege_of_Dura_Europos_(256) http://dbpedia.org/resource/Siege_of_Dura_Europos_(253)
+0,108,Siege of Dunlap's Station,http://dbpedia.org/resource/Battle_of_Monte_Cassino,http://dbpedia.org/resource/Siege_of_Dunlap's_Station
+0,109,Siege of Dunkirk,http://dbpedia.org/resource/Battle_of_the_Dunes_(1658),http://dbpedia.org/resource/Siege_of_Dunkirk_(1794) http://dbpedia.org/resource/Siege_of_Dunkirk_(1793)
+0,110,Siege of Dunkirk,http://dbpedia.org/resource/Battle_of_the_Dunes_(1658),http://dbpedia.org/resource/Siege_of_Dunkirk_(1658)
+0,115,Siege of Drogheda,http://dbpedia.org/resource/Siege_of_Drogheda_(1641),http://dbpedia.org/resource/Siege_of_Drogheda http://dbpedia.org/resource/Storming_of_Drogheda http://dbpedia.org/resource/Massacre_of_Drogheda
+0,121,Siege of Diu,http://dbpedia.org/resource/Siege_of_Diu,http://dbpedia.org/resource/Siege_of_Diu_(1531)
+0,125,Siege of Deventer,http://dbpedia.org/resource/Siege_of_Deventer_(1591),http://dbpedia.org/resource/Siege_of_Deventer_(1578)
+0,128,Siege of Delhi,http://dbpedia.org/resource/Siege_of_Delhi_(1804),http://dbpedia.org/resource/Siege_of_Shahjahanabad http://dbpedia.org/resource/Siege_of_Delhi_(1857) http://dbpedia.org/resource/Siege_of_Delhi http://dbpedia.org/resource/Delhi_1857
+0,129,Siege of De'an,http://dbpedia.org/resource/Siege_of_Paris_(1870–71),http://dbpedia.org/resource/Siege_of_De'an
+0,132,Siege of Danzig,http://dbpedia.org/resource/Siege_of_Danzig_(1807),http://dbpedia.org/resource/Siege_of_Danzig_(1813)
+0,134,Siege of Danzig,http://dbpedia.org/resource/Siege_of_Danzig_(1807),http://dbpedia.org/resource/Siege_of_Danzig_(1734) http://dbpedia.org/resource/Siege_of_Gdańsk_(1734) http://dbpedia.org/resource/Siege_of_Gdansk_(1734)
+0,135,Siege of Danzig,http://dbpedia.org/resource/Siege_of_Danzig_(1807),http://dbpedia.org/resource/Siege_of_Danzig_(1655–60) http://dbpedia.org/resource/Siege_of_Danzig_(1655-1660) http://dbpedia.org/resource/Siege_of_Danzig_(1655–1660) http://dbpedia.org/resource/Siege_of_Danzig_(1655-60)
+0,136,Siege of Danzig,http://dbpedia.org/resource/Siege_of_Danzig_(1807),http://dbpedia.org/resource/Siege_of_Danzig_(1577)
+0,139,Siege of Damascus,http://dbpedia.org/resource/Siege_of_Damascus_(1148),http://dbpedia.org/resource/Siege_of_Damascus_(634) http://dbpedia.org/resource/Muslim_invasion_of_Damascus http://dbpedia.org/resource/Conquest_of_Damascus http://dbpedia.org/resource/Siege_of_Damascus_634
+0,140,Siege of Damascus,http://dbpedia.org/resource/Siege_of_Damascus_(1148),http://dbpedia.org/resource/Siege_of_Damascus_(1400)
+0,147,Siege of Cuartel de la Montaña,http://dbpedia.org/resource/Siege_of_the_Montaña_barracks,http://dbpedia.org/resource/Siege_of_Cuartel_de_la_Montaña http://dbpedia.org/resource/Montaña_barracks http://dbpedia.org/resource/Siege_of_Cuartel_de_la_Montana
+0,148,Siege of Cuartel de Loyola,http://dbpedia.org/resource/Siege_of_the_Loyola_barracks,http://dbpedia.org/resource/Siege_of_Cuartel_de_Loyola
+0,149,Siege of Ctesiphon,http://dbpedia.org/resource/Siege_of_Ctesiphon_(637),http://dbpedia.org/resource/Siege_of_Ctesiphon_(629)
+0,152,Siege of Constantinople,http://dbpedia.org/resource/Fall_of_Constantinople,http://dbpedia.org/resource/Siege_of_Constantinople_(860_A.D.) http://dbpedia.org/resource/Rus'_Siege_of_Constantinople_(860) http://dbpedia.org/resource/Rus'–Byzantine_War_(860) http://dbpedia.org/resource/Siege_of_Constantinople_(860) http://dbpedia.org/resource/Russo-Byzantine_War_(860) http://dbpedia.org/resource/Rus'-Byzantine_War_(860)
+0,153,Siege of Constantinople,http://dbpedia.org/resource/Fall_of_Constantinople,http://dbpedia.org/resource/Battle_before_Constantinople http://dbpedia.org/resource/Siege_of_Constantinople_(717–718) http://dbpedia.org/resource/Second_arab_siege_of_constantinople http://dbpedia.org/resource/Second_Arab_siege_of_Constantinople http://dbpedia.org/resource/Siege_of_Constantinople_(717) http://dbpedia.org/resource/Siege_of_Constantinople_(717–18) http://dbpedia.org/resource/Siege_of_Constantinople_(717-18) http://dbpedia.org/resource/Siege_of_Constantinople_(718) http://dbpedia.org/resource/Siege_of_Constantinople_(717-718) http://dbpedia.org/resource/Second_Arab_Siege_of_Constantinople
+0,154,Siege of Constantinople,http://dbpedia.org/resource/Fall_of_Constantinople,http://dbpedia.org/resource/Siege_of_Constantinople_(626) http://dbpedia.org/resource/First_Siege_of_Constantinople
+0,155,Siege of Constantinople,http://dbpedia.org/resource/Fall_of_Constantinople,http://dbpedia.org/resource/Sack_of_Constantinople http://dbpedia.org/resource/Siege_of_Constantinople_(1204) http://dbpedia.org/resource/Crusaders_siege_of_Constantinople_(1204)

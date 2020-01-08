@@ -1,0 +1,7 @@
+"F1: 0.61538","Precision: 0.61538","Recall: 0.61538"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","3","Kalmar AIK","http://dbpedia.org/resource/Kalmar_FF","http://dbpedia.org/resource/Kalmar_AIK_FK http://dbpedia.org/resource/Kalmar_AIK http://dbpedia.org/resource/Kalmar_AIK_Fotboll"
+"1","4","MyresjÃ¶ IF","http://dbpedia.org/resource/Myresjö/Vetlanda_FK","http://dbpedia.org/resource/Myresjö_IF"
+"1","7","IfÃ¶\/BromÃ¶lla IF","http://dbpedia.org/resource/Ifö_Bromölla_IF","http://dbpedia.org/resource/Ifö/Bromölla_IF"
+"1","11","IFK HÃ¤ssleholm","http://dbpedia.org/resource/IFK_Göteborg","http://dbpedia.org/resource/IFK_Hässleholm"
+"1","12","Karlskrona AIF","http://de.dbpedia.org/resource/Karlskrona_AIF","http://dbpedia.org/resource/FK_Karlskrona http://dbpedia.org/resource/Karlskrona_AIF"

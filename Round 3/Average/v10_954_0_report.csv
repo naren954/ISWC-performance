@@ -1,0 +1,10 @@
+F1: 0.63636,Precision: 0.63636,Recall: 0.63636,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,F. J. Larkin,http://dbpedia.org/resource/Peter_J._Larkin,http://dbpedia.org/resource/Frank_Larkin http://dbpedia.org/resource/Frank_J._Larkin
+0,6,E. Hanger,http://dbpedia.org/resource/Art_Hanger,http://dbpedia.org/resource/Emmett_Hanger
+0,11,D. Collins,http://dbpedia.org/resource/Damian_Collins,http://dbpedia.org/resource/Doug_Collins_(politician)
+0,12,D. Beattie,http://dbpedia.org/resource/David_Beattie,"http://dbpedia.org/resource/Doug_Beattie http://dbpedia.org/resource/Doug_Beattie,_British_Army_Officer"
+0,13,D. Samuelson,http://dbpedia.org/resource/Paul_Samuelson,http://dbpedia.org/resource/Donald_W._Samuelson http://dbpedia.org/resource/Don_Samuelson_(Minnesota_politician http://dbpedia.org/resource/Donald_Samuelson http://dbpedia.org/resource/Don_W._Samuelson http://dbpedia.org/resource/Don_Samuelson http://dbpedia.org/resource/Donald_William_Samuelson http://dbpedia.org/resource/Don_William_Samuelson
+0,19,D. Alexander,http://dbpedia.org/resource/Douglas_Alexander,http://dbpedia.org/resource/David_Alexander_(Tennessee_politician)
+0,21,C. Taliaferro,http://dbpedia.org/resource/James_Taliaferro,http://dbpedia.org/resource/Chris_Taliaferro
+0,22,C. Collins,http://dbpedia.org/resource/Cardiss_Collins,http://dbpedia.org/resource/Chris_Collins_(Virginia_politician)

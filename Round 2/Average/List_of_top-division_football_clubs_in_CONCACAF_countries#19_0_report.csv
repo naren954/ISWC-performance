@@ -1,0 +1,4 @@
+F1: 0.71429,Precision: 0.71429,Recall: 0.71429,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,ASC Black Stars,http://dbpedia.org/resource/FC_Black_Stars_Basel,http://dbpedia.org/resource/ASC_Black_Stars
+0,3,CSCC,http://dbpedia.org/resource/Columbus_State_Community_College,http://dbpedia.org/resource/Club_Sportif_et_Culturel_de_Cayenne http://dbpedia.org/resource/CSC_de_Cayenne http://dbpedia.org/resource/AS_Club_Colonial http://dbpedia.org/resource/CSC_Cayenne

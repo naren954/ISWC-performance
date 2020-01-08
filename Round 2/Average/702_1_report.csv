@@ -1,0 +1,6 @@
+F1: 0.63636,Precision: 0.63636,Recall: 0.63636,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,3,The Magic,http://dbpedia.org/resource/My_Little_Pony:_Friendship_Is_Magic,http://dbpedia.org/resource/The_Magic_(book)
+1,5,Mother Earth,http://dbpedia.org/resource/Mother_Earth_(album),http://dbpedia.org/resource/Mother_Earth_(Asimov) http://dbpedia.org/resource/Mother_Earth_(novelette) http://dbpedia.org/resource/Ion_Mereanu
+1,7,The Stranger,http://dbpedia.org/resource/The_Stranger_(album),http://dbpedia.org/resource/The_Stranger_(Chris_Van_Allsburg_novel) http://dbpedia.org/resource/The_Stranger_(Chris_Van_Allsburg_book) http://dbpedia.org/resource/The_Stranger_(Van_Allsburg_book)
+1,10,Space Chronicles: Facing the Ultimate Frontier,http://dbpedia.org/resource/Space_Chronicles,http://dbpedia.org/resource/Space_Chronicles:_Facing_the_Ultimate_Frontier

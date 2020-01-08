@@ -1,0 +1,4 @@
+F1: 0.50000,Precision: 0.50000,Recall: 0.50000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,Major Allan Cameron,http://dbpedia.org/resource/Alexander_Cameron_(barrister),http://dbpedia.org/resource/Allan_Cameron_(British_officer) http://dbpedia.org/resource/Allan_Cameron_(soldier) http://dbpedia.org/resource/Allan_Cameron_(British_Army_officer) http://dbpedia.org/resource/Allan_Cameron_(officer) http://dbpedia.org/resource/Allan_John_Cameron
+0,5,G. Clifton Thompson,http://dbpedia.org/resource/John_G._Thompson,http://dbpedia.org/resource/G._Clifton_Thompson

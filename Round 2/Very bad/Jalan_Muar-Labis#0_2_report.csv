@@ -1,0 +1,25 @@
+F1: 0.08000,Precision: 0.08000,Recall: 0.08000,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,10,BUKIT PASIR Masjid Bukit Pasir,,http://dbpedia.org/resource/Bukit_Pasir
+2,12,BUKIT PASIR Jalan Naib Kadir,http://dbpedia.org/resource/Battle_of_Pasir_Panjang,http://dbpedia.org/resource/Bukit_Pasir
+2,14,BUKIT PASIR,http://dbpedia.org/resource/Battle_of_Pasir_Panjang,http://dbpedia.org/resource/Bukit_Pasir
+2,15,BUKIT PASIR,http://dbpedia.org/resource/Battle_of_Pasir_Panjang,http://dbpedia.org/resource/Bukit_Pasir
+2,23,Nasuha National Service Camp,http://dbpedia.org/resource/World_War_II,http://dbpedia.org/resource/Conscription_in_Malaysia http://dbpedia.org/resource/Program_Khidmat_Negara http://dbpedia.org/resource/National_Service_in_Malaysia http://dbpedia.org/resource/National_Service_Training_Programme_(Malaysia) http://dbpedia.org/resource/National_service_in_Malaysia http://dbpedia.org/resource/Malaysian_National_Service http://dbpedia.org/resource/Program_Latihan_Khidmat_Negara http://dbpedia.org/resource/Khidmat_Negara http://dbpedia.org/resource/PLKN
+2,29,PAGOH Pagoh Jaya,,http://dbpedia.org/resource/Pagoh
+2,30,PAGOH Institut Kemahiran Belia Negara (IKBN) Pagoh,,http://dbpedia.org/resource/Pagoh
+2,31,PAGOH Pagoh Industrial Area II,http://dbpedia.org/resource/Strategic_bombing_during_World_War_II,http://dbpedia.org/resource/Pagoh
+2,32,PAGOH Pagoh-NSE,http://dbpedia.org/resource/Norwegian_Air_Sweden,http://dbpedia.org/resource/Pagoh
+2,34,PAGOH BANDAR UNIVERSITI PAGOH Jalan Panchor,http://dbpedia.org/resource/Bandar_Universiti_Pagoh,http://dbpedia.org/resource/Pagoh
+2,35,PAGOH BANDAR UNIVERSITI PAGOH,http://dbpedia.org/resource/Bandar_Universiti_Pagoh,http://dbpedia.org/resource/Pagoh
+2,36,PAGOH BANDAR UNIVERSITI PAGOH,http://dbpedia.org/resource/Bandar_Universiti_Pagoh,http://dbpedia.org/resource/Pagoh
+2,38,PAGOH BANDAR UNIVERSITI PAGOH Pagoh Industrial Area III,http://dbpedia.org/resource/Strategic_bombing_during_World_War_II,http://dbpedia.org/resource/Pagoh
+2,41,PAGOH Jalan Kampung Raja,http://dbpedia.org/resource/Jalan_Kampung_Raja,http://dbpedia.org/resource/Pagoh
+2,46,PAGOH Jalan Pagoh-Parit Sulong,http://dbpedia.org/resource/Jalan_Pagoh–Parit_Sulong,http://dbpedia.org/resource/Pagoh
+2,54,LENGA,http://dbpedia.org/resource/French_language,"http://dbpedia.org/resource/Lenga,_Johor"
+2,55,LENGA,http://dbpedia.org/resource/French_language,"http://dbpedia.org/resource/Lenga,_Johor"
+2,61,BUKIT KEPONG,http://dbpedia.org/resource/Bukit_Kepong_incident,http://dbpedia.org/resource/Bukit_Kepong
+2,62,BUKIT KEPONG,http://dbpedia.org/resource/Bukit_Kepong_incident,http://dbpedia.org/resource/Bukit_Kepong
+2,63,BUKIT KEPONG,http://dbpedia.org/resource/Bukit_Kepong_incident,http://dbpedia.org/resource/Bukit_Kepong
+2,73,LABIS Rumah Rakyat Labis,http://dbpedia.org/resource/Labis_incident,http://dbpedia.org/resource/Labis
+2,74,LABIS Kampung Temeroh,http://dbpedia.org/resource/Malaysia_Federal_Route_1,http://dbpedia.org/resource/Labis
+2,76,LABIS,http://dbpedia.org/resource/Landing_at_Labis,http://dbpedia.org/resource/Labis

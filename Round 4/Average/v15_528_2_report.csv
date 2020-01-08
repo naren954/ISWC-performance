@@ -1,0 +1,35 @@
+F1: 0.66667,Precision: 0.66667,Recall: 0.66667,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,3,A. Marks,http://dbpedia.org/resource/Alfred_Marks,http://dbpedia.org/resource/Amber_Marks
+2,6,C. Murray,http://dbpedia.org/resource/Charles_Murray_(American_actor),http://dbpedia.org/resource/Christopher_Murray_(actor)
+2,8,P. Tennant,http://dbpedia.org/resource/David_Tennant,http://dbpedia.org/resource/Pauline_Tennant
+2,9,E. Göring,http://dbpedia.org/resource/Hermann_Göring,http://dbpedia.org/resource/Edda_Göring http://dbpedia.org/resource/Edda_Goering
+2,13,C. Gibson,http://dbpedia.org/resource/Charles_Gibson_(historian),http://dbpedia.org/resource/Charlie_Gibson_(special_effects_artist) http://dbpedia.org/resource/Charles_Gibson_(special_effects_artist)
+2,24,A. Secombe,http://dbpedia.org/resource/Harry_Secombe,http://dbpedia.org/resource/Andy_Secombe http://dbpedia.org/resource/Andrew_Secombe
+2,25,S. Corbett,http://dbpedia.org/resource/Ronnie_Corbett,http://dbpedia.org/resource/Susannah_Corbett
+2,27,L. Geller,http://dbpedia.org/resource/Lorraine_Geller,http://dbpedia.org/resource/Laurence_Geller http://dbpedia.org/resource/Laurence_S._Geller
+2,29,I. Sardi,http://dbpedia.org/resource/Paolo_Sardi,http://dbpedia.org/resource/Idris_Sardi
+2,34,C. Peck,http://dbpedia.org/resource/Gregory_Peck,"http://dbpedia.org/resource/Harper_Peck http://dbpedia.org/resource/Peck,_Cecilia http://dbpedia.org/resource/Cecilia_Peck"
+2,39,J. McCallum,http://dbpedia.org/resource/John_McCallum_(actor),http://dbpedia.org/resource/Joanna_McCallum
+2,43,K. R. Stuart,http://dbpedia.org/resource/Charles_II_of_England,http://dbpedia.org/resource/Kim_Rossi-Stuart http://dbpedia.org/resource/Kim_Rossi_Stuart http://dbpedia.org/resource/Kim_Stuart
+2,44,L. Ryan,http://dbpedia.org/resource/Leo_Ryan,http://dbpedia.org/resource/Lottie_Ryan
+2,47,S. B. Whitman,http://dbpedia.org/resource/Christine_Todd_Whitman,http://dbpedia.org/resource/Sylvia_Beach_Whitman
+2,48,G. W. Jr.,http://dbpedia.org/resource/George_W._Bush,"http://dbpedia.org/resource/George_Wallace_Jr. http://dbpedia.org/resource/George_Wallace,_Jr. http://dbpedia.org/resource/George_C._Wallace,_Jr."
+2,52,G. Coulouris,http://dbpedia.org/resource/George_Coulouris,http://dbpedia.org/resource/George_Coulouris_(computer_scientist)
+2,53,K. Carlin,http://dbpedia.org/resource/George_Carlin,http://dbpedia.org/resource/Kelly_Carlin http://dbpedia.org/resource/Kelly_Carlin-McCall
+2,55,G. Richter,http://dbpedia.org/resource/Gisela_Richter,http://dbpedia.org/resource/Georg_Richter
+2,56,J. Lewis,http://dbpedia.org/resource/John_Frederick_Lewis,http://dbpedia.org/resource/Juliette_Lewis http://dbpedia.org/resource/Juliette_lewis http://dbpedia.org/resource/Juliet_Lewis
+2,57,J. Kerr,http://dbpedia.org/resource/Judith_Kerr,http://dbpedia.org/resource/John_Kerr_(actor)
+2,61,S. Marshall,http://dbpedia.org/resource/Sarah_Marshall_(British_actress),http://dbpedia.org/resource/Scott_Marshall_(director)
+2,64,L. Dostoyevskaya,http://dbpedia.org/resource/Lyubov_Dostoevskaya,http://dbpedia.org/resource/Lyubov_Dostoyevskaya
+2,67,F. R. Scott,http://dbpedia.org/resource/Scott_Walker_(politician),http://dbpedia.org/resource/F.R._Scott http://dbpedia.org/resource/Francis_Reginald_Scott http://dbpedia.org/resource/F_Scott http://dbpedia.org/resource/FR_Scott http://dbpedia.org/resource/F_R_Scott http://dbpedia.org/resource/F._R._Scott
+2,68,F. P. Jr.,http://dbpedia.org/resource/Pietro_Ferrero_Jr.,"http://dbpedia.org/resource/Freddy_Prince_Jr. http://dbpedia.org/resource/Freddie_Prince,_Jr. http://dbpedia.org/resource/Freddie_Prinze,_Jr. http://dbpedia.org/resource/Freddy_prince_jr http://dbpedia.org/resource/Freddie_Prince_Jr. http://dbpedia.org/resource/Freddie_Prinze_Jr http://dbpedia.org/resource/Freddy_Prinze_Jr. http://dbpedia.org/resource/Freddie_prinze_junior http://dbpedia.org/resource/Freddie_Prinze_Jr."
+2,70,F. K. Jr.,http://dbpedia.org/resource/Jack_Kemp,"http://dbpedia.org/resource/Fred_Kohler_Jr. http://dbpedia.org/resource/Fred_Kohler,_Jr."
+2,74,T. Thomas,http://dbpedia.org/resource/Tony_Thomas_(producer),http://dbpedia.org/resource/Theodore_Thomas_(filmmaker)
+2,75,N. Sinatra,http://dbpedia.org/resource/Frank_Sinatra,"http://dbpedia.org/resource/How_Does_It_Feel_(album) http://dbpedia.org/resource/Country,_My_Way http://dbpedia.org/resource/For_My_Dad http://dbpedia.org/resource/Nancy_S._Sinatra,_Junior http://dbpedia.org/resource/Nancy_Sinatra http://dbpedia.org/resource/Nancy_sinatra"
+2,78,J. Craven,http://dbpedia.org/resource/Wes_Craven,"http://dbpedia.org/resource/John_Craven,_Actor http://dbpedia.org/resource/John_Craven_(actor)"
+2,80,L. Bacon,http://dbpedia.org/resource/Kevin_Bacon,http://dbpedia.org/resource/Lloyd_Bacon
+2,83,J. McCrea,http://dbpedia.org/resource/Joel_McCrea,http://dbpedia.org/resource/Jody_McCrea
+2,86,H. Ahmed,http://dbpedia.org/resource/Humayun_Ahmed,http://dbpedia.org/resource/Hamin_Ahmed
+2,94,R. W. Thaw,http://dbpedia.org/resource/Russell_Thaw,http://dbpedia.org/resource/Russell_William_Thaw
+2,99,S. Flynn,http://dbpedia.org/resource/Errol_Flynn,http://dbpedia.org/resource/Sean_Flynn_(photojournalist) http://dbpedia.org/resource/Sean_Leslie_Flynn http://dbpedia.org/resource/Sean_Flynn_(born_1941) http://dbpedia.org/resource/Sean_Flynn_(film_actor)

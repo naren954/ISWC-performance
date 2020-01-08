@@ -1,0 +1,8 @@
+"F1: 0.53846","Precision: 0.53846","Recall: 0.53846"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","1","S. W. Walker","http://dbpedia.org/resource/George_H._W._Bush","http://dbpedia.org/resource/Sarah_Woodruff_Walker"
+"0","2","R. Wilson","http://dbpedia.org/resource/Robert_Wilson_(Missouri)","http://dbpedia.org/resource/Ronald_Wilson"
+"0","4","P. Morton","http://dbpedia.org/resource/Levi_P._Morton","http://dbpedia.org/resource/Perez_Morton"
+"0","10","D. Ward","http://dbpedia.org/resource/David_Ward_(British_politician)","http://dbpedia.org/resource/Charles_Ward_(NZ_politician) http://dbpedia.org/resource/Charles_Dudley_Robert_Ward http://dbpedia.org/resource/Dudley_Ward_(judge) http://dbpedia.org/resource/Charles_Ward_(politician)"
+"0","11","C. Caesar","http://dbpedia.org/resource/Julius_Caesar","http://dbpedia.org/resource/Charles_Caesar http://dbpedia.org/resource/Sir_Charles_Caesar http://dbpedia.org/resource/Charles_Caesar_(1590–1642) http://dbpedia.org/resource/Caesar,_Charles http://dbpedia.org/resource/Charles_Caesar_(1590-1642)"
+"0","13","B. O'Keefe","http://dbpedia.org/resource/Michael_O'Keefe","http://dbpedia.org/resource/Barry_O'Keefe"

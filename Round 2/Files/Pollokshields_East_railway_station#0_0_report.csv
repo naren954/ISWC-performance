@@ -1,0 +1,4 @@
+"F1: 0.00000","Precision: 0.00000","Recall: 0.00000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","1","Queen's Park","http://dbpedia.org/resource/Queens_Park_Rangers_F.C.","http://dbpedia.org/resource/Queen's_Park_(Glasgow)_railway_station"
+"0","3","Queen's Park Line and station open","http://dbpedia.org/resource/Queen's_Park_station_(Toronto)","http://dbpedia.org/resource/Queen's_Park_(Glasgow)_railway_station"

@@ -1,0 +1,9 @@
+F1: 0.41667,Precision: 0.41667,Recall: 0.41667,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,S. Diamond,http://dbpedia.org/resource/Jared_Diamond,http://dbpedia.org/resource/Sara_Diamond_(college_president) http://dbpedia.org/resource/Sara_Diamond_(Academic)
+1,3,A. D. Hamilton,http://dbpedia.org/resource/W._D._Hamilton,http://dbpedia.org/resource/Andrew_D._Hamilton http://dbpedia.org/resource/Andrew_David_Hamilton
+1,5,J. J. Browne,http://dbpedia.org/resource/John_Ross_Browne,http://dbpedia.org/resource/James_j_browne http://dbpedia.org/resource/James_J._Browne
+1,7,T. Kousuke,http://dbpedia.org/resource/Kousuke_Atari,http://dbpedia.org/resource/Kousuke_Takahashi http://dbpedia.org/resource/Takahashi_Kousuke
+1,9,L. A. Simon,http://dbpedia.org/resource/Elwyn_L._Simons,http://dbpedia.org/resource/Lou_Anna_Simon http://dbpedia.org/resource/Lou_Anna_K._Simon
+1,10,M. Paul,http://dbpedia.org/resource/Markus_Paul,http://dbpedia.org/resource/Martin_Paul_(professor)
+1,11,Major,http://dbpedia.org/resource/John_Major,http://dbpedia.org/resource/Major_(U.S.) http://dbpedia.org/resource/Major_(US) http://dbpedia.org/resource/Major_(United_States) http://dbpedia.org/resource/Major_(USA) http://dbpedia.org/resource/US_Major http://dbpedia.org/resource/Major_(Untied_States)

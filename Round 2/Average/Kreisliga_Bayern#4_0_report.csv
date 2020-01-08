@@ -1,0 +1,7 @@
+F1: 0.54545,Precision: 0.54545,Recall: 0.54545,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,Wacker MÃ¼nchen,http://dbpedia.org/resource/FC_Wacker_München,http://dbpedia.org/resource/Wacker_München
+0,4,Schwaben Augsburg,http://dbpedia.org/resource/FC_Augsburg,http://dbpedia.org/resource/TSV_Schwaben_Augsburg http://dbpedia.org/resource/TV_1847_Augsburg http://dbpedia.org/resource/MTV_Augsburg http://dbpedia.org/resource/Schwaben_Augsburg
+0,6,MTV Ingolstadt,http://dbpedia.org/resource/FC_Ingolstadt_04,http://dbpedia.org/resource/MTV_1881_Ingolstadt http://dbpedia.org/resource/MTV_Ingolstadt
+0,11,BC Augsburg,http://dbpedia.org/resource/FC_Augsburg,http://dbpedia.org/resource/BC_Augsburg_II http://dbpedia.org/resource/BC_Augsburg http://dbpedia.org/resource/BC_Augsburg_Amateure http://dbpedia.org/resource/BC_Augsburg-Oberhausen
+0,15,TV Dachau,http://dbpedia.org/resource/Dachau_concentration_camp,http://dbpedia.org/resource/TSV_Dachau http://dbpedia.org/resource/SSV_Dachau-Ost http://dbpedia.org/resource/TV_Dachau http://dbpedia.org/resource/TSV_Dachau_Spurs http://dbpedia.org/resource/Dachau_Spurs http://dbpedia.org/resource/TSV_1865_Dachau

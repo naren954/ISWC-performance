@@ -1,0 +1,8 @@
+F1: 0.84211,Precision: 0.84211,Recall: 0.84211,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,4,G. Campbell,http://dbpedia.org/resource/Gregory_Campbell_(ice_hockey),http://dbpedia.org/resource/Glenn_Campbell_(American_football)
+0,8,G. Steer,http://dbpedia.org/resource/Jed_Steer,http://dbpedia.org/resource/Gil_Steer
+0,9,G. Lefebvre,http://dbpedia.org/resource/Garry_Lefebvre,http://dbpedia.org/resource/Gil_LeFebvre http://dbpedia.org/resource/Gil_Lefebvre
+0,16,G. Wilson,http://dbpedia.org/resource/Gillis_Wilson,http://dbpedia.org/resource/George_Wilson_(Lafayette_football) http://dbpedia.org/resource/George_Wilson_(American_football_halfback)
+0,17,G. Wilde,http://dbpedia.org/resource/Walter_Wilde,http://dbpedia.org/resource/George_Wilde
+0,33,G. S. Jr.,http://dbpedia.org/resource/George_Sauer_Jr.,"http://dbpedia.org/resource/George_Sauer,_Jr http://dbpedia.org/resource/George_Sauer,_Jr."

@@ -1,0 +1,5 @@
+F1: 0.82353,Precision: 0.82353,Recall: 0.82353,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,South African cheetah,http://dbpedia.org/resource/Northwest_African_cheetah,http://dbpedia.org/resource/Namibian_Cheetah http://dbpedia.org/resource/Acinonyx_jubatus_jubatus http://dbpedia.org/resource/Namibian_cheetah http://dbpedia.org/resource/South_African_cheetah http://dbpedia.org/resource/Southern_African_cheetah http://dbpedia.org/resource/South_African_Cheetah
+0,2,South-western black rhinoceros,http://dbpedia.org/resource/Southern_black_rhinoceros,http://dbpedia.org/resource/South-western_black_rhino http://dbpedia.org/resource/Diceros_bicornis_occidentalis http://dbpedia.org/resource/South-western_Black_Rhinoceros http://dbpedia.org/resource/South-western_black_rhinoceros
+0,10,Sea trout,http://dbpedia.org/resource/Brown_trout,http://dbpedia.org/resource/Salmo_trutta_trutta http://dbpedia.org/resource/Sea_trout

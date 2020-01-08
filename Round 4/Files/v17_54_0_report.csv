@@ -1,0 +1,4 @@
+"F1: 0.86667","Precision: 0.86667","Recall: 0.86667"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","8","J. Murphy","http://dbpedia.org/resource/John_Murphy_(basketball)","http://dbpedia.org/resource/Jack_Murphy_(basketball)"
+"0","9","J. Payne","http://dbpedia.org/resource/John_Payne_(American_football)","http://dbpedia.org/resource/JR_Payne"

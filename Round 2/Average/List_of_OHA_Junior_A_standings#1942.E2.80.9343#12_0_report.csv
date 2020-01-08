@@ -1,0 +1,4 @@
+F1: 0.75000,Precision: 0.75000,Recall: 0.75000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,4,St. Catharines Falcons,http://dbpedia.org/resource/St._Catharines_Falcons_(1968–),http://dbpedia.org/resource/St._Catharines_Falcons
+0,7,Barrie Flyers,http://dbpedia.org/resource/Barrie_Flyers_(1966–79),http://dbpedia.org/resource/Barrie_Flyers

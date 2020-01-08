@@ -1,0 +1,12 @@
+F1: 0.89011,Precision: 0.89011,Recall: 0.89011,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,19,S. Anderson,http://dbpedia.org/resource/Stan_Anderson,http://dbpedia.org/resource/Sonny_Anderson
+0,35,S. Petrović,http://dbpedia.org/resource/Saša_Petrović_(footballer),http://dbpedia.org/resource/Slavko_Petrović http://dbpedia.org/resource/Slavko_Petrovic
+0,46,S. Pavlov,http://dbpedia.org/resource/Sergei_Pavlov,http://dbpedia.org/resource/Slavcho_Pavlov
+0,72,S. Weaver,http://dbpedia.org/resource/Sam_Weaver,http://dbpedia.org/resource/Simon_Weaver
+0,76,S. Smith,http://dbpedia.org/resource/Stanford_Smith,http://dbpedia.org/resource/Simon_Smith_(footballer)
+0,79,S. McMenemy,http://dbpedia.org/resource/Jimmy_McMenemy,http://dbpedia.org/resource/Simon_McMenemy
+0,80,S. Hunt,"http://dbpedia.org/resource/Stephen_Hunt_(footballer,_born_1956)",http://dbpedia.org/resource/Simon_Hunt_(footballer)
+0,84,S. Eaddy,,http://dbpedia.org/resource/Simon_Eaddy
+0,87,S. Collins,http://dbpedia.org/resource/Sean_Collins_(ice_hockey_defenceman),http://dbpedia.org/resource/Simon_Collins_(footballer)
+0,88,S. Clark,http://dbpedia.org/resource/Sandy_Clark,http://dbpedia.org/resource/Simon_Clark_(English_footballer)

@@ -1,0 +1,10 @@
+F1: 0.88571,Precision: 0.88571,Recall: 0.88571,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,9,K. Anderson,http://dbpedia.org/resource/Kenny_Anderson_(basketball),http://dbpedia.org/resource/Kyle_Anderson_(basketball) http://dbpedia.org/resource/Kyle_Anderson_(basketball_player)
+0,10,K. Thomas,http://dbpedia.org/resource/Krystal_Thomas,http://dbpedia.org/resource/Kurt_Thomas_(basketball) http://dbpedia.org/resource/Kurt_Vincent_Thomas http://dbpedia.org/resource/Kurt_Thomas_(basketball_player)
+0,26,K. Thompson,http://dbpedia.org/resource/Kevin_Thompson_(basketball),http://dbpedia.org/resource/Klay_Thompson http://dbpedia.org/resource/Klay_thompson
+0,30,K. Gaucher,http://dbpedia.org/resource/Jules_Gaucher,http://dbpedia.org/resource/Kim_Gaucher http://dbpedia.org/resource/Kim_Smith_(basketball) http://dbpedia.org/resource/Kimberley_Smith_(basketball)
+0,32,K. Anderson,http://dbpedia.org/resource/Kenny_Anderson_(basketball),http://dbpedia.org/resource/Kim_Anderson_(basketball)
+0,33,K. Vandeweghe,http://dbpedia.org/resource/Kiki_VanDeWeghe,"http://dbpedia.org/resource/Kiki_Vandeweghe http://dbpedia.org/resource/Ernest_Maurice_""Kiki""_Vandeweghe_III"
+0,43,K. Williams,http://dbpedia.org/resource/Kyle_Williams_(defensive_tackle),http://dbpedia.org/resource/Kevin_Williams_(basketball)
+0,52,K. Martin,http://dbpedia.org/resource/Kareem_Martin,http://dbpedia.org/resource/Kevin_Martin_(basketball) http://dbpedia.org/resource/Kevin_Martin_(basketball_player) http://dbpedia.org/resource/Kevin_Martin_(athlete) http://dbpedia.org/resource/K-Mart_(basketball)_(Kings)

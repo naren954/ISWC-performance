@@ -1,0 +1,73 @@
+F1: 0.01389,Precision: 0.01389,Recall: 0.01389,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,Maccabi BucureÈ\u0099ti Jiul PetroÅ\u009Fani Phoenix Baia Mare Societatea GimnasticÄ\u0083 Sibiu Dacia Unirea BrÄ\u0083ila,http://dbpedia.org/resource/École_nationale_de_l'aviation_civile,http://dbpedia.org/resource/Maccabi_București
+1,3,Sportul StudenÈ\u009Besc BucureÈ\u0099ti Phoenix Baia Mare,http://dbpedia.org/resource/Romania,http://dbpedia.org/resource/FC_Sportul_Studențesc_București
+1,4,Tricolor PloieÈ\u0099ti UD ReÅ\u009FiÅ£a,http://dbpedia.org/resource/U.D._Leiria,http://dbpedia.org/resource/FC_Ploiești
+1,5,Unirea Tricolor BucureÈ\u0099ti Gloria CFR GalaÈ\u009Bi CAM TimiÈ\u0099oara MureÅ\u009Ful TÃ¢rgu MureÅ\u009F,http://dbpedia.org/resource/Fluminense_FC,http://dbpedia.org/resource/Unirea_Tricolor_București
+1,6,FC PloieÈ\u0099ti Mica Brad CriÈ\u0099ana Oradea Franco-RomÃ¢na BrÄ\u0083ila,http://dbpedia.org/resource/Bromine,http://dbpedia.org/resource/FC_Ploiești
+1,7,CFR Turnu Severin Jiul PetroÅ\u009Fani Juventus BucureÈ\u0099ti,http://dbpedia.org/resource/Juventus_F.C.,http://dbpedia.org/resource/CFR_Turnu_Severin
+1,9,Unirea Tricolor BucureÈ\u0099ti FC PloieÈ\u0099ti Dermata Cluj,http://dbpedia.org/resource/Category:FC_Universitatea_Cluj,http://dbpedia.org/resource/Unirea_Tricolor_București
+1,11,Å\u009Eoimii CFR Sibiu Unirea Tricolor BucureÈ\u0099ti,http://dbpedia.org/resource/Fluminense_FC,http://dbpedia.org/resource/Şoimii_Sibiu
+1,12,Unirea Tricolor BucureÈ\u0099ti Universitatea Cluj,http://dbpedia.org/resource/FC_Universitatea_Cluj,http://dbpedia.org/resource/Unirea_Tricolor_București
+1,13,CA CÃ¢mpulung Moldovenesc Metalul CÃ¢mpia Turzii,http://dbpedia.org/resource/CSM_Câmpia_Turzii,http://dbpedia.org/resource/CA_Câmpulung_Moldovenesc
+1,14,Locomotiva BucureÈ\u0099ti È\u0098tiinÈ\u009Ba TimiÈ\u0099oara,http://dbpedia.org/resource/Bosnia_and_Herzegovina,http://dbpedia.org/resource/FC_Rapid_București
+1,15,FlacÄ\u0083ra PloieÈ\u0099ti Metalul Hunedoara,http://dbpedia.org/resource/FC_Corvinul_Hunedoara,http://dbpedia.org/resource/FC_Petrolul_Ploiești
+1,16,Progresul BucureÈ\u0099ti AvÃ¢ntul Reghin Locomotiva ConstanÈ\u009Ba,,http://dbpedia.org/resource/FC_Progresul_București
+1,17,Locomotiva BucureÈ\u0099ti Progresul Oradea Dinamo BacÄ\u0083u,http://dbpedia.org/resource/FC_Dynamo_Moscow,http://dbpedia.org/resource/FC_Rapid_București
+1,18,Recolta TÃ¢rgu MureÅ\u009F Steagul RoÅ\u009Fu BraÈ\u0099ov,http://dbpedia.org/resource/South_Korea,http://dbpedia.org/resource/CS_Târgu_Mureș
+1,19,È\u0098tiinÈ\u009Ba Cluj Farul ConstanÈ\u009Ba,http://dbpedia.org/resource/CS_Universitatea_Cluj-Napoca_(rugby),http://dbpedia.org/resource/C.F.M._Universitatea_Cluj-Napoca http://dbpedia.org/resource/Ştiinţa_Cluj http://dbpedia.org/resource/Știința_Cluj-Napoca http://dbpedia.org/resource/FC_Universitatea_Cluj-Napoca http://dbpedia.org/resource/Universitatea_Sibiu http://dbpedia.org/resource/FC_Universitatea_Cluj http://dbpedia.org/resource/F.C._Universitatea_Cluj-Napoca http://dbpedia.org/resource/CSU_Cluj-Napoca http://dbpedia.org/resource/Universitatea_Cluj http://dbpedia.org/resource/Știința_Cluj http://dbpedia.org/resource/CSU_Cluj http://dbpedia.org/resource/Stiinta_Cluj http://dbpedia.org/resource/CFM_Universitatea_Cluj http://dbpedia.org/resource/CFM_Universitatea_Cluj-Napoca http://dbpedia.org/resource/CF_Universitatea_Cluj-Napoca http://dbpedia.org/resource/Ştiinţa_Cluj-Napoca
+1,21,CSMS IaÈ\u0099i È\u0098tiinÈ\u009Ba TimiÈ\u0099oara Corvinul Hunedoara,http://dbpedia.org/resource/United_States,http://dbpedia.org/resource/FC_Politehnica_Iași
+1,22,Metalul TÃ¢rgoviÈ\u0099te Dinamo PiteÈ\u0099ti Jiul PetroÅ\u009Fani,http://dbpedia.org/resource/FC_Dynamo_Moscow,http://dbpedia.org/resource/FCM_Târgoviște
+1,23,CSMS IaÈ\u0099i Farul ConstanÈ\u009Ba CriÅ\u009Fana Oradea,http://dbpedia.org/resource/Oradea,http://dbpedia.org/resource/FC_Politehnica_Iași
+1,24,Siderurgistul GalaÈ\u009Bi Dinamo PiteÈ\u0099ti CriÅ\u009Ful Oradea,http://dbpedia.org/resource/FC_Dynamo_Moscow,http://dbpedia.org/resource/Siderurgistul_Galați
+1,25,È\u0098tiinÈ\u009Ba Craiova Minerul Baia Mare,http://dbpedia.org/resource/Romania,http://dbpedia.org/resource/FC_Universitatea_Craiova_II http://dbpedia.org/resource/U_Craiova http://dbpedia.org/resource/Universitatea_II_Craiova http://dbpedia.org/resource/FC_Universitatea_Craiova http://dbpedia.org/resource/U_Craivoa
+1,26,Siderurgistul GalaÈ\u009Bi È\u0098tiinÈ\u009Ba TimiÈ\u0099oara,http://dbpedia.org/resource/Socialist_Republic_of_Bosnia_and_Herzegovina,http://dbpedia.org/resource/Siderurgistul_Galați
+1,27,Progresul BucureÈ\u0099ti Jiul Petrila,http://dbpedia.org/resource/U,http://dbpedia.org/resource/FC_Progresul_București
+1,28,Dinamo BacÄ\u0083u ASA TÃ¢rgu MureÈ\u0099,http://dbpedia.org/resource/FC_Dynamo_Moscow,http://dbpedia.org/resource/FCM_Bacău
+1,29,Politehnica IaÈ\u0099i Vagonul Arad,http://dbpedia.org/resource/FC_Politehnica_Timișoara,http://dbpedia.org/resource/FC_Politehnica_Iași
+1,30,Steagul RoÅ\u009Fu BraÈ\u0099ov CFR Cluj,http://dbpedia.org/resource/Council_on_Foreign_Relations,http://dbpedia.org/resource/FC_Brașov
+1,31,Progresul BucureÈ\u0099ti CFR TimiÈ\u0099oara,http://dbpedia.org/resource/Food_and_Drug_Administration,http://dbpedia.org/resource/FC_Progresul_București
+1,32,ASA TÃ¢rgu MureÈ\u0099 CriÅ\u009Ful Oradea,http://dbpedia.org/resource/Costa_Rica,http://dbpedia.org/resource/ASA_1962_Târgu_Mureș
+1,33,Sportul StudenÈ\u009Besc BucureÈ\u0099ti CSM ReÅ\u009FiÅ£a,http://dbpedia.org/resource/Philippines,http://dbpedia.org/resource/FC_Sportul_Studențesc_București
+1,34,Politehnica IaÈ\u0099i Politehnica TimiÈ\u0099oara,http://dbpedia.org/resource/United_States,http://dbpedia.org/resource/FC_Politehnica_Iași
+1,35,FC GalaÈ\u009Bi Chimia RÃ¢mnicu VÃ¢lcea Olimpia Satu Mare,http://dbpedia.org/resource/Black_Sea,http://dbpedia.org/resource/FCM_Dunărea_Galați
+1,36,Sport Club BacÄ\u0083u Rapid BucureÈ\u0099ti Bihor Oradea,http://dbpedia.org/resource/S.L._Benfica,http://dbpedia.org/resource/FCM_Bacău
+1,37,FCM GalaÈ\u009Bi Progresul BucureÈ\u0099ti Corvinul Hunedoara,http://dbpedia.org/resource/ACS_Dacia_Unirea_Brăila,http://dbpedia.org/resource/FCM_Dunărea_Galați
+1,38,Petrolul PloieÈ\u0099ti CS TÃ¢rgoviÈ\u0099te Olimpia Satu Mare,http://dbpedia.org/resource/Earth,http://dbpedia.org/resource/FC_Petrolul_Ploiești
+1,39,Gloria BuzÄ\u0083u Chimia RÃ¢mnicu VÃ¢lcea FC Baia Mare,http://dbpedia.org/resource/Black_Sea,http://dbpedia.org/resource/FC_Gloria_Buzău
+1,40,FCM GalaÈ\u009Bi Viitorul ScorniceÈ\u0099ti Universitatea Cluj,http://dbpedia.org/resource/FC_Universitatea_Cluj,http://dbpedia.org/resource/FCM_Dunărea_Galați
+1,41,FCM BraÈ\u0099ov Progresul Vulcan BucureÈ\u0099ti Corvinul Hunedoara,http://dbpedia.org/resource/Billboard_Hot_100,http://dbpedia.org/resource/FC_Brașov
+1,42,FC ConstanÈ\u009Ba CS TÃ¢rgoviÈ\u0099te UTA Arad,http://dbpedia.org/resource/Peking_University,http://dbpedia.org/resource/FC_Farul_Constanța
+1,43,Politehnica IaÈ\u0099i Petrolul PloieÈ\u0099ti Bihor Oradea,http://dbpedia.org/resource/United_States,http://dbpedia.org/resource/FC_Politehnica_Iași
+1,44,DunÄ\u0083rea CSU GalaÈ\u009Bi Rapid BucureÈ\u0099ti FC Baia Mare,http://dbpedia.org/resource/Romania,http://dbpedia.org/resource/FCM_Dunărea_Galați
+1,45,Gloria BuzÄ\u0083u FCM BraÈ\u0099ov Politehnica TimiÈ\u0099oara,http://dbpedia.org/resource/FC_Politehnica_Timișoara,http://dbpedia.org/resource/FC_Gloria_Buzău
+1,46,Petrolul PloieÈ\u0099ti Dinamo Victoria BucureÈ\u0099ti Universitatea Cluj,http://dbpedia.org/resource/Category:FC_Universitatea_Cluj,http://dbpedia.org/resource/FC_Petrolul_Ploiești
+1,47,OÈ\u009Belul GalaÈ\u009Bi FlacÄ\u0083ra Moreni Jiul PetroÅ\u009Fani,http://dbpedia.org/resource/Golden_Gala,http://dbpedia.org/resource/FC_Oțelul_Galați
+1,48,CSM Suceava ASA TÃ¢rgu MureÈ\u0099 Politehnica TimiÈ\u0099oara,http://dbpedia.org/resource/FC_Politehnica_Iași_(2010),http://dbpedia.org/resource/Bucovina_Suceava http://dbpedia.org/resource/CSM_Suceava
+1,49,FC ConstanÈ\u009Ba Inter Sibiu Bihor Oradea,http://dbpedia.org/resource/FC_Bihor_Oradea,http://dbpedia.org/resource/FC_Farul_Constanța
+1,50,Petrolul PloieÈ\u0099ti Jiul PetroÅ\u009Fani Politehnica TimiÈ\u0099oara,http://dbpedia.org/resource/FC_Politehnica_Timișoara,http://dbpedia.org/resource/FC_Petrolul_Ploiești
+1,51,Progresul BrÄ\u0083ila Rapid BucureÈ\u0099ti Gloria BistriÅ£a,http://dbpedia.org/resource/Fluminense_FC,http://dbpedia.org/resource/ACS_Dacia_Unirea_Brăila
+1,52,OÈ\u009Belul GalaÈ\u009Bi Electroputere Craiova ASA TÃ¢rgu MureÅ\u009F,http://dbpedia.org/resource/Canada,http://dbpedia.org/resource/FC_Oțelul_Galați
+1,53,Progresul BucureÈ\u0099ti CSM ReÅ\u009FiÅ£a Universitatea Cluj,http://dbpedia.org/resource/FC_Universitatea_Cluj,http://dbpedia.org/resource/FC_Progresul_București
+1,54,CeahlÄ\u0083ul Piatra NeamÈ\u009B UTA Arad,"http://dbpedia.org/resource/Uta,_Sardinia",http://dbpedia.org/resource/FC_Ceahlăul_Piatra_Neamț
+1,55,ArgeÈ\u0099 PiteÈ\u0099ti FCM Baia Mare,http://dbpedia.org/resource/Romania,http://dbpedia.org/resource/FC_Argeș_Pitești
+1,56,Selena BacÄ\u0083u Politehnica TimiÈ\u0099oara,http://dbpedia.org/resource/FC_Politehnica_Timișoara,http://dbpedia.org/resource/FCM_Bacău
+1,57,OÅ£elul TÃ¢rgoviÅ\u009Fte Jiul PetroÅ\u009Fani,http://dbpedia.org/resource/C0_and_C1_control_codes,http://dbpedia.org/resource/FCM_Târgoviște
+1,58,Foresta FÄ\u0083lticeni CSM ReÅ\u009FiÅ£a,http://dbpedia.org/resource/Syfy,http://dbpedia.org/resource/Foresta_Fălticeni
+1,59,Astra PloieÅ\u009Fti Olimpia Satu Mare,http://dbpedia.org/resource/CSM_Olimpia_Satu_Mare,http://dbpedia.org/resource/FC_Astra_Ploieşti http://dbpedia.org/resource/FC_Ploiești_(1934) http://dbpedia.org/resource/F_C_Astra http://dbpedia.org/resource/Astra_Ploeşti http://dbpedia.org/resource/AFC_Astra_Giurgiu http://dbpedia.org/resource/FC_Astra_Giurgiu http://dbpedia.org/resource/Astra_Giurgiu http://dbpedia.org/resource/F._C._Astra http://dbpedia.org/resource/FC_Astra_Ploiesti http://dbpedia.org/resource/F.C._Astra http://dbpedia.org/resource/SC_Astra_Ploieşti http://dbpedia.org/resource/Astra_Ploiești http://dbpedia.org/resource/Astra_II_Giurgiu http://dbpedia.org/resource/FC_Astra_II_Ploieşti http://dbpedia.org/resource/Columbia_Ploieşti http://dbpedia.org/resource/SC_Astra_Ploiesti http://dbpedia.org/resource/FC_Astra http://dbpedia.org/resource/SC_Astra_Ploiești http://dbpedia.org/resource/FC_Ploieşti_(2005) http://dbpedia.org/resource/FC_Ploiești_(2005) http://dbpedia.org/resource/FC_Astra_II_Giurgiu http://dbpedia.org/resource/FC_Ploiești_(2007) http://dbpedia.org/resource/Astra_ploiesti http://dbpedia.org/resource/Astra_Ploești http://dbpedia.org/resource/FC_Ploieşti_(1934) http://dbpedia.org/resource/CSM_Ploiești http://dbpedia.org/resource/FC_Ploieşti_(2007) http://dbpedia.org/resource/CSM_Ploiesti http://dbpedia.org/resource/Astra_Ploiesti http://dbpedia.org/resource/FC_Astra_Ploiești http://dbpedia.org/resource/Astra_Ploieşti http://dbpedia.org/resource/CSM_Ploieşti
+1,60,FC BraÈ\u0099ov Extensiv Craiova,http://dbpedia.org/resource/FC_Caracal_(2004),http://dbpedia.org/resource/FC_Brașov
+1,61,Foresta Suceava Gaz Metan MediaÈ\u0099,http://dbpedia.org/resource/CS_Gaz_Metan_Mediaș,http://dbpedia.org/resource/Foresta_Fălticeni
+1,62,Sportul StudenÈ\u009Besc BucureÈ\u0099ti UM TimiÈ\u0099oara,http://dbpedia.org/resource/Category:Populated_places_in_Timiș_County,http://dbpedia.org/resource/FC_Sportul_Studențesc_București
+1,63,AEK BucureÈ\u0099ti UTA Arad,http://dbpedia.org/resource/AEK_Athens_F.C.,http://dbpedia.org/resource/AEK_București
+1,64,Petrolul PloieÈ\u0099ti Apulum Alba Iulia,http://dbpedia.org/resource/Alba_Iulia,http://dbpedia.org/resource/FC_Petrolul_Ploiești
+1,65,Politehnica IaÈ\u0099i Sportul StudenÈ\u009Besc BucureÈ\u0099ti CFR Cluj,http://dbpedia.org/resource/Iowa's_4th_congressional_district,http://dbpedia.org/resource/FC_Politehnica_Iași
+1,67,CeahlÄ\u0083ul Piatra NeamÈ\u009B Universitatea Craiova Liberty Salonta,http://dbpedia.org/resource/CS_Universitatea_Craiova,http://dbpedia.org/resource/FC_Ceahlăul_Piatra_Neamț
+1,68,Delta Tulcea Universitatea Cluj,http://dbpedia.org/resource/FC_Universitatea_Cluj,http://dbpedia.org/resource/Delta_Dobrogea_Tulcea http://dbpedia.org/resource/FC_Delta_Tulcea http://dbpedia.org/resource/FC_Delta_Dobrogea_Tulcea http://dbpedia.org/resource/Delta_Tulcea
+1,69,FC BraÈ\u0099ov ArgeÈ\u0099 PiteÈ\u0099ti,http://dbpedia.org/resource/Brazil,http://dbpedia.org/resource/FC_Brașov
+1,70,CeahlÄ\u0083ul Piatra NeamÈ\u009B Unirea Alba Iulia,http://dbpedia.org/resource/FC_Unirea_Alba_Iulia,http://dbpedia.org/resource/FC_Ceahlăul_Piatra_Neamț
+1,71,Victoria BrÄ\u0083neÈ\u0099ti FCM TÃ¢rgu MureÈ\u0099,,http://dbpedia.org/resource/FC_Victoria_Brănești
+1,72,CeahlÄ\u0083ul Piatra NeamÈ\u009B Petrolul PloieÈ\u0099ti,http://dbpedia.org/resource/Al-Masjid_an-Nabawi,http://dbpedia.org/resource/FC_Ceahlăul_Piatra_Neamț
+1,73,CSM StudenÈ\u009Besc IaÈ\u0099i Politehnica TimiÈ\u0099oara,http://dbpedia.org/resource/FC_Politehnica_Iași_(2010),http://dbpedia.org/resource/CSM_Studențesc_Iași
+1,74,FC BotoÈ\u0099ani Corona BraÈ\u0099ov,http://dbpedia.org/resource/Brás_(São_Paulo_Metro),http://dbpedia.org/resource/FC_Botoșani
+1,75,CSM StudenÈ\u009Besc IaÈ\u0099i CS Universitatea Craiova,http://dbpedia.org/resource/FC_U_Craiova_1948,http://dbpedia.org/resource/CSM_Studențesc_Iași
+1,76,FC Voluntari ACS Poli TimiÈ\u0099oara,http://dbpedia.org/resource/ACS_Poli_Timișoara,http://dbpedia.org/resource/FC_Voluntari_II http://dbpedia.org/resource/FC_Voluntari

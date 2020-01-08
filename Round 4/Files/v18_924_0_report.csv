@@ -1,0 +1,6 @@
+"F1: 0.75000","Precision: 0.75000","Recall: 0.75000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","4","USS Renshaw","http://dbpedia.org/resource/USS_Renshaw_(DD-499)","http://dbpedia.org/resource/USS_Renshaw_(DD-176)"
+"0","8","USS Relief","http://dbpedia.org/resource/USS_Relief_(1836)","http://dbpedia.org/resource/USS_Relief_(AH-1)"
+"0","11","USS Reid","http://dbpedia.org/resource/USS_Reid_(DD-369)","http://dbpedia.org/resource/USS_Stewart_(DD-292) http://dbpedia.org/resource/USS_Reid_(DD-292)"
+"0","12","USS Reid","http://dbpedia.org/resource/USS_Reid_(DD-369)","http://dbpedia.org/resource/USS_Reid_(DD-21)"

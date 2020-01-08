@@ -1,0 +1,8 @@
+"F1: 0.83333","Precision: 0.83333","Recall: 0.83333"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","2","Country","http://dbpedia.org/resource/What_a_Country!","http://dbpedia.org/resource/Country_(film) http://dbpedia.org/resource/Country_(movie)"
+"0","20","D.O.A.","http://dbpedia.org/resource/D.O.A._(1949_film)","http://dbpedia.org/resource/DOA_(1988_film) http://dbpedia.org/resource/D_O_A_(1988_film) http://dbpedia.org/resource/D.O.A._(1988_film) http://dbpedia.org/resource/Dead_on_Arrival_(1988_film) http://dbpedia.org/resource/D._O._A._(1988_film)"
+"0","24","The Rescue","http://dbpedia.org/resource/The_Rescue_(Doctor_Who)","http://dbpedia.org/resource/The_Rescue_(1988_film)"
+"0","25","Heartbreak Hotel","http://de.dbpedia.org/resource/Schwedisch_für_Fortgeschrittene","http://dbpedia.org/resource/Heartbreak_Hotel_(film)"
+"0","28","Beaches","http://dbpedia.org/resource/Beaches_(soundtrack)","http://dbpedia.org/resource/Beaches_(movie) http://dbpedia.org/resource/Beaches_(film)"
+"0","36","Blaze","http://dbpedia.org/resource/Blaze_of_Glory_(Star_Trek:_Deep_Space_Nine)","http://dbpedia.org/resource/Blaze_(film)"

@@ -1,0 +1,24 @@
+F1: 0.73810,Precision: 0.73810,Recall: 0.73810,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,Whatever You Want,http://dbpedia.org/resource/Whatever_You_Want_(Tina_Turner_song),http://dbpedia.org/resource/Whatever_You_Want_(Tony!_Toni!_Toné!_song) http://dbpedia.org/resource/Whatever_You_Want_(Tony!_Toni!_Tone!_song)
+0,5,Whatever You Like,http://dbpedia.org/resource/Whatever_You_Like,"http://dbpedia.org/resource/Whatever_You_Like_(""Weird_Al""_Yankovic) http://dbpedia.org/resource/Whatever_You_Like_(""Weird_Al""_Yankovic_song)"
+0,7,Whatever We Want,http://dbpedia.org/resource/Whatever_You_Want_(Tina_Turner_song),http://dbpedia.org/resource/Whatever_We_Want_(Havana_Brown_song) http://dbpedia.org/resource/Whatever_We_Want
+0,11,Whatever,http://dbpedia.org/resource/Whatever_(Ayumi_Hamasaki_song),http://dbpedia.org/resource/Whatever_(Oasis) http://dbpedia.org/resource/(It's_Good)_To_Be_Free http://dbpedia.org/resource/Whatever_(Oasis_song)
+0,12,Whatever,http://dbpedia.org/resource/Whatever_(Ayumi_Hamasaki_song),http://dbpedia.org/resource/Whatever_(En_Vogue_song)
+0,13,Whatever,http://dbpedia.org/resource/Whatever_(Ayumi_Hamasaki_song),http://dbpedia.org/resource/Whatever_(Cro_song)
+0,27,What a Feeling,http://dbpedia.org/resource/Flashdance..._What_a_Feeling,http://dbpedia.org/resource/What_a_Feeling_(Alex_Gaudino_song) http://dbpedia.org/resource/What_a_Feeling_(song)
+0,33,What You Know,http://dbpedia.org/resource/What_You_Know_(T.I._song),http://dbpedia.org/resource/What_You_Know_About_That http://dbpedia.org/resource/What_you_know_about_that http://dbpedia.org/resource/What_You_Know
+0,35,What You Got,http://dbpedia.org/resource/What_You_Got_(Grinspoon_song),http://dbpedia.org/resource/What_You_Got_(Colby_O'Donis_song) http://dbpedia.org/resource/What_U_Got
+0,38,What You Don't Know,http://dbpedia.org/resource/What_You_Don't_Know_(Monrose_song),http://dbpedia.org/resource/What_You_Don't_Know_(Expose_song) http://dbpedia.org/resource/What_You_Don't_Know_(Exposé_song)
+0,39,What You Are,http://dbpedia.org/resource/What_You_Want_(Evanescence_song),http://dbpedia.org/resource/What_You_Are http://dbpedia.org/resource/What_You_Are_(Audioslave_song)
+0,43,What Ya Gonna Do,http://dbpedia.org/resource/Until_You_Come_Back_to_Me_(That's_What_I'm_Gonna_Do),http://dbpedia.org/resource/What_Ya_Gonna_Do
+0,44,What Would You Do?,http://dbpedia.org/resource/What_Would_You_Say,http://dbpedia.org/resource/What_Would_You_Do?_(Tha_Dogg_Pound_song)
+0,45,What Would You Do?,http://dbpedia.org/resource/What_Would_You_Say,http://dbpedia.org/resource/What_Would_You_Do?_(City_High_song)
+0,59,What Say You,http://dbpedia.org/resource/What_Do_You_Say_(Reba_McEntire_song),http://dbpedia.org/resource/What_Say_You
+0,63,What More Can I Say,http://dbpedia.org/resource/What_More_Can_I_Give,http://dbpedia.org/resource/What_More_Can_I_Say
+0,71,What Kind of Man,http://dbpedia.org/resource/What_Kind_of_Man_(Florence_and_the_Machine_song),http://dbpedia.org/resource/What_Kind_of_Man
+0,76,What Is Love,http://dbpedia.org/resource/What_Is_Love_(En_Vogue_song),http://dbpedia.org/resource/What_Is_Love_(Howard_Jones_song)
+0,77,What Is Love,http://dbpedia.org/resource/What_Is_Love_(En_Vogue_song),http://dbpedia.org/resource/What_Is_Love http://dbpedia.org/resource/What_Is_Love_(Song) http://dbpedia.org/resource/What_is_Love_(song) http://dbpedia.org/resource/What_is_love_(haddaway_song) http://dbpedia.org/resource/What_Is_Love_(song) http://dbpedia.org/resource/What_Is_Love_2016 http://dbpedia.org/resource/What_is_Love_(Haddaway_song) http://dbpedia.org/resource/What_Is_Love_(Haddaway_song http://dbpedia.org/resource/What_Is_Love? http://dbpedia.org/resource/What_is_Love http://dbpedia.org/resource/What_Is_Love_(Kiesza_song) http://dbpedia.org/resource/What_Is_Love_(Haddaway_song)
+0,79,What Is It,http://dbpedia.org/resource/What_Is_Love,http://dbpedia.org/resource/What_Is_It http://dbpedia.org/resource/What_Is_It_(Baby_Bash_song) http://dbpedia.org/resource/What_Is_It_(song) http://dbpedia.org/resource/What_is_it
+0,81,What If It's You,http://dbpedia.org/resource/San_Francisco_(Be_Sure_to_Wear_Flowers_in_Your_Hair),http://dbpedia.org/resource/What_If_It's_You_(song)
+0,84,What If,http://dbpedia.org/resource/What_If_(Jason_Derulo_song),http://dbpedia.org/resource/What_If_(Reba_McEntire_song) http://dbpedia.org/resource/What_If_(Reba_McEntire_Song)

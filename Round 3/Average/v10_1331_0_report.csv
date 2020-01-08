@@ -1,0 +1,5 @@
+F1: 0.70000,Precision: 0.70000,Recall: 0.70000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,(237442) 1999 TA10,http://dbpedia.org/resource/1990s,http://dbpedia.org/resource/(237442)_1999_TA10
+0,5,(229762) 2007 UK126,http://dbpedia.org/resource/229762_Gǃkúnǁʼhòmdímà,http://dbpedia.org/resource/2007_UK126 http://dbpedia.org/resource/2007_UK₁₂₆ http://dbpedia.org/resource/(229762)_2007_UK126
+0,6,(208996) 2003 AZ84,http://dbpedia.org/resource/2003_NFL_season,http://dbpedia.org/resource/(208996)_2003_AZ84 http://dbpedia.org/resource/2003_AZ84

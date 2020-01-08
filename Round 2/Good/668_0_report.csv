@@ -1,0 +1,9 @@
+F1: 0.84091,Precision: 0.84091,Recall: 0.84091,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,9,J. Parker,http://dbpedia.org/resource/Jarrett_Parker,http://dbpedia.org/resource/Jabari_Parker
+0,11,J. Johnson,http://dbpedia.org/resource/Joe_Johnson_(basketball),http://dbpedia.org/resource/JaJuan_Johnson http://dbpedia.org/resource/JaJaun_Johnson
+0,22,I. Thomas,http://dbpedia.org/resource/Isiah_Thomas,"http://dbpedia.org/resource/Isaiah_Thomas_(basketball) http://dbpedia.org/resource/Isaiah_J._Thomas http://dbpedia.org/resource/Isaiah_Jamar_Thomas http://dbpedia.org/resource/Isaiah_Thomas_(point_guard,_born_1989) http://dbpedia.org/resource/Isaiah_J_Thomas http://dbpedia.org/resource/Isaiah_Thomas_(basketball,_born_1989)"
+0,25,I. Cordinier,http://dbpedia.org/resource/Isaïa_Cordinier,http://dbpedia.org/resource/Isaia_Cordinier
+0,27,I. Boyette,http://dbpedia.org/resource/Imani_McGee-Stafford,http://dbpedia.org/resource/Imani_Boyette
+0,33,H. Grant,http://dbpedia.org/resource/Harvey_Grant,http://dbpedia.org/resource/Horace_Grant
+0,36,H. Williams,http://dbpedia.org/resource/Harper_Williams,http://dbpedia.org/resource/Herb_Williams

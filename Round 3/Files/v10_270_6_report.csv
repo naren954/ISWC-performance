@@ -1,0 +1,5 @@
+"F1: 0.81250","Precision: 0.81250","Recall: 0.81250"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"6","3","J. Stewart","http://dbpedia.org/resource/Jimmy_Stewart_(racing_driver)","http://dbpedia.org/resource/Sir_John_Young_Stewart http://dbpedia.org/resource/John_Young_Stewart http://dbpedia.org/resource/Sir_Jackie_Stewart http://dbpedia.org/resource/Jackie_Stewart http://dbpedia.org/resource/JYS"
+"6","4","B. Stillwell","http://dbpedia.org/resource/Ron_Stillwell","http://dbpedia.org/resource/Bib_Stillwell"
+"6","14","L. Wagner","http://dbpedia.org/resource/Louis_Wagner_(driver)","http://dbpedia.org/resource/Louis_Wagner"

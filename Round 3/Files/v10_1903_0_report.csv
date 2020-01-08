@@ -1,0 +1,4 @@
+"F1: 0.86667","Precision: 0.86667","Recall: 0.86667"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","4","The Crossing","http://dbpedia.org/resource/The_Crossing_(video_game)","http://dbpedia.org/resource/The_Crossing_(McCarthy_novel) http://dbpedia.org/resource/The_Crossing_(Cormac_McCarthy_novel)"
+"0","13","The Commodore","http://dbpedia.org/resource/The_Commodore","http://dbpedia.org/resource/The_Commodore_(book) http://dbpedia.org/resource/The_Commodore_(novel)"

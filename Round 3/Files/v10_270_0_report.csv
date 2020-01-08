@@ -1,0 +1,6 @@
+"F1: 0.75000","Precision: 0.75000","Recall: 0.75000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","2","1968 BRDC International Trophy","http://dbpedia.org/resource/1966_BRDC_International_Trophy","http://dbpedia.org/resource/1968_BRDC_International_Trophy"
+"0","5","1952 Buenos Aires Grand Prix","http://dbpedia.org/resource/1952_Buenos_Aires_Grand_Prix_(I)","http://dbpedia.org/resource/1952_Buenos_Aires_Grand_Prix_(II)"
+"0","7","1951 San Remo Grand Prix","http://dbpedia.org/resource/1937_San_Remo_Grand_Prix","http://dbpedia.org/resource/1951_San_Remo_Grand_Prix"
+"0","8","1948 San Remo Grand Prix","http://dbpedia.org/resource/1937_San_Remo_Grand_Prix","http://dbpedia.org/resource/1948_San_Remo_Grand_Prix"

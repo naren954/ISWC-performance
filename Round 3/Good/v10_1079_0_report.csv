@@ -1,0 +1,7 @@
+F1: 0.90566,Precision: 0.90566,Recall: 0.90566,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,25,"Schneeberg, Saxony",http://dbpedia.org/resource/Schneeberg_(Alps),"http://dbpedia.org/resource/Schneeberg_(Ore_Mountains) http://dbpedia.org/resource/Schneeberg,_Saxony http://dbpedia.org/resource/Schneeberg_(Erzgebirge)"
+0,31,Rimutaka Range,http://dbpedia.org/resource/Remutaka_Range,http://dbpedia.org/resource/Rimutaka http://dbpedia.org/resource/Rimutakas http://dbpedia.org/resource/Rimutaka_ward http://dbpedia.org/resource/Rimutaka_Range http://dbpedia.org/resource/Rimutaka_Ranges http://dbpedia.org/resource/Rimutaka_Mountains http://dbpedia.org/resource/Rimutaka_hill
+0,32,Rainbow Range,http://dbpedia.org/resource/Rainbow_Range_(Chilcotin_Plateau),http://dbpedia.org/resource/Rainbow_Range_(Rocky_Mountains)
+0,49,Masherbrum,http://dbpedia.org/resource/Masherbrum_Mountains,http://dbpedia.org/resource/Masherbrum_I http://dbpedia.org/resource/K1_(mountain) http://dbpedia.org/resource/Masherbrum
+0,53,Level Mountain Range,http://dbpedia.org/resource/Mount_Everest,http://dbpedia.org/resource/Level_Mountain_Range

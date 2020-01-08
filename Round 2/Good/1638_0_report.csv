@@ -1,0 +1,6 @@
+F1: 0.93548,Precision: 0.93548,Recall: 0.93548,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,24,W. Brown,http://dbpedia.org/resource/Wes_Brown,"http://dbpedia.org/resource/Wayne_Brown_(footballer_born_August_1977) http://dbpedia.org/resource/Wayne_Brown_(defender) http://dbpedia.org/resource/Wayne_Brown_(footballer,_born_August_1977)"
+0,39,Wan Rohaimi Wan Ismail,http://dbpedia.org/resource/Wan_Rohaimi,http://dbpedia.org/resource/Wan_Rohaimi_Wan_Ismail
+0,57,W. Joyce,http://dbpedia.org/resource/Warren_Joyce,http://dbpedia.org/resource/Walter_Joyce
+0,62,W. Cox,http://dbpedia.org/resource/Wesley_Cox,"http://dbpedia.org/resource/Walter_Cox_(footballer,_born_1849) http://dbpedia.org/resource/Walter_Cox_(footballer_born_1849)"

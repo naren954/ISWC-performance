@@ -1,0 +1,6 @@
+F1: 0.50000,Precision: 0.50000,Recall: 0.50000,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,4,Cassius Marcellus Clay Sr.,http://dbpedia.org/resource/Muhammad_Ali,"http://dbpedia.org/resource/Cassius_Marcellus_Clay_Senior http://dbpedia.org/resource/Cassius_Marcellus_Clay,_Sr. http://dbpedia.org/resource/Cassius_Marcellus_Clay_Sr. http://dbpedia.org/resource/Cassius_Marcellus_Clay,_Sr"
+2,5,J. Yule,http://dbpedia.org/resource/Henry_Yule,http://dbpedia.org/resource/Joe_Yule
+2,6,R. Lefebvre,http://dbpedia.org/resource/Jules_Joseph_Lefebvre,http://dbpedia.org/resource/Rene_Lefebvre http://dbpedia.org/resource/René_Lafebvre http://dbpedia.org/resource/René_Lefebvre
+2,7,A. Boissier,http://dbpedia.org/resource/Pierre_Edmond_Boissier,http://dbpedia.org/resource/Paul_Boissier http://dbpedia.org/resource/Arthur_Boissier

@@ -1,0 +1,6 @@
+F1: 0.94118,Precision: 0.94118,Recall: 0.94118,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,2,1963 South African Grand Prix,http://dbpedia.org/resource/1993_South_African_Grand_Prix,http://dbpedia.org/resource/1963_South_African_Grand_Prix
+1,44,1981 United States Grand Prix West,http://dbpedia.org/resource/1983_United_States_Grand_Prix_West,http://dbpedia.org/resource/1981_United_States_Grand_Prix_West http://dbpedia.org/resource/1981_United_States_West_Grand_Prix http://dbpedia.org/resource/1981_USA_West_Grand_Prix
+1,49,1955 Monaco Grand Prix,http://dbpedia.org/resource/1958_Monaco_Grand_Prix,http://dbpedia.org/resource/1955_Monaco_Grand_Prix
+1,54,1953 Argentine Grand Prix,http://dbpedia.org/resource/1975_Argentine_Grand_Prix,http://dbpedia.org/resource/1953_Argentine_Grand_Prix

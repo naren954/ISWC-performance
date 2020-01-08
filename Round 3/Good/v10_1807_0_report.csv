@@ -1,0 +1,13 @@
+F1: 0.87059,Precision: 0.87059,Recall: 0.87059,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,9,Cerro Blanco,http://dbpedia.org/resource/Cerro_Blanco_metro_station,http://dbpedia.org/resource/Cerro_Blanco_(volcano) http://dbpedia.org/resource/Cerro_Blanco_caldera http://dbpedia.org/resource/Robledo_(volcano)
+0,10,Cerro Azul,http://dbpedia.org/resource/Cerro_Azul_(Chile_volcano),http://dbpedia.org/resource/Cerro_Azul_(Ecuador_volcano)
+0,30,Brown Mountain,http://dbpedia.org/resource/Brown_Mountain_(North_Carolina),"http://dbpedia.org/resource/Brown_Mountain_(Oregon) http://dbpedia.org/resource/Brown_Mountain_(Klamath_County,_Oregon)"
+0,39,Black Volcano,http://dbpedia.org/resource/Black_Peak_(Alaska),http://dbpedia.org/resource/Black_Volcano
+0,41,Black Butte,http://dbpedia.org/resource/Black_Butte_(Oregon),"http://dbpedia.org/resource/Black_Butte_(Siskiyou_County,_California) http://dbpedia.org/resource/Black_Butte_(California)"
+0,47,Ben Lomond,http://dbpedia.org/resource/Ben_Lomond,"http://dbpedia.org/resource/Ben_Lomond,_Waikato http://dbpedia.org/resource/Ben_Lomond_(Waikato)"
+0,50,Bayuda Volcanic Field,http://dbpedia.org/resource/Bayuda_volcanic_field,http://dbpedia.org/resource/Bayuda_Volcanic_Field
+0,52,Batu Tara,http://dbpedia.org/resource/Mount_Batutara,http://dbpedia.org/resource/Batutara http://dbpedia.org/resource/Batu_Tara
+0,53,"Battle Mountain, Virginia",http://dbpedia.org/resource/Laurel_Mountain_(West_Virginia),"http://dbpedia.org/resource/Battle_Mountain,_Virginia"
+0,80,Apagado,http://dbpedia.org/resource/Qhawana,http://dbpedia.org/resource/Apagado http://dbpedia.org/resource/Hualiaque
+0,84,Amukta Island,http://dbpedia.org/resource/Mount_Amukta,http://dbpedia.org/resource/Amukta_Island_(Alaska) http://dbpedia.org/resource/Amukta_Island http://dbpedia.org/resource/Amukta

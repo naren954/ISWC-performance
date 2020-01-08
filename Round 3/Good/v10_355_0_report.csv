@@ -1,0 +1,10 @@
+F1: 0.94872,Precision: 0.94872,Recall: 0.94872,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,12,Toluca International Airport,http://dbpedia.org/resource/Kona_International_Airport,http://dbpedia.org/resource/Toluca_(airport) http://dbpedia.org/resource/Lic._Adolfo_López_Mateos_International_Airport http://dbpedia.org/resource/Lic._Adolfo_Lopez_Mateos_International_Airport http://dbpedia.org/resource/Toluca_airport http://dbpedia.org/resource/MMTO http://dbpedia.org/resource/Licenciado_Adolfo_Lopez_Mateos_International_Airport http://dbpedia.org/resource/Aeropuerto_Int'l_de_Toluca http://dbpedia.org/resource/Licenciado_Adolfo_López_Mateos_International_Airport http://dbpedia.org/resource/Toluca_Int'l._Airport http://dbpedia.org/resource/Toluca_(international_airport) http://dbpedia.org/resource/Toluca_Airport http://dbpedia.org/resource/TLC_Airport http://dbpedia.org/resource/Aeropuerto_de_Toluca http://dbpedia.org/resource/Toluca_International http://dbpedia.org/resource/Toluca_International_Airport
+0,19,Toledo Airport,http://dbpedia.org/resource/Toledo_Express_Airport,http://dbpedia.org/resource/Luiz_dal_Canalle_Filho_Airport http://dbpedia.org/resource/Toledo_Airport_(Brazil)
+0,83,Texel International Airport,http://dbpedia.org/resource/Nashville_International_Airport,http://dbpedia.org/resource/EHTX http://dbpedia.org/resource/Texel_International_Airport
+0,91,Terre Haute International Airport,http://dbpedia.org/resource/Terre_Haute_Regional_Airport,http://dbpedia.org/resource/Terre_Haute_International_Airport
+0,98,Teoponte,http://dbpedia.org/resource/Teoponte_Airport,http://dbpedia.org/resource/Teoponte
+0,138,Tasiusaq Heliport,http://dbpedia.org/resource/Tasiusaq_Heliport_(Kujalleq),http://dbpedia.org/resource/Tasiusaq_(Upernavik)_Heliport http://dbpedia.org/resource/Tasiusaq_Heliport_(Qaasuitsup) http://dbpedia.org/resource/BGTA
+0,144,Taroudannt Airport,http://dbpedia.org/resource/Ahuas_Airport,http://dbpedia.org/resource/Taroudant_Airport http://dbpedia.org/resource/Taroudannt_Airport
+0,156,Tangier Island Airport,http://dbpedia.org/resource/King_Island_Airport,http://dbpedia.org/resource/Tangier_Island_Airport

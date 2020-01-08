@@ -1,0 +1,5 @@
+F1: 0.81250,Precision: 0.81250,Recall: 0.81250,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,2,Wally Dallenbach,http://dbpedia.org/resource/Wally_Dallenbach_Jr.,"http://dbpedia.org/resource/Wally_Dallenbach_Sr. http://dbpedia.org/resource/Wally_Dallenbach,_Sr."
+3,9,Bill Alsup,http://dbpedia.org/resource/William_Haskell_Alsup,http://dbpedia.org/resource/Bill_Alsup
+3,10,Larry Rice,http://dbpedia.org/resource/Larry_Hillman,http://dbpedia.org/resource/Larry_Rice

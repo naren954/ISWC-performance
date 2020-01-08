@@ -1,0 +1,9 @@
+F1: 0.73077,Precision: 0.73077,Recall: 0.73077,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,A. Sherman,http://dbpedia.org/resource/Roger_Sherman,http://dbpedia.org/resource/Allan_Copelon http://dbpedia.org/resource/Sarah_Jackman http://dbpedia.org/resource/Allen_Sherman http://dbpedia.org/resource/Allan_Sherman
+0,7,A. Smirnov,http://dbpedia.org/resource/Vladimir_Smirnov_(mathematician),http://dbpedia.org/resource/Aleksei_Makarovich_Smirnov http://dbpedia.org/resource/Aleksei_Smirnov_(actor)
+0,10,A. Paulsen,http://dbpedia.org/resource/Pat_Paulsen,http://dbpedia.org/resource/Albert_Paulsen
+0,14,A. Curtis,http://dbpedia.org/resource/Charles_Curtis,http://dbpedia.org/resource/Harold_Ueberroth http://dbpedia.org/resource/Harry_Ueberroth http://dbpedia.org/resource/Harry_Neberroth http://dbpedia.org/resource/Harold_Neberroth http://dbpedia.org/resource/Alan_Curtis_(American_actor)
+0,19,A. Ayres,http://dbpedia.org/resource/Mitchell_Ayres,http://dbpedia.org/resource/Agnes_ayers http://dbpedia.org/resource/Agnes_Eyre_Henkel http://dbpedia.org/resource/Agnes_Henkel http://dbpedia.org/resource/Agnes_Ayers http://dbpedia.org/resource/Agnes_Ayres
+0,22,A. Richards,http://dbpedia.org/resource/Ann_Richards,http://dbpedia.org/resource/Addison_Richards
+0,25,A. Perez,http://dbpedia.org/resource/Rosie_Perez,http://dbpedia.org/resource/AJ_Perez http://dbpedia.org/resource/Antonello_Joseph_Sarte_Perez http://dbpedia.org/resource/AJ_Sarte_Perez http://dbpedia.org/resource/Aj_perez http://dbpedia.org/resource/Antonello_Joseph_Perez http://dbpedia.org/resource/AJ_Perez_(actor)

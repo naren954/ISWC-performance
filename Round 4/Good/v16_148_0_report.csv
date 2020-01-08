@@ -1,0 +1,15 @@
+F1: 0.78333,Precision: 0.78333,Recall: 0.78333,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,4,R. Rogers,http://dbpedia.org/resource/Reggie_Rogers,http://dbpedia.org/resource/Rico_Rogers
+0,5,R. Lang,http://dbpedia.org/resource/Robert_Lang_(ice_hockey),http://dbpedia.org/resource/Richard_Lang_(cyclist)
+0,10,R. Lloyd,http://dbpedia.org/resource/Ryan_Lloyd,http://dbpedia.org/resource/Rhys_Lloyd_(cyclist)
+0,13,R. Gough,http://dbpedia.org/resource/Richard_Gough,http://dbpedia.org/resource/Regan_Gough
+0,26,P. Mazur,http://dbpedia.org/resource/Włodzimierz_Mazur,http://dbpedia.org/resource/Piotr_Mazur
+0,30,P. Lindau,http://dbpedia.org/resource/Peter_Lindau,http://dbpedia.org/resource/Philip_Lindau
+0,42,P. Manning,http://dbpedia.org/resource/Peyton_Manning,http://dbpedia.org/resource/Paul_Manning_(cyclist) http://dbpedia.org/resource/Paul_Christian_Manning http://dbpedia.org/resource/Paul_Manning_(cycling)
+0,44,P. Shaw,http://dbpedia.org/resource/Peter_Shaw_(footballer),http://dbpedia.org/resource/Pat_Shaw http://dbpedia.org/resource/Patrick_Shaw_(cyclist)
+0,45,P. Lane,http://dbpedia.org/resource/Phil_Lane_(ice_hockey),http://dbpedia.org/resource/Patrick_Lane_(cyclist)
+0,48,P. Sang-hoon,http://dbpedia.org/resource/Lee_Sang-hoon_(baseball),http://dbpedia.org/resource/Park_Sang-hoon
+0,52,O. Bulgarelli,http://dbpedia.org/resource/Giacomo_Bulgarelli,http://dbpedia.org/resource/Otávio_Bulgarelli
+0,54,O. Bulgarelli,http://dbpedia.org/resource/Giacomo_Bulgarelli,http://dbpedia.org/resource/Otávio_Bulgarelli
+0,60,O. Pardini,http://it.dbpedia.org/resource/Odoacre_Pardini,http://dbpedia.org/resource/Olivier_Pardini

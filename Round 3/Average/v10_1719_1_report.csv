@@ -1,0 +1,11 @@
+F1: 0.55000,Precision: 0.55000,Recall: 0.55000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,N. Arakawa,http://dbpedia.org/resource/Hiromu_Arakawa,http://dbpedia.org/resource/Naruhisa_Arakawa
+1,6,P. Long,http://dbpedia.org/resource/Huey_Long,http://dbpedia.org/resource/Pamela_Long_Hammer http://dbpedia.org/resource/Pamela_K._Long http://dbpedia.org/resource/Pam_Long http://dbpedia.org/resource/Pam_Long_(actor)
+1,8,M. Sasaki,http://dbpedia.org/resource/Mikoi_Sasaki,http://dbpedia.org/resource/Mamoru_Sasaki http://dbpedia.org/resource/Sasaki_Mamoru
+1,11,Y. Kobayashi,http://dbpedia.org/resource/Yukiko_Kobayashi,http://dbpedia.org/resource/小林靖子 http://dbpedia.org/resource/Yasuko_Kobayashi
+1,12,T. Inoue,http://dbpedia.org/resource/Takehiko_Inoue,http://dbpedia.org/resource/Inoue_Toshiki http://dbpedia.org/resource/井上敏樹 http://dbpedia.org/resource/Toshiki_Inoue
+1,13,T. Inoue,http://dbpedia.org/resource/Takehiko_Inoue,http://dbpedia.org/resource/Inoue_Toshiki http://dbpedia.org/resource/井上敏樹 http://dbpedia.org/resource/Toshiki_Inoue
+1,15,T. Inoue,http://dbpedia.org/resource/Takehiko_Inoue,http://dbpedia.org/resource/Inoue_Toshiki http://dbpedia.org/resource/井上敏樹 http://dbpedia.org/resource/Toshiki_Inoue
+1,19,E. Larrosa,http://dbpedia.org/resource/Omar_Larrosa,http://dbpedia.org/resource/Emilio_Larrosa http://dbpedia.org/resource/Emilio_larrosa
+1,20,N. Arakawa,http://dbpedia.org/resource/Hiromu_Arakawa,http://dbpedia.org/resource/Naruhisa_Arakawa

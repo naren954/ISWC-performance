@@ -1,0 +1,5 @@
+F1: 0.82353,Precision: 0.82353,Recall: 0.82353,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,5,2013 MZ5,http://dbpedia.org/resource/(511002)_2013_MZ5,http://dbpedia.org/resource/2013_MZ5
+0,9,2013 FZ27,http://dbpedia.org/resource/(523671)_2013_FZ27,http://dbpedia.org/resource/2013FZ27 http://dbpedia.org/resource/2013_FZ27
+0,10,2013 FY27,http://dbpedia.org/resource/(532037)_2013_FY27,http://dbpedia.org/resource/2013_FY27

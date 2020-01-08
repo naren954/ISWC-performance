@@ -1,0 +1,7 @@
+F1: 0.54545,Precision: 0.54545,Recall: 0.54545,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,2,R. D. Sr.,http://dbpedia.org/resource/Theodore_Roosevelt,"http://dbpedia.org/resource/Ryan_DeGraffenried,_Sr."
+1,3,S. M. Robertson,"http://dbpedia.org/resource/George_Robertson,_Baron_Robertson_of_Port_Ellen",http://dbpedia.org/resource/Samuel_Matthews_Robertson http://dbpedia.org/resource/Samuel_Robertson http://dbpedia.org/resource/Samuel_M._Robertson
+1,6,D. Edmondson,http://dbpedia.org/resource/Ella_Edmondson,http://dbpedia.org/resource/Drew_Edmondson
+1,7,"Compton I. White, Jr.",http://dbpedia.org/resource/Bill_Clinton,"http://dbpedia.org/resource/Compton_White,_Jr. http://dbpedia.org/resource/Compton_I._White,_Jr. http://dbpedia.org/resource/Compton_I._White_Jr. http://dbpedia.org/resource/Compton_Ignatius_White,_Jr."
+1,9,J. Wilson,http://dbpedia.org/resource/Robin_Wilson_(mathematician),http://dbpedia.org/resource/Jason_Wilson_(politician)

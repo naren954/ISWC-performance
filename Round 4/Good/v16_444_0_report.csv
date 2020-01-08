@@ -1,0 +1,32 @@
+F1: 0.76190,Precision: 0.76190,Recall: 0.76190,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,5,Under My Skin,http://dbpedia.org/resource/I've_Got_You_Under_My_Skin,http://dbpedia.org/resource/Under_My_Skin_(Sarah_Connor_song)
+0,13,Unconditional Love,http://dbpedia.org/resource/Unconditional_Love_(Donna_Summer_song),http://dbpedia.org/resource/Unconditional_Love_(Tupac_Shakur_song) http://dbpedia.org/resource/Unconditional_Love) http://dbpedia.org/resource/Unconditional_Love_(2Pac_song) http://dbpedia.org/resource/Unconditional_Love_(2pac_song)
+0,14,Unconditional Love,http://dbpedia.org/resource/Unconditional_Love_(Donna_Summer_song),http://dbpedia.org/resource/Unconditional_Love_(Against_Me!_song)
+0,15,Unconditional,http://dbpedia.org/resource/Unconditionally,http://dbpedia.org/resource/Unconditional_(The_Bravery_song)
+0,21,Unchained Melody,http://it.dbpedia.org/resource/La_voce_del_silenzio/Unchained_Melody,http://dbpedia.org/resource/Unchained_Melody
+0,22,Unbroken,http://dbpedia.org/resource/Hold_It_Against_Me,http://dbpedia.org/resource/Unbroken_(Tim_McGraw_song)
+0,23,Unbroken,http://dbpedia.org/resource/Hold_It_Against_Me,http://dbpedia.org/resource/Unbroken_(Stan_Walker_song)
+0,25,Unbreakable,http://dbpedia.org/resource/Unbreakable_(Westlife_song),http://dbpedia.org/resource/Unbreakable_(Janet_Jackson_song)
+0,26,Unbreakable,http://dbpedia.org/resource/Unbreakable_(Westlife_song),http://dbpedia.org/resource/Unbreakable_(Evermore_song)
+0,27,Unbelievers,http://dbpedia.org/resource/Unbelievers_(song),http://dbpedia.org/resource/Unbelievers_(Vampire_Weekend_Song) http://dbpedia.org/resource/Unbelievers_(Vampire_Weekend_song)
+0,28,Unbelievable,http://dbpedia.org/resource/Unbelievable_(Craig_David_song),http://dbpedia.org/resource/Unbelievable_(EMF_song) http://dbpedia.org/resource/You're_Unbelievable
+0,29,Unbelievable,http://dbpedia.org/resource/Unbelievable_(Craig_David_song),http://dbpedia.org/resource/Unbelievable_(Diamond_Rio_song)
+0,31,Unbelievable,http://dbpedia.org/resource/Unbelievable_(Craig_David_song),http://dbpedia.org/resource/Unbelievable_(Ann_Marie)
+0,41,Un'emozione per sempre,http://dbpedia.org/resource/Per_Sempre_(for_Always),http://dbpedia.org/resource/Una_emoción_para_siempre http://dbpedia.org/resource/Un'emozione_per_sempre
+0,44,Ultraviolet,http://dbpedia.org/resource/Ultraviolet/The_Ballad_of_Paul_K,http://dbpedia.org/resource/Ultraviolet_(Light_My_Way) http://dbpedia.org/resource/Ultra_Violet_(Light_My_Way) http://dbpedia.org/resource/U2_Ultraviolet http://dbpedia.org/resource/ULTRA_violet_(light_my_WAY)
+0,47,Uh Huh,http://dbpedia.org/resource/Uh_Huh_(Julia_Michaels_song),http://dbpedia.org/resource/Uh_Huh http://dbpedia.org/resource/Uh_huh http://dbpedia.org/resource/Uh_Huh_(B2K_song)
+0,49,Ugly,http://dbpedia.org/resource/Ugly_(Sugababes_song),http://dbpedia.org/resource/Ugly_(Sevendust_song)
+0,50,Ugly,http://dbpedia.org/resource/Ugly_(Sugababes_song),http://dbpedia.org/resource/Ugly_(Jon_Bon_Jovi_song)
+0,55,U Make Me Wanna,http://dbpedia.org/resource/You_Make_Me_Wanna...,http://dbpedia.org/resource/U_Make_Me_Wanna_(Jadakiss_song)
+0,56,U Make Me Wanna,http://dbpedia.org/resource/You_Make_Me_Wanna...,http://dbpedia.org/resource/U_Make_Me_Wanna_(Blue_song)
+0,71,Type,http://dbpedia.org/resource/No_Type,http://dbpedia.org/resource/Type_(song)
+0,77,Two Weeks,http://dbpedia.org/resource/Two_Weeks_(Grizzly_Bear_song),http://dbpedia.org/resource/Two_Weeks_(FKA_twigs_song) http://dbpedia.org/resource/Two_Weeks_(FKA_Twigs_song)
+0,78,Two Weeks,http://dbpedia.org/resource/Two_Weeks_(Grizzly_Bear_song),http://dbpedia.org/resource/Two_Weeks_(All_That_Remains_song) http://dbpedia.org/resource/Two_Weeks(All_That_Remains_song)
+0,101,Twisted,http://dbpedia.org/resource/Twisted_(Keith_Sweat_song),http://dbpedia.org/resource/Twisted_(Stevie_Nicks_song)
+0,103,Twisted,http://dbpedia.org/resource/Twisted_(Keith_Sweat_song),http://dbpedia.org/resource/Twisted_(single) http://dbpedia.org/resource/Twisted_(Everyday_Hurts)
+0,104,Twisted,http://dbpedia.org/resource/Twisted_(Keith_Sweat_song),http://dbpedia.org/resource/Twisted_(Brian_McFadden_Song) http://dbpedia.org/resource/Twisted_(Brian_McFadden_song)
+0,106,Twist and Shout,http://dbpedia.org/resource/Twist_and_Shout_(Deacon_Blue_song),"http://dbpedia.org/resource/Shake_It_Up,_Baby http://dbpedia.org/resource/Twist_and_shout http://dbpedia.org/resource/Twist_And_Shout http://dbpedia.org/resource/Twist_&_Shout http://dbpedia.org/resource/Twist_and_Shout http://dbpedia.org/resource/Twist_and_Shout_(The_Beatles_song)"
+0,109,Twilight Zone,http://dbpedia.org/resource/Twilight_Zone_(2_Unlimited_song),http://dbpedia.org/resource/Twilight_Zone_(Iron_Maiden_song) http://dbpedia.org/resource/Twilight_Zone_(heavy_metal_song)
+0,112,Twilight,http://dbpedia.org/resource/Twilight_(Electric_Light_Orchestra_song),http://dbpedia.org/resource/Twilight_(Cover_Drive_song)
+0,121,Turning Tables,http://dbpedia.org/resource/21_(Adele_album),http://dbpedia.org/resource/Turning_Tables http://dbpedia.org/resource/Turing_Tables

@@ -1,0 +1,4 @@
+F1: 0.60000,Precision: 0.60000,Recall: 0.60000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,Elma,http://dbpedia.org/resource/Apple,"http://dbpedia.org/resource/Elma,_New_York"
+1,4,Fleming,http://dbpedia.org/resource/Ian_Fleming,"http://dbpedia.org/resource/Fleming,_New_York"

@@ -1,0 +1,4 @@
+"F1: 0.33333","Precision: 0.33333","Recall: 0.33333"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","1","Catholic","http://dbpedia.org/resource/Catholic_University_Cardinals","http://dbpedia.org/resource/Catholic_cardinals_football http://dbpedia.org/resource/Catholic_Cardinals_football http://dbpedia.org/resource/Catholic_University_Cardinals_football"
+"1","3","Lenoir-Rhyne","http://dbpedia.org/resource/Lenoir–Rhyne_Bears_football","http://dbpedia.org/resource/Lenoir-Rhyne http://dbpedia.org/resource/Lenoir_rhyne http://dbpedia.org/resource/Lenoir–Rhyne_College http://dbpedia.org/resource/Lenoir_Rhyne_College http://dbpedia.org/resource/Lenoir-Rhyne_College http://dbpedia.org/resource/Lenoir_Rhyne_University http://dbpedia.org/resource/Lenoir-Rhyne_University http://dbpedia.org/resource/Lenoir–Rhyne_University"

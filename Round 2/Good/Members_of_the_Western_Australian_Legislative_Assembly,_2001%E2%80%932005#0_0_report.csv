@@ -1,0 +1,10 @@
+F1: 0.77778,Precision: 0.77778,Recall: 0.77778,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Ross Ainsworth,http://dbpedia.org/resource/John_Ainsworth_(Wisconsin_politician),http://dbpedia.org/resource/Ross_Ainsworth
+0,7,John Bradshaw,http://dbpedia.org/resource/John_Bradshaw_(judge),http://dbpedia.org/resource/John_Leslie_Bradshaw http://dbpedia.org/resource/John_Bradshaw_(politician)
+0,27,Rob Johnson,http://dbpedia.org/resource/Rob_Johnson_(Australian_politician),"http://dbpedia.org/resource/Rob_Johnson http://dbpedia.org/resource/Rob_Johnson_(disambiguation) http://dbpedia.org/resource/Rob_Johnson_(politician) http://dbpedia.org/resource/Johnson,_Rob"
+0,32,Mark McGowan,http://dbpedia.org/resource/Mark_McGowan,http://dbpedia.org/resource/Mark_McGowan_MLA http://dbpedia.org/resource/Mark_McGowan_(MLA) http://dbpedia.org/resource/Mark_McGowan_(politician) http://dbpedia.org/resource/Mark_McGowan_(Australian_politician) http://dbpedia.org/resource/Mark_McGowan_(australian_politician)
+0,35,Tony McRae,http://dbpedia.org/resource/Tony_McRae_(politician),http://dbpedia.org/resource/Tony_McRae
+0,39,Carol Martin,http://dbpedia.org/resource/Carol_Martin,http://dbpedia.org/resource/Carol_Martin_(politician)
+0,51,Dan Sullivan,http://dbpedia.org/resource/Dan_Sullivan_(Anchorage_mayor),http://dbpedia.org/resource/Dan_Sullivan_(Australian_politician) http://dbpedia.org/resource/Dan_Barron-Sullivan
+0,52,Rod Sweetman,http://dbpedia.org/resource/Gerard_Sweetman,http://dbpedia.org/resource/Rod_Sweetman

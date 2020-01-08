@@ -1,0 +1,7 @@
+"F1: 0.78261","Precision: 0.78261","Recall: 0.78261"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","4","Green Bay Blizzard","http://dbpedia.org/resource/Green_Bay_Packers","http://dbpedia.org/resource/Green_Bay_Blizzard http://dbpedia.org/resource/Peter_""The_Animal""_Lazare"
+"0","9","Albany Conquest","http://dbpedia.org/resource/Albany_Firebirds_(af2)","http://dbpedia.org/resource/Albany_Firebirds http://dbpedia.org/resource/Indiana_Firebirds"
+"0","19","Tulsa Talons","http://dbpedia.org/resource/Tulsa_Oilers","http://dbpedia.org/resource/San_Antonio_Talons http://dbpedia.org/resource/Tulsa_Talons"
+"0","26","Spokane Shock","http://dbpedia.org/resource/Spokane_Shadow","http://dbpedia.org/resource/Spokane_Shock"
+"0","28","Bakersfield Blitz","http://dbpedia.org/resource/Central_Valley_Coyotes","http://dbpedia.org/resource/Bakersfield_Blitz"

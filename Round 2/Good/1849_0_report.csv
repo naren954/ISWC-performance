@@ -1,0 +1,16 @@
+F1: 0.90476,Precision: 0.90476,Recall: 0.90476,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,E. Bumagin,http://dbpedia.org/resource/E,http://dbpedia.org/resource/Evgeni_Bumagin http://dbpedia.org/resource/Yevgeniy_Bumagin http://dbpedia.org/resource/Yevgeni_Bumagin
+0,6,E. Bloodoff,http://fr.dbpedia.org/resource/Evan_Bloodoff,http://dbpedia.org/resource/Evan_Bloodoff
+0,14,E. Karlsson,http://dbpedia.org/resource/Erik_Karlsson,"http://dbpedia.org/resource/Erik_Karlsson_(ice_hockey,_born_1994) http://dbpedia.org/resource/Erik_Karlsson_(ice_hockey_b._1994)"
+0,16,E. Johnson,http://dbpedia.org/resource/Earl_Johnson_(ice_hockey),"http://dbpedia.org/resource/Erik_Johnson_(ice_hockey) http://dbpedia.org/resource/Erik_Johnson_(B._1988) http://dbpedia.org/resource/Erik_Johnson_(ice_hockey_b._1988) http://dbpedia.org/resource/Johnson,_Erik http://dbpedia.org/resource/Erik_Johnson"
+0,34,E. Comrie,http://dbpedia.org/resource/Mike_Comrie,http://dbpedia.org/resource/Eric_Comrie
+0,42,E. Johansson,http://dbpedia.org/resource/Eric_Johansson,http://dbpedia.org/resource/Emil_Johansson_(ice_hockey)
+0,44,E. Axelsson,http://dbpedia.org/resource/P._J._Axelsson,http://dbpedia.org/resource/Emil_Axelsson
+0,55,E. Kulda,http://dbpedia.org/resource/Artūrs_Kulda,http://dbpedia.org/resource/Edgars_Kulda
+0,76,D. Miller,http://dbpedia.org/resource/Darius_Miller,http://dbpedia.org/resource/Drew_Miller
+0,89,D. Vorobyov,http://dbpedia.org/resource/Dmytro_Vorobyov,http://dbpedia.org/resource/Dmitri_Vorobiev http://dbpedia.org/resource/Dmitry_Vorobiev http://dbpedia.org/resource/Dmitri_Vorobyov http://dbpedia.org/resource/Dmitry_Vorobyov http://dbpedia.org/resource/Dimitri_Vorobiev
+0,102,D. Kazionov,http://dbpedia.org/resource/Denis_Kazionov,http://dbpedia.org/resource/Dmitri_Kazionov
+0,109,D. Altaryov,,http://dbpedia.org/resource/Dmitry_Altaryоv_(ice_hockey) http://dbpedia.org/resource/Dimitri_Altarev http://dbpedia.org/resource/Dmitri_Altaryоv http://dbpedia.org/resource/Dimitri_Altaryov http://dbpedia.org/resource/Dmitry_Altaryоv http://dbpedia.org/resource/Dmitry_Altarev http://dbpedia.org/resource/Dmitri_Altarev http://dbpedia.org/resource/Dmitri_Altaryov http://dbpedia.org/resource/Altarev
+0,114,D. Shore,http://dbpedia.org/resource/Drew_Shore,http://dbpedia.org/resource/Devin_Shore
+0,144,D. Guryanov,http://dbpedia.org/resource/D._D._Jackson,http://dbpedia.org/resource/Denis_Guryanov http://dbpedia.org/resource/Denis_Gurianov

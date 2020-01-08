@@ -1,0 +1,28 @@
+F1: 0.61194,Precision: 0.61194,Recall: 0.61194,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,3,B. Forster,http://dbpedia.org/resource/Margaret_Forster,http://dbpedia.org/resource/Brian_Forster
+2,7,N. Rosa,http://dbpedia.org/resource/Noel_Rosa,http://dbpedia.org/resource/Naja_Rosa_Koppel http://dbpedia.org/resource/Naja_Rosa
+2,8,A. Savalas,http://dbpedia.org/resource/Telly_Savalas,http://dbpedia.org/resource/Ariana_Savalas
+2,11,A. Disney,http://dbpedia.org/resource/Walt_Disney,http://dbpedia.org/resource/Abigail_Disney
+2,13,E. Lloyd,http://dbpedia.org/resource/Sam_Lloyd,http://dbpedia.org/resource/Emily_Lloyd http://dbpedia.org/resource/Charlotte_Ball
+2,14,F. Taylor,http://dbpedia.org/resource/Frederick_Winslow_Taylor,http://dbpedia.org/resource/Felicia_Taylor
+2,15,C. Mitchum,http://dbpedia.org/resource/Robert_Mitchum,http://dbpedia.org/resource/Christopher_Mitchum http://dbpedia.org/resource/Chris_Mitchum
+2,16,A. Randall,http://dbpedia.org/resource/Justin_Timberlake,http://dbpedia.org/resource/Addison_Randall
+2,17,Y. A. Khan,http://dbpedia.org/resource/Saif_Ali_Khan,http://dbpedia.org/resource/Yasmin_Aga_Khan http://dbpedia.org/resource/Princess_Yasmin_Aga_Khan
+2,24,K. Williamson,http://dbpedia.org/resource/Nicol_Williamson,http://dbpedia.org/resource/Kate_Williamson
+2,25,I. T. Jr.,http://dbpedia.org/resource/Sammy_Davis_Jr.,"http://dbpedia.org/resource/Irving_Thalberg,_Jr. http://dbpedia.org/resource/Irving_Thalberg_Jr http://dbpedia.org/resource/Irving_Thalberg_Jr."
+2,27,L. Ali,http://dbpedia.org/resource/Ali,http://dbpedia.org/resource/Laila_Ali http://dbpedia.org/resource/Layla_Ali http://dbpedia.org/resource/Leila_Ali
+2,29,N. Blanc,http://dbpedia.org/resource/Dominique_Blanc,http://dbpedia.org/resource/Noel_Blanc
+2,34,R. Roddenberry,http://dbpedia.org/resource/Gene_Roddenberry,"http://dbpedia.org/resource/Eugene_Wesley_Roddenberry,_Jr. http://dbpedia.org/resource/Eugene_Roddenberry_Jr. http://dbpedia.org/resource/Eugene_Roddenberry,_Jr. http://dbpedia.org/resource/Eugene_Roddenberry_II http://dbpedia.org/resource/Rod_Roddenberry"
+2,37,H. Bochner,http://dbpedia.org/resource/Lloyd_Bochner,http://dbpedia.org/resource/Hart_Bochner
+2,38,M. Penn,http://dbpedia.org/resource/Napoleon,http://dbpedia.org/resource/Michael_Penn http://dbpedia.org/resource/Michael_penn
+2,41,J. Baker,http://dbpedia.org/resource/Julius_Baker,http://dbpedia.org/resource/Jean_claude_baker http://dbpedia.org/resource/Jean-Claude_Baker
+2,43,J. Lennon,http://dbpedia.org/resource/John_Lennon,http://dbpedia.org/resource/Julian_lennon http://dbpedia.org/resource/Julian_Lennon http://dbpedia.org/resource/John_Charles_Julian_Lennon http://dbpedia.org/resource/Children_Of_The_World_(album) http://dbpedia.org/resource/Children_Of_The_World_(Album)
+2,46,B. Wills,http://dbpedia.org/resource/Bob_Wills,http://dbpedia.org/resource/Beverly_Wills
+2,47,N. Powell,http://dbpedia.org/resource/Anthony_Powell_(designer),http://dbpedia.org/resource/Norman_Powell_(television_executive) http://dbpedia.org/resource/Norman_S._Powell
+2,48,J. Henson,http://dbpedia.org/resource/Jim_Henson,http://dbpedia.org/resource/John_Henson_(Muppet_performer) http://dbpedia.org/resource/John_Henson_(puppeteer)
+2,49,C. Orbach,http://dbpedia.org/resource/Jerry_Orbach,http://dbpedia.org/resource/Chris_Orbach
+2,54,C. Lemmon,http://dbpedia.org/resource/Jack_Lemmon,http://dbpedia.org/resource/Chris_Lemmon http://dbpedia.org/resource/Christopher_Lemmon
+2,55,A. Klugman,http://dbpedia.org/resource/Jack_Klugman,http://dbpedia.org/resource/Adam_Klugman
+2,56,E. Kent,"http://dbpedia.org/resource/Prince_Edward,_Duke_of_Kent_and_Strathearn",http://dbpedia.org/resource/Enid_Kent
+2,60,C. Peck,http://dbpedia.org/resource/Gregory_Peck,"http://dbpedia.org/resource/Harper_Peck http://dbpedia.org/resource/Peck,_Cecilia http://dbpedia.org/resource/Cecilia_Peck"

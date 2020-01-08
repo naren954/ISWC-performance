@@ -1,0 +1,7 @@
+"F1: 0.91228","Precision: 0.91228","Recall: 0.91228"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","10","Book of the Dead","http://dbpedia.org/resource/Book_of_the_Dead_(Cornwell_novel)","http://dbpedia.org/resource/Book_of_the_Dead_(Angel_novel)"
+"0","13","Blue Moon","http://dbpedia.org/resource/Blue_Moon_(2002_film)","http://dbpedia.org/resource/Blue_Moon_(Hamilton_novel)"
+"0","16","Bloodline","http://dbpedia.org/resource/Bloodlines_(Star_Wars_novel)","http://dbpedia.org/resource/Bloodline_(2005_novel) http://dbpedia.org/resource/Quincey_Harker http://dbpedia.org/resource/Bloodline_(Cary) http://dbpedia.org/resource/Bloodline_(Cary_novel)"
+"0","35","Black Water","http://dbpedia.org/resource/Black_Water_(2007_film)","http://dbpedia.org/resource/Black_Water_(novel) http://dbpedia.org/resource/Black_Water_(Pendragon)"
+"0","41","Binary","http://dbpedia.org/resource/Binary_relation","http://dbpedia.org/resource/Binary_(novel)"

@@ -1,0 +1,5 @@
+F1: 0.80000,Precision: 0.80000,Recall: 0.80000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,9,Wayne Budd,http://dbpedia.org/resource/Boyce_Budd,http://dbpedia.org/resource/Wayne_Budd
+0,17,William W. Mercer *,http://dbpedia.org/resource/Dornford_Yates,http://dbpedia.org/resource/William_W._Mercer
+0,18,Kevin J. O'Connor,http://dbpedia.org/resource/Kevin_J._O'Connor_(actor),http://dbpedia.org/resource/Kevin_J._O'Connor_(attorney)

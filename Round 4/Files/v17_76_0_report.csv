@@ -1,0 +1,4 @@
+"F1: 0.83333","Precision: 0.83333","Recall: 0.83333"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","7","B. Brown","http://dbpedia.org/resource/William_B._Brown","http://dbpedia.org/resource/Benjamin_Brown_(politician) http://dbpedia.org/resource/Benjamin_Brown_(Congressman)"
+"0","10","Alphonzo E. Bell, Jr.","http://dbpedia.org/resource/Alphonzo_E._Bell_Jr.","http://dbpedia.org/resource/Alphonso_Bell http://dbpedia.org/resource/Alphonzo_E._Bell http://dbpedia.org/resource/Alphonzo_E._Bell,_Jr. http://dbpedia.org/resource/Alphonzo_Bell,_Jr."

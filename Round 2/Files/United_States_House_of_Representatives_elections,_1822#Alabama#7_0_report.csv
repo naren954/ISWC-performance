@@ -1,0 +1,5 @@
+"F1: 0.00000","Precision: 0.00000","Recall: 0.00000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","1","Indiana 1","http://dbpedia.org/resource/Indiana","http://dbpedia.org/resource/Indiana's_1st_congressional_district"
+"0","2","Indiana 2","http://dbpedia.org/resource/Indiana_Jones_and_the_Temple_of_Doom","http://dbpedia.org/resource/Indiana's_2nd_congressional_district"
+"0","3","Indiana 3","http://dbpedia.org/resource/Indiana_Jones_and_the_Last_Crusade","http://dbpedia.org/resource/Indiana's_3rd_congressional_district"

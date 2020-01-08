@@ -1,0 +1,11 @@
+F1: 0.47059,Precision: 0.47059,Recall: 0.47059,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,4,Centennial High School,"http://dbpedia.org/resource/Centennial_High_School_(Corona,_California)","http://dbpedia.org/resource/Centennial_High_School_(Bakersfield,_California)"
+0,6,East Bakersfield High School,"http://dbpedia.org/resource/West_High_School_(Bakersfield,_California)",http://dbpedia.org/resource/East_Bakersfield_High_School
+0,7,Foothill High School,"http://dbpedia.org/resource/Foothill_High_School_(Sacramento,_California)","http://dbpedia.org/resource/Foothill_High_School_(Bakersfield,_California)"
+0,9,Golden Valley High School,"http://dbpedia.org/resource/Golden_Valley_High_School_(Santa_Clarita,_California)","http://dbpedia.org/resource/Golden_Valley_High_School_(Bakersfield) http://dbpedia.org/resource/Golden_Valley_High_School_(Bakersfield,_California)"
+0,10,Independence High School,"http://dbpedia.org/resource/Independence_High_School_(Roseville,_California)","http://dbpedia.org/resource/Independence_High_School_(Bakersfield,_California)"
+0,11,Highland High School,http://dbpedia.org/resource/Highland_High_School_(Arkansas),"http://dbpedia.org/resource/Highland_High_School_(Bakersfield,_California)"
+0,12,Liberty High School,"http://dbpedia.org/resource/Liberty_High_School_(Peoria,_Arizona)","http://dbpedia.org/resource/Liberty_High_School_(Bakersfield,_California)"
+0,16,North High School,"http://dbpedia.org/resource/North_High_School_(Akron,_Ohio)","http://dbpedia.org/resource/North_high_school_(bakersfield,_california) http://dbpedia.org/resource/North_High_School_(Bakersfield,_California)"
+0,21,South High School,"http://dbpedia.org/resource/South_High_School_(Willoughby,_Ohio)","http://dbpedia.org/resource/South_high_school_bakersfield http://dbpedia.org/resource/South_High_School_(Bakersfield,_California)"

@@ -1,0 +1,6 @@
+F1: 0.94118,Precision: 0.94118,Recall: 0.94118,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,J. Piatigorsky,http://dbpedia.org/resource/Gregor_Piatigorsky,http://dbpedia.org/resource/Jacqueline_Piatigorsky
+0,17,I. Platonov,http://dbpedia.org/resource/Viacheslav_Platonov,http://dbpedia.org/resource/Igor_platonov http://dbpedia.org/resource/Igor_Platonov
+0,40,G. Alekhine,http://dbpedia.org/resource/Alexander_Alekhine,http://dbpedia.org/resource/Grace_Alekhine
+0,60,F. Yates,http://dbpedia.org/resource/Frederick_Yates_(chess_player),http://dbpedia.org/resource/Frederick_Yates

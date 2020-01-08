@@ -1,0 +1,5 @@
+"F1: 0.62500","Precision: 0.62500","Recall: 0.62500"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","1","Columbia Valley AVA","http://dbpedia.org/resource/Columbia_Gorge_AVA","http://dbpedia.org/resource/Columbia_Valley_(AVA) http://dbpedia.org/resource/Columbia_Valley_AVA http://dbpedia.org/resource/Columbia_Valley_(wine)"
+"1","5","Anderson Valley AVA","http://dbpedia.org/resource/Alexander_Valley_AVA","http://dbpedia.org/resource/Anderson_Valley_AVA http://dbpedia.org/resource/Anderson_Valley_(AVA)"
+"1","8","Maresme","http://dbpedia.org/resource/Marsh","http://dbpedia.org/resource/Maresme"

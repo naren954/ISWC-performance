@@ -1,0 +1,8 @@
+"F1: 0.40000","Precision: 0.40000","Recall: 0.40000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","1","Spring Garden","http://dbpedia.org/resource/Spring_Garden,_California","http://dbpedia.org/resource/Spring_Garden_(Pittsburgh)"
+"1","4","Troy Hill","http://dbpedia.org/resource/Parsippany-Troy_Hills,_New_Jersey","http://dbpedia.org/resource/Troy_Hill_(Pittsburgh) http://dbpedia.org/resource/Troy_Hill"
+"1","5","Troy Hill (Lowrie and Gardner)","http://dbpedia.org/resource/Parsippany-Troy_Hills,_New_Jersey","http://dbpedia.org/resource/Troy_Hill_(Pittsburgh) http://dbpedia.org/resource/Troy_Hill"
+"1","41","Castle Shannon â\u0080\u0093 Library Loop","http://dbpedia.org/resource/Harold_Washington_Library_–_State/Van_Buren_station","http://dbpedia.org/resource/Castle_Shannon,_Pennsylvania http://dbpedia.org/resource/Castle_Shannon,_PA http://dbpedia.org/resource/Castle_Shannon"
+"1","44","Fair Haven and Castle Shannon","http://dbpedia.org/resource/Castle_Shannon,_Pennsylvania","http://dbpedia.org/resource/Baldwin_Township,_Allegheny_County,_Pennsylvania http://dbpedia.org/resource/Baldwin_Township,_PA http://dbpedia.org/resource/Baldwin_Township,_Pennsylvania http://dbpedia.org/resource/History_of_Baldwin_Township,_Allegheny_County,_Pennsylvania"
+"1","47","Brookline","http://dbpedia.org/resource/Brookline_Township,_Greene_County,_Missouri","http://dbpedia.org/resource/Brookline_(Pittsburgh)"

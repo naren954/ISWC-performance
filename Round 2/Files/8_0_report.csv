@@ -1,0 +1,6 @@
+"F1: 0.93651","Precision: 0.93651","Recall: 0.93651"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","37","Roman Catholic Diocese of San Miguel","http://dbpedia.org/resource/Roman_Catholic_Diocese_of_San_Miguel_(El_Salvador)","http://dbpedia.org/resource/Roman_Catholic_Diocese_of_San_Miguel_(Argentina) http://dbpedia.org/resource/Roman_Catholic_Diocese_of_San_Miguel,_Argentina"
+"0","38","Roman Catholic Diocese of San Martín","http://dbpedia.org/resource/Roman_Catholic_Diocese_of_San_Martín_in_Argentina","http://dbpedia.org/resource/Roman_Catholic_Diocese_of_San_Martín http://dbpedia.org/resource/Roman_Catholic_Diocese_of_San_Martin"
+"0","48","Roman Catholic Diocese of San Jose in the Philippines","http://dbpedia.org/resource/Roman_Catholic_Diocese_of_San_Jose_(Nueva_Ecija)","http://dbpedia.org/resource/Roman_Catholic_Diocese_of_San_Jose_in_Nueva_Ecija http://dbpedia.org/resource/Diocese_of_San_Jose_de_Nueva_Ecija http://dbpedia.org/resource/Roman_Catholic_Diocese_of_San_Jose_in_the_Philippines"
+"0","52","Roman Catholic Diocese of San Jacinto de Yaguachi","http://dbpedia.org/resource/Roman_Catholic_Diocese_of_San_Jacinto","http://dbpedia.org/resource/Roman_Catholic_Diocese_of_San_Jacinto_de_Yaguachi"

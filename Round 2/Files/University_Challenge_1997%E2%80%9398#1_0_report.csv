@@ -1,0 +1,5 @@
+"F1: 0.62500","Precision: 0.62500","Recall: 0.62500"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","2","King's College, London","http://dbpedia.org/resource/King's_College_London","http://dbpedia.org/resource/King's_College,_London"
+"0","3","Newnham College, Cambridge","http://dbpedia.org/resource/King's_College,_Cambridge","http://dbpedia.org/resource/Newnham_Hall http://dbpedia.org/resource/Newnham_College_Cambridge http://dbpedia.org/resource/Newnham_College,_Cambridge http://dbpedia.org/resource/Newnham_College"
+"0","7","Magdalene College, Cambridge","http://dbpedia.org/resource/King's_College,_Cambridge","http://dbpedia.org/resource/Maudlin_College,_Cambridge http://dbpedia.org/resource/St_Mary_Magdalene_College,_Cambridge http://dbpedia.org/resource/Magdalene_College,_Cambridge http://dbpedia.org/resource/Magdelene_College,_Cambridge http://dbpedia.org/resource/Magdalene_College http://dbpedia.org/resource/Magdelene_College http://dbpedia.org/resource/Magdalene_College_at_Cambridge http://dbpedia.org/resource/Magdalen_Chapel http://dbpedia.org/resource/Magdalen_College,_Cambridge"

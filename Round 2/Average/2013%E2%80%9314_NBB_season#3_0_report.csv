@@ -1,0 +1,8 @@
+F1: 0.64706,Precision: 0.64706,Recall: 0.64706,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,Bauru,http://dbpedia.org/resource/Bauru_Atlético_Clube,http://dbpedia.org/resource/Associação_Bauru_Basketball_Team
+0,3,BrasÃ­lia,http://dbpedia.org/resource/Brasília_Futebol_Clube,http://dbpedia.org/resource/Brasília_Basketball http://dbpedia.org/resource/Universo/BRB_Brasilia http://dbpedia.org/resource/Universo_BRB http://dbpedia.org/resource/UniCEUB/Brasília http://dbpedia.org/resource/UniCEUB/BRB http://dbpedia.org/resource/Universo/BRB http://dbpedia.org/resource/Brasilia_Basketball http://dbpedia.org/resource/Universo_Brasília
+0,4,EspÃ­rito Santo,http://dbpedia.org/resource/Espírito_Santo_Futebol_Clube,http://dbpedia.org/resource/Centro_de_Treinamento_Arremessando_para_o_Futuro
+0,11,Minas,http://dbpedia.org/resource/Minas_Tênis_Clube,http://dbpedia.org/resource/Minas_Tênis_Clube_(basketball)
+0,12,Mogi das Cruzes,http://dbpedia.org/resource/Mogi_das_Cruzes_Basquete,http://dbpedia.org/resource/Associação_Desportiva_Mogi_das_Cruzes
+0,17,UberlÃ¢ndia,http://dbpedia.org/resource/Uberlândia_Esporte_Clube,http://dbpedia.org/resource/Uberlândia_Tênis_Clube

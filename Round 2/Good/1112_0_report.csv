@@ -1,0 +1,8 @@
+F1: 0.78571,Precision: 0.78571,Recall: 0.78571,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,9,D. Webb,http://dbpedia.org/resource/Danny_Webb_(motorcyclist),http://dbpedia.org/resource/Danny_Webb_(motorcycle_racer)
+0,13,C. Martin,http://dbpedia.org/resource/Charlie_Martin_(Australian_footballer),http://dbpedia.org/resource/Chris_Martin_(motorcycle_racer) http://dbpedia.org/resource/Christopher_Martin_(motorcycle_racer)
+0,14,B. Deegan,http://dbpedia.org/resource/Brian_Deegan_(motorcyclist),http://dbpedia.org/resource/Brian_Deegan_(Moto_X) http://dbpedia.org/resource/Brian_Deegan_(rider)
+0,15,B. Smith,"http://dbpedia.org/resource/Bill_Smith_(footballer,_born_1938)",http://dbpedia.org/resource/Bradley_Smith_(motorcyclist) http://dbpedia.org/resource/Bradley_Smith_(motorcycle_racer)
+0,26,Á. Bautista,http://dbpedia.org/resource/Aurora_Bautista,http://dbpedia.org/resource/Álvaro_Bautista http://dbpedia.org/resource/Alvaro_Bautista
+0,27,Á. Rins,http://dbpedia.org/resource/Alberto_Da_Rin,http://dbpedia.org/resource/Álex_Rins http://dbpedia.org/resource/Alex_Rins

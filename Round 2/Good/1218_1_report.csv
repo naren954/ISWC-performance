@@ -1,0 +1,31 @@
+F1: 0.84896,Precision: 0.84896,Recall: 0.84896,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,13,H. Vollmar,http://dbpedia.org/resource/Heinz_Vollmar,http://dbpedia.org/resource/Harald_Vollmar
+1,15,H. Vollmar,http://dbpedia.org/resource/Heinz_Vollmar,http://dbpedia.org/resource/Harald_Vollmar
+1,25,S. Kalinin,http://dbpedia.org/resource/Stepan_Kalinin,http://dbpedia.org/resource/Sergei_Kalinin_(sport_shooter) http://dbpedia.org/resource/Sergei_Kalinin_(shooter)
+1,31,S. Kalinin,http://dbpedia.org/resource/Stepan_Kalinin,http://dbpedia.org/resource/Sergei_Kalinin_(sport_shooter) http://dbpedia.org/resource/Sergei_Kalinin_(shooter)
+1,50,A. Jackson,http://dbpedia.org/resource/Arnold_Jackson_(British_Army_officer),http://dbpedia.org/resource/Arthur_Charles_Jackson http://dbpedia.org/resource/Art_Jackson_(sport_shooter) http://dbpedia.org/resource/Arthur_Jackson_(sport_shooter)
+1,55,A. Jackson,http://dbpedia.org/resource/Arnold_Jackson_(British_Army_officer),http://dbpedia.org/resource/Arthur_Charles_Jackson http://dbpedia.org/resource/Art_Jackson_(sport_shooter) http://dbpedia.org/resource/Arthur_Jackson_(sport_shooter)
+1,87,Ø. Østensen,http://dbpedia.org/resource/Sten_Stensen,http://dbpedia.org/resource/Østen_Østensen
+1,95,Ø. Østensen,http://dbpedia.org/resource/Sten_Stensen,http://dbpedia.org/resource/Östen_Östensen http://dbpedia.org/resource/Østen_Østensen http://dbpedia.org/resource/Osten_Ostensen
+1,101,C. Stewart,http://dbpedia.org/resource/Chelsea_Stewart,http://dbpedia.org/resource/Charles_Stewart_(sport_shooter)
+1,102,C. Stewart,http://dbpedia.org/resource/Chelsea_Stewart,http://dbpedia.org/resource/Charles_Stewart_(sport_shooter)
+1,105,A. Londen,http://dbpedia.org/resource/Axel_Fredrik_Londen,http://dbpedia.org/resource/Londen http://dbpedia.org/resource/Axel_Londen
+1,110,C. Stewart,http://dbpedia.org/resource/Chelsea_Stewart,http://dbpedia.org/resource/Charles_Stewart_(sport_shooter)
+1,111,C. Stewart,http://dbpedia.org/resource/Chelsea_Stewart,http://dbpedia.org/resource/Charles_Stewart_(sport_shooter)
+1,114,A. Londen,http://dbpedia.org/resource/Axel_Fredrik_Londen,http://dbpedia.org/resource/Londen http://dbpedia.org/resource/Axel_Londen
+1,121,A. Parmentier,http://fr.dbpedia.org/resource/André_Parmentier,http://dbpedia.org/resource/André_Parmentier_(sport_shooter) http://dbpedia.org/resource/Andre_Parmentier_(sport_shooter)
+1,132,L. Westerhof,http://dbpedia.org/resource/Marieke_Westerhof,http://dbpedia.org/resource/Lisa_Westerhof http://dbpedia.org/resource/Lisa_Westerhof_(sailor)
+1,140,L. Westerhof,http://dbpedia.org/resource/Marieke_Westerhof,http://dbpedia.org/resource/Lisa_Westerhof http://dbpedia.org/resource/Lisa_Westerhof_(sailor)
+1,147,F. Oliveira,http://dbpedia.org/resource/Flávia_Oliveira,http://dbpedia.org/resource/Fernanda_Oliveira_(sailor) http://dbpedia.org/resource/Fernanda_Oliveira http://dbpedia.org/resource/Fernanda_Moreira_de_Olivera
+1,150,D. Romero,http://dbpedia.org/resource/Rebecca_Romero,http://dbpedia.org/resource/Diego_Romero_(sailor) http://dbpedia.org/resource/Diego_Emilio_Romero
+1,152,J. P. Peckolt,http://dbpedia.org/resource/J._P._Blecksmith,http://dbpedia.org/resource/Jan_Peter_Peckolt http://dbpedia.org/resource/Jan-Peter_Peckolt
+1,153,F. Oliveira,http://dbpedia.org/resource/Flávia_Oliveira,http://dbpedia.org/resource/Fernanda_Oliveira_(sailor) http://dbpedia.org/resource/Fernanda_Oliveira http://dbpedia.org/resource/Fernanda_Moreira_de_Olivera
+1,156,D. Romero,http://dbpedia.org/resource/Rebecca_Romero,http://dbpedia.org/resource/Diego_Romero_(sailor) http://dbpedia.org/resource/Diego_Emilio_Romero
+1,165,S. Hiscocks,http://dbpedia.org/resource/Eileen_Hiscock,http://dbpedia.org/resource/Simon_Hiscocks
+1,167,S. Lange,http://dbpedia.org/resource/Dorothea_Lange,http://dbpedia.org/resource/Santiago_Lange
+1,172,S. Hiscocks,http://dbpedia.org/resource/Eileen_Hiscock,http://dbpedia.org/resource/Simon_Hiscocks
+1,175,R. Schwall,http://dbpedia.org/resource/Thomas_Schwall,http://dbpedia.org/resource/Rene_Schwall http://dbpedia.org/resource/René_Schwall
+1,177,A. McIntosh,http://dbpedia.org/resource/James_McIntosh_(rower),http://dbpedia.org/resource/Aaron_McIntosh
+1,184,R. Schwall,http://dbpedia.org/resource/Thomas_Schwall,http://dbpedia.org/resource/Rene_Schwall http://dbpedia.org/resource/René_Schwall
+1,186,A. McIntosh,http://dbpedia.org/resource/James_McIntosh_(rower),http://dbpedia.org/resource/Aaron_McIntosh

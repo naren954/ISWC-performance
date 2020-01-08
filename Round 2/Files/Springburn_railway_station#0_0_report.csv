@@ -1,0 +1,4 @@
+"F1: 0.33333","Precision: 0.33333","Recall: 0.33333"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","1","Stepps","http://dbpedia.org/resource/Stepps","http://dbpedia.org/resource/Stepps_railway_station http://dbpedia.org/resource/Stepps_station"
+"0","5","Bishopbriggs","http://dbpedia.org/resource/Bishopbriggs","http://dbpedia.org/resource/Bishopbriggs_railway_station http://dbpedia.org/resource/Bishopbriggs_station"

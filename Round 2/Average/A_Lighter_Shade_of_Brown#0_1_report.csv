@@ -1,0 +1,4 @@
+F1: 0.66667,Precision: 0.66667,Recall: 0.66667,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,3,Layin' in the Cut,http://dbpedia.org/resource/Layin'_in_the_Cut_(James_Carter_album),http://dbpedia.org/resource/Layin'_in_the_Cut
+1,6,Greatest Hits,http://dbpedia.org/resource/Greatest_Hits_(Bon_Jovi_album),http://dbpedia.org/resource/Greatest_Hits_(A_Lighter_Shade_of_Brown_album)

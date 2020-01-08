@@ -1,0 +1,6 @@
+F1: 0.60000,Precision: 0.60000,Recall: 0.60000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,5,G. Miles,http://dbpedia.org/resource/Gina_Miles,http://dbpedia.org/resource/Graham_Miles
+0,6,E. Sinclair,http://dbpedia.org/resource/Edward_Sinclair,http://dbpedia.org/resource/Eddie_Sinclair
+0,7,E. Charlton,http://dbpedia.org/resource/Dave_Charlton,http://dbpedia.org/resource/Eddie_Charlton http://dbpedia.org/resource/Edward_Francis_Charlton
+0,8,C. Wilson,http://dbpedia.org/resource/Chris_Wilson_(Australian_musician),http://dbpedia.org/resource/Cliff_Wilson

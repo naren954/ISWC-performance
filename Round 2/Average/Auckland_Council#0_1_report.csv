@@ -1,0 +1,10 @@
+F1: 0.61905,Precision: 0.61905,Recall: 0.61905,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,9,Chris Darby,http://dbpedia.org/resource/Al_Darby,http://dbpedia.org/resource/Chris_Darby
+1,13,Mike Lee,http://dbpedia.org/resource/Mike_Lee_(American_politician),http://dbpedia.org/resource/Mike_Lee_(New_Zealand_politician)
+1,14,Calum Penrose,http://dbpedia.org/resource/Calum_Kerr,http://dbpedia.org/resource/Calum_Penrose
+1,16,Sharon Stewart,http://dbpedia.org/resource/Sharon_Stewart-Peregoy,http://dbpedia.org/resource/Sharon_Stewart
+1,17,John Walker,http://dbpedia.org/resource/John_Walker_(Arkansas_politician),http://dbpedia.org/resource/John_Walker_(athlete) http://dbpedia.org/resource/John_Walker_(runner)
+1,18,Wayne Walker,http://dbpedia.org/resource/Wayne_Walker,http://dbpedia.org/resource/Wayne_Walker_(politician)
+1,19,John Watson,http://dbpedia.org/resource/John_Watson_(Australian_politician),http://dbpedia.org/resource/John_Watson_(New_Zealand_politician)
+1,21,George Wood,http://dbpedia.org/resource/George_Tyler_Wood,http://dbpedia.org/resource/George_Wood_(New_Zealand) http://dbpedia.org/resource/George_Sydney_Wood http://dbpedia.org/resource/George_Wood_(New_Zealand_politician)

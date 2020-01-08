@@ -1,0 +1,5 @@
+F1: 0.80000,Precision: 0.80000,Recall: 0.80000,,
+Col,Row,Value,Submitted URI,Correct URI's
+13,10,RÃ´mulo,,http://dbpedia.org/resource/Rômulo
+13,16,Itzik Cohen,"http://dbpedia.org/resource/Itzik_Cohen_(footballer,_born_1983)","http://dbpedia.org/resource/Itzik_Cohen_(footballer,_born_1990) http://dbpedia.org/resource/Itzik_Cohen_(footballer_born_1990)"
+13,17,Itzik Cohen & Lidor Cohen,"http://dbpedia.org/resource/Itzik_Cohen_(footballer,_born_1983)","http://dbpedia.org/resource/Itzik_Cohen_(footballer,_born_1990) http://dbpedia.org/resource/Itzik_Cohen_(footballer_born_1990)"

@@ -1,0 +1,8 @@
+F1: 0.76923,Precision: 0.76923,Recall: 0.76923,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,T. Gibbons,http://dbpedia.org/resource/Tex_Gibbons,http://dbpedia.org/resource/Tom_Gibbons http://dbpedia.org/resource/Tommy_Gibbons
+0,8,T. O'Rourke,http://dbpedia.org/resource/Tim_O'Rourke,http://dbpedia.org/resource/Tom_O'Rourke_(boxing_manager)
+0,16,T. Berry,http://dbpedia.org/resource/Tom_Berry_(baseball),http://dbpedia.org/resource/Tom_Berry_(boxer)
+0,17,T. Allen,http://dbpedia.org/resource/Terry_Allen_(boxer),http://dbpedia.org/resource/Tom_Allen_(boxer)
+0,19,T. Wood,http://dbpedia.org/resource/Tim_Wood_(figure_skater),http://dbpedia.org/resource/Tim_Wood_(boxer)
+0,20,T. Jones,http://dbpedia.org/resource/Trevor_Jones_(cricketer),http://dbpedia.org/resource/Tiger_Jones http://dbpedia.org/resource/Ralph_'Tiger'_Jones

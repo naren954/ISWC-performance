@@ -1,0 +1,8 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,Green Bay Packers,http://dbpedia.org/resource/Green_Bay_Packers,http://dbpedia.org/resource/1962_Green_Bay_Packers_season
+0,3,Detroit Lions,http://dbpedia.org/resource/Detroit_Tigers,http://dbpedia.org/resource/1962_Detroit_Lions_season
+0,4,Chicago Bears,http://dbpedia.org/resource/Chicago,http://dbpedia.org/resource/1962_Chicago_Bears_season
+0,5,Baltimore Colts,http://dbpedia.org/resource/Indianapolis_Colts,http://dbpedia.org/resource/1962_Baltimore_Colts_season
+0,7,Minnesota Vikings,http://dbpedia.org/resource/San_Francisco_49ers,http://dbpedia.org/resource/1962_Minnesota_Vikings_season
+0,8,Los Angeles Rams,http://dbpedia.org/resource/Los_Angeles_Rams,http://dbpedia.org/resource/1962_Los_Angeles_Rams_season

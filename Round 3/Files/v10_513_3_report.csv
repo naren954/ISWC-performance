@@ -1,0 +1,7 @@
+"F1: 0.94444","Precision: 0.94444","Recall: 0.94444"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"3","1","Spectrum","http://dbpedia.org/resource/Apopestes_spectrum","http://dbpedia.org/resource/Spectrum_(horse)"
+"3","15","Kashmir","nan","http://dbpedia.org/resource/Kashmir_(horse)"
+"3","16","Kris","http://dbpedia.org/resource/Kris_(horse)","http://dbpedia.org/resource/Kryss http://dbpedia.org/resource/Moro_Kris http://dbpedia.org/resource/Keris http://dbpedia.org/resource/Creese http://dbpedia.org/resource/Kris_knife http://dbpedia.org/resource/Kris"
+"3","19","Purchase","http://dbpedia.org/resource/Purchase_(horse)","http://dbpedia.org/resource/Purchase http://dbpedia.org/resource/Purchases http://dbpedia.org/resource/Purchasing"
+"3","38","Donovan","http://dbpedia.org/resource/Jason_Donovan","http://dbpedia.org/resource/Donovan_(horse)"

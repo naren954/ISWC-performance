@@ -1,0 +1,9 @@
+F1: 0.96257,Precision: 0.96257,Recall: 0.96257,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,6,M. Samuelsson,http://dbpedia.org/resource/Mikael_Samuelsson,http://dbpedia.org/resource/Martin_Samuelsson
+0,32,M. Granlund,http://dbpedia.org/resource/Mikael_Granlund,http://dbpedia.org/resource/Markus_Granlund
+0,46,M. Murphy,http://dbpedia.org/resource/Mark_Murphy_(soccer),http://dbpedia.org/resource/Mark_Murphy_(ice_hockey)
+0,62,M. Lucia,,http://dbpedia.org/resource/Mario_Lucia
+0,93,M. Hossa,http://dbpedia.org/resource/Marián_Hossa,http://dbpedia.org/resource/Marcel_Hossa
+0,96,M. Savard,http://dbpedia.org/resource/Denis_Savard,http://dbpedia.org/resource/Marc_Savard
+0,165,L. Brown,http://dbpedia.org/resource/Larry_Brown_(tight_end),http://dbpedia.org/resource/Logan_Brown

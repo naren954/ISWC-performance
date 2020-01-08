@@ -1,0 +1,8 @@
+"F1: 0.68421","Precision: 0.68421","Recall: 0.68421"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"2","6","St George Dragons","http://dbpedia.org/resource/St._George_Illawarra_Dragons","http://dbpedia.org/resource/St_George_Dragons http://dbpedia.org/resource/St._George_DRLFC http://dbpedia.org/resource/St._George_Dragons"
+"2","10","St. George Dragons","http://dbpedia.org/resource/St._George_Illawarra_Dragons","http://dbpedia.org/resource/St_George_Dragons http://dbpedia.org/resource/St._George_DRLFC http://dbpedia.org/resource/St._George_Dragons"
+"2","13","York Wasps","http://dbpedia.org/resource/York_City_Knights","http://dbpedia.org/resource/York_RLFC http://dbpedia.org/resource/York_Wasps http://dbpedia.org/resource/Ryedale-York"
+"2","15","Merthyr Tydfil RLFC","http://dbpedia.org/resource/Merthyr_Tydfil_F.C.","http://dbpedia.org/resource/Merthyr_Tydfil_RLFC"
+"2","16","St Helens RLFC","http://dbpedia.org/resource/St_Helens_R.F.C.","http://dbpedia.org/resource/St._Helens_RFC http://dbpedia.org/resource/Saints_RL http://dbpedia.org/resource/St._Helens_R.F.C. http://dbpedia.org/resource/St_Helens_FC http://dbpedia.org/resource/St_Helens_RFC http://dbpedia.org/resource/St_Helens_Rugby_League_Football_Club http://dbpedia.org/resource/St_Helens_RLFC http://dbpedia.org/resource/St._Helens_R.L.F.C. http://dbpedia.org/resource/St._Helens_Rugby_League_Football_Club http://dbpedia.org/resource/St._Helens_RLFC"
+"2","18","Hawke's Bay Rugby League","http://dbpedia.org/resource/Newcastle_Rugby_League","http://dbpedia.org/resource/Rugby_League_Hawkes_Bay http://dbpedia.org/resource/Hawke's_Bay_Rugby_League http://dbpedia.org/resource/Hawkes_Bay_Rugby_League http://dbpedia.org/resource/Rugby_League_Hawke's_Bay"

@@ -1,0 +1,4 @@
+"F1: 0.00000","Precision: 0.00000","Recall: 0.00000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"3","2","Apache Point","http://dbpedia.org/resource/Apache_HTTP_Server","http://dbpedia.org/resource/Apache_Point_Observatory http://dbpedia.org/resource/Astrophysical_Research_Consortium http://dbpedia.org/resource/ARC_telescope http://dbpedia.org/resource/Photometric_telescope http://dbpedia.org/resource/Nicfps"
+"3","3","La Palma","http://dbpedia.org/resource/Palma_de_Mallorca","http://dbpedia.org/resource/Observatorio_de_Roque_de_los_Muchachos http://dbpedia.org/resource/Roque_de_los_Muchachos_Observatory http://dbpedia.org/resource/Rogye_de_los_Muchachos_Observatory http://dbpedia.org/resource/Observatorio_del_Roque_de_los_Muchachos"

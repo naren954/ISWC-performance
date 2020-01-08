@@ -1,0 +1,14 @@
+F1: 0.84416,Precision: 0.84416,Recall: 0.84416,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,5,No One,http://dbpedia.org/resource/No_One_(Alicia_Keys_song),http://dbpedia.org/resource/No_One_(Game_of_Thrones) http://dbpedia.org/resource/Game_of_Thrones_Season_6_Episode_8_:_No_One
+1,14,Family,http://dbpedia.org/resource/Family_Guy,http://dbpedia.org/resource/Family_(Star_Trek:_The_Next_Generation) http://dbpedia.org/resource/Family_(TNG_episode)
+1,15,The Parents,,http://dbpedia.org/resource/The_Parents
+1,23,The Dead,http://dbpedia.org/resource/Red_Dead_Redemption,http://dbpedia.org/resource/The_Dead_(American_Horror_Story)
+1,36,Swan Song,http://dbpedia.org/resource/Swan_Song_(Supernatural),http://dbpedia.org/resource/Swan_Song_(Glee)
+1,37,Opening Night,http://dbpedia.org/resource/Opening_Night_(Smash),http://dbpedia.org/resource/Opening_Night_(Glee)
+1,49,Invasion,http://dbpedia.org/resource/The_Invasion_(Doctor_Who),http://dbpedia.org/resource/Invasion_(Grey's_Anatomy)
+1,51,Walkabout,http://dbpedia.org/resource/Walkabout_(Millennium),http://dbpedia.org/resource/Walkabout_(Lost) http://dbpedia.org/resource/Walkabout_(Lost_episode) http://dbpedia.org/resource/Lost_s01e04
+1,59,Remember Me,http://dbpedia.org/resource/Remember_Me_(2010_film),http://dbpedia.org/resource/Remember_Me_(TNG_episode) http://dbpedia.org/resource/Remember_Me_(Star_Trek:_The_Next_Generation)
+1,67,Alone,http://dbpedia.org/resource/Alone_(Heart_song),http://dbpedia.org/resource/Alone_(The_Walking_Dead)
+1,73,Lessons,http://dbpedia.org/resource/Lessons_(album),http://dbpedia.org/resource/Lessons_(Star_Trek:_The_Next_Generation) http://dbpedia.org/resource/Lessons_(TNG_episode)
+1,76,St. Patrick's Day,http://dbpedia.org/resource/St._Patrick's_Day_(The_Office),http://dbpedia.org/resource/St._Patrick's_Day_(30_Rock)

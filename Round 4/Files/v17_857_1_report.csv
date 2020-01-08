@@ -1,0 +1,5 @@
+"F1: 0.97761","Precision: 0.97761","Recall: 0.97761"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","77","Roberto","http://dbpedia.org/resource/Roberto_Marinho","http://dbpedia.org/resource/Roberto_(horse)"
+"1","91","Hastings","http://dbpedia.org/resource/John_Hastings,_2nd_Earl_of_Pembroke","http://dbpedia.org/resource/Hastings_(horse)"
+"1","129","Roberto","http://dbpedia.org/resource/Roberto_Marinho","http://dbpedia.org/resource/Roberto_(horse)"

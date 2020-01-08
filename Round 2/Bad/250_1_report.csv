@@ -1,0 +1,90 @@
+F1: 0.42105,Precision: 0.42105,Recall: 0.42105,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,A. Kroeker,http://dbpedia.org/resource/Joel_Kroeker,http://dbpedia.org/resource/Allan_Kroeker
+1,2,S. Schwartz,http://dbpedia.org/resource/Stephen_Schwartz_(composer),http://dbpedia.org/resource/Stefan_Schwartz
+1,3,J. Brahm,http://dbpedia.org/resource/Johannes_Brahms,http://dbpedia.org/resource/John_Brahm
+1,5,J. Brahm,http://dbpedia.org/resource/Johannes_Brahms,http://dbpedia.org/resource/John_Brahm
+1,6,D. Livingston,http://dbpedia.org/resource/Robert_Livingston_(actor),http://dbpedia.org/resource/David_Livingston_(producer) http://dbpedia.org/resource/David_Livingston http://dbpedia.org/resource/David_Livingston_(director)
+1,8,D. Carson,http://dbpedia.org/resource/Ben_Carson,http://dbpedia.org/resource/David_Carson_(director)
+1,10,A. Kroeker,http://dbpedia.org/resource/Joel_Kroeker,http://dbpedia.org/resource/Allan_Kroeker
+1,11,A. Singer,http://dbpedia.org/resource/Rolf_Singer,http://dbpedia.org/resource/Alexander_Singer
+1,12,R. Dawson,http://dbpedia.org/resource/Richard_Dawson,http://dbpedia.org/resource/Roxann_Dawson http://dbpedia.org/resource/Roxanne_dawson http://dbpedia.org/resource/Roxann_Biggs http://dbpedia.org/resource/Biggs-Dawson http://dbpedia.org/resource/Roxane_Dawson http://dbpedia.org/resource/Roxann_Caballero http://dbpedia.org/resource/Roxann_Biggs-Dawson
+1,16,J. A. Robinson,"http://dbpedia.org/resource/F._J._Robinson,_1st_Viscount_Goderich",http://dbpedia.org/resource/Julie_Anne_Robinson
+1,17,J. Taylor,http://dbpedia.org/resource/James_Taylor,http://dbpedia.org/resource/Judd_Taylor http://dbpedia.org/resource/Jud_Taylor
+1,18,H. Wallerstein,http://dbpedia.org/resource/Immanuel_Wallerstein,http://dbpedia.org/resource/Herb_Wallerstein
+1,21,L. Landau,http://dbpedia.org/resource/Martin_Landau,http://dbpedia.org/resource/Les_Landau
+1,30,B. Bain,http://dbpedia.org/resource/Barbara_Bain,http://dbpedia.org/resource/Bill_Bain_(director)
+1,31,A. Kroeker,http://dbpedia.org/resource/Joel_Kroeker,http://dbpedia.org/resource/Allan_Kroeker
+1,32,P. Edwards,http://pt.dbpedia.org/resource/Perrie_Edwards,http://dbpedia.org/resource/Paul_A._Edwards http://dbpedia.org/resource/Paul_Edwards_(cinematographer)
+1,33,A. Sakharov,http://dbpedia.org/resource/Andrei_Sakharov,http://dbpedia.org/resource/Alik_Sakharov
+1,36,D. Livingston,http://dbpedia.org/resource/Robert_Livingston_(actor),http://dbpedia.org/resource/David_Livingston_(producer) http://dbpedia.org/resource/David_Livingston http://dbpedia.org/resource/David_Livingston_(director)
+1,37,P. Hammond,http://dbpedia.org/resource/Kay_Hammond,http://dbpedia.org/resource/Peter_Charles_Hammond_Hill http://dbpedia.org/resource/Peter_Hammond_(actor) http://dbpedia.org/resource/Peter_Hammond_Hill http://dbpedia.org/resource/Peter_Charles_Hammond
+1,38,J. T. Kretchmer,http://dbpedia.org/resource/J._T._Walsh,http://dbpedia.org/resource/John_T._Kretchmer http://dbpedia.org/resource/John_Kretchmer
+1,40,R. Stevens,http://dbpedia.org/resource/Risë_Stevens,http://dbpedia.org/resource/Robert_Stevens_(director)
+1,43,A. Singer,http://dbpedia.org/resource/Rolf_Singer,http://dbpedia.org/resource/Alexander_Singer
+1,44,R. Dawson,http://dbpedia.org/resource/Richard_Dawson,http://dbpedia.org/resource/Roxann_Dawson http://dbpedia.org/resource/Roxanne_dawson http://dbpedia.org/resource/Roxann_Biggs http://dbpedia.org/resource/Biggs-Dawson http://dbpedia.org/resource/Roxane_Dawson http://dbpedia.org/resource/Roxann_Caballero http://dbpedia.org/resource/Roxann_Biggs-Dawson
+1,47,E. Keene,http://dbpedia.org/resource/Donald_Keene,http://dbpedia.org/resource/Elodie_Keene http://dbpedia.org/resource/Elodie_Keenee
+1,50,L. Landau,http://dbpedia.org/resource/Martin_Landau,http://dbpedia.org/resource/Les_Landau
+1,51,R. Wiemer,http://de.dbpedia.org/resource/Hans-Ulrich_Wiemer,http://dbpedia.org/resource/Robert_Wiemer
+1,52,D. Straiton,http://dbpedia.org/resource/Archie_W._Straiton,http://dbpedia.org/resource/David_Straiton
+1,53,P. Lafferty,http://de.dbpedia.org/resource/Marcy_Lafferty,http://dbpedia.org/resource/Perry_Lafferty
+1,55,M. Vejar,http://dbpedia.org/resource/Sergio_Véjar,http://dbpedia.org/resource/Michael_Vejar http://dbpedia.org/resource/Mike_Vejar http://dbpedia.org/resource/Michael_Laurence_Vejar
+1,59,P. Lynch,http://dbpedia.org/resource/John_Lynch_(actor),http://dbpedia.org/resource/Paul_Lynch_(director) http://dbpedia.org/resource/Paul_Lynch_(Director)
+1,61,D. Livingston,http://dbpedia.org/resource/Robert_Livingston_(actor),http://dbpedia.org/resource/David_Livingston_(producer) http://dbpedia.org/resource/David_Livingston http://dbpedia.org/resource/David_Livingston_(director)
+1,62,A. Kroeker,http://dbpedia.org/resource/Joel_Kroeker,http://dbpedia.org/resource/Allan_Kroeker
+1,65,M. Vejar,http://dbpedia.org/resource/Sergio_Véjar,http://dbpedia.org/resource/Michael_Vejar http://dbpedia.org/resource/Mike_Vejar http://dbpedia.org/resource/Michael_Laurence_Vejar
+1,66,A. Bernstein,http://dbpedia.org/resource/Leonard_Bernstein,http://dbpedia.org/resource/Adam_Bernstein
+1,68,P. Edwards,http://pt.dbpedia.org/resource/Perrie_Edwards,http://dbpedia.org/resource/Paul_A._Edwards http://dbpedia.org/resource/Paul_Edwards_(cinematographer)
+1,71,M. Pittman,http://dbpedia.org/resource/Lari_Pittman,http://dbpedia.org/resource/Montgomery_Pittman
+1,72,K. Friedman,http://dbpedia.org/resource/Peter_Friedman,http://dbpedia.org/resource/Kim_Friedman
+1,74,J. Thiessen,http://dbpedia.org/resource/Tiffani_Thiessen,http://dbpedia.org/resource/Jayson_Thiessen
+1,77,H. Wallerstein,http://dbpedia.org/resource/Immanuel_Wallerstein,http://dbpedia.org/resource/Herb_Wallerstein
+1,78,M. Vejar,http://dbpedia.org/resource/Sergio_Véjar,http://dbpedia.org/resource/Michael_Vejar http://dbpedia.org/resource/Mike_Vejar http://dbpedia.org/resource/Michael_Laurence_Vejar
+1,80,I. Brennan,http://dbpedia.org/resource/Eileen_Brennan,http://dbpedia.org/resource/Ian_Brennan_(Writer) http://dbpedia.org/resource/Ian_Brennan_(writer)
+1,81,A. Brooks,http://dbpedia.org/resource/Albert_Brooks,http://dbpedia.org/resource/Avery_Brooks http://dbpedia.org/resource/Avery_Franklin_Brooks
+1,83,M. O'Herlihy,http://dbpedia.org/resource/Dan_O'Herlihy,http://dbpedia.org/resource/Michael_O'Herlihy
+1,84,J. Richmond,http://dbpedia.org/resource/John_Richmond_(fashion_designer),http://dbpedia.org/resource/Jeff_Richmond
+1,85,L. Burton,http://dbpedia.org/resource/Kate_Burton_(actress),http://dbpedia.org/resource/Levarr_Burton http://dbpedia.org/resource/LeVarr_Burton http://dbpedia.org/resource/Levardis_Robert_Martyn_Burton_Jr http://dbpedia.org/resource/LeVar_Burton http://dbpedia.org/resource/Levardis_Burton http://dbpedia.org/resource/Reading_rainbow_dude http://dbpedia.org/resource/LeVar http://dbpedia.org/resource/Le_Var_Burton http://dbpedia.org/resource/Levar_Burton http://dbpedia.org/resource/Aftermath_(LeVar_Burton_novel) http://dbpedia.org/resource/Lavar_burton http://dbpedia.org/resource/Levar_burton
+1,87,J. Bruno,http://dbpedia.org/resource/Jimmy_Bruno,http://dbpedia.org/resource/John_Bruno_(special_effects_artist) http://dbpedia.org/resource/John_Bruno_(special_effects) http://dbpedia.org/resource/John_Bruno_(producer) http://dbpedia.org/resource/John_Bruno_(Special_Effects_Artist) http://dbpedia.org/resource/John_Bruno_(director)
+1,88,I. Brennan,http://dbpedia.org/resource/Eileen_Brennan,http://dbpedia.org/resource/Ian_Brennan_(Writer) http://dbpedia.org/resource/Ian_Brennan_(writer)
+1,90,A. Nimoy,http://dbpedia.org/resource/Leonard_Nimoy,http://dbpedia.org/resource/Adam_Nimoy
+1,91,L. Burton,http://dbpedia.org/resource/Kate_Burton_(actress),http://dbpedia.org/resource/Levarr_Burton http://dbpedia.org/resource/LeVarr_Burton http://dbpedia.org/resource/Levardis_Robert_Martyn_Burton_Jr http://dbpedia.org/resource/LeVar_Burton http://dbpedia.org/resource/Levardis_Burton http://dbpedia.org/resource/Reading_rainbow_dude http://dbpedia.org/resource/LeVar http://dbpedia.org/resource/Le_Var_Burton http://dbpedia.org/resource/Levar_Burton http://dbpedia.org/resource/Aftermath_(LeVar_Burton_novel) http://dbpedia.org/resource/Lavar_burton http://dbpedia.org/resource/Levar_burton
+1,92,L. Landau,http://dbpedia.org/resource/Martin_Landau,http://dbpedia.org/resource/Les_Landau
+1,94,J. L. Scanlan,http://dbpedia.org/resource/Emmett_J._Scanlan,http://dbpedia.org/resource/Joseph_L._Scanlan http://dbpedia.org/resource/Joseph_Scanlan
+1,96,J. Brahm,http://dbpedia.org/resource/Johannes_Brahms,http://dbpedia.org/resource/John_Brahm
+1,97,P. Jackson,http://dbpedia.org/resource/Peter_Jackson,http://dbpedia.org/resource/Paul_Jackson_(producer) http://dbpedia.org/resource/K._Paul_Jackson
+1,98,A. Kroeker,http://dbpedia.org/resource/Joel_Kroeker,http://dbpedia.org/resource/Allan_Kroeker
+1,99,L. Landau,http://dbpedia.org/resource/Martin_Landau,http://dbpedia.org/resource/Les_Landau
+1,100,A. Brooks,http://dbpedia.org/resource/Albert_Brooks,http://dbpedia.org/resource/Avery_Brooks http://dbpedia.org/resource/Avery_Franklin_Brooks
+1,101,R. Murphy,http://dbpedia.org/resource/Ralph_Murphy,http://dbpedia.org/resource/Ryan_Murphy_(television_creator) http://dbpedia.org/resource/Ryan_Murphy_(writer)
+1,103,A. Singer,http://dbpedia.org/resource/Rolf_Singer,http://dbpedia.org/resource/Alexander_Singer
+1,107,D. Lowney,http://dbpedia.org/resource/Garrett_Lowney,http://dbpedia.org/resource/Declan_Lowney
+1,108,L. Burton,http://dbpedia.org/resource/Kate_Burton_(actress),http://dbpedia.org/resource/Levarr_Burton http://dbpedia.org/resource/LeVarr_Burton http://dbpedia.org/resource/Levardis_Robert_Martyn_Burton_Jr http://dbpedia.org/resource/LeVar_Burton http://dbpedia.org/resource/Levardis_Burton http://dbpedia.org/resource/Reading_rainbow_dude http://dbpedia.org/resource/LeVar http://dbpedia.org/resource/Le_Var_Burton http://dbpedia.org/resource/Levar_Burton http://dbpedia.org/resource/Aftermath_(LeVar_Burton_novel) http://dbpedia.org/resource/Lavar_burton http://dbpedia.org/resource/Levar_burton
+1,110,A. Kroeker,http://dbpedia.org/resource/Joel_Kroeker,http://dbpedia.org/resource/Allan_Kroeker
+1,111,J. Riggi,http://dbpedia.org/resource/Chris_Riggi,http://dbpedia.org/resource/John_Riggi
+1,112,R. Murphy,http://dbpedia.org/resource/Ralph_Murphy,http://dbpedia.org/resource/Ryan_Murphy_(television_creator) http://dbpedia.org/resource/Ryan_Murphy_(writer)
+1,113,A. Kroeker,http://dbpedia.org/resource/Joel_Kroeker,http://dbpedia.org/resource/Allan_Kroeker
+1,114,C. Chalmers,http://dbpedia.org/resource/David_Chalmers,http://dbpedia.org/resource/Chip_Chalmers
+1,116,M. Leder,http://dbpedia.org/resource/Mustafa_Kemal_Atatürk,http://dbpedia.org/resource/Mimi_Leder
+1,118,K. Friedman,http://dbpedia.org/resource/Peter_Friedman,http://dbpedia.org/resource/Kim_Friedman
+1,119,R. Harris,http://dbpedia.org/resource/Richard_Harris,http://dbpedia.org/resource/Richard_Harris_(television_writer)
+1,121,K. Gaviola,http://dbpedia.org/resource/Enrique_Gaviola,http://dbpedia.org/resource/Karen_Gaviola
+1,123,J. Kerwin,http://dbpedia.org/resource/Brian_Kerwin,http://dbpedia.org/resource/James_Kerwin
+1,124,D. Alexander,http://dbpedia.org/resource/Danny_Alexander,http://dbpedia.org/resource/David_Alexander_(director)
+1,125,J. L. Conway,http://dbpedia.org/resource/John_Horton_Conway,http://dbpedia.org/resource/James_L._Conway
+1,128,C. Makris,http://dbpedia.org/resource/Dimitrios_Makris,http://dbpedia.org/resource/Gus_Makris http://dbpedia.org/resource/Constantine_Makris
+1,130,T. Windell,http://dbpedia.org/resource/Alex_Windell,http://dbpedia.org/resource/Terry_Windell
+1,131,M. Vejar,http://dbpedia.org/resource/Sergio_Véjar,http://dbpedia.org/resource/Michael_Vejar http://dbpedia.org/resource/Mike_Vejar http://dbpedia.org/resource/Michael_Laurence_Vejar
+1,132,D. Livingston,http://dbpedia.org/resource/Robert_Livingston_(actor),http://dbpedia.org/resource/David_Livingston_(producer) http://dbpedia.org/resource/David_Livingston http://dbpedia.org/resource/David_Livingston_(director)
+1,133,T. Bond,http://dbpedia.org/resource/Samantha_Bond,http://dbpedia.org/resource/Timothy_Bond
+1,135,B. Bain,http://dbpedia.org/resource/Barbara_Bain,http://dbpedia.org/resource/Bill_Bain_(director)
+1,137,J. Riggi,http://dbpedia.org/resource/Chris_Riggi,http://dbpedia.org/resource/John_Riggi
+1,139,B. Kulik,http://dbpedia.org/resource/Grigory_Kulik,http://dbpedia.org/resource/Buzz_Kulik
+1,140,H. Dale,http://dbpedia.org/resource/Henry_Hallett_Dale,http://dbpedia.org/resource/Holly_Dale
+1,143,M. Morris,http://dbpedia.org/resource/William_Morris,http://dbpedia.org/resource/Michael_Morris_(director)
+1,146,L. Burton,http://dbpedia.org/resource/Kate_Burton_(actress),http://dbpedia.org/resource/Levarr_Burton http://dbpedia.org/resource/LeVarr_Burton http://dbpedia.org/resource/Levardis_Robert_Martyn_Burton_Jr http://dbpedia.org/resource/LeVar_Burton http://dbpedia.org/resource/Levardis_Burton http://dbpedia.org/resource/Reading_rainbow_dude http://dbpedia.org/resource/LeVar http://dbpedia.org/resource/Le_Var_Burton http://dbpedia.org/resource/Levar_Burton http://dbpedia.org/resource/Aftermath_(LeVar_Burton_novel) http://dbpedia.org/resource/Lavar_burton http://dbpedia.org/resource/Levar_burton
+1,147,A. Singer,http://dbpedia.org/resource/Rolf_Singer,http://dbpedia.org/resource/Alexander_Singer
+1,148,L. Landau,http://dbpedia.org/resource/Martin_Landau,http://dbpedia.org/resource/Les_Landau
+1,149,S. Clarkson,http://dbpedia.org/resource/Patricia_Clarkson,http://dbpedia.org/resource/S._J._Clarkson http://dbpedia.org/resource/S.J._Clarkson http://dbpedia.org/resource/SJ_Clarkson
+1,151,R. Murphy,http://dbpedia.org/resource/Ralph_Murphy,http://dbpedia.org/resource/Ryan_Murphy_(television_creator) http://dbpedia.org/resource/Ryan_Murphy_(writer)
+1,152,D. Livingston,http://dbpedia.org/resource/Robert_Livingston_(actor),http://dbpedia.org/resource/David_Livingston_(producer) http://dbpedia.org/resource/David_Livingston http://dbpedia.org/resource/David_Livingston_(director)

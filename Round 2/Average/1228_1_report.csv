@@ -1,0 +1,45 @@
+F1: 0.70748,Precision: 0.70748,Recall: 0.70748,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,36,A. Wheeler,http://dbpedia.org/resource/John_Archibald_Wheeler,http://dbpedia.org/resource/Adam_Wheeler
+1,40,R. Tyumenbayev,,http://dbpedia.org/resource/Ruslan_Tyumenbayev http://dbpedia.org/resource/Ruslan_Tumenbaev http://dbpedia.org/resource/Ruslan_Tyumenbaev http://dbpedia.org/resource/Ruslan_Tiumenbaev
+1,53,D. Musuľbes,http://dbpedia.org/resource/David_Musulbes,http://dbpedia.org/resource/David_Musuľbes
+1,54,A. Wheeler,http://dbpedia.org/resource/John_Archibald_Wheeler,http://dbpedia.org/resource/Adam_Wheeler
+1,58,R. Tyumenbayev,,http://dbpedia.org/resource/Ruslan_Tyumenbayev http://dbpedia.org/resource/Ruslan_Tumenbaev http://dbpedia.org/resource/Ruslan_Tyumenbaev http://dbpedia.org/resource/Ruslan_Tiumenbaev
+1,63,A. Gomis,http://dbpedia.org/resource/Alfred_Gomis,http://dbpedia.org/resource/Anna_Gomis
+1,69,K. Inoue,http://dbpedia.org/resource/Kōsei_Inoue,http://dbpedia.org/resource/Kenji_Inoue_(wrestling) http://dbpedia.org/resource/Kenji_Inoue
+1,75,M. Manukyan,http://dbpedia.org/resource/Maksim_Manukyan,http://dbpedia.org/resource/Mkhitar_Manukyan http://dbpedia.org/resource/Mkkhitar_Manukyan
+1,76,A. Nazaryan,http://dbpedia.org/resource/Armen_Nazaryan_(judoka),http://dbpedia.org/resource/Armen_Nazaryan http://dbpedia.org/resource/Armen_Nazarian
+1,77,A. Kiouregkian,http://dbpedia.org/resource/Artyom_Kyuregyan,http://dbpedia.org/resource/Artiom_Kiouregkian
+1,78,R. Gardner,http://dbpedia.org/resource/Randy_Gardner_(figure_skater),http://dbpedia.org/resource/Rulon_Gardner
+1,81,A. Gomis,http://dbpedia.org/resource/Alfred_Gomis,http://dbpedia.org/resource/Anna_Gomis
+1,87,K. Inoue,http://dbpedia.org/resource/Kōsei_Inoue,http://dbpedia.org/resource/Kenji_Inoue_(wrestling) http://dbpedia.org/resource/Kenji_Inoue
+1,93,M. Manukyan,http://dbpedia.org/resource/Maksim_Manukyan,http://dbpedia.org/resource/Mkhitar_Manukyan http://dbpedia.org/resource/Mkkhitar_Manukyan
+1,94,A. Nazaryan,http://dbpedia.org/resource/Armen_Nazaryan_(judoka),http://dbpedia.org/resource/Armen_Nazaryan http://dbpedia.org/resource/Armen_Nazarian
+1,95,A. Kiouregkian,http://dbpedia.org/resource/Artyom_Kyuregyan,http://dbpedia.org/resource/Artiom_Kiouregkian
+1,96,R. Gardner,http://dbpedia.org/resource/Randy_Gardner_(figure_skater),http://dbpedia.org/resource/Rulon_Gardner
+1,97,O. Müller,http://dbpedia.org/resource/Oskar_Müller,http://dbpedia.org/resource/Otto_Muller_(wrestler) http://dbpedia.org/resource/Otto_Müller_(wrestler)
+1,98,V. Pekkala,http://dbpedia.org/resource/Kaarle_Pekkala,http://dbpedia.org/resource/Vilho_F._Pekkala http://dbpedia.org/resource/Vilho_Pekkala
+1,100,C. Courant,http://dbpedia.org/resource/Richard_Courant,http://dbpedia.org/resource/Charles_Courant
+1,101,A. McDonald,http://dbpedia.org/resource/Alan_McDonald_(Northern_Ireland_footballer),http://dbpedia.org/resource/Andrew_McDonald_(sport_wrestler) http://dbpedia.org/resource/Archie_MacDonald_(wrestler) http://dbpedia.org/resource/Andrew_McDonald_(wrestler)
+1,102,K. Naito,http://dbpedia.org/resource/Mami_Naito,http://dbpedia.org/resource/Katsutoshi_Naito
+1,105,K. Westerlund,http://dbpedia.org/resource/Ernst_Westerlund,http://dbpedia.org/resource/Kalle_Westerlund http://dbpedia.org/resource/Källe_Westerlund http://dbpedia.org/resource/Karl_Westerlund
+1,108,E. Malmberg,http://dbpedia.org/resource/Erik_Malmberg,http://dbpedia.org/resource/Eric_Malmberg
+1,109,V. Ikonen,http://dbpedia.org/resource/Johanna_Ikonen,http://dbpedia.org/resource/Väinö_Ikonen http://dbpedia.org/resource/Vaino_Ikonen
+1,110,O. Müller,http://dbpedia.org/resource/Oskar_Müller,http://dbpedia.org/resource/Otto_Muller_(wrestler) http://dbpedia.org/resource/Otto_Müller_(wrestler)
+1,111,V. Pekkala,http://dbpedia.org/resource/Kaarle_Pekkala,http://dbpedia.org/resource/Vilho_F._Pekkala http://dbpedia.org/resource/Vilho_Pekkala
+1,113,C. Courant,http://dbpedia.org/resource/Richard_Courant,http://dbpedia.org/resource/Charles_Courant
+1,114,A. McDonald,http://dbpedia.org/resource/Alan_McDonald_(Northern_Ireland_footballer),http://dbpedia.org/resource/Andrew_McDonald_(sport_wrestler) http://dbpedia.org/resource/Archie_MacDonald_(wrestler) http://dbpedia.org/resource/Andrew_McDonald_(wrestler)
+1,115,K. Naito,http://dbpedia.org/resource/Mami_Naito,http://dbpedia.org/resource/Katsutoshi_Naito
+1,118,K. Westerlund,http://dbpedia.org/resource/Ernst_Westerlund,http://dbpedia.org/resource/Kalle_Westerlund http://dbpedia.org/resource/Källe_Westerlund http://dbpedia.org/resource/Karl_Westerlund
+1,121,E. Malmberg,http://dbpedia.org/resource/Erik_Malmberg,http://dbpedia.org/resource/Eric_Malmberg
+1,122,V. Ikonen,http://dbpedia.org/resource/Johanna_Ikonen,http://dbpedia.org/resource/Väinö_Ikonen http://dbpedia.org/resource/Vaino_Ikonen
+1,123,C. Johnson,http://dbpedia.org/resource/Carl_Johnson_(soccer),http://dbpedia.org/resource/Charles_Johnson_(wrestler) http://dbpedia.org/resource/Charley_Johnson_(wrestler) http://dbpedia.org/resource/Charley_Johnson_(sport_wrestler)
+1,124,P. Wright,http://dbpedia.org/resource/Peter_Wright_(swimmer),http://dbpedia.org/resource/Peter_Wright_(sport_wrestler) http://dbpedia.org/resource/Peter_Wright_(wrestler)
+1,127,P. Bernard,http://dbpedia.org/resource/Pierre_Bernard_(graphic_designer),http://dbpedia.org/resource/Philip_Bernard http://dbpedia.org/resource/Phillip_Bernard
+1,130,J. Eriksen,http://dbpedia.org/resource/John_Eriksen,http://dbpedia.org/resource/Johannes_Eriksen
+1,131,M. Nieminen,http://dbpedia.org/resource/Minna_Nieminen,http://dbpedia.org/resource/Martti_Nieminen http://dbpedia.org/resource/Martin_Nieminen
+1,133,C. Johnson,http://dbpedia.org/resource/Carl_Johnson_(soccer),http://dbpedia.org/resource/Charles_Johnson_(wrestler) http://dbpedia.org/resource/Charley_Johnson_(wrestler) http://dbpedia.org/resource/Charley_Johnson_(sport_wrestler)
+1,134,P. Wright,http://dbpedia.org/resource/Peter_Wright_(swimmer),http://dbpedia.org/resource/Peter_Wright_(sport_wrestler) http://dbpedia.org/resource/Peter_Wright_(wrestler)
+1,137,P. Bernard,http://dbpedia.org/resource/Pierre_Bernard_(graphic_designer),http://dbpedia.org/resource/Philip_Bernard http://dbpedia.org/resource/Phillip_Bernard
+1,140,J. Eriksen,http://dbpedia.org/resource/John_Eriksen,http://dbpedia.org/resource/Johannes_Eriksen
+1,141,M. Nieminen,http://dbpedia.org/resource/Minna_Nieminen,http://dbpedia.org/resource/Martti_Nieminen http://dbpedia.org/resource/Martin_Nieminen

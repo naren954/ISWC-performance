@@ -1,0 +1,14 @@
+F1: 0.73333,Precision: 0.73333,Recall: 0.73333,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,4,Bill Baxter,http://dbpedia.org/resource/Bill_Baxter_(Victorian_politician),http://dbpedia.org/resource/Bill_Baxter_(politician)
+0,6,Mark Birrell,http://dbpedia.org/resource/Augustine_Birrell,http://dbpedia.org/resource/MARK_BIRRELL http://dbpedia.org/resource/Mark_Birrell
+0,8,Ron Bowden,"http://dbpedia.org/resource/B._V._Bowden,_Baron_Bowden",http://dbpedia.org/resource/Ron_Bowden http://dbpedia.org/resource/Ronald_Henry_Bowden
+0,11,Bruce Chamberlain,http://dbpedia.org/resource/Neville_Chamberlain,http://dbpedia.org/resource/Bruce_Anthony_Chamberlain http://dbpedia.org/resource/Bruce_Chamberlain
+0,13,George Cox,http://dbpedia.org/resource/George_Cox_(New_South_Wales_politician),http://dbpedia.org/resource/George_Cox_(Victorian_politician)
+0,18,David Evans,http://dbpedia.org/resource/David_Evans_(Western_Australian_politician),http://dbpedia.org/resource/David_Evans_(Victorian_politician) http://dbpedia.org/resource/David_Mylor_Evans
+0,19,Bill Forwood,http://dbpedia.org/resource/Arthur_Forwood,http://dbpedia.org/resource/Bill_Forwood
+0,21,James Guest,http://dbpedia.org/resource/James_A._Guest,http://dbpedia.org/resource/James_Guest http://dbpedia.org/resource/James_Vincent_Chester_Guest http://dbpedia.org/resource/James_Guest_(politician)
+0,23,Roger Hallam,http://dbpedia.org/resource/Roger_Hallam_(Australian_politician),http://dbpedia.org/resource/Roger_Hallam http://dbpedia.org/resource/Roger_Murray_Hallam
+0,25,David Henshaw,http://dbpedia.org/resource/David_Henshaw_(American_politician),http://dbpedia.org/resource/David_Ernest_Henshaw http://dbpedia.org/resource/David_Henshaw_(Australian_politician)
+0,33,Don Nardella,http://dbpedia.org/resource/Dario_Nardella,http://dbpedia.org/resource/Don_Nardella http://dbpedia.org/resource/Donato_Nardella http://dbpedia.org/resource/Donato_Antonio_Nardella
+0,37,Ken Smith,http://dbpedia.org/resource/Kenneth_J._Smith,"http://dbpedia.org/resource/Kenneth_Smith http://dbpedia.org/resource/Ken_Smith_(politician) http://dbpedia.org/resource/Ken_Smith_(disambiguation) http://dbpedia.org/resource/Kenneth_Smith_(disambiguation) http://dbpedia.org/resource/Kenny_Smith_(disambiguation) http://dbpedia.org/resource/Ken_Smith http://dbpedia.org/resource/Smith,_Kenneth http://dbpedia.org/resource/Ken_Smith_(basketball)"

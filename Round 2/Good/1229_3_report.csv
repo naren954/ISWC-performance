@@ -1,0 +1,36 @@
+F1: 0.78882,Precision: 0.78882,Recall: 0.78882,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,1,M. Klein,"http://dbpedia.org/resource/Michael_Klein_(footballer,_born_1959)",http://dbpedia.org/resource/Martin_Klein_(wrestler)
+3,2,G. Malmström,http://dbpedia.org/resource/Karl_Malmström,http://dbpedia.org/resource/Gustaf_Malmstroem http://dbpedia.org/resource/Gustaf_Malmstrom http://dbpedia.org/resource/Gustaf_Malmström
+3,3,A. Ahlgren,http://dbpedia.org/resource/George_Ahlgren,http://dbpedia.org/resource/Anders_Ahlgren
+3,4,J. Olin,http://dbpedia.org/resource/Jim_Olin,http://dbpedia.org/resource/Johan_Olin
+3,7,W. Wood,http://dbpedia.org/resource/Warren_Wood,http://dbpedia.org/resource/William_Wood_(wrestler)
+3,8,J. Gundersen,http://dbpedia.org/resource/Trude_Gundersen,http://dbpedia.org/resource/Jacob_Gundersen
+3,10,W. Press,http://dbpedia.org/resource/William_J._Press,http://dbpedia.org/resource/William_Press http://dbpedia.org/resource/William_H._Press
+3,11,A. Petrov,http://dbpedia.org/resource/Aleksey_Petrov_(weightlifter),http://dbpedia.org/resource/Aleksandr_Petrov_(wrestler)
+3,12,M. Andersson,"http://dbpedia.org/resource/Magnus_Andersson_(footballer,_born_1958)",http://dbpedia.org/resource/Mauritz_Andersson
+3,13,N. Orlov,http://dbpedia.org/resource/Nikolai_Orlov_(pianist),http://dbpedia.org/resource/Nikolay_Orlov_(wrestler)
+3,16,W. Wood,http://dbpedia.org/resource/Warren_Wood,http://dbpedia.org/resource/William_Wood_(wrestler)
+3,17,J. Gundersen,http://dbpedia.org/resource/Trude_Gundersen,http://dbpedia.org/resource/Jacob_Gundersen
+3,19,W. Press,http://dbpedia.org/resource/William_J._Press,http://dbpedia.org/resource/William_Press http://dbpedia.org/resource/William_H._Press
+3,20,A. Petrov,http://dbpedia.org/resource/Aleksey_Petrov_(weightlifter),http://dbpedia.org/resource/Aleksandr_Petrov_(wrestler)
+3,21,M. Andersson,"http://dbpedia.org/resource/Magnus_Andersson_(footballer,_born_1958)",http://dbpedia.org/resource/Mauritz_Andersson
+3,22,N. Orlov,http://dbpedia.org/resource/Nikolai_Orlov_(pianist),http://dbpedia.org/resource/Nikolay_Orlov_(wrestler)
+3,24,W. Beckmann,http://dbpedia.org/resource/Gudrun_Beckmann,http://dbpedia.org/resource/William_Beckman http://dbpedia.org/resource/William_Beckmann
+3,28,A. Wester,http://dbpedia.org/resource/Alexandra_Wester,http://dbpedia.org/resource/August_Wester
+3,29,W. Beckmann,http://dbpedia.org/resource/Gudrun_Beckmann,http://dbpedia.org/resource/William_Beckman http://dbpedia.org/resource/William_Beckmann
+3,33,A. Wester,http://dbpedia.org/resource/Alexandra_Wester,http://dbpedia.org/resource/August_Wester
+3,41,K. Min-jae,http://dbpedia.org/resource/Kim_Min-jae_(baseball),http://dbpedia.org/resource/Kim_Min-jae_(weightlifter) http://dbpedia.org/resource/Kim_Min-Jae_(weightlifter)
+3,45,Ó. Figueroa,http://dbpedia.org/resource/Carlos_Figueroa_(equestrian),http://dbpedia.org/resource/Óscar_Figueroa_(weightlifter) http://dbpedia.org/resource/Oscar_Albeiro_Figueroa http://dbpedia.org/resource/Oscar_Figueroa_(weightlifter) http://dbpedia.org/resource/Óscar_Figueroa_(athlete)
+3,56,K. Min-jae,http://dbpedia.org/resource/Kim_Min-jae_(baseball),http://dbpedia.org/resource/Kim_Min-jae_(weightlifter) http://dbpedia.org/resource/Kim_Min-Jae_(weightlifter)
+3,60,Ó. Figueroa,http://dbpedia.org/resource/Carlos_Figueroa_(equestrian),http://dbpedia.org/resource/Óscar_Figueroa_(weightlifter) http://dbpedia.org/resource/Oscar_Albeiro_Figueroa http://dbpedia.org/resource/Oscar_Figueroa_(weightlifter) http://dbpedia.org/resource/Óscar_Figueroa_(athlete)
+3,71,H. A. Tuấn,http://dbpedia.org/resource/Võ_Huy_Toàn,http://dbpedia.org/resource/Hoang_Anh_Tuan http://dbpedia.org/resource/Hoàng_Anh_Tuấn http://dbpedia.org/resource/Ahn_Taun_Hoang http://dbpedia.org/resource/Anh_Tuan_Hoang http://dbpedia.org/resource/Hoang_anh_tuan http://dbpedia.org/resource/Ahn_Tuan_Hoang
+3,81,H. A. Tuấn,http://dbpedia.org/resource/Võ_Huy_Toàn,http://dbpedia.org/resource/Hoang_Anh_Tuan http://dbpedia.org/resource/Hoàng_Anh_Tuấn http://dbpedia.org/resource/Ahn_Taun_Hoang http://dbpedia.org/resource/Anh_Tuan_Hoang http://dbpedia.org/resource/Hoang_anh_tuan http://dbpedia.org/resource/Ahn_Tuan_Hoang
+3,116,V. Popova,http://dbpedia.org/resource/Valentina_Popova_(table_tennis),http://dbpedia.org/resource/Valentina_Popova
+3,118,L. Feng-ying,http://dbpedia.org/resource/Matthieu_Lo_Ying_Ping,http://dbpedia.org/resource/Li_Fengying http://dbpedia.org/resource/Feng-Ying_Li http://dbpedia.org/resource/Li_Feng-ying
+3,124,G. Markov,http://fr.dbpedia.org/resource/Guéorgui_Markov,http://dbpedia.org/resource/Georgi_Markov_(weightlifter)
+3,125,L. Sampanis,,http://dbpedia.org/resource/Leonidas_Sampanis http://dbpedia.org/resource/Sabanis http://dbpedia.org/resource/Luan_Shabani http://dbpedia.org/resource/Leonidas_Sabanis http://dbpedia.org/resource/Luan_shabani
+3,131,V. Popova,http://dbpedia.org/resource/Valentina_Popova_(table_tennis),http://dbpedia.org/resource/Valentina_Popova
+3,133,L. Feng-ying,http://dbpedia.org/resource/Matthieu_Lo_Ying_Ping,http://dbpedia.org/resource/Li_Fengying http://dbpedia.org/resource/Feng-Ying_Li http://dbpedia.org/resource/Li_Feng-ying
+3,139,G. Markov,http://fr.dbpedia.org/resource/Guéorgui_Markov,http://dbpedia.org/resource/Georgi_Markov_(weightlifter)
+3,140,L. Sampanis,,http://dbpedia.org/resource/Leonidas_Sampanis http://dbpedia.org/resource/Sabanis http://dbpedia.org/resource/Luan_Shabani http://dbpedia.org/resource/Leonidas_Sabanis http://dbpedia.org/resource/Luan_shabani

@@ -1,0 +1,15 @@
+F1: 0.76364,Precision: 0.76364,Recall: 0.76364,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,6,You're My Number One,http://dbpedia.org/resource/You're_My_Number_One,http://dbpedia.org/resource/You're_My_Number_One_(song)
+0,8,You're My Man,http://dbpedia.org/resource/Stars_on_45_(song),http://dbpedia.org/resource/You're_My_Man
+0,13,You're My Best Friend,http://dbpedia.org/resource/You're_My_Best_Friend_(Queen_song),http://dbpedia.org/resource/You're_My_Best_Friend_(Don_Williams_song)
+0,16,You're Lookin' at Me,http://dbpedia.org/resource/You're_Lookin'_at_Country,http://dbpedia.org/resource/You're_Lookin'_at_Me_(A_Collection_of_Nat_King_Cole_Songs)
+0,24,You're Gonna Get Rocked!,http://dbpedia.org/resource/You're_Gonna_Get_It!,http://dbpedia.org/resource/You're_Gonna_Get_Rocked!_(song) http://dbpedia.org/resource/You're_Gonna_Get_Rocked!_(Single) http://dbpedia.org/resource/You're_Gonna_Get_Rocked!_(single)
+0,26,You're Gonna Change,http://dbpedia.org/resource/If_You're_Gonna_Play_in_Texas_(You_Gotta_Have_a_Fiddle_in_the_Band),http://dbpedia.org/resource/You're_Gonna_Change_(Or_I'm_Gonna_Leave)
+0,27,You're Gonna Be,http://dbpedia.org/resource/If_You're_Gonna_Play_in_Texas_(You_Gotta_Have_a_Fiddle_in_the_Band),http://dbpedia.org/resource/You're_Gonna_Be_(Always_Loved_by_Me)
+0,31,You're Everything,http://dbpedia.org/resource/Light_as_a_Feather,http://dbpedia.org/resource/You're_Everything_(Berlin_Jazz_Orchestra_CD) http://dbpedia.org/resource/You're_Everything_(album)
+0,35,You're Beautiful,http://dbpedia.org/resource/You're_Beautiful,http://dbpedia.org/resource/You're_Beautiful_(Nathaniel_Willemse_song)
+0,37,"You're Awful, I Love You",http://dbpedia.org/resource/I_Can_Tell_by_the_Way_You_Dance_(You're_Gonna_Love_Me_Tonight),"http://dbpedia.org/resource/You're_Awful,_I_Love_You"
+0,42,You're All I Have,http://dbpedia.org/resource/Eyes_Open,http://dbpedia.org/resource/You're_All_I_Have http://dbpedia.org/resource/YAIH
+0,48,You'll Never Know,http://dbpedia.org/resource/You'll_Never_Know_(1927_song),http://dbpedia.org/resource/You'll_Never_Know_(Kim_Richey_song) http://dbpedia.org/resource/You'll_Never_Know_(Mindy_McCready_song)
+0,50,You'll Never Get to Heaven,http://dbpedia.org/resource/Make_Way_for_Dionne_Warwick,http://dbpedia.org/resource/You'll_Never_Get_to_Heaven_(If_You_Break_My_Heart)

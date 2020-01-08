@@ -1,0 +1,8 @@
+F1: 0.73913,Precision: 0.73913,Recall: 0.73913,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,C. Michel,http://dbpedia.org/resource/Claude-Étienne_Michel,http://dbpedia.org/resource/F._Curtis_Michel http://dbpedia.org/resource/Curt_Michel http://dbpedia.org/resource/Curtis_Michel
+0,4,C. Williams,http://dbpedia.org/resource/C._K._Williams,"http://dbpedia.org/resource/Clifton_Williams http://dbpedia.org/resource/Clifton_C._Williams http://dbpedia.org/resource/Clifton_Curtis_Williams http://dbpedia.org/resource/Clifton_C._Williams,_Jr. http://dbpedia.org/resource/Clifton_C._Williams_Jr."
+0,5,C. E. Jones,http://dbpedia.org/resource/David_C._Jones,"http://dbpedia.org/resource/Colonel_Charles_Edward_(""Chuck"")_Jones http://dbpedia.org/resource/Charles_Edward_Jones http://dbpedia.org/resource/Charles_Jones_(American_astronaut) http://dbpedia.org/resource/Charles_Edward_(""Chuck"")_Jones http://dbpedia.org/resource/Charles_Jones_(astronaut)"
+0,9,B. Peterson,http://dbpedia.org/resource/Bob_Peterson_(basketball),http://dbpedia.org/resource/Bruce_A._Peterson http://dbpedia.org/resource/Bruce_Peterson
+0,13,B. Bridgeman,http://dbpedia.org/resource/Orlando_Bridgeman_(RAF_officer),http://dbpedia.org/resource/Bill_Bridgeman
+0,19,A. S. White,http://dbpedia.org/resource/Andrew_Dickson_White,http://dbpedia.org/resource/Alvin_S._White http://dbpedia.org/resource/Alvin_White

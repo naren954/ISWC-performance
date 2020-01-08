@@ -1,0 +1,16 @@
+F1: 0.85567,Precision: 0.85567,Recall: 0.85567,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,32,B. Heiden,http://dbpedia.org/resource/Eric_Heiden,http://dbpedia.org/resource/Beth_Heiden
+1,33,S. Becker,http://dbpedia.org/resource/Sean_Becker,http://dbpedia.org/resource/Sabine_Becker
+1,41,B. Heiden,http://dbpedia.org/resource/Eric_Heiden,http://dbpedia.org/resource/Beth_Heiden
+1,42,S. Becker,http://dbpedia.org/resource/Sean_Becker,http://dbpedia.org/resource/Sabine_Becker
+1,50,L. Korsmo-Berg,http://dbpedia.org/resource/Lev_Berg,http://dbpedia.org/resource/Lisbeth_Berg http://dbpedia.org/resource/Lisbeth_Korsmo http://dbpedia.org/resource/Lisbeth_Korsmo-Berg
+1,52,S. Young,"http://dbpedia.org/resource/Scott_Young_(ice_hockey,_born_1967)",http://dbpedia.org/resource/Sheila_Young_Ochowitz http://dbpedia.org/resource/Sheila_Young
+1,56,V. Muratov,http://dbpedia.org/resource/Valentin_Muratov,http://dbpedia.org/resource/Valery_Muratov
+1,59,L. Korsmo-Berg,http://dbpedia.org/resource/Lev_Berg,http://dbpedia.org/resource/Lisbeth_Berg http://dbpedia.org/resource/Lisbeth_Korsmo http://dbpedia.org/resource/Lisbeth_Korsmo-Berg
+1,61,S. Young,"http://dbpedia.org/resource/Scott_Young_(ice_hockey,_born_1967)",http://dbpedia.org/resource/Sheila_Young_Ochowitz http://dbpedia.org/resource/Sheila_Young
+1,65,V. Muratov,http://dbpedia.org/resource/Valentin_Muratov,http://dbpedia.org/resource/Valery_Muratov
+1,70,A. Henning,http://dbpedia.org/resource/Rüdiger_Henning,http://dbpedia.org/resource/Anne_Henning http://dbpedia.org/resource/Anne_Elisabeth_Henning
+1,71,V. Muratov,http://dbpedia.org/resource/Valentin_Muratov,http://dbpedia.org/resource/Valery_Muratov
+1,78,A. Henning,http://dbpedia.org/resource/Rüdiger_Henning,http://dbpedia.org/resource/Anne_Henning http://dbpedia.org/resource/Anne_Elisabeth_Henning
+1,79,V. Muratov,http://dbpedia.org/resource/Valentin_Muratov,http://dbpedia.org/resource/Valery_Muratov

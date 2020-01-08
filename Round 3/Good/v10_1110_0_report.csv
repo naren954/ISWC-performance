@@ -1,0 +1,5 @@
+F1: 0.88889,Precision: 0.88889,Recall: 0.88889,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Billy,http://dbpedia.org/resource/Billy_Budd_(opera),http://dbpedia.org/resource/Billy_(musical)
+0,7,Bend It Like Beckham the Musical,http://dbpedia.org/resource/Bend_It_Like_Beckham:_The_Musical,http://dbpedia.org/resource/Bend_It_Like_Beckham_(musical) http://dbpedia.org/resource/Bend_It_Like_Beckham_the_Musical
+0,23,Annie Warbucks,http://dbpedia.org/resource/Annie_(musical),http://dbpedia.org/resource/Annie_Warbucks

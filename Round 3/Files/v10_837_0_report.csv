@@ -1,0 +1,5 @@
+"F1: 0.95890","Precision: 0.95890","Recall: 0.95890"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","3","Rule","http://dbpedia.org/resource/Glenn_Rule","http://dbpedia.org/resource/Rule_(horse)"
+"0","17","Roberto","http://dbpedia.org/resource/Roberto_Marinho","http://dbpedia.org/resource/Roberto_(horse)"
+"0","50","Rachel's Valentina","http://dbpedia.org/resource/Rachel_Alexandra","http://dbpedia.org/resource/Rachel's_Valentina"

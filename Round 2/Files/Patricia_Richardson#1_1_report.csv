@@ -1,0 +1,4 @@
+"F1: 0.85714","Precision: 0.85714","Recall: 0.85714"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","2","Double Trouble","http://dbpedia.org/resource/Double_Trouble_(American_TV_series)","http://dbpedia.org/resource/Double_Trouble_(U.S._TV_series)"
+"1","15","Last Man Standing","http://dbpedia.org/resource/Last_Man_Standing_(American_TV_series)","http://dbpedia.org/resource/LMS_us_tv http://dbpedia.org/resource/Last_Man_Standing_(US_TV_series) http://dbpedia.org/resource/Last_Man_Standing_(U.S._TV_series)"

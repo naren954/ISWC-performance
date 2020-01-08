@@ -1,0 +1,6 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,2,"Cha cha\/ \Tilt Ya Head Back\""""",http://dbpedia.org/resource/Tilt_Ya_Head_Back,http://dbpedia.org/resource/Cha-cha-chá_(Cuban_dance) http://dbpedia.org/resource/Cha-cha-cha_(dance) http://dbpedia.org/resource/The_Cha_Cha http://dbpedia.org/resource/Cha-cha-cha_(Cuban_dance)
+1,3,"Quickstep\/ \I Want You to Want Me\""""",http://dbpedia.org/resource/(I_Don't_Want_to_Love_You_But)_You_Got_Me_Anyway,http://dbpedia.org/resource/Quickstep http://dbpedia.org/resource/Quickstep_(dance)
+1,5,"Jive\/ \Call Me the Breeze\""""",http://dbpedia.org/resource/Call_Me_the_Breeze,http://dbpedia.org/resource/Jive_(dance)
+1,7,"Jitterbug\/ \Big Time Operator\""""",http://dbpedia.org/resource/Big_Time_(C._C._Catch_song),http://dbpedia.org/resource/Jitterbug_(dance) http://dbpedia.org/resource/Jitterbugging http://dbpedia.org/resource/Jitterbug http://dbpedia.org/resource/Jitterbug_(dance_move)

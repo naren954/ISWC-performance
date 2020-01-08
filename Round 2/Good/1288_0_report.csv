@@ -1,0 +1,6 @@
+F1: 0.86667,Precision: 0.86667,Recall: 0.86667,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,5,A. Keyserling,http://dbpedia.org/resource/Alexander_von_Keyserling,http://dbpedia.org/resource/Arnold_Graf_Keyserling http://dbpedia.org/resource/Arnold_Keyserling
+0,10,A. o. Caesarea,http://dbpedia.org/resource/Basil_of_Caesarea,http://dbpedia.org/resource/Arethas_of_Caesarea http://dbpedia.org/resource/Arethas_of_caesarea
+0,22,A. Marty,http://dbpedia.org/resource/André_Marty,http://dbpedia.org/resource/Anton_Marty
+0,24,A. Ludovici,http://dbpedia.org/resource/Ludovico_Ludovisi,http://dbpedia.org/resource/Anthony_Ludovici http://dbpedia.org/resource/Anthony_M._Ludovici http://dbpedia.org/resource/Anthony_Mario_Ludovici http://dbpedia.org/resource/Anthony_M_Ludovici http://dbpedia.org/resource/Ludovici http://dbpedia.org/resource/A._M._Ludovici

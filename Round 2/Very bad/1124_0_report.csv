@@ -1,0 +1,142 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,"West Orange, New Jersey","http://dbpedia.org/resource/West_Orange,_New_Jersey",http://sws.geonames.org/5106301/
+0,2,"Warren Township, New Jersey","http://dbpedia.org/resource/Warren_Township,_New_Jersey",http://sws.geonames.org/5106052/
+0,3,"Trenton, New Jersey","http://dbpedia.org/resource/Trenton,_New_Jersey",http://sws.geonames.org/5105496/
+0,4,"Tenafly, New Jersey","http://dbpedia.org/resource/Jersey_City,_New_Jersey",http://sws.geonames.org/5105300/
+0,5,"Summit, New Jersey","http://dbpedia.org/resource/Jersey_City,_New_Jersey",http://sws.geonames.org/5105127/
+0,6,"Ridgewood, New Jersey","http://dbpedia.org/resource/Summit,_New_Jersey",http://sws.geonames.org/5103269/
+0,7,"Ridgefield Park, New Jersey","http://dbpedia.org/resource/Ridgefield_Park,_New_Jersey",http://sws.geonames.org/5103256/
+0,8,"Plainfield, New Jersey","http://dbpedia.org/resource/Plainfield,_New_Jersey",http://sws.geonames.org/5102720/
+0,9,"Paterson, New Jersey","http://dbpedia.org/resource/Paterson,_New_Jersey",http://sws.geonames.org/5102466/
+0,10,"Newark, New Jersey","http://dbpedia.org/resource/Newark,_New_Jersey",http://sws.geonames.org/5101798/
+0,11,"Middlesex, New Jersey","http://dbpedia.org/resource/Middlesex,_New_Jersey",http://sws.geonames.org/5101159/
+0,12,"Marlboro Township, New Jersey","http://dbpedia.org/resource/Marlboro_Township,_New_Jersey",http://sws.geonames.org/5100886/
+0,13,"Little Ferry, New Jersey","http://dbpedia.org/resource/Little_Falls,_New_Jersey",http://sws.geonames.org/5100542/
+0,14,"Knowlton Township, New Jersey","http://dbpedia.org/resource/Knowlton_Township,_New_Jersey",http://sws.geonames.org/5100091/
+0,15,"Keyport, New Jersey","http://dbpedia.org/resource/Jersey_City,_New_Jersey",http://sws.geonames.org/5100008/
+0,16,"Jersey City, New Jersey","http://dbpedia.org/resource/Jersey_City,_New_Jersey",http://sws.geonames.org/5099836/
+0,17,"Hawthorne, New Jersey","http://dbpedia.org/resource/Jersey_City,_New_Jersey",http://sws.geonames.org/5098909/
+0,18,"Fredon Township, New Jersey","http://dbpedia.org/resource/Fredon_Township,_New_Jersey",http://sws.geonames.org/5098269/
+0,19,"Franklin Lakes, New Jersey","http://dbpedia.org/resource/Franklin_Lakes,_New_Jersey",http://sws.geonames.org/5098242/
+0,20,"Fair Lawn, New Jersey","http://dbpedia.org/resource/Fair_Lawn,_New_Jersey",http://sws.geonames.org/5097773/
+0,21,"Edison, New Jersey","http://dbpedia.org/resource/Edison,_New_Jersey",http://sws.geonames.org/5097529/
+0,22,"Branchburg, New Jersey","http://dbpedia.org/resource/Jersey_City,_New_Jersey",http://sws.geonames.org/5095907/
+0,23,"Woodsville, New Hampshire","http://dbpedia.org/resource/Claremont,_New_Hampshire",http://sws.geonames.org/5094941/
+0,24,"Franklin, New Hampshire","http://dbpedia.org/resource/Franklin,_New_Hampshire",http://sws.geonames.org/5086344/
+0,25,"Plattsmouth, Nebraska","http://dbpedia.org/resource/Plattsmouth,_Nebraska",http://sws.geonames.org/5075348/
+0,26,"Orleans, Nebraska",http://dbpedia.org/resource/New_Orleans,http://sws.geonames.org/5074589/
+0,27,"Aurora, Nebraska","http://dbpedia.org/resource/Aurora,_Nebraska",http://sws.geonames.org/5063342/
+0,28,"Ashland, Nebraska","http://dbpedia.org/resource/Ashland,_Nebraska",http://sws.geonames.org/5063229/
+0,29,"Wahpeton, North Dakota","http://dbpedia.org/resource/Wahpeton,_North_Dakota",http://sws.geonames.org/5062355/
+0,30,"Pembina, North Dakota","http://dbpedia.org/resource/Pembina,_North_Dakota",http://sws.geonames.org/5060887/
+0,31,"Frontier, North Dakota","http://dbpedia.org/resource/Frontier,_North_Dakota",http://sws.geonames.org/5059290/
+0,32,"Brampton Township, Sargent County, North Dakota","http://dbpedia.org/resource/Brampton_Township,_Sargent_County,_North_Dakota",http://sws.geonames.org/5058400/
+0,33,"Stillwater, Minnesota","http://dbpedia.org/resource/Stillwater,_Minnesota",http://sws.geonames.org/5048814/
+0,34,"Spruce Grove Township, Becker County, Minnesota","http://dbpedia.org/resource/Spruce_Grove_Township,_Becker_County,_Minnesota",http://sws.geonames.org/5048432/
+0,35,"Savage, Minnesota","http://dbpedia.org/resource/Savage,_Minnesota",http://sws.geonames.org/5046063/
+0,36,"Redwood Falls, Minnesota","http://dbpedia.org/resource/Redwood_Falls,_Minnesota",http://sws.geonames.org/5042832/
+0,37,"Red Lake Falls, Minnesota","http://dbpedia.org/resource/Red_Lake_Falls,_Minnesota",http://sws.geonames.org/5042734/
+0,38,"Park Rapids, Minnesota","http://dbpedia.org/resource/Grand_Rapids,_Minnesota",http://sws.geonames.org/5040822/
+0,39,"New Ulm, Minnesota","http://dbpedia.org/resource/New_Ulm,_Minnesota",http://sws.geonames.org/5039173/
+0,40,"Mankato, Minnesota","http://dbpedia.org/resource/Mankato,_Minnesota",http://sws.geonames.org/5036420/
+0,41,"Hendricks, Minnesota","http://dbpedia.org/resource/Hendricks,_Minnesota",http://sws.geonames.org/5029851/
+0,42,"Fridley, Minnesota","http://dbpedia.org/resource/Fridley,_Minnesota",http://sws.geonames.org/5027482/
+0,43,"Faribault, Minnesota","http://dbpedia.org/resource/Faribault,_Minnesota",http://sws.geonames.org/5026291/
+0,44,"Climax, Minnesota","http://dbpedia.org/resource/Climax,_Minnesota",http://sws.geonames.org/5021600/
+0,45,"Victor Township, Michigan","http://dbpedia.org/resource/Victor_Township,_Michigan",http://sws.geonames.org/5013253/
+0,46,"Three Rivers, Michigan","http://dbpedia.org/resource/Three_Rivers,_Michigan",http://sws.geonames.org/5012194/
+0,47,"Somerset Township, Michigan","http://dbpedia.org/resource/Bloomfield_Township,_Oakland_County,_Michigan",http://sws.geonames.org/5010335/
+0,48,"Portland, Michigan","http://dbpedia.org/resource/Portland,_Oregon",http://sws.geonames.org/5006314/
+0,49,"Port Sheldon Township, Michigan","http://dbpedia.org/resource/Port_Sheldon_Township,_Michigan",http://sws.geonames.org/5006248/
+0,50,"Plainfield Township, Kent County, Michigan","http://dbpedia.org/resource/Plainfield_Township,_Kent_County,_Michigan",http://sws.geonames.org/5005942/
+0,51,"Paw Paw, Michigan","http://dbpedia.org/resource/Paw_Paw,_Michigan",http://sws.geonames.org/5005126/
+0,52,"New Buffalo, Michigan","http://dbpedia.org/resource/Buffalo,_New_York",http://sws.geonames.org/5003374/
+0,53,"Muskegon, Michigan","http://dbpedia.org/resource/Muskegon,_Michigan",http://sws.geonames.org/5003132/
+0,54,"Muir, Michigan","http://dbpedia.org/resource/Muir,_Michigan",http://sws.geonames.org/5003038/
+0,55,"Monroe, Michigan","http://dbpedia.org/resource/Monroe,_Michigan",http://sws.geonames.org/5002344/
+0,56,"Maple Ridge Township, Delta County, Michigan","http://dbpedia.org/resource/Maple_Ridge_Township,_Delta_County,_Michigan",http://sws.geonames.org/5000784/
+0,57,"Ludington, Michigan","http://dbpedia.org/resource/Ludington,_Michigan",http://sws.geonames.org/5000306/
+0,58,"London Township, Michigan","http://dbpedia.org/resource/Bloomfield_Township,_Oakland_County,_Michigan",http://sws.geonames.org/4999916/
+0,59,"Lansing, Michigan","http://dbpedia.org/resource/Lansing,_Michigan",http://sws.geonames.org/4998830/
+0,60,"Hillsdale, Michigan","http://dbpedia.org/resource/Hillsdale,_Michigan",http://sws.geonames.org/4996114/
+0,61,"Grant Township, Newaygo County, Michigan","http://dbpedia.org/resource/Grant_Township,_Newaygo_County,_Michigan",http://sws.geonames.org/4994449/
+0,62,"Grandville, Michigan","http://dbpedia.org/resource/Grandville,_Michigan",http://sws.geonames.org/4994391/
+0,63,"Grand Haven, Michigan",http://dbpedia.org/resource/Michigan,http://sws.geonames.org/4994325/
+0,64,"Galien, Michigan","http://dbpedia.org/resource/Galien,_Michigan",http://sws.geonames.org/4993612/
+0,65,"Detroit Beach, Michigan",http://dbpedia.org/resource/Detroit,http://sws.geonames.org/4990730/
+0,66,"Dafter Township, Michigan","http://dbpedia.org/resource/Bloomfield_Township,_Oakland_County,_Michigan",http://sws.geonames.org/4990265/
+0,67,"Clayton Township, Genesee County, Michigan","http://dbpedia.org/resource/Clayton_Township,_Genesee_County,_Michigan",http://sws.geonames.org/4989026/
+0,68,"Cheboygan, Michigan","http://dbpedia.org/resource/Cheboygan,_Michigan",http://sws.geonames.org/4988617/
+0,69,"Burt Township, Cheboygan County, Michigan","http://dbpedia.org/resource/Burt_Township,_Cheboygan_County,_Michigan",http://sws.geonames.org/4987478/
+0,70,"Blackman Charter Township, Michigan","http://dbpedia.org/resource/Blackman_Charter_Township,_Michigan",http://sws.geonames.org/4986324/
+0,71,"Benton Township, Cheboygan County, Michigan","http://dbpedia.org/resource/Benton_Township,_Cheboygan_County,_Michigan",http://sws.geonames.org/4985719/
+0,72,"Benton Harbor, Michigan","http://dbpedia.org/resource/Benton_Harbor,_Michigan",http://sws.geonames.org/4985711/
+0,73,"Ada Township, Michigan","http://dbpedia.org/resource/Ada_Township,_Michigan",http://sws.geonames.org/4983759/
+0,74,"St. Francis, Maine","http://dbpedia.org/resource/St._Francis,_Maine",http://sws.geonames.org/4977361/
+0,75,"Allagash, Maine","http://dbpedia.org/resource/Allagash,_Maine",http://sws.geonames.org/4956610/
+0,76,"Weymouth, Massachusetts","http://dbpedia.org/resource/Weymouth,_Massachusetts",http://sws.geonames.org/4955336/
+0,77,"Taunton, Massachusetts","http://dbpedia.org/resource/Taunton,_Massachusetts",http://sws.geonames.org/4952629/
+0,78,"Stoneham, Massachusetts","http://dbpedia.org/resource/Stoneham,_Massachusetts",http://sws.geonames.org/4952121/
+0,79,"Spencer, Massachusetts","http://dbpedia.org/resource/Spencer,_Massachusetts",http://sws.geonames.org/4951699/
+0,80,"Pittsfield, Massachusetts","http://dbpedia.org/resource/Pittsfield,_Massachusetts",http://sws.geonames.org/4947459/
+0,81,"Otis, Massachusetts","http://dbpedia.org/resource/Otis,_Massachusetts",http://sws.geonames.org/4946445/
+0,82,"Newburyport, Massachusetts","http://dbpedia.org/resource/Newburyport,_Massachusetts",http://sws.geonames.org/4945256/
+0,83,"Lowell, Massachusetts","http://dbpedia.org/resource/Lowell,_Massachusetts",http://sws.geonames.org/4942618/
+0,84,"Lexington, Massachusetts","http://dbpedia.org/resource/Lexington,_Massachusetts",http://sws.geonames.org/4941935/
+0,85,"Hopkinton, Massachusetts","http://dbpedia.org/resource/Hopkinton,_Massachusetts",http://sws.geonames.org/4939881/
+0,86,"Holland, Massachusetts","http://dbpedia.org/resource/Holland,_Massachusetts",http://sws.geonames.org/4939671/
+0,87,"Hancock, Massachusetts","http://dbpedia.org/resource/Hancock,_Massachusetts",http://sws.geonames.org/4938777/
+0,88,"Dedham, Massachusetts","http://dbpedia.org/resource/Dedham,_Massachusetts",http://sws.geonames.org/4934664/
+0,89,"Conway, Massachusetts","http://dbpedia.org/resource/Conway,_Massachusetts",http://sws.geonames.org/4933841/
+0,90,"Cheshire, Massachusetts","http://dbpedia.org/resource/Cheshire,_Massachusetts",http://sws.geonames.org/4932915/
+0,91,"Carver, Massachusetts","http://dbpedia.org/resource/Carver,_Massachusetts",http://sws.geonames.org/4932388/
+0,92,"Bedford, Massachusetts",http://dbpedia.org/resource/Bedford,http://sws.geonames.org/4930183/
+0,93,"Ashfield, Massachusetts","http://dbpedia.org/resource/Ashfield,_Massachusetts",http://sws.geonames.org/4929276/
+0,94,"Starke County, Indiana","http://dbpedia.org/resource/Starke_County,_Indiana",http://sws.geonames.org/4926760/
+0,95,"New Durham Township, LaPorte County, Indiana","http://dbpedia.org/resource/New_Durham_Township,_LaPorte_County,_Indiana",http://sws.geonames.org/4924099/
+0,96,"Michigan City, Indiana",http://dbpedia.org/resource/Chicago,http://sws.geonames.org/4923531/
+0,97,"Logansport, Indiana","http://dbpedia.org/resource/Logansport,_Indiana",http://sws.geonames.org/4922968/
+0,98,"Huntertown, Indiana","http://dbpedia.org/resource/Huntertown,_Indiana",http://sws.geonames.org/4921722/
+0,99,"East Chicago, Indiana",http://dbpedia.org/resource/Chicago,http://sws.geonames.org/4919857/
+0,100,"Burns Harbor, Indiana","http://dbpedia.org/resource/Burns_Harbor,_Indiana",http://sws.geonames.org/4918559/
+0,101,"South Holland, Illinois","http://dbpedia.org/resource/South_Holland,_Illinois",http://sws.geonames.org/4911934/
+0,102,"Gladstone Township, Henderson County, Illinois","http://dbpedia.org/resource/Gladstone_Township,_Henderson_County,_Illinois",http://sws.geonames.org/4893793/
+0,103,Chicago,http://dbpedia.org/resource/Chicago,http://sws.geonames.org/4887398/
+0,104,"Barrington Township, Cook County, Illinois","http://dbpedia.org/resource/Barrington_Township,_Cook_County,_Illinois",http://sws.geonames.org/4884130/
+0,105,"Afton Township, DeKalb County, Illinois","http://dbpedia.org/resource/Afton_Township,_DeKalb_County,_Illinois",http://sws.geonames.org/4882981/
+0,106,"Turin, Iowa","http://dbpedia.org/resource/Turin,_Iowa",http://sws.geonames.org/4879105/
+0,107,"Swea City, Iowa","http://dbpedia.org/resource/Iowa_City,_Iowa",http://sws.geonames.org/4878106/
+0,108,"Stratford, Iowa","http://dbpedia.org/resource/Stratford,_Connecticut",http://sws.geonames.org/4877714/
+0,109,"Rake, Iowa","http://dbpedia.org/resource/Rake,_Iowa",http://sws.geonames.org/4872442/
+0,110,"Keokuk, Iowa","http://dbpedia.org/resource/Keokuk,_Iowa",http://sws.geonames.org/4863349/
+0,111,"Johnston, Iowa","http://dbpedia.org/resource/Johnston,_Iowa",http://sws.geonames.org/4862760/
+0,112,"Doon, Iowa","http://dbpedia.org/resource/Doon,_Iowa",http://sws.geonames.org/4854215/
+0,113,"Des Moines, Iowa","http://dbpedia.org/resource/Des_Moines,_Iowa",http://sws.geonames.org/4853828/
+0,114,"Creston, Iowa","http://dbpedia.org/resource/Creston,_Iowa",http://sws.geonames.org/4853078/
+0,115,"Clarinda, Iowa","http://dbpedia.org/resource/Clarinda,_Iowa",http://sws.geonames.org/4851762/
+0,116,"Burlington, Iowa","http://dbpedia.org/resource/Burlington,_Iowa",http://sws.geonames.org/4849826/
+0,117,"Wolcott, Connecticut","http://dbpedia.org/resource/Wolcott,_Connecticut",http://sws.geonames.org/4845984/
+0,118,"Windsor, Connecticut","http://dbpedia.org/resource/Windsor,_Connecticut",http://sws.geonames.org/4845920/
+0,119,"Waterbury, Connecticut","http://dbpedia.org/resource/Waterbury,_Connecticut",http://sws.geonames.org/4845193/
+0,120,"Torrington, Connecticut","http://dbpedia.org/resource/Torrington,_Connecticut",http://sws.geonames.org/4844309/
+0,121,"Thompson, Connecticut","http://dbpedia.org/resource/Thompson,_Connecticut",http://sws.geonames.org/4844184/
+0,122,"Scotland, Connecticut","http://dbpedia.org/resource/Norwalk,_Connecticut",http://sws.geonames.org/4842710/
+0,123,"Preston, Connecticut","http://dbpedia.org/resource/Preston,_Connecticut",http://sws.geonames.org/4841125/
+0,124,"Old Saybrook, Connecticut","http://dbpedia.org/resource/Old_Saybrook,_Connecticut",http://sws.geonames.org/4840035/
+0,125,"Old Lyme, Connecticut","http://dbpedia.org/resource/Greenwich,_Connecticut",http://sws.geonames.org/4839995/
+0,126,"Norwich, Connecticut","http://dbpedia.org/resource/Norwich,_Connecticut",http://sws.geonames.org/4839843/
+0,127,"North Branford, Connecticut","http://dbpedia.org/resource/North_Branford,_Connecticut",http://sws.geonames.org/4839636/
+0,128,"New Hartford, Connecticut","http://dbpedia.org/resource/Hartford,_Connecticut",http://sws.geonames.org/4839357/
+0,129,"Montville, Connecticut","http://dbpedia.org/resource/Montville,_Connecticut",http://sws.geonames.org/4838887/
+0,130,"Monroe, Connecticut","http://dbpedia.org/resource/Monroe,_Connecticut",http://sws.geonames.org/4838863/
+0,131,"Middletown, Connecticut","http://dbpedia.org/resource/Middletown,_Connecticut",http://sws.geonames.org/4838633/
+0,132,"Lisbon, Connecticut","http://dbpedia.org/resource/Lisbon,_Connecticut",http://sws.geonames.org/4837798/
+0,133,"Harwinton, Connecticut","http://dbpedia.org/resource/Norwalk,_Connecticut",http://sws.geonames.org/4835860/
+0,134,"Hartland, Connecticut","http://dbpedia.org/resource/Hartland,_Connecticut",http://sws.geonames.org/4835843/
+0,135,"Guilford, Connecticut","http://dbpedia.org/resource/Guilford,_Connecticut",http://sws.geonames.org/4835512/
+0,136,"Farmington, Connecticut","http://dbpedia.org/resource/Farmington,_Connecticut",http://sws.geonames.org/4834272/
+0,137,"Eastford, Connecticut","http://dbpedia.org/resource/Norwalk,_Connecticut",http://sws.geonames.org/4833645/
+0,138,"East Haddam, Connecticut","http://dbpedia.org/resource/Norwich,_Connecticut",http://sws.geonames.org/4833363/
+0,139,"Lenox, New York","http://dbpedia.org/resource/Lenox,_New_York",http://sws.geonames.org/4833134/
+0,140,"Derby, Connecticut","http://dbpedia.org/resource/Derby,_Connecticut",http://sws.geonames.org/4832745/

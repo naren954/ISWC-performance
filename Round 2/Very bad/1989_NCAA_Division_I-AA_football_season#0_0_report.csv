@@ -1,0 +1,7 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Davidson,"http://dbpedia.org/resource/Nashville,_Tennessee",http://dbpedia.org/resource/Davidson_Wildcats_football
+0,2,Fordham,http://dbpedia.org/resource/The_Bronx,"http://dbpedia.org/resource/Fordham_Rams_football,_1940-49 http://dbpedia.org/resource/Fordham_Rams_football,_1940–1949 http://dbpedia.org/resource/Fordham_Rams_football,_1940-1949 http://dbpedia.org/resource/Fordham_Rams_football"
+0,3,Louisiana Tech,http://dbpedia.org/resource/Louisiana_Tech_University,http://dbpedia.org/resource/List_of_Louisiana_Tech_Bulldogs_bowl_games http://dbpedia.org/resource/Louisiana_Tech_Bulldogs_football http://dbpedia.org/resource/The_Louisiana_Tech_Bulldogs_football
+0,4,Liberty,http://dbpedia.org/resource/Newark_Liberty_International_Airport,http://dbpedia.org/resource/Liberty_Flames_football
+0,5,Samford,http://dbpedia.org/resource/Samford_University,http://dbpedia.org/resource/Samford_Bulldogs_football http://dbpedia.org/resource/Howard_Bulldogs_football

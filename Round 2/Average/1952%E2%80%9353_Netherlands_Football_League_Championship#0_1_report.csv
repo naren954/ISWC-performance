@@ -1,0 +1,6 @@
+F1: 0.66667,Precision: 0.66667,Recall: 0.66667,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,RCH,http://dbpedia.org/resource/Rocha_F.C.,http://dbpedia.org/resource/RCH_(football_club) http://dbpedia.org/resource/Racing_Club_Heemstede http://dbpedia.org/resource/RC_Heemstede
+1,5,DOS,http://dbpedia.org/resource/VV_DOS,http://dbpedia.org/resource/F.C._Utrecht http://dbpedia.org/resource/FC_Utrecht http://dbpedia.org/resource/Velox_SC http://dbpedia.org/resource/Velox_(football_club) http://dbpedia.org/resource/F._C._Utrecht
+1,12,De Volewijckers,http://dbpedia.org/resource/AVV_De_Volewijckers,http://dbpedia.org/resource/Volewijckers_Amsterdam http://dbpedia.org/resource/Volewijckers http://dbpedia.org/resource/De_Volewijckers http://dbpedia.org/resource/A.V.V._De_Volewijckers
+1,13,Zwolsche Boys,,http://dbpedia.org/resource/Zwolsche_Boys http://dbpedia.org/resource/PEC_Zwolle http://dbpedia.org/resource/PEC_Zwolle_'82 http://dbpedia.org/resource/FC_Zwolle

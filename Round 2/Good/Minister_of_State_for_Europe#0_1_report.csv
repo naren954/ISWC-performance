@@ -1,0 +1,6 @@
+F1: 0.80000,Precision: 0.80000,Recall: 0.80000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,8,David Heathcoat-Amory,"http://dbpedia.org/resource/Derick_Heathcoat-Amory,_1st_Viscount_Amory",http://dbpedia.org/resource/David_Philip_Heathcoat-Amory http://dbpedia.org/resource/David_Heathcoat-Amory http://dbpedia.org/resource/David_Heathcoat_Amory
+1,11,Doug Henderson,http://dbpedia.org/resource/Doug_Henderson_(Labour_politician),"http://dbpedia.org/resource/Douglas_Henderson http://dbpedia.org/resource/Henderson,_Douglas http://dbpedia.org/resource/Doug_Henderson http://dbpedia.org/resource/Douglas_Henderson_(disambiguation)"
+1,17,Douglas Alexander,http://dbpedia.org/resource/Alec_Douglas-Home,"http://dbpedia.org/resource/Douglas_Alexander http://dbpedia.org/resource/Alexander,_Douglas"
+1,19,Jim Murphy,http://dbpedia.org/resource/Jim_Murphy_(Texas_politician),http://dbpedia.org/resource/Jim_Murphy

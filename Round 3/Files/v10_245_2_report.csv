@@ -1,0 +1,5 @@
+"F1: 0.85714","Precision: 0.85714","Recall: 0.85714"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"2","9","Sarsfield's GAA","http://dbpedia.org/resource/Sarsfields_GAA_(County_Galway)","http://dbpedia.org/resource/Sarsfield's_GAA_(Cork) http://dbpedia.org/resource/Sarsfields_GAA_(Cork) http://dbpedia.org/resource/Sarsfields_GAA_(County_Cork)"
+"2","11","Banagher GAC","nan","http://dbpedia.org/resource/Banagher_GAC"
+"2","21","Sarsfield's GAA","http://dbpedia.org/resource/Sarsfields_GAA_(County_Galway)","http://dbpedia.org/resource/Sarsfield's_GAA_(Cork) http://dbpedia.org/resource/Sarsfields_GAA_(Cork) http://dbpedia.org/resource/Sarsfields_GAA_(County_Cork)"

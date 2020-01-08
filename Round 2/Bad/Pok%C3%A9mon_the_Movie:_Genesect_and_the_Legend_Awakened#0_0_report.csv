@@ -1,0 +1,7 @@
+F1: 0.28571,Precision: 0.28571,Recall: 0.28571,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,Iris,http://dbpedia.org/resource/Iris_West_Allen,http://dbpedia.org/resource/Iris_(Pokémon)
+0,4,Dent\/Cilan,,http://dbpedia.org/resource/Cilan_(Pokémon)
+0,5,Musashi\/Jessie,http://dbpedia.org/resource/Jessie_Harlan_Lincoln,http://dbpedia.org/resource/Jesse_(Pokémon)
+0,6,KojirÅ\u008D\/James,http://dbpedia.org/resource/Chris_Christie,http://dbpedia.org/resource/James_(Pokémon)
+0,7,Nyarth\/Meowth,http://dbpedia.org/resource/Meowth,http://dbpedia.org/resource/James_(Pokémon) http://dbpedia.org/resource/Team_Rocket_(anime) http://dbpedia.org/resource/Jessie_(Pokémon) http://dbpedia.org/resource/Rocket_Gang http://dbpedia.org/resource/Jessie_and_James http://dbpedia.org/resource/Team_rocket http://dbpedia.org/resource/James_(Pokemon) http://dbpedia.org/resource/Team_Rocket http://dbpedia.org/resource/Rocket-Dan http://dbpedia.org/resource/Jessie_(Pokemon) http://dbpedia.org/resource/Team_Rocket_trio

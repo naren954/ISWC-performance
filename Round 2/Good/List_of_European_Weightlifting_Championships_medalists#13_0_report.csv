@@ -1,0 +1,5 @@
+F1: 0.83333,Precision: 0.83333,Recall: 0.83333,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,5,2002 Antalya,http://dbpedia.org/resource/2006_European_Weightlifting_Championships,http://dbpedia.org/resource/2002_European_Weightlifting_Championships
+0,8,2005 Sofia,http://dbpedia.org/resource/2005_IIHF_World_U18_Championships,http://dbpedia.org/resource/2005_European_Weightlifting_Championships
+0,9,2006 WÅ\u0082adysÅ\u0082awowo,http://dbpedia.org/resource/2006_U.S._Open_Cup,http://dbpedia.org/resource/2006_European_Weightlifting_Championships

@@ -1,0 +1,4 @@
+F1: 0.81818,Precision: 0.81818,Recall: 0.81818,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,7,Dillinger,http://dbpedia.org/resource/Dillinger_(1945_film),http://dbpedia.org/resource/Dillinger_(1991_film) http://dbpedia.org/resource/Dillinger_(1991_TV_movie) http://dbpedia.org/resource/Dillinger_(1990_TV_movie)
+1,8,Wildflower,http://dbpedia.org/resource/Wildflower_(TV_series),http://dbpedia.org/resource/Wildflower_(1991_film)

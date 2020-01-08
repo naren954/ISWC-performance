@@ -1,0 +1,6 @@
+F1: 0.76471,Precision: 0.76471,Recall: 0.76471,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,3,P. Gordon,http://dbpedia.org/resource/Paul_Gordon_(musician),http://dbpedia.org/resource/Paul_Gordon_(composer)
+3,6,M. Leigh,http://dbpedia.org/resource/Mickey_Leigh,http://dbpedia.org/resource/Mitch_Leigh
+3,7,A. Schlesinger,http://dbpedia.org/resource/Bruno_Walter,http://dbpedia.org/resource/Adam_Schlesinger
+3,12,F. Norton,http://dbpedia.org/resource/Graham_Norton,http://dbpedia.org/resource/Frederic_Norton http://dbpedia.org/resource/Frederick_norton http://dbpedia.org/resource/Frederic_norton

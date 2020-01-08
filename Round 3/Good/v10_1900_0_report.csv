@@ -1,0 +1,11 @@
+F1: 0.92373,Precision: 0.92373,Recall: 0.92373,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,34,The Weakness,http://dbpedia.org/resource/My_Strongest_Weakness,http://dbpedia.org/resource/The_Weakness_(novel) http://dbpedia.org/resource/The_Weakness_(Animorphs) http://dbpedia.org/resource/The_Weakness
+0,39,The Warning,http://dbpedia.org/resource/The_Last_of_the_Jedi:_Dark_Warning,http://dbpedia.org/resource/The_Warning_(Animorphs) http://dbpedia.org/resource/The_Warning_(novel) http://dbpedia.org/resource/Web_Access_America
+0,55,The Unexpected,http://dbpedia.org/resource/Unexpected_(Star_Trek:_Enterprise),http://dbpedia.org/resource/The_Unexpected_(novel) http://dbpedia.org/resource/The_Unexpected_(Animorphs)
+0,56,The Underground,http://dbpedia.org/resource/The_Velvet_Underground_(album),http://dbpedia.org/resource/The_Underground_(Applegate_novel) http://dbpedia.org/resource/The_Underground_(novel) http://dbpedia.org/resource/The_Underground_(Animorphs)
+0,69,The Test,http://dbpedia.org/resource/Tested,http://dbpedia.org/resource/The_Test_(Animorphs) http://dbpedia.org/resource/The_Test_(Applegate_novel)
+0,87,The Stranger,http://dbpedia.org/resource/The_Stranger_(song),http://dbpedia.org/resource/The_Stranger_(Applegate_novel) http://dbpedia.org/resource/The_Stranger_(Animorphs)
+0,97,The Sound of One Hand Clapping,http://dbpedia.org/resource/The_Sound_of_One_Hand_Clapping_(novel),http://dbpedia.org/resource/The_Sound_of_One_Hand_Clapping
+0,112,The Sight,http://dbpedia.org/resource/Out_of_Sight_(novel),http://dbpedia.org/resource/The_Sight_(Hunter_novel) http://dbpedia.org/resource/The_Sight_(Warriors)
+0,114,The Sicilian,http://dbpedia.org/resource/Mafia,http://dbpedia.org/resource/The_Sicilian

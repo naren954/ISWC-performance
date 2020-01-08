@@ -1,0 +1,5 @@
+F1: 0.82353,Precision: 0.82353,Recall: 0.82353,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,15,Dave Taylor,http://dbpedia.org/resource/Dave_Taylor_(ice_hockey),http://dbpedia.org/resource/Dave_Taylor_(New_Zealand_footballer) http://dbpedia.org/resource/Dave_Taylor_(soccer)
+1,16,Colin Walker,"http://dbpedia.org/resource/Colin_Walker_(footballer,_born_1929)","http://dbpedia.org/resource/Colin_Walker_(footballer,_born_1958) http://dbpedia.org/resource/Colin_Walker_(footballer_born_1958)"
+1,17,Chris Jackson,http://dbpedia.org/resource/Mahmoud_Abdul-Rauf,http://dbpedia.org/resource/Chris_Jackson_(New_Zealand_footballer) http://dbpedia.org/resource/Chris_Jackson_(soccer)

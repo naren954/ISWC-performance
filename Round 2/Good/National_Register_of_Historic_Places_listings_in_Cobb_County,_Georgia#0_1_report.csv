@@ -1,0 +1,4 @@
+F1: 0.77778,Precision: 0.77778,Recall: 0.77778,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,16,Clarkdale Historic District,"http://dbpedia.org/resource/Clarkdale_Historic_District_(Clarkdale,_Arizona)","http://dbpedia.org/resource/Clarkdale,_Georgia"
+1,20,The General,http://dbpedia.org/resource/O'Higgins_Region,http://dbpedia.org/resource/The_General_(locomotive)

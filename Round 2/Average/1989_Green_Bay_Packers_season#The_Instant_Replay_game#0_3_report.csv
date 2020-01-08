@@ -1,0 +1,4 @@
+F1: 0.75000,Precision: 0.75000,Recall: 0.75000,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,4,Jeff Graham,http://dbpedia.org/resource/Jeff_Graham,http://dbpedia.org/resource/Jeff_Graham_(quarterback)
+3,8,Mark Hall,http://dbpedia.org/resource/Mark_Hall_(fighter),http://dbpedia.org/resource/Mark_Hall_(American_football)

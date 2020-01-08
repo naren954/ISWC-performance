@@ -1,0 +1,6 @@
+F1: 0.60000,Precision: 0.60000,Recall: 0.60000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,4,Sandvikens AIK,http://dbpedia.org/resource/Sandvikens_IF,http://dbpedia.org/resource/Sandvikens_AIK_Fotboll http://dbpedia.org/resource/Sandvikens_AIK_FK
+1,7,Karlskoga IF,http://dbpedia.org/resource/KB_Karlskoga_FF,http://dbpedia.org/resource/Bofors_IK_Karlskoga http://dbpedia.org/resource/BIK_Karlskoga http://dbpedia.org/resource/Karlskoga_IF http://dbpedia.org/resource/Bofors_IK
+1,9,VÃ¤sterÃ¥s IK,http://dbpedia.org/resource/Västerås_SK_Fotboll,http://dbpedia.org/resource/Västerås_IK_Fotboll
+1,10,IFK VÃ¤sterÃ¥s,http://dbpedia.org/resource/IFK_Göteborg,http://dbpedia.org/resource/IFK_Västerås

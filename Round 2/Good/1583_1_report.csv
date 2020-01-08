@@ -1,0 +1,4 @@
+F1: 0.90476,Precision: 0.90476,Recall: 0.90476,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,4,Ian Catt,http://dbpedia.org/resource/Mike_Catt,http://dbpedia.org/resource/Ian_Catt
+1,10,Park Jin Young,http://dbpedia.org/resource/J._Y._Park,http://dbpedia.org/resource/The_Asiansoul http://dbpedia.org/resource/Park_Jin-young_(musician) http://dbpedia.org/resource/Park_Jin_Young http://dbpedia.org/resource/Park_Jin-young http://dbpedia.org/resource/JY_Park http://dbpedia.org/resource/Park_Jin-Young http://dbpedia.org/resource/JYP_(singer) http://dbpedia.org/resource/J.Y._Park http://dbpedia.org/resource/Park_Jin-young_(singer)

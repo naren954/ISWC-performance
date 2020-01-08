@@ -1,0 +1,4 @@
+F1: 0.94872,Precision: 0.94872,Recall: 0.94872,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,5,Lampropeltis triangulum,http://dbpedia.org/resource/Lampropeltis_ruthveni,http://dbpedia.org/resource/Milk_snakes http://dbpedia.org/resource/Milk_snake http://dbpedia.org/resource/Milk_Snakes http://dbpedia.org/resource/Milksnake http://dbpedia.org/resource/Lampropeltis_triangulum http://dbpedia.org/resource/Milk_Snake http://dbpedia.org/resource/Eastern_Milk_Snake
+1,27,Lampropeltis triangulum,http://dbpedia.org/resource/Lampropeltis_ruthveni,http://dbpedia.org/resource/Milk_snake http://dbpedia.org/resource/Milk_snakes http://dbpedia.org/resource/Milk_Snakes http://dbpedia.org/resource/Eastern_Milk_Snake http://dbpedia.org/resource/Milksnake http://dbpedia.org/resource/Lampropeltis_triangulum http://dbpedia.org/resource/Milk_Snake

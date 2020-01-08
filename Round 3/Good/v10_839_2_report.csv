@@ -1,0 +1,6 @@
+F1: 0.95181,Precision: 0.95181,Recall: 0.95181,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,9,Discovery,http://dbpedia.org/resource/Discovery_(apple),http://dbpedia.org/resource/Discovery_(horse)
+2,14,Challenger,http://dbpedia.org/resource/Okeem_Challenger,http://dbpedia.org/resource/Challenger_(horse)
+2,42,Hamburg,http://dbpedia.org/resource/Ulmus_'Hamburg',http://dbpedia.org/resource/Hamburg_(horse)
+2,68,Green Desert,http://dbpedia.org/resource/Green_Desert_(horse),http://dbpedia.org/resource/Green_Desert

@@ -1,0 +1,21 @@
+F1: 0.65455,Precision: 0.65455,Recall: 0.65455,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,Right Hand Man,http://dbpedia.org/resource/Right_Hand_Hi,http://dbpedia.org/resource/Right_Hand_Man
+1,4,I Remember Miles,http://dbpedia.org/resource/I_Remember_You_(Yui_song),http://dbpedia.org/resource/I_Remember_Miles
+1,6,Be with You,http://dbpedia.org/resource/Be_with_You_(The_Bangles_song),http://dbpedia.org/resource/Be_With_You_(Enrique_Iglesias_song) http://dbpedia.org/resource/Sólo_Me_Importas_Tú http://dbpedia.org/resource/Be_with_You_(Enrique_Iglesias_song)
+1,10,All I Need,http://dbpedia.org/resource/All_I_Need_(Matchbox_Twenty_song),http://dbpedia.org/resource/All_I_Need_(The_Temptations_song)
+1,11,Days Go By,http://dbpedia.org/resource/Days_Go_By_(The_Offspring_song),http://dbpedia.org/resource/Days_Go_By_(Keith_Urban_song)
+1,16,Heat Wave,http://dbpedia.org/resource/Heat_Wave_(Martha_and_the_Vandellas_song),http://dbpedia.org/resource/Heat_Wave_(Cal_Tjader_and_Carmen_McRae_album)
+1,17,I Wanna Be Free,http://dbpedia.org/resource/I_Wanna_Be_Free_(The_Monkees_song),http://dbpedia.org/resource/I_Wanna_Be_Free_(Loretta_Lynn_song)
+1,18,Dinosaur,http://fr.dbpedia.org/resource/Dinosaur_(chanson_de_King_Crimson),http://dbpedia.org/resource/Dinosaur_(album)
+1,27,My Sister,http://dbpedia.org/resource/Oh_My_Sister,http://dbpedia.org/resource/My_Sister
+1,28,Imagine That,http://dbpedia.org/resource/Imagine_That_(LL_Cool_J_song),http://dbpedia.org/resource/Imagine_That_(Diamond_Rio_song)
+1,31,Update,http://dbpedia.org/resource/Update_(Jane_Zhang_album),http://dbpedia.org/resource/Update_(Berlin_Jazz_Orchestra)
+1,32,Now That I Found You,http://dbpedia.org/resource/Britney_Jean,http://dbpedia.org/resource/Now_That_I_Found_You_(Mytown_(band)_single) http://dbpedia.org/resource/Now_That_I_Found_You
+1,33,Ideas+drafts+loops,http://dbpedia.org/resource/Ideas+drafts+loops,http://dbpedia.org/resource/Aqua_Teen_24 http://dbpedia.org/resource/Ideas+drafts+loops_(mixtape)
+1,34,Ordinary People,http://dbpedia.org/resource/Ordinary_People_(John_Legend_song),http://dbpedia.org/resource/Ordinary_People_(Clay_Walker_song)
+1,43,Human Nature,http://dbpedia.org/resource/Human_Nature_(Michael_Jackson_song),"http://dbpedia.org/resource/Human_Nature_(Madonna_song) http://dbpedia.org/resource/Express_yourself,_don't_repress_yourself"
+1,44,Christ: The Bootleg,http://it.dbpedia.org/resource/Christ_The_Bootleg,http://dbpedia.org/resource/Crass_(band) http://dbpedia.org/resource/Christ:_The_Bootleg http://dbpedia.org/resource/Donna_and_the_Kebabs http://dbpedia.org/resource/Creative_Recording_And_Sound_Services http://dbpedia.org/resource/CRASS http://dbpedia.org/resource/C.r.a.s.s. http://dbpedia.org/resource/Crass http://dbpedia.org/resource/Crassical_Collection http://dbpedia.org/resource/Punk_is_dead
+1,51,Secret Love,http://dbpedia.org/resource/Secret_Love_(Bee_Gees_song),http://dbpedia.org/resource/Secret_Love_(1953_song) http://dbpedia.org/resource/Secret_Love_(Doris_Day_song)
+1,52,Lately,http://dbpedia.org/resource/Lately_(Stevie_Wonder_song),http://dbpedia.org/resource/Lately_(Skunk_Anansie_song)
+1,54,I Hate Everything,http://dbpedia.org/resource/Hate_That_I_Love_You,http://dbpedia.org/resource/I_Hate_Everything_(song)

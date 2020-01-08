@@ -1,0 +1,9 @@
+F1: 0.92391,Precision: 0.92391,Recall: 0.92391,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,24,R. Holland,http://dbpedia.org/resource/Russell_Holland,http://dbpedia.org/resource/Robb_Holland
+0,37,R. González,http://dbpedia.org/resource/Rodolfo_González,http://dbpedia.org/resource/Ricardo_González_(racing_driver) http://dbpedia.org/resource/Ricardo_Gonzalez_(racing_driver)
+0,53,P. J. Jin,http://dbpedia.org/resource/Lee_Jae-jin_(badminton),http://dbpedia.org/resource/Kevin_Pu http://dbpedia.org/resource/Jun_Jin_Pu http://dbpedia.org/resource/Pu_Jun_Jin
+0,56,P. Fittipaldi,http://dbpedia.org/resource/Emerson_Fittipaldi,http://dbpedia.org/resource/Pietro_Fittipaldi
+0,67,P. Piquet,http://dbpedia.org/resource/Nelson_Piquet_Jr.,http://dbpedia.org/resource/Pedro_Piquet
+0,79,O. N. Jr.,http://dbpedia.org/resource/N.O.R.E.,"http://dbpedia.org/resource/Oswaldo_Negri,_Jr. http://dbpedia.org/resource/Oswaldo_Negri_Jr. http://dbpedia.org/resource/Ozz_Negri http://dbpedia.org/resource/Oswaldo_Negri"
+0,86,O. O'Donovan,http://dbpedia.org/resource/Roy_O'Donovan,http://dbpedia.org/resource/Oliver_O'Donovan_(racing_driver) http://dbpedia.org/resource/Ollie_O'Donovan

@@ -1,0 +1,6 @@
+F1: 0.66667,Precision: 0.66667,Recall: 0.66667,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,FK Bashkimi,http://dbpedia.org/resource/FK_Bashkimi,http://dbpedia.org/resource/FK_Bashkimi_(1947–2008)
+0,3,FK Bregalnica (D),http://dbpedia.org/resource/FK_Bregalnica_Štip,http://dbpedia.org/resource/FK_Bregalnica_Delčevo
+0,12,FK Rabotnik,http://dbpedia.org/resource/FK_Rabotnik,http://dbpedia.org/resource/FK_Rabotnik_Džumajlija
+0,15,FK Vardar,http://dbpedia.org/resource/FK_Vardar,http://dbpedia.org/resource/FK_Vardar_Negotino

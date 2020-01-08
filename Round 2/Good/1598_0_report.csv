@@ -1,0 +1,5 @@
+F1: 0.97143,Precision: 0.97143,Recall: 0.97143,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,4,P. McNamara,http://dbpedia.org/resource/Lorraine_McNamara,http://dbpedia.org/resource/Pat_McNamara_(speed_skater) http://dbpedia.org/resource/Pat_McNamara_(speedskater)
+0,78,L. Dijkstra,http://dbpedia.org/resource/Sjoukje_Dijkstra,http://dbpedia.org/resource/Lou_Dijkstra
+0,100,L. Hay,http://dbpedia.org/resource/Cody_Hay,http://dbpedia.org/resource/Lachlan_Hay

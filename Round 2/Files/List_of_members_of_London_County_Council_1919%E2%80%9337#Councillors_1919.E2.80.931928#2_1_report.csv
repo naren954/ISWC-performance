@@ -1,0 +1,4 @@
+"F1: 0.66667","Precision: 0.66667","Recall: 0.66667"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","66","Charles William Gibson","http://dbpedia.org/resource/William_Gibson_(Australian_politician)","http://dbpedia.org/resource/Charles_Gibson_(British_politician) http://dbpedia.org/resource/Charles_Gibson_(UK_politician) http://dbpedia.org/resource/Charles_William_Gibson"
+"1","99","Dr Stella Churchill","http://dbpedia.org/resource/Clayface","http://dbpedia.org/resource/George_Russell_Strauss http://dbpedia.org/resource/Baron_Strauss http://dbpedia.org/resource/George_Strauss,_Baron_Strauss http://dbpedia.org/resource/George_Strauss http://dbpedia.org/resource/George_Russell_Strauss,_Baron_Strauss"

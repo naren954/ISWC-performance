@@ -1,0 +1,5 @@
+F1: 0.40000,Precision: 0.40000,Recall: 0.40000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,Forth Road Bridge,http://dbpedia.org/resource/Forth_Bridge,http://dbpedia.org/resource/Forth_Bridge_(road) http://dbpedia.org/resource/Forth_Road_Bridge_public_inquiry http://dbpedia.org/resource/Forth_Road_Bridge
+1,4,Airdrie,http://dbpedia.org/resource/Airdrieonians_F.C.,"http://dbpedia.org/resource/Airdrie,_United_Kingdom http://dbpedia.org/resource/Airdrie,_North_Lanarkshire http://dbpedia.org/resource/Airdrie,_Lanarkshire http://dbpedia.org/resource/Airdrie,_Scotland"
+1,5,Cumbernauld,http://dbpedia.org/resource/Cumbernauld_railway_station,"http://dbpedia.org/resource/Cumbernauld http://dbpedia.org/resource/Cumbernauld,_Dunbartonshire http://dbpedia.org/resource/Comar_nan_Allt http://dbpedia.org/resource/Whitelees_Primary,_Cumbernauld http://dbpedia.org/resource/Whitelees_Primary_School http://dbpedia.org/resource/Cumbernauld,_Scotland http://dbpedia.org/resource/Ravenswood_Primary_School"

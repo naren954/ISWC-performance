@@ -1,0 +1,8 @@
+F1: 0.33333,Precision: 0.33333,Recall: 0.33333,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,"Builth Wells, Wales (DH)",http://dbpedia.org/resource/Builth_Castle,http://dbpedia.org/resource/Builth_Wells http://dbpedia.org/resource/Builth_Wells_High_School http://dbpedia.org/resource/Llanfair-Ym-Muallt_(Builth_Wells) http://dbpedia.org/resource/Llanfair_ym_Muallt http://dbpedia.org/resource/Llanfair-Ym-Muallt
+1,2,"Eastridge, Shropshire, England (DH & Duel)",http://dbpedia.org/resource/Shropshire,http://dbpedia.org/resource/Eastridge http://dbpedia.org/resource/Eastridge_Center
+1,3,"Innerleithen, Borders, Scotland (DH & Duel)",,http://dbpedia.org/resource/Innerleithen http://dbpedia.org/resource/Damside
+1,10,"Rheola Forest, Neath Port Talbot, Wales (DH)",http://dbpedia.org/resource/Neath_Port_Talbot,"http://dbpedia.org/resource/Rheola,_Wales"
+1,12,"Llangollen, Mid Wales, Wales (DH)",,"http://dbpedia.org/resource/Llangollen http://dbpedia.org/resource/Llangollen,_Wales http://dbpedia.org/resource/Llangollen,_United_Kingdom"
+1,13,"Aske, Richmond, Yorkshire (XC)",,"http://dbpedia.org/resource/Aske,_Yorkshire http://dbpedia.org/resource/Aske,_North_Yorkshire"

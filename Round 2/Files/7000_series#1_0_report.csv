@@ -1,0 +1,7 @@
+"F1: 0.44444","Precision: 0.44444","Recall: 0.44444"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","1","IBM 705 m1,2","nan","http://dbpedia.org/resource/IBM_700/7000_series http://dbpedia.org/resource/FORTRAN_Assembly_Program http://dbpedia.org/resource/IBM_7010 http://dbpedia.org/resource/IBM_7000 http://dbpedia.org/resource/IBM_704/9/90_FORTRAN_Assembly_Program http://dbpedia.org/resource/IBM_700 http://dbpedia.org/resource/IBM700 http://dbpedia.org/resource/IBM_705 http://dbpedia.org/resource/Ibm_700"
+"0","2","IBM 705 m3","nan","http://dbpedia.org/resource/IBM_700/7000_series http://dbpedia.org/resource/FORTRAN_Assembly_Program http://dbpedia.org/resource/IBM_7010 http://dbpedia.org/resource/IBM_7000 http://dbpedia.org/resource/IBM_704/9/90_FORTRAN_Assembly_Program http://dbpedia.org/resource/IBM_700 http://dbpedia.org/resource/IBM700 http://dbpedia.org/resource/IBM_705 http://dbpedia.org/resource/Ibm_700"
+"0","3","IBM 709","http://dbpedia.org/resource/IBM_7090","http://dbpedia.org/resource/IBM_709 http://dbpedia.org/resource/IBM-766"
+"0","5","IBM 7040","http://dbpedia.org/resource/IBM_7090","http://dbpedia.org/resource/IBM_7044 http://dbpedia.org/resource/IBM_7040"
+"0","6","IBM 7044","http://dbpedia.org/resource/IBM_7090","http://dbpedia.org/resource/IBM_7044 http://dbpedia.org/resource/IBM_7040"

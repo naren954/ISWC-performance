@@ -1,0 +1,7 @@
+"F1: 0.70588","Precision: 0.70588","Recall: 0.70588"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","5","A. Johnson","http://dbpedia.org/resource/Antonio_Johnson","http://dbpedia.org/resource/Austin_Johnson_(defensive_lineman)"
+"0","10","A. Brown","http://dbpedia.org/resource/Antonio_Brown","http://dbpedia.org/resource/Arthur_Brown_(football_player) http://dbpedia.org/resource/Arthur_Brown_(American_football)"
+"0","12","A. Bryant","http://dbpedia.org/resource/Antonio_Bryant","http://dbpedia.org/resource/Armonty_Bryant"
+"0","14","A. Kouandjio","http://dbpedia.org/resource/Cyrus_Kouandjio","http://dbpedia.org/resource/Arie_Kouandjio"
+"0","15","A. Smith","http://dbpedia.org/resource/Alex_Smith","http://dbpedia.org/resource/Antonio_Smith_(defensive_end)"

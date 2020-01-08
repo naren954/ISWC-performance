@@ -1,0 +1,4 @@
+F1: 0.98020,Precision: 0.98020,Recall: 0.98020,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,71,Euthyneura,http://dbpedia.org/resource/Opisthobranchia,http://dbpedia.org/resource/Euthyneura
+1,101,Tridacnidae,http://dbpedia.org/resource/Giant_clam,http://dbpedia.org/resource/Tridacnidae http://dbpedia.org/resource/Tridacninae

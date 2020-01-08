@@ -1,0 +1,10 @@
+F1: 0.94872,Precision: 0.94872,Recall: 0.94872,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,15,Zeuxine polygonoides,,http://dbpedia.org/resource/Zeuxine_polygonoides
+0,25,Zena's brush-furred rat,http://dbpedia.org/resource/Rahm's_brush-furred_rat,http://dbpedia.org/resource/Zena's_brush-furred_rat http://dbpedia.org/resource/Lophuromys_zena http://dbpedia.org/resource/Zena_brush-furred_mouse
+0,74,Zanthoxylum procerum,http://dbpedia.org/resource/Zanthoxylum_juniperinum,http://dbpedia.org/resource/Zanthoxylum_procerum
+0,86,Zanthoxylum hartii,http://dbpedia.org/resource/Velvety_fruit-eating_bat,http://dbpedia.org/resource/Zanthoxylum_hartii
+0,88,Zanthoxylum gentlei,http://pt.dbpedia.org/resource/Zanthoxylum_gentlei,http://dbpedia.org/resource/Zanthoxylum_gentlei
+0,90,Zanthoxylum ferrugineum,http://pt.dbpedia.org/resource/Zanthoxylum_ferrugineum,http://dbpedia.org/resource/Zanthoxylum_ferrugineum
+0,96,Zanthoxylum belizense,http://fr.dbpedia.org/resource/Vachonium_belizense,http://dbpedia.org/resource/Zanthoxylum_belizense
+0,106,Zamia verschaffeltii,http://de.dbpedia.org/resource/Austrocylindropuntia_verschaffeltii,http://dbpedia.org/resource/Zamia_verschaffeltii

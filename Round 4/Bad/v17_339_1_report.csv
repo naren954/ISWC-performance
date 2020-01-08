@@ -1,0 +1,7 @@
+F1: 0.28571,Precision: 0.28571,Recall: 0.28571,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,W. Static,http://dbpedia.org/resource/Maurice_Maeterlinck,http://dbpedia.org/resource/Wayne_Richard_Wells http://dbpedia.org/resource/Wayne_Static
+1,2,D. Webb,http://dbpedia.org/resource/The_Amazing_Spider-Man_2,http://dbpedia.org/resource/Douglas_Webb
+1,3,C. Traynor,http://dbpedia.org/resource/Thomas_Traynor,http://dbpedia.org/resource/Chuck_Traynor http://dbpedia.org/resource/Charles_Traynor
+1,5,B. Hollander,http://dbpedia.org/resource/Vrije_Universiteit_Brussel,http://dbpedia.org/resource/Bobby_Hollander
+1,7,G. Leonard,http://dbpedia.org/resource/Leonard_Cheshire,http://dbpedia.org/resource/Gloria_Leonard

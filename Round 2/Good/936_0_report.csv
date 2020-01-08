@@ -1,0 +1,6 @@
+F1: 0.77778,Precision: 0.77778,Recall: 0.77778,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,4,B. Jones,http://dbpedia.org/resource/Brittany_Jones,http://dbpedia.org/resource/Blair_Jones
+0,7,B. Smith,http://dbpedia.org/resource/Ben_Smith_(ice_hockey_coach),"http://dbpedia.org/resource/Ben_Smith_(ice_hockey,_born_1988) http://dbpedia.org/resource/Ben_Smith_(ice_hockey_b._1988)"
+0,8,B. Ryan,http://dbpedia.org/resource/Bobby_Ryan,http://dbpedia.org/resource/Ben_Ryan_(ice_hockey)
+0,13,A. Forsberg,http://dbpedia.org/resource/Peter_Forsberg,http://dbpedia.org/resource/Anton_Forsberg

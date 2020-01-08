@@ -1,0 +1,12 @@
+F1: 0.64286,Precision: 0.64286,Recall: 0.64286,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,7,E. Post,http://dbpedia.org/resource/Frans_Post,http://dbpedia.org/resource/Emily_Post http://dbpedia.org/resource/Emily_Price_Post http://dbpedia.org/resource/Emily_Price
+0,9,D. Syed,http://dbpedia.org/resource/Matthew_Syed,http://dbpedia.org/resource/Dr._Durr-e-Shahwar_Syed http://dbpedia.org/resource/Durr-e-Shahwar_Syed
+0,10,D. Preston,http://dbpedia.org/resource/Robert_Preston_(actor),http://dbpedia.org/resource/Douglas_Preston http://dbpedia.org/resource/Douglas_J._Preston http://dbpedia.org/resource/Gideon_Crew
+0,15,C. B. Landon,http://dbpedia.org/resource/Christopher_Landon_(filmmaker),http://dbpedia.org/resource/Chris_Landon http://dbpedia.org/resource/Chris_B._Landon http://dbpedia.org/resource/Christopher_Beau_Landon http://dbpedia.org/resource/Christopher_B._Landon http://dbpedia.org/resource/Christopher_W._Landon
+0,16,C. Matheson,http://dbpedia.org/resource/Richard_Matheson,http://dbpedia.org/resource/Chris_Matheson_(screenwriter)
+0,17,C. Moorehead,http://dbpedia.org/resource/Agnes_Moorehead,http://dbpedia.org/resource/Caroline_Moorehead
+0,19,A. L. Presser,http://dbpedia.org/resource/Louis_Leakey,http://dbpedia.org/resource/ArLynn_Leiber_Presser
+0,21,A. W. Armstrong,"http://dbpedia.org/resource/William_Armstrong,_1st_Baron_Armstrong",http://dbpedia.org/resource/Anne_W._Armstrong
+0,24,A. Oakley,http://dbpedia.org/resource/Annie_Oakley,http://dbpedia.org/resource/Ann_Oakley
+0,28,È. Curie,http://dbpedia.org/resource/Marie_Curie,http://dbpedia.org/resource/Eve_Curie_Labouisse http://dbpedia.org/resource/Eve_Curie_LaBouisse http://dbpedia.org/resource/Eve_Curie http://dbpedia.org/resource/Ève_Curie

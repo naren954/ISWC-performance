@@ -1,0 +1,7 @@
+F1: 0.72222,Precision: 0.72222,Recall: 0.72222,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,4,A. Miller,http://dbpedia.org/resource/Allie_Miller,http://dbpedia.org/resource/Archie_Miller_(basketball)
+0,5,A. Talley,http://dbpedia.org/resource/Ronald_Talley,http://dbpedia.org/resource/Andy_Talley
+0,7,A. Coen,http://dbpedia.org/resource/Bill_Coen,http://dbpedia.org/resource/Andy_Coan_(football_coach) http://dbpedia.org/resource/Andy_Coen_(football_coach) http://dbpedia.org/resource/Andy_Coen
+0,17,A. Bagnoli,http://dbpedia.org/resource/Daniele_Bagnoli,http://dbpedia.org/resource/Al_Bagnoli
+0,18,A. Wiggins,http://dbpedia.org/resource/Andrew_Wiggins,http://dbpedia.org/resource/Adrian_Wiggins

@@ -1,0 +1,15 @@
+F1: 0.07143,Precision: 0.07143,Recall: 0.07143,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,GSK-3,,http://dbpedia.org/resource/GSK3 http://dbpedia.org/resource/GSK-3_inhibitor http://dbpedia.org/resource/Glycogen_synthase_kinase_3 http://dbpedia.org/resource/GSK-3
+0,2,GDP-fucose protein O-fucosyltransferase 1,,http://dbpedia.org/resource/GDP-fucose_protein_O-fucosyltransferase_1 http://dbpedia.org/resource/GDP-fucose_Protein_O-fucosyltransferase_1
+0,3,"Fructose 1,6-bisphosphatase",,"http://dbpedia.org/resource/Fructose-1,6-bisphosphatase http://dbpedia.org/resource/Fructose_1,6-bisphosphatase http://dbpedia.org/resource/EC_3.1.3.11 http://dbpedia.org/resource/D-fructose-1,6-bisphosphate_1-phosphohydrolase http://dbpedia.org/resource/Fructose-1,6-bisphosphatase_deficiency"
+0,4,Formimidoyltransferase cyclodeaminase,,http://dbpedia.org/resource/Formiminotransferase_cyclodeaminase http://dbpedia.org/resource/Formimidoyltransferase_cyclodeaminase http://dbpedia.org/resource/Protein:FTCD http://dbpedia.org/resource/FTCD
+0,5,FUT4,,http://dbpedia.org/resource/FUT4
+0,6,FANCM,,http://dbpedia.org/resource/FANCM
+0,7,Enoyl-CoA hydratase,,http://dbpedia.org/resource/Enoyl-coa_hydratase http://dbpedia.org/resource/Enoyl-CoA_hydratase http://dbpedia.org/resource/Enoyl_CoA_hydratase http://dbpedia.org/resource/2-enoyl_coenzyme_A_(CoA)_hydratase http://dbpedia.org/resource/EC_4.2.1.17 http://dbpedia.org/resource/(3S)-3-hydroxyacyl-CoA_hydro-lyase
+0,8,Electron-transferring-flavoprotein dehydrogenase,,http://dbpedia.org/resource/Electron_transferring_flavoprotein_dehydrogenase http://dbpedia.org/resource/ETFD http://dbpedia.org/resource/Electron-transferring-flavoprotein:ubiquinone_oxidoreductase http://dbpedia.org/resource/Electron_transferflavoprotein-Q_oxidoreductase http://dbpedia.org/resource/EC_1.5.5.1 http://dbpedia.org/resource/Electron_transfer_flavoprotein-Q_oxidoreductase http://dbpedia.org/resource/Electron-transferring_flavoprotein_dehydrogenase http://dbpedia.org/resource/ETF_dehydrogenase http://dbpedia.org/resource/Electron-transferring-flavoprotein_dehydrogenase http://dbpedia.org/resource/Flavoprotein_:_coenzyme_Q_oxidoreductase
+0,9,EIF4A,,http://dbpedia.org/resource/EIF4A http://dbpedia.org/resource/Eif4a
+0,10,Doubletime,,http://dbpedia.org/resource/Doubletime_(gene)
+0,11,Dipeptidase 2,,http://dbpedia.org/resource/DPEP2 http://dbpedia.org/resource/Dipeptidase_2
+0,12,Dihydroorotase,,http://dbpedia.org/resource/(S)-dihydroorotate_amidohydrolase http://dbpedia.org/resource/Carbamoylaspartic_dehydrase http://dbpedia.org/resource/Dihydroorotate_hydrolase http://dbpedia.org/resource/EC_3.5.2.3 http://dbpedia.org/resource/Dihydroorotase http://dbpedia.org/resource/Dihhydroorotase
+0,13,Deoxyribonuclease II,,http://dbpedia.org/resource/Acid_DNase http://dbpedia.org/resource/EC_3.1.4.6 http://dbpedia.org/resource/Deoxyribonuclease_II http://dbpedia.org/resource/DLAD http://dbpedia.org/resource/Pancreatic_DNase_II http://dbpedia.org/resource/DNase_II http://dbpedia.org/resource/EC_3.1.22.1 http://dbpedia.org/resource/Acid_deoxyribonuclease http://dbpedia.org/resource/Deoxyribonucleate_3'-nucleotidohydrolase

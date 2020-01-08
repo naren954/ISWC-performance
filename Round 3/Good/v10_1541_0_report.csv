@@ -1,0 +1,6 @@
+F1: 0.94203,Precision: 0.94203,Recall: 0.94203,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,24,R. Taylor,http://dbpedia.org/resource/Elizabeth_Taylor,http://dbpedia.org/resource/Rex_A._Taylor http://dbpedia.org/resource/Rex_Taylor
+0,37,M. Morris,http://dbpedia.org/resource/Milton_Morris,http://dbpedia.org/resource/Michael_Morris_(screenwriter)
+0,38,M. Baker,http://dbpedia.org/resource/Mickey_Baker,http://dbpedia.org/resource/Melville_Baker
+0,57,J. Jackson,http://dbpedia.org/resource/Michael_Jackson,http://dbpedia.org/resource/Joe_Jackson_(screenwriter) http://dbpedia.org/resource/Joseph_Jackson_(screenwriter)

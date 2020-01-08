@@ -1,0 +1,15 @@
+F1: 0.60606,Precision: 0.60606,Recall: 0.60606,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Julia,,http://dbpedia.org/resource/Julia_(TV_Series) http://dbpedia.org/resource/Julia_(TV_series) http://dbpedia.org/resource/Julia_(television)
+0,6,Journey to the Center of the Earth,http://dbpedia.org/resource/Journey_to_the_Center_of_the_Earth_(TV_series),http://dbpedia.org/resource/Journey_to_the_Center_of_the_Earth_(miniseries) http://dbpedia.org/resource/Journey_to_the_Center_of_the_Earth_(1999_miniseries) http://dbpedia.org/resource/Journey_to_the_Center_of_the_Earth_(TV_miniseries)
+0,13,John Adams,http://dbpedia.org/resource/Adams_(surname),http://dbpedia.org/resource/John_Adams_(TV) http://dbpedia.org/resource/John_Adams_(TV_series) http://dbpedia.org/resource/John_adams_miniseries http://dbpedia.org/resource/John_Adams_(TV_miniseries) http://dbpedia.org/resource/John_Adams_(mini-series) http://dbpedia.org/resource/John_Adams_miniseries http://dbpedia.org/resource/John_Adams_(miniseries)
+0,15,Jodha Akbar,http://dbpedia.org/resource/Jodha_Akbar,http://dbpedia.org/resource/Jodha_Akbar_(TV_serial) http://dbpedia.org/resource/Jodha_Akbar_(TV_series)
+0,18,Jo,http://dbpedia.org/resource/JoJo_(album),http://dbpedia.org/resource/Jo_(TV_series) http://dbpedia.org/resource/Jo_(2013_TV_Series)
+0,20,Jigsaw,http://dbpedia.org/resource/Jigsaw_(American_TV_series),http://dbpedia.org/resource/Jigsaw_(US_TV_series) http://dbpedia.org/resource/Jigsaw_(drama_series) http://dbpedia.org/resource/Jigsaw_(U.S._TV_series)
+0,22,Jewels,http://dbpedia.org/resource/Jewels_(novel),http://dbpedia.org/resource/Jewels_(miniseries)
+0,24,Jericho,http://dbpedia.org/resource/Jericho_(2006_TV_series),http://dbpedia.org/resource/Jericho_(1966_TV_series)
+0,25,Jeopardy,http://dbpedia.org/resource/Jeopardy!,http://dbpedia.org/resource/Jeopardy_(horror/suspense_series) http://dbpedia.org/resource/Jeopardy_(BBC_TV_Series)) http://dbpedia.org/resource/Jeopardy_(BBC_TV_Series) http://dbpedia.org/resource/Jeopardy_(TV_series) http://dbpedia.org/resource/Jeopardy_(BBC_TV_series) http://dbpedia.org/resource/Jeopardy_(2002)
+0,26,Jenny,http://dbpedia.org/resource/To._Jenny,http://dbpedia.org/resource/Jenny_(TV_series) http://dbpedia.org/resource/Jenny_(sitcom)
+0,30,Jeder stirbt für sich allein,http://dbpedia.org/resource/Alone_in_Berlin_(film),http://dbpedia.org/resource/Jeder_stirbt_für_sich_allein_(1970_miniseries) http://dbpedia.org/resource/Jeder_stirbt_fur_sich_allein_(1970_miniseries) http://dbpedia.org/resource/Jeder_stirbt_für_sich_allein_(1970) http://dbpedia.org/resource/Jeder_stirbt_fur_sich_allein_(1970)
+0,31,Jasmine,http://dbpedia.org/resource/Jasmine_(novel),http://dbpedia.org/resource/Jasmine_(TV_series)
+0,32,Jane Eyre,http://dbpedia.org/resource/Jane_Eyre_(1970_film),http://dbpedia.org/resource/Jane_Eyre_(2006_TV_serial) http://dbpedia.org/resource/Jane_Eyre_(2006_miniseries)

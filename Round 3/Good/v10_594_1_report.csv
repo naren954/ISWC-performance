@@ -1,0 +1,4 @@
+F1: 0.85714,Precision: 0.85714,Recall: 0.85714,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,7,"Washington, Illinois",http://dbpedia.org/resource/United_States,"http://dbpedia.org/resource/Washington,_Illinois http://dbpedia.org/resource/Washington,_Il http://dbpedia.org/resource/Washington,_IL http://dbpedia.org/resource/History_of_Washington,_Illinois"
+1,13,"Flandreau, South Dakota",http://dbpedia.org/resource/South_Dakota,"http://dbpedia.org/resource/Flandreau,_South_Dakota http://dbpedia.org/resource/Flandreau,_SD http://dbpedia.org/resource/UN/LOCODE:USYFD http://dbpedia.org/resource/Flandreau"

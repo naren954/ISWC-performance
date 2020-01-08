@@ -1,0 +1,20 @@
+F1: 0.81250,Precision: 0.81250,Recall: 0.81250,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,O. Volozhinskaia,,http://dbpedia.org/resource/Volozhinskaya http://dbpedia.org/resource/Olga_Volozhinskaia http://dbpedia.org/resource/Olga_Volozhinskaya
+1,2,D. Wilson,http://dbpedia.org/resource/Tracy_Wilson,http://dbpedia.org/resource/David_Wilson_(figure_skating) http://dbpedia.org/resource/David_Wilson_(figure_skater)
+1,8,W. Burge,http://dbpedia.org/resource/Heather_Burge,http://dbpedia.org/resource/Wendy_Burge
+1,12,L. Nichol,http://dbpedia.org/resource/Ralph_Nichols,http://dbpedia.org/resource/Lori_Nicol http://dbpedia.org/resource/Lori_Nichol
+1,20,L. Nichol,http://dbpedia.org/resource/Ralph_Nichols,http://dbpedia.org/resource/Lori_Nicol http://dbpedia.org/resource/Lori_Nichol
+1,21,L. Nichol,http://dbpedia.org/resource/Ralph_Nichols,http://dbpedia.org/resource/Lori_Nicol http://dbpedia.org/resource/Lori_Nichol
+1,28,D. Wilson,http://dbpedia.org/resource/Tracy_Wilson,http://dbpedia.org/resource/David_Wilson_(figure_skating) http://dbpedia.org/resource/David_Wilson_(figure_skater)
+1,36,M. Zoueva,,http://dbpedia.org/resource/Marina_Zuevea http://dbpedia.org/resource/Marina_Zueva http://dbpedia.org/resource/Marina_Zoueva http://dbpedia.org/resource/Marina_Zuyeva
+1,45,D. Wilson,http://dbpedia.org/resource/Tracy_Wilson,http://dbpedia.org/resource/David_Wilson_(figure_skating) http://dbpedia.org/resource/David_Wilson_(figure_skater)
+1,49,D. Wilson,http://dbpedia.org/resource/Tracy_Wilson,http://dbpedia.org/resource/David_Wilson_(figure_skating) http://dbpedia.org/resource/David_Wilson_(figure_skater)
+1,50,L. Nichol,http://dbpedia.org/resource/Ralph_Nichols,http://dbpedia.org/resource/Lori_Nicol http://dbpedia.org/resource/Lori_Nichol
+1,55,D. Wilson,http://dbpedia.org/resource/Tracy_Wilson,http://dbpedia.org/resource/David_Wilson_(figure_skating) http://dbpedia.org/resource/David_Wilson_(figure_skater)
+1,62,R. Rocca,http://dbpedia.org/resource/Peter_Rocca,http://dbpedia.org/resource/Renne_Roca http://dbpedia.org/resource/Renne_Rocca http://dbpedia.org/resource/Renée_Roca http://dbpedia.org/resource/René_Roca http://dbpedia.org/resource/Renee_Roca http://dbpedia.org/resource/Renee_Rocca http://dbpedia.org/resource/Rene_Roca
+1,70,J. McLeod,http://dbpedia.org/resource/Jack_McLeod,http://dbpedia.org/resource/Joanne_Mcleod http://dbpedia.org/resource/Joanne_McLeod
+1,82,R. Wagner,http://dbpedia.org/resource/Rochus_Wagner,http://dbpedia.org/resource/Robin_Wagner_(figure_skater)
+1,83,T. Dickson,http://dbpedia.org/resource/Tommy_Dickson,http://dbpedia.org/resource/Tom_Dickson
+1,91,D. Wilson,http://dbpedia.org/resource/Tracy_Wilson,http://dbpedia.org/resource/David_Wilson_(figure_skating) http://dbpedia.org/resource/David_Wilson_(figure_skater)
+1,96,K. Johnson,http://dbpedia.org/resource/Dwayne_Johnson,http://dbpedia.org/resource/Kelly_Johnson_(figure_skater)

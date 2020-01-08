@@ -1,0 +1,5 @@
+"F1: 0.76923","Precision: 0.76923","Recall: 0.76923"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","2","George Wright","http://dbpedia.org/resource/George_Wright_(sportsman)","http://dbpedia.org/resource/George_Wright_(footballer_born_1919) http://dbpedia.org/resource/George_Wright_(footballer,_born_1919) http://dbpedia.org/resource/George_Wright,_(footballer_born_1919)"
+"1","8","Bob Allen","http://dbpedia.org/resource/Al_Elliott","http://dbpedia.org/resource/Albert_Robert_Allen http://dbpedia.org/resource/Bob_Allen_(footballer)"
+"1","16","Arthur Turner","http://dbpedia.org/resource/Richard_Turner_(footballer)","http://dbpedia.org/resource/Arthur_Turner_(footballer_born_1922) http://dbpedia.org/resource/Arthur_Turner_(footballer,_born_1922) http://dbpedia.org/resource/Arthur_Turner_(footballer,_born_1921)"

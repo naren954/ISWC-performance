@@ -1,0 +1,5 @@
+"F1: 0.80000","Precision: 0.80000","Recall: 0.80000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","2","You'll Be Back","http://dbpedia.org/resource/You'll_Always_Find_Your_Way_Back_Home","http://dbpedia.org/resource/You'll_Be_Back_(song)"
+"0","4","When I Grow Up","http://dbpedia.org/resource/When_I_Grow_Up_(Fever_Ray_song)","http://dbpedia.org/resource/When_I_Grow_Up_(Matilda)"
+"0","15","Alexander Hamilton","http://dbpedia.org/resource/Alexander_Hamilton","http://dbpedia.org/resource/Alexander_Hamilton_(song)"

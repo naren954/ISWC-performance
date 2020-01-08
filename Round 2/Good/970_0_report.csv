@@ -1,0 +1,4 @@
+F1: 0.86667,Precision: 0.86667,Recall: 0.86667,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,4,Congress of the Union,http://dbpedia.org/resource/Congress_of_South_African_Trade_Unions,http://dbpedia.org/resource/Congress_of_mexico http://dbpedia.org/resource/Congress_of_the_Union http://dbpedia.org/resource/Parliament_of_Mexico http://dbpedia.org/resource/Congress_of_Mexico http://dbpedia.org/resource/Mexican_Congress http://dbpedia.org/resource/Legislature_of_Mexico http://dbpedia.org/resource/Congress_of_México http://dbpedia.org/resource/First_Mexican_Congress
+0,12,Assembly of the Union,http://dbpedia.org/resource/European_Parliament,http://dbpedia.org/resource/Hluttaw http://dbpedia.org/resource/Parliament_of_Myanmar http://dbpedia.org/resource/Parliament_of_Burma http://dbpedia.org/resource/Hlutdaw http://dbpedia.org/resource/Assembly_of_the_Union http://dbpedia.org/resource/Pyidaungsu_Hluttaw

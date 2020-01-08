@@ -1,0 +1,27 @@
+F1: 0.03846,Precision: 0.03846,Recall: 0.03846,,
+Col,Row,Value,Submitted URI,Correct URI's
+4,1,Leiter (1â\u0080\u00930),http://dbpedia.org/resource/Mark_Leiter,http://dbpedia.org/resource/Al_Leiter
+4,2,Prior (1â\u0080\u00930),"http://dbpedia.org/resource/Prior_Lake,_Minnesota",http://dbpedia.org/resource/Mark_Prior
+4,3,Williamson (1â\u0080\u00930),"http://dbpedia.org/resource/Williamson,_Arizona",http://dbpedia.org/resource/Scott_Williamson http://dbpedia.org/resource/Scott_williamson
+4,4,Zambrano (1â\u0080\u00930),http://dbpedia.org/resource/Manolo_Zambrano,"http://dbpedia.org/resource/Zambrano,_Carlos http://dbpedia.org/resource/Carlos_Alberto_Zambrano http://dbpedia.org/resource/Carlos_Zambrano_(baseball) http://dbpedia.org/resource/Carlos_Zambrano"
+4,5,White (1â\u0080\u00930),"http://dbpedia.org/resource/White_County,_Tennessee",http://dbpedia.org/resource/Gabe_White
+4,7,Clement (1â\u0080\u00931),"http://dbpedia.org/resource/Clements,_Minnesota",http://dbpedia.org/resource/Matt_Clement http://dbpedia.org/resource/Matthew_Paul_Clement http://dbpedia.org/resource/Matthew_Clement
+4,8,Prior (2â\u0080\u00930),"http://dbpedia.org/resource/Prior_Lake,_Minnesota",http://dbpedia.org/resource/Mark_Prior
+4,9,Armas (2â\u0080\u00931),http://dbpedia.org/resource/Tony_Armas,"http://dbpedia.org/resource/Tony_Armas,_Jr. http://dbpedia.org/resource/Tony_Armas_Jr. http://dbpedia.org/resource/Tony_Armas_Jr"
+4,10,D'Amico (1â\u0080\u00931),http://fr.dbpedia.org/resource/Patricio_D'Amico,http://dbpedia.org/resource/Jeff_D'Amico
+4,11,Wood (2â\u0080\u00930),"http://dbpedia.org/resource/Wood_County,_West_Virginia",http://dbpedia.org/resource/Kerry_Wood http://dbpedia.org/resource/Kerry_Wood_(baseball_player) http://dbpedia.org/resource/Kerry_Wood_(ball_player)
+4,13,Anderson (1â\u0080\u00931),"http://dbpedia.org/resource/Anderson,_Indiana",http://dbpedia.org/resource/Jimmy_Anderson_(baseball)
+4,14,Estes (1â\u0080\u00931),"http://dbpedia.org/resource/Este,_Veneto",http://dbpedia.org/resource/Shawn_Estes
+4,15,Zambrano (2â\u0080\u00931),http://dbpedia.org/resource/Manolo_Zambrano,"http://dbpedia.org/resource/Zambrano,_Carlos http://dbpedia.org/resource/Carlos_Alberto_Zambrano http://dbpedia.org/resource/Carlos_Zambrano_(baseball) http://dbpedia.org/resource/Carlos_Zambrano"
+4,16,Wood (3â\u0080\u00930),"http://dbpedia.org/resource/Wood_County,_West_Virginia",http://dbpedia.org/resource/Kerry_Wood http://dbpedia.org/resource/Kerry_Wood_(baseball_player) http://dbpedia.org/resource/Kerry_Wood_(ball_player)
+4,17,Clement (2â\u0080\u00931),"http://dbpedia.org/resource/Clements,_Minnesota",http://dbpedia.org/resource/Matt_Clement http://dbpedia.org/resource/Matthew_Paul_Clement http://dbpedia.org/resource/Matthew_Clement
+4,18,Prior (3â\u0080\u00931),"http://dbpedia.org/resource/Prior_Lake,_Minnesota",http://dbpedia.org/resource/Mark_Prior
+4,19,Torres (2â\u0080\u00930),http://dbpedia.org/resource/Porto_Torres,http://dbpedia.org/resource/Salomón_Torres
+4,20,Zambrano (3â\u0080\u00931),http://dbpedia.org/resource/Manolo_Zambrano,"http://dbpedia.org/resource/Zambrano,_Carlos http://dbpedia.org/resource/Carlos_Alberto_Zambrano http://dbpedia.org/resource/Carlos_Zambrano_(baseball) http://dbpedia.org/resource/Carlos_Zambrano"
+4,21,Eaton (1â\u0080\u00931),http://dbpedia.org/resource/Long_Eaton,http://dbpedia.org/resource/Adam_Eaton_(pitcher)
+4,22,PÃ©rez (1â\u0080\u00932),http://dbpedia.org/resource/Pérez,http://dbpedia.org/resource/Óliver_Pérez
+4,23,Prior (4â\u0080\u00931),"http://dbpedia.org/resource/Prior_Lake,_Minnesota",http://dbpedia.org/resource/Mark_Prior
+4,24,ChacÃ³n (4â\u0080\u00930),,http://dbpedia.org/resource/Shawn_Chacón
+4,25,Oliver (1â\u0080\u00932),http://dbpedia.org/resource/Dean_Oliver_(basketball),http://dbpedia.org/resource/Darren_Oliver
+4,26,Wood (4â\u0080\u00931),"http://dbpedia.org/resource/Wood_County,_West_Virginia",http://dbpedia.org/resource/Kerry_Wood http://dbpedia.org/resource/Kerry_Wood_(baseball_player) http://dbpedia.org/resource/Kerry_Wood_(ball_player)
+4,27,Schmidt (3â\u0080\u00930),http://dbpedia.org/resource/Ulf_Schmidt,http://dbpedia.org/resource/Jason_Schmidt

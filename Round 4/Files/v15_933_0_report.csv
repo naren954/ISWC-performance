@@ -1,0 +1,8 @@
+"F1: 0.76000","Precision: 0.76000","Recall: 0.76000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","1","W. Churchill","http://dbpedia.org/resource/Winston_Churchill","http://dbpedia.org/resource/Winston_Churchill_(politician,_born_1940) http://dbpedia.org/resource/Winston_Churchill_(1940–2010) http://dbpedia.org/resource/Winston_Churchill_(1940-2010) http://dbpedia.org/resource/Winston_Churchill_(1940) http://dbpedia.org/resource/Winston_Churchill_(1940-) http://dbpedia.org/resource/Winston_Churchill_(grandson) http://dbpedia.org/resource/Winston_Churchill_(born_1940)"
+"0","8","W. H. Field","http://dbpedia.org/resource/Prince_Arthur,_Duke_of_Connaught_and_Strathearn","http://dbpedia.org/resource/William_Field_(New_Zealand) http://dbpedia.org/resource/William_Hughes_Field"
+"0","13","W. A. Russell","http://dbpedia.org/resource/Bertrand_Russell","http://dbpedia.org/resource/Wilfred_Russell http://dbpedia.org/resource/Wilfred_Adams_Russell"
+"0","17","T. G. Sr.","http://dbpedia.org/resource/Tom_Gilmore_Sr.","http://dbpedia.org/resource/Tom_Gilmore_senior http://dbpedia.org/resource/Thomas_Vernon_Gilmore http://dbpedia.org/resource/Tom_Gilmore,_Sr. http://dbpedia.org/resource/Tom_Gilmore,_senior"
+"0","19","T. Hughes","http://dbpedia.org/resource/Tom_Hughes_(Australian_politician)","http://dbpedia.org/resource/Thomas_Hughes_(Sydney_mayor)"
+"0","23","T. Beirne","http://dbpedia.org/resource/Andrew_Beirne","http://dbpedia.org/resource/TC_Beirne http://dbpedia.org/resource/Thomas_Charles_Beirne http://dbpedia.org/resource/Thomas_Beirne_(businessman) http://dbpedia.org/resource/T_C_Beirne"

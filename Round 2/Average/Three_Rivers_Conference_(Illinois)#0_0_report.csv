@@ -1,0 +1,9 @@
+F1: 0.53333,Precision: 0.53333,Recall: 0.53333,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,Bureau Valley High School,http://dbpedia.org/resource/West_Valley_High_School_(Alaska),http://dbpedia.org/resource/Bureau_Valley_High_School
+0,3,Erie High School,http://dbpedia.org/resource/Erie_High_School_(Colorado),http://dbpedia.org/resource/Erie_High_School_(Illinois)
+0,4,Fulton High School,http://dbpedia.org/resource/South_Atlanta_High_School,http://dbpedia.org/resource/Fulton_High_School_(Illinois)
+0,5,Hall High School (Illinois),http://dbpedia.org/resource/Hall_High_School_(Arkansas),http://dbpedia.org/resource/Hall_High_School_District_502 http://dbpedia.org/resource/Hall_High_School_(Illinois)
+0,8,Newman Central Catholic High School,http://dbpedia.org/resource/Lafayette_Central_Catholic_Jr/Sr_High_School,http://dbpedia.org/resource/Newman_Central_Catholic_High_School
+0,10,Princeton High School,http://dbpedia.org/resource/Princeton_High_School_(Texas),http://dbpedia.org/resource/Princeton_High_School_(Illinois) http://dbpedia.org/resource/Princeton_High_School_District_500
+0,12,Riverdale High School,"http://dbpedia.org/resource/Riverdale_High_School_(Murfreesboro,_Tennessee)","http://dbpedia.org/resource/Riverdale_High_School_(Port_Byron,_Illinois) http://dbpedia.org/resource/Riverdale_High_School_(Illinois)"

@@ -1,0 +1,6 @@
+"F1: 0.80000","Precision: 0.80000","Recall: 0.80000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","5","Neel Kamal","http://dbpedia.org/resource/Neel_Kamal_(1947_film)","http://dbpedia.org/resource/Neel_Kamal_(1968_film)"
+"1","14","Ajnabee","http://dbpedia.org/resource/Ajnabee_(2001_film)","http://dbpedia.org/resource/Ajanabee_(1974_film) http://dbpedia.org/resource/Ajnabee_(1974_film) http://dbpedia.org/resource/Ajnabee_(1975_film)"
+"1","16","Mehbooba","http://dbpedia.org/resource/Chandni","http://dbpedia.org/resource/Mehbooba"
+"1","20","Baadal","http://dbpedia.org/resource/Badal","http://dbpedia.org/resource/Baadal http://dbpedia.org/resource/Baadal_(1985_film)"

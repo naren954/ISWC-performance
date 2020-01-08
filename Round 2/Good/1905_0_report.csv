@@ -1,0 +1,13 @@
+F1: 0.89524,Precision: 0.89524,Recall: 0.89524,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,The Lighthouse,http://dbpedia.org/resource/The_Lighthouse_(opera),http://dbpedia.org/resource/The_Lighthouse_(James_novel)
+0,6,The Lieutenant,http://dbpedia.org/resource/Lieutenant_(junior_grade),http://dbpedia.org/resource/The_Lieutenant_(novel)
+0,10,The Leopard,http://dbpedia.org/resource/Leopard_2,http://dbpedia.org/resource/Leopold's_Apple http://dbpedia.org/resource/The_Leopard_(Nesbø_novel) http://dbpedia.org/resource/The_Leopard_(Nesbo_novel)
+0,11,The Legion,http://dbpedia.org/resource/Legion_(album),http://dbpedia.org/resource/The_Legion_(novel)
+0,34,The Last Resort,http://dbpedia.org/resource/The_Last_Resort_(novel),http://dbpedia.org/resource/The_Last_Resort_(Doctor_Who)
+0,38,The Last Hero,http://dbpedia.org/resource/The_Last_Hero,http://dbpedia.org/resource/The_Saint_and_the_Last_Hero http://dbpedia.org/resource/The_Last_Hero_(The_Saint) http://dbpedia.org/resource/The_Saint_Closes_the_Case
+0,64,The Kingdom,http://dbpedia.org/resource/Tragic_Kingdom,http://dbpedia.org/resource/The_Kingdom_(Cussler_novel) http://dbpedia.org/resource/The_Kingdom_(novel)
+0,76,The Killing,http://dbpedia.org/resource/The_Killing_(American_TV_series),http://dbpedia.org/resource/The_Killing_(book) http://dbpedia.org/resource/CHERUB:_The_Killing http://dbpedia.org/resource/The_Killing_(novel) http://dbpedia.org/resource/The_Killing_(Robert_Muchamore_novel)
+0,77,The Killer,http://dbpedia.org/resource/Killer_(Adamski_song),http://dbpedia.org/resource/The_Killer_(1970_novel) http://dbpedia.org/resource/The_Killer_(Wilson_novel)
+0,93,The Journey,http://dbpedia.org/resource/Journey_to_the_West,http://dbpedia.org/resource/The_Journey_(Applegate_novel) http://dbpedia.org/resource/The_Journey_(Animorphs)
+0,101,The Invaders,http://dbpedia.org/resource/Invaders!_(anthology),http://dbpedia.org/resource/The_Invaders_(Brotherband) http://dbpedia.org/resource/The_Invaders_(novel)

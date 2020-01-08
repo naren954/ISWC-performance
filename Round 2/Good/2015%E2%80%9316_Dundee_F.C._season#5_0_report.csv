@@ -1,0 +1,4 @@
+F1: 0.85714,Precision: 0.85714,Recall: 0.85714,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,7,Jim McAlister,http://dbpedia.org/resource/Jimmy_McAlister,http://dbpedia.org/resource/Jim_McAlister_(Scottish_footballer)
+0,12,Luka TankuliÄ\u0087,http://dbpedia.org/resource/Banja_Luka,http://dbpedia.org/resource/Luka_Tankulić

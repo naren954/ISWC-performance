@@ -1,0 +1,4 @@
+"F1: 0.81818","Precision: 0.81818","Recall: 0.81818"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","1","Bocock-Isbell House","http://dbpedia.org/resource/Isbell_House","http://dbpedia.org/resource/Bocock-Isbell_House"
+"0","10","Andalusia","http://dbpedia.org/resource/Andalusia_(Los_Angeles,_California)","http://dbpedia.org/resource/Andalusia_(estate)"

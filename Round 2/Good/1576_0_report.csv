@@ -1,0 +1,48 @@
+F1: 0.76531,Precision: 0.76531,Recall: 0.76531,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,Something,http://dbpedia.org/resource/Something_(Shirley_Scott_album),http://dbpedia.org/resource/Something_(TVXQ_song)
+0,4,Something,http://dbpedia.org/resource/Something_(Shirley_Scott_album),http://dbpedia.org/resource/Something_(Beatles_song) http://dbpedia.org/resource/Something_(The_Beatles_song)
+0,6,Somebody to Love,http://dbpedia.org/resource/Somebody_to_Love_(Queen_song),http://dbpedia.org/resource/Somebody_to_Love_(Justin_Bieber_song)
+0,8,Some Girls,http://dbpedia.org/resource/Some_Girls_(Dance_with_Women),http://dbpedia.org/resource/Some_Girls_(Racey_song)
+0,23,Sinking Ships,http://dbpedia.org/resource/This_Sinking_Ship,http://dbpedia.org/resource/Sinking_Ships_(song)
+0,28,Shut Down,http://dbpedia.org/resource/Shut_It_Down_(song),http://dbpedia.org/resource/Shut_Down_(Beach_Boys_song) http://dbpedia.org/resource/Shut_Down_(The_Beach_Boys_song)
+0,38,She's a Woman,http://dbpedia.org/resource/She's_a_Woman_(And_Now_He_Is_a_Man),http://dbpedia.org/resource/She's_a_Woman http://dbpedia.org/resource/She's_A_Woman http://dbpedia.org/resource/She's_a_Woman_(The_Beatles_song)
+0,39,She's Got Everything,http://dbpedia.org/resource/She's_Everything,http://dbpedia.org/resource/She's_Got_Everything_(The_Kinks_song)
+0,53,Science Fiction,http://dbpedia.org/resource/Science_Fiction/Double_Feature,http://dbpedia.org/resource/Science_Fiction_(song)
+0,55,Say You'll Be Mine,http://dbpedia.org/resource/Most_Likely_You_Go_Your_Way_and_I'll_Go_Mine,http://dbpedia.org/resource/Say_You'll_Be_Mine_(Steps_song) http://dbpedia.org/resource/Say_You'll_Be_Mine_(STEPS_song) http://dbpedia.org/resource/Say_You'll_Be_Mine/Better_Than_the_Devil_You_Know
+0,58,Sanctuary,http://dbpedia.org/resource/Sanctuary_(Gabriella_Cilmi_song),http://dbpedia.org/resource/Sanctuary_(Iron_Maiden_song)
+0,63,Sacrifice,http://dbpedia.org/resource/Sacrifice_(song),http://dbpedia.org/resource/Sacrifice_(Elton_John) http://dbpedia.org/resource/Sacrifice_(Elton_John_song)
+0,78,Rocket Man,,"http://dbpedia.org/resource/Rocket_Man_(I_Think_it's_Going_to_Be_a_Long,_Long_Time) http://dbpedia.org/resource/Rocket_Man/Candle_in_the_Wind http://dbpedia.org/resource/Rocket_Man_(song) http://dbpedia.org/resource/Im'_a_rocket_man http://dbpedia.org/resource/I`m_a_rocket_man http://dbpedia.org/resource/Im_a_rocket_man http://dbpedia.org/resource/I'm_a_rocket_man http://dbpedia.org/resource/Rocket_Man_(I_Think_It's_Going_To_Be_A_Long,_Long_Time) http://dbpedia.org/resource/Rocket_Man_(I_Think_It's_Going_To_Be_a_Long_Long_Time) http://dbpedia.org/resource/Rocket_Man_(I_Think_It's_Going_To_Be_A_Long_Long_Time) http://dbpedia.org/resource/Rocket_Man_(I_Think_It's_Going_to_Be_a_Long,_Long_Time)_(song) http://dbpedia.org/resource/Rocket_Man_(I_Think_It's_Going_to_Be_a_Long,_Long_Time)"
+0,85,Rise,http://dbpedia.org/resource/Rise_(Katy_Perry_song),http://dbpedia.org/resource/Rise_(Public_Image_Ltd._song) http://dbpedia.org/resource/Rise_(Public_Image_Ltd_song)
+0,87,Rings Around the Moon,http://pt.dbpedia.org/resource/Rings_Around_the_Moon,http://dbpedia.org/resource/Rings_Around_the_Moon_(song)
+0,88,Right Here,"http://dbpedia.org/resource/Right_Here,_Right_Now_(Giorgio_Moroder_song)",http://dbpedia.org/resource/Right_Here_(The_Go-Betweens_song)
+0,89,Revolution,http://dbpedia.org/resource/Ma_révolution,http://dbpedia.org/resource/Revolution_2 http://dbpedia.org/resource/Revolution_(The_Beatles_song) http://dbpedia.org/resource/Revolution_(Beatles_song) http://dbpedia.org/resource/Revolution_(song) http://dbpedia.org/resource/Revolution_1_(Take_20) http://dbpedia.org/resource/Revolution_1 http://dbpedia.org/resource/Revolution_(The_Beatles)
+0,92,Release Me,http://dbpedia.org/resource/Release_Me_(Wilson_Phillips_song),http://dbpedia.org/resource/Release_Me_(And_Let_Me_Love_Again) http://dbpedia.org/resource/Release_Me_(1967_song) http://dbpedia.org/resource/Release_Me_(Engelbert_Humperdinck_song) http://dbpedia.org/resource/Ten_Guitars_(song) http://dbpedia.org/resource/Ten_Guitars http://dbpedia.org/resource/Release_Me_(1946_song) http://dbpedia.org/resource/Please_Release_Me
+0,93,Release,http://dbpedia.org/resource/Release_(The_Tension),http://dbpedia.org/resource/Release_(The_Tea_Party_song)
+0,94,Redemption,http://dbpedia.org/resource/Redemption_(Shadows_Fall_song),http://dbpedia.org/resource/Redemption_(single) http://dbpedia.org/resource/Redemption_(Gackt_song) http://dbpedia.org/resource/Redemption_(song)
+0,95,Red Hot,http://dbpedia.org/resource/The_Red_Hot_Chili_Peppers_(album),http://dbpedia.org/resource/Red_Hot_(Debbie_Gibson_song)
+0,99,Rape Me,http://dbpedia.org/resource/All_Apologies,http://dbpedia.org/resource/Waif_Me http://dbpedia.org/resource/Rape_Me http://dbpedia.org/resource/All_Apologies/Rape_Me http://dbpedia.org/resource/Rape_me http://dbpedia.org/resource/M._V.
+0,102,Rain,http://dbpedia.org/resource/Purple_Rain_(song),http://dbpedia.org/resource/Rain_(The_Beatles_song) http://dbpedia.org/resource/Rain_(Beatles_song)
+0,103,Rain,http://dbpedia.org/resource/Purple_Rain_(song),http://dbpedia.org/resource/Rain_/_Bridge_Over_Troubled_Water http://dbpedia.org/resource/Rain_/_Bridge_over_Troubled_Water http://dbpedia.org/resource/Rain_(Anthony_Callea_song)
+0,105,Radio,http://dbpedia.org/resource/Radio_Radio_Radio,http://dbpedia.org/resource/Radio_(The_Corrs_song)
+0,106,Rachel,,http://dbpedia.org/resource/Rachel_(song)
+0,108,R.I.P.,http://dbpedia.org/resource/R.I.P._(Young_Jeezy_song),http://dbpedia.org/resource/R.I.P._(Millie)
+0,115,Prisoner of Love,http://dbpedia.org/resource/Prisoner_of_Love_(Utada_Hikaru_song),http://dbpedia.org/resource/Prisoner_of_Love_(Tin_Machine_song) http://dbpedia.org/resource/Prisoner_of_Love_(1989_song)
+0,117,Polly,http://dbpedia.org/resource/Polly_(Nirvana_song),http://dbpedia.org/resource/Polly_(The_Kinks_song) http://dbpedia.org/resource/Polly_(Kinks_song)
+0,119,Please Mr. Postman,http://dbpedia.org/resource/Please_Mr._Lostman,"http://dbpedia.org/resource/Please_Mr_Postman http://dbpedia.org/resource/Please,_Mr._Postman http://dbpedia.org/resource/Please_Mister_Postman http://dbpedia.org/resource/Please_Mr._Postman http://dbpedia.org/resource/Wait_a_Minute_Mister_Postman http://dbpedia.org/resource/Wait_a_minute_Mister_Postman http://dbpedia.org/resource/Wait_a_minute_mr._postman http://dbpedia.org/resource/Mr._postman http://dbpedia.org/resource/Wait_a_Minute_Mr._Postman http://dbpedia.org/resource/Wait_a_minute_Mr._Postman http://dbpedia.org/resource/Please_Mr._Postman_(The_Beatles_song)"
+0,122,Please Don't Go,http://dbpedia.org/resource/Please_Don't_Go_(Boyz_II_Men_song),http://dbpedia.org/resource/Please_Don't_Go_(KC_and_the_Sunshine_Band_song)
+0,127,Perfect Day,http://dbpedia.org/resource/Perfect_Day_(EMF_song),http://dbpedia.org/resource/Perfect_Day_(Lou_Reed_song) http://dbpedia.org/resource/Perfect_Day_(BBC_promotion) http://dbpedia.org/resource/Perfect_Day_(Duran_Duran_song) http://dbpedia.org/resource/Perfect_Day_97 http://dbpedia.org/resource/Perfect_Day_'97
+0,132,Party,http://dbpedia.org/resource/Italian_Communist_Party,http://dbpedia.org/resource/Party_(The_Blue_Hearts_song) http://dbpedia.org/resource/Party_(The_Blue_Hearts)
+0,133,Party,http://dbpedia.org/resource/Italian_Communist_Party,http://dbpedia.org/resource/Party_(Christine_Anu_song)
+0,136,"Papa, Can You Hear Me?",http://dbpedia.org/resource/Papa_Can_You_Hear_Me?,"http://dbpedia.org/resource/Papa,_Can_You_Hear_Me?"
+0,141,P.S. I Love You,http://dbpedia.org/resource/PS_I_Love_You_(album),http://dbpedia.org/resource/P._S._I_Love_You_(The_Beatles_song) http://dbpedia.org/resource/P.S._I_Love_You_(Beatles_song) http://dbpedia.org/resource/P.S._I_Love_You_(The_Beatles_song) http://dbpedia.org/resource/P.S._I_Love_You_(song) http://dbpedia.org/resource/P.S._I_Love_You_(1962_song) http://dbpedia.org/resource/PSI_Love_You_(The_Beatles_song) http://dbpedia.org/resource/P_S_I_Love_You_(The_Beatles_song)
+0,144,Over,http://dbpedia.org/resource/Over_(Lindsay_Lohan_song),http://dbpedia.org/resource/Over_(Portishead) http://dbpedia.org/resource/Over_(Portishead_song)
+0,146,Out of Control,http://dbpedia.org/resource/Out_of_Control_(The_Rolling_Stones_song),"http://dbpedia.org/resource/""Out_of_Control""_(George_Jones_song) http://dbpedia.org/resource/Out_of_Control_(George_Jones_song)"
+0,152,Open Road,http://dbpedia.org/resource/Open_Road_(Bryan_Adams_song),http://dbpedia.org/resource/Open_Road_(Gary_Barlow_song)
+0,156,One Word,http://dbpedia.org/resource/One_Word_(Elliott_Yamin_song),http://dbpedia.org/resource/One_Word_(Baby_Animals_song)
+0,160,One More Try,http://dbpedia.org/resource/One_More_Try_(George_Michael_song),http://dbpedia.org/resource/One_More_Try_(Brighton_Rock_song)
+0,163,On Fire,http://dbpedia.org/resource/Girl_on_Fire_(album),http://dbpedia.org/resource/On_Fire_(Lil_Wayne_song) http://dbpedia.org/resource/Da_Da_Da_(Lil_Wayne_Single) http://dbpedia.org/resource/On_Fire_Lil'_Wayne
+0,164,Older,http://dbpedia.org/resource/Older_(album),http://dbpedia.org/resource/Older_/_I_Can't_Make_You_Love_Me http://dbpedia.org/resource/Older_(George_Michael_song)
+0,170,Oh! Darling,http://dbpedia.org/resource/Oh_Darling_(Alisa_Mizuki_song),http://dbpedia.org/resource/Oh_darling http://dbpedia.org/resource/Oh!_Darling http://dbpedia.org/resource/Oh!_Darling_(The_Beatles_song) http://dbpedia.org/resource/Oh_Darling!
+0,173,O.N.E.,http://dbpedia.org/resource/N.O.R.E._(song),http://dbpedia.org/resource/O.N.E. http://dbpedia.org/resource/O.N.E
+0,185,No Lies,http://dbpedia.org/resource/No_Lie_(2_Chainz_song),http://dbpedia.org/resource/No_Lies_(song)

@@ -1,0 +1,12 @@
+F1: 0.58333,Precision: 0.58333,Recall: 0.58333,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,4,WNYS-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WNYS http://dbpedia.org/resource/WNYS-TV http://dbpedia.org/resource/WNYS-DT
+0,5,WNYF-CD,http://dbpedia.org/resource/.cd,http://dbpedia.org/resource/WNYF-LP http://dbpedia.org/resource/WNYF-LD http://dbpedia.org/resource/WNYF-CA http://dbpedia.org/resource/WNYF-CD http://dbpedia.org/resource/WWNY-CD
+0,10,WMDV-LD,http://dbpedia.org/resource/KTPN-LD,http://dbpedia.org/resource/WMDV-LD http://dbpedia.org/resource/WMDV-LP http://dbpedia.org/resource/W18BG
+0,11,WMDF-LD,http://dbpedia.org/resource/KTPN-LD,http://dbpedia.org/resource/Pride_Nation http://dbpedia.org/resource/Proud_TV http://dbpedia.org/resource/WGAY-LP http://dbpedia.org/resource/WMDF-LP http://dbpedia.org/resource/WMDF-LD
+0,12,WMBQ-CD,http://dbpedia.org/resource/.cd,http://dbpedia.org/resource/WMBQ-CA http://dbpedia.org/resource/WMBQ-LD http://dbpedia.org/resource/WMBQ-CD
+0,17,WLMF-LD,http://dbpedia.org/resource/KTPN-LD,http://dbpedia.org/resource/WLMF-LP http://dbpedia.org/resource/WLMF-LD
+0,20,WKUT-LD,http://dbpedia.org/resource/KTPN-LD,http://dbpedia.org/resource/WKUT-LD
+0,21,WKTB-CD,http://dbpedia.org/resource/.cd,http://dbpedia.org/resource/WKTB http://dbpedia.org/resource/WKTB-LD http://dbpedia.org/resource/W38CU http://dbpedia.org/resource/W47DN http://dbpedia.org/resource/W67CI http://dbpedia.org/resource/WKTB-CA http://dbpedia.org/resource/WKTB-CD http://dbpedia.org/resource/W47DN-D
+0,22,WJYL-CD,http://dbpedia.org/resource/.cd,http://dbpedia.org/resource/WJYL-CA http://dbpedia.org/resource/WVHF-CA http://dbpedia.org/resource/W65CX http://dbpedia.org/resource/WJYL http://dbpedia.org/resource/WJYL-CD http://dbpedia.org/resource/WJYL-TV
+0,24,WJKP-LD,http://dbpedia.org/resource/KTPN-LD,http://dbpedia.org/resource/WJKP-LD http://dbpedia.org/resource/WJKP-LP http://dbpedia.org/resource/WJKP

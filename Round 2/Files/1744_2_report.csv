@@ -1,0 +1,8 @@
+"F1: 0.80000","Precision: 0.80000","Recall: 0.80000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"2","4","Elegy","http://dbpedia.org/resource/Elegy_(The_X-Files)","http://dbpedia.org/resource/Elegy_(Twilight_Zone_episode) http://dbpedia.org/resource/Elegy_(Twilight_Zone) http://dbpedia.org/resource/The_Twilight_Zone/Elegy http://dbpedia.org/resource/Elegy_(The_Twilight_Zone_episode) http://dbpedia.org/resource/Elegy_(The_Twilight_Zone)"
+"2","6","The Phenomenon","http://dbpedia.org/resource/Phenomenon_(film)","http://dbpedia.org/resource/The_Phenomenon"
+"2","9","Home","http://dbpedia.org/resource/Home_(Star_Trek:_Enterprise)","http://dbpedia.org/resource/Home_(Glee) http://dbpedia.org/resource/Splits_Magazine"
+"2","10","Monster Swamp","http://dbpedia.org/resource/Monster_Swamp","http://dbpedia.org/resource/Monster_Swamp_(Preacher)"
+"2","13","The Transfer","nan","http://dbpedia.org/resource/The_Transfer http://dbpedia.org/resource/The_Transfer_(Smash)"
+"2","18","A Game of Pool","http://dbpedia.org/resource/A_Game_of_Pool_(The_Twilight_Zone,_1959)","http://dbpedia.org/resource/A_Game_of_Pool_(1961)"

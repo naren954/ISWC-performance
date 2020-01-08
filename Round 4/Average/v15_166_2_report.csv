@@ -1,0 +1,93 @@
+F1: 0.52604,Precision: 0.52604,Recall: 0.52604,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,2,A. Sharp,http://dbpedia.org/resource/Gene_Sharp,http://dbpedia.org/resource/Anthony_Sharp
+2,3,P. Firth,http://dbpedia.org/resource/Colin_Firth,http://dbpedia.org/resource/Peter_Firth
+2,4,P. Pek,http://dbpedia.org/resource/Nam_June_Paik,http://dbpedia.org/resource/Peter_Pek
+2,5,C. Franklin,http://dbpedia.org/resource/Carolyn_Franklin,http://dbpedia.org/resource/Carl_Franklin
+2,7,A. Rocco,http://dbpedia.org/resource/Alfredo_Rocco,http://dbpedia.org/resource/Alex_Rocco http://dbpedia.org/resource/Alexander_F._Petricone
+2,8,G. Harrison,http://dbpedia.org/resource/George_Harrison,http://dbpedia.org/resource/Gregory_Harrison http://dbpedia.org/resource/Gregory_Neale_Harrison
+2,15,G. Gobel,http://dbpedia.org/resource/Jason_Gobel,http://dbpedia.org/resource/George_Gobel http://dbpedia.org/resource/The_George_Gobel_Show http://dbpedia.org/resource/George_Goebel
+2,18,T. L. Chiu-wai,http://dbpedia.org/resource/Organization_for_Security_and_Co-operation_in_Europe,http://dbpedia.org/resource/Liáng_Cháowei http://dbpedia.org/resource/Tony_Leung_Chiu-Wai http://dbpedia.org/resource/Tony_Leung_Chiu-wai http://dbpedia.org/resource/Liang_Ch'ao-wei http://dbpedia.org/resource/Leung_Tsiu-Wai http://dbpedia.org/resource/梁朝伟 http://dbpedia.org/resource/Short_Tony http://dbpedia.org/resource/梁朝偉 http://dbpedia.org/resource/Liang_Chaowei http://dbpedia.org/resource/Tony_Leung_Chiu_Wai
+2,19,R. West,http://dbpedia.org/resource/Roland_West,http://dbpedia.org/resource/Red_West
+2,26,G. Ford,http://dbpedia.org/resource/Gerald_Ford,"http://dbpedia.org/resource/Glenn_Ford http://dbpedia.org/resource/Gwyllyn_Ford http://dbpedia.org/resource/Glen_Ford http://dbpedia.org/resource/Ford,_Glenn http://dbpedia.org/resource/Gwyllyn_Samuel_Newton_Ford"
+2,29,T. Andrews,http://dbpedia.org/resource/William_IV_of_the_United_Kingdom,http://dbpedia.org/resource/Tige_Andrews http://dbpedia.org/resource/Tiger_Andrews
+2,31,D. Day,http://dbpedia.org/resource/Doris_Day,http://dbpedia.org/resource/Owen_Patrick_Eugene_McNulty http://dbpedia.org/resource/Dennis_Day
+2,32,G. Withers,http://dbpedia.org/resource/Grant_Withers,http://dbpedia.org/resource/Googie_Withers http://dbpedia.org/resource/Georgette_Lizette_Withers http://dbpedia.org/resource/Georgette_Lizette_McCallum http://dbpedia.org/resource/Georgette_McCallum http://dbpedia.org/resource/Georgette_Withers
+2,34,J. Murray,http://dbpedia.org/resource/John_Murray_(oceanographer),http://dbpedia.org/resource/Jenn_Murray
+2,37,D. Thomas,http://dbpedia.org/resource/Dylan_Thomas,http://dbpedia.org/resource/Amos_Muzyad_Yakhoob_Kairouz http://dbpedia.org/resource/Danny_Thomas
+2,40,S. Edge,http://dbpedia.org/resource/The_Edge,"http://dbpedia.org/resource/Steven_Edge http://dbpedia.org/resource/Stephen_Edge http://dbpedia.org/resource/Edge,_Steve http://dbpedia.org/resource/Steve_Edge"
+2,42,R. Schaal,http://dbpedia.org/resource/Kristen_Schaal,http://dbpedia.org/resource/Richard_Schaal
+2,44,R. Gee,http://dbpedia.org/resource/Robert_Gee,http://dbpedia.org/resource/Robbie_Gee
+2,45,F. Wong,http://dbpedia.org/resource/Faye_Wong,http://dbpedia.org/resource/Huang_Rihua http://dbpedia.org/resource/Felix_Wong http://dbpedia.org/resource/Wong_Yat_Wa http://dbpedia.org/resource/Wong_yat_wah
+2,48,E. Roche,http://dbpedia.org/resource/Édouard_Roche,http://dbpedia.org/resource/Eugene_Roche
+2,49,K. Alexander,http://dbpedia.org/resource/Keith_Alexander_(guitarist),"http://dbpedia.org/resource/Alexander,_Khandi http://dbpedia.org/resource/Khandi_Alexander"
+2,51,G. Robbins,http://dbpedia.org/resource/Jerome_Robbins,http://dbpedia.org/resource/Glenn_Robbins
+2,52,J. Williams,http://dbpedia.org/resource/John_Williams,http://dbpedia.org/resource/Jobeth_Williams http://dbpedia.org/resource/JoBeth_Williams http://dbpedia.org/resource/Jo-Beth_Williams http://dbpedia.org/resource/Jo_Beth_Williams
+2,53,D. Alexander,http://dbpedia.org/resource/Daniele_Alexander,"http://dbpedia.org/resource/Alexander,_Denise http://dbpedia.org/resource/Denise_Alexander"
+2,54,M. Cronin,http://dbpedia.org/resource/Mikal_Cronin,http://dbpedia.org/resource/Michael_Cronin_(actor)
+2,55,H. Hall,http://dbpedia.org/resource/Henry_Hall_(Egyptologist),http://dbpedia.org/resource/Henry_Richard_Hall http://dbpedia.org/resource/Huntz_Hall
+2,61,G. Owen,http://dbpedia.org/resource/George_Owen_(ice_hockey),http://dbpedia.org/resource/Glyn_Owen
+2,62,M. Terry,http://dbpedia.org/resource/Michael_Grant_Terry,http://dbpedia.org/resource/Michelle_Terry
+2,63,J. Ross,http://dbpedia.org/resource/Jerry_Ross_(composer),http://dbpedia.org/resource/Jeff_Ross http://dbpedia.org/resource/The_Roastmaster_General http://dbpedia.org/resource/Jeff_Hitler_Ross http://dbpedia.org/resource/Jeffrey_Ross
+2,65,R. Seth,http://dbpedia.org/resource/Raghunath_Seth,http://dbpedia.org/resource/Roshan_Seth
+2,67,C. Barrie,http://dbpedia.org/resource/J._M._Barrie,http://dbpedia.org/resource/Chris_Barrie
+2,69,H. Linden,http://dbpedia.org/resource/Henning_Linden,http://dbpedia.org/resource/Hal_Linden
+2,70,L. G. Jr.,http://dbpedia.org/resource/Lawrence_Gilliard_Jr.,"http://dbpedia.org/resource/Lou_Gossett_Jr http://dbpedia.org/resource/Lou_Gossett_Jr. http://dbpedia.org/resource/Lou_Gossett http://dbpedia.org/resource/Lewis_Gossett_Jr. http://dbpedia.org/resource/Louis_Gossett http://dbpedia.org/resource/Louis_Gossett_Jr http://dbpedia.org/resource/Louis_Gossett_Jr. http://dbpedia.org/resource/Louis_Gossett,_Jr. http://dbpedia.org/resource/Louis_Gossett,_Jr http://dbpedia.org/resource/Lou_Gossett,_Jr."
+2,71,S. Acker,http://dbpedia.org/resource/Amy_Acker,"http://dbpedia.org/resource/Sharon_Acker http://dbpedia.org/resource/Acker,_Sharon"
+2,73,E. G. Marshall,"http://dbpedia.org/resource/Harold_Alexander,_1st_Earl_Alexander_of_Tunis",http://dbpedia.org/resource/Eg_marshall http://dbpedia.org/resource/Everett_Eugene_Grunz http://dbpedia.org/resource/E_G_Marshall http://dbpedia.org/resource/E.G._Marshall http://dbpedia.org/resource/E._G._Marshall http://dbpedia.org/resource/EG_Marshall
+2,77,A. Redman,http://dbpedia.org/resource/Dewey_Redman,http://dbpedia.org/resource/Amanda_Redman http://dbpedia.org/resource/Amanda_Jacqueline_Redman
+2,79,D. Adams,http://dbpedia.org/resource/Douglas_Adams,"http://dbpedia.org/resource/Donald_James_Yarmy http://dbpedia.org/resource/Donald_Yarmy http://dbpedia.org/resource/Don_Adams_(Actor) http://dbpedia.org/resource/Don_Adams http://dbpedia.org/resource/Adams,_Don http://dbpedia.org/resource/Missed_it_by_that_much"
+2,80,J. Harris,http://dbpedia.org/resource/Richard_Harris,http://dbpedia.org/resource/Jackie_Harris http://dbpedia.org/resource/Jackie_Harris_(football) http://dbpedia.org/resource/Jackie_Harris_(American_football) http://dbpedia.org/resource/Jackie_Harris_(football_player)
+2,81,R. Downey,http://dbpedia.org/resource/Morton_Downey,http://dbpedia.org/resource/Roma_Downey
+2,83,D. White,http://dbpedia.org/resource/Franklin_D._Roosevelt,http://dbpedia.org/resource/David_White_(actor)
+2,86,C. Pizzey,http://dbpedia.org/resource/Erin_Pizzey,http://dbpedia.org/resource/Christopher_Pizzey
+2,89,C. Jeavons,http://dbpedia.org/resource/Aaron_Jeavons,http://dbpedia.org/resource/Colin_Jeavons
+2,92,A. Hillman,http://dbpedia.org/resource/Elsie_Hillman,http://dbpedia.org/resource/Avriel_Hillman
+2,94,R. O'Donoghue,http://dbpedia.org/resource/Michael_O'Donoghue,http://dbpedia.org/resource/Rory_O'Donoghue
+2,97,J. Webb,http://dbpedia.org/resource/Jack_Webb,http://dbpedia.org/resource/Jane_Webb
+2,98,R. Ely,http://dbpedia.org/resource/R._Kelly,http://dbpedia.org/resource/Ronald_Pierce http://dbpedia.org/resource/Ronald_Ely http://dbpedia.org/resource/Ron_Ely
+2,100,A. Dick,http://dbpedia.org/resource/Dick_Cheney,http://dbpedia.org/resource/Andy_**** http://dbpedia.org/resource/Daphne_aguilera http://dbpedia.org/resource/Andy_Dick http://dbpedia.org/resource/Daphne_Aguilera
+2,109,M. Craig,http://dbpedia.org/resource/Mira_Craig,http://dbpedia.org/resource/Michael_Gregson http://dbpedia.org/resource/Michael_Craig_(actor) http://dbpedia.org/resource/Michael_Francis_Gregson
+2,110,J. Brown,http://dbpedia.org/resource/James_Brown,http://dbpedia.org/resource/James_Brown_(actor) http://dbpedia.org/resource/James_Brown_(Rin_Tin_Tin)
+2,112,B. Williams,http://dbpedia.org/resource/Bernard_Williams,http://dbpedia.org/resource/Bill_Williams_(actor)
+2,113,G. Greene,http://dbpedia.org/resource/Graham_Greene,http://dbpedia.org/resource/Graham_Greene_(actor)
+2,114,G. Gordon,http://dbpedia.org/resource/Gale_Gordon,http://dbpedia.org/resource/Glen_Gordon
+2,115,J. Bannon,http://dbpedia.org/resource/John_Bannon,http://dbpedia.org/resource/Jim_Bannon
+2,118,D. Birney,http://dbpedia.org/resource/Reed_Birney,http://dbpedia.org/resource/David_Birney http://dbpedia.org/resource/David_bernie
+2,119,G. Jones,http://dbpedia.org/resource/Grandpa_Jones,http://dbpedia.org/resource/Gordon_Jones_(actor)
+2,122,P. Sun-young,http://dbpedia.org/resource/Luna_(singer),http://dbpedia.org/resource/Park_Sun-young_(actress)
+2,125,T. O'Kelley,http://dbpedia.org/resource/Audrey_Roos,http://dbpedia.org/resource/Tricia_O'Kelley
+2,126,D. Mitchell,http://dbpedia.org/resource/Don_Mitchell_(actor),http://dbpedia.org/resource/David_Mitchell_(actor) http://dbpedia.org/resource/David_Mitchell_(comedian) http://dbpedia.org/resource/David_Mitchell's_Soap_Box
+2,128,B. Forteza,http://dbpedia.org/resource/Francisco_Forteza,http://dbpedia.org/resource/Barbie_Forteza
+2,132,G. Saunders,http://dbpedia.org/resource/Gwenno_Saunders,http://dbpedia.org/resource/Gloria_Saunders
+2,133,A. Boyer,http://dbpedia.org/resource/Marie-France_Boyer,http://dbpedia.org/resource/Angélique_Boyer http://dbpedia.org/resource/Angélique_Monique-Paulette_Boyer_Rousseau http://dbpedia.org/resource/C3Q'S http://dbpedia.org/resource/Angelique_Boyer
+2,134,T. Liye,,http://dbpedia.org/resource/Tere_Liye_(TV_series)
+2,135,J. Scalia,http://dbpedia.org/resource/Antonin_Scalia,http://dbpedia.org/resource/Jack_Scalia
+2,137,M. Rivera,http://dbpedia.org/resource/Diego_Rivera,http://dbpedia.org/resource/Marian_Rivera
+2,140,J. Gonzales,http://dbpedia.org/resource/José_González_(singer),http://dbpedia.org/resource/Jeric_Gonzales
+2,141,T. Bahuraniyaan,http://dbpedia.org/resource/T.A.T.u.,http://dbpedia.org/resource/Teen_Bahuraaniyaan http://dbpedia.org/resource/Teen_Bahuraniyaan
+2,142,M. Han,http://dbpedia.org/resource/Murat_Han,http://dbpedia.org/resource/Maggie_Han http://dbpedia.org/resource/Maggie_han
+2,143,C. Ramírez,http://dbpedia.org/resource/Carlos_Ramírez_(singer),http://dbpedia.org/resource/Claudia_Ramírez http://dbpedia.org/resource/Claudia_Ramirez
+2,146,D. McLean,http://dbpedia.org/resource/Don_McLean,http://dbpedia.org/resource/David_McLean_(actor)
+2,148,S. Gupta,http://dbpedia.org/resource/Sanjay_Gupta,http://dbpedia.org/resource/Sidhant_Gupta
+2,149,S. McNally,http://dbpedia.org/resource/Kevin_McNally,http://dbpedia.org/resource/Horace_McNally http://dbpedia.org/resource/Horace_Vincent_McNally http://dbpedia.org/resource/Stephen_McNally
+2,150,M. Khan,http://dbpedia.org/resource/Afzal_Khan_(British_politician),http://dbpedia.org/resource/Marina_Khan
+2,151,A. Omar,http://dbpedia.org/resource/Umar,http://dbpedia.org/resource/Ayesha_Omer http://dbpedia.org/resource/Aisha_Omer http://dbpedia.org/resource/Ayesha_Omar
+2,153,D. Woods,http://dbpedia.org/resource/D._Woods,http://dbpedia.org/resource/Donald_Woods_(actor)
+2,155,H. Lauter,http://dbpedia.org/resource/Ed_Lauter,http://dbpedia.org/resource/Harry_Lauter
+2,157,D. Robertson,http://dbpedia.org/resource/William_Robertson_(historian),http://dbpedia.org/resource/Dale_Robertson
+2,159,S. Nelson,"http://dbpedia.org/resource/Horatio_Nelson,_1st_Viscount_Nelson",http://dbpedia.org/resource/Sandra_Nelson_Winkler http://dbpedia.org/resource/Sandra_Nelson
+2,160,P. Bishop,http://dbpedia.org/resource/Kelly_Bishop,http://dbpedia.org/resource/Paul_Bishop
+2,161,L. Goddard,http://dbpedia.org/resource/Paulette_Goddard,http://dbpedia.org/resource/Liza_Goddard http://dbpedia.org/resource/Lisa_Goddard
+2,165,M. LeBlanc,http://dbpedia.org/resource/Maurice_Leblanc,"http://dbpedia.org/resource/Matt_LeBlanc http://dbpedia.org/resource/Matthew_Steven_""Matt""_LeBlanc http://dbpedia.org/resource/Matthew_Steven_LeBlanc http://dbpedia.org/resource/Matthew_David_Leblanc http://dbpedia.org/resource/Matt_Leblanc http://dbpedia.org/resource/Matt_Le_Blanc http://dbpedia.org/resource/Matthew_LeBlanc"
+2,168,A. d. Leon,http://dbpedia.org/resource/Alfonso_VII_of_León_and_Castile,http://dbpedia.org/resource/Angelu_de_leon http://dbpedia.org/resource/Angelu_De_Leon http://dbpedia.org/resource/Angelu_de_Leon
+2,172,D. Rambo,http://dbpedia.org/resource/Dottie_Rambo,http://dbpedia.org/resource/Dack_rambo http://dbpedia.org/resource/Dack_Rambo http://dbpedia.org/resource/Dirk_Rambo http://dbpedia.org/resource/Norman_Jay_Rambeau
+2,174,B. Dana,http://dbpedia.org/resource/William_H._Dana,"http://dbpedia.org/resource/Bill_Dana http://dbpedia.org/resource/Dana,_Bill http://dbpedia.org/resource/Bill_Dana_(comedian) http://dbpedia.org/resource/Bill_dana"
+2,175,A. Keller,http://dbpedia.org/resource/Helen_Keller,http://dbpedia.org/resource/Amanda_Keller
+2,177,D. Trillo,http://dbpedia.org/resource/Carlos_Trillo,http://dbpedia.org/resource/Dennis_Trillo
+2,180,S. S. Lega,http://dbpedia.org/resource/National_League_for_Democracy,http://dbpedia.org/resource/Sumit_Sambhal_Lega
+2,181,R. Gutierrez,http://dbpedia.org/resource/Roland_Gutierrez_(musician),http://dbpedia.org/resource/Richard_Gutiérrez http://dbpedia.org/resource/Richard_Kristian_Rama_Gutierrez http://dbpedia.org/resource/Richard_Gutierrez
+2,182,W. Hutchins,http://dbpedia.org/resource/Waldo_Hutchins,http://dbpedia.org/resource/Will_Hutchins
+2,184,N. McKeon,http://dbpedia.org/resource/Buck_McKeon,http://dbpedia.org/resource/Nancy_McKeon http://dbpedia.org/resource/Nancy_Justine_McKeon http://dbpedia.org/resource/Nancy_J._McKeon http://dbpedia.org/resource/Nancy_J_McKeon
+2,187,J. May,http://dbpedia.org/resource/Jonathan_May,http://dbpedia.org/resource/Jodhi_May
+2,190,H. Takizawa,http://dbpedia.org/resource/Osamu_Takizawa,http://dbpedia.org/resource/Takizawa_Hideaki http://dbpedia.org/resource/Hideaki_Takizawa http://dbpedia.org/resource/Tackey http://dbpedia.org/resource/Takki

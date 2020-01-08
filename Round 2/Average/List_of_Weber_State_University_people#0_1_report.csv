@@ -1,0 +1,5 @@
+F1: 0.70000,Precision: 0.70000,Recall: 0.70000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,8,Wilford M. McKendrick,http://dbpedia.org/resource/John_Gray_McKendrick,http://dbpedia.org/resource/Wilford_M._McKendrick
+1,9,William W. Henderson,http://dbpedia.org/resource/William_Henderson_(priest),http://dbpedia.org/resource/William_Williams_Henderson http://dbpedia.org/resource/William_W._Henderson
+1,26,Stephen D. Nadauld,http://dbpedia.org/resource/Stephen_Conway,http://dbpedia.org/resource/Steven_Nadauld http://dbpedia.org/resource/Steven_D._Nadauld http://dbpedia.org/resource/Stephen_D._Nadauld http://dbpedia.org/resource/Stephen_Nadauld http://dbpedia.org/resource/Stephen_Douglas_Nadauld

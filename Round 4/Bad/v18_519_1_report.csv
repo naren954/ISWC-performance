@@ -1,0 +1,15 @@
+F1: 0.35000,Precision: 0.35000,Recall: 0.35000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,J. Farms,http://dbpedia.org/resource/Göran_Färm,http://dbpedia.org/resource/Juddmonte_Stud http://dbpedia.org/resource/Juddmonte_Farm http://dbpedia.org/resource/Juddmonte_Farms
+1,4,J. Farms,http://dbpedia.org/resource/Göran_Färm,http://dbpedia.org/resource/Juddmonte_Stud http://dbpedia.org/resource/Juddmonte_Farm http://dbpedia.org/resource/Juddmonte_Farms
+1,5,B. Stable,http://dbpedia.org/resource/Ken_Stabler,http://dbpedia.org/resource/Brookmeade_Stable
+1,6,W. H. Perry,http://dbpedia.org/resource/William_H._Perry,http://dbpedia.org/resource/William_Haggin_Perry
+1,8,W. Stable,http://dbpedia.org/resource/Ken_Stabler,http://dbpedia.org/resource/Wheatley_Stable http://dbpedia.org/resource/Wheatley_Stables
+1,10,E. R. Bradley,http://dbpedia.org/resource/Stephen_R._Bradley,http://dbpedia.org/resource/Edward_R._Bradley http://dbpedia.org/resource/Edward_Riley_Bradley
+1,11,N. Stud,http://dbpedia.org/resource/Bernhard_Studer,http://dbpedia.org/resource/National_Stud http://dbpedia.org/resource/The_National_Stud
+1,13,"George Child Villiers, 5th Earl of Jersey","http://dbpedia.org/resource/Victor_Child_Villiers,_7th_Earl_of_Jersey","http://dbpedia.org/resource/George_Child_Villiers,_5th_Earl_of_Jersey http://dbpedia.org/resource/George_Child-Villiers,_5th_Earl_of_Jersey http://dbpedia.org/resource/George_Villiers,_5th_Earl_of_Jersey"
+1,14,C. Farm,http://dbpedia.org/resource/George_Farm,http://dbpedia.org/resource/Calumet_Farm http://dbpedia.org/resource/Calumet_farm http://dbpedia.org/resource/Calumet_Farms
+1,15,J. Farms,http://dbpedia.org/resource/Göran_Färm,http://dbpedia.org/resource/Juddmonte_Stud http://dbpedia.org/resource/Juddmonte_Farm http://dbpedia.org/resource/Juddmonte_Farms
+1,16,C. Farm,http://dbpedia.org/resource/George_Farm,http://dbpedia.org/resource/Claiborne_Farm
+1,18,W. Farm,http://dbpedia.org/resource/George_Farm,http://dbpedia.org/resource/Winstar_Farm http://dbpedia.org/resource/WinStar_Farm http://dbpedia.org/resource/Prestonwood_Racing http://dbpedia.org/resource/Prestonwood_Farm
+1,19,C. Farm,http://dbpedia.org/resource/George_Farm,http://dbpedia.org/resource/Calumet_Farm http://dbpedia.org/resource/Calumet_farm http://dbpedia.org/resource/Calumet_Farms

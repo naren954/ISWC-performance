@@ -1,0 +1,63 @@
+F1: 0.63253,Precision: 0.63253,Recall: 0.63253,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,8,W. Cooper,http://dbpedia.org/resource/Wayne_Cooper_(basketball),http://dbpedia.org/resource/Wayne_Cooper_(snooker_player)
+0,9,W. Simpson,http://dbpedia.org/resource/Webb_Simpson,http://dbpedia.org/resource/Warren_Simpson
+0,10,W. King,http://dbpedia.org/resource/William_King_(footballer),http://dbpedia.org/resource/Warren_King_(snooker_player)
+0,13,T. Shaw,http://dbpedia.org/resource/Tim_Shaw_(swimmer),http://dbpedia.org/resource/Troy_Shaw
+0,16,T. Ford,http://dbpedia.org/resource/Trevor_Ford,http://dbpedia.org/resource/Tom_Ford_(snooker_player)
+0,18,T. Murphy,http://dbpedia.org/resource/Trent_Murphy,http://dbpedia.org/resource/Terry_Murphy_(snooker_player)
+0,20,S. Wilson,"http://dbpedia.org/resource/Scott_Wilson_(footballer,_born_1977)",http://dbpedia.org/resource/Sydney_Wilson
+0,21,S. Reardon,http://dbpedia.org/resource/Stuart_Reardon,http://dbpedia.org/resource/Stuart_Reardon_(snooker_player)
+0,26,S. Duggan,http://dbpedia.org/resource/Meghan_Duggan,http://dbpedia.org/resource/Steve_Duggan
+0,30,S. Bedford,http://dbpedia.org/resource/Sean_Bedford,http://dbpedia.org/resource/Simon_Bedford
+0,34,S. MacKenzie,http://dbpedia.org/resource/Scott_MacKenzie_(darts_player),http://dbpedia.org/resource/Scott_MacKenzie_(snooker_player)
+0,37,S. Craigie,http://dbpedia.org/resource/Stephen_Craigie,http://dbpedia.org/resource/Sam_Craigie
+0,38,S. Baird,http://dbpedia.org/resource/Sammy_Baird,http://dbpedia.org/resource/Sam_Baird
+0,44,R. Lawler,http://dbpedia.org/resource/Raymond_Lawler,http://dbpedia.org/resource/Rod_Lawler http://dbpedia.org/resource/Rod_the_Plod
+0,47,R. Williams,http://dbpedia.org/resource/Ryan_Williams_(American_football),http://dbpedia.org/resource/Robbie_Williams_(snooker_player)
+0,48,R. Clark,http://dbpedia.org/resource/Ryan_Clark_(snooker_player),http://dbpedia.org/resource/Rhys_Clark_(snooker_player)
+0,49,R. Williams,http://dbpedia.org/resource/Ryan_Williams_(American_football),http://dbpedia.org/resource/Rex_Williams_(snooker_player) http://dbpedia.org/resource/Rex_Williams_(billiards_player) http://dbpedia.org/resource/Rex_Williams
+0,50,R. Evans,http://dbpedia.org/resource/Rob_Evans_(rugby_player),http://dbpedia.org/resource/Reanne_Evans
+0,51,R. Edmonds,http://de.dbpedia.org/resource/Randy_Edmonds,http://dbpedia.org/resource/Ray_Edmonds
+0,67,N. Walker,http://dbpedia.org/resource/Neil_Walker_(swimmer),http://dbpedia.org/resource/Nick_Walker_(snooker_player)
+0,69,M. MacLeod,http://dbpedia.org/resource/Murdo_MacLeod,http://dbpedia.org/resource/Murdo_MacLeod_(snooker_player)
+0,71,M. Mann,http://dbpedia.org/resource/Marcus_Mann,http://dbpedia.org/resource/Mitchell_Mann
+0,73,M. Dunn,http://dbpedia.org/resource/Mike_Dunn_(baseball),http://dbpedia.org/resource/Mike_Dunn_(snooker_player)
+0,74,M. Price,http://dbpedia.org/resource/Mark_Price,http://dbpedia.org/resource/Mick_Price_(snooker_player)
+0,76,M. Leslie,http://dbpedia.org/resource/Martin_Leslie_(rugby_union),http://dbpedia.org/resource/Michael_Leslie
+0,77,M. Holt,http://dbpedia.org/resource/Maxwell_Holt,http://dbpedia.org/resource/Michael_Holt_(snooker_player) http://dbpedia.org/resource/Michael_Holt_(snooker)
+0,83,M. King,http://dbpedia.org/resource/Marquette_King,http://dbpedia.org/resource/Mark_King_(snooker_player) http://dbpedia.org/resource/Mark_King_(snooker) http://dbpedia.org/resource/The_Romford_Battler
+0,86,M. Gray,http://dbpedia.org/resource/Mel_Gray_(return_specialist),http://dbpedia.org/resource/Mark_Gray_(snooker_player) http://dbpedia.org/resource/Mark_Gray_(pool_player)
+0,87,M. Davis,"http://dbpedia.org/resource/Mark_Davis_(basketball,_born_1963)",http://dbpedia.org/resource/Mark_Davis_(snooker_player) http://dbpedia.org/resource/Mark_Davis_(snooker)
+0,88,M. Boyle,http://dbpedia.org/resource/Martin_Boyle,http://dbpedia.org/resource/Mark_Boyle_(snooker_player)
+0,89,M. Bennett,http://dbpedia.org/resource/Michael_Bennett_(boxer),http://dbpedia.org/resource/Mark_Bennett_(snooker_player)
+0,90,M. Owen,http://dbpedia.org/resource/Maribel_Owen,http://dbpedia.org/resource/Marcus_Owen
+0,97,L. Ning,http://dbpedia.org/resource/Li_Ning,http://dbpedia.org/resource/Lu_Ning http://dbpedia.org/resource/Lü_Ning
+0,98,L. Song,http://dbpedia.org/resource/Luke_Song,http://dbpedia.org/resource/Liu_Song_(snooker) http://dbpedia.org/resource/劉菘 http://dbpedia.org/resource/Liu_Song_(snooker_player)
+0,101,L. Yan,http://dbpedia.org/resource/Poon_Lok_Yan,http://dbpedia.org/resource/Li_Yan_(snooker_player)
+0,102,L. Hang,http://dbpedia.org/resource/Li_Hang_(footballer),http://dbpedia.org/resource/Li_Hang_(snooker_player)
+0,105,L. Walker,http://dbpedia.org/resource/Liam_Walker,http://dbpedia.org/resource/Lee_Walker_(snooker_player) http://dbpedia.org/resource/Lee_Walker
+0,107,L. Page,http://dbpedia.org/resource/Louis_Page,http://dbpedia.org/resource/Lee_Page
+0,112,K. Stevens,http://dbpedia.org/resource/Kevin_Stevens,http://dbpedia.org/resource/Kirk_Stevens
+0,113,J. Astley,http://dbpedia.org/resource/John_Astley_(snooker_player),http://dbpedia.org/resource/Justin_Astley
+0,115,J. Brown,http://dbpedia.org/resource/Jerry_Brown_(gridiron_football),http://dbpedia.org/resource/Jordan_Brown_(snooker_player)
+0,117,J. Wright,http://dbpedia.org/resource/Jaret_Wright,http://dbpedia.org/resource/Jon_Wright_(snooker_player)
+0,120,J. Dunning,http://dbpedia.org/resource/Jack_Dunning,http://dbpedia.org/resource/John_Dunning_(snooker_player) http://dbpedia.org/resource/John_Dunnning_(snooker_player)
+0,121,J. Campbell,http://dbpedia.org/resource/Jasmine_Campbell,http://dbpedia.org/resource/John_Campbell_(snooker_player)
+0,125,J. Walker,"http://dbpedia.org/resource/Johnny_Walker_(footballer,_born_1928)",http://dbpedia.org/resource/Joel_Walker_(snooker_player)
+0,128,J. Delaney,http://dbpedia.org/resource/Joe_Delaney,http://dbpedia.org/resource/Joe_Delaney_(snooker) http://dbpedia.org/resource/Joe_Delaney_(snooker_player)
+0,129,J. Long,http://dbpedia.org/resource/Julius_Long,http://dbpedia.org/resource/Jin_Long_(snooker_player)
+0,130,J. Robertson,"http://dbpedia.org/resource/John_Robertson_(footballer,_born_1953)",http://dbpedia.org/resource/Jimmy_Robertson_(Robbo) http://dbpedia.org/resource/Jimmy_Robertson_(snooker_player)
+0,133,J. Donnelly,http://dbpedia.org/resource/James_Donnelly_(baseball),http://dbpedia.org/resource/Jim_donnelly http://dbpedia.org/resource/Jim_Donnelly
+0,135,J. Weston,http://dbpedia.org/resource/John_Weston_(footballer),http://dbpedia.org/resource/Jason_Weston
+0,137,J. Ferguson,http://dbpedia.org/resource/Jesse_Ferguson,http://dbpedia.org/resource/Jason_Ferguson_(snooker_player)
+0,138,J. R. Clarke,http://dbpedia.org/resource/John_Mason_Clarke,http://dbpedia.org/resource/Jamie_Rhys_Clarke http://dbpedia.org/resource/Jamie_Clarke_(snooker_player)
+0,139,J. Jones,http://dbpedia.org/resource/Jacoby_Jones,http://dbpedia.org/resource/Jamie_Jones_(snooker_player) http://dbpedia.org/resource/Jamie_Jones(snooker)
+0,143,J. McBain,http://dbpedia.org/resource/Jamie_McBain,http://dbpedia.org/resource/James_McBain_(cue_sports) http://dbpedia.org/resource/James_McBain_(snooker_player)
+0,146,J. Jones,http://dbpedia.org/resource/Jacoby_Jones,http://dbpedia.org/resource/Jak_Jones
+0,148,I. Santos,http://dbpedia.org/resource/Iago_Santos,http://dbpedia.org/resource/Itaro_Santos
+0,155,G. Miles,http://dbpedia.org/resource/Gina_Miles,http://dbpedia.org/resource/Graham_Miles
+0,158,G. Wilson,"http://dbpedia.org/resource/George_Wilson_(basketball,_born_1942)",http://dbpedia.org/resource/Gary_Wilson_(snooker_player)
+0,161,G. Owen,http://dbpedia.org/resource/Garfield_Owen,http://dbpedia.org/resource/Gary_Owen_(snooker_player)
+0,163,G. Allen,http://dbpedia.org/resource/Grayson_Allen,http://dbpedia.org/resource/Gareth_Allen
+0,164,F. Davis,http://dbpedia.org/resource/Fred_Davis_(tight_end),http://dbpedia.org/resource/Fred_Davis_(billiards_player) http://dbpedia.org/resource/Fred_Davis_(snooker_player) http://dbpedia.org/resource/Fred_Davis_(Billiards)

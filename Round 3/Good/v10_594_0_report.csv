@@ -1,0 +1,5 @@
+F1: 0.78571,Precision: 0.78571,Recall: 0.78571,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,A. Lee,http://dbpedia.org/resource/Abel_Lee,http://dbpedia.org/resource/Annabelle_Lee
+0,5,A. Cindric,http://dbpedia.org/resource/Slavin_Cindrić,http://dbpedia.org/resource/Ann_Cindric
+0,13,A. Allen,http://dbpedia.org/resource/Albert_Allen,http://dbpedia.org/resource/Agnes_Allen http://dbpedia.org/resource/Agnes_Lorraine_Allen

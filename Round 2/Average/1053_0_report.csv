@@ -1,0 +1,5 @@
+F1: 0.75000,Precision: 0.75000,Recall: 0.75000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,7,H. G. Hashemi,http://dbpedia.org/resource/H._G._Callan,http://dbpedia.org/resource/Hassan_Hashemi http://dbpedia.org/resource/Hassan_Ghazizadeh_Hashemi
+0,9,H. R. Purkey,http://dbpedia.org/resource/H._R._Giger,http://dbpedia.org/resource/Harry_R._Purkey http://dbpedia.org/resource/Harry_Purkey
+0,12,H. N. Jr.,http://dbpedia.org/resource/John_H._Russell_Jr.,"http://dbpedia.org/resource/Harold_Naughton,_Jr. http://dbpedia.org/resource/Harold_Naughton_Jr."

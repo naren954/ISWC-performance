@@ -1,0 +1,8 @@
+F1: 0.50000,Precision: 0.50000,Recall: 0.50000,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,3,A. Wheeler,http://dbpedia.org/resource/John_Archibald_Wheeler,http://dbpedia.org/resource/Anne_Wheeler
+3,5,D. L. Sau-Yiu,http://dbpedia.org/resource/ParaNorman,http://dbpedia.org/resource/POV_Movie_Production_Co._Ltd. http://dbpedia.org/resource/Dennis_Law_Sau-Yiu http://dbpedia.org/resource/Dennis_Law_Sau-yiu http://dbpedia.org/resource/Dennis_Law_(film_director) http://dbpedia.org/resource/Point_of_View_Movie_Production_Co._Ltd. http://dbpedia.org/resource/Dennis_S.Y._Law http://dbpedia.org/resource/Dennis_Law_(film_producer)
+3,6,M. Lawrence,http://dbpedia.org/resource/Marc_Lawrence,http://dbpedia.org/resource/Martin_lawrence http://dbpedia.org/resource/Martin_Lawrence
+3,7,J. Knowles,http://dbpedia.org/resource/Mathew_Knowles,http://dbpedia.org/resource/John_Knowles
+3,10,A. Sulkin,http://dbpedia.org/resource/Gregg_Sulkin,http://dbpedia.org/resource/Alec_Sulkin
+3,12,S. Gillard,http://fr.dbpedia.org/resource/Françoise_Gillard,http://dbpedia.org/resource/Stuart_Gillard

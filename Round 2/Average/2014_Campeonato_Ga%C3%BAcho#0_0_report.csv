@@ -1,0 +1,6 @@
+F1: 0.73333,Precision: 0.73333,Recall: 0.73333,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,4,Cruzeiro (RS),http://dbpedia.org/resource/Cruzeiro_Esporte_Clube,http://dbpedia.org/resource/Esporte_Clube_Cruzeiro http://dbpedia.org/resource/Esporte_Clube_Cruzeiro_(RS)
+0,5,Esportivo,http://dbpedia.org/resource/Deportivo_de_La_Coruña,http://dbpedia.org/resource/Clube_Esportivo_Bento_Gonçalves
+0,11,Passo Fundo,http://dbpedia.org/resource/Esporte_Clube_Pelotas,http://dbpedia.org/resource/Esporte_Clube_Passo_Fundo
+0,15,SÃ£o Paulo (RG),http://dbpedia.org/resource/São_Paulo_FC,http://dbpedia.org/resource/Sport_Club_São_Paulo

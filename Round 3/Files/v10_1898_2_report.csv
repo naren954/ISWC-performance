@@ -1,0 +1,7 @@
+"F1: 0.94118","Precision: 0.94118","Recall: 0.94118"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"2","7","On The Mountain","http://dbpedia.org/resource/Fire_on_the_Mountain_(album)","http://dbpedia.org/resource/On_The_Mountain http://dbpedia.org/resource/On_the_Mountain"
+"2","25","Titan","http://dbpedia.org/resource/Titan_(Baxter_novel)","http://dbpedia.org/resource/Titan_(John_Varley_novel) http://dbpedia.org/resource/Titan_(John_Varley)"
+"2","48","Hollywood","http://dbpedia.org/resource/Hollywood_(Bukowski_novel)","http://dbpedia.org/resource/Hollywood_(Vidal_novel) http://dbpedia.org/resource/Hollywood_(Vidal) http://dbpedia.org/resource/Hollywood_(Gore_Vidal_novel)"
+"2","51","The Sight","http://dbpedia.org/resource/Out_of_Sight_(novel)","http://dbpedia.org/resource/The_Sight_(Hunter_novel) http://dbpedia.org/resource/The_Sight_(Warriors)"
+"2","64","Ring","http://dbpedia.org/resource/Der_Ring_des_Nibelungen","http://dbpedia.org/resource/Ring_(Stephen_Baxter) http://dbpedia.org/resource/Ring_(Baxter_novel) http://dbpedia.org/resource/Ring_(stephen_baxter) http://dbpedia.org/resource/Ring_(book) http://dbpedia.org/resource/Ring_(Stephen_Baxter_novel)"

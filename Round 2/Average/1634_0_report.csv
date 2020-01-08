@@ -1,0 +1,20 @@
+F1: 0.51351,Precision: 0.51351,Recall: 0.51351,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Ș. Nanu,http://dbpedia.org/resource/Florin_Nanu,http://dbpedia.org/resource/Ştefan_Nanu http://dbpedia.org/resource/Ștefan_Nanu http://dbpedia.org/resource/Stefan_Nanu
+0,7,Ž. Mitraković,http://dbpedia.org/resource/Z,http://dbpedia.org/resource/Zeljko_Mitrakovic http://dbpedia.org/resource/Željko_Mitrakovič http://dbpedia.org/resource/Željko_Mitraković
+0,8,Ž. Markov,http://dbpedia.org/resource/Danny_Markov,http://dbpedia.org/resource/Zeljko_Markov http://dbpedia.org/resource/Željko_Markov
+0,9,Ž. Kopić,http://dbpedia.org/resource/Fausto_Coppi,http://dbpedia.org/resource/Zeljko_Kopic http://dbpedia.org/resource/Željko_Kopić
+0,10,Ž. Buvač,http://dbpedia.org/resource/Ivan_Buva,http://dbpedia.org/resource/Zeljko_Buvac http://dbpedia.org/resource/Željko_Buvač http://dbpedia.org/resource/Buvač http://dbpedia.org/resource/Zeljko_Buvač
+0,11,Ž. Odžakov,http://dbpedia.org/resource/Z,http://dbpedia.org/resource/Zarko_Odzakov http://dbpedia.org/resource/Žarko_Odžakov
+0,13,Ş. Görkey,http://de.dbpedia.org/resource/A._S._Samuel,http://dbpedia.org/resource/Seref_Gorkey http://dbpedia.org/resource/Şeref_Görkey
+0,14,Ş. Güneş,http://dbpedia.org/resource/Sun,http://dbpedia.org/resource/Senol_Gunes http://dbpedia.org/resource/Şenol_Güneş http://dbpedia.org/resource/Senol_Guenes
+0,18,Ľ. Luhový,,http://dbpedia.org/resource/Lubomír_Luhový http://dbpedia.org/resource/Ľubomír_Luhový http://dbpedia.org/resource/Lubomir_Luhovy
+0,24,Þ. Beck,http://dbpedia.org/resource/Raphael_Beck_(badminton),http://dbpedia.org/resource/THor_Beck http://dbpedia.org/resource/Þór_Beck http://dbpedia.org/resource/Þórólfur_Beck http://dbpedia.org/resource/Thor_Beck http://dbpedia.org/resource/Theorolf_Beck http://dbpedia.org/resource/Thorolfur_Beck
+0,26,Ý. Naboýçenko,http://dbpedia.org/resource/Y,http://dbpedia.org/resource/Yewgeniy_Naboycenko http://dbpedia.org/resource/Eygeniy_Naboychenko http://dbpedia.org/resource/Ýewgeniý_Naboýçenko
+0,27,Ý. Hojageldyýew,http://dbpedia.org/resource/Y,http://dbpedia.org/resource/Ýazguly_Hojageldyýew http://dbpedia.org/resource/Yazguly_Hodjageldiev http://dbpedia.org/resource/Yazguly_Hojageldiyev http://dbpedia.org/resource/Ýazguly_Hojageldiýew http://dbpedia.org/resource/Yazguly_Hojageldyyew
+0,29,Ü. Özat,http://dbpedia.org/resource/Zat_Knight,http://dbpedia.org/resource/Ümit_Özat http://dbpedia.org/resource/Umit_Ozat
+0,30,Ü. Kayıhan,http://de.dbpedia.org/resource/Coşkun_Kayhan,http://dbpedia.org/resource/Ümit_Kayıhan http://dbpedia.org/resource/Umit_Kayihan
+0,32,Ö. Sümer,,http://dbpedia.org/resource/Ozkan_Sumer http://dbpedia.org/resource/Özkan_Sümer
+0,34,Ö. Arkoç,http://dbpedia.org/resource/Joan_of_Arc,http://dbpedia.org/resource/Arkoc_Ozcan http://dbpedia.org/resource/Özcan_Arkoc http://dbpedia.org/resource/Ozcan_Arkoc http://dbpedia.org/resource/Arkoç_Özcan http://dbpedia.org/resource/Arkoc_Özkan http://dbpedia.org/resource/Özcan_Arkoç http://dbpedia.org/resource/Arkoç_Özkan
+0,35,Ö. Rıza,http://dbpedia.org/resource/Ahmet_Rıza,http://dbpedia.org/resource/Ömer_Kerim_Ali_Rıza http://dbpedia.org/resource/Ömer_Rıza http://dbpedia.org/resource/Omer_Kerim_Ali_Riza http://dbpedia.org/resource/Ömer_Riza http://dbpedia.org/resource/Omer_Riza
+0,36,Ó. d. Paula,http://dbpedia.org/resource/Paula_Marosi,http://dbpedia.org/resource/Oscar_de_Paula_Gamero http://dbpedia.org/resource/Oscar_de_Paula http://dbpedia.org/resource/Óscar_de_Paula

@@ -1,0 +1,7 @@
+F1: 0.72222,Precision: 0.72222,Recall: 0.72222,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,6,Erewash Canal,http://dbpedia.org/resource/River_Erewash,http://dbpedia.org/resource/Erewash_Canal
+1,8,Bridgewater Canal,http://dbpedia.org/resource/Beaver_and_Erie_Canal,http://dbpedia.org/resource/Duke_of_Bridgewater's_Canal http://dbpedia.org/resource/Bridgewater_Canal
+1,10,River Severn,"http://dbpedia.org/resource/River_Dee,_Wales",http://dbpedia.org/resource/Severn_Vale http://dbpedia.org/resource/Afon_Hafren http://dbpedia.org/resource/Severn_river_(great_britain) http://dbpedia.org/resource/River_Severn http://dbpedia.org/resource/The_Severn_River http://dbpedia.org/resource/Severn_River_(Great_Britain) http://dbpedia.org/resource/Severn http://dbpedia.org/resource/Seven_Boar
+1,12,River Severn,"http://dbpedia.org/resource/River_Dee,_Wales",http://dbpedia.org/resource/Severn_Vale http://dbpedia.org/resource/Afon_Hafren http://dbpedia.org/resource/Severn_river_(great_britain) http://dbpedia.org/resource/River_Severn http://dbpedia.org/resource/The_Severn_River http://dbpedia.org/resource/Severn_River_(Great_Britain) http://dbpedia.org/resource/Severn http://dbpedia.org/resource/Seven_Boar
+1,15,Goose Creek,http://dbpedia.org/resource/Goose_Creek_(River_Raisin),http://dbpedia.org/resource/Goose_Creek_(Potomac_River_tributary) http://dbpedia.org/resource/Goose_Creek_(Potomac_River)

@@ -1,0 +1,9 @@
+F1: 0.68182,Precision: 0.68182,Recall: 0.68182,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,9,Gun,http://dbpedia.org/resource/Top_Gun,http://dbpedia.org/resource/Gun_(2011_Film) http://dbpedia.org/resource/Gun_(2010_film)
+1,10,Twelve,http://dbpedia.org/resource/Ocean's_Twelve,http://dbpedia.org/resource/Twelve_(2010_film) http://dbpedia.org/resource/Twelve_(film)
+1,11,Morning Glory,http://dbpedia.org/resource/Morning_Glory_(band),http://dbpedia.org/resource/Morning_Glory_(2010_film) http://dbpedia.org/resource/Morning_Glory_(2010) http://dbpedia.org/resource/Morning_Glory_(movie)
+1,13,Setup,http://dbpedia.org/resource/Setup_(album),http://dbpedia.org/resource/Setup_(2011_film) http://dbpedia.org/resource/Setup_(film)
+1,16,Fire with Fire,http://dbpedia.org/resource/Fire_with_Fire_(song),http://dbpedia.org/resource/Fire_With_Fire_(II) http://dbpedia.org/resource/Fire_with_Fire_(2012_film)
+1,20,Vengeance,http://dbpedia.org/resource/Vengeance_(1958_film),http://dbpedia.org/resource/Vengeance_(2014_film)
+1,21,The Prince[1],http://dbpedia.org/resource/DJ_Jazzy_Jeff_&_The_Fresh_Prince,http://dbpedia.org/resource/The_Prince_(2014_film)

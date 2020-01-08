@@ -1,0 +1,5 @@
+"F1: 0.87500","Precision: 0.87500","Recall: 0.87500"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","1","Ulysses S. Grant presidential administration scandals","http://dbpedia.org/resource/Ulysses_S._Grant","http://dbpedia.org/resource/Ulysses_S._Grant_presidential_administration_scandals http://dbpedia.org/resource/Ulysses_S._Grant_(scandals)"
+"0","9","P. S. Djojohadikusumo","http://dbpedia.org/resource/P._S._Veerappa","http://dbpedia.org/resource/Prabowo http://dbpedia.org/resource/Prabowo_Subianto_Djojohadikusumo http://dbpedia.org/resource/Prabowo_Subianto"
+"0","16","John Y. Brown Jr.","http://dbpedia.org/resource/John_Y._Brown_Sr.","http://dbpedia.org/resource/John_Y._Brown,_Jr. http://dbpedia.org/resource/John_Y._Brown_Jr. http://dbpedia.org/resource/John_Y._Brown_Jr http://dbpedia.org/resource/John_Young_Brown,_Jr. http://dbpedia.org/resource/John_Young_Brown_Jr."

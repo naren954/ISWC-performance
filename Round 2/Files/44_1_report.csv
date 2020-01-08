@@ -1,0 +1,4 @@
+"F1: 0.87500","Precision: 0.87500","Recall: 0.87500"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","4","Silverwood, Indiana","http://dbpedia.org/resource/Fountain_County,_Indiana","http://dbpedia.org/resource/Silverwood,_Indiana"
+"1","14","Plymouth, Indiana","http://dbpedia.org/resource/Plymouth","http://dbpedia.org/resource/UN/LOCODE:USPLY http://dbpedia.org/resource/Lincoln_Junior_High_School_Plymouth,_IN http://dbpedia.org/resource/Plymouth,_IN http://dbpedia.org/resource/Plymouth,_Indiana http://dbpedia.org/resource/History_of_Plymouth,_Indiana http://dbpedia.org/resource/Plymouth_(IN)"

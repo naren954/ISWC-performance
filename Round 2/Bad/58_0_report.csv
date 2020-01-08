@@ -1,0 +1,22 @@
+F1: 0.45946,Precision: 0.45946,Recall: 0.45946,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,Cordovan,http://dbpedia.org/resource/Leather,http://dbpedia.org/resource/Cordovan_(color)
+0,3,Coral,http://dbpedia.org/resource/Coral_reef,http://dbpedia.org/resource/Dark_coral http://dbpedia.org/resource/Light_Coral http://dbpedia.org/resource/Coral_(color) http://dbpedia.org/resource/Gray-coral http://dbpedia.org/resource/Coral_(colour) http://dbpedia.org/resource/Coral_pink http://dbpedia.org/resource/Coral_color http://dbpedia.org/resource/Coral_red
+0,5,Copper,http://dbpedia.org/resource/Copper,http://dbpedia.org/resource/Copper_(color) http://dbpedia.org/resource/Copper_red http://dbpedia.org/resource/Copper_(colour)
+0,6,Columbia blue,http://dbpedia.org/resource/Blue,http://dbpedia.org/resource/Columbia_blue http://dbpedia.org/resource/Jordy_blue http://dbpedia.org/resource/Columbia_blue_(color) http://dbpedia.org/resource/Columbia_Blue
+0,8,Cobalt blue,http://dbpedia.org/resource/Persian_blue,http://dbpedia.org/resource/Cobalt(II)_aluminate http://dbpedia.org/resource/Cobalt_(colour) http://dbpedia.org/resource/Cobalt_(color) http://dbpedia.org/resource/Cobalt_blue http://dbpedia.org/resource/King's_blue http://dbpedia.org/resource/Cobalt_ultramarine
+0,9,Citron,,http://dbpedia.org/resource/Citron_(color)
+0,10,Citrine,http://dbpedia.org/resource/Quartz,http://dbpedia.org/resource/Citrine_(colour) http://dbpedia.org/resource/Citrine_(color)
+0,11,Cinereous,http://dbpedia.org/resource/Cinereous_vulture,http://dbpedia.org/resource/Cinereous
+0,12,Chocolate,http://dbpedia.org/resource/Chocolate,http://dbpedia.org/resource/Chocolate_(color) http://dbpedia.org/resource/Cocoa_brown
+0,15,Champagne,http://dbpedia.org/resource/Champagne,http://dbpedia.org/resource/Champagne_(color)
+0,19,Cardinal,http://dbpedia.org/resource/Cardinal_(Catholic_Church),http://dbpedia.org/resource/Cardinal_(color) http://dbpedia.org/resource/Cardinal_red http://dbpedia.org/resource/Cardinal_Red
+0,20,Capri,http://dbpedia.org/resource/Sky_blue,http://dbpedia.org/resource/Capri_(color)
+0,22,Camel,http://dbpedia.org/resource/Camel_hair,http://dbpedia.org/resource/Camel_(color)
+0,23,Cambridge Blue,http://dbpedia.org/resource/The_Boat_Race,http://dbpedia.org/resource/Cambridge_Blue_(colour) http://dbpedia.org/resource/Cambridge_Blue_(Colour) http://dbpedia.org/resource/Cambridge_Blue_(color)
+0,24,Cadmium pigments,http://dbpedia.org/resource/Pigment,http://dbpedia.org/resource/Cadmium_Red http://dbpedia.org/resource/Cadmium_pigments http://dbpedia.org/resource/Cadmium_orange http://dbpedia.org/resource/Cadmium_Yellow http://dbpedia.org/resource/Cadmium_red http://dbpedia.org/resource/Cadmium_yellow
+0,26,Byzantium,http://dbpedia.org/resource/Byzantine_music,http://dbpedia.org/resource/Byzantium_(color) http://dbpedia.org/resource/Byzantium_(colour)
+0,31,Bole,http://dbpedia.org/resource/Trunk_(botany),http://dbpedia.org/resource/Bole_(color) http://dbpedia.org/resource/Terra_rosa_(colour)
+0,32,Blue-green,http://dbpedia.org/resource/Blue,http://dbpedia.org/resource/Blue_green http://dbpedia.org/resource/Bondi_Blue http://dbpedia.org/resource/Bluegreen http://dbpedia.org/resource/Blue-green http://dbpedia.org/resource/Green_Blue http://dbpedia.org/resource/Bondi_blue http://dbpedia.org/resource/Green-blue
+0,34,Bleu de France,http://dbpedia.org/resource/Royal_blue,http://dbpedia.org/resource/Bleu_De_France http://dbpedia.org/resource/Blue_de_France_(color) http://dbpedia.org/resource/Bleu_de_France_(colour) http://dbpedia.org/resource/Bleu_de_France_(color)
+0,37,Baker-Miller Pink,http://dbpedia.org/resource/Under_the_Pink,http://dbpedia.org/resource/P-618 http://dbpedia.org/resource/Baker-Miller_Pink http://dbpedia.org/resource/Schauss_Pink

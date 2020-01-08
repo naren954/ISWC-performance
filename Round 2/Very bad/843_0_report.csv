@@ -1,0 +1,124 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Mokrin,http://dbpedia.org/resource/Mokrin,http://sws.geonames.org/787857/
+0,2,Niš,http://dbpedia.org/resource/Niš,http://sws.geonames.org/787657/
+0,3,Obilić,http://dbpedia.org/resource/Obilić,http://sws.geonames.org/787534/
+0,4,Ohrid,http://dbpedia.org/resource/Ohrid,http://sws.geonames.org/787487/
+0,5,Orahovac,http://dbpedia.org/resource/Orahovac,http://sws.geonames.org/787456/
+0,6,Orahovac,http://dbpedia.org/resource/Orahovac,http://sws.geonames.org/787455/
+0,7,Malanville,http://dbpedia.org/resource/Malanville,http://sws.geonames.org/7874170/
+0,8,"Karimama, Benin","http://dbpedia.org/resource/Karimama,_Benin",http://sws.geonames.org/7874155/
+0,9,Pančevo,http://dbpedia.org/resource/Pančevo,http://sws.geonames.org/787237/
+0,10,Pančevo,http://dbpedia.org/resource/Pančevo,http://sws.geonames.org/787236/
+0,11,Peć,http://dbpedia.org/resource/Peć,http://sws.geonames.org/787157/
+0,12,Baños de Agua Santa,http://dbpedia.org/resource/Baños_de_Agua_Santa,http://sws.geonames.org/7870285/
+0,13,Nabatieh,http://dbpedia.org/resource/Nabatieh,http://sws.geonames.org/7870014/
+0,14,Podujevo,http://dbpedia.org/resource/Podujevo,http://sws.geonames.org/786950/
+0,15,Podujevo,http://dbpedia.org/resource/Podujevo,http://sws.geonames.org/786949/
+0,16,Prilep,http://dbpedia.org/resource/Prilep,http://sws.geonames.org/786735/
+0,17,Pristina,http://dbpedia.org/resource/Pristina,http://sws.geonames.org/786714/
+0,18,Prizren,http://dbpedia.org/resource/Prizren,http://sws.geonames.org/786712/
+0,19,Prizren,http://dbpedia.org/resource/Prizren,http://sws.geonames.org/786711/
+0,20,Radoviš,http://dbpedia.org/resource/Radoviš,http://sws.geonames.org/786565/
+0,21,Skopje,http://dbpedia.org/resource/Skopje,http://sws.geonames.org/785842/
+0,22,Štimlje,http://dbpedia.org/resource/Štimlje,http://sws.geonames.org/785485/
+0,23,Štrpce,http://dbpedia.org/resource/Štrpce,http://sws.geonames.org/785388/
+0,24,Struga,http://dbpedia.org/resource/Struga,http://sws.geonames.org/785387/
+0,25,Strumica,http://dbpedia.org/resource/Strumica,http://sws.geonames.org/785380/
+0,26,Strumica,http://dbpedia.org/resource/Strumica,http://sws.geonames.org/785379/
+0,27,Suva Reka,http://dbpedia.org/resource/Suva_Reka,http://sws.geonames.org/785238/
+0,28,Suva Reka,http://dbpedia.org/resource/Suva_Reka,http://sws.geonames.org/785234/
+0,29,Tetovo,http://dbpedia.org/resource/Tetovo,http://sws.geonames.org/785082/
+0,30,Vršac,http://dbpedia.org/resource/Vršac,http://sws.geonames.org/784136/
+0,31,Vršac,http://dbpedia.org/resource/Vršac,http://sws.geonames.org/784135/
+0,32,Vučitrn,http://dbpedia.org/resource/Vučitrn,http://sws.geonames.org/784096/
+0,33,Jieh,http://dbpedia.org/resource/Jieh,http://sws.geonames.org/7839314/
+0,34,"Wabasca, Alberta",http://dbpedia.org/resource/Alberta,http://sws.geonames.org/7838997/
+0,35,Russeifa,http://dbpedia.org/resource/Russeifa,http://sws.geonames.org/7838895/
+0,36,Zrenjanin,http://dbpedia.org/resource/Zrenjanin,http://sws.geonames.org/783814/
+0,37,Zrenjanin,http://dbpedia.org/resource/Zrenjanin,http://sws.geonames.org/783813/
+0,38,Zubin Potok,http://dbpedia.org/resource/Zubin_Potok,http://sws.geonames.org/783802/
+0,39,Zvečan,http://dbpedia.org/resource/Zvečan,http://sws.geonames.org/783770/
+0,40,Besisahar,http://dbpedia.org/resource/Besisahar,http://sws.geonames.org/7800847/
+0,41,Biłgoraj,http://dbpedia.org/resource/Biłgoraj,http://sws.geonames.org/775922/
+0,42,Keçiören,http://dbpedia.org/resource/Keçiören,http://sws.geonames.org/7733221/
+0,43,Saruhanlı,http://dbpedia.org/resource/Saruhanlı,http://sws.geonames.org/7732938/
+0,44,Selçuklu,http://dbpedia.org/resource/Selçuklu,http://sws.geonames.org/7732933/
+0,45,Çorlu,http://dbpedia.org/resource/Çorlu,http://sws.geonames.org/7732607/
+0,46,"Biga, Çanakkale","http://dbpedia.org/resource/Biga,_Çanakkale",http://sws.geonames.org/7732343/
+0,47,Bandırma,http://dbpedia.org/resource/Bandırma,http://sws.geonames.org/7732201/
+0,48,Alanya,http://dbpedia.org/resource/Alanya,http://sws.geonames.org/7732185/
+0,49,Polatlı,http://dbpedia.org/resource/Polatlı,http://sws.geonames.org/7732180/
+0,50,"Gölbaşı, Ankara","http://dbpedia.org/resource/Gölbaşı,_Ankara",http://sws.geonames.org/7732107/
+0,51,"Çankaya, Ankara","http://dbpedia.org/resource/Çankaya,_Ankara_(district)",http://sws.geonames.org/7732084/
+0,52,Seyhan,http://dbpedia.org/resource/Adana,http://sws.geonames.org/7732063/
+0,53,"Suisun City, California","http://dbpedia.org/resource/Daly_City,_California",http://sws.geonames.org/7724111/
+0,54,Krosno,http://dbpedia.org/resource/Krosno,http://sws.geonames.org/767470/
+0,55,Gaborone,http://dbpedia.org/resource/Gaborone,http://sws.geonames.org/7670702/
+0,56,Banikoara,http://dbpedia.org/resource/Banikoara,http://sws.geonames.org/7668935/
+0,57,Artemisa Province,"http://dbpedia.org/resource/San_Cristóbal,_Cuba","http://dbpedia.org/resource/History_of_Artemisa http://dbpedia.org/resource/Artemisa,_Cuba http://dbpedia.org/resource/Artemisa http://sws.geonames.org/7668824/"
+0,58,Łomża,http://dbpedia.org/resource/Łomża,http://sws.geonames.org/766027/
+0,59,Międzyrzec Podlaski,http://dbpedia.org/resource/Międzyrzec_Podlaski,http://sws.geonames.org/764862/
+0,60,Phnom Penh,http://dbpedia.org/resource/Phnom_Penh,http://sws.geonames.org/7647210/
+0,61,Mińsk Mazowiecki,http://dbpedia.org/resource/Mińsk_Mazowiecki,http://sws.geonames.org/764679/
+0,62,Tohana,http://dbpedia.org/resource/Tohana,http://sws.geonames.org/7646703/
+0,63,Khordha,http://dbpedia.org/resource/Khordha_district,http://sws.geonames.org/7644927/
+0,64,Nowy Sącz,http://dbpedia.org/resource/Nowy_Sącz,http://sws.geonames.org/763534/
+0,65,Godda,http://dbpedia.org/resource/Godda,http://sws.geonames.org/7627174/
+0,66,Bongaigaon,http://dbpedia.org/resource/Bongaigaon,http://sws.geonames.org/7627076/
+0,67,Pimpri-Chinchwad,http://dbpedia.org/resource/Pimpri-Chinchwad,http://sws.geonames.org/7626690/
+0,68,Puławy,http://dbpedia.org/resource/Puławy,http://sws.geonames.org/760924/
+0,69,Pułtusk,http://dbpedia.org/resource/Pułtusk,http://sws.geonames.org/760917/
+0,70,Sandomierz,http://dbpedia.org/resource/Sandomierz,http://sws.geonames.org/759603/
+0,71,Siedlce,http://dbpedia.org/resource/Siedlce,http://sws.geonames.org/759412/
+0,72,Skarżysko-Kamienna,http://dbpedia.org/resource/Skarżysko-Kamienna,http://sws.geonames.org/759141/
+0,73,Sochaczew,http://dbpedia.org/resource/Sochaczew,http://sws.geonames.org/758682/
+0,74,Dubrovnik,http://dbpedia.org/resource/Dobrovnik,http://sws.geonames.org/7577034/
+0,75,Hezhou,http://dbpedia.org/resource/Linxia_Hui_Autonomous_Prefecture,http://sws.geonames.org/7576887/
+0,76,"San Fernando, Chile","http://dbpedia.org/resource/San_Fernando,_La_Union",http://sws.geonames.org/7576314/
+0,77,Tarnobrzeg,http://dbpedia.org/resource/Tarnobrzeg,http://sws.geonames.org/757033/
+0,78,Warsaw,http://dbpedia.org/resource/Warsaw,http://sws.geonames.org/756135/
+0,79,Zamość,http://dbpedia.org/resource/Zamość,http://sws.geonames.org/753866/
+0,80,"Rio Vista, California","http://dbpedia.org/resource/Sacramento,_California",http://sws.geonames.org/7536026/
+0,81,Treasure Cay,"http://dbpedia.org/resource/Paradise_Cay,_California",http://sws.geonames.org/7535668/
+0,82,Tczew,http://dbpedia.org/resource/Tczew,http://sws.geonames.org/7532586/
+0,83,Świnoujście,http://dbpedia.org/resource/Świnoujście,http://sws.geonames.org/7532101/
+0,84,Wrocław,http://dbpedia.org/resource/Wrocław,http://sws.geonames.org/7531292/
+0,85,Sosnowiec,http://dbpedia.org/resource/Sosnowiec,http://sws.geonames.org/7530975/
+0,86,Suwałki,http://dbpedia.org/resource/Suwałki,http://sws.geonames.org/7530941/
+0,87,Opole,http://dbpedia.org/resource/Opole,http://sws.geonames.org/7530818/
+0,88,Łomża,http://dbpedia.org/resource/Łomża,http://sws.geonames.org/7530773/
+0,89,Adapazarı,http://dbpedia.org/resource/Adapazarı,http://sws.geonames.org/752850/
+0,90,Viljandi,http://dbpedia.org/resource/Viljandi,http://sws.geonames.org/7522477/
+0,91,Kuressaare,http://dbpedia.org/resource/Kuressaare,http://sws.geonames.org/7522427/
+0,92,"Valga, Estonia","http://dbpedia.org/resource/Valga,_Estonia",http://sws.geonames.org/7522352/
+0,93,Bandırma,http://dbpedia.org/resource/Bandırma,http://sws.geonames.org/751077/
+0,94,"Blaine, Minnesota","http://dbpedia.org/resource/Blaine,_Minnesota",http://sws.geonames.org/7506763/
+0,95,"Biga, Çanakkale","http://dbpedia.org/resource/Biga,_Çanakkale",http://sws.geonames.org/750605/
+0,96,Bursa,http://dbpedia.org/resource/Bursa,http://sws.geonames.org/750269/
+0,97,Çan,http://dbpedia.org/resource/Canada,http://sws.geonames.org/749795/
+0,98,Çorlu,http://dbpedia.org/resource/Çorlu,http://sws.geonames.org/748893/
+0,99,Eflani,http://dbpedia.org/resource/Eflani,http://sws.geonames.org/747705/
+0,100,Gelibolu,http://dbpedia.org/resource/Gelibolu,http://sws.geonames.org/746983/
+0,101,Görele,http://dbpedia.org/resource/Görele,http://sws.geonames.org/746565/
+0,102,Constantinople,http://dbpedia.org/resource/Istanbul,"http://dbpedia.org/resource/Constantinopolitan http://sws.geonames.org/745044/ http://dbpedia.org/resource/قسطنطينيه http://dbpedia.org/resource/Konstantiniyye http://dbpedia.org/resource/Constantinopel http://dbpedia.org/resource/Medieval_constantinople http://dbpedia.org/resource/Istanbul_in_the_middle_ages http://dbpedia.org/resource/The_patriarchal_city http://dbpedia.org/resource/Constantinople http://dbpedia.org/resource/Constantinopole http://dbpedia.org/resource/Medieval_istanbul http://dbpedia.org/resource/Constantinoupolis http://dbpedia.org/resource/Konstantinoupolis http://dbpedia.org/resource/Mickelgard http://dbpedia.org/resource/Konstantinopel http://dbpedia.org/resource/Qustantiniyye http://dbpedia.org/resource/Constantinopolis http://dbpedia.org/resource/Miklagarð http://dbpedia.org/resource/Constantinople,_Greece http://dbpedia.org/resource/Constantinopoli http://dbpedia.org/resource/Constantinopol http://dbpedia.org/resource/Constantinople_in_the_middle_ages http://dbpedia.org/resource/Asitane http://dbpedia.org/resource/Κωνσταντινούπολη"
+0,103,Kars,http://dbpedia.org/resource/Kars,http://sws.geonames.org/743952/
+0,104,Samsun,http://dbpedia.org/resource/Samsun,http://sws.geonames.org/740264/
+0,105,Trabzon,http://dbpedia.org/resource/Trabzon,http://sws.geonames.org/738648/
+0,106,Vize,http://dbpedia.org/resource/Visé,http://sws.geonames.org/738154/
+0,107,Zile,http://dbpedia.org/resource/Balearic_Islands,http://sws.geonames.org/737054/
+0,108,Ardino,http://dbpedia.org/resource/Ardino,http://sws.geonames.org/733638/
+0,109,Aytos,http://dbpedia.org/resource/Aytos,http://sws.geonames.org/733579/
+0,110,Balchik,http://dbpedia.org/resource/Balchik,http://sws.geonames.org/733515/
+0,111,Berkovitsa,http://dbpedia.org/resource/Berkovitsa,http://sws.geonames.org/733263/
+0,112,Blagoevgrad,http://dbpedia.org/resource/Blagoevgrad,http://sws.geonames.org/733191/
+0,113,Botevgrad,http://dbpedia.org/resource/Botevgrad,http://sws.geonames.org/733013/
+0,114,Burgas,http://dbpedia.org/resource/Burgas,http://sws.geonames.org/732770/
+0,115,"Byala, Varna Province","http://dbpedia.org/resource/Byala,_Varna_Province",http://sws.geonames.org/732721/
+0,116,"Byala, Ruse Province","http://dbpedia.org/resource/Byala,_Ruse_Province",http://sws.geonames.org/732719/
+0,117,"Dimitrovgrad, Bulgaria","http://dbpedia.org/resource/Dimitrovgrad,_Bulgaria",http://sws.geonames.org/732263/
+0,118,Dolna Banya,http://dbpedia.org/resource/Dolna_Banya,http://sws.geonames.org/732144/
+0,119,"Dulovo, Bulgaria","http://dbpedia.org/resource/Dulovo,_Bulgaria",http://sws.geonames.org/731818/
+0,120,Elhovo,http://dbpedia.org/resource/Elhovo,http://sws.geonames.org/731670/
+0,121,Gabrovo,http://dbpedia.org/resource/Gabrovo,http://sws.geonames.org/731549/
+0,122,Gorna Oryahovitsa,http://dbpedia.org/resource/Gorna_Oryahovitsa,http://sws.geonames.org/731233/

@@ -1,0 +1,5 @@
+F1: 0.96154,Precision: 0.96154,Recall: 0.96154,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,32,Roman Catholic Diocese of Mackenzie-Fort Smith,http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Mackenzie–Fort_Smith,http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Mackenzie-Fort_Smith http://dbpedia.org/resource/Diocese_of_Mackenzie-Fort_Smith
+0,39,Roman Catholic Diocese of Málaga–Soatá,http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Málaga,http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Málaga–Soatá http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Malaga-Soata http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Málaga-Soatá http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Malaga–Soata
+0,72,Roman Catholic Diocese of Linares,http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Linares,"http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Linares_(Mexico) http://dbpedia.org/resource/Diocese_of_Linares,_Mexico"

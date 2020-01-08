@@ -1,0 +1,13 @@
+F1: 0.65625,Precision: 0.65625,Recall: 0.65625,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,4,Philip Bretherton,http://dbpedia.org/resource/David_Bretherton,http://dbpedia.org/resource/Phillip_Bretherton http://dbpedia.org/resource/Philip_bretherton http://dbpedia.org/resource/Philip_Bretherton
+1,18,Charlie Condou,http://dbpedia.org/resource/Charlie_Hodge_(ice_hockey),http://dbpedia.org/resource/Charlie_Condou
+1,30,Su Elliott,"http://dbpedia.org/resource/Robert_Elliott_(actor,_born_1879)",http://dbpedia.org/resource/Su_Elliot http://dbpedia.org/resource/Su_Elliott
+1,31,Pal Aron,http://fr.dbpedia.org/resource/Max_Aron,http://dbpedia.org/resource/Pal_Aron
+1,34,Stephen MacKenna,http://dbpedia.org/resource/Stephen_McKenna_(artist),http://dbpedia.org/resource/Stephen_MacKenna_(actor)
+1,40,Robert Beck,http://dbpedia.org/resource/Iceberg_Slim,http://dbpedia.org/resource/Robert_Beck_(actor)
+1,47,George Innes,http://dbpedia.org/resource/George_Inness,"http://dbpedia.org/resource/George_Innes http://dbpedia.org/resource/Innes,_George"
+1,48,Dave King,"http://dbpedia.org/resource/Dave_King_(footballer,_born_1940)",http://dbpedia.org/resource/Dave_King_(Decca_singer) http://dbpedia.org/resource/Dave_King_(actor) http://dbpedia.org/resource/Dave_King_(1950s_singer) http://dbpedia.org/resource/The_Dave_King_Show http://dbpedia.org/resource/Dave_King_(English_singer)
+1,52,Nigel Pivaro,http://dbpedia.org/resource/Nigel_Kneale,http://dbpedia.org/resource/Nigel_Pivaro
+1,59,Del Henney,http://dbpedia.org/resource/Daniel_Henney,http://dbpedia.org/resource/Del_Henney
+1,63,Andrew Dunn,http://dbpedia.org/resource/Andrew_Dunn_(businessman),http://dbpedia.org/resource/Andrew_Dunn_(actor)

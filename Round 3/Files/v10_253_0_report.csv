@@ -1,0 +1,8 @@
+"F1: 0.68421","Precision: 0.68421","Recall: 0.68421"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","1","C. Harmon","http://dbpedia.org/resource/Tom_Harmon","http://dbpedia.org/resource/Claude_Harmon http://dbpedia.org/resource/Claude_harmon"
+"0","3","C. Clark","http://dbpedia.org/resource/Clarence_Clark_(tennis)","http://dbpedia.org/resource/Clarence_Clark_(golfer)"
+"0","6","C. Yates","http://de.dbpedia.org/resource/Cecil_Yates","http://dbpedia.org/resource/Charles_Yates_(golfer) http://dbpedia.org/resource/Charlie_Yates http://dbpedia.org/resource/Charlie_Yates_(golfer)"
+"0","9","C. Hoffner","http://dbpedia.org/resource/Carleton_Hoffner","http://dbpedia.org/resource/Charles_Hoffner"
+"0","10","C. Congdon","http://dbpedia.org/resource/Charles_Congdon_(cricketer)","http://dbpedia.org/resource/Chuck_Congdon http://dbpedia.org/resource/Charles_Congdon"
+"0","17","B. Nelson","http://dbpedia.org/resource/Brad_Nelson","http://dbpedia.org/resource/Byron_Nelson,_Jr. http://dbpedia.org/resource/John_Byron_Nelson http://dbpedia.org/resource/Byron_Nelson_Jr. http://dbpedia.org/resource/Byron_Nelson"

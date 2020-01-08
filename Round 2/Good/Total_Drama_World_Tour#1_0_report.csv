@@ -1,0 +1,5 @@
+F1: 0.80000,Precision: 0.80000,Recall: 0.80000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Stephanie Anne Mills,http://dbpedia.org/resource/Stephanie_Mills,http://dbpedia.org/resource/Stephanie_Anne_Mills
+0,3,ClÃ© Bennett,http://dbpedia.org/resource/Corinne_Bennett,http://dbpedia.org/resource/Clé_Bennett
+0,13,Drew Nelson,http://dbpedia.org/resource/Drew_Nelson_(musician),http://dbpedia.org/resource/Drew_Nelson_(actor) http://dbpedia.org/resource/Drew_nelson_(actor)

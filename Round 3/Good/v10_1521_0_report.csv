@@ -1,0 +1,5 @@
+F1: 0.81250,Precision: 0.81250,Recall: 0.81250,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,Marian High School,http://dbpedia.org/resource/Marian_High_School_(Nebraska),"http://dbpedia.org/resource/Marian_High_School_(Mishawaka,_IN) http://dbpedia.org/resource/Marian_High_School_(Mishawaka,_Indiana) http://dbpedia.org/resource/Mishawaka_Marian_High_School"
+0,4,Lakeland High School,http://dbpedia.org/resource/Lakeland_Senior_High_School_(Florida),"http://dbpedia.org/resource/Lakeland_High_School_(New_York) http://dbpedia.org/resource/Lakeland_High_School_(Shrub_Oak,_New_York)"
+0,12,Central Catholic High School,http://dbpedia.org/resource/Wheeling_Central_Catholic_High_School,"http://dbpedia.org/resource/Central_Catholic_High_School_(Bloomington,_Illinois)"

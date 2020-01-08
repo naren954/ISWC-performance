@@ -1,0 +1,16 @@
+F1: 0.36364,Precision: 0.36364,Recall: 0.36364,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,KEYC-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/K38MY-D http://dbpedia.org/resource/KEYC-TV http://dbpedia.org/resource/K49JG-D http://dbpedia.org/resource/KEYC http://dbpedia.org/resource/K50KL-D
+0,2,KEXT-CD,http://dbpedia.org/resource/.cd,http://dbpedia.org/resource/KEXT-CA http://dbpedia.org/resource/KEXT-CD
+0,3,KESQ-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/K21GI http://dbpedia.org/resource/KESQ-TV http://dbpedia.org/resource/K27DS
+0,5,KDJT-CD,http://dbpedia.org/resource/.cd,http://dbpedia.org/resource/KDJT http://dbpedia.org/resource/KDJT-CA http://dbpedia.org/resource/KDJT-CD
+0,6,KCRP-CD,http://dbpedia.org/resource/.cd,http://dbpedia.org/resource/KCRP-CD http://dbpedia.org/resource/KCRP-CA
+0,7,KCFT-CD,http://dbpedia.org/resource/.cd,http://dbpedia.org/resource/KCFT-LP http://dbpedia.org/resource/KCFT-CD
+0,8,KBVO-CD,http://dbpedia.org/resource/.cd,http://dbpedia.org/resource/KBVO-CD http://dbpedia.org/resource/KBVO-CA
+0,9,KBOI-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/K10HJ http://dbpedia.org/resource/K09MM http://dbpedia.org/resource/K11MK http://dbpedia.org/resource/KBOI-TV http://dbpedia.org/resource/K49EB-D http://dbpedia.org/resource/KBCI-TV http://dbpedia.org/resource/K48EB-D http://dbpedia.org/resource/K06CT http://dbpedia.org/resource/K05EY-D
+0,10,KBNT-CD,http://dbpedia.org/resource/.cd,http://dbpedia.org/resource/KDTF http://dbpedia.org/resource/KTCD-CA http://dbpedia.org/resource/KBNT-TV http://dbpedia.org/resource/KHAX-LP http://dbpedia.org/resource/KBNT http://dbpedia.org/resource/KBNT-CD http://dbpedia.org/resource/KBNT-CA http://dbpedia.org/resource/KTCD-LP http://dbpedia.org/resource/KDTF-LP
+0,11,KBBV-CD,http://dbpedia.org/resource/.cd,http://dbpedia.org/resource/KBBV-CA http://dbpedia.org/resource/KBBV http://dbpedia.org/resource/KBBV-CD
+0,12,KAXT-CD,http://dbpedia.org/resource/.cd,http://dbpedia.org/resource/KAXT http://dbpedia.org/resource/K22DD http://dbpedia.org/resource/KAXT-CA http://dbpedia.org/resource/KAXT-CD http://dbpedia.org/resource/KAXT-LD
+0,13,KADO-CD,"http://dbpedia.org/resource/Kado,_Togo",http://dbpedia.org/resource/KADO-LP http://dbpedia.org/resource/KADO-CD
+0,14,KAAL,http://dbpedia.org/resource/Kehl,http://dbpedia.org/resource/KAAL-TV http://dbpedia.org/resource/KMMT-TV http://dbpedia.org/resource/KAAL
+0,19,K26KJ-D,http://dbpedia.org/resource/XHMTCH-TDT,http://dbpedia.org/resource/K26KJ http://dbpedia.org/resource/K26KJ-D http://dbpedia.org/resource/KW40FW http://dbpedia.org/resource/K40FW

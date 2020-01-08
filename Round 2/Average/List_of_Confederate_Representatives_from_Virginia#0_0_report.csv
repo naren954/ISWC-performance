@@ -1,0 +1,14 @@
+F1: 0.53846,Precision: 0.53846,Recall: 0.53846,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,4,"John R. Chambliss, Sr.",http://dbpedia.org/resource/John_R._Chambliss,"http://dbpedia.org/resource/John_R._Chambliss,_Sr. http://dbpedia.org/resource/John_Randolph_Chambliss,_Sr."
+0,9,Thomas S. Gholson,http://dbpedia.org/resource/Thomas_Gholson_Jr.,http://dbpedia.org/resource/Thomas_Saunders_Gholson
+0,11,James P. Holcombe,http://dbpedia.org/resource/James_P._Latta,http://dbpedia.org/resource/James_P._Holcombe http://dbpedia.org/resource/James_Philemon_Holcombe
+0,14,Robert Johnston,http://dbpedia.org/resource/Robert_Johnston_(VC),http://dbpedia.org/resource/Robert_Johnston_(American_politician)
+0,15,James Lyons,http://dbpedia.org/resource/James_Lyons_(admiral),http://dbpedia.org/resource/James_Lyons_(Virginia)
+0,17,Samuel A. Miller,http://dbpedia.org/resource/Samuel_F._Miller_(U.S._politician),http://dbpedia.org/resource/Samuel_Augustine_Miller
+0,18,Robert L. Montague,http://dbpedia.org/resource/Robert_Miller_Montague,http://dbpedia.org/resource/Robert_L._Montague http://dbpedia.org/resource/Robert_Latane_Montague
+0,19,Walter Preston,http://dbpedia.org/resource/Walter_Preston_(British_politician),http://dbpedia.org/resource/Walter_Preston_(Virginia) http://dbpedia.org/resource/Walter_Preston_(Virgina)
+0,22,Charles W. Russell,"http://dbpedia.org/resource/Sir_Charles_Russell,_3rd_Baronet",http://dbpedia.org/resource/Charles_Wells_Russell
+0,23,William Smith,http://dbpedia.org/resource/William_Forgan_Smith,"http://dbpedia.org/resource/William_Smith_(Virginia_governor) http://dbpedia.org/resource/William_“Extra_Billy”_Smith http://dbpedia.org/resource/William_Smith_(1797) http://dbpedia.org/resource/William_""Extra_Billy""_Smith http://dbpedia.org/resource/Extra_Billy http://dbpedia.org/resource/Extra_Billy_Smith"
+0,24,Walter R. Staples,http://dbpedia.org/resource/Walter_R._Stubbs,http://dbpedia.org/resource/Walter_R._Staples http://dbpedia.org/resource/Walter_Redd_Staples http://dbpedia.org/resource/Waller_Redd_Staples http://dbpedia.org/resource/Waller_R._Staples http://dbpedia.org/resource/Walter_Staples http://dbpedia.org/resource/Waller_Staples
+0,25,Robert H. Whitfield,http://dbpedia.org/resource/Robert_H._Michel,http://dbpedia.org/resource/Robert_Henry_Whitfield

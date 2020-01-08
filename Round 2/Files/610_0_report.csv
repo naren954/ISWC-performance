@@ -1,0 +1,8 @@
+"F1: 0.91045","Precision: 0.91045","Recall: 0.91045"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","10","P. McGuinness","http://dbpedia.org/resource/Paddy_McGuinness_(footballer)","http://dbpedia.org/resource/Paddy_McGuinness_(Australian_footballer)"
+"0","22","M. Fraser","http://dbpedia.org/resource/Michael_Fraser_(basketball)","http://dbpedia.org/resource/Don_Fraser,_Jr. http://dbpedia.org/resource/Mopsy_Fraser"
+"0","37","M. Williams","http://dbpedia.org/resource/Mike_Williams_(American_football,_born_1957)","http://dbpedia.org/resource/Mal_Williams"
+"0","51","L. Thomas","http://dbpedia.org/resource/Les_Thomas_(footballer)","http://dbpedia.org/resource/Len_Thomas"
+"0","52","L. Johnson","http://dbpedia.org/resource/Lou_Johnson_(pitcher)","http://dbpedia.org/resource/Leslie_Albert_Johnson_VX50877 http://dbpedia.org/resource/Len_Johnson_(footballer)"
+"0","67","J. McCarthy","http://dbpedia.org/resource/Joe_McCarthy_(manager)","http://dbpedia.org/resource/John_McCarthy_(Australian_rules_footballer,_born_1989) http://dbpedia.org/resource/John_Shane_McCarthy http://dbpedia.org/resource/John_McCarthy_(Australian_rules_footballer_born_1989)"

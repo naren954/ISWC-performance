@@ -1,0 +1,8 @@
+"F1: 0.70000","Precision: 0.70000","Recall: 0.70000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","1","Crocodile Shoes II","http://dbpedia.org/resource/Crocodile_Shoes","http://dbpedia.org/resource/Crocodile_Shoes_II"
+"0","9","Brenner","http://de.dbpedia.org/resource/Der_Brenner","http://dbpedia.org/resource/Brenner_(TV_series)"
+"0","12","Angry Boys","http://dbpedia.org/resource/The_Angry_Birds_Movie","http://dbpedia.org/resource/Angry_Boys"
+"0","13","Amores de mercado","http://dbpedia.org/resource/Amores_de_mercado_(Chilean_TV_series)","http://dbpedia.org/resource/Amores_de_mercado http://dbpedia.org/resource/Amores_de_Mercado"
+"0","18","Aaha","http://dbpedia.org/resource/Aahaa...!","http://dbpedia.org/resource/Aaha_(TV_series)"
+"0","20","A Nero Wolfe Mystery","http://dbpedia.org/resource/The_Golden_Spiders:_A_Nero_Wolfe_Mystery","http://dbpedia.org/resource/Nero_Wolfe_(2001) http://dbpedia.org/resource/A_Nero_Wolfe_Mystery"

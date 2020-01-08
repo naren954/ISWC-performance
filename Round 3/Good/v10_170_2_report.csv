@@ -1,0 +1,13 @@
+F1: 0.89720,Precision: 0.89720,Recall: 0.89720,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,1,S. Jones,http://dbpedia.org/resource/Courtney_Jones_(figure_skater),http://dbpedia.org/resource/Sharon_Jones_Baker http://dbpedia.org/resource/Sharon_Jones_(figure_skater)
+2,6,I. Zhuk,http://dbpedia.org/resource/Nina_Zhuk,http://dbpedia.org/resource/Irina_Zhuk
+2,19,Y. Sun,http://dbpedia.org/resource/Sun_Jun_(badminton),http://dbpedia.org/resource/Yu_Sun http://dbpedia.org/resource/Sun_Yu_(badminton)
+2,45,R. Callaghan,http://dbpedia.org/resource/Pat_O'Callaghan,http://dbpedia.org/resource/Richard_Calahan http://dbpedia.org/resource/Richard_Callaghan
+2,48,P. Johansson,http://dbpedia.org/resource/Richard_Johansson,http://dbpedia.org/resource/Peter_Johansson_(figure_skater)
+2,57,I. Zhuk,http://dbpedia.org/resource/Nina_Zhuk,http://dbpedia.org/resource/Irina_Zhuk
+2,59,I. Zhuk,http://dbpedia.org/resource/Nina_Zhuk,http://dbpedia.org/resource/Irina_Zhuk
+2,87,P. Johansson,http://dbpedia.org/resource/Richard_Johansson,http://dbpedia.org/resource/Peter_Johansson_(figure_skater)
+2,94,P. Wirtz,http://dbpedia.org/resource/Sean_Wirtz,http://dbpedia.org/resource/Paul_Wirtz
+2,99,S. Hess,http://dbpedia.org/resource/Erika_Hess,http://dbpedia.org/resource/Sandy_Hess
+2,101,S. Harand,http://dbpedia.org/resource/Kurt_Harand,http://dbpedia.org/resource/Sonja_Balun http://dbpedia.org/resource/Sonja_Harand

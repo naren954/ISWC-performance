@@ -1,0 +1,7 @@
+F1: 0.28571,Precision: 0.28571,Recall: 0.28571,,
+Col,Row,Value,Submitted URI,Correct URI's
+4,1,KR ReykjavÃ­k,http://fr.dbpedia.org/resource/KR_Reykjavik_(football),http://dbpedia.org/resource/Knattspyrnufélag_Reykjavíkur
+4,2,Constructorul ChiÅ\u009FinÄ\u0083u,http://dbpedia.org/resource/Constructorul_Galați,http://dbpedia.org/resource/Constructorul_Chișinău http://dbpedia.org/resource/FC_Tiraspol http://dbpedia.org/resource/Constructorul_Chisinau http://dbpedia.org/resource/Constructorul_Chişinău http://dbpedia.org/resource/Constructorul_Cioburcu
+4,3,Olympiacos,http://dbpedia.org/resource/Nottingham_Forest_F.C.,http://dbpedia.org/resource/Olympiakos_Piräus http://dbpedia.org/resource/Olympiakos_FC http://dbpedia.org/resource/OCFP_FC http://dbpedia.org/resource/Waderson_Costa_Viana http://dbpedia.org/resource/OSFP_FC http://dbpedia.org/resource/Piraikos_sindesmos http://dbpedia.org/resource/Olympiacos_U-21 http://dbpedia.org/resource/Olympiacos_F.C. http://dbpedia.org/resource/Olympiacos_FC http://dbpedia.org/resource/Olympiakos_SFP http://dbpedia.org/resource/Olympiakos_F.C. http://dbpedia.org/resource/Olympiakos_Piraeus http://dbpedia.org/resource/Olympiacos_C.F.P. http://dbpedia.org/resource/Olympiakos_Pireus
+4,5,Maccabi Haifa,http://dbpedia.org/resource/Hapoel_Haifa_F.C.,http://dbpedia.org/resource/Maccabi_Haifa_F._C. http://dbpedia.org/resource/Maccabi_Haifa_FC http://dbpedia.org/resource/Maccabi_Haifa_F.C. http://dbpedia.org/resource/Maccabi_Haifa_F_C
+4,6,VB VÃ¡gur,http://es.dbpedia.org/resource/VB_Vágur,http://dbpedia.org/resource/VB_Vágur

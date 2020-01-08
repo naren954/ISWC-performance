@@ -1,0 +1,5 @@
+"F1: 0.88889","Precision: 0.88889","Recall: 0.88889"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","3","J. Herbert","http://dbpedia.org/resource/Johnny_Herbert","http://dbpedia.org/resource/Jake_Herbert"
+"0","20","A. Surkov","http://dbpedia.org/resource/Alexey_Surkov","http://dbpedia.org/resource/Artem_Surkov"
+"0","21","A. Gill","http://dbpedia.org/resource/Anthony_Gill_(basketball)","http://dbpedia.org/resource/Arjun_Gill"

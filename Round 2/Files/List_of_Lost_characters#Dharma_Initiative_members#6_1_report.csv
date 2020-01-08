@@ -1,0 +1,5 @@
+"F1: 0.66667","Precision: 0.66667","Recall: 0.66667"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","13","John Terry","http://dbpedia.org/resource/John_Terry","http://dbpedia.org/resource/John_Terry_(actor)"
+"1","19","Andrea Gabriel","http://dbpedia.org/resource/Andrea_Gabrieli","http://dbpedia.org/resource/Andrea_Gabriel"
+"1","22","Tony Lee","http://dbpedia.org/resource/Tony_Lee_(footballer,_born_1937)","http://dbpedia.org/resource/Tony_Lee_(actor)"

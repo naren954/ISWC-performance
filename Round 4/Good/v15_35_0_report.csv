@@ -1,0 +1,14 @@
+F1: 0.85185,Precision: 0.85185,Recall: 0.85185,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,L. Owens,http://dbpedia.org/resource/Larry_Owens,http://dbpedia.org/resource/Lee_Owens
+0,13,J. Collins,http://dbpedia.org/resource/Jimmy_Collins_(basketball),http://dbpedia.org/resource/Jory_Collins
+0,16,J. Tillman,http://dbpedia.org/resource/Pete_Tillman,http://dbpedia.org/resource/John_Tillman_(lacrosse)
+0,18,J. Delaney,http://dbpedia.org/resource/Jerry_Delaney,http://dbpedia.org/resource/John_Delaney_(baseball)
+0,24,J. Collins,http://dbpedia.org/resource/Jimmy_Collins_(basketball),http://dbpedia.org/resource/Jim_Collins_(American_football_coach)
+0,32,J. Thomas,http://dbpedia.org/resource/Jasmine_Thomas_(basketball),http://dbpedia.org/resource/Jay_Thomas_(American_football) http://dbpedia.org/resource/Jay_Thomas_(football_coach)
+0,34,J. Simpson,http://dbpedia.org/resource/Jackie_Simpson_(linebacker),http://dbpedia.org/resource/Jason_Simpson
+0,37,H. VanDerveer,http://dbpedia.org/resource/Tara_VanDerveer,http://dbpedia.org/resource/Heidi_VanDerveer
+0,48,D. Johnson,http://dbpedia.org/resource/Dave_Johnson_(basketball),http://dbpedia.org/resource/Denver_Johnson http://dbpedia.org/resource/Denver_Johnson_(football_coach)
+0,73,C. Elliott,http://dbpedia.org/resource/Bump_Elliott,http://dbpedia.org/resource/Charity_Elliott
+0,75,B. Williams,http://dbpedia.org/resource/Brandon_Williams_(linebacker),http://dbpedia.org/resource/Buzz_Williams
+0,76,B. Weber,http://dbpedia.org/resource/Brianté_Weber,http://dbpedia.org/resource/Bruce_Weber_(coach) http://dbpedia.org/resource/Bruce_Webber http://dbpedia.org/resource/Bruce_Weber_(basketball)

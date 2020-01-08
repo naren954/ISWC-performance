@@ -1,0 +1,5 @@
+F1: 0.87500,Precision: 0.87500,Recall: 0.87500,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,G. B. Mowad,,http://dbpedia.org/resource/George_B._Mowad
+0,6,E. Merino,http://fr.dbpedia.org/resource/Rafael_Merino,http://dbpedia.org/resource/Evaristo_Merino_Canales_de_la_Cerda http://dbpedia.org/resource/Evaristo_Merino_Canales http://dbpedia.org/resource/Evaristo_Merino
+0,8,E. Armstrong,http://dbpedia.org/resource/John_Armstrong_Jr.,http://dbpedia.org/resource/Eduardo_Armstrong

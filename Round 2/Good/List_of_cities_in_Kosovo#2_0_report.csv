@@ -1,0 +1,7 @@
+F1: 0.77273,Precision: 0.77273,Recall: 0.77273,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,13,DeÃ§an \/ DeÄ\u008Dani,http://dbpedia.org/resource/Freixo_de_Espada_à_Cinta,http://dbpedia.org/resource/Deçan
+0,16,GraÃ§anicÃ« \/ GraÄ\u008Danica,http://dbpedia.org/resource/2010_Haiti_earthquake,"http://dbpedia.org/resource/Gračanica,_Kosovo"
+0,17,Han i Elezit \/ Ä\u0090eneral JankoviÄ\u0087,"http://dbpedia.org/resource/University_of_California,_Berkeley",http://dbpedia.org/resource/Deneral_Jankovic http://dbpedia.org/resource/Hani_i_Elezit http://dbpedia.org/resource/Djeneral_jankovic http://dbpedia.org/resource/Đeneral_Janković http://dbpedia.org/resource/Hani_Elezit http://dbpedia.org/resource/Ðeneral_Jankovic http://dbpedia.org/resource/Elez_Han http://dbpedia.org/resource/Hani_Elezit/Đeneral_Janković http://dbpedia.org/resource/Hani_e_Elezit
+0,19,ZveÃ§an \/ ZveÄ\u008Dan,"http://dbpedia.org/resource/Crocus,_Kentucky",http://dbpedia.org/resource/Zvečan
+0,25,NovobÃ«rdÃ« \/ Novo Brdo,http://dbpedia.org/resource/Novo_Brdo,http://dbpedia.org/resource/Novobërdë

@@ -1,0 +1,9 @@
+F1: 0.36364,Precision: 0.36364,Recall: 0.36364,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,2,Radomir Ä\u0090aloviÄ\u0087,,http://dbpedia.org/resource/Radomir_Đalović
+1,3,Nikola KaliniÄ\u0087,http://dbpedia.org/resource/Nikola_Tesla,http://dbpedia.org/resource/Nikola_Kalinić
+1,5,Luka ModriÄ\u0087,http://dbpedia.org/resource/Luka_Wraber,http://dbpedia.org/resource/Luka_Modrić
+1,8,Mario MandÅ¾ukiÄ\u0087,http://dbpedia.org/resource/Sandy_Mändly,http://dbpedia.org/resource/Mario_Mandžukić
+1,9,BoÅ¡ko Balaban,http://dbpedia.org/resource/Bob_Balaban,http://dbpedia.org/resource/Boško_Balaban
+1,11,Josip TadiÄ\u0087,http://dbpedia.org/resource/Josip_Elez,http://dbpedia.org/resource/Josip_Tadić
+1,12,Ognjen VukojeviÄ\u0087,,http://dbpedia.org/resource/Ognjen_Vukojević

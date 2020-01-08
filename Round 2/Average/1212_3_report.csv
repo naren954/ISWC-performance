@@ -1,0 +1,25 @@
+F1: 0.68056,Precision: 0.68056,Recall: 0.68056,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,7,W. Meng,http://dbpedia.org/resource/Wang_Meng_(figure_skater),http://dbpedia.org/resource/Meng_Wang_(speed_skater) http://dbpedia.org/resource/Wang_Meng_(speed_skater)
+3,19,Y. Yang,"http://dbpedia.org/resource/Yang_Yang_(speed_skater,_born_1977)",http://dbpedia.org/resource/Yáng_Yáng http://dbpedia.org/resource/Yang_Yang_(b._1976) http://dbpedia.org/resource/Yang_Yang_(A) http://dbpedia.org/resource/楊揚 http://dbpedia.org/resource/杨扬
+3,24,Y. Yang,"http://dbpedia.org/resource/Yang_Yang_(speed_skater,_born_1977)",http://dbpedia.org/resource/Yang_Yang_(S) http://dbpedia.org/resource/Yang_Yang_(b._1977)
+3,25,Y. Yang,"http://dbpedia.org/resource/Yang_Yang_(speed_skater,_born_1977)",http://dbpedia.org/resource/Yáng_Yáng http://dbpedia.org/resource/Yang_Yang_(b._1976) http://dbpedia.org/resource/Yang_Yang_(A) http://dbpedia.org/resource/楊揚 http://dbpedia.org/resource/杨扬
+3,26,Y. Yang,"http://dbpedia.org/resource/Yang_Yang_(speed_skater,_born_1977)",http://dbpedia.org/resource/Yang_Yang_(S) http://dbpedia.org/resource/Yang_Yang_(b._1977)
+3,28,L. Jun-hwan,http://dbpedia.org/resource/Cha_Jun-hwan,http://dbpedia.org/resource/Lee_Jun-Hwan http://dbpedia.org/resource/Lee_Jun-hwan
+3,30,Y. Yang,"http://dbpedia.org/resource/Yang_Yang_(speed_skater,_born_1977)",http://dbpedia.org/resource/Yang_Yang_(S) http://dbpedia.org/resource/Yang_Yang_(b._1977)
+3,31,Y. Yang,"http://dbpedia.org/resource/Yang_Yang_(speed_skater,_born_1977)",http://dbpedia.org/resource/Yáng_Yáng http://dbpedia.org/resource/Yang_Yang_(b._1976) http://dbpedia.org/resource/Yang_Yang_(A) http://dbpedia.org/resource/楊揚 http://dbpedia.org/resource/杨扬
+3,32,Y. Yang,"http://dbpedia.org/resource/Yang_Yang_(speed_skater,_born_1977)",http://dbpedia.org/resource/Yang_Yang_(S) http://dbpedia.org/resource/Yang_Yang_(b._1977)
+3,37,N. Lambert,http://dbpedia.org/resource/Bob_Lambert_(cricketer),http://dbpedia.org/resource/Nathalie_Lambert
+3,41,N. Lambert,http://dbpedia.org/resource/Bob_Lambert_(cricketer),http://dbpedia.org/resource/Nathalie_Lambert
+3,44,Z. Štefečeková,http://dbpedia.org/resource/Zuzana_Rehák-Štefečeková,http://dbpedia.org/resource/Zuzana_Stefecekova http://dbpedia.org/resource/Zuzana_Štefečeková
+3,45,W. Ning,http://dbpedia.org/resource/George_H._W._Bush,http://dbpedia.org/resource/Wei_Ning
+3,47,C. Ying,http://dbpedia.org/resource/Luo_Ying,http://dbpedia.org/resource/Chen_Ying_(sport_shooter)
+3,51,A. Golding,http://dbpedia.org/resource/Andrew_Golding,http://dbpedia.org/resource/Anders_Golding
+3,54,L. Cox,http://dbpedia.org/resource/Lionel_Cox_(cyclist),http://dbpedia.org/resource/Lionel_Cox_(sport_shooter)
+3,56,V. Kumar,http://dbpedia.org/resource/Vishal_Kumar,http://dbpedia.org/resource/Vijay_Kumar_(sport_shooter)
+3,59,Z. Štefečeková,http://dbpedia.org/resource/Zuzana_Rehák-Štefečeková,http://dbpedia.org/resource/Zuzana_Stefecekova http://dbpedia.org/resource/Zuzana_Štefečeková
+3,60,W. Ning,http://dbpedia.org/resource/George_H._W._Bush,http://dbpedia.org/resource/Wei_Ning
+3,62,C. Ying,http://dbpedia.org/resource/Luo_Ying,http://dbpedia.org/resource/Chen_Ying_(sport_shooter)
+3,66,A. Golding,http://dbpedia.org/resource/Andrew_Golding,http://dbpedia.org/resource/Anders_Golding
+3,69,L. Cox,http://dbpedia.org/resource/Lionel_Cox_(cyclist),http://dbpedia.org/resource/Lionel_Cox_(sport_shooter)
+3,71,V. Kumar,http://dbpedia.org/resource/Vishal_Kumar,http://dbpedia.org/resource/Vijay_Kumar_(sport_shooter)

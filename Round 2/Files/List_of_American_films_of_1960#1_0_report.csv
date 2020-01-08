@@ -1,0 +1,5 @@
+"F1: 0.85714","Precision: 0.85714","Recall: 0.85714"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","1","The Dark at the Top of the Stairs","http://dbpedia.org/resource/The_Dark_at_the_Top_of_the_Stairs_(film)","http://dbpedia.org/resource/Farther_Off_from_Heaven http://dbpedia.org/resource/The_Dark_at_the_Top_of_the_Stairs http://dbpedia.org/resource/Dark_at_the_Top_of_the_Stairs http://dbpedia.org/resource/The_Dark_At_The_Top_Of_The_Stairs http://dbpedia.org/resource/Farther_off_from_heaven"
+"0","6","Exodus","http://dbpedia.org/resource/Exodus:_Gods_and_Kings","http://dbpedia.org/resource/Exodus_(1960_film)"
+"0","17","High Time","http://dbpedia.org/resource/High_Time_(song)","http://dbpedia.org/resource/High_Time_(film) http://dbpedia.org/resource/High_Time_(1960_film)"

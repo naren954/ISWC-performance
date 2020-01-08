@@ -1,0 +1,4 @@
+"F1: 0.84615","Precision: 0.84615","Recall: 0.84615"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","12","What I'm After","http://dbpedia.org/resource/I_Still_Haven't_Found_What_I'm_Looking_For","http://dbpedia.org/resource/What_I'm_After_(Lords_of_the_Underground_song)"
+"0","13","What I'd Say","http://dbpedia.org/resource/What'd_I_Say","http://dbpedia.org/resource/What_I'd_Say"

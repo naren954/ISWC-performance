@@ -1,0 +1,4 @@
+"F1: 0.50000","Precision: 0.50000","Recall: 0.50000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","1","Cangrejeros de Santurce","http://dbpedia.org/resource/Cangrejeros_de_Santurce_(baseball)","http://dbpedia.org/resource/Santurce_Crabbers_(basketball) http://dbpedia.org/resource/Cangrejeros_de_Santurce_(basketball) http://dbpedia.org/resource/Cangrejeros_de_Santurce_basketball"
+"0","3","AtlÃ©ticos de San Juan","http://dbpedia.org/resource/Atlético_de_San_Juan_FC","http://dbpedia.org/resource/Atléticos_de_San_Juan"

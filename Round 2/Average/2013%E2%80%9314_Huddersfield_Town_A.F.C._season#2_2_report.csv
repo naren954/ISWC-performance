@@ -1,0 +1,6 @@
+F1: 0.55556,Precision: 0.55556,Recall: 0.55556,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,2,Tom Clarke,http://dbpedia.org/resource/Thomas_Clarke_(footballer),http://dbpedia.org/resource/Tom_Clarke_(footballer)
+2,6,Jack Hunt,http://dbpedia.org/resource/Jack_Hunt_(American_football),http://dbpedia.org/resource/Jack_Hunt_(footballer)
+2,7,James Burke,http://dbpedia.org/resource/James_Burke_(baseball),"http://dbpedia.org/resource/James_Burke_(footballer_born_1994) http://dbpedia.org/resource/James_Burke_(footballer,_born_1994)"
+2,12,James Spencer,"http://dbpedia.org/resource/James_Spencer_(footballer,_born_1985)","http://dbpedia.org/resource/Jimmy_Spencer_(footballer) http://dbpedia.org/resource/Jimmy_Spencer_(footballer_born_1991) http://dbpedia.org/resource/James_Spencer_(footballer_born_1991) http://dbpedia.org/resource/Jimmy_Spencer_(footballer,_born_1991) http://dbpedia.org/resource/James_Spencer_(footballer,_born_1991) http://dbpedia.org/resource/James_Christopher_Spencer"

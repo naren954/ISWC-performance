@@ -1,0 +1,8 @@
+F1: 0.91892,Precision: 0.91892,Recall: 0.91892,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,6,Stockton Municipal Airport,http://dbpedia.org/resource/Stockton_Municipal_Airport_(Missouri),http://dbpedia.org/resource/Stockton_Municipal_Airport_(Kansas)
+0,43,St. George Airport,http://dbpedia.org/resource/St._George_Airport_(Alaska),http://dbpedia.org/resource/St._George_Airport_(South_Carolina)
+0,50,St. Charles Airport,http://dbpedia.org/resource/St._Charles_Airport,"http://dbpedia.org/resource/St._Charles_Airport_(Ama,_Louisiana) http://dbpedia.org/resource/St._Charles_Airport_(Louisiana)"
+0,56,Springfield Municipal Airport,http://dbpedia.org/resource/Springfield_Municipal_Airport_(Colorado),http://dbpedia.org/resource/Springfield_Municipal_Airport_(South_Dakota)
+0,57,Springfield Municipal Airport,http://dbpedia.org/resource/Springfield_Municipal_Airport_(Colorado),http://dbpedia.org/resource/Springfield_Municipal_Airport_(Minnesota)
+0,74,Southwest Florida International Airport,http://dbpedia.org/resource/Palm_Beach_International_Airport,http://dbpedia.org/resource/Southwest_Florida_(airport) http://dbpedia.org/resource/Southwest_Florida_Regional_Airport http://dbpedia.org/resource/Fort_Myers_Airport http://dbpedia.org/resource/Ft._Myers_International_Airport http://dbpedia.org/resource/Southwest_Florida_(international_airport) http://dbpedia.org/resource/RSW_Airport http://dbpedia.org/resource/Southwest_Florida_International_Airport http://dbpedia.org/resource/Fort_Myers_International_Airport http://dbpedia.org/resource/Southwest_Florida_International http://dbpedia.org/resource/Southwest_Florida_Airport

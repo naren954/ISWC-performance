@@ -1,0 +1,7 @@
+F1: 0.16667,Precision: 0.16667,Recall: 0.16667,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,2,Hugh Latimer,,http://dbpedia.org/resource/Hugh_Latimer
+2,3,John Bell,http://dbpedia.org/resource/John_Stewart_Bell,"http://dbpedia.org/resource/John_Bell,_Bishop_of_Worcester http://dbpedia.org/resource/John_Bell_(Bishop_of_Worcester) http://dbpedia.org/resource/John_Bell_(bishop)"
+2,4,Nicholas Heath (1st term),,http://dbpedia.org/resource/Nicholas_Heath_(Archbishop) http://dbpedia.org/resource/Nicolas_Heath http://dbpedia.org/resource/Nicholas_Heath
+2,6,Nicholas Heath (2nd term),,http://dbpedia.org/resource/Nicholas_Heath_(Archbishop) http://dbpedia.org/resource/Nicolas_Heath http://dbpedia.org/resource/Nicholas_Heath
+2,7,Richard Pate,http://dbpedia.org/resource/Richard_Pates,http://dbpedia.org/resource/Richard_Pate_(bishop)

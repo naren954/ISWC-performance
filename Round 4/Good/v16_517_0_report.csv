@@ -1,0 +1,9 @@
+F1: 0.96237,Precision: 0.96237,Recall: 0.96237,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,12,Spectrum,http://dbpedia.org/resource/Apopestes_spectrum,http://dbpedia.org/resource/Spectrum_(horse)
+0,74,Rule,http://dbpedia.org/resource/Glenn_Rule,http://dbpedia.org/resource/Rule_(horse)
+0,88,Roberto,http://dbpedia.org/resource/Roberto_Marinho,http://dbpedia.org/resource/Roberto_(horse)
+0,121,Rachel's Valentina,http://dbpedia.org/resource/Rachel_Alexandra,http://dbpedia.org/resource/Rachel's_Valentina
+0,151,Pope,http://dbpedia.org/resource/Pope_Joan_(horse),http://dbpedia.org/resource/Pope_(horse)
+0,177,Paul Jones,http://dbpedia.org/resource/John_Paul_Jones,http://dbpedia.org/resource/Paul_Jones_(horse)
+0,181,Paris,http://dbpedia.org/resource/Paris_(mythology),http://dbpedia.org/resource/Paris_(horse)

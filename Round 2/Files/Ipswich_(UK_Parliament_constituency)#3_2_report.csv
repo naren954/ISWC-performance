@@ -1,0 +1,4 @@
+"F1: 0.81818","Precision: 0.81818","Recall: 0.81818"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"2","1","John Ganzoni","http://dbpedia.org/resource/John_Ganzoni,_2nd_Baron_Belstead","http://dbpedia.org/resource/John_Ganzoni http://dbpedia.org/resource/Francis_Ganzoni http://dbpedia.org/resource/John_Ganzoni,_1st_Baron_Belstead http://dbpedia.org/resource/Francis_Ganzoni,_1st_Baron_Belstead http://dbpedia.org/resource/Francis_John_Childs_Ganzoni"
+"2","4","Sir John Ganzoni, Bt","http://dbpedia.org/resource/Sir_John_Beresford,_1st_Baronet","http://dbpedia.org/resource/John_Ganzoni http://dbpedia.org/resource/Francis_Ganzoni http://dbpedia.org/resource/John_Ganzoni,_1st_Baron_Belstead http://dbpedia.org/resource/Francis_Ganzoni,_1st_Baron_Belstead http://dbpedia.org/resource/Francis_John_Childs_Ganzoni"

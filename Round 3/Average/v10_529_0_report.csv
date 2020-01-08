@@ -1,0 +1,9 @@
+F1: 0.61111,Precision: 0.61111,Recall: 0.61111,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,W. G. Bennett,http://dbpedia.org/resource/Charles_G._Bennett,http://dbpedia.org/resource/William_G._Bennett
+0,4,V. Cassar,http://dbpedia.org/resource/Girolamo_Cassar,http://dbpedia.org/resource/Gio_Vittorio_Cassar http://dbpedia.org/resource/Vittorio_Cassar http://dbpedia.org/resource/Vitor_Cassar
+0,7,R. T. Walker,http://dbpedia.org/resource/Scott_Walker_(politician),http://dbpedia.org/resource/Ralph_Thomas_Walker http://dbpedia.org/resource/Walker_Tower http://dbpedia.org/resource/Ralph_T._Walker
+0,11,J. L. Archer,http://dbpedia.org/resource/James_J._Archer,http://dbpedia.org/resource/John_Lee_Archer
+0,12,J. Barnet,http://dbpedia.org/resource/Will_Barnet,http://dbpedia.org/resource/James_Barnet
+0,16,F. Blondel,http://dbpedia.org/resource/Jacques-François_Blondel,http://dbpedia.org/resource/Nicolas-François_Blondel http://dbpedia.org/resource/François_Blondel http://dbpedia.org/resource/Francois_Blondel
+0,17,F. Ocampo,http://dbpedia.org/resource/Victoria_Ocampo,http://dbpedia.org/resource/Fernando_H._Ocampo http://dbpedia.org/resource/Fernando_Ocampo

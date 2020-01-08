@@ -1,0 +1,5 @@
+"F1: 0.82353","Precision: 0.82353","Recall: 0.82353"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","6","Sherlock Holmes","http://dbpedia.org/resource/Sherlock_Holmes_(2013_TV_series)","http://dbpedia.org/resource/Sherlock_Holmes_(1984_TV_Series) http://dbpedia.org/resource/Sherlock_Holmes_(1984_TV_series) http://dbpedia.org/resource/The_Adventures_of_Sherlock_Holmes_(TV_series)"
+"0","7","Sherlock Holmes","http://dbpedia.org/resource/Sherlock_Holmes_(2013_TV_series)","http://dbpedia.org/resource/Sherlock_Holmes_(1954_TV_Series) http://dbpedia.org/resource/Sherlock_Holmes_(1954) http://dbpedia.org/resource/Sherlock_Holmes_(1954_TV_series)"
+"0","15","Shane","http://dbpedia.org/resource/McShane_(name)","http://dbpedia.org/resource/Shane_(TV_series) http://dbpedia.org/resource/Shane_(television_series) http://dbpedia.org/resource/Shane_(television)"

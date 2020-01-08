@@ -1,0 +1,4 @@
+F1: 0.96491,Precision: 0.96491,Recall: 0.96491,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,6,Otolaryngology-Head and Neck Surgery,http://dbpedia.org/resource/Otolaryngology–Head_and_Neck_Surgery,http://dbpedia.org/resource/Otolaryngology-Head_and_Neck_Surgery http://dbpedia.org/resource/Otolaryngol_Head_Neck_Surg http://dbpedia.org/resource/Otolaryngology_-_Head_and_Neck_Surgery
+0,35,Open Medicine,http://dbpedia.org/resource/Open_Medicine_(John_Willinsky_journal),http://dbpedia.org/resource/Open_Medicine_(De_Gruyter_Open_journal) http://dbpedia.org/resource/Central_European_Journal_of_Medicine http://dbpedia.org/resource/Open_Medicine_(De_Gruyter_Open)

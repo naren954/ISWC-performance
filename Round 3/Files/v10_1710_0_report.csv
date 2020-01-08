@@ -1,0 +1,6 @@
+"F1: 0.91489","Precision: 0.91489","Recall: 0.91489"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","5","Time","http://dbpedia.org/resource/Adventure_Time","http://dbpedia.org/resource/Time_(Young_Ones_episode) http://dbpedia.org/resource/Time_(The_Young_Ones_episode) http://dbpedia.org/resource/Time_(The_Young_Ones)"
+"0","16","The Plague","http://dbpedia.org/resource/The_Plague_(Nuclear_Assault_EP)","http://dbpedia.org/resource/The_Plague_(Father_Ted)"
+"0","18","The Living Dead","http://dbpedia.org/resource/Return_of_the_Living_Dead:_Necropolis","http://dbpedia.org/resource/The_Living_Dead_(The_Avengers)"
+"0","41","Sick","http://dbpedia.org/resource/Sick_(The_Walking_Dead)","http://dbpedia.org/resource/Sick_(Young_Ones_episode) http://dbpedia.org/resource/Sick_(The_Young_Ones) http://dbpedia.org/resource/Sick_(The_Young_Ones_episode) http://dbpedia.org/resource/Negative_reality_inversion"

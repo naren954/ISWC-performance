@@ -1,0 +1,5 @@
+"F1: 0.95385","Precision: 0.95385","Recall: 0.95385"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"3","25","Fort Minor","http://dbpedia.org/resource/Mike_Shinoda","http://dbpedia.org/resource/Fort_Minor_Sampler_Mixtape http://dbpedia.org/resource/Fort_Minor_discography http://dbpedia.org/resource/Samplar_Mixtape http://dbpedia.org/resource/Fort_Minor"
+"3","40","David Ball","http://dbpedia.org/resource/David_Ball_(musician)","http://dbpedia.org/resource/David_Ball_(country_music) http://dbpedia.org/resource/David_Ball_(country_musician) http://dbpedia.org/resource/David_Ball_(country_singer)"
+"3","62","+44","http://dbpedia.org/resource/Barack_Obama","http://dbpedia.org/resource/+44_(band) http://dbpedia.org/resource/44_(band) http://dbpedia.org/resource/(+44)_Discography http://dbpedia.org/resource/+44_(2005_band) http://dbpedia.org/resource/Carol_Heller"

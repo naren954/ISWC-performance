@@ -1,0 +1,9 @@
+F1: 0.85714,Precision: 0.85714,Recall: 0.85714,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,4,Journal Record Building,http://dbpedia.org/resource/Capitol_Records_Building,http://dbpedia.org/resource/India_Temple_Shrine_Building http://dbpedia.org/resource/Journal_Record_Building
+0,10,Josef Jacobberger House,http://dbpedia.org/resource/Joseph_Jacobberger_Country_House,http://dbpedia.org/resource/Joseph_Jacobberger_House http://dbpedia.org/resource/Josef_Jacobberger_House
+0,11,Jose Castro House,http://dbpedia.org/resource/José_Castro_House,http://dbpedia.org/resource/Jose_Castro_House
+0,13,Jones Memorial Library,http://dbpedia.org/resource/Rushmore_Memorial_Library,"http://dbpedia.org/resource/Jones_Memorial_Library_(Lynchburg,_Virginia)"
+0,43,Jefferson County Jail,"http://dbpedia.org/resource/Jefferson_County_Jail_(Louisville,_Kentucky)",http://dbpedia.org/resource/Jefferson_County_Jail_(Kentucky)
+0,44,Jefferson County Courthouse,http://dbpedia.org/resource/Louisville_Metro_Hall,"http://dbpedia.org/resource/Jefferson_County_Courthouse_(Birmingham,_Alabama)"
+0,48,Jasper County Courthouse,http://dbpedia.org/resource/Jasper_County_Courthouse_(South_Carolina),"http://dbpedia.org/resource/Jasper_County_Courthouse_(Jasper,_Texas)"

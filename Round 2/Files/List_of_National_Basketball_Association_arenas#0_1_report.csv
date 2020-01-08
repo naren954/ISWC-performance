@@ -1,0 +1,6 @@
+"F1: 0.86207","Precision: 0.86207","Recall: 0.86207"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","1","Air Canada Centre","http://dbpedia.org/resource/Scotiabank_Arena","http://dbpedia.org/resource/Air_Canada_Center http://dbpedia.org/resource/Air_Canada_Centre http://dbpedia.org/resource/40_Bay_Street"
+"1","15","Philips Arena","http://dbpedia.org/resource/State_Farm_Arena","http://dbpedia.org/resource/Highlight_Factory http://dbpedia.org/resource/Philips_Arena http://dbpedia.org/resource/Phillips_Arena"
+"1","16","Quicken Loans Arena","http://dbpedia.org/resource/Rocket_Mortgage_FieldHouse","http://dbpedia.org/resource/Gund_Arena http://dbpedia.org/resource/The_Gund http://dbpedia.org/resource/Quicken_Loans_Arena"
+"1","27","Verizon Center","http://dbpedia.org/resource/Capital_One_Arena","http://dbpedia.org/resource/Verizon_Center http://dbpedia.org/resource/MCI_Center http://dbpedia.org/resource/Mci_centre"

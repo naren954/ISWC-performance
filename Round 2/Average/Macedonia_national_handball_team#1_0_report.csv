@@ -1,0 +1,5 @@
+F1: 0.75000,Precision: 0.75000,Recall: 0.75000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,Japan 1997,http://it.dbpedia.org/resource/Japan_Cup_1997_(ciclismo),http://dbpedia.org/resource/1997_World_Men's_Handball_Championship
+0,8,Germany 2007,http://dbpedia.org/resource/2007_Qatar_Telecom_German_Open,http://dbpedia.org/resource/2007_World_Men's_Handball_Championship
+0,11,Spain 2013,http://dbpedia.org/resource/2013_Women's_Futsal_World_Tournament,http://dbpedia.org/resource/2013_World_Men's_Handball_Championship

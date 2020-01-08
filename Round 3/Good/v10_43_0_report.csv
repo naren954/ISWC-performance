@@ -1,0 +1,33 @@
+F1: 0.82682,Precision: 0.82682,Recall: 0.82682,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,J. Jardine,http://dbpedia.org/resource/Douglas_Jardine,http://dbpedia.org/resource/John_Jardine_(American_football) http://dbpedia.org/resource/John_Jardine_(football_coach)
+0,11,J. Howard,http://dbpedia.org/resource/Jerrance_Howard,http://dbpedia.org/resource/John_D._Howard_(lacrosse) http://dbpedia.org/resource/Hezzy_Howard http://dbpedia.org/resource/John_Howard_(lacrosse)
+0,16,J. Green,"http://dbpedia.org/resource/John_Green_(footballer,_born_1939)",http://dbpedia.org/resource/John_Green_(guard) http://dbpedia.org/resource/John_Green_(American_football_player_born_1924) http://dbpedia.org/resource/John_Green_(1924–1981) http://dbpedia.org/resource/John_Green_(1924-1981) http://dbpedia.org/resource/John_Green_(football_player_born_1924) http://dbpedia.org/resource/John_Green_(football) http://dbpedia.org/resource/Jack_Green_(coach)
+0,38,J. Chalmers,http://dbpedia.org/resource/Jimmy_Chalmers,http://dbpedia.org/resource/John_Chalmers
+0,45,J. Barnhill,http://dbpedia.org/resource/John_Barnhill_(basketball),http://dbpedia.org/resource/John_Barnhill_(coach) http://dbpedia.org/resource/John_Barnhill_(American_football)
+0,54,"J. "". Smith",http://dbpedia.org/resource/J._T._Smith_(American_football),"http://dbpedia.org/resource/John_P._""Clipper""_Smith http://dbpedia.org/resource/John_P._Smith http://dbpedia.org/resource/John_""Clipper""_Smith"
+0,58,J. Eaves,http://dbpedia.org/resource/Jerry_Eaves,http://dbpedia.org/resource/Joel_Eaves
+0,65,J. Pritchard,http://dbpedia.org/resource/John_Pritchard_(basketball),http://dbpedia.org/resource/Joe_Pritchard http://dbpedia.org/resource/Beersheba_Pritchard
+0,75,J. Holland,http://dbpedia.org/resource/Joe_Holland_(baseball),http://dbpedia.org/resource/Joe_Holland_(coach) http://dbpedia.org/resource/Joe_Holland_(collegiate_coach)
+0,76,J. G. Sr.,http://dbpedia.org/resource/Joe_Garagiola_Sr.,"http://dbpedia.org/resource/Joe_Gilliam,_Sr."
+0,90,J. Walker,"http://dbpedia.org/resource/Jackie_Walker_(American_football,_born_1950)","http://dbpedia.org/resource/Jimmy_Walker_(basketball_coach) http://dbpedia.org/resource/Jimmy_Walker_(basketball,_born_1913)"
+0,95,J. Williams,http://dbpedia.org/resource/Jamie_Williams_(American_football),http://dbpedia.org/resource/Jim_Williams_(basketball_coach) http://dbpedia.org/resource/Jim_Williams_(basketball)
+0,96,J. Weaver,http://dbpedia.org/resource/Red_Weaver,http://dbpedia.org/resource/Jim_Weaver_(ACC_Commissioner) http://dbpedia.org/resource/Jim_Weaver_(sportsperson)
+0,97,J. Weaver,http://dbpedia.org/resource/Red_Weaver,http://dbpedia.org/resource/Jim_Weaver_(athletics_director) http://dbpedia.org/resource/Jim_Weaver_(athletic_director) http://dbpedia.org/resource/James_C._Weaver
+0,98,J. Ward,http://dbpedia.org/resource/Jimmy_Ward_(ice_hockey),http://dbpedia.org/resource/Jim_Ward_(American_football) http://dbpedia.org/resource/Jim_Ward_(football_coach)
+0,102,J. Tatum,http://dbpedia.org/resource/Jack_Tatum,http://dbpedia.org/resource/Jim_Tatum
+0,106,J. Stanley,http://dbpedia.org/resource/James_Stanley_(American_football),http://dbpedia.org/resource/Jim_Stanley_(football) http://dbpedia.org/resource/Jim_Stanley_(American_football)
+0,116,J. Myers,http://dbpedia.org/resource/Jack_Myers_(American_football),"http://dbpedia.org/resource/James_A._""Jim""_Myers http://dbpedia.org/resource/Jim_Myers"
+0,123,J. Johnson,http://dbpedia.org/resource/Lyndon_B._Johnson,http://dbpedia.org/resource/Jim_Johnson_(coach)
+0,127,J. Freeman,http://dbpedia.org/resource/Jack_Freeman_(American_football),http://dbpedia.org/resource/Jim_Freeman_(coach) http://dbpedia.org/resource/Jim_Freeman_(American_football)
+0,132,J. Brock,http://dbpedia.org/resource/John_Brock_(baseball),http://dbpedia.org/resource/Jim_Brock
+0,135,J. Wallace,http://dbpedia.org/resource/Jack_Wallace_(American_football),http://dbpedia.org/resource/Jewell_Wallace
+0,137,J. Hawley,http://dbpedia.org/resource/Joe_Hawley,http://dbpedia.org/resource/Jesse_Hawley_(football) http://dbpedia.org/resource/Jesse_Hawley_(American_football)
+0,139,J. Fatherree,http://dbpedia.org/resource/J._J._Philbin,http://dbpedia.org/resource/Jesse_Fatherree http://dbpedia.org/resource/Jesse_Fatheree http://dbpedia.org/resource/Jess_Fatherree
+0,141,J. Hill,http://dbpedia.org/resource/Jay_Hill_(American_football),http://dbpedia.org/resource/Jess_Hill
+0,148,J. Edwards,http://dbpedia.org/resource/John_Edwards_(basketball),http://dbpedia.org/resource/Jerry_Edwards
+0,159,J. L. Lee,http://dbpedia.org/resource/J._Bracken_Lee,"http://dbpedia.org/resource/Jay_Lee_(American_football) http://dbpedia.org/resource/Jay_""Biffy""_Lee http://dbpedia.org/resource/Jay_Lee_(coach) http://dbpedia.org/resource/Biffy_Lee http://dbpedia.org/resource/Jay_L._Lee http://dbpedia.org/resource/Jay_“Biffy”_Lee"
+0,163,J. Whipple,http://dbpedia.org/resource/Mark_Whipple,http://dbpedia.org/resource/James_Whipple
+0,167,J. Schaeffer,http://dbpedia.org/resource/George_Schaeffer,http://dbpedia.org/resource/Jimmie_Schaeffer http://dbpedia.org/resource/Jimmy_Schaeffer http://dbpedia.org/resource/James_Schaeffer
+0,170,J. Ogilvie,http://dbpedia.org/resource/John_Ogilvie_(saint),http://dbpedia.org/resource/James_Ogilvie_(coach) http://dbpedia.org/resource/Coach_Ogilvie
+0,174,J. Morrison,http://dbpedia.org/resource/Joe_Morrison,http://dbpedia.org/resource/James_Morrison_(coach) http://dbpedia.org/resource/James_Morrison_(American_football)

@@ -1,0 +1,34 @@
+F1: 0.40741,Precision: 0.40741,Recall: 0.40741,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,3,J. Needs,http://dbpedia.org/resource/Malcolm_Needs,http://dbpedia.org/resource/James_Needs
+1,4,A. Roberts,http://dbpedia.org/resource/Julia_Roberts,http://dbpedia.org/resource/Arthur_Roberts_(editor)
+1,5,S. Rosenblum,http://dbpedia.org/resource/Robert_Rosenblum,http://dbpedia.org/resource/Steven_Rosenblum
+1,7,S. Rosenblum,http://dbpedia.org/resource/Robert_Rosenblum,http://dbpedia.org/resource/Steven_Rosenblum
+1,8,W. A. Anderson,http://dbpedia.org/resource/William_Anderson_(naval_officer),http://dbpedia.org/resource/William_A._Anderson
+1,9,E. Graham,http://dbpedia.org/resource/Martha_Graham,http://dbpedia.org/resource/Elliot_Graham
+1,10,S. Rosenblum,http://dbpedia.org/resource/Robert_Rosenblum,http://dbpedia.org/resource/Steven_Rosenblum
+1,11,M. Goldblatt,http://dbpedia.org/resource/David_Goldblatt,http://dbpedia.org/resource/Mark_Goldblatt
+1,13,S. Rabjohn,http://dbpedia.org/resource/Chris_Rabjohn,http://dbpedia.org/resource/Stanley_Rabjohn
+1,14,K. Roache-Turner,http://dbpedia.org/resource/Richmond_K._Turner,http://dbpedia.org/resource/Kiah_Roache-Turner
+1,16,A. Roberts,http://dbpedia.org/resource/Julia_Roberts,http://dbpedia.org/resource/Arthur_Roberts_(editor)
+1,17,R. Kern,http://dbpedia.org/resource/Jerome_Kern,http://dbpedia.org/resource/Robert_J._Kern http://dbpedia.org/resource/Robert_Kern
+1,20,L. Wing-Cheong,http://dbpedia.org/resource/Lorna_Wing,http://dbpedia.org/resource/Law_Wing_Cheong http://dbpedia.org/resource/Law_Wing-cheong http://dbpedia.org/resource/Law_Wing-Cheong http://dbpedia.org/resource/Wing-cheong_Law http://dbpedia.org/resource/Law_Wing-cheung
+1,21,F. Tropea,http://dbpedia.org/resource/John_Tropea,http://dbpedia.org/resource/Fernando_Tropea
+1,23,R. C. Currier,http://dbpedia.org/resource/R._C._Sherriff,http://dbpedia.org/resource/Richard_C._Currier http://dbpedia.org/resource/Richard_Currier
+1,28,J. Gárate,http://es.dbpedia.org/resource/Justo_Gárate,http://dbpedia.org/resource/Jorge_Gárate
+1,30,A. Ludwig,http://de.dbpedia.org/resource/Hubert_Ludwig,http://dbpedia.org/resource/Alice_Rasch http://dbpedia.org/resource/Alice_Ludwig-Rasch http://dbpedia.org/resource/Alice_Ludwig
+1,32,E. Warren,http://dbpedia.org/resource/Earl_Warren,http://dbpedia.org/resource/Eda_Warren
+1,33,R. Barton,http://dbpedia.org/resource/Derek_Barton,http://dbpedia.org/resource/Aiden_Barton http://dbpedia.org/resource/Roger_Barton_(film_editor) http://dbpedia.org/resource/Aidan_Barton
+1,34,D. Brenner,http://dbpedia.org/resource/Sydney_Brenner,http://dbpedia.org/resource/David_Brenner_(editor)
+1,37,J. Harris,http://dbpedia.org/resource/Richard_Harris,http://dbpedia.org/resource/Jack_Harris_(film_editor)
+1,39,S. McAllister,http://dbpedia.org/resource/David_McAllister,http://dbpedia.org/resource/Stewart_McAllister
+1,41,F. Webster,http://dbpedia.org/resource/Freddie_Webster,http://dbpedia.org/resource/Ferris_Webster
+1,43,J. McBride,http://dbpedia.org/resource/Will_McBride_(photographer),http://dbpedia.org/resource/Jon_McBride_(filmmaker)
+1,44,A. Gonçalves,http://pt.dbpedia.org/resource/André_Gonçalves_(ator),http://dbpedia.org/resource/Affonso_Gonçalves
+1,45,M. Walsh,http://dbpedia.org/resource/Matt_Walsh_(comedian),http://dbpedia.org/resource/Martin_Walsh_(film_editor)
+1,46,D. Allen,http://dbpedia.org/resource/Dave_Allen_(comedian),http://dbpedia.org/resource/Dede_Allen http://dbpedia.org/resource/Dede_allen
+1,48,M. Livolsi,http://fr.dbpedia.org/resource/Marino_Livolsi,http://dbpedia.org/resource/Mark_Livolsi http://dbpedia.org/resource/Livolsi
+1,49,J. Salcedo,http://dbpedia.org/resource/Jorge_Salcedo_(actor),http://dbpedia.org/resource/José_Salcedo http://dbpedia.org/resource/Jose_Salcedo
+1,51,O. Meyer,http://dbpedia.org/resource/Eduard_Meyer,http://dbpedia.org/resource/Otto_Meyer_(film_editor)
+1,52,D. Milner,"http://dbpedia.org/resource/Alfred_Milner,_1st_Viscount_Milner",http://dbpedia.org/resource/Dan_Milner
+1,54,E. Kobler,http://de.dbpedia.org/resource/Franz_Kobler,http://dbpedia.org/resource/Erich_Kobler

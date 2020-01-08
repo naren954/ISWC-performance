@@ -1,0 +1,8 @@
+F1: 0.94828,Precision: 0.94828,Recall: 0.94828,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,12,True parrots,http://dbpedia.org/resource/Psittacidae,http://dbpedia.org/resource/Psittacoidea http://dbpedia.org/resource/Parrot_(family) http://dbpedia.org/resource/True_parrot http://dbpedia.org/resource/True_Parrots http://dbpedia.org/resource/Psittacidae_(family) http://dbpedia.org/resource/Psittacoidae http://dbpedia.org/resource/True_parrots
+1,42,Rhipiduridae,http://dbpedia.org/resource/Fantail,http://dbpedia.org/resource/Rhipiduridae
+1,44,Hydrobatidae,http://dbpedia.org/resource/Northern_storm_petrel,http://dbpedia.org/resource/Storm_petrels http://dbpedia.org/resource/Hydrobatidae http://dbpedia.org/resource/Storm_petrel http://dbpedia.org/resource/Stormy_petrel http://dbpedia.org/resource/Stormy_Petrel http://dbpedia.org/resource/Storm-Petrel http://dbpedia.org/resource/Storm-petrels http://dbpedia.org/resource/Storm_Petrels http://dbpedia.org/resource/Storm_Petrel http://dbpedia.org/resource/Storm-petrel http://dbpedia.org/resource/Stormy_Petrels
+1,63,River kingfisher,http://dbpedia.org/resource/Kingfisher,http://dbpedia.org/resource/River_kingfisher http://dbpedia.org/resource/River_Kingfisher http://dbpedia.org/resource/Alcedininae http://dbpedia.org/resource/River_kingfishers
+1,73,Rhipiduridae,http://dbpedia.org/resource/Fantail,http://dbpedia.org/resource/Rhipiduridae
+1,81,Carduelinae,http://dbpedia.org/resource/Finch,http://dbpedia.org/resource/Cardueline http://dbpedia.org/resource/Cardueline_finches http://dbpedia.org/resource/Carduelinae http://dbpedia.org/resource/Cardueline_finch

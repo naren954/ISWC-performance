@@ -1,0 +1,28 @@
+F1: 0.78689,Precision: 0.78689,Recall: 0.78689,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,7,1950 Belgian Grand Prix,http://dbpedia.org/resource/1950_Pau_Grand_Prix,http://dbpedia.org/resource/1950_Belgian_Grand_Prix
+0,16,1949 Buenos Aires Grand Prix,http://dbpedia.org/resource/1949_Buenos_Aires_Grand_Prix_(I),http://dbpedia.org/resource/1949_Buenos_Aires_Grand_Prix_(III)
+0,17,1949 Buenos Aires Grand Prix,http://dbpedia.org/resource/1949_Buenos_Aires_Grand_Prix_(I),http://dbpedia.org/resource/1949_Buenos_Aires_Grand_Prix_(II)
+0,21,1949 BRDC International Trophy,http://dbpedia.org/resource/1978_BRDC_International_Trophy,http://dbpedia.org/resource/I_BRDC_International_Trophy http://dbpedia.org/resource/1949_BRDC_International_Trophy
+0,22,1948 Swiss Grand Prix,http://dbpedia.org/resource/1937_Swiss_Grand_Prix,http://dbpedia.org/resource/1948_Swiss_Grand_Prix
+0,24,1948 Roussillon Grand Prix,http://dbpedia.org/resource/1947_Roussillon_Grand_Prix,http://dbpedia.org/resource/1948_Roussillon_Grand_Prix
+0,28,1948 Buenos Aires Grand Prix,http://dbpedia.org/resource/1948_Buenos_Aires_Grand_Prix_(I),http://dbpedia.org/resource/1948_Buenos_Aires_Grand_Prix_(II)
+0,31,1947 Swiss Grand Prix,http://dbpedia.org/resource/1937_Swiss_Grand_Prix,http://dbpedia.org/resource/1947_Swiss_Grand_Prix
+0,32,1947 San Remo Grand Prix,http://dbpedia.org/resource/1937_San_Remo_Grand_Prix,http://dbpedia.org/resource/1947_San_Remo_Grand_Prix
+0,37,1947 Buenos Aires Grand Prix,http://dbpedia.org/resource/1948_Buenos_Aires_Grand_Prix_(I),http://dbpedia.org/resource/1947_General_Juan_Perón_Grand_Prix http://dbpedia.org/resource/1947_Buenos_Aires_Grand_Prix_(I) http://dbpedia.org/resource/1947_General_Juan_Peron_Grand_Prix
+0,42,1946 Nice Grand Prix,http://dbpedia.org/resource/1933_Nice_Grand_Prix,http://dbpedia.org/resource/1946_Nice_Grand_Prix
+0,50,1938 Swiss Grand Prix,http://dbpedia.org/resource/1937_Swiss_Grand_Prix,http://dbpedia.org/resource/1938_Swiss_Grand_Prix
+0,59,1937 German Grand Prix,http://dbpedia.org/resource/1937_Italian_Grand_Prix,http://dbpedia.org/resource/1937_German_Grand_Prix
+0,61,1937 Belgian Grand Prix,http://dbpedia.org/resource/1937_Italian_Grand_Prix,http://dbpedia.org/resource/1937_Belgian_Grand_Prix
+0,70,1935 Swiss Grand Prix,http://dbpedia.org/resource/1937_Swiss_Grand_Prix,http://dbpedia.org/resource/1935_Swiss_Grand_Prix
+0,75,1934 Swiss Grand Prix,http://dbpedia.org/resource/1937_Swiss_Grand_Prix,http://dbpedia.org/resource/1934_Swiss_Grand_Prix
+0,110,1916 American Grand Prize,http://dbpedia.org/resource/1908_American_Grand_Prize,http://dbpedia.org/resource/1916_American_Grand_Prize
+0,112,1913 French Grand Prix,http://dbpedia.org/resource/1947_French_Grand_Prix,http://dbpedia.org/resource/1913_French_Grand_Prix
+0,113,1912 French Grand Prix,http://dbpedia.org/resource/1949_French_Grand_Prix,http://dbpedia.org/resource/1912_French_Grand_Prix
+0,114,1911 American Grand Prize,http://dbpedia.org/resource/1908_American_Grand_Prize,http://dbpedia.org/resource/1911_American_Grand_Prize
+0,115,1910 American Grand Prize,http://dbpedia.org/resource/1908_American_Grand_Prize,http://dbpedia.org/resource/1910_American_Grand_Prize
+0,116,1908 French Grand Prix,http://dbpedia.org/resource/1908_American_Grand_Prize,http://dbpedia.org/resource/1908_French_Grand_Prix
+0,119,1906 French Grand Prix,http://dbpedia.org/resource/1949_French_Grand_Prix,http://dbpedia.org/resource/1906_French_Grand_Prix http://dbpedia.org/resource/1906_Grand_Prix_de_l'Automobile_Club_de_France
+0,120,1905 Gordon Bennett Cup,http://dbpedia.org/resource/1902_Gordon_Bennett_Cup,http://dbpedia.org/resource/1905_Gordon_Bennett_Cup
+0,121,1904 Gordon Bennett Cup,http://dbpedia.org/resource/1902_Gordon_Bennett_Cup,http://dbpedia.org/resource/1904_Gordon_Bennett_Cup
+0,122,1903 Gordon Bennett Cup,http://dbpedia.org/resource/1902_Gordon_Bennett_Cup,http://dbpedia.org/resource/1903_Gordon_Bennett_Cup

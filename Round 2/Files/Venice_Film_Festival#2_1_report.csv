@@ -1,0 +1,5 @@
+"F1: 0.57143","Precision: 0.57143","Recall: 0.57143"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","6","The Postmaster","http://dbpedia.org/resource/Postmaster_(film)","http://dbpedia.org/resource/The_Postmaster http://dbpedia.org/resource/Der_Postmeister"
+"1","7","Uncle KrÃ¼ger","http://dbpedia.org/resource/Ohm_Krüger","http://dbpedia.org/resource/Uncle_Krüger"
+"1","8","The Great King","http://dbpedia.org/resource/The_Great_Deceiver_(King_Crimson_album)","http://dbpedia.org/resource/Der_große_König http://dbpedia.org/resource/Der_Große_König http://dbpedia.org/resource/Der_Grosse_König http://dbpedia.org/resource/Der_Große_Konig http://dbpedia.org/resource/The_Great_King"

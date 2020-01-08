@@ -1,0 +1,7 @@
+"F1: 0.72222","Precision: 0.72222","Recall: 0.72222"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","4","G. McLendon","http://fr.dbpedia.org/resource/James_McLendon","http://dbpedia.org/resource/Gordon_McLendon"
+"0","6","G. Saunders","nan","http://dbpedia.org/resource/Gloria_Saunders"
+"0","15","E. C. Jr.","http://dbpedia.org/resource/Calvin_Coolidge","http://dbpedia.org/resource/Elisha_Cook_Jr. http://dbpedia.org/resource/Elisha_Cook http://dbpedia.org/resource/Elisha_Cook,_Jr. http://dbpedia.org/resource/Elisha_Cook_Junior http://dbpedia.org/resource/Elisha_Cook_Jr"
+"0","16","E. Welch","http://dbpedia.org/resource/Raquel_Welch","http://dbpedia.org/resource/Elisabeth_Welch http://dbpedia.org/resource/Elizabeth_Welch http://dbpedia.org/resource/Elizabeth_welch"
+"0","17","E. Olin","http://dbpedia.org/resource/Lena_Olin","http://dbpedia.org/resource/Elisabeth_Olin"

@@ -1,0 +1,52 @@
+F1: 0.72973,Precision: 0.72973,Recall: 0.72973,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,Wanted Dead or Alive,http://dbpedia.org/resource/Wanted_Dead_or_Alive_(Bon_Jovi_song),http://dbpedia.org/resource/Wanted_Dead_or_Alive_(Tupac_Shakur_song) http://dbpedia.org/resource/Wanted_Dead_or_Alive_(Tupac_Shakur_and_Snoop_Doggy_Dogg_song) http://dbpedia.org/resource/Wanted_Dead_or_Alive_(2Pac_song) http://dbpedia.org/resource/Wanted_Dead_or_Alive_(2pac_song) http://dbpedia.org/resource/Wanted_Dead_or_Alive_(Tupac_Shakur)
+0,4,Wanted,http://dbpedia.org/resource/Wanted_(Alan_Jackson_song),http://dbpedia.org/resource/Wanted_(Hunter_Hayes_song) http://dbpedia.org/resource/Wanted_(Hunter_Hayes_Song)
+0,6,Want to Want Me,http://dbpedia.org/resource/I_Don't_Want_Nobody_to_Give_Me_Nothing,http://dbpedia.org/resource/Want_To_Want_Me http://dbpedia.org/resource/Want_to_Want_Me
+0,9,Want To,"http://dbpedia.org/resource/Want_Me,_Want_Me",http://dbpedia.org/resource/Want_To http://dbpedia.org/resource/Want_to
+0,16,Wanderlust,http://dbpedia.org/resource/Wanderlust_(R.E.M._song),http://dbpedia.org/resource/Wanderlust_(The_Weeknd_song)
+0,17,Wanderlust,http://dbpedia.org/resource/Wanderlust_(R.E.M._song),http://dbpedia.org/resource/Wanderlust_(Bjork_song) http://dbpedia.org/resource/Wanderlust_(bjork_song) http://dbpedia.org/resource/Wanderlust_(Björk_song)
+0,22,Walls,http://dbpedia.org/resource/Walls_(Yes_song),http://dbpedia.org/resource/Walls_(Icehouse_song)
+0,34,Walking Wounded,http://dbpedia.org/resource/Walking_Wounded_(The_Tea_Party_song),http://dbpedia.org/resource/Walking_Wounded_(song)
+0,43,Walking Away,http://dbpedia.org/resource/Love_Don't_Let_Me_Go,http://dbpedia.org/resource/Walking_Away_(Information_Society_song)
+0,46,Walkin' Away,http://dbpedia.org/resource/Walkin'_Away_(Clint_Black_song),http://dbpedia.org/resource/Walkin'_Away_(Diamond_Rio_song)
+0,52,Walk on the Wild Side,http://dbpedia.org/resource/Walk_on_the_Wild_Side_&_Other_Hits,http://dbpedia.org/resource/Take_a_Walk_on_the_Wild_Side http://dbpedia.org/resource/I_Giardini_di_Kensington http://dbpedia.org/resource/Walk_on_the_Wild_Side_(Reed) http://dbpedia.org/resource/Take_a_walk_on_the_wild_side http://dbpedia.org/resource/Walk_on_the_Wild_Side_(Lou_Reed_song)
+0,58,Walk This Way,http://dbpedia.org/resource/Walk_This_Way,http://dbpedia.org/resource/Walk_This_Way_(MØ_song) http://dbpedia.org/resource/Walk_This_Way_(Mø_song)
+0,61,Walk Me Home,http://dbpedia.org/resource/Walk_Me_Home_(Mandy_Moore_song),http://dbpedia.org/resource/Walk_Me_Home
+0,63,Walk Like a Man,http://dbpedia.org/resource/Walk_Like_a_Man_(Grand_Funk_Railroad_song),http://dbpedia.org/resource/Walk_Like_a_Man_(The_Four_Seasons_song) http://dbpedia.org/resource/Walk_Like_a_Man_(Four_Seasons_song) http://dbpedia.org/resource/Walk_Like_a_Man_(Divine_song) http://dbpedia.org/resource/Walk_Like_a_Man_(song)
+0,65,Walk It Out,http://dbpedia.org/resource/Walk_It_Out_(Jennifer_Hudson_song),http://dbpedia.org/resource/Walk_It_Out_(Unk_song)
+0,67,Walk Away,http://dbpedia.org/resource/Walk_Away_(Kelly_Clarkson_song),http://dbpedia.org/resource/Walk_Away_(Paula_DeAnda_song) http://dbpedia.org/resource/Walk_Away_(Remember_Me)
+0,68,Walk Away,http://dbpedia.org/resource/Walk_Away_(Kelly_Clarkson_song),http://dbpedia.org/resource/Walk_Away_(Franz_Ferdinand_song)
+0,69,Walk Away,http://dbpedia.org/resource/Walk_Away_(Kelly_Clarkson_song),http://dbpedia.org/resource/Walk_Away_(Five_Finger_Death_Punch_song)
+0,70,Walk Away,http://dbpedia.org/resource/Walk_Away_(Kelly_Clarkson_song),http://dbpedia.org/resource/Walk_Away_(Alanis_Morissette_song)
+0,71,Walk,http://dbpedia.org/resource/Walk_(Foo_Fighters_song),http://dbpedia.org/resource/Walk_(Pantera_song) http://dbpedia.org/resource/Walk_(A_Vulgar_Display_of_Power)
+0,78,Wake Up Everybody,http://dbpedia.org/resource/Wake_Up!_(John_Legend_and_The_Roots_album),http://dbpedia.org/resource/Wake_Up_Everybody_(Sonia_song) http://dbpedia.org/resource/Wake_Up_Everybody_(song)
+0,80,Wake Up,http://dbpedia.org/resource/Wake_Up_(Hilary_Duff_song),http://dbpedia.org/resource/Wake_Up_(The_Vamps_song)
+0,81,Wake Up,http://dbpedia.org/resource/Wake_Up_(Hilary_Duff_song),http://dbpedia.org/resource/Wake_Up_(Eskimo_Joe_song)
+0,82,Wake Up,http://dbpedia.org/resource/Wake_Up_(Hilary_Duff_song),http://dbpedia.org/resource/Wake_Up_(Arcade_Fire_song)
+0,89,Waiting in Vain,,http://dbpedia.org/resource/Waiting_in_Vain http://dbpedia.org/resource/Waiting_in_Vain_(Annie_Lennox_song) http://dbpedia.org/resource/Waiting_in_vain
+0,102,Wait on Me,http://dbpedia.org/resource/Wait_for_Me_(Kings_of_Leon_song),http://dbpedia.org/resource/Wait_on_Me_(Rixton_song)
+0,105,Wait for Me,http://dbpedia.org/resource/Wait_for_Me_(Kings_of_Leon_song),http://dbpedia.org/resource/Wait_for_Me_(Theory_of_a_Deadman_song) http://dbpedia.org/resource/Wait_For_Me_(Theory_of_a_Deadman_song)
+0,110,Wait a Minute,http://dbpedia.org/resource/Wait_a_Minute_(The_Pussycat_Dolls_song),http://dbpedia.org/resource/Wait_a_Minute_(Just_a_Touch) http://dbpedia.org/resource/Wait_A_Minute_(Just_A_Touch)
+0,113,Wait,http://dbpedia.org/resource/Wait_(White_Lion_song),http://dbpedia.org/resource/Wait_(Wang_Chung_song)
+0,114,Wait,http://dbpedia.org/resource/Wait_(White_Lion_song),http://dbpedia.org/resource/Wait_(The_Whisper_Song)
+0,120,Vuélveme a Querer,http://dbpedia.org/resource/Vuélveme_a_Querer_(Thalía_song),http://dbpedia.org/resource/Vuélveme_a_Querer_(Cristian_Castro_song)
+0,123,Vuélveme a Querer,http://dbpedia.org/resource/Vuélveme_a_Querer_(Thalía_song),http://dbpedia.org/resource/Vuélveme_a_Querer_(Cristian_Castro_song)
+0,127,Voulez-Vous,http://dbpedia.org/resource/Lady_Marmalade,http://dbpedia.org/resource/Voulez-Vous_(song)
+0,128,Voodoo Queen,http://dbpedia.org/resource/Voodoo_People_/_Out_of_Space,http://dbpedia.org/resource/Voodoo_Queen_(song) http://dbpedia.org/resource/Voodoo_queen_(song) http://dbpedia.org/resource/Voodoo_queen http://dbpedia.org/resource/Voodoo_Queen
+0,130,Voodoo Cowboy,http://dbpedia.org/resource/Voodoo_People_/_Out_of_Space,http://dbpedia.org/resource/Voodoo_Cowboy
+0,132,Voodoo Child,http://dbpedia.org/resource/Voodoo_Child_(Slight_Return),http://dbpedia.org/resource/Voodoo_Child_(Rogue_Traders_song)
+0,136,Volunteers,http://dbpedia.org/resource/Volunteers_(Jefferson_Airplane_album),http://dbpedia.org/resource/Volunteers_(song) http://dbpedia.org/resource/We_Can_Be_Together
+0,140,Voices,http://dbpedia.org/resource/Voices_(Disturbed_song),http://dbpedia.org/resource/Voices_(Disclosure_song)
+0,141,Voices,http://dbpedia.org/resource/Voices_(Disturbed_song),http://dbpedia.org/resource/Voices_(Chris_Young_song)
+0,142,Voices,http://dbpedia.org/resource/Voices_(Disturbed_song),http://dbpedia.org/resource/Voices_(Cheap_Trick_song)
+0,146,Vogue,http://dbpedia.org/resource/Vogue_(Madonna_song),http://dbpedia.org/resource/Vogue_(Ayumi_Hamasaki_song) http://dbpedia.org/resource/Vogue_(Ayumi_Hamasaki_single)
+0,159,Virus,http://dbpedia.org/resource/Virus_100,http://dbpedia.org/resource/Virus_(KMFDM_song) http://dbpedia.org/resource/Virus_(single)
+0,160,Virus,http://dbpedia.org/resource/Virus_100,http://dbpedia.org/resource/Virus_(How_About_Now)
+0,161,Virus,http://dbpedia.org/resource/Virus_100,http://dbpedia.org/resource/Virus_(Bjork_song) http://dbpedia.org/resource/Virus_(Björk_song)
+0,164,Violet,http://dbpedia.org/resource/Violet_(Seal_song),http://dbpedia.org/resource/Violet_(Hole_song)
+0,166,Village Green,http://dbpedia.org/resource/The_Village_Green_Preservation_Society,http://dbpedia.org/resource/Village_Green_(song)
+0,167,Vifta med händerna,,http://dbpedia.org/resource/Throw_Your_Hands_Up http://dbpedia.org/resource/Vifta_med_handerna http://dbpedia.org/resource/Vifta_med_händerna
+0,170,Vienna,http://dbpedia.org/resource/Vienna_(Ultravox_song),http://dbpedia.org/resource/Vienna_(Billy_Joel_song)
+0,175,Victory,http://dbpedia.org/resource/Victory_(Puff_Daddy_song),http://dbpedia.org/resource/Victory_(Bond_single) http://dbpedia.org/resource/Victory_(bond_song) http://dbpedia.org/resource/Victory_(bond_single) http://dbpedia.org/resource/Victory_(instrumental) http://dbpedia.org/resource/Victory_(Bond_song)
+0,179,Victim of Love,http://dbpedia.org/resource/Victim_of_Love_(The_Cars_song),http://dbpedia.org/resource/Victim_of_Love_(song)

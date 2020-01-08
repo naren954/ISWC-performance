@@ -1,0 +1,5 @@
+F1: 0.86957,Precision: 0.86957,Recall: 0.86957,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Á. H. Oria,http://dbpedia.org/resource/Robert_H._Crabtree,http://dbpedia.org/resource/Angel_Herrera_Oria http://dbpedia.org/resource/Ángel_Herrera_Oria
+0,2,S. Várdai,"http://ru.dbpedia.org/resource/Вардаи,_Иштван",http://dbpedia.org/resource/István_Varas http://dbpedia.org/resource/István_Vardajo http://dbpedia.org/resource/István_Vardaio http://dbpedia.org/resource/István_Várdai http://dbpedia.org/resource/Stephen_Várdai http://dbpedia.org/resource/Istvan_Vardai http://dbpedia.org/resource/István_Varda http://dbpedia.org/resource/István_Varada
+0,23,Á. H. Oria,http://dbpedia.org/resource/Robert_H._Crabtree,http://dbpedia.org/resource/Angel_Herrera_Oria http://dbpedia.org/resource/Ángel_Herrera_Oria

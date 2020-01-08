@@ -1,0 +1,7 @@
+"F1: 0.64286","Precision: 0.64286","Recall: 0.64286"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","2","Line 1, Nanjing Metro","http://dbpedia.org/resource/Line_10_(Nanjing_Metro)","http://dbpedia.org/resource/Line_1,_Nanjing_Metro"
+"0","3","Line 1, Hangzhou Metro","http://dbpedia.org/resource/Line_2_(Hangzhou_Metro)","http://dbpedia.org/resource/Line_1,_Hangzhou_Metro"
+"0","4","Line 1, Guangzhou Metro","http://dbpedia.org/resource/Line_1_(Guangzhou_Metro)","http://dbpedia.org/resource/Line_1,_Guangzhou_Metro http://dbpedia.org/resource/Guangzhou_Metro_Line_1 http://dbpedia.org/resource/Fangcun_Line,_Guangzhou_Metro"
+"0","5","LINK Train","http://dbpedia.org/resource/High_Speed_1","http://dbpedia.org/resource/LINK_Train http://dbpedia.org/resource/LINK_Interterminal_Shuttle http://dbpedia.org/resource/Inter-Terminal_Shuttle_Bus_Service_-_Pearson_Airport"
+"0","14","Baltimore Metro Subway","http://dbpedia.org/resource/Baltimore_Metro_SubwayLink","http://dbpedia.org/resource/Metro_Subway http://dbpedia.org/resource/Balti_metro http://dbpedia.org/resource/Baltimore_Subway http://dbpedia.org/resource/Baltimore_Metro http://dbpedia.org/resource/Shot_Tower_Metro_Subway_Station http://dbpedia.org/resource/Baltimore_Metro_Subway http://dbpedia.org/resource/Old_Court_(Metro_Subway) http://dbpedia.org/resource/Milford_Mill_Metro_Subway_Station http://dbpedia.org/resource/Baltimore_metro http://dbpedia.org/resource/List_of_Baltimore_subway_stations http://dbpedia.org/resource/Metro_Subway_(Baltimore)"

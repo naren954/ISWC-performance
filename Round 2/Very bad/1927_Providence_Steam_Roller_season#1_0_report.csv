@@ -1,0 +1,13 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,New York Giants,http://dbpedia.org/resource/New_York_(state),http://dbpedia.org/resource/1927_New_York_Giants_season
+0,3,Green Bay Packers,http://dbpedia.org/resource/Green_Bay_Packers,http://dbpedia.org/resource/1927_Green_Bay_Packers_season
+0,4,Chicago Bears,http://dbpedia.org/resource/Chicago,http://dbpedia.org/resource/1927_Chicago_Bears_season
+0,5,Cleveland Bulldogs,http://dbpedia.org/resource/Cleveland,http://dbpedia.org/resource/1927_Cleveland_Bulldogs_season
+0,7,New York Yankees,http://dbpedia.org/resource/Yankee_Stadium,http://dbpedia.org/resource/1927_New_York_Yankees_(NFL)_season http://dbpedia.org/resource/1927_New_York_Yankees_season_(NFL)
+0,8,Frankford Yellow Jackets,http://dbpedia.org/resource/1926_NFL_season,http://dbpedia.org/resource/1927_Frankford_Yellow_Jackets_season
+0,9,Pottsville Maroons,"http://dbpedia.org/resource/Pottsville,_Pennsylvania",http://dbpedia.org/resource/1927_Pottsville_Maroons_season
+0,10,Chicago Cardinals,http://dbpedia.org/resource/Arizona_Cardinals,http://dbpedia.org/resource/1927_Chicago_Cardinals_season
+0,11,Dayton Triangles,"http://dbpedia.org/resource/Dayton,_Ohio",http://dbpedia.org/resource/1927_Dayton_Triangles_season
+0,12,Duluth Eskimos,http://dbpedia.org/resource/University_of_Minnesota_Duluth,http://dbpedia.org/resource/1927_Duluth_Eskimos_season
+0,13,Buffalo Bisons,http://dbpedia.org/resource/American_bison,http://dbpedia.org/resource/1927_Buffalo_Bisons_season_(NFL) http://dbpedia.org/resource/1927_Buffalo_Rangers_season http://dbpedia.org/resource/1927_Buffalo_Bisons_(NFL)_season

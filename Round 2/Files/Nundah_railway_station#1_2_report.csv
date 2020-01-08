@@ -1,0 +1,8 @@
+"F1: 0.25000","Precision: 0.25000","Recall: 0.25000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"2","1","City, Cannon Hill, Manly & Cleveland","http://dbpedia.org/resource/Trams_in_Sydney","http://dbpedia.org/resource/Central_Railway_Station,_Brisbane http://dbpedia.org/resource/Central_railway_station,_Brisbane http://dbpedia.org/resource/Brisbane_Central"
+"2","2","Northgate & Shorncliffe","http://dbpedia.org/resource/Shorncliffe_railway_line","http://dbpedia.org/resource/Northgate_railway_station,_Brisbane"
+"2","4","City, Ipswich & Rosewood","http://dbpedia.org/resource/2010_City_of_Ipswich_300","http://dbpedia.org/resource/Central_Railway_Station,_Brisbane http://dbpedia.org/resource/Central_railway_station,_Brisbane http://dbpedia.org/resource/Brisbane_Central"
+"2","6","City & Roma Street","http://dbpedia.org/resource/Roma_Street_railway_station","http://dbpedia.org/resource/Central_Railway_Station,_Brisbane http://dbpedia.org/resource/Central_railway_station,_Brisbane http://dbpedia.org/resource/Brisbane_Central"
+"2","7","Springfield Central & Ipswich","http://dbpedia.org/resource/Springfield,_Queensland","http://dbpedia.org/resource/Springfield_Central_railway_station"
+"2","8","Petrie & Caboolture","http://dbpedia.org/resource/Caboolture_railway_line","http://dbpedia.org/resource/Petrie_railway_station,_Brisbane http://dbpedia.org/resource/Petrie_railway_station"

@@ -1,0 +1,13 @@
+F1: 0.90833,Precision: 0.90833,Recall: 0.90833,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,2,"William T. Culpepper, III",http://dbpedia.org/resource/William_T._Culpepper_III,"http://dbpedia.org/resource/Bill_Culpepper http://dbpedia.org/resource/William_T._Culpepper,_III http://dbpedia.org/resource/William_T._Culpepper http://dbpedia.org/resource/Bill_T._Culpepper,_III http://dbpedia.org/resource/William_Culpepper,_III"
+1,5,"Howard J. Hunter, Jr.",http://dbpedia.org/resource/Howard_J._Whitmore_Jr.,"http://dbpedia.org/resource/Howard_J._Hunter http://dbpedia.org/resource/Howard_Hunter,_Jr. http://dbpedia.org/resource/Howard_J._Hunter,_Jr."
+1,25,"William G. Daughtridge, Jr.",http://dbpedia.org/resource/William_G._Daughtridge_Jr.,"http://dbpedia.org/resource/Bill_Daughtridge http://dbpedia.org/resource/William_G._Daughtridge http://dbpedia.org/resource/William_G._Daughtridge,_Jr. http://dbpedia.org/resource/William_Daughtridge"
+1,32,"James W. Crawford, Jr.",http://dbpedia.org/resource/James_W._Crawford_Jr.,"http://dbpedia.org/resource/James_W._Crawford,_Jr. http://dbpedia.org/resource/James_Walker_Crawford,_Jr."
+1,46,Douglas Y. Yongue,http://dbpedia.org/resource/Alec_Douglas-Home,http://dbpedia.org/resource/Douglas_Y._Yongue http://dbpedia.org/resource/Dr._Douglas_Y._Yongue
+1,62,John M. Blust,http://dbpedia.org/resource/John_M._Zerwas,http://dbpedia.org/resource/John_M._Blust http://dbpedia.org/resource/John_Blust http://dbpedia.org/resource/John_Marshall_Blust
+1,69,"Pryor A. Gibson, III",http://dbpedia.org/resource/Pryor_A._Gibson_III,"http://dbpedia.org/resource/Pryor_Gibson http://dbpedia.org/resource/Pryor_Gibson,_III http://dbpedia.org/resource/Pryor_Allan_Gibson,_III http://dbpedia.org/resource/Pryor_A._Gibson http://dbpedia.org/resource/Pryor_A._Gibson,_III"
+1,80,Jerry C. Dockham,http://dbpedia.org/resource/Jerry_Weller,http://dbpedia.org/resource/Jerry_Dockham http://dbpedia.org/resource/Jerry_C._Dockham
+1,83,R. Tracy Walker,http://dbpedia.org/resource/Scott_Walker_(politician),http://dbpedia.org/resource/Ronald_T._Walker http://dbpedia.org/resource/Ronald_Tracy_Walker http://dbpedia.org/resource/R_Tracy_Walker http://dbpedia.org/resource/Tracy_Walker http://dbpedia.org/resource/R._Tracy_Walker http://dbpedia.org/resource/Ronald_T_Walker
+1,90,"James A. Harrell, III",http://dbpedia.org/resource/James_A._Harrell_III,"http://dbpedia.org/resource/James_A._Harrell http://dbpedia.org/resource/James_Andrew_Harrell,_III http://dbpedia.org/resource/James_A._Harrell,_III http://dbpedia.org/resource/James_Andrew_Harrell http://dbpedia.org/resource/James_Harrell,_III"
+1,98,John W. Rhodes,http://dbpedia.org/resource/John_Jacob_Rhodes,http://dbpedia.org/resource/John_W._Rhodes

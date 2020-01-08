@@ -1,0 +1,6 @@
+"F1: 0.78947","Precision: 0.78947","Recall: 0.78947"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","10","T. King","http://dbpedia.org/resource/William_IV_of_the_United_Kingdom","http://dbpedia.org/resource/Thomas_King_(New_Zealand_politician)"
+"0","11","T. Hughes","http://dbpedia.org/resource/Tom_Hughes_(Australian_politician)","http://dbpedia.org/resource/Thomas_Hughes_(Sydney_mayor)"
+"0","12","T. Gladstone","http://dbpedia.org/resource/Albert_Gladstone","http://dbpedia.org/resource/Sir_Thomas_Gladstone http://dbpedia.org/resource/Sir_Thomas_Gladstone,_2nd_Baronet,_of_Fasque http://dbpedia.org/resource/Sir_Thomas_Gladstone,_2nd_Baronet http://dbpedia.org/resource/Thomas_Gladstone"
+"0","18","R. James","http://dbpedia.org/resource/Roxanne_James","http://dbpedia.org/resource/Rowland_James http://dbpedia.org/resource/Rowley_James"

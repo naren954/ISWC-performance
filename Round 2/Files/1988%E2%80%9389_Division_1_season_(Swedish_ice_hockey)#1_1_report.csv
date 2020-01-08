@@ -1,0 +1,4 @@
+"F1: 0.60000","Precision: 0.60000","Recall: 0.60000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","1","Bodens IK","http://dbpedia.org/resource/Bodens_BK","http://dbpedia.org/resource/BIK_Boden http://dbpedia.org/resource/Bodens_IK"
+"1","6","LejonstrÃ¶ms SK","http://dbpedia.org/resource/Södertälje_SK","http://dbpedia.org/resource/Lejonströms_SK"

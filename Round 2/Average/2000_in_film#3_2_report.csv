@@ -1,0 +1,13 @@
+F1: 0.70270,Precision: 0.70270,Recall: 0.70270,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,1,Black and White,http://dbpedia.org/resource/Black_and_White_(2002_film),http://dbpedia.org/resource/Black_and_White_(1999_drama_film)
+2,4,Rules of Engagement,http://dbpedia.org/resource/Rules_of_Engagement_(TV_series),http://dbpedia.org/resource/Rules_of_Engagement_(film) http://dbpedia.org/resource/Rules_of_Engagement_(movie)
+2,5,28 Days,http://dbpedia.org/resource/28_Days_Later,http://dbpedia.org/resource/Eddie_Boone http://dbpedia.org/resource/28_Days_(film) http://dbpedia.org/resource/28_days_(film) http://dbpedia.org/resource/Andrea_Delaney http://dbpedia.org/resource/Gwen_Cummings http://dbpedia.org/resource/28_Days_(movie)
+2,9,Gossip,http://dbpedia.org/resource/Gossip_Girl,http://dbpedia.org/resource/Gossip_(2000_American_film)
+2,10,Love & Basketball,http://dbpedia.org/resource/Love_&_Basketball,http://dbpedia.org/resource/Love_&_Basketball_(film)
+2,13,Frequency,http://dbpedia.org/resource/Frequency_Unknown,http://dbpedia.org/resource/Frequency_(movie) http://dbpedia.org/resource/Frequency_(film)
+2,15,Timecode,http://dbpedia.org/resource/Timecode_(2000_film),http://dbpedia.org/resource/Time_Code_(film) http://dbpedia.org/resource/Timecode_(film) http://dbpedia.org/resource/Time_Code_(movie) http://dbpedia.org/resource/Timecode_(movie)
+2,27,Big Momma's House,http://dbpedia.org/resource/Big_Momma's_House_2,http://dbpedia.org/resource/Big_Momma's_House
+2,29,Boys and Girls,http://dbpedia.org/resource/Boys_and_Girls_(1983_film),http://dbpedia.org/resource/Boys_and_Girls_(2000_film)
+2,35,The Patriot,http://dbpedia.org/resource/Patriot_Games_(film),http://dbpedia.org/resource/The_Patriot_(2000_film)
+2,36,The Adventures of Rocky and Bullwinkle,http://dbpedia.org/resource/The_Adventures_of_Rocky_and_Bullwinkle_(film),http://dbpedia.org/resource/Rocky_and_Bullwinkle_(film) http://dbpedia.org/resource/The_Adventures_of_Rocky_and_Bullwinkle http://dbpedia.org/resource/The_Adventures_Of_Rocky_And_Bullwinkle http://dbpedia.org/resource/Rocky_&_Bullwinkle_movie http://dbpedia.org/resource/Die_Abenteuer_von_Rocky_&_Bullwinkle http://dbpedia.org/resource/The_Adventures_of_Rocky_&_Bullwinkle http://dbpedia.org/resource/The_adventures_of_rocky_and_bullwinkle http://dbpedia.org/resource/Adventures_of_Rocky_and_Bullwinkle http://dbpedia.org/resource/Rocky_and_Bullwinkle_(movie)

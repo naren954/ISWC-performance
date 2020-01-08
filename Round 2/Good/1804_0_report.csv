@@ -1,0 +1,3 @@
+F1: 0.95238,Precision: 0.95238,Recall: 0.95238,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,11,Fox Theatre,http://dbpedia.org/resource/Fox_Theatre_(Detroit),"http://dbpedia.org/resource/Fox_Theatre_(Redwood_City,_California)"

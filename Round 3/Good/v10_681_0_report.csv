@@ -1,0 +1,44 @@
+F1: 0.77297,Precision: 0.77297,Recall: 0.77297,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,P. Sykes,http://dbpedia.org/resource/April_Sykes,http://dbpedia.org/resource/Paul_Sykes_(boxer)
+0,7,P. McGuigan,http://dbpedia.org/resource/Barry_McGuigan,http://dbpedia.org/resource/Patrick_McGuigan
+0,8,P. O'Keefe,http://dbpedia.org/resource/Peter_O'Keefe_(footballer),http://dbpedia.org/resource/Pat_O'Keefe
+0,10,P. Butler,http://dbpedia.org/resource/Paul_Butler_(boxer),http://dbpedia.org/resource/Pat_Butler
+0,12,P. A. Brown,http://dbpedia.org/resource/P._J._Brown,"http://dbpedia.org/resource/Alphonse_T._Brown http://dbpedia.org/resource/Brown,_Al http://dbpedia.org/resource/Al_Brown http://dbpedia.org/resource/Panama_Al_Brown"
+0,13,P. Ryan,http://dbpedia.org/resource/Peter_Ryan_(racing_driver),http://dbpedia.org/resource/Irish_Paddy_Ryan http://dbpedia.org/resource/Paddy_Ryan
+0,17,P. McFarland,http://dbpedia.org/resource/Patrick_McFarland,http://dbpedia.org/resource/Packy_McFarland http://dbpedia.org/resource/Packey_McFarland
+0,20,O. Díaz,http://dbpedia.org/resource/Osvaldo_Díaz,http://dbpedia.org/resource/Oscar_Díaz_(boxer) http://dbpedia.org/resource/Oscar_Diaz_(boxer)
+0,23,O. Andrén,http://fr.dbpedia.org/resource/Vicke_Andrén,http://dbpedia.org/resource/Oscar_Andren http://dbpedia.org/resource/Oscar_Andrén
+0,28,N. Dempsey,http://dbpedia.org/resource/Jack_Dempsey,"http://dbpedia.org/resource/Nonpareil_Jack_Dempsey http://dbpedia.org/resource/Jack_""Nonpareil""_Dempsey http://dbpedia.org/resource/Jack_(Nonpareil)_Dempsey http://dbpedia.org/resource/Jack_Nonpareil_Dempsey http://dbpedia.org/resource/Jack_""The_Nonpareil""_Dempsey http://dbpedia.org/resource/Nonpareil_Dempsey http://dbpedia.org/resource/""Nonpareil""_Dempsey"
+0,29,N. Valdés,http://dbpedia.org/resource/Víctor_Valdés,http://dbpedia.org/resource/Nino_Valdez http://dbpedia.org/resource/Nino_Valdes http://dbpedia.org/resource/Niño_Valdés
+0,33,N. Locche,,http://dbpedia.org/resource/Nicolino_Locche http://dbpedia.org/resource/Locche
+0,37,N. Valdés,http://dbpedia.org/resource/Víctor_Valdés,http://dbpedia.org/resource/Nino_Valdez http://dbpedia.org/resource/Nino_Valdes http://dbpedia.org/resource/Niño_Valdés
+0,42,N. Turpin,http://dbpedia.org/resource/Randolph_Turpin,http://dbpedia.org/resource/Najai_Turpin
+0,54,M. Marković,http://dbpedia.org/resource/Marina_Marković,http://dbpedia.org/resource/Mille_Markovic http://dbpedia.org/resource/Death_of_Mille_Markovic http://dbpedia.org/resource/Mille_Marković http://dbpedia.org/resource/Milentije_Markovic
+0,61,M. Hunter,http://dbpedia.org/resource/Michael_Hunter_(American_boxer),http://dbpedia.org/resource/Mike_Hunter_(boxer) http://dbpedia.org/resource/Mike_(The_Bounty)_Hunter http://dbpedia.org/resource/Mike_'The_Bounty'_Hunter
+0,66,M. Cleary,http://dbpedia.org/resource/Michael_Cleary_(rugby),http://dbpedia.org/resource/Mike_Cleary
+0,68,"M. "". Sullivan",http://dbpedia.org/resource/Mike_Sullivan_(outfielder),"http://dbpedia.org/resource/Mike_""Twin""_Sullivan"
+0,69,M. Á. Cuello,http://de.dbpedia.org/resource/Erwin_M._Ruprechtsberger,http://dbpedia.org/resource/Miguel_Angel_Cuello http://dbpedia.org/resource/Miguel_Ángel_Cuello
+0,70,M. Wolgast,http://dbpedia.org/resource/Ad_Wolgast,http://dbpedia.org/resource/Joseph_Loscalzo http://dbpedia.org/resource/Midget_Wolgast
+0,71,M. Walker,http://it.dbpedia.org/resource/Marcedes_Walker,http://dbpedia.org/resource/Mickey_Walker_(boxer)
+0,72,M. Hennessy,http://dbpedia.org/resource/Brendan_Hennessy,http://dbpedia.org/resource/Mickey_Hennessy
+0,73,M. Duff,http://dbpedia.org/resource/Michael_Duff_(footballer),http://dbpedia.org/resource/Mickey_Duff http://dbpedia.org/resource/Monek_Prager
+0,78,M. Bennett,http://dbpedia.org/resource/Michael_Bennett_(boxer),http://dbpedia.org/resource/Mervyn_Bennett
+0,81,M. Coogan,http://dbpedia.org/resource/Martin_Coogan_(hurler),http://dbpedia.org/resource/Mel_Coogan
+0,88,M. Baldwin,http://dbpedia.org/resource/Mark_Baldwin_(baseball),http://dbpedia.org/resource/Matty_Baldwin
+0,94,M. Sánchez,http://dbpedia.org/resource/Maria_Sánchez_(footballer),http://dbpedia.org/resource/Martín_Sánchez http://dbpedia.org/resource/Martin_Sanchez
+0,96,M. Sánchez,http://dbpedia.org/resource/Maria_Sánchez_(footballer),http://dbpedia.org/resource/Martín_Sánchez http://dbpedia.org/resource/Martin_Sanchez
+0,103,M. Ramos,http://dbpedia.org/resource/Marco_Ramos_(basketball),"http://dbpedia.org/resource/Manuel_""Pulgarcito""_Ramos http://dbpedia.org/resource/Manuel_Ramos_(boxer)"
+0,106,M. Ramos,http://dbpedia.org/resource/Marco_Ramos_(basketball),http://dbpedia.org/resource/Armando_Ramos http://dbpedia.org/resource/Mando_Ramos
+0,113,L. Á. Firpo,http://dbpedia.org/resource/C.D._Luis_Ángel_Firpo,http://dbpedia.org/resource/Luis_Angel_Firpo http://dbpedia.org/resource/Luís_Ángel_Firpo http://dbpedia.org/resource/Louis_Firpo http://dbpedia.org/resource/Luis_Firpo http://dbpedia.org/resource/Luis_Ángel_Firpo
+0,116,L. Á. Firpo,http://dbpedia.org/resource/C.D._Luis_Ángel_Firpo,http://dbpedia.org/resource/Luis_Angel_Firpo http://dbpedia.org/resource/Luís_Ángel_Firpo http://dbpedia.org/resource/Louis_Firpo http://dbpedia.org/resource/Luis_Firpo http://dbpedia.org/resource/Luis_Ángel_Firpo
+0,126,L. Edwards,http://dbpedia.org/resource/Leroy_Edwards,http://dbpedia.org/resource/Llew_Edwards
+0,134,L. Mukhin,"http://ru.dbpedia.org/resource/Мухин,_Валерий_Васильевич",http://dbpedia.org/resource/Lev_Mukhin
+0,138,L. Martin,http://dbpedia.org/resource/Louis_Martin_(weightlifter),http://dbpedia.org/resource/Leotis_Martin
+0,145,L. Johnson,"http://dbpedia.org/resource/Larry_Johnson_(basketball,_born_1969)",http://dbpedia.org/resource/Len_Johnson_(boxer)
+0,146,L. Harvey,http://dbpedia.org/resource/Lawrence_Harvey_(footballer),http://dbpedia.org/resource/Len_Harvey
+0,153,L. Johnson,"http://dbpedia.org/resource/Larry_Johnson_(basketball,_born_1969)",http://dbpedia.org/resource/Leavander_Johnson
+0,155,L. Roach,http://dbpedia.org/resource/Freddie_Roach_(boxing),http://dbpedia.org/resource/Lavern_Roach http://dbpedia.org/resource/Lavern_roach
+0,162,K. Janssens,http://dbpedia.org/resource/Eva_Janssens,http://dbpedia.org/resource/Ko_Janssens
+0,169,K. Duk-koo,http://dbpedia.org/resource/Wellington_Koo,http://dbpedia.org/resource/Gim_Deuk-gu http://dbpedia.org/resource/Kim_Duk_Koo http://dbpedia.org/resource/Duk_Koo_Kim http://dbpedia.org/resource/Kim_Deuk-Gu http://dbpedia.org/resource/Deuk-Gu_Kim http://dbpedia.org/resource/Kim_Tŭk-ku http://dbpedia.org/resource/Kim_Deuk-gu http://dbpedia.org/resource/Kim_Duk-koo http://dbpedia.org/resource/Kim_Tuk-ku http://dbpedia.org/resource/Deuk_Koo_Kim http://dbpedia.org/resource/Duk_Kim http://dbpedia.org/resource/Deuk-Koo_Kim http://dbpedia.org/resource/Kim_Deuk_Gu http://dbpedia.org/resource/Deuk_Gu_Kim
+0,170,K. Williams,http://dbpedia.org/resource/Kyle_Williams_(defensive_tackle),http://dbpedia.org/resource/John_Gutenko http://dbpedia.org/resource/Kid_Williams

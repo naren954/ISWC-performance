@@ -1,0 +1,4 @@
+F1: 0.50000,Precision: 0.50000,Recall: 0.50000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,Rude,http://dbpedia.org/resource/Rude_(song),http://dbpedia.org/resource/Rude_(film)
+0,4,Soul Survivor,http://dbpedia.org/resource/Soul_Survivors,http://dbpedia.org/resource/Soul_Survivor_(film)

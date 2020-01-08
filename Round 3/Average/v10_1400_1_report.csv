@@ -1,0 +1,9 @@
+F1: 0.58824,Precision: 0.58824,Recall: 0.58824,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,3,Koiranen GP,http://dbpedia.org/resource/Brawn_GP,http://dbpedia.org/resource/Koiranen_GP http://dbpedia.org/resource/Koiranen_Motorsport http://dbpedia.org/resource/Koiranen_Bros._Motorsport
+1,5,Clyde Valley Racing,http://dbpedia.org/resource/Clyde_Valley_Blackhawks,http://dbpedia.org/resource/Clyde_Valley_Racing
+1,8,Tony Gilham Racing,http://dbpedia.org/resource/Tony_Stewart,http://dbpedia.org/resource/Team_HARD. http://dbpedia.org/resource/Tony_Gilham_Racing http://dbpedia.org/resource/Team_HARD
+1,11,Koiranen GP,http://dbpedia.org/resource/Brawn_GP,http://dbpedia.org/resource/Koiranen_GP http://dbpedia.org/resource/Koiranen_Motorsport http://dbpedia.org/resource/Koiranen_Bros._Motorsport
+1,13,Jenzer Motorsport,http://dbpedia.org/resource/Konrad_Motorsport,http://dbpedia.org/resource/Jenzer_Motorsport
+1,15,Team BKR,http://dbpedia.org/resource/Team_SCA,http://dbpedia.org/resource/Team_BKR
+1,17,Campos Racing,http://dbpedia.org/resource/HRT_Formula_1_Team,http://dbpedia.org/resource/Campos_Motorsport http://dbpedia.org/resource/Campos_Grand_Prix http://dbpedia.org/resource/Campos_Racing

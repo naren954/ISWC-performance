@@ -1,0 +1,4 @@
+"F1: 0.60000","Precision: 0.60000","Recall: 0.60000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","5","Just Before Dawn","http://dbpedia.org/resource/Just_Before_Dawn_(1946_film)","http://dbpedia.org/resource/Just_Before_Dawn_(1981_film)"
+"1","6","Remote Control","http://dbpedia.org/resource/Remote_Control_(game_show)","http://dbpedia.org/resource/Remote_Control_(1988_film)"

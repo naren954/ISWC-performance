@@ -1,0 +1,4 @@
+F1: 0.95349,Precision: 0.95349,Recall: 0.95349,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,20,Miss Tahiti,http://pt.dbpedia.org/resource/Acalypha_wilkesiana_'Tahiti',http://dbpedia.org/resource/Miss_Tahiti
+2,41,Eva Luna,http://dbpedia.org/resource/Eva_Luna_(horse),http://dbpedia.org/resource/Eva_Luna

@@ -1,0 +1,5 @@
+F1: 0.57143,Precision: 0.57143,Recall: 0.57143,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,4,Arizona Coyotes,http://dbpedia.org/resource/Coyote_Ugly_(film),http://dbpedia.org/resource/Phoenix_Coyotes http://dbpedia.org/resource/Phoenix_coyotes http://dbpedia.org/resource/List_of_Phoenix_Coyotes_captains http://dbpedia.org/resource/Pheonix_coyotes http://dbpedia.org/resource/Arizona_Cyotes http://dbpedia.org/resource/Arizona_Coyotes http://dbpedia.org/resource/The_Phoenix_Coyotes http://dbpedia.org/resource/Coyotes_Third_Jersey http://dbpedia.org/resource/Phoenix_Cyotes
+0,5,Arizona Rattlers,http://dbpedia.org/resource/Simon_Rattle,http://dbpedia.org/resource/Arizona_Rattlers http://dbpedia.org/resource/Arizona_rattlers
+0,6,Arizona United SC,http://dbpedia.org/resource/Arizona,http://dbpedia.org/resource/Phoenix_City_FC http://dbpedia.org/resource/Arizona_United http://dbpedia.org/resource/Arizona_United_SC

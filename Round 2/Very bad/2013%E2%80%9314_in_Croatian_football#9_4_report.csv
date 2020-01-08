@@ -1,0 +1,9 @@
+F1: 0.12500,Precision: 0.12500,Recall: 0.12500,,
+Col,Row,Value,Submitted URI,Correct URI's
+4,2,"Benko (3), JugoviÄ\u0087, ZlomisliÄ\u0087",http://dbpedia.org/resource/Pal_Benko,http://dbpedia.org/resource/Leon_Benko
+4,3,"MoÄ\u008DiniÄ\u0087, Boras, MujanoviÄ\u0087",http://dbpedia.org/resource/Bahá'í_Faith,http://dbpedia.org/resource/Ivan_Močinić
+4,5,"Sharbini, KvrÅ¾iÄ\u0087",,http://dbpedia.org/resource/Anas_Sharbini
+4,6,PokrivaÄ\u008D,http://dbpedia.org/resource/Tyrrell_008,http://dbpedia.org/resource/Nikola_Pokrivač
+4,8,"Benko, KvrÅ¾iÄ\u0087",http://dbpedia.org/resource/Pal_Benko,http://dbpedia.org/resource/Leon_Benko
+4,9,"Benko, MujanoviÄ\u0087",,http://dbpedia.org/resource/Leon_Benko
+4,14,Andrej KramariÄ\u0087,,http://dbpedia.org/resource/Andrej_Kramarić

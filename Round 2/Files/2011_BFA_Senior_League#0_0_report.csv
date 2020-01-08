@@ -1,0 +1,4 @@
+"F1: 0.50000","Precision: 0.50000","Recall: 0.50000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","3","COB","http://dbpedia.org/resource/Cobresol","http://dbpedia.org/resource/College_of_the_Bahamas http://dbpedia.org/resource/College_of_the_Bahamas_FC http://dbpedia.org/resource/College_of_the_bahamas http://dbpedia.org/resource/College_of_The_Bahamas http://dbpedia.org/resource/The_College_of_The_Bahamas"
+"0","6","Lyford Cay Dragons","http://dbpedia.org/resource/Renegades_FC","http://dbpedia.org/resource/Lyford_Cay_FC_Dragons http://dbpedia.org/resource/Lyford_Cay_Dragons http://dbpedia.org/resource/Lyford_Cay_Dragons_FC http://dbpedia.org/resource/Lyford_Cay_FC_(Dragons) http://dbpedia.org/resource/Lyford_Cay_Football_Club http://dbpedia.org/resource/Lyford_Cay_FC"

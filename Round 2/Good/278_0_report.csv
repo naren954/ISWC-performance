@@ -1,0 +1,4 @@
+F1: 0.91667,Precision: 0.91667,Recall: 0.91667,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,13,K. Rosberg,http://dbpedia.org/resource/Nico_Rosberg,http://dbpedia.org/resource/Keke_Erik_Rosberg http://dbpedia.org/resource/Keijo_Erik_Rosberg http://dbpedia.org/resource/Keke_Rosberg http://dbpedia.org/resource/Keijo_Rosberg
+0,18,J. Watson,http://dbpedia.org/resource/Thomas_J._Watson,http://dbpedia.org/resource/John_Watson_(racing_driver) http://dbpedia.org/resource/John_Watson_(auto_racing) http://dbpedia.org/resource/John_Marshall_Watson http://dbpedia.org/resource/John_Watson_(driver)

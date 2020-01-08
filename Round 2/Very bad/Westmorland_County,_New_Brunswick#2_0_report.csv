@@ -1,0 +1,9 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Moncton,http://dbpedia.org/resource/Moncton,"http://dbpedia.org/resource/Moncton,_New_Brunswick_(parish) http://dbpedia.org/resource/Moncton_Parish,_New_Brunswick"
+0,2,Shediac,http://dbpedia.org/resource/Shediac,"http://dbpedia.org/resource/Shediac_Parish http://dbpedia.org/resource/Shediac_Parish,_New_Brunswick"
+0,3,Salisbury,"http://dbpedia.org/resource/Robert_Gascoyne-Cecil,_3rd_Marquess_of_Salisbury","http://dbpedia.org/resource/Salisbury_Parish,_New_Brunswick"
+0,4,Sackville,http://dbpedia.org/resource/Vita_Sackville-West,"http://dbpedia.org/resource/Sackville,_New_Brunswick_(parish) http://dbpedia.org/resource/Sackville_Parish,_New_Brunswick"
+0,5,Botsford,http://dbpedia.org/resource/Beth_Botsford,"http://dbpedia.org/resource/Botsford_Parish,_New_Brunswick"
+0,6,Westmorland,"http://dbpedia.org/resource/John_Fane,_11th_Earl_of_Westmorland","http://dbpedia.org/resource/Westmorland_Parish,_New_Brunswick"
+0,7,Dorchester,"http://dbpedia.org/resource/Guy_Carleton,_1st_Baron_Dorchester","http://dbpedia.org/resource/Dorchester_Parish,_New_Brunswick"

@@ -1,0 +1,6 @@
+F1: 0.97468,Precision: 0.97468,Recall: 0.97468,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,23,Roman Catholic Diocese of Kiayi,http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Chiayi,http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Kiayi
+0,35,Roman Catholic Diocese of Karaganda,http://dbpedia.org/resource/Catholic_Diocese_of_Karaganda,"http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Karaganda http://dbpedia.org/resource/Apostolic_Administration_of_Kazakhstan http://dbpedia.org/resource/Diocese_of_Karaganda,_Kazakhstan"
+0,67,Roman Catholic Diocese of Ji’an,http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Ji-Paraná,http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Ji'an http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Ji’an http://dbpedia.org/resource/Apostolic_Vicariate_of_Southern_Kiangsi
+0,76,Roman Catholic Diocese of Ji’an,http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Ji-Paraná,http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Ji'an http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Ji’an http://dbpedia.org/resource/Apostolic_Vicariate_of_Southern_Kiangsi

@@ -1,0 +1,11 @@
+F1: 0.86567,Precision: 0.86567,Recall: 0.86567,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,4,W. Huston,http://dbpedia.org/resource/John_Huston,http://dbpedia.org/resource/Walter_Thomas_Houghston http://dbpedia.org/resource/Walter_Thomas_Huston http://dbpedia.org/resource/Walter_Houghston http://dbpedia.org/resource/Walter_Huston
+0,10,R. Dandridge,http://dbpedia.org/resource/Dorothy_Dandridge,http://dbpedia.org/resource/Ruby_Dandridge
+0,14,R. Taylor,http://dbpedia.org/resource/Elizabeth_Taylor,http://dbpedia.org/resource/Rod_Taylor http://dbpedia.org/resource/Rod_Taylor_(actor) http://dbpedia.org/resource/Rodney_Sturt_Taylor
+0,30,M. Martin,http://dbpedia.org/resource/Martin_Luther,http://dbpedia.org/resource/Mary_Virginia_Martin http://dbpedia.org/resource/Ben_Washer http://dbpedia.org/resource/Mary_Martin
+0,41,J. Baker,http://dbpedia.org/resource/B._J._Baker,http://dbpedia.org/resource/Josephine_Baker http://dbpedia.org/resource/Josephine_Baker_Day http://dbpedia.org/resource/Joséphine_Baker http://dbpedia.org/resource/Freda_Josephine_McDonald http://dbpedia.org/resource/Danse_banane http://dbpedia.org/resource/Danse_sauvage http://dbpedia.org/resource/Josephene_Baker
+0,45,J. Moore,http://dbpedia.org/resource/Joe_Moore_(actor),http://dbpedia.org/resource/Joanna_Moore http://dbpedia.org/resource/Joanna_Cook_Moore http://dbpedia.org/resource/Joanna_moore
+0,46,J. Davis,http://dbpedia.org/resource/Jackie_Davis,http://dbpedia.org/resource/Joan_Davis
+0,58,H. Hopper,http://dbpedia.org/resource/Dennis_Hopper,"http://dbpedia.org/resource/Hopper,_Hedda http://dbpedia.org/resource/Elda_Furry http://dbpedia.org/resource/Hedda_Hopper"
+0,59,H. Nelson,"http://dbpedia.org/resource/Horatio_Nelson,_1st_Viscount_Nelson",http://dbpedia.org/resource/Harriet_Nelson http://dbpedia.org/resource/Harriet_Hilliard http://dbpedia.org/resource/Peggy_Lou_Snyder http://dbpedia.org/resource/Harriet_Hilliard_Nelson

@@ -1,0 +1,4 @@
+F1: 0.60000,Precision: 0.60000,Recall: 0.60000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,Paulo SÃ©rgio,"http://dbpedia.org/resource/Paulo_Sérgio_(footballer,_born_1969)",http://dbpedia.org/resource/Paulo_Sérgio_Silvestre_do_Nascimento
+1,2,Giovane Ã\u0089lber,http://dbpedia.org/resource/A_Portrait_of_the_Artist_as_a_Young_Man,http://dbpedia.org/resource/Giovane_Élber

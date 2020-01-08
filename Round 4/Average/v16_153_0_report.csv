@@ -1,0 +1,39 @@
+F1: 0.72794,Precision: 0.72794,Recall: 0.72794,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,D. Quintana,http://dbpedia.org/resource/Nairo_Quintana,http://dbpedia.org/resource/Dayer_Quintana
+0,5,D. McCann,http://dbpedia.org/resource/Dee_McCann,http://dbpedia.org/resource/David_McCann http://dbpedia.org/resource/David_Mccann http://dbpedia.org/resource/David_mccann
+0,8,D. Low,http://dbpedia.org/resource/Derrick_Low,http://dbpedia.org/resource/Darren_Low
+0,12,D. Whitehouse,http://dbpedia.org/resource/Dane_Whitehouse,http://dbpedia.org/resource/Daniel_Whitehouse
+0,17,D. E. Silva,http://dbpedia.org/resource/Diego_Emilio_Silva,http://dbpedia.org/resource/Daniel_Silva_(cyclist) http://dbpedia.org/resource/Daniel_Eduardo_Silva
+0,20,C. White,http://dbpedia.org/resource/Corey_White,http://dbpedia.org/resource/Curtis_White_(cyclist)
+0,21,C. Rodríguez,http://dbpedia.org/resource/Clemente_Rodríguez,http://dbpedia.org/resource/Cristián_Rodríguez_(cyclist) http://dbpedia.org/resource/Cristian_Rodríguez_(cyclist) http://dbpedia.org/resource/Cristian_Rodriguez_(cyclist)
+0,22,C. Lowe,http://dbpedia.org/resource/Cyril_Lowe,http://dbpedia.org/resource/Courteney_Lowe http://dbpedia.org/resource/Courtney_Lowe
+0,23,C. Rivera,http://dbpedia.org/resource/Carlos_Rivera_(basketball),http://dbpedia.org/resource/Coryn_Rivera
+0,27,C. Venturini,http://dbpedia.org/resource/Bruno_Venturini,http://dbpedia.org/resource/Clement_Venturini http://dbpedia.org/resource/Clément_Venturini
+0,32,C. Venturini,http://dbpedia.org/resource/Bruno_Venturini,http://dbpedia.org/resource/Clement_Venturini http://dbpedia.org/resource/Clément_Venturini
+0,36,C. Horne,http://dbpedia.org/resource/Phil_Horne,http://dbpedia.org/resource/Ciara_Horne
+0,37,C. Williams,http://dbpedia.org/resource/Cary_Williams,http://dbpedia.org/resource/Christopher_Williams_(cyclist)
+0,39,C. Jones,http://dbpedia.org/resource/Caldwell_Jones,http://dbpedia.org/resource/Christopher_Jones_(cyclist)
+0,41,C. Springer,http://dbpedia.org/resource/Christian_Springer,http://dbpedia.org/resource/Christoph_Springer
+0,44,C. Mager,http://dbpedia.org/resource/Craig_Mager,http://dbpedia.org/resource/Christian_Mager
+0,47,C. Butler,http://dbpedia.org/resource/Caron_Butler,http://dbpedia.org/resource/Chris_Butler_(cyclist)
+0,50,C. Fraser,http://dbpedia.org/resource/Colin_Fraser_(ice_hockey),http://dbpedia.org/resource/Chloe_Fraser_(cyclist) http://dbpedia.org/resource/Chloe_Fraser
+0,57,C. Urán,http://dbpedia.org/resource/Rigoberto_Urán,http://dbpedia.org/resource/Carlos_Urán http://dbpedia.org/resource/Carlos_Uran
+0,61,C. Ryan,http://dbpedia.org/resource/Connie_Ryan,http://dbpedia.org/resource/Carla_Ryan
+0,62,C. Higgins,http://dbpedia.org/resource/Chris_Higgins_(ice_hockey),http://dbpedia.org/resource/Cari_Higgins
+0,68,B. Sanchez,http://dbpedia.org/resource/Julián_Sánchez_(diver),http://dbpedia.org/resource/Brayan_Sanchez
+0,71,B. White,http://dbpedia.org/resource/Byron_White,http://dbpedia.org/resource/Bradley_White
+0,82,B. Perry,http://dbpedia.org/resource/Bruce_Perry,http://dbpedia.org/resource/Ben_Perry http://dbpedia.org/resource/Benjamin_Perry_(cyclist)
+0,84,B. Dilley,http://dbpedia.org/resource/Gary_Dilley,http://dbpedia.org/resource/Ben_Dilley http://dbpedia.org/resource/Benjamin_Dilley
+0,85,B. Khosroshahi,,http://dbpedia.org/resource/Behnam_Khosroshahi http://dbpedia.org/resource/Behnam_Khalilikhosroshani http://dbpedia.org/resource/Behnam_Khalili http://dbpedia.org/resource/Behnam_Khalilikhosroshahi
+0,89,B. Wellens,http://dbpedia.org/resource/Tim_Wellens,http://dbpedia.org/resource/Bart_Wellens
+0,94,A. Zakarin,http://dbpedia.org/resource/Ilnur_Zakarin,http://dbpedia.org/resource/Aydar_Zakarin
+0,95,A. Jensen,http://dbpedia.org/resource/Angelina_Jensen,http://dbpedia.org/resource/August_Jensen
+0,103,A. Boúglas,http://dbpedia.org/resource/Georgios_Bouglas,http://dbpedia.org/resource/Apostolos_Bouglas http://dbpedia.org/resource/Apostolos_Boúglas
+0,104,A. Carvalho,http://dbpedia.org/resource/Alan_Carvalho,http://dbpedia.org/resource/António_Carvalho_(cyclist) http://dbpedia.org/resource/Antonio_Carvalho_(cyclist)
+0,105,A. Viola,http://dbpedia.org/resource/Alessio_Viola,http://dbpedia.org/resource/Antonio_Viola
+0,109,A. Perez,http://dbpedia.org/resource/Amanda_Perez_(footballer),http://dbpedia.org/resource/Anthony_Perez_(cyclist)
+0,111,A. Carvalho,http://dbpedia.org/resource/Alan_Carvalho,http://dbpedia.org/resource/António_Carvalho_(cyclist) http://dbpedia.org/resource/Antonio_Carvalho_(cyclist)
+0,112,A. Morton,http://dbpedia.org/resource/Alan_Morton,http://dbpedia.org/resource/Angus_Morton
+0,127,A. Manfredi,http://dbpedia.org/resource/Néstor_Manfredi,http://dbpedia.org/resource/Andrea_Manfredi
+0,132,A. Voynova,http://dbpedia.org/resource/Vanya_Voynova,http://dbpedia.org/resource/Anastasiya_Voynova http://dbpedia.org/resource/Anastasia_Voinova http://dbpedia.org/resource/Anastasya_Voynova http://dbpedia.org/resource/Anastasia_Voynova http://dbpedia.org/resource/Anastasiia_Voinova http://dbpedia.org/resource/Anastasiia_Voynova

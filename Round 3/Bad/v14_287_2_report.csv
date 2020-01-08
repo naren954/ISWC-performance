@@ -1,0 +1,106 @@
+F1: 0.33758,Precision: 0.33758,Recall: 0.33758,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,1,J. Johnson,http://dbpedia.org/resource/Lyndon_B._Johnson,"http://dbpedia.org/resource/James_Louis_Johnson http://dbpedia.org/resource/J._J._Johnson http://dbpedia.org/resource/J.J._Johnson http://dbpedia.org/resource/JJ_Johnson http://dbpedia.org/resource/Johnson,_J._J. http://dbpedia.org/resource/J_J_Johnson http://dbpedia.org/resource/Jay_Jay_Johnson http://dbpedia.org/resource/J.J_Johnson"
+2,2,J. Johnson,http://dbpedia.org/resource/Lyndon_B._Johnson,"http://dbpedia.org/resource/James_Louis_Johnson http://dbpedia.org/resource/J._J._Johnson http://dbpedia.org/resource/J.J._Johnson http://dbpedia.org/resource/JJ_Johnson http://dbpedia.org/resource/Johnson,_J._J. http://dbpedia.org/resource/J_J_Johnson http://dbpedia.org/resource/Jay_Jay_Johnson http://dbpedia.org/resource/J.J_Johnson"
+2,6,K. Olin,http://dbpedia.org/resource/Lena_Olin,http://dbpedia.org/resource/Ken_Olin
+2,7,M. Losey,http://dbpedia.org/resource/Joseph_Losey,http://dbpedia.org/resource/Marek_Losey
+2,8,S. Chatterjee,http://dbpedia.org/resource/Somnath_Chatterjee,http://dbpedia.org/resource/Soumik_Chatterjee
+2,10,J. Sandrich,http://dbpedia.org/resource/Mark_Sandrich,http://dbpedia.org/resource/Jay_Sandrich http://dbpedia.org/resource/Jay_Henry_Sandrich
+2,11,E. Bye,http://dbpedia.org/resource/Erik_Bye,http://dbpedia.org/resource/Ed_Bye
+2,12,J. F. Smith,http://dbpedia.org/resource/Joseph_F._Smith,http://dbpedia.org/resource/Jim_Field_Smith
+2,13,B. Wheatley,http://dbpedia.org/resource/Dennis_Wheatley,http://dbpedia.org/resource/Ben_Wheatley
+2,14,K. Kyu-tae,http://dbpedia.org/resource/Kim_Kyung-tae,http://dbpedia.org/resource/Kim_Kyu-tae
+2,16,R. Patterson,http://dbpedia.org/resource/Russell_Patterson,http://dbpedia.org/resource/Ray_Patterson_(animator)
+2,17,D. Deitch,http://dbpedia.org/resource/Gene_Deitch,http://dbpedia.org/resource/Donna_Deitch
+2,18,I. Wood,http://dbpedia.org/resource/Peggy_Wood,http://dbpedia.org/resource/Ivor_Wood http://dbpedia.org/resource/Woodland_Animations
+2,20,D. Curtis,http://dbpedia.org/resource/Dick_Curtis,http://dbpedia.org/resource/Dan_Curtis
+2,21,M. Hall,http://dbpedia.org/resource/Monty_Hall,http://dbpedia.org/resource/Cosgrove-Hall http://dbpedia.org/resource/Cosgove_Hall http://dbpedia.org/resource/Stop_Frame_Productions http://dbpedia.org/resource/Mark_Hall_(animator) http://dbpedia.org/resource/Cosgrove_Hall_Films http://dbpedia.org/resource/Cosgrove-Hall_Films
+2,22,J. Cooper,http://dbpedia.org/resource/Jeanne_Cooper,http://dbpedia.org/resource/Jackie_Cooper
+2,23,C. Teague,http://dbpedia.org/resource/Baden_Teague,http://dbpedia.org/resource/Colin_Teague
+2,26,S. Ives,http://dbpedia.org/resource/David_Ives,http://dbpedia.org/resource/Stephen_Ives http://dbpedia.org/resource/Stephen_Ives_(filmmaker)
+2,27,D. Yates,http://dbpedia.org/resource/Peter_Yates,"http://dbpedia.org/resource/Your_Voice_In_My_Head_(film) http://dbpedia.org/resource/Yates,_David http://dbpedia.org/resource/David_Yates http://dbpedia.org/resource/St._Nazaire_(film) http://dbpedia.org/resource/David_Yates_filmography"
+2,28,K. Kerslake,http://dbpedia.org/resource/Lee_Kerslake,http://dbpedia.org/resource/Kevin_Kerslake
+2,29,A. Biberman,http://dbpedia.org/resource/Leonid_Biberman,http://dbpedia.org/resource/Abner_Biberman
+2,30,G. MacKinnon,http://dbpedia.org/resource/Catharine_MacKinnon,http://dbpedia.org/resource/Gillies_Mackinnon http://dbpedia.org/resource/Gillies_MacKinnon
+2,31,J. Sandrich,http://dbpedia.org/resource/Mark_Sandrich,http://dbpedia.org/resource/Jay_Sandrich http://dbpedia.org/resource/Jay_Henry_Sandrich
+2,32,B. Kopp,http://de.dbpedia.org/resource/Robert_Kopp,http://dbpedia.org/resource/Bill_Kopp
+2,34,C. Barry,http://dbpedia.org/resource/Charles_Barry,http://dbpedia.org/resource/Christopher_Barry
+2,35,A. Curtis,http://dbpedia.org/resource/Alan_Curtis_(harpsichordist),http://dbpedia.org/resource/Adam_Curtis http://dbpedia.org/resource/Adam_Curtis_(filmmaker) http://dbpedia.org/resource/Kevin_Adam_Curtis
+2,38,J. Birkin,http://dbpedia.org/resource/Jane_Birkin,http://dbpedia.org/resource/Thomas_Birkin http://dbpedia.org/resource/Birkin_Baronets http://dbpedia.org/resource/Birkin_baronets http://dbpedia.org/resource/John_Birkin
+2,43,R. Patterson,http://dbpedia.org/resource/Russell_Patterson,http://dbpedia.org/resource/Ray_Patterson_(animator)
+2,45,D. J. Caruso,http://dbpedia.org/resource/Enrico_Caruso,http://dbpedia.org/resource/Spy's_Kid_(2015_film) http://dbpedia.org/resource/Spy's_Kid_(film) http://dbpedia.org/resource/D._J._Caruso http://dbpedia.org/resource/DJ_Caruso http://dbpedia.org/resource/D_J_Caruso http://dbpedia.org/resource/D.J._Caruso http://dbpedia.org/resource/Spy's_Kid
+2,46,D. Blair,http://dbpedia.org/resource/Preston_Blair,http://dbpedia.org/resource/David_Blair_(director)
+2,47,R. Ward,http://dbpedia.org/resource/James_Ward_(artist),http://dbpedia.org/resource/Rachel_Ward
+2,49,M. Piedmont,http://de.dbpedia.org/resource/Max_Günther_Piedmont,http://dbpedia.org/resource/Matt_Piedmont http://dbpedia.org/resource/Matt_piedmont
+2,50,M. Piedmont,http://de.dbpedia.org/resource/Max_Günther_Piedmont,http://dbpedia.org/resource/Matt_Piedmont http://dbpedia.org/resource/Matt_piedmont
+2,51,K. Altieri,http://dbpedia.org/resource/Elena_Altieri,http://dbpedia.org/resource/Kevin_Altieri
+2,52,S. Johnson,http://dbpedia.org/resource/Lyndon_B._Johnson,http://dbpedia.org/resource/Sandy_Johnson_(director)
+2,55,M. Barker,http://dbpedia.org/resource/Michael_Barker_(British_Army_officer),http://dbpedia.org/resource/Mike_Barker_(film_director)
+2,56,Y. Sung-sik,http://dbpedia.org/resource/Kim_Il-sung,http://dbpedia.org/resource/Yoon_Sung-sik
+2,57,R. Connolly,http://dbpedia.org/resource/Cyril_Connolly,http://dbpedia.org/resource/Robert_Connolly
+2,58,U. Janson,http://dbpedia.org/resource/Mette_Janson,http://dbpedia.org/resource/Uwe_Janson
+2,60,J. DeGrandis,http://dbpedia.org/resource/Dino_Grandi,http://dbpedia.org/resource/The_Finster_Finster_Show!:_Store_Wars http://dbpedia.org/resource/Jeff_DeGrandis
+2,61,H. Blick,http://dbpedia.org/resource/Dick_Blick_(swimmer),http://dbpedia.org/resource/Hugo_Blick http://dbpedia.org/resource/Hugo_E._Blick
+2,62,D. Savage,http://dbpedia.org/resource/Dan_Savage,http://dbpedia.org/resource/Dominic_Savage
+2,63,K. Turner,http://dbpedia.org/resource/Kathleen_Turner,http://dbpedia.org/resource/Ken_Turner_(director)
+2,64,D. Reid,"http://dbpedia.org/resource/Dave_Reid_(ice_hockey,_born_1964)",http://dbpedia.org/resource/Daina_Reid
+2,65,J. Priestley,http://dbpedia.org/resource/Joseph_Priestley,http://dbpedia.org/resource/Jason_Priestly http://dbpedia.org/resource/Jason_Priestley
+2,66,D. Brooking,http://dbpedia.org/resource/Donald_Brooks,http://dbpedia.org/resource/Dorothea_Brooking
+2,67,M. Diamond,http://dbpedia.org/resource/Queen_Victoria,http://dbpedia.org/resource/Matthew_Diamond
+2,69,N. Murphy,http://dbpedia.org/resource/Noel_Murphy_(musician),http://dbpedia.org/resource/Nick_Murphy_(director)
+2,70,J. Erman,http://dbpedia.org/resource/Adolf_Erman,http://dbpedia.org/resource/John_Erman
+2,72,C. Aherne,http://dbpedia.org/resource/Brian_Aherne,http://dbpedia.org/resource/Caroline_Ahern http://dbpedia.org/resource/Caroline_Mary_Aherne http://dbpedia.org/resource/Caroline_Hook http://dbpedia.org/resource/Caroline_Aherne http://dbpedia.org/resource/Mrs._Murton http://dbpedia.org/resource/Mrs_Murton
+2,73,J. Shea,http://dbpedia.org/resource/John_Shea,http://dbpedia.org/resource/Jack_Shea_(director)
+2,76,P. Stanley,http://dbpedia.org/resource/Paul_Stanley,http://dbpedia.org/resource/Paul_Stanley_(director)
+2,77,S. Belbin,http://dbpedia.org/resource/David_Belbin,http://dbpedia.org/resource/Susan_Belbin
+2,78,R. Patterson,http://dbpedia.org/resource/Russell_Patterson,http://dbpedia.org/resource/Ray_Patterson_(animator)
+2,81,A. J. McDowall,http://dbpedia.org/resource/Roddy_McDowall,http://dbpedia.org/resource/Adrian_J._McDowall
+2,82,F. McDonald,http://dbpedia.org/resource/Francis_McDonald,http://dbpedia.org/resource/Frank_McDonald_(director)
+2,83,R. Holcomb,http://dbpedia.org/resource/Steven_Holcomb,http://dbpedia.org/resource/Rod_Holcomb
+2,85,P. Kosminsky,http://fr.dbpedia.org/resource/Evgueni_Kosminski,http://dbpedia.org/resource/Peter_Kosminsky http://dbpedia.org/resource/Peter_kosminksy
+2,86,A. Curtis,http://dbpedia.org/resource/Alan_Curtis_(harpsichordist),http://dbpedia.org/resource/Adam_Curtis http://dbpedia.org/resource/Adam_Curtis_(filmmaker) http://dbpedia.org/resource/Kevin_Adam_Curtis
+2,87,S. C. Jones,http://dbpedia.org/resource/David_C._Jones,http://dbpedia.org/resource/Simon_Cellan-Jones http://dbpedia.org/resource/Simon_Cellan_Jones
+2,89,N. Wood,http://dbpedia.org/resource/Natalie_Wood,http://dbpedia.org/resource/Nick_Wood
+2,92,S. Prager,http://dbpedia.org/resource/William_Prager,http://dbpedia.org/resource/Stanley_Prager
+2,93,M. Offer,http://dbpedia.org/resource/Steve_Offer,http://dbpedia.org/resource/Michael_Offer
+2,94,D. Adams,http://dbpedia.org/resource/Douglas_Adams,"http://dbpedia.org/resource/Missed_it_by_that_much http://dbpedia.org/resource/Don_Adams_(Actor) http://dbpedia.org/resource/Don_Adams http://dbpedia.org/resource/Adams,_Don http://dbpedia.org/resource/Donald_James_Yarmy http://dbpedia.org/resource/Donald_Yarmy"
+2,95,C. Franklin,http://dbpedia.org/resource/Carolyn_Franklin,http://dbpedia.org/resource/Carl_Franklin
+2,96,R. Butler,http://dbpedia.org/resource/Richard_Layton_Butler,http://dbpedia.org/resource/Robert_Butler_(director)
+2,98,J. Sandrich,http://dbpedia.org/resource/Mark_Sandrich,http://dbpedia.org/resource/Jay_Sandrich http://dbpedia.org/resource/Jay_Henry_Sandrich
+2,99,R. Einhorn,http://dbpedia.org/resource/Alfred_Einhorn,http://dbpedia.org/resource/Randall_Einhorn
+2,101,A. Ackerman,http://dbpedia.org/resource/Bruce_Ackerman,"http://dbpedia.org/resource/Andy_Ackerman http://dbpedia.org/resource/Ackerman,_Andy"
+2,102,G. Nelson,http://dbpedia.org/resource/Gaylord_Nelson,http://dbpedia.org/resource/Gary_Nelson_(director)
+2,105,R. Patterson,http://dbpedia.org/resource/Russell_Patterson,http://dbpedia.org/resource/Ray_Patterson_(animator)
+2,107,A. Marks,http://dbpedia.org/resource/Alfred_Marks,http://dbpedia.org/resource/Arthur_Ronald_Marks http://dbpedia.org/resource/Arthur_Marks
+2,108,J. Zwick,http://dbpedia.org/resource/Edward_Zwick,http://dbpedia.org/resource/Joel_Zwick
+2,112,J. Mitchell,http://dbpedia.org/resource/Joni_Mitchell,http://dbpedia.org/resource/Jamie_Mitchell
+2,113,J. Tatoulis,http://dbpedia.org/resource/J._J._Philbin,http://dbpedia.org/resource/John_Tatoulis
+2,114,J. To,http://dbpedia.org/resource/John_Herschel,http://dbpedia.org/resource/Du_Qifeng http://dbpedia.org/resource/Johnnie_To_Kei-Fung http://dbpedia.org/resource/Johnnie_To http://dbpedia.org/resource/Johnny_To
+2,115,L. Rees,http://dbpedia.org/resource/Lionel_Rees,"http://dbpedia.org/resource/Rees,_Laurence http://dbpedia.org/resource/Laurence_Rees"
+2,116,C. Giedroyc,http://dbpedia.org/resource/Jerzy_Giedroyc,http://dbpedia.org/resource/Coky_Giedroyc
+2,117,R. Benson,http://dbpedia.org/resource/Jodi_Benson,http://dbpedia.org/resource/Robby_Benson
+2,118,R. Bierman,http://dbpedia.org/resource/Nick_Bierman,http://dbpedia.org/resource/Robert_Bierman
+2,119,J. Hawes,http://dbpedia.org/resource/Keeley_Hawes,"http://dbpedia.org/resource/James_Hawes http://dbpedia.org/resource/Hawes,_James"
+2,121,A. Curtis,http://dbpedia.org/resource/Alan_Curtis_(harpsichordist),http://dbpedia.org/resource/Adam_Curtis http://dbpedia.org/resource/Adam_Curtis_(filmmaker) http://dbpedia.org/resource/Kevin_Adam_Curtis
+2,122,J. Sandrich,http://dbpedia.org/resource/Mark_Sandrich,http://dbpedia.org/resource/Jay_Sandrich http://dbpedia.org/resource/Jay_Henry_Sandrich
+2,123,M. Anderson,http://dbpedia.org/resource/Marian_Anderson,http://dbpedia.org/resource/Michael_Anderson_(director) http://dbpedia.org/resource/Michael_Anderson_(film_director) http://dbpedia.org/resource/Michael_Joseph_Anderson
+2,128,H. Pratt,http://dbpedia.org/resource/Hugo_Pratt,http://dbpedia.org/resource/Hawley_Pratt
+2,130,A. Biberman,http://dbpedia.org/resource/Leonid_Biberman,http://dbpedia.org/resource/Abner_Biberman
+2,131,A. Troughton,http://dbpedia.org/resource/Patrick_Troughton,http://dbpedia.org/resource/Alice_Troughton
+2,132,M. Fox,http://dbpedia.org/resource/Matthew_Fox,http://dbpedia.org/resource/Marilyn_Fox
+2,134,R. Thomas,http://dbpedia.org/resource/Ralph_Thomas,http://dbpedia.org/resource/Rhys_Thomas_(comedian)
+2,135,F. Kermani,http://dbpedia.org/resource/Navid_Kermani,http://dbpedia.org/resource/Faris_Kermani
+2,137,F. H. Brennan,http://dbpedia.org/resource/James_Herbert_Brennan,http://dbpedia.org/resource/Frederick_Hazlitt_Brennan http://dbpedia.org/resource/Frederick_Brennan
+2,139,J. To,http://dbpedia.org/resource/John_Herschel,http://dbpedia.org/resource/Du_Qifeng http://dbpedia.org/resource/Johnnie_To_Kei-Fung http://dbpedia.org/resource/Johnnie_To http://dbpedia.org/resource/Johnny_To
+2,140,B. Tang,http://dbpedia.org/resource/Benjamin_Tang,http://dbpedia.org/resource/Billy_Tang http://dbpedia.org/resource/Hin_Sing_'Billy'_Tang http://dbpedia.org/resource/Billy_Tang_Hin-Shing
+2,141,R. E. Miller,"http://ru.dbpedia.org/resource/Миллер,_Роджер_Эрвин",http://dbpedia.org/resource/Robert_Ellis_Miller
+2,142,T. Holland,http://dbpedia.org/resource/Tom_Holland_(actor),http://dbpedia.org/resource/Tom_Holland_(director)
+2,143,C. Urbano,http://it.dbpedia.org/resource/Massimo_Urbano,http://dbpedia.org/resource/Carl_Urbano
+2,144,I. Davidson,http://dbpedia.org/resource/Gordon_Davidson_(director),http://dbpedia.org/resource/Iain_Davidson
+2,145,P. Bogart,http://dbpedia.org/resource/Humphrey_Bogart,http://dbpedia.org/resource/Paul_Bogart
+2,146,P. Travis,http://dbpedia.org/resource/Theo_Travis,http://dbpedia.org/resource/Pete_Travis
+2,149,A. Jarecki,http://dbpedia.org/resource/Franciszek_Jarecki,http://dbpedia.org/resource/Andrew_Jarecki
+2,151,K. Arthur,http://dbpedia.org/resource/George_K._Arthur,http://dbpedia.org/resource/Karen_Arthur
+2,154,D. Sehgal,http://dbpedia.org/resource/Baba_Sehgal,http://dbpedia.org/resource/Deep_Sehgal
+2,155,I. Morris,http://dbpedia.org/resource/William_Morris,http://dbpedia.org/resource/Iain_Morris
+2,156,H. Blick,http://dbpedia.org/resource/Dick_Blick_(swimmer),http://dbpedia.org/resource/Hugo_Blick http://dbpedia.org/resource/Hugo_E._Blick

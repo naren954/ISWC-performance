@@ -1,0 +1,7 @@
+"F1: 0.77273","Precision: 0.77273","Recall: 0.77273"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","3","Hotel Métropole Geneva","http://dbpedia.org/resource/Hotel_Metropole,_Brussels","http://dbpedia.org/resource/Hotel_Métropole_Geneva http://dbpedia.org/resource/Swissotel_Metropole_Geneva http://dbpedia.org/resource/Swissôtel_Métropole_Geneva"
+"0","5","Hotel Métropole Geneva","http://dbpedia.org/resource/Hotel_Metropole,_Brussels","http://dbpedia.org/resource/Hotel_Métropole_Geneva http://dbpedia.org/resource/Swissotel_Metropole_Geneva http://dbpedia.org/resource/Swissôtel_Métropole_Geneva"
+"0","13","Fairmont Sonoma Mission Inn & Spa","nan","http://dbpedia.org/resource/Fairmont_Sonoma_Mission_Inn_&_Spa"
+"0","14","Fairmont Olympic Hotel","http://dbpedia.org/resource/The_Empress_(hotel)","http://dbpedia.org/resource/Olympic_Hotel_(Seattle,_Washington) http://dbpedia.org/resource/Fairmont_Olympic_Hotel_(Seattle) http://dbpedia.org/resource/Four_Seasons_Olympic_Hotel http://dbpedia.org/resource/Fairmont_Olympic_Hotel"
+"0","18","Crowne Plaza Abu Dhabi Yas Island","http://dbpedia.org/resource/Yas_Marina_Circuit","http://dbpedia.org/resource/Crowne_Plaza_Abu_Dhabi_Yas_Island"

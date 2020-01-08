@@ -1,0 +1,5 @@
+"F1: 0.25000","Precision: 0.25000","Recall: 0.25000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","10","Cuyo Basin","http://dbpedia.org/resource/Cuyo_(Argentina)","http://dbpedia.org/resource/Cuyo_Basin"
+"0","11","NeuquÃ©n Basin","http://dbpedia.org/resource/Neuquén_Province","http://dbpedia.org/resource/Neuquén_Basin"
+"0","12","Magallanes Basin Austral Basin","http://dbpedia.org/resource/Austral_parakeet","http://dbpedia.org/resource/Magallanes_Basin"

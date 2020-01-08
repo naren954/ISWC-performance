@@ -1,0 +1,19 @@
+F1: 0.50000,Precision: 0.50000,Recall: 0.50000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,9,K. Massey,http://dbpedia.org/resource/Kelly_Massey,http://dbpedia.org/resource/Kent_Massey
+1,13,P. Healy,http://dbpedia.org/resource/Phil_Healy,http://dbpedia.org/resource/Pamela_Healy
+1,14,J. Forbes,http://dbpedia.org/resource/James_Forbes_(basketball),http://dbpedia.org/resource/John_Forbes_(sailor)
+1,15,E. Jespersen,http://dbpedia.org/resource/Chris_Jespersen,http://dbpedia.org/resource/Eric_Jespersen
+1,16,L. Smith,http://dbpedia.org/resource/Larry_Smith_(basketball),http://dbpedia.org/resource/Lawrie_Smith
+1,17,T. Toniste,http://dbpedia.org/resource/T,http://dbpedia.org/resource/Tonu_Toniste http://dbpedia.org/resource/Tõnu_Tõniste
+1,18,C. Monk,http://dbpedia.org/resource/Colin_Monk,http://dbpedia.org/resource/Craig_Monk
+1,19,P. Healy,http://dbpedia.org/resource/Phil_Healy,http://dbpedia.org/resource/Pamela_Healy
+1,20,J. Forbes,http://dbpedia.org/resource/James_Forbes_(basketball),http://dbpedia.org/resource/John_Forbes_(sailor)
+1,21,E. Jespersen,http://dbpedia.org/resource/Chris_Jespersen,http://dbpedia.org/resource/Eric_Jespersen
+1,22,L. Smith,http://dbpedia.org/resource/Larry_Smith_(basketball),http://dbpedia.org/resource/Lawrie_Smith
+1,23,T. Toniste,http://dbpedia.org/resource/T,http://dbpedia.org/resource/Tonu_Toniste http://dbpedia.org/resource/Tõnu_Tõniste
+1,24,C. Monk,http://dbpedia.org/resource/Colin_Monk,http://dbpedia.org/resource/Craig_Monk
+1,25,L. Moskalenko,http://dbpedia.org/resource/Alexander_Moskalenko,http://dbpedia.org/resource/Larisa_Moskalenko http://dbpedia.org/resource/Larysa_Moskalenko
+1,30,F. McLaughlin,http://dbpedia.org/resource/James_McLaughlin_(cyclist),http://dbpedia.org/resource/Frank_McLaughlin_(Olympian) http://dbpedia.org/resource/Frank_McLaughlin_(sailor)
+1,31,J. Cutler,http://dbpedia.org/resource/Johnny_Cutler,http://dbpedia.org/resource/John_Cutler_(yachtsman) http://dbpedia.org/resource/John_Cutler_(sailor)
+1,32,L. Moskalenko,http://dbpedia.org/resource/Alexander_Moskalenko,http://dbpedia.org/resource/Larisa_Moskalenko http://dbpedia.org/resource/Larysa_Moskalenko

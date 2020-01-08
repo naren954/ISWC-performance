@@ -1,0 +1,7 @@
+F1: 0.50000,Precision: 0.50000,Recall: 0.50000,,
+Col,Row,Value,Submitted URI,Correct URI's
+4,2,L. G. Bentinck,http://dbpedia.org/resource/Lord_William_Bentinck,http://dbpedia.org/resource/Lord_George_Bentinck
+4,3,O. Farm,http://dbpedia.org/resource/Göran_Färm,http://dbpedia.org/resource/Overbrook_Farm http://dbpedia.org/resource/William_T._Young
+4,6,J. Farms,http://dbpedia.org/resource/Göran_Färm,http://dbpedia.org/resource/Juddmonte_Stud http://dbpedia.org/resource/Juddmonte_Farm http://dbpedia.org/resource/Juddmonte_Farms
+4,9,J. Farms,http://dbpedia.org/resource/Göran_Färm,http://dbpedia.org/resource/Juddmonte_Stud http://dbpedia.org/resource/Juddmonte_Farm http://dbpedia.org/resource/Juddmonte_Farms
+4,10,B. Stud,http://dbpedia.org/resource/Bernhard_Studer,http://dbpedia.org/resource/Ballymacoll_Stud

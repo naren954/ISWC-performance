@@ -1,0 +1,4 @@
+F1: 0.96078,Precision: 0.96078,Recall: 0.96078,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,S. Smith,"http://dbpedia.org/resource/Sam_Smith_(basketball,_born_1955)","http://dbpedia.org/resource/Steve_Smith_(footballer,_born_1946) http://dbpedia.org/resource/Steve_Smith_(footballer_born_1946)"
+0,4,S. Robinson,http://dbpedia.org/resource/Jackie_Robinson,http://dbpedia.org/resource/Steve_Robinson_(Northern_Ireland_footballer) http://dbpedia.org/resource/Steve_Robinson_(footballer_born_1974) http://dbpedia.org/resource/Steve_Robinson_(Northern_Irish_footballer)

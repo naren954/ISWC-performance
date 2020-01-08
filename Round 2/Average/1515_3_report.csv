@@ -1,0 +1,7 @@
+F1: 0.72222,Precision: 0.72222,Recall: 0.72222,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,1,Bristol Rugby,http://dbpedia.org/resource/Bristol_Bears,http://dbpedia.org/resource/Bristol_RFC http://dbpedia.org/resource/Bristol_Shoguns http://dbpedia.org/resource/Bristol_Rugby http://dbpedia.org/resource/Bristol_R.F.C. http://dbpedia.org/resource/Bristol_Rugby_Football_Club
+3,8,Bristol Rugby,http://dbpedia.org/resource/Bristol_Bears,http://dbpedia.org/resource/Bristol_RFC http://dbpedia.org/resource/Bristol_Shoguns http://dbpedia.org/resource/Bristol_Rugby http://dbpedia.org/resource/Bristol_R.F.C. http://dbpedia.org/resource/Bristol_Rugby_Football_Club
+3,10,Bristol Rugby,http://dbpedia.org/resource/Bristol_Bears,http://dbpedia.org/resource/Bristol_RFC http://dbpedia.org/resource/Bristol_Shoguns http://dbpedia.org/resource/Bristol_Rugby http://dbpedia.org/resource/Bristol_R.F.C. http://dbpedia.org/resource/Bristol_Rugby_Football_Club
+3,16,Newport Gwent Dragons,http://dbpedia.org/resource/Dragons_(rugby_union),http://dbpedia.org/resource/Dreigiau_Casnewydd_Gwent http://dbpedia.org/resource/Newport-Gwent_Dragons http://dbpedia.org/resource/Newport_Gwent_Dragons http://dbpedia.org/resource/Gwent_Dragons
+3,17,Newport Gwent Dragons,http://dbpedia.org/resource/Dragons_(rugby_union),http://dbpedia.org/resource/Dreigiau_Casnewydd_Gwent http://dbpedia.org/resource/Newport-Gwent_Dragons http://dbpedia.org/resource/Newport_Gwent_Dragons http://dbpedia.org/resource/Gwent_Dragons

@@ -1,0 +1,11 @@
+F1: 0.72727,Precision: 0.72727,Recall: 0.72727,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,5,Waltz for Debby,http://dbpedia.org/resource/Sunday_at_the_Village_Vanguard,http://dbpedia.org/resource/Waltz_for_Debby_(jazz_standard) http://dbpedia.org/resource/Monicas_vals http://dbpedia.org/resource/Waltz_for_Debby_(song) http://dbpedia.org/resource/Monicas_Vals http://dbpedia.org/resource/Waltz_for_Debby_(composition) http://dbpedia.org/resource/Waltz_for_Debbie
+0,9,The Look of Love,http://dbpedia.org/resource/The_Look_of_Love_(ABC_song),http://dbpedia.org/resource/The_Look_Of_Love_(The_Wild_Bunch_song)) http://dbpedia.org/resource/The_Look_Of_Love_(1967_song) http://dbpedia.org/resource/The_Look_of_Love_(1967_song) http://dbpedia.org/resource/The_Look_of_Love_(The_Wild_Bunch_song) http://dbpedia.org/resource/The_Look_Of_Love_(Burt_Bacharach_song) http://dbpedia.org/resource/The_Look_of_Love_(Burt_Bacharach_song)
+0,16,Say Goodbye,http://dbpedia.org/resource/Say_Goodbye_(Chris_Brown_song),http://dbpedia.org/resource/Say_Goodbye_(Dave_Matthews_Band_song)
+0,17,Satisfied,http://dbpedia.org/resource/Satisfied_(Richard_Marx_song),http://dbpedia.org/resource/Satisfied_(Hamilton_song)
+0,19,Pig,http://dbpedia.org/resource/Filth_Pig,http://dbpedia.org/resource/Don't_Burn_the_Pig http://dbpedia.org/resource/Pig_(song)
+0,23,Million Miles Away,http://dbpedia.org/resource/Million_Miles_Away_(Kim_Wilde_song),http://dbpedia.org/resource/Million_Miles_Away_(Hanoi_Rocks_song) http://dbpedia.org/resource/Million_Miles_May
+0,26,Leaving So Soon?,http://dbpedia.org/resource/Under_the_Iron_Sea,http://dbpedia.org/resource/Leaving_So_Soon?
+0,28,Know Your Enemy,http://dbpedia.org/resource/Know_Your_Enemy_(Green_Day_song),http://dbpedia.org/resource/Know_Your_Enemy_(Rage_Against_the_Machine_song)
+0,29,Kite,http://dbpedia.org/resource/Kite_(U2_song),http://dbpedia.org/resource/Kite_(Kate_Bush_song)

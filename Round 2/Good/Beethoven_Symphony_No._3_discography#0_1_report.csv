@@ -1,0 +1,3 @@
+F1: 0.87500,Precision: 0.87500,Recall: 0.87500,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,Albert Coates,"http://dbpedia.org/resource/Prince_Andrew,_Duke_of_York",http://dbpedia.org/resource/Albert_Coates_(composer) http://dbpedia.org/resource/Albert_Coates_(musician)

@@ -1,0 +1,9 @@
+F1: 0.58824,Precision: 0.58824,Recall: 0.58824,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,1,WLOV-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/Wlov.com http://dbpedia.org/resource/WLOV-TV
+2,3,WRAZ,http://dbpedia.org/resource/Polish–Lithuanian_Commonwealth,http://dbpedia.org/resource/WRAZ-TV http://dbpedia.org/resource/WRAZ_(TV)
+2,7,WPGH-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WPGH-TV http://dbpedia.org/resource/FOX_53 http://dbpedia.org/resource/WPGH-DT
+2,8,WXNY-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/DJ_Kazzanova http://dbpedia.org/resource/WXNY-FM http://dbpedia.org/resource/WCAA http://dbpedia.org/resource/La_Kalle http://dbpedia.org/resource/W276AV http://dbpedia.org/resource/WCAA-FM http://dbpedia.org/resource/Caliente_105.9 http://dbpedia.org/resource/La_Kalle_105.9_FM http://dbpedia.org/resource/WCAA_(FM)
+2,14,KQFX-LD,http://dbpedia.org/resource/KTPN-LD,http://dbpedia.org/resource/KZOU http://dbpedia.org/resource/KQFX-LP http://dbpedia.org/resource/KZOU-LP http://dbpedia.org/resource/KQFX-LD
+2,16,KFXK-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/KFXK http://dbpedia.org/resource/KFXL-LP http://dbpedia.org/resource/KFXK-TV http://dbpedia.org/resource/KFXL-LD
+2,17,DZBB-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/DZBB-TV http://dbpedia.org/resource/GMA_7 http://dbpedia.org/resource/GMA-7 http://dbpedia.org/resource/GMA_Manila http://dbpedia.org/resource/GMA_Channel_7 http://dbpedia.org/resource/DZBB-TV_13

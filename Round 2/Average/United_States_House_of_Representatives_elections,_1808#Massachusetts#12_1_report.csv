@@ -1,0 +1,7 @@
+F1: 0.70588,Precision: 0.70588,Recall: 0.70588,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,3,John Porter,http://dbpedia.org/resource/John_Porter_(Illinois_politician),http://dbpedia.org/resource/John_Porter_(congressman) http://dbpedia.org/resource/John_Porter_(Pennsyvania_politician) http://dbpedia.org/resource/John_Porter_(politician) http://dbpedia.org/resource/John_Porter_(Pennsylvania_politician)
+1,4,Robert Brown,"http://dbpedia.org/resource/Robert_Brown_(botanist,_born_1773)",http://dbpedia.org/resource/Robert_Brown_(1744-1823) http://dbpedia.org/resource/Robert_Brown_(Pennsylvania) http://dbpedia.org/resource/Robert_Brown_(Pennsylvania_politician) http://dbpedia.org/resource/Robert_Brown_(PA_congressman)
+1,6,John Pugh,http://dbpedia.org/resource/John_Pugh,http://dbpedia.org/resource/John_Pugh_(congressman) http://dbpedia.org/resource/John_Pugh_(Pennsylvania) http://dbpedia.org/resource/John_Pugh_(PA_congressman)
+1,12,Daniel Montgomery,http://dbpedia.org/resource/Daniel_Montgomery_Jr.,"http://dbpedia.org/resource/Daniel_Montgomery http://dbpedia.org/resource/Daniel_Montgomery,_Jr."
+1,18,Samuel Smith,http://dbpedia.org/resource/Samuel_Smith_(Maryland),http://dbpedia.org/resource/Samuel_Smith_(Pennsylvania) http://dbpedia.org/resource/Samuel_Smith_(Pennsylvania_representative) http://dbpedia.org/resource/Samuel_Smith_(PA_representative)

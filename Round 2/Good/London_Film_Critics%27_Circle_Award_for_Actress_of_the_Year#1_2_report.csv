@@ -1,0 +1,4 @@
+F1: 0.83333,Precision: 0.83333,Recall: 0.83333,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,2,The Others,http://dbpedia.org/resource/The_Others_(band),http://dbpedia.org/resource/Nicholas_Stewart http://dbpedia.org/resource/The_Others_(2001_film)
+2,9,La Vie En Rose,http://dbpedia.org/resource/La_Vie_en_rose_(film),http://dbpedia.org/resource/La_vie_on_rose http://dbpedia.org/resource/La_Vie_En_Rose http://dbpedia.org/resource/La_Vie_en_rose http://dbpedia.org/resource/La_Vie_en_Rose http://dbpedia.org/resource/La_Vie_En_Rose_(Donna_Summer) http://dbpedia.org/resource/La_vie_en_rose http://dbpedia.org/resource/La_vie_en_Rose http://dbpedia.org/resource/La_vie_en_rose_(Grace_Jones) http://dbpedia.org/resource/La_Vie_on_rose http://dbpedia.org/resource/La_Vie_on_Rose

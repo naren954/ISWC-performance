@@ -1,0 +1,7 @@
+F1: 0.64286,Precision: 0.64286,Recall: 0.64286,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,3,J. O'Connor,http://dbpedia.org/resource/Jennifer_O'Connor_(musician),http://dbpedia.org/resource/Jordan_O'Connor
+1,6,S. Kaplan,http://dbpedia.org/resource/Ira_Kaplan,http://dbpedia.org/resource/Sol_Kaplan
+1,9,H. Gaze,http://dbpedia.org/resource/Tony_Gaze,http://dbpedia.org/resource/Heino_Gaze
+1,10,J. Nieto,http://dbpedia.org/resource/Jan_Nieto,http://dbpedia.org/resource/Jose_Nieto_(composer) http://dbpedia.org/resource/José_Nieto_(composer)
+1,14,A. Iglesias,http://dbpedia.org/resource/Julio_Iglesias,http://dbpedia.org/resource/Alberto_Iglésias http://dbpedia.org/resource/Alberto_Iglesias

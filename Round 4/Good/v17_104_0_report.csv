@@ -1,0 +1,34 @@
+F1: 0.78378,Precision: 0.78378,Recall: 0.78378,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,M. Arsenault,http://dbpedia.org/resource/Steve_Arsenault,http://dbpedia.org/resource/Mary-Anne_Arsenault http://dbpedia.org/resource/Mary_Anne_Arsenault
+0,3,M. Ferland,http://dbpedia.org/resource/Micheal_Ferland,http://dbpedia.org/resource/Martin_Ferland
+0,12,M. Larouche,http://dbpedia.org/resource/Pierre_Larouche,http://dbpedia.org/resource/Marie-France_Larouche
+0,16,M. Poulsen,http://dbpedia.org/resource/Morten_Poulsen,http://dbpedia.org/resource/Maria_Poulsen
+0,26,L. Yin,http://dbpedia.org/resource/Yin_Yin,http://dbpedia.org/resource/Liu_Yin_(curler) http://dbpedia.org/resource/Yin_Liu_(curler)
+0,27,L. Rui,http://dbpedia.org/resource/Luciano_Rui,http://dbpedia.org/resource/Liu_Riu http://dbpedia.org/resource/Liu_Rui
+0,30,L. Warkentin,http://dbpedia.org/resource/Mark_Warkentin,http://dbpedia.org/resource/Lindsay_Warkentin http://dbpedia.org/resource/Lindsay_Titheridge
+0,37,L. Vey,http://dbpedia.org/resource/Linden_Vey,http://dbpedia.org/resource/Lana_Vey
+0,41,K. Lindström,http://dbpedia.org/resource/Fredrik_Lindström_(biathlete),http://dbpedia.org/resource/Kristian_Lindstroem http://dbpedia.org/resource/Kristian_Lindstrom http://dbpedia.org/resource/Kristian_Lindström
+0,56,K. Scott,http://dbpedia.org/resource/Kevin_Scott_(American_football),http://dbpedia.org/resource/Kelly_Mackenzie http://dbpedia.org/resource/Kelly_Scott http://dbpedia.org/resource/Kellie_Scott http://dbpedia.org/resource/Kelly_MacKenzie
+0,64,J. Tippin,http://dbpedia.org/resource/Kenny_Tippins,http://dbpedia.org/resource/Julie_Reddick http://dbpedia.org/resource/Julie_Tippin
+0,65,J. Hastings,http://dbpedia.org/resource/Jeff_Hastings,http://dbpedia.org/resource/Julie_Hastings
+0,66,J. Devereaux,http://dbpedia.org/resource/Boyd_Devereaux,http://dbpedia.org/resource/Julie_Devereaux
+0,69,J. Campbell,http://dbpedia.org/resource/Jasmine_Campbell,http://dbpedia.org/resource/Jolene_McIvor http://dbpedia.org/resource/Jolene_Campbell
+0,72,J. Morris,http://dbpedia.org/resource/Jack_Morris,http://dbpedia.org/resource/John_Morris_(curler)
+0,82,J. Rizzo,http://dbpedia.org/resource/Matteo_Rizzo,http://dbpedia.org/resource/Jo-Ann_Rizzo
+0,87,J. Brothers,http://dbpedia.org/resource/Joyce_Brothers,http://dbpedia.org/resource/Jill_Mouzar http://dbpedia.org/resource/Jill_Brothers
+0,89,J. Kaufman,http://dbpedia.org/resource/Josef_Kaufman,http://dbpedia.org/resource/Jessie_Kaufman
+0,91,J. Mair,http://it.dbpedia.org/resource/Jan_Mair,http://dbpedia.org/resource/Jessica_Mair
+0,92,J. Jones,http://dbpedia.org/resource/Jake_Jones_(basketball),http://dbpedia.org/resource/Jenny_Jones_(curler) http://dbpedia.org/resource/Jennifer_Jones_(curler)
+0,94,J. Baxter,http://dbpedia.org/resource/Virginia_Baxter,http://dbpedia.org/resource/Jennifer_Baxter_(curler) http://dbpedia.org/resource/Jen_Baxter
+0,95,J. Hanna,http://dbpedia.org/resource/John_Hanna_(ice_hockey),http://dbpedia.org/resource/Jenn_Hanna
+0,100,J. Smith,http://dbpedia.org/resource/James_Smith_(boxer),http://dbpedia.org/resource/Jason_Smith_(curler)
+0,105,J. LeBlanc,http://dbpedia.org/resource/Jean-Paul_LeBlanc,http://dbpedia.org/resource/Janique_LeBlanc
+0,106,J. Harvey,http://dbpedia.org/resource/Tarrah_Harvey,http://dbpedia.org/resource/Janet_Harvey
+0,114,J. Armstrong,http://dbpedia.org/resource/Jim_Armstrong_(curler),http://dbpedia.org/resource/Jacquie_Armstrong
+0,115,J. Harrison,http://dbpedia.org/resource/Jim_Harrison_(ice_hockey),http://dbpedia.org/resource/Jacqueline_Harrison
+0,118,H. Rajala,http://de.dbpedia.org/resource/Erkki_Rajala,http://dbpedia.org/resource/Howard_Rajala
+0,119,H. Nicol,http://dbpedia.org/resource/Hugh_Nicol,http://dbpedia.org/resource/Hollie_Nicol
+0,122,H. Smith,http://dbpedia.org/resource/Harrison_Smith_(runner),http://dbpedia.org/resource/Heather_Smith-Dacey http://dbpedia.org/resource/Heather_Smith_(curler) http://dbpedia.org/resource/Heather_Smith_(Canadian_Curler)
+0,135,G. Walker,http://dbpedia.org/resource/Geoff_Walker_(ice_hockey),http://dbpedia.org/resource/Geoff_Walker_(curler)
+0,142,E. Brown,http://dbpedia.org/resource/Eddie_Brown_(wide_receiver),http://dbpedia.org/resource/Erika_Brown http://dbpedia.org/resource/Erika_Brown_Oriedo

@@ -1,0 +1,15 @@
+F1: 0.91391,Precision: 0.91391,Recall: 0.91391,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,Tuscaloosa Regional Airport,http://dbpedia.org/resource/Tuscaloosa_National_Airport,http://dbpedia.org/resource/Tuscaloosa_Regional_Airport http://dbpedia.org/resource/Tuscaloosa_Airport http://dbpedia.org/resource/Hargrove_Van_de_Graaft_Airport http://dbpedia.org/resource/Van_de_Graaff_Field http://dbpedia.org/resource/Van_De_Graaff_Field
+0,27,Tri-County Airport,http://dbpedia.org/resource/Tri-County_Airport_(Florida),http://dbpedia.org/resource/KASJ http://dbpedia.org/resource/Tri-County_Airport_(North_Carolina)
+0,28,Tri-County Airport,http://dbpedia.org/resource/Tri-County_Airport_(Florida),http://dbpedia.org/resource/Tri-County_Airport_(Illinois)
+0,30,Tri-City Airport,"http://dbpedia.org/resource/Tri-City_Airport_(Sebring,_Ohio)","http://dbpedia.org/resource/Tri-City_Airport_(West_Lafayette,_Ohio)"
+0,32,Tri-City Airport,"http://dbpedia.org/resource/Tri-City_Airport_(Sebring,_Ohio)",http://dbpedia.org/resource/KPPF http://dbpedia.org/resource/Tri-City_Airport_(Kansas)
+0,35,Tri-Cities Airport,http://dbpedia.org/resource/Tri-Cities_Airport_(Washington),http://dbpedia.org/resource/Tri-Cities_Airport_(New_York) http://dbpedia.org/resource/KCZG http://dbpedia.org/resource/CZG
+0,38,Trenton Municipal Airport,http://dbpedia.org/resource/Trenton_Municipal_Airport_(Missouri),http://dbpedia.org/resource/Trenton_Municipal_Airport_(Nebraska)
+0,57,Toledo Municipal Airport,http://dbpedia.org/resource/Toledo_Express_Airport,http://dbpedia.org/resource/Toledo_Municipal_Airport
+0,61,Tokeen Seaplane Base,http://dbpedia.org/resource/Hollis_Seaplane_Base,http://dbpedia.org/resource/Tokeen_Seaplane_Base
+0,87,Terre Haute International Airport,http://dbpedia.org/resource/Terre_Haute_Regional_Airport,http://dbpedia.org/resource/Terre_Haute_International_Airport
+0,98,Taylor Airport,"http://dbpedia.org/resource/Taylor_Airport_(Quinlan,_Texas)","http://dbpedia.org/resource/Taylor_Airport_(Albany,_Texas)"
+0,141,Sullivan County International Airport,http://dbpedia.org/resource/Casper–Natrona_County_International_Airport,http://dbpedia.org/resource/KMSV http://dbpedia.org/resource/Sullivan_County_International_Airport
+0,149,Sturgis Municipal Airport,http://dbpedia.org/resource/Sturgis_Municipal_Airport_(Kentucky),http://dbpedia.org/resource/Sturgis_Municipal_Airport_(South_Dakota)

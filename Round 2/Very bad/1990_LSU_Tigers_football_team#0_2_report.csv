@@ -1,0 +1,5 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,1,Georgia,http://dbpedia.org/resource/Georgia_(country),http://dbpedia.org/resource/1990_Georgia_Bulldogs_football_team
+2,2,Miami (OH)*,http://dbpedia.org/resource/CSI:_Miami,http://dbpedia.org/resource/List_of_Miami_RedHawks_bowl_games http://dbpedia.org/resource/Miami_RedHawks_Football http://dbpedia.org/resource/Miami_Redhawks_football http://dbpedia.org/resource/Miami_RedHawks_football http://dbpedia.org/resource/Miami_Redskins_football
+2,6,Kentucky,http://dbpedia.org/resource/Kentucky,http://dbpedia.org/resource/Kentucky_State_College_Blue_and_White_football http://dbpedia.org/resource/Kentucky_wildcats_football http://dbpedia.org/resource/Kentucky_football http://dbpedia.org/resource/Kentucky_State_Blue_and_White_football http://dbpedia.org/resource/Kentucky_Wildcats_football

@@ -1,0 +1,5 @@
+"F1: 0.66667","Precision: 0.66667","Recall: 0.66667"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","2","Jimmy Gibson","http://dbpedia.org/resource/Jimmy_Gibson_(footballer,_born_1901)","http://dbpedia.org/resource/Jimmy_Gibson_(footballer,_born_1980) http://dbpedia.org/resource/Jimmy_Gibson_(footballer_born_1980) http://dbpedia.org/resource/James_Gibson_(footballer_born_1980)"
+"0","5","Iain Campbell","http://dbpedia.org/resource/Iain_Campbell_(footballer)","http://dbpedia.org/resource/Iain_Campbell"
+"0","6","Dave McKay","http://dbpedia.org/resource/Dave_McKay_(baseball)","http://dbpedia.org/resource/Dave_McKay_(footballer)"

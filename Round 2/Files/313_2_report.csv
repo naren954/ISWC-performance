@@ -1,0 +1,6 @@
+"F1: 0.93220","Precision: 0.93220","Recall: 0.93220"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"2","30","N. Piquet","http://dbpedia.org/resource/Nelson_Piquet_Jr.","http://dbpedia.org/resource/Nelson_Piquet http://dbpedia.org/resource/Nelson_Piquet_Sr._(racing_driver) http://dbpedia.org/resource/Nelson_Piquet_(racing_driver) http://dbpedia.org/resource/Nelson_Piquet,_Sr."
+"2","35","K. Smith","http://dbpedia.org/resource/Kenny_Smith","http://dbpedia.org/resource/Ken_Smith_(racing_driver)"
+"2","39","J. Stewart","http://dbpedia.org/resource/Jimmy_Stewart_(racing_driver)","http://dbpedia.org/resource/Jackie_Stewart http://dbpedia.org/resource/JYS http://dbpedia.org/resource/Sir_Jackie_Stewart http://dbpedia.org/resource/Sir_John_Young_Stewart http://dbpedia.org/resource/John_Young_Stewart"
+"2","40","J. Stewart","http://dbpedia.org/resource/Jimmy_Stewart_(racing_driver)","http://dbpedia.org/resource/Jackie_Stewart http://dbpedia.org/resource/JYS http://dbpedia.org/resource/Sir_Jackie_Stewart http://dbpedia.org/resource/Sir_John_Young_Stewart http://dbpedia.org/resource/John_Young_Stewart"

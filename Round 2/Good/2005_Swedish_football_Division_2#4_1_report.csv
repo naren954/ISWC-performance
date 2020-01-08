@@ -1,0 +1,4 @@
+F1: 0.83333,Precision: 0.83333,Recall: 0.83333,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,7,IFK Ã\u0096lme,http://dbpedia.org/resource/IFK_Luleå,http://dbpedia.org/resource/IFK_Ölme
+1,12,Karlslunds IF,http://dbpedia.org/resource/Karlslunds_IF_HFK,http://dbpedia.org/resource/Karlslunds_IF

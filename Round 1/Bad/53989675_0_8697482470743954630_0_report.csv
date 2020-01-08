@@ -1,0 +1,4 @@
+F1: 0.33333,Precision: 0.33333,Recall: 0.33333,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,7,"Eagle Lake (Murray,Inch)","http://dbpedia.org/resource/Dysart_et_al,_Ontario","http://dbpedia.org/resource/Eagle_Lake,_WI http://dbpedia.org/resource/Eagle_Lake,_Wisconsin"
+0,5,Cranberry Lake T44N R09W S30,"http://dbpedia.org/resource/Cranberry_Lake,_New_York","http://dbpedia.org/resource/Cranberry_Lake,_Wisconsin"

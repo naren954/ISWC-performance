@@ -1,0 +1,9 @@
+F1: 0.56250,Precision: 0.56250,Recall: 0.56250,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,2,Nick Fotiu (LW),http://de.dbpedia.org/resource/Nick_(Name),http://dbpedia.org/resource/Nick_Fotiu
+1,3,Al Sims (D),http://dbpedia.org/resource/Bavarian_Forest_National_Park,http://dbpedia.org/resource/Al_Sims
+1,5,Brian Hill (RW),http://dbpedia.org/resource/Dean_Koontz,http://dbpedia.org/resource/Brian_Hill_(ice_hockey) http://dbpedia.org/resource/Brian_Hill_(hockey_player)
+1,10,Alan Hangsleben (D),http://dbpedia.org/resource/Alan_Parsons_(badminton),http://dbpedia.org/resource/Alan_Hangsleben
+1,12,Bill Bennett (LW),http://dbpedia.org/resource/Bill_Bennett_(director),http://dbpedia.org/resource/Bill_Bennett_(ice_hockey)
+1,15,Norm Lapointe G,http://dbpedia.org/resource/International_Organization_for_Standardization,http://dbpedia.org/resource/Norm_Lapointe http://dbpedia.org/resource/Normand_LaPointe_(ice_hockey) http://dbpedia.org/resource/Norm_LaPointe
+1,16,Don Kozak (?),http://dbpedia.org/resource/Cossacks,http://dbpedia.org/resource/Don_Kozak

@@ -1,0 +1,4 @@
+"F1: 0.98246","Precision: 0.98246","Recall: 0.98246"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","57","Washington State Route 230","http://dbpedia.org/resource/Washington_State_Route_291","http://dbpedia.org/resource/State_Route_230_(Washington) http://dbpedia.org/resource/Washington_State_Route_230 http://dbpedia.org/resource/SR_230_(WA)"
+"0","83","Washington State Route 168","http://dbpedia.org/resource/Washington_State_Route_164","http://dbpedia.org/resource/SR_168_(WA) http://dbpedia.org/resource/State_Route_168_(Washington) http://dbpedia.org/resource/Washington_State_Route_168"

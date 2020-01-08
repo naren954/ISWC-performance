@@ -1,0 +1,4 @@
+F1: 0.66667,Precision: 0.66667,Recall: 0.66667,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,T. Owen,http://dbpedia.org/resource/Thomas_Owen_(priest),http://dbpedia.org/resource/Tudor_Owen_(actor)
+0,4,C. Parker,http://dbpedia.org/resource/Charlie_Parker,http://dbpedia.org/resource/Cecil_Parker http://dbpedia.org/resource/Cecil_Schwabe

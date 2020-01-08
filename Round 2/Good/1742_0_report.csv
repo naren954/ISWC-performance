@@ -1,0 +1,19 @@
+F1: 0.89441,Precision: 0.89441,Recall: 0.89441,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,48,Waltz,http://dbpedia.org/resource/The_Last_Waltz,http://dbpedia.org/resource/Waltz_(DS9_episode) http://dbpedia.org/resource/Waltz_(Star_Trek:_Deep_Space_Nine) http://dbpedia.org/resource/Waltz_(DS9)
+0,54,Vortex,http://dbpedia.org/resource/Pacific_Vortex!,http://dbpedia.org/resource/Vortex_(DS9_episode) http://dbpedia.org/resource/Vortex_(Star_Trek:_Deep_Space_Nine) http://dbpedia.org/resource/Vortex_(DS9)
+0,71,Uno,http://dbpedia.org/resource/¡Uno!,http://dbpedia.org/resource/Uno_(Better_Call_Saul)
+0,73,Unity,http://dbpedia.org/resource/Unity_(Rage_album),http://dbpedia.org/resource/Unity_(Voyager_episode) http://dbpedia.org/resource/Unity_(Star_Trek:_Voyager) http://dbpedia.org/resource/Unity_(VOY)
+0,74,United,http://dbpedia.org/resource/United_Australia_Party,http://dbpedia.org/resource/United_(ENT) http://dbpedia.org/resource/United_(Star_Trek:_Enterprise) http://dbpedia.org/resource/United_(ENT_episode) http://dbpedia.org/resource/United_(Enterprise_episode)
+0,83,Two,http://dbpedia.org/resource/Two_(The_Calling_album),http://dbpedia.org/resource/The_Twilight_Zone/Two http://dbpedia.org/resource/Two_(The_Twilight_Zone)
+0,84,Twisted,http://dbpedia.org/resource/Twisted_(Keith_Sweat_song),http://dbpedia.org/resource/Twisted_(Voyager_episode) http://dbpedia.org/resource/Twisted_(VOY) http://dbpedia.org/resource/Twisted_(Star_Trek:_Voyager)
+0,86,Twilight's Kingdom,,http://dbpedia.org/resource/Twilight's_Kingdom_(My_Little_Pony:_Friendship_is_Magic_episode) http://dbpedia.org/resource/Twilight's_Kingdom
+0,89,Try,http://dbpedia.org/resource/Try_(The_Killing),http://dbpedia.org/resource/Try_(The_Walking_Dead)
+0,92,Trio,"http://dbpedia.org/resource/Trio_(Dolly_Parton,_Emmylou_Harris_and_Linda_Ronstadt_album)",http://dbpedia.org/resource/Trio_(Glee)
+0,102,To the Death,http://dbpedia.org/resource/Love_&_Death_(EP),http://dbpedia.org/resource/To_the_Death_(Star_Trek:_Deep_Space_Nine) http://dbpedia.org/resource/To_the_Death_(DS9_episode) http://dbpedia.org/resource/To_the_Death_(DS9)
+0,115,Time,http://dbpedia.org/resource/Adventure_Time,http://dbpedia.org/resource/Time_(The_Young_Ones) http://dbpedia.org/resource/Time_(Young_Ones_episode) http://dbpedia.org/resource/Time_(The_Young_Ones_episode)
+0,121,Threshold,http://dbpedia.org/resource/Threshold_(album),http://dbpedia.org/resource/Threshold_(Voyager_episode) http://dbpedia.org/resource/Threshold_(VOY) http://dbpedia.org/resource/Threshold_(Star_Trek:_Voyager)
+0,136,The Wire,http://dbpedia.org/resource/The_Wire_(episode),http://dbpedia.org/resource/The_Wire_(Star_Trek:_Deep_Space_Nine) http://dbpedia.org/resource/The_Wir_(DS9_episode) http://dbpedia.org/resource/The_Wire_(DS9) http://dbpedia.org/resource/The_Wire_(DS9_episode)
+0,142,The Wheel,http://dbpedia.org/resource/The_Wheel_in_Space,http://dbpedia.org/resource/The_Wheel_(Law_&_Order) http://dbpedia.org/resource/The_Wheel_(Law_&_Order_episode)
+0,150,The Void,http://dbpedia.org/resource/Enter_the_Void,http://dbpedia.org/resource/The_Void_(Voyager_episode) http://dbpedia.org/resource/The_Void_(Star_Trek:_Voyager)
+0,160,The Transfer,,http://dbpedia.org/resource/The_Transfer_(Smash) http://dbpedia.org/resource/The_Transfer

@@ -1,0 +1,5 @@
+"F1: 0.86364","Precision: 0.86364","Recall: 0.86364"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","3","S. Hamilton","http://dbpedia.org/resource/Steve_Hamilton","http://dbpedia.org/resource/Sue_Hamilton_(actress_and_model) http://dbpedia.org/resource/Karen_Susan_Hamilton http://dbpedia.org/resource/Sue_Hamilton_(model) http://dbpedia.org/resource/Sue_Hamilton_(actress) http://dbpedia.org/resource/Sue_Hamilton_(model_and_actress)"
+"0","5","P. Bryant","http://dbpedia.org/resource/Peter_Bryant","http://dbpedia.org/resource/Pamela_Bryant http://dbpedia.org/resource/Pamela_Jean_Bryant"
+"0","9","M. Collinson","http://dbpedia.org/resource/Peter_Collinson_(botanist)","http://dbpedia.org/resource/Madeleine_Collinson"

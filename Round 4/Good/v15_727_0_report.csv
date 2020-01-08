@@ -1,0 +1,3 @@
+F1: 0.90000,Precision: 0.90000,Recall: 0.90000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,5,Castle of D. Chica,http://dbpedia.org/resource/Castelo_da_Dona_Chica,http://dbpedia.org/resource/Castelo_da_D._Chica http://dbpedia.org/resource/Dona_Chica_Castle http://dbpedia.org/resource/Castle_of_D._Chica

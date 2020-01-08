@@ -1,0 +1,4 @@
+F1: 0.98870,Precision: 0.98870,Recall: 0.98870,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,66,Heteropoma fulva,http://es.dbpedia.org/resource/Heteropoma_fulva,http://dbpedia.org/resource/Heteropoma_fulva
+0,109,Helicarion rubicundus,http://dbpedia.org/resource/Attenborougharion_rubicundus,http://dbpedia.org/resource/Helicarion_rubicundus

@@ -1,0 +1,6 @@
+F1: 0.69231,Precision: 0.69231,Recall: 0.69231,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,9,Peter Law 3,http://dbpedia.org/resource/Peter_Ramsbotham,http://dbpedia.org/resource/Peter_law http://dbpedia.org/resource/Peter_Law
+1,10,George Galloway 4,"http://dbpedia.org/resource/George_Montagu,_4th_Duke_of_Manchester","http://dbpedia.org/resource/George_Galloway http://dbpedia.org/resource/Galloway,_George"
+1,11,Richard Taylor 2,http://dbpedia.org/resource/Richard_Taylor_(general),http://dbpedia.org/resource/Richard_Taylor_(UK_politician) http://dbpedia.org/resource/Richard_Taylor_(British_politician) http://dbpedia.org/resource/Richard_Thomas_Taylor http://dbpedia.org/resource/Dr._Richard_Taylor http://dbpedia.org/resource/Dr_Richard_Taylor
+1,17,David Robertson 9,http://dbpedia.org/resource/David_Robertson_(Canadian_politician),http://dbpedia.org/resource/David_Robertson_(British_politician) http://dbpedia.org/resource/David_Robertson_(UK_politician)

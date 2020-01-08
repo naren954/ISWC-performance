@@ -1,0 +1,6 @@
+"F1: 0.78947","Precision: 0.78947","Recall: 0.78947"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","1","Mimbres Valley AVA","http://dbpedia.org/resource/Hames_Valley_AVA","http://dbpedia.org/resource/Mimbres_Valley_AVA http://dbpedia.org/resource/Mimbres_Valley http://dbpedia.org/resource/Mimbres_Valley_American_Viticultural_Area"
+"0","2","Mesilla Valley AVA","http://dbpedia.org/resource/Willamette_Valley_AVA","http://dbpedia.org/resource/Mesilla_Valley_AVA"
+"0","5","Mendocino County wine","http://dbpedia.org/resource/Mendocino_AVA","http://dbpedia.org/resource/Mendocino_County_wine http://dbpedia.org/resource/Mendocino_County_AVA http://dbpedia.org/resource/Mendocino_wine http://dbpedia.org/resource/Mendocino_county_(wine) http://dbpedia.org/resource/Mendocino_County_(wine)"
+"0","19","Lake County wine","http://dbpedia.org/resource/Lake_County,_Indiana","http://dbpedia.org/resource/Lake_County_(wine) http://dbpedia.org/resource/Lake_County_wine"

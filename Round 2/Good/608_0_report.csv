@@ -1,0 +1,8 @@
+F1: 0.86957,Precision: 0.86957,Recall: 0.86957,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,W. Chambers,http://dbpedia.org/resource/William_Chambers_(architect),http://dbpedia.org/resource/Wylie_Chambers
+0,3,W. Marshall,http://dbpedia.org/resource/Willard_Marshall,http://dbpedia.org/resource/William_D._Marshall http://dbpedia.org/resource/William_Marshall_(Australian_footballer)
+0,6,"W. "". Thomas",http://dbpedia.org/resource/Watcyn_Thomas,"http://dbpedia.org/resource/William_""Digger""_Thomas http://dbpedia.org/resource/William_'Digger'_Thomas"
+0,40,S. B. Sr.,http://dbpedia.org/resource/George_H._W._Bush,"http://dbpedia.org/resource/Syd_Barker,_Sr http://dbpedia.org/resource/Sid_Barker http://dbpedia.org/resource/Syd_Barker,_Snr http://dbpedia.org/resource/Syd_Barker http://dbpedia.org/resource/Syd_Barker,_Sr. http://dbpedia.org/resource/Syd_Barker_Sr."
+0,41,S. Anderson,http://dbpedia.org/resource/Stan_Anderson,"http://dbpedia.org/resource/Syd_L._Anderson http://dbpedia.org/resource/Syd_Anderson_(footballer,_born_1918)"
+0,46,S. Fraser,http://dbpedia.org/resource/Simon_Fraser_(Australian_sportsman),http://dbpedia.org/resource/Simon_Fraser_(rower) http://dbpedia.org/resource/Simon_Fraser_(Australian_rules_footballer)

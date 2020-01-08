@@ -1,0 +1,4 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,You're Beautiful,http://dbpedia.org/resource/You're_Beautiful_(TV_series),http://dbpedia.org/resource/You're_Beautiful
+1,2,Dream High Season 2,http://dbpedia.org/resource/Dream_High,http://dbpedia.org/resource/Dream_High_2 http://dbpedia.org/resource/Dream_High_Season_2 http://dbpedia.org/resource/Dream_high_2

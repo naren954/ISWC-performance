@@ -1,0 +1,9 @@
+F1: 0.41667,Precision: 0.41667,Recall: 0.41667,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,2,No Man's Land,http://dbpedia.org/resource/No_Man's_Land_(2013_film),http://dbpedia.org/resource/No_Man's_Land_(2001_film)
+1,3,The Son,http://it.dbpedia.org/resource/The_Midnight_Sons,http://dbpedia.org/resource/Le_Fils http://dbpedia.org/resource/The_Son_(film) http://dbpedia.org/resource/Le_fils
+1,4,On the Run,http://dbpedia.org/resource/On_the_Run_(instrumental),http://dbpedia.org/resource/On_the_Run_(2003_film) http://dbpedia.org/resource/On_the_Run:_Trilogy_1 http://dbpedia.org/resource/Cavale
+1,6,After Life,http://dbpedia.org/resource/After.Life,http://dbpedia.org/resource/Après_la_vie
+1,8,The Child,http://dbpedia.org/resource/FairChild,http://dbpedia.org/resource/L'Enfant_(film)
+1,9,The Only One,http://dbpedia.org/resource/My_One_and_Only_(film),http://dbpedia.org/resource/The_Only_One_(film)
+1,10,Private Property,http://dbpedia.org/resource/Private_Dancer_(Tina_Turner_song),http://dbpedia.org/resource/Private_Property_(film) http://dbpedia.org/resource/Nue_Propriété http://dbpedia.org/resource/Nue_Propriete

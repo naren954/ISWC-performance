@@ -1,0 +1,127 @@
+F1: 0.30168,Precision: 0.30168,Recall: 0.30168,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,MYLK4,,http://dbpedia.org/resource/MYLK4
+0,4,MTORC1,http://dbpedia.org/resource/MTOR,http://dbpedia.org/resource/Rag_GTPase http://dbpedia.org/resource/Rag_gtpase http://dbpedia.org/resource/Mechanistic_target_of_rapamycin_complex_1 http://dbpedia.org/resource/MTORC1
+0,5,MOSC1,,http://dbpedia.org/resource/MOSC1
+0,6,MDGA2,,http://dbpedia.org/resource/MDGA2 http://dbpedia.org/resource/MAMDC1
+0,8,MAS1 oncogene,,http://dbpedia.org/resource/MAS1_oncogene http://dbpedia.org/resource/MAS1_receptor
+0,10,Lysyl hydroxylase,,"http://dbpedia.org/resource/Lysyl_hydroxylase http://dbpedia.org/resource/Procollagen-lysine,_2-oxoglutarate_5-dioxygenase http://dbpedia.org/resource/Procollagen-lysine_5-dioxygenase http://dbpedia.org/resource/Lysyl_5-hydroxylase http://dbpedia.org/resource/L-lysine-(procollagen),2-oxoglutarate:oxygen_oxidoreductase_(5-hydroxylating) http://dbpedia.org/resource/EC_1.14.11.4 http://dbpedia.org/resource/PLOD1"
+0,12,Lysosomal lipase,,http://dbpedia.org/resource/Acid_lipase http://dbpedia.org/resource/Lysosomal_acid_lipase http://dbpedia.org/resource/Lysosomal_lipase
+0,13,Lymphotoxin,,http://dbpedia.org/resource/Tumor_necrosis_factor_β http://dbpedia.org/resource/Lymphotoxin http://dbpedia.org/resource/Tumor-necrosis_factor_β
+0,14,Luteinizing hormone,,"http://dbpedia.org/resource/Luteinising_Hormone http://dbpedia.org/resource/ATCvet_code_QG03GA07 http://dbpedia.org/resource/Luteinizing_hormone_deficiency http://dbpedia.org/resource/Lutropin http://dbpedia.org/resource/Lutenizing_Hormone http://dbpedia.org/resource/Interstitial_cell_stimulating_hormone http://dbpedia.org/resource/Receptors,_lh http://dbpedia.org/resource/Interstitial_Cell_Stimulating_Hormone http://dbpedia.org/resource/Pee_stick http://dbpedia.org/resource/Ovulation_predictor_kit http://dbpedia.org/resource/Lh_kit http://dbpedia.org/resource/Luteinizing http://dbpedia.org/resource/Leutinizing_hormone http://dbpedia.org/resource/Leutenizing_hormone http://dbpedia.org/resource/LH_deficiency http://dbpedia.org/resource/Lutenising_Hormone http://dbpedia.org/resource/Ovulation_prediction_kit http://dbpedia.org/resource/Luteinizing_hormone http://dbpedia.org/resource/Lutropin_alfa http://dbpedia.org/resource/Interstitial-cell_stimulating_hormone http://dbpedia.org/resource/Isolated_luteinizing_hormone_deficiency http://dbpedia.org/resource/Luteinizing_Hormone http://dbpedia.org/resource/Luveris http://dbpedia.org/resource/Isolated_LH_deficiency http://dbpedia.org/resource/Lh_test http://dbpedia.org/resource/Lutenizing_hormone http://dbpedia.org/resource/Luteinising_hormone http://dbpedia.org/resource/LH_surge http://dbpedia.org/resource/ATC_code_G03GA07"
+0,15,Low-molecular-weight kininogen,,"http://dbpedia.org/resource/Kininogen,_low-molecular-weight http://dbpedia.org/resource/Low-molecular-weight_kininogen http://dbpedia.org/resource/Low-molecular_weight_kininogen"
+0,17,Leucyl aminopeptidase,,http://dbpedia.org/resource/Aminopeptidase_II http://dbpedia.org/resource/Leucyl_peptidase http://dbpedia.org/resource/Cytosolic_leucine_aminopeptidase http://dbpedia.org/resource/L-leucine_aminopeptidase http://dbpedia.org/resource/Cytosol_aminopeptidase http://dbpedia.org/resource/Peptidase_S http://dbpedia.org/resource/Leucyl_aminopeptidase http://dbpedia.org/resource/Cathepsin_III http://dbpedia.org/resource/Proteinate_FTBL http://dbpedia.org/resource/Leucinaminopeptidase http://dbpedia.org/resource/FTBL_protein http://dbpedia.org/resource/EC_3.4.11.1 http://dbpedia.org/resource/Leucine_aminopeptidase http://dbpedia.org/resource/Leucinamide_aminopeptidase
+0,18,Leprecan,,http://dbpedia.org/resource/Leprecan http://dbpedia.org/resource/LEPRE1
+0,19,Lefty,,http://dbpedia.org/resource/Lefty_(protein) http://dbpedia.org/resource/Lefty_1
+0,20,Latrophilin,,http://dbpedia.org/resource/Latrophilin http://dbpedia.org/resource/Latrophilin_receptor
+0,21,Latent TGF-beta binding protein,,http://dbpedia.org/resource/Latent_TGF-beta_binding_protein http://dbpedia.org/resource/LTBP4 http://dbpedia.org/resource/LTBP1
+0,22,Lanosterol 14 alpha-demethylase,,http://dbpedia.org/resource/Lanosterol_14_alpha-demethylase http://dbpedia.org/resource/14a-demethylase http://dbpedia.org/resource/Cytochrome_P450_14a-demethylase http://dbpedia.org/resource/CYP51A1 http://dbpedia.org/resource/Lanosterol_14-alpha_demethylase http://dbpedia.org/resource/Lanosterol_14_α-demethylase http://dbpedia.org/resource/14α-demethylase http://dbpedia.org/resource/CYP51 http://dbpedia.org/resource/Cytochrome_P450_14α-demethylase http://dbpedia.org/resource/Cytochrome_P450_CYP51_14α-demethylase
+0,23,"Laminin, beta 4",,"http://dbpedia.org/resource/LAMB4 http://dbpedia.org/resource/Laminin,_beta_4"
+0,24,Laforin,,http://dbpedia.org/resource/Laforin
+0,25,LIX1L,,http://dbpedia.org/resource/LIX1L
+0,26,LEM domain-containing protein 3,,http://dbpedia.org/resource/LEM_domain-containing_protein_3 http://dbpedia.org/resource/MAN1 http://dbpedia.org/resource/LEMD3
+0,29,Keratin 6B,,http://dbpedia.org/resource/Keratin_6B http://dbpedia.org/resource/KRT6B
+0,31,KRT84,,http://dbpedia.org/resource/KRT84
+0,32,KRT82,,http://dbpedia.org/resource/KRT82
+0,33,KRT77,,http://dbpedia.org/resource/KRT77
+0,34,KRT76,,http://dbpedia.org/resource/KRT76
+0,36,KRT74,,http://dbpedia.org/resource/KRT74
+0,37,KRT73,,http://dbpedia.org/resource/KRT73
+0,38,KRT72,,http://dbpedia.org/resource/KRT72
+0,39,KRT71,,http://dbpedia.org/resource/KRT71
+0,40,KRT40,,http://dbpedia.org/resource/KRT40
+0,41,KRT39,,http://dbpedia.org/resource/KRT39
+0,42,KRT38,,http://dbpedia.org/resource/KRT38
+0,43,KRT37,,http://dbpedia.org/resource/KRT37
+0,44,KRT35,,http://dbpedia.org/resource/KRT35
+0,45,KRT28,,http://dbpedia.org/resource/KRT28
+0,46,KRT27,,http://dbpedia.org/resource/KRT27
+0,47,KRT26,,http://dbpedia.org/resource/KRT26
+0,48,KRT25,,http://dbpedia.org/resource/KRT25
+0,49,KRT24,,http://dbpedia.org/resource/KRT24
+0,50,KLRA1,,http://dbpedia.org/resource/KLRA1 http://dbpedia.org/resource/KLRAP1 http://dbpedia.org/resource/Ly49
+0,52,Isopentenyl-diphosphate delta isomerase,,http://dbpedia.org/resource/Isopentenyl_pyrophosphate_isomerase http://dbpedia.org/resource/Isopentenyl-diphosphate_delta_isomerase
+0,53,Iron-responsive element-binding protein,,http://dbpedia.org/resource/Iron_responsive_element_binding_protein http://dbpedia.org/resource/IRE_BP http://dbpedia.org/resource/IRE-BP http://dbpedia.org/resource/Iron-responsive_element-binding_protein http://dbpedia.org/resource/Iron-responsive_element_binding_protein http://dbpedia.org/resource/Responsive_element_binding_protein
+0,54,Internexin,,http://dbpedia.org/resource/Alpha-internexin http://dbpedia.org/resource/Internexin
+0,55,Interleukin 28,,http://dbpedia.org/resource/Interleukin-28 http://dbpedia.org/resource/Interleukin_28 http://dbpedia.org/resource/IL28A http://dbpedia.org/resource/IL28
+0,56,Interleukin 27,,http://dbpedia.org/resource/Il-27 http://dbpedia.org/resource/IL27 http://dbpedia.org/resource/IL-27 http://dbpedia.org/resource/Interleukin_27 http://dbpedia.org/resource/Interleukin-27
+0,57,Interleukin 23,http://dbpedia.org/resource/Interleukin_23_subunit_alpha,http://dbpedia.org/resource/Interleukin_23 http://dbpedia.org/resource/Interleukin-23
+0,59,Interleukin 12,,http://dbpedia.org/resource/Interleukin-12 http://dbpedia.org/resource/Interleukin_12 http://dbpedia.org/resource/IL-12_and_IL-12_Receptor_β1_Mutations
+0,60,Interleukin-8 receptor,"http://dbpedia.org/resource/Interleukin_8_receptor,_alpha",http://dbpedia.org/resource/CD128 http://dbpedia.org/resource/Interleukin-8_receptor
+0,61,Interleukin-7 receptor,,http://dbpedia.org/resource/IL7R http://dbpedia.org/resource/CDW127 http://dbpedia.org/resource/Interleukin-7_receptor http://dbpedia.org/resource/Interleukin_7_receptor http://dbpedia.org/resource/IL-7_receptor
+0,62,Interleukin-5 receptor,,http://dbpedia.org/resource/Interleukin_5_receptor http://dbpedia.org/resource/Interleukin-5_receptor http://dbpedia.org/resource/IL-5_receptor http://dbpedia.org/resource/IL5R
+0,63,Interleukin-28 receptor,,http://dbpedia.org/resource/Interleukin_28_receptor http://dbpedia.org/resource/IFNLR http://dbpedia.org/resource/Interferon_lambda_receptor http://dbpedia.org/resource/IL28R http://dbpedia.org/resource/Interleukin-28_receptor http://dbpedia.org/resource/Interferon-lambda_receptor
+0,64,Interleukin-27 receptor,,http://dbpedia.org/resource/Interleukin_27_receptor http://dbpedia.org/resource/IL-27_receptor http://dbpedia.org/resource/Interleukin-27_receptor http://dbpedia.org/resource/IL27R http://dbpedia.org/resource/WSX1
+0,65,Interleukin-22 receptor,,http://dbpedia.org/resource/Receptor_for_interleukin_22 http://dbpedia.org/resource/Interleukin_22_receptor http://dbpedia.org/resource/Interleukin-22_receptor http://dbpedia.org/resource/IL22R
+0,66,Interleukin-20 receptor,,http://dbpedia.org/resource/Interleukin-20_receptor http://dbpedia.org/resource/Interleukin_20_receptor http://dbpedia.org/resource/IL20R
+0,67,Interleukin-1 receptor,,http://dbpedia.org/resource/IL1R http://dbpedia.org/resource/Interleukin-1_receptor http://dbpedia.org/resource/IL-1R http://dbpedia.org/resource/Interleukin_1_receptor
+0,68,Interleukin-18 receptor,,http://dbpedia.org/resource/Interleukin-18_receptor http://dbpedia.org/resource/Interleukin_18_receptor http://dbpedia.org/resource/IL18R http://dbpedia.org/resource/IL-18_receptor
+0,69,Interleukin-17 receptor,,http://dbpedia.org/resource/IL17R http://dbpedia.org/resource/Interleukin-17_receptor http://dbpedia.org/resource/IL-17R http://dbpedia.org/resource/Interleukin_17_receptor
+0,70,Interleukin-15 receptor,,http://dbpedia.org/resource/Interleukin_15_receptor http://dbpedia.org/resource/IL-15_receptor http://dbpedia.org/resource/IL15R http://dbpedia.org/resource/Interleukin-15_receptor
+0,71,Interleukin-13 receptor,,http://dbpedia.org/resource/Interleukin_13_receptor http://dbpedia.org/resource/Interleukin-13_receptor http://dbpedia.org/resource/IL13R http://dbpedia.org/resource/IL-13R http://dbpedia.org/resource/IL-13_receptor
+0,72,Interleukin-12 receptor,,http://dbpedia.org/resource/Interleukin_12_receptor http://dbpedia.org/resource/IL-12_receptor http://dbpedia.org/resource/Interleukin-12_receptor http://dbpedia.org/resource/IL12R
+0,73,Interleukin-11 receptor,,http://dbpedia.org/resource/IL-11_receptor http://dbpedia.org/resource/Interleukin-11_receptor http://dbpedia.org/resource/IL11R http://dbpedia.org/resource/Interleukin_11_receptor
+0,74,Interleukin-10 receptor,,http://dbpedia.org/resource/IL10R http://dbpedia.org/resource/Interleukin-10_receptor http://dbpedia.org/resource/Interleukin_10_receptor
+0,76,Interferon-gamma receptor,http://dbpedia.org/resource/Interferon_gamma_receptor_2,http://dbpedia.org/resource/Interferon-gammareceptor http://dbpedia.org/resource/IFNGR http://dbpedia.org/resource/Interferon_gamma_receptor http://dbpedia.org/resource/INF-γ_receptor http://dbpedia.org/resource/Interferon-gamma_receptor http://dbpedia.org/resource/Interferon-γ_receptor
+0,77,Interferon-alpha/beta receptor,,http://dbpedia.org/resource/Interferon-alpha/beta_receptor http://dbpedia.org/resource/INF-α_receptor http://dbpedia.org/resource/Interferon_alpha/beta_receptor http://dbpedia.org/resource/Interferon-α/β_receptor http://dbpedia.org/resource/IFNAR http://dbpedia.org/resource/Interferon-alpha_receptor
+0,78,Intelectin,,http://dbpedia.org/resource/Intelectin http://dbpedia.org/resource/Omentin
+0,80,Inositol monophosphatase,,http://dbpedia.org/resource/Impase http://dbpedia.org/resource/Inositol_monophosphatase
+0,81,Inorganic pyrophosphatase,,http://dbpedia.org/resource/Inorganic_pyrophosphatase
+0,83,ITPKC,,http://dbpedia.org/resource/ITPKC
+0,84,ITCH,,http://dbpedia.org/resource/ITCH_(biology) http://dbpedia.org/resource/ITCH_(gene)
+0,85,IL22RA2,,http://dbpedia.org/resource/IL22RA2
+0,87,IKBKAP,,http://dbpedia.org/resource/Ikbkap http://dbpedia.org/resource/IKBKAP http://dbpedia.org/resource/IKAP_protein
+0,88,ICAM4,,http://dbpedia.org/resource/Landsteiner-Weiner_antigen_system http://dbpedia.org/resource/Landsteiner-Wiener_antigen_system http://dbpedia.org/resource/ICAM4
+0,89,Hypoxia-inducible factors,http://dbpedia.org/resource/HIF1A,http://dbpedia.org/resource/Hypoxia_inducible_factor_1a http://dbpedia.org/resource/Hypoxia-inducible_factors http://dbpedia.org/resource/Hypoxia-inducible_factor-1 http://dbpedia.org/resource/Hypoxia-inducible_factor http://dbpedia.org/resource/Hypoxia_signaling http://dbpedia.org/resource/Hypoxia_inducible_factor http://dbpedia.org/resource/Hypoxia-inducible_factor_1 http://dbpedia.org/resource/HIF-1 http://dbpedia.org/resource/Hif1 http://dbpedia.org/resource/Hypoxia_Inducible_Factors http://dbpedia.org/resource/Hypoxia_inducible_factors http://dbpedia.org/resource/Hypoxia_Inducible_Factor
+0,96,Holocarboxylase synthetase,,http://dbpedia.org/resource/Holocarboxylase_synthetase http://dbpedia.org/resource/HLCS
+0,98,High-molecular-weight kininogen,,"http://dbpedia.org/resource/High-molecular_weight_kininogen http://dbpedia.org/resource/High-molecular-weight_kininogen http://dbpedia.org/resource/Kininogen,_high-molecular-weight http://dbpedia.org/resource/Williams-Fitzgerald-Flaujeac_factor http://dbpedia.org/resource/High_molecular_weight_kininogen http://dbpedia.org/resource/Fitzgerald_factor http://dbpedia.org/resource/KNG1"
+0,99,Heterochromatin protein 1,,http://dbpedia.org/resource/Chromobox_homolog_3 http://dbpedia.org/resource/Heterochromatin_protein_1 http://dbpedia.org/resource/Chromobox_homolog_5 http://dbpedia.org/resource/Chromobox_Homolog http://dbpedia.org/resource/Chromobox_homolog_1 http://dbpedia.org/resource/Heterochromatin_Protein_1
+0,101,Hepatocyte nuclear factors,http://dbpedia.org/resource/Hepatocyte_nuclear_factor_4_alpha,http://dbpedia.org/resource/Hepatocyte_nuclear_factors http://dbpedia.org/resource/Hepatocyte_nuclear_factor
+0,102,Hepatocyte nuclear factor 4,http://dbpedia.org/resource/Hepatocyte_nuclear_factor_4_alpha,http://dbpedia.org/resource/HNF4 http://dbpedia.org/resource/Hepatocyte_nuclear_factor_4 http://dbpedia.org/resource/Hnf4
+0,103,Hepatic fructokinase,,http://dbpedia.org/resource/Ketohexokinase http://dbpedia.org/resource/ATP:D-fructose_1-phosphotransferase http://dbpedia.org/resource/EC_2.7.1.3 http://dbpedia.org/resource/Hepatic_fructokinase
+0,104,HSPA1B,,http://dbpedia.org/resource/HSPA1B http://dbpedia.org/resource/Hspa1b
+0,105,HSPA12A,,http://dbpedia.org/resource/HSPA12A
+0,108,HS1BP3,http://dbpedia.org/resource/HAX1,http://dbpedia.org/resource/HS1BP3
+0,109,HMGA,,http://dbpedia.org/resource/HMGA
+0,110,HLA-DO,,http://dbpedia.org/resource/HLA-DO
+0,111,HLA-DM,,http://dbpedia.org/resource/HLA-DM http://dbpedia.org/resource/MHC_II_DM
+0,113,H1FNT,,http://dbpedia.org/resource/H1FNT
+0,114,H1F0,,http://dbpedia.org/resource/H1F0
+0,118,Growth hormone-binding protein,,http://dbpedia.org/resource/Growth_hormone-binding_protein http://dbpedia.org/resource/Growth_hormone_binding_protein
+0,119,Growth hormone,,http://dbpedia.org/resource/Nutropin_AQ http://dbpedia.org/resource/Somatropin http://dbpedia.org/resource/Somatotropic_factor http://dbpedia.org/resource/Placental_growth_hormone http://dbpedia.org/resource/Human_growth_hormone http://dbpedia.org/resource/Somatotropic_hormone http://dbpedia.org/resource/Somatotrophin http://dbpedia.org/resource/Somatotropin http://dbpedia.org/resource/Antigrowth_hormone http://dbpedia.org/resource/HGH http://dbpedia.org/resource/Human_Growth_Hormone http://dbpedia.org/resource/ATC_code_H01AC01 http://dbpedia.org/resource/Asellacrin_10 http://dbpedia.org/resource/Somatotrophic_hormone http://dbpedia.org/resource/HECTOTROPE http://dbpedia.org/resource/Somatropin_recombinant http://dbpedia.org/resource/Tev-Tropin http://dbpedia.org/resource/ZENOSIM http://dbpedia.org/resource/Growth_Hormone http://dbpedia.org/resource/Growth_hormones http://dbpedia.org/resource/Growth_hormone http://dbpedia.org/resource/Crescormon http://dbpedia.org/resource/ATCvet_code_QH01AC01 http://dbpedia.org/resource/Accretropin http://dbpedia.org/resource/Hgh http://dbpedia.org/resource/Recombinant_human_growth_hormone http://dbpedia.org/resource/HGH_pills_and_releasers
+0,121,Gremlin,,http://dbpedia.org/resource/Gremlin_(protein) http://dbpedia.org/resource/GREM1 http://dbpedia.org/resource/CKTFS1B1
+0,124,Gonadotropin-releasing hormone receptor,,"http://dbpedia.org/resource/Receptors,_lhrh http://dbpedia.org/resource/LHRH_receptor http://dbpedia.org/resource/GnRH_receptor http://dbpedia.org/resource/Human_Gonadotropin_Releasing_Hormone_Type_I_Receptor http://dbpedia.org/resource/Gonadotropin-releasing_hormone_receptor http://dbpedia.org/resource/LHRHR"
+0,126,Glycophorin C,,http://dbpedia.org/resource/Gerbich_antigen_system http://dbpedia.org/resource/Glycophorin_C http://dbpedia.org/resource/CD236
+0,127,Glyceronephosphate O-acyltransferase,,http://dbpedia.org/resource/EC_2.3.1.42 http://dbpedia.org/resource/DHAPAT http://dbpedia.org/resource/Glycerone-phosphate_O-acyltransferase http://dbpedia.org/resource/Glyceronephosphate_O-acyltransferase http://dbpedia.org/resource/GNPAT http://dbpedia.org/resource/Acyl-CoA:glycerone-phosphate_O-acyltransferase
+0,128,Glutathione synthetase,,http://dbpedia.org/resource/Glutathione_synthetase
+0,129,Glutamyl aminopeptidase,,http://dbpedia.org/resource/Angiotensinase_A http://dbpedia.org/resource/Glutamyl_aminopeptidase http://dbpedia.org/resource/Angiotensinase_A2 http://dbpedia.org/resource/Aspartate_aminopeptidase http://dbpedia.org/resource/EC_3.4.11.7 http://dbpedia.org/resource/Glutamyl_peptidase http://dbpedia.org/resource/ENPEP http://dbpedia.org/resource/L-aspartate_aminopeptidase http://dbpedia.org/resource/Ca2+-activated_glutamate_aminopeptidase http://dbpedia.org/resource/Antigen_BP-1/6C3_of_mouse_B_lymphocytes http://dbpedia.org/resource/CD249 http://dbpedia.org/resource/Membrane_aminopeptidase_II http://dbpedia.org/resource/Aminopeptidase_A
+0,131,Glia maturation factor,,http://dbpedia.org/resource/Glia_maturation_factor
+0,133,Gastric lipase,,http://dbpedia.org/resource/Gastric_lipase
+0,136,Galanin receptor,,"http://dbpedia.org/resource/Receptors,_galanin http://dbpedia.org/resource/Galanin_receptor"
+0,137,Galanin-like peptide,,http://dbpedia.org/resource/Galanin-like_peptide
+0,138,Galactokinase,,http://dbpedia.org/resource/GALK1 http://dbpedia.org/resource/ATP:D-galactose_1-phosphotransferase http://dbpedia.org/resource/Galactokinase http://dbpedia.org/resource/EC_2.7.1.6
+0,139,G protein-coupled receptor kinase 7,,http://dbpedia.org/resource/G_protein-coupled_receptor_kinase_7
+0,142,GPR137B,,http://dbpedia.org/resource/GPR137B
+0,146,GLYCAM1,,http://dbpedia.org/resource/GLYCAM1 http://dbpedia.org/resource/GlyCAM1 http://dbpedia.org/resource/GLYCAM-1 http://dbpedia.org/resource/GlyCAM-1
+0,147,GLUT8,,http://dbpedia.org/resource/GLUT8 http://dbpedia.org/resource/SLC2A8
+0,148,GLIS2,,http://dbpedia.org/resource/GLIS2 http://dbpedia.org/resource/NPHP7
+0,150,GDP-fucose protein O-fucosyltransferase 2,http://dbpedia.org/resource/GDP-fucose_protein_O-fucosyltransferase_1,http://dbpedia.org/resource/GDP-fucose_protein_O-fucosyltransferase_2
+0,153,GABAA-rho receptor,,http://dbpedia.org/resource/GABA_C_receptor http://dbpedia.org/resource/GABAC_receptor http://dbpedia.org/resource/GABAA-rho_receptor
+0,155,Fukutin-related protein,,http://dbpedia.org/resource/Fukutin-related_protein http://dbpedia.org/resource/FKRP
+0,156,Frzb,,http://dbpedia.org/resource/Frzb
+0,157,"Fructose 1,6-bisphosphatase",,"http://dbpedia.org/resource/D-fructose-1,6-bisphosphate_1-phosphohydrolase http://dbpedia.org/resource/Fructose-1,6-bisphosphatase_deficiency http://dbpedia.org/resource/Fructose_1,6-bisphosphatase http://dbpedia.org/resource/Fructose-1,6-bisphosphatase http://dbpedia.org/resource/EC_3.1.3.11"
+0,158,Free fatty acid receptor,,http://dbpedia.org/resource/Free_fatty_acid_receptor
+0,159,Formyl peptide receptor,,http://dbpedia.org/resource/Formyl_peptide http://dbpedia.org/resource/FPR1_(gene) http://dbpedia.org/resource/Formyl_peptide_receptor
+0,160,Formins,,http://dbpedia.org/resource/FMN1 http://dbpedia.org/resource/Formins http://dbpedia.org/resource/Fh_domain http://dbpedia.org/resource/Formin
+0,161,Formimidoyltransferase cyclodeaminase,,http://dbpedia.org/resource/Formimidoyltransferase_cyclodeaminase http://dbpedia.org/resource/FTCD http://dbpedia.org/resource/Formiminotransferase_cyclodeaminase http://dbpedia.org/resource/Protein:FTCD
+0,162,Follicle-stimulating hormone,,http://dbpedia.org/resource/FSH_level http://dbpedia.org/resource/ATCvet_code_QG03GA90 http://dbpedia.org/resource/Basal_FSH http://dbpedia.org/resource/Follicle_Simulating_Hormone http://dbpedia.org/resource/ATC_code_G03GA05 http://dbpedia.org/resource/FSH_(Follicle-Stimulating_hormone) http://dbpedia.org/resource/High_fsh http://dbpedia.org/resource/Follicle-Stimulating_Hormone http://dbpedia.org/resource/High_FSH http://dbpedia.org/resource/Follicle_stimulating_hormone http://dbpedia.org/resource/Human_Follicle-Stimulating_Hormone http://dbpedia.org/resource/Follicle_simulating_hormone http://dbpedia.org/resource/Follicle-stimulating_hormone http://dbpedia.org/resource/Follicle_Stimulating_Hormone http://dbpedia.org/resource/FSH_levels http://dbpedia.org/resource/BFSH http://dbpedia.org/resource/ATCvet_code_QG03GA05
+0,165,Fibrillin,http://dbpedia.org/resource/Fibrillin_1,http://dbpedia.org/resource/FBN3 http://dbpedia.org/resource/FBN2 http://dbpedia.org/resource/Fibrillin
+0,168,Ferredoxin,,http://dbpedia.org/resource/Ferredoxins http://dbpedia.org/resource/Ferredoxin http://dbpedia.org/resource/Ferrodoxin http://dbpedia.org/resource/Fe2S2
+0,170,Fascin,,http://dbpedia.org/resource/Fascin
+0,171,Factor XIII,,"http://dbpedia.org/resource/Factor_XIIIa http://dbpedia.org/resource/Fibrin-stabilizing_factor http://dbpedia.org/resource/Coagulation_factor_XIII http://dbpedia.org/resource/Factor_XIII http://dbpedia.org/resource/Protein-glutamine_g-glutamyltransferase http://dbpedia.org/resource/EC_2.3.2.13 http://dbpedia.org/resource/Factor_xiiia http://dbpedia.org/resource/Factor_XIII_deficiency,_congenital http://dbpedia.org/resource/Factor_xiii"
+0,173,FXYD6,,http://dbpedia.org/resource/FXYD6
+0,174,FUT4,,http://dbpedia.org/resource/FUT4
+0,175,FKBP6,,http://dbpedia.org/resource/FKBP6
+0,176,FGF22,,http://dbpedia.org/resource/FGF22
+0,177,FGF20,,http://dbpedia.org/resource/FGF20
+0,179,FGF11,,http://dbpedia.org/resource/FGF11

@@ -1,0 +1,4 @@
+"F1: 0.80000","Precision: 0.80000","Recall: 0.80000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","4","KAIT-DT2","http://dbpedia.org/resource/KAIT","http://dbpedia.org/resource/KAIT-DT2"
+"0","6","KAHC-LD","http://dbpedia.org/resource/KTPN-LD","http://dbpedia.org/resource/KAHC-LD http://dbpedia.org/resource/KAHC-LP"

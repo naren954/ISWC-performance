@@ -1,0 +1,9 @@
+F1: 0.74074,Precision: 0.74074,Recall: 0.74074,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,Siege of Fort Harrison,"http://dbpedia.org/resource/Fort_Harrison,_Indiana",http://dbpedia.org/resource/Battle_of_fort_harrison http://dbpedia.org/resource/Battle_of_Fort_Harrison http://dbpedia.org/resource/Siege_of_Fort_Harrison http://dbpedia.org/resource/Joseph_Lenar
+0,6,Siege of Fort Augustus,http://dbpedia.org/resource/Siege_of_Fort_Augustus_(March_1746),http://dbpedia.org/resource/Siege_of_Fort_Augustus_(December_1745)
+0,16,Siege of Esztergom,http://dbpedia.org/resource/Siege_of_Esztergom_(1543),http://dbpedia.org/resource/Siege_of_Esztergom_(1241)
+0,23,Siege of Edessa,http://dbpedia.org/resource/Siege_of_Edessa_(1144),http://dbpedia.org/resource/Fall_of_Edessa http://dbpedia.org/resource/Siege_of_Edessa http://dbpedia.org/resource/The_Siege_of_Edessa
+0,25,Siege of Dura Europos,http://dbpedia.org/resource/Siege_of_Dura-Europos_(256),http://dbpedia.org/resource/Siege_of_Dura_Europos_(256) http://dbpedia.org/resource/Siege_of_Dura_Europos_(253)
+0,26,Siege of Dunlap's Station,http://dbpedia.org/resource/Battle_of_Monte_Cassino,http://dbpedia.org/resource/Siege_of_Dunlap's_Station
+0,27,Siege of Dunkirk,http://dbpedia.org/resource/Battle_of_the_Dunes_(1658),http://dbpedia.org/resource/Siege_of_Dunkirk_(1793) http://dbpedia.org/resource/Siege_of_Dunkirk_(1794)

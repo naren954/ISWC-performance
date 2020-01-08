@@ -1,0 +1,30 @@
+F1: 0.20000,Precision: 0.20000,Recall: 0.20000,,
+Col,Row,Value,Submitted URI,Correct URI's
+5,2,"McKinlay, Jackson (2), M O'Neill",http://dbpedia.org/resource/Madlib,http://dbpedia.org/resource/Billy_McKinlay
+5,3,Jackson,"http://dbpedia.org/resource/Jackson_(footballer,_born_1988)",http://dbpedia.org/resource/Darren_Jackson
+5,6,"Bowman, Van der Hoorn, Ferguson",http://dbpedia.org/resource/Fred_van_der_Hoorn,"http://dbpedia.org/resource/David_Bowman_(footballer_born_1964) http://dbpedia.org/resource/David_Bowman_(footballer,_born_1964) http://dbpedia.org/resource/Dave_Bowman_(footballer,_born_1964)"
+5,7,Ferguson,http://dbpedia.org/resource/Alex_Ferguson,http://dbpedia.org/resource/Duncan_Ferguson_(Scottish_football_player) http://dbpedia.org/resource/Big_Dunc http://dbpedia.org/resource/Duncan_Ferguson_(footballer) http://dbpedia.org/resource/Duncan_Ferguson
+5,8,Ferguson,http://dbpedia.org/resource/Alex_Ferguson,http://dbpedia.org/resource/Duncan_Ferguson_(Scottish_football_player) http://dbpedia.org/resource/Big_Dunc http://dbpedia.org/resource/Duncan_Ferguson_(footballer) http://dbpedia.org/resource/Duncan_Ferguson
+5,9,"Bollan, Malpas",http://dbpedia.org/resource/Maurice_Malpas,http://dbpedia.org/resource/Gary_Bollan
+5,10,"Ferreyra (2), Ferguson, Paatelainen",http://dbpedia.org/resource/Facundo_Ferreyra,http://dbpedia.org/resource/Victor_Ferreyra
+5,13,French,http://dbpedia.org/resource/Luke_French,http://dbpedia.org/resource/Hamish_French
+5,14,"Clark, Ferguson, Paatelainen",,"http://dbpedia.org/resource/John_Clark_(footballer,_born_1964) http://dbpedia.org/resource/John_Clark_(footballer_born_1964)"
+5,15,"McKinnon, Jackson, Ferguson",http://dbpedia.org/resource/Jackson_Ferguson,http://dbpedia.org/resource/Ray_McKinnon_(footballer)
+5,16,McInally,http://dbpedia.org/resource/Alan_McInally,http://dbpedia.org/resource/Jim_McInally
+5,17,"Jackson, Bowman",http://dbpedia.org/resource/Ken_Bowman,http://dbpedia.org/resource/Darren_Jackson
+5,19,"Ferreyra, Own goal",http://dbpedia.org/resource/Frank_Talia,http://dbpedia.org/resource/Victor_Ferreyra
+5,22,Jackson,"http://dbpedia.org/resource/Jackson_(footballer,_born_1988)",http://dbpedia.org/resource/Darren_Jackson
+5,23,Welsh,http://dbpedia.org/resource/John_Welsh_(English_footballer),http://dbpedia.org/resource/Brian_Welsh
+5,27,"Jackson (2), Ferguson, Paatelainen",http://dbpedia.org/resource/Jackson_Ferguson,http://dbpedia.org/resource/Darren_Jackson
+5,28,"McKinnon, Jackson (2)",,http://dbpedia.org/resource/Ray_McKinnon_(footballer)
+5,29,"Jackson, Ferreyra",http://dbpedia.org/resource/Victor_Ferreyra,http://dbpedia.org/resource/Darren_Jackson
+5,30,McInally,http://dbpedia.org/resource/Alan_McInally,http://dbpedia.org/resource/Jim_McInally
+5,31,Ferguson,http://dbpedia.org/resource/Alex_Ferguson,http://dbpedia.org/resource/Duncan_Ferguson_(Scottish_football_player) http://dbpedia.org/resource/Big_Dunc http://dbpedia.org/resource/Duncan_Ferguson_(footballer) http://dbpedia.org/resource/Duncan_Ferguson
+5,33,"Cleland, Ferguson",http://dbpedia.org/resource/Adair_Ferguson,http://dbpedia.org/resource/Alexander_Cleland http://dbpedia.org/resource/Alec_Cleland http://dbpedia.org/resource/Alex_Clelland http://dbpedia.org/resource/Alex_Cleland
+5,38,"McInally, Ferreyra",http://dbpedia.org/resource/Alan_McInally,http://dbpedia.org/resource/Jim_McInally
+5,39,Ferguson,http://dbpedia.org/resource/Alex_Ferguson,http://dbpedia.org/resource/Duncan_Ferguson_(Scottish_football_player) http://dbpedia.org/resource/Big_Dunc http://dbpedia.org/resource/Duncan_Ferguson_(footballer) http://dbpedia.org/resource/Duncan_Ferguson
+5,40,"Cleland, Bowman",http://dbpedia.org/resource/Ryan_Bowman,http://dbpedia.org/resource/Alexander_Cleland http://dbpedia.org/resource/Alec_Cleland http://dbpedia.org/resource/Alex_Clelland http://dbpedia.org/resource/Alex_Cleland
+5,41,McInally,http://dbpedia.org/resource/Alan_McInally,http://dbpedia.org/resource/Jim_McInally
+5,42,"Malpas, Ferguson",http://dbpedia.org/resource/Adair_Ferguson,http://dbpedia.org/resource/Maurice_Malpas
+5,43,Ferguson,http://dbpedia.org/resource/Alex_Ferguson,http://dbpedia.org/resource/Duncan_Ferguson_(Scottish_football_player) http://dbpedia.org/resource/Big_Dunc http://dbpedia.org/resource/Duncan_Ferguson_(footballer) http://dbpedia.org/resource/Duncan_Ferguson
+5,44,"Johnson, Ferguson",http://dbpedia.org/resource/Chris_Ferguson,http://dbpedia.org/resource/Grant_Johnson_(footballer)

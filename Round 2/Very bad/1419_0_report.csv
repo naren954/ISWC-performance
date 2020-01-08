@@ -1,0 +1,51 @@
+F1: 0.23438,Precision: 0.23438,Recall: 0.23438,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Duryu Station,http://dbpedia.org/resource/Duryu_station,http://dbpedia.org/resource/Duryu_Station
+0,2,Dublin Connolly DART station,http://dbpedia.org/resource/Connolly_station,http://dbpedia.org/resource/Dublin_Connolly_DART_station http://dbpedia.org/resource/Dublin_Connolly_Junction_railway_station
+0,5,Dongwon Station,http://dbpedia.org/resource/Dongwon_station,http://dbpedia.org/resource/Dongwon_Station
+0,6,Dongnae Station,http://dbpedia.org/resource/Dongnae_station_(Korail),http://dbpedia.org/resource/Dongnae_Station_(Busan_Metro)
+0,7,Dongdaesin Station,http://dbpedia.org/resource/Dongdaesin_station,http://dbpedia.org/resource/Dongdaesin_Station
+0,8,Dongdaegu Station,http://dbpedia.org/resource/Dongdaegu_station,http://dbpedia.org/resource/Dongdaegu http://dbpedia.org/resource/Dongdaegu_Station http://dbpedia.org/resource/DongDaeGu_Station
+0,9,Dongcheon Station,http://dbpedia.org/resource/Dongcheon_station_(Yongin),http://dbpedia.org/resource/Dongcheon_Station_(Daegu)
+0,10,Dongbaek Station,http://dbpedia.org/resource/Dongbaek_station,http://dbpedia.org/resource/Dongbaek_Station http://dbpedia.org/resource/Dongbaek_Station_(Busan)
+0,11,Dong-eui University Station,http://dbpedia.org/resource/Dong-eui_University_station,http://dbpedia.org/resource/Dong-eui_University_Station
+0,14,Deokpo Station,http://dbpedia.org/resource/Deokpo_station,http://dbpedia.org/resource/Deokpo_Station
+0,15,Deokcheon Station,http://dbpedia.org/resource/Deokcheon_station,http://dbpedia.org/resource/Deokcheon_Station
+0,16,Dasa Station,http://dbpedia.org/resource/Dasa_station,http://dbpedia.org/resource/Dasa_Station
+0,17,Dangni Station,http://dbpedia.org/resource/Dangni_station,http://dbpedia.org/resource/Dangni_Station
+0,18,Damti Station,http://dbpedia.org/resource/Damti_station,http://dbpedia.org/resource/Damti_Station
+0,19,Dalseong Park Station,"http://dbpedia.org/resource/Sandown_Park_railway_station,_Melbourne",http://dbpedia.org/resource/Dalseong_Park_Station
+0,21,Daeyeon Station,http://dbpedia.org/resource/Daeyeon_station,http://dbpedia.org/resource/Daeyeon_Station
+0,22,Daeti Station,http://dbpedia.org/resource/Daeti_station,http://dbpedia.org/resource/Daeti_Station
+0,23,Daesil Station,http://dbpedia.org/resource/Daesil_station,http://dbpedia.org/resource/Daesil_Station
+0,24,Daemyeong Station,http://dbpedia.org/resource/Daemyeong_station,http://dbpedia.org/resource/Daemyeong_Station http://dbpedia.org/resource/DaeMyeong_Station
+0,25,Daejeo Station,http://dbpedia.org/resource/Daejeo_station,http://dbpedia.org/resource/Daejeo_Station http://dbpedia.org/resource/Daejeo_LRT_Station
+0,26,Daegu Station,http://dbpedia.org/resource/Daegok_station_(Daegu_Metro),http://dbpedia.org/resource/Daegu_Station http://dbpedia.org/resource/DaeGu_Station
+0,27,Daegu Grand Park Station,http://dbpedia.org/resource/Daegu_Grand_Park_station,http://dbpedia.org/resource/Daegu_Grand_Park_Station
+0,28,Daegu Bank Station,http://dbpedia.org/resource/Daegu_Bank_station,http://dbpedia.org/resource/Daegu_Bank_Station
+0,29,Daegok Station,http://dbpedia.org/resource/Daegok_station_(Daegu_Metro),http://dbpedia.org/resource/DaeGok.Station_(Daegu) http://dbpedia.org/resource/Daegok_Station_(Daegu)
+0,30,Daebonggyo Station,http://dbpedia.org/resource/Daebonggyo_station,http://dbpedia.org/resource/Daebonggyo_Station
+0,31,Culture Complex Station,http://dbpedia.org/resource/Culture_Complex_station,http://dbpedia.org/resource/Culture_Complex_Station
+0,32,City Hall Station,http://dbpedia.org/resource/City_Hall_station_(Seoul),http://dbpedia.org/resource/City_Hall_Station_(Busan)
+0,33,Choryang Station,http://dbpedia.org/resource/Choryang_station,http://dbpedia.org/resource/Choryang_Station
+0,34,Chilseong Market Station,http://dbpedia.org/resource/Chilseong_Market_station,http://dbpedia.org/resource/Chilseong_Market_Station http://dbpedia.org/resource/Chilseong_Station http://dbpedia.org/resource/ChilSeongSiJang_Station
+0,35,Chilgok Kyungpook National University Medical Center Station,http://dbpedia.org/resource/Chilgok_Kyungpook_National_University_Medical_Center_station,http://dbpedia.org/resource/Kyungpook_National_University_Medical_Center_Station http://dbpedia.org/resource/Chilgok_Kyungpook_National_University_Medical_Center_Station http://dbpedia.org/resource/KNU_Medical_Center_Station
+0,36,Chilgok-Unam Station,http://dbpedia.org/resource/Chilgok-Unam_station,http://dbpedia.org/resource/Chilgok-Unam_Station
+0,37,Children's Hall Station,"http://dbpedia.org/resource/Town_Hall_railway_station,_Melbourne",http://dbpedia.org/resource/Children's_Hall_Station
+0,38,Centum City Station,http://dbpedia.org/resource/Pentagon_City_station,http://dbpedia.org/resource/Centum_City_Station
+0,42,Busanjin Station,http://dbpedia.org/resource/Busanjin_station_(Korail),http://dbpedia.org/resource/Busanjin_Station_(Busan_Metro)
+0,43,Busan Station,http://dbpedia.org/resource/Busan_station,http://dbpedia.org/resource/Busan_Station http://dbpedia.org/resource/Busan_Station_Station
+0,44,Busan National University of Education Station,http://dbpedia.org/resource/Busan_National_University_of_Education_station,http://dbpedia.org/resource/Busan_Nat'l_Univ._of_Education_Station http://dbpedia.org/resource/Busan_National_University_of_Education_Station
+0,45,Busan Museum of Art Station,http://dbpedia.org/resource/BEXCO_station,http://dbpedia.org/resource/Busan_Museum_of_Art_Station
+0,46,Busan International Finance Center–Busan Bank Station,http://dbpedia.org/resource/Busan_International_Finance_Center–Busan_Bank_station,http://dbpedia.org/resource/Busan_International_Finance_Center·Busan_Bank_Station http://dbpedia.org/resource/Busan_International_Finance_Center-Busan_Bank_Station http://dbpedia.org/resource/Munjeon_Station http://dbpedia.org/resource/Busan_International_Finance_Center–Busan_Bank_Station
+0,47,Buk-gu Office Station,http://dbpedia.org/resource/Dong-gu_Office_station,http://dbpedia.org/resource/Buk-gu_Office_Station
+0,48,Bujeon Station,http://dbpedia.org/resource/Bujeon_station_(Busan_Metro),http://dbpedia.org/resource/Bujeon_Station_(Busan_Metro)
+0,49,Buam Station,http://dbpedia.org/resource/Buam_station,http://dbpedia.org/resource/Buam_Station
+0,52,Beomnaegol Station,http://dbpedia.org/resource/Beomnaegol_station,http://dbpedia.org/resource/Beomnaegol_Station
+0,53,Beomil Station,http://dbpedia.org/resource/Beomil_Station_(Korail),http://dbpedia.org/resource/Beomil_Station_(Busan_Metro)
+0,54,Beomeosa Station,http://dbpedia.org/resource/Beomeosa_station,http://dbpedia.org/resource/Beomeosa_Station
+0,55,Beomeo Station,http://dbpedia.org/resource/Beomeo_station,http://dbpedia.org/resource/Beomeo_Station
+0,56,Banwoldang Station,http://dbpedia.org/resource/Banwoldang_station,http://dbpedia.org/resource/BanWolDang_Station http://dbpedia.org/resource/Banwoldang_Station
+0,57,Bangogae Station,http://dbpedia.org/resource/Bangogae_station,http://dbpedia.org/resource/Bangogae_Station
+0,60,Baesan Station,http://dbpedia.org/resource/Baesan_station,http://dbpedia.org/resource/Baesan_Station
+0,63,Ansim Station,http://dbpedia.org/resource/Ansim_station,http://dbpedia.org/resource/Ansim_Station

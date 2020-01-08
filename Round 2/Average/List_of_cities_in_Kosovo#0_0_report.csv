@@ -1,0 +1,4 @@
+F1: 0.71429,Precision: 0.71429,Recall: 0.71429,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,5,PejÃ« \/ PeÄ\u0087,http://dbpedia.org/resource/Beijing,http://dbpedia.org/resource/Peć
+0,8,GjakovÃ« \/ Ä\u0090akovica,,"http://dbpedia.org/resource/Gjakovë http://dbpedia.org/resource/Ðakovica http://dbpedia.org/resource/Yakova http://dbpedia.org/resource/Đakovica,_Serbia http://dbpedia.org/resource/Đakovica http://dbpedia.org/resource/History_of_Gjakova http://dbpedia.org/resource/Gjakova_city http://dbpedia.org/resource/Gjakova_Municipality http://dbpedia.org/resource/Djakovica http://dbpedia.org/resource/Gjakove http://dbpedia.org/resource/Komuna_e_Gjakovës http://dbpedia.org/resource/Djakovica_Municipality http://dbpedia.org/resource/Gjakova http://dbpedia.org/resource/Dakovica http://dbpedia.org/resource/Gjakovarian http://dbpedia.org/resource/Dakovica_(Gjakove) http://dbpedia.org/resource/Dakovica,_Serbia"

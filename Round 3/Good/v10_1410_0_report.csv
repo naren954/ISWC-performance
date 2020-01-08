@@ -1,0 +1,8 @@
+F1: 0.82857,Precision: 0.82857,Recall: 0.82857,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,Dev,http://dbpedia.org/resource/Dev_(singer),http://dbpedia.org/resource/Dev_(DJ) http://dbpedia.org/resource/Devin_Griffin http://dbpedia.org/resource/Dev_Griffin
+0,7,C. Bryant,http://dbpedia.org/resource/William_Cullen_Bryant,"http://dbpedia.org/resource/Cubby_Bryant http://dbpedia.org/resource/Paul_""Cubby""_Bryant"
+0,15,C. T. God,http://dbpedia.org/resource/Ali,http://dbpedia.org/resource/Charlamagne_Tha_God http://dbpedia.org/resource/South_Crack:_The_Album_(Charlemagne_Tha_God_album)
+0,18,B. James,http://dbpedia.org/resource/Etta_James,http://dbpedia.org/resource/Brian_James_(radio_personality) http://dbpedia.org/resource/Brian_James_(Media_Personality)
+0,23,B. Jackson,http://dbpedia.org/resource/Bernard_Jackson_(defensive_back),http://dbpedia.org/resource/Bill_Jackson_(television_personality)
+0,35,""". S. Payne",http://dbpedia.org/resource/Stanley_G._Payne,"http://dbpedia.org/resource/""Sunshine""_Sonny_Payne http://dbpedia.org/resource/Sunshine_Sonny_Payne http://dbpedia.org/resource/Sonny_“Sunshine”_Payne http://dbpedia.org/resource/John_William_Payne"

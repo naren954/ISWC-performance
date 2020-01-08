@@ -1,0 +1,5 @@
+F1: 0.85714,Precision: 0.85714,Recall: 0.85714,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,4,I. Festetics,http://dbpedia.org/resource/Antal_Festetics,http://dbpedia.org/resource/Imre_Festetics
+0,12,I. Maclean,http://dbpedia.org/resource/Norman_Maclean,http://dbpedia.org/resource/Ida_Maclean http://dbpedia.org/resource/Ida_Smedley-Maclean http://dbpedia.org/resource/Ida_Smedley_Maclean http://dbpedia.org/resource/Ida_Smedley
+0,17,I. Campbell,"http://dbpedia.org/resource/John_Campbell,_1st_Baron_Campbell",http://dbpedia.org/resource/Iain_Campbell_(biophysicist) http://dbpedia.org/resource/Iain_Campbell_(academic)

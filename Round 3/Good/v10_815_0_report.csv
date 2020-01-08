@@ -1,0 +1,34 @@
+F1: 0.80723,Precision: 0.80723,Recall: 0.80723,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,Paul F. Murphy House,http://dbpedia.org/resource/Paul_C._Murphy_House,http://dbpedia.org/resource/Paul_F._Murphy_House
+0,4,"Parkridge, Knoxville, Tennessee","http://dbpedia.org/resource/Knoxville,_Tennessee","http://dbpedia.org/resource/Park_City_Historic_District_(Knoxville,_Tennessee) http://dbpedia.org/resource/Parkridge,_Knoxville,_Tennessee http://dbpedia.org/resource/Parkridge_(Knoxville,_Tennessee)"
+0,9,Palace of Fine Arts,"http://dbpedia.org/resource/Centre_for_Fine_Arts,_Brussels",http://dbpedia.org/resource/Palace_of_fine_arts http://dbpedia.org/resource/Palace_of_Fine_Arts http://dbpedia.org/resource/The_Palace_of_Fine_Arts_is_in_Need_of_Plants http://dbpedia.org/resource/The_Palace_of_Fine_Arts http://dbpedia.org/resource/Palace_Of_Fine_Arts
+0,10,Palace Theatre,"http://dbpedia.org/resource/Palace_Theatre_(Albany,_New_York)","http://dbpedia.org/resource/Palace_Theatre_(Cincinnati,_Ohio) http://dbpedia.org/resource/Palace_Theater_(Cincinnati,_Ohio)"
+0,11,Palace Theatre,"http://dbpedia.org/resource/Palace_Theatre_(Albany,_New_York)","http://dbpedia.org/resource/Palace_Theatre_(Canton,_Ohio) http://dbpedia.org/resource/Palace_Theater_(Canton,_Ohio)"
+0,19,PS 11,http://dbpedia.org/resource/PS10_solar_power_plant,http://dbpedia.org/resource/Public_School_11 http://dbpedia.org/resource/PS_11_(Bronx)
+0,22,Oxford Historic District,"http://dbpedia.org/resource/Oxford_Historic_District_(Oxford,_Pennsylvania)","http://dbpedia.org/resource/Oxford_Historic_District_(Oxford,_Georgia)"
+0,33,Orpheum Theater,"http://dbpedia.org/resource/Orpheum_Theatre_(Madison,_Wisconsin)","http://dbpedia.org/resource/Orpheum_Theater_(New_Orleans) http://dbpedia.org/resource/Orpheum_Theatre_(New_Orleans) http://dbpedia.org/resource/Orpheum_Theater_(New_Orleans,_Louisiana) http://dbpedia.org/resource/Orpheum_Theatre_(New_Orleans,_Louisiana)"
+0,47,Old Westbrook High School,http://dbpedia.org/resource/Old_Watertown_High_School,http://dbpedia.org/resource/Old_Westbrook_High_School
+0,51,Old Post Office,"http://dbpedia.org/resource/Old_Post_Office_(Albuquerque,_New_Mexico)","http://dbpedia.org/resource/Old_Post_Office_(Biddeford,_Maine)"
+0,54,Old New England Building,http://dbpedia.org/resource/St_Paul's_Cathedral,http://dbpedia.org/resource/Old_New_England_Building
+0,59,Old Main,"http://dbpedia.org/resource/Old_Main,_Augustana_College",http://dbpedia.org/resource/Old_Main_(Nicholas_County_High_School) http://dbpedia.org/resource/Old_Nicholas_County_High_School
+0,60,Old Main,"http://dbpedia.org/resource/Old_Main,_Augustana_College",http://dbpedia.org/resource/Old_Main_(Bethany_College)
+0,62,Old Louisiana State Capitol,http://dbpedia.org/resource/Louisiana_State_Capitol,http://dbpedia.org/resource/Old_Louisiana_State_Capital http://dbpedia.org/resource/Old_Louisiana_State_Capitol
+0,68,Old Federal Reserve Bank Building,"http://dbpedia.org/resource/Federal_Reserve_Bank_Building_(Little_Rock,_Arkansas)","http://dbpedia.org/resource/Old_Federal_Reserve_Bank_Building_(San_Francisco) http://dbpedia.org/resource/Federal_Reserve_Bank_of_San_Francisco_Building_(San_Francisco,_California) http://dbpedia.org/resource/Federal_Reserve_Bank_Building_of_San_Francisco http://dbpedia.org/resource/Federal_Reserve_Bank_Building_(San_Francisco,_California) http://dbpedia.org/resource/Federal_Reserve_Bank_of_San_Francisco_(San_Francisco,_California) http://dbpedia.org/resource/Federal_Reserve_Bank_Building_(San_Francisco)"
+0,73,Old Courthouse,http://dbpedia.org/resource/Old_Courthouse_(St._Louis),"http://dbpedia.org/resource/Old_Courthouse_(Newberry,_South_Carolina)"
+0,74,Old College Historic District,http://dbpedia.org/resource/Marycrest_College_Historic_District,http://dbpedia.org/resource/Old_College_Historic_District
+0,75,"Old City, Knoxville, Tennessee","http://dbpedia.org/resource/Old_Customs_House_(Knoxville,_Tennessee)","http://dbpedia.org/resource/Old_City,_Knoxville http://dbpedia.org/resource/Old_City,_Knoxville,_Tennessee http://dbpedia.org/resource/Old_City_Knoxville http://dbpedia.org/resource/Old_City_(Knoxville)"
+0,86,Odd Fellows Hall,"http://dbpedia.org/resource/Odd_Fellows_Hall_(Cambridge,_Massachusetts)","http://dbpedia.org/resource/Odd_Fellows_Hall_(Sandusky,_Ohio) http://dbpedia.org/resource/Independent_Order_of_Odd_Fellows_Temple_(Sandusky,_Ohio)"
+0,88,Odd Fellows Block,"http://dbpedia.org/resource/Odd_Fellows_Hall_(Sandusky,_Ohio)","http://dbpedia.org/resource/Odd_Fellows_Block_(Lewiston,_Maine)"
+0,89,Odd Fellows' Home,http://dbpedia.org/resource/Caldwell_Odd_Fellow_Home_for_the_Aged,"http://dbpedia.org/resource/Odd_Fellows'_Home_(Worcester,_Massachusetts)"
+0,92,Oakwood-Chimborazo Historic District,http://dbpedia.org/resource/Vine–Oakwood–Green_Bay_Road_Historic_District,"http://dbpedia.org/resource/Oakwood--Chimborazo_Historic_District http://dbpedia.org/resource/Chimborazo,_Virginia http://dbpedia.org/resource/Oakwood-Chimborazo_Historic_District http://dbpedia.org/resource/Chimborazo,_Richmond http://dbpedia.org/resource/Oakwood,_Richmond,_Virginia"
+0,93,Oakley Farm,"http://dbpedia.org/resource/Oakley_(Upperville,_Virginia)","http://dbpedia.org/resource/Oakley_Farm_(Warm_Springs,_Virginia)"
+0,94,Oakley,"http://dbpedia.org/resource/Oakley,_Utah","http://dbpedia.org/resource/Oakley_(Gallatin,_Tennessee)"
+0,95,Oaklands,http://dbpedia.org/resource/Oaklands_Historic_House_Museum,"http://dbpedia.org/resource/Oaklands_(Gardiner,_Maine)"
+0,97,Oak Hill Cemetery,"http://dbpedia.org/resource/Oak_Hill_Cemetery_(Lebanon,_Indiana)","http://dbpedia.org/resource/Oak_Hill_Cemetery_(Evansville,_Indiana)"
+0,110,Northern Pacific Railway Depot,"http://dbpedia.org/resource/Northern_Pacific_Railway_Depot_(Bismarck,_North_Dakota)","http://dbpedia.org/resource/Northern_Pacific_Railway_Depot_(Fargo,_North_Dakota)"
+0,116,North Jefferson Street Historic District,"http://dbpedia.org/resource/Jefferson_Street_Historic_District_(Bluefield,_West_Virginia)",http://dbpedia.org/resource/North_Jefferson_Street_Historic_District
+0,129,New Milford,http://dbpedia.org/resource/Connecticut,http://dbpedia.org/resource/New_Milford_(Housatonic_Railroad_Station) http://dbpedia.org/resource/New_Milford_(Metro-North_station) http://dbpedia.org/resource/Housatonic_Railroad_Station
+0,133,New Imperial Hotel,"http://dbpedia.org/resource/Imperial_Hotel_(Portland,_Oregon)","http://dbpedia.org/resource/New_Imperial_Hotel,_(Portland,_Oregon) http://dbpedia.org/resource/Hotel_Lucia http://dbpedia.org/resource/New_Imperial_Hotel http://dbpedia.org/resource/New_Imperial_Hotel_(Portland,_Oregon)"
+0,150,Nashville Children's Museum,http://dbpedia.org/resource/Seattle_Children's_Museum,http://dbpedia.org/resource/Nashville_Children's_Museum
+0,163,Municipal Building,http://dbpedia.org/resource/John_A._Wilson_Building,"http://dbpedia.org/resource/Municipal_Building_(Bluefield,_West_Virginia)"

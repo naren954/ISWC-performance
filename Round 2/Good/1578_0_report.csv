@@ -1,0 +1,7 @@
+F1: 0.77273,Precision: 0.77273,Recall: 0.77273,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,4,Kitty Can,http://dbpedia.org/resource/Kitty_Can_(album),http://dbpedia.org/resource/Kitty_Can
+0,7,Kiss Kiss Kiss,http://dbpedia.org/resource/Kiss_Kiss_Kiss_(KAT-TUN_song),http://dbpedia.org/resource/Kiss_Kiss_Kiss_(Yoko_Ono_song)
+0,8,Kiss,http://dbpedia.org/resource/Kiss_(Mai_Kuraki_song),http://dbpedia.org/resource/Kiss_(Prince_song) http://dbpedia.org/resource/Kiss_(Art_of_Noise_song) http://dbpedia.org/resource/Kiss_(Tom_Jones_song) http://dbpedia.org/resource/Kisspower
+0,9,Kiss & Cry,http://dbpedia.org/resource/Beautiful_World_(Utada_Hikaru_song),http://dbpedia.org/resource/Kiss_&_Cry_(song)
+0,10,Kings and Queens,http://dbpedia.org/resource/Kings_and_Queens_(Thirty_Seconds_to_Mars_song),http://dbpedia.org/resource/Kings_and_Queens_(Killing_Joke_song)

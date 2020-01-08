@@ -1,0 +1,12 @@
+F1: 0.83871,Precision: 0.83871,Recall: 0.83871,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,17,V. Jackson,http://dbpedia.org/resource/Vincent_Jackson,http://dbpedia.org/resource/Vestee_Jackson
+0,26,V. Butler,http://dbpedia.org/resource/Victor_Butler,http://dbpedia.org/resource/Vernon_Butler
+0,33,V. Martin,http://dbpedia.org/resource/Vernon_Martin,http://dbpedia.org/resource/Vaughn_Martin
+0,40,V. Green,http://dbpedia.org/resource/Virgil_Green,http://dbpedia.org/resource/Van_Green
+0,49,T. Jackson,http://dbpedia.org/resource/Tarvaris_Jackson,http://dbpedia.org/resource/Anthony_Tyson_Jackson http://dbpedia.org/resource/Tyson_Jackson
+0,50,T. Thompson,http://dbpedia.org/resource/Tommy_Thompson_(quarterback),http://dbpedia.org/resource/Tyrus_Thompson
+0,51,T. Green,http://dbpedia.org/resource/Trent_Green,http://dbpedia.org/resource/Tyronne_Green
+0,53,T. Williams,http://dbpedia.org/resource/Thomas_Williams_(American_football),http://dbpedia.org/resource/Tyrone_Williams_(wide_receiver)
+0,54,T. Williams,http://dbpedia.org/resource/Thomas_Williams_(American_football),http://dbpedia.org/resource/Tyrone_Williams_(American_football_cornerback) http://dbpedia.org/resource/Upton_Tyrone_Williams http://dbpedia.org/resource/Tyrone_Williams_(cornerback)
+0,62,T. Davis,http://dbpedia.org/resource/Terrell_Davis,http://dbpedia.org/resource/Tyrone_Davis_(American_football) http://dbpedia.org/resource/Tyrone_Davis_(football_player)

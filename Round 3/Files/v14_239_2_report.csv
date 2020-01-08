@@ -1,0 +1,7 @@
+"F1: 0.68750","Precision: 0.68750","Recall: 0.68750"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"2","1","A. Foerster","http://dbpedia.org/resource/Viktor_Foerster","http://dbpedia.org/resource/Anna_J._Foerster http://dbpedia.org/resource/Anna_Foerster"
+"2","2","S. Hickox","http://dbpedia.org/resource/Richard_Hickox","http://dbpedia.org/resource/Sidney_Hickox http://dbpedia.org/resource/Sid_Hickox"
+"2","4","L. Ballard","http://dbpedia.org/resource/Lucinda_Ballard","http://dbpedia.org/resource/Lucien_Ballard"
+"2","10","H. S. Sr.","http://dbpedia.org/resource/George_H._W._Bush","http://dbpedia.org/resource/Harry_Stradling http://dbpedia.org/resource/Stradling http://dbpedia.org/resource/Harry_Stradling_Sr."
+"2","14","E. Miller","http://dbpedia.org/resource/Ernest_Miller_(cinematographer)","http://dbpedia.org/resource/Ernest_Miller http://dbpedia.org/resource/Ernest_""The_Cat""_Miller http://dbpedia.org/resource/Ernest_Miller_(wrestler)"

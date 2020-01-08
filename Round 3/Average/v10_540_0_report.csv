@@ -1,0 +1,10 @@
+F1: 0.61905,Precision: 0.61905,Recall: 0.61905,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,R. Ivers,http://fr.dbpedia.org/resource/Mette_Ivers,http://dbpedia.org/resource/Robert_Ivers http://dbpedia.org/resource/Robert_ivers
+0,2,R. Horton,http://dbpedia.org/resource/Lester_Horton,"http://dbpedia.org/resource/Robert_Horton_(actor) http://dbpedia.org/resource/Meade_Howard_Horton,_Jr."
+0,5,R. Ellis,http://dbpedia.org/resource/Richard_Ellis_(paediatrician),"http://dbpedia.org/resource/Bob_Ellis_(actor_born_1892) http://dbpedia.org/resource/Robert_du_Reel_Ellis http://dbpedia.org/resource/Robert_Ellis_(actor_born_1892) http://dbpedia.org/resource/Robert_Ellis_(actor,_born_1892) http://dbpedia.org/resource/Bob_Ellis_(actor,_born_1892)"
+0,6,R. Dirks,http://dbpedia.org/resource/Rudolph_Dirks,http://dbpedia.org/resource/Robert_Dirks
+0,9,R. Brown,http://dbpedia.org/resource/Roy_Brown_(blues_musician),http://dbpedia.org/resource/Robert_Brown_(British_actor)
+0,11,R. Arthur,"http://dbpedia.org/resource/Arthur_Wellesley,_1st_Duke_of_Wellington",http://dbpedia.org/resource/Robert_Paul_Arthaud http://dbpedia.org/resource/Robert_Arthaud http://dbpedia.org/resource/Robert_Arthur_(actor)
+0,14,R. Johnson,http://dbpedia.org/resource/Robert_Johnson,http://dbpedia.org/resource/Rita_A._Johnson http://dbpedia.org/resource/Rita_Johnson http://dbpedia.org/resource/Rita_McSean
+0,18,R. Yan,http://dbpedia.org/resource/Romina_Yan,http://dbpedia.org/resource/Rico_Yan

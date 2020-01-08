@@ -1,0 +1,20 @@
+F1: 0.90323,Precision: 0.90323,Recall: 0.90323,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,2,D. Dorofeyev,http://dbpedia.org/resource/Artyom_Dorofeyev,http://dbpedia.org/resource/Dmitry_Dorofeyev http://dbpedia.org/resource/Dorofeev http://dbpedia.org/resource/Дорофеев http://dbpedia.org/resource/Dmitry_Dorofeev http://dbpedia.org/resource/Dmitry_Dorofeyev_(speed_skater)
+3,4,S. Davis,http://dbpedia.org/resource/Suzanne_Davis_(figure_skater),http://dbpedia.org/resource/Shani_Davis http://dbpedia.org/resource/Shauni_Davis http://dbpedia.org/resource/Shawny_Davis http://dbpedia.org/resource/Shawni_Davis
+3,12,D. Dorofeyev,http://dbpedia.org/resource/Artyom_Dorofeyev,http://dbpedia.org/resource/Dmitry_Dorofeyev http://dbpedia.org/resource/Dorofeev http://dbpedia.org/resource/Дорофеев http://dbpedia.org/resource/Dmitry_Dorofeev http://dbpedia.org/resource/Dmitry_Dorofeyev_(speed_skater)
+3,14,S. Davis,http://dbpedia.org/resource/Suzanne_Davis_(figure_skater),http://dbpedia.org/resource/Shani_Davis http://dbpedia.org/resource/Shauni_Davis http://dbpedia.org/resource/Shawny_Davis http://dbpedia.org/resource/Shawni_Davis
+3,22,H. Shimizu,http://dbpedia.org/resource/Kohei_Shimizu,http://dbpedia.org/resource/Hiroyasu_Shimizu
+3,32,H. Shimizu,http://dbpedia.org/resource/Kohei_Shimizu,http://dbpedia.org/resource/Hiroyasu_Shimizu
+3,82,T. Kuroiwa,http://dbpedia.org/resource/Akira_Kuroiwa,http://dbpedia.org/resource/Toshiyuki_Kuroiwa
+3,84,Å. Søndrål,http://dbpedia.org/resource/Hans_á_Lag,http://dbpedia.org/resource/Adne_Sondral http://dbpedia.org/resource/Ådne_Søndrål
+3,92,T. Kuroiwa,http://dbpedia.org/resource/Akira_Kuroiwa,http://dbpedia.org/resource/Toshiyuki_Kuroiwa
+3,94,Å. Søndrål,http://dbpedia.org/resource/Hans_á_Lag,http://dbpedia.org/resource/Adne_Sondral http://dbpedia.org/resource/Ådne_Søndrål
+3,134,S. Becker,http://dbpedia.org/resource/Sean_Becker,http://dbpedia.org/resource/Sabine_Becker
+3,139,K. A. Stenshjemmet,http://dbpedia.org/resource/K._Maneesha,http://dbpedia.org/resource/Kay_Arne_Stenshjemmet http://dbpedia.org/resource/Kay_Stenshjemmet
+3,143,S. Becker,http://dbpedia.org/resource/Sean_Becker,http://dbpedia.org/resource/Sabine_Becker
+3,148,K. A. Stenshjemmet,http://dbpedia.org/resource/K._Maneesha,http://dbpedia.org/resource/Kay_Arne_Stenshjemmet http://dbpedia.org/resource/Kay_Stenshjemmet
+3,153,S. Young,"http://dbpedia.org/resource/Scott_Young_(ice_hockey,_born_1967)",http://dbpedia.org/resource/Sheila_Young http://dbpedia.org/resource/Sheila_Young_Ochowitz
+3,155,V. Muratov,http://dbpedia.org/resource/Valentin_Muratov,http://dbpedia.org/resource/Valery_Muratov
+3,161,S. Young,"http://dbpedia.org/resource/Scott_Young_(ice_hockey,_born_1967)",http://dbpedia.org/resource/Sheila_Young http://dbpedia.org/resource/Sheila_Young_Ochowitz
+3,163,V. Muratov,http://dbpedia.org/resource/Valentin_Muratov,http://dbpedia.org/resource/Valery_Muratov

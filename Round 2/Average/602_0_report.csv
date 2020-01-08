@@ -1,0 +1,15 @@
+F1: 0.66667,Precision: 0.66667,Recall: 0.66667,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,4,P. Mead,http://dbpedia.org/resource/Phil_Mead,http://dbpedia.org/resource/Pete_Mead
+0,6,P. Sievert,http://dbpedia.org/resource/Hans-Heinrich_Sievert,http://dbpedia.org/resource/Paul_Sievert
+0,7,P. Luty,"http://ru.dbpedia.org/resource/Лютый,_Владислав_Алексеевич",http://dbpedia.org/resource/Paul_Luty
+0,8,P. Cummings,http://dbpedia.org/resource/Pat_Cummings,http://dbpedia.org/resource/Paul_Cummings
+0,9,P. Anderson,http://dbpedia.org/resource/Poul_Anderson,http://dbpedia.org/resource/Paul_Anderson_(weightlifter) http://dbpedia.org/resource/Paul_Edward_Anderson
+0,11,P. Ozanne,http://dbpedia.org/resource/Pierre_Ozanne,http://dbpedia.org/resource/Patricia_Ozanne
+0,12,P. Porter,http://dbpedia.org/resource/Peter_Porter_(poet),http://dbpedia.org/resource/Pat_Porter
+0,15,P. L. Roy,http://dbpedia.org/resource/Pierre_Le_Roy,http://dbpedia.org/resource/Paresh_Lal_Roy
+0,17,P. May,http://dbpedia.org/resource/Phil_May_(athlete),http://dbpedia.org/resource/Pamela_May
+0,22,O. Kuka,http://dbpedia.org/resource/Ray_Kuka,http://dbpedia.org/resource/Oso_Kuka
+0,23,O. Cox,http://dbpedia.org/resource/Somers_Cox,http://dbpedia.org/resource/Oscar_Cox
+0,31,N. White,http://dbpedia.org/resource/Nera_White,http://dbpedia.org/resource/Nolan_White
+0,38,N. Neville,http://dbpedia.org/resource/Allen_Toussaint,http://dbpedia.org/resource/Neville_Neville http://dbpedia.org/resource/Neville_neville

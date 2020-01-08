@@ -1,0 +1,11 @@
+F1: 0.59091,Precision: 0.59091,Recall: 0.59091,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,T. Hyde,http://dbpedia.org/resource/Jonathan_Hyde,http://dbpedia.org/resource/Tanya_Hyde
+0,5,S. Dee,http://de.dbpedia.org/resource/Sophie_Dee,http://dbpedia.org/resource/Sophie_Dee http://dbpedia.org/resource/Kirsty_Hill
+0,8,R. Rotten,http://dbpedia.org/resource/Bonnie_Rotten,http://dbpedia.org/resource/Rob_Rotten
+0,9,R. Hamasaki,http://fr.dbpedia.org/resource/Rio_Hamasaki,http://dbpedia.org/resource/Rio_Hamasaki
+0,12,N. Thorn,http://de.dbpedia.org/resource/Nautica_Thorn,http://dbpedia.org/resource/Nautica_Thorn
+0,13,N. Zeta,http://de.dbpedia.org/resource/Natalia_Zeta,http://dbpedia.org/resource/Natalia_Zeta http://dbpedia.org/resource/Natalia_Z
+0,14,M. Dawn,http://dbpedia.org/resource/Misty_Dawn,http://dbpedia.org/resource/Misti_Dawn
+0,16,L. M. Abato,http://dbpedia.org/resource/M,http://dbpedia.org/resource/Lisa_Marie_Abato http://dbpedia.org/resource/Holly_Ryder
+0,17,L. Leeane,http://fr.dbpedia.org/resource/Leilani_Leeane,http://dbpedia.org/resource/Leilani_Leeane http://dbpedia.org/resource/Leilani_Leeanne http://dbpedia.org/resource/Leilani_Leanne

@@ -1,0 +1,7 @@
+F1: 0.16667,Precision: 0.16667,Recall: 0.16667,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,5,Best Visual Effects,http://dbpedia.org/resource/BAFTA_Award_for_Best_Special_Visual_Effects,http://dbpedia.org/resource/Critics'_Choice_Movie_Award_for_Best_Visual_Effects http://dbpedia.org/resource/Broadcast_Film_Critics_Association_Award_for_Best_Visual_Effects
+1,10,Best Science Fiction Film,http://dbpedia.org/resource/Aurealis_Award_for_best_science_fiction_novel,http://dbpedia.org/resource/Saturn_Award_for_Best_Science_Fiction_Film http://dbpedia.org/resource/Saturn_award_for_best_science_fiction_film
+1,11,Best Director,http://dbpedia.org/resource/Filmfare_Award_for_Best_Director,http://dbpedia.org/resource/Saturn_Award_for_Best_Directior http://dbpedia.org/resource/Saturn_Award_for_Best_Director http://dbpedia.org/resource/Saturn_Award_for_Best_Direction http://dbpedia.org/resource/Saturn_award_for_best_direction
+1,13,Best Editing,http://dbpedia.org/resource/BAFTA_Award_for_Best_Editing,http://dbpedia.org/resource/Saturn_Award_for_Outstanding_Editing http://dbpedia.org/resource/Saturn_Award_for_Best_Editing
+1,14,Best Special Effects,http://dbpedia.org/resource/BAFTA_Award_for_Best_Special_Visual_Effects,http://dbpedia.org/resource/Saturn_award_for_best_special_effects http://dbpedia.org/resource/Saturn_Award_for_Best_Special_Effects

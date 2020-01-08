@@ -1,0 +1,5 @@
+F1: 0.89286,Precision: 0.89286,Recall: 0.89286,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,2,SeÃ¡n Boylan,http://dbpedia.org/resource/Lee_Boylan,http://dbpedia.org/resource/Seán_Boylan
+3,15,Aaron Kernan,http://dbpedia.org/resource/Joe_E._Kernan,http://dbpedia.org/resource/Aaron_Kernan
+3,26,Tom Parsons,http://dbpedia.org/resource/Tom_Parsons_(cricketer),http://dbpedia.org/resource/Tom_Parsons_(footballer)

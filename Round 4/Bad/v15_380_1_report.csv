@@ -1,0 +1,85 @@
+F1: 0.38971,Precision: 0.38971,Recall: 0.38971,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,John D. F. Black,http://dbpedia.org/resource/John_Kerry,http://dbpedia.org/resource/John_D._F._Black http://dbpedia.org/resource/John_DF_Black http://dbpedia.org/resource/John_D.F._Black http://dbpedia.org/resource/Ralph_Wills http://dbpedia.org/resource/John_D_F_Black
+1,3,K. Sullivan,http://dbpedia.org/resource/John_Sullivan_(writer),http://dbpedia.org/resource/Sullivan_Entertainment http://dbpedia.org/resource/Love_on_the_Land http://dbpedia.org/resource/Love_on_the_land http://dbpedia.org/resource/Kevin_Sullivan_(producer) http://dbpedia.org/resource/Kevin_Sullivan_(director)
+1,5,F. D. Henderson,http://dbpedia.org/resource/Thomas_Finlayson_Henderson,http://dbpedia.org/resource/Felicia_D._Henderson http://dbpedia.org/resource/Felicia_Henderson
+1,6,A. Davies,http://dbpedia.org/resource/Robertson_Davies,http://dbpedia.org/resource/Andrew_Davies_(screenwriter) http://dbpedia.org/resource/Andrew_Davies_(writer)
+1,8,N. V. Murphy,http://dbpedia.org/resource/Audie_Murphy,http://dbpedia.org/resource/Nick_Vincent_Murphy http://dbpedia.org/resource/Nick_Murphy_(Writer) http://dbpedia.org/resource/Nick_Murphy_(writer)
+1,10,C. Wood,http://dbpedia.org/resource/Charles_Wood_(composer),http://dbpedia.org/resource/Charles_Wood_(playwright)
+1,11,M. Fine,http://dbpedia.org/resource/Sylvia_Fine,http://dbpedia.org/resource/Morton_S._Fine http://dbpedia.org/resource/Morton_Fine
+1,13,B. Fuller,http://dbpedia.org/resource/Buckminster_Fuller,http://dbpedia.org/resource/Brian_Fuller http://dbpedia.org/resource/The_Fullerverse http://dbpedia.org/resource/Bryan_Fuller
+1,17,A. Sandor,http://dbpedia.org/resource/Sándor_Márai,http://dbpedia.org/resource/Anna_Sandor
+1,18,S. Sook-hyang,http://dbpedia.org/resource/Indra,http://dbpedia.org/resource/Seo_Sook-hyang
+1,19,W. Bernstein,http://dbpedia.org/resource/Henri_Bernstein,http://dbpedia.org/resource/Walter_Bernstein
+1,20,G. D. Pego,http://fr.dbpedia.org/resource/A._D._G.,http://dbpedia.org/resource/Gerald_Di_Pego
+1,23,C. Swenson,http://dbpedia.org/resource/Karl_Swenson,http://dbpedia.org/resource/Charles_Swenson
+1,24,N. Roberts,http://dbpedia.org/resource/Robert_the_Bruce,http://dbpedia.org/resource/Jd_robb http://dbpedia.org/resource/Eleanor_Marie_Robertson http://dbpedia.org/resource/Nora_Roberts http://dbpedia.org/resource/Sarah_Hardesty http://dbpedia.org/resource/Eleanor_Marie_Robertson_Smith http://dbpedia.org/resource/J._D._Robb http://dbpedia.org/resource/Jill_March http://dbpedia.org/resource/Eleanor_Marie_Robertson_Smith_Wilder
+1,26,T. Saint,http://dbpedia.org/resource/Tyler_Saint,http://dbpedia.org/resource/Tony_Saint
+1,27,M. Palin,http://dbpedia.org/resource/Sarah_Palin,"http://dbpedia.org/resource/Micheal_palin http://dbpedia.org/resource/Hemingway's_Chair http://dbpedia.org/resource/Palin,_Michael_Edward http://dbpedia.org/resource/Michael_Pallin http://dbpedia.org/resource/Palinesque http://dbpedia.org/resource/Michael_Palin http://dbpedia.org/resource/Michael_pallin http://dbpedia.org/resource/Michael_Edward_Palin http://dbpedia.org/resource/Palin,_Michael http://dbpedia.org/resource/Michael_palin"
+1,29,Thirumurugan,http://dbpedia.org/resource/Thirumurugan_Veeran,http://dbpedia.org/resource/Thirumurugan
+1,31,D. Schneider,http://dbpedia.org/resource/Romy_Schneider,http://dbpedia.org/resource/Dan_Schneider_(film_professional) http://dbpedia.org/resource/Daniel_Schneider_(TV_producer) http://dbpedia.org/resource/Dan_Schneider_(TV_producer) http://dbpedia.org/resource/Daniel_James_Schneider http://dbpedia.org/resource/Dan_James_Schneider http://dbpedia.org/resource/Dan_Schneider_(producer) http://dbpedia.org/resource/Dan_Schneider_(TV_&_Movie_Producer/Writer/Actor) http://dbpedia.org/resource/Dan_Schneider_(actor)
+1,33,H. Moin,http://dbpedia.org/resource/Mohammad_Moin,http://dbpedia.org/resource/Hasina_Moin http://dbpedia.org/resource/Haseena_Moin
+1,34,M. Malik,http://dbpedia.org/resource/Meghna_Malik,http://dbpedia.org/resource/Maha_Malik
+1,37,J. Bixby,http://dbpedia.org/resource/Bill_Bixby,http://dbpedia.org/resource/Jerome_Bixby
+1,38,M. Carlson,http://dbpedia.org/resource/Richard_Carlson_(author),http://dbpedia.org/resource/Matthew_Carlson
+1,40,P. Bales,http://dbpedia.org/resource/David_Bale,http://dbpedia.org/resource/Paul_Bales
+1,42,B. Edwards,http://dbpedia.org/resource/Bernard_Edwards,"http://dbpedia.org/resource/William_Blake_McEdwards http://dbpedia.org/resource/William_Blake_Crump http://dbpedia.org/resource/A_Blake_Edwards_Production http://dbpedia.org/resource/Edwards,_Blake http://dbpedia.org/resource/Blake_Edwards"
+1,43,A. Cymek,,http://dbpedia.org/resource/Andrew_Cymek
+1,44,A. Marx,http://dbpedia.org/resource/Karl_Marx,http://dbpedia.org/resource/Arthur_Marx http://dbpedia.org/resource/Arthur_Julius_Marx http://dbpedia.org/resource/Arthur_Marx_(writer)
+1,45,R. Kibbee,http://dbpedia.org/resource/Guy_Kibbee,http://dbpedia.org/resource/Roland_Kibbee
+1,47,M. Jacobs,http://dbpedia.org/resource/Marc_Jacobs,http://dbpedia.org/resource/Michael_Jacobs
+1,48,J. Gannon,http://dbpedia.org/resource/Michael_Gannon_(historian),http://dbpedia.org/resource/Joe_Gannon
+1,49,E. Gann,http://dbpedia.org/resource/Jason_Gann,http://dbpedia.org/resource/Ernest_K._Gann http://dbpedia.org/resource/Ernie_Gann http://dbpedia.org/resource/Ernest_Gann
+1,52,B. Hall,http://dbpedia.org/resource/Basil_Hall,http://dbpedia.org/resource/Barbara_Hall_(TV_producer) http://dbpedia.org/resource/Barbara_Hall_(writer_and_producer)
+1,53,L. Abud,http://dbpedia.org/resource/Juan_José_Guerra_Abud,"http://dbpedia.org/resource/Liliana_Abud http://dbpedia.org/resource/Abud,_Liliana"
+1,54,F. Bernini,http://dbpedia.org/resource/Gian_Lorenzo_Bernini,http://dbpedia.org/resource/Franco_Bernini
+1,58,G. Savory,http://dbpedia.org/resource/Allan_Savory,http://dbpedia.org/resource/Gerald_Savory http://dbpedia.org/resource/George_and_Margaret
+1,59,K. Taylor,http://dbpedia.org/resource/Kendall_Taylor,http://dbpedia.org/resource/Ken_Taylor_(writer) http://dbpedia.org/resource/Kenneth_Heywood_Taylor http://dbpedia.org/resource/Ken_Taylor_(scriptwriter) http://dbpedia.org/resource/Kenneth_Taylor_(scriptwriter)
+1,61,A. Suhrwardy,,http://dbpedia.org/resource/Adeel_Suhrwardy
+1,62,S. Martin,http://dbpedia.org/resource/Dean_Martin,http://dbpedia.org/resource/Suzanne_Martin
+1,63,J. Eisendrath,http://dbpedia.org/resource/J._J._Philbin,http://dbpedia.org/resource/John_Eisendrath
+1,64,A. Carothers,http://dbpedia.org/resource/Wallace_Carothers,http://dbpedia.org/resource/A.J._Carothers http://dbpedia.org/resource/AJ_Carothers
+1,65,M. Demos,"http://ru.dbpedia.org/resource/Демор,_Жан",http://dbpedia.org/resource/Moira_Demos
+1,66,D. Horsfield,http://dbpedia.org/resource/Thomas_Horsfield,http://dbpedia.org/resource/Debbie_Horsfield
+1,67,A. Winfrey,http://dbpedia.org/resource/Oprah_Winfrey,http://dbpedia.org/resource/Squid_and_Frog http://dbpedia.org/resource/Muffin_Films http://dbpedia.org/resource/Amy_Winfrey
+1,68,B. Ansari,http://dbpedia.org/resource/Aziz_Ansari,http://dbpedia.org/resource/Bushra_Ansari
+1,70,S. Harcourt,http://dbpedia.org/resource/Mike_Harcourt,http://dbpedia.org/resource/Stewart_Harcourt
+1,71,G. Cooper,http://dbpedia.org/resource/Gary_Cooper,http://dbpedia.org/resource/Giles_Cooper
+1,75,J. M. Howson,http://dbpedia.org/resource/John_Manuel_Cook,http://dbpedia.org/resource/Hollywood_Howson http://dbpedia.org/resource/John_Michael_Howson http://dbpedia.org/resource/John-Michael_Howson
+1,76,E. Jones,http://dbpedia.org/resource/David_Bowie,http://dbpedia.org/resource/Evan_Jones_(writer)
+1,78,M. Haynes,http://dbpedia.org/resource/D._E._L._Haynes,http://dbpedia.org/resource/Marc_Haynes
+1,79,L. Silverstone,http://dbpedia.org/resource/Marilyn_Silverstone,http://dbpedia.org/resource/Lou_Silverstone
+1,80,U. Ahmed,http://dbpedia.org/resource/Sara_Ahmed_(weightlifter),http://dbpedia.org/resource/Umera_Ahmad http://dbpedia.org/resource/Umera_ahmed http://dbpedia.org/resource/Umera_Ahmed http://dbpedia.org/resource/Umaira_Ahmed http://dbpedia.org/resource/Umaira_Ahmad http://dbpedia.org/resource/Zindagi_Gulzar_Hai_(novel) http://dbpedia.org/resource/Lahasil http://dbpedia.org/resource/Umaira_ahmed
+1,81,Kajari,,http://dbpedia.org/resource/Kajari
+1,82,G. Long,http://dbpedia.org/resource/Gia_Long,http://dbpedia.org/resource/Gu_Long http://dbpedia.org/resource/Xiong_Yaohua http://dbpedia.org/resource/熊耀華 http://dbpedia.org/resource/古龍
+1,83,W. Gluck,http://dbpedia.org/resource/Christoph_Willibald_Gluck,http://dbpedia.org/resource/Will_Gluck http://dbpedia.org/resource/Stealing_the_Moon http://dbpedia.org/resource/Stealing_the_Moon_(film) http://dbpedia.org/resource/William_Gluck http://dbpedia.org/resource/Secretaries_Day_(film)
+1,84,T. Hellier,http://fr.dbpedia.org/resource/Pierre_Hellier,http://dbpedia.org/resource/Trudy_Hellier
+1,90,J. Hay,"http://dbpedia.org/resource/Lord_John_Hay_(Royal_Navy_officer,_born_1827)","http://dbpedia.org/resource/Hay,_John http://dbpedia.org/resource/John_Milton_Hay http://dbpedia.org/resource/John_Hay http://dbpedia.org/resource/John_M._Hay"
+1,91,D. Butler,"http://dbpedia.org/resource/James_Butler,_2nd_Duke_of_Ormonde",http://dbpedia.org/resource/David_Butler_(screenwriter)
+1,94,T. R. Smith,http://dbpedia.org/resource/John_Raphael_Smith,http://dbpedia.org/resource/Tom_Rob_Smith
+1,97,B. O'Brien,http://dbpedia.org/resource/Barry_O'Brien,http://dbpedia.org/resource/Ben_o'brien http://dbpedia.org/resource/Ben_O'Brien
+1,98,B. Kerby,http://dbpedia.org/resource/Edwin_Kerby,http://dbpedia.org/resource/Bill_Kerby
+1,100,A. Davies,http://dbpedia.org/resource/Robertson_Davies,http://dbpedia.org/resource/Andrew_Davies_(screenwriter) http://dbpedia.org/resource/Andrew_Davies_(writer)
+1,102,R. Muller,http://dbpedia.org/resource/Richard_Müller_(singer),"http://dbpedia.org/resource/Romeo_muller http://dbpedia.org/resource/Romeo_Muller,_Jr. http://dbpedia.org/resource/Romeo_Muller"
+1,108,T. J. Greenwald,http://dbpedia.org/resource/J._T._Walsh,http://dbpedia.org/resource/Todd_J._Greenwald http://dbpedia.org/resource/Todd_J_Greenwald
+1,110,E. Weston,http://dbpedia.org/resource/Edward_Weston,http://dbpedia.org/resource/Ellen_Weston
+1,111,D. McIntyre,http://dbpedia.org/resource/Arthur_McIntyre_(artist),http://dbpedia.org/resource/Doug_McIntyre http://dbpedia.org/resource/Doug_mcintyre
+1,115,B. Devlin,http://dbpedia.org/resource/Don_Devlin,http://dbpedia.org/resource/Bernard_Devlin_(director)
+1,116,J. Winfield,http://dbpedia.org/resource/Paul_Winfield,http://dbpedia.org/resource/Jess_Winfield
+1,117,E. Canfor-Dumas,http://dbpedia.org/resource/Alexandre_Dumas,http://dbpedia.org/resource/Edward_Canfor-Dumas
+1,118,P. Pedersen,http://dbpedia.org/resource/Niels-Henning_Ørsted_Pedersen,http://dbpedia.org/resource/Peder_Pedersen_(director)
+1,119,J. Derevlany,http://dbpedia.org/resource/J._J._Philbin,http://dbpedia.org/resource/John_Derevlany
+1,120,C. Abbott,http://dbpedia.org/resource/John_Abbott,"http://dbpedia.org/resource/Chris_Abbott http://dbpedia.org/resource/Abbott,_Chris"
+1,121,P. Milne,http://dbpedia.org/resource/John_Milne,http://dbpedia.org/resource/Paula_Milne
+1,123,A. D. Miles,http://de.dbpedia.org/resource/Wyndham_D._Miles,http://dbpedia.org/resource/A.D._Miles http://dbpedia.org/resource/A_D_Miles http://dbpedia.org/resource/AD_Miles http://dbpedia.org/resource/A._D._Miles
+1,124,R. Clarke,http://dbpedia.org/resource/Ron_Clarke,http://dbpedia.org/resource/Roy_Clarke
+1,125,S. Wainwright,http://dbpedia.org/resource/Rufus_Wainwright,http://dbpedia.org/resource/Sally_Wainwright
+1,126,G. M. Hickman,http://dbpedia.org/resource/Annie_M._G._Schmidt,http://dbpedia.org/resource/Gail_Morgan_Hickman http://dbpedia.org/resource/Gail_Hickman
+1,128,D. Mankiewicz,http://dbpedia.org/resource/Tom_Mankiewicz,http://dbpedia.org/resource/Don_Mankiewicz http://dbpedia.org/resource/Don_M._Mankiewicz
+1,129,J. Goode,http://dbpedia.org/resource/John_Goode,http://dbpedia.org/resource/Jeff_Goode
+1,130,W. Ahmad,,http://dbpedia.org/resource/Waseem_Ahmad_(Hockey_Captain_Pakistan) http://dbpedia.org/resource/Waseem_Ahmad
+1,131,L. Abud,http://dbpedia.org/resource/Juan_José_Guerra_Abud,"http://dbpedia.org/resource/Liliana_Abud http://dbpedia.org/resource/Abud,_Liliana"
+1,132,W. M. Finkelstein,http://dbpedia.org/resource/Moses_Finley,http://dbpedia.org/resource/William_M._Finkelstein http://dbpedia.org/resource/William_Finklestein http://dbpedia.org/resource/William_Finkelstein http://dbpedia.org/resource/William_M._Finklestein
+1,133,R. Yamaguchi,http://dbpedia.org/resource/Tomoko_Yamaguchi,http://dbpedia.org/resource/Ryōta_Yamaguchi http://dbpedia.org/resource/Ryota_Yamaguchi
+1,134,J. Pollack,http://dbpedia.org/resource/Jackson_Pollock,http://dbpedia.org/resource/Jon_Pollack http://dbpedia.org/resource/Jonathan_Pollack
+1,136,A. Springer,http://dbpedia.org/resource/Axel_Springer,http://dbpedia.org/resource/Aaron_Springer

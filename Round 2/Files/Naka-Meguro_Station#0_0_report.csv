@@ -1,0 +1,4 @@
+"F1: 0.00000","Precision: 0.00000","Recall: 0.00000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","2","Shibuya","http://dbpedia.org/resource/Shibuya_Peak","http://dbpedia.org/resource/Hachiko_crossing http://dbpedia.org/resource/Sibuya_Station http://dbpedia.org/resource/Shibuya_Station http://dbpedia.org/resource/Shibuya_station http://dbpedia.org/resource/渋谷駅"
+"0","5","Daikan-yama","nan","http://dbpedia.org/resource/Daikanyama_Station http://dbpedia.org/resource/Daikan-yama_Station"

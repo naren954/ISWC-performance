@@ -1,0 +1,7 @@
+"F1: 0.94565","Precision: 0.94565","Recall: 0.94565"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","2","Zobahan Freeway","http://dbpedia.org/resource/Mitchell_Freeway","http://dbpedia.org/resource/Zobahan_Freeway http://dbpedia.org/resource/Freeway_51_(Iran)"
+"0","3","Zeinoddin Expressway","http://dbpedia.org/resource/E01_expressway_(Sri_Lanka)","http://dbpedia.org/resource/Zeinoddin_Expressway"
+"0","9","Yellow Line","http://dbpedia.org/resource/Yellow_Line_(Washington_Metro)","http://dbpedia.org/resource/Yellow_Line_(Rio_de_Janeiro) http://dbpedia.org/resource/Linha_Amarela"
+"0","10","Yasini Expressway","http://dbpedia.org/resource/Gardiner_Expressway","http://dbpedia.org/resource/Yasini_Expressway"
+"0","64","Wyoming Highway 257","http://dbpedia.org/resource/Wyoming_Highway_259","http://dbpedia.org/resource/WYO_257 http://dbpedia.org/resource/Wyoming_Highway_257"

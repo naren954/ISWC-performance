@@ -1,0 +1,11 @@
+F1: 0.71875,Precision: 0.71875,Recall: 0.71875,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,5,French destroyer Typhon,http://dbpedia.org/resource/French_destroyer_Panthère,http://dbpedia.org/resource/French_destroyer_Typhon
+0,7,French destroyer Tramontane,http://dbpedia.org/resource/French_destroyer_Panthère,http://dbpedia.org/resource/French_destroyer_Tramontane
+0,8,French destroyer Tornade,http://dbpedia.org/resource/French_destroyer_Panthère,http://dbpedia.org/resource/French_destroyer_Tornade
+0,10,French destroyer Tempête,http://dbpedia.org/resource/French_destroyer_Panthère,http://dbpedia.org/resource/French_destroyer_Tempête
+0,11,French destroyer Simoun,http://dbpedia.org/resource/French_destroyer_Panthère,http://dbpedia.org/resource/French_destroyer_Simoun
+0,16,French destroyer Cyclone,http://dbpedia.org/resource/French_destroyer_Panthère,http://dbpedia.org/resource/French_destroyer_Cyclone
+0,17,French destroyer Chacal,http://dbpedia.org/resource/French_destroyer_Panthère,http://dbpedia.org/resource/French_destroyer_Chacal
+0,18,French cruiser Chanzy,http://dbpedia.org/resource/French_cruiser_Condé,http://dbpedia.org/resource/French_armoured_cruiser_Chanzy http://dbpedia.org/resource/French_cruiser_Chanzy
+0,27,BAP Unión,http://dbpedia.org/resource/BAP_Unión,http://dbpedia.org/resource/BAP_Union http://dbpedia.org/resource/BAP_Union_(BEV-161) http://dbpedia.org/resource/BAP_Unión_(BEV-161)

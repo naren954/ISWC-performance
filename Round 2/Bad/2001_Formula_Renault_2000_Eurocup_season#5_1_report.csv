@@ -1,0 +1,9 @@
+F1: 0.36364,Precision: 0.36364,Recall: 0.36364,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,2,RC Motorsport,http://dbpedia.org/resource/RC_Motorsport_(Italian_racing_team),http://dbpedia.org/resource/RC_Motorsport
+1,4,Jenzer Motorsport,http://dbpedia.org/resource/Van_Merksteijn_Motorsport,http://dbpedia.org/resource/Jenzer_Motorsport
+1,6,Lucidi Motorsport,,http://dbpedia.org/resource/Lucidi_Motorsport http://dbpedia.org/resource/Lucidi_Motors
+1,7,JD Motorsport,http://dbpedia.org/resource/JD_Motorsports,http://dbpedia.org/resource/JD_Motorsport
+1,8,ADM Junior Team,http://dbpedia.org/resource/United_States_men's_national_junior_ice_hockey_team,http://dbpedia.org/resource/ADM_Motorsport
+1,12,Manor Motorsport,http://dbpedia.org/resource/Van_Merksteijn_Motorsport,http://dbpedia.org/resource/Manor_Motorsports http://dbpedia.org/resource/Manor_Motorsport http://dbpedia.org/resource/Marussia_Manor_Racing http://dbpedia.org/resource/Manor_Competition
+1,14,Walter Lechner Racing,http://dbpedia.org/resource/Walter_Wolf_Racing,http://dbpedia.org/resource/Walter_Lechner_Racing http://dbpedia.org/resource/Walter_Lechner_Racing_School

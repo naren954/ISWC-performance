@@ -1,0 +1,6 @@
+"F1: 0.69231","Precision: 0.69231","Recall: 0.69231"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","5","Stiletto","http://dbpedia.org/resource/Stiletto_(1969_film)","http://dbpedia.org/resource/Stiletto_(2008_film)"
+"1","7","The Spirit","http://dbpedia.org/resource/Smells_Like_Teen_Spirit","http://dbpedia.org/resource/Will_Eisner's_The_Spirit http://dbpedia.org/resource/The_Spirit_(film)"
+"1","14","The Tourist","http://dbpedia.org/resource/The_Tourist_(2010_film)","http://dbpedia.org/resource/The_Tourist_(upcoming_film) http://dbpedia.org/resource/The_Tourist_(2016_film) http://dbpedia.org/resource/Lost_in_Florence http://dbpedia.org/resource/The_Tourist_(2015_film)"
+"1","15","The Rendezvous","http://dbpedia.org/resource/Rendezvous_at_Big_Gulch_(Terror_in_the_Neighborhood)","http://dbpedia.org/resource/The_Rendezvous_(2015_film) http://dbpedia.org/resource/The_Rendezvous_(upcoming_film)"

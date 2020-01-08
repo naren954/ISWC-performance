@@ -1,0 +1,4 @@
+F1: 0.93750,Precision: 0.93750,Recall: 0.93750,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,8,R. Friedman,http://dbpedia.org/resource/Rose_Friedman,http://dbpedia.org/resource/Ron_Friedman
+0,16,M. Morris,http://dbpedia.org/resource/William_Morris,http://dbpedia.org/resource/Michael_Morris_(screenwriter)

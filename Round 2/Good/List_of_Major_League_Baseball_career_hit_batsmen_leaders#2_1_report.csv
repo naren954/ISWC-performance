@@ -1,0 +1,5 @@
+F1: 0.94231,Precision: 0.94231,Recall: 0.94231,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,2,Jack Powell,"http://dbpedia.org/resource/Jack_Powell_(footballer,_born_1860)",http://dbpedia.org/resource/Jack_Powell_(baseball)
+1,42,Jack Billingham,http://dbpedia.org/resource/Jack_Billingham_(footballer),http://dbpedia.org/resource/Jack_Billingham
+1,46,Harry Howell,http://dbpedia.org/resource/Harry_Howell_(ice_hockey),http://dbpedia.org/resource/Harry_Howell_(baseball) http://dbpedia.org/resource/Harry_Howell_(baseball_player)

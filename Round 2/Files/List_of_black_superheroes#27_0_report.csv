@@ -1,0 +1,5 @@
+"F1: 0.00000","Precision: 0.00000","Recall: 0.00000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","1","Blue Eagle","http://dbpedia.org/resource/Angela_Eagle","http://dbpedia.org/resource/Cap'n_Hawk http://dbpedia.org/resource/Blue_Eagle_(comics) http://dbpedia.org/resource/Cap_'N_Hawk"
+"0","2","Blur","http://dbpedia.org/resource/Blur_(video_game)","http://dbpedia.org/resource/Whizzer_(comics) http://dbpedia.org/resource/Blur_(comics)"
+"0","3","Nighthawk","http://dbpedia.org/resource/Nighthawk_(DC_Comics)","http://dbpedia.org/resource/Nighthawk_(Marvel_Comics) http://dbpedia.org/resource/NIGHTHAWK(marvel) http://dbpedia.org/resource/Supreme_Power:_Nighthawk_(Marvel_Comics) http://dbpedia.org/resource/Nighthawk_(Supreme_Power) http://dbpedia.org/resource/Kyle_Richmond http://dbpedia.org/resource/Supreme_Power:_Nighthawk"

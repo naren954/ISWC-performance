@@ -1,0 +1,4 @@
+F1: 0.33333,Precision: 0.33333,Recall: 0.33333,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,Persipura U-21,http://dbpedia.org/resource/U,http://dbpedia.org/resource/Persipura_U-21
+1,2,Persiwa U-21,http://dbpedia.org/resource/U,http://dbpedia.org/resource/Persiwa_Wamena_U-21 http://dbpedia.org/resource/Persiwa_U-21

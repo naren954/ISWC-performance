@@ -1,0 +1,4 @@
+"F1: 0.33333","Precision: 0.33333","Recall: 0.33333"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","1","James Stewart","http://dbpedia.org/resource/James_Stewart","http://dbpedia.org/resource/James_Stewart_(football_player) http://dbpedia.org/resource/James_Stewart_(American_football)"
+"0","6","Billy Williams","http://dbpedia.org/resource/Billy,_Calvados","http://dbpedia.org/resource/Billy_Williams_(American_football)"

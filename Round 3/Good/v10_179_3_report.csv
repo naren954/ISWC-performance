@@ -1,0 +1,26 @@
+F1: 0.75258,Precision: 0.75258,Recall: 0.75258,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,1,T. Hooper,http://dbpedia.org/resource/Tom_Hooper,http://dbpedia.org/resource/Tobe_Hooper
+3,2,E. Bernstein,http://dbpedia.org/resource/Leonard_Bernstein,http://dbpedia.org/resource/Elmer_Bernstein http://dbpedia.org/resource/Elmer_Berstein
+3,6,W. Leigh,http://dbpedia.org/resource/Mike_Leigh,http://dbpedia.org/resource/Walter_Leigh
+3,9,H. Pereira,http://dbpedia.org/resource/Hal_Pereira,http://dbpedia.org/resource/Heitor_Teixeira_Pereira http://dbpedia.org/resource/Heitor_Pereira
+3,10,H. Pereira,http://dbpedia.org/resource/Hal_Pereira,http://dbpedia.org/resource/Heitor_Teixeira_Pereira http://dbpedia.org/resource/Heitor_Pereira
+3,13,P. Smith,http://dbpedia.org/resource/Patti_Smith,http://dbpedia.org/resource/Paul_Smith_(composer) http://dbpedia.org/resource/Paul_J._Smith_(composer) http://dbpedia.org/resource/Paul_Smith_(film_and_television_composer)
+3,26,J. Douglas,http://dbpedia.org/resource/Jahméne,http://dbpedia.org/resource/Johnny_Douglas_(conductor)
+3,45,T. M. Ambersons,http://dbpedia.org/resource/Booker_T._&_the_M.G.'s,http://dbpedia.org/resource/The_Magnificent_Ambersons_(film) http://dbpedia.org/resource/The_Magnificent_Ambersons_(1942_film)
+3,48,D. Radić,http://dbpedia.org/resource/Indira_Radić,http://dbpedia.org/resource/Dusan_Radic http://dbpedia.org/resource/Dušan_Radić
+3,51,P. Smith,http://dbpedia.org/resource/Patti_Smith,http://dbpedia.org/resource/Paul_Smith_(composer) http://dbpedia.org/resource/Paul_J._Smith_(composer) http://dbpedia.org/resource/Paul_Smith_(film_and_television_composer)
+3,53,N. Wang,http://dbpedia.org/resource/Nina_Wang,http://dbpedia.org/resource/Nathan_Wang http://dbpedia.org/resource/Nathan_wang http://dbpedia.org/resource/Wang_Zongxian
+3,55,R. Portman,http://dbpedia.org/resource/Natalie_Portman,http://dbpedia.org/resource/Rachel_Portman
+3,60,G. Fried,http://dbpedia.org/resource/Germain_Fried,http://dbpedia.org/resource/Gerald_Fried
+3,62,A. Newman,http://dbpedia.org/resource/Randy_Newman,http://dbpedia.org/resource/Alfred_Newman_(composer)
+3,64,A. Newman,http://dbpedia.org/resource/Randy_Newman,http://dbpedia.org/resource/Alfred_Newman_(composer)
+3,71,J. Petit,http://de.dbpedia.org/resource/Léo_Petit,http://dbpedia.org/resource/Jean_Claude_Petit http://dbpedia.org/resource/Jean-Claude_Petit
+3,82,P. Williams,http://dbpedia.org/resource/Pharrell_Williams,http://dbpedia.org/resource/Pat_Williams_(composer) http://dbpedia.org/resource/Patrick_Williams_(composer)
+3,83,J. Danna,http://dbpedia.org/resource/Mychael_Danna,http://dbpedia.org/resource/Jeff_Danna
+3,84,John D. H. Greenwood,,http://dbpedia.org/resource/John_D._H._Greenwood http://dbpedia.org/resource/John_D.H._Greenwood http://dbpedia.org/resource/John_Danforth_Herman_Greenwood http://dbpedia.org/resource/John_DH_Greenwood http://dbpedia.org/resource/John_D_H_Greenwood
+3,85,R. Wagner,http://dbpedia.org/resource/Richard_Wagner,http://dbpedia.org/resource/Roger_Wagner http://dbpedia.org/resource/Roger_wagner http://dbpedia.org/resource/Roger_Wagner_Chorale
+3,86,W. Leigh,http://dbpedia.org/resource/Mike_Leigh,http://dbpedia.org/resource/Walter_Leigh
+3,90,T. Sandals,http://dbpedia.org/resource/Mustafa_Sandal,http://dbpedia.org/resource/The_Sandals
+3,92,N. Barr,http://dbpedia.org/resource/Niki_Barr,http://dbpedia.org/resource/Nathan_Barr
+3,93,Vishal-Shekhar,http://dbpedia.org/resource/Vishal_Chandrasekhar,http://dbpedia.org/resource/Shekhar_Ravjiani http://dbpedia.org/resource/Vishal-Shekhar http://dbpedia.org/resource/Vishal_Shekar http://dbpedia.org/resource/Vishal_Shekhar http://dbpedia.org/resource/Vishal–Shekhar

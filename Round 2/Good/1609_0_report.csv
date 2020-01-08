@@ -1,0 +1,7 @@
+F1: 0.78261,Precision: 0.78261,Recall: 0.78261,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,6,B. Gollan,http://dbpedia.org/resource/Olivia_Gollan,http://dbpedia.org/resource/Brady_Gollan
+0,17,A. Lee,http://dbpedia.org/resource/Abel_Lee,http://dbpedia.org/resource/Andy_Lee_(snooker_player)
+0,19,A. Borg,http://dbpedia.org/resource/Arne_Borg,http://dbpedia.org/resource/Alex_Borg
+0,21,A. Songsermsawad,http://dbpedia.org/resource/Sunny_Akani,http://dbpedia.org/resource/Akani_Songsermsawad
+0,23,A. Mehta,http://dbpedia.org/resource/Amar_Mehta,http://dbpedia.org/resource/Aditya_Snehal_Mehta http://dbpedia.org/resource/Aditya_Mehta

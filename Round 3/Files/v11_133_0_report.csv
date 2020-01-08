@@ -1,0 +1,8 @@
+"F1: 0.75000","Precision: 0.75000","Recall: 0.75000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","1","Ł. Bodnar","http://dbpedia.org/resource/Maciej_Bodnar","http://dbpedia.org/resource/Lukasz_Bodnar http://dbpedia.org/resource/Łukasz_Bodnar"
+"0","4","Á. Edo","http://dbpedia.org/resource/Teo_Edo","http://dbpedia.org/resource/Angel_Edo_Alsina http://dbpedia.org/resource/Angel_Edo http://dbpedia.org/resource/Ángel_Edo http://dbpedia.org/resource/Ángel_Edo_Alsina"
+"0","8","Y. Doi","http://dbpedia.org/resource/Yoshihiro_Doi","http://dbpedia.org/resource/Yukihiro_Doi"
+"0","12","Y. Bear","http://dbpedia.org/resource/Ethan_Bear","http://dbpedia.org/resource/Yoav_Bear"
+"0","19","W. Paredes","http://dbpedia.org/resource/William_Paredes","http://dbpedia.org/resource/Wilmar_Paredes"
+"0","21","W. Walker","http://dbpedia.org/resource/Wally_Walker","http://dbpedia.org/resource/William_Walker_(cyclist)"

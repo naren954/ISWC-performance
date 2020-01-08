@@ -1,0 +1,5 @@
+"F1: 0.83333","Precision: 0.83333","Recall: 0.83333"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","4","Rolla National Airport","http://dbpedia.org/resource/Ronald_Reagan_Washington_National_Airport","http://dbpedia.org/resource/Rolla_National_Airport http://dbpedia.org/resource/Vichy_Army_Airfield http://dbpedia.org/resource/Vichy_Army_Air_Field"
+"0","9","Rogers Municipal Airport","http://dbpedia.org/resource/Rogers_Executive_Airport","http://dbpedia.org/resource/Rogers_Municipal_Airport_Carter_Field http://dbpedia.org/resource/Rogers_Municipal_Airport"
+"0","17","Rock Springs–Sweetwater County Airport","http://dbpedia.org/resource/Southwest_Wyoming_Regional_Airport","http://dbpedia.org/resource/Rock_Springs_Sweetwater_County_Airport http://dbpedia.org/resource/Rock_Springs_-_Sweetwater_County_Airport http://dbpedia.org/resource/Rock_Springs-Sweetwater_County_Airport http://dbpedia.org/resource/Rock_Springs–Sweetwater_County_Airport http://dbpedia.org/resource/Rock_Springs_–_Sweetwater_County_Airport"

@@ -1,0 +1,4 @@
+"F1: 0.84615","Precision: 0.84615","Recall: 0.84615"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","10","Jazz Forum","http://dbpedia.org/resource/Jazz_Forum_(historic_periodical)","http://dbpedia.org/resource/Jazz_Forum http://dbpedia.org/resource/Jazz_Forum_(magazine)"
+"0","13","Europe","http://dbpedia.org/resource/The_European_(1953_magazine)","http://dbpedia.org/resource/Europe_(magazine)"

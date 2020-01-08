@@ -1,0 +1,6 @@
+F1: 0.66667,Precision: 0.66667,Recall: 0.66667,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,5,Rhythm of Love,http://dbpedia.org/resource/Rhythm_of_Love_(Scorpions_song),http://dbpedia.org/resource/Rhythm_of_Love_(Yes_song)
+1,7,Big Eyed Fish,http://dbpedia.org/resource/Big_Fish_(musical),http://dbpedia.org/resource/Kit_Kat_Jam http://dbpedia.org/resource/Big_Eyed_Fish http://dbpedia.org/resource/You_Never_Know http://dbpedia.org/resource/Busted_Stuff http://dbpedia.org/resource/Grace_Is_Gone_(song)
+1,8,Invincible,http://dbpedia.org/resource/Invincible_(Machine_Gun_Kelly_song),http://dbpedia.org/resource/Invincible_(Muse_song)
+1,9,Dystopia,,http://dbpedia.org/resource/Dystopia_(Iced_Earth_song)

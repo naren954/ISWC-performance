@@ -1,0 +1,6 @@
+F1: 0.50000,Precision: 0.50000,Recall: 0.50000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,3,Trafalgar 200,http://dbpedia.org/resource/Trafalgar_(album),http://dbpedia.org/resource/Battle_of_Trafalgar http://dbpedia.org/resource/The_Battle_of_Trafalgar http://dbpedia.org/resource/Action_of_23_October_1805 http://dbpedia.org/resource/Sea_Britain http://dbpedia.org/resource/The_battle_of_Trafalgar http://dbpedia.org/resource/Battle_of_trafalgar http://dbpedia.org/resource/Battle_of_Traflagar
+1,6,Edwardian Winners and Losers,http://dbpedia.org/resource/Winners_&_Losers,http://dbpedia.org/resource/Britain_in_1900 http://dbpedia.org/resource/Prince_Edward_Era http://dbpedia.org/resource/Edwardian_ages http://dbpedia.org/resource/Edwardian_England http://dbpedia.org/resource/Edwardian_Era http://dbpedia.org/resource/Edwardian_Period http://dbpedia.org/resource/The_Edwardian_period http://dbpedia.org/resource/Edwardian http://dbpedia.org/resource/Edwardian_era http://dbpedia.org/resource/The_Edwardian_era http://dbpedia.org/resource/Edwardian_period http://dbpedia.org/resource/Edwardian_age
+1,10,Hadrian,http://dbpedia.org/resource/Hadrian_(TV_programme),http://dbpedia.org/resource/Hadrian_(BBC_documentary)
+1,14,Montezuma,http://dbpedia.org/resource/Motezuma,http://dbpedia.org/resource/Montezuma_(BBC_documentary)

@@ -1,0 +1,6 @@
+F1: 0.87879,Precision: 0.87879,Recall: 0.87879,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,4,B. Horne,http://dbpedia.org/resource/Buddy_Horne,http://dbpedia.org/resource/Barry_Horne_(racing_driver)
+0,7,A. Panis,http://dbpedia.org/resource/Olivier_Panis,http://dbpedia.org/resource/Aurélien_Panis http://dbpedia.org/resource/Aurelien_Panis
+0,10,A. Sutton,http://dbpedia.org/resource/Len_Sutton,http://dbpedia.org/resource/Ashley_Sutton
+0,33,A. Thompson,http://dbpedia.org/resource/Amanda_Thompson_(basketball),"http://dbpedia.org/resource/Andrew_Thompson_(racing_driver) http://dbpedia.org/resource/Andrew_Thompson_(Australian_racing_driver) http://dbpedia.org/resource/Andrew_Thompson_(Australian_Racing_Driver) http://dbpedia.org/resource/Andrew_Thompson_(Australian,_motorsport)"

@@ -1,0 +1,4 @@
+F1: 0.84615,Precision: 0.84615,Recall: 0.84615,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,4,Gulf sturgeon,http://dbpedia.org/resource/Acipenser_oxyrinchus,http://dbpedia.org/resource/Acipenser_oxyrinchus_desotoi http://dbpedia.org/resource/Gulf_Sturgeon http://dbpedia.org/resource/Acipenser_oxyrhynchus_desotoi http://dbpedia.org/resource/Gulf_sturgeon
+0,11,Atlantic sturgeon,http://dbpedia.org/resource/European_sea_sturgeon,http://dbpedia.org/resource/Acipenser_oxyrinchus_oxyrinchus http://dbpedia.org/resource/Acipenser_oxyrhinchus http://dbpedia.org/resource/Acipenser_oxyrhynchus_oxyrhynchus http://dbpedia.org/resource/Atlantic_sturgeon http://dbpedia.org/resource/Atlantic_Sturgeon

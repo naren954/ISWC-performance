@@ -1,0 +1,5 @@
+F1: 0.25000,Precision: 0.25000,Recall: 0.25000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,RCD EspaÃ±ol,http://dbpedia.org/resource/RCD_Espanyol,http://dbpedia.org/resource/RCD_Español
+0,2,CD AlavÃ©s,http://dbpedia.org/resource/Deportivo_Alavés,http://dbpedia.org/resource/CD_Alavés
+0,3,Real UniÃ³n,http://dbpedia.org/resource/Real_Unión,http://dbpedia.org/resource/Real_Unión_de_Irún

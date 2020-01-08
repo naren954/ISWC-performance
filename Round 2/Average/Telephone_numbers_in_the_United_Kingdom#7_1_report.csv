@@ -1,0 +1,5 @@
+F1: 0.75000,Precision: 0.75000,Recall: 0.75000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,2,Hawkshead,http://dbpedia.org/resource/Hawkshead_Hill,http://dbpedia.org/resource/Hawkshead
+1,9,Pooley Bridge,http://dbpedia.org/resource/LeBreton_Flats,"http://dbpedia.org/resource/Pooley_Bridge http://dbpedia.org/resource/Pooley_Bridge,_Cumbria"
+1,11,Gosforth,http://dbpedia.org/resource/Gosforth,"http://dbpedia.org/resource/Gosforth,_Cumbria"

@@ -1,0 +1,7 @@
+F1: 0.72222,Precision: 0.72222,Recall: 0.72222,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,4,B. Kirk,http://dbpedia.org/resource/Bill_Kirk,http://dbpedia.org/resource/Bernard_Kirk
+0,5,B. Press,http://dbpedia.org/resource/Bill_Press,http://dbpedia.org/resource/Ben_Press
+0,9,A. Goetz,http://dbpedia.org/resource/Arturo_Goetz,http://dbpedia.org/resource/Gus_Goetz http://dbpedia.org/resource/Angus_Goetz
+0,15,A. Waddell,http://dbpedia.org/resource/Willie_Waddell,http://dbpedia.org/resource/Alan_Waddell
+0,16,A. Hollingworth,http://dbpedia.org/resource/Albert_Hollingworth,http://dbpedia.org/resource/Al_Hollingworth http://dbpedia.org/resource/Allan_Henry_Hollingworth

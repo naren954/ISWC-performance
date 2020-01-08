@@ -1,0 +1,8 @@
+F1: 0.53846,Precision: 0.53846,Recall: 0.53846,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,2,Masahiko Minami,http://dbpedia.org/resource/Minami_Takahashi,http://dbpedia.org/resource/Minami_Masahiko http://dbpedia.org/resource/Masahiko_Minami_(producer) http://dbpedia.org/resource/Masahiko_Minami
+3,3,Genco,http://it.dbpedia.org/resource/Giacinto_Genco,"http://dbpedia.org/resource/Genco,_Inc. http://dbpedia.org/resource/Genco http://dbpedia.org/resource/GENCO http://dbpedia.org/resource/Genco_(anime_studio)"
+3,7,Masahiko Minami,http://dbpedia.org/resource/Minami_Takahashi,http://dbpedia.org/resource/Minami_Masahiko http://dbpedia.org/resource/Masahiko_Minami_(producer) http://dbpedia.org/resource/Masahiko_Minami
+3,9,Yasuyuki Ueda,http://dbpedia.org/resource/Yasuyuki_Kuwahara,http://dbpedia.org/resource/Ueda_Yasuyuki http://dbpedia.org/resource/Yasuyuki_Ueda
+3,10,Masao Maruyama,http://dbpedia.org/resource/Masao_Maruyama_(scholar),http://dbpedia.org/resource/Masao_Maruyama_(film_producer)
+3,11,Tommy Yune,http://dbpedia.org/resource/Tommy_Tune,http://dbpedia.org/resource/Tommy_Yune

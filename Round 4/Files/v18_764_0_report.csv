@@ -1,0 +1,6 @@
+"F1: 0.89189","Precision: 0.89189","Recall: 0.89189"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","5","William and Mary","http://dbpedia.org/resource/William_and_Mary_Hosmer_House","http://dbpedia.org/resource/William_and_Mary_(Messersmith)_Seerley_Barn_and_Milkhouse-Smokehouse"
+"0","13","William Wrigley Jr. Summer Cottage","http://dbpedia.org/resource/Wrigley_Mansion","http://dbpedia.org/resource/William_Wrigley_Jr._Summer_Cottage http://dbpedia.org/resource/William_Wrigley,_Jr._Summer_Cottage"
+"0","32","William Taylor House","http://dbpedia.org/resource/William_Taylor_House_(Resaca,_Georgia)","http://dbpedia.org/resource/William_Taylor_House_(Middleport,_New_York)"
+"0","33","William Talley House","http://dbpedia.org/resource/William_Talley_House_(Safford,_Arizona)","http://dbpedia.org/resource/William_Talley_House_(Wilmington,_Delaware)"

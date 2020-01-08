@@ -1,0 +1,10 @@
+F1: 0.11111,Precision: 0.11111,Recall: 0.11111,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,S. Seifert,http://dbpedia.org/resource/Sebastian_Seifert,http://dbpedia.org/resource/Sandra_Seifert http://dbpedia.org/resource/Sandra_Inez_Seifert
+0,2,M. Leonardo,http://dbpedia.org/resource/Leonaert_Bramer,http://dbpedia.org/resource/Michelle_Leonardo
+0,3,M. Young,http://dbpedia.org/resource/Mitch_Young,http://dbpedia.org/resource/Megan_Young http://dbpedia.org/resource/Megan_young
+0,4,L. Gonçalves,http://dbpedia.org/resource/Lilian_Gonçalves,http://dbpedia.org/resource/Laura_Goncalves http://dbpedia.org/resource/Laura_Gonçalves
+0,5,F. Jenkins,http://dbpedia.org/resource/Fletcher_Jenkins,http://dbpedia.org/resource/Faith_Jenkins
+0,7,B. Pamarthi,,http://dbpedia.org/resource/Bindhu_Pamarthi
+0,8,B. Guidotti,http://de.dbpedia.org/resource/Giovanni_Battista_Guidotti,http://dbpedia.org/resource/Mary_Anne_Bianca_Guidotti http://dbpedia.org/resource/Bianca_Guidotti
+0,9,A. Bhat,http://dbpedia.org/resource/Arvind_Bhat,http://dbpedia.org/resource/Asha_Bhat_(Model) http://dbpedia.org/resource/Asha_Bhat http://dbpedia.org/resource/Asha_Bhat_(model)

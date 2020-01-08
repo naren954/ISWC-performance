@@ -1,0 +1,4 @@
+F1: 0.95000,Precision: 0.95000,Recall: 0.95000,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,12,James Morrison,http://dbpedia.org/resource/Jim_Morrison,http://dbpedia.org/resource/James_Morrison_Catchpole http://dbpedia.org/resource/James_Morrison_(singer)
+3,34,Howard Jones,http://dbpedia.org/resource/Howard_Jones_(English_musician),"http://dbpedia.org/resource/Jones,_Howard_(musician) http://dbpedia.org/resource/Howard_Jones_(musician) http://dbpedia.org/resource/Engage_(Howard_Jones_album) http://dbpedia.org/resource/John_Howard_Jones"

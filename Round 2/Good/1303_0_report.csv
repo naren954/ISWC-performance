@@ -1,0 +1,8 @@
+F1: 0.81250,Precision: 0.81250,Recall: 0.81250,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,Verticordia fimbrilepis subsp. fimbrilepis,http://dbpedia.org/resource/Verticordia_fimbrilepis_subsp._australis,http://dbpedia.org/resource/Verticordia_fimbrilepis_subsp._fimbrilepis
+0,4,Verticordia endlicheriana var. angustifolia,http://dbpedia.org/resource/Verticordia_endlicheriana_var._major,http://dbpedia.org/resource/Verticordia_endlicheriana_var._angustifolia
+0,5,Verticordia densiflora var. rosteostella,http://dbpedia.org/resource/Verticordia_densiflora_var._cespitosa,http://dbpedia.org/resource/Verticordia_densiflora_var._rosteostella
+0,6,Verticordia densiflora var. pedunculata,http://dbpedia.org/resource/Verticordia_densiflora_var._cespitosa,http://dbpedia.org/resource/Verticordia_densiflora_var._pedunculata
+0,16,Golden takin,http://dbpedia.org/resource/Takin,http://dbpedia.org/resource/Golden_Takin http://dbpedia.org/resource/Budorcas_taxicolor_bedfordi http://dbpedia.org/resource/Golden_takin
+0,21,Cypripedium macranthum var. rebunense,http://dbpedia.org/resource/Cypripedium_macranthos,http://dbpedia.org/resource/Cypripedium_macranthum_var._rebunense http://dbpedia.org/resource/Rebun_orchid

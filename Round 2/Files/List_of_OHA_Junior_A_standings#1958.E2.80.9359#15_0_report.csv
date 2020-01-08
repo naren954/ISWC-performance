@@ -1,0 +1,4 @@
+"F1: 0.77778","Precision: 0.77778","Recall: 0.77778"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","2","Barrie Flyers","http://dbpedia.org/resource/Barrie_Flyers_(1966–79)","http://dbpedia.org/resource/Barrie_Flyers"
+"0","7","Guelph Biltmore Mad Hatters","http://dbpedia.org/resource/Guelph_Platers","http://dbpedia.org/resource/Guelph_Biltmore_Mad_Hatters http://dbpedia.org/resource/Guelph_Bitmores http://dbpedia.org/resource/Guelph_Biltmores"

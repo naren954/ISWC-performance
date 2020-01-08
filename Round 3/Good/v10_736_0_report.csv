@@ -1,0 +1,4 @@
+F1: 0.97826,Precision: 0.97826,Recall: 0.97826,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,75,2014 YB35,http://dbpedia.org/resource/(523775)_2014_YB35,http://dbpedia.org/resource/2014_YB35 http://dbpedia.org/resource/2014-YB35
+0,86,2014 LM28,http://dbpedia.org/resource/(523719)_2014_LM28,http://dbpedia.org/resource/2014_LM28

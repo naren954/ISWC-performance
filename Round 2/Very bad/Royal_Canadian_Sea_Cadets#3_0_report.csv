@@ -1,0 +1,7 @@
+F1: 0.16667,Precision: 0.16667,Recall: 0.16667,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,Pirate,,http://dbpedia.org/resource/Pirate_(dinghy)
+0,5,Laser II,http://dbpedia.org/resource/Laser_(dinghy),http://dbpedia.org/resource/Laser_2 http://dbpedia.org/resource/Laser_II http://dbpedia.org/resource/Laser_2_(dinghy)
+0,6,YAG (Yard Auxiliary General),http://dbpedia.org/resource/Fatty_acid,http://dbpedia.org/resource/YAG_training_tenders http://dbpedia.org/resource/YAG_training_vessels
+0,7,Orca Class,http://dbpedia.org/resource/Killer_whale,http://dbpedia.org/resource/Orca_class_patrol_boat http://dbpedia.org/resource/CFAV_Grizzly_(PCT_60) http://dbpedia.org/resource/Orca_class http://dbpedia.org/resource/CFAV_Renard_(PCT_58) http://dbpedia.org/resource/Orca_Class_training_vessels http://dbpedia.org/resource/Orca_class_training_vessel http://dbpedia.org/resource/Orca_Class_patrol_vessels http://dbpedia.org/resource/CFAV_Caribou_(PCT_57) http://dbpedia.org/resource/CFAV_Wolf_(PCT_59) http://dbpedia.org/resource/CFAV_Moose_(PCT_62) http://dbpedia.org/resource/Orca_class_patrol_vessel http://dbpedia.org/resource/Orca-class_patrol_vessel http://dbpedia.org/resource/CFAV_Orca_(PCT_55) http://dbpedia.org/resource/CFAV_Cougar_(PCT_61) http://dbpedia.org/resource/CFAV_Raven_(PCT_56)
+0,8,Cape Islander,,http://dbpedia.org/resource/Cape_Islander http://dbpedia.org/resource/Cape_Island_style_fishing_boat

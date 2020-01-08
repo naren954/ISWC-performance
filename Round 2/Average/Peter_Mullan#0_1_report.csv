@@ -1,0 +1,11 @@
+F1: 0.72727,Precision: 0.72727,Recall: 0.72727,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,14,Orphans,http://dbpedia.org/resource/Orphan_Black,http://dbpedia.org/resource/Orphans_(1998_film)
+1,15,Miss Julie,http://dbpedia.org/resource/Miss_Julie_(2014_film),http://dbpedia.org/resource/Miss_Julie_(1999_film)
+1,24,Criminal,http://dbpedia.org/resource/Law_&_Order:_Criminal_Intent,http://dbpedia.org/resource/Criminal_(2004_film)
+1,25,Blinded,http://dbpedia.org/resource/Blinded_(2006_film),http://dbpedia.org/resource/Blinded_(2004_film)
+1,28,Cargo,http://dbpedia.org/resource/Cargo_(2013_film),http://dbpedia.org/resource/Cargo_(2006_film)
+1,30,True North,http://dbpedia.org/resource/True_North_(Once_Upon_a_Time),http://dbpedia.org/resource/True_North_(film)
+1,33,Boy A,http://dbpedia.org/resource/About_a_Boy_(TV_series),http://dbpedia.org/resource/Boy_A_(film)
+1,42,Harry Potter and the Deathly Hallows â\u0080\u0093 Part 2,http://dbpedia.org/resource/Harry_Potter_and_the_Deathly_Hallows_–_Part_1,http://dbpedia.org/resource/Harry_Potter_and_the_Deathly_Hallows_–_Part_2
+1,50,Jungle Book: Origins,http://dbpedia.org/resource/Mowgli:_Legend_of_the_Jungle,http://dbpedia.org/resource/The_Jungle_Book_(2017_film) http://dbpedia.org/resource/Jungle_Book:_Origins_(2016_film) http://dbpedia.org/resource/Jungle_Book_(2018_film) http://dbpedia.org/resource/Jungle_Book:_Origins http://dbpedia.org/resource/The_Jungle_Book_(2018_film) http://dbpedia.org/resource/The_Jungle_Book:_Origins http://dbpedia.org/resource/Jungle_Book:Origins http://dbpedia.org/resource/Jungle_Book:_Origins_(2016)

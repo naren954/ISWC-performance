@@ -1,0 +1,4 @@
+F1: 0.71429,Precision: 0.71429,Recall: 0.71429,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,4,Howard School,"http://dbpedia.org/resource/Howard_School_(Forsyth,_Montana)","http://dbpedia.org/resource/Howard_School_(Brownsburg,_Indiana)"
+0,45,Wabash & Erie Canal,http://dbpedia.org/resource/Wabash_and_Erie_Canal,http://dbpedia.org/resource/Wabash_&_Erie_Canal

@@ -1,0 +1,5 @@
+F1: 0.96667,Precision: 0.96667,Recall: 0.96667,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,26,Dixie Commander,,http://dbpedia.org/resource/Dixie_Commander
+0,41,Destiny,http://dbpedia.org/resource/Destiny_(Irene_Adler),http://dbpedia.org/resource/Destiny_(horse)
+0,67,Danever,,http://dbpedia.org/resource/Danever

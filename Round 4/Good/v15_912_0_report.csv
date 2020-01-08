@@ -1,0 +1,3 @@
+F1: 0.95833,Precision: 0.95833,Recall: 0.95833,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,10,Carnegie,"http://dbpedia.org/resource/James_Carnegie,_3rd_Duke_of_Fife",http://dbpedia.org/resource/Carnegie_(horse)

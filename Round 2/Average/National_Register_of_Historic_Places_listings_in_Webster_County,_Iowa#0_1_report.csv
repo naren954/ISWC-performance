@@ -1,0 +1,6 @@
+F1: 0.55556,Precision: 0.55556,Recall: 0.55556,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,2,Corpus Christi Church,"http://dbpedia.org/resource/Corpus_Christi_Church,_Nesvizh","http://dbpedia.org/resource/Corpus_Christi_Catholic_Church_(Fort_Dodge,_Iowa)"
+1,4,"Dolliver Memorial State Park, Picnic, Hiking & Maintenance Area (Area B)",http://dbpedia.org/resource/Backbone_State_Park,http://dbpedia.org/resource/Dolliver_Memorial_State_Park
+1,8,Fort Dodge Senior High School,"http://dbpedia.org/resource/Fort_Smith,_Arkansas",http://dbpedia.org/resource/Fdsh http://dbpedia.org/resource/Fort_Dodge_Senior_High_School http://dbpedia.org/resource/Fort_dodge_senior_high
+1,14,Webster County Courthouse,http://dbpedia.org/resource/Webster_County_Courthouse_(Nebraska),"http://dbpedia.org/resource/Webster_County_Courthouse_(Iowa) http://dbpedia.org/resource/Webster_County_Courthouse_(Fort_Dodge,_Iowa)"

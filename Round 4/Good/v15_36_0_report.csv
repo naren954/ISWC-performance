@@ -1,0 +1,6 @@
+F1: 0.82609,Precision: 0.82609,Recall: 0.82609,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,4,B. Whalen,http://dbpedia.org/resource/Mike_Whalen,http://dbpedia.org/resource/Bob_Whalen
+0,12,B. Evans,http://dbpedia.org/resource/Bill_Evans_(1910s_pitcher),"http://dbpedia.org/resource/Bill_Evans_(basketball,_born_1948) http://dbpedia.org/resource/Bill_Evans_(basketball_coach)"
+0,17,A. Miller,http://dbpedia.org/resource/Allie_Miller,http://dbpedia.org/resource/Archie_Miller_(basketball)
+0,23,A. Bagnoli,http://dbpedia.org/resource/Daniele_Bagnoli,http://dbpedia.org/resource/Al_Bagnoli

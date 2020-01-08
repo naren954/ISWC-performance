@@ -1,0 +1,14 @@
+F1: 0.53846,Precision: 0.53846,Recall: 0.53846,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,18,Hervey de Stanton,http://dbpedia.org/resource/Hervey_le_Breton,http://dbpedia.org/resource/Hervey_de_Stanton
+0,20,Hervey de Stanton,http://dbpedia.org/resource/Hervey_le_Breton,http://dbpedia.org/resource/Hervey_de_Stanton
+0,22,Robert Wodehouse,http://dbpedia.org/resource/P._G._Wodehouse,http://dbpedia.org/resource/Robert_Wodehouse
+0,27,Sir Robert de Ashton,http://dbpedia.org/resource/Robert_Menzies,http://dbpedia.org/resource/Robert_de_Ashton http://dbpedia.org/resource/Robert_Assheton http://dbpedia.org/resource/Robert_de_Assheton http://dbpedia.org/resource/Sir_Robert_Ashton
+0,30,John Somerseth,http://dbpedia.org/resource/John_Gill_(theologian),http://dbpedia.org/resource/John_Somerset
+0,31,Thomas Browne,http://dbpedia.org/resource/Thomas_Browne,"http://dbpedia.org/resource/Thomas_Browne_(High_Sheriff_of_Kent) http://dbpedia.org/resource/Thomas_Browne_(died_1460) http://dbpedia.org/resource/Thomas_Browne,_Sheriff_of_Kent"
+0,32,Thomas Witham,http://dbpedia.org/resource/George_Witham,http://dbpedia.org/resource/Thomas_Wytham http://dbpedia.org/resource/Thomas_Witham
+0,33,Thomas Thwaites,http://dbpedia.org/resource/George_Henry_Kendrick_Thwaites,http://dbpedia.org/resource/Thomas_Thwaites
+0,34,Thomas Witham,http://dbpedia.org/resource/George_Witham,http://dbpedia.org/resource/Thomas_Wytham http://dbpedia.org/resource/Thomas_Witham
+0,35,Richard Fowler,http://dbpedia.org/resource/Richard_Fowler_(naturalist),http://dbpedia.org/resource/Richard_Fowler_(chancellor)
+0,36,Thomas Thwaites,http://dbpedia.org/resource/George_Henry_Kendrick_Thwaites,http://dbpedia.org/resource/Thomas_Thwaites
+0,41,Sir John Baker,http://dbpedia.org/resource/John_Baker_(Australian_politician),http://dbpedia.org/resource/John_Baker_(died_1558) http://dbpedia.org/resource/John_Baker_(English_statesman)

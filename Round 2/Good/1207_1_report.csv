@@ -1,0 +1,19 @@
+F1: 0.80899,Precision: 0.80899,Recall: 0.80899,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,L. Li,http://dbpedia.org/resource/Li_Li_(badminton),http://dbpedia.org/resource/Lin_Li_(swimmer) http://dbpedia.org/resource/Lin_Li_(Swimmer) http://dbpedia.org/resource/Li_Lin_(swimmer)
+1,3,M. Smith,"http://dbpedia.org/resource/Michael_Smith_(footballer,_born_1988)","http://dbpedia.org/resource/Michelle_Smith_(De_Bruin) http://dbpedia.org/resource/Smith,_Michelle http://dbpedia.org/resource/Michelle_Smith_(Swimmer) http://dbpedia.org/resource/Michelle_Smith_de_Bruin http://dbpedia.org/resource/Michelle_Smith_(swimmer) http://dbpedia.org/resource/Michelle_Smith"
+1,4,Á. Kovács,http://dbpedia.org/resource/Ádám_Kovács_(footballer),http://dbpedia.org/resource/Agnes_Kovacs http://dbpedia.org/resource/Ágnes_Kovács
+1,17,A. Korneyev,http://dbpedia.org/resource/Alexey_Korneyev,http://dbpedia.org/resource/Andrey_Korneyev
+1,19,G. Smith,http://dbpedia.org/resource/George_Smith_(swimmer),http://dbpedia.org/resource/Graeme_Smith_(swimmer)
+1,23,N. Bent,http://dbpedia.org/resource/Nike_Bent,http://dbpedia.org/resource/Neisser_Bent
+1,25,S. Völker,http://dbpedia.org/resource/Sabine_Völker,http://dbpedia.org/resource/Sandra_Völker http://dbpedia.org/resource/Sandra_Volker http://dbpedia.org/resource/Sandra_Voelker
+1,29,L. Li,http://dbpedia.org/resource/Li_Li_(badminton),http://dbpedia.org/resource/Lin_Li_(swimmer) http://dbpedia.org/resource/Lin_Li_(Swimmer) http://dbpedia.org/resource/Li_Lin_(swimmer)
+1,31,M. Smith,"http://dbpedia.org/resource/Michael_Smith_(footballer,_born_1988)","http://dbpedia.org/resource/Michelle_Smith_(De_Bruin) http://dbpedia.org/resource/Smith,_Michelle http://dbpedia.org/resource/Michelle_Smith_(Swimmer) http://dbpedia.org/resource/Michelle_Smith_de_Bruin http://dbpedia.org/resource/Michelle_Smith_(swimmer) http://dbpedia.org/resource/Michelle_Smith"
+1,32,Á. Kovács,http://dbpedia.org/resource/Ádám_Kovács_(footballer),http://dbpedia.org/resource/Agnes_Kovacs http://dbpedia.org/resource/Ágnes_Kovács
+1,39,P. Rogers,http://dbpedia.org/resource/Paul_Rogers_(basketball),http://dbpedia.org/resource/Philip_Rogers_(swimmer) http://dbpedia.org/resource/Phil_Rogers
+1,45,A. Korneyev,http://dbpedia.org/resource/Alexey_Korneyev,http://dbpedia.org/resource/Andrey_Korneyev
+1,47,G. Smith,http://dbpedia.org/resource/George_Smith_(swimmer),http://dbpedia.org/resource/Graeme_Smith_(swimmer)
+1,51,N. Bent,http://dbpedia.org/resource/Nike_Bent,http://dbpedia.org/resource/Neisser_Bent
+1,68,J. Hoffmann,http://dbpedia.org/resource/Jan_Hoffmann,http://dbpedia.org/resource/Jorg_Hoffmann_(swimmer) http://dbpedia.org/resource/Joerg_Hoffmann_(swimmer) http://dbpedia.org/resource/Jörg_Hoffmann_(swimmer)
+1,86,J. Hoffmann,http://dbpedia.org/resource/Jan_Hoffmann,http://dbpedia.org/resource/Jorg_Hoffmann_(swimmer) http://dbpedia.org/resource/Joerg_Hoffmann_(swimmer) http://dbpedia.org/resource/Jörg_Hoffmann_(swimmer)
+1,88,J. McDonald,http://dbpedia.org/resource/John_McDonald_(infielder),http://dbpedia.org/resource/Julie_McDonald_(swimmer)

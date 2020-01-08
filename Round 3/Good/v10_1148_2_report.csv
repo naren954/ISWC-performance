@@ -1,0 +1,4 @@
+F1: 0.90909,Precision: 0.90909,Recall: 0.90909,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,15,It Must Be Love,http://dbpedia.org/resource/It_Must_Be_Love_(Labi_Siffre_song),http://dbpedia.org/resource/It_Must_Be_Love_(Don_Williams_song)
+2,16,Left for Dead,http://dbpedia.org/resource/Left_for_Dead_(Crazy_Horse_album),http://dbpedia.org/resource/Left_for_Dead_(Wussy_album)

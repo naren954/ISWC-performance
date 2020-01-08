@@ -1,0 +1,9 @@
+F1: 0.92632,Precision: 0.92632,Recall: 0.92632,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,31,Ophioglossaceae,http://dbpedia.org/resource/Ophioglossales,http://dbpedia.org/resource/Ophioglossaceae
+1,32,Ophioglossaceae,http://dbpedia.org/resource/Ophioglossales,http://dbpedia.org/resource/Ophioglossaceae
+1,33,Ophioglossaceae,http://dbpedia.org/resource/Ophioglossales,http://dbpedia.org/resource/Ophioglossaceae
+1,35,Oleandraceae,http://dbpedia.org/resource/Oleandra,http://dbpedia.org/resource/Olandraceae http://dbpedia.org/resource/Oleandraceae
+1,88,Athyriaceae,http://dbpedia.org/resource/Woodsiaceae,http://dbpedia.org/resource/Athyriaceae http://dbpedia.org/resource/Athyrioideae
+1,89,Athyriaceae,http://dbpedia.org/resource/Woodsiaceae,http://dbpedia.org/resource/Athyriaceae http://dbpedia.org/resource/Athyrioideae
+1,92,Athyriaceae,http://dbpedia.org/resource/Woodsiaceae,http://dbpedia.org/resource/Athyriaceae http://dbpedia.org/resource/Athyrioideae

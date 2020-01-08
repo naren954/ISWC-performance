@@ -1,0 +1,4 @@
+F1: 0.71429,Precision: 0.71429,Recall: 0.71429,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,2,S. D. Jr.,http://dbpedia.org/resource/Barack_Obama,"http://dbpedia.org/resource/Samuel_Dinsmoor_Jr. http://dbpedia.org/resource/Samuel_Dinsmoor,_Jr."
+3,5,R. Arnold,http://dbpedia.org/resource/Rainer_Arnold,http://dbpedia.org/resource/Richard_Arnold_(general) http://dbpedia.org/resource/Richard_Arnold_(General)

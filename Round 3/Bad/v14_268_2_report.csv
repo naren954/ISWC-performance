@@ -1,0 +1,36 @@
+F1: 0.47692,Precision: 0.47692,Recall: 0.47692,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,1,H. Via,,http://dbpedia.org/resource/Hunter_Via
+2,3,J. Clark,http://dbpedia.org/resource/James_Clark_(Kentucky),http://dbpedia.org/resource/James_Clark_(film_editor) http://dbpedia.org/resource/Jim_Clark_(film_editor)
+2,7,J. M. Werner,http://dbpedia.org/resource/Joseph_Werner,http://dbpedia.org/resource/Jeff_werner http://dbpedia.org/resource/Jeffrey_M._Werner
+2,8,E. Williams,http://dbpedia.org/resource/Robin_Williams,http://dbpedia.org/resource/Elmo_Williams http://dbpedia.org/resource/James_Elmo_Williams
+2,10,A. Avakian,http://dbpedia.org/resource/George_Avakian,http://dbpedia.org/resource/Aram_Avakian
+2,12,T. S. Riegel,http://dbpedia.org/resource/T._S._Cook,http://dbpedia.org/resource/Tatiana_S._Riegel
+2,13,L. Stone,http://dbpedia.org/resource/Lewis_Stone,http://dbpedia.org/resource/Leroy_Stone http://dbpedia.org/resource/Le_Roy_Stone http://dbpedia.org/resource/LeRoy_Stone
+2,15,M. Walsh,http://dbpedia.org/resource/Marty_Walsh_(ice_hockey),http://dbpedia.org/resource/Martin_Walsh_(film_editor)
+2,17,C. Wood,http://dbpedia.org/resource/Charles_Wood_(composer),http://dbpedia.org/resource/Craig_Wood_(film_editor)
+2,18,J. Bloom,http://dbpedia.org/resource/Claire_Bloom,http://dbpedia.org/resource/John_Bloom_(film_editor) http://dbpedia.org/resource/John_Bloom_(editor)
+2,22,C. Ka-fai,http://dbpedia.org/resource/Tony_Leung_Ka-fai,http://dbpedia.org/resource/Cheung_Ka-Fai_(film_editor) http://dbpedia.org/resource/Cheung_Ka-fai_(film_editor)
+2,23,L. Zucchetti,http://dbpedia.org/resource/Francesco_Zucchetti,http://dbpedia.org/resource/Lucia_Zucchetti
+2,24,T. S. Riegel,http://dbpedia.org/resource/T._S._Cook,http://dbpedia.org/resource/Tatiana_S._Riegel
+2,25,B. Butler,http://dbpedia.org/resource/Richard_Butler_(Australian_politician),http://dbpedia.org/resource/Bill_Butler_(film_editor)
+2,26,D. Dunham,http://dbpedia.org/resource/Lena_Dunham,http://dbpedia.org/resource/Duwayne_Dunham
+2,28,D. Zimmerman,http://dbpedia.org/resource/Krystian_Zimerman,http://dbpedia.org/resource/Dan_Zimmerman
+2,33,J. Harris,http://dbpedia.org/resource/Richard_Harris,http://dbpedia.org/resource/Jack_Harris_(film_editor)
+2,34,L. Jones,http://dbpedia.org/resource/Linda_Jones,http://dbpedia.org/resource/Leslie_Jones_(editor)
+2,35,M. Mak,http://dbpedia.org/resource/Max_Planck,http://dbpedia.org/resource/Marco_Mak_Chi_Sin http://dbpedia.org/resource/Marco_Mak
+2,36,T. Noble,http://dbpedia.org/resource/Roberto_Noble,http://dbpedia.org/resource/Thom_Noble
+2,41,D. Keyeux,http://dbpedia.org/resource/D._D._Jackson,http://dbpedia.org/resource/Damien_Keyeux
+2,42,J. Monroe,http://dbpedia.org/resource/James_Monroe,http://dbpedia.org/resource/Julie_Monroe
+2,43,C. McKay,http://dbpedia.org/resource/Claude_McKay,http://dbpedia.org/resource/Craig_McKay_(film_editor)
+2,44,F. Webster,http://dbpedia.org/resource/Freddie_Webster,http://dbpedia.org/resource/Ferris_Webster
+2,48,W. Hoy,http://dbpedia.org/resource/Will_Hoy,http://dbpedia.org/resource/William_Hoy
+2,49,D. Spencer,"http://dbpedia.org/resource/Diana,_Princess_of_Wales",http://dbpedia.org/resource/Dorothy_Spencer
+2,51,V. W. Vogel,http://dbpedia.org/resource/Hermann_Wilhelm_Vogel,http://dbpedia.org/resource/Virgil_Vogel http://dbpedia.org/resource/Virgil_W._Vogel
+2,52,A. Carr,http://dbpedia.org/resource/Emily_Carr,http://dbpedia.org/resource/Adriane_Car http://dbpedia.org/resource/Adreine_Carr http://dbpedia.org/resource/Adrian_Carr http://dbpedia.org/resource/Adriane_Janice_Carr http://dbpedia.org/resource/Adrianne_Carr http://dbpedia.org/resource/Adriane_Karr http://dbpedia.org/resource/Adriane_Carr
+2,53,W. Lyon,http://dbpedia.org/resource/William_Lyon_Mackenzie_King,http://dbpedia.org/resource/William_Lyon_(film_editor) http://dbpedia.org/resource/William_A_Lyon http://dbpedia.org/resource/William_A._Lyon
+2,54,G. White,http://dbpedia.org/resource/George_White_(British_Army_officer),http://dbpedia.org/resource/George_White_(editor) http://dbpedia.org/resource/George_White_(film_editor)
+2,55,A. Gibbs,http://dbpedia.org/resource/Armstrong_Gibbs,http://dbpedia.org/resource/Antony_Gibbs
+2,61,B. Bates,http://dbpedia.org/resource/Alan_Bates,http://dbpedia.org/resource/A.S._Bates http://dbpedia.org/resource/Bert_Bates
+2,64,T. Noble,http://dbpedia.org/resource/Roberto_Noble,http://dbpedia.org/resource/Thom_Noble
+2,65,B. Bates,http://dbpedia.org/resource/Alan_Bates,http://dbpedia.org/resource/A.S._Bates http://dbpedia.org/resource/Bert_Bates

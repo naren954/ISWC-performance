@@ -1,0 +1,4 @@
+F1: 0.33333,Precision: 0.33333,Recall: 0.33333,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,2,Baantjer,http://dbpedia.org/resource/A._C._Baantjer,http://dbpedia.org/resource/Baantjer
+1,8,Gooische vrouwen,http://dbpedia.org/resource/Gooische_Vrouwen_(film),http://dbpedia.org/resource/Gooische_vrouwen http://dbpedia.org/resource/Gooische_Vrouwen

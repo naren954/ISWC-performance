@@ -1,0 +1,11 @@
+F1: 0.87671,Precision: 0.87671,Recall: 0.87671,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,18,"Sir Richard Hoghton, 1st Baronet","http://dbpedia.org/resource/Sir_Richard_Paget,_1st_Baronet","http://dbpedia.org/resource/Sir_Richard_Hoghton,_1st_Baronet"
+0,21,"Sir Richard Cox, 2nd Baronet","http://dbpedia.org/resource/Sir_Richard_Pryse,_2nd_Baronet","http://dbpedia.org/resource/Sir_Richard_Cox,_2nd_Baronet"
+0,32,"Sir Patrick Agnew, 1st Baronet","http://dbpedia.org/resource/Sir_Patrick_Ford,_1st_Baronet","http://dbpedia.org/resource/Sir_Patrick_Agnew,_1st_Baronet"
+0,34,"Sir Oswald Mosley, 4th Baronet",http://dbpedia.org/resource/Oswald_Mosley,"http://dbpedia.org/resource/Sir_Oswald_Mosley,_4th_Baronet"
+0,37,"Sir Nicholas Bacon, 1st Baronet, of Gillingham","http://dbpedia.org/resource/Sir_Nicholas_Bacon,_1st_Baronet,_of_Redgrave","http://dbpedia.org/resource/Sir_Nicholas_Bacon,_1st_Baronet,_of_Gillingham"
+0,41,"Sir Michael Shaw Stewart, 7th Baronet","http://dbpedia.org/resource/Sir_Hugh_Shaw-Stewart,_8th_Baronet","http://dbpedia.org/resource/Michael_Robert_Shaw_Stewart http://dbpedia.org/resource/Sir_Michael_Shaw-Stewart,_7th_Baronet http://dbpedia.org/resource/Sir_Michael_Shaw_Stewart,_7th_Baronet"
+0,51,"Sir Justinian Isham, 7th Baronet","http://dbpedia.org/resource/Sir_Justinian_Isham,_5th_Baronet","http://dbpedia.org/resource/Sir_Justinian_Isham,_7th_Baronet"
+0,58,"Sir John Wright, 1st Baronet","http://dbpedia.org/resource/Sir_John_Jackson,_1st_Baronet","http://dbpedia.org/resource/Sir_John_Wright,_1st_Baronet http://dbpedia.org/resource/John_Roper_Wright"
+0,66,"Sir John Seton, 1st Baronet","http://dbpedia.org/resource/Sir_John_Jackson,_1st_Baronet","http://dbpedia.org/resource/Sir_John_Seton,_1st_Baronet"

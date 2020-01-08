@@ -1,0 +1,53 @@
+F1: 0.61940,Precision: 0.61940,Recall: 0.61940,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,Wysor Heights Historic District,http://dbpedia.org/resource/Hamilton_Heights_Historic_District,http://dbpedia.org/resource/Wysor_Heights_Historic_District
+0,6,Wyoming Railroad Station,http://dbpedia.org/resource/Wyoming_station_(Delaware),http://dbpedia.org/resource/Wyoming_Railroad_Station
+0,8,Wyoming,http://dbpedia.org/resource/Wyoming,"http://dbpedia.org/resource/Wyoming_(Studley,_Virginia)"
+0,9,Wyoming,http://dbpedia.org/resource/Wyoming,"http://dbpedia.org/resource/Wyoming_(Clinton,_Maryland)"
+0,11,Wynne Commercial Historic District,http://dbpedia.org/resource/Sylvester_Commercial_Historic_District,http://dbpedia.org/resource/Wynne_Commercial_Historic_District
+0,39,Worth-Jefferis Rural Historic District,http://dbpedia.org/resource/Worth–Jefferis_Rural_Historic_District,http://dbpedia.org/resource/Worth-Jefferis_Rural_Historic_District
+0,44,World War I Memorial,"http://dbpedia.org/resource/World_War_Memorial_(Kimball,_West_Virginia)","http://dbpedia.org/resource/World_War_I_Memorial_(Norfolk,_Connecticut)"
+0,48,Worcester Historic District,"http://dbpedia.org/resource/Montvale_(Worcester,_Massachusetts)",http://dbpedia.org/resource/Worcester_Historic_District
+0,50,Wooster Square Historic District,http://dbpedia.org/resource/Woodstock_Square_Historic_District,http://dbpedia.org/resource/Wooster_Square_Historic_District
+0,51,Woolwich Town House,http://dbpedia.org/resource/Woolwich_Town_Hall,http://dbpedia.org/resource/Woolwich_Town_House
+0,55,Woodworth House,http://dbpedia.org/resource/Abner_Woodworth_House,http://dbpedia.org/resource/Woodworth_House
+0,60,Woodville Historic District,"http://dbpedia.org/resource/Woodville_Historic_District_(Woodville,_Mississippi)","http://dbpedia.org/resource/Woodville_Historic_District_(Lewiston_Woodville,_North_Carolina)"
+0,61,Woodville,"http://dbpedia.org/resource/Woodville_(Heidelberg,_Pennsylvania)","http://dbpedia.org/resource/Woodville_(Winfield,_Georgia)"
+0,62,Woodville,"http://dbpedia.org/resource/Woodville_(Heidelberg,_Pennsylvania)","http://dbpedia.org/resource/Woodville_(Milledgeville,_Georgia)"
+0,65,Woodstock Country Club,"http://dbpedia.org/resource/Country_Club_Hills,_Illinois",http://dbpedia.org/resource/Woodstock_Country_Club
+0,66,Woodstock,http://dbpedia.org/resource/Woodstock_Palace,"http://dbpedia.org/resource/Woodstock_(Wilmington,_Delaware)"
+0,67,Woodstock,http://dbpedia.org/resource/Woodstock_Palace,"http://dbpedia.org/resource/Woodstock_(Upper_Marlboro,_Maryland)"
+0,68,Woodstock,http://dbpedia.org/resource/Woodstock_Palace,"http://dbpedia.org/resource/Woodstock_(Scotland_Neck,_North_Carolina)"
+0,73,Woodside,http://dbpedia.org/resource/Woodside_National_Historic_Site,"http://dbpedia.org/resource/Woodside_(Tuckahoe,_Virginia)"
+0,74,Woodside,http://dbpedia.org/resource/Woodside_National_Historic_Site,"http://dbpedia.org/resource/Woodside_(Mt._Pleasant,_Delaware)"
+0,75,Woodside,http://dbpedia.org/resource/Woodside_National_Historic_Site,"http://dbpedia.org/resource/Woodside_(Milton,_North_Carolina)"
+0,76,Woodside,http://dbpedia.org/resource/Woodside_National_Historic_Site,"http://dbpedia.org/resource/Woodside_(Lincolnton,_North_Carolina)"
+0,77,Woodside,http://dbpedia.org/resource/Woodside_National_Historic_Site,"http://dbpedia.org/resource/Woodside_(Delaplane,_Virginia)"
+0,78,Woodside,http://dbpedia.org/resource/Woodside_National_Historic_Site,"http://dbpedia.org/resource/Woodside_(Buckingham,_Virginia)"
+0,79,Woodside,http://dbpedia.org/resource/Woodside_National_Historic_Site,"http://dbpedia.org/resource/Woodside_(Belle_Mina,_Alabama)"
+0,80,Woodside,http://dbpedia.org/resource/Woodside_National_Historic_Site,"http://dbpedia.org/resource/Woodside_(Abingdon,_Maryland)"
+0,81,Woodsdale-Edgewood Neighborhood Historic District,http://dbpedia.org/resource/Woodsdale–Edgewood_Neighborhood_Historic_District,http://dbpedia.org/resource/Woodsdale-Edgewood_Neighborhood_Historic_District
+0,83,Woods-Meade House,http://dbpedia.org/resource/Arad_Wood_House,http://dbpedia.org/resource/Woods-Meade_House
+0,84,Woodruff House,"http://dbpedia.org/resource/Woodruff_House_(Hillside,_New_Jersey)","http://dbpedia.org/resource/Woodruff_House_(Southington,_Connecticut)"
+0,87,Woodrow Wilson Junior High School,"http://dbpedia.org/resource/Woodrow_Wilson_Junior_High_School_(Terre_Haute,_Indiana)","http://dbpedia.org/resource/Woodrow_Wilson_Junior_High_School_(Philadelphia,_Pennsylvania)"
+0,94,"Woodley Park, Washington, D.C.","http://dbpedia.org/resource/Woodley_Park_(Washington,_D.C.)","http://dbpedia.org/resource/Woodley_Park http://dbpedia.org/resource/Woodley_Park,_Washington,_D.C. http://dbpedia.org/resource/Woodley_Park_(Neighborhood) http://dbpedia.org/resource/Woodley_Park,_DC http://dbpedia.org/resource/Woodley_Park,_D_C http://dbpedia.org/resource/Woodley_Park,_D.C. http://dbpedia.org/resource/Woodley_Park,_D._C. http://dbpedia.org/resource/Old_Woodley_Park_Historic_District"
+0,102,Woodlawn Cemetery,http://dbpedia.org/resource/Woodlawn_Garden_of_Memories_Cemetery,"http://dbpedia.org/resource/Woodlawn_Cemetery_(Fairmont,_West_Virginia)"
+0,103,Woodlawn Cemetery,http://dbpedia.org/resource/Woodlawn_Garden_of_Memories_Cemetery,"http://dbpedia.org/resource/Woodlawn_Cemetery_(Carbondale,_Illinois)"
+0,104,Woodlawn Cemetery,http://dbpedia.org/resource/Woodlawn_Garden_of_Memories_Cemetery,"http://dbpedia.org/resource/Woodlawn_Cemetery,_Canandaigua http://dbpedia.org/resource/Woodlawn_Cemetery_(Canandaigua,_New_York)"
+0,106,Woodlawn,"http://dbpedia.org/resource/Woodlawn_(Miller's_Tavern,_Virginia)","http://dbpedia.org/resource/Woodlawn_(Vernon_Hill,_Virginia)"
+0,107,Woodlawn,"http://dbpedia.org/resource/Woodlawn_(Miller's_Tavern,_Virginia)","http://dbpedia.org/resource/Woodlawn_(Oilville,_Virginia)"
+0,109,Woodlawn,"http://dbpedia.org/resource/Woodlawn_(Miller's_Tavern,_Virginia)","http://dbpedia.org/resource/Woodlawn_(Columbia,_Maryland)"
+0,110,Woodlands,http://dbpedia.org/resource/The_Woodlands_(Philadelphia),"http://dbpedia.org/resource/Woodlands_(Perryville,_Maryland)"
+0,111,Woodlands,http://dbpedia.org/resource/The_Woodlands_(Philadelphia),"http://dbpedia.org/resource/Woodlands_(Gosport,_Alabama)"
+0,112,Woodlands,http://dbpedia.org/resource/The_Woodlands_(Philadelphia),"http://dbpedia.org/resource/Woodlands_(Columbia,_South_Carolina)"
+0,113,Woodlands,http://dbpedia.org/resource/The_Woodlands_(Philadelphia),"http://dbpedia.org/resource/Woodlands_(Charlottesville,_Virginia)"
+0,114,Woodlands,http://dbpedia.org/resource/The_Woodlands_(Philadelphia),"http://dbpedia.org/resource/Woodlands,_South_Carolina http://dbpedia.org/resource/Woodlands_(Bamberg,_South_Carolina)"
+0,115,Woodland Plantation,"http://dbpedia.org/resource/Woodland_Plantation_(Church_Hill,_Mississippi)","http://dbpedia.org/resource/Woodland_Plantation_(Carlisle,_South_Carolina)"
+0,116,Woodland Place Historic District,http://dbpedia.org/resource/Island_Place_Historic_District,http://dbpedia.org/resource/Woodland_Place_Historic_District
+0,118,Woodland Cemetery,http://dbpedia.org/resource/The_Woodlands_(Philadelphia),"http://dbpedia.org/resource/Woodland_Cemetery_(Quincy,_Illinois)"
+0,120,Woodland,http://dbpedia.org/resource/The_Woodlands_(Philadelphia),"http://dbpedia.org/resource/Woodland_(St._Thomas_Township,_Franklin_County,_Pennsylvania)"
+0,123,Woodford,http://dbpedia.org/resource/Woodford_(mansion),"http://dbpedia.org/resource/Woodford_(Simons_Corner,_Virginia)"
+0,126,Woodcrest,"http://dbpedia.org/resource/Woodcrest_(Nissequogue,_New_York)","http://dbpedia.org/resource/Woodcrest_(Radnor_Township,_Delaware_County,_Pennsylvania)"
+0,131,Woodbury,http://dbpedia.org/resource/Woodbury_Ski_Area,"http://dbpedia.org/resource/Woodbury_(Leetown,_West_Virginia) http://dbpedia.org/resource/Woodbury_(West_Virginia)"
+0,133,Woodburn,http://dbpedia.org/resource/Delaware_Governor's_Mansion,"http://dbpedia.org/resource/Woodburn_(Leesburg,_Virginia)"
+0,134,Woodburn,http://dbpedia.org/resource/Delaware_Governor's_Mansion,"http://dbpedia.org/resource/Woodburn_(Charlottesville,_Virginia)"

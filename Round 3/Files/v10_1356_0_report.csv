@@ -1,0 +1,3 @@
+"F1: 0.96296","Precision: 0.96296","Recall: 0.96296"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","13","Bad Godesberg","http://dbpedia.org/resource/Bonn","http://dbpedia.org/resource/Godesberg http://dbpedia.org/resource/Godesberg_am_Rhein http://dbpedia.org/resource/Bad_Godesberg"

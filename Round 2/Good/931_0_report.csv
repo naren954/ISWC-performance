@@ -1,0 +1,6 @@
+F1: 0.84000,Precision: 0.84000,Recall: 0.84000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,R. Smith,http://dbpedia.org/resource/Rod_Smith_(wide_receiver),http://dbpedia.org/resource/Reilly_Smith
+0,5,R. Torres,http://dbpedia.org/resource/Rainer_Torres,http://dbpedia.org/resource/Raffi_Torres
+0,12,P. Varone,http://dbpedia.org/resource/Phil_Varone_(ice_hockey),http://dbpedia.org/resource/Philip_Varone
+0,24,P. Thompson,"http://dbpedia.org/resource/Paul_Thompson_(ice_hockey,_born_1906)","http://dbpedia.org/resource/Paul_Thompson_(ice_hockey_b._1988) http://dbpedia.org/resource/Paul_Thompson_(ice_hockey,_born_1988)"

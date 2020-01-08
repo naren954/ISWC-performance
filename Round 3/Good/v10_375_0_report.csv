@@ -1,0 +1,6 @@
+F1: 0.85185,Precision: 0.85185,Recall: 0.85185,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,You're Gonna Change,http://dbpedia.org/resource/If_You're_Gonna_Play_in_Texas_(You_Gotta_Have_a_Fiddle_in_the_Band),http://dbpedia.org/resource/You're_Gonna_Change_(Or_I'm_Gonna_Leave)
+0,4,You're Gone,http://dbpedia.org/resource/You're_Gone_(Diamond_Rio_song),http://dbpedia.org/resource/You're_Gone_(Marillion_song)
+0,17,You'll Never Stop Me Loving You,http://dbpedia.org/resource/I'll_Never_Stop_Loving_You_(Gary_Morris_song),http://dbpedia.org/resource/You'll_Never_Stop_Me_Loving_You http://dbpedia.org/resource/You'll_Never_Stop_Me_From_Loving_You
+0,24,You'll Be Mine,http://dbpedia.org/resource/You'll_Be_Mine_(Party_Time),http://dbpedia.org/resource/You'll_Be_Mine_(Beatles_song) http://dbpedia.org/resource/You'll_Be_Mine_(The_Beatles_song)

@@ -1,0 +1,10 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+4,1,Navy,http://dbpedia.org/resource/Royal_Canadian_Navy,http://dbpedia.org/resource/Navy_Midshipmen_men's_lacrosse
+4,2,Virginia,http://dbpedia.org/resource/Virginia,http://dbpedia.org/resource/Virginia_Cavaliers_men's_lacrosse
+4,3,Princeton,http://dbpedia.org/resource/Princeton_University,http://dbpedia.org/resource/Princeton_Tigers_men's_lacrosse
+4,4,Cornell,http://dbpedia.org/resource/Chris_Cornell,http://dbpedia.org/resource/Cornell_Big_Red_men's_lacrosse
+4,5,UMBC,"http://dbpedia.org/resource/University_of_Maryland,_Baltimore_County",http://dbpedia.org/resource/UMBC_Retrievers_men's_lacrosse
+4,6,Georgetown,http://dbpedia.org/resource/Georgetown_University,http://dbpedia.org/resource/Georgetown_Hoyas_men's_lacrosse
+4,9,Duke,http://dbpedia.org/resource/Duke_Ellington,http://dbpedia.org/resource/Duke_Blue_Devils_men's_lacrosse
+4,11,Loyola,http://dbpedia.org/resource/Ignatius_of_Loyola,http://dbpedia.org/resource/Loyola_Greyhounds_men's_lacrosse

@@ -1,0 +1,4 @@
+F1: 0.66667,Precision: 0.66667,Recall: 0.66667,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,4,McGill University Redmen,http://dbpedia.org/resource/McGill_Redmen_soccer,http://dbpedia.org/resource/McGill_Redmen http://dbpedia.org/resource/Mcgill_University_Redmen http://dbpedia.org/resource/McGill_Redmen_and_Martlets http://dbpedia.org/resource/McGill_University_Hockey_Club http://dbpedia.org/resource/McGill_Redmen_Ice_hockey
+0,5,UniversitÃ© de MontrÃ©al Carabins,http://dbpedia.org/resource/Montreal_Carabins,http://dbpedia.org/resource/Université_de_Montréal_Carabins

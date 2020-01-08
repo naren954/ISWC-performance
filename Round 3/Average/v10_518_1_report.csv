@@ -1,0 +1,9 @@
+F1: 0.58824,Precision: 0.58824,Recall: 0.58824,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,J. Abe,http://dbpedia.org/resource/Kōbō_Abe,http://dbpedia.org/resource/Jun_Abe
+1,8,M. Ōshima,http://dbpedia.org/resource/Yuko_Oshima,http://dbpedia.org/resource/Michiru_Ôshima http://dbpedia.org/resource/大島ミチル http://dbpedia.org/resource/Michiru_Ōshima http://dbpedia.org/resource/Ooshima_Michiru http://dbpedia.org/resource/Michiru_Oshima
+1,9,S. Bradley,http://dbpedia.org/resource/Owen_Bradley,http://dbpedia.org/resource/Scott_Bradley
+1,11,K. Tanaka,http://dbpedia.org/resource/Kakuei_Tanaka,http://dbpedia.org/resource/Kōhei_Tanaka_(composer) http://dbpedia.org/resource/Kohei_Tanaka_(composer)
+1,12,M. Oshima,http://dbpedia.org/resource/Yuko_Oshima,http://dbpedia.org/resource/Michiru_Ôshima http://dbpedia.org/resource/大島ミチル http://dbpedia.org/resource/Michiru_Ōshima http://dbpedia.org/resource/Ooshima_Michiru http://dbpedia.org/resource/Michiru_Oshima
+1,14,M. Itō,http://dbpedia.org/resource/Yuna_Ito,http://dbpedia.org/resource/Masumi_itou http://dbpedia.org/resource/伊藤真澄 http://dbpedia.org/resource/Masumi_Itō http://dbpedia.org/resource/Nanase_Hikaru http://dbpedia.org/resource/Masumi_ito http://dbpedia.org/resource/Hikaru_Nanase http://dbpedia.org/resource/Masumi_Ito http://dbpedia.org/resource/Itou_Masumi http://dbpedia.org/resource/Masumi_Itou
+1,15,K. Haneda,http://dbpedia.org/resource/Hiromi_Haneda,http://dbpedia.org/resource/Kentarô_Haneda http://dbpedia.org/resource/Kentarou_Haneda http://dbpedia.org/resource/Kentaro_Haneda http://dbpedia.org/resource/Kentaroh_Haneda http://dbpedia.org/resource/Haneken http://dbpedia.org/resource/羽田健太郎 http://dbpedia.org/resource/Kentarō_Haneda

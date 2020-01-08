@@ -1,0 +1,6 @@
+F1: 0.89189,Precision: 0.89189,Recall: 0.89189,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,8,Patrick Stuart,http://dbpedia.org/resource/Patrick_Stewart,http://dbpedia.org/resource/Patrick_Stuart_(British_Army_general)
+0,16,Arthur Borton,http://dbpedia.org/resource/Arthur_Borton,http://dbpedia.org/resource/Arthur_Borton_(British_Army_officer)
+0,34,Francis Douglas,"http://dbpedia.org/resource/John_Scott,_9th_Duke_of_Buccleuch","http://dbpedia.org/resource/Lord_Douglas_of_Barloch http://dbpedia.org/resource/Baron_douglas_of_barloch http://dbpedia.org/resource/Francis_Campbell_Ross_Douglas,_1st_Baron_Douglas_of_Barloch http://dbpedia.org/resource/Francis_Campbell_Ross_Douglas http://dbpedia.org/resource/Baron_Douglas_of_Barloch http://dbpedia.org/resource/Francis_Douglas,_1st_Baron_Douglas_of_Barloch http://dbpedia.org/resource/Francis_Campbell_Douglas"
+0,35,Gerald Creasy,http://dbpedia.org/resource/George_Creasy,http://dbpedia.org/resource/Gerald_Hallen_Creasy http://dbpedia.org/resource/Gerald_Creasy

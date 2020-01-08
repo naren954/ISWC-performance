@@ -1,0 +1,6 @@
+F1: 0.69231,Precision: 0.69231,Recall: 0.69231,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,W. B. III,http://dbpedia.org/resource/Bertrand_Russell,http://dbpedia.org/resource/William_Byrd_III
+0,3,W. Hellman,http://dbpedia.org/resource/Lillian_Hellman,http://dbpedia.org/resource/F._Warren_Hellman http://dbpedia.org/resource/Warren_Hellman
+0,9,M. Savage,http://dbpedia.org/resource/Michael_Joseph_Savage,"http://dbpedia.org/resource/Michel_Savage http://dbpedia.org/resource/Michael_Alan_Weiner http://dbpedia.org/resource/Micheal_savage http://dbpedia.org/resource/Savage,_Michael http://dbpedia.org/resource/Paul_Revere_Society http://dbpedia.org/resource/Criticism_of_Michael_Savage http://dbpedia.org/resource/Michael_Savage_(Political_Commentator) http://dbpedia.org/resource/The_political_zoo http://dbpedia.org/resource/Views_expressed_by_Michael_Savage http://dbpedia.org/resource/Michael_Savage_(commentator) http://dbpedia.org/resource/Michael_Savage http://dbpedia.org/resource/Michael_Savage_(radio_host)"
+0,13,M. Jaffrey,http://dbpedia.org/resource/Saeed_Jaffrey,http://dbpedia.org/resource/Madhur_Jaffrey

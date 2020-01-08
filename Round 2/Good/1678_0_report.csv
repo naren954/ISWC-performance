@@ -1,0 +1,5 @@
+F1: 0.90625,Precision: 0.90625,Recall: 0.90625,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,17,K. Moran,http://dbpedia.org/resource/Kyle_Moran,http://dbpedia.org/resource/Kelly_Moran
+0,18,J. Young,http://dbpedia.org/resource/Jack_Young_(Australian_rules_footballer),http://dbpedia.org/resource/Jack_Young_(speedway_rider)
+0,29,A. Moore,http://dbpedia.org/resource/Archie_Moore,http://dbpedia.org/resource/Alvin_Moore

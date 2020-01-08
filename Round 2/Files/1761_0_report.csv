@@ -1,0 +1,7 @@
+"F1: 0.50000","Precision: 0.50000","Recall: 0.50000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","3","C. Anderson","http://dbpedia.org/resource/Chris_Anderson_(pianist)","http://dbpedia.org/resource/Casey_Anderson_(naturalist)"
+"0","5","B. Sullivan","http://dbpedia.org/resource/John_Sullivan_(writer)","http://dbpedia.org/resource/Brian_Sullivan_(news_anchor)"
+"0","6","B. Edwards","http://dbpedia.org/resource/Bernard_Edwards","http://dbpedia.org/resource/Bob_Edwards http://dbpedia.org/resource/Bob_edwards"
+"0","8","A. Shah","http://dbpedia.org/resource/Abdullah_Shah","http://dbpedia.org/resource/Asif_Shah"
+"0","9","A. Foulkes","http://dbpedia.org/resource/William_Foulke_(footballer)","http://dbpedia.org/resource/Andrea_Foulkes http://dbpedia.org/resource/Andrea_foulkes"

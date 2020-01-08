@@ -1,0 +1,9 @@
+F1: 0.77419,Precision: 0.77419,Recall: 0.77419,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,A Matter of Time,http://dbpedia.org/resource/A_Matter_of_Time_(Star_Trek:_The_Next_Generation),http://dbpedia.org/resource/A_Matter_of_Time_(film) http://dbpedia.org/resource/A_Matter_of_Time_(1976_film)
+0,9,A Game of Death,http://dbpedia.org/resource/Game_of_Death,http://dbpedia.org/resource/A_Game_of_Death
+0,16,A Christmas Carol,http://dbpedia.org/resource/A_Christmas_Carol_(1938_film),http://dbpedia.org/resource/A_Christmas_Carol_(2008_film) http://dbpedia.org/resource/A_Christmas_Carol_(2009_film) http://dbpedia.org/resource/Disney's_A_Christmas_Carol http://dbpedia.org/resource/A_Christmas_Carol_(video_game)
+0,17,A Christmas Carol,http://dbpedia.org/resource/A_Christmas_Carol_(1938_film),http://dbpedia.org/resource/A_Christmas_Carol_(1960_film)
+0,21,A Bill of Divorcement,http://dbpedia.org/resource/A_Bill_of_Divorcement_(1932_film),http://dbpedia.org/resource/A_Bill_of_Divorcement_(1940_film)
+0,22,A Aa,http://dbpedia.org/resource/Bofors_40_mm_gun,http://dbpedia.org/resource/A...Aa http://dbpedia.org/resource/A..._Aa_-_Anasuya_Ramalingam_Vs_Anand_Vihari http://dbpedia.org/resource/A.._Aa_-_Anasuya_Ramalingam_Vs_Anand_Vihari http://dbpedia.org/resource/A_Aa
+0,26,24 Hours,http://dbpedia.org/resource/24_Hour_Alert,http://dbpedia.org/resource/24_Hours_(1931_film)

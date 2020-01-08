@@ -1,0 +1,3 @@
+F1: 0.96000,Precision: 0.96000,Recall: 0.96000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,13,easyJet Switzerland,http://dbpedia.org/resource/EasyJet,http://dbpedia.org/resource/TEA_Basle http://dbpedia.org/resource/Easyjet_Switzerland http://dbpedia.org/resource/EasyJet_Switzerland_SA http://dbpedia.org/resource/EasyJet_Switzerland

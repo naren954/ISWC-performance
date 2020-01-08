@@ -1,0 +1,6 @@
+F1: 0.75000,Precision: 0.75000,Recall: 0.75000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,11,Peter Kelly,http://dbpedia.org/resource/Peter_Kelly_(Dublin_hurler),http://dbpedia.org/resource/Peter_Kelly_(rugby_league)
+0,13,Peter Tunks,http://dbpedia.org/resource/Roy_Tunks,http://dbpedia.org/resource/Peter_Tunks
+0,14,Geoff Robinson,http://dbpedia.org/resource/Geoff_Robinson_(cricketer),"http://dbpedia.org/resource/Geoff_Robinson_(rugby_league,_born_1957)"
+0,16,Greg Mullane,http://dbpedia.org/resource/John_Mullane,http://dbpedia.org/resource/Greg_Mullane

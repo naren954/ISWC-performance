@@ -1,0 +1,7 @@
+"F1: 0.80000","Precision: 0.80000","Recall: 0.80000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","1","A. Maloukhina","nan","http://dbpedia.org/resource/Anna_Maloukhina http://dbpedia.org/resource/Anna_Malukhina"
+"1","9","Z. Kovács","http://dbpedia.org/resource/Zsuzsa_Kovács","http://dbpedia.org/resource/Zoltán_Kovács_(sport_shooter) http://dbpedia.org/resource/Zoltan_Kovacs_(sport_shooter)"
+"1","12","V. Cherkasova","http://dbpedia.org/resource/Marina_Cherkasova","http://dbpedia.org/resource/Valentina_Cherkasova"
+"1","14","A. Maloukhina","nan","http://dbpedia.org/resource/Anna_Maloukhina http://dbpedia.org/resource/Anna_Malukhina"
+"1","22","Z. Kovács","http://dbpedia.org/resource/Zsuzsa_Kovács","http://dbpedia.org/resource/Zoltán_Kovács_(sport_shooter) http://dbpedia.org/resource/Zoltan_Kovacs_(sport_shooter)"

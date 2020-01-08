@@ -1,0 +1,6 @@
+"F1: 0.60000","Precision: 0.60000","Recall: 0.60000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"2","1","K. Kenney","http://dbpedia.org/resource/Bob_Kenney","http://dbpedia.org/resource/Kristie_A._Kenney http://dbpedia.org/resource/Kristie_Ann_Kenney http://dbpedia.org/resource/Kristie_Kenney"
+"2","2","E. N. Adams","http://dbpedia.org/resource/Douglas_Adams","http://dbpedia.org/resource/Elizabeth_Nelson_Adams"
+"2","5","K. W. Davis","http://dbpedia.org/resource/Cushman_Kellogg_Davis","http://dbpedia.org/resource/Kathryn_Wasserman http://dbpedia.org/resource/Kathryn_Wasserman_Davis http://dbpedia.org/resource/Kathryn_W._Davis"
+"2","9","Archduchess Maria Henrietta of Austria","http://dbpedia.org/resource/Marie_Henriette_of_Austria","http://dbpedia.org/resource/Archduchess_Maria_Henrietta_of_Austria_(1883–1956) http://dbpedia.org/resource/Archduchess_Maria_Henrietta_of_Austria_(1883-1956) http://dbpedia.org/resource/Archduchess_Maria_Henrietta_of_Austria_(1883-1956)) http://dbpedia.org/resource/Archduchess_Maria_Henrietta_of_Austria"

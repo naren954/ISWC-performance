@@ -1,0 +1,5 @@
+F1: 0.97561,Precision: 0.97561,Recall: 0.97561,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,60,Information Systems Journal,http://dbpedia.org/resource/Information_Systems_(journal),http://dbpedia.org/resource/Journal_of_Information_Systems http://dbpedia.org/resource/Information_Systems_Journal
+0,98,IEEE Transactions on Control Systems and Technology,http://dbpedia.org/resource/IEEE_Transactions_on_Control_Systems_Technology,http://dbpedia.org/resource/IEEE_Transactions_on_Control_Systems_and_Technology http://dbpedia.org/resource/IEEE_Transactions_on_Control_Systems_and_Technologies
+0,113,Hypertension in Pregnancy,http://dbpedia.org/resource/Hypertension_in_Pregnancy_(journal),http://dbpedia.org/resource/Hypertension_in_Pregnancy

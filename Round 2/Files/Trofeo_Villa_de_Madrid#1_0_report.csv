@@ -1,0 +1,5 @@
+"F1: 0.70000","Precision: 0.70000","Recall: 0.70000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","1","AtlÃ©tico Madrid","http://dbpedia.org/resource/Atlético_Madrid_B","http://dbpedia.org/resource/Atlético_Madrid"
+"0","5","Independiente","http://dbpedia.org/resource/Independiente_Medellín","http://dbpedia.org/resource/Club_Atlético_Independiente"
+"0","10","VfB Stuttgart","http://dbpedia.org/resource/Arsenal_F.C.","http://dbpedia.org/resource/Vfb_Stuttgart http://dbpedia.org/resource/Verein_fur_Bewegungsspiele_Stuttgart_1893_eingetragener_Verein http://dbpedia.org/resource/Verein_fuer_Bewegungsspiele_Stuttgart_1893_eingetragener_Verein http://dbpedia.org/resource/VfB_Stuttgart_1893_e.V. http://dbpedia.org/resource/VFB_Stuttgart http://dbpedia.org/resource/Verein_für_Bewegungsspiele_Stuttgart_1893_eingetragener_Verein http://dbpedia.org/resource/Vfb_stuttgart http://dbpedia.org/resource/FV_Stuttgart http://dbpedia.org/resource/VfB_Stuttgart"

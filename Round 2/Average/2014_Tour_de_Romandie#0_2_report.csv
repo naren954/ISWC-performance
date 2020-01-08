@@ -1,0 +1,4 @@
+F1: 0.60000,Precision: 0.60000,Recall: 0.60000,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,2,Brigerbad to Sion,"http://dbpedia.org/resource/Sion,_Switzerland","http://dbpedia.org/resource/Brig-Glis http://dbpedia.org/resource/Brig_VS http://dbpedia.org/resource/Brig_(Switzerland) http://dbpedia.org/resource/Brigue http://dbpedia.org/resource/Brig,_Valais http://dbpedia.org/resource/Brig,_switzerland http://dbpedia.org/resource/Brig,_Switzerland http://dbpedia.org/resource/Brig_(Valais) http://dbpedia.org/resource/Brig-Glis,_Switzerland"
+2,4,Le Bouveret to Aigle,http://es.dbpedia.org/resource/Estación_de_Le_Bouveret,http://dbpedia.org/resource/Le_Bouveret

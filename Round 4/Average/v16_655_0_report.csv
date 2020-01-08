@@ -1,0 +1,37 @@
+F1: 0.61111,Precision: 0.61111,Recall: 0.61111,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Hepatocyte nuclear factors,http://dbpedia.org/resource/Hepatocyte_nuclear_factor_4_alpha,http://dbpedia.org/resource/Hepatocyte_nuclear_factors http://dbpedia.org/resource/Hepatocyte_nuclear_factor
+0,2,Hepatocyte nuclear factor 4,http://dbpedia.org/resource/Hepatocyte_nuclear_factor_4_alpha,http://dbpedia.org/resource/Hnf4 http://dbpedia.org/resource/Hepatocyte_nuclear_factor_4 http://dbpedia.org/resource/HNF4
+0,5,HSPA1B,,http://dbpedia.org/resource/HSPA1B http://dbpedia.org/resource/Hspa1b
+0,10,HLA-DQB3,http://dbpedia.org/resource/HLA-DQB1,http://dbpedia.org/resource/HLA-DQB3
+0,11,HLA-DO,,http://dbpedia.org/resource/HLA-DO
+0,14,H1F0,,http://dbpedia.org/resource/H1F0
+0,17,Growth hormone-binding protein,,http://dbpedia.org/resource/Growth_hormone_binding_protein http://dbpedia.org/resource/Growth_hormone-binding_protein
+0,18,Growth hormone,,http://dbpedia.org/resource/Growth_hormone http://dbpedia.org/resource/Hgh http://dbpedia.org/resource/Crescormon http://dbpedia.org/resource/ATC_code_H01AC01 http://dbpedia.org/resource/HECTOTROPE http://dbpedia.org/resource/Somatotropin http://dbpedia.org/resource/Somatotropic_factor http://dbpedia.org/resource/Nutropin_AQ http://dbpedia.org/resource/Growth_hormones http://dbpedia.org/resource/Somatropin_recombinant http://dbpedia.org/resource/Human_growth_hormone http://dbpedia.org/resource/Somatotrophic_hormone http://dbpedia.org/resource/Somatotropic_hormone http://dbpedia.org/resource/Placental_growth_hormone http://dbpedia.org/resource/HGH http://dbpedia.org/resource/Recombinant_human_growth_hormone http://dbpedia.org/resource/Asellacrin_10 http://dbpedia.org/resource/Growth_Hormone http://dbpedia.org/resource/Tev-Tropin http://dbpedia.org/resource/ZENOSIM http://dbpedia.org/resource/ATCvet_code_QH01AC01 http://dbpedia.org/resource/Human_Growth_Hormone http://dbpedia.org/resource/HGH_pills_and_releasers http://dbpedia.org/resource/Somatropin http://dbpedia.org/resource/Accretropin http://dbpedia.org/resource/Somatotrophin http://dbpedia.org/resource/Antigrowth_hormone
+0,23,Gonadotropin-releasing hormone receptor,,"http://dbpedia.org/resource/LHRH_receptor http://dbpedia.org/resource/Gonadotropin-releasing_hormone_receptor http://dbpedia.org/resource/Human_Gonadotropin_Releasing_Hormone_Type_I_Receptor http://dbpedia.org/resource/LHRHR http://dbpedia.org/resource/GnRH_receptor http://dbpedia.org/resource/Receptors,_lhrh"
+0,25,Glycophorin C,,http://dbpedia.org/resource/Gerbich_antigen_system http://dbpedia.org/resource/Glycophorin_C http://dbpedia.org/resource/CD236
+0,27,Glutathione synthetase,,http://dbpedia.org/resource/Glutathione_synthetase
+0,34,Galanin receptor,,"http://dbpedia.org/resource/Receptors,_galanin http://dbpedia.org/resource/Galanin_receptor"
+0,37,G protein-coupled receptor kinase 7,,http://dbpedia.org/resource/G_protein-coupled_receptor_kinase_7
+0,42,GLIS2,,http://dbpedia.org/resource/GLIS2 http://dbpedia.org/resource/NPHP7
+0,44,GDP-fucose protein O-fucosyltransferase 2,http://dbpedia.org/resource/GDP-fucose_protein_O-fucosyltransferase_1,http://dbpedia.org/resource/GDP-fucose_protein_O-fucosyltransferase_2
+0,49,Fukutin-related protein,,http://dbpedia.org/resource/Fukutin-related_protein http://dbpedia.org/resource/FKRP
+0,50,Frzb,,http://dbpedia.org/resource/Frzb
+0,51,"Fructose 1,6-bisphosphatase",,"http://dbpedia.org/resource/Fructose-1,6-bisphosphatase http://dbpedia.org/resource/Fructose_1,6-bisphosphatase http://dbpedia.org/resource/EC_3.1.3.11 http://dbpedia.org/resource/D-fructose-1,6-bisphosphate_1-phosphohydrolase http://dbpedia.org/resource/Fructose-1,6-bisphosphatase_deficiency"
+0,52,Free fatty acid receptor,,http://dbpedia.org/resource/Free_fatty_acid_receptor
+0,55,Formimidoyltransferase cyclodeaminase,,http://dbpedia.org/resource/Formiminotransferase_cyclodeaminase http://dbpedia.org/resource/Formimidoyltransferase_cyclodeaminase http://dbpedia.org/resource/Protein:FTCD http://dbpedia.org/resource/FTCD
+0,56,Follicle-stimulating hormone,http://dbpedia.org/resource/Urofollitropin,http://dbpedia.org/resource/Follicle_Stimulating_Hormone http://dbpedia.org/resource/FSH_(Follicle-Stimulating_hormone) http://dbpedia.org/resource/Follicle_Simulating_Hormone http://dbpedia.org/resource/Basal_FSH http://dbpedia.org/resource/High_FSH http://dbpedia.org/resource/Follicle-stimulating_hormone http://dbpedia.org/resource/FSH_levels http://dbpedia.org/resource/Human_Follicle-Stimulating_Hormone http://dbpedia.org/resource/ATCvet_code_QG03GA05 http://dbpedia.org/resource/Follicle_stimulating_hormone http://dbpedia.org/resource/ATC_code_G03GA05 http://dbpedia.org/resource/High_fsh http://dbpedia.org/resource/FSH_level http://dbpedia.org/resource/BFSH http://dbpedia.org/resource/Follicle_simulating_hormone http://dbpedia.org/resource/Follicle-Stimulating_Hormone http://dbpedia.org/resource/ATCvet_code_QG03GA90
+0,58,Fibrillin,http://dbpedia.org/resource/Fibrillin_1,http://dbpedia.org/resource/FBN2 http://dbpedia.org/resource/Fibrillin http://dbpedia.org/resource/FBN3
+0,61,Ferredoxin,,http://dbpedia.org/resource/Ferrodoxin http://dbpedia.org/resource/Ferredoxin http://dbpedia.org/resource/Fe2S2 http://dbpedia.org/resource/Ferredoxins
+0,63,Fascin,,http://dbpedia.org/resource/Fascin
+0,64,Factor XIII,,"http://dbpedia.org/resource/Protein-glutamine_g-glutamyltransferase http://dbpedia.org/resource/EC_2.3.2.13 http://dbpedia.org/resource/Coagulation_factor_XIII http://dbpedia.org/resource/Factor_XIIIa http://dbpedia.org/resource/Factor_xiii http://dbpedia.org/resource/Factor_XIII http://dbpedia.org/resource/Factor_XIII_deficiency,_congenital http://dbpedia.org/resource/Fibrin-stabilizing_factor http://dbpedia.org/resource/Factor_xiiia"
+0,67,FUT4,,http://dbpedia.org/resource/FUT4
+0,68,FKBP6,,http://dbpedia.org/resource/FKBP6
+0,74,Extracellular signal–regulated kinases,,http://dbpedia.org/resource/Extracellular-signal-regulated_kinase http://dbpedia.org/resource/Extracellular_signal-regulated_map_kinases http://dbpedia.org/resource/Extracellular_signal–regulated_kinases http://dbpedia.org/resource/Mitogen-activated_protein_kinase_3 http://dbpedia.org/resource/Erk_kinase http://dbpedia.org/resource/ERKs http://dbpedia.org/resource/ERK_kinase http://dbpedia.org/resource/Extracellular_signal-regulated_kinases http://dbpedia.org/resource/Extracellular_signal-regulated_kinase
+0,75,Estrogen receptor,,"http://dbpedia.org/resource/Receptors,_estrogen http://dbpedia.org/resource/Estrogen_receptor http://dbpedia.org/resource/ER_subtypes http://dbpedia.org/resource/Estradiol_receptor http://dbpedia.org/resource/Oestrogen_receptor http://dbpedia.org/resource/Estrogen_receptors http://dbpedia.org/resource/Estrogen_receptor_negative http://dbpedia.org/resource/Estrogen_receptor_modulators http://dbpedia.org/resource/Estrogen_receptor_positive"
+0,77,Epididymal secretory protein E1,,http://dbpedia.org/resource/Epididymal_secretory_protein_E1 http://dbpedia.org/resource/NPC2
+0,81,Endothelial lipase,,http://dbpedia.org/resource/LIPG http://dbpedia.org/resource/Endothelial_lipase
+0,82,Emopamil binding protein,,http://dbpedia.org/resource/Emopamil_binding_protein http://dbpedia.org/resource/EBP_(gene)
+0,85,EVC2,,http://dbpedia.org/resource/EVC2
+0,87,ELMO3,,http://dbpedia.org/resource/Engulfment_and_cell_motility_protein_3 http://dbpedia.org/resource/ELMO3
+0,88,EIF4A,,http://dbpedia.org/resource/EIF4A http://dbpedia.org/resource/Eif4a

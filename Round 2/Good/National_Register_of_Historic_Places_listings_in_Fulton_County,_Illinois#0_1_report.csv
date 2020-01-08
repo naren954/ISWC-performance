@@ -1,0 +1,8 @@
+F1: 0.86047,Precision: 0.86047,Recall: 0.86047,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,5,"Chicago, Burlington and Quincy Railroad Station",http://dbpedia.org/resource/Plano_station,"http://dbpedia.org/resource/Chicago,_Burlington_&_Quincy_Railroad_Station_(Canton,_Illinois) http://dbpedia.org/resource/Chicago,_Burlington_and_Quincy_Railroad_Station_(Canton,_Illinois)"
+1,11,Duvall-Ash Farmstead,http://dbpedia.org/resource/Duvall–Ash_Farmstead,http://dbpedia.org/resource/Duvall-Ash_Farmstead
+1,23,Oak Hill Cemetery,"http://dbpedia.org/resource/Oak_Hill_Cemetery_(Lebanon,_Indiana)","http://dbpedia.org/resource/Oak_Hill_Cemetery_(Lewistown,_Illinois)"
+1,37,St. James Episcopal Church,"http://dbpedia.org/resource/St._James_Episcopal_Church_(Grosse_Ile,_Michigan)","http://dbpedia.org/resource/St._James_Episcopal_Church_(Lewistown,_Illinois) http://dbpedia.org/resource/St._James_Episcopal_Church_(Lewiston,_Illinois)"
+1,38,Stapleford-Hoover-Whitney House,http://dbpedia.org/resource/Stapleford–Hoover–Whitney_House,http://dbpedia.org/resource/Stapleford-Hover-Whitney_House http://dbpedia.org/resource/Stapleford-Hoover-Whitney_House
+1,42,Vermont Historic District,"http://dbpedia.org/resource/Plymouth_Historic_District_(Plymouth,_Vermont)",http://dbpedia.org/resource/Vermont_Historic_District

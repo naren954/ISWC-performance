@@ -1,0 +1,6 @@
+"F1: 0.94872","Precision: 0.94872","Recall: 0.94872"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","26","Ferdinand","http://dbpedia.org/resource/Archduke_Franz_Ferdinand_of_Austria","http://dbpedia.org/resource/Ferdinand_(horse)"
+"0","50","Eliza","http://dbpedia.org/resource/Eliza_Courtney","http://dbpedia.org/resource/Eliza_(horse)"
+"0","52","Eleanor","http://dbpedia.org/resource/Eleanor_of_Aquitaine","http://dbpedia.org/resource/Eleanor_(horse)"
+"0","56","Easton","http://dbpedia.org/resource/John_Easton","http://dbpedia.org/resource/Easton_(horse)"

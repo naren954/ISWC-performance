@@ -1,0 +1,10 @@
+F1: 0.80000,Precision: 0.80000,Recall: 0.80000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,7,You Make Me Feel Like Dancing,http://dbpedia.org/resource/You_Make_Me_Feel_Like_a_Man,http://dbpedia.org/resource/You_Make_Me_Feel_Like_Dancing
+0,8,You Make Me Feel,http://dbpedia.org/resource/(You_Make_Me_Feel_Like)_A_Natural_Woman,http://dbpedia.org/resource/You_Make_Me_Feel_(Annagrace_song) http://dbpedia.org/resource/You_Make_Me_Feel_(AnnaGrace_song)
+0,9,You Make Me Feel...,http://dbpedia.org/resource/(You_Make_Me_Feel_Like)_A_Natural_Woman,http://dbpedia.org/resource/You_Make_Me_Feel... http://dbpedia.org/resource/You_Make_Me_Feel_(Cobra_Starship_song) http://dbpedia.org/resource/You_Make_Me_Feel…
+0,22,You Lie,http://dbpedia.org/resource/You_Lie_(Reba_McEntire_song),http://dbpedia.org/resource/You_Lie_(The_Band_Perry_song)
+0,25,You Know You Like It,http://dbpedia.org/resource/When_the_Pawn...,http://dbpedia.org/resource/You_Know_You_Like_It_(DJ_Snake_and_AlunaGeorge_song) http://dbpedia.org/resource/You_Know_You_Like_It
+0,28,You Know My Name,http://dbpedia.org/resource/You_Know_My_Name,http://dbpedia.org/resource/Denis_O'Dell http://dbpedia.org/resource/You_Know_My_Name_(Look_up_the_Number) http://dbpedia.org/resource/You_Know_My_Name_(Look_Up_The_Number) http://dbpedia.org/resource/You_Know_My_Name_(Look_Up_the_Number) http://dbpedia.org/resource/You_Know_My_Name_(Beatles_song)
+0,29,You Know My Name,http://dbpedia.org/resource/You_Know_My_Name,http://dbpedia.org/resource/You_Know_My_Name_(Courtney_Love_song)
+0,32,You Know Me,http://dbpedia.org/resource/You_Know_Me_(2_Pistols_song),http://dbpedia.org/resource/You_Know_Me_(Robbie_Williams_song)

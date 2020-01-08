@@ -1,0 +1,5 @@
+"F1: 0.95833","Precision: 0.95833","Recall: 0.95833"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","26","1950 Belgian Grand Prix","http://dbpedia.org/resource/1950_British_Grand_Prix","http://dbpedia.org/resource/1950_Belgian_Grand_Prix"
+"1","30","1961 United States Grand Prix","http://dbpedia.org/resource/1960_United_States_Grand_Prix","http://dbpedia.org/resource/1961_United_States_Grand_Prix"
+"1","40","1953 Argentine Grand Prix","http://dbpedia.org/resource/1971_Argentine_Grand_Prix","http://dbpedia.org/resource/1953_Argentine_Grand_Prix"

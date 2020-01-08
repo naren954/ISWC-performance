@@ -1,0 +1,4 @@
+F1: 0.75000,Precision: 0.75000,Recall: 0.75000,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,2,Patriotas,http://dbpedia.org/resource/New_England_Patriots,http://dbpedia.org/resource/Patriotas_FC http://dbpedia.org/resource/Patriotas_F.C.
+2,8,Real Santander,http://dbpedia.org/resource/Racing_de_Santander,http://dbpedia.org/resource/Pumas_de_Casanare http://dbpedia.org/resource/Real_Santander

@@ -1,0 +1,4 @@
+"F1: 0.87500","Precision: 0.87500","Recall: 0.87500"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","13","The Captains","http://dbpedia.org/resource/Captain_&_Tennille","http://dbpedia.org/resource/The_Captains_(Japanese_band) http://dbpedia.org/resource/The_Captains_(film) http://dbpedia.org/resource/The_Captains:_A_Film_by_William_Shatner"
+"1","16","Elsa & Fred","http://dbpedia.org/resource/Elsa_&_Fred_(2005_film)","http://dbpedia.org/resource/Elsa_&_Fred_(2014_film)"

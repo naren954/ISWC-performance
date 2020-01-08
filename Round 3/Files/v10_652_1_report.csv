@@ -1,0 +1,5 @@
+"F1: 0.89286","Precision: 0.89286","Recall: 0.89286"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","7","The Capture","http://dbpedia.org/resource/Captured_(Journey_album)","http://dbpedia.org/resource/The_Capture_(novel) http://dbpedia.org/resource/The_Capture_(Animorphs)"
+"1","11","Ishmael","http://dbpedia.org/resource/Ishmael_(Star_Trek)","http://dbpedia.org/resource/Ishmael_novel http://dbpedia.org/resource/Ishmael_(novel) http://dbpedia.org/resource/Ishmael_(book) http://dbpedia.org/resource/Ishmael_by_Daniel_Quinn"
+"1","21","The Redeemer","http://dbpedia.org/resource/The_Redeemer","http://dbpedia.org/resource/The_Redeemer_(novel)"

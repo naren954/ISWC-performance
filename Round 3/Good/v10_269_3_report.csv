@@ -1,0 +1,5 @@
+F1: 0.90625,Precision: 0.90625,Recall: 0.90625,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,23,A. Ascari,http://dbpedia.org/resource/Alberto_Ascari,http://dbpedia.org/resource/Antonio_Ascari
+3,27,J. A. Murphy,http://dbpedia.org/resource/John_Murphy_(bishop),http://dbpedia.org/resource/James_Anthony_Murphy
+3,32,A. Duray,http://dbpedia.org/resource/Leon_Duray,http://dbpedia.org/resource/Arthur_Duray

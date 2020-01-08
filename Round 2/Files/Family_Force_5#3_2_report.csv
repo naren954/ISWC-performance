@@ -1,0 +1,4 @@
+"F1: 0.75000","Precision: 0.75000","Recall: 0.75000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"2","3","Born Again (Miracles Edition)","http://dbpedia.org/resource/Born_Again_(The_Notorious_B.I.G._album)","http://dbpedia.org/resource/Born_Again_(Newsboys_album) http://dbpedia.org/resource/Born_Again:_Miracles_Edition"
+"2","10","The White Album (Remix Project)","http://dbpedia.org/resource/Weezer_(White_Album)","http://dbpedia.org/resource/The_White_Album_(UNITED_album) http://dbpedia.org/resource/The_White_Album_(Hillsong_United_album)"

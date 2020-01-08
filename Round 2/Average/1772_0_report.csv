@@ -1,0 +1,5 @@
+F1: 0.75000,Precision: 0.75000,Recall: 0.75000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,Dancing Queen,http://dbpedia.org/resource/Dancing_Queen_(1993_film),http://dbpedia.org/resource/Dancing_Queen_(TV_series)
+0,5,Comic Relief Does Fame Academy,http://dbpedia.org/resource/Fame_Academy,http://dbpedia.org/resource/Comic_Relief_does_Fame_Academy http://dbpedia.org/resource/Comic_Relief_Does_Fame_Academy http://dbpedia.org/resource/Celebrity_Fame_Academy http://dbpedia.org/resource/Comic_relief_does_Fame_Academy
+0,12,Celebrity Circus,http://dbpedia.org/resource/Celebrity_Circus_(Australian_TV_series),http://dbpedia.org/resource/Celebrity_Circus_(U.S._TV_series) http://dbpedia.org/resource/Celebrity_Circus_(U.S.) http://dbpedia.org/resource/Circus_with_Celebrities

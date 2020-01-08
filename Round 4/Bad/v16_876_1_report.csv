@@ -1,0 +1,5 @@
+F1: 0.50000,Precision: 0.50000,Recall: 0.50000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,3,Y. Salahuddin,http://dbpedia.org/resource/Masood_Salahuddin,http://dbpedia.org/resource/Yousaf_Salli http://dbpedia.org/resource/Yousuf_Salahuddin http://dbpedia.org/resource/Yousaf_Salahuddin http://dbpedia.org/resource/Mian_Yousuf_Salahuddin
+1,4,H. D. Jr.,http://dbpedia.org/resource/Barack_Obama,"http://dbpedia.org/resource/Harmon_Drew,_Jr. http://dbpedia.org/resource/Harmon_Drew_Jr."
+1,6,J. O'Keefe,http://dbpedia.org/resource/Joseph_O'Keefe,http://dbpedia.org/resource/Johnny_O'Keefe http://dbpedia.org/resource/Johnny_O’Keefe http://dbpedia.org/resource/John_Michael_O'Keefe

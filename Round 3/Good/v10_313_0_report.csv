@@ -1,0 +1,8 @@
+F1: 0.95620,Precision: 0.95620,Recall: 0.95620,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,27,The Eighteenth Century,http://dbpedia.org/resource/Eighteenth-Century_Studies,http://dbpedia.org/resource/The_Eighteenth_Century_(journal) http://dbpedia.org/resource/The_Eighteenth_Century http://dbpedia.org/resource/The_Eighteenth_Century_(magazine) http://dbpedia.org/resource/Studies_in_Burke_and_His_Time
+0,60,Southern Economic Association,http://dbpedia.org/resource/Journal_of_the_European_Economic_Association,http://dbpedia.org/resource/Southern_Economic_Association http://dbpedia.org/resource/Southern_Economic_Journal
+0,89,Pulmonary Circulation,http://dbpedia.org/resource/Circulation_(journal),http://dbpedia.org/resource/Pulmonary_Circulation_(journal) http://dbpedia.org/resource/Pulmonary_Circulation_journal
+0,98,Political Psychology,http://dbpedia.org/resource/Biological_Psychology_(journal),http://dbpedia.org/resource/Political_Psychology_journal http://dbpedia.org/resource/Political_Psychology_(journal)
+0,100,Policy Sciences,http://dbpedia.org/resource/Journal_of_Policy_Analysis_and_Management,http://dbpedia.org/resource/Policy_Sciences
+0,113,Pennsylvania History: A Journal of Mid-Atlantic Studies,http://dbpedia.org/resource/Pennsylvania_History_(journal),http://dbpedia.org/resource/Pennsylvania_History http://dbpedia.org/resource/Pennsylvania_History:_A_Journal_of_Mid-Atlantic_Studies

@@ -1,0 +1,8 @@
+F1: 0.93103,Precision: 0.93103,Recall: 0.93103,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,…on the Radio,http://dbpedia.org/resource/On_the_Radio_(Donna_Summer_song),http://dbpedia.org/resource/…on_the_Radio_(Remember_the_Days) http://dbpedia.org/resource/..._On_the_Radio_(Remember_the_Days) http://dbpedia.org/resource/Shit_on_the_Radio_(Remember_the_Days) http://dbpedia.org/resource/...On_The_Radio_(Remember_The_Days) http://dbpedia.org/resource/...On_the_Radio_(Remember_the_Days) http://dbpedia.org/resource/...on_the_Radio_(Remember_the_Days)
+0,30,Zero,http://dbpedia.org/resource/Zero_(The_Smashing_Pumpkins_song),http://dbpedia.org/resource/Zero_(Yeah_Yeah_Yeahs_song)
+0,32,Zero,http://dbpedia.org/resource/Zero_(The_Smashing_Pumpkins_song),http://dbpedia.org/resource/Zero_(Chris_Brown_song)
+0,67,Your Love,http://dbpedia.org/resource/Your_Love_(Nicole_Scherzinger_song),http://dbpedia.org/resource/Your_Love_(Diddy_-_Dirty_Money_song) http://dbpedia.org/resource/Your_Love_(Diddy-Dirty_Money_song) http://dbpedia.org/resource/Your_Love_(Diddy_–_Dirty_Money_song)
+0,75,Your Heart Turned Left,http://dbpedia.org/resource/I_Wish_You_Could_Have_Turned_My_Head_(And_Left_My_Heart_Alone),http://dbpedia.org/resource/Your_Heart_Turned_Left_(And_I_Was_on_the_Right)
+0,86,Your Body,http://dbpedia.org/resource/Your_Body_(Christina_Aguilera_song),http://dbpedia.org/resource/Your_Body_(Pretty_Ricky_song)

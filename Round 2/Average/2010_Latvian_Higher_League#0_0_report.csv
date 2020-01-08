@@ -1,0 +1,5 @@
+F1: 0.70000,Precision: 0.70000,Recall: 0.70000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,FK JaunÄ«ba,http://dbpedia.org/resource/FK_Bane,http://dbpedia.org/resource/FK_Jaunība_Rīga
+0,4,FK JÅ«rmala-VV,http://dbpedia.org/resource/FK_Daugava_(2003),http://dbpedia.org/resource/FK_Jūrmala-VV
+0,8,SK BlÄ\u0081zma,,http://dbpedia.org/resource/SK_Blāzma

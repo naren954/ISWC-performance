@@ -1,0 +1,18 @@
+F1: 0.60976,Precision: 0.60976,Recall: 0.60976,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,7,V. Silayan,http://dbpedia.org/resource/Victor_Silayan,http://dbpedia.org/resource/Vic_Silayan
+0,11,S. Chaplin,http://dbpedia.org/resource/Charlie_Chaplin,http://dbpedia.org/resource/Syd_Chaplin http://dbpedia.org/resource/Sydney_Chaplin
+0,15,S. Sim,http://dbpedia.org/resource/Georges_Simenon,"http://dbpedia.org/resource/Sheila_Sim http://dbpedia.org/resource/Sheila_Beryl_Grant_Attenborough,_Lady_Attenborough http://dbpedia.org/resource/Lady_attenborough http://dbpedia.org/resource/Sheila_attenborough"
+0,17,S. W. Abbas,http://dbpedia.org/resource/Mahmoud_Abbas,http://dbpedia.org/resource/Saba_Hamid http://dbpedia.org/resource/Saba_Hameed http://dbpedia.org/resource/Saba_Parvez http://dbpedia.org/resource/Saba_Waseem_Abbas http://dbpedia.org/resource/Saba_hameed
+0,19,R. Reagan,http://dbpedia.org/resource/Ronald_Reagan,"http://dbpedia.org/resource/Ronald_Reagan,_Jr. http://dbpedia.org/resource/Ronald_Reagan_Junior http://dbpedia.org/resource/Ron_Reagan_Jr. http://dbpedia.org/resource/Ron_Reagan http://dbpedia.org/resource/Ronald_Reagan_Jr. http://dbpedia.org/resource/Ron_Regan_Jr. http://dbpedia.org/resource/Ron_Prescott_Reagan http://dbpedia.org/resource/Doria_Palmieri http://dbpedia.org/resource/Ron_Regean http://dbpedia.org/resource/Ron_regan http://dbpedia.org/resource/Ronald_Prescott_Reagan http://dbpedia.org/resource/Ron_regan,_jr."
+0,20,R. Padilla,http://dbpedia.org/resource/Bárbara_Padilla,http://dbpedia.org/resource/Rommel_Padilla
+0,21,R. Wagner,http://dbpedia.org/resource/Richard_Wagner,"http://dbpedia.org/resource/Robert_wagner http://dbpedia.org/resource/Robert_Wagner http://dbpedia.org/resource/Wagner,_Robert http://dbpedia.org/resource/Robert_Wagner_(actor)"
+0,22,R. Belushi,http://dbpedia.org/resource/Jim_Belushi,http://dbpedia.org/resource/Robert_Belushi
+0,26,R. Stone,http://dbpedia.org/resource/Joss_Stone,http://dbpedia.org/resource/Rhashan_Stone
+0,28,R. Boone,http://dbpedia.org/resource/Debby_Boone,http://dbpedia.org/resource/Randy_Boone
+0,29,R. Padilla,http://dbpedia.org/resource/Bárbara_Padilla,http://dbpedia.org/resource/RJ_Padilla
+0,31,P. Pascual,http://es.dbpedia.org/resource/Emilio_Pascual,http://dbpedia.org/resource/Piolo_Pascual
+0,32,P. Medina,http://dbpedia.org/resource/Patricia_Medina,http://dbpedia.org/resource/Pen_Medina http://dbpedia.org/resource/Crispin_medina
+0,35,P. Davis,http://dbpedia.org/resource/Paul_Davis_(singer),http://dbpedia.org/resource/Patti_Reagan http://dbpedia.org/resource/Patty_Davis http://dbpedia.org/resource/Patti_Davis_Reagan http://dbpedia.org/resource/Patti_Davis http://dbpedia.org/resource/Patty_reagan http://dbpedia.org/resource/Patricia_Ann_Reagan
+0,37,P. Bai,http://dbpedia.org/resource/Pammi_Bai,http://dbpedia.org/resource/Pandaribai http://dbpedia.org/resource/Pandhari_Bai http://dbpedia.org/resource/Pandari_Bai
+0,40,M. Stone,http://dbpedia.org/resource/Matt_Stone,http://dbpedia.org/resource/Milburn_Stone

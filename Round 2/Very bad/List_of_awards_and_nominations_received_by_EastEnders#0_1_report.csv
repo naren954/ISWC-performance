@@ -1,0 +1,4 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,Best Drama Series[5],http://dbpedia.org/resource/Primetime_Emmy_Award_for_Outstanding_Drama_Series,http://dbpedia.org/resource/British_academy_television_award_for_best_drama_series http://dbpedia.org/resource/BAFTA_TV_Award_for_Best_Drama_Series http://dbpedia.org/resource/British_Academy_Television_Award_for_Best_Drama_Series http://dbpedia.org/resource/Bafta_for_best_drama_series
+1,11,Best Actress[3][15],http://dbpedia.org/resource/Academy_Award_for_Best_Supporting_Actress,http://dbpedia.org/resource/British_Academy_Television_Award_for_Best_Actress http://dbpedia.org/resource/British_academy_television_award_for_best_actress

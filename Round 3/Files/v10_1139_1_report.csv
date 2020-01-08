@@ -1,0 +1,6 @@
+"F1: 0.94872","Precision: 0.94872","Recall: 0.94872"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","3","Sweet Trip","http://dbpedia.org/resource/The_Sweet","http://dbpedia.org/resource/Sweet_trip http://dbpedia.org/resource/Sweet_Trip"
+"1","4","Nails","http://dbpedia.org/resource/Jimmy_Nail","http://dbpedia.org/resource/Nails_(band)"
+"1","49","Emerson Drive","http://dbpedia.org/resource/Emerson_Fittipaldi","http://dbpedia.org/resource/Dale_Wallace http://dbpedia.org/resource/Danick_Dupelle http://dbpedia.org/resource/Jeff_Loberg http://dbpedia.org/resource/Mike_Melancon http://dbpedia.org/resource/Patrick_Bourque http://dbpedia.org/resource/Emerson_Drive http://dbpedia.org/resource/Brad_Mates"
+"1","55","The Whitlams","http://dbpedia.org/resource/Gough_Whitlam","http://dbpedia.org/resource/The_Whitlams http://dbpedia.org/resource/Whitlams"

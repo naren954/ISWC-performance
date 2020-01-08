@@ -1,0 +1,6 @@
+"F1: 0.71429","Precision: 0.71429","Recall: 0.71429"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"2","3","El derecho de nacer","http://dbpedia.org/resource/El_derecho_de_nacer_(1981_TV_series)","http://dbpedia.org/resource/El_Derecho_de_Nacer_(2001_telenovela) http://dbpedia.org/resource/El_derecho_de_nacer_(2001_telenovela)"
+"2","5","Hold the Dream","http://dbpedia.org/resource/American_Dreams","http://dbpedia.org/resource/Hold_the_Dream_(mini-series) http://dbpedia.org/resource/Hold_the_Dream http://dbpedia.org/resource/Hold_the_Dream_(miniseries)"
+"2","7","Walking Tall","http://dbpedia.org/resource/Walking_Tall_(2004_film)","http://dbpedia.org/resource/Walking_Tall_(TV_series)"
+"2","11","Charlie Brown's All-Stars","http://dbpedia.org/resource/Charlie_Brown's_All_Stars!","http://dbpedia.org/resource/Charlie_Brown's_All-Stars"

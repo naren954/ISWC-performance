@@ -1,0 +1,6 @@
+F1: 0.66667,Precision: 0.66667,Recall: 0.66667,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,1,Volume 2,"http://dbpedia.org/resource/The_Capitol_Albums,_Volume_2","http://dbpedia.org/resource/CKY,_Volume_2 http://dbpedia.org/resource/CKY,_Vol._2_(compilation) http://dbpedia.org/resource/Volume_2_(CKY_Album) http://dbpedia.org/resource/CKY,_Vol._2 http://dbpedia.org/resource/Volume_2_(CKY_album)"
+2,4,Turn It Around!,http://dbpedia.org/resource/Turn_It_Around_(song),http://dbpedia.org/resource/Turn_It_Around!
+2,6,Save Me From Myself,http://dbpedia.org/resource/Back_to_Basics_(Christina_Aguilera_album),http://dbpedia.org/resource/Save_Me_from_Myself_(album) http://dbpedia.org/resource/It's_Time_to_See_Religion_Die http://dbpedia.org/resource/Save_Me_From_Myself_(album)
+2,12,4,http://dbpedia.org/resource/4_(Matisse_EP),http://dbpedia.org/resource/4_(Beyonce_Knowles_album) http://dbpedia.org/resource/4_(Beyoncé_album) http://dbpedia.org/resource/4_Beyoncé http://dbpedia.org/resource/Four_(Beyoncé_album) http://dbpedia.org/resource/4_(Beyonce_Knowles_Album) http://dbpedia.org/resource/4_(Beyonce_album) http://dbpedia.org/resource/Beyoncé:_Year_of_4 http://dbpedia.org/resource/4_(Beyoncé_Knowles_album) http://dbpedia.org/resource/IV_(Beyoncé_Knowles_album) http://dbpedia.org/resource/Beyoncé_4

@@ -1,0 +1,25 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,San Juan,"http://dbpedia.org/resource/San_Juan,_Puerto_Rico",http://dbpedia.org/resource/USS_San_Juan_(SSN_751) http://dbpedia.org/resource/USS_San_Juan_(SSN-751) http://dbpedia.org/resource/SSN-751
+0,2,Pasadena,http://dbpedia.org/resource/Pasadena_(TV_series),http://dbpedia.org/resource/USS_Pasadena_(SSN_752) http://dbpedia.org/resource/SSN-752 http://dbpedia.org/resource/USS_Pasadena_(SSN-752)
+0,3,Albany,"http://dbpedia.org/resource/Prince_Frederick,_Duke_of_York_and_Albany",http://dbpedia.org/resource/SSN-753 http://dbpedia.org/resource/USS_Albany_(SSN-753) http://dbpedia.org/resource/USS_Albany_(SSN_753)
+0,4,Topeka,"http://dbpedia.org/resource/Topeka,_Kansas",http://dbpedia.org/resource/USS_Topeka_(SSN-754) http://dbpedia.org/resource/USS_Topeka_(SSN_754) http://dbpedia.org/resource/SSN-754
+0,5,Miami,http://dbpedia.org/resource/CSI:_Miami,http://dbpedia.org/resource/USS_Miami_(SSN-755) http://dbpedia.org/resource/Casey_Fury http://dbpedia.org/resource/USS_Miami_(SSN_755) http://dbpedia.org/resource/Casey_James_Fury http://dbpedia.org/resource/SSN-755
+0,6,Scranton,http://dbpedia.org/resource/William_Scranton,http://dbpedia.org/resource/USS_Scranton_(SSN_756) http://dbpedia.org/resource/USS_Scranton_(SSN-756) http://dbpedia.org/resource/SSN-756
+0,7,Alexandria,http://dbpedia.org/resource/Library_of_Alexandria,http://dbpedia.org/resource/USS_Alexandria_(SSN_757) http://dbpedia.org/resource/USS_Alexandria_(SSN-757) http://dbpedia.org/resource/SSN-757
+0,8,Asheville,http://dbpedia.org/resource/North_Carolina,http://dbpedia.org/resource/USS_Asheville_(SSN_758) http://dbpedia.org/resource/USS_Asheville_(SSN-758) http://dbpedia.org/resource/SSN-758
+0,9,Jefferson City,"http://dbpedia.org/resource/Jefferson_City,_Missouri",http://dbpedia.org/resource/USS_Jefferson_City_(SSN-759) http://dbpedia.org/resource/USS_Jefferson_City http://dbpedia.org/resource/USS_Jefferson_City_(SSN_759) http://dbpedia.org/resource/SSN-759
+0,10,Annapolis,http://dbpedia.org/resource/Annapolis_(2006_film),http://dbpedia.org/resource/USS_Annapolis_(SSN-760) http://dbpedia.org/resource/SSN-760 http://dbpedia.org/resource/USS_Annapolis_(SSN_760)
+0,11,Springfield,http://dbpedia.org/resource/Dusty_Springfield,http://dbpedia.org/resource/USS_Springfield_(SSN-761) http://dbpedia.org/resource/SSN-761 http://dbpedia.org/resource/USS_Springfield_(SSN_761)
+0,12,Columbus,http://dbpedia.org/resource/Christopher_Columbus,http://dbpedia.org/resource/USS_Columbus_(SSN_762) http://dbpedia.org/resource/USS_Columbus_(SSN-762) http://dbpedia.org/resource/SSN-762
+0,13,Santa Fe,http://dbpedia.org/resource/Bogotá,http://dbpedia.org/resource/USS_Santa_Fe_(SSN_763) http://dbpedia.org/resource/USS_Santa_Fe_(SSN-763) http://dbpedia.org/resource/SSN-763
+0,14,Boise,"http://dbpedia.org/resource/Boise,_Idaho",http://dbpedia.org/resource/SSN-764 http://dbpedia.org/resource/USS_Boise_(SSN-764) http://dbpedia.org/resource/USS_Boise_(SSN_764)
+0,15,Montpelier,http://dbpedia.org/resource/Montpellier,http://dbpedia.org/resource/SSN-765 http://dbpedia.org/resource/USS_Montpelier_(SSN-765) http://dbpedia.org/resource/USS_Montpelier_(SSN_765)
+0,16,Charlotte,http://dbpedia.org/resource/Charlotte_Rampling,http://dbpedia.org/resource/USS_Charlotte_(SSN-766) http://dbpedia.org/resource/USS_Charlotte_(SSN_766) http://dbpedia.org/resource/SSN-766
+0,17,Hampton,http://dbpedia.org/resource/Lionel_Hampton,http://dbpedia.org/resource/SSN-767 http://dbpedia.org/resource/USS_Hampton_(SSN_767) http://dbpedia.org/resource/USS_Hampton_(SSN-767)
+0,18,Hartford,http://dbpedia.org/resource/Connecticut,http://dbpedia.org/resource/USS_Hartford_(SSN-768) http://dbpedia.org/resource/USS_Hartford_(SSN_768) http://dbpedia.org/resource/SSN-768
+0,19,Toledo,"http://dbpedia.org/resource/Fernando_Álvarez_de_Toledo,_3rd_Duke_of_Alba",http://dbpedia.org/resource/SSN-769 http://dbpedia.org/resource/USS_Toledo_(SSN-769) http://dbpedia.org/resource/USS_Toledo_(SSN_769)
+0,20,Tucson,"http://dbpedia.org/resource/Tucson,_Arizona",http://dbpedia.org/resource/USS_Tucson_(SSN_770) http://dbpedia.org/resource/SSN-770 http://dbpedia.org/resource/USS_Tucson_(SSN-770)
+0,21,Columbia,http://dbpedia.org/resource/Colombia,http://dbpedia.org/resource/USS_Columbia_(SSN_771) http://dbpedia.org/resource/USS_Columbia_(SSN-771) http://dbpedia.org/resource/SSN-771
+0,22,Greeneville,"http://dbpedia.org/resource/Greenville,_South_Carolina",http://dbpedia.org/resource/USS_Greeneville_(SSN-772) http://dbpedia.org/resource/USS_Greeneville_(SSN_772) http://dbpedia.org/resource/USS_Greenville http://dbpedia.org/resource/USS_Greeneville http://dbpedia.org/resource/Uss_greenville http://dbpedia.org/resource/USS_Greeneville_(SSN-722) http://dbpedia.org/resource/SSN-772
+0,23,Cheyenne,http://dbpedia.org/resource/Cheyenne_(TV_series),http://dbpedia.org/resource/USS_Cheyenne_(SSN-773) http://dbpedia.org/resource/USS_Cheyenne_(SSN_773) http://dbpedia.org/resource/SSN-773

@@ -1,0 +1,4 @@
+F1: 0.60000,Precision: 0.60000,Recall: 0.60000,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,1,BRM,http://dbpedia.org/resource/Team_Lotus,http://dbpedia.org/resource/British_Racing_Motor http://dbpedia.org/resource/Owen_Racing_Organisation http://dbpedia.org/resource/BRM http://dbpedia.org/resource/British_Racing_Motors
+2,3,Ferrari,http://dbpedia.org/resource/Ferrari,http://dbpedia.org/resource/SEFAC http://dbpedia.org/resource/Scuderia_Ferrari http://dbpedia.org/resource/Ferrari_Grand_Prix http://dbpedia.org/resource/Ferrari_2008 http://dbpedia.org/resource/Ferrari_(F1) http://dbpedia.org/resource/Scuderia_Ferrari_Marlboro http://dbpedia.org/resource/Ferrari_F1

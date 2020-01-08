@@ -1,0 +1,5 @@
+F1: 0.84211,Precision: 0.84211,Recall: 0.84211,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,6,Police Story,http://dbpedia.org/resource/Police_Story_(1985_film),http://dbpedia.org/resource/Police_Story_(TV_series) http://dbpedia.org/resource/Police_Story_(movie) http://dbpedia.org/resource/Police_Story http://dbpedia.org/resource/Police_Story_(film) http://dbpedia.org/resource/Police_Story_(disambiguation)
+1,11,The Equalizer,http://dbpedia.org/resource/The_Equalizer_(film),http://dbpedia.org/resource/The_Equalizer_(TV_series) http://dbpedia.org/resource/The_Equalizer http://dbpedia.org/resource/The_Equaliser http://dbpedia.org/resource/The_Equalizer_(TV_show)
+1,14,Crime Story,http://dbpedia.org/resource/Crime_Story_(American_TV_series),http://dbpedia.org/resource/Crime_Story_(TV_Series) http://dbpedia.org/resource/Crime_Story_(TV_series)

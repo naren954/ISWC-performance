@@ -1,0 +1,8 @@
+"F1: 0.90000","Precision: 0.90000","Recall: 0.90000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","4","P. Russell","http://dbpedia.org/resource/Phil_Russell_(ice_hockey)","http://dbpedia.org/resource/Patrick_Russell_(ice_hockey)"
+"0","6","P. Holland","http://dbpedia.org/resource/Peter_Holland_(ice_hockey)","http://dbpedia.org/resource/Patrick_Holland_(ice_hockey)"
+"0","7","P. Bordeleau","http://dbpedia.org/resource/Paulin_Bordeleau","http://dbpedia.org/resource/Patrick_Bordeleau"
+"0","8","P. Bjorkstrand","http://dbpedia.org/resource/Oliver_Bjorkstrand","http://dbpedia.org/resource/Patrick_Bjorkstrand"
+"0","22","N. Jensen","http://dbpedia.org/resource/Nick_Jensen","http://dbpedia.org/resource/Nicklas_D._Jensen http://dbpedia.org/resource/Nicklas_Jensen_(ice_hockey) http://dbpedia.org/resource/Nicklas_Jensen"
+"0","56","M. Bäckman","http://dbpedia.org/resource/Christian_Bäckman","http://dbpedia.org/resource/Mattias_Bäckman http://dbpedia.org/resource/Mattias_Backman"

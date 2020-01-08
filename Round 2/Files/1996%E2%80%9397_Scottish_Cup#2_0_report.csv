@@ -1,0 +1,5 @@
+"F1: 0.75000","Precision: 0.75000","Recall: 0.75000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","2","Queenâ\u0080\u0099s Park","http://dbpedia.org/resource/Sedgley_Park_R.U.F.C.","http://dbpedia.org/resource/Queen's_Park_F.C."
+"0","5","Spartans","http://dbpedia.org/resource/Hamrun_Spartans_F.C.","http://dbpedia.org/resource/Spartans_F._C. http://dbpedia.org/resource/Ainslie_Park http://dbpedia.org/resource/Spartans_F.C. http://dbpedia.org/resource/Spartans_F_C http://dbpedia.org/resource/Spartans_FC http://dbpedia.org/resource/Spartans_F.C._the_best"
+"0","6","Whitehill Welfare","http://dbpedia.org/resource/Spartans_W.F.C.","http://dbpedia.org/resource/Whitehill_Welfare_F.C. http://dbpedia.org/resource/Whitehill_Welfare_F_C http://dbpedia.org/resource/Whitehill_Welfare_F._C. http://dbpedia.org/resource/Whitehill_Welfare_FC"

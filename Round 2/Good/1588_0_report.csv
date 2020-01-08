@@ -1,0 +1,8 @@
+F1: 0.79310,Precision: 0.79310,Recall: 0.79310,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Don't Cry,http://dbpedia.org/resource/Don't_Cry,http://dbpedia.org/resource/Don't_Cry_(Human_Nature_song)
+0,8,Cryin',http://dbpedia.org/resource/Crying_(Roy_Orbison_song),http://dbpedia.org/resource/Head_First_(Aerosmith) http://dbpedia.org/resource/Cryin' http://dbpedia.org/resource/Cryin'_(Aerosmith_song) http://dbpedia.org/resource/Cryin'_(song)
+0,14,Chains,http://dbpedia.org/resource/Chains_(Cookies_song),http://dbpedia.org/resource/Chains_(Tina_Arena_song)
+0,17,Can't Buy Me Love,http://dbpedia.org/resource/Can't_Buy_My_Love,http://dbpedia.org/resource/Can't_buy_me_love http://dbpedia.org/resource/Can't_Buy_Me_Love_(The_Beatles_song) http://dbpedia.org/resource/Can't_Buy_me_Love http://dbpedia.org/resource/Can’t_Buy_Me_Love http://dbpedia.org/resource/Can't_Buy_Me_Love
+0,26,Better the Devil You Know,http://dbpedia.org/resource/Say_You'll_Be_Mine_(Steps_song),http://dbpedia.org/resource/Better_the_devil_you_know http://dbpedia.org/resource/Better_the_Devil_You_Know http://dbpedia.org/resource/Better_The_Devil_You_Know
+0,29,"Betcha by Golly, Wow",http://dbpedia.org/resource/Keep_Growing_Strong,"http://dbpedia.org/resource/Betcha_by_Golly,_Wow http://dbpedia.org/resource/Betcha_By_Golly_Wow http://dbpedia.org/resource/Betcha_by_golly_wow_(covered_by_Prince) http://dbpedia.org/resource/Betcha_by_Golly_Wow!"

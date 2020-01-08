@@ -1,0 +1,9 @@
+F1: 0.80000,Precision: 0.80000,Recall: 0.80000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,14,P. Holm,http://dbpedia.org/resource/Per_Holm,http://dbpedia.org/resource/Poul_Holm
+0,19,M. Lucas,http://dbpedia.org/resource/Maurice_Lucas,http://dbpedia.org/resource/Meriel_Lucas
+0,20,M. Barrett,"http://dbpedia.org/resource/Mike_Barrett_(basketball,_born_1943)",http://dbpedia.org/resource/Marjorie_Barrett
+0,21,M. Horsley,http://dbpedia.org/resource/Jack_Horsley,http://dbpedia.org/resource/Marian_Horsley
+0,28,J. C. Alston,http://dbpedia.org/resource/William_J._Alston,http://dbpedia.org/resource/Joseph_Cameron_Alston http://dbpedia.org/resource/Joe_Alston http://dbpedia.org/resource/Joseph_C._Alston
+0,29,J. Timperley,http://dbpedia.org/resource/June_Timperley,http://dbpedia.org/resource/John_Timperley_(badminton)
+0,30,J. '. Doyle,http://dbpedia.org/resource/Johnny_Doyle,http://dbpedia.org/resource/James'Chick'Doyle http://dbpedia.org/resource/James_Doyle_(badminton) http://dbpedia.org/resource/Chick_Doyle http://dbpedia.org/resource/James_'Chick'_Doyle

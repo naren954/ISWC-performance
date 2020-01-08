@@ -1,0 +1,7 @@
+F1: 0.80769,Precision: 0.80769,Recall: 0.80769,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,4,CLG Eoghan Rua,http://dbpedia.org/resource/St_Oliver_Plunketts/Eoghan_Ruadh_GAA,http://dbpedia.org/resource/Coleraine_GAC http://dbpedia.org/resource/Colraine_GFC http://dbpedia.org/resource/CLG_Eoghan_Rua http://dbpedia.org/resource/Coleraine_GAA http://dbpedia.org/resource/Owen_Roe_GAC
+1,10,Swatragh GAC,http://dbpedia.org/resource/Corofin_GAC,http://dbpedia.org/resource/Swatragh_GAA http://dbpedia.org/resource/Swatragh_GAC
+1,17,Sarsfield's GAA,http://dbpedia.org/resource/Sarsfields_GAA_(County_Galway),http://dbpedia.org/resource/Sarsfield's_GAA_(Cork) http://dbpedia.org/resource/Sarsfields_GAA_(Cork) http://dbpedia.org/resource/Sarsfields_GAA_(County_Cork)
+1,20,Dromintee St Patrick's GAC,http://dbpedia.org/resource/St_Patrick's_Athletic_F.C.,http://dbpedia.org/resource/Dromintee_St_Patrick's_GAC
+1,23,Donaghmore St. Patrick's,http://dbpedia.org/resource/St_Patrick's_Athletic_F.C.,http://dbpedia.org/resource/Donaghmore_St._Patrick's http://dbpedia.org/resource/Donaghmore_St._Patrick's_GAC

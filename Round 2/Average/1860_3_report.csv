@@ -1,0 +1,38 @@
+F1: 0.51351,Precision: 0.51351,Recall: 0.51351,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,1,D. McKellar,http://dbpedia.org/resource/Danica_McKellar,http://dbpedia.org/resource/Don_Mckellar http://dbpedia.org/resource/Don_McKellar
+3,2,G. Kerrigan,http://dbpedia.org/resource/Lodge_Kerrigan,http://dbpedia.org/resource/Gene_Kerrigan
+3,4,C. Thompson,http://dbpedia.org/resource/Carlos_Thompson,http://dbpedia.org/resource/Caroline_Thompson
+3,7,N. Noxon,http://dbpedia.org/resource/Marti_Noxon,http://dbpedia.org/resource/Nicolas_Noxon
+3,11,J. Lofton,http://dbpedia.org/resource/James_Lofton,http://dbpedia.org/resource/Julie_Friedman http://dbpedia.org/resource/Julie_Lofton
+3,15,H. Williams,http://dbpedia.org/resource/Hank_Williams,http://dbpedia.org/resource/Hype_Williams_(director) http://dbpedia.org/resource/DJ_Hype_Wills_2088 http://dbpedia.org/resource/Hype_Williams
+3,17,B. Forsyth,http://dbpedia.org/resource/Bruce_Forsyth,http://dbpedia.org/resource/Bill_Forsyth
+3,21,T. Herlihy,http://dbpedia.org/resource/Thomas_Herlihy,http://dbpedia.org/resource/Tim_Herlihy
+3,24,B. Gordon,http://dbpedia.org/resource/Barry_Gordon,http://dbpedia.org/resource/Bernard_Gordon_(writer)
+3,26,A. Basu,http://dbpedia.org/resource/Bipasha_Basu,http://dbpedia.org/resource/Anurag_Basu
+3,27,P. Brothers,http://dbpedia.org/resource/Aphex_Twin,http://dbpedia.org/resource/Oxide_Pang_Chun http://dbpedia.org/resource/Pang_brothers http://dbpedia.org/resource/The_Pang_Brothers http://dbpedia.org/resource/Pang_Brothers http://dbpedia.org/resource/Oxide_Pang
+3,28,B. N. Reddy,http://dbpedia.org/resource/B._Nagi_Reddy,http://dbpedia.org/resource/B._N._Reddi http://dbpedia.org/resource/Bommireddy_Narasimha_Reddy http://dbpedia.org/resource/B_N_Reddy http://dbpedia.org/resource/B.N._Reddy http://dbpedia.org/resource/BN_Reddy http://dbpedia.org/resource/Bomireddi_Narasimha_Reddy http://dbpedia.org/resource/B._N._Reddy http://dbpedia.org/resource/B._Narasimha_Reddy
+3,29,A. Menon,http://dbpedia.org/resource/Arjun_Menon,http://dbpedia.org/resource/Anjali_Menon
+3,32,N. Pandey,http://dbpedia.org/resource/Nirmal_Pandey,http://dbpedia.org/resource/Jai_Hind_(2015_film) http://dbpedia.org/resource/Neeraj_pandey http://dbpedia.org/resource/M.S.Dhoni_(film) http://dbpedia.org/resource/Neeraj_Pandey http://dbpedia.org/resource/Crack_(film)
+3,34,G. Miller,http://dbpedia.org/resource/George_Miller_(Arizona_politician),http://dbpedia.org/resource/Dr._D_Studios http://dbpedia.org/resource/George_Miller_(director) http://dbpedia.org/resource/George_Miller_(filmmaker) http://dbpedia.org/resource/George_Miller_(producer)
+3,35,D. Zucker,http://dbpedia.org/resource/David_Zucker_(director),http://dbpedia.org/resource/David_Zucker_(filmmaker)
+3,37,S. Sivan,http://dbpedia.org/resource/Troye_Sivan,http://dbpedia.org/resource/Santhosh_Sivan http://dbpedia.org/resource/Santhosh_Shivan http://dbpedia.org/resource/Santosh_Shivan http://dbpedia.org/resource/Santosh_Sivan
+3,38,S. V. Milton,http://dbpedia.org/resource/John_Milton,http://dbpedia.org/resource/Vijay_Milton http://dbpedia.org/resource/S.D._Vijay_Milton
+3,39,M. Paxton,http://dbpedia.org/resource/Bill_Paxton,http://dbpedia.org/resource/Michael_Paxton
+3,40,P. Ranjith,http://dbpedia.org/resource/Malcolm_Ranjith,http://dbpedia.org/resource/Pa._Ranjith
+3,41,V. Vamsi,http://dbpedia.org/resource/Krishna_Vamsi,http://dbpedia.org/resource/Vakkantham_Vamsi
+3,43,A. Kumar,http://dbpedia.org/resource/Akshay_Kumar,http://dbpedia.org/resource/Ajith_(actor) http://dbpedia.org/resource/Ultimate_Star http://dbpedia.org/resource/Ajith_Kumar http://dbpedia.org/resource/Ajithkumar http://dbpedia.org/resource/Ajit_Kumar http://dbpedia.org/resource/Ajitkumar http://dbpedia.org/resource/Thalai http://dbpedia.org/resource/Ajith_kumar http://dbpedia.org/resource/King_of_Opening
+3,47,A. Sargent,http://dbpedia.org/resource/John_Singer_Sargent,http://dbpedia.org/resource/Alvin_Sargent
+3,48,A. Goldberg,http://dbpedia.org/resource/Whoopi_Goldberg,http://dbpedia.org/resource/Andrew_Goldberg_(director)
+3,49,J. Halas,http://dbpedia.org/resource/František_Halas,http://dbpedia.org/resource/John_Halas http://dbpedia.org/resource/János_Halász
+3,52,K. Johnson,http://dbpedia.org/resource/Dwayne_Johnson,http://dbpedia.org/resource/Lillian_Weezer http://dbpedia.org/resource/Kenneth_Johnson_(producer)
+3,55,M. Johnson,http://dbpedia.org/resource/Richard_Mentor_Johnson,http://dbpedia.org/resource/Monica_Johnson
+3,56,I. Wolfert,http://de.dbpedia.org/resource/Katharina_Wolfert,http://dbpedia.org/resource/Ira_Wolfert
+3,58,R. K. Oermann,http://dbpedia.org/resource/Richard_Kyrke_Penson,http://dbpedia.org/resource/Robert_K._Oermann
+3,59,K. Merrill,http://dbpedia.org/resource/Dina_Merrill,http://dbpedia.org/resource/Kieth_W._Merrill http://dbpedia.org/resource/Kieth_Merrill
+3,61,P. Michels,http://pt.dbpedia.org/resource/Pedro_Michels,http://dbpedia.org/resource/Pete_Michels
+3,62,A. Overtoom,http://dbpedia.org/resource/Willie_Overtoom,http://dbpedia.org/resource/Andrew_Overtoom
+3,64,B. Davidson,http://dbpedia.org/resource/Bruce_Davidson_(photographer),http://dbpedia.org/resource/Mishpahat_Tzan'ani http://dbpedia.org/resource/Azit_Hakalba_Hatzanhanit http://dbpedia.org/resource/Shablul http://dbpedia.org/resource/Lool_(Television_show) http://dbpedia.org/resource/Boaz_Davidson
+3,68,A. Shine,http://dbpedia.org/resource/Johnny_Shines,http://dbpedia.org/resource/Abrid_Shine
+3,73,A. Shivdasani,http://dbpedia.org/resource/Sadhana_Shivdasani,http://dbpedia.org/resource/Aftab_Shivdasani http://dbpedia.org/resource/Aaftab_Shivdasani
+3,74,M. M. Thomas,http://dbpedia.org/resource/M._Carey_Thomas,http://dbpedia.org/resource/Midhun_Manuel_Thomas

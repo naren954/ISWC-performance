@@ -1,0 +1,8 @@
+F1: 0.96610,Precision: 0.96610,Recall: 0.96610,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,28,Hyperolius bopeleti,http://dbpedia.org/resource/Dizangue_reed_frog,http://dbpedia.org/resource/Hyperolius_bopeleti
+0,65,Hylarana jimiensis,http://dbpedia.org/resource/Hylarana_celebensis,http://dbpedia.org/resource/Rana_jimiensis http://dbpedia.org/resource/Hylarana_jimiensis
+0,70,Hyla chlorostea,http://dbpedia.org/resource/Hyloscirtus_chlorosteus,http://dbpedia.org/resource/Hyla_chlorostea
+0,128,Gyrinophilus palleucus necturoides,http://dbpedia.org/resource/Tennessee_cave_salamander,http://dbpedia.org/resource/Big_Mouth_Cave_salamander http://dbpedia.org/resource/Gyrinophilus_palleucus_necturoides
+0,145,Guerreran stream frog,http://dbpedia.org/resource/Ptychohyla_salvadorensis,http://dbpedia.org/resource/Ptychohyla_erythromma http://dbpedia.org/resource/Guerreran_stream_frog
+0,159,Green big-eyed tree frog,http://dbpedia.org/resource/Leptopelis_vermiculatus,http://dbpedia.org/resource/Green_big-eyed_tree_frog http://dbpedia.org/resource/Nyctimystes_humeralis http://dbpedia.org/resource/Green_Big-eyed_Tree_Frog

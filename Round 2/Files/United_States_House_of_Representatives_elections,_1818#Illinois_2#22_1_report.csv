@@ -1,0 +1,5 @@
+"F1: 0.86957","Precision: 0.86957","Recall: 0.86957"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","15","William J. Lewis","http://dbpedia.org/resource/William_James_Lewis","http://dbpedia.org/resource/William_J._Lewis"
+"1","20","James Johnson","http://dbpedia.org/resource/James_Johnson_(Kentucky)","http://dbpedia.org/resource/James_Johnson_(Virginia_congressman) http://dbpedia.org/resource/James_Johnson_(Virginia) http://dbpedia.org/resource/James_Johnson_(VA_congressman)"
+"1","22","Hugh Nelson","http://dbpedia.org/resource/Hugh_Nelson_(Canadian_politician)","http://dbpedia.org/resource/Hugh_Nelson_(U.S._Representative) http://dbpedia.org/resource/Hugh_Nelson_(congressman)"

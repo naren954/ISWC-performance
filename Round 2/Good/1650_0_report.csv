@@ -1,0 +1,11 @@
+F1: 0.93706,Precision: 0.93706,Recall: 0.93706,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,7,S. Evans,http://dbpedia.org/resource/Stewart_Evans,"http://dbpedia.org/resource/Steve_Evans_(footballer_born_1962) http://dbpedia.org/resource/Steve_Evans_(football_manager) http://dbpedia.org/resource/Steve_Evans_(footballer,_born_1962)"
+0,12,S. Davis,"http://dbpedia.org/resource/Steve_Davis_(footballer,_born_1965)","http://dbpedia.org/resource/Steve_Davis_(1968_footballer) http://dbpedia.org/resource/Steve_Davis_(footballer_born_1968) http://dbpedia.org/resource/Steve_Davis_(footballer,_born_1968)"
+0,23,S. Castle,http://dbpedia.org/resource/Sid_Castle,http://dbpedia.org/resource/Steve_Castle
+0,27,S. Brown,http://dbpedia.org/resource/Sean_Brown,"http://dbpedia.org/resource/Steve_Brown_(footballer,_born_1972) http://dbpedia.org/resource/Steve_Brown_(footballer_born_1972)"
+0,57,S. Baxter,http://dbpedia.org/resource/Stuart_Baxter,http://dbpedia.org/resource/Stephen_Baxter_(footballer)
+0,58,S. Aitken,http://dbpedia.org/resource/Roy_Aitken,http://dbpedia.org/resource/Stephen_Aitken
+0,66,S. Badea,http://dbpedia.org/resource/Ionuț_Badea,http://dbpedia.org/resource/Stelian_Badea http://dbpedia.org/resource/Stelian_Bade http://dbpedia.org/resource/Badea_Stelian
+0,69,S. Jones,http://dbpedia.org/resource/Scott_Jones_(Puerto_Rican_footballer),http://dbpedia.org/resource/Steffi_Jones
+0,120,S. Smith,http://dbpedia.org/resource/Stanford_Smith,"http://dbpedia.org/resource/Stan_Smith_(footballer,_born_1931) http://dbpedia.org/resource/Stan_Smith_(footballer_born_1931) http://dbpedia.org/resource/Stan_Smith_(English_footballer)"

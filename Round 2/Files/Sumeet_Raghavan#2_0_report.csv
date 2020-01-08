@@ -1,0 +1,4 @@
+"F1: 0.50000","Precision: 0.50000","Recall: 0.50000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","1","Rush Hour 2","http://dbpedia.org/resource/Rush_Hour_3","http://dbpedia.org/resource/RHII http://dbpedia.org/resource/Rush_Hour_2_(movie) http://dbpedia.org/resource/Rush_Hour_II http://dbpedia.org/resource/Rush_Hour_2 http://dbpedia.org/resource/RH2"
+"0","4","Shanghai Noon","http://dbpedia.org/resource/Shanghai_Knights","http://dbpedia.org/resource/Shanghai_Noon"

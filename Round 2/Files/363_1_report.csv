@@ -1,0 +1,5 @@
+"F1: 0.92500","Precision: 0.92500","Recall: 0.92500"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","26","Marine Biological Laboratory","http://dbpedia.org/resource/Woods_Hole_Oceanographic_Institution","http://dbpedia.org/resource/Marine_Biological_Laboratory http://dbpedia.org/resource/Woods_Hole_Marine_Biological_Laboratory"
+"1","28","American Ornithologists' Union","http://dbpedia.org/resource/American_Ornithological_Society","http://dbpedia.org/resource/American_Ornithologists'_Union http://dbpedia.org/resource/South_American_Classification_Committee http://dbpedia.org/resource/American_Ornithologists_Union http://dbpedia.org/resource/South_American_Checklist_Committee http://dbpedia.org/resource/A.O.U. http://dbpedia.org/resource/American_Ornithological_Union"
+"1","33","Institute of Mathematical Statistics","http://dbpedia.org/resource/University_of_São_Paulo","http://dbpedia.org/resource/Institute_of_Mathematical_Statistics"

@@ -1,0 +1,4 @@
+"F1: 0.81818","Precision: 0.81818","Recall: 0.81818"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","6","Matt Jones","http://dbpedia.org/resource/Matt_Jones_(running_back)","http://dbpedia.org/resource/Matthew_Jones_(golfer) http://dbpedia.org/resource/Matt_Jones_(golfer)"
+"1","10","Jerry Kelly","http://dbpedia.org/resource/Jerry_Kelly_(basketball)","http://dbpedia.org/resource/Jerry_Kelly"

@@ -1,0 +1,4 @@
+"F1: 0.86667","Precision: 0.86667","Recall: 0.86667"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"2","2","Team RMG","http://dbpedia.org/resource/Team_SCA","http://dbpedia.org/resource/Team_RMG"
+"2","8","DJR Team Penske","http://dbpedia.org/resource/Team_Penske","http://dbpedia.org/resource/DJR_Team_Penske http://dbpedia.org/resource/DJR_XE_Falcon_Grand_Prix http://dbpedia.org/resource/Dick_Johnson_Racing http://dbpedia.org/resource/DJR http://dbpedia.org/resource/Jim_Beam_Racing"

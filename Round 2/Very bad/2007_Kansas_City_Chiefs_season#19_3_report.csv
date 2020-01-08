@@ -1,0 +1,6 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,4,Johnson 1 run,http://dbpedia.org/resource/First_Battle_of_Bull_Run,http://dbpedia.org/resource/Larry_Johnson_(American_football)
+3,5,Jennings 13 pass from Favre,http://dbpedia.org/resource/Rainy_Day_Woman,http://dbpedia.org/resource/Greg_Jennings
+3,8,Gonzalez 17 pass from Huard,http://dbpedia.org/resource/Riddick_Bowe_vs._Jorge_Luis_González,http://dbpedia.org/resource/Tony_Gonzalez_(American_football) http://dbpedia.org/resource/Anthony_David_Gonzalez http://dbpedia.org/resource/Tony_Gonzalez_(football_player) http://dbpedia.org/resource/Tony_Gonzalez_(tight_end) http://dbpedia.org/resource/Tony_González_(American_football)
+3,11,Woodson 46 interception return,http://dbpedia.org/resource/List_of_hexagrams_of_the_I_Ching,http://dbpedia.org/resource/Charles_C_Woodson http://dbpedia.org/resource/Charles_Woodson http://dbpedia.org/resource/Charles_C._Woodson

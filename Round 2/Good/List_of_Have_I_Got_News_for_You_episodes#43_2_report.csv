@@ -1,0 +1,4 @@
+F1: 0.77778,Precision: 0.77778,Recall: 0.77778,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,2,David Mitchell,http://dbpedia.org/resource/David_Mitchell_(author),http://dbpedia.org/resource/David_Mitchell_(comedian) http://dbpedia.org/resource/David_Mitchell's_Soap_Box http://dbpedia.org/resource/David_Mitchell_(actor)
+2,9,Bill Bailey,http://dbpedia.org/resource/Axl_Rose,http://dbpedia.org/resource/Dandelion_Mind http://dbpedia.org/resource/Billbailey.co.uk http://dbpedia.org/resource/Bill_Bailey http://dbpedia.org/resource/Tinsel_Worm http://dbpedia.org/resource/Tinselworm http://dbpedia.org/resource/Bewilderness http://dbpedia.org/resource/Cosmic_Jam http://dbpedia.org/resource/Part_Troll http://dbpedia.org/resource/Tinsel_worm

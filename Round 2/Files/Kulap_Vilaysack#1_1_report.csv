@@ -1,0 +1,5 @@
+"F1: 0.81250","Precision: 0.81250","Recall: 0.81250"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","14","Secret Girlfriend","http://dbpedia.org/resource/Crazy_Ex-Girlfriend","http://dbpedia.org/resource/Secret_Girlfriend"
+"1","19","Whitney","http://dbpedia.org/resource/Just_Whitney","http://dbpedia.org/resource/Whitney_(TV_series)"
+"1","23","Comedy Bang! Bang!","http://dbpedia.org/resource/Tittybangbang","http://dbpedia.org/resource/Comedy_Bang_Bang_(TV_series) http://dbpedia.org/resource/Comedy_Bang!_Bang!_(TV_series) http://dbpedia.org/resource/Comedy_Bang_Bang_(TV_Series)"

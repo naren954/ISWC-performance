@@ -1,0 +1,6 @@
+F1: 0.87097,Precision: 0.87097,Recall: 0.87097,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Siege of Gaeta,http://dbpedia.org/resource/Siege_of_Gaeta_(1734),http://dbpedia.org/resource/Siege_of_Gaeta_(1815)
+0,2,Siege of Gaeta,http://dbpedia.org/resource/Siege_of_Gaeta_(1734),http://dbpedia.org/resource/Siege_of_Gaeta_(1806)
+0,19,Siege of Fort St Philip,http://dbpedia.org/resource/Siege_of_Fort_St._Philip_(1815),http://dbpedia.org/resource/Siege_of_Fort_St._Philip_(1756) http://dbpedia.org/resource/Fall_of_Minorca http://dbpedia.org/resource/Siege_of_Fort_St._Phillip_(1756) http://dbpedia.org/resource/Siege_of_Minorca http://dbpedia.org/resource/Siege_of_Fort_St_Philip_(1756)
+0,22,Siege of Fort Nashwaak,http://dbpedia.org/resource/Siege_of_Fort_Morgan,http://dbpedia.org/resource/Siege_of_Fort_Nashwaak_(1696)

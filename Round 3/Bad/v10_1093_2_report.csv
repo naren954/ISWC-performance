@@ -1,0 +1,29 @@
+F1: 0.38636,Precision: 0.38636,Recall: 0.38636,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,1,S. Kaga,http://dbpedia.org/resource/Shigeru_Kaga,http://dbpedia.org/resource/Shouzou_Kaga
+2,2,S. Kaga,http://dbpedia.org/resource/Shigeru_Kaga,http://dbpedia.org/resource/Shouzou_Kaga
+2,3,S. Kaga,http://dbpedia.org/resource/Shigeru_Kaga,http://dbpedia.org/resource/Shouzou_Kaga
+2,4,K. Nojima,http://dbpedia.org/resource/Kenji_Nojima,http://dbpedia.org/resource/Kazushige_Nojima-san http://dbpedia.org/resource/Kazushige_Nojima http://dbpedia.org/resource/Nojima_Kazushige
+2,5,D. Watanabe,http://dbpedia.org/resource/Ken_Watanabe,http://dbpedia.org/resource/Daisuke_Watanabe
+2,6,D. Watanabe,http://dbpedia.org/resource/Ken_Watanabe,http://dbpedia.org/resource/Daisuke_Watanabe
+2,7,M. Toriyama,http://dbpedia.org/resource/Akira_Toriyama,http://dbpedia.org/resource/Motomu_Toriyama
+2,8,D. Watanabe,http://dbpedia.org/resource/Ken_Watanabe,http://dbpedia.org/resource/Daisuke_Watanabe
+2,9,M. Kato,http://dbpedia.org/resource/Miliyah_Kato,http://dbpedia.org/resource/Masato_Kato
+2,10,K. Nojima,http://dbpedia.org/resource/Kenji_Nojima,http://dbpedia.org/resource/Kazushige_Nojima-san http://dbpedia.org/resource/Kazushige_Nojima http://dbpedia.org/resource/Nojima_Kazushige
+2,11,K. Nojima,http://dbpedia.org/resource/Kenji_Nojima,http://dbpedia.org/resource/Kazushige_Nojima-san http://dbpedia.org/resource/Kazushige_Nojima http://dbpedia.org/resource/Nojima_Kazushige
+2,12,T. Woolsey,http://dbpedia.org/resource/Lynn_Woolsey,http://dbpedia.org/resource/Ted_Woolsey http://dbpedia.org/resource/Woolseyism http://dbpedia.org/resource/Ted_woosley
+2,13,H. Sakaguchi,http://dbpedia.org/resource/Alicja_Sakaguchi,http://dbpedia.org/resource/Sakaguchi_Hironobu http://dbpedia.org/resource/Hironobu_Sakaguti http://dbpedia.org/resource/Hironobu_Sakaguchi http://dbpedia.org/resource/Sakaguti_Hironobu
+2,14,T. Tokita,http://dbpedia.org/resource/Kōichi_Tokita,http://dbpedia.org/resource/Takashi_Tokita
+2,17,M. Toriyama,http://dbpedia.org/resource/Akira_Toriyama,http://dbpedia.org/resource/Motomu_Toriyama
+2,18,M. Toriyama,http://dbpedia.org/resource/Akira_Toriyama,http://dbpedia.org/resource/Motomu_Toriyama
+2,21,T. Tokita,http://dbpedia.org/resource/Kōichi_Tokita,http://dbpedia.org/resource/Takashi_Tokita
+2,27,F. Dille,http://dbpedia.org/resource/Steve_Dille,http://dbpedia.org/resource/Flint_Dille
+2,28,S. Callaghan,http://dbpedia.org/resource/James_Callaghan,http://dbpedia.org/resource/Steve_Callaghan
+2,29,Y. Sakamoto,http://dbpedia.org/resource/Ryuichi_Sakamoto,http://dbpedia.org/resource/Yoshio_Sakamoto
+2,30,E. Pagliarulo,http://it.dbpedia.org/resource/Gianfranco_Pagliarulo,http://dbpedia.org/resource/Emil_Pagliarulo
+2,31,E. Pagliarulo,http://it.dbpedia.org/resource/Gianfranco_Pagliarulo,http://dbpedia.org/resource/Emil_Pagliarulo
+2,32,T. Cain,http://dbpedia.org/resource/Herman_Cain,http://dbpedia.org/resource/Tim_Cain http://dbpedia.org/resource/Timothy_Cain
+2,33,D. Cage,http://dbpedia.org/resource/Nicolas_Cage,http://dbpedia.org/resource/David_Cage http://dbpedia.org/resource/David_De_Gruttola
+2,40,A. Garland,http://dbpedia.org/resource/Judy_Garland,http://dbpedia.org/resource/Alex_Garland
+2,41,D. Ellis,http://dbpedia.org/resource/Dale_Ellis,http://dbpedia.org/resource/Dave_Ellis_(game_designer)
+2,44,T. Hall,http://dbpedia.org/resource/Theodore_Hall,http://dbpedia.org/resource/Tom_Hall

@@ -1,0 +1,16 @@
+F1: 0.62162,Precision: 0.62162,Recall: 0.62162,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,3,M. Douglas,http://dbpedia.org/resource/Melvyn_Douglas,"http://dbpedia.org/resource/Michael_Douglas http://dbpedia.org/resource/Douglas,_Michael http://dbpedia.org/resource/Michael_dougless http://dbpedia.org/resource/Michael_Kirk_Douglas http://dbpedia.org/resource/Michael_douglas"
+2,4,A. P. Wilson,http://dbpedia.org/resource/Richard_Wilson_(painter),http://dbpedia.org/resource/Al_Wilson_(pilot) http://dbpedia.org/resource/Albert_Pete_Wilson
+2,7,M. Victoria,http://dbpedia.org/resource/Queen_Victoria,http://dbpedia.org/resource/Maria_Victoria http://dbpedia.org/resource/María_Victoria
+2,10,M. Simon,http://dbpedia.org/resource/Marie_Jalowicz-Simon,http://dbpedia.org/resource/Michel_Simon
+2,12,K. Francis,http://dbpedia.org/resource/Francis_I_of_France,"http://dbpedia.org/resource/Katharine_Edwina_Gibbs http://dbpedia.org/resource/Katherine_Gibbs http://dbpedia.org/resource/Kay_Francis http://dbpedia.org/resource/Katherine_Edwina_Gibbs http://dbpedia.org/resource/Francis,_Kay"
+2,15,C. Darling,http://dbpedia.org/resource/Darling_Légitimus,http://dbpedia.org/resource/James_Lawrence_Slattery http://dbpedia.org/resource/Candy_Darling
+2,18,W. Henry,http://dbpedia.org/resource/William_Henry_(chemist),"http://dbpedia.org/resource/William_A._Henry_(actor) http://dbpedia.org/resource/William_""Bill""_Henry http://dbpedia.org/resource/William_Henry_(actor) http://dbpedia.org/resource/Scott_Jordan_(actor) http://dbpedia.org/resource/William_'Bill'_Henry http://dbpedia.org/resource/Bill_Henry_(actor)"
+2,19,V. Huston,http://dbpedia.org/resource/John_Huston,http://dbpedia.org/resource/Virginia_Huston
+2,25,G. Barraud,http://dbpedia.org/resource/Henry_Barraud,http://dbpedia.org/resource/George_Barraud
+2,26,G. McKee,http://dbpedia.org/resource/Lonette_McKee,http://dbpedia.org/resource/Gina_Mckee http://dbpedia.org/resource/Gina_McKee
+2,29,R. Hare,http://dbpedia.org/resource/George_III_of_the_United_Kingdom,http://dbpedia.org/resource/Robertson_Hare http://dbpedia.org/resource/J._Robertson_Hare
+2,30,C. Kendall,http://dbpedia.org/resource/Cavan_Kendall,http://dbpedia.org/resource/Cy_Kendall
+2,32,P. O'Brien,http://dbpedia.org/resource/Peter_O'Brien_(actor),http://dbpedia.org/resource/Pat_O'Brien_(actor)
+2,33,S. Glenn,http://dbpedia.org/resource/John_Glenn,http://dbpedia.org/resource/Scott_Glenn

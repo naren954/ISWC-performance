@@ -1,0 +1,19 @@
+F1: 0.84956,Precision: 0.84956,Recall: 0.84956,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,J. Riley,"http://dbpedia.org/resource/Jack_Riley_(ice_hockey,_born_1919)","http://dbpedia.org/resource/Jack_Riley_(ice_hockey_b._1908) http://dbpedia.org/resource/Jack_Riley_(ice_hockey,_born_1908) http://dbpedia.org/resource/Jack_Riley_(ice_hockey_b._1910)"
+0,6,J. McLean,http://dbpedia.org/resource/Jeff_McLean_(ice_hockey),http://dbpedia.org/resource/Jack_McLean_(ice_hockey)
+0,8,J. Marshall,http://dbpedia.org/resource/Joe_Marshall,http://dbpedia.org/resource/Jack_Marshall_(hockey_player) http://dbpedia.org/resource/Jack_Marshall_(ice_hockey)
+0,10,J. LeClair,http://dbpedia.org/resource/John_LeClair,http://dbpedia.org/resource/Jack_LeClair
+0,13,J. Jackson,http://dbpedia.org/resource/Josh_Jackson_(basketball),http://dbpedia.org/resource/Jack_Jackson_(ice_hockey)
+0,27,J. Adams,"http://dbpedia.org/resource/Jack_Adams_(ice_hockey,_born_1920)","http://dbpedia.org/resource/Jack_Adams_(1895-1968) http://dbpedia.org/resource/Jack_Adams http://dbpedia.org/resource/Adams,_John_James http://dbpedia.org/resource/Adams,_Jack http://dbpedia.org/resource/Jack_Adams_(ice_hockey_born_1895) http://dbpedia.org/resource/Jack_Adams_(coach) http://dbpedia.org/resource/Jack_Adams_(ice_hockey_b._1895) http://dbpedia.org/resource/John_James_Adams http://dbpedia.org/resource/Jack_Adams_(1895–1968) http://dbpedia.org/resource/Jack_Adams_(Coach) http://dbpedia.org/resource/Jack_Adams_(ice_hockey,_born_1895)"
+0,45,H. Davidson,http://dbpedia.org/resource/Scotty_Davidson,http://dbpedia.org/resource/Hubert_Davidson
+0,46,H. Wilson,http://dbpedia.org/resource/Harry_Wilson_(American_football),http://dbpedia.org/resource/Hub_Wilson
+0,54,H. Smith,http://dbpedia.org/resource/Happy_Smith,"http://dbpedia.org/resource/Hooley_Smith http://dbpedia.org/resource/Reginald_“Hooley”_Smith http://dbpedia.org/resource/Reginald_""Hooley""_Smith http://dbpedia.org/resource/Reginald_Smith_(ice_hockey)"
+0,57,H. Wilson,http://dbpedia.org/resource/Harry_Wilson_(American_football),"http://dbpedia.org/resource/Harold_Wilson_(ice_hockey) http://dbpedia.org/resource/Hobb_Wilson http://dbpedia.org/resource/Harold_""Hobb""_Wilson"
+0,68,H. Harris,http://dbpedia.org/resource/Hugh_Harris_(ice_hockey),"http://dbpedia.org/resource/Henry_""Smoky""_Harris http://dbpedia.org/resource/Henry_Harris_(ice_hockey)"
+0,69,H. Akervall,http://dbpedia.org/resource/Henry_Åkervall,http://dbpedia.org/resource/Hank_Akervall http://dbpedia.org/resource/Henry_Akervall
+0,80,H. Watson,"http://dbpedia.org/resource/Harry_Watson_(ice_hockey,_born_1923)","http://dbpedia.org/resource/Moose_Watson http://dbpedia.org/resource/Harry_Watson_(ice_hockey_b._1898) http://dbpedia.org/resource/Harry_Watson_(Newfoundland_ice_hockey_player) http://dbpedia.org/resource/Harry_Watson_(1920s_hockey_player) http://dbpedia.org/resource/Harry_Watson_(ice_hockey,_born_1898) http://dbpedia.org/resource/Harry_Ellis_Watson"
+0,82,H. Smith,http://dbpedia.org/resource/Happy_Smith,"http://dbpedia.org/resource/Harry_Smith_(hockey_player) http://dbpedia.org/resource/Harry_Smith_(ice_hockey_b._1883) http://dbpedia.org/resource/Harry_Smith_(ice_hockey,_born_1883)"
+0,91,H. McNamara,http://dbpedia.org/resource/Howard_McNamara,http://dbpedia.org/resource/Hal_McNamara http://dbpedia.org/resource/Harold_McNamara
+0,100,H. Bassen,http://dbpedia.org/resource/Bob_Bassen,http://dbpedia.org/resource/Hank_Bassen http://dbpedia.org/resource/Henry_Bassen
+0,102,H. Baker,http://dbpedia.org/resource/Hobey_Baker,http://dbpedia.org/resource/Hammy_Baker

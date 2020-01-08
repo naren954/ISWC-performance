@@ -1,0 +1,6 @@
+F1: 0.78947,Precision: 0.78947,Recall: 0.78947,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,15,J. Renault,http://de.dbpedia.org/resource/Stéphane_Renault,http://dbpedia.org/resource/Jeanne_Renault_Saint-Laurent http://dbpedia.org/resource/Jeanne_Renault http://dbpedia.org/resource/Jeanne_St._Laurent
+2,16,Bachelor,http://dbpedia.org/resource/Stephanie_Bachelor,http://dbpedia.org/resource/Bachelor http://dbpedia.org/resource/Bachelorhood http://dbpedia.org/resource/Bachelors http://dbpedia.org/resource/Most_Eligible_Bachelor http://dbpedia.org/resource/Bacalaureus
+2,18,"Emily Lamb, Countess Cowper","http://dbpedia.org/resource/Emily_Temple,_Viscountess_Palmerston","http://dbpedia.org/resource/Emily_Lamb,_Lady_Cowper http://dbpedia.org/resource/Emily_Lamb http://dbpedia.org/resource/Emily_Lamb,_Countess_Cowper http://dbpedia.org/resource/Emily_Lamb_(Lady_Cowper) http://dbpedia.org/resource/Emily_Lamb,_Viscountess_Palmerston"
+2,19,C. L. Campbell-Bannerman,http://dbpedia.org/resource/Henry_Campbell-Bannerman,"http://dbpedia.org/resource/Charlotte_Campbell-Bannerman http://dbpedia.org/resource/Charlotte,_Lady_Campbell-Bannerman"

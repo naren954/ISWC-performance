@@ -1,0 +1,7 @@
+F1: 0.68750,Precision: 0.68750,Recall: 0.68750,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,5,Cardinal,http://dbpedia.org/resource/Cardinal_(Catholic_Church),http://dbpedia.org/resource/Cardinal_red http://dbpedia.org/resource/Cardinal_(color) http://dbpedia.org/resource/Cardinal_Red
+0,6,Capri,http://dbpedia.org/resource/Sky_blue,http://dbpedia.org/resource/Capri_(color)
+0,8,Camel,http://dbpedia.org/resource/Sopwith_Camel,http://dbpedia.org/resource/Camel_(color)
+0,10,Byzantium,http://dbpedia.org/resource/Byzantine_music,http://dbpedia.org/resource/Byzantium_(colour) http://dbpedia.org/resource/Byzantium_(color)
+0,16,Bole,http://dbpedia.org/resource/Trunk_(botany),http://dbpedia.org/resource/Terra_rosa_(colour) http://dbpedia.org/resource/Bole_(color)

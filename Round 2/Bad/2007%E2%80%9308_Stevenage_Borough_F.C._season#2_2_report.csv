@@ -1,0 +1,4 @@
+F1: 0.33333,Precision: 0.33333,Recall: 0.33333,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,1,Salisbury City,"http://dbpedia.org/resource/Charlotte,_North_Carolina",http://dbpedia.org/resource/Salisbury_City_F.C. http://dbpedia.org/resource/Salisbury_City_F._C. http://dbpedia.org/resource/Salisbury_City_FC http://dbpedia.org/resource/Salisbury_City http://dbpedia.org/resource/Salisbury_City_F_C
+2,2,Salisbury City,"http://dbpedia.org/resource/Charlotte,_North_Carolina",http://dbpedia.org/resource/Salisbury_City_F.C. http://dbpedia.org/resource/Salisbury_City_F._C. http://dbpedia.org/resource/Salisbury_City_FC http://dbpedia.org/resource/Salisbury_City http://dbpedia.org/resource/Salisbury_City_F_C

@@ -1,0 +1,5 @@
+F1: 0.70000,Precision: 0.70000,Recall: 0.70000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,2,Mark Russell,http://dbpedia.org/resource/Mark_Russell_(Australian_footballer),http://dbpedia.org/resource/Mark_Russell_(footballer)
+1,7,Jamie Stevenson *,http://dbpedia.org/resource/Jamie_Stevenson_(Australian_footballer),http://dbpedia.org/resource/Jamie_Stevenson_(footballer)
+1,8,Willie Gibson,"http://dbpedia.org/resource/Willie_Gibson_(footballer,_born_1898)","http://dbpedia.org/resource/Willie_Gibson_(footballer_born_1984) http://dbpedia.org/resource/Willie_Gibson_(footballer,_born_1984)"

@@ -1,0 +1,5 @@
+"F1: 0.87500","Precision: 0.87500","Recall: 0.87500"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","8","USS Manley","http://dbpedia.org/resource/USS_Manley_(DD-74)","http://dbpedia.org/resource/USS_Manley_(DD-940)"
+"0","15","USS Manchester","http://dbpedia.org/resource/USS_Manchester_(LCS-14)","http://dbpedia.org/resource/USS_Manchester_(CL-83)"
+"0","18","USS Mallard","http://dbpedia.org/resource/USS_Mallard_(AMCU-30)","http://dbpedia.org/resource/ASR-4 http://dbpedia.org/resource/Minesweeper_No._44 http://dbpedia.org/resource/USS_Mallard_(AM-44) http://dbpedia.org/resource/USS_Mallard_(ASR-4)"

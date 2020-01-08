@@ -1,0 +1,5 @@
+F1: 0.78571,Precision: 0.78571,Recall: 0.78571,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,4,Ted Williams,http://dbpedia.org/resource/Ted_Williams_(American_football_coach),http://dbpedia.org/resource/Ted_Williams_(announcer) http://dbpedia.org/resource/Doral_Chenoweth_III http://dbpedia.org/resource/Ted_Williams_(voice-over_artist) http://dbpedia.org/resource/Ted_Williams_(Announcer) http://dbpedia.org/resource/Doral_Chenoweth
+0,10,Tom Cassell,http://dbpedia.org/resource/Sam_Cassell,"http://dbpedia.org/resource/Tom_Syndicate http://dbpedia.org/resource/Tom_""Syndicate""_Cassell http://dbpedia.org/resource/TheSyndicateProject http://dbpedia.org/resource/Tom_Cassell http://dbpedia.org/resource/Mianite"
+0,11,Tom Dickson,http://dbpedia.org/resource/Tom_Dickson_(Australian_footballer),http://dbpedia.org/resource/Total_Blender http://dbpedia.org/resource/BlendTec http://dbpedia.org/resource/Blendtec http://dbpedia.org/resource/K-TEC http://dbpedia.org/resource/K-Tec

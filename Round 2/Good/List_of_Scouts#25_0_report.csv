@@ -1,0 +1,5 @@
+F1: 0.78571,Precision: 0.78571,Recall: 0.78571,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,Raymond Schlemmer,http://de.dbpedia.org/resource/Ferdinand_Schlemmer,http://dbpedia.org/resource/Raymond_Schlemmer
+0,4,Pierre Joubert,http://de.dbpedia.org/resource/Pierre_Mathieu_Joubert,http://dbpedia.org/resource/Pierre_Joubert_(illustrator)
+0,12,Paul-Ã\u0089mile Victor,http://fr.dbpedia.org/resource/Paul_à_la_pêche,http://dbpedia.org/resource/Paul-Émile_Victor

@@ -1,0 +1,6 @@
+"F1: 0.73333","Precision: 0.73333","Recall: 0.73333"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","1","Crveni Krst concentration camp","http://dbpedia.org/resource/Crveni_Krst_concentration_camp","http://sws.geonames.org/791732/"
+"0","2","Auschwitz concentration camp","http://dbpedia.org/resource/Auschwitz_concentration_camp","http://sws.geonames.org/7701596/"
+"0","3","Herzogenbusch concentration camp","http://dbpedia.org/resource/Herzogenbusch_concentration_camp","http://sws.geonames.org/6620989/"
+"0","4","Bergen-Belsen concentration camp","http://dbpedia.org/resource/Bergen-Belsen_concentration_camp","http://sws.geonames.org/3206558/"

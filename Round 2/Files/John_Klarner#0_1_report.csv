@@ -1,0 +1,5 @@
+"F1: 0.66667","Precision: 0.66667","Recall: 0.66667"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","13","FantÃ¡stico","http://es.dbpedia.org/resource/Fantástico_(programa_de_televisión)","http://dbpedia.org/resource/Fantástico"
+"1","16","Avenida Brasil","http://dbpedia.org/resource/Avenida_Brasil_(TV_series)","http://dbpedia.org/resource/Avenida_Brasil_(telenovela) http://dbpedia.org/resource/Brazil_Avenue_(telenovela) http://dbpedia.org/resource/Avenue_Brazil_(telenovela)"
+"1","19","Teen Wolf","http://dbpedia.org/resource/Teen_Wolf_(2011_TV_series)","http://dbpedia.org/resource/Scott_Howard_(character) http://dbpedia.org/resource/Teen_Wolf_3:_The_Return_of_The_Wolf http://dbpedia.org/resource/Teen_Wolf_(film) http://dbpedia.org/resource/Teen_Wolf_(1985_film) http://dbpedia.org/resource/Teen_Wolf http://dbpedia.org/resource/Teenwolf"

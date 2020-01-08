@@ -1,0 +1,16 @@
+F1: 0.83721,Precision: 0.83721,Recall: 0.83721,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,8,Play,http://dbpedia.org/resource/Cyrano_de_Bergerac_(play),http://dbpedia.org/resource/Play_(2000_film) http://dbpedia.org/resource/Play_(play)
+0,10,Philoctetes,http://dbpedia.org/resource/Philoctetes_(Aeschylus_play),http://dbpedia.org/resource/Philoktētēs http://dbpedia.org/resource/Philoctetes_(Sophocles) http://dbpedia.org/resource/Philoctetes_(Sophocles_play) http://dbpedia.org/resource/Philoctetes_(play)
+0,11,Philoctetes,http://dbpedia.org/resource/Philoctetes_(Aeschylus_play),http://dbpedia.org/resource/Philoctetes_(Euripides) http://dbpedia.org/resource/Philoctetes_(Euripides_play)
+0,14,Pearl,http://dbpedia.org/resource/Pokémon_Diamond_and_Pearl,http://dbpedia.org/resource/Pearl_(Radio_Play) http://dbpedia.org/resource/Pearl_(radio_play)
+0,18,Oedipus,http://dbpedia.org/resource/Oedipus_(Voltaire_play),http://dbpedia.org/resource/Oedipus_(Euripides)
+0,24,No-No Boy,http://dbpedia.org/resource/Fist_of_the_North_Star,http://dbpedia.org/resource/No-No_Boy_(play) http://dbpedia.org/resource/No-No-Boy_(play)
+0,39,Luther,http://dbpedia.org/resource/Luther_Bible,http://dbpedia.org/resource/Luther_(play)
+0,57,Iphigenia in Tauris,http://dbpedia.org/resource/Iphigenia_in_Tauris_(Goethe),http://dbpedia.org/resource/Iphigeneia_among_the_Taurians http://dbpedia.org/resource/Iphigenia_in_Tauris_(play) http://dbpedia.org/resource/Iphigeneia_in_Tauris http://dbpedia.org/resource/Iphigenia_in_Tauris
+0,59,Ion,http://dbpedia.org/resource/Lithium-ion_battery,http://dbpedia.org/resource/Ion_(play)
+0,70,Helen,http://dbpedia.org/resource/Helen_Wills,http://dbpedia.org/resource/Helen_(play)
+0,72,Harvey,http://dbpedia.org/resource/Harvey_Milk,http://dbpedia.org/resource/Elwood_P._Dowd http://dbpedia.org/resource/Harvey_(play) http://dbpedia.org/resource/Harvey_(character) http://dbpedia.org/resource/Harvey_(2013_film) http://dbpedia.org/resource/Harvey_(pooka)
+0,74,Getting Out,,http://dbpedia.org/resource/Getting_Out
+0,80,Everyman,http://dbpedia.org/resource/Jedermann_(play),http://dbpedia.org/resource/Knowledge_and_Good_Deeds http://dbpedia.org/resource/Everyman_(play)
+0,83,Electra,http://dbpedia.org/resource/Electra_(Sophocles_play),http://dbpedia.org/resource/Electra_(Euripides) http://dbpedia.org/resource/Electra_(Euripides_play)

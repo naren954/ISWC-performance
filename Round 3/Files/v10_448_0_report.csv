@@ -1,0 +1,5 @@
+"F1: 0.80000","Precision: 0.80000","Recall: 0.80000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","1","B. Thompson","http://dbpedia.org/resource/Bennie_Thompson_(gridiron_football)","http://dbpedia.org/resource/Broderick_Thompson"
+"0","6","B. Young","http://dbpedia.org/resource/Buddy_Young","http://dbpedia.org/resource/Bill_Young_(lineman) http://dbpedia.org/resource/Bill_Young_(American_football_lineman) http://dbpedia.org/resource/Bill_Young_(offensive_lineman)"
+"0","8","B. Davidson","http://dbpedia.org/resource/Ben_Davidson","http://dbpedia.org/resource/Bill_Davidson_(American_football,_born_1915)"

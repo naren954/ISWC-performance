@@ -1,0 +1,8 @@
+F1: 0.25000,Precision: 0.25000,Recall: 0.25000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,Oleg Kucherenko Soviet Union (URS),http://fr.dbpedia.org/resource/Oleg_Iarochenko,http://dbpedia.org/resource/Oleg_Kucherenko http://dbpedia.org/resource/Oleg_Kutscherenko
+1,5,Islam Dugushiev Soviet Union (URS),"http://ru.dbpedia.org/resource/Усманов,_Ислам",http://dbpedia.org/resource/İslam_Duquçiyev http://dbpedia.org/resource/İslam_Duqiçiyev http://dbpedia.org/resource/Islam_Dugushiev http://dbpedia.org/resource/Islam_Duguchiyev
+1,6,Mnatsakan Iskandaryan Soviet Union (URS),http://dbpedia.org/resource/Dissolution_of_the_Soviet_Union,http://dbpedia.org/resource/Mnatsakan_Iskandaryan
+1,7,PÃ©ter Farkas Hungary (HUN),"http://dbpedia.org/resource/Péter_Farkas_(footballer,_born_1987)",http://dbpedia.org/resource/Péter_Farkas
+1,8,Maik Bullmann East Germany (GDR),http://dbpedia.org/resource/Maik_Landsmann,http://dbpedia.org/resource/Maik_Bullmann
+1,9,Sergey Demyashkevich Soviet Union (URS),http://dbpedia.org/resource/Sergey_Mikhalkov,http://dbpedia.org/resource/Sergei_Demyashkevich http://dbpedia.org/resource/Sergey_Demyashkevich

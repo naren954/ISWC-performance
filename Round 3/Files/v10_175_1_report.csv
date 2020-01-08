@@ -1,0 +1,5 @@
+"F1: 0.81250","Precision: 0.81250","Recall: 0.81250"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","2","I. Zhuk","http://dbpedia.org/resource/Nina_Zhuk","http://dbpedia.org/resource/Irina_Zhuk"
+"1","9","A. Najarro","http://dbpedia.org/resource/Alexandra_Najarro","http://dbpedia.org/resource/Antonio_Najarro"
+"1","11","D. Wilson","http://dbpedia.org/resource/Tracy_Wilson","http://dbpedia.org/resource/David_Wilson_(figure_skater) http://dbpedia.org/resource/David_Wilson_(figure_skating)"

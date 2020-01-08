@@ -1,0 +1,10 @@
+F1: 0.42857,Precision: 0.42857,Recall: 0.42857,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,1,M. Lengyel,http://dbpedia.org/resource/Marie_Curie,http://dbpedia.org/resource/Menyhert_Lengyel http://dbpedia.org/resource/Menyhért_Lengyel http://dbpedia.org/resource/Melchior_Lengyel
+3,3,S. Belcourt,http://dbpedia.org/resource/Napoléon_Belcourt,http://dbpedia.org/resource/Shane_Belcourt
+3,5,J. Cameron,http://dbpedia.org/resource/John_Cameron_(1773–1844),"http://dbpedia.org/resource/List_of_awards_and_nominations_received_by_James_Cameron http://dbpedia.org/resource/James_Francis_Cameron http://dbpedia.org/resource/James_Cameron http://dbpedia.org/resource/James_cameron http://dbpedia.org/resource/Cameron,_James http://dbpedia.org/resource/James_Cameron_(filmmaker)"
+3,6,C. Brackett,http://dbpedia.org/resource/Leigh_Brackett,http://dbpedia.org/resource/Charles_William_Brackett http://dbpedia.org/resource/Charles_Brackett http://dbpedia.org/resource/Charles_William_Bracket
+3,9,M. Neal,http://dbpedia.org/resource/Shaquille_O'Neal,http://dbpedia.org/resource/Max_Neal
+3,10,V. Aranda,http://dbpedia.org/resource/José_Jiménez_Aranda,http://dbpedia.org/resource/Vicente_Aranda
+3,13,R. C. Jr,http://dbpedia.org/resource/Roy_Campbell_Jr.,"http://dbpedia.org/resource/René_Cardona_jr. http://dbpedia.org/resource/Rene_Cardona_Jr. http://dbpedia.org/resource/Rene_Cardona_Jr http://dbpedia.org/resource/René_Cardona_Jr. http://dbpedia.org/resource/René_Cardona,_Jr. http://dbpedia.org/resource/René_Cardona_Jr"
+3,14,B. O'Connor,http://dbpedia.org/resource/Bob_O'Connor_(mayor),http://dbpedia.org/resource/Bridget_O'Connor

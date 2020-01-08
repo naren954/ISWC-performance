@@ -1,0 +1,43 @@
+F1: 0.67717,Precision: 0.67717,Recall: 0.67717,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,5,HMS Bramble,http://dbpedia.org/resource/HMS_Bramble_(J11),http://dbpedia.org/resource/HMS_Bramble_(1822)
+0,6,HMS Boreas,http://dbpedia.org/resource/HMS_Boreas_(1757),http://dbpedia.org/resource/HMS_Boreas_(H77) http://dbpedia.org/resource/Greek_destroyer_Salamis
+0,7,HMS Boadicea,http://dbpedia.org/resource/HMS_Boadicea_(H65),http://dbpedia.org/resource/HMS_Boadicea_(1797)
+0,13,HMS Black Eagle,http://dbpedia.org/resource/HMS_Black_Prince_(81),http://dbpedia.org/resource/HMS_Black_Eagle http://dbpedia.org/resource/HMS_Firebrand_(1831)
+0,14,HMS Bicester,http://dbpedia.org/resource/HMS_Bicester_(M36),http://dbpedia.org/resource/HMS_Bicester_(L34)
+0,17,HMS Beagle,http://dbpedia.org/resource/HMS_Beagle_(H30),http://dbpedia.org/resource/Japanese_warship_Kenko http://dbpedia.org/resource/HMS_Beagle_(1854) http://dbpedia.org/resource/Japanese_warship_Kenkō
+0,19,HMS Bangor,http://dbpedia.org/resource/HMS_Bangor_(M109),http://dbpedia.org/resource/HMS_Bangor_(1940) http://dbpedia.org/resource/HNoMS_Glomma_(M309) http://dbpedia.org/resource/HMS_Bangor_(J00)
+0,22,HMS Avenger,http://dbpedia.org/resource/HMS_Avenger_(D14),http://dbpedia.org/resource/HMS_Avenger_(1845)
+0,23,HMS Atherstone,http://dbpedia.org/resource/HMS_Atherstone_(M38),http://dbpedia.org/resource/HMS_Atherstone_(L05)
+0,24,HMS Arrow,http://dbpedia.org/resource/HMS_Arrow_(F173),http://dbpedia.org/resource/HMS_Arrow_(H42)
+0,26,HMS Ardent,http://dbpedia.org/resource/HMS_Ardent_(F184),http://dbpedia.org/resource/HMS_Ardent_(H41)
+0,28,HMS Ardent,http://dbpedia.org/resource/HMS_Ardent_(F184),http://dbpedia.org/resource/HMS_Ardent_(1841)
+0,32,HMS Antelope,http://dbpedia.org/resource/HMS_Antelope_(F170),http://dbpedia.org/resource/HMS_Antelope_(H36)
+0,35,HMS Amphion,http://dbpedia.org/resource/HMS_Amphion_(1911),http://dbpedia.org/resource/HMS_Amphion_(1846)
+0,36,HMS Ambuscade,http://dbpedia.org/resource/HMS_Ambuscade_(1913),http://dbpedia.org/resource/HMS_Ambuscade_(D38)
+0,37,HMS Amazon,http://dbpedia.org/resource/HMS_Amazon_(F169),http://dbpedia.org/resource/HMS_Amazon_(D39)
+0,39,HMS Alert,http://dbpedia.org/resource/HMS_Alert_(K647),http://dbpedia.org/resource/HMS_Alert_(1856)
+0,42,HMS Albacore,http://dbpedia.org/resource/USS_Albacore_(SS-218),http://dbpedia.org/resource/HMS_Albacore_(1909)
+0,43,HMS Alacrity,http://dbpedia.org/resource/HMS_Alacrity_(F174),http://dbpedia.org/resource/HMS_Alacrity_(1806)
+0,45,HMS Adventure,http://dbpedia.org/resource/HMS_Adventure_(1904),http://dbpedia.org/resource/HMS_Adventure_(M23) http://dbpedia.org/resource/HMS_Adventure_(1922)
+0,47,HMS Actaeon,http://dbpedia.org/resource/HMS_Actaeon_(1757),http://dbpedia.org/resource/HMS_Actaeon_(1831)
+0,48,HMS Actaeon,http://dbpedia.org/resource/HMS_Actaeon_(1757),http://dbpedia.org/resource/HMS_Actaeon_(1775)
+0,50,HMS Acheron,http://dbpedia.org/resource/HMS_Acheron_(H45),http://dbpedia.org/resource/HMS_Acheron_(1838)
+0,59,HMIS Sutlej,http://dbpedia.org/resource/HMS_Sutlej_(1899),http://dbpedia.org/resource/HMIS_Sutlej_(U95)
+0,60,HMIS Sind,http://dbpedia.org/resource/HMIS_Indus_(U67),http://dbpedia.org/resource/HMS_Betony_(K274) http://dbpedia.org/resource/HTMS_Prasae_(corvette) http://dbpedia.org/resource/HMIS_Sind_(K274)
+0,62,HMIS Rajputana,http://dbpedia.org/resource/SS_Rajputana,http://dbpedia.org/resource/HMS_Lyme_Regis_(J197) http://dbpedia.org/resource/HMIS_Rajputana_(J197)
+0,66,HMIS Narbada,http://dbpedia.org/resource/HMIS_Narbada,http://dbpedia.org/resource/HMIS_Narbada_(U40) http://dbpedia.org/resource/PNS_Jhelum
+0,67,HMIS Madras,http://dbpedia.org/resource/HMIS_Assam_(K306),http://dbpedia.org/resource/HMIS_Madras_(J237)
+0,68,HMIS Kumaon,http://dbpedia.org/resource/HMIS_Indus_(U67),http://dbpedia.org/resource/HMS_Middlesbrough_(J164) http://dbpedia.org/resource/HMIS_Kumaon_(J164)
+0,69,HMIS Konkan,http://dbpedia.org/resource/HMIS_Gondwana_(K348),http://dbpedia.org/resource/HMIS_Konkan_(J228) http://dbpedia.org/resource/HMS_Tilbury_(J228)
+0,70,HMIS Kistna,http://dbpedia.org/resource/HMIS_Kistna,http://dbpedia.org/resource/HMIS_Kistna_(U46) http://dbpedia.org/resource/INS_Krisna
+0,71,HMIS Khyber,http://dbpedia.org/resource/HMIS_Indus_(U67),http://dbpedia.org/resource/HMS_Harwich_(J190) http://dbpedia.org/resource/HMIS_Khyber_(J190)
+0,73,HMIS Jumna,http://dbpedia.org/resource/HMS_Jumna_(1866),http://dbpedia.org/resource/HMIS_Jumna_(U21) http://dbpedia.org/resource/INS_Jamuna http://dbpedia.org/resource/HMIS_Jumna
+0,74,HMIS Hindustan,http://dbpedia.org/resource/HMS_Hindustan_(1903),http://dbpedia.org/resource/HMIS_Hindustan_(U80) http://dbpedia.org/resource/PNS_Karsaz_(sloop) http://dbpedia.org/resource/HMIS_Hindustan http://dbpedia.org/resource/HMIS_Hindustan_(L80)
+0,78,HMIS Cauvery,http://dbpedia.org/resource/HMIS_Cauvery,http://dbpedia.org/resource/INS_Kaveri http://dbpedia.org/resource/HMIS_Cauvery_(U10)
+0,79,HMIS Carnatic,http://dbpedia.org/resource/HMS_Carnatic_(1783),http://dbpedia.org/resource/HMIS_Carnatic_(J199) http://dbpedia.org/resource/HMS_Newhaven_(J199)
+0,81,HMIS Bengal,http://dbpedia.org/resource/HMIS_Indus_(U67),http://dbpedia.org/resource/HMIS_Bengal_(J243)
+0,85,HMCS Winnipeg,http://dbpedia.org/resource/HMCS_Winnipeg_(FFH_338),http://dbpedia.org/resource/HMCS_Winnipeg_(J337) http://dbpedia.org/resource/Belgian_minesweeper_A.F._Dufour_(F903) http://dbpedia.org/resource/Belgian_minesweeper_A.F._Dufour_(M903)_(1959) http://dbpedia.org/resource/HMCS_Winnipeg_(FSE_177) http://dbpedia.org/resource/Belgian_minesweeper_Dufour_(M903)_(1959)
+0,90,HMCS Vimy,http://dbpedia.org/resource/HMS_Vancouver_(1917),http://dbpedia.org/resource/HMCS_Vimy
+0,110,HMCS Skeena,http://dbpedia.org/resource/HMCS_Skeena_(DDH_207),http://dbpedia.org/resource/HMCS_Skeena_(D59)
+0,116,HMCS Saskatoon,http://dbpedia.org/resource/HMCS_Saskatoon_(MM_709),http://dbpedia.org/resource/HMCS_Saskatoon_(K158)

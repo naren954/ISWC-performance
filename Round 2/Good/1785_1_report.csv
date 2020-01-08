@@ -1,0 +1,4 @@
+F1: 0.86667,Precision: 0.86667,Recall: 0.86667,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,8,L. duPont,http://dbpedia.org/resource/Lawrence_Dupont,http://dbpedia.org/resource/Laura_DuPont http://dbpedia.org/resource/Laura_du_Pont http://dbpedia.org/resource/Laura_duPont http://dbpedia.org/resource/Laura_Du_Pont http://dbpedia.org/resource/Laura_dupont
+1,15,A. V. Zyl,http://dbpedia.org/resource/Anton_van_Zyl,http://dbpedia.org/resource/Annette_Van_Zyl http://dbpedia.org/resource/Annette_Du_Plooy

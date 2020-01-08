@@ -1,0 +1,5 @@
+"F1: 0.82353","Precision: 0.82353","Recall: 0.82353"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","4","Yokohama FC","http://dbpedia.org/resource/Yokohama_F._Marinos","http://dbpedia.org/resource/Yokohama_F._C. http://dbpedia.org/resource/Yokohama_FC http://dbpedia.org/resource/Yokohama_F_C http://dbpedia.org/resource/Yokohama_F.C."
+"0","10","Sagawa Express Tokyo","http://dbpedia.org/resource/Sagawa_Shiga_FC","http://dbpedia.org/resource/Sagawa_Express_Tokyo_S.C. http://dbpedia.org/resource/Sagawa_Express_Tokyo_SC http://dbpedia.org/resource/Sagawa_Express_Tokyo_S._C. http://dbpedia.org/resource/Sagawa_Express_Tokyo_S_C"
+"0","11","YKK AP","http://dbpedia.org/resource/Kataller_Toyama","http://dbpedia.org/resource/YKK_AP_SC http://dbpedia.org/resource/YKK_AP_S.C. http://dbpedia.org/resource/YKK_AP_F.C. http://dbpedia.org/resource/YKK_S.C. http://dbpedia.org/resource/YKK_AP_F_C http://dbpedia.org/resource/YKK_AP_FC http://dbpedia.org/resource/YKK_AP_F._C."

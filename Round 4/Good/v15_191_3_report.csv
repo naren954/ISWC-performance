@@ -1,0 +1,40 @@
+F1: 0.76970,Precision: 0.76970,Recall: 0.76970,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,5,Fire,http://dbpedia.org/resource/Fire_(Scooter_song),http://dbpedia.org/resource/Fire_(Kasabian_song)
+3,9,Everyday,"http://dbpedia.org/resource/Everyday,_Katyusha",http://dbpedia.org/resource/Everyday_(Dave_Matthews_Band_song)
+3,15,Underground,http://dbpedia.org/resource/Underground_(David_Bowie_song),http://dbpedia.org/resource/Underground_(Ben_Folds_Five_song)
+3,17,Learning to Live,http://dbpedia.org/resource/Learning_to_Live_Again,http://dbpedia.org/resource/Learning_To_Live_(Without_Your_Love) http://dbpedia.org/resource/Learning_to_Live_(Without_Your_Love)
+3,19,Downtown Boys,http://dbpedia.org/resource/Downtown_Boys_(song),http://dbpedia.org/resource/Downtown_Boys
+3,23,Driven to Tears,http://dbpedia.org/resource/Zenyatta_Mondatta,http://dbpedia.org/resource/Driven_to_Tears_(song) http://dbpedia.org/resource/Driven_to_Tears
+3,25,Forever Now,http://dbpedia.org/resource/Forever_Now_(Ne-Yo_song),http://dbpedia.org/resource/Forever_Now_(Cold_Chisel_song)
+3,30,Do What You Do,http://dbpedia.org/resource/Do_What_You_Do_(Mudvayne_song),http://dbpedia.org/resource/Do_What_You_Do_(Jermaine_Jackson_song)
+3,34,Cry,http://dbpedia.org/resource/Cry_(Michael_Jackson_song),http://dbpedia.org/resource/Cry_(Faith_Hill_song)
+3,37,A Girl Like You,http://dbpedia.org/resource/A_Girl_Like_You_(The_Smithereens_song),http://dbpedia.org/resource/A_Girl_Like_You_(Jerry_Lordan_song) http://dbpedia.org/resource/A_Girl_Like_You_(Cliff_Richard_and_the_Shadows_song) http://dbpedia.org/resource/A_Girl_like_You_(Cliff_Richard_and_The_Shadows_song) http://dbpedia.org/resource/A_Girl_Like_You_(Cliff_Richard_and_The_Shadows_song)
+3,39,Am I Wrong,http://dbpedia.org/resource/Am_I_Wrong,http://dbpedia.org/resource/Am_I_Wrong_(Nico_&_Vinz_song) http://dbpedia.org/resource/Am_I_Wrong_(Envy_song) http://dbpedia.org/resource/Am_I_Wrong_(song)
+3,51,Tremolo,http://it.dbpedia.org/resource/Tremolo_(Plastic_Tree),http://dbpedia.org/resource/Tremolo_(EP) http://dbpedia.org/resource/Tremolo_EP
+3,53,The Factory,http://dbpedia.org/resource/Rubber_Factory,http://dbpedia.org/resource/The_Factory_(song)
+3,59,Every Day,http://dbpedia.org/resource/Every_Day_(Rascal_Flatts_song),http://dbpedia.org/resource/Every_Day_(I_Love_You_More)
+3,63,Feels So Good,http://dbpedia.org/resource/Feel_So_Good_(song),http://dbpedia.org/resource/Whuteva http://dbpedia.org/resource/There's_Something_About_Remy http://dbpedia.org/resource/Feels_So_Good_(Remy_Ma_song) http://dbpedia.org/resource/There's_Something_About_Remy:_Based_on_a_True_Story http://dbpedia.org/resource/Whuteva_(song) http://dbpedia.org/resource/There's_Something_About_Remy:_Based_on_a_True_Story_(Remy_Ma's_Album) http://dbpedia.org/resource/There's_Something_about_Remy:_Based_on_a_True_Story
+3,66,Girlfriend,http://dbpedia.org/resource/Girlfriend_(Alicia_Keys_song),http://dbpedia.org/resource/Girlfriend_remix http://dbpedia.org/resource/Avril_Lavigne_Girlfriend http://dbpedia.org/resource/Girlfriend_Avril_Lavigne http://dbpedia.org/resource/Girlfriend_(Avril_Lavigne_song)
+3,67,Loaded,http://dbpedia.org/resource/Loaded_(Ricky_Martin_song),http://dbpedia.org/resource/Loaded_(Deacon_Blue_song)
+3,69,Run for Your Life,http://dbpedia.org/resource/Run_for_Your_Life_(The_Fray_song),http://dbpedia.org/resource/Run_for_Your_Life_(Bucks_Fizz_single) http://dbpedia.org/resource/Run_for_Your_Life_(Bucks_Fizz_song) http://dbpedia.org/resource/Run_For_Your_Life_(Bucks_Fizz_single)
+3,70,Hello,http://dbpedia.org/resource/Hello_(Lionel_Richie_song),"http://dbpedia.org/resource/""Hello"" http://dbpedia.org/resource/Hello_from_the_other_side http://dbpedia.org/resource/Hello_(Adele) http://dbpedia.org/resource/Hello_(Adele_single) http://dbpedia.org/resource/Hello_(2015) http://dbpedia.org/resource/Hello_(Adele_song) http://dbpedia.org/resource/Adele_Hello http://dbpedia.org/resource/Hello_from_the_otter_slide http://dbpedia.org/resource/Hello_(2015_song)"
+3,71,Don't Let Me Down,http://dbpedia.org/resource/Don't_Let_Me_Down_(The_Chainsmokers_song),http://dbpedia.org/resource/Don't_Let_Me_Down_(Eskimo_Joe_song)
+3,97,Black and Blue,http://dbpedia.org/resource/Black_&_Blue_(Miike_Snow_song),http://dbpedia.org/resource/Black_and_Blue_(Van_Halen_song) http://dbpedia.org/resource/Black_and_Blue_(Van_Halen_Song)
+3,109,What You Don't Know,http://dbpedia.org/resource/What_You_Don't_Know_(Monrose_song),http://dbpedia.org/resource/What_You_Don't_Know_(Expose_song) http://dbpedia.org/resource/What_You_Don't_Know_(Exposé_song)
+3,111,Special,http://dbpedia.org/resource/The_Specials_(album),http://dbpedia.org/resource/Special_(Garbage_song) http://dbpedia.org/resource/Special_Garbage_song
+3,112,Alcohol,http://dbpedia.org/resource/Cigarettes_&_Alcohol,http://dbpedia.org/resource/Alcohol_(Brad_Paisley_song)
+3,114,Fish,http://dbpedia.org/resource/Fish_(singer),http://dbpedia.org/resource/Fish_(Craig_Campbell_song)
+3,115,Ready,http://dbpedia.org/resource/Ready_Go,http://dbpedia.org/resource/Ready_(Fabolous_song)
+3,116,Learning to Live,http://dbpedia.org/resource/Learning_to_Live_Again,http://dbpedia.org/resource/Learning_To_Live_(Without_Your_Love) http://dbpedia.org/resource/Learning_to_Live_(Without_Your_Love)
+3,123,Crazy,http://dbpedia.org/resource/Crazy_(Aerosmith_song),http://dbpedia.org/resource/Crazy_(Simple_Plan_song)
+3,128,Never Again,http://dbpedia.org/resource/Never_Again_(Kelly_Clarkson_song),http://dbpedia.org/resource/Never_Again_(Will_I_Knock_on_Your_Door)
+3,132,Rock Bottom,http://dbpedia.org/resource/Rock_Bottom_(Wynonna_Judd_song),http://dbpedia.org/resource/For_the_Cool_in_You_(album) http://dbpedia.org/resource/For_the_Cool_in_You http://dbpedia.org/resource/Rock_Bottom_(Babyface_song) http://dbpedia.org/resource/For_the_cool_in_you
+3,147,Warrior,http://dbpedia.org/resource/Warrior_(Disturbed_song),http://dbpedia.org/resource/Warrior_(Havana_Brown_song)
+3,148,Revolution,http://dbpedia.org/resource/Ma_révolution,http://dbpedia.org/resource/Revolution_(Jars_of_Clay_song)
+3,149,Someone like You,http://dbpedia.org/resource/Someone_like_You_(Van_Morrison_song),http://dbpedia.org/resource/Someone_like_You_(Adele_song) http://dbpedia.org/resource/Someone_Like_You_(Adele_song)
+3,152,Mind Games,http://dbpedia.org/resource/Mind_Games_(John_Lennon_song),http://dbpedia.org/resource/Mind_Games_(song)
+3,154,Don't Let Go,http://dbpedia.org/resource/Don't_Let_Go_(Wang_Chung_song),http://dbpedia.org/resource/Don't_Let_Go_(Love)
+3,158,When I Grow Up,http://dbpedia.org/resource/When_I_Grow_Up_(To_Be_a_Man),http://dbpedia.org/resource/When_I_Grow_Up_(the_Pussycat_Dolls_song) http://dbpedia.org/resource/When_I_Grow_Up_(The_Pussycat_Dolls_song) http://dbpedia.org/resource/When_I_Grow_Up_(Pussycat_Dolls_song)
+3,163,Girlfriend,http://dbpedia.org/resource/Girlfriend_(Alicia_Keys_song),http://dbpedia.org/resource/Girlfriend_(B2K_song)
+3,164,I'm in Love,http://dbpedia.org/resource/I'm_in_Love_(Ginuwine_song),http://dbpedia.org/resource/I'm_in_Love_(I_Wanna_Do_It)

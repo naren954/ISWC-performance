@@ -1,0 +1,11 @@
+F1: 0.80435,Precision: 0.80435,Recall: 0.80435,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,14,S. Hamilton,http://dbpedia.org/resource/Anthony_Hamilton_(musician),http://dbpedia.org/resource/Sue_Hamilton_(model) http://dbpedia.org/resource/Sue_Hamilton_(actress) http://dbpedia.org/resource/Sue_Hamilton_(actress_and_model) http://dbpedia.org/resource/Karen_Susan_Hamilton http://dbpedia.org/resource/Sue_Hamilton_(model_and_actress)
+0,20,S. Edwards,http://dbpedia.org/resource/Stephanie_Edwards_(singer),http://dbpedia.org/resource/Saundra_Edwards http://dbpedia.org/resource/Sandra_Edwards
+0,24,R. Wilson,http://dbpedia.org/resource/Richard_Wilson_(painter),http://dbpedia.org/resource/Reagan_Diana_Wilson http://dbpedia.org/resource/Reagan_Wilson
+0,26,P. Reyes,http://dbpedia.org/resource/Pedro_Reyes_(comedian),http://dbpedia.org/resource/Pia_Reyes
+0,28,P. Reynolds,http://dbpedia.org/resource/Jillian_Barberie,http://dbpedia.org/resource/Patti_Reynolds
+0,31,P. Bryant,http://dbpedia.org/resource/Phil_Bryant,http://dbpedia.org/resource/Pamela_Bryant http://dbpedia.org/resource/Pamela_Jean_Bryant
+0,41,M. Collinson,http://dbpedia.org/resource/James_Collinson,http://dbpedia.org/resource/Mary_Collinson
+0,42,M. Smith,http://dbpedia.org/resource/Mamie_Smith,http://dbpedia.org/resource/Martha_Smith
+0,43,M. Cole,http://de.dbpedia.org/resource/Jayden_Cole,http://dbpedia.org/resource/Marilyn_Cole

@@ -1,0 +1,6 @@
+"F1: 0.60000","Precision: 0.60000","Recall: 0.60000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","3","S. Reeves","http://dbpedia.org/resource/Sid_Reeves","http://dbpedia.org/resource/Steve_Reeves http://dbpedia.org/resource/Stephen_L._Reeves http://dbpedia.org/resource/Steve_Reeves_International"
+"0","4","S. Schmidt","http://dbpedia.org/resource/Helmut_Schmidt","http://dbpedia.org/resource/Sonny_Schmidt"
+"0","8","R. Park","http://dbpedia.org/resource/Roy_Park_(sportsman)","http://dbpedia.org/resource/Reg_Park"
+"0","9","P. Rader","http://fr.dbpedia.org/resource/Paul_Rader","http://dbpedia.org/resource/Peary_Rader http://dbpedia.org/resource/Perry_Rader"

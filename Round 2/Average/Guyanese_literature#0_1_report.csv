@@ -1,0 +1,8 @@
+F1: 0.64706,Precision: 0.64706,Recall: 0.64706,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,2,Ryhaan Shah,http://dbpedia.org/resource/Arvind_Victor_Shah,http://dbpedia.org/resource/Ryhaan_Shah
+1,4,Mark McWatt,http://dbpedia.org/resource/Mark_F._Watts,http://dbpedia.org/resource/Mark_McWatt
+1,5,Michael Gilkes,http://dbpedia.org/resource/Michael_Gilkes_(footballer),http://dbpedia.org/resource/Michael_Gilkes_(writer)
+1,12,Stanley Greaves,"http://dbpedia.org/resource/Tony_Greaves,_Baron_Greaves",http://dbpedia.org/resource/Stanley_Greaves
+1,13,Ruel Johnson,http://dbpedia.org/resource/Ruel_Milton_Johnson,http://dbpedia.org/resource/Ruel_Johnson
+1,24,Grace Nichols,http://dbpedia.org/resource/Nichelle_Nichols,http://dbpedia.org/resource/Grace_Nichols

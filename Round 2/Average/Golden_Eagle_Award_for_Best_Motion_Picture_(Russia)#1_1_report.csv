@@ -1,0 +1,21 @@
+F1: 0.53659,Precision: 0.53659,Recall: 0.53659,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,The Cuckoo#,http://dbpedia.org/resource/The_Cuckoo_Waltz,http://dbpedia.org/resource/The_Cuckoo_(film)
+1,2,War,http://dbpedia.org/resource/War_(War_album),http://dbpedia.org/resource/War_(2002_film)
+1,4,The Star,http://dbpedia.org/resource/Star_Trek:_The_Original_Series,http://dbpedia.org/resource/The_Star_(2002_film) http://dbpedia.org/resource/Zvezda_(movie) http://dbpedia.org/resource/Zvezda_(film)
+1,6,The Return#,http://dbpedia.org/resource/The_Lord_of_the_Rings:_The_Return_of_the_King,http://dbpedia.org/resource/The_Return_(2004) http://dbpedia.org/resource/The_Return_(2003_film) http://dbpedia.org/resource/Vozvrashchenie http://dbpedia.org/resource/Vozvrashcheniye http://dbpedia.org/resource/The_Return_(movie)
+1,17,The Italian,http://dbpedia.org/resource/The_Voice_of_Italy,http://dbpedia.org/resource/Italianetz http://dbpedia.org/resource/Italyanets http://dbpedia.org/resource/The_Italian_(2005_film)
+1,21,The Island#,http://dbpedia.org/resource/Islands_(The_Band_album),http://dbpedia.org/resource/Ostrov_(film) http://dbpedia.org/resource/The_Island_(2006_film)
+1,23,Alive,http://dbpedia.org/resource/Alive!_(Kiss_album),http://dbpedia.org/resource/Alive_(2006_film) http://dbpedia.org/resource/Zhivoy_(film)
+1,26,12#,http://pt.dbpedia.org/resource/12_(álbum_de_Paulinho_Makuko),http://dbpedia.org/resource/12_(2007_film)
+1,27,Artistka,http://dbpedia.org/resource/Actress_(2007_film),http://dbpedia.org/resource/Artistka_(2007_film) http://dbpedia.org/resource/Artistka
+1,28,Mongol,http://dbpedia.org/resource/Yuan_dynasty,http://dbpedia.org/resource/Mongol_(2007_film) http://dbpedia.org/resource/Mongol_(film) http://dbpedia.org/resource/The_Mongol http://dbpedia.org/resource/The_Great_Khan http://dbpedia.org/resource/Mongol:_The_Rise_to_Power_of_Genghis_Khan http://dbpedia.org/resource/Mongol:_The_Rise_to_Power_of_Genghis_Khan_(2008) http://dbpedia.org/resource/The_Rise_to_Power_of_Genghis_Khan
+1,32,Admiral,http://dbpedia.org/resource/Vanessa_atalanta,http://dbpedia.org/resource/Admiral_(disambiguation) http://dbpedia.org/resource/The_Admiral http://dbpedia.org/resource/Admiral_(film) http://dbpedia.org/resource/The_Admiral_(film)
+1,44,The Edge,http://dbpedia.org/resource/The_Edge_of_Glory,http://dbpedia.org/resource/Kray_(film) http://dbpedia.org/resource/The_Edge_(2010_film)
+1,46,Elena#,,http://dbpedia.org/resource/Elena_(2011_film)
+1,51,White Tiger#,http://dbpedia.org/resource/Tiger,http://dbpedia.org/resource/Belyy_tigr http://dbpedia.org/resource/White_Tiger_(2012_film) http://dbpedia.org/resource/White_Tiger_(2011_film)
+1,54,The Horde,http://dbpedia.org/resource/The_Horde_(2012_film),http://dbpedia.org/resource/The_Horde_(film)
+1,55,Spy,http://dbpedia.org/resource/Austin_Powers:_The_Spy_Who_Shagged_Me,"http://dbpedia.org/resource/Spy_(2012_Russian_film) http://dbpedia.org/resource/Spy_(movie,_2011)"
+1,56,Legend â\u0084\u0096 17#,,http://dbpedia.org/resource/Legend_№_17
+1,60,Stalingrad,http://dbpedia.org/resource/Enemy_at_the_Gates,http://dbpedia.org/resource/Stalingrad_(2013_film)
+1,61,Sunstroke#,http://dbpedia.org/resource/Sunstroke_(1953_film),http://dbpedia.org/resource/Sunstroke_(2014_film)

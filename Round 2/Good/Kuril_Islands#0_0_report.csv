@@ -1,0 +1,5 @@
+F1: 0.89286,Precision: 0.89286,Recall: 0.89286,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,22,Chirpoy,http://de.dbpedia.org/resource/Tschirpoi,http://dbpedia.org/resource/Chirpoy http://dbpedia.org/resource/Chyornye_Bratya http://dbpedia.org/resource/Chirpoi http://dbpedia.org/resource/Brat_Chirpoev http://dbpedia.org/resource/Chyornie_Bratya
+0,23,Brat Chirpoyev,http://de.dbpedia.org/resource/Brat_Tschirpojew,http://dbpedia.org/resource/Chirpoy http://dbpedia.org/resource/Chyornye_Bratya http://dbpedia.org/resource/Chirpoi http://dbpedia.org/resource/Brat_Chirpoev http://dbpedia.org/resource/Chyornie_Bratya
+0,29,Shikotan Group,http://dbpedia.org/resource/The_Wooster_Group,http://dbpedia.org/resource/Shikotan_Island http://dbpedia.org/resource/色丹島 http://dbpedia.org/resource/Shpanberg http://dbpedia.org/resource/Шикотан http://dbpedia.org/resource/Shpanberg_Island_(Kuril_Islands) http://dbpedia.org/resource/Shikotan

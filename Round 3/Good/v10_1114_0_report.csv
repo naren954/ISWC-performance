@@ -1,0 +1,11 @@
+F1: 0.86765,Precision: 0.86765,Recall: 0.86765,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,5,Wild Honey Pie,http://dbpedia.org/resource/I_Can't_Help_Myself_(Sugar_Pie_Honey_Bunch),http://dbpedia.org/resource/Wild_Honey_Pie_(The_Beatles_song) http://dbpedia.org/resource/Wild_Honey_Pie
+0,10,Why Don't You Love Me,http://dbpedia.org/resource/Why_Don't_You_Love_Me_(Beyoncé_song),http://dbpedia.org/resource/Why_Don't_You_Love_Me_(Hank_Williams_song)
+0,11,Why Do You Love Me,http://dbpedia.org/resource/Why_Don't_You_Love_Me_(Beyoncé_song),http://dbpedia.org/resource/Space_Can_Come_Through_Anyone http://dbpedia.org/resource/Why_Do_You_Love_Me http://dbpedia.org/resource/Nobody_Can_Win http://dbpedia.org/resource/Why_Do_You_Love_Me?
+0,15,Why,http://dbpedia.org/resource/Why_(3T_song),http://dbpedia.org/resource/Why_(Andy_Gibb_song)
+0,17,Wholy Holy,http://dbpedia.org/resource/Holy_Holy,http://dbpedia.org/resource/Wholy_Holy
+0,54,When the Sun Goes Down,http://dbpedia.org/resource/When_the_Sun_Goes_Down_(Kenny_Chesney_song),http://dbpedia.org/resource/When_the_Sun_Goes_Down_(Arctic_Monkeys_song) http://dbpedia.org/resource/When_The_Sun_Goes_Down_(Scummy)
+0,64,When We Were Young,http://dbpedia.org/resource/When_We_Were_Young_(Take_That_song),http://dbpedia.org/resource/When_We_Were_Young_(Sneaky_Sound_System_song)
+0,65,When We Were Young,http://dbpedia.org/resource/When_We_Were_Young_(Take_That_song),http://dbpedia.org/resource/When_We_Were_Young_(Human_Nature_song)
+0,66,When We Were Young,http://dbpedia.org/resource/When_We_Were_Young_(Take_That_song),http://dbpedia.org/resource/When_We_Were_Young_(Adele_song)

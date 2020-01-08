@@ -1,0 +1,6 @@
+"F1: 0.69231","Precision: 0.69231","Recall: 0.69231"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"2","1","John Dunlop","http://dbpedia.org/resource/John_Dunlop_(Unionist_politician)","http://dbpedia.org/resource/John_Dunlop_(Scottish_politician) http://dbpedia.org/resource/Sir_John_Dunlop,_1st_Baronet"
+"2","3","John Campbell Colquhoun","http://dbpedia.org/resource/Colquhoun_Grant_(British_cavalry_general)","http://dbpedia.org/resource/John_Campbell_Colquhoun"
+"2","4","Alexander Johnston","http://dbpedia.org/resource/Alexander_Johnston_(Canadian_politician)","http://dbpedia.org/resource/Alexander_Johnston_(Scottish_politician)"
+"2","12","William Glynne Charles Gladstone","http://dbpedia.org/resource/Will_Gladstone","http://dbpedia.org/resource/William_Glynne_Gladstone http://dbpedia.org/resource/William_Glynne_Charles_Gladstone"

@@ -1,0 +1,7 @@
+"F1: 0.58333","Precision: 0.58333","Recall: 0.58333"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","5","Hamburger SV","http://dbpedia.org/resource/Hamburger_SV_(women)","http://dbpedia.org/resource/Hamburger_Sport-Verein http://dbpedia.org/resource/Hamburg_SV http://dbpedia.org/resource/Sv_hamburger http://dbpedia.org/resource/Hamburger_sv http://dbpedia.org/resource/Hamburg_FC http://dbpedia.org/resource/Hamburger_SV http://dbpedia.org/resource/SV_Hamburg http://dbpedia.org/resource/Hamburger_SV_III"
+"1","6","SG Essen-SchÃ¶nebeck","http://dbpedia.org/resource/SGS_Essen","http://dbpedia.org/resource/SG_Essen-Schönebeck"
+"1","7","SC Freiburg","http://dbpedia.org/resource/SC_Freiburg_(women)","http://dbpedia.org/resource/SC_Freiburg"
+"1","8","FC Bayern Munich","http://dbpedia.org/resource/FC_Bayern_Munich_(women)","http://dbpedia.org/resource/FC_Bayern_Munich_(women's_section)"
+"1","10","FFC Brauweiler Pulheim (N)","http://dbpedia.org/resource/1._FC_Köln_(women)","http://dbpedia.org/resource/Grün-Weiss_Brauweiler http://dbpedia.org/resource/Grün-Weiß_Brauweiler http://dbpedia.org/resource/FFC_Brauweiler_Pulheim"

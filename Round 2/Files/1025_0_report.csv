@@ -1,0 +1,7 @@
+"F1: 0.93976","Precision: 0.93976","Recall: 0.93976"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","7","Operation Coronado XI","http://dbpedia.org/resource/Operation_Coronado_IX","http://dbpedia.org/resource/Operation_Coronado_XI"
+"0","10","Operation Coronado II","http://dbpedia.org/resource/Operation_Coronado_IX","http://dbpedia.org/resource/Operation_Coronado_II"
+"0","16","Operation Commando Fury","http://dbpedia.org/resource/Operation_Commando_Eagle","http://dbpedia.org/resource/Operation_Commando_Fury"
+"0","35","Operation Chahar","http://dbpedia.org/resource/Operation_Oqab","http://dbpedia.org/resource/Nankou_Campaign http://dbpedia.org/resource/Battle_of_the_Great_Wall http://dbpedia.org/resource/Operation_Quhar http://dbpedia.org/resource/Operation_Chahar"
+"0","52","Operation Bull Run","http://dbpedia.org/resource/First_Battle_of_Bull_Run","http://dbpedia.org/resource/Operation_Bull_Run"

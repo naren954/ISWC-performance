@@ -1,0 +1,5 @@
+F1: 0.75000,Precision: 0.75000,Recall: 0.75000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,B. Spencer,http://dbpedia.org/resource/Bill_Spencer_(biathlete),http://dbpedia.org/resource/Barbara_Kirkness http://dbpedia.org/resource/Barb_Spencer http://dbpedia.org/resource/Barb_Kirkness
+0,4,A. Ogasawara,http://dbpedia.org/resource/Mitsuo_Ogasawara,http://dbpedia.org/resource/小笠原_歩 http://dbpedia.org/resource/Ayumi_Onodera http://dbpedia.org/resource/Ayumi_Ogasawara
+0,5,A. Sippala,http://dbpedia.org/resource/Matti_Sippala,http://dbpedia.org/resource/Ashley_Sippala http://dbpedia.org/resource/Ashley_Miharija

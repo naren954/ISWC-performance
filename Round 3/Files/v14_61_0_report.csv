@@ -1,0 +1,7 @@
+"F1: 0.50000","Precision: 0.50000","Recall: 0.50000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","1","Dark purple","http://dbpedia.org/resource/Blue","http://dbpedia.org/resource/Dark_Purple http://dbpedia.org/resource/Dark_purple"
+"0","2","Cyclamen","http://dbpedia.org/resource/Cyclamen","http://dbpedia.org/resource/Cyclamen_(color)"
+"0","6","Coyote brown","http://dbpedia.org/resource/Tan_(color)","http://dbpedia.org/resource/Coyote_tan http://dbpedia.org/resource/Coyote_brown"
+"0","8","Cordovan","http://dbpedia.org/resource/Cuir_de_Cordoue","http://dbpedia.org/resource/Cordovan_(color)"
+"0","9","Coral","http://dbpedia.org/resource/Coral_Sea","http://dbpedia.org/resource/Coral_color http://dbpedia.org/resource/Gray-coral http://dbpedia.org/resource/Coral_red http://dbpedia.org/resource/Dark_coral http://dbpedia.org/resource/Coral_pink http://dbpedia.org/resource/Coral_(colour) http://dbpedia.org/resource/Coral_(color) http://dbpedia.org/resource/Light_Coral"

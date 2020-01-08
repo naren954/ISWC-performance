@@ -1,0 +1,6 @@
+F1: 0.91111,Precision: 0.91111,Recall: 0.91111,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,8,Donald L. O'Toole,http://dbpedia.org/resource/Donald_Lawrence_O'Toole,http://dbpedia.org/resource/Donald_L._O'Toole
+1,16,John J. O'Connor,http://dbpedia.org/resource/John_J._O'Connor_(politician),http://dbpedia.org/resource/John_J._O'Connor
+1,26,Hamilton Fish III,"http://dbpedia.org/resource/James_Hamilton,_3rd_Duke_of_Abercorn",http://dbpedia.org/resource/Hamilton_Fish_III http://dbpedia.org/resource/Hamilton_Fish_(football)
+1,44,Caroline O'Day,http://dbpedia.org/resource/Caroline_Love_Goodwin_O'Day,http://dbpedia.org/resource/Caroline_O'Day

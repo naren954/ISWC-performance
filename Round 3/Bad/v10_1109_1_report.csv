@@ -1,0 +1,16 @@
+F1: 0.41667,Precision: 0.41667,Recall: 0.41667,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,2,T. McNally,http://dbpedia.org/resource/Stephen_McNally,http://dbpedia.org/resource/Terrence_McNally http://dbpedia.org/resource/Terrance_McNally
+1,3,L. D. Cohen,http://dbpedia.org/resource/Leonard_Cohen,http://dbpedia.org/resource/Lawrence_D._Cohen
+1,6,M. Stewart,http://dbpedia.org/resource/James_Stewart,http://dbpedia.org/resource/Michael_Stewart_(playwright)
+1,9,N. Coghill,http://dbpedia.org/resource/Nevill_Coghill_(VC),http://dbpedia.org/resource/Nevill_Coghill http://dbpedia.org/resource/Neville_Coghill
+1,10,H. Wheeler,http://dbpedia.org/resource/Mortimer_Wheeler,http://dbpedia.org/resource/Hugh_Wheeler http://dbpedia.org/resource/Hugh_Callingham_Wheeler
+1,12,R. Hanmer,"http://dbpedia.org/resource/Sir_Thomas_Hanmer,_4th_Baronet",http://dbpedia.org/resource/Ronald_Hanmer
+1,15,A. Carothers,http://dbpedia.org/resource/Wallace_Carothers,http://dbpedia.org/resource/AJ_Carothers http://dbpedia.org/resource/A.J._Carothers
+1,16,G. Daugherty,http://dbpedia.org/resource/Michael_Daugherty,http://dbpedia.org/resource/George_Daugherty
+1,17,C. Paul,http://dbpedia.org/resource/Christiane_Paul,http://dbpedia.org/resource/Cinco_Paul http://dbpedia.org/resource/Cinco_Paul_and_Ken_Daurio http://dbpedia.org/resource/Ken_Daurio
+1,18,J. Whitty,http://dbpedia.org/resource/May_Whitty,http://dbpedia.org/resource/Jeff_Whitty
+1,19,M. Stewart,http://dbpedia.org/resource/James_Stewart,http://dbpedia.org/resource/Michael_Stewart_(playwright)
+1,20,H. Fielding,http://dbpedia.org/resource/Henry_Fielding,http://dbpedia.org/resource/Helen_Fielding
+1,23,L. Hall,http://dbpedia.org/resource/Conrad_Hall,http://dbpedia.org/resource/Lee_Hall_(playwright)
+1,24,J. M. Gray,http://dbpedia.org/resource/John_Edward_Gray,http://dbpedia.org/resource/John_Gray_(playwright) http://dbpedia.org/resource/John_MacLachlan_Gray

@@ -1,0 +1,5 @@
+F1: 0.82353,Precision: 0.82353,Recall: 0.82353,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,2,M. Therrien,http://dbpedia.org/resource/Gaston_Therrien,http://dbpedia.org/resource/Michel_Therrien http://dbpedia.org/resource/Michel_Therien
+2,10,J. Bednar,http://dbpedia.org/resource/Jaroslav_Bednář,http://dbpedia.org/resource/Jared_Bednar
+2,12,B. Peters,http://dbpedia.org/resource/Brian_Peters_(gridiron_football),http://dbpedia.org/resource/Bill_Peters_(ice_hockey)

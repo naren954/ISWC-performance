@@ -1,0 +1,4 @@
+"F1: 0.60000","Precision: 0.60000","Recall: 0.60000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","4","DPR","http://dbpedia.org/resource/Democratic_Party_of_Russia","http://dbpedia.org/resource/Carlin_DPR http://dbpedia.org/resource/DPR_Direxiv http://dbpedia.org/resource/David_Price_Racing http://dbpedia.org/resource/Dave_Price_Racing"
+"1","5","Racing Engineering","http://dbpedia.org/resource/Sunred_Engineering","http://dbpedia.org/resource/Racing_Engineering http://dbpedia.org/resource/Fat_Burner_Racing_Engineering"

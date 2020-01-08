@@ -1,0 +1,4 @@
+"F1: 0.84615","Precision: 0.84615","Recall: 0.84615"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","3","John Rowland","http://dbpedia.org/resource/John_Rowland_(footballer,_born_1936)","http://dbpedia.org/resource/John_Rowland_(footballer,_born_1941) http://dbpedia.org/resource/John_Rowland_(footballer) http://dbpedia.org/resource/John_Douglas_Rowland"
+"0","5","Stan Edwards","http://dbpedia.org/resource/Stan_Edwards_(footballer,_born_1926)","http://dbpedia.org/resource/Stan_Edwards_(footballer_born_1942) http://dbpedia.org/resource/Stan_Edwards_(footballer) http://dbpedia.org/resource/Stan_Edwards_(footballer,_born_1942)"

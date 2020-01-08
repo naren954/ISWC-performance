@@ -1,0 +1,11 @@
+F1: 0.25000,Precision: 0.25000,Recall: 0.25000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,2,Japan (JPN),http://dbpedia.org/resource/Japan,http://dbpedia.org/resource/Japan_at_the_2002_Asian_Games
+1,7,Philippines (PHI),http://dbpedia.org/resource/Philippines,http://dbpedia.org/resource/Philippines_at_the_2002_Asian_Games
+1,12,Malaysia (MAS),http://dbpedia.org/resource/Malaysia,http://dbpedia.org/resource/Malaysia_at_the_2002_Asian_Games
+1,17,South Korea (KOR),http://dbpedia.org/resource/South_Korea,http://dbpedia.org/resource/South_Korea_at_the_2002_Asian_Games
+1,22,Iran (IRI),http://dbpedia.org/resource/Iran,http://dbpedia.org/resource/Iran_at_the_2002_Asian_Games
+1,27,Chinese Taipei (TPE),http://dbpedia.org/resource/Taiwan,http://dbpedia.org/resource/Chinese_Taipei_at_the_2002_Asian_Games
+1,32,China (CHN),http://dbpedia.org/resource/China,http://dbpedia.org/resource/China_at_the_2002_Asian_Games
+1,37,Thailand (THA),http://dbpedia.org/resource/Thailand,http://dbpedia.org/resource/Thailand_at_the_2002_Asian_Games
+1,42,India (IND),http://dbpedia.org/resource/India,http://dbpedia.org/resource/India_at_the_2002_Asian_Games

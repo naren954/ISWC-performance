@@ -1,0 +1,48 @@
+F1: 0.72781,Precision: 0.72781,Recall: 0.72781,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,3,Happy,http://dbpedia.org/resource/Happy_(Pharrell_Williams_song),http://dbpedia.org/resource/Happy_(Michael_Jackson_song)
+3,8,Look at Me,http://dbpedia.org/resource/Look_at_Me_(Geri_Halliwell_song),http://dbpedia.org/resource/Look_at_Me_(Mirrors_song)
+3,10,Voices,http://dbpedia.org/resource/Voices_(Disturbed_song),http://dbpedia.org/resource/Voices_(Cheap_Trick_song)
+3,14,Saved,http://dbpedia.org/resource/Saved_(Swans_song),http://dbpedia.org/resource/Saved_(Ty_Dolla_Sign_song)
+3,17,Three Days,http://dbpedia.org/resource/Three_Days_(Jane's_Addiction_song),http://dbpedia.org/resource/Three_Days_(Pat_Green_song)
+3,20,Parachute,http://dbpedia.org/resource/Parachute_(Cheryl_song),http://dbpedia.org/resource/Parachute_(Timomatic_song)
+3,23,One Love,http://dbpedia.org/resource/One_Love_(David_Guetta_song),http://dbpedia.org/resource/One_Love_(The_Stone_Roses_song) http://dbpedia.org/resource/One_Love_(The_Stone_Roses)
+3,29,Incredible,http://dbpedia.org/resource/Incredible_(Timomatic_song),http://dbpedia.org/resource/Incredible_(Celine_Dion_and_Ne-Yo_song) http://dbpedia.org/resource/Incredible_(Céline_Dion_song)
+3,30,Remedy,http://dbpedia.org/resource/Remedy_(Seether_song),http://dbpedia.org/resource/Remedy_(Adele_song) http://dbpedia.org/resource/Remedy_(Adele_Adkins_song)
+3,32,Thank You,http://dbpedia.org/resource/Thank_You_(Dido_song),http://dbpedia.org/resource/Thank_You_(Boyz_II_Men_song)
+3,34,Young Guns,http://dbpedia.org/resource/Young_Guns_(Go_for_It),http://dbpedia.org/resource/Young_Guns_(song) http://dbpedia.org/resource/Young_Guns_(Lewi_White_song)
+3,38,(The Angels Wanna Wear My) Red Shoes,http://dbpedia.org/resource/The_Red_Shoes_(album),http://dbpedia.org/resource/My_Aim_Is_True http://dbpedia.org/resource/(The_Angels_Wanna_Wear_My)_Red_Shoes http://dbpedia.org/resource/My_Aim_Is_True_(Elvis_Costello_album) http://dbpedia.org/resource/My_Aim_is_True
+3,48,Lonesome Road,http://dbpedia.org/resource/Lonesome_Road_(album),http://dbpedia.org/resource/Lonesome_Road http://dbpedia.org/resource/The_Lonesome_Road
+3,51,Promises,http://dbpedia.org/resource/Promises_(Randy_Travis_song),http://dbpedia.org/resource/Promises_(Eric_Clapton_song)
+3,53,3500,http://dbpedia.org/resource/3500,http://dbpedia.org/resource/3500_(song)
+3,57,A Girl Like You,http://dbpedia.org/resource/A_Girl_Like_You_(The_Smithereens_song),http://dbpedia.org/resource/A_Girl_Like_You_(Dallas_Smith_song)
+3,62,Over the Rainbow,http://dbpedia.org/resource/Simple_as_That/Over_the_Rainbow,"http://dbpedia.org/resource/Somewhere_over_the_Rainbow http://dbpedia.org/resource/Over_the_Rainbow_(Kylie_Minogue_song) http://dbpedia.org/resource/Somewhere_over_the_rainbow http://dbpedia.org/resource/(Somewhere)_Over_the_Rainbow http://dbpedia.org/resource/Over_the_rainbow http://dbpedia.org/resource/Somewhere_Over_The_Rainbow http://dbpedia.org/resource/Somewhere_Over_the_Rainbow http://dbpedia.org/resource/Somewhere,_Over_the_Rainbow http://dbpedia.org/resource/Over_the_Rainbow_(song) http://dbpedia.org/resource/Over_the_Rainbow http://dbpedia.org/resource/Over_the_Rainbow_(Kylie_Minogue_cover) http://dbpedia.org/resource/Over_The_Rainbow. http://dbpedia.org/resource/Over_The_Rainbow http://dbpedia.org/resource/Somewhere_Over_The_Rainbow_(Kylie_Minogue_song) http://dbpedia.org/resource/Over_the_Rainbow_(Kylie_Minogue_single)"
+3,64,Stranded,http://dbpedia.org/resource/Stranded_(Heart_song),http://dbpedia.org/resource/Stranded_(Plumb_song) http://dbpedia.org/resource/Stranded_(Jennifer_Paige_song)
+3,67,No Stress,http://fr.dbpedia.org/resource/The_Stress,http://dbpedia.org/resource/No_Stress
+3,74,The Animal,http://dbpedia.org/resource/The_Animals_(British_album),http://dbpedia.org/resource/The_Animal_(Disturbed_song)
+3,75,Omen,http://dbpedia.org/resource/Omen_(Disclosure_song),http://dbpedia.org/resource/Omen_(The_Prodigy_song)
+3,81,Breakdown,http://dbpedia.org/resource/Breakdown_(Mariah_Carey_song),http://dbpedia.org/resource/Breakdown_(Grace_Jones) http://dbpedia.org/resource/Breakdown_(Tom_Petty_and_the_Heartbreakers_song) http://dbpedia.org/resource/Breakdown_(Tom_Petty_song)
+3,82,Jump,http://dbpedia.org/resource/Jump_(Madonna_song),http://dbpedia.org/resource/Jump_(Kris_Kross_song) http://dbpedia.org/resource/Jump_(Kriss_Kross_song) http://dbpedia.org/resource/Jump_Jump
+3,85,Finally,http://dbpedia.org/resource/Finally_(Fergie_song),http://dbpedia.org/resource/Finally_(T.G._Sheppard_song)
+3,86,Intro,http://it.dbpedia.org/resource/Intro_(brano_musicale),http://dbpedia.org/resource/Intro_(Gwar_song) http://dbpedia.org/resource/Intro_(Beyond_Hell_track)
+3,94,Bubblegum,http://dbpedia.org/resource/Bubblegum_(song),http://dbpedia.org/resource/Bubblegum_(Jason_Derulo_song)
+3,99,I Gotta Feelin,http://dbpedia.org/resource/I_Gotta_Feeling,http://dbpedia.org/resource/I_Gotta_Feelin_(Just_Nineteen) http://dbpedia.org/resource/Death_By_Sexy http://dbpedia.org/resource/Death_by_sexy http://dbpedia.org/resource/Death_by_Sexy
+3,108,The Calling,http://dbpedia.org/resource/The_Calling_(Mary_Chapin_Carpenter_album),http://dbpedia.org/resource/The_Calling_(Yes_song)
+3,111,I Found You,http://dbpedia.org/resource/I_Found_You_(The_Wanted_song),http://dbpedia.org/resource/I_Found_You
+3,114,Photogenic Memory,http://dbpedia.org/resource/I'm_Photogenic,http://dbpedia.org/resource/Chinese_Wall_(album) http://dbpedia.org/resource/Photogenic_Memory
+3,115,Kiss Kiss Kiss,http://dbpedia.org/resource/Kiss_Kiss_Kiss_(KAT-TUN_song),http://dbpedia.org/resource/Kiss_Kiss_Kiss_(Yoko_Ono_song)
+3,116,Precious,http://dbpedia.org/resource/Precious_(Depeche_Mode_song),http://dbpedia.org/resource/Precious_(Annie_Lennox_song)
+3,121,Gone,http://dbpedia.org/resource/Gone_(NSYNC_song),http://dbpedia.org/resource/TRIPtych http://dbpedia.org/resource/Triptych_(The_Tea_Party_album) http://dbpedia.org/resource/Gone_(The_Tea_Party_song)
+3,129,My Love,http://dbpedia.org/resource/My_Love_(Justin_Timberlake_song),http://dbpedia.org/resource/My_Love_(The-Dream_song)
+3,131,Nobody's Home,http://dbpedia.org/resource/Nobody's_Home_(Avril_Lavigne_song),http://dbpedia.org/resource/Nobody's_Home_(Clint_Black_song)
+3,136,Old Folks,http://dbpedia.org/resource/Old_Folks_(Ronnie_Milsap_and_Mike_Reid_song),http://dbpedia.org/resource/Old_Folks
+3,140,I Know,http://dbpedia.org/resource/I_Know_(Drake_Bell_song),http://dbpedia.org/resource/I_Know_(Yo_Gotti_song)
+3,145,Candy,http://dbpedia.org/resource/Candy_(Robbie_Williams_song),http://dbpedia.org/resource/Candy_mandy_moore http://dbpedia.org/resource/Candy_(Mandy_Moore_song)
+3,147,Santa Claus Is Coming to Town,http://it.dbpedia.org/resource/Santa_Claus_Is_Coming_to_Town_(Laura_Pausini),http://dbpedia.org/resource/Santa_Claus_Is_Comin'_to_Town_(Mariah_Carey) http://dbpedia.org/resource/Santa_Claus_Is_Comin'_to_Town_(Mariah_Carey_single) http://dbpedia.org/resource/Santa_Claus_Is_Coming_to_Town http://dbpedia.org/resource/Santa_Clause_is_coming_tonight http://dbpedia.org/resource/Santa_Claus_is_Coming_to_Town http://dbpedia.org/resource/Santa_Claus_Is_Comin'_to_Town_(Mariah_Carey_song) http://dbpedia.org/resource/Santa_Claus_Is_Comin_to_Town http://dbpedia.org/resource/Santa_Claus_Is_Comin'_To_Town_(Mariah_Carey_song) http://dbpedia.org/resource/Santa_Claus_Is_Comin'_to_Town http://dbpedia.org/resource/Santa_Claus_Is_Coming_To_Town http://dbpedia.org/resource/Santa_Claus_is_Comin'_To_Town http://dbpedia.org/resource/Santa_claus_is_coming_to_town http://dbpedia.org/resource/Santa_Claus_Is_Comin'_To_Town http://dbpedia.org/resource/Santa_Claus_is_Comin'_to_Town
+3,151,Do You Want To,http://dbpedia.org/resource/Can't_Hang/Do_You_Want_To,http://dbpedia.org/resource/Do_You_Want_To
+3,153,Too Hot,http://dbpedia.org/resource/Too_Hot_(Coolio_song),http://dbpedia.org/resource/Too_Hot_(Alanis_Morissette_song)
+3,154,Hollow,http://dbpedia.org/resource/Hollow_(Alice_in_Chains_song),http://dbpedia.org/resource/Hollow_(Pantera_song)
+3,159,Blue Moon,http://dbpedia.org/resource/Blue_Moon_(Steve_Holy_song),http://dbpedia.org/resource/Blue_Moon_(Beck_song)
+3,164,Know Your Enemy,http://dbpedia.org/resource/Know_Your_Enemy_(Green_Day_song),http://dbpedia.org/resource/Know_Your_Enemy_(Rage_Against_the_Machine_song)
+3,165,Rebellion,http://dbpedia.org/resource/Rebellion_(song),http://dbpedia.org/resource/Rebellion_(Lies)
+3,166,Touch Me,http://dbpedia.org/resource/Touch_Me_(The_Doors_song),http://dbpedia.org/resource/Touch_Me_(Willie_Nelson_song)

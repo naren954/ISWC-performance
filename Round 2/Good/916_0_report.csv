@@ -1,0 +1,11 @@
+F1: 0.90816,Precision: 0.90816,Recall: 0.90816,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,8,Hulihee Palace,http://dbpedia.org/resource/Huliheʻe_Palace,http://dbpedia.org/resource/Hulihee_Palace http://dbpedia.org/resource/Hulihee_beard
+0,13,Hoosac Stores 1 & 2-Hoosac Stores 3,http://dbpedia.org/resource/Hoosac_Stores,http://dbpedia.org/resource/Hoosac_Stores_1_&_2-Hoosac_Stores_3
+0,19,Hilliard Towers Apartments,http://dbpedia.org/resource/Quisling_Towers_Apartments,http://dbpedia.org/resource/Raymond_Hilliard_Homes http://dbpedia.org/resource/Hillard_Homes http://dbpedia.org/resource/Raymond_M._Hilliard_Center_Historic_District http://dbpedia.org/resource/Hilliard_Towers_Apartments http://dbpedia.org/resource/Hilliard_Homes
+0,46,Fredericksburg Memorial Library,http://dbpedia.org/resource/Fredericksburg_Memorial_Library,"http://dbpedia.org/resource/Fredericksburg_Memorial_Library_(Texas) http://dbpedia.org/resource/Old_Courthouse_(Gillespie_County,_Texas) http://dbpedia.org/resource/Pioneer_Memorial_Library_(Fredericksburg,_Texas)"
+0,61,Fireproof Building,http://dbpedia.org/resource/Former_Chicago_Historical_Society_Building,http://dbpedia.org/resource/Fireproof_Building
+0,63,Federal Building,http://dbpedia.org/resource/Henry_M._Jackson_Federal_Building,"http://dbpedia.org/resource/Federal_Building_(Raleigh,_North_Carolina)"
+0,64,Federal Building,http://dbpedia.org/resource/Henry_M._Jackson_Federal_Building,"http://dbpedia.org/resource/Providence_Federal_Building http://dbpedia.org/resource/Federal_Building_(Providence,_Rhode_Island)"
+0,80,Dumbarton Oaks Park,http://dbpedia.org/resource/Rock_Creek_Park,http://dbpedia.org/resource/Dumbarton_Oaks_Park
+0,90,Dana-Thomas House,http://dbpedia.org/resource/James_Dwight_Dana_House,http://dbpedia.org/resource/Dana_Thomas_House http://dbpedia.org/resource/Susan_Lawrence_Dana_House http://dbpedia.org/resource/Dana-Thomas_House_State_Historic_Site http://dbpedia.org/resource/Dana-Thomas_House

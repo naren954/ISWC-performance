@@ -1,0 +1,5 @@
+F1: 0.66667,Precision: 0.66667,Recall: 0.66667,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,Burg-Reuland,http://dbpedia.org/resource/Reuland_Castle,http://dbpedia.org/resource/Burg_Reuland http://dbpedia.org/resource/Burg-Reuland
+0,5,Eupen,http://dbpedia.org/resource/Eupen_railway_station,http://dbpedia.org/resource/Néau http://dbpedia.org/resource/History_of_Eupen http://dbpedia.org/resource/Eupen
+0,8,Raeren,http://de.dbpedia.org/resource/Burg_Raeren,http://dbpedia.org/resource/Raeren

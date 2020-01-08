@@ -1,0 +1,11 @@
+F1: 0.81250,Precision: 0.81250,Recall: 0.81250,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,2,Chris Thomas,http://dbpedia.org/resource/Chris_Thomas_King,http://dbpedia.org/resource/Chris_Thomas_(record_producer)
+1,11,RIAA,,"http://dbpedia.org/resource/The_Recording_Industry_Association_of_America,_Inc. http://dbpedia.org/resource/Riaa http://dbpedia.org/resource/Recording_Industry_Association_of_America_(RIAA) http://dbpedia.org/resource/RIAA_affiliated_music_artists http://dbpedia.org/resource/RIAA_afiliated_music_artists http://dbpedia.org/resource/RIAA_(disambiguation) http://dbpedia.org/resource/Recording_Industry_of_America http://dbpedia.org/resource/Recording_Industry_Association_of_America http://dbpedia.org/resource/RIAA http://dbpedia.org/resource/R.I.A.A."
+1,12,Rush,http://dbpedia.org/resource/Otis_Rush,http://dbpedia.org/resource/Ty&7gn http://dbpedia.org/resource/Rush_(band) http://dbpedia.org/resource/Rush_awards_list_and_RIAA_certifications http://dbpedia.org/resource/Rush_band http://dbpedia.org/resource/Rush_R40_Tour http://dbpedia.org/resource/RushBand http://dbpedia.org/resource/Canadian_Power_Trio
+1,15,David Briggs,http://dbpedia.org/resource/David_Briggs_(English_musician),http://dbpedia.org/resource/David_Briggs--Producer http://dbpedia.org/resource/David_Briggs_(producer) http://dbpedia.org/resource/David_Briggs_(record_producer)
+1,22,Ron Richards,http://dbpedia.org/resource/Ron_Richards_(ski_jumper),http://dbpedia.org/resource/Ron_Richards_(producer)
+1,30,The Zombies,http://dbpedia.org/resource/Mike_Zombie,http://dbpedia.org/resource/The_zombies http://dbpedia.org/resource/The_Zombies http://dbpedia.org/resource/Steve_Rodford http://dbpedia.org/resource/The_Zombies_discography
+1,31,Ron Richards,http://dbpedia.org/resource/Ron_Richards_(ski_jumper),http://dbpedia.org/resource/Ron_Richards_(producer)
+1,41,Sam Phillips,http://dbpedia.org/resource/Sam_Phillips_(musician),http://dbpedia.org/resource/Sam_Phillips http://dbpedia.org/resource/Sam_phillips http://dbpedia.org/resource/Sam_Philips
+1,48,Andy Wallace,http://dbpedia.org/resource/Andy_Wallace_(racing_driver),http://dbpedia.org/resource/Andy_Wallace_(producer)

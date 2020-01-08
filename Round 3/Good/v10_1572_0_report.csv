@@ -1,0 +1,7 @@
+F1: 0.87179,Precision: 0.87179,Recall: 0.87179,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,13,You Can't Turn Me Off,http://dbpedia.org/resource/You_Can't_Turn_Me_Off_(In_the_Middle_of_Turning_Me_On),http://dbpedia.org/resource/You_Can't_Turn_Me_Off
+0,21,You Can't Get There from Here,http://dbpedia.org/resource/Cant_Get_There_from_Here,http://dbpedia.org/resource/You_Can't_Get_There_from_Here
+0,33,You Belong to Me,http://dbpedia.org/resource/You_Belong_with_Me,http://dbpedia.org/resource/You_Belong_to_Me_(JX_song)
+0,34,You Belong to Me,http://dbpedia.org/resource/You_Belong_with_Me,http://dbpedia.org/resource/You_Belong_to_Me_(The_Doobie_Brothers_song) http://dbpedia.org/resource/You_Belong_to_Me_(Carly_Simon_song)
+0,39,You Are the One,http://dbpedia.org/resource/You_Are_the_One_(TKA_song),http://dbpedia.org/resource/You_Are_the_One_(A-ha_song) http://dbpedia.org/resource/You_Are_the_One_(a-ha_song)

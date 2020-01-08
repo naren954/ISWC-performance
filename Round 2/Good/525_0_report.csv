@@ -1,0 +1,9 @@
+F1: 0.94697,Precision: 0.94697,Recall: 0.94697,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,37,Churchill,http://dbpedia.org/resource/Winston_Churchill,http://dbpedia.org/resource/Churchill_(horse)
+0,48,Carnegie,"http://dbpedia.org/resource/James_Carnegie,_3rd_Duke_of_Fife",http://dbpedia.org/resource/Carnegie_(horse)
+0,80,Bayern,http://de.dbpedia.org/resource/Luitpold_Emanuel_in_Bayern,http://dbpedia.org/resource/Bayern_(horse)
+0,82,Barton,http://dbpedia.org/resource/Benjamin_Smith_Barton,http://dbpedia.org/resource/Barton_(horse)
+0,90,Australia,http://dbpedia.org/resource/Perth,http://dbpedia.org/resource/Australia_(horse)
+0,122,Again,http://dbpedia.org/resource/Seek_Again,http://dbpedia.org/resource/Again_(horse)
+0,128,Adelaide,http://dbpedia.org/resource/Adelaide_of_Saxe-Meiningen,http://dbpedia.org/resource/Adelaide_(horse)

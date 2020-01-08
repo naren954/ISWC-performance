@@ -1,0 +1,12 @@
+F1: 0.80392,Precision: 0.80392,Recall: 0.80392,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,3,Lavey GAC,http://dbpedia.org/resource/Lavey_GFC_(Cavan),http://dbpedia.org/resource/Lavey_CLG http://dbpedia.org/resource/Lavey_GAC http://dbpedia.org/resource/Lavey_GFC http://dbpedia.org/resource/Erins_own_Lavey http://dbpedia.org/resource/Lavey_GAA
+1,6,Austin Stacks,http://dbpedia.org/resource/Austin_Stacks_Camogie_Club,http://dbpedia.org/resource/Austin_Stacks_GAA http://dbpedia.org/resource/Austin_Stacks
+1,12,Corofin GAA,http://dbpedia.org/resource/Corofin_GAA_(County_Clare),http://dbpedia.org/resource/Corofin_CLG http://dbpedia.org/resource/Corofin_GAC http://dbpedia.org/resource/Corofin_GAA
+1,21,Austin Stacks,http://dbpedia.org/resource/Austin_Stacks_Camogie_Club,http://dbpedia.org/resource/Austin_Stacks_GAA http://dbpedia.org/resource/Austin_Stacks
+1,26,Dungiven GAC,http://dbpedia.org/resource/Dungiven_Celtic_F.C.,"http://dbpedia.org/resource/St._Canice's_GAC_Dungiven http://dbpedia.org/resource/St._Canice's_GAC,_Dungiven http://dbpedia.org/resource/Dungiven_GAC http://dbpedia.org/resource/St_Canice's_GAC_Dungiven"
+1,27,Ballycran GAA,http://dbpedia.org/resource/Ballycran,http://dbpedia.org/resource/Ballycran_GAA
+1,29,Stradbally GAA,http://dbpedia.org/resource/Stradbally_GAA_(County_Waterford),http://dbpedia.org/resource/Stradbally_GAA_(Laois) http://dbpedia.org/resource/Stradbally_GAA_(County_Laois)
+1,35,Carrickmore St. Colmcille's GFC,http://dbpedia.org/resource/St._Colmcille's_(Balheary),http://dbpedia.org/resource/Carrickmore_St._Colmcille's_GFC http://dbpedia.org/resource/Carrickmore_St._Colmcille's http://dbpedia.org/resource/Carrickmore_GFC http://dbpedia.org/resource/Carrickmore_St._Colmcille's_GAC
+1,47,Bellaghy GAC,http://dbpedia.org/resource/Corofin_GAC,http://dbpedia.org/resource/Bellaghy_GFC http://dbpedia.org/resource/Bellaghy_GAA http://dbpedia.org/resource/Bellaghy_GAC http://dbpedia.org/resource/Bellaghy_Wolfe_Tones
+1,49,Sarsfields GAA,http://dbpedia.org/resource/Sarsfields_GAA_(County_Galway),http://dbpedia.org/resource/Sarsfield's_GAA_(Cork) http://dbpedia.org/resource/Sarsfields_GAA_(Cork) http://dbpedia.org/resource/Sarsfields_GAA_(County_Cork)

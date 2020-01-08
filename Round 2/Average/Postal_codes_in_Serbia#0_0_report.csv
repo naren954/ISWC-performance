@@ -1,0 +1,9 @@
+F1: 0.61111,Precision: 0.61111,Recall: 0.61111,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Ada,http://dbpedia.org/resource/Ada_Foah,"http://dbpedia.org/resource/Opstina_Ada http://dbpedia.org/resource/Opština_Ada http://dbpedia.org/resource/Ada,_Serbia http://dbpedia.org/resource/Ada_(Serbia)"
+0,2,AdaÅ¡evci,,http://dbpedia.org/resource/Adaševci
+0,6,Aleksandrovac,"http://dbpedia.org/resource/Aleksandrovac,_Žabari",http://dbpedia.org/resource/Aleksandrovac_(Žabari)
+0,7,Aleksandrovac,"http://dbpedia.org/resource/Aleksandrovac,_Žabari",http://dbpedia.org/resource/Aleksandrovac http://dbpedia.org/resource/Aleksandrovac_Municipality
+0,12,AljinoviÄ\u0087i,,http://dbpedia.org/resource/Aljinovići
+0,16,AranÄ\u0091elovac,http://dbpedia.org/resource/Aran_Islands,http://dbpedia.org/resource/Aranđelovac
+0,18,AÅ¡anja,,http://dbpedia.org/resource/Ašanja

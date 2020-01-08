@@ -1,0 +1,6 @@
+F1: 0.66667,Precision: 0.66667,Recall: 0.66667,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Salem Lutheran Church,http://dbpedia.org/resource/Salem_Evangelical_Lutheran_Church,"http://dbpedia.org/resource/Salem_Lutheran_Church,_Farrar,_Missouri http://dbpedia.org/resource/Salem_Lutheran_Church_(Farrar,_Missouri)"
+0,3,Saint James Catholic High School,"http://dbpedia.org/resource/St_James'_Catholic_High_School,_Colindale","http://dbpedia.org/resource/Saint_James_Catholic_High_School_(Guelph,_Ontario)"
+0,9,Pyramid Mountain,http://dbpedia.org/resource/Pyramid_railway_station,http://dbpedia.org/resource/Pyramid_Mountain_(Wells_Gray-Clearwater) http://dbpedia.org/resource/Pyramid_Mountain_(volcano)
+0,12,Peace Lutheran Church,http://dbpedia.org/resource/Peace_Church,"http://dbpedia.org/resource/Peace_Lutheran_Church_(Friedenberg,_Missouri)"

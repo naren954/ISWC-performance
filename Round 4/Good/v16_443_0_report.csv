@@ -1,0 +1,15 @@
+F1: 0.80597,Precision: 0.80597,Recall: 0.80597,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Untitled,http://dbpedia.org/resource/Untitled_(The_Smashing_Pumpkins_song),http://dbpedia.org/resource/Untitled_(How_Does_It_Feel) http://dbpedia.org/resource/Untitled_(How_Does_It_Feel?)
+0,4,Until the End of the World,http://dbpedia.org/resource/Achtung_Baby,http://dbpedia.org/resource/UTEOTW http://dbpedia.org/resource/Until_the_End_of_the_World_(song)
+0,5,Until the End of Time,http://dbpedia.org/resource/Until_the_End_of_Time_(Justin_Timberlake_and_Beyoncé_song),http://dbpedia.org/resource/Until_the_End_of_Time_(2Pac_song) http://dbpedia.org/resource/Until_the_End_of_Time_(Tupac_Shakur_song)
+0,16,Unstoppable,http://dbpedia.org/resource/Unstoppable_(Rascal_Flatts_song),http://dbpedia.org/resource/Unstoppable_(Lianne_La_Havas_song)
+0,28,Universal,http://dbpedia.org/resource/The_Universal,http://dbpedia.org/resource/Universal_(OMD_song)
+0,30,United,http://de.dbpedia.org/resource/United_(Album),http://dbpedia.org/resource/United_(Robbie_Williams_song)
+0,31,United,http://de.dbpedia.org/resource/United_(Album),http://dbpedia.org/resource/United_(Judas_Priest_song)
+0,38,Unico,http://dbpedia.org/resource/Único_(album),http://dbpedia.org/resource/Unico_(song)
+0,41,Unforgiven,http://dbpedia.org/resource/The_Unforgiven_(song),http://dbpedia.org/resource/Unforgiven_(Tracy_Lawrence_(song) http://dbpedia.org/resource/Unforgiven_(Tracy_Lawrence_song)
+0,48,Underworld,http://dbpedia.org/resource/Underworld_(Divinyls_album),http://dbpedia.org/resource/Underworld_(song)
+0,51,Underwater,http://dbpedia.org/resource/Underwater_(Mika_song),http://dbpedia.org/resource/Underwater_(Delerium) http://dbpedia.org/resource/Underwater_(Delerium_song)
+0,53,Underneath,http://dbpedia.org/resource/Underneath_(Tarja_song),http://dbpedia.org/resource/Underneath_(Alanis_Morissette_song)
+0,55,Underground,http://dbpedia.org/resource/Underground_(David_Bowie_song),http://dbpedia.org/resource/Underground_(Ben_Folds_Five_song)

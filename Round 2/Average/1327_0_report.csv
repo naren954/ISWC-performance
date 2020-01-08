@@ -1,0 +1,7 @@
+F1: 0.66667,Precision: 0.66667,Recall: 0.66667,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,4,R. Walpole,http://dbpedia.org/resource/Robert_Walpole,http://dbpedia.org/resource/Robert_Walpole_(1650-1700) http://dbpedia.org/resource/Colonel_Walpole http://dbpedia.org/resource/Robert_Walpole_(1650–1700) http://dbpedia.org/resource/Colonel_Robert_Walpole
+0,7,R. C. Moody,http://dbpedia.org/resource/Gideon_C._Moody,http://dbpedia.org/resource/Richards_Clement_Moody http://dbpedia.org/resource/Colonel_Moody http://dbpedia.org/resource/Richard_Clement_Moody http://dbpedia.org/resource/R.C._Moody http://dbpedia.org/resource/Colonel_R.C._Moody http://dbpedia.org/resource/Richard_Moody
+0,8,R. S. Khan,http://dbpedia.org/resource/Ali,http://dbpedia.org/resource/Rana_Sanaullah http://dbpedia.org/resource/Rana_Sanaullah_Khan
+0,11,M. M. Pen,http://dbpedia.org/resource/Martin_Gardner,http://dbpedia.org/resource/Marion_Maréchal-Le_Pen http://dbpedia.org/resource/Marion_Marechal-Le_Pen http://dbpedia.org/resource/Marion_Maréchal
+0,13,J. Trudeau,http://dbpedia.org/resource/Pierre_Trudeau,"http://dbpedia.org/resource/Justin_P._J._Trudeau http://dbpedia.org/resource/Justin_Pierre_James_Trudeau http://dbpedia.org/resource/Justin_trudeau http://dbpedia.org/resource/Just_Trudeau http://dbpedia.org/resource/Justin_P.J._Trudeau http://dbpedia.org/resource/Trudeau,_justin http://dbpedia.org/resource/Justin_Trudeau http://dbpedia.org/resource/Prime_Minister_Justin_Trudeau"

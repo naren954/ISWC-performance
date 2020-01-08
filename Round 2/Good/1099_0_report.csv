@@ -1,0 +1,9 @@
+F1: 0.81579,Precision: 0.81579,Recall: 0.81579,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,5,V. Kapoor,http://dbpedia.org/resource/Leena_Kapoor,http://dbpedia.org/resource/Vaani_Kapoor http://dbpedia.org/resource/Vani_kapoor
+0,7,S. Y. Ali,http://dbpedia.org/resource/Mustafa_Kemal_Atatürk,http://dbpedia.org/resource/Sonia_Yasmin_Ali
+0,11,R. Garise,,http://dbpedia.org/resource/Ropa_Garise
+0,21,M. Khanna,http://dbpedia.org/resource/Parag_Khanna,http://dbpedia.org/resource/Monica_Khanna
+0,27,K. Singh,http://dbpedia.org/resource/Kanishka_Singh,http://dbpedia.org/resource/Kashish_Singh
+0,30,J. Ş. Schaefer,http://dbpedia.org/resource/Jack_Schaefer,http://dbpedia.org/resource/Sebnem_Schefer http://dbpedia.org/resource/Jennifer_Schafer http://dbpedia.org/resource/Sebnem_Schaefer http://dbpedia.org/resource/Şebnem_Schaefer http://dbpedia.org/resource/Jennifer_Schaefer http://dbpedia.org/resource/Jennifer_Şebnem http://dbpedia.org/resource/Şebnem_Schefer http://dbpedia.org/resource/Jennifer_Şebnem_Schaeffer http://dbpedia.org/resource/Jennifer_Sebnem_Schaefer http://dbpedia.org/resource/Jennifer_Sebnem_Schaeffer http://dbpedia.org/resource/Jennifer_Şebnem_Schaefer http://dbpedia.org/resource/Jennifer_Sebnem http://dbpedia.org/resource/Jennifer_Schäfer
+0,31,J. Miles,http://dbpedia.org/resource/Joanna_Miles,http://dbpedia.org/resource/Jaclyn_Miles

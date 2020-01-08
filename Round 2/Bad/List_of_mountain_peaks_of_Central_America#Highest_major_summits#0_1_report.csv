@@ -1,0 +1,10 @@
+F1: 0.27273,Precision: 0.27273,Recall: 0.27273,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,2,VolcÃ¡n TacanÃ¡[2] PB,http://dbpedia.org/resource/Incilius_tacanensis,http://dbpedia.org/resource/Volcán_Tacaná
+1,3,VolcÃ¡n Acatenango PB,,http://dbpedia.org/resource/Volcán_Acatenango
+1,5,ChirripÃ³ Grande[3] PB,http://dbpedia.org/resource/Campina_Grande,http://dbpedia.org/resource/Chirripó_Grande
+1,7,VolcÃ¡n Santa MarÃ­a PB,http://dbpedia.org/resource/Santa_María_(volcano),http://dbpedia.org/resource/Volcán_Santa_María
+1,8,VolcÃ¡n de Fuego PB,http://dbpedia.org/resource/Volcán_de_Colima,http://dbpedia.org/resource/Volcán_de_Fuego
+1,9,VolcÃ¡n de Agua PB,http://dbpedia.org/resource/Sangay_National_Park,http://dbpedia.org/resource/Volcán_de_Agua
+1,11,Cerro KÃ¡muk PB,,http://dbpedia.org/resource/Cerro_Kamuk http://dbpedia.org/resource/Cerro_Kámuk
+1,15,VolcÃ¡n IrazÃº PB,http://dbpedia.org/resource/Irazú_Volcano,http://dbpedia.org/resource/Volcán_Irazú

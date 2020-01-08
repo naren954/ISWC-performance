@@ -1,0 +1,60 @@
+F1: 0.67598,Precision: 0.67598,Recall: 0.67598,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,5,E. Fox,"http://dbpedia.org/resource/Henry_Vassall-Fox,_3rd_Baron_Holland",http://dbpedia.org/resource/Edward_Fox_(actor)
+1,7,J. Moran,http://dbpedia.org/resource/Jason_Moran_(musician),http://dbpedia.org/resource/Jackie_Moran
+1,9,F. Albertson,http://dbpedia.org/resource/Jack_Albertson,http://dbpedia.org/resource/Frank_Albertson
+1,12,F. Buck,http://dbpedia.org/resource/Chris_Buck,http://dbpedia.org/resource/Frank_Howard_Buck http://dbpedia.org/resource/Frank_Buck_(animal_collector)
+1,13,J. Alexander,http://dbpedia.org/resource/Jeff_Alexander,"http://dbpedia.org/resource/Jason_Scott_Greenspan http://dbpedia.org/resource/Jason_Alexander http://dbpedia.org/resource/Jay_Scott_Greenspan http://dbpedia.org/resource/Alexander,_Jason http://dbpedia.org/resource/Jason_Greenspan"
+1,14,A. Shawkat,http://dbpedia.org/resource/Assef_Shawkat,http://dbpedia.org/resource/Alia_shawkat http://dbpedia.org/resource/Alia_Shawkat
+1,18,M. Nilsson,http://dbpedia.org/resource/Molly_Nilsson,http://dbpedia.org/resource/Maj-Britt_Nilsson
+1,25,M. Cook,http://dbpedia.org/resource/Sam_Cooke,http://dbpedia.org/resource/Murray_Wiggle http://dbpedia.org/resource/Finger_Guns_(band) http://dbpedia.org/resource/Murray_Cook
+1,26,M. Cook,http://dbpedia.org/resource/Sam_Cooke,http://dbpedia.org/resource/Murray_Wiggle http://dbpedia.org/resource/Finger_Guns_(band) http://dbpedia.org/resource/Murray_Cook
+1,28,J. Stewart,http://dbpedia.org/resource/John_Stewart_Bell,"http://dbpedia.org/resource/Jimmy_Stuart http://dbpedia.org/resource/Jimmy_Stewart http://dbpedia.org/resource/James_stewart_(actor) http://dbpedia.org/resource/Jimmy_stewart http://dbpedia.org/resource/James_Stewart_(actor) http://dbpedia.org/resource/James_Stewart http://dbpedia.org/resource/Stewart,_James"
+1,35,A. Dunbar,http://dbpedia.org/resource/Paul_Laurence_Dunbar,http://dbpedia.org/resource/Adrian_Dunbar
+1,37,K. Sano,http://dbpedia.org/resource/Hiroshi_Sano,http://dbpedia.org/resource/Sano_Kazuhiro http://dbpedia.org/resource/Kazuhiro_Sano
+1,39,M. York,http://dbpedia.org/resource/Susannah_York,"http://dbpedia.org/resource/Mike_York_(disambiguation) http://dbpedia.org/resource/York,_Michael http://dbpedia.org/resource/Michael_Hugh_Johnson http://dbpedia.org/resource/Michael_York http://dbpedia.org/resource/Michael_York_(actor)"
+1,42,D. Leary,http://dbpedia.org/resource/Timothy_Leary,http://dbpedia.org/resource/Dennis_Leary http://dbpedia.org/resource/Denis_Colin_Leary http://dbpedia.org/resource/Denis_Leary http://dbpedia.org/resource/Suck_on_This_Year
+1,43,A. Dahl,http://dbpedia.org/resource/Roald_Dahl,http://dbpedia.org/resource/Arlene_Dahl
+1,44,B. Davis,http://dbpedia.org/resource/Beryl_Davis,"http://dbpedia.org/resource/Davis,_Bette http://dbpedia.org/resource/Harmon_Nelson http://dbpedia.org/resource/Ruth_Elizabeth_""Bette""_Davis http://dbpedia.org/resource/Bette_Davis http://dbpedia.org/resource/Bette_Davies http://dbpedia.org/resource/Bettie_Davis http://dbpedia.org/resource/Arthur_Farnsworth. http://dbpedia.org/resource/Arthur_Farnsworth_(Bette_Davis'_husband) http://dbpedia.org/resource/Ruth_E._Davis http://dbpedia.org/resource/Ruth_Elizabeth_Davis"
+1,45,R. Araiza,http://dbpedia.org/resource/Raúl_Araiza_(director),http://dbpedia.org/resource/Raúl_Araiza http://dbpedia.org/resource/Raul_Araiza
+1,49,S. Brady,http://dbpedia.org/resource/James_Brady,http://dbpedia.org/resource/Gerard_Kenneth_Tierney http://dbpedia.org/resource/Scott_Brady
+1,51,E. Ponto,http://dbpedia.org/resource/Wolfgang_Amadeus_Mozart,http://dbpedia.org/resource/Erich_Ponto
+1,55,C. Johnson,http://dbpedia.org/resource/Celia_Johnson,http://dbpedia.org/resource/Chalmers_a._johnson http://dbpedia.org/resource/Chalmers_Johnson http://dbpedia.org/resource/Chalmers_Ashby_Johnson
+1,56,J. Eisenberg,http://dbpedia.org/resource/Josy_Eisenberg,http://dbpedia.org/resource/Jesse_Eisenberg http://dbpedia.org/resource/Jesse_eisenberg http://dbpedia.org/resource/OneUpMe http://dbpedia.org/resource/Jessie_Eisenberg
+1,59,W. Watson,http://dbpedia.org/resource/William_Watson_(scientist),http://dbpedia.org/resource/John_Wylie_Robertson http://dbpedia.org/resource/Wylie_Watson
+1,64,D. Lee,http://dbpedia.org/resource/David_Lee_(Canadian_sound_engineer),http://dbpedia.org/resource/Dixie_Lee http://dbpedia.org/resource/Dixie_Lee_Crosby http://dbpedia.org/resource/Wilma_Winifred_Wyatt
+1,65,O. Hardy,http://dbpedia.org/resource/Charles_the_Bold,"http://dbpedia.org/resource/Ollie_Hardy http://dbpedia.org/resource/Oliver_Norvell_Hardy http://dbpedia.org/resource/Hardy,_Oliver http://dbpedia.org/resource/O.N._Hardy http://dbpedia.org/resource/Oliver_N._Hardy http://dbpedia.org/resource/O._N._Hardy http://dbpedia.org/resource/Norvell_Hardy http://dbpedia.org/resource/Oliver_Hardy http://dbpedia.org/resource/Babe_Hardy"
+1,67,C. Brook,http://dbpedia.org/resource/Claudio_Brook,http://dbpedia.org/resource/Clive_Brook http://dbpedia.org/resource/Clifford_Clive_Hardman_Brook http://dbpedia.org/resource/Clifford_Brook http://dbpedia.org/resource/Clifford_Clive_Brook http://dbpedia.org/resource/Clifford_Hardman_Brook http://dbpedia.org/resource/Clive_Hardman_Brook
+1,68,G. Hoshino,http://dbpedia.org/resource/Mari_Hoshino,http://dbpedia.org/resource/星野_源 http://dbpedia.org/resource/Hoshino_Gen http://dbpedia.org/resource/星野源 http://dbpedia.org/resource/Gen_Hoshino
+1,70,J. Jackson,http://dbpedia.org/resource/Michael_Jackson,http://dbpedia.org/resource/Janet_jackson http://dbpedia.org/resource/Janet_(singer) http://dbpedia.org/resource/Janet_(entertainer) http://dbpedia.org/resource/Rhythm_Nation_(record_label) http://dbpedia.org/resource/Janet_Damita_Jo_Jackson http://dbpedia.org/resource/Janet_Jackson http://dbpedia.org/resource/Artists_influenced_by_Janet_Jackson http://dbpedia.org/resource/Janet_Jackson's_New_Album http://dbpedia.org/resource/Janet_Jackson_(singer) http://dbpedia.org/resource/Janet_Damita_Jackson http://dbpedia.org/resource/Rhythm_Nation_Records http://dbpedia.org/resource/Janet_Jackson's_eleventh_studio_album
+1,71,P. Morgan,http://dbpedia.org/resource/Peter_Morgan,http://dbpedia.org/resource/Paul_Morgan_(actor)
+1,73,C. E. Mack,http://dbpedia.org/resource/John_E._Mack,http://dbpedia.org/resource/Charles_E._Mack
+1,75,C. Moore,http://dbpedia.org/resource/C._L._Moore,http://dbpedia.org/resource/Kathleen_Morrison http://dbpedia.org/resource/Colleen_Moore
+1,78,T. Russell,http://fr.dbpedia.org/resource/Tina_Russell,http://dbpedia.org/resource/Theresa_Russel http://dbpedia.org/resource/Theresa_Russell
+1,85,W. Connolly,http://dbpedia.org/resource/James_Connolly,http://dbpedia.org/resource/Walter_Connolly
+1,92,H. Gibson,http://dbpedia.org/resource/Henry_Gibson,http://dbpedia.org/resource/Hoot_Gibson
+1,95,M. Hansen,http://dbpedia.org/resource/Maurits_Hansen,http://dbpedia.org/resource/Max_Hansen_(Danish_Singer) http://dbpedia.org/resource/Max_Hansen_(tenor) http://dbpedia.org/resource/Max_Hansen_(actor) http://dbpedia.org/resource/Max_Josef_Haller
+1,97,L. Haas,http://de.dbpedia.org/resource/Leo_Haas,http://dbpedia.org/resource/Lukas_Haas
+1,103,J. Salter,http://dbpedia.org/resource/James_Salter,http://dbpedia.org/resource/June_Salter
+1,104,C. Jacob,http://dbpedia.org/resource/Max_Jacob,http://dbpedia.org/resource/Catherine_Jacob_(actress)
+1,108,R. Cortez,http://dbpedia.org/resource/Raul_Cortez,http://dbpedia.org/resource/Ricardo_Cortez http://dbpedia.org/resource/Jacob_Krantz http://dbpedia.org/resource/Richard_Cortez
+1,111,K. Eldon,http://dbpedia.org/resource/Dan_Eldon,http://dbpedia.org/resource/Poets'_Tree http://dbpedia.org/resource/Kevin_Eldon http://dbpedia.org/resource/The_Actor_Kevin_Eldon
+1,116,B. Hill,http://dbpedia.org/resource/Jacqueline_Hill,http://dbpedia.org/resource/Bennie_Hill http://dbpedia.org/resource/Benny_Hill http://dbpedia.org/resource/Alfred_Hawthorne http://dbpedia.org/resource/Benny_hill http://dbpedia.org/resource/Alfred_Hawthorne_Hill http://dbpedia.org/resource/Beny_hill
+1,119,J. Davis,http://dbpedia.org/resource/Jimmie_Davis,http://dbpedia.org/resource/Judy_Davis
+1,121,C. Talmadge,http://dbpedia.org/resource/Norma_Talmadge,http://dbpedia.org/resource/Constance_Talmadge
+1,123,G. Hall,http://dbpedia.org/resource/Gus_Hall,http://dbpedia.org/resource/Grayson_Hall
+1,127,A. Dick,http://dbpedia.org/resource/Dick_Cheney,http://dbpedia.org/resource/Andy_Dick http://dbpedia.org/resource/Andy_**** http://dbpedia.org/resource/Daphne_aguilera http://dbpedia.org/resource/Daphne_Aguilera
+1,129,W. Atherton,http://dbpedia.org/resource/Gertrude_Atherton,"http://dbpedia.org/resource/William_Atherton http://dbpedia.org/resource/Atherton,_William"
+1,143,J. K. Lee,http://dbpedia.org/resource/Lee_J._Cobb,http://dbpedia.org/resource/James_Kyson_Lee http://dbpedia.org/resource/James_Kyson
+1,144,C. Moriarty,http://dbpedia.org/resource/Michael_Moriarty,http://dbpedia.org/resource/Cathy_Moriarty http://dbpedia.org/resource/Cathy_Moriarty-Gentile
+1,147,E. Guðmundsson,http://dbpedia.org/resource/Albert_Guðmundsson,http://dbpedia.org/resource/Eggert_Gudmundsson http://dbpedia.org/resource/Eggert_Guðmundsson
+1,151,J. Savage,http://dbpedia.org/resource/John_Savage_(Nova_Scotia_politician),http://dbpedia.org/resource/John_Savage_(actor)
+1,152,J. Holt,http://dbpedia.org/resource/John_Holt_(singer),http://dbpedia.org/resource/Jack_Holt_(actor)
+1,154,J. Nelson,http://dbpedia.org/resource/Jimmy_Nelson_(singer),http://dbpedia.org/resource/Jud_Nelson http://dbpedia.org/resource/Judd_Nelson
+1,155,S. McCarthy,http://dbpedia.org/resource/Kevin_McCarthy_(actor),http://dbpedia.org/resource/Sheila_McCarthy
+1,160,M. Schell,http://dbpedia.org/resource/Maximilian_Schell,http://dbpedia.org/resource/Maria_Schell
+1,161,Þ. L. Gunnarsson,,http://dbpedia.org/resource/Thröstur_Leó_Gunnarsson http://dbpedia.org/resource/THrostur_Leo_Gunnarsson http://dbpedia.org/resource/Þröstur_Leó_Gunnarsson http://dbpedia.org/resource/Throstur_Leo_Gunnarsson
+1,169,M. Watson,http://dbpedia.org/resource/Merle_Watson,http://dbpedia.org/resource/Muse_Watson
+1,175,M. Berenson,http://dbpedia.org/resource/Bernard_Berenson,http://dbpedia.org/resource/Marisa_Berenson
+1,177,C. Tatum,http://dbpedia.org/resource/Art_Tatum,http://dbpedia.org/resource/Chaning_tatum http://dbpedia.org/resource/Tatum_Channing http://dbpedia.org/resource/Channing_Tatum_filmography http://dbpedia.org/resource/Channing_Tatum http://dbpedia.org/resource/Channing_tatum
+1,179,J. Holland,http://dbpedia.org/resource/Jerry_Holland,http://dbpedia.org/resource/Josh_Holland http://dbpedia.org/resource/Josh_holland

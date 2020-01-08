@@ -1,0 +1,28 @@
+F1: 0.51852,Precision: 0.51852,Recall: 0.51852,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,1,C. Savage,http://dbpedia.org/resource/Conway_Savage,http://dbpedia.org/resource/Carlos_Savage
+2,4,M. Michel,http://dbpedia.org/resource/Georges_Michel_(painter),"http://dbpedia.org/resource/Max_Michel,_Jr. http://dbpedia.org/resource/Max_Michel"
+2,5,F. Richards,http://dbpedia.org/resource/Lloyd_Richards,http://dbpedia.org/resource/Frederick_Richards_(editor)
+2,6,D. Harrison,http://dbpedia.org/resource/William_Henry_Harrison,http://dbpedia.org/resource/Doane_Harrison
+2,10,J. Betancourt,http://dbpedia.org/resource/Rómulo_Betancourt,http://dbpedia.org/resource/Jeff_Betancourt
+2,11,C. Wagner,http://dbpedia.org/resource/Carl_Wagner,http://dbpedia.org/resource/Christian_Wagner
+2,12,D. Harrison,http://dbpedia.org/resource/William_Henry_Harrison,http://dbpedia.org/resource/Doane_Harrison
+2,14,E. Warren,http://dbpedia.org/resource/Earl_Warren,http://dbpedia.org/resource/Eda_Warren
+2,15,J. Benvenuti,http://de.dbpedia.org/resource/Lodovico_Benvenuti,http://dbpedia.org/resource/Jolanda_Benvenuti
+2,17,R. Cinquini,http://it.dbpedia.org/resource/Silvio_Cinquini,http://dbpedia.org/resource/Renato_Cinquini
+2,18,F. Allen,http://dbpedia.org/resource/Fred_Allen,http://dbpedia.org/resource/Fred_Allen_(editor)
+2,24,G. Talamo,http://fr.dbpedia.org/resource/Giuseppe_Talamo,http://dbpedia.org/resource/Gino_Talamo
+2,25,N. Lazzari,http://dbpedia.org/resource/Roberto_Lazzari,http://dbpedia.org/resource/Niccolò_Lazzari http://dbpedia.org/resource/Niccolo_Lazzari
+2,26,F. Richards,http://dbpedia.org/resource/Lloyd_Richards,http://dbpedia.org/resource/Frederick_Richards_(editor)
+2,27,F. Tropea,http://dbpedia.org/resource/John_Tropea,http://dbpedia.org/resource/Fernando_Tropea
+2,28,R. Mastroianni,http://dbpedia.org/resource/Marcello_Mastroianni,http://dbpedia.org/resource/Ruggiero_Mastroianni http://dbpedia.org/resource/Ruggero_Mastroianni
+2,29,J. Needs,http://dbpedia.org/resource/Kris_Needs,http://dbpedia.org/resource/James_Needs
+2,31,W. H. Reynolds,http://dbpedia.org/resource/Samuel_William_Reynolds,http://dbpedia.org/resource/William_Reynolds_(film_editor) http://dbpedia.org/resource/William_H._Reynolds
+2,35,G. Madl,http://dbpedia.org/resource/Ferenc_Mádl,http://dbpedia.org/resource/Gottlieb_Madl
+2,37,W. P. Thompson,http://dbpedia.org/resource/E._P._Thompson,http://dbpedia.org/resource/William_P._Thompson
+2,41,R. Beck,http://dbpedia.org/resource/Roxanne_Beck,http://dbpedia.org/resource/Reginald_Beck
+2,45,A. Roberts,http://dbpedia.org/resource/Alice_Roberts_(actress),http://dbpedia.org/resource/Arthur_Roberts_(editor)
+2,50,H. Marker,http://dbpedia.org/resource/Chris_Marker,http://dbpedia.org/resource/Harry_Marker
+2,51,N. Travis,http://dbpedia.org/resource/Nick_Travis,http://dbpedia.org/resource/Herbert_Neil_Travis http://dbpedia.org/resource/Neil_Travis
+2,52,M. v. Schlieffen,http://dbpedia.org/resource/Martin_Ernst_von_Schlieffen,http://dbpedia.org/resource/Margot_von_Schlieffen
+2,53,M. v. Schlieffen,http://dbpedia.org/resource/Martin_Ernst_von_Schlieffen,http://dbpedia.org/resource/Margot_von_Schlieffen

@@ -1,0 +1,8 @@
+F1: 0.57143,Precision: 0.57143,Recall: 0.57143,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,8,Hero,http://dbpedia.org/resource/Heroes_(American_TV_series),http://dbpedia.org/resource/Hero_(2007_film)
+1,10,Villon's Wife,http://dbpedia.org/resource/Villon's_Wife_(film),http://dbpedia.org/resource/Villon's_Wife
+1,11,Confessions,http://dbpedia.org/resource/Tru_Confessions,http://dbpedia.org/resource/Confessions_(2010_movie) http://dbpedia.org/resource/Confessions_(2010_film)
+1,12,Someday,http://dbpedia.org/resource/Someday_(TV_series),http://dbpedia.org/resource/Oshika-mura_sodoki http://dbpedia.org/resource/Someday_(2011_film) http://dbpedia.org/resource/Ōshika-mura_sōdōki
+1,18,Jinuyo Saraba: Kamuroba Mura e,http://it.dbpedia.org/resource/Giuseppe_La_Mura,http://dbpedia.org/resource/ジヌよさらば_～かむろば村へ～ http://dbpedia.org/resource/かむろば村へ http://dbpedia.org/resource/Jinuyo_Saraba:_Kamuroba_Mura_e http://dbpedia.org/resource/Kamurobamura-e http://dbpedia.org/resource/A_Farewell_to_Jinu
+1,19,Hero,http://dbpedia.org/resource/Heroes_(American_TV_series),http://dbpedia.org/resource/Hero_(2001_TV_series)

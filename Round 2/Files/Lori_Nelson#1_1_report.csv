@@ -1,0 +1,6 @@
+"F1: 0.80000","Precision: 0.80000","Recall: 0.80000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","1","It's a Great Life","http://dbpedia.org/resource/It's_a_Great_Life_(TV_series)","http://dbpedia.org/resource/It's_a_Great_Life"
+"1","7","The Texas","http://dbpedia.org/resource/Texas_(band)","http://dbpedia.org/resource/The_Texan_-_Western_Television_series http://dbpedia.org/resource/The_Texan_(TV_series)"
+"1","15","Dante","http://dbpedia.org/resource/Divine_Comedy","http://dbpedia.org/resource/Dante_(TV_series)"
+"1","17","Bachelor Father","http://dbpedia.org/resource/Bachelor_Father_(American_TV_series)","http://dbpedia.org/resource/Bachelor_Father_(U.S._TV_series) http://dbpedia.org/resource/Bachelor_Father_(US_TV_series) http://dbpedia.org/resource/Bachelor_Father_(US) http://dbpedia.org/resource/Bachelor_Father_(1957_TV_series)"

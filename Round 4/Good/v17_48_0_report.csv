@@ -1,0 +1,9 @@
+F1: 0.87037,Precision: 0.87037,Recall: 0.87037,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,W. Brown,http://dbpedia.org/resource/Wes_Brown,http://dbpedia.org/resource/Watson_Brown
+0,10,S. Roberts,http://dbpedia.org/resource/Syd_Roberts,http://dbpedia.org/resource/Steve_Roberts_(football_coach) http://dbpedia.org/resource/Steve_Roberts_(American_football)
+0,13,S. Holtz,http://dbpedia.org/resource/Lou_Holtz,http://dbpedia.org/resource/Skip_holtz http://dbpedia.org/resource/Skip_Holtz
+0,23,P. Johnson,http://dbpedia.org/resource/Randy_Johnson,http://dbpedia.org/resource/Paul_Johnson_(American_football_coach) http://dbpedia.org/resource/Paul_Johnson_(coach) http://dbpedia.org/resource/Paul_Johnson_(American_football)
+0,28,M. Gottfried,http://dbpedia.org/resource/Mark_Gottfried,http://dbpedia.org/resource/Mike_Gottfried
+0,29,M. Gardner,http://dbpedia.org/resource/Moe_Gardner,http://dbpedia.org/resource/Mike_Gardner_(football_coach) http://dbpedia.org/resource/Mike_Gardner http://dbpedia.org/resource/Mike_Gardner_(American_football)
+0,39,J. Taylor,http://dbpedia.org/resource/Jon_Taylor,http://dbpedia.org/resource/Joe_Taylor_(American_football_coach)

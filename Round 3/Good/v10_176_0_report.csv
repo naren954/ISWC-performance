@@ -1,0 +1,4 @@
+F1: 0.81818,Precision: 0.81818,Recall: 0.81818,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,5,A. Hill,http://dbpedia.org/resource/Armond_Hill,http://dbpedia.org/resource/Asher_Hill
+0,11,A. Díaz,http://dbpedia.org/resource/Adrián_Díaz,http://dbpedia.org/resource/Adrià_Díaz http://dbpedia.org/resource/Adria_Diaz http://dbpedia.org/resource/Adriá_Diaz

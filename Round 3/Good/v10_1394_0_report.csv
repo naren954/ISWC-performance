@@ -1,0 +1,12 @@
+F1: 0.93750,Precision: 0.93750,Recall: 0.93750,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,36,M. Evans,http://dbpedia.org/resource/Michael_Evans_(water_polo),http://dbpedia.org/resource/Mitch_Evans http://dbpedia.org/resource/Mitchell_Evans
+0,47,M. Molina,http://dbpedia.org/resource/Manu_Molina,http://dbpedia.org/resource/Miguel_Molina
+0,63,M. v. Buuren,http://dbpedia.org/resource/Mosey_van_Buuren,http://dbpedia.org/resource/Meindert_van_Buuren
+0,69,M. Martin,http://dbpedia.org/resource/Mark_Martin,http://dbpedia.org/resource/Maxime_Martin
+0,78,M. Brabham,http://dbpedia.org/resource/David_Brabham,http://dbpedia.org/resource/Matt_Brabham http://dbpedia.org/resource/Matthew_Brabham
+0,87,M. Jackson,http://dbpedia.org/resource/Mannie_Jackson,http://dbpedia.org/resource/Mat_Jackson
+0,90,M. Mitchell,http://de.dbpedia.org/resource/Mark_Mitchell_(Eisschnellläufer),http://dbpedia.org/resource/Mason_Mitchell_Motorsports http://dbpedia.org/resource/Mason_Mitchell
+0,106,M. Thompson,http://dbpedia.org/resource/Mickey_Thompson,http://dbpedia.org/resource/Mark_Thompson_(racing_driver)
+0,116,M. Andretti,http://dbpedia.org/resource/Michael_Andretti,http://dbpedia.org/resource/Marco_Andretti
+0,155,K. Graf,http://dbpedia.org/resource/Klaus_Graf,http://dbpedia.org/resource/Klaus_Graf_(racing_driver)

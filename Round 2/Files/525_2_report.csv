@@ -1,0 +1,7 @@
+"F1: 0.96212","Precision: 0.96212","Recall: 0.96212"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"2","28","Roberto","http://dbpedia.org/resource/Roberto_Marinho","http://dbpedia.org/resource/Roberto_(horse)"
+"2","53","Easton","http://dbpedia.org/resource/Nicholas_Easton","http://dbpedia.org/resource/Easton_(horse)"
+"2","71","Desert Sun","http://dbpedia.org/resource/Desert_hedgehog","http://dbpedia.org/resource/Desert_Sun http://dbpedia.org/resource/The_Desert_Sun http://dbpedia.org/resource/MyDesert"
+"2","82","Mistigri","http://dbpedia.org/resource/Mistigri_(horse)","http://dbpedia.org/resource/Mistigri"
+"2","106","Messenger","http://dbpedia.org/resource/Mercury_(mythology)","http://dbpedia.org/resource/Messenger_(horse)"

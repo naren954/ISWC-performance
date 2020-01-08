@@ -1,0 +1,4 @@
+F1: 0.60000,Precision: 0.60000,Recall: 0.60000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,Royal Ordnance Factory Fazakerley,http://dbpedia.org/resource/Royal_Ordnance_Factories_F.C.,http://dbpedia.org/resource/ROF_Fazakerley
+1,5,Long Branch Arsenal,"http://dbpedia.org/resource/Lakeview,_Mississauga","http://dbpedia.org/resource/Long_Branch,_Toronto http://dbpedia.org/resource/The_Village_of_Long_Branch http://dbpedia.org/resource/Long_Branch,_Ontario http://dbpedia.org/resource/Marie_Curtis"

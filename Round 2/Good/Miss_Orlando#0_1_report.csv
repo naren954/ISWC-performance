@@ -1,0 +1,5 @@
+F1: 0.78571,Precision: 0.78571,Recall: 0.78571,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,8,Megan Clementi,http://dbpedia.org/resource/Megan_Sweeney,http://dbpedia.org/resource/Megan_Clementi
+1,49,Nancy Collins,http://dbpedia.org/resource/Nancy_A._Collins,"http://dbpedia.org/resource/Collins,_Nancy http://dbpedia.org/resource/Nancy_Collins_(disambiguation) http://dbpedia.org/resource/Nancy_Collins"
+1,62,Katherine Jones,,"http://dbpedia.org/resource/Lady_Ranelagh http://dbpedia.org/resource/Katherine_Jones http://dbpedia.org/resource/Katherine_Jones,_Viscountess_Ranelagh http://dbpedia.org/resource/Katherine_Boyle"

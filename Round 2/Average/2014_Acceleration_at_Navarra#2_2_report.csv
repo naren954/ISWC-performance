@@ -1,0 +1,7 @@
+F1: 0.58333,Precision: 0.58333,Recall: 0.58333,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,4,Dennis Lind,http://dbpedia.org/resource/Dennis_Lens,http://dbpedia.org/resource/Dennis_Lind
+2,7,Sebastian Balthasar,http://dbpedia.org/resource/Ramona_Balthasar,http://dbpedia.org/resource/Sebastian_Balthasar
+2,8,Luis Michael DÃ¶rrbecker,http://dbpedia.org/resource/Miguel_Monteiro,http://dbpedia.org/resource/Luis_Michael_Dörrbecker
+2,11,Oliver Campos-Hull,http://dbpedia.org/resource/Daniel_Campos-Hull,http://dbpedia.org/resource/Oliver_Campos-Hull
+2,12,Picho Toledano,http://de.dbpedia.org/resource/Éric_Toledano,"http://dbpedia.org/resource/Picho_Toledano http://dbpedia.org/resource/Alfonso_Toledano,_Jr. http://dbpedia.org/resource/Alfonso_Toledano_Jr."

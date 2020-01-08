@@ -1,0 +1,12 @@
+F1: 0.89691,Precision: 0.89691,Recall: 0.89691,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,34,Cross,http://dbpedia.org/resource/Cross,http://dbpedia.org/resource/Cross_(novel)
+1,35,"Beware, Princess Elizabeth",http://dbpedia.org/resource/Princess_Priscilla's_Fortnight,"http://dbpedia.org/resource/Young_Royals http://dbpedia.org/resource/Mary,_Bloody_Mary http://dbpedia.org/resource/Patience,_Princess_Catherine http://dbpedia.org/resource/Beware,_Princess_Elizabeth"
+1,37,The Human Factor,http://dbpedia.org/resource/The_Human_Factor_(TV_series),http://dbpedia.org/resource/The_Human_Factor
+1,39,The Killing,http://dbpedia.org/resource/The_Killing_(American_TV_series),http://dbpedia.org/resource/The_Killing_(Robert_Muchamore_novel) http://dbpedia.org/resource/The_Killing_(novel) http://dbpedia.org/resource/The_Killing_(book) http://dbpedia.org/resource/CHERUB:_The_Killing
+1,43,Rising Sun,http://dbpedia.org/resource/The_House_of_the_Rising_Sun,http://dbpedia.org/resource/Rising_Sun_(novel) http://dbpedia.org/resource/Rising_Sun_(book)
+1,52,The Mark,http://dbpedia.org/resource/Mark_Kac,http://dbpedia.org/resource/The_Mark_(novel) http://dbpedia.org/resource/The_Mark_(Left_Behind)
+1,55,Amnesia,http://dbpedia.org/resource/Amnesia_(Carey_novel),http://dbpedia.org/resource/Amnesia_(novel)
+1,57,Death Match,http://dbpedia.org/resource/Tom_Clancy's_Net_Force_Explorers:_Death_Match,http://dbpedia.org/resource/Death_match http://dbpedia.org/resource/Death_Match_(Child_novel) http://dbpedia.org/resource/Death_Match http://dbpedia.org/resource/Death_Match:_A_Novel http://dbpedia.org/resource/Death_Match_(Child) http://dbpedia.org/resource/Death_Match_(Lincoln_Child_novel)
+1,70,Streets of Laredo,http://dbpedia.org/resource/Streets_of_Laredo_(novel),http://dbpedia.org/resource/Streets_of_loredo http://dbpedia.org/resource/Streets_of_Laredo
+1,75,Indomitable,http://dbpedia.org/resource/Conan_the_Indomitable,http://dbpedia.org/resource/Indomitable_-_Shannara_Short_Story http://dbpedia.org/resource/Indomitable_(short_story)

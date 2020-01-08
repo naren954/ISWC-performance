@@ -1,0 +1,21 @@
+F1: 0.86331,Precision: 0.86331,Recall: 0.86331,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,J. Hansen,"http://dbpedia.org/resource/John_Hansen_(footballer,_born_1950)",http://dbpedia.org/resource/Jannik_Hansen
+0,18,J. Sandström,http://dbpedia.org/resource/Tomas_Sandström,http://dbpedia.org/resource/Jan_Sandstrom_(ice_hockey) http://dbpedia.org/resource/Jan_Sandström_(ice_hockey) http://dbpedia.org/resource/Jan_Sandström_(hockey_player)
+0,23,J. Chovan,"http://ru.dbpedia.org/resource/Хован,_Ян",http://dbpedia.org/resource/Jan_Chovan http://dbpedia.org/resource/Ján_Chovan
+0,27,J. Phillips,http://dbpedia.org/resource/Jason_Phillips_(catcher),http://dbpedia.org/resource/Jamie_Phillips
+0,36,J. Wright,http://dbpedia.org/resource/John_Wright_(ice_hockey),http://dbpedia.org/resource/James_Wright_(ice_hockey)
+0,60,J. Hansen,"http://dbpedia.org/resource/John_Hansen_(footballer,_born_1950)",http://dbpedia.org/resource/Jake_Hansen_(ice_hockey)
+0,73,J. Lagace,http://dbpedia.org/resource/Jacob_Lagacé,http://dbpedia.org/resource/Jacob_Lagace
+0,75,J. DeSerres,,http://dbpedia.org/resource/Jacob_De_Serres http://dbpedia.org/resource/Jacob_Deserres http://dbpedia.org/resource/Jacob_DeSerres
+0,79,J. Johnson,http://dbpedia.org/resource/Justin_Johnson_(ice_hockey),http://dbpedia.org/resource/Jack_Johnson_(ice_hockey)
+0,80,J. Glover,http://dbpedia.org/resource/John_Glover_(footballer),http://dbpedia.org/resource/Jack_Glover_(ice_hockey)
+0,83,J. Campbell,http://dbpedia.org/resource/Jonathan_Campbell_(soccer),http://dbpedia.org/resource/Jack_Campbell_(ice_hockey)
+0,92,J. Roy,http://dbpedia.org/resource/Jimmy_Roy,http://dbpedia.org/resource/Jérémy_Roy_(ice_hockey) http://dbpedia.org/resource/Jeremy_Roy_(ice_hockey)
+0,98,I. Rachůnek,http://dbpedia.org/resource/Karel_Rachůnek,http://dbpedia.org/resource/Ivan_Rachůnek http://dbpedia.org/resource/Ivan_Rachunek
+0,104,I. Fedotov,http://dbpedia.org/resource/Anatoli_Fedotov,http://dbpedia.org/resource/Ivan_Fedotov
+0,110,I. Solaryov,,http://dbpedia.org/resource/Ilya_Solarev http://dbpedia.org/resource/Ilja_Solarev http://dbpedia.org/resource/Ilya_Solaryov
+0,111,I. Samsonov,http://dbpedia.org/resource/Sergei_Samsonov,http://dbpedia.org/resource/Ilya_Samsonov http://dbpedia.org/resource/Iyla_Samsonov
+0,125,I. Makarov,http://dbpedia.org/resource/Sergei_Makarov_(ice_hockey),http://dbpedia.org/resource/Igor_Makarov_(ice_hockey) http://dbpedia.org/resource/Igor_Sergeyevich_Makarov
+0,128,I. Grigorenko,http://dbpedia.org/resource/Mikhail_Grigorenko,http://dbpedia.org/resource/Igor_Grigorenko
+0,130,I. Schultz,http://fr.dbpedia.org/resource/Ian_Schultz,http://dbpedia.org/resource/Ian_Schultz

@@ -1,0 +1,5 @@
+"F1: 0.78571","Precision: 0.78571","Recall: 0.78571"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","3","L. Abud","http://dbpedia.org/resource/Juan_José_Guerra_Abud","http://dbpedia.org/resource/Liliana_Abud http://dbpedia.org/resource/Abud,_Liliana"
+"1","6","S. Schwartz","http://dbpedia.org/resource/Laurent_Schwartz","http://dbpedia.org/resource/Sherwood_Charles_Schwartz http://dbpedia.org/resource/Sherwood_Schwartz http://dbpedia.org/resource/The_Invisible_Woman_(1983)"
+"1","9","J. Davis","http://dbpedia.org/resource/Jimmie_Davis","http://dbpedia.org/resource/James_Robert_Davis http://dbpedia.org/resource/Jim_Davis_(cartoonist)"

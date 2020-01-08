@@ -1,0 +1,9 @@
+F1: 0.30000,Precision: 0.30000,Recall: 0.30000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,H. brothers,http://dbpedia.org/resource/Hubert_Gough,http://dbpedia.org/resource/Micajah_Harpe http://dbpedia.org/resource/Wiley_Harpe http://dbpedia.org/resource/Little_Harpe http://dbpedia.org/resource/Harpe_Brothers http://dbpedia.org/resource/Harp_Brothers http://dbpedia.org/resource/Harpe_brothers http://dbpedia.org/resource/Big_Harpe http://dbpedia.org/resource/The_Harp_Brothers
+0,2,E. Dugan,"http://dbpedia.org/resource/Winston_Dugan,_1st_Baron_Dugan_of_Victoria",http://dbpedia.org/resource/Eva_Dugan
+0,3,Death of Gregory Glen Biggs,http://dbpedia.org/resource/Antonin_Scalia,http://dbpedia.org/resource/Chante_Mallard http://dbpedia.org/resource/Death_of_Gregory_Glen_Biggs http://dbpedia.org/resource/Death_of_Gregory_Glen_Biggs. http://dbpedia.org/resource/Chante_Jawan_Mallard http://dbpedia.org/resource/Gregory_Biggs
+0,4,D. Lane,http://dbpedia.org/resource/Night_Train_Lane,http://dbpedia.org/resource/David_Eden_Lane http://dbpedia.org/resource/Kinsland_Defenders http://dbpedia.org/resource/David_Lane_(white_supremacist) http://dbpedia.org/resource/David_Lane_(white_nationalist) http://dbpedia.org/resource/David_E_Lane http://dbpedia.org/resource/David_Lane_(Neo-Nazi) http://dbpedia.org/resource/David_E._Lane
+0,5,D. Arthurs,http://dbpedia.org/resource/Chester_A._Arthur,http://dbpedia.org/resource/Dante_Arthurs http://dbpedia.org/resource/Dante_Wyndham_Arthurs http://dbpedia.org/resource/Sofia_Rodriguez-Urrutia_Shu http://dbpedia.org/resource/Sofia_Rodriguez-Urrutia-Shu http://dbpedia.org/resource/Sofia_Shu
+0,8,B. Williams,http://dbpedia.org/resource/Bright_Williams,http://dbpedia.org/resource/Harry_Street_(spree_killer) http://dbpedia.org/resource/Barry_Williams_(spree_killer)
+0,10,A. Mitchell,http://dbpedia.org/resource/Edgar_Mitchell,http://dbpedia.org/resource/Alice_Mitchell

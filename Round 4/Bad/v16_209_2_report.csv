@@ -1,0 +1,10 @@
+F1: 0.38462,Precision: 0.38462,Recall: 0.38462,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,1,E. W. Petter,http://dbpedia.org/resource/W._E._W._Petter,http://dbpedia.org/resource/Ernest_Petter http://dbpedia.org/resource/Ernest_Willoughby_Petter
+2,2,J. Johnson,http://dbpedia.org/resource/Lyndon_B._Johnson,http://dbpedia.org/resource/James_Johnson_(railway_engineer)
+2,3,J. Holden,http://dbpedia.org/resource/Jan_Holden,http://dbpedia.org/resource/James_Holden_(locomotive_engineer) http://dbpedia.org/resource/James_Holden_(engineer)
+2,4,S. R. Freeman,http://dbpedia.org/resource/John_Ripley_Freeman,http://dbpedia.org/resource/Sir_Ralph_Freeman_(1880-1950) http://dbpedia.org/resource/Ralph_Freeman_(father) http://dbpedia.org/resource/Ralph_Freeman_(1880-1950) http://dbpedia.org/resource/Ralph_Freeman_(1880–1950)
+2,5,A. Lichtenstein,http://dbpedia.org/resource/Roy_Lichtenstein,http://dbpedia.org/resource/Alfred_F._Lichtenstein http://dbpedia.org/resource/Alfred_Lichtenstein_(philatelist)
+2,10,Archbishop,http://dbpedia.org/resource/William_Warham,http://dbpedia.org/resource/Archbishop_ad_personam http://dbpedia.org/resource/Archbishop-Bishop http://dbpedia.org/resource/Archbishop http://dbpedia.org/resource/Archiepiscopacy http://dbpedia.org/resource/Archepiscop http://dbpedia.org/resource/Archbishops http://dbpedia.org/resource/Archbishop-bishop http://dbpedia.org/resource/Archiepiscopal http://dbpedia.org/resource/Archbishop_Emeritus http://dbpedia.org/resource/Arch-Bishop
+2,12,J. Strutt,http://dbpedia.org/resource/William_Strutt_(inventor),http://dbpedia.org/resource/Joseph_Strutt_(philanthropist) http://dbpedia.org/resource/Joseph_Strutt_of_Derby http://dbpedia.org/resource/Joseph_Strutt_(philantropist)
+2,13,E. Dobson,http://dbpedia.org/resource/Barrie_Dobson,http://dbpedia.org/resource/Edward_Dobson

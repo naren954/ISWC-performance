@@ -1,0 +1,4 @@
+F1: 0.71429,Precision: 0.71429,Recall: 0.71429,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,1,E. W. Petter,http://dbpedia.org/resource/W._E._W._Petter,http://dbpedia.org/resource/Ernest_Petter http://dbpedia.org/resource/Ernest_Willoughby_Petter
+2,2,J. Holden,http://dbpedia.org/resource/Joanne_M._Holden,http://dbpedia.org/resource/James_Holden_(engineer) http://dbpedia.org/resource/James_Holden_(locomotive_engineer)

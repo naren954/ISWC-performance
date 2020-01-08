@@ -1,0 +1,15 @@
+F1: 0.53571,Precision: 0.53571,Recall: 0.53571,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,B. Ward,http://dbpedia.org/resource/Brennan_Ward,http://dbpedia.org/resource/Bud_Ward
+0,2,B. White,http://dbpedia.org/resource/Byron_White,http://dbpedia.org/resource/Buck_White_(golfer)
+0,4,B. Jones,http://dbpedia.org/resource/Byron_Jones_(American_football),"http://dbpedia.org/resource/Robert_Tyre_Jones http://dbpedia.org/resource/Robert_T._Jones_Jr http://dbpedia.org/resource/Robert_T._Jones,_Jr http://dbpedia.org/resource/Bobby_Jones_(golf) http://dbpedia.org/resource/Bobby_Jones_(golfer)"
+0,7,B. Hamilton,"http://dbpedia.org/resource/Billy_Hamilton_(baseball,_born_1866)",http://dbpedia.org/resource/Bob_Hamilton
+0,8,B. Boyd,http://dbpedia.org/resource/Bobby_Boyd,"http://dbpedia.org/resource/Robert_Boyd,_Jr. http://dbpedia.org/resource/Robert_McLean_Boyd,_Jr. http://dbpedia.org/resource/Robert_Boyd_(golfer) http://dbpedia.org/resource/Robert_McLean_Boyd http://dbpedia.org/resource/Bob_Boyd_(golfer)"
+0,11,B. Burke,http://dbpedia.org/resource/Brendan_Burke,http://dbpedia.org/resource/Billy_Burke_(golfer)
+0,13,B. Garrett,http://dbpedia.org/resource/Bill_Garrett_(basketball),http://dbpedia.org/resource/Bill_Garrett_(golfer)
+0,14,B. Collins,http://dbpedia.org/resource/Billy_Collins_Jr.,http://dbpedia.org/resource/Bill_Collins_(golfer)
+0,17,B. Nicholls,http://dbpedia.org/resource/Benjamin_Nicholls,http://dbpedia.org/resource/Bernard_Nicholls
+0,21,A. W. Jr.,http://dbpedia.org/resource/Aaron_Wallace_Jr.,"http://dbpedia.org/resource/Art_Wall_Jr. http://dbpedia.org/resource/Art_Wall_Jr http://dbpedia.org/resource/Art_Wall http://dbpedia.org/resource/Art_Wall,_Jr http://dbpedia.org/resource/Art_Wall,_Jr."
+0,22,A. Palmer,http://it.dbpedia.org/resource/Arthur_Palmer,"http://dbpedia.org/resource/Arnie_palmer http://dbpedia.org/resource/Arnold_Daniel_Palmer http://dbpedia.org/resource/Arnie_Palmer http://dbpedia.org/resource/Palmer,_Arnold http://dbpedia.org/resource/Arnold_Palmer"
+0,27,A. Espinosa,http://dbpedia.org/resource/Al_Espinosa,http://dbpedia.org/resource/Abe_Espinosa
+0,28,Á. Miguel,http://fr.dbpedia.org/resource/Brice_Miguel,http://dbpedia.org/resource/Ángel_Miguel http://dbpedia.org/resource/Angel_Miguel

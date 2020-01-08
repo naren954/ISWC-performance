@@ -1,0 +1,8 @@
+F1: 0.62500,Precision: 0.62500,Recall: 0.62500,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,Horn River,http://dbpedia.org/resource/Bighorn_River,http://dbpedia.org/resource/Horn_River
+0,6,Trout River,http://dbpedia.org/resource/Trout_River_(British_Columbia),http://dbpedia.org/resource/Trout_River_(Northwest_Territories)
+0,7,Jean Marie River,,"http://dbpedia.org/resource/Jean_Marie_River,_Northwest_Territories http://dbpedia.org/resource/Jean_Marie_River"
+0,13,Trail River,http://dbpedia.org/resource/Yadkin_River,"http://dbpedia.org/resource/Trail_Creek,_Alaska http://dbpedia.org/resource/Trail_Creek_(Alaska) http://dbpedia.org/resource/Trail_River"
+0,24,Redstone River,http://de.dbpedia.org/resource/Redstone_River_(Alaska),http://dbpedia.org/resource/Redstone_River
+0,31,Tsintu River,http://de.dbpedia.org/resource/Lohbach_(Schwarzach),http://dbpedia.org/resource/Tsintu_River

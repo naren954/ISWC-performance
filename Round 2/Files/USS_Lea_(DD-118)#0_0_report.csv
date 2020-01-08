@@ -1,0 +1,7 @@
+"F1: 0.00000","Precision: 0.00000","Recall: 0.00000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","2","HX 153","http://dbpedia.org/resource/153_BC","http://dbpedia.org/resource/HX_convoys http://dbpedia.org/resource/HX_(convoy)"
+"0","3","ON 28","http://dbpedia.org/resource/28_BC","http://dbpedia.org/resource/ON_convoys"
+"0","4","HX 161","http://dbpedia.org/resource/161_BC","http://dbpedia.org/resource/HX_convoys http://dbpedia.org/resource/HX_(convoy)"
+"0","5","HX 173","http://dbpedia.org/resource/173_BC","http://dbpedia.org/resource/HX_convoys http://dbpedia.org/resource/HX_(convoy)"
+"0","6","ON 67","http://dbpedia.org/resource/67_BC","http://dbpedia.org/resource/Convoy_ONS_67 http://dbpedia.org/resource/Convoy_ON67 http://dbpedia.org/resource/ON.67 http://dbpedia.org/resource/ON-67 http://dbpedia.org/resource/Convoy_ON_67 http://dbpedia.org/resource/Convoy_ON-67 http://dbpedia.org/resource/ON_67 http://dbpedia.org/resource/ON67"

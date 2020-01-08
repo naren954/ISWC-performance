@@ -1,0 +1,4 @@
+F1: 0.97183,Precision: 0.97183,Recall: 0.97183,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,76,Richard Reed,http://dbpedia.org/resource/Mister_Fantastic,http://dbpedia.org/resource/Innocent_Smoothies http://dbpedia.org/resource/Innocent_Drinks http://dbpedia.org/resource/Innocent_drinks http://dbpedia.org/resource/This_Water http://dbpedia.org/resource/Innocent_Smoothie http://dbpedia.org/resource/Richard_Reed
+0,88,Edward Stone,http://dbpedia.org/resource/Edward_James_Stone,http://dbpedia.org/resource/Edward_C_Stone http://dbpedia.org/resource/Edward_C._Stone http://dbpedia.org/resource/Ed_Stone

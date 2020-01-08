@@ -1,0 +1,12 @@
+F1: 0.50000,Precision: 0.50000,Recall: 0.50000,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,1,L. Riley,http://dbpedia.org/resource/Gyan_Riley,http://dbpedia.org/resource/Larry_Riley_(actor)
+2,2,S. Lee,http://dbpedia.org/resource/Stan_Lee,http://dbpedia.org/resource/Stewart_Lee http://dbpedia.org/resource/Stew_Lee
+2,3,J. Sessions,http://dbpedia.org/resource/Jeff_Sessions,http://dbpedia.org/resource/John_Sessions http://dbpedia.org/resource/John_Gibb_Marshall
+2,4,J. Francis,http://dbpedia.org/resource/Jack_Francis,http://dbpedia.org/resource/Jan_Francis
+2,10,R. Ramos,http://dbpedia.org/resource/Mario_Ramos_(actor),http://dbpedia.org/resource/Rhian_Denise_Ramos http://dbpedia.org/resource/Rhian_Ramos http://dbpedia.org/resource/Rhian_Denise_Ramos_Howell
+2,12,O. Knoller,http://dbpedia.org/resource/John_Knoll,http://dbpedia.org/resource/Ohad_Knoller
+2,14,B. McCarty,http://dbpedia.org/resource/Brian_McCarty,http://dbpedia.org/resource/Bruce_McCarty
+2,15,D. Boyd,http://dbpedia.org/resource/David_Boyd_(artist),http://dbpedia.org/resource/Darren_Boyd
+2,19,A. Dobson,http://dbpedia.org/resource/William_Dobson,http://dbpedia.org/resource/Anita_Dobson
+2,20,M. Salvador,http://dbpedia.org/resource/Malvino_Salvador,http://dbpedia.org/resource/Maja_Ross_Andres_Salvador http://dbpedia.org/resource/Maja_Salvador

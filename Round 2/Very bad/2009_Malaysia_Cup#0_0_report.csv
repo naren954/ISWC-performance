@@ -1,0 +1,6 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,KL Plus,http://dbpedia.org/resource/Auschwitz_concentration_camp,http://dbpedia.org/resource/KL_PLUS_FC http://dbpedia.org/resource/PLUS_F.C. http://dbpedia.org/resource/PLUS_FC
+0,2,Perlis,http://dbpedia.org/resource/Alan_Perlis,http://dbpedia.org/resource/Perlis_Football_Association http://dbpedia.org/resource/Perlis_F.C. http://dbpedia.org/resource/Perlis_FA
+0,3,Pahang,http://dbpedia.org/resource/Pahang,http://dbpedia.org/resource/Pahang_FC http://dbpedia.org/resource/Pahang_Football_Association http://dbpedia.org/resource/Pahang_F.C. http://dbpedia.org/resource/Pahang_FA http://dbpedia.org/resource/Pahang_F.A. http://dbpedia.org/resource/Pahang_State_Football_Association
+0,4,Malacca,http://dbpedia.org/resource/Malacca_City,http://dbpedia.org/resource/Melaka_United http://dbpedia.org/resource/Malacca_FA http://dbpedia.org/resource/Malacca_United_S.A. http://dbpedia.org/resource/Malacca_United_F.C. http://dbpedia.org/resource/Melaka_United_S.A.

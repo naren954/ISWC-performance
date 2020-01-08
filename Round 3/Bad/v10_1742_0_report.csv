@@ -1,0 +1,49 @@
+F1: 0.48352,Precision: 0.48352,Recall: 0.48352,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,WHNT-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WHNT http://dbpedia.org/resource/WHNT_19_News http://dbpedia.org/resource/WHNT19 http://dbpedia.org/resource/WHNT_News http://dbpedia.org/resource/WHNT-TV
+0,4,WHME-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WHVI-LP http://dbpedia.org/resource/W18AT http://dbpedia.org/resource/WHNW-LD http://dbpedia.org/resource/W54BK http://dbpedia.org/resource/WHCH-LD http://dbpedia.org/resource/WHME-TV http://dbpedia.org/resource/W24AW
+0,5,WHLT,http://dbpedia.org/resource/WJTV,http://dbpedia.org/resource/WHLT http://dbpedia.org/resource/WHLT-TV
+0,7,WHBF-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WHBF-DT http://dbpedia.org/resource/WHBF-TV http://dbpedia.org/resource/WHBF-4
+0,10,WGSR-LD,http://dbpedia.org/resource/KTPN-LD,http://dbpedia.org/resource/WGSR http://dbpedia.org/resource/WGSR-LP http://dbpedia.org/resource/WGSR-LD
+0,11,WGPX-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WGPX-TV http://dbpedia.org/resource/WGPX-16 http://dbpedia.org/resource/WGPX
+0,13,WGN-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/K47CH-D http://dbpedia.org/resource/K11QF http://dbpedia.org/resource/K41BT-D http://dbpedia.org/resource/K31FU-D http://dbpedia.org/resource/WGN-DT http://dbpedia.org/resource/WGN9 http://dbpedia.org/resource/WGN_9 http://dbpedia.org/resource/WGN-TV http://dbpedia.org/resource/Chicago's_Very_Own http://dbpedia.org/resource/K45LH-D http://dbpedia.org/resource/CW_Chicago http://dbpedia.org/resource/WGN-TV_Channel_9
+0,14,WGMB-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WGMB http://dbpedia.org/resource/WGMB-TV
+0,15,WGEM-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WGEM-TV
+0,17,WGBY-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WGBY http://dbpedia.org/resource/WGBY-DT http://dbpedia.org/resource/WGBY-TV
+0,21,WFUN-LD,http://dbpedia.org/resource/KTPN-LD,http://dbpedia.org/resource/W27AQ http://dbpedia.org/resource/WFUN-CA http://dbpedia.org/resource/WFUN-LD http://dbpedia.org/resource/W48CI http://dbpedia.org/resource/WFUN-LP
+0,23,WFTX-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/Ryan_asselta http://dbpedia.org/resource/WFTX http://dbpedia.org/resource/WFTX-TV
+0,24,WFPX-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WFPX http://dbpedia.org/resource/WFPX-TV
+0,26,WFLA-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/NBC_Tampa http://dbpedia.org/resource/NBC_Saint_Petersburg http://dbpedia.org/resource/WFLA-TV http://dbpedia.org/resource/NBC_St._Petersburg http://dbpedia.org/resource/NBC_Tampa_Bay http://dbpedia.org/resource/WFLA-DT http://dbpedia.org/resource/Daytime_(US_TV_series) http://dbpedia.org/resource/NBC_St_Petersburg
+0,29,WFFF-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WFFF-TV http://dbpedia.org/resource/WFFF-DT
+0,30,WEYI-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WEYI-DT http://dbpedia.org/resource/NBC_25_Saginaw http://dbpedia.org/resource/WEYI http://dbpedia.org/resource/WEYI-TV http://dbpedia.org/resource/NBC_25_Flint
+0,32,WENY-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WENY-TV http://dbpedia.org/resource/WENY-DT
+0,35,WECP-LD,http://dbpedia.org/resource/KTPN-LD,http://dbpedia.org/resource/WECP http://dbpedia.org/resource/WECP-LD
+0,38,WDWO-CD,http://dbpedia.org/resource/.cd,http://dbpedia.org/resource/WDWO-CA http://dbpedia.org/resource/WHDA-LP http://dbpedia.org/resource/WDWO-CD http://dbpedia.org/resource/WDWO http://dbpedia.org/resource/W27CJ-TV http://dbpedia.org/resource/W27CJ http://dbpedia.org/resource/WDWO-DT http://dbpedia.org/resource/WFHD-LP
+0,42,WDNI-CD,http://dbpedia.org/resource/.cd,http://dbpedia.org/resource/WDNI-LP http://dbpedia.org/resource/Indy's_Music_Channel http://dbpedia.org/resource/WDNI http://dbpedia.org/resource/W65DW http://dbpedia.org/resource/W53AV http://dbpedia.org/resource/WDNI-CD
+0,45,WDFX-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WDFX-TV http://dbpedia.org/resource/WDFX_34
+0,46,WDEM-CD,http://dbpedia.org/resource/.cd,http://dbpedia.org/resource/WDEM-CD2 http://dbpedia.org/resource/WDEM-LP http://dbpedia.org/resource/WDEM http://dbpedia.org/resource/WDEM-CD
+0,47,WDEF-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/CBS_Chattanooga http://dbpedia.org/resource/WDEF_TV http://dbpedia.org/resource/WDEF-TV
+0,49,WDAM-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/Wdam http://dbpedia.org/resource/WDAM-TV http://dbpedia.org/resource/WDAM
+0,51,WCYB-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WCYB-TV
+0,53,WCVE-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WCVW http://dbpedia.org/resource/WCVE-TV http://dbpedia.org/resource/WHTJ-TV http://dbpedia.org/resource/WCVW-TV http://dbpedia.org/resource/WHTJ http://dbpedia.org/resource/Commonwealth_Public_Broadcasting_Company http://dbpedia.org/resource/W66BI
+0,55,WCTI-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WCTI-TV
+0,58,WCPX-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WCPX-TV http://dbpedia.org/resource/WCPX-DT
+0,59,WCNY-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/W22DO-D http://dbpedia.org/resource/WCNY-TV http://dbpedia.org/resource/W59AU
+0,60,WCMZ-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WFUM-TV http://dbpedia.org/resource/WFUM-DT http://dbpedia.org/resource/WCMZ-TV
+0,61,WCMH-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WCMH http://dbpedia.org/resource/WCMH-TV http://dbpedia.org/resource/WLWC_(Columbus) http://dbpedia.org/resource/WCM-TV http://dbpedia.org/resource/WLW-C
+0,62,WCKV-LD,http://dbpedia.org/resource/KTPN-LD,http://dbpedia.org/resource/WCKV-LD http://dbpedia.org/resource/WCKV-LP
+0,63,WCJB-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WCJB-TV http://dbpedia.org/resource/WCJB http://dbpedia.org/resource/WBFL
+0,65,WCIU-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/The_U_(Chicago) http://dbpedia.org/resource/WCIU-TV
+0,66,WCFE-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WCFE-DT http://dbpedia.org/resource/W60AO http://dbpedia.org/resource/WCFE http://dbpedia.org/resource/W46ED-D http://dbpedia.org/resource/W67AR http://dbpedia.org/resource/Mountain_Lake_Television http://dbpedia.org/resource/WCFE-TV http://dbpedia.org/resource/W46IT-D http://dbpedia.org/resource/W25BT http://dbpedia.org/resource/W25BT-D http://dbpedia.org/resource/Mountain_Lake_PBS
+0,67,WCDN-LD,http://dbpedia.org/resource/KTPN-LD,http://dbpedia.org/resource/WCDN-LP http://dbpedia.org/resource/WCDN-LD
+0,68,WCCO-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/CBS_Saint_Paul http://dbpedia.org/resource/K35IZ-D http://dbpedia.org/resource/CBS_4_Saint_Paul http://dbpedia.org/resource/WCCO_4 http://dbpedia.org/resource/K41IZ-D http://dbpedia.org/resource/K16CP-D http://dbpedia.org/resource/CBS_Twin_Cities http://dbpedia.org/resource/CBS_St_Paul http://dbpedia.org/resource/KCCO-TV http://dbpedia.org/resource/CBS_St._Paul http://dbpedia.org/resource/KCMT-TV http://dbpedia.org/resource/CBS_4_Minneapolis http://dbpedia.org/resource/K14OL-D http://dbpedia.org/resource/K49LO-D http://dbpedia.org/resource/WCCO-TV http://dbpedia.org/resource/WCCO_Television http://dbpedia.org/resource/WCCO-DT http://dbpedia.org/resource/KCCW http://dbpedia.org/resource/CBS_4_St._Paul http://dbpedia.org/resource/K18IR-D http://dbpedia.org/resource/CBS_Minneapolis http://dbpedia.org/resource/K22KU-D http://dbpedia.org/resource/KCCO http://dbpedia.org/resource/K46AC-D http://dbpedia.org/resource/KCCW-TV
+0,69,WCAX-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WCAX-TV http://dbpedia.org/resource/W69AR http://dbpedia.org/resource/WCAX-DT http://dbpedia.org/resource/WCAX http://dbpedia.org/resource/W20CS-D http://dbpedia.org/resource/W12AF
+0,71,WBXA-CD,http://dbpedia.org/resource/.cd,http://dbpedia.org/resource/WBXA-CD
+0,74,WBRE-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WBRE-TV http://dbpedia.org/resource/WBRE
+0,76,WBOC-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/CBS_Delmarva http://dbpedia.org/resource/WBOC-TV
+0,80,WBKB-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WBKB-TV
+0,83,WBGU-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WBGU-TV
+0,84,WBBM-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/W9XBK http://dbpedia.org/resource/Channel_2_Chicago http://dbpedia.org/resource/WBBM-DT http://dbpedia.org/resource/CBS_2_Chicago http://dbpedia.org/resource/WBBM-TV http://dbpedia.org/resource/CBS_Chicago http://dbpedia.org/resource/CBS2_Chicago
+0,85,WBBH-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WBBH http://dbpedia.org/resource/WBBH-TV
+0,87,WAVY-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WAVY-TV http://dbpedia.org/resource/WKTD-CD http://dbpedia.org/resource/WBTD-LD http://dbpedia.org/resource/NBC_Hampton_Roads http://dbpedia.org/resource/WAVY_Weather_Station http://dbpedia.org/resource/WTTD-LD http://dbpedia.org/resource/WAVY_Channel_10_News http://dbpedia.org/resource/WAVY http://dbpedia.org/resource/W14DY-D http://dbpedia.org/resource/WAVY-DT http://dbpedia.org/resource/WAVY-TV_10 http://dbpedia.org/resource/WCTX-CA http://dbpedia.org/resource/WITD-CD http://dbpedia.org/resource/WCTX-CD http://dbpedia.org/resource/NBC_Norfolk http://dbpedia.org/resource/WITD-CA
+0,88,WARZ-CD,http://dbpedia.org/resource/.cd,http://dbpedia.org/resource/WARZ-LD http://dbpedia.org/resource/WARZ-LP http://dbpedia.org/resource/WARZ-CD

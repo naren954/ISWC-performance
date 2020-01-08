@@ -1,0 +1,12 @@
+F1: 0.81818,Precision: 0.81818,Recall: 0.81818,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,English Heritage,http://dbpedia.org/resource/Historic_England,http://dbpedia.org/resource/Historic_Buildings_and_Monuments_Commission_for_England http://dbpedia.org/resource/Ancient_Monuments_Board http://dbpedia.org/resource/English_heritage http://dbpedia.org/resource/HBMCE http://dbpedia.org/resource/English_Heritage_Trust http://dbpedia.org/resource/English_Heritage
+0,5,East Asian Football Federation,http://dbpedia.org/resource/ASEAN_Football_Federation,http://dbpedia.org/resource/East_Asia_Football_Federation http://dbpedia.org/resource/East_Asian_Football_Federation http://dbpedia.org/resource/EAFF
+0,10,Deutsche Gesellschaft für Luft- und Raumfahrt,http://dbpedia.org/resource/German_Aerospace_Center,http://dbpedia.org/resource/Deutsche_Gesellschaft_fur_Luft-_und_Raumfahrt http://dbpedia.org/resource/DGLR http://dbpedia.org/resource/Deutsche_Gesellschaft_für_Luft-_und_Raumfahrt_e.V. http://dbpedia.org/resource/Deutsche_Gesellschaft_für_Luft_und_Raumfahrt http://dbpedia.org/resource/Deutsche_Gesellschaft_für_Luft-_und_Raumfahrt_-_Lilienthal-_Oberth_e._V. http://dbpedia.org/resource/Deutsche_Gesellschaft_für_Luft-_und_Raumfahrt
+0,11,De Vrije Gedachte,http://dbpedia.org/resource/Vrije_Universiteit_Brussel,http://dbpedia.org/resource/De_Vrije_Gedachte http://dbpedia.org/resource/De_Dageraad
+0,13,Croatian Bishops' Conference,http://dbpedia.org/resource/Episcopal_Conference_of_Croatia,http://dbpedia.org/resource/Hrvatska_biskupska_konferencija http://dbpedia.org/resource/Croatian_Conference_of_Bishops http://dbpedia.org/resource/Croatian_Bishops'_Conference
+0,19,Community of Physics,http://dbpedia.org/resource/Engineering,http://dbpedia.org/resource/Carved_Papyrus http://dbpedia.org/resource/Physics_Community http://dbpedia.org/resource/Community_of_Physics
+0,32,CLARIN,http://dbpedia.org/resource/Clarins,http://dbpedia.org/resource/CLARIN
+0,36,Benelux Court of Justice,http://dbpedia.org/resource/Benelux,http://dbpedia.org/resource/Benelux_Court_of_Justice
+0,39,Badminton Pan Am,http://dbpedia.org/resource/Pan_American_World_Airways,http://dbpedia.org/resource/Pan_American_Badminton_Confederation http://dbpedia.org/resource/Badminton_Pan_Am
+0,54,Arab Chess Federation,http://dbpedia.org/resource/Uganda_Chess_Federation,http://dbpedia.org/resource/Arab_Chess_Federation

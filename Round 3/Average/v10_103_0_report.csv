@@ -1,0 +1,15 @@
+F1: 0.69048,Precision: 0.69048,Recall: 0.69048,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,14,N. Harrison,http://dbpedia.org/resource/Noel_Harrison,http://dbpedia.org/resource/Neil_Harrison_(curler)
+0,16,M. Campbell,http://dbpedia.org/resource/Mary_Campbell_(figure_skater),http://dbpedia.org/resource/Maurice_Campbell
+0,19,L. Campbell,http://dbpedia.org/resource/Luke_Campbell_(boxer),http://dbpedia.org/resource/Lloyd_Campbell_(curler)
+0,21,L. Johnson,http://dbpedia.org/resource/Leslie_Johnson_(racing_driver),http://dbpedia.org/resource/Linc_Johnson
+0,22,L. Johnson,http://dbpedia.org/resource/Leslie_Johnson_(racing_driver),http://dbpedia.org/resource/Leo_Johnson_(curler)
+0,23,L. Jackson,http://dbpedia.org/resource/Les_Jackson_(ice_hockey),http://dbpedia.org/resource/Laurence_Jackson
+0,28,J. Watson,http://dbpedia.org/resource/Jill_Watson,http://dbpedia.org/resource/John_Watson_(curler)
+0,30,J. Welsh,http://dbpedia.org/resource/Jeremy_Welsh,http://dbpedia.org/resource/James_Oddie_Welsh http://dbpedia.org/resource/Jimmy_Welsh_(curler)
+0,32,J. Williams,"http://dbpedia.org/resource/John_Williams_(cricketer,_born_1878)",http://dbpedia.org/resource/Jim_Williams_(curler)
+0,36,G. Watson,http://it.dbpedia.org/resource/Greg_Watson,http://dbpedia.org/resource/Grant_Watson http://dbpedia.org/resource/Grant_G._Watson
+0,39,G. André,http://dbpedia.org/resource/Géo_André,http://dbpedia.org/resource/Georges_Andre http://dbpedia.org/resource/Georges_André http://dbpedia.org/resource/Georges_André_(curler)
+0,40,G. Richardson,http://dbpedia.org/resource/George_Richardson_(ice_hockey),http://dbpedia.org/resource/Sam_Richardson_(curler) http://dbpedia.org/resource/Garnet_Richardson http://dbpedia.org/resource/Garnet_S._Richardson
+0,41,G. Campbell,http://dbpedia.org/resource/Glen_Campbell_(curler),http://dbpedia.org/resource/W._Garnet_Campbell http://dbpedia.org/resource/Garnet_Campbell_(curler) http://dbpedia.org/resource/William_Garnet_Campbell

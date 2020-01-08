@@ -1,0 +1,10 @@
+F1: 0.20000,Precision: 0.20000,Recall: 0.20000,,
+Col,Row,Value,Submitted URI,Correct URI's
+4,1,D. Stud,http://dbpedia.org/resource/Bernhard_Studer,http://dbpedia.org/resource/Dalham_Hall_Stud http://dbpedia.org/resource/Darley_stud http://dbpedia.org/resource/Kildangan_Stud http://dbpedia.org/resource/Darley_Stud
+4,2,J. Farms,http://dbpedia.org/resource/Göran_Färm,http://dbpedia.org/resource/Juddmonte_Stud http://dbpedia.org/resource/Juddmonte_Farm http://dbpedia.org/resource/Juddmonte_Farms
+4,3,S. Racing,http://dbpedia.org/resource/K.S.C._Lokeren_Oost-Vlaanderen,http://dbpedia.org/resource/Shadwell_Thoroughbred_racing http://dbpedia.org/resource/Shadwell_Stable http://dbpedia.org/resource/Elmswell_Park_Stud http://dbpedia.org/resource/Shadwell_Estate http://dbpedia.org/resource/Kingwood_House_Stables http://dbpedia.org/resource/Shadwell_Farm http://dbpedia.org/resource/Derrinstown_Stud http://dbpedia.org/resource/Salsabil_Stud http://dbpedia.org/resource/Shadwell_Racing http://dbpedia.org/resource/Shadwell_Stud
+4,5,J. Farms,http://dbpedia.org/resource/Göran_Färm,http://dbpedia.org/resource/Juddmonte_Stud http://dbpedia.org/resource/Juddmonte_Farm http://dbpedia.org/resource/Juddmonte_Farms
+4,6,S. Farm,http://dbpedia.org/resource/University_of_Saskatchewan,http://dbpedia.org/resource/Sam-Son_Farm http://dbpedia.org/resource/Sam-Son_Farms
+4,7,C. Farm,http://dbpedia.org/resource/Yokohama_F._Marinos,http://dbpedia.org/resource/Claiborne_Farm
+4,8,R. Sangster,http://dbpedia.org/resource/Donald_Sangster,http://dbpedia.org/resource/Robert_E._Sangster http://dbpedia.org/resource/Robert_Sangster
+4,9,J. Farms,http://dbpedia.org/resource/Göran_Färm,http://dbpedia.org/resource/Juddmonte_Stud http://dbpedia.org/resource/Juddmonte_Farm http://dbpedia.org/resource/Juddmonte_Farms

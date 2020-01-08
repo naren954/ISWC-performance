@@ -1,0 +1,7 @@
+"F1: 0.92857","Precision: 0.92857","Recall: 0.92857"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","1","The Innocent","http://dbpedia.org/resource/Presumed_Innocent_(novel)","http://dbpedia.org/resource/The_Innocent_(Baldacci_novel)"
+"0","14","The Illusion","http://dbpedia.org/resource/The_Grand_Illusion","http://dbpedia.org/resource/The_Illusion_(Animorphs) http://dbpedia.org/resource/The_Illusion_(novel)"
+"0","25","The Hunters","http://dbpedia.org/resource/The_Witch_Hunters_(novel)","http://dbpedia.org/resource/The_Hunters_(Brotherband)"
+"0","32","The Human Factor","http://dbpedia.org/resource/The_Human_Factor_(TV_series)","http://dbpedia.org/resource/The_Human_Factor"
+"0","58","The Hit","http://dbpedia.org/resource/The_Hits_(Dr._Bombay_album)","http://dbpedia.org/resource/The_Hit_(Baldacci_novel) http://dbpedia.org/resource/The_Hit_(Baldacci_Novel) http://dbpedia.org/resource/The_Hit_(novel) http://dbpedia.org/resource/The_Hit_(Baldacci)"

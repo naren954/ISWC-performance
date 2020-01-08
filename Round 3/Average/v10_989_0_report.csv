@@ -1,0 +1,9 @@
+F1: 0.70833,Precision: 0.70833,Recall: 0.70833,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,USS LST-853,http://dbpedia.org/resource/USS_LST-985,http://dbpedia.org/resource/ROKS_Su_Yong_(LST-813) http://dbpedia.org/resource/USS_Kane_County_(LST-853) http://dbpedia.org/resource/ROKS_Suyeong_(LST-677) http://dbpedia.org/resource/USS_LST-853 http://dbpedia.org/resource/USS_Kane_County
+0,6,USS LST-573,http://dbpedia.org/resource/USS_LST-985,http://dbpedia.org/resource/USS_LST-573
+0,8,USS LST-546,http://dbpedia.org/resource/USS_LST-986,http://dbpedia.org/resource/BRP_Suriago_del_Sur_(LT-95) http://dbpedia.org/resource/USNS_LST-546_(T-LST-546) http://dbpedia.org/resource/USNS_LST-546 http://dbpedia.org/resource/BRP_Surigao_del_Sur_(LT-95) http://dbpedia.org/resource/USS_LST-546 http://dbpedia.org/resource/LST-546
+0,14,USS LST-288,http://dbpedia.org/resource/USS_LST-985,http://dbpedia.org/resource/USS_LST-288 http://dbpedia.org/resource/ROKS_Gyebong_(LST-810) http://dbpedia.org/resource/ROKS_Gyebong_(LST-675) http://dbpedia.org/resource/USS_Berkshire_County_(LST-288) http://dbpedia.org/resource/USS_Berkshire_County
+0,16,USS LST-13,http://dbpedia.org/resource/USS_LST-3,http://dbpedia.org/resource/USS_LST-13
+0,17,USS LST-12,http://dbpedia.org/resource/USS_LST-2,http://dbpedia.org/resource/HMS_LST-12 http://dbpedia.org/resource/HM_LST-12 http://dbpedia.org/resource/USS_LST-12
+0,24,USS LCS,http://dbpedia.org/resource/USS_Freedom_(LCS-1),http://dbpedia.org/resource/HTMS_Nakha http://dbpedia.org/resource/USS_LCS(L)(3)-102 http://dbpedia.org/resource/LCS-102_(landing_craft_support)

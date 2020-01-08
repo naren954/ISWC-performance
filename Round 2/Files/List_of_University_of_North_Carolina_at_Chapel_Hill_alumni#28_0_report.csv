@@ -1,0 +1,4 @@
+"F1: 0.88889","Precision: 0.88889","Recall: 0.88889"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","5","Matt Doherty","http://dbpedia.org/resource/Matt_Doherty_(footballer,_born_1992)","http://dbpedia.org/resource/Matt_Doherty_(basketball) http://dbpedia.org/resource/Matt_Doherty_(coach)"
+"0","18","Roy Williams","http://dbpedia.org/resource/Roy_Williams_(safety)","http://dbpedia.org/resource/Roywilliams http://dbpedia.org/resource/Roy_Williams_(basketball) http://dbpedia.org/resource/Roy_Williams_(coach) http://dbpedia.org/resource/Roy_Allen_Williams http://dbpedia.org/resource/Roy_Williams_(basketball_coach)"

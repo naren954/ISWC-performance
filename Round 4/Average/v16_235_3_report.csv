@@ -1,0 +1,27 @@
+F1: 0.62687,Precision: 0.62687,Recall: 0.62687,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,1,M. Mayer,http://de.dbpedia.org/resource/Martin_Mayer_(Politiker),http://dbpedia.org/resource/Michael_Mayer_(director)
+3,5,S. Brown,http://dbpedia.org/resource/James_Brown,http://dbpedia.org/resource/Stephen_Brown_(film_producer)
+3,6,R. Mulcahy,http://dbpedia.org/resource/Richard_Mulcahy,http://dbpedia.org/resource/Russell_Mulcahy http://dbpedia.org/resource/Russel_Mulcahy
+3,8,H. Young,http://dbpedia.org/resource/Harrison_Young,http://dbpedia.org/resource/Harold_Young_(director)
+3,11,R. Rich,"http://dbpedia.org/resource/Penelope_Blount,_Countess_of_Devonshire",http://dbpedia.org/resource/Richard_Rich_(director)
+3,12,W. v. Carolsfeld,http://dbpedia.org/resource/Julius_Schnorr_von_Carolsfeld,http://dbpedia.org/resource/Wiebke_von_Carolsfeld
+3,15,J. Sturges,http://dbpedia.org/resource/Preston_Sturges,http://dbpedia.org/resource/John_Sturges
+3,18,R. Longford,http://dbpedia.org/resource/Christine_Longford,http://dbpedia.org/resource/Raymond_Longford
+3,20,W. Worsley,http://dbpedia.org/resource/Henry_Worsley_(explorer),http://dbpedia.org/resource/Wallace_Worsley
+3,22,B. Bergeron,http://fr.dbpedia.org/resource/André_Bergeron,http://dbpedia.org/resource/Bibo_Bergeron
+3,23,G. Hamilton,"http://dbpedia.org/resource/George_Douglas-Hamilton,_10th_Earl_of_Selkirk",http://dbpedia.org/resource/Guy_Hamilton
+3,28,G. N. Jr.,http://dbpedia.org/resource/George_Nicholls_Jr.,"http://dbpedia.org/resource/George_Nicholls,_Jr."
+3,29,H. Levin,http://dbpedia.org/resource/Ira_Levin,http://dbpedia.org/resource/Henry_Levin
+3,34,K. Hannam,http://dbpedia.org/resource/Edith_Hannam,http://dbpedia.org/resource/Ken_Hannam
+3,35,J. E. Mathews,http://dbpedia.org/resource/Lloyd_Mathews,http://dbpedia.org/resource/J._E._Mathews http://dbpedia.org/resource/J.E._Mathews
+3,36,J. Raymond,http://fr.dbpedia.org/resource/Jean_Raymond,http://dbpedia.org/resource/Jack_Raymond
+3,41,M. Hayes,http://dbpedia.org/resource/Margaret_Hayes,http://dbpedia.org/resource/Michael_Hayes_(director)
+3,44,R. Thorpe,http://dbpedia.org/resource/Jeremy_Thorpe,http://dbpedia.org/resource/Richard_Thorpe http://dbpedia.org/resource/Rollo_Thorpe http://dbpedia.org/resource/Rollo_Smolt_Thorpe
+3,45,M. Robson,http://dbpedia.org/resource/Flora_Robson,http://dbpedia.org/resource/Mark_Robson
+3,50,H. Bretherton,http://dbpedia.org/resource/David_Bretherton,http://dbpedia.org/resource/Howard_Bretherton
+3,51,R. Mate,,http://dbpedia.org/resource/Rudolph_Maté http://dbpedia.org/resource/Rudolph_Mate
+3,55,C. McCracken,http://dbpedia.org/resource/Hugh_McCracken,http://dbpedia.org/resource/Craig_McCraken http://dbpedia.org/resource/Craig_McCracken
+3,57,N. Monkman,http://dbpedia.org/resource/Francis_Monkman,http://dbpedia.org/resource/Noel_Monkman
+3,64,P. Stölzl,http://de.dbpedia.org/resource/Christoph_Stölzl,http://dbpedia.org/resource/Philipp_Stölzl http://dbpedia.org/resource/Philipp_Stolzl
+3,65,H. Boyadzhiev,http://dbpedia.org/resource/Zlatyu_Boyadzhiev,http://dbpedia.org/resource/Hacho_Boyadzhiev

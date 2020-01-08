@@ -1,0 +1,6 @@
+"F1: 0.77778","Precision: 0.77778","Recall: 0.77778"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","7","R. Chaplin","http://dbpedia.org/resource/Charles_Joshua_Chaplin","http://dbpedia.org/resource/Roy_Chaplin"
+"0","8","R. Stevenson","http://dbpedia.org/resource/Ronald_Stevenson","http://dbpedia.org/resource/Robert_Stevenson_(lighthouse_engineer) http://dbpedia.org/resource/Stephenson_Brothers http://dbpedia.org/resource/Robert_Stevenson_(civil_engineer)"
+"0","12","K. Johnson","http://dbpedia.org/resource/Keith_Johnson_(cricket_administrator)","http://dbpedia.org/resource/Clarence_Leonard_Johnson http://dbpedia.org/resource/Clarence_Kelly_Johnson http://dbpedia.org/resource/Clarence_Johnson http://dbpedia.org/resource/Kelly_Johnson_(engineer) http://dbpedia.org/resource/Clarence_L._""Kelly""_Johnson http://dbpedia.org/resource/Clarence_""Kelly""_Johnson http://dbpedia.org/resource/Clarence_L._Johnson"
+"0","17","A. McDonnell","http://dbpedia.org/resource/Alexander_McDonnell","http://dbpedia.org/resource/Alexander_McDonnell_(engineer)"

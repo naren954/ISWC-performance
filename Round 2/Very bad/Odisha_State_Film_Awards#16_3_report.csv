@@ -1,0 +1,5 @@
+F1: 0.25000,Precision: 0.25000,Recall: 0.25000,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,18,Asha,"http://dbpedia.org/resource/Asha,_Russia",http://dbpedia.org/resource/Aša http://dbpedia.org/resource/Asha_(Zoroastrianism) http://dbpedia.org/resource/Asha_and_druj http://dbpedia.org/resource/Asha http://dbpedia.org/resource/Duruj http://dbpedia.org/resource/Asha_(Avestan_language) http://dbpedia.org/resource/Ardibehest http://dbpedia.org/resource/Āšā http://dbpedia.org/resource/Asha_Vahishta http://dbpedia.org/resource/Arbidihist
+3,31,Bhagya Chakra,http://dbpedia.org/resource/Chakra,http://dbpedia.org/resource/Bhagyachakra http://dbpedia.org/resource/Bhagya_Chakra
+3,32,Dhauli Express,http://dbpedia.org/resource/Daily_Express,http://dbpedia.org/resource/Dhauli_Express

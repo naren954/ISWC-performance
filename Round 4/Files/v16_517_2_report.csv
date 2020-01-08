@@ -1,0 +1,8 @@
+"F1: 0.96774","Precision: 0.96774","Recall: 0.96774"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"2","24","Roberto","http://dbpedia.org/resource/Roberto_Marinho","http://dbpedia.org/resource/Roberto_(horse)"
+"2","67","Mendez","http://es.dbpedia.org/resource/Oriana_Méndez","http://dbpedia.org/resource/Mendez_(horse)"
+"2","70","Roberto","http://dbpedia.org/resource/Roberto_Marinho","http://dbpedia.org/resource/Roberto_(horse)"
+"2","87","Roberto","http://dbpedia.org/resource/Roberto_Marinho","http://dbpedia.org/resource/Robert_(name) http://dbpedia.org/resource/Robert http://dbpedia.org/resource/Robbert http://dbpedia.org/resource/List_of_famous_Roberts http://dbpedia.org/resource/Roberto http://dbpedia.org/resource/Robt http://dbpedia.org/resource/Roope http://dbpedia.org/resource/Robt."
+"2","98","Imperator","http://dbpedia.org/resource/Swordfish","http://dbpedia.org/resource/Imperator_(horse)"
+"2","115","Roberto","http://dbpedia.org/resource/Roberto_Marinho","http://dbpedia.org/resource/Roberto_(horse)"

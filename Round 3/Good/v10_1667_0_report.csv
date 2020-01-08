@@ -1,0 +1,4 @@
+F1: 0.87500,Precision: 0.87500,Recall: 0.87500,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,5,A. Gladyshev,http://dbpedia.org/resource/Aleksei_Gladyshev,http://dbpedia.org/resource/Anatoly_Gladyshev
+0,6,A. Moore,http://dbpedia.org/resource/Roger_Moore,http://dbpedia.org/resource/Alvin_Moore

@@ -1,0 +1,4 @@
+F1: 0.90476,Precision: 0.90476,Recall: 0.90476,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,4,E. W. Wilson,http://dbpedia.org/resource/Ronald_Reagan,http://dbpedia.org/resource/Emanuel_Wilson http://dbpedia.org/resource/E._Willis_Wilson http://dbpedia.org/resource/Emanuel_Wills_Wilson http://dbpedia.org/resource/Emmanuel_Willis_Wilson http://dbpedia.org/resource/Emanuel_Willis_Wilson http://dbpedia.org/resource/Emanuel_W._Wilson
+0,9,D. Wallace,http://dbpedia.org/resource/Henry_A._Wallace,http://dbpedia.org/resource/David_Wallace_(Indiana_politician) http://dbpedia.org/resource/David_J._Wallace http://dbpedia.org/resource/David_Wallace_(Indiana) http://dbpedia.org/resource/David_Wallace_(governor)

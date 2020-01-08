@@ -1,0 +1,4 @@
+"F1: 0.71429","Precision: 0.71429","Recall: 0.71429"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","4","Furman University","http://dbpedia.org/resource/Furman_Paladins_football","http://dbpedia.org/resource/Furman_University"
+"1","6","Ole Miss Rebels football","http://dbpedia.org/resource/Ole_Miss_Rebels","http://dbpedia.org/resource/Ole_Miss_Rebels_football_team http://dbpedia.org/resource/List_of_Ole_Miss_Rebels_bowl_games http://dbpedia.org/resource/Ole_miss_rebels_football http://dbpedia.org/resource/Ole_Miss_Rebels_football http://dbpedia.org/resource/Ole_Miss_Rebel_football http://dbpedia.org/resource/Ole_miss_football http://dbpedia.org/resource/Mississippi_Rebels_football http://dbpedia.org/resource/2001_Ole_Miss_Rebels_football_team"

@@ -1,0 +1,14 @@
+F1: 0.65714,Precision: 0.65714,Recall: 0.65714,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Ş. Aker,http://dbpedia.org/resource/Thomas_Akers,http://dbpedia.org/resource/Mehmet_Şefik_Aker http://dbpedia.org/resource/Sefik_Aker http://dbpedia.org/resource/Şefik_Aker
+0,3,Ō. Ken'ichi,http://dbpedia.org/resource/Kenichi_Hagiwara,http://dbpedia.org/resource/Ōshima_Ken'ichi http://dbpedia.org/resource/大島健一 http://dbpedia.org/resource/Oshima_Ken'ichi
+0,9,Đ. Mậu,http://dbpedia.org/resource/August_Maus,http://dbpedia.org/resource/Do_Mau http://dbpedia.org/resource/Ðỗ_Mậu http://dbpedia.org/resource/Đỗ_Mậu
+0,10,Đ. C. Trí,http://dbpedia.org/resource/List_of_Fairy_Tail_characters,http://dbpedia.org/resource/Do_Cao_Tri http://dbpedia.org/resource/Đỗ_Cao_Trí
+0,11,Đ. V. Quang,http://dbpedia.org/resource/Lê_Quang_Liêm,http://dbpedia.org/resource/Đăng_Văn_Quang http://dbpedia.org/resource/Dang_Van_Quang http://dbpedia.org/resource/Dam_Van_Quang
+0,12,Đ. T. Loan,http://dbpedia.org/resource/Duy-Loan_Le,http://dbpedia.org/resource/Dam_Thi_Loan http://dbpedia.org/resource/Đàm_Thị_Loan
+0,14,Đ. Skopljanče,http://dbpedia.org/resource/D,http://dbpedia.org/resource/Đorđe_Ristić_Skopljanče http://dbpedia.org/resource/Dorde_Ristic http://dbpedia.org/resource/Đorđe_Ristić-Skopljanče http://dbpedia.org/resource/Đorđe_Skopljanče http://dbpedia.org/resource/Đorđe_Ristić http://dbpedia.org/resource/Dorde_Skopljance
+0,15,Đ. Božović,http://dbpedia.org/resource/Saša_Božović,http://dbpedia.org/resource/Giska_Bozovic http://dbpedia.org/resource/Đorđe_Božović http://dbpedia.org/resource/Djordje_Bozovic http://dbpedia.org/resource/Dorde_Bozovic
+0,20,É. E. Bruix,http://de.dbpedia.org/resource/Bruix,http://dbpedia.org/resource/Étienne_Eustache_Bruix http://dbpedia.org/resource/Etienne_Eustache_Bruix http://dbpedia.org/resource/Eustache_Bruix http://dbpedia.org/resource/Eustache_Etienne
+0,26,É. L. Despeaux,http://dbpedia.org/resource/E._L._James,http://dbpedia.org/resource/Éloi_Laurent_Despeaux http://dbpedia.org/resource/Eloi_Laurent_Despeaux
+0,30,Å. Lundström,http://dbpedia.org/resource/Martin_Lundström,http://dbpedia.org/resource/Age_Lundstrom http://dbpedia.org/resource/Age_Lundstroem http://dbpedia.org/resource/Åge_Lundström
+0,33,"Álvaro de Bazán, 1st Marquis of Santa Cruz","http://dbpedia.org/resource/Álvaro_de_Bazán,_1st_Marquess_of_Santa_Cruz","http://dbpedia.org/resource/Don_Álvaro_de_Bazán,_1st_Marquis_of_Santa_Cruz http://dbpedia.org/resource/Alvaro_de_Bazan,_1st_Marquis_of_Santa_Cruz http://dbpedia.org/resource/Alvaro_de_Bazan,_Marquis_of_Santa_Cruz http://dbpedia.org/resource/Alvaro_de_Bazán,_1st_Marquis_of_Santa_Cruz http://dbpedia.org/resource/Álvaro_de_Bazán,_1st_Marquis_of_Santa_Cruz http://dbpedia.org/resource/Alvaro_de_Bazan http://dbpedia.org/resource/Álvaro_de_Bazán http://dbpedia.org/resource/Alvaro_de_Bazan,_Marques_de_Santa_Cruz http://dbpedia.org/resource/Alvaro_de_Bazán"

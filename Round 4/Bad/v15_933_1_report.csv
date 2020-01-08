@@ -1,0 +1,17 @@
+F1: 0.40000,Precision: 0.40000,Recall: 0.40000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,2,A. Buckland,http://dbpedia.org/resource/William_Buckland,http://dbpedia.org/resource/Alfred_Buckland
+1,5,D. Landsborough,http://dbpedia.org/resource/William_Landsborough,http://dbpedia.org/resource/David_Landsborough
+1,6,H. M. Nelson,http://dbpedia.org/resource/John_M._Nelson,http://dbpedia.org/resource/Hugh_Muir_Nelson http://dbpedia.org/resource/Hugh_Nelson_(Australian_politician)
+1,7,C. Johnston,http://dbpedia.org/resource/Charles_Johnston_(representative),http://dbpedia.org/resource/Charles_Johnston_(Theosophist)
+1,10,T. Gisborne,http://dbpedia.org/resource/Thomas_Gisborne_(1789–1852),http://dbpedia.org/resource/Thomas_Gisborne http://dbpedia.org/resource/Thomas_Gisbourne
+1,11,D. Gibson,http://dbpedia.org/resource/David_Gibson_(Australian_politician),http://dbpedia.org/resource/David_Havelock_Gibson http://dbpedia.org/resource/David_Gibson_(Victorian_politician)
+1,12,A. Adams,http://dbpedia.org/resource/John_Quincy_Adams,http://dbpedia.org/resource/Acton_Adams http://dbpedia.org/resource/William_Acton_Blakeway_Adams
+1,13,C. Russell,http://dbpedia.org/resource/Christine_Russell,http://dbpedia.org/resource/Charles_Russell_(Australian_politician) http://dbpedia.org/resource/Charles_Wilfred_Russell
+1,15,J. Reed,http://dbpedia.org/resource/John_Reed_(journalist),http://dbpedia.org/resource/John_Reed_(judge) http://dbpedia.org/resource/John_Ranken_Reed
+1,16,Tufton Percy Hamilton Beamish,"http://dbpedia.org/resource/Tufton_Beamish,_Baron_Chelwood",http://dbpedia.org/resource/Tufton_Beamish_(Royal_Navy_officer) http://dbpedia.org/resource/Tufton_Percy_Hamilton_Beamish
+1,17,T. G. Jr.,http://dbpedia.org/resource/Thomas_Golden_Jr.,"http://dbpedia.org/resource/Tom_Gilmore,_Jr. http://dbpedia.org/resource/Thomas_John_George_Gilmore http://dbpedia.org/resource/Tom_Gilmore_Jr._(Australian_politician) http://dbpedia.org/resource/Tom_Gilmore,_junior"
+1,19,L. Turnbull,http://dbpedia.org/resource/Malcolm_Turnbull,http://dbpedia.org/resource/Lucy_Hughes_Turnbull http://dbpedia.org/resource/Lucy_Turnbull
+1,20,N. C. Wallace,http://dbpedia.org/resource/George_Wallace,http://dbpedia.org/resource/Nathaniel_Clarke_Wallace
+1,23,A. Douglas,http://dbpedia.org/resource/Tommy_Douglas,http://dbpedia.org/resource/Alexander_Rodney_Douglas http://dbpedia.org/resource/Alex_Douglas_(politician) http://dbpedia.org/resource/Alex_Douglas_(Politician)
+1,24,C. Morison,http://dbpedia.org/resource/Hector_Morison,http://dbpedia.org/resource/Charles_Bruce_Morrison http://dbpedia.org/resource/Charles_Morison http://dbpedia.org/resource/C._B._Morison http://dbpedia.org/resource/Charles_Bruce_Morison

@@ -1,0 +1,4 @@
+"F1: 0.50000","Precision: 0.50000","Recall: 0.50000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","3","Gay Fiction","http://dbpedia.org/resource/List_of_Lambda_Literary_Awards_winners_and_nominees_for_science_fiction,_fantasy_and_horror","http://dbpedia.org/resource/Lambda_Literary_Award_for_Gay_Fiction http://dbpedia.org/resource/Lambda_Literary_Award_winners:_Gay_Men's_Fiction"
+"0","8","Lesbian Fiction","http://dbpedia.org/resource/List_of_lesbian_fiction","http://dbpedia.org/resource/Lambda_Literary_Award_for_Lesbian_Fiction"

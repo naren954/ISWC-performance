@@ -1,0 +1,7 @@
+"F1: 0.16667","Precision: 0.16667","Recall: 0.16667"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"2","2","Mejillones","http://dbpedia.org/resource/Municipal_Mejillones","http://dbpedia.org/resource/Mejillones,_Chile http://dbpedia.org/resource/Mejillones"
+"2","3","Sierra Gorda","http://dbpedia.org/resource/Punta_Gorda,_Belize","http://dbpedia.org/resource/Sierra_Gorda,_Chile"
+"2","6","OllagÃ¼e","http://dbpedia.org/resource/Ollagüe","http://dbpedia.org/resource/Ollagüe,_Chile"
+"2","7","San Pedro de Atacama","http://dbpedia.org/resource/San_Pedro,_Laguna","http://dbpedia.org/resource/San_pedro_de_atacama http://dbpedia.org/resource/San_Pedro_de_Atacama,_Chile http://dbpedia.org/resource/San_Pedro_de_Atacama"
+"2","9","MarÃ­a Elena","http://dbpedia.org/resource/María_Elena_Walsh","http://dbpedia.org/resource/María_Elena"

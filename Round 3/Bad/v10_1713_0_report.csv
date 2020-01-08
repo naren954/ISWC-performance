@@ -1,0 +1,6 @@
+F1: 0.50000,Precision: 0.50000,Recall: 0.50000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,There's No Place Like Home,http://dbpedia.org/resource/There's_No_Place_Like_Home_(Once_Upon_a_Time),http://dbpedia.org/resource/There's_No_Place_Like_Home http://dbpedia.org/resource/There's_No_Place_Like_Home_(Lost) http://dbpedia.org/resource/Frozen_Donkey_Wheel http://dbpedia.org/resource/Membata
+0,4,The Siege,http://dbpedia.org/resource/The_Siege_(Star_Trek:_Deep_Space_Nine),"http://dbpedia.org/resource/The_Siege_(Stargate_Atlantis) http://dbpedia.org/resource/The_Siege,_Part_2_(Stargate_Atlantis) http://dbpedia.org/resource/The_Siege_(SGA) http://dbpedia.org/resource/The_Siege,_Part_3 http://dbpedia.org/resource/The_Siege,_Part_3_(Stargate_Atlantis) http://dbpedia.org/resource/The_Siege,_Part_1_(Stargate_Atlantis)"
+0,7,Full Circle,http://dbpedia.org/resource/Full_Circle_(Doctor_Who),http://dbpedia.org/resource/Full_circle_(stargate_sg-1) http://dbpedia.org/resource/Full_Circle_(Stargate_SG-1)
+0,8,Exodus,http://es.dbpedia.org/resource/Exodus_(episodio_de_Falling_Skies),http://dbpedia.org/resource/Black_Rock_(Lost) http://dbpedia.org/resource/Exodus_(Lost) http://dbpedia.org/resource/Lost_s01e23 http://dbpedia.org/resource/Exodus_(Lost_episode)

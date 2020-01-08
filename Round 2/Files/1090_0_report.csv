@@ -1,0 +1,6 @@
+"F1: 0.90000","Precision: 0.90000","Recall: 0.90000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","3","Terezín","http://de.dbpedia.org/resource/Terezín_(Petrov_nad_Desnou)","http://dbpedia.org/resource/Terezín http://dbpedia.org/resource/Terezin http://dbpedia.org/resource/Theriesenstadt"
+"0","7","Rajgad","http://dbpedia.org/resource/Rajgad_Fort","http://dbpedia.org/resource/Rajgad http://dbpedia.org/resource/Rajgad_fort"
+"0","26","Fort of Nossa Senhora da Encarnação","http://dbpedia.org/resource/Fort_of_Our_Lady_of_the_Incarnation_(Carvoeiro)","http://dbpedia.org/resource/Fort_of_Nossa_Senhora_da_Encarnacao_(Carvoeiro) http://dbpedia.org/resource/Fort_of_Nossa_Senhora_da_Encarnação_(Carvoeiro) http://dbpedia.org/resource/Shrine_of_Nossa_Senhora_da_Encarnacao_(Carvoeiro) http://dbpedia.org/resource/Shrine_of_Nossa_Senhora_da_Encarnação_(Carvoeiro)"
+"0","29","Fort of Greta","http://dbpedia.org/resource/Fort_of_Greta_(Angra_do_Heroísmo)","http://dbpedia.org/resource/Fort_of_Greta_(Horta)"

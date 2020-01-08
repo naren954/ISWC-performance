@@ -1,0 +1,49 @@
+F1: 0.67361,Precision: 0.67361,Recall: 0.67361,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,XHVG-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/XHVG http://dbpedia.org/resource/XHVG-FM
+0,2,XHUAA-TDT,http://dbpedia.org/resource/XHUNAM-TDT,http://dbpedia.org/resource/XHUAA http://dbpedia.org/resource/XHUAA-TV http://dbpedia.org/resource/XHUAA-TDT
+0,3,XHRST-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/XHRST-FM http://dbpedia.org/resource/XHRST
+0,4,XHRM-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/XHRM-FM http://dbpedia.org/resource/XHRM
+0,5,XHRIO-TDT,http://dbpedia.org/resource/XHTRES-TDT,http://dbpedia.org/resource/XHRIO-TDT http://dbpedia.org/resource/XRIO-TV http://dbpedia.org/resource/XHRIO http://dbpedia.org/resource/XRIO http://dbpedia.org/resource/XHRIO-TV http://dbpedia.org/resource/XHHUPN http://dbpedia.org/resource/XHHUPN-TV
+0,6,XHPRS-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/XHPRS-FM http://dbpedia.org/resource/XHBCE http://dbpedia.org/resource/XHBCE-FM http://dbpedia.org/resource/XEPRS-FM
+0,7,XHOCL-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/XHOCL http://dbpedia.org/resource/XHOCL-FM http://dbpedia.org/resource/KOCL-FM
+0,8,XHMORE-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/XHMORE-FM http://dbpedia.org/resource/XHMORE http://dbpedia.org/resource/XMOR-FM
+0,11,XHITZ-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/XHITZ http://dbpedia.org/resource/XHITZ-FM http://dbpedia.org/resource/XHTZ
+0,12,XHGLX-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/XHGLX-FM http://dbpedia.org/resource/XHGLX
+0,13,XHFG-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/XHFG-FM http://dbpedia.org/resource/XHFG
+0,14,XHENA-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/XHENA-FM
+0,15,XHEM-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/XHEM http://dbpedia.org/resource/XHEM-FM
+0,16,XHDTV-TDT,http://dbpedia.org/resource/XHMNU-TDT,http://dbpedia.org/resource/XUPN-TV http://dbpedia.org/resource/XDTV http://dbpedia.org/resource/XHUPN-TV http://dbpedia.org/resource/XHDTV-TDT http://dbpedia.org/resource/XHDTV http://dbpedia.org/resource/XUPN http://dbpedia.org/resource/XHUPN http://dbpedia.org/resource/XHDTV-TDT2 http://dbpedia.org/resource/XHDTV-TV http://dbpedia.org/resource/XHTEB-TV
+0,17,XHCJE-TDT,http://dbpedia.org/resource/XHTRES-TDT,http://dbpedia.org/resource/XHCJE-TV http://dbpedia.org/resource/XHCJE-TDT http://dbpedia.org/resource/XHCJE
+0,18,XHCANQ-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/XHCANQ-FM
+0,19,XHAVO-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/XHAVO-FM http://dbpedia.org/resource/XHAVO
+0,20,XHADA-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/XHADA-FM
+0,22,XETRA-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/Reggae_Makossa http://dbpedia.org/resource/91X http://dbpedia.org/resource/XTRA-FM http://dbpedia.org/resource/XETRA_(FM) http://dbpedia.org/resource/XETRA-FM
+0,25,WZVN-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WZVN-TV http://dbpedia.org/resource/WEVN-TV
+0,34,WZRL,http://dbpedia.org/resource/WZRL,http://dbpedia.org/resource/WRDZ-FM http://dbpedia.org/resource/WZRL_(FM) http://dbpedia.org/resource/WUBG
+0,39,WZOO-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/WZOO-FM_(102_Zoo) http://dbpedia.org/resource/WZOO-FM
+0,44,WZMP,,http://dbpedia.org/resource/WRDW-FM http://dbpedia.org/resource/Wired_96.5 http://dbpedia.org/resource/WZMP http://dbpedia.org/resource/Wild_96.5
+0,57,WZEZ,http://dbpedia.org/resource/WZEZ_(FM),http://dbpedia.org/resource/WZEZ
+0,63,WZBF,,http://dbpedia.org/resource/WLZS-FM http://dbpedia.org/resource/WLZS http://dbpedia.org/resource/WZBF
+0,65,WZAT,,http://dbpedia.org/resource/WZAT http://dbpedia.org/resource/WZAT-FM
+0,72,WYTV-DT2,http://dbpedia.org/resource/WYTV,http://dbpedia.org/resource/MY-YTV http://dbpedia.org/resource/WYTV-DT2
+0,76,WYSS,http://dbpedia.org/resource/Escher_Wyss_(Zürich),http://dbpedia.org/resource/WYSS-FM http://dbpedia.org/resource/WYSS
+0,81,WYOU,http://dbpedia.org/resource/WTJZ,http://dbpedia.org/resource/WYOU http://dbpedia.org/resource/WDAU-TV http://dbpedia.org/resource/WYOU-TV
+0,86,WYMT-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WKYH-TV http://dbpedia.org/resource/WYMT http://dbpedia.org/resource/WYMT-TV
+0,87,WYME-CD,http://dbpedia.org/resource/.cd,http://dbpedia.org/resource/WYME http://dbpedia.org/resource/WYME-CA http://dbpedia.org/resource/WYME-CD
+0,93,WYFX-LD,http://dbpedia.org/resource/KTPN-LD,http://dbpedia.org/resource/WFXI-CA http://dbpedia.org/resource/WYFX-LP http://dbpedia.org/resource/WYFX-LD
+0,95,WYDE-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/WYDE-FM http://dbpedia.org/resource/W268BM http://dbpedia.org/resource/WYDE-FM/AM
+0,99,WYBC-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/WYBC-FM
+0,100,WYAY,,http://dbpedia.org/resource/WYAY-FM http://dbpedia.org/resource/WYAY_FM http://dbpedia.org/resource/WYAY_(FM) http://dbpedia.org/resource/Eagle_107 http://dbpedia.org/resource/WYAY
+0,101,WYAU,http://dbpedia.org/resource/Category:Eggs,http://dbpedia.org/resource/WWED http://dbpedia.org/resource/WYAU
+0,104,WXYZ-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WXYZ-DT http://dbpedia.org/resource/WXYZ-TV_Channel_7 http://dbpedia.org/resource/ABC_Detroit http://dbpedia.org/resource/Scripps_Television_Detroit http://dbpedia.org/resource/Action_News_Detroit http://dbpedia.org/resource/Channel_7_of_Detroit http://dbpedia.org/resource/WXYZ-TV
+0,105,WXYT-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/WXYT-FM http://dbpedia.org/resource/WXYT-FM_HD3 http://dbpedia.org/resource/WXYT-HD2 http://dbpedia.org/resource/WXYT-FM_HD2 http://dbpedia.org/resource/97.1_The_Ticket http://dbpedia.org/resource/WXYT_(FM) http://dbpedia.org/resource/97.1_WXYT http://dbpedia.org/resource/97.1_the_ticket http://dbpedia.org/resource/WXYT-HD3
+0,110,WXXJ,http://dbpedia.org/resource/WXXJ_(FM),http://dbpedia.org/resource/X102.9FM http://dbpedia.org/resource/WXXJ
+0,111,WXXI-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WXXI-TV http://dbpedia.org/resource/WXXI-TV_21 http://dbpedia.org/resource/WXXI-DT
+0,113,WXVT,http://dbpedia.org/resource/WXVT-LD,http://dbpedia.org/resource/WXVT http://dbpedia.org/resource/WXVT-TV
+0,117,WXTG-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/WXTG-FM
+0,120,WXSP-CD,http://dbpedia.org/resource/.cd,http://dbpedia.org/resource/WXSP-CD http://dbpedia.org/resource/WXSP-CA http://dbpedia.org/resource/WOKZ-CA http://dbpedia.org/resource/WXSP-DC http://dbpedia.org/resource/WOBC-CA http://dbpedia.org/resource/WXSP_The_X http://dbpedia.org/resource/WOHO-CA http://dbpedia.org/resource/WOKZ-CD http://dbpedia.org/resource/WOMS-CA http://dbpedia.org/resource/WOGC http://dbpedia.org/resource/WXSP http://dbpedia.org/resource/WXSP-LP http://dbpedia.org/resource/WOHO http://dbpedia.org/resource/WOLP-CA http://dbpedia.org/resource/WOBC-CD http://dbpedia.org/resource/WOLP-CD http://dbpedia.org/resource/WOHO-CD http://dbpedia.org/resource/WOMS-CD http://dbpedia.org/resource/WOMS
+0,128,WXLV-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WXLV-DT http://dbpedia.org/resource/WXLV-TV
+0,137,WXIA-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/NBC_Atlanta http://dbpedia.org/resource/WXIA_(TV) http://dbpedia.org/resource/Gannett_Television_Atlanta http://dbpedia.org/resource/11alive http://dbpedia.org/resource/11Alive http://dbpedia.org/resource/WXIA http://dbpedia.org/resource/WXIA-TV_personalities http://dbpedia.org/resource/WXIA-TV http://dbpedia.org/resource/WLWA-TV http://dbpedia.org/resource/WXIA-DT http://dbpedia.org/resource/WLWA_(Atlanta) http://dbpedia.org/resource/WLW-A
+0,139,WXGA-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WXGA-TV
+0,143,WXEX-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/WXEX-FM http://dbpedia.org/resource/WPHX-FM http://dbpedia.org/resource/W246BP http://dbpedia.org/resource/WCDQ_(defunct)

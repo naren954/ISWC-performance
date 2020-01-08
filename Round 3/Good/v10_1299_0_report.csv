@@ -1,0 +1,5 @@
+F1: 0.97196,Precision: 0.97196,Recall: 0.97196,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,60,Experimental Lung Research,http://dbpedia.org/resource/Experimental_Cell_Research,http://dbpedia.org/resource/Experimental_Lung_Research
+0,72,European Physical Journal E,http://dbpedia.org/resource/European_Physical_Journal,"http://dbpedia.org/resource/EPJ_E http://dbpedia.org/resource/European_Physical_Journal_E http://dbpedia.org/resource/The_European_physical_journal._E,_Soft_matter http://dbpedia.org/resource/The_European_Physical_Journal_E"
+0,73,European Physical Journal C,http://dbpedia.org/resource/European_Physical_Journal,http://dbpedia.org/resource/EPJ_C http://dbpedia.org/resource/European_Physical_Journal_C http://dbpedia.org/resource/Eur._Phys._J._C http://dbpedia.org/resource/The_European_Physical_Journal_C

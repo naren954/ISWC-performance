@@ -1,0 +1,4 @@
+F1: 0.93333,Precision: 0.93333,Recall: 0.93333,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,5,John Shelley,http://dbpedia.org/resource/John_F._Shelley,http://dbpedia.org/resource/John_Shelley_(disambiguation) http://dbpedia.org/resource/John_Shelley
+1,6,"John F. Baldwin, Jr.",http://dbpedia.org/resource/John_F._Baldwin_Jr.,"http://dbpedia.org/resource/John_F._Baldwin http://dbpedia.org/resource/John_Finley_Baldwin,_Jr. http://dbpedia.org/resource/John_F._Baldwin,_Jr."

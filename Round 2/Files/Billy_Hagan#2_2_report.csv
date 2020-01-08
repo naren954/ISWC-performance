@@ -1,0 +1,4 @@
+"F1: 0.00000","Precision: 0.00000","Recall: 0.00000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"2","1","Cale Yarborough Bill Cooper","nan","http://dbpedia.org/resource/Cale_Yarborough http://dbpedia.org/resource/William_Caleb_Yarborough"
+"2","2","Gene Felton Tom Williams","http://dbpedia.org/resource/Tom_Williams_(ice_hockey,_born_1951)","http://dbpedia.org/resource/Gene_Felton_(American_Race_Car_Driver) http://dbpedia.org/resource/Gene_Felton"

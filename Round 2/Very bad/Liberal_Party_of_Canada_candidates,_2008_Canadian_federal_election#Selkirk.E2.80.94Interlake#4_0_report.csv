@@ -1,0 +1,63 @@
+F1: 0.16438,Precision: 0.16438,Recall: 0.16438,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,Abitibiâ\u0080\u0094TÃ©miscamingue,http://dbpedia.org/resource/C0_and_C1_control_codes,http://dbpedia.org/resource/Abitibi—Témiscamingue
+0,3,Ahuntsic,http://dbpedia.org/resource/Ahuntsic-Cartierville,http://dbpedia.org/resource/Ahuntsic_(electoral_district)
+0,4,Alfred-Pellan,http://dbpedia.org/resource/Alfred_Pellan,http://dbpedia.org/resource/Alfred-Pellan http://dbpedia.org/resource/Alfred-Pellan_(electoral_district) http://dbpedia.org/resource/Duvernay_(electoral_district) http://dbpedia.org/resource/Laval_East
+0,5,Argenteuilâ\u0080\u0094Papineauâ\u0080\u0094Mirabel,http://dbpedia.org/resource/C0_and_C1_control_codes,http://dbpedia.org/resource/Argenteuil—Papineau—Mirabel
+0,6,Bas-Richelieuâ\u0080\u0094Nicoletâ\u0080\u0094BÃ©cancour,,http://dbpedia.org/resource/Bas-Richelieu—Nicolet—Bécancour
+0,8,Beauharnoisâ\u0080\u0094Salaberry,http://dbpedia.org/resource/Salaberry-de-Valleyfield,http://dbpedia.org/resource/Beauharnois—Salaberry
+0,10,Berthierâ\u0080\u0094MaskinongÃ©,http://dbpedia.org/resource/C0_and_C1_control_codes,http://dbpedia.org/resource/Berthier—Maskinongé
+0,11,Bourassa,http://dbpedia.org/resource/Robert_Bourassa,http://dbpedia.org/resource/Montreal—Bourassa http://dbpedia.org/resource/Montreal--Bourassa http://dbpedia.org/resource/Bourassa_(electoral_district)
+0,13,Brossardâ\u0080\u0094La Prairie,,http://dbpedia.org/resource/Brossard—La_Prairie
+0,14,Chamblyâ\u0080\u0094Borduas,http://dbpedia.org/resource/Paul-Émile_Borduas,http://dbpedia.org/resource/Chambly—Borduas
+0,15,Charlesbourgâ\u0080\u0094Haute-Saint-Charles,,http://dbpedia.org/resource/Charlesbourg—Haute-Saint-Charles
+0,16,ChÃ¢teauguayâ\u0080\u0094Saint-Constant,,http://dbpedia.org/resource/Châteauguay—Saint-Constant
+0,17,Chicoutimiâ\u0080\u0094Le Fjord,http://dbpedia.org/resource/C0_and_C1_control_codes,http://dbpedia.org/resource/Chicoutimi—Le_Fjord
+0,19,Drummond,http://dbpedia.org/resource/George_Alexander_Drummond,http://dbpedia.org/resource/Drummond_(electoral_district)
+0,20,GaspÃ©sieâ\u0080\u0094Ã\u008Eles-de-la-Madeleine,,http://dbpedia.org/resource/Gaspésie—Îles-de-la-Madeleine_(electoral_district)
+0,21,Gatineau,http://dbpedia.org/resource/Roman_Catholic_Archdiocese_of_Gatineau,http://dbpedia.org/resource/Gatineau_(electoral_district)
+0,22,Haute-GaspÃ©sieâ\u0080\u0094La Mitisâ\u0080\u0094Mataneâ\u0080\u0094MatapÃ©dia,http://dbpedia.org/resource/Black_Sea,http://dbpedia.org/resource/Haute-Gaspésie—La_Mitis—Matane—Matapédia
+0,24,HonorÃ©-Mercier,http://dbpedia.org/resource/Honoré_Mercier,http://dbpedia.org/resource/Honoré-Mercier_(electoral_district)
+0,25,Hullâ\u0080\u0094Aylmer,"http://dbpedia.org/resource/Matthew_Aylmer,_1st_Baron_Aylmer",http://dbpedia.org/resource/Hull—Aylmer
+0,26,Jeanne-Le Ber,http://dbpedia.org/resource/Jeanne_Le_Ber,http://dbpedia.org/resource/Jeanne-Le_Ber http://dbpedia.org/resource/Jeanne-Le_Ber_(electoral_district) http://dbpedia.org/resource/Jeanne—Le_Ber
+0,27,Joliette,http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Joliette,http://dbpedia.org/resource/Joliette_(electoral_district)
+0,28,JonquiÃ¨reâ\u0080\u0094Alma,http://dbpedia.org/resource/Jonathan_Rea,http://dbpedia.org/resource/Jonquière—Alma
+0,29,La Pointe-de-l'Ã\u008Ele,http://dbpedia.org/resource/La_Complainte_de_l'heure_de_pointe,http://dbpedia.org/resource/La_Pointe-de-l'Île_(electoral_district)
+0,30,Lac-Saint-Louis,"http://dbpedia.org/resource/Saint-Louis,_Senegal",http://dbpedia.org/resource/Lac-Saint-Louis_(electoral_district) http://dbpedia.org/resource/Lac-Saint-Louis http://dbpedia.org/resource/Lac_St-Louis_(electoral_district)
+0,31,LaSalleâ\u0080\u0094Ã\u0089mard,,http://dbpedia.org/resource/LaSalle—Émard
+0,32,Laurentidesâ\u0080\u0094Labelle,http://dbpedia.org/resource/Antoine_Labelle,http://dbpedia.org/resource/Laurentides—Labelle
+0,33,Laurierâ\u0080\u0094Sainte-Marie,http://fr.dbpedia.org/resource/Sainte-Anne_(métro_de_Rennes),http://dbpedia.org/resource/Laurier—Sainte-Marie
+0,35,Lavalâ\u0080\u0094Les Ã\u008Eles,,http://dbpedia.org/resource/Laval—Les_Îles
+0,36,LÃ©visâ\u0080\u0094Bellechasse,http://dbpedia.org/resource/Bellechasse—Etchemins—Montmagny—L'Islet,http://dbpedia.org/resource/Lévis—Bellechasse
+0,37,Longueuilâ\u0080\u0094Pierre-Boucher,http://dbpedia.org/resource/C0_and_C1_control_codes,http://dbpedia.org/resource/Longueuil—Pierre-Boucher
+0,38,LotbiniÃ¨reâ\u0080\u0094Chutes-de-la-ChaudiÃ¨re,http://dbpedia.org/resource/George_Chuter,http://dbpedia.org/resource/Lotbinière—Chutes-de-la-Chaudière
+0,39,Louis-HÃ©bert,http://dbpedia.org/resource/Louis_Hébert,http://dbpedia.org/resource/Louis-Hébert_(electoral_district)
+0,40,Louis-Saint-Laurent,http://dbpedia.org/resource/Louis_St._Laurent,http://dbpedia.org/resource/Louis-Saint-Laurent_(electoral_district) http://dbpedia.org/resource/Louis-Saint-Laurent http://dbpedia.org/resource/Louis-Saint-Laurent_(Canada's_Federal_Electoral_District)
+0,41,Manicouagan,http://dbpedia.org/resource/Baie-Comeau,http://dbpedia.org/resource/Manicouagan_(electoral_district)
+0,42,Marc-AurÃ¨le-Fortin,http://dbpedia.org/resource/Marc-Aurèle_Fortin,http://dbpedia.org/resource/Marc-Aurèle-Fortin_(electoral_district)
+0,43,MÃ©ganticâ\u0080\u0094L'Ã\u0089rable,http://dbpedia.org/resource/C0_and_C1_control_codes,http://dbpedia.org/resource/Mégantic—L'Érable
+0,44,Montcalm,http://dbpedia.org/resource/Louis-Joseph_de_Montcalm,http://dbpedia.org/resource/Montcalm_(electoral_district)
+0,45,Montmagnyâ\u0080\u0094L'Isletâ\u0080\u0094Kamouraskaâ\u0080\u0094RiviÃ¨re-du-Loup,http://dbpedia.org/resource/Black_Sea,http://dbpedia.org/resource/Montmagny—L'Islet—Kamouraska—Rivière-du-Loup
+0,46,Montmorencyâ\u0080\u0094Charlevoixâ\u0080\u0094Haute-CÃ´te-Nord,http://dbpedia.org/resource/United_States_Senate,http://dbpedia.org/resource/Montmorency—Charlevoix—Haute-Côte-Nord
+0,48,Notre-Dame-de-GrÃ¢ceâ\u0080\u0094Lachine,http://dbpedia.org/resource/Notre-Dame-de-Bellecombe,http://dbpedia.org/resource/Notre-Dame-de-Grâce—Lachine
+0,50,Papineau,http://dbpedia.org/resource/Louis-Joseph_Papineau,"http://dbpedia.org/resource/Papineau—Saint-Denis http://dbpedia.org/resource/Papineau--Saint-Michel http://dbpedia.org/resource/Papineau—Saint-Michel http://dbpedia.org/resource/Papineau--Saint-Denis http://dbpedia.org/resource/Papineau,_Quebec http://dbpedia.org/resource/Papineau-Saint-Denis http://dbpedia.org/resource/Papineau_(electoral_district)"
+0,51,Pierrefondsâ\u0080\u0094Dollard,http://dbpedia.org/resource/Dollard-des-Ormeaux,http://dbpedia.org/resource/Pierrefonds—Dollard
+0,52,Pontiac,http://dbpedia.org/resource/Pontiac_(Ottawa_leader),http://dbpedia.org/resource/Pontiac-Gatineau-Labelle http://dbpedia.org/resource/Pontiac_(electoral_district) http://dbpedia.org/resource/Pontiac--Gatineau--Labelle http://dbpedia.org/resource/Pontiac—Gatineau—Labelle
+0,53,Portneufâ\u0080\u0094Jacques-Cartier,http://dbpedia.org/resource/C0_and_C1_control_codes,http://dbpedia.org/resource/Portneuf—Jacques-Cartier
+0,54,QuÃ©bec,http://dbpedia.org/resource/Roman_Catholic_Archdiocese_of_Quebec,http://dbpedia.org/resource/Québec_(electoral_district)
+0,55,Repentigny,"http://dbpedia.org/resource/Repentigny,_Quebec","http://dbpedia.org/resource/Repentigny_(electoral_district) http://dbpedia.org/resource/Repentigny_by-election,_2006"
+0,58,RiviÃ¨re-des-Mille-Ã\u008Eles,http://dbpedia.org/resource/La_Valse_à_Mille_Temps,http://dbpedia.org/resource/Rivière-des-Mille-Îles_(electoral_district)
+0,60,Robervalâ\u0080\u0094Lac-Saint-Jean,,http://dbpedia.org/resource/Roberval—Lac-Saint-Jean
+0,61,Rosemontâ\u0080\u0094La Petite-Patrie,http://dbpedia.org/resource/Rosemont–La_Petite-Patrie,http://dbpedia.org/resource/Rosemont—La_Petite-Patrie_(electoral_district)
+0,62,Saint-Brunoâ\u0080\u0094Saint-Hubert,http://dbpedia.org/resource/University_of_Minnesota,http://dbpedia.org/resource/Saint-Bruno—Saint-Hubert
+0,63,Saint-Hyacintheâ\u0080\u0094Bagot,http://dbpedia.org/resource/C0_and_C1_control_codes,http://dbpedia.org/resource/Saint-Hyacinthe—Bagot
+0,64,Saint-Jean,http://dbpedia.org/resource/Simon_Saint-Jean,http://dbpedia.org/resource/Saint-Jean_(electoral_district)
+0,65,Saint-Lambert,http://dbpedia.org/resource/Lambert_of_Maastricht,http://dbpedia.org/resource/Saint-Lambert_(electoral_district)
+0,66,Saint-Laurentâ\u0080\u0094Cartierville,http://dbpedia.org/resource/C0_and_C1_control_codes,http://dbpedia.org/resource/Saint-Laurent—Cartierville
+0,67,Saint-LÃ©onardâ\u0080\u0094Saint-Michel,"http://dbpedia.org/resource/St._Michael's_Church,_Hildesheim",http://dbpedia.org/resource/Saint-Léonard—Saint-Michel
+0,68,Saint-Mauriceâ\u0080\u0094Champlain,http://dbpedia.org/resource/Saint-Lô,http://dbpedia.org/resource/Saint-Maurice—Champlain
+0,70,Sherbrooke,http://dbpedia.org/resource/Sherbrooke,http://dbpedia.org/resource/Sherbrooke_(electoral_district) http://dbpedia.org/resource/Sherbrooke_(electorial_district)
+0,71,Terrebonneâ\u0080\u0094Blainville,http://dbpedia.org/resource/Henri_Marie_Ducrotay_de_Blainville,http://dbpedia.org/resource/Terrebonne—Blainville
+0,72,Trois-RiviÃ¨res,http://dbpedia.org/resource/Trois-Rivières,http://dbpedia.org/resource/Trois-Rivières_(electoral_district)
+0,74,VerchÃ¨resâ\u0080\u0094Les Patriotes,,http://dbpedia.org/resource/Verchères—Les_Patriotes
+0,75,Westmountâ\u0080\u0094Ville-Marie,http://dbpedia.org/resource/Sante_Marie,http://dbpedia.org/resource/Westmount—Ville-Marie

@@ -1,0 +1,4 @@
+F1: 0.60000,Precision: 0.60000,Recall: 0.60000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,4,Air,http://dbpedia.org/resource/Ayr,http://dbpedia.org/resource/Galactica_(roller_coaster) http://dbpedia.org/resource/Air_(roller_coaster)
+1,6,The Smiler,http://dbpedia.org/resource/The_Smiler,http://dbpedia.org/resource/The_Smiler_(roller_coaster) http://dbpedia.org/resource/SW7_(roller_coaster) http://dbpedia.org/resource/Secret_Weapon_7

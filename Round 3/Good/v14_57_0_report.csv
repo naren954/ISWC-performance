@@ -1,0 +1,6 @@
+F1: 0.86667,Precision: 0.86667,Recall: 0.86667,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,W. Brown,http://dbpedia.org/resource/Wes_Brown,http://dbpedia.org/resource/Watson_Brown
+0,5,T. Beck,"http://dbpedia.org/resource/Tim_Beck_(American_football,_born_1966)","http://dbpedia.org/resource/Tim_Beck_(Pittsburg_State_coach) http://dbpedia.org/resource/Tim_Beck_(American_football,_born_1964) http://dbpedia.org/resource/Tim_Beck_(Pittsburgh_State_coach)"
+0,16,P. Johnson,"http://dbpedia.org/resource/Phil_Johnson_(basketball,_born_1941)",http://dbpedia.org/resource/Paul_Johnson_(American_football_coach) http://dbpedia.org/resource/Paul_Johnson_(coach) http://dbpedia.org/resource/Paul_Johnson_(American_football)
+0,28,J. Taylor,http://dbpedia.org/resource/Jack_Taylor_(swimmer),http://dbpedia.org/resource/Joe_Taylor_(American_football_coach)

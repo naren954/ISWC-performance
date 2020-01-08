@@ -1,0 +1,6 @@
+F1: 0.75000,Precision: 0.75000,Recall: 0.75000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,8,J. Q. III,http://dbpedia.org/resource/Bill_Clinton,http://dbpedia.org/resource/Josiah_Quincy_(Harvard_president) http://dbpedia.org/resource/Josiah_Quincy_III http://dbpedia.org/resource/Josiah_Quincy_(1772-1864)
+0,10,F. S. Coolidge,http://dbpedia.org/resource/Calvin_Coolidge,http://dbpedia.org/resource/Frederick_Coolidge http://dbpedia.org/resource/Frederick_Spaulding_Coolidge http://dbpedia.org/resource/Frederick_S._Coolidge
+0,14,B. Butler,http://dbpedia.org/resource/Richard_Butler_(Australian_politician),http://dbpedia.org/resource/Benjamin_Franklin_Butler_(politician) http://dbpedia.org/resource/Benjamin_F._Butler_(politician) http://dbpedia.org/resource/B.F._Butler http://dbpedia.org/resource/Beast_Butler http://dbpedia.org/resource/Benjamin_Butler_(politician)
+0,15,B. Storer,"http://dbpedia.org/resource/Bellamy_Storer_(politician,_born_1847)","http://dbpedia.org/resource/Bellamy_Storer_(1796–1875) http://dbpedia.org/resource/Bellamy_Storer_(Ohio,_1796-1875) http://dbpedia.org/resource/Bellamy_Storer_(Sr.) http://dbpedia.org/resource/Bellamy_Storer_(1796-1875) http://dbpedia.org/resource/Bellamy_Storer_(1796) http://dbpedia.org/resource/Bellamy_Storer_(Ohio,_1796–1875)"

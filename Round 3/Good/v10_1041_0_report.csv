@@ -1,0 +1,8 @@
+F1: 0.94915,Precision: 0.94915,Recall: 0.94915,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,11,M. Á. Guerra,http://dbpedia.org/resource/World_War_II,http://dbpedia.org/resource/Miguel_Angel_Guerra http://dbpedia.org/resource/Miguel_Ángel_Guerra
+0,72,K. A. Jr.,http://dbpedia.org/resource/Antonín_Kasper_Jr.,"http://dbpedia.org/resource/Kurt_Ahrens_Jr http://dbpedia.org/resource/Kurt_Ahrens_Jr. http://dbpedia.org/resource/Kurt_Ahrens,_Jr. http://dbpedia.org/resource/Kurt_Ahrens"
+0,79,K. Rosberg,http://dbpedia.org/resource/Nico_Rosberg,http://dbpedia.org/resource/Keijo_Rosberg http://dbpedia.org/resource/Keijo_Erik_Rosberg http://dbpedia.org/resource/Keke_Rosberg http://dbpedia.org/resource/Keke_Erik_Rosberg
+0,86,J. Bailey,"http://dbpedia.org/resource/Jack_Bailey_(footballer,_born_1921)",http://dbpedia.org/resource/Julian_Bailey
+0,98,J. Williams,http://dbpedia.org/resource/John_Williams_(motorcyclist),http://dbpedia.org/resource/Jonathan_Williams_(auto_racing) http://dbpedia.org/resource/Jonathan_Williams_(racing_driver) http://dbpedia.org/resource/Jonathan_Williams_(racer)
+0,109,J. Watson,http://dbpedia.org/resource/Jack_Watson_(cricketer),http://dbpedia.org/resource/John_Marshall_Watson http://dbpedia.org/resource/John_Watson_(driver) http://dbpedia.org/resource/John_Watson_(auto_racing) http://dbpedia.org/resource/John_Watson_(racing_driver)

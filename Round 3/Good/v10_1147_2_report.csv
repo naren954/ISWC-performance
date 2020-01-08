@@ -1,0 +1,16 @@
+F1: 0.75439,Precision: 0.75439,Recall: 0.75439,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,3,A Night to Remember,http://dbpedia.org/resource/A_Night_to_Remember_(Cyndi_Lauper_album),http://dbpedia.org/resource/Night_to_remember http://dbpedia.org/resource/A_Night_to_Remember_(Shalamar_song) http://dbpedia.org/resource/A_Night_To_Remember_(Liberty_X_single) http://dbpedia.org/resource/Make_This_a_Night_to_Remember http://dbpedia.org/resource/Night_to_Remember
+2,8,It's Real,http://dbpedia.org/resource/It's_Real_(James_Ingram_album),http://dbpedia.org/resource/It's_Real_(K-Ci_&_JoJo_album)
+2,10,Safari,http://dbpedia.org/resource/Safari_(Jovanotti_album),http://dbpedia.org/resource/Safari_(GNAGS_album) http://dbpedia.org/resource/Safari_(Gnags_album)
+2,11,Euphoria,http://dbpedia.org/resource/Euphoria_(Enrique_Iglesias_album),http://dbpedia.org/resource/Euphoria_(Def_Leppard_album) http://dbpedia.org/resource/Demolition_Man_(Def_Leppard_song) http://dbpedia.org/resource/21st_Century_Sha_la_la_la_Girl http://dbpedia.org/resource/Back_in_Your_Face http://dbpedia.org/resource/21st_Century_Sha_La_La_La_Girl http://dbpedia.org/resource/Euphoria_(1999_album) http://dbpedia.org/resource/21st_Century_Sha_La_la_La_Girl
+2,20,The Hybrid,http://dbpedia.org/resource/Hybrid_Theory,http://dbpedia.org/resource/The_Hybrid_(album) http://dbpedia.org/resource/The_Hybrid_(Danny_Brown_album)
+2,23,Born Free,http://dbpedia.org/resource/Born_Free_(Kid_Rock_album),http://dbpedia.org/resource/Born_Free_(M.I.A._song) http://dbpedia.org/resource/Born_Free_(short_film)
+2,25,Based on a True Story,http://dbpedia.org/resource/Based_on_a_True_Story_(Mack_10_album),http://dbpedia.org/resource/Based_on_a_True_Story_(Sick_of_It_All_album)
+2,34,The Telescope,http://dbpedia.org/resource/The_Telescopes_(album),http://dbpedia.org/resource/The_Telescope_(album)
+2,37,Detrola,http://dbpedia.org/resource/Detrola_(album),http://dbpedia.org/resource/Detrola
+2,45,Spellbound,http://dbpedia.org/resource/Spellbound_(Paula_Abdul_album),http://dbpedia.org/resource/Spellbound_(Ten_album)
+2,48,History,http://dbpedia.org/resource/HIStory_(Michael_Jackson_song),http://dbpedia.org/resource/History_(controller.controller_album)
+2,50,Bad News,http://dbpedia.org/resource/Bad_News_(Bad_News_album),http://dbpedia.org/resource/Bad_News_(Camouflage_song) http://dbpedia.org/resource/Spice_Crackers
+2,52,The Initiation,http://dbpedia.org/resource/Initiation_(Todd_Rundgren_album),http://dbpedia.org/resource/The_Initiation
+2,56,Let Me Fly,http://dbpedia.org/resource/Let_Me_Fly_(Styles_&_Breeze_song),http://dbpedia.org/resource/Let_Me_Fly

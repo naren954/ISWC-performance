@@ -1,0 +1,5 @@
+"F1: 0.85000","Precision: 0.85000","Recall: 0.85000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"2","1","Angel","http://it.dbpedia.org/resource/Angel_(77_Bombay_Street)","http://dbpedia.org/resource/Angel_(Jimi_Hendrix_song) http://dbpedia.org/resource/Angel_(Rod_Stewart_song)"
+"2","2","Mexico","http://dbpedia.org/resource/1968_Summer_Olympics","http://dbpedia.org/resource/Mexico_(Jefferson_Airplane_song)"
+"2","12","Slow Motion","http://dbpedia.org/resource/Slow_Motion_(Supertramp_album)","http://dbpedia.org/resource/Systems_Of_Romance http://dbpedia.org/resource/Systems_of_Romance http://dbpedia.org/resource/Slow_Motion_(Ultravox_song)"

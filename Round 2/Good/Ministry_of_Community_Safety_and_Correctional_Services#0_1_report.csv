@@ -1,0 +1,4 @@
+F1: 0.87500,Precision: 0.87500,Recall: 0.87500,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,4,Gordon Walker,http://dbpedia.org/resource/Patrick_Gordon_Walker,http://dbpedia.org/resource/Gordon_Walker_(businessman)
+1,15,Norman Sterling,http://dbpedia.org/resource/Manuel_Márquez_Sterling,http://dbpedia.org/resource/Norman_Sterling http://dbpedia.org/resource/Norm_Sterling

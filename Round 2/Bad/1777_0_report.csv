@@ -1,0 +1,16 @@
+F1: 0.26316,Precision: 0.26316,Recall: 0.26316,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,WVRN,http://dbpedia.org/resource/WVRN_(FM),http://dbpedia.org/resource/WVRN_(TV)
+0,3,WROV-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WROV-TV
+0,4,WRMX-LP,http://dbpedia.org/resource/Lp_space,http://dbpedia.org/resource/WRMX-LP
+0,5,WNAC-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WNAC-TV_(defunct)
+0,6,WNAC-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/Fox_Providence http://dbpedia.org/resource/WNET_(Providence) http://dbpedia.org/resource/WNAC-TV http://dbpedia.org/resource/WNAC-DT
+0,7,WKNA-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WKNA-TV
+0,8,WKLO-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WKLO-TV
+0,10,WBQD-LP,http://dbpedia.org/resource/Lp_space,http://dbpedia.org/resource/WBQD-LP http://dbpedia.org/resource/WBQD-LD
+0,11,WBMS-CA,http://dbpedia.org/resource/.ca,http://dbpedia.org/resource/WBMS-CA
+0,12,KXOC-LP,http://dbpedia.org/resource/Lp_space,http://dbpedia.org/resource/KXOC-TV http://dbpedia.org/resource/KXOC-LP http://dbpedia.org/resource/KXOC
+0,13,KTVG-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/KTVG http://dbpedia.org/resource/KTVG-TV
+0,15,KFIZ-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/KFIZ-TV
+0,18,CTV Two Alberta,"http://dbpedia.org/resource/Boian,_Alberta",http://dbpedia.org/resource/ACCESS_(TV_channel) http://dbpedia.org/resource/CJAL http://dbpedia.org/resource/CIAN-TV http://dbpedia.org/resource/Access_(TV_channel) http://dbpedia.org/resource/Access_TV http://dbpedia.org/resource//ACCESS http://dbpedia.org/resource/CJAL-TV http://dbpedia.org/resource/CIAN http://dbpedia.org/resource/Access_Alberta http://dbpedia.org/resource/Alberta_Educational_Communications_Corporation http://dbpedia.org/resource/CTV2_Alberta http://dbpedia.org/resource/CTV_Two_Alberta
+0,19,CHCA-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/Rdtv http://dbpedia.org/resource/CH_Red_Deer http://dbpedia.org/resource/CHCA-TV http://dbpedia.org/resource/CKRD-TV http://dbpedia.org/resource/Chca_news

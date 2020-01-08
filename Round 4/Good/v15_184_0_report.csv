@@ -1,0 +1,16 @@
+F1: 0.82500,Precision: 0.82500,Recall: 0.82500,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,4,Yang Yang,,http://dbpedia.org/resource/Yang_Yang_(song)
+0,12,YOLO,http://dbpedia.org/resource/The_Motto,http://dbpedia.org/resource/YOLO_(song)
+0,16,Yūgure,http://dbpedia.org/resource/Yugure_(song),http://dbpedia.org/resource/Yūgure
+0,20,Xanadu,http://dbpedia.org/resource/Xanadu_(Olivia_Newton-John_and_Electric_Light_Orchestra_song),http://dbpedia.org/resource/Xanadu_(Rush_song)
+0,24,X,http://dbpedia.org/resource/X_(Kylie_Minogue_album),http://dbpedia.org/resource/X_(Xzibit_song)
+0,25,X,http://dbpedia.org/resource/X_(Kylie_Minogue_album),http://dbpedia.org/resource/X_(Liberty_X_single) http://dbpedia.org/resource/X_(Liberty_X_song)
+0,29,XXL,http://dbpedia.org/resource/XXL_(Mylène_Farmer_song),http://dbpedia.org/resource/XXL_(Keith_Anderson_song)
+0,50,Write On Me,http://dbpedia.org/resource/Write_on_Me,http://dbpedia.org/resource/Write_On_Me
+0,55,Wrist,http://dbpedia.org/resource/Wrist_(Logic_song),http://dbpedia.org/resource/Wrist_(Chris_Brown_song)
+0,65,Wow,http://dbpedia.org/resource/Wow_(Kylie_Minogue_song),http://dbpedia.org/resource/WOW_(Inna_song) http://dbpedia.org/resource/Wow_(Inna_song)
+0,66,Wow,http://dbpedia.org/resource/Wow_(Kylie_Minogue_song),http://dbpedia.org/resource/Wow_(Beck_song)
+0,68,Wouldn't It Be Nice,,http://dbpedia.org/resource/Wouldn't_it_be_nice http://dbpedia.org/resource/Wouldn't_It_Be_Nice? http://dbpedia.org/resource/Wouldn't_it_Be_Nice http://dbpedia.org/resource/Wouldn't_It_Be_Nice
+0,75,Would You Believe,http://dbpedia.org/resource/When_You_Believe,http://dbpedia.org/resource/Would_You_Believe_(Ace_of_Base_song)
+0,77,Would?,http://dbpedia.org/resource/Dark_Globe,http://dbpedia.org/resource/Would?

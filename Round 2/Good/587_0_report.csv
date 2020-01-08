@@ -1,0 +1,43 @@
+F1: 0.78756,Precision: 0.78756,Recall: 0.78756,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,10,W. Rogers,http://dbpedia.org/resource/Will_Rogers,http://dbpedia.org/resource/Wayne_Rogers
+0,12,W. Stevens,http://dbpedia.org/resource/Wallace_Stevens,http://dbpedia.org/resource/Warren_Stevens http://dbpedia.org/resource/Warren_Albert_Stevens
+0,35,T. Young,http://dbpedia.org/resource/Tyrone_Young,http://dbpedia.org/resource/Tony_Young_(actor)
+0,36,T. Wilson,http://dbpedia.org/resource/Ronald_Reagan,http://dbpedia.org/resource/Anthony_H_Wilson http://dbpedia.org/resource/Anthony_H._Wilson http://dbpedia.org/resource/Mr_Manchester http://dbpedia.org/resource/Anthony_Howard_Wilson http://dbpedia.org/resource/Tony_Wilson
+0,45,T. Conway,http://dbpedia.org/resource/Tim_Conway,http://dbpedia.org/resource/Thomas_Charles_Sanders http://dbpedia.org/resource/Tom_Conway
+0,48,T. Andrews,http://dbpedia.org/resource/William_IV_of_the_United_Kingdom,http://dbpedia.org/resource/Michael_Ames_(actor) http://dbpedia.org/resource/Tod_Andrews
+0,50,T. Andrews,http://dbpedia.org/resource/William_IV_of_the_United_Kingdom,http://dbpedia.org/resource/Tiger_Andrews http://dbpedia.org/resource/Tige_Andrews
+0,54,T. Wilson,http://dbpedia.org/resource/Ronald_Reagan,http://dbpedia.org/resource/Theodore_Wilson http://dbpedia.org/resource/Teddy_Wilson_(actor)
+0,57,T. E,http://dbpedia.org/resource/T._S._Eliot,http://dbpedia.org/resource/Than_E http://dbpedia.org/resource/Ma_Than_E
+0,58,T. McCrary,http://dbpedia.org/resource/Giles_McCrary,http://dbpedia.org/resource/Tex_McCrary http://dbpedia.org/resource/John_McCrary http://dbpedia.org/resource/John_Reagan_McCrary
+0,64,S. Anderson,http://dbpedia.org/resource/Stig_Anderson,http://dbpedia.org/resource/Sylvia_and_Gerry_Anderson http://dbpedia.org/resource/Sylvia_Thamm http://dbpedia.org/resource/Sylvia_Anderson http://dbpedia.org/resource/Silvia_Anderson
+0,69,S. Martin,http://dbpedia.org/resource/Dean_Martin,http://dbpedia.org/resource/Strother_Martin
+0,72,S. Byrnes,http://dbpedia.org/resource/Johnny_Byrne_(writer),http://dbpedia.org/resource/Steve_Byrnes
+0,74,S. Holloway,http://dbpedia.org/resource/Stanley_Holloway,http://dbpedia.org/resource/Stirling_Holloway http://dbpedia.org/resource/Sterling_Holloway
+0,79,Shyam,http://dbpedia.org/resource/Shyam_(composer),http://dbpedia.org/resource/Shyam_(actor)
+0,83,S. Leonard,http://dbpedia.org/resource/Elmore_Leonard,http://dbpedia.org/resource/Sheldon_Bershad http://dbpedia.org/resource/Sheldon_Leonard_Bershad http://dbpedia.org/resource/Sheldon_Leonard
+0,84,S. Shaw,http://dbpedia.org/resource/Susan_Shaw,http://dbpedia.org/resource/Sebastian_lewis_shaw http://dbpedia.org/resource/Sebastian_Lewis_Shaw http://dbpedia.org/resource/Sebastian_Shaw_(actor)
+0,85,S. Flynn,http://dbpedia.org/resource/Errol_Flynn,http://dbpedia.org/resource/Sean_Flynn_(photojournalist) http://dbpedia.org/resource/Sean_Leslie_Flynn http://dbpedia.org/resource/Sean_Flynn_(born_1941) http://dbpedia.org/resource/Sean_Flynn_(film_actor)
+0,86,S. Beckett,http://dbpedia.org/resource/Samuel_Beckett,http://dbpedia.org/resource/Scotty_beckett http://dbpedia.org/resource/Scotty_Hastings_Beckett http://dbpedia.org/resource/Scott_Beckett http://dbpedia.org/resource/Scotty_Beckett
+0,87,S. Baron,"http://dbpedia.org/resource/William_Cecil,_1st_Baron_Burghley",http://dbpedia.org/resource/Sanford_Beresofsky http://dbpedia.org/resource/Sandy_Baron
+0,89,S. Isham,http://fr.dbpedia.org/resource/Steven_Isham,http://dbpedia.org/resource/Samuel_Isham
+0,91,S. Kelly,http://dbpedia.org/resource/Grace_Kelly,http://dbpedia.org/resource/Sam_Kelly
+0,99,R. Hamer,http://dbpedia.org/resource/Theodore_Roosevelt,http://dbpedia.org/resource/Rusty_Hamer
+0,102,R. Nelson,http://dbpedia.org/resource/Ricky_Nelson,http://dbpedia.org/resource/Rudolf_Nelson http://dbpedia.org/resource/Rudolph_Nelson http://dbpedia.org/resource/Rudolf_Lewysohn
+0,108,R. Martin,http://dbpedia.org/resource/Richard_Martin_(actor),http://dbpedia.org/resource/Ross_Martin http://dbpedia.org/resource/Martin_Rosenblatt
+0,109,R. Hunter,http://dbpedia.org/resource/Ruby_Hunter,http://dbpedia.org/resource/Martin_Terry_Fuss http://dbpedia.org/resource/Martin_Fuss http://dbpedia.org/resource/Ross_Hunter
+0,114,R. Smith,http://dbpedia.org/resource/Cordwainer_Smith,http://dbpedia.org/resource/Roger_B._Smith http://dbpedia.org/resource/Roger_Smith_(executive) http://dbpedia.org/resource/Roger_Bonham_Smith
+0,115,R. Taylor,http://dbpedia.org/resource/Elizabeth_Taylor,http://dbpedia.org/resource/Rod_Taylor_(actor) http://dbpedia.org/resource/Rodney_Sturt_Taylor http://dbpedia.org/resource/Rod_Taylor
+0,117,R. Taylor,http://dbpedia.org/resource/Elizabeth_Taylor,http://dbpedia.org/resource/Spangler_arlington_brugh http://dbpedia.org/resource/Robert_Taylor_(actor) http://dbpedia.org/resource/Spangler_brugh
+0,119,R. Shaw,http://dbpedia.org/resource/Robert_Shaw_(conductor),http://dbpedia.org/resource/Robert_Archibald_Shaw http://dbpedia.org/resource/Robert_Shaw_(actor) http://dbpedia.org/resource/Robert_Shaw_(British_actor) http://dbpedia.org/resource/Robert_Shaw_(English_actor)
+0,124,R. Horton,http://dbpedia.org/resource/Lester_Horton,"http://dbpedia.org/resource/Robert_Horton_(actor) http://dbpedia.org/resource/Meade_Howard_Horton,_Jr."
+0,138,R. Harrison,http://dbpedia.org/resource/Rich_Harrison,http://dbpedia.org/resource/Rex_harrison http://dbpedia.org/resource/Rex_Harrison http://dbpedia.org/resource/Sir_Rex_Harrison http://dbpedia.org/resource/Reginald_Carey_Harrison
+0,143,R. S. Jacques,http://dbpedia.org/resource/James_II_of_England,http://dbpedia.org/resource/Raymond_St_Jacques http://dbpedia.org/resource/Raymond_St._Jacques http://dbpedia.org/resource/James_Arthur_Johnson http://dbpedia.org/resource/Raymond_StJacques
+0,146,R. Barrett,http://dbpedia.org/resource/Richie_Barrett,http://dbpedia.org/resource/Ray_Barrett
+0,150,R. G. Armstrong,http://dbpedia.org/resource/Richard_Lee_Armstrong,http://dbpedia.org/resource/R._G._Armstrong http://dbpedia.org/resource/RG_Armstrong http://dbpedia.org/resource/R_G_Armstrong http://dbpedia.org/resource/R.G._Armstrong
+0,164,P. Brown,http://it.dbpedia.org/resource/Primo_Brown,http://dbpedia.org/resource/Peter_Brown_(actor)
+0,165,P. Breck,http://dbpedia.org/resource/Freddy_Breck,http://dbpedia.org/resource/Joseph_Peter_Breck http://dbpedia.org/resource/Peter_Breck
+0,174,P. L. Smith,"http://dbpedia.org/resource/Robert_Baden-Powell,_1st_Baron_Baden-Powell",http://dbpedia.org/resource/Paul_L._Smith http://dbpedia.org/resource/Paul_Smith_(American_dramatic_actor) http://dbpedia.org/resource/P._L._Smith http://dbpedia.org/resource/P.L._Smith http://dbpedia.org/resource/Bob_Spencer_(actor) http://dbpedia.org/resource/Paul_Lawrence_Smith
+0,179,P. O'Neal,http://dbpedia.org/resource/Patrice_O'Neal,http://dbpedia.org/resource/Patrick_o'neal http://dbpedia.org/resource/Patrick_O'Neal_(actor)
+0,185,P. Sanyal,http://dbpedia.org/resource/Meera_Sanyal,http://dbpedia.org/resource/Pahadi_Sanyal http://dbpedia.org/resource/Pahari_Sanyal
+0,188,Oliver,http://dbpedia.org/resource/Oliver_Cromwell,http://dbpedia.org/resource/Oliver_(William_Oliver_Swofford) http://dbpedia.org/resource/Oliver_Swofford http://dbpedia.org/resource/William_Oliver_Swofford http://dbpedia.org/resource/Oliver_(singer)

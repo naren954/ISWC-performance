@@ -1,0 +1,5 @@
+F1: 0.25000,Precision: 0.25000,Recall: 0.25000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,11,Western Eagles (6),http://dbpedia.org/resource/Texas_Eagle,http://dbpedia.org/resource/Western_Eagles_Football_Club http://dbpedia.org/resource/Western_Eagles http://dbpedia.org/resource/Western_Eagles_F.C. http://dbpedia.org/resource/Western_Eagles_FC
+1,20,Geelong (5),http://dbpedia.org/resource/Geelong_V/Line_rail_service,http://dbpedia.org/resource/Geelong_SC
+1,29,Mooroolbark (5),http://dbpedia.org/resource/Mooroolbark_railway_station,http://dbpedia.org/resource/Mooroolbark_Soccer_Club http://dbpedia.org/resource/Mooroolbark_United http://dbpedia.org/resource/Mooroolbark_SC http://dbpedia.org/resource/Mooroolbark_FC

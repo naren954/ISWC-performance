@@ -1,0 +1,7 @@
+"F1: 0.64286","Precision: 0.64286","Recall: 0.64286"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","1","V. E. Howard","http://dbpedia.org/resource/Thomas_Howard,_5th_Duke_of_Norfolk","http://dbpedia.org/resource/V._E._Howard"
+"1","4","S. E. Doyle","http://dbpedia.org/resource/Arthur_Conan_Doyle","http://dbpedia.org/resource/Sarah_Elizabeth_Doyle http://dbpedia.org/resource/Sarah_Doyle"
+"1","7","N. Rochester","http://dbpedia.org/resource/Nathaniel_Rochester_(computer_scientist)","http://dbpedia.org/resource/Nathaniel_Rochester"
+"1","8","J. C. Duane","http://dbpedia.org/resource/William_J._Duane","http://dbpedia.org/resource/James_Chatham_Duane"
+"1","12","J. H. Morrison","http://dbpedia.org/resource/James_H._Morrison","http://dbpedia.org/resource/Jacob_Haight_Morrison http://dbpedia.org/resource/Jacob_Morrison"

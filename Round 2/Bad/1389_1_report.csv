@@ -1,0 +1,25 @@
+F1: 0.37838,Precision: 0.37838,Recall: 0.37838,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,2,S. Lee,http://dbpedia.org/resource/Stan_Lee,http://dbpedia.org/resource/Stew_Lee http://dbpedia.org/resource/Stewart_Lee
+1,6,J. Jewell,http://dbpedia.org/resource/John_Jewell_(footballer),http://dbpedia.org/resource/James_Jewell http://dbpedia.org/resource/Jim_Jewell
+1,7,H. Keen,http://dbpedia.org/resource/Geoffrey_Keen,http://dbpedia.org/resource/Helen_Keen
+1,8,J. Cary,http://dbpedia.org/resource/Joyce_Cary,http://dbpedia.org/resource/James_Cary_(writer)
+1,9,A. Marshall,http://dbpedia.org/resource/Penny_Marshall,http://dbpedia.org/resource/Andrew_Marshall_(writer) http://dbpedia.org/resource/Andrew_Marshall_(screenwriter) http://dbpedia.org/resource/Andrew_Marshall_(author)
+1,11,G. a. Simpson,http://dbpedia.org/resource/The_Secret_War_of_Lisa_Simpson,http://dbpedia.org/resource/Galton_and_simpson http://dbpedia.org/resource/Galton_and_Simpson http://dbpedia.org/resource/Galton_&_Simpson
+1,13,J. Sommers,http://dbpedia.org/resource/Joanie_Sommers,http://dbpedia.org/resource/Jay_Sommers
+1,15,A. Shearer,http://dbpedia.org/resource/Norma_Shearer,http://dbpedia.org/resource/Alex_Shearer
+1,16,R. Adrian,http://dbpedia.org/resource/Edgar_Adrian,http://dbpedia.org/resource/Rhys_Adrian http://dbpedia.org/resource/Rhys_Adrian_Griffiths
+1,17,A. Gupta,http://dbpedia.org/resource/Sanjay_Gupta,http://dbpedia.org/resource/Anil_Gupta http://dbpedia.org/resource/Anil_gupta
+1,18,N. Fountain,http://dbpedia.org/resource/Pete_Fountain,http://dbpedia.org/resource/Nev_Fountain
+1,21,L. Bingham,http://dbpedia.org/resource/Max_Bingham,http://dbpedia.org/resource/Lorna_Bingham
+1,22,M. Marcin,http://dbpedia.org/resource/Martin_Luther,http://dbpedia.org/resource/Max_Marcin
+1,23,G. Duff,http://dbpedia.org/resource/James_Duff_(writer),http://dbpedia.org/resource/Graham_Duff
+1,24,J. Finnemore,http://dbpedia.org/resource/Joseph_Finnemore,http://dbpedia.org/resource/John_Finnemore_(writer) http://dbpedia.org/resource/John_David_Finnemore
+1,25,J. Bennett,http://dbpedia.org/resource/Joan_Bennett,http://dbpedia.org/resource/Jay_Bennett_(author) http://dbpedia.org/resource/Jay_Bennett_(Author)
+1,26,M. S. Fine,http://dbpedia.org/resource/John_S._Fine,http://dbpedia.org/resource/Morton_S._Fine http://dbpedia.org/resource/Morton_Fine
+1,27,B. Dare,http://dbpedia.org/resource/Barbara_Dare,http://dbpedia.org/resource/Bill_Dare
+1,28,M. Evans,http://dbpedia.org/resource/Madge_Evans,http://dbpedia.org/resource/Mark_Evans_(comedian/writer)
+1,31,R. H. Andrews,"http://dbpedia.org/resource/Prince_George,_Duke_of_Kent",http://dbpedia.org/resource/Robert_Andrews_(screenwriter) http://dbpedia.org/resource/Robert_Hardy_Andrews http://dbpedia.org/resource/Robert_D._Andrews_(screenwriter)
+1,32,M. Jones,http://dbpedia.org/resource/Chuck_Jones,http://dbpedia.org/resource/Milton_Jones
+1,35,C. E. Morse,http://dbpedia.org/resource/Jeremy_Morse,http://dbpedia.org/resource/Carlton_Morse http://dbpedia.org/resource/Carlton_E._Morse
+1,37,W. Morrow,http://dbpedia.org/resource/Dwight_Morrow,http://dbpedia.org/resource/William_Morrow_(screenwriter)

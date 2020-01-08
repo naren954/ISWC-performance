@@ -1,0 +1,11 @@
+F1: 0.57143,Precision: 0.57143,Recall: 0.57143,,
+Col,Row,Value,Submitted URI,Correct URI's
+4,2,Looking Up,http://dbpedia.org/resource/Looking_Up_(Autopilot_Off_album),http://dbpedia.org/resource/Spectacular_Girl http://dbpedia.org/resource/Tomorrow_Morning_(album) http://dbpedia.org/resource/Looking_Up_(Eels_song)
+4,5,Reaction,,http://dbpedia.org/resource/Reaction_(song)
+4,8,Colors,http://dbpedia.org/resource/Colors_(Utada_Hikaru_song),http://dbpedia.org/resource/Colors_(Ice-T_song)
+4,10,Heartbeat,http://dbpedia.org/resource/Heartbeat_(Wilkinson_song),http://dbpedia.org/resource/Heartbeat_(2PM_song)
+4,12,Blue Monday,"http://dbpedia.org/resource/Monday,_Monday",http://dbpedia.org/resource/FAC_73 http://dbpedia.org/resource/Blue_Monday-95 http://dbpedia.org/resource/Blue_Monday_(Flunk_single) http://dbpedia.org/resource/Blue_Monday/Stitches_CD_Single http://dbpedia.org/resource/Blue_Monday/Stitches http://dbpedia.org/resource/Blue_Monday_1988 http://dbpedia.org/resource/Blue_Monday_(Orgy_song) http://dbpedia.org/resource/Blue_Monday_(New_Order_song) http://dbpedia.org/resource/Blue_Monday_(Flunk_song) http://dbpedia.org/resource/Blue_Monday_(Flunk_album)
+4,14,Party,http://dbpedia.org/resource/The_Party_(The_Party_album),http://dbpedia.org/resource/Party_(The_Blue_Hearts) http://dbpedia.org/resource/Party_(The_Blue_Hearts_song)
+4,18,All I Need,http://dbpedia.org/resource/All_I_Need_(Matchbox_Twenty_song),http://dbpedia.org/resource/All_I_Need_(The_Temptations_song)
+4,20,Sue,http://dbpedia.org/resource/Runaround_Sue,http://dbpedia.org/resource/Sue_(Or_in_a_Season_of_Crime)
+4,21,Surf's Up,http://it.dbpedia.org/resource/Surf's_Up_(singolo_The_Beach_Boys),http://dbpedia.org/resource/Surf's_Up_(Beach_Boys_song) http://dbpedia.org/resource/Surf's_Up_(The_Beach_Boys_song) http://dbpedia.org/resource/Surf's_Up!_(single) http://dbpedia.org/resource/Surf's_Up_(song)

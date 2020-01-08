@@ -1,0 +1,9 @@
+F1: 0.90141,Precision: 0.90141,Recall: 0.90141,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,E. Lasker,http://dbpedia.org/resource/Edward_Lasker,http://dbpedia.org/resource/Emmanuel_Lasker http://dbpedia.org/resource/Lasker's_Chess_Magazine http://dbpedia.org/resource/Emanuel_Lasker http://dbpedia.org/resource/Lasker’s_Chess_Magazine http://dbpedia.org/resource/Emanuel_lasker
+0,6,E. Gilbert,http://dbpedia.org/resource/Eddie_Gilbert_(wrestler),http://dbpedia.org/resource/Ellen_Gilbert
+0,44,B. Kostić,http://dbpedia.org/resource/Bora_Kostić,http://dbpedia.org/resource/Borislav_Kostic http://dbpedia.org/resource/Boris_Kostić http://dbpedia.org/resource/Borislav_Kostić http://dbpedia.org/resource/Boris_Kostic
+0,45,B. Katalymov,,http://dbpedia.org/resource/Boris_Katalymov http://dbpedia.org/resource/Boris_Katalimov
+0,46,B. Fischer,http://dbpedia.org/resource/Bill_Fischer_(American_football),http://dbpedia.org/resource/Bobby_Fischer_(chess_career) http://dbpedia.org/resource/Bobbie_fischer http://dbpedia.org/resource/Regina_Wender http://dbpedia.org/resource/Bobby_Fischer_(biography) http://dbpedia.org/resource/Bobby_Fisher http://dbpedia.org/resource/Bob_Fischer http://dbpedia.org/resource/Fischer's_endgame http://dbpedia.org/resource/Robert_J._Fischer http://dbpedia.org/resource/Bobby_Fischre http://dbpedia.org/resource/Robert_James_Fischer http://dbpedia.org/resource/Fisher's_endgame http://dbpedia.org/resource/Bobby_Ficsher http://dbpedia.org/resource/Bobby_fischer http://dbpedia.org/resource/Bobby_Fischer http://dbpedia.org/resource/Robert_J_Fischer http://dbpedia.org/resource/Bobby_Fischer_(Chess_career)
+0,48,B. Lasker,http://dbpedia.org/resource/Edward_Lasker,http://dbpedia.org/resource/Berthold_Lasker
+0,50,A. Eller,http://dbpedia.org/resource/Allen_Eller,http://dbpedia.org/resource/August_Eller

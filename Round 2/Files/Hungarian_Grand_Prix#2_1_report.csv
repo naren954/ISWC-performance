@@ -1,0 +1,4 @@
+"F1: 0.93548","Precision: 0.93548","Recall: 0.93548"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","29","Nelson Piquet","http://dbpedia.org/resource/Nelson_Piquet_Jr.","http://dbpedia.org/resource/Nelson_Piquet,_Sr. http://dbpedia.org/resource/Nelson_Piquet_Sr._(racing_driver) http://dbpedia.org/resource/Nelson_Piquet_(racing_driver) http://dbpedia.org/resource/Nelson_Piquet"
+"1","30","Nelson Piquet","http://dbpedia.org/resource/Nelson_Piquet_Jr.","http://dbpedia.org/resource/Nelson_Piquet,_Sr. http://dbpedia.org/resource/Nelson_Piquet_Sr._(racing_driver) http://dbpedia.org/resource/Nelson_Piquet_(racing_driver) http://dbpedia.org/resource/Nelson_Piquet"

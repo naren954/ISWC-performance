@@ -1,0 +1,7 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,1,Best Female Playback Singer,http://dbpedia.org/resource/South_Indian_International_Movie_Awards,http://dbpedia.org/resource/National_Film_Award_for_Best_Female_Playback_Singer http://dbpedia.org/resource/National_film_award_for_best_female_playback_singer
+2,2,Best Film (First prize),http://dbpedia.org/resource/Film,http://dbpedia.org/resource/Tamil_Nadu_State_Film_Award_for_Best_Film
+2,3,Best Director,http://dbpedia.org/resource/Tony_Award_for_Best_Direction_of_a_Musical,http://dbpedia.org/resource/Tamil_Nadu_State_Film_Award_for_Best_Director
+2,4,Best Female Playback Singer,http://dbpedia.org/resource/South_Indian_International_Movie_Awards,http://dbpedia.org/resource/Tamil_Nadu_State_Film_Award_for_Best_Female_Playback
+2,5,Best Cinematographer,http://dbpedia.org/resource/Film,http://dbpedia.org/resource/Tamil_Nadu_State_Film_Award_for_Best_Cinematographer

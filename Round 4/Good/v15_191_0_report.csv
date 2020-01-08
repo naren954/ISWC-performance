@@ -1,0 +1,33 @@
+F1: 0.81212,Precision: 0.81212,Recall: 0.81212,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Where Did We Go Wrong,http://dbpedia.org/resource/Where_Did_We_Go_Wrong_(Dondria_song),http://dbpedia.org/resource/Where_Did_We_Go_Wrong_(BlackGirl_song)
+0,19,Whenever You Need Me,http://dbpedia.org/resource/Whenever_You_Need_Me_(T'Pau_song),http://dbpedia.org/resource/Whenever_You_Need_Me_(Infernal_song)
+0,28,When the Sun Goes Down,http://dbpedia.org/resource/When_the_Sun_Goes_Down_(Kenny_Chesney_song),http://dbpedia.org/resource/When_the_Sun_Goes_Down_(Arctic_Monkeys_song) http://dbpedia.org/resource/When_The_Sun_Goes_Down_(Scummy)
+0,34,When the Lights Go Down,http://dbpedia.org/resource/When_the_Lights_Go_Down_(Armand_Van_Helden_song),http://dbpedia.org/resource/When_the_Lights_Go_Down_(Faith_Hill_song)
+0,49,When You Were Young,http://dbpedia.org/resource/Where_Were_You_(When_the_World_Stopped_Turning),http://dbpedia.org/resource/When_You_Were_Young
+0,51,When You Sleep,"http://dbpedia.org/resource/I_Like_It_When_You_Sleep,_for_You_Are_So_Beautiful_yet_So_Unaware_of_It",http://dbpedia.org/resource/When_You_Sleep_(My_Bloody_Valentine_song)
+0,56,When You Kiss Me,http://dbpedia.org/resource/Changed_the_Way_You_Kiss_Me,http://dbpedia.org/resource/When_You_Kiss_Me
+0,59,When You Come Back to Me,http://dbpedia.org/resource/When_You_Come_Back_to_Me_Again,http://dbpedia.org/resource/When_You_Come_Back_to_Me_(Jason_Donovan_song)
+0,65,When You're Gone,http://dbpedia.org/resource/When_You're_Gone_(Avril_Lavigne_song),http://dbpedia.org/resource/When_You're_Gone_(Cranberries_song) http://dbpedia.org/resource/When_You're_Gone_(The_Cranberries_song)
+0,69,When We Were Young,http://dbpedia.org/resource/When_We_Were_Young_(Take_That_song),http://dbpedia.org/resource/When_We_Were_Young_(Bucks_Fizz_song) http://dbpedia.org/resource/When_We_Were_Young_(Bucks_Fizz_single)
+0,70,When We Were Young,http://dbpedia.org/resource/When_We_Were_Young_(Take_That_song),http://dbpedia.org/resource/When_We_Were_Young_(Adele_song)
+0,82,When Somebody Loves You,http://dbpedia.org/resource/When_Somebody_Loves_You_(Restless_Heart_song),http://dbpedia.org/resource/When_Somebody_Loves_You_(Alan_Jackson_song)
+0,88,When Love Takes Over You,http://dbpedia.org/resource/When_Love_Takes_Over,http://dbpedia.org/resource/When_Love_Takes_Over_You
+0,99,When I Was Young,,http://dbpedia.org/resource/When_I_Was_Young http://dbpedia.org/resource/A_Girl_Named_Sandoz
+0,111,When I Grow Up,http://dbpedia.org/resource/When_I_Grow_Up_(To_Be_a_Man),http://dbpedia.org/resource/When_I_Grow_Up_(Garbage_song)
+0,120,When I Close My Eyes,http://dbpedia.org/resource/When_I_Close_My_Eyes_(Keith_Palmer_song),http://dbpedia.org/resource/When_I_Close_My_Eyes_(Shanice_song)
+0,123,When I'm Gone,http://dbpedia.org/resource/When_I'm_Gone_(Eminem_song),http://dbpedia.org/resource/When_I'm_Gone_(Simple_Plan_song) http://dbpedia.org/resource/When_I'm_Gone_(Simple_Plan_song))
+0,124,When I'm Gone,http://dbpedia.org/resource/When_I'm_Gone_(Eminem_song),http://dbpedia.org/resource/When_I'm_Gone_(Motown_song) http://dbpedia.org/resource/When_I'm_Gone_(Brenda_Holloway_song)
+0,127,When He's Gone,http://dbpedia.org/resource/When_I'm_Gone_(Eminem_song),http://dbpedia.org/resource/When_He's_Gone
+0,134,When Boy Meets Boy,http://dbpedia.org/resource/When_Boy_Meets_Girl,http://dbpedia.org/resource/When_Boy_Meets_Boy
+0,137,When,http://dbpedia.org/resource/When_Doves_Cry,http://dbpedia.org/resource/When_(1958_song) http://dbpedia.org/resource/When_(The_Kalin_Twins_song)
+0,138,When,http://dbpedia.org/resource/When_Doves_Cry,http://dbpedia.org/resource/When_(Shania_Twain_song)
+0,140,Wheels,http://dbpedia.org/resource/Wheels_(Foo_Fighters_song),http://dbpedia.org/resource/Wheels_(Restless_Heart_song)
+0,142,Whatever You Want,http://dbpedia.org/resource/Whatever_You_Want_(Tina_Turner_song),http://dbpedia.org/resource/Whatever_You_Want_(Tony!_Toni!_Toné!_song) http://dbpedia.org/resource/Whatever_You_Want_(Tony!_Toni!_Tone!_song)
+0,145,Whatever You Like,http://dbpedia.org/resource/Whatever_You_Like,"http://dbpedia.org/resource/Whatever_You_Like_(""Weird_Al""_Yankovic) http://dbpedia.org/resource/Whatever_You_Like_(""Weird_Al""_Yankovic_song)"
+0,147,Whatever We Want,http://dbpedia.org/resource/Whatever_You_Want_(Tina_Turner_song),http://dbpedia.org/resource/Whatever_We_Want_(Havana_Brown_song) http://dbpedia.org/resource/Whatever_We_Want
+0,153,Whatever,http://dbpedia.org/resource/Whatever_(Cro_song),http://dbpedia.org/resource/Whatever_(Oasis) http://dbpedia.org/resource/(It's_Good)_To_Be_Free http://dbpedia.org/resource/Whatever_(Oasis_song)
+0,154,Whatever,http://dbpedia.org/resource/Whatever_(Cro_song),http://dbpedia.org/resource/Whatever_(En_Vogue_song)
+0,156,Whatever,http://dbpedia.org/resource/Whatever_(Cro_song),http://dbpedia.org/resource/Whatever_(Ayumi_Hamasaki_song)
+0,163,What a Girl Wants,http://dbpedia.org/resource/What_a_Girl_Wants_(Christina_Aguilera_song),http://dbpedia.org/resource/What_a_Girl_Wants_(B2K_song)
+0,164,What a Feeling,http://dbpedia.org/resource/Flashdance..._What_a_Feeling,http://dbpedia.org/resource/What_a_Feeling_(Alex_Gaudino_song) http://dbpedia.org/resource/What_a_Feeling_(song)

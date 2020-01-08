@@ -1,0 +1,14 @@
+F1: 0.90769,Precision: 0.90769,Recall: 0.90769,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,4,Other People,http://dbpedia.org/resource/People_(magazine),http://dbpedia.org/resource/Other_People http://dbpedia.org/resource/Other_people
+0,27,Nothing Lasts Forever,http://dbpedia.org/resource/Nothing_Lasts_Forever_(Sheldon_novel),http://dbpedia.org/resource/Nothing_Lasts_Forever_(Thorp_novel) http://dbpedia.org/resource/Nothing_Lasts_Forever_(1979_novel) http://dbpedia.org/resource/Nothing_Lasts_Forever_(1977_novel)
+0,38,Nicolae,http://dbpedia.org/resource/Saint_Nicholas,http://dbpedia.org/resource/Nicolae_(novel)
+0,40,New Moon,http://dbpedia.org/resource/New_Moon_(Swallow_the_Sun_album),http://dbpedia.org/resource/Twilight_2:_The_Next_Chapter http://dbpedia.org/resource/New_moon_(novel) http://dbpedia.org/resource/New_moon_twilight_series http://dbpedia.org/resource/New_Moon_(novel) http://dbpedia.org/resource/Stephenie_Meyer's_New_Moon http://dbpedia.org/resource/Twilight:_The_Next_Chapter http://dbpedia.org/resource/Twilight_2 http://dbpedia.org/resource/New_Moon_(book) http://dbpedia.org/resource/New_moon_(the_book) http://dbpedia.org/resource/New_Moon(novel)_by_Stephanie_Meyers http://dbpedia.org/resource/New_Moon_(Twilight_series) http://dbpedia.org/resource/New_Moon_(Twilight_Saga) http://dbpedia.org/resource/La_tua_cantante http://dbpedia.org/resource/Twilight_and_new_moon http://dbpedia.org/resource/New_Moon_(Twilight)
+0,44,Nemesis,http://dbpedia.org/resource/Nemesis_(Angel_novel),http://dbpedia.org/resource/Nemesis_(Christie_novel) http://dbpedia.org/resource/Nemesis_(Agatha_Christie_novel) http://dbpedia.org/resource/Nemesis_(Christie) http://dbpedia.org/resource/Verity_Hunt
+0,56,Mystery,http://dbpedia.org/resource/The_Regatta_Mystery,http://dbpedia.org/resource/Mystery_(novel)
+0,57,Myron,http://dbpedia.org/resource/4752_Myron,http://dbpedia.org/resource/Myron_(novel)
+0,60,My Life,http://dbpedia.org/resource/My_Life_(50_Cent_song),http://dbpedia.org/resource/My_Life_(memoir) http://dbpedia.org/resource/My_Life_(Bill_Clinton_autobiography)
+0,85,Morgawr,http://dbpedia.org/resource/Morgawr_(novel),http://dbpedia.org/resource/Morgawr
+0,110,Messenger,http://dbpedia.org/resource/Messenger_(Joe_Pug_album),http://dbpedia.org/resource/Messenger_(novel)
+0,112,Mercury,http://dbpedia.org/resource/The_Mercury_(South_Africa),http://dbpedia.org/resource/Mercury_(2005_novel) http://dbpedia.org/resource/Mercury_(Ben_Bova_novel) http://dbpedia.org/resource/Mercury_(novel_by_Ben_Bova) http://dbpedia.org/resource/Mercury_(novel) http://dbpedia.org/resource/Mercury_(science_fiction_novel) http://dbpedia.org/resource/Mercury_(2005_science_fiction_novel) http://dbpedia.org/resource/Mercury_(Ben_Bova)
+0,122,Manifold: Origin,http://dbpedia.org/resource/Origin_(Baxter_novel),http://dbpedia.org/resource/Manifold:_Origin

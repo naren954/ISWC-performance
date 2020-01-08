@@ -1,0 +1,25 @@
+F1: 0.70130,Precision: 0.70130,Recall: 0.70130,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,The Herbs,http://dbpedia.org/resource/Herbs_(band),http://dbpedia.org/resource/The_Herbs
+0,3,The Heights,http://dbpedia.org/resource/Wuthering_Heights,http://dbpedia.org/resource/The_Heights_(TV_series)
+0,7,The Handler,http://dbpedia.org/resource/The_Basic_Eight,http://dbpedia.org/resource/The_Handler_(TV_series)
+0,10,The Guardians,http://dbpedia.org/resource/The_Guardians_(British_TV_series),http://dbpedia.org/resource/The_Guardians_(TV_series)
+0,11,The Growing Pains of Adrian Mole,http://dbpedia.org/resource/The_Secret_Diary_of_Adrian_Mole_(TV_series),http://dbpedia.org/resource/The_Growing_Pains_of_Adrian_Mole_(TV_series)
+0,16,The Great Train Robbery,http://dbpedia.org/resource/The_Great_Train_Robbery_(2013_TV_series),http://dbpedia.org/resource/A_Copper's_Tale http://dbpedia.org/resource/The_Great_Train_Robbery_(2013_TV_film) http://dbpedia.org/resource/The_Great_Train_Robbery_(TV_film) http://dbpedia.org/resource/A_Robber's_Tale http://dbpedia.org/resource/The_Great_Train_Robbery_(2013_film) http://dbpedia.org/resource/The_Great_Train_Robbery_(TV_series)
+0,18,The Good Life,http://dbpedia.org/resource/The_Good_Life_(1975_TV_series),http://dbpedia.org/resource/The_Good_Life_(1994_US) http://dbpedia.org/resource/The_Good_Life_(US) http://dbpedia.org/resource/The_Good_Life_(1994) http://dbpedia.org/resource/The_Good_Life_(1994_TV_series)
+0,19,"The Good, the Bad and the Ugly","http://dbpedia.org/resource/The_Good,_the_Bad_and_the_Ugly","http://dbpedia.org/resource/The_Good,_the_Bad_and_the_Ugly_(1979_TV_series) http://dbpedia.org/resource/The_Good,_the_Bad,_and_the_Ugly_(1979_TV_series)"
+0,24,The Game,http://dbpedia.org/resource/Game_of_Thrones,http://dbpedia.org/resource/The_Game_(2014_TV_series) http://dbpedia.org/resource/The_Game_(UK_TV_series)
+0,27,The Forsyte Saga,http://dbpedia.org/resource/The_Forsyte_Saga_(1967_TV_series),http://dbpedia.org/resource/The_Forsyte_Saga_(TV_miniseries) http://dbpedia.org/resource/The_Forsyte_Saga_(2002_miniseries) http://dbpedia.org/resource/The_Forsyte_Saga_(2002)
+0,28,The Forsyte Saga,http://dbpedia.org/resource/The_Forsyte_Saga_(1967_TV_series),http://dbpedia.org/resource/The_Forsyte_Saga_(1967_series) http://dbpedia.org/resource/The_Forsyte_Saga_(TV_series)
+0,38,The Edge,http://dbpedia.org/resource/Edge_(magazine),http://dbpedia.org/resource/The_Edge_(FOX_TV_series) http://dbpedia.org/resource/The_Edge_(1992-1993_TV_series) http://dbpedia.org/resource/The_Edge_(TV_series) http://dbpedia.org/resource/The_Edge_(Fox_TV_series)
+0,41,The Dots,http://dbpedia.org/resource/Dot_(song),http://dbpedia.org/resource/The_Dots_(2003_Iranian_Series) http://dbpedia.org/resource/Noghtechin http://dbpedia.org/resource/The_Dots_(TV_series)
+0,46,The Diary of Anne Frank,http://dbpedia.org/resource/The_Diary_of_Anne_Frank_(1980_film),http://dbpedia.org/resource/The_Diary_of_Anne_Frank_(2009_miniseries)
+0,48,The Detectives,http://dbpedia.org/resource/True_Detective,http://dbpedia.org/resource/The_Detectives_(1959_TV_series) http://dbpedia.org/resource/The_Detectives_Starring_Robert_Taylor
+0,52,The D.A.,http://dbpedia.org/resource/Jan_Brueghel_the_Elder,http://dbpedia.org/resource/The_D_A_(1971_TV_series) http://dbpedia.org/resource/The_D.A._(1971) http://dbpedia.org/resource/The_D.A._(1971_TV_series) http://dbpedia.org/resource/The_D._A._(1971_TV_series) http://dbpedia.org/resource/The_D.A.(1971_TV_series) http://dbpedia.org/resource/The_DA_(1971_TV_series)
+0,53,The Cup,http://dbpedia.org/resource/2006_FIFA_World_Cup,http://dbpedia.org/resource/The_Cup_(TV_series)
+0,54,The Cube,http://dbpedia.org/resource/The_Cube_(game_show),http://dbpedia.org/resource/The_Cube_(1969_film) http://dbpedia.org/resource/The_Cube_(film)
+0,58,The Crew,http://dbpedia.org/resource/The_Crew_(video_game),http://dbpedia.org/resource/The_Crew_(television) http://dbpedia.org/resource/The_Crew_(TV_series)
+0,61,The Client,http://dbpedia.org/resource/The_Client_List_(TV_series),http://dbpedia.org/resource/The_Client_(TV_series)
+0,68,The Casual Vacancy,http://dbpedia.org/resource/The_Casual_Vacancy_(miniseries),http://dbpedia.org/resource/The_Casual_Vacancy_(series) http://dbpedia.org/resource/The_Casual_Vacancy_(Television_series) http://dbpedia.org/resource/The_Casual_Vacancy_(TV_series)
+0,71,The Café,http://dbpedia.org/resource/Café_(magazine),http://dbpedia.org/resource/The_Café_(TV_series) http://dbpedia.org/resource/The_Cafe_(TV_series)
+0,72,The Building,http://dbpedia.org/resource/Building_a_Building,http://dbpedia.org/resource/The_Building_(TV_series)

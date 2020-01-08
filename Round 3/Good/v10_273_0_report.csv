@@ -1,0 +1,21 @@
+F1: 0.88344,Precision: 0.88344,Recall: 0.88344,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,16,T. Thompson,http://dbpedia.org/resource/Tommy_Thompson_(quarterback),http://dbpedia.org/resource/Tommy_Thompson_(linebacker) http://dbpedia.org/resource/Tommy_Thompson_(Browns)
+0,22,T. Williams,http://dbpedia.org/resource/Thomas_Williams_(American_football),http://dbpedia.org/resource/Todd_Williams_(football_player) http://dbpedia.org/resource/Todd_Williams_(American_football)
+0,29,S. Lee,http://dbpedia.org/resource/Stuart_Lee,http://dbpedia.org/resource/Shawn_Lee_(American_football) http://dbpedia.org/resource/Shawn_Swaboda_Lee http://dbpedia.org/resource/Shawn_Lee_(football_player)
+0,76,J. Robinson,http://dbpedia.org/resource/Jermaine_Robinson,"http://dbpedia.org/resource/Junior_Robinson_(American_football) http://dbpedia.org/resource/Junior_Robinson_(gridiron_football) http://dbpedia.org/resource/David_""Junior""_Lee_Robinson_III"
+0,77,J. James,http://dbpedia.org/resource/John_James_(American_football),http://dbpedia.org/resource/June_James
+0,83,J. Powers,http://dbpedia.org/resource/Jerraud_Powers,http://dbpedia.org/resource/John_Paul_Theiss_Powers http://dbpedia.org/resource/John_Powers_(tight_end)
+0,84,J. Mackey,http://dbpedia.org/resource/Jerry_Mackey,http://dbpedia.org/resource/Mackey_v._NFL http://dbpedia.org/resource/John_Mackey_(American_football) http://dbpedia.org/resource/John_Mackey_(football_player) http://dbpedia.org/resource/John_Mackey_(NFL) http://dbpedia.org/resource/John_Mackey_(athlete)
+0,87,J. Douglas,http://dbpedia.org/resource/John_Douglas_(linebacker),http://dbpedia.org/resource/John_Douglas_(defensive_back)
+0,90,J. Watson,http://dbpedia.org/resource/Jamie_Watson_(basketball),http://dbpedia.org/resource/Joe_Watson_(American_football)
+0,92,J. Nelson,http://dbpedia.org/resource/Jordy_Nelson,http://dbpedia.org/resource/Jimmy_Nelson_(American_football)
+0,97,J. F. Jr.,http://dbpedia.org/resource/John_Fritsche_Jr.,"http://dbpedia.org/resource/Jesse_Freitas_(1970s_football) http://dbpedia.org/resource/Jesse_Freitas_III http://dbpedia.org/resource/Jesse_Freitas_Jr. http://dbpedia.org/resource/Jesse_Freitas,_Jr. http://dbpedia.org/resource/Jesse_Freitas_(American_football,_born_1951)"
+0,98,J. Smith,http://dbpedia.org/resource/Jared_Smith_(American_football),http://dbpedia.org/resource/Jerry_Smith_(American_football) http://dbpedia.org/resource/Jerry_Smith_(football_player) http://dbpedia.org/resource/Jerry_Smith_(footbal_player) http://dbpedia.org/resource/Jerry_Smith_(NFL_player)
+0,99,J. Barrett,http://dbpedia.org/resource/John_Barrett_(American_football),http://dbpedia.org/resource/Jan_Barrett
+0,100,J. Lee,http://dbpedia.org/resource/Joanna_Lee_(writer),http://dbpedia.org/resource/James_Lee_(defensive_tackle) http://dbpedia.org/resource/James_Lee_(football_player) http://dbpedia.org/resource/James_Lee_(American_football)
+0,127,E. Smith,http://dbpedia.org/resource/Ernie_Smith_(tackle),http://dbpedia.org/resource/Ed_Smith_(American_football_halfback)
+0,128,E. Brown,http://dbpedia.org/resource/Eddie_Brown_(wide_receiver),http://dbpedia.org/resource/Charles_Edward_Brown http://dbpedia.org/resource/Ed_Brown_(quarterback)
+0,136,D. Meredith,http://dbpedia.org/resource/Dudley_Meredith,"http://dbpedia.org/resource/Dandy_Don_Meredith http://dbpedia.org/resource/Don_Meredith http://dbpedia.org/resource/Turn_out_the_lights,_the_party's_over"
+0,148,D. Brown,http://dbpedia.org/resource/Dave_Brown_(quarterback),http://dbpedia.org/resource/Dave_Brown_(cornerback)
+0,158,C. Hughes,http://dbpedia.org/resource/Connor_Hughes_(American_football),http://dbpedia.org/resource/Chuck_Hughes

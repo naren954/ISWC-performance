@@ -1,0 +1,5 @@
+"F1: 0.25000","Precision: 0.25000","Recall: 0.25000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","5","Mujeres Asesinas","http://dbpedia.org/resource/Mujeres_asesinas_(Argentine_TV_series)","http://dbpedia.org/resource/Candida_Esperanzada http://dbpedia.org/resource/Mujeres_Asesinas_(Mexico) http://dbpedia.org/resource/Mujeres_asesinas_(Mexican_TV_series)"
+"1","6","Mujeres Asesinas 2","http://dbpedia.org/resource/Mujeres_asesinas_(Argentine_TV_series)","http://dbpedia.org/resource/Candida_Esperanzada http://dbpedia.org/resource/Mujeres_Asesinas_(Mexico) http://dbpedia.org/resource/Mujeres_asesinas_(Mexican_TV_series)"
+"1","7","Mujeres Asesinas 3","http://dbpedia.org/resource/Mujeres_asesinas_(Argentine_TV_series)","http://dbpedia.org/resource/Candida_Esperanzada http://dbpedia.org/resource/Mujeres_Asesinas_(Mexico) http://dbpedia.org/resource/Mujeres_asesinas_(Mexican_TV_series)"

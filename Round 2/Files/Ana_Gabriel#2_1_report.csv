@@ -1,0 +1,5 @@
+"F1: 0.62500","Precision: 0.62500","Recall: 0.62500"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","9","En Vivo","http://dbpedia.org/resource/En_Vivo!_(Iron_Maiden_album)","http://dbpedia.org/resource/En_Vivo_(Ana_Gabriel_album)"
+"1","17","Luna","http://de.dbpedia.org/resource/La_Luna_(Album)","http://dbpedia.org/resource/Luna_(Ana_Gabriel_album) http://dbpedia.org/resource/Luna_(Ana_Gabriel_song)"
+"1","21","Ayer y Hoy","http://dbpedia.org/resource/Ayer_y_Hoy_(Menudo_album)","http://dbpedia.org/resource/Ayer_y_Hoy_(Ana_Gabriel_album)"

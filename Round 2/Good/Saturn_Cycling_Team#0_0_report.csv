@@ -1,0 +1,4 @@
+F1: 0.93939,Precision: 0.93939,Recall: 0.93939,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,9,Antonio Cruz,http://dbpedia.org/resource/Antonio_Cruz_(cyclist),http://dbpedia.org/resource/Antonio_Cruz
+0,33,Frank McCormack,http://dbpedia.org/resource/Frank_McCormack_(footballer),http://dbpedia.org/resource/Frank_McCormack_(cyclist)

@@ -1,0 +1,7 @@
+"F1: 0.61538","Precision: 0.61538","Recall: 0.61538"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","7","1913 French Grand Prix","http://dbpedia.org/resource/1947_French_Grand_Prix","http://dbpedia.org/resource/1913_French_Grand_Prix"
+"0","8","1912 French Grand Prix","http://dbpedia.org/resource/1949_French_Grand_Prix","http://dbpedia.org/resource/1912_French_Grand_Prix"
+"0","9","1910 American Grand Prize","http://dbpedia.org/resource/1908_American_Grand_Prize","http://dbpedia.org/resource/1910_American_Grand_Prize"
+"0","10","1908 French Grand Prix","http://dbpedia.org/resource/1947_French_Grand_Prix","http://dbpedia.org/resource/1908_French_Grand_Prix"
+"0","13","1906 French Grand Prix","http://dbpedia.org/resource/1949_French_Grand_Prix","http://dbpedia.org/resource/1906_French_Grand_Prix http://dbpedia.org/resource/1906_Grand_Prix_de_l'Automobile_Club_de_France"

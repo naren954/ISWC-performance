@@ -1,0 +1,3 @@
+F1: 0.91667,Precision: 0.91667,Recall: 0.91667,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,3,Inferior mesenteric ganglia,http://dbpedia.org/resource/Inferior_mesenteric_artery,http://dbpedia.org/resource/Inferior_mesenteric_ganglion http://dbpedia.org/resource/Inferior_mesenteric_ganglia

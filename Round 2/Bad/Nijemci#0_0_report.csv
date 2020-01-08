@@ -1,0 +1,7 @@
+F1: 0.28571,Precision: 0.28571,Recall: 0.28571,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,Lipovac,http://dbpedia.org/resource/Christer_Lipovac,"http://dbpedia.org/resource/Lipovac,_Vukovar-Syrmia_County http://dbpedia.org/resource/Lipovac,_Vukovar-Srijem_County http://dbpedia.org/resource/Lipovac_(Croatia) http://dbpedia.org/resource/Lipovac,_Croatia"
+0,3,Ä\u0090eletovci,,http://dbpedia.org/resource/Đeletovci
+0,6,PodgraÄ\u0091e,,"http://dbpedia.org/resource/Podgrađe,_Vukovar-Srijem_County"
+0,7,ApÅ¡evci,,http://dbpedia.org/resource/Apševci
+0,8,VinkovaÄ\u008Dki Banovci,http://dbpedia.org/resource/Semanan,http://dbpedia.org/resource/Vinkovački_Banovci

@@ -1,0 +1,8 @@
+"F1: 0.00000","Precision: 0.00000","Recall: 0.00000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","1","China","http://dbpedia.org/resource/China","http://dbpedia.org/resource/China_PR_national_futsal_team http://dbpedia.org/resource/China_national_futsal_team"
+"0","2","Kuwait","http://dbpedia.org/resource/Kuwait","http://dbpedia.org/resource/Kuwait_national_futsal_team"
+"0","3","Palestine","http://dbpedia.org/resource/Israel","http://dbpedia.org/resource/Palestine_national_futsal_team"
+"0","4","Iraq","http://dbpedia.org/resource/Iraq","http://dbpedia.org/resource/Iraq_national_futsal_team"
+"0","5","Indonesia","http://dbpedia.org/resource/Indonesia","http://dbpedia.org/resource/Indonesia_national_futsal_team"
+"0","6","Chinese Taipei","http://dbpedia.org/resource/Taiwan","http://dbpedia.org/resource/Chinese_taipei_national_futsal_team http://dbpedia.org/resource/Chinese_Taipei_national_futsal_team http://dbpedia.org/resource/Taiwan_national_futsal_team"

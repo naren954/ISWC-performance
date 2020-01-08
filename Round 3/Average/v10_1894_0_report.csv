@@ -1,0 +1,7 @@
+F1: 0.54545,Precision: 0.54545,Recall: 0.54545,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,E. C. Clayton,http://dbpedia.org/resource/John_M._Clayton,http://dbpedia.org/resource/Eleanor_Clayton http://dbpedia.org/resource/Ellen_Creathorne_Clayton http://dbpedia.org/resource/Creathorne http://dbpedia.org/resource/Ellen_Needham
+0,2,E. Williams,http://dbpedia.org/resource/Tennessee_Williams,http://dbpedia.org/resource/Eliseus_Williams http://dbpedia.org/resource/Eifion_Wyn http://dbpedia.org/resource/Eliseus_Williams_(Eifion_Wyn)
+0,7,D. K. Wright,http://dbpedia.org/resource/John_Kirtland_Wright,http://dbpedia.org/resource/Diana_Kingsmill_Wright http://dbpedia.org/resource/Diana_Gordon-Lennox
+0,9,B. O'Reilly,http://dbpedia.org/resource/Bill_O'Reilly_(cricketer),http://dbpedia.org/resource/Bernard_O'Reilly_(author)
+0,11,A. Chalmers,http://dbpedia.org/resource/Thomas_Chalmers,"http://dbpedia.org/resource/Chalmers,_Alexander http://dbpedia.org/resource/Alexander_Chalmers http://dbpedia.org/resource/Ferdinando_Fidget"

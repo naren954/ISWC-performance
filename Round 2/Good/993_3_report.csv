@@ -1,0 +1,5 @@
+F1: 0.87500,Precision: 0.87500,Recall: 0.87500,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,1,Comic Birz,http://dbpedia.org/resource/Comic_Beam,http://dbpedia.org/resource/Monthly_Comic_Birz http://dbpedia.org/resource/Comic_Birz
+3,10,Dragon Age Pure,http://dbpedia.org/resource/Monthly_Dragon_Age,http://dbpedia.org/resource/ドラゴンエイジピュア http://dbpedia.org/resource/Bee-be-beat_it! http://dbpedia.org/resource/Dragon_Age_Pure
+3,14,Shōnen Ace,http://dbpedia.org/resource/Monthly_Shōnen_Ace,http://dbpedia.org/resource/Shōnen_Ace

@@ -1,0 +1,35 @@
+F1: 0.83500,Precision: 0.83500,Recall: 0.83500,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,What If I'm Right,http://dbpedia.org/resource/I_Still_Haven't_Found_What_I'm_Looking_For,http://dbpedia.org/resource/What_If_I'm_Right
+0,3,What If,http://dbpedia.org/resource/What_If_(Jason_Derulo_song),http://dbpedia.org/resource/What_If?_(2001_song) http://dbpedia.org/resource/What_If_(Kate_Winslet_song) http://dbpedia.org/resource/What_If_(2001_song)
+0,4,What If,http://dbpedia.org/resource/What_If_(Jason_Derulo_song),http://dbpedia.org/resource/What_If_(Babyface_song)
+0,11,What I'd Say,http://dbpedia.org/resource/What'd_I_Say,http://dbpedia.org/resource/What_I'd_Say
+0,20,What Do You Want?,http://dbpedia.org/resource/What_You_Want_(Evanescence_song),http://dbpedia.org/resource/What_Do_You_Want?_(Adam_Faith_song)
+0,28,What Can I Do,http://dbpedia.org/resource/What_Can_I_Do_(The_Corrs_song),http://dbpedia.org/resource/What_Can_I_Do_(The_Black_Belles_song)
+0,30,What Are You Waiting For?,http://dbpedia.org/resource/What_You_Waiting_For?,http://dbpedia.org/resource/What_Are_You_Waiting_For?_(The_Saturdays_song)
+0,33,What About Us,http://dbpedia.org/resource/What_About_Us_(Jodeci_song),http://dbpedia.org/resource/What_About_Us?_(The_Saturdays_song) http://dbpedia.org/resource/What_About_Us_(The_Saturdays_song)
+0,35,What About Me?,http://dbpedia.org/resource/What_About_Me_(Anne_Murray_song),http://dbpedia.org/resource/What_About_Me?_(Kenny_Rogers_song)
+0,39,What's a Woman?,http://dbpedia.org/resource/She's_a_Woman_(And_Now_He_Is_a_Man),http://dbpedia.org/resource/What's_a_Woman?
+0,43,What's Your Flava?,http://dbpedia.org/resource/What's_Your_Name_(Lynyrd_Skynyrd_song),http://dbpedia.org/resource/What's_Your_Flava?
+0,44,What's Wrong With That Girl,http://dbpedia.org/resource/What's_Wrong_with_That_Girl,http://dbpedia.org/resource/What's_Wrong_With_That_Girl
+0,45,What's Up?,http://dbpedia.org/resource/What_Up,http://dbpedia.org/resource/What's_Up?_(song)
+0,57,What's Going On,http://dbpedia.org/resource/What's_Going_On_(Marvin_Gaye_song),http://dbpedia.org/resource/What's_Going_On_(Taste_song)
+0,75,Welcome Back,http://dbpedia.org/resource/Welcome_Back_(Mase_song),http://dbpedia.org/resource/Welcome_Back_(John_Sebastian_song)
+0,80,Weekend,http://dbpedia.org/resource/Weekend_(Eddie_Cochran_song),http://dbpedia.org/resource/Weekend_(Earth_and_Fire_song) http://dbpedia.org/resource/Weekend!_(Scooter_song) http://dbpedia.org/resource/Weekend!_(Earth_and_Fire_song)
+0,83,Wedding Bells,http://dbpedia.org/resource/Wedding_Bells_(Jonas_Brothers_song),http://dbpedia.org/resource/Wedding_Bells_(song)
+0,100,We Love You,http://dbpedia.org/resource/We_Love_You,http://dbpedia.org/resource/We_Love_You_(OMD_song)
+0,105,We Got Love,http://dbpedia.org/resource/We_Got_Love_(Disco_Montego_song),http://dbpedia.org/resource/We_Got_Love_(Bobby_Rydell_song) http://dbpedia.org/resource/We_Got_Love
+0,107,We Don't Talk Anymore,http://dbpedia.org/resource/We_Don't_Talk_Anymore_(Charlie_Puth_song),http://dbpedia.org/resource/We_Don't_Talk_Anymore_(Cliff_Richard_song)
+0,116,We Can Work It Out,http://dbpedia.org/resource/We_Can_Work_It_Out_(Sweetbox_song),http://dbpedia.org/resource/We_Can't_Work_It_Out http://dbpedia.org/resource/We_Can_Work_It_Out_(The_Beatles_song) http://dbpedia.org/resource/We_can_work_it_out http://dbpedia.org/resource/We_Can_Work_It_Out
+0,144,We're Not Gonna Take It,"http://dbpedia.org/resource/See_Me,_Feel_Me",http://dbpedia.org/resource/We're_Not_Gonna_Take_It_(Twisted_Sister) http://dbpedia.org/resource/We're_Not_Gonna_Take_It_(Twisted_Sister_song)
+0,149,We'll Be Together,http://dbpedia.org/resource/We'll_Be_Together_(Sting_song),http://dbpedia.org/resource/We'll_Be_Together_(Sandra_song)
+0,151,Way of the World,http://dbpedia.org/resource/Way_of_the_World_(Tina_Turner_song),"http://dbpedia.org/resource/Oh,_Candy http://dbpedia.org/resource/Oh_Candy http://dbpedia.org/resource/Way_of_the_World_(Cheap_Trick_song)"
+0,153,Way Out,http://dbpedia.org/resource/Way_Out_(Roxette_song),http://dbpedia.org/resource/Way_Out_(The_La's_song)
+0,162,Waterfalls,http://dbpedia.org/resource/Waterfalls_(TLC_song),http://dbpedia.org/resource/Waterfalls_(Paul_McCartney_song)
+0,164,Waterfall,http://dbpedia.org/resource/Waterfall_(The_Stone_Roses_song),http://dbpedia.org/resource/Waterfall_(Carly_Simon_song)
+0,171,Watching You,http://dbpedia.org/resource/Watching_You_(Rogue_Traders_song),http://dbpedia.org/resource/Watching_You_(Loose_Ends_song) http://dbpedia.org/resource/Watching_You_(Loose_Ends_Song)
+0,178,Watch Out,http://dbpedia.org/resource/Watch_Out_(2_Chainz_song),http://dbpedia.org/resource/Watch_Out_(Ferry_Corsten_song)
+0,179,Watch Me,http://dbpedia.org/resource/Watch_Me_(Bella_Thorne_and_Zendaya_song),http://dbpedia.org/resource/Watch_Me_(song) http://dbpedia.org/resource/Watch_Me_(Lorrie_Morgan_song)
+0,184,Wasted,http://dbpedia.org/resource/Wasted_(Carrie_Underwood_song),http://dbpedia.org/resource/Wasted_(Jennifer_Paige_Song) http://dbpedia.org/resource/Wasted_(Jennifer_Paige_song)
+0,187,Was It Worth It?,,http://dbpedia.org/resource/Was_It_Worth_It?_(Pet_Shop_Boys_song)
+0,190,Warped,http://dbpedia.org/resource/Warped_(song),http://dbpedia.org/resource/Warped

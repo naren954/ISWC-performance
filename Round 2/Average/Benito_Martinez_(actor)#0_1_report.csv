@@ -1,0 +1,6 @@
+F1: 0.66667,Precision: 0.66667,Recall: 0.66667,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,4,Saw,http://dbpedia.org/resource/The_Texas_Chain_Saw_Massacre,http://dbpedia.org/resource/Saw_1 http://dbpedia.org/resource/SAW_(movie) http://dbpedia.org/resource/Saw_(2004_film) http://dbpedia.org/resource/Saw_(movie) http://dbpedia.org/resource/Saw_movie http://dbpedia.org/resource/Saw_(2004_movie) http://dbpedia.org/resource/Saw_(2004)
+1,7,Kill Your Darlings,http://dbpedia.org/resource/Kill_Your_Darlings_(2013_film),http://dbpedia.org/resource/Kill_Your_Darlings_(2006_film) http://dbpedia.org/resource/Kill_Your_Darlings_(2006)
+1,8,Not Forgotten,http://dbpedia.org/resource/Not_Forgotten_(Angel_novel),http://dbpedia.org/resource/Not_Forgotten_(film)
+1,9,The Dry Land,http://dbpedia.org/resource/Rain_in_a_Dry_Land,http://dbpedia.org/resource/The_Dry_Land http://dbpedia.org/resource/The_Dry_Land_(film)

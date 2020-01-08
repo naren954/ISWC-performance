@@ -1,0 +1,9 @@
+F1: 0.65000,Precision: 0.65000,Recall: 0.65000,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,4,A. Scarborough,http://dbpedia.org/resource/Steven_Scarborough,http://dbpedia.org/resource/Adrian_Scarborough
+2,7,M. Fitzmaurice,"http://dbpedia.org/resource/Edmond_Fitzmaurice,_1st_Baron_Fitzmaurice",http://dbpedia.org/resource/Michael_Fitzmaurice_(actor)
+2,9,G. Perkins,http://dbpedia.org/resource/Granville_Perkins,http://dbpedia.org/resource/Geoffrey_Perkins
+2,12,R. Stout,http://dbpedia.org/resource/Ryan_Stout,http://dbpedia.org/resource/Rex_Stout http://dbpedia.org/resource/Rex_T._Stout http://dbpedia.org/resource/Rex_Todhunter_Stout
+2,14,P. Pope,http://dbpedia.org/resource/Ronald_Pope,http://dbpedia.org/resource/Philip_Pope http://dbpedia.org/resource/Phil_Pope
+2,19,S. Milligan,http://dbpedia.org/resource/Stephen_Milligan,"http://dbpedia.org/resource/Spike_milligan http://dbpedia.org/resource/Spike_Milligan http://dbpedia.org/resource/Terence_Alan_Patrick_Seán_Milligan http://dbpedia.org/resource/Terence_Alan_Patrick_Seán_Milligan,_KBE http://dbpedia.org/resource/Terence_Alan_Patrick_Seán_Milligan_KBE"
+2,20,J. Kendall,http://dbpedia.org/resource/John_D._Kendall,http://dbpedia.org/resource/Jo_Kendal http://dbpedia.org/resource/Jo_Kendall

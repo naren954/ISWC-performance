@@ -1,0 +1,5 @@
+F1: 0.97321,Precision: 0.97321,Recall: 0.97321,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,5,The Baron,"http://dbpedia.org/resource/John_Knatchbull,_7th_Baron_Brabourne",http://dbpedia.org/resource/The_Baron_(horse)
+2,25,Sainfoin,http://dbpedia.org/resource/Sainfoin_(horse),http://dbpedia.org/resource/Sanfoin http://dbpedia.org/resource/Xanthobrychis http://dbpedia.org/resource/Dendrobrychis http://dbpedia.org/resource/Onobrychis http://dbpedia.org/resource/Sainfoin http://dbpedia.org/resource/Esparcet
+2,95,Roberto,http://dbpedia.org/resource/Roberto_Marinho,http://dbpedia.org/resource/Roberto_(horse)

@@ -1,0 +1,9 @@
+F1: 0.87719,Precision: 0.87719,Recall: 0.87719,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Scinax littoreus,http://dbpedia.org/resource/Scinax_littoralis,http://dbpedia.org/resource/Scinax_littoreus
+0,7,Scinax jureia,http://dbpedia.org/resource/Scinax_duartei,http://dbpedia.org/resource/Scinax_jureia
+0,14,Scinax granulatus,http://dbpedia.org/resource/Scinax_auratus,http://dbpedia.org/resource/Hyla_strigilata http://dbpedia.org/resource/Scinax_granulatus http://dbpedia.org/resource/Eringiophila
+0,15,Scinax garbei,http://dbpedia.org/resource/Scinax_hayii,http://dbpedia.org/resource/Hyla_epacrorhina http://dbpedia.org/resource/Hyla_lutzi http://dbpedia.org/resource/Scinax_garbei http://dbpedia.org/resource/Ranita_Garbeana
+0,23,Scinax danae,http://dbpedia.org/resource/Scinax_duartei,http://dbpedia.org/resource/Ranita_De_Dana http://dbpedia.org/resource/Scinax_danae
+0,50,Scinax alcatraz,http://dbpedia.org/resource/Ololygon_alcatraz,http://dbpedia.org/resource/Scinax_alcatraz
+0,57,Scaphiophryne verrucosa,http://dbpedia.org/resource/Scaphiophryne_madagascariensis,http://dbpedia.org/resource/Scaphiophryne_verrucosa

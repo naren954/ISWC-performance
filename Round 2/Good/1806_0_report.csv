@@ -1,0 +1,6 @@
+F1: 0.80952,Precision: 0.80952,Recall: 0.80952,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Murray Theater,"http://dbpedia.org/resource/Murray_Theater_(Richmond,_Indiana)","http://dbpedia.org/resource/Murray_Theater_(Murray,_Utah) http://dbpedia.org/resource/Murray_Theater_(Utah)"
+0,4,Maxbilt Theatre,http://dbpedia.org/resource/Playhouse_Theatre,http://dbpedia.org/resource/Maxbilt_Theatre
+0,8,Holly Theatre,"http://dbpedia.org/resource/Holly_Theatre_(Medford,_Oregon)","http://dbpedia.org/resource/Holly_Theatre_(Dahlonega,_Georgia)"
+0,21,Avalon Theater,"http://dbpedia.org/resource/Avalon_Theatre_(Washington,_D.C.)","http://dbpedia.org/resource/Avalon_Theater_(Larimore,_North_Dakota)"

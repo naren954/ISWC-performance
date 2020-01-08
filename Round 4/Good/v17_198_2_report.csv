@@ -1,0 +1,5 @@
+F1: 0.76923,Precision: 0.76923,Recall: 0.76923,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,2,D. Wilson,http://dbpedia.org/resource/Tracy_Wilson,http://dbpedia.org/resource/David_Wilson_(figure_skating) http://dbpedia.org/resource/David_Wilson_(figure_skater)
+2,6,L. Jones,http://dbpedia.org/resource/Courtney_Jones_(figure_skater),http://dbpedia.org/resource/Lloyd_Jones_(figure_skater)
+2,13,A. Matveev,"http://ru.dbpedia.org/resource/Матвеев,_Владимир_Михайлович",http://dbpedia.org/resource/Alexander_Matveev http://dbpedia.org/resource/Alexander_matveev http://dbpedia.org/resource/Alexander_Matveyev http://dbpedia.org/resource/Aleksandr_Matveyev_(sculptor)

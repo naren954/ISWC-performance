@@ -1,0 +1,4 @@
+F1: 0.71429,Precision: 0.71429,Recall: 0.71429,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,WDBJ,http://dbpedia.org/resource/WDBJ,http://sws.geonames.org/4791459/
+0,6,KUVM-LD,http://dbpedia.org/resource/KTPN-LD,http://dbpedia.org/resource/KUVM-LP http://dbpedia.org/resource/KUVM-LD

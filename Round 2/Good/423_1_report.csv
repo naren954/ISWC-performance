@@ -1,0 +1,7 @@
+F1: 0.84375,Precision: 0.84375,Recall: 0.84375,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,8,Ta’if,http://dbpedia.org/resource/Ta'if,http://dbpedia.org/resource/Ta’if
+1,12,"Tatitlek, Alaska",http://dbpedia.org/resource/Alaska,"http://dbpedia.org/resource/Tatitlek http://dbpedia.org/resource/Tatitlek,_Alaska http://dbpedia.org/resource/Tatitlek,_AK http://dbpedia.org/resource/UN/LOCODE:USTEK"
+1,14,Labé,http://dbpedia.org/resource/Labé_Region,"http://dbpedia.org/resource/Labe,_Guinea http://dbpedia.org/resource/Labé"
+1,25,Northern Taiwan,http://dbpedia.org/resource/Hsinchu,http://dbpedia.org/resource/Northern_Taiwan
+1,28,Sarikei,http://dbpedia.org/resource/Sarikei_Division,http://dbpedia.org/resource/Sarikei

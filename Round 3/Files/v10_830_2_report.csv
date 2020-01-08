@@ -1,0 +1,7 @@
+"F1: 0.61538","Precision: 0.61538","Recall: 0.61538"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"2","3","W. Desjardins","http://dbpedia.org/resource/Éric_Desjardins","http://dbpedia.org/resource/Willie_Desjardins"
+"2","5","J. Cooper","http://dbpedia.org/resource/Joe_Cooper_(footballer,_born_1865)","http://dbpedia.org/resource/Jon_Cooper_(ice_hockey)"
+"2","6","K. Hitchcock","http://dbpedia.org/resource/Kevin_Hitchcock","http://dbpedia.org/resource/Ken_Hitchcock"
+"2","10","G. Boucher","http://dbpedia.org/resource/Georges_Boucher","http://dbpedia.org/resource/Guy_Boucher"
+"2","13","J. Hynes","http://dbpedia.org/resource/Wayne_Hynes","http://dbpedia.org/resource/John_Hynes_(ice_hockey)"

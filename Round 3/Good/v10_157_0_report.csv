@@ -1,0 +1,4 @@
+F1: 0.88889,Precision: 0.88889,Recall: 0.88889,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Amargosa vole,http://dbpedia.org/resource/California_vole,http://dbpedia.org/resource/Amargosa_vole http://dbpedia.org/resource/Microtus_californicus_scirpensis
+0,4,Agkistrodon bilineatus taylori,http://dbpedia.org/resource/Agkistrodon_bilineatus,http://dbpedia.org/resource/Agkistrodon_taylori http://dbpedia.org/resource/Ornate_cantil http://dbpedia.org/resource/Taylor's_cantil http://dbpedia.org/resource/Agkistrodon_bilineatus_taylori http://dbpedia.org/resource/Taylor's_Cantil http://dbpedia.org/resource/Taylor’s_cantil

@@ -1,0 +1,4 @@
+"F1: 0.93548","Precision: 0.93548","Recall: 0.93548"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"2","5","The Lost World","http://dbpedia.org/resource/The_Lost_World_(Conan_Doyle_novel)","http://dbpedia.org/resource/The_Lost_World_(Crichton_novel) http://dbpedia.org/resource/The_Lost_World_(Michael_Crichton)"
+"2","8","Castle","http://dbpedia.org/resource/Castle_(TV_series)","http://dbpedia.org/resource/Castle_(novel)"

@@ -1,0 +1,14 @@
+F1: 0.70000,Precision: 0.70000,Recall: 0.70000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,2,Arunachalam,http://dbpedia.org/resource/Arunachalam_(film),http://dbpedia.org/resource/Arunachalam http://dbpedia.org/resource/Arunachalam_(disambiguation)
+1,4,Mannan,,http://dbpedia.org/resource/Mannan_(film)
+1,7,Anjali,http://dbpedia.org/resource/Manjadikuru,http://dbpedia.org/resource/Anjali_(movie) http://dbpedia.org/resource/Anjali_(1990_film) http://dbpedia.org/resource/Anjali_(film)
+1,15,Velaikkaaran,,http://dbpedia.org/resource/Velaikkaaran http://dbpedia.org/resource/Velaikaran http://dbpedia.org/resource/Velaikkaran http://dbpedia.org/resource/Velaikaaran
+1,22,Enakkul Oruvan,http://dbpedia.org/resource/Enakkul_Oruvan_(2015_film),http://dbpedia.org/resource/Enakkul_Oruvan_(1984_film)
+1,23,Jappanil Kalyanaraman,,http://dbpedia.org/resource/Jappanil_Kalyanaraman http://dbpedia.org/resource/Japanil_Kalyanaraman
+1,24,Tik Tik Tik,http://dbpedia.org/resource/Tik_Tak,http://dbpedia.org/resource/Tick!_Tick!_Tick! http://dbpedia.org/resource/Tik_Tik_Tik
+1,29,Kalyanaraman,http://dbpedia.org/resource/Kalyanaraman_(2002_film),http://dbpedia.org/resource/Kalyanaraman_(1979_film)
+1,32,Raman Thediya Seethai,http://dbpedia.org/resource/Raman_Thediya_Seethai_(2008_film),http://dbpedia.org/resource/Raman_Thediya_Seethai_(1972_film) http://dbpedia.org/resource/Raman_Thediya_Seedhai_(1972_film)
+1,39,Pudhiya Paravai,http://dbpedia.org/resource/Pudhiya_Vazhkai,http://dbpedia.org/resource/Pudhiya_Paravai_(1964_film) http://dbpedia.org/resource/Puthiya_Paravai http://dbpedia.org/resource/New_Bird http://dbpedia.org/resource/Pudhiya_Paravai
+1,40,Veerapandiya Kattabomman,http://dbpedia.org/resource/Veerapandiya_Kattabomman_(film),http://dbpedia.org/resource/Veera_Pandya_Kattabomman http://dbpedia.org/resource/Veerapandiyan_Kattabomman http://dbpedia.org/resource/Veerapandya_Kattabomman http://dbpedia.org/resource/Kattabomman http://dbpedia.org/resource/Kattabomman_Nayak http://dbpedia.org/resource/Veerapandiya_Kattabommu http://dbpedia.org/resource/Veerapandiya_Kattabomman http://dbpedia.org/resource/Veera_Pandiya_Kattabomman http://dbpedia.org/resource/Veerapandian_Kattabomman
+1,41,Allavudeenum Arputha Vilakkum,,http://dbpedia.org/resource/Allauddinum_Arputha_Vilakkum http://dbpedia.org/resource/Allauddinum_Albhutha_Vilakkum http://dbpedia.org/resource/Allaudinaum_Arputha_Vilakkum http://dbpedia.org/resource/Allavudeenum_Arputha_Vilakkum

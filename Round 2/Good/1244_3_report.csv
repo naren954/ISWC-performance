@@ -1,0 +1,14 @@
+F1: 0.85542,Precision: 0.85542,Recall: 0.85542,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,7,A. Khadjibekov,http://dbpedia.org/resource/Artyom_Khadjibekov,http://dbpedia.org/resource/Artem_Khadjibekov http://dbpedia.org/resource/Artyom_Khadzhibekov
+3,9,D. Racinet,http://de.dbpedia.org/resource/Auguste_Racinet,http://dbpedia.org/resource/Delphine_Réau http://dbpedia.org/resource/Delphine_Reau http://dbpedia.org/resource/Delphine_Racinet
+3,24,A. Khadjibekov,http://dbpedia.org/resource/Artyom_Khadjibekov,http://dbpedia.org/resource/Artem_Khadjibekov http://dbpedia.org/resource/Artyom_Khadzhibekov
+3,28,D. Iorgova,,http://dbpedia.org/resource/Diana_Iorgova http://dbpedia.org/resource/Diana_Jorgova
+3,38,X. Jun,http://dbpedia.org/resource/Xiao_Jun_(sport_shooter),http://dbpedia.org/resource/Xiao_Jun http://dbpedia.org/resource/Xiao_Jun_(sports)
+3,39,W. Waibel,http://dbpedia.org/resource/Craig_Waibel,"http://dbpedia.org/resource/Wolfram_Waibel http://dbpedia.org/resource/Wolfram_Waibel,_Jr. http://dbpedia.org/resource/Wolfram_Waibel_Junior http://dbpedia.org/resource/Wolfram_Waibel,_Junior http://dbpedia.org/resource/Wolfram_Waibel_Jr."
+3,43,D. Iorgova,,http://dbpedia.org/resource/Diana_Iorgova http://dbpedia.org/resource/Diana_Jorgova
+3,53,X. Jun,http://dbpedia.org/resource/Xiao_Jun_(sport_shooter),http://dbpedia.org/resource/Xiao_Jun http://dbpedia.org/resource/Xiao_Jun_(sports)
+3,54,W. Waibel,http://dbpedia.org/resource/Craig_Waibel,"http://dbpedia.org/resource/Wolfram_Waibel http://dbpedia.org/resource/Wolfram_Waibel,_Jr. http://dbpedia.org/resource/Wolfram_Waibel_Junior http://dbpedia.org/resource/Wolfram_Waibel,_Junior http://dbpedia.org/resource/Wolfram_Waibel_Jr."
+3,60,K. Watanabe,http://dbpedia.org/resource/Koji_Watanabe,http://dbpedia.org/resource/Kazumi_Watanabe_(sport_shooter)
+3,73,K. Watanabe,http://dbpedia.org/resource/Koji_Watanabe,http://dbpedia.org/resource/Kazumi_Watanabe_(sport_shooter)
+3,83,T. Hasegawa,http://dbpedia.org/resource/Haruhisa_Hasegawa,http://dbpedia.org/resource/Michiko_Fukushima http://dbpedia.org/resource/Tomoko_Hasegawa

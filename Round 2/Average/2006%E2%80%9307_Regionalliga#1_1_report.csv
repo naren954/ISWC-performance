@@ -1,0 +1,10 @@
+F1: 0.57895,Precision: 0.57895,Recall: 0.57895,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,6,Hamburger SV II,http://dbpedia.org/resource/Hamburger_SV,http://dbpedia.org/resource/Hamburger_SV_II http://dbpedia.org/resource/Hamburger_SV_Amateure
+1,8,SV Werder Bremen II,http://dbpedia.org/resource/SV_Werder_Bremen,http://dbpedia.org/resource/Werder_Bremen_II http://dbpedia.org/resource/Werder_Bremen_III http://dbpedia.org/resource/SV_Werder_Bremen_Amateure http://dbpedia.org/resource/SV_Werder_Bremen_II http://dbpedia.org/resource/SV_Werder_Bremen_III
+1,11,Rot-WeiÃ\u009F Erfurt,http://dbpedia.org/resource/FC_Rot-Weiß_Erfurt,http://dbpedia.org/resource/Rot-Weiß_Erfurt
+1,13,Rot-WeiÃ\u009F Ahlen,http://dbpedia.org/resource/Rot_Weiss_Ahlen,http://dbpedia.org/resource/Rot-Weiß_Ahlen
+1,14,Borussia Dortmund II,http://dbpedia.org/resource/Borussia_Dortmund,http://dbpedia.org/resource/Borussia_Dortmund_II http://dbpedia.org/resource/Borussia_Dortmund_Amateure
+1,16,Borussia MÃ¶nchengladbach II,http://dbpedia.org/resource/Borussia_Mönchengladbach,http://dbpedia.org/resource/Borussia_Mönchengladbach_II
+1,17,Bayer Leverkusen II,http://dbpedia.org/resource/Bayer_04_Leverkusen,http://dbpedia.org/resource/Bayer_04_Leverkusen_Amateure http://dbpedia.org/resource/Bayer_04_Leverkusen_II http://dbpedia.org/resource/Bayer_Leverkusen_II
+1,18,Hertha BSC II,http://dbpedia.org/resource/Hertha_BSC,http://dbpedia.org/resource/Hertha_Berlin_II http://dbpedia.org/resource/Hertha_BSC_Berlin_II http://dbpedia.org/resource/Hertha_BSC_II http://dbpedia.org/resource/Hertha_BSC_Amateure

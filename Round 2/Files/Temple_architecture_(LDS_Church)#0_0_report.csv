@@ -1,0 +1,8 @@
+"F1: 0.57143","Precision: 0.57143","Recall: 0.57143"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","1","Boise Idaho Temple","http://dbpedia.org/resource/Boise,_Idaho","http://dbpedia.org/resource/Boise_Idaho_Temple http://dbpedia.org/resource/Boise_Temple"
+"0","2","Manila Philippines Temple","http://dbpedia.org/resource/Cathedral_of_Praise","http://dbpedia.org/resource/Manila_Temple http://dbpedia.org/resource/Manila_Philippines_Temple"
+"0","4","Taipei Taiwan Temple","http://dbpedia.org/resource/Taipei_101","http://dbpedia.org/resource/Taipei_Temple http://dbpedia.org/resource/Taipei_Taiwan_Temple http://dbpedia.org/resource/Taiwan_Temple"
+"0","8","Johannesburg South Africa Temple","http://dbpedia.org/resource/Johannesburg_Park_Station","http://dbpedia.org/resource/Johannesburg_Temple http://dbpedia.org/resource/Johannesburg_South_Africa_Temple"
+"0","13","Portland Oregon Temple","http://dbpedia.org/resource/Portland,_Oregon","http://dbpedia.org/resource/Portland_Temple http://dbpedia.org/resource/Portland_Oregon_Temple"
+"0","14","Las Vegas Nevada Temple","http://dbpedia.org/resource/Las_Vegas_Strip","http://dbpedia.org/resource/Las_Vegas_Temple http://dbpedia.org/resource/Las_Vegas_Nevada_Temple"

@@ -1,0 +1,11 @@
+F1: 0.72727,Precision: 0.72727,Recall: 0.72727,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,4,Screen One,http://dbpedia.org/resource/One_Flew_Over_the_Cuckoo's_Nest_(film),http://dbpedia.org/resource/Screen_One
+1,5,Double Vision (TV Movie),http://dbpedia.org/resource/Double_Vision_(2002_film),http://dbpedia.org/resource/Double_Vision_(1992_film)
+1,6,Runaway Bay,http://dbpedia.org/resource/Runaway_(2006_TV_series),http://dbpedia.org/resource/Runaway_Bay_(TV_series) http://dbpedia.org/resource/Runaway_Bay(TV_Series)
+1,16,Canterbury Tales,http://dbpedia.org/resource/The_Canterbury_Tales_(film),http://dbpedia.org/resource/The_Canterbury_Tales_(TV_series) http://dbpedia.org/resource/The_Canterbury_Tales_(TV_Series) http://dbpedia.org/resource/Canterbury_Tales_(TV_series)
+1,17,Human Cargo,http://uk.dbpedia.org/resource/Цукровий_корабель,http://dbpedia.org/resource/Human_Cargo
+1,19,King Solomon's Mines,http://dbpedia.org/resource/The_Librarian:_Return_to_King_Solomon's_Mines,http://dbpedia.org/resource/King_Solomon's_Mines_(2004_film)
+1,20,The Triangle,http://dbpedia.org/resource/Triangle_(2014_TV_series),http://dbpedia.org/resource/The_Triangle_(miniseries) http://dbpedia.org/resource/The_Triangle_(2005) http://dbpedia.org/resource/The_Triangle_(TV_Series) http://dbpedia.org/resource/The_Triangle_(TV_miniseries)
+1,23,Cane,http://dbpedia.org/resource/Facino_Cane_(short_story),http://dbpedia.org/resource/List_of_Cane_episodes http://dbpedia.org/resource/Cane_(TV_series) http://dbpedia.org/resource/Cane_(2007_TV_series) http://dbpedia.org/resource/List_of_Cane_(TV_Series)_Episodes http://dbpedia.org/resource/Cane_(2007_TV_Series) http://dbpedia.org/resource/Pilot_(Cane)
+1,27,24 (TV Movie),http://dbpedia.org/resource/24_(TV_series),http://dbpedia.org/resource/24_(Film) http://dbpedia.org/resource/24:_Exile http://dbpedia.org/resource/24_-_Redemption http://dbpedia.org/resource/24:exile http://dbpedia.org/resource/24:_Redemption http://dbpedia.org/resource/24_Redemption http://dbpedia.org/resource/24:Redemption http://dbpedia.org/resource/24_Exile

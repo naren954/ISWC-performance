@@ -1,0 +1,10 @@
+F1: 0.70370,Precision: 0.70370,Recall: 0.70370,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,5,G. Stiles,http://dbpedia.org/resource/Julia_Stiles,http://dbpedia.org/resource/George_Stiles
+3,7,H. Goodall,http://dbpedia.org/resource/Caroline_Goodall,http://dbpedia.org/resource/Howard_Goodall http://dbpedia.org/resource/Howard_Lindsay_Goodall
+3,11,L. Reed,http://dbpedia.org/resource/Lou_Reed,http://dbpedia.org/resource/Les_Reed_(songwriter)
+3,12,L. O'Keefe,http://dbpedia.org/resource/Michael_O'Keefe,http://dbpedia.org/resource/Laurence_O'Keefe_(composer)
+3,17,W. Marks,http://dbpedia.org/resource/Mark_Kac,http://dbpedia.org/resource/Walter_Marks_(composer)
+3,25,N. Campbell,http://dbpedia.org/resource/Nicholas_Campbell,"http://dbpedia.org/resource/Campbell,_Norman http://dbpedia.org/resource/Norman_Campbell"
+3,26,N. White,http://dbpedia.org/resource/Nera_White,http://dbpedia.org/resource/Nancy_White_(singer-songwriter)
+3,27,D. Levine,http://dbpedia.org/resource/James_Levine,http://dbpedia.org/resource/Daniel_Levine_(composer)

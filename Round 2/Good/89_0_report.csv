@@ -1,0 +1,4 @@
+F1: 0.91304,Precision: 0.91304,Recall: 0.91304,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,5,Black Box Corporation,http://dbpedia.org/resource/Black_Hills_Corporation,http://dbpedia.org/resource/Black_Box_VirtuaCore http://dbpedia.org/resource/Black_Box_Corporation
+0,22,Berry Plastics,http://dbpedia.org/resource/Berry_Global,"http://dbpedia.org/resource/Berry_Plastics_Group http://dbpedia.org/resource/Berry_Plastics_Group,_Inc. http://dbpedia.org/resource/Berry_Plastics"

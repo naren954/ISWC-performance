@@ -1,0 +1,11 @@
+F1: 0.90000,Precision: 0.90000,Recall: 0.90000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,20,Petar BojoviÄ\u0087,http://dbpedia.org/resource/Sveti_Petar_u_Šumi,http://dbpedia.org/resource/Petar_Bojović
+0,33,FranÃ§ois Certain Canrobert,http://dbpedia.org/resource/François_Certain_de_Canrobert,http://dbpedia.org/resource/François_Certain_Canrobert
+0,49,FranÃ§ois Ernest Fournier,http://dbpedia.org/resource/Ernest_François_Fournier,http://dbpedia.org/resource/François_Ernest_Fournier
+0,60,Luis Gomez CarreÃ±o,http://dbpedia.org/resource/Luis_Gómez_Carreño,http://dbpedia.org/resource/Luis_Gomez_Carreño
+0,100,Å½ivojin MiÅ¡iÄ\u0087,,http://dbpedia.org/resource/Živojin_Mišić
+0,101,Å½ivojin MiÅ¡iÄ\u0087,,http://dbpedia.org/resource/Živojin_Mišić
+0,107,FranÃ§ois de NÃ©grier,http://dbpedia.org/resource/Oscar_de_Négrier,http://dbpedia.org/resource/François_de_Négrier
+0,138,"Leighton W. Smith, Jr.",http://dbpedia.org/resource/Leighton_W._Smith_Jr.,"http://dbpedia.org/resource/Leighton_W._Smith,_Jr. http://dbpedia.org/resource/Leighton_""Snuffy""_Smith http://dbpedia.org/resource/Leighton_W._Smith"
+0,142,Stepa StepanoviÄ\u0087,,http://dbpedia.org/resource/Stepa_Stepanović

@@ -1,0 +1,6 @@
+"F1: 0.50000","Precision: 0.50000","Recall: 0.50000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"2","2","GospiÄ\u0087 Croatia Osiguranje","http://dbpedia.org/resource/KK_Zagreb","http://dbpedia.org/resource/ŽKK_Gospić"
+"2","4","MedveÅ¡Ä\u008Dak","http://dbpedia.org/resource/Tatjana_Medved","http://dbpedia.org/resource/ŽKK_Medveščak"
+"2","7","Merkur Celje","http://dbpedia.org/resource/ŽKK_Celje","http://dbpedia.org/resource/ŽKK_Athlete_Celje"
+"2","9","HIT Kranjska Gora","http://dbpedia.org/resource/HK_Kranjska_Gora","http://dbpedia.org/resource/ŽKK_Kranjska_Gora"

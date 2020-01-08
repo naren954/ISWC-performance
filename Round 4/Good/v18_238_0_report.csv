@@ -1,0 +1,15 @@
+F1: 0.83117,Precision: 0.83117,Recall: 0.83117,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,8,The Bonding,,http://dbpedia.org/resource/The_Bonding http://dbpedia.org/resource/The_Bonding_(TNG_episode) http://dbpedia.org/resource/The_Bonding_(Star_Trek:_The_Next_Generation)
+0,19,The Battle,http://dbpedia.org/resource/Battle_Royale_(film),http://dbpedia.org/resource/Picard_Maneuver http://dbpedia.org/resource/The_Battle_(Star_Trek:_The_Next_Generation) http://dbpedia.org/resource/The_Picard_maneuver http://dbpedia.org/resource/Picard_maneouvre http://dbpedia.org/resource/Battle_Of_Maxia http://dbpedia.org/resource/The_battle_of_Maxia http://dbpedia.org/resource/The_Battle_(TNG_episode) http://dbpedia.org/resource/The_Battle_of_Maxia http://dbpedia.org/resource/The_Picard_Maneouvre http://dbpedia.org/resource/Battle_of_Maxia_Zeta http://dbpedia.org/resource/Battle_of_Maxia http://dbpedia.org/resource/Picard_manoeuver http://dbpedia.org/resource/Picard_maneuver http://dbpedia.org/resource/The_Picard_Maneuver http://dbpedia.org/resource/Picard_Maneouvre http://dbpedia.org/resource/Picard_manuver http://dbpedia.org/resource/The_Battle_Of_Maxia http://dbpedia.org/resource/Picard_manuever http://dbpedia.org/resource/The_Picard_maneouvre
+0,27,The Apple,http://dbpedia.org/resource/Apple_IIGS,http://dbpedia.org/resource/The_Apple_(TOS_episode) http://dbpedia.org/resource/The_Apple_(Star_Trek) http://dbpedia.org/resource/The_Apple_(Star_Trek:_The_Original_Series)
+0,30,The Alternate,http://dbpedia.org/resource/The_Alternate_Express,http://dbpedia.org/resource/The_Alternate_(DS9_episode) http://dbpedia.org/resource/The_Alternate_(Star_Trek:_Deep_Space_Nine)
+0,31,The After Hours,http://dbpedia.org/resource/The_After_Hours_(1986_The_Twilight_Zone),http://dbpedia.org/resource/The_Twilight_Zone/The_After_Hours http://dbpedia.org/resource/The_After_Hours
+0,36,Thanksgiving,http://dbpedia.org/resource/Thanksgiving_(Family_Guy),http://dbpedia.org/resource/Thanksgiving_(Glee)
+0,42,Tech,http://dbpedia.org/resource/Id_Tech_5,http://dbpedia.org/resource/Tech_(Smash)
+0,51,Tabula Rasa,http://dbpedia.org/resource/Tabula_Rasa_(Buffy_the_Vampire_Slayer),http://dbpedia.org/resource/Tabula_Rasa_(Lost_episode) http://dbpedia.org/resource/Lost_s01e03 http://dbpedia.org/resource/Tabula_Rasa_(Lost) http://dbpedia.org/resource/Tabula_rusa
+0,55,Swan Song,http://dbpedia.org/resource/Swan_Song_(Supernatural),http://dbpedia.org/resource/Swan_Song_(Glee)
+0,67,Still,http://dbpedia.org/resource/Still_(Joy_Division_album),http://dbpedia.org/resource/Still_(The_Walking_Dead)
+0,69,Steel,http://dbpedia.org/resource/Man_of_Steel_(film),http://dbpedia.org/resource/Steel_(The_Twilight_Zone)
+0,70,Stealth,http://dbpedia.org/resource/Stealth_(film),http://dbpedia.org/resource/Stealth_(The_Americans)
+0,77,St. Patrick's Day,http://dbpedia.org/resource/St._Patrick's_Day_(The_Office),http://dbpedia.org/resource/St._Patrick's_Day_(30_Rock)

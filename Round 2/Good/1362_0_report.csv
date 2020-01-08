@@ -1,0 +1,5 @@
+F1: 0.80000,Precision: 0.80000,Recall: 0.80000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,4,Ivanhoe Lake Provincial Park,http://dbpedia.org/resource/Chain_Lakes_Provincial_Park,http://dbpedia.org/resource/Ivanhoe_Lake_Provincial_Park
+0,6,Gribskov,http://dbpedia.org/resource/Gribskov_Municipality,http://dbpedia.org/resource/Gribskov
+0,15,Arboretum Sofiyivka,http://dbpedia.org/resource/Arboretum_Zürich,http://dbpedia.org/resource/Sofiyivka http://dbpedia.org/resource/Sofiyivsky_Park http://dbpedia.org/resource/Sofiivka http://dbpedia.org/resource/Sofiyevka http://dbpedia.org/resource/Arboretum_Sofiyivka

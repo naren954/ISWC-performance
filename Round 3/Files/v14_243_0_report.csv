@@ -1,0 +1,5 @@
+"F1: 0.80000","Precision: 0.80000","Recall: 0.80000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","4","Volver","http://dbpedia.org/resource/Back_to_the_Future_Part_II","http://dbpedia.org/resource/Volver_film http://dbpedia.org/resource/Volver http://dbpedia.org/resource/Volver_(film)"
+"0","6","Volcano","http://dbpedia.org/resource/Volcano_(Satyricon_album)","http://dbpedia.org/resource/VoLcAno http://dbpedia.org/resource/Volcano_(1997_film) http://dbpedia.org/resource/Volcano_(1997_movie)"
+"0","7","Volcano","http://dbpedia.org/resource/Volcano_(Satyricon_album)","http://dbpedia.org/resource/Volcano_(1950_film) http://dbpedia.org/resource/Vulcano_(1950_film)"

@@ -1,0 +1,29 @@
+F1: 0.46000,Precision: 0.46000,Recall: 0.46000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Lava,http://dbpedia.org/resource/Volcanic_rock,http://dbpedia.org/resource/Lava_(color) http://dbpedia.org/resource/Lava_color
+0,2,Kobicha,http://dbpedia.org/resource/Cobija,http://dbpedia.org/resource/Kobicha
+0,3,Jonquil,,http://dbpedia.org/resource/Jonquil_(colour) http://dbpedia.org/resource/Jonquil_(color)
+0,4,Jasmine,http://dbpedia.org/resource/Princess_Jasmine,http://dbpedia.org/resource/Jasmine_(color)
+0,8,Heliotrope,,http://dbpedia.org/resource/Heliotrope+(color) http://dbpedia.org/resource/Heliotrope_(colour) http://dbpedia.org/resource/Heliotrope_(color)
+0,12,Glaucous,http://dbpedia.org/resource/Leaf,http://dbpedia.org/resource/Bluish-grey http://dbpedia.org/resource/Bluish-gray http://dbpedia.org/resource/Glaucous http://dbpedia.org/resource/Glaucousness
+0,15,Flax,http://dbpedia.org/resource/Linseed_oil,http://dbpedia.org/resource/Flax_(colour) http://dbpedia.org/resource/Flax_(color)
+0,18,Fallow,http://dbpedia.org/resource/Fallow_deer,http://dbpedia.org/resource/Fallow_(color)
+0,19,Electric green,http://dbpedia.org/resource/Blue,http://dbpedia.org/resource/Electric_green
+0,20,Electric blue,http://dbpedia.org/resource/Blue,http://dbpedia.org/resource/Electric_blue_(color)
+0,21,Eggshell,http://dbpedia.org/resource/Eggshell,http://dbpedia.org/resource/Eggshell_(colour) http://dbpedia.org/resource/Eggshell_(color)
+0,24,Dark purple,http://dbpedia.org/resource/Blue,http://dbpedia.org/resource/Dark_Purple http://dbpedia.org/resource/Dark_purple
+0,25,Cyclamen,http://dbpedia.org/resource/Cyclamen,http://dbpedia.org/resource/Cyclamen_(color)
+0,29,Coyote brown,http://dbpedia.org/resource/Tan_(color),http://dbpedia.org/resource/Coyote_tan http://dbpedia.org/resource/Coyote_brown
+0,31,Cordovan,http://dbpedia.org/resource/Cuir_de_Cordoue,http://dbpedia.org/resource/Cordovan_(color)
+0,32,Coral,http://dbpedia.org/resource/Choir,http://dbpedia.org/resource/Light_Coral http://dbpedia.org/resource/Coral_red http://dbpedia.org/resource/Gray-coral http://dbpedia.org/resource/Coral_pink http://dbpedia.org/resource/Coral_(color) http://dbpedia.org/resource/Dark_coral http://dbpedia.org/resource/Coral_(colour) http://dbpedia.org/resource/Coral_color
+0,34,Copper,http://dbpedia.org/resource/Copper,http://dbpedia.org/resource/Copper_red http://dbpedia.org/resource/Copper_(colour) http://dbpedia.org/resource/Copper_(color)
+0,35,Columbia blue,http://dbpedia.org/resource/Steel_blue,http://dbpedia.org/resource/Columbia_blue http://dbpedia.org/resource/Columbia_Blue http://dbpedia.org/resource/Jordy_blue http://dbpedia.org/resource/Columbia_blue_(color)
+0,37,Citron,,http://dbpedia.org/resource/Citron_(color)
+0,38,Citrine,http://dbpedia.org/resource/Quartz,http://dbpedia.org/resource/Citrine_(colour) http://dbpedia.org/resource/Citrine_(color)
+0,39,Cinereous,http://dbpedia.org/resource/Cinereous_tit,http://dbpedia.org/resource/Cinereous
+0,40,Chocolate,http://dbpedia.org/resource/Chocolate_cake,http://dbpedia.org/resource/Chocolate_(color) http://dbpedia.org/resource/Cocoa_brown
+0,42,Chartreuse,http://dbpedia.org/resource/Charterhouse_(monastery),http://dbpedia.org/resource/Pear_(colour) http://dbpedia.org/resource/Yellow_Green http://dbpedia.org/resource/Chartreuse_Yellow http://dbpedia.org/resource/Yellow_green http://dbpedia.org/resource/Chartreuse_(color http://dbpedia.org/resource/Avocado_(color) http://dbpedia.org/resource/Chartreuse_(color) http://dbpedia.org/resource/Caca_d'oie http://dbpedia.org/resource/Chartreuse_yellow http://dbpedia.org/resource/Apple_green http://dbpedia.org/resource/Drab_olive http://dbpedia.org/resource/Yellow-Green http://dbpedia.org/resource/Chartreuse_(colour) http://dbpedia.org/resource/Pear_(color) http://dbpedia.org/resource/Yellow-green
+0,43,Champagne,http://dbpedia.org/resource/Champagne,http://dbpedia.org/resource/Champagne_(color)
+0,47,Cardinal,http://dbpedia.org/resource/Cardinal_(Catholic_Church),http://dbpedia.org/resource/Cardinal_red http://dbpedia.org/resource/Cardinal_(color) http://dbpedia.org/resource/Cardinal_Red
+0,48,Capri,http://dbpedia.org/resource/Sky_blue,http://dbpedia.org/resource/Capri_(color)
+0,50,Camel,http://dbpedia.org/resource/Sopwith_Camel,http://dbpedia.org/resource/Camel_(color)

@@ -1,0 +1,4 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,1,Tom Clark,http://dbpedia.org/resource/John_Clark_(Tom_Clancy_character),http://dbpedia.org/resource/Tom_Clark_(American_football)
+2,2,Dave Dunn,http://dbpedia.org/resource/Dave_Dunn,http://dbpedia.org/resource/Dave_Dunn_(American_football)

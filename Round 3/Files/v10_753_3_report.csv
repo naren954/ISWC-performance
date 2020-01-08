@@ -1,0 +1,5 @@
+"F1: 0.81250","Precision: 0.81250","Recall: 0.81250"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"3","7","Razgrad","http://dbpedia.org/resource/Razgrad_Province","http://dbpedia.org/resource/Razgrad,_Bulgaria http://dbpedia.org/resource/Razgrad"
+"3","13","Dunaivtsi","http://dbpedia.org/resource/Dunaivtsi_Raion","http://dbpedia.org/resource/Dunaivtsi http://dbpedia.org/resource/History_of_Dunaivtsi http://dbpedia.org/resource/Dunayivtsi http://dbpedia.org/resource/Dunajowce"
+"3","14","Teplice","http://dbpedia.org/resource/Teplice_nad_Metují","http://dbpedia.org/resource/Teplitz http://dbpedia.org/resource/Teplitz-Schonau http://dbpedia.org/resource/Teplitz-Schönau http://dbpedia.org/resource/Teplice http://dbpedia.org/resource/Teplitz-Schoenau http://dbpedia.org/resource/Teplice-Sanov"

@@ -1,0 +1,4 @@
+F1: 0.80000,Precision: 0.80000,Recall: 0.80000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,2,"Porter Hardy, Jr.",http://dbpedia.org/resource/Porter_Hardy_Jr.,"http://dbpedia.org/resource/Porter_Hardy http://dbpedia.org/resource/Porter_J._Hardy http://dbpedia.org/resource/Porter_Hardy,_Jr."
+1,9,William Pat Jennings,http://dbpedia.org/resource/William_Jennings_Bryan,http://dbpedia.org/resource/William_P._Jennings http://dbpedia.org/resource/William_Pat_Jennings http://dbpedia.org/resource/W._Pat_Jennings

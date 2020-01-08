@@ -1,0 +1,8 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,1,S. White,http://dbpedia.org/resource/Stanford_White,http://dbpedia.org/resource/Skylar_White http://dbpedia.org/resource/Skyler_White_(Breaking_Bad) http://dbpedia.org/resource/Skyler_White
+3,2,C. Corleone,http://it.dbpedia.org/resource/Franco_Corleone,http://dbpedia.org/resource/Carmella_Corleone http://dbpedia.org/resource/Mama_Corleone http://dbpedia.org/resource/Carmela_Corleone
+3,3,S. Corleone,http://it.dbpedia.org/resource/Franco_Corleone,http://dbpedia.org/resource/Sandra_Corleone
+3,4,K. Adams-Corleone,http://dbpedia.org/resource/John_Quincy_Adams,http://dbpedia.org/resource/Kay_Adams-Corleone
+3,5,P. Halliwell,http://dbpedia.org/resource/Kenneth_Halliwell,http://dbpedia.org/resource/Piper_Halliwell_Wyatt http://dbpedia.org/resource/Piper_Halliwell-Wyatt http://dbpedia.org/resource/P._Baxter http://dbpedia.org/resource/Piper_Halliwell(-Wyatt) http://dbpedia.org/resource/Piper_Wyatt http://dbpedia.org/resource/Piper_Halliwell
+3,6,B. Swan,http://dbpedia.org/resource/Barbara_Swan,http://dbpedia.org/resource/Bella_Swan-Cullen http://dbpedia.org/resource/Bella_Swan_Cullen http://dbpedia.org/resource/Isabella_Cullen http://dbpedia.org/resource/Bella_Swan http://dbpedia.org/resource/Isabella_Swan http://dbpedia.org/resource/Bera_Suan http://dbpedia.org/resource/Isabella_Marie_Swan http://dbpedia.org/resource/Bella_Cullen http://dbpedia.org/resource/Bella_Swan/Cullen

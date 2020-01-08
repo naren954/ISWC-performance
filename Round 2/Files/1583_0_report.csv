@@ -1,0 +1,6 @@
+"F1: 0.80952","Precision: 0.80952","Recall: 0.80952"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","4","A Good Thing","http://dbpedia.org/resource/Good_Thing_(Fine_Young_Cannibals_song)","http://dbpedia.org/resource/A_Good_Thing"
+"0","12","1963","http://dbpedia.org/resource/1963","http://dbpedia.org/resource/Nineteen63 http://dbpedia.org/resource/1963_(song)"
+"0","15","(You Can) Depend on Me","http://dbpedia.org/resource/Depend_on_Me","http://dbpedia.org/resource/(You_Can)_Depend_on_Me"
+"0","21","'Til I Die","http://dbpedia.org/resource/Til_I_Die_(album)","http://dbpedia.org/resource/Till_I_Die http://dbpedia.org/resource/Til_I_Die http://dbpedia.org/resource/'Til_I_Die"

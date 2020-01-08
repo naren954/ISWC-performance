@@ -1,0 +1,4 @@
+F1: 0.60000,Precision: 0.60000,Recall: 0.60000,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,4,BRM,http://dbpedia.org/resource/McLaren,http://dbpedia.org/resource/British_Racing_Motor http://dbpedia.org/resource/BRM http://dbpedia.org/resource/Owen_Racing_Organisation http://dbpedia.org/resource/British_Racing_Motors
+2,5,Maserati,http://dbpedia.org/resource/Maserati,http://dbpedia.org/resource/Officine_Alfieri_Maserati http://dbpedia.org/resource/Maserati_in_Formula_One http://dbpedia.org/resource/Maserati_in_motorsport http://dbpedia.org/resource/Maserati_in_Motorsport

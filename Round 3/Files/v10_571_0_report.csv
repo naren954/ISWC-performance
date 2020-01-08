@@ -1,0 +1,7 @@
+"F1: 0.80769","Precision: 0.80769","Recall: 0.80769"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","1","A. Wilson","http://dbpedia.org/resource/Woodrow_Wilson","http://dbpedia.org/resource/Arthur_Wilson_(Australian_footballer) http://dbpedia.org/resource/Arthur_Wilson_(Australian_rules_footballer)"
+"0","4","A. Roberts","http://dbpedia.org/resource/Arthur_Roberts_(footballer,_born_1907)","http://dbpedia.org/resource/Archie_Roberts_(Australian_footballer) http://dbpedia.org/resource/Archie_Roberts_(Australian_rules_footballer)"
+"0","17","A. Robinson","http://dbpedia.org/resource/John_Robinson_(Australian_rules_footballer)","http://dbpedia.org/resource/Alex_Robinson_(footballer) http://dbpedia.org/resource/Alec_Robinson"
+"0","19","A. Lang","http://dbpedia.org/resource/Arthur_Lang","http://dbpedia.org/resource/Alex_Lang"
+"0","24","A. Miller","http://dbpedia.org/resource/Andrew_Miller_(baseball)","http://dbpedia.org/resource/Alan_Miller_(football_coach)"

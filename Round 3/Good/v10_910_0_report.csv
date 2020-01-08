@@ -1,0 +1,4 @@
+F1: 0.91304,Precision: 0.91304,Recall: 0.91304,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,J. Rolland,http://fr.dbpedia.org/resource/Jean-Louis_Rolland,http://dbpedia.org/resource/Johanna_Rolland
+0,20,G. B. Mowad,,http://dbpedia.org/resource/George_B._Mowad

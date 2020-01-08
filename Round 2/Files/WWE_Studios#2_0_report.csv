@@ -1,0 +1,8 @@
+"F1: 0.53846","Precision: 0.53846","Recall: 0.53846"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","2","See No Evil","http://dbpedia.org/resource/See_No_Evil,_Hear_No_Evil","http://dbpedia.org/resource/Goodnight_(movie) http://dbpedia.org/resource/See_No_Evil_(2006_film) http://dbpedia.org/resource/Eye_Scream_Man"
+"0","3","The Marine","http://dbpedia.org/resource/Peintre_de_la_Marine","http://dbpedia.org/resource/The_Marine http://dbpedia.org/resource/John_Triton http://dbpedia.org/resource/John_Bonito"
+"0","7","Knucklehead","http://dbpedia.org/resource/Knucklehead_(2010_film)","http://dbpedia.org/resource/Knucklehead_(film)"
+"0","8","The Chaperone","http://dbpedia.org/resource/The_Chaperones","http://dbpedia.org/resource/The_Chaperone_(film)"
+"0","10","The Day","http://dbpedia.org/resource/Saves_the_Day","http://dbpedia.org/resource/The_Day_(2011_film) http://dbpedia.org/resource/The_Day_(2011_Film)"
+"0","12","The Call","http://dbpedia.org/resource/Better_Call_Saul","http://dbpedia.org/resource/The_Call_(2013_film) http://dbpedia.org/resource/The_call_(2013)"

@@ -1,0 +1,8 @@
+F1: 0.40000,Precision: 0.40000,Recall: 0.40000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,WNYZ-LP,http://dbpedia.org/resource/Lp_space,http://dbpedia.org/resource/Indiedarkroom http://dbpedia.org/resource/WNYZ-LP http://dbpedia.org/resource/Indie_Darkroom http://dbpedia.org/resource/WNYZ http://dbpedia.org/resource/W09CZ-D http://dbpedia.org/resource/Indiedarkroom.com
+0,2,WLOT-LP,http://dbpedia.org/resource/Lp_space,http://dbpedia.org/resource/WLOT-LP http://dbpedia.org/resource/WBQZ-LP http://dbpedia.org/resource/WLOT
+0,3,WLLP-CA,http://dbpedia.org/resource/.ca,http://dbpedia.org/resource/WLLP-CA http://dbpedia.org/resource/WLLP
+0,4,WEVU-LP,http://dbpedia.org/resource/Lp_space,http://dbpedia.org/resource/WEVU-CA http://dbpedia.org/resource/WBSP-CA http://dbpedia.org/resource/WEVU-TV http://dbpedia.org/resource/WEVU-LP
+0,5,WBGR-LP,http://dbpedia.org/resource/Lp_space,http://dbpedia.org/resource/WBGR-LP
+0,8,KJCN-LP,http://dbpedia.org/resource/Lp_space,http://dbpedia.org/resource/KJCN-CA http://dbpedia.org/resource/K23CL http://dbpedia.org/resource/KJCN-LP http://dbpedia.org/resource/K51GB http://dbpedia.org/resource/KJCN http://dbpedia.org/resource/K22EE

@@ -1,0 +1,4 @@
+F1: 0.81818,Precision: 0.81818,Recall: 0.81818,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,4,Skopje,http://dbpedia.org/resource/FK_Metalurg_Skopje,http://dbpedia.org/resource/FK_Skopje http://dbpedia.org/resource/MIK_Skopje
+1,7,Metalurg,http://dbpedia.org/resource/FC_Metalurh_Zaporizhya,http://dbpedia.org/resource/Metalurg_Skopje http://dbpedia.org/resource/FK_Metalurg_Skopje

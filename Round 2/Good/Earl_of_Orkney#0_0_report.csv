@@ -1,0 +1,7 @@
+F1: 0.77273,Precision: 0.77273,Recall: 0.77273,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,18,Paul Thorfinnsson,http://fr.dbpedia.org/resource/Hlodvir_Thorfinnsson,"http://dbpedia.org/resource/Paul_and_erlend_thorfinnsson http://dbpedia.org/resource/Erlend_Thorfinnsson,_Earl_of_Orkney http://dbpedia.org/resource/Paul_Thorfinnsson http://dbpedia.org/resource/Erlend_Thorfinnsson http://dbpedia.org/resource/Paul_and_Erlend_Thorfinnsson"
+0,19,Erlend Thorfinnsson,http://fr.dbpedia.org/resource/Erlend_Thorfinnsson,"http://dbpedia.org/resource/Paul_and_erlend_thorfinnsson http://dbpedia.org/resource/Erlend_Thorfinnsson,_Earl_of_Orkney http://dbpedia.org/resource/Paul_Thorfinnsson http://dbpedia.org/resource/Erlend_Thorfinnsson http://dbpedia.org/resource/Paul_and_Erlend_Thorfinnsson"
+0,28,Harald Eiriksson,http://dbpedia.org/resource/Haakon_Ericsson,"http://dbpedia.org/resource/Harald_the_Young http://dbpedia.org/resource/Harald_Eiriksson http://dbpedia.org/resource/Haraldr_Eiríksson http://dbpedia.org/resource/Harald_III,_Earl_of_Orkney http://dbpedia.org/resource/Harald_Eiríksson http://dbpedia.org/resource/Haraldr_III,_Earl_of_Orkney"
+0,29,David Haraldsson,http://dbpedia.org/resource/Erlend_Haraldsson,http://dbpedia.org/resource/David_Haraldsson
+0,30,Jon Haraldsson,http://dbpedia.org/resource/Erlend_Haraldsson,http://dbpedia.org/resource/Jon_Haraldsson http://dbpedia.org/resource/John_I_of_Orkney http://dbpedia.org/resource/Jón_Haraldsson

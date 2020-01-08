@@ -1,0 +1,4 @@
+F1: 0.33333,Precision: 0.33333,Recall: 0.33333,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,Nanterre-UniversitÃ© toward Paris-St.-Lazare,http://dbpedia.org/resource/Paris_Nanterre_University,http://dbpedia.org/resource/Gare_de_Nanterre-Université
+0,4,Sartrouville toward Cergy-le-Haut or Poissy,http://dbpedia.org/resource/Cergy,http://dbpedia.org/resource/Gare_de_Sartrouville http://dbpedia.org/resource/Sartrouville_(Paris_RER) http://dbpedia.org/resource/Sartrouville_railway_station http://dbpedia.org/resource/Sartrouville_(SNCF)

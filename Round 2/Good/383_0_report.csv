@@ -1,0 +1,8 @@
+F1: 0.96629,Precision: 0.96629,Recall: 0.96629,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,16,Information Systems Journal,http://dbpedia.org/resource/Information_Systems_(journal),http://dbpedia.org/resource/Journal_of_Information_Systems http://dbpedia.org/resource/Information_Systems_Journal
+0,69,IEEE Transactions on Control Systems and Technology,http://dbpedia.org/resource/IEEE_Transactions_on_Control_Systems_Technology,http://dbpedia.org/resource/IEEE_Transactions_on_Control_Systems_and_Technology http://dbpedia.org/resource/IEEE_Transactions_on_Control_Systems_and_Technologies
+0,96,Hypertension in Pregnancy,http://dbpedia.org/resource/Hypertension_in_Pregnancy_(journal),http://dbpedia.org/resource/Hypertension_in_Pregnancy
+0,137,Herpetologica,http://dbpedia.org/resource/Bibliotheca_Herpetologica,http://dbpedia.org/resource/Herpetologica
+0,146,Health Risk & Society,"http://dbpedia.org/resource/Health,_Risk_&_Society",http://dbpedia.org/resource/Health_Risk_&_Society http://dbpedia.org/resource/Health_Risk_&_Society_Journal
+0,163,HLA,,http://dbpedia.org/resource/HLA_(journal) http://dbpedia.org/resource/Tissue_Antigens

@@ -1,0 +1,5 @@
+"F1: 0.85714","Precision: 0.85714","Recall: 0.85714"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","9","W. Jones","http://dbpedia.org/resource/William_Jones_(statesman)","http://dbpedia.org/resource/Walter_Jones_(Virginia) http://dbpedia.org/resource/Walter_Jones_(Virginia_politician) http://dbpedia.org/resource/Walter_Jones_(congressman)"
+"0","15","T. M. Davis","http://dbpedia.org/resource/Jonathan_M._Davis","http://dbpedia.org/resource/Thomas_M_Davis http://dbpedia.org/resource/Tom_Davis_III http://dbpedia.org/resource/Thomas_M._Davis http://dbpedia.org/resource/Thomas_M._Davis_III http://dbpedia.org/resource/Thomas_Davis_III"
+"0","20","S. Pagdilao","http://de.dbpedia.org/resource/S._Sanjeeth","http://dbpedia.org/resource/Samuel_Pagdilao http://dbpedia.org/resource/Samuel_Pagdilao,_Jr."

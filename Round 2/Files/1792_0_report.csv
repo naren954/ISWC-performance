@@ -1,0 +1,5 @@
+"F1: 0.92105","Precision: 0.92105","Recall: 0.92105"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","20","Garzón","http://dbpedia.org/resource/Garzón,_Huila","http://dbpedia.org/resource/Garzon_(Colombia) http://dbpedia.org/resource/Garzón_(Colombia)"
+"0","29","Cuítiva, Boyacá","http://dbpedia.org/resource/Cuítiva","http://dbpedia.org/resource/Cuitiva http://dbpedia.org/resource/Cuítiva,_Boyacá http://dbpedia.org/resource/Cuitiva,_Boyacá http://dbpedia.org/resource/Cuitiva,_Boyaca"
+"0","31","Cuítiva, Boyacá","http://dbpedia.org/resource/Cuítiva","http://dbpedia.org/resource/Cuitiva http://dbpedia.org/resource/Cuítiva,_Boyacá http://dbpedia.org/resource/Cuitiva,_Boyacá http://dbpedia.org/resource/Cuitiva,_Boyaca"

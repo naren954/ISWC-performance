@@ -1,0 +1,27 @@
+F1: 0.77477,Precision: 0.77477,Recall: 0.77477,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Thinking of You,http://dbpedia.org/resource/Thinking_of_You_(Katy_Perry_song),http://dbpedia.org/resource/Thinking_of_You_(Loggins_and_Messina_song)
+0,2,Thinking of You,http://dbpedia.org/resource/Thinking_of_You_(Katy_Perry_song),"http://dbpedia.org/resource/Thinking_of_You_(Earth,_Wind_&_Fire_song) http://dbpedia.org/resource/Thinking_of_You_(Earth,_Wind_and_Fire_song)"
+0,6,Thinking About You,http://dbpedia.org/resource/Thinking_About_You_(Norah_Jones_song),http://dbpedia.org/resource/Thinking_About_You_(Whitney_Houston_song)
+0,13,Think It Over,http://dbpedia.org/resource/Think_It_Over_(The_Cars_song),http://dbpedia.org/resource/Think_It_Over_(Cissy_Houston_song)
+0,14,Think It Over,http://dbpedia.org/resource/Think_It_Over_(The_Cars_song),http://dbpedia.org/resource/Think_It_Over
+0,19,Think,http://dbpedia.org/resource/Think_(Aretha_Franklin_song),http://dbpedia.org/resource/Think_(Lyn_Collins_song) http://dbpedia.org/resource/Think_(About_It)
+0,24,Things Can Only Get Better,http://dbpedia.org/resource/Things_Can_Only_Get_Better_(D:Ream_song),http://dbpedia.org/resource/Things_Can_Only_Get_Better_(Howard_Jones_song)
+0,36,They Don't Know,http://dbpedia.org/resource/They_Don't_Know_(Paul_Wall_song),http://dbpedia.org/resource/They_Don't_Know_(Kirsty_MacColl_song) http://dbpedia.org/resource/They_Don’t_Know http://dbpedia.org/resource/They_Don't_Know_(Tracey_Ullman_song)
+0,37,They Don't Know,http://dbpedia.org/resource/They_Don't_Know_(Paul_Wall_song),http://dbpedia.org/resource/They_Don't_Know_(Jon_B._song) http://dbpedia.org/resource/They_Don't_Know_(Jon_B_song)
+0,45,These Foolish Things,http://dbpedia.org/resource/Love_(Makes_Me_Do_Foolish_Things),http://dbpedia.org/resource/These_Foolish_Things_(Remind_Me_Of_You) http://dbpedia.org/resource/These_Foolish_Things http://dbpedia.org/resource/These_Foolish_Things_(Remind_Me_of_You) http://dbpedia.org/resource/These_Foolish_Things_Remind_Me_of_You
+0,46,These Eyes,http://dbpedia.org/resource/Behind_These_Hazel_Eyes,http://dbpedia.org/resource/These_Eyes_(The_Guess_Who_song) http://dbpedia.org/resource/These_Eyes http://dbpedia.org/resource/These_Eyes_(song)
+0,48,These Days,http://dbpedia.org/resource/These_Days_(Bon_Jovi_song),http://dbpedia.org/resource/These_Days_(Bardot_song)
+0,53,There You Are,http://dbpedia.org/resource/There_You_Are_(Martina_McBride_song),http://dbpedia.org/resource/There_You_Are_(Willie_Nelson_song)
+0,56,There She Goes,http://dbpedia.org/resource/There_She_Goes_(Taio_Cruz_song),http://dbpedia.org/resource/There_She_Goes_(Babyface_song)
+0,57,There She Goes,http://dbpedia.org/resource/There_She_Goes_(Taio_Cruz_song),http://dbpedia.org/resource/There_She_Goes http://dbpedia.org/resource/There_She_Goes_(Sixpence_None_the_Richer_song)
+0,59,There It Is,http://dbpedia.org/resource/There_It_Is_(Ginuwine_song),http://dbpedia.org/resource/There_It_Is_(James_Brown_song)
+0,64,There Goes a Tenner,,http://dbpedia.org/resource/There_Goes_a_Tenner
+0,67,There Goes My Baby,http://dbpedia.org/resource/There_Goes_My_Baby_(Usher_song),http://dbpedia.org/resource/There_Goes_My_Baby_(The_Drifters_song) http://dbpedia.org/resource/There_Goes_My_Baby_(Drifters_song)
+0,68,There Goes,http://dbpedia.org/resource/There_She_Goes_(Taio_Cruz_song),http://dbpedia.org/resource/There_Goes
+0,72,There's a Story,http://dbpedia.org/resource/That's_My_Story_(song),http://dbpedia.org/resource/There's_a_Story_(Goin'_'Round)
+0,79,There's Nothing I Can Say,"http://dbpedia.org/resource/Eh,_Eh_(Nothing_Else_I_Can_Say)",http://dbpedia.org/resource/There's_Nothing_I_Can_Say
+0,92,Then What?,http://dbpedia.org/resource/So_What_(Pink_song),http://dbpedia.org/resource/Then_What?
+0,96,Theme to Neighbours,http://dbpedia.org/resource/Neighbours_theme_song,http://dbpedia.org/resource/Stephanie_Angelini http://dbpedia.org/resource/Theme_to_Neighbours
+0,99,Theme from S.W.A.T.,http://dbpedia.org/resource/Themes_from_William_Blake's_The_Marriage_of_Heaven_and_Hell,"http://dbpedia.org/resource/Theme_from_""S.W.A.T."" http://dbpedia.org/resource/Theme_From_""S.W.A.T."" http://dbpedia.org/resource/Theme_from_""S_W_A_T_"" http://dbpedia.org/resource/Theme_from_""SWAT_"" http://dbpedia.org/resource/Theme_from_S.W.A.T. http://dbpedia.org/resource/Theme_from_""S._W._A._T._"""
+0,104,Them Heavy People,,http://dbpedia.org/resource/Them_Heavy_People http://dbpedia.org/resource/Heavy_people

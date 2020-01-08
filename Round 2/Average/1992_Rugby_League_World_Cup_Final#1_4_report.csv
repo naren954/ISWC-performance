@@ -1,0 +1,4 @@
+F1: 0.75000,Precision: 0.75000,Recall: 0.75000,,
+Col,Row,Value,Submitted URI,Correct URI's
+4,2,"Pioneer Oval, Parkes",http://dbpedia.org/resource/Unley_Oval,http://dbpedia.org/resource/Pioneer_Oval
+4,6,"Lloyd Robson Oval, Port Moresby",http://dbpedia.org/resource/PNG_Football_Stadium,http://dbpedia.org/resource/Lloyd_Robson_Stadium http://dbpedia.org/resource/Lloyd_Robson_Oval

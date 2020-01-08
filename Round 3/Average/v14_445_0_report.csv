@@ -1,0 +1,7 @@
+F1: 0.66667,Precision: 0.66667,Recall: 0.66667,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,E. Gomez,http://fr.dbpedia.org/resource/Esperanza_Gomez,http://dbpedia.org/resource/Esperanza_Gómez http://dbpedia.org/resource/Esperanza_Gomez
+0,3,E. Akira,http://dbpedia.org/resource/Asa_Akira,http://dbpedia.org/resource/Fareeza_Terunuma http://dbpedia.org/resource/Yūka_Ōsawa http://dbpedia.org/resource/Yuka_Osawa http://dbpedia.org/resource/Hitomi_Nishikawa http://dbpedia.org/resource/Elly_Akira
+0,11,C. Bella,http://de.dbpedia.org/resource/Cristina_Bella,http://dbpedia.org/resource/Christina_Bella http://dbpedia.org/resource/Krisztina_Szegedi http://dbpedia.org/resource/Cristina_Bella
+0,13,C. Cummz,http://de.dbpedia.org/resource/Courtney_Cummz,http://dbpedia.org/resource/Courtney_Cummz
+0,15,C. Claire,http://pt.dbpedia.org/resource/Claudia_Claire,http://dbpedia.org/resource/Claudia_Claire

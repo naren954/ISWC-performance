@@ -1,0 +1,38 @@
+F1: 0.59091,Precision: 0.59091,Recall: 0.59091,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,USS PGM-32,http://dbpedia.org/resource/USS_PGM-7,http://dbpedia.org/resource/USS_PGM-32
+0,2,USS PGM-11,http://dbpedia.org/resource/USS_PGM-7,http://dbpedia.org/resource/USS_PGM-11
+0,3,USS PGM-10,http://dbpedia.org/resource/USS_PGM-7,http://dbpedia.org/resource/USS_PGM-10
+0,5,USS PCS-1405,http://dbpedia.org/resource/USS_PCS-1376,http://dbpedia.org/resource/USC&GS_Bowie http://dbpedia.org/resource/USS_PC-1405 http://dbpedia.org/resource/USC&GS_Bowie_(CSS_27) http://dbpedia.org/resource/USS_PCS-1405 http://dbpedia.org/resource/PC-1405 http://dbpedia.org/resource/PCS-1405
+0,9,USS PC-817,http://dbpedia.org/resource/USS_PC-1129,http://dbpedia.org/resource/USS_Welch_(PC-817) http://dbpedia.org/resource/USS_PC-817 http://dbpedia.org/resource/PC-817
+0,11,USS PC-568,http://dbpedia.org/resource/USS_PC-565,http://dbpedia.org/resource/USS_Altus http://dbpedia.org/resource/USS_Altus_(PC-568) http://dbpedia.org/resource/USS_PC-568
+0,13,USS PC-558,http://dbpedia.org/resource/USS_PC-598,http://dbpedia.org/resource/PC-558 http://dbpedia.org/resource/USS_PC-558
+0,14,USS PC-552,http://dbpedia.org/resource/USS_PC-565,http://dbpedia.org/resource/USS_PC-552
+0,16,USS PC-465,http://dbpedia.org/resource/USS_PC-565,http://dbpedia.org/resource/PC-465 http://dbpedia.org/resource/USS_Paragould_(PC-465) http://dbpedia.org/resource/USS_PC-465 http://dbpedia.org/resource/ARV_Pulpo_(P-7) http://dbpedia.org/resource/USS_Paragould
+0,19,USS PC-1217,http://dbpedia.org/resource/USS_PC-1119,http://dbpedia.org/resource/USS_PC-1217
+0,20,USS PC-1181,http://dbpedia.org/resource/USS_PC-1129,http://dbpedia.org/resource/USS_PC-1181 http://dbpedia.org/resource/PC-1181 http://dbpedia.org/resource/Wildwood_(PC-1181) http://dbpedia.org/resource/USS_Wildwood_(PC-1181) http://dbpedia.org/resource/USS_Wildwood
+0,21,USS PC-1179,http://dbpedia.org/resource/USS_PC-1129,http://dbpedia.org/resource/USS_PC-1179 http://dbpedia.org/resource/USS_Morris_(PC-1179)
+0,22,USS PC-1168,http://dbpedia.org/resource/USS_PC-1129,http://dbpedia.org/resource/ROCS_Ching_Kiang http://dbpedia.org/resource/ROCS_Ching_Kiang_(PC-116) http://dbpedia.org/resource/USS_PC-1168
+0,30,USS Ozette,http://dbpedia.org/resource/USS_Ozette_(ID-3985),http://dbpedia.org/resource/USS_Ozette_(YTM-541) http://dbpedia.org/resource/USS_Ozette_(YTB-541)
+0,32,USS Ozark,http://dbpedia.org/resource/USS_Ozark_(LSV-2),http://dbpedia.org/resource/USS_Ozark_(1864) http://dbpedia.org/resource/USS_Ozark_(1863)
+0,35,USS Oxford,http://dbpedia.org/resource/USS_Oxford_(APA-189),http://dbpedia.org/resource/USS_Oxford_(AG-159) http://dbpedia.org/resource/SS_Samuel_R._Aitken http://dbpedia.org/resource/USS_Oxford_(AGTR-1)
+0,36,USS Owl,http://dbpedia.org/resource/USS_Owl_(AM-2),http://dbpedia.org/resource/LSIL-982 http://dbpedia.org/resource/USS_Owl_(MHC-35) http://dbpedia.org/resource/AMCU-35 http://dbpedia.org/resource/USS_Owl_(AMCU-35) http://dbpedia.org/resource/MHC-35 http://dbpedia.org/resource/LCI(L)-982 http://dbpedia.org/resource/USS_LCI(L)-982 http://dbpedia.org/resource/USS_Owl_(AMCU–35)
+0,37,USS Owasco,http://dbpedia.org/resource/USCGC_Owasco_(WHEC-39),http://dbpedia.org/resource/USS_Owasco_(1861) http://dbpedia.org/resource/USS_Owasco
+0,46,USS Ostrich,http://dbpedia.org/resource/USS_Ostrich_(AMc-51),http://dbpedia.org/resource/USS_Ostrich_(YMS-430) http://dbpedia.org/resource/YMS-430 http://dbpedia.org/resource/USS_Ostrich_(AMS-29) http://dbpedia.org/resource/USS_Ostrich_(MSCO-29) http://dbpedia.org/resource/USS_Ostrich_(MSC(O)-29) http://dbpedia.org/resource/USS_YMS-430
+0,49,USS Ossipee,http://dbpedia.org/resource/USS_Ossipee_(WPG-50),http://dbpedia.org/resource/USS_Ossipee_(1861)
+0,50,USS Osprey,http://dbpedia.org/resource/HMS_Osprey_(1897),http://dbpedia.org/resource/USS_Osprey_(MHC-51)
+0,51,USS Osprey,http://dbpedia.org/resource/HMS_Osprey_(1897),http://dbpedia.org/resource/USS_Osprey_(MSCO-28) http://dbpedia.org/resource/YMS-422 http://dbpedia.org/resource/USS_Osprey_(MSC(O)-28) http://dbpedia.org/resource/JDS_Yakushima_(YTE-10) http://dbpedia.org/resource/USS_Osprey_(AMS-28) http://dbpedia.org/resource/JDS_Yakushima_(MSC-658) http://dbpedia.org/resource/USS_YMS-422 http://dbpedia.org/resource/USS_Osprey_(YMS-422)
+0,52,USS Osprey,http://dbpedia.org/resource/HMS_Osprey_(1897),http://dbpedia.org/resource/AM-56 http://dbpedia.org/resource/USS_Osprey_(AM-56)
+0,56,USS Osceola,http://dbpedia.org/resource/USS_Osceola_(YT-129),http://dbpedia.org/resource/USS_Osceola_(1863)
+0,59,USS Osage,http://dbpedia.org/resource/USS_Osage_(LSV-3),http://dbpedia.org/resource/USS_Osage_(1863)
+0,60,USS Ortolan,http://dbpedia.org/resource/USS_Ortolan_(AMCU-34),http://dbpedia.org/resource/USS_Ortolan_(ASR-22)
+0,62,USS Ortolan,http://dbpedia.org/resource/USS_Ortolan_(AMCU-34),http://dbpedia.org/resource/ASR-5 http://dbpedia.org/resource/USS_Ortolan_(ASR-5) http://dbpedia.org/resource/Minesweeper_No._45 http://dbpedia.org/resource/AM-45 http://dbpedia.org/resource/USS_Ortolan_(AM-45)
+0,66,USS Orion,http://dbpedia.org/resource/USS_Orion_(AC-11),http://dbpedia.org/resource/USS_Orion_(AS-18)
+0,68,USS Oriole,http://dbpedia.org/resource/USS_Oriole_(AMCU-33),http://dbpedia.org/resource/USS_Oriole_(MHC-55) http://dbpedia.org/resource/ROCS_Yung_Jin_(MHC-1310)
+0,70,USS Oriole,http://dbpedia.org/resource/USS_Oriole_(AMCU-33),http://dbpedia.org/resource/USS_Oriole_(AT-136) http://dbpedia.org/resource/Minesweeper_No._7 http://dbpedia.org/resource/USS_Oriole_(AM-7) http://dbpedia.org/resource/USS_Oriole_(ATO-136) http://dbpedia.org/resource/AM-7 http://dbpedia.org/resource/ATO-136 http://dbpedia.org/resource/AT-136
+0,74,USS Orca,http://dbpedia.org/resource/USS_Orca_(SP-726),http://dbpedia.org/resource/Ethiopia_(A–01) http://dbpedia.org/resource/Ethiopia_(A-01) http://dbpedia.org/resource/USS_Orca_(AVP-49)
+0,78,USS Onward,http://dbpedia.org/resource/USS_Onward_(SP-311),http://dbpedia.org/resource/USS_Onward_(1852)
+0,82,USS Onondaga,http://dbpedia.org/resource/USRC_Onondaga_(1898),http://dbpedia.org/resource/USS_Onondaga_(1863) http://dbpedia.org/resource/USS_Onondaga_(1864-1867) http://dbpedia.org/resource/French_ship_Onondaga_(1867) http://dbpedia.org/resource/FS_Onondaga http://dbpedia.org/resource/USS_Onondaga_(1864)
+0,85,USS Oneida,http://dbpedia.org/resource/USS_Oneida_(APA-221),http://dbpedia.org/resource/USS_Oneida_(1861)
+0,86,USS Ommaney Bay,http://dbpedia.org/resource/USS_Oyster_Bay_(AGP-6),http://dbpedia.org/resource/USS_Ommaney_Bay http://dbpedia.org/resource/USS_Ommaney_Bay_(CVE-79)
+0,88,USS Omaha,http://dbpedia.org/resource/USS_Omaha_(CL-4),http://dbpedia.org/resource/USS_Omaha_(1869) http://dbpedia.org/resource/USS_Astoria_(1867)

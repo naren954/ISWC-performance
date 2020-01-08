@@ -1,0 +1,5 @@
+"F1: 0.57143","Precision: 0.57143","Recall: 0.57143"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","3","E. Williams","http://dbpedia.org/resource/Emlyn_Williams","http://dbpedia.org/resource/Esther_Jane_Williams http://dbpedia.org/resource/Esther_Wilson http://dbpedia.org/resource/Esther_Williams"
+"0","6","B. Kerr","http://dbpedia.org/resource/Bill_Kerr_(footballer)","http://dbpedia.org/resource/Beatrice_Maude_Williams http://dbpedia.org/resource/Beatrice_Maude_Kerr http://dbpedia.org/resource/Beatrice_Williams http://dbpedia.org/resource/Beatrice_Kerr"
+"0","7","A. Kellermann","http://dbpedia.org/resource/Bernhard_Kellermann","http://dbpedia.org/resource/Annette_Kellerman http://dbpedia.org/resource/Annette_Kellermann"

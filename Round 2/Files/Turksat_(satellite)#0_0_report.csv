@@ -1,0 +1,5 @@
+"F1: 0.66667","Precision: 0.66667","Recall: 0.66667"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","2","TÃ¼rksat 1A","http://dbpedia.org/resource/Türksat_4A","http://dbpedia.org/resource/Türksat_1A"
+"0","9","TÃ¼rksat 5A","http://dbpedia.org/resource/Türksat_4A","http://dbpedia.org/resource/Türksat_5A"
+"0","10","TÃ¼rksat 6A","http://dbpedia.org/resource/Türksat_4A","http://dbpedia.org/resource/Türksat_6A"

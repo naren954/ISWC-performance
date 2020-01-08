@@ -1,0 +1,7 @@
+F1: 0.91228,Precision: 0.91228,Recall: 0.91228,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,J. Johnson,http://dbpedia.org/resource/Joe_Johnson_(basketball),http://dbpedia.org/resource/Jack_Johnson_(coach) http://dbpedia.org/resource/C._C._Johnson
+0,3,J. Hollenback,http://dbpedia.org/resource/Bill_Hollenback,http://dbpedia.org/resource/Jack_Hollenback
+0,8,J. Gregory,http://dbpedia.org/resource/Jack_Gregory_(athlete),http://dbpedia.org/resource/Jack_Gregory_(American_football_coach)
+0,15,J. Forsyth,http://dbpedia.org/resource/John_Forsyth_(footballer),http://dbpedia.org/resource/Jack_Forsyth
+0,52,J. Kennedy,http://dbpedia.org/resource/John_Kennedy_(Scottish_footballer),http://dbpedia.org/resource/J.K._Kennedy

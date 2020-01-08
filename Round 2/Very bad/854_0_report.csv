@@ -1,0 +1,140 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,"Waterville, Washington","http://dbpedia.org/resource/Waterville,_Washington",http://sws.geonames.org/5815184/
+0,2,"Washougal, Washington","http://dbpedia.org/resource/Washougal,_Washington",http://sws.geonames.org/5815136/
+0,3,"Warden, Washington","http://dbpedia.org/resource/Warden,_Washington",http://sws.geonames.org/5815020/
+0,4,"Wapato, Washington","http://dbpedia.org/resource/Wapato,_Washington",http://sws.geonames.org/5814992/
+0,5,"Walla Walla, Washington","http://dbpedia.org/resource/Walla_Walla,_Washington",http://sws.geonames.org/5814916/
+0,6,"Waitsburg, Washington","http://dbpedia.org/resource/Waitsburg,_Washington",http://sws.geonames.org/5814871/
+0,7,"Vancouver, Washington","http://dbpedia.org/resource/Vancouver,_Washington",http://sws.geonames.org/5814616/
+0,8,"Vader, Washington","http://dbpedia.org/resource/Vader,_Washington",http://sws.geonames.org/5814542/
+0,9,"University Place, Washington","http://dbpedia.org/resource/University_Place,_Washington",http://sws.geonames.org/5814450/
+0,10,"Union Gap, Washington","http://dbpedia.org/resource/Union_Gap,_Washington",http://sws.geonames.org/5814419/
+0,11,"Twisp, Washington","http://dbpedia.org/resource/Twisp,_Washington",http://sws.geonames.org/5814307/
+0,12,"Tumwater, Washington","http://dbpedia.org/resource/Tumwater,_Washington",http://sws.geonames.org/5814095/
+0,13,"Tukwila, Washington","http://dbpedia.org/resource/Tukwila,_Washington",http://sws.geonames.org/5814043/
+0,14,"Toppenish, Washington","http://dbpedia.org/resource/Toppenish,_Washington",http://sws.geonames.org/5813747/
+0,15,"Tonasket, Washington","http://dbpedia.org/resource/Tonasket,_Washington",http://sws.geonames.org/5813726/
+0,16,"Toledo, Washington","http://dbpedia.org/resource/Toledo,_Ohio",http://sws.geonames.org/5813681/
+0,17,"Tieton, Washington","http://dbpedia.org/resource/Tieton,_Washington",http://sws.geonames.org/5813532/
+0,18,"Thorp, Washington","http://dbpedia.org/resource/Thorp,_Washington",http://sws.geonames.org/5813411/
+0,19,"Tenino, Washington","http://dbpedia.org/resource/Tenino,_Washington",http://sws.geonames.org/5813207/
+0,20,"Tekoa, Washington","http://dbpedia.org/resource/Tekoa,_Washington",http://sws.geonames.org/5813161/
+0,21,"Tacoma, Washington","http://dbpedia.org/resource/Tacoma,_Washington",http://sws.geonames.org/5812944/
+0,22,"Suquamish, Washington","http://dbpedia.org/resource/Suquamish,_Washington",http://sws.geonames.org/5812723/
+0,23,"Sunnyside, Washington","http://dbpedia.org/resource/Sunnyside,_Washington",http://sws.geonames.org/5812604/
+0,24,"Sumner, Washington","http://dbpedia.org/resource/Sumner,_Washington",http://sws.geonames.org/5812543/
+0,25,"Sumas, Washington","http://dbpedia.org/resource/Sumas,_Washington",http://sws.geonames.org/5812494/
+0,26,"Sultan, Washington","http://dbpedia.org/resource/Sultan,_Washington",http://sws.geonames.org/5812483/
+0,27,"Stevenson, Washington","http://dbpedia.org/resource/Stevenson,_Washington",http://sws.geonames.org/5812177/
+0,28,"Steilacoom, Washington","http://dbpedia.org/resource/Steilacoom,_Washington",http://sws.geonames.org/5812092/
+0,29,"Starbuck, Washington","http://dbpedia.org/resource/Starbuck,_Washington",http://sws.geonames.org/5812009/
+0,30,"Stanwood, Washington","http://dbpedia.org/resource/Stanwood,_Washington",http://sws.geonames.org/5811995/
+0,31,"Sprague, Washington","http://dbpedia.org/resource/Sprague,_Washington",http://sws.geonames.org/5811747/
+0,32,"Spokane, Washington","http://dbpedia.org/resource/Spokane,_Washington",http://sws.geonames.org/5811696/
+0,33,"Spangle, Washington","http://dbpedia.org/resource/Spangle,_Washington",http://sws.geonames.org/5811590/
+0,34,"Spanaway, Washington","http://dbpedia.org/resource/Spanaway,_Washington",http://sws.geonames.org/5811581/
+0,35,"South Bend, Washington","http://dbpedia.org/resource/South_Bend,_Indiana",http://sws.geonames.org/5811211/
+0,36,"Soap Lake, Washington","http://dbpedia.org/resource/Soap_Lake,_Washington",http://sws.geonames.org/5811089/
+0,37,"Snoqualmie, Washington","http://dbpedia.org/resource/Snoqualmie,_Washington",http://sws.geonames.org/5810995/
+0,38,"Snohomish, Washington","http://dbpedia.org/resource/Snohomish,_Washington",http://sws.geonames.org/5810988/
+0,39,"Silverdale, Washington","http://dbpedia.org/resource/Silverdale,_Washington",http://sws.geonames.org/5810490/
+0,40,"Shoreline, Washington","http://dbpedia.org/resource/Shoreline,_Washington",http://sws.geonames.org/5810301/
+0,41,"Shelton, Washington","http://dbpedia.org/resource/Shelton,_Washington",http://sws.geonames.org/5810176/
+0,42,"Sequim, Washington","http://dbpedia.org/resource/Sequim,_Washington",http://sws.geonames.org/5809983/
+0,43,"Selah, Washington","http://dbpedia.org/resource/Selah,_Washington",http://sws.geonames.org/5809928/
+0,44,"Sekiu, Washington","http://dbpedia.org/resource/Sekiu,_Washington",http://sws.geonames.org/5809920/
+0,45,"Sedro-Woolley, Washington","http://dbpedia.org/resource/Sedro-Woolley,_Washington",http://sws.geonames.org/5809902/
+0,46,"SeaTac, Washington","http://dbpedia.org/resource/SeaTac,_Washington",http://sws.geonames.org/5809805/
+0,47,"Sammamish, Washington","http://dbpedia.org/resource/Sammamish,_Washington",http://sws.geonames.org/5809402/
+0,48,"Ruston, Washington","http://dbpedia.org/resource/Ruston,_Washington",http://sws.geonames.org/5809040/
+0,49,"Royal City, Washington","http://dbpedia.org/resource/Royal_City,_Washington",http://sws.geonames.org/5808939/
+0,50,"Roy, Washington","http://dbpedia.org/resource/Roy,_Washington",http://sws.geonames.org/5808931/
+0,51,"Roslyn, Washington","http://dbpedia.org/resource/Roslyn,_Washington",http://sws.geonames.org/5808841/
+0,52,"Rosalia, Washington","http://dbpedia.org/resource/Rosalia,_Washington",http://sws.geonames.org/5808796/
+0,53,"Rockport, Washington","http://dbpedia.org/resource/Rockport,_Texas",http://sws.geonames.org/5808654/
+0,54,"Rock Island, Washington","http://dbpedia.org/resource/Rock_Island,_Washington",http://sws.geonames.org/5808589/
+0,55,"Ritzville, Washington","http://dbpedia.org/resource/Ritzville,_Washington",http://sws.geonames.org/5808453/
+0,56,"Ridgefield, Washington","http://dbpedia.org/resource/Ridgefield,_Washington",http://sws.geonames.org/5808311/
+0,57,"Richland, Washington","http://dbpedia.org/resource/Richland,_Washington",http://sws.geonames.org/5808276/
+0,58,"Republic, Washington","http://dbpedia.org/resource/Republic,_Washington",http://sws.geonames.org/5808201/
+0,59,"Renton, Washington","http://dbpedia.org/resource/Renton,_Washington",http://sws.geonames.org/5808189/
+0,60,"Redmond, Washington","http://dbpedia.org/resource/Redmond,_Washington",http://sws.geonames.org/5808079/
+0,61,"Raymond, Washington","http://dbpedia.org/resource/Raymond,_Washington",http://sws.geonames.org/5807986/
+0,62,"Rainier, Washington","http://dbpedia.org/resource/Rainier,_Washington",http://sws.geonames.org/5807825/
+0,63,"Quincy, Washington","http://dbpedia.org/resource/Quincy,_Washington",http://sws.geonames.org/5807713/
+0,64,"Puyallup, Washington","http://dbpedia.org/resource/Puyallup,_Washington",http://sws.geonames.org/5807575/
+0,65,"Pullman, Washington","http://dbpedia.org/resource/Pullman,_Washington",http://sws.geonames.org/5807540/
+0,66,"Prosser, Washington","http://dbpedia.org/resource/Prosser,_Washington",http://sws.geonames.org/5807487/
+0,67,"Preston, Washington","http://dbpedia.org/resource/Preston,_Washington",http://sws.geonames.org/5807398/
+0,68,"Prescott, Washington","http://dbpedia.org/resource/Prescott,_Washington",http://sws.geonames.org/5807389/
+0,69,"Poulsbo, Washington","http://dbpedia.org/resource/Poulsbo,_Washington",http://sws.geonames.org/5807337/
+0,70,"Port Townsend, Washington","http://dbpedia.org/resource/Port_Townsend,_Washington",http://sws.geonames.org/5807239/
+0,71,"Port Orchard, Washington","http://dbpedia.org/resource/Port_Orchard,_Washington",http://sws.geonames.org/5807236/
+0,72,"Port Angeles, Washington","http://dbpedia.org/resource/Port_Angeles,_Washington",http://sws.geonames.org/5807212/
+0,73,"Pomeroy, Washington","http://dbpedia.org/resource/Pomeroy,_Washington",http://sws.geonames.org/5807169/
+0,74,"Point Roberts, Washington","http://dbpedia.org/resource/Point_Roberts,_Washington",http://sws.geonames.org/5807107/
+0,75,"Plymouth, Washington","http://dbpedia.org/resource/Plymouth,_Michigan",http://sws.geonames.org/5807068/
+0,76,"Pasco, Washington","http://dbpedia.org/resource/Pasco,_Washington",http://sws.geonames.org/5806298/
+0,77,"Parkland, Washington","http://dbpedia.org/resource/Parkland,_Washington",http://sws.geonames.org/5806253/
+0,78,"Packwood, Washington","http://dbpedia.org/resource/Packwood,_Washington",http://sws.geonames.org/5806025/
+0,79,"Pacific, Washington","http://dbpedia.org/resource/Pacific,_Washington",http://sws.geonames.org/5806017/
+0,80,"Othello, Washington","http://dbpedia.org/resource/Othello,_Washington",http://sws.geonames.org/5805879/
+0,81,"Orting, Washington","http://dbpedia.org/resource/Orting,_Washington",http://sws.geonames.org/5805849/
+0,82,"Oroville, Washington","http://dbpedia.org/resource/Oroville,_Washington",http://sws.geonames.org/5805838/
+0,83,"Onalaska, Washington","http://dbpedia.org/resource/Onalaska,_Washington",http://sws.geonames.org/5805747/
+0,84,"Omak, Washington","http://dbpedia.org/resource/Omak,_Washington",http://sws.geonames.org/5805734/
+0,85,"Okanogan, Washington","http://dbpedia.org/resource/Okanogan,_Washington",http://sws.geonames.org/5805550/
+0,86,"Ocean Shores, Washington","http://dbpedia.org/resource/Ocean_Shores,_Washington",http://sws.geonames.org/5805505/
+0,87,"Oakville, Washington","http://dbpedia.org/resource/Oakville,_Washington",http://sws.geonames.org/5805476/
+0,88,"Oak Harbor, Washington","http://dbpedia.org/resource/Oak_Harbor,_Washington",http://sws.geonames.org/5805441/
+0,89,"North Bonneville, Washington","http://dbpedia.org/resource/North_Bonneville,_Washington",http://sws.geonames.org/5804921/
+0,90,"North Bend, Washington","http://dbpedia.org/resource/North_Bend,_Washington",http://sws.geonames.org/5804915/
+0,91,"Normandy Park, Washington","http://dbpedia.org/resource/Normandy_Park,_Washington",http://sws.geonames.org/5804885/
+0,92,"Nooksack, Washington","http://dbpedia.org/resource/Nooksack,_Washington",http://sws.geonames.org/5804860/
+0,93,"Newman Lake, Washington","http://dbpedia.org/resource/Medical_Lake,_Washington",http://sws.geonames.org/5804698/
+0,94,"Newport, Washington","http://dbpedia.org/resource/Newport,_Washington",http://sws.geonames.org/5804694/
+0,95,"Newhalem, Washington","http://dbpedia.org/resource/Newhalem,_Washington",http://sws.geonames.org/5804679/
+0,96,"Newcastle, Washington",http://dbpedia.org/resource/Newcastle_upon_Tyne,http://sws.geonames.org/5804676/
+0,97,"Nespelem, Washington","http://dbpedia.org/resource/Nespelem,_Washington",http://sws.geonames.org/5804621/
+0,98,"Neah Bay, Washington","http://dbpedia.org/resource/Neah_Bay,_Washington",http://sws.geonames.org/5804537/
+0,99,"Napavine, Washington","http://dbpedia.org/resource/Napavine,_Washington",http://sws.geonames.org/5804467/
+0,100,"Naches, Washington","http://dbpedia.org/resource/Naches,_Washington",http://sws.geonames.org/5804430/
+0,101,"Mukilteo, Washington","http://dbpedia.org/resource/Mukilteo,_Washington",http://sws.geonames.org/5804306/
+0,102,"Mountlake Terrace, Washington","http://dbpedia.org/resource/Mountlake_Terrace,_Washington",http://sws.geonames.org/5804191/
+0,103,"Mount Vernon, Washington","http://dbpedia.org/resource/Mount_Vernon,_Washington",http://sws.geonames.org/5804127/
+0,104,"Mossyrock, Washington","http://dbpedia.org/resource/Mossyrock,_Washington",http://sws.geonames.org/5804022/
+0,105,"Moses Lake, Washington","http://dbpedia.org/resource/Moses_Lake,_Washington",http://sws.geonames.org/5803990/
+0,106,"Morton, Washington","http://dbpedia.org/resource/Morton,_Washington",http://sws.geonames.org/5803964/
+0,107,"Montesano, Washington","http://dbpedia.org/resource/Montesano,_Washington",http://sws.geonames.org/5803818/
+0,108,"Monroe, Washington","http://dbpedia.org/resource/Monroe,_Washington",http://sws.geonames.org/5803786/
+0,109,"Milton, Washington","http://dbpedia.org/resource/Milton,_Washington",http://sws.geonames.org/5803556/
+0,110,"Millwood, Washington","http://dbpedia.org/resource/Millwood,_Washington",http://sws.geonames.org/5803545/
+0,111,"Mill Creek, Washington","http://dbpedia.org/resource/Mill_Creek,_Washington",http://sws.geonames.org/5803457/
+0,112,"Mesa, Washington","http://dbpedia.org/resource/Mesa,_Arizona",http://sws.geonames.org/5803185/
+0,113,"Mercer Island, Washington","http://dbpedia.org/resource/Mercer_Island,_Washington",http://sws.geonames.org/5803139/
+0,114,"Medina, Washington","http://dbpedia.org/resource/Medina,_Washington",http://sws.geonames.org/5803092/
+0,115,"Medical Lake, Washington","http://dbpedia.org/resource/Medical_Lake,_Washington",http://sws.geonames.org/5803067/
+0,116,"McCleary, Washington","http://dbpedia.org/resource/McCleary,_Washington",http://sws.geonames.org/5802758/
+0,117,"Mattawa, Washington","http://dbpedia.org/resource/Mattawa,_Washington",http://sws.geonames.org/5802636/
+0,118,"Marysville, Washington","http://dbpedia.org/resource/Marysville,_Washington",http://sws.geonames.org/5802570/
+0,119,"Maryhill, Washington","http://dbpedia.org/resource/Maryhill,_Washington",http://sws.geonames.org/5802561/
+0,120,"Marblemount, Washington","http://dbpedia.org/resource/Marblemount,_Washington",http://sws.geonames.org/5802383/
+0,121,"Maple Valley, Washington","http://dbpedia.org/resource/Maple_Valley,_Washington",http://sws.geonames.org/5802340/
+0,122,"Manson, Washington","http://dbpedia.org/resource/Manson,_Washington",http://sws.geonames.org/5802291/
+0,123,"Mabton, Washington","http://dbpedia.org/resource/Mabton,_Washington",http://sws.geonames.org/5802087/
+0,124,"Lynnwood, Washington","http://dbpedia.org/resource/Lynnwood,_Washington",http://sws.geonames.org/5802049/
+0,125,"Lynden, Washington","http://dbpedia.org/resource/Lynden,_Washington",http://sws.geonames.org/5802035/
+0,126,"Longview, Washington","http://dbpedia.org/resource/Longview,_Washington",http://sws.geonames.org/5801617/
+0,127,"Long Beach, Washington","http://dbpedia.org/resource/Long_Beach,_Washington",http://sws.geonames.org/5801520/
+0,128,"Liberty Lake, Washington","http://dbpedia.org/resource/Liberty_Lake,_Washington",http://sws.geonames.org/5800870/
+0,129,"Leavenworth, Washington","http://dbpedia.org/resource/Leavenworth,_Washington",http://sws.geonames.org/5800683/
+0,130,"Laurier, Washington","http://dbpedia.org/resource/Laurier,_Washington",http://sws.geonames.org/5800594/
+0,131,"Latah, Washington","http://dbpedia.org/resource/Latah,_Washington",http://sws.geonames.org/5800545/
+0,132,"Langley, Washington","http://dbpedia.org/resource/Langley,_Washington",http://sws.geonames.org/5800475/
+0,133,"Lakewood, Washington","http://dbpedia.org/resource/Lakewood,_Washington",http://sws.geonames.org/5800420/
+0,134,"Lake Stevens, Washington","http://dbpedia.org/resource/Lake_Stevens,_Washington",http://sws.geonames.org/5800317/
+0,135,"Lake Forest Park, Washington","http://dbpedia.org/resource/Lake_Forest_Park,_Washington",http://sws.geonames.org/5800227/
+0,136,"Lacey, Washington","http://dbpedia.org/resource/Lacey,_Washington",http://sws.geonames.org/5800112/
+0,137,"Kittitas, Washington","http://dbpedia.org/resource/Kittitas,_Washington",http://sws.geonames.org/5799869/
+0,138,"Kirkland, Washington","http://dbpedia.org/resource/Kirkland,_Washington",http://sws.geonames.org/5799841/

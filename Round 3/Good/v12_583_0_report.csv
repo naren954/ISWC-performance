@@ -1,0 +1,6 @@
+F1: 0.76471,Precision: 0.76471,Recall: 0.76471,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,A. Marcano,http://dbpedia.org/resource/Jason_Marcano,http://dbpedia.org/resource/Alfredo_Marcano
+0,8,A. Phillips,http://dbpedia.org/resource/Andre_Phillips,http://dbpedia.org/resource/Al_Phillips
+0,12,A. Davis,http://it.dbpedia.org/resource/A.J._Davis,"http://dbpedia.org/resource/Al_Davis_(boxer) http://dbpedia.org/resource/Abraham_Davidoff http://dbpedia.org/resource/Al_(Bummy)_Davis http://dbpedia.org/resource/Al_""Bummy""_Davis http://dbpedia.org/resource/Albert_Abraham_Davidoff http://dbpedia.org/resource/Bummy_Davis http://dbpedia.org/resource/Al_Bummy_Davis http://dbpedia.org/resource/Albert_davidoff"
+0,16,Ó. González,http://dbpedia.org/resource/Óscar_González_Marcos,http://dbpedia.org/resource/Oscar_Gonzalez_(boxer) http://dbpedia.org/resource/Óscar_González_(boxer)

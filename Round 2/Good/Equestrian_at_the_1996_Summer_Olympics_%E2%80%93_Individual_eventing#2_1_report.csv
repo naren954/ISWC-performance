@@ -1,0 +1,4 @@
+F1: 0.80000,Precision: 0.80000,Recall: 0.80000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,2,Sally Clark,http://dbpedia.org/resource/Sally_Clark,http://dbpedia.org/resource/Sally_Clark_(equestrian)
+1,13,Mary King,"http://dbpedia.org/resource/Mary,_Princess_Royal_and_Countess_of_Harewood",http://dbpedia.org/resource/Mary_King_(equestrian)

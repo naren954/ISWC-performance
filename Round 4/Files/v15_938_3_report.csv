@@ -1,0 +1,7 @@
+"F1: 0.50000","Precision: 0.50000","Recall: 0.50000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"3","1","W. Allen","http://dbpedia.org/resource/Woody_Allen","http://dbpedia.org/resource/William_Allen_(National_Liberal_politician) http://dbpedia.org/resource/William_Allen_(Liberal_politician)"
+"3","6","R. Layton","http://dbpedia.org/resource/Richard_Layton_Butler","http://dbpedia.org/resource/Robert_E.J._Layton http://dbpedia.org/resource/Robert_Layton http://dbpedia.org/resource/Robert_E._J._Layton http://dbpedia.org/resource/Robert_""Bob""_Edward_John_Layton http://dbpedia.org/resource/Bob_Layton_(politician) http://dbpedia.org/resource/Robert_Edward_John_Layton"
+"3","8","M. Strahl","http://dbpedia.org/resource/Chuck_Strahl","http://dbpedia.org/resource/Mark_Strahl"
+"3","9","R. Katter","http://dbpedia.org/resource/Bob_Katter","http://dbpedia.org/resource/Robbie_Katter http://dbpedia.org/resource/Robert_Ignatius_Katter http://dbpedia.org/resource/Rob_Katter"
+"3","10","J. Turner","http://dbpedia.org/resource/J._M._W._Turner","http://dbpedia.org/resource/Jann_Turner"

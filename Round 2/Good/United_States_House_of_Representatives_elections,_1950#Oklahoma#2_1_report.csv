@@ -1,0 +1,3 @@
+F1: 0.88889,Precision: 0.88889,Recall: 0.88889,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,8,"Robert E. Jones, Jr.",http://dbpedia.org/resource/Robert_E._Jones_Jr.,"http://dbpedia.org/resource/Robert_E._Jones,_Jr. http://dbpedia.org/resource/Bob_E._Jones"

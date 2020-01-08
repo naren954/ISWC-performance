@@ -1,0 +1,16 @@
+F1: 0.88525,Precision: 0.88525,Recall: 0.88525,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,5,Rush,http://dbpedia.org/resource/Rush_Hour_(1998_film),http://dbpedia.org/resource/Rush_(2013_movie) http://dbpedia.org/resource/Rush_(2013) http://dbpedia.org/resource/Rush_(2013_film)
+0,18,Rebecca,http://dbpedia.org/resource/Rebecca_(musical),http://dbpedia.org/resource/Rebecca_(1940_movie) http://dbpedia.org/resource/Rebecca_(1940_film) http://dbpedia.org/resource/Rebecca_(movie)
+0,31,Posse,http://dbpedia.org/resource/Posse_Comitatus_(The_West_Wing),http://dbpedia.org/resource/Posse_(1993_movie) http://dbpedia.org/resource/Posse_(1993_film) http://dbpedia.org/resource/Posse_(movie)
+0,33,Port of New York,http://dbpedia.org/resource/Port_Authority_of_New_York_and_New_Jersey,http://dbpedia.org/resource/Port_of_New_York_(film)
+0,35,Pinocchio,http://dbpedia.org/resource/The_Adventures_of_Pinocchio_(1996_film),http://dbpedia.org/resource/Pinocchio_(film_2002) http://dbpedia.org/resource/Pinocchio_(2002_film)
+0,53,"One, Two, Three",http://dbpedia.org/resource/The_Taking_of_Pelham_One_Two_Three_(1974_film),"http://dbpedia.org/resource/One,_Two,_Three"
+0,59,North,http://dbpedia.org/resource/Norther,http://dbpedia.org/resource/North_(1994_film)
+0,65,New York,"http://dbpedia.org/resource/New_York,_New_York_(1977_film)",http://dbpedia.org/resource/New_York_(movie) http://dbpedia.org/resource/New_York_(2009_film) http://dbpedia.org/resource/New_York_(film) http://dbpedia.org/resource/New_York_(Bollywood_film)
+0,67,Network,http://dbpedia.org/resource/The_Network,"http://dbpedia.org/resource/Ecumenical_Liberation_Army http://dbpedia.org/resource/Network_(movie) http://dbpedia.org/resource/Howard_beal http://dbpedia.org/resource/I'm_as_mad_as_hell,_and_I'm_not_going_to_take_this_anymore http://dbpedia.org/resource/Union_Broadcasting_System http://dbpedia.org/resource/Network_(film) http://dbpedia.org/resource/Network_movie http://dbpedia.org/resource/NETWORK_(1976) http://dbpedia.org/resource/I'm_as_mad_as_hell,_and_I'm_not_going_to_take_this_anymore! http://dbpedia.org/resource/Network_film"
+0,68,Nayakan,http://dbpedia.org/resource/Nayakan,http://dbpedia.org/resource/Nayakan_(2010_film)
+0,87,Matilda,http://dbpedia.org/resource/Matilda_(novel),http://dbpedia.org/resource/Matilda_(film) http://dbpedia.org/resource/Matilda_(movie) http://dbpedia.org/resource/Jimmy_Karz http://dbpedia.org/resource/Amanda_Thripp http://dbpedia.org/resource/Matilda_(1996_film) http://dbpedia.org/resource/Million_Dollar_Sticky http://dbpedia.org/resource/Matilda_(1996_movie) http://dbpedia.org/resource/Jim_Karz
+0,89,Man on Fire,http://dbpedia.org/resource/Man_on_Fire_(2004_film),http://dbpedia.org/resource/Un_uomo_sotto_tiro http://dbpedia.org/resource/Samantha_Balletto http://dbpedia.org/resource/Man_on_fire_(1987_film) http://dbpedia.org/resource/Sam_Balletto http://dbpedia.org/resource/Jane_Balletto http://dbpedia.org/resource/Man_on_Fire_(1987_film)
+0,108,Lady in the Lake,http://dbpedia.org/resource/Lady_of_the_Lake_(Once_Upon_a_Time),http://dbpedia.org/resource/Lady_in_the_Lake http://dbpedia.org/resource/Lady_in_the_lake
+0,109,La Ronde,http://dbpedia.org/resource/La_Ronde_(play),http://dbpedia.org/resource/La_Ronde_(1950_film) http://dbpedia.org/resource/Roundabout_(1950_film)

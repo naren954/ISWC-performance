@@ -1,0 +1,4 @@
+"F1: 0.93548","Precision: 0.93548","Recall: 0.93548"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","2","S/2000","http://dbpedia.org/resource/Windows_2000","http://dbpedia.org/resource/S/2000_(1998_WW31)_1"
+"0","3","P/2010 A2","http://dbpedia.org/resource/354P/LINEAR","http://dbpedia.org/resource/P/2010_A2 http://dbpedia.org/resource/P/2010_A2_(LINEAR)"

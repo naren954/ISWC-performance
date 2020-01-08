@@ -1,0 +1,6 @@
+"F1: 0.78947","Precision: 0.78947","Recall: 0.78947"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","3","KGUM-FM","http://dbpedia.org/resource/.fm","http://dbpedia.org/resource/KGUM-FM"
+"0","9","KNUT","http://dbpedia.org/resource/Knut_(band)","http://dbpedia.org/resource/KNUT http://dbpedia.org/resource/KCNM-FM"
+"0","13","KSDA-FM","http://dbpedia.org/resource/.fm","http://dbpedia.org/resource/Joy_92 http://dbpedia.org/resource/KSDA http://dbpedia.org/resource/KSDA-FM"
+"0","15","KTKB-FM","http://dbpedia.org/resource/.fm","http://dbpedia.org/resource/KTKB-FM"

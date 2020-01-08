@@ -1,0 +1,8 @@
+"F1: 0.00000","Precision: 0.00000","Recall: 0.00000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","1","UK Championship","http://dbpedia.org/resource/British_Home_Championship","http://dbpedia.org/resource/UK_Championship http://dbpedia.org/resource/UK_Snooker_Championship http://dbpedia.org/resource/UK_Championship_(snooker) http://dbpedia.org/resource/List_of_UK_snooker_champions http://dbpedia.org/resource/List_of_UK_Snooker_Champions"
+"0","2","Welsh Open","http://it.dbpedia.org/resource/Welsh_Open","http://dbpedia.org/resource/Welsh_Open_(snooker) http://dbpedia.org/resource/Senator_Welsh_Championship http://dbpedia.org/resource/Regal_Welsh_Open_(snooker) http://dbpedia.org/resource/Regal_Welsh_Open http://dbpedia.org/resource/Senator_Welsh_Championship_(snooker) http://dbpedia.org/resource/Regal_Welsh_Open(snooker)"
+"0","3","China Open","http://dbpedia.org/resource/China_Open_(tennis)","http://dbpedia.org/resource/China_International_(snooker) http://dbpedia.org/resource/China_Open_(snooker)"
+"0","4","Northern Ireland Trophy","http://dbpedia.org/resource/BBC_One_Northern_Ireland","http://dbpedia.org/resource/Northern_Ireland_Classic http://dbpedia.org/resource/Northern_Ireland_Trophy"
+"0","5","Malta Cup","http://dbpedia.org/resource/Malta_(island)","http://dbpedia.org/resource/Malta_Cup"
+"0","6","Players Tour Championship[n 1]","http://dbpedia.org/resource/The_Players_Championship","http://dbpedia.org/resource/PTC1 http://dbpedia.org/resource/Players_Tour_Championship http://dbpedia.org/resource/Player_Tour_Championship"

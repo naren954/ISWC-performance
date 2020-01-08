@@ -1,0 +1,4 @@
+"F1: 0.84615","Precision: 0.84615","Recall: 0.84615"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","9","The Ref","http://dbpedia.org/resource/Pocket_Ref","http://dbpedia.org/resource/The_Ref http://dbpedia.org/resource/Hostile_Hostages"
+"1","13","The Rock","http://dbpedia.org/resource/Camp_Rock","http://dbpedia.org/resource/Stanley_Goodspeed http://dbpedia.org/resource/The_Rock_(film) http://dbpedia.org/resource/The_Rock_(movie) http://dbpedia.org/resource/Thermite_plasma http://dbpedia.org/resource/General_Hummel http://dbpedia.org/resource/Fort_Walton,_Kansas http://dbpedia.org/resource/John_Patrick_Mason http://dbpedia.org/resource/Francis_X._Hummel"

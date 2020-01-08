@@ -1,0 +1,21 @@
+F1: 0.67241,Precision: 0.67241,Recall: 0.67241,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,4,Who Needs Enemies?,http://dbpedia.org/resource/Who_Needs_Actions_When_You_Got_Words,http://dbpedia.org/resource/Who_Needs_Enemies?
+0,10,Who Is It,http://dbpedia.org/resource/Who_Is_It_(Michael_Jackson_song),"http://dbpedia.org/resource/Who_Is_It_(Bjork_song) http://dbpedia.org/resource/Who_Is_It_(Carry_My_Joy_on_the_Left,_Carry_My_Pain_on_the_Right) http://dbpedia.org/resource/Who_Is_It_(Bjoerk_song) http://dbpedia.org/resource/Who_is_It_(Bjork_song) http://dbpedia.org/resource/Who_is_It_(Carry_My_Joy_on_the_Left,_Carry_My_Pain_on_the_Right) http://dbpedia.org/resource/Who_is_It_(Björk_song) http://dbpedia.org/resource/Who_Is_It_(Björk_song) http://dbpedia.org/resource/Who_is_It_(Bjoerk_song)"
+0,14,Who I Am,http://dbpedia.org/resource/Who_I_Am_(Nick_Jonas_&_the_Administration_song),http://dbpedia.org/resource/Who_I_Am_(Lena_Katina_song)
+0,15,Who I Am,http://dbpedia.org/resource/Who_I_Am_(Nick_Jonas_&_the_Administration_song),http://dbpedia.org/resource/That's_Who_I_Am_(Rosemary's_Grandau) http://dbpedia.org/resource/Who_I_Am_(Jessica_Andrews_song)
+0,18,Who Do You Think You Are,http://dbpedia.org/resource/Who_Do_You_Think_You_Are_(Spice_Girls_song),http://dbpedia.org/resource/Who_Do_You_Think_You_Are_(Kim_Wilde_song)
+0,19,Who Do You Think You Are,http://dbpedia.org/resource/Who_Do_You_Think_You_Are_(Spice_Girls_song),http://dbpedia.org/resource/Who_Do_You_Think_You_Are_(Colette_Carr_song)
+0,20,Who Do You Think You Are,http://dbpedia.org/resource/Who_Do_You_Think_You_Are_(Spice_Girls_song),http://dbpedia.org/resource/Who_Do_You_Think_You_Are_(Candlewick_Green_song) http://dbpedia.org/resource/Who_Do_You_Think_You_Are_(Jigsaw_song)
+0,24,Who Dat,http://dbpedia.org/resource/Who_Dat_(Young_Jeezy_song),http://dbpedia.org/resource/Who_Dat_(J._Cole_song)
+0,29,Who Am I,http://dbpedia.org/resource/Who_Am_I_(Will_Young_song),http://dbpedia.org/resource/Who_Am_I?_(Casting_Crowns_song) http://dbpedia.org/resource/Who_Am_I_(Casting_Crowns_song)
+0,30,Who Am I?,http://dbpedia.org/resource/Who_Am_I_(Will_Young_song),http://dbpedia.org/resource/Who_Am_I?_(Petula_Clark_song)
+0,31,Who's the Man?,http://dbpedia.org/resource/Who's_That_Man,http://dbpedia.org/resource/Who's_the_Man?_(song)
+0,32,Who's da Man,http://dbpedia.org/resource/Who's_That_Man,http://dbpedia.org/resource/Who's_Da'_Man http://dbpedia.org/resource/Who's_da_Man http://dbpedia.org/resource/Who's_Da_Man
+0,34,Who's Your Daddy?,http://dbpedia.org/resource/I'm_Your_Daddy,http://dbpedia.org/resource/Who's_Your_Daddy?_(Toby_Keith_song)
+0,35,Who's Your Baby,http://dbpedia.org/resource/I'm_Your_Baby_Tonight,http://dbpedia.org/resource/Who's_Your_Baby
+0,37,Who's That Girl,http://dbpedia.org/resource/Who's_That_Girl_(Madonna_song),http://dbpedia.org/resource/Who's_That_Girl_(Robyn_song)
+0,38,Who's That Girl,http://dbpedia.org/resource/Who's_That_Girl_(Madonna_song),http://dbpedia.org/resource/Who's_That_Girl_(Guy_Sebastian_song)
+0,39,Who's That Girl?,http://dbpedia.org/resource/Who's_That_Girl_(Madonna_song),http://dbpedia.org/resource/Who's_That_Girl?_(Eve_song)
+0,40,Who's That Girl?,http://dbpedia.org/resource/Who's_That_Girl_(Madonna_song),http://dbpedia.org/resource/Who's_That_Girl?_(Eurythmics_song)
+0,54,Who'll Be the Next in Line,http://dbpedia.org/resource/Ev'rybody's_Gonna_Be_Happy,http://dbpedia.org/resource/Who'll_Be_The_Next_in_Line http://dbpedia.org/resource/Who'll_Be_the_Next_in_Line

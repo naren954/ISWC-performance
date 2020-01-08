@@ -1,0 +1,4 @@
+F1: 0.33333,Precision: 0.33333,Recall: 0.33333,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Dera Ghazi Khan,http://dbpedia.org/resource/Dera_Ghazi_Khan,http://dbpedia.org/resource/Dera_Ghazi_Khan_Tehsil
+0,2,Taunsa,http://dbpedia.org/resource/Taunsa_Sharif,http://dbpedia.org/resource/Tounsa_Shareef_Tehsil http://dbpedia.org/resource/Taunsa_Tehsil

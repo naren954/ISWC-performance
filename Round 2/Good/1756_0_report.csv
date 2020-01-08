@@ -1,0 +1,4 @@
+F1: 0.93939,Precision: 0.93939,Recall: 0.93939,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,Air,http://dbpedia.org/resource/United_States_Army_Air_Corps,http://dbpedia.org/resource/Air_(Stargate_Universe) http://dbpedia.org/resource/Air_(SGU) http://dbpedia.org/resource/Icarus_Base
+0,28,A Little Night Music,http://dbpedia.org/resource/A_Little_Night_Music_(Desperate_Housewives),http://dbpedia.org/resource/A_Little_Night_Music_(The_Americans)

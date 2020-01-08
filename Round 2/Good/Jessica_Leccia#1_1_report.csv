@@ -1,0 +1,4 @@
+F1: 0.83333,Precision: 0.83333,Recall: 0.83333,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,2,Rescue Me,http://dbpedia.org/resource/Rescue_Me_(American_TV_series),http://dbpedia.org/resource/Rescue_Me_(TV_show_2004) http://dbpedia.org/resource/Rescue_Me_(U.S._TV_series) http://dbpedia.org/resource/Rescue_Me_(FX_TV_show)
+1,8,Mercy,http://dbpedia.org/resource/Mercy_(Muse_song),http://dbpedia.org/resource/Mercy_(TV_series) http://dbpedia.org/resource/Mercy_(tv_show) http://dbpedia.org/resource/Mercifulness http://dbpedia.org/resource/Mercy_(TV_Series) http://dbpedia.org/resource/Mercy_(television_show)

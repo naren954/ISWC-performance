@@ -1,0 +1,13 @@
+F1: 0.83582,Precision: 0.83582,Recall: 0.83582,,
+Col,Row,Value,Submitted URI,Correct URI's
+4,9,Stay,http://dbpedia.org/resource/Stay_(Rihanna_song),"http://dbpedia.org/resource/Stay_(Just_a_Little_Bit_Longer) http://dbpedia.org/resource/Stay_(Jackson_Browne_song) http://dbpedia.org/resource/Stay_(Maurice_Williams_song) http://dbpedia.org/resource/Stay,_(song_by_The_Zodiacs) http://dbpedia.org/resource/Stay,_(song_by_The_Zodiacs"
+4,17,Something to Believe In,http://dbpedia.org/resource/Something_to_Believe_In_(Clannad_song),http://dbpedia.org/resource/Something_to_Believe_In_(Poison) http://dbpedia.org/resource/Something_to_Believe_In_(Poison_song)
+4,20,Forever,"http://dbpedia.org/resource/Forever_(Drake,_Kanye_West,_Lil_Wayne,_and_Eminem_song)",http://dbpedia.org/resource/Forever_(Sevendust_song)
+4,26,Jerusalem,http://dbpedia.org/resource/Jerusalem_(Steve_Earle_album),http://dbpedia.org/resource/Jerusalem_(Alphaville_song)
+4,31,Don't Go,http://dbpedia.org/resource/Don't_Go_(Yazoo_song),http://dbpedia.org/resource/Don't_Go_(Judas_Priest_song) http://dbpedia.org/resource/Desert_Plains_(song) http://dbpedia.org/resource/Hot_Rockin' http://dbpedia.org/resource/Point_of_Entry http://dbpedia.org/resource/Point_of_entry http://dbpedia.org/resource/Point_Of_Entry http://dbpedia.org/resource/Hot_Rockin http://dbpedia.org/resource/Don't_Go_(Judas_Priest_Song) http://dbpedia.org/resource/Desert_Plains
+4,37,Dick Figures: The Movie,http://dbpedia.org/resource/Dick_Figures,http://dbpedia.org/resource/Dftm http://dbpedia.org/resource/Dick_Figures:_The_Movie http://dbpedia.org/resource/Dick_Figures_The_Movie
+4,39,Burn It Down,http://dbpedia.org/resource/Burn_It_Down_(Linkin_Park_song),http://dbpedia.org/resource/Burn_It_Down_(A7X_song) http://dbpedia.org/resource/Burn_It_Down_(Avenged_Sevenfold_song)
+4,43,No Time,http://dbpedia.org/resource/No_Time_(Lil'_Kim_song),http://dbpedia.org/resource/No_Time_(The_Guess_Who_song) http://dbpedia.org/resource/No_Time_(Guess_Who_song)
+4,56,Vlad the Impaler,http://fr.dbpedia.org/resource/Vlad_the_Impaler,http://dbpedia.org/resource/The_West_Ryder_Pauper_Lunatic_Asylum http://dbpedia.org/resource/West_Rider_Pauper_Lunatic_Asylum http://dbpedia.org/resource/West_Ryder_Pauper_Lunatic_Asylum http://dbpedia.org/resource/WRPLA http://dbpedia.org/resource/Vlad_the_Impaler_(song)
+4,57,She Was Hot,http://dbpedia.org/resource/Who_Is_She_2_U,http://dbpedia.org/resource/She_Was_Hot
+4,67,Secret Agent Man,http://dbpedia.org/resource/Secret_Agent_Man_(The_Superjesus_song),http://dbpedia.org/resource/Secret_Agent_Man_(song)

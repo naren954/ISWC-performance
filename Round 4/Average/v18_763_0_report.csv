@@ -1,0 +1,40 @@
+F1: 0.63107,Precision: 0.63107,Recall: 0.63107,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,Winchester Town Hall,http://dbpedia.org/resource/Winchester_Town_Hall_(Massachusetts),http://dbpedia.org/resource/Winchester_Town_Hall_(New_Hampshire)
+0,4,Winchester Residential Historic District,http://dbpedia.org/resource/Downtown_Chelsea_Residential_Historic_District,http://dbpedia.org/resource/Winchester_Residential_Historic_District
+0,7,Winchester Memorial Church,http://dbpedia.org/resource/Winchester_Cathedral,http://dbpedia.org/resource/Winchester_Memorial_Church http://dbpedia.org/resource/New_Hampshire_Conservatory_of_Music_and_the_Arts
+0,8,Winchester Historic District,"http://dbpedia.org/resource/Winchester_Historic_District_(Winchester,_Virginia)","http://dbpedia.org/resource/Winchester_Historic_District_(Winchester,_Illinois)"
+0,10,Winchester Courthouse Square Historic District,http://dbpedia.org/resource/Warsaw_Courthouse_Square_Historic_District,http://dbpedia.org/resource/Winchester_Courthouse_Square_Historic_District
+0,13,Winchendon Village Historic District,http://dbpedia.org/resource/Rhinebeck_Village_Historic_District,http://dbpedia.org/resource/Winchendon_Village_Historic_District
+0,15,Wilton,http://dbpedia.org/resource/Wilton_House,"http://dbpedia.org/resource/Wilton_(Wye_Mills,_Maryland)"
+0,16,Wilton,http://dbpedia.org/resource/Wilton_House,"http://dbpedia.org/resource/Wilton_(Wilton,_Virginia)"
+0,19,Wilson Park Houses,"http://dbpedia.org/resource/Wilson_House_(Fort_Mill,_South_Carolina)",http://dbpedia.org/resource/Wilson_Park_Houses
+0,24,Wilson House,"http://dbpedia.org/resource/Wilson_House_(Fort_Mill,_South_Carolina)","http://dbpedia.org/resource/Wilson_House_(York,_South_Carolina)"
+0,25,Wilson Hall,http://dbpedia.org/resource/Shadow_Lawn_(New_Jersey),"http://dbpedia.org/resource/Wilson_Hall_(Bucksport,_Maine)"
+0,26,Wilson Hall,http://dbpedia.org/resource/Shadow_Lawn_(New_Jersey),http://dbpedia.org/resource/Wilson_Hall_(Arkansas_Tech_University)
+0,27,Wilson Central Business-Tobacco Warehouse Historic District,http://dbpedia.org/resource/Wilson_Central_Business–Tobacco_Warehouse_Historic_District,http://dbpedia.org/resource/Wilson_Central_Business-Tobacco_Warehouse_Historic_District
+0,29,Wilson Building,http://dbpedia.org/resource/John_A._Wilson_Building,"http://dbpedia.org/resource/Wilson_Building_(Dallas) http://dbpedia.org/resource/Wilson_Building_(Dallas,_Texas)"
+0,31,Wilson-Winslow House,http://dbpedia.org/resource/Isaac_Winslow_House,http://dbpedia.org/resource/Wilson-Winslow_House
+0,32,Wilson-Vines House,"http://dbpedia.org/resource/Wilson_House_(Garrison,_New_York)",http://dbpedia.org/resource/Wilson-Vines_House
+0,34,Wilson-Miller Farm,http://dbpedia.org/resource/Wilfong–Wilson_Farm,http://dbpedia.org/resource/Wilson-Miller_Farm
+0,35,Wilson-Kuykendall Farm,http://dbpedia.org/resource/Wilson–Kuykendall_Farm,http://dbpedia.org/resource/Wilson-Kuykendall_Farm
+0,37,Wilson-Finlay House,"http://dbpedia.org/resource/Wilson_House_(Garrison,_New_York)",http://dbpedia.org/resource/Wilson-Finlay_House
+0,40,Wilson's Mill Covered Bridge,http://dbpedia.org/resource/Wilkins_Mill_Covered_Bridge,http://dbpedia.org/resource/Wilson's_Mill_Covered_Bridge
+0,45,Wilmington Savings Fund Society Building,http://dbpedia.org/resource/PSFS_Building,http://dbpedia.org/resource/Wilmington_Savings_Fund_Society_Building
+0,52,Willow Grove,"http://dbpedia.org/resource/Willow_Grove_(Greensboro,_Maryland)","http://dbpedia.org/resource/Willow_Grove_(Madison_Mills,_Virginia)"
+0,56,Willow-Spence Streets Historic District,http://dbpedia.org/resource/Willow–Spence_Streets_Historic_District,http://dbpedia.org/resource/Willow-Spence_Streets_Historic_District
+0,57,Willoughby-Suydam Historic District,http://dbpedia.org/resource/Willoughby–Suydam_Historic_District,http://dbpedia.org/resource/Willoughby-Suydam_Historic_District
+0,58,Willoughby-Baylor House,http://dbpedia.org/resource/Willoughby_Gregory_House,http://dbpedia.org/resource/Willoughby-Baylor_House
+0,60,Williston,http://dbpedia.org/resource/Williston_station,"http://dbpedia.org/resource/Williston_(Orange,_Virginia)"
+0,73,Williamston Commercial Historic District,http://dbpedia.org/resource/State_Street_Commercial_Historic_District,http://dbpedia.org/resource/Williamston_Commercial_Historic_District
+0,74,Williamston-Woodland Historic District,http://dbpedia.org/resource/Downtown_Woodland_Historic_District,http://dbpedia.org/resource/Williamston-Woodland_Historic_District
+0,77,Williamson Page House,"http://dbpedia.org/resource/Williamson_House_(Louisburg,_North_Carolina)",http://dbpedia.org/resource/Williamson_Page_House
+0,80,Williamson House,"http://dbpedia.org/resource/Williamson_House_(Louisburg,_North_Carolina)","http://dbpedia.org/resource/Williamson_House_(Goshen,_New_Hampshire)"
+0,83,Williamsburg Inn,http://dbpedia.org/resource/Colonial_Williamsburg,http://dbpedia.org/resource/Williamsburg_Inn
+0,92,Williams House,"http://dbpedia.org/resource/Williams_House_(Richlands,_Virginia)","http://dbpedia.org/resource/Williams_House_(Odessa,_Delaware)"
+0,93,Williams Historic Business District,http://dbpedia.org/resource/Demopolis_Historic_Business_District,http://dbpedia.org/resource/Williams_Historic_Business_District
+0,98,Williams-Woodland Park Historic District,http://dbpedia.org/resource/Williams_Memorial_Park_Historic_District,http://dbpedia.org/resource/Williams-Woodland_Park_Historic_District
+0,99,Williams-Powell House,http://dbpedia.org/resource/John_Powell_House,http://dbpedia.org/resource/Williams-Powell_House
+0,100,Williams-Ligon House,"http://dbpedia.org/resource/William_Williams_House_(Lebanon,_Connecticut)",http://dbpedia.org/resource/Williams-Ligon_House
+0,102,Williams-Gierth House,"http://dbpedia.org/resource/William_Williams_House_(Lebanon,_Connecticut)",http://dbpedia.org/resource/Williams-Gierth_House
+0,103,Williams-Brown House and Store,http://dbpedia.org/resource/Williams–Brown_House_and_Store,http://dbpedia.org/resource/Williams-Brown_House_and_Store

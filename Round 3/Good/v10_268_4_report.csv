@@ -1,0 +1,4 @@
+F1: 0.94118,Precision: 0.94118,Recall: 0.94118,,
+Col,Row,Value,Submitted URI,Correct URI's
+4,12,J. Clark,http://dbpedia.org/resource/Jim_Clark_(Scottish_footballer),"http://dbpedia.org/resource/Jimmy_Clark http://dbpedia.org/resource/Jim_Clark_(racing_driver) http://dbpedia.org/resource/Clark,_Jim http://dbpedia.org/resource/Jim_Clark http://dbpedia.org/resource/Jim_""Jimmy""_Clark"
+4,13,J. Stewart,http://dbpedia.org/resource/Jimmy_Stewart_(racing_driver),http://dbpedia.org/resource/Jackie_Stewart http://dbpedia.org/resource/JYS http://dbpedia.org/resource/Sir_Jackie_Stewart http://dbpedia.org/resource/Sir_John_Young_Stewart http://dbpedia.org/resource/John_Young_Stewart

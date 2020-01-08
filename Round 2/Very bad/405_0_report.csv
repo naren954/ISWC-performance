@@ -1,0 +1,33 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Gödöllő,http://dbpedia.org/resource/Gödöllő,http://sws.geonames.org/9644354/
+0,2,Constantinople,http://dbpedia.org/resource/Istanbul,"http://dbpedia.org/resource/Istanbul_in_the_middle_ages http://dbpedia.org/resource/Konstantinoupolis http://dbpedia.org/resource/Κωνσταντινούπολη http://dbpedia.org/resource/قسطنطينيه http://dbpedia.org/resource/Konstantinopel http://dbpedia.org/resource/Constantinopol http://dbpedia.org/resource/Miklagarð http://dbpedia.org/resource/Constantinopolis http://dbpedia.org/resource/Asitane http://dbpedia.org/resource/Medieval_constantinople http://dbpedia.org/resource/Constantinople,_Greece http://dbpedia.org/resource/Constantinople_in_the_middle_ages http://dbpedia.org/resource/Constantinoupolis http://sws.geonames.org/745044/ http://dbpedia.org/resource/The_patriarchal_city http://dbpedia.org/resource/Constantinopoli http://dbpedia.org/resource/Konstantiniyye http://dbpedia.org/resource/Constantinopolitan http://dbpedia.org/resource/Medieval_istanbul http://dbpedia.org/resource/Constantinopel http://dbpedia.org/resource/Constantinopole http://dbpedia.org/resource/Mickelgard http://dbpedia.org/resource/Constantinople http://dbpedia.org/resource/Qustantiniyye"
+0,3,Balchik,http://dbpedia.org/resource/Balchik,http://sws.geonames.org/733515/
+0,4,Mezdra,http://dbpedia.org/resource/Mezdra,http://sws.geonames.org/729134/
+0,5,Veliki Preslav,http://dbpedia.org/resource/Veliki_Preslav,http://sws.geonames.org/727987/
+0,6,Frankfurt,http://dbpedia.org/resource/Frankfurt_(Oder),http://sws.geonames.org/6553153/
+0,7,Essen,http://dbpedia.org/resource/Essen,http://sws.geonames.org/6553024/
+0,8,Getafe,http://dbpedia.org/resource/Getafe,http://sws.geonames.org/6359291/
+0,9,"Red Bluff, California","http://dbpedia.org/resource/Red_Bluff,_California",http://sws.geonames.org/5570065/
+0,10,"Eureka, California","http://dbpedia.org/resource/Eureka,_California",http://sws.geonames.org/5563397/
+0,11,"San Jose, California","http://dbpedia.org/resource/San_Jose,_California",http://sws.geonames.org/5392171/
+0,12,San Diego,http://dbpedia.org/resource/San_Diego,http://sws.geonames.org/5391811/
+0,13,"Sacramento, California","http://dbpedia.org/resource/Sacramento,_California",http://sws.geonames.org/5389489/
+0,14,"Richmond, California","http://dbpedia.org/resource/Richmond,_California",http://sws.geonames.org/5387428/
+0,15,Los Angeles,http://dbpedia.org/resource/Los_Angeles,http://sws.geonames.org/5368361/
+0,16,"Half Moon Bay, California","http://dbpedia.org/resource/Half_Moon_Bay,_California",http://sws.geonames.org/5354943/
+0,17,"Bakersfield, California","http://dbpedia.org/resource/Bakersfield,_California",http://sws.geonames.org/5325738/
+0,18,Bielefeld,http://dbpedia.org/resource/Bielefeld,http://sws.geonames.org/3221125/
+0,19,Oslo,"http://dbpedia.org/resource/Oslo,_Minnesota",http://sws.geonames.org/3143244/
+0,20,Oslo,"http://dbpedia.org/resource/Oslo,_Minnesota",http://sws.geonames.org/3143242/
+0,21,Getafe,http://dbpedia.org/resource/Getafe,http://sws.geonames.org/3121437/
+0,22,Gödöllő,http://dbpedia.org/resource/Gödöllő,http://sws.geonames.org/3052236/
+0,23,Bielefeld,http://dbpedia.org/resource/Bielefeld,http://sws.geonames.org/2949188/
+0,24,Dresden,"http://dbpedia.org/resource/Dresden,_Kansas",http://sws.geonames.org/2935022/
+0,25,Dresden,"http://dbpedia.org/resource/Dresden,_Kansas",http://sws.geonames.org/2935020/
+0,26,Düsseldorf,http://dbpedia.org/resource/Düsseldorf,http://sws.geonames.org/2934246/
+0,27,Essen,http://dbpedia.org/resource/Essen,http://sws.geonames.org/2928810/
+0,28,Frankfurt,http://dbpedia.org/resource/Frankfurt_(Oder),http://sws.geonames.org/2925533/
+0,29,Munich,http://dbpedia.org/resource/Munich,http://sws.geonames.org/2867714/
+0,30,Arboga,http://dbpedia.org/resource/Arboga,http://sws.geonames.org/2725471/
+0,31,Gävle,http://dbpedia.org/resource/Gävle,http://sws.geonames.org/2712414/

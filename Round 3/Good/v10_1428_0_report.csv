@@ -1,0 +1,15 @@
+F1: 0.87850,Precision: 0.87850,Recall: 0.87850,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,28,WSHE-FM,http://dbpedia.org/resource/WMIB,http://dbpedia.org/resource/WSHE-FM
+0,35,WQBR,http://dbpedia.org/resource/WQBR_(AM),http://dbpedia.org/resource/WQBR_(FM) http://dbpedia.org/resource/WQBR-FM
+0,50,WNKE,,http://dbpedia.org/resource/WNKE-FM http://dbpedia.org/resource/WNKE http://dbpedia.org/resource/WPAY-FM
+0,59,WLWF,http://dbpedia.org/resource/WLVQ,http://dbpedia.org/resource/WLWF
+0,64,WLFW,,http://dbpedia.org/resource/WLFW-FM http://dbpedia.org/resource/WLFW
+0,66,WLAK,http://dbpedia.org/resource/WLKF,http://dbpedia.org/resource/WMBE http://dbpedia.org/resource/WLAK_(FM) http://dbpedia.org/resource/WLWB http://dbpedia.org/resource/WLAK_(AM)
+0,70,WKQH,,http://dbpedia.org/resource/WKQH
+0,75,WKED-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/WKED-FM
+0,80,WJIV,http://dbpedia.org/resource/WJLG,http://dbpedia.org/resource/WJIV
+0,87,WIIZ,http://dbpedia.org/resource/WASK-FM,http://dbpedia.org/resource/WIIZ
+0,94,WHLZ,http://dbpedia.org/resource/WQPD,http://dbpedia.org/resource/WHLZ
+0,96,WHBZ,http://dbpedia.org/resource/WXST,http://dbpedia.org/resource/WHBZ
+0,106,WELX-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/WELX-FM http://dbpedia.org/resource/WKSA-FM

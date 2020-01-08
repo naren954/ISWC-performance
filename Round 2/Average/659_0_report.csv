@@ -1,0 +1,9 @@
+F1: 0.74074,Precision: 0.74074,Recall: 0.74074,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,6,T. Anderson,http://dbpedia.org/resource/Tommy_Anderson_(ice_hockey),http://dbpedia.org/resource/Tyler_Anderson
+0,10,T. Anderson,http://dbpedia.org/resource/Tommy_Anderson_(ice_hockey),http://dbpedia.org/resource/Tim_Anderson_(baseball)
+0,12,R. Tapia,http://dbpedia.org/resource/Renato_Tapia,http://dbpedia.org/resource/Raimel_Tapia
+0,20,J. Bell,http://dbpedia.org/resource/James_Bell_(basketball),"http://dbpedia.org/resource/Joshua_E_Bell http://dbpedia.org/resource/Josh_Evan_Bell http://dbpedia.org/resource/Joshua_Evan_Bell http://dbpedia.org/resource/Joshua_E._Bell http://dbpedia.org/resource/Josh_Bell_(baseball,_born_1992) http://dbpedia.org/resource/Josh_E._Bell http://dbpedia.org/resource/Josh_Bell_(outfielder)"
+0,22,J. Hoffman,http://dbpedia.org/resource/Jason_Hoffman,http://dbpedia.org/resource/Jeffrey_Robert_Hoffman http://dbpedia.org/resource/Jeff_Hoffman
+0,23,J. Bradley,http://dbpedia.org/resource/Joe_Bradley_(basketball),http://dbpedia.org/resource/Jed_Bradley
+0,25,J. Jones,http://dbpedia.org/resource/Jacoby_Jones,http://dbpedia.org/resource/JaCoby_Jones http://dbpedia.org/resource/Jacoby_Jones_(baseball)

@@ -1,0 +1,4 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Transkei National Independence Party,http://dbpedia.org/resource/UK_Independence_Party,http://dbpedia.org/resource/Transkei_National_Independence_Party
+0,2,Democratic Progressive Party,http://dbpedia.org/resource/Republican_Party_(United_States),http://dbpedia.org/resource/Democratic_Progressive_Party_(Transkei)

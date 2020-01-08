@@ -1,0 +1,7 @@
+"F1: 0.16667","Precision: 0.16667","Recall: 0.16667"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","2","Thisbe","http://dbpedia.org/resource/88_Thisbe","http://dbpedia.org/resource/HMS_Thisbe_(1783)"
+"0","3","Magnificent","http://dbpedia.org/resource/The_Magnificent_Seven","http://dbpedia.org/resource/HMS_Magnificent_(1767)"
+"0","4","Juno","http://dbpedia.org/resource/Juno_(spacecraft)","http://dbpedia.org/resource/HMS_Juno_(1780)"
+"0","5","Aigle","http://dbpedia.org/resource/Aigle","http://dbpedia.org/resource/French_frigate_Aigle_(1782) http://dbpedia.org/resource/HMS_Aigle_(1782)"
+"0","7","Terpsichore","nan","http://dbpedia.org/resource/HMS_Terpsichore_(1785)"

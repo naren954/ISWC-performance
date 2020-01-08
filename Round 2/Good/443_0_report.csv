@@ -1,0 +1,5 @@
+F1: 0.95775,Precision: 0.95775,Recall: 0.95775,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,Richmond Airport,http://dbpedia.org/resource/Richmond_Airport,http://dbpedia.org/resource/Richmond_Airport_(Rhode_Island)
+0,5,Richland Airport,http://dbpedia.org/resource/Richland_Airport_(Washington),http://dbpedia.org/resource/Richland_Airport_(Wisconsin)
+0,60,Quincy Municipal Airport,http://dbpedia.org/resource/Quincy_Municipal_Airport_(Washington),http://dbpedia.org/resource/Quincy-Gadsden_Airport_Authority http://dbpedia.org/resource/Quincy_Municipal_Airport_(Florida)

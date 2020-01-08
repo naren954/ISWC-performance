@@ -1,0 +1,8 @@
+F1: 0.94737,Precision: 0.94737,Recall: 0.94737,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,19,Bascharage,http://dbpedia.org/resource/Bascharage_(commune),http://dbpedia.org/resource/Bascharage
+1,37,Hobscheid,http://dbpedia.org/resource/Habscht,http://dbpedia.org/resource/Hobscheid
+1,51,Bissen,http://dbpedia.org/resource/Saanen,http://dbpedia.org/resource/Bissen
+1,95,Bech,http://dbpedia.org/resource/Vienna,http://dbpedia.org/resource/Bech
+1,97,Fischbach,"http://dbpedia.org/resource/Fischbach,_Mersch","http://dbpedia.org/resource/Fischbach http://dbpedia.org/resource/Fischbach_(disambiguation) http://dbpedia.org/resource/Fischbach,_Luxembourg"
+1,103,Eschweiler,http://dbpedia.org/resource/Eschweiler,"http://dbpedia.org/resource/Eschweiler,_Luxembourg http://dbpedia.org/resource/Eschweiler_(disambiguation)"

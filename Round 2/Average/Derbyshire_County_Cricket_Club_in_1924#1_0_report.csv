@@ -1,0 +1,12 @@
+F1: 0.62963,Precision: 0.62963,Recall: 0.62963,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,11,J Bowden,http://dbpedia.org/resource/James_Bowden_(footballer),http://dbpedia.org/resource/Joseph_Bowden
+0,12,ST McMillan,http://dbpedia.org/resource/Randy_McMillan,http://dbpedia.org/resource/Stuart_McMillan_(footballer) http://dbpedia.org/resource/Stuart_McMillan_(cricketer)
+0,14,JS Heath,http://dbpedia.org/resource/Charles_Heath_(Monmouth),http://dbpedia.org/resource/John_Heath_(cricketer)
+0,15,AHM Jackson,http://dbpedia.org/resource/Charles_Jackson_(linebacker),"http://dbpedia.org/resource/Anthony_Mather-Jackson http://dbpedia.org/resource/Anthony_Jackson_(cricketer) http://dbpedia.org/resource/Sir_Anthony_Mather-Jackson,_6th_Baronet"
+0,18,H Elliott,http://dbpedia.org/resource/Harry_Elliott_(English_cricketer),"http://dbpedia.org/resource/Harry_Elliott http://dbpedia.org/resource/Harry_Elliott_(cricketer) http://dbpedia.org/resource/Harry_Elliott_(disambiguation) http://dbpedia.org/resource/Elliott,_Harry"
+0,19,R Pratt,http://dbpedia.org/resource/Robert_Pratt_(American_football),http://dbpedia.org/resource/Richard_Pratt_(cricketer)
+0,20,H Storer,http://dbpedia.org/resource/Chulalongkorn,"http://dbpedia.org/resource/Harry_Storer,_Jr. http://dbpedia.org/resource/Harry_Storer_junior"
+0,24,WJV Tomlinson,http://dbpedia.org/resource/Bob_Tomlinson,http://dbpedia.org/resource/Willie_Tomlinson http://dbpedia.org/resource/Billy_Tomlinson http://dbpedia.org/resource/William_Tomlinson
+0,25,EHR Bedford,http://dbpedia.org/resource/Brian_Bedford,http://dbpedia.org/resource/Edward_Bedford
+0,27,A Rose,http://dbpedia.org/resource/Alby_Rose,http://dbpedia.org/resource/Alfred_Rose_(cricketer)

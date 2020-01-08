@@ -1,0 +1,5 @@
+"F1: 0.94737","Precision: 0.94737","Recall: 0.94737"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","15","Resurrection Band","http://dbpedia.org/resource/Bauhaus_(band)","http://dbpedia.org/resource/Wendi_Kaiser http://dbpedia.org/resource/Rez_Band_(Resurrection_Band) http://dbpedia.org/resource/Wendy_Kaiser http://dbpedia.org/resource/Rez_Band http://dbpedia.org/resource/Resurrection_Band"
+"1","39","Pete Shelley","http://dbpedia.org/resource/Buzzcocks","http://dbpedia.org/resource/Pete_Shelley http://dbpedia.org/resource/Pete_Shelly http://dbpedia.org/resource/Peter_McNeish"
+"1","43","Rage","http://dbpedia.org/resource/Rage_Against_the_Machine","http://dbpedia.org/resource/Avenger_(German_band) http://dbpedia.org/resource/Refuge_(band) http://dbpedia.org/resource/Avenger_(Band) http://dbpedia.org/resource/Lingua_Mortis_Orchestra http://dbpedia.org/resource/Rage_(German_band) http://dbpedia.org/resource/Avenger_(band)"

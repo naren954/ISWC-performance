@@ -1,0 +1,12 @@
+F1: 0.61538,Precision: 0.61538,Recall: 0.61538,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,Habanera,http://dbpedia.org/resource/Habanera_(John_Harle_album),http://dbpedia.org/resource/Habanera_(carmen) http://dbpedia.org/resource/L'amour_est_un_oiseau_rebelle http://dbpedia.org/resource/L'Amour_Est_Un_Oiseau_Rebelle http://dbpedia.org/resource/Habañera_(aria) http://dbpedia.org/resource/Habanera_(aria) http://dbpedia.org/resource/Love_Is_A_Rebellious_Bird http://dbpedia.org/resource/L'amour_est_un_oiseau
+0,4,Minute Waltz,http://dbpedia.org/resource/The_Toxic_Waltz_(song),"http://dbpedia.org/resource/Waltz_in_D-flat_major,_Op._64,_No._1_(Chopin) http://dbpedia.org/resource/Minute_Waltz http://dbpedia.org/resource/Chopin_Waltz_Op._64_No._1 http://dbpedia.org/resource/Minute_waltz http://dbpedia.org/resource/Chopin_Waltz_Op._64,_No._1 http://dbpedia.org/resource/Chopin_Waltz_op._64_no._1 http://dbpedia.org/resource/Petit_Chien http://dbpedia.org/resource/Opus_64_No_1_(Chopin)"
+0,5,La Bamba [The Bamba],http://it.dbpedia.org/resource/La_Bamba_(Mongo_Santamaría),http://dbpedia.org/resource/La_Bamba_(folk_song) http://dbpedia.org/resource/La_Bamba_(song) http://dbpedia.org/resource/La_Bomba_(Song) http://dbpedia.org/resource/La_bamba_(song)
+0,6,Boombastic,http://dbpedia.org/resource/Boombastic_(album),http://dbpedia.org/resource/Bombastic_(song) http://dbpedia.org/resource/Boombastic_(song) http://dbpedia.org/resource/Mr._Boombastic_(song)
+0,7,No More Drama,http://dbpedia.org/resource/No_More_Drama,http://dbpedia.org/resource/No_More_Drama_(song) http://dbpedia.org/resource/No_More_Drama_(single)
+0,18,Why Don't We Fall In Love,http://dbpedia.org/resource/Why_Don't_We_Fall_in_Love,http://dbpedia.org/resource/Why_Don't_We_Fall_In_Love
+0,20,U Don't Have To Call,http://dbpedia.org/resource/U_Don't_Have_to_Call,http://dbpedia.org/resource/U_Don't_Have_To_Call
+0,21,Rock The Boat,http://dbpedia.org/resource/Rock_the_Boat_(Bob_Sinclar_song),http://dbpedia.org/resource/Rock_the_Boat_(Aaliyah_song)
+0,22,Predictable,http://dbpedia.org/resource/Predictable_(Delta_Goodrem_song),http://dbpedia.org/resource/Predictable_(Good_Charlotte_song) http://dbpedia.org/resource/Predictable_(Good_Charlotte_Song)
+0,25,Wish You Were Here,http://dbpedia.org/resource/Wish_You_Were_Here_(Avril_Lavigne_song),http://dbpedia.org/resource/Wish_You_Were_Here_(Incubus_song)

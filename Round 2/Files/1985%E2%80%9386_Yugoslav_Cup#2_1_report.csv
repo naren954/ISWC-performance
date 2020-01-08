@@ -1,0 +1,6 @@
+"F1: 0.50000","Precision: 0.50000","Recall: 0.50000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","2","BuduÄ\u0087nost","http://fr.dbpedia.org/resource/Alain_Le_Nost","http://dbpedia.org/resource/FK_Budućnost_Podgorica"
+"1","5","Partizan","http://dbpedia.org/resource/OFK_Beograd","http://dbpedia.org/resource/FC_Partizan_Belgrade http://dbpedia.org/resource/FK_Partizan_Belgrad http://dbpedia.org/resource/Partizan_FK http://dbpedia.org/resource/Partizan_F.C. http://dbpedia.org/resource/Partizan_FC http://dbpedia.org/resource/FK_Partizan_Belgrade http://dbpedia.org/resource/FC_Partizan http://dbpedia.org/resource/Partizan_Belgrade_FC http://dbpedia.org/resource/FK_Partizan_Beograd http://dbpedia.org/resource/Partizan_fk http://dbpedia.org/resource/Fk_partizan http://dbpedia.org/resource/Fudbalski_klub_Partizan http://dbpedia.org/resource/F.C._Partizan http://dbpedia.org/resource/FK_Partizan"
+"1","6","RadniÄ\u008Dki NiÅ¡","http://dbpedia.org/resource/National_Route_A008_(Argentina)","http://dbpedia.org/resource/FK_Radnički_Niš"
+"1","7","Vardar","http://dbpedia.org/resource/FK_Partizan","http://dbpedia.org/resource/Vardar_Skopje http://dbpedia.org/resource/FC_Vardar http://dbpedia.org/resource/FK_Vardar_Skopje http://dbpedia.org/resource/FC_Varadar http://dbpedia.org/resource/FK_Vardar"

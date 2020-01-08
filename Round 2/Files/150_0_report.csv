@@ -1,0 +1,5 @@
+"F1: 0.81250","Precision: 0.81250","Recall: 0.81250"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","3","A. François","http://dbpedia.org/resource/André_François_(footballer)","http://dbpedia.org/resource/Atilio_Francois http://dbpedia.org/resource/Atilio_François"
+"0","4","A. Pettersson","http://dbpedia.org/resource/Göta_Pettersson","http://dbpedia.org/resource/Arvid_Pettersson"
+"0","7","A. Metcalfe","http://dbpedia.org/resource/Adrian_Metcalfe","http://dbpedia.org/resource/Arthur_Metcalfe http://dbpedia.org/resource/Arthur_metcalfe"

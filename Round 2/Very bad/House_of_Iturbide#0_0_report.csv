@@ -1,0 +1,4 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,First Empire declared,http://dbpedia.org/resource/World_War_I,http://dbpedia.org/resource/Mexican_America http://dbpedia.org/resource/Mexican_Empire_(1821-1823) http://dbpedia.org/resource/First_Mexican_Empire http://dbpedia.org/resource/Great_Mexico http://dbpedia.org/resource/Gran_Mexico http://dbpedia.org/resource/Mexican_Empire_(1821–1823)
+0,2,Second Empire declared,http://dbpedia.org/resource/World_War_I,http://dbpedia.org/resource/Second_Mexican_Empire http://dbpedia.org/resource/Mexican_Empire_(1864–1867) http://dbpedia.org/resource/List_of_departments_of_the_Second_Mexican_Empire http://dbpedia.org/resource/Mexican_Empire_(1863) http://dbpedia.org/resource/2nd_Mexican_Empire http://dbpedia.org/resource/Mexican_Empire_(1864-1867)

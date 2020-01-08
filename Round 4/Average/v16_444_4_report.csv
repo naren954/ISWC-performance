@@ -1,0 +1,41 @@
+F1: 0.69048,Precision: 0.69048,Recall: 0.69048,,
+Col,Row,Value,Submitted URI,Correct URI's
+4,7,Summer,http://dbpedia.org/resource/This_Summer_(Squeeze_song),http://dbpedia.org/resource/Summer_(Calvin_Harris_song)
+4,9,Somebody to Love Me,http://dbpedia.org/resource/I_Wanna_Dance_with_Somebody_(Who_Loves_Me),http://dbpedia.org/resource/Somebody_to_Love_Me_(The_Jets_song)
+4,12,Young,http://dbpedia.org/resource/Neil_Young,http://dbpedia.org/resource/Young_(Hollywood_Undead_Song) http://dbpedia.org/resource/Young_(Hollywood_Undead_song)
+4,16,Thank U For,http://dbpedia.org/resource/Thank_U,http://dbpedia.org/resource/Thank_U_For
+4,19,Cheekah Bow Wow,http://dbpedia.org/resource/Bow_Chicka_Wow_Wow,http://dbpedia.org/resource/Cheekah_Bow_Wow_(That_Computer_Song) http://dbpedia.org/resource/Cheekah_Bow_Bow_(That_Computer_Song) http://dbpedia.org/resource/Cheekah http://dbpedia.org/resource/Cheekah_Bow_Wow
+4,23,Stand Up,http://dbpedia.org/resource/Stand_Up_(Ludacris_song),http://dbpedia.org/resource/Stand_Up_(The_Feelers_song)
+4,26,Never Let You Go,http://dbpedia.org/resource/Never_Let_You_Go_(New_Kids_on_the_Block_song),http://dbpedia.org/resource/Never_Let_You_Go_(Evermore_song)
+4,27,Step,http://dbpedia.org/resource/Step_(Kara_album),http://dbpedia.org/resource/Step_(Vampire_Weekend_song)
+4,28,I Believe,http://dbpedia.org/resource/I_Believe_(Bon_Jovi_song),http://dbpedia.org/resource/I_Believe_(EMF_song)
+4,33,Illuminati,http://es.dbpedia.org/resource/Illuminati_(canción),http://dbpedia.org/resource/Illuminati_(Madonna_song)
+4,36,Still Reminds Me,http://dbpedia.org/resource/(There's)_Always_Something_There_to_Remind_Me,http://dbpedia.org/resource/Still_Reminds_Me
+4,37,Endless,http://it.dbpedia.org/resource/Endless_(Toto),http://dbpedia.org/resource/Endless_(Inna_song)
+4,40,I Don't Want To,http://dbpedia.org/resource/I_Don't_Want_Nobody_to_Give_Me_Nothing,http://dbpedia.org/resource/I_Don't_Want_To
+4,41,Un attimo di pace,http://it.dbpedia.org/resource/Un_attimo_ancora,http://dbpedia.org/resource/9_(Eros_Ramazzotti_album) http://dbpedia.org/resource/Un_attimo_di_pace
+4,45,214,http://dbpedia.org/resource/214,http://dbpedia.org/resource/River_maya http://dbpedia.org/resource/RiverMaya http://dbpedia.org/resource/River_Maya http://dbpedia.org/resource/214_(song) http://dbpedia.org/resource/Imbecilesque http://dbpedia.org/resource/Jason_Fernandez http://dbpedia.org/resource/It's_Not_Easy_Being_Green_(Rivermaya_Album) http://dbpedia.org/resource/Jayson_Fernandez http://dbpedia.org/resource/Rivermaya
+4,49,Failure,http://dbpedia.org/resource/Failure_(Breaking_Benjamin_song),http://dbpedia.org/resource/Failure_(Sevendust_song)
+4,53,Pray,http://dbpedia.org/resource/Massive_Wonders,http://dbpedia.org/resource/Pray_(Justin_Bieber_song)
+4,55,New York,"http://dbpedia.org/resource/Theme_from_New_York,_New_York","http://dbpedia.org/resource/New_York_(Ja_Rule_song) http://dbpedia.org/resource/New_york_ja_rule_song http://dbpedia.org/resource/New_York,_New_York_(Ja_Rule_song) http://dbpedia.org/resource/New_York_(Ja_Rule_Song)"
+4,56,Guilty,http://dbpedia.org/resource/Guilty_(Barbra_Streisand_and_Barry_Gibb_song),http://dbpedia.org/resource/Guilty_(Blue_song)
+4,68,Week!,http://dbpedia.org/resource/Astral_Weeks,http://dbpedia.org/resource/Week! http://dbpedia.org/resource/Week_(Do_As_Infinity_song) http://dbpedia.org/resource/Week!_(Do_As_Infinity)
+4,76,Can't Stop Loving You,http://dbpedia.org/resource/I_Can't_Stop_Loving_You,http://dbpedia.org/resource/Can't_Stop_Loving_You http://dbpedia.org/resource/I_Can't_Stop_Lovin'_You_(Though_I_Try) http://dbpedia.org/resource/I_Can't_Stop_Loving_You_(Though_I_Try)
+4,77,Pendulum,http://dbpedia.org/resource/Pendulum_(Eberhard_Weber_album),http://dbpedia.org/resource/Pendulum_(FKA_Twigs_Song) http://dbpedia.org/resource/Pendulum_(FKA_Twigs_song) http://dbpedia.org/resource/Pendulum_(FKA_twigs_song)
+4,80,The Power of Love,http://dbpedia.org/resource/The_Power_of_Love_(Huey_Lewis_and_the_News_song),http://dbpedia.org/resource/Frankie_Goes_to_Hollywood/The_Power_Of_Love http://dbpedia.org/resource/The_Power_of_Love_(Frankie_Goes_to_Hollywood) http://dbpedia.org/resource/The_Power_Of_Love_(Frankie_Goes_to_Hollywood) http://dbpedia.org/resource/The_Power_of_Love_(Frankie_Goes_to_Hollywood_song)
+4,83,Action,http://dbpedia.org/resource/Baby_Action,http://dbpedia.org/resource/Action_(Def_Leppard_song) http://dbpedia.org/resource/Action_(Sweet_song)
+4,84,Dave Davies,http://dbpedia.org/resource/Hold_My_Hand_(Dave_Davies_song),http://dbpedia.org/resource/Dave_Davies http://dbpedia.org/resource/Rippin'_Up_Time_(album) http://dbpedia.org/resource/David_Russell_Gordon_Davies
+4,85,Make You Feel My Love,http://dbpedia.org/resource/Do_You_Feel_My_Love,http://dbpedia.org/resource/Make_You_Feel_My_Love http://dbpedia.org/resource/To_Make_You_Feel_My_Love
+4,87,Make You Feel My Love,http://dbpedia.org/resource/Do_You_Feel_My_Love,http://dbpedia.org/resource/Make_You_Feel_My_Love http://dbpedia.org/resource/To_Make_You_Feel_My_Love
+4,89,Girls,"http://dbpedia.org/resource/Girls,_Girls,_Girls_(Mötley_Crüe_song)",http://dbpedia.org/resource/Girls_(David_Bowie_song) http://dbpedia.org/resource/Girls_(Tina_Turner_song)
+4,96,See You Again,http://dbpedia.org/resource/See_You_Again_(Miley_Cyrus_song),http://dbpedia.org/resource/See_You_Again_(Carrie_Underwood_song)
+4,101,Reconsider Me,http://dbpedia.org/resource/Reconsider_Me,http://dbpedia.org/resource/Reconsider_Me_(song)
+4,102,Nobody,http://dbpedia.org/resource/I_Don't_Want_Nobody_to_Give_Me_Nothing,http://dbpedia.org/resource/Nobody_(1996_song) http://dbpedia.org/resource/Nobody_(Keith_Sweat_Song) http://dbpedia.org/resource/Nobody_(Keith_Sweat_song)
+4,106,Can't Buy Me Love,http://dbpedia.org/resource/Can't_Buy_My_Love,http://dbpedia.org/resource/Can't_Buy_Me_Love_(The_Beatles_song) http://dbpedia.org/resource/Can't_buy_me_love http://dbpedia.org/resource/Can't_Buy_me_Love http://dbpedia.org/resource/Can’t_Buy_Me_Love http://dbpedia.org/resource/Can't_Buy_Me_Love
+4,110,What About Love,http://dbpedia.org/resource/What_About_Love,http://dbpedia.org/resource/What_About_Love_(Desert_Rose_Band_song) http://dbpedia.org/resource/What_About_Love_(The_Desert_Rose_Band_song)
+4,113,Thank You,http://dbpedia.org/resource/Thank_You_(Dido_song),http://dbpedia.org/resource/Thank_You_(Busta_Rhymes_song) http://dbpedia.org/resource/The_Abstract_&_The_Dragon http://dbpedia.org/resource/I_Wanna_Thank_You
+4,117,Singularity,http://it.dbpedia.org/resource/Singularity_(singolo_Jon_Hopkins),http://dbpedia.org/resource/Unlearn_This_Hatred http://dbpedia.org/resource/Superheated_(song) http://dbpedia.org/resource/Stray_Dog_(song) http://dbpedia.org/resource/Nothing_but_a_Fool http://dbpedia.org/resource/Academic_(song) http://dbpedia.org/resource/Singularity_(New_Order_song) http://dbpedia.org/resource/Music_Complete http://dbpedia.org/resource/The_Game_(New_Order_song) http://dbpedia.org/resource/People_on_the_High_Line
+4,118,Sara,http://dbpedia.org/resource/Tegan_and_Sara,http://dbpedia.org/resource/Sara_(Fleetwood_Mac_song)
+4,120,The Promise,http://dbpedia.org/resource/Promise_(Ciara_song),http://dbpedia.org/resource/The_Promise_(When_in_Rome_song) http://dbpedia.org/resource/The_Promise_(When_In_Rome_song) http://dbpedia.org/resource/The_Promise_(When_in_Rome)
+4,122,Coming for You,http://dbpedia.org/resource/If_You're_Thinking_You_Want_a_Stranger_(There's_One_Coming_Home),http://dbpedia.org/resource/Coming_for_You_(The_Offspring_song) http://dbpedia.org/resource/Coming_for_You_(song)
+4,123,Let It Rain,http://dbpedia.org/resource/Let_It_Rain_(Mark_Chesnutt_song),http://dbpedia.org/resource/Let_It_Rain_(David_Nail_song)

@@ -1,0 +1,8 @@
+F1: 0.91892,Precision: 0.91892,Recall: 0.91892,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,5,Challenger,http://dbpedia.org/resource/Okeem_Challenger,http://dbpedia.org/resource/Challenger_(horse)
+2,6,Roberto,http://dbpedia.org/resource/Roberto_Marinho,http://dbpedia.org/resource/Roberto_(horse)
+2,7,Kingston,http://dbpedia.org/resource/Charles_Kingston,http://dbpedia.org/resource/Kingston_(horse)
+2,13,Gallinule,,http://dbpedia.org/resource/Native_hen http://dbpedia.org/resource/Gallinula http://dbpedia.org/resource/Marsh_hen http://dbpedia.org/resource/Pareudiastes http://dbpedia.org/resource/Moor_hen http://dbpedia.org/resource/Pareuduiastes http://dbpedia.org/resource/Reedhen http://dbpedia.org/resource/Native_Hen http://dbpedia.org/resource/Gallinule http://dbpedia.org/resource/Moor-Hen http://dbpedia.org/resource/Native-hen http://dbpedia.org/resource/Moorhen http://dbpedia.org/resource/Porphyriornis http://dbpedia.org/resource/Nativehen http://dbpedia.org/resource/Moor-hen http://dbpedia.org/resource/Gelinote http://dbpedia.org/resource/Moor_hens http://dbpedia.org/resource/Gelinotes
+2,42,Easton,http://dbpedia.org/resource/Nicholas_Easton,http://dbpedia.org/resource/Easton_(horse)
+2,67,Discovery,http://dbpedia.org/resource/Discovery_(apple),http://dbpedia.org/resource/Discovery_(horse)

@@ -1,0 +1,6 @@
+F1: 0.55556,Precision: 0.55556,Recall: 0.55556,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,M. al-Rashid,http://dbpedia.org/resource/Harun_al-Rashid,http://dbpedia.org/resource/Mahmud_al-Rashid
+0,4,J. Reid,http://dbpedia.org/resource/James_Reid_(Canadian_politician),http://dbpedia.org/resource/Joy-Anne_Reid http://dbpedia.org/resource/Joy_Ann_Reed http://dbpedia.org/resource/Joy_Ann_Reid http://dbpedia.org/resource/Joy-Ann_Reed http://dbpedia.org/resource/JoyAnn_Reed http://dbpedia.org/resource/Joy-Ann_Reid http://dbpedia.org/resource/Joy_Reed http://dbpedia.org/resource/Joy_Reid http://dbpedia.org/resource/JoyAnn_Reid
+0,8,A. Babak,http://dbpedia.org/resource/Aliona_Babak,http://dbpedia.org/resource/Amin_Babak
+0,9,A. Arsenault,http://dbpedia.org/resource/Bona_Arsenault,http://dbpedia.org/resource/Adrienne_Arsenault

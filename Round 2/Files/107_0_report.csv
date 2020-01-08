@@ -1,0 +1,6 @@
+"F1: 0.66667","Precision: 0.66667","Recall: 0.66667"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","4","Agathis spathulata","http://dbpedia.org/resource/Agathis_ovata","http://dbpedia.org/resource/New_Guinea_Kauri http://dbpedia.org/resource/Agathis_spathulata http://dbpedia.org/resource/New_Guinea_kauri"
+"0","5","Agathis silbae","http://dbpedia.org/resource/Agathis_macrophylla","http://dbpedia.org/resource/Agathis_silbae"
+"0","7","Agathis philippinensis","http://dbpedia.org/resource/Agathis_macrophylla","http://dbpedia.org/resource/Agathis_philippinensis http://dbpedia.org/resource/Almaciga"
+"0","9","Agathis orbicula","http://dbpedia.org/resource/Agathis_macrophylla","http://dbpedia.org/resource/Sarawak_kauri http://dbpedia.org/resource/Agathis_orbicula"

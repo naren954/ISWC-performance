@@ -1,0 +1,9 @@
+F1: 0.63158,Precision: 0.63158,Recall: 0.63158,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,G. Brown,http://dbpedia.org/resource/Gordon_Brown,http://dbpedia.org/resource/Goold_Brown
+0,9,E. C. Clayton,http://dbpedia.org/resource/John_M._Clayton,http://dbpedia.org/resource/Ellen_Needham http://dbpedia.org/resource/Ellen_Creathorne_Clayton http://dbpedia.org/resource/Eleanor_Clayton http://dbpedia.org/resource/Creathorne
+0,10,E. Williams,http://dbpedia.org/resource/Tennessee_Williams,http://dbpedia.org/resource/Eliseus_Williams_(Eifion_Wyn) http://dbpedia.org/resource/Eifion_Wyn http://dbpedia.org/resource/Eliseus_Williams
+0,14,D. Đorđević,http://dbpedia.org/resource/Jovan_Đorđević,http://dbpedia.org/resource/Dimitrije_Dordevic_(historian) http://dbpedia.org/resource/Dimitrije_Đorđević_(historian)
+0,15,D. K. Wright,http://dbpedia.org/resource/John_Kirtland_Wright,http://dbpedia.org/resource/Diana_Gordon-Lennox http://dbpedia.org/resource/Diana_Kingsmill_Wright
+0,17,B. O'Reilly,http://dbpedia.org/resource/Bill_O'Reilly_(cricketer),http://dbpedia.org/resource/Bernard_O'Reilly_(author)
+0,19,A. Chalmers,http://dbpedia.org/resource/Thomas_Chalmers,"http://dbpedia.org/resource/Chalmers,_Alexander http://dbpedia.org/resource/Ferdinando_Fidget http://dbpedia.org/resource/Alexander_Chalmers"

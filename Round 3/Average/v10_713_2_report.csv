@@ -1,0 +1,8 @@
+F1: 0.66667,Precision: 0.66667,Recall: 0.66667,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,6,B. Outram,"http://dbpedia.org/resource/Sir_James_Outram,_1st_Baronet",http://dbpedia.org/resource/Benjamin_Outram
+2,8,E. L. Williams,http://dbpedia.org/resource/Vanessa_Williams,http://dbpedia.org/resource/Sir_Edward_Williams http://dbpedia.org/resource/Edward_Leader_Williams http://dbpedia.org/resource/E._Leader_Williams http://dbpedia.org/resource/Sir_Edward_Leader_Williams
+2,10,J. Clowes,http://dbpedia.org/resource/Johnny_Clowes,http://dbpedia.org/resource/Josiah_Clowes
+2,13,B. Outram,"http://dbpedia.org/resource/Sir_James_Outram,_1st_Baronet",http://dbpedia.org/resource/Benjamin_Outram
+2,15,B. Wright,"http://dbpedia.org/resource/Billy_Wright_(footballer,_born_1924)",http://dbpedia.org/resource/Benjamin_Hall_Wright http://dbpedia.org/resource/Benjamin_Wright
+2,18,B. Outram,"http://dbpedia.org/resource/Sir_James_Outram,_1st_Baronet",http://dbpedia.org/resource/Benjamin_Outram

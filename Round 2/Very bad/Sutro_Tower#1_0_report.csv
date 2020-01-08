@@ -1,0 +1,5 @@
+F1: 0.25000,Precision: 0.25000,Recall: 0.25000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,KSOL-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/KSOL-FM http://dbpedia.org/resource/KSOL_(FM) http://dbpedia.org/resource/KSOL http://dbpedia.org/resource/KSOL-FM3 http://dbpedia.org/resource/KSOL-FM2
+0,3,KOSF-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/KKSF-FM1 http://dbpedia.org/resource/KKSF-FM http://dbpedia.org/resource/KOSF http://dbpedia.org/resource/KKSF
+0,4,KFOG-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/KFOG http://dbpedia.org/resource/Foghead http://dbpedia.org/resource/KFOG-FM3 http://dbpedia.org/resource/KFOG-FM

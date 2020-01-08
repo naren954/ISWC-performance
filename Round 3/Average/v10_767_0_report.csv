@@ -1,0 +1,7 @@
+F1: 0.75000,Precision: 0.75000,Recall: 0.75000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,6,Sudbrook Park,"http://dbpedia.org/resource/Sudbrook_Park,_Petersham","http://dbpedia.org/resource/Sudbrook_Park http://dbpedia.org/resource/Sudbrook_Park,_Maryland"
+0,10,Strathglass Building,http://dbpedia.org/resource/Flatiron_Building,http://dbpedia.org/resource/Strathglass_Building
+0,12,Stirling,http://dbpedia.org/resource/Stirling_Castle,"http://dbpedia.org/resource/Stirling_(Reading,_Pennsylvania)"
+0,15,Stevens Memorial Hall,http://dbpedia.org/resource/Methuen_Memorial_Music_Hall,http://dbpedia.org/resource/Stevens_Memorial_Hall
+0,16,Stevens Building,http://dbpedia.org/resource/Stevens'_Building,"http://dbpedia.org/resource/Stevens_Building_(Portland,_Oregon)"

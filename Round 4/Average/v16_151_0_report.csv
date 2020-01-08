@@ -1,0 +1,11 @@
+F1: 0.70968,Precision: 0.70968,Recall: 0.70968,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,L. Jorgensen,http://dbpedia.org/resource/Lars_Jorgensen,http://dbpedia.org/resource/Laura_Jorgensen
+0,3,L. Brown,http://dbpedia.org/resource/Larry_Brown_(tight_end),http://dbpedia.org/resource/Laura_Brown_(cyclist)
+0,11,K. Pedersen,http://dbpedia.org/resource/Kayla_Pedersen,http://dbpedia.org/resource/Kristian_Pedersen
+0,13,K. Dahl,http://dbpedia.org/resource/Kevin_Dahl,http://dbpedia.org/resource/Kris_Dahl
+0,21,K. Werner,http://dbpedia.org/resource/Karl_Werner_(footballer),http://dbpedia.org/resource/Kerry_Werner
+0,23,K. Ryan,http://dbpedia.org/resource/Kent_Ryan,http://dbpedia.org/resource/Kendall_Ryan
+0,24,K. Girdlestone,http://dbpedia.org/resource/Dylan_Girdlestone,http://dbpedia.org/resource/Keagan_Girdlestone
+0,26,K. Inoue,http://dbpedia.org/resource/Kazuki_Inoue,http://dbpedia.org/resource/Kazuo_Inoue
+0,28,K. Hall,http://dbpedia.org/resource/Kenny_Hall_(basketball),http://dbpedia.org/resource/Katie_Hall_(cyclist)

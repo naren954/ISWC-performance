@@ -1,0 +1,4 @@
+"F1: 0.80000","Precision: 0.80000","Recall: 0.80000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","6","Arena","http://dbpedia.org/resource/The_Elder_Scrolls:_Arena","http://dbpedia.org/resource/Arena_(television) http://dbpedia.org/resource/Arena_(1975) http://dbpedia.org/resource/Arena_(TV_series) http://dbpedia.org/resource/BBC_Arena"
+"0","10","Question Time","http://dbpedia.org/resource/Question_Time_(TV_programme)","http://dbpedia.org/resource/Bbcqt http://dbpedia.org/resource/Question_Time_(television) http://dbpedia.org/resource/BBC_Question_Time http://dbpedia.org/resource/Question_Time_(TV_series)"

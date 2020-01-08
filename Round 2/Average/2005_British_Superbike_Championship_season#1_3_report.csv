@@ -1,0 +1,10 @@
+F1: 0.75000,Precision: 0.75000,Recall: 0.75000,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,2,John Reynolds[1],http://dbpedia.org/resource/John_Reynolds_(motorcyclist),http://dbpedia.org/resource/John_Reynolds_(motorcycle_racer)
+3,6,Michael Rutter [6],http://dbpedia.org/resource/Michael_Rutter_(motorcyclist),http://dbpedia.org/resource/Michael_Rutter_(motorcycle_racer)
+3,8,Gary Mason [8],http://dbpedia.org/resource/Gary_Mason_(boxer),http://dbpedia.org/resource/Gary_Mason_(motorcycle_racer)
+3,22,Ben Wilson[18],http://dbpedia.org/resource/Ben_Wilson_(speedway_rider),http://dbpedia.org/resource/Ben_Wilson_(motorcycle_racer)
+3,25,Dean Thomas[20],http://dbpedia.org/resource/Dean_Thomas_(rugby_league),http://dbpedia.org/resource/Dean_Thomas_(motorcycle_racer) http://dbpedia.org/resource/Dean_Thomas_(racer)
+3,29,John McGuinness[24],http://dbpedia.org/resource/John_McGuinness_(motorcyclist),http://dbpedia.org/resource/John_McGuinness_(motorcycle_racer)
+3,39,Chris Martin,http://dbpedia.org/resource/Chris_Martin_(defensive_back),http://dbpedia.org/resource/Christopher_Martin_(motorcycle_racer) http://dbpedia.org/resource/Chris_Martin_(motorcycle_racer)
+3,43,John McGuinness,http://dbpedia.org/resource/John_McGuinness_(motorcyclist),http://dbpedia.org/resource/John_McGuinness_(motorcycle_racer)

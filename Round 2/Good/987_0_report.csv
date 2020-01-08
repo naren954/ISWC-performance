@@ -1,0 +1,4 @@
+F1: 0.92857,Precision: 0.92857,Recall: 0.92857,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,16,Preaortic lymph node,http://dbpedia.org/resource/Parotid_lymph_nodes,http://dbpedia.org/resource/Preaortic_glands http://dbpedia.org/resource/Preaortic_lymph_node http://dbpedia.org/resource/Preaortic_gland http://dbpedia.org/resource/Nodi_lymphoidei_preaortici http://dbpedia.org/resource/Preaortic_lymph_nodes
+0,22,Mesenteric lymph nodes,http://dbpedia.org/resource/Inferior_mesenteric_lymph_nodes,http://dbpedia.org/resource/Nodi_lymphoidei_mesenterici http://dbpedia.org/resource/Mesenteric_lymph_nodes http://dbpedia.org/resource/Mesenteric_lymph_node

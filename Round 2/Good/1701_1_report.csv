@@ -1,0 +1,29 @@
+F1: 0.85326,Precision: 0.85326,Recall: 0.85326,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,Z. Kovács,http://dbpedia.org/resource/Zsuzsa_Kovács,http://dbpedia.org/resource/Zoltan_Kovacs_(sport_shooter) http://dbpedia.org/resource/Zoltán_Kovács_(sport_shooter)
+1,11,M. Sullivan,http://dbpedia.org/resource/Monique_Sullivan,http://dbpedia.org/resource/Michael_Sullivan_(sport_shooter)
+1,22,M. Sullivan,http://dbpedia.org/resource/Monique_Sullivan,http://dbpedia.org/resource/Michael_Sullivan_(sport_shooter)
+1,28,S. Johansson,http://dbpedia.org/resource/Sven_Tumba,http://dbpedia.org/resource/Sven_Johansson_(sport_shooter)
+1,29,L. Dyakov,http://dbpedia.org/resource/Ilia_Dyakov,http://dbpedia.org/resource/Lyubcho_Dyakov http://dbpedia.org/resource/Lubcho_Diakov http://dbpedia.org/resource/Lubtcho_Diakov
+1,32,S. Johansson,http://dbpedia.org/resource/Sven_Tumba,http://dbpedia.org/resource/Sven_Johansson_(sport_shooter)
+1,33,L. Dyakov,http://dbpedia.org/resource/Ilia_Dyakov,http://dbpedia.org/resource/Lyubcho_Dyakov http://dbpedia.org/resource/Lubcho_Diakov http://dbpedia.org/resource/Lubtcho_Diakov
+1,64,H. Vollmar,http://dbpedia.org/resource/Heinz_Vollmar,http://dbpedia.org/resource/Harald_Vollmar
+1,65,K. Müller,http://dbpedia.org/resource/Katrin_Müller,http://dbpedia.org/resource/Kurt_Muller_(sport_shooter) http://dbpedia.org/resource/Kurt_Müller_(sport_shooter)
+1,71,H. Vollmar,http://dbpedia.org/resource/Heinz_Vollmar,http://dbpedia.org/resource/Harald_Vollmar
+1,72,K. Müller,http://dbpedia.org/resource/Katrin_Müller,http://dbpedia.org/resource/Kurt_Muller_(sport_shooter) http://dbpedia.org/resource/Kurt_Müller_(sport_shooter)
+1,82,S. Kalinin,http://dbpedia.org/resource/Stepan_Kalinin,http://dbpedia.org/resource/Sergei_Kalinin_(shooter) http://dbpedia.org/resource/Sergei_Kalinin_(sport_shooter)
+1,88,S. Kalinin,http://dbpedia.org/resource/Stepan_Kalinin,http://dbpedia.org/resource/Sergei_Kalinin_(shooter) http://dbpedia.org/resource/Sergei_Kalinin_(sport_shooter)
+1,108,A. Jackson,http://dbpedia.org/resource/Arnold_Jackson_(British_Army_officer),http://dbpedia.org/resource/Arthur_Jackson_(sport_shooter) http://dbpedia.org/resource/Art_Jackson_(sport_shooter) http://dbpedia.org/resource/Arthur_Charles_Jackson
+1,115,A. Jackson,http://dbpedia.org/resource/Arnold_Jackson_(British_Army_officer),http://dbpedia.org/resource/Arthur_Jackson_(sport_shooter) http://dbpedia.org/resource/Art_Jackson_(sport_shooter) http://dbpedia.org/resource/Arthur_Charles_Jackson
+1,148,Ø. Østensen,http://dbpedia.org/resource/Sten_Stensen,http://dbpedia.org/resource/Östen_Östensen http://dbpedia.org/resource/Østen_Østensen http://dbpedia.org/resource/Osten_Ostensen
+1,157,Ø. Østensen,http://dbpedia.org/resource/Sten_Stensen,http://dbpedia.org/resource/Östen_Östensen http://dbpedia.org/resource/Østen_Østensen http://dbpedia.org/resource/Osten_Ostensen
+1,163,O. Olsen,http://dbpedia.org/resource/Otto_Olsen_(sport_shooter),http://dbpedia.org/resource/Ole_Olsen_(sport_shooter)
+1,164,J. Jackson,http://dbpedia.org/resource/Julius_Jackson,http://dbpedia.org/resource/John_Jackson_(sport_shooter)
+1,166,C. Stewart,http://dbpedia.org/resource/Chelsea_Stewart,http://dbpedia.org/resource/Charles_Stewart_(sport_shooter)
+1,168,C. Stewart,http://dbpedia.org/resource/Chelsea_Stewart,http://dbpedia.org/resource/Charles_Stewart_(sport_shooter)
+1,172,A. Londen,http://dbpedia.org/resource/Axel_Fredrik_Londen,http://dbpedia.org/resource/Londen http://dbpedia.org/resource/Axel_Londen
+1,176,O. Olsen,http://dbpedia.org/resource/Otto_Olsen_(sport_shooter),http://dbpedia.org/resource/Ole_Olsen_(sport_shooter)
+1,177,J. Jackson,http://dbpedia.org/resource/Julius_Jackson,http://dbpedia.org/resource/John_Jackson_(sport_shooter)
+1,179,C. Stewart,http://dbpedia.org/resource/Chelsea_Stewart,http://dbpedia.org/resource/Charles_Stewart_(sport_shooter)
+1,181,C. Stewart,http://dbpedia.org/resource/Chelsea_Stewart,http://dbpedia.org/resource/Charles_Stewart_(sport_shooter)
+1,182,C. Stewart,http://dbpedia.org/resource/Chelsea_Stewart,http://dbpedia.org/resource/Charles_Stewart_(sport_shooter)

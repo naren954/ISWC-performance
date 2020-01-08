@@ -1,0 +1,6 @@
+"F1: 0.82609","Precision: 0.82609","Recall: 0.82609"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","7","G. Granollers","http://dbpedia.org/resource/Marcel_Granollers","http://dbpedia.org/resource/Gerard_Granollers-Pujol http://dbpedia.org/resource/Gerard_Granollers"
+"1","8","A. Beck","http://dbpedia.org/resource/Annika_Beck","http://dbpedia.org/resource/Andreas_Beck_(tennis) http://dbpedia.org/resource/Andreas_Beck_(tennis_player)"
+"1","10","J. Smith","http://dbpedia.org/resource/James_Smith_(boxer)","http://dbpedia.org/resource/John-Patrick_Smith_(athlete) http://dbpedia.org/resource/John-Patrick_Smith"
+"1","21","C. Vandeweghe","http://dbpedia.org/resource/CoCo_Vandeweghe","http://dbpedia.org/resource/Coco_Vandeweghe"

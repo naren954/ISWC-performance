@@ -1,0 +1,4 @@
+"F1: 0.83333","Precision: 0.83333","Recall: 0.83333"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","2","H. Scott","http://dbpedia.org/resource/Hazel_Scott","http://dbpedia.org/resource/Harriet_Scott"
+"0","4","H. Jackson","http://dbpedia.org/resource/Howard_Jackson_(kickboxer)","http://dbpedia.org/resource/Hal_Jackson"

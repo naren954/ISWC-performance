@@ -1,0 +1,4 @@
+F1: 0.71429,Precision: 0.71429,Recall: 0.71429,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,2,Acapulco,http://dbpedia.org/resource/Mexico,"http://dbpedia.org/resource/Acapulco_de_Juárez http://dbpedia.org/resource/Acapulco,_Mexico http://dbpedia.org/resource/Acapulco_de_Juarez http://dbpedia.org/resource/Acapulco,_Guerrero http://dbpedia.org/resource/History_of_Acapulco http://dbpedia.org/resource/Acapulco http://dbpedia.org/resource/Acupulco http://dbpedia.org/resource/Acapulco,_Gro. http://dbpedia.org/resource/Acupolco http://dbpedia.org/resource/Acapulco_Bay"
+2,7,"Southport, Queensland",http://dbpedia.org/resource/Southport,"http://dbpedia.org/resource/Southport,_Australia http://dbpedia.org/resource/Southport_(Queensland) http://dbpedia.org/resource/Southport_(Australia) http://dbpedia.org/resource/Southport,_Queensland"

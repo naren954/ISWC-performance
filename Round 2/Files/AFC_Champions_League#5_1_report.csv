@@ -1,0 +1,5 @@
+"F1: 0.76923","Precision: 0.76923","Recall: 0.76923"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","5","Mota","http://dbpedia.org/resource/Valdemar_Mota","http://dbpedia.org/resource/João_Soares_da_Mota_Neto"
+"1","7","Leandro","http://dbpedia.org/resource/Leandro_Barbosa","http://dbpedia.org/resource/Leandro_Montera_da_Silva http://dbpedia.org/resource/Leandro_Montera_Da_Silva"
+"1","8","Jose Mota","http://dbpedia.org/resource/José_Mota_(baseball)","http://dbpedia.org/resource/José_Roberto_Rodrigues_Mota"

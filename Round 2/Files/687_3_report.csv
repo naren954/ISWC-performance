@@ -1,0 +1,7 @@
+"F1: 0.66667","Precision: 0.66667","Recall: 0.66667"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"3","2","Little River","http://de.dbpedia.org/resource/Little_River_(Nive_River)","http://dbpedia.org/resource/Little_River_(Shuswap) http://dbpedia.org/resource/Little_River_(Little_Shuswap_Lake) http://dbpedia.org/resource/Little_Shuswap_River"
+"3","8","Duncan River","http://fr.dbpedia.org/resource/Rivière_Duncan","http://dbpedia.org/resource/Duncan_River"
+"3","9","Humber River","http://dbpedia.org/resource/Humber","http://dbpedia.org/resource/Humber_River,_Newfoundland http://dbpedia.org/resource/Humber_River_(Newfoundland_and_Labrador) http://dbpedia.org/resource/Humber_River_(Newfoundland)"
+"3","14","Yadkin River","http://dbpedia.org/resource/Pee_Dee_River","http://dbpedia.org/resource/W._Kerr_Scott_Dam http://dbpedia.org/resource/Yadkin_river http://dbpedia.org/resource/Roanoke_Inlet http://dbpedia.org/resource/Yadkin_Valley http://dbpedia.org/resource/Yadkin_River"
+"3","15","Gates River","http://dbpedia.org/resource/St._Marys_River_(Michigan–Ontario)","http://dbpedia.org/resource/Gates_River"

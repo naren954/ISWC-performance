@@ -1,0 +1,5 @@
+F1: 0.50000,Precision: 0.50000,Recall: 0.50000,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,1,Chang Hao,http://dbpedia.org/resource/Chang_Hao_(Go_player),http://dbpedia.org/resource/Chang_Hao
+3,6,Huang Yizhong,,http://dbpedia.org/resource/Huang_Yizhong
+3,13,Kang Dong-Yoon,http://dbpedia.org/resource/Kang_Seung-yoon,http://dbpedia.org/resource/Kang_Dong-yoon http://dbpedia.org/resource/Kang_Dong-yun http://dbpedia.org/resource/Kang_Dongyun http://dbpedia.org/resource/Kang_Dong-Yoon

@@ -1,0 +1,44 @@
+F1: 0.70000,Precision: 0.70000,Recall: 0.70000,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,1,Capital Indoor Stadium,http://dbpedia.org/resource/Cameron_Indoor_Stadium,http://dbpedia.org/resource/Beijing_Capital_Gymnasium http://dbpedia.org/resource/Capital_Stadium http://dbpedia.org/resource/Capital_Gymnasium http://dbpedia.org/resource/Capital_Indoor_Stadium
+2,3,Wukesong Indoor Stadium,http://dbpedia.org/resource/Wukesong_Arena,http://dbpedia.org/resource/MasterCard_Center http://dbpedia.org/resource/Beijing_Olympic_Basketball_Gymnasium http://dbpedia.org/resource/Wukesong_Culture_and_Sports_Centre http://dbpedia.org/resource/Wukesong_Indoor_Stadium http://dbpedia.org/resource/Wukesong_Culture_&_Sports_Center http://dbpedia.org/resource/Wukesong_Stadium http://dbpedia.org/resource/Beijing_Wukesong_Culture_&_Sports_Center http://dbpedia.org/resource/Beijing_Wukesong_Sports_Center_Baseball_Field http://dbpedia.org/resource/Wukesong_Sports_Center http://dbpedia.org/resource/Wukesong_Cultural_and_Sports_Centre http://dbpedia.org/resource/LeSports_Center http://dbpedia.org/resource/Wukesong_Sports_Centre http://dbpedia.org/resource/Wukesong_Baseball_Field
+2,5,Changchun Wuhuan Gymnasium,http://dbpedia.org/resource/Changchun_Gymnasium,http://dbpedia.org/resource/Changchun_Wuhuan_Gymnasium
+2,17,Mercedes-Benz Arena (Shanghai),http://dbpedia.org/resource/Mercedes-Benz_Arena_(Berlin),http://dbpedia.org/resource/Mercedes-Benz_Arena_(Shanghai) http://dbpedia.org/resource/Shanghai_Arena
+2,23,Shanghai International Gymnastic Center,http://dbpedia.org/resource/Shanghai_IFC,http://dbpedia.org/resource/Shanghai_International_Gymnastic_Center
+2,33,Queen Elizabeth Stadium,http://dbpedia.org/resource/Queen_Elizabeth_II_Park,http://dbpedia.org/resource/Queen_Elizabeth_Stadium http://dbpedia.org/resource/Queen_Elisabeth_Stadium
+2,34,Hawla Indoor Stadium,http://dbpedia.org/resource/Singapore_Indoor_Stadium,http://dbpedia.org/resource/Hawla_Indoor_Stadium
+2,39,Faizabad Sports Complex,http://dbpedia.org/resource/ESPN_Wide_World_of_Sports_Complex,http://dbpedia.org/resource/Faizabad_Sports_Complex http://dbpedia.org/resource/Faizabad_International_Sports_Stadium http://dbpedia.org/resource/Bhim_Rao_Ambedkar_International_Sports_Stadium
+2,41,Talkatora Stadium,http://dbpedia.org/resource/Yankee_Stadium,http://dbpedia.org/resource/Talkatora_Stadium http://dbpedia.org/resource/Talkatora_Indoor_Stadium
+2,46,Gachibowli Indoor Stadium,http://dbpedia.org/resource/G._M._C._Balayogi_SATS_Indoor_Stadium,http://dbpedia.org/resource/Gachibowli_Indoor_Stadium
+2,48,Saroornagar Indoor Arena,http://dbpedia.org/resource/Arena_Birmingham,http://dbpedia.org/resource/Saroornagar_Indoor_Arena
+2,50,Sawai Mansingh Indoor Stadium,http://dbpedia.org/resource/Sawai_Mansingh_Indoor_Stadium,http://dbpedia.org/resource/Sawai_Mansingh_Stadium
+2,51,Rajiv Gandhi Indoor Stadium,http://dbpedia.org/resource/Indira_Gandhi_Arena,"http://dbpedia.org/resource/Regional_Sports_Centre,_Kochi http://dbpedia.org/resource/Rajiv_Gandhi_Indoor_Stadium"
+2,52,Netaji Indoor Stadium,http://dbpedia.org/resource/Singapore_Indoor_Stadium,http://dbpedia.org/resource/Netaji_Indoor_Stadium
+2,53,K. D. Singh Babu Stadium,"http://dbpedia.org/resource/K._D._Singh_Babu_Stadium,_Barabanki","http://dbpedia.org/resource/K._D._Singh_Babu_Stadium,_Lucknow"
+2,54,Sadar Patel Indoor Stadium,http://dbpedia.org/resource/Sardar_Vallabhbhai_Patel_Indoor_Stadium,http://dbpedia.org/resource/NSCI http://dbpedia.org/resource/National_Sports_Club_of_India http://dbpedia.org/resource/NSCI_Club
+2,58,University Convocation Complex,http://dbpedia.org/resource/Ted_Constant_Convocation_Center,"http://dbpedia.org/resource/University_Convocation_Complex http://dbpedia.org/resource/University_Convocation_Complex,_University_of_Kashmir"
+2,66,Istora Senayan,http://dbpedia.org/resource/Gelora_Bung_Karno_Stadium,http://dbpedia.org/resource/Istora_Senayan
+2,71,Rezazadeh Stadium,http://dbpedia.org/resource/Yankee_Stadium,http://dbpedia.org/resource/Rezazadeh_Stadium http://dbpedia.org/resource/Reza_Zadeh_Stadium
+2,77,Jerusalem Arena,http://dbpedia.org/resource/Arena_Birmingham,http://dbpedia.org/resource/Jerusalem_Arena http://dbpedia.org/resource/Jerusalem_HaPayis_Hall http://dbpedia.org/resource/Arena_Stadium http://dbpedia.org/resource/Jerusalem_Payis_Arena
+2,85,Kobe Green Arena,http://dbpedia.org/resource/Kobe_Sports_Park_Baseball_Stadium,http://dbpedia.org/resource/Kobe_Green_Arena
+2,86,Komatsu Dome,"http://dbpedia.org/resource/Komatsu,_Ishikawa",http://dbpedia.org/resource/Komatsu_Dome
+2,87,Sun Arena,http://dbpedia.org/resource/Mohegan_Sun_Arena_at_Casey_Plaza,http://dbpedia.org/resource/Sun_Arena
+2,94,Momotaro Arena,http://dbpedia.org/resource/Zip_Arena_Okayama,http://dbpedia.org/resource/Momotaro_Arena http://dbpedia.org/resource/Okayama_Momotaro_Arena
+2,95,Maishima Arena,http://dbpedia.org/resource/Ookini_Arena_Maishima,http://dbpedia.org/resource/Fumin_Kyosai_Super_Arena http://dbpedia.org/resource/Maishima_Arena
+2,96,Namihaya Dome,http://dbpedia.org/resource/Towa_Pharmaceutical_Ractab_Dome,http://dbpedia.org/resource/Namihaya_Dome
+2,100,Hokkaido Prefectural Sports Center,http://dbpedia.org/resource/Hokkai_Kitayell,http://dbpedia.org/resource/Hokkaido_Prefectural_Sports_Center http://dbpedia.org/resource/Hokkaido_Prefectural_Sports_Center_(KITAYELL)
+2,103,Sendai Gymnasium,http://dbpedia.org/resource/Guangzhou_Gymnasium,http://dbpedia.org/resource/Sendai-city_Gymnasium http://dbpedia.org/resource/Sendai_Gymnasium http://dbpedia.org/resource/Kamei_Arena_Sendai http://dbpedia.org/resource/Sendai_City_Gymnasium
+2,138,Putra Indoor Stadium,http://dbpedia.org/resource/Singapore_Indoor_Stadium,http://dbpedia.org/resource/Putra_Indoor_Stadium http://dbpedia.org/resource/Putra_Stadium
+2,139,Stadium Negara,http://dbpedia.org/resource/Juventus_Stadium,http://dbpedia.org/resource/Stadium_Negara
+2,140,Stadium Badminton Kuala Lumpur,http://dbpedia.org/resource/Kuala_Lumpur_Stadium,http://dbpedia.org/resource/Kuala_Lumpur_Badminton_Stadium http://dbpedia.org/resource/Stadium_Badminton_Kuala_Lumpur
+2,155,Seaside City Arena,http://dbpedia.org/resource/Seaside_City_Arena,http://dbpedia.org/resource/SM_South_Road_Properties http://dbpedia.org/resource/Sm_seaside_city_cebu http://dbpedia.org/resource/SM_Seaside_City_Cebu http://dbpedia.org/resource/SM_SRP
+2,164,Makati Coliseum,http://dbpedia.org/resource/Omni_Coliseum,http://dbpedia.org/resource/Makati_Coliseum
+2,166,Rizal Memorial Coliseum,http://dbpedia.org/resource/Los_Angeles_Memorial_Coliseum,http://dbpedia.org/resource/Rizal_Memorial_Coliseum
+2,167,UST Sports Arena,http://dbpedia.org/resource/Los_Angeles_Memorial_Sports_Arena,http://dbpedia.org/resource/University_of_Santo_Tomas_Sports_Complex http://dbpedia.org/resource/Quadricentennial_Pavilion
+2,168,Naga City Coliseum,http://dbpedia.org/resource/Smart_Araneta_Coliseum,http://dbpedia.org/resource/Naga_City_Coliseum http://dbpedia.org/resource/Jesse_M._Robredo_Coliseum http://dbpedia.org/resource/Jessie_M._Robredo_Coliseum http://dbpedia.org/resource/Jesse_Robredo_Coliseum
+2,171,Olivarez Sports Center,http://dbpedia.org/resource/Bob_Devaney_Sports_Center,http://dbpedia.org/resource/Olivarez_College
+2,175,Ynares Sports Arena,http://dbpedia.org/resource/Los_Angeles_Memorial_Sports_Arena,http://dbpedia.org/resource/Ynares_Sports_Arena
+2,192,Yunlin Indoor Arena,http://dbpedia.org/resource/Arena_Birmingham,http://dbpedia.org/resource/Yunlin_Indoor_Arena
+2,193,Impact Arena,http://dbpedia.org/resource/North_Street_(stadium),"http://dbpedia.org/resource/IMPACT_Arena http://dbpedia.org/resource/Impact,_Muang_Thong_Thani http://dbpedia.org/resource/Impact_Arena http://dbpedia.org/resource/Impact,_Mueang_Thong_Thani http://dbpedia.org/resource/Challenger_Hall http://dbpedia.org/resource/IMPACT_Mueang_Thong_Thani"
+2,198,Nimibutr Indoor Stadium,http://dbpedia.org/resource/Singapore_Indoor_Stadium,http://dbpedia.org/resource/Nimibutr_Indoor_Stadium http://dbpedia.org/resource/Nimibutr_Stadium
+2,203,"His Majesty the King's 80th Birthday Anniversary, 5th December 2007 Sports Complex","http://dbpedia.org/resource/His_Majesty_the_King's_80th_Birthday_Anniversary,_5_December_2007,_Sports_Complex","http://dbpedia.org/resource/His_Majesty_the_King's_80th_Birthday_Anniversary,_5th_December_2007_Sports_Complex"

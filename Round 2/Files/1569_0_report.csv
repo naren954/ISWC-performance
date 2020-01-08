@@ -1,0 +1,4 @@
+"F1: 0.90909","Precision: 0.90909","Recall: 0.90909"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","11","Sun Plaza","http://dbpedia.org/resource/Sun_Plaza_(Medan)","http://dbpedia.org/resource/Sun_Plaza"
+"0","18","Phoenix Market City","http://dbpedia.org/resource/Phoenix,_Arizona","http://dbpedia.org/resource/Phoenix_Market_City_(Chennai)"

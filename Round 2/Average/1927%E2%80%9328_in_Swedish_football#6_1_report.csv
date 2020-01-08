@@ -1,0 +1,4 @@
+F1: 0.71429,Precision: 0.71429,Recall: 0.71429,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,3,Sandvikens AIK,http://dbpedia.org/resource/Sandvikens_IF,http://dbpedia.org/resource/Sandvikens_AIK_Fotboll http://dbpedia.org/resource/Sandvikens_AIK_FK
+1,9,SkutskÃ¤rs IF,http://dbpedia.org/resource/Skutskärs_IF_Fotboll,http://dbpedia.org/resource/Skutskärs_IF

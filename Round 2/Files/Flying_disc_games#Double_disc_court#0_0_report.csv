@@ -1,0 +1,4 @@
+"F1: 0.33333","Precision: 0.33333","Recall: 0.33333"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","2","Hot box","http://dbpedia.org/resource/Hot_box_(appliance)","http://dbpedia.org/resource/Hot_box_(game)"
+"0","5","Kan-jam","nan","http://dbpedia.org/resource/Canjam http://dbpedia.org/resource/Kanjam http://dbpedia.org/resource/Kan-Jam http://dbpedia.org/resource/Can_jam http://dbpedia.org/resource/KanJam http://dbpedia.org/resource/Kan-jam"

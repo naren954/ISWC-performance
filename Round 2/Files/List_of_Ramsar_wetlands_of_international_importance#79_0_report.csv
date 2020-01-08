@@ -1,0 +1,6 @@
+"F1: 0.42857","Precision: 0.42857","Recall: 0.42857"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","1","Dragoman marsh","http://dbpedia.org/resource/Dragoman_Marsh","http://dbpedia.org/resource/Dragoman_marsh"
+"0","2","Durankulak Lake","http://uk.dbpedia.org/resource/Дуранкулацьке_озеро","http://dbpedia.org/resource/Durankulak_Lake http://dbpedia.org/resource/Durankulak_lagoon http://dbpedia.org/resource/Durankulak_Lagoon http://dbpedia.org/resource/Lake_Durankulak http://dbpedia.org/resource/Durankulak_lake http://dbpedia.org/resource/Duranculak_lake http://dbpedia.org/resource/Durankulak http://dbpedia.org/resource/Duranculak_Lagoon"
+"0","4","Persina","http://dbpedia.org/resource/Belene_Island","http://dbpedia.org/resource/Persina_Natural_Park http://dbpedia.org/resource/Nature_park_''Persina'' http://dbpedia.org/resource/Persina_Nature_Park"
+"0","5","Poda","http://ru.dbpedia.org/resource/Пода_(приток_Унжи)","http://dbpedia.org/resource/Poda_Nature_Center http://dbpedia.org/resource/Poda_Protected_Area http://dbpedia.org/resource/Lake_Poda"

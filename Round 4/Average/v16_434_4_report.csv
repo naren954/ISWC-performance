@@ -1,0 +1,30 @@
+F1: 0.73832,Precision: 0.73832,Recall: 0.73832,,
+Col,Row,Value,Submitted URI,Correct URI's
+4,4,Out of My Mind,http://dbpedia.org/resource/Out_of_My_Mind_(B.o.B_song),http://dbpedia.org/resource/Out_of_My_Mind_(Duran_Duran_song)
+4,11,Blue Skies,http://dbpedia.org/resource/Blue_Skies_(Noah_and_the_Whale_song),http://dbpedia.org/resource/Blue_Skies_(Jamiroquai_song)
+4,12,Too Young,http://dbpedia.org/resource/Too_Young_(Sidney_Lippman_and_Sylvia_Dee_song),http://dbpedia.org/resource/Too_Young_(Post_Malone_song)
+4,15,Young Bloods,http://dbpedia.org/resource/Young_Blood_(Norah_Jones_song),http://dbpedia.org/resource/Young_Bloods_(song)
+4,17,Far Away,http://dbpedia.org/resource/Far_Away_(Tyga_song),http://dbpedia.org/resource/Far_Away_(Wolfmother_song)
+4,21,Here Comes the Sun,http://dbpedia.org/resource/Here_Comes_the_Sun_(Sweetbox_song),http://dbpedia.org/resource/Here_Comes_the_Sun_(The_Beatles_song) http://dbpedia.org/resource/Here_Comes_the_Sun http://dbpedia.org/resource/Here_Comes_the_Sun_(song) http://dbpedia.org/resource/Hcts http://dbpedia.org/resource/Here_Comes_The_Sun http://dbpedia.org/resource/Here_Comes_the_Sun_(Beatles_song) http://dbpedia.org/resource/Here_comes_the_sun
+4,23,I'm All About It,http://dbpedia.org/resource/I'm_All_Yours,http://dbpedia.org/resource/I'm_All_About_It
+4,25,Everytime You Cry,http://dbpedia.org/resource/Everytime_You_Touch_Me,http://dbpedia.org/resource/Everytime_You_Cry http://dbpedia.org/resource/Every_Time_You_Cry_(John_Farnham_song) http://dbpedia.org/resource/Everytime_You_Cry_(John_Farnham_&_Human_Nature_song) http://dbpedia.org/resource/Every_Time_You_Cry
+4,26,This Is Me,http://dbpedia.org/resource/This_Is_Me_(Dream_song),http://dbpedia.org/resource/This_Is_Me_(Randy_Travis_song)
+4,33,I Hope It Rains,http://dbpedia.org/resource/I_Hope_You_Dance,http://dbpedia.org/resource/I_Hope_It_Rains_(song) http://dbpedia.org/resource/Jana_Kramer_(album)
+4,35,Trini Dem Girls,http://dbpedia.org/resource/The_Pinkprint,http://dbpedia.org/resource/Trini_Dem_Girls
+4,37,The High Road,http://dbpedia.org/resource/The_High_Road_(Three_Days_Grace_song),http://dbpedia.org/resource/The_High_Road_(Joss_Stone_song) http://dbpedia.org/resource/The_High_Road_(Broken_Bells_song)
+4,38,Wildflowers,http://dbpedia.org/resource/Wildflower_(Skylark_song),http://dbpedia.org/resource/Wildflowers_(Cassandra_Vasik_song)
+4,40,Love You,http://dbpedia.org/resource/The_Beach_Boys_Love_You,http://dbpedia.org/resource/Love_You_(song) http://dbpedia.org/resource/Love_You_(Jack_Ingram_song)
+4,46,Running,http://dbpedia.org/resource/Running_(No_Doubt_song),http://dbpedia.org/resource/Symphony_(album) http://dbpedia.org/resource/Symphony_(Sarah_Brightman_album) http://dbpedia.org/resource/Running_(Sarah_Brightman_song) http://dbpedia.org/resource/Pasión_(Sarah_Brightman_song) http://dbpedia.org/resource/Pasión_(song)
+4,50,Will You Love Me Tomorrow,http://es.dbpedia.org/resource/Will_You_Still_Love_Me_Tomorrow?,http://dbpedia.org/resource/Will_You_Still_Love_Me_Tomorrow? http://dbpedia.org/resource/Will_You_Still_Love_Me_Tomorrow_(Amy_Winehouse_song) http://dbpedia.org/resource/Will_You_Love_Me_Tomorrow? http://dbpedia.org/resource/Will_you_still_love_me_tomorrow_(amy_winehouse_song) http://dbpedia.org/resource/Will_You_Still_Love_Me_Tomorrow http://dbpedia.org/resource/Will_You_Love_Me_Tomorrow
+4,56,Drive,http://dbpedia.org/resource/Drive_(Incubus_song),http://dbpedia.org/resource/Drive_(For_Daddy_Gene)
+4,59,River of Love,http://dbpedia.org/resource/River_of_Love,http://dbpedia.org/resource/River_of_Love_(Rick_Price_song)
+4,60,Cactus,http://dbpedia.org/resource/Cactus_(Pixies_song),http://dbpedia.org/resource/Cactus_(song)
+4,68,When I Die,http://dbpedia.org/resource/When_We_Die,http://dbpedia.org/resource/When_I_Die_(No_Mercy_song)
+4,83,Grace Is Gone,http://dbpedia.org/resource/Grace_Is_Gone,http://dbpedia.org/resource/You_Never_Know http://dbpedia.org/resource/Grace_Is_Gone_(song) http://dbpedia.org/resource/Kit_Kat_Jam http://dbpedia.org/resource/Big_Eyed_Fish http://dbpedia.org/resource/Busted_Stuff
+4,84,California,"http://dbpedia.org/resource/University_of_California,_Berkeley",http://dbpedia.org/resource/California_(Lenny_Kravitz_song)
+4,85,The Stars,http://dbpedia.org/resource/Into_the_Stars,http://dbpedia.org/resource/The_Stars_(Are_Out_Tonight)
+4,87,Insomnia,http://dbpedia.org/resource/Insomnia_(Feeder_song),http://dbpedia.org/resource/Insomnia_(Craig_David_song)
+4,89,Philosophy,,http://dbpedia.org/resource/Philosophy_song http://dbpedia.org/resource/Philosophy_(Ben_Folds_Five_song) http://dbpedia.org/resource/Philosophy_(song) http://dbpedia.org/resource/Philosophy_(Ben_Folds_Five_Song)
+4,97,Day-In Day-Out,http://dbpedia.org/resource/Day_In_Day_Out_(Feeder_song),http://dbpedia.org/resource/Day-In_Day-Out http://dbpedia.org/resource/Julie_(David_Bowie_song)
+4,98,Hold Me Tight,http://dbpedia.org/resource/Hold_On_Tight_(Electric_Light_Orchestra_song),http://dbpedia.org/resource/Hold_Me_Tight_(Cold_Chisel_song)
+4,99,Sally,http://dbpedia.org/resource/Long_Tall_Sally_(EP),http://dbpedia.org/resource/Sally_(Gogol_Bordello_song)

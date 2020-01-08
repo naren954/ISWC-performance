@@ -1,0 +1,60 @@
+F1: 0.70707,Precision: 0.70707,Recall: 0.70707,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,7,M. Parker,http://dbpedia.org/resource/Margot_Parker,http://dbpedia.org/resource/Marshall_Parker
+0,11,M. Lippert,http://dbpedia.org/resource/Julius_Lippert,http://dbpedia.org/resource/Mark_Lippert http://dbpedia.org/resource/Mark_William_Lippert http://dbpedia.org/resource/Mark_W._Lippert
+0,14,M. Green,http://dbpedia.org/resource/Matthew_Green_(British_politician),http://dbpedia.org/resource/Mark_Green_(Tennessee_politician)
+0,19,M. Simon,http://dbpedia.org/resource/Max_Simon,http://dbpedia.org/resource/Marcus_Simon http://dbpedia.org/resource/Marcus_B._Simon
+0,22,M. Hebert,,http://dbpedia.org/resource/Malcolm_Hebert
+0,31,L. Murphy,http://dbpedia.org/resource/George_Murphy,http://dbpedia.org/resource/Lewis_Murphy http://dbpedia.org/resource/Lew_Murphy http://dbpedia.org/resource/Lewis_C._Murphy
+0,44,L. Lewis,http://dbpedia.org/resource/Lawrence_Lewis_(politician),"http://dbpedia.org/resource/Lawrence_Lewis_(1767–1839) http://dbpedia.org/resource/Lawrence_Lewis,_1767-1839 http://dbpedia.org/resource/Lawrence_Lewis_(1767-1839)"
+0,46,L. Scott,http://dbpedia.org/resource/Les_Scott,http://dbpedia.org/resource/Lauren_Scott
+0,48,L. Parker,http://dbpedia.org/resource/Lewis_Parker_(politician),http://dbpedia.org/resource/Larry_Parker_(Louisiana_politician)
+0,52,L. G. Jr.,http://dbpedia.org/resource/Samuel_L._Gravely_Jr.,"http://dbpedia.org/resource/Langdon_Goodyear,_Jr http://dbpedia.org/resource/Langdon_Goodyear,_Jr."
+0,53,L. Carson,http://dbpedia.org/resource/Ben_Carson,http://dbpedia.org/resource/Lane_Anderson_Carson http://dbpedia.org/resource/Lane_A._Carson http://dbpedia.org/resource/Lane_Carson
+0,57,K. Lay,http://dbpedia.org/resource/Ken_Lay_(police_officer),http://dbpedia.org/resource/Ko_Lay
+0,66,Kenneth L. Odinet Sr.,http://dbpedia.org/resource/Walter_Boasso,"http://dbpedia.org/resource/Kenneth_L._Odinet,_Sr. http://dbpedia.org/resource/Kenneth_L._Odinet_Sr. http://dbpedia.org/resource/Odinet"
+0,74,K. D. Beyer,http://dbpedia.org/resource/Mustafa_Kemal_Atatürk,http://dbpedia.org/resource/Karen_D._Beyer
+0,75,K. Camper,http://dbpedia.org/resource/Petrus_Camper,http://dbpedia.org/resource/Karen_Camper
+0,79,J. Diez,http://dbpedia.org/resource/Rosa_Díez,http://dbpedia.org/resource/Juba_Diez
+0,81,J. E. Serrano,"http://dbpedia.org/resource/Francisco_Serrano,_1st_Duke_of_la_Torre",http://dbpedia.org/resource/Jose_Enrique_Serrano http://dbpedia.org/resource/José_E._Serrano http://dbpedia.org/resource/Jose_E._Serrano http://dbpedia.org/resource/José_Enrique_Serrano
+0,83,J. Chamberlain,http://dbpedia.org/resource/Neville_Chamberlain,http://dbpedia.org/resource/J._L._Chamberlain http://dbpedia.org/resource/Colonel_Chamberlain http://dbpedia.org/resource/Lawrence_Chamberlain http://dbpedia.org/resource/Major_General_Joshua_Chamberlain http://dbpedia.org/resource/Joshua_Chamberlain http://dbpedia.org/resource/Joshua_Chamberlin http://dbpedia.org/resource/Lawrence_J._Chamberlain http://dbpedia.org/resource/Joshua_L._Chamberlain http://dbpedia.org/resource/Col._Joshua_Lawrence_Chamberlain http://dbpedia.org/resource/Lawrence_Joshua_Chamberlain http://dbpedia.org/resource/Joshua_Lawrence_Chamberlain http://dbpedia.org/resource/Colonel_Joshua_Lawrence_Chamberlain
+0,86,J. P. Johnson,http://dbpedia.org/resource/James_Paul_Johnson,"http://dbpedia.org/resource/Joseph_P._Johnson,_Jr. http://dbpedia.org/resource/Joseph_P._Johnson"
+0,87,"Joseph O. Rogers, Jr.",http://dbpedia.org/resource/Joe_Biden,"http://dbpedia.org/resource/Joseph_O._Rogers,_Jr."
+0,89,"Joseph F. Mullins, Jr.",http://dbpedia.org/resource/Joseph_F._Vallario_Jr.,"http://dbpedia.org/resource/Joseph_F._Mullins,_Jr http://dbpedia.org/resource/Joseph_F._Mullins,_Jr."
+0,90,J. Clancy,http://dbpedia.org/resource/James_Clancy_(politician),http://dbpedia.org/resource/Joseph_Clancy http://dbpedia.org/resource/Joseph_Clancy_(Secret_Service)
+0,93,J. E. Serrano,"http://dbpedia.org/resource/Francisco_Serrano,_1st_Duke_of_la_Torre",http://dbpedia.org/resource/Jose_Enrique_Serrano http://dbpedia.org/resource/José_E._Serrano http://dbpedia.org/resource/Jose_E._Serrano http://dbpedia.org/resource/José_Enrique_Serrano
+0,97,J. Williams,"http://dbpedia.org/resource/Gareth_Williams,_Baron_Williams_of_Mostyn",http://dbpedia.org/resource/John_Williams_(Tennessee)
+0,100,J. W. Davis,http://dbpedia.org/resource/John_Wesley_Davis,http://dbpedia.org/resource/John_W._Davis_(governor)
+0,103,J. Steen,http://dbpedia.org/resource/Johannes_Steen,http://dbpedia.org/resource/John_Steen_(Texas_politician)
+0,115,J. McCoy,http://dbpedia.org/resource/John_McCoy_(American_politician),http://dbpedia.org/resource/John_R._McCoy http://dbpedia.org/resource/John_McCoy_(politician)
+0,120,J. Huffman,http://dbpedia.org/resource/Jared_Huffman,http://dbpedia.org/resource/John_Huffman_(politician) http://dbpedia.org/resource/John_E._Huffman
+0,122,J. Harper,http://dbpedia.org/resource/Stephen_Harper,http://dbpedia.org/resource/John_Harper_(politician)
+0,123,"John Hall Buchanan, Jr.",http://dbpedia.org/resource/John_Hall_Buchanan_Jr.,"http://dbpedia.org/resource/John_Hall_Buchanan,_Jr. http://dbpedia.org/resource/John_H._Buchanan,_Jr."
+0,125,J. George,http://dbpedia.org/resource/John_George_(politician),http://dbpedia.org/resource/John_George_(Virginia_colonist)
+0,130,J. E. Peterson,http://dbpedia.org/resource/J._Hardin_Peterson,http://dbpedia.org/resource/John_E._Peterson
+0,131,"John E. Lyle, Jr.",http://dbpedia.org/resource/John_E._Lyle_Jr.,"http://dbpedia.org/resource/John_E._Lyle,_Jr. http://dbpedia.org/resource/John_E._Lyle"
+0,133,J. Davidson,http://dbpedia.org/resource/Warren_Davidson,http://dbpedia.org/resource/John_Davidson_(politician)
+0,134,J. Cosgrove,http://dbpedia.org/resource/Peter_Cosgrove,http://dbpedia.org/resource/John_A._Cosgrove http://dbpedia.org/resource/John_Cosgrove_(Virginia_politician) http://dbpedia.org/resource/John_Cosgrove_(Virginia)
+0,136,J. Carroll,http://dbpedia.org/resource/John_Carroll_(Ohio_politician),http://dbpedia.org/resource/John_Carroll_(Hawaii_politician)
+0,138,"John C. Harvey, Jr.",http://dbpedia.org/resource/John_Carney_(politician),"http://dbpedia.org/resource/John_C._Harvey,_Jr. http://dbpedia.org/resource/John_C._Harvey"
+0,142,J. Biddle,http://dbpedia.org/resource/Charles_John_Biddle,http://dbpedia.org/resource/John_Biddle_(Michigan) http://dbpedia.org/resource/John_Biddle_(Michigan_politician)
+0,143,J. Bell,http://dbpedia.org/resource/James_Bell_(New_Hampshire_politician),http://dbpedia.org/resource/John_Bell_(Virginia_politician)
+0,144,J. B. White,http://dbpedia.org/resource/Bill_Clinton,http://dbpedia.org/resource/John_Baker_White_(West_Virginia_politician)
+0,145,J. B. White,http://dbpedia.org/resource/Bill_Clinton,http://dbpedia.org/resource/John_Baker_White_(Virginia)
+0,154,J. Duncan,http://dbpedia.org/resource/John_Duncan_(Canadian_politician),"http://dbpedia.org/resource/Jimmy_Duncan_(Tennessee_politician) http://dbpedia.org/resource/John_Duncan,_Jr http://dbpedia.org/resource/Jimmy_Duncan_(U.S._politician) http://dbpedia.org/resource/John_Duncan,_Jr. http://dbpedia.org/resource/John_James_Duncan,_Jr. http://dbpedia.org/resource/John_Duncan_Jr. http://dbpedia.org/resource/John_J._Duncan,_Jr. http://dbpedia.org/resource/Jimmy_Duncan_Jr. http://dbpedia.org/resource/John_James_Duncan http://dbpedia.org/resource/John_J._Duncan_Jr."
+0,156,J. Lee,http://dbpedia.org/resource/Christopher_Lee,http://dbpedia.org/resource/Jimmie_Lee
+0,157,J. Hall,http://dbpedia.org/resource/John_Hall_(Labour_politician),http://dbpedia.org/resource/Jimmie_Hall_(politician)
+0,162,J. Mitchell,http://dbpedia.org/resource/George_J._Mitchell,http://dbpedia.org/resource/Jim_Mitchell_(Louisiana_judge)
+0,164,J. Martin,http://dbpedia.org/resource/John_Martin_(Young_Irelander),http://dbpedia.org/resource/Jim_Martin_(Georgia_politician)
+0,165,J. Marshall,http://dbpedia.org/resource/John_Marshall,"http://dbpedia.org/resource/James_Creel_""Jim""_Marshall http://dbpedia.org/resource/Jim_Marshall_(Georgia_politician) http://dbpedia.org/resource/James_Creel_Marshall http://dbpedia.org/resource/Jim_Marshall_(US_politician) http://dbpedia.org/resource/Jim_Marshall_(U.S._politician) http://dbpedia.org/resource/Jim_Marshall_(Georgia)"
+0,166,J. Marriott,http://dbpedia.org/resource/John_Marriott_(British_politician),http://dbpedia.org/resource/Jim_Marriott
+0,168,J. Jones,http://dbpedia.org/resource/Jenny_Jones_(Labour_politician),http://dbpedia.org/resource/Jim_Jones_(judge) http://dbpedia.org/resource/Jim_Jones_(jurist)
+0,169,J. Howell,http://dbpedia.org/resource/Joseph_Howell,http://dbpedia.org/resource/Jim_Howell_(Michigan_politician) http://dbpedia.org/resource/Jim_Howell_(politician)
+0,173,J. Caldwell,http://dbpedia.org/resource/James_Caldwell_(Ohio_politician),http://dbpedia.org/resource/Jim_Caldwell_(Arkansas_politician)
+0,174,J. Banks,http://dbpedia.org/resource/Julia_Banks,http://dbpedia.org/resource/Jim_Banks
+0,178,J. Crowley,http://dbpedia.org/resource/Joe_Crowley,http://dbpedia.org/resource/Jeremiah_Crowley_(politician)
+0,180,J. Carroll,http://dbpedia.org/resource/John_Carroll_(Ohio_politician),http://dbpedia.org/resource/Jennifer_S._Carroll http://dbpedia.org/resource/Jennifer_Carroll
+0,186,J. Frederick,http://dbpedia.org/resource/John_Herschel,http://dbpedia.org/resource/Jeff_Frederick http://dbpedia.org/resource/Jeffrey_M._Frederick
+0,188,J. Baxter,http://dbpedia.org/resource/John_Baxter_(judge),http://dbpedia.org/resource/Jeff_Baxter_(politician)
+0,191,J. Chen,http://dbpedia.org/resource/Chen_Chien-jen,http://dbpedia.org/resource/Jay_Chen
+0,195,J. V. Stanton,http://dbpedia.org/resource/J._William_Stanton,http://dbpedia.org/resource/James_V._Stanton http://dbpedia.org/resource/James_Vincent_Stanton

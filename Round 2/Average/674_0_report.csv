@@ -1,0 +1,10 @@
+F1: 0.52941,Precision: 0.52941,Recall: 0.52941,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,T. Raji,http://dbpedia.org/resource/Azita_Raji,http://dbpedia.org/resource/Toyin_Raji
+0,3,S. Cruz,http://dbpedia.org/resource/Ted_Cruz,http://dbpedia.org/resource/Sonia_Cruz
+0,4,S. Hodge,http://dbpedia.org/resource/Stephen_Hodge_(American_football),http://dbpedia.org/resource/Sheroma_Hodge
+0,5,S. Biggs,http://dbpedia.org/resource/Tom_Biggs,http://dbpedia.org/resource/Scherri_Lee_Biggs http://dbpedia.org/resource/Scherri-Lee_Biggs
+0,7,R. Sundquist,http://dbpedia.org/resource/Josh_Sundquist,http://dbpedia.org/resource/Randi_Sundquist
+0,8,R. Carpenter,http://dbpedia.org/resource/Richard_Carpenter_(musician),http://dbpedia.org/resource/Ramsey_Carpenter
+0,9,P. D. Silva,http://dbpedia.org/resource/Adriano_Pereira_da_Silva,http://dbpedia.org/resource/Patricia_Da_Silva http://dbpedia.org/resource/Patrícia_Da_Silva http://dbpedia.org/resource/Patrícia_da_Silva
+0,16,N. Tapia,http://dbpedia.org/resource/Bill_Tapia,http://dbpedia.org/resource/Nabila_Tapia

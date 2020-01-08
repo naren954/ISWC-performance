@@ -1,0 +1,22 @@
+F1: 0.88439,Precision: 0.88439,Recall: 0.88439,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,6,The Seven Songs of Merlin,http://dbpedia.org/resource/Merlin_Book_2:_The_Seven_Songs,http://dbpedia.org/resource/The_Seven_Songs_of_Merlin
+1,7,Inferno,http://dbpedia.org/resource/Isaac_Asimov's_Inferno,http://dbpedia.org/resource/Dan_Brown_Inferno http://dbpedia.org/resource/Inferno_(Dan_Brown_novel) http://dbpedia.org/resource/Inferno_(2015_film) http://dbpedia.org/resource/Inferno_(2013_novel) http://dbpedia.org/resource/Inferno_(Brown_novel)
+1,8,The Royal Ranger,http://dbpedia.org/resource/The_Royal_Ranger:_A_New_Beginning,http://dbpedia.org/resource/The_Royal_Ranger
+1,12,Beyond the Frontier: Dreadnaught,http://fr.dbpedia.org/resource/Intrépide_(roman),http://dbpedia.org/resource/Beyond_the_Frontier:_Invincible http://dbpedia.org/resource/Beyond_the_Frontier:_Dreadnaught http://dbpedia.org/resource/Beyond_the_Frontier:_Guardian http://dbpedia.org/resource/The_Lost_Stars:_Tarnished_Knight http://dbpedia.org/resource/Beyond_the_Frontier:_Steadfast http://dbpedia.org/resource/Lost_Fleet http://dbpedia.org/resource/The_Lost_Fleet
+1,22,On The Mountain,http://dbpedia.org/resource/Fire_on_the_Mountain_(album),http://dbpedia.org/resource/On_the_Mountain http://dbpedia.org/resource/On_The_Mountain
+1,27,Endangered Species,http://dbpedia.org/resource/Endangered_Species_(Lynyrd_Skynyrd_album),http://dbpedia.org/resource/Endangered_Species_(novel) http://dbpedia.org/resource/Endangered_Species_(Angel_novel)
+1,39,How It Ends: From You to the Universe,,http://dbpedia.org/resource/How_It_Ends:_From_You_to_the_Universe
+1,49,Correction,,http://dbpedia.org/resource/Correction_(novel) http://dbpedia.org/resource/Correction_(book)
+1,60,Phantom,http://dbpedia.org/resource/The_Phantom_of_the_Opera,http://dbpedia.org/resource/Phantom_(Nesbø_novel)
+1,79,Vox,http://dbpedia.org/resource/Vox_(Stewart_and_Riddell_novel),http://dbpedia.org/resource/Vox_(novel) http://dbpedia.org/resource/Vox_(The_Edge_Chronicles)
+1,87,The Last of the Jedi: Master of Deception,http://dbpedia.org/resource/The_Last_of_the_Jedi:_Secret_Weapon,http://dbpedia.org/resource/The_Last_of_the_Jedi http://dbpedia.org/resource/The_Last_of_the_Jedi:_Reckoning http://dbpedia.org/resource/Star_Wars:_The_Last_of_the_Jedi http://dbpedia.org/resource/The_Last_of_the_Jedi:_Master_of_Deception http://dbpedia.org/resource/The_Last_of_The_Jedi
+1,90,House of Cards,http://dbpedia.org/resource/House_of_Cards_(novel),http://dbpedia.org/resource/House_of_Cards:_A_Tale_of_Hubris_and_Wretched_Excess_on_Wall_Street http://dbpedia.org/resource/House_of_Cards_(Cohan_book)
+1,94,The Heroes of Olympus,http://dbpedia.org/resource/The_Blood_of_Olympus,"http://dbpedia.org/resource/The_Heroes_of_Olympus http://dbpedia.org/resource/Camp_Jupiter http://dbpedia.org/resource/The_Heroes_of_Olympus,_book_four http://dbpedia.org/resource/""The_Heroes_of_Olympus"" http://dbpedia.org/resource/The_Heroes_of_Olympus,_book_three http://dbpedia.org/resource/Heroes_of_Olympus http://dbpedia.org/resource/The_Heroes_of_Olympus,_book_five http://dbpedia.org/resource/The_Heroes_of_Olympus,_book_two"
+1,98,A Captive in the Land,http://dbpedia.org/resource/A_Captive_in_the_Land_(novel),http://dbpedia.org/resource/Captive_in_the_Land http://dbpedia.org/resource/A_Captive_in_the_Land
+1,121,Rules of Engagement,http://dbpedia.org/resource/Rules_of_Engagement_(Elizabeth_Moon_novel),http://dbpedia.org/resource/Rules_of_Engagement_(Star_Trek_novel) http://dbpedia.org/resource/Rules_of_Engagement_(Star_Trek)
+1,139,Burnt Offerings,http://dbpedia.org/resource/Burnt_Offerings_(Hamilton_novel),http://dbpedia.org/resource/Burnt_Offerings_(novel)
+1,143,The English Assassin,http://dbpedia.org/resource/The_English_Assassin:_A_Romance_of_Entropy,http://dbpedia.org/resource/The_English_Assassin_(Daniel_Silva_novel) http://dbpedia.org/resource/The_English_Assassin_(Silva_novel)
+1,160,The Test,http://dbpedia.org/resource/Tested,http://dbpedia.org/resource/The_Test_(Applegate_novel) http://dbpedia.org/resource/The_Test_(Animorphs)
+1,169,The Visitor,http://dbpedia.org/resource/The_Visitors_(ABBA_album),http://dbpedia.org/resource/The_Visitor_(novel) http://dbpedia.org/resource/The_Visitor_(Animorphs)
+1,170,The Hunters,http://dbpedia.org/resource/The_Witch_Hunters_(novel),http://dbpedia.org/resource/The_Hunters_(Brotherband)

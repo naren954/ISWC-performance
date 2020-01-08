@@ -1,0 +1,4 @@
+"F1: 0.77778","Precision: 0.77778","Recall: 0.77778"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","7","Ed Jones Redistricted from the 8th district","http://dbpedia.org/resource/Texas_House_of_Representatives","http://dbpedia.org/resource/Ed_Jones_(US_politician) http://dbpedia.org/resource/Edward_""Ed""_Jones http://dbpedia.org/resource/Ed_Jones_(U.S._politician)"
+"1","9","Dan Kuykendall Redistricted from the 9th district","http://dbpedia.org/resource/2011_Tōhoku_earthquake_and_tsunami","http://dbpedia.org/resource/Dan_Helfin_Kuykendall http://dbpedia.org/resource/Dan_H._Kuykendall http://dbpedia.org/resource/Daniel_Kuykendall http://dbpedia.org/resource/Dan_H_Kuykendall http://dbpedia.org/resource/Dan_Heflin_Kuykendall http://dbpedia.org/resource/Dan_Kuykendall"

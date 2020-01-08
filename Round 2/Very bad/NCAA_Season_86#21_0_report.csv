@@ -1,0 +1,8 @@
+F1: 0.14286,Precision: 0.14286,Recall: 0.14286,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,AU,,http://dbpedia.org/resource/Arellano_Chiefs http://dbpedia.org/resource/AU_Chiefs
+0,3,CSJL,http://dbpedia.org/resource/Colegio_de_San_Juan_de_Letran,http://dbpedia.org/resource/Letran_Murder_Inc. http://dbpedia.org/resource/Letran_Knights http://dbpedia.org/resource/Letran_Squires http://dbpedia.org/resource/Letran_Lady_Knights
+0,4,EAC,http://dbpedia.org/resource/University_of_Debrecen,http://dbpedia.org/resource/EAC-ICA_Brigadiers http://dbpedia.org/resource/EAC_Generals
+0,5,LSGH,http://dbpedia.org/resource/La_Salle_Green_Hills,http://dbpedia.org/resource/La_Salle_Greenies http://dbpedia.org/resource/LSGH_Greenies http://dbpedia.org/resource/La_Salle_Green_Hills_Greenies
+0,7,SBC,http://dbpedia.org/resource/San_Beda_University,http://dbpedia.org/resource/Bedan_cheers http://dbpedia.org/resource/San_Beda_Red_Lions http://dbpedia.org/resource/San_Beda_Red_Cubs
+0,8,UPHSD,http://dbpedia.org/resource/University_of_Perpetual_Help_System_DALTA,http://dbpedia.org/resource/Altas http://dbpedia.org/resource/UPHSD_Altas http://dbpedia.org/resource/Perpetual_Altas http://dbpedia.org/resource/UPHD_Altas http://dbpedia.org/resource/Perpetual_Help_Altas http://dbpedia.org/resource/UPHD_Altalettes http://dbpedia.org/resource/UPHSD_Altalettes

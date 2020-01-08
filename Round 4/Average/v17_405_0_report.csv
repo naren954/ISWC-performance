@@ -1,0 +1,19 @@
+F1: 0.66000,Precision: 0.66000,Recall: 0.66000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Why Lady Why,http://dbpedia.org/resource/Why_Lady_Why,http://dbpedia.org/resource/Why_Lady_Why_(Gary_Morris_song)
+0,3,Why I Am,http://dbpedia.org/resource/Why_I_Am_(song),http://dbpedia.org/resource/Why_I_Am
+0,6,Why Girls Leave Home,http://dbpedia.org/resource/Why_Girls_Leave_Home_(1945_film),http://dbpedia.org/resource/Why_Girls_Leave_Home
+0,9,Why Don't You Try,http://dbpedia.org/resource/Why_Don't_You_&_I,http://dbpedia.org/resource/Why_Don't_You_Try
+0,10,Why Don't You Love Me,http://dbpedia.org/resource/Why_Don't_You_Love_Me_(Beyoncé_song),http://dbpedia.org/resource/Why_Don't_You_Love_Me_(Hank_Williams_song)
+0,16,Why Don't We Do It in the Road?,,http://dbpedia.org/resource/Why_Don't_We_Do_It_in_the_Road?
+0,22,Why Do You Love Me,http://dbpedia.org/resource/Why_Don't_You_Love_Me_(Beyoncé_song),http://dbpedia.org/resource/Nobody_Can_Win http://dbpedia.org/resource/Space_Can_Come_Through_Anyone http://dbpedia.org/resource/Why_Do_You_Love_Me? http://dbpedia.org/resource/Why_Do_You_Love_Me
+0,26,Why Do Fools Fall in Love,http://dbpedia.org/resource/Why_Do_Fools_Fall_in_Love_(film),http://dbpedia.org/resource/Why_Do_Fools_Fall_in_Love_(song)
+0,34,Why Can't We Be Friends?,,http://dbpedia.org/resource/Why_Can't_We_Be_Friends?_(song)
+0,37,Why Can't I Be You?,http://dbpedia.org/resource/Why_Can't_I_Have_You,http://dbpedia.org/resource/Why_Can't_I_Be_You?
+0,44,Why,http://dbpedia.org/resource/Why_(3T_song),http://dbpedia.org/resource/Why_(Tony_Sheridan_song) http://dbpedia.org/resource/Why_(Can't_You_Love_Me_Again)
+0,45,Why,http://dbpedia.org/resource/Why_(3T_song),http://dbpedia.org/resource/Why_(Sonique_song)
+0,46,Why,http://dbpedia.org/resource/Why_(3T_song),http://dbpedia.org/resource/Why_(Rascal_Flatts_song)
+0,47,Why,http://dbpedia.org/resource/Why_(3T_song),http://dbpedia.org/resource/Why_(Mary_J._Blige_song)
+0,48,Why,http://dbpedia.org/resource/Why_(3T_song),http://dbpedia.org/resource/Why_(Jason_Aldean_song)
+0,49,Why,http://dbpedia.org/resource/Why_(3T_song),http://dbpedia.org/resource/Why_(Frankie_Avalon_song) http://dbpedia.org/resource/Why_(Donny_Osmond_Song)
+0,50,Why,http://dbpedia.org/resource/Why_(3T_song),http://dbpedia.org/resource/Why_(Carly_Simon_song)

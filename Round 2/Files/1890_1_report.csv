@@ -1,0 +1,6 @@
+"F1: 0.69231","Precision: 0.69231","Recall: 0.69231"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","7","O. King","http://dbpedia.org/resource/Charles_I_of_England","http://dbpedia.org/resource/Owen_King http://dbpedia.org/resource/Kelly_Braffet"
+"1","8","R. Westbrook","http://dbpedia.org/resource/John_Westbrook_(actor)","http://dbpedia.org/resource/Robert_Westbrook_(Author) http://dbpedia.org/resource/Robert_Westbrook"
+"1","10","P. Reyes","http://dbpedia.org/resource/Pedro_Reyes_(comedian)","http://dbpedia.org/resource/Pedrito_Reyes http://dbpedia.org/resource/Kulafu"
+"1","12","A. Hargreaves","http://dbpedia.org/resource/Christine_Hargreaves","http://dbpedia.org/resource/Adam_Hargreaves"

@@ -1,0 +1,13 @@
+F1: 0.82812,Precision: 0.82812,Recall: 0.82812,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,4,Trinity Academy,"http://dbpedia.org/resource/Trinity,_Texas","http://dbpedia.org/resource/Trinity_Academy_(Portland,_Oregon) http://dbpedia.org/resource/Trinity_Academy_Middle_and_High_School_(Portland,_OR)"
+0,7,Schwarzenburg,http://de.dbpedia.org/resource/Schwarzenburg_(Lockweiler),http://dbpedia.org/resource/Schwarzenburg_(Breisgau)
+0,15,Kennedy Bridge,"http://dbpedia.org/resource/Kennedy_Bridge_(Kimberton,_Pennsylvania)","http://dbpedia.org/resource/Kennedybrücke_(Bonn) http://dbpedia.org/resource/Kennedy_Bridge_(Bonn) http://dbpedia.org/resource/Kennedy_bridge_(Bonn,_Germany) http://dbpedia.org/resource/Kennedy_Bridge_(Bonn,_Germany)"
+0,16,Katzenelnbogen,http://de.dbpedia.org/resource/Burg_Katzenelnbogen,"http://dbpedia.org/resource/Katzenellenbogen,_Germany http://dbpedia.org/resource/Katzenelnbogen"
+0,18,Hohenstein Castle,http://de.dbpedia.org/resource/Burg_Hohenstein_(Taunus),http://dbpedia.org/resource/Hohenstein_Castle_(Middle_Franconia) http://dbpedia.org/resource/Burg_Hohenstein_(Mittelfranken) http://dbpedia.org/resource/Burg_Hohenstein_(Middle_Franconia)
+0,22,Falkenstein Castle,http://dbpedia.org/resource/Falkenstein_Castle_(Pfronten),http://dbpedia.org/resource/Burgruine_Falkenstein_(Bad_Emstal) http://dbpedia.org/resource/Falkenstein_Castle_(Bad_Emstal)
+0,25,Château Bel Air,http://fr.dbpedia.org/resource/Château_Bel-Air_(La_Réunion),http://dbpedia.org/resource/Château_Bel_Air_(Le_Haillan) http://dbpedia.org/resource/Chateau_Bel_Air_(Le_Haillan)
+0,27,Château Bel Air,http://fr.dbpedia.org/resource/Château_Bel-Air_(La_Réunion),http://dbpedia.org/resource/Château_Bel_Air_(Le_Haillan) http://dbpedia.org/resource/Chateau_Bel_Air_(Le_Haillan)
+0,46,Castle of D. Chica,http://dbpedia.org/resource/Castelo_da_Dona_Chica,http://dbpedia.org/resource/Castelo_da_D._Chica http://dbpedia.org/resource/Dona_Chica_Castle http://dbpedia.org/resource/Castle_of_D._Chica
+0,57,Castle of Alcoutim,http://dbpedia.org/resource/Castle_of_Alcoutim,http://dbpedia.org/resource/Castle_of_Alcoutim_(Old) http://dbpedia.org/resource/Castelo_Velho_de_Alcoutim http://dbpedia.org/resource/Velho_de_Alcoutim_Castle
+0,60,Castle Balfour,http://dbpedia.org/resource/Balfour_Castle,http://dbpedia.org/resource/Castle_Balfour

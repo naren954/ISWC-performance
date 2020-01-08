@@ -1,0 +1,5 @@
+"F1: 0.86957","Precision: 0.86957","Recall: 0.86957"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","6","Oil Campaign of World War II","http://dbpedia.org/resource/Pacific_War","http://dbpedia.org/resource/Bombing_of_Germany_oil_facilities_during_World_War_II http://dbpedia.org/resource/Bombing_of_non-German_oil_facilities_in_the_WWII_ETO http://dbpedia.org/resource/Oil_Campaign_of_World_War_II http://dbpedia.org/resource/Bombing_of_Nazi_Germany_oil_facilities_during_World_War_II http://dbpedia.org/resource/Bombing_of_German_oil_facilities_during_World_War_II"
+"0","10","Odessa Bolshevik Uprising","http://dbpedia.org/resource/Moscow_Bolshevik_Uprising","http://dbpedia.org/resource/Odessa_Bolshevik_Uprising"
+"0","20","OPLAN 5027","http://dbpedia.org/resource/Oplan_HACKLE","http://dbpedia.org/resource/OPLAN_5027 http://dbpedia.org/resource/Oplan_5027"

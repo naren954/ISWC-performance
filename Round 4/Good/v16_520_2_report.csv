@@ -1,0 +1,6 @@
+F1: 0.97701,Precision: 0.97701,Recall: 0.97701,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,57,Display,http://dbpedia.org/resource/Display_Stakes,http://dbpedia.org/resource/Display_(horse)
+2,83,Roberto,http://dbpedia.org/resource/Roberto_Marinho,http://dbpedia.org/resource/Roberto_(horse)
+2,151,Nearctic,http://dbpedia.org/resource/Nearctic_(horse),http://dbpedia.org/resource/Northern_Mexico_Bioregion http://dbpedia.org/resource/Nearctic_Realm http://dbpedia.org/resource/Canadian_Shield_Bioregion http://dbpedia.org/resource/Nearctic http://dbpedia.org/resource/Eastern_North_America_Bioregion http://dbpedia.org/resource/Nearctic_ecozone http://dbpedia.org/resource/Nearctic_realm http://dbpedia.org/resource/Western_North_America_Bioregion
+2,164,Boston,http://dbpedia.org/resource/Thomas_Boston,http://dbpedia.org/resource/Boston_(horse)

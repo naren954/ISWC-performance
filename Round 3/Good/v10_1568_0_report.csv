@@ -1,0 +1,8 @@
+F1: 0.81250,Precision: 0.81250,Recall: 0.81250,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,USS Acadia,http://dbpedia.org/resource/CSS_Acadia,http://dbpedia.org/resource/U.S.S._Acadia http://dbpedia.org/resource/USS_ACADIA_(AD-42) http://dbpedia.org/resource/USS_Acadia http://dbpedia.org/resource/USS_Acadia_(AD-42)
+0,2,USS Abraham Lincoln,http://dbpedia.org/resource/USS_Abraham_Lincoln_(CVN-72),http://dbpedia.org/resource/SSBN-602 http://dbpedia.org/resource/SSN-602 http://dbpedia.org/resource/USS_Abraham_Lincoln_(SSBN-602)
+0,3,USS APc-25,http://dbpedia.org/resource/USS_S-25_(SS-130),http://dbpedia.org/resource/USS_APc-25
+0,13,SS France,http://dbpedia.org/resource/SS_France_(1960),http://dbpedia.org/resource/SS_France_(1962) http://dbpedia.org/resource/SS_Blue_Lady http://dbpedia.org/resource/SS_France_(1961) http://dbpedia.org/resource/MS_Norway http://dbpedia.org/resource/SS_Norway http://dbpedia.org/resource/The_Norway
+0,15,SM UB-10,http://dbpedia.org/resource/SM_UB-40,http://dbpedia.org/resource/Unterseeboot_B-10 http://dbpedia.org/resource/German_submarine_UB10 http://dbpedia.org/resource/SM_UB-10 http://dbpedia.org/resource/German_submarine_UB_10 http://dbpedia.org/resource/UB_10 http://dbpedia.org/resource/German_submarine_UB-10 http://dbpedia.org/resource/UB-10
+0,30,French cruiser Chanzy,http://dbpedia.org/resource/French_cruiser_Condé,http://dbpedia.org/resource/French_cruiser_Chanzy http://dbpedia.org/resource/French_armoured_cruiser_Chanzy

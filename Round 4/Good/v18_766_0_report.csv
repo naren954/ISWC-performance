@@ -1,0 +1,24 @@
+F1: 0.84507,Precision: 0.84507,Recall: 0.84507,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,William H. Grogan House,"http://dbpedia.org/resource/William_H._Grant_House_(Richmond,_Virginia)",http://dbpedia.org/resource/William_H._Grogan_House
+0,3,William H. Grant House,"http://dbpedia.org/resource/William_H._Grant_House_(Richmond,_Virginia)","http://dbpedia.org/resource/William_H._Grant_House_(Middleport,_Ohio)"
+0,6,William Gunnell House,"http://dbpedia.org/resource/William_Gunnell_House_(Great_Falls,_Virginia)","http://dbpedia.org/resource/William_Gunnell_House_(Fairfax,_Virginia)"
+0,7,William Gorton Farm,http://dbpedia.org/resource/William_Moats_Farm,http://dbpedia.org/resource/William_Gorton_Farm
+0,10,William G. Smith House,"http://dbpedia.org/resource/William_G._Smith_House_(Davenport,_Iowa)","http://dbpedia.org/resource/William_G._Smith_House_(Bullock,_North_Carolina)"
+0,15,William F. Perry House,http://dbpedia.org/resource/William_F._Pierce_House,http://dbpedia.org/resource/William_F._Perry_House
+0,16,William F. Norton House,http://dbpedia.org/resource/William_F._Pierce_House,http://dbpedia.org/resource/William_F._Norton_House
+0,18,William F. Grant House,"http://dbpedia.org/resource/William_H._Grant_House_(Richmond,_Virginia)",http://dbpedia.org/resource/William_F._Grant_House
+0,28,William E. Ervin House,http://dbpedia.org/resource/William_Poole_House,http://dbpedia.org/resource/William_E._Ervin_House
+0,34,William Dean Howells House,"http://dbpedia.org/resource/William_Dean_Howells_House_(Cambridge,_Massachusetts)","http://dbpedia.org/resource/William_Dean_Howells_House_(Kittery_Point,_Maine)"
+0,45,William Colburn House,http://dbpedia.org/resource/Gilbert_Colburn_House,http://dbpedia.org/resource/William_Colburn_House
+0,55,William C. Jayne House,http://dbpedia.org/resource/William_C._Jones_House,http://dbpedia.org/resource/William_C._Jayne_House
+0,60,William Breese Jr. House,http://dbpedia.org/resource/William_H._Emery_Jr._House,"http://dbpedia.org/resource/William_Breese,_Jr.,_House http://dbpedia.org/resource/William_Breese_Jr._House"
+0,71,William B. Willis House,http://dbpedia.org/resource/William_B._Harris_House,http://dbpedia.org/resource/William_B._Willis_House http://dbpedia.org/resource/William_B._Wills_House
+0,80,William Allison House,"http://dbpedia.org/resource/William_Allison_House_(College_Grove,_Tennessee)","http://dbpedia.org/resource/William_Allison_House_(Spring_Mills,_Pennsylvania)"
+0,91,Willard Homestead,"http://dbpedia.org/resource/Willard_Homestead_(Newington,_Connecticut)","http://dbpedia.org/resource/Willard_Homestead_(Harrisville,_New_Hampshire)"
+0,96,Willard Brook Quarry,http://dbpedia.org/resource/Willard_Brook_State_Forest,http://dbpedia.org/resource/Willard_Brook_Quarry
+0,104,Wilkinson House,"http://dbpedia.org/resource/Wilkinson_House_(Joelton,_Tennessee)","http://dbpedia.org/resource/Wilkinson_House_(Pocopson_Township,_Pennsylvania) http://dbpedia.org/resource/Wilkinson_House_(Pocopson_Twp.,_Pennsylvania)"
+0,121,Wildwood Park Historic District,"http://dbpedia.org/resource/Wildwood_Park_Historic_District_(Fort_Wayne,_Indiana)","http://dbpedia.org/resource/Wildwood_Park_Historic_District_(Charles_City,_Iowa)"
+0,122,Wildwood Hall,"http://dbpedia.org/resource/Wildwood_Lake,_Tennessee",http://dbpedia.org/resource/Wildwood_Hall
+0,124,Wildwood,"http://dbpedia.org/resource/Wildwood_(Beckley,_West_Virginia)","http://dbpedia.org/resource/Wildwood_(Semora,_North_Carolina)"
+0,131,Wilder-Swaim House,http://dbpedia.org/resource/Wild_Basin_House,"http://dbpedia.org/resource/Wilder-Swaim_House_(Montgomery,_Ohio) http://dbpedia.org/resource/Wilder-Swaim_House"

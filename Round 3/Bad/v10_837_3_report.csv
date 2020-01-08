@@ -1,0 +1,48 @@
+F1: 0.36986,Precision: 0.36986,Recall: 0.36986,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,2,R. Sangster,http://dbpedia.org/resource/Jack_Sangster,http://dbpedia.org/resource/Robert_E._Sangster http://dbpedia.org/resource/Robert_Sangster
+3,3,W. Farm,http://dbpedia.org/resource/Göran_Färm,http://dbpedia.org/resource/Winstar_Farm http://dbpedia.org/resource/Prestonwood_Farm http://dbpedia.org/resource/Prestonwood_Racing http://dbpedia.org/resource/WinStar_Farm
+3,7,C. Farm,http://dbpedia.org/resource/Göran_Färm,http://dbpedia.org/resource/Claiborne_Farm
+3,8,"Sir John Jarvis, 1st Baronet","http://dbpedia.org/resource/Sir_John_Orde,_1st_Baronet","http://dbpedia.org/resource/Sir_Joseph_John_Jarvis http://dbpedia.org/resource/Sir_Joseph_John_Jarvis,_1st_Baronet http://dbpedia.org/resource/Joseph_Jarvis http://dbpedia.org/resource/Joseph_John_Jarvis http://dbpedia.org/resource/John_Jarvis,_1st_Baronet http://dbpedia.org/resource/Sir_Joseph_Jarvis,_1st_Baronet http://dbpedia.org/resource/Sir_John_Jarvis,_1st_Baronet"
+3,10,"George FitzRoy, 4th Duke of Grafton","http://dbpedia.org/resource/Augustus_FitzRoy,_3rd_Duke_of_Grafton","http://dbpedia.org/resource/George_Henry_Fitzroy,_4th_Duke_of_Grafton http://dbpedia.org/resource/George_Henry_FitzRoy,_4th_Duke_of_Grafton http://dbpedia.org/resource/George_Fitzroy,_4th_Duke_of_Grafton http://dbpedia.org/resource/George_FitzRoy,_4th_Duke_of_Grafton http://dbpedia.org/resource/4th_Duke_of_Grafton"
+3,11,T. McCaffery,http://dbpedia.org/resource/Seamus_McCaffery,http://dbpedia.org/resource/Trudy_McCaffery
+3,12,"William du Pont, Jr.",http://dbpedia.org/resource/William_du_Pont_Jr.,"http://dbpedia.org/resource/William_du_Pont,_Jr. http://dbpedia.org/resource/William_duPont,_Jr. http://dbpedia.org/resource/Foxcatcher_Farms http://dbpedia.org/resource/Foxcatcher_Farm http://dbpedia.org/resource/Jean_du_Pont"
+3,13,"Henry Herbert, 7th Earl of Carnarvon","http://dbpedia.org/resource/Henry_Herbert,_4th_Earl_of_Carnarvon","http://dbpedia.org/resource/Henry_Herbert,_7th_Earl_of_Carnarvon http://dbpedia.org/resource/Henry_George_Reginald_Molyneux_Herbert,_7th_Earl_of_Carnarvon"
+3,14,A. O'Brien,http://dbpedia.org/resource/George_O'Brien_(actor),http://dbpedia.org/resource/Aidan_O'Brien
+3,15,S. J. Miller,http://dbpedia.org/resource/William_J._Miller,"http://dbpedia.org/resource/Sir_James_Miller,_2nd_Baronet http://dbpedia.org/resource/James_Percy_Miller http://dbpedia.org/resource/Sir_James_Percy_Miller http://dbpedia.org/resource/Sir_James_Miller http://dbpedia.org/resource/Sir_James_Percy_Miller,_2nd_Baronet"
+3,20,N. Park,http://dbpedia.org/resource/Nick_Park,http://dbpedia.org/resource/Newsells_Park
+3,21,Arthur B. Hancock III,http://dbpedia.org/resource/Bertrand_Russell,http://dbpedia.org/resource/Arthur_Hancock_III http://dbpedia.org/resource/Arthur_B._Hancock_III
+3,22,"George Child Villiers, 5th Earl of Jersey","http://dbpedia.org/resource/Victor_Child_Villiers,_7th_Earl_of_Jersey","http://dbpedia.org/resource/George_Child_Villiers,_5th_Earl_of_Jersey http://dbpedia.org/resource/George_Child-Villiers,_5th_Earl_of_Jersey http://dbpedia.org/resource/George_Villiers,_5th_Earl_of_Jersey"
+3,24,"Richard Grosvenor, 1st Earl Grosvenor","http://dbpedia.org/resource/Richard_Howe,_1st_Earl_Howe","http://dbpedia.org/resource/Richard_Grosvenor,_1st_Earl_Grosvenor http://dbpedia.org/resource/Richard_Grosvenor,_1st_Earl_of_Grosvenor"
+3,26,C. Farm,http://dbpedia.org/resource/Göran_Färm,http://dbpedia.org/resource/Claiborne_Farm
+3,28,K. Ranch,http://dbpedia.org/resource/John_Ranch,http://dbpedia.org/resource/King_Ranch http://dbpedia.org/resource/Consolidated_Citrus
+3,29,J. Wertheimer,http://dbpedia.org/resource/Gérard_Wertheimer,http://dbpedia.org/resource/Jacques_Wertheimer
+3,31,C. P. Stud,http://de.dbpedia.org/resource/Andreas_C._Studer,http://dbpedia.org/resource/Cheveley_Park_Stud
+3,32,S. Farm,http://dbpedia.org/resource/Göran_Färm,http://dbpedia.org/resource/Sam-Son_Farm http://dbpedia.org/resource/Sam-Son_Farms
+3,34,L. Freedman,http://dbpedia.org/resource/Lawrence_Freedman,http://dbpedia.org/resource/Louis_Freedman
+3,37,A. Springs,http://dbpedia.org/resource/Cornelis_Springer,http://dbpedia.org/resource/Adena_Springs_South http://dbpedia.org/resource/Adena_Springs http://dbpedia.org/resource/Adena_Springs_Farms http://dbpedia.org/resource/Adena_Springs_Farm
+3,38,C. P. Stud,http://de.dbpedia.org/resource/Andreas_C._Studer,http://dbpedia.org/resource/Cheveley_Park_Stud
+3,39,J. Farms,http://dbpedia.org/resource/Göran_Färm,http://dbpedia.org/resource/Juddmonte_Farm http://dbpedia.org/resource/Juddmonte_Stud http://dbpedia.org/resource/Juddmonte_Farms
+3,40,C. Farm,http://dbpedia.org/resource/Göran_Färm,http://dbpedia.org/resource/Calumet_Farms http://dbpedia.org/resource/Calumet_farm http://dbpedia.org/resource/Calumet_Farm
+3,41,M. G. Phipps,"http://dbpedia.org/resource/George_Phipps,_2nd_Marquess_of_Normanby",http://dbpedia.org/resource/Michael_Grace_Phipps http://dbpedia.org/resource/Michael_Phipps http://dbpedia.org/resource/Michael_G._Phipps
+3,42,J. Farms,http://dbpedia.org/resource/Göran_Färm,http://dbpedia.org/resource/Juddmonte_Farm http://dbpedia.org/resource/Juddmonte_Stud http://dbpedia.org/resource/Juddmonte_Farms
+3,43,S. Farm,http://dbpedia.org/resource/Göran_Färm,http://dbpedia.org/resource/Sam-Son_Farm http://dbpedia.org/resource/Sam-Son_Farms
+3,44,A. Stable,http://dbpedia.org/resource/Ken_Stabler,"http://dbpedia.org/resource/George_W._Strawbridge_Jr. http://dbpedia.org/resource/George_W._Strawbridge,_Jr. http://dbpedia.org/resource/Augustin_Stable http://dbpedia.org/resource/George_Strawbridge,_Jr."
+3,45,J. Farms,http://dbpedia.org/resource/Göran_Färm,http://dbpedia.org/resource/Juddmonte_Farm http://dbpedia.org/resource/Juddmonte_Stud http://dbpedia.org/resource/Juddmonte_Farms
+3,49,S. G. Stables,http://dbpedia.org/resource/John_G._Stabler,http://dbpedia.org/resource/Skara_Glen_Stables
+3,50,S. Stables,http://dbpedia.org/resource/Ken_Stabler,"http://dbpedia.org/resource/Stonestreet_Stables http://dbpedia.org/resource/Jess_Jackson_(viticulturist) http://dbpedia.org/resource/Jess_Jackson http://dbpedia.org/resource/Jess_Jackson_(wine) http://dbpedia.org/resource/Jess_Jackson_(billionaire) http://dbpedia.org/resource/Jess_Jackson,_Jr. http://dbpedia.org/resource/Murphy-Goode http://dbpedia.org/resource/Jess_Stonestreet_Jackson,_Jr. http://dbpedia.org/resource/Jess_Stonestreet_Jackson_Jr. http://dbpedia.org/resource/Jess_Stonestreet_Jackson"
+3,51,C. Farm,http://dbpedia.org/resource/Göran_Färm,http://dbpedia.org/resource/Claiborne_Farm
+3,52,R. N. Webster,http://dbpedia.org/resource/Sidney_Webster,http://dbpedia.org/resource/Reginald_N._Webster http://dbpedia.org/resource/Reginald_Webster
+3,53,J. Farms,http://dbpedia.org/resource/Göran_Färm,http://dbpedia.org/resource/Juddmonte_Farm http://dbpedia.org/resource/Juddmonte_Stud http://dbpedia.org/resource/Juddmonte_Farms
+3,54,T. Stable,http://dbpedia.org/resource/Ken_Stabler,http://dbpedia.org/resource/William_L._McKnight http://dbpedia.org/resource/Tartan_Stable
+3,57,D. Stud,http://dbpedia.org/resource/Bernhard_Studer,http://dbpedia.org/resource/Darley_stud http://dbpedia.org/resource/Darley_Stud http://dbpedia.org/resource/Dalham_Hall_Stud http://dbpedia.org/resource/Kildangan_Stud
+3,58,J. Farms,http://dbpedia.org/resource/Göran_Färm,http://dbpedia.org/resource/Juddmonte_Farm http://dbpedia.org/resource/Juddmonte_Stud http://dbpedia.org/resource/Juddmonte_Farms
+3,60,C. Farm,http://dbpedia.org/resource/Göran_Färm,http://dbpedia.org/resource/Claiborne_Farm
+3,61,D. Farm,http://dbpedia.org/resource/Dwight_D._Eisenhower,http://dbpedia.org/resource/Dan_and_Ada_Rice http://dbpedia.org/resource/Danada_Farm http://dbpedia.org/resource/Ada_L._Rice http://dbpedia.org/resource/Daniel_F._Rice
+3,64,K. Ranch,http://dbpedia.org/resource/John_Ranch,http://dbpedia.org/resource/King_Ranch http://dbpedia.org/resource/Consolidated_Citrus
+3,65,B. C. Jones,http://dbpedia.org/resource/David_C._Jones,http://dbpedia.org/resource/Brereton_Jones http://dbpedia.org/resource/Brereton_Chandler_Jones http://dbpedia.org/resource/Brereton_C._Jones
+3,66,William S. Farish III,http://dbpedia.org/resource/George_III_of_the_United_Kingdom,http://dbpedia.org/resource/William_S._Farish_III http://dbpedia.org/resource/William_S_Farish http://dbpedia.org/resource/William_Stamps_Farish_III http://dbpedia.org/resource/William_Farish_III
+3,68,C. Goulandris,http://dbpedia.org/resource/Basil_Goulandris,http://dbpedia.org/resource/Chryss_Goulandris http://dbpedia.org/resource/Lady_O'Reilly
+3,69,W. H. Perry,http://dbpedia.org/resource/Oliver_Hazard_Perry,http://dbpedia.org/resource/William_Haggin_Perry
+3,70,Matamata,http://dbpedia.org/resource/Matamata_Swifts,"http://dbpedia.org/resource/Matamata http://dbpedia.org/resource/Mata_Mata http://dbpedia.org/resource/Matamata,_New_Zealand"
+3,71,B. Stud,http://dbpedia.org/resource/Bernhard_Studer,http://dbpedia.org/resource/Ballymacoll_Stud

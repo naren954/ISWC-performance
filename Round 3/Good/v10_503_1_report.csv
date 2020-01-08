@@ -1,0 +1,7 @@
+F1: 0.97268,Precision: 0.97268,Recall: 0.97268,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,3,Roberto,http://dbpedia.org/resource/Roberto_Marinho,http://dbpedia.org/resource/Roberto_(horse)
+1,45,Spectrum,http://dbpedia.org/resource/Apopestes_spectrum,http://dbpedia.org/resource/Spectrum_(horse)
+1,73,Roberto,http://dbpedia.org/resource/Roberto_Marinho,http://dbpedia.org/resource/Roberto_(horse)
+1,95,The Baron,"http://dbpedia.org/resource/George_Lyttelton,_4th_Baron_Lyttelton",http://dbpedia.org/resource/The_Baron_(horse)
+1,132,Kris S.,http://dbpedia.org/resource/Distorted_Humor,http://dbpedia.org/resource/Kris_S http://dbpedia.org/resource/Kris_S.

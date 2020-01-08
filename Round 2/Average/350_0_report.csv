@@ -1,0 +1,32 @@
+F1: 0.66667,Precision: 0.66667,Recall: 0.66667,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,J. Jones,http://dbpedia.org/resource/J._J._Jones,"http://dbpedia.org/resource/Jim_Jones_(American_football,_born_1935) http://dbpedia.org/resource/Jim_Jones_(defensive_back)"
+0,2,J. Jones,http://dbpedia.org/resource/J._J._Jones,"http://dbpedia.org/resource/Jim_Jones_(American_football,_born_1920)"
+0,3,J. Johnston,http://dbpedia.org/resource/Neil_Johnston,http://dbpedia.org/resource/Jim_Johnston_(American_football) http://dbpedia.org/resource/Jim_Johnston_(football_player)
+0,6,J. Gibbons,http://dbpedia.org/resource/John_Gibbons,http://dbpedia.org/resource/Jim_Gibbons_(football_player) http://dbpedia.org/resource/Jim_Gibbons_(American_football)
+0,10,J. Duncan,http://dbpedia.org/resource/Jim_Duncan_(baseball),http://dbpedia.org/resource/Jim_Duncan_(football_player) http://dbpedia.org/resource/Jim_Duncan_(cornerback)
+0,11,J. Dixon,http://dbpedia.org/resource/Jamar_Dixon,http://dbpedia.org/resource/Jim_Dixon_(American_football)
+0,12,J. David,http://dbpedia.org/resource/Jason_David,http://dbpedia.org/resource/Jim_David_(American_football) http://dbpedia.org/resource/James_Theodoric_David
+0,15,J. Cox,http://dbpedia.org/resource/Joe_Cox_(cricketer),http://dbpedia.org/resource/Jim_Cox_(American_football)
+0,16,J. Copeland,http://dbpedia.org/resource/John_Copeland,http://dbpedia.org/resource/Jim_Copeland
+0,22,J. Butler,http://dbpedia.org/resource/Jack_Butler_(American_football),"http://dbpedia.org/resource/Cannonball_Butler http://dbpedia.org/resource/Jim_Butler_(American_football) http://dbpedia.org/resource/Jim_""Cannonball""_Butler"
+0,29,J. Williams,http://dbpedia.org/resource/Jesse_Williams_(American_football),http://dbpedia.org/resource/Jessie_Williams_(Canadian_football) http://dbpedia.org/resource/Jesse_Williams_(Canadian_football)
+0,32,J. Thomas,http://dbpedia.org/resource/Johnny_Thomas_(wide_receiver),http://dbpedia.org/resource/Jesse_Thomas_(American_football)
+0,35,J. F. Jr.,http://dbpedia.org/resource/John_Fritsche_Jr.,"http://dbpedia.org/resource/Jesse_Freitas,_Jr. http://dbpedia.org/resource/Jesse_Freitas_(American_football,_born_1951) http://dbpedia.org/resource/Jesse_Freitas_III http://dbpedia.org/resource/Jesse_Freitas_Jr. http://dbpedia.org/resource/Jesse_Freitas_(1970s_football)"
+0,39,J. Smith,http://dbpedia.org/resource/Jared_Smith_(American_football),http://dbpedia.org/resource/Jerry_Smith_(football_player) http://dbpedia.org/resource/Jerry_Smith_(American_football) http://dbpedia.org/resource/Jerry_Smith_(NFL_player) http://dbpedia.org/resource/Jerry_Smith_(footbal_player)
+0,42,J. Jones,http://dbpedia.org/resource/J._J._Jones,http://dbpedia.org/resource/Jerry_Jones_(offensive_lineman)
+0,46,J. Wilson,http://dbpedia.org/resource/Jack_Wilson_(American_football),http://dbpedia.org/resource/Jerrel_Wilson
+0,48,J. Gantt,http://dbpedia.org/resource/Bob_Gantt,http://dbpedia.org/resource/Jerome_Gantt
+0,49,J. Brown,http://dbpedia.org/resource/Jerry_Brown_(gridiron_football),http://dbpedia.org/resource/Jerome_Brown
+0,54,J. Lewis,"http://dbpedia.org/resource/Jermaine_Lewis_(American_football,_born_1979)",http://dbpedia.org/resource/Jeff_Lewis_(American_football)
+0,57,J. Barrett,http://dbpedia.org/resource/John_Barrett_(American_football),http://dbpedia.org/resource/Jeff_Barrett
+0,58,J. Roberts,http://dbpedia.org/resource/Jordan_Roberts_(American_football),http://dbpedia.org/resource/Jay_Roberts
+0,61,J. Williams,http://dbpedia.org/resource/Jesse_Williams_(American_football),http://dbpedia.org/resource/Jarvis_Williams_(American_football) http://dbpedia.org/resource/Jarvis_Willams http://dbpedia.org/resource/Jarvis_Williams_(NFL)
+0,62,J. Barrett,http://dbpedia.org/resource/John_Barrett_(American_football),http://dbpedia.org/resource/Jan_Barrett
+0,63,J. Williams,http://dbpedia.org/resource/Jesse_Williams_(American_football),"http://dbpedia.org/resource/James_""Froggy""_Williams_(American_Football) http://dbpedia.org/resource/James_Williams_(football) http://dbpedia.org/resource/James_Williams_(American_football)"
+0,70,J. Lee,http://dbpedia.org/resource/Christopher_Lee,http://dbpedia.org/resource/James_Lee_(football_player) http://dbpedia.org/resource/James_Lee_(defensive_tackle) http://dbpedia.org/resource/James_Lee_(American_football)
+0,72,J. Young,http://dbpedia.org/resource/Joe_Young_(safety),http://dbpedia.org/resource/Jake_Young
+0,73,J. Stahl,http://dbpedia.org/resource/Jake_Stahl,"http://dbpedia.org/resource/Jake_Stahl_(American_football) http://dbpedia.org/resource/E.A._""Jake""_Stahl http://dbpedia.org/resource/Jake_Stahl_(football)"
+0,76,J. Dunlap,http://dbpedia.org/resource/John_Dunlap_(American_football),http://dbpedia.org/resource/Jake_Dunlap
+0,81,J. Hunt,http://dbpedia.org/resource/Joey_Hunt,http://dbpedia.org/resource/Jackie_Hunt
+0,84,J. Wheeler,http://dbpedia.org/resource/Johnny_Wheeler,http://dbpedia.org/resource/Jack_Wheeler_(American_football) http://dbpedia.org/resource/Clare_Jack_Wheeler

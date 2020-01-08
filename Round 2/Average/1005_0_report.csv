@@ -1,0 +1,4 @@
+F1: 0.71429,Precision: 0.71429,Recall: 0.71429,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,W. Churchill,http://dbpedia.org/resource/Winston_Churchill,"http://dbpedia.org/resource/Winston_Churchill_(politician,_born_1940) http://dbpedia.org/resource/Winston_Churchill_(grandson) http://dbpedia.org/resource/Winston_Churchill_(1940–2010) http://dbpedia.org/resource/Winston_Churchill_(1940-2010) http://dbpedia.org/resource/Winston_Churchill_(born_1940) http://dbpedia.org/resource/Winston_Churchill_(1940-) http://dbpedia.org/resource/Winston_Churchill_(1940)"
+0,5,C. Nicholson,"http://dbpedia.org/resource/Emma_Nicholson,_Baroness_Nicholson_of_Winterbourne","http://dbpedia.org/resource/Charles_Nicholson http://dbpedia.org/resource/Nicholson,_Charles http://dbpedia.org/resource/Sir_Charles_Nicholson http://dbpedia.org/resource/Sir_Charles_Nicholson,_1st_Baronet,_of_Luddenham http://dbpedia.org/resource/Sir_Charles_Nicholson,_1st_Baronet"

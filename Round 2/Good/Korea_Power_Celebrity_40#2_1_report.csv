@@ -1,0 +1,4 @@
+F1: 0.80000,Precision: 0.80000,Recall: 0.80000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,4,Kara,http://dbpedia.org/resource/Mehmet_Kara,"http://dbpedia.org/resource/KARA_girl_group http://dbpedia.org/resource/Kara_(South_Korean_band) http://dbpedia.org/resource/Kara_(girl_group) http://dbpedia.org/resource/Kim_Sung-hee_(singer,_born_1989) http://dbpedia.org/resource/카라 http://dbpedia.org/resource/KARA_(band) http://dbpedia.org/resource/Kim_Sung-hee_(singer_born_1989) http://dbpedia.org/resource/Kara_(group)"
+1,9,Beast*,http://dbpedia.org/resource/Wolverine_(character),http://dbpedia.org/resource/Batoost http://dbpedia.org/resource/B2ST http://dbpedia.org/resource/Beast_(B2ST) http://dbpedia.org/resource/Beast_(South_Korean_band)

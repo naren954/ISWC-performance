@@ -1,0 +1,9 @@
+F1: 0.90141,Precision: 0.90141,Recall: 0.90141,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,3,Herb Fry,http://dbpedia.org/resource/Shirley_Fry,http://dbpedia.org/resource/Herbert_Fry
+1,21,Charlie Young,"http://dbpedia.org/resource/Charlie_Young_(footballer,_born_1918)",http://dbpedia.org/resource/Charlie_Young_(footballer)
+1,28,Jack Graham,http://dbpedia.org/resource/Jack_Graham_(baseball),http://dbpedia.org/resource/Jack_T._Graham
+1,31,Tom Crawford,http://dbpedia.org/resource/Tom_Crawford_(cricketer),http://dbpedia.org/resource/Tom_Crawford_(footballer)
+1,41,Tom Davey,"http://dbpedia.org/resource/Tom_Davey_(footballer,_born_1916)",http://dbpedia.org/resource/Tom_Davey_(footballer)
+1,45,Dick Pirrie,http://dbpedia.org/resource/Dick_Pirrie,http://dbpedia.org/resource/Richard_Pirrie
+1,64,Dan Moriarty,"http://dbpedia.org/resource/Dan_Moriarty_(footballer,_born_1875)",http://dbpedia.org/resource/Dan_Moriarty_(footballer_born_1875) http://dbpedia.org/resource/Dan_Moriarty_(Australian_rules_footballer_born_1875)

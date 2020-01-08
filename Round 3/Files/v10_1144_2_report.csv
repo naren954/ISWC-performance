@@ -1,0 +1,5 @@
+"F1: 0.87500","Precision: 0.87500","Recall: 0.87500"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"2","17","Fiction","http://dbpedia.org/resource/Fiction_(Coldrain_song)","http://dbpedia.org/resource/Fiction_(Dark_Tranquillity_album) http://dbpedia.org/resource/Fiction_(DT_album)"
+"2","19","All or Nothing","http://dbpedia.org/resource/All_or_Nothing_(The_Subways_album)","http://dbpedia.org/resource/All_or_Nothing_(Pennywise_album)"
+"2","24","Anthem","http://dbpedia.org/resource/Anthem_(Less_Than_Jake_album)","http://dbpedia.org/resource/Anthem_(Christian_Scott_album)"

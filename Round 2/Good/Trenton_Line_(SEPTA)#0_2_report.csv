@@ -1,0 +1,5 @@
+F1: 0.76923,Precision: 0.76923,Recall: 0.76923,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,9,Frankford Junction,http://dbpedia.org/resource/Frankford_Junction_station,"http://dbpedia.org/resource/Frankford_Junction,_Pennsylvania http://dbpedia.org/resource/Frankford_Junction_(SEPTA_station) http://dbpedia.org/resource/Frankford_Junction_(PRR_station) http://dbpedia.org/resource/Frankford_Junction"
+2,22,Croydon,"http://dbpedia.org/resource/Croydon_railway_station,_Sydney",http://dbpedia.org/resource/Croydon_(SEPTA_station) http://dbpedia.org/resource/Croydon_station_(SEPTA)
+2,23,Bristol,http://dbpedia.org/resource/Bristol_Temple_Meads_railway_station,http://dbpedia.org/resource/Bristol_station_(SEPTA) http://dbpedia.org/resource/Bristol_(SEPTA_station)

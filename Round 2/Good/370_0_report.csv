@@ -1,0 +1,4 @@
+F1: 0.95000,Precision: 0.95000,Recall: 0.95000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,22,"Nanomedicine: Nanotechnology, Biology and Medicine",http://dbpedia.org/resource/Nanomedicine_(Elsevier_journal),"http://dbpedia.org/resource/Nanomedicine:_Nanotechnology,_Biology_and_Medicine"
+0,28,NANO,http://dbpedia.org/resource/ACS_Nano,http://dbpedia.org/resource/NANO_(journal) http://dbpedia.org/resource/NANO_(Journal)

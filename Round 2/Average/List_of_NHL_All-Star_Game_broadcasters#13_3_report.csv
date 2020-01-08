@@ -1,0 +1,5 @@
+F1: 0.62500,Precision: 0.62500,Recall: 0.62500,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,8,Michel Bergeron,"http://dbpedia.org/resource/Michel_Bergeron_(ice_hockey,_born_1954)",http://dbpedia.org/resource/Michel_Bergeron_(hockey_coach)
+3,9,Michel Bergeron,"http://dbpedia.org/resource/Michel_Bergeron_(ice_hockey,_born_1954)",http://dbpedia.org/resource/Michel_Bergeron_(hockey_coach)
+3,10,Michel Bergeron,"http://dbpedia.org/resource/Michel_Bergeron_(ice_hockey,_born_1954)",http://dbpedia.org/resource/Michel_Bergeron_(hockey_coach)

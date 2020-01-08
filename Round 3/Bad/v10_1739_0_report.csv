@@ -1,0 +1,24 @@
+F1: 0.29032,Precision: 0.29032,Recall: 0.29032,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,XHX-TDT,http://dbpedia.org/resource/XHY-TDT,http://dbpedia.org/resource/XHX-TV http://dbpedia.org/resource/XHX-TDT
+0,2,XHWX-TDT,http://dbpedia.org/resource/XHY-TDT,http://dbpedia.org/resource/XHWX-TDT http://dbpedia.org/resource/XHWX-TV http://dbpedia.org/resource/Azteca_13_Noreste
+0,5,XHTM-TDT,http://dbpedia.org/resource/XHTRES-TDT,http://dbpedia.org/resource/XHTM-TDT http://dbpedia.org/resource/XHTM-TV
+0,6,XHTAM-TDT,http://dbpedia.org/resource/XHTRES-TDT,http://dbpedia.org/resource/XHTAM-TDT http://dbpedia.org/resource/XHTAM-TV
+0,7,XHSDD-TDT,http://dbpedia.org/resource/XHTRES-TDT,http://dbpedia.org/resource/XHSDD-TV http://dbpedia.org/resource/XHSDD-TDT
+0,8,XHRIO-TDT,http://dbpedia.org/resource/XHTRES-TDT,http://dbpedia.org/resource/XRIO http://dbpedia.org/resource/XHRIO-TV http://dbpedia.org/resource/XHHUPN-TV http://dbpedia.org/resource/XHRIO-TDT http://dbpedia.org/resource/XHRIO http://dbpedia.org/resource/XRIO-TV http://dbpedia.org/resource/XHHUPN
+0,9,XHJAL-TDT,http://dbpedia.org/resource/XHJUB-TDT,http://dbpedia.org/resource/XHJAL-TV http://dbpedia.org/resource/XHJAL-TDT
+0,10,XHIJ-TDT,http://dbpedia.org/resource/XHY-TDT,http://dbpedia.org/resource/XHIJ-TV http://dbpedia.org/resource/XHIJ-TDT http://dbpedia.org/resource/XHIJ
+0,12,XHD-TDT,http://dbpedia.org/resource/XHY-TDT,http://dbpedia.org/resource/XHD-TDT http://dbpedia.org/resource/XHD-TV
+0,13,XHCNL-TDT,http://dbpedia.org/resource/XHTRES-TDT,http://dbpedia.org/resource/XHCNL-TDT http://dbpedia.org/resource/XHCNL-TV
+0,15,XHCJE-TDT,http://dbpedia.org/resource/XHTRES-TDT,http://dbpedia.org/resource/XHCJE-TV http://dbpedia.org/resource/XHCJE-TDT http://dbpedia.org/resource/XHCJE
+0,16,XHCDE-TDT,http://dbpedia.org/resource/XHTRES-TDT,http://dbpedia.org/resource/XHCDE-TV http://dbpedia.org/resource/XHCDE-TDT
+0,17,XHBR-TDT,http://dbpedia.org/resource/XHTRES-TDT,http://dbpedia.org/resource/XHBR-TV http://dbpedia.org/resource/XHBR-TDT http://dbpedia.org/resource/XHBR
+0,18,XHAW-TDT,http://dbpedia.org/resource/XHY-TDT,http://dbpedia.org/resource/XHAW-TDT http://dbpedia.org/resource/XHAW http://dbpedia.org/resource/XHAW-TV
+0,19,XHAS-TDT,http://dbpedia.org/resource/XHTRES-TDT,http://dbpedia.org/resource/XHAS-TDT http://dbpedia.org/resource/XHAS-TDT2 http://dbpedia.org/resource/XHAS-TV
+0,20,XET-TDT,http://dbpedia.org/resource/XHY-TDT,http://dbpedia.org/resource/XET-TDT http://dbpedia.org/resource/XET-TV
+0,21,XERV-TDT,http://dbpedia.org/resource/XHTRES-TDT,http://dbpedia.org/resource/XERV http://dbpedia.org/resource/XERV-TDT http://dbpedia.org/resource/XERV-TDT2 http://dbpedia.org/resource/XERV-TV
+0,23,XEJ-TDT,http://dbpedia.org/resource/XHY-TDT,http://dbpedia.org/resource/XEJ-TDT2 http://dbpedia.org/resource/XEJ http://dbpedia.org/resource/XEJ-TDT http://dbpedia.org/resource/XEJ-TV
+0,24,XEFB-TDT,http://dbpedia.org/resource/XHY-TDT,http://dbpedia.org/resource/XEFB-TDT http://dbpedia.org/resource/XEFB http://dbpedia.org/resource/XEFB-TV
+0,26,WZVN-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WZVN-TV http://dbpedia.org/resource/WEVN-TV
+0,27,WZPX-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WZPX-TV http://dbpedia.org/resource/WZPX http://dbpedia.org/resource/WZPX-DT
+0,28,WZPA-LD,http://dbpedia.org/resource/KTPN-LD,http://dbpedia.org/resource/WZPA-LD

@@ -1,0 +1,7 @@
+F1: 0.68750,Precision: 0.68750,Recall: 0.68750,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,4,T. Tow,http://dbpedia.org/resource/Baal_Shem_Tov,http://dbpedia.org/resource/Timothy_Tow_Siang_Hui http://dbpedia.org/resource/Timothy_Tow
+0,5,S. E. Krupa Rao,http://dbpedia.org/resource/B._R._Ambedkar,http://dbpedia.org/resource/S._E._Krupa_Rao
+0,10,M. Putnik,http://dbpedia.org/resource/Radomir_Putnik,http://dbpedia.org/resource/Mojsej_Putnik http://dbpedia.org/resource/Mojisije_Putnik http://dbpedia.org/resource/Mojsije_Putnik
+0,15,C. Ordóñez,http://dbpedia.org/resource/Antonio_Ordóñez,http://dbpedia.org/resource/Cayetano_Ordonez http://dbpedia.org/resource/Cayetano_Ordóñez http://dbpedia.org/resource/Cayetano_Ordóñez_y_Aguilera
+0,16,A. E. Steele,http://dbpedia.org/resource/Joseph_Stalin,http://dbpedia.org/resource/Arthur_E._Steele

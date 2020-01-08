@@ -1,0 +1,6 @@
+"F1: 0.90244","Precision: 0.90244","Recall: 0.90244"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"2","11","B. Klein","http://dbpedia.org/resource/Brittany_Klein","http://dbpedia.org/resource/Brydan_Klein"
+"2","13","J. Smith","http://dbpedia.org/resource/Joe_Smith_(footballer,_born_1953)","http://dbpedia.org/resource/John-Patrick_Smith_(athlete) http://dbpedia.org/resource/John-Patrick_Smith"
+"2","26","S. Ratiwatana","http://dbpedia.org/resource/Sonchat_Ratiwatana","http://dbpedia.org/resource/Sanchai_Ratiwatana http://dbpedia.org/resource/Ratiwatana_twins"
+"2","33","S. Ratiwatana","http://dbpedia.org/resource/Sonchat_Ratiwatana","http://dbpedia.org/resource/Sanchai_Ratiwatana http://dbpedia.org/resource/Ratiwatana_twins"

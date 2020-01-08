@@ -1,0 +1,6 @@
+"F1: 0.60000","Precision: 0.60000","Recall: 0.60000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"2","1","Harvey","http://dbpedia.org/resource/Steve_Harvey","http://dbpedia.org/resource/John_Harvey_(television) http://dbpedia.org/resource/John_Harvey_(announcer) http://dbpedia.org/resource/Harvey_(announcer)"
+"2","3","K. Ritchie","http://dbpedia.org/resource/Jean_Ritchie","http://dbpedia.org/resource/Kate_Richie http://dbpedia.org/resource/Katherine_Ritchie http://dbpedia.org/resource/Kate_Ritchie"
+"2","5","R. Roddy","http://dbpedia.org/resource/Derek_Roddy","http://dbpedia.org/resource/Robert_Ray_Roddy http://dbpedia.org/resource/Rod_Roddy"
+"2","6","G. Owens","http://dbpedia.org/resource/Geoffrey_Owens","http://dbpedia.org/resource/Gary_Owens"

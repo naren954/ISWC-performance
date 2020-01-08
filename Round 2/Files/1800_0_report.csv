@@ -1,0 +1,4 @@
+"F1: 0.77778","Precision: 0.77778","Recall: 0.77778"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","6","Internal jugular vein","http://dbpedia.org/resource/Jugular_vein","http://dbpedia.org/resource/Internal_jugular http://dbpedia.org/resource/Superior_jugular_bulb http://dbpedia.org/resource/Vena_jugularis_interna http://dbpedia.org/resource/Internal_jugular_veins http://dbpedia.org/resource/Internal_Jugular_Vein http://dbpedia.org/resource/Internal_jugular_vein"
+"0","7","Inferior vena cava","http://dbpedia.org/resource/Venae_cavae","http://dbpedia.org/resource/Vena_cava_inferior http://dbpedia.org/resource/Posterior_renal_cava http://dbpedia.org/resource/Vena_cava,_inferior http://dbpedia.org/resource/Postcava http://dbpedia.org/resource/Inferior_Vena_Cava http://dbpedia.org/resource/Inferior_vena_cava http://dbpedia.org/resource/Posterior_vena_cava http://dbpedia.org/resource/Posterier_vena_cava http://dbpedia.org/resource/Postcaval_vein"

@@ -1,0 +1,10 @@
+F1: 0.57895,Precision: 0.57895,Recall: 0.57895,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,F. Smith,http://dbpedia.org/resource/Fred_Smith_(infielder),http://dbpedia.org/resource/Frederick_Smith_(rugby_league) http://dbpedia.org/resource/Fred_Smith_(rugby_league_born_1935)
+0,3,F. Narvo,http://dbpedia.org/resource/Herb_Narvo,http://dbpedia.org/resource/Frank_Narvo
+0,4,F. Hyde,http://dbpedia.org/resource/Frank_Hyde_(footballer),http://dbpedia.org/resource/Frank_Hyde
+0,5,F. Farrington,http://dbpedia.org/resource/Bo_Farrington,http://dbpedia.org/resource/Frank_Farrington_(rugby_league)
+0,11,E. Evans,http://dbpedia.org/resource/Eric_Evans_(rugby_union),http://dbpedia.org/resource/Emrys_Evans_(rugby_league) http://dbpedia.org/resource/Emrys_Evans_(rugby)
+0,14,D. Thompson,http://dbpedia.org/resource/Danny_Thompson_(baseball),http://dbpedia.org/resource/Duncan_Thompson
+0,18,D. Evans,http://dbpedia.org/resource/Dudley_Evans,http://dbpedia.org/resource/David_Evans_(rugby_league) http://dbpedia.org/resource/Dave_Evans_(rugby_league) http://dbpedia.org/resource/David_Evans_(rugby) http://dbpedia.org/resource/Dave_Evans_(rugby)
+0,19,D. Brown,"http://dbpedia.org/resource/David_Brown_(footballer,_born_1963)",http://dbpedia.org/resource/Dave_Brown_(rugby_league_centre) http://dbpedia.org/resource/Dave_Brown_(rugby_league) http://dbpedia.org/resource/David_Brown_(rugby_league) http://dbpedia.org/resource/Dave_Brown_(rugby_league_winger) http://dbpedia.org/resource/Dave_Brown_(rugby_league_footballer_Easts) http://dbpedia.org/resource/Dave_Brown_(rugby_league_footballer)

@@ -1,0 +1,19 @@
+F1: 0.90503,Precision: 0.90503,Recall: 0.90503,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,E. A. Meneguzzi,http://dbpedia.org/resource/Paolo_Meneguzzi,http://dbpedia.org/resource/Elisa_Angela_Meneguzzi
+0,9,D. I. Zubero,http://dbpedia.org/resource/D._I._Hans,http://dbpedia.org/resource/Domingo_Iturrate_Zubero http://dbpedia.org/resource/Domingo_Iturrate
+0,14,D. Bosatta,http://dbpedia.org/resource/Renato_Bosatta,http://dbpedia.org/resource/Dina_Bosatta
+0,29,C. Starace,http://dbpedia.org/resource/Achille_Starace,http://dbpedia.org/resource/Costanza_Starace
+0,37,C. Micheli,http://it.dbpedia.org/resource/Cesare_Micheli,http://dbpedia.org/resource/Clotilde_Micheli
+0,65,C. o. Palma,http://dbpedia.org/resource/Palma_Vecchio,http://dbpedia.org/resource/Catherine_of_Palma http://dbpedia.org/resource/Catalina_Thomás http://dbpedia.org/resource/Caterina_Tomas http://dbpedia.org/resource/Catalina_Thomas http://dbpedia.org/resource/Catalina_Tomas http://dbpedia.org/resource/Catherine_Tomas
+0,70,C. Sordini,http://dbpedia.org/resource/C._C._Stevens,http://dbpedia.org/resource/Caterina_Sordini
+0,71,C. Moriggi,http://dbpedia.org/resource/C._C._Stevens,http://dbpedia.org/resource/Caterina_Moriggi
+0,89,B. M. Zancano,http://dbpedia.org/resource/B._M._Gafoor,http://dbpedia.org/resource/Brigida_Morello_Zancano
+0,131,A. Franco,http://dbpedia.org/resource/Francisco_Franco,http://dbpedia.org/resource/Antonio_Franco_(bishop)
+0,132,A. D. Angelis,http://fr.dbpedia.org/resource/Matteu_d'Angelis,http://dbpedia.org/resource/Antonina_De_Angelis http://dbpedia.org/resource/María_Ludovica_de_Angelis
+0,146,A. d. Guigné,,http://dbpedia.org/resource/Anne_de_Guigné http://dbpedia.org/resource/De_Guigné http://dbpedia.org/resource/Anne_de_guigne http://dbpedia.org/resource/Anne_de_Guigne
+0,151,A. M. Rubatto,http://de.dbpedia.org/resource/A._M._Head,http://dbpedia.org/resource/Francesca_Maria_Rubatto http://dbpedia.org/resource/Maria_Francesca_Rubatto http://dbpedia.org/resource/Anna_Maria_Rubatto http://dbpedia.org/resource/Francesca_Rubatto http://dbpedia.org/resource/Francisca_Rubatto
+0,152,Anna Maria Katherina Scherer,http://dbpedia.org/resource/Maria_Katherina_Scherer,http://dbpedia.org/resource/Anna_Maria_Katherina_Scherer
+0,166,A. H. Real,http://dbpedia.org/resource/H._Bert_Mack,http://dbpedia.org/resource/Andrés_Hibernón_Real
+0,177,A. d. Conti,"http://dbpedia.org/resource/Louis_Philippe_II,_Duke_of_Orléans",http://dbpedia.org/resource/Andrea_dei_Conti
+0,179,A. Bertoni,http://dbpedia.org/resource/Gaspare_Bertoni,http://dbpedia.org/resource/Andrea_Bertoni

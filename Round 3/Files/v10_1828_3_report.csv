@@ -1,0 +1,4 @@
+"F1: 0.84615","Precision: 0.84615","Recall: 0.84615"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"3","6","İstanbul","http://dbpedia.org/resource/Istanbul","http://dbpedia.org/resource/İstanbul"
+"3","12","Lima","http://dbpedia.org/resource/Lima_river","http://dbpedia.org/resource/Lima,_Peru http://dbpedia.org/resource/Capital_city_of_peru http://dbpedia.org/resource/UN/LOCODE:PELIM http://dbpedia.org/resource/Lima,_Perú http://dbpedia.org/resource/Lima_(Peru) http://dbpedia.org/resource/Lima_peru http://dbpedia.org/resource/Limeno http://dbpedia.org/resource/Lima, http://dbpedia.org/resource/Ciudad_de_los_Reyes http://dbpedia.org/resource/La_Ciudad_de_los_Reyes http://dbpedia.org/resource/Lima_Metropolitana_region http://dbpedia.org/resource/Limeño http://dbpedia.org/resource/The_City_of_Kings http://dbpedia.org/resource/Lima http://dbpedia.org/resource/Capital_of_Peru"

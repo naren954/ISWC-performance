@@ -1,0 +1,6 @@
+"F1: 0.00000","Precision: 0.00000","Recall: 0.00000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","1","Bohemians","http://dbpedia.org/resource/Czech_language","http://dbpedia.org/resource/FK_Bohemians_Prague_(women)"
+"0","2","Slavia Praha","http://dbpedia.org/resource/SK_Slavia_Prague","http://dbpedia.org/resource/SK_Slavia_Praha_(women)"
+"0","3","SlovÃ¡cko","http://dbpedia.org/resource/1._FC_Slovácko","http://dbpedia.org/resource/1._FC_Slovácko_(women)"
+"0","4","Sparta Praha","http://dbpedia.org/resource/AC_Sparta_Prague","http://dbpedia.org/resource/AC_Sparta_Praha_(women) http://dbpedia.org/resource/Sparta_Prague_(women)"

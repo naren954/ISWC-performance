@@ -1,0 +1,4 @@
+F1: 0.71429,Precision: 0.71429,Recall: 0.71429,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,3,H. Ephron,http://dbpedia.org/resource/Nora_Ephron,http://dbpedia.org/resource/Henry_Ephron
+1,6,L. Johnston,http://dbpedia.org/resource/Lyndon_B._Johnson,http://dbpedia.org/resource/Lorimer_Johnston http://dbpedia.org/resource/Lorimer_Johnson

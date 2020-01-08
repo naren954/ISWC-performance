@@ -1,0 +1,9 @@
+F1: 0.82927,Precision: 0.82927,Recall: 0.82927,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Perez (Alabat Island),http://dbpedia.org/resource/Benito_Pérez_Galdós,"http://dbpedia.org/resource/Perez,_Quezon"
+0,4,San Luis,"http://dbpedia.org/resource/San_Luis_Obispo,_California","http://dbpedia.org/resource/San_Luis,_Aurora"
+0,5,Santa Fe (Bantayan Island),"http://dbpedia.org/resource/Santa_Fe,_New_Mexico","http://dbpedia.org/resource/Santa_Fe,_Cebu"
+0,23,Lingayen,http://dbpedia.org/resource/Lingayen,"http://dbpedia.org/resource/Lingayen,_Pangasinan"
+0,33,Plaridel,"http://dbpedia.org/resource/Plaridel,_Misamis_Occidental","http://dbpedia.org/resource/Quinqua,_Bulacan http://dbpedia.org/resource/Quingua,_Bulacan http://dbpedia.org/resource/Salubong_Festival http://dbpedia.org/resource/Kingwa,_Bulacan http://dbpedia.org/resource/Battle_of_Plaridel http://dbpedia.org/resource/Plaridel,_Bulacan"
+0,34,Rosales,http://dbpedia.org/resource/Santa_Cruz_de_Rosales,"http://dbpedia.org/resource/Carmen,_Pangasinan http://dbpedia.org/resource/Rosales,_Pangasinan"
+0,35,San Fernando,"http://dbpedia.org/resource/San_Fernando,_Pampanga","http://dbpedia.org/resource/San_Fernando_(LUN) http://dbpedia.org/resource/San_Fernando_City,_La_Union http://dbpedia.org/resource/San_Fernando,_La_Union http://dbpedia.org/resource/San_Fernando_City_(La_Union) http://dbpedia.org/resource/San_Fernando_(La_Union)"

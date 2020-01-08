@@ -1,0 +1,8 @@
+"F1: 0.40000","Precision: 0.40000","Recall: 0.40000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","1","C. H. Crane","http://dbpedia.org/resource/Charles_H._Crane","http://dbpedia.org/resource/Howard_Crane http://dbpedia.org/resource/Charles_Howard_Crane http://dbpedia.org/resource/C._Howard_Crane"
+"1","2","M. a. Fox","http://fr.dbpedia.org/resource/James_M._Fox","http://dbpedia.org/resource/Charles_Eli_Fox http://dbpedia.org/resource/Marshall_and_Fox http://dbpedia.org/resource/Walton_and_Walton http://dbpedia.org/resource/Marshall_and_Kegley http://dbpedia.org/resource/Eli_Fox http://dbpedia.org/resource/Benjamin_Marshall_(architect) http://dbpedia.org/resource/Marshall_&_Fox"
+"1","4","C. H. Crane","http://dbpedia.org/resource/Charles_H._Crane","http://dbpedia.org/resource/Howard_Crane http://dbpedia.org/resource/Charles_Howard_Crane http://dbpedia.org/resource/C._Howard_Crane"
+"1","6","J. Dobson","http://dbpedia.org/resource/William_Dobson","http://dbpedia.org/resource/John_Dobson_(architect)"
+"1","7","B. Alfieri","http://dbpedia.org/resource/Dino_Alfieri","http://dbpedia.org/resource/Benedetto_Innocenzo_Alfieri http://dbpedia.org/resource/Benedetto_Alfieri http://dbpedia.org/resource/Benedetto_Innocente_Alfieri"
+"1","8","R. Benjamin","http://dbpedia.org/resource/René_Benjamin","http://dbpedia.org/resource/Roy_A._Benjamin http://dbpedia.org/resource/Roy_Benjamin"

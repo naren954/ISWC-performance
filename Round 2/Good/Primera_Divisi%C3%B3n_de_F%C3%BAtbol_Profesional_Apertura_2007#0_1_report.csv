@@ -1,0 +1,4 @@
+F1: 0.80000,Precision: 0.80000,Recall: 0.80000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,5,Once Municipal,http://dbpedia.org/resource/C.D._Once_Municipal,http://dbpedia.org/resource/Once_Municipal
+1,6,C.D. Ã\u0081guila,http://dbpedia.org/resource/Mürzzuschlag,http://dbpedia.org/resource/C.D._Águila

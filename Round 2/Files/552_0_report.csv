@@ -1,0 +1,4 @@
+"F1: 0.85714","Precision: 0.85714","Recall: 0.85714"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","1","Arlington, Texas","http://dbpedia.org/resource/Dallas","http://dbpedia.org/resource/UN/LOCODE:USARJ http://dbpedia.org/resource/TX_Arlington http://dbpedia.org/resource/Arlington,_Texas http://dbpedia.org/resource/Arlington,TX http://dbpedia.org/resource/Arlington,_TX http://dbpedia.org/resource/Arlinton,TX http://dbpedia.org/resource/Dr._Robert_Cluck http://dbpedia.org/resource/History_of_Arlington,_Texas http://dbpedia.org/resource/City_of_Arlington,_Texas"
+"0","8","Anón","http://dbpedia.org/resource/Añón_de_Moncayo","http://dbpedia.org/resource/Anon_(Ponce) http://dbpedia.org/resource/Barrio_Anón http://dbpedia.org/resource/Anón_(Ponce) http://dbpedia.org/resource/Anón http://dbpedia.org/resource/Barrio_Anon"

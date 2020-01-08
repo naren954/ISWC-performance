@@ -1,0 +1,5 @@
+F1: 0.81250,Precision: 0.81250,Recall: 0.81250,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,8,Rounds,http://dbpedia.org/resource/Rounds_(album),http://dbpedia.org/resource/Rounds_(website) http://dbpedia.org/resource/6rounds
+0,14,Videolink2.me,,http://dbpedia.org/resource/Videolink2.me
+0,16,Woo Media,http://dbpedia.org/resource/World_Wide_Web,http://dbpedia.org/resource/Woo_Media

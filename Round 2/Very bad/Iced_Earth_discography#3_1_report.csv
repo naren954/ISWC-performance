@@ -1,0 +1,4 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,"Days of Purgatory Released: June 6, 1997 Label: Century Media Format: CD",http://dbpedia.org/resource/Music_download,http://dbpedia.org/resource/Days_of_Purgatory http://dbpedia.org/resource/Days_of_purgatory
+1,2,"The Blessed and the Damned Released: July 26, 2004 Label: Century Media Format: CD",http://dbpedia.org/resource/Music_download,http://dbpedia.org/resource/The_blessed_and_the_damned http://dbpedia.org/resource/The_Blessed_and_The_Damned http://dbpedia.org/resource/The_Blessed_and_the_Damned

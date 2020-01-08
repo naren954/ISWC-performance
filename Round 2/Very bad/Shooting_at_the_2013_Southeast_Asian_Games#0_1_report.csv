@@ -1,0 +1,5 @@
+F1: 0.25000,Precision: 0.25000,Recall: 0.25000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,2,Vietnam (VIE) Ho Thanh Hai Hoang Xuan Vinh Tran Quoc Cuong,http://dbpedia.org/resource/Trần_Hưng_Đạo,http://dbpedia.org/resource/Vietnam_at_the_2013_Southeast_Asian_Games
+1,4,Vietnam (VIE) Hoang Xuan Vinh Nguyen Hoang Phuong Tran Quoc Cuong,http://dbpedia.org/resource/Bảo_Đại,http://dbpedia.org/resource/Vietnam_at_the_2013_Southeast_Asian_Games
+1,6,Thailand (THA) Tavarit Maj-charcheep Napis Tortungpanich Attapon Uea-aree,http://dbpedia.org/resource/Attapon_Uea-aree,http://dbpedia.org/resource/Thailand_at_the_2013_Southeast_Asian_Games

@@ -1,0 +1,36 @@
+F1: 0.75887,Precision: 0.75887,Recall: 0.75887,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,USS Monterey,http://dbpedia.org/resource/USS_Monterey_(CVL-26),http://dbpedia.org/resource/USS_Monterey_(BM-6)
+0,6,USS Monssen,http://dbpedia.org/resource/USS_Monssen_(DD-436),http://dbpedia.org/resource/DD-798 http://dbpedia.org/resource/USS_Monssen_(DD-798)
+0,9,USS Monongahela,http://dbpedia.org/resource/USS_Monongahela_(AO-42),http://dbpedia.org/resource/USS_Monongahela_(AO-178)
+0,10,USS Monocacy,http://dbpedia.org/resource/USS_Genesee_(AT-55),http://dbpedia.org/resource/USS_Monocacy_(PR-2) http://dbpedia.org/resource/USS_Monocacy_(PG-20) http://dbpedia.org/resource/USS_Monacacy_(PR-2)
+0,13,USS Monaghan,http://dbpedia.org/resource/USS_Monaghan_(DD-354),http://dbpedia.org/resource/USCGD_Monaghan_(CG-15) http://dbpedia.org/resource/USS_Monaghan_(DD-32)
+0,14,USS Mona Island,http://dbpedia.org/resource/USS_Rhode_Island_(BB-17),http://dbpedia.org/resource/USS_Mona_Island_(ARG-9) http://dbpedia.org/resource/USS_Mona_Island http://dbpedia.org/resource/ARG-9
+0,15,USS Molala,http://dbpedia.org/resource/USS_Saginaw_(LST-1188),http://dbpedia.org/resource/USS_Molala_(AT-106) http://dbpedia.org/resource/USS_Molala http://dbpedia.org/resource/USS_Molala_(ATF-106)
+0,17,USS Mohican,http://dbpedia.org/resource/USS_Mohican_(SP-117),http://dbpedia.org/resource/USS_Mohican_(1883)
+0,19,USS Moccasin,http://dbpedia.org/resource/USS_Moccasin_(ID-1322),http://dbpedia.org/resource/USS_A-4 http://dbpedia.org/resource/USS_Moccasin_(SS-5) http://dbpedia.org/resource/USS_A-4_(SS-5)
+0,21,USS Mobile,http://dbpedia.org/resource/USS_Mobile_(CL-63),http://dbpedia.org/resource/USS_Mobile_(AKA-115) http://dbpedia.org/resource/USS_Mobile_(LKA-115)
+0,29,USS Mississippi,http://dbpedia.org/resource/USS_Mississippi_(BB-41),http://dbpedia.org/resource/USS_Mississippi_(DLGN-40) http://dbpedia.org/resource/USS_Mississippi_(CGN-40)
+0,31,USS Mississippi,http://dbpedia.org/resource/USS_Mississippi_(BB-41),http://dbpedia.org/resource/BB-23 http://dbpedia.org/resource/USS_Mississippi_(BB-23) http://dbpedia.org/resource/Greek_Battleship_Kilkis
+0,32,USS Mississinewa,http://dbpedia.org/resource/USS_Mississinewa_(AO-59),http://dbpedia.org/resource/USNS_Mississinewa_(T-AO-144) http://dbpedia.org/resource/USS_Mississinewa_(AO-144)
+0,38,USS Minneapolis,http://dbpedia.org/resource/USS_Minneapolis_(CA-36),http://dbpedia.org/resource/USS_Minneapolis_(C-13) http://dbpedia.org/resource/USS_Minneapolis_(CA-17) http://dbpedia.org/resource/USS_Minneapolis_(Cruiser_No._13)
+0,41,USS Mindanao,http://dbpedia.org/resource/USS_Mindanao_(ARG-3),http://dbpedia.org/resource/USS_Mindanao_(PR-8) http://dbpedia.org/resource/USS_Mindanao_(PG-48)
+0,45,USS Milwaukee,http://dbpedia.org/resource/USS_Milwaukee_(CL-5),http://dbpedia.org/resource/USS_Milwaukee_(C-21)
+0,46,USS Milwaukee,http://dbpedia.org/resource/USS_Milwaukee_(CL-5),http://dbpedia.org/resource/USS_Milwaukee_(AOR-2)
+0,63,USS Merrimack,http://dbpedia.org/resource/USS_Merrimack_(AO-37),http://dbpedia.org/resource/USS_Merrimack_(AO-179) http://dbpedia.org/resource/AO-179
+0,66,USS Merganser,http://dbpedia.org/resource/USS_Merganser_(AM-135),http://dbpedia.org/resource/YMS-417 http://dbpedia.org/resource/USS_Merganser_(MHC-47) http://dbpedia.org/resource/USS_Merganser_(YMS-417) http://dbpedia.org/resource/USS_Merganser_(AMS-26) http://dbpedia.org/resource/USS_YMS-417 http://dbpedia.org/resource/USS_Merganser_(AMCU-47)
+0,67,USS Meredith,http://dbpedia.org/resource/USS_Meredith_(DD-434),http://dbpedia.org/resource/USS_Meredith_(DD-726) http://dbpedia.org/resource/DD-726
+0,90,USS McLanahan,http://dbpedia.org/resource/USS_McLanahan_(DD-615),http://dbpedia.org/resource/USS_McLanahan_(DD-264) http://dbpedia.org/resource/HMS_Bradford_(H72)
+0,91,USS McKee,http://dbpedia.org/resource/USS_McKee_(DD-575),http://dbpedia.org/resource/USS_McKee_(TB-18)
+0,93,USS McKee,http://dbpedia.org/resource/USS_McKee_(DD-575),http://dbpedia.org/resource/USS_McKee_(AS-41)
+0,98,USS McDougal,http://dbpedia.org/resource/USS_McDougal_(DD-358),http://dbpedia.org/resource/USCGD_McDougal_(CG-6) http://dbpedia.org/resource/USCGD_McDougal http://dbpedia.org/resource/USS_McDougal_(DD-54)
+0,103,USS McCook,http://dbpedia.org/resource/USS_McCook_(DD-496),http://dbpedia.org/resource/HMCS_St._Croix_(I81) http://dbpedia.org/resource/USS_McCook_(DD-252)
+0,108,USS McCalla,http://dbpedia.org/resource/USS_McCalla_(DD-253),http://dbpedia.org/resource/TCG_Giresun_(D-345) http://dbpedia.org/resource/USS_McCalla_(DD-488) http://dbpedia.org/resource/TCG_Giresun_(D_345) http://dbpedia.org/resource/TCG_Giresun_(D345)
+0,110,USS McCall,http://dbpedia.org/resource/USS_McCall_(DD-28),http://dbpedia.org/resource/USS_McCall_(DD_400) http://dbpedia.org/resource/DD400 http://dbpedia.org/resource/DD-400 http://dbpedia.org/resource/USS_McCall_(DD-400) http://dbpedia.org/resource/USS_McCall_(DD400) http://dbpedia.org/resource/DD_400
+0,113,USS Mayrant,http://dbpedia.org/resource/USS_Mayrant_(DD-402),http://dbpedia.org/resource/USS_Mayrant_(DD-31)
+0,115,USS Maury,http://dbpedia.org/resource/USS_Maury_(DD-100),http://dbpedia.org/resource/DD401 http://dbpedia.org/resource/DD-401 http://dbpedia.org/resource/USS_Maury_(DD_401) http://dbpedia.org/resource/DD_401 http://dbpedia.org/resource/USS_Maury_(DD401) http://dbpedia.org/resource/USS_Maury_(DD-401)
+0,117,USS Maury,http://dbpedia.org/resource/USS_Maury_(DD-100),http://dbpedia.org/resource/USS_Maury_(AGS-16) http://dbpedia.org/resource/USS_Renate_(AKA-36)
+0,127,USS Mason,http://dbpedia.org/resource/USS_Mason_(DD-191),http://dbpedia.org/resource/DDG-87 http://dbpedia.org/resource/DDG87 http://dbpedia.org/resource/Mason_(DDG_87) http://dbpedia.org/resource/USS_Mason_(DDG-87) http://dbpedia.org/resource/USS_Mason_(DDG_87) http://dbpedia.org/resource/DDG_87
+0,137,USS Mars,http://dbpedia.org/resource/USS_Mars_(AC-6),http://dbpedia.org/resource/USS_Mars_(AFS-1) http://dbpedia.org/resource/USNS_Mars_(T-AFS-1)
+0,139,USS Marocain,http://dbpedia.org/resource/USS_Saginaw_(LST-1188),http://dbpedia.org/resource/USS_Marocain_(DE-109) http://dbpedia.org/resource/French_frigate_Marocain_(F705)
+0,140,USS Marlin,http://dbpedia.org/resource/USS_Marlin_(SS-205),http://dbpedia.org/resource/USS_T-2_(SST-2) http://dbpedia.org/resource/USS_Marlin_(SST-2)

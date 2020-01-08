@@ -1,0 +1,7 @@
+F1: 0.88372,Precision: 0.88372,Recall: 0.88372,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,13,More,"http://dbpedia.org/resource/More,_More,_More",http://dbpedia.org/resource/More_(magazine) http://dbpedia.org/resource/More.com
+0,14,Money,http://dbpedia.org/resource/SmartMoney,http://dbpedia.org/resource/Money_magazine http://dbpedia.org/resource/Time.com/money http://dbpedia.org/resource/Money_Magazine http://dbpedia.org/resource/Money_(magazine) http://dbpedia.org/resource/Money.com
+0,21,Mix,http://dbpedia.org/resource/Mix_(Stellar_album),http://dbpedia.org/resource/Mix_magazine http://dbpedia.org/resource/Mix_Magazine http://dbpedia.org/resource/Mix_(magazine) http://dbpedia.org/resource/Mix_Online http://dbpedia.org/resource/MixMag
+0,28,Men's Health,http://dbpedia.org/resource/Men's_Health,http://dbpedia.org/resource/Menshealth.co.uk http://dbpedia.org/resource/Men's_Health_(British_magazine) http://dbpedia.org/resource/Men's_Health_UK
+0,42,Los Angeles,http://dbpedia.org/resource/NCIS:_Los_Angeles,http://dbpedia.org/resource/Los_Angeles_(magazine) http://dbpedia.org/resource/Los_Angeles_magazine http://dbpedia.org/resource/Los_Angeles_Magazine

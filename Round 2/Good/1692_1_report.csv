@@ -1,0 +1,23 @@
+F1: 0.85211,Precision: 0.85211,Recall: 0.85211,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,L. Sacchi,http://dbpedia.org/resource/Enzo_Sacchi,http://dbpedia.org/resource/Luca_Sacchi
+1,7,J. Hoffmann,http://dbpedia.org/resource/Jan_Hoffmann,http://dbpedia.org/resource/Jorg_Hoffmann_(swimmer) http://dbpedia.org/resource/Jörg_Hoffmann_(swimmer) http://dbpedia.org/resource/Joerg_Hoffmann_(swimmer)
+1,9,J. McDonald,http://dbpedia.org/resource/Jim_McDonald_(American_football),http://dbpedia.org/resource/Julie_McDonald_(swimmer)
+1,16,J. McDonald,http://dbpedia.org/resource/Jim_McDonald_(American_football),http://dbpedia.org/resource/Julie_McDonald_(swimmer)
+1,31,P. Johansson,http://dbpedia.org/resource/Paavo_Johansson,http://dbpedia.org/resource/Per_Johansson_(swimmer)
+1,40,P. Johansson,http://dbpedia.org/resource/Paavo_Johansson,http://dbpedia.org/resource/Per_Johansson_(swimmer)
+1,42,C. Schmidt,http://dbpedia.org/resource/Chris_Schmidt_(ice_hockey),http://dbpedia.org/resource/Carmela_Schmidt
+1,43,C. Schmidt,http://dbpedia.org/resource/Chris_Schmidt_(ice_hockey),http://dbpedia.org/resource/Carmela_Schmidt
+1,50,P. Johansson,http://dbpedia.org/resource/Paavo_Johansson,http://dbpedia.org/resource/Per_Johansson_(swimmer)
+1,52,C. Schmidt,http://dbpedia.org/resource/Chris_Schmidt_(ice_hockey),http://dbpedia.org/resource/Carmela_Schmidt
+1,53,C. Schmidt,http://dbpedia.org/resource/Chris_Schmidt_(ice_hockey),http://dbpedia.org/resource/Carmela_Schmidt
+1,60,P. Johansson,http://dbpedia.org/resource/Paavo_Johansson,http://dbpedia.org/resource/Per_Johansson_(swimmer)
+1,62,S. Smith,http://dbpedia.org/resource/Sophie_Smith,http://dbpedia.org/resource/Shannon_Smith_(swimmer)
+1,71,S. Smith,http://dbpedia.org/resource/Sophie_Smith,http://dbpedia.org/resource/Shannon_Smith_(swimmer)
+1,82,B. Göbel,http://dbpedia.org/resource/Just_Göbel,http://dbpedia.org/resource/Barbara_Göbel http://dbpedia.org/resource/Barbara_Gobel
+1,87,E. Gordon,http://dbpedia.org/resource/Ed_Gordon_(athlete),http://dbpedia.org/resource/Elenor_Gordon-McKay http://dbpedia.org/resource/Helen_Orr_Gordon http://dbpedia.org/resource/Elenor_Gordon http://dbpedia.org/resource/Elenor_Gordon_McKay
+1,90,A. Berg,http://dbpedia.org/resource/Aki_Berg,http://dbpedia.org/resource/Aina_Berg
+1,99,S. Kahanamoku,http://dbpedia.org/resource/Duke_Kahanamoku,http://dbpedia.org/resource/Samuel_Kahanamoku http://dbpedia.org/resource/Samuel_Alapai_Kahanamoku http://dbpedia.org/resource/Sam_Kahanamoku
+1,101,A. Berg,http://dbpedia.org/resource/Aki_Berg,http://dbpedia.org/resource/Aina_Berg
+1,110,S. Kahanamoku,http://dbpedia.org/resource/Duke_Kahanamoku,http://dbpedia.org/resource/Samuel_Kahanamoku http://dbpedia.org/resource/Samuel_Alapai_Kahanamoku http://dbpedia.org/resource/Sam_Kahanamoku
+1,112,A. Berg,http://dbpedia.org/resource/Aki_Berg,http://dbpedia.org/resource/Aina_Berg

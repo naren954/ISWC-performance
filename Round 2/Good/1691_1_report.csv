@@ -1,0 +1,44 @@
+F1: 0.78571,Precision: 0.78571,Recall: 0.78571,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,L. Jones,http://dbpedia.org/resource/Lloyd_Jones_(footballer),http://dbpedia.org/resource/Liesel_Jones http://dbpedia.org/resource/Leisel_Jones
+1,7,L. Cseh,http://dbpedia.org/resource/László_Cseh_(footballer),http://dbpedia.org/resource/Cseh_lászló http://dbpedia.org/resource/Laszlo_Czeh http://dbpedia.org/resource/Czeh_László http://dbpedia.org/resource/Cseh_Laszlo http://dbpedia.org/resource/László_Cseh http://dbpedia.org/resource/Cseh_laszlo http://dbpedia.org/resource/Laszlo_Cseh http://dbpedia.org/resource/Cseh_László
+1,8,K. Keller,http://dbpedia.org/resource/Kasey_Keller,http://dbpedia.org/resource/Klete_Keller
+1,12,B. Hansen,http://dbpedia.org/resource/Bent_Hansen,http://dbpedia.org/resource/Brendan_Hansen http://dbpedia.org/resource/Brendan_Hanson
+1,14,D. Davies,"http://dbpedia.org/resource/David_Davies_(footballer,_born_1888)",http://dbpedia.org/resource/David_Davies_(swimmer)
+1,20,L. Lenton,http://dbpedia.org/resource/Jay_Lenton,http://dbpedia.org/resource/Libby_Trickett http://dbpedia.org/resource/Lisbeth_Trickett http://dbpedia.org/resource/Libby_Tricket http://dbpedia.org/resource/Libby_Lenton http://dbpedia.org/resource/Lisbeth_Lenton
+1,33,L. Jones,http://dbpedia.org/resource/Lloyd_Jones_(footballer),http://dbpedia.org/resource/Liesel_Jones http://dbpedia.org/resource/Leisel_Jones
+1,39,L. Cseh,http://dbpedia.org/resource/László_Cseh_(footballer),http://dbpedia.org/resource/Cseh_lászló http://dbpedia.org/resource/Laszlo_Czeh http://dbpedia.org/resource/Czeh_László http://dbpedia.org/resource/Cseh_Laszlo http://dbpedia.org/resource/László_Cseh http://dbpedia.org/resource/Cseh_laszlo http://dbpedia.org/resource/Laszlo_Cseh http://dbpedia.org/resource/Cseh_László
+1,40,K. Keller,http://dbpedia.org/resource/Kasey_Keller,http://dbpedia.org/resource/Klete_Keller
+1,44,B. Hansen,http://dbpedia.org/resource/Bent_Hansen,http://dbpedia.org/resource/Brendan_Hansen http://dbpedia.org/resource/Brendan_Hanson
+1,46,D. Davies,"http://dbpedia.org/resource/David_Davies_(footballer,_born_1888)",http://dbpedia.org/resource/David_Davies_(swimmer)
+1,54,M. Nakamura,http://dbpedia.org/resource/Micheal_Nakamura,http://dbpedia.org/resource/Mai_Nakamura
+1,57,C. Poll,http://dbpedia.org/resource/Silvia_Poll,http://dbpedia.org/resource/Claudia_Poll http://dbpedia.org/resource/Claudia_Poll_Ahrens http://dbpedia.org/resource/Claudia_Maria_Poll_Ahrens http://dbpedia.org/resource/Claudia_poll
+1,59,C. Poll,http://dbpedia.org/resource/Silvia_Poll,http://dbpedia.org/resource/Claudia_Poll http://dbpedia.org/resource/Claudia_Poll_Ahrens http://dbpedia.org/resource/Claudia_Maria_Poll_Ahrens http://dbpedia.org/resource/Claudia_poll
+1,61,A. Beard,http://dbpedia.org/resource/Alana_Beard,http://dbpedia.org/resource/Amanda_Beard
+1,63,J. Thompson,http://dbpedia.org/resource/Jocko_Thompson,http://dbpedia.org/resource/Jenny_Thompson
+1,71,K. Keller,http://dbpedia.org/resource/Kasey_Keller,http://dbpedia.org/resource/Klete_Keller
+1,77,C. Thompson,http://dbpedia.org/resource/Camille_Thompson,http://dbpedia.org/resource/Chris_Thompson_(swimmer)
+1,80,R. Sloudnov,,http://dbpedia.org/resource/Sloudnov http://dbpedia.org/resource/Roman_Sludnov http://dbpedia.org/resource/Roman_Sloudnov
+1,88,C. Poll,http://dbpedia.org/resource/Silvia_Poll,http://dbpedia.org/resource/Claudia_Poll http://dbpedia.org/resource/Claudia_Poll_Ahrens http://dbpedia.org/resource/Claudia_Maria_Poll_Ahrens http://dbpedia.org/resource/Claudia_poll
+1,90,C. Poll,http://dbpedia.org/resource/Silvia_Poll,http://dbpedia.org/resource/Claudia_Poll http://dbpedia.org/resource/Claudia_Poll_Ahrens http://dbpedia.org/resource/Claudia_Maria_Poll_Ahrens http://dbpedia.org/resource/Claudia_poll
+1,92,A. Beard,http://dbpedia.org/resource/Alana_Beard,http://dbpedia.org/resource/Amanda_Beard
+1,94,J. Thompson,http://dbpedia.org/resource/Jocko_Thompson,http://dbpedia.org/resource/Jenny_Thompson
+1,100,E. S. Filho,"http://dbpedia.org/resource/Charles,_Prince_of_Wales",http://dbpedia.org/resource/Edvaldo_Valerio http://dbpedia.org/resource/Edvaldo_Valério http://dbpedia.org/resource/Edvaldo_Silva_Filho
+1,102,K. Keller,http://dbpedia.org/resource/Kasey_Keller,http://dbpedia.org/resource/Klete_Keller
+1,108,C. Thompson,http://dbpedia.org/resource/Camille_Thompson,http://dbpedia.org/resource/Chris_Thompson_(swimmer)
+1,111,R. Sloudnov,,http://dbpedia.org/resource/Sloudnov http://dbpedia.org/resource/Roman_Sludnov http://dbpedia.org/resource/Roman_Sloudnov
+1,114,S. Völker,http://dbpedia.org/resource/Sabine_Völker,http://dbpedia.org/resource/Sandra_Völker http://dbpedia.org/resource/Sandra_Volker http://dbpedia.org/resource/Sandra_Voelker
+1,118,L. Li,http://dbpedia.org/resource/Li_Li_(badminton),http://dbpedia.org/resource/Li_Lin_(swimmer) http://dbpedia.org/resource/Lin_Li_(Swimmer) http://dbpedia.org/resource/Lin_Li_(swimmer)
+1,120,M. Smith,"http://dbpedia.org/resource/Michael_Smith_(footballer,_born_1988)","http://dbpedia.org/resource/Michelle_Smith_(De_Bruin) http://dbpedia.org/resource/Smith,_Michelle http://dbpedia.org/resource/Michelle_Smith_(Swimmer) http://dbpedia.org/resource/Michelle_Smith_de_Bruin http://dbpedia.org/resource/Michelle_Smith_(swimmer) http://dbpedia.org/resource/Michelle_Smith"
+1,121,Á. Kovács,http://dbpedia.org/resource/Ádám_Kovács_(footballer),http://dbpedia.org/resource/Agnes_Kovacs http://dbpedia.org/resource/Ágnes_Kovács
+1,134,A. Korneyev,http://dbpedia.org/resource/Alexey_Korneyev,http://dbpedia.org/resource/Andrey_Korneyev
+1,136,G. Smith,http://dbpedia.org/resource/George_Smith_(swimmer),http://dbpedia.org/resource/Graeme_Smith_(swimmer)
+1,140,N. Bent,http://dbpedia.org/resource/Nike_Bent,http://dbpedia.org/resource/Neisser_Bent
+1,142,S. Völker,http://dbpedia.org/resource/Sabine_Völker,http://dbpedia.org/resource/Sandra_Völker
+1,146,L. Li,http://dbpedia.org/resource/Li_Li_(badminton),http://dbpedia.org/resource/Li_Lin_(swimmer) http://dbpedia.org/resource/Lin_Li_(Swimmer) http://dbpedia.org/resource/Lin_Li_(swimmer)
+1,148,M. Smith,"http://dbpedia.org/resource/Michael_Smith_(footballer,_born_1988)","http://dbpedia.org/resource/Michelle_Smith_(De_Bruin) http://dbpedia.org/resource/Smith,_Michelle http://dbpedia.org/resource/Michelle_Smith_(Swimmer) http://dbpedia.org/resource/Michelle_Smith_de_Bruin http://dbpedia.org/resource/Michelle_Smith_(swimmer) http://dbpedia.org/resource/Michelle_Smith"
+1,149,Á. Kovács,http://dbpedia.org/resource/Ádám_Kovács_(footballer),http://dbpedia.org/resource/Ágnes_Kovács
+1,162,A. Korneyev,http://dbpedia.org/resource/Alexey_Korneyev,http://dbpedia.org/resource/Andrey_Korneyev
+1,164,G. Smith,http://dbpedia.org/resource/George_Smith_(swimmer),http://dbpedia.org/resource/Graeme_Smith_(swimmer)
+1,168,N. Bent,http://dbpedia.org/resource/Nike_Bent,http://dbpedia.org/resource/Neisser_Bent
+1,185,J. Hoffmann,http://dbpedia.org/resource/Jan_Hoffmann,http://dbpedia.org/resource/Jorg_Hoffmann_(swimmer) http://dbpedia.org/resource/Joerg_Hoffmann_(swimmer) http://dbpedia.org/resource/Jörg_Hoffmann_(swimmer)

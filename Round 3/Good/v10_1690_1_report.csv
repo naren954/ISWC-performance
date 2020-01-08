@@ -1,0 +1,11 @@
+F1: 0.85714,Precision: 0.85714,Recall: 0.85714,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,12,Braşov County,http://dbpedia.org/resource/Brașov_County,http://dbpedia.org/resource/Braşov_County
+1,16,Covasna,http://dbpedia.org/resource/Covasna_County,http://dbpedia.org/resource/Covasna http://dbpedia.org/resource/Csomakoros http://dbpedia.org/resource/Kovászna http://dbpedia.org/resource/Chiuruş http://dbpedia.org/resource/Csomakőrös http://dbpedia.org/resource/Kovaszna http://dbpedia.org/resource/Csomakoroes http://dbpedia.org/resource/Chiuruș http://dbpedia.org/resource/Chiurus
+1,22,Neamţ County,http://dbpedia.org/resource/Neamț_County,http://dbpedia.org/resource/Neamţ_County
+1,26,Constanţa County,http://dbpedia.org/resource/Constanța_County,http://dbpedia.org/resource/Constanţa_County
+1,32,Caraş-Severin County,http://dbpedia.org/resource/Caraș-Severin_County,http://dbpedia.org/resource/Caraş-Severin_County
+1,33,Neamţ County,http://dbpedia.org/resource/Neamț_County,http://dbpedia.org/resource/Neamţ_County
+1,41,Suceava,http://dbpedia.org/resource/Suceava_County,http://dbpedia.org/resource/Suczava http://dbpedia.org/resource/Coat_of_arms_of_Suceava http://dbpedia.org/resource/Suczawa http://dbpedia.org/resource/History_of_Suceava http://dbpedia.org/resource/St._John_the_New http://dbpedia.org/resource/Szűcsvár http://dbpedia.org/resource/Saint_John_of_Suceava http://dbpedia.org/resource/Coat_of_arms_of_suceava http://dbpedia.org/resource/Suceava http://dbpedia.org/resource/John_of_Suceava http://dbpedia.org/resource/John_the_New http://dbpedia.org/resource/Szucsvar http://dbpedia.org/resource/St._John_of_Suceava http://dbpedia.org/resource/Saint_John_the_New
+1,47,"Stănești, Gorj",http://dbpedia.org/resource/Gorj_County,"http://dbpedia.org/resource/Stănești,_Gorj"
+1,55,Şuica,http://dbpedia.org/resource/Switzerland,http://dbpedia.org/resource/Şuica

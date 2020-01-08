@@ -1,0 +1,6 @@
+"F1: 0.76471","Precision: 0.76471","Recall: 0.76471"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","4","D. Miller","http://dbpedia.org/resource/Dan_Miller_(Pennsylvania_politician)","http://dbpedia.org/resource/Mayor_Miller http://dbpedia.org/resource/David_Miller_(Canadian_politician) http://dbpedia.org/resource/David_Miller_(mayor) http://dbpedia.org/resource/David_Miller_(Toronto_Mayor) http://dbpedia.org/resource/David_Miller_(mayor_of_Toronto) http://dbpedia.org/resource/David_R._Miller http://dbpedia.org/resource/David_Miller_(Mayor_of_Toronto) http://dbpedia.org/resource/David_Miller_(canadian_politician)"
+"0","5","D. Norris","http://dbpedia.org/resource/Dan_Norris","http://dbpedia.org/resource/Dave_Norris_(Louisiana_politician)"
+"0","15","A. Chaly","http://dbpedia.org/resource/Political_party","http://dbpedia.org/resource/Aleksei_Chalyi http://dbpedia.org/resource/Alexey_Chaly http://dbpedia.org/resource/Alexei_Chaly http://dbpedia.org/resource/Aleksey_Chaly http://dbpedia.org/resource/Aleksei_Chaly http://dbpedia.org/resource/Aleksei_Chaliy http://dbpedia.org/resource/Aleksei_Mikhailovich_Chaliy http://dbpedia.org/resource/Alexei_Chalyi"
+"0","17","Abe E. Pierce, III","http://dbpedia.org/resource/Abe_E._Pierce_III","http://dbpedia.org/resource/Abe_E._Pierce,_III"

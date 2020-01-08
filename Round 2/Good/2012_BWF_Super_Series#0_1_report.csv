@@ -1,0 +1,5 @@
+F1: 0.76923,Precision: 0.76923,Recall: 0.76923,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,5,India Super Series,http://dbpedia.org/resource/BWF_Super_Series,http://dbpedia.org/resource/India_Open_(badminton)
+1,8,China Masters Super Series,http://dbpedia.org/resource/China_Open_(badminton),http://dbpedia.org/resource/China_Masters
+1,14,Super Series Masters Finals,http://dbpedia.org/resource/2008_BWF_Super_Series_Masters_Finals,http://dbpedia.org/resource/BWF_World_Superseries_Finals http://dbpedia.org/resource/BWF_Super_Series_Masters_Finals http://dbpedia.org/resource/BWF_Superseries_Finals

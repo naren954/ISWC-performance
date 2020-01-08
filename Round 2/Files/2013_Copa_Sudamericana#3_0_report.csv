@@ -1,0 +1,4 @@
+"F1: 0.86667","Precision: 0.86667","Recall: 0.86667"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","5","ItagÃ¼Ã­","http://dbpedia.org/resource/Rionegro_Águilas","http://dbpedia.org/resource/Itagüí_F.C."
+"0","10","Racing","http://dbpedia.org/resource/Racing_de_Córdoba","http://dbpedia.org/resource/Racing_de_Avellaneda http://dbpedia.org/resource/Racing_Club_of_Avellaneda http://dbpedia.org/resource/Racing_Club_Buenos_Aires http://dbpedia.org/resource/Racing_Club_(Argentina) http://dbpedia.org/resource/Racing_Club_de_Avellaneda"

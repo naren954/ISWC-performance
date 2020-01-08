@@ -1,0 +1,8 @@
+F1: 0.60000,Precision: 0.60000,Recall: 0.60000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,DHL Aviation operated by AeroLogic,http://dbpedia.org/resource/DHL_International_Aviation_ME,http://dbpedia.org/resource/DHL_Aviation http://dbpedia.org/resource/DHL_Airways http://dbpedia.org/resource/DHL_Airlines
+0,3,DHL Aviation operated by Atlas Air,http://dbpedia.org/resource/DHL,http://dbpedia.org/resource/DHL_Aviation http://dbpedia.org/resource/DHL_Airways http://dbpedia.org/resource/DHL_Airlines
+0,4,DHL Aviation operated by Kalitta Air,http://dbpedia.org/resource/DHL,http://dbpedia.org/resource/DHL_Aviation http://dbpedia.org/resource/DHL_Airways http://dbpedia.org/resource/DHL_Airlines
+0,5,DHL Aviation operated by Polar Air Cargo,http://dbpedia.org/resource/Airline,http://dbpedia.org/resource/DHL_Aviation http://dbpedia.org/resource/DHL_Airways http://dbpedia.org/resource/DHL_Airlines
+0,6,DHL Aviation operated by Southern Air,http://dbpedia.org/resource/DHL,http://dbpedia.org/resource/DHL_Aviation http://dbpedia.org/resource/DHL_Airways http://dbpedia.org/resource/DHL_Airlines
+0,13,Swiftair operated by Swiftair Bahrain,http://dbpedia.org/resource/American_Forces_Network,http://dbpedia.org/resource/Swiftair http://dbpedia.org/resource/Swiftair_S.A.

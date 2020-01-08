@@ -1,0 +1,35 @@
+F1: 0.72269,Precision: 0.72269,Recall: 0.72269,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,Satellite,http://dbpedia.org/resource/Satellite_(Lena_Meyer-Landrut_song),http://dbpedia.org/resource/Satellite_(Rise_Against_song)
+0,3,Satellite,http://dbpedia.org/resource/Satellite_(Lena_Meyer-Landrut_song),http://dbpedia.org/resource/Satellite_(P.O.D._song)
+0,5,Santa Maria,http://dbpedia.org/resource/Mary_Magdalene,http://dbpedia.org/resource/Santa_Maria_(Kenshi_Yonezu_song)
+0,8,Sandcastles,http://dbpedia.org/resource/Sandcastles_(song),http://dbpedia.org/resource/Sandcastles_(Beyoncé_song)
+0,14,Salvation,http://dbpedia.org/resource/Salvation_(The_Cranberries_song),http://dbpedia.org/resource/Salvation_(Rancid_song)
+0,17,Sailor,http://dbpedia.org/resource/Sailor_(album),http://dbpedia.org/resource/Marin_(song) http://dbpedia.org/resource/Sailor_(Petula_Clark_song) http://dbpedia.org/resource/Sailor_(Song) http://dbpedia.org/resource/Sailor_(song)
+0,18,Sail Away,http://dbpedia.org/resource/Sail_Away_(David_Gray_song),http://dbpedia.org/resource/Sail_Away_(The_Rasmus_song)
+0,24,S.O.S.,http://dbpedia.org/resource/SOS_(Rihanna_song),http://dbpedia.org/resource/S._O._S._(Too_Bad) http://dbpedia.org/resource/S.O.S._(Too_Bad) http://dbpedia.org/resource/S_O_S_(Too_Bad) http://dbpedia.org/resource/SOS_(Too_Bad)
+0,31,Runaway,http://dbpedia.org/resource/Runaway_(Kanye_West_song),http://dbpedia.org/resource/Runaway_(Del_Shannon_song) http://dbpedia.org/resource/Runaway_'67
+0,32,Run to You,http://dbpedia.org/resource/Run_to_You_(Whitney_Houston_song),http://dbpedia.org/resource/Run_to_You_(Bryan_Adams_song)
+0,38,Run Baby Run,http://dbpedia.org/resource/Run_Baby_Run_(Amanda_Lear_song),http://dbpedia.org/resource/Run_Baby_Run_(Sheryl_Crow_song)
+0,39,Run Baby Run,http://dbpedia.org/resource/Run_Baby_Run_(Amanda_Lear_song),http://dbpedia.org/resource/Badass_(October_2003_Ruff_Demo) http://dbpedia.org/resource/Run_Baby_Run_(Garbage_song)
+0,42,Run,http://dbpedia.org/resource/Run_(Snow_Patrol_song),http://dbpedia.org/resource/Run_(George_song)
+0,49,Round & Round,http://dbpedia.org/resource/Round_&_Round_(Selena_Gomez_&_the_Scene_song),http://dbpedia.org/resource/Round_&_Round_(New_Order_song)
+0,52,Rose Tattoo,http://dbpedia.org/resource/Rose_Tattoo_(Rose_Tattoo_album),http://dbpedia.org/resource/Rose_Tattoo_(Dropkick_Murphys_song) http://dbpedia.org/resource/Rose_Tattoo_(song)
+0,61,Roll with It,http://dbpedia.org/resource/Roll_with_It_(Easton_Corbin_song),http://dbpedia.org/resource/Roll_With_It_(Oasis_song) http://dbpedia.org/resource/It's_Better_People http://dbpedia.org/resource/Roll_with_It_(Oasis_song) http://dbpedia.org/resource/Rockin'_Chair_(Oasis_song)
+0,65,Rocket Man,,"http://dbpedia.org/resource/Rocket_Man_(I_Think_It's_Going_To_Be_a_Long_Long_Time) http://dbpedia.org/resource/Rocket_Man_(I_Think_It's_Going_to_Be_a_Long,_Long_Time) http://dbpedia.org/resource/Rocket_Man_(I_Think_It's_Going_To_Be_A_Long_Long_Time) http://dbpedia.org/resource/I`m_a_rocket_man http://dbpedia.org/resource/Im'_a_rocket_man http://dbpedia.org/resource/Rocket_Man_(I_Think_It's_Going_to_Be_a_Long,_Long_Time)_(song) http://dbpedia.org/resource/Rocket_Man_(I_Think_it's_Going_to_Be_a_Long,_Long_Time) http://dbpedia.org/resource/Rocket_Man_(song) http://dbpedia.org/resource/I'm_a_rocket_man http://dbpedia.org/resource/Rocket_Man/Candle_in_the_Wind http://dbpedia.org/resource/Rocket_Man_(I_Think_It's_Going_To_Be_A_Long,_Long_Time) http://dbpedia.org/resource/Im_a_rocket_man"
+0,67,Rock the Boat,http://dbpedia.org/resource/Rock_the_Boat_(Bob_Sinclar_song),http://dbpedia.org/resource/Rock_the_Boat_(Aaliyah_song)
+0,75,Rock Steady,http://dbpedia.org/resource/Rock_Steady_(Aretha_Franklin_song),http://dbpedia.org/resource/Rock_Steady_(All_Saints'_song) http://dbpedia.org/resource/Rock_Steady_(All_Saints_song) http://dbpedia.org/resource/Rock_Steady_(2006_song)
+0,85,Robin,http://dbpedia.org/resource/Robin_Gibb,http://dbpedia.org/resource/Robin_(The_Hooded_Man)
+0,89,Rio,http://dbpedia.org/resource/2016_Summer_Olympics,http://dbpedia.org/resource/Rio_(song) http://dbpedia.org/resource/Rio_(Duran_Duran_single) http://dbpedia.org/resource/Rio_(single) http://dbpedia.org/resource/Rio_(Nicole_Scherzinger_song) http://dbpedia.org/resource/Rio_(Song)
+0,90,Ring Ring,http://dbpedia.org/resource/Ring_Ring_(ABBA_song),http://dbpedia.org/resource/Ring_Ring_(Bara_Du_Slog_En_Signal) http://dbpedia.org/resource/Bara_Du_Slog_En_Signal http://dbpedia.org/resource/Ring_Ring_(Swedish_version) http://dbpedia.org/resource/Ring_Ring_(English_version) http://dbpedia.org/resource/Ring_Ring_(song)
+0,91,Right to Be Wrong,http://dbpedia.org/resource/(If_Loving_You_Is_Wrong)_I_Don't_Want_to_Be_Right,http://dbpedia.org/resource/Right_to_Be_Wrong
+0,93,Right On,http://dbpedia.org/resource/Right_On_(The_Supremes_album),http://dbpedia.org/resource/Right_On_(Marvin_Gaye_song) http://dbpedia.org/resource/Right_On_(song)
+0,94,Right Now,http://dbpedia.org/resource/Right_Now_(Rihanna_song),http://dbpedia.org/resource/Right_Now_(Van_Halen_song)
+0,95,Right Here,"http://dbpedia.org/resource/Right_Here,_Right_Now_(Giorgio_Moroder_song)",http://dbpedia.org/resource/Right_Here_(Departed)
+0,97,Ride the Wild Wind,http://dbpedia.org/resource/Innuendo_(album),http://dbpedia.org/resource/Ride_The_Wild_Wind http://dbpedia.org/resource/Ride_the_Wild_Wind
+0,102,Rico,http://dbpedia.org/resource/Rico_Rodriguez_(musician),http://dbpedia.org/resource/Rico_(song)
+0,107,Revolt,http://dbpedia.org/resource/Revolt_(song),http://dbpedia.org/resource/Revolt_(Muse_song)
+0,115,Resolution,http://dbpedia.org/resource/Resolution_(Lamb_of_God_album),http://dbpedia.org/resource/Resolution_(song)
+0,117,Requiem,http://dbpedia.org/resource/Requiem_(London_Boys_song),http://dbpedia.org/resource/Requiem_(Killing_Joke_song)
+0,118,Renegade,http://dbpedia.org/resource/Renegade_(Paramore_song),http://dbpedia.org/resource/Renegade_(Daughtry_song)
+0,119,Remember the Name,http://dbpedia.org/resource/Petrified/Remember_the_Name,http://dbpedia.org/resource/Remember_the_Name http://dbpedia.org/resource/Remember_The_Name

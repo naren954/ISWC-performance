@@ -1,0 +1,8 @@
+F1: 0.60000,Precision: 0.60000,Recall: 0.60000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,0,John Haines,http://dbpedia.org/resource/John_M._Haines,"http://dbpedia.org/resource/John_Meade_Haines http://dbpedia.org/resource/Haines,_John http://dbpedia.org/resource/John_Haines"
+0,1,Benjamin Haldane,http://dbpedia.org/resource/Aylmer_Haldane,http://dbpedia.org/resource/Benjamin_Haldane http://dbpedia.org/resource/Benjamin_A._Haldane
+0,3,Walter Harper,http://dbpedia.org/resource/Walt_Harper,http://dbpedia.org/resource/Walter_Harper
+0,4,Richard Harris,http://dbpedia.org/resource/Richard_Harris,http://dbpedia.org/resource/Richard_Harris_(prospector)
+0,5,Ernestine Hayes,http://dbpedia.org/resource/Ernestine_Jackson,http://dbpedia.org/resource/Ernestine_Hayes
+0,14,Steve Holt,http://dbpedia.org/resource/Steven_Holt,http://dbpedia.org/resource/Steve_Holt_(American_musician)

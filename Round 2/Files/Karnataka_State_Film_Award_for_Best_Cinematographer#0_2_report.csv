@@ -1,0 +1,5 @@
+"F1: 0.90323","Precision: 0.90323","Recall: 0.90323"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"2","19","Om","http://dbpedia.org/resource/Om_(band)","http://dbpedia.org/resource/Om_(1995_film) http://dbpedia.org/resource/Om(Kannada_film) http://dbpedia.org/resource/Om_(Kannada_film) http://dbpedia.org/resource/OM_(film)"
+"2","25","Mane","http://dbpedia.org/resource/Manes_(band)","http://dbpedia.org/resource/Mane_(film)"
+"2","34","Minchina Ota Arivu","http://dbpedia.org/resource/Aaram_Arivu","http://dbpedia.org/resource/Minchina_Ota_(1980_film)"

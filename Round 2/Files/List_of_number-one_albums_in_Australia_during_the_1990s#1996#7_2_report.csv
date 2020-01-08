@@ -1,0 +1,5 @@
+"F1: 0.76923","Precision: 0.76923","Recall: 0.76923"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"2","32","Middle of Nowhere","http://dbpedia.org/resource/Tsuretette_Tsuretette","http://dbpedia.org/resource/Middle_of_Nowhere_(Hanson_album) http://dbpedia.org/resource/Middle_of_Nowhere_(album)"
+"2","34","In Deep","http://dbpedia.org/resource/Deep,_Deep_Trouble","http://dbpedia.org/resource/In_Deep_(Tina_Arena_album)"
+"2","39","Butterfly","http://dbpedia.org/resource/Butterfly_(Mariah_Carey_song)","http://dbpedia.org/resource/Fly_Away_(Butterfly_Reprise) http://dbpedia.org/resource/Butterfly_(Mariah_Carey_album)"

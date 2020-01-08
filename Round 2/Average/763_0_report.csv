@@ -1,0 +1,73 @@
+F1: 0.55346,Precision: 0.55346,Recall: 0.55346,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,WFXA-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/WFXA-FM http://dbpedia.org/resource/WFXA
+0,5,WFUN-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/WFUN-FM
+0,7,WFTT-DT,http://dbpedia.org/resource/CFTF-DT,http://dbpedia.org/resource/WFTT-TV http://dbpedia.org/resource/WFTT http://dbpedia.org/resource/WFTT-DT
+0,10,WFSU-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WFSG-TV http://dbpedia.org/resource/WFSG http://dbpedia.org/resource/WFSU-TV
+0,11,WFSU-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/WFSU-FM http://dbpedia.org/resource/WFSL http://dbpedia.org/resource/WFSQ http://dbpedia.org/resource/WFSW
+0,12,WFSP-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/WFSP-FM
+0,14,WFRV-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WFRV http://dbpedia.org/resource/WFRV-TV http://dbpedia.org/resource/WFRV-DT
+0,18,WFRG-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/Big_Frog_104 http://dbpedia.org/resource/WFRG http://dbpedia.org/resource/WFRG-FM
+0,19,WFRF-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/WFRF-FM
+0,21,WFRB-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/WFRB-FM
+0,23,WFQX-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WFQX-TV http://dbpedia.org/resource/WFUP
+0,25,WFPA-CD,http://dbpedia.org/resource/.cd,http://dbpedia.org/resource/WFPA-CA http://dbpedia.org/resource/WFPA-CD
+0,26,WFOX,http://dbpedia.org/resource/WNSW,http://dbpedia.org/resource/WFOX_(FM) http://dbpedia.org/resource/WFOX-FM
+0,27,WFOX-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WFOX-TV http://dbpedia.org/resource/WAWS-DT2 http://dbpedia.org/resource/WFOX-DT2 http://dbpedia.org/resource/WAWS http://dbpedia.org/resource/WAWS-TV
+0,28,WFOR-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WFOR-TV http://dbpedia.org/resource/CBS_Miami http://dbpedia.org/resource/CBS_South_Florida http://dbpedia.org/resource/WFOR-DT
+0,30,WFNX,http://dbpedia.org/resource/WFNX,http://dbpedia.org/resource/WFNX_(FM)
+0,33,WFNA,http://dbpedia.org/resource/WBCN_(AM),http://dbpedia.org/resource/WFNA_(TV) http://dbpedia.org/resource/WBPG-TV
+0,35,WFMY-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WFMY http://dbpedia.org/resource/WFMY-TV http://dbpedia.org/resource/WFMY_Tower http://dbpedia.org/resource/Gannett_Television_Greensboro
+0,38,WFLZ-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/93.3_FLZ http://dbpedia.org/resource/WFLZ http://dbpedia.org/resource/WFLZ-FM
+0,39,WFLY,http://dbpedia.org/resource/Wakefield,http://dbpedia.org/resource/FLY_92 http://dbpedia.org/resource/WFLY
+0,42,WFLS-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/WFLS-FM
+0,43,WFLI-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WFLI-TV
+0,44,WFLF-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/WFLF-FM
+0,47,WFLA-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WFLA-TV http://dbpedia.org/resource/NBC_St._Petersburg http://dbpedia.org/resource/NBC_Tampa http://dbpedia.org/resource/NBC_St_Petersburg http://dbpedia.org/resource/Daytime_(US_TV_series) http://dbpedia.org/resource/NBC_Tampa_Bay http://dbpedia.org/resource/NBC_Saint_Petersburg http://dbpedia.org/resource/WFLA-DT
+0,48,WFLA-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/WFLA-FM
+0,55,WFHM-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/WFHM http://dbpedia.org/resource/WFHM_(FM) http://dbpedia.org/resource/WFHM-FM
+0,58,WFGM-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/WFGM-FM
+0,62,WFFG-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/WFFG-FM
+0,63,WFFF-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WFFF-TV http://dbpedia.org/resource/WFFF-DT
+0,64,WFFF-DT2,http://dbpedia.org/resource/WFFF_(AM),http://dbpedia.org/resource/WFFF-DT2 http://dbpedia.org/resource/The_CW_Burlington
+0,65,WFDR-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/WFDR-FM
+0,66,WFDL-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/W236AG http://dbpedia.org/resource/WFDL-FM
+0,72,WFBM,http://dbpedia.org/resource/WNDE,http://dbpedia.org/resource/WFBM_(FM)
+0,74,WFBE,http://dbpedia.org/resource/WDBZ,http://dbpedia.org/resource/WFBE http://dbpedia.org/resource/WFBE-FM
+0,75,WFBC-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/W283CG http://dbpedia.org/resource/WFBC-FM http://dbpedia.org/resource/W242BX http://dbpedia.org/resource/W246BU
+0,76,WFAN-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/Smooth_Jazz_CD_101.9 http://dbpedia.org/resource/WQCD-FM http://dbpedia.org/resource/New_Rock_101.9 http://dbpedia.org/resource/WFAN-FM http://dbpedia.org/resource/CD_101.9 http://dbpedia.org/resource/CD101.9 http://dbpedia.org/resource/WPIX-FM
+0,78,WEZI,http://dbpedia.org/resource/WEZI_(FM),http://dbpedia.org/resource/WHJX http://dbpedia.org/resource/WFYV_ROCK_105 http://dbpedia.org/resource/WEZI
+0,80,WEYI-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WEYI-TV http://dbpedia.org/resource/NBC_25_Flint http://dbpedia.org/resource/WEYI http://dbpedia.org/resource/WEYI-DT http://dbpedia.org/resource/NBC_25_Saginaw
+0,84,WEUP-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/WEUP-FM http://dbpedia.org/resource/W238AD http://dbpedia.org/resource/W275AA http://dbpedia.org/resource/W222AK
+0,85,WETM-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WETM-DT http://dbpedia.org/resource/WETM http://dbpedia.org/resource/W30AA http://dbpedia.org/resource/WETM-TV
+0,87,WETA-TV,"http://es.dbpedia.org/resource/Municipio_de_Weta_(condado_de_Jackson,_Dakota_del_Sur)","http://dbpedia.org/resource/Author,_Author!_(videoblog) http://dbpedia.org/resource/Greater_Washington_Educational_Television_Association http://dbpedia.org/resource/WETA-TV"
+0,88,WESR-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/WESR-FM
+0,90,WESC-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/WESC-FM http://dbpedia.org/resource/WESC(FM)
+0,92,WERQ-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/WERQ http://dbpedia.org/resource/92Q http://dbpedia.org/resource/WERQ-FM
+0,93,WERH-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/WERH-FM
+0,94,WERC-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/WENN-FM http://dbpedia.org/resource/WERC-FM http://dbpedia.org/resource/W286BK
+0,96,WEQF-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/WBNN http://dbpedia.org/resource/WBNN-FM http://dbpedia.org/resource/WEQF-FM
+0,97,WEPX-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WEPX http://dbpedia.org/resource/WEPX-TV
+0,98,WEPN-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/ESPN_New_York_98.7_FM http://dbpedia.org/resource/WEPN-FM http://dbpedia.org/resource/ESPN_98.7_FM http://dbpedia.org/resource/ESPN_New_York http://dbpedia.org/resource/ESPN_98.7 http://dbpedia.org/resource/WOR-FM http://dbpedia.org/resource/98.7_Kiss_FM
+0,101,WENY-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WENY-TV http://dbpedia.org/resource/WENY-DT
+0,102,WENY-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/WENY-FM
+0,108,WEMT,http://dbpedia.org/resource/WVII-TV,http://dbpedia.org/resource/WEMT-TV http://dbpedia.org/resource/WEMT http://dbpedia.org/resource/W43BO http://dbpedia.org/resource/WEMT_(TV) http://dbpedia.org/resource/WEMT_39
+0,109,WEMP,http://dbpedia.org/resource/WFAN-FM,http://dbpedia.org/resource/WEMP
+0,110,WEMM-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/WEMM-FM http://dbpedia.org/resource/WEMM-AM http://dbpedia.org/resource/WEMM_Radio
+0,111,WELR-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/WELR-FM
+0,112,WELK,http://dbpedia.org/resource/Welk,http://dbpedia.org/resource/WELK
+0,114,WEIU-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WEIU-TV
+0,117,WEHM,http://de.dbpedia.org/resource/Wehm,http://dbpedia.org/resource/WEHM http://dbpedia.org/resource/WEHN
+0,121,WEGE,http://dbpedia.org/resource/Buje,http://dbpedia.org/resource/WEGE_(FM) http://dbpedia.org/resource/WEGE_FM http://dbpedia.org/resource/WEGE-FM http://dbpedia.org/resource/WEGE
+0,124,WEEK-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WEEK-TV
+0,126,WEDJ,http://dbpedia.org/resource/WNKS,http://dbpedia.org/resource/WEDJ
+0,130,WECP-LD,http://dbpedia.org/resource/KTPN-LD,http://dbpedia.org/resource/WECP-LD http://dbpedia.org/resource/WECP
+0,134,WEBG,http://dbpedia.org/resource/WRUM,http://dbpedia.org/resource/WNUA-FM http://dbpedia.org/resource/WEBG http://dbpedia.org/resource/W248BB http://dbpedia.org/resource/WNUA http://dbpedia.org/resource/Mega_95.5
+0,137,WEAS-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/WEAS http://dbpedia.org/resource/WEAS-FM
+0,138,WEAR-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WEAR-DT http://dbpedia.org/resource/WEAR_TV http://dbpedia.org/resource/WEARTV http://dbpedia.org/resource/ABC_Pensacola http://dbpedia.org/resource/WEAR-TV
+0,139,WEAN-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/WEAN http://dbpedia.org/resource/WEAN-FM http://dbpedia.org/resource/WSKO-FM
+0,140,WDZZ-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/WDZZ http://dbpedia.org/resource/WDZZ-FM
+0,149,WDUX-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/WDUX-FM
+0,150,WDTW-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/WDTW-FM http://dbpedia.org/resource/WDTW_(FM)
+0,151,WDTV,http://dbpedia.org/resource/KDKA-TV,http://dbpedia.org/resource/WDTV http://dbpedia.org/resource/WDTV-TV
+0,153,WDSY-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/Y108_Country_Crew http://dbpedia.org/resource/WDSY http://dbpedia.org/resource/WDSY-FM

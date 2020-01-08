@@ -1,0 +1,11 @@
+F1: 0.92500,Precision: 0.92500,Recall: 0.92500,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,4,Journal of Medicine,http://dbpedia.org/resource/Journal_of_Legal_Medicine,http://dbpedia.org/resource/Medicina_experimentalis http://dbpedia.org/resource/J_Med http://dbpedia.org/resource/Journal_of_Medicine
+0,27,International Journal of Sexuality and Gender Studies,,"http://dbpedia.org/resource/International_Journal_of_Sexuality_and_Gender_Studies http://dbpedia.org/resource/Journal_of_Gay,_Lesbian,_and_Bisexual_Identity"
+0,51,Foresight,http://dbpedia.org/resource/Foresight_(futures_studies_journal),http://dbpedia.org/resource/Foresight_(forecasting_journal) http://dbpedia.org/resource/Foresight:_The_International_Journal_of_Applied_Forecasting
+0,58,European Political Economy Review,http://dbpedia.org/resource/Review_of_African_Political_Economy,http://dbpedia.org/resource/European_Political_Economy_Review
+0,81,Comparative Technology Transfer and Society,,http://dbpedia.org/resource/Comparative_Technology_Transfer_and_Society http://dbpedia.org/resource/Comparative_technology_transfer_and_society
+0,85,Collectanea Hibernica,http://dbpedia.org/resource/Collectanea_Mathematica,http://dbpedia.org/resource/Collectanea_Hibernica
+0,104,Books in Canada,http://dbpedia.org/resource/Billboard_(magazine),http://dbpedia.org/resource/Books_In_Canada http://dbpedia.org/resource/Books_in_Canada:_The_Canadian_Review_of_Books http://dbpedia.org/resource/Books_in_Canada
+0,108,Biological Conservation,http://dbpedia.org/resource/Conservation_Biology_(journal),http://dbpedia.org/resource/Biol._Conserv. http://dbpedia.org/resource/Biological_Conservation_(journal) http://dbpedia.org/resource/Biol_Conserv
+0,116,Asia,http://dbpedia.org/resource/Asia,http://dbpedia.org/resource/Asia_(magazine)

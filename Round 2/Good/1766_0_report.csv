@@ -1,0 +1,12 @@
+F1: 0.80000,Precision: 0.80000,Recall: 0.80000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Sharpe's Waterloo,http://dbpedia.org/resource/Sharpe_(TV_series),http://dbpedia.org/resource/Sharpe's_Waterloo_(TV_programme)
+0,3,Sharpe's Regiment,http://dbpedia.org/resource/Sharpe_(TV_series),http://dbpedia.org/resource/Sharpe's_Regiment_(TV_programme)
+0,5,Sharpe's Enemy,http://dbpedia.org/resource/Sharpe_(TV_series),http://dbpedia.org/resource/Sharpe's_Enemy_(TV_programme)
+0,6,Sharpe's Company,http://dbpedia.org/resource/Sharpe_(TV_series),http://dbpedia.org/resource/Sharpe's_Company_(TV_programme)
+0,7,Sharpe's Challenge,http://dbpedia.org/resource/Sharpe_(TV_series),http://dbpedia.org/resource/Sharpe's_Challenge_(TV_programme) http://dbpedia.org/resource/Sharpe's_Challenge http://dbpedia.org/resource/Sharpes_Challenge
+0,27,Pilot,http://dbpedia.org/resource/Pilot_(Smallville),http://dbpedia.org/resource/Cold_Feet_(1997_TV_film) http://dbpedia.org/resource/Pilot_(Cold_Feet)
+0,32,Nestor the Long-Eared Christmas Donkey,"http://dbpedia.org/resource/Nestor,_the_Long–Eared_Christmas_Donkey","http://dbpedia.org/resource/Nestor_the_Long_Eared_Christmas_Donkey http://dbpedia.org/resource/Nestor,_The_Long-Eared_Christmas_Donkey http://dbpedia.org/resource/Nestor,_the_Long-Eared_Christmas_Donkey http://dbpedia.org/resource/Nestor_the_Long-Eared_Christmas_Donkey"
+0,34,Mr. Bean,http://dbpedia.org/resource/Bean_(film),http://dbpedia.org/resource/Mr+Bean http://dbpedia.org/resource/Mr_Bean http://dbpedia.org/resource/Teddy_(Mr._Bean) http://dbpedia.org/resource/Mr._Bean http://dbpedia.org/resource/Mr._Bean_Character http://dbpedia.org/resource/Mr_bean http://dbpedia.org/resource/Mr_Beans http://dbpedia.org/resource/Irma_Gobb http://dbpedia.org/resource/Rowan_Bean http://dbpedia.org/resource/Mr._Bean_(character) http://dbpedia.org/resource/Mr._Bean_(TV_series) http://dbpedia.org/resource/Mr_bean_(character) http://dbpedia.org/resource/Ecce_homo_qui_est_faba http://dbpedia.org/resource/Mister_Bean http://dbpedia.org/resource/Teddy_(Mr._Bean_character) http://dbpedia.org/resource/Mr.Bean
+0,43,Madea's Class Reunion,http://dbpedia.org/resource/Madea's_Family_Reunion,http://dbpedia.org/resource/Madea's_Class_Reunion
+0,48,Lily,http://dbpedia.org/resource/Lily_(album),http://dbpedia.org/resource/Lily_(1974_special) http://dbpedia.org/resource/Lily_(1973_special) http://dbpedia.org/resource/The_Lily_Tomlin_Special

@@ -1,0 +1,7 @@
+F1: 0.87500,Precision: 0.87500,Recall: 0.87500,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,18,Edgar Kaiser,http://dbpedia.org/resource/Edgar_Kaiser_Jr.,"http://dbpedia.org/resource/Edgar_F._Kaiser http://dbpedia.org/resource/Edgar_Kaiser,_Sr"
+0,22,EstÃ©e Lauder,http://dbpedia.org/resource/Estée_Lauder_(businesswoman),http://dbpedia.org/resource/Estée_Lauder_(person)
+0,23,John L. Lewis,http://dbpedia.org/resource/John_S._Lewis,http://dbpedia.org/resource/John_Llewellyn_Lewis http://dbpedia.org/resource/John_L_Lewis http://dbpedia.org/resource/John_L._Lewis
+0,32,John J. Sweeney,http://dbpedia.org/resource/John_McSweeney_(Ohio_politician),http://dbpedia.org/resource/John_Sweeney_(trade_unionist) http://dbpedia.org/resource/John_J._Sweeney http://dbpedia.org/resource/John_Sweeney_(labor_leader) http://dbpedia.org/resource/John_Joseph_Sweeney
+0,38,"Thomas Watson, Jr.",http://dbpedia.org/resource/Thomas_J._Watson,"http://dbpedia.org/resource/Thomas_John_Watson_Jr. http://dbpedia.org/resource/Tom_Watson,_Jr. http://dbpedia.org/resource/Thomas_Watson_Jr. http://dbpedia.org/resource/Thomas_J._Watson_Jr. http://dbpedia.org/resource/Thomas_J._Watson,_Jr. http://dbpedia.org/resource/Thomas_J._Watson,_Jr http://dbpedia.org/resource/Tom_Watson_Jr. http://dbpedia.org/resource/Thomas_J._Watson_Jr http://dbpedia.org/resource/Thomas_Watson,_Jr. http://dbpedia.org/resource/Thomas_John_Watson,_Jr."

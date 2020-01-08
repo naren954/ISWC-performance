@@ -1,0 +1,9 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,Brooklyn Robins,http://dbpedia.org/resource/Brooklyn,http://dbpedia.org/resource/1924_Brooklyn_Robins_season
+0,3,Pittsburgh Pirates,http://dbpedia.org/resource/Pittsburgh_Pirates,http://dbpedia.org/resource/1924_Pittsburgh_Pirates_season
+0,4,Cincinnati Reds,http://dbpedia.org/resource/Cincinnati,http://dbpedia.org/resource/1924_Cincinnati_Reds_season
+0,5,Chicago Cubs,http://dbpedia.org/resource/Chicago_Cubs,http://dbpedia.org/resource/1924_Chicago_Cubs_season
+0,6,St. Louis Cardinals,http://dbpedia.org/resource/Dallas_Cowboys,http://dbpedia.org/resource/1924_St._Louis_Cardinals_season
+0,7,Philadelphia Phillies,http://dbpedia.org/resource/Philadelphia,http://dbpedia.org/resource/1924_Philadelphia_Phillies_season
+0,8,Boston Braves,http://dbpedia.org/resource/Washington_Redskins,http://dbpedia.org/resource/1924_Boston_Braves_season

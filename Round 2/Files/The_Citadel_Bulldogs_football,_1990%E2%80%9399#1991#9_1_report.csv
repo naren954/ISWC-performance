@@ -1,0 +1,5 @@
+"F1: 0.00000","Precision: 0.00000","Recall: 0.00000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","4","South Carolina State*","http://dbpedia.org/resource/South_Carolina","http://dbpedia.org/resource/South_Carolina_State_Bulldogs_football"
+"1","8","Wofford","http://dbpedia.org/resource/Harris_Wofford","http://dbpedia.org/resource/Wofford_Terriers_football"
+"1","10","VMI","http://dbpedia.org/resource/Virginia_Military_Institute","http://dbpedia.org/resource/1999_VMI_Keydets_football_team"

@@ -1,0 +1,4 @@
+"F1: 0.97222","Precision: 0.97222","Recall: 0.97222"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","27","Yellow oriole","http://dbpedia.org/resource/Green_oriole","http://dbpedia.org/resource/South_american_yellow_oriole http://dbpedia.org/resource/Yellow_oriole http://dbpedia.org/resource/South_American_yellow_oriole http://dbpedia.org/resource/Yellow_Oriole http://dbpedia.org/resource/South_American_Yellow_Oriole http://dbpedia.org/resource/Icterus_nigrogularis"
+"0","48","Yellow bunting","http://dbpedia.org/resource/Ortolan_bunting","http://dbpedia.org/resource/Yellow_bunting http://dbpedia.org/resource/Siebold's_bunting http://dbpedia.org/resource/Japanese_yellow_bunting http://dbpedia.org/resource/Yellow_Bunting http://dbpedia.org/resource/Emberiza_sulphurata http://dbpedia.org/resource/Japanese_Yellow_Bunting http://dbpedia.org/resource/Siebold's_Bunting"

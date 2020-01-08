@@ -1,0 +1,4 @@
+"F1: 0.95556","Precision: 0.95556","Recall: 0.95556"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","1","P. Parratt","http://dbpedia.org/resource/Percy_Parratt","http://dbpedia.org/resource/Peggy_Parratt http://dbpedia.org/resource/George_Parratt"
+"0","3","P. Brown","http://dbpedia.org/resource/Patricia_Brown","http://dbpedia.org/resource/Paul_Eugene_Brown http://dbpedia.org/resource/Brown,_Paul http://dbpedia.org/resource/Paul_Brown"

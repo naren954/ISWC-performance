@@ -1,0 +1,7 @@
+"F1: 0.66667","Precision: 0.66667","Recall: 0.66667"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"2","1","A. Silver","http://de.dbpedia.org/resource/Amanda_Silver","http://dbpedia.org/resource/Abner_Silver"
+"2","7","R. Hunter","http://dbpedia.org/resource/James_Hunter_(singer)","http://dbpedia.org/resource/Robert_Hunter_(lyricist) http://dbpedia.org/resource/Robert_Hunter_(singer)"
+"2","8","C. Leigh","http://dbpedia.org/resource/Chyler_Leigh","http://dbpedia.org/resource/Carolyn_Leigh"
+"2","12","M. Parish","http://dbpedia.org/resource/John_Parish","http://dbpedia.org/resource/Mitchell_Parish"
+"2","15","S. Schwartz","http://dbpedia.org/resource/Sherwood_Schwartz","http://dbpedia.org/resource/Stephen_Schwartz_(composer)"

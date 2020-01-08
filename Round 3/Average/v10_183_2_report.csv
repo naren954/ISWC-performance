@@ -1,0 +1,6 @@
+F1: 0.73333,Precision: 0.73333,Recall: 0.73333,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,2,M. Lawrence,http://dbpedia.org/resource/Mr._Lawrence,http://dbpedia.org/resource/Martin_Lawrence http://dbpedia.org/resource/Martin_lawrence
+2,10,J. Lawrence,http://dbpedia.org/resource/Jack_Lawrence,http://dbpedia.org/resource/Jennifer_Shrader_Lawrence http://dbpedia.org/resource/Jennifer_Lawrence_filmography http://dbpedia.org/resource/Jennifer_lawrence http://dbpedia.org/resource/J.Law http://dbpedia.org/resource/J_Law http://dbpedia.org/resource/Filmography_of_Jennifer_Lawrence http://dbpedia.org/resource/Dear_Fidel http://dbpedia.org/resource/J-Law http://dbpedia.org/resource/JLaw http://dbpedia.org/resource/Jennifer_Lawrence
+2,11,M. Copeland,http://dbpedia.org/resource/Martha_Copeland,http://dbpedia.org/resource/Sylvia_DelaCerna http://dbpedia.org/resource/M._Copeland http://dbpedia.org/resource/Misty_Copeland
+2,12,S. Oberoi,http://dbpedia.org/resource/Vivek_Oberoi,http://dbpedia.org/resource/Suresh_Oberoi

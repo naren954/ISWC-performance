@@ -1,0 +1,5 @@
+F1: 0.88000,Precision: 0.88000,Recall: 0.88000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,2,MediaWorks,http://dbpedia.org/resource/ASCII_Media_Works,"http://dbpedia.org/resource/MediaWorks_(publisher) http://dbpedia.org/resource/Dengeki_G's_Bunko http://dbpedia.org/resource/Media_Works,Inc"
+1,10,Harvest,http://dbpedia.org/resource/Harvest_Records,http://dbpedia.org/resource/Harvests http://dbpedia.org/resource/Crop_year http://dbpedia.org/resource/Harvest_time http://dbpedia.org/resource/Harvest_failure http://dbpedia.org/resource/Wet_harvest http://dbpedia.org/resource/Reaping http://dbpedia.org/resource/Harvesting http://dbpedia.org/resource/Crop_failures http://dbpedia.org/resource/Crop_failure http://dbpedia.org/resource/Harvest http://dbpedia.org/resource/Crop_Year
+1,13,Fujimi Shobo,http://dbpedia.org/resource/Kadokawa_Shoten,http://dbpedia.org/resource/富士見書房 http://dbpedia.org/resource/Fujimi_Shobo http://dbpedia.org/resource/Fujimi_Shobō

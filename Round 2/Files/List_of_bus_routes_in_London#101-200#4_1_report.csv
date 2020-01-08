@@ -1,0 +1,6 @@
+"F1: 0.00000","Precision: 0.00000","Recall: 0.00000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","41","Waterloo Station","http://dbpedia.org/resource/Waterloo_tube_station","http://dbpedia.org/resource/Wood_green_station http://dbpedia.org/resource/Wood_Green_tube_station http://dbpedia.org/resource/Wood_Green_Underground_station"
+"1","49","Arnos Grove Station","http://dbpedia.org/resource/Arnos_Grove_tube_station","http://dbpedia.org/resource/North_Edgware http://dbpedia.org/resource/Edgware,_London,_England http://dbpedia.org/resource/Edgware,_Middlesex http://dbpedia.org/resource/Edgware"
+"1","60","Beckton","http://dbpedia.org/resource/Beckton_DLR_station","http://dbpedia.org/resource/Stratford,_London,_England http://dbpedia.org/resource/Strand_East http://dbpedia.org/resource/Stratford,_London http://dbpedia.org/resource/West_Ham_Church_Of_England_Primary_School http://dbpedia.org/resource/Stratford_Langthorne http://dbpedia.org/resource/Stratford_in_London http://dbpedia.org/resource/Stratford,_Essex"
+"1","68","Mitcham","http://dbpedia.org/resource/Mitcham_railway_station,_Melbourne","http://dbpedia.org/resource/Putney_Bridge"

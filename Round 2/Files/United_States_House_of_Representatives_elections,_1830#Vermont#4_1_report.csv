@@ -1,0 +1,8 @@
+"F1: 0.76923","Precision: 0.76923","Recall: 0.76923"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","3","Daniel H. Miller","http://dbpedia.org/resource/Daniel_F._Miller","http://dbpedia.org/resource/Daniel_H._Miller"
+"1","9","Joseph Fry, Jr.","http://dbpedia.org/resource/Joseph_Fry_Jr.","http://dbpedia.org/resource/Joseph_Fry,_Jr."
+"1","11","Peter Ihrie, Jr.","http://dbpedia.org/resource/Peter_Ihrie_Jr.","http://dbpedia.org/resource/Peter_Ihrie,_Jr. http://dbpedia.org/resource/Peter_Ihrie"
+"1","12","Samuel A. Smith","http://dbpedia.org/resource/Samuel_Axley_Smith","http://dbpedia.org/resource/Samuel_A._Smith"
+"1","14","James Ford","http://dbpedia.org/resource/James_Ford_(musician)","http://dbpedia.org/resource/James_Ford_(Pennsylvania)"
+"1","19","John Scott","http://dbpedia.org/resource/John_Scott_(Scottish_politician)","http://dbpedia.org/resource/John_Scott_(representative)"

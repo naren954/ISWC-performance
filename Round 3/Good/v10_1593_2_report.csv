@@ -1,0 +1,5 @@
+F1: 0.80000,Precision: 0.80000,Recall: 0.80000,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,1,D. Crosby,http://dbpedia.org/resource/Bing_Crosby,"http://dbpedia.org/resource/David_Crosby http://dbpedia.org/resource/Crosby,_David"
+2,10,D. Mann,http://dbpedia.org/resource/Daniel_Mann,http://dbpedia.org/resource/David_Mann_(songwriter)
+2,13,B. Evans,http://dbpedia.org/resource/Ray_Evans,http://dbpedia.org/resource/Bill_Evans_Trio http://dbpedia.org/resource/Bill_Evans_Dance http://dbpedia.org/resource/William_John_Evans http://dbpedia.org/resource/Bill_Evans

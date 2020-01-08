@@ -1,0 +1,7 @@
+"F1: 0.82143","Precision: 0.82143","Recall: 0.82143"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","18","Huddersfield","http://dbpedia.org/resource/Huddersfield","http://dbpedia.org/resource/Huddersfield_(UK_Parliament_constituency)"
+"0","19","Hyde","http://dbpedia.org/resource/Hyde,_Pennsylvania","http://dbpedia.org/resource/Hyde_(UK_Parliament_constituency)"
+"0","20","Kingston-upon-Hull West","http://dbpedia.org/resource/Kingston_upon_Hull_West_and_Hessle_(UK_Parliament_constituency)","http://dbpedia.org/resource/Kingston-upon-Hull_West_(UK_Parliament_constituency) http://dbpedia.org/resource/Hull_West_(UK_Parliamentary_constituency) http://dbpedia.org/resource/Kingston-upon-Hull_West http://dbpedia.org/resource/Kingston_upon_Hull_West_(UK_Parliament_constituency) http://dbpedia.org/resource/Hull_West_(UK_Parliament_constituency) http://dbpedia.org/resource/Hull_West http://dbpedia.org/resource/Kingston_upon_Hull_West"
+"0","25","Preston","http://dbpedia.org/resource/Preston_County,_West_Virginia","http://dbpedia.org/resource/Preston_(UK_Parliament_constituency) http://dbpedia.org/resource/Preston_constituency"
+"0","28","West Ham South","nan","http://dbpedia.org/resource/West_Ham_South_(UK_Parliament_constituency) http://dbpedia.org/resource/West_Ham_South"

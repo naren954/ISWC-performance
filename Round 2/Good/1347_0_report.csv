@@ -1,0 +1,4 @@
+F1: 0.86667,Precision: 0.86667,Recall: 0.86667,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,5,D. Carney,http://dbpedia.org/resource/Daniel_Carney,http://dbpedia.org/resource/Don_Carney http://dbpedia.org/resource/Uncle_Don_Carney
+0,7,C. Leonard,http://dbpedia.org/resource/Leonard_Cheshire,http://dbpedia.org/resource/Chuck_Leonard

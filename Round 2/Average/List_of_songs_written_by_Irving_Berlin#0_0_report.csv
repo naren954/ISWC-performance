@@ -1,0 +1,25 @@
+F1: 0.70130,Precision: 0.70130,Recall: 0.70130,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,29,All by Myself[5],http://dbpedia.org/resource/All_by_Myself_(Bee_Gees_song),http://dbpedia.org/resource/All_by_Myself_(Irving_Berlin_song)
+0,34,Always[1],http://dbpedia.org/resource/Always_(Bon_Jovi_song),http://dbpedia.org/resource/Always_(Irving_Berlin_song) http://dbpedia.org/resource/Always_(1925_song)
+0,47,Anything You Can Do (I Can Do Better)[1],http://dbpedia.org/resource/Anything_You_Can_Do_(I_Can_Do_Better),"http://dbpedia.org/resource/Anything_You_Can_Do_(song) http://dbpedia.org/resource/Anything_You_Can_Do,_I_Can_Do_Better"
+0,68,Blue Skies[1],http://dbpedia.org/resource/Blue_Skies_(Noah_and_the_Whale_song),http://dbpedia.org/resource/Blue_Skies_(Irving_Berlin_song) http://dbpedia.org/resource/Blue_Skies_(1926_song)
+0,103,Count Your Blessings (Instead of Sheep),http://dbpedia.org/resource/Count_Your_Blessings_(Bring_Me_the_Horizon_album),http://dbpedia.org/resource/Count_Your_Blessings_(Instead_of_Sheep) http://dbpedia.org/resource/Count_Your_Blessings_(Irving_Berlin_song) http://dbpedia.org/resource/Count_Your_Blessings_Instead_Of_Sheep http://dbpedia.org/resource/Count_Your_Blessings_Instead_of_Sheep
+0,171,Get Thee Behind Me Satan,http://dbpedia.org/resource/Get_Behind_Me_Satan,http://dbpedia.org/resource/Get_Thee_Behind_Me_Satan
+0,214,How's Chances?,,http://dbpedia.org/resource/How's_Chances?
+0,287,"I'm an Indian, Too",http://dbpedia.org/resource/I'm_an_Indian_Too,"http://dbpedia.org/resource/I'm_an_Indian,_Too"
+0,365,Lazy,http://dbpedia.org/resource/The_Lazy_Song,http://dbpedia.org/resource/Lazy_(Irving_Berlin_song)
+0,371,Let Yourself Go,http://es.dbpedia.org/resource/Let_Yourself_Go_(canción_de_April_Wine),http://dbpedia.org/resource/Let_Yourself_Go_(Irving_Berlin_song)
+0,403,Mandy[1],http://dbpedia.org/resource/Brandy_(Scott_English_song),http://dbpedia.org/resource/Mandy_(1919_song) http://dbpedia.org/resource/Mandy_(Irving_Berlin_song)
+0,406,"Marie[1] (AKA \Marie (The Dawn Is Breaking)\"")""",http://dbpedia.org/resource/Marie_(given_name),http://dbpedia.org/resource/List_of_850_Irving_Berlin_songs http://dbpedia.org/resource/List_of_Irving_Berlin_songs http://dbpedia.org/resource/List_of_songs_written_by_Irving_Berlin http://dbpedia.org/resource/List_of_songs_by_Irving_Berlin http://dbpedia.org/resource/Marie_(1929_song) http://dbpedia.org/resource/List_of_songs_written_by_Irving_Berlin_songs
+0,453,No Strings (I'm Fancy Free),http://dbpedia.org/resource/New_Strings,http://dbpedia.org/resource/No_Strings_(I'm_Fancy_Free)
+0,465,Old Fashioned Wedding[7],http://dbpedia.org/resource/That's_Old_Fashioned_(That's_the_Way_Love_Should_Be),"http://dbpedia.org/resource/I'm_a_Bad,_Bad_Man http://dbpedia.org/resource/Old_Fashioned_Wedding http://dbpedia.org/resource/Annie_Get_Your_Gun_(original_cast_album) http://dbpedia.org/resource/Colonel_Buffalo_Bill http://dbpedia.org/resource/Wild_Horse_Ceremonial_Dance http://dbpedia.org/resource/Annie_Get_Your_Gun_(musical)"
+0,498,Puttin' on the Ritz[1],http://dbpedia.org/resource/Puttin'_On_the_Ritz,http://dbpedia.org/resource/Puttin'_on_the_Ritz
+0,510,Remember,http://dbpedia.org/resource/Remember_(Disturbed_song),http://dbpedia.org/resource/Remember_(1925_song) http://dbpedia.org/resource/Remember_(1933_song) http://dbpedia.org/resource/Remember_(Irving_Berlin_song)
+0,521,San Francisco Bound,http://dbpedia.org/resource/The_Sound_of_San_Francisco,http://dbpedia.org/resource/San_Francisco_Bound
+0,534,Sisters[5],http://dbpedia.org/resource/Sisters_(Idoling_album),http://dbpedia.org/resource/Sisters_(song)
+0,667,The Song Is Ended (but the Melody Lingers On),http://dbpedia.org/resource/The_End_(The_Doors_song),http://dbpedia.org/resource/The_Song_Is_Ended_(But_the_Melody_Lingers_On) http://dbpedia.org/resource/The_Song_Is_Ended_(but_the_Melody_Lingers_On) http://dbpedia.org/resource/The_Song_is_Ended_(but_the_Melody_Lingers_On)
+0,686,There's No Business Like Show Business[6],http://dbpedia.org/resource/There's_No_Business_Like_Show_Business,http://dbpedia.org/resource/There's_No_Business_Like_Show_Business_(song)
+0,748,What'll I Do?[1],http://dbpedia.org/resource/What'll_I_Do,http://dbpedia.org/resource/What'll_I_Do?
+0,806,You Can Have Him,http://dbpedia.org/resource/You_Can_Have_Her,http://dbpedia.org/resource/You_Can_Have_Him
+0,822,You're Laughing at Me,http://dbpedia.org/resource/You're_So_Good_to_Me,http://dbpedia.org/resource/You're_Laughing_at_Me

@@ -1,0 +1,5 @@
+F1: 0.50000,Precision: 0.50000,Recall: 0.50000,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,21,Simon,http://dbpedia.org/resource/Simon_Property_Group,http://dbpedia.org/resource/Simon_(album) http://dbpedia.org/resource/Simon_(Grüvius_Malt_album)
+2,27,The Red Shift,http://dbpedia.org/resource/Red_Shift_(novel),http://dbpedia.org/resource/The_Red_Shift
+2,29,Road Tested (2003â\u0080\u00932005),http://dbpedia.org/resource/Road_Tested,http://dbpedia.org/resource/Road_Tested_(2003–2005)

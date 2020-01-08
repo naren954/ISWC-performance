@@ -1,0 +1,5 @@
+"F1: 0.90323","Precision: 0.90323","Recall: 0.90323"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","1","Roberto","http://dbpedia.org/resource/Roberto_Marinho","http://dbpedia.org/resource/Roberto_(horse)"
+"1","10","Spectrum","http://dbpedia.org/resource/Apopestes_spectrum","http://dbpedia.org/resource/Spectrum_(horse)"
+"1","19","Kashmir","nan","http://dbpedia.org/resource/Kashmir_(horse)"

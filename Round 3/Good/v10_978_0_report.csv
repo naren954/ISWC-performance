@@ -1,0 +1,19 @@
+F1: 0.88112,Precision: 0.88112,Recall: 0.88112,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,8,HMCS Nanaimo,http://dbpedia.org/resource/HMCS_Nanaimo_(MM_702),http://dbpedia.org/resource/HMCS_Nanaimo_(K101)
+0,13,HMCS Minas,http://dbpedia.org/resource/HMCS_Minas,http://dbpedia.org/resource/HMCS_Minas_(J165) http://dbpedia.org/resource/HMCS_Minas_(FSE_189)
+0,22,HMCS Louisburg,http://dbpedia.org/resource/HMCS_Louisburg_(K143),http://dbpedia.org/resource/Dominican_corvette_Juan_Alejandro_Acosta http://dbpedia.org/resource/HMCS_Louisburg_(K401)
+0,35,HMCS Iroquois,http://dbpedia.org/resource/HMCS_Iroquois_(DDG_280),http://dbpedia.org/resource/HMCS_Iroquois_(DDE_217) http://dbpedia.org/resource/HMCS_Athabaskan_(G89) http://dbpedia.org/resource/HMCS_Iroquois_(DDE-217) http://dbpedia.org/resource/HMCS_Iroquois_(G89)
+0,37,HMCS Huron,http://dbpedia.org/resource/HMCS_Huron_(DDG_281),http://dbpedia.org/resource/HMCS_Huron_(G24) http://dbpedia.org/resource/HMCS_Huron_(DDE_216) http://dbpedia.org/resource/HMCS_Huron_(I)
+0,46,HMCS Forrest Hill,http://dbpedia.org/resource/HMCS_Forest_Hill,http://dbpedia.org/resource/HMS_Ceanothos_(K486) http://dbpedia.org/resource/HMCS_Forrest_Hill_(K486) http://dbpedia.org/resource/HMCS_Forrest_Hill
+0,55,HMCS Crusader,http://dbpedia.org/resource/HMS_Crusader_(H60),http://dbpedia.org/resource/HMCS_Crusader http://dbpedia.org/resource/HMCS_Crusader_(DDE_228) http://dbpedia.org/resource/HMS_Crusader_(R20) http://dbpedia.org/resource/HMCS_Crusader_(R20)
+0,61,HMCS Clayoquot,http://dbpedia.org/resource/HMCS_Cobourg,http://dbpedia.org/resource/HMCS_Clayoquot_(J174)
+0,65,HMCS Chedabucto,http://dbpedia.org/resource/HMCS_Haida,http://dbpedia.org/resource/HMCS_Chedabucto_(J168)
+0,80,HMCS Athabaskan,http://dbpedia.org/resource/HMCS_Athabaskan_(DDG_282),http://dbpedia.org/resource/HMCS_Iroquois_(G07) http://dbpedia.org/resource/HMCS_Athabascan_(G07) http://dbpedia.org/resource/HMCS_Athabaskan_(G_07) http://dbpedia.org/resource/HMCS_Athabaskan_(G07)
+0,90,HMAS Tobruk,http://dbpedia.org/resource/HMAS_Tobruk_(D37),http://dbpedia.org/resource/HMAS_Tobruk_II http://dbpedia.org/resource/HMAS_Tobruk_(L_50) http://dbpedia.org/resource/HMAS_Tobruk_(II) http://dbpedia.org/resource/HMAS_Tobruk_(L-50) http://dbpedia.org/resource/Landing_Ship_Heavy http://dbpedia.org/resource/HMAS_Tobruk_(L50)
+0,92,HMAS Manoora,http://dbpedia.org/resource/HMAS_Manoora_(F48),http://dbpedia.org/resource/HMAS_Manoora_(II) http://dbpedia.org/resource/HMAS_Manoora_(L_52) http://dbpedia.org/resource/HMAS_Manoora_(L-52) http://dbpedia.org/resource/HMAS_Manoora_(LPA-52) http://dbpedia.org/resource/HMAS_Manoora_II
+0,100,Gustave Zédé,http://dbpedia.org/resource/German_submarine_tender_Saar,http://dbpedia.org/resource/French_submarine_Gustave_Zédé_(Q2) http://dbpedia.org/resource/French_submarine_Sirène_(Q2) http://dbpedia.org/resource/Gustave_Zédé_(Q2) http://dbpedia.org/resource/Gustave_Zede_(Q2)
+0,102,German torpedo boat T-36,http://dbpedia.org/resource/German_torpedo_boat_T36,http://dbpedia.org/resource/German_torpedo_boat_T-36 http://dbpedia.org/resource/T-36_(German_torpedo_boat)
+0,103,German torpedo boat T-26,http://dbpedia.org/resource/German_torpedo_boat_T36,http://dbpedia.org/resource/German_torpedo_boat_T26 http://dbpedia.org/resource/German_torpedo_boat_T-26
+0,104,German torpedo boat T-25,http://dbpedia.org/resource/German_torpedo_boat_T36,http://dbpedia.org/resource/German_torpedo_boat http://dbpedia.org/resource/German_torpedo_boat_T25 http://dbpedia.org/resource/German_torpedo_boat_T-25
+0,106,German submarine U-9,http://dbpedia.org/resource/German_submarine_U-4709,http://dbpedia.org/resource/German_submarine_U9_(1935) http://dbpedia.org/resource/U_9_(1935) http://dbpedia.org/resource/U-9_(1935) http://dbpedia.org/resource/German_submarine_U-9_(1935) http://dbpedia.org/resource/German_submarine_U_9_(1935) http://dbpedia.org/resource/U9_(1935) http://dbpedia.org/resource/Unterseeboot_9_(1935)

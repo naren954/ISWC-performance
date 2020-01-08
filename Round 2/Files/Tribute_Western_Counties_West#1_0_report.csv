@@ -1,0 +1,4 @@
+"F1: 0.33333","Precision: 0.33333","Recall: 0.33333"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","2","Exeter University","http://dbpedia.org/resource/Exeter","http://dbpedia.org/resource/Exeter_University_Rugby_Football_Club http://dbpedia.org/resource/Exeter_University_RFC"
+"0","10","Tiverton","http://dbpedia.org/resource/Tiverton,_Devon","http://dbpedia.org/resource/Tiverton_Rugby_Club http://dbpedia.org/resource/Tiverton_RFC http://dbpedia.org/resource/Tiverton_Rugby http://dbpedia.org/resource/Tiverton_Rugby_Football_Club"

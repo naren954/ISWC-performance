@@ -1,0 +1,4 @@
+F1: 0.33333,Precision: 0.33333,Recall: 0.33333,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,Larvik Turn,http://dbpedia.org/resource/Larvik_Turn,http://dbpedia.org/resource/Larvik_Fotball
+1,2,Storm,http://dbpedia.org/resource/Melbourne_Storm,http://dbpedia.org/resource/Storm_BK http://dbpedia.org/resource/Storms_BK

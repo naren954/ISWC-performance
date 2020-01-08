@@ -1,0 +1,5 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Shanghai Railway Station toward Fujin Road,http://dbpedia.org/resource/Shanghai_railway_station,http://dbpedia.org/resource/Shanghai_Railway_Station_(Shanghai_Metro) http://dbpedia.org/resource/Shanghai_Railway_Station_(Metro) http://dbpedia.org/resource/Shanghai_Railway_Station_Station
+0,2,West Nanjing Road toward Qixin Road,http://dbpedia.org/resource/Park_Hotel_Shanghai,http://dbpedia.org/resource/Nanjing_Road_(West)_(Shanghai_Metro) http://dbpedia.org/resource/Nanjing_West_Road_Station http://dbpedia.org/resource/West_Nanjing_Road_(Shanghai_Metro) http://dbpedia.org/resource/West_Nanjing_Road_Station
+0,3,Jiangning Road toward Jinyun Road,http://dbpedia.org/resource/Jinyun_Road_station,http://dbpedia.org/resource/Jiangning_Road_Station

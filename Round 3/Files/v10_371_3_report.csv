@@ -1,0 +1,5 @@
+"F1: 0.96703","Precision: 0.96703","Recall: 0.96703"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"3","13","Wilson Phillips","http://dbpedia.org/resource/Phillip_Phillips","http://dbpedia.org/resource/Wilson_Phillips http://dbpedia.org/resource/Wilson_phillipps http://dbpedia.org/resource/Wilson_Philips"
+"3","25","We Five","http://dbpedia.org/resource/Five_(band)","http://dbpedia.org/resource/The_Ridgerunners http://dbpedia.org/resource/Ridgerunners http://dbpedia.org/resource/We_Five"
+"3","49","The Whitlams","http://dbpedia.org/resource/Gough_Whitlam","http://dbpedia.org/resource/The_Whitlams http://dbpedia.org/resource/Whitlams"

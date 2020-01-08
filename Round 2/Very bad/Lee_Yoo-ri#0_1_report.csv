@@ -1,0 +1,4 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,2,Naver LINE x Disney TsumTsum,http://dbpedia.org/resource/Disney_Tsum_Tsum,http://dbpedia.org/resource/LINE_(application) http://dbpedia.org/resource/Lianwo http://dbpedia.org/resource/Line_Messenger http://dbpedia.org/resource/Line_(application) http://dbpedia.org/resource/Line_messenger http://dbpedia.org/resource/Line_Town
+1,5,KT Thrifty Phone M Mobile,http://dbpedia.org/resource/Siemens_Mobile,http://dbpedia.org/resource/Olleh http://dbpedia.org/resource/KT_(telecommunication_company) http://dbpedia.org/resource/KT_(telco) http://dbpedia.org/resource/KT_(KT_Music) http://dbpedia.org/resource/Korea_Telecom http://dbpedia.org/resource/KT_Corporation http://dbpedia.org/resource/KT_Group

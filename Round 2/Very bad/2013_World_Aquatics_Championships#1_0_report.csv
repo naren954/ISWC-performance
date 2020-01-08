@@ -1,0 +1,8 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Diving,http://dbpedia.org/resource/Diving_at_the_2016_Summer_Olympics,http://dbpedia.org/resource/Diving_at_the_2013_World_Aquatics_Championships
+0,2,High diving,http://dbpedia.org/resource/High_Diving_Hare,http://dbpedia.org/resource/High_diving_at_the_2013_World_Aquatics_Championships
+0,3,Open water swimming,http://dbpedia.org/resource/Swimming_at_the_2012_Summer_Olympics,http://dbpedia.org/resource/Open_water_swimming_at_the_2013_World_Aquatics_Championships
+0,4,Swimming,http://dbpedia.org/resource/Swimming_at_the_2016_Summer_Olympics,http://dbpedia.org/resource/Swimming_at_the_2013_World_Aquatics_Championships
+0,5,Synchronised swimming,http://dbpedia.org/resource/Synchronized_swimming_at_the_2016_Summer_Olympics,http://dbpedia.org/resource/Synchronised_swimming_at_the_2013_World_Aquatics_Championships http://dbpedia.org/resource/Synchronized_swimming_at_the_2013_World_Aquatics_Championships
+0,6,Water polo,http://dbpedia.org/resource/Leonardo_Polo,http://dbpedia.org/resource/Water_polo_at_the_2013_World_Aquatics_Championships

@@ -1,0 +1,13 @@
+F1: 0.90984,Precision: 0.90984,Recall: 0.90984,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,4,F. González,http://dbpedia.org/resource/Fran_(Spanish_footballer),http://dbpedia.org/resource/Jose_Froilan_Gonzalez http://dbpedia.org/resource/Froilán_González http://dbpedia.org/resource/José_Froilán_González http://dbpedia.org/resource/Froilan_Gonzalez http://dbpedia.org/resource/José_Froilan_González http://dbpedia.org/resource/Jose-Froilan_Gonzalez
+3,6,C. Harrison,http://dbpedia.org/resource/Caroline_Harrison,http://dbpedia.org/resource/Cuth_Harrison
+3,28,Ó. A. Gálvez,http://dbpedia.org/resource/Che_Guevara,http://dbpedia.org/resource/Oscar_Galvez http://dbpedia.org/resource/Oscar_Gálvez http://dbpedia.org/resource/Oscar_Alfredo_Galvez http://dbpedia.org/resource/Óscar_Alfredo_Gálvez http://dbpedia.org/resource/Oscar_Alfredo_Gálvez
+3,44,E. Platé,http://dbpedia.org/resource/Emilia_Plater,http://dbpedia.org/resource/Enrico_Plate http://dbpedia.org/resource/Scuderia_Enrico_Plate http://dbpedia.org/resource/Enrico_Platé http://dbpedia.org/resource/Scuderia_Enrico_Platé http://dbpedia.org/resource/Scuderia_Platé http://dbpedia.org/resource/Scuderia_Plate
+3,65,C. Martin,http://dbpedia.org/resource/Charlie_Martin_(Australian_footballer),http://dbpedia.org/resource/Charlie_Martin
+3,99,M. Costantini,http://it.dbpedia.org/resource/Maurizio_Costantini,http://dbpedia.org/resource/Bartolomeo_Costantini http://dbpedia.org/resource/Meo_Constantini http://dbpedia.org/resource/Meo_Costantini
+3,101,L. Wagner,http://dbpedia.org/resource/Louis_Wagner_(driver),http://dbpedia.org/resource/Louis_Wagner
+3,103,L. Wagner,http://dbpedia.org/resource/Louis_Wagner_(driver),http://dbpedia.org/resource/Louis_Wagner
+3,110,E. Cooper,http://dbpedia.org/resource/Edgar_Cooper,http://dbpedia.org/resource/Earl_Cooper
+3,111,L. Wagner,http://dbpedia.org/resource/Louis_Wagner_(driver),http://dbpedia.org/resource/Louis_Wagner
+3,113,L. Wagner,http://dbpedia.org/resource/Louis_Wagner_(driver),http://dbpedia.org/resource/Louis_Wagner

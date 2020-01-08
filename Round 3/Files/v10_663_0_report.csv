@@ -1,0 +1,8 @@
+"F1: 0.90909","Precision: 0.90909","Recall: 0.90909"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","9","Crash","http://dbpedia.org/resource/Crash_(Ballard_novel)","http://dbpedia.org/resource/Crash_(1973_novel) http://dbpedia.org/resource/Crash_(J._G._Ballard_novel) http://dbpedia.org/resource/Crash_(J._G._Ballard)"
+"0","17","Constance","http://dbpedia.org/resource/Constance_(name)","http://dbpedia.org/resource/Constance_(novel)"
+"0","23","Company","http://dbpedia.org/resource/Company_(musical)","http://dbpedia.org/resource/Company_(novel)"
+"0","55","Chicka, Chicka, 1, 2, 3","http://dbpedia.org/resource/Chicka_Chicka_1,_2,_3","http://dbpedia.org/resource/Chicka,_Chicka,_1,_2,_3 http://dbpedia.org/resource/Chicka_Chicka_123"
+"0","61","Chaotic","http://dbpedia.org/resource/Britney_and_Kevin:_Chaotic","http://dbpedia.org/resource/Chaotic_(novella)"
+"0","63","Challenger","http://dbpedia.org/resource/Challenges_(magazine)","http://dbpedia.org/resource/Challenger_(Star_Trek) http://dbpedia.org/resource/Challenger_(novel)"

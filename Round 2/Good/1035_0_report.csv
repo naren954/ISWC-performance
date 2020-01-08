@@ -1,0 +1,17 @@
+F1: 0.78571,Precision: 0.78571,Recall: 0.78571,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,Siege of Smolensk,http://dbpedia.org/resource/Siege_of_Smolensk_(1609–1611),http://dbpedia.org/resource/Siege_of_Smolensk_(1514)
+0,4,Siege of Sluis,http://dbpedia.org/resource/Siege_of_Sluis_(1587),http://dbpedia.org/resource/Siege_of_Sluis_(1604)
+0,8,Siege of Shkodra,http://dbpedia.org/resource/Siege_of_Shkodra,http://dbpedia.org/resource/Siege_of_Shkodra_(1474)
+0,13,Siege of Sevastopol,http://dbpedia.org/resource/Siege_of_Sevastopol_(1854–1855),http://dbpedia.org/resource/Siege_of_Sevastopol_(1941-1942) http://dbpedia.org/resource/Battle_of_Sevastapol http://dbpedia.org/resource/Battle_of_Sevastopol http://dbpedia.org/resource/Siege_of_Sevastopol_(1942) http://dbpedia.org/resource/Operation_Storfang http://dbpedia.org/resource/Siege_of_Sevastopol_(1941–42) http://dbpedia.org/resource/Siege_of_Sevastopol_(1941-42) http://dbpedia.org/resource/Siege_of_Sevastopol_(1941–1942) http://dbpedia.org/resource/The_second_siege_of_Sevastopol
+0,21,Siege of Sardis,http://dbpedia.org/resource/Ionian_Revolt,http://dbpedia.org/resource/Siege_of_Sardis_(547_BC) http://dbpedia.org/resource/Battle_of_Sardis http://dbpedia.org/resource/Siege_of_Sardis_(546_BC)
+0,27,Siege of Santo Domingo,http://dbpedia.org/resource/Siege_of_Santo_Domingo_(1655),http://dbpedia.org/resource/Siege_of_Santo_Domingo_(1805)
+0,47,Siege of Ruthven Barracks,http://dbpedia.org/resource/Siege_of_Ruthven_Barracks_(1746),http://dbpedia.org/resource/Siege_of_Ruthven_Barracks_(1745)
+0,50,Siege of Roses,http://dbpedia.org/resource/Siege_of_Roses_(1808),http://dbpedia.org/resource/Siege_of_Roses_(1794-95) http://dbpedia.org/resource/Siege_of_Roses_(1794–95) http://dbpedia.org/resource/Siege_of_Roses_(1794-1795) http://dbpedia.org/resource/Siege_of_Roses_(1794–1795)
+0,51,Siege of Rome,http://dbpedia.org/resource/Sack_of_Rome_(410),http://dbpedia.org/resource/Siege_of_Rome_(537–38) http://dbpedia.org/resource/Siege_of_Rome_(537–538) http://dbpedia.org/resource/Siege_of_Rome_(537-538) http://dbpedia.org/resource/Siege_of_Rome_(537-38)
+0,52,Siege of Riga,http://dbpedia.org/resource/Siege_of_Riga_(1656),http://dbpedia.org/resource/Siege_of_Riga_(1700)
+0,54,Siege of Rhodes,http://dbpedia.org/resource/Siege_of_Rhodes_(1522),http://dbpedia.org/resource/Siege_of_Rhodes_(305–304_BC) http://dbpedia.org/resource/Siege_of_Rhodes_(305-304_BC) http://dbpedia.org/resource/Siege_of_Rhodes_(305_BC)
+0,56,Siege of Rhodes,http://dbpedia.org/resource/Siege_of_Rhodes_(1522),http://dbpedia.org/resource/Siege_of_Rhodes_(1480)
+0,62,Siege of Ragusa,http://dbpedia.org/resource/Siege_of_Ragusa,http://dbpedia.org/resource/Siege_of_Ragusa_(866-868) http://dbpedia.org/resource/Siege_of_Ragusa_(866–868)
+0,65,Siege of Pyongyang,http://dbpedia.org/resource/Siege_of_Pyongyang_(1592),http://dbpedia.org/resource/Siege_of_Pyeongyang_(1593) http://dbpedia.org/resource/Siege_of_Pyongyang_(1593)
+0,68,Siege of Puebla,http://dbpedia.org/resource/Siege_of_Puebla_(1847),http://dbpedia.org/resource/Siege_of_Puebla_(1863)

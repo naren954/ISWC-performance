@@ -1,0 +1,4 @@
+"F1: 0.92000","Precision: 0.92000","Recall: 0.92000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"3","4","John Bowe","http://dbpedia.org/resource/Dick_Johnson_(racing_driver)","http://dbpedia.org/resource/John_Bowe_(racing_driver) http://dbpedia.org/resource/John_Bowe_(motor_racing) http://dbpedia.org/resource/John_Bowe_(race_driver) http://dbpedia.org/resource/John_Bowe_(auto_racing)"
+"3","24","Anthony Tratt","http://dbpedia.org/resource/Anthony_Sinisuka_Ginting","http://dbpedia.org/resource/Anthony_Tratt"

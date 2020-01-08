@@ -1,0 +1,11 @@
+F1: 0.84746,Precision: 0.84746,Recall: 0.84746,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,7,S. Carter,http://dbpedia.org/resource/Jimmy_Carter,http://dbpedia.org/resource/Steve_Carter_(playwright)
+1,12,C. Churchill,http://dbpedia.org/resource/Clementine_Churchill,"http://dbpedia.org/resource/Caryl_Churchill http://dbpedia.org/resource/Churchill,_Caryl http://dbpedia.org/resource/Carol_Churchill"
+1,14,T. Johnson,http://dbpedia.org/resource/Joyce_Johnson,http://dbpedia.org/resource/Terry_Johnson_(dramatist)
+1,26,K. G. Ross,http://dbpedia.org/resource/Edmund_G._Ross,http://dbpedia.org/resource/Kenneth_G._Ross
+1,33,P. White,http://dbpedia.org/resource/Pearl_White,http://dbpedia.org/resource/Patrick_Victor_Martindale_White http://dbpedia.org/resource/Patrick_White
+1,35,M. Sherman,http://dbpedia.org/resource/Max_Sherman,http://dbpedia.org/resource/Martin_Sherman
+1,42,T. Letts,http://dbpedia.org/resource/Billie_Letts,http://dbpedia.org/resource/Tracy_Lett http://dbpedia.org/resource/Tracy_Letts
+1,44,A. Thomas,http://dbpedia.org/resource/Thomas_Mann,http://dbpedia.org/resource/Alabama_(play) http://dbpedia.org/resource/Augustus_Thomas http://dbpedia.org/resource/Augustus_E._Thomas
+1,53,R. O'Donnell,http://dbpedia.org/resource/Kenneth_O'Donnell,http://dbpedia.org/resource/Richard_O'Donnell_(playwright)

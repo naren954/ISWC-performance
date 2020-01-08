@@ -1,0 +1,6 @@
+F1: 0.87097,Precision: 0.87097,Recall: 0.87097,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,7,Hall Memorial Library,http://dbpedia.org/resource/Rushmore_Memorial_Library,http://dbpedia.org/resource/Hall_Memorial_Library
+0,17,Carnegie Library,"http://dbpedia.org/resource/Carnegie_Library_(Anaheim,_California)","http://dbpedia.org/resource/Carnegie_Library_(Muncie,_Indiana)"
+0,18,Carnegie Free Public Library,http://dbpedia.org/resource/Ballard_Carnegie_Library,"http://dbpedia.org/resource/Carnegie_Free_Public_Library_(Sioux_Falls,_South_Dakota)"
+0,21,Carnegie Free Library,"http://dbpedia.org/resource/Carnegie_Free_Library_(Connellsville,_Pennsylvania)","http://dbpedia.org/resource/Carnegie_Free_Library_(McKeesport,_Pennsylvania)"

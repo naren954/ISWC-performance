@@ -1,0 +1,9 @@
+F1: 0.61111,Precision: 0.61111,Recall: 0.61111,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Á. Miguel,http://fr.dbpedia.org/resource/Brice_Miguel,http://dbpedia.org/resource/Angel_Miguel http://dbpedia.org/resource/Ángel_Miguel
+0,2,Y. Hayashi,http://fr.dbpedia.org/resource/Yoko_Hayashi,http://dbpedia.org/resource/Yoshihiro_Hayashi http://dbpedia.org/resource/Yoshiro_Hayashi
+0,5,W. Hunter,http://dbpedia.org/resource/Willard_Hunter,http://dbpedia.org/resource/Willie_Hunter_(golfer)
+0,9,W. Reid,http://dbpedia.org/resource/William_Reid_(basketball),http://dbpedia.org/resource/Wilfrid_e._reid http://dbpedia.org/resource/Wilfrid_Reid http://dbpedia.org/resource/Wilfrid_E._Reid http://dbpedia.org/resource/Wilfred_Reid
+0,11,W. Ellis,http://dbpedia.org/resource/Walt_Ellis,http://dbpedia.org/resource/Wes_Ellis
+0,12,W. Gunn,http://dbpedia.org/resource/Adam_Gunn,http://dbpedia.org/resource/Watts_Gunn
+0,18,W. Ulrich,http://dbpedia.org/resource/Walter_Ullrich,http://dbpedia.org/resource/Wally_Ulrich http://dbpedia.org/resource/Wallace_Ulrich

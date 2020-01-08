@@ -1,0 +1,24 @@
+F1: 0.70270,Precision: 0.70270,Recall: 0.70270,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Woodlawn,"http://dbpedia.org/resource/Woodlawn_(Miller's_Tavern,_Virginia)","http://dbpedia.org/resource/Woodlawn_(Austin,_Texas) http://dbpedia.org/resource/Pease_Mansion"
+0,3,Woodlands,http://dbpedia.org/resource/The_Woodlands_(Philadelphia),"http://dbpedia.org/resource/Woodlands_(Perryville,_Maryland)"
+0,4,Woodlands,http://dbpedia.org/resource/The_Woodlands_(Philadelphia),"http://dbpedia.org/resource/Woodlands_(Gosport,_Alabama)"
+0,5,Woodlands,http://dbpedia.org/resource/The_Woodlands_(Philadelphia),"http://dbpedia.org/resource/Woodlands_(Columbia,_South_Carolina)"
+0,6,Woodlands,http://dbpedia.org/resource/The_Woodlands_(Philadelphia),"http://dbpedia.org/resource/Woodlands_(Charlottesville,_Virginia)"
+0,7,Woodlands,http://dbpedia.org/resource/The_Woodlands_(Philadelphia),"http://dbpedia.org/resource/Woodlands,_South_Carolina http://dbpedia.org/resource/Woodlands_(Bamberg,_South_Carolina)"
+0,12,Woodland Plantation,"http://dbpedia.org/resource/Woodland_Plantation_(Church_Hill,_Mississippi)","http://dbpedia.org/resource/Woodland_Plantation_(West_Pointe_à_la_Hache,_Louisiana) http://dbpedia.org/resource/Woodland_Plantation_(West_Pointe_a_la_Hache,_Louisiana)"
+0,13,Woodland Plantation,"http://dbpedia.org/resource/Woodland_Plantation_(Church_Hill,_Mississippi)","http://dbpedia.org/resource/Woodland_Plantation_(Carlisle,_South_Carolina)"
+0,18,Woodland Farm-Leland House,http://dbpedia.org/resource/Woodland_Farm–Leland_House,http://dbpedia.org/resource/Woodland_Farm-Leland_House
+0,21,Woodland Cemetery,http://dbpedia.org/resource/Woodland_Cemetery_and_Arboretum,"http://dbpedia.org/resource/Woodland_Cemetery_(Quincy,_Illinois)"
+0,23,Woodland,http://dbpedia.org/resource/The_Woodlands_(Philadelphia),"http://dbpedia.org/resource/Woodland_(St._Thomas_Township,_Franklin_County,_Pennsylvania)"
+0,24,Woodland,http://dbpedia.org/resource/The_Woodlands_(Philadelphia),"http://dbpedia.org/resource/Woodland_(Huntsville,_Texas)"
+0,34,Woodcrest,"http://dbpedia.org/resource/Woodcrest_(Nissequogue,_New_York)","http://dbpedia.org/resource/Woodcrest_(Radnor_Township,_Delaware_County,_Pennsylvania)"
+0,42,Woodbury,http://dbpedia.org/resource/Woodbury_Ski_Area,"http://dbpedia.org/resource/Woodbury_(West_Virginia) http://dbpedia.org/resource/Woodbury_(Leetown,_West_Virginia)"
+0,45,Woodburn,http://dbpedia.org/resource/Delaware_Governor's_Mansion,"http://dbpedia.org/resource/Woodburn_(Pendleton,_South_Carolina)"
+0,46,Woodburn,http://dbpedia.org/resource/Delaware_Governor's_Mansion,"http://dbpedia.org/resource/Woodburn_(Leesburg,_Virginia)"
+0,47,Woodburn,http://dbpedia.org/resource/Delaware_Governor's_Mansion,"http://dbpedia.org/resource/Woodburn_(Charlottesville,_Virginia)"
+0,48,Woodburn,http://dbpedia.org/resource/Delaware_Governor's_Mansion,"http://dbpedia.org/resource/Woodburn_(Charles_City,_Virginia)"
+0,52,Woodbourne,"http://dbpedia.org/resource/Woodbourne_(Madison,_Virginia)","http://dbpedia.org/resource/Woodbourne_(Roxobel,_North_Carolina)"
+0,54,Woodbourne,"http://dbpedia.org/resource/Woodbourne_(Madison,_Virginia)","http://dbpedia.org/resource/Woodbourne_(Forest,_Virginia)"
+0,60,Woodbine-Palmetto-Gates Historic District,http://dbpedia.org/resource/Woodbine–Palmetto–Gates_Historic_District,http://dbpedia.org/resource/Woodbine-Palmetto-Gates_Historic_District
+0,72,Wood House,http://dbpedia.org/resource/Arad_Wood_House,"http://dbpedia.org/resource/Wood_House_(Dublin,_New_Hampshire)"

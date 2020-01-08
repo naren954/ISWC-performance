@@ -1,0 +1,6 @@
+F1: 0.90244,Precision: 0.90244,Recall: 0.90244,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,5,Bocock-Isbell House,http://dbpedia.org/resource/Isbell_House,http://dbpedia.org/resource/Bocock-Isbell_House
+0,16,Basilica of the Sacred Heart of Jesus,http://dbpedia.org/resource/Basilica_of_the_Sacred_Heart_of_Jesus,"http://dbpedia.org/resource/Church_of_the_Sacred_Heart_of_Jesus_(Atlanta,_Georgia) http://dbpedia.org/resource/Basilica_of_the_Sacred_Heart_of_Jesus_(Atlanta)"
+0,29,Astronomical Observatory,http://dbpedia.org/resource/Georgetown_University_Astronomical_Observatory,http://dbpedia.org/resource/Astronomical_Observatory_(University_of_Illinois_at_Urbana-Champaign) http://dbpedia.org/resource/University_of_Illinois_Astronomical_Observatory http://dbpedia.org/resource/University_of_Illinois_Observatory
+0,32,Armstrong Manual Training School,http://dbpedia.org/resource/Shaw_Junior_High_School,http://dbpedia.org/resource/Armstrong_Manual_Training_School

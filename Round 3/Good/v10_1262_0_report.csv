@@ -1,0 +1,9 @@
+F1: 0.82051,Precision: 0.82051,Recall: 0.82051,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,Midlands Co-operative Society,http://dbpedia.org/resource/Co-operatives_UK,http://dbpedia.org/resource/Midlands_Co-op http://dbpedia.org/resource/Midlands_Cooperative_Society http://dbpedia.org/resource/Midlands_Co-operative http://dbpedia.org/resource/Midlands_Co-operative_Society
+0,3,Midea,http://dbpedia.org/resource/Midea_Group,http://dbpedia.org/resource/Midea_(company) http://dbpedia.org/resource/Midea_Electric_Appliances
+0,13,"Mexican Restaurants, Inc.",http://dbpedia.org/resource/Darden_Restaurants,"http://dbpedia.org/resource/Mexican_Restaurants,_Inc."
+0,30,Memex Technology Limited,http://dbpedia.org/resource/Wipro,http://dbpedia.org/resource/Memex_Technology_Limited
+0,32,Meituan.com,http://dbpedia.org/resource/Meituan-Dianping,http://dbpedia.org/resource/Meituan.com http://dbpedia.org/resource/Meituan
+0,36,Mediterranean Shipping Company,http://dbpedia.org/resource/Far_East_Shipping_Company,"http://dbpedia.org/resource/Mediterranean_Shipping_Co. http://dbpedia.org/resource/Mediterranean_Shipping_Company_S._A. http://dbpedia.org/resource/MSC_Mediterranean_Shipping_Company,_S.A. http://dbpedia.org/resource/Mediterranean_Shipping_Company_SA http://dbpedia.org/resource/Medite_Shipping http://dbpedia.org/resource/Mediterranean_Shipping_Company http://dbpedia.org/resource/Mediterranean_Shipping_Company_S.A. http://dbpedia.org/resource/Mediterranean_Shipping_Company_S_A http://dbpedia.org/resource/MSC_Mediterranean_Shipping_Company"
+0,38,Medidata Solutions,http://dbpedia.org/resource/Motorola_Solutions,http://dbpedia.org/resource/Medidata_Solutions

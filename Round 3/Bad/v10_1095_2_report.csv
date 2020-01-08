@@ -1,0 +1,15 @@
+F1: 0.31579,Precision: 0.31579,Recall: 0.31579,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,1,K. Igarashi,http://dbpedia.org/resource/Kei_Igarashi,http://dbpedia.org/resource/Koji_Igarashi
+2,2,K. Igarashi,http://dbpedia.org/resource/Kei_Igarashi,http://dbpedia.org/resource/Koji_Igarashi
+2,3,M. Guggenheim,http://dbpedia.org/resource/Peggy_Guggenheim,http://dbpedia.org/resource/Marc_Guggenheim
+2,9,D. Houser,http://dbpedia.org/resource/Franklin_D._Roosevelt,http://dbpedia.org/resource/Dan_Houser
+2,10,T. Schafer,http://dbpedia.org/resource/Ed_Schafer,http://dbpedia.org/resource/Timothy_John_Schafer http://dbpedia.org/resource/Tim_Schafer
+2,11,C. Cecil,http://dbpedia.org/resource/Cecil_B._DeMille,http://dbpedia.org/resource/Charles_Cecil
+2,12,T. Schafer,http://dbpedia.org/resource/Ed_Schafer,http://dbpedia.org/resource/Timothy_John_Schafer http://dbpedia.org/resource/Tim_Schafer
+2,13,T. Schafer,http://dbpedia.org/resource/Ed_Schafer,http://dbpedia.org/resource/Timothy_John_Schafer http://dbpedia.org/resource/Tim_Schafer
+2,15,H. Sakaguchi,http://dbpedia.org/resource/Alicja_Sakaguchi,http://dbpedia.org/resource/Sakaguchi_Hironobu http://dbpedia.org/resource/Hironobu_Sakaguti http://dbpedia.org/resource/Hironobu_Sakaguchi http://dbpedia.org/resource/Sakaguti_Hironobu
+2,16,M. Toriyama,http://dbpedia.org/resource/Akira_Toriyama,http://dbpedia.org/resource/Motomu_Toriyama
+2,17,B. Robbins,http://dbpedia.org/resource/Jerome_Robbins,http://dbpedia.org/resource/Bret_Robbins
+2,18,K. Nojima,http://dbpedia.org/resource/Kenji_Nojima,http://dbpedia.org/resource/Kazushige_Nojima-san http://dbpedia.org/resource/Kazushige_Nojima http://dbpedia.org/resource/Nojima_Kazushige
+2,19,K. Levine,http://dbpedia.org/resource/Ken_Levine_(screenwriter),http://dbpedia.org/resource/Ken_Levine_(video_game_designer) http://dbpedia.org/resource/Ken_Levine_(game_developer)

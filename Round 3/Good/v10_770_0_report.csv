@@ -1,0 +1,31 @@
+F1: 0.81529,Precision: 0.81529,Recall: 0.81529,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,5,Rutger-Steuben Park Historic District,http://dbpedia.org/resource/Rutger–Steuben_Park_Historic_District,http://dbpedia.org/resource/Rutger-Steuben_Park_Historic_District
+0,11,Rotch-Jones-Duff House and Garden Museum,http://dbpedia.org/resource/Rotch–Jones–Duff_House_and_Garden_Museum,"http://dbpedia.org/resource/Rotch-Jones-Duff_House_and_Garden_Museum http://dbpedia.org/resource/William_Rotch,_Jr._House"
+0,19,Rollinsford Town Hall,http://dbpedia.org/resource/Birmingham_Town_Hall,http://dbpedia.org/resource/Rollinsford_Town_Hall
+0,22,Rockville Railroad Station,http://dbpedia.org/resource/Rockville_station,http://dbpedia.org/resource/Rockville_Railroad_Station
+0,23,Rockingham Historic District,http://dbpedia.org/resource/Rockingham_Village_Historic_District,http://dbpedia.org/resource/Rockingham_Historic_District
+0,34,Riverview Terrace Historic District,http://dbpedia.org/resource/Jumel_Terrace_Historic_District,http://dbpedia.org/resource/Riverview_Terrace_Historic_District
+0,35,Riverview Historic District,"http://dbpedia.org/resource/Riverview_Historic_District_(Selma,_Alabama)","http://dbpedia.org/resource/Riverview_Historic_District_(Kankakee,_Illinois)"
+0,53,Reno Main Post Office,http://dbpedia.org/resource/Federal_Building_and_Post_Office_(Brooklyn),http://dbpedia.org/resource/Reno_Main_Post_Office http://dbpedia.org/resource/US_Post_Office-Reno_Main http://dbpedia.org/resource/U.S._Post_Office-Reno_Main
+0,54,Renaissance Building,http://dbpedia.org/resource/Renaissance_Center,"http://dbpedia.org/resource/Masonic_Temple_(Richmond,_Virginia) http://dbpedia.org/resource/Renaissance_Building_(Richmond,_Virginia)"
+0,55,Reid House,"http://dbpedia.org/resource/Reid_House_(Little_Rock,_Arkansas)","http://dbpedia.org/resource/Garrison_Apartments http://dbpedia.org/resource/Reid_House_(Atlanta,_Georgia)"
+0,66,Randolph County Courthouse,http://dbpedia.org/resource/Randolph_County_Courthouse_and_Jail,"http://dbpedia.org/resource/Randolph_County_Courthouse_(Asheboro,_North_Carolina)"
+0,77,Pythian Opera House,"http://dbpedia.org/resource/Grand_Opera_House,_Belfast",http://dbpedia.org/resource/Pythian_Opera_House
+0,80,Pulaski County Courthouse,http://dbpedia.org/resource/Pulaski_County_Courthouse_(Indiana),"http://dbpedia.org/resource/Pulaski_County_Courthouse_(Pulaski,_Virginia) http://dbpedia.org/resource/Pulaski_County_Courthouse_(Virginia)"
+0,81,Public Square Historic District,"http://dbpedia.org/resource/Public_Square_(Watertown,_New_York)","http://dbpedia.org/resource/Public_Square_Historic_District_(Sigourney,_Iowa)"
+0,97,Portland City Hall,http://dbpedia.org/resource/Portland_City_Hall_(Oregon),"http://dbpedia.org/resource/City_Hall_(Portland,_Maine) http://dbpedia.org/resource/Portland,_ME_City_Hall http://dbpedia.org/resource/Portland_City_Hall_(Maine) http://dbpedia.org/resource/City_Hall_(Portland,_ME) http://dbpedia.org/resource/Portland,_Maine_City_Hall"
+0,99,Porter-Vallejo Mansion,http://dbpedia.org/resource/Porter–Vallejo_Mansion,http://dbpedia.org/resource/Porter-Vallejo_Mansion
+0,105,Plymouth Historic District,"http://dbpedia.org/resource/Plymouth_Historic_District_(Plymouth,_Vermont)","http://dbpedia.org/resource/Plymouth_Historic_District_(Plymouth,_New_Hampshire)"
+0,106,Plymouth Congregational Church,"http://dbpedia.org/resource/Plymouth_Congregational_Church_(Lawrence,_Kansas)","http://dbpedia.org/resource/Plymouth_Congregational_Church_(New_Haven,_Connecticut)"
+0,120,Pinal County Courthouse,http://dbpedia.org/resource/Second_Pinal_County_Courthouse,http://dbpedia.org/resource/Pinal_County_Courthouse
+0,122,Pilgrim Congregational Church,"http://dbpedia.org/resource/Pilgrim_Congregational_Church_(Taunton,_Massachusetts)","http://dbpedia.org/resource/Pilgrim_Congregational_Church_(Cleveland,_Ohio)"
+0,128,Philipsburg Historic District,"http://dbpedia.org/resource/Philipsburg_Historic_District_(Philipsburg,_Pennsylvania)","http://dbpedia.org/resource/Philipsburg_Historic_District_(Philipsburg,_Montana)"
+0,131,Peters House,http://dbpedia.org/resource/A._V._Peters_House,"http://dbpedia.org/resource/George_W._Peters_House http://dbpedia.org/resource/Peters_House_(Knoxville,_Tennessee)"
+0,133,Perry County Courthouse,http://dbpedia.org/resource/Perry_County_Courthouse_(Ohio),"http://dbpedia.org/resource/Perry_County_Courthouse_(Tennessee) http://dbpedia.org/resource/Perry_County_Courthouse_(Linden,_Tennessee)"
+0,134,Perry-Payne Building,http://dbpedia.org/resource/Perry_Carnegie_Library_Building,http://dbpedia.org/resource/Perry-Payne_Building
+0,141,Paul F. Murphy House,http://dbpedia.org/resource/Paul_C._Murphy_House,http://dbpedia.org/resource/Paul_F._Murphy_House
+0,143,"Parkridge, Knoxville, Tennessee","http://dbpedia.org/resource/Knoxville,_Tennessee","http://dbpedia.org/resource/Parkridge_(Knoxville,_Tennessee) http://dbpedia.org/resource/Parkridge,_Knoxville,_Tennessee http://dbpedia.org/resource/Park_City_Historic_District_(Knoxville,_Tennessee)"
+0,148,Palace of Fine Arts,http://dbpedia.org/resource/Palacio_de_Bellas_Artes,http://dbpedia.org/resource/The_Palace_of_Fine_Arts_is_in_Need_of_Plants http://dbpedia.org/resource/The_Palace_of_Fine_Arts http://dbpedia.org/resource/Palace_of_fine_arts http://dbpedia.org/resource/Palace_Of_Fine_Arts http://dbpedia.org/resource/Palace_of_Fine_Arts
+0,149,Palace Theatre,"http://dbpedia.org/resource/Palace_Theatre_(Albany,_New_York)","http://dbpedia.org/resource/Palace_Theatre_(Cincinnati,_Ohio) http://dbpedia.org/resource/Palace_Theater_(Cincinnati,_Ohio)"
+0,150,Palace Theatre,"http://dbpedia.org/resource/Palace_Theatre_(Albany,_New_York)","http://dbpedia.org/resource/Palace_Theatre_(Canton,_Ohio) http://dbpedia.org/resource/Palace_Theater_(Canton,_Ohio)"

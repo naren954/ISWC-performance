@@ -1,0 +1,6 @@
+"F1: 0.00000","Precision: 0.00000","Recall: 0.00000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","1","Czech Republic","http://dbpedia.org/resource/Czech_Republic","http://dbpedia.org/resource/Czech_Republic_national_under-20_football_team http://dbpedia.org/resource/Czech_Republic_national_under-19_football_team"
+"0","2","Iceland","http://dbpedia.org/resource/Iceland","http://dbpedia.org/resource/Iceland_national_under-19_football_team"
+"0","3","Ukraine","http://dbpedia.org/resource/Ukraine","http://dbpedia.org/resource/Ukraine_national_under-19_football_team http://dbpedia.org/resource/Ukraine_national_under-20_football_team"
+"0","4","Andorra","http://dbpedia.org/resource/Andorra","http://dbpedia.org/resource/Andorra_national_under-19_football_team"

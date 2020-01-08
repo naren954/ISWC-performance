@@ -1,0 +1,5 @@
+F1: 0.93023,Precision: 0.93023,Recall: 0.93023,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,19,Miss France,http://dbpedia.org/resource/Miss_Van,http://dbpedia.org/resource/Miss_France_(horse)
+0,40,Carnegie,"http://dbpedia.org/resource/James_Carnegie,_3rd_Duke_of_Fife",http://dbpedia.org/resource/Carnegie_(horse)
+0,42,Australia,http://dbpedia.org/resource/Australia_national_under-17_soccer_team,http://dbpedia.org/resource/Australia_(horse)

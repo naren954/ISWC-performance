@@ -1,0 +1,7 @@
+F1: 0.83333,Precision: 0.83333,Recall: 0.83333,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,6,TicÃ£oFP,,http://dbpedia.org/resource/Ticão
+3,9,SaÅ¡a KajkutFP,http://dbpedia.org/resource/Savage_10FP,http://dbpedia.org/resource/Saša_Kajkut
+3,11,Vincent WeijlFP,http://dbpedia.org/resource/Vincent_Masingue,http://dbpedia.org/resource/Vincent_Weijl
+3,19,Jack SealyLP,http://dbpedia.org/resource/Jack_Dunn_(figure_skater),http://dbpedia.org/resource/Jack_Sealy
+3,23,Andrew BarisiÄ\u0087FP,,http://dbpedia.org/resource/Andrew_Barisić

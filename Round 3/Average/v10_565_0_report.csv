@@ -1,0 +1,5 @@
+F1: 0.70000,Precision: 0.70000,Recall: 0.70000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,C. Michel,http://dbpedia.org/resource/Claude-Étienne_Michel,http://dbpedia.org/resource/Curtis_Michel http://dbpedia.org/resource/F._Curtis_Michel http://dbpedia.org/resource/Curt_Michel
+0,2,C. Williams,http://dbpedia.org/resource/C._K._Williams,"http://dbpedia.org/resource/Clifton_C._Williams http://dbpedia.org/resource/Clifton_Williams http://dbpedia.org/resource/Clifton_C._Williams_Jr. http://dbpedia.org/resource/Clifton_C._Williams,_Jr. http://dbpedia.org/resource/Clifton_Curtis_Williams"
+0,8,A. S. White,http://dbpedia.org/resource/Steven_A._White,http://dbpedia.org/resource/Alvin_S._White http://dbpedia.org/resource/Alvin_White

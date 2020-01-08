@@ -1,0 +1,7 @@
+F1: 0.93506,Precision: 0.93506,Recall: 0.93506,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,6,Parathelphusidae,http://dbpedia.org/resource/Parathelphusinae,http://dbpedia.org/resource/Parathelphusidae
+1,35,Potamidae,http://dbpedia.org/resource/Potamoidea,http://dbpedia.org/resource/Potamiscinae http://dbpedia.org/resource/Potamidae http://dbpedia.org/resource/Potaminae http://dbpedia.org/resource/Potamonidae
+1,36,Potamidae,http://dbpedia.org/resource/Potamoidea,http://dbpedia.org/resource/Potamiscinae http://dbpedia.org/resource/Potamidae http://dbpedia.org/resource/Potaminae http://dbpedia.org/resource/Potamonidae
+1,43,Ingolfiellidae,http://dbpedia.org/resource/Ingolfiella,http://dbpedia.org/resource/Ingolfiellidae
+1,56,Potamidae,http://dbpedia.org/resource/Potamoidea,http://dbpedia.org/resource/Potamiscinae http://dbpedia.org/resource/Potamidae http://dbpedia.org/resource/Potaminae http://dbpedia.org/resource/Potamonidae

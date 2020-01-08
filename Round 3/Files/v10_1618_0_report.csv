@@ -1,0 +1,7 @@
+"F1: 0.61538","Precision: 0.61538","Recall: 0.61538"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","1","S. Francisco","http://dbpedia.org/resource/Frank_Francisco","http://dbpedia.org/resource/Silvino_Francisco"
+"0","2","N. Robertson","http://dbpedia.org/resource/Neil_Robertson","http://dbpedia.org/resource/Neil_Robertson_(snooker) http://dbpedia.org/resource/Aussie_Ace http://dbpedia.org/resource/The_Melbourne_Machine http://dbpedia.org/resource/Neil_Robertson_(snooker_player)"
+"0","3","M. Allen","http://dbpedia.org/resource/Malcolm_Allen_(swimmer)","http://dbpedia.org/resource/Mark_Allen_(snooker_player)"
+"0","11","C. Thorburn","http://dbpedia.org/resource/Christine_Thorburn","http://dbpedia.org/resource/Champagne_Cliff http://dbpedia.org/resource/Cliff_Thorburn http://dbpedia.org/resource/Rhett_Butler_of_the_green_baize"
+"0","13","A. Higgins","http://dbpedia.org/resource/Andrew_Higgins_(rugby_union)","http://dbpedia.org/resource/Hurricane_Higgins http://dbpedia.org/resource/Alex_“Hurricane”_Higgins http://dbpedia.org/resource/Alex_'Hurricane'_Higgins http://dbpedia.org/resource/Alex_Higgins http://dbpedia.org/resource/Alex_""Hurricane""_Higgins http://dbpedia.org/resource/Alexander_Gordon_Higgins"

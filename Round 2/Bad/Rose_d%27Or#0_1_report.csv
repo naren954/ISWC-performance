@@ -1,0 +1,8 @@
+F1: 0.40000,Precision: 0.40000,Recall: 0.40000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,2,Creature Comforts,http://dbpedia.org/resource/The_Creatures,http://dbpedia.org/resource/Creature_Comforts http://dbpedia.org/resource/Creature_Comforts_America http://dbpedia.org/resource/Creature_comforts
+1,5,Wife Swap,http://dbpedia.org/resource/Wife_Swap_(American_TV_series),http://dbpedia.org/resource/Wife_Swap_(UK_TV_series)
+1,8,Ant and Dec's Saturday Night Takeaway,http://dbpedia.org/resource/Ant_&_Dec,http://dbpedia.org/resource/Ant_and_Dec's_Saturday_Night_Takeaway
+1,9,Little Britain,http://dbpedia.org/resource/Little_Tony_(singer),http://dbpedia.org/resource/Yeah_I_know http://dbpedia.org/resource/Little_britian http://dbpedia.org/resource/Little_Britain_(tv_show) http://dbpedia.org/resource/Little_Britain http://dbpedia.org/resource/Cupboardy http://dbpedia.org/resource/Little_britain http://dbpedia.org/resource/No_but_yeah_but_no
+1,11,Fur TV,http://dbpedia.org/resource/Westdeutscher_Rundfunk,http://dbpedia.org/resource/Furtv http://dbpedia.org/resource/Fur_TV
+1,21,Anthony McPartlin and Declan Donnelly in Ant and Dec's Saturday Night Takeaway,http://dbpedia.org/resource/Ant_&_Dec,"http://dbpedia.org/resource/Anthony_David_McPartlin http://dbpedia.org/resource/Anthony_David_""Ant""_McPartlin http://dbpedia.org/resource/Anthony_McPartlin http://dbpedia.org/resource/Ant_McPartlin"

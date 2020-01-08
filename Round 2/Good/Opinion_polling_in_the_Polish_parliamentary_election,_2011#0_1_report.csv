@@ -1,0 +1,10 @@
+F1: 0.92982,Precision: 0.92982,Recall: 0.92982,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,52,Rzeczpospolita,http://dbpedia.org/resource/Rzeczpospolita_(newspaper),http://dbpedia.org/resource/Rzechzpospolita http://dbpedia.org/resource/Rzecz_Pospolita http://dbpedia.org/resource/Polish_republic http://dbpedia.org/resource/Rzeczpospolita http://dbpedia.org/resource/I_Rzeczpospolita
+1,60,Rzeczpospolita,http://dbpedia.org/resource/Rzeczpospolita_(newspaper),http://dbpedia.org/resource/Rzechzpospolita http://dbpedia.org/resource/Rzecz_Pospolita http://dbpedia.org/resource/Polish_republic http://dbpedia.org/resource/Rzeczpospolita http://dbpedia.org/resource/I_Rzeczpospolita
+1,63,Rzeczpospolita,http://dbpedia.org/resource/Rzeczpospolita_(newspaper),http://dbpedia.org/resource/Rzechzpospolita http://dbpedia.org/resource/Rzecz_Pospolita http://dbpedia.org/resource/Polish_republic http://dbpedia.org/resource/Rzeczpospolita http://dbpedia.org/resource/I_Rzeczpospolita
+1,66,Rzeczpospolita,http://dbpedia.org/resource/Rzeczpospolita_(newspaper),http://dbpedia.org/resource/Rzechzpospolita http://dbpedia.org/resource/Rzecz_Pospolita http://dbpedia.org/resource/Polish_republic http://dbpedia.org/resource/Rzeczpospolita http://dbpedia.org/resource/I_Rzeczpospolita
+1,68,Rzeczpospolita,http://dbpedia.org/resource/Rzeczpospolita_(newspaper),http://dbpedia.org/resource/Rzechzpospolita http://dbpedia.org/resource/Rzecz_Pospolita http://dbpedia.org/resource/Polish_republic http://dbpedia.org/resource/Rzeczpospolita http://dbpedia.org/resource/I_Rzeczpospolita
+1,72,Super Express,http://dbpedia.org/resource/Walmart,http://dbpedia.org/resource/Super_Express http://dbpedia.org/resource/Se.pl
+1,102,Super Express,http://dbpedia.org/resource/Walmart,http://dbpedia.org/resource/Super_Express http://dbpedia.org/resource/Se.pl
+1,144,General election,http://dbpedia.org/resource/Election,"http://dbpedia.org/resource/Polish_legislative_election,_2007 http://dbpedia.org/resource/Polish_parliamentary_election,_2007"

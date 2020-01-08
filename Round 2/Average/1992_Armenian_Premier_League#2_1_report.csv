@@ -1,0 +1,6 @@
+F1: 0.66667,Precision: 0.66667,Recall: 0.66667,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,Shirak,http://dbpedia.org/resource/Shirak_SC,http://dbpedia.org/resource/Shirak_FC http://dbpedia.org/resource/FC_Shirak http://dbpedia.org/resource/Shirak_Gyumr http://dbpedia.org/resource/Shirak_F.C. http://dbpedia.org/resource/Shirak_F.C.-2 http://dbpedia.org/resource/FC_Širak_Gjumri http://dbpedia.org/resource/FC_Shirak_Leninakan http://dbpedia.org/resource/FC_Sirak_Gjumri http://dbpedia.org/resource/Shirak_Gyumri
+1,7,Syunik Kapan,http://dbpedia.org/resource/FC_Gandzasar_Kapan,http://dbpedia.org/resource/FC_Lernagorts_Kapan http://dbpedia.org/resource/Lernagorts_Kapan
+1,10,Homenmen-FIMA Yerevan,http://dbpedia.org/resource/Erebuni-Homenmen_FC,http://dbpedia.org/resource/Homenmen-FIMA_Yerevan http://dbpedia.org/resource/Erebuni_FC http://dbpedia.org/resource/Erebuni_Yerevan http://dbpedia.org/resource/Erebuni-Homenmen_Yerevan http://dbpedia.org/resource/Homenmen_Yerevan
+1,12,Kanaz Yerevan,http://dbpedia.org/resource/FC_Ararat_Yerevan,http://dbpedia.org/resource/Arabkir_Yerevan http://dbpedia.org/resource/FC_Arabkir http://dbpedia.org/resource/FC_Arabkir_Yerevan http://dbpedia.org/resource/Kanaz_Yerevan

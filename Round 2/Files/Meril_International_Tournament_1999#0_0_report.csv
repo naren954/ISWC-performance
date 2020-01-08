@@ -1,0 +1,5 @@
+"F1: 0.00000","Precision: 0.00000","Recall: 0.00000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","1","Zimbabwe","http://dbpedia.org/resource/Zimbabwe","http://dbpedia.org/resource/Zimbabwean_national_cricket_team http://dbpedia.org/resource/Zimbabwe_cricket_team http://dbpedia.org/resource/Rhodesia_national_cricket_team http://dbpedia.org/resource/Zimbabwean_cricket_team http://dbpedia.org/resource/Zimbabwe_Cricket_Team http://dbpedia.org/resource/Zimbabwe_national_cricket_team"
+"0","2","Kenya","http://dbpedia.org/resource/Kenya","http://dbpedia.org/resource/Kenya_cricket_team http://dbpedia.org/resource/Kenya_national_cricket_team http://dbpedia.org/resource/Kenyan_cricket_team"
+"0","3","Bangladesh","http://dbpedia.org/resource/Bangladesh","http://dbpedia.org/resource/Bangladeshi_Cricket_Team http://dbpedia.org/resource/Bangladesh_Cricket_Team http://dbpedia.org/resource/Bangladeshi_national_cricket_team http://dbpedia.org/resource/Bangladesh_cricket_team http://dbpedia.org/resource/Bangladesh_National_Cricket_Team http://dbpedia.org/resource/Bangladesh_national_cricket_team http://dbpedia.org/resource/Bangladeshi_cricket_team"

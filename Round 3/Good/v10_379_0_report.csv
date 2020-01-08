@@ -1,0 +1,50 @@
+F1: 0.75258,Precision: 0.75258,Recall: 0.75258,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,8,Winter Melody,,http://dbpedia.org/resource/Winter_Melody
+0,9,Winter In Wonderland EP,http://dbpedia.org/resource/Winter_in_Wonderland,http://dbpedia.org/resource/Winter_In_Wonderland_EP
+0,12,Winter,,http://dbpedia.org/resource/Winter_(U2_song)
+0,15,Winner,http://dbpedia.org/resource/Winner_(Pet_Shop_Boys_song),http://dbpedia.org/resource/Winner_(Special_Fan_-_Edition) http://dbpedia.org/resource/Winner_(Systems_in_Blue_song)
+0,17,Winner,http://dbpedia.org/resource/Winner_(Pet_Shop_Boys_song),http://dbpedia.org/resource/Winner_(Jamie_Foxx_song)
+0,21,Wings,http://dbpedia.org/resource/Wings_(Delta_Goodrem_song),"http://dbpedia.org/resource/""Wings""_(Ringo_Starr_song) http://dbpedia.org/resource/Wings_(Ringo_Starr_song)"
+0,22,Wings,http://dbpedia.org/resource/Wings_(Delta_Goodrem_song),http://dbpedia.org/resource/Wings_(Macklemore_&_Ryan_Lewis_song) http://dbpedia.org/resource/Wings_(Macklemore_song) http://dbpedia.org/resource/Wing$ http://dbpedia.org/resource/Wings_(Macklemore_and_Ryan_Lewis_song)
+0,23,Wings,http://dbpedia.org/resource/Wings_(Delta_Goodrem_song),http://dbpedia.org/resource/Little_mix_wings http://dbpedia.org/resource/Wings_(Little_Mix_song)
+0,25,Wings,http://dbpedia.org/resource/Wings_(Delta_Goodrem_song),http://dbpedia.org/resource/Wings_(Birdy_song)
+0,29,Window Shopping,http://dbpedia.org/resource/Window_Shopper,http://dbpedia.org/resource/Window_Shopping
+0,35,Wind It Up,http://dbpedia.org/resource/Wind_It_Up_(Gwen_Stefani_song),http://dbpedia.org/resource/Wind_it_up_(Rewound) http://dbpedia.org/resource/Wind_It_Up_(Rewound)
+0,48,Will You Love Me Tomorrow,http://es.dbpedia.org/resource/Will_You_Still_Love_Me_Tomorrow?,http://dbpedia.org/resource/Will_You_Still_Love_Me_Tomorrow http://dbpedia.org/resource/Will_You_Love_Me_Tomorrow? http://dbpedia.org/resource/Will_You_Still_Love_Me_Tomorrow? http://dbpedia.org/resource/Will_You_Still_Love_Me_Tomorrow_(Amy_Winehouse_song) http://dbpedia.org/resource/Will_You_Love_Me_Tomorrow http://dbpedia.org/resource/Will_you_still_love_me_tomorrow_(amy_winehouse_song)
+0,53,Wildflower,http://dbpedia.org/resource/Wildflower_(Skylark_song),http://dbpedia.org/resource/Wildflower_(The_JaneDear_Girls_song) http://dbpedia.org/resource/Wildflower_(the_JaneDear_girls_song)
+0,54,Wildflower,http://dbpedia.org/resource/Wildflower_(Skylark_song),http://dbpedia.org/resource/WIldflower_(Dean_Brody_song) http://dbpedia.org/resource/Wildflower_(Dean_Brody_song)
+0,55,Wildfire,http://dbpedia.org/resource/Wildfire_(SBTRKT_song),http://dbpedia.org/resource/Wildfire_(Michael_Martin_Murphey_song)
+0,58,Wildest Dreams,http://dbpedia.org/resource/Wildest_Dreams_(Taylor_Swift_song),http://dbpedia.org/resource/Wildest_Dreams_(Iron_Maiden_song)
+0,59,Wildest Dreams,http://dbpedia.org/resource/Wildest_Dreams_(Taylor_Swift_song),http://dbpedia.org/resource/Wildest_Dreams_(Brandy_Norwood_song) http://dbpedia.org/resource/Wildest_Dreams_(Brandy_song)
+0,63,Wild at Heart,http://dbpedia.org/resource/Wild_at_Heart_(Arashi_song),http://dbpedia.org/resource/Wild_at_Heart_(Gloriana_song)
+0,65,Wild World,http://dbpedia.org/resource/Wild_World_(song),http://dbpedia.org/resource/Baby_It's_A_Wild_World http://dbpedia.org/resource/Its_a_wild_world http://dbpedia.org/resource/Wild_World
+0,71,Wild Thing,http://dbpedia.org/resource/Wild_Thing_(The_Troggs_song),http://dbpedia.org/resource/Wild_Thing_Peaches_Remix http://dbpedia.org/resource/Wild_Thing_(Tone_Loc_song) http://dbpedia.org/resource/Wild_Thing_(Tone_Lōc_song)
+0,76,Wild One,http://dbpedia.org/resource/Wild_One_(Martha_and_the_Vandellas_song),http://dbpedia.org/resource/She's_a_Wild_One http://dbpedia.org/resource/Wild_One_(Faith_Hill_song) http://dbpedia.org/resource/Wild_One_(Evangeline_song)
+0,77,Wild One,http://dbpedia.org/resource/Wild_One_(Martha_and_the_Vandellas_song),http://dbpedia.org/resource/Wild_One_(Bobby_Rydell_song)
+0,79,Wild Man,http://dbpedia.org/resource/Wild_Man_(Ricky_Van_Shelton_song),http://dbpedia.org/resource/Wild_Man_(Kate_Bush_song)
+0,82,Wild Honey Pie,http://dbpedia.org/resource/I_Can't_Help_Myself_(Sugar_Pie_Honey_Bunch),http://dbpedia.org/resource/Wild_Honey_Pie_(The_Beatles_song) http://dbpedia.org/resource/Wild_Honey_Pie
+0,85,Wild Child,http://dbpedia.org/resource/Wild_Child_(Enya_song),http://dbpedia.org/resource/Wild_Child_(Kenny_Chesney_and_Grace_Potter_song)
+0,88,Wild,http://dbpedia.org/resource/Wild_(Jessie_J_song),http://dbpedia.org/resource/Wild_(Alessia_Cara_song) http://dbpedia.org/resource/Wild_(Troye_Sivan_and_Alessia_Cara_song) http://dbpedia.org/resource/Wild_(Troye_Sivan_song)
+0,89,"Wild, Wild West",http://dbpedia.org/resource/Wild_Wild_West_(Will_Smith_song),"http://dbpedia.org/resource/Wild,_Wild_West_(Escape_Club_song) http://dbpedia.org/resource/Wild,_Wild_West_(The_Escape_Club_song)"
+0,98,Wicked,http://dbpedia.org/resource/Wicked_(Ice_Cube_song),http://dbpedia.org/resource/Wicked_(Future_song)
+0,114,Why Lady Why,http://dbpedia.org/resource/Why_Lady_Why,http://dbpedia.org/resource/Why_Lady_Why_(Gary_Morris_song)
+0,116,Why I Am,http://dbpedia.org/resource/Why_I_Am_(song),http://dbpedia.org/resource/Why_I_Am
+0,118,Why Don't You Love Me,http://dbpedia.org/resource/Why_Don't_You_Love_Me_(Beyoncé_song),http://dbpedia.org/resource/Why_Don't_You_Love_Me_(Hank_Williams_song)
+0,127,Why Do You Love Me,http://dbpedia.org/resource/Why_Don't_You_Love_Me_(Beyoncé_song),http://dbpedia.org/resource/Space_Can_Come_Through_Anyone http://dbpedia.org/resource/Why_Do_You_Love_Me http://dbpedia.org/resource/Nobody_Can_Win http://dbpedia.org/resource/Why_Do_You_Love_Me?
+0,135,Why Can't We Be Friends?,,http://dbpedia.org/resource/Why_Can't_We_Be_Friends?_(song)
+0,139,Why Can't I Be You?,http://dbpedia.org/resource/Why_Can't_I_Have_You,http://dbpedia.org/resource/Why_Can't_I_Be_You?
+0,144,Why,http://dbpedia.org/resource/Why_(3T_song),http://dbpedia.org/resource/Why_(The_Byrds_song)
+0,145,Why,http://dbpedia.org/resource/Why_(3T_song),http://dbpedia.org/resource/Why_(Rascal_Flatts_song)
+0,146,Why,http://dbpedia.org/resource/Why_(3T_song),http://dbpedia.org/resource/Why_(Mary_J._Blige_song)
+0,147,Why,http://dbpedia.org/resource/Why_(3T_song),http://dbpedia.org/resource/Why_(Jason_Aldean_song)
+0,148,Why,http://dbpedia.org/resource/Why_(3T_song),http://dbpedia.org/resource/Why_(Frankie_Avalon_song) http://dbpedia.org/resource/Why_(Donny_Osmond_Song)
+0,149,Why,http://dbpedia.org/resource/Why_(3T_song),http://dbpedia.org/resource/Why_(Carly_Simon_song)
+0,150,Why,http://dbpedia.org/resource/Why_(3T_song),http://dbpedia.org/resource/Why_(Annie_Lennox_song) http://dbpedia.org/resource/Why_(DJ_Sammy_song)
+0,151,Why,http://dbpedia.org/resource/Why_(3T_song),http://dbpedia.org/resource/Why_(Andy_Gibb_song)
+0,155,Why?,http://dbpedia.org/resource/Why_(Gabrielle_song),http://dbpedia.org/resource/Why?_(Mis-Teeq_song)
+0,156,Why?,http://dbpedia.org/resource/Why_(Gabrielle_song),http://dbpedia.org/resource/Why?_(Bronski_Beat_song)
+0,158,Whose Bed Have Your Boots Been Under?,,http://dbpedia.org/resource/Whose_Bed_Have_Your_Boots_Been_Under?
+0,161,Wholy Holy,http://dbpedia.org/resource/Holy_Holy,http://dbpedia.org/resource/Wholy_Holy
+0,177,Who You Are,http://dbpedia.org/resource/Who_You_Are_(Pearl_Jam_song),http://dbpedia.org/resource/Who_You_Are_(Jessie_J_song)
+0,190,Who Says,http://dbpedia.org/resource/Who_Says_(Selena_Gomez_&_the_Scene_song),http://dbpedia.org/resource/Who_says http://dbpedia.org/resource/Who_Says_(John_Mayer_song) http://dbpedia.org/resource/Who_Says?

@@ -1,0 +1,4 @@
+"F1: 0.60000","Precision: 0.60000","Recall: 0.60000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","1","Patriotic Front","http://dbpedia.org/resource/Rwandan_Patriotic_Front","http://dbpedia.org/resource/Patriotic_Front_(Zambia)"
+"1","4","Alliance for Democracy and Development","http://dbpedia.org/resource/Alliance_for_Democracy_and_Development_(Cameroon)","http://dbpedia.org/resource/Alliance_for_Democracy_and_Development_(Zambia)"

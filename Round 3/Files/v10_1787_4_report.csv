@@ -1,0 +1,4 @@
+"F1: 0.66667","Precision: 0.66667","Recall: 0.66667"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"4","1","Sind River","http://dbpedia.org/resource/Sindh_River","http://dbpedia.org/resource/Nallah_Sindh http://dbpedia.org/resource/Sind_River"
+"4","6","Aliso Creek","http://dbpedia.org/resource/Aliso_Creek_(Los_Angeles_County)","http://dbpedia.org/resource/English_Canyon_Creek http://dbpedia.org/resource/Aliso_Creek_(OC) http://dbpedia.org/resource/Aliso_Hills_Channel http://dbpedia.org/resource/Munger_Creek http://dbpedia.org/resource/Dairy_Fork http://dbpedia.org/resource/Aliso_Creek_(Orange_County)"

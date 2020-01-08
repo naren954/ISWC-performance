@@ -1,0 +1,4 @@
+F1: 0.88889,Precision: 0.88889,Recall: 0.88889,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,12,Jan SzymaÅ\u0084ski,http://dbpedia.org/resource/Jan_Olaf_Roaldset,http://dbpedia.org/resource/Jan_Szymański_(speed_skater)
+1,21,Sun Longjiang,http://dbpedia.org/resource/Sun_Jun_(badminton),http://dbpedia.org/resource/Sun_Longjiang

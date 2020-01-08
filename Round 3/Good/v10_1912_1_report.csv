@@ -1,0 +1,4 @@
+F1: 0.93548,Precision: 0.93548,Recall: 0.93548,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,25,Dance Dance Dance,"http://dbpedia.org/resource/Dance,_Dance,_Dance_(song)","http://dbpedia.org/resource/Dance_Dance_Dance_(novel) http://dbpedia.org/resource/Dansu_dansu_dansu http://dbpedia.org/resource/Dansu,_dansu,_dansu"
+1,28,Great American Hypocrites,,"http://dbpedia.org/resource/Greenwald,_Glenn http://dbpedia.org/resource/Glen_Greenwald http://dbpedia.org/resource/With_Liberty_and_Justice_for_Some:_How_the_Law_Is_Used_to_Destroy_Equality_and_Protect_the_Powerful http://dbpedia.org/resource/Glen_greenwald http://dbpedia.org/resource/Gleen_greenwald http://dbpedia.org/resource/Glenn_Greenwald http://dbpedia.org/resource/David_Michael_Miranda http://dbpedia.org/resource/Great_American_Hypocrites http://dbpedia.org/resource/Glennzilla http://dbpedia.org/resource/With_Liberty_and_Justice_for_Some http://dbpedia.org/resource/Glenn_Edward_Greenwald"

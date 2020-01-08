@@ -1,0 +1,5 @@
+"F1: 0.57143","Precision: 0.57143","Recall: 0.57143"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"3","1","My Husband Got a Family, The Innocent Man","http://dbpedia.org/resource/Wansapanataym","http://dbpedia.org/resource/Unexpected_You http://dbpedia.org/resource/My_Husband_Got_a_Family"
+"3","3","Good Doctor","http://dbpedia.org/resource/The_Good_Doctor_(2011_film)","http://dbpedia.org/resource/Good_Doctor_(TV_series) http://dbpedia.org/resource/Green_Scalpel"
+"3","6","Wonderful Days, The Girl Who Became a Photo","http://dbpedia.org/resource/List_of_VeggieTales_videos","http://dbpedia.org/resource/Wonderful_Days_(TV_series) http://dbpedia.org/resource/Very_Good_Times"

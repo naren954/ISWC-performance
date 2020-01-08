@@ -1,0 +1,5 @@
+"F1: 0.96203","Precision: 0.96203","Recall: 0.96203"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"2","13","Roberto","http://dbpedia.org/resource/Roberto_Marinho","http://dbpedia.org/resource/Roberto_(horse)"
+"2","45","Nureyev","http://dbpedia.org/resource/Nureyev_(horse)","http://dbpedia.org/resource/Nuriyev http://dbpedia.org/resource/Nureyev http://dbpedia.org/resource/Nureyeva http://dbpedia.org/resource/Nuriyeva http://dbpedia.org/resource/Nurieva http://dbpedia.org/resource/Nureev http://dbpedia.org/resource/Nureeva"
+"2","60","Roberto","http://dbpedia.org/resource/Roberto_Marinho","http://dbpedia.org/resource/Roberto_(horse)"

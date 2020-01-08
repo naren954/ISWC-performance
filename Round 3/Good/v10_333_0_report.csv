@@ -1,0 +1,4 @@
+F1: 0.95556,Precision: 0.95556,Recall: 0.95556,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,13,Wuhu Airport,http://dbpedia.org/resource/Wuhu_County,http://dbpedia.org/resource/ZSWU http://dbpedia.org/resource/Wuhu_Air_Base http://dbpedia.org/resource/Wuhu_Airport
+0,24,Wonsan Kalma International Airport,http://dbpedia.org/resource/Nashville_International_Airport,http://dbpedia.org/resource/Wonsan_Airport http://dbpedia.org/resource/Wonsan_Kalma_International_Airport

@@ -1,0 +1,5 @@
+"F1: 0.70000","Precision: 0.70000","Recall: 0.70000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","2","Danny Hale","http://dbpedia.org/resource/Danny_Ragsdale","http://dbpedia.org/resource/Danny_Hale_(footballer)"
+"1","4","Johnny Campbell[disambiguation needed]","http://dbpedia.org/resource/John_Campbell_(footballer,_born_1870)","http://dbpedia.org/resource/Johnny_Campbell_(disambiguation) http://dbpedia.org/resource/Johnny_Campbell http://dbpedia.org/resource/Campbell,_Johnny"
+"1","12","Joe McGrath","http://dbpedia.org/resource/Joe_McGrath_(Irish_footballer)","http://dbpedia.org/resource/Joe_McGrath_(footballer)"

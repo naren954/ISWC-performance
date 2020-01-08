@@ -1,0 +1,5 @@
+F1: 0.70000,Precision: 0.70000,Recall: 0.70000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,Zürich,http://dbpedia.org/resource/Winterthur,http://dbpedia.org/resource/Zürich_District http://dbpedia.org/resource/Zurich_district http://dbpedia.org/resource/Zurich_(district) http://dbpedia.org/resource/District_of_Zurich http://dbpedia.org/resource/Zürich_(district) http://dbpedia.org/resource/Zürich_district http://dbpedia.org/resource/Zuerich_district http://dbpedia.org/resource/Zurich_District http://dbpedia.org/resource/District_of_Zürich
+1,2,St. Gallen,http://dbpedia.org/resource/Canton_of_St._Gallen,http://dbpedia.org/resource/St._Gallen_(district) http://dbpedia.org/resource/St._Gallen_(Wahlkreis)
+1,8,Bern-Mittelland,http://dbpedia.org/resource/Espace_Mittelland,http://dbpedia.org/resource/Bern-Mittelland_(administrative_district) http://dbpedia.org/resource/Bern-Mittelland_(adminstrative_district)

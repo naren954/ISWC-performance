@@ -1,0 +1,29 @@
+F1: 0.86432,Precision: 0.86432,Recall: 0.86432,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,25,Suyruqucha,http://dbpedia.org/resource/Suyruqucha_(Junín-Lima),http://dbpedia.org/resource/Suyruqucha_(Junín)
+0,27,Suyruqucha,http://dbpedia.org/resource/Suyruqucha_(Junín-Lima),http://dbpedia.org/resource/Suyruqucha_(Junín)
+0,28,Suyruqucha,http://dbpedia.org/resource/Suyruqucha_(Junín-Lima),http://dbpedia.org/resource/Suyruqucha_(Lima) http://dbpedia.org/resource/Suyruqucha_(Huarochirí) http://dbpedia.org/resource/Suyruqucha_(Huarochiri)
+0,29,Suyruqucha,http://dbpedia.org/resource/Suyruqucha_(Junín-Lima),http://dbpedia.org/resource/Suyruqucha_(Cusco)
+0,30,Suyruqucha,http://dbpedia.org/resource/Suyruqucha_(Junín-Lima),http://dbpedia.org/resource/Suyruqucha_(Cajatambo)
+0,43,Surimana,http://dbpedia.org/resource/Surimana,http://dbpedia.org/resource/Surimana_(Waytani)
+0,50,Suri,http://dbpedia.org/resource/Suri_District,http://dbpedia.org/resource/Suri_(Peru)
+0,53,Surapata,http://dbpedia.org/resource/Surapata_(Melgar),http://dbpedia.org/resource/Nevado_Sorapata http://dbpedia.org/resource/Cerro_Sora_Pata http://dbpedia.org/resource/Sorapata http://dbpedia.org/resource/Surapata http://dbpedia.org/resource/Sora_Pata
+0,65,Suntur,http://dbpedia.org/resource/Sóndor_(Cusco),http://dbpedia.org/resource/Suntur_(Cusco)
+0,66,Suntur,http://dbpedia.org/resource/Sóndor_(Cusco),http://dbpedia.org/resource/Suntur_(Abancay-Antabamba)
+0,94,Sulaiman Mountains,http://dbpedia.org/resource/Sulayman_Mountain,http://dbpedia.org/resource/Suleiman_Mountains http://dbpedia.org/resource/Suliman_mountains http://dbpedia.org/resource/Sulaimān_Range http://dbpedia.org/resource/Sulaiman_Mountain http://dbpedia.org/resource/Suliman_Range http://dbpedia.org/resource/Suleman_Mountain_Range http://dbpedia.org/resource/Suliman_Mountains http://dbpedia.org/resource/Suliman_Hills http://dbpedia.org/resource/Sulaiman_Mountains http://dbpedia.org/resource/Da_Kasi_Ghar http://dbpedia.org/resource/Sulaiman_range http://dbpedia.org/resource/Sulaiman_hills http://dbpedia.org/resource/Sulaiman_Hills http://dbpedia.org/resource/Suleiman_Range http://dbpedia.org/resource/Sulaiman_Range
+0,101,Sugarloaf Mountain,"http://dbpedia.org/resource/Sugarloaf_Mountain_(Dutchess_County,_New_York)","http://dbpedia.org/resource/Sugarloaf_Mountain_(Riverside_County,_California)"
+0,102,Sugarloaf Mountain,"http://dbpedia.org/resource/Sugarloaf_Mountain_(Dutchess_County,_New_York)","http://dbpedia.org/resource/Mount_Sugarloaf_(Massachusetts) http://dbpedia.org/resource/Sugarloaf_Mountain_(Franklin_County,_Massachusetts) http://dbpedia.org/resource/Sugarloaf_Mountain_(Massachusetts) http://dbpedia.org/resource/Mount_Sugarloaf_(Franklin_County,_Massachusetts)"
+0,103,Sugarloaf Mountain,"http://dbpedia.org/resource/Sugarloaf_Mountain_(Dutchess_County,_New_York)","http://dbpedia.org/resource/Sugarloaf_Mountain,_MD http://dbpedia.org/resource/Sugarloaf_Mountain_(Maryland) http://dbpedia.org/resource/Sugarloaf_Mountain,_Maryland"
+0,104,Sugarloaf Mountain,"http://dbpedia.org/resource/Sugarloaf_Mountain_(Dutchess_County,_New_York)","http://dbpedia.org/resource/Sugarloaf_Mountain_(New_York) http://dbpedia.org/resource/Sugarloaf_Mountain_(Greene_County,_New_York)"
+0,105,Sugarloaf Mountain,"http://dbpedia.org/resource/Sugarloaf_Mountain_(Dutchess_County,_New_York)","http://dbpedia.org/resource/Sugarloaf_Mountain,_FL http://dbpedia.org/resource/Sugarloaf_Mountain,_Florida http://dbpedia.org/resource/Sugarloaf_Mountain_(Florida)"
+0,108,Sugarloaf Hill,"http://dbpedia.org/resource/Sugarloaf_Hill_(Putnam_County,_New_York)",http://dbpedia.org/resource/Sugarloaf_Hill_(Knockmealdowns)
+0,109,Sugarloaf,"http://dbpedia.org/resource/Sugar_Loaf,_Monmouthshire","http://dbpedia.org/resource/Sugarloaf_(West_Wicklow) http://dbpedia.org/resource/Sugarloaf,_west_Wicklow http://dbpedia.org/resource/Sugarloaf,_West_Wicklow http://dbpedia.org/resource/Sugarloaf_(Wicklow)"
+0,110,Sugarloaf,"http://dbpedia.org/resource/Sugar_Loaf,_Monmouthshire","http://dbpedia.org/resource/Sugarloaf,_Cork http://dbpedia.org/resource/Sugarloaf_(County_Cork) http://dbpedia.org/resource/Sugarloaf_(Cork) http://dbpedia.org/resource/Sugarloaf_Mountain,_Cork"
+0,142,Strahlhorn,http://dbpedia.org/resource/Strahlhorn,http://dbpedia.org/resource/Strahlhorn_(Fieschertal) http://dbpedia.org/resource/Strahlhorn_(Aletsch)
+0,143,Strahlhorn,http://dbpedia.org/resource/Strahlhorn,http://dbpedia.org/resource/Strahlhorn_(Baltschiedertal) http://dbpedia.org/resource/Strahlhorn_(Baltschieder)
+0,153,Storm Mountain,http://dbpedia.org/resource/Storm_Mountain_(Canada),http://dbpedia.org/resource/Storm_Mountain_(Alberta)
+0,177,Stone Mountain,http://dbpedia.org/resource/Stone_Mountain_(Pennsylvania),http://dbpedia.org/resource/Stone_Mountain_(North_Carolina)
+0,180,Stol,http://dbpedia.org/resource/Stol_(Karawanks),http://dbpedia.org/resource/Stol_(Serbia)
+0,185,Stockhorn,http://dbpedia.org/resource/Stockhorn,http://dbpedia.org/resource/Stockhorn_(Zermatt)
+0,186,Stockhorn,http://dbpedia.org/resource/Stockhorn,http://dbpedia.org/resource/Stockhorn_(Binntal)
+0,187,Stockhorn,http://dbpedia.org/resource/Stockhorn,http://dbpedia.org/resource/Stockhorn_(Baltschiedertal)

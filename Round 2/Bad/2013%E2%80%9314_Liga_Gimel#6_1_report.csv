@@ -1,0 +1,8 @@
+F1: 0.33333,Precision: 0.33333,Recall: 0.33333,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,F.C. Beitar Yavne,http://dbpedia.org/resource/Beitar_Petah_Tikva_F.C.,http://dbpedia.org/resource/Beitar_Yavne_F.C. http://dbpedia.org/resource/F.C._Beitar_Yavne
+1,2,Maccabi HaShikma Hen,http://dbpedia.org/resource/Maccabi_Jerusalem_F.C.,http://dbpedia.org/resource/Maccabi_HaShikma_Ramat_Hen_F.C. http://dbpedia.org/resource/Maccabi_HaShikma_Ramat_Hen http://dbpedia.org/resource/Maccabi_HaShikma_Hen_F.C.
+1,4,Maccabi Rehovot,http://dbpedia.org/resource/Maccabi_Ironi_Ashdod_F.C.,http://dbpedia.org/resource/Maccabi_Rehovot http://dbpedia.org/resource/Maccabi_Rehovot_F.C.
+1,5,Hapoel Mevaseret Zion,http://dbpedia.org/resource/Hapoel_Katamon_Jerusalem_F.C.,http://dbpedia.org/resource/Hapoel_Mevasseret_Zion_F.C. http://dbpedia.org/resource/Hapoel_Mevaseret_Zion_F.C.
+1,9,Hapoel Ironi Gedera,http://dbpedia.org/resource/Hapoel_Ironi_Kiryat_Shmona_F.C.,http://dbpedia.org/resource/Hapoel_Ironi_Gedera_F.C. http://dbpedia.org/resource/Hapoel_Gedera_F.C.
+1,10,Hapoel Tirat Shalom,http://dbpedia.org/resource/Hapoel_Kiryat_Shalom_F.C.,http://dbpedia.org/resource/Hapoel_Tirat_Shalom_F.C.

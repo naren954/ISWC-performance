@@ -1,0 +1,5 @@
+"F1: 0.84211","Precision: 0.84211","Recall: 0.84211"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","2","Democratic Party","http://dbpedia.org/resource/Democratic_Party_(Italy)","http://dbpedia.org/resource/Democratic_Innovation_Party http://dbpedia.org/resource/Minshinto http://dbpedia.org/resource/Democratic_Party_(Japan)"
+"0","3","Democracy Party","http://dbpedia.org/resource/National_League_for_Democracy","http://dbpedia.org/resource/Democrasy_Party_of_Iran http://dbpedia.org/resource/Democracy_Party_of_Iran http://dbpedia.org/resource/Democracy_Party_(Iran)"
+"0","7","Christian Democratic Party","http://dbpedia.org/resource/Christian_Democratic_Party_(Chile)","http://dbpedia.org/resource/Christian_Democratic_Party_(Spain)"

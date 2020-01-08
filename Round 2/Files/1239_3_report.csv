@@ -1,0 +1,5 @@
+"F1: 0.91176","Precision: 0.91176","Recall: 0.91176"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"3","6","S. Davis","http://dbpedia.org/resource/Suzanne_Davis_(figure_skater)","http://dbpedia.org/resource/Shawny_Davis http://dbpedia.org/resource/Shani_Davis http://dbpedia.org/resource/Shauni_Davis http://dbpedia.org/resource/Shawni_Davis"
+"3","14","H. Shimizu","http://dbpedia.org/resource/Kohei_Shimizu","http://dbpedia.org/resource/Hiroyasu_Shimizu"
+"3","24","H. Shimizu","http://dbpedia.org/resource/Kohei_Shimizu","http://dbpedia.org/resource/Hiroyasu_Shimizu"

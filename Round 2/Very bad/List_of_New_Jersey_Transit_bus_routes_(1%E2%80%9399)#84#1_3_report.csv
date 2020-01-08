@@ -1,0 +1,5 @@
+F1: 0.25000,Precision: 0.25000,Recall: 0.25000,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,2,Kennedy Boulevard,http://dbpedia.org/resource/AirTrain_JFK,http://dbpedia.org/resource/CR_501 http://dbpedia.org/resource/County_Route_501 http://dbpedia.org/resource/Kennedy_Boulevard_(Hudson_County) http://dbpedia.org/resource/CR_501_(NJ) http://dbpedia.org/resource/County_Route_501_(New_Jersey)
+3,5,Boulevard East,http://dbpedia.org/resource/Los_Angeles,"http://dbpedia.org/resource/Blvd_east http://dbpedia.org/resource/County_Route_693_(Hudson_County,_New_Jersey) http://dbpedia.org/resource/County_Route_677_(Hudson_County,_New_Jersey) http://dbpedia.org/resource/Boulevard_East http://dbpedia.org/resource/Blvd_East"
+3,6,Kennedy Boulevard or Central Avenue (off peak)[2],http://dbpedia.org/resource/Encanto/Central_Avenue_station,http://dbpedia.org/resource/CR_501 http://dbpedia.org/resource/County_Route_501 http://dbpedia.org/resource/Kennedy_Boulevard_(Hudson_County) http://dbpedia.org/resource/CR_501_(NJ) http://dbpedia.org/resource/County_Route_501_(New_Jersey)

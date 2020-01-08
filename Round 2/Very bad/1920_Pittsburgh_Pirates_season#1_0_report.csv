@@ -1,0 +1,9 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,Boston,http://dbpedia.org/resource/Boston,http://dbpedia.org/resource/1920_Boston_Braves_season
+0,3,Brooklyn,http://dbpedia.org/resource/Brooklyn_(film),http://dbpedia.org/resource/1920_Brooklyn_Dodgers_season http://dbpedia.org/resource/1920_Brooklyn_Robins_season
+0,4,Chicago,http://dbpedia.org/resource/Chicago,http://dbpedia.org/resource/1920_Chicago_Cubs_season
+0,5,Cincinnati,http://dbpedia.org/resource/Cincinnati,http://dbpedia.org/resource/1920_cincy_reds http://dbpedia.org/resource/1920_Cincinnati_Reds_season
+0,6,New York,http://dbpedia.org/resource/New_York_(state),http://dbpedia.org/resource/1920_New_York_Giants_season
+0,7,Philadelphia,http://dbpedia.org/resource/Philadelphia,http://dbpedia.org/resource/1920_Philadelphia_Phillies_season
+0,9,St. Louis,http://dbpedia.org/resource/St._Louis,http://dbpedia.org/resource/1920_St._Louis_Cardinals_season

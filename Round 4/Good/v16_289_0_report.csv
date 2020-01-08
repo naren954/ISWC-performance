@@ -1,0 +1,10 @@
+F1: 0.82609,Precision: 0.82609,Recall: 0.82609,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,17,Siomay,http://dbpedia.org/resource/Shumai,http://dbpedia.org/resource/Somay/Siomay http://dbpedia.org/resource/Somay http://dbpedia.org/resource/Siomay
+0,18,Sinangag,http://dbpedia.org/resource/Fried_rice,http://dbpedia.org/resource/Sinangág http://dbpedia.org/resource/Sinangag
+0,25,Sate Lilit,http://dbpedia.org/resource/Satay,http://dbpedia.org/resource/Sate_Lilit http://dbpedia.org/resource/Sate_lilit
+0,26,Samlor Kako,http://dbpedia.org/resource/Samlar_kakou,http://dbpedia.org/resource/Samlor_Kako
+0,29,Roti canai,http://dbpedia.org/resource/Paratha,http://dbpedia.org/resource/Roti_canai http://dbpedia.org/resource/Roti_cane http://dbpedia.org/resource/Roti_Canai
+0,40,Nasi timbel,http://dbpedia.org/resource/Nasi_campur,http://dbpedia.org/resource/Nasi_timbel
+0,42,Nasi pecel,http://dbpedia.org/resource/Pecel,http://dbpedia.org/resource/Nasi_pecel
+0,44,Nasi lemak,http://dbpedia.org/resource/Nasi_campur,http://dbpedia.org/resource/Nasi_lemak http://dbpedia.org/resource/Nasi_Lemak http://dbpedia.org/resource/Nasi_Ayam

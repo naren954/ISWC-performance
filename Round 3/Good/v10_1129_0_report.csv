@@ -1,0 +1,42 @@
+F1: 0.76190,Precision: 0.76190,Recall: 0.76190,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,6,Psycho,http://dbpedia.org/resource/Psycho_(Muse_song),http://dbpedia.org/resource/Psycho_(Imelda_May_song)
+0,9,Protection,http://dbpedia.org/resource/Protection_(Massive_Attack_album),http://dbpedia.org/resource/Protection_(Donna_Summer_song)
+0,10,Prophecy,http://dbpedia.org/resource/Prophecy_(Mami_Kawada_song),http://dbpedia.org/resource/Prophecy_(Soulfly_song)
+0,11,"Promises, Promises","http://dbpedia.org/resource/Promises,_Promises_(Incubus_song)","http://dbpedia.org/resource/Promises,_Promises_(The_Cooper_Temple_Clause_song)"
+0,15,Problem,http://fr.dbpedia.org/resource/Problem,http://dbpedia.org/resource/Problem_(Ariana_Grande_and_Iggy_Azalea_song) http://dbpedia.org/resource/Problem_(Ariana_Grande_song) http://dbpedia.org/resource/Problem_Ariana_Grande http://dbpedia.org/resource/One_Less_Problem_Without_You
+0,18,Prisoner of Love,http://dbpedia.org/resource/Prisoner_of_Love_(Utada_Hikaru_song),http://dbpedia.org/resource/Prisoner_of_Love_(1989_song) http://dbpedia.org/resource/Prisoner_of_Love_(Tin_Machine_song)
+0,19,Prisoner of Love,http://dbpedia.org/resource/Prisoner_of_Love_(Utada_Hikaru_song),http://dbpedia.org/resource/Prisoner_Of_Love_(1931_song) http://dbpedia.org/resource/Prisoner_of_Love_(Russ_Columbo_song) http://dbpedia.org/resource/Prisoner_of_Love_(1931_song)
+0,23,Pride,http://dbpedia.org/resource/Bold_&_Delicious/Pride,http://dbpedia.org/resource/Pitnol http://dbpedia.org/resource/Pride_(In_The_Name_Of_Love) http://dbpedia.org/resource/Pride_(In_the_Name_of_Love) http://dbpedia.org/resource/In_the_Name_of_Love_(U2_song) http://dbpedia.org/resource/Pride_(U2_song) http://dbpedia.org/resource/Pride_In_The_Name_of_Love http://dbpedia.org/resource/Pride_in_the_Name_of_Love http://dbpedia.org/resource/PITNOL http://dbpedia.org/resource/Pride_in_the_name_of_love
+0,28,Predictable,http://dbpedia.org/resource/Predictable_(Good_Charlotte_song),http://dbpedia.org/resource/Predictable_(Delta_Goodrem_song)
+0,33,Prayin',http://dbpedia.org/resource/Prayin'_(Plan_B_song),http://dbpedia.org/resource/Prayin'
+0,39,Pray,http://dbpedia.org/resource/Massive_Wonders,http://dbpedia.org/resource/Pray_(Take_That_song)
+0,42,Powerless,http://dbpedia.org/resource/Powerless_(Linkin_Park_song),http://dbpedia.org/resource/Powerless_(song)
+0,45,Power,http://dbpedia.org/resource/Power_Rangers,http://dbpedia.org/resource/Power_(KMFDM_song)
+0,62,Poison,http://dbpedia.org/resource/Poison_(Alice_Cooper_song),http://dbpedia.org/resource/Poison_(song_by_The_Prodigy) http://dbpedia.org/resource/Poison_(The_Prodigy_song) http://dbpedia.org/resource/Poison_(The_Prodigy_Song) http://dbpedia.org/resource/Poison_(The_Prodigy)
+0,69,Please Please Me,http://dbpedia.org/resource/Easy_Please_Me,http://dbpedia.org/resource/Please_Please_Me_(song)
+0,70,Please Mr. Postman,http://dbpedia.org/resource/Please_Mr._Lostman,"http://dbpedia.org/resource/Please_Mister_Postman http://dbpedia.org/resource/Mr._postman http://dbpedia.org/resource/Please_Mr_Postman http://dbpedia.org/resource/Wait_a_Minute_Mr._Postman http://dbpedia.org/resource/Wait_a_minute_Mr._Postman http://dbpedia.org/resource/Please_Mr._Postman_(The_Beatles_song) http://dbpedia.org/resource/Wait_a_Minute_Mister_Postman http://dbpedia.org/resource/Please_Mr._Postman http://dbpedia.org/resource/Please,_Mr._Postman http://dbpedia.org/resource/Wait_a_minute_mr._postman http://dbpedia.org/resource/Wait_a_minute_Mister_Postman"
+0,72,Please Don't Go,http://dbpedia.org/resource/Please_Don't_Go_(Boyz_II_Men_song),http://dbpedia.org/resource/Please_Don't_Go_(Mike_Posner_song)
+0,74,Please,http://dbpedia.org/resource/Please_(U2_song),http://dbpedia.org/resource/Please_(Braxton) http://dbpedia.org/resource/Please_(Toni_Braxton_song)
+0,81,Planet Earth,http://dbpedia.org/resource/Planet_Earth_(Eskimo_Joe_song),http://dbpedia.org/resource/Planet_Earth_(single) http://dbpedia.org/resource/Planet_Earth_(Duran_Duran_song) http://dbpedia.org/resource/Planet_Earth_(song)
+0,83,Pinocchio,http://dbpedia.org/resource/Pinocchio_(f(x)_album),http://dbpedia.org/resource/Pinocchio/Danger_(song) http://dbpedia.org/resource/Pinocchio_(Danger)
+0,87,Pilots,http://dbpedia.org/resource/Blurryface,http://dbpedia.org/resource/Pilots_(song) http://dbpedia.org/resource/Pilots_(Goldfrapp_song)
+0,90,Pig,http://dbpedia.org/resource/Filth_Pig,http://dbpedia.org/resource/Don't_Burn_the_Pig http://dbpedia.org/resource/Pig_(song)
+0,91,Pieces of Me,http://dbpedia.org/resource/Piece_of_Me_(Britney_Spears_song),http://dbpedia.org/resource/Pieces_Of_Me http://dbpedia.org/resource/Pieces_of_Me
+0,95,Philosophy,,http://dbpedia.org/resource/Philosophy_(Ben_Folds_Five_Song) http://dbpedia.org/resource/Philosophy_(Ben_Folds_Five_song) http://dbpedia.org/resource/Philosophy_(song) http://dbpedia.org/resource/Philosophy_song
+0,103,Perfect World,http://dbpedia.org/resource/Perfect_World_(Marcella_Detroit_song),http://dbpedia.org/resource/Perfect_World_(Gossip_song) http://dbpedia.org/resource/Perfect_World(Gossip_song)
+0,106,Perfect Day,http://dbpedia.org/resource/Perfect_Day_(EMF_song),http://dbpedia.org/resource/Perfect_Day_'97 http://dbpedia.org/resource/Perfect_Day_(BBC_promotion) http://dbpedia.org/resource/Perfect_Day_(Duran_Duran_song) http://dbpedia.org/resource/Perfect_Day_(Lou_Reed_song) http://dbpedia.org/resource/Perfect_Day_97
+0,114,Peaches,http://dbpedia.org/resource/Peaches_(The_Stranglers_song),http://dbpedia.org/resource/Peaches_(Presidents_of_the_United_States_of_America_song) http://dbpedia.org/resource/Peaches_(PUSA_song) http://dbpedia.org/resource/Peaches_(The_Presidents_of_the_United_States_of_America_song) http://dbpedia.org/resource/Peaches_(single)
+0,116,Peach,http://dbpedia.org/resource/Peach/Heart,http://dbpedia.org/resource/Peach_(song)
+0,123,Patience,http://dbpedia.org/resource/Patience_(Take_That_song),http://dbpedia.org/resource/Patience_(Dreamgirls_(film)_song) http://dbpedia.org/resource/Patience_(Dreamgirls_song)
+0,133,Paranoid,http://dbpedia.org/resource/Paranoid_(Black_Sabbath_song),http://dbpedia.org/resource/Paranoid_(Kanye_West_song)
+0,134,Paradise,http://dbpedia.org/resource/Paradise_(Coldplay_song),http://dbpedia.org/resource/Paradise_(Temptations_song) http://dbpedia.org/resource/Paradise_(The_Temptations_song)
+0,136,Papers,http://dbpedia.org/resource/Rolling_Papers_(album),http://dbpedia.org/resource/Papers_(Usher_song) http://dbpedia.org/resource/Papers_(song)
+0,138,Paperback Writer,http://dbpedia.org/resource/Paperback_Cliché,http://dbpedia.org/resource/Paperback_Writer_(The_Beatles_song) http://dbpedia.org/resource/Paperback_Writer
+0,141,Paparazzi,http://dbpedia.org/resource/Paparazzi_(Lady_Gaga_song),http://dbpedia.org/resource/Paparazzi_(Xzibit_song)
+0,153,P.S. I Love You,http://dbpedia.org/resource/P.S._I_Love_You_(Robin_Daggers_song),http://dbpedia.org/resource/P.S._I_Love_You_(song) http://dbpedia.org/resource/P._S._I_Love_You_(The_Beatles_song) http://dbpedia.org/resource/P.S._I_Love_You_(The_Beatles_song) http://dbpedia.org/resource/P.S._I_Love_You_(Beatles_song) http://dbpedia.org/resource/P_S_I_Love_You_(The_Beatles_song) http://dbpedia.org/resource/P.S._I_Love_You_(1962_song) http://dbpedia.org/resource/PSI_Love_You_(The_Beatles_song)
+0,154,Overdose,http://dbpedia.org/resource/Overdose_(Exo_song),http://dbpedia.org/resource/Overdose_(Ciara_song)
+0,159,Over My Head,http://dbpedia.org/resource/Over_My_Head_(Fleetwood_Mac_song),http://dbpedia.org/resource/Cable_Car_(Over_My_Head) http://dbpedia.org/resource/Over_My_Head_(Cable_Car) http://dbpedia.org/resource/Cable_Car_(song) http://dbpedia.org/resource/Over_my_head_cable_car http://dbpedia.org/resource/Over_My_Head_(The_Fray_song)
+0,160,Outta My Head,http://dbpedia.org/resource/Outta_My_Head_(Daughtry_song),http://dbpedia.org/resource/Outta_My_Head_(Leona_Lewis_song)
+0,162,Outta My Head,http://dbpedia.org/resource/Outta_My_Head_(Daughtry_song),http://dbpedia.org/resource/Outta_My_Head_(Ay_Ya_Ya) http://dbpedia.org/resource/Out_Of_My_Head_(Ay_Ya_Ya) http://dbpedia.org/resource/Outta_My_Head_(Ashlee_Simpson_Song)
+0,164,Out of the Blue,http://dbpedia.org/resource/Out_of_the_Blue_(Debbie_Gibson_song),http://dbpedia.org/resource/Out_of_the_Blue_(Delta_Goodrem_song) http://dbpedia.org/resource/Out_of_the_Blue_(Delta_Goodrem_Song)

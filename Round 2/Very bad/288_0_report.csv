@@ -1,0 +1,13 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,S. McIntyre,http://dbpedia.org/resource/Macy_Gray,http://dbpedia.org/resource/Seamus_McIntyre
+0,2,R. Johansson,http://dbpedia.org/resource/Roger_Johansson,http://dbpedia.org/resource/Rune_Johansson
+0,3,P. Barry,"http://dbpedia.org/resource/Barry,_Hautes-Pyrénées",http://dbpedia.org/resource/Paddy_Barry_(Limerick_hurler)
+0,4,M. Tapavica,http://dbpedia.org/resource/M,"http://dbpedia.org/resource/Momcsilló_Tapavicza http://dbpedia.org/resource/Momcilo_Tapavica http://dbpedia.org/resource/Momčilo_Tapavica http://dbpedia.org/resource/Momcsillo_Tapavicza http://dbpedia.org/resource/Tapavica,_Momčilo"
+0,5,M. Byrne,http://dbpedia.org/resource/Gabriel_Byrne,http://dbpedia.org/resource/Mickey_Byrne
+0,6,K. Heffernan,http://dbpedia.org/resource/Josephine_Heffernan,http://dbpedia.org/resource/Kevin_Heffernan_(Gaelic_footballer)
+0,7,J. Ryan,http://dbpedia.org/resource/James_Ryan_(Irish_politician),http://dbpedia.org/resource/John_Ryan_(Galway_hurler)
+0,8,J. McNaughton,http://dbpedia.org/resource/Andrew_McNaughton,http://dbpedia.org/resource/James_McNaughton_(hurler)
+0,9,G. Hughes,http://dbpedia.org/resource/Glenn_Hughes_(Village_People),http://dbpedia.org/resource/Greg_Hughes_(Gaelic_footballer)
+0,10,F. White,http://dbpedia.org/resource/John_F._Kennedy,http://dbpedia.org/resource/Frank_White_(hurler)
+0,11,F. Nelson,http://dbpedia.org/resource/Ernest_Rutherford,http://dbpedia.org/resource/Francis_Nelson

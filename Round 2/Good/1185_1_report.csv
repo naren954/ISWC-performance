@@ -1,0 +1,5 @@
+F1: 0.92683,Precision: 0.92683,Recall: 0.92683,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,6,Lesser petrosal nerve,http://dbpedia.org/resource/Greater_petrosal_nerve,http://dbpedia.org/resource/Petrosal_foramina http://dbpedia.org/resource/Lesser_petrosal_nerves http://dbpedia.org/resource/Small_petrosal_ganglion http://dbpedia.org/resource/Small_petrosal http://dbpedia.org/resource/Canaliculus_innominatus http://dbpedia.org/resource/Lesser_superficial_petrosal_nerve http://dbpedia.org/resource/Petrosal_foramen http://dbpedia.org/resource/Foramen_of_Arnold http://dbpedia.org/resource/Lesser_petrosal_nerve
+1,24,Posterior cord,http://dbpedia.org/resource/Brainstem,http://dbpedia.org/resource/Posterior_cord
+1,32,Thoracic nerves,http://dbpedia.org/resource/Spinal_nerve,http://dbpedia.org/resource/Thoracic_nerves

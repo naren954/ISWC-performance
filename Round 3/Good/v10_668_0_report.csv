@@ -1,0 +1,18 @@
+F1: 0.90588,Precision: 0.90588,Recall: 0.90588,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,13,Whistle,http://dbpedia.org/resource/Whistle!,http://dbpedia.org/resource/Whistle_(novel)
+0,18,When Darkness Falls,http://dbpedia.org/resource/When_Darkness_Falls_(novel),http://dbpedia.org/resource/When_Darkness_Falls
+0,19,What Is the What,http://dbpedia.org/resource/What_Is_it_Like_to_Be_a_Bat?,http://dbpedia.org/resource/What_Is_the_What http://dbpedia.org/resource/What_is_the_What http://dbpedia.org/resource/Valentino_Deng http://dbpedia.org/resource/What_Is_the_What:_The_Autobiography_of_Valentino_Achak_Deng http://dbpedia.org/resource/What_is_the_what http://dbpedia.org/resource/What_is_the_What:_The_Autobiography_of_Valentino_Achak_Deng http://dbpedia.org/resource/Valentino_Achak_Deng
+0,23,We,http://dbpedia.org/resource/We_Five,http://dbpedia.org/resource/We_(novel) http://dbpedia.org/resource/Мы http://dbpedia.org/resource/D-503 http://dbpedia.org/resource/We_(book) http://dbpedia.org/resource/Miy
+0,31,Tomorrow,http://dbpedia.org/resource/Tomorrow_series,http://dbpedia.org/resource/Tomorrow_(novel)
+0,71,The Slater Field Guide to Australian Birds,http://dbpedia.org/resource/A_Field_Guide_to_Australian_Birds_(Slater),http://dbpedia.org/resource/Slater_Field_Guide_to_Australian_Birds http://dbpedia.org/resource/The_Slater_Field_Guide_to_Australian_Birds
+0,74,The Shepherd,http://dbpedia.org/resource/The_Shepherd_(Blake),http://dbpedia.org/resource/The_Shepherd
+0,81,"The Sea, the Sea",http://dbpedia.org/resource/North_Sea,"http://dbpedia.org/resource/The_Sea,_the_Sea http://dbpedia.org/resource/The_Sea,_The_Sea"
+0,85,The Regime,http://dbpedia.org/resource/Communist_Party_of_Czechoslovakia,http://dbpedia.org/resource/The_Regime http://dbpedia.org/resource/The_Regime_(Left_Behind) http://dbpedia.org/resource/The_Regime_(novel)
+0,90,The Prophet,http://dbpedia.org/resource/The_Prophet_of_Yonwood,http://dbpedia.org/resource/The_Garden_of_The_Prophet http://dbpedia.org/resource/The_Prophet_(book) http://dbpedia.org/resource/Orphalese
+0,97,The Namesake,http://dbpedia.org/resource/The_Namesake_(NCIS),http://dbpedia.org/resource/The_Namesake
+0,117,The Knight,http://dbpedia.org/resource/The_Dark_Knight_(film),http://dbpedia.org/resource/The_Knight_(Gene_Wolfe) http://dbpedia.org/resource/The_Knight_(novel) http://dbpedia.org/resource/The_Knight_by_Gene_Wolfe
+0,128,The Heralds,http://dbpedia.org/resource/New_York_Herald,http://dbpedia.org/resource/The_Heralds
+0,146,The Family Trade,http://fr.dbpedia.org/resource/Une_affaire_de_famille_(roman),http://dbpedia.org/resource/The_Family_Trade http://dbpedia.org/resource/Miriam_Beckstein
+0,160,The Dragon Knight,http://dbpedia.org/resource/The_Dragon_Knight_(novel),http://dbpedia.org/resource/The_Dragon_Knight
+0,166,The Descent,http://dbpedia.org/resource/Descent_(1995_video_game),http://dbpedia.org/resource/The_Descent_(novel)

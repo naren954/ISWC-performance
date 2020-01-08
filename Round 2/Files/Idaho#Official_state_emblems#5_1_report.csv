@@ -1,0 +1,4 @@
+"F1: 0.00000","Precision: 0.00000","Recall: 0.00000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","8","Idaho City","http://dbpedia.org/resource/Idaho","http://dbpedia.org/resource/Boise_County http://dbpedia.org/resource/Boise_County,_ID http://dbpedia.org/resource/Boise_County,_Idaho http://dbpedia.org/resource/History_of_Boise_County,_Idaho http://dbpedia.org/resource/Boise_County_(Idaho)"
+"1","40","Wallace","http://dbpedia.org/resource/George_Wallace","http://dbpedia.org/resource/Kellogg_Metropolitan_Area http://dbpedia.org/resource/Shoshone_County,_ID http://dbpedia.org/resource/Shoshone_County_(Idaho) http://dbpedia.org/resource/Shoshone_County,_Idaho http://dbpedia.org/resource/Kellogg_Metro_Area http://dbpedia.org/resource/History_of_Shoshone_County,_Idaho http://dbpedia.org/resource/Shoshone_County"

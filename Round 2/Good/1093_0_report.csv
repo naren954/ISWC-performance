@@ -1,0 +1,4 @@
+F1: 0.90909,Precision: 0.90909,Recall: 0.90909,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,8,No. 162 Squadron RCAF,http://dbpedia.org/resource/No._161_Squadron_RCAF,http://dbpedia.org/resource/No._162_Squadron_RCAF
+0,17,97th Reconnaissance Group of the Infantry Division,http://dbpedia.org/resource/97th_Infantry_Division_Reconnaissance_Group,http://dbpedia.org/resource/97th_Reconnaissance_Group_of_the_Infantry_Division http://dbpedia.org/resource/Reconnaissance_Group_of_the_97th_Infantry_Division

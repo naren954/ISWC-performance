@@ -1,0 +1,5 @@
+F1: 0.82353,Precision: 0.82353,Recall: 0.82353,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,7,Karnal,http://dbpedia.org/resource/Karnal_district,http://dbpedia.org/resource/Karnal_Cantonment http://dbpedia.org/resource/Kurnaul http://dbpedia.org/resource/Karnal
+3,8,"War, West Virginia",http://dbpedia.org/resource/West_Virginia,"http://dbpedia.org/resource/War,_WV http://dbpedia.org/resource/War,_West_Virginia"
+3,12,Ernakulam,http://dbpedia.org/resource/Ernakulam_district,http://dbpedia.org/resource/Eranakulam http://dbpedia.org/resource/Ernakulam

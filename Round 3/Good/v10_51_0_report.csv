@@ -1,0 +1,40 @@
+F1: 0.80711,Precision: 0.80711,Recall: 0.80711,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,11,E. Walker,http://dbpedia.org/resource/George_H._W._Bush,http://dbpedia.org/resource/Ed_Walker_(Ameirican_football) http://dbpedia.org/resource/Ed_Walker_(American_football)
+0,14,E. Schwager,http://dbpedia.org/resource/Dietmar_Schwager,http://dbpedia.org/resource/Ed_Schwager
+0,23,E. Curtis,http://dbpedia.org/resource/Ernie_Curtis,http://dbpedia.org/resource/Eck_Curtis
+0,24,E. Wilson,http://dbpedia.org/resource/Woodrow_Wilson,http://dbpedia.org/resource/Eben_Wilson http://dbpedia.org/resource/Ebin_Wilson
+0,32,E. Brown,http://dbpedia.org/resource/Ernest_Brown_(coach),http://dbpedia.org/resource/Earl_Brown_(coach) http://dbpedia.org/resource/Earl_Brown_(sportsman)
+0,39,E. T. Pickering,http://dbpedia.org/resource/Earle_T._Pickering,http://dbpedia.org/resource/E._T._Pickering
+0,50,D. Wilson,http://dbpedia.org/resource/Damien_Wilson,http://dbpedia.org/resource/Dwight_Wilson_(American_football)
+0,55,D. Sommer,http://de.dbpedia.org/resource/Dieter_Sommer,http://dbpedia.org/resource/Frank_A._Sommer_(football_coach) http://dbpedia.org/resource/Dutch_Sommer http://dbpedia.org/resource/Frank_Sommers http://dbpedia.org/resource/Frank_Sommer http://dbpedia.org/resource/Frank_A._Sommers http://dbpedia.org/resource/Frank_A._Sommer
+0,56,D. Meyer,http://dbpedia.org/resource/Don_Meyer,http://dbpedia.org/resource/Dutch_Meyer http://dbpedia.org/resource/L.R._Meyer
+0,60,D. Goode,http://dbpedia.org/resource/Don_Goode,http://dbpedia.org/resource/Dunny_Goode_(football_coach) http://dbpedia.org/resource/Dunny_Goode
+0,61,D. Nelson,http://dbpedia.org/resource/Dave_Nelson,"http://dbpedia.org/resource/Walter_Nelson http://dbpedia.org/resource/Duke_Nelson http://dbpedia.org/resource/Walter_J._Nelson http://dbpedia.org/resource/Walter_J._""Duke""_Nelson"
+0,65,D. Moore,http://dbpedia.org/resource/Dickie_Moore_(ice_hockey),http://dbpedia.org/resource/Dudey_Moore http://dbpedia.org/resource/Dudley_Moore_(basketball)
+0,68,D. Christopherson,http://dbpedia.org/resource/Jim_Christopherson,http://dbpedia.org/resource/Duane_Christopherson
+0,73,D. Martin,http://dbpedia.org/resource/Doug_Martin_(American_football_coach),http://dbpedia.org/resource/Doug_Martin_(basketball)
+0,82,D. Roberts,"http://dbpedia.org/resource/Dale_Roberts_(footballer,_born_1986)",http://dbpedia.org/resource/Don_Roberts_(ice_hockey)
+0,83,D. Reed,http://dbpedia.org/resource/David_Reed_(American_football),http://dbpedia.org/resource/Don_F._Reed http://dbpedia.org/resource/Donald_F._Reed http://dbpedia.org/resource/Don_Reed_(football_coach) http://dbpedia.org/resource/Don_Reed
+0,95,D. Stanley,http://dbpedia.org/resource/Dennis_K._Stanley,http://dbpedia.org/resource/Dolph_Stanley
+0,99,D. Carlson,http://dbpedia.org/resource/Don_Carlson,"http://dbpedia.org/resource/Henry_""Doc""_Carlson http://dbpedia.org/resource/Clifford_Carlson http://dbpedia.org/resource/Doc_Carlson http://dbpedia.org/resource/Henery_Clifford_Carlson http://dbpedia.org/resource/Henery_Carlson http://dbpedia.org/resource/H._C._""Doc""_Carlson"
+0,104,D. Martin,http://dbpedia.org/resource/Doug_Martin_(American_football_coach),http://dbpedia.org/resource/Dino_Martin
+0,117,D. Colman,http://dbpedia.org/resource/Donald_Colman,http://dbpedia.org/resource/Dick_Colman
+0,124,D. Payne,http://dbpedia.org/resource/John_Payne_(American_football),http://dbpedia.org/resource/Devone_Payne
+0,132,D. Morgan,http://dbpedia.org/resource/Dennis_Morgan_(American_football),http://dbpedia.org/resource/Dell_Morgan
+0,133,D. Anderson,"http://dbpedia.org/resource/Dick_Anderson_(American_football,_born_1941)",http://dbpedia.org/resource/Del_Anderson
+0,135,D. Smith,"http://dbpedia.org/resource/Don_Smith_(basketball,_born_1951)",http://dbpedia.org/resource/Dean_Smith http://dbpedia.org/resource/Dean_Smith_(American_basketball_coach) http://dbpedia.org/resource/Dean_Edwards_Smith
+0,137,D. Weaver,http://dbpedia.org/resource/Doug_Weaver,http://dbpedia.org/resource/DeWitt_Weaver http://dbpedia.org/resource/Dewitt_Weaver
+0,144,D. Smith,"http://dbpedia.org/resource/Don_Smith_(basketball,_born_1951)",http://dbpedia.org/resource/Dave_Smith_(American_football_coach)
+0,147,D. Holmes,http://dbpedia.org/resource/Don_Holmes_(American_football),http://dbpedia.org/resource/Dave_Holmes_(football_coach) http://dbpedia.org/resource/Coach_Dave_Holmes http://dbpedia.org/resource/Dave_Holmes_(American_football)
+0,150,D. Drake,http://dbpedia.org/resource/Dallas_Drake,http://dbpedia.org/resource/Dave_Drake http://dbpedia.org/resource/Dave_Drake_(American_football_coach) http://dbpedia.org/resource/Dave_Drake_(American_football) http://dbpedia.org/resource/David_Drake_(American_football) http://dbpedia.org/resource/David_Drake_(American_football_coach)
+0,152,D. Crawford,http://dbpedia.org/resource/Denny_Crawford,http://dbpedia.org/resource/Dave_Crawford
+0,159,D. Evans,http://dbpedia.org/resource/Daniel_Evans_(rugby_player),http://dbpedia.org/resource/Dana_Evans
+0,162,D. Fitzgerald,http://dbpedia.org/resource/Dennis_Fitzgerald,http://dbpedia.org/resource/Dan_Fitzgerald
+0,166,D. Allen,http://dbpedia.org/resource/Phog_Allen,http://dbpedia.org/resource/Dan_Allen_(American_football)
+0,170,D. Hall,http://dbpedia.org/resource/DeAngelo_Hall,http://dbpedia.org/resource/Dale_Hall
+0,179,C. Bennett,http://dbpedia.org/resource/Chuck_Bennett,http://dbpedia.org/resource/Curt_Bennett_(American_football)
+0,183,C. Smith,http://dbpedia.org/resource/Craig_Smith_(ice_hockey),http://dbpedia.org/resource/B._L._Smith http://dbpedia.org/resource/Crook_Smith
+0,186,C. Pollard,http://dbpedia.org/resource/Chris_Pollard,http://dbpedia.org/resource/Courtland_Pollard
+0,189,C. Clark,http://dbpedia.org/resource/Cameron_Clark_(basketball),http://dbpedia.org/resource/Cody_Clark
+0,190,C. Williams,"http://dbpedia.org/resource/Clarence_Williams_(running_back,_born_1955)",http://dbpedia.org/resource/Clyde_Williams_(American_football) http://dbpedia.org/resource/Clyde_Williams_(football_coach) http://dbpedia.org/resource/Clyde_Williams_(football)

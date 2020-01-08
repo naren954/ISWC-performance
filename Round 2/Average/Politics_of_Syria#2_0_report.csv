@@ -1,0 +1,6 @@
+F1: 0.60000,Precision: 0.60000,Recall: 0.60000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,Socialist Unionists (al-wahdawiyyun al-ishtirakiyyun),http://dbpedia.org/resource/Trade_Unionist_and_Socialist_Coalition,http://dbpedia.org/resource/Socialist_Unionists http://dbpedia.org/resource/Party_of_Socialist_Unionists
+0,4,"Communist Party of Syria (al-Hizb ash-shuyu'i as-suri, Wissal Farha Bakdash faction)",http://dbpedia.org/resource/Syrian_Communist_Party_(Unified),http://dbpedia.org/resource/Syrian_Communist_Party_(Bakdash)
+0,6,National Vow Movement (Harakat al-'ahd al-waTani),http://dbpedia.org/resource/National_Covenant_Party,http://dbpedia.org/resource/National_Vow_Movement
+0,7,Arab Socialist Union (al-ittiHad al-ishtiraki al-'arabi),http://dbpedia.org/resource/Libyan_Arab_Socialist_Union,http://dbpedia.org/resource/Arab_Socialist_Union_(Syria) http://dbpedia.org/resource/Arab_Socialist_Unity

@@ -1,0 +1,7 @@
+F1: 0.16667,Precision: 0.16667,Recall: 0.16667,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,2,KÃ\u008D KlaksvÃ­k,http://dbpedia.org/resource/Chan_Tsz_Ka,http://dbpedia.org/resource/KÍ_Klaksvík
+1,3,TB TvÃ¸royri,http://dbpedia.org/resource/Terbium,http://dbpedia.org/resource/TB_Tvøroyri
+1,4,B36 TÃ³rshavn,http://dbpedia.org/resource/Tórshavn,http://dbpedia.org/resource/B36_Tórshavn
+1,5,VB VÃ¡gur,http://dbpedia.org/resource/Vágur,http://dbpedia.org/resource/VB_Vágur
+1,6,Ã\u008DF FuglafjÃ¸rÃ°ur,http://de.dbpedia.org/resource/Schützenbrunnen_(Bern),http://dbpedia.org/resource/ÍF_Fuglafjørður

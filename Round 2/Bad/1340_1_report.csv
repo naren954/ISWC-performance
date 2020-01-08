@@ -1,0 +1,12 @@
+F1: 0.33333,Precision: 0.33333,Recall: 0.33333,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,R. Saklikar,http://dbpedia.org/resource/R_with_stroke,http://dbpedia.org/resource/Renee_Saklikar http://dbpedia.org/resource/Renée_Saklikar http://dbpedia.org/resource/Renée_Sarojini_Saklikar http://dbpedia.org/resource/Renee_Sarojini_Saklikar
+1,3,B. B. Ames,http://dbpedia.org/resource/Eli_B._Ames,http://dbpedia.org/resource/Blanche_Butler_Ames
+1,4,T. Walsh,http://dbpedia.org/resource/Tom_Walsh_(Wyoming_politician),http://dbpedia.org/resource/Tom_Walsh_(trade_unionist)
+1,5,H. Scott,http://dbpedia.org/resource/Hugh_Scott,http://dbpedia.org/resource/Alma_Long_Scott http://dbpedia.org/resource/Hazel_Scott
+1,6,C. Watson,http://dbpedia.org/resource/Clinton_Watson,http://dbpedia.org/resource/Chris_Watson http://dbpedia.org/resource/John_Christian_Watson
+1,8,A. Taylor,http://dbpedia.org/resource/Zachary_Taylor,http://dbpedia.org/resource/Agnes_Taylor
+1,10,A. l. Torre,http://dbpedia.org/resource/Augusta_La_Torre,http://dbpedia.org/resource/Augusta_la_torre http://dbpedia.org/resource/Augusta_la_Torre
+1,12,H. A. Samatar,http://dbpedia.org/resource/Mohammad_Ali_Samatar,http://dbpedia.org/resource/Hawa_Abdi_Samatar
+1,13,P. Robinson,http://dbpedia.org/resource/Peter_Robinson_(Northern_Ireland_politician),http://dbpedia.org/resource/Patricia_Robinson
+1,14,M. İnönü,http://dbpedia.org/resource/İsmet_İnönü,http://dbpedia.org/resource/Mevhibe_Inonu http://dbpedia.org/resource/Mevhibe_İnönü

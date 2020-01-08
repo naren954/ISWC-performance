@@ -1,0 +1,16 @@
+F1: 0.65854,Precision: 0.65854,Recall: 0.65854,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,6,Wonderful Land,http://dbpedia.org/resource/Sheba_(song),http://dbpedia.org/resource/Wonderful_Land
+0,9,Wonderful,http://dbpedia.org/resource/Wonderful_(Annie_Lennox_song),http://dbpedia.org/resource/Wonderful_(Rick_James_album)
+0,10,Wonderful,http://dbpedia.org/resource/Wonderful_(Annie_Lennox_song),http://dbpedia.org/resource/Wonderful_(Marques_Houston_song)
+0,11,Wonderful,http://dbpedia.org/resource/Wonderful_(Annie_Lennox_song),http://dbpedia.org/resource/Wonderful_(Madness_album)
+0,12,Wonderful,http://dbpedia.org/resource/Wonderful_(Annie_Lennox_song),http://dbpedia.org/resource/Wonderful_(Circle_Jerks_album)
+0,13,Wonderful,http://dbpedia.org/resource/Wonderful_(Annie_Lennox_song),http://dbpedia.org/resource/Wonderful_(Angel_song)
+0,14,Wonderful,http://dbpedia.org/resource/Wonderful_(Annie_Lennox_song),http://dbpedia.org/resource/Wonderful_(Adam_Ant_album)
+0,22,Wonder Party,http://dbpedia.org/resource/Wonder_World_(album),http://dbpedia.org/resource/Wonder_Party http://dbpedia.org/resource/The_DJ_is_Mine
+0,25,Wonder,http://dbpedia.org/resource/I_Wonder_(Kellie_Pickler_song),http://dbpedia.org/resource/Wonder_(Naughty_Boy_song) http://dbpedia.org/resource/Wonder_(Emeli_Sandé_song) http://dbpedia.org/resource/Wonder_(Naughty_Boy_Song)
+0,26,Wonder,http://dbpedia.org/resource/I_Wonder_(Kellie_Pickler_song),http://dbpedia.org/resource/Wonder_(Michael_W._Smith_album)
+0,27,Wonder,http://dbpedia.org/resource/I_Wonder_(Kellie_Pickler_song),http://dbpedia.org/resource/Wonder_(Lisa_Mitchell_album) http://dbpedia.org/resource/Paint_it_Gold http://dbpedia.org/resource/The_Attic_Space
+0,28,Won't Look Back,http://dbpedia.org/resource/Won't_Look_Back_(song),http://dbpedia.org/resource/Won't_Look_Back
+0,30,Won't Be Long,http://dbpedia.org/resource/It_Won't_Be_Wrong,http://dbpedia.org/resource/Won't_Be_Long_(Aretha_Franklin_song)
+0,40,Women,http://dbpedia.org/resource/Women_in_Uniform,http://dbpedia.org/resource/Women_(Def_Leppard_song)

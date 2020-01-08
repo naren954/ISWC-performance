@@ -1,0 +1,4 @@
+F1: 0.66667,Precision: 0.66667,Recall: 0.66667,,
+Col,Row,Value,Submitted URI,Correct URI's
+4,76,Earl of Munster,"http://dbpedia.org/resource/George_FitzClarence,_1st_Earl_of_Munster","http://dbpedia.org/resource/Geoffrey_William_Richard_Hugh_FitzClarence,_5th_Earl_of_Munster http://dbpedia.org/resource/Geoffrey_William_Richard_Hugh_Fitzclarence,_5th_Earl_of_Munster http://dbpedia.org/resource/Geoffrey_FitzClarence,_5th_Earl_of_Munster"
+4,106,John Richard Anthony Oldfield,http://dbpedia.org/resource/Jack_Oldfield,http://dbpedia.org/resource/John_Richard_Anthony_Oldfield

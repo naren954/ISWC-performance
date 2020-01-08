@@ -1,0 +1,5 @@
+F1: 0.78571,Precision: 0.78571,Recall: 0.78571,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,5,A. Mickey,http://dbpedia.org/resource/Mickey_Mantle,http://dbpedia.org/resource/Abigail_Mickey
+0,10,A. Eshuis,,http://dbpedia.org/resource/Aafke_Eshuis
+0,14,Á. Edo,http://dbpedia.org/resource/Teo_Edo,http://dbpedia.org/resource/Angel_Edo_Alsina http://dbpedia.org/resource/Angel_Edo http://dbpedia.org/resource/Ángel_Edo http://dbpedia.org/resource/Ángel_Edo_Alsina

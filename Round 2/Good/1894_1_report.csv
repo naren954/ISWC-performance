@@ -1,0 +1,15 @@
+F1: 0.83750,Precision: 0.83750,Recall: 0.83750,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,2,The Golden Age,http://dbpedia.org/resource/The_Golden_Age_(comics),http://dbpedia.org/resource/The_Golden_Age_(Vidal) http://dbpedia.org/resource/The_Golden_Age_(Gore_Vidal) http://dbpedia.org/resource/The_Golden_Age_(Vidal_novel) http://dbpedia.org/resource/The_Golden_Age_(2000_novel) http://dbpedia.org/resource/The_Golden_Age_(Gore_Vidal_novel) http://dbpedia.org/resource/The_Golden_Age_(novel_by_Vidal) http://dbpedia.org/resource/The_Golden_Age_(novel_by_Gore_Vidal)
+1,8,Warlord,http://dbpedia.org/resource/Warlord_(Star_Trek:_Voyager),http://dbpedia.org/resource/The_Tide_Lords http://dbpedia.org/resource/Jennifer_Fallon http://dbpedia.org/resource/Gods_of_Amyrantha http://dbpedia.org/resource/Warlord_(novel)
+1,12,The Quest,http://dbpedia.org/resource/King's_Quest_I,http://dbpedia.org/resource/The_Quest_(novel)
+1,21,Quintana Roo,,http://dbpedia.org/resource/Quintana_Roo_(Novel) http://dbpedia.org/resource/Quintana_Roo_(novel)
+1,24,"Double, Double",http://dbpedia.org/resource/Double_Platinum_(Kiss_album),"http://dbpedia.org/resource/Double,_Double_(Star_Trek_novel)"
+1,34,The Mutation,http://dbpedia.org/resource/Ninja_Turtles:_The_Next_Mutation,http://dbpedia.org/resource/The_Mutation_(Animorphs) http://dbpedia.org/resource/Animorphs_36 http://dbpedia.org/resource/The_mutation http://dbpedia.org/resource/The_Mutation_(novel)
+1,38,Fool's Bargain,http://dbpedia.org/resource/Survivor's_Quest,http://dbpedia.org/resource/Fool's_Bargain
+1,39,"The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win",http://dbpedia.org/resource/The_Alchemist_(novel),"http://dbpedia.org/resource/The_Phoenix_Project_(novel) http://dbpedia.org/resource/The_Phoenix_Project:_A_Novel_About_IT,_DevOps,_and_Helping_Your_Business_Win"
+1,48,On the Track,http://dbpedia.org/resource/Blood_on_the_Tracks,http://dbpedia.org/resource/On_the_Track_(short_story_collection) http://dbpedia.org/resource/On_the_Track_(collection)
+1,64,Vampirates: Dead Deep,http://dbpedia.org/resource/The_Walking_Dead:_Michonne,http://dbpedia.org/resource/Vampirate http://dbpedia.org/resource/Vampirates:_Dead_Deep http://dbpedia.org/resource/Vampirates http://dbpedia.org/resource/Empire_of_Night http://dbpedia.org/resource/Vampirate_(disambiguation)
+1,70,The State of the Art,http://dbpedia.org/resource/State_of_the_Art_(Shinhwa_album),http://dbpedia.org/resource/The_State_of_the_Art
+1,75,The Panther,http://dbpedia.org/resource/Panther_tank,http://dbpedia.org/resource/The_Panther_(novel)
+1,80,Undone,http://dbpedia.org/resource/Undone_(Humphreys_novel),http://dbpedia.org/resource/Undone_(Sara_Humphreys_book)

@@ -1,0 +1,7 @@
+"F1: 0.86111","Precision: 0.86111","Recall: 0.86111"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","2","French aircraft carrier Foch","http://dbpedia.org/resource/French_aircraft_carrier_PA2","http://dbpedia.org/resource/French_aircraft_carrier_Foch_(R_99) http://dbpedia.org/resource/Foch_(R99) http://dbpedia.org/resource/FS_Foch_(1960-2000) http://dbpedia.org/resource/Foch_(R_99) http://dbpedia.org/resource/FS_Foch_(R_99) http://dbpedia.org/resource/French_aircraft_carrier_Foch_(R99) http://dbpedia.org/resource/FS_Foch"
+"0","15","Brazilian monitor Rio Grande","http://dbpedia.org/resource/Brazilian_cruiser_Rio_Grande_do_Sul","http://dbpedia.org/resource/Brazilian_monitor_Rio_Grande"
+"0","28","BAP Unión","http://dbpedia.org/resource/BAP_Unión","http://dbpedia.org/resource/BAP_Union http://dbpedia.org/resource/BAP_Unión_(BEV-161) http://dbpedia.org/resource/BAP_Union_(BEV-161)"
+"0","35","ARA Veinticinco de Mayo","http://dbpedia.org/resource/ARA_Veinticinco_de_Mayo_(1890)","http://dbpedia.org/resource/ARA_Veinticinco_de_Mayo_(C-2) http://dbpedia.org/resource/ARA_Veinticinco_de_Mayo_(cruiser)"
+"0","36","ARA Almirante Brown","http://dbpedia.org/resource/ARA_Almirante_Brown_(1880)","http://dbpedia.org/resource/ARA_Almirante_Brown_(1931) http://dbpedia.org/resource/ARA_Almirante_Brown_(C-1)"

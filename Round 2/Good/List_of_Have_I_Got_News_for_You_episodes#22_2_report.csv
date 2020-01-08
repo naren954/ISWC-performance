@@ -1,0 +1,3 @@
+F1: 0.87500,Precision: 0.87500,Recall: 0.87500,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,4,John Sergeant,http://dbpedia.org/resource/John_Sergeant_(politician),http://dbpedia.org/resource/John_Sergeant_(journalist) http://dbpedia.org/resource/John_Sergeant_(1944-)

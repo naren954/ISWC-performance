@@ -1,0 +1,6 @@
+F1: 0.71429,Precision: 0.71429,Recall: 0.71429,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,7,William Lytle,http://dbpedia.org/resource/William_Haines_Lytle,http://dbpedia.org/resource/William_Lytle_II http://dbpedia.org/resource/Lytle_family http://dbpedia.org/resource/William_Lytle_(captain)
+1,9,William McMillan,http://dbpedia.org/resource/William_McMillan_(Australian_politician),http://dbpedia.org/resource/William_McMillan_(congressman)
+1,10,John Smith,http://dbpedia.org/resource/John_Smith_(Welsh_politician),http://dbpedia.org/resource/John_Smith_(Ohio_Senator) http://dbpedia.org/resource/John_Smith_(Ohio_politician_born_1735) http://dbpedia.org/resource/John_Smith_(United_States_Senator_from_Ohio)
+1,14,Elias Langham,http://dbpedia.org/resource/Simon_Langham,http://dbpedia.org/resource/Elias_Langham

@@ -1,0 +1,21 @@
+F1: 0.89017,Precision: 0.89017,Recall: 0.89017,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,7,Love and War,http://dbpedia.org/resource/Love_and_War_(Cornell_novel),http://dbpedia.org/resource/Love_and_War_(Dragonlance)
+0,10,Lost City,http://dbpedia.org/resource/The_Lost_City_of_Z_(book),http://dbpedia.org/resource/Lost_City
+0,15,Lo!,http://it.dbpedia.org/resource/Lo_sfrattato,http://dbpedia.org/resource/Lo!
+0,16,Living History,http://dbpedia.org/resource/Living_History_(book),http://dbpedia.org/resource/Living_History
+0,23,Limitations,http://dbpedia.org/resource/Statute_of_limitations,http://dbpedia.org/resource/Limitations_(novel) http://dbpedia.org/resource/Limitations_(book)
+0,35,Legacy,http://dbpedia.org/resource/Star_Wars:_Legacy,http://dbpedia.org/resource/Legacy_(2007_novel) http://dbpedia.org/resource/Legacy_(Bujold) http://dbpedia.org/resource/Legacy_(Bujold_novel)
+0,37,Left Behind,http://dbpedia.org/resource/The_Last_of_Us:_Left_Behind,http://dbpedia.org/resource/Left_Behind:_A_Novel_of_the_Earth's_Last_Days http://dbpedia.org/resource/Left_Behind_(novel)
+0,54,Kiss the Girls,http://dbpedia.org/resource/Kiss_the_Girls_(novel),http://dbpedia.org/resource/Kiss_the_girls http://dbpedia.org/resource/Kiss_The_Girls http://dbpedia.org/resource/Kiss_the_Girls
+0,56,Kingdom Come,http://dbpedia.org/resource/Kingdom_Come_(Bragg_novel),http://dbpedia.org/resource/Kingdom_Come_(LaHaye_novel) http://dbpedia.org/resource/Kingdom_Come_(Left_Behind)
+0,65,Julie,http://fr.dbpedia.org/resource/Julie_(magazine),http://dbpedia.org/resource/Julie_(Jean_Craighead_George_novel) http://dbpedia.org/resource/Julie_(George_novel)
+0,70,Judge,http://dbpedia.org/resource/Judge_Dee_at_Work,http://dbpedia.org/resource/Judge_(novel)
+0,80,Jam,http://dbpedia.org/resource/Camp_Rock_2:_The_Final_Jam_(soundtrack),http://dbpedia.org/resource/Jam_(novel)
+0,108,India's Ancient Past,,http://dbpedia.org/resource/India's_Ancient_Past
+0,145,Horizon,http://dbpedia.org/resource/Horizon_(Star_Trek:_Enterprise),http://dbpedia.org/resource/Horizon_(novel) http://dbpedia.org/resource/Horizon_(2009_novel)
+0,149,Home,http://dbpedia.org/resource/Home_(Star_Trek:_Enterprise),http://dbpedia.org/resource/Home_(Robinson_novel)
+0,150,Hollywood,http://dbpedia.org/resource/Hollywood_(Bukowski_novel),http://dbpedia.org/resource/Hollywood_(Vidal_novel) http://dbpedia.org/resource/Hollywood_(Vidal) http://dbpedia.org/resource/Hollywood_(Gore_Vidal_novel)
+0,165,Heat,http://dbpedia.org/resource/HEAT_(magazine),http://dbpedia.org/resource/Heat_(Buffy/Angel_novel) http://dbpedia.org/resource/Heat_(Buffy/Angel) http://dbpedia.org/resource/Heat_(Buffy/Angel_Novel)
+0,172,Haunted,http://dbpedia.org/resource/Haunted_(Armstrong_novel),http://dbpedia.org/resource/Foot_Work http://dbpedia.org/resource/Foot_Work_(Short_story) http://dbpedia.org/resource/Haunted_(short_stories_anthology) http://dbpedia.org/resource/Tess_Clark http://dbpedia.org/resource/Haunted_(Palahniuk_novel) http://dbpedia.org/resource/Haunted_(palahniuk)
+0,173,Haunted,http://dbpedia.org/resource/Haunted_(Armstrong_novel),http://dbpedia.org/resource/Haunted_(Angel_novel)

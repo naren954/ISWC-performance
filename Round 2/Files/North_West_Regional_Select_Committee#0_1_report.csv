@@ -1,0 +1,5 @@
+"F1: 0.40000","Precision: 0.40000","Recall: 0.40000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","1","David Crausby MP (Chair)","http://dbpedia.org/resource/David_Lammy","http://dbpedia.org/resource/David_Anthony_Crausby http://dbpedia.org/resource/David_Crausby http://dbpedia.org/resource/Davis_Crausby"
+"1","4","Eric Martlew MP","http://dbpedia.org/resource/Eric_Pickles","http://dbpedia.org/resource/Eric_Anthony_Martlew http://dbpedia.org/resource/Eric_Martlew"
+"1","5","Geraldine Smith MP","http://dbpedia.org/resource/Gerard_Smith_(governor)","http://dbpedia.org/resource/Geraldine_Smith http://dbpedia.org/resource/Maria_Geraldine_Smith"

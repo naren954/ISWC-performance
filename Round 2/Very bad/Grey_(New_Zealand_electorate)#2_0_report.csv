@@ -1,0 +1,17 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,1881 election,http://dbpedia.org/resource/1881_in_sports,"http://dbpedia.org/resource/New_Zealand_general_election,_1881 http://dbpedia.org/resource/New_Zealand_general_election_1881"
+0,2,1884 election,http://dbpedia.org/resource/1884_in_sports,"http://dbpedia.org/resource/New_Zealand_general_election,_1884 http://dbpedia.org/resource/New_Zealand_general_election_1884"
+0,3,1887 election,http://dbpedia.org/resource/1887_in_sports,"http://dbpedia.org/resource/New_Zealand_general_election,_1887 http://dbpedia.org/resource/New_Zealand_general_election_1887 http://dbpedia.org/resource/Scarecrow_Ministry"
+0,4,1890 election,http://dbpedia.org/resource/1890_in_sports,"http://dbpedia.org/resource/New_Zealand_general_election,_1890 http://dbpedia.org/resource/New_Zealand_general_election_1890"
+0,5,1893 election,http://dbpedia.org/resource/1893_in_sports,"http://dbpedia.org/resource/New_Zealand_general_election,_1893 http://dbpedia.org/resource/New_Zealand_general_election_1893 http://dbpedia.org/resource/1893_New_Zealand_general_election"
+0,6,1896 election,http://dbpedia.org/resource/United_States_presidential_election,"http://dbpedia.org/resource/New_Zealand_general_election,_1896 http://dbpedia.org/resource/New_Zealand_general_election_1896"
+0,7,1899 election,http://dbpedia.org/resource/1899_in_film,"http://dbpedia.org/resource/New_Zealand_general_election_1899 http://dbpedia.org/resource/New_Zealand_general_election,_1899"
+0,8,1902 election,http://dbpedia.org/resource/1902_in_sports,"http://dbpedia.org/resource/New_Zealand_general_election_1902 http://dbpedia.org/resource/New_Zealand_general_election,_1902"
+0,9,1905 election,http://dbpedia.org/resource/List_of_Ontario_general_elections,"http://dbpedia.org/resource/New_Zealand_general_election_1905 http://dbpedia.org/resource/New_Zealand_general_election,_1905"
+0,10,1908 election,http://dbpedia.org/resource/1908_in_film,"http://dbpedia.org/resource/New_Zealand_general_election_1908 http://dbpedia.org/resource/New_Zealand_general_election,_1908"
+0,11,1911 election,http://dbpedia.org/resource/1911_in_sports,"http://dbpedia.org/resource/New_Zealand_general_election_1911 http://dbpedia.org/resource/New_Zealand_general_election,_1911"
+0,12,1913 by-election,http://dbpedia.org/resource/1913_Costa_Rican_general_election,"http://dbpedia.org/resource/1913_Grey_by-election http://dbpedia.org/resource/Grey_by-election,_1913 http://dbpedia.org/resource/Grey_by-election_1913"
+0,13,1914 election,http://dbpedia.org/resource/1914_in_sports,"http://dbpedia.org/resource/New_Zealand_general_election,_1914 http://dbpedia.org/resource/New_Zealand_general_election_1914"
+0,15,1917 by-election,http://dbpedia.org/resource/1917_Costa_Rican_general_election,"http://dbpedia.org/resource/Grey_by-election,_1917"
+0,16,1918 by-election,http://dbpedia.org/resource/1918_Queensland_state_election,"http://dbpedia.org/resource/Grey_by-election,_1918"

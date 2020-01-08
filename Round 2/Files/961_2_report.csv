@@ -1,0 +1,5 @@
+"F1: 0.66667","Precision: 0.66667","Recall: 0.66667"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"2","5","Trout River","http://dbpedia.org/resource/Trout_River_(Quebec)","http://dbpedia.org/resource/Trout_River_(British_Columbia)"
+"2","8","Yadkin River","http://dbpedia.org/resource/Pee_Dee_River","http://dbpedia.org/resource/W._Kerr_Scott_Dam http://dbpedia.org/resource/Yadkin_River http://dbpedia.org/resource/Yadkin_river http://dbpedia.org/resource/Roanoke_Inlet http://dbpedia.org/resource/Yadkin_Valley"
+"2","9","Gates River","http://dbpedia.org/resource/St._Marys_River_(Michigan–Ontario)","http://dbpedia.org/resource/Gates_River"

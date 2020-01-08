@@ -1,0 +1,6 @@
+F1: 0.81818,Precision: 0.81818,Recall: 0.81818,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,NIRAS,http://it.dbpedia.org/resource/Nucleare_Italiana_Reattori_Avanzati,http://dbpedia.org/resource/NIRAS
+0,5,Meituan.com,http://dbpedia.org/resource/Meituan-Dianping,http://dbpedia.org/resource/Meituan.com http://dbpedia.org/resource/Meituan
+0,11,First City Monument Bank,http://dbpedia.org/resource/Citibank,http://dbpedia.org/resource/First_City_Monument_Bank http://dbpedia.org/resource/FCMB
+0,19,Boustead Heavy Industries,http://dbpedia.org/resource/Kawasaki_Heavy_Industries,http://dbpedia.org/resource/Boustead_Heavy_Industries_Corporation_Berhad http://dbpedia.org/resource/BHIC http://dbpedia.org/resource/Boustead_Naval_Shipyard_Sdn_Bhd http://dbpedia.org/resource/Boustead_Heavy_Industries http://dbpedia.org/resource/Bhic http://dbpedia.org/resource/Boustead_Naval_Shipyard

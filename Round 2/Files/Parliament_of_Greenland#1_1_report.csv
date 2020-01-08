@@ -1,0 +1,5 @@
+"F1: 0.50000","Precision: 0.50000","Recall: 0.50000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","3","Democrats","http://dbpedia.org/resource/Sweden_Democrats","http://dbpedia.org/resource/Democrats_(Greenland) http://dbpedia.org/resource/Demokraatit"
+"1","5","Solidarity","http://dbpedia.org/resource/Freedom_and_Solidarity","http://dbpedia.org/resource/Atássut http://dbpedia.org/resource/Feeling_of_Community http://dbpedia.org/resource/Feeling_of_Community_Party http://dbpedia.org/resource/Atassut http://dbpedia.org/resource/Feeling_of_community http://dbpedia.org/resource/Solidarity_(Greenland)"
+"1","6","Inuit Party","http://dbpedia.org/resource/Inuit_Ataqatigiit","http://dbpedia.org/resource/Partii_Inuit http://dbpedia.org/resource/Inuit_Party"

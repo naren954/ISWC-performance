@@ -1,0 +1,5 @@
+"F1: 0.93478","Precision: 0.93478","Recall: 0.93478"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"2","24","1971 United States Grand Prix","http://dbpedia.org/resource/1960_United_States_Grand_Prix","http://dbpedia.org/resource/1971_United_States_Grand_Prix"
+"2","25","1971 United States Grand Prix","http://dbpedia.org/resource/1960_United_States_Grand_Prix","http://dbpedia.org/resource/1971_United_States_Grand_Prix"
+"2","40","1980 United States Grand Prix West","http://dbpedia.org/resource/1983_United_States_Grand_Prix_West","http://dbpedia.org/resource/1980_USA_West_Grand_Prix http://dbpedia.org/resource/1980_United_States_Grand_Prix_West http://dbpedia.org/resource/1980_United_States_West_Grand_Prix"

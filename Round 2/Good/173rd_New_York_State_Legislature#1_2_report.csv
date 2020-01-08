@@ -1,0 +1,5 @@
+F1: 0.90909,Precision: 0.90909,Recall: 0.90909,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,75,Joseph F. Carlino*,http://dbpedia.org/resource/Joseph_F._Holt,http://dbpedia.org/resource/Joe_Carlino http://dbpedia.org/resource/Joseph_F._Carlino http://dbpedia.org/resource/Joseph_F_Carlino http://dbpedia.org/resource/Joseph_Carlino http://dbpedia.org/resource/Joseph_Francis_Carlino
+2,112,William C. Brennan*,http://dbpedia.org/resource/William_J._Brennan_Jr.,http://dbpedia.org/resource/William_C._Brennan
+2,117,Moses M. Weinstein*,http://dbpedia.org/resource/Moses_Malone,http://dbpedia.org/resource/Moses_M._Weinstein

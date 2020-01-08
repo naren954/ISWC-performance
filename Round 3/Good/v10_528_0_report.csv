@@ -1,0 +1,10 @@
+F1: 0.75758,Precision: 0.75758,Recall: 0.75758,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,A. Benjamin,http://dbpedia.org/resource/Walter_Benjamin,http://dbpedia.org/resource/Asher_Benjamin
+0,4,A. Anderson,http://dbpedia.org/resource/Laurie_Anderson,http://dbpedia.org/resource/Arthur_Anderson_(architect)
+0,5,A. Lindgren,http://dbpedia.org/resource/Astrid_Lindgren,http://dbpedia.org/resource/Armas_Lindgren
+0,6,A. Palacios,http://dbpedia.org/resource/Simón_Bolívar,http://dbpedia.org/resource/Antonio_Palacios_Ramilo http://dbpedia.org/resource/Antonio_Palacios
+0,12,A. Damyanov,http://dbpedia.org/resource/Georgi_Damyanov,http://dbpedia.org/resource/Andreja_Damjanov_award http://dbpedia.org/resource/Andrey_Damyanov http://dbpedia.org/resource/Andreja_Damjanov
+0,13,A. Geller,http://dbpedia.org/resource/Aert_de_Gelder,http://dbpedia.org/resource/Andrew_Michael_Geller http://dbpedia.org/resource/Andrew_Geller
+0,22,A. Parris,http://dbpedia.org/resource/Albion_Parris,http://dbpedia.org/resource/Alexander_Parris
+0,28,A. Grigoriev,"http://ru.dbpedia.org/resource/Григорьев,_Андрей_Александрович",http://dbpedia.org/resource/Afanasy_Grigoriev

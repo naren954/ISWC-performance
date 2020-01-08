@@ -1,0 +1,7 @@
+F1: 0.50000,Precision: 0.50000,Recall: 0.50000,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,2,K. Yamamoto,http://dbpedia.org/resource/Koji_Yamamoto_(actor),http://dbpedia.org/resource/Kenji_Yamamoto_(composer_born_1964) http://dbpedia.org/resource/Kenji_Yamamoto_(Nintendo_musician)
+2,4,M. Morgan,http://dbpedia.org/resource/Melissa_Morgan,http://dbpedia.org/resource/Mark_Morgan_(composer)
+2,5,N. Corbeil,http://fr.dbpedia.org/resource/Nicolas_Corbeil,http://dbpedia.org/resource/Normand_Corbeil
+2,7,S. Henifin,http://de.dbpedia.org/resource/S._Sanjeeth,http://dbpedia.org/resource/Silicon_Knights http://dbpedia.org/resource/Silicon_Knights_v._Epic_Games http://dbpedia.org/resource/Steve_Henifin
+2,9,T. Morris,http://dbpedia.org/resource/Gary_Morris,http://dbpedia.org/resource/Trevor_Morris_(musician)

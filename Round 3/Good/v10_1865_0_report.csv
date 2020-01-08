@@ -1,0 +1,16 @@
+F1: 0.85417,Precision: 0.85417,Recall: 0.85417,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,10,D. Jackson,http://dbpedia.org/resource/Don_Jackson_(ice_hockey),http://dbpedia.org/resource/Doug_Jackson_(ice_hockey)
+0,20,D. Ward,http://dbpedia.org/resource/Dixon_Ward,http://dbpedia.org/resource/Don_Ward_(ice_hockey)
+0,22,D. Stanley,http://dbpedia.org/resource/Daryl_Stanley,http://dbpedia.org/resource/Don_Stanley_(ice_hockey)
+0,23,D. Smith,http://dbpedia.org/resource/Doug_Smith_(ice_hockey),"http://dbpedia.org/resource/Don_Smith_(ice_hockey_b._1929) http://dbpedia.org/resource/Don_Smith_(ice_hockey,_born_1929)"
+0,28,D. McLean,"http://dbpedia.org/resource/Don_McLean_(ice_hockey,_born_1954)","http://dbpedia.org/resource/Don_McLean_(ice_hockey,_born_1926)"
+0,48,D. Smith,http://dbpedia.org/resource/Doug_Smith_(ice_hockey),http://dbpedia.org/resource/Des_Smith_(hockey_player) http://dbpedia.org/resource/Des_Smith_(ice_hockey) http://dbpedia.org/resource/Des_Smith_(hockey)
+0,53,D. Miller,http://dbpedia.org/resource/Dots_Miller,http://dbpedia.org/resource/David_Miller_(hockey_player) http://dbpedia.org/resource/David_Miller_(ice_hockey)
+0,68,D. Anderson,http://dbpedia.org/resource/Doug_Anderson_(ice_hockey),http://dbpedia.org/resource/Dale_Anderson_(ice_hockey)
+0,69,C. Taylor,http://dbpedia.org/resource/Charley_Taylor,"http://dbpedia.org/resource/Frederick_Wellington_""Cyclone""_Taylor http://dbpedia.org/resource/Frederick_Wellington_Taylor http://dbpedia.org/resource/Cyclone_Taylor"
+0,72,C. Wilson,http://dbpedia.org/resource/Carey_Wilson_(ice_hockey),"http://dbpedia.org/resource/Cully_Wilson http://dbpedia.org/resource/Carol_""Cully""_Wilson"
+0,75,C. Denneny,http://dbpedia.org/resource/Cy_Denneny,http://dbpedia.org/resource/Corb_Denneny http://dbpedia.org/resource/Corbett_Denneny
+0,80,C. Corbeau,http://dbpedia.org/resource/Bert_Corbeau,http://dbpedia.org/resource/Con_Corbeau
+0,81,C. Smith,http://dbpedia.org/resource/Craig_Smith_(ice_hockey),http://dbpedia.org/resource/Clint_Smith
+0,87,C. Piché,http://dbpedia.org/resource/Sébastien_Piché,http://dbpedia.org/resource/Clement_Piché http://dbpedia.org/resource/Clement_Piche

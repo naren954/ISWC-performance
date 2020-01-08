@@ -1,0 +1,9 @@
+F1: 0.63158,Precision: 0.63158,Recall: 0.63158,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,Ten Putte Abbey,http://dbpedia.org/resource/Ten_Duinen_Abbey,http://dbpedia.org/resource/Ten_Putte_Abbey
+0,4,"St. Peter's Abbey, Ghent",http://dbpedia.org/resource/Gloucester_Cathedral,"http://dbpedia.org/resource/St._Peter's_Abbey,_Ghent"
+0,6,New Synagogue,http://dbpedia.org/resource/New_Synagogue_(Berlin),http://dbpedia.org/resource/Ladu_Synagogue http://dbpedia.org/resource/New_Synagogue_(Shanghai) http://dbpedia.org/resource/Tenant_de_la_Tour_Synagogue
+0,10,Monastery of Dumio,"http://dbpedia.org/resource/Monastery_of_the_Holy_Saviour,_Kreim","http://dbpedia.org/resource/Dumium http://dbpedia.org/resource/Dume,_Portugal http://dbpedia.org/resource/Monastery_of_Dumio http://dbpedia.org/resource/Dumio"
+0,15,Darussalam Education Centre,"http://dbpedia.org/resource/Distance_Education_Centre,_Victoria",http://dbpedia.org/resource/Darussalam_Education_Centre
+0,18,Binham Priory,http://dbpedia.org/resource/Athassel_Priory,"http://dbpedia.org/resource/Binham_Priory http://dbpedia.org/resource/St_Mary's_Priory,_Binham"
+0,19,Beth Aharon Synagogue,"http://dbpedia.org/resource/Beth_Sholom_Congregation_(Elkins_Park,_Pennsylvania)",http://dbpedia.org/resource/Beth_Aharon http://dbpedia.org/resource/Ahalong_Huitang http://dbpedia.org/resource/Beth_Aharon_Synagogue http://dbpedia.org/resource/Ahalong_Synagogue

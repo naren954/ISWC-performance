@@ -1,0 +1,6 @@
+F1: 0.73333,Precision: 0.73333,Recall: 0.73333,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,3,Craig Thyssen,http://dbpedia.org/resource/Ingrid_Thyssen,http://dbpedia.org/resource/Craig_Thyssen
+1,9,Justin Kreusch,http://dbpedia.org/resource/Justin_Lemberg,http://dbpedia.org/resource/Justin_Kreusch
+1,15,Juan Theron,http://dbpedia.org/resource/Charlize_Theron,http://dbpedia.org/resource/Juan_Theron http://dbpedia.org/resource/Juan_Theron_(cricketer) http://dbpedia.org/resource/Rusty_Theron
+1,19,Lyall Meyer,http://dbpedia.org/resource/Lyall_Anderson,http://dbpedia.org/resource/Lyall_Meyer

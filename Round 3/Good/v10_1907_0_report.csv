@@ -1,0 +1,15 @@
+F1: 0.92308,Precision: 0.92308,Recall: 0.92308,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,23,Predator,http://dbpedia.org/resource/Predator_(album),http://dbpedia.org/resource/Predator_(novel)
+0,38,Plague Ship,http://dbpedia.org/resource/Plague_Ship,http://dbpedia.org/resource/Plague_Ship_(Cussler_novel)
+0,45,Phantom,http://dbpedia.org/resource/The_Phantom_of_the_Opera,http://dbpedia.org/resource/Phantom_(Sword_of_Truth)
+0,58,Passage,http://dbpedia.org/resource/Passage_(The_Carpenters_album),http://dbpedia.org/resource/Passage_(Bujold_novel) http://dbpedia.org/resource/Passage_(2008_novel)
+0,70,Other People,http://dbpedia.org/resource/People_(magazine),http://dbpedia.org/resource/Other_People http://dbpedia.org/resource/Other_people
+0,95,Nicolae,http://dbpedia.org/resource/Saint_Nicholas,http://dbpedia.org/resource/Nicolae_(novel)
+0,96,New Moon,http://dbpedia.org/resource/New_Moon_(Swallow_the_Sun_album),http://dbpedia.org/resource/Twilight_2:_The_Next_Chapter http://dbpedia.org/resource/New_moon_(novel) http://dbpedia.org/resource/New_moon_twilight_series http://dbpedia.org/resource/New_Moon_(novel) http://dbpedia.org/resource/Stephenie_Meyer's_New_Moon http://dbpedia.org/resource/Twilight:_The_Next_Chapter http://dbpedia.org/resource/Twilight_2 http://dbpedia.org/resource/New_Moon_(book) http://dbpedia.org/resource/New_moon_(the_book) http://dbpedia.org/resource/New_Moon(novel)_by_Stephanie_Meyers http://dbpedia.org/resource/New_Moon_(Twilight_series) http://dbpedia.org/resource/New_Moon_(Twilight_Saga) http://dbpedia.org/resource/La_tua_cantante http://dbpedia.org/resource/Twilight_and_new_moon http://dbpedia.org/resource/New_Moon_(Twilight)
+0,99,Nemesis,http://dbpedia.org/resource/Nemesis_(Angel_novel),http://dbpedia.org/resource/Nemesis_(Christie_novel) http://dbpedia.org/resource/Nemesis_(Agatha_Christie_novel) http://dbpedia.org/resource/Nemesis_(Christie) http://dbpedia.org/resource/Verity_Hunt
+0,111,My Life,http://dbpedia.org/resource/My_Life_(50_Cent_song),http://dbpedia.org/resource/My_Life_(memoir) http://dbpedia.org/resource/My_Life_(Bill_Clinton_autobiography)
+0,132,Morgawr,http://dbpedia.org/resource/Morgawr_(novel),http://dbpedia.org/resource/Morgawr
+0,153,Messenger,http://dbpedia.org/resource/Messenger_(Joe_Pug_album),http://dbpedia.org/resource/Messenger_(novel)
+0,162,Manifold: Origin,http://dbpedia.org/resource/Origin_(Baxter_novel),http://dbpedia.org/resource/Manifold:_Origin
+0,169,Lost City,http://dbpedia.org/resource/Lost_City_(Stargate_SG-1),http://dbpedia.org/resource/Lost_City

@@ -1,0 +1,5 @@
+"F1: 0.95522","Precision: 0.95522","Recall: 0.95522"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"3","22","Gorgon City","http://dbpedia.org/resource/Alexander_Gorgon","http://dbpedia.org/resource/Gorgon_City http://dbpedia.org/resource/RackNRuin http://dbpedia.org/resource/Foamo"
+"3","34","Blondie","http://dbpedia.org/resource/Debbie_Harry","http://dbpedia.org/resource/Blondie_band http://dbpedia.org/resource/Blondie_(band)"
+"3","55","Ben Folds Five","http://dbpedia.org/resource/Ben_Folds","http://dbpedia.org/resource/List_of_songs_recorded_by_Ben_Folds_Five http://dbpedia.org/resource/Ben_folds_five http://dbpedia.org/resource/Bf5 http://dbpedia.org/resource/Ben_Folds_Five_discography http://dbpedia.org/resource/Ben_Folds'_Five http://dbpedia.org/resource/Ben_Folds_5 http://dbpedia.org/resource/Ben_Folds_Five"

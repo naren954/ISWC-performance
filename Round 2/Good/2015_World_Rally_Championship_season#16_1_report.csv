@@ -1,0 +1,8 @@
+F1: 0.83784,Precision: 0.83784,Recall: 0.83784,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,4,Mads Ã\u0098stberg,http://dbpedia.org/resource/Anthony_Wayne,http://dbpedia.org/resource/Mads_Østberg
+1,15,Yuriy Protasov,http://dbpedia.org/resource/Igor_Protasov,http://dbpedia.org/resource/Yuriy_Protasov
+1,21,Diego DomÃ­nguez,http://dbpedia.org/resource/Diego_Domínguez_(rugby_union),http://dbpedia.org/resource/Diego_Domínguez_(rally_driver)
+1,31,Kevin Abbring,http://dbpedia.org/resource/Kevin_Strobl,"http://dbpedia.org/resource/Abbring,_Kevin http://dbpedia.org/resource/Abbring http://dbpedia.org/resource/Kevin_Abbring"
+1,35,Sam Moffett,http://dbpedia.org/resource/Georgia_Moffett,http://dbpedia.org/resource/Sam_Moffett http://dbpedia.org/resource/Sam_Moffet
+1,40,Jaroslav Melicharek,http://dbpedia.org/resource/Dušan_Melichárek,http://dbpedia.org/resource/Jaroslav_Melicharek http://dbpedia.org/resource/Jaroslav_Melichárek

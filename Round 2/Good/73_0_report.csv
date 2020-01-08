@@ -1,0 +1,24 @@
+F1: 0.81667,Precision: 0.81667,Recall: 0.81667,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,M. Denis,http://dbpedia.org/resource/Maurice_Denis,http://dbpedia.org/resource/Marcel_Denis
+0,5,L. Schwartz,http://dbpedia.org/resource/Laurent_Schwartz,http://dbpedia.org/resource/Lew_Schwartz http://dbpedia.org/resource/Lew_Sayre_Schwartz
+0,22,J. Hart,http://dbpedia.org/resource/Judith_Hart,http://dbpedia.org/resource/Johnny_Hart http://dbpedia.org/resource/John_Lewis_Hart http://dbpedia.org/resource/Johny_Hart
+0,23,J. Craig,http://dbpedia.org/resource/James_Craig_(actor),http://dbpedia.org/resource/Johnny_Craig
+0,31,J. Simon,http://dbpedia.org/resource/Lucien_Simon,http://dbpedia.org/resource/Gregory_Sykes http://dbpedia.org/resource/Joseph_Henry_Simon http://dbpedia.org/resource/Jim_Simon_(comics) http://dbpedia.org/resource/Joe_Simon http://dbpedia.org/resource/Hymie_Simon
+0,36,J. Gill,http://dbpedia.org/resource/James_Gill_(artist),http://dbpedia.org/resource/Joe_Gill
+0,43,J. Robinson,http://dbpedia.org/resource/Joan_Robinson,http://dbpedia.org/resource/Sherrill_David_Robinson http://dbpedia.org/resource/Jerry_Robinson http://dbpedia.org/resource/Sherrill_Robinson
+0,53,J. Martin,http://dbpedia.org/resource/Jimmy_Martin,http://dbpedia.org/resource/Jacques_Martin_(comics) http://dbpedia.org/resource/Jacques_Martin_(comics_artist) http://dbpedia.org/resource/Jacques_Martin_(cartoonist)
+0,57,J. Cole,http://dbpedia.org/resource/Jerry_Cole,http://dbpedia.org/resource/Jack_Ralph_Cole http://dbpedia.org/resource/Jack_Cole_(comic_books_artist) http://dbpedia.org/resource/Jack_Cole_(artist)
+0,58,J. Adler,http://dbpedia.org/resource/Jerry_Adler_(harmonica_player),http://dbpedia.org/resource/Jack_Adler
+0,68,H. Scarpelli,http://dbpedia.org/resource/Furio_Scarpelli,http://dbpedia.org/resource/Henry_Scarpelli
+0,78,H. Foster,http://dbpedia.org/resource/Stephen_Foster,http://dbpedia.org/resource/Harold_R._Foster http://dbpedia.org/resource/Harold_Rudolf_Foster http://dbpedia.org/resource/Hal_Foster
+0,88,G. Roussos,http://dbpedia.org/resource/Demis_Roussos,http://dbpedia.org/resource/George_Roussos
+0,93,G. Baker,http://dbpedia.org/resource/George_Baker_(actor),http://dbpedia.org/resource/George_Baker_(cartoonist)
+0,101,Fred,http://dbpedia.org/resource/Fred_Astaire,http://dbpedia.org/resource/Fred_Othon_Aristides http://dbpedia.org/resource/Fred_Othon_Aristidès http://dbpedia.org/resource/Fred_Aristides http://dbpedia.org/resource/Fred_Aristidès http://dbpedia.org/resource/Fred_(comics) http://dbpedia.org/resource/Fred_(comic_book_artist) http://dbpedia.org/resource/Fred_(cartoonist)
+0,102,F. Robbins,http://dbpedia.org/resource/Jerome_Robbins,http://dbpedia.org/resource/Frank_robbins http://dbpedia.org/resource/Frank_Robbins
+0,104,F. King,http://dbpedia.org/resource/Ferdinand_II_of_Aragon,http://dbpedia.org/resource/Bobby_Make-Believe http://dbpedia.org/resource/Frank_King_(cartoonist)
+0,106,F. S. López,http://dbpedia.org/resource/Francisco_Solano_López,http://dbpedia.org/resource/Francisco_Solano_Lopez_(comics) http://dbpedia.org/resource/Francisco_Solano_López_(comic_book_artist) http://dbpedia.org/resource/Francisco_Solano_Lopez_(comic_book_artist) http://dbpedia.org/resource/Francisco_Solano_López_(comics)
+0,109,F. Hanks,http://dbpedia.org/resource/Tom_Hanks,http://dbpedia.org/resource/Fletcher_Hanks
+0,111,E. Bradbury,http://dbpedia.org/resource/Jack_Bradbury,http://dbpedia.org/resource/Eric_bradbury http://dbpedia.org/resource/Eric_Bradbury
+0,112,E. Caplin,http://dbpedia.org/resource/Charlie_Chaplin,http://dbpedia.org/resource/Elliot_A._Caplin http://dbpedia.org/resource/Elliot_Caplin http://dbpedia.org/resource/Elliott_Caplin
+0,118,D. Wright,http://dbpedia.org/resource/Richard_Wright_(musician),http://dbpedia.org/resource/Doug_Wright_(cartoonist) http://dbpedia.org/resource/Doug_Wright's_Family http://dbpedia.org/resource/Nipper_(Canadian_comics) http://dbpedia.org/resource/Doug_Wright_II http://dbpedia.org/resource/Nipper_(comic_strip)

@@ -1,0 +1,24 @@
+F1: 0.79817,Precision: 0.79817,Recall: 0.79817,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,T. Peterson,http://dbpedia.org/resource/Teodor_Peterson,http://dbpedia.org/resource/Tara_Peterson
+0,3,T. Peterson,http://dbpedia.org/resource/Teodor_Peterson,http://dbpedia.org/resource/Tabitha_Peterson
+0,6,S. O'Connor,http://dbpedia.org/resource/Shane_O'Connor_(skier),http://dbpedia.org/resource/Susan_O'Connor http://dbpedia.org/resource/Susan_oconnor
+0,10,S. Schmidt,http://dbpedia.org/resource/Ulrik_Schmidt,http://dbpedia.org/resource/Stephanie_McVicar http://dbpedia.org/resource/Stephanie_Schmidt
+0,14,S. Clark,http://dbpedia.org/resource/Shepherd_Clark,http://dbpedia.org/resource/Stefanie_Richard http://dbpedia.org/resource/Stefanie_Clark
+0,15,S. Curtis,http://dbpedia.org/resource/Steve_Curtis_(boxer),http://dbpedia.org/resource/Stacie_Devereaux http://dbpedia.org/resource/Stacie_Curtis
+0,21,S. Hardy,http://dbpedia.org/resource/Silas_Hardy,http://dbpedia.org/resource/Shelley_Nichols http://dbpedia.org/resource/Shelley_Hardy
+0,22,S. Adams,http://dbpedia.org/resource/Stewart_Adams,"http://dbpedia.org/resource/Adams,_Shawn http://dbpedia.org/resource/Shawn_Adams"
+0,32,S. Bailey,http://dbpedia.org/resource/Scott_Bailey_(ice_hockey),http://dbpedia.org/resource/Scott_Bailey_(curler)
+0,35,S. Reid,http://dbpedia.org/resource/Scott_Reid_(ice_hockey),http://dbpedia.org/resource/Sarah_Reid_(curler)
+0,36,S. Pyke,http://dbpedia.org/resource/Mike_Pyke,http://dbpedia.org/resource/Sarah_Pyke http://dbpedia.org/resource/Sarah_Wazney
+0,38,S. Preston,http://dbpedia.org/resource/Karen_Preston,http://dbpedia.org/resource/Samantha_Preston
+0,49,R. Campbell,http://dbpedia.org/resource/Richie_Campbell_(water_polo),http://dbpedia.org/resource/Robert_Campbell_(curler)
+0,50,R. Doherty,http://dbpedia.org/resource/Sean_Doherty_(biathlete),http://dbpedia.org/resource/Robbie_Doherty
+0,59,R. Carruthers,http://dbpedia.org/resource/Kitty_Carruthers,http://dbpedia.org/resource/Reid_Carruthers
+0,63,R. Brown,http://dbpedia.org/resource/Robbie_Brown,http://dbpedia.org/resource/Rachelle_Brown http://dbpedia.org/resource/Rachelle_Pidherny
+0,79,N. Roth,http://dbpedia.org/resource/Nicolas_Roth,http://dbpedia.org/resource/Nina_Spatola http://dbpedia.org/resource/Nina_Roth
+0,84,M. Thomas,http://dbpedia.org/resource/Misty_Thomas,http://dbpedia.org/resource/Mitchell_Thomas_(curler)
+0,86,M. McEwen,http://dbpedia.org/resource/Mike_McEwen_(ice_hockey),http://dbpedia.org/resource/Mike_McEwen_(curler)
+0,91,M. Cormier,http://dbpedia.org/resource/Patrice_Cormier,http://dbpedia.org/resource/Megan_Cormier
+0,96,M. Arsenault,http://dbpedia.org/resource/Steve_Arsenault,http://dbpedia.org/resource/Mary-Anne_Arsenault http://dbpedia.org/resource/Mary_Anne_Arsenault
+0,97,M. Ferland,http://dbpedia.org/resource/Micheal_Ferland,http://dbpedia.org/resource/Martin_Ferland

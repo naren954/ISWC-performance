@@ -1,0 +1,4 @@
+"F1: 0.00000","Precision: 0.00000","Recall: 0.00000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"2","1","Abellio Greater Anglia Hertford East Branch Line","http://dbpedia.org/resource/Greater_Anglia_(train_operating_company)","http://dbpedia.org/resource/East_Anglia_(train_operating_company) http://dbpedia.org/resource/Abellio_Greater_Anglia http://dbpedia.org/resource/Abellio_Greater_Anglia_Limited"
+"2","4","Crossrail Line 2","http://dbpedia.org/resource/Crossrail","http://dbpedia.org/resource/Chelney_line http://dbpedia.org/resource/Chelney http://dbpedia.org/resource/Chelsea-Hackney_line http://dbpedia.org/resource/Chelsea_to_Hackney_Line http://dbpedia.org/resource/Chelsea–Hackney_line http://dbpedia.org/resource/King's_Line http://dbpedia.org/resource/Crossrail_2 http://dbpedia.org/resource/Chelsea-Hackney_Line"

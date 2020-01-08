@@ -1,0 +1,25 @@
+F1: 0.57407,Precision: 0.57407,Recall: 0.57407,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,4,G. Sherman,http://dbpedia.org/resource/Vincent_Sherman,http://dbpedia.org/resource/George_Sherman
+2,5,R. Cohen,http://dbpedia.org/resource/Rafaëlle_Cohen,http://dbpedia.org/resource/Bullet_Run_(2014_film) http://dbpedia.org/resource/1950_(film) http://dbpedia.org/resource/Jewel_Of_India http://dbpedia.org/resource/1950_(2013_film) http://dbpedia.org/resource/Bullet_Run_(film) http://dbpedia.org/resource/Rob_Cohen
+2,6,R. Cohen,http://dbpedia.org/resource/Rafaëlle_Cohen,http://dbpedia.org/resource/Bullet_Run_(2014_film) http://dbpedia.org/resource/1950_(film) http://dbpedia.org/resource/Jewel_Of_India http://dbpedia.org/resource/1950_(2013_film) http://dbpedia.org/resource/Bullet_Run_(film) http://dbpedia.org/resource/Rob_Cohen
+2,8,A. Chick,http://dbpedia.org/resource/Chick_Corea,http://dbpedia.org/resource/Austin_Chick
+2,11,B. Ratner,http://dbpedia.org/resource/Marina_Ratner,http://dbpedia.org/resource/Brett_Ratner http://dbpedia.org/resource/Brett_Ratner_videography http://dbpedia.org/resource/Brett_Rattner
+2,13,R. Donner,http://dbpedia.org/resource/Robert_Donner,"http://dbpedia.org/resource/Donner,_Richard http://dbpedia.org/resource/Richard_Donner http://dbpedia.org/resource/Richard_Donald_Schwartzberg http://dbpedia.org/resource/Richard_D._Donner"
+2,14,K. Roache-Turner,http://dbpedia.org/resource/Richmond_K._Turner,http://dbpedia.org/resource/Kiah_Roache-Turner
+2,15,G. Sherman,http://dbpedia.org/resource/Vincent_Sherman,http://dbpedia.org/resource/George_Sherman
+2,16,J. Kane,http://de.dbpedia.org/resource/Joel_Kane,http://dbpedia.org/resource/Joseph_Kane
+2,17,R. Thorpe,http://dbpedia.org/resource/Jeremy_Thorpe,http://dbpedia.org/resource/Rollo_Thorpe http://dbpedia.org/resource/Rollo_Smolt_Thorpe http://dbpedia.org/resource/Richard_Thorpe
+2,20,J. To,http://dbpedia.org/resource/John_Herschel,http://dbpedia.org/resource/Johnnie_To http://dbpedia.org/resource/Du_Qifeng http://dbpedia.org/resource/Johnnie_To_Kei-Fung http://dbpedia.org/resource/Johnny_To
+2,21,E. Emo,http://dbpedia.org/resource/Angelo_Emo,http://dbpedia.org/resource/E.W._Emo http://dbpedia.org/resource/E._W._Emo http://dbpedia.org/resource/Emerich_Walter_Emo http://dbpedia.org/resource/Emo-Film
+2,25,R. Haines,http://dbpedia.org/resource/Richard_Haines,http://dbpedia.org/resource/Randa_Haines
+2,26,F. McDonald,http://dbpedia.org/resource/Francis_McDonald,http://dbpedia.org/resource/Frank_McDonald_(director)
+2,28,E. Carreras,http://dbpedia.org/resource/José_Carreras,http://dbpedia.org/resource/Enrique_Carreras
+2,30,A. Rakoff,http://dbpedia.org/resource/David_Rakoff,http://dbpedia.org/resource/Alvin_Rakoff
+2,33,M. Forster,http://dbpedia.org/resource/Margaret_Forster,http://dbpedia.org/resource/The_Downslope http://dbpedia.org/resource/Marc_Forster http://dbpedia.org/resource/Mike_Forster http://dbpedia.org/resource/Marc_Forster_filmography
+2,35,T. Tetzlaff,http://dbpedia.org/resource/Christian_Tetzlaff,http://dbpedia.org/resource/Ted_Tetzlaff
+2,43,J. McBride,http://dbpedia.org/resource/Will_McBride_(photographer),http://dbpedia.org/resource/Jon_McBride_(filmmaker)
+2,45,P. Jenkins,http://dbpedia.org/resource/Paul_Jenkins_(painter),http://dbpedia.org/resource/Patty_Jenkins
+2,51,G. Wiles,http://dbpedia.org/resource/Andrew_Wiles,http://dbpedia.org/resource/Gordon_Wiles
+2,52,W. Rowland,http://dbpedia.org/resource/Henry_Rowland_(actor),http://dbpedia.org/resource/William_Rowland
+2,53,P. Morrissey,http://dbpedia.org/resource/David_Morrissey,http://dbpedia.org/resource/Paul_Morrissey http://dbpedia.org/resource/Paul_Morrisey

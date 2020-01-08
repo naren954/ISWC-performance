@@ -1,0 +1,9 @@
+F1: 0.56250,Precision: 0.56250,Recall: 0.56250,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,6,J. Kelleher,http://dbpedia.org/resource/John_Kelleher,http://dbpedia.org/resource/Jamesy_Kelleher
+0,8,G. Hughes,http://dbpedia.org/resource/Gwyn_Hughes_(footballer),http://dbpedia.org/resource/Greg_Hughes_(Gaelic_footballer)
+0,9,F. White,"http://dbpedia.org/resource/Fred_White_(footballer,_born_1916)",http://dbpedia.org/resource/Frank_White_(hurler)
+0,10,F. Nelson,http://dbpedia.org/resource/Frank_Nelson_(athlete),http://dbpedia.org/resource/Francis_Nelson
+0,12,E. Byrne,http://dbpedia.org/resource/Emma_Byrne,http://dbpedia.org/resource/Eddie_Byrne_(hurler)
+0,14,C. Ware,http://dbpedia.org/resource/Casper_Ware,"http://dbpedia.org/resource/Charlie_Ware,_Jnr http://dbpedia.org/resource/Charlie_Ware_(hurler,_born_1933)"
+0,15,B. O'Keeffe,http://dbpedia.org/resource/Brian_O'Keeffe,http://dbpedia.org/resource/Bob_O'Keeffe http://dbpedia.org/resource/Bob_O'Keefe

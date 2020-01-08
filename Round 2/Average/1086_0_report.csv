@@ -1,0 +1,26 @@
+F1: 0.74737,Precision: 0.74737,Recall: 0.74737,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,C. Reed,http://dbpedia.org/resource/Chuck_Reed,http://dbpedia.org/resource/Christopher_Reed
+0,3,C. Swartz,http://dbpedia.org/resource/Carl_Swartz,http://dbpedia.org/resource/Christian_Swartz
+0,4,C. McDaniel,http://dbpedia.org/resource/Curtis_McDaniel,http://dbpedia.org/resource/Christian_McDaniel
+0,7,C. Collins,http://dbpedia.org/resource/Cardiss_Collins,http://dbpedia.org/resource/Chris_Collins_(Virginia_politician)
+0,17,C. Holcomb,http://dbpedia.org/resource/Bob_Holcomb,http://dbpedia.org/resource/Charles_Holcomb
+0,26,C. A. Wickliffe,http://dbpedia.org/resource/Robert_Charles_Wickliffe,http://dbpedia.org/resource/Charles_A._Wickliffe http://dbpedia.org/resource/Charles_Wickliffe http://dbpedia.org/resource/Charles_Anderson_Wickliffe
+0,28,C. A. Ray,http://dbpedia.org/resource/Ray_Nagin,http://dbpedia.org/resource/Charles_A._Ray http://dbpedia.org/resource/Charles_Aaron_Ray
+0,37,C. Pouliot,http://dbpedia.org/resource/Charles-Eugène_Pouliot,http://dbpedia.org/resource/Camille-Eugène_Pouliot http://dbpedia.org/resource/Camille_Eugène_Pouliot http://dbpedia.org/resource/Camille-Eugene_Pouliot
+0,40,C. J. Bolin,http://dbpedia.org/resource/Bert_Bolin,"http://dbpedia.org/resource/CJ_Bolin http://dbpedia.org/resource/C._J._Bolin http://dbpedia.org/resource/C.J._""Neal""_Bolin http://dbpedia.org/resource/C.J._Bolin http://dbpedia.org/resource/C_J_Bolin"
+0,47,B. W. Stewart,http://dbpedia.org/resource/John_Wolcott_Stewart,http://dbpedia.org/resource/Brian_W._Stewart
+0,48,B. Paxton,http://dbpedia.org/resource/Joseph_Paxton,http://dbpedia.org/resource/Brady_Paxton
+0,55,B. Miller,http://dbpedia.org/resource/Zell_Miller,http://dbpedia.org/resource/Robert_Joseph_Miller http://dbpedia.org/resource/Bob_Miller_(Nevada_governor)
+0,60,B. Hall,http://dbpedia.org/resource/Sam_B._Hall_Jr.,http://dbpedia.org/resource/Bob_Hall_(Texas_politician) http://dbpedia.org/resource/Bob_Hall_(politician)
+0,62,B. Cohee,http://dbpedia.org/resource/Dick_Cohee,http://dbpedia.org/resource/Bob_Cohee
+0,63,B. Bastian,http://dbpedia.org/resource/Gert_Bastian,http://dbpedia.org/resource/Bob_Bastian
+0,67,B. Guin,,http://dbpedia.org/resource/Billy_Guin
+0,68,B. Workman,http://dbpedia.org/resource/Ritch_Workman,http://dbpedia.org/resource/Bill_Workman
+0,71,B. Killen,http://dbpedia.org/resource/James_Killen,http://dbpedia.org/resource/Bill_Killen http://dbpedia.org/resource/William_Killen_(Idaho_politician) http://dbpedia.org/resource/William_M._Killen
+0,72,B. Garrard,http://dbpedia.org/resource/James_Garrard,http://dbpedia.org/resource/Bill_Garrard
+0,77,B. Adam,http://dbpedia.org/resource/Brian_Adam,http://dbpedia.org/resource/Bidwell_Adam
+0,78,B. Stevenson,http://dbpedia.org/resource/Enrique_C._Basadre_Stevenson,http://dbpedia.org/resource/Bert_Stevenson http://dbpedia.org/resource/John_Stevenson_(Idaho_politician)
+0,79,B. Adams,http://dbpedia.org/resource/Brock_Adams,http://dbpedia.org/resource/Bert_Adams_(Louisiana_politician) http://dbpedia.org/resource/Bert_Adams_(politician)
+0,87,"Austin Van Catterton, Sr.",http://dbpedia.org/resource/Austin_Van_Catterton_Sr.,"http://dbpedia.org/resource/Austin_Van_Catterton,_Sr http://dbpedia.org/resource/Austin_Van_Catterton,_Sr."
+0,91,A. Williams,http://dbpedia.org/resource/Andrew_Williams_(congressman),http://dbpedia.org/resource/Arnold_Williams_(American_politician)

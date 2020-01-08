@@ -1,0 +1,12 @@
+F1: 0.83333,Precision: 0.83333,Recall: 0.83333,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,Lost Angels,http://dbpedia.org/resource/Home_Alone_2:_Lost_in_New_York,http://dbpedia.org/resource/Lost_Angels_(1989_film) http://dbpedia.org/resource/Lost_Angels
+1,20,Kiss of Death,http://dbpedia.org/resource/Kiss_of_Death_(1947_film),http://dbpedia.org/resource/Kiss_of_Death_(1995_movie) http://dbpedia.org/resource/Kiss_of_Death_(1995_film) http://dbpedia.org/resource/Kiss_of_Death_(1994) http://dbpedia.org/resource/Kiss_of_Death_(1995)
+1,36,Coming Soon,http://dbpedia.org/resource/Coming_Soon_(1982_film),http://dbpedia.org/resource/Coming_Soon_(1999_film)
+1,57,Delirious,http://dbpedia.org/resource/Delirious_(1991_film),http://dbpedia.org/resource/Delirious_(2006_film)
+1,67,Nick and Norah's Infinite Playlist,http://dbpedia.org/resource/Nick_&_Norah's_Infinite_Playlist,http://dbpedia.org/resource/Nick_and_Norah's_Infinite_Playlist
+1,69,Big Fan,http://dbpedia.org/resource/The_Big_Man,http://dbpedia.org/resource/Big_fan http://dbpedia.org/resource/Big_fan_(film) http://dbpedia.org/resource/Big_Fan_(2008_film) http://dbpedia.org/resource/Quantrell_Bishop http://dbpedia.org/resource/Big_Fan
+1,70,2B,http://dbpedia.org/resource/2B_(band),http://dbpedia.org/resource/2B_-_The_Era_of_Flesh_Is_Over http://dbpedia.org/resource/2B_–_The_Era_of_Flesh_Is_Over http://dbpedia.org/resource/2B_-_The_Era_of_Flesh_is_Over http://dbpedia.org/resource/Transbeman http://dbpedia.org/resource/2B_(film) http://dbpedia.org/resource/2B_–_The_Era_of_Flesh_is_Over
+1,74,Today's Special,http://dbpedia.org/resource/Today's_Special_(film),http://dbpedia.org/resource/Today's_Special_(2009_film)
+1,82,The Chaperone,http://dbpedia.org/resource/The_Chaperones,http://dbpedia.org/resource/The_Chaperone_(film)
+1,89,Results,http://dbpedia.org/resource/Results_(album),http://dbpedia.org/resource/Results_(film)

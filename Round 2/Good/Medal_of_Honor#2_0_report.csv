@@ -1,0 +1,6 @@
+F1: 0.78947,Precision: 0.78947,Recall: 0.78947,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,John Cooper,http://dbpedia.org/resource/John_Cooper_(British_Army_officer),http://dbpedia.org/resource/John_Laver_Mather_Cooper http://dbpedia.org/resource/John_L.M._Cooper http://dbpedia.org/resource/John_L._M._Cooper http://dbpedia.org/resource/John_Laver_Mather
+0,9,John J. Kelly,http://dbpedia.org/resource/John_D._Kelly_(Korean_War_soldier),http://dbpedia.org/resource/John_J._Kelly http://dbpedia.org/resource/John_Joseph_Kelly
+0,10,John King,http://dbpedia.org/resource/Charles_XIV_John_of_Sweden,http://dbpedia.org/resource/John_King_(Medal_of_Honor) http://dbpedia.org/resource/John_King_(sailor)
+0,19,William Wilson,http://dbpedia.org/resource/Charles_William_Wilson,http://dbpedia.org/resource/William_Wilson_(Medal_of_Honor) http://dbpedia.org/resource/William_Wilson_(soldier)

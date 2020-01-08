@@ -1,0 +1,18 @@
+F1: 0.87786,Precision: 0.87786,Recall: 0.87786,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,16,The Volcano,http://dbpedia.org/resource/Soufrière_Hills,http://dbpedia.org/resource/Lava_Fork_volcano http://dbpedia.org/resource/The_Volcano_(British_Columbia) http://dbpedia.org/resource/Lava_Fork_vent
+0,28,Pyramid Mountain,http://dbpedia.org/resource/Pyramid_Mountain_(Alberta),http://dbpedia.org/resource/Pyramid_Mountain_(Wells_Gray-Clearwater) http://dbpedia.org/resource/Pyramid_Mountain_(volcano)
+0,44,Mount Yoko,http://dbpedia.org/resource/Mount_Yoko_(Southern_Yatsugatake),http://dbpedia.org/resource/Mount_Yoko_(Northern_Yatsugatake http://dbpedia.org/resource/Mount_Yoko_(Northern_Yatsugatake)
+0,53,Mount Tokachi,http://dbpedia.org/resource/Mount_Tokachi_(Hidaka),http://dbpedia.org/resource/Mount_Tokachi_(Daisetsuzan)
+0,66,Mount Scott,"http://dbpedia.org/resource/Mount_Scott_(Klamath_County,_Oregon)","http://dbpedia.org/resource/Mount_Scott_(Clackamas_County,_Oregon)"
+0,84,Mount Meager,http://dbpedia.org/resource/Mount_Meager_massif,http://dbpedia.org/resource/Meager_mountain http://dbpedia.org/resource/Mount_Meager_volcanic_complex http://dbpedia.org/resource/Meager_Group http://dbpedia.org/resource/Meager_Volcanic_Complex http://dbpedia.org/resource/Meager_Mountain http://dbpedia.org/resource/Meager_Creek_volcanic_complex http://dbpedia.org/resource/Meager_Massif http://dbpedia.org/resource/Meagher_Mountain http://dbpedia.org/resource/Meagre_Mountain http://dbpedia.org/resource/Mount_Meagre http://dbpedia.org/resource/Meager_Creek_volcanic_field http://dbpedia.org/resource/Mount_Meager http://dbpedia.org/resource/Mount_Meagher
+0,86,Mount Mazama,http://dbpedia.org/resource/Crater_Lake,http://dbpedia.org/resource/Mt._Mazama http://dbpedia.org/resource/Mount_Mazama
+0,88,Mount Maru,http://dbpedia.org/resource/Mount_Maru_(Kamishihoro-Shintoku),http://dbpedia.org/resource/Mount_Maru_(Esan)
+0,101,Mount Kamui,http://dbpedia.org/resource/Mount_Kamui_(Urakawa-Hiroo),http://dbpedia.org/resource/Mount_Kamui_(Lake_Mashū_caldera) http://dbpedia.org/resource/Kamuinupuri http://dbpedia.org/resource/Mount_Kamui_(Lake_Mashu_caldera)
+0,105,Mount Iō,http://dbpedia.org/resource/Mount_Iō_(Akan),http://dbpedia.org/resource/Mount_Io_(Shiretoko) http://dbpedia.org/resource/Mount_Iō_(Shiretoko)
+0,106,Mount Iō,http://dbpedia.org/resource/Mount_Iō_(Akan),http://dbpedia.org/resource/Mount_Iō_(Iōjima) http://dbpedia.org/resource/Mount_Io_(Iojima)
+0,108,Mount Iō,http://dbpedia.org/resource/Mount_Iō_(Akan),http://dbpedia.org/resource/Mount_Io_(Shiretoko) http://dbpedia.org/resource/Mount_Iō_(Shiretoko)
+0,109,Mount Iō,http://dbpedia.org/resource/Mount_Iō_(Akan),http://dbpedia.org/resource/Mount_Iō_(Iōjima) http://dbpedia.org/resource/Mount_Io_(Iojima)
+0,118,Mount Emmons,http://dbpedia.org/resource/Mount_Emmons_(Colorado),http://dbpedia.org/resource/Emmons_Lake http://dbpedia.org/resource/Mount_Emmons_(Alaska)
+0,123,Mount E,http://dbpedia.org/resource/Mount_Everest,http://dbpedia.org/resource/E-san http://dbpedia.org/resource/Mount_Esan http://dbpedia.org/resource/Mount_E
+0,130,Mount Church,http://dbpedia.org/resource/Mount_Church_(Idaho),http://dbpedia.org/resource/Mount_Church_(Alaska)

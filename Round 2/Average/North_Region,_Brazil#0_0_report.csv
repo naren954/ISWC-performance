@@ -1,0 +1,4 @@
+F1: 0.71429,Precision: 0.71429,Recall: 0.71429,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,6,Rio Branco,"http://dbpedia.org/resource/José_Paranhos,_Baron_of_Rio_Branco","http://dbpedia.org/resource/Rio_Branco,_Acre http://dbpedia.org/resource/Rio_Branco_(Brazil)"
+0,7,SantarÃ©m,http://dbpedia.org/resource/Portugal,"http://dbpedia.org/resource/Santarém,_Brazil"

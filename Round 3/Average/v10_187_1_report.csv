@@ -1,0 +1,26 @@
+F1: 0.74194,Precision: 0.74194,Recall: 0.74194,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,6,Call to Arms,http://dbpedia.org/resource/Call_to_Arms_(Saxon_album),http://dbpedia.org/resource/Call_to_Arms_(Sick_of_It_All_album)
+1,10,Solved EP,http://dbpedia.org/resource/Solved_(EP),http://dbpedia.org/resource/Solved_EP
+1,12,Voyage,http://dbpedia.org/resource/Voyage_(Ayumi_Hamasaki_song),http://dbpedia.org/resource/Voyage_EP http://dbpedia.org/resource/Voyage_(EP) http://dbpedia.org/resource/Voyage_(In_Fear_and_Faith_EP)
+1,19,'Till I Get My Way/Girl Is On My Mind,http://dbpedia.org/resource/'Till_I_Get_My_Way_/_Girl_Is_on_My_Mind,http://dbpedia.org/resource/'Till_I_Get_My_Way/Girl_Is_On_My_Mind http://dbpedia.org/resource/Till_I_Get_My_Way http://dbpedia.org/resource/Girl_Is_On_My_Mind http://dbpedia.org/resource/'Till_I_Get_My_Way/Girl_Is_on_My_Mind
+1,23,In Japan!,http://dbpedia.org/resource/Maiden_Japan,http://dbpedia.org/resource/In_Japan!_(Buck_Owens_album)
+1,24,1983,http://es.dbpedia.org/resource/1983_(Melvins_EP),http://dbpedia.org/resource/1983_(song)
+1,31,Brave New World,http://dbpedia.org/resource/Brave_New_World_(song),http://dbpedia.org/resource/Brave_New_World_(Steve_Miller_album) http://dbpedia.org/resource/Brave_New_World_(Steve_Miller_Band_album)
+1,33,There You Have It,http://dbpedia.org/resource/There_You_Have_It_(song),http://dbpedia.org/resource/There_You_Have_It
+1,39,Fox on the Run,http://dbpedia.org/resource/Fox_on_the_Run_(Sweet_song),http://dbpedia.org/resource/Fox_on_the_Run_(Manfred_Mann_song) http://dbpedia.org/resource/Fox_on_the_Run_(bluegrass_song)
+1,41,Long Black Train,http://dbpedia.org/resource/Long_Black_Train_(song),http://dbpedia.org/resource/She'll_Go_on_You http://dbpedia.org/resource/She'll_Go_On_You http://dbpedia.org/resource/Long_Black_Train
+1,47,The Sound,http://dbpedia.org/resource/The_Sound_of_Madness,http://dbpedia.org/resource/The_Sound_(John_M._Perkins_Blues) http://dbpedia.org/resource/The_Sound_(John_M._Perkins'_Blues)
+1,49,When I'm Gone,http://dbpedia.org/resource/When_I'm_Gone_(Eminem_song),http://dbpedia.org/resource/When_I'm_Gone_(Simple_Plan_song)) http://dbpedia.org/resource/When_I'm_Gone_(Simple_Plan_song)
+1,51,Piece of My Heart,http://dbpedia.org/resource/Piece_of_My_Heart_(Tara_Kemp_song),http://dbpedia.org/resource/Piece_of_My_Heart_(song) http://dbpedia.org/resource/Piece_Of_My_Heart http://dbpedia.org/resource/Piece_of_my_Heart http://dbpedia.org/resource/Piece_of_my_heart http://dbpedia.org/resource/Take_Another_Piece_of_My_Heart http://dbpedia.org/resource/Piece_of_My_Heart_(Erma_Franklin_song) http://dbpedia.org/resource/Another_Piece_of_My_Heart http://dbpedia.org/resource/Piece_of_My_Heart
+1,54,If I Wanted To,http://dbpedia.org/resource/(If_Loving_You_Is_Wrong)_I_Don't_Want_to_Be_Right,http://dbpedia.org/resource/If_I_Wanted_To
+1,55,Yes I Am,http://dbpedia.org/resource/Yes_I_Am_(song),http://dbpedia.org/resource/If_I_Only_Wanted_To http://dbpedia.org/resource/Yes_I_Am_(Melissa_Etheridge_album)
+1,59,Kiss and Swallow,http://dbpedia.org/resource/Kiss_+_Swallow,http://dbpedia.org/resource/Kiss_and_Swallow_(song)
+1,60,Alone,http://dbpedia.org/resource/Alone_(Heart_song),http://dbpedia.org/resource/Alone_(Evan_Brewer_album)
+1,63,False Pretense,http://it.dbpedia.org/resource/False_Pretense,http://dbpedia.org/resource/False_Pretense http://dbpedia.org/resource/Don't_You_Fake_It http://dbpedia.org/resource/Damn_Regret
+1,65,The Spirit of Christmas,http://dbpedia.org/resource/The_Spirit_of_Christmas_(Michael_W._Smith_album),http://dbpedia.org/resource/The_Spirit_of_Christmas_(Chuck_Brown_album)
+1,74,Voodoo Cowboy,http://dbpedia.org/resource/Voodoo_People_/_Out_of_Space,http://dbpedia.org/resource/Voodoo_Cowboy
+1,75,I'll Never Get Out of This World Alive,http://dbpedia.org/resource/I'll_Never_Get_Out_of_This_World_Alive_(album),http://dbpedia.org/resource/I'll_Never_Get_Out_Of_This_World_Alive http://dbpedia.org/resource/I'll_Never_Get_Out_of_This_World_Alive
+1,76,No Such Thing,http://dbpedia.org/resource/No_Such_Thing_(Chris_Cornell_song),http://dbpedia.org/resource/No_Such_Thing_(John_Mayer_song)
+1,83,Tell Me Why,http://dbpedia.org/resource/Tell_Me_Why_(Wynonna_Judd_song),http://dbpedia.org/resource/Tell_Me_Why_(Expose_song) http://dbpedia.org/resource/Tell_Me_Why_(Exposé_song)
+1,93,The Blue Hearts,http://dbpedia.org/resource/Yume_(The_Blue_Hearts_song),http://dbpedia.org/resource/The_Blue_Hearts_(album)

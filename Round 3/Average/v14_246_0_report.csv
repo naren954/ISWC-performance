@@ -1,0 +1,14 @@
+F1: 0.75000,Precision: 0.75000,Recall: 0.75000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,8,Up in the World,http://dbpedia.org/resource/Blow_Up_the_Outside_World,http://dbpedia.org/resource/Up_in_the_World
+0,10,Up in Smoke,http://dbpedia.org/resource/Up_in_Smoke,http://dbpedia.org/resource/Up_in_Smoke_(1957_film) http://dbpedia.org/resource/Up_In_Smoke_(1957_film)
+0,14,Up for the Cup,http://dbpedia.org/resource/Up_for_the_Cup_(1931_film),http://dbpedia.org/resource/Up_for_the_Cup_(1950_film)
+0,19,Up!,"http://dbpedia.org/resource/Up,_Up_and_Away_(film)",http://dbpedia.org/resource/Up!_(movie) http://dbpedia.org/resource/Up!_(1976_film)
+0,21,Untitled Darren Aronofsky project,http://uk.dbpedia.org/resource/Пила_(2020),http://dbpedia.org/resource/Day_6_(film) http://dbpedia.org/resource/Untitled_Darren_Aronofsky_project http://dbpedia.org/resource/Untitled_Darren_Aronofsky_Project
+0,22,Untitled AR Murugadoss film,http://dbpedia.org/resource/Akira_(2016_Hindi_film),http://dbpedia.org/resource/AR_Murugadoss_Untitled_Project http://dbpedia.org/resource/Untitled_AR_Murugadoss_film
+0,29,Untamed,http://dbpedia.org/resource/Untamed_(1955_film),http://dbpedia.org/resource/Untamed_(1929_movie) http://dbpedia.org/resource/Untamed_(1929_film)
+0,40,Unmasked,http://dbpedia.org/resource/Occupy_Unmasked,http://dbpedia.org/resource/Unmasked_(film)
+0,41,Unleashed,http://dbpedia.org/resource/Scooby-Doo_2:_Monsters_Unleashed,http://dbpedia.org/resource/Unleased_(film) http://dbpedia.org/resource/Unleashed_(soundtrack) http://dbpedia.org/resource/Danny_The_Dog http://dbpedia.org/resource/Unleashed_(movie) http://dbpedia.org/resource/Danny_the_Dog_(movie) http://dbpedia.org/resource/Danny_The_Dog_Soundtrack http://dbpedia.org/resource/Danny_The_Dog_(soundtrack) http://dbpedia.org/resource/Unleashed_(2005_film) http://dbpedia.org/resource/Unleashed_(film) http://dbpedia.org/resource/Danny_the_Dog_(film) http://dbpedia.org/resource/Danny_the_Dog_(soundtrack) http://dbpedia.org/resource/Danny_the_Dog
+0,44,Unknown Men of San Marino,http://dbpedia.org/resource/Unknown_Man_of_San_Marino,http://dbpedia.org/resource/Unknown_Men_of_San_Marino http://dbpedia.org/resource/Lo_Sconosciuto_di_San_Marino
+0,46,Universe,http://dbpedia.org/resource/Stargate_Universe,http://dbpedia.org/resource/Universe_(1960_film)
+0,48,Universal Soldier,http://dbpedia.org/resource/Universal_Soldier_(1992_film),http://dbpedia.org/resource/Universal_soldier_(1971) http://dbpedia.org/resource/Universal_Soldier_(1971_film)

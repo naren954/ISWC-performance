@@ -1,0 +1,4 @@
+F1: 0.88235,Precision: 0.88235,Recall: 0.88235,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,9,Drew Daywalt and Oliver Jeffers,http://dbpedia.org/resource/Oliver_Jeffers,http://dbpedia.org/resource/Drew_Daywalt http://dbpedia.org/resource/The_Day_the_Crayons_Quit
+1,14,Jeff Kinney,http://dbpedia.org/resource/Jeff_Kinney_(author),http://dbpedia.org/resource/Jeff_Kinney http://dbpedia.org/resource/Jeff_Kinney_(disambiguation) http://dbpedia.org/resource/Jeffrey_Kinney

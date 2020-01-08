@@ -1,0 +1,8 @@
+"F1: 0.72727","Precision: 0.72727","Recall: 0.72727"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","5","Titan IIIC","http://dbpedia.org/resource/Titan_(rocket_family)","http://dbpedia.org/resource/The_Titan_IIIC http://dbpedia.org/resource/Titan_III-C http://dbpedia.org/resource/Titan_IIIC"
+"0","6","Titan IIIB","http://dbpedia.org/resource/Titan_(rocket_family)","http://dbpedia.org/resource/Titan_IIIB http://dbpedia.org/resource/Titan_23B"
+"0","14","H-II","http://dbpedia.org/resource/H-IIA","http://dbpedia.org/resource/H-II_rocket http://dbpedia.org/resource/H-II"
+"0","16","Falcon 1","http://dbpedia.org/resource/Falcon_9","http://dbpedia.org/resource/Falcon-I http://dbpedia.org/resource/SpaceX_Falcon_I http://dbpedia.org/resource/SpaceX_Falcon_1 http://dbpedia.org/resource/Falcon_1_Maiden_Flight http://dbpedia.org/resource/Space_X's_Falcon_I http://dbpedia.org/resource/Falcon-1 http://dbpedia.org/resource/Falcon_1 http://dbpedia.org/resource/Falcon_I http://dbpedia.org/resource/Falcon_1_Inaugural_Flight http://dbpedia.org/resource/Falcon_1_second-stage"
+"0","17","Delta III","http://dbpedia.org/resource/Delta-class_submarine","http://dbpedia.org/resource/Delta-III http://dbpedia.org/resource/Delta_III_rocket http://dbpedia.org/resource/Delta_iii_rocket http://dbpedia.org/resource/Delta_8000 http://dbpedia.org/resource/Delta_III"
+"0","22","Ariane 1","http://dbpedia.org/resource/Ariane_5","http://dbpedia.org/resource/Ariane_I http://dbpedia.org/resource/Ariane_1"

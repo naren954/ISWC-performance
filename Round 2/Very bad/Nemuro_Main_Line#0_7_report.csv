@@ -1,0 +1,6 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+7,10,Furano,http://dbpedia.org/resource/Furan,http://dbpedia.org/resource/Furano_Station
+7,27,Obihiro,"http://dbpedia.org/resource/Obihiro,_Hokkaido",http://dbpedia.org/resource/Obihiro_Station
+7,49,Kushiro,http://dbpedia.org/resource/Kushiro_River,http://dbpedia.org/resource/Kushiro_Station_(Hokkaidō) http://dbpedia.org/resource/Kushiro_Station_(Hokkaido)
+7,69,Nemuro,http://dbpedia.org/resource/Nemuro_Subprefecture,http://dbpedia.org/resource/Nemuro_Station

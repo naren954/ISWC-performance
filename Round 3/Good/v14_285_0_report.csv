@@ -1,0 +1,5 @@
+F1: 0.78571,Precision: 0.78571,Recall: 0.78571,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,8,Africa,http://dbpedia.org/resource/Big_Brother_Africa,http://dbpedia.org/resource/Africa_(TV_Series) http://dbpedia.org/resource/Africa_(TV_series) http://dbpedia.org/resource/Africa_(BBC_documentary_series)
+0,10,A to Z,http://dbpedia.org/resource/Disney_A_to_Z,http://dbpedia.org/resource/A_to_Z_(TV_series)
+0,12,A Boy Named Charlie Brown,http://dbpedia.org/resource/A_Boy_Named_Charlie_Brown,http://dbpedia.org/resource/A_Boy_Named_Charlie_Brown_(documentary) http://dbpedia.org/resource/A_Boy_Named_Charlie_Brown_(1965_film) http://dbpedia.org/resource/A_Boy_Named_Charlie_Brown_(1963_film) http://dbpedia.org/resource/A_Boy_Named_Charlie_Brown_(1963_TV_special) http://dbpedia.org/resource/A_Boy_Named_Charlie_Brown_(TV_special) http://dbpedia.org/resource/A_Boy_Named_Charlie_Brown_(album) http://dbpedia.org/resource/A_Boy_Named_Charlie_Brown_(TV_program)

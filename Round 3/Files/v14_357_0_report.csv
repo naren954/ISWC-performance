@@ -1,0 +1,5 @@
+"F1: 0.89655","Precision: 0.89655","Recall: 0.89655"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","7","1935 Swiss Grand Prix","http://dbpedia.org/resource/1937_Swiss_Grand_Prix","http://dbpedia.org/resource/1935_Swiss_Grand_Prix"
+"0","12","1934 Swiss Grand Prix","http://dbpedia.org/resource/1937_Swiss_Grand_Prix","http://dbpedia.org/resource/1934_Swiss_Grand_Prix"
+"0","18","1933 French Grand Prix","http://dbpedia.org/resource/1933_Monaco_Grand_Prix","http://dbpedia.org/resource/1933_French_Grand_Prix"

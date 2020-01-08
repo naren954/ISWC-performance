@@ -1,0 +1,4 @@
+F1: 0.87500,Precision: 0.87500,Recall: 0.87500,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,24,Big Daddy,http://dbpedia.org/resource/Big_Daddy_(John_Mellencamp_album),http://dbpedia.org/resource/Big_Daddy_(album) http://dbpedia.org/resource/Sometimes_a_Great_Notion_(song)
+2,30,Hysteria,http://dbpedia.org/resource/Hysteria_(The_Human_League_album),http://dbpedia.org/resource/Gods_of_War_(song) http://dbpedia.org/resource/Run_Riot http://dbpedia.org/resource/Hysteria_(Def_Leppard_album) http://dbpedia.org/resource/Don't_Shoot_Shotgun

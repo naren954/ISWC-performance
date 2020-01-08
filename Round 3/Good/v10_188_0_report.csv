@@ -1,0 +1,37 @@
+F1: 0.78261,Precision: 0.78261,Recall: 0.78261,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Young and Free,"http://dbpedia.org/resource/Young,_Wild_&_Free",http://dbpedia.org/resource/Young_and_Free
+0,8,Young Maverick,http://dbpedia.org/resource/The_Mavericks_(2003_album),http://dbpedia.org/resource/Young_Maverick
+0,15,Young Love,http://dbpedia.org/resource/Young_Love_(Strong_Love),http://dbpedia.org/resource/Down_(Mat_Kearney_song) http://dbpedia.org/resource/Ships_in_the_Night http://dbpedia.org/resource/Young_Love_(Mat_Kearney_album) http://dbpedia.org/resource/Ships_In_the_Night http://dbpedia.org/resource/Hey_Mama_(Mat_Kearney_song)
+0,16,Young Love,http://dbpedia.org/resource/Young_Love_(Strong_Love),http://dbpedia.org/resource/Young_Love_(Kip_Moore_song)
+0,17,Young Love,http://dbpedia.org/resource/Young_Love_(Strong_Love),http://dbpedia.org/resource/Young_Love_(Jedward_song)
+0,18,Young Love,http://dbpedia.org/resource/Young_Love_(Strong_Love),http://dbpedia.org/resource/Young_Love_(Jedward_album)
+0,31,Young Blood,http://dbpedia.org/resource/Young_Blood_(Norah_Jones_song),http://dbpedia.org/resource/Young_Blood_(Coasters) http://dbpedia.org/resource/Young_Blood_(The_Coasters_song)
+0,33,Young Americans,http://dbpedia.org/resource/Young_Americans_(song),http://dbpedia.org/resource/Somebody_Up_There_Likes_Me_(song) http://dbpedia.org/resource/Young_Americans_(David_Bowie) http://dbpedia.org/resource/It's_Gonna_Be_Me_(Bowie_song) http://dbpedia.org/resource/Can_You_Hear_Me?_(David_Bowie_song) http://dbpedia.org/resource/Win_(Bowie_song) http://dbpedia.org/resource/Win_(David_Bowie_song) http://dbpedia.org/resource/Who_Can_I_Be_Now? http://dbpedia.org/resource/Right_(David_Bowie_song) http://dbpedia.org/resource/Young_Americans_(film) http://dbpedia.org/resource/Right_(Bowie_song) http://dbpedia.org/resource/It's_Gonna_Be_Me_(David_Bowie_song) http://dbpedia.org/resource/Young_Americans http://dbpedia.org/resource/Right_(song) http://dbpedia.org/resource/Young_Americans_(album)
+0,34,Young,http://dbpedia.org/resource/Neil_Young,http://dbpedia.org/resource/Young_(Kenny_Chesney_song)
+0,35,Young,http://dbpedia.org/resource/Neil_Young,http://dbpedia.org/resource/Young_(Hollywood_Undead_song) http://dbpedia.org/resource/Young_(Hollywood_Undead_Song)
+0,50,You are Mine,http://dbpedia.org/resource/You_Were_Mine,http://dbpedia.org/resource/You_are_Mine
+0,56,You and You Alone,http://dbpedia.org/resource/You_and_You_Alone_(song),http://dbpedia.org/resource/You_and_You_Alone_(album)
+0,59,You and Me Against the World,http://dbpedia.org/resource/You_and_Me_Against_the_World_(song),http://dbpedia.org/resource/You_and_Me_Against_the_World
+0,60,You and Me,http://dbpedia.org/resource/You_and_Me_(Lifehouse_song),http://dbpedia.org/resource/You_and_Me_(Tammy_Wynette_song)
+0,62,You and Me,http://dbpedia.org/resource/You_and_Me_(Lifehouse_song),http://dbpedia.org/resource/You_and_Me_(Dave_Matthews_Band_song)
+0,63,You and Me,http://dbpedia.org/resource/You_and_Me_(Lifehouse_song),http://dbpedia.org/resource/You_and_Me_(Alice_Cooper_song)
+0,65,You and I,http://dbpedia.org/resource/You_and_I_(Lady_Gaga_song),http://dbpedia.org/resource/You_and_I_(O'Bryan_album)
+0,66,You and I,http://dbpedia.org/resource/You_and_I_(Lady_Gaga_song),http://dbpedia.org/resource/You_and_I_(Medina_song)
+0,68,You and I,http://dbpedia.org/resource/You_and_I_(Lady_Gaga_song),http://dbpedia.org/resource/You_and_I_(Kenny_Rogers_song)
+0,69,You and I,http://dbpedia.org/resource/You_and_I_(Lady_Gaga_song),http://dbpedia.org/resource/You_And_I_(Dennis_Wilson_song) http://dbpedia.org/resource/You_and_I_(Dennis_Wilson_song)
+0,70,You and I,http://dbpedia.org/resource/You_and_I_(Lady_Gaga_song),http://dbpedia.org/resource/You_and_I_(Celine_Dion_song) http://dbpedia.org/resource/You_and_I_(Céline_Dion_song)
+0,77,You Win Again,http://dbpedia.org/resource/You_Win_Again_(Mary_Chapin_Carpenter_song),http://dbpedia.org/resource/You_Win_Again_(album)
+0,79,You Win Again,http://dbpedia.org/resource/You_Win_Again_(Mary_Chapin_Carpenter_song),http://dbpedia.org/resource/You_Win_Again_(Hank_Williams_song)
+0,80,You Win Again,http://dbpedia.org/resource/You_Win_Again_(Mary_Chapin_Carpenter_song),http://dbpedia.org/resource/You_Win_Again_(Bee_Gees_song) http://dbpedia.org/resource/You_Win_Again_(Bee_Gees)
+0,86,You Will,http://dbpedia.org/resource/Say_You_Will_(album),http://dbpedia.org/resource/You_Will_(song) http://dbpedia.org/resource/You_Will_(Patty_Loveless_song)
+0,87,You Were Right,http://dbpedia.org/resource/You_Know_You're_Right,http://dbpedia.org/resource/You_Were_Right_(Brendan_Benson_album)
+0,88,You Were Never Alone,http://dbpedia.org/resource/You'll_Never_Be_Alone,http://dbpedia.org/resource/You_Were_Never_Alone
+0,91,You Were Here,http://dbpedia.org/resource/Wish_You_Were_Here_(Incubus_song),http://dbpedia.org/resource/You_Were_Here
+0,101,You Used to Love Me,http://dbpedia.org/resource/You_Used_to_Love_Me,http://dbpedia.org/resource/You_Used_to_Love_Me_(Faith_Evans_song)
+0,117,You Still Got Me,http://dbpedia.org/resource/You_Really_Got_Me,http://dbpedia.org/resource/You_Still_Got_Me
+0,126,You Should Be My Girl,http://dbpedia.org/resource/Stars_on_45_(song),http://dbpedia.org/resource/You_Should_Be_My_Girl
+0,127,You Should Be Mine,http://dbpedia.org/resource/You_Should_Be_Mine_(The_Woo_Woo_Song),http://dbpedia.org/resource/You_Should_Be_Mine_(Don't_Waste_Your_Time) http://dbpedia.org/resource/You_Should_Be_Mine
+0,129,You Should Be Here,http://dbpedia.org/resource/You_Should_Be_Here_(Cole_Swindell_song),http://dbpedia.org/resource/You_Should_Be_Here_(Cole_Swindell_album) http://dbpedia.org/resource/You_Should_Be_Here_(album) http://dbpedia.org/resource/Middle_of_A_Memory
+0,149,You Owe Me,http://dbpedia.org/resource/You_Owe_Me_(Nas_song),http://dbpedia.org/resource/You_Owe_Me
+0,161,You Need a Mess of Help to Stand Alone,http://dbpedia.org/resource/You_Need_a_Mess_of_Help_to_Stand_Alone_(album),http://dbpedia.org/resource/You_Need_A_Mess_Of_Help_To_Stand_Alone_(song) http://dbpedia.org/resource/You_Need_A_Mess_of_Help_To_Stand_Alone_(song) http://dbpedia.org/resource/You_Need_a_Mess_of_Help_to_Stand_Alone_(song)

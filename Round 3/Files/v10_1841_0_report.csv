@@ -1,0 +1,8 @@
+"F1: 0.90164","Precision: 0.90164","Recall: 0.90164"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","13","S. Hjalmarsson","http://dbpedia.org/resource/Niklas_Hjalmarsson","http://dbpedia.org/resource/Simon_Hjalmarsson"
+"0","15","S. Fernholm","http://dbpedia.org/resource/Daniel_Fernholm","http://dbpedia.org/resource/Simon_Fernholm"
+"0","29","S. Collymore","http://fr.dbpedia.org/resource/Shawn_Collymore","http://dbpedia.org/resource/Shawn_Collymore"
+"0","35","S. Jones","http://dbpedia.org/resource/Scott_Jones_(Puerto_Rican_footballer)","http://dbpedia.org/resource/Seth_Jones_(ice_hockey)"
+"0","53","S. Varlamov","http://dbpedia.org/resource/Serhiy_Varlamov","http://dbpedia.org/resource/Semen_Varlamov http://dbpedia.org/resource/Simeon_Varlamov http://dbpedia.org/resource/Simyon_Varlamov http://dbpedia.org/resource/Simon_Varlamov http://dbpedia.org/resource/Semyon_Varlamov http://dbpedia.org/resource/Simeon_Aleksandrovich_Varlamov"
+"0","57","S. Aho","http://dbpedia.org/resource/Sebastian_Aho","http://dbpedia.org/resource/Sebastian_Aho_(ice_hockey,_born_1997)"

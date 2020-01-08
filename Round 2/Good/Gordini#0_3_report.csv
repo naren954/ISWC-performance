@@ -1,0 +1,6 @@
+F1: 0.92308,Precision: 0.92308,Recall: 0.92308,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,18,Robert O'Brien,http://dbpedia.org/resource/Robert_O'Brien_(racing_driver),http://dbpedia.org/resource/Robert_O'Brien_(auto_racer)
+3,33,Ã\u0089lie Bayol,http://dbpedia.org/resource/Upgrade_U,http://dbpedia.org/resource/Élie_Bayol
+3,42,Ã\u0089lie Bayol,http://dbpedia.org/resource/Upgrade_U,http://dbpedia.org/resource/Élie_Bayol
+3,52,Ã\u0089lie Bayol,http://dbpedia.org/resource/Upgrade_U,http://dbpedia.org/resource/Élie_Bayol

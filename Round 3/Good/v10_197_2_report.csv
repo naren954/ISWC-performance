@@ -1,0 +1,4 @@
+F1: 0.81818,Precision: 0.81818,Recall: 0.81818,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,8,Lou Adler,http://dbpedia.org/resource/Lou_Adler_(journalist),"http://dbpedia.org/resource/Adler,_Lou http://dbpedia.org/resource/Lou_Adler"
+2,10,Colin Richardson,http://dbpedia.org/resource/Colin_Richardson_(cricketer),http://dbpedia.org/resource/Colin_Richardson

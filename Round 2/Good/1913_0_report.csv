@@ -1,0 +1,5 @@
+F1: 0.92857,Precision: 0.92857,Recall: 0.92857,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,13,Hothouses,http://dbpedia.org/resource/Hothouse_(novel),http://dbpedia.org/resource/Hot-houses http://dbpedia.org/resource/Hot_houses http://dbpedia.org/resource/Hothouses http://dbpedia.org/resource/Serres_chaudes http://dbpedia.org/resource/Hot_House_Blooms
+0,19,Ghosts,http://dbpedia.org/resource/Ghosts_(Banville_novel),http://dbpedia.org/resource/Ghosts_(Aira_novel)
+0,28,Dance Dance Dance,"http://dbpedia.org/resource/Dance,_Dance,_Dance_(song)","http://dbpedia.org/resource/Dansu,_dansu,_dansu http://dbpedia.org/resource/Dance_Dance_Dance_(novel) http://dbpedia.org/resource/Dansu_dansu_dansu"

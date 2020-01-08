@@ -1,0 +1,10 @@
+F1: 0.86207,Precision: 0.86207,Recall: 0.86207,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,5,T. Morgan,http://dbpedia.org/resource/Thomas_Morgan_(bassist),http://dbpedia.org/resource/Kevin_Roper http://dbpedia.org/resource/Astronaut_Jones http://dbpedia.org/resource/Tracy_Morgan http://dbpedia.org/resource/Tracie_Morgan http://dbpedia.org/resource/Astronaut_jones http://dbpedia.org/resource/Tracy_Jamal_Morgan http://dbpedia.org/resource/Tracey_Morgan
+0,7,T. Segura,http://es.dbpedia.org/resource/Clara_Segura,"http://dbpedia.org/resource/Tom_Segura http://dbpedia.org/resource/""Tom_Segura:_Completely_Normal"" http://dbpedia.org/resource/Tom_Segura:_Completely_Normal"
+0,9,S. Moore,http://dbpedia.org/resource/Julianne_Moore,http://dbpedia.org/resource/Steve_Moore_(comedian)
+0,11,S. Chong,http://dbpedia.org/resource/Tommy_Chong,http://dbpedia.org/resource/Shelby_Fiddis http://dbpedia.org/resource/Shelby_Chong
+0,19,R. White,http://dbpedia.org/resource/Ruth_White_(composer),http://dbpedia.org/resource/Ron_White http://dbpedia.org/resource/You_Can't_Fix_Stupid:_2006 http://dbpedia.org/resource/You_cant_fix_stupid http://dbpedia.org/resource/Drunk_In_Public_album
+0,26,R. Butcher,http://dbpedia.org/resource/John_Butcher_(musician),http://dbpedia.org/resource/Rhea_Butcher
+0,35,M. Mira,http://es.dbpedia.org/resource/Magüi_Mira,http://dbpedia.org/resource/Matt_Mira
+0,53,J. Davidson,http://dbpedia.org/resource/John_Davidson_(entertainer),"http://dbpedia.org/resource/Jim_Davidson_(comedian) http://dbpedia.org/resource/Davidson,_Jim http://dbpedia.org/resource/Jim_Davidson http://dbpedia.org/resource/The_Jim_Davidson_Show http://dbpedia.org/resource/Cameron_James_Davidson http://dbpedia.org/resource/Cameron_Jim_Davidson http://dbpedia.org/resource/Jim_Davidson_(""comedian"")"

@@ -1,0 +1,7 @@
+"F1: 0.73684","Precision: 0.73684","Recall: 0.73684"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","3","G. Watson","http://it.dbpedia.org/resource/Greg_Watson","http://dbpedia.org/resource/Grant_G._Watson http://dbpedia.org/resource/Grant_Watson"
+"0","6","G. André","http://dbpedia.org/resource/Géo_André","http://dbpedia.org/resource/Georges_André_(curler) http://dbpedia.org/resource/Georges_André http://dbpedia.org/resource/Georges_Andre"
+"0","7","G. Richardson","http://dbpedia.org/resource/George_Richardson_(ice_hockey)","http://dbpedia.org/resource/Sam_Richardson_(curler) http://dbpedia.org/resource/Garnet_S._Richardson http://dbpedia.org/resource/Garnet_Richardson"
+"0","8","G. Campbell","http://dbpedia.org/resource/Glen_Campbell_(curler)","http://dbpedia.org/resource/William_Garnet_Campbell http://dbpedia.org/resource/Garnet_Campbell_(curler) http://dbpedia.org/resource/W._Garnet_Campbell"
+"0","19","B. Walsh","http://dbpedia.org/resource/Brian_Walsh_(ice_hockey)","http://dbpedia.org/resource/William_J._Walsh_(curler) http://dbpedia.org/resource/Billy_Walsh_(curler)"

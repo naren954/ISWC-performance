@@ -1,0 +1,18 @@
+F1: 0.82418,Precision: 0.82418,Recall: 0.82418,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Cerro Blanco,http://dbpedia.org/resource/Cerro_Blanco_metro_station,http://dbpedia.org/resource/Cerro_Blanco_(volcano) http://dbpedia.org/resource/Robledo_(volcano) http://dbpedia.org/resource/Cerro_Blanco_caldera
+0,2,Cerro Azul,http://dbpedia.org/resource/Cerro_Azul_(Chile_volcano),http://dbpedia.org/resource/Cerro_Azul_(Ecuador_volcano)
+0,28,Black Volcano,http://dbpedia.org/resource/Black_Peak_(Alaska),http://dbpedia.org/resource/Black_Volcano
+0,30,Black Butte,http://dbpedia.org/resource/Black_Butte_(Oregon),"http://dbpedia.org/resource/Black_Butte_(Siskiyou_County,_California) http://dbpedia.org/resource/Black_Butte_(California)"
+0,36,Ben Lomond,http://dbpedia.org/resource/Ben_Lomond,"http://dbpedia.org/resource/Ben_Lomond,_Waikato http://dbpedia.org/resource/Ben_Lomond_(Waikato)"
+0,39,Bayuda Volcanic Field,http://dbpedia.org/resource/Bayuda_volcanic_field,http://dbpedia.org/resource/Bayuda_Volcanic_Field
+0,41,Batu Tara,http://dbpedia.org/resource/Mount_Batutara,http://dbpedia.org/resource/Batu_Tara http://dbpedia.org/resource/Batutara
+0,42,"Battle Mountain, Virginia",http://dbpedia.org/resource/Laurel_Mountain_(West_Virginia),"http://dbpedia.org/resource/Battle_Mountain,_Virginia"
+0,63,Asahi-dake,http://dbpedia.org/resource/Mount_Asahi_(Yamagata),http://dbpedia.org/resource/Asahi-dake http://dbpedia.org/resource/Mount_Asahidake http://dbpedia.org/resource/Asahidake
+0,69,Apagado,http://dbpedia.org/resource/Qhawana,http://dbpedia.org/resource/Hualiaque http://dbpedia.org/resource/Apagado
+0,73,Mount Amukta,http://dbpedia.org/resource/Mount_Amukta,http://dbpedia.org/resource/Amukta http://dbpedia.org/resource/Amukta_Island http://dbpedia.org/resource/Amukta_Island_(Alaska)
+0,82,Akita-Yake-Yama,http://dbpedia.org/resource/Akita-Yakeyama,http://dbpedia.org/resource/Akita-Yake-Yama
+0,84,Aguilera,http://dbpedia.org/resource/La_Aguilera,http://dbpedia.org/resource/Aguilera_(volcano) http://dbpedia.org/resource/Cerro_Aguilera http://dbpedia.org/resource/Aguilera_Volcano http://dbpedia.org/resource/Monte_Aguilera http://dbpedia.org/resource/Volcan_Aguilera
+0,87,Acıgöl-Nevşehir,http://dbpedia.org/resource/Acıgöl–Nevşehir,http://dbpedia.org/resource/Acıgöl-Nevşehir http://dbpedia.org/resource/Acigol-Nevsehir
+0,89,Acıgöl-Nevşehir,http://dbpedia.org/resource/Acıgöl–Nevşehir,http://dbpedia.org/resource/Acıgöl-Nevşehir http://dbpedia.org/resource/Acigol-Nevsehir
+0,90,Abu,http://dbpedia.org/resource/Mount_Abu,http://dbpedia.org/resource/Abu_(volcano) http://dbpedia.org/resource/Irao-yama

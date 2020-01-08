@@ -1,0 +1,25 @@
+F1: 0.78704,Precision: 0.78704,Recall: 0.78704,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,12,Pinal County Courthouse,http://dbpedia.org/resource/Second_Pinal_County_Courthouse,http://dbpedia.org/resource/Pinal_County_Courthouse
+0,14,Pilgrim Congregational Church,"http://dbpedia.org/resource/Pilgrim_Congregational_Church_(Taunton,_Massachusetts)","http://dbpedia.org/resource/Pilgrim_Congregational_Church_(Cleveland,_Ohio)"
+0,20,Philipsburg Historic District,"http://dbpedia.org/resource/Philipsburg_Historic_District_(Philipsburg,_Pennsylvania)","http://dbpedia.org/resource/Philipsburg_Historic_District_(Philipsburg,_Montana)"
+0,23,Peters House,http://dbpedia.org/resource/A._V._Peters_House,"http://dbpedia.org/resource/George_W._Peters_House http://dbpedia.org/resource/Peters_House_(Knoxville,_Tennessee)"
+0,25,Perry County Courthouse,http://dbpedia.org/resource/Perry_County_Courthouse_(Ohio),"http://dbpedia.org/resource/Perry_County_Courthouse_(Tennessee) http://dbpedia.org/resource/Perry_County_Courthouse_(Linden,_Tennessee)"
+0,26,Perry-Payne Building,http://dbpedia.org/resource/Perry_Carnegie_Library_Building,http://dbpedia.org/resource/Perry-Payne_Building
+0,34,"Parkridge, Knoxville, Tennessee","http://dbpedia.org/resource/Knoxville,_Tennessee","http://dbpedia.org/resource/Parkridge,_Knoxville,_Tennessee http://dbpedia.org/resource/Parkridge_(Knoxville,_Tennessee) http://dbpedia.org/resource/Park_City_Historic_District_(Knoxville,_Tennessee)"
+0,39,Palace Theatre,"http://dbpedia.org/resource/Palace_Theatre_(Albany,_New_York)","http://dbpedia.org/resource/Palace_Theatre_(Cincinnati,_Ohio) http://dbpedia.org/resource/Palace_Theater_(Cincinnati,_Ohio)"
+0,40,Palace Theatre,"http://dbpedia.org/resource/Palace_Theatre_(Albany,_New_York)","http://dbpedia.org/resource/Palace_Theater_(Canton,_Ohio) http://dbpedia.org/resource/Palace_Theatre_(Canton,_Ohio)"
+0,48,PS 11,http://dbpedia.org/resource/PS10_solar_power_plant,http://dbpedia.org/resource/Public_School_11 http://dbpedia.org/resource/PS_11_(Bronx)
+0,50,Oxford Historic District,"http://dbpedia.org/resource/Oxford_Historic_District_(Oxford,_Pennsylvania)","http://dbpedia.org/resource/Oxford_Historic_District_(Oxford,_Georgia)"
+0,61,Orpheum Theater,"http://dbpedia.org/resource/Orpheum_Theatre_(Phoenix,_Arizona)","http://dbpedia.org/resource/Orpheum_Theater_(New_Orleans) http://dbpedia.org/resource/Orpheum_Theater_(New_Orleans,_Louisiana) http://dbpedia.org/resource/Orpheum_Theatre_(New_Orleans) http://dbpedia.org/resource/Orpheum_Theatre_(New_Orleans,_Louisiana)"
+0,74,Old Westbrook High School,http://dbpedia.org/resource/Old_Watertown_High_School,http://dbpedia.org/resource/Old_Westbrook_High_School
+0,76,Old Scripps Building,http://dbpedia.org/resource/Old_Queens,http://dbpedia.org/resource/Old_Scripps_Building
+0,78,Old Post Office,"http://dbpedia.org/resource/Old_Post_Office_(Albuquerque,_New_Mexico)","http://dbpedia.org/resource/Old_Post_Office_(Biddeford,_Maine)"
+0,85,Old Main,"http://dbpedia.org/resource/Old_Main,_Augustana_College",http://dbpedia.org/resource/Old_Main_(Nicholas_County_High_School) http://dbpedia.org/resource/Old_Nicholas_County_High_School
+0,86,Old Main,"http://dbpedia.org/resource/Old_Main,_Augustana_College",http://dbpedia.org/resource/Old_Main_(Bethany_College)
+0,88,Old Louisiana State Capitol,http://dbpedia.org/resource/Louisiana_State_Capitol,http://dbpedia.org/resource/Old_Louisiana_State_Capital http://dbpedia.org/resource/Old_Louisiana_State_Capitol
+0,93,Old Federal Reserve Bank Building,"http://dbpedia.org/resource/Federal_Reserve_Bank_Building_(Little_Rock,_Arkansas)","http://dbpedia.org/resource/Federal_Reserve_Bank_Building_(San_Francisco) http://dbpedia.org/resource/Federal_Reserve_Bank_of_San_Francisco_Building_(San_Francisco,_California) http://dbpedia.org/resource/Old_Federal_Reserve_Bank_Building_(San_Francisco) http://dbpedia.org/resource/Federal_Reserve_Bank_of_San_Francisco_(San_Francisco,_California) http://dbpedia.org/resource/Federal_Reserve_Bank_Building_of_San_Francisco http://dbpedia.org/resource/Federal_Reserve_Bank_Building_(San_Francisco,_California)"
+0,98,Old Courthouse,http://dbpedia.org/resource/Old_Effingham_County_Courthouse_(Georgia),"http://dbpedia.org/resource/Old_Courthouse_(Newberry,_South_Carolina)"
+0,99,Old College Historic District,http://dbpedia.org/resource/Marycrest_College_Historic_District,http://dbpedia.org/resource/Old_College_Historic_District
+0,100,"Old City, Knoxville, Tennessee","http://dbpedia.org/resource/Old_Customs_House_(Knoxville,_Tennessee)","http://dbpedia.org/resource/Old_City,_Knoxville,_Tennessee http://dbpedia.org/resource/Old_City,_Knoxville http://dbpedia.org/resource/Old_City_(Knoxville) http://dbpedia.org/resource/Old_City_Knoxville"
+0,103,Old Armory,http://dbpedia.org/resource/First_Regiment_Armory_Annex,"http://dbpedia.org/resource/Old_Armory_(Williston,_North_Dakota) http://dbpedia.org/resource/Old_Armory"

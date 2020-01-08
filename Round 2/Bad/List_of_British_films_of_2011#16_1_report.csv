@@ -1,0 +1,7 @@
+F1: 0.50000,Precision: 0.50000,Recall: 0.50000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,The Tapes,http://dbpedia.org/resource/The_Nona_Tapes,http://dbpedia.org/resource/The_Tapes http://dbpedia.org/resource/The_Tapes_(film)
+1,2,World of the Dead: The Zombie Diaries,http://dbpedia.org/resource/The_Zombie_Diaries,http://dbpedia.org/resource/World_of_the_Dead:_The_Zombie_Diaries http://dbpedia.org/resource/World_of_the_dead
+1,4,Four,http://dbpedia.org/resource/Fantastic_Four_(2005_film),http://dbpedia.org/resource/Four_(2011_film) http://dbpedia.org/resource/4_(2011_film)
+1,8,The Reverend,http://dbpedia.org/resource/Reverend_(band),http://dbpedia.org/resource/The_Reverend_(film)
+1,10,A Night in the Woods,http://dbpedia.org/resource/Night_of_the_Ghouls,http://dbpedia.org/resource/A_Night_in_the_Woods http://dbpedia.org/resource/A_Night_in_the_Woods_(film)

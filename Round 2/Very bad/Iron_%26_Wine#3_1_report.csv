@@ -1,0 +1,5 @@
+F1: 0.25000,Precision: 0.25000,Recall: 0.25000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,Iron & Wine Tour EP,http://dbpedia.org/resource/Tour_EP_(Iron_&_Wine_EP),http://dbpedia.org/resource/Tour_EP_(Iron_&_Wine)
+1,2,The Sea & The Rhythm,http://dbpedia.org/resource/The_Sea_&_the_Rhythm,http://dbpedia.org/resource/The_Sea_&_The_Rhythm
+1,4,Woman King[25],http://dbpedia.org/resource/United_Kingdom,http://dbpedia.org/resource/My_Lady's_House http://dbpedia.org/resource/Evening_on_the_Ground_(Lilith's_Song) http://dbpedia.org/resource/Woman_King_E.P. http://dbpedia.org/resource/Woman_King_EP http://dbpedia.org/resource/Lillith's_Song http://dbpedia.org/resource/Freedom_Hangs_Like_Heaven http://dbpedia.org/resource/Gray_Stables http://dbpedia.org/resource/Evening_on_the_Ground http://dbpedia.org/resource/Woman_King

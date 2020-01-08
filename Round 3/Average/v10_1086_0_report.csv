@@ -1,0 +1,4 @@
+F1: 0.75000,Precision: 0.75000,Recall: 0.75000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,Parma,http://dbpedia.org/resource/Parma,http://dbpedia.org/resource/Parma_province http://dbpedia.org/resource/Province_of_parma http://dbpedia.org/resource/Provincia_di_Parma http://dbpedia.org/resource/Province_of_Parma http://dbpedia.org/resource/Parma_Province http://dbpedia.org/resource/Parma_(province)
+0,8,Cremona,http://dbpedia.org/resource/Turin,"http://dbpedia.org/resource/Cremona_violins http://dbpedia.org/resource/Cremonese http://dbpedia.org/resource/History_of_Cremona http://dbpedia.org/resource/Cremona,_Italy http://dbpedia.org/resource/Cremona"

@@ -1,0 +1,4 @@
+F1: 0.77778,Precision: 0.77778,Recall: 0.77778,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,2004 Venice International Film Festival,http://dbpedia.org/resource/Venice_Film_Festival,http://dbpedia.org/resource/2004_Venice_Film_Festival http://dbpedia.org/resource/2004_Venice_International_Film_Festival http://dbpedia.org/resource/61st_Venice_International_Film_Festival
+1,2,FIPRESCI,http://dbpedia.org/resource/Torino_Film_Festival,http://dbpedia.org/resource/FIPRESCI_Award http://dbpedia.org/resource/International_Federation_of_Film_Critics http://dbpedia.org/resource/Federation_Internationale_de_la_Presse_Cinematographique http://dbpedia.org/resource/FIPRESCI http://dbpedia.org/resource/Fipresci http://dbpedia.org/resource/Fédération_Internationale_de_la_Presse_Cinématographique http://dbpedia.org/resource/FIPRESCI_Prize

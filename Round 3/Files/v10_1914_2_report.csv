@@ -1,0 +1,4 @@
+"F1: 0.93939","Precision: 0.93939","Recall: 0.93939"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"2","9","Lincoln","http://dbpedia.org/resource/Lincoln_(album)","http://dbpedia.org/resource/Lincoln_(novel)"
+"2","10","John Adams","http://dbpedia.org/resource/John_Adams_(composer)","http://dbpedia.org/resource/John_Adams_(book)"

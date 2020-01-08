@@ -1,0 +1,7 @@
+F1: 0.77273,Precision: 0.77273,Recall: 0.77273,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,Zach Britton,http://dbpedia.org/resource/Zack_Britton,http://dbpedia.org/resource/Zach_Britton http://dbpedia.org/resource/Zachary_Britton http://dbpedia.org/resource/Buck_Britton http://dbpedia.org/resource/Zachary_Grant_Britton
+0,9,Miguel GonzÃ¡lez,http://dbpedia.org/resource/Miguel_Gonzalez_(soccer),http://dbpedia.org/resource/Miguel_González_(pitcher)
+0,12,Steve Johnson,http://dbpedia.org/resource/Steve_Johnson_(basketball),http://dbpedia.org/resource/Steve_Johnson_(baseball)
+0,19,Chris Tillman,http://dbpedia.org/resource/Pat_Tillman,http://dbpedia.org/resource/Chris_Tillman http://dbpedia.org/resource/Christopher_Steven_Tillman http://dbpedia.org/resource/Christopher_Tillman
+0,20,Tyler Wilson,http://dbpedia.org/resource/Tyler_Wilson_(American_football),http://dbpedia.org/resource/Philip_Tyler_Wilson http://dbpedia.org/resource/Tyler_Wilson_(baseball)

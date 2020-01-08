@@ -1,0 +1,4 @@
+F1: 0.77778,Precision: 0.77778,Recall: 0.77778,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,5,Trout River,http://dbpedia.org/resource/Trout_River_(Quebec),http://dbpedia.org/resource/Trout_River_(British_Columbia)
+1,8,Yadkin River,http://dbpedia.org/resource/Pee_Dee_River,http://dbpedia.org/resource/W._Kerr_Scott_Dam http://dbpedia.org/resource/Yadkin_river http://dbpedia.org/resource/Yadkin_River http://dbpedia.org/resource/Yadkin_Valley http://dbpedia.org/resource/Roanoke_Inlet

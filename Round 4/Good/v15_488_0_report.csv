@@ -1,0 +1,6 @@
+F1: 0.96694,Precision: 0.96694,Recall: 0.96694,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,15,Observatory,http://dbpedia.org/resource/Lowell_Observatory,http://dbpedia.org/resource/Observatory_(horse)
+0,50,Miss France,http://dbpedia.org/resource/Miss_Van,http://dbpedia.org/resource/Miss_France_(horse)
+0,60,Mendez,http://es.dbpedia.org/resource/Rosa_Castro,http://dbpedia.org/resource/Mendez_(horse)
+0,65,Maurice,"http://dbpedia.org/resource/Maurice,_Elector_of_Saxony",http://dbpedia.org/resource/Maurice_(horse)

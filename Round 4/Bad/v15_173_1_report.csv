@@ -1,0 +1,97 @@
+F1: 0.50000,Precision: 0.50000,Recall: 0.50000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,A. Aragón,http://dbpedia.org/resource/Ferdinand_II_of_Aragon,http://dbpedia.org/resource/Angelica_Aragón http://dbpedia.org/resource/Angélica_Aragón http://dbpedia.org/resource/Angelica_Aragon http://dbpedia.org/resource/Angelica_Aragsn http://dbpedia.org/resource/Angilica_Aragsn http://dbpedia.org/resource/Angilica_aragsn
+1,4,R. Gautam,http://dbpedia.org/resource/Sheela_Gautam,http://dbpedia.org/resource/Ravindra_Gautam
+1,7,J. DeGrandis,http://dbpedia.org/resource/Dino_Grandi,http://dbpedia.org/resource/Jeff_DeGrandis http://dbpedia.org/resource/The_Finster_Finster_Show!:_Store_Wars
+1,8,R. Einhorn,http://dbpedia.org/resource/Alfred_Einhorn,http://dbpedia.org/resource/Randall_Einhorn
+1,11,R. Shahi,http://dbpedia.org/resource/Sarah_Shahi,http://dbpedia.org/resource/Rajan_Shahi
+1,12,A. N. Khan,http://dbpedia.org/resource/Liaquat_Ali_Khan,http://dbpedia.org/resource/Amna_Nawaz_Khan
+1,13,S. Kashmiri,http://dbpedia.org/resource/Ilyas_Kashmiri,http://dbpedia.org/resource/Shahzad_Kashmiri
+1,18,P. Lefebvre,"http://fr.dbpedia.org/resource/Pierre_Lefebvre_(médecin,_1923-2009)",http://dbpedia.org/resource/Philippe_Lefebvre_(film_director)
+1,25,W. Shriner,http://dbpedia.org/resource/Scott_Shriner,http://dbpedia.org/resource/Wil_Shriner
+1,26,G. Halvorson,http://dbpedia.org/resource/David_Halvorson,http://dbpedia.org/resource/Gary_Halvorson
+1,27,K. Kyu-tae,http://dbpedia.org/resource/Kim_Kyung-tae,http://dbpedia.org/resource/Kim_Kyu-tae
+1,30,Y. Seok-ho,http://dbpedia.org/resource/Jeon_Seok-ho,http://dbpedia.org/resource/Yoon_Suk-ho http://dbpedia.org/resource/Yun_Suk_Ho http://dbpedia.org/resource/Yoon_Seok-ho http://dbpedia.org/resource/Yoon_Seok-Ho
+1,31,R. S. Bayani,http://dbpedia.org/resource/R._S._Thomas,http://dbpedia.org/resource/Ruel_S._Bayani
+1,32,M. Reyes,http://es.dbpedia.org/resource/Miriam_Reyes,http://dbpedia.org/resource/Mark_A._Reyes http://dbpedia.org/resource/Mark_Reyes
+1,33,R. Markowitz,http://dbpedia.org/resource/Richard_Markowitz,http://dbpedia.org/resource/Robert_Markowitz
+1,34,M. Vejar,http://dbpedia.org/resource/Sergio_Véjar,http://dbpedia.org/resource/Michael_Laurence_Vejar http://dbpedia.org/resource/Michael_Vejar http://dbpedia.org/resource/Mike_Vejar
+1,36,D. Zeff,http://fr.dbpedia.org/resource/Alexandre_Zeff,http://dbpedia.org/resource/Dan_Zeff
+1,42,T. Kirkby,http://dbpedia.org/resource/Emma_Kirkby,http://dbpedia.org/resource/Tim_Kirkby
+1,46,M. Beckett,http://dbpedia.org/resource/Samuel_Beckett,http://dbpedia.org/resource/EQAL http://dbpedia.org/resource/Greg_Goodfried http://dbpedia.org/resource/Amanda_Goodfried http://dbpedia.org/resource/Miles_Beckett
+1,47,J. Verbruggen,http://dbpedia.org/resource/Hein_Verbruggen,http://dbpedia.org/resource/Jakob_Verbruggen
+1,49,O. Lang,http://dbpedia.org/resource/Otto_Lang,http://dbpedia.org/resource/Otto_Lang_(Director) http://dbpedia.org/resource/Otto_Lang_(film_producer)
+1,50,C. Garcia-Molina,http://dbpedia.org/resource/Héctor_García-Molina,http://dbpedia.org/resource/Cathy_Garcia_Molina http://dbpedia.org/resource/Cathy_Garcia-Molina
+1,55,R. Davao,http://dbpedia.org/resource/Rodrigo_Duterte,http://dbpedia.org/resource/Ricky_Davao
+1,56,D. L. Cunningham,http://dbpedia.org/resource/Briggs_Cunningham,http://dbpedia.org/resource/David_Loren_Cunningham http://dbpedia.org/resource/David_L._Cunningham
+1,57,D. Walsh,http://dbpedia.org/resource/Dylan_Walsh,http://dbpedia.org/resource/Dearbhla_Walsh
+1,58,P. Field,http://dbpedia.org/resource/Patricia_Field,http://dbpedia.org/resource/Paul_Field_(musician)
+1,59,R. Murphy,http://dbpedia.org/resource/Ralph_Murphy,http://dbpedia.org/resource/Ron_Murphy http://dbpedia.org/resource/Robert_Ronald_Murphy
+1,60,M. Alejandre,http://dbpedia.org/resource/Salvador_Mejía,http://dbpedia.org/resource/Mac_Alejandre
+1,61,B. Limond,,http://dbpedia.org/resource/Brian_Limond http://dbpedia.org/resource/Limmy http://dbpedia.org/resource/Malcolm_Malcolm
+1,62,R. Austin,http://dbpedia.org/resource/Robb_Austin,http://dbpedia.org/resource/Ray_Austin_(director)
+1,65,J. Hampton,http://dbpedia.org/resource/Lionel_Hampton,http://dbpedia.org/resource/James_Hampton_(actor) http://dbpedia.org/resource/Jim_Hampton
+1,67,O. Ünlü,http://de.dbpedia.org/resource/Fikret_Ünlü,http://dbpedia.org/resource/Onur_Ünlü http://dbpedia.org/resource/Onur_Unlu
+1,70,K. Makin,http://dbpedia.org/resource/Norman_Makin,http://dbpedia.org/resource/Kelly_Makin
+1,71,T. Hughes,http://dbpedia.org/resource/Ted_Hughes,http://dbpedia.org/resource/Terry_Hughes_(film_director) http://dbpedia.org/resource/Terry_Hughes_(director)
+1,72,B. Duke,"http://dbpedia.org/resource/George_Villiers,_2nd_Duke_of_Buckingham",http://dbpedia.org/resource/Bill_Duke
+1,74,A. Bernstein,http://dbpedia.org/resource/Leonard_Bernstein,http://dbpedia.org/resource/Adam_Bernstein
+1,77,C. Melville,http://de.dbpedia.org/resource/Carl_Melville,http://dbpedia.org/resource/Craig_Melville
+1,78,C. Melville,http://de.dbpedia.org/resource/Carl_Melville,http://dbpedia.org/resource/Craig_Melville
+1,79,L. Day,http://dbpedia.org/resource/Laraine_Day,http://dbpedia.org/resource/Linda_Day
+1,80,B. Thompson,http://dbpedia.org/resource/Benjamin_Thompson,http://dbpedia.org/resource/Bernard_Thompson_(director)
+1,81,S. Jodrell,http://dbpedia.org/resource/Henry_Jodrell,http://dbpedia.org/resource/Steve_Jodrell
+1,88,H. Harris,http://dbpedia.org/resource/Herbert_Harris,http://dbpedia.org/resource/Harry_Harris_(director)
+1,89,R. Butler,http://dbpedia.org/resource/Richard_Layton_Butler,http://dbpedia.org/resource/Robert_Butler_(director)
+1,90,A. Forsythe,http://dbpedia.org/resource/John_Forsythe,http://dbpedia.org/resource/Abe_Forsythe
+1,91,W. Abbas,http://dbpedia.org/resource/Abbas_II_of_Egypt,"http://dbpedia.org/resource/Abbas,_Waseem http://dbpedia.org/resource/Wasim_Abbas http://dbpedia.org/resource/Waseem_Abbas"
+1,93,A. Tandy,http://dbpedia.org/resource/Jessica_Tandy,http://dbpedia.org/resource/Adam_Tandy
+1,95,F. Rind,http://de.dbpedia.org/resource/Hermann_Rind,http://dbpedia.org/resource/Farooq_Rind
+1,96,J. Jimenez,http://dbpedia.org/resource/Juan_Ramón_Jiménez,http://dbpedia.org/resource/Julio_Jimenez_(writer) http://dbpedia.org/resource/Julio_Jiménez_(writer)
+1,110,A. V. Carrol,,http://dbpedia.org/resource/Aurelio_Valcarcel_Carrol http://dbpedia.org/resource/Aurelio_Valcarcel_Carroll http://dbpedia.org/resource/Aurelio_Valcárcel_Carroll http://dbpedia.org/resource/Aurelio_Valcárcel_Carrol
+1,111,Mulawin,http://dbpedia.org/resource/Vladimir_Mulyavin,http://dbpedia.org/resource/Mulawin http://dbpedia.org/resource/Halconia http://dbpedia.org/resource/Aguiluz_(Mulawin_character)
+1,113,R. Films,http://dbpedia.org/resource/R._Madhavan,http://dbpedia.org/resource/Rogue_Films_(Production_Company) http://dbpedia.org/resource/Rogue_Films
+1,118,G. A. McConnell,http://dbpedia.org/resource/Felix_Grundy_McConnell,http://dbpedia.org/resource/Gregory_Austin_McConnell
+1,119,J. Travolta,http://dbpedia.org/resource/John_Travolta,http://dbpedia.org/resource/Joey_Travolta
+1,121,K. Amemiya,http://dbpedia.org/resource/Takeshi_Amemiya,http://dbpedia.org/resource/雨宮慶太 http://dbpedia.org/resource/Keita_Amamiya http://dbpedia.org/resource/Keita_Amemiya
+1,122,F. Kashmiri,http://dbpedia.org/resource/Ilyas_Kashmiri,http://dbpedia.org/resource/Fahad_Kashmiri
+1,123,K. Amemiya,http://dbpedia.org/resource/Takeshi_Amemiya,http://dbpedia.org/resource/雨宮慶太 http://dbpedia.org/resource/Keita_Amamiya http://dbpedia.org/resource/Keita_Amemiya
+1,125,M. Alejandre,http://dbpedia.org/resource/Salvador_Mejía,http://dbpedia.org/resource/Mac_Alejandre
+1,126,T. Lee,http://dbpedia.org/resource/Tanith_Lee,http://dbpedia.org/resource/Topel_Lee
+1,128,H. Hussain,http://dbpedia.org/resource/Nazeem_Hussain,http://dbpedia.org/resource/Haissam_hussain http://dbpedia.org/resource/Haissam_Hussain
+1,130,R. Quintos,http://dbpedia.org/resource/Zachary_Quinto,http://dbpedia.org/resource/Rory_B._Quintos http://dbpedia.org/resource/Rory_Quintos
+1,133,L. Hyung-min,http://dbpedia.org/resource/Shin_Hyung-min,http://dbpedia.org/resource/Lee_Hyeong-min http://dbpedia.org/resource/Lee_Hyung-min http://dbpedia.org/resource/Lee_Hyung_Min
+1,136,R. Davao,http://dbpedia.org/resource/Rodrigo_Duterte,http://dbpedia.org/resource/Ricky_Davao
+1,138,B. Corcoran,http://dbpedia.org/resource/Kevin_Corcoran,http://dbpedia.org/resource/The_Lost_Girl_(2014_film) http://dbpedia.org/resource/The_Lost_Girl_(film) http://dbpedia.org/resource/William_Corcoran http://dbpedia.org/resource/Bill_Corcoran http://dbpedia.org/resource/William_J._Corcoran
+1,139,J. Chandrasekhar,http://dbpedia.org/resource/Subrahmanyan_Chandrasekhar,http://dbpedia.org/resource/Jay_Chandrasekhar
+1,140,S. C. Jones,http://dbpedia.org/resource/Chuck_Jones,http://dbpedia.org/resource/Simon_Cellan-Jones http://dbpedia.org/resource/Simon_Cellan_Jones
+1,142,F. Kashmiri,http://dbpedia.org/resource/Ilyas_Kashmiri,http://dbpedia.org/resource/Fahad_Kashmiri
+1,143,R. Gautam,http://dbpedia.org/resource/Sheela_Gautam,http://dbpedia.org/resource/Ravindra_Gautam
+1,146,B. Simmons,http://dbpedia.org/resource/Jean_Simmons,http://dbpedia.org/resource/Brian_Simons http://dbpedia.org/resource/Brian_Simmons
+1,148,R. Battersby,http://dbpedia.org/resource/Robert_Battersby,http://dbpedia.org/resource/Roy_Battersby
+1,149,G. Sax,http://dbpedia.org/resource/Adolphe_Sax,http://dbpedia.org/resource/Geoff_Sax http://dbpedia.org/resource/Geoffrey_Sax
+1,150,A. Wilson,http://dbpedia.org/resource/Woodrow_Wilson,http://dbpedia.org/resource/Andy_Wilson_(director)
+1,151,T. Lee,http://dbpedia.org/resource/Tanith_Lee,http://dbpedia.org/resource/Topel_Lee
+1,152,E. Storm,http://dbpedia.org/resource/Edvard_Storm,http://dbpedia.org/resource/Esben_Storm
+1,153,A. Shahzad,http://dbpedia.org/resource/Ajmal_Shahzad,http://dbpedia.org/resource/Anjum_Shahzad
+1,155,P. Atencio,http://dbpedia.org/resource/Mariana_Atencio,http://dbpedia.org/resource/Peter_Atencio
+1,157,B. Kulik,http://dbpedia.org/resource/Grigory_Kulik,http://dbpedia.org/resource/Buzz_Kulik
+1,158,S. Rice,http://dbpedia.org/resource/Susan_Rice,http://dbpedia.org/resource/Spencer_rice http://dbpedia.org/resource/Spenny http://dbpedia.org/resource/Spencer_Nolan_Rice http://dbpedia.org/resource/Spenny_Rice http://dbpedia.org/resource/Spencer_Rice
+1,160,J. Woolnough,http://dbpedia.org/resource/James_K._Woolnough,http://dbpedia.org/resource/Jeff_Woolnough
+1,162,J. Manahan,http://dbpedia.org/resource/James_Manahan,http://dbpedia.org/resource/Johnny_Manahan
+1,163,T. Lee,http://dbpedia.org/resource/Tanith_Lee,http://dbpedia.org/resource/Topel_Lee
+1,164,B. Persky,http://dbpedia.org/resource/Aaron_Persky,http://dbpedia.org/resource/Bill_Persky
+1,165,M. Beckett,http://dbpedia.org/resource/Samuel_Beckett,http://dbpedia.org/resource/EQAL http://dbpedia.org/resource/Greg_Goodfried http://dbpedia.org/resource/Amanda_Goodfried http://dbpedia.org/resource/Miles_Beckett
+1,167,F. Kashmiri,http://dbpedia.org/resource/Ilyas_Kashmiri,http://dbpedia.org/resource/Fahad_Kashmiri
+1,168,M. Reyes,http://es.dbpedia.org/resource/Miriam_Reyes,http://dbpedia.org/resource/Mark_A._Reyes http://dbpedia.org/resource/Mark_Reyes
+1,170,H. Faisal,http://dbpedia.org/resource/Faisal_Faisal,http://dbpedia.org/resource/Habib_Faisal
+1,171,A. N. Khan,http://dbpedia.org/resource/Liaquat_Ali_Khan,http://dbpedia.org/resource/Amna_Nawaz_Khan
+1,173,A. V. Kumar,http://dbpedia.org/resource/V._Kumar,http://dbpedia.org/resource/Anil_v_Kumar http://dbpedia.org/resource/Anil_V._Kumar
+1,174,U. Bayraktar,http://dbpedia.org/resource/Erdoğan_Bayraktar,http://dbpedia.org/resource/Uluc_Bayraktar http://dbpedia.org/resource/Uluç_Bayraktar http://dbpedia.org/resource/Uluç_bayraktar
+1,176,J. Bernal,http://dbpedia.org/resource/Martin_Bernal,http://dbpedia.org/resource/Joyce_E._Bernal http://dbpedia.org/resource/Bb._Joyce_Bernal http://dbpedia.org/resource/Joyce_Bernal
+1,179,K. Sakamoto,http://dbpedia.org/resource/Kyu_Sakamoto,http://dbpedia.org/resource/坂本浩一 http://dbpedia.org/resource/Koichi_Sakamoto
+1,181,O. Kaneda,http://dbpedia.org/resource/Kazuya_Kaneda,http://dbpedia.org/resource/Osamu_Kaneda
+1,182,O. Kaneda,http://dbpedia.org/resource/Kazuya_Kaneda,http://dbpedia.org/resource/Osamu_Kaneda
+1,185,O. Kaneda,http://dbpedia.org/resource/Kazuya_Kaneda,http://dbpedia.org/resource/Osamu_Kaneda
+1,186,K. Sakamoto,http://dbpedia.org/resource/Kyu_Sakamoto,http://dbpedia.org/resource/坂本浩一 http://dbpedia.org/resource/Koichi_Sakamoto
+1,188,K. Sakamoto,http://dbpedia.org/resource/Kyu_Sakamoto,http://dbpedia.org/resource/坂本浩一 http://dbpedia.org/resource/Koichi_Sakamoto

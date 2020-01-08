@@ -1,0 +1,11 @@
+F1: 0.82353,Precision: 0.82353,Recall: 0.82353,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,10,A. Petrov,"http://dbpedia.org/resource/Aleksandr_Petrov_(footballer,_born_1925)",http://dbpedia.org/resource/Aleksei_Petrov_(cycling) http://dbpedia.org/resource/Aleksei_Petrov_(cyclist) http://dbpedia.org/resource/Alexey_Petrov_(cyclist)
+0,16,A. v. Schendel,http://dbpedia.org/resource/Antoon_van_Schendel,http://dbpedia.org/resource/Albert_van_Schendel http://dbpedia.org/resource/Albert_van_schendel http://dbpedia.org/resource/Albert_Van_Schendel
+0,18,A. White,http://dbpedia.org/resource/Albert_White_(diver),http://dbpedia.org/resource/Lal_White http://dbpedia.org/resource/Albert_White_(cyclist)
+0,21,A. Richter,http://dbpedia.org/resource/Annegret_Richter,http://dbpedia.org/resource/Albert_Richter
+0,31,A. Jackson,http://dbpedia.org/resource/Arnold_Jackson_(British_Army_officer),http://dbpedia.org/resource/Alan_Jackson_(cyclist)
+0,37,A. Alcántara,http://dbpedia.org/resource/Thiago_Alcântara,http://dbpedia.org/resource/Agustín_Alcántara http://dbpedia.org/resource/Agustin_Alcantara
+0,47,A. Schön,http://dbpedia.org/resource/Alfred_Schön,http://dbpedia.org/resource/Adolf_Schon http://dbpedia.org/resource/Adolf_Schön
+0,49,A. Schön,http://dbpedia.org/resource/Alfred_Schön,http://dbpedia.org/resource/Adolf_Schon http://dbpedia.org/resource/Adolf_Schön
+0,50,A. Kofler,http://dbpedia.org/resource/Andreas_Kofler,http://dbpedia.org/resource/Adolf_Kofler

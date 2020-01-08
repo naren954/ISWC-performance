@@ -1,0 +1,11 @@
+F1: 0.65385,Precision: 0.65385,Recall: 0.65385,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,2,Palms-Southern Pacific Railroad Depot,http://dbpedia.org/resource/Palo_Alto_station,http://dbpedia.org/resource/Palms-Southern_Pacific_Railroad_Depot
+1,4,San Antonio Winery,http://dbpedia.org/resource/Metro_San_Antonio_Abad,http://dbpedia.org/resource/San_Antonio_Winery
+1,33,Southwest Museum,http://dbpedia.org/resource/Oklahoma_City,http://dbpedia.org/resource/Southwest_Museum_of_the_American_Indian http://dbpedia.org/resource/Southwest_Museum
+1,36,Old Eagle Rock Branch Library,http://dbpedia.org/resource/Old_Eagle_Tavern,http://dbpedia.org/resource/Center_for_the_Arts_Eagle_Rock http://dbpedia.org/resource/Eagle_Rock_Community_Cultural_Center http://dbpedia.org/resource/Eagle_Rock_Branch_Library
+1,53,Morrell House,http://dbpedia.org/resource/Bass-Morrell_House,http://dbpedia.org/resource/Morrell_House
+1,69,Octagon House,http://dbpedia.org/resource/The_Octagon_House,http://dbpedia.org/resource/Longfellow-Hastings_House
+1,90,Montecito View House,http://dbpedia.org/resource/Mountain_View_House,http://dbpedia.org/resource/Montecito_View_House
+1,119,Santa Fe Coast Lines Hospital,"http://dbpedia.org/resource/Santa_Fe,_New_Mexico",http://dbpedia.org/resource/Santa_Fe_Coast_Lines_Hospital http://dbpedia.org/resource/Linda_Vista_Hospital http://dbpedia.org/resource/Linda_Vista_Community_Hospital
+1,137,Wilkins House,"http://dbpedia.org/resource/Wilkins_House_(Greenville,_South_Carolina)","http://dbpedia.org/resource/Wilkins_House_(Los_Angeles) http://dbpedia.org/resource/Wilkins_House_(Los_Angeles,_California)"

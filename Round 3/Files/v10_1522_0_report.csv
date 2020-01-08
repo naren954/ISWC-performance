@@ -1,0 +1,4 @@
+"F1: 0.90909","Precision: 0.90909","Recall: 0.90909"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","12","St Mary's School, Ascot","http://dbpedia.org/resource/St_George's_School,_Ascot","http://dbpedia.org/resource/St_Mary's_School_Ascot http://dbpedia.org/resource/History_of_St_Mary's_School,_Ascot http://dbpedia.org/resource/St_Mary's_Ascot http://dbpedia.org/resource/St_Mary's_School,_Ascot"
+"0","14","St Joseph's Convent School","http://dbpedia.org/resource/St_Joseph's_College,_Reading","http://dbpedia.org/resource/Saint_Joseph's_Convent http://dbpedia.org/resource/St_Joseph's_Convent_School_(Karachi)"

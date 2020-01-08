@@ -1,0 +1,12 @@
+F1: 0.85075,Precision: 0.85075,Recall: 0.85075,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,13,Don Giovanni,http://de.dbpedia.org/resource/Don_Giovanni_(1966),http://dbpedia.org/resource/Don_Giovanni_(1979_film) http://dbpedia.org/resource/Don_Giovanni_(film)
+0,16,Ernesto,http://dbpedia.org/resource/Che_Guevara,http://dbpedia.org/resource/Ernesto_(film)
+0,19,From Hell to Victory,http://dbpedia.org/resource/Dirty_Heroes,http://dbpedia.org/resource/De_Dunkerke_a_la_victoria http://dbpedia.org/resource/Contro_4_bandiere http://dbpedia.org/resource/From_Hell_to_Victory http://dbpedia.org/resource/De_l'enfer_à_la_victoire
+0,21,Gardenia,http://dbpedia.org/resource/Blue_Gardenia_(album),"http://dbpedia.org/resource/Gardenia_(film) http://dbpedia.org/resource/Gardenia,_il_giustiziere_della_mala"
+0,29,L'infermiera di notte,http://dbpedia.org/resource/Night_Nurse_(1979_film),http://dbpedia.org/resource/L'infermiera_di_notte
+0,35,Life Is Beautiful,http://dbpedia.org/resource/Life_Is_Beautiful,http://dbpedia.org/resource/La_vita_è_bella_(1979_film) http://dbpedia.org/resource/Betrayed_(1979_film) http://dbpedia.org/resource/Life_Is_Beautiful_(1979_film)
+0,37,La luna,http://dbpedia.org/resource/La_Luna_(2011_film),http://dbpedia.org/resource/La_Luna_(1979_film) http://dbpedia.org/resource/Luna_(film) http://dbpedia.org/resource/Luna_(1979_film)
+0,61,Together?,http://dbpedia.org/resource/Come_Together,"http://dbpedia.org/resource/Amo_non_amo http://dbpedia.org/resource/Together_(1979_film) http://dbpedia.org/resource/I_Love_You,_I_Love_You_Not_(1979_film) http://dbpedia.org/resource/Amo_Non_Amo http://dbpedia.org/resource/Together?"
+0,63,Traffic Jam,http://dbpedia.org/resource/Heaven_Is_a_Traffic_Jam_on_the_405,http://dbpedia.org/resource/L'ingorgo_–_Una_storia_impossibile http://dbpedia.org/resource/L'ingorgo http://dbpedia.org/resource/Traffic_Jam_(film) http://dbpedia.org/resource/L'ingorgo_Una_storia_impossibile http://dbpedia.org/resource/L'ingorgo_-_Una_storia_impossibile
+0,64,The Visitor,http://dbpedia.org/resource/The_Visitor_(Star_Trek:_Deep_Space_Nine),http://dbpedia.org/resource/The_Visitor_(1979_film)

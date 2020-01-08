@@ -1,0 +1,7 @@
+F1: 0.72222,Precision: 0.72222,Recall: 0.72222,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,6,Ischia,http://dbpedia.org/resource/S.S._Ischia_Isolaverde,http://dbpedia.org/resource/A.S.D._Ischia_Benessere_&_Sport
+1,7,Sant'Antonio Abate,http://dbpedia.org/resource/F.C._Sant'Antonio_Abate,http://dbpedia.org/resource/A.C._Sant'Antonio_Abate
+1,8,Turris,http://dbpedia.org/resource/Kyle_Turris,http://dbpedia.org/resource/F_C_Turris_1944_A_S_D http://dbpedia.org/resource/History_of_F.C._Turris_1944_A.S.D. http://dbpedia.org/resource/F.C._Turris_1944_A.S.D. http://dbpedia.org/resource/F.C._Turris_1944 http://dbpedia.org/resource/FC_Turris_1944_ASD http://dbpedia.org/resource/F._C._Turris_1944_A.S.D. http://dbpedia.org/resource/F._C._Turris_1944_A._S._D. http://dbpedia.org/resource/Football_Club_Turris_1944
+1,11,Francavilla,http://dbpedia.org/resource/A.S.D._Francavilla,http://dbpedia.org/resource/F._C._Francavilla http://dbpedia.org/resource/Francavilla_(calcio) http://dbpedia.org/resource/F_C_Francavilla http://dbpedia.org/resource/FC_Francavilla http://dbpedia.org/resource/F.C._Francavilla
+1,12,Matera,http://dbpedia.org/resource/Matera_Calcio,http://dbpedia.org/resource/F_C_Matera http://dbpedia.org/resource/History_of_F.C._Matera http://dbpedia.org/resource/F.C._Matera http://dbpedia.org/resource/FC_Matera

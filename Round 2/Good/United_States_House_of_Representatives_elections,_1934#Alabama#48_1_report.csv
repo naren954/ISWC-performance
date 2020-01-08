@@ -1,0 +1,4 @@
+F1: 0.80000,Precision: 0.80000,Recall: 0.80000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,5,Thomas O'Malley,http://dbpedia.org/resource/Thomas_O'Malley_(congressman),http://dbpedia.org/resource/Thomas_David_Patrick_O'Malley
+1,10,Hubert H. Peavey,http://dbpedia.org/resource/Hubert_Humphrey,http://dbpedia.org/resource/Hubert_H._Peavey http://dbpedia.org/resource/Hubert_Peavey http://dbpedia.org/resource/Hubert_Haskell_Peavey

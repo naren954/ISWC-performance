@@ -1,0 +1,19 @@
+F1: 0.19048,Precision: 0.19048,Recall: 0.19048,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,biaÅ\u0082ostockie,http://dbpedia.org/resource/Bia_District,http://dbpedia.org/resource/Białystok_Voivodeship_(1945-1975)
+1,2,bydgoskie,http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Bydgoszcz,http://dbpedia.org/resource/Bydgoszcz_Voivodship http://dbpedia.org/resource/Bydgoszcz_Voivodeship http://dbpedia.org/resource/Bydgoszcz_voivodship http://dbpedia.org/resource/Bydgoskie_Voivodeship http://dbpedia.org/resource/Bydgoszcz_voivodeship http://dbpedia.org/resource/Województwo_bydgoskie
+1,3,gdaÅ\u0084skie,,http://dbpedia.org/resource/Gdańsk_Voivodeship
+1,4,katowickie,http://dbpedia.org/resource/Roman_Catholic_Archdiocese_of_Katowice,http://dbpedia.org/resource/Silesian-Dabrowa_Voivodship http://dbpedia.org/resource/Katowice_Voivodeship http://dbpedia.org/resource/Katowice_Voivodship
+1,5,kieleckie,http://dbpedia.org/resource/Świętokrzyskie_Voivodeship,http://dbpedia.org/resource/Kielce_Voivodship http://dbpedia.org/resource/Kielce_Voivodeship
+1,6,koszaliÅ\u0084skie Â¹,,http://dbpedia.org/resource/Koszalin_Voivodship http://dbpedia.org/resource/Koszalin_voivodship http://dbpedia.org/resource/Koszalin_Voivodeship
+1,7,krakowskie,http://dbpedia.org/resource/Kraków_Voivodeship_(14th_century_–_1795),http://dbpedia.org/resource/Kraków_Voivodeship
+1,9,Å\u0082Ã³dzkie,,http://dbpedia.org/resource/Łódź_Voivodeship
+1,10,Å\u0081Ã³dÅº (city),http://dbpedia.org/resource/Mürzzuschlag,http://dbpedia.org/resource/Łódź
+1,12,olsztyÅ\u0084skie,,http://dbpedia.org/resource/Olsztyn_Voivodeship http://dbpedia.org/resource/Olsztyn_Voivodship
+1,14,poznaÅ\u0084skie,http://dbpedia.org/resource/Późna,http://dbpedia.org/resource/Poznań_Voivodeship
+1,15,PoznaÅ\u0084 (city) Â²,,http://dbpedia.org/resource/Poznań
+1,16,rzeszowskie,http://dbpedia.org/resource/Rzeszów,http://dbpedia.org/resource/Rzeszów_Voivodeship
+1,17,szczeciÅ\u0084skie,,http://dbpedia.org/resource/Szczecin_voivodeship http://dbpedia.org/resource/Szczecin_Voivodeship http://dbpedia.org/resource/Szczecin_Voivodship
+1,20,wrocÅ\u0082awskie,http://dbpedia.org/resource/WROC_(AM),http://dbpedia.org/resource/Wrocław_Voivodeship
+1,21,WrocÅ\u0082aw (city) Â²,,http://dbpedia.org/resource/Wrocław
+1,22,zielonogÃ³rskie Â¹,,http://dbpedia.org/resource/Zielona_Góra_Voivodeship

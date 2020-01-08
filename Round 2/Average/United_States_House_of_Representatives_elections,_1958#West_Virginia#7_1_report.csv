@@ -1,0 +1,4 @@
+F1: 0.66667,Precision: 0.66667,Recall: 0.66667,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,"Edwin H. May, Jr.",http://dbpedia.org/resource/Edwin_H._May_Jr.,"http://dbpedia.org/resource/Edwin_H._May,_Jr. http://dbpedia.org/resource/Edwin_H._May http://dbpedia.org/resource/Edwin_May,_Jr."
+1,2,"Horace Seely-Brown, Jr.",http://dbpedia.org/resource/Horace_Seely-Brown_Jr.,"http://dbpedia.org/resource/Horace_Seely-Brown http://dbpedia.org/resource/Horace_Seely-Brown,_Jr."

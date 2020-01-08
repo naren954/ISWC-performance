@@ -1,0 +1,7 @@
+F1: 0.85294,Precision: 0.85294,Recall: 0.85294,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,4,R. Brown,http://dbpedia.org/resource/Ross_Brown_(rugby_union),http://dbpedia.org/resource/Reginald_W.P._Brown http://dbpedia.org/resource/Reggie_Brown_(American_football_coach) http://dbpedia.org/resource/Reginald_W._P._Brown
+0,7,R. Roberts,http://dbpedia.org/resource/Ron_Roberts_(American_football),http://dbpedia.org/resource/Red_Roberts_(American_football)
+0,8,R. Reese,http://dbpedia.org/resource/Randy_Reese,http://dbpedia.org/resource/William_B._Reese http://dbpedia.org/resource/Red_Reese
+0,9,R. Parker,http://dbpedia.org/resource/Ray_Parker_(footballer),http://dbpedia.org/resource/Red_Parker
+0,25,R. Meyer,http://dbpedia.org/resource/Ron_Meyer,http://dbpedia.org/resource/Ray_Meyer

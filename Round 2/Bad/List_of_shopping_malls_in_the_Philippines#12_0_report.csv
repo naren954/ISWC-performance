@@ -1,0 +1,10 @@
+F1: 0.33333,Precision: 0.33333,Recall: 0.33333,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,7,Gaisano Capital Pagadian,http://dbpedia.org/resource/Pagadian,http://dbpedia.org/resource/Gaisano_Capital_Pagadian
+0,8,Gaisano Capital Surigao,http://dbpedia.org/resource/Surigao_City,http://dbpedia.org/resource/Gaisano_Capital_Surigao
+0,21,KCC Mall of Marbel,http://dbpedia.org/resource/KCC_Mall_de_Zamboanga,http://dbpedia.org/resource/KCC_Mall_of_Marbel http://dbpedia.org/resource/KCC_Mall http://dbpedia.org/resource/KCC_Malls
+0,22,KCC Mall de Zamboanga,http://dbpedia.org/resource/KCC_Mall_de_Zamboanga,http://dbpedia.org/resource/KCC_Mall_of_Marbel http://dbpedia.org/resource/KCC_Mall http://dbpedia.org/resource/KCC_Malls
+0,25,Limtown Center Mall,http://dbpedia.org/resource/Town_Center_at_Cobb,http://dbpedia.org/resource/Limtown_Center_Mall
+0,28,Midtown Plaza Mall,"http://dbpedia.org/resource/Midtown_Square_Mall_(St._Cloud,_Minnesota)",http://dbpedia.org/resource/Midtown_Plaza_Mall
+0,29,Mindpro Citimall,http://dbpedia.org/resource/SM_Mindpro_Zamboanga,http://dbpedia.org/resource/Mindpro_Citimall
+0,31,South Seas Mall,http://dbpedia.org/resource/South_Sea_Company,http://dbpedia.org/resource/South_Seas_Complex

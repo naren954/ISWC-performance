@@ -1,0 +1,9 @@
+F1: 0.77419,Precision: 0.77419,Recall: 0.77419,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Rhino!,http://dbpedia.org/resource/Rhino_Bucket,http://dbpedia.org/resource/Rhino!
+0,13,Shell Shock,http://dbpedia.org/resource/Gym_Class_Heroes,http://dbpedia.org/resource/Shell_Shock_(film) http://dbpedia.org/resource/Shell_Shock_(Movie) http://dbpedia.org/resource/82nd_Marines_Attack
+0,16,The Starfighters,http://dbpedia.org/resource/The_Last_Starfighter,http://dbpedia.org/resource/The_Starfighters
+0,18,The Strangler,http://dbpedia.org/resource/The_Hillside_Strangler_(film),http://dbpedia.org/resource/The_Strangler
+0,20,The Thin Red Line,http://dbpedia.org/resource/The_Thin_Red_Line_(1998_film),http://dbpedia.org/resource/The_Thin_Red_Line_(1964_film) http://dbpedia.org/resource/The_Thin_Red_Line_(1964_movie)
+0,26,The Train,http://dbpedia.org/resource/1_Train_(song),http://dbpedia.org/resource/The_Train_(1964_film)
+0,30,The Visit,http://dbpedia.org/resource/The_Visit_(play),http://dbpedia.org/resource/The_Visit_(1964_film)

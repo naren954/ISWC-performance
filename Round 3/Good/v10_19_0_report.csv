@@ -1,0 +1,5 @@
+F1: 0.98266,Precision: 0.98266,Recall: 0.98266,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,14,Roman Catholic Diocese of Bayonne,"http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Bayonne,_Lescar_and_Oloron","http://dbpedia.org/resource/See_of_Bayonne http://dbpedia.org/resource/Bishopric_of_Bayonne http://dbpedia.org/resource/Diocese_of_bayonne http://dbpedia.org/resource/Diocese_of_Bayonne,_Lescar_and_Oloron http://dbpedia.org/resource/Diocese_of_Bayonne http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Bayonne http://dbpedia.org/resource/Bishop_of_Bayonne"
+0,32,Roman Catholic Diocese of Barcelona,http://dbpedia.org/resource/Roman_Catholic_Archdiocese_of_Barcelona,http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Barcelona
+0,74,Roman Catholic Diocese of Auchi,http://dbpedia.org/resource/Roman_Catholic_Archdiocese_of_Auch,http://dbpedia.org/resource/Bishop_of_Auchi http://dbpedia.org/resource/Roman_Catholic_Bishop_of_Auchi http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Auchi http://dbpedia.org/resource/Diocese_of_Auchi

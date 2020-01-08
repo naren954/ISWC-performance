@@ -1,0 +1,7 @@
+"F1: 0.75000","Precision: 0.75000","Recall: 0.75000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","2","Carrick","http://dbpedia.org/resource/Carrick-on-Shannon","http://dbpedia.org/resource/Carrick,_CA http://dbpedia.org/resource/Carrick,_California"
+"0","5","Edgewood","http://dbpedia.org/resource/Edgewood,_Washington","http://dbpedia.org/resource/Edgewood,_California http://dbpedia.org/resource/Edgewood,_CA"
+"0","10","Grenada","http://dbpedia.org/resource/Grenada,_Mississippi","http://dbpedia.org/resource/Grenada,_CA http://dbpedia.org/resource/Grenada,_California"
+"0","15","Montague","http://dbpedia.org/resource/Montague,_Texas","http://dbpedia.org/resource/Montague,_California http://dbpedia.org/resource/Montague_(CA) http://dbpedia.org/resource/UN/LOCODE:USSIY http://dbpedia.org/resource/Montague,_CA"
+"0","18","Tennant","http://dbpedia.org/resource/Tennant,_Iowa","http://dbpedia.org/resource/Tennant,_CA http://dbpedia.org/resource/Tennant,_California"

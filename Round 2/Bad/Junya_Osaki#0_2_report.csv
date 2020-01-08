@@ -1,0 +1,4 @@
+F1: 0.50000,Precision: 0.50000,Recall: 0.50000,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,7,J. League 2,http://dbpedia.org/resource/J1_League,http://dbpedia.org/resource/J2_League http://dbpedia.org/resource/J.League_Division_2 http://dbpedia.org/resource/J._League_Division_2
+2,9,J. League 2,http://dbpedia.org/resource/J1_League,http://dbpedia.org/resource/J2_League http://dbpedia.org/resource/J.League_Division_2 http://dbpedia.org/resource/J._League_Division_2

@@ -1,0 +1,5 @@
+"F1: 0.70000","Precision: 0.70000","Recall: 0.70000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","1","Academia","http://dbpedia.org/resource/Academia_F.C.","http://dbpedia.org/resource/FC_Academia_Chișinău"
+"0","2","CS Petrocub","http://dbpedia.org/resource/FC_Petrocub_Hîncești","http://dbpedia.org/resource/FC_Petrocub_Sărata-Galbenă"
+"0","9","CSF SperanÈ\u009Ba","http://de.dbpedia.org/resource/Militärflugplatz_Creil","http://dbpedia.org/resource/Speranța_Nisporeni"

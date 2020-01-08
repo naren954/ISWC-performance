@@ -1,0 +1,11 @@
+F1: 0.92562,Precision: 0.92562,Recall: 0.92562,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,6,Lo!,http://it.dbpedia.org/resource/Lo_sfrattato,http://dbpedia.org/resource/Lo!
+0,7,Living History,http://dbpedia.org/resource/Living_History_(book),http://dbpedia.org/resource/Living_History
+0,22,Legacy,,http://dbpedia.org/resource/Legacy_(2007_novel) http://dbpedia.org/resource/Legacy_(Bujold) http://dbpedia.org/resource/Legacy_(Bujold_novel)
+0,24,Left Behind,http://dbpedia.org/resource/The_Last_of_Us:_Left_Behind,http://dbpedia.org/resource/Left_Behind_(novel) http://dbpedia.org/resource/Left_Behind:_A_Novel_of_the_Earth's_Last_Days
+0,37,Kiss the Girls,http://dbpedia.org/resource/Kiss_the_Girls_(novel),http://dbpedia.org/resource/Kiss_the_girls http://dbpedia.org/resource/Kiss_the_Girls http://dbpedia.org/resource/Kiss_The_Girls
+0,45,Julie,http://fr.dbpedia.org/resource/Julie_(magazine),http://dbpedia.org/resource/Julie_(George_novel) http://dbpedia.org/resource/Julie_(Jean_Craighead_George_novel)
+0,101,Hollywood,http://dbpedia.org/resource/Hollywood_(Bukowski_novel),http://dbpedia.org/resource/Hollywood_(Gore_Vidal_novel) http://dbpedia.org/resource/Hollywood_(Vidal_novel) http://dbpedia.org/resource/Hollywood_(Vidal)
+0,116,Haunted,http://dbpedia.org/resource/Haunted_(Cabot_novel),http://dbpedia.org/resource/Haunted_(short_stories_anthology) http://dbpedia.org/resource/Tess_Clark http://dbpedia.org/resource/Foot_Work_(Short_story) http://dbpedia.org/resource/Haunted_(palahniuk) http://dbpedia.org/resource/Haunted_(Palahniuk_novel) http://dbpedia.org/resource/Foot_Work
+0,117,Haunted,http://dbpedia.org/resource/Haunted_(Cabot_novel),http://dbpedia.org/resource/Haunted_(Angel_novel)

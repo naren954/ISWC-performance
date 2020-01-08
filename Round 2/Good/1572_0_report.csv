@@ -1,0 +1,4 @@
+F1: 0.88889,Precision: 0.88889,Recall: 0.88889,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,14,I'm Not that Girl,http://dbpedia.org/resource/I'm_Not_That_Girl,http://dbpedia.org/resource/I'm_Not_That_Girl_(song) http://dbpedia.org/resource/I'm_Not_that_Girl_(song) http://dbpedia.org/resource/I'm_Not_That_Girl_(Reprise)
+0,16,Helpless,http://dbpedia.org/resource/Helpless_(Hamilton_song),http://dbpedia.org/resource/Helpless_(song)

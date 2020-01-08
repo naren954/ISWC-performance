@@ -1,0 +1,7 @@
+"F1: 0.95192","Precision: 0.95192","Recall: 0.95192"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","5","The Commodore","http://dbpedia.org/resource/The_Commodore","http://dbpedia.org/resource/The_Commodore_(book) http://dbpedia.org/resource/The_Commodore_(novel)"
+"0","23","The Aware","nan","http://dbpedia.org/resource/The_Aware"
+"0","28","The Alteration","http://dbpedia.org/resource/Alterations","http://dbpedia.org/resource/The_Alteration"
+"0","53","Speed","http://dbpedia.org/resource/Speed_Racer","http://dbpedia.org/resource/Speed_(novel)"
+"0","88","Rising Sun","http://dbpedia.org/resource/The_House_of_the_Rising_Sun","http://dbpedia.org/resource/Rising_Sun_(novel) http://dbpedia.org/resource/Rising_Sun_(book)"

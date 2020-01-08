@@ -1,0 +1,6 @@
+"F1: 0.69231","Precision: 0.69231","Recall: 0.69231"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","2","HMS Thames","http://dbpedia.org/resource/HMS_Thames_(1885)","http://dbpedia.org/resource/French_frigate_Tamise_(1793) http://dbpedia.org/resource/HMS_Thames_(1758)"
+"0","6","HMS Fox","http://dbpedia.org/resource/HMS_Fox_(1780)","http://dbpedia.org/resource/HMS_Fox_(1773)"
+"0","7","HMS Crash","http://dbpedia.org/resource/HMS_Scourge_(1794)","http://dbpedia.org/resource/HMS_Crash_(1797)"
+"0","8","HMS Berwick","http://dbpedia.org/resource/HMS_Berwick_(65)","http://dbpedia.org/resource/French_ship_Berwick http://dbpedia.org/resource/French_ship_Berwick_(1795) http://dbpedia.org/resource/HMS_Berwick_(1775)"

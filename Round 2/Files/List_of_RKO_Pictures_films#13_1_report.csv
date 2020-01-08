@@ -1,0 +1,5 @@
+"F1: 0.90625","Precision: 0.90625","Recall: 0.90625"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","19","My Favorite Spy","http://dbpedia.org/resource/My_Favorite_Spy_(1942_film)","http://dbpedia.org/resource/My_Favorite_Spy http://dbpedia.org/resource/My_Favourite_Spy"
+"1","27","Wings and the Woman","http://dbpedia.org/resource/Seaside_Woman","http://dbpedia.org/resource/They_Flew_Alone http://dbpedia.org/resource/Wings_and_the_Woman"
+"1","40","Army Surgeon","http://fr.dbpedia.org/resource/The_Army_Surgeon","http://dbpedia.org/resource/Army_Surgeon"

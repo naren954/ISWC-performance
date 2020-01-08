@@ -1,0 +1,8 @@
+F1: 0.86667,Precision: 0.86667,Recall: 0.86667,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,10,William B. Willis House,http://dbpedia.org/resource/William_B._Harris_House,http://dbpedia.org/resource/William_B._Willis_House http://dbpedia.org/resource/William_B._Wills_House
+0,19,William Allison House,"http://dbpedia.org/resource/William_Allison_House_(College_Grove,_Tennessee)","http://dbpedia.org/resource/William_Allison_House_(Spring_Mills,_Pennsylvania)"
+0,29,Willard Homestead,"http://dbpedia.org/resource/Willard_Homestead_(Newington,_Connecticut)","http://dbpedia.org/resource/Willard_Homestead_(Harrisville,_New_Hampshire)"
+0,38,Will County Historical Society Headquarters,http://dbpedia.org/resource/Lehigh_County_Historical_Society,http://dbpedia.org/resource/Illinois_and_Michigan_Canal_Office_Building http://dbpedia.org/resource/Will_County_Historical_Society_Headquarters
+0,40,Wilkinson House,"http://dbpedia.org/resource/Wilkinson_House_(Joelton,_Tennessee)","http://dbpedia.org/resource/Wilkinson_House_(Pocopson_Township,_Pennsylvania) http://dbpedia.org/resource/Wilkinson_House_(Pocopson_Twp.,_Pennsylvania)"
+0,42,Wilkinson-Dozier House,"http://dbpedia.org/resource/Wilkinson_House_(Joelton,_Tennessee)",http://dbpedia.org/resource/Wilkinson-Dozier_House

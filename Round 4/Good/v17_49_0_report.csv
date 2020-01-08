@@ -1,0 +1,4 @@
+F1: 0.92000,Precision: 0.92000,Recall: 0.92000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,15,C. Broyles,http://dbpedia.org/resource/Frank_Broyles,http://dbpedia.org/resource/Chuck_Broyles
+0,20,B. Johnson,http://dbpedia.org/resource/Brent_Johnson_(American_football),http://dbpedia.org/resource/Bobby_Johnson

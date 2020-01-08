@@ -1,0 +1,4 @@
+"F1: 0.66667","Precision: 0.66667","Recall: 0.66667"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","5","Financial News Network","http://dbpedia.org/resource/CNBC","http://dbpedia.org/resource/Financial_News_Network"
+"0","6","CBS Telenoticias","http://dbpedia.org/resource/Telemundo_Internacional","http://dbpedia.org/resource/CBS_Telenoticias http://dbpedia.org/resource/CBS_Telenotícias http://dbpedia.org/resource/CBS_TeleNoticias http://dbpedia.org/resource/Telenoticias http://dbpedia.org/resource/CBS_Telenotícias_Brasil"

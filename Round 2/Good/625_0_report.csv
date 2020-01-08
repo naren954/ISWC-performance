@@ -1,0 +1,5 @@
+F1: 0.83333,Precision: 0.83333,Recall: 0.83333,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,BAP Montero,http://dbpedia.org/resource/BAP_Almirante_Grau_(FM-53),http://dbpedia.org/resource/BAP_Montero_(FM-53)
+0,10,BAP Almirante Grau,http://dbpedia.org/resource/BAP_Capitán_Quiñones_(CL-83),http://dbpedia.org/resource/HNLMS_De_Ruyter_(1944) http://dbpedia.org/resource/HNLMS_De_Ruyter_(C801) http://dbpedia.org/resource/BAP_Almirante_Grau_CLM-81 http://dbpedia.org/resource/BAP_Almirante_Grau_(CLM-81) http://dbpedia.org/resource/HNLMS_De_Zeven_Provinciën_(1944) http://dbpedia.org/resource/HLNMS_De_Ruyter_(C801)
+0,12,ARA Veinticinco de Mayo,http://dbpedia.org/resource/ARA_Veinticinco_de_Mayo_(1890),http://dbpedia.org/resource/Argentine_aircraft_carrier_Veinticinco_De_Mayo http://dbpedia.org/resource/ARA_Veinticinco_de_Mayo_(V-2)

@@ -1,0 +1,7 @@
+F1: 0.84375,Precision: 0.84375,Recall: 0.84375,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,5,Callaghan Lake Provincial Park,http://dbpedia.org/resource/Chain_Lakes_Provincial_Park,http://dbpedia.org/resource/Callaghan_Lake_Provincial_Park http://dbpedia.org/resource/Callaghan_Lake
+0,6,Call Lake Provincial Park,http://dbpedia.org/resource/Chain_Lakes_Provincial_Park,http://dbpedia.org/resource/Call_Lake_Provincial_Park
+0,19,Bridge Lake Provincial Park,http://dbpedia.org/resource/Chain_Lakes_Provincial_Park,http://dbpedia.org/resource/Bridge_Lake_Provincial_Park http://dbpedia.org/resource/Bridge_Lake_Centennial_Provincial_Park
+0,23,Boya Lake Provincial Park,http://dbpedia.org/resource/Chain_Lakes_Provincial_Park,http://dbpedia.org/resource/Boya_Lake_Provincial_Park http://dbpedia.org/resource/Boya_Lake
+0,26,Border Lake Provincial Park,http://dbpedia.org/resource/Chain_Lakes_Provincial_Park,http://dbpedia.org/resource/Border_Lake_Provincial_Park

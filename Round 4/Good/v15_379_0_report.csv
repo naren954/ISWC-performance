@@ -1,0 +1,13 @@
+F1: 0.80357,Precision: 0.80357,Recall: 0.80357,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Oliver Twist,http://dbpedia.org/resource/Oliver_Twist_(2007_miniseries),http://dbpedia.org/resource/Oliver_Twist_(1999_miniseries) http://dbpedia.org/resource/Oliver_Twist_(1999_TV_miniseries)
+0,2,Oliver Twist,http://dbpedia.org/resource/Oliver_Twist_(2007_miniseries),http://dbpedia.org/resource/Oliver_Twist_(1997_film) http://dbpedia.org/resource/Oliver_Twist_(1997)
+0,3,Oliver Twist,http://dbpedia.org/resource/Oliver_Twist_(2007_miniseries),http://dbpedia.org/resource/Oliver_Twist_(1985_TV_miniseries) http://dbpedia.org/resource/Oliver_Twist_(1985_TV_serial)
+0,15,Nothing Sacred,http://dbpedia.org/resource/Nothing_Sacred_(film),http://dbpedia.org/resource/Nothing_Sacred_(TV_series)
+0,19,Noah's Ark,http://dbpedia.org/resource/Noah's_Ark_(miniseries),http://dbpedia.org/resource/Noah's_Ark_(1956_TV_series)
+0,21,Nikah,http://dbpedia.org/resource/Nikah_(film),http://dbpedia.org/resource/Nikah_(TV_Series)
+0,24,Night Man,http://dbpedia.org/resource/Night_Man_(TV_series),http://dbpedia.org/resource/Nightman http://dbpedia.org/resource/The_Night_Man http://dbpedia.org/resource/Night_Man http://dbpedia.org/resource/NightMan
+0,25,Nichols,http://dbpedia.org/resource/Nichelle_Nichols,http://dbpedia.org/resource/Nichols_(TV_show) http://dbpedia.org/resource/Nichols_(TV_series) http://dbpedia.org/resource/James_Garner_as_Nichols
+0,27,Nestor the Long-Eared Christmas Donkey,"http://dbpedia.org/resource/Nestor,_the_Long–Eared_Christmas_Donkey","http://dbpedia.org/resource/Nestor,_The_Long-Eared_Christmas_Donkey http://dbpedia.org/resource/Nestor,_the_Long-Eared_Christmas_Donkey http://dbpedia.org/resource/Nestor_the_Long-Eared_Christmas_Donkey http://dbpedia.org/resource/Nestor_the_Long_Eared_Christmas_Donkey"
+0,32,Napoleon,http://dbpedia.org/resource/Napoleon:_Total_War,http://dbpedia.org/resource/Heroes_&_Villains:_Napoleon http://dbpedia.org/resource/Heroes_and_Villains:_Napoleon http://dbpedia.org/resource/Napoleon_(2007_film) http://dbpedia.org/resource/Napoleon_(2007_TV_serial) http://dbpedia.org/resource/Warriors:_Napoleon
+0,48,Murder in Texas,http://dbpedia.org/resource/The_Positively_True_Adventures_of_the_Alleged_Texas_Cheerleader-Murdering_Mom,http://dbpedia.org/resource/Murder_in_Texas

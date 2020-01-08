@@ -1,0 +1,18 @@
+F1: 0.89404,Precision: 0.89404,Recall: 0.89404,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,15,Thomas,http://dbpedia.org/resource/Thomas_(name),http://dbpedia.org/resource/Thomas_(novel)
+1,28,Medusa,http://dbpedia.org/resource/Medusa_(Dibdin_novel),http://dbpedia.org/resource/Medusa_(Cussler_novel) http://dbpedia.org/resource/Medusa_(Clive_Cussler_novel) http://dbpedia.org/resource/Medusa_(Cussler)
+1,44,The Weakness,http://dbpedia.org/resource/My_Strongest_Weakness,http://dbpedia.org/resource/The_Weakness http://dbpedia.org/resource/The_Weakness_(novel) http://dbpedia.org/resource/The_Weakness_(Animorphs)
+1,57,Lying,http://dbpedia.org/resource/Lying_(Amy_Meredith_song),http://dbpedia.org/resource/Lying_(book)
+1,64,Star Wars Jedi Quest 8: The Changing of the Guard,http://dbpedia.org/resource/The_Mark_of_the_Crown,http://dbpedia.org/resource/The_Changing_of_the_Guard_(novel) http://dbpedia.org/resource/Star_Wars_Jedi_Quest_8:_The_Changing_of_the_Guard
+1,70,The Wings of Merlin,http://dbpedia.org/resource/Merlin_Book_5:_A_Wizard's_Wings,http://dbpedia.org/resource/The_Wings_of_Merlin http://dbpedia.org/resource/A_Wizard's_Wings
+1,73,Sanshirō,http://dbpedia.org/resource/Plawres_Sanshiro,http://dbpedia.org/resource/Sanshiro_(novel) http://dbpedia.org/resource/Sanshirō_(novel)
+1,75,The Secret Servant,http://dbpedia.org/resource/The_Secret_Servant_(Lyall_novel),http://dbpedia.org/resource/The_Secret_Servant_(Silva_novel)
+1,76,The Predator,http://dbpedia.org/resource/Predators_(film),http://dbpedia.org/resource/The_Predator_(Animorphs) http://dbpedia.org/resource/The_Predator_(novel)
+1,102,The Unwaba Revelations,http://dbpedia.org/resource/Myst_IV:_Revelation,http://dbpedia.org/resource/Samit_Basu http://dbpedia.org/resource/Samit_basu http://dbpedia.org/resource/The_Unwaba_Revelations
+1,109,Regeneration,http://dbpedia.org/resource/Regeneration_(Star_Trek:_Enterprise),http://dbpedia.org/resource/Regeneration_(novel) http://dbpedia.org/resource/Regeneration_(book)
+1,118,Into the Jungle,http://dbpedia.org/resource/Welcome_to_the_Jungle,http://dbpedia.org/resource/Sean_b_carroll http://dbpedia.org/resource/Brave_Genius http://dbpedia.org/resource/The_Serengeti_Rules http://dbpedia.org/resource/From_DNA_to_Diversity http://dbpedia.org/resource/Sean_B._Carroll http://dbpedia.org/resource/Into_the_Jungle http://dbpedia.org/resource/Remarkable_Creatures_(biology_book) http://dbpedia.org/resource/Sean_B_Carroll
+1,124,A New Life,http://dbpedia.org/resource/A_New_Life_(album),http://dbpedia.org/resource/A_New_Life_(novel)
+1,137,Inferno,http://dbpedia.org/resource/Isaac_Asimov's_Inferno,http://dbpedia.org/resource/Inferno_(Dan_Brown_novel) http://dbpedia.org/resource/Dan_Brown_Inferno http://dbpedia.org/resource/Inferno_(2013_novel) http://dbpedia.org/resource/Inferno_(Brown_novel) http://dbpedia.org/resource/Inferno_(2015_film)
+1,138,The Royal Ranger,http://dbpedia.org/resource/The_Royal_Ranger:_A_New_Beginning,http://dbpedia.org/resource/The_Royal_Ranger
+1,142,Beyond the Frontier: Dreadnaught,http://fr.dbpedia.org/resource/Intrépide_(roman),http://dbpedia.org/resource/Lost_Fleet http://dbpedia.org/resource/Beyond_the_Frontier:_Invincible http://dbpedia.org/resource/The_Lost_Fleet http://dbpedia.org/resource/Beyond_the_Frontier:_Guardian http://dbpedia.org/resource/The_Lost_Stars:_Tarnished_Knight http://dbpedia.org/resource/Beyond_the_Frontier:_Steadfast http://dbpedia.org/resource/Beyond_the_Frontier:_Dreadnaught

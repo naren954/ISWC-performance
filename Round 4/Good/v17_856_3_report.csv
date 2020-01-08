@@ -1,0 +1,9 @@
+F1: 0.92553,Precision: 0.92553,Recall: 0.92553,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,3,Roberto,http://dbpedia.org/resource/Roberto_Marinho,http://dbpedia.org/resource/Roberto_(horse)
+3,10,Roberto,http://dbpedia.org/resource/Roberto_Marinho,http://dbpedia.org/resource/Roberto_(horse)
+3,24,Roberto,http://dbpedia.org/resource/Roberto_Marinho,http://dbpedia.org/resource/Roberto_(horse)
+3,28,Diesis,http://dbpedia.org/resource/Diesis_(horse),http://dbpedia.org/resource/Lesser_diesis http://dbpedia.org/resource/Enharmonic_diesis http://dbpedia.org/resource/Dieses http://dbpedia.org/resource/5-limit_limma http://dbpedia.org/resource/Undecimal_diesis http://dbpedia.org/resource/One-hundred-twenty-fifth_harmonic http://dbpedia.org/resource/125th_subharmonic http://dbpedia.org/resource/Small_diesis http://dbpedia.org/resource/Greater_diesis http://dbpedia.org/resource/Diesis
+3,42,Bold Lad,http://dbpedia.org/resource/Bold_Lad,http://dbpedia.org/resource/Bold_Lad_(IRE) http://dbpedia.org/resource/Bold_Lad_II
+3,80,Roberto,http://dbpedia.org/resource/Roberto_Marinho,http://dbpedia.org/resource/Roberto_(horse)
+3,90,Roberto,http://dbpedia.org/resource/Roberto_Marinho,http://dbpedia.org/resource/Roberto_(horse)

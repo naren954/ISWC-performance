@@ -1,0 +1,8 @@
+F1: 0.80645,Precision: 0.80645,Recall: 0.80645,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,8,I Do,"http://dbpedia.org/resource/I_Do,_I_Do,_I_Do,_I_Do,_I_Do",http://dbpedia.org/resource/I_Do_(Lost_episode) http://dbpedia.org/resource/I_Do_(Lost)
+0,9,I Do,"http://dbpedia.org/resource/I_Do,_I_Do,_I_Do,_I_Do,_I_Do",http://dbpedia.org/resource/I_Do_(Glee)
+0,16,Human,http://dbpedia.org/resource/Human_(The_Killers_song),http://dbpedia.org/resource/Human_(Stargate_Universe)
+0,22,Homecoming,http://dbpedia.org/resource/Homecoming_(The_Wire),http://dbpedia.org/resource/Homecoming_(Glee)
+0,25,Home,http://dbpedia.org/resource/Home_(Star_Trek:_Enterprise),http://dbpedia.org/resource/Splits_Magazine http://dbpedia.org/resource/Home_(Glee)
+0,26,Home,http://dbpedia.org/resource/Home_(Star_Trek:_Enterprise),http://dbpedia.org/resource/Home_(Game_of_Thrones) http://dbpedia.org/resource/Homeward_Bound_(Game_of_Thrones)

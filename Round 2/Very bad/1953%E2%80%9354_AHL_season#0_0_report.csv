@@ -1,0 +1,8 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Buffalo Bisons,http://dbpedia.org/resource/Buffalo_Bills,http://dbpedia.org/resource/Buffalo_Bisons_(American_Hockey_League) http://dbpedia.org/resource/Buffalo_Bisons_(AHL) http://dbpedia.org/resource/Buffalo_Bisons_(1940-70)
+0,2,Hershey Bears,http://dbpedia.org/resource/The_Hershey_Company,http://dbpedia.org/resource/Hershey_Chocolate_B'ars http://dbpedia.org/resource/Hershey_Bears http://dbpedia.org/resource/Hershey_Bears_Hockey_Club http://dbpedia.org/resource/Hershey_B'ars
+0,3,Cleveland Barons,"http://dbpedia.org/resource/William_Vane,_1st_Duke_of_Cleveland",http://dbpedia.org/resource/Cleveland_Barons_(1937-73) http://dbpedia.org/resource/Cleveland_Barons_(1937–73) http://dbpedia.org/resource/Cleveland_Barons_(1937-1972) http://dbpedia.org/resource/Cleveland_Barons_(1937-1973) http://dbpedia.org/resource/Jacksonville_Barons http://dbpedia.org/resource/Cleveland_Barons_(1937–1973)
+0,4,Pittsburgh Hornets,http://dbpedia.org/resource/The_Green_Hornet_(2011_film),http://dbpedia.org/resource/Pittsburgh_Hornets_(IAHL) http://dbpedia.org/resource/Pittsburgh_Hornets http://dbpedia.org/resource/Pittsburgh_Hornets_(AHL)
+0,5,Providence Reds,"http://dbpedia.org/resource/Providence,_Rhode_Island",http://dbpedia.org/resource/Providence_Reds http://dbpedia.org/resource/Rhode_Island_Reds_(ice_hockey)
+0,6,Syracuse Warriors,"http://dbpedia.org/resource/Syracuse,_New_York",http://dbpedia.org/resource/Springfield_Kings http://dbpedia.org/resource/Syracuse_Warriors http://dbpedia.org/resource/Springfield_Indians

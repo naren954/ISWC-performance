@@ -1,0 +1,9 @@
+F1: 0.56250,Precision: 0.56250,Recall: 0.56250,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,1,R. Taylor,http://dbpedia.org/resource/Elizabeth_Taylor,http://dbpedia.org/resource/Russi_Taylor
+2,3,J. B. Wilson,http://dbpedia.org/resource/B._J._Wilson,http://dbpedia.org/resource/Judy_Blye_Wilson http://dbpedia.org/resource/Judy_Wilson_(casting_director)
+2,5,C. Jones,http://dbpedia.org/resource/Chuck_Jones,http://dbpedia.org/resource/Christopher_Jones_(actor)
+2,10,J. Hylton,http://dbpedia.org/resource/Jack_Hylton,http://dbpedia.org/resource/Jane_Hylton
+2,11,C. Moore,http://dbpedia.org/resource/Colleen_Moore,http://dbpedia.org/resource/Candy_Moore
+2,14,J. Lipton,http://dbpedia.org/resource/Peggy_Lipton,http://dbpedia.org/resource/James_Lipton http://dbpedia.org/resource/James_lipton http://dbpedia.org/resource/Scrumtrulecent
+2,16,Y. Okay,http://dbpedia.org/resource/Meral_Okay,http://dbpedia.org/resource/Yaman_Okay

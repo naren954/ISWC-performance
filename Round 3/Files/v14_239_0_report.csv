@@ -1,0 +1,7 @@
+"F1: 0.68750","Precision: 0.68750","Recall: 0.68750"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","3","White Gold","http://dbpedia.org/resource/White_Gold_(1927_film)","http://dbpedia.org/resource/White_Gold_(1949_film) http://dbpedia.org/resource/Weißes_Gold"
+"0","5","White Fang","http://dbpedia.org/resource/White_Fang_(1973_film)","http://dbpedia.org/resource/White_Fang_(1936_film)"
+"0","6","White Dwarf","http://dbpedia.org/resource/Snow_White_and_the_Seven_Dwarfs_(1937_film)","http://dbpedia.org/resource/White_Dwarf_(film) http://dbpedia.org/resource/White_Dwarf_(1995_film)"
+"0","8","White Christmas","http://dbpedia.org/resource/White_Christmas_Blues","http://dbpedia.org/resource/White_Christmas_(1954_movie) http://dbpedia.org/resource/White_Christmas_(film) http://dbpedia.org/resource/White_Christmas_(1954_film)"
+"0","9","White Cargo","http://dbpedia.org/resource/White_Cargo","http://dbpedia.org/resource/Cargaison_blanche http://dbpedia.org/resource/White_Cargo_(1937_film) http://dbpedia.org/resource/Le_chemin_de_Rio http://dbpedia.org/resource/Cargaisons_Blanches"

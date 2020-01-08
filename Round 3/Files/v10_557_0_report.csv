@@ -1,0 +1,5 @@
+"F1: 0.72727","Precision: 0.72727","Recall: 0.72727"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","3","V. Bhosle","http://dbpedia.org/resource/Asha_Bhosle","http://dbpedia.org/resource/Varsha_Bhosle"
+"0","7","S. Flynn","http://dbpedia.org/resource/Errol_Flynn","http://dbpedia.org/resource/Sean_Flynn_(born_1941) http://dbpedia.org/resource/Sean_Flynn_(film_actor) http://dbpedia.org/resource/Sean_Leslie_Flynn http://dbpedia.org/resource/Sean_Flynn_(photojournalist)"
+"0","8","S. Stallone","http://dbpedia.org/resource/Sylvester_Stallone","http://dbpedia.org/resource/Sage_Moonblood_Stallone http://dbpedia.org/resource/Sage_stallone http://dbpedia.org/resource/Sage_Stallone"

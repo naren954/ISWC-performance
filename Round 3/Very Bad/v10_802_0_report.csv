@@ -1,0 +1,11 @@
+F1: 0.25000,Precision: 0.25000,Recall: 0.25000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,4,White House Farm,"http://dbpedia.org/resource/White_House_Farm_(Jefferson_County,_West_Virginia)","http://dbpedia.org/resource/White_House_Farm_(Chestertown,_Maryland)"
+0,5,White House,http://dbpedia.org/resource/White_House,"http://dbpedia.org/resource/White_House_(Syracuse,_New_York)"
+0,6,White House,http://dbpedia.org/resource/White_House,"http://dbpedia.org/resource/White_House_(Rock_Hill,_South_Carolina)"
+0,7,White House,http://dbpedia.org/resource/White_House,"http://dbpedia.org/resource/White_House_(Huntsville,_North_Carolina)"
+0,8,White House,http://dbpedia.org/resource/White_House,"http://dbpedia.org/resource/White_House_(Helena,_Arkansas)"
+0,9,White House,http://dbpedia.org/resource/White_House,"http://dbpedia.org/resource/White_House_(Casa_Grande,_Arizona)"
+0,10,White House,http://dbpedia.org/resource/White_House,"http://dbpedia.org/resource/White_House_(Brentsville,_Virginia)"
+0,11,White House,http://dbpedia.org/resource/White_House,"http://dbpedia.org/resource/White_House_(Bastrop,_Texas)"
+0,12,White Horse Tavern,"http://dbpedia.org/resource/White_Horse_Tavern_(East_Whiteland_Township,_Pennsylvania)","http://dbpedia.org/resource/White_Horse_Tavern,_Rhode_Island http://dbpedia.org/resource/White_Horse_Tavern_(Newport,_Rhode_Island) http://dbpedia.org/resource/White_Horse_Tavern_(Rhode_Island) http://dbpedia.org/resource/White_horse_tavern_rhode_island http://dbpedia.org/resource/White_Horse_Tavern_(Newport)"

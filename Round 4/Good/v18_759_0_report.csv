@@ -1,0 +1,8 @@
+F1: 0.87500,Precision: 0.87500,Recall: 0.87500,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,4,Yancey Collegiate Institute Historic District,http://dbpedia.org/resource/Buckingham_Female_Collegiate_Institute_Historic_District,http://dbpedia.org/resource/Yancey_Collegiate_Institute_Historic_District
+0,7,Yadkin College Historic District,http://dbpedia.org/resource/Elon_College_Historic_District,http://dbpedia.org/resource/Yadkin_College_Historic_District
+0,12,Wysor Heights Historic District,http://dbpedia.org/resource/Hamilton_Heights_Historic_District,http://dbpedia.org/resource/Wysor_Heights_Historic_District
+0,16,Wyoming Railroad Station,http://dbpedia.org/resource/Wyoming_station_(Delaware),http://dbpedia.org/resource/Wyoming_Railroad_Station
+0,18,Wyoming,"http://dbpedia.org/resource/Wyoming_County,_West_Virginia","http://dbpedia.org/resource/Wyoming_(Studley,_Virginia)"
+0,19,Wyoming,"http://dbpedia.org/resource/Wyoming_County,_West_Virginia","http://dbpedia.org/resource/Wyoming_(Clinton,_Maryland)"

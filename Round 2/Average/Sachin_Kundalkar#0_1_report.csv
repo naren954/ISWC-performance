@@ -1,0 +1,4 @@
+F1: 0.60000,Precision: 0.60000,Recall: 0.60000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,4,Restaurant[21],http://dbpedia.org/resource/Restaurant,http://dbpedia.org/resource/Restaurant_(2006_film) http://dbpedia.org/resource/Restaurant_(movie)
+1,8,Happy Journey,http://dbpedia.org/resource/Happy_Journey_(2014_Malayalam_film),http://dbpedia.org/resource/Happy_Journey_(2014_film) http://dbpedia.org/resource/Happy_Journey_(2014_Marathi_film)

@@ -1,0 +1,5 @@
+F1: 0.88462,Precision: 0.88462,Recall: 0.88462,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,9,G. Thomas,http://dbpedia.org/resource/George_Thomas_(badminton),http://dbpedia.org/resource/Gordon_Thomas_(cyclist) http://dbpedia.org/resource/Tiny_Thomas
+0,19,C. King,http://dbpedia.org/resource/Clyde_King,http://dbpedia.org/resource/Charles_King_(cyclist)
+0,25,A. Jackson,http://dbpedia.org/resource/Arnold_Jackson_(British_Army_officer),http://dbpedia.org/resource/Alan_Jackson_(cyclist)

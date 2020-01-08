@@ -1,0 +1,12 @@
+F1: 0.47368,Precision: 0.47368,Recall: 0.47368,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,Resurrection,http://dbpedia.org/resource/Resurrection_(American_TV_series),http://dbpedia.org/resource/Resurrection_(South_Korean_TV_series) http://dbpedia.org/resource/Resurrection_(2005_TV_series) http://dbpedia.org/resource/Buhwal_(TV_series)
+1,3,The Devil,http://dbpedia.org/resource/Shout_at_the_Devil,http://dbpedia.org/resource/The_Devil_(2007_TV_series) http://dbpedia.org/resource/Ma_Wang http://dbpedia.org/resource/The_Devil_(TV_series)
+1,4,Hero,http://dbpedia.org/resource/Heroes_(American_TV_series),http://dbpedia.org/resource/Hero_(2009_TV_series) http://dbpedia.org/resource/Unseen_Warfare http://dbpedia.org/resource/Hero_(MBC)
+1,10,"Drama Special \Sangkwoni (Business District)\""""",http://dbpedia.org/resource/Drama_Special_Series,http://dbpedia.org/resource/Drama_City
+1,11,Iris II,http://dbpedia.org/resource/Iris_II:_New_Generation,http://dbpedia.org/resource/Iris_II_(TV_series) http://dbpedia.org/resource/Iris_2 http://dbpedia.org/resource/IRIS_2
+1,12,Shark,http://dbpedia.org/resource/Shark_(American_TV_series),http://dbpedia.org/resource/Shark_(2013_TV_series) http://dbpedia.org/resource/Don't_Look_Back_:_The_Legend_of_Orpheus http://dbpedia.org/resource/Don't_Look_Back:_The_Legend_of_Orpheus
+1,14,God's Gift - 14 Days[8],http://dbpedia.org/resource/God's_Gift:_14_Days,http://dbpedia.org/resource/God's_Gift_-_14_Days
+1,15,Witch's Romance[9],http://dbpedia.org/resource/A_Witch's_Love,http://dbpedia.org/resource/Witch's_Romance
+1,16,Temptation,http://dbpedia.org/resource/Temptation_(Australian_game_show),http://dbpedia.org/resource/Temptation_(2014_TV_series)
+1,18,Mask[11],http://dbpedia.org/resource/The_Mask_(film),http://dbpedia.org/resource/Mask_(2015_TV_series)

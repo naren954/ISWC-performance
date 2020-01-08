@@ -1,0 +1,18 @@
+F1: 0.72881,Precision: 0.72881,Recall: 0.72881,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,L. Bacon,http://dbpedia.org/resource/Kevin_Bacon,http://dbpedia.org/resource/Lloyd_Bacon
+1,4,J. McCrea,http://dbpedia.org/resource/Joel_McCrea,http://dbpedia.org/resource/Jody_McCrea
+1,10,B. Mayne,http://dbpedia.org/resource/Ferdy_Mayne,http://dbpedia.org/resource/Belinda_Mayne
+1,13,R. W. Thaw,http://dbpedia.org/resource/Russell_Thaw,http://dbpedia.org/resource/Russell_William_Thaw
+1,17,S. Flynn,http://dbpedia.org/resource/Errol_Flynn,http://dbpedia.org/resource/Sean_Flynn_(film_actor) http://dbpedia.org/resource/Sean_Leslie_Flynn http://dbpedia.org/resource/Sean_Flynn_(photojournalist) http://dbpedia.org/resource/Sean_Flynn_(born_1941)
+1,19,E. Hall,http://dbpedia.org/resource/Peter_Hall_(director),http://dbpedia.org/resource/Ellen_Hall
+1,20,E. Göring,http://dbpedia.org/resource/Hermann_Göring,http://dbpedia.org/resource/Edda_Goering http://dbpedia.org/resource/Edda_Göring
+1,22,K. Harmon,http://dbpedia.org/resource/Mark_Harmon,http://dbpedia.org/resource/Kelly_Harmon
+1,26,S. Miller,http://dbpedia.org/resource/Arthur_Miller,http://dbpedia.org/resource/Sadie_Miller
+1,33,S. Zimbalist,http://dbpedia.org/resource/Efrem_Zimbalist_Jr.,http://dbpedia.org/resource/Stephaine_Zimbalist http://dbpedia.org/resource/Stephanie_Zimbalist
+1,34,T. Woodward,http://dbpedia.org/resource/Peter_Woodward,http://dbpedia.org/resource/Tim_Woodward http://dbpedia.org/resource/Tim_Woodward_(actor)
+1,35,L. D. Filippo,http://dbpedia.org/resource/Philip_V_of_Spain,http://dbpedia.org/resource/Luca_Della_Porta http://dbpedia.org/resource/Luca_De_Filippo
+1,38,N. Reagan,http://dbpedia.org/resource/Ronald_Reagan,http://dbpedia.org/resource/Nancy_D._Reagan http://dbpedia.org/resource/First_Lady_Nancy_Reagan http://dbpedia.org/resource/Nancy_reagan http://dbpedia.org/resource/Anne_Francis_Robbins http://dbpedia.org/resource/Anne_F_Robbins http://dbpedia.org/resource/Nancy_Davis_Reagan http://dbpedia.org/resource/Ann_Frances_Robbins http://dbpedia.org/resource/Nancy_Davis_(actress) http://dbpedia.org/resource/Anne_Frances_Robbins_Reagan http://dbpedia.org/resource/Anne_F._Robbins http://dbpedia.org/resource/Nancy_D_Reagan http://dbpedia.org/resource/Anne_Frances_Robbins http://dbpedia.org/resource/Anne_Robbins http://dbpedia.org/resource/Nancy_Reagan
+1,45,E. B. Jr.,http://dbpedia.org/resource/George_W._Bush,"http://dbpedia.org/resource/Ed_Begley_Junior http://dbpedia.org/resource/Ed_Begley_Jr http://dbpedia.org/resource/Ed_Begley_Jr. http://dbpedia.org/resource/Ed_Bagley,_Jr. http://dbpedia.org/resource/Edward_Begley,_Jr. http://dbpedia.org/resource/Edward_James_Begley,_Jr. http://dbpedia.org/resource/Ed_Begley,_Jr http://dbpedia.org/resource/Edward_James_Begley http://dbpedia.org/resource/Ed_Bagly,_Jr. http://dbpedia.org/resource/Ed_Begley,_Jr."
+1,46,J. Eisenhower,http://dbpedia.org/resource/Dwight_D._Eisenhower,http://dbpedia.org/resource/John_S.D._Eisenhower http://dbpedia.org/resource/John_S._D._Eisenhower http://dbpedia.org/resource/John_Eisenhower
+1,47,R. Brown,http://dbpedia.org/resource/Roy_Brown_(blues_musician),"http://dbpedia.org/resource/Ruth_Brown http://dbpedia.org/resource/Brown,_Ruth"

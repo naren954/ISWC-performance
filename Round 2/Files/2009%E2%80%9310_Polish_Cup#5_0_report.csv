@@ -1,0 +1,5 @@
+"F1: 0.25000","Precision: 0.25000","Recall: 0.25000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","1","Ruch ChorzÃ³w","http://dbpedia.org/resource/Chorzów","http://dbpedia.org/resource/Ruch_Chorzów"
+"0","2","ZagÅ\u0082Ä\u0099bie Sosnowiec","http://dbpedia.org/resource/Sosnowiec","http://dbpedia.org/resource/Zagłębie_Sosnowiec"
+"0","4","Korona Kielce","http://dbpedia.org/resource/Kielce","http://dbpedia.org/resource/Korona_Kielce/Coat_of_arms http://dbpedia.org/resource/Korona_Kielce_coat_of_arms http://dbpedia.org/resource/Korona_Kielce http://dbpedia.org/resource/Korona_II_Kielce"

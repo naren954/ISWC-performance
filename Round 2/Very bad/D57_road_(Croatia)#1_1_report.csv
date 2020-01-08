@@ -1,0 +1,11 @@
+F1: 0.10000,Precision: 0.10000,Recall: 0.10000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,2,Vukovar D2 to Osijek (to the west) and to Ilok (to the east). The northern terminus of the road.,http://dbpedia.org/resource/Road,http://dbpedia.org/resource/History_of_Vukovar http://dbpedia.org/resource/Vukovár http://dbpedia.org/resource/Вуковар http://dbpedia.org/resource/Vukovar
+1,3,Negoslavci Å½4150 to Petrovci and Stari Jankovci,"http://dbpedia.org/resource/Dude,_Where's_My_Car?",http://dbpedia.org/resource/Negoslavci_Municipality http://dbpedia.org/resource/Negoslavci
+1,6,Orolik D46 to Vinkovci (to the west). The D57 and the D46 are concurrent to the east.,"http://dbpedia.org/resource/List_of_bus_routes_in_Nassau_County,_New_York",http://dbpedia.org/resource/Orolik
+1,7,D46 to Tovarnik (to the east). The D57 and the D46 are concurrent to the west.,"http://dbpedia.org/resource/List_of_bus_routes_in_Nassau_County,_New_York",http://dbpedia.org/resource/D46_road_(Croatia) http://dbpedia.org/resource/D46_(Croatia)
+1,8,Ä\u0090eletovci,,http://dbpedia.org/resource/Đeletovci
+1,9,Nijemci Å½4224 to Otok. Å½4233 to Tovarnik.,http://dbpedia.org/resource/Journey_2:_The_Mysterious_Island,http://dbpedia.org/resource/Nijemci_Municipality http://dbpedia.org/resource/Nijemci
+1,10,PodgraÄ\u0091e,,"http://dbpedia.org/resource/Podgrađe,_Vukovar-Syrmia_County"
+1,11,ApÅ¡evci,,http://dbpedia.org/resource/Apševci
+1,12,"Lipovac L46061 looping from the D57 road, forming two intersections.",http://dbpedia.org/resource/Plane_(geometry),"http://dbpedia.org/resource/Lipovac,_Vukovar-Srijem_County http://dbpedia.org/resource/Lipovac,_Vukovar-Syrmia_County http://dbpedia.org/resource/Lipovac_(Croatia) http://dbpedia.org/resource/Lipovac,_Croatia"

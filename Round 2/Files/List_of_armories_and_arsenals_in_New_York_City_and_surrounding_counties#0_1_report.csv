@@ -1,0 +1,4 @@
+"F1: 0.84615","Precision: 0.84615","Recall: 0.84615"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","14","(7th) Seventh Regiment \/ Fifth Avenue \/ Central Park Arsenal","http://dbpedia.org/resource/Seventh_Regiment_Armory","http://dbpedia.org/resource/The_Arsenal_(Central_Park) http://dbpedia.org/resource/Arsenal_(Central_Park) http://dbpedia.org/resource/Arsenal,_Central_Park"
+"1","38","(19th) Infantry Regiment \/ Broadway-Newburgh Armory (1879)","nan","http://dbpedia.org/resource/New_York_State_Armory_(Newburgh) http://dbpedia.org/resource/Newburgh_Armory http://dbpedia.org/resource/New_York_State_Armory_(Newburgh,_New_York)"

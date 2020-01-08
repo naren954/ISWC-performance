@@ -1,0 +1,5 @@
+"F1: 0.76923","Precision: 0.76923","Recall: 0.76923"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","3","A Pup Named Scooby-Doo","http://dbpedia.org/resource/Scooby-Doo","http://dbpedia.org/resource/A_Pup_Named_Scooby_Doo http://dbpedia.org/resource/A_Pup_Named_Scooby-Doo http://dbpedia.org/resource/Pup_Named_Scooby-Doo"
+"0","5","A Favorita","http://dbpedia.org/resource/The_Favourite","http://dbpedia.org/resource/A_Favorita"
+"0","13","Ángela","http://it.dbpedia.org/resource/Angela_(Ciclo_dell'Eredità)","http://dbpedia.org/resource/Ángela_(telenovela) http://dbpedia.org/resource/Angela_(telenovela)"

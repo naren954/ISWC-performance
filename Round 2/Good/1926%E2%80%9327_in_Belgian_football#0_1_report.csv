@@ -1,0 +1,4 @@
+F1: 0.80000,Precision: 0.80000,Recall: 0.80000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,3,Tilleur FC,http://dbpedia.org/resource/R.F.C._Tilleur,http://dbpedia.org/resource/FC_Tilleur http://dbpedia.org/resource/F.C._Tilleur http://dbpedia.org/resource/Tilleur_F.C. http://dbpedia.org/resource/R_F_C_Tilleur-Saint-Nicolas http://dbpedia.org/resource/RFC_Tilleur http://dbpedia.org/resource/Tilleur_FC http://dbpedia.org/resource/R._F._C._Tilleur-Saint-Nicolas http://dbpedia.org/resource/RFC_Tilleur-Saint-Nicolas http://dbpedia.org/resource/R.F.C._Tilleur-Saint-Nicolas http://dbpedia.org/resource/R._Tilleur_F.C.
+1,5,RFC LiÃ©geois,http://dbpedia.org/resource/RFC_Liège,http://dbpedia.org/resource/R.F.C._de_Liège

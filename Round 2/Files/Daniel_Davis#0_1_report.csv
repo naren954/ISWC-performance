@@ -1,0 +1,5 @@
+"F1: 0.50000","Precision: 0.50000","Recall: 0.50000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","3","Blind Justice","http://dbpedia.org/resource/Blind_Justice_(1916_film)","http://dbpedia.org/resource/Blind_Justice_(1986_film)"
+"1","4","K-9","http://dbpedia.org/resource/K-9_(TV_series)","http://dbpedia.org/resource/K-9_(film) http://dbpedia.org/resource/K-9_(1989_movie) http://dbpedia.org/resource/K-9_(1989_film) http://dbpedia.org/resource/K-9_(movie)"
+"1","6","Havana","http://dbpedia.org/resource/Havana_(novel)","http://dbpedia.org/resource/Havana_(film)"

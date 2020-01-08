@@ -1,0 +1,7 @@
+F1: 0.84848,Precision: 0.84848,Recall: 0.84848,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,6,Congress Apartments,http://dbpedia.org/resource/Dunbar_Apartments,http://dbpedia.org/resource/Congress_Apartments
+1,11,Elk Lake Guard Station,http://dbpedia.org/resource/Paulina_Lake_Guard_Station,http://dbpedia.org/resource/Elk_Lake_Guard_Station
+1,23,New Taggart Hotel,http://dbpedia.org/resource/Grand_Hotel_(New_York_City),http://dbpedia.org/resource/New_Taggart_Hotel
+1,27,Old US Post Office,"http://dbpedia.org/resource/Old_Post_Office_(Albuquerque,_New_Mexico)","http://dbpedia.org/resource/Old_U.S._Post_Office_(Bend,_Oregon) http://dbpedia.org/resource/Old_US_Post_Office_(Bend,_Oregon)"
+1,39,Trinity Episcopal Church,http://dbpedia.org/resource/Trinity_Church_(Manhattan),"http://dbpedia.org/resource/Trinity_Episcopal_Church_(Bend,_Oregon)"

@@ -1,0 +1,11 @@
+F1: 0.77500,Precision: 0.77500,Recall: 0.77500,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,4,Golden Years,http://dbpedia.org/resource/Golden_Years_(TV_programme),http://dbpedia.org/resource/Golden_Years_(TV_series) http://dbpedia.org/resource/Golden_Years_(miniseries) http://dbpedia.org/resource/Stephen_King's_Golden_Years
+0,11,Girltrash!,http://dbpedia.org/resource/Girltrash:_All_Night_Long,http://dbpedia.org/resource/Girltrash!:_All_Night_Long http://dbpedia.org/resource/GirlTrash http://dbpedia.org/resource/Girltrash:_I_Heart_The_Apocalypse http://dbpedia.org/resource/Girtrash!:_All_Night_Long http://dbpedia.org/resource/Misty_Monroe http://dbpedia.org/resource/GIrltrash:_I_Heart_The_Apocalypse http://dbpedia.org/resource/Girltrash http://dbpedia.org/resource/GIRLTRASH!_All_Night_Long_(The_Movie) http://dbpedia.org/resource/GIRLTRASH!_All_Night_Long http://dbpedia.org/resource/Girltrash! http://dbpedia.org/resource/Daisy_Robson http://dbpedia.org/resource/Colby_Robson
+0,13,Getting Together,"http://dbpedia.org/resource/Dude,_We're_Getting_the_Band_Back_Together",http://dbpedia.org/resource/Getting_Together http://dbpedia.org/resource/Getting_Together_(TV_series)
+0,14,Getting On,http://dbpedia.org/resource/Getting_On_(British_TV_series),http://dbpedia.org/resource/Getting_On_(U.S._TV_series)
+0,19,Gates,http://dbpedia.org/resource/Gates_(surname),http://dbpedia.org/resource/Gates_(TV_series)
+0,21,Garo: Makai no Hana,http://dbpedia.org/resource/Garo_(TV_series),http://dbpedia.org/resource/Garo:_Makai_no_Hana http://dbpedia.org/resource/牙狼-GARO-_-魔戒ノ花-
+0,26,Gabriela,http://dbpedia.org/resource/Gabriela_(given_name),"http://dbpedia.org/resource/Gabriela,_Cravo_e_Canela_(2012) http://dbpedia.org/resource/Gabriela_(telenovela)"
+0,29,Fury,http://dbpedia.org/resource/Fury_(2014_film),http://dbpedia.org/resource/Brave_Stallion http://dbpedia.org/resource/Fury_(TV_Series) http://dbpedia.org/resource/Fury_(TV_series)
+0,37,Frankenstein,http://dbpedia.org/resource/Frankenstein_(2004_film),http://dbpedia.org/resource/Frankenstein_(miniseries) http://dbpedia.org/resource/Frankenstein_(TV_miniseries) http://dbpedia.org/resource/Frankenstein_(US_TV_miniseries)

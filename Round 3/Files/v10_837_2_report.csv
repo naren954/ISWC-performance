@@ -1,0 +1,6 @@
+"F1: 0.94521","Precision: 0.94521","Recall: 0.94521"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"2","12","Colin","http://dbpedia.org/resource/Colin_Hanks","http://dbpedia.org/resource/Colin_(horse)"
+"2","30","Hamburg","http://dbpedia.org/resource/Ulmus_'Hamburg'","http://dbpedia.org/resource/Hamburg_(horse)"
+"2","39","Roberto","http://dbpedia.org/resource/Roberto_Marinho","http://dbpedia.org/resource/Roberto_(horse)"
+"2","42","Roberto","http://dbpedia.org/resource/Roberto_Marinho","http://dbpedia.org/resource/Roberto_(horse)"

@@ -1,0 +1,5 @@
+F1: 0.75000,Precision: 0.75000,Recall: 0.75000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,3,Cervical spinal nerve 8,http://dbpedia.org/resource/Spinal_nerve,http://dbpedia.org/resource/Nervus_spinalis_C8 http://dbpedia.org/resource/C8_spinal_nerve http://dbpedia.org/resource/Cervical_spinal_nerve_8 http://dbpedia.org/resource/C8_nerve
+1,9,Aortic arch,http://dbpedia.org/resource/Aorta,http://dbpedia.org/resource/Isthmus_of_the_aorta http://dbpedia.org/resource/Isthmus_of_aorta http://dbpedia.org/resource/Aortic_knob http://dbpedia.org/resource/Arch_of_the_aorta http://dbpedia.org/resource/Aortic_arch http://dbpedia.org/resource/Arch_of_aorta http://dbpedia.org/resource/Transverse_aorta http://dbpedia.org/resource/Tranverse_aortic_arch http://dbpedia.org/resource/Transverse_aortic_arch http://dbpedia.org/resource/Arcus_aortae
+1,10,Thoracic ganglia,http://dbpedia.org/resource/Thoracic_vertebrae,http://dbpedia.org/resource/First_thoracic_ganglion http://dbpedia.org/resource/Thoracic_ganglia http://dbpedia.org/resource/Thoracic_ganglion http://dbpedia.org/resource/First_thoracic_ganglions http://dbpedia.org/resource/Ganglia_thoracica

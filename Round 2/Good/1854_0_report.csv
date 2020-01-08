@@ -1,0 +1,24 @@
+F1: 0.83824,Precision: 0.83824,Recall: 0.83824,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,The Nutcracker,http://dbpedia.org/resource/The_Nutcracker_in_3D,http://dbpedia.org/resource/The_Nutcracker_(1993_film)
+0,5,The NeverEnding Story,http://dbpedia.org/resource/The_NeverEnding_Story_(film),http://dbpedia.org/resource/The_NeverEnding_Story_(film_series)
+0,19,The Lover,http://dbpedia.org/resource/Latin_Lover_(TV_series),http://dbpedia.org/resource/The_Lover_(film)
+0,20,The Lost Letter,http://dbpedia.org/resource/A_Lost_Letter_(film),http://dbpedia.org/resource/Пропавшая_грамота http://dbpedia.org/resource/A_Disappeared_Diploma http://dbpedia.org/resource/The_Lost_Letter
+0,46,The Killing,http://dbpedia.org/resource/The_Killing_(American_TV_series),http://dbpedia.org/resource/The_Killing_(1956_film) http://dbpedia.org/resource/The_Killing_(film)
+0,53,The Inhabited Island,http://dbpedia.org/resource/Dark_Planet_(film),http://dbpedia.org/resource/The_Inhabited_Island http://dbpedia.org/resource/Obitaemiy_Ostrov
+0,57,The Incredible Machine,http://dbpedia.org/resource/Man:_The_Incredible_Machine,http://dbpedia.org/resource/The_Incredible_Machine_(film)
+0,66,The Hit List,http://dbpedia.org/resource/The_Hit_List_(2011_film),http://dbpedia.org/resource/The_Hit_List_(2012_Indian_film) http://dbpedia.org/resource/Hit_List_(2012_Indian_film)
+0,67,The Hire,http://dbpedia.org/resource/The_KLF,http://dbpedia.org/resource/BMW_Films http://dbpedia.org/resource/The_Hire:_Star http://dbpedia.org/resource/BMW_movies http://dbpedia.org/resource/BMW_films http://dbpedia.org/resource/Wego_Motels http://dbpedia.org/resource/BMW_film http://dbpedia.org/resource/The_Hire:_Ticker http://dbpedia.org/resource/The_Hire http://dbpedia.org/resource/The_Hire:_Beat_The_Devil http://dbpedia.org/resource/BMW_movie http://dbpedia.org/resource/Ambush_(2001_film)
+0,78,The Gods Must Be Crazy II,http://dbpedia.org/resource/The_Gods_Must_Be_Crazy,http://dbpedia.org/resource/The_Gods_Must_Be_Crazy_II http://dbpedia.org/resource/The_Gods_Must_Be_Crazy_2
+0,87,The Finest Hours,http://dbpedia.org/resource/The_Finest_Hours_(2016_film),http://dbpedia.org/resource/The_Finest_Hours_(1964_film)
+0,92,The Dust Bowl,http://dbpedia.org/resource/The_Dust_Bowl_(miniseries),http://dbpedia.org/resource/The_Dust_Bowl_(film) http://dbpedia.org/resource/The_Dust_Bowl_(documentary)
+0,99,The Deal,http://dbpedia.org/resource/The_Deal_(Seinfeld),http://dbpedia.org/resource/The_Deal_(2005_film)
+0,101,The Dark Stairway,http://dbpedia.org/resource/The_Dark_Stairway,http://dbpedia.org/resource/The_Dark_Stairway_(1953_film)
+0,103,The Crew,http://dbpedia.org/resource/The_Crew_(video_game),http://dbpedia.org/resource/The_Crew_(2000_film)
+0,104,The Cool School,http://dbpedia.org/resource/The_Cool_School_(2008_film),http://dbpedia.org/resource/The_Cool_School_(film)
+0,105,The Conspiracy of Silence,http://dbpedia.org/resource/Conspiracy_of_Silence_(film),http://dbpedia.org/resource/The_Conspiracy_of_Silence
+0,107,The Congress,http://dbpedia.org/resource/Indian_National_Congress,http://dbpedia.org/resource/The_Congress_(1988_film) http://dbpedia.org/resource/Congress_(documentary)
+0,108,The Comic,http://dbpedia.org/resource/Teenage_Mutant_Ninja_Turtles_(Mirage_Studios),http://dbpedia.org/resource/The_Comic
+0,115,The Capture,http://dbpedia.org/resource/Capture_(band),http://dbpedia.org/resource/The_Capture_(film)
+0,117,The Burning Season,http://dbpedia.org/resource/The_Burning_Season_(1994_film),http://dbpedia.org/resource/The_Burning_Season_(2008_film)
+0,125,The Big Sleep,http://dbpedia.org/resource/The_Big_Sleep_(1946_film),http://dbpedia.org/resource/The_Big_Sleep_(1978_film)

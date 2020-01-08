@@ -1,0 +1,8 @@
+"F1: 0.79310","Precision: 0.79310","Recall: 0.79310"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"4","1","Amrita Express","http://dbpedia.org/resource/Amrita","http://dbpedia.org/resource/Amrita_Express http://dbpedia.org/resource/Amritha_Express"
+"4","5","Amrita Express","http://dbpedia.org/resource/Amrita","http://dbpedia.org/resource/Amrita_Express http://dbpedia.org/resource/Amritha_Express"
+"4","16","Kochuveli Lokmanya Tilak Garib Rath","http://dbpedia.org/resource/Kochuveli_Lokmanya_Tilak_Terminus_Garib_Rath_Express","http://dbpedia.org/resource/Garib_rath_express http://dbpedia.org/resource/Garib_Rath_(train_service) http://dbpedia.org/resource/Garib_Rath http://dbpedia.org/resource/Garib_rath http://dbpedia.org/resource/Garib_Rath_Express"
+"4","23","Guwahati Thiruvananthapuram Express","http://dbpedia.org/resource/Thiruvananthapuram_-_Silchar_Superfast_Express","http://dbpedia.org/resource/Guwahati_Thiruvananthapuram_Express"
+"4","30","Mumbai Lokmanya Tilak Kochuveli Garib Rath","http://dbpedia.org/resource/Kochuveli_Lokmanya_Tilak_Terminus_Garib_Rath_Express","http://dbpedia.org/resource/Garib_rath_express http://dbpedia.org/resource/Garib_Rath_(train_service) http://dbpedia.org/resource/Garib_Rath http://dbpedia.org/resource/Garib_rath http://dbpedia.org/resource/Garib_Rath_Express"
+"4","41","Guwahati Thiruvananthapuram Express","http://dbpedia.org/resource/Thiruvananthapuram_-_Silchar_Superfast_Express","http://dbpedia.org/resource/Guwahati_Thiruvananthapuram_Express"

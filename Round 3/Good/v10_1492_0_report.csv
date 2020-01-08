@@ -1,0 +1,14 @@
+F1: 0.85714,Precision: 0.85714,Recall: 0.85714,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,13,T. Ryan,http://dbpedia.org/resource/Titus_Ryan,http://dbpedia.org/resource/Thomas_Ryan_(rugby_player) http://dbpedia.org/resource/Darby_Ryan http://dbpedia.org/resource/Thomas_Ryan_(rugby_union)
+0,17,T. Harding,http://dbpedia.org/resource/Natasha_Harding,http://dbpedia.org/resource/Theo_Harding
+0,21,S. Mackay,http://dbpedia.org/resource/Malky_Mackay,http://dbpedia.org/resource/Shawn_Mackay
+0,24,R. Brown,"http://dbpedia.org/resource/Roger_Brown_(basketball,_born_1942)",http://dbpedia.org/resource/Ross_Brown_(rugby_union)
+0,27,R. Johnston,http://dbpedia.org/resource/Rebecca_Johnston,"http://dbpedia.org/resource/Major_Robert_Johnston_VC http://dbpedia.org/resource/Major_Robert_Johnston http://dbpedia.org/resource/Major_Robert_Johnston,_VC http://dbpedia.org/resource/Robert_Johnston_(rugby_player_and_soldier) http://dbpedia.org/resource/Robert_Johnston_(VC) http://dbpedia.org/resource/Robert_Johnston_VC http://dbpedia.org/resource/Robert_Johnston,_VC"
+0,31,P. Phillips,http://dbpedia.org/resource/Pup_Phillips,http://dbpedia.org/resource/Percy_Phillips_(rugby_player)
+0,39,M. Jordan,http://dbpedia.org/resource/Michael_Jordan,http://dbpedia.org/resource/Martyn_Jordan
+0,48,J. Williams,http://dbpedia.org/resource/Jamal_Williams,http://dbpedia.org/resource/Johnny_Williams_(rugby_player_1882-1916) http://dbpedia.org/resource/Johnny_Williams_(rugby_player_1882–1916)
+0,57,J. Campbell,"http://dbpedia.org/resource/Jimmy_Campbell_(footballer,_born_1886)",http://dbpedia.org/resource/James_Campbell_(rugby) http://dbpedia.org/resource/James_Campbell_(rugby_union)
+0,64,G. Hart,http://dbpedia.org/resource/George_Hart_(rugby_union),http://dbpedia.org/resource/Gus_Hart
+0,65,G. Stone,http://dbpedia.org/resource/George_Stone_(basketball),http://dbpedia.org/resource/Charles_Gordon_Stone http://dbpedia.org/resource/Gordon_Stone_(rugby_union)
+0,73,E. Field,http://dbpedia.org/resource/Edgar_Field,http://dbpedia.org/resource/Edwin_Field

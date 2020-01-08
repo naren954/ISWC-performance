@@ -1,0 +1,6 @@
+F1: 0.94595,Precision: 0.94595,Recall: 0.94595,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,4,Malagasy warbler,http://dbpedia.org/resource/Madagascan_warbler,http://dbpedia.org/resource/Malagasy_Warbler http://dbpedia.org/resource/Malagasy_warbler http://dbpedia.org/resource/Bernieridae http://dbpedia.org/resource/Malagasy_warblers http://dbpedia.org/resource/Bernieriidae
+1,27,Rhipiduridae,http://dbpedia.org/resource/Fantail,http://dbpedia.org/resource/Rhipiduridae
+1,32,Carduelinae,http://dbpedia.org/resource/Finch,http://dbpedia.org/resource/Cardueline http://dbpedia.org/resource/Cardueline_finches http://dbpedia.org/resource/Cardueline_finch http://dbpedia.org/resource/Carduelinae
+1,72,Leporidae,http://dbpedia.org/resource/Hare,http://dbpedia.org/resource/Leporids http://dbpedia.org/resource/Leporine http://dbpedia.org/resource/Leporid http://dbpedia.org/resource/Leporidae

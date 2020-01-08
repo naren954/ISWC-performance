@@ -1,0 +1,9 @@
+F1: 0.90278,Precision: 0.90278,Recall: 0.90278,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,20,The Test,http://dbpedia.org/resource/Tested,http://dbpedia.org/resource/The_Test_(Animorphs) http://dbpedia.org/resource/The_Test_(Applegate_novel)
+2,24,The Warning,http://dbpedia.org/resource/The_Last_of_the_Jedi:_Dark_Warning,http://dbpedia.org/resource/Web_Access_America http://dbpedia.org/resource/The_Warning_(novel) http://dbpedia.org/resource/The_Warning_(Animorphs)
+2,57,The Kingdom,http://dbpedia.org/resource/Tragic_Kingdom,http://dbpedia.org/resource/The_Kingdom_(novel) http://dbpedia.org/resource/The_Kingdom_(Cussler_novel)
+2,58,The Furies,http://dbpedia.org/resource/The_Beauties_and_Furies,http://dbpedia.org/resource/The_Furies_(novel)
+2,67,Ingo,http://dbpedia.org/resource/Ingo_Schulze,http://dbpedia.org/resource/Ingo_(novel) http://dbpedia.org/resource/Ingo_(book)
+2,68,The Red Pyramid,http://dbpedia.org/resource/The_Red_Pyramid,"http://dbpedia.org/resource/Evil_Day http://dbpedia.org/resource/The_Kane_Chronicles,_book_one http://dbpedia.org/resource/The_Red_Pyramid_(novel)"
+2,71,The Discovery,,http://dbpedia.org/resource/The_Discovery_(Animorphs) http://dbpedia.org/resource/The_Discovery_(novel)

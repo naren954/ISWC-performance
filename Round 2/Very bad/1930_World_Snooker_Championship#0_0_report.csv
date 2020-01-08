@@ -1,0 +1,5 @@
+F1: 0.25000,Precision: 0.25000,Recall: 0.25000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Tom Newman v Nat Butler,http://dbpedia.org/resource/Tom_Butler_(footballer),http://dbpedia.org/resource/Tom_Newman_(billiard_player) http://dbpedia.org/resource/Tom_Newman_(billiards_player) http://dbpedia.org/resource/Tom_Newman_(billiards)
+0,2,Fred Lawrence v Alec Mann,http://dbpedia.org/resource/Fred_Lawrence_Whipple_Observatory,http://dbpedia.org/resource/Fred_Lawrence_(snooker_player) http://dbpedia.org/resource/Fred_Lawrence
+0,4,Tom Dennis v Nat Butler,http://dbpedia.org/resource/The_Making_of_Mr._Buechner's_Dream,http://dbpedia.org/resource/Tom_Dennis

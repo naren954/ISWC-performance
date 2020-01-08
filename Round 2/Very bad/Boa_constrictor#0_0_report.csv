@@ -1,0 +1,4 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,B. c. imperator,http://dbpedia.org/resource/Boa_constrictor,http://dbpedia.org/resource/Boa_constrictor_isthmica http://dbpedia.org/resource/Hogg_Island_Boa http://dbpedia.org/resource/Boa_constrictor_imperator http://dbpedia.org/resource/Hogg_Island_boa http://dbpedia.org/resource/Boa_eques http://dbpedia.org/resource/Boa_imperator http://dbpedia.org/resource/Boa_constrictor_sigma http://dbpedia.org/resource/Common_northern_boa
+0,10,B. c. sabogae,http://dbpedia.org/resource/Boa_constrictor,http://dbpedia.org/resource/Boa_constrictor_sabogae

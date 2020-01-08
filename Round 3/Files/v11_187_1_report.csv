@@ -1,0 +1,8 @@
+"F1: 0.80645","Precision: 0.80645","Recall: 0.80645"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","2","Midgut","http://dbpedia.org/resource/Stomach","http://dbpedia.org/resource/Midgut http://dbpedia.org/resource/Mesenteron http://dbpedia.org/resource/Mid-gut http://dbpedia.org/resource/Midguts"
+"1","4","Surface ectoderm","http://dbpedia.org/resource/Ectoderm","http://dbpedia.org/resource/Surface_ectoderm http://dbpedia.org/resource/External_ectoderm"
+"1","13","Surface ectoderm","http://dbpedia.org/resource/Ectoderm","http://dbpedia.org/resource/Surface_ectoderm http://dbpedia.org/resource/External_ectoderm"
+"1","21","Neural plate","http://dbpedia.org/resource/Neural_tube","http://dbpedia.org/resource/Medullary_plate http://dbpedia.org/resource/Neural_plate"
+"1","22","Neural plate","http://dbpedia.org/resource/Neural_tube","http://dbpedia.org/resource/Medullary_plate http://dbpedia.org/resource/Neural_plate"
+"1","27","First pharyngeal arch","http://dbpedia.org/resource/Pharyngeal_arch","http://dbpedia.org/resource/First_pharyngeal_arch"

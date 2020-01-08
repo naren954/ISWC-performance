@@ -1,0 +1,43 @@
+F1: 0.76437,Precision: 0.76437,Recall: 0.76437,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,4,Waiting in Vain,,http://dbpedia.org/resource/Waiting_in_Vain http://dbpedia.org/resource/Waiting_in_Vain_(Annie_Lennox_song) http://dbpedia.org/resource/Waiting_in_vain
+0,16,Wait on Me,http://dbpedia.org/resource/Wait_for_Me_(Kings_of_Leon_song),http://dbpedia.org/resource/Wait_on_Me_(Rixton_song)
+0,19,Wait for Me,http://dbpedia.org/resource/Wait_for_Me_(Kings_of_Leon_song),http://dbpedia.org/resource/Wait_for_Me_(Theory_of_a_Deadman_song) http://dbpedia.org/resource/Wait_For_Me_(Theory_of_a_Deadman_song)
+0,23,Wait a Minute,http://dbpedia.org/resource/Wait_a_Minute_(The_Pussycat_Dolls_song),http://dbpedia.org/resource/Wait_a_Minute_(Just_a_Touch) http://dbpedia.org/resource/Wait_A_Minute_(Just_A_Touch)
+0,26,Wait,http://dbpedia.org/resource/Wait_(White_Lion_song),http://dbpedia.org/resource/Wait_(Wang_Chung_song)
+0,38,Voulez-Vous,http://dbpedia.org/resource/Lady_Marmalade,http://dbpedia.org/resource/Voulez-Vous_(song)
+0,39,Voodoo Queen,http://dbpedia.org/resource/Voodoo_People_/_Out_of_Space,http://dbpedia.org/resource/Voodoo_Queen_(song) http://dbpedia.org/resource/Voodoo_queen_(song) http://dbpedia.org/resource/Voodoo_queen http://dbpedia.org/resource/Voodoo_Queen
+0,41,Voodoo Cowboy,http://dbpedia.org/resource/Voodoo_People_/_Out_of_Space,http://dbpedia.org/resource/Voodoo_Cowboy
+0,43,Voodoo Child,http://dbpedia.org/resource/Voodoo_Child_(Slight_Return),http://dbpedia.org/resource/Voodoo_Child_(Rogue_Traders_song)
+0,49,Voices,http://dbpedia.org/resource/Voices_(Disturbed_song),http://dbpedia.org/resource/Voices_(Cheap_Trick_song)
+0,50,Voices,http://dbpedia.org/resource/Voices_(Disturbed_song),http://dbpedia.org/resource/Voices_(Alice_in_Chains_song)
+0,55,Vogue,http://dbpedia.org/resource/Vogue_(Madonna_song),http://dbpedia.org/resource/Vogue_(Ayumi_Hamasaki_song) http://dbpedia.org/resource/Vogue_(Ayumi_Hamasaki_single)
+0,67,Virus,http://dbpedia.org/resource/Virus_100,http://dbpedia.org/resource/Virus_(KMFDM_song) http://dbpedia.org/resource/Virus_(single)
+0,68,Virus,http://dbpedia.org/resource/Virus_100,http://dbpedia.org/resource/Virus_(How_About_Now)
+0,69,Virus,http://dbpedia.org/resource/Virus_100,http://dbpedia.org/resource/Virus_(Bjork_song) http://dbpedia.org/resource/Virus_(Björk_song)
+0,71,Violet,http://dbpedia.org/resource/Violet_(Seal_song),http://dbpedia.org/resource/Violet_(Hole_song)
+0,74,Village Green,http://dbpedia.org/resource/The_Village_Green_Preservation_Society,http://dbpedia.org/resource/Village_Green_(song)
+0,75,Vifta med händerna,,http://dbpedia.org/resource/Throw_Your_Hands_Up http://dbpedia.org/resource/Vifta_med_handerna http://dbpedia.org/resource/Vifta_med_händerna
+0,78,Vienna,http://dbpedia.org/resource/Vienna_(Ultravox_song),http://dbpedia.org/resource/Vienna_(Billy_Joel_song)
+0,83,Victorious,http://dbpedia.org/resource/Victorious_(Panic!_at_the_Disco_song),http://dbpedia.org/resource/Victorious_(Wolfmother_song)
+0,87,Victim of Love,http://dbpedia.org/resource/Victim_of_Love_(The_Cars_song),http://dbpedia.org/resource/Victim_of_Love_(song)
+0,88,Vice,http://dbpedia.org/resource/Viceroyalty_of_Peru,http://dbpedia.org/resource/Vice_(Miranda_Lambert_song)
+0,95,Venus,http://dbpedia.org/resource/Venus_(Frankie_Avalon_song),http://dbpedia.org/resource/Venus_(Bananarama_song) http://dbpedia.org/resource/Venus_(Shocking_Blue_song) http://dbpedia.org/resource/Shizgarah http://dbpedia.org/resource/Venus_(Ruslana_song) http://dbpedia.org/resource/I'm_Your_Venus
+0,96,Venus,http://dbpedia.org/resource/Venus_(Frankie_Avalon_song),http://dbpedia.org/resource/Venus_(Lady_GaGa_song) http://dbpedia.org/resource/Venus_(Lady_Gaga_song)
+0,99,Vent,http://dbpedia.org/resource/Vent_(album),http://dbpedia.org/resource/Vent_(song)
+0,100,Vengeance,http://dbpedia.org/resource/Vengeance_(song),http://dbpedia.org/resource/Vengeance_(Carly_Simon_song)
+0,115,Valerie,http://fr.dbpedia.org/resource/Valerie_Faris,http://dbpedia.org/resource/Valerie_(Amy_Winehouse_song) http://dbpedia.org/resource/Valerie_(Mark_Ronson_song) http://dbpedia.org/resource/Valerie_(The_Zutons_song) http://dbpedia.org/resource/Valerie_(Zutons_song) http://dbpedia.org/resource/Valerie_(The_Zutons) http://dbpedia.org/resource/Valerie_(amy_winehouse_song)
+0,116,Valerie,http://fr.dbpedia.org/resource/Valerie_Faris,http://dbpedia.org/resource/Valerie_(Steve_Winwood_song)
+0,121,Vacation,http://dbpedia.org/resource/Vacation_(Young_Jeezy_song),http://dbpedia.org/resource/Vacation_(Thomas_Rhett_song)
+0,122,Vacation,http://dbpedia.org/resource/Vacation_(Young_Jeezy_song),http://dbpedia.org/resource/Vacation_(The_Go-Go's_song)
+0,131,Used To Love Her,http://dbpedia.org/resource/G_N'_R_Lies,http://dbpedia.org/resource/Used_To_Love_Her
+0,134,Use Me,http://dbpedia.org/resource/Use_Me_(Bill_Withers_song),http://dbpedia.org/resource/Use_Me_(Hinder_song)
+0,135,Us and Them,http://dbpedia.org/resource/Us_and_Them_(Shinedown_album),http://dbpedia.org/resource/Us_and_Them_(song) http://dbpedia.org/resource/Us_And_Them http://dbpedia.org/resource/The_Violent_Sequence
+0,137,Us Against the World,http://dbpedia.org/resource/Mylo_Xyloto,http://dbpedia.org/resource/Us_Against_the_World_(Westlife_song) http://dbpedia.org/resource/Us_Against_The_World_(Westlife_Song)
+0,144,Upside Down,http://dbpedia.org/resource/Upside_Down_(Jack_Johnson_song),http://dbpedia.org/resource/Upside_Down_(Diana_Ross_song)
+0,156,Up All Night,http://dbpedia.org/resource/Up_All_Night_(Blink-182_song),http://dbpedia.org/resource/Up_All_Night_(Take_That_song)
+0,157,Up All Night,http://dbpedia.org/resource/Up_All_Night_(Blink-182_song),http://dbpedia.org/resource/Up_All_Night_(Jon_Pardi_song)
+0,160,Up,http://dbpedia.org/resource/Up!_(album),http://dbpedia.org/resource/Up_(The_Saturdays_song)
+0,161,Up!,http://dbpedia.org/resource/Up_&_Up,http://dbpedia.org/resource/Up!_(Shania_Twain_song)
+0,168,Untold Stories,http://dbpedia.org/resource/Untold_Stories_(Kathy_Mattea_song),http://dbpedia.org/resource/Untold_Stories_(song)
+0,172,Untitled,http://dbpedia.org/resource/Untitled_(The_Smashing_Pumpkins_song),http://dbpedia.org/resource/Untitled_(How_Does_It_Feel) http://dbpedia.org/resource/Untitled_(How_Does_It_Feel?)

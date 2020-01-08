@@ -1,0 +1,5 @@
+F1: 0.76923,Precision: 0.76923,Recall: 0.76923,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,2,Molly,http://dbpedia.org/resource/Mike_&_Molly,http://dbpedia.org/resource/Molly_(miniseries) http://dbpedia.org/resource/Molly_(TV_series)
+1,9,Way to Heaven,http://dbpedia.org/resource/Half_Way_to_Heaven,http://dbpedia.org/resource/Way_to_Heaven http://dbpedia.org/resource/Way_to_heaven
+1,17,The Winter's Tale,http://dbpedia.org/resource/Winter's_Tale_(film),http://dbpedia.org/resource/The_Winter's_Tale

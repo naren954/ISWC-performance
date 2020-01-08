@@ -1,0 +1,6 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Russia,http://dbpedia.org/resource/Russia,http://dbpedia.org/resource/Russia_men's_national_under-20_basketball_team
+0,2,France,http://dbpedia.org/resource/France,http://dbpedia.org/resource/France_men's_national_under-20_basketball_team
+0,3,Croatia,http://dbpedia.org/resource/Croatia,http://dbpedia.org/resource/Croatia_men's_national_under-20_basketball_team
+0,4,Slovenia,http://dbpedia.org/resource/Slovenia,http://dbpedia.org/resource/Slovenia_men's_national_under-20_basketball_team

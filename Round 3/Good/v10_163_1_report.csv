@@ -1,0 +1,4 @@
+F1: 0.83333,Precision: 0.83333,Recall: 0.83333,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,9,Athyriaceae,http://dbpedia.org/resource/Woodsiaceae,http://dbpedia.org/resource/Athyriaceae http://dbpedia.org/resource/Athyrioideae
+1,10,Athyriaceae,http://dbpedia.org/resource/Woodsiaceae,http://dbpedia.org/resource/Athyriaceae http://dbpedia.org/resource/Athyrioideae

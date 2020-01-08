@@ -1,0 +1,6 @@
+F1: 0.91489,Precision: 0.91489,Recall: 0.91489,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,Z. Hao,http://dbpedia.org/resource/Wang_Hao_(chess_player),http://dbpedia.org/resource/Zhang_Hao_(figure_skater)
+0,37,L. Ilyushechkina,,http://dbpedia.org/resource/Daria_Ilushechkina http://dbpedia.org/resource/Lubov_Iliushechkina http://dbpedia.org/resource/Lyubov_Ilyushechkina http://dbpedia.org/resource/Lubov_Ilyushechkina http://dbpedia.org/resource/Lubov_Ilushechkina http://dbpedia.org/resource/Lubov_Ilyusheckina http://dbpedia.org/resource/Lubov_Ilyushehkina http://dbpedia.org/resource/Lubov_Ilusheckina http://dbpedia.org/resource/Liubov_Iliushechkina http://dbpedia.org/resource/Lyubov_Iliushechkina
+0,38,L. Jones,http://dbpedia.org/resource/Courtney_Jones_(figure_skater),http://dbpedia.org/resource/Lloyd_Jones_(figure_skater)
+0,46,J. Yang,http://dbpedia.org/resource/Lee_Yang,http://dbpedia.org/resource/Jin_Yang

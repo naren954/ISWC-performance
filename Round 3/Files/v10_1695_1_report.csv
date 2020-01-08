@@ -1,0 +1,8 @@
+"F1: 0.85714","Precision: 0.85714","Recall: 0.85714"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","1","Regensburg","http://dbpedia.org/resource/Regensburg","http://dbpedia.org/resource/Landkreis_Regensburg http://dbpedia.org/resource/Regensburg_district http://dbpedia.org/resource/Regensburg_(district)"
+"1","7","Whitewater, Colorado","http://dbpedia.org/resource/Whitewater,_California","http://dbpedia.org/resource/Whitewater,_Colorado"
+"1","8","Thunder Bay District, Ontario","http://dbpedia.org/resource/Thunder_Bay","http://dbpedia.org/resource/Thunder_Bay_District http://dbpedia.org/resource/Thunder_Bay_District,_ON http://dbpedia.org/resource/Thunder_Bay_District,_Ontario"
+"1","9","Thunder Bay District, Ontario","http://dbpedia.org/resource/Thunder_Bay","http://dbpedia.org/resource/Thunder_Bay_District http://dbpedia.org/resource/Thunder_Bay_District,_ON http://dbpedia.org/resource/Thunder_Bay_District,_Ontario"
+"1","22","Thunder Bay District, Ontario","http://dbpedia.org/resource/Thunder_Bay","http://dbpedia.org/resource/Thunder_Bay_District http://dbpedia.org/resource/Thunder_Bay_District,_ON http://dbpedia.org/resource/Thunder_Bay_District,_Ontario"
+"1","30","Newark, Delaware","http://dbpedia.org/resource/Newark,_New_Jersey","http://dbpedia.org/resource/Newark_(DE) http://dbpedia.org/resource/UN/LOCODE:USNWK http://dbpedia.org/resource/Newark,_DE http://dbpedia.org/resource/Newark_de http://dbpedia.org/resource/History_of_Newark,_Delaware http://dbpedia.org/resource/Newark,_Delaware http://dbpedia.org/resource/South_Newark,_Delaware"

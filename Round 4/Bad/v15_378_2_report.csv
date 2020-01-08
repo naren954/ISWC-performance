@@ -1,0 +1,10 @@
+F1: 0.27273,Precision: 0.27273,Recall: 0.27273,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,1,C. Fox,http://dbpedia.org/resource/Curly_Fox,http://dbpedia.org/resource/Charles_Fox_(composer)
+2,2,Q. Jones,http://dbpedia.org/resource/David_Bowie,"http://dbpedia.org/resource/Q_(impresario) http://dbpedia.org/resource/Quincey_Jones http://dbpedia.org/resource/Q_(musician) http://dbpedia.org/resource/Quincy_Delight_Jones,_Jr http://dbpedia.org/resource/Q_(composer) http://dbpedia.org/resource/Quincy_Jones http://dbpedia.org/resource/Quincy_Jones,_Jr. http://dbpedia.org/resource/Jones,_Quincy http://dbpedia.org/resource/Quincy_Jones,_Jr http://dbpedia.org/resource/Quincy_Delight_Jones http://dbpedia.org/resource/Quincy_Delight_Jones,_Jr. http://dbpedia.org/resource/Hicky_Burr"
+2,3,S. Hoffman,http://dbpedia.org/resource/Philip_Seymour_Hoffman,http://dbpedia.org/resource/Dr._Samuel_Hoffmann http://dbpedia.org/resource/Samuel_Hoffman http://dbpedia.org/resource/Dr._Samuel_Hoffman
+2,4,B. Foster,http://dbpedia.org/resource/Barry_Foster_(actor),http://dbpedia.org/resource/Ben_Foster_(orchestrator)
+2,5,C. Towns,http://dbpedia.org/resource/William_Towns,http://dbpedia.org/resource/Colin_Towns
+2,7,K. Jones,http://dbpedia.org/resource/Kenyon_Jones_(basketball),http://dbpedia.org/resource/Ken_Jones_(music)
+2,10,J. Frederick,http://dbpedia.org/resource/Jeffrey_Frederick,http://dbpedia.org/resource/Jesse_Frederick
+2,11,A. Marinelli,http://es.dbpedia.org/resource/Atilio_Marinelli,http://dbpedia.org/resource/Anthony_Marinelli

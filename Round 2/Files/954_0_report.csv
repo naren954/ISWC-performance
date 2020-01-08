@@ -1,0 +1,5 @@
+"F1: 0.72727","Precision: 0.72727","Recall: 0.72727"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","3","J. Rice","http://dbpedia.org/resource/Jerry_Rice","http://dbpedia.org/resource/Jonas_Rice"
+"0","6","H. W. Jr.","http://dbpedia.org/resource/Henry_Wise_Jr.","http://dbpedia.org/resource/Harlington_Wood,_Jr. http://dbpedia.org/resource/Harlington_Wood_Jr. http://dbpedia.org/resource/Harlington_Wood http://dbpedia.org/resource/Harlington_Wood_Jr"
+"0","11","A. T. Jr.","http://dbpedia.org/resource/Theodore_Roosevelt","http://dbpedia.org/resource/Albert_Tate_Jr. http://dbpedia.org/resource/Albert_Tate,_Jr. http://dbpedia.org/resource/Albert_Tate"

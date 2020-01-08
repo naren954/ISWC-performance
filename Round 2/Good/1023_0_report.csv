@@ -1,0 +1,17 @@
+F1: 0.91667,Precision: 0.91667,Recall: 0.91667,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,11,Operation Northern Watch,http://dbpedia.org/resource/Operation_Southern_Watch,http://dbpedia.org/resource/Operation_Northern_Watch http://dbpedia.org/resource/Operations_Northern_Watch http://dbpedia.org/resource/Northern_Watch http://dbpedia.org/resource/Operation_NORTHERN_WATCH
+0,25,Operation Mountain Storm,http://dbpedia.org/resource/Operation_Mountain_Fury,http://dbpedia.org/resource/Operation_Mountain_Storm_(Republic_of_Macedonia)
+0,39,Operation Meghdoot,http://dbpedia.org/resource/Siachen_conflict,http://dbpedia.org/resource/Operation_Meghdoot
+0,53,Operation Mars,http://dbpedia.org/resource/Operation_Michael,http://dbpedia.org/resource/Second_Rzhev-Sychevka_Offensive_Operation http://dbpedia.org/resource/Second_Rzhev-Sychevka_offensive http://dbpedia.org/resource/Operation_Mars http://dbpedia.org/resource/Second_Rzhev-Sychevka_Offensive http://dbpedia.org/resource/Rzhev-Sychevka_Strategic_Offensive http://dbpedia.org/resource/2nd_Rzhev-Sychevka_Offensive
+0,57,Operation Market Sweep,http://dbpedia.org/resource/Operation_Market_Garden,http://dbpedia.org/resource/Operation_Market_Sweep
+0,59,Operation Mar Lewe,http://dbpedia.org/resource/Operation_Green_Sea,http://dbpedia.org/resource/Operation_MAR_LEWE http://dbpedia.org/resource/Operation_Mar_Lewe
+0,63,Operation MH - 2,http://dbpedia.org/resource/Operation_MH-2,http://dbpedia.org/resource/Operation_MH_-_2
+0,91,Operation Karbala-6,http://dbpedia.org/resource/Operation_Karbala-4,http://dbpedia.org/resource/Operation_Karbala-6 http://dbpedia.org/resource/Operation_Karbala_six http://dbpedia.org/resource/Operation_Karbala_6
+0,112,Operation Iron Hammer,http://dbpedia.org/resource/Operation_Iron_Hammer_(Iraq_2005),http://dbpedia.org/resource/Operation_Iron_Hammer_(Iraq_2003)
+0,115,Operation Infatuate,http://dbpedia.org/resource/Battle_of_the_Scheldt,http://dbpedia.org/resource/Operation_Infatuate http://dbpedia.org/resource/Battle_of_Walcheren
+0,122,Operation Hurricane-91,http://dbpedia.org/resource/Operation_Hurricane_(1944),http://dbpedia.org/resource/Operation_Hurricane-91 http://dbpedia.org/resource/Operation_Orkan_91
+0,136,Operation Harpoon,http://dbpedia.org/resource/Operation_Harpoon_(2002),http://dbpedia.org/resource/Battle_of_Mid-June http://dbpedia.org/resource/Battle_of_Pantelleria_(1942) http://dbpedia.org/resource/Operation_Harpoon_(1942)
+0,139,Operation Hammer,http://dbpedia.org/resource/Operation_Hammer_(1997),http://dbpedia.org/resource/Operation_Hammer_(Afghanistan) http://dbpedia.org/resource/Operation_Chakush
+0,150,Operation Goodwood,http://dbpedia.org/resource/Operation_Goodwood,http://dbpedia.org/resource/Operation_Goodwood_(naval)
+0,173,Operation Eagle Ares,http://dbpedia.org/resource/Operation_Eagle_Claw,http://dbpedia.org/resource/Operation_Eagle_Ares

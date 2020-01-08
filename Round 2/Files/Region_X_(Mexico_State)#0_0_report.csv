@@ -1,0 +1,4 @@
+"F1: 0.50000","Precision: 0.50000","Recall: 0.50000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","3","Tejupilco","http://dbpedia.org/resource/State_of_Mexico","http://dbpedia.org/resource/Tejupilco http://dbpedia.org/resource/Tejupilco_de_Hidalgo,_Mexico http://dbpedia.org/resource/Tejupilco_de_Hidalgo http://dbpedia.org/resource/Tejupilco_de_Hidalgo,_México"
+"0","4","Tlatlaya","http://es.dbpedia.org/resource/Tlatlaya","http://dbpedia.org/resource/Tlatlaya"

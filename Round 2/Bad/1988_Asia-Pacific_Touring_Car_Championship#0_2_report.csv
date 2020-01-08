@@ -1,0 +1,4 @@
+F1: 0.50000,Precision: 0.50000,Recall: 0.50000,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,2,Wellington Street Circuit,http://dbpedia.org/resource/Valencia_Street_Circuit,http://dbpedia.org/resource/Nissan-Cue_500 http://dbpedia.org/resource/Wellington_500 http://dbpedia.org/resource/Nissan_Mobil_500
+2,3,Pukekohe Park Raceway,http://dbpedia.org/resource/Sandown_Raceway,http://dbpedia.org/resource/Pukekohe_Park_Raceway

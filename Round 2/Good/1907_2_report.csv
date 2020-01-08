@@ -1,0 +1,8 @@
+F1: 0.87500,Precision: 0.87500,Recall: 0.87500,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,15,The Conan Chronicles,http://dbpedia.org/resource/The_Conan_Chronicles,http://dbpedia.org/resource/The_Conan_Chronicles_(Robert_Jordan)
+2,16,The Seekers,http://dbpedia.org/resource/The_Seekers_(1964_album),http://dbpedia.org/resource/The_Seekers_(novel)
+2,22,Running Blind,http://dbpedia.org/resource/The_Visitor_(Child_novel),http://dbpedia.org/resource/Running_Blind_(Desmond_Bagley_novel)
+2,25,The Sicilian,http://dbpedia.org/resource/Mafia,http://dbpedia.org/resource/The_Sicilian
+2,36,The Android,http://dbpedia.org/resource/Android_KitKat,http://dbpedia.org/resource/The_Android_(Animorphs) http://dbpedia.org/resource/The_Android_(novel)
+2,47,The Laughing Cavalier,http://dbpedia.org/resource/The_Scarlet_Pimpernel,http://dbpedia.org/resource/The_Laughing_Cavalier_(novel) http://dbpedia.org/resource/The_Laughing_Cavalier_(Novel)

@@ -1,0 +1,4 @@
+"F1: 0.80000","Precision: 0.80000","Recall: 0.80000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","5","A. Amos","http://dbpedia.org/resource/Andrew_Amos","http://dbpedia.org/resource/Arturo_Amos"
+"0","8","A. Vivó","http://dbpedia.org/resource/Antonio_Vela","http://dbpedia.org/resource/Andreu_Vivó http://dbpedia.org/resource/Andreu_Vivo"

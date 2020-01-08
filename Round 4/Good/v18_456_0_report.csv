@@ -1,0 +1,34 @@
+F1: 0.81065,Precision: 0.81065,Recall: 0.81065,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,W. Carr,http://dbpedia.org/resource/Derek_Carr,http://dbpedia.org/resource/William_Carr_(Arena_football)
+0,6,W. Andrews,http://dbpedia.org/resource/Willie_Andrews,http://dbpedia.org/resource/William_Andrews_(American_football) http://dbpedia.org/resource/William_Andrews_(football_player) http://dbpedia.org/resource/William_Andrews_(American_football_player)
+0,12,W. Smith,http://dbpedia.org/resource/Wade_Smith,"http://dbpedia.org/resource/Will_Smith_(linebacker,_born_1992) http://dbpedia.org/resource/Will_Smith_(linebacker)"
+0,13,W. Smith,http://dbpedia.org/resource/Wade_Smith,"http://dbpedia.org/resource/Will_Smith_(football_player) http://dbpedia.org/resource/Will_Smith_(linebacker,_born_1981) http://dbpedia.org/resource/Will_Smith_football http://dbpedia.org/resource/Will_smith_football http://dbpedia.org/resource/Will_Smith_(defensive_end) http://dbpedia.org/resource/Will_Smith_(American_football)"
+0,21,W. Montgomery,http://dbpedia.org/resource/Wilbert_Montgomery,http://dbpedia.org/resource/Will_Montgomery
+0,24,W. Fuller,http://dbpedia.org/resource/William_Fuller_(American_football),http://dbpedia.org/resource/Will_Fuller_V http://dbpedia.org/resource/Will_Fuller
+0,25,W. Davis,http://dbpedia.org/resource/Willie_Davis_(defensive_end),"http://dbpedia.org/resource/Will_Davis_(linebacker) http://dbpedia.org/resource/Will_Davis_(American_football,_born_1986)"
+0,26,W. Davis,http://dbpedia.org/resource/Willie_Davis_(defensive_end),"http://dbpedia.org/resource/Will_Davis_(safety) http://dbpedia.org/resource/Will_Davis_(American_football,_born_1990) http://dbpedia.org/resource/Will_Davis_(cornerback)"
+0,30,W. Allen,http://dbpedia.org/resource/Will_Allen_(cornerback),http://dbpedia.org/resource/Will_Allen_(NFL_Safety) http://dbpedia.org/resource/Will_Allen_(American_football http://dbpedia.org/resource/Will_Allen_(safety) http://dbpedia.org/resource/Will_Allen_(NFL_safety) http://dbpedia.org/resource/Will_Allen_(American_football_safety)
+0,32,W. Young,http://dbpedia.org/resource/Waddy_Young,http://dbpedia.org/resource/Wilbur_Young
+0,33,W. Moore,http://dbpedia.org/resource/Wayne_Moore_(American_football),http://dbpedia.org/resource/Wilbur_Moore
+0,34,W. Jackson,http://dbpedia.org/resource/Willie_Jackson_(American_football),http://dbpedia.org/resource/Wilbur_Jackson
+0,35,W. Scott,"http://dbpedia.org/resource/Walter_Scott_(footballer,_born_1932)",http://dbpedia.org/resource/Wilbert_Scott
+0,38,W. Marshall,http://dbpedia.org/resource/Wilber_Marshall,http://dbpedia.org/resource/Whit_Marshall
+0,42,W. Walls,http://dbpedia.org/resource/Will_Walls,http://dbpedia.org/resource/Wesley_Walls
+0,44,W. Johnson,http://dbpedia.org/resource/Walter_Johnson_(American_football),http://dbpedia.org/resource/Wesley_Johnson_(American_football)
+0,45,W. Carroll,http://dbpedia.org/resource/Wesley_Carroll_(quarterback),http://dbpedia.org/resource/Wesley_Carroll_(wide_receiver)
+0,52,W. Gaines,http://dbpedia.org/resource/William_Gaines_(American_football),http://dbpedia.org/resource/Wentford_Gaines
+0,55,W. Harris,http://dbpedia.org/resource/Walt_Harris_(cornerback),http://dbpedia.org/resource/Wendell_Harris
+0,56,W. Davis,http://dbpedia.org/resource/Willie_Davis_(defensive_end),http://dbpedia.org/resource/Wendell_Davis_(cornerback)
+0,57,W. Davis,http://dbpedia.org/resource/Willie_Davis_(defensive_end),http://dbpedia.org/resource/Wendell_Davis
+0,63,W. Walker,http://dbpedia.org/resource/Wesley_Walker,http://dbpedia.org/resource/Wayne_Walker
+0,71,W. Martin,http://dbpedia.org/resource/Whitey_Martin,http://dbpedia.org/resource/Wayne_Martin_(American_football) http://dbpedia.org/resource/Wayne_Martin_(football_player)
+0,75,W. Davis,http://dbpedia.org/resource/Willie_Davis_(defensive_end),http://dbpedia.org/resource/Wayne_Davis_(linebacker)
+0,76,W. Clark,http://dbpedia.org/resource/Willie_Clark_(American_football),http://dbpedia.org/resource/Wayne_Clark_(American_football)
+0,79,W. Williams,http://dbpedia.org/resource/Worrell_Williams,http://dbpedia.org/resource/Warren_Williams_(American_football)
+0,89,W. Young,http://dbpedia.org/resource/Waddy_Young,http://dbpedia.org/resource/Walter_Young_(American_football) http://dbpedia.org/resource/Walter_Young_(football) http://dbpedia.org/resource/Walter_Young_(football_player)
+0,97,W. Jones,http://dbpedia.org/resource/Wayne_Jones_(footballer),http://dbpedia.org/resource/Walter_Jones_(American_football) http://dbpedia.org/resource/Walter_Jones_(football_player)
+0,101,W. Williams,http://dbpedia.org/resource/Worrell_Williams,http://dbpedia.org/resource/Walt_Williams_(cornerback) http://dbpedia.org/resource/Walt_Williams_(American_football)
+0,109,W. Livingston,http://dbpedia.org/resource/Warren_Livingston,http://dbpedia.org/resource/Walt_Livingston
+0,128,W. Wilson,http://dbpedia.org/resource/Wayne_Wilson_(American_football),http://dbpedia.org/resource/Wade_Wilson_(athlete) http://dbpedia.org/resource/Wade_Wilson_(football) http://dbpedia.org/resource/Wade_Wilson_(football_player) http://dbpedia.org/resource/Wade_Wilson_(American_football)
+0,134,V. Davis,http://dbpedia.org/resource/Vernon_Davis,http://dbpedia.org/resource/Vontae_Davis

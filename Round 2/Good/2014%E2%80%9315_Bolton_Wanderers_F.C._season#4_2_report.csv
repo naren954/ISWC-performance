@@ -1,0 +1,3 @@
+F1: 0.92857,Precision: 0.92857,Recall: 0.92857,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,5,Andy Robinson,http://dbpedia.org/resource/Andy_Robinson,"http://dbpedia.org/resource/Andy_Robinson_(footballer,_born_1992) http://dbpedia.org/resource/Andy_Robinson_(footballer_born_1992)"

@@ -1,0 +1,15 @@
+F1: 0.93229,Precision: 0.93229,Recall: 0.93229,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,V. Ivanov,http://dbpedia.org/resource/Vadim_Ivanov,http://dbpedia.org/resource/Vladimir_Ivanov_(footballer) http://dbpedia.org/resource/Vladimir_Ivanov_(footbal_player)
+0,9,V. Faizulin,http://dbpedia.org/resource/Vladimir_Fayzulin,http://dbpedia.org/resource/Vladimir_Faizulin
+0,13,V. Weiss,"http://dbpedia.org/resource/Vladimír_Weiss_(footballer,_born_1939)","http://dbpedia.org/resource/Vladimir_Weiss_(footballer_born_1964) http://dbpedia.org/resource/Vladimír_Weiss_(footballer,_born_1964) http://dbpedia.org/resource/Vladimír_Weiss_(born_1964) http://dbpedia.org/resource/Vladimír_Weiss_(footballer_born_1964) http://dbpedia.org/resource/Vladimir_Weiss_(footballer,_born_1964) http://dbpedia.org/resource/Vladimír_Weiss_II"
+0,31,V. Shevchenko,http://dbpedia.org/resource/Andriy_Shevchenko,http://dbpedia.org/resource/Vitali_Shevchenko http://dbpedia.org/resource/Vitaliy_Shevchenko http://dbpedia.org/resource/Vitaly_Shevchenko
+0,52,V. Begović,http://dbpedia.org/resource/Asmir_Begović,http://dbpedia.org/resource/Vingo_Begovic http://dbpedia.org/resource/Vinko_Begović http://dbpedia.org/resource/Vinko_Begovic http://dbpedia.org/resource/وینکو_بگوویچ
+0,68,V. Vecchi,http://dbpedia.org/resource/Renzo_De_Vecchi,http://dbpedia.org/resource/Villiam_Vecchi http://dbpedia.org/resource/William_Vecchi
+0,72,V. Pavlov,"http://dbpedia.org/resource/Vitaliy_Pavlov_(footballer,_born_1965)",http://dbpedia.org/resource/Viktorio_Pavlov
+0,76,V. Terentiev,,http://dbpedia.org/resource/Viktor_Terentyev http://dbpedia.org/resource/Viktor_Terentiev
+0,106,V. Maslov,"http://dbpedia.org/resource/Viktor_Maslov_(footballer,_born_1910)",http://dbpedia.org/resource/Victor_Maslov
+0,120,V. C. Campillo,http://dbpedia.org/resource/Vicente_Campillo,http://dbpedia.org/resource/Vicente_Carlos_Campillo http://dbpedia.org/resource/Vicente_Carlos_Campillo_Candel
+0,127,V. Mihajlović,http://dbpedia.org/resource/Siniša_Mihajlović,http://dbpedia.org/resource/Vesko_Mihajlovic http://dbpedia.org/resource/Vesko_Mihajlović
+0,166,V. Radinović,http://dbpedia.org/resource/Velimir_Radinović,http://dbpedia.org/resource/Vanja_Radinovic http://dbpedia.org/resource/Vanja_Radinović
+0,167,V. Vlachos,http://dbpedia.org/resource/Michalis_Vlachos,http://dbpedia.org/resource/Vangelis_Vlachos

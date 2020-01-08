@@ -1,0 +1,5 @@
+F1: 0.91429,Precision: 0.91429,Recall: 0.91429,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,20,Ted,http://dbpedia.org/resource/Father_Ted,http://dbpedia.org/resource/Ted_(film) http://dbpedia.org/resource/Ted:_Original_Motion_Picture_Soundtrack http://dbpedia.org/resource/Ted_(movie) http://dbpedia.org/resource/Ted_(2012_film) http://dbpedia.org/resource/Ted_(character)
+1,24,Nebraska,"http://dbpedia.org/resource/Nebraska_City,_Nebraska",http://dbpedia.org/resource/Nebraska_(film)
+1,33,Joy,http://dbpedia.org/resource/Joy_(Fefe_Dobson_album),http://dbpedia.org/resource/Kay's_Baptism http://dbpedia.org/resource/Joy_(2015_film) http://dbpedia.org/resource/Joy_(film)

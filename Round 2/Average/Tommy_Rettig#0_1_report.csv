@@ -1,0 +1,7 @@
+F1: 0.66667,Precision: 0.66667,Recall: 0.66667,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,4,For Heaven's Sake,http://dbpedia.org/resource/For_Heaven's_Sake_(1926_film),http://dbpedia.org/resource/For_Heaven's_Sake_(1950_film)
+1,12,So Big,http://dbpedia.org/resource/So_Big_(1932_film),http://dbpedia.org/resource/So_Big_(1953_film)
+1,14,The Raid,http://dbpedia.org/resource/The_Raid:_Redemption_(soundtrack),http://dbpedia.org/resource/The_Raid_(1954_film)
+1,15,The Egyptian,,http://dbpedia.org/resource/The_Egyptian_(film) http://dbpedia.org/resource/The_Egyptian_(motion_picture)
+1,16,The Cobweb,http://dbpedia.org/resource/The_Cobweb_(1955_film),http://dbpedia.org/resource/The_Cobweb_(film)

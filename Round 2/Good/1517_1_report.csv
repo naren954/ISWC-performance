@@ -1,0 +1,5 @@
+F1: 0.85714,Precision: 0.85714,Recall: 0.85714,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,7,Neath,http://dbpedia.org/resource/River_Neath,"http://dbpedia.org/resource/Castell_Nedd http://dbpedia.org/resource/Neath,_Neath_Port_Talbot http://dbpedia.org/resource/Neath http://dbpedia.org/resource/Castell-Nedd"
+1,10,Swindon,http://dbpedia.org/resource/Swindon_railway_station,"http://dbpedia.org/resource/Swindon_UA http://dbpedia.org/resource/The_weather_in_Swindon http://dbpedia.org/resource/Swindon,_England http://dbpedia.org/resource/Swindon http://dbpedia.org/resource/Swindon,_Wiltshire"
+1,16,Sens,http://dbpedia.org/resource/Amartya_Sen,"http://dbpedia.org/resource/Agendicum http://dbpedia.org/resource/Sens http://dbpedia.org/resource/Sens,Yonne http://dbpedia.org/resource/Agedincum http://dbpedia.org/resource/Sens_(Yonne) http://dbpedia.org/resource/Sens,_Yonne"

@@ -1,0 +1,7 @@
+F1: 0.92308,Precision: 0.92308,Recall: 0.92308,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Dodge Mansion,"http://dbpedia.org/resource/Rose_Terrace_(Grosse_Pointe_Farms,_Michigan)","http://dbpedia.org/resource/Dodge_Mansion_(Lansing,_Michigan) http://dbpedia.org/resource/Turner-Dodge_House"
+0,11,Deming School,http://dbpedia.org/resource/Deming_Elementary_School,http://dbpedia.org/resource/Deming_School
+0,41,Croton North Railroad Station,http://dbpedia.org/resource/Pennsylvania_Station_(Baltimore),http://dbpedia.org/resource/Croton_North_(NYCRR_station) http://dbpedia.org/resource/Croton_North_Railroad_Station http://dbpedia.org/resource/Croton_North_Train_Station http://dbpedia.org/resource/Croton_North_(NYC_station)
+0,54,Coraopolis Railroad Station,http://dbpedia.org/resource/Coraopolis_station,http://dbpedia.org/resource/Coraopolis_Station http://dbpedia.org/resource/Coraopolis_Train_Station http://dbpedia.org/resource/Coraopolis_Railroad_Station
+0,65,Congregational Church,http://dbpedia.org/resource/Oxford_Congregational_Church_and_Cemetery,"http://dbpedia.org/resource/Congregational_Church_(Montclair,_New_Jersey)"

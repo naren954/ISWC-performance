@@ -1,0 +1,4 @@
+F1: 0.50000,Precision: 0.50000,Recall: 0.50000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,4,Dara Ã\u0093 CinnÃ©ide,http://dbpedia.org/resource/Louis_Ide,http://dbpedia.org/resource/Dara_Ó_Cinnéide
+0,5,Johnny Crowley,http://dbpedia.org/resource/Johnny_Crowley,http://dbpedia.org/resource/Johnny_Crowley_(Gaelic_footballer) http://dbpedia.org/resource/Johnny_Crowley_(Kerry_GAA) http://dbpedia.org/resource/Johnny_Crowley_(footballer)

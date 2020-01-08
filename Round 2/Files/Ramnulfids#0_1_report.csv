@@ -1,0 +1,5 @@
+"F1: 0.81250","Precision: 0.81250","Recall: 0.81250"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","4","William II the Young (â\u0080 926)","http://dbpedia.org/resource/Wilhelm_II,_German_Emperor","http://dbpedia.org/resource/William_II,_Duke_of_Aquitaine http://dbpedia.org/resource/William_II_of_Aquitaine"
+"1","5","Acfred (â\u0080 927)","http://dbpedia.org/resource/Acfred_I_of_Carcassonne","http://dbpedia.org/resource/Acfred,_Duke_of_Aquitaine http://dbpedia.org/resource/Acfred_of_Aquitaine http://dbpedia.org/resource/Alfred_of_Aquitaine"
+"1","9","William V the Great (â\u0080 1030)","http://dbpedia.org/resource/Prince_William,_Duke_of_Cambridge","http://dbpedia.org/resource/William_V_of_Aquitaine http://dbpedia.org/resource/William_III_of_Poitou http://dbpedia.org/resource/William_V_the_Great http://dbpedia.org/resource/William_V,_Duke_of_Aquitaine"

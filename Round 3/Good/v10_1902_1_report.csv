@@ -1,0 +1,16 @@
+F1: 0.86139,Precision: 0.86139,Recall: 0.86139,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,3,The Human Factor,http://dbpedia.org/resource/The_Human_Factor_(TV_series),http://dbpedia.org/resource/The_Human_Factor
+1,5,Great House,http://dbpedia.org/resource/The_Great_House_(film),http://dbpedia.org/resource/Great_House_(novel)
+1,33,The Golden Transcendence,,http://dbpedia.org/resource/The_Golden_Age_trilogy http://dbpedia.org/resource/The_Golden_Transcendence http://dbpedia.org/resource/The_Golden_Age_(novel_series) http://dbpedia.org/resource/The_Golden_Age_(John_C._Wright_novel) http://dbpedia.org/resource/The_Phoenix_Exultant http://dbpedia.org/resource/Golden_Oecumene http://dbpedia.org/resource/The_Golden_Oecumene http://dbpedia.org/resource/The_Golden_Age_(science_fiction_trilogy)
+1,51,Thin Air,http://dbpedia.org/resource/Thin_Air_(novel),http://dbpedia.org/resource/Thin_Air_(Star_Trek)
+1,53,The Mirror of Merlin,http://dbpedia.org/resource/Merlin_Book_4:_The_Mirror_of_Fate,http://dbpedia.org/resource/The_Mirror_of_Merlin
+1,60,The Journey,http://dbpedia.org/resource/Journey_to_the_West,http://dbpedia.org/resource/The_Journey_(Applegate_novel) http://dbpedia.org/resource/The_Journey_(Animorphs)
+1,67,The Warning,http://dbpedia.org/resource/The_Last_of_the_Jedi:_Dark_Warning,http://dbpedia.org/resource/The_Warning_(Animorphs) http://dbpedia.org/resource/The_Warning_(novel) http://dbpedia.org/resource/Web_Access_America
+1,70,One Shot,http://dbpedia.org/resource/One_Shot_(JLS_song),http://dbpedia.org/resource/One_Shot_(novel)
+1,81,The Dragon on the Border,,"http://dbpedia.org/resource/The_Dragon,_the_Earl,_and_the_Troll http://dbpedia.org/resource/The_Dragon_and_the_Djinn http://dbpedia.org/resource/The_Dragon_and_the_Fair_Maid_of_Kent http://dbpedia.org/resource/The_Dragon_and_the...? http://dbpedia.org/resource/The_Dragon_on_the_Border http://dbpedia.org/resource/Dragon_Knight http://dbpedia.org/resource/The_Dragon_and_the_Gnarly_King http://dbpedia.org/resource/The_Dragon_in_Lyonesse http://dbpedia.org/resource/The_Dragon_at_War http://dbpedia.org/resource/St._Dragon_and_the_George"
+1,84,The Ultimate,http://dbpedia.org/resource/The_Ultimates_(comic_book),http://dbpedia.org/resource/The_Ultimate_(novel) http://dbpedia.org/resource/The_Ultimate_(Animorphs)
+1,85,The Gladiator,http://dbpedia.org/resource/The_Gladiator_(Scarrow_novel),http://dbpedia.org/resource/The_Gladiator_(Turtledove_novel)
+1,86,The Threat,http://es.dbpedia.org/resource/Minor_Threat_(álbum),http://dbpedia.org/resource/The_Threat_(Animorphs) http://dbpedia.org/resource/The_Threat_(novel)
+1,88,Chickenfeed,http://dbpedia.org/resource/Chickenfeed_(novel),http://dbpedia.org/resource/Chickenfeed
+1,96,Midnight,http://dbpedia.org/resource/Midnight_Sun_(Meyer_novel),http://dbpedia.org/resource/Midnight_(Warriors) http://dbpedia.org/resource/Midnight_(Hunter_novel) http://dbpedia.org/resource/Midnight_(Hunter)

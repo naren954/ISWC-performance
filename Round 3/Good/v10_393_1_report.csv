@@ -1,0 +1,34 @@
+F1: 0.75385,Precision: 0.75385,Recall: 0.75385,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,2,One More,"http://dbpedia.org/resource/One_More_Time,_One_More_Chance",http://dbpedia.org/resource/One_More_(Elliphant_song)
+1,3,Falling,http://it.dbpedia.org/resource/Falling,http://dbpedia.org/resource/Falling_(Bruce_Guthro_song)
+1,4,What Say You,http://dbpedia.org/resource/What_Do_You_Say_(Reba_McEntire_song),http://dbpedia.org/resource/What_Say_You
+1,25,Say Goodbye,http://dbpedia.org/resource/Say_Goodbye_(Chris_Brown_song),http://dbpedia.org/resource/Say_Goodbye_(Beck_song)
+1,27,Fool for Love,http://dbpedia.org/resource/A_Fool_in_Love,http://dbpedia.org/resource/Sonia_Evans http://dbpedia.org/resource/Sonia_(Singer) http://dbpedia.org/resource/Fool_for_Love_(Sonia_song) http://dbpedia.org/resource/Sonia_(singer)
+1,29,Rest Your Love,http://dbpedia.org/resource/Rest_Your_Love_on_Me,http://dbpedia.org/resource/Rest_Your_Love_(The_Vamps_song) http://dbpedia.org/resource/Wake_Up_(The_Vamps_album) http://dbpedia.org/resource/Rest_Your_Love http://dbpedia.org/resource/Wake_Up_World_Tour
+1,32,Black Mirror,http://dbpedia.org/resource/Mirror_Mirror_(Diana_Ross_song),http://dbpedia.org/resource/Black_Mirror_(song)
+1,34,Freedom,http://dbpedia.org/resource/Freedom!_'90,http://dbpedia.org/resource/Freedom_(Wham!_song)
+1,35,The Man,http://dbpedia.org/resource/Ant-Man_(film),http://dbpedia.org/resource/You_can_tell_everybody http://dbpedia.org/resource/The_Man_(Aloe_Blacc_song)
+1,37,Bitch,http://dbpedia.org/resource/Bitch_I'm_Madonna,http://dbpedia.org/resource/Bitch_(E-40_song)
+1,53,Unfriend You,http://dbpedia.org/resource/Miss_You_(Westlife_song),http://dbpedia.org/resource/Unfriend_You_(song) http://dbpedia.org/resource/Unfriend_You http://dbpedia.org/resource/Hold_On_'til_the_Night http://dbpedia.org/resource/Hold_On_til_the_Night http://dbpedia.org/resource/Hold_On_'Til_the_Night http://dbpedia.org/resource/Hold_on_'til_the_Night
+1,54,Right Here,"http://dbpedia.org/resource/Right_Here,_Right_Now_(Giorgio_Moroder_song)",http://dbpedia.org/resource/Right_Here_(Rudimental_song)
+1,63,Little Smirk,,http://dbpedia.org/resource/Little_Smirk
+1,67,When I Grow Up,http://dbpedia.org/resource/When_I_Grow_Up_(To_Be_a_Man),http://dbpedia.org/resource/When_I_Grow_Up_(the_Pussycat_Dolls_song) http://dbpedia.org/resource/When_I_Grow_Up_(Pussycat_Dolls_song) http://dbpedia.org/resource/When_I_Grow_Up_(The_Pussycat_Dolls_song)
+1,70,Tell Me,http://dbpedia.org/resource/Tell_Me_(Diddy_song),http://dbpedia.org/resource/Tell_Me_(White_Lion_song)
+1,71,To Live and Die in L.A.,http://dbpedia.org/resource/To_Live_&_Die_in_L.A._(song),http://dbpedia.org/resource/To_Live_and_Die_in_LA_(Wang_Chung_song) http://dbpedia.org/resource/To_Live_and_Die_in_L_A_(Wang_Chung_song) http://dbpedia.org/resource/To_Live_and_Die_in_L.A._(Wang_Chung_song) http://dbpedia.org/resource/To_Live_and_Die_in_L._A._(Wang_Chung_song)
+1,74,For You,http://dbpedia.org/resource/For_You_(Selena_Gomez_album),http://dbpedia.org/resource/For_You/Time_Limit http://dbpedia.org/resource/For_You_(Hikaru_Utada_song) http://dbpedia.org/resource/For_You_/_Time_Limit http://dbpedia.org/resource/For_You_(Utada_Hikaru_song)
+1,77,Blood,http://es.dbpedia.org/resource/Blood_(canción_de_My_Chemical_Romance),http://dbpedia.org/resource/Five_Against_One http://dbpedia.org/resource/Leash_(Pearl_Jam_song) http://dbpedia.org/resource/Blood_(Pearl_Jam_song) http://dbpedia.org/resource/Rats_(Pearl_Jam_song) http://dbpedia.org/resource/Pearl_Jam_(1993_album) http://dbpedia.org/resource/Vs._(Pearl_Jam_album) http://dbpedia.org/resource/Indifference_(Pearl_Jam_song)
+1,81,Amor,http://dbpedia.org/resource/Amor_(Ricky_Martin_song),http://dbpedia.org/resource/Amor_(Cristian_Castro_song)
+1,84,Amor,http://dbpedia.org/resource/Amor_(Ricky_Martin_song),http://dbpedia.org/resource/Amor_(Cristian_Castro_song)
+1,85,&,,http://dbpedia.org/resource/&_(Ayumi_Hamasaki_EP) http://dbpedia.org/resource/Ourselves_(song) http://dbpedia.org/resource/Greatful_Days
+1,86,Forever,"http://dbpedia.org/resource/Forever_(Drake,_Kanye_West,_Lil_Wayne,_and_Eminem_song)",http://dbpedia.org/resource/Forever_(Kenny_Loggins_song)
+1,87,Subhuman,http://dbpedia.org/resource/Subhuman_(song),http://dbpedia.org/resource/Subhuman_(Garbage_song) http://dbpedia.org/resource/Subhuman_Garbage_song http://dbpedia.org/resource/Subhuman_(Garbage_single)
+1,90,Poison,http://dbpedia.org/resource/Poison_(Alice_Cooper_song),http://dbpedia.org/resource/Poison_(song_by_The_Prodigy) http://dbpedia.org/resource/Poison_(The_Prodigy_Song) http://dbpedia.org/resource/Poison_(The_Prodigy) http://dbpedia.org/resource/Poison_(The_Prodigy_song)
+1,92,Angel,http://it.dbpedia.org/resource/Angel_(77_Bombay_Street),http://dbpedia.org/resource/Angel_(Rod_Stewart_song) http://dbpedia.org/resource/Angel_(Jimi_Hendrix_song)
+1,102,Mexico,http://dbpedia.org/resource/1968_Summer_Olympics,http://dbpedia.org/resource/Mexico_(Jefferson_Airplane_song)
+1,105,The Game,http://dbpedia.org/resource/The_Game_(Queen_album),http://dbpedia.org/resource/The_Game_(Disturbed_song)
+1,108,Way of the World,http://dbpedia.org/resource/Way_of_the_World_(Tina_Turner_song),"http://dbpedia.org/resource/Oh_Candy http://dbpedia.org/resource/Way_of_the_World_(Cheap_Trick_song) http://dbpedia.org/resource/Oh,_Candy"
+1,113,Money,http://dbpedia.org/resource/Money_(David_Guetta_song),http://dbpedia.org/resource/Money_(KMFDM_Song) http://dbpedia.org/resource/Money_(KMFDM_song)
+1,121,Make It Happen,http://dbpedia.org/resource/Make_It_Happen_(Mariah_Carey_song),http://dbpedia.org/resource/Make_It_Happen_(Electronic_song)
+1,122,What Child Is This,http://dbpedia.org/resource/What_the_Child_Needs,http://dbpedia.org/resource/Mi_Navidad http://dbpedia.org/resource/My_Christmas_Tour http://dbpedia.org/resource/My_Christmas http://dbpedia.org/resource/What_Child_Is_This_(Andrea_Bocelli_and_Mary_J._Blige_cover) http://dbpedia.org/resource/My_Christmas_(Bocelli_album) http://dbpedia.org/resource/The_My_Christmas_Tour
+1,128,Ghosts,http://dbpedia.org/resource/HIStory_(Michael_Jackson_song),http://dbpedia.org/resource/Ghosts_(Japan_song)

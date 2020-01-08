@@ -1,0 +1,9 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Chicago White Sox,http://dbpedia.org/resource/Chicago,http://dbpedia.org/resource/1906_Chicago_White_Sox_season
+0,2,New York Highlanders,"http://dbpedia.org/resource/Theme_from_New_York,_New_York",http://dbpedia.org/resource/1906_New_York_Highlanders_season
+0,4,Philadelphia Athletics,http://dbpedia.org/resource/Philadelphia_Phillies,http://dbpedia.org/resource/1906_Philadelphia_Athletics_season
+0,5,St. Louis Browns,http://dbpedia.org/resource/Baltimore_Orioles,http://dbpedia.org/resource/1906_St._Louis_Browns_season
+0,6,Detroit Tigers,http://dbpedia.org/resource/Detroit_Tigers,http://dbpedia.org/resource/1906_Detroit_Tigers_season
+0,7,Washington Senators,http://dbpedia.org/resource/Texas_Rangers_(baseball),http://dbpedia.org/resource/1906_Washington_Senators_season
+0,8,Boston Americans,http://dbpedia.org/resource/Boston,http://dbpedia.org/resource/1906_Boston_Americans_season http://dbpedia.org/resource/1906_Boston_Pilgrims_season

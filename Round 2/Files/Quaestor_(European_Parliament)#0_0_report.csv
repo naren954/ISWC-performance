@@ -1,0 +1,4 @@
+"F1: 0.60000","Precision: 0.60000","Recall: 0.60000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","1","Ã\u0089lisabeth Morin","nan","http://dbpedia.org/resource/Élisabeth_Morin"
+"0","2","BogusÅ\u0082aw Liberadzki","http://dbpedia.org/resource/Liz_Bogus","http://dbpedia.org/resource/Bogusław_Liberadzki"

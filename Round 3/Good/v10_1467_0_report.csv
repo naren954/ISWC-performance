@@ -1,0 +1,3 @@
+F1: 0.94737,Precision: 0.94737,Recall: 0.94737,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,16,Broadway Tunnel,http://dbpedia.org/resource/Caldecott_Tunnel,"http://dbpedia.org/resource/Broadway_Tunnel,_San_Francisco http://dbpedia.org/resource/Robert_C._Levy_Tunnel http://dbpedia.org/resource/Broadway_Tunnel_(San_Francisco)"

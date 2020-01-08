@@ -1,0 +1,11 @@
+F1: 0.85000,Precision: 0.85000,Recall: 0.85000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,R. Wells,http://dbpedia.org/resource/Ralph_Wells,http://dbpedia.org/resource/Rhoshi_Wells http://dbpedia.org/resource/Rhoshii_Wells http://dbpedia.org/resource/Roshii_Wells http://dbpedia.org/resource/Roshi_Wells
+0,10,R. Rojas,http://dbpedia.org/resource/Roberto_Rojas_(Peruvian_footballer),http://dbpedia.org/resource/Raul_Rojas http://dbpedia.org/resource/Raul_Rojas_(boxer)
+0,14,R. Tapia,http://dbpedia.org/resource/Renato_Tapia,http://dbpedia.org/resource/Ramon_Tapia http://dbpedia.org/resource/Ramón_Tapia
+0,35,P. Martin,http://dbpedia.org/resource/Paul_Martin_(baseball),http://dbpedia.org/resource/Phil_Martin_(boxer)
+0,40,P. Maher,http://dbpedia.org/resource/Parker_Maher,http://dbpedia.org/resource/Peter_Maher_(boxer)
+0,43,P. Jackson,http://dbpedia.org/resource/Pierre_Jackson,"http://dbpedia.org/resource/Peter_""Black_Prince""_Jackson http://dbpedia.org/resource/Peter_Jackson_(boxer)"
+0,46,P. Crawley,http://dbpedia.org/resource/Sylvia_Crawley,http://dbpedia.org/resource/Peter_Crawley http://dbpedia.org/resource/Peter_Crawley_(boxer)
+0,48,P. Mead,http://dbpedia.org/resource/Phil_Mead,http://dbpedia.org/resource/Pete_Mead
+0,56,P. Montañez,http://dbpedia.org/resource/Román_Montañez,http://dbpedia.org/resource/Pedro_Montañez http://dbpedia.org/resource/Pedro_Montanez

@@ -1,0 +1,10 @@
+F1: 0.11111,Precision: 0.11111,Recall: 0.11111,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,2,Suzanne Semanick \/ Scott Gregory,http://dbpedia.org/resource/Scott_Gregory,http://dbpedia.org/resource/Suzy_Semanick http://dbpedia.org/resource/Suzanne_Semanick http://dbpedia.org/resource/Susanne_Semanick
+1,3,Kathrin Beck \/ Christoff Beck,http://dbpedia.org/resource/Christoff_Beck,http://dbpedia.org/resource/Kathrin_Beck
+1,4,Antonia Becherer \/ Ferdinand Becherer,http://dbpedia.org/resource/Maria_Carolina_of_Austria,http://dbpedia.org/resource/Antonia_Becherer
+1,5,KlÃ¡ra Engi \/ Attila TÃ³th,,http://dbpedia.org/resource/Klára_Engi
+1,6,Elizabeth Coates \/ Alan Abretti,"http://dbpedia.org/resource/Mary,_Crown_Princess_of_Denmark",http://dbpedia.org/resource/Elisabeth_Coates http://dbpedia.org/resource/Elizabeth_Coates http://dbpedia.org/resource/Liz_Coates
+1,7,Tomoko Tanaka \/ Hiroyuki Suzuki,http://dbpedia.org/resource/Hiroyuki_Suzuki_(figure_skater),http://dbpedia.org/resource/Tomoko_Tanaka
+1,9,Junko Ito \/ Hiroaki Tokita,,http://dbpedia.org/resource/Junko_Itō http://dbpedia.org/resource/Junko_Ito
+1,10,Luyang Liu \/ Xiaolei Zhao,,http://dbpedia.org/resource/Luyang_Liu http://dbpedia.org/resource/Liu_Luyang http://dbpedia.org/resource/Lyuang_Liu

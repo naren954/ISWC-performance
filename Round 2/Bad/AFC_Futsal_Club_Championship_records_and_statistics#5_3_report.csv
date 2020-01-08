@@ -1,0 +1,6 @@
+F1: 0.42857,Precision: 0.42857,Recall: 0.42857,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,5,ThÃ¡i SÆ¡n Nam,http://dbpedia.org/resource/Thái_Sơn_Nam_Futsal_Club,http://dbpedia.org/resource/Thai_Son_Nam_Futsal_Club
+3,6,Al Rayyan,http://dbpedia.org/resource/Al-Rayyan_SC,http://dbpedia.org/resource/Al_Rayyan_Futsal_Team http://dbpedia.org/resource/Al_rayyan_futsal_team http://dbpedia.org/resource/Al_Rayan_SC_Futsal_Team
+3,7,ThÃ¡i SÆ¡n Nam,http://dbpedia.org/resource/Thái_Sơn_Nam_Futsal_Club,http://dbpedia.org/resource/Thai_Son_Nam_Futsal_Club
+3,8,GH Bank RBAC,http://dbpedia.org/resource/RBAC_F.C.,http://dbpedia.org/resource/Rattana_Bundit_University_Futsal_Club

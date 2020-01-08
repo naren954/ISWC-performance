@@ -1,0 +1,5 @@
+"F1: 0.78571","Precision: 0.78571","Recall: 0.78571"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","9","Pharaoh","http://dbpedia.org/resource/Pharaoh_(video_game)","http://dbpedia.org/resource/Pharaoh_(film) http://dbpedia.org/resource/Faraon_(film)"
+"1","12","The Roof","http://dbpedia.org/resource/The_Roof_(Back_in_Time)","http://dbpedia.org/resource/The_Roof_(film) http://dbpedia.org/resource/Il_Tetto http://dbpedia.org/resource/Il_tetto"
+"1","14","Television","http://dbpedia.org/resource/The_Philco_Television_Playhouse","http://dbpedia.org/resource/Television_(film)"

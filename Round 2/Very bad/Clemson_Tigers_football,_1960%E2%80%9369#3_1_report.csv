@@ -1,0 +1,6 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,3,NC State,http://dbpedia.org/resource/North_Carolina,http://dbpedia.org/resource/1997_NC_State_Wolfpack_football_team http://dbpedia.org/resource/North_Carolina_A&M_Aggies_football http://dbpedia.org/resource/North_Carolina_State_Wolfpack_football http://dbpedia.org/resource/NC_State_Aggies_football http://dbpedia.org/resource/NC_State_Wolfpack_football http://dbpedia.org/resource/List_of_NC_State_Wolfpack_bowl_games http://dbpedia.org/resource/NC_State_wolfpack_football
+1,4,Georgia,http://dbpedia.org/resource/Georgia_(country),http://dbpedia.org/resource/1963_Georgia_Bulldogs_football_team
+1,7,Wake Forest,http://dbpedia.org/resource/Wake_Forest_University,http://dbpedia.org/resource/1963_Wake_Forest_Demon_Deacons_football_team
+1,9,Maryland,http://dbpedia.org/resource/Maryland,http://dbpedia.org/resource/1963_Maryland_Terrapins_football_team

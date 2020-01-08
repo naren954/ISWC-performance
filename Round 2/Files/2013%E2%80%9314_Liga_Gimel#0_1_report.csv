@@ -1,0 +1,5 @@
+"F1: 0.25000","Precision: 0.25000","Recall: 0.25000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","1","Hapoel Ironi Safed","http://dbpedia.org/resource/Hapoel_Ironi_Kiryat_Shmona_F.C.","http://dbpedia.org/resource/HaChalutz_Safed_F.C. http://dbpedia.org/resource/Hapoel_Ironi_Safed http://dbpedia.org/resource/Alpha_Ironi_Safed_F.C. http://dbpedia.org/resource/Hapoel_Safed_F.C. http://dbpedia.org/resource/Hapoel_Ironi_Safed_F.C."
+"1","9","Hapoel Nahariya","http://dbpedia.org/resource/Hapoel_Tzafririm_Holon_F.C.","http://dbpedia.org/resource/Hapoel_Zvi_Nahariya_F.C. http://dbpedia.org/resource/Hapoel_Nahariya_F.C."
+"1","11","Hapoel Bnei Hurfeish","http://dbpedia.org/resource/Hapoel_Bnei_Tamra_F.C.","http://dbpedia.org/resource/Hapoel_Bnei_Hurfeish_F.C. http://dbpedia.org/resource/Hapoel_Hurfeish_F.C."

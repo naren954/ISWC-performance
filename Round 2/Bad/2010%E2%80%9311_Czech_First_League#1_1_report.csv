@@ -1,0 +1,4 @@
+F1: 0.50000,Precision: 0.50000,Recall: 0.50000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,Martin HÅ\u0099Ã­del,http://dbpedia.org/resource/Martin_Haase,http://dbpedia.org/resource/Martin_Hřídel
+1,5,Karel VeÄ\u008DeÅ\u0099a,http://dbpedia.org/resource/Karel_Mejta_Sr,http://dbpedia.org/resource/Karel_Večeřa

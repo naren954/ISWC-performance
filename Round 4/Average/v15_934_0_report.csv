@@ -1,0 +1,36 @@
+F1: 0.71429,Precision: 0.71429,Recall: 0.71429,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,T. Parata,http://dbpedia.org/resource/Hekia_Parata,http://dbpedia.org/resource/Taare_Parata http://dbpedia.org/resource/Charles_Parata http://dbpedia.org/resource/Charles_Rere_Parata
+0,5,S. G. Smith,http://dbpedia.org/resource/Green_Clay_Smith,http://dbpedia.org/resource/Sydney_George_Smith
+0,10,S. T. George,"http://dbpedia.org/resource/George_Hamilton-Gordon,_4th_Earl_of_Aberdeen",http://dbpedia.org/resource/Seymour_Thorn_George http://dbpedia.org/resource/Seymour_Thorne_George
+0,12,R. Rogers,http://dbpedia.org/resource/Allan_Rogers,http://dbpedia.org/resource/Rufus_Rogers http://dbpedia.org/resource/Anthony_Trevelyan_Rogers
+0,15,R. Walpole,http://dbpedia.org/resource/Robert_Walpole,http://dbpedia.org/resource/Robert_Walpole_(1650–1700) http://dbpedia.org/resource/Robert_Walpole_(1650-1700) http://dbpedia.org/resource/Colonel_Robert_Walpole http://dbpedia.org/resource/Colonel_Walpole
+0,16,R. Hart,http://dbpedia.org/resource/Ross_Hart_(politician),http://dbpedia.org/resource/Robert_Hart_(politician) http://dbpedia.org/resource/Robert_Hart_(New_Zealand)
+0,19,R. B. Jr.,http://dbpedia.org/resource/Robert_Bloxom_Jr.,http://dbpedia.org/resource/Richard_Burke_Jr.
+0,24,P. Murphy,http://dbpedia.org/resource/Patrick_Murphy_(Pennsylvania_politician),http://dbpedia.org/resource/Peter_Murphy_(businessman)
+0,29,O. Wilson,http://dbpedia.org/resource/Ronald_Reagan,http://dbpedia.org/resource/George_Hamish_Ormond_Wilson http://dbpedia.org/resource/George_Ormond_Wilson http://dbpedia.org/resource/Ormond_Wilson http://dbpedia.org/resource/Ormond_Wilson_CMG http://dbpedia.org/resource/George_Hamish_Ormond_Wilson_CMG
+0,30,N. C. Craig,http://dbpedia.org/resource/George_N._Craig,http://dbpedia.org/resource/Norman_Carlyle_Craig
+0,36,M. Abbott,http://dbpedia.org/resource/Percy_Abbott_(Australian_politician),http://dbpedia.org/resource/Mac_Abbott http://dbpedia.org/resource/Macartney_Abbott
+0,37,L. Barnes,http://dbpedia.org/resource/Lyman_E._Barnes,http://dbpedia.org/resource/Lou_Barnes
+0,38,L. A. Clinton,"http://dbpedia.org/resource/Henry_Clinton_(British_Army_officer,_born_1771)",http://dbpedia.org/resource/Lord_Arthur_Clinton http://dbpedia.org/resource/Lord_Arthur_Pelham-Clinton http://dbpedia.org/resource/Lord_Arthur_Pelham_Clinton http://dbpedia.org/resource/Arthur_Pelham-Clinton
+0,45,J. Hanan,http://dbpedia.org/resource/Ralph_Hanan,http://dbpedia.org/resource/Josiah_Alfred_Hanan http://dbpedia.org/resource/Josiah_Hanan
+0,46,J. Thorn,http://dbpedia.org/resource/Jim_Thorn,http://dbpedia.org/resource/John_Thorn_(Queensland_politician)
+0,48,J. Shannon,http://dbpedia.org/resource/James_Shannon,http://dbpedia.org/resource/John_Wallace_Shannon http://dbpedia.org/resource/John_Shannon_(Australian_politician)
+0,51,J. Ollivier,http://dbpedia.org/resource/Émile_Ollivier,http://dbpedia.org/resource/John_Ollivier
+0,60,J. Abbott,http://dbpedia.org/resource/John_Abbott,http://dbpedia.org/resource/Joseph_Abbott_(Australian_politician) http://dbpedia.org/resource/Joe_Abbott_(Australian_politician) http://dbpedia.org/resource/Joseph_Abbott_(Australian_federal_politician)
+0,62,J. Wakefield,http://dbpedia.org/resource/James_Wakefield,http://dbpedia.org/resource/Jerningham_Wakefield http://dbpedia.org/resource/Edward_Jerningham_Wakefield
+0,63,J. Wilson,http://dbpedia.org/resource/Joe_Wilson_(American_politician),"http://dbpedia.org/resource/James_Wilson_(New_Zealand_politician,_born_1849) http://dbpedia.org/resource/James_Glenny_Wilson http://dbpedia.org/resource/James_Wilson_(New_Zealand_politician) http://dbpedia.org/resource/James_Wilson_(New_Zealand_politician_born_1849)"
+0,64,J. Tolmie,http://dbpedia.org/resource/Donald_Tolmie,http://dbpedia.org/resource/James_Tolmie_(Australian_politician)
+0,67,J. Kennedy,http://dbpedia.org/resource/John_F._Kennedy,http://dbpedia.org/resource/Jim_Kennedy_(Australian_rules_footballer) http://dbpedia.org/resource/James_Kennedy_(Australian_politician)
+0,71,J. Viger,http://dbpedia.org/resource/Jacques_Viger_(mayor),http://dbpedia.org/resource/Jacques_Viger_(Member_of_the_Assembly) http://dbpedia.org/resource/Jacques_Viger_(1735-1798)
+0,75,I. Featherston,http://dbpedia.org/resource/Winfield_S._Featherston,http://dbpedia.org/resource/Issac_Featherston http://dbpedia.org/resource/Isaac_Featherston http://dbpedia.org/resource/Isaac_Earl_Featherston
+0,77,H. Menzies,http://dbpedia.org/resource/Robert_Menzies,http://dbpedia.org/resource/Hugh_Menzies_(Victorian_politician) http://dbpedia.org/resource/Hugh_Menzies
+0,82,H. Manning,http://dbpedia.org/resource/George_H._W._Bush,http://dbpedia.org/resource/Henry_Manning_(politician)
+0,85,H. Uru,http://dbpedia.org/resource/Hopere_Uru,http://dbpedia.org/resource/Henry_Whakatau_Uru http://dbpedia.org/resource/Henare_Uru http://dbpedia.org/resource/Harry_Uru http://dbpedia.org/resource/Henare_Whakatau_Uru http://dbpedia.org/resource/Henry_Uru
+0,89,G. G. Fitzgerald,http://dbpedia.org/resource/Roy_G._Fitzgerald,http://dbpedia.org/resource/Gerald_George_Fitzgerald http://dbpedia.org/resource/Gerard_George_Fitzgerald
+0,90,G. Thorn,http://dbpedia.org/resource/Gaston_Thorn,http://dbpedia.org/resource/George_Thorn_(senior)
+0,97,F. Stewart,http://dbpedia.org/resource/Frederick_Stewart_(Australian_politician),http://dbpedia.org/resource/Francis_Stewart_(Australian_politician_and_rugby_player) http://dbpedia.org/resource/Frank_Stewart
+0,112,D. Wood,http://dbpedia.org/resource/Donald_Wood,http://dbpedia.org/resource/Dick_Wood_(politician)
+0,115,D. Moody,http://dbpedia.org/resource/Dan_Moody,http://dbpedia.org/resource/David_Moody_(politician) http://dbpedia.org/resource/David_Moody_(1834-1915)
+0,116,D. James,http://dbpedia.org/resource/Diane_James,"http://dbpedia.org/resource/David_Pelham_James http://dbpedia.org/resource/David_James_(British_politician) http://dbpedia.org/resource/David_James_(politician,_born_1919) http://dbpedia.org/resource/David_James_(British_MP) http://dbpedia.org/resource/David_Guthrie-James http://dbpedia.org/resource/David_Guthrie_James"
+0,119,D. Daniel,http://dbpedia.org/resource/Dan_Daniel_(politician),http://dbpedia.org/resource/David_Daniel_(politician)

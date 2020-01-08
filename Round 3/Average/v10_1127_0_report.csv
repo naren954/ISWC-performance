@@ -1,0 +1,9 @@
+F1: 0.66667,Precision: 0.66667,Recall: 0.66667,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,Remember Me,http://dbpedia.org/resource/Remember_Me_(The_Zutons_song),http://dbpedia.org/resource/Remember_Me_(Journey) http://dbpedia.org/resource/Remember_Me_(Journey_song)
+0,3,Remember,http://dbpedia.org/resource/Remember_(Disturbed_song),"http://dbpedia.org/resource/Remember_""Walking_In_The_Sand"" http://dbpedia.org/resource/Remember_(Walkin'_in_the_Sand) http://dbpedia.org/resource/(Remember)_Walking_in_the_Sand http://dbpedia.org/resource/Remember_""Walking_in_the_Sand"" http://dbpedia.org/resource/Remember_(Walking_in_the_Sand)"
+0,8,Release Me,http://dbpedia.org/resource/Release_Me_(Wilson_Phillips_song),http://dbpedia.org/resource/Release_Me_(Engelbert_Humperdinck_song) http://dbpedia.org/resource/Ten_Guitars_(song) http://dbpedia.org/resource/Please_Release_Me http://dbpedia.org/resource/Ten_Guitars http://dbpedia.org/resource/Release_Me_(1946_song) http://dbpedia.org/resource/Release_Me_(And_Let_Me_Love_Again) http://dbpedia.org/resource/Release_Me_(1967_song)
+0,10,Release,http://dbpedia.org/resource/Release_(The_Tension),http://dbpedia.org/resource/Release_(The_Tea_Party_song)
+0,11,Relay,http://dbpedia.org/resource/Relayer,http://dbpedia.org/resource/Relay_(song) http://dbpedia.org/resource/The_Relay
+0,13,Regrets,http://dbpedia.org/resource/Regrets_(Mylène_Farmer_and_Jean-Louis_Murat_song),http://dbpedia.org/resource/Regrets_(Mylène_Farmer_song) http://dbpedia.org/resource/Regrets_(song)
+0,18,Red White & Blue,"http://dbpedia.org/resource/Courtesy_of_the_Red,_White_and_Blue_(The_Angry_American)",http://dbpedia.org/resource/Red_White_and_Blue_(Love_it_or_Leave) http://dbpedia.org/resource/Red_White_&_Blue_(Love_it_or_Leave) http://dbpedia.org/resource/Red_White_&_Blue_(Love_It_or_Leave)

@@ -1,0 +1,6 @@
+"F1: 0.91304","Precision: 0.91304","Recall: 0.91304"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","23","1969 United States Grand Prix","http://dbpedia.org/resource/1960_United_States_Grand_Prix","http://dbpedia.org/resource/1969_United_States_Grand_Prix"
+"1","31","1961 United States Grand Prix","http://dbpedia.org/resource/1960_United_States_Grand_Prix","http://dbpedia.org/resource/1961_United_States_Grand_Prix"
+"1","36","1971 United States Grand Prix","http://dbpedia.org/resource/1960_United_States_Grand_Prix","http://dbpedia.org/resource/1971_United_States_Grand_Prix"
+"1","45","1985 Portuguese Grand Prix","http://dbpedia.org/resource/1991_Portuguese_Grand_Prix","http://dbpedia.org/resource/1985_Portuguese_Grand_Prix"

@@ -1,0 +1,5 @@
+"F1: 0.57143","Precision: 0.57143","Recall: 0.57143"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","2","DÃ¼sseldorf","http://dbpedia.org/resource/Düsseldorf_Hauptbahnhof","http://dbpedia.org/resource/Düsseldorf_Central_Station"
+"0","5","LÃ¶rrach","http://dbpedia.org/resource/Lörrach_Hauptbahnhof","http://dbpedia.org/resource/Lörrach_Central_Station"
+"0","6","MÃ¼nchen Ost","http://dbpedia.org/resource/Munich_East_station","http://dbpedia.org/resource/München_Ost_station"

@@ -1,0 +1,5 @@
+F1: 0.86957,Precision: 0.86957,Recall: 0.86957,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,7,The Other Side,http://dbpedia.org/resource/The_Other_Side_(Godsmack_EP),http://dbpedia.org/resource/The_Other_Side_(children's_book)
+0,8,The Other,http://dbpedia.org/resource/The_Other_Side_(Godsmack_EP),http://dbpedia.org/resource/List_of_Animorphs_books_(31-40) http://dbpedia.org/resource/The_Other_(Applegate_novel) http://dbpedia.org/resource/The_Other_(Animorphs)
+0,11,The Mutation,http://dbpedia.org/resource/Ninja_Turtles:_The_Next_Mutation,http://dbpedia.org/resource/The_Mutation_(Animorphs) http://dbpedia.org/resource/Animorphs_36 http://dbpedia.org/resource/The_mutation http://dbpedia.org/resource/The_Mutation_(novel)

@@ -1,0 +1,19 @@
+F1: 0.77027,Precision: 0.77027,Recall: 0.77027,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,4,Robert Shapiro,http://dbpedia.org/resource/Robert_Shapiro_(chemist),http://dbpedia.org/resource/Robert_Shapiro_(film_producer)
+1,11,Julie Lofton,http://dbpedia.org/resource/James_Lofton,http://dbpedia.org/resource/Julie_Friedman http://dbpedia.org/resource/Julie_Lofton
+1,28,B. N. Reddy,http://dbpedia.org/resource/B._Nagi_Reddy,http://dbpedia.org/resource/B._N._Reddi http://dbpedia.org/resource/Bommireddy_Narasimha_Reddy http://dbpedia.org/resource/B_N_Reddy http://dbpedia.org/resource/B.N._Reddy http://dbpedia.org/resource/BN_Reddy http://dbpedia.org/resource/Bomireddi_Narasimha_Reddy http://dbpedia.org/resource/B._N._Reddy http://dbpedia.org/resource/B._Narasimha_Reddy
+1,31,National Centre for the Performing Arts,http://dbpedia.org/resource/Denver_Center_for_the_Performing_Arts,http://dbpedia.org/resource/National_Centre_for_the_Performing_Arts_(India)
+1,35,David Zucker,http://dbpedia.org/resource/David_Zucker_(director),http://dbpedia.org/resource/David_Zucker_(filmmaker)
+1,39,Michael Paxton,http://dbpedia.org/resource/Bill_Paxton,http://dbpedia.org/resource/Michael_Paxton
+1,40,C. V. Kumar,http://dbpedia.org/resource/C._Kumar_N._Patel,http://dbpedia.org/resource/Thirukumaran_Entertainment http://dbpedia.org/resource/C._V._Kumar
+1,41,Ramesh Babu,http://dbpedia.org/resource/Ghattamaneni_Ramesh_Babu,http://dbpedia.org/resource/Ramesh_Babu
+1,47,Laurence Mark,http://dbpedia.org/resource/Laurence_Marks_(American_writer),http://dbpedia.org/resource/Laurence_Mark
+1,48,Andrew Goldberg,http://dbpedia.org/resource/Rube_Goldberg,http://dbpedia.org/resource/Andrew_Goldberg_(director)
+1,52,Kenneth Johnson,http://dbpedia.org/resource/Kenny_Johnson,http://dbpedia.org/resource/Lillian_Weezer http://dbpedia.org/resource/Kenneth_Johnson_(producer)
+1,59,Jonathan Stern,http://dbpedia.org/resource/Jonathan_Kent_(director),http://dbpedia.org/resource/Jonathan_Stern
+1,61,Doug Rowell,http://dbpedia.org/resource/Sydney_Rowell,http://dbpedia.org/resource/Doug_Rowell
+1,69,Anthony Anderson,http://dbpedia.org/resource/Anthony_Anderson,http://dbpedia.org/resource/Anthony_Anderson_(producer)
+1,72,Robert Arthur,"http://dbpedia.org/resource/Robert_Gascoyne-Cecil,_3rd_Marquess_of_Salisbury",http://dbpedia.org/resource/Robert_Arthur_(film_producer) http://dbpedia.org/resource/Robert_A._Feder http://dbpedia.org/resource/Robert_Arthur_Feder
+1,73,Aftab Shivdasani,http://dbpedia.org/resource/Sadhana_Shivdasani,http://dbpedia.org/resource/Aftab_Shivdasani http://dbpedia.org/resource/Aaftab_Shivdasani
+1,74,Vijay Babu,"http://dbpedia.org/resource/Vijay_Babu_(actor,_born_1976)",http://dbpedia.org/resource/Vijay_Babu

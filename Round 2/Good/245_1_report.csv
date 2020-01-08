@@ -1,0 +1,3 @@
+F1: 0.91667,Precision: 0.91667,Recall: 0.91667,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,"Samara, Russia",http://dbpedia.org/resource/Samara,"http://dbpedia.org/resource/UN/LOCODE:RUKUF http://dbpedia.org/resource/Stalin's_bunker http://dbpedia.org/resource/Second_Baku http://dbpedia.org/resource/Kuibishev http://dbpedia.org/resource/Samara_(Russia) http://dbpedia.org/resource/Samara,_Russia http://dbpedia.org/resource/Kuybyshev_(city) http://dbpedia.org/resource/Kuibyshev_(city) http://dbpedia.org/resource/Samara,_Samarskaya_oblast http://dbpedia.org/resource/Samara_Urban_Okrug"

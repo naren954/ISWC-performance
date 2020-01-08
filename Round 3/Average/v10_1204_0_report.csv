@@ -1,0 +1,51 @@
+F1: 0.65248,Precision: 0.65248,Recall: 0.65248,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,E. Wienholt,http://dbpedia.org/resource/Arnold_Wienholt,http://dbpedia.org/resource/Edward_Wienholt
+0,6,E. Lamb,"http://dbpedia.org/resource/William_Lamb,_2nd_Viscount_Melbourne",http://dbpedia.org/resource/Edward_William_Lamb http://dbpedia.org/resource/Edward_Lamb_(politician)
+0,17,E. Ford,http://dbpedia.org/resource/Gerald_Ford,http://dbpedia.org/resource/Edsel_Ford http://dbpedia.org/resource/Edsel_B._Ford http://dbpedia.org/resource/Eleanor_Clay_Ford http://dbpedia.org/resource/Edsel_Bryant_Ford
+0,18,E. Reggie,,"http://dbpedia.org/resource/Edmund_Reggie,_Sr. http://dbpedia.org/resource/Edmund_Reggie http://dbpedia.org/resource/Judge_Edmund_Reggie http://dbpedia.org/resource/Ed_Reggie http://dbpedia.org/resource/Edmund_M._Reggie http://dbpedia.org/resource/Judge_Edmund_M._Reggie"
+0,19,E. Plant,http://dbpedia.org/resource/Eric_Plant,http://dbpedia.org/resource/Edmund_Plant http://dbpedia.org/resource/Edmund_Harris_Thornburgh_Plant
+0,25,E. K. Kirkpatrick,http://dbpedia.org/resource/Jeane_Kirkpatrick,http://dbpedia.org/resource/Edith_Killgore_Kirkpatrick
+0,28,E. Colvile,http://dbpedia.org/resource/Oliver_Colvile,http://dbpedia.org/resource/Eden_Colvile
+0,30,E. N. Briggs,http://dbpedia.org/resource/George_N._Briggs,http://dbpedia.org/resource/Ebenezer_N._Briggs
+0,34,D. Kulenović,http://dbpedia.org/resource/Skender_Kulenović,http://dbpedia.org/resource/Džafer-beg_Kulenović http://dbpedia.org/resource/Džafer_Kulenović_(grandson) http://dbpedia.org/resource/Džafer_Kulenović http://dbpedia.org/resource/Dzafer_Kulenovic
+0,35,D. Foster,"http://dbpedia.org/resource/Dwight_Foster_(politician,_born_1757)",http://dbpedia.org/resource/Dwight_Foster_(1828-1884) http://dbpedia.org/resource/Dwight_Foster_MA http://dbpedia.org/resource/Dwight_Foster_(1828–1884)
+0,36,D. Foster,"http://dbpedia.org/resource/Dwight_Foster_(politician,_born_1757)",http://dbpedia.org/resource/Dwight_Foster_(1757–1823) http://dbpedia.org/resource/Dwight_Foster_(Massachusetts) http://dbpedia.org/resource/Dwight_Foster_(1757-1823)
+0,40,D. Cameron,http://dbpedia.org/resource/David_Cameron,http://dbpedia.org/resource/Douglas_Cameron_(politician) http://dbpedia.org/resource/Douglas_Colin_Cameron
+0,44,D. McLean,http://dbpedia.org/resource/Donald_Maclean_(British_politician),http://dbpedia.org/resource/Donald_McLean_(New_Zealand) http://dbpedia.org/resource/Donald_McLean_(New_Zealand_politician)
+0,52,D. Viger,http://dbpedia.org/resource/Jacques_Viger_(mayor),"http://dbpedia.org/resource/Denis_Benjamin_Viger http://dbpedia.org/resource/Viger,_Denis-Benjamin http://dbpedia.org/resource/Denis-Benjamin_Viger"
+0,53,D. Papineau,http://dbpedia.org/resource/Louis-Joseph_Papineau,http://dbpedia.org/resource/Denis-Benjamin_Papineau
+0,56,D. T. Stafford,http://dbpedia.org/resource/Robert_Stafford,http://dbpedia.org/resource/David_Theophilus_Stafford
+0,57,D. Starčević,http://dbpedia.org/resource/Ante_Starčević,http://dbpedia.org/resource/David_Starčević http://dbpedia.org/resource/David_Starcevic
+0,60,D. Monro,http://dbpedia.org/resource/James_Monroe,http://dbpedia.org/resource/David_Monro http://dbpedia.org/resource/Sir_David_Monro
+0,62,D. Logan,http://dbpedia.org/resource/David_Logan_(British_politician),http://dbpedia.org/resource/David_Logan_(Oregon_politician)
+0,67,D. Cobb,http://dbpedia.org/resource/David_Cobb_(Massachusetts_politician),http://dbpedia.org/resource/David_Cobb_(Massachusetts)
+0,70,D. Suro,http://dbpedia.org/resource/Matilda_of_Boulogne,http://dbpedia.org/resource/Darío_Suro http://dbpedia.org/resource/Dario_Suro
+0,72,D. Suro,http://dbpedia.org/resource/Matilda_of_Boulogne,http://dbpedia.org/resource/Darío_Suro http://dbpedia.org/resource/Dario_Suro
+0,73,D. Stewart,http://dbpedia.org/resource/Dugald_Stewart_(Vermont),http://dbpedia.org/resource/Daniel_Stewart_(Brigadier_General)
+0,75,D. Parizeau,http://dbpedia.org/resource/Jacques_Parizeau,http://dbpedia.org/resource/Damase_Dalpé_dit_Parizeau http://dbpedia.org/resource/Damase_Parizeau
+0,76,D. M. Sr.,http://dbpedia.org/resource/Ben_Carson,"http://dbpedia.org/resource/Dalton_McGuinty_Sr http://dbpedia.org/resource/Dalton_James_McGuinty http://dbpedia.org/resource/Dalton_McGuinty,_Sr. http://dbpedia.org/resource/Dalton_McGuinty_Sr."
+0,77,D. Kulenović,http://dbpedia.org/resource/Skender_Kulenović,http://dbpedia.org/resource/Džafer-beg_Kulenović http://dbpedia.org/resource/Džafer_Kulenović_(grandson) http://dbpedia.org/resource/Džafer_Kulenović http://dbpedia.org/resource/Dzafer_Kulenovic
+0,79,C. King,http://dbpedia.org/resource/Catherine_King_(politician),http://dbpedia.org/resource/Cyrus_King
+0,82,Count Karl Ludwig von Ficquelmont,http://dbpedia.org/resource/Helmuth_von_Moltke_the_Elder,http://dbpedia.org/resource/Count_Karl_Ludwig_von_Ficquelmont http://dbpedia.org/resource/Karl_Ludwig_Graf_von_Ficquelmont http://dbpedia.org/resource/Charles-Louis_de_Ficquelmont http://dbpedia.org/resource/Karl_Ludwig_von_Ficquelmont http://dbpedia.org/resource/Count_Charles-Louis_de_Ficquelmont http://dbpedia.org/resource/Count_karl_ludwig_von_ficquelmont
+0,86,C. Schetz,http://dbpedia.org/resource/Conrad_III_Schetz,http://dbpedia.org/resource/Conrad_Schetz
+0,87,C. Rankin,http://dbpedia.org/resource/Christopher_Rankin,http://dbpedia.org/resource/Colin_Rankin http://dbpedia.org/resource/Colin_Dunlop_Wilson_Rankin
+0,88,C. J. McRae,http://dbpedia.org/resource/John_J._McRae,http://dbpedia.org/resource/Colin_J._McRae http://dbpedia.org/resource/Colin_John_McRae
+0,90,C. Hughes,http://dbpedia.org/resource/Charles_Evans_Hughes,http://dbpedia.org/resource/Clive_Hughes_(Queensland_politician)
+0,97,C. Hughes,http://dbpedia.org/resource/Charles_Evans_Hughes,http://dbpedia.org/resource/Christopher_Hughes_(diplomat)
+0,98,C. Greene,http://dbpedia.org/resource/Albert_C._Greene,http://dbpedia.org/resource/Christopher_Greene
+0,100,C. S. White,http://dbpedia.org/resource/Cyril_Tenison_White,http://dbpedia.org/resource/Christian_Streit_White
+0,103,C. Wilson,http://dbpedia.org/resource/Charlie_Wilson_(Ohio_politician),http://dbpedia.org/resource/Charles_Wilson_(Montreal_mayor) http://dbpedia.org/resource/Charles_Wilson_(Canadian_politician)
+0,105,"Charles Stuart, 1st Baron Stuart de Rothesay",http://dbpedia.org/resource/Charles_I_of_England,"http://dbpedia.org/resource/Baron_stuart_de_rothesay http://dbpedia.org/resource/Baron_Stuart_de_Rothesay http://dbpedia.org/resource/Lord_Stuart_de_Rothesay http://dbpedia.org/resource/Charles_Stuart,_1st_Baron_Stuart_de_Rothesay"
+0,106,C. Scott,http://dbpedia.org/resource/Craig_Scott_(politician),http://dbpedia.org/resource/Charles_Scott_(general) http://dbpedia.org/resource/Charles_Scott_(governor) http://dbpedia.org/resource/Charles_Scott_(governor_of_Kentucky)
+0,110,C. Ritchie,"http://dbpedia.org/resource/Charles_Ritchie,_1st_Baron_Ritchie_of_Dundee",http://dbpedia.org/resource/C.S.A._Ritchie http://dbpedia.org/resource/Charles_Stewart_Almon_Ritchie http://dbpedia.org/resource/Charles_S.A._Ritchie http://dbpedia.org/resource/Charles_Ritchie_(diplomat) http://dbpedia.org/resource/C._S._A._Ritchie
+0,111,C. R. Mitchell,http://dbpedia.org/resource/Thomas_R._Mitchell,http://dbpedia.org/resource/Charles_R._Mitchell http://dbpedia.org/resource/Charles_Richmond_Mitchell
+0,113,C. Pinckney,http://dbpedia.org/resource/Thomas_Pinckney,http://dbpedia.org/resource/Charles_Pinckney_(cousin) http://dbpedia.org/resource/Charles_Pinckney_(governor) http://dbpedia.org/resource/Governor_Charles_Pinckney
+0,115,C. Morris,http://dbpedia.org/resource/Chester_Morris,http://dbpedia.org/resource/Charles_Morris_(surveyor_general) http://dbpedia.org/resource/Charles_Morris_(1711-81) http://dbpedia.org/resource/Charles_Morris_(jurist)
+0,118,C. L. Hill,http://dbpedia.org/resource/Sherman_L._Hill,http://dbpedia.org/resource/Charles_Lumley_Hill
+0,119,C. Lilley,http://dbpedia.org/resource/Peter_Lilley,http://dbpedia.org/resource/Charles_Lilley
+0,121,C. Layard,http://dbpedia.org/resource/Austen_Henry_Layard,http://dbpedia.org/resource/Charles_Layard
+0,128,C. H. Broad,http://dbpedia.org/resource/C._D._Broad,http://dbpedia.org/resource/Charles_Broad_(cricketer) http://dbpedia.org/resource/Charles_Harrington_Broad
+0,131,C. F. Marks,http://dbpedia.org/resource/Herman_Francis_Mark,http://dbpedia.org/resource/Charles_Ferdinand_Marks
+0,135,C. Clark,http://dbpedia.org/resource/Champ_Clark,http://dbpedia.org/resource/Charles_Clark_(Australian_politician) http://dbpedia.org/resource/Charles_George_Henry_Carr_Clark
+0,138,"Charles Calvert, 3rd Baron Baltimore","http://dbpedia.org/resource/Charles_Calvert,_5th_Baron_Baltimore","http://dbpedia.org/resource/Charles_Calvert,_3rd_Baron_Baltimore"

@@ -1,0 +1,7 @@
+F1: 0.16667,Precision: 0.16667,Recall: 0.16667,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,1,P. J. Kennedy,http://dbpedia.org/resource/P._J._Kennedy,http://dbpedia.org/resource/Patrick_J._Kennedy http://dbpedia.org/resource/Patrick_J_Kennedy http://dbpedia.org/resource/Patrick_J._Kennedy_(II) http://dbpedia.org/resource/Patrick_Joseph_Kennedy http://dbpedia.org/resource/Patrick_Joseph_Kennedy_II
+2,2,J. Howse,http://dbpedia.org/resource/Neville_Howse,http://dbpedia.org/resource/John_Brooke_Howse http://dbpedia.org/resource/John_Howse
+2,3,Aleksandar,http://dbpedia.org/resource/Alexander_I_of_Yugoslavia,http://dbpedia.org/resource/Mišo_Broz http://dbpedia.org/resource/Aleksandar_(Mišo)_Broz http://dbpedia.org/resource/Miso_Broz
+2,5,B. B. Ames,http://dbpedia.org/resource/Blanche_Ames_Ames,http://dbpedia.org/resource/Blanche_Butler_Ames
+2,6,A. A. Jr.,http://dbpedia.org/resource/Martin_Luther_King_Jr.,"http://dbpedia.org/resource/Ames_illusions http://dbpedia.org/resource/Adelbert_Ames,_Jr. http://dbpedia.org/resource/Adelbert_Ames_Jr. http://dbpedia.org/resource/Adelbert_Ames_Jr http://dbpedia.org/resource/Ames_Illusions"

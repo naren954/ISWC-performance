@@ -1,0 +1,6 @@
+"F1: 0.91837","Precision: 0.91837","Recall: 0.91837"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","8","Smyrna Airport","http://dbpedia.org/resource/Smyrna_Airport_(Delaware)","http://dbpedia.org/resource/Sewart_Air_Force_Base,_Tennessee http://dbpedia.org/resource/Smyrna_Airport_(Tennessee) http://dbpedia.org/resource/Sewart_Air_Force_Base,_TN http://dbpedia.org/resource/MQY http://dbpedia.org/resource/Smyrna_AFB http://dbpedia.org/resource/Smyrna_Air_Force_Base http://dbpedia.org/resource/KMQY http://dbpedia.org/resource/Sewart_AFB,_Tennessee http://dbpedia.org/resource/Sewart_AFB,_TN"
+"0","10","Smith Field","http://dbpedia.org/resource/Smith_Field_(Indiana)","http://dbpedia.org/resource/Smith_Field_(Arkansas) http://dbpedia.org/resource/Siloam_Springs_Municipal_Airport"
+"0","11","Sloulin Field International Airport","http://dbpedia.org/resource/Louisville_International_Airport","http://dbpedia.org/resource/Sloulin_Field_Airport http://dbpedia.org/resource/Williston_International_Airport http://dbpedia.org/resource/Sloulin_Field_International_Airport http://dbpedia.org/resource/ISN_Airport"
+"0","25","Sidney Municipal Airport","http://dbpedia.org/resource/Sidney_Municipal_Airport_(Nebraska)","http://dbpedia.org/resource/Sidney_Municipal_Airport_(New_York)"

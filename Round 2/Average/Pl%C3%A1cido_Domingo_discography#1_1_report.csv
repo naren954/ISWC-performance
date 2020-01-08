@@ -1,0 +1,5 @@
+F1: 0.57143,Precision: 0.57143,Recall: 0.57143,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,14,Christmas in Vienna (with Diana Ross and JosÃ© Carreras),http://dbpedia.org/resource/Christmas_in_Vienna_VI,http://dbpedia.org/resource/Christmas_in_Vienna_(Album) http://dbpedia.org/resource/Christmas_in_Vienna_(album)
+1,28,Noches en los jardines de EspaÃ±a \/ El sombrero de tres picos (conducting only),http://dbpedia.org/resource/Picos_de_Europa_National_Park,http://dbpedia.org/resource/Noches_en_los_jardines_de_España
+1,32,"Anna Netrebko: Live at The Metropolitan Opera (on only 2 tracks) (with Anna Netrebko, et al.)",http://dbpedia.org/resource/Live_from_the_Metropolitan_Opera,http://dbpedia.org/resource/Netrebko http://dbpedia.org/resource/Anna_Netrebko

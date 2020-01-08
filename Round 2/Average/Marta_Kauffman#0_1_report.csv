@@ -1,0 +1,6 @@
+F1: 0.66667,Precision: 0.66667,Recall: 0.66667,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,Everything's Relative,http://dbpedia.org/resource/Everything's_Relative_(1999_TV_series),http://dbpedia.org/resource/Everything's_Relative_(1987_TV_series)
+1,9,Jesse,http://dbpedia.org/resource/Jesse_&_Joy,http://dbpedia.org/resource/Jesse_Warner http://dbpedia.org/resource/Jesse_episodes http://dbpedia.org/resource/Jesse_(TV_series) http://dbpedia.org/resource/List_of_Jesse_(TV_series)_episodes
+1,14,Five,http://dbpedia.org/resource/Hawaii_Five-0_(2010_TV_series),http://dbpedia.org/resource/Five_(2011_film) http://dbpedia.org/resource/Five_(TV_movie)
+1,15,Hava Nagila: The Movie,http://pt.dbpedia.org/resource/Hava_Nagila:_The_Movie,http://dbpedia.org/resource/Hava_Nagila http://dbpedia.org/resource/Hava_Nagilah http://dbpedia.org/resource/Hava_naguila http://dbpedia.org/resource/Hava_Nagila_Hava http://dbpedia.org/resource/Hava_Nageela http://dbpedia.org/resource/Hava_Naquila http://dbpedia.org/resource/הבא_נגילה http://dbpedia.org/resource/Hava_nagila http://dbpedia.org/resource/Havah_Nagilah

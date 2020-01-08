@@ -1,0 +1,5 @@
+"F1: 0.86364","Precision: 0.86364","Recall: 0.86364"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","5","J. Goldmark","http://dbpedia.org/resource/Karl_Goldmark","http://dbpedia.org/resource/Joseph_Goldmark"
+"0","10","G. Darwin","http://dbpedia.org/resource/Francis_Darwin","http://dbpedia.org/resource/Sir_George_Darwin http://dbpedia.org/resource/George_darwin http://dbpedia.org/resource/George_H._Darwin http://dbpedia.org/resource/Sir_George_Howard_Darwin http://dbpedia.org/resource/Sir_George_Howard_Darwin,_FRS http://dbpedia.org/resource/Sir_George_Howard_Darwin,_F.R.S. http://dbpedia.org/resource/G._H._Darwin http://dbpedia.org/resource/George_Darwin http://dbpedia.org/resource/George_Howard_Darwin"
+"0","22","A. Keys","http://dbpedia.org/resource/Alicia_Keys","http://dbpedia.org/resource/Ansel_keyes http://dbpedia.org/resource/Ancel_Keyes http://dbpedia.org/resource/Ancel_Keys"

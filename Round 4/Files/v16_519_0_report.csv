@@ -1,0 +1,7 @@
+"F1: 0.95192","Precision: 0.95192","Recall: 0.95192"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","22","Go and Go","http://dbpedia.org/resource/Go_Nagai","http://dbpedia.org/resource/Go_And_Go http://dbpedia.org/resource/Go_and_Go"
+"0","56","Ferdinand","http://dbpedia.org/resource/Archduke_Franz_Ferdinand_of_Austria","http://dbpedia.org/resource/Ferdinand_(horse)"
+"0","80","Eliza","http://dbpedia.org/resource/Eliza_Courtney","http://dbpedia.org/resource/Eliza_(horse)"
+"0","82","Eleanor","http://dbpedia.org/resource/Eleanor_of_Aquitaine","http://dbpedia.org/resource/Eleanor_(horse)"
+"0","86","Easton","http://dbpedia.org/resource/John_Easton","http://dbpedia.org/resource/Easton_(horse)"

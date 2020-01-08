@@ -1,0 +1,6 @@
+"F1: 0.42857","Precision: 0.42857","Recall: 0.42857"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"2","1","KVCR-FM","http://dbpedia.org/resource/.fm","http://dbpedia.org/resource/KVCR_(FM) http://dbpedia.org/resource/KVCR-FM http://dbpedia.org/resource/K201CD"
+"2","3","KRCB-FM","http://dbpedia.org/resource/.fm","http://dbpedia.org/resource/K215CQ http://dbpedia.org/resource/KRCB-FM"
+"2","5","KTUL","http://dbpedia.org/resource/Tulsa_International_Airport","http://dbpedia.org/resource/KTUL_Tower_Coweta http://dbpedia.org/resource/KTUL-TV http://dbpedia.org/resource/KTUL_Tower http://dbpedia.org/resource/KTUL"
+"2","6","KERA","http://de.dbpedia.org/resource/Kera","http://dbpedia.org/resource/K257EV http://dbpedia.org/resource/KERA-FM http://dbpedia.org/resource/K202DR http://dbpedia.org/resource/K261CW http://dbpedia.org/resource/KERA_(FM)"

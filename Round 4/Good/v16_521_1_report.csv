@@ -1,0 +1,4 @@
+F1: 0.92308,Precision: 0.92308,Recall: 0.92308,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,6,Coastal,http://dbpedia.org/resource/Coastal_Bluff,http://dbpedia.org/resource/Coastal_(horse)
+1,7,On-and-On,,http://dbpedia.org/resource/On-and-On http://dbpedia.org/resource/On-And-On

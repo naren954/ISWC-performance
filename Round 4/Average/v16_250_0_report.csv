@@ -1,0 +1,14 @@
+F1: 0.73913,Precision: 0.73913,Recall: 0.73913,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,At the Villa Rose,http://dbpedia.org/resource/At_the_Villa_Rose_(1930_film),http://dbpedia.org/resource/At_the_Villa_Rose_(1940_film) http://dbpedia.org/resource/House_of_Mystery_(1940_film)
+0,5,At Risk,http://dbpedia.org/resource/Risk_(Megadeth_album),http://dbpedia.org/resource/At_Risk_(2010_film) http://dbpedia.org/resource/At_Risk_(TV_movie)
+0,10,Around the World in Eighty Days,http://dbpedia.org/resource/Around_the_World_in_80_Days_(1956_film),http://dbpedia.org/resource/Around_the_World_in_Eighty_Days_(1919_film) http://dbpedia.org/resource/Die_Reise_um_die_Erde_in_80_Tagen
+0,11,Army Surgeon,http://fr.dbpedia.org/resource/The_Army_Surgeon,http://dbpedia.org/resource/Army_Surgeon
+0,13,Arizona,http://dbpedia.org/resource/USS_Arizona_(BB-39),http://dbpedia.org/resource/Arizona_(1913_film)
+0,14,Are You with It?,http://dbpedia.org/resource/Within_You_Without_You,http://dbpedia.org/resource/Are_You_with_It?
+0,16,Archer,http://dbpedia.org/resource/Archer_(2009_TV_series),http://dbpedia.org/resource/Archer's_Adventure http://dbpedia.org/resource/Archer_(film)
+0,23,Anuraga Devata,http://dbpedia.org/resource/Devata_(1941_film),http://dbpedia.org/resource/Anuraga_Devata http://dbpedia.org/resource/Anuraga_Devatha
+0,24,"Another Time, Another Place","http://dbpedia.org/resource/Another_Time,_Another_Place_(1983_film)","http://dbpedia.org/resource/Another_Time,_Another_Place_(1958_film)"
+0,28,Anna Karenina,http://dbpedia.org/resource/Anna_Karenina_(2012_film),"http://dbpedia.org/resource/Anna_Karenina_(1997_film) http://dbpedia.org/resource/Leo_Tolstoy's_Anna_Karenina http://dbpedia.org/resource/Anna_Karenina_(film,_1997)"
+0,31,And Then There Were None,http://dbpedia.org/resource/And_Then_There_Were_None_(1945_film),http://dbpedia.org/resource/Ten_Little_Indians_(1974_film) http://dbpedia.org/resource/Diez_negritos http://dbpedia.org/resource/Ein_Unbekannter_rechnet_ab http://dbpedia.org/resource/And_Then_There_Were_None_(1974_film) http://dbpedia.org/resource/Ten_Little_Indians_(1974_novel) http://dbpedia.org/resource/Ten_Little_Indians_(1974) http://dbpedia.org/resource/Ein_unbekannter_rechnet_ab http://dbpedia.org/resource/And_Then_There_Were_None_(1974_movie)
+0,39,Amelia,http://es.dbpedia.org/resource/Amelia_(telenovela),http://dbpedia.org/resource/Amelia_(film) http://dbpedia.org/resource/Amelia_(2009_film)

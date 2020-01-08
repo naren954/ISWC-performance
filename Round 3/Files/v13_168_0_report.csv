@@ -1,0 +1,6 @@
+"F1: 0.75000","Precision: 0.75000","Recall: 0.75000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","1","L. Butler","http://dbpedia.org/resource/Lamar_Butler","http://dbpedia.org/resource/Larry_Butler_(darts_player)"
+"0","2","K. Anderson","http://dbpedia.org/resource/Kenneth_Anderson_(footballer)","http://dbpedia.org/resource/Kyle_Anderson_(darts_player)"
+"0","9","K. Thomas","http://fr.dbpedia.org/resource/Kris_Thomas","http://dbpedia.org/resource/Kevin_Thomas_(darts_player)"
+"0","14","K. Dowling","http://dbpedia.org/resource/Keeley_Dowling","http://dbpedia.org/resource/Kevin_Dowling_(darts_player)"

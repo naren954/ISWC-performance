@@ -1,0 +1,6 @@
+F1: 0.91111,Precision: 0.91111,Recall: 0.91111,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,14,L. Petersen,http://dbpedia.org/resource/Leiva_Petersen,http://dbpedia.org/resource/Ludvig_Petersen
+0,15,L. Knudsen,,http://dbpedia.org/resource/Ludvig_Knudsen
+0,16,L. W. Briggs,http://dbpedia.org/resource/Ward_W._Briggs,http://dbpedia.org/resource/L._W._Briggs_Associates http://dbpedia.org/resource/Lucius_W._Briggs http://dbpedia.org/resource/L._W._Briggs_Company
+0,44,J. Hueber,http://dbpedia.org/resource/Charles_Hueber,http://dbpedia.org/resource/Joseph_Hueber

@@ -1,0 +1,7 @@
+"F1: 0.92958","Precision: 0.92958","Recall: 0.92958"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"3","41","M. Décugis","http://dbpedia.org/resource/Marie_Decugis","http://dbpedia.org/resource/Max_Décugis"
+"3","46","N. Tatar","http://dbpedia.org/resource/Tomáš_Tatar","http://dbpedia.org/resource/Nur_Tatar"
+"3","54","N. Tatar","http://dbpedia.org/resource/Tomáš_Tatar","http://dbpedia.org/resource/Nur_Tatar"
+"3","67","M. Lopez","http://dbpedia.org/resource/Miguel_Ángel_López_(cyclist)","http://dbpedia.org/resource/Mark_Lopez http://dbpedia.org/resource/Mark_López"
+"3","69","A. Nikolaidis","http://dbpedia.org/resource/Apostolos_Nikolaidis_(athlete)","http://dbpedia.org/resource/Alexandros_Nikolaidis"

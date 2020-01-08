@@ -1,0 +1,4 @@
+"F1: 0.60000","Precision: 0.60000","Recall: 0.60000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","3","Democratic Alliance[note 1]","http://dbpedia.org/resource/Ukrainian_Democratic_Alliance_for_Reform","http://dbpedia.org/resource/Democratic_Alliance_(South_Africa)"
+"1","4","New National Party","http://dbpedia.org/resource/People's_Party_(Spain)","http://dbpedia.org/resource/South_African_National_Party http://dbpedia.org/resource/New_National_Party_(South_Africa)"

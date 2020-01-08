@@ -1,0 +1,5 @@
+F1: 0.86364,Precision: 0.86364,Recall: 0.86364,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,10,Ilford,http://dbpedia.org/resource/Dagenham_&_Redbridge_F.C.,http://dbpedia.org/resource/Ilford_FC http://dbpedia.org/resource/Ilford_F_C http://dbpedia.org/resource/Ilford_F.C. http://dbpedia.org/resource/Ilford_F._C.
+0,15,Redbridge,http://dbpedia.org/resource/Dagenham_&_Redbridge_F.C.,http://dbpedia.org/resource/Redbridge_FC http://dbpedia.org/resource/Redbridge_F.C. http://dbpedia.org/resource/Redbridge_F._C. http://dbpedia.org/resource/Ford_United_F.C. http://dbpedia.org/resource/Ford_United http://dbpedia.org/resource/Redbridge_F_C http://dbpedia.org/resource/Ford_Utd
+0,21,Waltham Forest,http://dbpedia.org/resource/Walton_&_Hersham_F.C.,http://dbpedia.org/resource/Leyton_Pennant_F.C. http://dbpedia.org/resource/Leyton_Pennant http://dbpedia.org/resource/Walthamstow_Pennant_F.C. http://dbpedia.org/resource/Waltham_Forest_F.C. http://dbpedia.org/resource/Waltham_Forest_F_C http://dbpedia.org/resource/Waltham_Forest_FC http://dbpedia.org/resource/Waltham_Forest_F._C.

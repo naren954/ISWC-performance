@@ -1,0 +1,23 @@
+F1: 0.72368,Precision: 0.72368,Recall: 0.72368,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Yuri Olefirenko,http://dbpedia.org/resource/Ukrainian_ship_Yuri_Olefirenko,http://dbpedia.org/resource/Yuri_Olefirenko_(U401)
+0,2,Voima,http://dbpedia.org/resource/Voima_(1924_icebreaker),http://dbpedia.org/resource/Voima_(1952_icebreaker) http://dbpedia.org/resource/IMO_5383158 http://dbpedia.org/resource/Finnish_icebreaker_Voima_(1952)
+0,8,USS Yosemite,http://dbpedia.org/resource/USS_Yosemite_(1892),http://dbpedia.org/resource/USS_Yosemite_(AD-19)
+0,9,USS Yorktown,http://dbpedia.org/resource/USS_Yorktown_(CV-5),http://dbpedia.org/resource/USS_Yorktown_(PG-1) http://dbpedia.org/resource/USS_Yorktown_(1888)
+0,11,USS York County,http://dbpedia.org/resource/USS_Kent_County_(LST-855),http://dbpedia.org/resource/Italian_landing_ship_Nave_Caorle_(L9891) http://dbpedia.org/resource/Italian_landing_ship_Caorle_(L9891) http://dbpedia.org/resource/USS_York_County_(LST-1175) http://dbpedia.org/resource/Uss_york_county http://dbpedia.org/resource/USS_York_County http://dbpedia.org/resource/USS_LST-1175
+0,14,USS Yellowstone,http://dbpedia.org/resource/USS_Yellowstone_(ID-2657),http://dbpedia.org/resource/USS_Yellowstone_(AD-41) http://dbpedia.org/resource/USS_Yellowstone_AD41
+0,15,USS Yellowstone,http://dbpedia.org/resource/USS_Yellowstone_(ID-2657),http://dbpedia.org/resource/USS_Yellowstone_(AD-27)
+0,18,USS Yarnall,http://dbpedia.org/resource/USS_Yarnall_(DD-541),http://dbpedia.org/resource/Soviet_destroyer_Druzhny http://dbpedia.org/resource/HMCS_Lincoln_(G42) http://dbpedia.org/resource/Soviet_destroyer_Druznyj http://dbpedia.org/resource/Soviet_destroyer_Druzny http://dbpedia.org/resource/USS_Yarnall_(DD-143) http://dbpedia.org/resource/HNoMS_Lincoln_(G42) http://dbpedia.org/resource/HMS_Lincoln_(G42)
+0,28,USS Wright,http://dbpedia.org/resource/USS_Wright_(CVL-49),http://dbpedia.org/resource/USS_San_Clemente_(AG-79) http://dbpedia.org/resource/USS_San_Clemente http://dbpedia.org/resource/USS_Wright_(AZ-1) http://dbpedia.org/resource/USS_Wright_(AG-79) http://dbpedia.org/resource/USS_Wright_(AV-1)
+0,31,USS Worden,http://dbpedia.org/resource/USS_Worden_(DD-352),http://dbpedia.org/resource/USS_Worden_(DD-288)
+0,32,USS Worden,http://dbpedia.org/resource/USS_Worden_(DD-352),http://dbpedia.org/resource/USS_Worden_(DD-16) http://dbpedia.org/resource/USS_Worden_(TB-16)
+0,33,USS Worden,http://dbpedia.org/resource/USS_Worden_(DD-352),http://dbpedia.org/resource/USS_Worden_(DLG-18) http://dbpedia.org/resource/USS_Worden_(CG-18)
+0,36,USS Woolsey,http://dbpedia.org/resource/USS_Woolsey_(DD-437),http://dbpedia.org/resource/USS_Woolsey_(DD-77)
+0,43,USS Wood County,http://dbpedia.org/resource/USS_Marion_County_(LST-975),http://dbpedia.org/resource/USS_Wood_County http://dbpedia.org/resource/USS_LST-1178 http://dbpedia.org/resource/USS_Wood_County_(LST-1178)
+0,51,USS Winslow,http://dbpedia.org/resource/USS_Winslow_(DD-359),http://dbpedia.org/resource/USS_Winslow_(TB-5)
+0,52,USS Winslow,http://dbpedia.org/resource/USS_Winslow_(DD-359),http://dbpedia.org/resource/DD-53 http://dbpedia.org/resource/USS_DD-53 http://dbpedia.org/resource/USS_Winslow_(DD-53)
+0,56,USS Wingina,http://dbpedia.org/resource/USS_Saginaw_(LST-1188),http://dbpedia.org/resource/USS_Wingina_(YTM-395) http://dbpedia.org/resource/USS_Wingina_(YT-395) http://dbpedia.org/resource/USS_Wingina_(YTB-395) http://dbpedia.org/resource/USS_Wingina
+0,61,USS Windham Bay,http://dbpedia.org/resource/USS_Oyster_Bay_(AGP-6),http://dbpedia.org/resource/USS_Windham_Bay http://dbpedia.org/resource/USS_Windham_Bay_(CVU-92) http://dbpedia.org/resource/USS_Windham_Bay_(CVE-92)
+0,63,USS Wilmington,http://dbpedia.org/resource/USS_Cabot_(CVL-28),http://dbpedia.org/resource/USS_Dover_(PG-8) http://dbpedia.org/resource/USS_Wilmington_(PG-8) http://dbpedia.org/resource/USS_Wilmington_(1895) http://dbpedia.org/resource/USS_Dover_(IX-30) http://dbpedia.org/resource/USS_Dover
+0,68,USS Williams,http://dbpedia.org/resource/USS_Williams_(DE-372),http://dbpedia.org/resource/HMSC_St._Clair http://dbpedia.org/resource/HMCS_St_Clair http://dbpedia.org/resource/HMCS_St._Clair http://dbpedia.org/resource/HMCS_St._Clair_(I65) http://dbpedia.org/resource/USS_Williams_(DD-108)
+0,75,USS William C. Miller,http://dbpedia.org/resource/USS_William_C._Cole_(DE-641),http://dbpedia.org/resource/USS_William_C._Miller_(DE-259) http://dbpedia.org/resource/USS_William_C._Miller http://dbpedia.org/resource/DE-259

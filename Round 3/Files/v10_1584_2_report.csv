@@ -1,0 +1,7 @@
+"F1: 0.95098","Precision: 0.95098","Recall: 0.95098"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"2","18","Travis","http://dbpedia.org/resource/Randy_Travis","http://dbpedia.org/resource/Travis_(Scottish_rock_band) http://dbpedia.org/resource/Travis'_Sixth_Studio_Album http://dbpedia.org/resource/Travis_(band) http://dbpedia.org/resource/Travis_band"
+"2","28","Love Unlimited","http://dbpedia.org/resource/Barry_White","http://dbpedia.org/resource/Love_Unlimited"
+"2","48","Tony Martin","http://dbpedia.org/resource/Tony_Martin_(British_singer)","http://dbpedia.org/resource/Alvin_Morris http://dbpedia.org/resource/Tony_Martin_(American_singer) http://dbpedia.org/resource/Tony_Martin_(singer) http://dbpedia.org/resource/Tony_Martin_(entertainer)"
+"2","49","Rick Price","http://dbpedia.org/resource/Rick_Price_(bassist)","http://dbpedia.org/resource/Rick_price http://dbpedia.org/resource/Rick_Price"
+"2","101","Japan","http://dbpedia.org/resource/X_Japan","http://dbpedia.org/resource/Japan_(band)"

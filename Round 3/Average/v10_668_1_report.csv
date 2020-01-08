@@ -1,0 +1,86 @@
+F1: 0.50588,Precision: 0.50588,Recall: 0.50588,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,B. Jensen,http://dbpedia.org/resource/Bill_Jensen,http://dbpedia.org/resource/Bruce_Jensen
+1,5,R. M. Powers,http://dbpedia.org/resource/Ridgley_C._Powers,http://dbpedia.org/resource/Richard_Powers_(illustrator) http://dbpedia.org/resource/Dick_Powers http://dbpedia.org/resource/R._M._Powers http://dbpedia.org/resource/R.M._Powers http://dbpedia.org/resource/Richard_M._Powers
+1,7,G. Paulsen,http://dbpedia.org/resource/Rob_Paulsen,http://dbpedia.org/resource/The_White_Fox_Chronicles http://dbpedia.org/resource/Gary_Paulson http://dbpedia.org/resource/Gary_Paulsen
+1,10,Seth,http://dbpedia.org/resource/Seth_MacFarlane,http://dbpedia.org/resource/Vernacular_Drawings http://dbpedia.org/resource/Gregory_Gallant http://dbpedia.org/resource/Wimbledon_Green http://dbpedia.org/resource/Seth_(cartoonist)
+1,12,Seth,http://dbpedia.org/resource/Seth_MacFarlane,http://dbpedia.org/resource/Vernacular_Drawings http://dbpedia.org/resource/Gregory_Gallant http://dbpedia.org/resource/Wimbledon_Green http://dbpedia.org/resource/Seth_(cartoonist)
+1,13,P. Bacon,http://dbpedia.org/resource/Francis_Bacon_(artist),http://dbpedia.org/resource/Bmcpher:example/Paul_Bacon_(designer) http://dbpedia.org/resource/Paul_Bacon_(designer)
+1,14,J. Krakauer,http://dbpedia.org/resource/Trude_Dothan,"http://dbpedia.org/resource/Jonathan_krakauer http://dbpedia.org/resource/Jon_Krakauer http://dbpedia.org/resource/Krakauer,_jon http://dbpedia.org/resource/Jon_Krakuer"
+1,17,Seth,http://dbpedia.org/resource/Seth_MacFarlane,http://dbpedia.org/resource/Vernacular_Drawings http://dbpedia.org/resource/Gregory_Gallant http://dbpedia.org/resource/Wimbledon_Green http://dbpedia.org/resource/Seth_(cartoonist)
+1,18,T. Lockwood,http://dbpedia.org/resource/Margaret_Lockwood,http://dbpedia.org/resource/Todd_Wills_Lockwood http://dbpedia.org/resource/Todd_Lockwood
+1,19,R. Sumpter,http://dbpedia.org/resource/Tika_Sumpter,http://dbpedia.org/resource/Rachell_Sumpter
+1,20,M. Louis,"http://dbpedia.org/resource/Georges-Louis_Leclerc,_Comte_de_Buffon",http://dbpedia.org/resource/Morris_Bernstein http://dbpedia.org/resource/Morris_L._Bernstein http://dbpedia.org/resource/Morris_Louis http://dbpedia.org/resource/Morris_Louis_Bernstein
+1,21,Hardcover,http://dbpedia.org/resource/Book,http://dbpedia.org/resource/Trade_Hardcover http://dbpedia.org/resource/Hardback http://dbpedia.org/resource/Trade_hardcover http://dbpedia.org/resource/Hardbound_book http://dbpedia.org/resource/Hardcover_book http://dbpedia.org/resource/Clothbound http://dbpedia.org/resource/Hardcovers http://dbpedia.org/resource/Hardback_book http://dbpedia.org/resource/Hardcover_Book http://dbpedia.org/resource/Hardcover http://dbpedia.org/resource/Hardbound
+1,24,J. Bell,http://dbpedia.org/resource/John_Stewart_Bell,http://dbpedia.org/resource/Julie_Bell
+1,25,J. Sturges,http://dbpedia.org/resource/Preston_Sturges,http://dbpedia.org/resource/Jock_Sturges http://dbpedia.org/resource/Jock_Sturgess
+1,27,D. Kyle,http://dbpedia.org/resource/Chris_Kyle,http://dbpedia.org/resource/David_Kyle http://dbpedia.org/resource/David_A._Kyle http://dbpedia.org/resource/Dave_Kyle
+1,28,C. McGrath,http://dbpedia.org/resource/Douglas_McGrath,http://dbpedia.org/resource/Chris_McGrath_(artist) http://dbpedia.org/resource/Christian_McGrath
+1,30,P. Bacon,http://dbpedia.org/resource/Francis_Bacon_(artist),http://dbpedia.org/resource/Bmcpher:example/Paul_Bacon_(designer) http://dbpedia.org/resource/Paul_Bacon_(designer)
+1,31,G. Images,http://dbpedia.org/resource/Google,http://dbpedia.org/resource/Photos.com http://dbpedia.org/resource/AFP/Getty_Images http://dbpedia.org/resource/Getty_images http://dbpedia.org/resource/WireImage http://dbpedia.org/resource/Hulton_Getty http://dbpedia.org/resource/Index_Stock http://dbpedia.org/resource/Comstock_(library) http://dbpedia.org/resource/Wireimage http://dbpedia.org/resource/Getty_Images_Inc http://dbpedia.org/resource/Getty_Images http://dbpedia.org/resource/Wire_Image http://dbpedia.org/resource/Thinkstock http://dbpedia.org/resource/The_Image_Bank http://dbpedia.org/resource/Getty_Image http://dbpedia.org/resource/WireImage.com http://dbpedia.org/resource/Tony_Stone_Images
+1,37,F. Marcellino,http://dbpedia.org/resource/Noella_Marcellino,http://dbpedia.org/resource/Fred_Marcellino
+1,38,S. Hickman,http://dbpedia.org/resource/Sara_Hickman,http://dbpedia.org/resource/Stephen_Hickman
+1,39,J. C. Christensen,http://dbpedia.org/resource/Jens_Christian_Christensen,http://dbpedia.org/resource/James_Christensen http://dbpedia.org/resource/James_C._Christensen
+1,40,G. Hunt,http://dbpedia.org/resource/Greg_Hunt,http://dbpedia.org/resource/Geoff_Hunt_(marine_artist)
+1,41,A. Gutierrez,http://dbpedia.org/resource/Antonio_García_Gutiérrez,http://dbpedia.org/resource/Alan_Gutierrez
+1,42,C. Caldwell,http://dbpedia.org/resource/Clive_Caldwell,http://dbpedia.org/resource/Clyde_Cadwell http://dbpedia.org/resource/Clyde_Caldwell
+1,44,T. Kidd,http://dbpedia.org/resource/Chip_Kidd,http://dbpedia.org/resource/Gnemo http://dbpedia.org/resource/Tom_Kidd_(illustrator) http://dbpedia.org/resource/Thomas_Kidd_(illustrator)
+1,45,R. M. Powers,http://dbpedia.org/resource/Ridgley_C._Powers,http://dbpedia.org/resource/Richard_Powers_(illustrator) http://dbpedia.org/resource/Dick_Powers http://dbpedia.org/resource/R._M._Powers http://dbpedia.org/resource/R.M._Powers http://dbpedia.org/resource/Richard_M._Powers
+1,46,Q. Blake,http://dbpedia.org/resource/William_Blake,http://dbpedia.org/resource/Quentin_Blake http://dbpedia.org/resource/Sir_Quentin_Blake http://dbpedia.org/resource/Quentin_Saxby_Blake
+1,48,G. Hunt,http://dbpedia.org/resource/Greg_Hunt,http://dbpedia.org/resource/Geoff_Hunt_(marine_artist)
+1,56,F. Marcellino,http://dbpedia.org/resource/Noella_Marcellino,http://dbpedia.org/resource/Fred_Marcellino
+1,58,G. Hunt,http://dbpedia.org/resource/Greg_Hunt,http://dbpedia.org/resource/Geoff_Hunt_(marine_artist)
+1,59,S. E. Fabian,http://dbpedia.org/resource/Lara_Fabian,"http://dbpedia.org/resource/Stephen_Emil_Fabian,_Jr. http://dbpedia.org/resource/Stephen_Fabian http://dbpedia.org/resource/Stephen_E._Fabian"
+1,60,P. Bacon,http://dbpedia.org/resource/Francis_Bacon_(artist),http://dbpedia.org/resource/Bmcpher:example/Paul_Bacon_(designer) http://dbpedia.org/resource/Paul_Bacon_(designer)
+1,61,K. Parkinson,http://dbpedia.org/resource/James_Parkinson,http://dbpedia.org/resource/Keith_Parkinson
+1,63,M. Odom,http://dbpedia.org/resource/Mel_Odom_(author),http://dbpedia.org/resource/Mel_Odom_(artist)
+1,65,M. Harrison,http://dbpedia.org/resource/Michael_Harrison_(writer),http://dbpedia.org/resource/Mark_Harrison_(comics) http://dbpedia.org/resource/Mark_Harrison_(artist) http://dbpedia.org/resource/Mark_Harrison_(comic_artist)
+1,66,L. Smith,http://dbpedia.org/resource/Larry_Smith_(basketball),http://dbpedia.org/resource/Lane_Smith_(illustrator) http://dbpedia.org/resource/Lane_Smith_(Illustrator)
+1,67,D. Archer,http://dbpedia.org/resource/Dennis_Archer,http://dbpedia.org/resource/Dave_Archer_(painter)
+1,71,P. Slater,http://dbpedia.org/resource/Jenny_Slate,http://dbpedia.org/resource/Peter_Slater
+1,73,D. B. Mattingly,http://dbpedia.org/resource/Harold_B._Mattingly,http://dbpedia.org/resource/David_Burroughs_Mattingly http://dbpedia.org/resource/David_Mattingly_(illustrator) http://dbpedia.org/resource/David_B._Mattingly
+1,74,C. Foss,http://dbpedia.org/resource/Craig_Foss,http://dbpedia.org/resource/Christopher_Fosse http://dbpedia.org/resource/Chris_Foss http://dbpedia.org/resource/Christopher_foss http://dbpedia.org/resource/Chris_Fosse
+1,76,D. B. Mattingly,http://dbpedia.org/resource/Harold_B._Mattingly,http://dbpedia.org/resource/David_Burroughs_Mattingly http://dbpedia.org/resource/David_Mattingly_(illustrator) http://dbpedia.org/resource/David_B._Mattingly
+1,79,P. Bacon,http://dbpedia.org/resource/Francis_Bacon_(artist),http://dbpedia.org/resource/Bmcpher:example/Paul_Bacon_(designer) http://dbpedia.org/resource/Paul_Bacon_(designer)
+1,80,P. Bacon,http://dbpedia.org/resource/Francis_Bacon_(artist),http://dbpedia.org/resource/Bmcpher:example/Paul_Bacon_(designer) http://dbpedia.org/resource/Paul_Bacon_(designer)
+1,82,B. Shaw,http://dbpedia.org/resource/George_Bernard_Shaw,http://dbpedia.org/resource/Barclay_Shaw
+1,85,T. H. Publishers,http://dbpedia.org/resource/T._H._White,"http://dbpedia.org/resource/Coverdale_House_Publishers http://dbpedia.org/resource/SaltRiver http://dbpedia.org/resource/Tyndale_House_Publishers http://dbpedia.org/resource/Tyndale_House_(Publishing_House) http://dbpedia.org/resource/Tyndale_House_Publishers,_Inc http://dbpedia.org/resource/Tyndale_House http://dbpedia.org/resource/Tyndale_House_Publishers,_Inc. http://dbpedia.org/resource/Tyndale_House_(publisher)"
+1,86,C. Denise,http://de.dbpedia.org/resource/Denise_Colomb,http://dbpedia.org/resource/Christopher_Denise
+1,88,J. Bell,http://dbpedia.org/resource/John_Stewart_Bell,http://dbpedia.org/resource/Julie_Bell
+1,89,V. Vaca,http://dbpedia.org/resource/Rafael_Vaca,http://dbpedia.org/resource/Vaclav_Vaca
+1,92,A. Wainwright,http://dbpedia.org/resource/Rufus_Wainwright,http://dbpedia.org/resource/Pennine_Way_Companion http://dbpedia.org/resource/A._Wainwright http://dbpedia.org/resource/Alfred_Wainwright
+1,93,K. Parkinson,http://dbpedia.org/resource/James_Parkinson,http://dbpedia.org/resource/Keith_Parkinson
+1,95,B. Warner,http://dbpedia.org/resource/Jack_L._Warner,http://dbpedia.org/resource/Bob_Warner_(artist)
+1,96,G. Hunt,http://dbpedia.org/resource/Greg_Hunt,http://dbpedia.org/resource/Geoff_Hunt_(marine_artist)
+1,97,P. Lardy,http://fr.dbpedia.org/resource/Charles_Lardy,http://dbpedia.org/resource/Philippe_Lardy
+1,98,P. Bacon,http://dbpedia.org/resource/Francis_Bacon_(artist),http://dbpedia.org/resource/Bmcpher:example/Paul_Bacon_(designer) http://dbpedia.org/resource/Paul_Bacon_(designer)
+1,99,D. B. Mattingly,http://dbpedia.org/resource/Harold_B._Mattingly,http://dbpedia.org/resource/David_Burroughs_Mattingly http://dbpedia.org/resource/David_Mattingly_(illustrator) http://dbpedia.org/resource/David_B._Mattingly
+1,101,G. Brom,http://de.dbpedia.org/resource/Joseph_Brom,http://dbpedia.org/resource/Gerald_Brom http://dbpedia.org/resource/Brom_(artist)
+1,107,J. Bauman,http://dbpedia.org/resource/Zygmunt_Bauman,http://dbpedia.org/resource/Jill_Bauman
+1,111,G. Hunt,http://dbpedia.org/resource/Greg_Hunt,http://dbpedia.org/resource/Geoff_Hunt_(marine_artist)
+1,113,W. Skiles,http://dbpedia.org/resource/Scott_Skiles,http://dbpedia.org/resource/Wes_Skiles http://dbpedia.org/resource/Wesley_C._Skiles
+1,114,N. Dameron,http://dbpedia.org/resource/Tadd_Dameron,http://dbpedia.org/resource/Ned_Dameron
+1,119,J. Bell,http://dbpedia.org/resource/John_Stewart_Bell,http://dbpedia.org/resource/Julie_Bell
+1,120,J. Bell,http://dbpedia.org/resource/John_Stewart_Bell,http://dbpedia.org/resource/Julie_Bell
+1,124,S. E. Fabian,http://dbpedia.org/resource/Lara_Fabian,"http://dbpedia.org/resource/Stephen_Emil_Fabian,_Jr. http://dbpedia.org/resource/Stephen_Fabian http://dbpedia.org/resource/Stephen_E._Fabian"
+1,125,S. E. Fabian,http://dbpedia.org/resource/Lara_Fabian,"http://dbpedia.org/resource/Stephen_Emil_Fabian,_Jr. http://dbpedia.org/resource/Stephen_Fabian http://dbpedia.org/resource/Stephen_E._Fabian"
+1,128,J. Lawrence,http://dbpedia.org/resource/Jack_Lawrence,http://dbpedia.org/resource/John_Lawrence_(illustrator)
+1,132,J. Smith,http://dbpedia.org/resource/James_Edward_Smith,http://dbpedia.org/resource/Jeff_Smith_(comics) http://dbpedia.org/resource/Cartoon_Books http://dbpedia.org/resource/Jeff_Smith_(cartoonist)
+1,134,T. Phillips,http://dbpedia.org/resource/Thomas_Phillips,http://dbpedia.org/resource/Tom_Phillips_(artist)
+1,136,D. A. Cherry,http://dbpedia.org/resource/John_D._Cherry,http://dbpedia.org/resource/David_A._Cherry http://dbpedia.org/resource/David_A.Cherry http://dbpedia.org/resource/David_A_Cherry http://dbpedia.org/resource/David_Cherry
+1,138,T. Kirk,http://dbpedia.org/resource/Thomas_Kirk_(botanist),http://dbpedia.org/resource/Tim_Kirk
+1,139,T. Canty,http://dbpedia.org/resource/Kevin_Canty_(author),http://dbpedia.org/resource/Thomas_Canty http://dbpedia.org/resource/Thomas_Canty_(illustrator)
+1,140,B. Eggleton,http://dbpedia.org/resource/Art_Eggleton,http://dbpedia.org/resource/Bob_Eggleton
+1,143,G. Hunt,http://dbpedia.org/resource/Greg_Hunt,http://dbpedia.org/resource/Geoff_Hunt_(marine_artist)
+1,145,J. Harris,http://dbpedia.org/resource/Richard_Harris,http://dbpedia.org/resource/John_Harris_(artist)
+1,152,K. Parkinson,http://dbpedia.org/resource/James_Parkinson,http://dbpedia.org/resource/Keith_Parkinson
+1,153,C. Harper,http://dbpedia.org/resource/Charley_Harper,http://dbpedia.org/resource/Cliff_Harper http://dbpedia.org/resource/Clifford_Harper
+1,156,K. Parkinson,http://dbpedia.org/resource/James_Parkinson,http://dbpedia.org/resource/Keith_Parkinson
+1,157,D. Davis,http://dbpedia.org/resource/David_Davis_(U.S._politician),http://dbpedia.org/resource/Don_Davis_(artist)
+1,164,McCall's,http://dbpedia.org/resource/George_A._McCall,http://dbpedia.org/resource/McCall’s http://dbpedia.org/resource/McCall's_magazine http://dbpedia.org/resource/McCall's_Magazine http://dbpedia.org/resource/McCall's http://dbpedia.org/resource/McCalls http://dbpedia.org/resource/Rosie_(magazine)
+1,165,B. Jensen,http://dbpedia.org/resource/Bill_Jensen,http://dbpedia.org/resource/Bruce_Jensen
+1,166,R. Berry,http://dbpedia.org/resource/Richard_Berry_(actor),http://dbpedia.org/resource/Rick_Berry_(artist)
+1,167,A. Pollock,http://dbpedia.org/resource/Jackson_Pollock,http://dbpedia.org/resource/Alan_Pollock http://dbpedia.org/resource/Hawker_Hunter_Tower_Bridge_incident
+1,168,A. Pollock,http://dbpedia.org/resource/Jackson_Pollock,http://dbpedia.org/resource/Alan_Pollock http://dbpedia.org/resource/Hawker_Hunter_Tower_Bridge_incident
+1,169,K. Parkinson,http://dbpedia.org/resource/James_Parkinson,http://dbpedia.org/resource/Keith_Parkinson
+1,170,J. Burns,http://dbpedia.org/resource/Edward_Burns,http://dbpedia.org/resource/Jim_Burns

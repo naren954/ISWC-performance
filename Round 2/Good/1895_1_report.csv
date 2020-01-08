@@ -1,0 +1,4 @@
+F1: 0.88889,Precision: 0.88889,Recall: 0.88889,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,Hunted,http://dbpedia.org/resource/Hunted_(Gardner_novel),http://dbpedia.org/resource/Hunted_(Cast_novel)
+1,6,Lucky,http://dbpedia.org/resource/Lucky_(Britney_Spears_song),http://dbpedia.org/resource/Lucky_(von_Ziegesar_novel)

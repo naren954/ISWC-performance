@@ -1,0 +1,17 @@
+F1: 0.75806,Precision: 0.75806,Recall: 0.75806,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,10,H. Simon,http://dbpedia.org/resource/Harry_Simon_(boxer),http://dbpedia.org/resource/Harry_Simon_(sport_shooter) http://dbpedia.org/resource/Harry_Simon_(shooter)
+3,18,H. Simon,http://dbpedia.org/resource/Harry_Simon_(boxer),http://dbpedia.org/resource/Harry_Simon_(sport_shooter) http://dbpedia.org/resource/Harry_Simon_(shooter)
+3,28,H. Nielsen,http://dbpedia.org/resource/Harald_Nielsen,http://dbpedia.org/resource/Holger_Nielsen
+3,31,H. Nielsen,http://dbpedia.org/resource/Harald_Nielsen,http://dbpedia.org/resource/Holger_Nielsen
+3,34,T. Petäjä,http://dbpedia.org/resource/Erkka_Petäjä,http://dbpedia.org/resource/Tuuli_Petäjä-Sirén http://dbpedia.org/resource/Tuuli_Petäjä http://dbpedia.org/resource/Tuuli_Petaja http://dbpedia.org/resource/Tuuli_Petaja-Siren
+3,35,S. Clark,http://dbpedia.org/resource/Sherm_Clark,http://dbpedia.org/resource/Saskia_Clark
+3,36,N. Dempsey,http://dbpedia.org/resource/Joseph_Dempsey,http://dbpedia.org/resource/Nick_Dempsey
+3,42,T. Petäjä,http://dbpedia.org/resource/Erkka_Petäjä,http://dbpedia.org/resource/Tuuli_Petäjä-Sirén http://dbpedia.org/resource/Tuuli_Petäjä http://dbpedia.org/resource/Tuuli_Petaja http://dbpedia.org/resource/Tuuli_Petaja-Siren
+3,43,S. Clark,http://dbpedia.org/resource/Sherm_Clark,http://dbpedia.org/resource/Saskia_Clark
+3,44,N. Dempsey,http://dbpedia.org/resource/Joseph_Dempsey,http://dbpedia.org/resource/Nick_Dempsey
+3,50,A. Sensini,http://dbpedia.org/resource/Alberto_Sensini,http://dbpedia.org/resource/Alessandra_Sensini
+3,53,J. Bontemps,http://dbpedia.org/resource/Ron_Bontemps,http://dbpedia.org/resource/Julien_Bontemps
+3,58,I. Martínez,http://dbpedia.org/resource/Iñigo_Martínez,http://dbpedia.org/resource/Iker_Martinez http://dbpedia.org/resource/Iker_Martínez http://dbpedia.org/resource/Iker_Martínez_de_Lizarduy http://dbpedia.org/resource/Iker_Martinez_de_Lizarduy
+3,59,A. Sensini,http://dbpedia.org/resource/Alberto_Sensini,http://dbpedia.org/resource/Alessandra_Sensini
+3,62,J. Bontemps,http://dbpedia.org/resource/Ron_Bontemps,http://dbpedia.org/resource/Julien_Bontemps

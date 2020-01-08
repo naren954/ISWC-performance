@@ -1,0 +1,12 @@
+F1: 0.83871,Precision: 0.83871,Recall: 0.83871,,
+Col,Row,Value,Submitted URI,Correct URI's
+4,1,Creep,http://dbpedia.org/resource/Creep_(TLC_song),http://dbpedia.org/resource/Creep_(Stone_Temple_Pilots_song)
+4,20,Honey,http://dbpedia.org/resource/Honey_(Mariah_Carey_song),http://dbpedia.org/resource/Honey_(I_miss_you) http://dbpedia.org/resource/Honey_(I_Miss_You) http://dbpedia.org/resource/Honey_(Bobby_Goldsboro_song)
+4,23,Smile,http://dbpedia.org/resource/Smile_(Scarface_song),http://dbpedia.org/resource/Smile/Island_Jam http://dbpedia.org/resource/Smile_(David_Gilmour_song)
+4,28,Mountains,http://dbpedia.org/resource/Mountain_(band),http://dbpedia.org/resource/Mountains_(Prince_song)
+4,32,A Hard Day's Night,http://dbpedia.org/resource/A_Hard_Day's_Night_(film),http://dbpedia.org/resource/All_Day_Night_(A_Hard_Days_Night) http://dbpedia.org/resource/A_Hard_Day's_Night_(song) http://dbpedia.org/resource/Hard_Day's_Night_(song)
+4,33,Breakdown,http://dbpedia.org/resource/Breakdown_(Mariah_Carey_song),http://dbpedia.org/resource/Breakdown_(Tom_Petty_song) http://dbpedia.org/resource/Breakdown_(Grace_Jones) http://dbpedia.org/resource/Breakdown_(Tom_Petty_and_the_Heartbreakers_song)
+4,40,Faster,http://dbpedia.org/resource/Faster_(Within_Temptation_song),http://dbpedia.org/resource/Faster_(George_Harrison_song)
+4,51,No More I Love You's,http://dbpedia.org/resource/I_Will_Always_Love_You,"http://dbpedia.org/resource/No_More_""I_Love_You's"" http://dbpedia.org/resource/No_More_I_Love_You's_(Annie_Lennox_song) http://dbpedia.org/resource/No_More_I_Love_Yous http://dbpedia.org/resource/No_More_I_Love_You's"
+4,54,I Saw the Light,http://dbpedia.org/resource/I_Saw_the_Light_(Wynonna_Judd_song),http://dbpedia.org/resource/I_Saw_the_Light_(Hank_Williams_song)
+4,62,Can't Buy Me Love,http://dbpedia.org/resource/Can't_Buy_Me_Love_(film),http://dbpedia.org/resource/Can’t_Buy_Me_Love http://dbpedia.org/resource/Can't_Buy_Me_Love_(The_Beatles_song) http://dbpedia.org/resource/Can't_Buy_me_Love http://dbpedia.org/resource/Can't_buy_me_love http://dbpedia.org/resource/Can't_Buy_Me_Love

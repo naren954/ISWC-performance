@@ -1,0 +1,5 @@
+F1: 0.78571,Precision: 0.78571,Recall: 0.78571,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,Schwarzenburg,http://de.dbpedia.org/resource/Schwarzenburg_(Lockweiler),http://dbpedia.org/resource/Schwarzenburg_(Breisgau)
+0,6,Katzenelnbogen,http://de.dbpedia.org/resource/Burg_Katzenelnbogen,"http://dbpedia.org/resource/Katzenellenbogen,_Germany http://dbpedia.org/resource/Katzenelnbogen"
+0,8,Hohenstein Castle,http://de.dbpedia.org/resource/Burg_Hohenstein_(Taunus),http://dbpedia.org/resource/Burg_Hohenstein_(Middle_Franconia) http://dbpedia.org/resource/Hohenstein_Castle_(Middle_Franconia) http://dbpedia.org/resource/Burg_Hohenstein_(Mittelfranken)

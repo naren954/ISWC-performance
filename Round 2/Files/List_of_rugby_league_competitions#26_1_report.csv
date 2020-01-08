@@ -1,0 +1,5 @@
+"F1: 0.25000","Precision: 0.25000","Recall: 0.25000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","1","Lebanon Championship","http://dbpedia.org/resource/Lebanese_Basketball_League","http://dbpedia.org/resource/Rugby_League_in_Lebanon http://dbpedia.org/resource/Rugby_league_in_Lebanon"
+"1","2","Philippines National Rugby League (PNRL)","http://dbpedia.org/resource/Philippines_national_rugby_league_team","http://dbpedia.org/resource/Philippines_National_Rugby_League http://dbpedia.org/resource/Philippine_Tamaraw_Rugby_League http://dbpedia.org/resource/Philippines_National_Rugby_League_Championship"
+"1","4","Emirates Rugby League (ENRL)","http://dbpedia.org/resource/United_Arab_Emirates_national_rugby_league_team","http://dbpedia.org/resource/Emirates_Rugby_League http://dbpedia.org/resource/Emirates_rugby_league"

@@ -1,0 +1,4 @@
+F1: 0.71429,Precision: 0.71429,Recall: 0.71429,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,3,"Teahupoo, Tahiti",http://dbpedia.org/resource/Tahiti,"http://dbpedia.org/resource/Teahupo http://dbpedia.org/resource/Teophoo http://dbpedia.org/resource/Teahupoo http://dbpedia.org/resource/Teahupo'o http://dbpedia.org/resource/Teahupoo,_French_Polynesia http://dbpedia.org/resource/Teahupoo,_Tahiti http://dbpedia.org/resource/Chopes"
+1,7,"Honolua Bay, Hawaii","http://dbpedia.org/resource/Waimea_Bay,_Hawaii","http://dbpedia.org/resource/Honolua,_Hawaii http://dbpedia.org/resource/Honolua_Bay http://dbpedia.org/resource/Honolua http://dbpedia.org/resource/Lipoa http://dbpedia.org/resource/Lipoa_Point http://dbpedia.org/resource/Mokuleia_Bay"

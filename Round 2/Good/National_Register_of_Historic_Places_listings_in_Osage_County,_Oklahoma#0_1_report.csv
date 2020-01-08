@@ -1,0 +1,4 @@
+F1: 0.81818,Precision: 0.81818,Recall: 0.81818,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,14,Immaculate Conception Church,"http://dbpedia.org/resource/Immaculate_Conception_Catholic_Church_(Botkins,_Ohio)","http://dbpedia.org/resource/Immaculate_Conception_Church_(Pawhuska,_Oklahoma)"
+1,23,Woolaroc Ranch Historic District,http://dbpedia.org/resource/HF_Bar_Ranch_Historic_District,"http://dbpedia.org/resource/Woolaroc_Museum http://dbpedia.org/resource/Woolaroc_Ranch_Historic_District http://dbpedia.org/resource/Phillips_Osage_Park http://dbpedia.org/resource/Frank_Phillips_Ranch http://dbpedia.org/resource/Woolaroc,_Oklahoma http://dbpedia.org/resource/Woolaroc http://dbpedia.org/resource/Rock_Creek_Game_Preserve http://dbpedia.org/resource/Woolaroc_Museum_and_Wildlife_Preserve http://dbpedia.org/resource/Woolaroc_Ranch"

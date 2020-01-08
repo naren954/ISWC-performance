@@ -1,0 +1,4 @@
+F1: 0.96078,Precision: 0.96078,Recall: 0.96078,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,10,A. Sotnikova,http://dbpedia.org/resource/Adelina_Sotnikova,http://dbpedia.org/resource/Alyona_Sotnikova
+1,35,J. Larsson,http://dbpedia.org/resource/Johanna_Larsson,http://dbpedia.org/resource/Johanna_Larsson_(tennis)

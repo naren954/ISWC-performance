@@ -1,0 +1,6 @@
+"F1: 0.71429","Precision: 0.71429","Recall: 0.71429"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","6","D. Armstrong","http://dbpedia.org/resource/Derek_Armstrong_(ice_hockey)","http://dbpedia.org/resource/Doug_Armstrong"
+"1","7","D. Wilson","http://dbpedia.org/resource/Tracy_Wilson","http://dbpedia.org/resource/Douglas_Wilson_(hockey_player) http://dbpedia.org/resource/Doug_Wilson_(ice_hockey) http://dbpedia.org/resource/Douglas_Wilson_(ice_hockey)"
+"1","10","P. Dorion","http://dbpedia.org/resource/Marc-André_Dorion","http://dbpedia.org/resource/Pierre_Dorion"
+"1","11","J. Gorton","http://dbpedia.org/resource/John_Gorton","http://dbpedia.org/resource/Jeff_Gorton"

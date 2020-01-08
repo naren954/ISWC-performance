@@ -1,0 +1,17 @@
+F1: 0.74576,Precision: 0.74576,Recall: 0.74576,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,Sir Archibald Campbell,"http://dbpedia.org/resource/Sir_Archibald_Campbell,_1st_Baronet","http://dbpedia.org/resource/Archibald_Campbell_(British_Army_officer) http://dbpedia.org/resource/Archibald_Campbell_(major-general) http://dbpedia.org/resource/Archibald_Campbell_(British_Lieutenant_Colonel) http://dbpedia.org/resource/Archibald_Campbell_(British_Army_officer,_born_1739)"
+0,9,George Harris (acting),"http://dbpedia.org/resource/George_Harris,_4th_Baron_Harris","http://dbpedia.org/resource/George_Harris,_1st_Baron_Harris"
+0,12,William Petrie (acting),http://dbpedia.org/resource/Flinders_Petrie,http://dbpedia.org/resource/William_Petrie
+0,21,The 13th Lord Elphinstone,"http://dbpedia.org/resource/Sidney_Buller-Fullerton-Elphinstone,_16th_Lord_Elphinstone","http://dbpedia.org/resource/John_Elphinstone,_13th_Lord_Elphinstone"
+0,32,Edward Maltby (acting),http://dbpedia.org/resource/Edward_Maltby,http://dbpedia.org/resource/Edward_Maltby_(British_civil_servant)
+0,36,Lord Hobart,"http://dbpedia.org/resource/John_Hobart,_2nd_Earl_of_Buckinghamshire","http://dbpedia.org/resource/Vere_Henry_Hobart,_Lord_Hobart http://dbpedia.org/resource/Vere_Hobart,_Lord_Hobart"
+0,40,William Huddleston (acting),http://dbpedia.org/resource/David_Huddleston,"http://dbpedia.org/resource/William_Huddleston http://dbpedia.org/resource/Huddleston,_William"
+0,43,John Henry Garstin,http://dbpedia.org/resource/John_Henry_Gurney_Sr.,http://dbpedia.org/resource/John_Henry_Garstin
+0,47,James Thompson (acting),http://dbpedia.org/resource/James_R._Thompson,http://dbpedia.org/resource/James_Thompson_(civil_servant) http://dbpedia.org/resource/James_Thompson_(British_civil_servant)
+0,49,Sir Gabriel Stokes (acting),"http://dbpedia.org/resource/Sir_George_Stokes,_1st_Baronet",http://dbpedia.org/resource/Sir_Gabriel_Stokes http://dbpedia.org/resource/Gabriel_Stokes
+0,52,Sir Murray Hammick (acting),http://dbpedia.org/resource/Archibald_Murray,http://dbpedia.org/resource/Murray_Hammick http://dbpedia.org/resource/Sir_Murray_Hammick
+0,59,Sir George Frederick Stanley (1st time),"http://dbpedia.org/resource/Frederick_Stanley,_16th_Earl_of_Derby",http://dbpedia.org/resource/George_Fredrick_Stanley http://dbpedia.org/resource/George_Frederick_Stanley
+0,61,Sir George Frederick Stanley (2nd time),"http://dbpedia.org/resource/Frederick_Stanley,_16th_Earl_of_Derby",http://dbpedia.org/resource/George_Fredrick_Stanley http://dbpedia.org/resource/George_Frederick_Stanley
+0,62,Lord Erskine (1st time),"http://dbpedia.org/resource/James_St_Clair-Erskine,_2nd_Earl_of_Rosslyn","http://dbpedia.org/resource/John_Erskine,_Lord_Erskine http://dbpedia.org/resource/John_Francis_Ashley_Erskine,_Lord_Erskine http://dbpedia.org/resource/John_Francis_Ashley_Erskine"
+0,64,Lord Erskine (2nd time),"http://dbpedia.org/resource/James_St_Clair-Erskine,_2nd_Earl_of_Rosslyn","http://dbpedia.org/resource/John_Erskine,_Lord_Erskine http://dbpedia.org/resource/John_Francis_Ashley_Erskine,_Lord_Erskine http://dbpedia.org/resource/John_Francis_Ashley_Erskine"

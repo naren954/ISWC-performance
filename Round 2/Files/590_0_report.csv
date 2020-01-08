@@ -1,0 +1,6 @@
+"F1: 0.80000","Precision: 0.80000","Recall: 0.80000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","1","J. English","http://dbpedia.org/resource/John_Herschel","http://dbpedia.org/resource/Jon_English"
+"0","4","J. Saunders","http://dbpedia.org/resource/Jackie_Saunders","http://dbpedia.org/resource/John_Saunders_(journalist)"
+"0","8","J. Kerr","http://dbpedia.org/resource/Deborah_Kerr","http://dbpedia.org/resource/John_Kerr_(actor)"
+"0","20","J. Moore","http://dbpedia.org/resource/John_Moore_(physician)","http://dbpedia.org/resource/Joanna_Moore http://dbpedia.org/resource/Joanna_Cook_Moore http://dbpedia.org/resource/Joanna_moore"

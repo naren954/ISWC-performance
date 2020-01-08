@@ -1,0 +1,4 @@
+"F1: 0.66667","Precision: 0.66667","Recall: 0.66667"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","4","Order of Ontario (O.ont)","http://dbpedia.org/resource/Freemasonry","http://dbpedia.org/resource/OOnt http://dbpedia.org/resource/O.Ont http://dbpedia.org/resource/Order_of_Ontario http://dbpedia.org/resource/Order_of_ontario http://dbpedia.org/resource/OONT"
+"1","5","Queen Elizabeth II Golden Jubilee Medal","http://dbpedia.org/resource/Queen_Elizabeth_II_Diamond_Jubilee_Medal","http://dbpedia.org/resource/Golden_Jubilee_Medal http://dbpedia.org/resource/Queen's_Golden_Jubilee_Medal http://dbpedia.org/resource/Queen_Elizabeth_II's_Golden_Jubilee_Medal http://dbpedia.org/resource/Queen_Elizabeth_II_Golden_Anniversary_Medal http://dbpedia.org/resource/Queen’s_Golden_Jubilee_Medal http://dbpedia.org/resource/Queen_Elizabeth_II_Golden_Jubilee_Medal"

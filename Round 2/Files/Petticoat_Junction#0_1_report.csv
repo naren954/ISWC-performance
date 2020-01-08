@@ -1,0 +1,8 @@
+"F1: 0.79310","Precision: 0.79310","Recall: 0.79310"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","5","Lori Saunders","http://dbpedia.org/resource/Doris_Saunders","http://dbpedia.org/resource/Linda_Saunders http://dbpedia.org/resource/Lori_Sanders http://dbpedia.org/resource/Lori_Saunders http://dbpedia.org/resource/Linda_Sanders"
+"1","12","June Lockhart","http://dbpedia.org/resource/Gene_Lockhart","http://dbpedia.org/resource/June_Lockhart http://dbpedia.org/resource/Maria_Cummings"
+"1","21","Tom Lester","http://dbpedia.org/resource/Justin_Lester_(politician)","http://dbpedia.org/resource/Tom_Lester http://dbpedia.org/resource/Thomas_Lester"
+"1","24","Jonathan Daly","http://dbpedia.org/resource/Jon_Daly","http://dbpedia.org/resource/Jonathan_Daly"
+"1","25","Jimmy Hawkins","http://dbpedia.org/resource/Emery_Hawkins","http://dbpedia.org/resource/Jimmy_Hawkins"
+"1","29","Elvia Allman","http://dbpedia.org/resource/Gregg_Allman","http://dbpedia.org/resource/Elvia_Allman"

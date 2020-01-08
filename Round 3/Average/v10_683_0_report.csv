@@ -1,0 +1,39 @@
+F1: 0.69167,Precision: 0.69167,Recall: 0.69167,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,5,J. Fox,http://dbpedia.org/resource/Joe_Fox_(footballer),http://dbpedia.org/resource/Young_Fox http://dbpedia.org/resource/Joey_Fox http://dbpedia.org/resource/Joe_Fox_(boxer)
+0,6,J. Erskine,http://dbpedia.org/resource/Joe_Erskine_(Welsh_boxer),"http://dbpedia.org/resource/Joe_Erskine_(American_boxer) http://dbpedia.org/resource/Joey_Erskine http://dbpedia.org/resource/Joseph_H._Erskine,_Sr."
+0,11,J. Butler,http://dbpedia.org/resource/James_Butler_(boxer),http://dbpedia.org/resource/Joe_Butler_(boxer)
+0,12,J. Brown,http://dbpedia.org/resource/Jackie_Brown_(English_boxer),http://dbpedia.org/resource/Joe_Brown_(boxer)
+0,14,J. Bernstein,http://dbpedia.org/resource/Jack_Bernstein,http://dbpedia.org/resource/Joe_Bernstein_(boxer)
+0,19,J. Young,http://dbpedia.org/resource/Jahmar_Young,http://dbpedia.org/resource/Jimmy_Young_(boxer) http://dbpedia.org/resource/Jimmy_Young_(Boxer)
+0,22,J. Walsh,http://dbpedia.org/resource/Jimmy_Walsh_(American_boxer),http://dbpedia.org/resource/Jimmy_Walsh_(boxer)
+0,23,J. Slattery,http://dbpedia.org/resource/Jack_Slattery,http://dbpedia.org/resource/Jimmy_Slattery
+0,27,J. Lloyd,http://dbpedia.org/resource/John_Lloyd_(tennis),http://dbpedia.org/resource/James_Lloyd_(boxer) http://dbpedia.org/resource/Jimmy_Lloyd
+0,29,J. Garcia,http://fr.dbpedia.org/resource/Jo_Jo_Garcia,http://dbpedia.org/resource/Jimmy_Garcia
+0,31,J. Elliott,http://dbpedia.org/resource/John_Elliott_(British_boxer),http://dbpedia.org/resource/Jimmy_Elliott
+0,32,J. Doyle,http://dbpedia.org/resource/Johnny_Doyle,http://dbpedia.org/resource/Jimmy_Doyle_(boxer) http://dbpedia.org/resource/James_Delaney_(boxer)
+0,33,J. Carter,http://dbpedia.org/resource/Jake_Carter_(basketball),http://dbpedia.org/resource/Jimmy_Carter_(boxer) http://dbpedia.org/resource/James_Walter_Carter
+0,35,J. Britt,http://dbpedia.org/resource/Jim_Britt_(baseball),http://dbpedia.org/resource/Jimmy_Britt
+0,38,J. West,http://dbpedia.org/resource/Jerry_West,http://dbpedia.org/resource/Jim_West_(boxer)
+0,39,J. Johnson,http://dbpedia.org/resource/Joe_Johnson_(basketball),http://dbpedia.org/resource/Battling_Jim_Johnson http://dbpedia.org/resource/Jim_Johnson_(boxer)
+0,44,J. Adamski,http://dbpedia.org/resource/Herbert_Adamski,http://dbpedia.org/resource/Jerzy_Adamski
+0,47,J. Smith,http://dbpedia.org/resource/James_Smith_(boxer),http://dbpedia.org/resource/Jem_Smith http://dbpedia.org/resource/Jem_smith
+0,48,J. Mace,http://dbpedia.org/resource/John_Mace_(English_cricketer),http://dbpedia.org/resource/Jem_Mace http://dbpedia.org/resource/Jem_mace
+0,50,J. Smith,http://dbpedia.org/resource/James_Smith_(boxer),http://dbpedia.org/resource/Jeff_Smith_(boxer)
+0,56,J. Jauregui,http://dbpedia.org/resource/Ignacio_Jáuregui,http://dbpedia.org/resource/Javier_Jauregui http://dbpedia.org/resource/Javier_Jáuregui
+0,61,J. Murray,http://dbpedia.org/resource/Jamie_Murray,http://dbpedia.org/resource/James_Murray_(boxer)
+0,67,J. Burke,http://dbpedia.org/resource/Joy_Burke,http://dbpedia.org/resource/James_Burke_(boxer)
+0,69,J. Boyd,http://dbpedia.org/resource/John_Boyd_(military_strategist),http://dbpedia.org/resource/Jim_Boyd_(boxer) http://dbpedia.org/resource/James_Boyd_(boxer)
+0,70,J. Beal,http://dbpedia.org/resource/Jermaine_Beal,http://dbpedia.org/resource/James_Brian_Beal http://dbpedia.org/resource/James_Beal
+0,75,J. Wilson,http://dbpedia.org/resource/Johnny_Wilson_(boxer),http://dbpedia.org/resource/Jackie_Wilson_(boxer) http://dbpedia.org/resource/Jackie_Wilson_(Boxer)
+0,80,J. Thompson,http://dbpedia.org/resource/Jocko_Thompson,http://dbpedia.org/resource/Jack_Thompson_(boxer)
+0,84,J. Petersen,http://dbpedia.org/resource/Jim_Petersen,http://dbpedia.org/resource/Jack_Petersen
+0,85,J. Palmer,http://dbpedia.org/resource/Jimmy_Palmer_(footballer),http://dbpedia.org/resource/Jack_Palmer_(boxer)
+0,86,J. McGurn,http://dbpedia.org/resource/David_McGurn,"http://dbpedia.org/resource/Jack_""Machine_Gun""_McGurn"" http://dbpedia.org/resource/Jack_""Machine_Gun""_McGurn http://dbpedia.org/resource/Jack_McGurn"
+0,91,J. Johnson,http://dbpedia.org/resource/Joe_Johnson_(basketball),http://dbpedia.org/resource/Jack_Johnson_(boxer http://dbpedia.org/resource/Jack_Johnson_(boxer) http://dbpedia.org/resource/Black_Jack_Johnson http://dbpedia.org/resource/John_Arthur_Johnson http://dbpedia.org/resource/Arthur_John_Johnson
+0,93,J. Holland,http://dbpedia.org/resource/Joe_Holland_(basketball),http://dbpedia.org/resource/Jack_Holland_(boxer)
+0,94,J. Harrison,"http://dbpedia.org/resource/John_Harrison_(footballer,_born_1927)",http://dbpedia.org/resource/Jack_Harrison_(boxer)
+0,96,J. Gardner,http://dbpedia.org/resource/Jack_Gardner_(basketball),http://dbpedia.org/resource/Jack_Gardner_(fighter) http://dbpedia.org/resource/Jack_Gardner_(boxer)
+0,97,J. Egan,http://dbpedia.org/resource/Jack_Egan_(boxer),http://dbpedia.org/resource/James_(Jack)_Eagan http://dbpedia.org/resource/Jack_Eagan http://dbpedia.org/resource/James_Jack_Eagan http://dbpedia.org/resource/Jack_Egan
+0,98,J. Doyle,http://dbpedia.org/resource/Johnny_Doyle,"http://dbpedia.org/resource/Jack_Doyle http://dbpedia.org/resource/Doyle,_Jack"
+0,101,J. Delaney,http://dbpedia.org/resource/Joe_Delaney,http://dbpedia.org/resource/Jack_Delaney

@@ -1,0 +1,5 @@
+"F1: 0.87500","Precision: 0.87500","Recall: 0.87500"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","3","A. C. Jr.","http://dbpedia.org/resource/Adrián_Campos_Jr.","http://dbpedia.org/resource/Alfonso_Celis,_Jr. http://dbpedia.org/resource/Alfonso_Celis http://dbpedia.org/resource/Alfonso_Celis_Jr."
+"0","7","A. Müller","http://dbpedia.org/resource/Andreas_Müller_(footballer)","http://dbpedia.org/resource/Alex_Müller_(racing_driver) http://dbpedia.org/resource/Alexander_Müller_(racing_driver) http://dbpedia.org/resource/Alex_Muller_(racing_driver)"
+"0","13","A. Paya","http://de.dbpedia.org/resource/Agustín_Payá","http://dbpedia.org/resource/Agustin_Paya"

@@ -1,0 +1,69 @@
+F1: 0.45528,Precision: 0.45528,Recall: 0.45528,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,W. McLoughlin,http://dbpedia.org/resource/Patrick_McLoughlin,http://dbpedia.org/resource/Wayne_McLoughlin
+1,2,M. Whelan,http://dbpedia.org/resource/Jim_Whelan,http://dbpedia.org/resource/Michael_Whelan
+1,3,W. McLoughlin,http://dbpedia.org/resource/Patrick_McLoughlin,http://dbpedia.org/resource/Wayne_McLoughlin
+1,5,H. Garrido,http://dbpedia.org/resource/Aura_Garrido,http://dbpedia.org/resource/Hector_Garrido
+1,6,L. MacLeod,http://dbpedia.org/resource/Alistair_MacLeod,http://dbpedia.org/resource/Lee_MacLeod
+1,8,M. Whelan,http://dbpedia.org/resource/Jim_Whelan,http://dbpedia.org/resource/Michael_Whelan
+1,11,T. Canty,http://dbpedia.org/resource/Kevin_Canty_(author),http://dbpedia.org/resource/Thomas_Canty http://dbpedia.org/resource/Thomas_Canty_(illustrator)
+1,12,J. Wurts,http://dbpedia.org/resource/John_Wurts,http://dbpedia.org/resource/Janny_Wurts
+1,13,L. MacLeod,http://dbpedia.org/resource/Alistair_MacLeod,http://dbpedia.org/resource/Lee_MacLeod
+1,16,C. Geary,http://dbpedia.org/resource/Cynthia_Geary,http://dbpedia.org/resource/Clifford_Geary
+1,17,W. McLoughlin,http://dbpedia.org/resource/Patrick_McLoughlin,http://dbpedia.org/resource/Wayne_McLoughlin
+1,19,C. Nielsen,http://dbpedia.org/resource/Carl_Nielsen,http://dbpedia.org/resource/Cliff_Nielsen
+1,24,R. Sternbach,http://dbpedia.org/resource/Leo_Sternbach,http://dbpedia.org/resource/Rick_Sternbach
+1,25,R. M. Powers,http://dbpedia.org/resource/Ridgley_C._Powers,http://dbpedia.org/resource/R.M._Powers http://dbpedia.org/resource/Dick_Powers http://dbpedia.org/resource/Richard_M._Powers http://dbpedia.org/resource/R._M._Powers http://dbpedia.org/resource/Richard_Powers_(illustrator)
+1,26,J. Berkey,http://dbpedia.org/resource/Jackson_Berkey,http://dbpedia.org/resource/John_Berkey
+1,27,R. M. Powers,http://dbpedia.org/resource/Ridgley_C._Powers,http://dbpedia.org/resource/R.M._Powers http://dbpedia.org/resource/Dick_Powers http://dbpedia.org/resource/Richard_M._Powers http://dbpedia.org/resource/R._M._Powers http://dbpedia.org/resource/Richard_Powers_(illustrator)
+1,29,I. Falconer,http://dbpedia.org/resource/Hugh_Falconer,http://dbpedia.org/resource/Ballets_designed_by_Ian_Falconer http://dbpedia.org/resource/Ian_Falconer
+1,31,T. Canty,http://dbpedia.org/resource/Kevin_Canty_(author),http://dbpedia.org/resource/Thomas_Canty http://dbpedia.org/resource/Thomas_Canty_(illustrator)
+1,34,J. Gaughan,http://dbpedia.org/resource/Dick_Gaughan,http://dbpedia.org/resource/Jack_Ganghan http://dbpedia.org/resource/Jack_Gaughan
+1,35,I. Cohen,http://dbpedia.org/resource/Leonard_Cohen,http://dbpedia.org/resource/Ira_Cohen
+1,37,L. Wood,http://dbpedia.org/resource/Leonard_Wood,http://dbpedia.org/resource/Leslie_Wood_(illustrator)
+1,38,M. Smith,http://dbpedia.org/resource/James_Edward_Smith,http://dbpedia.org/resource/Malcolm_Smith_(artist)
+1,39,M. Smith,http://dbpedia.org/resource/James_Edward_Smith,http://dbpedia.org/resource/Malcolm_Smith_(artist)
+1,40,C. Geary,http://dbpedia.org/resource/Cynthia_Geary,http://dbpedia.org/resource/Clifford_Geary
+1,46,C. Nielsen,http://dbpedia.org/resource/Carl_Nielsen,http://dbpedia.org/resource/Cliff_Nielsen
+1,47,B. Jensen,http://dbpedia.org/resource/Berit_Heggenhougen-Jensen,http://dbpedia.org/resource/Bruce_Jensen
+1,48,C. Nielsen,http://dbpedia.org/resource/Carl_Nielsen,http://dbpedia.org/resource/Cliff_Nielsen
+1,49,C. McGrath,http://dbpedia.org/resource/Douglas_McGrath,http://dbpedia.org/resource/Chris_McGrath_(artist) http://dbpedia.org/resource/Christian_McGrath
+1,50,M. Grant,http://dbpedia.org/resource/Marcel_Grant,http://dbpedia.org/resource/Melvyn_Grant
+1,58,T. Canty,http://dbpedia.org/resource/Kevin_Canty_(author),http://dbpedia.org/resource/Thomas_Canty http://dbpedia.org/resource/Thomas_Canty_(illustrator)
+1,59,Seth,http://dbpedia.org/resource/Seth_MacFarlane,http://dbpedia.org/resource/Vernacular_Drawings http://dbpedia.org/resource/Seth_(cartoonist) http://dbpedia.org/resource/Wimbledon_Green http://dbpedia.org/resource/Gregory_Gallant
+1,60,P. Bacon,http://dbpedia.org/resource/Francis_Bacon_(artist),http://dbpedia.org/resource/Bmcpher:example/Paul_Bacon_(designer) http://dbpedia.org/resource/Paul_Bacon_(designer)
+1,61,J. Wurts,http://dbpedia.org/resource/John_Wurts,http://dbpedia.org/resource/Janny_Wurts
+1,64,D. Elliot,"http://dbpedia.org/resource/Gilbert_Elliot-Murray-Kynynmound,_4th_Earl_of_Minto",http://dbpedia.org/resource/David_Elliot_(illustrator) http://dbpedia.org/resource/David_Elliot_(Illustrator)
+1,65,T. Lockwood,http://dbpedia.org/resource/Margaret_Lockwood,http://dbpedia.org/resource/Todd_Wills_Lockwood http://dbpedia.org/resource/Todd_Lockwood
+1,66,M. Whelan,http://dbpedia.org/resource/Jim_Whelan,http://dbpedia.org/resource/Michael_Whelan
+1,68,C. Cabral,http://dbpedia.org/resource/Amílcar_Cabral,http://dbpedia.org/resource/Ciruelo http://dbpedia.org/resource/Ciruelo_Cabral
+1,69,C. Cabral,http://dbpedia.org/resource/Amílcar_Cabral,http://dbpedia.org/resource/Ciruelo http://dbpedia.org/resource/Ciruelo_Cabral
+1,70,W. Haag,http://dbpedia.org/resource/Walter_Haag,http://dbpedia.org/resource/Wayne_Haag
+1,73,D. B. Mattingly,http://dbpedia.org/resource/Harold_B._Mattingly,http://dbpedia.org/resource/David_Burroughs_Mattingly http://dbpedia.org/resource/David_Mattingly_(illustrator) http://dbpedia.org/resource/David_B._Mattingly
+1,74,W. McLoughlin,http://dbpedia.org/resource/Patrick_McLoughlin,http://dbpedia.org/resource/Wayne_McLoughlin
+1,75,D. Wyatt,http://dbpedia.org/resource/Derek_Wyatt,http://dbpedia.org/resource/David_Wyatt http://dbpedia.org/resource/David_wyatt_(illustrator) http://dbpedia.org/resource/David_Wyatt_(illustrator)
+1,77,S. Hickman,http://dbpedia.org/resource/Sara_Hickman,http://dbpedia.org/resource/Stephen_Hickman
+1,80,P. Bacon,http://dbpedia.org/resource/Francis_Bacon_(artist),http://dbpedia.org/resource/Bmcpher:example/Paul_Bacon_(designer) http://dbpedia.org/resource/Paul_Bacon_(designer)
+1,82,P. Perlman,http://dbpedia.org/resource/Ron_Perlman,http://dbpedia.org/resource/Philip_Perlman http://dbpedia.org/resource/Philip_B._Perlman
+1,87,I. Irvine,http://dbpedia.org/resource/William_Irvine_(Australian_politician),http://dbpedia.org/resource/Ian_Irvine
+1,88,I. Irvine,http://dbpedia.org/resource/William_Irvine_(Australian_politician),http://dbpedia.org/resource/Ian_Irvine
+1,90,A. Barbosa,http://dbpedia.org/resource/Adoniran_Barbosa,http://dbpedia.org/resource/Arthur_Barbosa
+1,94,J. Smith,http://dbpedia.org/resource/James_Edward_Smith,http://dbpedia.org/resource/Jeff_Smith_(cartoonist) http://dbpedia.org/resource/Jeff_Smith_(comics) http://dbpedia.org/resource/Cartoon_Books
+1,95,G. McConnell,http://dbpedia.org/resource/Gladys_McConnell,http://dbpedia.org/resource/Gerald_McConnell
+1,97,B. Shaw,http://dbpedia.org/resource/George_Bernard_Shaw,http://dbpedia.org/resource/Barclay_Shaw
+1,100,E. Eriksson,http://dbpedia.org/resource/Sven-Göran_Eriksson,http://dbpedia.org/resource/Eva_Eriksson_(illustrator)
+1,101,K. Eastman,http://dbpedia.org/resource/George_Eastman_(actor),http://dbpedia.org/resource/Metal_Mammoth http://dbpedia.org/resource/Kevin_Brooks_Eastman http://dbpedia.org/resource/Tundra_(TMNT) http://dbpedia.org/resource/Kevin_Eastman
+1,102,M. Whelan,http://dbpedia.org/resource/Jim_Whelan,http://dbpedia.org/resource/Michael_Whelan
+1,104,W. McLoughlin,http://dbpedia.org/resource/Patrick_McLoughlin,http://dbpedia.org/resource/Wayne_McLoughlin
+1,105,G. Taylor,http://dbpedia.org/resource/George_Taylor_(botanist),http://dbpedia.org/resource/Geoff_Taylor_(illustrator)
+1,107,C. Moore,http://dbpedia.org/resource/C._L._Moore,http://dbpedia.org/resource/Chris_Moore_(illustrator)
+1,108,C. Cabral,http://dbpedia.org/resource/Amílcar_Cabral,http://dbpedia.org/resource/Ciruelo http://dbpedia.org/resource/Ciruelo_Cabral
+1,109,D. Mattingly,http://dbpedia.org/resource/David_Mattingly_(archaeologist),http://dbpedia.org/resource/David_Burroughs_Mattingly http://dbpedia.org/resource/David_Mattingly_(illustrator) http://dbpedia.org/resource/David_B._Mattingly
+1,110,S. Stone,http://dbpedia.org/resource/Sharon_Stone,http://dbpedia.org/resource/Steve_Stone_(artist)
+1,112,M. Whelan,http://dbpedia.org/resource/Jim_Whelan,http://dbpedia.org/resource/Michael_Whelan
+1,113,B. Pennington,http://dbpedia.org/resource/Joan_Pennington,http://dbpedia.org/resource/Bruce_Pennington
+1,114,C. Nielsen,http://dbpedia.org/resource/Carl_Nielsen,http://dbpedia.org/resource/Cliff_Nielsen
+1,115,G. Bergström,http://dbpedia.org/resource/Sune_Bergström,http://dbpedia.org/resource/Gunilla_Bergström http://dbpedia.org/resource/Gunilla_Bergstrom
+1,116,L. Darling,http://dbpedia.org/resource/Alistair_Darling,http://dbpedia.org/resource/Louis_Darling
+1,117,C. Moore,http://dbpedia.org/resource/C._L._Moore,http://dbpedia.org/resource/Chris_Moore_(illustrator)
+1,118,M. Tucker,http://dbpedia.org/resource/Moe_Tucker,http://dbpedia.org/resource/Mark_Tucker_(photographer)

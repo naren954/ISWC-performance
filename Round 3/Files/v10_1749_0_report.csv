@@ -1,0 +1,4 @@
+"F1: 0.80000","Precision: 0.80000","Recall: 0.80000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","5","G. Scott","http://dbpedia.org/resource/George_Scott_(first_baseman)","http://dbpedia.org/resource/Gene_Scott_(tennis) http://dbpedia.org/resource/Eugene_Lytton_Scott http://dbpedia.org/resource/Eugene_Scott_(tennis) http://dbpedia.org/resource/Eugene_L._Scott"
+"0","6","F. Rivera","http://dbpedia.org/resource/Francisco_Rivera_(fighter)","http://dbpedia.org/resource/Felipe_Rivera"

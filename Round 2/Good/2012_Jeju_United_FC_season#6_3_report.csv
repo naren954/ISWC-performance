@@ -1,0 +1,4 @@
+F1: 0.81818,Precision: 0.81818,Recall: 0.81818,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,7,Jung Kyung-ho,http://dbpedia.org/resource/Chung_Kyung-ho,"http://dbpedia.org/resource/Jung_Kyung-ho_(footballer_born_1987) http://dbpedia.org/resource/Jung_Kyung-ho_(footballer,_born_1987)"
+3,8,Hong Jung-Ho,http://dbpedia.org/resource/Lee_Ho-jung,http://dbpedia.org/resource/Jeong-Ho_Hong http://dbpedia.org/resource/Hong_Jung-Ho http://dbpedia.org/resource/Hong_Jeong-Ho_(footballer) http://dbpedia.org/resource/Hong_Jeong-Ho http://dbpedia.org/resource/Hong_Jeong-ho http://dbpedia.org/resource/Hong_Jeongho

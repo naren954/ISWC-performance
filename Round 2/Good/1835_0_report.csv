@@ -1,0 +1,5 @@
+F1: 0.92857,Precision: 0.92857,Recall: 0.92857,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,T. Wilson,http://dbpedia.org/resource/Trevor_Wilson_(basketball),http://dbpedia.org/resource/Thomas_Wilson_(ice_hockey) http://dbpedia.org/resource/Tom_Wilson_(ice_hockey)
+0,4,T. Pyatt,http://dbpedia.org/resource/Taylor_Pyatt,http://dbpedia.org/resource/Tom_Pyatt
+0,18,T. Slovák,http://dbpedia.org/resource/Samuel_Slovák,http://dbpedia.org/resource/Tomas_Slovak http://dbpedia.org/resource/Tomáš_Slovak http://dbpedia.org/resource/Tomáš_Slovák

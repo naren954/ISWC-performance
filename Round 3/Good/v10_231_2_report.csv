@@ -1,0 +1,6 @@
+F1: 0.78947,Precision: 0.78947,Recall: 0.78947,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,3,Scuderia Ferrari,http://dbpedia.org/resource/Ferrari,http://dbpedia.org/resource/Ferrari_(F1) http://dbpedia.org/resource/Ferrari_2008 http://dbpedia.org/resource/Scuderia_Ferrari_Marlboro http://dbpedia.org/resource/Ferrari_F1 http://dbpedia.org/resource/SEFAC http://dbpedia.org/resource/Scuderia_Ferrari http://dbpedia.org/resource/Ferrari_Grand_Prix
+2,10,Trulli GP,http://dbpedia.org/resource/Brawn_GP,http://dbpedia.org/resource/Trulli_GP http://dbpedia.org/resource/Trulli_Formula_E_Team
+2,13,Fortec Motorsport,http://dbpedia.org/resource/Konrad_Motorsport,http://dbpedia.org/resource/Fortec_Motorsports http://dbpedia.org/resource/Fortec_Motorsport http://dbpedia.org/resource/Fortec_Competition
+2,16,Belardi Auto Racing,http://dbpedia.org/resource/Hexis_Racing,http://dbpedia.org/resource/Belardi_Auto_Racing

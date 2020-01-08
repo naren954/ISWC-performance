@@ -1,0 +1,7 @@
+"F1: 0.16667","Precision: 0.16667","Recall: 0.16667"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"2","4","Wagner","http://dbpedia.org/resource/Wagner_College","http://dbpedia.org/resource/2011_Wagner_Seahawks_football_team"
+"2","6","Stonehill*","http://dbpedia.org/resource/Stonehill_College","http://dbpedia.org/resource/Stonehill_Skyhawks http://dbpedia.org/resource/Stonehill_Skyhawks_baseball http://dbpedia.org/resource/Stonehill_Skyhawks_football http://dbpedia.org/resource/Stonehill_Skyhawks_women's_lacrosse"
+"2","7","Monmouth","http://dbpedia.org/resource/Monmouth_College","http://dbpedia.org/resource/2011_Monmouth_Hawks_football_team"
+"2","10","Saint Francis (PA)","http://dbpedia.org/resource/Saint-François_River","http://dbpedia.org/resource/2011_Saint_Francis_Red_Flash_football_team"
+"2","11","Central Connecticut","http://dbpedia.org/resource/Connecticut_River","http://dbpedia.org/resource/2011_Central_Connecticut_Blue_Devils_football_team http://dbpedia.org/resource/2011_Central_Connecticut_State_Blue_Devils_football_team"

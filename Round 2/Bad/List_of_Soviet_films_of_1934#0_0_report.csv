@@ -1,0 +1,4 @@
+F1: 0.50000,Precision: 0.50000,Recall: 0.50000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,Chapaev,http://dbpedia.org/resource/Vasily_Chapayev,http://dbpedia.org/resource/Chapaev_(film) http://dbpedia.org/resource/Chapayev_(film)
+0,5,Marionettes,,http://dbpedia.org/resource/Marionetki_(1934_film) http://dbpedia.org/resource/Marionettes_(film)

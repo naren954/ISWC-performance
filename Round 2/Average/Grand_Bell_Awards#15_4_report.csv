@@ -1,0 +1,8 @@
+F1: 0.60000,Precision: 0.60000,Recall: 0.60000,,
+Col,Row,Value,Submitted URI,Correct URI's
+4,6,Road Movie,"http://dbpedia.org/resource/Road,_Movie",http://dbpedia.org/resource/Road_Movie_(film)
+4,7,Oldboy,http://dbpedia.org/resource/Oldboy_(2013_film),http://dbpedia.org/resource/Oldeuboi http://dbpedia.org/resource/Oldboy_(2003_film http://dbpedia.org/resource/올드보이 http://dbpedia.org/resource/Lee_Woo-jin http://dbpedia.org/resource/Oldboy_(2003_film) http://dbpedia.org/resource/Oh_Dae-Su http://dbpedia.org/resource/Old_Boy_(film)
+4,8,Marathon,http://dbpedia.org/resource/Marathon_(Santana_album),"http://dbpedia.org/resource/Marathon_(2005_Film) http://dbpedia.org/resource/Marathon,_a_Korean_movie http://dbpedia.org/resource/Marathon_(2005_film)"
+4,14,Late Autumn,http://dbpedia.org/resource/Late_Autumn_(1960_film),http://dbpedia.org/resource/Late_Autumn_(2010_film)
+4,15,Masquerade,http://dbpedia.org/resource/Masquerade_(1988_film),http://dbpedia.org/resource/Gwanghae_(film) http://dbpedia.org/resource/I_Am_King_Of_Joseon http://dbpedia.org/resource/Masquerade_(2012_film) http://dbpedia.org/resource/I_Am_King_of_Joseon http://dbpedia.org/resource/Gwanghae
+4,16,New World,http://dbpedia.org/resource/New_World_(Do_As_Infinity_album),http://dbpedia.org/resource/New_World_(2013_film)

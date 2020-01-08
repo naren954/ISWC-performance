@@ -1,0 +1,40 @@
+F1: 0.32143,Precision: 0.32143,Recall: 0.32143,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,A. Bleasdale,http://dbpedia.org/resource/Victor_Bleasdale,http://dbpedia.org/resource/Alan_Bleasdale
+1,3,A. Baron,http://dbpedia.org/resource/Ana_Baron,http://dbpedia.org/resource/Alexander_Baron
+1,4,V. Walsh,http://dbpedia.org/resource/Thommie_Walsh,http://dbpedia.org/resource/Vivian_Walsh_(author)
+1,6,D. Papadopoulou,http://dbpedia.org/resource/Antigoni_Papadopoulou,http://dbpedia.org/resource/Dimitra_Papadopoulou
+1,7,W. Williams,http://dbpedia.org/resource/William_Carlos_Williams,http://dbpedia.org/resource/Walter_Williams_(comedian_filmmaker)
+1,8,J. Gillan,http://dbpedia.org/resource/Kim_Gillan,http://dbpedia.org/resource/James_Gillan_(actor)
+1,10,W. Grigsby,http://dbpedia.org/resource/Sarah_Lincoln_Grigsby,http://dbpedia.org/resource/Wayne_Grigsby
+1,11,J. Erman,http://dbpedia.org/resource/Adolf_Erman,http://dbpedia.org/resource/John_Erman
+1,12,D. Peckinpah,http://dbpedia.org/resource/Sam_Peckinpah,http://dbpedia.org/resource/David_Peckinpah
+1,13,R. Carlson,http://dbpedia.org/resource/Richard_Carlson_(author),http://dbpedia.org/resource/Richard_Carlson_(actor)
+1,14,T. Jones,http://dbpedia.org/resource/Thomas_Jones_(artist),http://dbpedia.org/resource/Tobey_Jones http://dbpedia.org/resource/Toby_Edward_Heslewood_Jones http://dbpedia.org/resource/Toby_Jones
+1,15,D. Manson,http://dbpedia.org/resource/Patrick_Manson,http://dbpedia.org/resource/David_Manson_(producer) http://dbpedia.org/resource/David_Manson_(TV/Film_Producer)
+1,17,J. Sinclair,http://dbpedia.org/resource/Jackie_Sinclair,http://dbpedia.org/resource/Joshua_Sinclair
+1,20,J. Sangster,http://dbpedia.org/resource/Jack_Sangster,http://dbpedia.org/resource/Jimmy_Henry_Kinmel_Sangster http://dbpedia.org/resource/Jimmy_Sangster http://dbpedia.org/resource/James_Henry_Sangster http://dbpedia.org/resource/James_Kinmel_Sangster http://dbpedia.org/resource/James_Henry_Kinmel_Sangster
+1,21,N. Hussain,http://dbpedia.org/resource/Hasib_Hussain,http://dbpedia.org/resource/Nasir_Hussain http://dbpedia.org/resource/Nasir_Husain http://dbpedia.org/resource/Nasir_Hussain_(actor)
+1,22,W. Wild,http://dbpedia.org/resource/Peter_Wild,http://dbpedia.org/resource/Wellesley_Wild
+1,24,J. Korris,http://dbpedia.org/resource/Harry_Korris,http://dbpedia.org/resource/James_Korris
+1,25,M. Hargrove,http://dbpedia.org/resource/Frank_Hargrove,http://dbpedia.org/resource/Marion_Hargrove
+1,28,P. Mendelson,http://dbpedia.org/resource/Phil_Mendelson,http://dbpedia.org/resource/Paul_Mendelson
+1,29,S. Mumtaz,http://dbpedia.org/resource/Salman_Mumtaz,http://dbpedia.org/resource/Saba_Mumtaz
+1,30,W. N. Robson,"http://dbpedia.org/resource/William_Robson,_Baron_Robson",http://dbpedia.org/resource/William_N._Robson
+1,32,N. Murphy,"http://dbpedia.org/resource/Nick_Murphy_(footballer,_born_1966)",http://dbpedia.org/resource/Nick_Murphy_(director)
+1,34,A. Camilleri,http://dbpedia.org/resource/Andrea_Camilleri,http://dbpedia.org/resource/Anya_Camilleri
+1,35,D. Susskind,http://dbpedia.org/resource/Steve_Susskind,http://dbpedia.org/resource/David_Susskind http://dbpedia.org/resource/David_Suskind
+1,36,R. Levinson,http://dbpedia.org/resource/Norman_Levinson,http://dbpedia.org/resource/Richard_Levinson
+1,37,D. English,http://dbpedia.org/resource/Kim_English,http://dbpedia.org/resource/First_Man_(2014_film) http://dbpedia.org/resource/The_First_Man_(2014_film) http://dbpedia.org/resource/Diane_English
+1,40,T. Cahill,http://dbpedia.org/resource/James_Cahill_(art_historian),http://dbpedia.org/resource/Tim_Cahill_(producer)
+1,42,A. Gupta,http://dbpedia.org/resource/Sanjay_Gupta,http://dbpedia.org/resource/Anil_gupta http://dbpedia.org/resource/Anil_Gupta
+1,43,D. English,http://dbpedia.org/resource/Kim_English,http://dbpedia.org/resource/First_Man_(2014_film) http://dbpedia.org/resource/The_First_Man_(2014_film) http://dbpedia.org/resource/Diane_English
+1,44,A. Mann,http://dbpedia.org/resource/Anthony_Mann,http://dbpedia.org/resource/Abby_Mann
+1,45,S. Harrigan,http://dbpedia.org/resource/Nedda_Harrigan,http://dbpedia.org/resource/Stephen_Harrigan
+1,46,M. O'Hara,http://dbpedia.org/resource/Maureen_O'Hara,http://dbpedia.org/resource/Michael_O'Hara_(writer)
+1,48,J. McGreevey,http://dbpedia.org/resource/Jim_McGreevey,http://dbpedia.org/resource/John_McGreevey
+1,49,W. Ferguson,http://dbpedia.org/resource/William_Ferguson_(Australian_Aboriginal_leader),http://dbpedia.org/resource/Wesley_Ferguson
+1,50,D. Erickson,http://dbpedia.org/resource/Leif_Erickson_(actor),http://dbpedia.org/resource/Dave_Erickson http://dbpedia.org/resource/David_Erickson
+1,52,S. Slovo,http://dbpedia.org/resource/Joe_Slovo,http://dbpedia.org/resource/Shawn_Slovo
+1,54,P. Noah,http://dbpedia.org/resource/Patrick_Leahy,http://dbpedia.org/resource/Peter_Noah
+1,56,J. Carson,http://dbpedia.org/resource/Julia_Carson,"http://dbpedia.org/resource/Johny_carson http://dbpedia.org/resource/Johnny_carson http://dbpedia.org/resource/Earn_Your_Vacation http://dbpedia.org/resource/Jonny_Carson http://dbpedia.org/resource/King_of_Late_Night http://dbpedia.org/resource/Joanne_Carson http://dbpedia.org/resource/John_William_“Johnny”_Carson http://dbpedia.org/resource/John_William_Carson http://dbpedia.org/resource/The_Squirrel's_Nest http://dbpedia.org/resource/Johnny_Carson http://dbpedia.org/resource/John_William_""Johnny""_Carson"

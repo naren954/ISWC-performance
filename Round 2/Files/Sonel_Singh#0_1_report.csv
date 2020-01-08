@@ -1,0 +1,4 @@
+"F1: 0.33333","Precision: 0.33333","Recall: 0.33333"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","1","Challo Driver","http://dbpedia.org/resource/Samuel_Rolles_Driver","http://dbpedia.org/resource/Challo_driver http://dbpedia.org/resource/Challo_Driver"
+"1","4","Everest","http://dbpedia.org/resource/Everest_(2015_film)","http://dbpedia.org/resource/Everest_(TV_series) http://dbpedia.org/resource/Everest_(Indian_TV_series) http://dbpedia.org/resource/Everest_(TV_series)(version_2)"

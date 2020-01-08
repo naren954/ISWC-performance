@@ -1,0 +1,10 @@
+F1: 0.11111,Precision: 0.11111,Recall: 0.11111,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Bainbridge,"http://dbpedia.org/resource/Bainbridge_Island,_Washington",http://dbpedia.org/resource/Bainbridge-class_destroyer http://dbpedia.org/resource/Bainbridge_class_destroyer
+0,3,Smith,http://dbpedia.org/resource/Smith_College,http://dbpedia.org/resource/Smith-class_destroyer http://dbpedia.org/resource/Smith_class_destroyer
+0,4,Paulding,"http://dbpedia.org/resource/Paulding_County,_Ohio",http://dbpedia.org/resource/Roe_class_destroyer http://dbpedia.org/resource/Monaghan_class http://dbpedia.org/resource/Roe_class http://dbpedia.org/resource/Monaghan_class_destroyer http://dbpedia.org/resource/Paulding_class http://dbpedia.org/resource/Paulding-class_destroyer http://dbpedia.org/resource/Paulding_class_destroyer
+0,5,Cassin,http://dbpedia.org/resource/René_Cassin,http://dbpedia.org/resource/Cassin_class_destroyer http://dbpedia.org/resource/Cassin-class_destroyer
+0,6,Aylwin,http://dbpedia.org/resource/Aylwin_(film),http://dbpedia.org/resource/Aylwin-class_destroyer http://dbpedia.org/resource/Aylwin_class_destroyer
+0,7,O'Brien,"http://dbpedia.org/resource/O'Brien_County,_Iowa",http://dbpedia.org/resource/O'Brien_class_destroyer
+0,8,Tucker,"http://dbpedia.org/resource/Tucker_County,_West_Virginia",http://dbpedia.org/resource/Tucker_class_destroyer http://dbpedia.org/resource/Tucker-class_destroyer
+0,9,Sampson,http://dbpedia.org/resource/Ralph_Sampson,http://dbpedia.org/resource/Sampson_class_destroyer http://dbpedia.org/resource/Sampson-class_destroyer

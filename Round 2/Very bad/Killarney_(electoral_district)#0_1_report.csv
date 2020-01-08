@@ -1,0 +1,9 @@
+F1: 0.22222,Precision: 0.22222,Recall: 0.22222,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,2,George Lawrence,http://dbpedia.org/resource/Lawrence_Durrell,http://dbpedia.org/resource/George_Lawrence_(politician)
+1,3,Samuel Hayden,http://dbpedia.org/resource/Ashley_Walden,http://dbpedia.org/resource/Samuel_M._Hayden http://dbpedia.org/resource/Samuel_Hayden
+1,4,Samuel Fletcher,"http://dbpedia.org/resource/Sir_John_Fletcher,_1st_Baronet",http://dbpedia.org/resource/Samuel_Fletcher
+1,5,Andrew E. Foster,http://dbpedia.org/resource/David_Foster,http://dbpedia.org/resource/Andrew_Foster_(politician) http://dbpedia.org/resource/Andrew_E._Foster
+1,6,John Laughlin,http://dbpedia.org/resource/Jon_McLaughlin,http://dbpedia.org/resource/John_Laughlin http://dbpedia.org/resource/John_Bell_Laughlin
+1,7,Andrew E. Foster,http://dbpedia.org/resource/David_Foster,http://dbpedia.org/resource/Andrew_Foster_(politician) http://dbpedia.org/resource/Andrew_E._Foster
+1,8,John Laughlin,http://dbpedia.org/resource/Jon_McLaughlin,http://dbpedia.org/resource/John_Laughlin http://dbpedia.org/resource/John_Bell_Laughlin

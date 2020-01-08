@@ -1,0 +1,7 @@
+F1: 0.82759,Precision: 0.82759,Recall: 0.82759,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,4,Calling You,http://dbpedia.org/resource/Calling_You_(Blue_October_song),http://dbpedia.org/resource/Calling_You_(Hank_Williams_song)
+0,8,Brother,http://dbpedia.org/resource/1984_(For_the_Love_of_Big_Brother),http://dbpedia.org/resource/Brother_(Pearl_Jam_song) http://dbpedia.org/resource/Brother_(pearl_jam_song)
+0,11,Born,http://dbpedia.org/resource/New_Born,http://dbpedia.org/resource/Born_(song)
+0,17,Blackbird,http://dbpedia.org/resource/Blackbird_(Alter_Bridge_song),http://dbpedia.org/resource/Blackbird_(beatles_song) http://dbpedia.org/resource/Blackbird_(Beatles_song) http://dbpedia.org/resource/Blackbird_(The_Beatles_song) http://dbpedia.org/resource/Blackbird_beatles
+0,23,Because,http://dbpedia.org/resource/Because_(The_Dave_Clark_Five_song),http://dbpedia.org/resource/Because_(Beatles_song) http://dbpedia.org/resource/Because_(The_Beatles_song)

@@ -1,0 +1,16 @@
+F1: 0.75439,Precision: 0.75439,Recall: 0.75439,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Á. Blanco,http://dbpedia.org/resource/Serge_Blanco,http://dbpedia.org/resource/Ángel_Blanco http://dbpedia.org/resource/José_Ángel_Vargas_Sánchez http://dbpedia.org/resource/Angel_Blanco
+0,2,Á. Azteca,http://dbpedia.org/resource/TV_Azteca,http://dbpedia.org/resource/Charro_de_Jalisco http://dbpedia.org/resource/El_Ángel_Azteca http://dbpedia.org/resource/Angel_Azteca http://dbpedia.org/resource/Ángel_Azteca http://dbpedia.org/resource/Juan_Manuel_Zúñiga http://dbpedia.org/resource/El_Angel_Azteca
+0,3,Y. Eric,http://dbpedia.org/resource/Batman:_Mask_of_the_Phantasm,http://dbpedia.org/resource/Yukon_Eric http://dbpedia.org/resource/Eric_Holmback
+0,9,V. S. John,http://dbpedia.org/resource/John_Lindsay,http://dbpedia.org/resource/Vivian_St._John
+0,14,T. Parisi,http://dbpedia.org/resource/Giovanni_Parisi,http://dbpedia.org/resource/Antonio_Pugliese http://dbpedia.org/resource/Tony_Parisi_(wrestler)
+0,16,T. Borne,http://dbpedia.org/resource/Holger_Börner,http://dbpedia.org/resource/Tony_Osborne http://dbpedia.org/resource/Tough_Tony_Borne http://dbpedia.org/resource/Tony_Borne
+0,18,T. Roberts,http://dbpedia.org/resource/Tom_Roberts,http://dbpedia.org/resource/Tim_Roberts http://dbpedia.org/resource/Tim_Arson http://dbpedia.org/resource/Tim_Roberts_(wrestler) http://dbpedia.org/resource/The_Zombie_(wrestler)
+0,22,T. F. Angel,http://dbpedia.org/resource/Fernand_Angel,http://dbpedia.org/resource/Maurice_Tillet http://dbpedia.org/resource/French_Angel http://dbpedia.org/resource/The_French_Angel
+0,26,T. Tyler,http://dbpedia.org/resource/Tom_Tyler,http://dbpedia.org/resource/Tarzan_Tourville http://dbpedia.org/resource/Camille_Tourville http://dbpedia.org/resource/Tarzan_Tyler
+0,28,S. Bradley,http://dbpedia.org/resource/Shawn_Bradley,http://dbpedia.org/resource/Steve_Bradley
+0,33,S. Osborne,http://dbpedia.org/resource/John_Osborne,http://dbpedia.org/resource/Shawn_Osborne http://dbpedia.org/resource/Shawn_Osbourne http://dbpedia.org/resource/Shawn_McGrath
+0,36,S. Jones,http://dbpedia.org/resource/David_Bowie,"http://dbpedia.org/resource/S.D._Jones http://dbpedia.org/resource/Conrad_Efraim http://dbpedia.org/resource/SD_Jones http://dbpedia.org/resource/S.D._""Special_Delivery""_Jones http://dbpedia.org/resource/S._D._Jones http://dbpedia.org/resource/Special_Delivery_Jones"
+0,43,R. Romero,http://dbpedia.org/resource/Ramón_Romero,http://dbpedia.org/resource/Rito_Romero http://dbpedia.org/resource/Rito_Romero_Loza
+0,47,R. Flair,http://dbpedia.org/resource/Ric_Flair,http://dbpedia.org/resource/Reid_Fliehr http://dbpedia.org/resource/Reid_Flair

@@ -1,0 +1,7 @@
+F1: 0.96503,Precision: 0.96503,Recall: 0.96503,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Rodborough Common,"http://dbpedia.org/resource/Rodborough_Common,_Gloucestershire",http://dbpedia.org/resource/Rodborough_Common
+0,5,River Line,http://dbpedia.org/resource/Virginia,http://dbpedia.org/resource/River_Line_(site) http://dbpedia.org/resource/River_Line_(East_Sussex)
+0,52,North Curry Meadow,http://dbpedia.org/resource/L'Anse_aux_Meadows,http://dbpedia.org/resource/North_Curry_Meadow
+0,53,North Brewham Meadows,http://dbpedia.org/resource/L'Anse_aux_Meadows,http://dbpedia.org/resource/North_Brewham_Meadows
+0,63,Minsmere-Walberswick Heaths and Marshes,http://dbpedia.org/resource/Minsmere–Walberswick_Heaths_and_Marshes,http://dbpedia.org/resource/Minsmere-Walberswick_Heaths_and_Marshes http://dbpedia.org/resource/Minsmere-Walberswick

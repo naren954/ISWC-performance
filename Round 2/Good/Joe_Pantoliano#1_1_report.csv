@@ -1,0 +1,11 @@
+F1: 0.76316,Precision: 0.76316,Recall: 0.76316,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,3,From Here to Eternity,http://dbpedia.org/resource/From_Here_to_Eternity,http://dbpedia.org/resource/From_Here_to_Eternity_(TV_series)
+1,9,Mister Roberts,http://dbpedia.org/resource/Mister_Roberts_(TV_series),http://dbpedia.org/resource/Mister_Roberts_(1984_film)
+1,13,Robert Kennedy & His Times,http://dbpedia.org/resource/Robert_Kennedy_and_His_Times,http://dbpedia.org/resource/Robert_Kennedy_&_His_Times
+1,27,Beethoven,http://dbpedia.org/resource/Beethoven_(film),http://dbpedia.org/resource/Beethoven_(TV_series)
+1,36,Hercules,http://dbpedia.org/resource/Hercules:_The_Legendary_Journeys,http://dbpedia.org/resource/Hercules_(animated_series) http://dbpedia.org/resource/Hercules_(1998_TV_series) http://dbpedia.org/resource/Disney's_Hercules http://dbpedia.org/resource/Hercules:_The_Animated_Series
+1,38,Sugar Hill,http://dbpedia.org/resource/Sugar_Hill_(1994_film),http://dbpedia.org/resource/Battery_Park_(TV_series) http://dbpedia.org/resource/Sugar_Hill_(TV_pilot) http://dbpedia.org/resource/Sugar_Hill_(1999) http://dbpedia.org/resource/Pilot_(Sugar_Hill)
+1,39,The Outer Limits,http://dbpedia.org/resource/The_Outer_Limits_(1963_TV_series),http://dbpedia.org/resource/The_Outer_Limits_(1995_TV_series) http://dbpedia.org/resource/The_Outer_Limits_(1995)
+1,42,The Handler,http://dbpedia.org/resource/A_Series_of_Unfortunate_Events,http://dbpedia.org/resource/The_Handler_(TV_series)
+1,46,Waterfront,http://dbpedia.org/resource/Waterfront_(1944_film),http://dbpedia.org/resource/Waterfront_(TV_series) http://dbpedia.org/resource/Waterfront_(TV_pilot)

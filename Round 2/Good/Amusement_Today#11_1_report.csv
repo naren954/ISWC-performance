@@ -1,0 +1,5 @@
+F1: 0.81250,Precision: 0.81250,Recall: 0.81250,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,4,Phoenix,http://dbpedia.org/resource/Phoenix_Sky_Harbor_International_Airport,http://dbpedia.org/resource/Phoenix_(roller_coaster)
+1,8,The Beast,http://dbpedia.org/resource/Beast_(South_African_band),http://dbpedia.org/resource/The_Beast_(Kings_Island) http://dbpedia.org/resource/The_Beast_(roller_coaster) http://dbpedia.org/resource/Beast_(Paramount's_Kings_Island) http://dbpedia.org/resource/The_Beast_(Paramount's_Kings_Island) http://dbpedia.org/resource/The_beast_(roller_coaster) http://dbpedia.org/resource/Beast_(Kings_Island)
+1,9,The Raven,"http://dbpedia.org/resource/Raven,_Virginia",http://dbpedia.org/resource/The_Raven_(roller_coaster)

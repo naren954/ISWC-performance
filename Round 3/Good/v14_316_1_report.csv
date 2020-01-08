@@ -1,0 +1,16 @@
+F1: 0.90345,Precision: 0.90345,Recall: 0.90345,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,22,John Mitchel's Hurling Club,http://dbpedia.org/resource/John_Mitchels_GAA_(Kerry),http://dbpedia.org/resource/John_Mitchel's_Hurling_Club
+1,23,Ballyduff GAA,http://dbpedia.org/resource/Ballyduff_Upper_GAA,http://dbpedia.org/resource/Ballyduff_GAA_Club http://dbpedia.org/resource/Ballyduff_GAA_(Kerry)
+1,38,C.L.G. Naomh Adhamhnáin,http://dbpedia.org/resource/Athenry_GAA,"http://dbpedia.org/resource/Naomh_Adhamhnáin_CLG http://dbpedia.org/resource/Naomh_Adhamhnain_GAC http://dbpedia.org/resource/St._Eunan's_(GAA_Club) http://dbpedia.org/resource/C.L.G._Naomh_Adhamhnáin http://dbpedia.org/resource/C.L.G._Naomh_Adhamhnain http://dbpedia.org/resource/Naomh_Adhamhnáin_GAC http://dbpedia.org/resource/Naomh_Adhamhnáin_C.L.G. http://dbpedia.org/resource/Naomh_Adhamhnain_CLG http://dbpedia.org/resource/St._Eunan's_GAA http://dbpedia.org/resource/St.Eunan's,_Letterkenny_GAA http://dbpedia.org/resource/Naomh_Adhamhnain http://dbpedia.org/resource/Naomh_Adhamhnain_C.L.G. http://dbpedia.org/resource/St_Eunan's_GAA"
+1,41,Glenullin GAC,http://dbpedia.org/resource/Corofin_GAC,http://dbpedia.org/resource/Glenullin_GAC
+1,48,St Marys,http://dbpedia.org/resource/Saint_Mary's_College_of_California,"http://dbpedia.org/resource/St_Marys_(Saggart)_GAA http://dbpedia.org/resource/St_Marys,_Saggart http://dbpedia.org/resource/St_Marys_(Saggart)"
+1,55,St. Dominics,http://dbpedia.org/resource/St._Dominics_GAA,http://dbpedia.org/resource/St._Dominics_(Naomh_Dominic)_GAA http://dbpedia.org/resource/St._Dominics_(Naomh_Dominic)_Football
+1,60,Erin's Own GAA,http://dbpedia.org/resource/Erin's_Own_GAA_(Cork),http://dbpedia.org/resource/Erin's_Own_GAA_(Waterford)
+1,79,Ruari Og GAC,http://dbpedia.org/resource/J.K._Bracken's_GAC,http://dbpedia.org/resource/Ruairi_Og_CLG http://dbpedia.org/resource/Ruari_Og http://dbpedia.org/resource/Ruairí_Óg_GAC http://dbpedia.org/resource/Ruairí_Óg's_GAA http://dbpedia.org/resource/Ruairí_Óg_GAA http://dbpedia.org/resource/Ruairi_Og_GAC http://dbpedia.org/resource/Ruari_Og_GAA http://dbpedia.org/resource/Ruari_Og_GAA_Club http://dbpedia.org/resource/Ruari_Og_GAC
+1,86,Dunmore McHales,http://dbpedia.org/resource/Dunmore_MacHales,http://dbpedia.org/resource/Dunmore_McHales
+1,99,St. Brigids,http://dbpedia.org/resource/Saint_Brigid's_GAA,http://dbpedia.org/resource/St._Brigids_(Roscommon) http://dbpedia.org/resource/St._Brigids_(Roscommon)_GAA
+1,104,Carrickmore St. Colmcille's GFC,http://dbpedia.org/resource/St._Colmcille's_(Balheary),http://dbpedia.org/resource/Carrickmore_St._Colmcille's_GAC http://dbpedia.org/resource/Carrickmore_GFC http://dbpedia.org/resource/Carrickmore_St._Colmcille's_GFC http://dbpedia.org/resource/Carrickmore_St._Colmcille's
+1,124,Éire Óg GAA,http://dbpedia.org/resource/Raheens_GAA,http://dbpedia.org/resource/Éire_Óg_GAA_(Cork) http://dbpedia.org/resource/Eire_Óg_GAA_(Cork) http://dbpedia.org/resource/Eire_Og_GAA_(Cork)
+1,137,Killeshandra,http://dbpedia.org/resource/Killeshandra_GFC,http://dbpedia.org/resource/Killeshandra
+1,138,St. Mary's GAA,http://dbpedia.org/resource/St_Mary's_Clonmel,http://dbpedia.org/resource/St._Mary's_GAA_(Louth)

@@ -1,0 +1,10 @@
+F1: 0.61905,Precision: 0.61905,Recall: 0.61905,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,2,The Cheat,http://dbpedia.org/resource/Cheaters,http://dbpedia.org/resource/The_Cheat_(1923_film)
+1,3,Hollywood,http://dbpedia.org/resource/Hollywood_(Madonna_song),http://dbpedia.org/resource/Hollywood_(1923_film)
+1,6,Men,http://dbpedia.org/resource/X-Men_Origins:_Wolverine,http://dbpedia.org/resource/Men_(1924_film)
+1,9,East of Suez,http://dbpedia.org/resource/East_of_Suez_(film),http://dbpedia.org/resource/East_of_Suez_(1925_film)
+1,10,The Charmer,http://dbpedia.org/resource/The_Charmer_(1931_film),http://dbpedia.org/resource/The_Charmer_(1925_film)
+1,14,Good and Naughty,http://dbpedia.org/resource/Good_and_Naughty,http://dbpedia.org/resource/Good_and_Naughty_(film)
+1,16,Barbed Wire,http://dbpedia.org/resource/Barbed_Wire_(1952_film),http://dbpedia.org/resource/Barbed_Wire_(1927_film)
+1,18,The Secret Hour,http://dbpedia.org/resource/13_Hours:_The_Secret_Soldiers_of_Benghazi,http://dbpedia.org/resource/The_Secret_Hour_(1928_film) http://dbpedia.org/resource/The_Secret_Hour_(film)

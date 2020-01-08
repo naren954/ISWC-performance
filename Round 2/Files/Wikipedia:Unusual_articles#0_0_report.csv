@@ -1,0 +1,8 @@
+"F1: 0.25000","Precision: 0.25000","Recall: 0.25000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","0","Folly","nan","http://dbpedia.org/resource/Architectural_folly http://dbpedia.org/resource/Folly_(architecture) http://dbpedia.org/resource/Folly"
+"0","1","Gravity hill","http://dbpedia.org/resource/List_of_gravity_hills","http://dbpedia.org/resource/Gravity_road http://dbpedia.org/resource/Magnetic_hill http://dbpedia.org/resource/Gravity_Hill http://dbpedia.org/resource/Magnetic_Hill http://dbpedia.org/resource/Gravity_hill http://dbpedia.org/resource/Mystery_hill http://dbpedia.org/resource/Magic_hill http://dbpedia.org/resource/Spook_mountain"
+"0","3","List of fictional island nations","http://dbpedia.org/resource/List_of_fictional_island_countries","http://dbpedia.org/resource/Fictional_island_nations http://dbpedia.org/resource/List_of_fictional_island_nations"
+"0","5","Pizza farm","nan","http://dbpedia.org/resource/""R""_Pizza_Farm http://dbpedia.org/resource/Cobb_Ranch_Pizza_Farm http://dbpedia.org/resource/Pizza_farm http://dbpedia.org/resource/Pizza_Farm http://dbpedia.org/resource/Pizza_garden"
+"0","6","Spite house","http://dbpedia.org/resource/Spite_House_(Rockport,_Maine)","http://dbpedia.org/resource/Spite_House http://dbpedia.org/resource/Spite_house"
+"0","7","Nail house","nan","http://dbpedia.org/resource/Nail_house http://dbpedia.org/resource/Holdout_(architecture) http://dbpedia.org/resource/Holdout_(real_estate)"

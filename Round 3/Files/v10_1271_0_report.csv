@@ -1,0 +1,6 @@
+"F1: 0.86207","Precision: 0.86207","Recall: 0.86207"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","7","Crédit Agricole Srbija","http://dbpedia.org/resource/Crédit_Agricole","http://dbpedia.org/resource/Crédit_Agricole_Srbija http://dbpedia.org/resource/Credit_Agricole_Srbija"
+"0","12","Country Energy","http://dbpedia.org/resource/Essential_Energy","http://dbpedia.org/resource/Country_Energy http://dbpedia.org/resource/CountryEnergy"
+"0","15","Cortefiel","http://dbpedia.org/resource/Tendam","http://dbpedia.org/resource/Cortefiel"
+"0","28","Coop","http://dbpedia.org/resource/Coop_Norden","http://dbpedia.org/resource/Coop_Italia http://dbpedia.org/resource/Coop_(Italy)"

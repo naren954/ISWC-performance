@@ -1,0 +1,4 @@
+F1: 0.83333,Precision: 0.83333,Recall: 0.83333,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,2,D. Wilson,http://dbpedia.org/resource/Tracy_Wilson,http://dbpedia.org/resource/David_Wilson_(figure_skating) http://dbpedia.org/resource/David_Wilson_(figure_skater)
+3,3,L. Nichol,http://dbpedia.org/resource/Ralph_Nichols,http://dbpedia.org/resource/Lori_Nicol http://dbpedia.org/resource/Lori_Nichol

@@ -1,0 +1,5 @@
+F1: 0.98039,Precision: 0.98039,Recall: 0.98039,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,60,Journal of Biomolecular Screening,http://dbpedia.org/resource/SLAS_Discovery,http://dbpedia.org/resource/Journal_of_Biomolecular_Screening http://dbpedia.org/resource/J._Biomol._Screen. http://dbpedia.org/resource/Journal_Of_Biomolecular_Screening
+0,109,International Organization,http://dbpedia.org/resource/Knowledge_Organization_(journal),http://dbpedia.org/resource/International_Organisation http://dbpedia.org/resource/International_Organization
+0,152,Interface,http://dbpedia.org/resource/Interface_Focus,http://dbpedia.org/resource/Interface_(journal)

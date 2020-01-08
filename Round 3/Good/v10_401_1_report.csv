@@ -1,0 +1,6 @@
+F1: 0.85714,Precision: 0.85714,Recall: 0.85714,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,11,Who Are You,http://dbpedia.org/resource/Who_Are_You,http://dbpedia.org/resource/CSI_theme_song http://dbpedia.org/resource/Who_Are_You_(song)
+1,22,Live in Poland,http://dbpedia.org/resource/Live_in_Poland_(Wayne_Horvitz_album),http://dbpedia.org/resource/Live_in_Poland_(Praxis_album)
+1,23,Recordings,http://dbpedia.org/resource/Pi_Recordings,http://dbpedia.org/resource/Recordings_(album) http://dbpedia.org/resource/Recordings(album)
+1,25,All's Well That Ends Well,http://dbpedia.org/resource/All's_Well_That_Ends_Well_(Chiodos_album),http://dbpedia.org/resource/All's_Well_That_Ends_Well_(Steve_Lukather_album)

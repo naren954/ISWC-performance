@@ -1,0 +1,20 @@
+F1: 0.75342,Precision: 0.75342,Recall: 0.75342,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Mukta,http://dbpedia.org/resource/Mukta_(film),http://dbpedia.org/resource/Muktha http://dbpedia.org/resource/Mukta
+0,14,Mosley,http://dbpedia.org/resource/Mosley,http://dbpedia.org/resource/Mosley_(TV_serial) http://dbpedia.org/resource/Mosley_(movie)
+0,20,Monroe,http://dbpedia.org/resource/Marilyn_Monroe_(Pharrell_Williams_song),http://dbpedia.org/resource/Monroe_(TV_series)
+0,21,Monkey,http://dbpedia.org/resource/Welcome_to_the_Monkey_House,http://dbpedia.org/resource/Monkey_(TV_series) http://dbpedia.org/resource/New_Monkey http://dbpedia.org/resource/Monkey_(television) http://dbpedia.org/resource/Monkey_Magic! http://dbpedia.org/resource/New_Monkey_(tv_series) http://dbpedia.org/resource/New_monkey http://dbpedia.org/resource/Monkey_(TV_Series) http://dbpedia.org/resource/Monkey! http://dbpedia.org/resource/Monkey_(television_series)
+0,25,Misunderstanding of a dream,http://dbpedia.org/resource/Misunderstanding_of_a_Dream,http://dbpedia.org/resource/Misunderstanding_of_a_dream
+0,29,Miranda,http://dbpedia.org/resource/Miranda!,http://dbpedia.org/resource/Miranda_Hart_show http://dbpedia.org/resource/Miranda_(TV_series)
+0,35,Michael: Tuesdays and Thursdays,http://dbpedia.org/resource/Michael:_Every_Day,"http://dbpedia.org/resource/Michael:_Tuesdays_and_Thursdays http://dbpedia.org/resource/Michael:_Tuesdays_&_Thursdays http://dbpedia.org/resource/Michael,_Tuesdays_and_Thursdays"
+0,39,Mexico,http://dbpedia.org/resource/1968_Summer_Olympics,http://dbpedia.org/resource/Mexico_(TV_series)
+0,41,Metropolis,http://dbpedia.org/resource/Metropolis_(2001_film),http://dbpedia.org/resource/Metropolis_(TV_series)
+0,52,McCoy,http://dbpedia.org/resource/Hatfields_&_McCoys_(miniseries),http://dbpedia.org/resource/McCoy_(TV_series) http://dbpedia.org/resource/McCoy_(TV_Series)
+0,54,Maybe This Time,http://dbpedia.org/resource/Maybe_This_Time_(TV_series),http://dbpedia.org/resource/Maybe_This_Time
+0,59,María Isabel,http://dbpedia.org/resource/María_Isabel_(1997_TV_series),http://dbpedia.org/resource/María_Isabel_(1997_telenovela) http://dbpedia.org/resource/María_Isabel_(telenovela) http://dbpedia.org/resource/Maria_Isabel_(telenovela)
+0,60,Mary,"http://dbpedia.org/resource/Mary,_Mary_(song)",http://dbpedia.org/resource/Mary_(TV_series) http://dbpedia.org/resource/Mary_(sitcom) http://dbpedia.org/resource/Mary_(1985_TV_series)
+0,61,Marry Me,http://dbpedia.org/resource/Marry_Me_(American_TV_series),http://dbpedia.org/resource/Marry_Me_(miniseries)
+0,63,María Isabel,http://dbpedia.org/resource/María_Isabel_(1997_TV_series),http://dbpedia.org/resource/María_Isabel_(1997_telenovela) http://dbpedia.org/resource/María_Isabel_(telenovela) http://dbpedia.org/resource/Maria_Isabel_(telenovela)
+0,64,Mapp and Lucia,http://dbpedia.org/resource/Mapp_and_Lucia_(1985_TV_series),http://dbpedia.org/resource/Mapp_and_Lucia_(BBC_TV_series)
+0,67,Man of Many Many Faces,http://dbpedia.org/resource/Man_of_Many_Faces,http://dbpedia.org/resource/Mard-e_Dohezar-Chehreh http://dbpedia.org/resource/Marde_Do_Hezar_Chehreh http://dbpedia.org/resource/Man_of_Many_Many_Faces
+0,68,Man of Many Faces,http://dbpedia.org/resource/Man_of_Many_Faces,http://dbpedia.org/resource/Mard-e_Hezar-Chehreh http://dbpedia.org/resource/Marde_Hezar_Chehreh http://dbpedia.org/resource/Man_of_Many_Faces_(2008_Iranian_Series) http://dbpedia.org/resource/Man_of_Many_Faces_(TV_series)

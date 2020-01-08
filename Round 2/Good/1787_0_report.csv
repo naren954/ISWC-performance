@@ -1,0 +1,3 @@
+F1: 0.88889,Precision: 0.88889,Recall: 0.88889,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,Park Theatre,http://dbpedia.org/resource/Park_Theatre_(London),"http://dbpedia.org/resource/New_Theater_(Park) http://dbpedia.org/resource/Park_Theatre_(Manhattan) http://dbpedia.org/resource/Park_Theatre,_Manhattan http://dbpedia.org/resource/Park_Theater_(Manhattan) http://dbpedia.org/resource/Park_Theatre_(Manhattan,_New_York) http://dbpedia.org/resource/Park_Theater,_Manhattan http://dbpedia.org/resource/New_Theatre,_Park http://dbpedia.org/resource/New_Theatre_(Park) http://dbpedia.org/resource/New_Theater,_Park"

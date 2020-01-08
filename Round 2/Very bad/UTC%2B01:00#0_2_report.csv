@@ -1,0 +1,8 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,0,Cape Verde Time (The islands of Cape Verde are to the west of the African mainland.),http://dbpedia.org/resource/UTC−01:00,http://dbpedia.org/resource/Cape_Verde_Time
+2,1,Western European Time Â· Greenwich Mean Time,http://dbpedia.org/resource/UTC±00:00,http://dbpedia.org/resource/West_European_Time http://dbpedia.org/resource/Western_European_Time
+2,2,Central European Time Â· West Africa Time Â· Western European Summer Time.,http://dbpedia.org/resource/UTC+01:00,http://dbpedia.org/resource/Romance_Standard_Time http://dbpedia.org/resource/Paris_time http://dbpedia.org/resource/Rome_Time http://dbpedia.org/resource/Central_European_time http://dbpedia.org/resource/CET_(time) http://dbpedia.org/resource/Middle_European_Time http://dbpedia.org/resource/Middle_European_Summer_Time http://dbpedia.org/resource/Central_Europe_Time http://dbpedia.org/resource/Central_European_Time http://dbpedia.org/resource/Spanish_time
+2,3,Central Africa Time Â· Eastern European Time Â· South African Standard Time Â· West Africa Summer Time,http://dbpedia.org/resource/UTC+02:00,http://dbpedia.org/resource/Central_African_Time http://dbpedia.org/resource/Central_Africa_Time http://dbpedia.org/resource/Central_Africa_Summer_Time
+2,4,East Africa Time,http://dbpedia.org/resource/UTC+03:00,http://dbpedia.org/resource/East_Africa_Time http://dbpedia.org/resource/East_African_Time
+2,5,Mauritius Time Â· Seychelles Time,http://dbpedia.org/resource/UTC+04:00,http://dbpedia.org/resource/Mauritius_Time

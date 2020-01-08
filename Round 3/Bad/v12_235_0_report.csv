@@ -1,0 +1,60 @@
+F1: 0.50000,Precision: 0.50000,Recall: 0.50000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,É. O'Donoghue,http://dbpedia.org/resource/Neil_O'Donoghue,http://dbpedia.org/resource/Éamonn_O'Donoghue_(Gaelic_footballer) http://dbpedia.org/resource/Eamonn_O'Donoghue_(Gaelic_footballer)
+0,4,W. Walsh,http://dbpedia.org/resource/Ward_Walsh,http://dbpedia.org/resource/Willie_Walsh_(Cork_hurler) http://dbpedia.org/resource/Willie_Walsh_(hurler)
+0,5,W. Joyce,http://dbpedia.org/resource/Warren_Joyce,http://dbpedia.org/resource/Willie_Joyce_(Gaelic_footballer)
+0,10,T. Maher,http://dbpedia.org/resource/Tommy_Maher,http://dbpedia.org/resource/Tony_Maher_(Gaelic_footballer) http://dbpedia.org/resource/Tony_Maher_(Gaelic_football)
+0,12,T. Carmody,http://dbpedia.org/resource/Tom_Carmody,http://dbpedia.org/resource/Tony_Carmody
+0,14,T. Ryan,http://dbpedia.org/resource/Titus_Ryan,http://dbpedia.org/resource/Tomás_Ryan http://dbpedia.org/resource/Tomas_Ryan
+0,16,T. Purcell,http://dbpedia.org/resource/Teddy_Purcell,http://dbpedia.org/resource/Tommy_Purcell
+0,18,T. Doyle,http://dbpedia.org/resource/Tommy_Doyle_(Gaelic_footballer),http://dbpedia.org/resource/Tommy_Doyle_(hurler)
+0,19,T. Mulligan,http://dbpedia.org/resource/Blackjack_Mulligan,http://dbpedia.org/resource/Tom_Mulligan
+0,20,T. Mulcahy,http://dbpedia.org/resource/Tomás_Mulcahy,http://dbpedia.org/resource/Tom_Mulcahy
+0,21,T. Moloughney,http://dbpedia.org/resource/Tom_Moloughney_(footballer),http://dbpedia.org/resource/Tom_Moloughney
+0,22,T. McGrath,http://dbpedia.org/resource/Toby_McGrath,http://dbpedia.org/resource/Tom_McGrath_(hurler)
+0,25,T. Irwin,http://dbpedia.org/resource/Tim_Irwin,http://dbpedia.org/resource/Tom_Irwin_(dual_player)
+0,26,T. Finlay,http://dbpedia.org/resource/Jack_Finlay_(American_football),http://dbpedia.org/resource/Tom_Finlay
+0,27,T. Feeney,http://dbpedia.org/resource/Tom_Feeney_(footballer),http://dbpedia.org/resource/Tom_Feeney_(hurler)
+0,30,T. Ryan,http://dbpedia.org/resource/Titus_Ryan,http://dbpedia.org/resource/Tomás_Ryan http://dbpedia.org/resource/Tomas_Ryan
+0,32,T. McCarthy,http://dbpedia.org/resource/Teddy_McCarthy,http://dbpedia.org/resource/Timmy_McCarthy
+0,33,T. Houlihan,http://dbpedia.org/resource/Mike_Houlihan,http://dbpedia.org/resource/Timmy_Houlihan
+0,34,T. Ryan,http://dbpedia.org/resource/Titus_Ryan,http://dbpedia.org/resource/Thomas_Ryan_(Waterford_Hurler) http://dbpedia.org/resource/Thomas_Ryan(Waterford_Hurler) http://dbpedia.org/resource/Thomas_Ryan_(Waterford_hurler)
+0,35,T. O'Connor,http://dbpedia.org/resource/Tadhg_O'Connor,http://dbpedia.org/resource/Thady_O'Connor
+0,36,T. Kelly,http://dbpedia.org/resource/Tom_Kelly_(basketball),http://dbpedia.org/resource/Terry_Kelly_(hurler)
+0,38,T. Ó. Murphy,http://dbpedia.org/resource/Fred_T._Murphy,http://dbpedia.org/resource/Tadhg_Og_Murphy http://dbpedia.org/resource/Tadhg_Óg_Murphy http://dbpedia.org/resource/Tadgh_Óg_Murphy
+0,39,T. Murphy,http://dbpedia.org/resource/Troy_Murphy,http://dbpedia.org/resource/Tadhg_Murphy
+0,40,T. Ó. Murphy,http://dbpedia.org/resource/Fred_T._Murphy,http://dbpedia.org/resource/Tadhg_Og_Murphy http://dbpedia.org/resource/Tadhg_Óg_Murphy http://dbpedia.org/resource/Tadgh_Óg_Murphy
+0,41,S. Looney,http://dbpedia.org/resource/Shelley_Looney,http://dbpedia.org/resource/Seamus_Looney http://dbpedia.org/resource/Séamus_Looney
+0,42,S. Kenny,http://dbpedia.org/resource/Seán_Kenny_(hurler),http://dbpedia.org/resource/Seamus_Kenny_(footballer) http://dbpedia.org/resource/Seamus_Kenny_(Gaelic_footballer) http://dbpedia.org/resource/Séamus_Kenny http://dbpedia.org/resource/Seamus_Kenny
+0,43,S. Mullen,http://dbpedia.org/resource/Scott_Mullen,http://dbpedia.org/resource/Stuart_Mullen
+0,45,S. Riordan,http://dbpedia.org/resource/Mike_Riordan,http://dbpedia.org/resource/Steva_Riordan
+0,47,S. Murphy,http://dbpedia.org/resource/Sean_Murphy_(swimmer),http://dbpedia.org/resource/Stephen_Murphy_(dual_player)
+0,48,S. McNamara,http://dbpedia.org/resource/Seamus_McNamara,http://dbpedia.org/resource/Stephen_McNamara
+0,50,S. Kelly,http://dbpedia.org/resource/Steve_Kelly,http://dbpedia.org/resource/Stephen_Kelly_(Wicklow_Gaelic_footballer)
+0,52,S. Brenner,http://dbpedia.org/resource/Sam_Brenner,http://dbpedia.org/resource/Stephen_Brenner
+0,54,S. Murphy,http://dbpedia.org/resource/Sean_Murphy_(swimmer),http://dbpedia.org/resource/Simon_Murphy_(hurler)
+0,55,S. O'Sullivan,http://dbpedia.org/resource/Sean_O'Sullivan_(baseball),http://dbpedia.org/resource/Shane_O'Sullivan
+0,58,S. Curran,http://dbpedia.org/resource/Seán_Curran_(hurler),http://dbpedia.org/resource/Shane_Curran
+0,61,S. Ó. Murphy,http://dbpedia.org/resource/Shaun_Murphy_(footballer),http://dbpedia.org/resource/Seán_Óg_Murphy http://dbpedia.org/resource/Sean_Og_Murphy
+0,63,S. O'Brien,http://dbpedia.org/resource/Syd_O'Brien,http://dbpedia.org/resource/Sean_O'Brien_(hurler) http://dbpedia.org/resource/Seán_O'Brien_(hurler)
+0,69,S. Bonner,http://dbpedia.org/resource/Sherdrick_Bonner,http://dbpedia.org/resource/Seamus_Bonner
+0,72,S. O'Brien,http://dbpedia.org/resource/Syd_O'Brien,http://dbpedia.org/resource/Sean_O'Brien_(hurler) http://dbpedia.org/resource/Seán_O'Brien_(hurler)
+0,77,S. Ó. Murphy,http://dbpedia.org/resource/Shaun_Murphy_(footballer),http://dbpedia.org/resource/Seán_Óg_Murphy http://dbpedia.org/resource/Sean_Og_Murphy
+0,79,S. Looney,http://dbpedia.org/resource/Shelley_Looney,http://dbpedia.org/resource/Seamus_Looney http://dbpedia.org/resource/Séamus_Looney
+0,80,S. Kenny,http://dbpedia.org/resource/Seán_Kenny_(hurler),http://dbpedia.org/resource/Seamus_Kenny_(footballer) http://dbpedia.org/resource/Seamus_Kenny http://dbpedia.org/resource/Seamus_Kenny_(Gaelic_footballer) http://dbpedia.org/resource/Séamus_Kenny
+0,81,R. Fallon,http://dbpedia.org/resource/Rory_Fallon,http://dbpedia.org/resource/Rónán_Fallon http://dbpedia.org/resource/Ronan_Fallon
+0,90,R. Ryan,http://dbpedia.org/resource/Rob_Ryan,http://dbpedia.org/resource/Ray_Ryan_(hurler)
+0,92,R. Barry,http://dbpedia.org/resource/Rick_Barry,http://dbpedia.org/resource/Ray_Barry
+0,93,R. Fallon,http://dbpedia.org/resource/Rory_Fallon,http://dbpedia.org/resource/Rónán_Fallon http://dbpedia.org/resource/Ronan_Fallon
+0,95,P. Collins,http://dbpedia.org/resource/Peter_Collins_(footballer),http://dbpedia.org/resource/Pádraic_Collins http://dbpedia.org/resource/Padraic_Collins
+0,98,P. Brennan,http://dbpedia.org/resource/Philip_Brennan_(Clare_hurler),http://dbpedia.org/resource/Philip_Brennan_(Dublin_hurler)
+0,99,P. Grimes,http://dbpedia.org/resource/Reggie_Grimes,http://dbpedia.org/resource/Phil_Grimes http://dbpedia.org/resource/Philly_Grimes
+0,101,P. Queally,http://dbpedia.org/resource/Jason_Queally,http://dbpedia.org/resource/Peter_Queally
+0,102,P. Lawlor,http://dbpedia.org/resource/Pat_Lawlor_(hurler),http://dbpedia.org/resource/Peter_Lawlor_(hurler)
+0,106,P. Murphy,http://dbpedia.org/resource/Paul_Murphy_(hurler),http://dbpedia.org/resource/Paul_Murphy_(Gaelic_footballer) http://dbpedia.org/resource/Paul_Murphy_(Derry_footballer)
+0,107,P. Kelly,http://dbpedia.org/resource/Peter_Kelly_(Dublin_hurler),http://dbpedia.org/resource/Paul_Kelly_(hurler)
+0,108,P. Flanagan,http://dbpedia.org/resource/Pat_Flanagan_(English_footballer),http://dbpedia.org/resource/Paul_Flanagan
+0,112,P. Prendergast,http://dbpedia.org/resource/Paddy_Prendergast_(hurler),http://dbpedia.org/resource/Paudie_Prendergast
+0,113,P. O'Dwyer,http://dbpedia.org/resource/Phil_Dwyer,http://dbpedia.org/resource/Paudie_O'Dwyer
+0,114,P. Mulhare,http://dbpedia.org/resource/Paudie_Mulhaire,http://dbpedia.org/resource/Paudge_Mulhare
+0,116,P. Kearney,http://dbpedia.org/resource/Stephen_Kearney,http://dbpedia.org/resource/Patrick_Kearney_(hurler)

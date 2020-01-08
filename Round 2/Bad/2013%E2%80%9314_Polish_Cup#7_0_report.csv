@@ -1,0 +1,4 @@
+F1: 0.50000,Precision: 0.50000,Recall: 0.50000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,ZagÅ\u0082Ä\u0099bie Lubin (1),http://dbpedia.org/resource/White,http://dbpedia.org/resource/Zagłębie_Lubin
+0,2,Jagiellonia BiaÅ\u0082ystok (1),http://dbpedia.org/resource/White,http://dbpedia.org/resource/Jagiellonia_Białystok

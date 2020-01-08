@@ -1,0 +1,5 @@
+"F1: 0.40000","Precision: 0.40000","Recall: 0.40000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","1","East Ward School","http://dbpedia.org/resource/Pittsfield_East_School","http://dbpedia.org/resource/East_Ward_School"
+"1","4","Main Street Building, United Church of Ovid","http://dbpedia.org/resource/Main_Street_Methodist_Episcopal_Church_South","http://dbpedia.org/resource/First_Congregational_Church_of_Ovid"
+"1","6","Union School","http://dbpedia.org/resource/Union_School_(Searsport,_Maine)","http://dbpedia.org/resource/Union_School_(St._Johns,_Michigan)"

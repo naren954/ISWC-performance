@@ -1,0 +1,4 @@
+"F1: 0.81818","Precision: 0.81818","Recall: 0.81818"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","3","Sir John Wright, 1st Baronet","http://dbpedia.org/resource/Sir_John_Rogers,_1st_Baronet","http://dbpedia.org/resource/Sir_John_Wright,_1st_Baronet http://dbpedia.org/resource/John_Roper_Wright"
+"0","11","Sir John Seton, 1st Baronet","http://dbpedia.org/resource/Sir_John_Jackson,_1st_Baronet","http://dbpedia.org/resource/Sir_John_Seton,_1st_Baronet"

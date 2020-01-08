@@ -1,0 +1,14 @@
+F1: 0.77358,Precision: 0.77358,Recall: 0.77358,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,P. E. Kanjorski,http://dbpedia.org/resource/E._P._Sanders,http://dbpedia.org/resource/Paul_E._Kanjorski http://dbpedia.org/resource/Kanjorski http://dbpedia.org/resource/Paul_Kanjorski
+0,8,P. M. Baskin,http://dbpedia.org/resource/P._M._Taj,http://dbpedia.org/resource/Pat_M._Baskin
+0,30,N. E. III,http://dbpedia.org/resource/Benigno_Aquino_III,http://dbpedia.org/resource/Natalio_C._Ecarma_III http://dbpedia.org/resource/Natalio_Ecarma_III
+0,32,Murphy J. Foster Jr.,http://dbpedia.org/resource/Murphy_J._Foster,"http://dbpedia.org/resource/Murphy_James_Foster,_Jr. http://dbpedia.org/resource/Murphy_Foster,_Jr. http://dbpedia.org/resource/Murphy_J._Foster_Jr. http://dbpedia.org/resource/Mike_Foster,_Jr. http://dbpedia.org/resource/Murphy_J._Foster_Jr http://dbpedia.org/resource/Murphy_J._Foster,_Jr."
+0,33,M. M. Wyche,,http://dbpedia.org/resource/Monty_M._Wyche
+0,34,M. Wilson,http://dbpedia.org/resource/Margaret_Wilson,http://dbpedia.org/resource/Mike_Wilson_(Kentucky_politician)
+0,35,M. Thompson,http://dbpedia.org/resource/Myron_Thompson,http://dbpedia.org/resource/Mike_Thompson_(California_politician)
+0,42,M. Hastings,"http://dbpedia.org/resource/Francis_Rawdon-Hastings,_1st_Marquess_of_Hastings",http://dbpedia.org/resource/Michael_Hastings_(politician)
+0,46,M. Sanford,http://dbpedia.org/resource/Mark_Sanford,http://dbpedia.org/resource/Merrill_Sanford
+0,49,M. Zeller,http://de.dbpedia.org/resource/Magnus_Zeller,http://dbpedia.org/resource/Matthew_Zeller
+0,50,M. Mead,http://dbpedia.org/resource/Matt_Mead,http://dbpedia.org/resource/Matthew_Mead_(politician)
+0,51,M. Shea,http://dbpedia.org/resource/Matt_Shea_(politician),http://dbpedia.org/resource/Matt_Shea

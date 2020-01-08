@@ -1,0 +1,5 @@
+"F1: 0.92683","Precision: 0.92683","Recall: 0.92683"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"2","9","K. Johnson","http://dbpedia.org/resource/Dwayne_Johnson","http://dbpedia.org/resource/Kelly_Johnson_(figure_skater)"
+"2","13","R. Farkhutdinov","nan","http://dbpedia.org/resource/Rinat_Farkoutinov http://dbpedia.org/resource/Rinat_Farkoutdinov http://dbpedia.org/resource/Rinat_Farkhoutinov http://dbpedia.org/resource/Rinat_Farkhutdinov http://dbpedia.org/resource/Rinat_Farkhoutdinov"
+"2","18","S. Miller","http://dbpedia.org/resource/Shannon_Miller","http://dbpedia.org/resource/Stephanie_Miller"

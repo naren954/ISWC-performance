@@ -1,0 +1,43 @@
+F1: 0.76966,Precision: 0.76966,Recall: 0.76966,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Ł. Bodnar,http://dbpedia.org/resource/Maciej_Bodnar,http://dbpedia.org/resource/Łukasz_Bodnar http://dbpedia.org/resource/Lukasz_Bodnar
+0,4,Á. Edo,http://dbpedia.org/resource/Teo_Edo,http://dbpedia.org/resource/Angel_Edo_Alsina http://dbpedia.org/resource/Angel_Edo http://dbpedia.org/resource/Ángel_Edo http://dbpedia.org/resource/Ángel_Edo_Alsina
+0,8,Y. Doi,http://dbpedia.org/resource/Yoichi_Doi,http://dbpedia.org/resource/Yukihiro_Doi
+0,12,Y. Bear,http://dbpedia.org/resource/Ethan_Bear,http://dbpedia.org/resource/Yoav_Bear
+0,21,W. Walker,http://dbpedia.org/resource/Wally_Walker,http://dbpedia.org/resource/William_Walker_(cyclist)
+0,33,T. E. Korsæth,http://dbpedia.org/resource/Truls_Korsæth,http://dbpedia.org/resource/Truls_Engen_Korsaeth http://dbpedia.org/resource/Truls_Korsaeth http://dbpedia.org/resource/Truls_Engen_Korsæth
+0,34,T. Trondsen,http://it.dbpedia.org/resource/Tor_Trondsen,http://dbpedia.org/resource/Trond_Trondsen
+0,37,T. Robbins,http://dbpedia.org/resource/Tootie_Robbins,http://dbpedia.org/resource/Tristan_Robbins
+0,38,T. McCabe,http://dbpedia.org/resource/Tim_McCabe,http://dbpedia.org/resource/Travis_McCabe
+0,47,T. Horton,http://dbpedia.org/resource/Tim_Horton,http://dbpedia.org/resource/Tobyn_Horton
+0,49,T. Stevens,http://dbpedia.org/resource/Tim_Stevens_(footballer),http://dbpedia.org/resource/Timothy_Stevens_(cyclist)
+0,51,T. Johnson,http://dbpedia.org/resource/Trey_Johnson,http://dbpedia.org/resource/Tim_Johnson_(cyclist)
+0,66,T. Zonneveld,http://dbpedia.org/resource/Mike_Zonneveld,http://dbpedia.org/resource/Thijs_Zonneveld
+0,67,T. Aerts,http://dbpedia.org/resource/Toon_Aerts,http://dbpedia.org/resource/Thijs_Aerts
+0,75,S. Sousa,http://dbpedia.org/resource/Rui_Sousa,http://dbpedia.org/resource/Sérgio_Sousa http://dbpedia.org/resource/Sergio_Sousa
+0,84,S. Peat,http://dbpedia.org/resource/Stephen_Peat,http://dbpedia.org/resource/Steve_pete http://dbpedia.org/resource/Steve_Peat http://dbpedia.org/resource/Steve_Pete
+0,86,S. Locatelli,http://dbpedia.org/resource/Ugo_Locatelli,http://dbpedia.org/resource/Stefano_Locatelli
+0,87,S. Hristov,http://dbpedia.org/resource/Stanislav_Hristov,http://dbpedia.org/resource/Stefan_Hristov_(cyclist)
+0,98,S. Suzuki,http://dbpedia.org/resource/Shingo_Suzuki,http://dbpedia.org/resource/Shinri_Suzuki
+0,100,S. Kline,http://dbpedia.org/resource/Steve_Kline_(right-handed_pitcher),http://dbpedia.org/resource/Shane_Kline
+0,101,S. Haga,http://dbpedia.org/resource/Chad_Haga,http://dbpedia.org/resource/Shane_Haga
+0,109,S. Wilborne,http://dbpedia.org/resource/Scotti_Lechuga,http://dbpedia.org/resource/Scotti_Wilborne
+0,111,S. Sunderland,http://dbpedia.org/resource/Scott_Sunderland_(road_cyclist),http://dbpedia.org/resource/Scott_Sunderland_(track_cyclist) http://dbpedia.org/resource/Scott_Sunderland_(cyclist_born_1988)
+0,114,S. Roy,http://dbpedia.org/resource/Serge_Roy,http://dbpedia.org/resource/Sarah_Roy
+0,117,S. Williams,http://dbpedia.org/resource/Serena_Williams,http://dbpedia.org/resource/Samuel_Williams_(cyclist)
+0,120,S. Reynolds,http://dbpedia.org/resource/Stephen_Reynolds_(footballer),http://dbpedia.org/resource/Sam_Reynolds_(Bike_Freerider)
+0,123,S. Sousa,http://dbpedia.org/resource/Rui_Sousa,http://dbpedia.org/resource/Sérgio_Sousa http://dbpedia.org/resource/Sergio_Sousa
+0,125,R. Ariehan,http://dbpedia.org/resource/Ryan_Ariehaan,http://dbpedia.org/resource/Ryan_Ariehan
+0,128,R. Buchanan,http://dbpedia.org/resource/Robert_Buchanan_(footballer),http://dbpedia.org/resource/Rushlee_Buchanan
+0,129,R. Sousa,http://dbpedia.org/resource/Ricardo_Sousa,http://dbpedia.org/resource/Rui_Miguel_Sousa_Barbosa http://dbpedia.org/resource/Rui_Sousa
+0,131,R. Miller,http://dbpedia.org/resource/Ryan_Miller,http://dbpedia.org/resource/Ruby_Miller_(cyclist)
+0,135,R. Reid,http://dbpedia.org/resource/Ryan_Reid,http://dbpedia.org/resource/Ross_Reid_(cyclist) http://dbpedia.org/resource/Ross_Sander
+0,138,R. Pillon,http://dbpedia.org/resource/Giuseppe_Pillon,http://dbpedia.org/resource/Romain_Pillon
+0,146,R. Carpenter,http://dbpedia.org/resource/Ryan_Carpenter,http://dbpedia.org/resource/Robin_Carpenter
+0,147,R. Pinheiro,http://dbpedia.org/resource/Rubens_Pinheiro,http://dbpedia.org/resource/Roberto_Pinheiro
+0,148,R. Wagner,http://dbpedia.org/resource/Renan_Wagner,http://dbpedia.org/resource/Robert_Wagner_(cyclist)
+0,149,R. Sweeting,http://dbpedia.org/resource/Rod_Sweeting,http://dbpedia.org/resource/Robert_Sweeting_(cyclist)
+0,157,R. Rogers,http://dbpedia.org/resource/Reggie_Rogers,http://dbpedia.org/resource/Rico_Rogers
+0,158,R. Lang,http://dbpedia.org/resource/Robert_Lang_(ice_hockey),http://dbpedia.org/resource/Richard_Lang_(cyclist)
+0,163,R. Lloyd,http://dbpedia.org/resource/Ryan_Lloyd,http://dbpedia.org/resource/Rhys_Lloyd_(cyclist)
+0,166,R. Gough,http://dbpedia.org/resource/Richard_Gough,http://dbpedia.org/resource/Regan_Gough

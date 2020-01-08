@@ -1,0 +1,4 @@
+F1: 0.80000,Precision: 0.80000,Recall: 0.80000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,5,Mike Green,"http://dbpedia.org/resource/Mike_Green_(basketball,_born_1951)","http://dbpedia.org/resource/Mike_Green_(basketball,_born_1985) http://dbpedia.org/resource/Michael_Green_(basketballer,_born_1985) http://dbpedia.org/resource/Michael_Green_(basketball,_born_1985)"
+1,6,Vladimir GoluboviÄ\u0087,http://dbpedia.org/resource/Uladzimir_Makowski,http://dbpedia.org/resource/Vladimir_Golubović

@@ -1,0 +1,13 @@
+F1: 0.63333,Precision: 0.63333,Recall: 0.63333,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,2,D. McCarthy,http://dbpedia.org/resource/Kevin_McCarthy_(actor),http://dbpedia.org/resource/Dennis_McCarthy_(composer)
+1,3,D. McCarthy,http://dbpedia.org/resource/Kevin_McCarthy_(actor),http://dbpedia.org/resource/Dennis_McCarthy_(composer)
+1,9,L. a. Virgin,http://dbpedia.org/resource/The_Last_American_Virgin,http://dbpedia.org/resource/Like_A_Virgin_(single) http://dbpedia.org/resource/Like_a_Virgin_(song) http://dbpedia.org/resource/Like_A_Virgin_(song) http://dbpedia.org/resource/Like_a_Virgin_(Madonna_song)
+1,10,D. Porter,http://dbpedia.org/resource/David_Porter_(musician),http://dbpedia.org/resource/Dave_Porter_(composer)
+1,12,T. D. Comedy,http://dbpedia.org/resource/Stand_Up_Comedy_(song),http://dbpedia.org/resource/Divine_Comedy_(band) http://dbpedia.org/resource/The_Divine_Comedy_(band)
+1,13,H. a. Dry,http://dbpedia.org/resource/South_Africa,http://dbpedia.org/resource/High_and_Dry http://dbpedia.org/resource/High_&_Dry_Single_1
+1,14,You Only Live Twice,http://dbpedia.org/resource/You_Only_Live_Once_(The_Strokes_song),http://dbpedia.org/resource/You_Only_Live_Twice_(song)
+1,17,T. D. Comedy,http://dbpedia.org/resource/Stand_Up_Comedy_(song),http://dbpedia.org/resource/Divine_Comedy_(band) http://dbpedia.org/resource/The_Divine_Comedy_(band)
+1,19,D. McCarthy,http://dbpedia.org/resource/Kevin_McCarthy_(actor),http://dbpedia.org/resource/Dennis_McCarthy_(composer)
+1,22,L. Johnson,http://dbpedia.org/resource/Louisa_Johnson,http://dbpedia.org/resource/Laurie_Johnson
+1,23,R. Jones,http://dbpedia.org/resource/Donell_Jones,http://dbpedia.org/resource/Ron_Jones_(composer)

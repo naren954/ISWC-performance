@@ -1,0 +1,5 @@
+F1: 0.50000,Precision: 0.50000,Recall: 0.50000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,5,Shaun Murphy,http://dbpedia.org/resource/Shaun_Murphy_(footballer),http://dbpedia.org/resource/The_Whiston_Warrior http://dbpedia.org/resource/Shaun_Murphy_(cue_sports) http://dbpedia.org/resource/Shaun_Murphy_(snooker) http://dbpedia.org/resource/Shaun_Murphy_(snooker_player)
+1,9,Neil Robertson,http://dbpedia.org/resource/Neil_Robertson,http://dbpedia.org/resource/Neil_Robertson_(snooker_player) http://dbpedia.org/resource/The_Melbourne_Machine http://dbpedia.org/resource/Aussie_Ace http://dbpedia.org/resource/Neil_Robertson_(snooker)
+1,10,Neil Robertson,http://dbpedia.org/resource/Neil_Robertson,http://dbpedia.org/resource/Neil_Robertson_(snooker_player) http://dbpedia.org/resource/The_Melbourne_Machine http://dbpedia.org/resource/Aussie_Ace http://dbpedia.org/resource/Neil_Robertson_(snooker)

@@ -1,0 +1,3 @@
+F1: 0.95833,Precision: 0.95833,Recall: 0.95833,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,22,The Field,http://dbpedia.org/resource/The_Field_Mice,http://dbpedia.org/resource/The_Field_(band) http://dbpedia.org/resource/The_Field_(musician) http://dbpedia.org/resource/Axel_Willner

@@ -1,0 +1,8 @@
+F1: 0.88000,Precision: 0.88000,Recall: 0.88000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,J. Bérubé,http://fr.dbpedia.org/resource/Jean-Sébastien_Bérubé,http://dbpedia.org/resource/Jean-Francois_Berube http://dbpedia.org/resource/Jean-François_Bérubé http://dbpedia.org/resource/JF_Berube
+0,8,J. Wilson,http://dbpedia.org/resource/James_Wilson_(English_footballer),http://dbpedia.org/resource/Jason_Wilson_(ice_hockey)
+0,24,J. Mrázek,http://dbpedia.org/resource/Petr_Mrázek,http://dbpedia.org/resource/Jaroslav_Mrazek http://dbpedia.org/resource/Jaroslav_Mrázek
+0,36,J. Immonen,http://dbpedia.org/resource/Jarkko_Immonen,"http://dbpedia.org/resource/Jarkko_Immonen_(ice_hockey_b._1984) http://dbpedia.org/resource/Jarkko_Immonen_(ice_hockey,_born_1984)"
+0,40,J. Staal,http://dbpedia.org/resource/Jordan_Staal,http://dbpedia.org/resource/Jared_Stall http://dbpedia.org/resource/Jared_Staal
+0,46,J. Hansen,"http://dbpedia.org/resource/John_Hansen_(footballer,_born_1950)",http://dbpedia.org/resource/Jannik_Hansen

@@ -1,0 +1,4 @@
+F1: 0.33333,Precision: 0.33333,Recall: 0.33333,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,9,Wellspring Camp La Jolla,,http://dbpedia.org/resource/Wellspring_camps
+0,10,Wellspring UK,http://dbpedia.org/resource/Wellspring_Academies,http://dbpedia.org/resource/Wellspring_camps

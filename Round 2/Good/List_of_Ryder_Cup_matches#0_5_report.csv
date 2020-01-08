@@ -1,0 +1,11 @@
+F1: 0.78571,Precision: 0.78571,Recall: 0.78571,,
+Col,Row,Value,Submitted URI,Correct URI's
+5,1,"Worcester Country Club, Massachusetts",http://dbpedia.org/resource/Worcester,http://dbpedia.org/resource/Worcester_Country_Club
+5,2,"Moortown Golf Club, Yorkshire",http://dbpedia.org/resource/Bedale,http://dbpedia.org/resource/Moortown_Golf_Club
+5,4,"Southport and Ainsdale Golf Club, Lancashire",http://dbpedia.org/resource/Royal_Lytham_&_St_Annes_Golf_Club,http://dbpedia.org/resource/Southport_&_Ainsdale_GC http://dbpedia.org/resource/Southport_and_Ainsdale_Golf_Club
+5,6,"Southport and Ainsdale Golf Club, Lancashire",http://dbpedia.org/resource/Royal_Lytham_&_St_Annes_Golf_Club,http://dbpedia.org/resource/Southport_&_Ainsdale_GC http://dbpedia.org/resource/Southport_and_Ainsdale_Golf_Club
+5,8,"Ganton Golf Club, Scarborough, Yorkshire",http://dbpedia.org/resource/Bedale,http://dbpedia.org/resource/Ganton_Golf_Club
+5,12,"Lindrick Golf Club, West Riding of Yorkshire",,http://dbpedia.org/resource/Lindrick_Golf_Course http://dbpedia.org/resource/Lindrick_Golf_Club
+5,23,"The Greenbrier, The Greenbrier Course, White Sulphur Springs, West Virginia","http://dbpedia.org/resource/White_Sulphur_Springs,_West_Virginia",http://dbpedia.org/resource/Greenbrier_nuclear_fallout_shelter http://dbpedia.org/resource/CSX_Hotels_Inc. http://dbpedia.org/resource/Greenbrier_Hotel http://dbpedia.org/resource/The_Greenbrier http://dbpedia.org/resource/The_Casino_Club_at_The_Greenbrier http://dbpedia.org/resource/Greenbrier_Resort
+5,31,"Oak Hill Country Club, East Course, Rochester, New York","http://dbpedia.org/resource/Durham,_New_York",http://dbpedia.org/resource/Oak_Hill_Country_Club
+5,42,"Le Golf National, Albatros Course, Saint-Quentin-en-Yvelines",http://dbpedia.org/resource/Vélodrome_de_Saint-Quentin-en-Yvelines,http://dbpedia.org/resource/Le_Golf_National

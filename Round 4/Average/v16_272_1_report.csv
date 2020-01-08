@@ -1,0 +1,6 @@
+F1: 0.60000,Precision: 0.60000,Recall: 0.60000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,H. Chaturvedi,http://dbpedia.org/resource/Nand_Chaturvedi,http://dbpedia.org/resource/Hemant_Chaturvedi
+1,5,D. M. Walsh,http://dbpedia.org/resource/A._D._Walsh,http://dbpedia.org/resource/David_M._Walsh
+1,7,F. D. Giacomo,http://dbpedia.org/resource/James_Francis_Edward_Stuart,http://dbpedia.org/resource/Franco_Di_Giacomo http://dbpedia.org/resource/Franco_di_Giacomo
+1,9,E. Palmer,http://dbpedia.org/resource/Ernest_Palmer_(American_cinematographer),http://dbpedia.org/resource/Ernest_Palmer_(British_cinematographer)

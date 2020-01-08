@@ -1,0 +1,6 @@
+F1: 0.66667,Precision: 0.66667,Recall: 0.66667,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,4,Werribee,http://dbpedia.org/resource/Werribee_City_FC,http://dbpedia.org/resource/Werribee_Tigers http://dbpedia.org/resource/Werribee_Football_Club
+1,5,Casey,http://dbpedia.org/resource/Casey_Jones,http://dbpedia.org/resource/Springvale_Scorpions http://dbpedia.org/resource/Casey_Football_Club http://dbpedia.org/resource/Casey_Scorpions http://dbpedia.org/resource/Springvale_Football_Club
+1,11,Bendigo,http://dbpedia.org/resource/Bendigo_Spirit,http://dbpedia.org/resource/Bendigo_Football_Club http://dbpedia.org/resource/Bendigo_Diggers http://dbpedia.org/resource/Bendigo_Bombers http://dbpedia.org/resource/Bendigo_Gold
+1,14,Tasmania,http://dbpedia.org/resource/SV_Tasmania_Berlin,http://dbpedia.org/resource/Tasmanian_Devils_Football_Club

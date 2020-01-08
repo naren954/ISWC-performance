@@ -1,0 +1,6 @@
+"F1: 0.20000","Precision: 0.20000","Recall: 0.20000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","2","Xiang Yun å\u0090\u0091äº\u0091","http://dbpedia.org/resource/Cloud_computing","http://dbpedia.org/resource/Xiang_Yun"
+"0","3","Zhu Houren æ\u009C±å\u008E\u009Aä»»","http://dbpedia.org/resource/Wilson_Trail","http://dbpedia.org/resource/Zhu_Houren http://dbpedia.org/resource/Zhu_Hou_Ren"
+"0","6","Brandon Wong é»\u0084ç\u0082¯è\u0080\u0080","http://dbpedia.org/resource/Brandon_Wong","http://dbpedia.org/resource/Brandon_Wong_(actor) http://dbpedia.org/resource/Huang_Jiongyao"
+"0","7","Wang Yuqing ç\u008E\u008Bæ\u0098±é\u009D\u0092","http://dbpedia.org/resource/Yuqing_County","http://dbpedia.org/resource/Wang_Yuqing"

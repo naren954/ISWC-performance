@@ -1,0 +1,16 @@
+F1: 0.85567,Precision: 0.85567,Recall: 0.85567,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,4,Z.C.B.J. Opera House,"http://dbpedia.org/resource/Z.C.B.J._Opera_House_(Verdigre,_Nebraska)","http://dbpedia.org/resource/Z.C.B.J._Opera_House_(Clarkson,_Nebraska)"
+0,8,Yulee Area,"http://dbpedia.org/resource/Yulee,_Florida","http://dbpedia.org/resource/Yulee_Area http://dbpedia.org/resource/Yulee_Area_(Gainesville,_Florida)"
+0,22,Young Women's Christian Association Building,"http://dbpedia.org/resource/Young_Men's_Christian_Association_Building_(Racine,_Wisconsin)","http://dbpedia.org/resource/Young_Women's_Christian_Association_Building_(Nashville,_Tennessee)"
+0,23,Young Women's Christian Association,http://dbpedia.org/resource/Ottumwa_Young_Women's_Christian_Association,"http://dbpedia.org/resource/Young_Women's_Christian_Association_(Richmond,_Virginia)"
+0,24,Young Women's Christian Association,http://dbpedia.org/resource/Ottumwa_Young_Women's_Christian_Association,"http://dbpedia.org/resource/Young_Women's_Christian_Association_(Pueblo,_Colorado)"
+0,25,Young Women's Christian Association,http://dbpedia.org/resource/Ottumwa_Young_Women's_Christian_Association,"http://dbpedia.org/resource/Young_Women's_Christian_Association_(Elkhart,_Indiana)"
+0,30,Young Men's Christian Association of Schenectady,"http://dbpedia.org/resource/Young_Men's_Christian_Association_Building_(Racine,_Wisconsin)",http://dbpedia.org/resource/Young_Men's_Christian_Association_of_Schenectady
+0,32,Young Men's Christian Association Building,"http://dbpedia.org/resource/Young_Men's_Christian_Association_Building_(Racine,_Wisconsin)","http://dbpedia.org/resource/Young_Men's_Christian_Association_Building_(Albany,_New_York)"
+0,37,Young Building,"http://dbpedia.org/resource/Young_Men's_Christian_Association_Building_(Albany,_New_York)",http://dbpedia.org/resource/Young_Building
+0,39,Young-Yentes-Mattern Farm,http://dbpedia.org/resource/Young–Yentes–Mattern_Farm,http://dbpedia.org/resource/Young-Yentes-Mattern_Farm
+0,52,Yorktown Heights Railroad Station,http://dbpedia.org/resource/Yorktown_Heights_station,http://dbpedia.org/resource/Yorktown_Heights_(NYC_station) http://dbpedia.org/resource/Yorktown_Heights_Railroad_Station
+0,68,Yorba-Slaughter Adobe,http://dbpedia.org/resource/Yorba–Slaughter_Adobe,http://dbpedia.org/resource/Yorba-Slaughter_Adobe
+0,77,Yoder's Mills Historic District,http://dbpedia.org/resource/Hopkins_Mill_Historic_District,http://dbpedia.org/resource/Yoder's_Mills_Historic_District
+0,92,Yazoo and Mississippi Valley Railroad Company Depot,http://dbpedia.org/resource/Baton_Rouge_station,http://dbpedia.org/resource/Yazoo_and_Mississippi_Valley_Railroad_Company_Depot http://dbpedia.org/resource/Louisiana_Arts_and_Science_Museum http://dbpedia.org/resource/Louisiana_Art_and_Science_Museum

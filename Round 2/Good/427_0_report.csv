@@ -1,0 +1,12 @@
+F1: 0.92908,Precision: 0.92908,Recall: 0.92908,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,4,Sidney Municipal Airport,http://dbpedia.org/resource/Sidney_Municipal_Airport_(Ohio),http://dbpedia.org/resource/Sidney_Municipal_Airport_(New_York)
+0,5,Sidney Municipal Airport,http://dbpedia.org/resource/Sidney_Municipal_Airport_(Ohio),http://dbpedia.org/resource/Sidney_Municipal_Airport_(Nebraska)
+0,9,Sibulan Airport,http://dbpedia.org/resource/Bacolod–Silay_Airport,http://dbpedia.org/resource/Sibulan_(airport) http://dbpedia.org/resource/Sibulan_Airport http://dbpedia.org/resource/Dumaguete_Domestic_Airport http://dbpedia.org/resource/Dumaguete_Airport
+0,35,Sherbro International Airport,http://dbpedia.org/resource/Nashville_International_Airport,http://dbpedia.org/resource/Sherbro_International_Airport http://dbpedia.org/resource/GFBN
+0,41,Shelbyville Municipal Airport,http://dbpedia.org/resource/Shelbyville_Municipal_Airport_(Indiana),http://dbpedia.org/resource/KSYI http://dbpedia.org/resource/Shelbyville_Municipal_Airport_(Tennessee) http://dbpedia.org/resource/Bomar_Field
+0,79,Sentani Airport,http://dbpedia.org/resource/Sentani_International_Airport,http://dbpedia.org/resource/DJJ http://dbpedia.org/resource/Hollandia_Airfield http://dbpedia.org/resource/Cyclops_Airstrip http://dbpedia.org/resource/Sentani_Airport http://dbpedia.org/resource/Wajj http://dbpedia.org/resource/Hollandia_Airfield_Complex
+0,89,Sei Bati Airport,http://dbpedia.org/resource/Sei_Pakning_Airport,http://dbpedia.org/resource/Sei_Bati_Airport
+0,96,Seal Bay Seaplane Base,http://dbpedia.org/resource/Funter_Bay_Seaplane_Base,http://dbpedia.org/resource/Seal_Bay_Airport http://dbpedia.org/resource/Seal_Bay_Seaplane_Base
+0,108,Sayun Airport,http://dbpedia.org/resource/Ahuas_Airport,http://dbpedia.org/resource/Seiyun_Airport http://dbpedia.org/resource/Sayun_(airport) http://dbpedia.org/resource/OYSY http://dbpedia.org/resource/Sayun_Airport
+0,113,Savuti Airport,http://dbpedia.org/resource/Ahuas_Airport,http://dbpedia.org/resource/FBSV http://dbpedia.org/resource/Savuti_Airport

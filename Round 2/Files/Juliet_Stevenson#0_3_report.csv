@@ -1,0 +1,6 @@
+"F1: 0.55556","Precision: 0.55556","Recall: 0.55556"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"3","2","As You Like It; Les Liaisons Dangereuses","http://dbpedia.org/resource/What_I_Like_About_You_(TV_series)","http://dbpedia.org/resource/Martext http://dbpedia.org/resource/Sir_Oliver_Martext http://dbpedia.org/resource/As_You_Like_It http://dbpedia.org/resource/Oliver_Martext http://dbpedia.org/resource/Silvius_(fictional_character) http://dbpedia.org/resource/As_you_like_it http://dbpedia.org/resource/Mar_text http://dbpedia.org/resource/Sir_Oliver_Mar_Text http://dbpedia.org/resource/Ducdame http://dbpedia.org/resource/Oliver_Mar_Text"
+"3","3","Yerma","nan","http://dbpedia.org/resource/Yerma"
+"3","5","Death and the Maiden","http://dbpedia.org/resource/Death_and_the_Maiden_(film)","http://dbpedia.org/resource/Death_and_the_Maiden_(play) http://dbpedia.org/resource/Death_and_the_maiden_(play) http://dbpedia.org/resource/Death_and_the_Maiden_(1994_movie)"
+"3","8","Duet for One","nan","http://dbpedia.org/resource/Duet_for_One http://dbpedia.org/resource/Duet_for_one"

@@ -1,0 +1,4 @@
+F1: 0.75000,Precision: 0.75000,Recall: 0.75000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,5,Mervue United,http://dbpedia.org/resource/Sheffield_United_F.C.,http://dbpedia.org/resource/Mervue_united_fc http://dbpedia.org/resource/Mervue_United http://dbpedia.org/resource/Fahys_Field http://dbpedia.org/resource/Mervue_united http://dbpedia.org/resource/Mervue_United_A.F.C. http://dbpedia.org/resource/Mervue_United_F.C._'B' http://dbpedia.org/resource/Mervue_United_F.C. http://dbpedia.org/resource/Mervue_United_F._C. http://dbpedia.org/resource/Fahy's_Field http://dbpedia.org/resource/Mervue_United_A.F.C
+0,8,Wexford Youths,http://dbpedia.org/resource/Wexford_F.C.,http://dbpedia.org/resource/Wexford_Youths_F.C. http://dbpedia.org/resource/Wexford_Youths_F._C. http://dbpedia.org/resource/Wexford_Youths http://dbpedia.org/resource/Wexford_Youths_F_C http://dbpedia.org/resource/Wexford_Youths_FC

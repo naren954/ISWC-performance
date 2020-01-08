@@ -1,0 +1,6 @@
+"F1: 0.00000","Precision: 0.00000","Recall: 0.00000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","1","AtlÃ©tico de Madrid","http://dbpedia.org/resource/Atlético_Madrid","http://dbpedia.org/resource/Atlético_de_Madrid"
+"0","2","CD MÃ¡laga","http://dbpedia.org/resource/Málaga","http://dbpedia.org/resource/CD_Málaga"
+"0","3","Real Murcia","http://dbpedia.org/resource/Region_of_Murcia","http://dbpedia.org/resource/Murcia_FC http://dbpedia.org/resource/Real_Murcia http://dbpedia.org/resource/Real_Murcia_CF http://dbpedia.org/resource/Real_Murcia_Club_de_Fútbol"
+"0","4","Real Santander","http://dbpedia.org/resource/Santander,_Spain","http://dbpedia.org/resource/Real_Santander http://dbpedia.org/resource/Pumas_de_Casanare"

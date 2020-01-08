@@ -1,0 +1,14 @@
+F1: 0.50000,Precision: 0.50000,Recall: 0.50000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,2,H. Deane,http://dbpedia.org/resource/Harry_Deane,http://dbpedia.org/resource/Hamilton_Deane
+1,3,L. D'Amour,http://dbpedia.org/resource/Louis_L'Amour,http://dbpedia.org/resource/Lisa_d'amour http://dbpedia.org/resource/Lisa_D'Amour http://dbpedia.org/resource/Lisa_D’Amour
+1,7,G. Kelly,http://dbpedia.org/resource/Grace_Kelly,http://dbpedia.org/resource/George_Edward_Kelly http://dbpedia.org/resource/George_Kelly_(playwright)
+1,10,S. Brennan,http://dbpedia.org/resource/Eileen_Brennan,http://dbpedia.org/resource/Stuart_Brennan
+1,11,N. Williams,http://dbpedia.org/resource/Norma_Williams,http://dbpedia.org/resource/Nigel_Williams_(author)
+1,14,A. Swift,http://dbpedia.org/resource/Al_Swift,http://dbpedia.org/resource/Allen_Swift
+1,15,S. Gupta,http://dbpedia.org/resource/Sunny_Gupta,http://dbpedia.org/resource/Sachin_Gupta
+1,19,T. Letts,http://dbpedia.org/resource/Barry_Letts,http://dbpedia.org/resource/Tracy_Lett http://dbpedia.org/resource/Tracy_Letts
+1,20,K. G. Ross,http://dbpedia.org/resource/Edmund_G._Ross,http://dbpedia.org/resource/Kenneth_G._Ross
+1,21,R. Gilman,http://dbpedia.org/resource/Dorothy_Gilman,http://dbpedia.org/resource/Rebecca_Gilman
+1,22,A. Edmondson,http://dbpedia.org/resource/Thomas_Edmondson,"http://dbpedia.org/resource/Ade_Edmonson http://dbpedia.org/resource/Ade_Edmondson http://dbpedia.org/resource/Ade_Edmundson http://dbpedia.org/resource/Adrian_Edmonson http://dbpedia.org/resource/Adrian_""Ade""_Edmondson http://dbpedia.org/resource/Adrian_Edmundson http://dbpedia.org/resource/Adrian_Edmondson"
+1,23,A. Edmondson,http://dbpedia.org/resource/Thomas_Edmondson,"http://dbpedia.org/resource/Ade_Edmonson http://dbpedia.org/resource/Ade_Edmondson http://dbpedia.org/resource/Ade_Edmundson http://dbpedia.org/resource/Adrian_Edmonson http://dbpedia.org/resource/Adrian_""Ade""_Edmondson http://dbpedia.org/resource/Adrian_Edmundson http://dbpedia.org/resource/Adrian_Edmondson"

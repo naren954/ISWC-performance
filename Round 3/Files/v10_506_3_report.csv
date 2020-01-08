@@ -1,0 +1,5 @@
+"F1: 0.96739","Precision: 0.96739","Recall: 0.96739"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"3","19","Roberto","http://dbpedia.org/resource/Roberto_Marinho","http://dbpedia.org/resource/Roberto_(horse)"
+"3","39","Alleged","http://dbpedia.org/resource/Alleged_(horse)","http://dbpedia.org/resource/Disjunctive_allegations http://dbpedia.org/resource/Alleged http://dbpedia.org/resource/Allegations_of_fact http://dbpedia.org/resource/Adduction_(law) http://dbpedia.org/resource/Allegation http://dbpedia.org/resource/Allege http://dbpedia.org/resource/Alledged http://dbpedia.org/resource/Condescendence http://dbpedia.org/resource/Allegations http://dbpedia.org/resource/Allegedly http://dbpedia.org/resource/Alledge http://dbpedia.org/resource/Allegation_of_fact http://dbpedia.org/resource/Alege http://dbpedia.org/resource/Condescendences"
+"3","92","Grey Dawn","http://dbpedia.org/resource/Grey_Dawn_II","http://dbpedia.org/resource/Grey_Dawn http://dbpedia.org/resource/Gray_Dawn"

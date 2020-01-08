@@ -1,0 +1,5 @@
+F1: 0.91176,Precision: 0.91176,Recall: 0.91176,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,15,"Isaac Williams, Jr.",http://dbpedia.org/resource/Isaac_Williams_Jr.,"http://dbpedia.org/resource/Isaac_Williams,_Jr."
+1,21,John Richards,http://dbpedia.org/resource/John_Richards_(Australian_politician),http://dbpedia.org/resource/John_Richards_(U.S._politician) http://dbpedia.org/resource/John_Richards_(US_politician)
+1,32,William Woods,http://dbpedia.org/resource/William_Burnham_Woods,http://dbpedia.org/resource/William_Woods_(congressman)

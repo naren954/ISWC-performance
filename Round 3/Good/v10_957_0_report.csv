@@ -1,0 +1,4 @@
+F1: 0.90909,Precision: 0.90909,Recall: 0.90909,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,Terezín,http://de.dbpedia.org/resource/Terezín_(Rudník),http://dbpedia.org/resource/Terezin http://dbpedia.org/resource/Theriesenstadt http://dbpedia.org/resource/Terezín
+0,7,Rajgad,http://dbpedia.org/resource/Rajgad_Fort,http://dbpedia.org/resource/Rajgad_fort http://dbpedia.org/resource/Rajgad

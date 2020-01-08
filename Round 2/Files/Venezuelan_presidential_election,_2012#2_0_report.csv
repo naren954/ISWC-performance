@@ -1,0 +1,4 @@
+"F1: 0.92000","Precision: 0.92000","Recall: 0.92000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","2","Capital District","http://dbpedia.org/resource/Bogotá","http://dbpedia.org/resource/Distrito_Federal,_Venezuela http://dbpedia.org/resource/Distrito_Federal_Federal_District,_Venezuela http://dbpedia.org/resource/Venezuelan_Federal_District http://dbpedia.org/resource/Distrito_Federal_(Venezuela) http://dbpedia.org/resource/Capital_District_(Venezuela) http://dbpedia.org/resource/Venezuelan_Capital_District"
+"0","3","Amazonas","http://dbpedia.org/resource/Amazonas_(Brazilian_state)","http://dbpedia.org/resource/Amazonas_(Venezuela) http://dbpedia.org/resource/Amazonas_(Venezuelan_State) http://dbpedia.org/resource/Amazonas_State_(Venezuela) http://dbpedia.org/resource/Amazonas_(Venezuelan_state) http://dbpedia.org/resource/Amazonas,_Venezuela http://dbpedia.org/resource/Amazonas_State,_Venezuela"

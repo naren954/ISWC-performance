@@ -1,0 +1,5 @@
+F1: 0.70000,Precision: 0.70000,Recall: 0.70000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,2,No Matter What,http://dbpedia.org/resource/No_Matter_What_(T.I._song),http://dbpedia.org/resource/No_Matter_What_(Badfinger_song)
+1,6,Everything's Alright,http://dbpedia.org/resource/Everything's_Alright_(The_Newbeats_song),http://dbpedia.org/resource/Everything's_Alright_(Jesus_Christ_Superstar_song)
+1,7,Play with Fire,http://dbpedia.org/resource/Play_with_Fire_(Hilary_Duff_song),http://dbpedia.org/resource/Play_With_Fire_(The_Rolling_Stones_song) http://dbpedia.org/resource/Play_with_Fire_(The_Rolling_Stones_song)

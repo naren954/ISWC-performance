@@ -1,0 +1,27 @@
+F1: 0.71591,Precision: 0.71591,Recall: 0.71591,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Visions,http://dbpedia.org/resource/Visions_(Stratovarius_album),http://dbpedia.org/resource/Visions_(Cliff_Richard_song)
+0,4,Virus,http://dbpedia.org/resource/Virus_100,http://dbpedia.org/resource/Virus_(Iron_Maiden_song)
+0,7,Violet,http://dbpedia.org/resource/Violet_(Seal_song),http://dbpedia.org/resource/Violet_(Hole_song)
+0,10,Vincent,http://dbpedia.org/resource/Saint_Vincent_and_the_Grenadines,http://dbpedia.org/resource/Starry_Starry_Night_(Song) http://dbpedia.org/resource/Vincent_(song)
+0,11,Village Green,http://dbpedia.org/resource/The_Village_Green_Preservation_Society,http://dbpedia.org/resource/Village_Green_(song)
+0,22,Victim of Love,http://dbpedia.org/resource/Victim_of_Love_(The_Cars_song),http://dbpedia.org/resource/Victim_of_Love_(song)
+0,24,Veronica,http://dbpedia.org/resource/Veronica_Mars,http://dbpedia.org/resource/Veronica_(song)
+0,29,Venus,http://dbpedia.org/resource/Venus_(Frankie_Avalon_song),http://dbpedia.org/resource/Venus_(Bananarama_song) http://dbpedia.org/resource/Venus_(Shocking_Blue_song) http://dbpedia.org/resource/Shizgarah http://dbpedia.org/resource/Venus_(Ruslana_song) http://dbpedia.org/resource/I'm_Your_Venus
+0,31,Vengeance,http://dbpedia.org/resource/Vengeance_(Nonpoint_album),http://dbpedia.org/resource/Vengeance_(Carly_Simon_song)
+0,41,Vanity Kills,http://dbpedia.org/resource/Vanity_Kills_(Codeine_Velvet_Club_song),http://dbpedia.org/resource/Vanity_Kills
+0,46,Valerie,http://fr.dbpedia.org/resource/Valerie_Faris,http://dbpedia.org/resource/Valerie_(The_Zutons_song) http://dbpedia.org/resource/Valerie_(The_Zutons) http://dbpedia.org/resource/Valerie_(amy_winehouse_song) http://dbpedia.org/resource/Valerie_(Zutons_song) http://dbpedia.org/resource/Valerie_(Amy_Winehouse_song) http://dbpedia.org/resource/Valerie_(Mark_Ronson_song)
+0,47,Valerie,http://fr.dbpedia.org/resource/Valerie_Faris,http://dbpedia.org/resource/Valerie_(Steve_Winwood_song)
+0,48,Valentine,http://fr.dbpedia.org/resource/Valentines,http://dbpedia.org/resource/Valentine_(T'Pau_song)
+0,51,Vacation,http://dbpedia.org/resource/Vacation_(Young_Jeezy_song),http://dbpedia.org/resource/Vacation_(The_Go-Go's_song)
+0,52,Vacation,http://dbpedia.org/resource/Vacation_(Young_Jeezy_song),http://dbpedia.org/resource/Vacation_(Connie_Francis_song)
+0,61,Us and Them,http://dbpedia.org/resource/Us_and_Them_(Shinedown_album),http://dbpedia.org/resource/Us_and_Them_(song) http://dbpedia.org/resource/The_Violent_Sequence http://dbpedia.org/resource/Us_And_Them
+0,66,Uptight,http://dbpedia.org/resource/Uptight_(Shara_Nelson_song),http://dbpedia.org/resource/Uptight_(Everything's_Alright) http://dbpedia.org/resource/Uptight_(Everything_Is_Alright)
+0,68,Upside Down,http://dbpedia.org/resource/Upside_Down_(Jack_Johnson_song),http://dbpedia.org/resource/Upside_Down_(The_Jesus_and_Mary_Chain_song)
+0,70,Upside Down,http://dbpedia.org/resource/Upside_Down_(Jack_Johnson_song),http://dbpedia.org/resource/Upside_Down_(Diana_Ross_song)
+0,80,Up Where We Belong,http://dbpedia.org/resource/Where_We_Belong_(Lostprophets_song),http://dbpedia.org/resource/Love_Lifts_Us_Up http://dbpedia.org/resource/Up_Where_We_Belong
+0,82,Up All Night,http://dbpedia.org/resource/Up_All_Night_(Blink-182_song),http://dbpedia.org/resource/Up_All_Night_(Take_That_song)
+0,83,Up All Night,http://dbpedia.org/resource/Up_All_Night_(Blink-182_song),http://dbpedia.org/resource/Up_All_Night_(Matt_Willis_song)
+0,84,Up,http://dbpedia.org/resource/Up!_(album),http://dbpedia.org/resource/Up_(The_Saturdays_song)
+0,86,Up!,http://dbpedia.org/resource/Up_&_Up,http://dbpedia.org/resource/Up!_(Shania_Twain_song)
+0,87,Up!,http://dbpedia.org/resource/Up_&_Up,http://dbpedia.org/resource/Up!_(Samantha_Jade_song)

@@ -1,0 +1,8 @@
+"F1: 0.50000","Precision: 0.50000","Recall: 0.50000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","1","Arsenal FC","http://dbpedia.org/resource/Arsenal_F.C.","http://dbpedia.org/resource/Club_Deportivo_Arsenal http://dbpedia.org/resource/C.D._Arsenal http://dbpedia.org/resource/Arsenal_F.C._(Roatan) http://dbpedia.org/resource/Arsenal_FC_(Roatan) http://dbpedia.org/resource/Arsenal_F.C._(Honduras) http://dbpedia.org/resource/Arsenal_F.C._(Roatán)"
+"0","2","AtlÃ©tico Gualala","http://dbpedia.org/resource/Atlético_Nacional","http://dbpedia.org/resource/Atlético_Gualala"
+"0","4","Deportivo Lenca","http://dbpedia.org/resource/Deportivo_Morón","http://dbpedia.org/resource/Deportivo_Lenca http://dbpedia.org/resource/C.D._Lenca"
+"0","8","Real Juventud","http://dbpedia.org/resource/Juventud_Unida_Universitario","http://dbpedia.org/resource/Real_Juventud http://dbpedia.org/resource/C.D._Real_Juventud"
+"0","9","Real Sociedad","http://dbpedia.org/resource/Racing_de_Santander","http://dbpedia.org/resource/C.D._Real_Sociedad http://dbpedia.org/resource/Club_Deportivo_Real_Sociedad"
+"0","11","UniÃ³n Ã\u0081jax","nan","http://dbpedia.org/resource/Unión_Ájax"

@@ -1,0 +1,5 @@
+"F1: 0.00000","Precision: 0.00000","Recall: 0.00000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","1","O-M175","http://dbpedia.org/resource/175_BC","http://dbpedia.org/resource/O-M175 http://dbpedia.org/resource/Haplogroup_O-M175_(Y-DNA) http://dbpedia.org/resource/Haplogroup_O-M175 http://dbpedia.org/resource/Haplogroup_O_(Y-DNA)"
+"0","5","O-P31","http://dbpedia.org/resource/31_BC","http://dbpedia.org/resource/Haplogroup_O-P31 http://dbpedia.org/resource/Haplogroup_O2_(Y-DNA) http://dbpedia.org/resource/Haplogroup_O-P31_(Y-DNA)"
+"0","6","O-M95","http://dbpedia.org/resource/Windows_95","http://dbpedia.org/resource/Haplogroup_O-M95 http://dbpedia.org/resource/Haplogroup_O-K18 http://dbpedia.org/resource/Haplogroup_O2a_(Y-DNA) http://dbpedia.org/resource/O2a http://dbpedia.org/resource/Haplogroup_O-M95_(Y-DNA)"

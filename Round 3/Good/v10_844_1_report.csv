@@ -1,0 +1,4 @@
+F1: 0.97297,Precision: 0.97297,Recall: 0.97297,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,5,Display,http://dbpedia.org/resource/Display_Stakes,http://dbpedia.org/resource/Display_(horse)
+1,31,Roberto,http://dbpedia.org/resource/Roberto_Marinho,http://dbpedia.org/resource/Roberto_(horse)

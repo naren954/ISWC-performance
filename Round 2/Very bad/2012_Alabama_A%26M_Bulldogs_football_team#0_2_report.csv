@@ -1,0 +1,6 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,3,Prairie View A&M,http://dbpedia.org/resource/Prairie_View_A&M_University,http://dbpedia.org/resource/2012_Prairie_View_A&M_Panthers_football_team
+2,5,Grambling State,http://dbpedia.org/resource/Grambling_State_University,http://dbpedia.org/resource/2012_Grambling_State_Tigers_football_team
+2,7,Alcorn State,http://dbpedia.org/resource/Alcorn_State_University,http://dbpedia.org/resource/2012_Alcorn_State_Braves_football_team
+2,10,Jackson State,"http://dbpedia.org/resource/Jackson,_Mississippi",http://dbpedia.org/resource/2012_Jackson_State_Tigers_football_team

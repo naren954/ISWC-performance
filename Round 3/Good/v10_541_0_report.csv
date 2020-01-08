@@ -1,0 +1,15 @@
+F1: 0.80303,Precision: 0.80303,Recall: 0.80303,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,R. Tucker,http://dbpedia.org/resource/Richard_Tucker,http://dbpedia.org/resource/Richard_Tucker_(actor)
+0,14,R. Hunt,http://dbpedia.org/resource/Richard_Morris_Hunt,http://dbpedia.org/resource/Richard_Hunt_(muppeteer) http://dbpedia.org/resource/Richard_Hunt_(Muppeteer) http://dbpedia.org/resource/Richard_Hunt_(puppeteer)
+0,16,R. Hart,http://dbpedia.org/resource/Lorenz_Hart,http://dbpedia.org/resource/Richard_Hart_(actor)
+0,36,R. Williams,http://dbpedia.org/resource/Ralph_Vaughan_Williams,http://dbpedia.org/resource/Rhoda_Williams
+0,39,R. Harrison,http://dbpedia.org/resource/Rich_Harrison,http://dbpedia.org/resource/Sir_Rex_Harrison http://dbpedia.org/resource/Rex_harrison http://dbpedia.org/resource/Reginald_Carey_Harrison http://dbpedia.org/resource/Rex_Harrison
+0,41,R. Allen,http://dbpedia.org/resource/Ronald_Allen,"http://dbpedia.org/resource/Rex_Allen,_Sr. http://dbpedia.org/resource/Rex_Allen"
+0,42,R. Shaw,http://dbpedia.org/resource/Robert_Shaw_(conductor),http://dbpedia.org/resource/Reta_Shaw
+0,44,R. Enríquez,http://dbpedia.org/resource/Juana_Enríquez,http://dbpedia.org/resource/René_Enríquez http://dbpedia.org/resource/René_Enriquez
+0,48,R. Enríquez,http://dbpedia.org/resource/Juana_Enríquez,http://dbpedia.org/resource/René_Enríquez http://dbpedia.org/resource/René_Enriquez
+0,53,R. White,http://dbpedia.org/resource/Ruth_White_(actress),http://dbpedia.org/resource/Redford_White
+0,56,R. Khan,http://dbpedia.org/resource/Fazlur_Rahman_Khan,http://dbpedia.org/resource/Razak_Khan http://dbpedia.org/resource/Razzak_Khan
+0,57,R. S. Jacques,http://dbpedia.org/resource/James_II_of_England,http://dbpedia.org/resource/James_Arthur_Johnson http://dbpedia.org/resource/Raymond_StJacques http://dbpedia.org/resource/Raymond_St._Jacques http://dbpedia.org/resource/Raymond_St_Jacques
+0,63,R. Jessel,http://dbpedia.org/resource/George_Jessel_(actor),http://dbpedia.org/resource/Raymond_Jessel http://dbpedia.org/resource/Ray_Jessel

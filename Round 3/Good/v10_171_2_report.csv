@@ -1,0 +1,10 @@
+F1: 0.89189,Precision: 0.89189,Recall: 0.89189,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,18,G. Zmievskaia,http://dbpedia.org/resource/G,http://dbpedia.org/resource/Galina_Zmievskaya http://dbpedia.org/resource/Galina_Zmievskaia http://dbpedia.org/resource/Galina_Smijewska
+2,36,G. Kukhar,,http://dbpedia.org/resource/Galina_Kukhar http://dbpedia.org/resource/Galina_Grzhibovskaya http://dbpedia.org/resource/Halyna_Kukhar http://dbpedia.org/resource/Galina_Kuhar
+2,50,R. Österreich,"http://dbpedia.org/resource/Frederick_III,_Holy_Roman_Emperor",http://dbpedia.org/resource/Rolf_Osterreich http://dbpedia.org/resource/Rolf_Oesterreich http://dbpedia.org/resource/Rolf_Österreich
+2,51,P. MacIntosh,http://dbpedia.org/resource/Brooke_McIntosh,http://dbpedia.org/resource/Paul_MacIntosh http://dbpedia.org/resource/Paul_McIntosh http://dbpedia.org/resource/Paul_Mcintosh
+2,55,Z. Gromova,http://dbpedia.org/resource/Mariya_Gromova,http://dbpedia.org/resource/Zhanna_Gromova
+2,60,R. Österreich,"http://dbpedia.org/resource/Frederick_III,_Holy_Roman_Emperor",http://dbpedia.org/resource/Rolf_Osterreich http://dbpedia.org/resource/Rolf_Oesterreich http://dbpedia.org/resource/Rolf_Österreich
+2,64,D. Allen,http://dbpedia.org/resource/Devon_Allen,http://dbpedia.org/resource/Damon_Allen_(figure_skater)
+2,67,D. Allen,http://dbpedia.org/resource/Devon_Allen,http://dbpedia.org/resource/Damon_Allen_(figure_skater)

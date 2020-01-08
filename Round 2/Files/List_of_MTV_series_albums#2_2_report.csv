@@ -1,0 +1,5 @@
+"F1: 0.85000","Precision: 0.85000","Recall: 0.85000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"2","7","ZoÃ©","http://dbpedia.org/resource/Zoé","http://dbpedia.org/resource/Zoé_(band)"
+"2","14","Juju","http://dbpedia.org/resource/The_Beatnuts","http://dbpedia.org/resource/Wonderful_Life_(Juju_album) http://dbpedia.org/resource/JUJU http://dbpedia.org/resource/Juju_(singer)"
+"2","19","Cro","http://dbpedia.org/resource/Cro_(musician)","http://dbpedia.org/resource/Raop_Tour http://dbpedia.org/resource/Road_to_Raop_Festival_Tour http://dbpedia.org/resource/Cro_(rapper) http://dbpedia.org/resource/Cro_Open_Air_Tour_2013 http://dbpedia.org/resource/Cro_(singer) http://dbpedia.org/resource/Pandas_Gone_Wild!_Tour http://dbpedia.org/resource/Hip_Teens_Wear_Tight_Jeans_2012_Tour"

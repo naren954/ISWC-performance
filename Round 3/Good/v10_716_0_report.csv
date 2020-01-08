@@ -1,0 +1,6 @@
+F1: 0.83333,Precision: 0.83333,Recall: 0.83333,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,12,San Quentin,http://dbpedia.org/resource/Squires_of_San_Quentin,http://dbpedia.org/resource/San_Quentin_(1937_film)
+0,15,Night and Day,http://dbpedia.org/resource/Night_and_Day_(2008_film),http://dbpedia.org/resource/Night_and_Day:_The_Cole_Porter_Story http://dbpedia.org/resource/Night_and_Day_(1946_film)
+0,16,Naughty but Nice,http://dbpedia.org/resource/Naughty_But_Nice_(1927_film),http://dbpedia.org/resource/Naughty_but_Nice_(1939_film) http://dbpedia.org/resource/Naughty_But_Nice_(1939_film)
+0,21,Hell's Kitchen,http://dbpedia.org/resource/Hell's_Kitchen_(1998_film),http://dbpedia.org/resource/Hell's_Kitchen_(1939_film)

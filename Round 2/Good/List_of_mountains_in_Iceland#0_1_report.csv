@@ -1,0 +1,4 @@
+F1: 0.77778,Precision: 0.77778,Recall: 0.77778,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,HvannadalshnjÃºkur,http://dbpedia.org/resource/Hvannadalshnúkur,http://dbpedia.org/resource/Hvannadalshnjúkur
+1,8,EyjafjallajÃ¶kull,http://fr.dbpedia.org/resource/Eyjafjöll,http://dbpedia.org/resource/Eyjafjallajökull

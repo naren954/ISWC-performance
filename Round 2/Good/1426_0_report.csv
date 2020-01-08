@@ -1,0 +1,7 @@
+F1: 0.76190,Precision: 0.76190,Recall: 0.76190,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,Y. Ying,http://dbpedia.org/resource/Jackie_Yi-Ru_Ying,http://dbpedia.org/resource/Yuan_Ying
+0,5,R. Charan,http://dbpedia.org/resource/Charan_Singh,http://dbpedia.org/resource/Ram_Charan_(hindu_guru) http://dbpedia.org/resource/Swami_Ji_Shri_Ramcharan_Ji_Maharaj http://dbpedia.org/resource/Ram_Charan_Ji_Maharaj http://dbpedia.org/resource/Swami_Ji_Shri_Ram_Charan_Ji_Maharaj http://dbpedia.org/resource/Ram_Charan_(guru) http://dbpedia.org/resource/Ram_Charan_Maharaj
+0,9,L. L. Mendoza,http://dbpedia.org/resource/Mark_L._Mendoza,http://dbpedia.org/resource/Laura_Latorre_Mendoza
+0,14,E. Manalo,http://dbpedia.org/resource/Felix_Manalo,http://dbpedia.org/resource/Erano_de_Guzman_Manalo http://dbpedia.org/resource/Eraño_G._Manalo http://dbpedia.org/resource/Eraño_Manalo http://dbpedia.org/resource/Ka_Erdy http://dbpedia.org/resource/Erano_Manalo http://dbpedia.org/resource/Erano_G._Manalo
+0,15,D. Lazaga,http://dbpedia.org/resource/Pedro_Lazaga,http://dbpedia.org/resource/Dalisay_Lazaga

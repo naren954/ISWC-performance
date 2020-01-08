@@ -1,0 +1,5 @@
+F1: 0.86364,Precision: 0.86364,Recall: 0.86364,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Arafat: A Monthly Critique of Muslim Thought,http://dbpedia.org/resource/Why_I_Am_Not_a_Muslim,http://dbpedia.org/resource/Arafat:_A_Monthly_Critique_of_Muslim_Thought
+0,9,Anales de Física,http://dbpedia.org/resource/Anales_de_Química,http://dbpedia.org/resource/Anales_de_Fisica http://dbpedia.org/resource/Anales_de_Física
+0,22,Études Phénoménologiques,http://fr.dbpedia.org/resource/Études_françaises,http://dbpedia.org/resource/Etudes_Phenomenologiques http://dbpedia.org/resource/Études_Phénoménologiques

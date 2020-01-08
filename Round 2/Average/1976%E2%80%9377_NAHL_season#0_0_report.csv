@@ -1,0 +1,4 @@
+F1: 0.66667,Precision: 0.66667,Recall: 0.66667,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,Broome Dusters,http://dbpedia.org/resource/Binghamton_Dusters,http://dbpedia.org/resource/Broome_Dusters http://dbpedia.org/resource/Binghamton_Broome_Dusters http://dbpedia.org/resource/Broome_County_Dusters
+0,4,Philadelphia Firebirds,http://dbpedia.org/resource/Philadelphia_Firebirds,http://dbpedia.org/resource/Philadelphia_Firebirds_(ice_hockey) http://dbpedia.org/resource/Syracuse_Firebirds http://dbpedia.org/resource/Philadelphia_Firebirds_(hockey)

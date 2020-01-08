@@ -1,0 +1,5 @@
+"F1: 0.72727","Precision: 0.72727","Recall: 0.72727"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","1","A. Guy","http://fr.dbpedia.org/resource/Amédée_Guy","http://dbpedia.org/resource/Allan_Guy"
+"0","5","A. Broughton","http://dbpedia.org/resource/Alfred_Broughton","http://dbpedia.org/resource/Alfred_Broughton_(Australian_politician)"
+"0","10","A. Adams","http://dbpedia.org/resource/John_Adams","http://dbpedia.org/resource/Acton_Adams http://dbpedia.org/resource/William_Acton_Blakeway_Adams"

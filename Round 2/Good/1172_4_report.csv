@@ -1,0 +1,32 @@
+F1: 0.76744,Precision: 0.76744,Recall: 0.76744,,
+Col,Row,Value,Submitted URI,Correct URI's
+4,11,"Cold, Cold Heart",http://dbpedia.org/resource/Cold_Cold_Heart_(Wet_Wet_Wet_song),"http://dbpedia.org/resource/Cold,_Cold_Heart http://dbpedia.org/resource/Cold_Cold_Heart"
+4,13,Lonely Days,http://dbpedia.org/resource/Lonely_Day,http://dbpedia.org/resource/Lonely_Days http://dbpedia.org/resource/Lonely_Days_(Bee_Gees_song)
+4,21,To Love Somebody,http://dbpedia.org/resource/Love_Somebody_(Maroon_5_song),http://dbpedia.org/resource/To_Love_Somebody_(Bee_Gees_song) http://dbpedia.org/resource/To_Love_Somebody_(song)
+4,26,Make You Feel My Love,http://dbpedia.org/resource/Do_You_Feel_My_Love,http://dbpedia.org/resource/To_Make_You_Feel_My_Love http://dbpedia.org/resource/Make_You_Feel_My_Love
+4,31,Ticket to Ride,http://dbpedia.org/resource/Ticket_to_Ride_(album),http://dbpedia.org/resource/Ticket_To_Ride http://dbpedia.org/resource/Ticket_to_ride http://dbpedia.org/resource/Ticket_to_Ride http://dbpedia.org/resource/Ticket_to_Ryde http://dbpedia.org/resource/Ticket_to_Ride_(song) http://dbpedia.org/resource/Ticket_to_Ride_(The_Beatles_song) http://dbpedia.org/resource/Ticket_to_Rye
+4,32,All You Need Is Love,http://dbpedia.org/resource/All_You_Need_Is_Love_(Die_Apokalyptischen_Reiter_album),http://dbpedia.org/resource/All_You_Need_Is_Love_(The_Beatles_song) http://dbpedia.org/resource/All_you_need_is_love http://dbpedia.org/resource/All_You_need_Is_Love http://dbpedia.org/resource/All_You_Need_is_Love http://dbpedia.org/resource/All_You_Need_Is_Love
+4,37,For Your Love,"http://dbpedia.org/resource/Your_Drums,_Your_Love",http://dbpedia.org/resource/For_Your_Love
+4,41,Tenderly,http://dbpedia.org/resource/Tender_(song),http://dbpedia.org/resource/Tenderly
+4,46,Wouldn't It Be Nice,,http://dbpedia.org/resource/Wouldn't_it_Be_Nice http://dbpedia.org/resource/Wouldn't_it_be_nice http://dbpedia.org/resource/Wouldn't_It_Be_Nice? http://dbpedia.org/resource/Wouldn't_It_Be_Nice
+4,54,Tryin' to Get to You,http://dbpedia.org/resource/Tryin'_to_Get_Over_You,http://dbpedia.org/resource/Trying_To_Get_To_You http://dbpedia.org/resource/Trying_To_Get_You http://dbpedia.org/resource/Trying_to_Get_To_You http://dbpedia.org/resource/Tryin'_To_Get_To_You http://dbpedia.org/resource/Tryin'_to_Get_to_You http://dbpedia.org/resource/Trying_to_Get_to_You
+4,56,"No, No, No",http://dbpedia.org/resource/Norwegian_language,"http://dbpedia.org/resource/No,_No,_No_(Yoko_Ono_song)"
+4,64,It's a New Day,http://dbpedia.org/resource/It's_a_New_Day_(will.i.am_song),http://dbpedia.org/resource/It's_a_New_Day_(James_Brown_song)
+4,67,Please Please Me,http://dbpedia.org/resource/Easy_Please_Me,http://dbpedia.org/resource/Please_Please_Me_(song)
+4,72,Let It Be,http://dbpedia.org/resource/Let_It_Be_Me_(The_Everly_Brothers_song),http://dbpedia.org/resource/Write_in_C http://dbpedia.org/resource/Let_It_Be_(song) http://dbpedia.org/resource/Let_it_Be_(song) http://dbpedia.org/resource/Let_It_Be_(The_Beatles_song)
+4,76,Getting Better,http://dbpedia.org/resource/Keeps_Gettin'_Better,http://dbpedia.org/resource/Getting_Better_(The_Beatles_song) http://dbpedia.org/resource/Getting_Better http://dbpedia.org/resource/Getting_Better_All_the_Time
+4,78,War,http://dbpedia.org/resource/War_(War_album),http://dbpedia.org/resource/War_(The_Temptations_song) http://dbpedia.org/resource/War_(Temptations_song) http://dbpedia.org/resource/War_(Edwin_Starr_song) http://dbpedia.org/resource/War_(Edwin_Star_song) http://dbpedia.org/resource/War_what_is_it_good_for?
+4,81,Window Up Above,http://dbpedia.org/resource/The_Window_Up_Above,http://dbpedia.org/resource/Window_Up_Above
+4,86,Don't Give Up,http://dbpedia.org/resource/I_Don't_Want_Nobody_to_Give_Me_Nothing,http://dbpedia.org/resource/Don't_Give_Up_(Peter_Gabriel_and_Kate_Bush_song) http://dbpedia.org/resource/Don't_Give_Up_(Shannon_Noll_and_Natalie_Bassingthwaighte_song)
+4,87,Alive,http://dbpedia.org/resource/Alive_(Sia_song),http://dbpedia.org/resource/Alive_(Pearl_Jam_song)
+4,89,Paperback Writer,http://dbpedia.org/resource/Paperback_Cliché,http://dbpedia.org/resource/Paperback_Writer http://dbpedia.org/resource/Paperback_Writer_(The_Beatles_song)
+4,98,How Can You Mend a Broken Heart,,http://dbpedia.org/resource/How_Can_You_Mend_a_Broken_Heart http://dbpedia.org/resource/How_Can_You_Mend_a_Broken_Heart_(version_2) http://dbpedia.org/resource/How_Can_You_Mend_a_Broken_Heart? http://dbpedia.org/resource/How_Can_You_Mend_A_Broken_Heart?
+4,99,That's Not Me,http://dbpedia.org/resource/That's_Not_Me_(Skepta_song),http://dbpedia.org/resource/That's_Not_Me http://dbpedia.org/resource/That's_Not_Me_(song) http://dbpedia.org/resource/That's_Not_Me_(The_Beach_Boys_song)
+4,102,Cowboys and Angels,http://dbpedia.org/resource/Cowboys_and_Angels_(Dustin_Lynch_song),http://dbpedia.org/resource/Cowboys_and_Angels_(George_Michael_song)
+4,104,Tomorrow Tomorrow,http://dbpedia.org/resource/For_Tomorrow,http://dbpedia.org/resource/Tomorrow_Tomorrow_(Bee_Gees) http://dbpedia.org/resource/Tomorrow_Tomorrow_(The_Bee_Gees_song) http://dbpedia.org/resource/Tomorrow_Tomorrow_(Bee_Gees_song)
+4,106,Freedom,http://dbpedia.org/resource/Freedom_(Nicki_Minaj_song),http://dbpedia.org/resource/Freedom_(Jimi_Hendrix_song)
+4,114,Miss You Nights,http://dbpedia.org/resource/Tonight/Miss_You_Nights,http://dbpedia.org/resource/Miss_You_Nights http://dbpedia.org/resource/Miss_You_Nights_(song)
+4,119,Help!,http://dbpedia.org/resource/Help!,http://dbpedia.org/resource/Help!_(song) http://dbpedia.org/resource/Help_(song) http://dbpedia.org/resource/BEATLES-HELP!
+4,124,Surf's Up,http://dbpedia.org/resource/Surf's_Up_(album),http://dbpedia.org/resource/Surf's_Up_(Beach_Boys_song) http://dbpedia.org/resource/Surf's_Up_(The_Beach_Boys_song) http://dbpedia.org/resource/Surf's_Up!_(single) http://dbpedia.org/resource/Surf's_Up_(song)
+4,127,"Cold, Cold Heart",http://dbpedia.org/resource/Cold_Cold_Heart_(Wet_Wet_Wet_song),"http://dbpedia.org/resource/Cold,_Cold_Heart http://dbpedia.org/resource/Cold_Cold_Heart"
+4,128,Mr. Grieves,,http://dbpedia.org/resource/Mr._Grieves http://dbpedia.org/resource/I_Bleed http://dbpedia.org/resource/Doolittle_pixies http://dbpedia.org/resource/Tame_(song) http://dbpedia.org/resource/No._13_Baby http://dbpedia.org/resource/There_Goes_My_Gun http://dbpedia.org/resource/La_La_Love_You http://dbpedia.org/resource/Mister_Grieves http://dbpedia.org/resource/Gouge_Away http://dbpedia.org/resource/Doolittle_(album) http://dbpedia.org/resource/Dead_(Pixies_song)

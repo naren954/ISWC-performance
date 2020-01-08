@@ -1,0 +1,4 @@
+F1: 0.92000,Precision: 0.92000,Recall: 0.92000,,
+Col,Row,Value,Submitted URI,Correct URI's
+4,7,Say You,http://dbpedia.org/resource/Say_Say_Say,http://dbpedia.org/resource/Say_You
+4,16,We Can Work It Out,http://dbpedia.org/resource/We_Can_Work_It_Out_(Sweetbox_song),http://dbpedia.org/resource/We_Can_Work_It_Out_(The_Beatles_song) http://dbpedia.org/resource/We_Can't_Work_It_Out http://dbpedia.org/resource/We_can_work_it_out http://dbpedia.org/resource/We_Can_Work_It_Out

@@ -1,0 +1,4 @@
+F1: 0.87500,Precision: 0.87500,Recall: 0.87500,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,12,Hibernian,http://dbpedia.org/resource/Dundee_United_F.C.,http://dbpedia.org/resource/Hibs_FC http://dbpedia.org/resource/Hibees http://dbpedia.org/resource/Hibernian_Football_Club http://dbpedia.org/resource/Hibernian_FC http://dbpedia.org/resource/Hibernian_F_C http://dbpedia.org/resource/Douglas_Cromb http://dbpedia.org/resource/Hibernian_F.C http://dbpedia.org/resource/Hibernian_F._C. http://dbpedia.org/resource/Hibernian_Edinburgh http://dbpedia.org/resource/Hibernian_F.C. http://dbpedia.org/resource/Hibernian_fc http://dbpedia.org/resource/Hibs_F.C.
+0,14,Queen's Park,http://dbpedia.org/resource/Queens_Park_Rangers_F.C.,http://dbpedia.org/resource/Queen's_Park_F.C.

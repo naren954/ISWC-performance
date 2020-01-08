@@ -1,0 +1,7 @@
+F1: 0.54545,Precision: 0.54545,Recall: 0.54545,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,7,1913 French Grand Prix,http://dbpedia.org/resource/1947_French_Grand_Prix,http://dbpedia.org/resource/1913_French_Grand_Prix
+0,8,1912 American Grand Prize,http://dbpedia.org/resource/1908_American_Grand_Prize,http://dbpedia.org/resource/1912_American_Grand_Prize
+0,9,1911 American Grand Prize,http://dbpedia.org/resource/1908_American_Grand_Prize,http://dbpedia.org/resource/1911_American_Grand_Prize
+0,10,1910 American Grand Prize,http://dbpedia.org/resource/1908_American_Grand_Prize,http://dbpedia.org/resource/1910_American_Grand_Prize
+0,11,1905 Gordon Bennett Cup,http://dbpedia.org/resource/1902_Gordon_Bennett_Cup,http://dbpedia.org/resource/1905_Gordon_Bennett_Cup

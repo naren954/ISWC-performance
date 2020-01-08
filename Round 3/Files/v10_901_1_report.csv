@@ -1,0 +1,4 @@
+"F1: 0.98182","Precision: 0.98182","Recall: 0.98182"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","46","Hastings","http://dbpedia.org/resource/John_Hastings,_2nd_Earl_of_Pembroke","http://dbpedia.org/resource/Hastings_(horse)"
+"1","107","Observatory","http://dbpedia.org/resource/Palomar_Observatory","http://dbpedia.org/resource/Observatory_(horse)"

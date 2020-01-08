@@ -1,0 +1,6 @@
+"F1: 0.33333","Precision: 0.33333","Recall: 0.33333"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","2","Ice Follies","http://dbpedia.org/resource/The_Ice_Follies_of_1939","http://dbpedia.org/resource/The_International_Ice_Follies http://dbpedia.org/resource/Ice_Follies"
+"0","3","Western Publishing","http://dbpedia.org/resource/Warner_Music_Group","http://dbpedia.org/resource/Western_Printing_and_Lithographing_Company http://dbpedia.org/resource/Western_Publishing http://dbpedia.org/resource/Golden_Press http://dbpedia.org/resource/Western_Printing_and_Litho_CO http://dbpedia.org/resource/Golden_Books_Family_Entertainment http://dbpedia.org/resource/Western_Pub._Co. http://dbpedia.org/resource/Western_Publishing_Company http://dbpedia.org/resource/Golden_Books"
+"0","5","Tyco Toys, Inc.","http://dbpedia.org/resource/Mattel","http://dbpedia.org/resource/Tyco_R/C http://dbpedia.org/resource/TYCO_Industries http://dbpedia.org/resource/Tyco_Toys"
+"0","7","The Learning Company","http://dbpedia.org/resource/Channel_4","http://dbpedia.org/resource/Learning_Company http://dbpedia.org/resource/Mattel_Interactive http://dbpedia.org/resource/Think_Quick! http://dbpedia.org/resource/The_Learning_Company http://dbpedia.org/resource/The_Learing_Company"

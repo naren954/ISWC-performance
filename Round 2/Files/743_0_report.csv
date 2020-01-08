@@ -1,0 +1,6 @@
+"F1: 0.91489","Precision: 0.91489","Recall: 0.91489"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","5","Charles River Bridge","http://dbpedia.org/resource/Charlestown_Bridge","http://dbpedia.org/resource/Charles_River_Bridge_(Commuter_Rail)"
+"0","7","Chain Bridge","http://dbpedia.org/resource/Chain_Bridge_(Potomac_River)","http://dbpedia.org/resource/Chain_Bridge_(Massachusetts)"
+"0","12","Castielertobel Viaduct","http://dbpedia.org/resource/Ribblehead_Viaduct","http://dbpedia.org/resource/Castielertobel_Viaduct"
+"0","15","Canton Viaduct","http://dbpedia.org/resource/Ribblehead_Viaduct","http://dbpedia.org/resource/Canton_Viaduct"

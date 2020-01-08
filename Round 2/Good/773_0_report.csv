@@ -1,0 +1,6 @@
+F1: 0.81818,Precision: 0.81818,Recall: 0.81818,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,7,Parma,http://dbpedia.org/resource/Parma,http://dbpedia.org/resource/Parma_(province) http://dbpedia.org/resource/Parma_province http://dbpedia.org/resource/Provincia_di_Parma http://dbpedia.org/resource/Province_of_Parma http://dbpedia.org/resource/Province_of_parma http://dbpedia.org/resource/Parma_Province
+0,8,Modena,http://dbpedia.org/resource/Modena,http://dbpedia.org/resource/Province_of_Modena http://dbpedia.org/resource/Province_of_modena http://dbpedia.org/resource/Modena_(province) http://dbpedia.org/resource/Modena_province http://dbpedia.org/resource/Provincia_di_Modena http://dbpedia.org/resource/Modena_Province http://dbpedia.org/resource/ISO_3166-2:IT-MO
+0,21,Cremona,http://dbpedia.org/resource/Luigi_Cremona,"http://dbpedia.org/resource/Cremona http://dbpedia.org/resource/Cremona_violins http://dbpedia.org/resource/Cremona,_Italy http://dbpedia.org/resource/Cremonese http://dbpedia.org/resource/History_of_Cremona"
+0,22,Charlottenburg,http://dbpedia.org/resource/Berlin,http://dbpedia.org/resource/Lützenburg http://dbpedia.org/resource/Charlottenburg http://dbpedia.org/resource/Berlin-Charlottenburg http://dbpedia.org/resource/Berlin_Charlottenburg

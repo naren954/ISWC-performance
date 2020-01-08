@@ -1,0 +1,4 @@
+"F1: 0.75000","Precision: 0.75000","Recall: 0.75000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","2","Peter Duncan","http://dbpedia.org/resource/Peter_Duncan_(swimmer)","http://dbpedia.org/resource/Peter_Duncan_(alpine_skier)"
+"0","9","Peter Duncan","http://dbpedia.org/resource/Peter_Duncan_(swimmer)","http://dbpedia.org/resource/Peter_Duncan_(alpine_skier)"

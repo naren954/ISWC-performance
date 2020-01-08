@@ -1,0 +1,4 @@
+F1: 0.50000,Precision: 0.50000,Recall: 0.50000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,Cariboo,http://dbpedia.org/resource/Cariboo_Regional_District,http://dbpedia.org/resource/Cariboo_(provincial_electoral_district http://dbpedia.org/resource/Cariboo_(provincial_electoral_district)
+0,3,Delta,http://dbpedia.org/resource/Mekong_Delta,http://dbpedia.org/resource/Delta_(provincial_electoral_district)

@@ -1,0 +1,4 @@
+"F1: 0.00000","Precision: 0.00000","Recall: 0.00000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","3","Pacific Warriors","http://dbpedia.org/resource/The_Ultimate_Warrior","http://dbpedia.org/resource/California_Lynx http://dbpedia.org/resource/Pacific_Warriors"
+"0","4","Las Vegas Showgirlz","http://dbpedia.org/resource/Las_Vegas","http://dbpedia.org/resource/Las_Vegas_Showgirlz"

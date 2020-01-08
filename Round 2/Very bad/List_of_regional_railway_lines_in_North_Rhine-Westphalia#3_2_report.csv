@@ -1,0 +1,6 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,1,AhrbrÃ¼ck â\u0080\u0093 Remagen â\u0080\u0093 Bonn,http://dbpedia.org/resource/Federal_city,http://dbpedia.org/resource/Ahrbrück
+2,2,Xanten â\u0080\u0093 Moers â\u0080\u0093 Duisburg,http://dbpedia.org/resource/Category:Sport_in_Duisburg,http://dbpedia.org/resource/Castra_Vetera http://dbpedia.org/resource/Colonia_Ulpia_Traiana http://dbpedia.org/resource/Colonia_Ulpia_Trajana http://dbpedia.org/resource/Marienbaum http://dbpedia.org/resource/Tricensimae http://dbpedia.org/resource/Vetera http://dbpedia.org/resource/Wardt http://dbpedia.org/resource/Battle_of_Castra_Vetera http://dbpedia.org/resource/Xanten
+2,3,Wesel â\u0080\u0093 Bocholt,http://dbpedia.org/resource/C0_and_C1_control_codes,http://dbpedia.org/resource/Wesel_railway_station http://dbpedia.org/resource/Wesel_station
+2,8,Duisburg-Ruhrort â\u0080\u0093 Oberhausen,,http://dbpedia.org/resource/Duisburg-Ruhrort_station http://dbpedia.org/resource/Duisburg-Ruhrort_railway_station

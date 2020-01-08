@@ -1,0 +1,4 @@
+"F1: 0.87500","Precision: 0.87500","Recall: 0.87500"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"3","1","T. Clash","http://dbpedia.org/resource/Kevin_Clash","http://dbpedia.org/resource/The_clash http://dbpedia.org/resource/Clash,_The http://dbpedia.org/resource/The_Clash http://dbpedia.org/resource/The_only_band_that_matters http://dbpedia.org/resource/The_Clahs http://dbpedia.org/resource/The_Clash_Reunion http://dbpedia.org/resource/THE_CLASH http://dbpedia.org/resource/The_Clash_(band)"
+"3","5","L. Dahlquist","http://dbpedia.org/resource/Michael_Dahlquist","http://dbpedia.org/resource/Lasse_Dahlquist"

@@ -1,0 +1,6 @@
+"F1: 0.96040","Precision: 0.96040","Recall: 0.96040"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","52","Miss France","http://dbpedia.org/resource/Miss_Van","http://dbpedia.org/resource/Miss_France_(horse)"
+"0","73","Mendez","http://es.dbpedia.org/resource/Oriana_Méndez","http://dbpedia.org/resource/Mendez_(horse)"
+"0","81","Maurice","http://dbpedia.org/resource/Maurice,_Elector_of_Saxony","http://dbpedia.org/resource/Maurice_(horse)"
+"0","99","Manitoba","http://dbpedia.org/resource/Richard_Manitoba","http://dbpedia.org/resource/Manitoba_(horse)"

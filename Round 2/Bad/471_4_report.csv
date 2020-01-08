@@ -1,0 +1,8 @@
+F1: 0.40000,Precision: 0.40000,Recall: 0.40000,,
+Col,Row,Value,Submitted URI,Correct URI's
+4,1,M. Gray,http://dbpedia.org/resource/Muriel_Gray,http://dbpedia.org/resource/Mike_Gray
+4,3,J. Semper,http://dbpedia.org/resource/Johannes_Semper,"http://dbpedia.org/resource/John_Semper_Jr. http://dbpedia.org/resource/John_Semper http://dbpedia.org/resource/John_Semper_Jr http://dbpedia.org/resource/John_Semper,_Jr."
+4,5,J. Hopkins,http://dbpedia.org/resource/Jerry_Hopkins_(author),http://dbpedia.org/resource/John_Hopkins_(writer)
+4,8,C. Wood,http://dbpedia.org/resource/Christopher_Wood_(writer),http://dbpedia.org/resource/Charles_Wood_(playwright)
+4,9,C. Wood,http://dbpedia.org/resource/Christopher_Wood_(writer),http://dbpedia.org/resource/Charles_Wood_(playwright)
+4,10,C. Wood,http://dbpedia.org/resource/Christopher_Wood_(writer),http://dbpedia.org/resource/Charles_Wood_(playwright)

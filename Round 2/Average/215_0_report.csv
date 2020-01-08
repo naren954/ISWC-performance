@@ -1,0 +1,4 @@
+F1: 0.66667,Precision: 0.66667,Recall: 0.66667,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,St. Stanislaus College,http://dbpedia.org/resource/St_Stanislaus'_College_(Bathurst),http://dbpedia.org/resource/St._Stanislaus_College
+0,6,Alfred High School,http://dbpedia.org/resource/Alfred_Deakin_High_School,"http://dbpedia.org/resource/Alfred_High_School,_Rajkot http://dbpedia.org/resource/Alfred_High_School_(Rajkot) http://dbpedia.org/resource/Mohandas_Gandhi_High_School"

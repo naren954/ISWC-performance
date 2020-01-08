@@ -1,0 +1,5 @@
+"F1: 0.96667","Precision: 0.96667","Recall: 0.96667"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","28","Biology","http://dbpedia.org/resource/PLOS_Biology","http://dbpedia.org/resource/Biology_(journal)"
+"0","32","Biological Conservation","http://dbpedia.org/resource/Conservation_Biology_(journal)","http://dbpedia.org/resource/Biol._Conserv. http://dbpedia.org/resource/Biological_Conservation_(journal) http://dbpedia.org/resource/Biol_Conserv"
+"0","72","Atmosphere","http://fr.dbpedia.org/resource/Atmosphère_(magazine)","http://dbpedia.org/resource/Atmosphere_(journal)"

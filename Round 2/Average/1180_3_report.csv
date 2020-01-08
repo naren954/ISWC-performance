@@ -1,0 +1,4 @@
+F1: 0.71429,Precision: 0.71429,Recall: 0.71429,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,3,"Rosston, Arkansas","http://dbpedia.org/resource/Cabot,_Arkansas","http://dbpedia.org/resource/Rosston,_Arkansas http://dbpedia.org/resource/Rosston,_AR"
+3,5,"Oakland, California","http://dbpedia.org/resource/Alameda,_California","http://dbpedia.org/resource/UN/LOCODE:USOAK http://dbpedia.org/resource/Oakland_(California) http://dbpedia.org/resource/Pill_Hill,_Oakland,_California http://dbpedia.org/resource/Oakland,_CA http://dbpedia.org/resource/Oakland,_Calif. http://dbpedia.org/resource/Oakland,_California,_USA http://dbpedia.org/resource/There_is_no_there_there http://dbpedia.org/resource/Oakland_(CA) http://dbpedia.org/resource/Oakland,_California http://dbpedia.org/resource/Oakland_(AFL) http://dbpedia.org/resource/Oakland,_ca http://dbpedia.org/resource/Oakland http://dbpedia.org/resource/Oakland_California"

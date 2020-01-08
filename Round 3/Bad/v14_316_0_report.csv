@@ -1,0 +1,98 @@
+F1: 0.33793,Precision: 0.33793,Recall: 0.33793,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,L. Connolly,http://dbpedia.org/resource/Eddie_Connolly,http://dbpedia.org/resource/Liam_Connolly_(hurler) http://dbpedia.org/resource/Liam_Connolly
+0,2,L. Stanley,http://dbpedia.org/resource/Logan_Stanley,http://dbpedia.org/resource/Larry_Stanley
+0,5,K. Carey,http://dbpedia.org/resource/Ka'Deem_Carey,http://dbpedia.org/resource/Kieran_Carey
+0,7,K. Mills,http://dbpedia.org/resource/Keith_Mills_(footballer),http://dbpedia.org/resource/Kathleen_Mills
+0,8,J. Gallagher,http://dbpedia.org/resource/James_Gallagher_(soccer),http://dbpedia.org/resource/Josie_Gallagher
+0,9,J. Lee,http://dbpedia.org/resource/Janet_Lee,http://dbpedia.org/resource/Josa_Lee
+0,11,J. O'Connor,http://dbpedia.org/resource/John_O'Connor_(Australian_cricketer),http://dbpedia.org/resource/Johnny_O'Connor_(hurler)
+0,12,J. Leahy,http://dbpedia.org/resource/John_Leahy_(footballer),http://dbpedia.org/resource/Johnny_Leahy
+0,13,J. Egan,http://dbpedia.org/resource/John_Egan_(Gaelic_footballer),http://dbpedia.org/resource/Johnny_Egan_(Offaly_Gaelic_footballer)
+0,14,J. Dunne,http://dbpedia.org/resource/Jack_Dunne_(footballer),http://dbpedia.org/resource/Johnny_Dunne
+0,17,J. Ryan,http://dbpedia.org/resource/Jimmy_Ryan_(baseball),http://dbpedia.org/resource/John_Ryan_(Galway_hurler)
+0,20,J. O'Keeffe,http://dbpedia.org/resource/John_O'Keeffe_(Gaelic_footballer),http://dbpedia.org/resource/John_O'Keeffe_(Cork_hurler)
+0,22,J. McAndrew,http://dbpedia.org/resource/Joseph_McAndrew,http://dbpedia.org/resource/John_McAndrew
+0,23,J. Mahony,http://dbpedia.org/resource/Junior_Mahony,http://dbpedia.org/resource/John_Mahony
+0,24,J. Maher,http://dbpedia.org/resource/Jimmy_Maher,http://dbpedia.org/resource/John_Maher_(hurler)
+0,25,J. Mackey,http://dbpedia.org/resource/Jerry_Mackey,http://dbpedia.org/resource/John_Mackey_(hurler)
+0,27,J. Kiely,http://dbpedia.org/resource/John_Kiely_(ice_hockey),http://dbpedia.org/resource/John_Kiely_(hurler) http://dbpedia.org/resource/John_Kiely_(Waterford_hurler)
+0,29,J. Keane,http://dbpedia.org/resource/Johnny_Keane,http://dbpedia.org/resource/John_Keane_(hurler)
+0,36,J. Holohan,http://dbpedia.org/resource/Liam_Holohan,http://dbpedia.org/resource/John_Holohan_(hurler)
+0,38,J. Hannigan,http://dbpedia.org/resource/Ernie_Hannigan,http://dbpedia.org/resource/John_Hannigan
+0,39,J. Forde,http://dbpedia.org/resource/Jason_Forde,http://dbpedia.org/resource/John_Forde
+0,41,J. E. Mullan,http://dbpedia.org/resource/Jimmy_McMullan,http://dbpedia.org/resource/John_Eddie_Mullan http://dbpedia.org/resource/John_Edward_Mullan http://dbpedia.org/resource/J.E._Mullan http://dbpedia.org/resource/John_E_Mullan http://dbpedia.org/resource/JE_Mullan http://dbpedia.org/resource/John_E._Mullan
+0,42,J. Doyle,http://dbpedia.org/resource/Jim_Doyle_(baseball),http://dbpedia.org/resource/John_Doyle_(hurler)
+0,43,J. Dowling,http://dbpedia.org/resource/Jonathan_Dowling_(American_football),http://dbpedia.org/resource/John_Dowling_(Gaelic_footballer)
+0,44,J. Coughlan,http://dbpedia.org/resource/James_Coughlan,http://dbpedia.org/resource/John_Coughlan
+0,45,J. Condon,http://dbpedia.org/resource/Jack_Condon_(footballer),http://dbpedia.org/resource/John_Condon_(hurler)
+0,46,J. Barron,http://dbpedia.org/resource/James_Barron_(footballer),http://dbpedia.org/resource/John_Barron_(hurler)
+0,50,J. Keohane,http://dbpedia.org/resource/Jimmy_Keohane,http://dbpedia.org/resource/Joe_Keohane http://dbpedia.org/resource/Joe_Keohane_(footballer)
+0,51,J. Barrett,http://dbpedia.org/resource/Jeff_Barrett,http://dbpedia.org/resource/Joe_Barrett
+0,52,J. Walsh,http://dbpedia.org/resource/Jimmy_Walsh_(outfielder),http://dbpedia.org/resource/Jimmy_Walsh_(Kilkenny_hurler)
+0,53,J. Smyth,http://dbpedia.org/resource/Joe_Smyth_(basketball),http://dbpedia.org/resource/Jimmy_Smyth_(hurler)
+0,54,J. Phelan,"http://dbpedia.org/resource/Jack_Phelan_(basketball,_born_1925)",http://dbpedia.org/resource/Jimmy_Phelan_(hurling) http://dbpedia.org/resource/Jimmy_Phelan_(hurler)
+0,55,J. Murray,http://dbpedia.org/resource/Jim_Murray_(pitcher),http://dbpedia.org/resource/Jamesie_Murray http://dbpedia.org/resource/Jimmy_Murray_(Gaelic_footballer)
+0,56,J. Kennedy,http://dbpedia.org/resource/John_Kennedy_(shortstop),http://dbpedia.org/resource/Jimmy_Kennedy_(hurler_born_1926)
+0,57,J. Humphreys,http://dbpedia.org/resource/Jonathan_Humphreys,http://dbpedia.org/resource/Jimmy_Humphreys
+0,58,J. Coffey,http://dbpedia.org/resource/Jack_Coffey_(baseball),http://dbpedia.org/resource/Jimmy_Coffey
+0,60,J. Ware,http://dbpedia.org/resource/Jeremy_Ware_(American_football),http://dbpedia.org/resource/Jim_Ware_(hurler)
+0,61,J. Walsh,http://dbpedia.org/resource/Jimmy_Walsh_(outfielder),http://dbpedia.org/resource/Jim_Walsh_(Kilkenny_hurler)
+0,62,J. Walsh,http://dbpedia.org/resource/Jimmy_Walsh_(outfielder),http://dbpedia.org/resource/Jim_Walsh_(Dublin_hurler)
+0,63,J. Stapleton,http://dbpedia.org/resource/Ernest_Stapleton,http://dbpedia.org/resource/Jim_Stapleton
+0,64,J. Ronayne,http://dbpedia.org/resource/Jim_Ronayne_(footballer),http://dbpedia.org/resource/Jim_Ronayne
+0,65,J. Prior,http://dbpedia.org/resource/Jason_Prior,http://dbpedia.org/resource/Jim_Prior_(hurler)
+0,66,J. Power,http://dbpedia.org/resource/James_Power_(ice_hockey),http://dbpedia.org/resource/Jim_Power_(hurler)
+0,68,J. Houlihan,http://dbpedia.org/resource/Mike_Houlihan,http://dbpedia.org/resource/Jim_Houlihan
+0,69,J. Hogan,http://dbpedia.org/resource/James_Hogan_(American_football),http://dbpedia.org/resource/Jim_Hogan_(hurler)
+0,70,J. Hassett,http://dbpedia.org/resource/Johnny_Hassett,http://dbpedia.org/resource/Jim_Hassett
+0,72,J. English,http://dbpedia.org/resource/Jason_English,http://dbpedia.org/resource/Jim_English
+0,73,J. Downing,http://dbpedia.org/resource/Jack_Downing_(footballer),http://dbpedia.org/resource/Jim_Downing_(Gaelic_footballer)
+0,74,J. Brosnan,http://dbpedia.org/resource/Jim_Brosnan,http://dbpedia.org/resource/Jim_Brosnan_(footballer) http://dbpedia.org/resource/Dr._Jim_Brosnan
+0,75,J. Brophy,http://dbpedia.org/resource/Joe_Brophy,http://dbpedia.org/resource/Jim_Brophy
+0,76,J. Bennett,http://dbpedia.org/resource/Joe_Bennett_(baseball),http://dbpedia.org/resource/Jim_Bennett_(hurler)
+0,77,J. Doheny,http://dbpedia.org/resource/Ed_Doheny,http://dbpedia.org/resource/Jer_Doheny
+0,78,J. Kelleher,http://dbpedia.org/resource/John_Kelleher,http://dbpedia.org/resource/Jamesy_Kelleher
+0,80,J. Keegan,http://dbpedia.org/resource/John_Keegan_(footballer),http://dbpedia.org/resource/James_Keegan
+0,81,J. Power,http://dbpedia.org/resource/James_Power_(ice_hockey),http://dbpedia.org/resource/Jackie_Power
+0,82,J. O'Connell,http://dbpedia.org/resource/John_O'Connell_(second_baseman),http://dbpedia.org/resource/Jackie_O'Connell
+0,83,J. Gilroy,http://dbpedia.org/resource/Johnny_Gilroy,http://dbpedia.org/resource/Jackie_Gilroy
+0,87,J. Keane,http://dbpedia.org/resource/Johnny_Keane,http://dbpedia.org/resource/Jack_Keane_(hurler) http://dbpedia.org/resource/Jack_Keane_(Limerick_hurler)
+0,88,J. Higgins,"http://dbpedia.org/resource/John_Higgins_(footballer,_born_1932)",http://dbpedia.org/resource/Jack_Higgins_(Gaelic_footballer)
+0,89,J. Gargan,http://dbpedia.org/resource/John_Gargan_(footballer),http://dbpedia.org/resource/Jack_Gargan_(hurler)
+0,90,J. Finlay,http://dbpedia.org/resource/Joe_Finlay,http://dbpedia.org/resource/Jack_Finlay
+0,91,J. Carroll,http://dbpedia.org/resource/John_Carroll_(hurler),http://dbpedia.org/resource/Jack_Carroll_(hurler)
+0,92,J. Anthony,http://dbpedia.org/resource/Jesse_Anthony,http://dbpedia.org/resource/Jack_Anthony_(hurler)
+0,93,H. Kelleher,http://dbpedia.org/resource/Harry_Kelleher,http://dbpedia.org/resource/Humphrey_Kelleher
+0,96,H. Daly,http://dbpedia.org/resource/Helen_Daly,http://dbpedia.org/resource/Haulie_Daly
+0,97,H. Gray,http://dbpedia.org/resource/Harrison_Gray,http://dbpedia.org/resource/Harry_Gray_(hurler)
+0,100,G. Murphy,http://dbpedia.org/resource/George_Murphy_(footballer),http://dbpedia.org/resource/Gerald_Murphy_(hurler)
+0,103,G. Howard,http://dbpedia.org/resource/Gene_Howard,http://dbpedia.org/resource/Garrett_Howard
+0,104,F. Donnelly,http://dbpedia.org/resource/Frank_Donnelly,http://dbpedia.org/resource/Frankie_Donnelly
+0,105,F. White,"http://dbpedia.org/resource/Fred_White_(footballer,_born_1916)",http://dbpedia.org/resource/Frank_White_(hurler)
+0,108,F. Malone,http://dbpedia.org/resource/Fergy_Malone,http://dbpedia.org/resource/Frank_Malone_(Gaelic_footballer)
+0,110,F. Hayes,http://dbpedia.org/resource/Frankie_Hayes,http://dbpedia.org/resource/Flor_Hayes
+0,111,E. Coughlan,http://dbpedia.org/resource/Eugene_Coughlan,http://dbpedia.org/resource/Eudie_Coughlan
+0,112,E. Philpott,http://dbpedia.org/resource/Ed_Philpott,http://dbpedia.org/resource/Eric_Philpott
+0,115,E. Doyle,http://dbpedia.org/resource/Eddie_Doyle_(American_football),http://dbpedia.org/resource/Eddie_Doyle_(hurler)
+0,116,E. Connolly,http://dbpedia.org/resource/Ed_Connolly_(catcher),http://dbpedia.org/resource/Eddie_Connolly
+0,117,E. Byrne,http://dbpedia.org/resource/Eddie_Byrne_(footballer),http://dbpedia.org/resource/Eddie_Byrne_(hurler)
+0,119,D. O'Sullivan,http://dbpedia.org/resource/Diarmuid_O'Sullivan,http://dbpedia.org/resource/Donal_O'Sullivan_(Gaelic_footballer)
+0,120,D. O'Brien,http://dbpedia.org/resource/David_O'Brien_(footballer),http://dbpedia.org/resource/Donal_O'Brien_(hurler)
+0,121,D. McCarthy,http://dbpedia.org/resource/Darren_McCarthy_(hurler),http://dbpedia.org/resource/Donal_McCarthy
+0,122,D. Enright,http://dbpedia.org/resource/Shane_Enright,http://dbpedia.org/resource/Dom_Enright
+0,123,D. Ryan,http://dbpedia.org/resource/Dave_Ryan_(American_football),http://dbpedia.org/resource/Dinny_Ryan_(hurler)
+0,124,D. Barry-Murphy,http://dbpedia.org/resource/Brian_Barry-Murphy,http://dbpedia.org/resource/Dinny_Barry-Murphy
+0,127,D. Walsh,http://dbpedia.org/resource/Dee_Walsh,"http://dbpedia.org/resource/Dick_Walsh http://dbpedia.org/resource/Dick_'Drug'_Walsh http://dbpedia.org/resource/Dick_""Drug""_Walsh"
+0,128,D. Tobin,http://dbpedia.org/resource/Des_Tobin,http://dbpedia.org/resource/Dick_Tobin
+0,129,D. Stokes,http://dbpedia.org/resource/Dennis_Stokes,http://dbpedia.org/resource/Dick_Stokes
+0,132,D. Fitzgerald,http://dbpedia.org/resource/Dick_Fitzgerald_(basketball),http://dbpedia.org/resource/Dick_Fitzgerald
+0,134,D. Doyle,http://dbpedia.org/resource/Danny_Doyle_(baseball),http://dbpedia.org/resource/Dick_Doyle_(Kilkenny_hurler)
+0,135,D. Foley,http://dbpedia.org/resource/Dave_Foley_(rugby_union),http://dbpedia.org/resource/Des_Foley http://dbpedia.org/resource/Desmond_Foley
+0,136,D. Dillon,http://dbpedia.org/resource/Daniel_Dillon_(basketball),http://dbpedia.org/resource/Des_Dillon_(hurler)
+0,137,D. Benson,http://dbpedia.org/resource/Duane_Benson,http://dbpedia.org/resource/Des_Benson
+0,138,D. O'Brien,http://dbpedia.org/resource/David_O'Brien_(footballer),http://dbpedia.org/resource/Dermot_O'Brien
+0,139,D. Walsh,http://dbpedia.org/resource/Dee_Walsh,http://dbpedia.org/resource/Denis_Walsh_(Tipperary_hurler)
+0,140,D. O'Gorman,http://dbpedia.org/resource/Dick_O'Gorman,http://dbpedia.org/resource/Denis_O'Gorman
+0,142,D. Coughlan,http://dbpedia.org/resource/Denis_Coughlan,http://dbpedia.org/resource/Denis_Coughlan_(Blackrock_hurler)
+0,143,D. Connors,http://dbpedia.org/resource/Daniel_Connors,http://dbpedia.org/resource/Denis_Connors

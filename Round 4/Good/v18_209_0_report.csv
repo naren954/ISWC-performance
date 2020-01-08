@@ -1,0 +1,7 @@
+F1: 0.79167,Precision: 0.79167,Recall: 0.79167,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,5,K. Nakamura,http://dbpedia.org/resource/Kyohei_Nakamura,http://dbpedia.org/resource/Kento_Nakamura
+0,7,K. Tanaka,http://de.dbpedia.org/resource/Kōta_Tanaka,http://dbpedia.org/resource/Keiji_Tanaka
+0,11,K. Taylor,http://dbpedia.org/resource/Kevin_Taylor_(soccer),http://dbpedia.org/resource/Katy_Taylor
+0,15,K. Johnson,http://dbpedia.org/resource/Dwayne_Johnson,http://dbpedia.org/resource/Karina_Sinding_Johnson http://dbpedia.org/resource/Karina_Johnson
+0,23,J. Pietersen,http://dbpedia.org/resource/Abigail_Pietersen,http://dbpedia.org/resource/Justin_Pietersen

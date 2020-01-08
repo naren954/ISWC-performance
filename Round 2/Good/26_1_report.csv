@@ -1,0 +1,3 @@
+F1: 0.95652,Precision: 0.95652,Recall: 0.95652,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,21,"Portland, Connecticut","http://dbpedia.org/resource/Portland,_Oregon","http://dbpedia.org/resource/Portland_(CDP),_Middlesex_County,_Connecticut http://dbpedia.org/resource/Portland_(CT) http://dbpedia.org/resource/Portland_(CDP),_Connecticut http://dbpedia.org/resource/Portland_(town),_Connecticut http://dbpedia.org/resource/Portland,_CT http://dbpedia.org/resource/Portland_(town),_Middlesex_County,_Connecticut http://dbpedia.org/resource/Portland,_Connecticut"

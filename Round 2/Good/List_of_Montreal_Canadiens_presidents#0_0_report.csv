@@ -1,0 +1,4 @@
+F1: 0.77778,Precision: 0.77778,Recall: 0.77778,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,6,Ernest Savard,http://dbpedia.org/resource/Denis_Savard,http://dbpedia.org/resource/Ernest_Savard
+0,10,Jacques Courtois,http://dbpedia.org/resource/Jacques_Courtois,http://dbpedia.org/resource/Jacques_Courtois_(ice_hockey) http://dbpedia.org/resource/Jacques_Courtois_(lawyer) http://dbpedia.org/resource/Jacques_Courtois_(Canadian) http://dbpedia.org/resource/Jacques_Courtois_(Canada)

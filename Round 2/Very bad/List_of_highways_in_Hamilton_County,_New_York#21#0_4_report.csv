@@ -1,0 +1,4 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+4,6,Benson Road in Benson,http://dbpedia.org/resource/Ulster_Transport_Authority,"http://dbpedia.org/resource/Benson,_New_York"
+4,9,Hope Falls Road in Hope,http://dbpedia.org/resource/Falls_Road_Park_(Hadley’s_Park),"http://dbpedia.org/resource/Hope,_New_York http://dbpedia.org/resource/Hope,_NY"

@@ -1,0 +1,4 @@
+"F1: 0.93103","Precision: 0.93103","Recall: 0.93103"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","1","Life","http://dbpedia.org/resource/Life_(magazine)","http://dbpedia.org/resource/Life_(journal) http://dbpedia.org/resource/Life_(scientific_journal) http://dbpedia.org/resource/Life_(Journal)"
+"0","5","Lebensmittel-Wissenschaft & Technologie","http://dbpedia.org/resource/LWT_(journal)","http://dbpedia.org/resource/LWT_-_Food_Science_and_Technology http://dbpedia.org/resource/Katrin_Hecht http://dbpedia.org/resource/LWT-_Food_Science_and_Technology http://dbpedia.org/resource/Lebensmittel-Wissenschaft_&_Technologie"

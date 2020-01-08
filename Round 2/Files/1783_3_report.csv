@@ -1,0 +1,5 @@
+"F1: 0.92683","Precision: 0.92683","Recall: 0.92683"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"3","3","A. González","http://dbpedia.org/resource/Adrián_González","http://dbpedia.org/resource/Alejandro_González_(tennis) http://dbpedia.org/resource/Alejandro_Gonzalez_(tennis)"
+"3","7","A. González","http://dbpedia.org/resource/Adrián_González","http://dbpedia.org/resource/Alejandro_González_(tennis) http://dbpedia.org/resource/Alejandro_Gonzalez_(tennis)"
+"3","26","S. Johnson","http://dbpedia.org/resource/Dwayne_Johnson","http://dbpedia.org/resource/Steve_Johnson_(tennis_player) http://dbpedia.org/resource/Steve_Johnson_(tennis)"

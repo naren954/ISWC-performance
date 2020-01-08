@@ -1,0 +1,8 @@
+"F1: 0.90909","Precision: 0.90909","Recall: 0.90909"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","10","The Singing Cowboy","http://dbpedia.org/resource/The_Singing_Cowboy_(film)","http://dbpedia.org/resource/The_Singing_Cowboy_(1936_film)"
+"1","14","The Big Show","http://dbpedia.org/resource/Coronation_Street","http://dbpedia.org/resource/The_Big_Show_(1936_film)"
+"1","22","Springtime in the Rockies","http://dbpedia.org/resource/Springtime_in_the_Rockies","http://dbpedia.org/resource/Springtime_in_the_Rockies_(1937_film)"
+"1","25","Man from Music Mountain","http://dbpedia.org/resource/The_Man_from_Music_Mountain_(1943_film)","http://dbpedia.org/resource/Man_from_Music_Mountain"
+"1","30","Mexicali Rose","http://dbpedia.org/resource/Mexicali_Rose_(1929_film)","http://dbpedia.org/resource/Mexicali_Rose_(1939_film) http://dbpedia.org/resource/Mexicali_Rose_(film)"
+"1","37","Rancho Grande","http://dbpedia.org/resource/Allá_en_el_Rancho_Grande","http://dbpedia.org/resource/Rancho_Grande_(film)"

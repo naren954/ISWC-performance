@@ -1,0 +1,40 @@
+F1: 0.44118,Precision: 0.44118,Recall: 0.44118,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,2,O. Kaneda,http://dbpedia.org/resource/Kazuya_Kaneda,http://dbpedia.org/resource/Osamu_Kaneda
+2,3,K. Sakamoto,http://dbpedia.org/resource/Kyu_Sakamoto,http://dbpedia.org/resource/坂本浩一 http://dbpedia.org/resource/Koichi_Sakamoto
+2,5,K. Sakamoto,http://dbpedia.org/resource/Kyu_Sakamoto,http://dbpedia.org/resource/坂本浩一 http://dbpedia.org/resource/Koichi_Sakamoto
+2,8,O. Kaneda,http://dbpedia.org/resource/Kazuya_Kaneda,http://dbpedia.org/resource/Osamu_Kaneda
+2,11,F. Burney,http://dbpedia.org/resource/Frances_Burney,http://dbpedia.org/resource/Fahim_Burney
+2,14,J. Stroud,http://dbpedia.org/resource/Jonathan_Stroud,http://dbpedia.org/resource/John_Stroud
+2,15,J. Johnston,http://dbpedia.org/resource/John_Johnston_(econometrician),http://dbpedia.org/resource/Jim_Johnston_(director)
+2,16,S. McNamara,http://dbpedia.org/resource/Robert_McNamara,http://dbpedia.org/resource/Sean_Patrick_Michael_McNamara http://dbpedia.org/resource/Sean_McNamara_(director)
+2,17,H. Sutherland,http://dbpedia.org/resource/Howard_Sutherland,http://dbpedia.org/resource/Hal_Sutherland
+2,18,E. Pugh,http://dbpedia.org/resource/Evan_Pugh,http://dbpedia.org/resource/William_Edward_Augustus_Pugh http://dbpedia.org/resource/Edward_Pugh
+2,21,T. Haynes,http://dbpedia.org/resource/Todd_Haynes,http://dbpedia.org/resource/Toby_Haynes
+2,23,J. Lee,http://dbpedia.org/resource/Christopher_Lee,http://dbpedia.org/resource/John_Lee_(producer) http://dbpedia.org/resource/John_Lee_(PFFR)
+2,24,D. L. Rich,http://dbpedia.org/resource/Mary_of_Burgundy,http://dbpedia.org/resource/David_Lowell_Rich
+2,25,B. Hartman,http://dbpedia.org/resource/Phil_Hartman,"http://dbpedia.org/resource/Billionfold,_Inc. http://dbpedia.org/resource/Hartman_Productions http://dbpedia.org/resource/Butch_Hartman http://dbpedia.org/resource/Billionfold_Studios"
+2,26,C. Melville,http://dbpedia.org/resource/Charles_Melville,http://dbpedia.org/resource/Craig_Melville
+2,27,P. Baldwin,http://dbpedia.org/resource/James_Baldwin,http://dbpedia.org/resource/Peter_Baldwin_(director)
+2,28,L. Ganz,http://dbpedia.org/resource/Bruno_Ganz,http://dbpedia.org/resource/Bob:_The_Musical http://dbpedia.org/resource/Lowell_Ganz
+2,32,A. Serrano,"http://dbpedia.org/resource/Francisco_Serrano,_1st_Duke_of_la_Torre",http://dbpedia.org/resource/Antonio_Serrano
+2,33,D. Mackinnon,http://dbpedia.org/resource/Dan_Mackinnon,http://dbpedia.org/resource/Douglas_Mackinnon
+2,35,S. White,http://dbpedia.org/resource/Byron_White,http://dbpedia.org/resource/Susanna_White
+2,38,M. Jabbar,http://dbpedia.org/resource/Abdul_Jabbar_(singer),http://dbpedia.org/resource/Mehreen_Jabbar
+2,40,A. V. Kumar,http://dbpedia.org/resource/V._Kumar,http://dbpedia.org/resource/Anil_V._Kumar http://dbpedia.org/resource/Anil_v_Kumar
+2,41,G. Perez,http://dbpedia.org/resource/Glória_Perez,http://dbpedia.org/resource/Gilbert_Perez
+2,44,K. Kyu-tae,http://dbpedia.org/resource/Im_Kyu-tae,http://dbpedia.org/resource/Kim_Kyu-tae
+2,46,A. Mastroianni,http://dbpedia.org/resource/Marcello_Mastroianni,http://dbpedia.org/resource/Armand_Mastroianni
+2,47,D. Stamm,http://dbpedia.org/resource/Peter_Stamm,http://dbpedia.org/resource/Daniel_Stamm
+2,52,J. Campbell,http://dbpedia.org/resource/Joseph_Campbell,http://dbpedia.org/resource/Jonny_Campbell
+2,53,M. Fletcher,http://dbpedia.org/resource/Lucille_Fletcher,http://dbpedia.org/resource/Mandie_Fletcher
+2,55,L. Lynd,http://dbpedia.org/resource/Lynd_Ward,http://dbpedia.org/resource/Laurie_Lynd
+2,58,J. Johnson,http://dbpedia.org/resource/Lyndon_B._Johnson,"http://dbpedia.org/resource/Jay_Jay_Johnson http://dbpedia.org/resource/J._J._Johnson http://dbpedia.org/resource/JJ_Johnson http://dbpedia.org/resource/J.J_Johnson http://dbpedia.org/resource/J_J_Johnson http://dbpedia.org/resource/J.J._Johnson http://dbpedia.org/resource/James_Louis_Johnson http://dbpedia.org/resource/Johnson,_J._J."
+2,59,R. Bain,http://dbpedia.org/resource/Conrad_Bain,http://dbpedia.org/resource/Ron_Bain
+2,60,H. Wise,http://dbpedia.org/resource/Ernie_Wise,http://dbpedia.org/resource/Herbert_Wise
+2,61,L. Hyung-min,http://dbpedia.org/resource/Shin_Hyung-min,http://dbpedia.org/resource/Lee_Hyeong-min http://dbpedia.org/resource/Lee_Hyung_Min http://dbpedia.org/resource/Lee_Hyung-min
+2,62,P. Lang,http://dbpedia.org/resource/Harold_Lang_(actor),http://dbpedia.org/resource/Perry_Lang
+2,63,J. Greenstein,http://dbpedia.org/resource/Linda_R._Greenstein,http://dbpedia.org/resource/Jeff_Greenstein
+2,64,T. Dow,http://de.dbpedia.org/resource/Sterling_Dow,http://dbpedia.org/resource/Tony_Dow
+2,66,P. K. Vasudev,http://dbpedia.org/resource/P._K._Nair,http://dbpedia.org/resource/P._Kumar_Vasudev
+2,68,S. Binder,http://dbpedia.org/resource/Sybille_Binder,http://dbpedia.org/resource/Steve_Binder

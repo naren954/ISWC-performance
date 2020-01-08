@@ -1,0 +1,5 @@
+F1: 0.70000,Precision: 0.70000,Recall: 0.70000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,4,Zwickau,http://dbpedia.org/resource/Audi,"http://dbpedia.org/resource/Šwikawa http://dbpedia.org/resource/Oberhohnsdorf http://dbpedia.org/resource/Zwikau http://dbpedia.org/resource/Zwickau http://dbpedia.org/resource/Zwickau,_Saxony http://dbpedia.org/resource/Oberplanitz http://dbpedia.org/resource/R-53_Zwickau http://dbpedia.org/resource/Zwickau,_Germany"
+1,6,GÃ¶rlitz,http://dbpedia.org/resource/Görlitz_station,http://dbpedia.org/resource/Görlitz
+1,7,Freiberg,http://dbpedia.org/resource/Příbor,"http://dbpedia.org/resource/Freiberg_(Sachsen) http://dbpedia.org/resource/Freiberg http://dbpedia.org/resource/Freiberg,_Saxony http://dbpedia.org/resource/Freiberg_(Saxony)"

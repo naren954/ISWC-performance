@@ -1,0 +1,5 @@
+F1: 0.62500,Precision: 0.62500,Recall: 0.62500,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,2,Kumu Kuusankoski*,http://dbpedia.org/resource/FC_Kuusankoski,http://dbpedia.org/resource/Kumu_Kuusankoski http://dbpedia.org/resource/Kuusankosken_Kumu
+1,5,MyPa Anjalankoski,http://dbpedia.org/resource/Myllykosken_Pallo_−47,http://dbpedia.org/resource/MyPa_FC http://dbpedia.org/resource/Myllykosken_Pallo_FC http://dbpedia.org/resource/MYPA http://dbpedia.org/resource/Myllykosken_Pallo-47 http://dbpedia.org/resource/Myllykosken_Pallo_-47 http://dbpedia.org/resource/MyPa_47_Anjalankoski http://dbpedia.org/resource/MyPa http://dbpedia.org/resource/Myllykosken_Pallo http://dbpedia.org/resource/MyPa_Anjalankoski http://dbpedia.org/resource/MyPa-47 http://dbpedia.org/resource/MyPa_Anjalankoski_FC http://dbpedia.org/resource/Myllykosken_Pallo_–47
+1,10,TuTo Turku,http://dbpedia.org/resource/FC_Inter_Turku,http://dbpedia.org/resource/TuTo_Turku http://dbpedia.org/resource/Turun_Toverit

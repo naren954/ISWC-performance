@@ -1,0 +1,13 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,Chicago,http://dbpedia.org/resource/Chicago,http://dbpedia.org/resource/2002–03_Chicago_Bulls_season
+1,2,Chicago,http://dbpedia.org/resource/Chicago,http://dbpedia.org/resource/2003–04_Chicago_Bulls_season
+1,3,Toronto,http://dbpedia.org/resource/Toronto,http://dbpedia.org/resource/2003–04_Toronto_Raptors_season
+1,4,Washington,http://dbpedia.org/resource/George_Washington,http://dbpedia.org/resource/2006–07_Washington_Wizards_season
+1,5,Washington,http://dbpedia.org/resource/George_Washington,http://dbpedia.org/resource/2007–08_Washington_Wizards_season
+1,6,San Antonio,http://dbpedia.org/resource/Anthony_of_Padua,http://dbpedia.org/resource/2008–09_San_Antonio_Spurs_season
+1,7,San Antonio,http://dbpedia.org/resource/Anthony_of_Padua,http://dbpedia.org/resource/2009–10_San_Antonio_Spurs_season
+1,8,New York,http://dbpedia.org/resource/New_York_(state),http://dbpedia.org/resource/2010–11_New_York_Knicks_season
+1,9,Washington,http://dbpedia.org/resource/George_Washington,http://dbpedia.org/resource/2011–12_Washington_Wizards_season
+1,10,New Orleans,http://dbpedia.org/resource/NCIS:_New_Orleans,http://dbpedia.org/resource/2012–13_New_Orleans_Hornets_season
+1,11,Miami,http://dbpedia.org/resource/CSI:_Miami,http://dbpedia.org/resource/2013–14_Miami_Heat_season

@@ -1,0 +1,6 @@
+"F1: 0.76471","Precision: 0.76471","Recall: 0.76471"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","1","J. Davis","http://dbpedia.org/resource/James_Davis_(VC)","http://dbpedia.org/resource/Jan_Davis http://dbpedia.org/resource/N._Jan_Davis http://dbpedia.org/resource/Nancy_Jan_Davis"
+"0","10","E. Collins","http://dbpedia.org/resource/Michael_Collins_(astronaut)","http://dbpedia.org/resource/Eileen_M._Collins http://dbpedia.org/resource/Colonel_Eileen_Marie_Collins http://dbpedia.org/resource/Eileen_Marie_Collins http://dbpedia.org/resource/Colonel_Eileen_Collins http://dbpedia.org/resource/Eileen_Collins"
+"0","12","D. Scott","http://dbpedia.org/resource/Dana_Scott","http://dbpedia.org/resource/David_scott http://dbpedia.org/resource/David_Scott_(astronaut) http://dbpedia.org/resource/David_R._Scott http://dbpedia.org/resource/David_Randolph_Scott http://dbpedia.org/resource/David_Scott"
+"0","16","A. S. White","http://dbpedia.org/resource/Andrew_Dickson_White","http://dbpedia.org/resource/Alvin_S._White http://dbpedia.org/resource/Alvin_White"

@@ -1,0 +1,6 @@
+F1: 0.76471,Precision: 0.76471,Recall: 0.76471,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,4,T. Forster,http://dbpedia.org/resource/Terry_Forster,http://dbpedia.org/resource/Tim_Forster
+0,10,M. Mercer,http://dbpedia.org/resource/Mike_Mercer_(basketball),http://dbpedia.org/resource/Manny_Mercer
+0,11,M. Miller,http://dbpedia.org/resource/Matt_Miller_(quarterback),http://dbpedia.org/resource/MacKenzie_Miller
+0,13,J. Sellers,http://dbpedia.org/resource/Justin_Sellers,http://dbpedia.org/resource/Johnny_Sellers http://dbpedia.org/resource/John_Sellers

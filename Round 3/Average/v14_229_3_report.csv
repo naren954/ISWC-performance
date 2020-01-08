@@ -1,0 +1,17 @@
+F1: 0.68085,Precision: 0.68085,Recall: 0.68085,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,6,La La La,http://dbpedia.org/resource/Dare_(La_La_La),http://dbpedia.org/resource/La_La_La_(Naughty_Boy_song) http://dbpedia.org/resource/La_La_La_(Sam_Smith_song)
+3,7,Glory,http://dbpedia.org/resource/Glory_(Manafest_album),http://dbpedia.org/resource/Glory_(Michael_W._Smith_album)
+3,9,The Giver,http://es.dbpedia.org/resource/The_Giver_(álbum_de_David_Knopfler),http://dbpedia.org/resource/The_Giver_(Reprise)
+3,12,On the Front Line,http://dbpedia.org/resource/On_the_Front_Line_(The_Casualties_album),http://dbpedia.org/resource/On_the_Front_Line_(Dan_Seals_album)
+3,14,Twilight Zone,http://dbpedia.org/resource/Twilight_Zone_(2_Unlimited_song),http://dbpedia.org/resource/Twilight_Zone_(Iron_Maiden_song) http://dbpedia.org/resource/Twilight_Zone_(heavy_metal_song)
+3,18,Animal,http://dbpedia.org/resource/Animalize,http://dbpedia.org/resource/Animal_(Def_Leppard_song)
+3,21,Point of No Return,http://dbpedia.org/resource/Point_of_No_Return_(Frank_Sinatra_album),http://dbpedia.org/resource/Rick_James_(Keyshia_Cole_song) http://dbpedia.org/resource/Heat_of_Passion http://dbpedia.org/resource/Believer_(Keyshia_Cole_song) http://dbpedia.org/resource/N.L.U. http://dbpedia.org/resource/New_Nu http://dbpedia.org/resource/Next_Time_(song) http://dbpedia.org/resource/Next_Time_(Won't_Give_My_Heart_Away) http://dbpedia.org/resource/Next_Time_(Won't_Give_My_Heart_Away)(Keyshia_Cole_song) http://dbpedia.org/resource/Point_of_No_Return_(Keyshia_Cole_album)
+3,22,Holding On,http://dbpedia.org/resource/Holding_On_(Steve_Winwood_song),http://dbpedia.org/resource/Holding_On_(Beverley_Craven_song)
+3,26,Mind Games,http://dbpedia.org/resource/Mind_Games_(John_Lennon_album),http://dbpedia.org/resource/Mind_Games_(song)
+3,27,Equinox,http://dbpedia.org/resource/Equinox_(Styx_album),http://dbpedia.org/resource/Equinox_(Omar_Rodriguez-Lopez_album) http://dbpedia.org/resource/Equinox_(Omar_Rodríguez-López_album)
+3,28,Love Train,http://dbpedia.org/resource/Love_Train,http://dbpedia.org/resource/Love_Train_(Wolfmother_song)
+3,32,Animal Style,http://dbpedia.org/resource/Animal_Style_(song),http://dbpedia.org/resource/Animal_Style_(Biffy_Clyro_song)
+3,35,Dimensions,http://dbpedia.org/resource/Dimensions_(Believer_album),http://dbpedia.org/resource/Dimensions_(EP) http://dbpedia.org/resource/Dimensions_(Wolfmother)
+3,41,Province,http://dbpedia.org/resource/The_Province,http://dbpedia.org/resource/Province_(song)
+3,42,Cherry Bomb,http://dbpedia.org/resource/The_Lonesome_Jubilee,"http://dbpedia.org/resource/Cherry_Bomb_(album) http://dbpedia.org/resource/Cherry_Bomb_(Tyler,_The_Creator_album)"

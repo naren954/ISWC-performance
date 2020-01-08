@@ -1,0 +1,7 @@
+F1: 0.50000,Precision: 0.50000,Recall: 0.50000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Alianza F.C.,http://dbpedia.org/resource/Alianza_F.C.,http://dbpedia.org/resource/Alianza_FC_(Panama) http://dbpedia.org/resource/Alianza_F._C._(Panama) http://dbpedia.org/resource/Alianza_F.C._(Panamá) http://dbpedia.org/resource/Alianza_F_C_(Panama) http://dbpedia.org/resource/Alianza_F.C._(Panama)
+0,2,Ã\u0081rabe Unido,http://dbpedia.org/resource/Bahne_Rabe,http://dbpedia.org/resource/CD_Árabe_Unido
+0,4,AtlÃ©tico VeragÃ¼ense,http://dbpedia.org/resource/Atlético_Nacional,http://dbpedia.org/resource/Atlético_Veragüense
+0,6,El Chorrillo F.C.,http://dbpedia.org/resource/Unión_Deportivo_Universitario,http://dbpedia.org/resource/Municipal_Chorrillo http://dbpedia.org/resource/El_Chorrillo_F.C. http://dbpedia.org/resource/Chorrillo_F.C.
+0,9,Sporting '89,http://dbpedia.org/resource/Sporting_San_Miguelito,http://dbpedia.org/resource/Sporting_'89

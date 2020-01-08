@@ -1,0 +1,5 @@
+"F1: 0.81250","Precision: 0.81250","Recall: 0.81250"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","2","USS Virginia","http://dbpedia.org/resource/USS_Virginia_(BB-13)","http://dbpedia.org/resource/USS_Virginia_(DLGN-38) http://dbpedia.org/resource/USS_Virginia_(CGN-38)"
+"0","10","USS Truxtun","http://dbpedia.org/resource/USS_Truxtun_(APD-98)","http://dbpedia.org/resource/USS_Truxtun_(DLGN-35) http://dbpedia.org/resource/Truxtun_class_cruiser http://dbpedia.org/resource/USS_Truxtun_(CGN-35) http://dbpedia.org/resource/Truxtun-class_cruiser"
+"0","12","USS Trippe","http://dbpedia.org/resource/USS_Trippe_(DD-403)","http://dbpedia.org/resource/USS_Trippe_(DE-1075) http://dbpedia.org/resource/Greek_frigate_Thraki_(F457) http://dbpedia.org/resource/Greek_frigate_Thrace_(F457) http://dbpedia.org/resource/Greek_frigate_Thraki http://dbpedia.org/resource/USS_Trippe_(FF-1075)"

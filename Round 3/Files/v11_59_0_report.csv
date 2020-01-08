@@ -1,0 +1,4 @@
+"F1: 0.93548","Precision: 0.93548","Recall: 0.93548"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","13","D. Martin","http://dbpedia.org/resource/Duane_Martin","http://dbpedia.org/resource/Dick_Martin_(comedian)"
+"0","21","C. Hardwick","http://dbpedia.org/resource/Elizabeth_Hardwick_(writer)","http://dbpedia.org/resource/Chris_Hardwick http://dbpedia.org/resource/@nerdist http://dbpedia.org/resource/Funcomfortable"

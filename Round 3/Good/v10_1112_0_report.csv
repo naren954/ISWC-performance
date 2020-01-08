@@ -1,0 +1,13 @@
+F1: 0.84058,Precision: 0.84058,Recall: 0.84058,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,5,Zooropa,http://dbpedia.org/resource/Zooropa,http://dbpedia.org/resource/Zooropa_(song)
+0,16,Your Love,http://dbpedia.org/resource/Your_Love_(Nicole_Scherzinger_song),http://dbpedia.org/resource/Your_Love_(Diddy_-_Dirty_Money_song) http://dbpedia.org/resource/Your_Love_(Diddy_–_Dirty_Money_song) http://dbpedia.org/resource/Your_Love_(Diddy-Dirty_Money_song)
+0,27,Young Blood,http://dbpedia.org/resource/Young_Blood_(The_Coasters_song),http://dbpedia.org/resource/Young_Blood_(Sophie_Ellis-Bextor_song)
+0,30,You and Me,http://dbpedia.org/resource/You_and_Me_(Lifehouse_song),http://dbpedia.org/resource/You_and_Me_(Tammy_Wynette_song)
+0,31,You and Me,http://dbpedia.org/resource/You_and_Me_(Lifehouse_song),http://dbpedia.org/resource/You_and_Me_(One_Night_Only_song)
+0,34,You Win Again,http://dbpedia.org/resource/You_Win_Again_(Bee_Gees_song),http://dbpedia.org/resource/You_Win_Again_(Hank_Williams_song)
+0,53,You Know My Name,http://dbpedia.org/resource/You_Know_My_Name,http://dbpedia.org/resource/You_Know_My_Name_(Look_Up_The_Number) http://dbpedia.org/resource/You_Know_My_Name_(Beatles_song) http://dbpedia.org/resource/Denis_O'Dell http://dbpedia.org/resource/You_Know_My_Name_(Look_up_the_Number) http://dbpedia.org/resource/You_Know_My_Name_(Look_Up_the_Number)
+0,54,You Know My Name,http://dbpedia.org/resource/You_Know_My_Name,http://dbpedia.org/resource/You_Know_My_Name_(Courtney_Love_song)
+0,58,You Got It,http://dbpedia.org/resource/You_Got_It,http://dbpedia.org/resource/The_Right_Stuff_(New_Kids_on_the_Block_song) http://dbpedia.org/resource/You_Got_It_(The_Right_Stuff)
+0,64,You Don't Have to Say You Love Me,http://dbpedia.org/resource/You_Don't_Have_to_Say_You_Love_Me_(album),http://dbpedia.org/resource/You_Don't_Have_to_Say_You_Love_Me http://dbpedia.org/resource/Io_che_non_vivo_(senza_te) http://dbpedia.org/resource/You_Don't_Have_To_Say_You_Love_Me http://dbpedia.org/resource/Yo_que_no_vivo_sin_ti
+0,68,You Can't Do That,http://dbpedia.org/resource/You_Can't_Do_Me,http://dbpedia.org/resource/You_Can't_Do_That_(The_Beatles_song) http://dbpedia.org/resource/You_Can't_Do_That

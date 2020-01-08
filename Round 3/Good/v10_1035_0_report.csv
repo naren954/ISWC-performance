@@ -1,0 +1,17 @@
+F1: 0.90323,Precision: 0.90323,Recall: 0.90323,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,5,M. d. Villota,http://dbpedia.org/resource/D._M._Schurman,http://dbpedia.org/resource/Maria_De_Villota http://dbpedia.org/resource/María_De_Villota http://dbpedia.org/resource/María_de_Villota http://dbpedia.org/resource/Maria_de_Villota
+0,17,L. Moore,http://dbpedia.org/resource/Lloyd_Moore,http://dbpedia.org/resource/Lou_Moore http://dbpedia.org/resource/Moore_(constructor)
+0,29,K. Takahashi,http://dbpedia.org/resource/Kazumi_Takahashi,http://dbpedia.org/resource/Kouki_Takahashi http://dbpedia.org/resource/Koki_Takahashi http://dbpedia.org/resource/Kohki_Takahashi
+0,34,K. Moran,http://dbpedia.org/resource/Frank_Moran,http://dbpedia.org/resource/Kelly_Moran
+0,51,J. James,http://dbpedia.org/resource/John_James_(racing_driver),http://dbpedia.org/resource/Joe_James_(racing_driver)
+0,53,J. Taylor,http://dbpedia.org/resource/John_Taylor_(racing_driver),http://dbpedia.org/resource/Jock_Taylor
+0,63,J. Clark,http://de.dbpedia.org/resource/Jack_Clark_(Radsportler),"http://dbpedia.org/resource/Jimmy_Clark http://dbpedia.org/resource/Jim_Clark_(racing_driver) http://dbpedia.org/resource/Jim_""Jimmy""_Clark http://dbpedia.org/resource/Clark,_Jim http://dbpedia.org/resource/Jim_Clark"
+0,65,J. U. Jr.,http://dbpedia.org/resource/Calvin_Coolidge,"http://dbpedia.org/resource/Jerry_Unser_Jr. http://dbpedia.org/resource/Jerry_Unser http://dbpedia.org/resource/Jerry_Unser,_Jr."
+0,69,J. Holmes,http://dbpedia.org/resource/Jim_Holmes,http://dbpedia.org/resource/John_Holmes_(driver) http://dbpedia.org/resource/Jackie_Holmes
+0,70,J. Young,http://dbpedia.org/resource/Jack_Young_(Australian_rules_footballer),http://dbpedia.org/resource/Jack_Young_(speedway_rider)
+0,89,H. Surtees,http://dbpedia.org/resource/John_Surtees,http://dbpedia.org/resource/Henry_Surtees
+0,92,H. Walter,http://dbpedia.org/resource/Horst_Walter_(footballer),http://dbpedia.org/resource/Heini_Walter
+0,113,G. Walker,http://dbpedia.org/resource/Gilbert_Walker_(cricketer),http://dbpedia.org/resource/Graham_Walker_(motorcycle_racer)
+0,121,G. Leoni,http://dbpedia.org/resource/Guido_Leoni,http://dbpedia.org/resource/Gianni_Leoni
+0,125,G. Hill,http://dbpedia.org/resource/Graham_Hill,http://dbpedia.org/resource/George_Hill_(driver) http://dbpedia.org/resource/George_Hill_(racing_driver)

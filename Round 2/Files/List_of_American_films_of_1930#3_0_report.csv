@@ -1,0 +1,6 @@
+"F1: 0.77778","Precision: 0.77778","Recall: 0.77778"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","3","The Girl Said No","http://dbpedia.org/resource/The_Girl_Said_No_(1937_film)","http://dbpedia.org/resource/The_Girl_Said_No_(1930_film)"
+"0","5","Good News","http://dbpedia.org/resource/Good_News_(1954_film)","http://dbpedia.org/resource/Good_News_(1930_film)"
+"0","10","Hold Everything","http://dbpedia.org/resource/Hold_Everything_(film)","http://dbpedia.org/resource/Hold_Everything_(1930_film)"
+"0","11","Holiday","http://dbpedia.org/resource/Holiday_(Green_Day_song)","http://dbpedia.org/resource/Holiday_(1930_film)"

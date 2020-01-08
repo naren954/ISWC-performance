@@ -1,0 +1,4 @@
+"F1: 0.33333","Precision: 0.33333","Recall: 0.33333"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","3","Guarani","http://dbpedia.org/resource/Guarani_language","http://dbpedia.org/resource/Guarani_FC http://dbpedia.org/resource/Guarani_F.C. http://dbpedia.org/resource/Guarany_F.C. http://dbpedia.org/resource/Guarani_de_Campinas http://dbpedia.org/resource/Guarani_Futebol_Clube http://dbpedia.org/resource/Guaraní_Futebol_Clube http://dbpedia.org/resource/Guarani_(Campinas)"
+"1","10","Deportivo","http://dbpedia.org/resource/Déportivo","http://dbpedia.org/resource/Deportivo_de_La_Coruña"

@@ -1,0 +1,18 @@
+F1: 0.74194,Precision: 0.74194,Recall: 0.74194,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,R. Thomas,http://dbpedia.org/resource/Robert_Thomas_(linebacker),http://dbpedia.org/resource/Russ_Thomas
+0,3,R. Smith,http://dbpedia.org/resource/Royce_Smith,http://dbpedia.org/resource/Russ_Smith_(guard)
+0,4,R. Reader,http://dbpedia.org/resource/Brian_Reader,http://dbpedia.org/resource/Russ_Reader
+0,7,R. Hathaway,http://dbpedia.org/resource/Ray_Hathaway,http://dbpedia.org/resource/Russ_Hathaway
+0,12,R. Andrews,http://dbpedia.org/resource/Ricky_Andrews,http://dbpedia.org/resource/Rupe_Andrews
+0,14,R. Singer,http://dbpedia.org/resource/Reg_Singer,http://dbpedia.org/resource/Rudy_Singer
+0,22,R. Ludwig,http://dbpedia.org/resource/Richard_Ludwig,http://dbpedia.org/resource/Rube_Ludwig
+0,25,R. Copeland,http://dbpedia.org/resource/Russell_Copeland,http://dbpedia.org/resource/Royal_Copeland_(gridiron_football) http://dbpedia.org/resource/Royal_Copeland_(Canadian_football) http://dbpedia.org/resource/Royal_Copeland_(football_player) http://dbpedia.org/resource/Royal_Copeland_(American_football)
+0,28,R. Young,http://dbpedia.org/resource/Ryan_Young,http://dbpedia.org/resource/Roy_Young_(American_football) http://dbpedia.org/resource/Roy_Young_(football)
+0,31,R. Simmons,http://dbpedia.org/resource/Ron_Simmons,http://dbpedia.org/resource/Roy_Simmons_(American_football)
+0,42,R. McCallum,http://dbpedia.org/resource/Richard_McCallum_(footballer),http://dbpedia.org/resource/Ross_McCallum
+0,43,R. Craig,http://dbpedia.org/resource/Roger_Craig_(American_football),http://dbpedia.org/resource/Ross_Craig
+0,55,R. Howell,http://it.dbpedia.org/resource/Rolando_Howell,http://dbpedia.org/resource/Ron_Howell http://dbpedia.org/resource/Ronald_Howell http://dbpedia.org/resource/Ron_Howell_(ice_hockey)
+0,57,R. Hall,http://dbpedia.org/resource/Roy_Hall_(American_football),http://dbpedia.org/resource/Ron_Hall_(tight_end)
+0,60,R. Atchison,http://dbpedia.org/resource/Tim_Atchison,http://dbpedia.org/resource/Ron_Atchison
+0,61,R. Allbright,http://dbpedia.org/resource/Nat_Allbright,http://dbpedia.org/resource/Ron_Allbright http://dbpedia.org/resource/Ron_Albright

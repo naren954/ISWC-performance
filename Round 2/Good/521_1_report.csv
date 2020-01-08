@@ -1,0 +1,5 @@
+F1: 0.95385,Precision: 0.95385,Recall: 0.95385,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,18,Roberto,http://dbpedia.org/resource/Roberto_Marinho,http://dbpedia.org/resource/Roberto_(horse)
+1,32,Nureyev,http://dbpedia.org/resource/Nureyev_(horse),http://dbpedia.org/resource/Nureeva http://dbpedia.org/resource/Nureev http://dbpedia.org/resource/Nureyev http://dbpedia.org/resource/Nuriyev http://dbpedia.org/resource/Nurieva http://dbpedia.org/resource/Nuriyeva http://dbpedia.org/resource/Nureyeva
+1,52,Pharamond II,http://dbpedia.org/resource/Pharamond_(horse),http://dbpedia.org/resource/Pharamond_II

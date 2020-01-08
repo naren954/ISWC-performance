@@ -1,0 +1,20 @@
+F1: 0.83929,Precision: 0.83929,Recall: 0.83929,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,M. Fadden,http://fr.dbpedia.org/resource/Mitch_Fadden,http://dbpedia.org/resource/Mitch_Fadden
+0,10,M. Aaltonen,http://dbpedia.org/resource/Juhamatti_Aaltonen,"http://dbpedia.org/resource/Aaltonen,_Miro http://dbpedia.org/resource/Miro_Aaltonen"
+0,14,M. Wood,http://dbpedia.org/resource/Mike_Wood_(American_football),http://dbpedia.org/resource/Miles_Wood
+0,19,M. Gajic,,http://dbpedia.org/resource/Milan_Gajic
+0,23,M. Lehtonen,"http://dbpedia.org/resource/Mikko_Lehtonen_(ice_hockey,_born_1978)","http://dbpedia.org/resource/Mikko_Lehtonen_(ice_hockey_b._1987) http://dbpedia.org/resource/Mikko_Lehtonen_(ice_hockey,_born_1987) http://dbpedia.org/resource/Mikko_Lehtonen_(ice_hockey_forward)"
+0,38,M. Stuart,http://dbpedia.org/resource/Mark_Stuart_(ice_hockey),http://dbpedia.org/resource/Mike_Stuart
+0,39,M. Smith,"http://dbpedia.org/resource/Michael_Smith_(footballer,_born_1988)","http://dbpedia.org/resource/Mike_Smith_(ice_hockey,_born_1982) http://dbpedia.org/resource/Mike_Smith_(ice_hockey_b._1982)"
+0,42,M. Morris,http://dbpedia.org/resource/Marcus_Morris_Sr.,http://dbpedia.org/resource/Mike_Morris_(hockey_player) http://dbpedia.org/resource/Mike_Morris_(ice_hockey)
+0,46,M. Lankshear,,http://dbpedia.org/resource/Mike_Lankshear
+0,49,M. Green,"http://dbpedia.org/resource/Mike_Green_(ice_hockey,_born_1979)","http://dbpedia.org/resource/Mike_Green_(ice_hockey,_born_1985) http://dbpedia.org/resource/Mike_Green_(ice_hockey_b._1985)"
+0,58,M. Johansson,"http://dbpedia.org/resource/Marcus_Johansson_(ice_hockey,_born_1990)","http://dbpedia.org/resource/Mikael_Johansson_(ice_hockey_b._1985) http://dbpedia.org/resource/Mikael_Johansson_(ice_hockey,_born_1985)"
+0,66,M. Tuomainen,http://dbpedia.org/resource/Marko_Tuomainen,http://dbpedia.org/resource/Miikka_Tuomainen
+0,71,M. Ferland,http://dbpedia.org/resource/Jonathan_Ferland,http://dbpedia.org/resource/Michael_Ferland http://dbpedia.org/resource/Micheal_Ferland
+0,86,M. Špaček,http://dbpedia.org/resource/Jaroslav_Špaček,http://dbpedia.org/resource/Michael_Spacek_(ice_hockey) http://dbpedia.org/resource/Michael_Špaček_(ice_hockey)
+0,88,M. Stone,http://dbpedia.org/resource/Mark_Stone_(ice_hockey),http://dbpedia.org/resource/Michael_Stone_(ice_hockey)
+0,90,M. Pelech,http://dbpedia.org/resource/Matt_Pelech,http://dbpedia.org/resource/Michael_Pelech http://dbpedia.org/resource/Mike_Pelech
+0,109,M. Špaček,http://dbpedia.org/resource/Jaroslav_Špaček,http://dbpedia.org/resource/Michael_Spacek_(ice_hockey) http://dbpedia.org/resource/Michael_Špaček_(ice_hockey)
+0,111,M. Tanguay,http://dbpedia.org/resource/Alex_Tanguay,http://dbpedia.org/resource/Maxime_Tanguay

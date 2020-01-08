@@ -1,0 +1,9 @@
+F1: 0.82500,Precision: 0.82500,Recall: 0.82500,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,6,Commercial Historic District,http://dbpedia.org/resource/Rogers_Commercial_Historic_District,"http://dbpedia.org/resource/Commercial_Historic_District_(Potlatch,_Idaho)"
+0,15,College Hills Historic District,http://dbpedia.org/resource/College_Hill_West_Historic_District,http://dbpedia.org/resource/College_Hills_Historic_District
+0,18,College Creek Ranger Station,http://dbpedia.org/resource/Beaver_Creek_Ranger_Station,http://dbpedia.org/resource/College_Creek_Ranger_Station
+0,26,Cleveland County Courthouse,http://dbpedia.org/resource/Cleveland_County_Courthouse_(Arkansas),"http://dbpedia.org/resource/Earl_Scruggs_Center http://dbpedia.org/resource/Cleveland_County_Courthouse_(Shelby,_North_Carolina)"
+0,29,"Clark Hall, University of Virginia",http://dbpedia.org/resource/University_Hall_(University_of_Virginia),"http://dbpedia.org/resource/Clark_Hall,_University_of_Virginia"
+0,34,City Market,"http://dbpedia.org/resource/City_Market_(Madison,_Wisconsin)","http://dbpedia.org/resource/City_Market_(Charleston,_South_Carolina) http://dbpedia.org/resource/Confederate_Museum_(Charleston) http://dbpedia.org/resource/Market_Hall_and_Sheds"
+0,35,City Hall,http://dbpedia.org/resource/New_York_City_Hall,"http://dbpedia.org/resource/City_Hall_(Cumberland,_Maryland)"

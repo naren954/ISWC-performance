@@ -1,0 +1,5 @@
+F1: 0.86364,Precision: 0.86364,Recall: 0.86364,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,4,Tom Wilson,"http://dbpedia.org/resource/Tom_Wilson_(footballer,_born_1896)",http://dbpedia.org/resource/Tom_Wilson_(2000s_catcher)
+0,14,Antonio Perez,http://dbpedia.org/resource/Antonio_Gómez_Pérez,http://dbpedia.org/resource/Antonio_Pérez_(baseball)
+0,15,Jose Flores,http://dbpedia.org/resource/José_Oscar_Flores,http://dbpedia.org/resource/Jose_Flores_(infielder) http://dbpedia.org/resource/Jose_Flores_(baseball)

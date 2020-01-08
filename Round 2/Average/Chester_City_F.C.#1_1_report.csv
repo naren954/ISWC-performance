@@ -1,0 +1,5 @@
+F1: 0.72727,Precision: 0.72727,Recall: 0.72727,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,7,Billy Stewart,http://dbpedia.org/resource/Billy_Stewart_(Australian_footballer),http://dbpedia.org/resource/Billy_Stewart_(footballer)
+1,9,Nigel Edwards,http://dbpedia.org/resource/Nigel_Edwards_(footballer),http://dbpedia.org/resource/Nigel_Edwards
+1,11,Billy Foulkes,http://dbpedia.org/resource/Bill_Foulkes,http://dbpedia.org/resource/Billy_Foulkes

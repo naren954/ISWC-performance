@@ -1,0 +1,5 @@
+F1: 0.75000,Precision: 0.75000,Recall: 0.75000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,5,Archduchess Maria Henrietta of Austria,http://dbpedia.org/resource/Marie_Henriette_of_Austria,http://dbpedia.org/resource/Archduchess_Maria_Henrietta_of_Austria http://dbpedia.org/resource/Archduchess_Maria_Henrietta_of_Austria_(1883-1956)) http://dbpedia.org/resource/Archduchess_Maria_Henrietta_of_Austria_(1883–1956) http://dbpedia.org/resource/Archduchess_Maria_Henrietta_of_Austria_(1883-1956)
+1,9,William Howard Taft IV,http://dbpedia.org/resource/William_Howard_Taft,http://dbpedia.org/resource/William_Howard_Taft_IV http://dbpedia.org/resource/William_H._Taft_IV http://dbpedia.org/resource/William_Taft_IV
+1,11,J. B. Harriman,http://dbpedia.org/resource/Florence_Jaffray_Harriman,http://dbpedia.org/resource/J._Borden_Harriman

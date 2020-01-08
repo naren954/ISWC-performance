@@ -1,0 +1,5 @@
+F1: 0.93023,Precision: 0.93023,Recall: 0.93023,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,H. Catchings,http://dbpedia.org/resource/Harvey_Catchings,http://dbpedia.org/resource/Haney_Catchings
+0,4,H. Johnson,http://dbpedia.org/resource/Herb_Johnson_(basketball),http://dbpedia.org/resource/Hammond_Johnson
+0,26,G. Lewis,http://dbpedia.org/resource/Grenville_Lewis,"http://dbpedia.org/resource/Guy_V._Lewis http://dbpedia.org/resource/Guy_Lewis http://dbpedia.org/resource/Lewis,_Guy_V. http://dbpedia.org/resource/Lewis,_Guy"

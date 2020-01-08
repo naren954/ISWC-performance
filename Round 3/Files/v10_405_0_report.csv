@@ -1,0 +1,6 @@
+"F1: 0.89744","Precision: 0.89744","Recall: 0.89744"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","2","The Scarecrow","http://dbpedia.org/resource/The_Scarecrow_(album)","http://dbpedia.org/resource/Scarecrow_(Pink_Floyd_song) http://dbpedia.org/resource/The_Scarecrow_(song) http://dbpedia.org/resource/The_Scarecrow_(Pink_Floyd_song)"
+"0","10","The Road Less Traveled","http://dbpedia.org/resource/The_Road_Less_Traveled_(George_Strait_album)","http://dbpedia.org/resource/The_Road_Less_Traveled_(Six_Feet_Deep_album)"
+"0","24","The Reason","http://dbpedia.org/resource/The_Reason_(Hoobastank_album)","http://dbpedia.org/resource/The_Reason_(Celine_Dion_song)"
+"0","25","The Real Thing","http://dbpedia.org/resource/The_Real_Thing_(Faith_No_More_album)","http://dbpedia.org/resource/The_Real_Thing_(Taj_Mahal_Album) http://dbpedia.org/resource/The_Real_Thing_(Taj_Mahal_album)"

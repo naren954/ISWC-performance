@@ -1,0 +1,5 @@
+F1: 0.25000,Precision: 0.25000,Recall: 0.25000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Assininsâ\u0080,,"http://dbpedia.org/resource/Assinins http://dbpedia.org/resource/Assinins,_Michigan"
+0,4,Keweenaw Bay Informational Designation,http://dbpedia.org/resource/L'Anse_Indian_Reservation,http://dbpedia.org/resource/Keweenaw_Bay
+0,5,Kewawenon Missionâ\u0080,http://dbpedia.org/resource/C0_and_C1_control_codes,http://dbpedia.org/resource/Kewawenon_Mission http://dbpedia.org/resource/Zeba_Indian_United_Methodist_Church

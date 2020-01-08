@@ -1,0 +1,13 @@
+F1: 0.42105,Precision: 0.42105,Recall: 0.42105,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,3,A. Yoshida,http://de.dbpedia.org/resource/Aya_Yoshida,http://dbpedia.org/resource/Akihiko_Yoshida http://dbpedia.org/resource/Yoshida_Akihiko
+3,4,A. Yoshida,http://de.dbpedia.org/resource/Aya_Yoshida,http://dbpedia.org/resource/Akihiko_Yoshida http://dbpedia.org/resource/Yoshida_Akihiko
+3,5,Y. Amano,http://dbpedia.org/resource/Yuri_Amano,http://dbpedia.org/resource/Yoshitaka_Amano http://dbpedia.org/resource/Amano_Yoshitaka http://dbpedia.org/resource/Amano_Yositaka http://dbpedia.org/resource/Yositaka_Amano
+3,6,Y. Amano,http://dbpedia.org/resource/Yuri_Amano,http://dbpedia.org/resource/Yoshitaka_Amano http://dbpedia.org/resource/Amano_Yoshitaka http://dbpedia.org/resource/Amano_Yositaka http://dbpedia.org/resource/Yositaka_Amano
+3,7,A. Adamowicz,"http://ru.dbpedia.org/resource/Адамович,_Александр_Фомич",http://dbpedia.org/resource/Adam_Adamowicz
+3,8,J. Anderson,http://dbpedia.org/resource/Joni_Mitchell,http://dbpedia.org/resource/Jason_Anderson_(artist) http://dbpedia.org/resource/Jason_D._Anderson
+3,9,L. Ahern,http://dbpedia.org/resource/Bertie_Ahern,http://dbpedia.org/resource/Larry_Ahern http://dbpedia.org/resource/Lawrence_Ahern http://dbpedia.org/resource/Laurence_Ahern
+3,16,A. Kojima,http://fr.dbpedia.org/resource/Alfredo_Kojima,http://dbpedia.org/resource/Ayami_Kojima
+3,17,A. Kojima,http://fr.dbpedia.org/resource/Alfredo_Kojima,http://dbpedia.org/resource/Ayami_Kojima
+3,18,A. Kojima,http://fr.dbpedia.org/resource/Alfredo_Kojima,http://dbpedia.org/resource/Ayami_Kojima
+3,19,A. Kojima,http://fr.dbpedia.org/resource/Alfredo_Kojima,http://dbpedia.org/resource/Ayami_Kojima

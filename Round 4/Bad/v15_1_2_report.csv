@@ -1,0 +1,6 @@
+F1: 0.33333,Precision: 0.33333,Recall: 0.33333,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,1,E. Rubinstein,http://dbpedia.org/resource/Ellis_Rubinstein,http://dbpedia.org/resource/Eva_Rubinstein
+2,3,A. L. More,http://dbpedia.org/resource/Paul_Elmer_More,"http://dbpedia.org/resource/Alice_More http://dbpedia.org/resource/Alice,_Lady_More"
+2,5,D. baronets,http://dbpedia.org/resource/Madden_baronets,http://dbpedia.org/resource/Davers_Baronets http://dbpedia.org/resource/Davers_baronets
+2,6,S. Hoadly,http://dbpedia.org/resource/Samuel_Hoadly,http://dbpedia.org/resource/Sarah_Curtis http://dbpedia.org/resource/Sarah_Hoadly

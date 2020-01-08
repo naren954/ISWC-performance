@@ -1,0 +1,5 @@
+F1: 0.89286,Precision: 0.89286,Recall: 0.89286,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,4,Cimmeria,http://dbpedia.org/resource/Conan_of_Cimmeria,http://dbpedia.org/resource/Cimmeria_(poem) http://dbpedia.org/resource/Cimmeria_(Poem)
+0,7,The Frost Giant's Daughter,http://dbpedia.org/resource/The_Frost-Giant's_Daughter,http://dbpedia.org/resource/The_Frost_Giant's_Daughter
+0,28,Two Against Tyre,http://dbpedia.org/resource/Two_Against_Nature,http://dbpedia.org/resource/Eithriall_the_Gaul http://dbpedia.org/resource/Two_Against_Tyre http://dbpedia.org/resource/Two_Against_Turan

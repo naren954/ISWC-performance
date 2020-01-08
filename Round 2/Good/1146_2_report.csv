@@ -1,0 +1,7 @@
+F1: 0.90000,Precision: 0.90000,Recall: 0.90000,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,28,Colin Thurston,http://dbpedia.org/resource/William_Thurston,http://dbpedia.org/resource/Colin_Thurston
+2,30,Hal Mooney,http://dbpedia.org/resource/Paul_Mooney_(comedian),http://dbpedia.org/resource/Hal_Mooney
+2,41,Rush,http://dbpedia.org/resource/Otis_Rush,http://dbpedia.org/resource/Rush_R40_Tour http://dbpedia.org/resource/Rush_band http://dbpedia.org/resource/RushBand http://dbpedia.org/resource/Ty&7gn http://dbpedia.org/resource/Canadian_Power_Trio http://dbpedia.org/resource/Rush_(band) http://dbpedia.org/resource/Rush_awards_list_and_RIAA_certifications
+2,44,Hal Mooney,http://dbpedia.org/resource/Paul_Mooney_(comedian),http://dbpedia.org/resource/Hal_Mooney
+2,47,Morrisound Recording,http://dbpedia.org/resource/XL_Recordings,http://dbpedia.org/resource/Morrisound_Recording http://dbpedia.org/resource/Jim_Morris_(record_producer)

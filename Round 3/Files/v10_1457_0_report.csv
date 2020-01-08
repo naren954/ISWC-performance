@@ -1,0 +1,6 @@
+"F1: 0.60000","Precision: 0.60000","Recall: 0.60000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","4","Trimeresurus sumatranus malcolmi","nan","http://dbpedia.org/resource/Trimeresurus_sumatranus_malcolmi http://dbpedia.org/resource/Mt._Kinabalu_pit_viper http://dbpedia.org/resource/Malcolm's_tree_viper http://dbpedia.org/resource/Malcolm's_pitviper http://dbpedia.org/resource/Malcolm's_pit_viper"
+"0","6","Trimeresurus popeorum sabahi","nan","http://dbpedia.org/resource/Trimeresurus_popeorum_sabahi http://dbpedia.org/resource/Trimeresurus_gramineus_sabahi http://dbpedia.org/resource/Sabah_bamboo_pitviper"
+"0","8","Trimeresurus flavomaculatus mcgregori","http://dbpedia.org/resource/Trimeresurus_flavomaculatus_halieus","http://dbpedia.org/resource/McGregor's_pit_viper http://dbpedia.org/resource/Trimeresurus_flavomaculatus_mcgregori http://dbpedia.org/resource/Trimeresurus_mcgregori http://dbpedia.org/resource/McGregor's_pitviper"
+"0","10","Trachemys dorbignyi dorbignyi","http://dbpedia.org/resource/Trachemys_dorbigni_brasiliensis","http://dbpedia.org/resource/Trachemys_dorbignyi_dorbignyi"

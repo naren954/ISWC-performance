@@ -1,0 +1,7 @@
+"F1: 0.72222","Precision: 0.72222","Recall: 0.72222"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","11","Back in the Day","http://dbpedia.org/resource/Back_to_the_Future_Part_II","http://dbpedia.org/resource/Back_in_the_Day_(2005_film)"
+"1","13","South Beach","http://dbpedia.org/resource/Kings_of_South_Beach","http://dbpedia.org/resource/South_Beach_(UPN_TV_series) http://dbpedia.org/resource/South_Beach_(Television_series) http://dbpedia.org/resource/South_Beach_(2006_TV_series) http://dbpedia.org/resource/South_Beach_(television_series)"
+"1","14","Furnace","http://dbpedia.org/resource/Furnace_(Download_album)","http://dbpedia.org/resource/Furnace_(film)"
+"1","20","LA Ink","http://dbpedia.org/resource/Ink_(film)","http://dbpedia.org/resource/LA_Ink http://dbpedia.org/resource/High_Voltage_Tattoo http://dbpedia.org/resource/L.A._Ink http://dbpedia.org/resource/Dan_Smith_(tattoo_artist)"
+"1","26","First Take","http://dbpedia.org/resource/First_Take_(talk_show)","http://dbpedia.org/resource/ESPN's_First_Take http://dbpedia.org/resource/ESPN_FirstTake http://dbpedia.org/resource/First_Take_(TV_series) http://dbpedia.org/resource/ESPN_First_Take"

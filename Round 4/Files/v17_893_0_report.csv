@@ -1,0 +1,6 @@
+"F1: 0.60000","Precision: 0.60000","Recall: 0.60000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","1","É. Parent","http://dbpedia.org/resource/Mimi_Parent","http://dbpedia.org/resource/Etienne_Parent http://dbpedia.org/resource/Étienne_Parent"
+"0","4","R. Drummond","http://dbpedia.org/resource/Roberto_Drummond","http://dbpedia.org/resource/Roscoe_Drummond"
+"0","9","L. Doxat","http://de.dbpedia.org/resource/Nicolas_Doxat","http://dbpedia.org/resource/Lewis_Doxat"
+"0","10","K. Macintyre","http://dbpedia.org/resource/Donald_Macintyre_(Indian_Army_officer)","http://dbpedia.org/resource/Kenny_Macintyre_(political_journalist) http://dbpedia.org/resource/Kenny_Macintyre_(born_1944)"

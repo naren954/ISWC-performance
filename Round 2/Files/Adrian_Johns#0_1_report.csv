@@ -1,0 +1,5 @@
+"F1: 0.66667","Precision: 0.66667","Recall: 0.66667"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","3","General Service Medal","http://dbpedia.org/resource/War_Medal_1939–1945","http://dbpedia.org/resource/General_Service_Medal_(1962)"
+"1","5","Iraq Medal","http://dbpedia.org/resource/Distinguished_Service_Cross_(United_States)","http://dbpedia.org/resource/Iraq_Medal_(United_Kingdom)"
+"1","8","Queen Elizabeth II Diamond Jubilee Medal","http://dbpedia.org/resource/Queen_Elizabeth_II_Golden_Jubilee_Medal","http://dbpedia.org/resource/Queen_Elizabeth_II_Diamond_Jubilee_medal http://dbpedia.org/resource/Queen's_Diamond_Jubilee_Medal http://dbpedia.org/resource/Queen_Elizabeth_II_Diamond_Jubilee_Medal http://dbpedia.org/resource/Queen_Elizabeth_Diamond_Jubilee_Medal"

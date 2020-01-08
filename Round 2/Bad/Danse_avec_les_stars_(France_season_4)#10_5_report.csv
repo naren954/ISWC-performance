@@ -1,0 +1,6 @@
+F1: 0.50000,Precision: 0.50000,Recall: 0.50000,,
+Col,Row,Value,Submitted URI,Correct URI's
+5,2,Video Games - The Young Professionals,http://dbpedia.org/resource/Black_Panther_(comics),http://dbpedia.org/resource/Video_Games_(song) http://dbpedia.org/resource/Video_games_(song)
+5,4,Iron - Woodkid,http://dbpedia.org/resource/Iron_Maiden,http://dbpedia.org/resource/Iron_EP http://dbpedia.org/resource/Iron_(Woodkid_song) http://dbpedia.org/resource/Iron_(EP)
+5,11,Wrecking Ball - Miley Cyrus,http://dbpedia.org/resource/Miley_Cyrus,http://dbpedia.org/resource/I_Came_in_Like_a_Wrecking_Ball http://dbpedia.org/resource/Alonzo_Holt http://dbpedia.org/resource/Wrecking_ball_(miley_cyrus) http://dbpedia.org/resource/Kenneth_Goetz http://dbpedia.org/resource/Wrecking_ball_(Miley_Cyrus_song) http://dbpedia.org/resource/Luciano_Eduardo_Grimaldi http://dbpedia.org/resource/Wrecking_Ball_(Miley_Cyrus_song)
+5,13,Wannabe - Spice Girls,http://dbpedia.org/resource/Wannabe,http://dbpedia.org/resource/Zigazig-ha http://dbpedia.org/resource/Zig-a-zig-ahhh http://dbpedia.org/resource/Bumper_To_Bumper_(song) http://dbpedia.org/resource/Wannabe_(song)

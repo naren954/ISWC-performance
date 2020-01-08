@@ -1,0 +1,5 @@
+F1: 0.57143,Precision: 0.57143,Recall: 0.57143,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,Jana Bieger (USA),http://dbpedia.org/resource/Jana_Brejchová,http://dbpedia.org/resource/Jana_Bieger
+1,4,Lauren Mitchell (AUS),http://dbpedia.org/resource/Henry_L._Mitchell,http://dbpedia.org/resource/Lauren_Mitchell
+1,7,Ludmila Ezhova (RUS),http://dbpedia.org/resource/Ludmila_Mikaël,http://dbpedia.org/resource/Liudmila_Grebenkova_Ezhova http://dbpedia.org/resource/Ludmila_Grebenkova_Ezhova http://dbpedia.org/resource/Liudmila_Ejova http://dbpedia.org/resource/Ludmila_Grebenkova_Ejova http://dbpedia.org/resource/Liudmila_Grebenkova_Ejova http://dbpedia.org/resource/Ludmila_Ezhova http://dbpedia.org/resource/Liudmila_Ezhova http://dbpedia.org/resource/Ludmila_Ejova

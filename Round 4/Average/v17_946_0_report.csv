@@ -1,0 +1,44 @@
+F1: 0.50588,Precision: 0.50588,Recall: 0.50588,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,5,French submarine Daphné,http://dbpedia.org/resource/French_submarine_Minerve_(S647),http://dbpedia.org/resource/French_submarine_Daphné http://dbpedia.org/resource/French_submarine_Daphné_(1915)
+0,7,French submarine Casabianca,http://dbpedia.org/resource/French_submarine_Casabianca_(1935),http://dbpedia.org/resource/Bourgonge_(S603) http://dbpedia.org/resource/Bourgogne_(French_submarine) http://dbpedia.org/resource/French_submarine_Bourgogne_(S603) http://dbpedia.org/resource/Casabianca_(S603) http://dbpedia.org/resource/French_submarine_Bourgogne http://dbpedia.org/resource/FS_Casabianca http://dbpedia.org/resource/French_submarine_Casabianca_(S603) http://dbpedia.org/resource/Casabianca_(S_603) http://dbpedia.org/resource/French_submarine_Bourgogne_(Q267) http://dbpedia.org/resource/Bourgogne_(submarine)
+0,12,French ship Mistral,http://dbpedia.org/resource/French_destroyer_Mistral,http://dbpedia.org/resource/FS_Mistral http://dbpedia.org/resource/French_command_ship_Mistral http://dbpedia.org/resource/Mistral_(L9013) http://dbpedia.org/resource/French_ship_Mistral_(L9013) http://dbpedia.org/resource/FS_Mistral_(L9013)
+0,16,French ironclad Victorieuse,http://dbpedia.org/resource/French_ironclad_Magenta,http://dbpedia.org/resource/French_ironclad_Victorieuse
+0,18,French ironclad Redoutable,http://dbpedia.org/resource/French_ironclad_Montcalm,http://dbpedia.org/resource/French_ship_Redoutable_(1876) http://dbpedia.org/resource/French_battleship_Redoutable_(1876) http://dbpedia.org/resource/French_ironclad_Redoutable http://dbpedia.org/resource/Redoutable_(1876)
+0,19,French ironclad Océan,http://dbpedia.org/resource/French_ironclad_Magenta,http://dbpedia.org/resource/French_ship_Ocean_(1870) http://dbpedia.org/resource/French_ship_Océan_(1870) http://dbpedia.org/resource/French_ironclad_Ocean http://dbpedia.org/resource/French_ironclad_Océan
+0,22,French ironclad La Galissonnière,http://dbpedia.org/resource/French_cruiser_La_Galissonnière,http://dbpedia.org/resource/French_ironclad_La_Galissonnière http://dbpedia.org/resource/French_ironclad_La_Galissonniere
+0,23,French ironclad Formidable,http://dbpedia.org/resource/French_ironclad_Armide,http://dbpedia.org/resource/French_battleship_Formidable http://dbpedia.org/resource/French_battleship_Formidable_(1885) http://dbpedia.org/resource/French_ironclad_Formidable http://dbpedia.org/resource/Formidable_(battleship)
+0,24,French ironclad Couronne,http://dbpedia.org/resource/French_ironclad_Montcalm,http://dbpedia.org/resource/Couronne_(1861) http://dbpedia.org/resource/French_ironclad_Couronne http://dbpedia.org/resource/French_ironclad_Couronne_(1861)
+0,30,French frigate La Motte-Picquet,http://dbpedia.org/resource/French_cruiser_Lamotte-Picquet,http://dbpedia.org/resource/French_frigate_Lamotte-Picquet_(D645) http://dbpedia.org/resource/FS_La_Motte_Picquet http://dbpedia.org/resource/FS_La_Motte-Picquet http://dbpedia.org/resource/French_frigate_La_Motte-Picquet_(D645) http://dbpedia.org/resource/Lamotte-Picquet_(D_645) http://dbpedia.org/resource/Lamotte-Picquet_(D645) http://dbpedia.org/resource/French_frigate_La_Motte-Picquet
+0,32,French frigate Georges Leygues,http://dbpedia.org/resource/French_cruiser_Georges_Leygues,http://dbpedia.org/resource/FS_Georges_Leygues http://dbpedia.org/resource/Georges_Leygues_(D640) http://dbpedia.org/resource/French_frigate_Georges_Leygues http://dbpedia.org/resource/French_frigate_Georges_Leygues_(D640)
+0,35,French destroyer Épée,http://dbpedia.org/resource/French_destroyer_Épée_(1900),http://dbpedia.org/resource/French_destroyer_Épée
+0,36,French destroyer Typhon,http://dbpedia.org/resource/French_destroyer_Panthère,http://dbpedia.org/resource/French_destroyer_Typhon
+0,37,French destroyer Tramontane,http://dbpedia.org/resource/French_destroyer_Panthère,http://dbpedia.org/resource/French_destroyer_Tramontane
+0,38,French destroyer Tornade,http://dbpedia.org/resource/French_destroyer_Panthère,http://dbpedia.org/resource/French_destroyer_Tornade
+0,40,French destroyer Tempête,http://dbpedia.org/resource/French_destroyer_Panthère,http://dbpedia.org/resource/French_destroyer_Tempête
+0,42,French destroyer Siroco,http://dbpedia.org/resource/French_destroyer_Siroco_(1939),http://dbpedia.org/resource/French_destroyer_Siroco http://dbpedia.org/resource/French_destroyer_Sirocco
+0,43,French destroyer Simoun,http://dbpedia.org/resource/French_destroyer_Panthère,http://dbpedia.org/resource/French_destroyer_Simoun
+0,44,French destroyer Rapière,http://dbpedia.org/resource/French_destroyer_Panthère,http://dbpedia.org/resource/French_destroyer_Rapière
+0,51,French destroyer Léopard,http://dbpedia.org/resource/French_destroyer_Panthère,http://dbpedia.org/resource/French_destroyer_Léopard http://dbpedia.org/resource/French_destroyer_Leopard
+0,52,French destroyer Lynx,http://dbpedia.org/resource/French_destroyer_Panthère,http://dbpedia.org/resource/French_destroyer_Lynx
+0,53,French destroyer Le Flibustier,http://dbpedia.org/resource/French_destroyer_Le_Malin,http://dbpedia.org/resource/French_destroyer_Le_Flibustier
+0,54,French destroyer Lansquenet,http://dbpedia.org/resource/French_destroyer_Lansquenet_(1909),http://dbpedia.org/resource/French_destroyer_Lansequenet http://dbpedia.org/resource/French_destroyer_Lansquenet
+0,55,French destroyer L'Adroit,http://dbpedia.org/resource/French_destroyer_Panthère,http://dbpedia.org/resource/French_destroyer_L'Adroit
+0,56,French destroyer Léopard,http://dbpedia.org/resource/French_destroyer_Panthère,http://dbpedia.org/resource/French_destroyer_Léopard http://dbpedia.org/resource/French_destroyer_Leopard
+0,58,French destroyer Forbin,http://dbpedia.org/resource/French_destroyer_Algérien,http://dbpedia.org/resource/French_destroyer_Forbin
+0,59,French destroyer Fleuret,http://dbpedia.org/resource/French_destroyer_Fleuret_(1907),http://dbpedia.org/resource/French_destroyer_Fleuret
+0,62,French destroyer Cyclone,http://dbpedia.org/resource/French_destroyer_Panthère,http://dbpedia.org/resource/French_destroyer_Cyclone
+0,63,French destroyer Casque,http://dbpedia.org/resource/French_destroyer_Panthère,http://dbpedia.org/resource/French_destroyer_Casque
+0,64,French destroyer Boulonnais,http://dbpedia.org/resource/French_destroyer_Panthère,http://dbpedia.org/resource/French_destroyer_Boulonnais
+0,65,French destroyer Bordelais,http://dbpedia.org/resource/French_destroyer_Panthère,http://dbpedia.org/resource/French_destroyer_Bordelais
+0,66,French destroyer Basque,http://dbpedia.org/resource/French_destroyer_Panthère,http://dbpedia.org/resource/French_destroyer_Basque
+0,67,French destroyer Aconit,http://dbpedia.org/resource/French_destroyer_Panthère,http://dbpedia.org/resource/French_destroyer_Aconit_(F65)
+0,68,French destroyer Épée,http://dbpedia.org/resource/French_destroyer_Épée_(1900),http://dbpedia.org/resource/French_destroyer_Épée
+0,70,French cruiser Montcalm,http://dbpedia.org/resource/French_cruiser_Montcalm,http://dbpedia.org/resource/French_armoured_cruiser_Montcalm http://dbpedia.org/resource/French_armoured_cruiser_montcalm http://dbpedia.org/resource/French_cruiser_Montcalm_(1900) http://dbpedia.org/resource/French_cruiser_Trémintin
+0,72,French cruiser Gloire,http://dbpedia.org/resource/French_cruiser_Gloire_(1935),http://dbpedia.org/resource/French_armoured_cruiser_Gloire http://dbpedia.org/resource/French_cruiser_Gloire_(1900) http://dbpedia.org/resource/French_armoured_cruiser_gloire
+0,74,French cruiser Destrées,http://dbpedia.org/resource/French_cruiser_Primauguet_(1924),http://dbpedia.org/resource/French_cruiser_D'Estrées http://dbpedia.org/resource/French_cruiser_Destrees http://dbpedia.org/resource/French_cruiser_Destrées
+0,76,French cruiser Châteaurenault,http://dbpedia.org/resource/French_cruiser_Primauguet_(1924),http://dbpedia.org/resource/French_protected_cruiser_Châteaurenault http://dbpedia.org/resource/French_protected_cruiser_Chateaurenault http://dbpedia.org/resource/French_cruiser_Châteaurenault_(1898) http://dbpedia.org/resource/French_cruiser_Châteaurenault
+0,77,French cruiser Amiral Aube,http://dbpedia.org/resource/French_cruiser_Amiral_Charner,http://dbpedia.org/resource/French_cruiser_Amiral_Aube
+0,80,French battleship Mirabeau,http://dbpedia.org/resource/French_battleship_République,http://dbpedia.org/resource/French_battleship_Mirabeau http://dbpedia.org/resource/French_battleship_Mirabeau_(1909)
+0,83,French battleship France,http://dbpedia.org/resource/French_battleship_Bretagne,http://dbpedia.org/resource/French_battleship_France http://dbpedia.org/resource/French_battleship_france
+0,84,French battleship Diderot,http://dbpedia.org/resource/French_battleship_Lorraine,http://dbpedia.org/resource/French_battleship_Diderot http://dbpedia.org/resource/French_battleship_Diderot_(1909)

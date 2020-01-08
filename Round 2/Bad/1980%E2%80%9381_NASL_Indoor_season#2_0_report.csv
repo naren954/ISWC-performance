@@ -1,0 +1,4 @@
+F1: 0.50000,Precision: 0.50000,Recall: 0.50000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,Tulsa Roughnecks,http://dbpedia.org/resource/Tulsa_Roughnecks_(1978–84),http://dbpedia.org/resource/Tulsa_Roughnecks_(1978–1984)
+0,4,San Diego Sockers,http://dbpedia.org/resource/San_Diego_Sockers_(1978–96),http://dbpedia.org/resource/San_Diego_Sockers_(1978–1996)

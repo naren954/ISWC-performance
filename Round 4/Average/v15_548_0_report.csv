@@ -1,0 +1,32 @@
+F1: 0.72477,Precision: 0.72477,Recall: 0.72477,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Yuri Olefirenko,http://dbpedia.org/resource/Ukrainian_ship_Yuri_Olefirenko,http://dbpedia.org/resource/Yuri_Olefirenko_(U401)
+0,2,Yugoslav torpedo boat T3,http://dbpedia.org/resource/Yugoslav_torpedo_boat_T1,http://dbpedia.org/resource/Yugoslav_torpedo_boat_T3 http://dbpedia.org/resource/German_torpedo_boat_TA_48 http://dbpedia.org/resource/Italian_torpedo_boat_T3 http://dbpedia.org/resource/TA48 http://dbpedia.org/resource/Yugoslav_torpedo_boat_TA48
+0,4,Voima,http://dbpedia.org/resource/Voima_(1924_icebreaker),http://dbpedia.org/resource/Voima_(1952_icebreaker) http://dbpedia.org/resource/IMO_5383158 http://dbpedia.org/resource/Finnish_icebreaker_Voima_(1952)
+0,6,United States lightship Nantucket II,http://dbpedia.org/resource/United_States_lightship_Nantucket_(LV-112),http://dbpedia.org/resource/United_States_Lightship_WLV-613 http://dbpedia.org/resource/United_States_lightship_(WLV-613) http://dbpedia.org/resource/United_States_lightship_Nantucket_II_(WLV-613) http://dbpedia.org/resource/United_States_Lightship_(WLV-613)
+0,7,Ukrainian frigate Hetman Sahaydachniy,http://dbpedia.org/resource/Ukrainian_frigate_Hetman_Sahaydachniy,http://dbpedia.org/resource/Hetman_Sahaydachniy_(U130) http://dbpedia.org/resource/Ukrainian_frigate_Hetman_Sahaydachniy_(U130) http://dbpedia.org/resource/Soviet_frigate_Kirov
+0,23,USS Yorktown,http://dbpedia.org/resource/USS_Yorktown_(CV-5),http://dbpedia.org/resource/USS_Yorktown_(PG-1) http://dbpedia.org/resource/USS_Yorktown_(1888)
+0,25,USS Yorktown,http://dbpedia.org/resource/USS_Yorktown_(CV-5),http://dbpedia.org/resource/USS_Yorktown_(1839)
+0,26,USS York County,http://dbpedia.org/resource/USS_Kent_County_(LST-855),http://dbpedia.org/resource/Italian_landing_ship_Nave_Caorle_(L9891) http://dbpedia.org/resource/Italian_landing_ship_Caorle_(L9891) http://dbpedia.org/resource/USS_York_County_(LST-1175) http://dbpedia.org/resource/Uss_york_county http://dbpedia.org/resource/USS_York_County http://dbpedia.org/resource/USS_LST-1175
+0,30,USS Yellowstone,http://dbpedia.org/resource/USS_Yellowstone_(ID-2657),http://dbpedia.org/resource/USS_Yellowstone_(AD-41) http://dbpedia.org/resource/USS_Yellowstone_AD41
+0,31,USS Yellowstone,http://dbpedia.org/resource/USS_Yellowstone_(ID-2657),http://dbpedia.org/resource/USS_Yellowstone_(AD-27)
+0,34,USS Yarnall,http://dbpedia.org/resource/USS_Yarnall_(DD-541),http://dbpedia.org/resource/Soviet_destroyer_Druzhny http://dbpedia.org/resource/HMCS_Lincoln_(G42) http://dbpedia.org/resource/Soviet_destroyer_Druznyj http://dbpedia.org/resource/Soviet_destroyer_Druzny http://dbpedia.org/resource/USS_Yarnall_(DD-143) http://dbpedia.org/resource/HNoMS_Lincoln_(G42) http://dbpedia.org/resource/HMS_Lincoln_(G42)
+0,36,USS Yantic,http://dbpedia.org/resource/USS_Saginaw_(LST-1188),http://dbpedia.org/resource/USS_Yantic_(IX-32) http://dbpedia.org/resource/USS_Yantic_(1864) http://dbpedia.org/resource/USS_Yantic
+0,49,USS Wright,http://dbpedia.org/resource/USS_Wright_(CVL-49),http://dbpedia.org/resource/USS_San_Clemente_(AG-79) http://dbpedia.org/resource/USS_San_Clemente http://dbpedia.org/resource/USS_Wright_(AZ-1) http://dbpedia.org/resource/USS_Wright_(AG-79) http://dbpedia.org/resource/USS_Wright_(AV-1)
+0,52,USS Worden,http://dbpedia.org/resource/USS_Worden_(DD-352),http://dbpedia.org/resource/USS_Worden_(DD-288)
+0,53,USS Worden,http://dbpedia.org/resource/USS_Worden_(DD-352),http://dbpedia.org/resource/USS_Worden_(DD-16) http://dbpedia.org/resource/USS_Worden_(TB-16)
+0,54,USS Worden,http://dbpedia.org/resource/USS_Worden_(DD-352),http://dbpedia.org/resource/USS_Worden_(DLG-18) http://dbpedia.org/resource/USS_Worden_(CG-18)
+0,56,USS Worcester,http://dbpedia.org/resource/USS_Worcester_(CL-144),http://dbpedia.org/resource/USS_Worcester_(1866)
+0,58,USS Woolsey,http://dbpedia.org/resource/USS_Woolsey_(DD-437),http://dbpedia.org/resource/USS_Woolsey_(DD-77)
+0,65,USS Wood County,http://dbpedia.org/resource/USS_Marion_County_(LST-975),http://dbpedia.org/resource/USS_Wood_County http://dbpedia.org/resource/USS_LST-1178 http://dbpedia.org/resource/USS_Wood_County_(LST-1178)
+0,67,USS Wolverine,http://dbpedia.org/resource/HMS_Wolverine_(D78),http://dbpedia.org/resource/SS_Seeandbee http://dbpedia.org/resource/USS_Wolverine_(IX-64)
+0,75,USS Winslow,http://dbpedia.org/resource/USS_Winslow_(DD-359),http://dbpedia.org/resource/USS_Winslow_(TB-5)
+0,76,USS Winslow,http://dbpedia.org/resource/USS_Winslow_(DD-359),http://dbpedia.org/resource/DD-53 http://dbpedia.org/resource/USS_DD-53 http://dbpedia.org/resource/USS_Winslow_(DD-53)
+0,78,USS Winooski,http://dbpedia.org/resource/USS_Winooski_(AO-38),http://dbpedia.org/resource/USS_Winooski_(1863)
+0,82,USS Wingina,http://dbpedia.org/resource/USS_Saginaw_(LST-1188),http://dbpedia.org/resource/USS_Wingina_(YT-395) http://dbpedia.org/resource/USS_Wingina_(YTM-395) http://dbpedia.org/resource/USS_Wingina_(YTB-395) http://dbpedia.org/resource/USS_Wingina
+0,88,USS Windham Bay,http://dbpedia.org/resource/USS_Oyster_Bay_(AGP-6),http://dbpedia.org/resource/USS_Windham_Bay http://dbpedia.org/resource/USS_Windham_Bay_(CVU-92) http://dbpedia.org/resource/USS_Windham_Bay_(CVE-92)
+0,90,USS Wilmington,http://dbpedia.org/resource/USS_Cabot_(CVL-28),http://dbpedia.org/resource/USS_Dover_(PG-8) http://dbpedia.org/resource/USS_Wilmington_(PG-8) http://dbpedia.org/resource/USS_Wilmington_(1895) http://dbpedia.org/resource/USS_Dover_(IX-30) http://dbpedia.org/resource/USS_Dover
+0,97,USS Williams,http://dbpedia.org/resource/USS_Williams_(DE-372),http://dbpedia.org/resource/HMSC_St._Clair http://dbpedia.org/resource/HMCS_St_Clair http://dbpedia.org/resource/HMCS_St._Clair http://dbpedia.org/resource/HMCS_St._Clair_(I65) http://dbpedia.org/resource/USS_Williams_(DD-108)
+0,100,USS William Seiverling,http://dbpedia.org/resource/USS_William_D._Porter_(DD-579),http://dbpedia.org/resource/USS_William_Seiverling_(DE-441) http://dbpedia.org/resource/DE-441 http://dbpedia.org/resource/USS_William_Seiverling
+0,106,USS William C. Miller,http://dbpedia.org/resource/USS_William_C._Cole_(DE-641),http://dbpedia.org/resource/USS_William_C._Miller_(DE-259) http://dbpedia.org/resource/USS_William_C._Miller http://dbpedia.org/resource/DE-259
+0,109,USS Willamette,http://dbpedia.org/resource/USS_Willamette_(1865),http://dbpedia.org/resource/AO-180 http://dbpedia.org/resource/USS_Willamette_(AO-180)

@@ -1,0 +1,4 @@
+"F1: 0.92593","Precision: 0.92593","Recall: 0.92593"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"2","16","Dunmore McHales","http://dbpedia.org/resource/Dunmore_MacHales","http://dbpedia.org/resource/Dunmore_McHales"
+"2","20","Carrickmore St. Colmcille's GFC","http://dbpedia.org/resource/St._Colmcille's_(Balheary)","http://dbpedia.org/resource/Carrickmore_St._Colmcille's http://dbpedia.org/resource/Carrickmore_St._Colmcille's_GFC http://dbpedia.org/resource/Carrickmore_St._Colmcille's_GAC http://dbpedia.org/resource/Carrickmore_GFC"

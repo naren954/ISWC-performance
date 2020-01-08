@@ -1,0 +1,7 @@
+"F1: 0.00000","Precision: 0.00000","Recall: 0.00000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"5","2","PHO","http://dbpedia.org/resource/Phoenix_Mercury","http://dbpedia.org/resource/Bashas'_Supermarkets_200"
+"5","3","TEX 31","http://fr.dbpedia.org/resource/Pôle_de_compétitivité_UP-TEX","http://dbpedia.org/resource/O'Reilly_Auto_Parts_Challenge"
+"5","4","PHO 23","http://dbpedia.org/resource/New_York_City_Council","http://dbpedia.org/resource/Bashas'_Supermarkets_200"
+"5","5","PHO 35","http://dbpedia.org/resource/New_York_City_Council","http://dbpedia.org/resource/Dollar_General_200 http://dbpedia.org/resource/Bashas'_Supermarkets_200 http://dbpedia.org/resource/Blue_Jeans_Go_Green_200 http://dbpedia.org/resource/Axalta_Faster._Tougher._Brighter._200 http://dbpedia.org/resource/Bashas'_Supermarket_200"
+"5","6","PHO 32","http://dbpedia.org/resource/New_York_City_Council","http://dbpedia.org/resource/Dollar_General_200 http://dbpedia.org/resource/Bashas'_Supermarkets_200 http://dbpedia.org/resource/Blue_Jeans_Go_Green_200 http://dbpedia.org/resource/Axalta_Faster._Tougher._Brighter._200 http://dbpedia.org/resource/Bashas'_Supermarket_200"

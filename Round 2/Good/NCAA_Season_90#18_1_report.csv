@@ -1,0 +1,4 @@
+F1: 0.80000,Precision: 0.80000,Recall: 0.80000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,4,Letran Knights,,http://dbpedia.org/resource/Letran_Knights http://dbpedia.org/resource/Letran_Murder_Inc. http://dbpedia.org/resource/Letran_Lady_Knights http://dbpedia.org/resource/Letran_Squires
+1,10,Perpetual Help Altas,http://dbpedia.org/resource/University_of_Perpetual_Help_System_DALTA,http://dbpedia.org/resource/UPHSD_Altalettes http://dbpedia.org/resource/UPHD_Altalettes http://dbpedia.org/resource/Altas http://dbpedia.org/resource/UPHSD_Altas http://dbpedia.org/resource/UPHD_Altas http://dbpedia.org/resource/Perpetual_Help_Altas http://dbpedia.org/resource/Perpetual_Altas

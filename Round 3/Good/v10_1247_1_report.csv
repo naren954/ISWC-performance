@@ -1,0 +1,17 @@
+F1: 0.88971,Precision: 0.88971,Recall: 0.88971,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,9,M. Venturini,http://dbpedia.org/resource/Bruno_Venturini,http://dbpedia.org/resource/Marco_Venturini
+1,20,A. Maloukhina,,http://dbpedia.org/resource/Anna_Maloukhina http://dbpedia.org/resource/Anna_Malukhina
+1,23,K. Ivanov,"http://dbpedia.org/resource/Valentin_Ivanov_(footballer,_born_1934)",http://dbpedia.org/resource/Kirill_Ivanov_(sport_shooter)
+1,28,A. Maloukhina,,http://dbpedia.org/resource/Anna_Maloukhina http://dbpedia.org/resource/Anna_Malukhina
+1,31,K. Ivanov,"http://dbpedia.org/resource/Valentin_Ivanov_(footballer,_born_1934)",http://dbpedia.org/resource/Kirill_Ivanov_(sport_shooter)
+1,48,S. Johansson,http://dbpedia.org/resource/Sven_Tumba,http://dbpedia.org/resource/Sven_Johansson_(sport_shooter)
+1,49,L. Dyakov,http://dbpedia.org/resource/Ilia_Dyakov,http://dbpedia.org/resource/Lyubcho_Dyakov http://dbpedia.org/resource/Lubtcho_Diakov http://dbpedia.org/resource/Lubcho_Diakov
+1,52,S. Johansson,http://dbpedia.org/resource/Sven_Tumba,http://dbpedia.org/resource/Sven_Johansson_(sport_shooter)
+1,53,L. Dyakov,http://dbpedia.org/resource/Ilia_Dyakov,http://dbpedia.org/resource/Lyubcho_Dyakov http://dbpedia.org/resource/Lubtcho_Diakov http://dbpedia.org/resource/Lubcho_Diakov
+1,78,H. Vollmar,http://dbpedia.org/resource/Heinz_Vollmar,http://dbpedia.org/resource/Harald_Vollmar
+1,80,H. Vollmar,http://dbpedia.org/resource/Heinz_Vollmar,http://dbpedia.org/resource/Harald_Vollmar
+1,90,S. Kalinin,http://dbpedia.org/resource/Stepan_Kalinin,http://dbpedia.org/resource/Sergei_Kalinin_(shooter) http://dbpedia.org/resource/Sergei_Kalinin_(sport_shooter)
+1,96,S. Kalinin,http://dbpedia.org/resource/Stepan_Kalinin,http://dbpedia.org/resource/Sergei_Kalinin_(shooter) http://dbpedia.org/resource/Sergei_Kalinin_(sport_shooter)
+1,115,A. Jackson,http://dbpedia.org/resource/Arnold_Jackson_(British_Army_officer),http://dbpedia.org/resource/Arthur_Jackson_(sport_shooter) http://dbpedia.org/resource/Arthur_Charles_Jackson http://dbpedia.org/resource/Art_Jackson_(sport_shooter)
+1,120,A. Jackson,http://dbpedia.org/resource/Arnold_Jackson_(British_Army_officer),http://dbpedia.org/resource/Arthur_Jackson_(sport_shooter) http://dbpedia.org/resource/Arthur_Charles_Jackson http://dbpedia.org/resource/Art_Jackson_(sport_shooter)

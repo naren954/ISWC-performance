@@ -1,0 +1,6 @@
+"F1: 0.71429","Precision: 0.71429","Recall: 0.71429"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"3","5","SÃ©bastien Perez","http://dbpedia.org/resource/Sébastien_Pérez","http://dbpedia.org/resource/Sébastien_Perez"
+"3","9","Pierre Laurent","http://fr.dbpedia.org/resource/Pierre_Laurent_(rugby_à_XV)","http://dbpedia.org/resource/Pierre_Laurent_(footballer)"
+"3","12","Piotr Å\u009Awierczewski","http://dbpedia.org/resource/C0_and_C1_control_codes","http://dbpedia.org/resource/Piotr_Świerczewski"
+"3","13","FrÃ©dÃ©ric Mendy","http://dbpedia.org/resource/Frédéric_Mendy_(footballer,_born_1988)","http://dbpedia.org/resource/Frédéric_Mendy_(footballer_born_1973)"

@@ -1,0 +1,4 @@
+F1: 0.86667,Precision: 0.86667,Recall: 0.86667,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,4,Adam MaÅ\u0082ysz,http://dbpedia.org/resource/Adam_Hall_(badminton),http://dbpedia.org/resource/Adam_Małysz
+1,5,Dmitry Vassiliev,http://dbpedia.org/resource/Dmitriy_Vassiliev,http://dbpedia.org/resource/Dmitry_Vassiliev http://dbpedia.org/resource/Dmitrij_Vasiljev_(skihopper) http://dbpedia.org/resource/Dimitri_Vassiliev http://dbpedia.org/resource/Dimitry_Vassiliev http://dbpedia.org/resource/Dimitry_Vassilev http://dbpedia.org/resource/Dmitri_Vassiliev

@@ -1,0 +1,14 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,É. Mongey,http://dbpedia.org/resource/E,http://dbpedia.org/resource/Éamonn_Mongey http://dbpedia.org/resource/Eamonn_Mongey
+0,2,T. Herbert,http://dbpedia.org/resource/Spock,http://dbpedia.org/resource/Tony_Herbert
+0,3,T. Langan,"http://dbpedia.org/resource/Langan,_Ille-et-Vilaine",http://dbpedia.org/resource/Thomas_Langan http://dbpedia.org/resource/Tommy_Langan http://dbpedia.org/resource/Tom_Langan_(Gaelic_footballer)
+0,4,T. Cooke,http://dbpedia.org/resource/Terence_Cooke,http://dbpedia.org/resource/Tommy_Cooke
+0,5,T. Flood,http://dbpedia.org/resource/Johnstown_Flood_National_Memorial,http://dbpedia.org/resource/Tim_Flood_(hurler)
+0,6,S. Cullinane,http://dbpedia.org/resource/Peter_Cullinane,http://dbpedia.org/resource/Séamus_Cullinane http://dbpedia.org/resource/Seamus_Cullinane
+0,7,S. Downey,http://dbpedia.org/resource/Juan_Downey,http://dbpedia.org/resource/Shem_Downey
+0,8,S. Duggan,http://dbpedia.org/resource/Meghan_Duggan,http://dbpedia.org/resource/Sean_duggan http://dbpedia.org/resource/Sean_Duggan http://dbpedia.org/resource/Seanie_Duggan http://dbpedia.org/resource/Seánie_Duggan
+0,9,S. McIntyre,http://dbpedia.org/resource/Macy_Gray,http://dbpedia.org/resource/Seamus_McIntyre
+0,10,S. Duggan,http://dbpedia.org/resource/Meghan_Duggan,http://dbpedia.org/resource/Sean_duggan http://dbpedia.org/resource/Sean_Duggan http://dbpedia.org/resource/Seanie_Duggan http://dbpedia.org/resource/Seánie_Duggan
+0,11,S. Cullinane,http://dbpedia.org/resource/Peter_Cullinane,http://dbpedia.org/resource/Séamus_Cullinane http://dbpedia.org/resource/Seamus_Cullinane
+0,12,R. Johansson,http://dbpedia.org/resource/Roger_Johansson,http://dbpedia.org/resource/Rune_Johansson

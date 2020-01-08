@@ -1,0 +1,5 @@
+F1: 0.97872,Precision: 0.97872,Recall: 0.97872,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,36,Roman Catholic Diocese of Córdoba,http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Córdoba,http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Cordoba_(Mexico) http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Córdoba_(Mexico)
+0,101,Roman Catholic Diocese of Ciego de Avila,http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Ciego_de_Ávila,http://dbpedia.org/resource/Diocese_of_Ciego_de_Avila http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Ciego_de_Avila
+0,105,Roman Catholic Diocese of Chittagong,http://dbpedia.org/resource/Roman_Catholic_Archdiocese_of_Chittagong,http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Chittagong http://dbpedia.org/resource/Bishop_of_Chittagong

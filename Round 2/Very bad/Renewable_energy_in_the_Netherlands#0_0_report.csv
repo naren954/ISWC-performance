@@ -1,0 +1,5 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,Wind,http://dbpedia.org/resource/Wind_River_(Wyoming),http://dbpedia.org/resource/Wind_power_in_the_Netherlands
+0,6,Solar,http://dbpedia.org/resource/Sun,http://dbpedia.org/resource/Solar_energy_in_the_Netherlands http://dbpedia.org/resource/Solar_power_in_the_Netherlands
+0,7,Hydro,http://dbpedia.org/resource/Hydro-Québec,http://dbpedia.org/resource/Hydroelectricity_in_the_Netherlands

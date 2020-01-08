@@ -1,0 +1,6 @@
+F1: 0.95789,Precision: 0.95789,Recall: 0.95789,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Polypodium virginianum,http://dbpedia.org/resource/Polypodium_vulgare,http://dbpedia.org/resource/Rock_polypody http://dbpedia.org/resource/Polypodium_virginianum
+0,2,Polypodium segregatum,http://dbpedia.org/resource/Polypodium_appalachianum,http://dbpedia.org/resource/Polypodium_segregatum
+0,10,Polypodium latissimum,http://pt.dbpedia.org/resource/Calliarthron_latissimum,http://dbpedia.org/resource/Polypodium_latissimum
+0,77,Dryopteris goldiana,http://dbpedia.org/resource/Dryopteris_expansa,http://dbpedia.org/resource/Aspidium_goldianum http://dbpedia.org/resource/Goldie_fern http://dbpedia.org/resource/Goldie's_woodfern http://dbpedia.org/resource/Dryopteris_goldiana

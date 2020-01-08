@@ -1,0 +1,5 @@
+F1: 0.81250,Precision: 0.81250,Recall: 0.81250,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,9,MÄ\u0081ris Verpakovskis,http://dbpedia.org/resource/Cloud_computing,http://dbpedia.org/resource/Māris_Verpakovskis
+1,12,VitÄ\u0081lijs Astafjevs,,http://dbpedia.org/resource/Vitālijs_Astafjevs
+1,13,Aleksandrs CauÅ\u0086a,http://dbpedia.org/resource/Alexander_Hleb,http://dbpedia.org/resource/Aleksandrs_Cauņa

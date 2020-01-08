@@ -1,0 +1,138 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,"Port Alsworth, Alaska","http://dbpedia.org/resource/Port_Alsworth,_Alaska",http://sws.geonames.org/5871906/
+0,2,"Point Hope, Alaska","http://dbpedia.org/resource/Point_Hope,_Alaska",http://sws.geonames.org/5871791/
+0,3,"Platinum, Alaska","http://dbpedia.org/resource/Platinum,_Alaska",http://sws.geonames.org/5871730/
+0,4,"Pilot Station, Alaska","http://dbpedia.org/resource/Pilot_Station,_Alaska",http://sws.geonames.org/5871601/
+0,5,"Pilot Point, Alaska","http://dbpedia.org/resource/Pilot_Point,_Alaska",http://sws.geonames.org/5871598/
+0,6,"Paxson, Alaska","http://dbpedia.org/resource/Paxson,_Alaska",http://sws.geonames.org/5871330/
+0,7,"Palmer, Alaska","http://dbpedia.org/resource/Palmer,_Alaska",http://sws.geonames.org/5871146/
+0,8,"Ouzinkie, Alaska","http://dbpedia.org/resource/Ouzinkie,_Alaska",http://sws.geonames.org/5871052/
+0,9,Baku,http://dbpedia.org/resource/Baku,http://sws.geonames.org/587084/
+0,10,Baku,http://dbpedia.org/resource/Baku,http://sws.geonames.org/587081/
+0,11,"Old Harbor, Alaska","http://dbpedia.org/resource/Old_Harbor,_Alaska",http://sws.geonames.org/5870746/
+0,12,Balakən,http://dbpedia.org/resource/Balakən,http://sws.geonames.org/587070/
+0,13,"Barda, Azerbaijan","http://dbpedia.org/resource/Barda,_Azerbaijan",http://sws.geonames.org/587057/
+0,14,"Nunapitchuk, Alaska","http://dbpedia.org/resource/Nunapitchuk,_Alaska",http://sws.geonames.org/5870502/
+0,15,"Nulato, Alaska","http://dbpedia.org/resource/Nulato,_Alaska",http://sws.geonames.org/5870463/
+0,16,"Nuiqsut, Alaska","http://dbpedia.org/resource/Nuiqsut,_Alaska",http://sws.geonames.org/5870441/
+0,17,"Northway, Alaska","http://dbpedia.org/resource/Northway,_Alaska",http://sws.geonames.org/5870345/
+0,18,"North Pole, Alaska","http://dbpedia.org/resource/North_Pole,_Alaska",http://sws.geonames.org/5870294/
+0,19,"Noorvik, Alaska","http://dbpedia.org/resource/Noorvik,_Alaska",http://sws.geonames.org/5870154/
+0,20,"Nondalton, Alaska","http://dbpedia.org/resource/Nondalton,_Alaska",http://sws.geonames.org/5870146/
+0,21,"Nome, Alaska","http://dbpedia.org/resource/Nome,_Alaska",http://sws.geonames.org/5870133/
+0,22,"Nikolai, Alaska","http://dbpedia.org/resource/Nikolai,_Alaska",http://sws.geonames.org/5869969/
+0,23,"Nikiski, Alaska","http://dbpedia.org/resource/Nikiski,_Alaska",http://sws.geonames.org/5869956/
+0,24,"Nightmute, Alaska","http://dbpedia.org/resource/Nightmute,_Alaska",http://sws.geonames.org/5869937/
+0,25,"Newhalen, Alaska","http://dbpedia.org/resource/Newhalen,_Alaska",http://sws.geonames.org/5869889/
+0,26,"New Stuyahok, Alaska","http://dbpedia.org/resource/Sitka,_Alaska",http://sws.geonames.org/5869874/
+0,27,"Nenana, Alaska","http://dbpedia.org/resource/Nenana,_Alaska",http://sws.geonames.org/5869822/
+0,28,"Napaskiak, Alaska","http://dbpedia.org/resource/Napaskiak,_Alaska",http://sws.geonames.org/5869649/
+0,29,"Napakiak, Alaska","http://dbpedia.org/resource/Napakiak,_Alaska",http://sws.geonames.org/5869637/
+0,30,"Mountain Village, Alaska","http://dbpedia.org/resource/Mountain_Village,_Alaska",http://sws.geonames.org/5869366/
+0,31,"Mekoryuk, Alaska","http://dbpedia.org/resource/Mekoryuk,_Alaska",http://sws.geonames.org/5868684/
+0,32,"Meadow Lakes, Alaska","http://dbpedia.org/resource/Meadow_Lakes,_Alaska",http://sws.geonames.org/5868651/
+0,33,"McKinley Park, Alaska","http://dbpedia.org/resource/McKinley_Park,_Alaska",http://sws.geonames.org/5868582/
+0,34,"McGrath, Alaska","http://dbpedia.org/resource/McGrath,_Alaska",http://sws.geonames.org/5868547/
+0,35,"McCarthy, Alaska","http://dbpedia.org/resource/McCarthy,_Alaska",http://sws.geonames.org/5868505/
+0,36,"Marshall, Alaska","http://dbpedia.org/resource/Marshall,_Alaska",http://sws.geonames.org/5868316/
+0,37,"Manokotak, Alaska","http://dbpedia.org/resource/Manokotak,_Alaska",http://sws.geonames.org/5868247/
+0,38,"Lower Kalskag, Alaska","http://dbpedia.org/resource/Lower_Kalskag,_Alaska",http://sws.geonames.org/5867979/
+0,39,Daşkəsən,http://dbpedia.org/resource/Daşkəsən,http://sws.geonames.org/586765/
+0,40,Şabran,http://dbpedia.org/resource/Şabran,http://sws.geonames.org/586763/
+0,41,"Lake Louise, Alaska","http://dbpedia.org/resource/Lake_Louise,_Alaska",http://sws.geonames.org/5867104/
+0,42,"Kwethluk, Alaska","http://dbpedia.org/resource/Kwethluk,_Alaska",http://sws.geonames.org/5866985/
+0,43,"Koyukuk, Alaska","http://dbpedia.org/resource/Koyukuk,_Alaska",http://sws.geonames.org/5866753/
+0,44,"Koyuk, Alaska","http://dbpedia.org/resource/Koyuk,_Alaska",http://sws.geonames.org/5866748/
+0,45,"Kotzebue, Alaska","http://dbpedia.org/resource/Kotzebue,_Alaska",http://sws.geonames.org/5866726/
+0,46,"Kotlik, Alaska","http://dbpedia.org/resource/Kotlik,_Alaska",http://sws.geonames.org/5866719/
+0,47,"Koliganek, Alaska","http://dbpedia.org/resource/Koliganek,_Alaska",http://sws.geonames.org/5866635/
+0,48,"Kodiak, Alaska","http://dbpedia.org/resource/Kodiak,_Alaska",http://sws.geonames.org/5866583/
+0,49,"Kobuk, Alaska","http://dbpedia.org/resource/Kobuk,_Alaska",http://sws.geonames.org/5866556/
+0,50,"Kivalina, Alaska","http://dbpedia.org/resource/Kivalina,_Alaska",http://sws.geonames.org/5866441/
+0,51,"Kipnuk, Alaska","http://dbpedia.org/resource/Kipnuk,_Alaska",http://sws.geonames.org/5866390/
+0,52,"King Cove, Alaska","http://dbpedia.org/resource/King_Cove,_Alaska",http://sws.geonames.org/5866315/
+0,53,"Kiana, Alaska","http://dbpedia.org/resource/Kiana,_Alaska",http://sws.geonames.org/5866155/
+0,54,"Kenai, Alaska","http://dbpedia.org/resource/Kenai,_Alaska",http://sws.geonames.org/5866063/
+0,55,"Kasilof, Alaska","http://dbpedia.org/resource/Kasilof,_Alaska",http://sws.geonames.org/5865896/
+0,56,Gədəbəy,http://dbpedia.org/resource/Gədəbəy,http://sws.geonames.org/586573/
+0,57,"Kaltag, Alaska","http://dbpedia.org/resource/Kaltag,_Alaska",http://sws.geonames.org/5865721/
+0,58,"Kaktovik, Alaska","http://dbpedia.org/resource/Kaktovik,_Alaska",http://sws.geonames.org/5865670/
+0,59,"Kachemak, Alaska","http://dbpedia.org/resource/Kachemak,_Alaska",http://sws.geonames.org/5865574/
+0,60,"Ganja, Azerbaijan","http://dbpedia.org/resource/Ganja,_Azerbaijan",http://sws.geonames.org/586523/
+0,61,"Huslia, Alaska","http://dbpedia.org/resource/Huslia,_Alaska",http://sws.geonames.org/5864431/
+0,62,"Hughes, Alaska","http://dbpedia.org/resource/Hughes,_Alaska",http://sws.geonames.org/5864351/
+0,63,"Houston, Alaska","http://dbpedia.org/resource/Houston,_Alaska",http://sws.geonames.org/5864312/
+0,64,Goranboy,http://dbpedia.org/resource/Goranboy_(city),http://sws.geonames.org/586430/
+0,65,Goychay,http://dbpedia.org/resource/Goychay_(city),http://sws.geonames.org/586427/
+0,66,"Hope, Alaska","http://dbpedia.org/resource/Hope,_Alaska",http://sws.geonames.org/5864204/
+0,67,"Hooper Bay, Alaska","http://dbpedia.org/resource/Hooper_Bay,_Alaska",http://sws.geonames.org/5864197/
+0,68,"Homer, Alaska","http://dbpedia.org/resource/Homer,_Alaska",http://sws.geonames.org/5864145/
+0,69,"Holy Cross, Alaska","http://dbpedia.org/resource/Holy_Cross,_Alaska",http://sws.geonames.org/5864131/
+0,70,"Grayling, Alaska","http://dbpedia.org/resource/Grayling,_Alaska",http://sws.geonames.org/5863328/
+0,71,Ismailli Rayon,http://dbpedia.org/resource/Ismailli_District,http://dbpedia.org/resource/Ismoylly http://dbpedia.org/resource/Ismayylly http://dbpedia.org/resource/Jsmailly http://dbpedia.org/resource/Ismailly http://dbpedia.org/resource/Ismailli http://sws.geonames.org/586320/ http://dbpedia.org/resource/Ismayilly http://dbpedia.org/resource/Ismayilli http://dbpedia.org/resource/Ismanlli http://dbpedia.org/resource/İsmayıllı
+0,72,"Goodnews Bay, Alaska","http://dbpedia.org/resource/Goodnews_Bay,_Alaska",http://sws.geonames.org/5863097/
+0,73,"Golovin, Alaska","http://dbpedia.org/resource/Golovin,_Alaska",http://sws.geonames.org/5863074/
+0,74,"Glennallen, Alaska","http://dbpedia.org/resource/Glennallen,_Alaska",http://sws.geonames.org/5862936/
+0,75,"Gambell, Alaska","http://dbpedia.org/resource/Gambell,_Alaska",http://sws.geonames.org/5862664/
+0,76,"Galena, Alaska","http://dbpedia.org/resource/Galena,_Alaska",http://sws.geonames.org/5862655/
+0,77,"Fort Yukon, Alaska","http://dbpedia.org/resource/Fort_Yukon,_Alaska",http://sws.geonames.org/5862371/
+0,78,"False Pass, Alaska","http://dbpedia.org/resource/False_Pass,_Alaska",http://sws.geonames.org/5861959/
+0,79,"Fairbanks, Alaska","http://dbpedia.org/resource/Fairbanks,_Alaska",http://sws.geonames.org/5861897/
+0,80,"Ester, Alaska","http://dbpedia.org/resource/Ester,_Alaska",http://sws.geonames.org/5861769/
+0,81,"Emmonak, Alaska","http://dbpedia.org/resource/Emmonak,_Alaska",http://sws.geonames.org/5861668/
+0,82,"Elim, Alaska","http://dbpedia.org/resource/Elim,_Alaska",http://sws.geonames.org/5861582/
+0,83,"Ekwok, Alaska","http://dbpedia.org/resource/Ekwok,_Alaska",http://sws.geonames.org/5861512/
+0,84,"Egegik, Alaska","http://dbpedia.org/resource/Egegik,_Alaska",http://sws.geonames.org/5861423/
+0,85,"Eek, Alaska","http://dbpedia.org/resource/Eek,_Alaska",http://sws.geonames.org/5861393/
+0,86,"Eagle, Alaska","http://dbpedia.org/resource/Eagle,_Alaska",http://sws.geonames.org/5861126/
+0,87,"Diomede, Alaska","http://dbpedia.org/resource/Diomede,_Alaska",http://sws.geonames.org/5860714/
+0,88,"Dillingham, Alaska","http://dbpedia.org/resource/Dillingham,_Alaska",http://sws.geonames.org/5860695/
+0,89,"Delta Junction, Alaska","http://dbpedia.org/resource/Delta_Junction,_Alaska",http://sws.geonames.org/5860524/
+0,90,"Deering, Alaska","http://dbpedia.org/resource/Deering,_Alaska",http://sws.geonames.org/5860502/
+0,91,"Cordova, Alaska","http://dbpedia.org/resource/Cordova,_Alaska",http://sws.geonames.org/5859888/
+0,92,"College, Alaska","http://dbpedia.org/resource/College,_Alaska",http://sws.geonames.org/5859699/
+0,93,"Coldfoot, Alaska","http://dbpedia.org/resource/Coldfoot,_Alaska",http://sws.geonames.org/5859691/
+0,94,"Cold Bay, Alaska","http://dbpedia.org/resource/Cold_Bay,_Alaska",http://sws.geonames.org/5859682/
+0,95,"Circle Hot Springs, Alaska","http://dbpedia.org/resource/Manley_Hot_Springs,_Alaska",http://sws.geonames.org/5859426/
+0,96,"Chuathbaluk, Alaska","http://dbpedia.org/resource/Chuathbaluk,_Alaska",http://sws.geonames.org/5859357/
+0,97,"Chisana, Alaska","http://dbpedia.org/resource/Chisana,_Alaska",http://sws.geonames.org/5859279/
+0,98,"Chignik, Alaska","http://dbpedia.org/resource/Chignik,_Alaska",http://sws.geonames.org/5859193/
+0,99,"Chicken, Alaska","http://dbpedia.org/resource/Chicken,_Alaska",http://sws.geonames.org/5859162/
+0,100,Xırdalan,http://dbpedia.org/resource/Xırdalan,http://sws.geonames.org/585915/
+0,101,"Chevak, Alaska","http://dbpedia.org/resource/Chevak,_Alaska",http://sws.geonames.org/5859114/
+0,102,"Chefornak, Alaska","http://dbpedia.org/resource/Chefornak,_Alaska",http://sws.geonames.org/5859048/
+0,103,"Central, Alaska","http://dbpedia.org/resource/Central,_Alaska",http://sws.geonames.org/5858896/
+0,104,"Butte, Alaska","http://dbpedia.org/resource/Butte,_Alaska",http://sws.geonames.org/5858289/
+0,105,"Buckland, Alaska","http://dbpedia.org/resource/Buckland,_Alaska",http://sws.geonames.org/5858176/
+0,106,"Brevig Mission, Alaska","http://dbpedia.org/resource/Brevig_Mission,_Alaska",http://sws.geonames.org/5858025/
+0,107,Kürdəmir,http://dbpedia.org/resource/Kürdəmir,http://sws.geonames.org/585763/
+0,108,"Captain Cook, Hawaii","http://dbpedia.org/resource/Captain_Cook,_Hawaii",http://sws.geonames.org/5857264/
+0,109,"Aiea, Hawaii","http://dbpedia.org/resource/Aiea,_Hawaii",http://sws.geonames.org/5856430/
+0,110,Honolulu,http://dbpedia.org/resource/Honolulu,http://sws.geonames.org/5856195/
+0,111,"Hilo, Hawaii","http://dbpedia.org/resource/Hilo,_Hawaii",http://sws.geonames.org/5855927/
+0,112,"Hawi, Hawaii","http://dbpedia.org/resource/Hawi,_Hawaii",http://sws.geonames.org/5855841/
+0,113,"Hanapepe, Hawaii","http://dbpedia.org/resource/Hanapepe,_Hawaii",http://sws.geonames.org/5855631/
+0,114,"Hanamaulu, Hawaii","http://dbpedia.org/resource/Hanamaulu,_Hawaii",http://sws.geonames.org/5855628/
+0,115,"Hanalei, Hawaii","http://dbpedia.org/resource/Hanalei,_Hawaii",http://sws.geonames.org/5855598/
+0,116,"Hana, Hawaii","http://dbpedia.org/resource/Hana,_Hawaii",http://sws.geonames.org/5855471/
+0,117,Mingachevir,http://dbpedia.org/resource/Mingachevir,http://sws.geonames.org/585514/
+0,118,"Eleele, Hawaii","http://dbpedia.org/resource/Eleele,_Hawaii",http://sws.geonames.org/5855028/
+0,119,"Waipahu, Hawaii","http://dbpedia.org/resource/Waipahu,_Hawaii",http://sws.geonames.org/5854686/
+0,120,"Wailuku, Hawaii","http://dbpedia.org/resource/Wailuku,_Hawaii",http://sws.geonames.org/5854496/
+0,121,"Waianae, Hawaii","http://dbpedia.org/resource/Waianae,_Hawaii",http://sws.geonames.org/5854189/
+0,122,"Wahiawa, Hawaii","http://dbpedia.org/resource/Wahiawa,_Hawaii",http://sws.geonames.org/5853992/
+0,123,"Volcano, Hawaii","http://dbpedia.org/resource/Volcano,_Hawaii",http://sws.geonames.org/5853971/
+0,124,"Pukalani, Hawaii","http://dbpedia.org/resource/Pukalani,_Hawaii",http://sws.geonames.org/5852697/
+0,125,"Poipu, Hawaii","http://dbpedia.org/resource/Poipu,_Hawaii",http://sws.geonames.org/5852508/
+0,126,Qabala,http://dbpedia.org/resource/Qabala,http://sws.geonames.org/585231/
+0,127,"Pearl City, Hawaii",http://dbpedia.org/resource/San_Diego,http://sws.geonames.org/5852275/
+0,128,Qazax,http://dbpedia.org/resource/Qazax,http://sws.geonames.org/585226/
+0,129,Quba,http://dbpedia.org/resource/Quba,http://sws.geonames.org/585221/
+0,130,"Paia, Hawaii","http://dbpedia.org/resource/Paia,_Hawaii",http://sws.geonames.org/5851942/
+0,131,"Pahoa, Hawaii","http://dbpedia.org/resource/Pahoa,_Hawaii",http://sws.geonames.org/5851916/
+0,132,"Paauilo, Hawaii","http://dbpedia.org/resource/Paauilo,_Hawaii",http://sws.geonames.org/5851877/
+0,133,Shamakhi,http://dbpedia.org/resource/Shamakhi,http://sws.geonames.org/585156/
+0,134,Şəmkir,http://dbpedia.org/resource/Şəmkir,http://sws.geonames.org/585152/
+0,135,"Mountain View, Hawaii","http://dbpedia.org/resource/Mountain_View,_Hawaii",http://sws.geonames.org/5851253/
+0,136,"Mililani, Hawaii","http://dbpedia.org/resource/Mililani,_Hawaii",http://sws.geonames.org/5851030/

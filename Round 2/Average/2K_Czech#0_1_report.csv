@@ -1,0 +1,8 @@
+F1: 0.53846,Precision: 0.53846,Recall: 0.53846,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,2,Hidden & Dangerous,http://dbpedia.org/resource/Hidden_&_Dangerous_2,http://dbpedia.org/resource/Hidden_&_Dangerous
+1,9,Wings of War[B],http://dbpedia.org/resource/IL-2_Sturmovik:_Birds_of_Prey,http://dbpedia.org/resource/Wings_of_War_(computer_game) http://dbpedia.org/resource/Wings_of_War_(video_game)
+1,11,Vietcong 2,http://dbpedia.org/resource/Vietcong_(video_game),http://dbpedia.org/resource/Vietcong_2
+1,12,Chameleon[B],http://dbpedia.org/resource/Chameleon_(Labelle_album),http://dbpedia.org/resource/Chameleon_(2005_computer_game) http://dbpedia.org/resource/Chameleon_(2005_video_game)
+1,16,Top Spin 4,http://dbpedia.org/resource/Top_Spin_3,http://dbpedia.org/resource/Top_Spin_4
+1,17,Mafia III,http://dbpedia.org/resource/Mafia_II,http://dbpedia.org/resource/Mafia_III http://dbpedia.org/resource/Mafia_III:_Rivals http://dbpedia.org/resource/Mafia_3 http://dbpedia.org/resource/Mafia_III_(video_game)

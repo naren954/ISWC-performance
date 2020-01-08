@@ -1,0 +1,33 @@
+F1: 0.71028,Precision: 0.71028,Recall: 0.71028,,
+Col,Row,Value,Submitted URI,Correct URI's
+4,4,By the Book,http://dbpedia.org/resource/By_the_Book_(novel),http://dbpedia.org/resource/By_the_Book_(song)
+4,5,Something about Us,http://dbpedia.org/resource/Something_About_Us_(Daft_Punk_song),http://dbpedia.org/resource/Something_about_Us http://dbpedia.org/resource/Something_about_us http://dbpedia.org/resource/Something_About_Us
+4,7,My Story,http://dbpedia.org/resource/My_Story_(Puffy_AmiYumi_song),http://dbpedia.org/resource/This_is_my_story http://dbpedia.org/resource/This_is_my_story_and_im_sticking_to_it http://dbpedia.org/resource/And_im_sticking_to_it http://dbpedia.org/resource/My_Story_(R._Kelly_song)
+4,9,Baby Come On,http://dbpedia.org/resource/Baby_Come_Home_(Scissor_Sisters_song),http://dbpedia.org/resource/Baby_Come_On_(+44_song)
+4,13,"Oh, Boy!",http://dbpedia.org/resource/Oh_Boy_(The_Mood_I'm_In),"http://dbpedia.org/resource/Oh,_Boy!_(Buddy_Holly_song) http://dbpedia.org/resource/Oh,_Boy!_(song) http://dbpedia.org/resource/Oh,_Boy!_(The_Crickets_song) http://dbpedia.org/resource/Oh_Boy_(Mud_song)"
+4,30,Queen of My Heart,http://dbpedia.org/resource/Queen_of_My_Heart_(Hank_Williams_Jr._song),http://dbpedia.org/resource/Queen_of_My_Heart http://dbpedia.org/resource/Queen_of_my_Heart
+4,31,Hollywood,http://dbpedia.org/resource/Hollywood_(Madonna_song),http://dbpedia.org/resource/Hollywood_(Cranberries_song) http://dbpedia.org/resource/Hollywood_(The_Cranberries_song)
+4,32,Hot,http://dbpedia.org/resource/Hot_Stuff_(Donna_Summer_song),http://dbpedia.org/resource/Hot_avril_lavigne http://dbpedia.org/resource/Hot_(Avril_Lavigne_song)
+4,33,House of Love,http://dbpedia.org/resource/House_of_Love_(Amy_Grant_song),http://dbpedia.org/resource/House_of_Love_(Vika_and_Linda_song)
+4,34,Chocolate Girl,http://dbpedia.org/resource/Chocolate_Girl_(Deacon_Blue_song),http://dbpedia.org/resource/Chocolate_Girl
+4,36,London Town,http://dbpedia.org/resource/London_Town_(Wings_song),http://dbpedia.org/resource/London_Town_(Bucks_Fizz_single) http://dbpedia.org/resource/London_Town_(Bucks_Fizz_song)
+4,40,This Is Love,http://dbpedia.org/resource/This_Is_Love_(Utada_Hikaru_song),http://dbpedia.org/resource/This_Is_Love_(George_Harrison_song)
+4,41,Bottoms Up,http://dbpedia.org/resource/Bottoms_Up_(Brantley_Gilbert_song),http://dbpedia.org/resource/Bottoms_Up_(Nickelback_song)
+4,43,I'm Gay,http://dbpedia.org/resource/I'm_Gay_(I'm_Happy),http://dbpedia.org/resource/I'm_Gay_(Bowling_for_Soup_song) http://dbpedia.org/resource/I'm_Gay_(As_in_Happy) http://dbpedia.org/resource/Great_Burrito_Extortion_Case http://dbpedia.org/resource/I'm_Gay_(Bowling_For_Soup_song) http://dbpedia.org/resource/The_Great_Burrito_Extortion_Case http://dbpedia.org/resource/99_Biker_Friends http://dbpedia.org/resource/Epiphany_(Bowling_For_Soup)
+4,57,Fuck Apologies,http://dbpedia.org/resource/All_Apologies,http://dbpedia.org/resource/No_Apologies_(JoJo_song) http://dbpedia.org/resource/Fuck_Apologies http://dbpedia.org/resource/Fuck_Apologies.
+4,60,Revolution,http://dbpedia.org/resource/Ma_révolution,http://dbpedia.org/resource/Revolution_(The_Veronicas_song) http://dbpedia.org/resource/Revolution_(The_Veronicas_Song)
+4,67,Shiver,http://dbpedia.org/resource/Shiver_(Coldplay_song),http://dbpedia.org/resource/Shiver_(Jamie_O'Neal_song)
+4,68,Be With You,http://dbpedia.org/resource/Be_with_You_(The_Bangles_song),http://dbpedia.org/resource/Be_With_You_(Erasure_song) http://dbpedia.org/resource/Be_with_You_(Erasure_song)
+4,69,Price of Love,http://dbpedia.org/resource/The_Price_of_Love,http://dbpedia.org/resource/Price_of_Love_(Bad_English_song)
+4,75,I Hate You Then I Love You,http://dbpedia.org/resource/Hate_That_I_Love_You,http://dbpedia.org/resource/I_Hate_You_Then_I_Love_You
+4,76,Automatic,http://dbpedia.org/resource/Automatic_(Prince_song),http://dbpedia.org/resource/Automatic_(Sarah_Whatmore_song)
+4,77,Tell Me Why,http://dbpedia.org/resource/Tell_Me_Why_(Wynonna_Judd_song),http://dbpedia.org/resource/Tell_Me_Why_(Exposé_song) http://dbpedia.org/resource/Tell_Me_Why_(Expose_song)
+4,80,The World,http://dbpedia.org/resource/For_the_World,http://dbpedia.org/resource/The_World_(Brad_Paisley_song)
+4,81,Outta My Head,http://dbpedia.org/resource/Outta_My_Head_(Daughtry_song),http://dbpedia.org/resource/Outta_My_Head_(Craig_Campbell_song)
+4,89,Operator,http://dbpedia.org/resource/Hello_Operator_(song),http://dbpedia.org/resource/Operator_(Motown_song)
+4,93,My Love for You,http://dbpedia.org/resource/My_Love_for_You,http://dbpedia.org/resource/My_Love_for_You_(Has_Turned_to_Hate)
+4,96,"Easy Come, Easy Go",http://dbpedia.org/resource/Easy_Come_Easy_Go_(Winger_song),"http://dbpedia.org/resource/Easy_Come,_Easy_Go_(George_Strait_song)"
+4,97,Dream Away,http://dbpedia.org/resource/Dream_Away_(George_Harrison_song),http://dbpedia.org/resource/Dream_Away_(Babyface_and_Lisa_Stansfield_song)
+4,98,If I Were You,http://dbpedia.org/resource/If_I_Were_You_(Collin_Raye_song),http://dbpedia.org/resource/If_I_Were_You_(Terri_Clark_song)
+4,101,Tonight,http://dbpedia.org/resource/Tonight_(Jonas_Brothers_song),http://dbpedia.org/resource/Tonight_(Move_song) http://dbpedia.org/resource/Tonight_(The_Move_song)
+4,102,You Got What It Takes,http://dbpedia.org/resource/Baby_(You've_Got_What_It_Takes),http://dbpedia.org/resource/You_Got_What_It_Takes

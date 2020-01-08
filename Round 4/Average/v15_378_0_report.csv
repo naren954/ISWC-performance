@@ -1,0 +1,6 @@
+F1: 0.63636,Precision: 0.63636,Recall: 0.63636,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Out of the Blue,http://dbpedia.org/resource/Out_of_the_Blue_(1995_TV_series),http://dbpedia.org/resource/Out_of_the_Blue_(1979_TV_Series) http://dbpedia.org/resource/Out_of_the_Blue_(1979_TV_series)
+0,6,Otherworld,http://dbpedia.org/resource/Y_Mabinogi,http://dbpedia.org/resource/Church_of_Artificial_Intelligence http://dbpedia.org/resource/Otherworld_(TV_series) http://dbpedia.org/resource/Otherworld_(television_series)
+0,10,On Our Own,http://dbpedia.org/resource/On_Our_Own_(1977_TV_series),http://dbpedia.org/resource/All_I_Want_for_Christmas_(On_Our_Own) http://dbpedia.org/resource/On_Our_Own_(1994_TV_series)
+0,11,On Golden Pond,http://dbpedia.org/resource/On_Golden_Pond_(1981_film),http://dbpedia.org/resource/On_Golden_Pond_(2001_film)

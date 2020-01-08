@@ -1,0 +1,4 @@
+F1: 0.75000,Precision: 0.75000,Recall: 0.75000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,4,L. Gottlieb,http://dbpedia.org/resource/Leopold_Gottlieb,http://dbpedia.org/resource/Lea_Roth http://dbpedia.org/resource/Leah_Gottlieb http://dbpedia.org/resource/Leah_Roth http://dbpedia.org/resource/Lea_Gottlieb http://dbpedia.org/resource/Lea_Lenke_Roth http://dbpedia.org/resource/Lady_Leah http://dbpedia.org/resource/Leah_Lenke_Roth
+0,5,K. Cole,http://dbpedia.org/resource/Nat_King_Cole,http://dbpedia.org/resource/Kenneth_Cole_(designer)

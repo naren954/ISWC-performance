@@ -1,0 +1,5 @@
+"F1: 0.70000","Precision: 0.70000","Recall: 0.70000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","1","Carlos Campos","http://dbpedia.org/resource/Carlos_Campos_(footballer,_born_1937)","http://dbpedia.org/resource/Carlos_Campos_Sánchez"
+"0","3","Pedro GonzÃ¡lez","http://dbpedia.org/resource/Pedro_González_(baseball)","http://dbpedia.org/resource/Pedro_González_Vera"
+"0","10","Ernesto Ã\u0081lvarez","nan","http://dbpedia.org/resource/Ernesto_Álvarez"

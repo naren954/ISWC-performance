@@ -1,0 +1,8 @@
+"F1: 0.66667","Precision: 0.66667","Recall: 0.66667"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","1","Ohlsdorf station","http://dbpedia.org/resource/Ohlsdorf_station","http://sws.geonames.org/7932004/"
+"0","2","Chinatown MRT Station","http://dbpedia.org/resource/Chinatown_station_(MBTA)","http://sws.geonames.org/6620440/"
+"0","3","Union Station","http://dbpedia.org/resource/Union_Station_(Toronto)","http://sws.geonames.org/6615458/"
+"0","9","Temple Square","http://dbpedia.org/resource/Temple_Square","http://dbpedia.org/resource/Temple_Square_(UTA_station)"
+"0","12","Sheridan station","http://dbpedia.org/resource/Sheridan_station_(CTA)","http://dbpedia.org/resource/Sheridan_(RTD) http://dbpedia.org/resource/Sheridan_station_(RTD) http://dbpedia.org/resource/Sheridan_Station_(RTD)"
+"0","13","Salem Town railway station","http://dbpedia.org/resource/Violet_Town_railway_station","http://dbpedia.org/resource/Salem_Town_Railway_Station http://dbpedia.org/resource/Salem_Town_railway_station"

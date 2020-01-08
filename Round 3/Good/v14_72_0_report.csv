@@ -1,0 +1,9 @@
+F1: 0.81579,Precision: 0.81579,Recall: 0.81579,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,K. Williams,http://dbpedia.org/resource/Kent_Williams_(artist),http://dbpedia.org/resource/Kenneth_Williams http://dbpedia.org/resource/Syd_Rumpo http://dbpedia.org/resource/The_Kenneth_Williams_Diaries http://dbpedia.org/resource/Kenneth_williams http://dbpedia.org/resource/Rambling_Syd
+0,8,J. Wood,http://dbpedia.org/resource/Henry_Wood,http://dbpedia.org/resource/Jason_Wood_(comedian)
+0,10,H. Morgan,http://dbpedia.org/resource/Harry_Morgan,"http://dbpedia.org/resource/Henry_Morgan_(comedian) http://dbpedia.org/resource/Henry_Lerner http://dbpedia.org/resource/Henry_Morgan_(humorist) http://dbpedia.org/resource/Henry_Lerner_Van_Ost,_Jr."
+0,14,H. Ritz,http://dbpedia.org/resource/Lyle_Ritz,http://dbpedia.org/resource/Harold_Ritz
+0,30,Dolphy,http://dbpedia.org/resource/Eric_Dolphy,"http://dbpedia.org/resource/Rodolfo_Quizon http://dbpedia.org/resource/Dolphy's_Cleanup http://dbpedia.org/resource/Rodolfo_Quizon,_Sr. http://dbpedia.org/resource/Mang_Pidol http://dbpedia.org/resource/Dolphy http://dbpedia.org/resource/Tataynic http://dbpedia.org/resource/Dolphy_Quizon http://dbpedia.org/resource/Philippine_King_of_Comedy http://dbpedia.org/resource/Rodolfo_Vera_Quizon http://dbpedia.org/resource/Pidol http://dbpedia.org/resource/Dolphy_(Filipino_comedian) http://dbpedia.org/resource/Kevin_Kosme http://dbpedia.org/resource/John_Puruntong http://dbpedia.org/resource/Death_and_funeral_of_Dolphy http://dbpedia.org/resource/Rodolfo_Vera_Quizon,_Sr."
+0,31,D. Martin,http://dbpedia.org/resource/Dean_Martin,http://dbpedia.org/resource/Dick_Martin_(comedian)
+0,34,D. Morris,http://dbpedia.org/resource/Wayne_Morris_(American_actor),http://dbpedia.org/resource/Dave_Morris_(comedian)

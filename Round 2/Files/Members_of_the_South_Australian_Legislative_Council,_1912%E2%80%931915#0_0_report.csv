@@ -1,0 +1,4 @@
+"F1: 0.87500","Precision: 0.87500","Recall: 0.87500"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","11","John Lewis","http://dbpedia.org/resource/John_Lewis_(civil_rights_leader)","http://dbpedia.org/resource/John_Lewis_(Australian_politician)"
+"0","15","Alfred William Styles","http://dbpedia.org/resource/Alexander_Cambridge,_1st_Earl_of_Athlone","http://dbpedia.org/resource/Alfred_William_Styles"

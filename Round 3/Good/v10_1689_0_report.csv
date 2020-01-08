@@ -1,0 +1,5 @@
+F1: 0.80000,Precision: 0.80000,Recall: 0.80000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,4,Mount Eden Railway Station,http://dbpedia.org/resource/Mount_Waverley_railway_station,http://dbpedia.org/resource/Mt_Eden_Train_Station http://dbpedia.org/resource/Mt_Eden_Railway_Station http://dbpedia.org/resource/Mount_Eden_Train_Station http://dbpedia.org/resource/Mount_Eden_Railway_Station http://dbpedia.org/resource/Mt_Eden_Station
+0,10,Government Center station,http://dbpedia.org/resource/Government_Center_station_(MBTA),http://dbpedia.org/resource/Government_Center_(changeover_station) http://dbpedia.org/resource/Government_Center_station_(Metromover) http://dbpedia.org/resource/Government_Center_station_(Miami) http://dbpedia.org/resource/Government_Center_(MDT_station) http://dbpedia.org/resource/Government_Center_Downtown_Bus_Terminal http://dbpedia.org/resource/Government_Center_station_(Metrorail) http://dbpedia.org/resource/Government_Center_(Metromover_station)
+0,15,Botanichesky Sad,http://dbpedia.org/resource/Botanichesky_Sad_(Kaluzhsko–Rizhskaya_line),http://dbpedia.org/resource/Botanichesky_Sad_(Moscow_Metro)

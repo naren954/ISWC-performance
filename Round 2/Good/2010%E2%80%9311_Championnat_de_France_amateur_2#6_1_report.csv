@@ -1,0 +1,5 @@
+F1: 0.80000,Precision: 0.80000,Recall: 0.80000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,6,Cholet,http://dbpedia.org/resource/Cholet_Basket,http://dbpedia.org/resource/SO_Choletais http://dbpedia.org/resource/Stade_Olympique_Cholet http://dbpedia.org/resource/Stade_Olympique_Choletais http://dbpedia.org/resource/SO_Cholet
+1,7,Vierzon,http://dbpedia.org/resource/Eglantine_Vierzon,http://dbpedia.org/resource/Vierzon_Foot_18
+1,16,MontluÃ§on (R),http://dbpedia.org/resource/ÉDS_Montluçon,http://dbpedia.org/resource/EDS_Montluçon

@@ -1,0 +1,11 @@
+F1: 0.50000,Precision: 0.50000,Recall: 0.50000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,2,Ramon,http://dbpedia.org/resource/Anselmo_Ramon,http://dbpedia.org/resource/Steve_Ramon
+1,4,Barragan,http://dbpedia.org/resource/Miguel_Barragán,http://dbpedia.org/resource/Jonathan_Barragán
+1,18,Brown,http://dbpedia.org/resource/Hugh_Brown_(boxer),http://dbpedia.org/resource/Mike_Brown_(motorcyclist)
+1,27,Chiodi,http://dbpedia.org/resource/Stefano_Chiodi,http://dbpedia.org/resource/Alessio_Chiodi
+1,85,Jones,http://dbpedia.org/resource/Sidney_Jones_(composer),http://dbpedia.org/resource/Mark_Jones_(Motocross_rider) http://dbpedia.org/resource/Mark_Jones_(Motocross_Rider)
+1,91,Garrido,http://dbpedia.org/resource/Ignacio_Garrido,http://dbpedia.org/resource/Adrian_Garrido
+1,98,Lewis,http://dbpedia.org/resource/Juliette_Lewis,http://dbpedia.org/resource/Jamie_Lewis_(darts_player) http://dbpedia.org/resource/Jamie_Lewis
+1,101,Lawson,http://dbpedia.org/resource/Ernest_Lawson,http://dbpedia.org/resource/Richard_Lawson_(speedway_rider)
+1,106,Carlsson,http://dbpedia.org/resource/Agnes_Carlsson,http://dbpedia.org/resource/Robert_Carlsson

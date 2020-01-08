@@ -1,0 +1,4 @@
+"F1: 0.80000","Precision: 0.80000","Recall: 0.80000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"2","4","A. Ascari","http://dbpedia.org/resource/Alberto_Ascari","http://dbpedia.org/resource/Antonio_Ascari"
+"2","7","C. Bragg","http://dbpedia.org/resource/Don_Bragg","http://dbpedia.org/resource/Caleb_Smith_Bragg http://dbpedia.org/resource/Caleb_S._Bragg http://dbpedia.org/resource/Caleb_Bragg"

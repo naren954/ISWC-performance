@@ -1,0 +1,4 @@
+F1: 0.71429,Precision: 0.71429,Recall: 0.71429,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,5,Shabbir Ahmed,http://dbpedia.org/resource/Shabbir_Ahmed_(cricketer),"http://dbpedia.org/resource/Shabir_Ahmed http://dbpedia.org/resource/Ahmed,_Shabbir http://dbpedia.org/resource/Shabbir_Ahmed_(disambiguation) http://dbpedia.org/resource/Shabbir_Ahmed"
+0,8,Arshad Khan,http://dbpedia.org/resource/Arshad_Khan_(cricketer),http://dbpedia.org/resource/Arshad_Khan

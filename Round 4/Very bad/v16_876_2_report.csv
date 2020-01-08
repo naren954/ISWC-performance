@@ -1,0 +1,7 @@
+F1: 0.16667,Precision: 0.16667,Recall: 0.16667,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,1,J. Scott,http://dbpedia.org/resource/John_Scott_(Australian_politician),http://dbpedia.org/resource/John_Scott_II http://dbpedia.org/resource/John_Wyeth_Scott_II http://dbpedia.org/resource/John_Wyeth_Scott http://dbpedia.org/resource/John_W._Scott_II http://dbpedia.org/resource/Jock_Scott_II http://dbpedia.org/resource/Jock_Scott
+2,2,Baron Willoughby de Broke,"http://dbpedia.org/resource/Richard_Verney,_19th_Baron_Willoughby_de_Broke",http://dbpedia.org/resource/Baroness_Willoughby_de_Broke http://dbpedia.org/resource/The_Lord_Willoughby_de_Broke http://dbpedia.org/resource/Baron_Willoughby_de_Broke http://dbpedia.org/resource/De_Broke http://dbpedia.org/resource/Baron_willoughby_de_broke
+2,3,W. Iqbal,http://dbpedia.org/resource/Javed_Iqbal_(judge),http://dbpedia.org/resource/Waleed_Iqbal
+2,5,J. I. Laskin,http://dbpedia.org/resource/Bora_Laskin,http://dbpedia.org/resource/John_I._Laskin
+2,6,A. O'Keefe,http://dbpedia.org/resource/Tommy_O'Keefe,http://dbpedia.org/resource/Andrew_O'Keefe

@@ -1,0 +1,10 @@
+F1: 0.66667,Precision: 0.66667,Recall: 0.66667,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,G. Call,http://es.dbpedia.org/resource/Guillermo_Call,http://dbpedia.org/resource/Greg_Call
+1,2,G. Call,http://es.dbpedia.org/resource/Guillermo_Call,http://dbpedia.org/resource/Greg_Call
+1,4,P. Newell,http://dbpedia.org/resource/Patrick_Newell,http://dbpedia.org/resource/Peter_Newell
+1,5,D. Wyatt,http://dbpedia.org/resource/Matthew_Digby_Wyatt,http://dbpedia.org/resource/David_Wyatt_(illustrator) http://dbpedia.org/resource/David_wyatt_(illustrator) http://dbpedia.org/resource/David_Wyatt
+1,6,R. Steen,http://dbpedia.org/resource/Jan_Steen,http://dbpedia.org/resource/Rob_Steen
+1,7,L. Sharp,http://dbpedia.org/resource/Gene_Sharp,http://dbpedia.org/resource/Liam_McCormack-Sharp http://dbpedia.org/resource/Liam_Sharp
+1,11,L. Smith,http://dbpedia.org/resource/L._J._Smith_(author),http://dbpedia.org/resource/Lane_Smith_(Illustrator) http://dbpedia.org/resource/Lane_Smith_(illustrator)
+1,24,W. McLoughlin,http://dbpedia.org/resource/Patrick_McLoughlin,http://dbpedia.org/resource/Wayne_McLoughlin

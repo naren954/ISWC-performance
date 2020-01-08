@@ -1,0 +1,5 @@
+"F1: 0.50000","Precision: 0.50000","Recall: 0.50000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"2","1","Trent Bridge, Nottingham","http://dbpedia.org/resource/Nottingham","http://dbpedia.org/resource/Trent_Bridge_Cricket_Ground http://dbpedia.org/resource/Trent_Bridge,_Nottingham http://dbpedia.org/resource/Trent_Bridge"
+"2","3","Lord's, London","http://dbpedia.org/resource/Lord_Mayor_of_London","http://dbpedia.org/resource/Lord's"
+"2","5","Edgbaston, Birmingham","http://dbpedia.org/resource/Birmingham","http://dbpedia.org/resource/Edgbaston http://dbpedia.org/resource/Egbaston http://dbpedia.org/resource/Edgbaston,_Birmingham http://dbpedia.org/resource/Edgbaston,_West_Midlands http://dbpedia.org/resource/Edgebaston"

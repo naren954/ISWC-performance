@@ -1,0 +1,4 @@
+"F1: 0.97872","Precision: 0.97872","Recall: 0.97872"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"3","59","K. Jones","http://dbpedia.org/resource/Ken_Jones_(rugby_union,_born_1921)","http://dbpedia.org/resource/Kelly_Jones_(tennis) http://dbpedia.org/resource/Kelly_Jones_(tennis_player)"
+"3","87","W. Brown","http://dbpedia.org/resource/Wes_Brown","http://dbpedia.org/resource/William_Brown_(tennis)"

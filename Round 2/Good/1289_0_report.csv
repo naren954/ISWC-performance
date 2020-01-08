@@ -1,0 +1,4 @@
+F1: 0.90476,Precision: 0.90476,Recall: 0.90476,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,16,A. Herzen,"http://ru.dbpedia.org/resource/Герцен,_Пётр_Александрович",http://dbpedia.org/resource/Hertzen http://dbpedia.org/resource/Alexander_Hertsen http://dbpedia.org/resource/Gertsen http://dbpedia.org/resource/Alexander_Hertzen http://dbpedia.org/resource/Alexander_Herzen http://dbpedia.org/resource/Aleksandr_Ivanovich_Herzen http://dbpedia.org/resource/Alexandr_Ivanovich_Herzen http://dbpedia.org/resource/Aleksandr_Ivanovich_Gertsen http://dbpedia.org/resource/Alexandr_Herzen http://dbpedia.org/resource/Alexander_Ivanovich_Herzen http://dbpedia.org/resource/Aleksandr_Herzen
+0,19,A. Korn,http://dbpedia.org/resource/Arthur_Korn,http://dbpedia.org/resource/Alejandro_Korn http://dbpedia.org/resource/Alejandro_korn

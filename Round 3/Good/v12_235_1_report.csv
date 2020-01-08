@@ -1,0 +1,23 @@
+F1: 0.81897,Precision: 0.81897,Recall: 0.81897,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,29,"Blackrock, Cork",http://dbpedia.org/resource/Blackrock_GAA,"http://dbpedia.org/resource/Blackrock,_Cork http://dbpedia.org/resource/Blackrock,_County_Cork"
+1,38,Sarsfield's GAA,http://dbpedia.org/resource/Sarsfields_GAA_(County_Galway),http://dbpedia.org/resource/Sarsfield's_GAA_(Cork) http://dbpedia.org/resource/Sarsfields_GAA_(Cork) http://dbpedia.org/resource/Sarsfields_GAA_(County_Cork)
+1,39,Sarsfield's GAA,http://dbpedia.org/resource/Sarsfields_GAA_(County_Galway),http://dbpedia.org/resource/Sarsfield's_GAA_(Cork) http://dbpedia.org/resource/Sarsfields_GAA_(Cork) http://dbpedia.org/resource/Sarsfields_GAA_(County_Cork)
+1,40,Sarsfield's GAA,http://dbpedia.org/resource/Sarsfields_GAA_(County_Galway),http://dbpedia.org/resource/Sarsfield's_GAA_(Cork) http://dbpedia.org/resource/Sarsfields_GAA_(Cork) http://dbpedia.org/resource/Sarsfields_GAA_(County_Cork)
+1,44,Killeavy,http://dbpedia.org/resource/Killeavy_St_Moninna's_GAC,"http://dbpedia.org/resource/Killean,_County_Armagh http://dbpedia.org/resource/Upper_Killeavy http://dbpedia.org/resource/Killeavy http://dbpedia.org/resource/Killeen,_County_Armagh"
+1,46,Clann na nGael GAA,http://dbpedia.org/resource/Clann_na_nGael_GAA_(County_Roscommon),"http://dbpedia.org/resource/Clann_na_nGael,_Tyrone http://dbpedia.org/resource/Clann_na_nGael_GAA_(Tyrone) http://dbpedia.org/resource/Clann_na_nGael_GAA_(County_Tyrone)"
+1,50,Éire Óg Greystones GAA,"http://dbpedia.org/resource/Éire_Óg,_Inis_GAA",http://dbpedia.org/resource/Éire_Óg_Greystones_GAA http://dbpedia.org/resource/Eire_Og_Greystones_GAA
+1,58,St. Brigids,http://dbpedia.org/resource/Saint_Brigid's_GAA,http://dbpedia.org/resource/St._Brigids_(Roscommon) http://dbpedia.org/resource/St._Brigids_(Roscommon)_GAA
+1,60,Na Piarsaigh GAA,http://dbpedia.org/resource/Na_Piarsaigh_GAA_(Limerick),http://dbpedia.org/resource/Na_Piarsaigh_GAA http://dbpedia.org/resource/Na_Piarsaigh
+1,64,"Banagher, County Londonderry",http://dbpedia.org/resource/Derry,"http://dbpedia.org/resource/Banagher_(County_Londonderry) http://dbpedia.org/resource/Banagher,_County_Londonderry http://dbpedia.org/resource/Muriedhach_O'Heney"
+1,69,Four Masters GAA,http://dbpedia.org/resource/Four_Roads_Hurling_Club,"http://dbpedia.org/resource/Four_Masters,_Donegal_GAA http://dbpedia.org/resource/Four_Masters_GAA"
+1,73,"Banagher, County Londonderry",http://dbpedia.org/resource/Derry,"http://dbpedia.org/resource/Banagher_(County_Londonderry) http://dbpedia.org/resource/Banagher,_County_Londonderry http://dbpedia.org/resource/Muriedhach_O'Heney"
+1,78,Na Piarsaigh GAA,http://dbpedia.org/resource/Na_Piarsaigh_GAA_(Limerick),http://dbpedia.org/resource/Na_Piarsaigh_GAA http://dbpedia.org/resource/Na_Piarsaigh
+1,82,Pearse Óg GAC,http://dbpedia.org/resource/Pádraig_Pearse's_GAA,http://dbpedia.org/resource/Pearse_Og http://dbpedia.org/resource/Pearse_Og_GAC http://dbpedia.org/resource/Pearse_Óg http://dbpedia.org/resource/Pearse_Óg_GAC
+1,86,Na Piarsaigh GAA,http://dbpedia.org/resource/Na_Piarsaigh_GAA_(Limerick),http://dbpedia.org/resource/Na_Piarsaigh_GAA http://dbpedia.org/resource/Na_Piarsaigh
+1,90,Sarsfield's GAA,http://dbpedia.org/resource/Sarsfields_GAA_(County_Galway),http://dbpedia.org/resource/Sarsfield's_GAA_(Cork) http://dbpedia.org/resource/Sarsfields_GAA_(Cork) http://dbpedia.org/resource/Sarsfields_GAA_(County_Cork)
+1,94,Pearse Óg GAC,http://dbpedia.org/resource/Pádraig_Pearse's_GAA,http://dbpedia.org/resource/Pearse_Og http://dbpedia.org/resource/Pearse_Og_GAC http://dbpedia.org/resource/Pearse_Óg http://dbpedia.org/resource/Pearse_Óg_GAC
+1,100,C.L.G. Naomh Mícheál,http://dbpedia.org/resource/Athenry_GAA,http://dbpedia.org/resource/Naomh_Mícheál_C.L.G. http://dbpedia.org/resource/Naomh_Micheal_C.L.G. http://dbpedia.org/resource/Naomh_Mícheál http://dbpedia.org/resource/C.L.G._Naomh_Mícheál http://dbpedia.org/resource/Naomh_Micheal http://dbpedia.org/resource/C.L.G._Naomh_Micheal
+1,101,Sarsfields GAA,http://dbpedia.org/resource/Sarsfields_GAA_(County_Galway),http://dbpedia.org/resource/Sarsfield's_GAA_(Cork) http://dbpedia.org/resource/Sarsfields_GAA_(Cork) http://dbpedia.org/resource/Sarsfields_GAA_(County_Cork)
+1,106,Dungiven GAC,http://dbpedia.org/resource/Dungiven_Celtic_F.C.,"http://dbpedia.org/resource/St_Canice's_GAC_Dungiven http://dbpedia.org/resource/St._Canice's_GAC_Dungiven http://dbpedia.org/resource/St._Canice's_GAC,_Dungiven http://dbpedia.org/resource/Dungiven_GAC"
+1,110,Enniskillen Gaels,http://dbpedia.org/resource/Fine_Gael,http://dbpedia.org/resource/Enniskillen_Gaels http://dbpedia.org/resource/Enniskillen_Gaels_GAC

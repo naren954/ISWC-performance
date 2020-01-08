@@ -1,0 +1,7 @@
+F1: 0.86486,Precision: 0.86486,Recall: 0.86486,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Wonder Woman,http://dbpedia.org/resource/Wonder_Woman_(2017_film),http://dbpedia.org/resource/Wonder_Woman_(2009_film) http://dbpedia.org/resource/Wonder_Woman_(animated_movie) http://dbpedia.org/resource/Wonder_Woman_(2009) http://dbpedia.org/resource/Wonder_Woman_(animated_film)
+0,19,Women from Headquarters,http://dbpedia.org/resource/From_Headquarters,http://dbpedia.org/resource/Women_from_Headquarters
+0,20,Women at War,http://dbpedia.org/resource/Women_in_War,http://dbpedia.org/resource/Women_at_War
+0,35,Women's Prison,http://dbpedia.org/resource/Women's_Prison_(1955_film),http://dbpedia.org/resource/Women's_Prison_(2002_film)
+0,37,Women's Prison,http://dbpedia.org/resource/Women's_Prison_(1955_film),http://dbpedia.org/resource/Cárcel_de_Mujeres http://dbpedia.org/resource/Women's_Prison_(1951_film) http://dbpedia.org/resource/Cárcel_de_mujeres_(film)

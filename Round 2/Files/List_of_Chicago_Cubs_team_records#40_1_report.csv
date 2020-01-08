@@ -1,0 +1,3 @@
+"F1: 0.80000","Precision: 0.80000","Recall: 0.80000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","1","Lee Smith","http://dbpedia.org/resource/Lee_Smith_(American_football)","http://dbpedia.org/resource/Lee_Smith_(baseball) http://dbpedia.org/resource/Lee_Arthur_Smith http://dbpedia.org/resource/Lee_Smith_(baseball_player) http://dbpedia.org/resource/Lee_A._Smith"

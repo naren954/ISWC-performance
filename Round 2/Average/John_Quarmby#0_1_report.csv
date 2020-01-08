@@ -1,0 +1,5 @@
+F1: 0.70000,Precision: 0.70000,Recall: 0.70000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,Scotland Yard,http://dbpedia.org/resource/Code_of_Scotland_Yard,http://dbpedia.org/resource/Scotland_Yard_(TV_series)
+1,7,The Scarlet Pimpernel,http://dbpedia.org/resource/The_Scarlet_Pimpernel_(1934_film),http://dbpedia.org/resource/The_Scarlet_Pimpernel_(1982_film)
+1,9,A Christmas Carol,http://dbpedia.org/resource/A_Christmas_Carol_(2004_film),http://dbpedia.org/resource/A_Christmas_Carol_(1984_film)

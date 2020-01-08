@@ -1,0 +1,4 @@
+F1: 0.84615,Precision: 0.84615,Recall: 0.84615,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,2,Bad English,http://dbpedia.org/resource/Richard_III_of_England,http://dbpedia.org/resource/Bad_English
+3,11,Train,http://dbpedia.org/resource/Kristina_Train,http://dbpedia.org/resource/Rob_Hotchkiss http://dbpedia.org/resource/Train_(Band) http://dbpedia.org/resource/Train_(band) http://dbpedia.org/resource/Brandon_Bush http://dbpedia.org/resource/Drew_Shoals http://dbpedia.org/resource/Scott_Underwood

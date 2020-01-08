@@ -1,0 +1,4 @@
+F1: 0.84615,Precision: 0.84615,Recall: 0.84615,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,11,When You Come Back to Me,http://dbpedia.org/resource/When_You_Come_Back_to_Me_Again,http://dbpedia.org/resource/When_You_Come_Back_to_Me_(Jason_Donovan_song)
+0,13,When You're Gone,http://dbpedia.org/resource/When_You're_Gone_(Avril_Lavigne_song),http://dbpedia.org/resource/When_You're_Gone_(The_Cranberries_song) http://dbpedia.org/resource/When_You're_Gone_(Cranberries_song)

@@ -1,0 +1,11 @@
+F1: 0.68966,Precision: 0.68966,Recall: 0.68966,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,5,M. Lefebvre,http://dbpedia.org/resource/Jules_Joseph_Lefebvre,http://dbpedia.org/resource/Marcel_Lefèbvre http://dbpedia.org/resource/Marcel-Francois_Lefebvre http://dbpedia.org/resource/Archbishop_Lefebvre http://dbpedia.org/resource/Bishop_Lefebvre http://dbpedia.org/resource/Marcel_Lefebvre http://dbpedia.org/resource/Archbishop_Marcel-François_Lefebvre http://dbpedia.org/resource/Archbishop_Marcel_Lefebvre http://dbpedia.org/resource/Abp._Lefebvre http://dbpedia.org/resource/Abp_Lefebvre http://dbpedia.org/resource/Archbishop_Marcel-Francois_Lefebvre http://dbpedia.org/resource/Archbishop_Le_Febvre http://dbpedia.org/resource/Marcel-François_Lefebvre
+0,10,J. Hemingway,http://dbpedia.org/resource/Ernest_Hemingway,http://dbpedia.org/resource/Bumby_Hemingway http://dbpedia.org/resource/Muffet_Hemingway http://dbpedia.org/resource/Jack_Hemingway http://dbpedia.org/resource/Joan_Hemingway http://dbpedia.org/resource/John_Hadley_Nicanor_Hemingway
+0,13,H. Millais,http://dbpedia.org/resource/John_Everett_Millais,http://dbpedia.org/resource/Hugh_Millais
+0,16,E. Douglas,http://dbpedia.org/resource/Michael_Douglas,http://dbpedia.org/resource/Eric_Douglas
+0,18,E. Z. Jr.,http://dbpedia.org/resource/Sammy_Davis_Jr.,"http://dbpedia.org/resource/Efrem_Zimblast_Jr. http://dbpedia.org/resource/Efrem_Zimbalist_Junior http://dbpedia.org/resource/Efrem_Zimbalist,_Jr. http://dbpedia.org/resource/Efrem_Zimbalist,_Jr http://dbpedia.org/resource/Efrem_Zimbalist_Jr. http://dbpedia.org/resource/Efrem_Zimbalist_Jr http://dbpedia.org/resource/Efram_Zimbalist,_Jr."
+0,19,D. Crosby,http://dbpedia.org/resource/Bing_Crosby,http://dbpedia.org/resource/Don_Crosby
+0,20,D. Dunne,http://dbpedia.org/resource/Dominick_Dunne,http://dbpedia.org/resource/Dominique_Dunne
+0,21,D. Barrymore,http://dbpedia.org/resource/Lionel_Barrymore,http://dbpedia.org/resource/Diana_Barrymore
+0,22,D. Nelson,http://dbpedia.org/resource/Nelson_Mandela,http://dbpedia.org/resource/David_Nelson_(actor) http://dbpedia.org/resource/David_Oswald_Nelson

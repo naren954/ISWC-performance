@@ -1,0 +1,3 @@
+F1: 0.88889,Precision: 0.88889,Recall: 0.88889,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,5,River Severn,"http://dbpedia.org/resource/River_Dee,_Wales",http://dbpedia.org/resource/Severn_river_(great_britain) http://dbpedia.org/resource/Severn_Vale http://dbpedia.org/resource/River_Severn http://dbpedia.org/resource/Severn_River_(Great_Britain) http://dbpedia.org/resource/Afon_Hafren http://dbpedia.org/resource/Severn http://dbpedia.org/resource/Seven_Boar http://dbpedia.org/resource/The_Severn_River

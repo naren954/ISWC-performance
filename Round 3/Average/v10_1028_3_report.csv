@@ -1,0 +1,6 @@
+F1: 0.71429,Precision: 0.71429,Recall: 0.71429,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,1,A. o. Hungary,http://dbpedia.org/resource/Franz_Joseph_I_of_Austria,http://dbpedia.org/resource/Adelaide_of_Hungary http://dbpedia.org/resource/Adelaide_of_hungary http://dbpedia.org/resource/Adelaide_Arpad
+3,4,K. o. Slavonia,http://dbpedia.org/resource/Oskar_Spate,"http://dbpedia.org/resource/Kunigunda_of_Slavonia http://dbpedia.org/resource/Kunigunda,_Queen_Consort_of_Bohemia http://dbpedia.org/resource/Kunigunda_of_Chernigov http://dbpedia.org/resource/Kunigunda_of_Halych http://dbpedia.org/resource/Kunigunde_of_Halicz http://dbpedia.org/resource/Kunigunde_of_Galizia http://dbpedia.org/resource/Kunigunda,_the_Queen_Regent_of_Bohemia http://dbpedia.org/resource/Kunigunda_of_Halicz"
+3,9,J. o. Hungary,"http://dbpedia.org/resource/Archduke_Joseph,_Palatine_of_Hungary",http://dbpedia.org/resource/Judith_of_Hungary http://dbpedia.org/resource/Judith_Arpad_of_Hungary
+3,12,J. o. Hungary,"http://dbpedia.org/resource/Archduke_Joseph,_Palatine_of_Hungary",http://dbpedia.org/resource/Judith_of_Hungary http://dbpedia.org/resource/Judith_Arpad_of_Hungary

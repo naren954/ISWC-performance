@@ -1,0 +1,6 @@
+F1: 0.78947,Precision: 0.78947,Recall: 0.78947,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,11,Grindhouse,http://dbpedia.org/resource/Grindhouse_(film),http://dbpedia.org/resource/The_Grindhouse http://dbpedia.org/resource/Grindhouses http://dbpedia.org/resource/Grindhouse http://dbpedia.org/resource/Grind_house http://dbpedia.org/resource/Grind_House
+1,18,The Unbeatables,http://dbpedia.org/resource/Underdogs_(2013_Argentine_film),http://dbpedia.org/resource/The_Unbeatables_(film) http://dbpedia.org/resource/Metegol http://dbpedia.org/resource/The_Unbeatables_(2013) http://dbpedia.org/resource/Goool! http://dbpedia.org/resource/Underdogs_(2013_animated_film) http://dbpedia.org/resource/Underbeatables http://dbpedia.org/resource/Futbolín_(Metegol) http://dbpedia.org/resource/Foosball_(film) http://dbpedia.org/resource/Underdogs_(animated_film)
+1,22,Spy,http://dbpedia.org/resource/Austin_Powers:_The_Spy_Who_Shagged_Me,http://dbpedia.org/resource/Spy_(2015_film) http://dbpedia.org/resource/Susan_Cooper_(film)
+1,23,Sing,http://dbpedia.org/resource/Sing_(My_Chemical_Romance_song),http://dbpedia.org/resource/Sing_(2016_film)

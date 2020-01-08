@@ -1,0 +1,9 @@
+F1: 0.30000,Precision: 0.30000,Recall: 0.30000,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,1,Gareth Edwards,http://dbpedia.org/resource/Gareth_Edwards_(Welsh_cricketer),http://dbpedia.org/resource/Gareth_Edwards_(producer) http://dbpedia.org/resource/The_Disgusting_Sandwich
+3,2,David Tyler,http://dbpedia.org/resource/David_Tyler_(businessman),http://dbpedia.org/resource/David_Tyler_(producer) http://dbpedia.org/resource/David_Tyler_(UK)
+3,3,Jacques Brown,http://dbpedia.org/resource/Jacques_Rueff,http://dbpedia.org/resource/Jacques_Brown
+3,5,David Tyler,http://dbpedia.org/resource/David_Tyler_(businessman),http://dbpedia.org/resource/David_Tyler_(producer) http://dbpedia.org/resource/David_Tyler_(UK)
+3,6,Lee Hansen,http://dbpedia.org/resource/Marcus_Lee_Hansen,http://dbpedia.org/resource/Lee_Hansen_radio http://dbpedia.org/resource/Lee_Hansen http://dbpedia.org/resource/Lee_Hansen_(radio)
+3,8,Carlton E. Morse,http://dbpedia.org/resource/Carlton_E._Brown,http://dbpedia.org/resource/Carlton_Morse http://dbpedia.org/resource/Carlton_E._Morse
+3,10,William Morrow,http://dbpedia.org/resource/William_Morrow_(publisher),http://dbpedia.org/resource/William_Morrow_(screenwriter)

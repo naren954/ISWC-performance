@@ -1,0 +1,4 @@
+F1: 0.60000,Precision: 0.60000,Recall: 0.60000,,
+Col,Row,Value,Submitted URI,Correct URI's
+4,3,John Whitaker (D) [Data unknown\/missing. You can help!],http://dbpedia.org/resource/Jack_Straw,http://dbpedia.org/resource/John_A._Whitaker http://dbpedia.org/resource/John_Albert_Whitaker
+4,4,William Lewis (R) [Data unknown\/missing. You can help!],http://dbpedia.org/resource/William_Henry_Harrison,http://dbpedia.org/resource/William_Lewis_(Kentucky_politician)

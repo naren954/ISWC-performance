@@ -1,0 +1,5 @@
+"F1: 0.25000","Precision: 0.25000","Recall: 0.25000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"2","1","Qingxiang","http://ru.dbpedia.org/resource/Лау_Хинчхён","http://dbpedia.org/resource/Chu_Qingxiang_Wang http://dbpedia.org/resource/Qingxiang http://dbpedia.org/resource/King_Qingxiang_of_Chu http://dbpedia.org/resource/Xiong_Heng"
+"2","4","Min","http://dbpedia.org/resource/Ming_dynasty","http://dbpedia.org/resource/Di,_King_Min_of_Qi http://dbpedia.org/resource/Qi_Min_Wang http://dbpedia.org/resource/King_Min_of_Qi"
+"2","10","Huiwen","http://dbpedia.org/resource/Shangguan_Wan'er","http://dbpedia.org/resource/King_Huiwen_of_Zhao"

@@ -1,0 +1,6 @@
+"F1: 0.75000","Precision: 0.75000","Recall: 0.75000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","2","W. Blount","http://dbpedia.org/resource/William_Blount","http://dbpedia.org/resource/Willie_Blount"
+"0","3","W. Greene","http://dbpedia.org/resource/Walter_Massy-Greene","http://dbpedia.org/resource/William_Greene_(lieutenant_governor)"
+"0","12","R. C. Wickliffe","http://dbpedia.org/resource/Robert_Charles_Wickliffe","http://dbpedia.org/resource/Robert_Wickliffe http://dbpedia.org/resource/Robert_C._Wickliffe"
+"0","13","R. C. Moody","http://dbpedia.org/resource/Gideon_C._Moody","http://dbpedia.org/resource/Richards_Clement_Moody http://dbpedia.org/resource/Colonel_Moody http://dbpedia.org/resource/Colonel_R.C._Moody http://dbpedia.org/resource/R.C._Moody http://dbpedia.org/resource/Richard_Moody http://dbpedia.org/resource/Richard_Clement_Moody"

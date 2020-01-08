@@ -1,0 +1,4 @@
+F1: 0.93333,Precision: 0.93333,Recall: 0.93333,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,13,1950 Monaco Grand Prix,http://dbpedia.org/resource/1958_Monaco_Grand_Prix,http://dbpedia.org/resource/1950_Monaco_Grand_Prix
+2,18,1961 United States Grand Prix,http://dbpedia.org/resource/1960_United_States_Grand_Prix,http://dbpedia.org/resource/1961_United_States_Grand_Prix

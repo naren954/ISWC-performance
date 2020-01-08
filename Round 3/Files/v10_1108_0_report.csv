@@ -1,0 +1,4 @@
+"F1: 0.88235","Precision: 0.88235","Recall: 0.88235"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","3","Daddy Long Legs","http://dbpedia.org/resource/Daddy_Long_Legs_(1955_film)","http://dbpedia.org/resource/Daddy_Long_Legs_(2009_musical) http://dbpedia.org/resource/Daddy_Long_Legs_(musical)"
+"0","11","Coco","http://dbpedia.org/resource/Coco_(2017_film)","http://dbpedia.org/resource/Coco_(musical)"

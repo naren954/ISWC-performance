@@ -1,0 +1,4 @@
+"F1: 0.75000","Precision: 0.75000","Recall: 0.75000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","1","VIFK Vaasa (C)","http://dbpedia.org/resource/Vaasan_Palloseura","http://dbpedia.org/resource/Vasa_IFK http://dbpedia.org/resource/BK-IFK_Vaasa http://dbpedia.org/resource/VIFK_Vaasa http://dbpedia.org/resource/VIFK"
+"1","5","HIFK Helsinki","http://dbpedia.org/resource/HIFK_Fotboll","http://dbpedia.org/resource/IFK_Helsingfors http://dbpedia.org/resource/HIFK http://dbpedia.org/resource/Helsinki_IFK http://dbpedia.org/resource/Helsingfors_IFK http://dbpedia.org/resource/IFK_Helsinki http://dbpedia.org/resource/Big_Red_Cats http://dbpedia.org/resource/Helsingin_IFK"

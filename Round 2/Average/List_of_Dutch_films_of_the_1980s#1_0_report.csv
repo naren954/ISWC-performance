@@ -1,0 +1,16 @@
+F1: 0.70833,Precision: 0.70833,Recall: 0.70833,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,7,Charlotte,http://dbpedia.org/resource/Charlotte_Rampling,http://dbpedia.org/resource/Charlotte_(film)
+0,10,De Pretenders,http://dbpedia.org/resource/The_Pretenders_(1981_film),http://dbpedia.org/resource/Pretenders_(disambiguation) http://dbpedia.org/resource/Pretenders http://dbpedia.org/resource/The_Pretenders_(film)
+0,14,Breathless,http://dbpedia.org/resource/Breathless_(1983_film),http://dbpedia.org/resource/Breathless_(1982_film) http://dbpedia.org/resource/Ademloos
+0,17,Luger,http://dbpedia.org/resource/Luger_pistol,http://dbpedia.org/resource/Luger_(film)
+0,32,The Illusionist,http://dbpedia.org/resource/The_Illusionist_(2006_film),http://dbpedia.org/resource/The_Illusionist_(1983_film) http://dbpedia.org/resource/De_Illusionist
+0,41,Ciske de Rat,http://dbpedia.org/resource/Ciske_de_Rat_(1984_film),http://dbpedia.org/resource/Ciske http://dbpedia.org/resource/Ciske_de_rat http://dbpedia.org/resource/Ciske_de_Rat_(film_uit_1984) http://dbpedia.org/resource/Ciske_de_Rat http://dbpedia.org/resource/Ciske_the_Rat_(film) http://dbpedia.org/resource/Ciske_the_Rat
+0,48,De grens,,http://dbpedia.org/resource/De_grens http://dbpedia.org/resource/De_Grens
+0,67,Flodder,http://dbpedia.org/resource/Flodder_3,http://dbpedia.org/resource/Flodder http://dbpedia.org/resource/Flodder_(film)
+0,68,De Aanslag,http://dbpedia.org/resource/The_Assault_(1986_film),http://dbpedia.org/resource/De_aanslag http://dbpedia.org/resource/De_Aanslag_(film) http://dbpedia.org/resource/The_Assault_(film)
+0,69,Abel,,http://dbpedia.org/resource/Abel_(film)
+0,82,Zoeken naar Eileen W,http://dbpedia.org/resource/Zoeken_naar_Eileen_(film),http://dbpedia.org/resource/Zoeken_naar_Eileen_W
+0,87,Donna Donna,,"http://dbpedia.org/resource/Dana_Dana http://dbpedia.org/resource/Dos_kelbl http://dbpedia.org/resource/Donna_Donna http://dbpedia.org/resource/Dona,_Dona http://dbpedia.org/resource/Donna,_Donna"
+0,93,The Vanishing,http://dbpedia.org/resource/The_Vanishing_Man,http://dbpedia.org/resource/L'Homme_Qui_Voulait_Savoir http://dbpedia.org/resource/Spoorloos http://dbpedia.org/resource/Spoorloos_(film) http://dbpedia.org/resource/The_Vanishing_(1988_film)
+0,98,De KassiÃ¨re,http://dbpedia.org/resource/Lily_Was_Here_(film),http://dbpedia.org/resource/De_Kassière

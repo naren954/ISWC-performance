@@ -1,0 +1,5 @@
+"F1: 0.97143","Precision: 0.97143","Recall: 0.97143"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","23","Dorset Downs","http://dbpedia.org/resource/North_Downs","http://dbpedia.org/resource/Dorset_Downs http://dbpedia.org/resource/South_Dorset_Downs"
+"1","91","Wansu mountain range","http://dbpedia.org/resource/California_Coast_Ranges","http://dbpedia.org/resource/Cordillera_de_Huanso http://dbpedia.org/resource/Huanzo_mountain_range http://dbpedia.org/resource/Huanso_mountain_range http://dbpedia.org/resource/Wansu_mountain_range http://dbpedia.org/resource/Cordillera_de_Huanzo"
+"1","95","North Western Fells","http://dbpedia.org/resource/Felling,_Tyne_and_Wear","http://dbpedia.org/resource/North_Western_Fells"

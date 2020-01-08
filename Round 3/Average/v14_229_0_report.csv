@@ -1,0 +1,16 @@
+F1: 0.70213,Precision: 0.70213,Recall: 0.70213,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,4,Wonder Party,http://dbpedia.org/resource/Wonder_World_(album),http://dbpedia.org/resource/Wonder_Party http://dbpedia.org/resource/The_DJ_is_Mine
+0,6,Wonder,http://dbpedia.org/resource/I_Wonder_(Kellie_Pickler_song),http://dbpedia.org/resource/Wonder_(Naughty_Boy_song) http://dbpedia.org/resource/Wonder_(Emeli_Sandé_song) http://dbpedia.org/resource/Wonder_(Naughty_Boy_Song)
+0,7,Wonder,http://dbpedia.org/resource/I_Wonder_(Kellie_Pickler_song),http://dbpedia.org/resource/Wonder_(Michael_W._Smith_album)
+0,8,Wonder,http://dbpedia.org/resource/I_Wonder_(Kellie_Pickler_song),http://dbpedia.org/resource/Wonder_(Lisa_Mitchell_album) http://dbpedia.org/resource/Paint_it_Gold http://dbpedia.org/resource/The_Attic_Space
+0,9,Won't Look Back,http://dbpedia.org/resource/Won't_Look_Back_(song),http://dbpedia.org/resource/Won't_Look_Back
+0,18,Women,http://dbpedia.org/resource/Women_in_Uniform,http://dbpedia.org/resource/Women_(Def_Leppard_song)
+0,21,Woman to Woman,http://dbpedia.org/resource/Woman_to_Woman_(Beverley_Craven_song),http://dbpedia.org/resource/Woman_to_Woman_(Keyshia_Cole_album) http://dbpedia.org/resource/I_Choose_You_(Keyshia_Cole_song)
+0,28,Woman,http://dbpedia.org/resource/Woman_(John_Lennon_song),http://dbpedia.org/resource/Woman_(Wolfmother_song)
+0,29,Woman,http://dbpedia.org/resource/Woman_(John_Lennon_song),http://dbpedia.org/resource/Woman_(Sensuous_Woman)
+0,31,Woman's Gotta Have It,http://dbpedia.org/resource/Woman's_Gotta_Have_It_(song),http://dbpedia.org/resource/Woman's_Gotta_Have_It
+0,40,Wolf Parade,http://dbpedia.org/resource/Wolf_Parade_(2005_EP),http://dbpedia.org/resource/Wolf_Parade_(2004_EP) http://dbpedia.org/resource/Wolf_Parade_(6_song_EP) http://dbpedia.org/resource/6-Song_(E.P.)
+0,42,Wolf,http://dbpedia.org/resource/Patrick_Wolf,"http://dbpedia.org/resource/Wolf_(Tyler,_The_Creator_album) http://dbpedia.org/resource/Wolf_(Tyler,_the_Creator_album)"
+0,43,Wolf,http://dbpedia.org/resource/Patrick_Wolf,http://dbpedia.org/resource/Wolf_(Trevor_Rabin_Album) http://dbpedia.org/resource/Wolf_(Trevor_Rabin_album)
+0,47,Woke Up with a Monster,http://dbpedia.org/resource/Woke_Up_with_a_Monster,http://dbpedia.org/resource/Woke_Up_with_a_Monster_(song) http://dbpedia.org/resource/Woke_up_with_a_Monster_(song)

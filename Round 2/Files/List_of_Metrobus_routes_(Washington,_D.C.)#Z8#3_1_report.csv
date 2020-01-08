@@ -1,0 +1,3 @@
+"F1: 0.00000","Precision: 0.00000","Recall: 0.00000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","78","Pennsylvania Avenue Line","http://dbpedia.org/resource/Pennsylvania_Avenue_station_(IRT_New_Lots_Line)","http://dbpedia.org/resource/Route_36_(WMATA) http://dbpedia.org/resource/Route_35_(WMATA) http://dbpedia.org/resource/Pennsylvania_Avenue_Line_(Washington,_D.C.) http://dbpedia.org/resource/Route_32_(WMATA) http://dbpedia.org/resource/Route_39_(WMATA) http://dbpedia.org/resource/Route_36_(Washington_bus) http://dbpedia.org/resource/Route_34_(WMATA) http://dbpedia.org/resource/Route_30_(WMATA) http://dbpedia.org/resource/Pennsylvania_Avenue_Line_(Washington) http://dbpedia.org/resource/Route_30_(Washington_bus)"

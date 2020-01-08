@@ -1,0 +1,56 @@
+F1: 0.71579,Precision: 0.71579,Recall: 0.71579,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,D. Nelson,http://dbpedia.org/resource/Oliver_Nelson,http://dbpedia.org/resource/David_Nelson_(actor) http://dbpedia.org/resource/David_Oswald_Nelson
+0,7,D. Jackson,http://dbpedia.org/resource/Michael_Jackson,http://dbpedia.org/resource/David_Jackson_(British_actor)
+0,12,D. Arkin,http://dbpedia.org/resource/Alan_Arkin,http://dbpedia.org/resource/David_George_Arkin http://dbpedia.org/resource/David_Arkin
+0,15,D. Kaye,http://dbpedia.org/resource/Danny_Kaye,"http://dbpedia.org/resource/Darwood_Kaye http://dbpedia.org/resource/Darwood_Smith http://dbpedia.org/resource/Darwood_""Waldo""_Kaye http://dbpedia.org/resource/Darwood_Kenneth_Smith"
+0,18,D. Singh,http://dbpedia.org/resource/Doodhnath_Singh,http://dbpedia.org/resource/Dara_Singh
+0,19,D. DiPaolo,http://dbpedia.org/resource/Andrea_del_Sarto,http://dbpedia.org/resource/Dante_Di_Paolo http://dbpedia.org/resource/Dante_DiPaolo
+0,26,D. Hill,http://dbpedia.org/resource/Jacqueline_Hill,http://dbpedia.org/resource/Dana_Hill
+0,33,D. Robertson,http://dbpedia.org/resource/Dennis_Robertson_(economist),http://dbpedia.org/resource/Dale_Robertson
+0,40,C. Howard,http://dbpedia.org/resource/Catherine_Howard,"http://dbpedia.org/resource/Jerome_Lester_Horwitz http://dbpedia.org/resource/Curly_(The_Three_Stooges) http://dbpedia.org/resource/""Nyuk-nyuk-nyuk!"" http://dbpedia.org/resource/Jerome_Lester_Horowitz http://dbpedia.org/resource/Soitenly! http://dbpedia.org/resource/Jerome_Howard http://dbpedia.org/resource/Jerry_Howard http://dbpedia.org/resource/Curley_Howard http://dbpedia.org/resource/Curly_Howard http://dbpedia.org/resource/Nyuk-nyuk-nyuk!"
+0,42,C. Stevens,http://dbpedia.org/resource/J._Christopher_Stevens,http://dbpedia.org/resource/Craig_Stevens_(actor)
+0,43,C. Russell,http://dbpedia.org/resource/Calvin_Russell_(musician),http://dbpedia.org/resource/Russell_Eadie http://dbpedia.org/resource/Russell_C._Eadie http://dbpedia.org/resource/Craig_Russell_(Canadian_actor) http://dbpedia.org/resource/Russell_Craig_Eadie http://dbpedia.org/resource/Craig_Russell_(female_impersonator) http://dbpedia.org/resource/Craig_Russell_(actor_born_1948)
+0,47,C. Talmadge,http://dbpedia.org/resource/Norma_Talmadge,http://dbpedia.org/resource/Constance_Talmadge
+0,48,C. Ellis,http://dbpedia.org/resource/Caleb_Ellis,http://dbpedia.org/resource/Constance_Ellis
+0,55,C. Wilcox,http://dbpedia.org/resource/Collin_Wilcox_(writer),http://dbpedia.org/resource/Collin_Wilcox-Paxton http://dbpedia.org/resource/Collin_Wilcox_(actress) http://dbpedia.org/resource/Collin_Wilcox_Paxton http://dbpedia.org/resource/Collin_Wilcox-Horne http://dbpedia.org/resource/Collin_Wilcox_Horne
+0,56,C. Moore,http://dbpedia.org/resource/C._L._Moore,http://dbpedia.org/resource/Kathleen_Morrison http://dbpedia.org/resource/Colleen_Moore
+0,60,C. Francis,http://dbpedia.org/resource/Francis_I_of_France,http://dbpedia.org/resource/Coleman_Francis http://dbpedia.org/resource/Coleman_C._Francis
+0,61,C. Chu,http://dbpedia.org/resource/Steven_Chu,http://dbpedia.org/resource/Coching_Chu http://dbpedia.org/resource/Chu_Kochen http://dbpedia.org/resource/Chu_Coching http://dbpedia.org/resource/Zhu_Kezhen http://dbpedia.org/resource/Chu_coching
+0,63,C. Young,http://dbpedia.org/resource/Carleton_Young,http://dbpedia.org/resource/Clifton_Young
+0,68,C. Arquette,http://dbpedia.org/resource/Alexis_Arquette,http://dbpedia.org/resource/Cliff_Arquette http://dbpedia.org/resource/Charley_Weaver
+0,71,C. Moore,http://dbpedia.org/resource/C._L._Moore,http://dbpedia.org/resource/Clayton_Moore
+0,77,C. Schumann,http://dbpedia.org/resource/Robert_Schumann,"http://dbpedia.org/resource/Clara_Josephine_Wieck_Schumann http://dbpedia.org/resource/Clara_Wieck_Schumann http://dbpedia.org/resource/Clara_Schumann http://dbpedia.org/resource/Clara_Wieck http://dbpedia.org/resource/Klara_Schumann http://dbpedia.org/resource/Schumann,_Clara_Josephine http://dbpedia.org/resource/Clara_Josephine_Wieck http://dbpedia.org/resource/Clara_Josephine_Schumann"
+0,83,C. Stone,http://dbpedia.org/resource/Chuck_Stone,http://dbpedia.org/resource/Christopher_Stone_(actor)
+0,85,C. Mitchell,http://dbpedia.org/resource/Cameron_Mitchell_(actor),http://dbpedia.org/resource/Christopher_Mitchell_(actor)
+0,86,C. Mayer,http://dbpedia.org/resource/Constance_Mayer,http://dbpedia.org/resource/George_Charles_Mayer http://dbpedia.org/resource/George_Charles_Mayer_III http://dbpedia.org/resource/George_Mayer_III http://dbpedia.org/resource/Christopher_Mayer_(American_actor)
+0,88,C. George,http://dbpedia.org/resource/George_Wallace,http://dbpedia.org/resource/Christopher_george http://dbpedia.org/resource/Christopher_George
+0,89,C. Gable,http://dbpedia.org/resource/Clark_Gable,http://dbpedia.org/resource/Christopher_Gable
+0,93,C. Penn,http://dbpedia.org/resource/Napoleon,http://dbpedia.org/resource/Christopher_Ryan_Penn http://dbpedia.org/resource/Christopher_Penn http://dbpedia.org/resource/Chris_Penn
+0,99,C. Marx,http://dbpedia.org/resource/Karl_Marx,"http://dbpedia.org/resource/Leonard_Marx http://dbpedia.org/resource/Maxine_Marx http://dbpedia.org/resource/Leonard_""Chico""_Marx http://dbpedia.org/resource/Chico_Marx"
+0,105,C. Smith,http://dbpedia.org/resource/Cordwainer_Smith,http://dbpedia.org/resource/Charles_Smith_(actor)
+0,106,C. Scorsese,http://dbpedia.org/resource/Catherine_Scorsese,http://dbpedia.org/resource/Charles_Scorsese http://dbpedia.org/resource/Luciano_Charles_Scorsese
+0,111,C. King,http://dbpedia.org/resource/Clarence_King,"http://dbpedia.org/resource/Charles_King_(musical_actor) http://dbpedia.org/resource/Charles_King_(vaudevillian) http://dbpedia.org/resource/Charles_King_(actor,_born_1886) http://dbpedia.org/resource/Charles_King_(musical_actor,_born_1886)"
+0,112,C. K. French,http://dbpedia.org/resource/Francis_I_of_France,http://dbpedia.org/resource/Charles_K._French
+0,127,C. Greiner,http://dbpedia.org/resource/Cathy_Stewart,http://dbpedia.org/resource/Catherine_Greiner
+0,129,C. Calvert,http://dbpedia.org/resource/Eddie_Calvert,http://dbpedia.org/resource/Catherine_Calvert
+0,130,C. Daley,http://dbpedia.org/resource/Richard_J._Daley,http://dbpedia.org/resource/Cass_Daley http://dbpedia.org/resource/Catherine_Dailey
+0,134,C. Jones,http://dbpedia.org/resource/Chuck_Jones,http://dbpedia.org/resource/Carolyn_Jones http://dbpedia.org/resource/Carolyn_Sue_Jones
+0,136,C. Aherne,http://dbpedia.org/resource/Brian_Aherne,http://dbpedia.org/resource/Caroline_Hook http://dbpedia.org/resource/Mrs._Murton http://dbpedia.org/resource/Caroline_Mary_Aherne http://dbpedia.org/resource/Caroline_Ahern http://dbpedia.org/resource/Caroline_Aherne http://dbpedia.org/resource/Mrs_Murton
+0,137,C. Mathews,http://dbpedia.org/resource/Charles_Mathews,http://dbpedia.org/resource/Carole_Mathews
+0,138,C. Cole,http://dbpedia.org/resource/Cozy_Cole,http://dbpedia.org/resource/Caroline_Cole http://dbpedia.org/resource/Cookie_Cole http://dbpedia.org/resource/Carole_Cole
+0,140,C. Christensen,http://dbpedia.org/resource/Carl_Christensen_(botanist),http://dbpedia.org/resource/Carol_Christensen
+0,142,C. Silvera,http://dbpedia.org/resource/Frank_Silvera,http://dbpedia.org/resource/Carmen_Silvera
+0,144,C. Rivas,http://dbpedia.org/resource/María_Rivas_(actress),http://dbpedia.org/resource/Carlos_Rivas_(actor)
+0,148,C. Anderson,http://dbpedia.org/resource/Chris_Anderson_(pianist),http://dbpedia.org/resource/Carl_Anderson_(singer)
+0,152,C. Lockhart,http://dbpedia.org/resource/Gene_Lockhart,http://dbpedia.org/resource/Calvin_Lockhart
+0,160,B. Siegel,http://dbpedia.org/resource/Don_Siegel,"http://dbpedia.org/resource/Bugsy_seegle http://dbpedia.org/resource/Esta_Krakower http://dbpedia.org/resource/Benjamin_Bugsy_Siegel http://dbpedia.org/resource/Ben_Siegal http://dbpedia.org/resource/Bugsy_Siegel http://dbpedia.org/resource/Bugsy_siegal http://dbpedia.org/resource/Bugsy_seegal http://dbpedia.org/resource/Bugsy_Seigel http://dbpedia.org/resource/Bugsy_Siegle http://dbpedia.org/resource/Benjamin_Siegel http://dbpedia.org/resource/Bugsy_Seigal http://dbpedia.org/resource/Benjamin_""Bugsy""_Segal http://dbpedia.org/resource/Bugsy_Segal http://dbpedia.org/resource/Ben_Siegel http://dbpedia.org/resource/Bugsey_Siegal http://dbpedia.org/resource/Benjamin_""Bugsy""_Siegel"
+0,161,B. McDonald,http://dbpedia.org/resource/Bill_McDonald_(Texas_Ranger),http://dbpedia.org/resource/Buddy_McDonald
+0,168,B. Hart,http://dbpedia.org/resource/Lorenz_Hart,http://dbpedia.org/resource/Bruce_Hart_(songwriter)
+0,171,B. Bennett,http://dbpedia.org/resource/R._B._Bennett,http://dbpedia.org/resource/Herman_Brix http://dbpedia.org/resource/Harold_Herman_Brix http://dbpedia.org/resource/Bruce_Bennett
+0,175,B. King,http://dbpedia.org/resource/B.B._King,http://dbpedia.org/resource/Brett_King
+0,180,B. Poe,http://dbpedia.org/resource/Neilson_Poe_(American_football),http://dbpedia.org/resource/Bonnie_poe http://dbpedia.org/resource/Bonnie_Poe
+0,181,B. Franklin,http://dbpedia.org/resource/Aretha_Franklin,http://dbpedia.org/resource/Bonnie_Franklin
+0,182,B. Bonnell,http://dbpedia.org/resource/Vivian_Bonnell,http://dbpedia.org/resource/Bonnie_Bonnell
+0,184,B. Jordan,http://dbpedia.org/resource/Barbara_Jordan,http://dbpedia.org/resource/Bobby_Jordan http://dbpedia.org/resource/Bobby_jordan
+0,189,B. Peck,http://dbpedia.org/resource/Gregory_Peck,http://dbpedia.org/resource/Bob_Peck

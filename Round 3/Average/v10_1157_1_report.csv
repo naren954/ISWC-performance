@@ -1,0 +1,7 @@
+F1: 0.68750,Precision: 0.68750,Recall: 0.68750,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,LEG,http://dbpedia.org/resource/Island_Records,http://dbpedia.org/resource/Triage_Entertainment http://dbpedia.org/resource/LEG_(entertainment_company) http://dbpedia.org/resource/Levity_Productions http://dbpedia.org/resource/Levity_Entertainment_Group
+1,2,Prabhu Nepal,http://dbpedia.org/resource/Prabhu_Deva,http://dbpedia.org/resource/Prabhu_nepal http://dbpedia.org/resource/Prabhu_Nepal
+1,7,Gil Wadsworth,http://dbpedia.org/resource/Peleg_Wadsworth,http://dbpedia.org/resource/Gil_wadsworth http://dbpedia.org/resource/Gil_Wadsworth
+1,12,Marvelous Entertainment,http://dbpedia.org/resource/Marvelous_(company),http://dbpedia.org/resource/Marvellous_Entertainment http://dbpedia.org/resource/Marvelous_Entertainment_USA http://dbpedia.org/resource/Marvelous_Interactive http://dbpedia.org/resource/Marvelous_Entertainment_Inc. http://dbpedia.org/resource/Marvelous_Entertainment http://dbpedia.org/resource/Marvelous_Interactive_Inc.
+1,15,Charlie Hanson,http://dbpedia.org/resource/Charles_Manson,http://dbpedia.org/resource/Charlie_Hanson

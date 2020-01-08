@@ -1,0 +1,9 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Chicago Cubs,http://dbpedia.org/resource/Chicago_Cubs,http://dbpedia.org/resource/1932_Chicago_Cubs_season
+0,2,Pittsburgh Pirates,http://dbpedia.org/resource/Pittsburgh_Pirates,http://dbpedia.org/resource/1932_Pittsburgh_Pirates_season
+0,3,Brooklyn Dodgers,http://dbpedia.org/resource/Los_Angeles,http://dbpedia.org/resource/1932_Brooklyn_Dodgers_season
+0,4,Philadelphia Phillies,http://dbpedia.org/resource/Philadelphia,http://dbpedia.org/resource/1932_Philadelphia_Phillies_season
+0,5,Boston Braves,http://dbpedia.org/resource/Washington_Redskins,http://dbpedia.org/resource/1932_Boston_Braves_season
+0,7,St. Louis Cardinals,http://dbpedia.org/resource/Dallas_Cowboys,http://dbpedia.org/resource/1932_St._Louis_Cardinals_season
+0,8,Cincinnati Reds,http://dbpedia.org/resource/Cincinnati,http://dbpedia.org/resource/1932_Cincinnati_Reds_season

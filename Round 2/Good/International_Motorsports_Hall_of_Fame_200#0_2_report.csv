@@ -1,0 +1,4 @@
+F1: 0.95745,Precision: 0.95745,Recall: 0.95745,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,9,Sandy Satullo,http://dbpedia.org/resource/Sandy_Hoffmann,http://dbpedia.org/resource/Sandy_Satullo
+2,40,David Keith,http://dbpedia.org/resource/David_Lynch,http://dbpedia.org/resource/David_Keith http://dbpedia.org/resource/David_Lemuel_Keith

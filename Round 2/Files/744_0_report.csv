@@ -1,0 +1,3 @@
+"F1: 0.90909","Precision: 0.90909","Recall: 0.90909"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","5","Auckland Harbour Bridge","http://dbpedia.org/resource/Sydney_Harbour_Bridge","http://dbpedia.org/resource/Auckland_Harbour_Bridge http://dbpedia.org/resource/Auckland_Harbor_Bridge http://dbpedia.org/resource/Sky_Path"

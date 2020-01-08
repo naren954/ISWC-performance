@@ -1,0 +1,7 @@
+F1: 0.88095,Precision: 0.88095,Recall: 0.88095,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,T. Morgan,http://dbpedia.org/resource/Thomas_Morgan_(bassist),http://dbpedia.org/resource/Tracey_Morgan http://dbpedia.org/resource/Astronaut_jones http://dbpedia.org/resource/Astronaut_Jones http://dbpedia.org/resource/Kevin_Roper http://dbpedia.org/resource/Tracy_Jamal_Morgan http://dbpedia.org/resource/Tracie_Morgan http://dbpedia.org/resource/Tracy_Morgan
+0,6,S. Chong,http://dbpedia.org/resource/Joan_Chen,http://dbpedia.org/resource/Shelby_Fiddis http://dbpedia.org/resource/Shelby_Chong
+0,12,R. White,http://dbpedia.org/resource/Ruth_White_(composer),http://dbpedia.org/resource/Drunk_In_Public_album http://dbpedia.org/resource/Ron_White http://dbpedia.org/resource/You_Can't_Fix_Stupid:_2006 http://dbpedia.org/resource/You_cant_fix_stupid
+0,23,M. Mira,http://es.dbpedia.org/resource/Magüi_Mira,http://dbpedia.org/resource/Matt_Mira
+0,40,J. Davidson,http://dbpedia.org/resource/John_Davidson_(entertainer),"http://dbpedia.org/resource/Cameron_James_Davidson http://dbpedia.org/resource/Jim_Davidson http://dbpedia.org/resource/Jim_Davidson_(comedian) http://dbpedia.org/resource/Jim_Davidson_(""comedian"") http://dbpedia.org/resource/Davidson,_Jim http://dbpedia.org/resource/Cameron_Jim_Davidson http://dbpedia.org/resource/The_Jim_Davidson_Show"

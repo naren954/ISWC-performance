@@ -1,0 +1,5 @@
+F1: 0.76923,Precision: 0.76923,Recall: 0.76923,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,Music,http://dbpedia.org/resource/Music_(Madonna_album),http://dbpedia.org/resource/Music_(Sakanaction_song)
+1,2,She,http://dbpedia.org/resource/She_(Green_Day_song),"http://dbpedia.org/resource/She_(Tyler_the_Creator_song) http://dbpedia.org/resource/She_(Tyler,_the_Creator_song) http://dbpedia.org/resource/She_(Tyler_The_Creator_song) http://dbpedia.org/resource/She_(Tyler,_The_Creator_song) http://dbpedia.org/resource/She_(Tyler,_The_Creator_Song)"
+1,11,Top of the World,http://dbpedia.org/resource/Top_of_the_World_(Brandy_song),http://dbpedia.org/resource/Top_of_the_World_(The_Carpenters_song) http://dbpedia.org/resource/Top_of_the_World_(Lynn_Anderson_song)

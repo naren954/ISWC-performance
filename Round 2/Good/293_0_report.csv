@@ -1,0 +1,45 @@
+F1: 0.77720,Precision: 0.77720,Recall: 0.77720,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,4,T. Nakamura,http://dbpedia.org/resource/Tōru_Nakamura_(golfer),http://dbpedia.org/resource/Torakichi http://dbpedia.org/resource/Pete_Nakamura http://dbpedia.org/resource/Torakichi_Nakamura
+0,5,T. Manero,http://dbpedia.org/resource/Tony_Manero_(golfer),http://dbpedia.org/resource/Tony_Manero
+0,8,T. Moore,http://dbpedia.org/resource/Tracy_Moore_(basketball),http://dbpedia.org/resource/Tommy_Moore_(golfer)
+0,19,T. Smith,http://dbpedia.org/resource/Tony_Smith_(basketball),http://dbpedia.org/resource/Taylor_Smith
+0,20,T. Kono,http://dbpedia.org/resource/Takanori_Kono,http://dbpedia.org/resource/Takaaki_Kono
+0,25,S. Alexander,http://dbpedia.org/resource/Shaun_Alexander,http://dbpedia.org/resource/Skip_Alexander
+0,28,S. Mayfield,http://dbpedia.org/resource/Scott_Mayfield,http://dbpedia.org/resource/Shelley_Mayfield
+0,32,S. P. Jr.,http://dbpedia.org/resource/Marvin_Gaye,"http://dbpedia.org/resource/Sam_Parks,_Jr. http://dbpedia.org/resource/Sam_Parks http://dbpedia.org/resource/Sam_Parks,_Jr"
+0,33,S. D. Herron,http://dbpedia.org/resource/Charles_D._Herron,http://dbpedia.org/resource/S._Davidson_Herron
+0,35,R. W. White,http://dbpedia.org/resource/Reggie_White,http://dbpedia.org/resource/Robert_W._White_(architect) http://dbpedia.org/resource/Robert_W._White_(golfer)
+0,41,P. O'Hara,"http://dbpedia.org/resource/Eddie_O'Hara_(footballer,_born_1935)",http://dbpedia.org/resource/Peter_O'Hara
+0,42,P. Brown,http://dbpedia.org/resource/Patricia_Brown,http://dbpedia.org/resource/Pete_Brown_(golfer)
+0,51,O. Jones,http://dbpedia.org/resource/Ozell_Jones,http://dbpedia.org/resource/Orus_Jones
+0,65,M. R. Marston,http://dbpedia.org/resource/Max_Marston,http://dbpedia.org/resource/Max_R._Marston
+0,68,M. Furgol,http://dbpedia.org/resource/Ed_Furgol,http://dbpedia.org/resource/Marty_Furgol
+0,69,M. Smith,"http://dbpedia.org/resource/Michael_Smith_(footballer,_born_1988)",http://dbpedia.org/resource/Macdonald_Smith http://dbpedia.org/resource/Mac_Smith
+0,88,J. Farrell,http://dbpedia.org/resource/Jack_Farrell,http://dbpedia.org/resource/Johnny_Farrell
+0,89,J. Dawson,http://dbpedia.org/resource/Jamie_Dawson,http://dbpedia.org/resource/Johnny_Dawson http://dbpedia.org/resource/John_Dawson_(golfer)
+0,95,J. Fischer,http://dbpedia.org/resource/Bobby_Fischer,http://dbpedia.org/resource/John_W._Fischer http://dbpedia.org/resource/John_Fischer_(golfer)
+0,97,J. Turnesa,http://dbpedia.org/resource/Jim_Turnesa,http://dbpedia.org/resource/Joe_Turnesa
+0,99,J. Roseman,http://dbpedia.org/resource/Chief_Roseman,http://dbpedia.org/resource/Joe_Roseman
+0,100,J. K. Sr.,"http://dbpedia.org/resource/Joe_Kendrick_(footballer,_born_1905)","http://dbpedia.org/resource/Joe_Kirkwood,_Sr. http://dbpedia.org/resource/Joe_Kirkwood_Sr."
+0,103,J. Thomson,"http://dbpedia.org/resource/John_Thomson_(footballer,_born_1909)",http://dbpedia.org/resource/Jimmy_Thomson_(golfer)
+0,104,J. Martin,http://dbpedia.org/resource/Jacob_Martin,http://dbpedia.org/resource/Jimmy_Martin_(golfer)
+0,109,J. Foulis,http://dbpedia.org/resource/James_Foulis,http://dbpedia.org/resource/Jim_Foulis http://dbpedia.org/resource/Jimmy_Foulis
+0,118,J. McGowan,"http://dbpedia.org/resource/Jimmy_McGowan_(footballer,_born_1924)",http://dbpedia.org/resource/Jack_McGowan_(golfer)
+0,122,J. Forrester,http://dbpedia.org/resource/Bill_Forrester,http://dbpedia.org/resource/Jack_Forrester
+0,124,J. Dowling,http://dbpedia.org/resource/Jonathan_Dowling_(American_football),http://dbpedia.org/resource/Jack_Dowling
+0,128,H. R. Jr.,http://dbpedia.org/resource/Hugh_Royer_Jr.,"http://dbpedia.org/resource/Hugh_Royer,_Jr. http://dbpedia.org/resource/Hugh_Royer"
+0,129,H. Johnson,http://dbpedia.org/resource/Harold_Johnson_(basketball),http://dbpedia.org/resource/Howie_Johnson
+0,130,H. Smith,http://dbpedia.org/resource/Hilton_Smith,http://dbpedia.org/resource/Horton_Smith
+0,131,H. Sasaki,http://dbpedia.org/resource/Sho_Sasaki,http://dbpedia.org/resource/Hisayuki_Sasaki
+0,132,H. Ishii,http://dbpedia.org/resource/Hirotoshi_Ishii,http://dbpedia.org/resource/Hiroshi_Ishii_(golfer)
+0,137,H. W. Jr.,http://dbpedia.org/resource/Henry_Slocum_(tennis),"http://dbpedia.org/resource/Henry_Williams,_Jr."
+0,142,H. Ward,http://dbpedia.org/resource/Holcombe_Ward,http://dbpedia.org/resource/Harvie_Ward
+0,145,H. Hampton,"http://dbpedia.org/resource/Harry_Hampton_(footballer,_born_1885)",http://dbpedia.org/resource/Harry_Hampton_(golfer)
+0,147,H. R. Johnston,http://dbpedia.org/resource/Rebecca_Johnston,http://dbpedia.org/resource/Harrison_R._Johnston http://dbpedia.org/resource/Jimmy_Johnston_(golfer)
+0,148,H. Weber,http://dbpedia.org/resource/Hans_Weber,http://dbpedia.org/resource/Harold_Weber
+0,153,G. Simpson,http://dbpedia.org/resource/George_Simpson_(sprinter),http://dbpedia.org/resource/George_Simpson_(golfer)
+0,154,G. McLean,"http://dbpedia.org/resource/George_McLean_(footballer,_born_1943)",http://dbpedia.org/resource/George_McLean_(golfer)
+0,176,F. Newton,http://dbpedia.org/resource/Francis_Newton_(golfer),http://dbpedia.org/resource/Francis_Newton
+0,186,E. Oliver,http://dbpedia.org/resource/Eric_Oliver_(footballer),"http://dbpedia.org/resource/Ed_Oliver http://dbpedia.org/resource/Ed_""Porky""_Oliver http://dbpedia.org/resource/Porky_Oliver"
+0,193,D. Campbell,http://dbpedia.org/resource/Dougie_Campbell,"http://dbpedia.org/resource/Mrs_J.V._Hurd http://dbpedia.org/resource/Dorothy_Campbell http://dbpedia.org/resource/Dorothy_Campbell_Hurd http://dbpedia.org/resource/Dorothy_Hurd http://dbpedia.org/resource/Dorothy_Campbell_Hurd_Howe http://dbpedia.org/resource/Dorothy_Howe http://dbpedia.org/resource/Campbell,_Dorothy"

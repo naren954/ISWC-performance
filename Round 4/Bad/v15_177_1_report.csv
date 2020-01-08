@@ -1,0 +1,107 @@
+F1: 0.44444,Precision: 0.44444,Recall: 0.44444,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,2,A. Coulter,http://dbpedia.org/resource/Ann_Coulter,http://dbpedia.org/resource/Allan_Coulter http://dbpedia.org/resource/Alan_Coulter http://dbpedia.org/resource/Allen_Coulter
+1,5,A. Coleman,http://dbpedia.org/resource/Gary_Coleman,http://dbpedia.org/resource/Alan_Coleman
+1,6,S. Smith,http://dbpedia.org/resource/Sam_Smith_(singer),http://dbpedia.org/resource/Scott_Smith_(director)
+1,7,A. Sanford,http://dbpedia.org/resource/Mark_Sanford,http://dbpedia.org/resource/Arlene_Sanford
+1,9,P. Lang,http://dbpedia.org/resource/Pearl_Lang,http://dbpedia.org/resource/Perry_Lang
+1,10,Z. Chou,http://dbpedia.org/resource/Jay_Chou,"http://dbpedia.org/resource/Zero_Chou http://dbpedia.org/resource/Zero_Chou,_Zhou_Mei_Ling http://dbpedia.org/resource/Zero_Chou,_周美玲"
+1,11,R. Hardy,http://dbpedia.org/resource/Robert_Hardy,http://dbpedia.org/resource/Rod_Hardy
+1,12,B. Island,http://dbpedia.org/resource/H._B._Hollins,http://dbpedia.org/resource/Bull_Island_(TV_series) http://dbpedia.org/resource/Bull_Island_(TV_show)
+1,13,E. Quizon,http://dbpedia.org/resource/Zia_Quizon,http://dbpedia.org/resource/Eric_Quizon
+1,14,C. Thomas,http://dbpedia.org/resource/Clarence_Thomas,http://dbpedia.org/resource/Chloe_Thomas
+1,15,A. Robinson,http://dbpedia.org/resource/Abraham_Robinson,http://dbpedia.org/resource/Angela_Robinson
+1,16,L. Day,http://dbpedia.org/resource/Laraine_Day,http://dbpedia.org/resource/Linda_Day
+1,18,K. Beattie,http://dbpedia.org/resource/Kevin_Beattie,http://dbpedia.org/resource/Karl_Beattie
+1,19,R. Shahi,http://dbpedia.org/resource/Sarah_Shahi,http://dbpedia.org/resource/Rajan_Shahi
+1,20,A. Mahadevan,http://dbpedia.org/resource/Shankar_Mahadevan,http://dbpedia.org/resource/Ananth_Narayan_Mahadevan http://dbpedia.org/resource/Anant_Mahadevan
+1,24,M. Mills,http://dbpedia.org/resource/Mike_Mills,"http://dbpedia.org/resource/Michael_Mills_(British_producer) http://dbpedia.org/resource/Michael_Mills_(producer,_born_1919)"
+1,25,D. Adams,http://dbpedia.org/resource/Douglas_Adams,"http://dbpedia.org/resource/Donald_James_Yarmy http://dbpedia.org/resource/Donald_Yarmy http://dbpedia.org/resource/Don_Adams_(Actor) http://dbpedia.org/resource/Don_Adams http://dbpedia.org/resource/Adams,_Don http://dbpedia.org/resource/Missed_it_by_that_much"
+1,26,J. Walker,http://dbpedia.org/resource/John_Walker_(natural_historian),http://dbpedia.org/resource/John_Walker_(animator) http://dbpedia.org/resource/John_Walker_(director)
+1,29,B. Kulik,http://dbpedia.org/resource/Grigory_Kulik,http://dbpedia.org/resource/Buzz_Kulik
+1,30,M. A. Reyes,http://dbpedia.org/resource/Miguel_Alonso_Reyes,http://dbpedia.org/resource/Mark_A._Reyes http://dbpedia.org/resource/Mark_Reyes
+1,32,S. C. Jones,http://dbpedia.org/resource/David_C._Jones,http://dbpedia.org/resource/Simon_Cellan-Jones http://dbpedia.org/resource/Simon_Cellan_Jones
+1,34,L. Bowen,http://dbpedia.org/resource/Lionel_Bowen,http://dbpedia.org/resource/Laurence_Bowen
+1,35,K. Amemiya,http://dbpedia.org/resource/Takeshi_Amemiya,http://dbpedia.org/resource/雨宮慶太 http://dbpedia.org/resource/Keita_Amamiya http://dbpedia.org/resource/Keita_Amemiya
+1,36,K. Amemiya,http://dbpedia.org/resource/Takeshi_Amemiya,http://dbpedia.org/resource/雨宮慶太 http://dbpedia.org/resource/Keita_Amamiya http://dbpedia.org/resource/Keita_Amemiya
+1,37,M. Alejandre,http://dbpedia.org/resource/Salvador_Mejía,http://dbpedia.org/resource/Mac_Alejandre
+1,38,A. V. Kumar,http://dbpedia.org/resource/V._Kumar,http://dbpedia.org/resource/Anil_v_Kumar http://dbpedia.org/resource/Anil_V._Kumar
+1,41,D. M. Perez,http://dbpedia.org/resource/Antonio_M._Pérez,http://dbpedia.org/resource/Don_Michael_Perez
+1,42,M. M. Filho,http://pt.dbpedia.org/resource/Murilo_Melo_Filho,http://dbpedia.org/resource/Mauro_Mendonça_Filho
+1,43,R. Young,http://dbpedia.org/resource/Robert_Young_(musician),http://dbpedia.org/resource/Robert_Young_(director) http://dbpedia.org/resource/Robert_Wilson_Young
+1,44,J. Taylor,http://dbpedia.org/resource/James_Taylor,http://dbpedia.org/resource/Jud_Taylor http://dbpedia.org/resource/Judd_Taylor
+1,46,L. Selander,http://dbpedia.org/resource/Sten_Selander,http://dbpedia.org/resource/Lesley_Selander
+1,47,N. Brennan,http://dbpedia.org/resource/Eileen_Brennan,http://dbpedia.org/resource/Neil_Brennan http://dbpedia.org/resource/Neal_Brennan
+1,48,J. Kennedy,http://dbpedia.org/resource/John_F._Kennedy,http://dbpedia.org/resource/Jane_Kennedy_(actress) http://dbpedia.org/resource/Jane_Kennedy_(actor)
+1,49,M. A. Reyes,http://dbpedia.org/resource/Miguel_Alonso_Reyes,http://dbpedia.org/resource/Mark_A._Reyes http://dbpedia.org/resource/Mark_Reyes
+1,53,J. Strong,http://dbpedia.org/resource/Johnny_Strong,http://dbpedia.org/resource/James_Strong_(director)
+1,54,J. Bleckner,http://dbpedia.org/resource/Ross_Bleckner,http://dbpedia.org/resource/Jeff_Bleckner
+1,55,D. Kerr,http://dbpedia.org/resource/Deborah_Kerr,http://dbpedia.org/resource/David_Kerr_(director)
+1,56,J. Griffiths,http://dbpedia.org/resource/Jim_Griffiths,http://dbpedia.org/resource/James_Griffiths_(director)
+1,59,K. Connor,http://dbpedia.org/resource/Kenneth_Connor,http://dbpedia.org/resource/Kevin_Connor_(director)
+1,60,J. Karas,http://dbpedia.org/resource/Jūrō_Kara,http://dbpedia.org/resource/Jay_Karas
+1,63,R. Hunt,http://dbpedia.org/resource/Rex_Hunt_(governor),http://dbpedia.org/resource/Richard_Hunt_(Muppeteer) http://dbpedia.org/resource/Richard_Hunt_(puppeteer) http://dbpedia.org/resource/Richard_Hunt_(muppeteer)
+1,64,J. Goddard,http://dbpedia.org/resource/Paulette_Goddard,http://dbpedia.org/resource/Jim_Goddard
+1,65,J. C. Jones,http://dbpedia.org/resource/Jeffrey_Catherine_Jones,http://dbpedia.org/resource/James_Cellan_Jones http://dbpedia.org/resource/Alan_James_Gwynne_Cellan_Jones
+1,67,E. Canuel,http://dbpedia.org/resource/Simon_Canuel,http://dbpedia.org/resource/Érik_Canuel http://dbpedia.org/resource/Erik_Canuel http://dbpedia.org/resource/Éric_Canuel http://dbpedia.org/resource/Eric_Canuel
+1,68,L. Campbell,http://dbpedia.org/resource/Norman_Campbell,http://dbpedia.org/resource/Luke_Campbell_(director)
+1,69,C. Garcia-Molina,http://dbpedia.org/resource/Héctor_García-Molina,http://dbpedia.org/resource/Cathy_Garcia_Molina http://dbpedia.org/resource/Cathy_Garcia-Molina
+1,70,M. Reyes,http://dbpedia.org/resource/Pedro_Reyes_(comedian),http://dbpedia.org/resource/Mark_A._Reyes http://dbpedia.org/resource/Mark_Reyes
+1,71,D. Giles,http://dbpedia.org/resource/Alice_Giles,http://dbpedia.org/resource/David_Giles_(director)
+1,72,R. Davao,http://dbpedia.org/resource/Rodrigo_Duterte,http://dbpedia.org/resource/Ricky_Davao
+1,74,R. Tucker,http://dbpedia.org/resource/Richard_Tucker,http://dbpedia.org/resource/Rex_Tucker
+1,75,M. Alejandre,http://dbpedia.org/resource/Salvador_Mejía,http://dbpedia.org/resource/Mac_Alejandre
+1,77,K. Novak,http://dbpedia.org/resource/Kim_Novak,http://dbpedia.org/resource/Kayvan_Novak
+1,80,D. Martin,http://dbpedia.org/resource/Dean_Martin,http://dbpedia.org/resource/Dick_Martin_(comedian)
+1,83,S. Schwartz,http://dbpedia.org/resource/Stephen_Schwartz_(composer),http://dbpedia.org/resource/Stefan_Schwartz
+1,87,G. Conway,http://dbpedia.org/resource/Tim_Conway,http://dbpedia.org/resource/Gary_Conway http://dbpedia.org/resource/Gareth_Carmody http://dbpedia.org/resource/Gareth_Monello_Carmody
+1,88,B. Chan,http://dbpedia.org/resource/Bernard_Charnwut_Chan,http://dbpedia.org/resource/Benny_Chan_Muk_Sing http://dbpedia.org/resource/Chen_Musheng http://dbpedia.org/resource/Benny_Chan_Muk-Sing http://dbpedia.org/resource/Benny_Chan_(film_director)
+1,89,T. Moore,http://dbpedia.org/resource/Ted_Moore,http://dbpedia.org/resource/Tom_Moore_(director)
+1,91,B. Mills,http://dbpedia.org/resource/Barbara_Mills,http://dbpedia.org/resource/Brian_Mills_(television_director) http://dbpedia.org/resource/Brian_Mills_(film_director)
+1,94,R. Daniel,http://dbpedia.org/resource/Robert_Daniel,http://dbpedia.org/resource/Rod_Daniel
+1,96,A. Sanford,http://dbpedia.org/resource/Mark_Sanford,http://dbpedia.org/resource/Arlene_Sanford
+1,97,J. Walker,http://dbpedia.org/resource/John_Walker_(natural_historian),http://dbpedia.org/resource/Jeffrey_Walker
+1,103,P. Tewksbury,http://dbpedia.org/resource/Mark_Tewksbury,http://dbpedia.org/resource/Peter_Tewksbury
+1,104,W. G. Stewart,http://dbpedia.org/resource/Jimmy_G._Stewart,http://dbpedia.org/resource/William_G.Stewart http://dbpedia.org/resource/W.G.S http://dbpedia.org/resource/William_G._Stewart http://dbpedia.org/resource/William_G_Stewart
+1,105,S. Barrett,http://dbpedia.org/resource/Syd_Barrett,http://dbpedia.org/resource/Shirley_Barrett
+1,106,R. McFaul,http://dbpedia.org/resource/Michael_McFaul,http://dbpedia.org/resource/Ryan_McFaul
+1,107,K. Truesdell,http://dbpedia.org/resource/Clifford_Truesdell,http://dbpedia.org/resource/Keith_Truesdell
+1,110,D. Clayton,http://dbpedia.org/resource/Doctor_Clayton,"http://dbpedia.org/resource/Don_Clayton http://dbpedia.org/resource/Donald_D._Clayton,_Ph.D. http://dbpedia.org/resource/Donald_D._Clayton http://dbpedia.org/resource/Donald_Clayton"
+1,112,G. Nelson,http://dbpedia.org/resource/Gaylord_Nelson,http://dbpedia.org/resource/Gary_Nelson_(director)
+1,114,Z. Legaspi,http://dbpedia.org/resource/Leonardo_Legaspi,http://dbpedia.org/resource/Zoren_Legazpi http://dbpedia.org/resource/Zoren_Legaspi
+1,115,J. Hawes,http://dbpedia.org/resource/Keeley_Hawes,"http://dbpedia.org/resource/James_Hawes http://dbpedia.org/resource/Hawes,_James"
+1,120,I. Lorimer,http://dbpedia.org/resource/William_Lorimer_(politician),http://dbpedia.org/resource/Ian_Lorimer
+1,124,K. Novak,http://dbpedia.org/resource/Kim_Novak,http://dbpedia.org/resource/Kayvan_Novak
+1,126,E. Hegarty,http://dbpedia.org/resource/Anton_Hegarty,http://dbpedia.org/resource/Elliot_Hegarty
+1,127,U. Bayraktar,http://dbpedia.org/resource/Erdoğan_Bayraktar,http://dbpedia.org/resource/Uluc_Bayraktar http://dbpedia.org/resource/Uluç_Bayraktar http://dbpedia.org/resource/Uluç_bayraktar
+1,128,P. Frumkin,http://dbpedia.org/resource/Alexander_Frumkin,http://dbpedia.org/resource/Peter_Frumkin
+1,130,J. Alexander,http://dbpedia.org/resource/Jeff_Alexander,http://dbpedia.org/resource/John_Alexander_(director)
+1,132,J. London,http://dbpedia.org/resource/Jack_London,http://dbpedia.org/resource/Jerry_London http://dbpedia.org/resource/Grass_Roots_(TV_movie)
+1,133,R. Lieberman,http://dbpedia.org/resource/Joe_Lieberman,http://dbpedia.org/resource/Robert_Lieberman
+1,134,M. A. Reyes,http://dbpedia.org/resource/Miguel_Alonso_Reyes,http://dbpedia.org/resource/Mark_A._Reyes http://dbpedia.org/resource/Mark_Reyes
+1,136,J. R. Thompson,http://dbpedia.org/resource/J._Lee_Thompson,http://dbpedia.org/resource/J._Rupert_Thompson
+1,140,K. Woods,http://dbpedia.org/resource/Walter_Woods_(screenwriter),http://dbpedia.org/resource/Kate_Woods
+1,146,D. Frazee,http://dbpedia.org/resource/Jane_Frazee,http://dbpedia.org/resource/David_Frazee
+1,149,Jerold,http://dbpedia.org/resource/Jerry_Ross_(composer),http://dbpedia.org/resource/Jerold
+1,150,S. Zuckerman,"http://dbpedia.org/resource/Solly_Zuckerman,_Baron_Zuckerman",http://dbpedia.org/resource/Steve_Zuckerman
+1,151,C. Gilbert,http://dbpedia.org/resource/Cass_Gilbert,"http://dbpedia.org/resource/Colin_Gilbert http://dbpedia.org/resource/Gilbert,_Colin"
+1,152,Z. Xiaolong,http://dbpedia.org/resource/Qiu_Xiaolong,http://dbpedia.org/resource/Zheng_Xiaolong http://dbpedia.org/resource/Xiaolong_Zheng
+1,154,J. Glenister,http://dbpedia.org/resource/Philip_Glenister,http://dbpedia.org/resource/John_Glenister
+1,156,K. Woods,http://dbpedia.org/resource/Walter_Woods_(screenwriter),http://dbpedia.org/resource/Kate_Woods
+1,158,J. London,http://dbpedia.org/resource/Jack_London,http://dbpedia.org/resource/Jerry_London http://dbpedia.org/resource/Grass_Roots_(TV_movie)
+1,159,M. Schultz,http://dbpedia.org/resource/Charles_M._Schulz,http://dbpedia.org/resource/Michael_Schultz http://dbpedia.org/resource/Michael_A._Schultz
+1,160,M. Cumming,http://dbpedia.org/resource/Alan_Cumming,http://dbpedia.org/resource/Mervyn_cumming http://dbpedia.org/resource/Mervyn_Cumming
+1,165,J. Castillo,http://dbpedia.org/resource/José_Castillo_(police_officer),http://dbpedia.org/resource/Julio_Castillo http://dbpedia.org/resource/Julio_Cesar_Castillo
+1,169,O. Sirgo,http://es.dbpedia.org/resource/Otto_Sirgo_(padre),http://dbpedia.org/resource/Otto_Sirgo
+1,171,A. Barraza,http://dbpedia.org/resource/Cecilia_Barraza,http://dbpedia.org/resource/Adriana_Barraza
+1,172,L. Daniel,http://dbpedia.org/resource/Daniel_Webster,http://dbpedia.org/resource/Leonardo_Daniel
+1,173,J. Mukherjee,http://dbpedia.org/resource/Joy_Mukherjee,http://dbpedia.org/resource/Joydeep_Mukherjee
+1,175,A. Chauhan,http://dbpedia.org/resource/Aditi_Chauhan,http://dbpedia.org/resource/Abhimanyu_Chauhan
+1,176,N. Smith,http://dbpedia.org/resource/Nicholas_Smith_(actor),"http://dbpedia.org/resource/Noel_Smith_(disambiguation) http://dbpedia.org/resource/Noel_Smith http://dbpedia.org/resource/Smith,_Noel"
+1,177,A. Sanford,http://dbpedia.org/resource/Mark_Sanford,http://dbpedia.org/resource/Arlene_Sanford
+1,178,G. Nelson,http://dbpedia.org/resource/Gaylord_Nelson,http://dbpedia.org/resource/Gary_Nelson_(director)
+1,180,M. Campbell,http://dbpedia.org/resource/Malcolm_Campbell,http://dbpedia.org/resource/Martin_Campbell_(director) http://dbpedia.org/resource/Martin_Campbell
+1,181,A. Coleman,http://dbpedia.org/resource/Gary_Coleman,http://dbpedia.org/resource/Alan_Coleman
+1,182,M. Saville,http://dbpedia.org/resource/Jenny_Saville,http://dbpedia.org/resource/Matthew_Saville
+1,184,D. Petrie,http://dbpedia.org/resource/Flinders_Petrie,"http://dbpedia.org/resource/Daniel_Petrie http://dbpedia.org/resource/Daniel_Petrie,_Sr."
+1,186,J. Bordado,,http://dbpedia.org/resource/Carlo_J._Caparas'_Joaquin_Bordado http://dbpedia.org/resource/Joaquin_Bordado

@@ -1,0 +1,6 @@
+F1: 0.20000,Precision: 0.20000,Recall: 0.20000,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,4,Georgia Southern,http://dbpedia.org/resource/1985_Georgia_Southern_Eagles_football_team,http://dbpedia.org/resource/2015_Georgia_Southern_Eagles_football_team
+2,6,Appalachian State,http://dbpedia.org/resource/2016_Appalachian_State_Mountaineers_football_team,http://dbpedia.org/resource/2015_Appalachian_State_Mountaineers_football_team
+2,10,Arkansas State,http://dbpedia.org/resource/2006_Arkansas_State_Indians_football_team,http://dbpedia.org/resource/2015_Arkansas_State_Red_Wolves_football_team
+2,13,New Mexico State,http://dbpedia.org/resource/2005_New_Mexico_State_Aggies_football_team,http://dbpedia.org/resource/2015_New_Mexico_State_Aggies_football_team

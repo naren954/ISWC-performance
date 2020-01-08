@@ -1,0 +1,4 @@
+"F1: 0.84615","Precision: 0.84615","Recall: 0.84615"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","13","Racing Engineering","http://dbpedia.org/resource/Williams_Grand_Prix_Engineering","http://dbpedia.org/resource/Fat_Burner_Racing_Engineering http://dbpedia.org/resource/Racing_Engineering"
+"1","23","Campos Racing","http://dbpedia.org/resource/HRT_Formula_1_Team","http://dbpedia.org/resource/Barwa_Addax_Team http://dbpedia.org/resource/Addax_Team http://dbpedia.org/resource/Barwa_Addax"

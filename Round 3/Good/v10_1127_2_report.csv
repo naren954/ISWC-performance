@@ -1,0 +1,5 @@
+F1: 0.85714,Precision: 0.85714,Recall: 0.85714,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,5,Echo,http://dbpedia.org/resource/Echo_(You_and_I),http://dbpedia.org/resource/Echo_(R._Kelly_song)
+2,6,Babe,http://dbpedia.org/resource/Babe_(Styx_song),http://dbpedia.org/resource/Babe_(Take_That_song)
+2,19,The Clown,http://dbpedia.org/resource/Cathy's_Clown,http://dbpedia.org/resource/The_Clown_(Conway_Twitty_song)

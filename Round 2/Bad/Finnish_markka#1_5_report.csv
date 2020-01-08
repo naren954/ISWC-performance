@@ -1,0 +1,6 @@
+F1: 0.42857,Precision: 0.42857,Recall: 0.42857,,
+Col,Row,Value,Submitted URI,Correct URI's
+5,1,"Paavo Nurmi (1897â\u0080\u00931973), athlete and Olympic winner",http://dbpedia.org/resource/1984_Summer_Olympics,http://dbpedia.org/resource/Paavo_J._Nurmi http://dbpedia.org/resource/Paavo_Nurmi http://dbpedia.org/resource/Paavo_the_Flying_Finn http://dbpedia.org/resource/Paavo_Johannes_Nurmi
+5,2,"VÃ¤inÃ¶ Linna (1920â\u0080\u00931992), author and novelist",http://dbpedia.org/resource/Victor_Hugo,http://dbpedia.org/resource/Väinö_Linna
+5,5,"Elias LÃ¶nnrot (1802â\u0080\u00931884), compiler of Kalevala",http://dbpedia.org/resource/Kalevala,http://dbpedia.org/resource/Elias_Lönnrot
+5,7,"Mikael Agricola (1510â\u0080\u00931557), priest and linguist",http://dbpedia.org/resource/Mikael_Agricola_Church,http://dbpedia.org/resource/Michael_Agricola http://dbpedia.org/resource/Mikael_Agricola

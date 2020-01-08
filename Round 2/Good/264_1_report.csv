@@ -1,0 +1,29 @@
+F1: 0.78571,Precision: 0.78571,Recall: 0.78571,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,William Jacobs,http://dbpedia.org/resource/W._W._Jacobs,http://dbpedia.org/resource/William_Jacobs_(producer)
+1,5,Jon Davison,http://dbpedia.org/resource/Liam_Davison,http://dbpedia.org/resource/Jon_Davison_(film_producer) http://dbpedia.org/resource/Jon_Davison_(producer)
+1,15,Vyjayanthi Movies,http://dbpedia.org/resource/Midnight_Movies,http://dbpedia.org/resource/Vyjayanti_movies http://dbpedia.org/resource/C._Ashwani_Dutt http://dbpedia.org/resource/Ashwini_Dutt http://dbpedia.org/resource/C._Ashwini_Dutt http://dbpedia.org/resource/Aswani_Dutt http://dbpedia.org/resource/Vyjayanthi_Movies
+1,23,Universal Studios,http://dbpedia.org/resource/Walt_Disney_Animation_Studios,"http://dbpedia.org/resource/Universal_Film_Manufacturing_Company http://dbpedia.org/resource/MCA/Universal_Pictures http://dbpedia.org/resource/Deutsche_Universal http://dbpedia.org/resource/MCA_Universal http://dbpedia.org/resource/Universal_Studios_Inc. http://dbpedia.org/resource/Universal_City_Studios,_Inc. http://dbpedia.org/resource/Universal-International_Pictures http://dbpedia.org/resource/Universal_Pictures_UK http://dbpedia.org/resource/Universal_Pictures_Company_Inc. http://dbpedia.org/resource/Universal-International_Pictures_Inc. http://dbpedia.org/resource/Universal_Globe http://dbpedia.org/resource/Deutsche_Universal-Film http://dbpedia.org/resource/Universal_International http://dbpedia.org/resource/Universal_Studios_Incorporated http://dbpedia.org/resource/Universal_Studios http://dbpedia.org/resource/Marc_Shmuger http://dbpedia.org/resource/Universal_Pictures_International http://dbpedia.org/resource/Universal_International_Pictures http://dbpedia.org/resource/Universal_Pictures_Company http://dbpedia.org/resource/UNIVERSAL http://dbpedia.org/resource/Universal_City_Studios http://dbpedia.org/resource/Universal_Film_Manufacturing_Co. http://dbpedia.org/resource/Bluebird_Photoplays http://dbpedia.org/resource/Universal_Films http://dbpedia.org/resource/Universal_City_Studios_LLC http://dbpedia.org/resource/Universal_City_Studios_Inc. http://dbpedia.org/resource/Universal_Pictures http://dbpedia.org/resource/Universal-International http://dbpedia.org/resource/International_Pictures http://dbpedia.org/resource/Universal-Film"
+1,25,Cines,http://dbpedia.org/resource/T._Rajendar,http://dbpedia.org/resource/Cines http://dbpedia.org/resource/Cinès-Pittaluga http://dbpedia.org/resource/Società_Italiana_Cines
+1,28,Joan Long,http://dbpedia.org/resource/Prince_Friso_of_Orange-Nassau,http://dbpedia.org/resource/Joan_Long
+1,42,Marc Toberoff,http://dbpedia.org/resource/Marc_Caron,http://dbpedia.org/resource/Marc_Toberoff
+1,51,John Boulting,http://de.dbpedia.org/resource/John_Boulting,http://dbpedia.org/resource/Ray_Boulting http://dbpedia.org/resource/John_Boulting http://dbpedia.org/resource/Boulting_Brothers http://dbpedia.org/resource/Charter_Film_Productions http://dbpedia.org/resource/Boulting_brothers http://dbpedia.org/resource/Roy_Boulting http://dbpedia.org/resource/John_and_Roy_Boulting
+1,53,Albert Fennell,http://dbpedia.org/resource/Alan_Fennell,http://dbpedia.org/resource/Albert_Fennell
+1,61,Mark Turnbull,http://dbpedia.org/resource/Malcolm_Turnbull,http://dbpedia.org/resource/Mark_Turnbull
+1,66,Ernest G. Roy,http://dbpedia.org/resource/Joseph_Alfred_Ernest_Roy,http://dbpedia.org/resource/Ernest_G._Roy
+1,67,Matthew O'Callaghan,http://dbpedia.org/resource/James_Callaghan,http://dbpedia.org/resource/Matthew_O'Callaghan
+1,68,John Bush,http://dbpedia.org/resource/Jeb_Bush,"http://dbpedia.org/resource/John_Bush_(politician) http://dbpedia.org/resource/John_Bush_(disambiguation) http://dbpedia.org/resource/John_Bush_(UK_politician) http://dbpedia.org/resource/Bush,_John http://dbpedia.org/resource/John_Bush_(U.S._politician) http://dbpedia.org/resource/John_Bush"
+1,76,William Jacobs,http://dbpedia.org/resource/W._W._Jacobs,http://dbpedia.org/resource/William_Jacobs_(producer)
+1,83,Jai Jagadish,http://dbpedia.org/resource/Jagadish,http://dbpedia.org/resource/Jai_Jagadish http://dbpedia.org/resource/Jai_Jagadish_(Kannada_actor)
+1,84,Éric Altmayer,http://dbpedia.org/resource/Victor_Joseph_Altmayer,http://dbpedia.org/resource/Nicolas_Altmeyer http://dbpedia.org/resource/Eric_and_Nicolas_Altmayer http://dbpedia.org/resource/Éric_Altmayer http://dbpedia.org/resource/Éric_and_Nicolas_Altmayer http://dbpedia.org/resource/Eric_Altmayer
+1,87,John Stafford,"http://dbpedia.org/resource/Stafford_Northcote,_1st_Earl_of_Iddesleigh",http://dbpedia.org/resource/Premier-Stafford_Productions http://dbpedia.org/resource/John_Stafford_Productions http://dbpedia.org/resource/John_Stafford_(producer)
+1,94,Ned Marin,http://dbpedia.org/resource/Ned_Sherrin,http://dbpedia.org/resource/Ned_Marin
+1,96,Albert Fennell,http://dbpedia.org/resource/Alan_Fennell,http://dbpedia.org/resource/Albert_Fennell
+1,97,David Elfick,http://dbpedia.org/resource/Paul_Bishop_(actor),http://dbpedia.org/resource/David_Elfick
+1,100,William Jacobs,http://dbpedia.org/resource/W._W._Jacobs,http://dbpedia.org/resource/William_Jacobs_(producer)
+1,102,Steven Pallos,http://dbpedia.org/resource/Imre_Palló,http://dbpedia.org/resource/Steven_Pallos
+1,104,Thakkali Srinivasan,http://dbpedia.org/resource/Mallika_Srinivasan,http://dbpedia.org/resource/Thakkali_Srinivasan
+1,106,Walter C. Mycroft,http://dbpedia.org/resource/Walter_McCrone,http://dbpedia.org/resource/Walter_Mycroft http://dbpedia.org/resource/Walter_C._Mycroft
+1,110,Antony I. Ginnane,http://dbpedia.org/resource/Antony_Hamilton,http://dbpedia.org/resource/Antony_I._Ginnane
+1,111,Marc Toberoff,http://dbpedia.org/resource/Marc_Caron,http://dbpedia.org/resource/Marc_Toberoff
+1,113,Paul Schiff,http://dbpedia.org/resource/Richard_Schiff,http://dbpedia.org/resource/Paul_Schiff http://dbpedia.org/resource/Paul_Schiff_Productions

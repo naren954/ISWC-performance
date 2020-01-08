@@ -1,0 +1,4 @@
+"F1: 0.66667","Precision: 0.66667","Recall: 0.66667"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","4","Minerva","http://dbpedia.org/resource/Minerva_Berlin","http://dbpedia.org/resource/Minerva_FC http://dbpedia.org/resource/Minerva_Academy_F.C."
+"1","5","Mohammedan","http://dbpedia.org/resource/Mohammedan_Sporting_Club_(Dhaka)","http://dbpedia.org/resource/Mohammedan_SC_(India) http://dbpedia.org/resource/Mohammedan_Sporting_Club_(Kolkata) http://dbpedia.org/resource/Kolkata_Mohammedan http://dbpedia.org/resource/Mohammedan_Kolkata_FC http://dbpedia.org/resource/Mohammedan_S.C._(Kolkata)"

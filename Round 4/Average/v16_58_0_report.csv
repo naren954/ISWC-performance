@@ -1,0 +1,9 @@
+F1: 0.56250,Precision: 0.56250,Recall: 0.56250,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,Shades of magenta,http://dbpedia.org/resource/Shades_of_violet,http://dbpedia.org/resource/Shades_of_magenta http://dbpedia.org/resource/Variations_of_magenta http://dbpedia.org/resource/Magenta_dye http://dbpedia.org/resource/Shocking_Pink_(Crayola)
+0,9,Seashell,http://dbpedia.org/resource/Seashell,http://dbpedia.org/resource/Seashell_(color)
+0,11,School bus yellow,http://dbpedia.org/resource/School_bus,http://dbpedia.org/resource/National_School_Bus_Glossy_Yellow http://dbpedia.org/resource/School_bus_yellow http://dbpedia.org/resource/National_School_Bus_Yellow http://dbpedia.org/resource/National_School_Bus_Chrome http://dbpedia.org/resource/Tangerine_yellow
+0,12,Scarlet,http://dbpedia.org/resource/Scarlet_fever,http://dbpedia.org/resource/Scarlet_(color) http://dbpedia.org/resource/Scarlet_(colour) http://dbpedia.org/resource/Flame_(color) http://dbpedia.org/resource/Dark_Scarlet
+0,13,Sapphire,http://dbpedia.org/resource/Sapphire,http://dbpedia.org/resource/Sapphire_blue http://dbpedia.org/resource/Sapphire_(color) http://dbpedia.org/resource/Sapphire_color http://dbpedia.org/resource/Sapphire_(colour)
+0,14,Salmon,http://dbpedia.org/resource/Salmon,http://dbpedia.org/resource/Salmon_(colour) http://dbpedia.org/resource/Salmon_Pink http://dbpedia.org/resource/Dark_salmon http://dbpedia.org/resource/Dark_Salmon http://dbpedia.org/resource/Salmon_(color) http://dbpedia.org/resource/Salmon_pink
+0,15,Saffron,http://dbpedia.org/resource/Saffron,http://dbpedia.org/resource/Saffron_(colour) http://dbpedia.org/resource/Bhagwa http://dbpedia.org/resource/Kaiseri_(Colour) http://dbpedia.org/resource/Saffron_(color) http://dbpedia.org/resource/Saffron_yellow

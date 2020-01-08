@@ -1,0 +1,5 @@
+F1: 0.96471,Precision: 0.96471,Recall: 0.96471,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,20,Roberto,http://dbpedia.org/resource/Roberto_Marinho,http://dbpedia.org/resource/Roberto_(horse)
+1,43,Roberto,http://dbpedia.org/resource/Roberto_Marinho,http://dbpedia.org/resource/Roberto_(horse)
+1,78,Sadlers Wells,http://dbpedia.org/resource/Sadler's_Wells_(horse),http://dbpedia.org/resource/Sadler's_Wells_Theatre http://dbpedia.org/resource/New_Sadler's_Wells_Opera http://dbpedia.org/resource/Sadler’s_Wells http://dbpedia.org/resource/Sadler’s_Wells_Theatre http://dbpedia.org/resource/Sadler's-Wells http://dbpedia.org/resource/Sadlers_Wells http://dbpedia.org/resource/Sadler's_Wells http://dbpedia.org/resource/New_Sadler's_Wells_Opera_Company http://dbpedia.org/resource/Lilian_Baylis_Theatre

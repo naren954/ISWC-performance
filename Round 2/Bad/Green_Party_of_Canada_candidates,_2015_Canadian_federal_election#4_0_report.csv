@@ -1,0 +1,7 @@
+F1: 0.50000,Precision: 0.50000,Recall: 0.50000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Acadieâ\u0080\u0094Bathurst,http://dbpedia.org/resource/Bathurst_Island_(Nunavut),http://dbpedia.org/resource/Acadie—Bathurst
+0,6,Miramichiâ\u0080\u0094Grand Lake,http://dbpedia.org/resource/Grand_Place,http://dbpedia.org/resource/Miramichi—Grand_Lake
+0,7,Monctonâ\u0080\u0094Riverviewâ\u0080\u0094Dieppe,http://dbpedia.org/resource/C0_and_C1_control_codes,http://dbpedia.org/resource/Moncton—Riverview—Dieppe
+0,9,Saint Johnâ\u0080\u0094Rothesay,http://dbpedia.org/resource/Rothesay_Castle,http://dbpedia.org/resource/Saint_John—Rothesay
+0,10,Tobiqueâ\u0080\u0094Mactaquac,http://dbpedia.org/resource/C0_and_C1_control_codes,http://dbpedia.org/resource/Tobique—Mactaquac

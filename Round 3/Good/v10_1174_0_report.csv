@@ -1,0 +1,4 @@
+F1: 0.92308,Precision: 0.92308,Recall: 0.92308,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,6,M. Teague,http://dbpedia.org/resource/Marshall_Teague_(racing_driver),http://dbpedia.org/resource/Marshall_Teague
+0,11,J. Smith,http://dbpedia.org/resource/Jack_Smith_(outfielder),http://dbpedia.org/resource/Jack_Smith_(NASCAR) http://dbpedia.org/resource/Jack_Smith_(NASCAR_driver) http://dbpedia.org/resource/Jack_Smith_(racing_driver)

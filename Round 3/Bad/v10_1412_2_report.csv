@@ -1,0 +1,7 @@
+F1: 0.50000,Precision: 0.50000,Recall: 0.50000,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,1,M. Evans,http://dbpedia.org/resource/Madge_Evans,http://dbpedia.org/resource/Mark_Evans_(comedian/writer)
+2,4,R. H. Andrews,"http://dbpedia.org/resource/Prince_George,_Duke_of_Kent",http://dbpedia.org/resource/Robert_Andrews_(screenwriter) http://dbpedia.org/resource/Robert_D._Andrews_(screenwriter) http://dbpedia.org/resource/Robert_Hardy_Andrews
+2,5,M. Jones,http://dbpedia.org/resource/Marie_Jones,http://dbpedia.org/resource/Milton_Jones
+2,8,C. E. Morse,http://dbpedia.org/resource/Jeremy_Morse,http://dbpedia.org/resource/Carlton_Morse http://dbpedia.org/resource/Carlton_E._Morse
+2,10,W. Morrow,http://dbpedia.org/resource/Dwight_Morrow,http://dbpedia.org/resource/William_Morrow_(screenwriter)

@@ -1,0 +1,4 @@
+"F1: 0.00000","Precision: 0.00000","Recall: 0.00000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","1","Flower","http://dbpedia.org/resource/Flower_(video_game)","http://dbpedia.org/resource/List_of_U.S._state_flowers http://dbpedia.org/resource/State_Wildflower http://dbpedia.org/resource/List_of_US_state_flowers http://dbpedia.org/resource/State_flowers http://dbpedia.org/resource/List_of_state_flowers http://dbpedia.org/resource/List_of_U.S._state_wildflowers http://dbpedia.org/resource/State_Wildflowers"
+"0","2","Tree","http://dbpedia.org/resource/Tree","http://dbpedia.org/resource/List_of_U.S._state,_district,_and_territorial_trees http://dbpedia.org/resource/List_of_U.S._state_trees http://dbpedia.org/resource/List_of_US_state_trees"

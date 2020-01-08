@@ -1,0 +1,12 @@
+F1: 0.93056,Precision: 0.93056,Recall: 0.93056,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,8,Saga,http://dbpedia.org/resource/Saga_(singer),http://dbpedia.org/resource/Saga_discography http://dbpedia.org/resource/Michael_Sadler_(musician) http://dbpedia.org/resource/Ian_Crichton http://dbpedia.org/resource/Saga_(band)
+1,10,Horizon,http://dbpedia.org/resource/Sound_Horizon,http://dbpedia.org/resource/Horizon_(band)
+1,23,Servant,http://dbpedia.org/resource/The_Servant_(band),http://dbpedia.org/resource/Servant_(band)
+1,46,The Nightwatchman,http://dbpedia.org/resource/Tom_Morello,http://dbpedia.org/resource/Tom_Morello:_The_Nightwatchman http://dbpedia.org/resource/Nightwatchmen http://dbpedia.org/resource/The_nightwatchman http://dbpedia.org/resource/The_Nightwatchman
+1,53,Mac,http://dbpedia.org/resource/Mac_DeMarco,http://dbpedia.org/resource/Immaculate_(Mac_album) http://dbpedia.org/resource/Mac_(rapper) http://dbpedia.org/resource/The_Immaculate http://dbpedia.org/resource/The_Lost_Tapes_(Mac_album) http://dbpedia.org/resource/The_Lyrical_Midget http://dbpedia.org/resource/The_Immaculate_(Mac_album)
+1,57,Tsunami,http://dbpedia.org/resource/Satoshi_Tsunami,http://dbpedia.org/resource/Tsunami_(band)
+1,80,Scars on Broadway,http://dbpedia.org/resource/Daron_Malakian_and_Scars_on_Broadway,http://dbpedia.org/resource/Scars_On_Broadway http://dbpedia.org/resource/Scars_on_Broadway_discography http://dbpedia.org/resource/Scars_on_broadway http://dbpedia.org/resource/Scars_on_Broadway
+1,95,Naildown,http://de.dbpedia.org/resource/Naildown,http://dbpedia.org/resource/Naildown
+1,97,Forrest Fang,http://dbpedia.org/resource/John_Forrest,http://dbpedia.org/resource/Forrest_Fang
+1,128,Howard Jones,http://dbpedia.org/resource/Howard_Jones_(English_musician),"http://dbpedia.org/resource/John_Howard_Jones http://dbpedia.org/resource/Jones,_Howard_(musician) http://dbpedia.org/resource/Howard_Jones_(musician) http://dbpedia.org/resource/Engage_(Howard_Jones_album)"

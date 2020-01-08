@@ -1,0 +1,5 @@
+"F1: 0.72727","Precision: 0.72727","Recall: 0.72727"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","3","The Power","http://es.dbpedia.org/resource/Higher_Power","http://dbpedia.org/resource/The_Power_(2010) http://dbpedia.org/resource/The_Power_(2010_novel) http://dbpedia.org/resource/The_Power_(self-help_book) http://dbpedia.org/resource/The_power_(2010_novel) http://dbpedia.org/resource/The_Power_(book)"
+"0","4","The Potter's Field","http://dbpedia.org/resource/The_Potter's_Field_(Camilleri_novel)","http://dbpedia.org/resource/The_Potter's_Field_(Peters_novel)"
+"0","6","The Porcupine","http://dbpedia.org/resource/Porcupine_(comics)","http://dbpedia.org/resource/The_Porcupine"

@@ -1,0 +1,4 @@
+F1: 0.88235,Precision: 0.88235,Recall: 0.88235,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,6,Castle of D. Chica,http://dbpedia.org/resource/Castelo_da_Dona_Chica,http://dbpedia.org/resource/Castelo_da_D._Chica http://dbpedia.org/resource/Castle_of_D._Chica http://dbpedia.org/resource/Dona_Chica_Castle
+0,15,Castle of Alcoutim,http://dbpedia.org/resource/Castle_of_Alcoutim,http://dbpedia.org/resource/Castelo_Velho_de_Alcoutim http://dbpedia.org/resource/Velho_de_Alcoutim_Castle http://dbpedia.org/resource/Castle_of_Alcoutim_(Old)

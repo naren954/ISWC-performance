@@ -1,0 +1,11 @@
+F1: 0.50000,Precision: 0.50000,Recall: 0.50000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,John W. Davis,http://dbpedia.org/resource/John_W._Davis,http://dbpedia.org/resource/John_W._Davis_(Indiana_congressman) http://dbpedia.org/resource/John_Wesley_Davis
+0,4,Humphrey Marshall,http://dbpedia.org/resource/Humphrey_Marshall_(politician),http://dbpedia.org/resource/Humphrey_Marshall_(general)
+0,6,Peter Parker,"http://dbpedia.org/resource/Sir_Peter_Parker,_1st_Baronet","http://dbpedia.org/resource/Peter_Parker_(physician) http://dbpedia.org/resource/Peter_Parker,_M.D. http://dbpedia.org/resource/Peter_Parker_(missionary)"
+0,7,William B. Reed,http://dbpedia.org/resource/William_Reed_(politician),http://dbpedia.org/resource/William_B._Reed_(academic) http://dbpedia.org/resource/William_B_Reed_(diplomat) http://dbpedia.org/resource/William_B_Reed_(academic) http://dbpedia.org/resource/William_Bradford_Reed http://dbpedia.org/resource/William_B._Reed_(attorney) http://dbpedia.org/resource/William_B_Reed_(attorney) http://dbpedia.org/resource/William_B._Reed_(journalist) http://dbpedia.org/resource/William_B_Reed_(journalist) http://dbpedia.org/resource/William_B._Reed_(diplomat) http://dbpedia.org/resource/William_B._Reed
+0,8,John E. Ward,"http://dbpedia.org/resource/John_Ward,_1st_Earl_of_Dudley",http://dbpedia.org/resource/John_Elliot_Ward http://dbpedia.org/resource/John_E._Ward http://dbpedia.org/resource/John_Elliott_Ward
+0,13,George Seward,http://dbpedia.org/resource/George_Seward_(baseball),http://dbpedia.org/resource/George_F._Seward http://dbpedia.org/resource/George_Frederick_Seward http://dbpedia.org/resource/George_Seward
+0,15,John Russell Young,"http://dbpedia.org/resource/John_Russell,_1st_Earl_Russell",http://dbpedia.org/resource/John_Russel_Young http://dbpedia.org/resource/John_Russell_Young
+0,16,Charles Harvey Denby,http://dbpedia.org/resource/Charles_Harvey_Combe,http://dbpedia.org/resource/Charles_Harvey_Denby
+0,19,William James Calhoun,http://dbpedia.org/resource/William_B._Calhoun,http://dbpedia.org/resource/William_J._Calhoun http://dbpedia.org/resource/William_James_Calhoun

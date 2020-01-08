@@ -1,0 +1,9 @@
+F1: 0.87931,Precision: 0.87931,Recall: 0.87931,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,6,Bitchcraft,http://dbpedia.org/resource/Bitchcraft_(American_Horror_Story),http://dbpedia.org/resource/Bitchcraft
+0,10,Big Brother,http://dbpedia.org/resource/Grande_Fratello,http://dbpedia.org/resource/Big_Brother_(Glee)
+0,11,Better Angels,http://dbpedia.org/resource/Better_Angels_(The_Walking_Dead),http://dbpedia.org/resource/Better_Angels_(Agent_Carter)
+0,26,Arena,http://dbpedia.org/resource/The_Elder_Scrolls:_Arena,http://dbpedia.org/resource/Arena_(Star_Trek:_The_Original_Series) http://dbpedia.org/resource/Arena_(TOS_episode) http://dbpedia.org/resource/Arena_(Star_Trek) http://dbpedia.org/resource/Metrons http://dbpedia.org/resource/Metron_(Star_Trek)
+0,27,Anne,http://fr.dbpedia.org/resource/Anne_(Clouseau),http://dbpedia.org/resource/Anne_(Buffy_episode) http://dbpedia.org/resource/Anne_(Buffy_the_Vampire_Slayer_episode)
+0,33,Alone,http://dbpedia.org/resource/Alone_(Heart_song),http://dbpedia.org/resource/Alone_(The_Walking_Dead)
+0,57,A Little Night Music,http://dbpedia.org/resource/A_Little_Night_Music_(Desperate_Housewives),http://dbpedia.org/resource/A_Little_Night_Music_(The_Americans)

@@ -1,0 +1,12 @@
+F1: 0.56522,Precision: 0.56522,Recall: 0.56522,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Copper,http://dbpedia.org/resource/Copper,http://dbpedia.org/resource/Copper_(colour) http://dbpedia.org/resource/Copper_(color) http://dbpedia.org/resource/Copper_red
+0,2,Columbia blue,http://dbpedia.org/resource/Blue,http://dbpedia.org/resource/Columbia_Blue http://dbpedia.org/resource/Columbia_blue http://dbpedia.org/resource/Jordy_blue http://dbpedia.org/resource/Columbia_blue_(color)
+0,4,Citron,,http://dbpedia.org/resource/Citron_(color)
+0,6,Cinereous,http://dbpedia.org/resource/Cinereous_tit,http://dbpedia.org/resource/Cinereous
+0,7,Chocolate,http://dbpedia.org/resource/Chocolate_cake,http://dbpedia.org/resource/Cocoa_brown http://dbpedia.org/resource/Chocolate_(color)
+0,10,Champagne,http://dbpedia.org/resource/Champagne,http://dbpedia.org/resource/Champagne_(color)
+0,14,Cardinal,http://dbpedia.org/resource/Cardinal_(Catholic_Church),http://dbpedia.org/resource/Cardinal_(color) http://dbpedia.org/resource/Cardinal_red http://dbpedia.org/resource/Cardinal_Red
+0,15,Capri,http://dbpedia.org/resource/Sky_blue,http://dbpedia.org/resource/Capri_(color)
+0,17,Camel,http://dbpedia.org/resource/Sopwith_Camel,http://dbpedia.org/resource/Camel_(color)
+0,19,Byzantium,http://dbpedia.org/resource/Byzantine_music,http://dbpedia.org/resource/Byzantium_(colour) http://dbpedia.org/resource/Byzantium_(color)

@@ -1,0 +1,4 @@
+F1: 0.83333,Precision: 0.83333,Recall: 0.83333,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,4,Washington Mystics,http://dbpedia.org/resource/Mystic_Seaport,http://dbpedia.org/resource/Washington_Mystics http://dbpedia.org/resource/2014_Washington_Mystics_season
+3,8,Buffalo Braves,http://dbpedia.org/resource/Orix_Buffaloes,http://dbpedia.org/resource/Buffalo_Braves

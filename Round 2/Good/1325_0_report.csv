@@ -1,0 +1,5 @@
+F1: 0.88462,Precision: 0.88462,Recall: 0.88462,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,J. J. Davis,http://dbpedia.org/resource/Joseph_J._Davis,http://dbpedia.org/resource/John_J._Davis_(congressman) http://dbpedia.org/resource/John_James_Davis
+0,10,J. Camacho,http://dbpedia.org/resource/Marcelino_Camacho,http://dbpedia.org/resource/José_Joaquín_Justo_Camacho_Lago http://dbpedia.org/resource/Joaquín_Camacho http://dbpedia.org/resource/Joaquin_Camacho http://dbpedia.org/resource/Jose_Joaquin_Camacho http://dbpedia.org/resource/José_Joaquín_Camacho
+0,24,I. Welsh,http://dbpedia.org/resource/Isaac_Welsh,http://dbpedia.org/resource/Ivan_Welsh http://dbpedia.org/resource/Ivan_Joseph_Welsh

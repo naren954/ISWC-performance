@@ -1,0 +1,10 @@
+F1: 0.76471,Precision: 0.76471,Recall: 0.76471,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,6,Say Goodbye,http://dbpedia.org/resource/Say_Goodbye_(Chris_Brown_song),http://dbpedia.org/resource/Say_Goodbye_(Dave_Matthews_Band_song)
+0,7,Rosie Won't You Please Come Home,http://dbpedia.org/resource/Rosy_Won't_You_Please_Come_Home,http://dbpedia.org/resource/Rosie_Won't_You_Please_Come_Home
+0,9,Pig,http://dbpedia.org/resource/Filth_Pig,http://dbpedia.org/resource/Pig_(song) http://dbpedia.org/resource/Don't_Burn_the_Pig
+0,14,Million Miles Away,http://dbpedia.org/resource/Million_Miles_Away_(Kim_Wilde_song),http://dbpedia.org/resource/Million_Miles_May http://dbpedia.org/resource/Million_Miles_Away_(Hanoi_Rocks_song)
+0,19,Know Your Enemy,http://dbpedia.org/resource/Know_Your_Enemy_(Green_Day_song),http://dbpedia.org/resource/Know_Your_Enemy_(Rage_Against_the_Machine_song)
+0,20,Kite,http://dbpedia.org/resource/Kite_(U2_song),http://dbpedia.org/resource/Kite_(Kate_Bush_song)
+0,29,Halloween,http://dbpedia.org/resource/Halloween_(Misfits_song),http://dbpedia.org/resource/Halloween_(Dave_Matthews_Band_song)
+0,31,Gangsta?,http://dbpedia.org/resource/Gangsta_(Kehlani_song),http://dbpedia.org/resource/Gangsta?_(Tinchy_Stryder_song)

@@ -1,0 +1,7 @@
+F1: 0.86486,Precision: 0.86486,Recall: 0.86486,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,Pilot,http://dbpedia.org/resource/Pilot_(Smallville),http://dbpedia.org/resource/Pilot_(The_Critic)
+0,8,Mr. Bean,http://dbpedia.org/resource/Bean_(film),http://dbpedia.org/resource/Mr._Bean_(Mr._Bean_episode) http://dbpedia.org/resource/Mr._Bean_(episode) http://dbpedia.org/resource/Mr._Bean_(Mr._Bean)
+0,21,Hell on Wheels,http://dbpedia.org/resource/Hell_on_Wheels_(Hell_on_Wheels_episode),http://dbpedia.org/resource/Hell_On_Wheels_(episode) http://dbpedia.org/resource/Hell_on_Wheels_(episode) http://dbpedia.org/resource/Pilot_(Hell_on_Wheels)
+0,22,Hell,http://dbpedia.org/resource/Hell-O_(Glee),http://dbpedia.org/resource/Hell_(Father_Ted) http://dbpedia.org/resource/Hell_(Father_Ted_episode)
+0,31,Divided We Stand,http://dbpedia.org/resource/Divided_We_Stand,http://dbpedia.org/resource/Divided_We_Stand_(STC_episode) http://dbpedia.org/resource/Divided_We_Stand_(Star_Trek_Continues)

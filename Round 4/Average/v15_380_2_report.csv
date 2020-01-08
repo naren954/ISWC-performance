@@ -1,0 +1,60 @@
+F1: 0.57353,Precision: 0.57353,Recall: 0.57353,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,1,L. Stevens,http://dbpedia.org/resource/Katie_Stevens,http://dbpedia.org/resource/Leith_Stevens
+2,2,H. Goodall,http://dbpedia.org/resource/Frederick_Goodall,http://dbpedia.org/resource/Howard_Goodall http://dbpedia.org/resource/Howard_Lindsay_Goodall
+2,5,S. Tyrell,http://dbpedia.org/resource/Soozie_Tyrell,http://dbpedia.org/resource/Steve_Tyrell
+2,7,J. Söderqvist,http://de.dbpedia.org/resource/Ann-Sofi_Söderqvist,http://dbpedia.org/resource/Johan_Soderqvist http://dbpedia.org/resource/Johan_Söderqvist
+2,10,J. E. Keane,http://dbpedia.org/resource/Glen_Keane,http://dbpedia.org/resource/John_E._Keane
+2,11,R. Bellis,http://dbpedia.org/resource/Paolo_Belli,http://dbpedia.org/resource/Richard_Bellis http://dbpedia.org/resource/Richard_bellis
+2,12,Sparks,http://dbpedia.org/resource/Jordin_Sparks,http://dbpedia.org/resource/Sparks_(band) http://dbpedia.org/resource/Sparks_band http://dbpedia.org/resource/The_Sparks
+2,17,B. Goldenberg,http://dbpedia.org/resource/William_Goldenberg,http://dbpedia.org/resource/Billy_Goldenberg
+2,18,E. S. Day,http://dbpedia.org/resource/Kazakhstan,http://dbpedia.org/resource/Every_Single_Day_(Band) http://dbpedia.org/resource/Every_Single_Day_(band)
+2,19,C. Bernstein,http://dbpedia.org/resource/Carl_Bernstein,http://dbpedia.org/resource/Charles_Bernstein_(musician) http://dbpedia.org/resource/Charles_Bernstein_(composer)
+2,24,S. M. Thomas,http://dbpedia.org/resource/São_Tomé_and_Príncipe,http://dbpedia.org/resource/Stuart_Michael_Thomas
+2,25,C. Gunning,http://dbpedia.org/resource/Carmel_Gunning,http://dbpedia.org/resource/Christopher_Gunning http://dbpedia.org/resource/Chris_Gunning
+2,27,P. Kingsland,http://dbpedia.org/resource/Richard_Kingsland,http://dbpedia.org/resource/Paddy_Kingsland
+2,28,R. Bellis,http://dbpedia.org/resource/Paolo_Belli,http://dbpedia.org/resource/Richard_Bellis http://dbpedia.org/resource/Richard_bellis
+2,31,B. Mike,http://dbpedia.org/resource/Big_Mike_(rapper),http://dbpedia.org/resource/Backhouse_Mike http://dbpedia.org/resource/Michael_Corcoran_(musician)
+2,32,T. Jones,http://dbpedia.org/resource/Thad_Jones,http://dbpedia.org/resource/Trevor_Jones_(composer)
+2,38,B. Vaughn,http://dbpedia.org/resource/Billy_Vaughn,http://dbpedia.org/resource/Ben_Vaughn http://dbpedia.org/resource/Ben_Vaughn_Combo
+2,40,R. Rieckermann,http://de.dbpedia.org/resource/Ralph_Rieckermann,http://dbpedia.org/resource/Rudy_Lenners http://dbpedia.org/resource/Achim_Kirschning http://dbpedia.org/resource/Love_at_First_Sting_Tour http://dbpedia.org/resource/The_Scorpions_(band) http://dbpedia.org/resource/Scorpions_(Band) http://dbpedia.org/resource/Karl-Heinz_Follmer http://dbpedia.org/resource/Scorpions_(band) http://dbpedia.org/resource/Lothar_Heimberg http://dbpedia.org/resource/Ralph_Rieckermann
+2,44,H. B. Gilbert,http://dbpedia.org/resource/Joseph_Henry_Gilbert,http://dbpedia.org/resource/Herschel_Burke_Gilbert
+2,46,J. D. Pasquale,http://dbpedia.org/resource/Joseph_de_Pasquale,http://dbpedia.org/resource/James_DiPasquale http://dbpedia.org/resource/James_Di_Pasquale
+2,51,G. Farley,http://dbpedia.org/resource/Chris_Farley,http://dbpedia.org/resource/Guy_Farley
+2,52,J. Grossman,http://dbpedia.org/resource/David_Grossman,http://dbpedia.org/resource/Jonathan_Grossman
+2,56,L. Balfe,http://dbpedia.org/resource/David_Balfe,http://dbpedia.org/resource/Lorne_Balfe
+2,58,J. Parker,http://dbpedia.org/resource/Ray_Parker_Jr.,http://dbpedia.org/resource/Jim_Parker_(composer)
+2,60,S. Haider,http://dbpedia.org/resource/Ali,http://dbpedia.org/resource/Shuja_Haider_(singer)
+2,63,S. Parodi,http://dbpedia.org/resource/Andrea_Parodi,http://dbpedia.org/resource/Starr_Parodi http://dbpedia.org/resource/Starr_parodi
+2,67,A. Winfrey,http://dbpedia.org/resource/Oprah_Winfrey,http://dbpedia.org/resource/Squid_and_Frog http://dbpedia.org/resource/Muffin_Films http://dbpedia.org/resource/Amy_Winfrey
+2,70,S. Sim,http://dbpedia.org/resource/Sheila_Sim,http://dbpedia.org/resource/Samuel_Sim
+2,72,J. Harris,http://dbpedia.org/resource/Richard_Harris,http://dbpedia.org/resource/Johnny_Harris_(musician)
+2,75,B. Rowland,http://dbpedia.org/resource/Kelly_Rowland,http://dbpedia.org/resource/Bruce_Rowland
+2,77,J. Lunn,http://dbpedia.org/resource/Janet_Lunn,http://dbpedia.org/resource/John_Lunn
+2,78,N. Foster,http://dbpedia.org/resource/Stephen_Foster,http://dbpedia.org/resource/Nick_foster http://dbpedia.org/resource/Nick_Foster
+2,80,S. Zafar,http://dbpedia.org/resource/Shakila_Zafar,http://dbpedia.org/resource/Sabir_Zafar
+2,86,K. Thorne,http://dbpedia.org/resource/Bella_Thorne,http://dbpedia.org/resource/Ken_Thorne
+2,87,D. Lux,http://dbpedia.org/resource/Luxembourg,http://dbpedia.org/resource/Danny_Lux
+2,88,R. Barrett,http://dbpedia.org/resource/Rob_Barrett,http://dbpedia.org/resource/Ruth_Barrett_(composer)
+2,89,M. Snow,http://dbpedia.org/resource/Michael_Snow,http://dbpedia.org/resource/Martin_Fulterman http://dbpedia.org/resource/Mark_Snow
+2,91,J. Scott,http://dbpedia.org/resource/Jill_Scott,http://dbpedia.org/resource/Patrick_John_Scott http://dbpedia.org/resource/John_Scott_(composer)
+2,95,K. a. Ebb,http://dbpedia.org/resource/Fred_Ebb,http://dbpedia.org/resource/Kander_&_Ebb http://dbpedia.org/resource/Kander_and_Ebb
+2,96,N. Corbeil,http://fr.dbpedia.org/resource/Nicolas_Corbeil,http://dbpedia.org/resource/Normand_Corbeil
+2,99,J. Cameron,http://dbpedia.org/resource/Jay_Cameron,http://dbpedia.org/resource/John_Cameron_(musician)
+2,100,J. Lunn,http://dbpedia.org/resource/Janet_Lunn,http://dbpedia.org/resource/John_Lunn
+2,102,J. Sebastian,http://dbpedia.org/resource/Johann_Sebastian_Bach,http://dbpedia.org/resource/John_Sebastian http://dbpedia.org/resource/John_B._Sebastian http://dbpedia.org/resource/G._Puglese
+2,103,C. Paradis,http://dbpedia.org/resource/Vanessa_Paradis,http://dbpedia.org/resource/Carly_Paradis
+2,104,D. M. Frank,http://dbpedia.org/resource/Anne_Frank,http://dbpedia.org/resource/David_Michael_Frank
+2,108,D. Schwartz,http://dbpedia.org/resource/David_Schwartz_(violist),http://dbpedia.org/resource/David_Schwartz_(composer) http://dbpedia.org/resource/David_Schwartz
+2,109,N. Pike,http://dbpedia.org/resource/Dave_Pike,http://dbpedia.org/resource/Nicholas_Pike
+2,111,M. Gerrard,http://dbpedia.org/resource/Lisa_Gerrard,http://dbpedia.org/resource/Matthew_Gerrard
+2,113,J. Petit,http://de.dbpedia.org/resource/Léo_Petit,http://dbpedia.org/resource/Jean_Claude_Petit http://dbpedia.org/resource/Jean-Claude_Petit
+2,117,A. Parker,http://dbpedia.org/resource/Andy_Parker_(musician),http://dbpedia.org/resource/Alan_Parker(Musician) http://dbpedia.org/resource/Alan_Parker(musician) http://dbpedia.org/resource/Alan_Parker_(composer) http://dbpedia.org/resource/Alan_Parker_(musician)
+2,121,R. Barrett,http://dbpedia.org/resource/Rob_Barrett,http://dbpedia.org/resource/Ruth_Barrett_(composer)
+2,123,T. Roots,http://dbpedia.org/resource/Slovenia,"http://dbpedia.org/resource/The_Square_Roots http://dbpedia.org/resource/James_'Kamal'_Gray http://dbpedia.org/resource/Frank_Knuckles http://dbpedia.org/resource/Wadud_ahmad http://dbpedia.org/resource/The_Legendary_Roots_Crew http://dbpedia.org/resource/Endgame_(The_Roots_album) http://dbpedia.org/resource/Wadud_Ahmad http://dbpedia.org/resource/F._Knuckles http://dbpedia.org/resource/Kamal_Gray http://dbpedia.org/resource/Damon_""Tuba_Gooding_Jr.""_Bryson http://dbpedia.org/resource/Damon_Bryson http://dbpedia.org/resource/The_End_Game_(album) http://dbpedia.org/resource/End_Game_(The_Roots_album) http://dbpedia.org/resource/Roots_(band) http://dbpedia.org/resource/The_roots http://dbpedia.org/resource/The_Roots http://dbpedia.org/resource/The_Fifth_Dynasty http://dbpedia.org/resource/The_Roots_(band) http://dbpedia.org/resource/Mark_Kelley_(Bassist)"
+2,124,J. Parker,http://dbpedia.org/resource/Ray_Parker_Jr.,http://dbpedia.org/resource/Jim_Parker_(composer)
+2,125,M. Gold,http://dbpedia.org/resource/Marian_Gold,http://dbpedia.org/resource/Murray_Gold
+2,129,D. Ingram,http://dbpedia.org/resource/Dave_Ingram,http://dbpedia.org/resource/Daniel_Ingrams http://dbpedia.org/resource/Daniel_Ingram
+2,133,T. Watanabe,http://dbpedia.org/resource/Takeo_Watanabe,http://dbpedia.org/resource/Toshiyuki_Watanabe
+2,134,H. Jackman,http://dbpedia.org/resource/Hugh_Jackman,"http://dbpedia.org/resource/Henry_Jackman http://dbpedia.org/resource/Jackman,_Henry http://dbpedia.org/resource/Henry_Pryce_Jackman"
+2,136,L. Holdridge,http://dbpedia.org/resource/Leslie_Holdridge,http://dbpedia.org/resource/Lee_Holdridge

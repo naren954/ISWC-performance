@@ -1,0 +1,5 @@
+F1: 0.90909,Precision: 0.90909,Recall: 0.90909,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,15,Hector Camacho Jr.,http://dbpedia.org/resource/Héctor_Camacho,"http://dbpedia.org/resource/Hector_Camacho_Jr. http://dbpedia.org/resource/Hector_'Machito'_Camacho_Jr. http://dbpedia.org/resource/Hector_Camacho_Jr http://dbpedia.org/resource/Hector_Camacho,_Jr. http://dbpedia.org/resource/Héctor_Camacho,_Jr. http://dbpedia.org/resource/Héctor_Camacho_Jr."
+2,44,"Tony Ayala, Jr.",http://dbpedia.org/resource/Tony_Wroten,"http://dbpedia.org/resource/Tony_Ayala http://dbpedia.org/resource/Tony_Ayala_Jr http://dbpedia.org/resource/Tony_Ayala_Jr. http://dbpedia.org/resource/Tony_Ayala,_Jr."
+2,69,Floyd Williams,http://dbpedia.org/resource/Floyd_Heard,http://dbpedia.org/resource/Floyd_Williams

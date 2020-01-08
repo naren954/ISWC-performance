@@ -1,0 +1,8 @@
+"F1: 0.53846","Precision: 0.53846","Recall: 0.53846"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","2","Pavel MalchÃ¡rek","http://dbpedia.org/resource/Pavel_Malcharek","http://dbpedia.org/resource/Pavel_Malchárek"
+"1","7","Pavel FoÅ\u0099t","http://dbpedia.org/resource/Pavel_Florián","http://dbpedia.org/resource/Pavel_Fořt"
+"1","8","Ladislav KrejÄ\u008DÃ­","http://dbpedia.org/resource/Night_Travellers_at_a_Cross","http://dbpedia.org/resource/Ladislav_Krejčí"
+"1","11","TomÃ¡Å¡ PÅ\u0099ikryl","http://dbpedia.org/resource/Tom_Palmer_(rugby_union)","http://dbpedia.org/resource/Tomáš_Přikryl"
+"1","12","Marek StÅ\u0099eÅ¡tÃ­k","nan","http://dbpedia.org/resource/Marek_Střeštík"
+"1","13","VÃ¡clav SvÄ\u009BrkoÅ¡","http://dbpedia.org/resource/Saint_Helena,_Ascension_and_Tristan_da_Cunha","http://dbpedia.org/resource/Václav_Svěrkoš"

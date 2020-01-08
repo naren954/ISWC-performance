@@ -1,0 +1,15 @@
+F1: 0.72917,Precision: 0.72917,Recall: 0.72917,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Wu-Chronicles,http://dbpedia.org/resource/Chronicles_(Rush_album),http://dbpedia.org/resource/Wu-Chronicles
+0,15,Wrong Idea,http://dbpedia.org/resource/Wrong_Ideas,http://dbpedia.org/resource/Wrong_Idea
+0,21,Wrong,http://dbpedia.org/resource/Wrong_(Depeche_Mode_song),http://dbpedia.org/resource/Wrong_(album)
+0,22,Wrong,http://dbpedia.org/resource/Wrong_(Depeche_Mode_song),http://dbpedia.org/resource/Wrong_(Zayn_song)
+0,26,Written in the Stars,http://dbpedia.org/resource/Written_in_the_Stars_(Elton_John_and_LeAnn_Rimes_song),http://dbpedia.org/resource/Written_in_the_Stars_(Tinie_Tempah_song)
+0,27,Written in the Sand,http://dbpedia.org/resource/Written_in_the_Sand_(song),http://dbpedia.org/resource/Written_in_the_Sand
+0,32,Writing on the Wall,http://dbpedia.org/resource/Writing's_on_the_Wall_(Sam_Smith_song),http://dbpedia.org/resource/Writing_on_the_Wall_(George_Jones_song)
+0,33,Writing on the Wall,http://dbpedia.org/resource/Writing's_on_the_Wall_(Sam_Smith_song),http://dbpedia.org/resource/Writing_on_the_Wall_(Bucks_Fizz_album)
+0,36,Writer's Block,http://dbpedia.org/resource/Writer's_Block_(Just_Jack_song),http://dbpedia.org/resource/Writer's_Block_(Peter_Bjorn_and_John_album) http://dbpedia.org/resource/Let's_Call_It_Off
+0,38,Writer's Block,http://dbpedia.org/resource/Writer's_Block_(Just_Jack_song),http://dbpedia.org/resource/Writer's_Block_(Evergreen_Terrace_album)
+0,40,Write Your Own History,http://dbpedia.org/resource/Make_Your_Own_History,http://dbpedia.org/resource/Write_Your_Own_History
+0,42,Write On Me,http://dbpedia.org/resource/Write_on_Me,http://dbpedia.org/resource/Write_On_Me
+0,47,Write It on Your Skin,http://dbpedia.org/resource/Write_It_on_Your_Skin_(song),http://dbpedia.org/resource/Write_It_On_Your_Skin http://dbpedia.org/resource/Write_It_on_Your_Skin

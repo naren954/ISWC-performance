@@ -1,0 +1,5 @@
+F1: 0.66667,Precision: 0.66667,Recall: 0.66667,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,2,O. II,http://dbpedia.org/resource/Elizabeth_II,http://dbpedia.org/resource/Genç_osman http://dbpedia.org/resource/Osman_II http://dbpedia.org/resource/Osman_the_Young http://dbpedia.org/resource/Genc_osman
+1,4,B. I,http://dbpedia.org/resource/Bayezid_I,"http://dbpedia.org/resource/Bretislaw_I http://dbpedia.org/resource/Bretislaus_I_of_Bohemia http://dbpedia.org/resource/Bretislav_I_of_Bohemia http://dbpedia.org/resource/Bretislav_I http://dbpedia.org/resource/Bretislaus_I,_Duke_of_Bohemia http://dbpedia.org/resource/Bretislaus_I http://dbpedia.org/resource/Břetislav_I"
+1,9,A. I,http://dbpedia.org/resource/Amenhotep_I,http://dbpedia.org/resource/Arnuwanda_I

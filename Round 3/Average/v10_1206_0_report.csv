@@ -1,0 +1,11 @@
+F1: 0.55000,Precision: 0.55000,Recall: 0.55000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,A. Hamilton,http://dbpedia.org/resource/Alexander_Hamilton,"http://dbpedia.org/resource/Adam_Hamilton http://dbpedia.org/resource/Hamilton,_Adam"
+0,12,A. V. Brown,http://dbpedia.org/resource/Foster_V._Brown,http://dbpedia.org/resource/Aaron_Venable_Brown http://dbpedia.org/resource/Aaron_V._Brown
+0,13,Ö. O. Pasha,http://dbpedia.org/resource/Muhammad_Ali_of_Egypt,http://dbpedia.org/resource/Özdemiroğlu_Osman_Pasha http://dbpedia.org/resource/Ozdemiroglu_Osman_Pasha http://dbpedia.org/resource/Özdemiroğlu_Osman_Paşa
+0,14,É. Poulin,http://dbpedia.org/resource/Aline_Poulin,http://dbpedia.org/resource/Etienne_Poulin http://dbpedia.org/resource/Étienne_Poulin
+0,15,É. Pâquet,http://fr.dbpedia.org/resource/Aimé_Paquet,http://dbpedia.org/resource/Etienne-Theodore_Paquet http://dbpedia.org/resource/Étienne-Théodore_Pâquet
+0,16,É. L. Jr.,http://dbpedia.org/resource/Barack_Obama,"http://dbpedia.org/resource/Emery_Lalonde_Jr. http://dbpedia.org/resource/Émery_Lalonde,_Jr. http://dbpedia.org/resource/Emery_Lalonde,_Jr."
+0,18,É. B. Garneau,http://dbpedia.org/resource/Marc_Garneau,http://dbpedia.org/resource/Édouard-Burroughs_Garneau http://dbpedia.org/resource/Édouard_Burroughs_Garneau http://dbpedia.org/resource/Edouard_Burroughs_Garneau
+0,19,É. J. Duchesnay,http://dbpedia.org/resource/J,http://dbpedia.org/resource/Edouard-Louis-Antoine-Charles_Juchereau_Duchesnay http://dbpedia.org/resource/Édouard-Louis-Antoine-Charles_Juchereau_Duchesnay http://dbpedia.org/resource/Antoine_Juchereau_Duchesnay_(senator)
+0,20,Á. G. Hurtado,http://es.dbpedia.org/resource/Manuel_Abastos,http://dbpedia.org/resource/Alvaro_Gómez_Hurtado http://dbpedia.org/resource/Álvaro_Gómez_Hurtado http://dbpedia.org/resource/Alvaro_Gomez_Hurtado

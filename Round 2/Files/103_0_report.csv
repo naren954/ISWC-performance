@@ -1,0 +1,5 @@
+"F1: 0.97170","Precision: 0.97170","Recall: 0.97170"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","25","Podocarpus rotundus","http://dbpedia.org/resource/Podocarpus_glomeratus","http://dbpedia.org/resource/Podocarpus_rotundus"
+"0","83","Podocarpus cunninghamii","http://uk.dbpedia.org/resource/Podocarpus_cunninghamii","http://dbpedia.org/resource/Podocarpus_cunninghamii http://dbpedia.org/resource/Mountain_totara http://dbpedia.org/resource/Halls_totara http://dbpedia.org/resource/Montane_totara http://dbpedia.org/resource/Podocarpus_hallii http://dbpedia.org/resource/Tōtara_kōtukutuku http://dbpedia.org/resource/Hall's_totara"
+"0","89","Podocarpus chinensis","http://dbpedia.org/resource/Podocarpus_glomeratus","http://dbpedia.org/resource/Podocarpus_chinensis"

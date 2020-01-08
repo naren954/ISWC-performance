@@ -1,0 +1,26 @@
+F1: 0.80165,Precision: 0.80165,Recall: 0.80165,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,S. Barr,http://dbpedia.org/resource/Steve_Barr,http://dbpedia.org/resource/Scotty_Barr
+0,8,S. Hawley,http://dbpedia.org/resource/Chuck_Hawley,http://dbpedia.org/resource/Scott_Hawley
+0,9,S. Hastings,http://dbpedia.org/resource/Scott_Hastings_(basketball),http://dbpedia.org/resource/Scott_Hastings_(baseball) http://dbpedia.org/resource/Winfield_Scott_Hastings
+0,24,S. White,http://dbpedia.org/resource/Byron_White,http://dbpedia.org/resource/Samuel_Charles_White http://dbpedia.org/resource/Sammy_Charles_White http://dbpedia.org/resource/Sammy_White_(baseball) http://dbpedia.org/resource/Sammy_White_(baseball_player)
+0,32,S. Curran,http://dbpedia.org/resource/Shane_Curran,http://dbpedia.org/resource/Sammy_Curran_(baseball)
+0,37,S. White,http://dbpedia.org/resource/Byron_White,http://dbpedia.org/resource/Sam_White_(baseball)
+0,41,S. Thompson,http://dbpedia.org/resource/Shelley_Thompson_(footballer),http://dbpedia.org/resource/Sam_Thompson
+0,47,S. Page,http://dbpedia.org/resource/Solomon_Page,http://dbpedia.org/resource/Sam_Page_(baseball)
+0,51,S. Mongin,http://fr.dbpedia.org/resource/Sébastien_Mongin,http://dbpedia.org/resource/Sam_Mongin
+0,57,S. Lowry,http://dbpedia.org/resource/Shane_Lowry_(footballer),http://dbpedia.org/resource/Sam_Lowry
+0,63,S. King,http://dbpedia.org/resource/Syd_King,http://dbpedia.org/resource/Sam_King_(baseball)
+0,67,S. Jackson,http://fr.dbpedia.org/resource/Skeeter_Jackson,http://dbpedia.org/resource/Sam_Jackson_(baseball)
+0,68,S. Hope,http://dbpedia.org/resource/Shannon_Hope,http://dbpedia.org/resource/Sam_Hope
+0,71,S. Gray,http://dbpedia.org/resource/Stevie_Gray,http://dbpedia.org/resource/Sam_Gray http://dbpedia.org/resource/Sam_Gray_(baseball)
+0,73,S. Gibson,http://dbpedia.org/resource/Sidney_Gibson,http://dbpedia.org/resource/Sam_Gibson_(baseball)
+0,74,S. Gentile,http://dbpedia.org/resource/Stefano_Gentile,http://dbpedia.org/resource/Sam_Gentile
+0,77,S. Field,http://dbpedia.org/resource/Sam_Field_(footballer),http://dbpedia.org/resource/Sam_Field
+0,87,S. Brown,http://dbpedia.org/resource/Steve_Brown_(American_football),http://dbpedia.org/resource/Sam_Brown_(baseball)
+0,90,S. Barnes,http://dbpedia.org/resource/Scott_Barnes_(baseball),http://dbpedia.org/resource/Sam_Barnes
+0,92,S. Bankhead,http://dbpedia.org/resource/Dan_Bankhead,http://dbpedia.org/resource/Sammy_Bankhead http://dbpedia.org/resource/Sam_Bankhead
+0,94,S. Parker,http://dbpedia.org/resource/Sonny_Parker_(basketball),http://dbpedia.org/resource/Salty_Parker
+0,108,R. Young,http://dbpedia.org/resource/Ricky_Ortiz,http://dbpedia.org/resource/Russ_Young
+0,119,R. Hall,http://dbpedia.org/resource/Roy_Hall_(American_football),http://dbpedia.org/resource/Russ_Hall
+0,120,R. Gibson,http://dbpedia.org/resource/Robert_Murray_Gibson,http://dbpedia.org/resource/Russ_Gibson

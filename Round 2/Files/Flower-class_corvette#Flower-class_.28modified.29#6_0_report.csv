@@ -1,0 +1,4 @@
+"F1: 0.00000","Precision: 0.00000","Recall: 0.00000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","1","Apostolis","http://dbpedia.org/resource/Saint_Peter","http://dbpedia.org/resource/Greek_corvette_Apostolis http://dbpedia.org/resource/HMS_Hyacinth_(K84)"
+"0","3","Sachtouris","http://dbpedia.org/resource/Miltos_Sachtouris","http://dbpedia.org/resource/Greek_corvette_Sachtouris http://dbpedia.org/resource/HMS_Peony_(K40) http://dbpedia.org/resource/Greek_corvette_Sakhtouris"

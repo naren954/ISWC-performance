@@ -1,0 +1,5 @@
+F1: 0.57143,Precision: 0.57143,Recall: 0.57143,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,4,David Finnegan,http://dbpedia.org/resource/Cortland_Finnegan,http://dbpedia.org/resource/David_Finnegan
+0,7,Frederick C. Langone,http://dbpedia.org/resource/Frederick_Cavendish_Ponsonby,http://dbpedia.org/resource/Frederick_C._Langone http://dbpedia.org/resource/Frederick_Langone http://dbpedia.org/resource/Fred_Langone
+0,8,Bob Kiley,http://dbpedia.org/resource/Jack_Kiley,http://dbpedia.org/resource/Bob_Kiley http://dbpedia.org/resource/Robert_Kiley http://dbpedia.org/resource/Robert_R._Kiley

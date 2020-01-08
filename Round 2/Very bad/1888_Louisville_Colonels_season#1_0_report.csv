@@ -1,0 +1,9 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,Baltimore,http://dbpedia.org/resource/Baltimore,http://dbpedia.org/resource/1888_Baltimore_Orioles_season
+0,3,Brooklyn,http://dbpedia.org/resource/Brooklyn_(film),http://dbpedia.org/resource/1888_Brooklyn_Bridegrooms_season
+0,4,Cincinnati,http://dbpedia.org/resource/Cincinnati,http://dbpedia.org/resource/1888_Cincinnati_Reds_season http://dbpedia.org/resource/1888_Cincinnati_Red_Stockings_season
+0,5,Cleveland,http://dbpedia.org/resource/Grover_Cleveland,http://dbpedia.org/resource/1888_Cleveland_Blues_season
+0,6,Kansas City,http://dbpedia.org/resource/Kansas,http://dbpedia.org/resource/1888_Kansas_City_Cowboys_season
+0,8,Philadelphia,http://dbpedia.org/resource/Philadelphia,http://dbpedia.org/resource/1888_Philadelphia_Athletics_season
+0,9,St. Louis,http://dbpedia.org/resource/St._Louis,http://dbpedia.org/resource/1888_St._Louis_Cardinals_season http://dbpedia.org/resource/1888_St._Louis_Browns_season

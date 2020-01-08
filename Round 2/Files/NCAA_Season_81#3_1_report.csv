@@ -1,0 +1,4 @@
+"F1: 0.75000","Precision: 0.75000","Recall: 0.75000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","1","San Sebastian Staglets","http://dbpedia.org/resource/Club_San_Sebastián_de_León","http://dbpedia.org/resource/San_Sebastian_Stags http://dbpedia.org/resource/San_Sebastian_Lady_Stags http://dbpedia.org/resource/San_Sebastian_Staglets"
+"1","6","UPHSD Altalletes","nan","http://dbpedia.org/resource/UPHSD_Altas http://dbpedia.org/resource/Altas http://dbpedia.org/resource/Perpetual_Altas http://dbpedia.org/resource/UPHD_Altalettes http://dbpedia.org/resource/Perpetual_Help_Altas http://dbpedia.org/resource/UPHSD_Altalettes http://dbpedia.org/resource/UPHD_Altas"

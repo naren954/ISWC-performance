@@ -1,0 +1,4 @@
+F1: 0.80000,Precision: 0.80000,Recall: 0.80000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,Season 1,http://dbpedia.org/resource/Monk_(season_1),http://dbpedia.org/resource/How_I_Met_Your_Mother_(season_1) http://dbpedia.org/resource/Milk_(How_I_Met_Your_Mother_episode) http://dbpedia.org/resource/HIMYM_Season_1 http://dbpedia.org/resource/HIMYM_(season_1) http://dbpedia.org/resource/Milk_(HIMYM)
+0,3,Season 2,http://dbpedia.org/resource/Charmed_(season_2),http://dbpedia.org/resource/How_I_Met_Your_Mother_(season_2) http://dbpedia.org/resource/HIMYM_(season_2)

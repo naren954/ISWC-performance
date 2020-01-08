@@ -1,0 +1,8 @@
+F1: 0.64706,Precision: 0.64706,Recall: 0.64706,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,2,Impressions,http://dbpedia.org/resource/Impressions_(John_Coltrane_album),http://dbpedia.org/resource/Impressions_(Mal_Waldron_album)
+1,4,Roots,http://dbpedia.org/resource/Roots_(Sepultura_album),http://dbpedia.org/resource/Roots_(Cedar_Walton_album)
+1,5,Sonic Boom,http://dbpedia.org/resource/Sonic_Boom_(Kiss_album),http://dbpedia.org/resource/Sonic_Boom_(Lee_Morgan_album)
+1,6,Silence,http://dbpedia.org/resource/Silence_(Sonata_Arctica_album),http://dbpedia.org/resource/Silence_(Charlie_Haden_album)
+1,10,Long Distance Voyager,http://dbpedia.org/resource/Long_Distance_(song),http://dbpedia.org/resource/Long_Distance_Voyager
+1,12,Walking on a Thin Line,http://dbpedia.org/resource/Walking_on_a_Thin_Line,http://dbpedia.org/resource/Walking_on_a_Thin_Line_(song)

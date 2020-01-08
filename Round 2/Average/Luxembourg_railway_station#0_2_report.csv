@@ -1,0 +1,6 @@
+F1: 0.60000,Precision: 0.60000,Recall: 0.60000,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,4,Line 50,http://dbpedia.org/resource/Belgian_railway_line_50,http://dbpedia.org/resource/CFL_Line_50 http://dbpedia.org/resource/Line_50
+2,8,TGV,http://dbpedia.org/resource/LGV_Nord,http://dbpedia.org/resource/List_of_TGV_services
+2,9,IntercitÃ©s night trains,http://dbpedia.org/resource/Intercités_de_Nuit,http://dbpedia.org/resource/Intercités
+2,13,RE,"http://dbpedia.org/resource/Re,_Norway",http://dbpedia.org/resource/Regionalexpress http://dbpedia.org/resource/Regional-Express http://dbpedia.org/resource/RegionalExpress

@@ -1,0 +1,6 @@
+F1: 0.82609,Precision: 0.82609,Recall: 0.82609,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,13,Great American Conference,http://dbpedia.org/resource/Great_American_Scream_Machine_(Six_Flags_Great_Adventure),http://dbpedia.org/resource/Great_American_Conference
+1,14,Universities Research Association,"http://dbpedia.org/resource/University_of_California,_Los_Angeles","http://dbpedia.org/resource/Universities_Research_Association http://dbpedia.org/resource/Universities_Research_Association,_Inc."
+1,16,International Association of Universities,"http://dbpedia.org/resource/University_of_California,_Riverside",http://dbpedia.org/resource/International_Association_of_Universities http://dbpedia.org/resource/International_association_of_universities http://dbpedia.org/resource/IAU_Universities_List
+1,19,Universities Research Association,"http://dbpedia.org/resource/University_of_California,_Los_Angeles","http://dbpedia.org/resource/Universities_Research_Association http://dbpedia.org/resource/Universities_Research_Association,_Inc."

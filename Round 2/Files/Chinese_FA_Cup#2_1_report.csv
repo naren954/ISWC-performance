@@ -1,0 +1,7 @@
+"F1: 0.70588","Precision: 0.70588","Recall: 0.70588"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","9","Wang Tao","http://dbpedia.org/resource/Wang_Tao_(table_tennis)","http://dbpedia.org/resource/Wang_Tao_(footballer,_born_1970) http://dbpedia.org/resource/Wang_Tao_(footballer_born_1970)"
+"1","10","Zhang Yuning","http://dbpedia.org/resource/Zhang_Yuning_(footballer,_born_1977)","http://dbpedia.org/resource/Zhang_Yuning_(disambiguation) http://dbpedia.org/resource/Zhang_Yuning http://dbpedia.org/resource/Yuning_Zhang"
+"1","11","Mark Williams","http://dbpedia.org/resource/Mark_Williams_(footballer,_born_1981)","http://dbpedia.org/resource/Mark_Williams_(soccer) http://dbpedia.org/resource/Mark_Williams_(South_African_soccer_player) http://dbpedia.org/resource/Mark_Williams_(soccer_player) http://dbpedia.org/resource/Mark_Williams_(South_African_footballer) http://dbpedia.org/resource/Mark_Williams_(South_African_soccer)"
+"1","20","Han Peng","http://dbpedia.org/resource/Han_Peng_(male_footballer)","http://dbpedia.org/resource/Peng_Han http://dbpedia.org/resource/Han_Peng"
+"1","21","Muriqui","http://dbpedia.org/resource/Muriqui_(footballer)","http://dbpedia.org/resource/Luiz_Guilherme_da_Conceição_Silva"

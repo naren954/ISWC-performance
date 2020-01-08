@@ -1,0 +1,7 @@
+F1: 0.16667,Precision: 0.16667,Recall: 0.16667,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,1,Outstanding Featured Actor in a Musical,http://dbpedia.org/resource/Drama_Desk_Award,http://dbpedia.org/resource/Drama_Desk_Award_for_Outstanding_Featured_Actor_in_a_Musical
+2,2,Outstanding Choreography,http://dbpedia.org/resource/68th_Primetime_Creative_Arts_Emmy_Awards,http://dbpedia.org/resource/Drama_Desk_Award_for_Outstanding_Choreography
+2,4,Best Revival of a Musical,http://dbpedia.org/resource/Drama_Desk_Award,http://dbpedia.org/resource/Tony_Award_of_Best_Revival_of_a_Musical http://dbpedia.org/resource/Tony_Award_for_Best_Revival_of_a_Musical http://dbpedia.org/resource/Tony_Award_for_Best_Revival_(Musical)
+2,5,Best Performance by a Featured Actress in a Musical,http://dbpedia.org/resource/Tony_Award,http://dbpedia.org/resource/Tony_Award_for_Best_Performance_by_a_Featured_Actress_in_a_Musical http://dbpedia.org/resource/Tony_Award_for_Best_Featured_Actress_in_a_Musical
+2,6,Best Choreography,http://dbpedia.org/resource/Tony_Award,http://dbpedia.org/resource/Tony_Award_for_Best_Choreography

@@ -1,0 +1,4 @@
+"F1: 0.92857","Precision: 0.92857","Recall: 0.92857"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","1","Distrito Federal","http://dbpedia.org/resource/Washington,_D.C.","http://dbpedia.org/resource/BR-DF http://dbpedia.org/resource/Federal_District_of_Brazil http://dbpedia.org/resource/Federal_District_(Brazil) http://dbpedia.org/resource/Distrito_Federal_(Brazil) http://dbpedia.org/resource/BR_DF http://dbpedia.org/resource/Distrito_Federal,_Brazil http://dbpedia.org/resource/Brazilian_Federal_District"
+"1","13","RondÃ´nia","nan","http://dbpedia.org/resource/Rondônia"

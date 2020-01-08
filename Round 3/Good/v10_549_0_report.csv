@@ -1,0 +1,5 @@
+F1: 0.88462,Precision: 0.88462,Recall: 0.88462,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,6,G. Jarvis,http://dbpedia.org/resource/Gregory_Jarvis,http://dbpedia.org/resource/Graham_Jarvis http://dbpedia.org/resource/Graham_P._Jarvis
+0,23,G. George,http://dbpedia.org/resource/Götz_George,http://dbpedia.org/resource/Gladys_Clare_Evans http://dbpedia.org/resource/Gladys_George http://dbpedia.org/resource/Gladys_Evans
+0,26,G. Hill,http://dbpedia.org/resource/Goldie_Hill,http://dbpedia.org/resource/Gil_Hill

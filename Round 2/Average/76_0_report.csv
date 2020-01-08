@@ -1,0 +1,12 @@
+F1: 0.58333,Precision: 0.58333,Recall: 0.58333,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Statoil,http://dbpedia.org/resource/Equinor,http://sws.geonames.org/8590648/
+0,2,Audi,http://dbpedia.org/resource/Audi,http://sws.geonames.org/7909752/
+0,3,Cray,http://dbpedia.org/resource/Cray,http://sws.geonames.org/7291184/
+0,4,Porsche,http://dbpedia.org/resource/Porsche,http://sws.geonames.org/6698559/
+0,5,Raytheon,http://dbpedia.org/resource/Raytheon,http://sws.geonames.org/4948460/
+0,6,Kaman Aircraft,http://dbpedia.org/resource/Kaman_Corporation,http://sws.geonames.org/4837152/
+0,7,Železara Smederevo,http://dbpedia.org/resource/Hesteel_Serbia,http://dbpedia.org/resource/Srpsko_akcionarsko_rudarsko_topionicarsko_industrijsko_drustvo http://dbpedia.org/resource/SARTID http://dbpedia.org/resource/Sartid http://dbpedia.org/resource/Zelezara_Smederevo http://dbpedia.org/resource/Železara_Smederevo http://dbpedia.org/resource/Srpsko_akcionarsko_rudarsko_topioničarsko_industrijsko_društvo
+0,10,Čačanska banka,http://dbpedia.org/resource/Halkbank_a.d.,http://dbpedia.org/resource/Čačanska_banka http://dbpedia.org/resource/Cacanska_banka http://dbpedia.org/resource/Čačanska_banka_Čačak
+0,11,ČD Cargo,http://dbpedia.org/resource/České_dráhy,http://dbpedia.org/resource/ČD_Cargo http://dbpedia.org/resource/CD_Cargo
+0,14,Íslandsbanki,http://dbpedia.org/resource/Glitnir_(bank),http://dbpedia.org/resource/Íslandsbanki http://dbpedia.org/resource/Islandsbanki http://dbpedia.org/resource/Nýi_Glitnir

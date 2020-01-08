@@ -1,0 +1,8 @@
+F1: 0.60000,Precision: 0.60000,Recall: 0.60000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,C. Eberle,http://dbpedia.org/resource/Ingrid_Eberle,http://dbpedia.org/resource/Chantelle_Eberle http://dbpedia.org/resource/Chantelle_Seiferling
+0,3,C. Stevens,http://dbpedia.org/resource/Colin_Stevens,http://dbpedia.org/resource/Chad_Stevens
+0,8,C. Delahunt,http://dbpedia.org/resource/Nancy_Delahunt,http://dbpedia.org/resource/Carrie_Delahunt http://dbpedia.org/resource/Carrie_Lindner
+0,12,B. Webster,http://dbpedia.org/resource/Brittany_Webster,http://dbpedia.org/resource/Bronwen_Webster http://dbpedia.org/resource/Bronwen_Saunders
+0,13,B. Virtue,http://dbpedia.org/resource/Tessa_Virtue,http://dbpedia.org/resource/Brock_Virtue
+0,14,B. O'Neill,"http://dbpedia.org/resource/Brian_O'Neill_(ice_hockey,_born_1988)",http://dbpedia.org/resource/Brit_O'Neill

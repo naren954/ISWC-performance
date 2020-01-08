@@ -1,0 +1,29 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Nigerian,http://dbpedia.org/resource/Nigeria,http://dbpedia.org/resource/Nigerian_American http://dbpedia.org/resource/Nigerian_Americans http://dbpedia.org/resource/Nigerian-American
+0,2,Egyptian,http://dbpedia.org/resource/Egypt,http://dbpedia.org/resource/Egyptian_American http://dbpedia.org/resource/Egyptian-American http://dbpedia.org/resource/Egyptian_Americans http://dbpedia.org/resource/Egyptian-Americans
+0,3,Cape Verdean,http://dbpedia.org/resource/Cape_Verde,http://dbpedia.org/resource/History_of_Cape_Verdean_immigration_in_the_United_States http://dbpedia.org/resource/List_of_Cape_Verdean_Americans http://dbpedia.org/resource/Cape_Verdean_Immigration_History_in_the_United_States http://dbpedia.org/resource/Cape_Verdean_American http://dbpedia.org/resource/Cape_Verdean-American http://dbpedia.org/resource/Cape_Verdean_immigration_history_in_the_United_States http://dbpedia.org/resource/Cape_Verdean_Americans
+0,4,Ethiopian,http://dbpedia.org/resource/Ethiopia,http://dbpedia.org/resource/Ethiopian-American http://dbpedia.org/resource/Ethiopian_Americans http://dbpedia.org/resource/Ethiopian_American http://dbpedia.org/resource/Abyssinian_American http://dbpedia.org/resource/Ethiopian_Americans_in_Minnesota
+0,5,Ghanaian,http://dbpedia.org/resource/Ghana,http://dbpedia.org/resource/Ghanaian_Americans http://dbpedia.org/resource/List_of_Ghanaian_Americans http://dbpedia.org/resource/Ghanaian-American http://dbpedia.org/resource/Ghanian_Americans http://dbpedia.org/resource/Ghanaian_American http://dbpedia.org/resource/Ghanaian-Americans
+0,6,South African,http://dbpedia.org/resource/South_Africa,http://dbpedia.org/resource/South_African_Americans http://dbpedia.org/resource/South_African-American http://dbpedia.org/resource/Boer_American http://dbpedia.org/resource/List_of_South_African_Americans http://dbpedia.org/resource/South_African_American http://dbpedia.org/resource/Afrikaner_American http://dbpedia.org/resource/Afrikaner_Americans
+0,7,Moroccan,http://dbpedia.org/resource/Morocco,http://dbpedia.org/resource/List_of_Moroccan_Americans http://dbpedia.org/resource/Moroccan_American http://dbpedia.org/resource/Moroccan_Americans http://dbpedia.org/resource/Moroccan-American
+0,8,Somali,http://dbpedia.org/resource/Somalia,http://dbpedia.org/resource/Somalian_American http://dbpedia.org/resource/Somali_American http://dbpedia.org/resource/Somali-American http://dbpedia.org/resource/Somali_Americans http://dbpedia.org/resource/List_of_Somalian_Americans
+0,9,Eritrean,http://dbpedia.org/resource/Eritrea,http://dbpedia.org/resource/Eritrean_Americans http://dbpedia.org/resource/List_of_Eritrean_Americans http://dbpedia.org/resource/Eritrean_American
+0,10,Kenyan,http://dbpedia.org/resource/Kenya,http://dbpedia.org/resource/Kenyan_diaspora_in_the_United_States http://dbpedia.org/resource/List_of_Kenyan_Americans http://dbpedia.org/resource/Kenyan_Americans http://dbpedia.org/resource/Kenyan-American http://dbpedia.org/resource/Kenyan_American
+0,11,Sudanese,http://dbpedia.org/resource/Sudan,http://dbpedia.org/resource/List_of_Sudanese_Americans http://dbpedia.org/resource/Sudanese-American http://dbpedia.org/resource/Sudanese_American http://dbpedia.org/resource/Sudanese_Americans
+0,12,Sierra Leonean,http://dbpedia.org/resource/Sierra_Leone,http://dbpedia.org/resource/Sierra_Leonean_Americans http://dbpedia.org/resource/Sierra_Leonean_American
+0,13,Algerian,http://dbpedia.org/resource/Algeria,http://dbpedia.org/resource/Algerian_American http://dbpedia.org/resource/Algerian_Americans
+0,14,Cameroonian,http://dbpedia.org/resource/France,http://dbpedia.org/resource/Cameroonian_Americans http://dbpedia.org/resource/Cameroonian_American
+0,15,Senegalese,http://dbpedia.org/resource/Senegal,http://dbpedia.org/resource/Senegalese_Americans http://dbpedia.org/resource/Senegalese-American http://dbpedia.org/resource/Senegalese_American
+0,16,Congolese,http://dbpedia.org/resource/Democratic_Republic_of_the_Congo,http://dbpedia.org/resource/Congolese_Americans http://dbpedia.org/resource/Congolese_American http://dbpedia.org/resource/List_of_Congolese_Americans
+0,17,Tunisian,http://dbpedia.org/resource/Tunisia,http://dbpedia.org/resource/Tunisian_Americans http://dbpedia.org/resource/Tunisian_American
+0,18,Ugandan,http://dbpedia.org/resource/Democratic_Republic_of_the_Congo,http://dbpedia.org/resource/Ugandan_American http://dbpedia.org/resource/Ugandan_Americans
+0,19,Zimbabwean,http://dbpedia.org/resource/Zimbabwe,http://dbpedia.org/resource/Zimbabwean_American http://dbpedia.org/resource/Rhodesian_American http://dbpedia.org/resource/Zimbabwean_Americans
+0,20,Ivorian,http://dbpedia.org/resource/Ivory_Coast,http://dbpedia.org/resource/Ivorian_Americans http://dbpedia.org/resource/Ivorian_American
+0,21,Gambian,http://dbpedia.org/resource/The_Gambia,http://dbpedia.org/resource/Gambian_American http://dbpedia.org/resource/Gambian_Americans
+0,22,Guinea,http://dbpedia.org/resource/Papua_New_Guinea,http://dbpedia.org/resource/Guinean_American http://dbpedia.org/resource/Guinean_Americans
+0,23,Libyan,http://dbpedia.org/resource/Libya,http://dbpedia.org/resource/Libyan_Americans http://dbpedia.org/resource/Libyan_American
+0,24,Tanzanian,http://dbpedia.org/resource/Tanzania,http://dbpedia.org/resource/Tanzanian_Americans http://dbpedia.org/resource/Tanzanian_American
+0,25,Malian,http://dbpedia.org/resource/Mali,http://dbpedia.org/resource/Malian_American http://dbpedia.org/resource/Malian_Americans
+0,26,Togolese,http://dbpedia.org/resource/Togo,http://dbpedia.org/resource/Togolese_Americans http://dbpedia.org/resource/Togolese_American
+0,27,Angolan,http://dbpedia.org/resource/Angola,http://dbpedia.org/resource/Angolan_Americans http://dbpedia.org/resource/List_of_Angolan_Americans http://dbpedia.org/resource/Angolan_American

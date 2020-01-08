@@ -1,0 +1,27 @@
+F1: 0.48980,Precision: 0.48980,Recall: 0.48980,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,John Williams,http://dbpedia.org/resource/John_Williams,http://dbpedia.org/resource/John_Williams_(Manitoba_politician)
+1,3,James H. Howden,http://dbpedia.org/resource/James_H._Godman,http://dbpedia.org/resource/James_Henry_Howden http://dbpedia.org/resource/James_H._Howden
+1,6,Thomas B. Molloy,http://dbpedia.org/resource/W._Thomas_Molloy,http://dbpedia.org/resource/Thomas_B._Molloy
+1,7,George R. Ray,http://dbpedia.org/resource/George_W._Ray,http://dbpedia.org/resource/George_R._Ray
+1,8,George Steel,http://dbpedia.org/resource/George_A._Steel,http://dbpedia.org/resource/George_Steel_(Manitoba_politician)
+1,9,William Buchanan,http://dbpedia.org/resource/William_Ashbury_Buchanan,http://dbpedia.org/resource/William_Buchanan
+1,14,Samuel Hughes,http://dbpedia.org/resource/Sam_Hughes,http://dbpedia.org/resource/Samuel_Hughes_(Manitoba_politician) http://dbpedia.org/resource/Sam_Hughes_(Manitoba_politician)
+1,15,Sveinn Thorvaldson,http://dbpedia.org/resource/Sveinn_Björnsson,http://dbpedia.org/resource/Sveinn_Thorvaldson
+1,16,James William Armstrong,http://dbpedia.org/resource/William_Armstrong_(footballer),http://dbpedia.org/resource/James_W._Armstrong http://dbpedia.org/resource/James_William_Armstrong http://dbpedia.org/resource/James_Armstrong_(Manitoba_politician)
+1,19,John Henry McConnell,http://dbpedia.org/resource/Mitch_McConnell,http://dbpedia.org/resource/John_Henry_McConnell
+1,23,John J. Garland,http://dbpedia.org/resource/Jack_Garland_(Canadian_politician),http://dbpedia.org/resource/John_J._Garland
+1,29,Jacques Parent,http://dbpedia.org/resource/Jacques_Rueff,http://dbpedia.org/resource/Jacques_Parent_(politician)
+1,31,John Graham,http://dbpedia.org/resource/John_Graham_(diplomat),http://dbpedia.org/resource/John_Graham_(Manitoba_politician)
+1,36,Joseph Bernier,http://fr.dbpedia.org/resource/Joseph_Bernier,http://dbpedia.org/resource/Joseph_Bernier
+1,37,Donald A. Ross,http://dbpedia.org/resource/Donald_Roe_Ross,http://dbpedia.org/resource/Donald_Ross_(Manitoba_politician) http://dbpedia.org/resource/Donald_A._Ross
+1,38,Edmund L. Taylor,http://dbpedia.org/resource/Edmund_Dick_Taylor,http://dbpedia.org/resource/Edmund_L._Taylor
+1,39,Joseph Hamelin,http://fr.dbpedia.org/resource/Jean_Hamelin_(homme_politique),http://dbpedia.org/resource/Joseph_Hamelin
+1,40,William Henry Sims,http://dbpedia.org/resource/William_Henry_Moore,http://dbpedia.org/resource/W.H._Sims http://dbpedia.org/resource/William_H._Sims http://dbpedia.org/resource/William_Henry_Sims http://dbpedia.org/resource/William_Sims_(Manitoba_politician)
+1,41,Robert Orok,"http://dbpedia.org/resource/Robert_Roberts_(footballer,_born_1864)",http://dbpedia.org/resource/Robert_Orok http://dbpedia.org/resource/Robert_Dick_Orok
+1,42,James Johnson,http://dbpedia.org/resource/James_Johnson_(Kentucky),http://dbpedia.org/resource/James_Johnson_(Manitoba_politician)
+1,44,Thomas Herman Johnson,http://dbpedia.org/resource/Thomas_Johnson_(Irish_politician),http://dbpedia.org/resource/Thomas_Johnson_(Manitoba_politician) http://dbpedia.org/resource/Thomas_Herman_Johnson
+1,45,F. J. Dixon,http://dbpedia.org/resource/Alan_J._Dixon,http://dbpedia.org/resource/F._J._Dixon http://dbpedia.org/resource/Frederick_J._Dixon http://dbpedia.org/resource/Fred_Dixon_(politician)
+1,46,Joseph P. Foley,http://dbpedia.org/resource/Joseph_Foley,http://dbpedia.org/resource/Joseph_P._Foley http://dbpedia.org/resource/Joseph_Patrick_Foley
+1,47,Daniel McLean,http://dbpedia.org/resource/Daniel_McLean_(sheriff),http://dbpedia.org/resource/Daniel_McLean_(Canadian_politician)
+1,49,William Parrish,,http://dbpedia.org/resource/William_L._Parrish http://dbpedia.org/resource/William_Parrish

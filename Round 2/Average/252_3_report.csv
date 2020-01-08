@@ -1,0 +1,88 @@
+F1: 0.51955,Precision: 0.51955,Recall: 0.51955,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,2,D. Bell,http://dbpedia.org/resource/Drake_Bell,http://dbpedia.org/resource/David_Bell_(composer)
+3,3,Make You Feel My Love,http://dbpedia.org/resource/Do_You_Feel_My_Love,http://dbpedia.org/resource/To_Make_You_Feel_My_Love http://dbpedia.org/resource/Make_You_Feel_My_Love
+3,4,D. McCarthy,http://dbpedia.org/resource/Kevin_McCarthy_(actor),http://dbpedia.org/resource/Dennis_McCarthy_(composer)
+3,5,D. McCarthy,http://dbpedia.org/resource/Kevin_McCarthy_(actor),http://dbpedia.org/resource/Dennis_McCarthy_(composer)
+3,8,L. Goodbye,http://dbpedia.org/resource/Goodbye_Lullaby,http://dbpedia.org/resource/Last_Goodbye_(Jeff_Buckley_song)
+3,10,L. a. Virgin,http://dbpedia.org/resource/United_States_Virgin_Islands,http://dbpedia.org/resource/Like_A_Virgin_(single) http://dbpedia.org/resource/Like_a_Virgin_(Madonna_song) http://dbpedia.org/resource/Like_a_Virgin_(song) http://dbpedia.org/resource/Like_A_Virgin_(song)
+3,11,D. Porter,http://dbpedia.org/resource/Mr._Porter,http://dbpedia.org/resource/Dave_Porter_(composer)
+3,13,T. D. Comedy,http://dbpedia.org/resource/Stand_Up_Comedy_(song),http://dbpedia.org/resource/Divine_Comedy_(band) http://dbpedia.org/resource/The_Divine_Comedy_(band)
+3,14,Vienna,http://dbpedia.org/resource/Vienna,http://dbpedia.org/resource/Vienna_(Billy_Joel_song)
+3,15,N. Sinatra,http://dbpedia.org/resource/Frank_Sinatra,"http://dbpedia.org/resource/Nancy_Sinatra http://dbpedia.org/resource/Country,_My_Way http://dbpedia.org/resource/How_Does_It_Feel_(album) http://dbpedia.org/resource/For_My_Dad http://dbpedia.org/resource/Nancy_sinatra http://dbpedia.org/resource/Nancy_S._Sinatra,_Junior"
+3,18,T. D. Comedy,http://dbpedia.org/resource/Stand_Up_Comedy_(song),http://dbpedia.org/resource/Divine_Comedy_(band) http://dbpedia.org/resource/The_Divine_Comedy_(band)
+3,20,D. McCarthy,http://dbpedia.org/resource/Kevin_McCarthy_(actor),http://dbpedia.org/resource/Dennis_McCarthy_(composer)
+3,22,G. Fried,http://dbpedia.org/resource/Germain_Fried,http://dbpedia.org/resource/Gerald_Fried
+3,28,L. Johnson,http://dbpedia.org/resource/Lyndon_B._Johnson,http://dbpedia.org/resource/Laurie_Johnson
+3,30,Once,http://dbpedia.org/resource/Once_(Nightwish_album),http://dbpedia.org/resource/Once_(musical) http://dbpedia.org/resource/Abandoned_in_Bandon http://dbpedia.org/resource/Once_Musical
+3,32,D. McCarthy,http://dbpedia.org/resource/Kevin_McCarthy_(actor),http://dbpedia.org/resource/Dennis_McCarthy_(composer)
+3,34,R. Jones,http://dbpedia.org/resource/Donell_Jones,http://dbpedia.org/resource/Ron_Jones_(composer)
+3,38,P. Baillargeon,http://dbpedia.org/resource/Charles-François_Baillargeon,http://dbpedia.org/resource/Paul_Baillargeon
+3,43,L. Johnson,http://dbpedia.org/resource/Lyndon_B._Johnson,http://dbpedia.org/resource/Laurie_Johnson
+3,47,D. McCarthy,http://dbpedia.org/resource/Kevin_McCarthy_(actor),http://dbpedia.org/resource/Dennis_McCarthy_(composer)
+3,48,W. Y. Need,http://dbpedia.org/resource/You're_All_I_Need,http://dbpedia.org/resource/What_You_Need_(The_Twilight_Zone)
+3,49,D. McCarthy,http://dbpedia.org/resource/Kevin_McCarthy_(actor),http://dbpedia.org/resource/Dennis_McCarthy_(composer)
+3,52,D. McCarthy,http://dbpedia.org/resource/Kevin_McCarthy_(actor),http://dbpedia.org/resource/Dennis_McCarthy_(composer)
+3,53,J. Esposito,http://dbpedia.org/resource/Pasquale_Esposito,"http://dbpedia.org/resource/Joe_Bean_Esposito http://dbpedia.org/resource/Joe_Esposito_(singer) http://dbpedia.org/resource/Joe_""Bean""_Esposito"
+3,54,M. Serenade,http://dbpedia.org/resource/Serenade_(Neil_Diamond_album),http://dbpedia.org/resource/Moonlight_Serenade http://dbpedia.org/resource/Setouchi_munraito_serenade http://dbpedia.org/resource/Moonlight_Serenade_(song)
+3,56,L. Johnson,http://dbpedia.org/resource/Lyndon_B._Johnson,http://dbpedia.org/resource/Laurie_Johnson
+3,60,T. Morgan,http://dbpedia.org/resource/Thomas_Hunt_Morgan,http://dbpedia.org/resource/Tommy_Morgan_(musician) http://dbpedia.org/resource/Tommy_Morgan
+3,61,E. Journey,http://dbpedia.org/resource/Journey_(band),http://dbpedia.org/resource/Embryonic_journey_(song) http://dbpedia.org/resource/Embryonic_Journey_(instrumental)
+3,62,T. Lonely,http://dbpedia.org/resource/Woodrow_Wilson,http://dbpedia.org/resource/The_Lonely_(TV_show) http://dbpedia.org/resource/The_Lonely_(The_Twilight_Zone) http://dbpedia.org/resource/The_Twilight_Zone/The_Lonely
+3,64,D. Bell,http://dbpedia.org/resource/Drake_Bell,http://dbpedia.org/resource/David_Bell_(composer)
+3,66,D. McCarthy,http://dbpedia.org/resource/Kevin_McCarthy_(actor),http://dbpedia.org/resource/Dennis_McCarthy_(composer)
+3,71,R. Jones,http://dbpedia.org/resource/Donell_Jones,http://dbpedia.org/resource/Ron_Jones_(composer)
+3,73,P. Band,http://dbpedia.org/resource/Hed_PE,http://dbpedia.org/resource/Pousette_Dart_Band http://dbpedia.org/resource/Pousette-Dart_Band http://dbpedia.org/resource/Fall_on_Me_(Pousette-Dart_Band_Song)
+3,74,D. McCarthy,http://dbpedia.org/resource/Kevin_McCarthy_(actor),http://dbpedia.org/resource/Dennis_McCarthy_(composer)
+3,77,R. Bellis,http://dbpedia.org/resource/Paolo_Belli,http://dbpedia.org/resource/Richard_bellis http://dbpedia.org/resource/Richard_Bellis
+3,79,L. Johnson,http://dbpedia.org/resource/Lyndon_B._Johnson,http://dbpedia.org/resource/Laurie_Johnson
+3,80,D. McCarthy,http://dbpedia.org/resource/Kevin_McCarthy_(actor),http://dbpedia.org/resource/Dennis_McCarthy_(composer)
+3,81,R. Jones,http://dbpedia.org/resource/Donell_Jones,http://dbpedia.org/resource/Ron_Jones_(composer)
+3,82,L. Johnson,http://dbpedia.org/resource/Lyndon_B._Johnson,http://dbpedia.org/resource/Laurie_Johnson
+3,83,J. Russo,http://dbpedia.org/resource/Giuni_Russo,http://dbpedia.org/resource/Jeff_Russo
+3,86,L. Johnson,http://dbpedia.org/resource/Lyndon_B._Johnson,http://dbpedia.org/resource/Laurie_Johnson
+3,87,L. Johnson,http://dbpedia.org/resource/Lyndon_B._Johnson,http://dbpedia.org/resource/Laurie_Johnson
+3,88,L. Johnson,http://dbpedia.org/resource/Lyndon_B._Johnson,http://dbpedia.org/resource/Laurie_Johnson
+3,89,L. Johnson,http://dbpedia.org/resource/Lyndon_B._Johnson,http://dbpedia.org/resource/Laurie_Johnson
+3,90,L. Johnson,http://dbpedia.org/resource/Lyndon_B._Johnson,http://dbpedia.org/resource/Laurie_Johnson
+3,91,D. McCarthy,http://dbpedia.org/resource/Kevin_McCarthy_(actor),http://dbpedia.org/resource/Dennis_McCarthy_(composer)
+3,96,D. McCarthy,http://dbpedia.org/resource/Kevin_McCarthy_(actor),http://dbpedia.org/resource/Dennis_McCarthy_(composer)
+3,97,P. Baillargeon,http://dbpedia.org/resource/Charles-François_Baillargeon,http://dbpedia.org/resource/Paul_Baillargeon
+3,98,J. Frizzell,http://dbpedia.org/resource/Lefty_Frizzell,http://dbpedia.org/resource/John_Frizzell_(composer) http://dbpedia.org/resource/John_Frizzel
+3,102,L. Johnson,http://dbpedia.org/resource/Lyndon_B._Johnson,http://dbpedia.org/resource/Laurie_Johnson
+3,104,Would I Lie to You?,http://dbpedia.org/resource/Come_an'_Get_It,http://dbpedia.org/resource/Would_I_Lie_to_You?_(Eurythmics_song)
+3,106,D. McCarthy,http://dbpedia.org/resource/Kevin_McCarthy_(actor),http://dbpedia.org/resource/Dennis_McCarthy_(composer)
+3,108,D. McCarthy,http://dbpedia.org/resource/Kevin_McCarthy_(actor),http://dbpedia.org/resource/Dennis_McCarthy_(composer)
+3,110,D. McCarthy,http://dbpedia.org/resource/Kevin_McCarthy_(actor),http://dbpedia.org/resource/Dennis_McCarthy_(composer)
+3,111,B. Lines,http://dbpedia.org/resource/Sue_Lines,http://dbpedia.org/resource/Defined_Lines http://dbpedia.org/resource/Blurred_Lines_lawsuit http://dbpedia.org/resource/Blurred_Lines_(song) http://dbpedia.org/resource/Blurred_Lines http://dbpedia.org/resource/Jessi_M'Bengue http://dbpedia.org/resource/Robin_Thicke_and_Miley_Cyrus_twerked_in_MTV_Video_Music_Awards
+3,112,D. McCarthy,http://dbpedia.org/resource/Kevin_McCarthy_(actor),http://dbpedia.org/resource/Dennis_McCarthy_(composer)
+3,114,R. Jones,http://dbpedia.org/resource/Donell_Jones,http://dbpedia.org/resource/Ron_Jones_(composer)
+3,116,R. Jones,http://dbpedia.org/resource/Donell_Jones,http://dbpedia.org/resource/Ron_Jones_(composer)
+3,118,T. Wiz,http://dbpedia.org/resource/Wiz_Khalifa,http://dbpedia.org/resource/The_Wiz http://dbpedia.org/resource/The_Wiz_(2009)
+3,119,H. W. Song,http://dbpedia.org/resource/Iceland,http://dbpedia.org/resource/The_Hawaiian_Wedding_Song http://dbpedia.org/resource/Hawaiian_Wedding_Song
+3,122,D. Bell,http://dbpedia.org/resource/Drake_Bell,http://dbpedia.org/resource/David_Bell_(composer)
+3,123,D. McCarthy,http://dbpedia.org/resource/Kevin_McCarthy_(actor),http://dbpedia.org/resource/Dennis_McCarthy_(composer)
+3,124,D. McCarthy,http://dbpedia.org/resource/Kevin_McCarthy_(actor),http://dbpedia.org/resource/Dennis_McCarthy_(composer)
+3,128,D. McCarthy,http://dbpedia.org/resource/Kevin_McCarthy_(actor),http://dbpedia.org/resource/Dennis_McCarthy_(composer)
+3,130,L. Johnson,http://dbpedia.org/resource/Lyndon_B._Johnson,http://dbpedia.org/resource/Laurie_Johnson
+3,132,K. Sheridan,http://dbpedia.org/resource/Kirsten_Sheridan,http://dbpedia.org/resource/Kelly_Sheridan
+3,133,P. Baillargeon,http://dbpedia.org/resource/Charles-François_Baillargeon,http://dbpedia.org/resource/Paul_Baillargeon
+3,134,Dance to the Music,http://dbpedia.org/resource/United_States,http://dbpedia.org/resource/Dance_to_the_Music_(song) http://dbpedia.org/resource/Dance_To_The_Music_(song)
+3,136,B. Lee,http://dbpedia.org/resource/Bruce_Lee,http://dbpedia.org/resource/Brenda_Mae_Tarpley http://dbpedia.org/resource/Brenda_Lee_Tarpley http://dbpedia.org/resource/Brenda_Lee http://dbpedia.org/resource/By_Request_(Brenda_Lee_album) http://dbpedia.org/resource/Brenda_Tarpley http://dbpedia.org/resource/I_Wonder_(Brenda_Lee_song)
+3,138,L. Johnson,http://dbpedia.org/resource/Lyndon_B._Johnson,http://dbpedia.org/resource/Laurie_Johnson
+3,140,D. McCarthy,http://dbpedia.org/resource/Kevin_McCarthy_(actor),http://dbpedia.org/resource/Dennis_McCarthy_(composer)
+3,149,D. McCarthy,http://dbpedia.org/resource/Kevin_McCarthy_(actor),http://dbpedia.org/resource/Dennis_McCarthy_(composer)
+3,152,D. McCarthy,http://dbpedia.org/resource/Kevin_McCarthy_(actor),http://dbpedia.org/resource/Dennis_McCarthy_(composer)
+3,154,L. Johnson,http://dbpedia.org/resource/Lyndon_B._Johnson,http://dbpedia.org/resource/Laurie_Johnson
+3,158,C. Me,http://dbpedia.org/resource/Rock_Me_(Melanie_C_song),http://dbpedia.org/resource/Call_Me_(Blondie_song) http://dbpedia.org/resource/Code_Three http://dbpedia.org/resource/Call_Me_(In_This_Moment_song)
+3,160,T. Scientist,http://dbpedia.org/resource/Scientist_(musician),http://dbpedia.org/resource/Coldplay_the_scientist http://dbpedia.org/resource/The_Scientist_(song) http://dbpedia.org/resource/The_Scientist_(single)
+3,162,D. McCarthy,http://dbpedia.org/resource/Kevin_McCarthy_(actor),http://dbpedia.org/resource/Dennis_McCarthy_(composer)
+3,163,B. Baker,http://dbpedia.org/resource/Belle_Baker,http://dbpedia.org/resource/Buddy_Baker_(composer)
+3,166,It Never Rains in Southern California,http://dbpedia.org/resource/It_Never_Rains_(In_Southern_California),http://dbpedia.org/resource/It_never_rains_in_southern_california http://dbpedia.org/resource/It_Never_Rains_in_Southern_California
+3,167,L. Johnson,http://dbpedia.org/resource/Lyndon_B._Johnson,http://dbpedia.org/resource/Laurie_Johnson
+3,168,D. McCarthy,http://dbpedia.org/resource/Kevin_McCarthy_(actor),http://dbpedia.org/resource/Dennis_McCarthy_(composer)
+3,169,R. Jones,http://dbpedia.org/resource/Donell_Jones,http://dbpedia.org/resource/Ron_Jones_(composer)
+3,172,J. Richmond,http://dbpedia.org/resource/June_Richmond,http://dbpedia.org/resource/Jeff_Richmond
+3,174,R. Jones,http://dbpedia.org/resource/Donell_Jones,http://dbpedia.org/resource/Ron_Jones_(composer)
+3,176,J. Richmond,http://dbpedia.org/resource/June_Richmond,http://dbpedia.org/resource/Jeff_Richmond
+3,177,Piece of My Heart,http://dbpedia.org/resource/Piece_of_My_Heart_(Tara_Kemp_song),http://dbpedia.org/resource/Piece_of_my_heart http://dbpedia.org/resource/Piece_of_My_Heart http://dbpedia.org/resource/Piece_of_My_Heart_(song) http://dbpedia.org/resource/Another_Piece_of_My_Heart http://dbpedia.org/resource/Piece_Of_My_Heart http://dbpedia.org/resource/Piece_of_my_Heart http://dbpedia.org/resource/Take_Another_Piece_of_My_Heart http://dbpedia.org/resource/Piece_of_My_Heart_(Erma_Franklin_song)

@@ -1,0 +1,5 @@
+"F1: 0.88462","Precision: 0.88462","Recall: 0.88462"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","3","J Chapman","http://dbpedia.org/resource/Jack_Chapman","http://dbpedia.org/resource/John_Chapman_(cricketer)"
+"0","12","G Grainger","http://dbpedia.org/resource/Gary_Grainger_(footballer)","http://dbpedia.org/resource/George_Grainger"
+"0","23","KA Woodward","http://dbpedia.org/resource/Dai_Woodward","http://dbpedia.org/resource/Kenneth_Woodward"

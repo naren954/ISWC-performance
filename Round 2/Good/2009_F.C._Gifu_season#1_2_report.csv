@@ -1,0 +1,5 @@
+F1: 0.88889,Precision: 0.88889,Recall: 0.88889,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,13,Satoshi Å\u008Ctomo,http://dbpedia.org/resource/Girugamesh,http://dbpedia.org/resource/Satoshi_Ōtomo
+2,14,ShÅ\u008Dgo Shimada,http://dbpedia.org/resource/Shusuke_Shimada,http://dbpedia.org/resource/Shōgo_Shimada_(footballer)
+2,18,KÅ\u008Dichi SatÅ\u008D,http://dbpedia.org/resource/Ka_(pharaoh),http://dbpedia.org/resource/Kōichi_Satō_(footballer)

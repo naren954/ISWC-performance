@@ -1,0 +1,5 @@
+F1: 0.96667,Precision: 0.96667,Recall: 0.96667,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,13,Roberto,http://dbpedia.org/resource/Roberto_Marinho,http://dbpedia.org/resource/Roberto http://dbpedia.org/resource/Roope http://dbpedia.org/resource/Robt http://dbpedia.org/resource/List_of_famous_Roberts http://dbpedia.org/resource/Robt. http://dbpedia.org/resource/Robert_(name) http://dbpedia.org/resource/Robbert http://dbpedia.org/resource/Robert
+2,19,Challenger,http://dbpedia.org/resource/Okeem_Challenger,http://dbpedia.org/resource/Challenger_(horse)
+2,20,The Baron,"http://dbpedia.org/resource/John_Knatchbull,_7th_Baron_Brabourne",http://dbpedia.org/resource/The_Baron_(horse)

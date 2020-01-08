@@ -1,0 +1,11 @@
+F1: 0.47059,Precision: 0.47059,Recall: 0.47059,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,WRAL-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/Wral_tv http://dbpedia.org/resource/WRAL-TV http://dbpedia.org/resource/WRAL_HDTV_Mast http://dbpedia.org/resource/Wral.com http://dbpedia.org/resource/WRAL-HD
+0,4,WPTV-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WPTV http://dbpedia.org/resource/WPTV-TV http://dbpedia.org/resource/WPTV_(TV) http://dbpedia.org/resource/Scripps_Television_West_Palm_Beach
+0,7,WJAC-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WJAC-TV http://dbpedia.org/resource/W42DG-D http://dbpedia.org/resource/W54BG http://dbpedia.org/resource/W29DH-D http://dbpedia.org/resource/NBC_Johnstown http://dbpedia.org/resource/WJAC_6 http://dbpedia.org/resource/NBC_Altoona
+0,9,WFOR-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WFOR-TV http://dbpedia.org/resource/CBS_Miami http://dbpedia.org/resource/CBS_South_Florida http://dbpedia.org/resource/WFOR-DT
+0,10,WFLA-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WFLA-TV http://dbpedia.org/resource/NBC_St._Petersburg http://dbpedia.org/resource/NBC_Tampa http://dbpedia.org/resource/NBC_St_Petersburg http://dbpedia.org/resource/Daytime_(US_TV_series) http://dbpedia.org/resource/NBC_Tampa_Bay http://dbpedia.org/resource/NBC_Saint_Petersburg http://dbpedia.org/resource/WFLA-DT
+0,12,KPRC-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/NBC_Houston http://dbpedia.org/resource/News_Personalities_of_KPRC-TV http://dbpedia.org/resource/KLEE-TV http://dbpedia.org/resource/KPRC-TV http://dbpedia.org/resource/On-air_staff_of_KPRC-TV http://dbpedia.org/resource/Radar_The_Weather_Dog
+0,15,KMBC-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/KMBC.com http://dbpedia.org/resource/WHB-TV http://dbpedia.org/resource/Hearst_Television_Kansas_City http://dbpedia.org/resource/ABC_Kansas_City http://dbpedia.org/resource/KMBC-TV
+0,16,KETK-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/KETK-TV http://dbpedia.org/resource/Myeasttex.com
+0,17,DZOE-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/Q-11 http://dbpedia.org/resource/DZOE-TV http://dbpedia.org/resource/QTV-11 http://dbpedia.org/resource/ZOE_TV-11 http://dbpedia.org/resource/GMA_News_TV-11

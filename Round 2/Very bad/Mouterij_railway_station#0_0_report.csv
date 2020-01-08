@@ -1,0 +1,4 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Brussels-Luxembourg toward Mechelen,http://dbpedia.org/resource/Western_Front_(World_War_II),http://dbpedia.org/resource/Brussels-Luxembourg_railway_station http://dbpedia.org/resource/Brussels-Luxembourg_Station http://dbpedia.org/resource/Brussels-Luxembourg_station http://dbpedia.org/resource/Gare_du_Quartier_Léopold
+0,2,Brussels-Luxembourg toward Leuven,http://dbpedia.org/resource/Western_Front_(World_War_II),http://dbpedia.org/resource/Brussels-Luxembourg_railway_station http://dbpedia.org/resource/Brussels-Luxembourg_Station http://dbpedia.org/resource/Brussels-Luxembourg_station http://dbpedia.org/resource/Gare_du_Quartier_Léopold

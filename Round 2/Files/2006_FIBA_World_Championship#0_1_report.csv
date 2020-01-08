@@ -1,0 +1,4 @@
+"F1: 0.33333","Precision: 0.33333","Recall: 0.33333"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","0","Hamamatsu Hiroshima Saitama Sapporo Sendai","http://dbpedia.org/resource/NHK","http://dbpedia.org/resource/Hammamatsu http://dbpedia.org/resource/濱松 http://dbpedia.org/resource/History_of_Hamamatsu http://dbpedia.org/resource/浜松 http://dbpedia.org/resource/Hamamatsu,_Japan http://dbpedia.org/resource/滨松 http://dbpedia.org/resource/Hamamatsu_City http://dbpedia.org/resource/Hamamatsu,_Shizuoka http://dbpedia.org/resource/Hamamatsu"
+"1","3","Saitama","http://dbpedia.org/resource/Television_Saitama","http://dbpedia.org/resource/Saitama_City http://dbpedia.org/resource/埼玉 http://dbpedia.org/resource/Saitama_(city) http://dbpedia.org/resource/Saitama,_Saitama http://dbpedia.org/resource/History_of_Saitama,_Saitama http://dbpedia.org/resource/Saitama,_Japan http://dbpedia.org/resource/さいたま"

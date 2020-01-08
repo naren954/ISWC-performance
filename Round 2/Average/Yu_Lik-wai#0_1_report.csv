@@ -1,0 +1,9 @@
+F1: 0.56250,Precision: 0.56250,Recall: 0.56250,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,2,Ordinary Heroes,http://dbpedia.org/resource/Un_eroe_borghese,http://dbpedia.org/resource/Ordinary_Heroes http://dbpedia.org/resource/Ordinary_Heroes_(disambiguation) http://dbpedia.org/resource/Ordinary_Heroes_(film)
+1,3,Platform,http://dbpedia.org/resource/Steam_(software),http://dbpedia.org/resource/Platform_(2000_film) http://dbpedia.org/resource/Zhantai
+1,4,In Public,http://fr.dbpedia.org/resource/En_public_(album_de_Bijou),http://dbpedia.org/resource/Gong_gong_chang_suo http://dbpedia.org/resource/In_Public_(film)
+1,6,The World,,http://dbpedia.org/resource/The_World_(film) http://dbpedia.org/resource/The_world_(film)
+1,7,Still Life,http://dbpedia.org/resource/Still_Life_(US_band),http://dbpedia.org/resource/Sanxia_haoren http://dbpedia.org/resource/Still_Life_(2006_film)
+1,8,Dong,http://dbpedia.org/resource/TVXQ,http://dbpedia.org/resource/Dong_(film)
+1,10,Getting Home,http://dbpedia.org/resource/Wait_till_Your_Mother_Gets_Home!,http://dbpedia.org/resource/Luo_ye_gui_gen http://dbpedia.org/resource/Getting_Home

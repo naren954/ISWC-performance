@@ -1,0 +1,26 @@
+F1: 0.80488,Precision: 0.80488,Recall: 0.80488,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,M. Stoops,http://dbpedia.org/resource/Mike_Stoops,http://dbpedia.org/resource/Mark_Stoops
+0,2,M. Schmidt,http://dbpedia.org/resource/Mike_Schmidt,http://dbpedia.org/resource/Mark_Schmidt
+0,14,M. Joseph,http://dbpedia.org/resource/Maurice_Joseph,http://dbpedia.org/resource/MaChelle_Joseph
+0,16,L. Smith,http://dbpedia.org/resource/Larry_Smith_(basketball),http://dbpedia.org/resource/Lovie_Smith
+0,27,L. Owens,http://dbpedia.org/resource/Larry_Owens,http://dbpedia.org/resource/Lee_Owens
+0,30,L. Scott,http://dbpedia.org/resource/Larry_Scott_(American_football),http://dbpedia.org/resource/Latrell_Scott
+0,31,L. Tidwell,http://dbpedia.org/resource/Travis_Tidwell,http://dbpedia.org/resource/Larry_Tidwell
+0,39,K. Smith,http://dbpedia.org/resource/Kolby_Smith,http://dbpedia.org/resource/Kyle_Smith_(basketball) http://dbpedia.org/resource/Kyle_Smith_(Basketball)
+0,47,K. Wilson,http://dbpedia.org/resource/Kyle_Wilson_(American_football),http://dbpedia.org/resource/Kevin_R._Wilson http://dbpedia.org/resource/Kevin_Wilson_(American_football)
+0,69,J. Collins,http://dbpedia.org/resource/Jimmy_Collins_(basketball),http://dbpedia.org/resource/Jory_Collins
+0,71,J. Williams,http://dbpedia.org/resource/Justin_Williams_(basketball),http://dbpedia.org/resource/Joi_Williams http://dbpedia.org/resource/Joi_Williams_Felton
+0,72,J. Jones,http://dbpedia.org/resource/Joe_Jones_(basketball),"http://dbpedia.org/resource/Johnny_Jones_(basketball,_born_1961) http://dbpedia.org/resource/Johnny_Jones_(coach) http://dbpedia.org/resource/Johnny_Jones(coach) http://dbpedia.org/resource/Johnny_Jones_(basketball_coach)"
+0,74,J. Tillman,http://dbpedia.org/resource/Pete_Tillman,http://dbpedia.org/resource/John_Tillman_(lacrosse)
+0,76,J. T. III,http://dbpedia.org/resource/Joe_Tereshinski_III,"http://dbpedia.org/resource/John_Thompson,_III http://dbpedia.org/resource/John_Thompson_III"
+0,83,J. Delaney,http://dbpedia.org/resource/Jerry_Delaney,http://dbpedia.org/resource/John_Delaney_(baseball)
+0,85,J. Becker,"http://ru.dbpedia.org/resource/Беккер,_Ян",http://dbpedia.org/resource/John_Becker_(basketball_coach) http://dbpedia.org/resource/John_Becker_(basketball)
+0,87,J. Jones,http://dbpedia.org/resource/Joe_Jones_(basketball),http://dbpedia.org/resource/Joey_Jones_(American_football)
+0,95,J. Dooley,http://dbpedia.org/resource/Vince_Dooley,http://dbpedia.org/resource/Joe_Dooley_(basketball_coach) http://dbpedia.org/resource/Joe_Dooley_(basketball)
+0,98,J. Adams,http://dbpedia.org/resource/Jamie_Adams,"http://dbpedia.org/resource/Adams,_Jody http://dbpedia.org/resource/Jody_Adams"
+0,105,J. Morris,http://dbpedia.org/resource/Jack_Morris,http://dbpedia.org/resource/Jim_Morris_(baseball_coach)
+0,111,J. Fox,http://dbpedia.org/resource/Jason_Fox,"http://dbpedia.org/resource/Jim_Fox_(basketball_coach) http://dbpedia.org/resource/Jim_Fox_(basketball,_born_1973)"
+0,112,J. Foster,http://dbpedia.org/resource/Je'Kel_Foster,http://dbpedia.org/resource/Jim_Foster_(basketball)
+0,113,J. Fleming,http://dbpedia.org/resource/John_Fleming_(rugby_player),http://dbpedia.org/resource/Jim_Fleming_(American_football)
+0,116,J. Collins,http://dbpedia.org/resource/Jimmy_Collins_(basketball),http://dbpedia.org/resource/Jim_Collins_(American_football_coach)

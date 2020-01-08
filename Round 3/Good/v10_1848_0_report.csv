@@ -1,0 +1,8 @@
+F1: 0.89474,Precision: 0.89474,Recall: 0.89474,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,8,L. Eriksson,http://dbpedia.org/resource/Loui_Eriksson,http://dbpedia.org/resource/Lars_Eriksson_(ice_hockey)
+0,19,K. Wilson,http://dbpedia.org/resource/Kirk_Wilson,http://dbpedia.org/resource/Kyle_Wilson_(ice_hockey)
+0,30,K. Bruce,,http://dbpedia.org/resource/Kyle_Bruce
+0,32,K. Bigos,,http://dbpedia.org/resource/Kyle_Bigos
+0,36,K. Berglund,http://dbpedia.org/resource/Patrik_Berglund,http://dbpedia.org/resource/Kristofer_Berglund http://dbpedia.org/resource/Kristoffer_Berglund
+0,43,K. Hogg,http://fr.dbpedia.org/resource/Kris_Hogg,http://dbpedia.org/resource/Kris_Hogg

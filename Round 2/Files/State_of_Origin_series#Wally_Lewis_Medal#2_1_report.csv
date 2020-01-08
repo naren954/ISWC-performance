@@ -1,0 +1,5 @@
+"F1: 0.75000","Precision: 0.75000","Recall: 0.75000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","4","Cameron Smith","http://dbpedia.org/resource/Cameron_Smith_(rugby_league,_born_1983)","http://dbpedia.org/resource/Cameron_Smith_(rugby_league) http://dbpedia.org/resource/Cameron_Smith http://dbpedia.org/resource/Smith,_Cameron"
+"1","8","Cameron Smith","http://dbpedia.org/resource/Cameron_Smith_(rugby_league,_born_1983)","http://dbpedia.org/resource/Cameron_Smith_(rugby_league) http://dbpedia.org/resource/Cameron_Smith http://dbpedia.org/resource/Smith,_Cameron"
+"1","10","Cameron Smith","http://dbpedia.org/resource/Cameron_Smith_(rugby_league,_born_1983)","http://dbpedia.org/resource/Cameron_Smith_(rugby_league) http://dbpedia.org/resource/Cameron_Smith http://dbpedia.org/resource/Smith,_Cameron"

@@ -1,0 +1,12 @@
+F1: 0.91228,Precision: 0.91228,Recall: 0.91228,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,43,R. Allen,http://dbpedia.org/resource/Rod_Allen,http://dbpedia.org/resource/Ronnie_Allen
+0,61,R. Gerber,http://dbpedia.org/resource/Roland_Gerber_(footballer),http://dbpedia.org/resource/Roland_Gerber
+0,66,R. Brown,"http://dbpedia.org/resource/Roger_Brown_(basketball,_born_1942)",http://dbpedia.org/resource/Roger_Brown_(footballer)
+0,75,R. E. Arruti,http://dbpedia.org/resource/Roberto_Etxebarria,http://dbpedia.org/resource/Roberto_Etxebarria_Arruti
+0,76,R. W. Wilson,http://dbpedia.org/resource/Ronald_Reagan,http://dbpedia.org/resource/Robert_W._Wilson_(philanthropist)
+0,77,R. Tingle,http://dbpedia.org/resource/Jack_Tingle,http://dbpedia.org/resource/Robert_Tingle
+0,82,R. Levy,http://dbpedia.org/resource/Ronny_Levy,http://dbpedia.org/resource/Robert_Levy_(Producer) http://dbpedia.org/resource/Robert_Levy_(producer)
+0,96,R. Guzmán,http://dbpedia.org/resource/Ramón_Guzmán,http://dbpedia.org/resource/Rigoberto_Guzman http://dbpedia.org/resource/Rigoberto_Guzmán
+0,98,R. W. Sears,http://dbpedia.org/resource/Richard_Sears_(tennis),"http://dbpedia.org/resource/Richard_W_Sears http://dbpedia.org/resource/R._W._Sears http://dbpedia.org/resource/Richard_Warren_Sears http://dbpedia.org/resource/Sears,_Richard_Warren"
+0,100,R. Schneider,http://dbpedia.org/resource/René_Schneider_(footballer),http://dbpedia.org/resource/Richard_Schneider

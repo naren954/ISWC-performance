@@ -1,0 +1,5 @@
+F1: 0.76923,Precision: 0.76923,Recall: 0.76923,,
+Col,Row,Value,Submitted URI,Correct URI's
+18,1,Zhabei Stadium,http://dbpedia.org/resource/Texas_Stadium,http://dbpedia.org/resource/Zhabei_Stadium
+18,10,Jinshan Football Stadium,http://dbpedia.org/resource/Autzen_Stadium,http://dbpedia.org/resource/Jinshan_Sports_Centre http://dbpedia.org/resource/Jinshan_Football_Stadium
+18,12,Jinshan Football Stadium,http://dbpedia.org/resource/Autzen_Stadium,http://dbpedia.org/resource/Jinshan_Sports_Centre http://dbpedia.org/resource/Jinshan_Football_Stadium

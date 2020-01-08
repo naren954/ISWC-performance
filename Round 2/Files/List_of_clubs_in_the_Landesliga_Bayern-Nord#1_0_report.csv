@@ -1,0 +1,7 @@
+"F1: 0.87179","Precision: 0.87179","Recall: 0.87179"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","3","TSV GroÃ\u009Fbardorf","http://de.dbpedia.org/resource/TSV_Röthenbach","http://dbpedia.org/resource/TSV_Großbardorf"
+"0","4","WÃ¼rzburger FV 04 1","http://dbpedia.org/resource/Würzburger_FV","http://dbpedia.org/resource/Würzburger_FV_04"
+"0","7","Kickers WÃ¼rzburg","http://dbpedia.org/resource/Würzburger_Kickers","http://dbpedia.org/resource/Kickers_Würzburg"
+"0","35","1. FC HaÃ\u009Ffurt","http://dbpedia.org/resource/Brighton_&_Hove_Albion_F.C.","http://dbpedia.org/resource/1._FC_Haßfurt"
+"0","43","1. FC Bamberg 8","http://dbpedia.org/resource/FC_Eintracht_Bamberg","http://dbpedia.org/resource/1._FC_Bamberg http://dbpedia.org/resource/1._FC_01_Bamberg"

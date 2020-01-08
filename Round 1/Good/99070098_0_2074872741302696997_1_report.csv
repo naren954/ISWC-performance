@@ -1,0 +1,15 @@
+F1: 0.93925,Precision: 0.93925,Recall: 0.93925,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,32,High Raise (Far E Fells),http://dbpedia.org/resource/High_Raise_(Langdale),http://dbpedia.org/resource/High_Raise_(High_Street)
+1,174,Dodd,http://dbpedia.org/resource/Great_Dodd,http://dbpedia.org/resource/Dodd_(Skiddaw) http://dbpedia.org/resource/Dodd_(Lake_District)
+1,67,Robinson,"http://dbpedia.org/resource/Robinson,_Illinois",http://dbpedia.org/resource/Robinson_(Lake_District)
+1,65,High Crag,http://dbpedia.org/resource/High_Crag_(Helvellyn),http://dbpedia.org/resource/High_Crag
+1,51,Sail,http://dbpedia.org/resource/Sailly-Saillisel,http://dbpedia.org/resource/Sail_(Lake_District) http://dbpedia.org/resource/Sail_Fell
+1,62,Red Pike (Buttermere),http://dbpedia.org/resource/Red_Pike_(Wasdale),http://dbpedia.org/resource/Dodd_(Buttermere) http://dbpedia.org/resource/Red_Pike_(Buttermere)
+1,149,Tarn Crag (Easedale),http://dbpedia.org/resource/Tarn_Crag_(Far_Eastern_Fells),http://dbpedia.org/resource/Tarn_Crag_(Easedale)
+1,6,Bow Fell,,http://dbpedia.org/resource/Bow_Fell http://dbpedia.org/resource/Bowfell
+1,111,Harter Fell (S Fells),http://dbpedia.org/resource/Harter_Fell_(Mardale),"http://dbpedia.org/resource/Harter_Fell_(Eskdale) http://dbpedia.org/resource/Harter_Fell,_Eskdale"
+1,107,High Pike (N Fells),http://dbpedia.org/resource/High_Pike_(Scandale),http://dbpedia.org/resource/High_Pike_(Caldbeck) http://dbpedia.org/resource/High_Pike
+1,137,The Nab,,http://dbpedia.org/resource/The_Nab
+1,187,Barrow,http://dbpedia.org/resource/River_Barrow,http://dbpedia.org/resource/Kinmont_Buck_Barrow http://dbpedia.org/resource/Burn_Moor http://dbpedia.org/resource/Whit_Fell http://dbpedia.org/resource/Buck_Barrow_(hill) http://dbpedia.org/resource/Whitfell
+1,177,Baystones (Wansfell),http://de.dbpedia.org/resource/Baystone_Bank_Reservoir,http://dbpedia.org/resource/Baystones http://dbpedia.org/resource/Wansfell

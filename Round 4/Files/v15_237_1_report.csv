@@ -1,0 +1,4 @@
+"F1: 0.71429","Precision: 0.71429","Recall: 0.71429"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","1","R. family","http://dbpedia.org/resource/Albert_R._Broccoli","http://dbpedia.org/resource/Rockefellar http://dbpedia.org/resource/Rockefeller_family http://dbpedia.org/resource/Charles_Rockefeller http://dbpedia.org/resource/Renee_Rockefeller http://dbpedia.org/resource/Rockefellers http://dbpedia.org/resource/Rockefeller_Family http://dbpedia.org/resource/Rockefeller_Archive_Center"
+"1","2","G. Reid","http://dbpedia.org/resource/George_Reid","http://dbpedia.org/resource/George_Reid_(soldier)"

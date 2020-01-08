@@ -1,0 +1,9 @@
+F1: 0.30000,Precision: 0.30000,Recall: 0.30000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,M. Seymour,"http://dbpedia.org/resource/Michael_Seymour_(Royal_Navy_officer,_born_1802)",http://dbpedia.org/resource/Mark_Seymour
+1,2,R. Ross,http://dbpedia.org/resource/Horse,http://dbpedia.org/resource/Ricky_Ross_discography http://dbpedia.org/resource/Ricky_Ross_(musician)
+1,3,G. a. Huff,http://dbpedia.org/resource/George_Albert_Huff,"http://dbpedia.org/resource/Kenneth_Gamble_&_Leon_Huff http://dbpedia.org/resource/Kenneth_Gamble http://dbpedia.org/resource/Leon_Huff http://dbpedia.org/resource/Leon_A_Huff http://dbpedia.org/resource/Kenneth_Gamble_and_Leon_Huff http://dbpedia.org/resource/Gamble_and_Huff http://dbpedia.org/resource/The_Ebonys http://dbpedia.org/resource/Kenny_Gamble_and_Leon_Huff http://dbpedia.org/resource/Gamble_&_Huff http://dbpedia.org/resource/""The_Ebonys"" http://dbpedia.org/resource/Gamble_and_huff http://dbpedia.org/resource/Leon_A._Huff http://dbpedia.org/resource/Kenny_Gamble http://dbpedia.org/resource/Kenny_Gamble_&_Leon_Huff"
+1,4,P. Everly,http://dbpedia.org/resource/The_Black_Eyed_Peas,http://dbpedia.org/resource/Isaac_Donald_Everly http://dbpedia.org/resource/Donald_Everly http://dbpedia.org/resource/Everly_Brothers http://dbpedia.org/resource/Everley_Brothers http://dbpedia.org/resource/Phillip_Everly http://dbpedia.org/resource/Isaac_Everly http://dbpedia.org/resource/Phil_Everly http://dbpedia.org/resource/Don_Everly http://dbpedia.org/resource/Ike_Everly http://dbpedia.org/resource/The_Everly_Brothers
+1,5,W. Bacall,http://dbpedia.org/resource/Lauren_Bacall,http://dbpedia.org/resource/Warren_Harry http://dbpedia.org/resource/Warren_Bacall
+1,7,T. Seals,http://dbpedia.org/resource/Goodbye_Yellow_Brick_Road,http://dbpedia.org/resource/Troy_Seals http://dbpedia.org/resource/There's_a_Honky_Tonk_Angel
+1,10,J. Neel,http://dbpedia.org/resource/Alice_Neel,http://dbpedia.org/resource/Johnny_Neel

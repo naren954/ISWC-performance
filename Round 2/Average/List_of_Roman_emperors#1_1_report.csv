@@ -1,0 +1,4 @@
+F1: 0.66667,Precision: 0.66667,Recall: 0.66667,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,3,Vitellius AVLVS VITELLIVS GERMANICVS AVGVSTVS,http://dbpedia.org/resource/Nowell_Codex,http://dbpedia.org/resource/Aulus_Vitellius_Germanicus_Augustus http://dbpedia.org/resource/Vitellius http://dbpedia.org/resource/Aulus_Vitellius_Germanicus
+1,5,Titus TITVS FLAVIVS CAESAR VESPASIANVS AVGVSTVS,http://dbpedia.org/resource/Vespasian,http://dbpedia.org/resource/Roman_Emperor_Titus http://dbpedia.org/resource/Emperor_Titus http://dbpedia.org/resource/Titus_(emperor) http://dbpedia.org/resource/Titus http://dbpedia.org/resource/Roman_emperor_Titus http://dbpedia.org/resource/Titus_Vespasianus http://dbpedia.org/resource/Flavius_Vespasianus_Titus

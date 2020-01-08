@@ -1,0 +1,69 @@
+F1: 0.60355,Precision: 0.60355,Recall: 0.60355,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,4,J. Oppenheim,http://dbpedia.org/resource/Dennis_Oppenheim,http://dbpedia.org/resource/Jonathan_Oppenheim_(film_editor)
+1,6,D. Canova,http://dbpedia.org/resource/Antonio_Canova,http://dbpedia.org/resource/Diana_Canova
+1,9,J. Baker,http://dbpedia.org/resource/Gilbert_Baker_(artist),http://dbpedia.org/resource/Jean_claude_baker http://dbpedia.org/resource/Jean-Claude_Baker
+1,11,G. children,http://dbpedia.org/resource/John_George_Children,http://dbpedia.org/resource/Goebbels_children http://dbpedia.org/resource/Helga_Goebbels
+1,14,S. Pertwee,http://dbpedia.org/resource/Jon_Pertwee,http://dbpedia.org/resource/Sean_Pertwee
+1,15,Maxine,http://dbpedia.org/resource/Maxine_Elliott,http://dbpedia.org/resource/Maxine_(Blossom)_Miles
+1,20,A. Thaw,http://dbpedia.org/resource/John_Thaw,http://dbpedia.org/resource/Abigail_Thaw
+1,21,J. Ritter,http://dbpedia.org/resource/John_Ritter,http://dbpedia.org/resource/Jason_Riter http://dbpedia.org/resource/Jason_Ritter http://dbpedia.org/resource/Jace_the_Ace_from_Outer_Space
+1,26,J. Lennon,http://dbpedia.org/resource/John_Lennon,http://dbpedia.org/resource/Children_Of_The_World_(Album) http://dbpedia.org/resource/John_Charles_Julian_Lennon http://dbpedia.org/resource/Children_Of_The_World_(album) http://dbpedia.org/resource/Julian_lennon http://dbpedia.org/resource/Julian_Lennon
+1,28,S. N. Hampshire,http://dbpedia.org/resource/Hampshire_County_Cricket_Club,"http://dbpedia.org/resource/Sunapee,_NH http://dbpedia.org/resource/Wendell,_New_Hampshire http://dbpedia.org/resource/Sunapee,_Nh http://dbpedia.org/resource/Sunapee,_New_Hampshire"
+1,29,B. Hart,http://dbpedia.org/resource/Bret_Hart,http://dbpedia.org/resource/Buddy_Hart
+1,30,P. B. Kennedy,http://dbpedia.org/resource/Joseph_P._Kennedy_Jr.,http://dbpedia.org/resource/Patrick_Bouvier_Kennedy
+1,31,D. Barrymore,http://dbpedia.org/resource/Diana_Barrymore,http://dbpedia.org/resource/Drew_Blyth_Barrymore http://dbpedia.org/resource/Drew_Barymore http://dbpedia.org/resource/Drew_Berrymore http://dbpedia.org/resource/Drew_barrymore http://dbpedia.org/resource/DrewBarrymore http://dbpedia.org/resource/Drew_B_Barrymore http://dbpedia.org/resource/Drew_B._Barrymore http://dbpedia.org/resource/Drew_Barrymore
+1,32,S. C. Derek,http://dbpedia.org/resource/Derek_Jarman,http://dbpedia.org/resource/Sean_Catherine_Derek
+1,33,L. Lodge,http://dbpedia.org/resource/John_Davis_Lodge,http://dbpedia.org/resource/Lily_lodge http://dbpedia.org/resource/Lily_Lodge
+1,36,D. Berry,"http://dbpedia.org/resource/Charles_Ferdinand,_Duke_of_Berry",http://dbpedia.org/resource/Dennis_Berry_(actor) http://dbpedia.org/resource/Dennis_Berry_(director)
+1,42,J. McCrea,http://dbpedia.org/resource/Joel_McCrea,http://dbpedia.org/resource/Jody_McCrea
+1,48,B. Wills,http://dbpedia.org/resource/Bob_Wills,http://dbpedia.org/resource/Beverly_Wills
+1,49,C. Crawford,http://dbpedia.org/resource/Cindy_Crawford,http://dbpedia.org/resource/Christina_Crawford http://dbpedia.org/resource/Survivor_(1988_novel)
+1,52,J. Henson,http://dbpedia.org/resource/Jim_Henson,http://dbpedia.org/resource/John_Henson_(Muppet_performer) http://dbpedia.org/resource/John_Henson_(puppeteer)
+1,55,C. Orbach,http://dbpedia.org/resource/Jerry_Orbach,http://dbpedia.org/resource/Chris_Orbach
+1,56,J. F. Jr.,http://dbpedia.org/resource/John_F._Kennedy_Jr.,"http://dbpedia.org/resource/Jerry_Falwall http://dbpedia.org/resource/Jerry_falwell_jr. http://dbpedia.org/resource/Jerry_Falwell_Jr. http://dbpedia.org/resource/Jerry_Falwell_Jr http://dbpedia.org/resource/Jerry_Falwell,_Jr http://dbpedia.org/resource/Jerry_Falwell,_Jr."
+1,57,K. Kapoor,http://dbpedia.org/resource/Kareena_Kapoor,http://dbpedia.org/resource/Karan_Kapoor
+1,58,R. W. Jr.,"http://dbpedia.org/resource/Robert_Walker_(actor,_born_1940)","http://dbpedia.org/resource/Robert_Walker,_Jr. http://dbpedia.org/resource/Robert_Walker_Jr. http://dbpedia.org/resource/Robert_Walker_(1960s_actor) http://dbpedia.org/resource/Robert_Walker_Jr"
+1,64,J. R. Jr.,http://dbpedia.org/resource/John_Romita_Jr.,"http://dbpedia.org/resource/Jason_Robards http://dbpedia.org/resource/Jason_Robards_Jr http://dbpedia.org/resource/Jason_Nelson_Robards http://dbpedia.org/resource/Jason_Robards_Jr. http://dbpedia.org/resource/Jason_Robards,_Jr. http://dbpedia.org/resource/Jason_N._Robards,_Jr. http://dbpedia.org/resource/Jason_Nelson_Robards,_Jr. http://dbpedia.org/resource/Jason_N._Robards"
+1,67,M. Kulle,http://dbpedia.org/resource/Jarl_Kulle,http://dbpedia.org/resource/Maria_Kulle
+1,70,M. Reagan,http://dbpedia.org/resource/Ronald_Reagan,http://dbpedia.org/resource/Michael_Reagan http://dbpedia.org/resource/John_Flaugher http://dbpedia.org/resource/The_Michael_Reagan_Talk_Show
+1,71,R. Lloyd,http://dbpedia.org/resource/Robert_Lloyd_(bass),http://dbpedia.org/resource/Rosalind_Lloyd
+1,72,J. Henson,http://dbpedia.org/resource/Jim_Henson,http://dbpedia.org/resource/John_Henson_(Muppet_performer) http://dbpedia.org/resource/John_Henson_(puppeteer)
+1,79,D. Watling,http://dbpedia.org/resource/Deborah_Watling,http://dbpedia.org/resource/Dilys_Watling
+1,80,H. Palance,http://dbpedia.org/resource/Jack_Palance,http://dbpedia.org/resource/Holly_Palance http://dbpedia.org/resource/Holly_Palance/Actress
+1,81,C. Lemmon,http://dbpedia.org/resource/Jack_Lemmon,http://dbpedia.org/resource/Christopher_Lemmon http://dbpedia.org/resource/Chris_Lemmon
+1,82,M. Layton,http://dbpedia.org/resource/Irving_Layton,http://dbpedia.org/resource/Mike_Layton
+1,83,A. Klugman,http://dbpedia.org/resource/Jack_Klugman,http://dbpedia.org/resource/Adam_Klugman
+1,84,M. Hemingway,http://dbpedia.org/resource/Mariel_Hemingway,http://dbpedia.org/resource/Margaux_Louise_Hemingway http://dbpedia.org/resource/Margo_Hemingway http://dbpedia.org/resource/Margeaux_Hemingway http://dbpedia.org/resource/Margaux_Hemingway http://dbpedia.org/resource/Margot_Hemingway http://dbpedia.org/resource/Margot_Louise_Hemingway
+1,85,J. H. Jr.,http://dbpedia.org/resource/Jon_Huntsman_Jr.,"http://dbpedia.org/resource/Jack_Haley,_Jr. http://dbpedia.org/resource/Jack_haley,_jr http://dbpedia.org/resource/Jack_Haley_Jr."
+1,88,G. Francis,http://dbpedia.org/resource/Francis_Bacon,http://dbpedia.org/resource/Genie_Francis
+1,89,M. Barrett,http://dbpedia.org/resource/Majel_Barrett,http://dbpedia.org/resource/Mary_Ellin_Barrett http://dbpedia.org/resource/Mary_Barrett
+1,90,V. Tennant,http://dbpedia.org/resource/David_Tennant,http://dbpedia.org/resource/Victoria_Tennant
+1,91,E. Kent,"http://dbpedia.org/resource/Prince_Edward,_Duke_of_Kent",http://dbpedia.org/resource/Enid_Kent
+1,95,A. Bergman,http://dbpedia.org/resource/Ingmar_Bergman,http://dbpedia.org/resource/Anna_Bergman
+1,97,A. Smith,http://dbpedia.org/resource/Joseph_Smith,"http://dbpedia.org/resource/Smith,_Alec http://dbpedia.org/resource/Alec_Smith"
+1,102,A. Marks,http://dbpedia.org/resource/Alfred_Marks,http://dbpedia.org/resource/Amber_Marks
+1,105,C. Murray,http://dbpedia.org/resource/Charles_Murray_(American_actor),http://dbpedia.org/resource/Christopher_Murray_(actor)
+1,107,P. Tennant,http://dbpedia.org/resource/David_Tennant,http://dbpedia.org/resource/Pauline_Tennant
+1,108,E. Göring,http://dbpedia.org/resource/Hermann_Göring,http://dbpedia.org/resource/Edda_Göring
+1,111,C. Gibson,http://es.dbpedia.org/resource/Carlos_Gibson,http://dbpedia.org/resource/Charles_Gibson_(special_effects_artist) http://dbpedia.org/resource/Charlie_Gibson_(special_effects_artist)
+1,122,A. Secombe,http://dbpedia.org/resource/Harry_Secombe,http://dbpedia.org/resource/Andrew_Secombe http://dbpedia.org/resource/Andy_Secombe
+1,123,S. Corbett,http://dbpedia.org/resource/Ronnie_Corbett,http://dbpedia.org/resource/Susannah_Corbett
+1,128,N. Shipman,http://dbpedia.org/resource/Nell_Shipman,http://dbpedia.org/resource/Nina_Shipman
+1,130,C. Peck,http://dbpedia.org/resource/Gregory_Peck,"http://dbpedia.org/resource/Harper_Peck http://dbpedia.org/resource/Peck,_Cecilia http://dbpedia.org/resource/Cecilia_Peck"
+1,135,J. McCallum,http://dbpedia.org/resource/John_McCallum_(actor),http://dbpedia.org/resource/Joanna_McCallum
+1,139,L. Ryan,http://dbpedia.org/resource/Leo_Ryan,http://dbpedia.org/resource/Lottie_Ryan
+1,142,S. B. Whitman,http://dbpedia.org/resource/Christine_Todd_Whitman,http://dbpedia.org/resource/Sylvia_Beach_Whitman
+1,143,G. W. Jr.,http://dbpedia.org/resource/George_W._Bush,"http://dbpedia.org/resource/George_C._Wallace,_Jr. http://dbpedia.org/resource/George_Wallace_Jr. http://dbpedia.org/resource/George_Wallace,_Jr."
+1,147,G. Coulouris,http://dbpedia.org/resource/George_Coulouris,http://dbpedia.org/resource/George_Coulouris_(computer_scientist)
+1,148,K. Carlin,http://dbpedia.org/resource/George_Carlin,http://dbpedia.org/resource/Kelly_Carlin http://dbpedia.org/resource/Kelly_Carlin-McCall
+1,150,G. Richter,http://dbpedia.org/resource/Gisela_Richter,http://dbpedia.org/resource/Georg_Richter
+1,151,J. Lewis,http://dbpedia.org/resource/John_Frederick_Lewis,http://dbpedia.org/resource/Juliet_Lewis http://dbpedia.org/resource/Juliette_Lewis http://dbpedia.org/resource/Juliette_lewis
+1,152,J. Kerr,http://dbpedia.org/resource/Judith_Kerr,http://dbpedia.org/resource/John_Kerr_(actor)
+1,153,K. Hopkins,http://dbpedia.org/resource/Anthony_Hopkins,http://dbpedia.org/resource/Kaitlin_Hopkins
+1,156,S. Marshall,http://dbpedia.org/resource/Sarah_Marshall_(British_actress),http://dbpedia.org/resource/Scott_Marshall_(director)
+1,160,F. P. Jr.,http://dbpedia.org/resource/Pietro_Ferrero_Jr.,"http://dbpedia.org/resource/Freddie_Prinze,_Jr. http://dbpedia.org/resource/Freddie_Prinze_Jr. http://dbpedia.org/resource/Freddie_prinze_junior http://dbpedia.org/resource/Freddie_Prinze_Jr http://dbpedia.org/resource/Freddy_prince_jr http://dbpedia.org/resource/Freddy_Prince_Jr. http://dbpedia.org/resource/Freddie_Prince,_Jr. http://dbpedia.org/resource/Freddy_Prinze_Jr. http://dbpedia.org/resource/Freddie_Prince_Jr."
+1,162,F. K. Jr.,http://dbpedia.org/resource/John_F._Kennedy_Jr.,"http://dbpedia.org/resource/Fred_Kohler,_Jr. http://dbpedia.org/resource/Fred_Kohler_Jr."
+1,165,T. Thomas,http://dbpedia.org/resource/Tony_Thomas_(producer),http://dbpedia.org/resource/Theodore_Thomas_(filmmaker)
+1,166,N. Sinatra,http://dbpedia.org/resource/Frank_Sinatra,"http://dbpedia.org/resource/Nancy_Sinatra http://dbpedia.org/resource/Nancy_S._Sinatra,_Junior http://dbpedia.org/resource/How_Does_It_Feel_(album) http://dbpedia.org/resource/For_My_Dad http://dbpedia.org/resource/Country,_My_Way http://dbpedia.org/resource/Nancy_sinatra"
+1,168,J. Craven,http://dbpedia.org/resource/Wes_Craven,"http://dbpedia.org/resource/John_Craven_(actor) http://dbpedia.org/resource/John_Craven,_Actor"

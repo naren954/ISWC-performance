@@ -1,0 +1,4 @@
+F1: 0.71429,Precision: 0.71429,Recall: 0.71429,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,4,Maragua,http://dbpedia.org/resource/Maragua,http://dbpedia.org/resource/Maragua_District
+0,6,Thika,http://dbpedia.org/resource/Thika,http://dbpedia.org/resource/Thika_District

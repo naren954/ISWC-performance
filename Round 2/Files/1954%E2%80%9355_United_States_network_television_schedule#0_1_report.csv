@@ -1,0 +1,5 @@
+"F1: 0.00000","Precision: 0.00000","Recall: 0.00000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","1","You Asked For It","http://dbpedia.org/resource/Casino_Royale_(novel)","http://dbpedia.org/resource/You_Asked_For_It http://dbpedia.org/resource/You_Asked_for_It_(TV_series) http://dbpedia.org/resource/You_Asked_for_It_(television) http://dbpedia.org/resource/You_Asked_for_It"
+"1","2","Lassie","http://dbpedia.org/resource/Lassie_Come_Home","http://dbpedia.org/resource/Lassie_(TV_series) http://dbpedia.org/resource/Lassie_(1954_TV_series) http://dbpedia.org/resource/Jeff's_Collie http://dbpedia.org/resource/Lassie_(1954_tv_series) http://dbpedia.org/resource/Timmy_and_Lassie http://dbpedia.org/resource/Timmy_&_Lassie"
+"1","3","People Are Funny","http://dbpedia.org/resource/Funny_People","http://dbpedia.org/resource/People_Are_Funny http://dbpedia.org/resource/People_are_Funny"

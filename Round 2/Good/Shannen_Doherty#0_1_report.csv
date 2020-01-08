@@ -1,0 +1,4 @@
+F1: 0.80000,Precision: 0.80000,Recall: 0.80000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,2,Night Shift,http://dbpedia.org/resource/The_Night_Shift_(film),http://dbpedia.org/resource/Night_Shift_(film) http://dbpedia.org/resource/Night_Shift_(movie)
+1,15,Bukowski,,http://dbpedia.org/resource/Bukowski_(2016_film) http://dbpedia.org/resource/Bukowski_(2014_film) http://dbpedia.org/resource/Bukowski_(2015_film)

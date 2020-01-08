@@ -1,0 +1,9 @@
+F1: 0.93636,Precision: 0.93636,Recall: 0.93636,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,9,K. Koltsov,http://dbpedia.org/resource/Konstantin_Koltsov,http://dbpedia.org/resource/Kirill_Koltsov
+0,46,K. Lowe,http://dbpedia.org/resource/Kevin_Lowe,http://dbpedia.org/resource/Keegan_Lowe
+0,73,J. Williams,http://dbpedia.org/resource/Jamal_Williams,"http://dbpedia.org/resource/Justin_Williams_(ice_hockey) http://dbpedia.org/resource/Williams,_Justin http://dbpedia.org/resource/Justin_Williams"
+0,74,J. Vaive,http://dbpedia.org/resource/Rick_Vaive,http://dbpedia.org/resource/Justin_Vaive
+0,76,J. Schultz,http://dbpedia.org/resource/Jeff_Schultz,http://dbpedia.org/resource/Justin_Schultz
+0,87,J. Bailey,http://dbpedia.org/resource/Joe_Bailey_(ice_hockey),http://dbpedia.org/resource/Justin_Bailey http://dbpedia.org/resource/Justin_Bailey_(ice_hockey)
+0,90,J. Timonen,http://dbpedia.org/resource/Kimmo_Timonen,http://dbpedia.org/resource/Jussi_Timonen

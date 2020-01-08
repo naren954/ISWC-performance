@@ -1,0 +1,7 @@
+F1: 0.16667,Precision: 0.16667,Recall: 0.16667,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Chesapeake,http://dbpedia.org/resource/Chesapeake_Bay,http://dbpedia.org/resource/Chesapeake_(ship) http://dbpedia.org/resource/Frigate_Chesapeake http://dbpedia.org/resource/Ship_Chesapeake http://dbpedia.org/resource/Chesapeake_(vessel) http://dbpedia.org/resource/USS_Chesapeake_(1799)
+0,3,President,http://dbpedia.org/resource/Barack_Obama,http://dbpedia.org/resource/USS_President_(1800)
+0,4,United States,http://dbpedia.org/resource/United_States_Marine_Corps,http://dbpedia.org/resource/CSS_Confederate_States http://dbpedia.org/resource/CSS_United_States http://dbpedia.org/resource/USS_United_States_(1797) http://dbpedia.org/resource/Uss_neversink http://dbpedia.org/resource/USS_United_States_(frigate)
+0,5,Congress,http://dbpedia.org/resource/Congress_Poland,http://dbpedia.org/resource/USS_Congress_(1799)
+0,6,Constellation,http://dbpedia.org/resource/USS_Constellation_(1854),http://dbpedia.org/resource/USS_Constellation_(1797)

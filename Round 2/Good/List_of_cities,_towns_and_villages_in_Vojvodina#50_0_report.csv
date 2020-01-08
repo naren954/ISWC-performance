@@ -1,0 +1,6 @@
+F1: 0.76471,Precision: 0.76471,Recall: 0.76471,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,BuÄ\u0091anovci,http://dbpedia.org/resource/Bû,http://dbpedia.org/resource/Buđanovci
+0,11,Pavlovci,"http://dbpedia.org/resource/Pavlovci,_Croatia","http://dbpedia.org/resource/Pavlovci,_Serbia"
+0,12,PlatiÄ\u008Devo,http://dbpedia.org/resource/Platì,http://dbpedia.org/resource/Platičevo
+0,17,Å½arkovac,http://dbpedia.org/resource/Žarkovac_(Ruma),"http://dbpedia.org/resource/Žarkovac,_Ruma"

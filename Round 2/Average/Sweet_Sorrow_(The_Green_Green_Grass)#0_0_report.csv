@@ -1,0 +1,5 @@
+F1: 0.57143,Precision: 0.57143,Recall: 0.57143,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,John Challis,http://dbpedia.org/resource/James_Challis,"http://dbpedia.org/resource/Challis,_John http://dbpedia.org/resource/John_Challis"
+0,4,David Ross,http://dbpedia.org/resource/David_Ross_(baseball),http://dbpedia.org/resource/David_Ross_(actor)
+0,6,Ella Kenion,http://dbpedia.org/resource/Ella_Smith_(actress),http://dbpedia.org/resource/Ella_Kenion

@@ -1,0 +1,44 @@
+F1: 0.69118,Precision: 0.69118,Recall: 0.69118,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,R. Wright,http://dbpedia.org/resource/Richard_Wright_(author),http://dbpedia.org/resource/Reg_Wright http://dbpedia.org/resource/Reginald_Wright
+0,5,R. Jones,http://dbpedia.org/resource/Robert_Jones_(Conservative_politician),http://dbpedia.org/resource/Rees_Rutland_Jones http://dbpedia.org/resource/Rees_Jones_(politician)
+0,14,R. C. Jr.,http://dbpedia.org/resource/Richard_Coke_Jr.,"http://dbpedia.org/resource/Raffaele_Cadorna_jr http://dbpedia.org/resource/Raffaele_Cadorna,_Jr."
+0,16,R. Knežević,http://dbpedia.org/resource/Goran_Knežević,http://dbpedia.org/resource/Radoje_Knežević http://dbpedia.org/resource/Radoje_Knezevic
+0,17,R. R. Rao,http://dbpedia.org/resource/B._R._Ambedkar,http://dbpedia.org/resource/R._Raghunatha_Rao
+0,19,R. Rinfret,http://dbpedia.org/resource/Fernand_Rinfret,http://dbpedia.org/resource/Rémi-Ferdinand_Rinfret http://dbpedia.org/resource/Remi-Ferdinand_Rinfret http://dbpedia.org/resource/Rémi-Ferdinand_Rinfret_dit_Malouin
+0,21,P. Lea,http://dbpedia.org/resource/Preston_Lea,http://dbpedia.org/resource/Pryor_Lea
+0,26,P. H. Jr.,http://dbpedia.org/resource/Porter_Hardy_Jr.,"http://dbpedia.org/resource/Pike_Hall_Jr. http://dbpedia.org/resource/Pike_Hall http://dbpedia.org/resource/Pike_Hall,_Jr."
+0,28,P. Gemayel,http://dbpedia.org/resource/Bachir_Gemayel,http://dbpedia.org/resource/Pierre_Gemayel http://dbpedia.org/resource/Pierre_Jumayyil
+0,30,P. Baudin,http://dbpedia.org/resource/Pierre_Baudin,http://dbpedia.org/resource/Pierre-Charles-Louis_Baudin
+0,32,P. Primrose,http://dbpedia.org/resource/Neil_Primrose_(politician),http://dbpedia.org/resource/Philip_C._H._Primrose http://dbpedia.org/resource/Philip_Primrose http://dbpedia.org/resource/Philip_Carteret_Hill_Primrose
+0,34,P. Holloway,http://dbpedia.org/resource/Adam_Holloway,http://dbpedia.org/resource/Phil_Holloway http://dbpedia.org/resource/Philip_North_Holloway http://dbpedia.org/resource/Phillip_Holloway http://dbpedia.org/resource/Philip_Holloway
+0,36,P. Short,http://dbpedia.org/resource/Pepin_the_Short,http://dbpedia.org/resource/Peyton_Short
+0,37,Petrus Peckius the Younger,http://dbpedia.org/resource/Pieter_Brueghel_the_Younger,http://dbpedia.org/resource/Petrus_Peckius_the_Younger
+0,44,P. Barry,http://dbpedia.org/resource/Philip_Barry,"http://dbpedia.org/resource/Barry,_Peter http://dbpedia.org/resource/Peter_Barry http://dbpedia.org/resource/Peter_Barry_(joke_candidate)"
+0,45,P. Casgrain,http://dbpedia.org/resource/Thérèse_Casgrain,http://dbpedia.org/resource/Perreault_Casgrain
+0,54,P. O'Sullivan,http://dbpedia.org/resource/Patrick_B._O'Sullivan,http://dbpedia.org/resource/Patrick_O'Sullivan_(Queensland_politician)
+0,55,P. Leslie,http://dbpedia.org/resource/Preston_Leslie,http://dbpedia.org/resource/Leslie_Brothers http://dbpedia.org/resource/Leslie_brothers http://dbpedia.org/resource/Patrick_Leslie
+0,56,P. Leahy,http://dbpedia.org/resource/Patrick_Leahy,http://dbpedia.org/resource/Patrick_Leahy_(Australian_politician) http://dbpedia.org/resource/Patrick_James_Leahy
+0,57,P. Morton,http://dbpedia.org/resource/Paul_Morton,http://dbpedia.org/resource/Philip_Henry_Morton http://dbpedia.org/resource/Pat_Morton
+0,59,P. P. Kumaramangalam,http://dbpedia.org/resource/Rangarajan_Kumaramangalam,http://dbpedia.org/resource/P.P._Kumaramangalam http://dbpedia.org/resource/General_P._P._Kumaramangalam http://dbpedia.org/resource/Paramasiva_Prabhakar_Kumaramangalam http://dbpedia.org/resource/P._P._Kumaramangalam
+0,67,O. Wilson,http://dbpedia.org/resource/Ronald_Reagan,http://dbpedia.org/resource/George_Hamish_Ormond_Wilson_CMG http://dbpedia.org/resource/George_Hamish_Ormond_Wilson http://dbpedia.org/resource/Ormond_Wilson http://dbpedia.org/resource/Ormond_Wilson_CMG http://dbpedia.org/resource/George_Ormond_Wilson
+0,68,O. A. Khan,http://dbpedia.org/resource/Selim_I,http://dbpedia.org/resource/Omer_Asghar_Khan http://dbpedia.org/resource/Omar_Asghar_Khan
+0,71,Nur Ahmad Jan Bughra,http://dbpedia.org/resource/Nur_Ahmadjan_Bughra,http://dbpedia.org/resource/Amir_Nur_Ahmad_Jan http://dbpedia.org/resource/Nur_Ahmadjan http://dbpedia.org/resource/Nur_Ahmad http://dbpedia.org/resource/Emir_Nur_Ahmad_Jan http://dbpedia.org/resource/Nur_Ahmad_Jan_Bughra http://dbpedia.org/resource/Nur_Ahmad_Jan
+0,78,N. Đ. Nhu,http://dbpedia.org/resource/Japan,http://dbpedia.org/resource/Ngo_Dinh_Nhu http://dbpedia.org/resource/Ngô_Ðình_Nhu http://dbpedia.org/resource/Nhu_Dinh_Ngo http://dbpedia.org/resource/Ngô_Đình_Nhu http://dbpedia.org/resource/Nhu_Ngô_Ðình http://dbpedia.org/resource/Ngo_Nhu http://dbpedia.org/resource/Nhu_Ngo http://dbpedia.org/resource/Nhu_Ngô_Đình http://dbpedia.org/resource/Nhu_Ngô http://dbpedia.org/resource/Nhu_Ðình_Ngô
+0,80,N. Đ. Nhu,http://dbpedia.org/resource/Japan,http://dbpedia.org/resource/Ngo_Dinh_Nhu http://dbpedia.org/resource/Ngô_Ðình_Nhu http://dbpedia.org/resource/Nhu_Dinh_Ngo http://dbpedia.org/resource/Ngô_Đình_Nhu http://dbpedia.org/resource/Nhu_Ngô_Ðình http://dbpedia.org/resource/Ngo_Nhu http://dbpedia.org/resource/Nhu_Ngo http://dbpedia.org/resource/Nhu_Ngô_Đình http://dbpedia.org/resource/Nhu_Ngô http://dbpedia.org/resource/Nhu_Ðình_Ngô
+0,81,N. S. Jr.,http://dbpedia.org/resource/Norman_Schwarzkopf_Jr.,"http://dbpedia.org/resource/Nelson_Story,_Jr."
+0,89,N. Smith,http://dbpedia.org/resource/Nathan_Smith_(senator),"http://dbpedia.org/resource/Nathaniel_Smith http://dbpedia.org/resource/Smith,_Nathaniel"
+0,90,N. S. Jr.,http://dbpedia.org/resource/Norman_Schwarzkopf_Jr.,"http://dbpedia.org/resource/Nathaniel_Silsbee,_Jr."
+0,96,Nabi Bux Khan Bhutto,http://dbpedia.org/resource/Nabi_Bakhsh_Khan_Baloch,http://dbpedia.org/resource/Nabi_Bux_Khan_Bhutto http://dbpedia.org/resource/Nabi_Bux_Khan_Bhutto_(nawab) http://dbpedia.org/resource/Nawab_Nabi_Bux_Khan_Bhutto
+0,101,M. Houde,http://dbpedia.org/resource/Camillien_Houde,http://dbpedia.org/resource/Moïse_Houde http://dbpedia.org/resource/Moise_Houde
+0,102,M. Nehru,http://dbpedia.org/resource/Jawaharlal_Nehru,"http://dbpedia.org/resource/Pandit_Motilal_Nehru http://dbpedia.org/resource/Nehru,_Motilal http://dbpedia.org/resource/Motlilal_Nehru http://dbpedia.org/resource/Motlial_Nehru http://dbpedia.org/resource/Moti_Lal_Nehru http://dbpedia.org/resource/Motilal_Nehru"
+0,103,M. M. MacBride,http://dbpedia.org/resource/Seán_MacBride,http://dbpedia.org/resource/Morrison_Mann_MacBride http://dbpedia.org/resource/Morrison_McBride http://dbpedia.org/resource/Morrison_MacBride
+0,106,M. M. Wyche,,http://dbpedia.org/resource/Monty_M._Wyche
+0,110,M. Houde,http://dbpedia.org/resource/Camillien_Houde,http://dbpedia.org/resource/Moïse_Houde http://dbpedia.org/resource/Moise_Houde
+0,113,M. Lee,http://dbpedia.org/resource/Lee_Myung-bak,http://dbpedia.org/resource/Mathilde_Boal_Lee http://dbpedia.org/resource/Mathilde_Lee http://dbpedia.org/resource/Mathilde_Boal http://dbpedia.org/resource/Mathilde_B._Lee http://dbpedia.org/resource/Mimi_Lee
+0,117,M. Frashëri,http://dbpedia.org/resource/Mehdi_Frashëri,http://dbpedia.org/resource/Lumo_Skendo http://dbpedia.org/resource/Lumo_skëndo http://dbpedia.org/resource/Mid'hat_Bey_Frashëri http://dbpedia.org/resource/Mit'hat_Bey_Frashëri http://dbpedia.org/resource/Midhat_Frasheri http://dbpedia.org/resource/Mid'hat_Bey_Frasheri http://dbpedia.org/resource/Mihat_Frasheri http://dbpedia.org/resource/Mit'hat_Frasheri http://dbpedia.org/resource/Mit’hat_Frasheri http://dbpedia.org/resource/Mithat_Frashëri http://dbpedia.org/resource/Mit’hat_Frashëri http://dbpedia.org/resource/Mid’hat_bey_Frashëri http://dbpedia.org/resource/Mit'hat_Frashëri http://dbpedia.org/resource/Midhat_Frashëri
+0,120,M. L. Jr.,http://dbpedia.org/resource/Martin_Luther_King_Jr.,"http://dbpedia.org/resource/Michael_Liebel,_Jr. http://dbpedia.org/resource/Michael_Liebel"
+0,122,M. Connelly,http://dbpedia.org/resource/Michael_Connelly_(Illinois_politician),http://dbpedia.org/resource/Michael_Connelly_(New_Zealand_politician) http://dbpedia.org/resource/Michael_Connelly_(New_Zealand)
+0,123,M. Clapham,http://dbpedia.org/resource/Michael_Clapham,http://dbpedia.org/resource/Michael_Clapham_(industrialist)
+0,124,M. Barnard,http://dbpedia.org/resource/Louisa_May_Alcott,http://dbpedia.org/resource/Michael_Barnard_(politician)
+0,133,M. C. O'Connell,http://dbpedia.org/resource/Daniel_O'Connell,"http://dbpedia.org/resource/Maurice_Charles_O'Connell,_the_younger http://dbpedia.org/resource/Maurice_Charles_O'Connell_(Australian_politician) http://dbpedia.org/resource/Maurice_Charles_The_Younger_O'Connell"

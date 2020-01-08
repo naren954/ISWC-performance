@@ -1,0 +1,26 @@
+F1: 0.68421,Precision: 0.68421,Recall: 0.68421,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,È. Curie,http://dbpedia.org/resource/Marie_Curie,http://dbpedia.org/resource/Eve_Curie_Labouisse http://dbpedia.org/resource/Eve_Curie_LaBouisse http://dbpedia.org/resource/Eve_Curie http://dbpedia.org/resource/Ève_Curie
+0,2,Z. Pu,http://dbpedia.org/resource/Yang_Pu,http://dbpedia.org/resource/Zong_Pu http://dbpedia.org/resource/Feng_Zhongpu
+0,4,Z. Whedon,http://dbpedia.org/resource/Joss_Whedon,http://dbpedia.org/resource/Zack_Whedon
+0,9,T. Steinbeck,http://dbpedia.org/resource/John_Steinbeck,http://dbpedia.org/resource/Thom_Steinbeck http://dbpedia.org/resource/Thomas_Steinbeck
+0,12,T. Dias,http://dbpedia.org/resource/Gonçalves_Dias,http://dbpedia.org/resource/Teófilo_Dias http://dbpedia.org/resource/Teofilo_Dias
+0,14,S. Berman,http://dbpedia.org/resource/Shelley_Berman,http://dbpedia.org/resource/Susan_Berman
+0,16,S. Morgan,http://dbpedia.org/resource/Thomas_Hunt_Morgan,http://dbpedia.org/resource/Seth_Morgan_(novelist)
+0,17,S. Joshi,http://dbpedia.org/resource/Suresh_Joshi,http://dbpedia.org/resource/Saumya_Joshi
+0,23,R. Alexander,http://dbpedia.org/resource/Ross_Alexander,http://dbpedia.org/resource/Rebecca_Alexander
+0,24,R. Cruze,http://dbpedia.org/resource/James_Cruze,"http://dbpedia.org/resource/Cruze,_Rachel http://dbpedia.org/resource/Rachel_Cruze"
+0,33,M. McCloskey,http://dbpedia.org/resource/Frank_McCloskey,http://dbpedia.org/resource/Molly_McCloskey
+0,34,M. Stewart,http://dbpedia.org/resource/James_Stewart,http://dbpedia.org/resource/Michael_Stewart_(playwright)
+0,36,M. Brooks,http://dbpedia.org/resource/Mel_Brooks,http://dbpedia.org/resource/Max_Brooks http://dbpedia.org/resource/Michelle_Kholos http://dbpedia.org/resource/Maximillian_Brooks
+0,37,M. Flanagan,http://dbpedia.org/resource/Barry_Flanagan,http://dbpedia.org/resource/Martin_Flanagan_(journalist)
+0,45,L. Ullmann,http://dbpedia.org/resource/Viktor_Ullmann,http://dbpedia.org/resource/Linn_Ullmann
+0,46,L. Spender,http://dbpedia.org/resource/Stephen_Spender,http://dbpedia.org/resource/Lillian_Spender http://dbpedia.org/resource/Lily_Headland http://dbpedia.org/resource/Mrs._John_Kent_Spender http://dbpedia.org/resource/Lily_Spender http://dbpedia.org/resource/Lillian_Headland
+0,47,K. Singh,http://dbpedia.org/resource/Karpal_Singh,http://dbpedia.org/resource/Khushwant_Singh http://dbpedia.org/resource/Khushwant_singh http://dbpedia.org/resource/Ghushwant_Singh http://dbpedia.org/resource/Kushwant_Singh http://dbpedia.org/resource/Sardar_Khushwant_Singh
+0,49,K. Bajpai,http://dbpedia.org/resource/Manoj_Bajpayee,http://dbpedia.org/resource/Kanti_Bajpai
+0,57,J. H. Davis,http://dbpedia.org/resource/James_J._Davis,http://dbpedia.org/resource/Mafia_Dynasty:_The_Rise_and_Fall_of_the_Gambino_Crime_Family http://dbpedia.org/resource/John_Hagy_Davis http://dbpedia.org/resource/John_H._Davis_(author) http://dbpedia.org/resource/Mafia_Dynasty http://dbpedia.org/resource/Mafia_Kingfish http://dbpedia.org/resource/Mafia_Kingfish:_Carlos_Marcello_and_the_Assassination_of_John_F._Kennedy
+0,58,J. Green,http://dbpedia.org/resource/Julien_Green,http://dbpedia.org/resource/John_Green_(writer) http://dbpedia.org/resource/John_Michael_Green http://dbpedia.org/resource/Fishingboatproceeds http://dbpedia.org/resource/John_Green_(Author) http://dbpedia.org/resource/John_Green_(author)
+0,60,J. Hill,http://dbpedia.org/resource/John_Hill_(botanist),http://dbpedia.org/resource/Joseph_Hillstrom_King http://dbpedia.org/resource/Joe_H._Hill http://dbpedia.org/resource/Joe_Hill_(writer) http://dbpedia.org/resource/Joe_Hill_King
+0,62,J. Kent,http://dbpedia.org/resource/Joseph_Kent,http://dbpedia.org/resource/Jeff_Kent_(author)
+0,63,J. T. Jr.,http://dbpedia.org/resource/James_Tallmadge_Jr.,"http://dbpedia.org/resource/James_Tiptree,_Jr. http://dbpedia.org/resource/Alice_Bradley_Sheldon http://dbpedia.org/resource/James_M._Tiptree,_Jr http://dbpedia.org/resource/Alice_Sheldon http://dbpedia.org/resource/Alice_B._Sheldon http://dbpedia.org/resource/James_Tiptree http://dbpedia.org/resource/James_Tiptree,_Jnr. http://dbpedia.org/resource/James_Tiptree_Jr http://dbpedia.org/resource/James_Tiptree_Jr. http://dbpedia.org/resource/James_Tiptree,_Jr http://dbpedia.org/resource/Alice_Hastings_Bradley_Sheldon http://dbpedia.org/resource/Racoona_Sheldon http://dbpedia.org/resource/Raccoona_Sheldon http://dbpedia.org/resource/James_Tiptree_Junior"
+0,67,H. Baum,http://dbpedia.org/resource/Vicki_Baum,http://dbpedia.org/resource/Filmmaking_Review http://dbpedia.org/resource/Henry_Baum

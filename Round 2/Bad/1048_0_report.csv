@@ -1,0 +1,8 @@
+F1: 0.40000,Precision: 0.40000,Recall: 0.40000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,R. C. Moody,http://dbpedia.org/resource/Robert_Moody,http://dbpedia.org/resource/Richard_Clement_Moody http://dbpedia.org/resource/Colonel_Moody http://dbpedia.org/resource/R.C._Moody http://dbpedia.org/resource/Richards_Clement_Moody http://dbpedia.org/resource/Richard_Moody http://dbpedia.org/resource/Colonel_R.C._Moody
+0,3,R. C. Jr.,http://dbpedia.org/resource/Richard_Coke_Jr.,"http://dbpedia.org/resource/Raffaele_Cadorna_jr http://dbpedia.org/resource/Raffaele_Cadorna,_Jr."
+0,4,O. A. Khan,http://dbpedia.org/resource/Omar_Ayub_Khan,http://dbpedia.org/resource/Omer_Asghar_Khan http://dbpedia.org/resource/Omar_Asghar_Khan
+0,8,G. Rajapaksa,http://dbpedia.org/resource/Mahinda_Rajapaksa,http://dbpedia.org/resource/Gotabaya_Rajapaksa http://dbpedia.org/resource/Gotabhaya_Rajapaksa http://dbpedia.org/resource/Gotabhaya_Rajapakse
+0,9,G. Johnstone,http://dbpedia.org/resource/George_Johnstone_(congressman),http://dbpedia.org/resource/George_Johnstone_(royal_navy) http://dbpedia.org/resource/George_Johnstone_(Royal_Navy_officer)
+0,10,D. James,http://dbpedia.org/resource/P._D._James,"http://dbpedia.org/resource/David_James_(British_MP) http://dbpedia.org/resource/David_Pelham_James http://dbpedia.org/resource/David_James_(politician,_born_1919) http://dbpedia.org/resource/David_Guthrie-James http://dbpedia.org/resource/David_Guthrie_James http://dbpedia.org/resource/David_James_(British_politician)"

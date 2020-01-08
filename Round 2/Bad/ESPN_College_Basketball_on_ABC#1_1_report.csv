@@ -1,0 +1,9 @@
+F1: 0.30000,Precision: 0.30000,Recall: 0.30000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,4,#3 North Carolina 79,http://dbpedia.org/resource/2008–09_North_Carolina_Tar_Heels_men's_basketball_team,http://dbpedia.org/resource/2006–07_North_Carolina_Tar_Heels_men's_basketball_team
+1,7,Arizona 77,http://dbpedia.org/resource/77_BC,http://dbpedia.org/resource/2006–07_Arizona_Wildcats_men's_basketball_team
+1,8,Connecticut 63,http://dbpedia.org/resource/63_BC,http://dbpedia.org/resource/2006–07_Connecticut_Huskies_men's_basketball_team
+1,10,#6 Texas A&M 56,http://dbpedia.org/resource/5.56×45mm_NATO,http://dbpedia.org/resource/2006–07_Texas_A&M_Aggies_men's_basketball_team
+1,12,Georgia Tech 69,http://dbpedia.org/resource/Georgia_Tech_Yellow_Jackets_football,http://dbpedia.org/resource/2006–07_Georgia_Tech_Yellow_Jackets_men's_basketball_team
+1,13,Gonzaga 86,http://dbpedia.org/resource/Gonzaga_Bulldogs,http://dbpedia.org/resource/2006–07_Gonzaga_Bulldogs_men's_basketball_team
+1,16,Arizona 85,http://dbpedia.org/resource/85_BC,http://dbpedia.org/resource/2006–07_Arizona_Wildcats_men's_basketball_team

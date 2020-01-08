@@ -1,0 +1,4 @@
+"F1: 0.60000","Precision: 0.60000","Recall: 0.60000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","1","They Shoot Horses Don't They?","http://dbpedia.org/resource/They_Shoot_Horses,_Don't_They?_(film)","http://dbpedia.org/resource/They_Shoot_Horses,_Don't_They?_(band)"
+"0","6","The Waterboys","http://dbpedia.org/resource/The_Waterboy","http://dbpedia.org/resource/Waterboys http://dbpedia.org/resource/The_Waterboys http://dbpedia.org/resource/The_Whole_of_the_Moon:_the_Music_of_Mike_Scott_and_the_Waterboys http://dbpedia.org/resource/The_Whole_Of_The_Moon:_The_Music_Of_Mike_Scott_And_The_Waterboys http://dbpedia.org/resource/The_Waterboys_(disambiguation)"

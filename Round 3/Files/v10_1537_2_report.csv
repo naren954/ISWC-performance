@@ -1,0 +1,6 @@
+"F1: 0.60000","Precision: 0.60000","Recall: 0.60000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"2","3","J. Langford","http://dbpedia.org/resource/Frances_Langford","http://dbpedia.org/resource/John_Langford_(computer_scientist)"
+"2","5","O. W. Fiedler","http://dbpedia.org/resource/E._W._Fiedler","http://dbpedia.org/resource/Wilhelm_Fiedler http://dbpedia.org/resource/Otto_Wilhelm_Fiedler"
+"2","6","P. Hayden","http://dbpedia.org/resource/Ferdinand_Vandeveer_Hayden","http://dbpedia.org/resource/Patrick_Hayden_(scientist)"
+"2","7","A. Werner","http://dbpedia.org/resource/Abraham_Gottlob_Werner","http://dbpedia.org/resource/Alfred_Werner"

@@ -1,0 +1,5 @@
+"F1: 0.70000","Precision: 0.70000","Recall: 0.70000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"2","4","Spartacus: Blood and Sand","http://dbpedia.org/resource/Spartacus_(TV_series)","http://dbpedia.org/resource/The_Red_Serpent http://dbpedia.org/resource/Spartacus:_Blood_and_Sand http://dbpedia.org/resource/Spartacus_(season_1)"
+"2","9","Sharpe's Regiment","http://dbpedia.org/resource/Sharpe_(TV_series)","http://dbpedia.org/resource/Sharpe's_Regiment_(TV_programme)"
+"2","10","Sharpe's Sword","http://dbpedia.org/resource/Sharpe_(TV_series)","http://dbpedia.org/resource/Sharpe's_Sword_(TV_programme)"

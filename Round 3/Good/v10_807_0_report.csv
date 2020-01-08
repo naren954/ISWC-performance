@@ -1,0 +1,7 @@
+F1: 0.81481,Precision: 0.81481,Recall: 0.81481,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,4,Westervelt-Lydecker House,http://dbpedia.org/resource/Garret_Lydecker_House,http://dbpedia.org/resource/Westervelt-Lydecker_House
+0,10,Western State Hospital,http://dbpedia.org/resource/Western_State_Hospital_(Virginia),http://dbpedia.org/resource/Western_State_Hospital_(Kentucky) http://dbpedia.org/resource/Western_Lunatic_Asylum
+0,14,Western Maryland Railway Station,http://dbpedia.org/resource/Pennsylvania_Station_(Baltimore),"http://dbpedia.org/resource/Western_Maryland_Railway_Station_(Hagerstown,_Maryland)"
+0,15,Western Maryland Railway Station,http://dbpedia.org/resource/Pennsylvania_Station_(Baltimore),"http://dbpedia.org/resource/Western_Maryland_Railway_Station_(Cumberland,_Maryland)"
+0,17,Western Maryland Depot,http://dbpedia.org/resource/Denver_and_Rio_Grande_Western_Depot_(Salt_Lake_City),"http://dbpedia.org/resource/Western_Maryland_Depot_(Parsons,_West_Virginia)"

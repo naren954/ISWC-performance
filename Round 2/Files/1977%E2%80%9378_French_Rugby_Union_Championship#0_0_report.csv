@@ -1,0 +1,5 @@
+"F1: 0.80000","Precision: 0.80000","Recall: 0.80000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","5","Romans","http://fr.dbpedia.org/resource/Union_sportive_romanaise_et_péageoise","http://dbpedia.org/resource/Union_Sportive_Romanaise_et_Péageoise"
+"0","6","Toulouse","http://dbpedia.org/resource/Toulouse_Olympique","http://dbpedia.org/resource/Stade_Toulousain http://dbpedia.org/resource/Toulouse_Rugby http://dbpedia.org/resource/Stade_toulousain http://dbpedia.org/resource/Stade_Toulouse"
+"0","12","Touloun","http://dbpedia.org/resource/Toulon","http://dbpedia.org/resource/Rugby_club_toulonnais http://dbpedia.org/resource/RC_Toulonnais http://dbpedia.org/resource/Toulon_RFC http://dbpedia.org/resource/Toulon_Rugby http://dbpedia.org/resource/RC_Toulon"

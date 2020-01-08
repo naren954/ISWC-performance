@@ -1,0 +1,4 @@
+"F1: 0.83333","Precision: 0.83333","Recall: 0.83333"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","1","J. Jordan","http://dbpedia.org/resource/June_Jordan","http://dbpedia.org/resource/Jim_Jordan_(actor) http://dbpedia.org/resource/Jim_Jordan_(actor_born_1896) http://dbpedia.org/resource/Jim_Jordan_(radio) http://dbpedia.org/resource/Jim_Jordon_(radio) http://dbpedia.org/resource/Jim_Jordan_(Fibber_McGee) http://dbpedia.org/resource/James_Edward_Jordan http://dbpedia.org/resource/Jim_Jordan_(actor,_born_1896)"
+"0","8","H. Jackson","http://dbpedia.org/resource/Howard_Jackson_(kickboxer)","http://dbpedia.org/resource/Hal_Jackson"

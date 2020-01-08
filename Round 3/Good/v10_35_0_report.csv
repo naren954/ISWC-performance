@@ -1,0 +1,16 @@
+F1: 0.90141,Precision: 0.90141,Recall: 0.90141,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,46,T. Clarke,http://dbpedia.org/resource/Tommy_Clarke,http://dbpedia.org/resource/Ty_Clarke
+0,52,T. Mason,http://dbpedia.org/resource/Tom_Mason_(American_football),http://dbpedia.org/resource/Tony_Mason_(American_football) http://dbpedia.org/resource/Tony_Mason_(football_coach)
+0,58,T. Coleman,http://dbpedia.org/resource/Will_Coleman_(American_football),"http://dbpedia.org/resource/A.M._Coleman http://dbpedia.org/resource/A._M._""Tonto""_Coleman http://dbpedia.org/resource/A.M._""Tonto""_Coleman http://dbpedia.org/resource/A._M._Coleman http://dbpedia.org/resource/Tonto_Coleman"
+0,66,T. Young,http://dbpedia.org/resource/Tyrone_Young,http://dbpedia.org/resource/Tom_Young_(American_football) http://dbpedia.org/resource/Tom_Young_(football_coach)
+0,67,T. Wilson,"http://dbpedia.org/resource/Tom_Wilson_(footballer,_born_1930)",http://dbpedia.org/resource/Tom_Wilson_(American_football)
+0,68,T. Scott,http://dbpedia.org/resource/Tommy_Scott_(coach),http://dbpedia.org/resource/Tom_Scott_(basketball) http://dbpedia.org/resource/Tom_Scott_(coach)
+0,76,T. Jones,http://dbpedia.org/resource/Tony_Jones_(offensive_tackle),http://dbpedia.org/resource/Tom_Jones_(coach)
+0,92,T. Taylor,http://dbpedia.org/resource/Tyshawn_Taylor,http://dbpedia.org/resource/Tim_Taylor_(ice_hockey_coach)
+0,94,T. Campbell,http://dbpedia.org/resource/Trent_Campbell,http://dbpedia.org/resource/Tilden_Campbell
+0,101,T. Eck,http://dbpedia.org/resource/Don_Eck,http://dbpedia.org/resource/Thomas_Eck
+0,104,"Thomas A. Bogle, Jr.",http://dbpedia.org/resource/Thomas_A._Bogle_Jr.,"http://dbpedia.org/resource/Thomas_A._Bogle,_Jr."
+0,120,T. Jefferies,http://dbpedia.org/resource/Val_Jeffery,http://dbpedia.org/resource/Ted_Jeffries http://dbpedia.org/resource/Ted_Jefferies
+0,132,T. A. Dwight Jones,http://dbpedia.org/resource/Tad_Jones_(American_football),http://dbpedia.org/resource/T_A_Dwight_Jones http://dbpedia.org/resource/T._A._D._Jones http://dbpedia.org/resource/Tad_Jones_(football) http://dbpedia.org/resource/T._A._Dwight_Jones http://dbpedia.org/resource/TA_Dwight_Jones http://dbpedia.org/resource/T.A._Dwight_Jones
+0,141,S. Clark,http://dbpedia.org/resource/Steve_Clark_(soccer),http://dbpedia.org/resource/Stewart_Clark

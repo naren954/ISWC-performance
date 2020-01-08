@@ -1,0 +1,6 @@
+F1: 0.73333,Precision: 0.73333,Recall: 0.73333,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,5,She,http://dbpedia.org/resource/She_(Green_Day_song),http://dbpedia.org/resource/She_(1982_film)
+1,6,Conan the Barbarian,http://dbpedia.org/resource/Conan_the_Barbarian_(2011_film),http://dbpedia.org/resource/Conan_the_Conqueror_(film) http://dbpedia.org/resource/Conan_the_Barbarian_(1982_film) http://dbpedia.org/resource/Riddle_of_Steel http://dbpedia.org/resource/The_Legend_of_Conan http://dbpedia.org/resource/The_Legend_of_Conan_(2014_film) http://dbpedia.org/resource/Conan_the_Conqueror_(upcoming_film) http://dbpedia.org/resource/The_Legend_of_Conan_(film)
+1,9,The Ferret,,http://dbpedia.org/resource/The_Ferret http://dbpedia.org/resource/The_ferret
+1,24,The Assault,http://dbpedia.org/resource/Star_Wars:_Rebel_Assault_II:_The_Hidden_Empire,http://dbpedia.org/resource/De_aanslag http://dbpedia.org/resource/The_Assault_(film) http://dbpedia.org/resource/De_Aanslag_(film)

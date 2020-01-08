@@ -1,0 +1,33 @@
+F1: 0.81871,Precision: 0.81871,Recall: 0.81871,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,N. Dempsey,http://dbpedia.org/resource/Jack_Dempsey,"http://dbpedia.org/resource/Jack_Nonpareil_Dempsey http://dbpedia.org/resource/""Nonpareil""_Dempsey http://dbpedia.org/resource/Jack_""The_Nonpareil""_Dempsey http://dbpedia.org/resource/Jack_(Nonpareil)_Dempsey http://dbpedia.org/resource/Nonpareil_Dempsey http://dbpedia.org/resource/Nonpareil_Jack_Dempsey http://dbpedia.org/resource/Jack_""Nonpareil""_Dempsey"
+0,3,N. Valdés,http://dbpedia.org/resource/Víctor_Valdés,http://dbpedia.org/resource/Niño_Valdés http://dbpedia.org/resource/Nino_Valdez http://dbpedia.org/resource/Nino_Valdes
+0,6,N. Locche,,http://dbpedia.org/resource/Nicolino_Locche http://dbpedia.org/resource/Locche
+0,8,N. Valdés,http://dbpedia.org/resource/Víctor_Valdés,http://dbpedia.org/resource/Niño_Valdés http://dbpedia.org/resource/Nino_Valdez http://dbpedia.org/resource/Nino_Valdes
+0,18,M. Hunter,http://dbpedia.org/resource/Michael_Hunter_(American_boxer),http://dbpedia.org/resource/Mike_'The_Bounty'_Hunter http://dbpedia.org/resource/Mike_(The_Bounty)_Hunter http://dbpedia.org/resource/Mike_Hunter_(boxer)
+0,20,"M. "". Sullivan",http://dbpedia.org/resource/Lawrence_Sullivan_Ross,"http://dbpedia.org/resource/Mike_""Twin""_Sullivan"
+0,21,M. Wolgast,http://dbpedia.org/resource/Ad_Wolgast,http://dbpedia.org/resource/Midget_Wolgast http://dbpedia.org/resource/Joseph_Loscalzo
+0,51,K. Williams,http://dbpedia.org/resource/Kyle_Williams_(defensive_tackle),http://dbpedia.org/resource/John_Gutenko http://dbpedia.org/resource/Kid_Williams
+0,63,J. Torres,http://dbpedia.org/resource/Javier_Torres,"http://dbpedia.org/resource/Chegui_Torres http://dbpedia.org/resource/José_Torres http://dbpedia.org/resource/José_""Chegüi""_Torres"
+0,65,J. Torres,http://dbpedia.org/resource/Javier_Torres,"http://dbpedia.org/resource/Chegui_Torres http://dbpedia.org/resource/José_Torres http://dbpedia.org/resource/José_""Chegüi""_Torres"
+0,70,J. Williams,http://dbpedia.org/resource/Justin_Williams_(basketball),http://dbpedia.org/resource/Johnny_Williams_(boxer)
+0,75,J. Dundee,http://dbpedia.org/resource/Joe_Dundee,http://dbpedia.org/resource/Johnny_Dundee
+0,76,J. Clark,http://dbpedia.org/resource/Jim_Clark_(Scottish_footballer),http://dbpedia.org/resource/John_Clark_(boxer)
+0,86,J. Erskine,http://dbpedia.org/resource/Joe_Erskine_(Welsh_boxer),"http://dbpedia.org/resource/Joseph_H._Erskine,_Sr. http://dbpedia.org/resource/Joe_Erskine_(American_boxer) http://dbpedia.org/resource/Joey_Erskine"
+0,88,J. Brown,http://dbpedia.org/resource/Jackie_Brown_(English_boxer),http://dbpedia.org/resource/Joe_Brown_(boxer)
+0,91,J. Lloyd,http://dbpedia.org/resource/John_Lloyd_(tennis),http://dbpedia.org/resource/Jimmy_Lloyd http://dbpedia.org/resource/James_Lloyd_(boxer)
+0,93,J. Elliott,http://dbpedia.org/resource/John_Elliott_(British_boxer),http://dbpedia.org/resource/Jimmy_Elliott
+0,96,J. Johnson,http://dbpedia.org/resource/Joe_Johnson_(basketball),http://dbpedia.org/resource/Jim_Johnson_(boxer) http://dbpedia.org/resource/Battling_Jim_Johnson
+0,98,J. Smith,http://dbpedia.org/resource/James_Smith_(boxer),http://dbpedia.org/resource/Jem_smith http://dbpedia.org/resource/Jem_Smith
+0,99,J. Mace,http://dbpedia.org/resource/John_Mace_(English_cricketer),http://dbpedia.org/resource/Jem_mace http://dbpedia.org/resource/Jem_Mace
+0,109,J. Thompson,http://dbpedia.org/resource/Jocko_Thompson,http://dbpedia.org/resource/Jack_Thompson_(boxer)
+0,111,J. Petersen,http://dbpedia.org/resource/Jim_Petersen,http://dbpedia.org/resource/Jack_Petersen
+0,115,J. Delaney,http://dbpedia.org/resource/Joe_Delaney,http://dbpedia.org/resource/Jack_Delaney
+0,128,H. Thomas,http://dbpedia.org/resource/Herb_Thomas,http://dbpedia.org/resource/Henry_Thomas_(boxer) http://dbpedia.org/resource/A._Henry_Thomas
+0,133,H. Singh,http://dbpedia.org/resource/Hanumant_Singh,http://dbpedia.org/resource/Hawa_Singh
+0,139,H. Johnson,http://dbpedia.org/resource/Harold_Johnson_(basketball),http://dbpedia.org/resource/Harry_Johnson_(boxer)
+0,142,H. Johnson,http://dbpedia.org/resource/Harold_Johnson_(basketball),http://dbpedia.org/resource/Harold_Johnson_(boxer)
+0,149,G. Jones,http://dbpedia.org/resource/Gene_Jones_(golfer),http://dbpedia.org/resource/William_Jones_(boxer) http://dbpedia.org/resource/Gorilla_Jones
+0,154,G. Sutton,http://dbpedia.org/resource/Greg_Sutton_(basketball),http://dbpedia.org/resource/George_Sutton_(boxer)
+0,156,G. Godfrey,http://dbpedia.org/resource/George_Godfrey_(boxer_born_1897),http://dbpedia.org/resource/George_Godfrey_(boxer_born_1853)
+0,164,G. Hernández,http://dbpedia.org/resource/Genaro_Hernández,http://dbpedia.org/resource/Gabriel_Hernández_(boxer) http://dbpedia.org/resource/Gabriel_Hernandez_(boxer)

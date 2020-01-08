@@ -1,0 +1,3 @@
+F1: 0.95833,Precision: 0.95833,Recall: 0.95833,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,19,"Victoria University, Australia",http://dbpedia.org/resource/Victoria_(Australia),"http://dbpedia.org/resource/Footscray_Technical_College http://dbpedia.org/resource/Victoria_University_of_Technology http://dbpedia.org/resource/Footscray_Institute_of_Technology http://dbpedia.org/resource/Western_Melbourne_Institute_of_TAFE http://dbpedia.org/resource/Victoria_University,_Melbourne http://dbpedia.org/resource/Victoria_University,_Australia http://dbpedia.org/resource/Vic_Uni http://dbpedia.org/resource/Student_Village_(Victoria_University) http://dbpedia.org/resource/Western_Institute_(Austraila)"

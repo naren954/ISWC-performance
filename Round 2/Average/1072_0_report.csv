@@ -1,0 +1,20 @@
+F1: 0.73134,Precision: 0.73134,Recall: 0.73134,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,"Sir John Doyle, 1st Baronet","http://dbpedia.org/resource/Sir_John_Orde,_1st_Baronet","http://dbpedia.org/resource/John_Doyle_(general) http://dbpedia.org/resource/John_Doyle_(General) http://dbpedia.org/resource/Sir_John_Doyle,_1st_Baronet http://dbpedia.org/resource/John_Doyle_(British_Army_officer)"
+0,2,"Sir John Braithwaite, 1st Baronet","http://dbpedia.org/resource/Sir_John_Orde,_1st_Baronet","http://dbpedia.org/resource/Sir_John_Braithwaite,_1st_Baronet"
+0,4,"Sir James Outram, 1st Baronet","http://dbpedia.org/resource/Sir_James_Carmichael-Smyth,_1st_Baronet","http://dbpedia.org/resource/James,_1st_Baronet_Outram http://dbpedia.org/resource/Sir_James_Outram http://dbpedia.org/resource/James_Outram_(British_officer) http://dbpedia.org/resource/James_Outram,_1st_Baronet http://dbpedia.org/resource/Sir_James_Outram,_1st_Baronet"
+0,7,Sir Henry William Carr,"http://dbpedia.org/resource/William_Beresford,_1st_Viscount_Beresford",http://dbpedia.org/resource/Sir_Henry_William_Carr
+0,17,"Sir Charles Ogle, 2nd Baronet","http://dbpedia.org/resource/Sir_Charles_Asgill,_2nd_Baronet","http://dbpedia.org/resource/Sir_Charles_Ogle,_2nd_Baronet http://dbpedia.org/resource/Charles_Ogle,_2nd_Baronet http://dbpedia.org/resource/Charles_Ogle_(British_Admiral)"
+0,19,"Sir Charles Madden, 2nd Baronet","http://dbpedia.org/resource/Sir_Charles_Asgill,_2nd_Baronet","http://dbpedia.org/resource/Sir_Charles_Madden,_2nd_Baronet http://dbpedia.org/resource/Sir_Charles_Edward_Madden,_2nd_Baronet"
+0,22,"Sir Charles Douglas, 1st Baronet","http://dbpedia.org/resource/Sir_James_Douglas,_1st_Baronet","http://dbpedia.org/resource/Sir_Charles_Douglas,_1st_Baronet http://dbpedia.org/resource/Charles_Douglas_(admiral) http://dbpedia.org/resource/Douglas,_Sir_Charles"
+0,23,"Sir Charles Cotton, 5th Baronet","http://dbpedia.org/resource/Sir_Charles_Fergusson,_7th_Baronet","http://dbpedia.org/resource/Sir_Charles_Cotton,_Admiral_of_the_White http://dbpedia.org/resource/Sir_Charles_Cotton,_5th_Baronet http://dbpedia.org/resource/Charles_Cotton_(British_admiral)"
+0,25,Sir Alexander Maitland Sharp Bethune,http://dbpedia.org/resource/Alexander_Bethune_(baronet),http://dbpedia.org/resource/Sir_Alexander_Maitland_Sharp_Bethune
+0,32,S. Thayer,http://dbpedia.org/resource/Sylvanus_Thayer,http://dbpedia.org/resource/Simeon_Thayer
+0,34,S. Nenadović,http://dbpedia.org/resource/Matija_Nenadović,http://dbpedia.org/resource/Sima_Nenadovic http://dbpedia.org/resource/Sima_Nenadović http://dbpedia.org/resource/Simeon_Nenadović
+0,40,S. Bent,http://dbpedia.org/resource/Spencer_Bent,http://dbpedia.org/resource/Silas_Bent_(Naval_Officer) http://dbpedia.org/resource/Silas_Bent_(naval_officer)
+0,43,S. Smith,http://dbpedia.org/resource/Joseph_Smith,http://dbpedia.org/resource/W._Sidney_Smith http://dbpedia.org/resource/William_Sidney_Smith http://dbpedia.org/resource/William_Sydney_Smith http://dbpedia.org/resource/Sidney_Smith_(Royal_Navy_officer) http://dbpedia.org/resource/Sidney_Smith_(admiral) http://dbpedia.org/resource/Sir_Sidney_Smith
+0,44,S. Phillips,http://dbpedia.org/resource/Arthur_Phillip,"http://dbpedia.org/resource/Sidney_Phillips http://dbpedia.org/resource/Sydney_Phillips http://dbpedia.org/resource/Sidney_C._Phillips,_Jr."
+0,48,S. D. Jackman,http://dbpedia.org/resource/Douglas_Jackman,http://dbpedia.org/resource/Sidney_D._Jackman http://dbpedia.org/resource/Sidney_Drake_Jackman http://dbpedia.org/resource/Sydney_Jackman
+0,50,S. Clive,http://dbpedia.org/resource/Robert_Clive,http://dbpedia.org/resource/George_Sidney_Clive http://dbpedia.org/resource/George_Clive_(soldier) http://dbpedia.org/resource/Sidney_Clive http://dbpedia.org/resource/George_Clive_(British_Army_officer)
+0,55,S. Galica,http://dbpedia.org/resource/Władysław_Galica,http://dbpedia.org/resource/Shota_Galica http://dbpedia.org/resource/Shote_Galica
+0,67,S. Ōmori,http://dbpedia.org/resource/Sentarō_Ōmori,http://dbpedia.org/resource/Shigetaka_Omori http://dbpedia.org/resource/Shigetaka_Ōmori

@@ -1,0 +1,45 @@
+F1: 0.69930,Precision: 0.69930,Recall: 0.69930,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,4,B. Higgins,http://dbpedia.org/resource/Billy_Higgins,http://dbpedia.org/resource/Brian_Higgins_(producer)
+1,11,S. Myers,http://dbpedia.org/resource/Sam_Myers,http://dbpedia.org/resource/Shirley_Myers
+1,13,J. Williams,http://dbpedia.org/resource/John_Williams,http://dbpedia.org/resource/Jake_Williams http://dbpedia.org/resource/Rex_the_Dog http://dbpedia.org/resource/JX_(artist)
+1,15,A. Hegarty,http://dbpedia.org/resource/Mary_Hegarty,http://dbpedia.org/resource/Antony_Hegarty http://dbpedia.org/resource/Anohni
+1,16,R. White,http://dbpedia.org/resource/Rick_White_(musician),"http://dbpedia.org/resource/Ronnie_White http://dbpedia.org/resource/Ronald_White http://dbpedia.org/resource/White,_Ronald"
+1,18,D. McDaniels,http://dbpedia.org/resource/David_Daniels_(countertenor),"http://dbpedia.org/resource/Darryl_""DMC""_McDaniels http://dbpedia.org/resource/Darryl_“DMC”_McDaniels http://dbpedia.org/resource/Darryl_Lovelace http://dbpedia.org/resource/Darryl_""D.M.C.""_McDaniels http://dbpedia.org/resource/D.M.C._Matthews_McDaniels http://dbpedia.org/resource/Darryl_McDaniels http://dbpedia.org/resource/D.m.c. http://dbpedia.org/resource/Darryl_DMC_Daniels http://dbpedia.org/resource/Darryl_Matthews_McDaniels"
+1,26,L. Creed,http://dbpedia.org/resource/Creedence_Clearwater_Revival,http://dbpedia.org/resource/Linda_Creed
+1,27,R. Zenker,http://dbpedia.org/resource/Georg_August_Zenker,http://dbpedia.org/resource/Ramon_Zenker
+1,30,M. Green,http://dbpedia.org/resource/Martyn_Green,http://dbpedia.org/resource/Marv_Green http://dbpedia.org/resource/Marvin_Green
+1,31,S. Mac,http://dbpedia.org/resource/TobyMac,http://dbpedia.org/resource/Rokstone_Studios http://dbpedia.org/resource/Steve_Mac
+1,32,T. Seals,http://dbpedia.org/resource/Dan_Seals,http://dbpedia.org/resource/Troy_Seals http://dbpedia.org/resource/There's_a_Honky_Tonk_Angel
+1,33,G. Jones,http://dbpedia.org/resource/Gloria_Jones,"http://dbpedia.org/resource/George_Glenn_Jones http://dbpedia.org/resource/No_Show_Jones http://dbpedia.org/resource/No-Show_Jones http://dbpedia.org/resource/Wrapped_Around_Her_Finger http://dbpedia.org/resource/George_Jones http://dbpedia.org/resource/George_Jones_(musician) http://dbpedia.org/resource/Jones,_George http://dbpedia.org/resource/You're_Still_on_My_Mind http://dbpedia.org/resource/George_Jones_discography"
+1,34,L. Lynn,http://dbpedia.org/resource/Common_(rapper),"http://dbpedia.org/resource/Lynn,_Loretta http://dbpedia.org/resource/Loretta_Lynn http://dbpedia.org/resource/Loretta_Lynne http://dbpedia.org/resource/Loretta_Webb http://dbpedia.org/resource/Here's_loretta_lynn http://dbpedia.org/resource/White_Christmas_Blue_(album) http://dbpedia.org/resource/White_Christmas_Blue http://dbpedia.org/resource/Loretta_Lynn_Plantation_House"
+1,39,C. DeGarmo,http://dbpedia.org/resource/Diana_DeGarmo,http://dbpedia.org/resource/Christopher_Lee_DeGarmo http://dbpedia.org/resource/Chris_DeGarmo
+1,40,J. Bowen,http://dbpedia.org/resource/Jimmy_Bowen,http://dbpedia.org/resource/Jeffrey_Bowen
+1,41,T. Snow,http://dbpedia.org/resource/Thomas_Snow_(pianist),http://dbpedia.org/resource/Tom_Snow_(songwriter) http://dbpedia.org/resource/Tom_Snow
+1,46,J. Ryan,http://dbpedia.org/resource/John_Ryan_(cartoonist),http://dbpedia.org/resource/John_Ryan_(musician) http://dbpedia.org/resource/John_Ryan_(singer)
+1,48,L. Payne,http://dbpedia.org/resource/Liam_Payne,http://dbpedia.org/resource/Leon_Payne
+1,49,S. Carpenter,http://dbpedia.org/resource/Karen_Carpenter,http://dbpedia.org/resource/Stephen_Carpenter
+1,51,B. Mann,http://dbpedia.org/resource/Billy_Mann,http://dbpedia.org/resource/Barry_Mann
+1,59,D. Loggins,http://dbpedia.org/resource/Kenny_Loggins,http://dbpedia.org/resource/David_Loggins http://dbpedia.org/resource/Dave_Loggins http://dbpedia.org/resource/David_Allen_Loggins http://dbpedia.org/resource/Dave_loggins
+1,60,O. C. Scene,http://dbpedia.org/resource/The_D.O.C.,http://dbpedia.org/resource/Ocean_Colour_Scene http://dbpedia.org/resource/Ocean_Color_Scene
+1,64,K. Reid,http://dbpedia.org/resource/James_Reid_(actor),http://dbpedia.org/resource/Keith_Reid
+1,68,J. Farrar,http://dbpedia.org/resource/Jay_Farrar,"http://dbpedia.org/resource/John_Farrar_(musician) http://dbpedia.org/resource/John_Farrar http://dbpedia.org/resource/Farrar,_John"
+1,72,P. Berger,http://dbpedia.org/resource/Petra_Berger,http://dbpedia.org/resource/Patrik_Berger_(producer) http://dbpedia.org/resource/Patrik_Berger_(music_producer) http://dbpedia.org/resource/Patrik_Berger_(record_producer)
+1,76,D. Lee,http://dbpedia.org/resource/Dave_Lee_(jazz_musician),http://dbpedia.org/resource/Patches_(Dickey_Lee_song) http://dbpedia.org/resource/Laurie_(Strange_Things_Happen) http://dbpedia.org/resource/Dickey_Lee http://dbpedia.org/resource/Dicky_Lee http://dbpedia.org/resource/Dickie_Lee
+1,79,W. Holyfield,http://dbpedia.org/resource/Michael_Holyfield,http://dbpedia.org/resource/Wayland_Holyfield
+1,81,W. Phillips,http://dbpedia.org/resource/Phillip_Phillips,http://dbpedia.org/resource/Wilson_Phillips http://dbpedia.org/resource/Wilson_phillipps http://dbpedia.org/resource/Wilson_Philips
+1,88,R. B. Sherman,http://dbpedia.org/resource/Richard_M._Sherman,"http://dbpedia.org/resource/Self_Portrait_(painting) http://dbpedia.org/resource/Sherman,_Robert_B http://dbpedia.org/resource/Armistice_and_Dedication_Day http://dbpedia.org/resource/Sherman,_Robert_B. http://dbpedia.org/resource/Armistice_and_dedication_day http://dbpedia.org/resource/Moses_(painting) http://dbpedia.org/resource/Sacrifice_(painting) http://dbpedia.org/resource/Carousel_In_The_Country http://dbpedia.org/resource/Robert_Bernard_Sherman http://dbpedia.org/resource/Robert_B._Sherman"
+1,91,T. Nichols,http://dbpedia.org/resource/Todd_Nichols_(musician),http://dbpedia.org/resource/Tim_Nichols
+1,93,T. Kellett,http://dbpedia.org/resource/Red_Kellett,http://dbpedia.org/resource/Tim_Kellett
+1,95,C. B. Jr.,http://dbpedia.org/resource/Nat_Adderley_Jr.,"http://dbpedia.org/resource/Clint_Ballard http://dbpedia.org/resource/Clint_Ballard,_Jr. http://dbpedia.org/resource/Clint_Ballard_Jr."
+1,100,B. Smith,http://dbpedia.org/resource/Ne-Yo,http://dbpedia.org/resource/Bruce_Smith_(musician)
+1,104,W. Holyfield,http://dbpedia.org/resource/Michael_Holyfield,http://dbpedia.org/resource/Wayland_Holyfield
+1,106,L. Lynn,http://dbpedia.org/resource/Common_(rapper),"http://dbpedia.org/resource/Lynn,_Loretta http://dbpedia.org/resource/Loretta_Lynn http://dbpedia.org/resource/Loretta_Lynne http://dbpedia.org/resource/Loretta_Webb http://dbpedia.org/resource/Here's_loretta_lynn http://dbpedia.org/resource/White_Christmas_Blue_(album) http://dbpedia.org/resource/White_Christmas_Blue http://dbpedia.org/resource/Loretta_Lynn_Plantation_House"
+1,113,P. Williams,http://dbpedia.org/resource/Pharrell_Williams,http://dbpedia.org/resource/Paul_Williams_(songwriter)
+1,114,W. Holyfield,http://dbpedia.org/resource/Michael_Holyfield,http://dbpedia.org/resource/Wayland_Holyfield
+1,115,S. Moore,http://dbpedia.org/resource/Gary_Moore,http://dbpedia.org/resource/Sick_Puppies http://dbpedia.org/resource/Emma_Anzai http://dbpedia.org/resource/Mark_Goodwin http://dbpedia.org/resource/Shimon_Moore http://dbpedia.org/resource/Chris_Mileski http://dbpedia.org/resource/Killing_Myself_for_Christmas
+1,116,T. Clark,http://dbpedia.org/resource/Twinkie_Clark,http://dbpedia.org/resource/Terri_Clark
+1,117,T. Shapiro,http://dbpedia.org/resource/Ted_Shapiro,http://dbpedia.org/resource/Tom_Shapiro
+1,127,K. Richey,http://dbpedia.org/resource/Kelly_Richey,http://dbpedia.org/resource/Thorn_in_My_Heart http://dbpedia.org/resource/Kim_Richey http://dbpedia.org/resource/Kim_richey
+1,132,E. Estefan,http://dbpedia.org/resource/Gloria_Estefan,"http://dbpedia.org/resource/Emilio_Estéfan,_Jr. http://dbpedia.org/resource/Emilio_Estefan_Jr http://dbpedia.org/resource/Emilio_Estefan_Jr. http://dbpedia.org/resource/Emilio_Estefan,_Jr. http://dbpedia.org/resource/Emilio_Estefan"
+1,133,J. Russell,http://dbpedia.org/resource/John_Russell_(actor),http://dbpedia.org/resource/Johnny_Russell_(singer)

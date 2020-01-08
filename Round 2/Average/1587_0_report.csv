@@ -1,0 +1,6 @@
+F1: 0.73333,Precision: 0.73333,Recall: 0.73333,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,6,End of the Road,http://dbpedia.org/resource/End_of_the_Road_(Boyz_II_Men_song),http://dbpedia.org/resource/End_of_The_Road http://dbpedia.org/resource/Al_Final_Del_Camino http://dbpedia.org/resource/End_of_the_road http://dbpedia.org/resource/Al_Final_del_Camino http://dbpedia.org/resource/End_Of_The_Road http://dbpedia.org/resource/End_of_the_Road
+0,8,"Elle, tu l'aimes...",http://dbpedia.org/resource/Harem_(song),"http://dbpedia.org/resource/Elle,_tu_l'aimes... http://dbpedia.org/resource/Elle,_tu_l'aimes"
+0,12,Don't You Want Me,http://dbpedia.org/resource/Don't_You_Want_Me_(Jody_Watley_song),http://dbpedia.org/resource/Don't_You_Want_Me_(Alcazar_song) http://dbpedia.org/resource/Don't_you_want_me http://dbpedia.org/resource/Don't_You_Want_Me_Baby_(Mandy_Smith_song) http://dbpedia.org/resource/Don't_You_Want_Me? http://dbpedia.org/resource/Don't_You_Want_Me http://dbpedia.org/resource/Dont_You_Want_Me http://dbpedia.org/resource/Don't_You_Want_Me_(Human_League) http://dbpedia.org/resource/Don't_You_Want_Me_(song)
+0,13,Don't Tell Me,http://dbpedia.org/resource/Don't_Tell_Me_(Madonna_song),http://dbpedia.org/resource/Don't_Tell_Me_(Avril_Lavigne_song)

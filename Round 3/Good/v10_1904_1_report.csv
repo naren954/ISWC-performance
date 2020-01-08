@@ -1,0 +1,10 @@
+F1: 0.92157,Precision: 0.92157,Recall: 0.92157,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,4,The Merchants' War,http://dbpedia.org/resource/The_Merchants'_War_(Stross_novel),http://dbpedia.org/resource/Charlie_Stross http://dbpedia.org/resource/Equoid http://dbpedia.org/resource/On_Her_Majesty's_Occult_Service http://dbpedia.org/resource/The_Merchants'_War_(2007_novel) http://dbpedia.org/resource/Laundryverse http://dbpedia.org/resource/The_Merchant_Princes http://dbpedia.org/resource/Laundry_files http://dbpedia.org/resource/Merchant_Princes http://dbpedia.org/resource/Charles_Stross http://dbpedia.org/resource/Sharles_Stross
+1,62,The Exposed,http://dbpedia.org/resource/Exposed_(Kiss_video),http://dbpedia.org/resource/The_Exposed_(Animorphs) http://dbpedia.org/resource/The_exposed http://dbpedia.org/resource/The_Exposed_(novel)
+1,63,Crash,http://dbpedia.org/resource/Crash_(Ballard_novel),http://dbpedia.org/resource/Crash_(1973_novel) http://dbpedia.org/resource/Crash_(J._G._Ballard_novel) http://dbpedia.org/resource/Crash_(J._G._Ballard)
+1,69,The Hidden,http://dbpedia.org/resource/Lioness:_Hidden_Treasures,http://dbpedia.org/resource/The_Hidden_(novel) http://dbpedia.org/resource/The_Hidden_(Animorphs)
+1,72,The Mummy Case,http://dbpedia.org/resource/The_Mummy_Case,http://dbpedia.org/resource/The_Mummy_Case_(The_Hardy_Boys_Casefiles) http://dbpedia.org/resource/The_Mummy_Case_(Hardy_Boys)
+1,74,The Alien,http://dbpedia.org/resource/Aliens_(film),http://dbpedia.org/resource/The_Alien_(Animorphs) http://dbpedia.org/resource/The_Alien_(novel)
+1,76,The Secret,http://dbpedia.org/resource/The_Secret_Circle,http://dbpedia.org/resource/The_Secret_(novel) http://dbpedia.org/resource/The_Secret_(Animorphs)
+1,78,The Sacrifice,http://dbpedia.org/resource/Sacrifice_(novel),http://dbpedia.org/resource/The_Sacrifice_(novel) http://dbpedia.org/resource/The_Sacrifice_(Animorphs)

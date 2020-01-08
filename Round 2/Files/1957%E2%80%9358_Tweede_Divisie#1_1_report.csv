@@ -1,0 +1,5 @@
+"F1: 0.70000","Precision: 0.70000","Recall: 0.70000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","2","Enschedese Boys","http://dbpedia.org/resource/FC_Twente","http://dbpedia.org/resource/Enschedese_Boys"
+"1","8","Zwartemeer","nan","http://dbpedia.org/resource/Zwartemeer"
+"1","14","Zwolsche Boys","nan","http://dbpedia.org/resource/Zwolsche_Boys http://dbpedia.org/resource/PEC_Zwolle http://dbpedia.org/resource/PEC_Zwolle_'82 http://dbpedia.org/resource/FC_Zwolle"

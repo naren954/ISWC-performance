@@ -1,0 +1,6 @@
+F1: 0.73333,Precision: 0.73333,Recall: 0.73333,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,4,D. Wilson,http://dbpedia.org/resource/Tracy_Wilson,http://dbpedia.org/resource/David_Wilson_(figure_skating) http://dbpedia.org/resource/David_Wilson_(figure_skater)
+1,9,J. Deutschland,http://dbpedia.org/resource/Joachim_Persson,http://dbpedia.org/resource/Jutta_Deutschland
+1,11,A. Najarro,http://dbpedia.org/resource/Alexandra_Najarro,http://dbpedia.org/resource/Antonio_Najarro
+1,15,L. Jones,http://dbpedia.org/resource/Courtney_Jones_(figure_skater),http://dbpedia.org/resource/Lloyd_Jones_(figure_skater)

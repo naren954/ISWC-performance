@@ -1,0 +1,5 @@
+F1: 0.66667,Precision: 0.66667,Recall: 0.66667,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,J. Ryan,http://dbpedia.org/resource/John_Ryan_(VC_1863),http://dbpedia.org/resource/Jackie_Ryan
+0,7,F. Williams,"http://dbpedia.org/resource/Fred_Williams_(basketball,_born_1896)",http://dbpedia.org/resource/Foster_Neil_Williams http://dbpedia.org/resource/Fos_Williams
+0,8,E. Croak,http://dbpedia.org/resource/John_Croak,http://dbpedia.org/resource/Eddie_Croak

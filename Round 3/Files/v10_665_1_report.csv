@@ -1,0 +1,6 @@
+"F1: 0.92982","Precision: 0.92982","Recall: 0.92982"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","10","Nemesis","http://dbpedia.org/resource/Nemesis_(Christie_novel)","http://dbpedia.org/resource/Nemesis_(Angel_novel)"
+"1","13","Burnt Offerings","http://dbpedia.org/resource/Burnt_Offerings_(Hamilton_novel)","http://dbpedia.org/resource/Burnt_Offerings_(novel)"
+"1","39","A Brief History of Time","http://dbpedia.org/resource/A_Briefer_History_of_Time_(Hawking_and_Mlodinow_book)","http://dbpedia.org/resource/A_Brief_History_of_Time:_From_the_Big_Bang_to_Black_Holes http://dbpedia.org/resource/The_Illustrated_A_Brief_History_of_Time http://dbpedia.org/resource/A_Brief_History_of_Time http://dbpedia.org/resource/A_Brief_History_of_Time_(movie) http://dbpedia.org/resource/A_Brief_History_of_Time:_From_the_Big_Bang_To_Black_Holes http://dbpedia.org/resource/A_brief_History_of_Time http://dbpedia.org/resource/A_brief_history_of_time http://dbpedia.org/resource/A_Brief_History_Of_Time http://dbpedia.org/resource/Brief_History_of_Time http://dbpedia.org/resource/Brief_history_of_time"
+"1","49","Gateway","http://dbpedia.org/resource/Gateway_2","http://dbpedia.org/resource/Gateway_(novel)"

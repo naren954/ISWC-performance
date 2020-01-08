@@ -1,0 +1,6 @@
+F1: 0.71429,Precision: 0.71429,Recall: 0.71429,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,L. Claiborne,http://dbpedia.org/resource/Preston_Claiborne,"http://dbpedia.org/resource/Liz_Clairborne http://dbpedia.org/resource/Liz_Claiborne_(fashion_designer) http://dbpedia.org/resource/Claiborne,_Liz http://dbpedia.org/resource/Liz_Claiborne"
+0,4,K. Jones,http://dbpedia.org/resource/Kelly_Jones,http://dbpedia.org/resource/Kim_Jones_(designer)
+0,6,K. Perry,http://dbpedia.org/resource/Katy_Perry,http://dbpedia.org/resource/Katie_Perrie http://dbpedia.org/resource/Katie_Jane_Perry http://dbpedia.org/resource/Katie_Perry
+0,9,J. F. Turner,http://dbpedia.org/resource/J._M._W._Turner,http://dbpedia.org/resource/Jessie_Franklin_Turner http://dbpedia.org/resource/Winifred_Warren

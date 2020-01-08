@@ -1,0 +1,6 @@
+"F1: 0.00000","Precision: 0.00000","Recall: 0.00000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","1","Furman*","http://dbpedia.org/resource/New_York_University_School_of_Law","http://dbpedia.org/resource/Furman_Purple_Hurricane_football http://dbpedia.org/resource/Furman_Paladins_football"
+"1","3","Dayton*","http://dbpedia.org/resource/Embry–Riddle_Aeronautical_University","http://dbpedia.org/resource/Dayton_Flyers_football"
+"1","5","Cincinnati*","http://dbpedia.org/resource/University_of_Cincinnati_College_of_Law","http://dbpedia.org/resource/Cincinnati_bearcats_football http://dbpedia.org/resource/Cincinnati_Bearcats_football_team http://dbpedia.org/resource/Cincinnati_Bearcats_football http://dbpedia.org/resource/List_of_Cincinnati_Bearcats_bowl_games"
+"1","7","Howard*","http://dbpedia.org/resource/Samford_University","http://dbpedia.org/resource/Samford_Bulldogs_football http://dbpedia.org/resource/Howard_Bulldogs_football"

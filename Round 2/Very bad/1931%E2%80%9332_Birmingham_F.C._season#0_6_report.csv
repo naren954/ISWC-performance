@@ -1,0 +1,12 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+6,1,"Briggs, Curtis",http://dbpedia.org/resource/Asa_Briggs,http://dbpedia.org/resource/George_Briggs_(footballer)
+6,4,Hicks,http://dbpedia.org/resource/John_Hicks,http://dbpedia.org/resource/George_Hicks_(footballer)
+6,5,"Crosbie, Bradford, Briggs",,http://dbpedia.org/resource/Johnny_Crosbie
+6,10,Morrall,http://dbpedia.org/resource/Earl_Morrall,http://dbpedia.org/resource/George_Morrall
+6,11,"Gregg, Bradford",http://dbpedia.org/resource/Greggs,http://dbpedia.org/resource/Bob_Gregg
+6,15,"Grosvenor, Bradford","http://dbpedia.org/resource/Robert_Grosvenor,_1st_Baron_Ebury",http://dbpedia.org/resource/Tom_Grosvenor
+6,16,Smith 2,http://dbpedia.org/resource/Joseph_Smith,"http://dbpedia.org/resource/Sam_Smith_(footballer,_born_1909) http://dbpedia.org/resource/Sam_Smith_(footballer_born_1909)"
+6,23,"Haywood, Curtis, Bradford",http://dbpedia.org/resource/Curtis_Haywood,http://dbpedia.org/resource/George_Haywood
+6,30,Horsman,http://dbpedia.org/resource/Edward_Horsman,http://dbpedia.org/resource/Bill_Horsman
+6,32,Keating,http://dbpedia.org/resource/Ronan_Keating,http://dbpedia.org/resource/Reg_Keating

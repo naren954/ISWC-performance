@@ -1,0 +1,4 @@
+"F1: 0.95349","Precision: 0.95349","Recall: 0.95349"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","33","Sorcerer's Apprentice","http://dbpedia.org/resource/Sorcerer's_Apprentice_(Augiéras_novel)","http://dbpedia.org/resource/Sorcerer's_Apprentice_(travel_book) http://dbpedia.org/resource/Sorcerer's_Apprentice_(book)"
+"0","36","Something Rotten","http://dbpedia.org/resource/Something_Rotten_(Fforde)","http://dbpedia.org/resource/Something_Rotten"

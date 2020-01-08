@@ -1,0 +1,6 @@
+F1: 0.63636,Precision: 0.63636,Recall: 0.63636,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,1,A. Lee,http://dbpedia.org/resource/Stan_Lee,http://dbpedia.org/resource/Love_(Arthur_Lee) http://dbpedia.org/resource/My_Diary_(Rosa_Lee_Brooks_song) http://dbpedia.org/resource/Arthur_Lee_(musician)
+3,2,B. Wilson,http://dbpedia.org/resource/The_B-52's,"http://dbpedia.org/resource/Wilson,_Brian_Douglas http://dbpedia.org/resource/Brain_Wilson http://dbpedia.org/resource/Brian_Douglas_Wilson http://dbpedia.org/resource/Brian_Wilson http://dbpedia.org/resource/Sensitive_Music_for_Sensitive_People http://dbpedia.org/resource/Brian_Wilson_(musician) http://dbpedia.org/resource/Wilson,_Brian"
+3,7,S. Davis,http://dbpedia.org/resource/Stuart_Davis_(painter),http://dbpedia.org/resource/Mary_Frances_Penick http://dbpedia.org/resource/Skeeter_Davis
+3,10,B. Wilson,http://dbpedia.org/resource/The_B-52's,"http://dbpedia.org/resource/Wilson,_Brian_Douglas http://dbpedia.org/resource/Brain_Wilson http://dbpedia.org/resource/Brian_Douglas_Wilson http://dbpedia.org/resource/Brian_Wilson http://dbpedia.org/resource/Sensitive_Music_for_Sensitive_People http://dbpedia.org/resource/Brian_Wilson_(musician) http://dbpedia.org/resource/Wilson,_Brian"

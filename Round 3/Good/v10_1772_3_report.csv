@@ -1,0 +1,7 @@
+F1: 0.97093,Precision: 0.97093,Recall: 0.97093,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,26,L. Davis,http://dbpedia.org/resource/Lee_Davis,http://dbpedia.org/resource/Lauren_Davis
+3,56,B. Becker,http://dbpedia.org/resource/Boris_Becker,http://dbpedia.org/resource/Benjamin_Becker
+3,120,B. Becker,http://dbpedia.org/resource/Boris_Becker,http://dbpedia.org/resource/Benjamin_Becker
+3,145,S. Johnson,http://dbpedia.org/resource/Dwayne_Johnson,http://dbpedia.org/resource/Steve_Johnson_(tennis_player) http://dbpedia.org/resource/Steve_Johnson_(tennis)
+3,155,R. Hocevar,http://dbpedia.org/resource/Marcos_Hocevar,http://dbpedia.org/resource/Ricardo_Hocevar

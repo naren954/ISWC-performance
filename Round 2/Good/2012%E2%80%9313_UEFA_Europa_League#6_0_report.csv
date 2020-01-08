@@ -1,0 +1,10 @@
+F1: 0.78378,Precision: 0.78378,Recall: 0.78378,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,14,Levadia Tallinn,http://dbpedia.org/resource/FCI_Levadia_Tallinn,http://dbpedia.org/resource/Tallinna_FC_Levadia http://dbpedia.org/resource/FC_Levadia_Tallinn http://dbpedia.org/resource/FC_Levadia http://dbpedia.org/resource/Levadia_Maardu http://dbpedia.org/resource/FC_Levadia_Maardu http://dbpedia.org/resource/Levadia_Tallinn
+0,15,Bohemians,http://dbpedia.org/resource/Bohemians_1905,http://dbpedia.org/resource/The_Notorious_Boo-Boys http://dbpedia.org/resource/Bohemian_Dublin http://dbpedia.org/resource/Bohemians_F.C. http://dbpedia.org/resource/Bohemians_f.c. http://dbpedia.org/resource/Bohemian_FC http://dbpedia.org/resource/Bohemian_F._C. http://dbpedia.org/resource/Bohemian_F_C http://dbpedia.org/resource/Bohemians_Football_Club http://dbpedia.org/resource/Bohemian_Football_Club http://dbpedia.org/resource/Bohemians_FC http://dbpedia.org/resource/Bohemian_F.C.
+0,21,SÅ«duva MarijampolÄ\u0097,,http://dbpedia.org/resource/FK_Sūduva_Marijampolė
+0,26,Lech PoznaÅ\u0084,,http://dbpedia.org/resource/Lech_Poznań
+0,31,Olimpija Ljubljana,http://dbpedia.org/resource/NK_Olimpija_Ljubljana,http://dbpedia.org/resource/NK_Bežigrad http://dbpedia.org/resource/NK_Olimpija_Ljubljana_(2005)
+0,33,St. Patrick's Athletic,http://dbpedia.org/resource/St_Patrick's_Athletic_F.C.,http://dbpedia.org/resource/St._Patrick's_Athletic_F.C.
+0,35,JJK,http://dbpedia.org/resource/JJK_Jyväskylä,http://dbpedia.org/resource/Jyväskylän_Jalkapalloklubi
+0,37,ShkÃ«ndija,http://dbpedia.org/resource/KF_Shkëndija,http://dbpedia.org/resource/FK_Shkëndija

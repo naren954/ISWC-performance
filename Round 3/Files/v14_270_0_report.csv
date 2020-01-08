@@ -1,0 +1,5 @@
+"F1: 0.89286","Precision: 0.89286","Recall: 0.89286"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","1","The Hunter","http://dbpedia.org/resource/The_Hunter_(Blondie_album)","http://dbpedia.org/resource/The_Hunter_(1980_film)"
+"0","7","The Hunchback of Notre Dame","http://dbpedia.org/resource/The_Hunchback_of_Notre_Dame_(1939_film)","http://dbpedia.org/resource/The_Hunchback_of_Notre_Dame_(1923_movie) http://dbpedia.org/resource/The_Hunchback_of_Notre_Dame_(1923_silent_film) http://dbpedia.org/resource/The_Hunchback_of_Notre_Dame_(1923_film) http://dbpedia.org/resource/The_Hunchback_of_Notre_Dame_(1923_Silent_Film)"
+"0","19","The Hours","http://dbpedia.org/resource/The_Finest_Hours_(2016_film)","http://dbpedia.org/resource/The_Hours_(2002_movie) http://dbpedia.org/resource/The_Hours_(movie) http://dbpedia.org/resource/The_Hours_(film)"

@@ -1,0 +1,30 @@
+F1: 0.85859,Precision: 0.85859,Recall: 0.85859,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,5,P. Salminen,http://dbpedia.org/resource/Sally_Salminen,http://dbpedia.org/resource/Pekka_Salminen http://dbpedia.org/resource/Pekka_Salminen_(Architect)
+0,14,N. Trotsky,http://dbpedia.org/resource/Leon_Trotsky,http://dbpedia.org/resource/Noi_Trotsky
+0,22,M. Hussein,http://dbpedia.org/resource/M._F._Husain,http://dbpedia.org/resource/Mubasshar_Hussein
+0,26,M. Ginzburg,http://dbpedia.org/resource/Natalia_Ginzburg,http://dbpedia.org/resource/Moisei_Yakovlevich_Ginsburg http://dbpedia.org/resource/Moisei_Ginzburg
+0,27,M. Hyun-sik,http://dbpedia.org/resource/Roh_Moo-hyun,http://dbpedia.org/resource/Min_Hyun-sik http://dbpedia.org/resource/Min_Hyun_Sik http://dbpedia.org/resource/Min_hyun_sik
+0,31,M. Davies,http://dbpedia.org/resource/Mervyn_Davies,http://dbpedia.org/resource/Mike_Davies_(architect)
+0,55,L. Petersen,http://dbpedia.org/resource/Leiva_Petersen,http://dbpedia.org/resource/Ludvig_Petersen
+0,58,L. W. Briggs,http://dbpedia.org/resource/Ward_W._Briggs,http://dbpedia.org/resource/Lucius_W._Briggs http://dbpedia.org/resource/L._W._Briggs_Associates http://dbpedia.org/resource/L._W._Briggs_Company
+0,71,L. Packard,http://dbpedia.org/resource/David_Packard,http://dbpedia.org/resource/Lambert_Packard http://dbpedia.org/resource/Packard_&_Thorne http://dbpedia.org/resource/Packard_&_Tyrie
+0,82,J. Mayer,http://dbpedia.org/resource/Jürgen_Mayer,http://dbpedia.org/resource/Jurgen_Mayer_(architect) http://dbpedia.org/resource/Jurgen_Mayer-Hermann http://dbpedia.org/resource/Jürgen_Mayer-Hermann http://dbpedia.org/resource/Jürgen_Mayer_(architect)
+0,88,J. Prince-Ramus,http://dbpedia.org/resource/Jean-Baptiste_Le_Prince,http://dbpedia.org/resource/Joshua_Prince-Ramus http://dbpedia.org/resource/Joshua_Prince_Ramus
+0,93,J. Hueber,http://dbpedia.org/resource/Charles_Hueber,http://dbpedia.org/resource/Joseph_Hueber
+0,108,J. G. Howard,http://dbpedia.org/resource/John_Galen_Howard,http://dbpedia.org/resource/John_Corby http://dbpedia.org/resource/John_George_Howard
+0,111,J. Burnet,http://dbpedia.org/resource/Gilbert_Burnet,"http://dbpedia.org/resource/John_Burnet_(architect) http://dbpedia.org/resource/John_Burnet,_Architect"
+0,117,J. E. Amaral,http://dbpedia.org/resource/Maria_Adelaide_Amaral,http://dbpedia.org/resource/Jesus_Eduardo_Amaral http://dbpedia.org/resource/Jesús_Eduardo_Amaral
+0,118,J. Daniels,http://dbpedia.org/resource/Jeff_Daniels,http://dbpedia.org/resource/Jeffrey_Daniels_(architect)
+0,120,J. Cluysenaar,http://dbpedia.org/resource/Alfred_Cluysenaar,http://dbpedia.org/resource/Jean-Pierre_Cluysenaer http://dbpedia.org/resource/Jean-Pierre_Cluysenaar
+0,129,J. A. Johnson,http://dbpedia.org/resource/Lyndon_B._Johnson,http://dbpedia.org/resource/James_A._Johnson_(architect)
+0,130,J. Ahmad,http://dbpedia.org/resource/Jawad_Ahmad,http://dbpedia.org/resource/Jalal_Ahmed http://dbpedia.org/resource/Jalal_Ahmad
+0,135,J. Mayer,http://dbpedia.org/resource/Jürgen_Mayer,http://dbpedia.org/resource/Jurgen_Mayer-Hermann http://dbpedia.org/resource/Jurgen_Mayer_(architect) http://dbpedia.org/resource/Jürgen_Mayer-Hermann http://dbpedia.org/resource/Jürgen_Mayer_(architect)
+0,140,I. Town,http://dbpedia.org/resource/Harold_Town,"http://dbpedia.org/resource/Ithiel_Town http://dbpedia.org/resource/Town,Ithiel http://dbpedia.org/resource/Ithiel_Towne http://dbpedia.org/resource/Town_and_Davis"
+0,142,I. Rapp,http://dbpedia.org/resource/Jean_Rapp,http://dbpedia.org/resource/Isaac_Rapp http://dbpedia.org/resource/Issac_Rapp http://dbpedia.org/resource/Isaac_Hamilton_Rapp
+0,143,I. Gill,http://dbpedia.org/resource/Inga_Gill,http://dbpedia.org/resource/Irving_Gill http://dbpedia.org/resource/Irving_John_Gill http://dbpedia.org/resource/Irving_J._Gill
+0,146,I. Bondarenko,http://de.dbpedia.org/resource/Igor_Michailowitsch_Bondarenko,http://dbpedia.org/resource/Ilya_Bondarenko
+0,149,I. Fischer,http://dbpedia.org/resource/Otokar_Fischer,http://dbpedia.org/resource/Ignjat_Fischer
+0,150,H. T. Keyes,http://dbpedia.org/resource/Adriaen_Thomasz_Key,http://dbpedia.org/resource/Hugh_Keyes http://dbpedia.org/resource/Wildwood_Manor http://dbpedia.org/resource/Hugh_T._Keyes
+0,155,H. R. Hunt,http://dbpedia.org/resource/Richard_Howland_Hunt,http://dbpedia.org/resource/Herbert_R._Hunt
+0,180,G. Maass,http://dbpedia.org/resource/Leberecht_Maass,http://dbpedia.org/resource/Gustav_Maass_(architect)

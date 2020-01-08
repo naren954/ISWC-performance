@@ -1,0 +1,6 @@
+F1: 0.90244,Precision: 0.90244,Recall: 0.90244,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,Bertrange (Council),"http://dbpedia.org/resource/Bertrange,_Moselle",http://dbpedia.org/resource/Bertrange
+0,15,Hesperange (Council),http://dbpedia.org/resource/Rosport,http://dbpedia.org/resource/Hesperange
+0,41,Strassen (Council),"http://dbpedia.org/resource/Strassen,_Luxembourg",http://dbpedia.org/resource/Strassen http://dbpedia.org/resource/Strassen_(disambiguation)
+0,43,Wiltz (Council),"http://dbpedia.org/resource/Eschweiler,_Wiltz",http://dbpedia.org/resource/Wiltz http://dbpedia.org/resource/History_of_Wiltz

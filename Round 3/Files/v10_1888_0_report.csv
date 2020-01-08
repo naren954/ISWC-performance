@@ -1,0 +1,6 @@
+"F1: 0.66667","Precision: 0.66667","Recall: 0.66667"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","4","A. B. Warner","http://dbpedia.org/resource/H._B._Warner","http://dbpedia.org/resource/Anna_Warner http://dbpedia.org/resource/Amy_Lothrop http://dbpedia.org/resource/Anna_Bartlett_Warner"
+"0","8","A. Montrose","nan","http://dbpedia.org/resource/Augustus_Montrose http://dbpedia.org/resource/Agustus_Montrose"
+"0","10","A. Schopenhauer","http://dbpedia.org/resource/Arthur_Schopenhauer","http://dbpedia.org/resource/Adele_Schopenhauer"
+"0","12","Á. d. Azevedo","http://dbpedia.org/resource/Inácio_de_Azevedo","http://dbpedia.org/resource/Álvares_de_Azevedo http://dbpedia.org/resource/Manuel_Antonio_Alvares_de_Azevedo http://dbpedia.org/resource/Alvares_de_Azevedo http://dbpedia.org/resource/Manuel_Antônio_Álvares_de_Azevedo"

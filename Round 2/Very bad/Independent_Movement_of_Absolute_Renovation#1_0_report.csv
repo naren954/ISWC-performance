@@ -1,0 +1,7 @@
+F1: 0.16667,Precision: 0.16667,Recall: 0.16667,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Caldas,http://dbpedia.org/resource/Francisco_José_de_Caldas,http://dbpedia.org/resource/Caldas_department http://dbpedia.org/resource/Caldas_Department http://dbpedia.org/resource/Department_of_Caldas
+0,2,CaquetÃ¡,http://dbpedia.org/resource/Caquetá_Department,http://dbpedia.org/resource/Caquetá_department
+0,3,QuindÃ­o,http://dbpedia.org/resource/Quindío_Department,http://dbpedia.org/resource/Quindío_department
+0,5,Tolima,http://dbpedia.org/resource/Caquetá_Department,http://dbpedia.org/resource/Department_of_Tolima http://dbpedia.org/resource/Tolima_department http://dbpedia.org/resource/Tolima_Deparment http://dbpedia.org/resource/Tolima_Department
+0,6,Valle del Cauca,http://dbpedia.org/resource/Cali,http://dbpedia.org/resource/Valle_del_Cauca_Department http://dbpedia.org/resource/Valle_del_Cauca http://dbpedia.org/resource/Valle_del_Cauca_department http://dbpedia.org/resource/La_María_Valle_del_Cauca http://dbpedia.org/resource/Department_of_Valle_del_Cauca http://dbpedia.org/resource/Valluna

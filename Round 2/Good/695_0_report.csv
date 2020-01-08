@@ -1,0 +1,16 @@
+F1: 0.90141,Precision: 0.90141,Recall: 0.90141,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,12,When the Bough Breaks,http://dbpedia.org/resource/When_the_Bough_Breaks_(Kellerman_novel),http://dbpedia.org/resource/When_the_Bough_Breaks_(novel) http://dbpedia.org/resource/When_The_Bough_Breaks_(novel)
+0,48,"Washington, D.C.",http://dbpedia.org/resource/The_Washington_Post,"http://dbpedia.org/resource/Washington,_D.C._(novel) http://dbpedia.org/resource/Washington,_DC_(novel) http://dbpedia.org/resource/Washington,_D._C._(novel) http://dbpedia.org/resource/Washington,_D_C_(novel)"
+0,51,Warriors,http://dbpedia.org/resource/Warriors_(novel_series),http://dbpedia.org/resource/Warriors_(book) http://dbpedia.org/resource/Warriors_(anthology)
+0,53,Warrior,http://dbpedia.org/resource/Warriors_(novel_series),http://dbpedia.org/resource/Warrior_(Fallon_novel) http://dbpedia.org/resource/Warrior_(novel) http://dbpedia.org/resource/Warrior_(Fallon) http://dbpedia.org/resource/Warrior_(Jennifer_Fallon_novel) http://dbpedia.org/resource/Warrior_Novel http://dbpedia.org/resource/Alija_Eaglespike
+0,69,Wake,http://dbpedia.org/resource/Finnegans_Wake,http://dbpedia.org/resource/Jagster http://dbpedia.org/resource/Wake_(Robert_J._Sawyer_novel) http://dbpedia.org/resource/WWW:_Wake http://dbpedia.org/resource/Wake_(Sawyer_novel) http://dbpedia.org/resource/WWW_Wake
+0,72,Voyager,http://dbpedia.org/resource/Star_Trek:_Voyager,http://dbpedia.org/resource/Voyager(novel) http://dbpedia.org/resource/Voyager_(novel)
+0,73,Vox,http://dbpedia.org/resource/Vox_(Stewart_and_Riddell_novel),http://dbpedia.org/resource/Vox_(novel) http://dbpedia.org/resource/Vox_(The_Edge_Chronicles)
+0,75,Voices,http://dbpedia.org/resource/Voices_(Disturbed_song),http://dbpedia.org/resource/Röddin http://dbpedia.org/resource/Roeddin http://dbpedia.org/resource/Voices_(Indriðason_novel) http://dbpedia.org/resource/Voices_(Arnaldur_Indriðason_novel) http://dbpedia.org/resource/Roddin
+0,90,Venus,http://dbpedia.org/resource/Venus_(Frankie_Avalon_song),http://dbpedia.org/resource/Venus_(Ben_Bova) http://dbpedia.org/resource/Venus_(novel)
+0,99,Vapor,http://dbpedia.org/resource/Steamboat,http://dbpedia.org/resource/Vapor_(novel)
+0,102,Vanishing Point,http://dbpedia.org/resource/Vanishing_Point_(Cole_novel),http://dbpedia.org/resource/Vanishing_Point_(Doctor_Who)
+0,117,Untamed,http://dbpedia.org/resource/Untamed_(Cast_novel),http://dbpedia.org/resource/Untamed_(Sara_Humphreys_book)
+0,131,Under Heaven,http://dbpedia.org/resource/Under_Heaven_(novel),http://dbpedia.org/resource/Under_Heaven_(book)
+0,138,Uncle,http://dbpedia.org/resource/Uncle_Tom's_Cabin,http://dbpedia.org/resource/Uncle_(novel)

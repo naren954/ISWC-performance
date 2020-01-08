@@ -1,0 +1,10 @@
+F1: 0.46667,Precision: 0.46667,Recall: 0.46667,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,2,Mama,http://dbpedia.org/resource/Mama_(Genesis_song),http://dbpedia.org/resource/Mama_(1941_song) http://dbpedia.org/resource/Mama_(David_Whitfield_song) http://dbpedia.org/resource/Mama_(Connie_Francis_song) http://dbpedia.org/resource/Mama_(1960_song) http://dbpedia.org/resource/Mamma_(song)
+2,3,Secret Journey,http://dbpedia.org/resource/Secret_Journey_(song),http://dbpedia.org/resource/Secret_Journey
+2,4,In Your Room,http://dbpedia.org/resource/In_Your_Room_(Depeche_Mode_song),http://dbpedia.org/resource/In_Your_Room_(The_Bangles_song)
+2,6,Please Don't Go,http://dbpedia.org/resource/Please_Don't_Go_(Mike_Posner_song),http://dbpedia.org/resource/Please_Don't_Go_(Boyz_II_Men_song)
+2,10,Gone Too Far,http://dbpedia.org/resource/Gone_Too_Far_(Dragonette_song),http://dbpedia.org/resource/Gone_Too_Far_(Eddie_Rabbitt_songs) http://dbpedia.org/resource/Gone_Too_Far_(Eddie_Rabbitt_song)
+2,12,Open Your Heart,http://dbpedia.org/resource/Open_Your_Heart_(Madonna_song),http://dbpedia.org/resource/Open_Your_Heart_(Human_League_song) http://dbpedia.org/resource/Open_Your_Heart_(The_Human_League_song)
+2,14,A Brand New Day,http://dbpedia.org/resource/Brand_New_Day_(Sting_album),http://dbpedia.org/resource/Everybody_Rejoice http://dbpedia.org/resource/A_Brand_New_Day_(The_Wiz_song)
+2,15,Cowboys and Angels,http://dbpedia.org/resource/Cowboys_and_Angels_(Dustin_Lynch_song),http://dbpedia.org/resource/Cowboys_and_Angels_(George_Michael_song)

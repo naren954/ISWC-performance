@@ -1,0 +1,6 @@
+"F1: 0.88571","Precision: 0.88571","Recall: 0.88571"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","3","USS Redwing","http://dbpedia.org/resource/USS_Redwing_(AM-48)","http://dbpedia.org/resource/USS_Redwing_(MSC-200) http://dbpedia.org/resource/Spanish_minesweeper_Sil_(M29) http://dbpedia.org/resource/USS_Redwing_(AMS-200)"
+"0","20","USS Ray","http://dbpedia.org/resource/USS_Ray_(SS-271)","http://dbpedia.org/resource/SSN-653 http://dbpedia.org/resource/USS_Ray_(SSN-653)"
+"0","27","USS Ranger","http://dbpedia.org/resource/USS_Ranger_(CV-4)","http://dbpedia.org/resource/CV61 http://dbpedia.org/resource/USS_Ranger_(CVA61) http://dbpedia.org/resource/USS_Ranger_(CV61) http://dbpedia.org/resource/CV_61 http://dbpedia.org/resource/CVA-61 http://dbpedia.org/resource/USS_Ranger_(CVA-61) http://dbpedia.org/resource/CVA61 http://dbpedia.org/resource/CV-61 http://dbpedia.org/resource/USS_Ranger_(CVA_61) http://dbpedia.org/resource/USS_Ranger_(CV-61) http://dbpedia.org/resource/USS_Ranger_(CV_61) http://dbpedia.org/resource/CVA_61"
+"0","35","USS Raleigh","http://dbpedia.org/resource/USS_Raleigh_(CL-7)","http://dbpedia.org/resource/USS_Raleigh_(LPD-1) http://dbpedia.org/resource/LPD-1"

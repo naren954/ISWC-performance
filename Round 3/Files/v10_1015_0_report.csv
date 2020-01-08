@@ -1,0 +1,6 @@
+"F1: 0.97279","Precision: 0.97279","Recall: 0.97279"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","81","Partula variabilis","http://dbpedia.org/resource/Partula_mirabilis","http://dbpedia.org/resource/Partula_variabilis"
+"0","95","Partula robusta","http://dbpedia.org/resource/Partula_producta","http://dbpedia.org/resource/Partula_robusta"
+"0","98","Partula radiata","http://dbpedia.org/resource/Radiolate_partula","http://dbpedia.org/resource/Partula_radiata"
+"0","100","Partula protea","http://dbpedia.org/resource/Partula_rosea","http://dbpedia.org/resource/Partula_protea http://dbpedia.org/resource/P._protea"

@@ -1,0 +1,5 @@
+F1: 0.88462,Precision: 0.88462,Recall: 0.88462,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,7,F. Turk,http://dbpedia.org/resource/Stella_Turk,http://dbpedia.org/resource/Frank_Turk_(biologist) http://dbpedia.org/resource/Dr._Frank_Turk http://dbpedia.org/resource/Dr_Frank_Turk
+0,14,E. Pagels,http://dbpedia.org/resource/Heinz_Pagels,http://dbpedia.org/resource/E._Pagels http://dbpedia.org/resource/Elaine_H._Pagels http://dbpedia.org/resource/Elain_Pagels http://dbpedia.org/resource/Elaine_Pagels
+0,22,C. Chang,http://dbpedia.org/resource/Michelle_Chang,http://dbpedia.org/resource/Christopher_Chang

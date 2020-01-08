@@ -1,0 +1,7 @@
+F1: 0.64286,Precision: 0.64286,Recall: 0.64286,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Al-Hilal Club (Omdurman),http://dbpedia.org/resource/Hilal_Al-Quds_Club,http://dbpedia.org/resource/Al-Hilal_(Omdurman) http://dbpedia.org/resource/Al_Hilal_(Omdurman) http://dbpedia.org/resource/Al-Hilal_Omdurman http://dbpedia.org/resource/Al-Hilal_Club_(Omdurman) http://dbpedia.org/resource/Hilal_Omdurman
+0,3,Al-Ahly Shendi,http://dbpedia.org/resource/Al-Ahly_SC_(Benghazi),http://dbpedia.org/resource/Al-Ahli_Shendi http://dbpedia.org/resource/Al-Ahli_Shandi http://dbpedia.org/resource/Al-Ahly_Shendi
+0,6,Al-Merreikh (Al-Fasher),http://dbpedia.org/resource/Al-Merrikh_SC,http://dbpedia.org/resource/Al-Merreikh_SC_(Al-Fasher) http://dbpedia.org/resource/Al-Merreikh_Al-Fasher http://dbpedia.org/resource/Al-Merreikh_(Al-Fasher)
+0,8,Al-Hilal (Al-Fasher),http://dbpedia.org/resource/Hilal_Al-Quds_Club,http://dbpedia.org/resource/Al-Hilal_(Al-Fasher) http://dbpedia.org/resource/Al-Hilal_ESC_(Al-Fasher)
+0,12,Al-Ahli Club (Atbara),http://dbpedia.org/resource/Al-Ahly_SC_(Benghazi),http://dbpedia.org/resource/Al-Ahli_Club_(Atbara) http://dbpedia.org/resource/Al-Ahli_(Atbara)

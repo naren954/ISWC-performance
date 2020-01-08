@@ -1,0 +1,4 @@
+"F1: 0.00000","Precision: 0.00000","Recall: 0.00000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","1","Choice TV: Actor Comedy","http://dbpedia.org/resource/Critics'_Choice_Television_Award","http://dbpedia.org/resource/Teen_Choice_Award_for_Choice_TV_Actor_Comedy"
+"1","2","Choice TV: Comedy Series","http://dbpedia.org/resource/Critics'_Choice_Television_Award","http://dbpedia.org/resource/Teen_Choice_Award_for_Choice_Comedy_Series"

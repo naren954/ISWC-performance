@@ -1,0 +1,7 @@
+"F1: 0.90385","Precision: 0.90385","Recall: 0.90385"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","10","1961 Pau Grand Prix","http://dbpedia.org/resource/1961_Monaco_Grand_Prix","http://dbpedia.org/resource/1961_Pau_Grand_Prix"
+"1","17","1950 Monaco Grand Prix","http://dbpedia.org/resource/1958_Monaco_Grand_Prix","http://dbpedia.org/resource/1950_Monaco_Grand_Prix"
+"1","33","1950 Monaco Grand Prix","http://dbpedia.org/resource/1958_Monaco_Grand_Prix","http://dbpedia.org/resource/1950_Monaco_Grand_Prix"
+"1","40","1959 Monaco Grand Prix","http://dbpedia.org/resource/1958_Monaco_Grand_Prix","http://dbpedia.org/resource/1959_Monaco_Grand_Prix"
+"1","47","1953 Argentine Grand Prix","http://dbpedia.org/resource/1971_Argentine_Grand_Prix","http://dbpedia.org/resource/1953_Argentine_Grand_Prix"

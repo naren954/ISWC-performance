@@ -1,0 +1,5 @@
+F1: 0.25000,Precision: 0.25000,Recall: 0.25000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,Springfield,http://dbpedia.org/resource/Franconia–Springfield_station,"http://dbpedia.org/resource/Springfield_Township,_Essex_County,_New_Jersey http://dbpedia.org/resource/Springfield_Township,_Union_County,_New_Jersey http://dbpedia.org/resource/Springfield,_Union_County,_NJ http://dbpedia.org/resource/Baltusrol,_New_Jersey http://dbpedia.org/resource/Springfield_Township,_Union_County,_NJ http://dbpedia.org/resource/Springfield,_Union_County,_New_Jersey http://dbpedia.org/resource/Springfield_Township_(Union_County,_NJ)"
+1,4,Union County College,http://dbpedia.org/resource/Union_County_High_School_(Indiana),http://dbpedia.org/resource/Union_County_College
+1,5,Dunellen,http://dbpedia.org/resource/Dunellen_station,http://dbpedia.org/resource/Dunellen_(Central_Railroad_of_New_Jersey_station) http://dbpedia.org/resource/Dunellen_(NJT_station)

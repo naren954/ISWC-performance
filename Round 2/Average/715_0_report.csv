@@ -1,0 +1,4 @@
+F1: 0.71429,Precision: 0.71429,Recall: 0.71429,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,J. Anderson,http://dbpedia.org/resource/Jermaine_Anderson,http://dbpedia.org/resource/Joe_Anderson_(boxer)
+0,6,H. Singh,http://dbpedia.org/resource/Hanumant_Singh,http://dbpedia.org/resource/Hawa_Singh

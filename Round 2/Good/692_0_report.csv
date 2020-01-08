@@ -1,0 +1,3 @@
+F1: 0.90909,Precision: 0.90909,Recall: 0.90909,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,"Chicka, Chicka, 1, 2, 3","http://dbpedia.org/resource/Chicka_Chicka_1,_2,_3","http://dbpedia.org/resource/Chicka_Chicka_123 http://dbpedia.org/resource/Chicka,_Chicka,_1,_2,_3"

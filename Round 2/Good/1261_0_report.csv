@@ -1,0 +1,5 @@
+F1: 0.95775,Precision: 0.95775,Recall: 0.95775,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,53,International Journal of Mosquito Research,,http://dbpedia.org/resource/International_Journal_of_Mosquito_Research
+0,61,Internal Medicine,http://dbpedia.org/resource/Annals_of_Internal_Medicine,http://dbpedia.org/resource/Internal_Medicine_(journal) http://dbpedia.org/resource/Nippon_Naika_Gakkai_Zasshi http://dbpedia.org/resource/Journal_of_the_Japanese_Society_of_Internal_Medicine http://dbpedia.org/resource/Intern._Med.
+0,62,Interface,http://dbpedia.org/resource/Interface_Focus,http://dbpedia.org/resource/Interface_(journal)

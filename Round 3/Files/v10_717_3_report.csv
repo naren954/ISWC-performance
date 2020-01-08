@@ -1,0 +1,6 @@
+"F1: 0.69231","Precision: 0.69231","Recall: 0.69231"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"3","1","E. Baldwin","http://dbpedia.org/resource/James_Baldwin","http://dbpedia.org/resource/Earl_Baldwin"
+"3","6","H. Allen","http://dbpedia.org/resource/Hervey_Allen","http://dbpedia.org/resource/Will_Henry_(novelist) http://dbpedia.org/resource/Will_Henry_(author) http://dbpedia.org/resource/Heck_Allen http://dbpedia.org/resource/Will_Henry_(writer) http://dbpedia.org/resource/Henry_Allen_(screenwriter) http://dbpedia.org/resource/Clay_Fisher http://dbpedia.org/resource/Henry_Wilson_Allen"
+"3","7","E. Baldwin","http://dbpedia.org/resource/James_Baldwin","http://dbpedia.org/resource/Earl_Baldwin"
+"3","12","I. Wallace","http://dbpedia.org/resource/Ian_Wallace_(drummer)","http://dbpedia.org/resource/The_Wallaces http://dbpedia.org/resource/Sylvia_Wallace http://dbpedia.org/resource/Irving_Wallace http://dbpedia.org/resource/The_Intimate_Sex_Lives_of_Famous_People"

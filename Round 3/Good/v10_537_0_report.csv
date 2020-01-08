@@ -1,0 +1,20 @@
+F1: 0.77500,Precision: 0.77500,Recall: 0.77500,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,V. Dandridge,http://dbpedia.org/resource/Dorothy_Dandridge,http://dbpedia.org/resource/Vivian_Dandridge
+0,10,V. Fox,http://dbpedia.org/resource/Virgil_Fox,http://dbpedia.org/resource/Virginia_Zanuck http://dbpedia.org/resource/Virginia_Fox
+0,14,V. Shaw,http://dbpedia.org/resource/Vernon_Shaw,http://dbpedia.org/resource/Victoria_Shaw_(actress)
+0,17,V. French,"http://dbpedia.org/resource/Charles_V,_Holy_Roman_Emperor",http://dbpedia.org/resource/Victor_French
+0,21,V. S. Murthy,http://dbpedia.org/resource/V._K._Murthy,http://dbpedia.org/resource/Veturi_Sundararamamurthy http://dbpedia.org/resource/Veturi_Sundararama_Murthy http://dbpedia.org/resource/Veturi_Sundara_Ramamurhty http://dbpedia.org/resource/Veturi_Murthy
+0,33,T. Perez,http://dbpedia.org/resource/Emily_Perez,http://dbpedia.org/resource/Tyron_Perez http://dbpedia.org/resource/Jojo_Malonzo_Perez http://dbpedia.org/resource/Jojo_Perez
+0,35,T. Smith,http://dbpedia.org/resource/Thorne_Smith,http://dbpedia.org/resource/Tucker_Smith
+0,38,T. Wilson,http://dbpedia.org/resource/Ronald_Reagan,http://dbpedia.org/resource/Trey_Wilson
+0,41,T. Young,http://dbpedia.org/resource/Tyrone_Young,http://dbpedia.org/resource/Tony_Young_(actor)
+0,42,T. Steedman,http://dbpedia.org/resource/Henry_Steedman,http://dbpedia.org/resource/Tony_Steedman
+0,52,T. Leonetti,http://it.dbpedia.org/resource/Tommaso_Leonetti_(politico),http://dbpedia.org/resource/Tommy_Leonetti
+0,64,T. Conway,http://dbpedia.org/resource/Tim_Conway,http://dbpedia.org/resource/Tom_Conway http://dbpedia.org/resource/Thomas_Charles_Sanders
+0,66,T. Baker,http://dbpedia.org/resource/Tungia_Baker,http://dbpedia.org/resource/Tom_Baker_(American_actor) http://dbpedia.org/resource/Tom_Baker_(American_Actor)
+0,70,T. Rooney,http://dbpedia.org/resource/Mickey_Rooney,http://dbpedia.org/resource/Tim_Rooney http://dbpedia.org/resource/Timothy_rooney
+0,74,T. Andrews,http://dbpedia.org/resource/Tod_Andrews,http://dbpedia.org/resource/Tiger_Andrews http://dbpedia.org/resource/Tige_Andrews
+0,75,T. Hall,http://dbpedia.org/resource/Theodore_Hall,http://dbpedia.org/resource/Thurston_Hall
+0,76,T. Ravenscroft,http://dbpedia.org/resource/Raphael_Ravenscroft,http://dbpedia.org/resource/Thurl_Ravenscroft http://dbpedia.org/resource/Thurl_Arthur_Ravenscroft http://dbpedia.org/resource/Burl_Ravenscroft http://dbpedia.org/resource/Thurl_Ravensroft
+0,80,T. Wilson,http://dbpedia.org/resource/Ronald_Reagan,http://dbpedia.org/resource/Theodore_Wilson http://dbpedia.org/resource/Teddy_Wilson_(actor)

@@ -1,0 +1,4 @@
+F1: 0.71429,Precision: 0.71429,Recall: 0.71429,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,2,His Late Excellency,http://dbpedia.org/resource/His_Late_Excellency_(1935_film),http://dbpedia.org/resource/His_Late_Excellency_(1927_film)
+1,16,Pension SchÃ¶ller,http://dbpedia.org/resource/Pension_Schöller_(1960_film),http://dbpedia.org/resource/Pension_Schöller_(1930_film)

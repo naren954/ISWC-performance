@@ -1,0 +1,6 @@
+F1: 0.94595,Precision: 0.94595,Recall: 0.94595,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,24,Puente del Alamillo,http://dbpedia.org/resource/Alamillo_Bridge,http://dbpedia.org/resource/Puente_del_alamillo http://dbpedia.org/resource/Alamillo_bridge http://dbpedia.org/resource/Puente_de_Alamillo http://dbpedia.org/resource/Puente_del_Alamillo
+0,34,Pont Neuf,"http://dbpedia.org/resource/Pont_Neuf,_Toulouse",http://dbpedia.org/resource/Pont_Neuf http://dbpedia.org/resource/Le_pont_Neuf http://dbpedia.org/resource/Pont-Neuf
+0,35,Pont National,"http://dbpedia.org/resource/George_V_Bridge,_Orléans",http://dbpedia.org/resource/Pont_National_(Brest)
+0,62,Ocean To Ocean Bridge,http://dbpedia.org/resource/G9211_Ningbo–Zhoushan_Expressway,http://dbpedia.org/resource/Ocean_To_Ocean_Bridge http://dbpedia.org/resource/Ocean-to-Ocean_Bridge http://dbpedia.org/resource/Ocean_to_Ocean_Bridge

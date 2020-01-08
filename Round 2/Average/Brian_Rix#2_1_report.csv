@@ -1,0 +1,5 @@
+F1: 0.62500,Precision: 0.62500,Recall: 0.62500,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,What Every Woman Wants,http://dbpedia.org/resource/What_Every_Woman_Wants_(1962_film),http://dbpedia.org/resource/What_Every_Woman_Wants_(1954_film)
+1,5,And the Same to You,http://dbpedia.org/resource/Terminator_2:_Judgment_Day,http://dbpedia.org/resource/And_the_Same_to_You
+1,6,Nothing Barred; The Night We Dropped a Clanger; The Night We Got the Bird;,http://dbpedia.org/resource/The_Night_We_Got_the_Bird,http://dbpedia.org/resource/Nothing_Barred

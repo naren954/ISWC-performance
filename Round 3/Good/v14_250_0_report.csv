@@ -1,0 +1,17 @@
+F1: 0.85437,Precision: 0.85437,Recall: 0.85437,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Torment,http://dbpedia.org/resource/Torment_(1950_Italian_film),http://dbpedia.org/resource/Torment_(1950_British_film)
+0,2,Torment,http://dbpedia.org/resource/Torment_(1950_Italian_film),http://dbpedia.org/resource/Torment_(1944_film) http://dbpedia.org/resource/Frenzy_(1944_film) http://dbpedia.org/resource/Hets_(film)
+0,11,Top o' the Morning,http://dbpedia.org/resource/Top_o'_the_Morning_(1949_film),http://dbpedia.org/resource/Top_o'_the_Morning_(film)
+0,36,Too Hot to Handle,http://dbpedia.org/resource/Too_Hot_to_Handle_(1938_film),http://dbpedia.org/resource/Playgirl_After_Dark http://dbpedia.org/resource/Too_Hot_to_Handle_(1960_film)
+0,47,Tomorrow We Live,http://dbpedia.org/resource/Edge_of_Tomorrow,http://dbpedia.org/resource/Tomorrow_We_Live_(1943_film)
+0,48,Tomorrow We Live,http://dbpedia.org/resource/Edge_of_Tomorrow,http://dbpedia.org/resource/The_Man_with_a_Conscience http://dbpedia.org/resource/Tomorrow_We_Live_(1942_film)
+0,49,Tomorrow We Live,http://dbpedia.org/resource/Edge_of_Tomorrow,http://dbpedia.org/resource/Tomorrow_We_Live_(1936_film)
+0,52,Tomorrow Is Another Day,http://dbpedia.org/resource/Tomorrow_Is_Another_Day_(1951_American_film),http://dbpedia.org/resource/Tomorrow_Is_Another_Day_(1951_film)
+0,53,Tomorrow Is Another Day,http://dbpedia.org/resource/Tomorrow_Is_Another_Day_(1951_American_film),http://dbpedia.org/resource/Domani_e_un_altro_giorno http://dbpedia.org/resource/Tomorrow_is_another_day http://dbpedia.org/resource/Tomorrow_Is_Another_Day_(1951_Italian_film) http://dbpedia.org/resource/Domani_è_un_altro_giorno
+0,57,Tommy,http://dbpedia.org/resource/Tommy_(album),http://dbpedia.org/resource/Tommy_(movie) http://dbpedia.org/resource/Tommy_(1975_film) http://dbpedia.org/resource/Quintaphonic
+0,60,Tom Thumb,http://dbpedia.org/resource/Hop-o'-My-Thumb,http://dbpedia.org/resource/Tom_Thumb_(film) http://dbpedia.org/resource/Tom_thumb_(film)
+0,61,Tom Sawyer,http://dbpedia.org/resource/Tom_Sawyer_(1973_film),http://dbpedia.org/resource/Tom_Sawyer_(1930_film)
+0,74,Together?,http://dbpedia.org/resource/Come_Together,http://dbpedia.org/resource/Together?
+0,88,To Love,http://dbpedia.org/resource/To_Love-Ru,http://dbpedia.org/resource/To_Love_(film) http://dbpedia.org/resource/Att_älska http://dbpedia.org/resource/Att_Älska
+0,91,To Live,http://dbpedia.org/resource/One_Life_to_Live,http://dbpedia.org/resource/To_Live_(1937_film)

@@ -1,0 +1,5 @@
+F1: 0.80000,Precision: 0.80000,Recall: 0.80000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,2,One More Try,"http://dbpedia.org/resource/One_More_Time,_One_More_Chance",http://dbpedia.org/resource/One_More_Try_(Rolling_Stones_song) http://dbpedia.org/resource/Out_Of_Our_Heads http://dbpedia.org/resource/Out_of_Our_Heads http://dbpedia.org/resource/One_More_Try_(The_Rolling_Stones_song)
+1,4,The Good Life,http://dbpedia.org/resource/The_Good_Life_(Weezer_song),http://dbpedia.org/resource/The_Good_Life_(1962_song) http://dbpedia.org/resource/La_Belle_Vie_(1962_song)
+1,12,Around the World,http://dbpedia.org/resource/Around_the_World_(Aqua_song),http://dbpedia.org/resource/Around_the_World_(1956_song) http://dbpedia.org/resource/Around_The_World_(1956_song) http://dbpedia.org/resource/(Main_Theme)_Around_the_World

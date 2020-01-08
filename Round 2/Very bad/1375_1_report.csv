@@ -1,0 +1,14 @@
+F1: 0.14286,Precision: 0.14286,Recall: 0.14286,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,J. Velasquez,http://dbpedia.org/resource/Ramón_José_Velásquez,http://dbpedia.org/resource/Jorge_Velásquez http://dbpedia.org/resource/Jorge_Velasquez
+1,2,J. A. Santos,http://dbpedia.org/resource/Juan_Manuel_Santos,http://dbpedia.org/resource/José_A._Santos http://dbpedia.org/resource/José_Santos http://dbpedia.org/resource/Jose_A._Santos http://dbpedia.org/resource/Jose_Santos
+1,3,J. O'Brien,http://dbpedia.org/resource/William_J._O'Brien,http://dbpedia.org/resource/Joseph_O'Brien_(jockey) http://dbpedia.org/resource/Joseph_O'Brien_(horseman) http://dbpedia.org/resource/Joseph_O'Brien_(Jockey) http://dbpedia.org/resource/Joseph_O'Brien_(horse_trainer)
+1,4,F. Dettori,http://de.dbpedia.org/resource/Giovanni_Dettori,http://dbpedia.org/resource/Frankie_Dettori http://dbpedia.org/resource/Lanfranco_Dettori
+1,7,J. Reid,http://dbpedia.org/resource/James_Reid_(Canadian_politician),http://dbpedia.org/resource/John_A._Reid http://dbpedia.org/resource/John_Reid_(jockey)
+1,8,F. Archer,http://dbpedia.org/resource/Anne_Archer,http://dbpedia.org/resource/Frederick_J._Archer http://dbpedia.org/resource/FJ_Archer http://dbpedia.org/resource/Fred_Archer_(jockey) http://dbpedia.org/resource/Frederick_James_Archer
+1,9,T. Queally,http://dbpedia.org/resource/Jason_Queally,http://dbpedia.org/resource/Tom_Queally
+1,10,J. Doyle,http://dbpedia.org/resource/Jim_Doyle,http://dbpedia.org/resource/James_Doyle_(jockey)
+1,11,R. Hughes,http://dbpedia.org/resource/Tom_Hughes_(Australian_politician),http://dbpedia.org/resource/Richard_Hughes_(jockey)
+1,12,R. Moore,http://dbpedia.org/resource/Roger_Moore,http://dbpedia.org/resource/Ryan_Moore_(jockey) http://dbpedia.org/resource/Ryan_L._Moore
+1,13,T. Queally,http://dbpedia.org/resource/Jason_Queally,http://dbpedia.org/resource/Tom_Queally
+1,14,F. Head,http://dbpedia.org/resource/Tottenham_Hotspur_F.C.,http://dbpedia.org/resource/Freddie_Head http://dbpedia.org/resource/Freddy_Head

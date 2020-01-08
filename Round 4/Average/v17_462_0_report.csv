@@ -1,0 +1,23 @@
+F1: 0.72368,Precision: 0.72368,Recall: 0.72368,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,7,R. Martin,http://dbpedia.org/resource/Ross_Martin_(American_football),http://dbpedia.org/resource/Rod_Martin
+0,10,R. Jones,http://dbpedia.org/resource/Rhonda_Jones,http://dbpedia.org/resource/Rod_Jones_(offensive_lineman)
+0,11,R. Jones,http://dbpedia.org/resource/Rhonda_Jones,http://dbpedia.org/resource/Rod_Jones_(cornerback) http://dbpedia.org/resource/Rod_Jones_(football_player)
+0,18,R. Ryan,http://dbpedia.org/resource/Rob_Ryan,http://dbpedia.org/resource/Rocky_Ryan_(American_football)
+0,25,R. Moore,http://dbpedia.org/resource/Rob_Moore_(American_football),http://dbpedia.org/resource/Rocco_Moore
+0,32,R. Young,http://dbpedia.org/resource/Ryan_Young,http://dbpedia.org/resource/Robert_Young_(American_football)
+0,33,R. Woods,"http://dbpedia.org/resource/Robert_Woods_(wide_receiver,_born_1992)",http://dbpedia.org/resource/Robert_Woods_(wide_receiver) http://dbpedia.org/resource/Robert_Woods_(American_football_receiver)
+0,34,R. Wilson,"http://dbpedia.org/resource/Ron_Wilson_(footballer,_born_1941)",http://dbpedia.org/resource/Robert_Wilson_(running_back)
+0,36,R. Weathers,http://dbpedia.org/resource/Carl_Weathers,http://dbpedia.org/resource/Robert_Weathers
+0,38,R. Thomas,http://dbpedia.org/resource/Robert_Thomas_(fullback),http://dbpedia.org/resource/Robert_Thomas_(linebacker)
+0,40,R. Stewart,http://dbpedia.org/resource/Ralph_Stewart_(American_football),http://dbpedia.org/resource/Robert_Stewart_(football_coach) http://dbpedia.org/resource/Robert_Stewart_(American_football) http://dbpedia.org/resource/Robert_Stewart_(Arena_football) http://dbpedia.org/resource/Robert_Stewart_(arena_football)
+0,41,R. Smith,http://dbpedia.org/resource/Rod_Smith_(wide_receiver),http://dbpedia.org/resource/Robert_Smith_(American_football) http://dbpedia.org/resource/Robert_Smith_(football) http://dbpedia.org/resource/Robert_Smith_(American_football http://dbpedia.org/resource/Robert_Smith_(football_player) http://dbpedia.org/resource/Robert_Smith_(running_back) http://dbpedia.org/resource/Robert_Scott_Smith
+0,46,R. Reynolds,http://dbpedia.org/resource/Rashaad_Reynolds,http://dbpedia.org/resource/Robert_Reynolds_(football_player) http://dbpedia.org/resource/Robert_Reynolds_(American_football)
+0,59,R. Jones,http://dbpedia.org/resource/Rhonda_Jones,http://dbpedia.org/resource/Robert_Jones_(American_football)
+0,60,R. Johnson,http://dbpedia.org/resource/Reggie_Johnson_(American_football),http://dbpedia.org/resource/Robert_Johnson_(safety)
+0,61,R. James,http://dbpedia.org/resource/Roland_James,http://dbpedia.org/resource/Robert_James_(linebacker)
+0,62,R. Jackson,http://dbpedia.org/resource/Robert_Jackson_(guard),http://dbpedia.org/resource/Robert_Jackson_(safety)
+0,66,R. Holmes,http://dbpedia.org/resource/Ron_Holmes,http://dbpedia.org/resource/Robert_Holmes_(American_football) http://dbpedia.org/resource/Robert_Holmes_(American_football_player) http://dbpedia.org/resource/Robert_Holmes_(football_player)
+0,71,R. Henderson,http://dbpedia.org/resource/Reuben_Henderson,http://dbpedia.org/resource/Robert_Henderson_(American_football)
+0,72,R. Harris,http://dbpedia.org/resource/Ra'Shon_Harris,http://dbpedia.org/resource/Robert_Harris_(American_football)
+0,75,R. Griffin,http://dbpedia.org/resource/Robert_Griffin_III,http://dbpedia.org/resource/Robert_Griffin_(offensive_lineman)

@@ -1,0 +1,8 @@
+F1: 0.84615,Precision: 0.84615,Recall: 0.84615,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Laguna Caldera,http://dbpedia.org/resource/Laguna_de_Bay,http://dbpedia.org/resource/Laguna_Caldera
+0,13,Elk Range,http://dbpedia.org/resource/Elk_Range_(California),http://dbpedia.org/resource/Elk_Range_(Canada)
+0,19,Clark Range,http://dbpedia.org/resource/Clark_Range_(California),http://dbpedia.org/resource/Clark_Range_(Canada)
+0,20,Chota Nagpur Plateau,http://dbpedia.org/resource/Geography_of_India,http://dbpedia.org/resource/Chota_Nagpur_dry_deciduous_forests http://dbpedia.org/resource/Chhota_Nagpur_dry_deciduous_forests http://dbpedia.org/resource/Chota-Nagpur_dry_deciduous_forests http://dbpedia.org/resource/Chota-Nagpur_plateau http://dbpedia.org/resource/Chota_Nagpur_dry_deciduous_forest http://dbpedia.org/resource/Chhotanagpur_plateau http://dbpedia.org/resource/Chhotanagpur_Plateau http://dbpedia.org/resource/Chhotanagpur http://dbpedia.org/resource/Chhota-Nagpur_dry_forests http://dbpedia.org/resource/Chhota_Nagpur_Plateau http://dbpedia.org/resource/Chota_Nagpur_plateau http://dbpedia.org/resource/Chota_Nagpur_Plateau http://dbpedia.org/resource/Chhota-Nagpur_dry_deciduous_forests http://dbpedia.org/resource/Chota_nagpur_dry_deciduous_forests
+0,29,Belknap Mountains,http://dbpedia.org/resource/Belknap_Mountain,http://dbpedia.org/resource/Belknap_Range http://dbpedia.org/resource/Belknap_Mountains
+0,38,Alagalla Mountain Range,http://dbpedia.org/resource/California_Coast_Ranges,http://dbpedia.org/resource/Alagalla_Mountain_Range_(Potato_Range) http://dbpedia.org/resource/Alagalla_Mountain_Range

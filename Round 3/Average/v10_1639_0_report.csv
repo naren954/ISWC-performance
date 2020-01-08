@@ -1,0 +1,10 @@
+F1: 0.74194,Precision: 0.74194,Recall: 0.74194,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,16,God Is Love,http://dbpedia.org/resource/What's_Going_On_(Marvin_Gaye_album),http://dbpedia.org/resource/God_Is_Love_(song)
+0,17,Girl,http://dbpedia.org/resource/Girl_(Destiny's_Child_song),http://dbpedia.org/resource/Girl_(Beatles_song) http://dbpedia.org/resource/Girl_(The_Beatles_song)
+0,19,For You,http://dbpedia.org/resource/For_You_Blue,http://dbpedia.org/resource/For_You_(Bruce_Springsteen_song) http://dbpedia.org/resource/For_You_(Manfred_Mann_song) http://dbpedia.org/resource/For_You_(Manfred_Mann's_Earth_Band_song) http://dbpedia.org/resource/For_You_(Greg_Kihn_song)
+0,21,Flying,http://dbpedia.org/resource/Flying_(Cast_song),http://dbpedia.org/resource/Flying_(Beatles_song) http://dbpedia.org/resource/Flying_(The_Beatles_song) http://dbpedia.org/resource/Flying_(Beatles_instrumental)
+0,23,Fall Breaks and Back to Winter,http://dbpedia.org/resource/The_Elements:_Fire,http://dbpedia.org/resource/Fall_Breaks_And_Back_To_Winter_(Woody_Woodpecker_Symphony) http://dbpedia.org/resource/Fall_Breaks_and_Back_to_Winter http://dbpedia.org/resource/Fall_Breaks_and_Back_to_Winter_(W._Woodpecker_Symphony) http://dbpedia.org/resource/Fall_Breaks_and_Back_to_Winter_(Woody_Woodpecker_Symphony)
+0,25,Every Little Thing,http://dbpedia.org/resource/Every_Little_Thing_She_Does_Is_Magic,http://dbpedia.org/resource/Every_Little_Thing_(song) http://dbpedia.org/resource/Every_Little_Thing_(Beatles_song) http://dbpedia.org/resource/Every_Little_Thing_(The_Beatles_song)
+0,27,Etcetera,http://dbpedia.org/resource/Et_Cetera_(Wayne_Shorter_album),http://dbpedia.org/resource/Etcetera_(Beatles_song)
+0,29,Drive My Car,"http://dbpedia.org/resource/Get_Outta_My_Dreams,_Get_into_My_Car",http://dbpedia.org/resource/Drive_My_Car_(The_Beatles_song) http://dbpedia.org/resource/Drive_My_Car http://dbpedia.org/resource/Baby_You_Can_Drive_My_Car

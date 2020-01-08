@@ -1,0 +1,4 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Laydown,http://es.dbpedia.org/resource/Laydown,http://dbpedia.org/resource/Laydown http://dbpedia.org/resource/Laydown_delivery
+0,2,Loft,http://dbpedia.org/resource/Loft_(2008_film),http://dbpedia.org/resource/Over-the-shoulder_bombing http://dbpedia.org/resource/The_Idiot's_Loop http://dbpedia.org/resource/Low_Altitude_Bombing_System http://dbpedia.org/resource/Low_altitude_bombing_system http://dbpedia.org/resource/LABS_maneuver http://dbpedia.org/resource/Toss_bombing http://dbpedia.org/resource/Loft_bombing

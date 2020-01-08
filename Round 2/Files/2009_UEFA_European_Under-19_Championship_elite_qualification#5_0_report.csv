@@ -1,0 +1,6 @@
+"F1: 0.00000","Precision: 0.00000","Recall: 0.00000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","1","England","http://dbpedia.org/resource/England","http://dbpedia.org/resource/England_U19 http://dbpedia.org/resource/England_under-19_national_football_team http://dbpedia.org/resource/England_national_under-19_football_team"
+"0","2","Scotland","http://dbpedia.org/resource/Scotland","http://dbpedia.org/resource/Scotland_national_under-19_football_team"
+"0","3","Slovakia","http://dbpedia.org/resource/Slovakia","http://dbpedia.org/resource/Slovakia_national_under-19_football_team"
+"0","4","Bosnia and Herzegovina","http://dbpedia.org/resource/Bosnia_and_Herzegovina","http://dbpedia.org/resource/Bosnia_and_Herzegovina_national_under-19_football_team http://dbpedia.org/resource/Bosnia_national_under-19_football_team"

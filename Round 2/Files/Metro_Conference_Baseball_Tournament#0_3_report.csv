@@ -1,0 +1,6 @@
+"F1: 0.20000","Precision: 0.20000","Recall: 0.20000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"3","2","Terry Kennedy, Florida State","http://dbpedia.org/resource/Rose_Kennedy:_A_Life_to_Remember","http://dbpedia.org/resource/Terry_Kennedy_(baseball) http://dbpedia.org/resource/Terry_Kennedy_(Baseball_Player)"
+"3","5","Mike Fuentes, Florida State","http://dbpedia.org/resource/Mike_Fuentes_(musician)","http://dbpedia.org/resource/Mike_Fuentes"
+"3","9","Jody Reed, Florida State","http://dbpedia.org/resource/University_of_Florida","http://dbpedia.org/resource/Jody_Reed"
+"3","11","Mike Loynd, Florida State","http://dbpedia.org/resource/Mike_Hill_(American_politician)","http://dbpedia.org/resource/Mike_Loynd"

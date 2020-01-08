@@ -1,0 +1,11 @@
+F1: 0.90722,Precision: 0.90722,Recall: 0.90722,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,5,Dreaming of Babylon: A Private Eye Novel 1942,http://dbpedia.org/resource/Dreaming_of_Babylon,http://dbpedia.org/resource/Dreaming_of_Babylon:_A_Private_Eye_Novel_1942
+0,26,Dragon,http://dbpedia.org/resource/Dragons!,http://dbpedia.org/resource/Dragon_(Cussler) http://dbpedia.org/resource/Dragon_(Cussler_novel) http://dbpedia.org/resource/Dragon_(Clive_Cussler_novel)
+0,27,Dragon,http://dbpedia.org/resource/Dragons!,http://dbpedia.org/resource/Dragon_(Brust_novel) http://dbpedia.org/resource/Dragon_(Steven_Brust_novel)
+0,34,Double Cross,http://dbpedia.org/resource/Double_Cross_(album),http://dbpedia.org/resource/Double_Cross_(novel)
+0,49,Diary,http://dbpedia.org/resource/The_Diary_of_a_Young_Girl,http://dbpedia.org/resource/Diary_(novel)
+0,56,Deep Water,http://dbpedia.org/resource/Deep_Water_(Highsmith_novel),http://dbpedia.org/resource/Deep_Water_(Buffy) http://dbpedia.org/resource/Deep_Water_(Buffy_novel) http://dbpedia.org/resource/Deep_Water_(Buffy_Novel)
+0,78,Dark Fire,http://dbpedia.org/resource/Dark_Fire_(The_Last_Dragon_Chronicles),http://dbpedia.org/resource/Dark_Fire_(Feehan_novel)
+0,81,Dangerous Games,http://dbpedia.org/resource/The_Dangerous_Games,http://dbpedia.org/resource/Dangerous_Games_(anthology)
+0,85,Dance Dance Dance,"http://dbpedia.org/resource/Dance,_Dance,_Dance_(song)","http://dbpedia.org/resource/Dance_Dance_Dance_(novel) http://dbpedia.org/resource/Dansu,_dansu,_dansu http://dbpedia.org/resource/Dansu_dansu_dansu"

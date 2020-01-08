@@ -1,0 +1,10 @@
+F1: 0.80952,Precision: 0.80952,Recall: 0.80952,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,1,Regensburg,http://dbpedia.org/resource/Regensburg,http://dbpedia.org/resource/Landkreis_Regensburg http://dbpedia.org/resource/Regensburg_district http://dbpedia.org/resource/Regensburg_(district)
+2,7,"Whitewater, Colorado","http://dbpedia.org/resource/Whitewater,_California","http://dbpedia.org/resource/Whitewater,_Colorado"
+2,8,"Thunder Bay District, Ontario",http://dbpedia.org/resource/Thunder_Bay,"http://dbpedia.org/resource/Thunder_Bay_District http://dbpedia.org/resource/Thunder_Bay_District,_ON http://dbpedia.org/resource/Thunder_Bay_District,_Ontario"
+2,9,"Thunder Bay District, Ontario",http://dbpedia.org/resource/Thunder_Bay,"http://dbpedia.org/resource/Thunder_Bay_District http://dbpedia.org/resource/Thunder_Bay_District,_ON http://dbpedia.org/resource/Thunder_Bay_District,_Ontario"
+2,13,"Cochrane District, Ontario",http://dbpedia.org/resource/Timiskaming—Cochrane_(provincial_electoral_district),"http://dbpedia.org/resource/Cochrane_District,_ON http://dbpedia.org/resource/Cochrane_District http://dbpedia.org/resource/Cochrane_District,_Ontario"
+2,22,"Thunder Bay District, Ontario",http://dbpedia.org/resource/Thunder_Bay,"http://dbpedia.org/resource/Thunder_Bay_District http://dbpedia.org/resource/Thunder_Bay_District,_ON http://dbpedia.org/resource/Thunder_Bay_District,_Ontario"
+2,30,"Newark, Delaware","http://dbpedia.org/resource/Newark,_New_Jersey","http://dbpedia.org/resource/Newark_(DE) http://dbpedia.org/resource/UN/LOCODE:USNWK http://dbpedia.org/resource/Newark,_DE http://dbpedia.org/resource/Newark_de http://dbpedia.org/resource/History_of_Newark,_Delaware http://dbpedia.org/resource/Newark,_Delaware http://dbpedia.org/resource/South_Newark,_Delaware"
+2,37,"West River, Ontario",http://dbpedia.org/resource/Ontario,"http://dbpedia.org/resource/West_River,_Ontario"

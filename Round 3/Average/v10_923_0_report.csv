@@ -1,0 +1,5 @@
+F1: 0.66667,Precision: 0.66667,Recall: 0.66667,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,T. King,http://dbpedia.org/resource/William_IV_of_the_United_Kingdom,http://dbpedia.org/resource/Thomas_King_(New_Zealand_politician)
+0,8,J. Menzies,http://dbpedia.org/resource/Robert_Menzies,http://dbpedia.org/resource/James_Menzies_(Australian_politician) http://dbpedia.org/resource/James_Menzies_(Victorian_politician)
+0,9,G. Layton,http://dbpedia.org/resource/Jack_Layton,http://dbpedia.org/resource/Gilbert_Layton

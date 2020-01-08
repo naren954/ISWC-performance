@@ -1,0 +1,5 @@
+"F1: 0.91176","Precision: 0.91176","Recall: 0.91176"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","14","Yellow-eared barbet","http://dbpedia.org/resource/Blue-eared_barbet","http://dbpedia.org/resource/Yellow-eared_barbet http://dbpedia.org/resource/Psilopogon_australis http://dbpedia.org/resource/Megalaima_australis"
+"0","23","Yellow-crowned canary","http://dbpedia.org/resource/Yellow-fronted_canary","http://dbpedia.org/resource/Serinus_flavivertex http://dbpedia.org/resource/Yellow-crowned_canary http://dbpedia.org/resource/Yellow-crowned_Canary"
+"0","29","Yellow-crested woodpecker","http://dbpedia.org/resource/Yellow-crowned_woodpecker","http://dbpedia.org/resource/Golden-crowned_woodpecker http://dbpedia.org/resource/Golden-crowned_Woodpecker http://dbpedia.org/resource/Yellow-crested_Woodpecker http://dbpedia.org/resource/Yellow-crested_woodpecker http://dbpedia.org/resource/Dendropicos_xantholophus http://dbpedia.org/resource/Chloropicus_xantholophus http://dbpedia.org/resource/Thripias_xantholophus"

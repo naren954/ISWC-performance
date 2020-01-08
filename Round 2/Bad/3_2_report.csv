@@ -1,0 +1,7 @@
+F1: 0.37500,Precision: 0.37500,Recall: 0.37500,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,1,E. Rubinstein,http://dbpedia.org/resource/Anton_Rubinstein,http://dbpedia.org/resource/Eva_Rubinstein
+2,2,"William Barrington, 6th Viscount Barrington","http://dbpedia.org/resource/William_Sidney,_1st_Viscount_De_L'Isle","http://dbpedia.org/resource/William_Barrington,_6th_Viscount_Barrington http://dbpedia.org/resource/William_Keppel_Barrington,_6th_Viscount_Barrington http://dbpedia.org/resource/William_Keppel_Barrington"
+2,3,A. L. More,http://dbpedia.org/resource/Paul_Elmer_More,"http://dbpedia.org/resource/Alice_More http://dbpedia.org/resource/Alice,_Lady_More"
+2,7,D. baronets,"http://dbpedia.org/resource/Sir_Arthur_Dyke_Acland,_13th_Baronet",http://dbpedia.org/resource/Davers_baronets http://dbpedia.org/resource/Davers_Baronets
+2,8,S. Hoadly,http://dbpedia.org/resource/Benjamin_Hoadly,http://dbpedia.org/resource/Sarah_Hoadly http://dbpedia.org/resource/Sarah_Curtis

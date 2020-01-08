@@ -1,0 +1,4 @@
+F1: 0.87500,Precision: 0.87500,Recall: 0.87500,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,6,Caja Segovia,http://dbpedia.org/resource/Segovia_Futsal,http://dbpedia.org/resource/Caja_Segovia_FS
+1,15,Playas de CastellÃ³n,http://dbpedia.org/resource/CFS_Bisontes_Castellón,http://dbpedia.org/resource/Playas_de_Castellón_FS

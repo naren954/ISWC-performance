@@ -1,0 +1,7 @@
+"F1: 0.68750","Precision: 0.68750","Recall: 0.68750"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","4","A. Giolitti","http://dbpedia.org/resource/Giovanni_Giolitti","http://dbpedia.org/resource/Alberto_Giolitti"
+"0","8","A. Williamson","http://dbpedia.org/resource/Nicol_Williamson","http://dbpedia.org/resource/Al_Williamson"
+"0","9","A. Taliaferro","http://dbpedia.org/resource/Edith_Taliaferro","http://dbpedia.org/resource/Al_Taliaferro"
+"0","10","A. Smith","http://dbpedia.org/resource/Tony_Smith_(sculptor)","http://dbpedia.org/resource/Al_Smith_(cartoonist)"
+"0","16","A. Roy","http://dbpedia.org/resource/Antoine_Roy","http://dbpedia.org/resource/Adrienne_roy http://dbpedia.org/resource/Adrienne_Roy"

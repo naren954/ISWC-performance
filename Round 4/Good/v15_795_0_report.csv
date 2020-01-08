@@ -1,0 +1,29 @@
+F1: 0.80000,Precision: 0.80000,Recall: 0.80000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,5,Vine Hill,"http://dbpedia.org/resource/Vine_Hill_(Centerville,_North_Carolina)","http://dbpedia.org/resource/Vine_Hill_(Cross_Bridge,_Tennessee)"
+0,9,Vincent Street Historic District,"http://dbpedia.org/resource/Main_Street_Historic_District_(New_Hamburg,_New_York)",http://dbpedia.org/resource/Vincent_Street_Historic_District
+0,15,Village School,http://dbpedia.org/resource/Delphi_Village_School,"http://dbpedia.org/resource/Village_School_(Unity,_Maine)"
+0,20,Villa Place Historic District,http://dbpedia.org/resource/Island_Place_Historic_District,http://dbpedia.org/resource/Villa_Place_Historic_District
+0,21,Villa Nova,"http://dbpedia.org/resource/Santa_Fe,_New_Mexico","http://dbpedia.org/resource/Villa_Nova_(Laurinburg,_North_Carolina)"
+0,22,Villa North Historic District,"http://dbpedia.org/resource/Downtown_North_Historic_District_(Hartford,_Connecticut)",http://dbpedia.org/resource/Villa_North_Historic_District
+0,23,Villa Maria Academy,http://dbpedia.org/resource/Villa_Maria_Motherhouse_Complex,http://dbpedia.org/resource/Villa_Maria_Academy_(1892)
+0,27,Vigilant Firehouse,http://dbpedia.org/resource/Vigilant_Firehouse,"http://dbpedia.org/resource/Vigilant_Firehouse_(Washington,_D.C.)"
+0,31,Victory Noll-St. Felix Friary Historic District,http://dbpedia.org/resource/Victory_Noll–St._Felix_Friary_Historic_District,http://dbpedia.org/resource/Victory_Noll-St._Felix_Friary_Historic_District
+0,34,Victoria Boulevard Historic District,http://dbpedia.org/resource/Jackson_Boulevard_District_and_Extension,http://dbpedia.org/resource/Victoria_Boulevard_Historic_District
+0,37,Vicksburg National Military Park,http://dbpedia.org/resource/Gettysburg_National_Military_Park,http://dbpedia.org/resource/Vicksburg_National_Military_Park http://dbpedia.org/resource/Grants_Canal http://dbpedia.org/resource/Vicksburg_Battlefield http://dbpedia.org/resource/Vicksburg_Cemetery http://dbpedia.org/resource/Vicksburg_National_Park http://dbpedia.org/resource/Vicksburg_National_Cemetery
+0,40,Veterans' Memorial Hall,"http://dbpedia.org/resource/Veterans_Memorial_Coliseum_(Portland,_Oregon)","http://dbpedia.org/resource/Veterans'_Memorial_Hall_(Richmond,_New_Hampshire)"
+0,46,Versailles,http://dbpedia.org/resource/Palace_of_Versailles,"http://dbpedia.org/resource/Versailles_(Burgess,_Virginia)"
+0,48,Verona,http://dbpedia.org/resource/Verona_Porta_Nuova_railway_station,"http://dbpedia.org/resource/Verona_(Jackson,_North_Carolina)"
+0,49,Vernon Square-Columbus Square Historic District,http://dbpedia.org/resource/Vernon_Square–Columbus_Square_Historic_District,http://dbpedia.org/resource/Vernon_Square-Columbus_Square_Historic_District
+0,56,Vermilyea Inn Historic District,http://dbpedia.org/resource/Wayside_Inn_Historic_District,http://dbpedia.org/resource/Vermilyea_Inn_Historic_District
+0,58,Vergennes Residential Historic District,"http://dbpedia.org/resource/Monroe_Residential_Historic_District_(Monroe,_North_Carolina)",http://dbpedia.org/resource/Vergennes_Residential_Historic_District
+0,76,Varina Commercial Historic District,http://dbpedia.org/resource/Sylvester_Commercial_Historic_District,http://dbpedia.org/resource/Varina_Commercial_Historic_District
+0,85,Vander Ende-Onderdonk House,http://dbpedia.org/resource/Vander_Ende–Onderdonk_House,http://dbpedia.org/resource/Vander_Ende-Onderdonk_House http://dbpedia.org/resource/Vander_Ende-Onderdonk_House_Site
+0,91,Van Wie Farmstead,http://dbpedia.org/resource/John_Carter_Farmstead,http://dbpedia.org/resource/Van_Wie_Farmstead
+0,96,Van Valkenburgh-Isbister Farm,http://dbpedia.org/resource/Van_Valkenburgh–Isbister_Farm,http://dbpedia.org/resource/Van_Valkenburgh-Isbister_Farm
+0,106,Van Houten-Ackerman House,http://dbpedia.org/resource/Van_Horn-Ackerman_House,"http://dbpedia.org/resource/Van_Houten-Ackerman_House_(Franklin_Lakes,_New_Jersey)"
+0,112,Van Buren Historic District,"http://dbpedia.org/resource/Main_Street_Historic_District_(Roslyn,_New_York)","http://dbpedia.org/resource/Van_Buren_Confederate_Monument http://dbpedia.org/resource/Van_Buren_Historic_District http://dbpedia.org/resource/Crawford_County_Courthouse_(Arkansas) http://dbpedia.org/resource/Crawford_County_Courthouse_(Van_Buren,_Arkansas)"
+0,113,Van Buren County Courthouse,http://dbpedia.org/resource/Van_Buren_County_Courthouse_(Iowa),http://dbpedia.org/resource/Van_Buren_County_Courthouse_(Michigan) http://dbpedia.org/resource/Van_Buren_County_Courthouse_Complex
+0,119,Valverda Plantation,http://dbpedia.org/resource/Everhope_Plantation,http://dbpedia.org/resource/Valverda_Plantation_House http://dbpedia.org/resource/Valverda_Plantation
+0,125,Valley Lodge,http://dbpedia.org/resource/Crater_Lake_Lodge,"http://dbpedia.org/resource/Valley_Lodge_(Baldwin,_Maine)"
+0,130,Valhalla Highlands Historic District,http://dbpedia.org/resource/Aurora_Highlands_Historic_District,http://dbpedia.org/resource/Valhalla_Highlands_Historic_District

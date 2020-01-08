@@ -1,0 +1,4 @@
+F1: 0.50000,Precision: 0.50000,Recall: 0.50000,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,1,You,http://dbpedia.org/resource/You_(actress),http://dbpedia.org/resource/Xiong_Han http://dbpedia.org/resource/King_You_of_Chu http://dbpedia.org/resource/Chu_You_Wang
+2,3,Jian,http://dbpedia.org/resource/Fu_Jian_(337–385),"http://dbpedia.org/resource/Qi_Wang_Jian http://dbpedia.org/resource/King_Jian_of_Qi http://dbpedia.org/resource/Tian_Jian http://dbpedia.org/resource/Jian,_King_of_Qi http://dbpedia.org/resource/Jian_of_Qi"

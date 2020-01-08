@@ -1,0 +1,6 @@
+F1: 0.66667,Precision: 0.66667,Recall: 0.66667,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,Summer,http://dbpedia.org/resource/Last_of_the_Summer_Wine,http://dbpedia.org/resource/Summer_(Disney_short) http://dbpedia.org/resource/Summer_(1930_film) http://dbpedia.org/resource/Summer_(disney_short)
+1,2,Autumn,http://dbpedia.org/resource/Autumn_(Don_Ellis_album),http://dbpedia.org/resource/Autumn_(1930_film)
+1,6,Night,http://dbpedia.org/resource/WWE_Raw,http://dbpedia.org/resource/Night_(1930_film)
+1,17,Winter,http://dbpedia.org/resource/Winter_Wonderland,http://dbpedia.org/resource/Winter_(1930_film)

@@ -1,0 +1,37 @@
+F1: 0.63918,Precision: 0.63918,Recall: 0.63918,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,J. Balfour,http://dbpedia.org/resource/Arthur_Balfour,http://dbpedia.org/resource/John_Balfour_(Queensland_politician)
+0,4,J. B. White,http://dbpedia.org/resource/Bill_Clinton,http://dbpedia.org/resource/John_Baker_White_(West_Virginia_politician)
+0,5,J. B. White,http://dbpedia.org/resource/Bill_Clinton,http://dbpedia.org/resource/John_Baker_White_(Virginia)
+0,8,J. Allen,http://dbpedia.org/resource/Joel_Asaph_Allen,http://dbpedia.org/resource/John_Allen_(CT_congressman) http://dbpedia.org/resource/John_Allen_(Connecticut)
+0,10,J. A. Bell,http://dbpedia.org/resource/Charles_J._Bell,http://dbpedia.org/resource/John_Alexander_Bell
+0,13,J. Adams,http://dbpedia.org/resource/John_Quincy_Adams,http://dbpedia.org/resource/Joel_Adams
+0,16,J. Scott,http://dbpedia.org/resource/John_Scott_(Australian_politician),http://dbpedia.org/resource/John_Wyeth_Scott http://dbpedia.org/resource/Jock_Scott http://dbpedia.org/resource/Jock_Scott_II http://dbpedia.org/resource/John_Wyeth_Scott_II http://dbpedia.org/resource/John_W._Scott_II http://dbpedia.org/resource/John_Scott_II
+0,19,J. D. Long,http://dbpedia.org/resource/John_Davis_Long,"http://dbpedia.org/resource/Jimmy_Long,_Sr. http://dbpedia.org/resource/Jimmy_Dale_Long,_Sr. http://dbpedia.org/resource/Jimmy_Dale_Long http://dbpedia.org/resource/Jimmy_D._Long http://dbpedia.org/resource/Jimmy_D._Long,_Sr. http://dbpedia.org/resource/Jimmy_Long"
+0,20,J. Riordan,http://dbpedia.org/resource/Joe_Riordan,http://dbpedia.org/resource/Jim_Riordan
+0,21,J. Luken,http://dbpedia.org/resource/Tom_Luken,http://dbpedia.org/resource/James_T._Luken http://dbpedia.org/resource/Jim_Luken http://dbpedia.org/resource/James_Luken
+0,22,J. Fowler,http://dbpedia.org/resource/James_Fowler_(Australian_politician),http://dbpedia.org/resource/Jerry_Fowler
+0,23,J. Wakefield,http://dbpedia.org/resource/James_Wakefield,http://dbpedia.org/resource/Jerningham_Wakefield http://dbpedia.org/resource/Edward_Jerningham_Wakefield
+0,24,J. Symonds,http://dbpedia.org/resource/Arthur_Symonds,http://dbpedia.org/resource/Jermyn_Symonds http://dbpedia.org/resource/John_Jermyn_Symonds
+0,30,J. Rolland,http://fr.dbpedia.org/resource/Jean-Louis_Rolland,http://dbpedia.org/resource/Jean-Damien_Rolland
+0,33,J. Rolland,http://fr.dbpedia.org/resource/Jean-Louis_Rolland,http://dbpedia.org/resource/Jean-Baptiste_Rolland
+0,37,J. Goodwill,,http://dbpedia.org/resource/Jasper_Goodwill
+0,40,J. Wilson,http://dbpedia.org/resource/Joe_Wilson_(American_politician),"http://dbpedia.org/resource/James_Wilson_(New_Zealand_politician_born_1849) http://dbpedia.org/resource/James_Glenny_Wilson http://dbpedia.org/resource/James_Wilson_(New_Zealand_politician) http://dbpedia.org/resource/James_Wilson_(New_Zealand_politician,_born_1849)"
+0,42,J. Walker,http://dbpedia.org/resource/Jimmy_Walker,http://dbpedia.org/resource/James_Walker_(Queensland_politician)
+0,46,J. Tolmie,http://dbpedia.org/resource/Donald_Tolmie,http://dbpedia.org/resource/James_Tolmie_(Australian_politician)
+0,49,J. S. Rollins,http://dbpedia.org/resource/James_S._Rollins,http://dbpedia.org/resource/James_S._Rollins_(20th_century_politician) http://dbpedia.org/resource/James_S._Rollins_(20th-century_politician)
+0,50,J. Roosevelt,http://dbpedia.org/resource/James_Roosevelt,http://dbpedia.org/resource/James_Roosevelt_(1760-1847) http://dbpedia.org/resource/Jacobus_James_Roosevelt http://dbpedia.org/resource/James_Jacobus_Roosevelt http://dbpedia.org/resource/James_Roosevelt_(1760–1847)
+0,52,J. Morgan,http://dbpedia.org/resource/James_Morgan_(congressman),http://dbpedia.org/resource/James_Morgan_(Queensland_politician)
+0,54,J. Johnson,http://dbpedia.org/resource/Lyndon_B._Johnson,http://dbpedia.org/resource/James_Johnson_(Kentucky) http://dbpedia.org/resource/James_Johnson_(congressman)
+0,55,J. H. Otey,http://dbpedia.org/resource/Peter_J._Otey,http://dbpedia.org/resource/James_H._Otey http://dbpedia.org/resource/James_Hervey_Otey http://dbpedia.org/resource/James_Otey
+0,58,J. Gapes,http://dbpedia.org/resource/Mike_Gapes,http://dbpedia.org/resource/James_Gapes
+0,60,J. FitzGerald,http://dbpedia.org/resource/John_F._Kennedy,"http://dbpedia.org/resource/James_E._Fitzgerald http://dbpedia.org/resource/James_Edward_FitzGerald http://dbpedia.org/resource/Fitzgerald,_James http://dbpedia.org/resource/Fitzgerald_Ministry,_1854 http://dbpedia.org/resource/James_FitzGerald"
+0,61,J. F. Robinson,"http://dbpedia.org/resource/F._J._Robinson,_1st_Viscount_Goderich",http://dbpedia.org/resource/James_Fisher_Robinson http://dbpedia.org/resource/James_F._Robinson
+0,68,J. Coyne,http://dbpedia.org/resource/William_J._Coyne,http://dbpedia.org/resource/The_Coyne_Crisis http://dbpedia.org/resource/James_Coyne http://dbpedia.org/resource/The_Coyne_Affair http://dbpedia.org/resource/James_Elliott_Coyne
+0,71,J. Clark,http://dbpedia.org/resource/James_Clark_(Kentucky),http://dbpedia.org/resource/James_Clark_(businessman) http://dbpedia.org/resource/James_McCosh_Clark http://dbpedia.org/resource/James_Clark_(New_Zealand)
+0,73,J. Carr,http://dbpedia.org/resource/Jody_Carr,http://dbpedia.org/resource/James_Carr_(Massachusetts_politician) http://dbpedia.org/resource/James_Carr_(Massachusetts)
+0,74,J. Campbell,http://dbpedia.org/resource/Joseph_Campbell,"http://dbpedia.org/resource/James_Campbell_(British_Army_officer,_died_1858) http://dbpedia.org/resource/James_Campbell_(land_commissioner)"
+0,76,J. Belich,http://dbpedia.org/resource/Jim_Belich,http://dbpedia.org/resource/James_Belich_(politician) http://dbpedia.org/resource/James_Belich_(mayor)
+0,83,J. Viger,http://dbpedia.org/resource/Jacques_Viger_(mayor),http://dbpedia.org/resource/Jacques_Viger_(1787-1858) http://dbpedia.org/resource/Jacques_Viger_(1787–1858)
+0,93,J. Taylor,http://dbpedia.org/resource/Jonathan_Taylor_(congressman),http://dbpedia.org/resource/Jack_Taylor_(Arizona_politician)
+0,97,J. Batton,http://dbpedia.org/resource/J._D._Batton,http://dbpedia.org/resource/Jack_Batton

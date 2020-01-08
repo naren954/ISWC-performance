@@ -1,0 +1,6 @@
+F1: 0.69231,Precision: 0.69231,Recall: 0.69231,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,Lloyd,http://dbpedia.org/resource/Harry_Lloyd,http://dbpedia.org/resource/Lloyd_(film)
+1,2,Cellular,http://de.dbpedia.org/resource/Cellular_Oncology,http://dbpedia.org/resource/Cellular_(movie) http://dbpedia.org/resource/Cellular_(film)
+1,5,Connected,http://dbpedia.org/resource/Connected_(The_Foreign_Exchange_album),http://dbpedia.org/resource/Connected_(2008_film) http://dbpedia.org/resource/Connected_(film)
+1,10,iNumber Number,http://dbpedia.org/resource/Avenged_(2013_South_African_film),http://dbpedia.org/resource/INumber_Number http://dbpedia.org/resource/INumberNumber http://dbpedia.org/resource/Avenged_(2013_film) http://dbpedia.org/resource/Number_Number

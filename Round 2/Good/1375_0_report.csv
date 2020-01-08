@@ -1,0 +1,4 @@
+F1: 0.85714,Precision: 0.85714,Recall: 0.85714,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,5,Tinners Way,http://dbpedia.org/resource/Tinners_Way,http://dbpedia.org/resource/Tinners_Way_(horse)
+0,12,Integral,http://dbpedia.org/resource/Integral_geometry,http://dbpedia.org/resource/Integral_(horse)

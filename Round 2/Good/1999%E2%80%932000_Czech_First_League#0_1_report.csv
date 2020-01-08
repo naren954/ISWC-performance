@@ -1,0 +1,5 @@
+F1: 0.81250,Precision: 0.81250,Recall: 0.81250,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,6,FK Dukla PÅ\u0099Ã­bram,http://dbpedia.org/resource/FK_Dukla_Banská_Bystrica,http://dbpedia.org/resource/FK_Marila_Příbram
+1,13,SK Ä\u008CeskÃ© BudÄ\u009Bjovice,,http://dbpedia.org/resource/SK_České_Budějovice
+1,16,SK Hradec KrÃ¡lovÃ©,http://dbpedia.org/resource/FC_Hradec_Králové,http://dbpedia.org/resource/SK_Hradec_Králové

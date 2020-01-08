@@ -1,0 +1,17 @@
+F1: 0.86957,Precision: 0.86957,Recall: 0.86957,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,9,Windsor Bridge,http://dbpedia.org/resource/Windsor_Bridge,http://dbpedia.org/resource/Windsor_Bridge_(New_South_Wales) http://dbpedia.org/resource/Hawkesbury_River_Bridge_(Windsor)
+0,20,Washington Bridge,http://dbpedia.org/resource/Washington_Bridge_(Connecticut),"http://dbpedia.org/resource/Washington_Bridge_(Rhode_Island) http://dbpedia.org/resource/Washington_Bridge_(Providence) http://dbpedia.org/resource/Washington_Bridge_(Providence,_Rhode_Island)"
+0,30,Victoria Bridge,http://dbpedia.org/resource/Victoria_Bridge_(Montreal),http://dbpedia.org/resource/Victoria_Bridge_(Stockton-on-Tees)
+0,31,Victoria Bridge,http://dbpedia.org/resource/Victoria_Bridge_(Montreal),http://dbpedia.org/resource/Victoria_Bridge_(Penrith)
+0,34,Veterans Memorial Bridge,http://dbpedia.org/resource/Gramercy_Bridge,"http://dbpedia.org/resource/Veterans_Memorial_Bridge_(Rochester,_New_York)"
+0,36,Varda Viaduct,http://dbpedia.org/resource/Ribblehead_Viaduct,http://dbpedia.org/resource/Varda_Viaduct http://dbpedia.org/resource/Varda_Bridge
+0,39,University Bridge,http://dbpedia.org/resource/University_Bridge_(Seattle),http://dbpedia.org/resource/University_Bridge_(Saskatoon)
+0,45,Tunkhannock Viaduct,http://dbpedia.org/resource/Ribblehead_Viaduct,http://dbpedia.org/resource/Nicholson_viaduct http://dbpedia.org/resource/Nicholson_Viaduct http://dbpedia.org/resource/Nicholson_Bridge http://dbpedia.org/resource/Tunkhannock_Viaduct
+0,48,Tower Bridge,http://dbpedia.org/resource/Tower_Bridge,http://dbpedia.org/resource/Tower_Bridge_(California) http://dbpedia.org/resource/Tower_Bridge_(Sacramento) http://dbpedia.org/resource/M_Street_Bridge_(Sacramento)
+0,56,Theodor Heuss Bridge,http://dbpedia.org/resource/Theodor_Heuss_Bridge_(Mainz-Wiesbaden),http://dbpedia.org/resource/Theodor_Heuss_Bridge_(Duesseldorf) http://dbpedia.org/resource/Theodor-Heuss-Brücke http://dbpedia.org/resource/Theodor_Heuss_Bridge_(Düsseldorf) http://dbpedia.org/resource/Theodor_Heuss_Bridge_(Dusseldorf)
+0,60,Teesquay Millennium Footbridge,"http://dbpedia.org/resource/Millennium_Bridge,_London",http://dbpedia.org/resource/Teesquay_Millennium_Footbridge http://dbpedia.org/resource/Teesquay_Millennium_Bridge
+0,68,Taftsville Bridge,http://dbpedia.org/resource/Boone_Bridge,http://dbpedia.org/resource/Taftsville_Bridge http://dbpedia.org/resource/Taftsville_Covered_Bridge
+0,79,Staines Railway Bridge,http://dbpedia.org/resource/Barnes_Railway_Bridge,http://dbpedia.org/resource/Staines_Railway_Bridge
+0,97,Sequin Covered Bridge,http://dbpedia.org/resource/Smith_Covered_Bridge,http://dbpedia.org/resource/Sequin_Covered_Bridge
+0,104,Schmittentobel Viaduct,http://dbpedia.org/resource/Ribblehead_Viaduct,http://dbpedia.org/resource/Schmittentobel_Viaduct

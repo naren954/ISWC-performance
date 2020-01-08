@@ -1,0 +1,11 @@
+F1: 0.59091,Precision: 0.59091,Recall: 0.59091,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,T. Kelly,http://dbpedia.org/resource/Tom_Kelly_(basketball),http://dbpedia.org/resource/Todd_Kelly_(American_football) http://dbpedia.org/resource/Todd_Kelly_(football_player)
+0,5,T. Johnson,http://dbpedia.org/resource/Terrence_Johnson,http://dbpedia.org/resource/Todd_Johnson
+0,11,T. Ellis,http://dbpedia.org/resource/Tyrone_Ellis,http://dbpedia.org/resource/Todd_Ellis
+0,12,T. Collins,http://dbpedia.org/resource/Tony_Collins_(American_football),http://dbpedia.org/resource/Todd_Collins_(quarterback)
+0,13,T. Collins,http://dbpedia.org/resource/Tony_Collins_(American_football),http://dbpedia.org/resource/Todd_Collins_(linebacker)
+0,16,T. Williams,http://dbpedia.org/resource/Thomas_Williams_(American_football),http://dbpedia.org/resource/Toby_Williams
+0,19,T. Young,http://dbpedia.org/resource/Tyrone_Young,http://dbpedia.org/resource/Titus_Young
+0,20,T. Dixon,http://dbpedia.org/resource/Tom_Dixon_(American_football),http://dbpedia.org/resource/Titus_Dixon http://dbpedia.org/resource/Titus_dixon
+0,21,T. Adams,http://dbpedia.org/resource/Theo_Adams_(American_football),"http://dbpedia.org/resource/Adams,_Titus http://dbpedia.org/resource/Titus_Adams"

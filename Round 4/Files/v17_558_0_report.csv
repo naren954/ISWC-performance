@@ -1,0 +1,4 @@
+"F1: 0.77778","Precision: 0.77778","Recall: 0.77778"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","1","Ford Barra engine","http://dbpedia.org/resource/Ford_335_engine","http://dbpedia.org/resource/Ford_Barra http://dbpedia.org/resource/Ford_Barra_engine http://dbpedia.org/resource/Ford_barra_engine"
+"0","3","FCA F160 engine","http://dbpedia.org/resource/FS_Class_E.464","http://dbpedia.org/resource/Ferrari_F160_engine http://dbpedia.org/resource/FCA_F160_engine"

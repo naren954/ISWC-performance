@@ -1,0 +1,4 @@
+F1: 0.33333,Precision: 0.33333,Recall: 0.33333,,
+Col,Row,Value,Submitted URI,Correct URI's
+5,1,Neral,http://dbpedia.org/resource/Citral,"http://dbpedia.org/resource/Neral,_India http://dbpedia.org/resource/Neral_India"
+5,3,South Tynedale Railway,"http://dbpedia.org/resource/South_Coast_railway_line,_New_South_Wales",http://dbpedia.org/resource/Alston_to_Haltwhistle_Railway http://dbpedia.org/resource/Haltwhistle_Viaduct http://dbpedia.org/resource/Langley_Viaduct http://dbpedia.org/resource/Kirkhaugh_railway_station http://dbpedia.org/resource/South_Tynedale_Railway http://dbpedia.org/resource/Alston_Branch http://dbpedia.org/resource/Alston_Arches

@@ -1,0 +1,6 @@
+F1: 0.55556,Precision: 0.55556,Recall: 0.55556,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,4,Ferencvárosi TC,http://dbpedia.org/resource/Ferencvárosi_TC_(women's_handball),http://dbpedia.org/resource/Budapesti_Kinizsi http://dbpedia.org/resource/Ferencvárosi_TC http://dbpedia.org/resource/Ferencvárosi_Torna_Club http://dbpedia.org/resource/Fradi http://dbpedia.org/resource/ÉDOSZ http://dbpedia.org/resource/Ferencvarosi_TC http://dbpedia.org/resource/Ferencváros_TC
+2,5,Újpesti TE,http://fr.dbpedia.org/resource/Újpesti_TE_(volley-ball_féminin),http://dbpedia.org/resource/Újpesti_TE http://dbpedia.org/resource/Ujpesti_TE
+2,6,Újpesti TE,http://fr.dbpedia.org/resource/Újpesti_TE_(volley-ball_féminin),http://dbpedia.org/resource/Újpesti_TE http://dbpedia.org/resource/Ujpesti_TE
+2,7,Újpesti TE,http://fr.dbpedia.org/resource/Újpesti_TE_(volley-ball_féminin),http://dbpedia.org/resource/Újpesti_TE http://dbpedia.org/resource/Ujpesti_TE

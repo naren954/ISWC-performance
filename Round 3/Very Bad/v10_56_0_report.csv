@@ -1,0 +1,13 @@
+F1: 0.15385,Precision: 0.15385,Recall: 0.15385,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Beige,,http://dbpedia.org/resource/Beige
+0,2,Baker-Miller Pink,http://dbpedia.org/resource/Bakers_Pink,http://dbpedia.org/resource/Schauss_Pink http://dbpedia.org/resource/Baker-Miller_Pink http://dbpedia.org/resource/P-618
+0,3,Baby blue,http://fr.dbpedia.org/resource/Baby_blue,http://dbpedia.org/resource/Baby_blue http://dbpedia.org/resource/Baby_Blue. http://dbpedia.org/resource/Baby_Blue
+0,4,Auburn hair,"http://dbpedia.org/resource/Auburn_Hills,_Michigan",http://dbpedia.org/resource/Auburn_(color) http://dbpedia.org/resource/Abram_(color) http://dbpedia.org/resource/Auburn_hair http://dbpedia.org/resource/Auburn_(colour) http://dbpedia.org/resource/Abram-color http://dbpedia.org/resource/Auburn_color
+0,6,Aqua,http://dbpedia.org/resource/Water,http://dbpedia.org/resource/Aqua_color http://dbpedia.org/resource/Aqua_(colour) http://dbpedia.org/resource/Aqua_(color)
+0,7,Apricot,"http://dbpedia.org/resource/Apricot,_Washington",http://dbpedia.org/resource/Apricot_(colour) http://dbpedia.org/resource/Apricot_(color)
+0,8,Android green,http://dbpedia.org/resource/Android_(operating_system),http://dbpedia.org/resource/Android_green
+0,9,Amber,,http://dbpedia.org/resource/Orange-yellow http://dbpedia.org/resource/SAE/ECE_amber http://dbpedia.org/resource/Amber_(colour) http://dbpedia.org/resource/Yellow-orange http://dbpedia.org/resource/Amber_(color) http://dbpedia.org/resource/Amber_color http://dbpedia.org/resource/UNECE_Amber
+0,10,Amaranth,http://dbpedia.org/resource/Peltogyne,http://dbpedia.org/resource/Amaranth_purple http://dbpedia.org/resource/Amaranth_(color) http://dbpedia.org/resource/Amaranth_pink
+0,11,Alizarin crimson,http://dbpedia.org/resource/Alizarin_crimson,http://dbpedia.org/resource/Alizarine_crimson_(color) http://dbpedia.org/resource/Alizarin_crimson_(color)
+0,13,Acid green,http://dbpedia.org/resource/Light_Green_SF,http://dbpedia.org/resource/Acid_green

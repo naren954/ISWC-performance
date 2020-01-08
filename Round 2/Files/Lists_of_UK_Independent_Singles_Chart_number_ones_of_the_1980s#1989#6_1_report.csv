@@ -1,0 +1,4 @@
+"F1: 0.81818","Precision: 0.81818","Recall: 0.81818"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","11","Tokyo Storm Warning","http://dbpedia.org/resource/Storm_Warning_(song)","http://dbpedia.org/resource/Tokyo_Storm_Warning"
+"1","19","Sometimes","http://dbpedia.org/resource/Sometimes_(Donkeyboy_song)","http://dbpedia.org/resource/Sometimes_(Erasure_song)"

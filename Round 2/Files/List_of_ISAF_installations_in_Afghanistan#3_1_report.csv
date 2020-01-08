@@ -1,0 +1,4 @@
+"F1: 0.00000","Precision: 0.00000","Recall: 0.00000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","2","Salerno","http://dbpedia.org/resource/Salerno","http://dbpedia.org/resource/FOB_Salerno http://dbpedia.org/resource/Forward_Operating_Base_Salerno http://dbpedia.org/resource/Salerno_Fire_Base http://dbpedia.org/resource/Camp_Pucino http://dbpedia.org/resource/FOB_Salerno,_Afghanistan http://dbpedia.org/resource/Firebase_Salerno http://dbpedia.org/resource/Camp_Salerno http://dbpedia.org/resource/Forward_Operating_Base_Salerno,_Afghanistan"
+"1","5","Chapman Camp Chapman","http://dbpedia.org/resource/Camp_Chapman_attack","http://dbpedia.org/resource/Chapman_base http://dbpedia.org/resource/FOB_Chapman http://dbpedia.org/resource/Forward_Operating_Base_Chapman http://dbpedia.org/resource/Base_Chapman http://dbpedia.org/resource/Camp_Chapman"

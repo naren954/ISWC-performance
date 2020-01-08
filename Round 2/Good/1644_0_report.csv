@@ -1,0 +1,25 @@
+F1: 0.85535,Precision: 0.85535,Recall: 0.85535,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,4,T. Taylor,"http://dbpedia.org/resource/Tommy_Taylor_(footballer,_born_1951)",http://dbpedia.org/resource/Tony_Taylor_(footballer)
+0,6,T. Smith,http://dbpedia.org/resource/Tony_Smith_(basketball),"http://dbpedia.org/resource/Tony_Smith_(footballer_born_1973) http://dbpedia.org/resource/Tony_Smith_(footballer,_born_1973)"
+0,12,T. Pennock,http://dbpedia.org/resource/Adrian_Pennock,http://dbpedia.org/resource/Tony_Pennock
+0,24,T. Henderson,http://dbpedia.org/resource/Tom_Henderson_(basketball),http://dbpedia.org/resource/Tony_Henderson
+0,26,T. Gustavsson,http://dbpedia.org/resource/Bengt_Gustavsson,http://dbpedia.org/resource/Tony_Gustavsson
+0,27,T. Godfrey,http://dbpedia.org/resource/Brian_Godfrey,http://dbpedia.org/resource/Tony_Godfrey_(footballer) http://dbpedia.org/resource/Tony_Godfrey
+0,37,T. Burns,http://dbpedia.org/resource/Tommy_Burns_(footballer),http://dbpedia.org/resource/Tony_Burns
+0,45,T. Andrade,http://dbpedia.org/resource/Tomás_Andrade,http://dbpedia.org/resource/Toninho_Andrade
+0,51,T. Gil,http://dbpedia.org/resource/Tomás_Gil,http://dbpedia.org/resource/Tonho_Gil http://dbpedia.org/resource/Antonio_Jose_Gil http://dbpedia.org/resource/Antônio_José_Gil
+0,64,T. Wright,"http://dbpedia.org/resource/Tommy_Wright_(footballer,_born_1984)","http://dbpedia.org/resource/Tommy_Wright_(footballer,_born_1966) http://dbpedia.org/resource/Tommy_E._Wright http://dbpedia.org/resource/Tommy_Wright_(footballer_born_1966) http://dbpedia.org/resource/Tommy_Wright_(Scottish) http://dbpedia.org/resource/Tommy_Wright_(Scottish_footballer)"
+0,65,T. Wright,"http://dbpedia.org/resource/Tommy_Wright_(footballer,_born_1984)","http://dbpedia.org/resource/Tommy_Wright_(Northern_Ireland_footballer) http://dbpedia.org/resource/Tommy_Wright_(footballer_born_1963) http://dbpedia.org/resource/Tommy_Wright_(Northern_Irish_footballer) http://dbpedia.org/resource/Tommy_Wright_(Northern_Ireland) http://dbpedia.org/resource/Tommy_J._Wright http://dbpedia.org/resource/Tommy_Wright_(footballer,_born_1963)"
+0,67,T. Watson,http://dbpedia.org/resource/Tom_Watson_(football_manager),"http://dbpedia.org/resource/Tommy_Watson_(footballer,_born_1969) http://dbpedia.org/resource/Tommy_Watson_(footballer_born_1969)"
+0,68,T. Walker,http://dbpedia.org/resource/Tilly_Walker,"http://dbpedia.org/resource/Tommy_Walker_(footballer_born_1915) http://dbpedia.org/resource/Tommy_Walker_(footballer,_born_1915)"
+0,72,T. Smith,http://dbpedia.org/resource/Tony_Smith_(basketball),"http://dbpedia.org/resource/Tommy_Smith_(Liverpool_footballer) http://dbpedia.org/resource/Tommy_Smith_(footballer_born_1945) http://dbpedia.org/resource/Tommy_Smith_(footballer,_born_1945)"
+0,79,T. Miller,http://dbpedia.org/resource/Tyler_Miller_(soccer),http://dbpedia.org/resource/Tommy_Miller
+0,82,T. Mason,http://dbpedia.org/resource/Tommy_Mason,http://dbpedia.org/resource/Tommy_Mason_(footballer)
+0,87,T. Jones,"http://dbpedia.org/resource/Thomas_Jones_(footballer,_born_1884)","http://dbpedia.org/resource/Tommy_Jones_(footballer,_born_1909) http://dbpedia.org/resource/Tommy_Jones_(footballer_born_1909) http://dbpedia.org/resource/Tommy_Jones_(footballer)"
+0,90,T. Jackson,http://dbpedia.org/resource/Travis_Jackson,"http://dbpedia.org/resource/Tommy_Jackson_(footballer,_born_1946) http://dbpedia.org/resource/Tommy_Jackson_(footballer_born_1946)"
+0,96,T. Fleming,http://dbpedia.org/resource/Terry_Fleming,http://dbpedia.org/resource/Tommy_Fleming_(soccer_player) http://dbpedia.org/resource/Tommy_Fleming_(soccer)
+0,99,T. Dunne,http://dbpedia.org/resource/Tony_Dunne,"http://dbpedia.org/resource/Tommy_Dunne_(footballer,_born_1972) http://dbpedia.org/resource/Tommy_Dunne_(footballer_born_1972)"
+0,117,T. Anderson,http://dbpedia.org/resource/Tommy_Anderson_(ice_hockey),http://dbpedia.org/resource/Thomas_Anderson_(footballer_born_1934) http://dbpedia.org/resource/Tom_Anderson_(footballer_born_1934) http://dbpedia.org/resource/Tommy_Anderson_(footballer)
+0,143,T. Sloan,"http://dbpedia.org/resource/Tommy_Sloan_(footballer,_born_1964)","http://dbpedia.org/resource/Tom_Sloan_(footballer_born_1900) http://dbpedia.org/resource/Tom_Sloan_(footballer,_born_1900)"
+0,152,T. Jones,"http://dbpedia.org/resource/Thomas_Jones_(footballer,_born_1884)","http://dbpedia.org/resource/Tom_Jones_(footballer,_born_1964) http://dbpedia.org/resource/Tom_Jones_(football) http://dbpedia.org/resource/Tom_Jones_(footballer_born_1964)"

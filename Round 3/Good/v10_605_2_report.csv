@@ -1,0 +1,4 @@
+F1: 0.94595,Precision: 0.94595,Recall: 0.94595,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,6,Faulkner State Community College,http://dbpedia.org/resource/Motlow_State_Community_College,http://dbpedia.org/resource/Faulkner_State_College http://dbpedia.org/resource/Faulkner_State_Community_College http://dbpedia.org/resource/James_H._Faulkner_State_Community_College
+2,24,North Idaho College,http://dbpedia.org/resource/Idaho_State_University,http://dbpedia.org/resource/The_Sentinel_(NIC) http://dbpedia.org/resource/Trestle_Creek_Review http://dbpedia.org/resource/The_Sentinel_(North_Idaho_College) http://dbpedia.org/resource/North_Idaho_College

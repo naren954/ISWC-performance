@@ -1,0 +1,5 @@
+"F1: 0.78571","Precision: 0.78571","Recall: 0.78571"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","6","MedveÅ¡Ä\u008Dak Zagreb","http://dbpedia.org/resource/Tomáš_Medveď","http://dbpedia.org/resource/KHL_Medveščak"
+"1","13","Spartak Moscow","http://dbpedia.org/resource/HC_MVD","http://dbpedia.org/resource/Moscow_Spartakus_HC http://dbpedia.org/resource/HC_Spartak_Moscow http://dbpedia.org/resource/HK_Spartak_Moscow http://dbpedia.org/resource/Moscow_Spartacus_HC http://dbpedia.org/resource/HK_Spartak_Moskau"
+"1","15","Dinamo Minsk","http://dbpedia.org/resource/FC_Dinamo_Minsk","http://dbpedia.org/resource/HC_Dinamo_Minsk http://dbpedia.org/resource/HC_Dinamo-Minsk http://dbpedia.org/resource/Dinamo-Shinnik http://dbpedia.org/resource/Dinama_Minsk http://dbpedia.org/resource/Dynama_Minsk http://dbpedia.org/resource/HK_Dinamo_Minsk http://dbpedia.org/resource/HC_Dynamo_Minsk http://dbpedia.org/resource/Minsk_Dynamo"

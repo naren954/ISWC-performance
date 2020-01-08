@@ -1,0 +1,8 @@
+F1: 0.73913,Precision: 0.73913,Recall: 0.73913,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,4,M. Miguel,http://dbpedia.org/resource/Mónica_Miguel,http://dbpedia.org/resource/Marlon_Miguel
+1,5,R. Varma,http://dbpedia.org/resource/Samyuktha_Varma,http://dbpedia.org/resource/Rahul_Varma
+1,9,D. Kwong,http://dbpedia.org/resource/Norman_Kwong,http://dbpedia.org/resource/Dan_Kwong
+1,11,J. Arias,http://dbpedia.org/resource/Jackelin_Arias,http://dbpedia.org/resource/Joey_Arias
+1,16,N. Cruz,http://dbpedia.org/resource/Penélope_Cruz,http://dbpedia.org/resource/Nilo_Cruz
+1,23,J. Leonard,http://dbpedia.org/resource/Joshua_Leonard,http://dbpedia.org/resource/Jim_Leonard

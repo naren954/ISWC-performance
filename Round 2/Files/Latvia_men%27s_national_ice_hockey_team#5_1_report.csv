@@ -1,0 +1,6 @@
+"F1: 0.55556","Precision: 0.55556","Recall: 0.55556"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","4","LeonÄ«ds BeresÅ\u0086evs","http://dbpedia.org/resource/Mădălina_Bereș","http://dbpedia.org/resource/Leonīds_Beresņevs"
+"1","7","LeonÄ«ds BeresÅ\u0086evs","http://dbpedia.org/resource/Mădălina_Bereș","http://dbpedia.org/resource/Leonīds_Beresņevs"
+"1","8","Petr Vorobiev","http://dbpedia.org/resource/Pyotr_Vorobyov","http://dbpedia.org/resource/Petr_Vorobiev http://dbpedia.org/resource/Piotr_Vorobyov http://dbpedia.org/resource/Petr_Vorobev"
+"1","9","OÄ¼egs Znaroks","http://dbpedia.org/resource/Oleg_Znarok","http://dbpedia.org/resource/Oļegs_Znaroks"

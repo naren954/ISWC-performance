@@ -1,0 +1,7 @@
+F1: 0.64286,Precision: 0.64286,Recall: 0.64286,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,2,T. Morris,http://dbpedia.org/resource/Gary_Morris,http://dbpedia.org/resource/Trevor_Morris_(musician)
+1,6,B. King,http://dbpedia.org/resource/B.B._King,http://dbpedia.org/resource/Ben_King(Producer) http://dbpedia.org/resource/Ben_King_(producer)
+1,7,S. Winans,http://dbpedia.org/resource/Vickie_Winans,http://dbpedia.org/resource/Sam_Winans
+1,8,S. Class,http://dbpedia.org/resource/José_Miguel_Class,http://dbpedia.org/resource/Sarah_Class
+1,11,P. Leonard-Morgan,http://dbpedia.org/resource/Joe_Morgan,http://dbpedia.org/resource/Paul_Leonard-Morgan http://dbpedia.org/resource/Paul_leonard-morgan

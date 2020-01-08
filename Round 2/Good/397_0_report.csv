@@ -1,0 +1,7 @@
+F1: 0.78261,Precision: 0.78261,Recall: 0.78261,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,B. Hamilton,http://dbpedia.org/resource/Bernie_Hamilton,http://dbpedia.org/resource/Barbara_Hamilton_(actor) http://dbpedia.org/resource/Barbara_Hamilton_(actress)
+0,2,B. Brown,http://dbpedia.org/resource/James_Brown_(actor),http://dbpedia.org/resource/Barbara_Brown_(American_actress)
+0,17,A. Frey,http://dbpedia.org/resource/Glenn_Frey,http://dbpedia.org/resource/Arno_Frey
+0,20,A. Hamilton,http://dbpedia.org/resource/Alexander_Hamilton,http://dbpedia.org/resource/Antony_Hamilton http://dbpedia.org/resource/Anthony_Hamilton_(actor) http://dbpedia.org/resource/Antony_Hamilton_(actor)
+0,23,A. Seymour,"http://dbpedia.org/resource/Edward_Seymour,_1st_Duke_of_Somerset",http://dbpedia.org/resource/Anne_Seymour_(actress)

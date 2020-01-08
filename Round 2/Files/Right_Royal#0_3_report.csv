@@ -1,0 +1,4 @@
+"F1: 0.50000","Precision: 0.50000","Recall: 0.50000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"3","6","Teddy","http://dbpedia.org/resource/Theodore_Roosevelt","http://dbpedia.org/resource/Teddy_(horse)"
+"3","10","Swynford","http://dbpedia.org/resource/Swinford","http://dbpedia.org/resource/Swynford http://dbpedia.org/resource/Swynford_(horse)"

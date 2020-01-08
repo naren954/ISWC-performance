@@ -1,0 +1,10 @@
+F1: 0.57895,Precision: 0.57895,Recall: 0.57895,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Chocolate,http://dbpedia.org/resource/Chocolate,http://dbpedia.org/resource/Cocoa_brown http://dbpedia.org/resource/Chocolate_(color)
+0,4,Champagne,http://dbpedia.org/resource/Champagne,http://dbpedia.org/resource/Champagne_(color)
+0,8,Cardinal,http://dbpedia.org/resource/Cardinal_(Catholic_Church),http://dbpedia.org/resource/Cardinal_(color) http://dbpedia.org/resource/Cardinal_red http://dbpedia.org/resource/Cardinal_Red
+0,9,Capri,http://dbpedia.org/resource/Sky_blue,http://dbpedia.org/resource/Capri_(color)
+0,11,Camel,http://dbpedia.org/resource/Camel,http://dbpedia.org/resource/Camel_(color)
+0,13,Byzantium,http://dbpedia.org/resource/Byzantine_music,http://dbpedia.org/resource/Byzantium_(colour) http://dbpedia.org/resource/Byzantium_(color)
+0,18,Bole,http://dbpedia.org/resource/Trunk_(botany),http://dbpedia.org/resource/Bole_(color) http://dbpedia.org/resource/Terra_rosa_(colour)
+0,19,Blue-green,http://dbpedia.org/resource/Blue,http://dbpedia.org/resource/Bondi_Blue http://dbpedia.org/resource/Blue-green http://dbpedia.org/resource/Green-blue http://dbpedia.org/resource/Bondi_blue http://dbpedia.org/resource/Green_Blue http://dbpedia.org/resource/Blue_green http://dbpedia.org/resource/Bluegreen

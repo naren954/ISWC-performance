@@ -1,0 +1,6 @@
+"F1: 0.60000","Precision: 0.60000","Recall: 0.60000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"3","1","Michael Blakey","http://dbpedia.org/resource/John_Blakey","http://dbpedia.org/resource/Michael_Blakey_(music_producer) http://dbpedia.org/resource/Michael_Blakey_(musician)"
+"3","7","Kevin Sullivan","http://dbpedia.org/resource/Kevin_Sullivan_(footballer)","http://dbpedia.org/resource/Kevin_Sullivan_(director) http://dbpedia.org/resource/Kevin_Sullivan_(producer) http://dbpedia.org/resource/Love_on_the_land http://dbpedia.org/resource/Sullivan_Entertainment http://dbpedia.org/resource/Love_on_the_Land"
+"3","8","Kevin Sullivan","http://dbpedia.org/resource/Kevin_Sullivan_(footballer)","http://dbpedia.org/resource/Kevin_Sullivan_(director) http://dbpedia.org/resource/Kevin_Sullivan_(producer) http://dbpedia.org/resource/Love_on_the_land http://dbpedia.org/resource/Sullivan_Entertainment http://dbpedia.org/resource/Love_on_the_Land"
+"3","9","Kevin Sullivan","http://dbpedia.org/resource/Kevin_Sullivan_(footballer)","http://dbpedia.org/resource/Kevin_Sullivan_(director) http://dbpedia.org/resource/Kevin_Sullivan_(producer) http://dbpedia.org/resource/Love_on_the_land http://dbpedia.org/resource/Sullivan_Entertainment http://dbpedia.org/resource/Love_on_the_Land"

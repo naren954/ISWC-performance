@@ -1,0 +1,20 @@
+F1: 0.75000,Precision: 0.75000,Recall: 0.75000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,6,Va,"http://dbpedia.org/resource/Va,_pensiero",http://dbpedia.org/resource/Va_Quarter_Cutting http://dbpedia.org/resource/VA_Quarter_Cutting http://dbpedia.org/resource/Quarter_Cutting http://dbpedia.org/resource/Va_(film)
+0,9,Uzak,http://dbpedia.org/resource/Master_and_Commander:_The_Far_Side_of_the_World,http://dbpedia.org/resource/Distant_(film) http://dbpedia.org/resource/Muzaffer_Ozdemir http://dbpedia.org/resource/Uzak http://dbpedia.org/resource/Muzaffer_Özdemir
+0,10,Uyarndha Manithan,http://dbpedia.org/resource/The_Incredible_Hulk_(film),http://dbpedia.org/resource/Uyarntha_Manithan http://dbpedia.org/resource/Uyarndha_Manithan http://dbpedia.org/resource/Uyarntha_Manidhan http://dbpedia.org/resource/Uyarndha_Manidhan
+0,13,Utah,http://es.dbpedia.org/resource/A_Utah_Flora,http://dbpedia.org/resource/Utah_(film) http://dbpedia.org/resource/Utah_(1945_film)
+0,18,Ursus,http://dbpedia.org/resource/Ursus_of_Solothurn,"http://dbpedia.org/resource/Ursus_(1961_film) http://dbpedia.org/resource/Mighty_Ursus http://dbpedia.org/resource/Ursus_(film) http://dbpedia.org/resource/Ursus,_Son_of_Hercules"
+0,19,Urchin,http://dbpedia.org/resource/Urchin_(band),http://dbpedia.org/resource/Urchin_(film)
+0,27,Upside,http://dbpedia.org/resource/Upside_Down_(2012_film),http://dbpedia.org/resource/Upside_(film)
+0,34,Up the Academy,http://dbpedia.org/resource/The_Strange_One,http://dbpedia.org/resource/Up_The_Academy http://dbpedia.org/resource/Up_the_Academy
+0,42,Up!,"http://dbpedia.org/resource/Up,_Up_and_Away_(film)",http://dbpedia.org/resource/Up!_(1976_film) http://dbpedia.org/resource/Up!_(movie)
+0,44,Untitled Darren Aronofsky project,http://uk.dbpedia.org/resource/Пила_(2020),http://dbpedia.org/resource/Untitled_Darren_Aronofsky_Project http://dbpedia.org/resource/Day_6_(film) http://dbpedia.org/resource/Untitled_Darren_Aronofsky_project
+0,45,Untitled AR Murugadoss film,http://dbpedia.org/resource/Akira_(2016_Hindi_film),http://dbpedia.org/resource/AR_Murugadoss_Untitled_Project http://dbpedia.org/resource/Untitled_AR_Murugadoss_film
+0,50,Untamed,http://dbpedia.org/resource/Untamed_(1955_film),http://dbpedia.org/resource/Untamed_(1929_film) http://dbpedia.org/resource/Untamed_(1929_movie)
+0,58,Unmasked,http://dbpedia.org/resource/Occupy_Unmasked,http://dbpedia.org/resource/Unmasked_(film)
+0,62,Unknown Men of San Marino,http://dbpedia.org/resource/Unknown_Man_of_San_Marino,http://dbpedia.org/resource/Lo_Sconosciuto_di_San_Marino http://dbpedia.org/resource/Unknown_Men_of_San_Marino
+0,64,Universe,http://dbpedia.org/resource/Stargate_Universe,http://dbpedia.org/resource/Universe_(1960_film)
+0,66,Unity,http://dbpedia.org/resource/Unity_(Larry_Young_album),http://dbpedia.org/resource/Unity_(documentary) http://dbpedia.org/resource/Unity_(film)
+0,69,Union Station,http://dbpedia.org/resource/Union_Station_(band),http://dbpedia.org/resource/Union_Station_(film)
+0,70,Union Pacific,http://dbpedia.org/resource/Union_Pacific_(TV_series),http://dbpedia.org/resource/Union_Pacific_(film) http://dbpedia.org/resource/Union_Pacific_(movie)

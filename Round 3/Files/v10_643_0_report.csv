@@ -1,0 +1,8 @@
+"F1: 0.94737","Precision: 0.94737","Recall: 0.94737"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","33","Lake George","http://dbpedia.org/resource/Lake_George_(Uganda)","http://dbpedia.org/resource/Queen_of_American_Lakes http://dbpedia.org/resource/Lake_George_Park http://dbpedia.org/resource/Lac_du_Saint_Sacrement http://dbpedia.org/resource/Lake_George_(New_York) http://dbpedia.org/resource/Lac_du_Saint-Sacrement http://dbpedia.org/resource/Lake_george_(new_york) http://dbpedia.org/resource/Lake_of_the_Holy_Sacrament"
+"0","89","Ghost Lake","http://dbpedia.org/resource/Ghost_Lake","http://dbpedia.org/resource/Ghost_Reservoir http://dbpedia.org/resource/Ghost_lake_(alberta) http://dbpedia.org/resource/Ghost_Lake_(Alberta) http://dbpedia.org/resource/Ghost_Dam"
+"0","92","Floras Lake","http://dbpedia.org/resource/Flora_Lake","http://dbpedia.org/resource/Floras_Lake_State_Natural_Area http://dbpedia.org/resource/Floras_Lake"
+"0","108","Clinton Lake","http://dbpedia.org/resource/Clinton_Lake_(Illinois)","http://dbpedia.org/resource/Clinton_lake_(kansas) http://dbpedia.org/resource/Clinton_Lake_(Kansas)"
+"0","110","Clear Lake","http://dbpedia.org/resource/Clear_Lake_Reservoir","http://dbpedia.org/resource/Cache_Creek_Dam http://dbpedia.org/resource/Clear_Lake_(California)"
+"0","113","Cedar Bluff Reservoir","http://dbpedia.org/resource/Red_Bluff_Reservoir","http://dbpedia.org/resource/Cedar_Bluff_Reservoir"

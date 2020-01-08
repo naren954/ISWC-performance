@@ -1,0 +1,6 @@
+F1: 0.76471,Precision: 0.76471,Recall: 0.76471,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,5,C. P. Ries,http://dbpedia.org/resource/Charles_P_Ries,http://dbpedia.org/resource/Charles_Ries http://dbpedia.org/resource/Charles_P._Ries
+2,8,William Howard Taft IV,http://dbpedia.org/resource/William_Howard_Taft,http://dbpedia.org/resource/William_Taft_IV http://dbpedia.org/resource/William_H._Taft_IV http://dbpedia.org/resource/William_Howard_Taft_IV
+2,11,L. Douglass,http://dbpedia.org/resource/Frederick_Douglass,http://dbpedia.org/resource/Linda_Douglass http://dbpedia.org/resource/Linda_Douglas
+2,12,R. Matlock,http://dbpedia.org/resource/Glen_Matlock,http://dbpedia.org/resource/Rebecca_Matlock

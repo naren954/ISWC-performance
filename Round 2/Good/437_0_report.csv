@@ -1,0 +1,5 @@
+F1: 0.94231,Precision: 0.94231,Recall: 0.94231,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,29,Worcester Regional Airport,http://dbpedia.org/resource/Aberdeen_Regional_Airport,http://dbpedia.org/resource/KORH http://dbpedia.org/resource/Worcester-Metrowest-Boston_Airport http://dbpedia.org/resource/Worcester_Airport http://dbpedia.org/resource/Worcester_Regional_Airport http://dbpedia.org/resource/ORH
+0,32,Woodbine Municipal Airport,http://dbpedia.org/resource/Woodbine_Municipal_Airport_(Iowa),http://dbpedia.org/resource/Woodbine_Municipal_Airport_(New_Jersey) http://dbpedia.org/resource/1N4
+0,35,Wood County Airport,http://dbpedia.org/resource/Wood_County_Airport_(Texas),http://dbpedia.org/resource/Wood_County_Airport_(Ohio)

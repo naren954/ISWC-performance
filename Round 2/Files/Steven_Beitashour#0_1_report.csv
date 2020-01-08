@@ -1,0 +1,4 @@
+"F1: 0.33333","Precision: 0.33333","Recall: 0.33333"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","2","San Jose Frogs","http://dbpedia.org/resource/San_Jose,_California","http://dbpedia.org/resource/San_Jose_Frogs"
+"1","5","San Jose Earthquakes","http://dbpedia.org/resource/San_Jose,_California","http://dbpedia.org/resource/San_Jose_Clash http://dbpedia.org/resource/San_Jose_Clash/Earthquakes http://dbpedia.org/resource/San_José_Earthquakes http://dbpedia.org/resource/SJ_Quakes http://dbpedia.org/resource/Quakes http://dbpedia.org/resource/San_Jose_Quakes http://dbpedia.org/resource/SJ_Earthquakes http://dbpedia.org/resource/San_Jose_Earthquakes http://dbpedia.org/resource/Earthquakes_Soccer,_LLC http://dbpedia.org/resource/San_Jose_Earthquakes_(MLS) http://dbpedia.org/resource/San_José_Clash"

@@ -1,0 +1,8 @@
+F1: 0.88462,Precision: 0.88462,Recall: 0.88462,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,W. Stevens,http://dbpedia.org/resource/Wayne_Stevens_(basketball),http://dbpedia.org/resource/Wes_Stevens
+0,4,W. Miller,http://dbpedia.org/resource/Walt_Miller,http://dbpedia.org/resource/Louis_Miller_(basketball) http://dbpedia.org/resource/L._F._Miller http://dbpedia.org/resource/Weenie_Miller
+0,17,W. McCollum,http://dbpedia.org/resource/Fred_McCollum,http://dbpedia.org/resource/Warner_McCollum http://dbpedia.org/resource/Warner_McCollum_(football_coach)
+0,20,W. Taylor,http://dbpedia.org/resource/Warwick_Taylor,http://dbpedia.org/resource/Walter_Taylor_(American_football)
+0,45,W. Moore,http://dbpedia.org/resource/Wilford_Moore,http://dbpedia.org/resource/Wade_Moore
+0,51,W. R. Richards,http://dbpedia.org/resource/John_R._Richards,http://dbpedia.org/resource/W._R._Richards

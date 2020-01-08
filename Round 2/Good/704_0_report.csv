@@ -1,0 +1,9 @@
+F1: 0.92308,Precision: 0.92308,Recall: 0.92308,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,6,The Moor,http://dbpedia.org/resource/Othello,http://dbpedia.org/resource/The_Moor_(novel)
+0,22,The Mirror of Merlin,http://dbpedia.org/resource/Merlin_Book_4:_The_Mirror_of_Fate,http://dbpedia.org/resource/The_Mirror_of_Merlin
+0,29,The Messenger,http://dbpedia.org/resource/The_Messenger_(magazine),http://dbpedia.org/resource/The_Messenger_(Daniel_Silva_novel) http://dbpedia.org/resource/The_Messenger_(Silva_novel)
+0,30,The Message,http://dbpedia.org/resource/The_Message_(Firefly),http://dbpedia.org/resource/The_Message_(novel) http://dbpedia.org/resource/The_Message_(Animorphs)
+0,55,The Mark,http://dbpedia.org/resource/Mark_Kac,http://dbpedia.org/resource/The_Mark_(Left_Behind) http://dbpedia.org/resource/The_Mark_(novel)
+0,58,The Mansion,http://dbpedia.org/resource/Thugz_Mansion,http://dbpedia.org/resource/The_Mansion_(novel) http://dbpedia.org/resource/The_Mansion_(book)
+0,77,The Magician: The Secrets of the Immortal Nicholas Flamel,http://dbpedia.org/resource/The_Warlock:_The_Secrets_of_the_Immortal_Nicholas_Flamel,http://dbpedia.org/resource/The_Magician:_The_Secrets_of_the_Immortal_Nicholas_Flamel

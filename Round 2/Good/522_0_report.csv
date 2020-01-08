@@ -1,0 +1,4 @@
+F1: 0.98529,Precision: 0.98529,Recall: 0.98529,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,41,Spectrum,http://dbpedia.org/resource/Apopestes_spectrum,http://dbpedia.org/resource/Spectrum_(horse)
+0,89,Sailor,http://dbpedia.org/resource/Sailor_II,http://dbpedia.org/resource/Sailor_(horse)

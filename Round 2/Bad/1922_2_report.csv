@@ -1,0 +1,13 @@
+F1: 0.42105,Precision: 0.42105,Recall: 0.42105,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,1,E. Raskin,http://dbpedia.org/resource/John_Ruskin,http://dbpedia.org/resource/Ellen_Raskin
+2,3,G. E. Haley,http://dbpedia.org/resource/Alex_Haley,http://dbpedia.org/resource/Gail_E._Haley
+2,4,C. Denise,http://de.dbpedia.org/resource/Denise_Colomb,http://dbpedia.org/resource/Christopher_Denise
+2,5,M. Konopacki,"http://ru.dbpedia.org/resource/Конопацкий,_Гасан",http://dbpedia.org/resource/Mike_Konopacki
+2,6,G. Wilson,http://dbpedia.org/resource/Michael_G._Wilson,http://dbpedia.org/resource/Gahan_wilson http://dbpedia.org/resource/Gahan_Wilson
+2,8,P. Hale,http://dbpedia.org/resource/Phale_Hale,http://dbpedia.org/resource/Phil_Hale
+2,12,V. Locke,http://dbpedia.org/resource/Joseph_Locke,http://dbpedia.org/resource/Vince_Locke http://dbpedia.org/resource/Vincent_Locke
+2,13,P. Newell,http://dbpedia.org/resource/Patrick_Newell,http://dbpedia.org/resource/Peter_Newell
+2,14,R. Jacques,http://dbpedia.org/resource/Richard_Jacques,http://dbpedia.org/resource/Robin_Jacques
+2,18,S. Appleby,http://dbpedia.org/resource/Shiri_Appleby,http://dbpedia.org/resource/Steven_Appleby
+2,19,R. Ray,http://dbpedia.org/resource/Radhanath_Ray,http://dbpedia.org/resource/Rex_Ray

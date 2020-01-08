@@ -1,0 +1,68 @@
+F1: 0.61404,Precision: 0.61404,Recall: 0.61404,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,2,J. Becker,http://dbpedia.org/resource/Jacques_Becker,"http://dbpedia.org/resource/Jean_Becker_(director,_actor) http://dbpedia.org/resource/Jean_Becker_(director)"
+3,3,M. Pinto,http://dbpedia.org/resource/Maria_Pinto_(fashion_designer),http://dbpedia.org/resource/Mercedes_Pinto
+3,5,A. &. Scarpelli,http://dbpedia.org/resource/Furio_Scarpelli,http://dbpedia.org/resource/Age_&_Scarpelli
+3,6,M. Manfredi,http://dbpedia.org/resource/Nino_Manfredi,http://dbpedia.org/resource/Matt_Manfredi
+3,12,S. Mukherji,http://dbpedia.org/resource/Aarti_Mukherji,http://dbpedia.org/resource/Srijit_Mukherjee http://dbpedia.org/resource/Srijit_Mukherji
+3,15,M. Baker,http://dbpedia.org/resource/Mickey_Baker,http://dbpedia.org/resource/Melville_Baker
+3,16,D. Bilson,http://dbpedia.org/resource/Rachel_Bilson,http://dbpedia.org/resource/Danny_bilson http://dbpedia.org/resource/Danny_Bilson
+3,17,M. Kaurismäki,http://dbpedia.org/resource/Aki_Kaurismäki,http://dbpedia.org/resource/Mika_Kaurismäki http://dbpedia.org/resource/Mika_Kaurismaki http://dbpedia.org/resource/Mika_Kaurismaeki
+3,18,F. Wilder,http://dbpedia.org/resource/Peter_Wild,http://dbpedia.org/resource/Fred_Wilder
+3,20,J. Vanderbilt,http://dbpedia.org/resource/Amy_Vanderbilt,http://dbpedia.org/resource/James_Vanderbilt
+3,21,H. Gates,http://dbpedia.org/resource/Bill_Gates,http://dbpedia.org/resource/Harvey_H._Gates http://dbpedia.org/resource/Harvey_Gates
+3,36,M. Norman,http://dbpedia.org/resource/Maidie_Norman,http://dbpedia.org/resource/Marc_Norman
+3,37,K. Smith,http://dbpedia.org/resource/Edmund_Kirby_Smith,"http://dbpedia.org/resource/Kevin_Smith_(writer-director) http://dbpedia.org/resource/Kevin_Smith's_Count_Basie_Extravaganza http://dbpedia.org/resource/Kevin_Smith_(film_maker) http://dbpedia.org/resource/Kevin_Smith http://dbpedia.org/resource/Smith,_Kevin http://dbpedia.org/resource/Kevin_Smith_(filmmaker) http://dbpedia.org/resource/Kevin_smith"
+3,38,A. Anwar,http://dbpedia.org/resource/Anwar_Sadat,http://dbpedia.org/resource/Aneesh_Anwar
+3,41,M. Doi,http://dbpedia.org/resource/Mika_Doi,http://dbpedia.org/resource/Michiyoshi_Doi
+3,42,S. Ghai,http://dbpedia.org/resource/Yash_Ghai,http://dbpedia.org/resource/Subhash_Ghai
+3,45,Y. D. Gosavi,,http://dbpedia.org/resource/Yogesh_(director) http://dbpedia.org/resource/Yogesh_Gosavi http://dbpedia.org/resource/Yogesh_Dattatraya_Gosavi http://dbpedia.org/resource/Yogesh_(Director)
+3,49,G. Nash,http://dbpedia.org/resource/Graham_Nash,http://dbpedia.org/resource/Gustin_Nash
+3,52,J. Vilfrid,http://dbpedia.org/resource/Jo-Wilfried_Tsonga,http://dbpedia.org/resource/Jacques_Vilfrid
+3,55,L. Shelton,http://dbpedia.org/resource/Lonnie_Shelton,http://dbpedia.org/resource/Lynn_Shelton
+3,59,D. McBride,http://dbpedia.org/resource/Will_McBride_(photographer),http://dbpedia.org/resource/Danny_mcbride http://dbpedia.org/resource/Danny_McBride http://dbpedia.org/resource/Danny_R._McBride http://dbpedia.org/resource/Danny_McBride_(actor) http://dbpedia.org/resource/Danny_r_mcbride http://dbpedia.org/resource/Danny_R_McBride http://dbpedia.org/resource/Danny_R._Mcbride
+3,61,P. Markle,http://dbpedia.org/resource/Thomas_Markle,http://dbpedia.org/resource/Peter_Markle
+3,71,R. Jeans,http://dbpedia.org/resource/Isabel_Jeans,http://dbpedia.org/resource/Ronald_Jeans
+3,74,C. Columbus,http://dbpedia.org/resource/Christopher_Columbus,"http://dbpedia.org/resource/Christopher_Columbus_(director) http://dbpedia.org/resource/Chris_Columbus_(director) http://dbpedia.org/resource/Chris_Columbus_(filmmaker) http://dbpedia.org/resource/Christopher_Columbus_(filmmaker) http://dbpedia.org/resource/Christopher_""Chris""_Columbus http://dbpedia.org/resource/Filmography_of_Chris_Columbus http://dbpedia.org/resource/Christopher_Columbus_(actor)"
+3,76,K. Brush,http://dbpedia.org/resource/Joey_Brush,http://dbpedia.org/resource/Katharine_Brush http://dbpedia.org/resource/Katherine_Brush
+3,78,R. Meyer,http://dbpedia.org/resource/Russ_Meyer,http://dbpedia.org/resource/Rolf_Meyer
+3,79,M. Brand,http://dbpedia.org/resource/Myles_Brand,http://dbpedia.org/resource/Frederick_Faust http://dbpedia.org/resource/Frederick_Schiller_Faust http://dbpedia.org/resource/Max_Brand http://dbpedia.org/resource/George_Owen_Baxter http://dbpedia.org/resource/Peter_Morland
+3,81,J. Whiting,http://dbpedia.org/resource/Margaret_Whiting,http://dbpedia.org/resource/John_Whiting http://dbpedia.org/resource/John_whiting http://dbpedia.org/resource/John_Robert_Whiting
+3,93,M. Lawrence,http://dbpedia.org/resource/Marc_Lawrence,http://dbpedia.org/resource/Martin_Lawrence http://dbpedia.org/resource/Martin_lawrence
+3,94,R. Lord,"http://dbpedia.org/resource/Robert_Baden-Powell,_1st_Baron_Baden-Powell",http://dbpedia.org/resource/Robert_Lord_(screenwriter)
+3,99,P. Rogers,http://dbpedia.org/resource/Paul_Rogers_(politician),http://dbpedia.org/resource/Peter_Rogers
+3,107,M. Romero,http://dbpedia.org/resource/Matías_Romero,http://dbpedia.org/resource/Manuel_Romero
+3,109,D. Ribeiro,http://dbpedia.org/resource/Darcy_Ribeiro,http://dbpedia.org/resource/Daniel_Ribeiro
+3,110,D. Ephron,http://dbpedia.org/resource/Nora_Ephron,http://dbpedia.org/resource/Delia_Ephron
+3,112,R. Murphy,http://dbpedia.org/resource/Ralph_Murphy,http://dbpedia.org/resource/Richard_Murphy_(screenwriter)
+3,113,Screenplay,http://de.dbpedia.org/resource/Gerhard_Bengsch,http://dbpedia.org/resource/Original_screenplay http://dbpedia.org/resource/Screenplays http://dbpedia.org/resource/Film_script http://dbpedia.org/resource/Film_Script http://dbpedia.org/resource/Screen_play http://dbpedia.org/resource/Cinema_scripts http://dbpedia.org/resource/Screenplay http://dbpedia.org/resource/Written_for_the_screen http://dbpedia.org/resource/Movie_script http://dbpedia.org/resource/Screen_Play http://dbpedia.org/resource/Film_scripts http://dbpedia.org/resource/Master_scene_heading
+3,117,T. Bishop,http://dbpedia.org/resource/Kelly_Bishop,http://dbpedia.org/resource/Terry_Bishop
+3,118,S. Barrett,http://dbpedia.org/resource/Syd_Barrett,http://dbpedia.org/resource/Simon_Barrett_(filmmaker)
+3,120,H. Walker,http://dbpedia.org/resource/George_H._W._Bush,http://dbpedia.org/resource/H.M._Walker http://dbpedia.org/resource/H_M_Walker http://dbpedia.org/resource/Harley_M._Walker http://dbpedia.org/resource/HM_Walker http://dbpedia.org/resource/H._M._Walker
+3,122,K. G,http://dbpedia.org/resource/Karol_G,http://dbpedia.org/resource/Kamal_G
+3,123,R. Celestino,http://dbpedia.org/resource/Mirko_Celestino,http://dbpedia.org/resource/Robert_Celestino
+3,124,I. Brecher,http://dbpedia.org/resource/Egon_Brecher,http://dbpedia.org/resource/Irv_S._Brecher http://dbpedia.org/resource/Irving_Brecher http://dbpedia.org/resource/Irving_S._Brecher http://dbpedia.org/resource/Irv_Brecher
+3,126,B. Copeland,http://dbpedia.org/resource/Misty_Copeland,http://dbpedia.org/resource/Brad_Copeland
+3,127,K. Smith,http://dbpedia.org/resource/Edmund_Kirby_Smith,"http://dbpedia.org/resource/Kevin_Smith_(writer-director) http://dbpedia.org/resource/Kevin_Smith's_Count_Basie_Extravaganza http://dbpedia.org/resource/Kevin_Smith_(film_maker) http://dbpedia.org/resource/Kevin_Smith http://dbpedia.org/resource/Smith,_Kevin http://dbpedia.org/resource/Kevin_Smith_(filmmaker) http://dbpedia.org/resource/Kevin_smith"
+3,130,J. Henry,http://dbpedia.org/resource/Joseph_Henry,http://dbpedia.org/resource/Joan_Henry http://dbpedia.org/resource/Joan_Constance_Anne_Henry
+3,132,J. Kerwin,http://dbpedia.org/resource/Brian_Kerwin,http://dbpedia.org/resource/James_Kerwin
+3,133,A. Kin-yee,http://dbpedia.org/resource/Miriam_Lau,http://dbpedia.org/resource/Au_Kin-Yee http://dbpedia.org/resource/Au_Kin_Yee http://dbpedia.org/resource/Au_Kin-yee
+3,135,P. R. Newman,http://dbpedia.org/resource/Randy_Newman,http://dbpedia.org/resource/Peter_R._Newman
+3,137,E. Ullman,http://dbpedia.org/resource/Tracey_Ullman,http://dbpedia.org/resource/Ellwood_Ullman http://dbpedia.org/resource/Elwood_Ullman
+3,139,C. Robinson,http://dbpedia.org/resource/Chris_Robinson_(singer),http://dbpedia.org/resource/Casey_Robinson
+3,142,G. V. Menon,http://dbpedia.org/resource/V._P._Menon,http://dbpedia.org/resource/Azhagiya_Kuyile http://dbpedia.org/resource/Yohan:_Adhyaayam_Ondru http://dbpedia.org/resource/Gautham_menon http://dbpedia.org/resource/Nithya(movie) http://dbpedia.org/resource/Gautham_Vasudev_Menon http://dbpedia.org/resource/Goutham_Vasudev_Menon http://dbpedia.org/resource/Assi_Nabey_Poore_Sau http://dbpedia.org/resource/Gautham_Menon_Untitled_Project http://dbpedia.org/resource/Gautham_Menon http://dbpedia.org/resource/Gowtham_Menon http://dbpedia.org/resource/Goutham_menon http://dbpedia.org/resource/Thuppariyum_Anand http://dbpedia.org/resource/Yohan_Adhyayam_Ondru http://dbpedia.org/resource/Dhruva_Natchathiram
+3,144,J. C. Stearns,http://dbpedia.org/resource/Edward_C._Stearns,http://dbpedia.org/resource/Jeff_Chiba_Stearns
+3,147,S. Howard,http://dbpedia.org/resource/William_Howard_Taft,"http://dbpedia.org/resource/Sindey_Coe_Howard http://dbpedia.org/resource/Sidney_Howard http://dbpedia.org/resource/Howard,_Sidney_Coe http://dbpedia.org/resource/Sidney_Coe_Howard http://dbpedia.org/resource/The_Silver_Cord_(play)"
+3,148,L. Wei,http://dbpedia.org/resource/Jacques-Louis_David,http://dbpedia.org/resource/Lo_Wei http://dbpedia.org/resource/Lo_Wai_(actor)
+3,149,I. R. Anand,http://dbpedia.org/resource/Mulk_Raj_Anand,http://dbpedia.org/resource/Inder_Raj_Anand
+3,151,A. Mukerji,http://dbpedia.org/resource/Rani_Mukerji,http://dbpedia.org/resource/Ayan_Mukherjee http://dbpedia.org/resource/Ayan_Mukerji
+3,154,M. White,http://dbpedia.org/resource/Maurice_White,http://dbpedia.org/resource/Mike_White_(scriptwriter) http://dbpedia.org/resource/Mike_White_(screenwriter) http://dbpedia.org/resource/Mike_White_(filmmaker) http://dbpedia.org/resource/Mike_White_(script_writer)
+3,156,G. Menon,http://dbpedia.org/resource/Tugdual_Menon,http://dbpedia.org/resource/Azhagiya_Kuyile http://dbpedia.org/resource/Yohan:_Adhyaayam_Ondru http://dbpedia.org/resource/Gautham_menon http://dbpedia.org/resource/Nithya(movie) http://dbpedia.org/resource/Gautham_Vasudev_Menon http://dbpedia.org/resource/Goutham_Vasudev_Menon http://dbpedia.org/resource/Assi_Nabey_Poore_Sau http://dbpedia.org/resource/Gautham_Menon_Untitled_Project http://dbpedia.org/resource/Gautham_Menon http://dbpedia.org/resource/Gowtham_Menon http://dbpedia.org/resource/Goutham_menon http://dbpedia.org/resource/Thuppariyum_Anand http://dbpedia.org/resource/Yohan_Adhyayam_Ondru http://dbpedia.org/resource/Dhruva_Natchathiram
+3,157,A. Kashyap,http://dbpedia.org/resource/Anurag_Kashyap,http://dbpedia.org/resource/Abhinav_Kashyap
+3,158,Vishnuvardhan,http://dbpedia.org/resource/Vishnuvardhan_(actor),http://dbpedia.org/resource/Vishnuvardhan_(director)
+3,160,J. Hoffman,http://dbpedia.org/resource/Jerzy_Hoffman,http://dbpedia.org/resource/Joseph_Hoffman
+3,163,R. Joshi,http://dbpedia.org/resource/Rajesh_Joshi_(actor),http://dbpedia.org/resource/Rasika_Joshi
+3,165,W. Mirza,http://dbpedia.org/resource/Abbas_II_of_Egypt,http://dbpedia.org/resource/Wajahat_Mirza
+3,168,S. Ghai,http://dbpedia.org/resource/Yash_Ghai,http://dbpedia.org/resource/Subhash_Ghai
+3,169,C. Cuarón,http://dbpedia.org/resource/Alfonso_Cuarón,http://dbpedia.org/resource/Carlos_Cuarón http://dbpedia.org/resource/Carlos_Cuaron
+3,171,M. Doi,http://dbpedia.org/resource/Mika_Doi,http://dbpedia.org/resource/Michiyoshi_Doi

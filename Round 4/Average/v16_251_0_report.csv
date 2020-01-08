@@ -1,0 +1,9 @@
+F1: 0.63158,Precision: 0.63158,Recall: 0.63158,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,All the Brothers Were Valiant,http://dbpedia.org/resource/Across_to_Singapore,http://dbpedia.org/resource/All_the_Brothers_Were_Valiant http://dbpedia.org/resource/All_the_brothers_were_valiant
+0,8,Alibaba Aur 40 Chor,http://dbpedia.org/resource/Adventures_of_Ali-Baba_and_the_Forty_Thieves,http://dbpedia.org/resource/Alibaba_Aur_40_Chor_(1954_film) http://dbpedia.org/resource/Alibaba_and_40_Thieves_(1954_film)
+0,10,Aladdin and the Wonderful Lamp,http://dbpedia.org/resource/Aladdin_and_the_Wonderful_Lamp_(1917_film),http://dbpedia.org/resource/Aladdin_and_the_Wonderful_Lamp_(1982_film)
+0,12,Aladdin,http://dbpedia.org/resource/Aladdin_(2019_film),http://dbpedia.org/resource/Disney's_Aladin http://dbpedia.org/resource/Aladdin_(Walt_Disney_film) http://dbpedia.org/resource/Aladdin_disney http://dbpedia.org/resource/Aladdin_(1992_Disney_film) http://dbpedia.org/resource/Aladdin_(Disney) http://dbpedia.org/resource/Genies_(film) http://dbpedia.org/resource/Abu_the_Monkey http://dbpedia.org/resource/Disney's_Aladdin http://dbpedia.org/resource/Agrabah http://dbpedia.org/resource/Aladdin_(Disney_film)
+0,14,Akira,http://dbpedia.org/resource/Akira_(1988_film),http://dbpedia.org/resource/Akira_(2016_Hindi_film) http://dbpedia.org/resource/Akira_(2015_film)
+0,17,Air Bud,http://dbpedia.org/resource/Air_Bud:_Golden_Receiver,http://dbpedia.org/resource/Air_Bud http://dbpedia.org/resource/Air_Bud_(movie) http://dbpedia.org/resource/Air_Bud:_Aussie_Rules http://dbpedia.org/resource/Air_Bud_(film) http://dbpedia.org/resource/Airbud
+0,19,Against All Odds,http://dbpedia.org/resource/Against_All_Odds_(biography),http://dbpedia.org/resource/Against_All_Odds_(1924_film)

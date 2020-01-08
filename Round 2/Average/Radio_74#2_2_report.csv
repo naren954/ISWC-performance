@@ -1,0 +1,4 @@
+F1: 0.66667,Precision: 0.66667,Recall: 0.66667,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,1,"Springdale, AR","http://dbpedia.org/resource/Fayetteville,_Arkansas","http://dbpedia.org/resource/History_of_Springdale,_Arkansas http://dbpedia.org/resource/UN/LOCODE:USSPZ http://dbpedia.org/resource/Springdale,_AR http://dbpedia.org/resource/Springdale,_Ar http://dbpedia.org/resource/Springdale,_Arkansas"
+2,2,"Lake Placid, FL","http://dbpedia.org/resource/Lake_Placid,_New_York","http://dbpedia.org/resource/Lake_Placid,_Florida http://dbpedia.org/resource/Lake_Stearns,_FL http://dbpedia.org/resource/UN/LOCODE:USLPF http://dbpedia.org/resource/Lake_Stearns,_Florida http://dbpedia.org/resource/Lake_Placid,_FL"

@@ -1,0 +1,4 @@
+F1: 0.90000,Precision: 0.90000,Recall: 0.90000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,10,Shonen Jump,http://dbpedia.org/resource/Weekly_Shōnen_Jump,http://dbpedia.org/resource/Shonen_Jump_(magazine) http://dbpedia.org/resource/SHONEN_JUMP http://dbpedia.org/resource/Shonen_Jump_(United_States) http://dbpedia.org/resource/Shōnen_Jump_(magazine) http://dbpedia.org/resource/Shonen_Jump_USA http://dbpedia.org/resource/Shonen_Jump_(Canada) http://dbpedia.org/resource/Shonen_Jump_Advanced
+0,12,Shift,http://dbpedia.org/resource/Perspective_control_lens,http://dbpedia.org/resource/Shift_(magazine) http://dbpedia.org/resource/Shift_magazine

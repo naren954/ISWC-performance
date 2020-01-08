@@ -1,0 +1,8 @@
+F1: 0.80645,Precision: 0.80645,Recall: 0.80645,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,5,J. Jones,http://dbpedia.org/resource/Jack_Jones_(singer),http://dbpedia.org/resource/James_Stuart_Jones http://dbpedia.org/resource/James_Jones_(bishop)
+0,6,J. Benzelius,http://dbpedia.org/resource/Jacob_Benzelius,http://dbpedia.org/resource/Jakob_Benzelius
+0,12,H. C. Potter,http://dbpedia.org/resource/Herbert_Cecil_Potter,http://dbpedia.org/resource/Henry_Potter_(bishop) http://dbpedia.org/resource/Henry_Codman_Potter http://dbpedia.org/resource/Henry_C._Potter
+0,20,E. Wilberforce,http://dbpedia.org/resource/Samuel_Wilberforce,http://dbpedia.org/resource/Ernest_Wilberforce http://dbpedia.org/resource/Ernest_Roland_Wilberforce
+0,23,C. Lewis,http://dbpedia.org/resource/C._S._Lewis,http://dbpedia.org/resource/Christopher_Andrew_Lewis http://dbpedia.org/resource/Christopher_Lewis_(priest)
+0,26,C. Dodgson,http://dbpedia.org/resource/Charles_Dodgson_(bishop),http://dbpedia.org/resource/Charles_Dodgson_(priest) http://dbpedia.org/resource/Charles_Dodgson_(archdeacon)

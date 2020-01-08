@@ -1,0 +1,6 @@
+F1: 0.60000,Precision: 0.60000,Recall: 0.60000,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,1,Mike Gray,http://dbpedia.org/resource/Mike_Gray_(Canadian_football),http://dbpedia.org/resource/Mike_Gray
+3,3,John Semper,http://dbpedia.org/resource/Gottfried_Semper,"http://dbpedia.org/resource/John_Semper_Jr. http://dbpedia.org/resource/John_Semper http://dbpedia.org/resource/John_Semper,_Jr. http://dbpedia.org/resource/John_Semper_Jr"
+3,5,Jonathan Powell,http://dbpedia.org/resource/Jonathan_Powell_(Labour_adviser),http://dbpedia.org/resource/Jonathan_Powell_(producer)
+3,7,Salvador Mejía Alejandre,http://dbpedia.org/resource/Salvador_Mejía,http://dbpedia.org/resource/Salvador_Mejia_Alejandre http://dbpedia.org/resource/Salvador_Mejía_Alexandre http://dbpedia.org/resource/Salvador_Mejía_Alejandre

@@ -1,0 +1,13 @@
+F1: 0.08333,Precision: 0.08333,Recall: 0.08333,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Wee1,,http://dbpedia.org/resource/Wee_(kinase) http://dbpedia.org/resource/WEE1_(gene) http://dbpedia.org/resource/Wee_1 http://dbpedia.org/resource/WEE1 http://dbpedia.org/resource/Wee_(cell_cycle) http://dbpedia.org/resource/Wee1
+0,3,TIE1,,http://dbpedia.org/resource/TIE1 http://dbpedia.org/resource/Tie-1 http://dbpedia.org/resource/TIE-1
+0,4,Sucrase-isomaltase,,"http://dbpedia.org/resource/Dextrin_6alpha-glucanohydrolase http://dbpedia.org/resource/Oligosaccharide_6-alpha-glucohydrolase http://dbpedia.org/resource/Oligo-1,6-glucosidase http://dbpedia.org/resource/Dextrin_6-glucanohydrolase http://dbpedia.org/resource/Oligosaccharide_alpha-1,6-glucohydrolase http://dbpedia.org/resource/Sucrase-isomaltase_complex http://dbpedia.org/resource/EC_3.2.1.10 http://dbpedia.org/resource/Sucrase-isomaltase http://dbpedia.org/resource/Exo-oligo-1,6-glucosidase"
+0,5,Spermidine synthase,,http://dbpedia.org/resource/S-adenozilmethioninamine:putrescine_3-aminopropyltransferase http://dbpedia.org/resource/Spermidine_synthase http://dbpedia.org/resource/Spermidine_Synthase http://dbpedia.org/resource/EC_2.5.1.16
+0,6,Sorbitol dehydrogenase,,http://dbpedia.org/resource/Sorbitol_dehydrogenase
+0,7,Rho-associated protein kinase,,http://dbpedia.org/resource/Rho-associated_kinase http://dbpedia.org/resource/Rho-associated_protein_kinase http://dbpedia.org/resource/Rho-kinase http://dbpedia.org/resource/Rho_kinase
+0,8,Receptor tyrosine kinase-like orphan receptor,,http://dbpedia.org/resource/Receptor_tyrosine_kinase-like_orphan_receptor
+0,9,Protein phosphatase 2,,http://dbpedia.org/resource/PP2 http://dbpedia.org/resource/Protein_Phosphatase_2A http://dbpedia.org/resource/PP2A http://dbpedia.org/resource/Protein_phosphatase_2 http://dbpedia.org/resource/Protein_Phosphatase_2
+0,10,Presenilin,,http://dbpedia.org/resource/Presenilins http://dbpedia.org/resource/PSN2 http://dbpedia.org/resource/Presenilin
+0,11,Phosphoglycerate mutase,,http://dbpedia.org/resource/Phosphoglycerate_mutase http://dbpedia.org/resource/Phosphoglyceromutase http://dbpedia.org/resource/EC_2.7.5.3 http://dbpedia.org/resource/EC_5.4.2.1 http://dbpedia.org/resource/MPGM
+0,12,Phosphogluconate dehydrogenase,,http://dbpedia.org/resource/6-phospho-D-gluconate:NAD(P)+_2-oxidoreductase http://dbpedia.org/resource/Phosphogluconate_dehydrogenase http://dbpedia.org/resource/6-phosphogluconate_dehydrogenase http://dbpedia.org/resource/6PGD

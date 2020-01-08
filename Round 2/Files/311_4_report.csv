@@ -1,0 +1,6 @@
+"F1: 0.86667","Precision: 0.86667","Recall: 0.86667"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"4","3","T. Fabi","http://dbpedia.org/resource/Corrado_Fabi","http://dbpedia.org/resource/Teo_Fabi"
+"4","4","N. Piquet","http://dbpedia.org/resource/Nelson_Piquet_Jr.","http://dbpedia.org/resource/Nelson_Piquet http://dbpedia.org/resource/Nelson_Piquet_Sr._(racing_driver) http://dbpedia.org/resource/Nelson_Piquet_(racing_driver) http://dbpedia.org/resource/Nelson_Piquet,_Sr."
+"4","5","N. Piquet","http://dbpedia.org/resource/Nelson_Piquet_Jr.","http://dbpedia.org/resource/Nelson_Piquet http://dbpedia.org/resource/Nelson_Piquet_Sr._(racing_driver) http://dbpedia.org/resource/Nelson_Piquet_(racing_driver) http://dbpedia.org/resource/Nelson_Piquet,_Sr."
+"4","14","J. Clark","http://dbpedia.org/resource/Jim_Clark_(Scottish_footballer)","http://dbpedia.org/resource/Clark,_Jim http://dbpedia.org/resource/Jimmy_Clark http://dbpedia.org/resource/Jim_Clark_(racing_driver) http://dbpedia.org/resource/Jim_Clark http://dbpedia.org/resource/Jim_""Jimmy""_Clark"

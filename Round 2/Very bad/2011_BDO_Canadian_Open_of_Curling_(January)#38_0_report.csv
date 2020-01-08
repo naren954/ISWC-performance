@@ -1,0 +1,4 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Glenn Howard,http://dbpedia.org/resource/Robert_E._Howard,http://dbpedia.org/resource/Glenn_Howard
+0,2,Pat Simmons,http://dbpedia.org/resource/Patrick_Simmons,http://dbpedia.org/resource/Pat_Simmons_(curler)

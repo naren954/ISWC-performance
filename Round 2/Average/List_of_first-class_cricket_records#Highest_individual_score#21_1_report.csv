@@ -1,0 +1,7 @@
+F1: 0.66667,Precision: 0.66667,Recall: 0.66667,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,3,"Tony Lock (Surrey, Leicestershire, England and Western Australia)",http://dbpedia.org/resource/Top_Gun,"http://dbpedia.org/resource/Graham_Lock http://dbpedia.org/resource/Tony_Lock http://dbpedia.org/resource/Lock,_(Graham)_Anthony_Richard"
+1,5,"Brian Close (Yorkshire, Somerset and England)",http://dbpedia.org/resource/Brian_the_Closer,http://dbpedia.org/resource/Dennis_Brian_Close http://dbpedia.org/resource/Dennis_Close http://dbpedia.org/resource/Brian_Close
+1,11,Peter Walker (Glamorgan and England),"http://dbpedia.org/resource/Peter_Walker,_Baron_Walker_of_Worcester",http://dbpedia.org/resource/Peter_Michael_Walker http://dbpedia.org/resource/Peter_Walker_(cricketer)
+1,12,John Tunnicliffe (Yorkshire),http://dbpedia.org/resource/John_Tunnicliffe_(footballer),http://dbpedia.org/resource/John_Tunnicliffe
+1,13,James Seymour (London County and Kent),http://dbpedia.org/resource/James_Seymour_(Iowa_politician),http://dbpedia.org/resource/James_Seymour_(cricketer)

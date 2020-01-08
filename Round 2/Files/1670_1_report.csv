@@ -1,0 +1,5 @@
+"F1: 0.90909","Precision: 0.90909","Recall: 0.90909"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","4","Leiothrichidae","http://dbpedia.org/resource/Old_World_babbler","http://dbpedia.org/resource/Leiothrichidae"
+"1","16","Picathartidae","http://fr.dbpedia.org/resource/Picathartidae","http://dbpedia.org/resource/Bare-headed_Rockfowl http://dbpedia.org/resource/Rockfowl http://dbpedia.org/resource/Bald_crows http://dbpedia.org/resource/Bald_Crow http://dbpedia.org/resource/Picathartidae http://dbpedia.org/resource/Picathartes http://dbpedia.org/resource/Bald_crow"
+"1","21","Leiothrichidae","http://dbpedia.org/resource/Old_World_babbler","http://dbpedia.org/resource/Leiothrichidae"

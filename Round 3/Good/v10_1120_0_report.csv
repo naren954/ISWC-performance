@@ -1,0 +1,21 @@
+F1: 0.76543,Precision: 0.76543,Recall: 0.76543,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,6,The Letter,http://dbpedia.org/resource/The_Letter_(Hoobastank_song),http://dbpedia.org/resource/The_Letter_(The_Box_Tops_song)
+0,9,The Last Time,http://dbpedia.org/resource/The_Last_Time_(Taylor_Swift_song),http://dbpedia.org/resource/The_Last_Time_(The_Rolling_Stones_song) http://dbpedia.org/resource/The_Last_Time_(song)
+0,13,The Kids Are Alright,http://dbpedia.org/resource/The_Kids_Aren't_Alright,http://dbpedia.org/resource/Kids_are_alright_(song) http://dbpedia.org/resource/The_Kids_Are_Alright_(song)
+0,15,The Inner Light,http://dbpedia.org/resource/The_Inner_Light_(Star_Trek:_The_Next_Generation),http://dbpedia.org/resource/The_Inner_Light_(song)
+0,19,The Hunter,http://dbpedia.org/resource/Hunter_(Björk_song),http://dbpedia.org/resource/I_am_the_hunter http://dbpedia.org/resource/The_Hunter_(Clannad_song)
+0,26,The Green Manalishi,http://dbpedia.org/resource/The_Green_Manalishi_(With_the_Two_Prong_Crown),http://dbpedia.org/resource/The_Green_Manalishi_(With_the_Two-Pronged_Crown) http://dbpedia.org/resource/The_Green_Manalishi http://dbpedia.org/resource/The_Green_Manalishi_(With_The_Two-Pronged_Crown) http://dbpedia.org/resource/Green_manalishi http://dbpedia.org/resource/Manalishi http://dbpedia.org/resource/Green_Manalishi
+0,30,The Greatest,http://dbpedia.org/resource/The_Greatest_(Sia_song),http://dbpedia.org/resource/The_Greatest_(Michelle_Williams_song)
+0,39,The Ghost of Tom Joad,http://dbpedia.org/resource/The_Ghost_of_Tom_Joad,http://dbpedia.org/resource/Ghost_of_Tom_Joad_(song) http://dbpedia.org/resource/The_Ghost_of_Tom_Joad_(song) http://dbpedia.org/resource/The_Ghost_of_Tom_Joad_(RATM_song)
+0,41,The Future,http://dbpedia.org/resource/The_Future_(Leonard_Cohen_album),http://dbpedia.org/resource/The_Future_(Prince_song) http://dbpedia.org/resource/The_Future_(song)
+0,42,The Food,http://dbpedia.org/resource/DJ_Food,http://dbpedia.org/resource/The_Food
+0,50,The Don,http://dbpedia.org/resource/Don_Johnson,http://dbpedia.org/resource/The_Don_(Nas_song)
+0,60,The Box,http://dbpedia.org/resource/The_Box_(Chicago_album),http://dbpedia.org/resource/The_Box_(King_Missile_song)
+0,63,The Bird,http://dbpedia.org/resource/Larry_Bird,http://dbpedia.org/resource/The_Bird_(The_Time_song)
+0,65,The Best of Me,http://dbpedia.org/resource/The_Best_of_Me_(Bryan_Adams_song),http://dbpedia.org/resource/The_Best_of_Me_(Mya_song) http://dbpedia.org/resource/The_Best_of_Me_(Mýa_song)
+0,68,The Best Is Yet to Come,http://dbpedia.org/resource/The_Best_Is_Yet_to_Come_(album),http://dbpedia.org/resource/The_Best_Is_Yet_To_Come_(Grover_Washington_Jr._song) http://dbpedia.org/resource/The_Best_is_Yet_to_Come_(Grover_Washington_Jr._song) http://dbpedia.org/resource/The_Best_Is_Yet_to_Come_(Grover_Washington_Jr._song)
+0,69,The Bells,http://dbpedia.org/resource/The_Bells_(album),http://dbpedia.org/resource/The_Bells_(Fluke_song)
+0,71,The Beautiful Ones,http://dbpedia.org/resource/Beautiful_Ones,http://dbpedia.org/resource/The_Beautiful_Ones
+0,76,The Animal,http://dbpedia.org/resource/Animals_(Pink_Floyd_album),http://dbpedia.org/resource/The_Animal_(Disturbed_song)
+0,81,That's the Way Love Is,http://dbpedia.org/resource/That's_the_Way_Love_Is_(Bobby_Brown_song),http://dbpedia.org/resource/That's_the_Way_Love_Is_(Marvin_Gaye_song) http://dbpedia.org/resource/That's_the_Way_Love_Is_(The_Isley_Brothers_song)

@@ -1,0 +1,4 @@
+F1: 0.84615,Precision: 0.84615,Recall: 0.84615,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,1,Blagaj,"http://dbpedia.org/resource/Blagaj,_Croatia",http://dbpedia.org/resource/Bona_(Hum) http://dbpedia.org/resource/Blagaj
+2,11,"Lake Havasu City, Arizona","http://dbpedia.org/resource/Mohave_County,_Arizona","http://dbpedia.org/resource/Lake_Havasu_City,_Ariz. http://dbpedia.org/resource/Lake_Havasu_City http://dbpedia.org/resource/Lake_Havasu,_Ariz. http://dbpedia.org/resource/Lake_Havasu_City,_AZ http://dbpedia.org/resource/Lake_Havasu,_Arizona http://dbpedia.org/resource/History_of_Lake_Havasu_City,_Arizona http://dbpedia.org/resource/UN/LOCODE:USHII http://dbpedia.org/resource/Lake_Havasu_City,_Arizona"

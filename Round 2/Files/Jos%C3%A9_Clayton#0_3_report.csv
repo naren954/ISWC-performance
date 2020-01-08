@@ -1,0 +1,6 @@
+"F1: 0.00000","Precision: 0.00000","Recall: 0.00000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"3","1","Botswana","http://dbpedia.org/resource/Botswana","http://dbpedia.org/resource/Botswana_national_football_team"
+"3","2","Malawi","http://dbpedia.org/resource/Malawi","http://dbpedia.org/resource/Malawi_national_football_team http://dbpedia.org/resource/Nyasaland_national_football_team"
+"3","3","Guinea","http://dbpedia.org/resource/Papua_New_Guinea","http://dbpedia.org/resource/Guinean_national_football_team http://dbpedia.org/resource/Syli_Nationale http://dbpedia.org/resource/Guinea_national_football_team"
+"3","4","Morocco","http://dbpedia.org/resource/Morocco","http://dbpedia.org/resource/Atlas_Lions http://dbpedia.org/resource/Morocco_national_football_team http://dbpedia.org/resource/Moroccan_national_football_team http://dbpedia.org/resource/Morocco_FC"

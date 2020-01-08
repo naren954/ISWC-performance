@@ -1,0 +1,44 @@
+F1: 0.78462,Precision: 0.78462,Recall: 0.78462,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,16,Ø. Østensen,http://dbpedia.org/resource/Sten_Stensen,http://dbpedia.org/resource/Østen_Østensen http://dbpedia.org/resource/Östen_Östensen http://dbpedia.org/resource/Osten_Ostensen
+1,24,Ø. Østensen,http://dbpedia.org/resource/Sten_Stensen,http://dbpedia.org/resource/Østen_Østensen http://dbpedia.org/resource/Östen_Östensen http://dbpedia.org/resource/Osten_Ostensen
+1,31,C. Stewart,http://dbpedia.org/resource/Chelsea_Stewart,http://dbpedia.org/resource/Charles_Stewart_(sport_shooter)
+1,34,A. Londen,http://dbpedia.org/resource/Axel_Fredrik_Londen,http://dbpedia.org/resource/Axel_Londen http://dbpedia.org/resource/Londen
+1,39,C. Stewart,http://dbpedia.org/resource/Chelsea_Stewart,http://dbpedia.org/resource/Charles_Stewart_(sport_shooter)
+1,40,C. Stewart,http://dbpedia.org/resource/Chelsea_Stewart,http://dbpedia.org/resource/Charles_Stewart_(sport_shooter)
+1,43,A. Londen,http://dbpedia.org/resource/Axel_Fredrik_Londen,http://dbpedia.org/resource/Axel_Londen http://dbpedia.org/resource/Londen
+1,49,O. Sæther,http://dbpedia.org/resource/Olaf_Sæther,http://dbpedia.org/resource/Ole_Saether http://dbpedia.org/resource/Ole_Sæther
+1,54,O. Sæther,http://dbpedia.org/resource/Olaf_Sæther,http://dbpedia.org/resource/Ole_Saether http://dbpedia.org/resource/Ole_Sæther
+1,61,L. Westerhof,http://dbpedia.org/resource/Marieke_Westerhof,http://dbpedia.org/resource/Lisa_Westerhof http://dbpedia.org/resource/Lisa_Westerhof_(sailor)
+1,69,L. Westerhof,http://dbpedia.org/resource/Marieke_Westerhof,http://dbpedia.org/resource/Lisa_Westerhof http://dbpedia.org/resource/Lisa_Westerhof_(sailor)
+1,76,F. Oliveira,http://dbpedia.org/resource/Flávia_Oliveira,http://dbpedia.org/resource/Fernanda_Moreira_de_Olivera http://dbpedia.org/resource/Fernanda_Oliveira_(sailor) http://dbpedia.org/resource/Fernanda_Oliveira
+1,82,F. Oliveira,http://dbpedia.org/resource/Flávia_Oliveira,http://dbpedia.org/resource/Fernanda_Moreira_de_Olivera http://dbpedia.org/resource/Fernanda_Oliveira_(sailor) http://dbpedia.org/resource/Fernanda_Oliveira
+1,130,K. Massey,http://dbpedia.org/resource/Kelly_Massey,http://dbpedia.org/resource/Kent_Massey
+1,134,P. Healy,http://dbpedia.org/resource/Phil_Healy,http://dbpedia.org/resource/Pamela_Healy
+1,135,J. Forbes,http://dbpedia.org/resource/James_Forbes_(basketball),http://dbpedia.org/resource/John_Forbes_(sailor)
+1,136,E. Jespersen,http://dbpedia.org/resource/Chris_Jespersen,http://dbpedia.org/resource/Eric_Jespersen
+1,137,L. Smith,http://dbpedia.org/resource/Larry_Smith_(basketball),http://dbpedia.org/resource/Lawrie_Smith
+1,138,T. Toniste,,http://dbpedia.org/resource/Tonu_Toniste http://dbpedia.org/resource/Tõnu_Tõniste
+1,139,C. Monk,http://dbpedia.org/resource/Colin_Monk,http://dbpedia.org/resource/Craig_Monk
+1,140,P. Healy,http://dbpedia.org/resource/Phil_Healy,http://dbpedia.org/resource/Pamela_Healy
+1,141,J. Forbes,http://dbpedia.org/resource/James_Forbes_(basketball),http://dbpedia.org/resource/John_Forbes_(sailor)
+1,142,E. Jespersen,http://dbpedia.org/resource/Chris_Jespersen,http://dbpedia.org/resource/Eric_Jespersen
+1,143,L. Smith,http://dbpedia.org/resource/Larry_Smith_(basketball),http://dbpedia.org/resource/Lawrie_Smith
+1,144,T. Toniste,,http://dbpedia.org/resource/Tonu_Toniste http://dbpedia.org/resource/Tõnu_Tõniste
+1,145,C. Monk,http://dbpedia.org/resource/Colin_Monk,http://dbpedia.org/resource/Craig_Monk
+1,146,L. Moskalenko,http://dbpedia.org/resource/Kirill_Moskalenko,http://dbpedia.org/resource/Larisa_Moskalenko http://dbpedia.org/resource/Larysa_Moskalenko
+1,151,F. McLaughlin,http://dbpedia.org/resource/James_McLaughlin_(cyclist),http://dbpedia.org/resource/Frank_McLaughlin_(Olympian) http://dbpedia.org/resource/Frank_McLaughlin_(sailor)
+1,152,J. Cutler,http://dbpedia.org/resource/Johnny_Cutler,http://dbpedia.org/resource/John_Cutler_(yachtsman) http://dbpedia.org/resource/John_Cutler_(sailor)
+1,153,L. Moskalenko,http://dbpedia.org/resource/Kirill_Moskalenko,http://dbpedia.org/resource/Larisa_Moskalenko http://dbpedia.org/resource/Larysa_Moskalenko
+1,158,F. McLaughlin,http://dbpedia.org/resource/James_McLaughlin_(cyclist),http://dbpedia.org/resource/Frank_McLaughlin_(Olympian) http://dbpedia.org/resource/Frank_McLaughlin_(sailor)
+1,159,J. Cutler,http://dbpedia.org/resource/Johnny_Cutler,http://dbpedia.org/resource/John_Cutler_(yachtsman) http://dbpedia.org/resource/John_Cutler_(sailor)
+1,160,C. Cairns,http://dbpedia.org/resource/Chris_Cairns,http://dbpedia.org/resource/Christopher_Cairns_(sailor) http://dbpedia.org/resource/Chris_Cairns_(sailor)
+1,163,J. Richards,http://dbpedia.org/resource/Jazz_Richards,http://dbpedia.org/resource/Jonathan_Richards_(sailor)
+1,164,T. Neilson,http://dbpedia.org/resource/Sandy_Neilson,http://dbpedia.org/resource/Terry_Neilson http://dbpedia.org/resource/Terence_Neilson
+1,166,C. Cairns,http://dbpedia.org/resource/Chris_Cairns,http://dbpedia.org/resource/Christopher_Cairns_(sailor) http://dbpedia.org/resource/Chris_Cairns_(sailor)
+1,169,J. Richards,http://dbpedia.org/resource/Jazz_Richards,http://dbpedia.org/resource/Jonathan_Richards_(sailor)
+1,170,T. Neilson,http://dbpedia.org/resource/Sandy_Neilson,http://dbpedia.org/resource/Terry_Neilson http://dbpedia.org/resource/Terence_Neilson
+1,177,J. Lindgrén,http://dbpedia.org/resource/John_Lindgren,http://dbpedia.org/resource/Jouko_Lindgren http://dbpedia.org/resource/Jouko_Lindgrén
+1,183,J. Lindgrén,http://dbpedia.org/resource/John_Lindgren,http://dbpedia.org/resource/Jouko_Lindgren http://dbpedia.org/resource/Jouko_Lindgrén
+1,186,J. Bertrand,http://dbpedia.org/resource/Joseph_Bertrand_(swimmer),http://dbpedia.org/resource/John_Bertrand_(Australian_sailor)
+1,189,J. Bertrand,http://dbpedia.org/resource/Joseph_Bertrand_(swimmer),http://dbpedia.org/resource/John_Bertrand_(Australian_sailor)

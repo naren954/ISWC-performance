@@ -1,0 +1,4 @@
+"F1: 0.86667","Precision: 0.86667","Recall: 0.86667"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","9","Deer Lake","http://dbpedia.org/resource/Deer_Lake_(Taylor_River)","http://dbpedia.org/resource/Deer_lake_(newfoundland) http://dbpedia.org/resource/Deer_Lake_(Newfoundland) http://dbpedia.org/resource/Deer_Lake_(Newfoundland_and_Labrador)"
+"0","12","Charlotte Lake","http://dbpedia.org/resource/Charlotte_Lake_(California)","http://dbpedia.org/resource/Charlotte_Lake_(British_Columbia)"

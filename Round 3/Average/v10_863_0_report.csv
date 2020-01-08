@@ -1,0 +1,15 @@
+F1: 0.68293,Precision: 0.68293,Recall: 0.68293,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,4,T. Forster,http://dbpedia.org/resource/Terry_Forster,http://dbpedia.org/resource/Tim_Forster
+0,7,N. Holland,http://dbpedia.org/resource/Nate_Holland,http://dbpedia.org/resource/Norm_Holland
+0,11,M. Miller,http://dbpedia.org/resource/Matt_Miller_(quarterback),http://dbpedia.org/resource/MacKenzie_Miller
+0,13,J. Sellers,http://dbpedia.org/resource/Justin_Sellers,http://dbpedia.org/resource/John_Sellers http://dbpedia.org/resource/Johnny_Sellers
+0,18,J. Dennis,http://dbpedia.org/resource/Dennis_Johnson,http://dbpedia.org/resource/Jim_Dennis
+0,19,J. Lambert,http://fr.dbpedia.org/resource/Jérôme_Lambert_(cyclisme),http://dbpedia.org/resource/Jerry_Lambert_(jockey)
+0,23,J. McNamara,http://dbpedia.org/resource/Julianne_McNamara,http://dbpedia.org/resource/JT_McNamara http://dbpedia.org/resource/John_McNamara_(jockey) http://dbpedia.org/resource/J._T._McNamara http://dbpedia.org/resource/John_Thomas_McNamara
+0,25,I. Valenzuela,http://dbpedia.org/resource/Pat_Valenzuela,http://dbpedia.org/resource/Ismael_Valenzuela http://dbpedia.org/resource/Milo_Valenzuela
+0,28,G. Moore,http://fr.dbpedia.org/resource/Georgia_Moore,http://dbpedia.org/resource/George_T._D._Moore http://dbpedia.org/resource/George_T.D._Moore http://dbpedia.org/resource/George_Moore_(jockey)
+0,29,G. Barrett,http://dbpedia.org/resource/Glen_Barrett,http://dbpedia.org/resource/George_Barrett_(jockey)
+0,31,E. R. Jr.,http://dbpedia.org/resource/N.O.R.E.,"http://dbpedia.org/resource/Eusebio_Razo,_Jr. http://dbpedia.org/resource/Eusebio_Razo http://dbpedia.org/resource/Eddie_Razo"
+0,34,E. Avery,http://dbpedia.org/resource/Sean_Avery,http://dbpedia.org/resource/Earle_Avery
+0,39,B. Skelton,http://dbpedia.org/resource/Bill_Skelton_(jockey),http://dbpedia.org/resource/Bob_Skelton_(jockey)

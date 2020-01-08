@@ -1,0 +1,8 @@
+F1: 0.57143,Precision: 0.57143,Recall: 0.57143,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,Sand Creek Stadium,http://dbpedia.org/resource/Weidner_Field,http://dbpedia.org/resource/Switchbacks_Stadium http://dbpedia.org/resource/Sand_Creek_Stadium
+0,5,StubHub Center,http://dbpedia.org/resource/Dignity_Health_Sports_Park,http://dbpedia.org/resource/StubHub_Center http://dbpedia.org/resource/Home_Depot_Stadium http://dbpedia.org/resource/The_Stubhub_Center http://dbpedia.org/resource/Stubhub_Center http://dbpedia.org/resource/The_Home_Depot_Center http://dbpedia.org/resource/Home_Depot_Center
+0,6,Saputo Stadium,http://dbpedia.org/resource/Yankee_Stadium,http://dbpedia.org/resource/Saputo_Stadium http://dbpedia.org/resource/Stade_Saputo
+0,8,Highmark Stadium,http://dbpedia.org/resource/Yankee_Stadium,http://dbpedia.org/resource/New_Riverhounds_Stadium http://dbpedia.org/resource/Highmark_Stadium
+0,11,Sahlen's Stadium,http://dbpedia.org/resource/Marina_Auto_Stadium,http://dbpedia.org/resource/Sahlen's_Stadium
+0,13,Bonney Field,http://dbpedia.org/resource/Papa_Murphy's_Park,http://dbpedia.org/resource/Bonney_Field

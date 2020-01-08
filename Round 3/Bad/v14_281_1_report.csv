@@ -1,0 +1,91 @@
+F1: 0.48256,Precision: 0.48256,Recall: 0.48256,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,2,M. Tolkin,http://dbpedia.org/resource/Michael_Tolkin,http://dbpedia.org/resource/Mel_Tolkin
+1,4,K. Mansfield,http://dbpedia.org/resource/Jayne_Mansfield,http://dbpedia.org/resource/Soul_Thing http://dbpedia.org/resource/Keith_Mansfield_Orchestra http://dbpedia.org/resource/Funky_Fanfare http://dbpedia.org/resource/Keith_Mansfield
+1,5,R. Monk,http://dbpedia.org/resource/Sophie_Monk,http://dbpedia.org/resource/Ray_Monk http://dbpedia.org/resource/R._Monk
+1,9,K. Yamamoto,http://dbpedia.org/resource/Ken'ichi_Yamamoto,http://dbpedia.org/resource/Kyoji_Yamamoto http://dbpedia.org/resource/Kyouji_Yamamoto http://dbpedia.org/resource/Kyōji_Yamamoto
+1,10,D. W. Music,http://dbpedia.org/resource/Argentina,http://dbpedia.org/resource/Music_DeWolfe http://dbpedia.org/resource/De_Wolfe_Music
+1,12,A. Johnston,http://dbpedia.org/resource/Andrew_Johnston_(singer),http://dbpedia.org/resource/Adrian_Johnston_(musician) http://dbpedia.org/resource/Adrian_Johnston
+1,13,D. Lowe,http://dbpedia.org/resource/Jim_Lowe,http://dbpedia.org/resource/David_Lowe_(television_and_radio_composer)
+1,14,C. Gunning,http://dbpedia.org/resource/Carmel_Gunning,http://dbpedia.org/resource/Chris_Gunning http://dbpedia.org/resource/Christopher_Gunning
+1,16,A. Thicke,http://dbpedia.org/resource/Robin_Thicke,http://dbpedia.org/resource/Allan_thicke http://dbpedia.org/resource/Allen_thicke http://dbpedia.org/resource/Allen_thick http://dbpedia.org/resource/Alan_Thick http://dbpedia.org/resource/Allan_thick http://dbpedia.org/resource/Alan_Thicke http://dbpedia.org/resource/Alan_Jeffery
+1,17,A. Thicke,http://dbpedia.org/resource/Robin_Thicke,http://dbpedia.org/resource/Allan_thicke http://dbpedia.org/resource/Allen_thicke http://dbpedia.org/resource/Allen_thick http://dbpedia.org/resource/Alan_Thick http://dbpedia.org/resource/Allan_thick http://dbpedia.org/resource/Alan_Thicke http://dbpedia.org/resource/Alan_Jeffery
+1,18,J. Grimsley,http://dbpedia.org/resource/John_Grimsley,http://dbpedia.org/resource/Jack_Grimsley
+1,19,J. Green,http://dbpedia.org/resource/Julien_Green,"http://dbpedia.org/resource/John_Green_(composer) http://dbpedia.org/resource/Johnny_Green http://dbpedia.org/resource/John_Waldo_""Johnny""_Green http://dbpedia.org/resource/Waldo_Green http://dbpedia.org/resource/Johnny_green http://dbpedia.org/resource/John_Waldo_Green"
+1,20,E. Drake,http://dbpedia.org/resource/Alfred_Drake,http://dbpedia.org/resource/Ervin_Drake
+1,21,E. Parker,http://dbpedia.org/resource/Charlie_Parker,http://dbpedia.org/resource/Elizabeth_Parker_(composer)
+1,22,M. 4,"http://dbpedia.org/resource/Charles_Monck,_4th_Viscount_Monck",http://dbpedia.org/resource/Music_4
+1,24,J. Goodman,http://dbpedia.org/resource/John_Goodman,http://dbpedia.org/resource/Joel_Goodman_(composer) http://dbpedia.org/resource/Joel_Goodman_(Composer) http://dbpedia.org/resource/Joel_Goodman
+1,25,B. Bartlett,http://dbpedia.org/resource/Bob_Bartlett,http://dbpedia.org/resource/Ben_Bartlett
+1,26,B. Bartlett,http://dbpedia.org/resource/Bob_Bartlett,http://dbpedia.org/resource/Ben_Bartlett
+1,27,A. Parker,http://dbpedia.org/resource/Junior_Parker,http://dbpedia.org/resource/Alan_Parker_(composer) http://dbpedia.org/resource/Alan_Parker_(musician) http://dbpedia.org/resource/Alan_Parker(Musician) http://dbpedia.org/resource/Alan_Parker(musician)
+1,28,B. Bartlett,http://dbpedia.org/resource/Bob_Bartlett,http://dbpedia.org/resource/Ben_Bartlett
+1,29,L. Balfe,http://dbpedia.org/resource/David_Balfe,http://dbpedia.org/resource/Lorne_Balfe
+1,30,L. Johnson,http://dbpedia.org/resource/Lyndon_B._Johnson,http://dbpedia.org/resource/Laurie_Johnson
+1,31,D. Wiseman,http://dbpedia.org/resource/Frederick_Wiseman,http://dbpedia.org/resource/Debbie_Wiseman
+1,32,W. W. Biggers,http://dbpedia.org/resource/New_York_City,http://dbpedia.org/resource/Watts_Biggers http://dbpedia.org/resource/William_Biggers http://dbpedia.org/resource/W._Watts_Biggers http://dbpedia.org/resource/Buck_Biggers http://dbpedia.org/resource/William_Watts_Biggers
+1,33,B. Dallwitz,"http://de.dbpedia.org/resource/Sigismund_von_Dallwitz_(Politiker,_1829)",http://dbpedia.org/resource/Burkhard_Dallwitz
+1,35,S. Productions,http://dbpedia.org/resource/Pandro_S._Berman,http://dbpedia.org/resource/Score_Productions
+1,37,J. Campbell,http://dbpedia.org/resource/Joseph_Campbell,http://dbpedia.org/resource/Junior_Campbell
+1,38,F. Phillips,http://dbpedia.org/resource/Flip_Phillips,http://dbpedia.org/resource/Freddie_Phillips
+1,39,S. Productions,http://dbpedia.org/resource/Pandro_S._Berman,http://dbpedia.org/resource/Score_Productions
+1,40,E. Parker,http://dbpedia.org/resource/Charlie_Parker,http://dbpedia.org/resource/Elizabeth_Parker_(composer)
+1,41,P. Williams,http://dbpedia.org/resource/Pharrell_Williams,http://dbpedia.org/resource/Pat_Williams_(composer) http://dbpedia.org/resource/Patrick_Williams_(composer)
+1,42,S. Walker,http://dbpedia.org/resource/Scott_Walker_(singer),http://dbpedia.org/resource/Shirley_Walker
+1,44,R. Ellis,http://dbpedia.org/resource/Rob_Ellis_(producer),http://dbpedia.org/resource/Ray_Ellis
+1,47,M. Vickers,http://dbpedia.org/resource/Diana_Vickers,http://dbpedia.org/resource/Mike_Vickers http://dbpedia.org/resource/Patrick_J._O'Hara_Scott http://dbpedia.org/resource/Mike_vickers
+1,48,S. Productions,http://dbpedia.org/resource/Pandro_S._Berman,http://dbpedia.org/resource/Score_Productions
+1,51,D. Long,http://dbpedia.org/resource/Darrell_Long,http://dbpedia.org/resource/David_Long_(New_Zealand_musician)
+1,52,C. Davis,http://dbpedia.org/resource/Colin_Davis,"http://dbpedia.org/resource/Davis,_Carl http://dbpedia.org/resource/Karl_Davis http://dbpedia.org/resource/Carl_Davis"
+1,54,Lennon–McCartney,http://dbpedia.org/resource/The_Beatles,http://dbpedia.org/resource/Lennon_mccartney http://dbpedia.org/resource/Unreleased_Lennon/McCartney_Songs http://dbpedia.org/resource/Lennon/McCartney http://dbpedia.org/resource/Relationship_of_John_Lennon_and_Paul_McCartney http://dbpedia.org/resource/The_Songwriting_Partnership_of_John_Lennon_and_Paul_McCartney http://dbpedia.org/resource/John_Lennon_and_Paul_McCartney http://dbpedia.org/resource/Lennon-McCartney http://dbpedia.org/resource/McCartney-Lennon http://dbpedia.org/resource/Unreleased_Lennon/McCartney_songs http://dbpedia.org/resource/Lennon–McCartney http://dbpedia.org/resource/McCartney/Lennon http://dbpedia.org/resource/Lennon_and_mccartney http://dbpedia.org/resource/Songwriting_partnership_of_John_Lennon_and_Paul_McCartney http://dbpedia.org/resource/Unreleased_Lennon–McCartney_songs http://dbpedia.org/resource/The_Strangers_with_Mike_Shannon http://dbpedia.org/resource/Lennon_/_McCartney http://dbpedia.org/resource/McCartney–Lennon http://dbpedia.org/resource/The_Music_of_Lennon_&_McCartney http://dbpedia.org/resource/Paul_McCartney_and_John_Lennon http://dbpedia.org/resource/Lennon_&_McCartney http://dbpedia.org/resource/Lennon_and_McCartney http://dbpedia.org/resource/Early_Lennon/McCartney_songs http://dbpedia.org/resource/Unreleased_Lennon-McCartney_songs
+1,55,A. Thicke,http://dbpedia.org/resource/Robin_Thicke,http://dbpedia.org/resource/Allan_thicke http://dbpedia.org/resource/Allen_thicke http://dbpedia.org/resource/Allen_thick http://dbpedia.org/resource/Alan_Thick http://dbpedia.org/resource/Allan_thick http://dbpedia.org/resource/Alan_Thicke http://dbpedia.org/resource/Alan_Jeffery
+1,59,P. Farrer,http://dbpedia.org/resource/Philippines,http://dbpedia.org/resource/Paul_Farrer http://dbpedia.org/resource/Paul_farrer
+1,60,J. Goldsmith,http://dbpedia.org/resource/Jerry_Goldsmith,http://dbpedia.org/resource/Joel_Goldsmith http://dbpedia.org/resource/Joel_King_Goldsmith
+1,63,T. Roots,http://dbpedia.org/resource/Slovenia,"http://dbpedia.org/resource/The_Roots_(band) http://dbpedia.org/resource/The_Fifth_Dynasty http://dbpedia.org/resource/The_Roots http://dbpedia.org/resource/Wadud_Ahmad http://dbpedia.org/resource/F._Knuckles http://dbpedia.org/resource/The_Legendary_Roots_Crew http://dbpedia.org/resource/Kamal_Gray http://dbpedia.org/resource/Endgame_(The_Roots_album) http://dbpedia.org/resource/Roots_(band) http://dbpedia.org/resource/Damon_Bryson http://dbpedia.org/resource/Damon_""Tuba_Gooding_Jr.""_Bryson http://dbpedia.org/resource/The_roots http://dbpedia.org/resource/End_Game_(The_Roots_album) http://dbpedia.org/resource/Mark_Kelley_(Bassist) http://dbpedia.org/resource/The_Square_Roots http://dbpedia.org/resource/Frank_Knuckles http://dbpedia.org/resource/James_'Kamal'_Gray http://dbpedia.org/resource/The_End_Game_(album) http://dbpedia.org/resource/Wadud_ahmad"
+1,66,S. Levy,http://dbpedia.org/resource/Sivan_Levy,http://dbpedia.org/resource/Itty_Bitty_Heartbeats http://dbpedia.org/resource/Shuki_Levy http://dbpedia.org/resource/Shuky_Levy
+1,72,V. Bennett,http://dbpedia.org/resource/Vincent_Bennett,http://dbpedia.org/resource/Lovall_Bennett http://dbpedia.org/resource/Val_Bennett
+1,77,S. Wilson,http://dbpedia.org/resource/Brian_Wilson,http://dbpedia.org/resource/Stanley_Wilson_(musician) http://dbpedia.org/resource/Stanley_Wilson_(composer)
+1,79,G. Fried,http://dbpedia.org/resource/Germain_Fried,http://dbpedia.org/resource/Gerald_Fried
+1,80,T. Transcenders,http://dbpedia.org/resource/Transcendental_number,http://dbpedia.org/resource/The_Transcenders
+1,83,D. Elliott,http://dbpedia.org/resource/Denholm_Elliott,http://dbpedia.org/resource/Dean_Elliott http://dbpedia.org/resource/Dean_Elliot
+1,84,B. Jones,http://dbpedia.org/resource/Barbara_Jones_(singer),"http://dbpedia.org/resource/Ben_Jones_(American_cartoonist) http://dbpedia.org/resource/Ben_Jones_Studio,_Inc."
+1,86,J. Grimsley,http://dbpedia.org/resource/John_Grimsley,http://dbpedia.org/resource/Jack_Grimsley
+1,87,M. Reagan,http://dbpedia.org/resource/Ronald_Reagan,http://dbpedia.org/resource/Mike_Reagan
+1,88,S. Russell,http://dbpedia.org/resource/Bertrand_Russell,http://dbpedia.org/resource/Simon_Russell_-_composer http://dbpedia.org/resource/Simon_Russell_(composer)
+1,90,T. Nichols,http://dbpedia.org/resource/Dudley_Nichols,http://dbpedia.org/resource/Ted_Nichols
+1,92,K. Carter,http://dbpedia.org/resource/Kevin_Carter,http://dbpedia.org/resource/Kristopher_Carter
+1,94,S. Productions,http://dbpedia.org/resource/Pandro_S._Berman,http://dbpedia.org/resource/Score_Productions
+1,95,J. Newman,http://dbpedia.org/resource/Joe_Newman_(trumpeter),http://dbpedia.org/resource/Joey_newman http://dbpedia.org/resource/Joey_Newman
+1,96,S. Tongue,http://dbpedia.org/resource/The_Tongue,http://dbpedia.org/resource/Sheridan_Tongue
+1,97,D. Elliott,http://dbpedia.org/resource/Denholm_Elliott,http://dbpedia.org/resource/Dean_Elliott http://dbpedia.org/resource/Dean_Elliot
+1,100,J. Spencer,http://dbpedia.org/resource/John_Spencer_(actor),http://dbpedia.org/resource/Jez_Spencer
+1,101,M. Hudson,http://dbpedia.org/resource/Jennifer_Hudson,http://dbpedia.org/resource/Mark_Hudson_(musician)
+1,102,B. Broughton,"http://dbpedia.org/resource/John_Hobhouse,_1st_Baron_Broughton",http://dbpedia.org/resource/Bruce_Broughton
+1,103,K. Tatlonghari,http://dbpedia.org/resource/K._Maneesha,http://dbpedia.org/resource/Karylle http://dbpedia.org/resource/Karylle_Tatlonghari
+1,104,D. Lowe,http://dbpedia.org/resource/Jim_Lowe,http://dbpedia.org/resource/David_Lowe_(television_and_radio_composer)
+1,105,P. a. Kingsley,http://dbpedia.org/resource/Poul_Anderson,http://dbpedia.org/resource/Perrey_and_Kingsley http://dbpedia.org/resource/Perrey-Kingsley
+1,109,S. Price,http://dbpedia.org/resource/Sammy_Price,http://dbpedia.org/resource/Steven_Price_(composer)
+1,113,S. Phillips,http://dbpedia.org/resource/Shawn_Phillips,http://dbpedia.org/resource/Stu_Phillips_(composer)
+1,116,B. May,http://dbpedia.org/resource/Brian_May,http://dbpedia.org/resource/Billy_May
+1,118,W. Josephs,http://dbpedia.org/resource/Joseph_Stalin,http://dbpedia.org/resource/Wilfred_Josephs http://dbpedia.org/resource/Wilfrid_Josephs
+1,119,I. F. Dragons,http://dbpedia.org/resource/Carmen_Dragon,http://dbpedia.org/resource/I_fight_dragons http://dbpedia.org/resource/DEMOlition:_Songs_That_Didn't_Make_It_On_KABOOM! http://dbpedia.org/resource/I_Fight_dragons http://dbpedia.org/resource/The_Geeks_Will_Inherit_the_Earth_(I_Fight_Dragons_song) http://dbpedia.org/resource/I_Fight_Dragons
+1,120,D. Wood,http://dbpedia.org/resource/Del_Wood,http://dbpedia.org/resource/David_Wood_(actor)
+1,129,J. Marshall,http://dbpedia.org/resource/Jimi_Hendrix,http://dbpedia.org/resource/Jack_Marshall_(composer)
+1,132,J. Hirschhorn,http://dbpedia.org/resource/Thomas_Hirschhorn,http://dbpedia.org/resource/Joel_Hirschorn http://dbpedia.org/resource/Joel_Hirshhorn http://dbpedia.org/resource/Joel_Hirschhorn
+1,135,G. Fenton,http://dbpedia.org/resource/Frank_Fenton_(actor),http://dbpedia.org/resource/George_Fenton
+1,136,H. Goodall,http://dbpedia.org/resource/Frederick_Goodall,http://dbpedia.org/resource/Howard_Goodall http://dbpedia.org/resource/Howard_Lindsay_Goodall
+1,138,S. Productions,http://dbpedia.org/resource/Pandro_S._Berman,http://dbpedia.org/resource/Score_Productions
+1,143,G. Michelmore,http://dbpedia.org/resource/Cliff_Michelmore,http://dbpedia.org/resource/Guy_Michelmore
+1,144,A. Hall,http://dbpedia.org/resource/James_Hall_(paleontologist),http://dbpedia.org/resource/Arsinio_Hall http://dbpedia.org/resource/Arsenio_Hall http://dbpedia.org/resource/Large_and_In_Charge http://dbpedia.org/resource/Chunky_a http://dbpedia.org/resource/Large_and_in_Charge http://dbpedia.org/resource/Owww!
+1,146,R. Mellin,http://dbpedia.org/resource/Max_Mellin,http://dbpedia.org/resource/Robert_Mellin
+1,147,M. Mulcahy,http://dbpedia.org/resource/Richard_Mulcahy,http://dbpedia.org/resource/In_Pursuit_of_Your_Happiness http://dbpedia.org/resource/In_Pursuit_Of_Your_Happiness http://dbpedia.org/resource/Mark_Mulcahy
+1,151,"R. "". Thal",http://dbpedia.org/resource/Germany,"http://dbpedia.org/resource/Ron_Thal http://dbpedia.org/resource/Bumblefoot_(musician) http://dbpedia.org/resource/Ron_""Bumblefoot""_Thal http://dbpedia.org/resource/Bumblefoot_(Musician) http://dbpedia.org/resource/Ron_'Bumblefoot'_Thal"
+1,152,W. W. Biggers,http://dbpedia.org/resource/New_York_City,http://dbpedia.org/resource/Watts_Biggers http://dbpedia.org/resource/William_Biggers http://dbpedia.org/resource/W._Watts_Biggers http://dbpedia.org/resource/Buck_Biggers http://dbpedia.org/resource/William_Watts_Biggers
+1,156,R. Jones,http://dbpedia.org/resource/Donell_Jones,http://dbpedia.org/resource/Ron_Jones_(composer)
+1,160,J. Faber,http://dbpedia.org/resource/John_Faber_Sr.,http://dbpedia.org/resource/J-Radical http://dbpedia.org/resource/Jared_Faber
+1,163,P. Williams,http://dbpedia.org/resource/Pharrell_Williams,http://dbpedia.org/resource/Pat_Williams_(composer) http://dbpedia.org/resource/Patrick_Williams_(composer)
+1,164,T. Thicke,http://dbpedia.org/resource/Robin_Thicke,http://dbpedia.org/resource/Todd_Thicke
+1,165,J. Douglas,http://dbpedia.org/resource/Jahméne,http://dbpedia.org/resource/Johnny_Douglas_(conductor)
+1,168,S. Sim,http://dbpedia.org/resource/Georges_Simenon,http://dbpedia.org/resource/Samuel_Sim
+1,171,G. A. Tipton,http://dbpedia.org/resource/John_Tipton_(Alberta_politician),http://dbpedia.org/resource/George_Aliceson_Tipton http://dbpedia.org/resource/George_Tipton
+1,172,A. Price,http://dbpedia.org/resource/Alan_Price,http://dbpedia.org/resource/Andy_Price

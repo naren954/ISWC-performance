@@ -1,0 +1,9 @@
+F1: 0.53333,Precision: 0.53333,Recall: 0.53333,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,4,W. R. Smith,http://dbpedia.org/resource/William_Robertson_Smith,"http://dbpedia.org/resource/William_Reardon_Smith http://dbpedia.org/resource/Reardon_Smith http://dbpedia.org/resource/Sir_William_Smith,_1st_Baronet http://dbpedia.org/resource/William_Reardon-Smith http://dbpedia.org/resource/Sir_William_Reardon_Smith,_1st_Baronet"
+0,5,W. Raeburn,http://dbpedia.org/resource/Henry_Raeburn,"http://dbpedia.org/resource/William_Raeburn http://dbpedia.org/resource/Sir_William_Raeburn,_1st_Baronet http://dbpedia.org/resource/Sir_William_Hannay_Raeburn,_1st_Baronet http://dbpedia.org/resource/Sir_William_Hannay_Raeburn http://dbpedia.org/resource/William_Hannay_Raeburn"
+0,7,W. Call,http://dbpedia.org/resource/Wilkinson_Call,"http://dbpedia.org/resource/William_Pratt_Call http://dbpedia.org/resource/Call,_William http://dbpedia.org/resource/William_Call http://dbpedia.org/resource/Sir_William_Call,_2nd_Baronet"
+0,8,W. Cain,http://dbpedia.org/resource/Herman_Cain,"http://dbpedia.org/resource/William_Cain http://dbpedia.org/resource/Sir_William_Ernest_Cain,_1st_Baronet http://dbpedia.org/resource/William_Ernest_Cain http://dbpedia.org/resource/Sir_William_Cain,_1st_Baronet http://dbpedia.org/resource/Cain,_William"
+0,9,W. Bagge,http://dbpedia.org/resource/Selmar_Bagge,"http://dbpedia.org/resource/Sir_William_Bagge,_1st_Baronet http://dbpedia.org/resource/Sir_William_Bagge,_2nd_Baronet http://dbpedia.org/resource/William_Bagge"
+0,11,W. Nugent,"http://dbpedia.org/resource/Robert_Nugent,_1st_Earl_Nugent","http://dbpedia.org/resource/Sir_Walter_Nugent,_4th_Baronet http://dbpedia.org/resource/Walter_Richard_Nugent http://dbpedia.org/resource/Sir_Walter_Richard_Nugent,_4th_Baronet http://dbpedia.org/resource/Walter_Nugent"
+0,12,V. Seely,,"http://dbpedia.org/resource/Victor_Seely http://dbpedia.org/resource/Sir_Victor_Seely,_4th_Baronet"

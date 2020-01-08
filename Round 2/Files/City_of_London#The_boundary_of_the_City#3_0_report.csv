@@ -1,0 +1,4 @@
+"F1: 0.75000","Precision: 0.75000","Recall: 0.75000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","4","CityPoint","http://dbpedia.org/resource/Citypoint","http://dbpedia.org/resource/CityPoint http://dbpedia.org/resource/1_Ropemaker_Street"
+"0","8","Old St Paul's Cathedral","http://dbpedia.org/resource/St_Paul's_Cathedral","http://dbpedia.org/resource/Old_St_Paul's_Cathedral"

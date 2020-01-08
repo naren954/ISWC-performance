@@ -1,0 +1,9 @@
+F1: 0.85106,Precision: 0.85106,Recall: 0.85106,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,What'd I Say,http://dbpedia.org/resource/What'd_I_Say_(album),http://dbpedia.org/resource/What'd_I_Say http://dbpedia.org/resource/What'd_I_Say_(song) http://dbpedia.org/resource/What'd_I_Say?
+0,5,West Side Story,http://dbpedia.org/resource/West_Side_Story_(Oscar_Peterson_Trio_album),http://dbpedia.org/resource/West_Side_Story_(Earl_Hines_album)
+0,9,Welcome to the Club,http://dbpedia.org/resource/Welcome_to_the_Club_(Ian_Hunter_album),http://dbpedia.org/resource/Welcome_to_the_Club_(Nat_King_Cole_album)
+0,14,Welcome to Love,http://dbpedia.org/resource/Welcome_to_My_Love,http://dbpedia.org/resource/Welcome_to_Love
+0,26,We Want More,http://dbpedia.org/resource/We_Want_Moore!,http://dbpedia.org/resource/We_Want_More
+0,37,We Can Work It Out,http://dbpedia.org/resource/We_Can_Work_It_Out_(Sweetbox_song),http://dbpedia.org/resource/We_can_work_it_out http://dbpedia.org/resource/We_Can't_Work_It_Out http://dbpedia.org/resource/We_Can_Work_It_Out_(The_Beatles_song) http://dbpedia.org/resource/We_Can_Work_It_Out
+0,42,We Are in Love,http://dbpedia.org/resource/We_Were_in_Love,http://dbpedia.org/resource/We_Are_In_Love http://dbpedia.org/resource/We_Are_in_Love

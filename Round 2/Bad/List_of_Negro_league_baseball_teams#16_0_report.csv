@@ -1,0 +1,5 @@
+F1: 0.40000,Precision: 0.40000,Recall: 0.40000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Detroit Stars (I),,http://dbpedia.org/resource/Detroit-New_Orleans_Stars http://dbpedia.org/resource/Detroit_Clowns http://dbpedia.org/resource/Detroit–New_Orleans_Stars http://dbpedia.org/resource/Detroit_Stars
+0,3,Detroit Stars (III),,http://dbpedia.org/resource/Detroit-New_Orleans_Stars http://dbpedia.org/resource/Detroit_Clowns http://dbpedia.org/resource/Detroit–New_Orleans_Stars http://dbpedia.org/resource/Detroit_Stars
+0,4,Detroit Stars (IV) club Detroit Stars (IV) (1954â\u0080\u009357) Detroit Clowns (1958) Detroit Stars (IV) (1959) Detroitâ\u0080\u0093New Orleans Stars (1960â\u0080\u009361),,http://dbpedia.org/resource/Detroit-New_Orleans_Stars http://dbpedia.org/resource/Detroit_Clowns http://dbpedia.org/resource/Detroit–New_Orleans_Stars http://dbpedia.org/resource/Detroit_Stars

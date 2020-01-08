@@ -1,0 +1,4 @@
+"F1: 0.95122","Precision: 0.95122","Recall: 0.95122"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","11","Ã\u0089rezÃ©e","nan","http://dbpedia.org/resource/Érezée"
+"1","12","Ã\u0089talle","http://de.dbpedia.org/resource/Talle","http://dbpedia.org/resource/Étalle,_Belgium"

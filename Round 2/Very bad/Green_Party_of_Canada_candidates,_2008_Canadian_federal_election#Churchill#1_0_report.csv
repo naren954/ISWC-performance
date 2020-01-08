@@ -1,0 +1,5 @@
+F1: 0.25000,Precision: 0.25000,Recall: 0.25000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Cardigan,http://dbpedia.org/resource/Ceredigion,http://dbpedia.org/resource/Cardigan_(electoral_district)
+0,2,Charlottetown,http://dbpedia.org/resource/Charlottetown,http://dbpedia.org/resource/Charlottetown_(electoral_district) http://dbpedia.org/resource/Hillsborough_(electoral_district)
+0,3,Egmont,"http://dbpedia.org/resource/Lamoral,_Count_of_Egmont","http://dbpedia.org/resource/Edgmont,_Prince_Edward_Island http://dbpedia.org/resource/Egmont_(electoral_district)"

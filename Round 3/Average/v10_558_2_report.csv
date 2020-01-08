@@ -1,0 +1,15 @@
+F1: 0.55172,Precision: 0.55172,Recall: 0.55172,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,1,H. Ephron,http://dbpedia.org/resource/Nora_Ephron,http://dbpedia.org/resource/Henry_Ephron
+2,3,Cassius Marcellus Clay Sr.,http://dbpedia.org/resource/Muhammad_Ali,"http://dbpedia.org/resource/Cassius_Marcellus_Clay_Senior http://dbpedia.org/resource/Cassius_Marcellus_Clay,_Sr http://dbpedia.org/resource/Cassius_Marcellus_Clay_Sr. http://dbpedia.org/resource/Cassius_Marcellus_Clay,_Sr."
+2,5,R. Lefebvre,http://dbpedia.org/resource/Raymond_Lefebvre,http://dbpedia.org/resource/René_Lafebvre http://dbpedia.org/resource/René_Lefebvre http://dbpedia.org/resource/Rene_Lefebvre
+2,6,A. Boissier,http://dbpedia.org/resource/Marie-Louis-Antoine-Gaston_Boissier,http://dbpedia.org/resource/Arthur_Boissier http://dbpedia.org/resource/Paul_Boissier
+2,8,K. Cassavetes,http://dbpedia.org/resource/John_Cassavetes,http://dbpedia.org/resource/Katherine_Cassavetes
+2,9,C. Simmons,http://dbpedia.org/resource/Jean_Simmons,http://dbpedia.org/resource/Charles_Simmons_(gymnast)
+2,11,S. Lupino,http://dbpedia.org/resource/Ida_Lupino,http://dbpedia.org/resource/Stanley_Lupino
+2,13,R. Millais,http://dbpedia.org/resource/John_Everett_Millais,http://dbpedia.org/resource/Raoul_Millais
+2,16,K. Douglas,http://dbpedia.org/resource/Dwayne_Johnson,http://dbpedia.org/resource/Kirk_Douglas http://dbpedia.org/resource/Kirk_Douglass http://dbpedia.org/resource/Issur_Danielovitch_Demsky http://dbpedia.org/resource/Issur_Danielovitch http://dbpedia.org/resource/Izzy_Demsky http://dbpedia.org/resource/Issur_Demsky
+2,19,M. Crosby,http://dbpedia.org/resource/Bing_Crosby,http://dbpedia.org/resource/Marshall_Crosby
+2,23,F. Rains,http://dbpedia.org/resource/Claude_Rains,http://dbpedia.org/resource/Fred_Rains http://dbpedia.org/resource/Frederick_William_Rains
+2,25,Married and maiden names,http://dbpedia.org/resource/Constance_Marie_Charpentier,http://dbpedia.org/resource/Maiden_name http://dbpedia.org/resource/Maiden_and_married_names http://dbpedia.org/resource/Japanese_married_and_maiden_names http://dbpedia.org/resource/Married_name http://dbpedia.org/resource/Married_Name http://dbpedia.org/resource/Married_and_maiden_names http://dbpedia.org/resource/Married_&_maiden_names http://dbpedia.org/resource/Maiden_&_married_names http://dbpedia.org/resource/Maiden_Name
+2,26,V. Sassoon,http://dbpedia.org/resource/Siegfried_Sassoon,http://dbpedia.org/resource/Vidal_sassoon http://dbpedia.org/resource/Sassooning http://dbpedia.org/resource/Sassooned http://dbpedia.org/resource/Vidal_sasson http://dbpedia.org/resource/Vidal_Sassoon:_The_Movie http://dbpedia.org/resource/Vidal_Sassoon http://dbpedia.org/resource/Vidal_Sasoon

@@ -1,0 +1,10 @@
+F1: 0.88889,Precision: 0.88889,Recall: 0.88889,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,Christ Church,http://dbpedia.org/resource/Christ_Church_Cathedral_(Montreal),"http://dbpedia.org/resource/Christ_Church_Riverdale http://dbpedia.org/resource/Christ_Church_(Bronx,_New_York) http://dbpedia.org/resource/Christ_Church_Complex"
+0,23,Charles Morschauser House,http://dbpedia.org/resource/Charles_and_Grace_Parker_House,http://dbpedia.org/resource/Charles_Morschauser_House
+0,32,Chapel Hill,"http://dbpedia.org/resource/Chapel_Hill_(Lexington,_Virginia)","http://dbpedia.org/resource/Chapel_Hill_(Berryville,_Virginia)"
+0,35,Central Presbyterian Church,"http://dbpedia.org/resource/Central_Presbyterian_Church_(Little_Rock,_Arkansas)","http://dbpedia.org/resource/Central_Presbyterian_Church_(Saint_Paul,_Minnesota) http://dbpedia.org/resource/Central_Presbyterian_Church_(St._Paul,_Minnesota)"
+0,36,Central Library,http://dbpedia.org/resource/Denver_Public_Library,"http://dbpedia.org/resource/Central_Library_(Portland,_Oregon) http://dbpedia.org/resource/Central_Building,_Public_Library_Multnomah_County http://dbpedia.org/resource/Multnomah_County_Central_Library http://dbpedia.org/resource/Portland_Central_Library http://dbpedia.org/resource/Central_Building,_Public_Library"
+0,37,Central Library,http://dbpedia.org/resource/Denver_Public_Library,"http://dbpedia.org/resource/Central_Library_(Brooklyn,_New_York) http://dbpedia.org/resource/Brooklyn_Central_Library http://dbpedia.org/resource/Central_Library_(Brooklyn_Public_Library)"
+0,39,Cedar Hill Cemetery,"http://dbpedia.org/resource/Cedar_Hill_Cemetery_(Hartford,_Connecticut)","http://dbpedia.org/resource/Cedar_Hill_Cemetery_(Suffolk,_Virginia)"
+0,42,Cathedral of the Immaculate Conception,"http://dbpedia.org/resource/Cathedral_of_the_Immaculate_Conception_(Albany,_New_York)","http://dbpedia.org/resource/Cathedral_of_the_Immaculate_Conception_(Camden,_New_Jersey) http://dbpedia.org/resource/Church_of_the_Immaculate_Conception_(Camden,_New_Jersey) http://dbpedia.org/resource/Cathedral_of_the_Immaculate_Conception_in_Camden"

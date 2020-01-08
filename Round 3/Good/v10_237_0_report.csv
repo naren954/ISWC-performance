@@ -1,0 +1,3 @@
+F1: 0.98039,Precision: 0.98039,Recall: 0.98039,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,12,B. Scott,http://dbpedia.org/resource/Billy_Scott_(racing_driver),http://dbpedia.org/resource/Bob_Scott_(racind_driver) http://dbpedia.org/resource/Bob_Scott_(auto_racer) http://dbpedia.org/resource/Bob_Scott_(racing_driver)

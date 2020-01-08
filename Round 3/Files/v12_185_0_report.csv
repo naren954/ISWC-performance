@@ -1,0 +1,8 @@
+"F1: 0.68421","Precision: 0.68421","Recall: 0.68421"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","1","World Premiere","http://dbpedia.org/resource/Union_Pacific_(film)","http://dbpedia.org/resource/World_Premiere_(film)"
+"0","6","Working Girls","http://dbpedia.org/resource/Working_Girl","http://dbpedia.org/resource/Working_Girls_(1986_film)"
+"0","7","Working Girls","http://dbpedia.org/resource/Working_Girl","http://dbpedia.org/resource/Working_Girls_(1931_film)"
+"0","10","Work","http://dbpedia.org/resource/Work_(Rihanna_song)","http://dbpedia.org/resource/Work_(film) http://dbpedia.org/resource/Work_(Charlie_Chaplin_film) http://dbpedia.org/resource/Work_(1915_film)"
+"0","13","Words and Music","http://dbpedia.org/resource/Words_and_Music_by_Saint_Etienne","http://dbpedia.org/resource/Words_and_Music_(1948_film)"
+"0","19","Wood Pigeon","http://dbpedia.org/resource/Red_Wood_Pigeon","http://dbpedia.org/resource/Wood_Pigeon_(1970_film)"

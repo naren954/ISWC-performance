@@ -1,0 +1,4 @@
+"F1: 0.90476","Precision: 0.90476","Recall: 0.90476"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","1","Susan Anderson","http://dbpedia.org/resource/Susan_Pitt","http://dbpedia.org/resource/Susan_Anderson"
+"1","24","Skylar Diggins","http://dbpedia.org/resource/Skylar_Diggins-Smith","http://dbpedia.org/resource/Skyler_Diggins http://dbpedia.org/resource/Skylar_Diggins"

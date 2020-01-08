@@ -1,0 +1,6 @@
+"F1: 0.95122","Precision: 0.95122","Recall: 0.95122"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","20","R. Rupert","nan","http://dbpedia.org/resource/Ryan_Rupert"
+"0","45","N. Jensen","http://dbpedia.org/resource/Nick_Jensen","http://dbpedia.org/resource/Nicklas_D._Jensen http://dbpedia.org/resource/Nicklas_Jensen_(ice_hockey) http://dbpedia.org/resource/Nicklas_Jensen"
+"0","60","M. Bäckman","http://dbpedia.org/resource/Christian_Bäckman","http://dbpedia.org/resource/Mattias_Backman http://dbpedia.org/resource/Mattias_Bäckman"
+"0","64","M. Samuelsson","http://dbpedia.org/resource/Mikael_Samuelsson","http://dbpedia.org/resource/Martin_Samuelsson"

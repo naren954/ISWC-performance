@@ -1,0 +1,4 @@
+"F1: 0.00000","Precision: 0.00000","Recall: 0.00000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","2","Fall out warning","http://dbpedia.org/resource/Fall_Out_Boy","http://dbpedia.org/resource/Radioactive_cloud http://dbpedia.org/resource/Nuclear_Fallout http://dbpedia.org/resource/Radioactive_fallout http://dbpedia.org/resource/Radioactive_dust http://dbpedia.org/resource/Fall_out http://dbpedia.org/resource/Nuclear_fallout http://dbpedia.org/resource/Nuclear_dust http://dbpedia.org/resource/Fallout http://dbpedia.org/resource/Radiological_fallout http://dbpedia.org/resource/Radioactive_Fallout"
+"0","4","All clear","http://dbpedia.org/resource/Blackout/All_Clear","http://dbpedia.org/resource/All_clear"

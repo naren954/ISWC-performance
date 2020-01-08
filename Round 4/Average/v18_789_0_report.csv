@@ -1,0 +1,6 @@
+F1: 0.63636,Precision: 0.63636,Recall: 0.63636,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,"John M. Gaver, Sr.",http://dbpedia.org/resource/John_M._Gaver_Sr.,"http://dbpedia.org/resource/John_M._Gaver,_Sr. http://dbpedia.org/resource/John_M._Gaver http://dbpedia.org/resource/John_Gaver"
+0,3,J. Day,http://dbpedia.org/resource/Jason_Day,http://dbpedia.org/resource/John_Day_(horseman)
+0,5,J. E. Ryan,http://dbpedia.org/resource/T._J._Ryan_(hurler),http://dbpedia.org/resource/James_E._Ryan
+0,11,H. Forrest,http://dbpedia.org/resource/John_Forrest,http://dbpedia.org/resource/Henry_Forrest_(racehorse_trainer)

@@ -1,0 +1,5 @@
+F1: 0.90625,Precision: 0.90625,Recall: 0.90625,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,13,B. Callaway,http://dbpedia.org/resource/Antonio_Callaway,http://dbpedia.org/resource/Betty_Daphne_Callaway http://dbpedia.org/resource/Betty_Callaway-Fittall http://dbpedia.org/resource/Betty_Daphne_Callaway-Fittall http://dbpedia.org/resource/Betty_Daphne_Roberts http://dbpedia.org/resource/Betty_Callaway
+2,23,A. Ushakova,http://dbpedia.org/resource/Arina_Ushakova_(pair_skater),http://dbpedia.org/resource/Arina_Ushakowa http://dbpedia.org/resource/Arina_Ushakova
+2,27,P. MacIntosh,http://dbpedia.org/resource/Brooke_McIntosh,http://dbpedia.org/resource/Paul_Mcintosh http://dbpedia.org/resource/Paul_McIntosh http://dbpedia.org/resource/Paul_MacIntosh

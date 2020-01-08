@@ -1,0 +1,4 @@
+"F1: 0.85714","Precision: 0.85714","Recall: 0.85714"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","3","Vogue","http://dbpedia.org/resource/Vogue_(magazine)","http://dbpedia.org/resource/Vogue_UK http://dbpedia.org/resource/Vogue.co.uk http://dbpedia.org/resource/Vogue_(British_magazine) http://dbpedia.org/resource/Vogue_U.K. http://dbpedia.org/resource/British_Vogue"
+"0","14","Shonen Jump","http://dbpedia.org/resource/Weekly_Shōnen_Jump","http://dbpedia.org/resource/Shōnen_Jump_(magazine) http://dbpedia.org/resource/Shonen_Jump_(magazine) http://dbpedia.org/resource/Shonen_Jump_(United_States) http://dbpedia.org/resource/SHONEN_JUMP http://dbpedia.org/resource/Shonen_Jump_(Canada) http://dbpedia.org/resource/Shonen_Jump_USA http://dbpedia.org/resource/Shonen_Jump_Advanced"

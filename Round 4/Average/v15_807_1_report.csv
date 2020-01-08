@@ -1,0 +1,5 @@
+F1: 0.62500,Precision: 0.62500,Recall: 0.62500,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,2,P. a. Smith,"http://dbpedia.org/resource/Robert_Baden-Powell,_1st_Baron_Baden-Powell",http://dbpedia.org/resource/Francis_Palmer_Smith http://dbpedia.org/resource/Pringle_and_Smith http://dbpedia.org/resource/Pringle_&_Smith
+1,4,T. &. Livingston,http://dbpedia.org/resource/Ted_Livingston,"http://dbpedia.org/resource/Samuel_Beck_Parkman_Trowbridge http://dbpedia.org/resource/Trowbridge,_Colt_&_Livingston http://dbpedia.org/resource/Samuel_Trowbridge http://dbpedia.org/resource/Trowbridge_&_Livingston http://dbpedia.org/resource/Trowbridge_and_Livingston http://dbpedia.org/resource/Goodhue_Livingston"
+1,7,H. G. Architects,http://dbpedia.org/resource/B+H_Architects,"http://dbpedia.org/resource/HKS_Architects http://dbpedia.org/resource/HKS_Inc http://dbpedia.org/resource/HKS,_Inc. http://dbpedia.org/resource/Hill_Glazier_Architects http://dbpedia.org/resource/HKS_Arquitectos"

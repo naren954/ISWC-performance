@@ -1,0 +1,6 @@
+"F1: 0.66667","Precision: 0.66667","Recall: 0.66667"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","3","William Kennedy","http://dbpedia.org/resource/William_Cavendish,_Marquess_of_Hartington","http://dbpedia.org/resource/William_Kennedy_(politician) http://dbpedia.org/resource/William_Kennedy_(North_Carolina)"
+"1","8","Richard Stanford","http://dbpedia.org/resource/Richard_Stanford_(American_politician)","http://dbpedia.org/resource/Richard_Stanford_(politician)"
+"1","9","James Cochran","http://dbpedia.org/resource/James_Cochran_(New_York_politician)","http://dbpedia.org/resource/James_Cochran_(North_Carolina)"
+"1","10","Joseph Pearson","http://dbpedia.org/resource/Joseph_Pearson_(politician)","http://dbpedia.org/resource/Joseph_Pearson"

@@ -1,0 +1,21 @@
+F1: 0.64815,Precision: 0.64815,Recall: 0.64815,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,E. Hughes,http://dbpedia.org/resource/Edwin_Hughes_(footballer),http://dbpedia.org/resource/Eugene_Hughes_(snooker_player)
+0,5,E. Charlton,http://dbpedia.org/resource/Eddie_Charlton_(squash_player),http://dbpedia.org/resource/Edward_Francis_Charlton http://dbpedia.org/resource/Eddie_Charlton
+0,6,D. Jones,http://dbpedia.org/resource/Dwight_Jones_(basketball),http://dbpedia.org/resource/Duane_Jones_(snooker_player)
+0,7,D. Henry,http://dbpedia.org/resource/Derrick_Henry,http://dbpedia.org/resource/Drew_Henry
+0,8,D. Hughes,http://dbpedia.org/resource/Dick_Hughes_(footballer),http://dbpedia.org/resource/Declan_Hughes http://dbpedia.org/resource/Declan_Hughes_(snooker_player)
+0,10,D. Morris,http://dbpedia.org/resource/Derek_Morris_(ice_hockey),http://dbpedia.org/resource/David_Morris_(snooker) http://dbpedia.org/resource/David_Morris_(snooker_player)
+0,11,D. John,http://dbpedia.org/resource/Declan_John,http://dbpedia.org/resource/David_John_(snooker_player)
+0,16,D. Morgan,http://dbpedia.org/resource/Daniel_Morgan_(cricketer),http://dbpedia.org/resource/Darren_Morgan
+0,17,D. Fowler,http://dbpedia.org/resource/Dante_Fowler_Jr.,http://dbpedia.org/resource/Danny_Fowler
+0,21,C. Wilson,http://dbpedia.org/resource/Claude_Wilson,http://dbpedia.org/resource/Cliff_Wilson
+0,25,C. Melling,http://dbpedia.org/resource/Chris_Melling,http://dbpedia.org/resource/Chris_Melling_(snooker_player) http://dbpedia.org/resource/Chris_Melling_(pool_player)
+0,38,A. Lee,"http://dbpedia.org/resource/Andy_Lee_(footballer,_born_1982)",http://dbpedia.org/resource/Andy_Lee_(snooker_player)
+0,39,A. Hicks,http://dbpedia.org/resource/Aaron_Hicks,http://dbpedia.org/resource/The_Toast_of_Tavistock http://dbpedia.org/resource/The_Cream_of_Devon http://dbpedia.org/resource/Andy_Hicks
+0,43,A. Fisher,http://dbpedia.org/resource/Ashley_Fisher,http://dbpedia.org/resource/Allison_Fisher http://dbpedia.org/resource/The_Duchess_of_Doom
+0,44,A. Taylor,http://dbpedia.org/resource/Angelo_Taylor,http://dbpedia.org/resource/Allan_Taylor_(snooker_player)
+0,47,A. Davies,http://dbpedia.org/resource/Anne_Davies_(figure_skater),http://dbpedia.org/resource/Alex_Davies_(snooker_player)
+0,48,A. Borg,http://dbpedia.org/resource/Arne_Borg,http://dbpedia.org/resource/Alex_Borg
+0,52,A. Mehta,http://dbpedia.org/resource/Amar_Mehta,http://dbpedia.org/resource/Aditya_Snehal_Mehta http://dbpedia.org/resource/Aditya_Mehta
+0,54,A. Duffy,http://dbpedia.org/resource/Alan_Duffy_(footballer),http://dbpedia.org/resource/Adam_Duffy

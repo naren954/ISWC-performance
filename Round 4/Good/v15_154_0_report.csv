@@ -1,0 +1,4 @@
+F1: 0.92308,Precision: 0.92308,Recall: 0.92308,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,16,L. Jones,http://dbpedia.org/resource/Courtney_Jones_(figure_skater),http://dbpedia.org/resource/Lloyd_Jones_(figure_skater)
+0,22,J. Yang,http://dbpedia.org/resource/Lee_Yang,http://dbpedia.org/resource/Jin_Yang

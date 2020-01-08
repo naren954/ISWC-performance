@@ -1,0 +1,4 @@
+F1: 0.92308,Precision: 0.92308,Recall: 0.92308,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,25,Britannia Range,http://dbpedia.org/resource/Britannia_Range_(Antarctica),http://dbpedia.org/resource/Britannia_Range_(Canada)
+1,26,Dorset Downs,http://dbpedia.org/resource/Dorset,http://dbpedia.org/resource/Dorset_Downs http://dbpedia.org/resource/South_Dorset_Downs

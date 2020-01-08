@@ -1,0 +1,4 @@
+"F1: 0.71429","Precision: 0.71429","Recall: 0.71429"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","1","Joanna of Austria","http://dbpedia.org/resource/Marie_Antoinette","http://dbpedia.org/resource/Johanna_of_Austria,_Grand_Duchess_of_Tuscany http://dbpedia.org/resource/Joanna_of_Austria,_Grand_Duchess_of_Tuscany http://dbpedia.org/resource/Archduchess_Joanna_of_Austria_(1547–1578) http://dbpedia.org/resource/Archduchess_Joanna_of_Austria_(1547-1578)"
+"1","4","Maria Magdalena of Austria","http://dbpedia.org/resource/Archduchess_Maria_Maddalena_of_Austria","http://dbpedia.org/resource/Archduchess_Maria_Magdalena_of_Austria_(1589–1631)"

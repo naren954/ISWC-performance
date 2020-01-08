@@ -1,0 +1,6 @@
+F1: 0.75000,Precision: 0.75000,Recall: 0.75000,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,3,NeuquÃ©n,http://dbpedia.org/resource/Neuquén_Province,http://dbpedia.org/resource/Neuquén
+3,7,Winchester,"http://dbpedia.org/resource/Winchester,_Virginia","http://dbpedia.org/resource/Stanmore_Primary_School http://dbpedia.org/resource/Winchester_District_Council http://dbpedia.org/resource/Winchester,_England http://dbpedia.org/resource/City_of_winchester http://dbpedia.org/resource/WINCHESTER http://dbpedia.org/resource/Vénta_Belgā́rum http://dbpedia.org/resource/Winchester_district http://dbpedia.org/resource/Winchester,_Hampshire http://dbpedia.org/resource/Wintoncester http://dbpedia.org/resource/Winchester,_UK http://dbpedia.org/resource/Winchester http://dbpedia.org/resource/Brockwood_Park http://dbpedia.org/resource/History_of_Winchester http://dbpedia.org/resource/Brockwood"
+3,12,Ä¶egums,http://dbpedia.org/resource/Ķegums_Municipality,http://dbpedia.org/resource/Ķegums
+3,17,LeÃ³n,"http://dbpedia.org/resource/León,_Spain","http://dbpedia.org/resource/León,_Guanajuato"

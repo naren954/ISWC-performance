@@ -1,0 +1,5 @@
+F1: 0.97143,Precision: 0.97143,Recall: 0.97143,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,15,Yellowhammer,http://dbpedia.org/resource/Northern_flicker,http://dbpedia.org/resource/Emberiza_citrinella http://dbpedia.org/resource/Yellowhammer http://dbpedia.org/resource/Yorlin http://dbpedia.org/resource/Yeldring
+0,65,Yellow bunting,http://dbpedia.org/resource/Ortolan_bunting,http://dbpedia.org/resource/Japanese_yellow_bunting http://dbpedia.org/resource/Siebold's_bunting http://dbpedia.org/resource/Yellow_Bunting http://dbpedia.org/resource/Yellow_bunting http://dbpedia.org/resource/Siebold's_Bunting http://dbpedia.org/resource/Japanese_Yellow_Bunting http://dbpedia.org/resource/Emberiza_sulphurata
+0,103,Yellow-throated petronia,http://dbpedia.org/resource/Yellow-throated_sparrow,http://dbpedia.org/resource/Gymnoris_superciliaris http://dbpedia.org/resource/Yellow-throated_petronia http://dbpedia.org/resource/Yellow-throated_Bush-sparrow http://dbpedia.org/resource/Petronia_superciliaris http://dbpedia.org/resource/Yellow-throated_Petronia

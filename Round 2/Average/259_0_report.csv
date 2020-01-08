@@ -1,0 +1,7 @@
+F1: 0.72222,Precision: 0.72222,Recall: 0.72222,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,7,A Game of Pool,"http://dbpedia.org/resource/A_Game_of_Pool_(The_Twilight_Zone,_1959)",http://dbpedia.org/resource/A_Game_of_Pool_(1961)
+0,11,A Change Is Gonna Come,,http://dbpedia.org/resource/A_Change_Is_Gonna_Come_(Grey's_Anatomy)
+0,13,2009,http://dbpedia.org/resource/Eurovision_Song_Contest_2009,http://dbpedia.org/resource/2009_(Glee)
+0,16,100,http://dbpedia.org/resource/The_100_(TV_series),http://dbpedia.org/resource/Biff_McIntosh http://dbpedia.org/resource/100_(Glee)
+0,18,...In Translation,http://dbpedia.org/resource/Bible_translations,http://dbpedia.org/resource/In_Translation_(Lost_episode) http://dbpedia.org/resource/In_Translation http://dbpedia.org/resource/Lost_s01e17 http://dbpedia.org/resource/...In_Translation_(Lost_episode) http://dbpedia.org/resource/…In_Translation http://dbpedia.org/resource/In_Translation_(Lost) http://dbpedia.org/resource/...In_Translation http://dbpedia.org/resource/...In_Translation_(Lost)

@@ -1,0 +1,5 @@
+"F1: 0.82353","Precision: 0.82353","Recall: 0.82353"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","8","A League of Their Own","http://dbpedia.org/resource/A_League_of_Their_Own_(TV_series)","http://dbpedia.org/resource/A_League_of_Their_Own_(UK_game_show)"
+"0","9","A League of Their Own","http://dbpedia.org/resource/A_League_of_Their_Own_(TV_series)","http://dbpedia.org/resource/A_League_of_Their_Own_(Australian_game_show)"
+"0","11","8 Out of 10 Cats Does Countdown","http://dbpedia.org/resource/8_Out_of_10_Cats","http://dbpedia.org/resource/8_Out_of_10_Cats_Does_Countdown http://dbpedia.org/resource/8_Out_of_10_Cats_Do_Countdown http://dbpedia.org/resource/Cats_Does_Countdown"

@@ -1,0 +1,8 @@
+"F1: 0.75000","Precision: 0.75000","Recall: 0.75000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","1","Z. Yue","http://dbpedia.org/resource/Lin_Yue","http://dbpedia.org/resource/Zhao_Yue"
+"1","5","Z. Hao","http://dbpedia.org/resource/Wang_Hao_(chess_player)","http://dbpedia.org/resource/Zhang_Hao_(figure_skater)"
+"1","8","D. Baldwin","http://dbpedia.org/resource/John_Baldwin_(figure_skater)","http://dbpedia.org/resource/Don_Baldwin"
+"1","16","L. Jones","http://dbpedia.org/resource/Courtney_Jones_(figure_skater)","http://dbpedia.org/resource/Lloyd_Jones_(figure_skater)"
+"1","21","A. Díaz","http://dbpedia.org/resource/Adrián_Díaz","http://dbpedia.org/resource/Adria_Diaz http://dbpedia.org/resource/Adrià_Díaz http://dbpedia.org/resource/Adriá_Diaz"
+"1","24","A. Hill","http://dbpedia.org/resource/Achim_Hill","http://dbpedia.org/resource/Asher_Hill"

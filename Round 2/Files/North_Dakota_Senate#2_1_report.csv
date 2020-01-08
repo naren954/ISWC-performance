@@ -1,0 +1,7 @@
+"F1: 0.86111","Precision: 0.86111","Recall: 0.86111"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","4","John Warner","http://dbpedia.org/resource/John_Warner","http://dbpedia.org/resource/John_Warner_(North_Dakota_politician)"
+"1","6","David O'Connell","http://dbpedia.org/resource/David_O'Connell_(politician)","http://dbpedia.org/resource/David_O'Connell_(North_Dakota)"
+"1","8","Howard Anderson Jr.","http://dbpedia.org/resource/John_Anderson_Jr.","http://dbpedia.org/resource/Howard_C._Anderson,_Jr. http://dbpedia.org/resource/Howard_C._Anderson_Jr."
+"1","39","Bill Bowman","http://dbpedia.org/resource/Bill_Bowman_(Scottish_politician)","http://dbpedia.org/resource/Bill_Bowman_(politician)"
+"1","46","George B. Sinner","http://dbpedia.org/resource/George_A._Sinner","http://dbpedia.org/resource/George_B._Sinner"

@@ -1,0 +1,13 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,Toronto,http://dbpedia.org/resource/Toronto,http://dbpedia.org/resource/2000–01_Toronto_Raptors_season
+1,2,Toronto,http://dbpedia.org/resource/Toronto,http://dbpedia.org/resource/2001–02_Toronto_Raptors_season
+1,3,Toronto,http://dbpedia.org/resource/Toronto,http://dbpedia.org/resource/2002–03_Toronto_Raptors_season
+1,4,Toronto,http://dbpedia.org/resource/Toronto,http://dbpedia.org/resource/2003–04_Toronto_Raptors_season
+1,5,Toronto,http://dbpedia.org/resource/Toronto,http://dbpedia.org/resource/2004–05_Toronto_Raptors_season
+1,6,Toronto,http://dbpedia.org/resource/Toronto,http://dbpedia.org/resource/2005–06_Toronto_Raptors_season
+1,7,Toronto,http://dbpedia.org/resource/Toronto,http://dbpedia.org/resource/2006–07_Toronto_Raptors_season
+1,8,New Orleans,http://dbpedia.org/resource/NCIS:_New_Orleans,http://dbpedia.org/resource/2007–08_New_Orleans_Hornets_season
+1,9,New Orleans,http://dbpedia.org/resource/NCIS:_New_Orleans,http://dbpedia.org/resource/2008–09_New_Orleans_Hornets_season
+1,10,New Orleans,http://dbpedia.org/resource/NCIS:_New_Orleans,http://dbpedia.org/resource/2009–10_New_Orleans_Hornets_season
+1,11,Oklahoma City,http://dbpedia.org/resource/Oklahoma,http://dbpedia.org/resource/2010–11_Oklahoma_City_Thunder_season

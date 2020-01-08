@@ -1,0 +1,4 @@
+"F1: 0.92000","Precision: 0.92000","Recall: 0.92000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","7","Ken Nelson","http://dbpedia.org/resource/Ken_Nelson_(British_record_producer)","http://dbpedia.org/resource/Ken_Nelson_(United_States_record_producer) http://dbpedia.org/resource/Kenneth_F._Nelson"
+"1","9","Jagger/Richards","http://dbpedia.org/resource/Keith_Richards","http://dbpedia.org/resource/Jagger/Richards http://dbpedia.org/resource/The_Glimmer_Twins http://dbpedia.org/resource/Glimmer_Twins http://dbpedia.org/resource/Mick_Jagger/Keith_Richards http://dbpedia.org/resource/Richards/Jagger"

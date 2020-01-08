@@ -1,0 +1,6 @@
+F1: 0.88889,Precision: 0.88889,Recall: 0.88889,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,14,Montalcino,,http://dbpedia.org/resource/Montalcino
+1,15,Montepulciano,http://dbpedia.org/resource/Francesco_Morosini,http://dbpedia.org/resource/Mons_Politianus http://dbpedia.org/resource/Montepulciano
+1,29,San Giovanni d'Asso,http://dbpedia.org/resource/San_Giovanni_d’Asso,http://dbpedia.org/resource/San_Giovanni_d'Asso
+1,32,Siena,http://dbpedia.org/resource/Catherine_of_Siena,"http://dbpedia.org/resource/Historic_Centre_of_Siena http://dbpedia.org/resource/Siena http://dbpedia.org/resource/Siena_(Italy) http://dbpedia.org/resource/Siena,_Italy http://dbpedia.org/resource/Saena http://dbpedia.org/resource/Sienese"

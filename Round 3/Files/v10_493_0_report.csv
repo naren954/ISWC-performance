@@ -1,0 +1,4 @@
+"F1: 0.97895","Precision: 0.97895","Recall: 0.97895"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","38","White-faced ibis","http://dbpedia.org/resource/American_white_ibis","http://dbpedia.org/resource/White-faced_ibis http://dbpedia.org/resource/Plegadis_chihi http://dbpedia.org/resource/Plegadis_falcinellus_chihi http://dbpedia.org/resource/White-faced_Ibis"
+"0","65","White-eared parakeet","http://dbpedia.org/resource/White-eyed_parakeet","http://dbpedia.org/resource/Pyrrhura_leucotis http://dbpedia.org/resource/White-eared_parakeet http://dbpedia.org/resource/White-eared_Parakeet http://dbpedia.org/resource/Maroon-faced_parakeet http://dbpedia.org/resource/Maroon-faced_Parakeet"

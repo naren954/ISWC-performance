@@ -1,0 +1,4 @@
+"F1: 0.00000","Precision: 0.00000","Recall: 0.00000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","1","Sevojno","http://dbpedia.org/resource/Sevojno","http://dbpedia.org/resource/FK_Sevojno_Uzice http://dbpedia.org/resource/FK_Sevojno_Užice http://dbpedia.org/resource/FK_Sevojno"
+"0","2","Ä\u008CSK Pivara","http://dbpedia.org/resource/FK_ČSK_Čelarevo","http://dbpedia.org/resource/FK_ČSK_Pivara"

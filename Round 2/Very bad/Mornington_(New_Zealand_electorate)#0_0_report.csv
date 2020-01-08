@@ -1,0 +1,8 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,1946 election,http://dbpedia.org/resource/1946_in_sports,"http://dbpedia.org/resource/New_Zealand_general_election,_1946 http://dbpedia.org/resource/New_Zealand_general_election_1946"
+0,2,1949 election,http://dbpedia.org/resource/1949_in_literature,"http://dbpedia.org/resource/New_Zealand_general_election,_1949 http://dbpedia.org/resource/New_Zealand_general_election_1949"
+0,3,1951 election,http://dbpedia.org/resource/1951_in_music,"http://dbpedia.org/resource/New_Zealand_general_election,_1951 http://dbpedia.org/resource/New_Zealand_general_election_1951"
+0,4,1954 election,http://dbpedia.org/resource/1954_in_film,"http://dbpedia.org/resource/New_Zealand_general_election,_1954 http://dbpedia.org/resource/New_Zealand_general_election_1954"
+0,5,1957 election,http://dbpedia.org/resource/1957_in_television,"http://dbpedia.org/resource/New_Zealand_general_election_1957 http://dbpedia.org/resource/New_Zealand_general_election,_1957"
+0,6,1960 election,http://dbpedia.org/resource/1960_elections_in_India,"http://dbpedia.org/resource/New_Zealand_general_election,_1960 http://dbpedia.org/resource/New_Zealand_general_election_1960"

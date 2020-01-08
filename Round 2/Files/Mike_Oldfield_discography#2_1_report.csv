@@ -1,0 +1,5 @@
+"F1: 0.72727","Precision: 0.72727","Recall: 0.72727"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","2","The Space Movie","http://dbpedia.org/resource/Sharing_Space","http://dbpedia.org/resource/The_Space_Movie http://dbpedia.org/resource/Space_Movie"
+"1","3","Exposed","http://dbpedia.org/resource/Exposed_(Mike_Oldfield_album)","http://dbpedia.org/resource/Exposed_(video) http://dbpedia.org/resource/Exposed_(Mike_Oldfield_video)"
+"1","6","The Killing Fields","http://dbpedia.org/resource/The_Killing_Fields_(soundtrack)","http://dbpedia.org/resource/The_Killing_Fields_(movie) http://dbpedia.org/resource/The_Killing_Fields_(film)"

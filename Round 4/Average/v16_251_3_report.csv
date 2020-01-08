@@ -1,0 +1,11 @@
+F1: 0.52632,Precision: 0.52632,Recall: 0.52632,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,1,M. Anderson,http://dbpedia.org/resource/Broncho_Billy_Anderson,http://dbpedia.org/resource/Michael_Joseph_Anderson http://dbpedia.org/resource/Michael_Anderson_(director) http://dbpedia.org/resource/Michael_Anderson_(film_director)
+3,2,R. Thorpe,http://dbpedia.org/resource/Jeremy_Thorpe,http://dbpedia.org/resource/Richard_Thorpe http://dbpedia.org/resource/Rollo_Thorpe http://dbpedia.org/resource/Rollo_Smolt_Thorpe
+3,4,D. Pearce,http://dbpedia.org/resource/Darryl_Pearce,http://dbpedia.org/resource/Drew_Pearce
+3,10,A. Chamberlain,http://dbpedia.org/resource/Neville_Chamberlain,http://dbpedia.org/resource/Ardwight_Chamberlain
+3,11,S. Franklin,http://dbpedia.org/resource/Franklin_D._Roosevelt,http://dbpedia.org/resource/Sidney_Franklin_(director)
+3,12,R. Clements,http://dbpedia.org/resource/Rita_Crocker_Clements,http://dbpedia.org/resource/Ron_Clements
+3,16,J. Jameson,http://dbpedia.org/resource/Joyce_Jameson,http://dbpedia.org/resource/Jerry_Jameson
+3,17,C. M. Smith,http://dbpedia.org/resource/Margaret_Chase_Smith,http://dbpedia.org/resource/Charles_Martin_Smith
+3,19,E. Mortimer,"http://dbpedia.org/resource/Roger_Mortimer,_4th_Earl_of_March",http://dbpedia.org/resource/Edmund_Mortimer_(actor) http://dbpedia.org/resource/Eddie_Mortimer http://dbpedia.org/resource/Edward_Mortimer_(actor) http://dbpedia.org/resource/Edward_J._Mortimer http://dbpedia.org/resource/Edwin_Mortimer http://dbpedia.org/resource/Ed_Mortimer

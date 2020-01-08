@@ -1,0 +1,34 @@
+F1: 0.36000,Precision: 0.36000,Recall: 0.36000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,C. Wood,http://dbpedia.org/resource/Carl_Wood,http://dbpedia.org/resource/Charles_Wood_(playwright)
+1,2,C. Wood,http://dbpedia.org/resource/Carl_Wood,http://dbpedia.org/resource/Charles_Wood_(playwright)
+1,3,C. Wood,http://dbpedia.org/resource/Carl_Wood,http://dbpedia.org/resource/Charles_Wood_(playwright)
+1,6,C. Wood,http://dbpedia.org/resource/Carl_Wood,http://dbpedia.org/resource/Charles_Wood_(playwright)
+1,7,R. Lewis,http://dbpedia.org/resource/Ryan_Lewis,"http://dbpedia.org/resource/Lewis,_Russell http://dbpedia.org/resource/Russell_Lewis"
+1,8,A. N. Khan,http://dbpedia.org/resource/Liaquat_Ali_Khan,http://dbpedia.org/resource/Amna_Nawaz_Khan
+1,9,R. Huggins,http://dbpedia.org/resource/William_Huggins,http://dbpedia.org/resource/Roy_Huggins
+1,10,Y. Kobayashi,http://de.dbpedia.org/resource/Yuka_Kobayashi,http://dbpedia.org/resource/小林靖子 http://dbpedia.org/resource/Yasuko_Kobayashi
+1,11,S. Nazir,http://dbpedia.org/resource/Prem_Nazir,http://dbpedia.org/resource/Sarwat_Nazir
+1,12,G. Leopold,http://dbpedia.org/resource/Carl_Gustaf_af_Leopold,http://dbpedia.org/resource/Glenn_Leopold
+1,13,D. Langdale,http://dbpedia.org/resource/Charles_Langdale,http://dbpedia.org/resource/Doug_Langdale
+1,14,Y. Moore,http://dbpedia.org/resource/Dudley_Moore,http://dbpedia.org/resource/Yan_Moore
+1,15,R. Muller,http://dbpedia.org/resource/Richard_Müller_(singer),"http://dbpedia.org/resource/Romeo_Muller http://dbpedia.org/resource/Romeo_Muller,_Jr. http://dbpedia.org/resource/Romeo_muller"
+1,16,D. Berendsen,http://dbpedia.org/resource/Carl_Berendsen,http://dbpedia.org/resource/Dan_Berendsen http://dbpedia.org/resource/Daniel_Berendsen
+1,17,R. Muller,http://dbpedia.org/resource/Richard_Müller_(singer),"http://dbpedia.org/resource/Romeo_Muller http://dbpedia.org/resource/Romeo_Muller,_Jr. http://dbpedia.org/resource/Romeo_muller"
+1,21,W. Butler,http://dbpedia.org/resource/Win_Butler,http://dbpedia.org/resource/William_Butler_(director) http://dbpedia.org/resource/William_Butler_(actor) http://dbpedia.org/resource/William_Butler_(Actor)
+1,22,S. Aikawa,http://dbpedia.org/resource/Sōichi_Aikawa,http://dbpedia.org/resource/Shō_Aikawa_(screenwriter) http://dbpedia.org/resource/Shō_Aikawa_(scriptwriter) http://dbpedia.org/resource/Sho_Aikawa_(screenwriter)
+1,23,E. Schwartz,http://dbpedia.org/resource/Stephen_Schwartz_(composer),http://dbpedia.org/resource/Elroy_Schwartz
+1,25,J. West,http://dbpedia.org/resource/Jessamyn_West_(writer),http://dbpedia.org/resource/Jake_West
+1,28,A. Curtis,http://dbpedia.org/resource/Charles_Curtis,http://dbpedia.org/resource/Adam_Curtis_(filmmaker) http://dbpedia.org/resource/Adam_Curtis http://dbpedia.org/resource/Kevin_Adam_Curtis
+1,31,A. Ormsby,http://dbpedia.org/resource/Timm_Ormsby,http://dbpedia.org/resource/Alan_Ormsby
+1,32,R. Muller,http://dbpedia.org/resource/Richard_Müller_(singer),"http://dbpedia.org/resource/Romeo_Muller http://dbpedia.org/resource/Romeo_Muller,_Jr. http://dbpedia.org/resource/Romeo_muller"
+1,33,Thirumurugan,http://dbpedia.org/resource/Thirumurugan_Veeran,http://dbpedia.org/resource/Thirumurugan
+1,36,C. P. Jr.,http://dbpedia.org/resource/Cayetano_Paderanga_Jr.,"http://dbpedia.org/resource/Charles_Pratt,_Jr. http://dbpedia.org/resource/Charles_Pratt_Jr."
+1,40,L. Abud,http://dbpedia.org/resource/Juan_José_Guerra_Abud,"http://dbpedia.org/resource/Abud,_Liliana http://dbpedia.org/resource/Liliana_Abud"
+1,41,S. Mittal,http://dbpedia.org/resource/Mitt_Romney,http://dbpedia.org/resource/Shashi_Mittal
+1,44,A. Bukhari,,http://dbpedia.org/resource/Aliya_Bukhari
+1,45,Kajari,,http://dbpedia.org/resource/Kajari
+1,46,L. Theroux,http://dbpedia.org/resource/Paul_Theroux,http://dbpedia.org/resource/Louis_Theroux http://dbpedia.org/resource/Louis_therouz http://dbpedia.org/resource/Louis_Theorux http://dbpedia.org/resource/By_reason_of_insanity http://dbpedia.org/resource/Lois_Theroux http://dbpedia.org/resource/Lois_Théroux
+1,47,L. Theroux,http://dbpedia.org/resource/Paul_Theroux,http://dbpedia.org/resource/Louis_Theroux http://dbpedia.org/resource/Louis_therouz http://dbpedia.org/resource/Louis_Theorux http://dbpedia.org/resource/By_reason_of_insanity http://dbpedia.org/resource/Lois_Theroux http://dbpedia.org/resource/Lois_Théroux
+1,49,L. Theroux,http://dbpedia.org/resource/Paul_Theroux,http://dbpedia.org/resource/Louis_Theroux http://dbpedia.org/resource/Louis_therouz http://dbpedia.org/resource/Louis_Theorux http://dbpedia.org/resource/By_reason_of_insanity http://dbpedia.org/resource/Lois_Theroux http://dbpedia.org/resource/Lois_Théroux
+1,50,L. Theroux,http://dbpedia.org/resource/Paul_Theroux,http://dbpedia.org/resource/Louis_Theroux http://dbpedia.org/resource/Louis_therouz http://dbpedia.org/resource/Louis_Theorux http://dbpedia.org/resource/By_reason_of_insanity http://dbpedia.org/resource/Lois_Theroux http://dbpedia.org/resource/Lois_Théroux

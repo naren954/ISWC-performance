@@ -1,0 +1,6 @@
+F1: 0.94595,Precision: 0.94595,Recall: 0.94595,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,14,Roberto,http://dbpedia.org/resource/Roberto_Marinho,http://dbpedia.org/resource/Roberto_(horse)
+1,26,Nureyev,http://dbpedia.org/resource/Nureyev_(horse),http://dbpedia.org/resource/Nuriyeva http://dbpedia.org/resource/Nureyeva http://dbpedia.org/resource/Nureyev http://dbpedia.org/resource/Nureev http://dbpedia.org/resource/Nureeva http://dbpedia.org/resource/Nurieva http://dbpedia.org/resource/Nuriyev
+1,45,Pharamond II,http://dbpedia.org/resource/Pharamond_(horse),http://dbpedia.org/resource/Pharamond_II
+1,64,Sadler's Wells,http://dbpedia.org/resource/Sadler's_Wells_(horse),http://dbpedia.org/resource/Sadler's_Wells_Theatre http://dbpedia.org/resource/Sadlers_Wells http://dbpedia.org/resource/Sadler’s_Wells http://dbpedia.org/resource/New_Sadler's_Wells_Opera http://dbpedia.org/resource/Sadler's_Wells http://dbpedia.org/resource/New_Sadler's_Wells_Opera_Company http://dbpedia.org/resource/Sadler's-Wells http://dbpedia.org/resource/Lilian_Baylis_Theatre http://dbpedia.org/resource/Sadler’s_Wells_Theatre

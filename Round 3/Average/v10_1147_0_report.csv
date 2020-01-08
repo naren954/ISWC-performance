@@ -1,0 +1,25 @@
+F1: 0.59649,Precision: 0.59649,Recall: 0.59649,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,X,http://dbpedia.org/resource/X_(Kylie_Minogue_album),http://dbpedia.org/resource/X_(Royal_Hunt_album)
+0,2,X,http://dbpedia.org/resource/X_(Kylie_Minogue_album),http://dbpedia.org/resource/X_(Lucki_album) http://dbpedia.org/resource/X_(Lucki_mixtape)
+0,3,X,http://dbpedia.org/resource/X_(Kylie_Minogue_album),http://dbpedia.org/resource/X_(Liberty_X_single) http://dbpedia.org/resource/X_(Liberty_X_song)
+0,4,X,http://dbpedia.org/resource/X_(Kylie_Minogue_album),http://dbpedia.org/resource/X_Re-Released http://dbpedia.org/resource/X_(Liberty_X_album)
+0,6,X,http://dbpedia.org/resource/X_(Kylie_Minogue_album),http://dbpedia.org/resource/X_(Kristeen_Young_album)
+0,7,X,http://dbpedia.org/resource/X_(Kylie_Minogue_album),http://dbpedia.org/resource/X_(Klaus_Schulze_album) http://dbpedia.org/resource/X_(Ten)
+0,8,X,http://dbpedia.org/resource/X_(Kylie_Minogue_album),http://dbpedia.org/resource/X-K-Ci_&_JoJo http://dbpedia.org/resource/X_(K-Ci_&_JoJo_album) http://dbpedia.org/resource/X_(K-Ci_and_JoJo_album)
+0,9,X,http://dbpedia.org/resource/X_(Kylie_Minogue_album),http://dbpedia.org/resource/X_(INXS_album)
+0,10,X,http://dbpedia.org/resource/X_(Kylie_Minogue_album),http://dbpedia.org/resource/X_(GNAGS_album) http://dbpedia.org/resource/X_(Gnags_album)
+0,11,X,http://dbpedia.org/resource/X_(Kylie_Minogue_album),http://dbpedia.org/resource/X_(Def_Leppard_album)
+0,12,X,http://dbpedia.org/resource/X_(Kylie_Minogue_album),http://dbpedia.org/resource/Don't_Be_Gone_Too_Long http://dbpedia.org/resource/X_(Chris_Brown_album) http://dbpedia.org/resource/Autumn_Leaves_(Chris_Brown_song)
+0,17,XX,http://dbpedia.org/resource/XX_(Mushroomhead_album),http://dbpedia.org/resource/XX_(Great_Big_Sea_compilation) http://dbpedia.org/resource/XX_(Great_Big_Sea_album)
+0,20,XXX,http://dbpedia.org/resource/XXX_(ZZ_Top_album),http://dbpedia.org/resource/XXX_(Danny_Brown_album)
+0,21,XXX,http://dbpedia.org/resource/XXX_(ZZ_Top_album),http://dbpedia.org/resource/XXX_(Asia_album)
+0,26,XXV,http://dbpedia.org/resource/XXV_(Oomph!_album),http://dbpedia.org/resource/XXV_(Vader_album)
+0,29,XXL,http://dbpedia.org/resource/XXL_(Mylène_Farmer_song),http://dbpedia.org/resource/XXL_(Keith_Anderson_song)
+0,30,XV,http://dbpedia.org/resource/Fifteenth_Dynasty_of_Egypt,http://dbpedia.org/resource/XV_(album)
+0,33,XO,http://dbpedia.org/resource/XO_(song),"http://dbpedia.org/resource/Tomorrow,_Tomorrow http://dbpedia.org/resource/XO_(Elliott_Smith_album) http://dbpedia.org/resource/Everybody_Cares,_Everybody_Understands http://dbpedia.org/resource/I_Didn't_Understand http://dbpedia.org/resource/Pitseleh http://dbpedia.org/resource/Bottle_Up_and_Explode! http://dbpedia.org/resource/Oh_Well,_Okay http://dbpedia.org/resource/Waltz_(song) http://dbpedia.org/resource/Bled_White http://dbpedia.org/resource/Bottle_up_and_Explode! http://dbpedia.org/resource/A_Question_Mark"
+0,41,XI,http://dbpedia.org/resource/1936_Summer_Olympics,http://dbpedia.org/resource/XI_(album) http://dbpedia.org/resource/XI_(Metal_Church_album)
+0,43,XIII,http://dbpedia.org/resource/XIII_(Mushroomhead_album),http://dbpedia.org/resource/XIII_(Rage_album) http://dbpedia.org/resource/XIII_(1998_album)
+0,50,X-Ray,http://dbpedia.org/resource/X,http://dbpedia.org/resource/X-Ray_(Camouflage_song)
+0,53,X-Men: The Last Stand,http://dbpedia.org/resource/X-Men:_The_Last_Stand,http://dbpedia.org/resource/X:3_The_Last_Stand_soundtrack http://dbpedia.org/resource/X-Men:_The_Last_Stand_(soundtrack)
+0,54,X-Mas In Hell,http://dbpedia.org/resource/X-Mas_in_Hell,http://dbpedia.org/resource/X-Mas_In_Hell

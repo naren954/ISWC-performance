@@ -1,0 +1,5 @@
+"F1: 0.93878","Precision: 0.93878","Recall: 0.93878"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","2","Clear","http://dbpedia.org/resource/Clear_(magazine)","http://dbpedia.org/resource/Clear_(visual_novel)"
+"0","9","Chain of Pearls","http://dbpedia.org/resource/Shinju_no_Kusari","http://dbpedia.org/resource/Chain_of_Pearls http://dbpedia.org/resource/Chain_of_pearls"
+"0","42","Battle Angel Alita: Last Order","http://dbpedia.org/resource/Battle_Angel_Alita","http://dbpedia.org/resource/GUNNM:_Last_Order http://dbpedia.org/resource/Battle_Angel_Alita:_Last_Order http://dbpedia.org/resource/Gunnm:_Last_Order http://dbpedia.org/resource/Stellar_Nursery_Society http://dbpedia.org/resource/Type-V_mutant"

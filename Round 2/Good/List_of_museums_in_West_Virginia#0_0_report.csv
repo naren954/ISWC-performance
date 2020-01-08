@@ -1,0 +1,14 @@
+F1: 0.82857,Precision: 0.82857,Recall: 0.82857,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,11,Avampato Discovery Museum,http://dbpedia.org/resource/Maine_Discovery_Museum,"http://dbpedia.org/resource/Avampato_Discovery_Museum http://dbpedia.org/resource/Clay_Center_(West_Virginia) http://dbpedia.org/resource/Clay_Center,_West_Virginia"
+0,14,Barbour County Historical Museum,http://dbpedia.org/resource/Clark_County_Historical_Museum,http://dbpedia.org/resource/Philippi_B_&_O_Railroad_Station
+0,30,"Carnegie Hall, Inc.",http://dbpedia.org/resource/Carnegie_Hall,"http://dbpedia.org/resource/Carnegie_Hall,_Inc."
+0,56,Fort Randolph,"http://dbpedia.org/resource/Fort_Randolph_(Pineville,_Louisiana)",http://dbpedia.org/resource/Fort_Randolph_(West_Virginia) http://dbpedia.org/resource/Fort_Kanawha
+0,76,History House Museum,http://dbpedia.org/resource/Tyntesfield,http://dbpedia.org/resource/Terra_Alta_Bank
+0,86,Lemuel Chenoweth House & Museum,http://dbpedia.org/resource/Merchant's_House_Museum,http://dbpedia.org/resource/Lemuel_Chenoweth_House_&_Museum
+0,117,Pennsboro B&O Depot,http://dbpedia.org/resource/Pennsboro_station,http://dbpedia.org/resource/Pennsboro_B&O_Depot
+0,120,Prabhupada's Palace of Gold,"http://dbpedia.org/resource/New_Vrindaban,_West_Virginia",http://dbpedia.org/resource/Prabhupada's_Palace_of_Gold
+0,124,Randolph County Museum,"http://dbpedia.org/resource/Randolph_County,_Indiana",http://dbpedia.org/resource/Randolph_County_Museum http://dbpedia.org/resource/Blackman-Bosworth_Store
+0,136,Thurmond Depot Visitor's Center,http://dbpedia.org/resource/Kelso_Depot,http://dbpedia.org/resource/Thurmond_station http://dbpedia.org/resource/Thurmond_(Amtrak_station) http://dbpedia.org/resource/Thurmond_station_(Amtrak) http://dbpedia.org/resource/Thurmond_station_(West_Virginia)
+0,153,West Virginia Railroad Museum,http://dbpedia.org/resource/Hull_Street_Station,http://dbpedia.org/resource/West_Virginia_Railroad_Museum
+0,158,West Virginia State Penitentiary,http://dbpedia.org/resource/West_Virginia,http://dbpedia.org/resource/West_Virginia_State_Penitentiary http://dbpedia.org/resource/Moundsville_State_Penitentiary

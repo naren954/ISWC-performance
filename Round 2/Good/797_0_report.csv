@@ -1,0 +1,4 @@
+F1: 0.94872,Precision: 0.94872,Recall: 0.94872,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,7,Sheffield Canal,http://dbpedia.org/resource/Sheffield,http://dbpedia.org/resource/Sheffield_Canal
+0,37,Bridgewater Canal,http://dbpedia.org/resource/Beaver_and_Erie_Canal,http://dbpedia.org/resource/Duke_of_Bridgewater's_Canal http://dbpedia.org/resource/Bridgewater_Canal

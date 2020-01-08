@@ -1,0 +1,12 @@
+F1: 0.28571,Precision: 0.28571,Recall: 0.28571,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,2,M. B. Washington,http://dbpedia.org/resource/Booker_T._Washington,http://dbpedia.org/resource/Mary_Burke_Nicholas http://dbpedia.org/resource/Mary_Burke_Washington
+2,3,V. Charlemont,http://dbpedia.org/resource/Hugo_Charlemont,"http://dbpedia.org/resource/Viscount_Charlemont http://dbpedia.org/resource/Lord_Charlemont http://dbpedia.org/resource/Baron_Charlemont http://dbpedia.org/resource/Earl_of_Charlemont http://dbpedia.org/resource/William_Caulfeild,_2nd_Baron_Charlemont http://dbpedia.org/resource/Baron_Caulfeild"
+2,4,M. J. Randolph,http://dbpedia.org/resource/Thomas_Mann_Randolph_Jr.,http://dbpedia.org/resource/Martha_Washington_Jefferson_Randolph http://dbpedia.org/resource/Martha_Jefferson_Randolph http://dbpedia.org/resource/Martha_Washington_Jefferson http://dbpedia.org/resource/Martha_Washington_Randolph http://dbpedia.org/resource/Martha_Randolph http://dbpedia.org/resource/Patsy_Jefferson
+2,6,H. family,http://dbpedia.org/resource/Hendley_family,http://dbpedia.org/resource/Hawks_family
+2,8,B. L. Brown,http://dbpedia.org/resource/George_L._Brown,http://dbpedia.org/resource/Bernice_Layne_Brown http://dbpedia.org/resource/Bernice_Brown
+2,9,H. S. Currier,http://dbpedia.org/resource/George_Curry_(politician),http://dbpedia.org/resource/Hannah_Slade_Currier
+2,10,M. Lee,http://dbpedia.org/resource/Lee_Myung-bak,http://dbpedia.org/resource/Newton_Gayle http://dbpedia.org/resource/Muna_Lee_(writer)
+2,11,J. Stanford,http://dbpedia.org/resource/John_Stanford_(general),http://dbpedia.org/resource/Jane_Stanford http://dbpedia.org/resource/Jane_Lathrop_Stanford http://dbpedia.org/resource/Jane_Eliza_Lathrop_Stanford
+2,13,F. Chamberlain,http://dbpedia.org/resource/Neville_Chamberlain,http://dbpedia.org/resource/Fanny_Chamberlain http://dbpedia.org/resource/Frances_Chamberlain
+2,14,E. P. Dalton,http://dbpedia.org/resource/Hugh_Dalton,http://dbpedia.org/resource/Eddy_Dalton http://dbpedia.org/resource/Edwina_P._Dalton http://dbpedia.org/resource/Edwina_Dalton

@@ -1,0 +1,11 @@
+F1: 0.95312,Precision: 0.95312,Recall: 0.95312,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,10,Reform,http://dbpedia.org/resource/Reform_Club,http://dbpedia.org/resource/Reform_(horse)
+3,12,Grand Lodge,http://dbpedia.org/resource/Grand_Lodge_(horse),http://dbpedia.org/resource/Grand_Lodges http://dbpedia.org/resource/Grand_lodge http://dbpedia.org/resource/Grand_Lodge_of_Colorado http://dbpedia.org/resource/Grand_Lodge http://dbpedia.org/resource/Grand_Orients http://dbpedia.org/resource/Grand_Orient
+3,30,Arch,http://dbpedia.org/resource/Joseph_Arch,http://dbpedia.org/resource/Arch_(horse)
+3,101,Observatory,http://dbpedia.org/resource/Lowell_Observatory,http://dbpedia.org/resource/Observatory_(horse)
+3,110,Roberto,http://dbpedia.org/resource/Roberto_Marinho,http://dbpedia.org/resource/Roberto_(horse)
+3,119,Spectrum,http://dbpedia.org/resource/Apopestes_spectrum,http://dbpedia.org/resource/Spectrum_(horse)
+3,128,Kashmir,,http://dbpedia.org/resource/Kashmir_(horse)
+3,159,Roberto,http://dbpedia.org/resource/Roberto_Marinho,http://dbpedia.org/resource/Roberto_(horse)
+3,178,Easton,http://dbpedia.org/resource/John_Easton,http://dbpedia.org/resource/Easton_(horse)

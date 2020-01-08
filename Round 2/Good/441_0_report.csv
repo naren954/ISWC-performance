@@ -1,0 +1,13 @@
+F1: 0.91129,Precision: 0.91129,Recall: 0.91129,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,25,Smyrna Airport,http://dbpedia.org/resource/Smyrna_Airport_(Delaware),"http://dbpedia.org/resource/Sewart_AFB,_Tennessee http://dbpedia.org/resource/Sewart_AFB,_TN http://dbpedia.org/resource/Smyrna_Air_Force_Base http://dbpedia.org/resource/Sewart_Air_Force_Base,_TN http://dbpedia.org/resource/Smyrna_AFB http://dbpedia.org/resource/Sewart_Air_Force_Base,_Tennessee http://dbpedia.org/resource/Smyrna_Airport_(Tennessee) http://dbpedia.org/resource/MQY http://dbpedia.org/resource/KMQY"
+0,28,Smith Field,http://dbpedia.org/resource/Smith_Field_(Arkansas),"http://dbpedia.org/resource/Smith_Field_(Indiana) http://dbpedia.org/resource/Smith_Field_(Fort_Wayne,_Indiana)"
+0,30,Sloulin Field International Airport,http://dbpedia.org/resource/Louisville_International_Airport,http://dbpedia.org/resource/Williston_International_Airport http://dbpedia.org/resource/Sloulin_Field_Airport http://dbpedia.org/resource/ISN_Airport http://dbpedia.org/resource/Sloulin_Field_International_Airport
+0,38,Skyhaven Airport,http://dbpedia.org/resource/Skyhaven_Airport_(New_Hampshire),http://dbpedia.org/resource/Skyhaven_Airport_(Pennsylvania)
+0,40,Skyhaven Airport,http://dbpedia.org/resource/Skyhaven_Airport_(New_Hampshire),http://dbpedia.org/resource/Skyhaven_Airport_(Missouri) http://dbpedia.org/resource/Swisher_Skyhaven_Airport
+0,41,Skyharbor Airport,http://dbpedia.org/resource/Phoenix_Sky_Harbor_International_Airport,http://dbpedia.org/resource/Skyharbor_Airport http://dbpedia.org/resource/Skyharbor_(airport)
+0,42,Skydive Houston Airport,http://dbpedia.org/resource/George_Bush_Intercontinental_Airport,http://dbpedia.org/resource/37X http://dbpedia.org/resource/37XS http://dbpedia.org/resource/Skydive_Houston_Airport http://dbpedia.org/resource/Skylake_Airport
+0,47,Sky Harbor Airport,http://dbpedia.org/resource/Phoenix_Sky_Harbor_International_Airport,http://dbpedia.org/resource/Sky_Harbor_Airport_(Washington)
+0,68,Sidney Municipal Airport,http://dbpedia.org/resource/Sidney_Municipal_Airport_(Nebraska),http://dbpedia.org/resource/Sidney_Municipal_Airport_(Ohio)
+0,69,Sidney Municipal Airport,http://dbpedia.org/resource/Sidney_Municipal_Airport_(Nebraska),http://dbpedia.org/resource/Sidney_Municipal_Airport_(New_York)
+0,86,Shelbyville Municipal Airport,http://dbpedia.org/resource/Shelbyville_Municipal_Airport_(Indiana),http://dbpedia.org/resource/Bomar_Field http://dbpedia.org/resource/KSYI http://dbpedia.org/resource/Shelbyville_Municipal_Airport_(Tennessee)

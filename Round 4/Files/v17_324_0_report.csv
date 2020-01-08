@@ -1,0 +1,7 @@
+"F1: 0.61538","Precision: 0.61538","Recall: 0.61538"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","2","J. Pickford","http://dbpedia.org/resource/Mary_Pickford","http://dbpedia.org/resource/Jack_Pickford"
+"0","3","J. Hemingway","http://dbpedia.org/resource/Ernest_Hemingway","http://dbpedia.org/resource/John_Hadley_Nicanor_Hemingway http://dbpedia.org/resource/Joan_Hemingway http://dbpedia.org/resource/Muffet_Hemingway http://dbpedia.org/resource/Bumby_Hemingway http://dbpedia.org/resource/Jack_Hemingway"
+"0","8","G. Richter","http://dbpedia.org/resource/Gisela_Richter","http://dbpedia.org/resource/Georg_Richter"
+"0","12","E. Barrymore","http://dbpedia.org/resource/Lionel_Barrymore","http://dbpedia.org/resource/Ethel_Blythe http://dbpedia.org/resource/Ethel_Mae_Blythe http://dbpedia.org/resource/Ethel_Barrymore"
+"0","13","E. Douglas","http://dbpedia.org/resource/Michael_Douglas","http://dbpedia.org/resource/Eric_Douglas"

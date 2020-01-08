@@ -1,0 +1,5 @@
+"F1: 0.70000","Precision: 0.70000","Recall: 0.70000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","5","Inferno","http://dbpedia.org/resource/Inferno_(2016_film)","http://dbpedia.org/resource/Inferno_(1953_film) http://dbpedia.org/resource/Inferno_(1953)"
+"1","7","Vicki","http://dbpedia.org/resource/Vicki_Leekx","http://dbpedia.org/resource/Vicki_(film)"
+"1","9","Spinout","http://dbpedia.org/resource/Spinout_(film)","http://dbpedia.org/resource/Spinout"

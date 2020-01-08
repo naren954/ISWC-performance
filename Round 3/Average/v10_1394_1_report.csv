@@ -1,0 +1,62 @@
+F1: 0.62500,Precision: 0.62500,Recall: 0.62500,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,2,Comtec Racing,http://dbpedia.org/resource/SEG_Racing_Academy,http://dbpedia.org/resource/Comtec_Racing
+1,3,Campos Racing,http://dbpedia.org/resource/HRT_Formula_1_Team,http://dbpedia.org/resource/Campos_Motorsport http://dbpedia.org/resource/Campos_Grand_Prix http://dbpedia.org/resource/Campos_Racing
+1,6,Hitech Racing,http://dbpedia.org/resource/Rapax_Team,http://dbpedia.org/resource/HiTech_Racing http://dbpedia.org/resource/Hitech_Racing
+1,7,Tech 1 Racing,http://dbpedia.org/resource/Midland_F1_Racing,http://dbpedia.org/resource/Tech_1_Racing
+1,9,Jenzer Motorsport,http://dbpedia.org/resource/Konrad_Motorsport,http://dbpedia.org/resource/Jenzer_Motorsport
+1,10,AmD Essex,http://dbpedia.org/resource/Essex_County_Cricket_Club,http://dbpedia.org/resource/AmD_Tuning http://dbpedia.org/resource/AmD_Milltek_Racing http://dbpedia.org/resource/AmD_Essex
+1,17,Olsbergs MSE,"http://dbpedia.org/resource/Olsberg,_Aargau",http://dbpedia.org/resource/Olsbergs_MSE http://dbpedia.org/resource/OlsbergsMSE
+1,20,West Surrey Racing,http://dbpedia.org/resource/David_Price_Racing,http://dbpedia.org/resource/Team_RAC http://dbpedia.org/resource/West_Surrey_Racing_(WSR) http://dbpedia.org/resource/West_Surrey_Racing
+1,23,Son Veng Racing Team,http://dbpedia.org/resource/Martyn_Ashton,http://dbpedia.org/resource/Son_Veng_Racing_Team
+1,24,Mofaz Racing,http://dbpedia.org/resource/Fortec_Motorsport,http://dbpedia.org/resource/Mofaz_Racing
+1,27,TBN MK Racing Team,http://dbpedia.org/resource/Cooper_Car_Company,http://dbpedia.org/resource/TBN_MK_Racing_Team
+1,31,Vattana Motorsport,http://dbpedia.org/resource/Konrad_Motorsport,http://dbpedia.org/resource/Vattana_Motorsport
+1,36,Campos Racing,http://dbpedia.org/resource/HRT_Formula_1_Team,http://dbpedia.org/resource/Campos_Motorsport http://dbpedia.org/resource/Campos_Grand_Prix http://dbpedia.org/resource/Campos_Racing
+1,39,Lada Sport,http://dbpedia.org/resource/Russian_Bears_Motorsport,http://dbpedia.org/resource/Lada_Sport http://dbpedia.org/resource/LADA_Sport
+1,40,WestCoast Racing,http://dbpedia.org/resource/Endura_Racing,http://dbpedia.org/resource/Dick_Jönsson-Wigroth http://dbpedia.org/resource/WestCoast_Racing
+1,41,Schmidt Peterson Motorsports,http://dbpedia.org/resource/Arrow_Schmidt_Peterson_Motorsports,http://dbpedia.org/resource/Schmidt_Peterson_Motorsports http://dbpedia.org/resource/Schmidt_Peterson_Hamilton_Motorsports http://dbpedia.org/resource/Sam_Schmidt_Motorsports http://dbpedia.org/resource/Sam_Schmidt_Racing http://dbpedia.org/resource/Schmidt_Hamilton_Motorsports
+1,43,Mühlner Motorsport,http://dbpedia.org/resource/Münnich_Motorsport,http://dbpedia.org/resource/Mühlner_Motorsport http://dbpedia.org/resource/Muhlner_Motorsport
+1,50,Redline Racing,http://dbpedia.org/resource/Redline_Records,http://dbpedia.org/resource/Redline_Racing
+1,52,Tony Gilham Racing,http://dbpedia.org/resource/Tony_Stewart,http://dbpedia.org/resource/Team_HARD. http://dbpedia.org/resource/Tony_Gilham_Racing http://dbpedia.org/resource/Team_HARD
+1,55,Motorbase Performance,http://dbpedia.org/resource/Opel_Performance_Center,http://dbpedia.org/resource/Motorbase_Performance
+1,58,Walter Lechner Racing,http://dbpedia.org/resource/Walter_Wolf_Racing,http://dbpedia.org/resource/Walter_Lechner_Racing http://dbpedia.org/resource/Walter_Lechner_Racing_School
+1,60,DeltaWing,http://dbpedia.org/resource/Highcroft_Racing,http://dbpedia.org/resource/DeltaWing http://dbpedia.org/resource/Nissan_DeltaWing
+1,64,Sébastien Loeb Racing,http://dbpedia.org/resource/Sébastien_Loeb,http://dbpedia.org/resource/Sébastien_Loeb_Racing
+1,69,BMW Team RBM,http://dbpedia.org/resource/Prodrive,http://dbpedia.org/resource/Juma_Racing http://dbpedia.org/resource/Racing_Bart_Mampaey http://dbpedia.org/resource/BMW_Team_RBM http://dbpedia.org/resource/BMW_Team_UK
+1,70,FC Basel 1893,http://dbpedia.org/resource/FC_Basel,http://dbpedia.org/resource/FC_Basel_1893_(Superleague_Formula_team) http://dbpedia.org/resource/FC_Basel_(Superleague_Formula_team)
+1,71,Virtuosi Racing,http://dbpedia.org/resource/Lupus_Racing_Team,http://dbpedia.org/resource/Virtuosi_UK http://dbpedia.org/resource/Virtuosi_Racing
+1,72,World RX Team Austria,http://dbpedia.org/resource/Australia,http://dbpedia.org/resource/World_RX_Team_Austria
+1,73,Pro Motorsport,http://dbpedia.org/resource/Konrad_Motorsport,http://dbpedia.org/resource/Pro_Motorsport_(UK)
+1,79,Speedworks Motorsport,http://dbpedia.org/resource/Speedway_Motorsports,http://dbpedia.org/resource/Speedworks_Motorsport
+1,80,Koiranen GP,http://dbpedia.org/resource/Brawn_GP,http://dbpedia.org/resource/Koiranen_GP http://dbpedia.org/resource/Koiranen_Motorsport http://dbpedia.org/resource/Koiranen_Bros._Motorsport
+1,83,Jenzer Motorsport,http://dbpedia.org/resource/Konrad_Motorsport,http://dbpedia.org/resource/Jenzer_Motorsport
+1,85,Jenzer Motorsport,http://dbpedia.org/resource/Konrad_Motorsport,http://dbpedia.org/resource/Jenzer_Motorsport
+1,86,JD Motorsport,http://dbpedia.org/resource/Hilmer_Motorsport,http://dbpedia.org/resource/JD_Motorsport
+1,87,Motorbase Performance,http://dbpedia.org/resource/Opel_Performance_Center,http://dbpedia.org/resource/Motorbase_Performance
+1,90,Mason Mitchell Motorsports,http://dbpedia.org/resource/Texas_House_of_Representatives,http://dbpedia.org/resource/Mason_Mitchell_Motorsports http://dbpedia.org/resource/Mason_Mitchell
+1,92,Formula Racing Development Limited,http://dbpedia.org/resource/Brabham,http://dbpedia.org/resource/Formula_racing_development http://dbpedia.org/resource/Formula_Racing_Development_Limited
+1,96,Pro Motorsport,http://dbpedia.org/resource/Konrad_Motorsport,http://dbpedia.org/resource/Pro_Motorsport_(UK)
+1,100,Status Grand Prix,http://dbpedia.org/resource/A1_Team_Ireland,http://dbpedia.org/resource/Status_Grand_Prix http://dbpedia.org/resource/Status_GP2
+1,103,Campos Racing,http://dbpedia.org/resource/HRT_Formula_1_Team,http://dbpedia.org/resource/Campos_Motorsport http://dbpedia.org/resource/Campos_Grand_Prix http://dbpedia.org/resource/Campos_Racing
+1,107,Team BKR,http://dbpedia.org/resource/Team_SCA,http://dbpedia.org/resource/Team_BKR
+1,108,Conquest Racing,http://dbpedia.org/resource/Lupus_Racing_Team,http://dbpedia.org/resource/Conquest_Racing http://dbpedia.org/resource/Mi-Jack_Conquest_Racing
+1,110,Target Racing,http://dbpedia.org/resource/Chip_Ganassi_Racing,http://dbpedia.org/resource/Target_Racing
+1,111,Team RMG,http://dbpedia.org/resource/Team_SCA,http://dbpedia.org/resource/Team_RMG
+1,115,Campos Racing,http://dbpedia.org/resource/HRT_Formula_1_Team,http://dbpedia.org/resource/Campos_Motorsport http://dbpedia.org/resource/Campos_Grand_Prix http://dbpedia.org/resource/Campos_Racing
+1,117,Triple Eight Race Engineering,http://dbpedia.org/resource/Triple_Eight_Race_Engineering,http://dbpedia.org/resource/Triple_8_Race_Engineering http://dbpedia.org/resource/Triple_Eight_Race_Engineering_(United_Kingdom) http://dbpedia.org/resource/Triple_Eight_Racing http://dbpedia.org/resource/888_Racing http://dbpedia.org/resource/VX_Racing http://dbpedia.org/resource/Triple_8_Racing
+1,120,RPM Racing,http://dbpedia.org/resource/SEG_Racing_Academy,http://dbpedia.org/resource/RPM_Racing http://dbpedia.org/resource/Radical_Psycho_Machine_Racing
+1,121,Campos Racing,http://dbpedia.org/resource/HRT_Formula_1_Team,http://dbpedia.org/resource/Campos_Motorsport http://dbpedia.org/resource/Campos_Grand_Prix http://dbpedia.org/resource/Campos_Racing
+1,122,Citroën Total WTCC,http://dbpedia.org/resource/Citroën_World_Rally_Team,http://dbpedia.org/resource/Citroen_World_Touring_Car_Team http://dbpedia.org/resource/Citroën_Total_WTCC http://dbpedia.org/resource/Citroën_World_Touring_Car_Team
+1,124,Schmidt Peterson Motorsports,http://dbpedia.org/resource/Arrow_Schmidt_Peterson_Motorsports,http://dbpedia.org/resource/Schmidt_Peterson_Motorsports http://dbpedia.org/resource/Schmidt_Peterson_Hamilton_Motorsports http://dbpedia.org/resource/Sam_Schmidt_Motorsports http://dbpedia.org/resource/Sam_Schmidt_Racing http://dbpedia.org/resource/Schmidt_Hamilton_Motorsports
+1,130,Comtec Racing,http://dbpedia.org/resource/SEG_Racing_Academy,http://dbpedia.org/resource/Comtec_Racing
+1,133,Dale Coyne Racing,http://dbpedia.org/resource/Chip_Ganassi_Racing,http://dbpedia.org/resource/Dale_Coyne_Racing http://dbpedia.org/resource/Payton/Coyne_Racing
+1,138,Engstler Motorsport,http://dbpedia.org/resource/Konrad_Motorsport,http://dbpedia.org/resource/DeTeam_Engstler_Motorsport http://dbpedia.org/resource/Liqui_Moly_Team_Engstler http://dbpedia.org/resource/Engstler_Motorsport
+1,140,Bryan Herta Autosport,http://dbpedia.org/resource/Andretti_Autosport,http://dbpedia.org/resource/Bryan_Herta_Autosport http://dbpedia.org/resource/Barracuda_Racing http://dbpedia.org/resource/Bryan_Herta_Rallysport
+1,141,Motorbase Performance,http://dbpedia.org/resource/Opel_Performance_Center,http://dbpedia.org/resource/Motorbase_Performance
+1,143,Venturini Motorsports,,http://dbpedia.org/resource/Venturini_Motorsports
+1,147,Manor Motorsport,http://dbpedia.org/resource/Münnich_Motorsport,http://dbpedia.org/resource/Marussia_Manor_Racing http://dbpedia.org/resource/Manor_Motorsports http://dbpedia.org/resource/Manor_Motorsport http://dbpedia.org/resource/Manor_Competition
+1,153,Campos Racing,http://dbpedia.org/resource/HRT_Formula_1_Team,http://dbpedia.org/resource/Campos_Motorsport http://dbpedia.org/resource/Campos_Grand_Prix http://dbpedia.org/resource/Campos_Racing
+1,156,Russian Bears Motorsport,http://dbpedia.org/resource/AF_Corse,http://dbpedia.org/resource/Russian_Bears_Motorsports http://dbpedia.org/resource/Russian_Bears_Motorsport
+1,157,Campos Racing,http://dbpedia.org/resource/HRT_Formula_1_Team,http://dbpedia.org/resource/Campos_Motorsport http://dbpedia.org/resource/Campos_Grand_Prix http://dbpedia.org/resource/Campos_Racing
+1,158,Tony Gilham Racing,http://dbpedia.org/resource/Tony_Stewart,http://dbpedia.org/resource/Team_HARD. http://dbpedia.org/resource/Tony_Gilham_Racing http://dbpedia.org/resource/Team_HARD

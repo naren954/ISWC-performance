@@ -1,0 +1,4 @@
+F1: 0.88235,Precision: 0.88235,Recall: 0.88235,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,7,Kilmoyley,http://dbpedia.org/resource/Kilmoyley_GAA,http://dbpedia.org/resource/Kilmoyley
+2,11,Ballerin GAC,http://dbpedia.org/resource/Corofin_GAC,http://dbpedia.org/resource/Ballerin_GAC

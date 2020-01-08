@@ -1,0 +1,4 @@
+F1: 0.83333,Precision: 0.83333,Recall: 0.83333,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,3,S. Sanders,http://dbpedia.org/resource/Bernie_Sanders,http://dbpedia.org/resource/Storm_Sanders
+2,12,R. Gonzales,http://dbpedia.org/resource/Rodolfo_Gonzales,http://dbpedia.org/resource/Ruben_Gonzales_(tennis)

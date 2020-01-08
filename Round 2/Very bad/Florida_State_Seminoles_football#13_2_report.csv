@@ -1,0 +1,7 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,1,Champs Sports Bowl,http://dbpedia.org/resource/Super_Bowl_XLIX,http://dbpedia.org/resource/2011_Russell_Athletic_Bowl http://dbpedia.org/resource/2011_Champs_Sports_Bowl
+2,2,Orange Bowl,http://dbpedia.org/resource/California,http://dbpedia.org/resource/2013_Orange_Bowl
+2,3,BCS National Championship Game,http://dbpedia.org/resource/BCS_National_Championship_Game,http://dbpedia.org/resource/2014_BCS_NCG http://dbpedia.org/resource/2014_BCS_National_Championship_Game http://dbpedia.org/resource/2014_College_Football_Championship_Game http://dbpedia.org/resource/2014_College_Football_Playoff_National_Championship
+2,4,Rose Bowl,"http://dbpedia.org/resource/Pasadena,_California",http://dbpedia.org/resource/2015_Rose_Bowl
+2,5,Peach Bowl,http://dbpedia.org/resource/Peach_Bowl,http://dbpedia.org/resource/2015_Peach_Bowl

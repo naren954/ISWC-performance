@@ -1,0 +1,17 @@
+F1: 0.89510,Precision: 0.89510,Recall: 0.89510,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,Å. Søndrål,http://dbpedia.org/resource/Hans_á_Lag,http://dbpedia.org/resource/Ådne_Søndrål http://dbpedia.org/resource/Adne_Sondral
+0,17,Y. Yang,http://dbpedia.org/resource/Yu_Yang_(badminton),http://dbpedia.org/resource/Yang_Yang_(b._1977) http://dbpedia.org/resource/Yang_Yang_(S)
+0,18,Y. Yang,http://dbpedia.org/resource/Yu_Yang_(badminton),http://dbpedia.org/resource/Yang_Yang_(b._1976) http://dbpedia.org/resource/楊揚 http://dbpedia.org/resource/Yang_Yang_(A) http://dbpedia.org/resource/杨扬 http://dbpedia.org/resource/Yáng_Yáng
+0,23,W. Meng,http://dbpedia.org/resource/Wang_Meng_(figure_skater),http://dbpedia.org/resource/Wang_Meng_(speed_skater) http://dbpedia.org/resource/Meng_Wang_(speed_skater)
+0,34,V. Bittner,http://dbpedia.org/resource/Bodo_Bittner,http://dbpedia.org/resource/Vanessa_Bittner
+0,58,T. Kondo,http://dbpedia.org/resource/Tomohiro_Kondo,http://dbpedia.org/resource/Taro_Kondo http://dbpedia.org/resource/近藤_太郎
+0,64,S. Brunner,http://dbpedia.org/resource/Stephanie_Brunner,http://dbpedia.org/resource/Sylvia_Brunner
+0,86,S. Davis,http://dbpedia.org/resource/Suzanne_Davis_(figure_skater),http://dbpedia.org/resource/Shawny_Davis http://dbpedia.org/resource/Shani_Davis http://dbpedia.org/resource/Shauni_Davis http://dbpedia.org/resource/Shawni_Davis
+0,91,S. Elistratov,,http://dbpedia.org/resource/Semion_Elistratov http://dbpedia.org/resource/Semyon_Yelistratov http://dbpedia.org/resource/Semen_Elistratov
+0,94,S. Shimizu,http://de.dbpedia.org/resource/Sadao_Shimizu,http://dbpedia.org/resource/Sayuri_Shimizu http://dbpedia.org/resource/清水_小百合
+0,102,S. Schwarz,http://dbpedia.org/resource/Sissy_Schwarz,http://dbpedia.org/resource/Samuel_Schwarz_(speed_skater)
+0,107,R. Darázs,http://dbpedia.org/resource/Péter_Darázs,http://dbpedia.org/resource/Rózsa_Darázs http://dbpedia.org/resource/Rozsa_Darazs
+0,114,R. Schneider,http://dbpedia.org/resource/René_Schneider_(footballer),http://dbpedia.org/resource/Roger_Schneider_(speed_skater) http://dbpedia.org/resource/Roger_Schneider
+0,127,R. Darázs,http://dbpedia.org/resource/Péter_Darázs,http://dbpedia.org/resource/Rózsa_Darázs http://dbpedia.org/resource/Rozsa_Darazs
+0,136,P. Koskela,http://dbpedia.org/resource/Pentti_Koskela,http://dbpedia.org/resource/Pekka_Koskela

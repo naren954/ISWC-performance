@@ -1,0 +1,6 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Batticaloa,http://dbpedia.org/resource/Batticaloa,http://dbpedia.org/resource/Batticaloa_Electoral_District
+0,2,Colombo,http://dbpedia.org/resource/Christopher_Columbus,http://dbpedia.org/resource/Colombo_Electoral_District
+0,3,Jaffna,http://dbpedia.org/resource/Jaffna,http://dbpedia.org/resource/Jaffna_Electoral_District
+0,4,Vanni,http://dbpedia.org/resource/Francesco_Vanni,http://dbpedia.org/resource/Vanni_Electoral_District

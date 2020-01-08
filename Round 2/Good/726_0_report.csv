@@ -1,0 +1,17 @@
+F1: 0.91620,Precision: 0.91620,Recall: 0.91620,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,14,Rhine Bridge,http://dbpedia.org/resource/Emmerich_Rhine_Bridge,http://dbpedia.org/resource/Rhine_Bridge_(Worms)
+0,34,Rama VII Bridge,http://dbpedia.org/resource/Rama_VIII_Bridge,http://dbpedia.org/resource/Rama_VII_Bridge
+0,37,Rama III Bridge,http://dbpedia.org/resource/Rama_VIII_Bridge,http://dbpedia.org/resource/Rama_III_Bridge
+0,39,Rainbow Bridge,http://dbpedia.org/resource/Rainbow_Bridge_(Niagara_Falls),http://dbpedia.org/resource/Rainbow_Bridge_(Tokyo)
+0,54,Qinglong Railway Bridge,http://dbpedia.org/resource/Kingston_Railway_Bridge,http://dbpedia.org/resource/Qinglong_Railway_Bridge
+0,59,Puqian Bridge,http://dbpedia.org/resource/Boone_Bridge,http://dbpedia.org/resource/Puqian_Bridge
+0,63,Puh Bridge,http://dbpedia.org/resource/Puch_Bridge,http://dbpedia.org/resource/Most_čez_Dravo_na_Ptuju http://dbpedia.org/resource/Puh_Bridge http://dbpedia.org/resource/Bridge_over_the_Drava_River_in_Ptuj http://dbpedia.org/resource/Bridge_over_Drava_in_Ptuj http://dbpedia.org/resource/Puhov_most http://dbpedia.org/resource/Puhov_Bridge http://dbpedia.org/resource/Bridge_over_the_Drava_in_Ptuj
+0,64,Puente del Alamillo,http://dbpedia.org/resource/Alamillo_Bridge,http://dbpedia.org/resource/Puente_del_alamillo http://dbpedia.org/resource/Alamillo_bridge http://dbpedia.org/resource/Puente_de_Alamillo http://dbpedia.org/resource/Puente_del_Alamillo
+0,96,Pont des Marchands,http://dbpedia.org/resource/Pont_des_Marchands,http://dbpedia.org/resource/Pont_des_Marchands_(Narbonne)
+0,97,Pont del Diable,http://dbpedia.org/resource/Pont_du_Diable_(Céret),http://dbpedia.org/resource/Puente_del_Diablo_(Martorell) http://dbpedia.org/resource/Pont_del_Diable_(Martorell) http://dbpedia.org/resource/Pont_del_Diable
+0,101,Pont de Pierre,http://dbpedia.org/resource/Pont_de_pierre_(Bordeaux),http://dbpedia.org/resource/Pont_de_Pierre_(Aosta)
+0,119,Pivdennyi Bridge,http://dbpedia.org/resource/Pivdennyi_Bridge_(Kiev),http://dbpedia.org/resource/Pivdennyi_Bridge
+0,142,Pennsylvania Railroad Bridge,http://dbpedia.org/resource/Fourteenth_Street_Bridge_(Ohio_River),"http://dbpedia.org/resource/Pennsylvania_Railroad_Bridge_(Columbia,_Pennsylvania) http://dbpedia.org/resource/Pennsylvania_Railroad_Covered_Bridge"
+0,149,Pearl Harbor Memorial Bridge,http://dbpedia.org/resource/Severn_River_Bridge,http://dbpedia.org/resource/Q_Bridge http://dbpedia.org/resource/Pearl_Harbor_Memorial_Bridge_(Connecticut) http://dbpedia.org/resource/Quinnipiac_Bridge
+0,151,Peace Bridge,http://dbpedia.org/resource/Peace_Bridge,"http://dbpedia.org/resource/Peace_Bridge_(Foyle) http://dbpedia.org/resource/Peace_Bridge,_Derry"

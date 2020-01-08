@@ -1,0 +1,4 @@
+F1: 0.33333,Precision: 0.33333,Recall: 0.33333,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,Swords of Shahrazar,http://dbpedia.org/resource/The_Sword,http://dbpedia.org/resource/Swords_of_Shahrazar http://dbpedia.org/resource/The_Treasures_of_Tartary http://dbpedia.org/resource/The_Curse_of_the_Crimson_God http://dbpedia.org/resource/Kirby_O'Donnell http://dbpedia.org/resource/The_Treasure_of_Tartary
+0,3,The Treasure of Tartary,,http://dbpedia.org/resource/Swords_of_Shahrazar http://dbpedia.org/resource/The_Treasures_of_Tartary http://dbpedia.org/resource/The_Curse_of_the_Crimson_God http://dbpedia.org/resource/Kirby_O'Donnell http://dbpedia.org/resource/The_Treasure_of_Tartary

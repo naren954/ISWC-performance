@@ -1,0 +1,8 @@
+F1: 0.82353,Precision: 0.82353,Recall: 0.82353,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,14,K. Carpenter,http://dbpedia.org/resource/Quinn_Carpenter,http://dbpedia.org/resource/Kip_Carpenter
+1,16,Å. Søndrål,http://dbpedia.org/resource/Ə,http://dbpedia.org/resource/Adne_Sondral http://dbpedia.org/resource/Ådne_Søndrål
+1,18,L. Sætre,http://dbpedia.org/resource/Johan_Sætre,http://dbpedia.org/resource/Lasse_Saetre http://dbpedia.org/resource/Lasse_Sætre
+1,24,K. Carpenter,http://dbpedia.org/resource/Quinn_Carpenter,http://dbpedia.org/resource/Kip_Carpenter
+1,26,Å. Søndrål,http://dbpedia.org/resource/Ə,http://dbpedia.org/resource/Adne_Sondral http://dbpedia.org/resource/Ådne_Søndrål
+1,28,L. Sætre,http://dbpedia.org/resource/Johan_Sætre,http://dbpedia.org/resource/Lasse_Saetre http://dbpedia.org/resource/Lasse_Sætre

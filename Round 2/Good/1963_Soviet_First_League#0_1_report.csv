@@ -1,0 +1,3 @@
+F1: 0.94118,Precision: 0.94118,Recall: 0.94118,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,9,Daugava Riga,http://dbpedia.org/resource/TTT_Riga,"http://dbpedia.org/resource/FC_Daugava_Riga,_1944 http://dbpedia.org/resource/FC_Daugava-REZ_Riga http://dbpedia.org/resource/FC_Daugava_Riga"

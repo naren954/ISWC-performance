@@ -1,0 +1,6 @@
+F1: 0.55556,Precision: 0.55556,Recall: 0.55556,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,5,Arani,http://dbpedia.org/resource/Arani_Province,"http://dbpedia.org/resource/Aarani,_taluk_in_tiruvannamalai_district http://dbpedia.org/resource/Aarani_taluk"
+1,6,Cheyyar,http://dbpedia.org/resource/Cheyyar,http://dbpedia.org/resource/Cheyyar_taluk
+1,9,Vandhavashee,,http://dbpedia.org/resource/Vandavasi_taluk
+1,10,Chengam,http://dbpedia.org/resource/Chengam,"http://dbpedia.org/resource/Chengam_taluk http://dbpedia.org/resource/Chengam,_taluk_in_tiruvannamalai_district"

@@ -1,0 +1,9 @@
+F1: 0.86275,Precision: 0.86275,Recall: 0.86275,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,5,The Swarm,http://dbpedia.org/resource/The_Swarm_(song),http://dbpedia.org/resource/The_Swarm_(Voyager_episode) http://dbpedia.org/resource/The_Swarm_(Star_Trek:_Voyager) http://dbpedia.org/resource/The_Swarm_(VOY)
+0,6,The Survivors,http://dbpedia.org/resource/The_Survivor_(Star_Trek:_The_Animated_Series),http://dbpedia.org/resource/The_Survivors_(TNG_episode) http://dbpedia.org/resource/Survivors_(TNG_episode) http://dbpedia.org/resource/Husnock http://dbpedia.org/resource/The_Survivors_(Star_Trek:_The_Next_Generation) http://dbpedia.org/resource/Douwd
+0,15,The Song,http://dbpedia.org/resource/Eurovision_Song_Contest_2006,http://dbpedia.org/resource/The_Song_(Smash)
+0,24,The Ship,http://dbpedia.org/resource/The_Last_Ship_(album),http://dbpedia.org/resource/The_Ship_(DS9) http://dbpedia.org/resource/The_Ship_(Star_Trek:_Deep_Space_Nine) http://dbpedia.org/resource/The_Ship_(DS9_episode)
+0,30,The Search,,http://dbpedia.org/resource/The_Search_(DS9) http://dbpedia.org/resource/The_Search_(Star_Trek:_Deep_Space_Nine_episode) http://dbpedia.org/resource/The_Search_(Star_Trek:_Deep_Space_Ni) http://dbpedia.org/resource/The_Search_(Star_Trek) http://dbpedia.org/resource/The_Search_(DS9_episode) http://dbpedia.org/resource/The_Search_(Star_Trek:_Deep_Space_Nine)
+0,34,The Royale,http://dbpedia.org/resource/Battle_Royale_(film),http://dbpedia.org/resource/The_Royale http://dbpedia.org/resource/The_Royale_(Star_Trek:_The_Next_Generation) http://dbpedia.org/resource/The_Royale_(TNG_episode)
+0,48,The Raven,http://dbpedia.org/resource/Face_the_Raven,http://dbpedia.org/resource/USS_Raven_(Star_Trek) http://dbpedia.org/resource/The_Raven_(Voyager_episdoe) http://dbpedia.org/resource/The_Raven_(VOY) http://dbpedia.org/resource/The_Raven_(VOY_episode) http://dbpedia.org/resource/The_Raven_(Star_Trek:_Voyager) http://dbpedia.org/resource/The_Raven_(Voyager_episode)

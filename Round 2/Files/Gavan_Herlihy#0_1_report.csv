@@ -1,0 +1,4 @@
+"F1: 0.00000","Precision: 0.00000","Recall: 0.00000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","2","45th","http://dbpedia.org/resource/Donald_Trump","http://dbpedia.org/resource/45th_Parliament_of_New_Zealand http://dbpedia.org/resource/45th_New_Zealand_Parliament"
+"1","3","46th","http://dbpedia.org/resource/Oklahoma","http://dbpedia.org/resource/46th_New_Zealand_Parliament http://dbpedia.org/resource/46th_Parliament_of_New_Zealand"

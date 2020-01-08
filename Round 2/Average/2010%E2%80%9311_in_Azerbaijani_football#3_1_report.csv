@@ -1,0 +1,8 @@
+F1: 0.57143,Precision: 0.57143,Recall: 0.57143,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,5,Å\u009EahdaÄ\u009F,,http://dbpedia.org/resource/Sahdag_Samur_Qusar http://dbpedia.org/resource/FC_Shahdag_Qusar http://dbpedia.org/resource/FC_Sahdag_Qusar http://dbpedia.org/resource/Sahdag_Qusar http://dbpedia.org/resource/Shahdagh_Qusar http://dbpedia.org/resource/Shahdag_Qusar_FK http://dbpedia.org/resource/Shakhdag_Kusary http://dbpedia.org/resource/Şahdağ_Qusar http://dbpedia.org/resource/FK_Shahdag-Samur_Qusar
+1,6,QaradaÄ\u009F LÃ¶kbatan,http://dbpedia.org/resource/The_F.U.'s,http://dbpedia.org/resource/Qaradağ_Lökbatan_FK
+1,7,Sumgayit,http://dbpedia.org/resource/FK_Standard_Sumgayit,http://dbpedia.org/resource/Sumgayit_Sheher_FC http://dbpedia.org/resource/Sumgayit_City_F.C. http://dbpedia.org/resource/Sumgayit_PFC http://dbpedia.org/resource/Sumgayit_City_PFC http://dbpedia.org/resource/Sumgayit_FC http://dbpedia.org/resource/Sumgayit_FK http://dbpedia.org/resource/Sumgayit_PFK
+1,9,Å\u009EÉ\u0099mkir,http://dbpedia.org/resource/C0_and_C1_control_codes,http://dbpedia.org/resource/FC_Shamkir http://dbpedia.org/resource/FK_Shamkir http://dbpedia.org/resource/Shamkir_FK http://dbpedia.org/resource/F.K._Shamkir http://dbpedia.org/resource/Shamkir_FC
+1,10,GÃ¶yÉ\u0099zÉ\u0099n,,http://dbpedia.org/resource/FK_Göyazan_Qazax
+1,12,Å\u009EuÅ\u009Fa,http://dbpedia.org/resource/Kuala_Lumpur_FA,http://dbpedia.org/resource/FC_Shusha http://dbpedia.org/resource/Shusha_FK

@@ -1,0 +1,4 @@
+F1: 0.84615,Precision: 0.84615,Recall: 0.84615,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Fort Stanwix,http://dbpedia.org/resource/Fort_Stanwix_National_Monument,http://dbpedia.org/resource/Ft._Stanwix http://dbpedia.org/resource/Fort_Schuyler_(Rome) http://dbpedia.org/resource/Fort_Stanwix
+0,5,Fort Massachusetts,"http://dbpedia.org/resource/Fort_Stevens_(Washington,_D.C.)",http://dbpedia.org/resource/Fort_Massachusetts_(Mississippi)

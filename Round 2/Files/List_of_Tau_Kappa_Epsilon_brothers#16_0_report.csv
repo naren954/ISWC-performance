@@ -1,0 +1,4 @@
+"F1: 0.33333","Precision: 0.33333","Recall: 0.33333"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","2","Richard F. \Digger\"" Phelps""","http://dbpedia.org/resource/Michael_Phelps","http://dbpedia.org/resource/""Digger""_Phelps http://dbpedia.org/resource/Richard_F._""Digger""_Phelps http://dbpedia.org/resource/Digger_Phelps"
+"0","3","Joe Tait","http://dbpedia.org/resource/Joe_Tait_(footballer)","http://dbpedia.org/resource/Joe_Tait"

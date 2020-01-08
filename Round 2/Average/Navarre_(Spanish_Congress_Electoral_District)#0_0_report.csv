@@ -1,0 +1,4 @@
+F1: 0.60000,Precision: 0.60000,Recall: 0.60000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Democratic Centre Union (UCD),http://dbpedia.org/resource/Democratic_and_Social_Centre_(Spain),http://dbpedia.org/resource/Democratic_Centre_Union http://dbpedia.org/resource/Union_of_the_Democratic_Centre_(Spain) http://dbpedia.org/resource/Union_Centrista_-_Centro_Democratico_y_Social http://dbpedia.org/resource/Union_de_Centro_Democratico http://dbpedia.org/resource/Unión_de_Centro_Democrático http://dbpedia.org/resource/Union_of_the_Democratic_Center_(Spain) http://dbpedia.org/resource/Democratic_Centre_Union_(Spain) http://dbpedia.org/resource/Democratic_Center_Union_(Spain) http://dbpedia.org/resource/Democratic_Centrist_Union_(Spain)
+0,4,Herri Batasuna,http://dbpedia.org/resource/Batasuna,http://dbpedia.org/resource/Herri_Batasuna

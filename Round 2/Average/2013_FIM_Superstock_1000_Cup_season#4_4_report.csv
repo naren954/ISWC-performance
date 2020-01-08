@@ -1,0 +1,7 @@
+F1: 0.70588,Precision: 0.70588,Recall: 0.70588,,
+Col,Row,Value,Submitted URI,Correct URI's
+4,19,Karel PeÅ¡ek[7],http://dbpedia.org/resource/Wikipedia,http://dbpedia.org/resource/Karel_Pešek_(motorcycle_racer)
+4,21,Karel PeÅ¡ek[14],http://dbpedia.org/resource/Wikipedia,http://dbpedia.org/resource/Karel_Pešek_(motorcycle_racer)
+4,35,Alen GyÅ\u0091rfi[5],http://dbpedia.org/resource/Alen_Lončar,http://dbpedia.org/resource/Alen_Győrfi
+4,36,Robert MureÈ\u0099an[14],http://dbpedia.org/resource/Elizabeth_Mure,http://dbpedia.org/resource/Robert_Mureșan
+4,37,Ferruccio Lamborghini[16],http://dbpedia.org/resource/Ferruccio_Lamborghini_(motorcyclist),http://dbpedia.org/resource/Ferruccio_Lamborghini_(motorcycle_racer)

@@ -1,0 +1,6 @@
+"F1: 0.89474","Precision: 0.89474","Recall: 0.89474"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","4","S. Martin","http://dbpedia.org/resource/Dean_Martin","http://dbpedia.org/resource/Shakira_Martin"
+"0","7","R. Johnston","http://dbpedia.org/resource/Russell_Johnston","http://dbpedia.org/resource/Randy_Johnston_(model)"
+"0","18","K. French","http://dbpedia.org/resource/Louis_Philippe_I","http://dbpedia.org/resource/Katie_French http://dbpedia.org/resource/Katy_French"
+"0","31","D. Kim","http://dbpedia.org/resource/Kim_Dae-jung","http://dbpedia.org/resource/Kim_daul http://dbpedia.org/resource/Daul_Kim http://dbpedia.org/resource/Kim_Daul"

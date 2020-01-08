@@ -1,0 +1,13 @@
+F1: 0.72500,Precision: 0.72500,Recall: 0.72500,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,5,Sing,http://dbpedia.org/resource/Sing_(My_Chemical_Romance_song),http://dbpedia.org/resource/Sing_(Joe_Raposo_song) http://dbpedia.org/resource/Sing_(The_Carpenters_song)
+3,9,Help!,http://dbpedia.org/resource/Help!,http://dbpedia.org/resource/Help_(song) http://dbpedia.org/resource/BEATLES-HELP! http://dbpedia.org/resource/Help!_(song)
+3,13,21,http://dbpedia.org/resource/21_(Adele_album),http://dbpedia.org/resource/21_(Hunter_Hayes_song)
+3,17,Turn to You,http://dbpedia.org/resource/Turn_to_You_(Mother's_Day_Dedication),http://dbpedia.org/resource/Turn_to_You
+3,19,I Feel Fine,http://dbpedia.org/resource/Feel_Fine!,http://dbpedia.org/resource/I_Feel_Fine_(The_Beatles_song) http://dbpedia.org/resource/I_Feel_Fine
+3,21,George Jones,http://dbpedia.org/resource/George_Jones_(We_Can_Make_It),"http://dbpedia.org/resource/George_Glenn_Jones http://dbpedia.org/resource/No_Show_Jones http://dbpedia.org/resource/No-Show_Jones http://dbpedia.org/resource/Wrapped_Around_Her_Finger http://dbpedia.org/resource/George_Jones http://dbpedia.org/resource/George_Jones_(musician) http://dbpedia.org/resource/Jones,_George http://dbpedia.org/resource/You're_Still_on_My_Mind http://dbpedia.org/resource/George_Jones_discography"
+3,23,Paperback Writer,http://dbpedia.org/resource/Paperback_Cliché,http://dbpedia.org/resource/Paperback_Writer_(The_Beatles_song) http://dbpedia.org/resource/Paperback_Writer
+3,28,Freedom,http://dbpedia.org/resource/Freedom!_'90,http://dbpedia.org/resource/Freedom_(Rage_Against_the_Machine_song)
+3,30,Fiesta,http://dbpedia.org/resource/Fiesta_(Soulhead_song),http://dbpedia.org/resource/Fiesta_(The_Pogues_song)
+3,31,Incredible,http://dbpedia.org/resource/Incredible_(Timomatic_song),http://dbpedia.org/resource/Incredible_(Keith_Murray_song)
+3,35,Give It Up,http://dbpedia.org/resource/Give_It_Up_(Twista_song),http://dbpedia.org/resource/Give_It_Up_(LCD_Soundsystem_song)

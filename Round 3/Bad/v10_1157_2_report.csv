@@ -1,0 +1,13 @@
+F1: 0.31250,Precision: 0.31250,Recall: 0.31250,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,1,D. Phillips,http://dbpedia.org/resource/Dorothy_Phillips,http://dbpedia.org/resource/Damaris_Phillips http://dbpedia.org/resource/Damaris_Philips
+2,2,Madhoo,http://dbpedia.org/resource/Norman_Madhoo,http://dbpedia.org/resource/Madhoo
+2,4,T. Labine,http://dbpedia.org/resource/Leo_Labine,http://dbpedia.org/resource/Tyler_Labine
+2,5,R. Perlman,http://dbpedia.org/resource/Rhea_Perlman,http://dbpedia.org/resource/Ron_Perlman http://dbpedia.org/resource/Ron_pearlman http://dbpedia.org/resource/Ronald_Francis_Perlman http://dbpedia.org/resource/Ronald_Perlman http://dbpedia.org/resource/Opal_Perlman
+2,6,Annapoorna,http://dbpedia.org/resource/Annapurna_Devi,http://dbpedia.org/resource/Annapoorna_(actress)
+2,7,L. Arcieri,http://dbpedia.org/resource/Maurizio_Arcieri,http://dbpedia.org/resource/Leila_Arcieri
+2,9,E. Gray,http://dbpedia.org/resource/Dolores_Gray,http://dbpedia.org/resource/Elspet_Gray
+2,11,S. Chakraborty,http://dbpedia.org/resource/Sabyasachi_Chakrabarty,http://dbpedia.org/resource/Jol_Nupur http://dbpedia.org/resource/Souptik_Chakraborty http://dbpedia.org/resource/Fahim_Mirza http://dbpedia.org/resource/Lovely_Maitra
+2,14,S. O'Donnell,http://dbpedia.org/resource/Steve_O'Donnell_(writer),http://dbpedia.org/resource/Steve_O'Donnell_(actor) http://dbpedia.org/resource/Steven_O'Donnell_(actor)
+2,15,R. Fulcher,http://dbpedia.org/resource/Arthur_Fulcher,http://dbpedia.org/resource/Rich_Fulcher
+2,16,M. Smith,http://dbpedia.org/resource/Mamie_Smith,"http://dbpedia.org/resource/Melvin_Kenneth_""Mel""_Smith http://dbpedia.org/resource/Melvin_Kenneth_Smith http://dbpedia.org/resource/Mel_Smith"

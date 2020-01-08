@@ -1,0 +1,52 @@
+F1: 0.71751,Precision: 0.71751,Recall: 0.71751,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,Two Weeks,http://dbpedia.org/resource/Two_Weeks_(Grizzly_Bear_song),http://dbpedia.org/resource/Two_Weeks_(FKA_twigs_song) http://dbpedia.org/resource/Two_Weeks_(FKA_Twigs_song)
+0,16,Two Hearts,http://dbpedia.org/resource/Two_Hearts_(Phil_Collins_song),http://dbpedia.org/resource/Two_Hearts_(Teddy_Pendergrass_song) http://dbpedia.org/resource/Two_Hearts_(Stephanie_Mills_song)
+0,25,Twisted,http://dbpedia.org/resource/Twisted_(Keith_Sweat_song),http://dbpedia.org/resource/Twisted_(Brian_McFadden_song) http://dbpedia.org/resource/Twisted_(Brian_McFadden_Song)
+0,26,Twist of Fate,http://dbpedia.org/resource/Twist_of_Fate_(Emilia_Rydberg_song),http://dbpedia.org/resource/Twist_of_Fate_(Siobhan_Donaghy_song) http://dbpedia.org/resource/Twist_of_Fate_(Siobhan_Donagh_song) http://dbpedia.org/resource/Twist_of_Fate_(Siobhán_Donaghy_song)
+0,28,Twist and Shout,http://dbpedia.org/resource/Twist_and_Shout_(Deacon_Blue_song),"http://dbpedia.org/resource/Twist_And_Shout http://dbpedia.org/resource/Twist_and_Shout http://dbpedia.org/resource/Twist_&_Shout http://dbpedia.org/resource/Shake_It_Up,_Baby http://dbpedia.org/resource/Twist_and_Shout_(The_Beatles_song) http://dbpedia.org/resource/Twist_and_shout"
+0,31,Twilight Zone,http://dbpedia.org/resource/Twilight_Zone_(Iron_Maiden_song),http://dbpedia.org/resource/Twilight_Zone_(Golden_Earring_song) http://dbpedia.org/resource/When_the_Bullet_Hits_the_Bone http://dbpedia.org/resource/Bullet_Hits_the_Bone http://dbpedia.org/resource/Twilight_Zone_(1982_song)
+0,32,Twilight Time,http://dbpedia.org/resource/Twilight_Time_(album),http://dbpedia.org/resource/Twilight_Time_(The_Platters) http://dbpedia.org/resource/Twilight_Time_(song)
+0,42,Turn the Tide,http://dbpedia.org/resource/Turn_the_Tide_(Sylver_song),http://dbpedia.org/resource/Turn_the_Tide_(Johnny_Hates_Jazz_song)
+0,44,Turn on,http://dbpedia.org/resource/Turn_Me_On_(David_Guetta_song),http://dbpedia.org/resource/Turn_on_(The_Beat_Box)
+0,47,Turn Up the Radio,http://dbpedia.org/resource/Turn_Up_the_Radio_(Madonna_song),http://dbpedia.org/resource/Turn_Up_the_Radio_(Autograph_song)
+0,53,Turn It Up,http://dbpedia.org/resource/Turn_It_Up_(Paris_Hilton_song),http://dbpedia.org/resource/Turn_It_Up_(The_Feeling_song)
+0,54,Turn It Up,http://dbpedia.org/resource/Turn_It_Up_(Paris_Hilton_song),http://dbpedia.org/resource/Turn_It_Up_(Remix)/Fire_It_Up http://dbpedia.org/resource/Turn_It_Up_(remix)/Fire_It_Up http://dbpedia.org/resource/Turn_It_Up_(remix)_Fire_It_Up
+0,59,Turn Back Time,http://dbpedia.org/resource/Turn_Back_Time_(Aqua_song),http://dbpedia.org/resource/Turn_Back_Time_(Sub_Focus_song)
+0,60,Turn Around,"http://dbpedia.org/resource/Turn_Around_(5,_4,_3,_2,_1)",http://dbpedia.org/resource/Turn_Around_(Dick_and_Dee_Dee_song)
+0,61,"Turn Around, Look at Me","http://dbpedia.org/resource/Turn_Around,_Look_at_Me_(album)","http://dbpedia.org/resource/Turn_Around,_Look_at_Me http://dbpedia.org/resource/Turn_Around,_Look_At_Me http://dbpedia.org/resource/Turn_Around_Look_at_Me http://dbpedia.org/resource/Turn_Around_Look_At_Me"
+0,64,Turbo Lover,http://es.dbpedia.org/resource/Turbo_Lover,http://dbpedia.org/resource/Turbo_Lover_(song) http://dbpedia.org/resource/Turbo_Lover
+0,67,Tunnel of Love,http://dbpedia.org/resource/Tunnel_of_Love_(Dire_Straits_song),http://dbpedia.org/resource/Tunnel_of_Love_(Bruce_Springsteen_song)
+0,71,Tug of War,http://dbpedia.org/resource/Tug_of_War_(Carly_Rae_Jepsen_song),http://dbpedia.org/resource/Tug_of_War_(Paul_McCartney_song)
+0,73,Tuesday Afternoon,http://dbpedia.org/resource/This_Afternoon,http://dbpedia.org/resource/Forever_Afternoon_(Tuesday?) http://dbpedia.org/resource/Tuesday_Afternoon_(The_Moody_Blues_song) http://dbpedia.org/resource/Forever_Afternoon http://dbpedia.org/resource/Tuesday_Afternoon_(Forever_Afternoon) http://dbpedia.org/resource/Tuesday_Afternoon http://dbpedia.org/resource/Tuesday_afternoon
+0,80,Tthhee Ppaarrttyy,http://fr.dbpedia.org/resource/Tthhee_Ppaarrttyy,http://dbpedia.org/resource/Tthhee_Ppaarrttyy
+0,92,Try Try Try,"http://dbpedia.org/resource/Try,_Try,_Try",http://dbpedia.org/resource/Try_Try_Try_(Julian_Cope_song)
+0,97,Try Again,http://dbpedia.org/resource/Try_Again_(Aaliyah_song),http://dbpedia.org/resource/Try_Again_(Keane_song)
+0,99,Truth Is,http://dbpedia.org/resource/Truth_Is_(Brother_Ali_song),http://dbpedia.org/resource/Truth_Is_(Fantasia_Barrino_song)
+0,102,Truly Yours,http://dbpedia.org/resource/Truly_Yours_(The_Spinners_song),http://dbpedia.org/resource/Truly_Yours
+0,109,True Love,http://dbpedia.org/resource/True_Love_(Pink_song),http://dbpedia.org/resource/True_Love_(Vince_Gill_song)
+0,110,True Love,http://dbpedia.org/resource/True_Love_(Pink_song),http://dbpedia.org/resource/True_Love_(Robert_Palmer_song)
+0,112,True Love,http://dbpedia.org/resource/True_Love_(Pink_song),http://dbpedia.org/resource/True_Love_(Cole_Porter_song)
+0,117,True Blue,http://dbpedia.org/resource/True_Blue_(Madonna_song),http://dbpedia.org/resource/True_Blue_(Luna_Sea_song)
+0,118,True Believer,http://dbpedia.org/resource/True_Believers_(song),http://dbpedia.org/resource/True_Believer_(Ronnie_Milsap_song) http://dbpedia.org/resource/True_Believer_(song)
+0,119,True,http://dbpedia.org/resource/True_(Avicii_album),http://dbpedia.org/resource/True_(Spandau_Ballet_song)
+0,120,True,http://dbpedia.org/resource/True_(Avicii_album),http://dbpedia.org/resource/True_(George_Strait_song)
+0,123,Troy,http://dbpedia.org/resource/Helen_of_Troy_(album),http://dbpedia.org/resource/Troy_(song)
+0,124,Trouble in Mind,http://dbpedia.org/resource/Trouble_on_My_Mind,http://dbpedia.org/resource/Trouble_in_Mind_(song)
+0,128,Trouble,http://dbpedia.org/resource/Trouble_(Pink_song),http://dbpedia.org/resource/Trouble_(Mark_Chesnutt_song)
+0,129,Trouble,http://dbpedia.org/resource/Trouble_(Pink_song),http://dbpedia.org/resource/Trouble_(Lindsey_Buckingham_song)
+0,130,Trouble,http://dbpedia.org/resource/Trouble_(Pink_song),http://dbpedia.org/resource/Trouble_(Heaven_17_song)
+0,131,Trouble,http://dbpedia.org/resource/Trouble_(Pink_song),http://dbpedia.org/resource/Trouble_(Cypress_Hill_song)
+0,132,Trouble,http://dbpedia.org/resource/Trouble_(Pink_song),http://dbpedia.org/resource/Trouble_(Coldplay_song) http://dbpedia.org/resource/Trouble_(Coldplay_single) http://dbpedia.org/resource/Trouble_-_Norwegian_Live_EP
+0,133,Trouble-Maker,http://dbpedia.org/resource/Trouble_(Pink_song),http://dbpedia.org/resource/Trouble-Maker
+0,140,Trick of the Light,http://dbpedia.org/resource/Trick_of_the_Light_(The_Triffids_song),http://dbpedia.org/resource/Trick_of_the_Light_(The_Who_song)
+0,145,Treaty,http://dbpedia.org/resource/Treaty_of_Versailles,http://dbpedia.org/resource/Treaty_(song)
+0,148,Treat Me Like a Lady,http://dbpedia.org/resource/Treat_Me_Like_a_Lady_(Zoe_Birkett_song),http://dbpedia.org/resource/Treat_me_like_a_lady http://dbpedia.org/resource/Treat_Me_Like_A_Lady http://dbpedia.org/resource/Treat_Me_Like_a_Lady
+0,157,Travelin' Light,http://dbpedia.org/resource/Travelin'_Band,http://dbpedia.org/resource/Travelin'_Light_(J._J._Cale_song) http://dbpedia.org/resource/Travelin'_Light_(JJ_Cale_song)
+0,159,Trashed,http://dbpedia.org/resource/Trashed_(Skin_song),http://dbpedia.org/resource/Trashed_(Black_Sabbath_song)
+0,161,Trash,http://dbpedia.org/resource/Trash_(Suede_song),http://dbpedia.org/resource/Trash_(Roxy_Music_song)
+0,165,Train of Thought,http://dbpedia.org/resource/Train_of_Thought_(Cher_song),http://dbpedia.org/resource/Train_of_Thought_(A-ha_songs) http://dbpedia.org/resource/Train_of_Thought_(a-ha_song) http://dbpedia.org/resource/Train_of_Thought_(A-ha_song)
+0,169,Train,http://dbpedia.org/resource/Train_(album),http://dbpedia.org/resource/Wolf_Lady http://dbpedia.org/resource/Train_(Goldfrapp_song)
+0,171,Tragedy,http://dbpedia.org/resource/Tragedy_(Bee_Gees_song),http://dbpedia.org/resource/Tragedy_(Hanoi_Rocks_song)
+0,173,Traffic,http://dbpedia.org/resource/Traffic_(Traffic_album),http://dbpedia.org/resource/Traffic_(Stereophonics_song)
+0,174,Tracy,http://dbpedia.org/resource/Tracy_(Mogwai_song),http://dbpedia.org/resource/Tracy_(Cuff_Links_song) http://dbpedia.org/resource/Tracy_(The_Cuff_Links_song)

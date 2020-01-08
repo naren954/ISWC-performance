@@ -1,0 +1,8 @@
+"F1: 0.53846","Precision: 0.53846","Recall: 0.53846"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","1","Be With You","http://dbpedia.org/resource/Be_with_You_(The_Bangles_song)","http://dbpedia.org/resource/Be_With_You_(Erasure_song) http://dbpedia.org/resource/Be_with_You_(Erasure_song)"
+"1","2","Price of Love","http://dbpedia.org/resource/The_Price_of_Love","http://dbpedia.org/resource/Price_of_Love_(Bad_English_song)"
+"1","8","I Hate You Then I Love You","http://dbpedia.org/resource/Hate_That_I_Love_You","http://dbpedia.org/resource/I_Hate_You_Then_I_Love_You"
+"1","9","Automatic","http://dbpedia.org/resource/Automatic_(Prince_song)","http://dbpedia.org/resource/Automatic_(Sarah_Whatmore_song)"
+"1","10","Tell Me Why","http://dbpedia.org/resource/Tell_Me_Why_(Wynonna_Judd_song)","http://dbpedia.org/resource/Tell_Me_Why_(Expose_song) http://dbpedia.org/resource/Tell_Me_Why_(Exposé_song)"
+"1","11","Ordinary","http://it.dbpedia.org/resource/Ordinary","http://dbpedia.org/resource/Ordinary_(Train_song)"

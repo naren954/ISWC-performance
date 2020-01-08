@@ -1,0 +1,4 @@
+F1: 0.89474,Precision: 0.89474,Recall: 0.89474,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,6,Ã\u0093scar Ustari,http://dbpedia.org/resource/University_of_South_Carolina,http://dbpedia.org/resource/Óscar_Ustari
+2,20,Cabral,http://dbpedia.org/resource/Luciano_Cabral,http://dbpedia.org/resource/Adilson_Tavares_Varela http://dbpedia.org/resource/Adilson_Tavares http://dbpedia.org/resource/Cabral_(footballer)

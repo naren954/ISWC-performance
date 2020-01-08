@@ -1,0 +1,5 @@
+F1: 0.80000,Precision: 0.80000,Recall: 0.80000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,6,Herb Wakabayashi,http://dbpedia.org/resource/Takeo_Wakabayashi,http://dbpedia.org/resource/Herb_Wakabayashi
+1,8,Joe Cavanagh,http://dbpedia.org/resource/Tom_Cavanagh_(ice_hockey),http://dbpedia.org/resource/Joe_Cavanagh
+1,14,Bob Miller,http://dbpedia.org/resource/Bob_Miller_(basketball),http://dbpedia.org/resource/Bob_Miller_(hockey_player) http://dbpedia.org/resource/Bob_Miller_(ice_hockey)

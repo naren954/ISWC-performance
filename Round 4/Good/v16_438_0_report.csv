@@ -1,0 +1,28 @@
+F1: 0.85057,Precision: 0.85057,Recall: 0.85057,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,7,Welcome to the World,http://dbpedia.org/resource/Welcome_to_the_World_(Noiseworks_song),http://dbpedia.org/resource/Welcome_to_the_World_(song) http://dbpedia.org/resource/Welcome_to_the_World_(Kevin_Rudolf_song) http://dbpedia.org/resource/Welcome_to_the_World(song)
+0,24,Weight of the World,http://dbpedia.org/resource/Weight_of_the_World_(Evanescence_song),http://dbpedia.org/resource/Weight_of_the_World_(Lemar_song)
+0,27,Weekends,http://dbpedia.org/resource/Weekends_(The_Black_Eyed_Peas_song),http://dbpedia.org/resource/Weekends! http://dbpedia.org/resource/WEEKENDS!!! http://dbpedia.org/resource/Weekends_(Skrillex_song)
+0,29,Weekend,http://dbpedia.org/resource/Weekend_(Kenny_Lattimore_album),http://dbpedia.org/resource/Weekend!_(Scooter_song) http://dbpedia.org/resource/Weekend_(Earth_and_Fire_song) http://dbpedia.org/resource/Weekend!_(Earth_and_Fire_song)
+0,30,Week,http://dbpedia.org/resource/Week_End_(X_Japan_song),http://dbpedia.org/resource/Week! http://dbpedia.org/resource/Week_(Do_As_Infinity_song) http://dbpedia.org/resource/Week!_(Do_As_Infinity)
+0,40,Weak,http://dbpedia.org/resource/Weak_(Skunk_Anansie_song),http://dbpedia.org/resource/Weak_(SWV_song)
+0,63,We Ride,http://dbpedia.org/resource/We_Ride,http://dbpedia.org/resource/We_Ride_((I_See_the_Future)) http://dbpedia.org/resource/We_Ride_(I_See_The_Future) http://dbpedia.org/resource/We_Ride_(I_See_the_Future) http://dbpedia.org/resource/We_Ride_(Mary_J._Blige_song)
+0,72,We Love You,http://dbpedia.org/resource/We_Love_You,http://dbpedia.org/resource/We_Love_You_(OMD_song)
+0,79,We Got the Power,http://dbpedia.org/resource/We_Got_the_Power_(Loreen_song),http://dbpedia.org/resource/We_Got_the_Power http://dbpedia.org/resource/We_Got_The_Power
+0,84,We Don't Need Another Hero,http://dbpedia.org/resource/Another_Brick_in_the_Wall,http://dbpedia.org/resource/We_Don't_Need_Another_Hero_(Northern_Kings_version) http://dbpedia.org/resource/We_Don't_Need_Another_Hero_(Thunderdome) http://dbpedia.org/resource/We_Don't_Need_Another_Hero http://dbpedia.org/resource/We_don´t_need_another_hero
+0,97,We Can Work It Out,http://dbpedia.org/resource/We_Can_Work_It_Out_(Sweetbox_song),http://dbpedia.org/resource/We_can_work_it_out http://dbpedia.org/resource/We_Can't_Work_It_Out http://dbpedia.org/resource/We_Can_Work_It_Out http://dbpedia.org/resource/We_Can_Work_It_Out_(The_Beatles_song)
+0,102,We Can,http://dbpedia.org/resource/Yes_We_Can_(will.i.am_song),http://dbpedia.org/resource/We_Can_(song) http://dbpedia.org/resource/We_Can http://dbpedia.org/resource/We_Can_(LeAnn_Rimes_song)
+0,108,We Are the World,http://dbpedia.org/resource/We_Are_the_World,http://dbpedia.org/resource/We_Are_the_World_(Twenty_4_Seven_song)
+0,111,We Are the People,http://dbpedia.org/resource/We_Are_the_People_(Feeder_song),http://dbpedia.org/resource/We_are_the_People_(Empire_of_the_Sun_song) http://dbpedia.org/resource/We_Are_the_People_(Empire_of_the_Sun_song)
+0,120,We Are,http://dbpedia.org/resource/We_Are._(Do_As_Infinity_song),http://dbpedia.org/resource/We_Are_(Hollywood_Undead_song) http://dbpedia.org/resource/We_Are_(Hollywood_Undead_Song)
+0,136,We're Not Gonna Take It,"http://dbpedia.org/resource/See_Me,_Feel_Me",http://dbpedia.org/resource/We're_Not_Gonna_Take_It_(Twisted_Sister) http://dbpedia.org/resource/We're_Not_Gonna_Take_It_(Twisted_Sister_song)
+0,137,We're Not Gonna Take It,"http://dbpedia.org/resource/See_Me,_Feel_Me",http://dbpedia.org/resource/We're_Not_Gonna_Take_It_(The_Who) http://dbpedia.org/resource/We're_Not_Gonna_Take_It_(The_Who_song)
+0,143,We'll Be Together,http://dbpedia.org/resource/We'll_Be_Together_(Sting_song),http://dbpedia.org/resource/We'll_Be_Together_(Sandra_song)
+0,149,Way Out West,http://dbpedia.org/resource/Way_Out_West_(Mae_West_album),http://dbpedia.org/resource/Way_Out_West_(The_Dingoes_song)
+0,151,Way Out,http://dbpedia.org/resource/Way_Out_(Roxette_song),http://dbpedia.org/resource/Way_Out_(The_La's_song)
+0,156,Waves,http://dbpedia.org/resource/In_Waves,http://dbpedia.org/resource/Waves_(Mr_Probz_song) http://dbpedia.org/resource/Waves_(Mr._Probz_song) http://dbpedia.org/resource/Waves_(Robin_Schulz_Remix)
+0,160,Waterfalls,http://dbpedia.org/resource/Waterfalls_(TLC_song),http://dbpedia.org/resource/Waterfalls_(Timomatic_song)
+0,162,Waterfalls,http://dbpedia.org/resource/Waterfalls_(TLC_song),http://dbpedia.org/resource/Waterfalls_(Paul_McCartney_song)
+0,164,Waterfall,http://dbpedia.org/resource/Waterfall_(The_Stone_Roses_song),http://dbpedia.org/resource/Waterfall_(Carly_Simon_song)
+0,169,Water and a Flame,,http://dbpedia.org/resource/Water_and_a_Flame
+0,172,Water,http://dbpedia.org/resource/Water_supply,http://dbpedia.org/resource/Water_(Brad_Paisley_song)

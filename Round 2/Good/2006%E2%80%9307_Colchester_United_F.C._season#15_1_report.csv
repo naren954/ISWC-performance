@@ -1,0 +1,5 @@
+F1: 0.82353,Precision: 0.82353,Recall: 0.82353,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,3,Chris Barker,http://dbpedia.org/resource/Chris_Barker_(American_football),http://dbpedia.org/resource/Chris_Barker
+1,4,Wayne Brown,"http://dbpedia.org/resource/Wayne_Brown_(defender,_born_1977)","http://dbpedia.org/resource/Wayne_Brown_(footballer_born_August_1977) http://dbpedia.org/resource/Wayne_Brown_(defender) http://dbpedia.org/resource/Wayne_Brown_(footballer,_born_August_1977)"
+1,14,Johnnie Jackson,http://dbpedia.org/resource/Johnnie_Jackson_(American_football),http://dbpedia.org/resource/Johnnie_Jackson

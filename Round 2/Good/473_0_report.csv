@@ -1,0 +1,6 @@
+F1: 0.88889,Precision: 0.88889,Recall: 0.88889,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,4,Phyllis,http://dbpedia.org/resource/Phyllis_Hyman_(album),"http://dbpedia.org/resource/Mother_Dexter http://dbpedia.org/resource/Sally_""Mother""_Dexter http://dbpedia.org/resource/Phyllis_(TV_series)"
+0,21,Kitani Mohabbat Hai,http://dbpedia.org/resource/Yeh_Jo_Mohabbat_Hai,http://dbpedia.org/resource/Kitani_Mohabbat_Hai_Season_2 http://dbpedia.org/resource/Kitani_Mohabbat_Hai_(season_2)
+0,30,How to Marry a Millionaire,http://dbpedia.org/resource/How_to_Marry_a_Millionaire,http://dbpedia.org/resource/How_to_Marry_a_Millionaire_(TV_series)
+0,32,"Herbie, the Love Bug",http://dbpedia.org/resource/The_Love_Bug,"http://dbpedia.org/resource/Herbie,_the_Love_Bug http://dbpedia.org/resource/Herbie_the_Matchmaker"

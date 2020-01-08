@@ -1,0 +1,8 @@
+"F1: 0.64706","Precision: 0.64706","Recall: 0.64706"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","5","Greg Smith","http://dbpedia.org/resource/Greg_Smith_(Paralympian)","http://dbpedia.org/resource/Greg_Smith_(film_producer)"
+"1","7","Sheldon Reynolds","http://dbpedia.org/resource/Sheldon_Reynolds_(guitarist)","http://dbpedia.org/resource/Sheldon_Reynolds_(producer)"
+"1","9","Mike Stephens","http://dbpedia.org/resource/Maurice_Michael_Stephens","http://dbpedia.org/resource/Mike_Stephens"
+"1","11","Paul Coyne","http://dbpedia.org/resource/Tom_Coyne_(music_engineer)","http://dbpedia.org/resource/Paul_Coyne"
+"1","16","Mukesh Khanna","http://dbpedia.org/resource/Mukesh_(singer)","http://dbpedia.org/resource/Mukesh_Khanna"
+"1","17","Spencer Proffer","http://dbpedia.org/resource/Ellendea_Proffer","http://dbpedia.org/resource/Spencer_Proffer"

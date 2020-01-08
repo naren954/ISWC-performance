@@ -1,0 +1,5 @@
+"F1: 0.86364","Precision: 0.86364","Recall: 0.86364"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"2","3","Lerkendal, Trondheim","http://dbpedia.org/resource/Trondheim_Central_Station","http://dbpedia.org/resource/Lerkendal http://dbpedia.org/resource/Lerkendal,_Trondheim"
+"2","4","Eureka Station","http://dbpedia.org/resource/Eureka,_California","http://dbpedia.org/resource/Eureka_Station"
+"2","9","Etterstad","nan","http://dbpedia.org/resource/Etterstad"

@@ -1,0 +1,5 @@
+F1: 0.72727,Precision: 0.72727,Recall: 0.72727,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,29,My Love Is Your Love,http://dbpedia.org/resource/My_Love_Is_Your_Love_(song),http://dbpedia.org/resource/You'll_Never_Stand_Alone http://dbpedia.org/resource/Until_You_Come_Back http://dbpedia.org/resource/My_Love_is_Your_Love http://dbpedia.org/resource/My_Love_Is_Your_Love
+1,34,Mary,"http://dbpedia.org/resource/Mary,_Mary_(song)",http://dbpedia.org/resource/Mary_(MJB_album) http://dbpedia.org/resource/Mary_(Mary_J._Blige_album) http://dbpedia.org/resource/Mary(MJB_Album)
+1,38,Nexus,http://dbpedia.org/resource/Nexus_(Gene_Harris_album),http://dbpedia.org/resource/Nexus_(1999) http://dbpedia.org/resource/Nexus_(Another_Level_album)

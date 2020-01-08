@@ -1,0 +1,17 @@
+F1: 0.73684,Precision: 0.73684,Recall: 0.73684,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,1,J. Bohr,http://dbpedia.org/resource/Niels_Bohr,http://dbpedia.org/resource/Jose_Bohr http://dbpedia.org/resource/José_Bohr
+2,4,A. Lau,http://dbpedia.org/resource/Andy_Lau,http://dbpedia.org/resource/Lau_Wai-keung http://dbpedia.org/resource/Andrew_Lau http://dbpedia.org/resource/Andrew_Lau_Wai-Keung http://dbpedia.org/resource/劉偉強 http://dbpedia.org/resource/Lau_Wai_Keung http://dbpedia.org/resource/Andrew_Lau_Wai_Keung http://dbpedia.org/resource/Wai_Keung_Lau http://dbpedia.org/resource/Wai-keung_Lau
+2,5,M. M. Ginsberg,http://dbpedia.org/resource/Donald_Ginsberg,"http://dbpedia.org/resource/""Milton_Moses_Ginsberg"" http://dbpedia.org/resource/Milton_Moses_Ginsberg"
+2,6,S. Lang,http://dbpedia.org/resource/Fritz_Lang,http://dbpedia.org/resource/Samantha_Lang
+2,12,A. Lee,http://dbpedia.org/resource/Stan_Lee,http://dbpedia.org/resource/李安 http://dbpedia.org/resource/Thrilla_in_Manilla_(film) http://dbpedia.org/resource/Ang_lee http://dbpedia.org/resource/Li_An http://dbpedia.org/resource/Thrilla_in_Manila_(film) http://dbpedia.org/resource/Ang_Lee http://dbpedia.org/resource/Lǐ_Ān http://dbpedia.org/resource/Lee_Ang
+2,19,C. McQuarrie,http://dbpedia.org/resource/Ralph_McQuarrie,http://dbpedia.org/resource/Christopher_McQuarrie http://dbpedia.org/resource/The_Booth_(film) http://dbpedia.org/resource/Chris_McQuarrie http://dbpedia.org/resource/Ice_Station_Zebra_(2014_film) http://dbpedia.org/resource/Booth_(film) http://dbpedia.org/resource/The_Rubicon_(film) http://dbpedia.org/resource/Ice_Station_Zebra_(2015_film) http://dbpedia.org/resource/Rubicon_(film)
+2,21,L. King,http://dbpedia.org/resource/William_Lyon_Mackenzie_King,http://dbpedia.org/resource/Louis_King
+2,22,A. V. McLaglen,http://dbpedia.org/resource/Victor_McLaglen,http://dbpedia.org/resource/Andrew_V._MacLaglen http://dbpedia.org/resource/Andrew_V._McLaglen http://dbpedia.org/resource/Andrew_Victor_MacLaglen http://dbpedia.org/resource/Andrew_McLaglen http://dbpedia.org/resource/Andrew_V_McLaglen http://dbpedia.org/resource/Andrew_MacLaglen http://dbpedia.org/resource/Andrew_Victor_McLaglen http://dbpedia.org/resource/Andrew_V_MacLaglen
+2,29,B. Mays,http://dbpedia.org/resource/Billy_Mays,http://dbpedia.org/resource/Brad_Mays http://dbpedia.org/resource/Bradford_Mays
+2,30,J. Russell,http://dbpedia.org/resource/John_Russell_(actor),http://dbpedia.org/resource/Jay_Russell http://dbpedia.org/resource/Jay_W._Russell
+2,33,W. Hill,http://dbpedia.org/resource/Jacqueline_Hill,http://dbpedia.org/resource/Walter_Hill_(filmmaker) http://dbpedia.org/resource/Walter_Hill_(Film_Director) http://dbpedia.org/resource/Walter_Hill_(director)
+2,46,L. Mendes,http://dbpedia.org/resource/Sam_Mendes,http://dbpedia.org/resource/Lothar_Mendes
+2,47,J. Sturges,http://dbpedia.org/resource/Preston_Sturges,http://dbpedia.org/resource/John_Sturges
+2,48,J. P. Morgan,http://dbpedia.org/resource/J._P._Morgan,http://dbpedia.org/resource/Judson_Pearce_Morgan
+2,54,M. Gill,http://dbpedia.org/resource/Michel_Gill,http://dbpedia.org/resource/Mark_Gill http://dbpedia.org/resource/Mark_Gill_(filmmaker) http://dbpedia.org/resource/Mark_Gill_(film_maker)

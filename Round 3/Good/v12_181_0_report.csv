@@ -1,0 +1,37 @@
+F1: 0.79769,Precision: 0.79769,Recall: 0.79769,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,Yukon Gold,http://dbpedia.org/resource/Yukon_Gold_(film),http://dbpedia.org/resource/Yukon_Gold_(1952_film)
+0,5,Yugandhar,http://dbpedia.org/resource/Yugandhar_(1993_film),http://dbpedia.org/resource/Yugandhar
+0,18,Youth,http://dbpedia.org/resource/Youth_(Collective_Soul_album),http://dbpedia.org/resource/Youth_(2015_film) http://dbpedia.org/resource/La_Giovinezza http://dbpedia.org/resource/The_Early_Years_(film)
+0,21,"Yours, Mine and Ours","http://dbpedia.org/resource/Yours,_Mine_&_Ours_(2005_film)","http://dbpedia.org/resource/Yours,_Mine_and_Ours_(1968_film)"
+0,29,Your Name,http://dbpedia.org/resource/For_Your_Eyes_Only_(film),http://dbpedia.org/resource/Kimi_no_Na_wa http://dbpedia.org/resource/君の名は。 http://dbpedia.org/resource/Kimi_no_Na_wa. http://dbpedia.org/resource/Your_Name http://dbpedia.org/resource/Your_name.
+0,33,Younger and Younger,http://dbpedia.org/resource/James–Younger_Gang,http://dbpedia.org/resource/Younger_and_Younger http://dbpedia.org/resource/Younger_&_Younger
+0,36,Youngblood,http://dbpedia.org/resource/Youngblood_(1986_film),http://dbpedia.org/resource/Youngblood_(1978_film)
+0,37,Young at Heart,http://dbpedia.org/resource/Young_at_Heart_(1995_film),http://dbpedia.org/resource/Young_at_Heart_(1954_film) http://dbpedia.org/resource/Young_at_Heart_(1955_film)
+0,38,Young as You Feel,http://dbpedia.org/resource/As_Young_as_You_Feel,http://dbpedia.org/resource/Young_as_You_Feel_(1940_film)
+0,39,Young as You Feel,http://dbpedia.org/resource/As_Young_as_You_Feel,http://dbpedia.org/resource/Young_as_You_Feel_(1931_film)
+0,41,Young and Wild,http://dbpedia.org/resource/Young_and_Wild_(1958_film),http://dbpedia.org/resource/Joven_y_alocada http://dbpedia.org/resource/Joven_y_Alocada http://dbpedia.org/resource/Young_and_Wild_(2012_film) http://dbpedia.org/resource/Joven_&_Alocada
+0,47,Young and Dangerous,http://dbpedia.org/resource/Young_and_Dangerous_(1957_film),"http://dbpedia.org/resource/Young_and_Dangerous_(film) http://dbpedia.org/resource/Young_and_Dangerous http://dbpedia.org/resource/Young_and_Dangerous_1 http://dbpedia.org/resource/Young_and_Dangerous,_Part_I"
+0,48,Young and Beautiful,http://dbpedia.org/resource/Young_&_Beautiful,http://dbpedia.org/resource/Young_and_Beautiful_(1934_film) http://dbpedia.org/resource/Young_and_Beautiful_(film)
+0,49,Young Woodley,http://dbpedia.org/resource/Young_Woodley_(1931_film),http://dbpedia.org/resource/Young_Woodley_(1930_film)
+0,56,Young Sinners,http://dbpedia.org/resource/Young_Sinners_(1958_film),http://dbpedia.org/resource/Young_Sinners
+0,57,Young Sherlocks,http://dbpedia.org/resource/Young_Sherlock_Holmes,http://dbpedia.org/resource/Young_Sherlocks
+0,61,Young People,http://dbpedia.org/resource/VYP_(Voice_of_the_Young_People),http://dbpedia.org/resource/Young_People_(1972_film)
+0,62,Young People,http://dbpedia.org/resource/VYP_(Voice_of_the_Young_People),http://dbpedia.org/resource/Los_jóvenes http://dbpedia.org/resource/Los_jovenes http://dbpedia.org/resource/Los_Jovenes http://dbpedia.org/resource/Young_People_(1961_film)
+0,73,Young Hearts,http://dbpedia.org/resource/Young_Hearts_(1953_film),http://dbpedia.org/resource/Junge_Herzen http://dbpedia.org/resource/Young_Hearts_(1944_film)
+0,77,Young Gods,,http://dbpedia.org/resource/Hymypoika http://dbpedia.org/resource/Young_Gods_(film)
+0,91,Young America,http://dbpedia.org/resource/The_Young_Americans_(film),http://dbpedia.org/resource/Young_America_(1942_film)
+0,92,Young America,http://dbpedia.org/resource/The_Young_Americans_(film),http://dbpedia.org/resource/Young_America_(1932_film)
+0,96,You for Me,http://dbpedia.org/resource/Now_You_See_Me_(film_series),http://dbpedia.org/resource/You_for_Me
+0,98,You and Me,http://dbpedia.org/resource/Now_You_See_Me_(film_series),http://dbpedia.org/resource/You_and_Me_(2005_film) http://dbpedia.org/resource/Wo_men_lia
+0,99,You and Me,http://dbpedia.org/resource/Now_You_See_Me_(film_series),http://dbpedia.org/resource/You_and_Me_(1938_film)
+0,100,You and I,http://dbpedia.org/resource/You_and_I_(Lady_Gaga_song),http://dbpedia.org/resource/You_and_I_(1938_film) http://dbpedia.org/resource/Du_und_ich
+0,114,You Only Live Once,http://dbpedia.org/resource/You_Only_Live_Once_(1937_film),http://dbpedia.org/resource/You_Only_Live_Once_(film)
+0,117,You Never Can Tell,http://dbpedia.org/resource/You_Never_Can_Tell_(1951_film),http://dbpedia.org/resource/You_Never_Can_Tell_(1920_film)
+0,119,You Must Be Joking!,http://dbpedia.org/resource/You_Must_Be_Joking!_(1965_film),http://dbpedia.org/resource/You_Must_Be_Joking!_(1986_film)
+0,131,You I Love,"http://dbpedia.org/resource/I_Love_You,_I_Love_You_Not",http://dbpedia.org/resource/You_I_Love http://dbpedia.org/resource/Ya_Lyublyu_Tebya http://dbpedia.org/resource/You_I_love
+0,132,You Have to be Beautiful,http://dbpedia.org/resource/You_Have_to_Be_Beautiful,http://dbpedia.org/resource/Schön_muß_man_sein http://dbpedia.org/resource/You_Have_to_be_Beautiful
+0,135,You Got Served: Beat the World,http://dbpedia.org/resource/Beat_the_World,http://dbpedia.org/resource/You_Got_Served:_Beat_the_World http://dbpedia.org/resource/You_Got_Served:_Beat_The_World
+0,152,You Can't Fool Your Wife,http://dbpedia.org/resource/You_Can't_Fool_Your_Wife,http://dbpedia.org/resource/You_Can't_Fool_Your_Wife_(1923_film)
+0,160,You Belong to Me,http://dbpedia.org/resource/You_Belong_to_Me_(1941_film),http://dbpedia.org/resource/You_Belong_to_Me_(1934_film)
+0,172,You're the One,http://dbpedia.org/resource/You're_the_One_(Dwight_Yoakam_song),http://dbpedia.org/resource/You're_the_One_(1941_film)

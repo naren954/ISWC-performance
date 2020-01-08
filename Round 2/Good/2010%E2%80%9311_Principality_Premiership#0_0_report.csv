@@ -1,0 +1,5 @@
+F1: 0.78571,Precision: 0.78571,Recall: 0.78571,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,Bedwas,http://dbpedia.org/resource/Bedwas_RFC,http://dbpedia.org/resource/Bedwas
+0,4,Carmarthen Quins,http://dbpedia.org/resource/Carmarthen_Town_A.F.C.,http://dbpedia.org/resource/Carmarthen_Quins_RFC http://dbpedia.org/resource/Carmarthen_Quins http://dbpedia.org/resource/Carmarthen_RFC
+0,14,Tonmawr RFC,http://dbpedia.org/resource/Neath_RFC,http://dbpedia.org/resource/Tonmawr_RFC

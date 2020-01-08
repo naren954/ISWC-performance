@@ -1,0 +1,4 @@
+F1: 0.98291,Precision: 0.98291,Recall: 0.98291,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,18,Iris,http://dbpedia.org/resource/Donnie_Iris,http://dbpedia.org/resource/Iris_(synthpop) http://dbpedia.org/resource/Iris_(American_band) http://dbpedia.org/resource/Hydra_(Iris_Album) http://dbpedia.org/resource/Reconnect_(Iris_album) http://dbpedia.org/resource/Iris_(Texas_band) http://dbpedia.org/resource/Iris_(electropop_band) http://dbpedia.org/resource/Forgiving_Iris
+1,67,Iris,http://dbpedia.org/resource/Donnie_Iris,http://dbpedia.org/resource/Iris_(singer)

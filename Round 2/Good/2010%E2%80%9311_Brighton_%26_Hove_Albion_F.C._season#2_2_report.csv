@@ -1,0 +1,4 @@
+F1: 0.93750,Precision: 0.93750,Recall: 0.93750,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,24,Jamie Smith,"http://dbpedia.org/resource/Jamie_Smith_(footballer,_born_1980)","http://dbpedia.org/resource/Jamie_Smith_(football,_born_1989) http://dbpedia.org/resource/Jamie_Smith_(football_player,_born_1989) http://dbpedia.org/resource/Jamie_Smith_(footballer,_born_1989) http://dbpedia.org/resource/Jamie_Smith_(footballer_born_1989) http://dbpedia.org/resource/Jamie_P_Smith http://dbpedia.org/resource/Jamie_P._Smith http://dbpedia.org/resource/Jamie_Peter_Smith"
+2,30,Steve Cook,http://dbpedia.org/resource/Steve_Cook,http://dbpedia.org/resource/Steve_Cook_(footballer)

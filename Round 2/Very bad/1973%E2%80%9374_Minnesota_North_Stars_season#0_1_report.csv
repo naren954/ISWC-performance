@@ -1,0 +1,9 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,Philadelphia Flyers,http://dbpedia.org/resource/Philadelphia,http://dbpedia.org/resource/1973–74_Philadelphia_Flyers_season
+1,2,Chicago Black Hawks,http://dbpedia.org/resource/Chicago_Blackhawks,http://dbpedia.org/resource/1973–74_Chicago_Black_Hawks_season
+1,3,Los Angeles Kings,"http://dbpedia.org/resource/Los_Ángeles,_Chile",http://dbpedia.org/resource/1973–74_Los_Angeles_Kings_season
+1,4,Atlanta Flames,http://dbpedia.org/resource/Atlanta,http://dbpedia.org/resource/1973–74_Atlanta_Flames_season
+1,5,Pittsburgh Penguins,http://dbpedia.org/resource/Pittsburgh_Penguins,http://dbpedia.org/resource/1973–74_Pittsburgh_Penguins_season
+1,6,St. Louis Blues,http://dbpedia.org/resource/Saint_Louis_Blues_(song),http://dbpedia.org/resource/1973–74_St._Louis_Blues_season
+1,8,California Golden Seals,http://dbpedia.org/resource/California_Golden_Bears,http://dbpedia.org/resource/1973–74_California_Golden_Seals_season

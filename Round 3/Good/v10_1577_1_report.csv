@@ -1,0 +1,16 @@
+F1: 0.80282,Precision: 0.80282,Recall: 0.80282,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,12,K. Mann,http://dbpedia.org/resource/Brotha_Lynch_Hung,http://dbpedia.org/resource/Kal_Mann
+1,23,B. Anderson,http://dbpedia.org/resource/Benny_Andersson,http://dbpedia.org/resource/Bill_Anderson_(country_music) http://dbpedia.org/resource/Whisperin'_Bill_Anderson http://dbpedia.org/resource/Bill_Anderson_(singer) http://dbpedia.org/resource/James_William_(Bill)_Anderson_III
+1,24,R. Wood,http://dbpedia.org/resource/Ronnie_Wood,http://dbpedia.org/resource/Roy_Wood_(musician) http://dbpedia.org/resource/Roy_Wood
+1,26,"W. "". Stevenson",http://dbpedia.org/resource/B._W._Stevenson,"http://dbpedia.org/resource/Avery_Vandenburg http://dbpedia.org/resource/William_""Mickey""_Stevenson http://dbpedia.org/resource/Mickey_Stevenson"
+1,28,P. Bunch,http://dbpedia.org/resource/John_Bunch,http://dbpedia.org/resource/Pat_Bunch
+1,32,Jagger/Richards,http://dbpedia.org/resource/Keith_Richards,http://dbpedia.org/resource/Glimmer_Twins http://dbpedia.org/resource/The_Glimmer_Twins http://dbpedia.org/resource/Richards/Jagger http://dbpedia.org/resource/Mick_Jagger/Keith_Richards http://dbpedia.org/resource/Jagger/Richards
+1,35,T. Wilburys,http://dbpedia.org/resource/Jeff_Lynne,http://dbpedia.org/resource/Travelling_Wilburrys http://dbpedia.org/resource/Wilburys http://dbpedia.org/resource/Travelling_Wilburies http://dbpedia.org/resource/The_wilburys http://dbpedia.org/resource/Travelling_Willburys http://dbpedia.org/resource/Wilbury_Records http://dbpedia.org/resource/Wilbury http://dbpedia.org/resource/The_Travelling_Wilburys http://dbpedia.org/resource/The_wilbury http://dbpedia.org/resource/The_Traveling_Wilburys http://dbpedia.org/resource/Traveling_Willburys http://dbpedia.org/resource/Traveling_Wilbuys http://dbpedia.org/resource/The_Wilburys http://dbpedia.org/resource/Traveling_Wilburys http://dbpedia.org/resource/Travelling_Wilburys
+1,37,M. Chapman,http://dbpedia.org/resource/Michael_Chapman_(singer),http://dbpedia.org/resource/Mike_Chapman http://dbpedia.org/resource/Mike_Chapman_(musician) http://dbpedia.org/resource/Mike_Chapman_(record_producer)
+1,38,S. Gibson,http://dbpedia.org/resource/Debbie_Gibson,http://dbpedia.org/resource/Susan_Gibson
+1,43,K. Brooks,http://dbpedia.org/resource/Karen_Brooks,http://dbpedia.org/resource/Kix_Brooks
+1,52,R. Leigh,http://dbpedia.org/resource/Mike_Leigh,http://dbpedia.org/resource/Richard_Leigh_(songwriter)
+1,60,R. Sharp,http://dbpedia.org/resource/Rosemary_Sharp,http://dbpedia.org/resource/Randy_Sharp
+1,67,T. Thomas,http://dbpedia.org/resource/Theodore_Thomas_(conductor),http://dbpedia.org/resource/Timmy_Thomas
+1,68,H. R. Brown,http://dbpedia.org/resource/Lester_R._Brown,http://dbpedia.org/resource/Harold_Brown_(music) http://dbpedia.org/resource/Harold_Brown_(musician) http://dbpedia.org/resource/Harold_Ray_Brown

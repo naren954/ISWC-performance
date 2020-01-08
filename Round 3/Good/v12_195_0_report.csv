@@ -1,0 +1,12 @@
+F1: 0.82143,Precision: 0.82143,Recall: 0.82143,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,5,Welcome to the Jungle,http://dbpedia.org/resource/The_Rundown,http://dbpedia.org/resource/Cannibals_–_Welcome_to_the_Jungle http://dbpedia.org/resource/Cannibals_-_Welcome_to_the_Jungle http://dbpedia.org/resource/Welcome_to_the_Jungle_(2007_film)
+0,23,Welcome Stranger,http://dbpedia.org/resource/Welcome_Stranger_(1947_film),http://dbpedia.org/resource/Welcome_Stranger_(film)
+0,26,Welcome Home,"http://fr.dbpedia.org/resource/Welcome_Home_(film,_2014)",http://dbpedia.org/resource/Welcome_Home_(1935_film)
+0,28,Welcome Back,http://dbpedia.org/resource/Welcome_Back_Gandhi,http://dbpedia.org/resource/Welcome_Back_(film) http://dbpedia.org/resource/Welcome_Back_(Hindi_film)
+0,31,Welcome,http://dbpedia.org/resource/Welcome_(Santana_album),http://dbpedia.org/resource/Derya_Ayverdi http://dbpedia.org/resource/Welcome_(2009_film)
+0,36,Weightless,http://dbpedia.org/resource/Song_to_Song,http://dbpedia.org/resource/Terrence_Malick_Untitled_Project http://dbpedia.org/resource/Untitled_Terrence_Malick_project http://dbpedia.org/resource/Weightless_(2016_film) http://dbpedia.org/resource/Untitled_Terrence_Malick_Project http://dbpedia.org/resource/Untitled_Terrence_Malick_Musical_Drama http://dbpedia.org/resource/Untitled_Terrence_Malick_film http://dbpedia.org/resource/Weightless_(film)
+0,44,Weekend in Paradise,http://dbpedia.org/resource/Weekend_in_Paradise_(1952_film),http://dbpedia.org/resource/Weekend_in_Paradise_(1931_film) http://dbpedia.org/resource/Weekend_in_Paradise http://dbpedia.org/resource/Wochenend_im_Paradies
+0,49,Weekend,http://dbpedia.org/resource/The_Weekend_(Homeland),http://dbpedia.org/resource/Weekend_(2011_British_film) http://dbpedia.org/resource/Weekend_(2011_film)
+0,50,Weekend,http://dbpedia.org/resource/The_Weekend_(Homeland),http://dbpedia.org/resource/Weekend_(1967_film) http://dbpedia.org/resource/Week_End_(1967_film)
+0,55,Weeds,http://dbpedia.org/resource/Weeds_(TV_series),http://dbpedia.org/resource/Weeds_(film)

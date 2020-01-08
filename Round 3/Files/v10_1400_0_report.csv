@@ -1,0 +1,4 @@
+"F1: 0.88235","Precision: 0.88235","Recall: 0.88235"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","5","A. Jones","http://dbpedia.org/resource/Andrew_Jones_(racing_driver)","http://dbpedia.org/resource/Adam_Jones_(auto_racing) http://dbpedia.org/resource/Adam_Jones_(racing_driver)"
+"0","15","Á. Smith","http://dbpedia.org/resource/Toby_Smith_(rugby_union)","http://dbpedia.org/resource/Árón_Smith http://dbpedia.org/resource/Aron_Smith"

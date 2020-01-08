@@ -1,0 +1,5 @@
+"F1: 0.88889","Precision: 0.88889","Recall: 0.88889"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"2","2","Tom Minton","http://dbpedia.org/resource/Robert_Minton","http://dbpedia.org/resource/Tom_Minton"
+"2","14","Max Siegel","http://dbpedia.org/resource/Don_Siegel","http://dbpedia.org/resource/Max_Siegel_(Executive) http://dbpedia.org/resource/Max_Siegel http://dbpedia.org/resource/Max_Siegel_(executive)"
+"2","22","Norm Prescott","http://dbpedia.org/resource/William_H._Prescott","http://dbpedia.org/resource/Norman_Prescott http://dbpedia.org/resource/Norm_Prescott"

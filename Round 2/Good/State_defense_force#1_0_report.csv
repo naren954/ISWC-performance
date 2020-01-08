@@ -1,0 +1,6 @@
+F1: 0.80952,Precision: 0.80952,Recall: 0.80952,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,9,Mississippi State Guard[64],http://dbpedia.org/resource/Mississippi_Army_National_Guard,http://dbpedia.org/resource/Mississippi_State_Guard
+0,10,New York Guard[76],http://dbpedia.org/resource/United_States,http://dbpedia.org/resource/New_York_State_militia http://dbpedia.org/resource/New_York_Guard http://dbpedia.org/resource/New_York_State_Guard http://dbpedia.org/resource/New_York_State_Militia http://dbpedia.org/resource/New_York_Militia http://dbpedia.org/resource/New_York_militia
+0,18,Texas State Guard[3],http://dbpedia.org/resource/United_States,http://dbpedia.org/resource/Texas_State_Guard http://dbpedia.org/resource/Texas_State_Guardsmen http://dbpedia.org/resource/State_Guard_of_Texas http://dbpedia.org/resource/Texas_medical_rangers http://dbpedia.org/resource/Texas_State_Guard_Maritime_Regiment
+0,22,Washington State Guard[102],http://dbpedia.org/resource/United_States,http://dbpedia.org/resource/Washington_State_Guard

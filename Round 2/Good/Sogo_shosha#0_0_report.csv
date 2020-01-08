@@ -1,0 +1,3 @@
+F1: 0.85714,Precision: 0.85714,Recall: 0.85714,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Mitsubishi,http://dbpedia.org/resource/Mitsubishi_Motors,http://dbpedia.org/resource/Mitsubishi_Corporation http://dbpedia.org/resource/Mitsubishi_Corp http://dbpedia.org/resource/Mitsubishi_Corporation_(Americas)

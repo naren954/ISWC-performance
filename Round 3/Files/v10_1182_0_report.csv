@@ -1,0 +1,7 @@
+"F1: 0.61538","Precision: 0.61538","Recall: 0.61538"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","1","K. Grant","http://fr.dbpedia.org/resource/Kenny_Grant","http://dbpedia.org/resource/Keshia_Grant"
+"0","2","K. Grant","http://fr.dbpedia.org/resource/Kenny_Grant","http://dbpedia.org/resource/Katrina_Grant"
+"0","3","K. Bailey","http://dbpedia.org/resource/Kyle_Bailey_(basketball)","http://dbpedia.org/resource/Karyn_Howarth http://dbpedia.org/resource/Karyn_Bailey"
+"0","7","E. Scheres","http://de.dbpedia.org/resource/Ben_Scheres","http://dbpedia.org/resource/Elias_Shadrock http://dbpedia.org/resource/Elias_Sheres http://dbpedia.org/resource/Elias_Scheres"
+"0","9","C. McMeniman","http://dbpedia.org/resource/Clare_Ferguson","http://dbpedia.org/resource/Clare_McMeniman"

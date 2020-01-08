@@ -1,0 +1,18 @@
+F1: 0.85047,Precision: 0.85047,Recall: 0.85047,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,John J. McDermott,http://dbpedia.org/resource/John_McDermott_(golfer),http://dbpedia.org/resource/John_McDermott_(athlete) http://dbpedia.org/resource/John_McDermott_(runner)
+1,4,"John \Jack\"" Caffery""",http://dbpedia.org/resource/Jack_Caffery_(runner),http://dbpedia.org/resource/John_Caffery http://dbpedia.org/resource/John_Peter_Caffery http://dbpedia.org/resource/Jack_Caffery
+1,5,"John \Jack\"" Caffery""",http://dbpedia.org/resource/Jack_Caffery_(runner),http://dbpedia.org/resource/John_Caffery http://dbpedia.org/resource/John_Peter_Caffery http://dbpedia.org/resource/Jack_Caffery
+1,16,Michael J. Ryan,http://dbpedia.org/resource/Michael_Ryan_(ice_hockey),http://dbpedia.org/resource/Michael_J._Ryan_(athlete)
+1,18,James Duffy,http://dbpedia.org/resource/James_E._Duffy_(American_football),http://dbpedia.org/resource/James_Duffy_(athlete) http://dbpedia.org/resource/James_Duffy_(marathoner) http://dbpedia.org/resource/Jimmy_Duffy
+1,19,Ã\u0089douard Fabre,,http://dbpedia.org/resource/Édouard_Fabre
+1,22,Camp Devens relay team[3],http://dbpedia.org/resource/1918_Camp_Devens_football_team,"http://dbpedia.org/resource/Camp_Devens http://dbpedia.org/resource/Devens http://dbpedia.org/resource/Fort_Devens,_MA http://dbpedia.org/resource/Harry_J._Malony_United_States_Army_Reserve_Center http://dbpedia.org/resource/Ft._Devens http://dbpedia.org/resource/NAAF_Ayer http://dbpedia.org/resource/Fort_Devens http://dbpedia.org/resource/UN/LOCODE:USAYE http://dbpedia.org/resource/Fort_Devens,_Massachusetts http://dbpedia.org/resource/Devens_Reserve_Forces_Training_Area"
+1,37,Leslie S. Pawson,http://dbpedia.org/resource/Leslie_Lamport,http://dbpedia.org/resource/Les_Pawson
+1,42,Leslie S. Pawson,http://dbpedia.org/resource/Leslie_Lamport,http://dbpedia.org/resource/Les_Pawson
+1,45,Leslie S. Pawson,http://dbpedia.org/resource/Leslie_Lamport,http://dbpedia.org/resource/Les_Pawson
+1,62,Franjo MihaliÄ\u0087,http://dbpedia.org/resource/Gheorghe_Mihali,http://dbpedia.org/resource/Franjo_Mihalić
+1,71,Dave McKenzie,http://dbpedia.org/resource/Ian_MacKenzie_(swimmer),http://dbpedia.org/resource/Dave_McKenzie_(marathon_runner) http://dbpedia.org/resource/David_McKenzie_(New_Zealand_athlete) http://dbpedia.org/resource/Dave_McKenzie_(runner)
+1,75,Ã\u0081lvaro MejÃ­a,http://dbpedia.org/resource/Prayer,http://dbpedia.org/resource/Álvaro_Mejía_(athlete)
+1,88,Geoff Smith,http://dbpedia.org/resource/Geoff_Smith_(cyclist),http://dbpedia.org/resource/Geoff_Smith_(athlete) http://dbpedia.org/resource/Geoff_Smith_(long-distance_runner)
+1,89,Geoff Smith,http://dbpedia.org/resource/Geoff_Smith_(cyclist),http://dbpedia.org/resource/Geoff_Smith_(athlete) http://dbpedia.org/resource/Geoff_Smith_(long-distance_runner)
+1,106,Rodgers Rop,http://dbpedia.org/resource/Mike_Rodgers,http://dbpedia.org/resource/Rodgers_Rop

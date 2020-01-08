@@ -1,0 +1,14 @@
+F1: 0.36842,Precision: 0.36842,Recall: 0.36842,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,2,"Welcome to My Nightmare Released: February 1975 Label: Atlantic, Anchor, ABC",http://dbpedia.org/resource/Welcome_to_My_Nightmare_(film),http://dbpedia.org/resource/Some_Folks_(Alice_Cooper_song) http://dbpedia.org/resource/Welcome_to_my_Nightmare http://dbpedia.org/resource/Welcome_To_My_Nightmare http://dbpedia.org/resource/Welcome_to_My_Nightmare http://dbpedia.org/resource/The_Black_Widow_(Alice_Cooper_song) http://dbpedia.org/resource/Black_Widow_(Alice_Cooper_song) http://dbpedia.org/resource/The_Black_Widow_(Alice_Copper_song) http://dbpedia.org/resource/Black_Widow_(Alice_Copper_song)
+1,4,"Lace and Whiskey Released: April 29, 1977 Label: Warner Bros.",http://dbpedia.org/resource/Warner_Music_Group,http://dbpedia.org/resource/Lace_and_whiskey http://dbpedia.org/resource/Lace_and_Whiskey
+1,5,From the Inside Released: November 1978 Label: Warner Bros.,http://dbpedia.org/resource/Accent_Records,http://dbpedia.org/resource/From_the_Inside_(Alice_Cooper_album)
+1,6,"Flush the Fashion Released: April 28, 1980 Label: Warner Bros.",http://dbpedia.org/resource/Warner_Music_Group,http://dbpedia.org/resource/Flush_the_Fashion http://dbpedia.org/resource/Flush_the_fashion
+1,7,Special Forces Released: September 1981 Label: Warner Bros.,http://dbpedia.org/resource/Warner_Music_Group,http://dbpedia.org/resource/Special_Forces_(Alice_Cooper_album)
+1,9,"DaDa Released: September 28, 1983 Label: Warner Bros.",http://dbpedia.org/resource/Harry_Potter_and_the_Philosopher's_Stone_(film),http://dbpedia.org/resource/DaDa
+1,10,"Constrictor Released: September 22, 1986 Label: MCA",http://fr.dbpedia.org/resource/22_septembre_1986,http://dbpedia.org/resource/Constrictor_(album)
+1,12,"Trash Released: July 25, 1989 Label: Epic",,http://dbpedia.org/resource/Trash_(Alice_Cooper_album)
+1,13,"Hey Stoopid Released: July 2, 1991 Label: Epic",,http://dbpedia.org/resource/Die_for_You_(Alice_Cooper_song) http://dbpedia.org/resource/Hey_Stoopid http://dbpedia.org/resource/Hey_Stupid
+1,14,"The Last Temptation Released: July 12, 1994 Label: Epic",http://dbpedia.org/resource/Exhibition_game,http://dbpedia.org/resource/The_Last_Temptation_(Alice_Cooper_album) http://dbpedia.org/resource/The_Last_Temptation_(comics)
+1,16,"Dragontown Released: September 18, 2001 Label: Spitfire",http://dbpedia.org/resource/2001_in_film,http://dbpedia.org/resource/Dragon_Town http://dbpedia.org/resource/Dragontown http://dbpedia.org/resource/DragonTown
+1,18,"Dirty Diamonds Released: July 4, 2005 (Europe\/UK) - August 2, 2005 (US) Label: Eagle Rock\/Spitfire (UK), New West Records\/RED\/Sony BMG (US), Riot Distributors\/Aztec Music (Australia)",,http://dbpedia.org/resource/Dirty_Diamond http://dbpedia.org/resource/Dirty_Diamonds

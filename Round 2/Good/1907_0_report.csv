@@ -1,0 +1,8 @@
+F1: 0.87500,Precision: 0.87500,Recall: 0.87500,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,7,The Generals,http://dbpedia.org/resource/Gods_and_Generals_(novel),http://dbpedia.org/resource/The_Generals_(book) http://dbpedia.org/resource/The_Generals_(novel)
+0,8,The General,,http://dbpedia.org/resource/The_General_(Muchamore_novel) http://dbpedia.org/resource/The_General_(CHERUB_book) http://dbpedia.org/resource/The_General_(Robert_Muchamore_novel) http://dbpedia.org/resource/CHERUB:_The_General
+0,9,The Gatekeeper,http://dbpedia.org/resource/The_Gatekeepers,http://dbpedia.org/resource/The_Gatekeeper_(Buffy_Novel) http://dbpedia.org/resource/The_Gatekeeper_Trilogy http://dbpedia.org/resource/The_Gatekeeper_(Buffy_novel_series) http://dbpedia.org/resource/The_Gatekeeper_(Buffy_novel)
+0,16,The Furies,http://dbpedia.org/resource/The_Beauties_and_Furies,http://dbpedia.org/resource/The_Furies_(novel)
+0,35,The Forgotten,http://dbpedia.org/resource/The_Forgotten_(Star_Trek:_Enterprise),http://dbpedia.org/resource/The_Forgotten_(Baldacci_novel)
+0,36,The Forgotten,http://dbpedia.org/resource/The_Forgotten_(Star_Trek:_Enterprise),http://dbpedia.org/resource/The_Forgotten_(Applegate_novel) http://dbpedia.org/resource/The_Forgotten_(Animorphs)

@@ -1,0 +1,6 @@
+F1: 0.90698,Precision: 0.90698,Recall: 0.90698,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,40,Phil Jackson,http://dbpedia.org/resource/Phil_Jackson,http://dbpedia.org/resource/Phil_Jackson_(Boxer) http://dbpedia.org/resource/Phil_Jackson_(boxer)
+2,44,Everett Martin,http://dbpedia.org/resource/Everett_Bradley_(athlete),http://dbpedia.org/resource/Everett_Martin
+2,53,Everett Martin,http://dbpedia.org/resource/Everett_Bradley_(athlete),http://dbpedia.org/resource/Everett_Martin
+2,59,James Pritchard,http://dbpedia.org/resource/James_Pritchard_(rugby),http://dbpedia.org/resource/James_Pritchard_(boxer)

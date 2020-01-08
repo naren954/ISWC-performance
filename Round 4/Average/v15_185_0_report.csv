@@ -1,0 +1,46 @@
+F1: 0.62393,Precision: 0.62393,Recall: 0.62393,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,5,Worlds Apart,http://dbpedia.org/resource/Worlds_Apart_(Vince_Gill_song),http://dbpedia.org/resource/Worlds_Apart_(Jars_of_Clay_song)
+0,13,World Where You Live,http://dbpedia.org/resource/Where_Were_You_(When_the_World_Stopped_Turning),http://dbpedia.org/resource/World_Where_You_Live
+0,14,World Turning,http://dbpedia.org/resource/Where_Were_You_(When_the_World_Stopped_Turning),http://dbpedia.org/resource/World_Turning
+0,15,World So Cold,http://dbpedia.org/resource/World_So_Cold_(Mudvayne_song),http://dbpedia.org/resource/World_So_Cold(Three_Days_Grace_song) http://dbpedia.org/resource/World_So_Cold_(Three_Days_Grace_song)
+0,21,World,http://dbpedia.org/resource/World_War_II,http://dbpedia.org/resource/World_(The_Price_of_Love)
+0,22,World,http://dbpedia.org/resource/World_War_II,http://dbpedia.org/resource/World_(James_Brown_song)
+0,37,Work That,http://dbpedia.org/resource/Work_It_(Nelly_song),http://dbpedia.org/resource/Work_That http://dbpedia.org/resource/Work_That_(Mary_J._Blige_song)
+0,38,Work Song,http://dbpedia.org/resource/Work_Bitch,http://dbpedia.org/resource/Work_Song_(Hozier_song)
+0,39,Work Out,http://dbpedia.org/resource/Work_Out_(J._Cole_song),http://dbpedia.org/resource/Work_Out_(song)
+0,41,Work It,http://dbpedia.org/resource/Work_It_(Nelly_song),http://dbpedia.org/resource/Work_It_(Missy_Elliott_song)
+0,44,Work,http://dbpedia.org/resource/Work_(Rihanna_song),http://dbpedia.org/resource/Work_(Jimmy_Eat_World_song)
+0,45,Work,http://dbpedia.org/resource/Work_(Rihanna_song),http://dbpedia.org/resource/Work_(Jars_Of_Clay_song) http://dbpedia.org/resource/Work_(Jars_of_Clay_song)
+0,46,Work,http://dbpedia.org/resource/Work_(Rihanna_song),http://dbpedia.org/resource/Work_(Iggy_Azalea_song)
+0,49,Words of Love,http://dbpedia.org/resource/You_Can_Do_That,http://dbpedia.org/resource/Words_of_Love_(The_Mamas_and_the_Papas_song) http://dbpedia.org/resource/Words_of_Love_(The_Mamas_&_the_Papas_song)
+0,50,Words as Weapons,http://dbpedia.org/resource/Words_as_Weapons_(Seether_song),http://dbpedia.org/resource/Words_As_Weapons http://dbpedia.org/resource/Words_as_Weapons
+0,52,Words,http://dbpedia.org/resource/3_Words_(song),http://dbpedia.org/resource/Words_(Bee_Gees_song) http://dbpedia.org/resource/Words_(Bee_Gees'_song) http://dbpedia.org/resource/Words_(The_Bee_Gees_song) http://dbpedia.org/resource/Words_(Boyzone_song)
+0,53,Word on a Wing,,http://dbpedia.org/resource/Word_on_a_Wing
+0,60,Wonderland,http://dbpedia.org/resource/Wonderland_(Natalia_Kills_song),http://dbpedia.org/resource/Wonderland_(Big_Country_song)
+0,67,Wonderful Land,http://dbpedia.org/resource/Sheba_(song),http://dbpedia.org/resource/Wonderful_Land
+0,69,Wonderful,http://dbpedia.org/resource/Wonderful_(Annie_Lennox_song),http://dbpedia.org/resource/Wonderful_(Marques_Houston_song)
+0,70,Wonderful,http://dbpedia.org/resource/Wonderful_(Annie_Lennox_song),http://dbpedia.org/resource/Wonderful_(Angel_song)
+0,72,Wonder,http://dbpedia.org/resource/I_Wonder_(Kellie_Pickler_song),http://dbpedia.org/resource/Wonder_(Emeli_Sandé_song) http://dbpedia.org/resource/Wonder_(Naughty_Boy_song) http://dbpedia.org/resource/Wonder_(Naughty_Boy_Song)
+0,78,Women,http://dbpedia.org/resource/Women_in_Uniform,http://dbpedia.org/resource/Women_(Def_Leppard_song)
+0,81,Woman,http://dbpedia.org/resource/Woman_(John_Lennon_song),http://dbpedia.org/resource/Woman_(Wolfmother_song)
+0,82,Woman,http://dbpedia.org/resource/Woman_(John_Lennon_song),http://dbpedia.org/resource/Woman_(Sensuous_Woman)
+0,90,Wizard,http://dbpedia.org/resource/Pinball_Wizard,http://dbpedia.org/resource/Wizard_(Martin_Garrix_and_Jay_Hardway_song) http://dbpedia.org/resource/Wizard_(song) http://dbpedia.org/resource/Wizard_(Jay_Hardway_song) http://dbpedia.org/resource/Wizard_(Song) http://dbpedia.org/resource/Wizard_(Martin_Garrix_song)
+0,94,Without You,http://dbpedia.org/resource/Without_You_(David_Guetta_song),http://dbpedia.org/resource/Without_You_(Van_Halen_song)
+0,95,Without You,http://dbpedia.org/resource/Without_You_(David_Guetta_song),http://dbpedia.org/resource/Without_You_(The_Feeling_song)
+0,96,Without You,http://dbpedia.org/resource/Without_You_(David_Guetta_song),http://dbpedia.org/resource/Without_You_(Silverchair_Song) http://dbpedia.org/resource/Without_You_(Silverchair_song)
+0,97,Without You,http://dbpedia.org/resource/Without_You_(David_Guetta_song),http://dbpedia.org/resource/Without_You_(Mötley_Crüe_song) http://dbpedia.org/resource/Without_You_(Moetley_Cruee_song) http://dbpedia.org/resource/Without_You_(Motley_Crue_song)
+0,98,Without You,http://dbpedia.org/resource/Without_You_(David_Guetta_song),http://dbpedia.org/resource/Without_You_(Monica_song)
+0,99,Without You,http://dbpedia.org/resource/Without_You_(David_Guetta_song),http://dbpedia.org/resource/Without_You_(Mötley_Crüe_song) http://dbpedia.org/resource/Without_You_(Moetley_Cruee_song) http://dbpedia.org/resource/Without_You_(Motley_Crue_song)
+0,100,Without You,http://dbpedia.org/resource/Without_You_(David_Guetta_song),http://dbpedia.org/resource/Without_You_(Keith_Urban_song)
+0,101,Without You,http://dbpedia.org/resource/Without_You_(David_Guetta_song),http://dbpedia.org/resource/Without_You_(Hinder_song)
+0,102,Without You,http://dbpedia.org/resource/Without_You_(David_Guetta_song),http://dbpedia.org/resource/Without_You_(Dixie_Chicks_song)
+0,103,Without You,http://dbpedia.org/resource/Without_You_(David_Guetta_song),http://dbpedia.org/resource/Without_You_(David_Bowie_song)
+0,104,Without You,http://dbpedia.org/resource/Without_You_(David_Guetta_song),http://dbpedia.org/resource/Without_You_(Blue_song)
+0,107,With a Little Luck,http://dbpedia.org/resource/With_a_Little_Luck,http://dbpedia.org/resource/With_a_Little_Luck_(T'Pau_song)
+0,109,With a Little Help from My Friends,http://dbpedia.org/resource/With_a_Little_Help_from_My_Friends_(Joe_Cocker_album),http://dbpedia.org/resource/With_a_Little_Help_from_my_Friends http://dbpedia.org/resource/With_A_Little_Help_From_My_Friends http://dbpedia.org/resource/With_A_Little_Help_from_My_Friends http://dbpedia.org/resource/I_Get_By_with_a_Little_Help_from_My_Friends http://dbpedia.org/resource/With_a_Little_Help_from_My_Friends_(Wet_Wet_Wet_song) http://dbpedia.org/resource/I_Get_by_with_a_Little_Help_from_My_Friends http://dbpedia.org/resource/With_a_Little_Help_from_My_Friends http://dbpedia.org/resource/With_a_Little_help_from_My_Friends http://dbpedia.org/resource/A_Little_Help_From_My_Friends http://dbpedia.org/resource/With_a_Little_Help_from_My_Friends_(The_Beatles_song) http://dbpedia.org/resource/With_a_Little_Help_From_My_Friends http://dbpedia.org/resource/A_Little_Help_from_My_Friends
+0,111,With You,http://dbpedia.org/resource/Be_with_You_(Atomic_Kitten_song),http://dbpedia.org/resource/With_You_(Jessica_Simpson_song)
+0,112,With You,http://dbpedia.org/resource/Be_with_You_(Atomic_Kitten_song),http://dbpedia.org/resource/With_You_(Chris_Brown_song) http://dbpedia.org/resource/With_You_(Kovas_song)
+0,115,With Me Tonight,http://dbpedia.org/resource/Give_Me_Tonight,http://dbpedia.org/resource/You're_With_Me_Tonight http://dbpedia.org/resource/With_Me_Tonight
+0,116,With Me,http://dbpedia.org/resource/With_Me_(Destiny's_Child_song),http://dbpedia.org/resource/Sum_41_with_me http://dbpedia.org/resource/With_Me_(Sum_41_song)
+0,117,With Me,http://dbpedia.org/resource/With_Me_(Destiny's_Child_song),http://dbpedia.org/resource/With_Me_(Lonestar_song)

@@ -1,0 +1,7 @@
+F1: 0.58333,Precision: 0.58333,Recall: 0.58333,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,5,American Gothic,http://dbpedia.org/resource/American_Gothic_(2007_film),http://dbpedia.org/resource/Lucus_Buck http://dbpedia.org/resource/Pilot_(American_Gothic) http://dbpedia.org/resource/Lucas_buck http://dbpedia.org/resource/American_Gothic_(1995_TV_series) http://dbpedia.org/resource/Eye_of_the_Beholder_(American_Gothic)
+0,6,American Gothic,http://dbpedia.org/resource/American_Gothic_(2007_film),http://dbpedia.org/resource/Lucus_Buck http://dbpedia.org/resource/Pilot_(American_Gothic) http://dbpedia.org/resource/Lucas_buck http://dbpedia.org/resource/American_Gothic_(1995_TV_series) http://dbpedia.org/resource/Eye_of_the_Beholder_(American_Gothic)
+0,9,The Gift,http://dbpedia.org/resource/The_Blueprint_2:_The_Gift_&_The_Curse,http://dbpedia.org/resource/The_Gift_(2000_film)
+0,10,Spider-Man,http://dbpedia.org/resource/The_Amazing_Spider-Man_2,http://dbpedia.org/resource/Spiderman_1 http://dbpedia.org/resource/Spider-Man_I http://dbpedia.org/resource/Spider-Man_(2002_film) http://dbpedia.org/resource/Spiderman_(2002_film) http://dbpedia.org/resource/Sam_Raimi's_Spider-Man http://dbpedia.org/resource/Spider-Man_1 http://dbpedia.org/resource/Spiderman_I
+0,15,The Swimmer,http://dbpedia.org/resource/The_Swimmers,http://dbpedia.org/resource/The_Swimmer_(1968_film)

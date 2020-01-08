@@ -1,0 +1,11 @@
+F1: 0.35714,Precision: 0.35714,Recall: 0.35714,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,D. Zapata,http://de.dbpedia.org/resource/Maya_Zapata,http://dbpedia.org/resource/Dominic_Zapata http://dbpedia.org/resource/Dominic_zapata
+1,2,G. Campbell,http://dbpedia.org/resource/Gregory_Campbell_(politician),http://dbpedia.org/resource/Graeme_Campbell_(director)
+1,3,J. Morton,http://dbpedia.org/resource/Joe_Morton,http://dbpedia.org/resource/John_Morton_(writer)
+1,6,B. Richardson,http://dbpedia.org/resource/Bill_Richardson,http://dbpedia.org/resource/Bob_Richardson_(animator)
+1,8,F. Burney,http://dbpedia.org/resource/Charles_Burney,http://dbpedia.org/resource/Fahim_Burney
+1,10,Siraj-ul-Haque,http://dbpedia.org/resource/Muhammad_Zia-ul-Haq,http://dbpedia.org/resource/Siraj-ul-Haque
+1,11,Y. Nawaz,http://dbpedia.org/resource/Adnan_Nawaz,http://dbpedia.org/resource/Yasir_Nawaz
+1,12,F. Kashmiri,http://dbpedia.org/resource/Ilyas_Kashmiri,http://dbpedia.org/resource/Fahad_Kashmiri
+1,14,I. Fitzgibbon,http://dbpedia.org/resource/Constantine_Fitzgibbon,http://dbpedia.org/resource/Ian_Fitzgibbon

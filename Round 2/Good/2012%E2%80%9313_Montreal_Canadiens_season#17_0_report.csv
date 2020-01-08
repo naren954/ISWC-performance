@@ -1,0 +1,4 @@
+F1: 0.92308,Precision: 0.92308,Recall: 0.92308,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Steve Quailer[26],http://fr.dbpedia.org/resource/Steve_Quailer,http://dbpedia.org/resource/Steve_Quailer
+0,9,Frederic St. Denis[33],http://dbpedia.org/resource/Frédéric_St-Denis,http://dbpedia.org/resource/Frédéric_St._Denis

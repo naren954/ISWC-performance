@@ -1,0 +1,8 @@
+F1: 0.71429,Precision: 0.71429,Recall: 0.71429,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,12,Outstanding Musical,http://dbpedia.org/resource/Tony_Award_for_Best_Musical,http://dbpedia.org/resource/Drama_Desk_Award_for_Outstanding_Musical
+2,14,Outstanding Actor in a Musical,http://dbpedia.org/resource/Drama_Desk_Award_for_Outstanding_Actress_in_a_Musical,http://dbpedia.org/resource/Drama_Desk_Award_for_Outstanding_Actor_in_a_Musical
+2,16,Outstanding Actress in a Musical,http://dbpedia.org/resource/Tony_Award_for_Best_Featured_Actress_in_a_Musical,http://dbpedia.org/resource/Drama_Desk_Award_for_Outstanding_Actress_in_a_Musical
+2,18,Outstanding Choreography,http://dbpedia.org/resource/Tony_Award_for_Best_Choreography,http://dbpedia.org/resource/Drama_Desk_Award_for_Outstanding_Choreography
+2,20,Outstanding Music,http://dbpedia.org/resource/Daytime_Emmy_Award,http://dbpedia.org/resource/Drama_Desk_Award_for_Outstanding_Music
+2,45,Best Musical Show Album,http://dbpedia.org/resource/Billboard_(magazine),http://dbpedia.org/resource/Grammy_Award_for_Best_Musical_Show_Album http://dbpedia.org/resource/Grammy_Award_for_Best_Musical_Theater_Album http://dbpedia.org/resource/Best_Musical_Theater_Album http://dbpedia.org/resource/Grammy_Award_for_Best_Cast_Show_Album http://dbpedia.org/resource/Best_Score_From_an_Original_Cast_Show_Album http://dbpedia.org/resource/Best_Musical_Show_Album http://dbpedia.org/resource/Best_Cast_Show_Album http://dbpedia.org/resource/Best_musical_theater_album http://dbpedia.org/resource/Best_Score_from_an_Original_Cast_Show_Album

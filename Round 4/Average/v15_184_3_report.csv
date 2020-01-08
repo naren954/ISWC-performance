@@ -1,0 +1,24 @@
+F1: 0.72500,Precision: 0.72500,Recall: 0.72500,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,4,Kiss Kiss Kiss,http://dbpedia.org/resource/Kiss_Kiss_Kiss_(KAT-TUN_song),http://dbpedia.org/resource/Kiss_Kiss_Kiss_(Yoko_Ono_song)
+3,14,Right Now,http://dbpedia.org/resource/Right_Now_(Rihanna_song),http://dbpedia.org/resource/Right_Now_(Korn_song) http://dbpedia.org/resource/Right_Now_(Korn_single)
+3,16,Party,http://dbpedia.org/resource/Italian_Communist_Party,http://dbpedia.org/resource/Party_(The_Blue_Hearts_song) http://dbpedia.org/resource/Party_(The_Blue_Hearts)
+3,19,Live at Reading,http://dbpedia.org/resource/Live_at_Reading,http://dbpedia.org/resource/Live_at_Reading_(EP)
+3,22,I Could Be the One,http://dbpedia.org/resource/I_Could_Be_the_One_(Stacie_Orrico_song),http://dbpedia.org/resource/I_Could_Be_the_One_(Nicktim) http://dbpedia.org/resource/I_Could_Be_the_One_(Avicii_song) http://dbpedia.org/resource/I_Could_Be_the_One_(Avicii_and_Nicky_Romero_song) http://dbpedia.org/resource/Nicktim
+3,25,A Night to Remember,http://dbpedia.org/resource/A_Night_to_Remember_(Cyndi_Lauper_song),http://dbpedia.org/resource/Make_This_a_Night_to_Remember http://dbpedia.org/resource/A_Night_to_Remember_(Shalamar_song) http://dbpedia.org/resource/A_Night_To_Remember_(Liberty_X_single) http://dbpedia.org/resource/Night_to_remember http://dbpedia.org/resource/Night_to_Remember
+3,26,Born Free,http://dbpedia.org/resource/Born_Free_(Kid_Rock_song),http://dbpedia.org/resource/Born_Free_(M.I.A._song) http://dbpedia.org/resource/Born_Free_(short_film)
+3,33,It Must Be Love,http://dbpedia.org/resource/It_Must_Be_Love_(Labi_Siffre_song),http://dbpedia.org/resource/It_Must_Be_Love_(Don_Williams_song)
+3,39,Forever Love,http://dbpedia.org/resource/Forever_Love_(X_Japan_song),http://dbpedia.org/resource/Forever_Love_(Reba_McEntire_song)
+3,48,Glory Days,http://dbpedia.org/resource/Glory_Days_(Bruce_Springsteen_song),http://dbpedia.org/resource/Glory_Days_(Just_Jack_song)
+3,50,The Life,http://dbpedia.org/resource/Life_(Toše_Proeski_song),http://dbpedia.org/resource/The_Life_(Fifth_Harmony_song)
+3,52,I Hate Mondays,http://dbpedia.org/resource/Hate_That_I_Love_You,http://dbpedia.org/resource/I_Hate_Mondays_(song)
+3,56,I Believe,http://dbpedia.org/resource/I_Believe_(Bon_Jovi_song),http://dbpedia.org/resource/I_Believe_(Diamond_Rio_song)
+3,61,The Heat Is On,http://dbpedia.org/resource/The_Heat_Is_On_(Glenn_Frey_song),http://dbpedia.org/resource/The_Heat_Is_On_(Agnetha_song)
+3,62,Nikita,,http://dbpedia.org/resource/Nikita_(song) http://dbpedia.org/resource/Nikita_(Elton_John) http://dbpedia.org/resource/Nikita_(Elton_John_song)
+3,63,Call on Me,http://dbpedia.org/resource/Call_on_Me_(Janet_Jackson_song),http://dbpedia.org/resource/Call_On_Me_(Eric_Prydz_single) http://dbpedia.org/resource/Call_on_Me_(Eric_Prydz_song)
+3,65,Endless,http://it.dbpedia.org/resource/Endless_(Toto),http://dbpedia.org/resource/Endless_(Inna_song)
+3,66,Dreams,http://dbpedia.org/resource/Dreams_(Van_Halen_song),http://dbpedia.org/resource/Dreams_(Beck_song)
+3,75,All for You,http://dbpedia.org/resource/All_for_You_(Janet_Jackson_song),http://dbpedia.org/resource/All_for_You_(Ace_of_Base_song) http://dbpedia.org/resource/All_For_You_(Ace_of_Base_song)
+3,76,Mare,http://dbpedia.org/resource/Mare_(band),http://dbpedia.org/resource/Mare_(Diamá_Song) http://dbpedia.org/resource/Mare_(Diama_Song)
+3,79,Sledgehammer,http://dbpedia.org/resource/Sledgehammer_(Peter_Gabriel_song),http://dbpedia.org/resource/Sledgehammer_(Fifth_Harmony_song)
+3,80,Believe Me,http://dbpedia.org/resource/Believe_Me_(Fort_Minor_song),http://dbpedia.org/resource/Believe_Me_(Lil_Wayne_song)

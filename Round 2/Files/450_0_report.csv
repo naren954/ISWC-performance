@@ -1,0 +1,5 @@
+"F1: 0.85000","Precision: 0.85000","Recall: 0.85000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","3","Litchfield Municipal Airport","http://dbpedia.org/resource/Litchfield_Municipal_Airport_(Minnesota)","http://dbpedia.org/resource/Litchfield_Municipal_Airport_(Illinois)"
+"0","10","Lincoln Municipal Airport","http://dbpedia.org/resource/Lincoln_Municipal_Airport_(Missouri)","http://dbpedia.org/resource/Lincoln_Municipal_Airport_(Kansas)"
+"0","17","Liberty County Airport","http://dbpedia.org/resource/Liberty_County_Airport_(Georgia)","http://dbpedia.org/resource/LTY http://dbpedia.org/resource/Liberty_County_Airport_(Montana)"

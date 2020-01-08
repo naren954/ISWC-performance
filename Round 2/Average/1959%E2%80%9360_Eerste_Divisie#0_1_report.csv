@@ -1,0 +1,6 @@
+F1: 0.69231,Precision: 0.69231,Recall: 0.69231,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,2,Vitesse,http://dbpedia.org/resource/SBV_Vitesse,http://dbpedia.org/resource/Vitesse http://dbpedia.org/resource/Vitesse_(disambiguation)
+1,7,De Volewijckers,http://dbpedia.org/resource/AVV_De_Volewijckers,http://dbpedia.org/resource/De_Volewijckers http://dbpedia.org/resource/Volewijckers_Amsterdam http://dbpedia.org/resource/Volewijckers http://dbpedia.org/resource/A.V.V._De_Volewijckers
+1,9,HVC,,http://dbpedia.org/resource/Hollandia_Victoria_Combinatie http://dbpedia.org/resource/SC_Amersfoort http://dbpedia.org/resource/Holland_Victoria_Combinatie
+1,13,SVV,http://dbpedia.org/resource/FC_Dordrecht,http://dbpedia.org/resource/SVV_Schiedam http://dbpedia.org/resource/Schiedamse_Voetbal_Vereniging

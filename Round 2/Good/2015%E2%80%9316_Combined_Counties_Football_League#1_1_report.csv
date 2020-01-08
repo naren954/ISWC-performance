@@ -1,0 +1,4 @@
+F1: 0.88235,Precision: 0.88235,Recall: 0.88235,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,14,Dorking Wanderers Reserves,http://dbpedia.org/resource/Manchester_United_F.C.,http://dbpedia.org/resource/Dorking_Wanderers_F_C http://dbpedia.org/resource/Dorking_Wanderers_F._C. http://dbpedia.org/resource/Dorking_Wanderers_F.C. http://dbpedia.org/resource/Dorking_Wanderers_FC
+1,16,South Park Reserves,http://dbpedia.org/resource/Busan_IPark,http://dbpedia.org/resource/Reigate_Town_Football_Club http://dbpedia.org/resource/Reigate_Town http://dbpedia.org/resource/South_Park_F_C http://dbpedia.org/resource/South_Park_FC http://dbpedia.org/resource/South_Park_F._C. http://dbpedia.org/resource/Reigate_Town_F.C. http://dbpedia.org/resource/South_Park_F.C.

@@ -1,0 +1,101 @@
+F1: 0.42442,Precision: 0.42442,Recall: 0.42442,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,1,S. Chiba,http://dbpedia.org/resource/Sonny_Chiba,http://dbpedia.org/resource/Shigeru_Tiba http://dbpedia.org/resource/Tiba_Shigeru http://dbpedia.org/resource/Shigeru_Chiba http://dbpedia.org/resource/千葉繁 http://dbpedia.org/resource/Chiba_Shigeru
+2,2,E. Herlihy,http://dbpedia.org/resource/Dan_O'Herlihy,http://dbpedia.org/resource/Ed_Herlihy http://dbpedia.org/resource/Edward_Joseph_Herlihy
+2,3,J. Gilbert,http://dbpedia.org/resource/John_Gilbert_(actor),http://dbpedia.org/resource/Johnny_Gilbert
+2,4,R. Webb,http://dbpedia.org/resource/Roy_Webb,"http://dbpedia.org/resource/Robert_Webb_(comedian) http://dbpedia.org/resource/Robert_Webb http://dbpedia.org/resource/Bob_Webb http://dbpedia.org/resource/Robert_Webb_(actor) http://dbpedia.org/resource/Webb,_Robert http://dbpedia.org/resource/Robert_Web http://dbpedia.org/resource/Rob_Webb"
+2,5,H. Hill,http://dbpedia.org/resource/Henry_Hill,"http://dbpedia.org/resource/Hill,_Harry http://dbpedia.org/resource/Harry_Hill http://dbpedia.org/resource/The_Harry_Hill http://dbpedia.org/resource/Matthew_Keith_Hall http://dbpedia.org/resource/Dr_Matthew_Hall http://dbpedia.org/resource/Harry_Hill's_Fun_Book http://dbpedia.org/resource/Flight_from_Deathrow http://dbpedia.org/resource/The_Further_Adventures_of_the_Queen_Mum http://dbpedia.org/resource/Fruit_Fancies http://dbpedia.org/resource/Harry's_Nuts http://dbpedia.org/resource/Harry_Hill's_Whopping_Great_Joke_Book http://dbpedia.org/resource/Stouffer_the_Cat"
+2,6,J. Olson,http://dbpedia.org/resource/Justin_Olson,http://dbpedia.org/resource/Johnny_Olson http://dbpedia.org/resource/John_Leonard_Olson http://dbpedia.org/resource/Johnny_Olsen
+2,7,R. Locke,http://dbpedia.org/resource/Joseph_Locke,http://dbpedia.org/resource/Rob_Locke
+2,9,Y. Fujimoto,http://dbpedia.org/resource/Miki_Fujimoto,http://dbpedia.org/resource/Yuzuru_Fujimoto
+2,10,R. Powell,"http://dbpedia.org/resource/Robert_Baden-Powell,_1st_Baron_Baden-Powell","http://dbpedia.org/resource/Powell,_Robert http://dbpedia.org/resource/Robert_Powell_(actor) http://dbpedia.org/resource/Robert_Powell"
+2,11,C. Salmon,http://dbpedia.org/resource/Carty_Salmon,http://dbpedia.org/resource/Colin_Salmon
+2,12,M. Day,http://dbpedia.org/resource/Margie_Day,http://dbpedia.org/resource/Matt_Day
+2,13,S. Toussaint,http://dbpedia.org/resource/Allen_Toussaint,http://dbpedia.org/resource/Steve_Toussaint
+2,14,F. Keane,http://dbpedia.org/resource/Glen_Keane,http://dbpedia.org/resource/Fergal_Keane
+2,15,T. Woodward,http://dbpedia.org/resource/Edward_Woodward,http://dbpedia.org/resource/Tim_Woodward http://dbpedia.org/resource/Tim_Woodward_(actor)
+2,17,C. O'Donnell,http://dbpedia.org/resource/Cathy_O'Donnell,http://dbpedia.org/resource/Charlie_O'Donnell
+2,21,C. McMenamin,http://dbpedia.org/resource/Mark_McMenamin,http://dbpedia.org/resource/Ciaran_McMenamin http://dbpedia.org/resource/Ciarán_McMenamin
+2,22,M. McClean,,http://dbpedia.org/resource/Mike_McClean
+2,23,W. Woodson,http://dbpedia.org/resource/Charles_Woodson,http://dbpedia.org/resource/William_Woodson http://dbpedia.org/resource/Bill_Woodson
+2,32,G. S. Irving,http://dbpedia.org/resource/Henry_Irving,http://dbpedia.org/resource/George_S._Irving
+2,33,C. Craig,http://dbpedia.org/resource/Carl_Craig,http://dbpedia.org/resource/Caroline_Craig
+2,34,Y. Matsumoto,http://dbpedia.org/resource/Tak_Matsumoto,http://dbpedia.org/resource/Yasunori_Matsumoto http://dbpedia.org/resource/Matsumoto_Yasunori http://dbpedia.org/resource/松本保典
+2,35,B. Richardson,http://dbpedia.org/resource/Bill_Richardson,http://dbpedia.org/resource/Burton_Richardson_(announcer)
+2,37,P. Allen,http://dbpedia.org/resource/Paul_Allen,"http://dbpedia.org/resource/Allen,_Patrick http://dbpedia.org/resource/Patrick_Allen"
+2,39,C. Riley,http://dbpedia.org/resource/Charlotte_Riley,http://dbpedia.org/resource/Chuck_Riley_(Voice_Actor) http://dbpedia.org/resource/Chuck_Riley_(voice_actor)
+2,40,H. Gwynne,http://dbpedia.org/resource/Fred_Gwynne,http://dbpedia.org/resource/Haydn_Gwynne
+2,43,F. Facey,http://dbpedia.org/resource/Tom_Facey,http://dbpedia.org/resource/Fred_Facey
+2,45,C. O'Donnell,http://dbpedia.org/resource/Cathy_O'Donnell,http://dbpedia.org/resource/Charlie_O'Donnell
+2,48,C. Gibson,http://dbpedia.org/resource/Charles_Gibson_(historian),"http://dbpedia.org/resource/Charles_Gibson http://dbpedia.org/resource/Charles_""Charlie""_deWolf_Gibson http://dbpedia.org/resource/Charlie_Gibson http://dbpedia.org/resource/Gibson,_Charles http://dbpedia.org/resource/Charles_deWolf_Gibson http://dbpedia.org/resource/Charles_gibson"
+2,49,G. Hall,http://dbpedia.org/resource/Gus_Hall,http://dbpedia.org/resource/George_Hall_(actor)
+2,51,N. Parsons,http://dbpedia.org/resource/Estelle_Parsons,http://dbpedia.org/resource/Nicholas_Parsons_CBE http://dbpedia.org/resource/Nicholas_Parsons
+2,53,W. Woodson,http://dbpedia.org/resource/Charles_Woodson,http://dbpedia.org/resource/William_Woodson http://dbpedia.org/resource/Bill_Woodson
+2,54,D. Stern,http://dbpedia.org/resource/Fritz_Stern,http://dbpedia.org/resource/Daniel_Stern_(actor) http://dbpedia.org/resource/Daniel_Jacob_Stern
+2,55,C. O'Donnell,http://dbpedia.org/resource/Cathy_O'Donnell,http://dbpedia.org/resource/Charlie_O'Donnell
+2,56,W. Woodson,http://dbpedia.org/resource/Charles_Woodson,http://dbpedia.org/resource/William_Woodson http://dbpedia.org/resource/Bill_Woodson
+2,57,V. Redgrave,http://dbpedia.org/resource/Corin_Redgrave,http://dbpedia.org/resource/Vanessa_Redgrave_CBE http://dbpedia.org/resource/Vanessa_redgrave http://dbpedia.org/resource/Vanessa_Redgrave
+2,58,M. Darrow,http://dbpedia.org/resource/Paul_Darrow,http://dbpedia.org/resource/Darow_Myhowich http://dbpedia.org/resource/Mike_Darow http://dbpedia.org/resource/Mike_Darrow
+2,59,J. Briggs,http://dbpedia.org/resource/Raymond_Briggs,http://dbpedia.org/resource/Jon_Briggs
+2,61,W. Winchell,http://dbpedia.org/resource/Paul_Winchell,"http://dbpedia.org/resource/Walter_Winchell http://dbpedia.org/resource/Winchell's_Column http://dbpedia.org/resource/Winchell,_Walter http://dbpedia.org/resource/Walter_Winchel"
+2,62,E. McMahon,http://dbpedia.org/resource/Sonia_McMahon,http://dbpedia.org/resource/Edward_Leo_Peter_McMahon_Jr http://dbpedia.org/resource/Edward_Lee_McMahon http://dbpedia.org/resource/Ed_McMahon http://dbpedia.org/resource/Ed_macmahon http://dbpedia.org/resource/Edward_McMahon http://dbpedia.org/resource/Edward_Leo_Peter_McMahon_Jr. http://dbpedia.org/resource/Ed_MacMahon http://dbpedia.org/resource/Ed_mcmahon
+2,63,S. Higgins,http://dbpedia.org/resource/Clare_Higgins,http://dbpedia.org/resource/Steve_Higgins
+2,64,Y. Tanaka,http://dbpedia.org/resource/Yoshiko_Tanaka,http://dbpedia.org/resource/Yuji_Tanaka
+2,67,M. Rye,http://dbpedia.org/resource/Madhu_Rye,http://dbpedia.org/resource/Michael_Rye
+2,69,R. Carroll,http://dbpedia.org/resource/Rocky_Carroll,http://dbpedia.org/resource/Roger_Carroll
+2,70,J. Cummings,http://dbpedia.org/resource/Robert_Cummings,http://dbpedia.org/resource/Jim_Cummings http://dbpedia.org/resource/James_Jonah_Cummings
+2,72,T. Hunkin,http://dbpedia.org/resource/Leslie_Claude_Hunkin,http://dbpedia.org/resource/Tim_hunkin http://dbpedia.org/resource/Tim_Hunkin
+2,78,B. Flynn,http://dbpedia.org/resource/Errol_Flynn,http://dbpedia.org/resource/Barbara_Flynn
+2,80,N. Galvin,http://dbpedia.org/resource/John_Galvin_(general),http://dbpedia.org/resource/Noah_Galvin
+2,83,B. Jayne,http://dbpedia.org/resource/Jayne_Mansfield,http://dbpedia.org/resource/Billy_Jayne http://dbpedia.org/resource/Billy_Jacoby
+2,84,J. DiMaggio,http://dbpedia.org/resource/Joe_DiMaggio,http://dbpedia.org/resource/John_William_DiMaggio http://dbpedia.org/resource/John_DiMaggio http://dbpedia.org/resource/John_Di_Maggio http://dbpedia.org/resource/John_dimaggio http://dbpedia.org/resource/John_Dimaggio
+2,85,J. Olson,http://dbpedia.org/resource/Justin_Olson,http://dbpedia.org/resource/Johnny_Olson http://dbpedia.org/resource/John_Leonard_Olson http://dbpedia.org/resource/Johnny_Olsen
+2,89,M. Miller,http://dbpedia.org/resource/Marcus_Miller,http://dbpedia.org/resource/Marvin_Elliott_Mueller http://dbpedia.org/resource/Marvin_Elliott_Miller http://dbpedia.org/resource/Marvin_Mueller http://dbpedia.org/resource/Marvin_Miller_(actor)
+2,91,C. Chaplin,http://dbpedia.org/resource/Charlie_Chaplin,http://dbpedia.org/resource/Curt_Chaplin
+2,93,N. Morrissey,http://dbpedia.org/resource/David_Morrissey,http://dbpedia.org/resource/Neil_Anthony_Morrissey http://dbpedia.org/resource/Neil_morissey http://dbpedia.org/resource/Neil_Morrissey http://dbpedia.org/resource/Neil_A_Morrissey http://dbpedia.org/resource/Neil_morisey http://dbpedia.org/resource/Neil_A._Morrissey http://dbpedia.org/resource/Neil_Morrisy http://dbpedia.org/resource/Neil_Morrisey
+2,94,A. Kalter,http://dbpedia.org/resource/Sabine_Kalter,http://dbpedia.org/resource/Allan_Kalter http://dbpedia.org/resource/Alan_Kalter http://dbpedia.org/resource/Allen_Kalter
+2,96,T. Oberman,http://dbpedia.org/resource/Heiko_Oberman,http://dbpedia.org/resource/Tracy-Ann_Oberman http://dbpedia.org/resource/Tracey-Ann_Oberman http://dbpedia.org/resource/Tracy_Ann_Oberman
+2,101,C. Holmes,http://dbpedia.org/resource/John_Holmes_(actor),http://dbpedia.org/resource/Playground_in_My_Mind http://dbpedia.org/resource/My_Name_is_Michael http://dbpedia.org/resource/Clint_Holmes http://dbpedia.org/resource/Playground_In_My_Mind
+2,103,K. Tatlonghari,http://dbpedia.org/resource/K._Maneesha,http://dbpedia.org/resource/Karylle http://dbpedia.org/resource/Karylle_Tatlonghari
+2,105,C. O'Donnell,http://dbpedia.org/resource/Cathy_O'Donnell,http://dbpedia.org/resource/Charlie_O'Donnell
+2,106,D. Moore,http://dbpedia.org/resource/Dudley_Moore,http://dbpedia.org/resource/Del_Moore
+2,107,J. Olson,http://dbpedia.org/resource/Justin_Olson,http://dbpedia.org/resource/Johnny_Olson http://dbpedia.org/resource/John_Leonard_Olson http://dbpedia.org/resource/Johnny_Olsen
+2,108,B. Woodson,http://dbpedia.org/resource/Charles_Woodson,http://dbpedia.org/resource/William_Woodson http://dbpedia.org/resource/Bill_Woodson
+2,109,D. Attenborough,http://dbpedia.org/resource/Richard_Attenborough,"http://dbpedia.org/resource/David_attenborough http://dbpedia.org/resource/Attenborough,_David http://dbpedia.org/resource/David_Attenborough http://dbpedia.org/resource/David_Nattenburger http://dbpedia.org/resource/Sir_David_Attenborough http://dbpedia.org/resource/Attenborough,_D. http://dbpedia.org/resource/Sir_Dave_Attenborough http://dbpedia.org/resource/David_Frederick_Attenborough http://dbpedia.org/resource/Sir_David_Frederick_Attenborough http://dbpedia.org/resource/Sir_Attenborough http://dbpedia.org/resource/David_attenbourough"
+2,111,P. Jones,http://dbpedia.org/resource/Robert_Jones_(VC),http://dbpedia.org/resource/Peter_Jones_(actor)
+2,116,W. Dozier,http://dbpedia.org/resource/Lamont_Dozier,http://dbpedia.org/resource/William_Dozier
+2,117,M. Rye,http://dbpedia.org/resource/Madhu_Rye,http://dbpedia.org/resource/Michael_Rye
+2,120,A. Rodgers,http://dbpedia.org/resource/Richard_Rodgers,http://dbpedia.org/resource/Anton_Rodgers http://dbpedia.org/resource/Anton_Rogers http://dbpedia.org/resource/Anthony_Rodgers
+2,125,E. Hall,http://dbpedia.org/resource/Peter_Hall_(director),http://dbpedia.org/resource/Edd_Hall
+2,126,B. LeMond,http://dbpedia.org/resource/Bernard_Mond,http://dbpedia.org/resource/Bob_LeMond
+2,127,B. Bennett,http://dbpedia.org/resource/Bob_Bennett_(politician),http://dbpedia.org/resource/Bern_Bennett
+2,130,E. Bishop,http://dbpedia.org/resource/Elizabeth_Bishop,http://dbpedia.org/resource/Ed_Bishop
+2,131,T. Beers,http://dbpedia.org/resource/Manfred_Beer,http://dbpedia.org/resource/Thom_Beers
+2,132,B. Hilton,http://dbpedia.org/resource/Barron_Hilton,http://dbpedia.org/resource/Bob_Hilton
+2,135,D. Attenborough,http://dbpedia.org/resource/Richard_Attenborough,"http://dbpedia.org/resource/David_attenborough http://dbpedia.org/resource/Attenborough,_David http://dbpedia.org/resource/David_Attenborough http://dbpedia.org/resource/David_Nattenburger http://dbpedia.org/resource/Sir_David_Attenborough http://dbpedia.org/resource/Attenborough,_D. http://dbpedia.org/resource/Sir_Dave_Attenborough http://dbpedia.org/resource/David_Frederick_Attenborough http://dbpedia.org/resource/Sir_David_Frederick_Attenborough http://dbpedia.org/resource/Sir_Attenborough http://dbpedia.org/resource/David_attenbourough"
+2,136,P. Allen,http://dbpedia.org/resource/Paul_Allen,"http://dbpedia.org/resource/Allen,_Patrick http://dbpedia.org/resource/Patrick_Allen"
+2,137,A. Sweeney,http://dbpedia.org/resource/Julia_Sweeney,http://dbpedia.org/resource/Allison_Sweeney http://dbpedia.org/resource/Alison_Sweeney
+2,138,D. Daniel,http://dbpedia.org/resource/Dan_Daniel_(politician),http://dbpedia.org/resource/Dan_Daniels_(disc_jockey) http://dbpedia.org/resource/Dan_Daniel_(disc_jockey) http://dbpedia.org/resource/Dan_Daniel_(radio_personality)
+2,139,R. Powell,"http://dbpedia.org/resource/Robert_Baden-Powell,_1st_Baron_Baden-Powell","http://dbpedia.org/resource/Powell,_Robert http://dbpedia.org/resource/Robert_Powell_(actor) http://dbpedia.org/resource/Robert_Powell"
+2,140,R. McLarty,http://dbpedia.org/resource/Ross_McLarty,http://dbpedia.org/resource/Ron_McLarty
+2,141,R. Burr,http://dbpedia.org/resource/Aaron_Burr,http://dbpedia.org/resource/Raymond_Burr http://dbpedia.org/resource/William_Stacey_Burr http://dbpedia.org/resource/Ray_Burr
+2,142,A. Maitland,http://dbpedia.org/resource/Thomas_Maitland_(British_Army_officer),http://dbpedia.org/resource/Alan_Maitland
+2,144,B. Richardson,http://dbpedia.org/resource/Bill_Richardson,http://dbpedia.org/resource/Burton_Richardson_(announcer)
+2,145,N. Nevinson,http://dbpedia.org/resource/Christopher_R._W._Nevinson,http://dbpedia.org/resource/Nancy_Nevinson
+2,147,M. Maronna,http://dbpedia.org/resource/Jorge_Maronna,http://dbpedia.org/resource/Michael_C._Maronna http://dbpedia.org/resource/Michael_Maronna http://dbpedia.org/resource/Mike_Maronna
+2,148,H. Elizondo,http://dbpedia.org/resource/Salvador_Elizondo,http://dbpedia.org/resource/Héctor_Elizondo http://dbpedia.org/resource/Hector_Elizondo
+2,151,B. Ellsworth,http://dbpedia.org/resource/Brad_Ellsworth,"http://dbpedia.org/resource/Bobby_""Blitz""_Ellsworth http://dbpedia.org/resource/Bobby_Ellsworth"
+2,152,A. Swift,http://dbpedia.org/resource/Taylor_Swift,http://dbpedia.org/resource/Allen_Swift
+2,153,J. Olson,http://dbpedia.org/resource/Justin_Olson,http://dbpedia.org/resource/Johnny_Olson http://dbpedia.org/resource/John_Leonard_Olson http://dbpedia.org/resource/Johnny_Olsen
+2,156,B. Woodson,http://dbpedia.org/resource/Charles_Woodson,http://dbpedia.org/resource/William_Woodson http://dbpedia.org/resource/Bill_Woodson
+2,157,B. Woodson,http://dbpedia.org/resource/Charles_Woodson,http://dbpedia.org/resource/William_Woodson http://dbpedia.org/resource/Bill_Woodson
+2,159,B. Woodson,http://dbpedia.org/resource/Charles_Woodson,http://dbpedia.org/resource/William_Woodson http://dbpedia.org/resource/Bill_Woodson
+2,160,J. Levy,http://dbpedia.org/resource/John_Levy_(musician),http://dbpedia.org/resource/Jane_Levy
+2,161,D. Kaufman,http://dbpedia.org/resource/Andy_Kaufman,http://dbpedia.org/resource/David_Kaufman_(actor)
+2,162,T. Kane,http://dbpedia.org/resource/Tim_Kane,http://dbpedia.org/resource/Tom_Kane
+2,163,J. Gilbert,http://dbpedia.org/resource/John_Gilbert_(actor),http://dbpedia.org/resource/Johnny_Gilbert
+2,164,J. Clark,http://dbpedia.org/resource/James_Clark_(Kentucky),http://dbpedia.org/resource/Jack_Clark_(television_personality) http://dbpedia.org/resource/Jack_Clark_(television)
+2,167,K. Curtis,http://dbpedia.org/resource/King_Curtis,http://dbpedia.org/resource/Keene_Curtis
+2,168,R. Lindsay,http://dbpedia.org/resource/Reg_Lindsay,http://dbpedia.org/resource/Robert_Lindsay_(actor)
+2,169,A. Meeks,http://dbpedia.org/resource/Ralph_Meeker,http://dbpedia.org/resource/Aaron_Meeks
+2,170,A. Brooks,http://dbpedia.org/resource/Albert_Brooks,http://dbpedia.org/resource/Avery_Brooks http://dbpedia.org/resource/Avery_Franklin_Brooks

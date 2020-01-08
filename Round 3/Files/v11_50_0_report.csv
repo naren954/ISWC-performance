@@ -1,0 +1,3 @@
+"F1: 0.94444","Precision: 0.94444","Recall: 0.94444"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","15","H. Jones","http://dbpedia.org/resource/Harvey_Jones","http://dbpedia.org/resource/Howard_Jones_(football_coach) http://dbpedia.org/resource/Howard_Jones_(American_football_coach) http://dbpedia.org/resource/Howard_H._Jones"

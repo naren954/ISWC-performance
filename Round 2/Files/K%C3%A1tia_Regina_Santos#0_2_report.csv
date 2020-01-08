@@ -1,0 +1,4 @@
+"F1: 0.86667","Precision: 0.86667","Recall: 0.86667"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"2","12","MedellÃ­n, Colombia","http://dbpedia.org/resource/Medellín","http://dbpedia.org/resource/Medellín,_Colombia"
+"2","18","BogotÃ¡, Colombia","http://dbpedia.org/resource/Bogotá","http://dbpedia.org/resource/Bogotá,_Colombia"

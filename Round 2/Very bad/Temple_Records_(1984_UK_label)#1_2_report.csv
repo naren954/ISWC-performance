@@ -1,0 +1,4 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,1,Live At The Pyramid N.Y.C. 11-3-88,,"http://dbpedia.org/resource/Live_at_the_Pyramid_N._Y._C._11-3-88 http://dbpedia.org/resource/Live_at_the_Pyramid_N.Y.C._11-3-88 http://dbpedia.org/resource/Live_at_the_Pyramid_NYC_11-3-88 http://dbpedia.org/resource/Live_At_The_Pyramid,_N.Y.C._11-3-88 http://dbpedia.org/resource/Live_At_The_Pyramid_N.Y.C._11-3-88 http://dbpedia.org/resource/Live_at_the_Pyramid_N_Y_C_11-3-88"
+2,2,"Live At The 930 Club Washington, D.C.",,"http://dbpedia.org/resource/Live_At_The_930_Club_Washington,_D.C. http://dbpedia.org/resource/Live_at_the_930_Club_Washington,_D.C. http://dbpedia.org/resource/Live_at_the_930_Club_Washington,_D._C. http://dbpedia.org/resource/Live_at_the_930_Club_Washington,_D_C http://dbpedia.org/resource/Live_At_The_930_Club,_Washington_D.C. http://dbpedia.org/resource/Live_at_the_930_Club_Washington,_DC"

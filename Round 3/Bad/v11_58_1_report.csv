@@ -1,0 +1,42 @@
+F1: 0.31034,Precision: 0.31034,Recall: 0.31034,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,6. A. Awards,http://dbpedia.org/resource/6th_Academy_Awards,http://dbpedia.org/resource/66th_Academy_Awards http://dbpedia.org/resource/66th_Academy_Awards_nominees_and_winners
+1,2,D. Hall,http://dbpedia.org/resource/David_Hall_(Oklahoma_governor),"http://dbpedia.org/resource/Dave_""Jam""_Hall http://dbpedia.org/resource/Dave_Hall_(record_producer) http://dbpedia.org/resource/Dave_Hall_(Record_Producer)"
+1,3,G. Durham,"http://dbpedia.org/resource/John_Lambton,_1st_Earl_of_Durham",http://dbpedia.org/resource/Geoffrey_Durham http://dbpedia.org/resource/The_Great_Soprendo
+1,6,C. Kolb,http://dbpedia.org/resource/Clarence_Kolb,http://dbpedia.org/resource/Carol_Kolb http://dbpedia.org/resource/Carol_Colb
+1,8,K. Louise,http://es.dbpedia.org/resource/Kerry_Louise,http://dbpedia.org/resource/Kerri_Louise
+1,9,L. Bromfield,http://dbpedia.org/resource/John_Bromfield,http://dbpedia.org/resource/Lois_Bromfield
+1,10,R. Meriläinen,http://fr.dbpedia.org/resource/Heikki_Meriläinen,http://dbpedia.org/resource/Rosa_Meriläinen http://dbpedia.org/resource/Rosa_Merilainen http://dbpedia.org/resource/Rosa_Merilaeinen
+1,13,J. Ryan,http://dbpedia.org/resource/John_Ryan_(diplomat),http://dbpedia.org/resource/Jon_Ryan
+1,15,J. Jones,http://dbpedia.org/resource/Jo_Jones,http://dbpedia.org/resource/Jason_Jones_(actor)
+1,17,E. Bye,http://dbpedia.org/resource/Erik_Bye,http://dbpedia.org/resource/Ed_Bye
+1,19,M. Rey,http://dbpedia.org/resource/Margret_Rey,http://dbpedia.org/resource/Margo_Rey
+1,20,B. Boozer,http://dbpedia.org/resource/Bob_Boozer,http://dbpedia.org/resource/Brenda_Boozer
+1,22,M. Bergman,http://dbpedia.org/resource/Marilyn_Bergman,http://dbpedia.org/resource/Martin_bergman http://dbpedia.org/resource/Martin_Bergman
+1,23,D. McGuire,http://dbpedia.org/resource/Dorothy_McGuire,http://dbpedia.org/resource/Deborah_McGuire http://dbpedia.org/resource/Deborah_Mcguire
+1,24,H. McBride,http://dbpedia.org/resource/Will_McBride_(photographer),http://dbpedia.org/resource/Harlee_McBride
+1,25,B. McFarlane,http://dbpedia.org/resource/Todd_McFarlane,http://dbpedia.org/resource/Bonnie_McFarlane http://dbpedia.org/resource/Bonnie_Vos
+1,26,C. Esposito,http://dbpedia.org/resource/Monica_Esposito,http://dbpedia.org/resource/Cameron_Esposito
+1,28,J. Dennison,http://dbpedia.org/resource/Bonnie_Dennison,http://dbpedia.org/resource/Jo-Carroll_Dennison http://dbpedia.org/resource/Jo_Dennison
+1,29,S. Erikson,http://dbpedia.org/resource/Erik_Erikson,http://dbpedia.org/resource/Sara_Erikson
+1,31,Dermatologist,http://dbpedia.org/resource/Jean-Louis-Marc_Alibert,http://dbpedia.org/resource/Dermatologic_surgery http://dbpedia.org/resource/Geriatric_dermatology http://dbpedia.org/resource/Skin_surgery http://dbpedia.org/resource/Dermatologic_agents http://dbpedia.org/resource/Dermatologic_Surgery http://dbpedia.org/resource/Dermatologic_surgeon http://dbpedia.org/resource/Geriatrics_dermatology http://dbpedia.org/resource/Dermatologist http://dbpedia.org/resource/Dermasurgery http://dbpedia.org/resource/Dermatologists http://dbpedia.org/resource/Dermatology http://dbpedia.org/resource/Dermatological http://dbpedia.org/resource/Skin_doctor
+1,33,C. Lee,http://dbpedia.org/resource/Christopher_Lee,http://dbpedia.org/resource/China_Lee
+1,36,N. Ogawa,http://dbpedia.org/resource/Noriko_Ogawa_(singer),http://dbpedia.org/resource/Natsumi_Ogawa
+1,38,W. Haas,http://dbpedia.org/resource/Werner_Haas_(pianist),http://dbpedia.org/resource/Wendy_Haas
+1,39,M. Wolff,http://dbpedia.org/resource/Michael_Wolff_(musician),http://dbpedia.org/resource/Mishna_Wolff
+1,41,R. Shuster,http://dbpedia.org/resource/Joe_Shuster,http://dbpedia.org/resource/Rosie_Shuster
+1,42,J. Wagner,http://dbpedia.org/resource/Jack_Wagner_(actor),http://dbpedia.org/resource/Jane_Wagner
+1,43,H. Harlow,http://dbpedia.org/resource/Jean_Harlow,http://dbpedia.org/resource/Honey_Bruce http://dbpedia.org/resource/Honey_Friedman http://dbpedia.org/resource/Honey_Harlow
+1,44,L. Jones,http://dbpedia.org/resource/LaKisha_Jones,http://dbpedia.org/resource/Leilani_Jones_(actress) http://dbpedia.org/resource/Leilani_Jones_Wilmore
+1,45,L. David,http://dbpedia.org/resource/Jacques-Louis_David,http://dbpedia.org/resource/Laurie_David http://dbpedia.org/resource/Laurie_Lennard_David http://dbpedia.org/resource/Laurie_Lennard
+1,46,L. Webb,http://dbpedia.org/resource/Jimmy_Webb,http://dbpedia.org/resource/Lucy_Webb
+1,47,S. Hibbert,http://dbpedia.org/resource/Christopher_Hibbert,http://dbpedia.org/resource/Stephen_Hibbert http://dbpedia.org/resource/Steve_Hibbert
+1,48,M. Heller,http://dbpedia.org/resource/Michel_Heller,http://dbpedia.org/resource/Can_You_Ever_Forgive_Me?_(film) http://dbpedia.org/resource/Marielle_Heller
+1,49,L. Beaumont,http://dbpedia.org/resource/Lucy_Beaumont,http://dbpedia.org/resource/Lucy_Beaumont_(comedian) http://dbpedia.org/resource/Lucy_Beaumont_(stand-up_comedian)
+1,50,M. Dunphy,http://dbpedia.org/resource/Jack_Dunphy,http://dbpedia.org/resource/Maia_Dunphy
+1,52,J. Gaffigan,http://dbpedia.org/resource/Jim_Gaffigan,http://dbpedia.org/resource/Jeannie_Noth http://dbpedia.org/resource/Jeannie_gaffigan http://dbpedia.org/resource/Jeannie_Gaffigan
+1,53,A. Holloway,http://dbpedia.org/resource/Stanley_Holloway,http://dbpedia.org/resource/Alison_Holloway
+1,54,J. Seinfeld,http://dbpedia.org/resource/Jerry_Seinfeld,http://dbpedia.org/resource/Jessica_Seinfeld http://dbpedia.org/resource/Jessica_Sklar
+1,56,M. Leno,http://dbpedia.org/resource/Jay_Leno,http://dbpedia.org/resource/Mavis_Leno
+1,57,R. Cohen,http://dbpedia.org/resource/Raymond_Cohen,http://dbpedia.org/resource/Robert_Cohen_(writer) http://dbpedia.org/resource/Robert_Cohen_(comedy_writer)
+1,58,S. Kawahara,http://dbpedia.org/resource/Kazuhisa_Kawahara_(actor),http://dbpedia.org/resource/Sarah_Kawahara http://dbpedia.org/resource/Sara_Kawahara

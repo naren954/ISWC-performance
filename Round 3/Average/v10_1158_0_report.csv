@@ -1,0 +1,11 @@
+F1: 0.59091,Precision: 0.59091,Recall: 0.59091,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,Smash,http://dbpedia.org/resource/Smash_(American_TV_series),http://dbpedia.org/resource/Smash_(TV_series) http://dbpedia.org/resource/Heaven_On_Earth_(musical)
+0,3,Small Talk,http://dbpedia.org/resource/Small_Talk_(American_game_show),http://dbpedia.org/resource/Small_Talk_(U.S._game_show) http://dbpedia.org/resource/Small_Talk_(US_game_show)
+0,7,Skippy: Adventures in Bushtown,http://dbpedia.org/resource/Skippy_the_Bush_Kangaroo,http://dbpedia.org/resource/Skippy:_Adventures_in_Bushtown
+0,8,Skins,http://dbpedia.org/resource/Skins_(British_TV_series),http://dbpedia.org/resource/Roundview_College http://dbpedia.org/resource/Lisa_backwell http://dbpedia.org/resource/Skins_(UK_TV_series) http://dbpedia.org/resource/Redd_Smith http://dbpedia.org/resource/Skins_(2007_TV_Series) http://dbpedia.org/resource/Lisa_Backwell_(actress) http://dbpedia.org/resource/Skins_(franchise) http://dbpedia.org/resource/Lisa_Backwell/version_2 http://dbpedia.org/resource/Skins_(2007_tv_series) http://dbpedia.org/resource/Posh_Kenneth http://dbpedia.org/resource/Skins_(2012_film) http://dbpedia.org/resource/Skins_(2011_film) http://dbpedia.org/resource/Skins_(TV_series)
+0,10,Sirens,http://dbpedia.org/resource/Sirens_(2014_TV_series),http://dbpedia.org/resource/Sirens_(UK_TV_series) http://dbpedia.org/resource/Sirens_(2011_TV_series)
+0,11,Sirens,http://dbpedia.org/resource/Sirens_(2014_TV_series),http://dbpedia.org/resource/Missing_(Sirens) http://dbpedia.org/resource/Sirens_(1993_TV_series) http://dbpedia.org/resource/Sirens_(1994_TV_series)
+0,13,Singhasan Battisi,http://dbpedia.org/resource/Sinhasan_Battisi_(TV_series),http://dbpedia.org/resource/Singhasan_Battisi_(TV_series) http://dbpedia.org/resource/Vikramadithanin_Simhasanam
+0,15,Simplemente María,http://dbpedia.org/resource/Simplemente_María_(1989_TV_series),http://dbpedia.org/resource/Simplemente_María_(1989_telenovela)
+0,20,SiS,http://dbpedia.org/resource/SiS_(talk_show),http://dbpedia.org/resource/Sis_(Philippine_TV_show) http://dbpedia.org/resource/SiS_(TV_series)

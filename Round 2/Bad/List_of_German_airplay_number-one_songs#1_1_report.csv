@@ -1,0 +1,12 @@
+F1: 0.33333,Precision: 0.33333,Recall: 0.33333,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,4,High,http://dbpedia.org/resource/High_School_Musical,http://dbpedia.org/resource/High_(James_Blunt_song)
+1,6,Far Away,http://dbpedia.org/resource/Far_Away_(Tyga_song),http://dbpedia.org/resource/Far_Away_(Nickelback_song)
+1,9,Sorry,"http://dbpedia.org/resource/Sorry,_Bro",http://dbpedia.org/resource/Madonna_sorry http://dbpedia.org/resource/Sorry_(Madonna_song)
+1,14,Stupid Girls,http://dbpedia.org/resource/Stupid_Girl_(Garbage_song),http://dbpedia.org/resource/Stupid_Girl_Epidemic http://dbpedia.org/resource/Stupid_Girls http://dbpedia.org/resource/Stupid_Girls_(song)
+1,16,Promise (You and Me),http://dbpedia.org/resource/Promise_(Ciara_song),http://dbpedia.org/resource/Promise_(You_and_Me) http://dbpedia.org/resource/Promise_(You_&_Me)
+1,23,Sin Sin Sin,http://dbpedia.org/resource/Sin_City_(film),http://dbpedia.org/resource/Sin_Sin_Sin
+1,30,Tonight,http://dbpedia.org/resource/The_Tonight_Show,http://dbpedia.org/resource/Tonight_(Reamonn_song)
+1,33,Breakaway,http://dbpedia.org/resource/Breakaway_(Space:_1999),http://dbpedia.org/resource/Breakaway_(Kelly_Clarkson_song) http://dbpedia.org/resource/Breakaway_(UK_Release) http://dbpedia.org/resource/Breakaway_(single)
+1,46,Patience,,http://dbpedia.org/resource/Patience_(Take_That_song) http://dbpedia.org/resource/Patience_(Nick_Lachey_song)
+1,49,All Good Things (Come to an End),http://dbpedia.org/resource/All_Good_Things..._(Star_Trek:_The_Next_Generation),http://dbpedia.org/resource/Lo_Bueno_Siempre_Tiene_un_Final http://dbpedia.org/resource/Lo_Bueno_Siempre_(Tiene_un_Final) http://dbpedia.org/resource/All_Good_Things_(Come_To_An_End) http://dbpedia.org/resource/All_Good_Things_Come_To_An_End http://dbpedia.org/resource/Lo_Bueno_Siempre_Tiene_Un_Final http://dbpedia.org/resource/All_Good_Things_(Nelly_Furtado_song) http://dbpedia.org/resource/All_Good_Things_Come_to_an_End http://dbpedia.org/resource/All_Good_Things_(Come_to_an_End) http://dbpedia.org/resource/Good_things_come_to_an_end http://dbpedia.org/resource/Lo_bueno_siempre_tiene_un_final

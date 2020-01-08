@@ -1,0 +1,45 @@
+F1: 0.58252,Precision: 0.58252,Recall: 0.58252,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,J. Wooldridge,http://dbpedia.org/resource/Stephen_Wooldridge,http://dbpedia.org/resource/John_Wooldridge_(British_composer) http://dbpedia.org/resource/John_Wooldridge
+1,3,H. Jackson,http://dbpedia.org/resource/Harry_Jackson_(cinematographer),http://dbpedia.org/resource/Howard_Jackson_(composer)
+1,8,M. Hadjidakis,,http://dbpedia.org/resource/Xatzidakis http://dbpedia.org/resource/Manos_Hadjidakis http://dbpedia.org/resource/Manos_Hatzidakis http://dbpedia.org/resource/Manos_Chatzidakis http://dbpedia.org/resource/Manos_Xatzidakis http://dbpedia.org/resource/Hadjidakis http://dbpedia.org/resource/Manos_Khatzidakis
+1,12,J. Burke,http://dbpedia.org/resource/Johnny_Burke_(lyricist),http://dbpedia.org/resource/Joe_Burke_(composer)
+1,17,A. Elms,http://dbpedia.org/resource/James_Elmes,http://dbpedia.org/resource/Albert_Elms
+1,19,H. Montenegro,http://dbpedia.org/resource/Pilar_Montenegro,http://dbpedia.org/resource/Hugo_Montenegro
+1,20,I. Sen,http://dbpedia.org/resource/Aparna_Sen,http://dbpedia.org/resource/Ivan_Sen
+1,23,B. Montgomery,http://dbpedia.org/resource/Buddy_Montgomery,http://dbpedia.org/resource/Bruce_Montgomery_(composer) http://dbpedia.org/resource/Robert_Bruce_Montgomery http://dbpedia.org/resource/Bruce_Montgomery_(Edmund_Crispin) http://dbpedia.org/resource/Edmund_Crispin
+1,24,J. Green,http://dbpedia.org/resource/Martyn_Green,"http://dbpedia.org/resource/Johnny_green http://dbpedia.org/resource/John_Waldo_Green http://dbpedia.org/resource/Waldo_Green http://dbpedia.org/resource/John_Waldo_""Johnny""_Green http://dbpedia.org/resource/John_Green_(composer) http://dbpedia.org/resource/Johnny_Green"
+1,26,L. Gregoretti,http://it.dbpedia.org/resource/Adolfo_Gregoretti,http://dbpedia.org/resource/Lucio_Gregoretti
+1,31,G. Bassman,http://dbpedia.org/resource/Don_Bassman,http://dbpedia.org/resource/George_Bassman
+1,32,S. Black,http://dbpedia.org/resource/Cilla_Black,http://dbpedia.org/resource/Stanley_Black
+1,34,G. Fried,http://dbpedia.org/resource/Germain_Fried,http://dbpedia.org/resource/Gerald_Fried
+1,36,E. Spear,http://dbpedia.org/resource/William_Shakespeare,http://dbpedia.org/resource/Eric_Spear
+1,38,G. Rose,http://dbpedia.org/resource/Gustav_Rose,http://dbpedia.org/resource/Gene_Rose
+1,40,B. May,http://dbpedia.org/resource/Brian_May,http://dbpedia.org/resource/Billy_May
+1,42,A. Newman,http://dbpedia.org/resource/Randy_Newman,http://dbpedia.org/resource/Alfred_Newman_(composer)
+1,44,A. Newman,http://dbpedia.org/resource/Randy_Newman,http://dbpedia.org/resource/Alfred_Newman_(composer)
+1,45,E. Newman,http://dbpedia.org/resource/Randy_Newman,http://dbpedia.org/resource/Emil_Newman
+1,49,E. Irving,http://dbpedia.org/resource/George_Irving_(American_actor),http://dbpedia.org/resource/Kelville_Ernest_Irving http://dbpedia.org/resource/Ernest_Irving
+1,55,S. Black,http://dbpedia.org/resource/Cilla_Black,http://dbpedia.org/resource/Stanley_Black
+1,56,D. Newman,http://dbpedia.org/resource/David_Newman_(screenwriter),http://dbpedia.org/resource/David_Newman_(composer)
+1,58,B. Broughton,"http://dbpedia.org/resource/John_Hobhouse,_1st_Baron_Broughton",http://dbpedia.org/resource/Bruce_Broughton
+1,66,P. Kam,http://dbpedia.org/resource/Søren_Kam,http://dbpedia.org/resource/Peter_Kam http://dbpedia.org/resource/Peter_Kam_Pui-tat
+1,67,A. Brewer,http://dbpedia.org/resource/Teresa_Brewer,http://dbpedia.org/resource/Alan_West_Brewer http://dbpedia.org/resource/Alan_Brewer
+1,69,C. Ishikawa,http://dbpedia.org/resource/Chiaki_Ishikawa,http://dbpedia.org/resource/石川忠 http://dbpedia.org/resource/Chu_Ishikawa http://dbpedia.org/resource/Chū_Ishikawa http://dbpedia.org/resource/Ishikawa_Chu http://dbpedia.org/resource/Ishikawa_Chū
+1,70,A. Glasser,http://dbpedia.org/resource/Philip_Glass,http://dbpedia.org/resource/Albert_Glasser
+1,71,X. Jamaux,http://dbpedia.org/resource/X_Japan,http://dbpedia.org/resource/Xavier_Jamaux
+1,72,M. Ishii,http://dbpedia.org/resource/Masanori_Ishii,http://dbpedia.org/resource/Maki_Ishi http://dbpedia.org/resource/Ishii_Maki http://dbpedia.org/resource/Maki_Ishii
+1,73,H. Rene,http://dbpedia.org/resource/James_Hadley_Chase,http://dbpedia.org/resource/Henri_René http://dbpedia.org/resource/Henri_Rene
+1,75,L. Demare,http://dbpedia.org/resource/Lucas_Demare,http://dbpedia.org/resource/Lucio_Demare
+1,77,J. Lange,http://dbpedia.org/resource/Jessica_Lange,http://dbpedia.org/resource/Johnny_Lange
+1,79,A. Newman,http://dbpedia.org/resource/Randy_Newman,http://dbpedia.org/resource/Alfred_Newman_(composer)
+1,84,P. Glass,http://dbpedia.org/resource/Philip_Glass,http://dbpedia.org/resource/Paul_Glass
+1,85,S. J. Taylor,http://dbpedia.org/resource/The_Game_(rapper),http://dbpedia.org/resource/Stephen_James_Taylor http://dbpedia.org/resource/Stephen_james_taylor http://dbpedia.org/resource/Stephen_James_taylor
+1,88,B. Nilsson,http://dbpedia.org/resource/Birgit_Nilsson,http://dbpedia.org/resource/Bo_Nilsson
+1,90,W. Chung,http://dbpedia.org/resource/Wallace_Chung,http://dbpedia.org/resource/Wang_Chung_(band)
+1,92,E. Bernstein,http://dbpedia.org/resource/Leonard_Bernstein,http://dbpedia.org/resource/Elmer_Bernstein http://dbpedia.org/resource/Elmer_Berstein
+1,93,G. Gladkov,"http://ru.dbpedia.org/resource/Гладков,_Григорий_Васильевич",http://dbpedia.org/resource/Gennady_Gladkov http://dbpedia.org/resource/Gennadi_Gladkov
+1,94,F. Spencer,http://dbpedia.org/resource/Fred_Spencer,http://dbpedia.org/resource/Frank_Spencer_(composer)
+1,97,B. Ghiglia,http://dbpedia.org/resource/Oscar_Ghiglia,http://dbpedia.org/resource/Benedetto_Ghiglia
+1,100,R. Lavista,http://dbpedia.org/resource/Mario_Lavista,http://dbpedia.org/resource/Raúl_Lavista
+1,101,L. Murray,http://dbpedia.org/resource/Les_Murray_(poet),http://dbpedia.org/resource/Lyn_Murray

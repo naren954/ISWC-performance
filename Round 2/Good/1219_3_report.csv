@@ -1,0 +1,9 @@
+F1: 0.79412,Precision: 0.79412,Recall: 0.79412,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,15,R. Davis,http://dbpedia.org/resource/Ronald_Davis,http://dbpedia.org/resource/Rod_Davis_(sailor) http://dbpedia.org/resource/Rod_Davis_(yachting)
+3,21,R. Davis,http://dbpedia.org/resource/Ronald_Davis,http://dbpedia.org/resource/Rod_Davis_(sailor) http://dbpedia.org/resource/Rod_Davis_(yachting)
+3,26,C. Timms,http://dbpedia.org/resource/Michele_Timms,http://dbpedia.org/resource/Chris_Timms
+3,27,M. Reynolds,http://dbpedia.org/resource/Malvina_Reynolds,http://dbpedia.org/resource/Mark_Reynolds_(sailor)
+3,29,T. Tõniste,http://dbpedia.org/resource/Toomas_Tõniste,http://dbpedia.org/resource/Tõnu_Tõniste http://dbpedia.org/resource/Tonu_Toniste
+3,33,C. Timms,http://dbpedia.org/resource/Michele_Timms,http://dbpedia.org/resource/Chris_Timms
+3,34,M. Reynolds,http://dbpedia.org/resource/Malvina_Reynolds,http://dbpedia.org/resource/Mark_Reynolds_(sailor)

@@ -1,0 +1,11 @@
+F1: 0.94915,Precision: 0.94915,Recall: 0.94915,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,Roberto,http://dbpedia.org/resource/Roberto_Marinho,http://dbpedia.org/resource/Roberto_(horse)
+1,20,Bold Lad,http://dbpedia.org/resource/Bold_Lad,http://dbpedia.org/resource/Bold_Lad_(IRE) http://dbpedia.org/resource/Bold_Lad_II
+1,62,Roberto,http://dbpedia.org/resource/Roberto_Marinho,http://dbpedia.org/resource/Roberto_(horse)
+1,82,Roberto,http://dbpedia.org/resource/Roberto_Marinho,http://dbpedia.org/resource/Roberto_(horse)
+1,97,Roberto,http://dbpedia.org/resource/Roberto_Marinho,http://dbpedia.org/resource/Roberto_(horse)
+1,114,Hastings,"http://dbpedia.org/resource/John_Hastings,_2nd_Earl_of_Pembroke",http://dbpedia.org/resource/Hastings_(horse)
+1,120,Roberto,http://dbpedia.org/resource/Roberto_Marinho,http://dbpedia.org/resource/Roberto_(horse)
+1,163,Roberto,http://dbpedia.org/resource/Roberto_Marinho,http://dbpedia.org/resource/Roberto_(horse)
+1,176,Bold Lad,http://dbpedia.org/resource/Bold_Lad,http://dbpedia.org/resource/Bold_Lad_(IRE) http://dbpedia.org/resource/Bold_Lad_II

@@ -1,0 +1,6 @@
+"F1: 0.60000","Precision: 0.60000","Recall: 0.60000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","9","Helen Grace","http://dbpedia.org/resource/Lena_Rice","http://dbpedia.org/resource/Helen_Grace"
+"1","12","Michael J. Jackson","http://dbpedia.org/resource/Michael_Jackson","http://dbpedia.org/resource/Michael_J._Jackson http://dbpedia.org/resource/Michael_J._Jackson_(actor)"
+"1","20","Brian Regan","http://dbpedia.org/resource/Brian_Regan_(comedian)","http://dbpedia.org/resource/Brian_regan_brookside http://dbpedia.org/resource/Brian_Regan_(actor)"
+"1","21","Michael Starke","http://de.dbpedia.org/resource/Michael_Starke","http://dbpedia.org/resource/Mickey_Starke http://dbpedia.org/resource/Michael_Starke_(actor)"

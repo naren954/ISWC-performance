@@ -1,0 +1,12 @@
+F1: 0.16667,Precision: 0.16667,Recall: 0.16667,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,S. Seifert,http://dbpedia.org/resource/Sebastian_Seifert,http://dbpedia.org/resource/Sandra_Seifert http://dbpedia.org/resource/Sandra_Inez_Seifert
+0,2,M. Leonardo,http://dbpedia.org/resource/Leonaert_Bramer,http://dbpedia.org/resource/Michelle_Leonardo
+0,3,M. Young,http://dbpedia.org/resource/Matt_Young_(footballer),http://dbpedia.org/resource/Megan_Young http://dbpedia.org/resource/Megan_young
+0,4,L. Gonçalves,http://dbpedia.org/resource/José_Gonçalves_(cyclist),http://dbpedia.org/resource/Laura_Gonçalves http://dbpedia.org/resource/Laura_Goncalves
+0,5,K. Tyler,http://dbpedia.org/resource/Francis_Tyler,http://dbpedia.org/resource/Karmyn_Tyler
+0,8,B. Guidotti,http://de.dbpedia.org/resource/Giovanni_Battista_Guidotti,http://dbpedia.org/resource/Bianca_Guidotti http://dbpedia.org/resource/Mary_Anne_Bianca_Guidotti
+0,9,A. D'Silva,http://dbpedia.org/resource/Shilton_D'Silva,http://dbpedia.org/resource/Audrey_D'Silva http://dbpedia.org/resource/Audrey_D'silva
+0,10,A. Bhat,http://dbpedia.org/resource/Arvind_Bhat,http://dbpedia.org/resource/Asha_Bhat_(Model) http://dbpedia.org/resource/Asha_Bhat_(model) http://dbpedia.org/resource/Asha_Bhat
+0,11,A. Khosla,http://dbpedia.org/resource/Pradeep_Khosla,http://dbpedia.org/resource/Aaital_Khosla
+0,12,A. Vaz,http://dbpedia.org/resource/Adilson_Vaz,http://dbpedia.org/resource/Aafreen_Rachael_Vaz http://dbpedia.org/resource/Aafreen_Vaz

@@ -1,0 +1,61 @@
+F1: 0.45872,Precision: 0.45872,Recall: 0.45872,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,3,R. Taylor,http://dbpedia.org/resource/Elizabeth_Taylor,http://dbpedia.org/resource/Richard_Taylor_(general) http://dbpedia.org/resource/Richard_Tayor_(general) http://dbpedia.org/resource/Richard_Tayor
+2,6,"John Slim, 2nd Viscount Slim","http://dbpedia.org/resource/John_Savage,_2nd_Earl_Rivers","http://dbpedia.org/resource/John_Slim,_2nd_Viscount_Slim http://dbpedia.org/resource/John_Douglas_Slim,_2nd_Viscount_Slim"
+2,9,K. McKinley,http://dbpedia.org/resource/Chuck_McKinley,http://dbpedia.org/resource/Katherine_McKinley http://dbpedia.org/resource/Katie_McKinley
+2,11,J. S. Harrison,http://dbpedia.org/resource/William_Jennings_Bryan,http://dbpedia.org/resource/John_S._Harrison http://dbpedia.org/resource/John_Scott_Harrison
+2,12,W. Goforth,http://dbpedia.org/resource/William_Goforth,http://dbpedia.org/resource/William_Goforth_(doctor)
+2,14,Elizabeth,http://dbpedia.org/resource/Elizabeth_II,http://dbpedia.org/resource/Elizabeth_(movie) http://dbpedia.org/resource/Elizabeth_(1998_film) http://dbpedia.org/resource/Elizabeth_(1998_movie) http://dbpedia.org/resource/Elizabeth_(film)
+2,15,D. Breckinridge,http://dbpedia.org/resource/John_C._Breckinridge,http://dbpedia.org/resource/Desha_Breckinridge
+2,16,W. A. Jr.,http://dbpedia.org/resource/George_W._Bush,"http://dbpedia.org/resource/Watkins_Abbitt,_Jr."
+2,18,W. Annenberg,http://dbpedia.org/resource/Walter_Annenberg,http://dbpedia.org/resource/Wallis_Annenberg
+2,19,F. Borromeo,http://dbpedia.org/resource/Federico_Borromeo,http://dbpedia.org/resource/Filippo_Borromeo
+2,20,C. B. Isakson,http://dbpedia.org/resource/C._B._Macpherson,http://dbpedia.org/resource/Carolina_Barco http://dbpedia.org/resource/Carolina_Barco_Isakson
+2,22,S. Corrigan,http://dbpedia.org/resource/Dominic_Corrigan,http://dbpedia.org/resource/Stanislaus_Terence_Corrigan http://dbpedia.org/resource/Stan_Corrigan http://dbpedia.org/resource/Stanislaus_Corrigan
+2,23,B. Ruggles,http://dbpedia.org/resource/Benjamin_Ruggles,http://dbpedia.org/resource/Basheba_Ruggles http://dbpedia.org/resource/Basheba_Spooner http://dbpedia.org/resource/Bathsheba_Ruggles http://dbpedia.org/resource/Bathsheba_Spooner
+2,24,T. Armstrong,http://dbpedia.org/resource/Tommy_Armstrong_(American_politician),http://dbpedia.org/resource/Arthur_Ernest_Armstrong http://dbpedia.org/resource/Tommy_Armstrong_(New_Zealand_politician)
+2,25,T. Hislop,http://dbpedia.org/resource/Thomas_William_Hislop,http://dbpedia.org/resource/Thomas_Charles_Hislop http://dbpedia.org/resource/T_C_A_Hislop http://dbpedia.org/resource/Thomas_Hislop_(mayor) http://dbpedia.org/resource/Thomas_Charles_Atkinson_Hislop
+2,26,"Thomas T. Crittenden, Jr.",http://dbpedia.org/resource/Thomas_Theodore_Crittenden,"http://dbpedia.org/resource/Thomas_Theodore_Crittenden_Jr http://dbpedia.org/resource/Thomas_T._Crittenden_Jr. http://dbpedia.org/resource/Thomas_T._Crittenden,_Jr."
+2,27,T. Rice,http://dbpedia.org/resource/Thomas_Rice_(1768),http://dbpedia.org/resource/Thomas_Rice_(1734)
+2,29,M. J. Randolph,http://dbpedia.org/resource/Thomas_Mann_Randolph_Jr.,http://dbpedia.org/resource/Martha_Washington_Jefferson http://dbpedia.org/resource/Martha_Randolph http://dbpedia.org/resource/Patsy_Jefferson http://dbpedia.org/resource/Martha_Washington_Randolph http://dbpedia.org/resource/Martha_Jefferson_Randolph http://dbpedia.org/resource/Martha_Washington_Jefferson_Randolph
+2,30,"Gregory Cromwell, 1st Baron Cromwell",http://dbpedia.org/resource/Thomas_Cromwell,"http://dbpedia.org/resource/Gregory_Cromwell,_1st_Baron_Cromwell_of_Oakham http://dbpedia.org/resource/Gregory_Cromwell,_1st_Baron_Cromwell http://dbpedia.org/resource/Gregory_Cromwell"
+2,33,P. J. Kennedy,http://dbpedia.org/resource/P._J._Kennedy,http://dbpedia.org/resource/Patrick_J_Kennedy http://dbpedia.org/resource/Patrick_Joseph_Kennedy_II http://dbpedia.org/resource/Patrick_Joseph_Kennedy http://dbpedia.org/resource/Patrick_J._Kennedy_(II) http://dbpedia.org/resource/Patrick_J._Kennedy
+2,34,C. R. Sherman,http://dbpedia.org/resource/Robert_B._Sherman,http://dbpedia.org/resource/Charles_R._Sherman http://dbpedia.org/resource/Charles_Robert_Sherman
+2,35,"Sir John Hynde Cotton, 4th Baronet","http://dbpedia.org/resource/Stapleton_Cotton,_1st_Viscount_Combermere","http://dbpedia.org/resource/Sir_John_Hynde_Cotton,_4th_Baronet"
+2,37,D. N. Ramgoolam,,http://dbpedia.org/resource/Navinchandra_Ramgoolam http://dbpedia.org/resource/Navinchadra_Ramgoolam http://dbpedia.org/resource/Navin_Ramgoolam http://dbpedia.org/resource/Naveen_Ramgulam http://dbpedia.org/resource/Dr._Navin_Ramgoolam http://dbpedia.org/resource/Dr_Navin_Ramgoolam
+2,38,J. Lockwood,http://dbpedia.org/resource/Margaret_Lockwood,http://dbpedia.org/resource/James_Lockwood_(Connecticut_politician)
+2,39,M. Seymour,"http://dbpedia.org/resource/Michael_Seymour_(Royal_Navy_officer,_born_1802)",http://dbpedia.org/resource/Matthew_Seymour http://dbpedia.org/resource/Matthew_Seamore http://dbpedia.org/resource/Matthew_Seamer
+2,42,A. L. II,http://dbpedia.org/resource/Catherine_the_Great,http://dbpedia.org/resource/Abraham_Lincoln_II
+2,43,J. Olmsted,http://dbpedia.org/resource/Denison_Olmsted,http://dbpedia.org/resource/James_Olmsted
+2,44,"Richard Grosvenor, 1st Baron Stalbridge","http://dbpedia.org/resource/Richard_Grosvenor,_1st_Earl_Grosvenor","http://dbpedia.org/resource/Lord_Richard_de_Aquila_Grosvenor http://dbpedia.org/resource/Richard_Grosvenor,_1st_Baron_Stalbridge http://dbpedia.org/resource/Lord_Richard_Grosvenor http://dbpedia.org/resource/Richard_de_Aquila_Grosvenor,_1st_Baron_Stalbridge"
+2,45,A. Trudeau,http://dbpedia.org/resource/Pierre_Trudeau,http://dbpedia.org/resource/Alexandre_Trudeau http://dbpedia.org/resource/Sacha_Trudeau
+2,49,Lord Deputy of Ireland,"http://dbpedia.org/resource/Gerald_FitzGerald,_9th_Earl_of_Kildare",http://dbpedia.org/resource/Lord_deputy_of_Ireland http://dbpedia.org/resource/Lord_Deputy http://dbpedia.org/resource/Lord_deputy http://dbpedia.org/resource/Lord_Deputy_of_Ireland http://dbpedia.org/resource/Lord-deputy_of_Ireland
+2,52,M. P. Fillmore,http://dbpedia.org/resource/Millard_Fillmore,http://dbpedia.org/resource/Millard_Powers_Fillmore
+2,54,M. A. Aurangzeb,http://dbpedia.org/resource/Aurangzeb,http://dbpedia.org/resource/Miangul_Adnan_Aurangzeb
+2,56,S. Hartt,http://dbpedia.org/resource/Maurice_Hartt,http://dbpedia.org/resource/Stanley_Hartt
+2,58,A. Trafton,http://dbpedia.org/resource/Mark_Trafton,http://dbpedia.org/resource/Adeline_Trafton
+2,59,L. B. Johnson,http://dbpedia.org/resource/Lyndon_B._Johnson,http://dbpedia.org/resource/Luci_Johnson http://dbpedia.org/resource/Luci_Baines_Johnson_Turpin http://dbpedia.org/resource/Luci_Baines_Johnson http://dbpedia.org/resource/Luci_Nugent http://dbpedia.org/resource/Luci_Turpin
+2,64,C. D. Cannon,http://dbpedia.org/resource/T._C._Cannon,http://dbpedia.org/resource/Charles-Arthur_Dumoulin_Cannon http://dbpedia.org/resource/Charles_Cannon_(Quebec_politician)
+2,66,F. Kossuth,http://dbpedia.org/resource/Lajos_Kossuth,http://dbpedia.org/resource/Ferenc_Kossuth
+2,67,A. Malima,http://dbpedia.org/resource/Adam_Malima,http://dbpedia.org/resource/Asanterabi_Malima
+2,71,M. Rosas,http://dbpedia.org/resource/Juan_Manuel_de_Rosas,http://dbpedia.org/resource/Manuela_Rosas
+2,72,Aleksandar,http://dbpedia.org/resource/Alexander_I_of_Yugoslavia,http://dbpedia.org/resource/Mišo_Broz http://dbpedia.org/resource/Aleksandar_(Mišo)_Broz http://dbpedia.org/resource/Miso_Broz
+2,73,B. I. Gilman,http://dbpedia.org/resource/Charlotte_Perkins_Gilman,http://dbpedia.org/resource/Benjamin_Ives_Gilman_(1766)
+2,74,A. Chamberlain,http://dbpedia.org/resource/Neville_Chamberlain,"http://dbpedia.org/resource/Sir_Joseph_Austen_Chamberlain,_KG http://dbpedia.org/resource/Austin_Chamberlain http://dbpedia.org/resource/Austen_Chamberlain http://dbpedia.org/resource/A_Chamberlain http://dbpedia.org/resource/Sir_Austen_Chamberlain http://dbpedia.org/resource/Joseph_Austen_Chamberlain http://dbpedia.org/resource/Sir_Joseph_Austen_Chamberlain_KG http://dbpedia.org/resource/Sir_Joseph_Austen_Chamberlain"
+2,75,T. Cahill,http://dbpedia.org/resource/James_Cahill_(art_historian),http://dbpedia.org/resource/Thom_Cahill http://dbpedia.org/resource/Tom_Cahill_(Australian_politician) http://dbpedia.org/resource/Thomas_Cahill_(Australian_politician)
+2,76,J. Belcher,http://dbpedia.org/resource/Jovan_Belcher,http://dbpedia.org/resource/Jonathan_Belcher_(lieutenant_governor) http://dbpedia.org/resource/Jonathan_Belcher_(jurist)
+2,80,E. A. Poe,http://dbpedia.org/resource/Edgar_Allan_Poe,http://dbpedia.org/resource/Edgar_Allan_Poe_(Maryland_attorney_general) http://dbpedia.org/resource/Edgar_Allan_Poe_(American_football) http://dbpedia.org/resource/Edgar_Allan_Poe_(Maryland_Attorney_General)
+2,81,N. Lemmon,http://dbpedia.org/resource/Jack_Lemmon,http://dbpedia.org/resource/Nelson_Lemmon
+2,84,J. Benedict,http://dbpedia.org/resource/Julius_Benedict,http://dbpedia.org/resource/John_Benedict
+2,87,C. Breckinridge,http://dbpedia.org/resource/John_C._Breckinridge,http://dbpedia.org/resource/Cabell_Breckinridge
+2,88,T. Betts,http://dbpedia.org/resource/Thaddeus_Betts,http://dbpedia.org/resource/Thaddeus_Betts_(physician)
+2,90,J. A. II,http://dbpedia.org/resource/James_II_of_England,http://dbpedia.org/resource/Joel_Adams_II
+2,92,J. N. Colbert,http://dbpedia.org/resource/Jean-Baptiste_Colbert,http://dbpedia.org/resource/Jacques_Nicolas_Colbert http://dbpedia.org/resource/Jacques-Nicolas_Colbert
+2,96,P. Stewart,http://dbpedia.org/resource/Patrick_Stewart,http://dbpedia.org/resource/Stewart_J http://dbpedia.org/resource/Potter_Stewart http://dbpedia.org/resource/Justice_Potter_Stewart
+2,97,A. Gregory,http://dbpedia.org/resource/Pope_Gregory_I,http://dbpedia.org/resource/Alyse_gregory http://dbpedia.org/resource/Alyse_Gregory
+2,99,M. Layton,http://dbpedia.org/resource/Irving_Layton,http://dbpedia.org/resource/Mike_Layton
+2,100,Virginia,http://dbpedia.org/resource/Virginia_Woolf,"http://dbpedia.org/resource/Virginia_(state) http://dbpedia.org/resource/Virginia,_United_States http://dbpedia.org/resource/Rest_of_Virginia http://dbpedia.org/resource/Council_of_Virginia http://dbpedia.org/resource/Virginia_(U.S._state) http://dbpedia.org/resource/Mother_of_Presidents http://dbpedia.org/resource/Viginia http://dbpedia.org/resource/VA,_USA http://dbpedia.org/resource/Virginia_(USA_state) http://dbpedia.org/resource/The_Mother_of_Presidents http://dbpedia.org/resource/Commonwealth_of_Virginia http://dbpedia.org/resource/The_Old_Dominion http://dbpedia.org/resource/Virginia_(USA_State) http://dbpedia.org/resource/Commonwealth_of_VA http://dbpedia.org/resource/Virginian_Commonwealth http://dbpedia.org/resource/Religion_in_Virginia http://dbpedia.org/resource/State_of_Virginia http://dbpedia.org/resource/Virginia http://dbpedia.org/resource/Sports_in_Virginia http://dbpedia.org/resource/East_Virginia_(disambiguation) http://dbpedia.org/resource/Virgina http://dbpedia.org/resource/Virgiinia http://dbpedia.org/resource/Eastern_Virginia http://dbpedia.org/resource/US-VA http://dbpedia.org/resource/The_Commonwealth_of_Virginia http://dbpedia.org/resource/Tenth_State http://dbpedia.org/resource/Virginia_(State) http://dbpedia.org/resource/VA_(state) http://dbpedia.org/resource/10th_State http://dbpedia.org/resource/Virginia,_USA"
+2,103,W. B. Raster,http://dbpedia.org/resource/W._B._Maxwell,http://dbpedia.org/resource/Walther_Berthold_Raster
+2,104,A. Hoover,http://dbpedia.org/resource/Herbert_Hoover,http://dbpedia.org/resource/Allen_Hoover http://dbpedia.org/resource/Allan_Hoover http://dbpedia.org/resource/Allan_Henry_Hoover
+2,106,S. Holland,http://dbpedia.org/resource/Spessard_Holland,"http://dbpedia.org/resource/Sir_Sidney_George_Holland http://dbpedia.org/resource/Sidney_Holland http://dbpedia.org/resource/Sidney_George_Holland http://dbpedia.org/resource/Sid_Holland http://dbpedia.org/resource/Holland,_Sir_Sidney_George"
+2,107,H. Grattan,http://dbpedia.org/resource/Henry_Grattan,http://dbpedia.org/resource/Henry_Grattan_(junior)

@@ -1,0 +1,5 @@
+"F1: 0.72727","Precision: 0.72727","Recall: 0.72727"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","1","Walk On By","http://dbpedia.org/resource/Walk_On_By_(song)","http://dbpedia.org/resource/Walk_on_By_(1961_song) http://dbpedia.org/resource/Walk_on_By_(Leroy_Van_Dyke_song) http://dbpedia.org/resource/Walk_On_By_(Leroy_Van_Dyke_song)"
+"1","10","Misery Loves Company","http://dbpedia.org/resource/Misery_Loves_My_Company","http://dbpedia.org/resource/Misery_Loves_Company_(Porter_Wagoner_song)"
+"1","35","Devil Woman","http://dbpedia.org/resource/Devil_Woman","http://dbpedia.org/resource/Devil_Woman_(Marty_Robbins_song)"

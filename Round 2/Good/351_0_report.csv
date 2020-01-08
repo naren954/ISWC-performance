@@ -1,0 +1,30 @@
+F1: 0.76471,Precision: 0.76471,Recall: 0.76471,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,J. Roberts,http://dbpedia.org/resource/Jack_Roberts_(American_football),http://dbpedia.org/resource/Jack_Roberts_(Canadian_football)
+0,2,J. Riley,http://dbpedia.org/resource/Jim_Riley_(ice_hockey),http://dbpedia.org/resource/John_Riley_(wrestler) http://dbpedia.org/resource/Jack_Riley_(American_football) http://dbpedia.org/resource/Jack_Riley_(football_player) http://dbpedia.org/resource/Jack_Riley_(football)
+0,4,J. O'Billovich,http://dbpedia.org/resource/O._J._Simpson,http://dbpedia.org/resource/Jack_O'Billovich
+0,7,J. McGee,http://dbpedia.org/resource/Max_McGee,http://dbpedia.org/resource/Jack_McGee_(Canadian_football)
+0,8,J. Manners,http://dbpedia.org/resource/John_Manners_(cricketer),http://dbpedia.org/resource/Jack_Manners
+0,12,J. Lee,http://dbpedia.org/resource/Janet_Lee,http://dbpedia.org/resource/Jack_Lee_(American_football)
+0,14,J. Keogh,http://dbpedia.org/resource/John_Keogh_(footballer),http://dbpedia.org/resource/Jack_Keogh
+0,16,J. Johnson,http://dbpedia.org/resource/Johnny_Johnson_(American_football),http://dbpedia.org/resource/Jack_Johnson_(tackle)
+0,18,J. Jacobs,http://dbpedia.org/resource/Joe_Jacobs_(American_football),http://dbpedia.org/resource/Jack_Jacobs http://dbpedia.org/resource/Jack_jacobs http://dbpedia.org/resource/Indian_Jack
+0,21,J. Hill,http://dbpedia.org/resource/Jim_Hill_(American_football),http://dbpedia.org/resource/Jack_Hill_(Canadian_football)
+0,22,J. Harris,http://dbpedia.org/resource/Jackie_Harris,http://dbpedia.org/resource/Jack_Harris_(American_football)
+0,28,J. Finn,http://dbpedia.org/resource/Jim_Finn,http://dbpedia.org/resource/Jack_Finn
+0,34,J. Davis,http://dbpedia.org/resource/James_Davis_(running_back),"http://dbpedia.org/resource/Jack_Davis_(guard,_born_1933)"
+0,35,J. Davis,http://dbpedia.org/resource/James_Davis_(running_back),"http://dbpedia.org/resource/Jack_Davis_(football_player) http://dbpedia.org/resource/Jack_Davis_(American_football,_born_1932) http://dbpedia.org/resource/Jack_Davis_(guard,_born_1932) http://dbpedia.org/resource/Jack_Davis_(American_football)"
+0,49,J. J. Wise,http://dbpedia.org/resource/J._T._Wise,http://dbpedia.org/resource/Jacob_Wise http://dbpedia.org/resource/J.J._Wise http://dbpedia.org/resource/J._J._Wise
+0,56,I. Qazi,http://dbpedia.org/resource/Mohammad_Qazi,http://dbpedia.org/resource/Izhar_Qazi
+0,64,I. Williams,http://dbpedia.org/resource/Ian_Williams_(American_football),http://dbpedia.org/resource/Ike_Williams_(American_football)
+0,70,I. Gibb,http://dbpedia.org/resource/Scott_Gibbs,http://dbpedia.org/resource/Ian_Gibb
+0,74,H. Smith,http://dbpedia.org/resource/Herman_Smith_(gridiron_football),http://dbpedia.org/resource/Hugh_Smith_(American_football_player) http://dbpedia.org/resource/Hugh_Smith_(American_football)
+0,80,H. Welch,http://dbpedia.org/resource/Herb_Welch,http://dbpedia.org/resource/Huck_Welch http://dbpedia.org/resource/Hugh_Welch http://dbpedia.org/resource/Hawley_Welch
+0,85,H. Turner,http://dbpedia.org/resource/Howard_Turner,http://dbpedia.org/resource/Howie_Turner
+0,86,H. Schumm,http://dbpedia.org/resource/Herb_Schumm,http://dbpedia.org/resource/Howie_Schumm
+0,87,H. Hansen,http://dbpedia.org/resource/Hal_Hansen,http://dbpedia.org/resource/Howie_Hansen
+0,88,H. Brown,http://dbpedia.org/resource/Hardy_Brown,http://dbpedia.org/resource/Howie_Brown
+0,96,H. Johnson,http://dbpedia.org/resource/Harold_Johnson_(basketball),http://dbpedia.org/resource/Howard_Johnson_(American_football)
+0,97,H. Glenn,http://dbpedia.org/resource/Harry_Glenn,http://dbpedia.org/resource/Howard_Glenn
+0,109,H. Braunsteiner,http://dbpedia.org/resource/Dominik_Braunsteiner,http://dbpedia.org/resource/Hermine_Braunsteiner
+0,114,H. Harrison,http://dbpedia.org/resource/Hunter_Harrison_(soccer),http://dbpedia.org/resource/Herm_Harrison

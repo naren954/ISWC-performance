@@ -1,0 +1,7 @@
+F1: 0.54545,Precision: 0.54545,Recall: 0.54545,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,T. Purcell,http://dbpedia.org/resource/Teddy_Purcell,http://dbpedia.org/resource/Tommy_Purcell
+0,3,T. Mulligan,http://dbpedia.org/resource/Dave_Mulligan,http://dbpedia.org/resource/Tom_Mulligan
+0,7,S. Kenny,http://dbpedia.org/resource/Séamus_Kenny,http://dbpedia.org/resource/Seán_Kenny_(hurler) http://dbpedia.org/resource/Sean_Kenny_(hurler)
+0,10,S. Kenny,http://dbpedia.org/resource/Séamus_Kenny,http://dbpedia.org/resource/Seán_Kenny_(hurler) http://dbpedia.org/resource/Sean_Kenny_(hurler)
+0,11,P. Grimes,http://dbpedia.org/resource/Reggie_Grimes,http://dbpedia.org/resource/Phil_Grimes http://dbpedia.org/resource/Philly_Grimes

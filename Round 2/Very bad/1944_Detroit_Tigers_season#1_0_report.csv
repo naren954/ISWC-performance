@@ -1,0 +1,9 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,Boston,http://dbpedia.org/resource/Boston,http://dbpedia.org/resource/1944_Boston_Red_Sox_season
+0,3,Chicago,http://dbpedia.org/resource/Chicago,http://dbpedia.org/resource/1944_Chicago_White_Sox_season
+0,4,Cleveland,http://dbpedia.org/resource/Grover_Cleveland,http://dbpedia.org/resource/1944_Cleveland_Indians_season
+0,6,New York,http://dbpedia.org/resource/New_York_(state),http://dbpedia.org/resource/1944_New_York_Yankees_season
+0,7,Philadelphia,http://dbpedia.org/resource/Philadelphia,http://dbpedia.org/resource/1944_Philadelphia_Athletics_season
+0,8,St. Louis,http://dbpedia.org/resource/St._Louis,http://dbpedia.org/resource/1944_St._Louis_Browns_season
+0,9,Washington,"http://dbpedia.org/resource/Washington,_D.C.",http://dbpedia.org/resource/1944_Washington_Senators_season

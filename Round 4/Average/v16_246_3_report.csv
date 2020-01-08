@@ -1,0 +1,23 @@
+F1: 0.58824,Precision: 0.58824,Recall: 0.58824,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,1,F. Alvarez,http://pt.dbpedia.org/resource/Fabiana_Alvarez,http://dbpedia.org/resource/Fede_Álvarez http://dbpedia.org/resource/Fede_Alvarez
+3,5,N. Kamath,http://dbpedia.org/resource/Anil_Kamath,http://dbpedia.org/resource/Nishikanth_Kamath http://dbpedia.org/resource/Nishikant_Kamath http://dbpedia.org/resource/Nishikant_Kamat http://dbpedia.org/resource/Nishikanth_Kamat
+3,12,P. Spears,http://dbpedia.org/resource/Britney_Spears,http://dbpedia.org/resource/Peter_Spears
+3,15,P. Duffell,http://dbpedia.org/resource/Peter_Duffell_(British_Army_officer),http://dbpedia.org/resource/Peter_Duffell
+3,20,P. Kosminsky,http://fr.dbpedia.org/resource/Evgueni_Kosminski,http://dbpedia.org/resource/Peter_kosminksy http://dbpedia.org/resource/Peter_Kosminsky
+3,24,C. Urueta,http://dbpedia.org/resource/Cordelia_Urueta,http://dbpedia.org/resource/Chano_Urueta
+3,25,P. Chaudhuri,http://dbpedia.org/resource/Pramatha_Chaudhuri,http://dbpedia.org/resource/Pinaki_Chaudhuri
+3,27,T. R. Rao,http://dbpedia.org/resource/N._T._Rama_Rao,http://dbpedia.org/resource/T._Rama_Rao http://dbpedia.org/resource/Rama_Rao_Tatineni http://dbpedia.org/resource/Tatineni_Rama_Rao
+3,28,F. Marshall,http://dbpedia.org/resource/Frank_Marshall_(pianist),http://dbpedia.org/resource/Frank_Marshall_(producer) http://dbpedia.org/resource/Frank_Marshall_(film_producer) http://dbpedia.org/resource/Frank_Marshall_(movie_producer) http://dbpedia.org/resource/Frank_W._Marshall
+3,30,G. N. Reddy,http://dbpedia.org/resource/J._N._Reddy,http://dbpedia.org/resource/G._Nageswara_Reddy http://dbpedia.org/resource/G.Nageswara_Reddy
+3,32,R. N. Rao,http://dbpedia.org/resource/Akkineni_Nageswara_Rao,http://dbpedia.org/resource/Relangi_Narasimha_Rao
+3,33,M. Davidson,http://dbpedia.org/resource/Max_Davidson,http://dbpedia.org/resource/Martin_Davidson
+3,34,A. Sil,http://dbpedia.org/resource/Choi_Jin-sil,http://dbpedia.org/resource/Arindam_Seal http://dbpedia.org/resource/Arindam_Sil
+3,37,A. Sil,http://dbpedia.org/resource/Choi_Jin-sil,http://dbpedia.org/resource/Arindam_Seal http://dbpedia.org/resource/Arindam_Sil
+3,40,L. Robinson,http://dbpedia.org/resource/Leefe_Robinson,http://dbpedia.org/resource/Lee_Robinson_(Australian_director) http://dbpedia.org/resource/Lee_Robinson_(director)
+3,42,C. Ballard,http://dbpedia.org/resource/Lucinda_Ballard,http://dbpedia.org/resource/Carroll_Ballard
+3,43,T. Young,http://dbpedia.org/resource/Tata_Young,http://dbpedia.org/resource/Stewart_Terence_Herbert_Young http://dbpedia.org/resource/Terence_Young_(director)
+3,44,C. Owen,http://dbpedia.org/resource/Clive_Owen,http://dbpedia.org/resource/Cliff_Owen
+3,45,J. B. Clark,http://dbpedia.org/resource/J._Desmond_Clark,http://dbpedia.org/resource/James_B._Clark_(director)
+3,47,B. Beresford,"http://dbpedia.org/resource/William_Beresford,_1st_Viscount_Beresford",http://dbpedia.org/resource/Bruce_Beresford
+3,50,D. Butler,http://dbpedia.org/resource/Daws_Butler,http://dbpedia.org/resource/David_Butler_(director) http://dbpedia.org/resource/David_Butler_(film)

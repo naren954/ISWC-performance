@@ -1,0 +1,4 @@
+F1: 0.98020,Precision: 0.98020,Recall: 0.98020,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,3,Bold Lad,http://dbpedia.org/resource/Bold_Lad,http://dbpedia.org/resource/Bold_Lad_(IRE) http://dbpedia.org/resource/Bold_Lad_II
+1,46,Speightstown,http://dbpedia.org/resource/Speightstown_(horse),"http://dbpedia.org/resource/Speightstown http://dbpedia.org/resource/Spightestown http://dbpedia.org/resource/Spitestown http://dbpedia.org/resource/Speightstown,_Barbados"

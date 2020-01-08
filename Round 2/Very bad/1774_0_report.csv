@@ -1,0 +1,15 @@
+F1: 0.18750,Precision: 0.18750,Recall: 0.18750,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,XHRIO-TDT,http://dbpedia.org/resource/XHTRES-TDT,http://dbpedia.org/resource/XHRIO-TV http://dbpedia.org/resource/XRIO-TV http://dbpedia.org/resource/XHHUPN-TV http://dbpedia.org/resource/XRIO http://dbpedia.org/resource/XHRIO http://dbpedia.org/resource/XHHUPN http://dbpedia.org/resource/XHRIO-TDT
+0,3,XHFI-TDT,http://dbpedia.org/resource/XHY-TDT,http://dbpedia.org/resource/XHFI-TDT http://dbpedia.org/resource/XHFI-TV http://dbpedia.org/resource/XERA-TV
+0,4,XHAUC-TDT,http://dbpedia.org/resource/XHJUB-TDT,http://dbpedia.org/resource/XHAUC-TV http://dbpedia.org/resource/XHAUC-TDT
+0,6,WYME-CD,http://dbpedia.org/resource/.cd,http://dbpedia.org/resource/WYME-CD http://dbpedia.org/resource/WYME http://dbpedia.org/resource/WYME-CA
+0,7,WVUA-CD,http://dbpedia.org/resource/.cd,http://dbpedia.org/resource/WUOA-TV http://dbpedia.org/resource/WJMY-LP http://dbpedia.org/resource/WDVZ-CA http://dbpedia.org/resource/WVUA-CA http://dbpedia.org/resource/WDVZ-CD http://dbpedia.org/resource/WJMY-LD http://dbpedia.org/resource/WVUA_(TV) http://dbpedia.org/resource/WVUA-CD http://dbpedia.org/resource/WOUA http://dbpedia.org/resource/WJMY-CD http://dbpedia.org/resource/WJMY-CA http://dbpedia.org/resource/WUOA
+0,8,WVPX-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WVPX http://dbpedia.org/resource/WAKC http://dbpedia.org/resource/WVPX-TV http://dbpedia.org/resource/WAKR-TV
+0,9,WTJP-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WTJP-TV http://dbpedia.org/resource/WTJP
+0,10,WRIW-CD,http://dbpedia.org/resource/.cd,http://dbpedia.org/resource/WRIW http://dbpedia.org/resource/WRIW-CA http://dbpedia.org/resource/WRIW-LP http://dbpedia.org/resource/WRIW-CD
+0,11,WPXD-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/W48AV http://dbpedia.org/resource/WPXD http://dbpedia.org/resource/WPXD-DT http://dbpedia.org/resource/Ion_Television_Detroit http://dbpedia.org/resource/WPXD_(TV) http://dbpedia.org/resource/WPXD-TV
+0,12,WOPX-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WOPX-TV http://dbpedia.org/resource/WOPX http://dbpedia.org/resource/WPXB-LD http://dbpedia.org/resource/WOPX-DT
+0,13,WDTB-LP,http://dbpedia.org/resource/Lp_space,http://dbpedia.org/resource/WDTB-LP http://dbpedia.org/resource/WDTB-LD
+0,14,WDLI-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WDLI-DT http://dbpedia.org/resource/WDLI-TV http://dbpedia.org/resource/WDLI
+0,15,KZSW-LD,http://dbpedia.org/resource/KTPN-LD,http://dbpedia.org/resource/KZSW-LP http://dbpedia.org/resource/Kzsw http://dbpedia.org/resource/KZSW http://dbpedia.org/resource/KZSW-LD

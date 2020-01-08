@@ -1,0 +1,19 @@
+F1: 0.66667,Precision: 0.66667,Recall: 0.66667,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,1,J. Levy,http://dbpedia.org/resource/Jacques_Levy,http://dbpedia.org/resource/Jane_Levy
+2,3,E. Laye,http://dbpedia.org/resource/Jeanne_d'Albret,http://dbpedia.org/resource/Evelyn_Lawton http://dbpedia.org/resource/Evelyn_Laye
+2,8,R. Cameron,http://dbpedia.org/resource/James_Cameron,http://dbpedia.org/resource/Rod_Cameron_(actor) http://dbpedia.org/resource/Nathan_Roderick_Cox
+2,12,Q. Flynn,http://dbpedia.org/resource/Errol_Flynn,http://dbpedia.org/resource/Quinton_Joseph_Flynn http://dbpedia.org/resource/Quinton_Flynn
+2,13,Y. Kuga,http://fr.dbpedia.org/resource/Jānis_Kuga,http://dbpedia.org/resource/Yoshiko_Kuga http://dbpedia.org/resource/Koga_Haruko http://dbpedia.org/resource/Onoda_Haruko http://dbpedia.org/resource/Haruko_Onoda http://dbpedia.org/resource/Haruko_Koga http://dbpedia.org/resource/Kuga_Yoshiko
+2,14,R. W. Jr.,"http://dbpedia.org/resource/Robert_Walker_(actor,_born_1940)","http://dbpedia.org/resource/Robert_Walker_Jr http://dbpedia.org/resource/Robert_Walker_Jr. http://dbpedia.org/resource/Robert_Walker,_Jr. http://dbpedia.org/resource/Robert_Walker_(1960s_actor)"
+2,15,M. York,http://dbpedia.org/resource/Susannah_York,"http://dbpedia.org/resource/Michael_Hugh_Johnson http://dbpedia.org/resource/Michael_York http://dbpedia.org/resource/Mike_York_(disambiguation) http://dbpedia.org/resource/Michael_York_(actor) http://dbpedia.org/resource/York,_Michael"
+2,16,A. King,http://dbpedia.org/resource/Nat_King_Cole,"http://dbpedia.org/resource/Irwin_Alan_Kniberg http://dbpedia.org/resource/Alan_King_(comedian) http://dbpedia.org/resource/Irwin_Kniberg http://dbpedia.org/resource/King,_Alan http://dbpedia.org/resource/Alan_King"
+2,18,J. Waters,http://dbpedia.org/resource/Roger_Waters,http://dbpedia.org/resource/John_Waters_(actor)
+2,19,J. Powell,http://dbpedia.org/resource/John_Powell_(film_composer),http://dbpedia.org/resource/Suzanne_Lorraine_Burce http://dbpedia.org/resource/Suzanne_Burce http://dbpedia.org/resource/Jane_Powell
+2,22,A. Biberman,http://dbpedia.org/resource/Leonid_Biberman,http://dbpedia.org/resource/Abner_Biberman
+2,25,S. Chakrabarty,http://dbpedia.org/resource/Ajoy_Chakrabarty,http://dbpedia.org/resource/Sabyasachi_Chakrobarty http://dbpedia.org/resource/Sabyasachi_Chakravarthy http://dbpedia.org/resource/Sabyasachi_Chakrabarty http://dbpedia.org/resource/Sabyasachi_Chakraborty
+2,28,B. Greenwood,http://dbpedia.org/resource/Joan_Greenwood,http://dbpedia.org/resource/Bruce_greenwood http://dbpedia.org/resource/Bruce_Greenwood
+2,34,S. Mukherjee,http://dbpedia.org/resource/Siddhartha_Mukherjee,http://dbpedia.org/resource/Swastika_Mukherjee
+2,37,S. Chatterjee,http://dbpedia.org/resource/Somnath_Chatterjee,http://dbpedia.org/resource/Saswata_Chattopadhyay http://dbpedia.org/resource/Saswata_Chatterjee
+2,39,R. Menon,http://dbpedia.org/resource/Tugdual_Menon,http://dbpedia.org/resource/Ravi_Menon
+2,42,C. Scott,http://dbpedia.org/resource/George_C._Scott,http://dbpedia.org/resource/Campbell_Scott

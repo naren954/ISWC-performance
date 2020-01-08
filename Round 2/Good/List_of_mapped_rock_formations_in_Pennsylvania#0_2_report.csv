@@ -1,0 +1,6 @@
+F1: 0.88889,Precision: 0.88889,Recall: 0.88889,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,15,Huntley Mountain Formation,http://dbpedia.org/resource/Twin_Mountains_Formation,http://dbpedia.org/resource/Huntley_Mountain_Formation
+2,18,Harrell Formation,http://dbpedia.org/resource/Harrell_Shale,http://dbpedia.org/resource/Harrell_Formation
+2,26,Wills Creek Formation,http://dbpedia.org/resource/Hell_Creek_Formation,http://dbpedia.org/resource/Wills_Creek_Formation http://dbpedia.org/resource/Wills_Creek_Limestone
+2,31,Tuscarora Formation,http://dbpedia.org/resource/Tuscarora_Sandstone,http://dbpedia.org/resource/Tuscarora_Formation

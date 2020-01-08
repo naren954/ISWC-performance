@@ -1,0 +1,5 @@
+F1: 0.57143,Precision: 0.57143,Recall: 0.57143,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,34,Sabahattin Ã\u0087akmakoÄ\u009Flu,http://dbpedia.org/resource/C0_and_C1_control_codes,http://dbpedia.org/resource/Sabahattin_Çakmakoğlu
+1,36,Ã\u009Cnal Erkan,http://dbpedia.org/resource/C0_and_C1_control_codes,http://dbpedia.org/resource/Ünal_Erkan
+1,38,Mehmet AÄ\u009Far,http://dbpedia.org/resource/A9_highway_(Sri_Lanka),http://dbpedia.org/resource/Mehmet_Ağar

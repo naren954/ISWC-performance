@@ -1,0 +1,5 @@
+F1: 0.70000,Precision: 0.70000,Recall: 0.70000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,David Jason,http://dbpedia.org/resource/Jason_Bourne,http://dbpedia.org/resource/David_Jason_filmography http://dbpedia.org/resource/David_Jason http://dbpedia.org/resource/Sir_David_Jason http://dbpedia.org/resource/Filmography_of_David_Jason
+0,2,Nicholas Lyndhurst,"http://dbpedia.org/resource/John_Copley,_1st_Baron_Lyndhurst",http://dbpedia.org/resource/Nicholas_Lyndhurst
+0,10,Paul Barber,http://dbpedia.org/resource/Benjamin_Barber,http://dbpedia.org/resource/Paul_Barber_(actor)

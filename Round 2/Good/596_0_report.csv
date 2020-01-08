@@ -1,0 +1,5 @@
+F1: 0.92308,Precision: 0.92308,Recall: 0.92308,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,9,W. H. Dana,http://dbpedia.org/resource/John_W._Dana,"http://dbpedia.org/resource/William_Harvey_""Bill""_Dana http://dbpedia.org/resource/William_""Bill""_Dana http://dbpedia.org/resource/Bill_Dana_(astronaut) http://dbpedia.org/resource/William_Harvey_Dana http://dbpedia.org/resource/William_H._""Bill""_Dana http://dbpedia.org/resource/Bill_Dana_(pilot) http://dbpedia.org/resource/William_H._Dana"
+0,31,R. Evans,http://dbpedia.org/resource/Ronald_M._Evans,"http://dbpedia.org/resource/Ronald_Evans_(astronaut) http://dbpedia.org/resource/Ronald_E._Evans http://dbpedia.org/resource/Ronald_Ellwin_Evans http://dbpedia.org/resource/Ronald_Ellwin_Evans,_Jr. http://dbpedia.org/resource/Ronald_Evans,_Jr."
+0,37,R. Husband,http://dbpedia.org/resource/Franklin_D._Roosevelt,http://dbpedia.org/resource/Richard_Douglas_Husband http://dbpedia.org/resource/Richard_Husband http://dbpedia.org/resource/Rick_Husband http://dbpedia.org/resource/Rick_D._Husband

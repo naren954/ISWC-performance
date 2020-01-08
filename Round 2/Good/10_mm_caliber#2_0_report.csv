@@ -1,0 +1,5 @@
+F1: 0.78571,Precision: 0.78571,Recall: 0.78571,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,.44 WCF,http://dbpedia.org/resource/.44_Magnum,http://dbpedia.org/resource/.44-40 http://dbpedia.org/resource/.44_WCF http://dbpedia.org/resource/.44-40_Winchester http://dbpedia.org/resource/.44-40_WCF
+0,3,10.4Ã\u009738mm Swiss Rimfire[6],http://dbpedia.org/resource/.41_Swiss,http://dbpedia.org/resource/10.4×38mm_Swiss_Rimfire
+0,12,10.75x68mm Mauser,http://dbpedia.org/resource/7.63×25mm_Mauser,http://dbpedia.org/resource/10.75x68mm_Mauser http://dbpedia.org/resource/10.75_x_68mm_Mauser

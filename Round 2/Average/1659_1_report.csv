@@ -1,0 +1,11 @@
+F1: 0.73529,Precision: 0.73529,Recall: 0.73529,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,3,Pig,http://dbpedia.org/resource/Pig_(musical_project),http://dbpedia.org/resource/Pig_(song) http://dbpedia.org/resource/Don't_Burn_the_Pig
+1,6,41,http://dbpedia.org/resource/AD_41,http://dbpedia.org/resource/41_(song) http://dbpedia.org/resource/41_Police http://dbpedia.org/resource/♯41
+1,9,The Dreaming Tree,http://dbpedia.org/resource/Stupid_Dream,http://dbpedia.org/resource/BTCS http://dbpedia.org/resource/Machead http://dbpedia.org/resource/Before_These_Crowded_Streets http://dbpedia.org/resource/MacHead http://dbpedia.org/resource/The_Dreaming_Tree_(song)
+1,11,Papaya Coconut,http://dbpedia.org/resource/Papaya_Coconut_(song),http://dbpedia.org/resource/Papaya_Coconut http://dbpedia.org/resource/Papaya_coconut
+1,12,Fallen Angel,http://dbpedia.org/resource/Fallen_Angels_(Black_Veil_Brides_song),http://dbpedia.org/resource/Fallen_Angel_(King_Crimson_song)
+1,26,Still Waiting,http://dbpedia.org/resource/Still_Waiting_(Sum_41_song),http://dbpedia.org/resource/Still_Waiting_(Prince_song)
+1,27,Our Love Is Here to Stay,http://dbpedia.org/resource/Our_Love_Is_Here_to_Stay_(album),http://dbpedia.org/resource/Our_Love_is_Here_to_Stay http://dbpedia.org/resource/Love_Is_Here_to_Stay http://dbpedia.org/resource/Love_Is_Here_To_Stay http://dbpedia.org/resource/Our_Love_Is_Here_To_Stay http://dbpedia.org/resource/Our_Love_Is_Here_to_Stay http://dbpedia.org/resource/Love_is_Here_to_Stay
+1,29,Stay,http://dbpedia.org/resource/Stay_(David_Guetta_song),http://dbpedia.org/resource/Stay_(Wasting_Time)
+1,33,So What,http://dbpedia.org/resource/So_What_(Pink_song),http://dbpedia.org/resource/So_What_(Miles_Davis_composition) http://dbpedia.org/resource/So_What_(composition) http://dbpedia.org/resource/So_What_(instrumental)

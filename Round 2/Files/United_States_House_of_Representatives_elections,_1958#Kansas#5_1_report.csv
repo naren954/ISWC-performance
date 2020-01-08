@@ -1,0 +1,5 @@
+"F1: 0.90000","Precision: 0.90000","Recall: 0.90000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","1","Hubert B. Scudder","http://dbpedia.org/resource/Hubert_Humphrey","http://dbpedia.org/resource/Hubert_Baxter_Scudder http://dbpedia.org/resource/Hubert_B._Scudder http://dbpedia.org/resource/Hubert_Scudder"
+"1","5","John Shelley","http://dbpedia.org/resource/John_F._Shelley","http://dbpedia.org/resource/John_Shelley_(disambiguation) http://dbpedia.org/resource/John_Shelley"
+"1","6","John F. Baldwin, Jr.","http://dbpedia.org/resource/John_F._Baldwin_Jr.","http://dbpedia.org/resource/John_F._Baldwin,_Jr. http://dbpedia.org/resource/John_Finley_Baldwin,_Jr. http://dbpedia.org/resource/John_F._Baldwin"

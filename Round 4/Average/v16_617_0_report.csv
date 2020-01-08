@@ -1,0 +1,16 @@
+F1: 0.74545,Precision: 0.74545,Recall: 0.74545,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,4,W. McDonald,http://dbpedia.org/resource/Willie_McDonald,http://dbpedia.org/resource/Webster_McDonald
+0,13,W. Clark,http://dbpedia.org/resource/Wally_Clark_(English_footballer),http://dbpedia.org/resource/Watty_Clark http://dbpedia.org/resource/Watson_Clark
+0,15,W. Burnham,http://dbpedia.org/resource/Lem_Burnham,http://dbpedia.org/resource/Watch_Burnham
+0,17,W. White,http://dbpedia.org/resource/Will_White,http://dbpedia.org/resource/Warren_White_(baseball)
+0,20,W. Miller,"http://dbpedia.org/resource/William_Miller_(footballer,_born_1875)",http://dbpedia.org/resource/Warren_Miller_(baseball)
+0,21,W. McLaughlin,http://dbpedia.org/resource/William_McLaughlin_(baseball),http://dbpedia.org/resource/Warren_C._McLaughlin http://dbpedia.org/resource/Warren_McLaughlin
+0,25,W. Miller,"http://dbpedia.org/resource/William_Miller_(footballer,_born_1875)",http://dbpedia.org/resource/Ward_Miller_(baseball) http://dbpedia.org/resource/Ward_Miller_(MLB_outfielder) http://dbpedia.org/resource/Ward_Miller_(outfielder)
+0,29,W. Young,http://dbpedia.org/resource/Waddy_Young,http://dbpedia.org/resource/Walter_Young_(baseball_player) http://dbpedia.org/resource/Walter_Young_(baseball)
+0,30,W. Wilson,http://dbpedia.org/resource/Whayne_Wilson,http://dbpedia.org/resource/Walter_Wilson_(baseball)
+0,33,W. Stephenson,http://dbpedia.org/resource/Wayne_Stephenson,http://dbpedia.org/resource/Walter_Stephenson
+0,35,W. Schmidt,http://dbpedia.org/resource/Willard_Schmidt_(basketball),http://dbpedia.org/resource/Walter_Schmidt_(baseball)
+0,43,W. Johnson,http://dbpedia.org/resource/Wesley_Johnson_(basketball),"http://dbpedia.org/resource/Walter_Johnson http://dbpedia.org/resource/Walter_Johnson_(baseball) http://dbpedia.org/resource/Walter_Perry_Johnson http://dbpedia.org/resource/Johnson,_Walter http://dbpedia.org/resource/Walter_Johnson_(pitcher) http://dbpedia.org/resource/Walter_Johnson_(baseball_player) http://dbpedia.org/resource/Johnson,_Walter_(baseball_player) http://dbpedia.org/resource/Walter_Johnson_(Washington_Senators) http://dbpedia.org/resource/Walter_P._Johnson"
+0,52,W. Bernhardt,http://dbpedia.org/resource/Juan_Bernhardt,http://dbpedia.org/resource/Walter_Bernhardt
+0,55,W. Anderson,http://dbpedia.org/resource/Walter_Anderson_(footballer),http://dbpedia.org/resource/Walter_Anderson_(baseball)

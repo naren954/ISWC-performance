@@ -1,0 +1,18 @@
+F1: 0.82609,Precision: 0.82609,Recall: 0.82609,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,4,Wit,http://dbpedia.org/resource/The_Wits,http://dbpedia.org/resource/W;t http://dbpedia.org/resource/Wit_(play)
+0,13,The Woods,http://dbpedia.org/resource/Into_the_Woods,http://dbpedia.org/resource/The_Woods_(play) http://dbpedia.org/resource/The_Woods_(Mamet_play)
+0,26,The Son,http://dbpedia.org/resource/The_Good_Son_(album),http://dbpedia.org/resource/The_Son_(play)
+0,35,The Public,http://fr.dbpedia.org/resource/Public_(magazine),http://dbpedia.org/resource/The_Audience_(1930_play) http://dbpedia.org/resource/El_publico http://dbpedia.org/resource/El_público http://dbpedia.org/resource/The_Public_(play)
+0,36,The Post Office,,http://dbpedia.org/resource/The_Post_Office_(play)
+0,42,The Morality of Mrs. Dulska,http://dbpedia.org/resource/The_Morality_of_Mrs._Dulska,http://dbpedia.org/resource/The_Morality_of_Mrs._Dulska_(play)
+0,45,The Lesson,http://dbpedia.org/resource/Happy_Lesson,http://dbpedia.org/resource/La_Leçon http://dbpedia.org/resource/La_Leáon http://dbpedia.org/resource/La_Leaon http://dbpedia.org/resource/La_Lecon http://dbpedia.org/resource/The_Lesson
+0,48,The Hook,http://dbpedia.org/resource/Hook_of_Holland,http://dbpedia.org/resource/The_Hook_(screenplay)
+0,56,The Field,http://dbpedia.org/resource/The_Field_(magazine),http://dbpedia.org/resource/The_Field_(play)
+0,60,The Devil,http://dbpedia.org/resource/Defense_Devil,http://dbpedia.org/resource/The_Devil_(play)
+0,66,The Chalk Circle,http://de.dbpedia.org/resource/Der_Kreidekreis_(Klabund),http://dbpedia.org/resource/Circle_of_Chalk http://dbpedia.org/resource/Hoei-lan-ki http://dbpedia.org/resource/A_Circle_of_Chalk http://dbpedia.org/resource/Hui-Lan_Ji http://dbpedia.org/resource/Der_Kreidekreis http://dbpedia.org/resource/Hui_Lan_Chi http://dbpedia.org/resource/Chalk_Circle http://dbpedia.org/resource/Circle_of_chalk http://dbpedia.org/resource/The_Chalk_Circle http://dbpedia.org/resource/The_Circle_of_Chalk http://dbpedia.org/resource/Hui_Lan_Ji http://dbpedia.org/resource/Rescriptor-in-Waiting_Bao's_Clever_Trick:_The_Record_of_the_Chalk_Circle http://dbpedia.org/resource/Huilan_ji
+0,77,Star Spangled,http://dbpedia.org/resource/Star_Spangled,http://dbpedia.org/resource/Star_Spangled_(play)
+0,79,Sleep No More,http://dbpedia.org/resource/Sleep_No_More_(2011_play),http://dbpedia.org/resource/Sleep_No_More_(2009_play)
+0,83,Silence,http://dbpedia.org/resource/Silence_(Sonata_Arctica_album),http://dbpedia.org/resource/Silence_(play) http://dbpedia.org/resource/Silence_(1969_play)
+0,85,Sheikh Sanan,http://dbpedia.org/resource/Sheikh_Sanan,http://dbpedia.org/resource/Sheikh_Sanan_(play) http://dbpedia.org/resource/Sheikh_Sanan_(1914)
+0,91,Sanctuary,http://dbpedia.org/resource/Sanctuary_(manga),http://dbpedia.org/resource/Sanctuary_(play)

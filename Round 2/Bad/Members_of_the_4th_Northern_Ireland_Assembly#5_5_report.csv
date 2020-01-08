@@ -1,0 +1,37 @@
+F1: 0.25532,Precision: 0.25532,Recall: 0.25532,,
+Col,Row,Value,Submitted URI,Correct URI's
+5,3,Margaret Ritchie vacated her seat in order to concentrate on her role as a Member of Parliament.,http://dbpedia.org/resource/Parliament_of_the_United_Kingdom,http://dbpedia.org/resource/Margaret_Ritchie_(politician)
+5,4,SeÃ¡n Rogers co-opted to seat vacated by Margaret Ritchie.[7],http://dbpedia.org/resource/List_of_EastEnders_characters_(2001),http://dbpedia.org/resource/Seán_Rogers
+5,5,Willie Clarke vacated his seat in order to concentrate on his role as a Down District Councillor.,http://dbpedia.org/resource/Resignation_from_the_British_House_of_Commons,http://dbpedia.org/resource/Willie_Clarke_(politician) http://dbpedia.org/resource/Willie_Clarke
+5,6,Chris Hazzard co-opted to seat vacated by Willie Clarke.[7],http://dbpedia.org/resource/Hudswell_Clarke,http://dbpedia.org/resource/Chris_Hazzard
+5,7,Martina Anderson vacated her seat following her appointment to the position of MEP for Northern Ireland.,http://dbpedia.org/resource/Professional_wrestling_throws,http://dbpedia.org/resource/Martina_Anderson
+5,9,Conor Murphy vacated his seat in order to concentrate on his role as a Member of Parliament.,http://dbpedia.org/resource/Resignation_from_the_British_House_of_Commons,http://dbpedia.org/resource/Conor_Murphy
+5,10,Pat Doherty vacated his seat in order to concentrate on his role as a Member of Parliament.,http://dbpedia.org/resource/Resignation_from_the_British_House_of_Commons,"http://dbpedia.org/resource/Pat_Doherty http://dbpedia.org/resource/Patrick_Docherty http://dbpedia.org/resource/Patrick_Doherty http://dbpedia.org/resource/Pat_Docherty http://dbpedia.org/resource/Doherty,_Patrick"
+5,11,Paul Maskey vacated his seat in order to concentrate on his role as a Member of Parliament.,http://dbpedia.org/resource/Resignation_from_the_British_House_of_Commons,http://dbpedia.org/resource/Paul_Maskey
+5,12,Megan Fearon co-opted to seat vacated by Conor Murphy.[9],http://dbpedia.org/resource/Labour_Party_(UK),http://dbpedia.org/resource/Megan_Fearon
+5,15,Michelle Gildernew vacated her seat in order to concentrate on her role as a Member of Parliament.,http://dbpedia.org/resource/Parliament_of_the_United_Kingdom,http://dbpedia.org/resource/Gildernew http://dbpedia.org/resource/Michelle_Gildernew
+5,20,Francie Molloy vacated his seat in order to concentrate on his role as a Member of Parliament.,http://dbpedia.org/resource/Resignation_from_the_British_House_of_Commons,http://dbpedia.org/resource/Francie_Molloy http://dbpedia.org/resource/Francis_Molloy
+5,21,Ian Milne co-opted to seat vacated by Francie Molloy.[10],http://dbpedia.org/resource/Co-option,http://dbpedia.org/resource/Ian_Milne
+5,25,Fearghal McKinney co-opted to seat vacated by Conall McDevitt.[11],http://dbpedia.org/resource/Lend_Lease_Project_Management_&_Construction,http://dbpedia.org/resource/Fearghal_McKinney
+5,27,Claire Sugden co-opted to replace David McClarty following his death.[12],http://dbpedia.org/resource/Malcolm_X,http://dbpedia.org/resource/Claire_Sugden
+5,30,Maurice Devenney co-opted to replace William Hay following his retirement.[14],http://dbpedia.org/resource/Co-option,http://dbpedia.org/resource/Maurice_Devenney
+5,31,Alex Maskey stepped down in order to be transferred to Belfast West seat.,http://dbpedia.org/resource/Professional_wrestling_double-team_maneuvers,http://dbpedia.org/resource/Alex_Maskey
+5,32,MÃ¡irtÃ­n Ã\u0093 Muilleoir co-opted to seat vacated by Alex Maskey.[15],http://dbpedia.org/resource/Slavery,http://dbpedia.org/resource/Máirtín_Ó_Muilleoir
+5,33,Sue Ramsey retired due to ill health.,,http://dbpedia.org/resource/Sue_Ramsey http://dbpedia.org/resource/Sue_Ramsay
+5,37,Gary Middleton co-opted to replace Maurice Devenney following his retirement.[16],http://dbpedia.org/resource/Co-option,http://dbpedia.org/resource/Gary_Middleton
+5,38,Mickey Brady vacated his seat in order to concentrate on his role as a Member of Parliament.,http://dbpedia.org/resource/Resignation_from_the_British_House_of_Commons,http://dbpedia.org/resource/Mickey_Brady
+5,39,Conor Murphy co-opted and returned to the Assembly for the seat vacated by Mickey Brady.[17],http://dbpedia.org/resource/Legislature,http://dbpedia.org/resource/Conor_Murphy
+5,40,Alasdair McDonnell resigned to concentrate on his role as an Westminster MP.,http://dbpedia.org/resource/Watergate_scandal,http://dbpedia.org/resource/Alasdair_McDonnell
+5,42,Tom Elliott elected to Westminster.,http://dbpedia.org/resource/Texas_House_of_Representatives,http://dbpedia.org/resource/Tom_Elliott_(politician)
+5,44,Neil Somerville co-opted to replace Tom Elliott.[19],http://dbpedia.org/resource/List_of_Family_Guy_characters,http://dbpedia.org/resource/Neil_Somerville
+5,45,Claire Hanna co-opted to seat vacated by Alasdair McDonnell.[20],http://dbpedia.org/resource/Douglas_Aircraft_Company,http://dbpedia.org/resource/Claire_Hanna_(politician)
+5,46,Sammy Wilson resigned to end double-jobbing and focus on his role as an MP.,http://dbpedia.org/resource/Peaceful_Revolution,http://dbpedia.org/resource/Samuel_Wilson_(East_Antrim_MP) http://dbpedia.org/resource/Sammy_Wilson
+5,47,Gordon Lyons co-opted to replace Sammy Wilson.,http://dbpedia.org/resource/Sammy_Corporation,http://dbpedia.org/resource/Gordon_Lyons
+5,48,Michael Copeland resigned due to health reasons.,,http://dbpedia.org/resource/Michael_Copeland_(disambiguation) http://dbpedia.org/resource/Michael_Copeland
+5,49,Andy Allen co-opted to replace Michael Copeland.,,http://dbpedia.org/resource/Andy_Allen_(politician)
+5,50,Jimmy Spratt resigned due to health reasons.,http://dbpedia.org/resource/Luther_Vandross,http://dbpedia.org/resource/Jimmy_Spratt_(politician) http://dbpedia.org/resource/Jimmy_Spratt
+5,51,Emma Pengelly co-opted to replace Jimmy Spratt.,http://dbpedia.org/resource/Co-option,http://dbpedia.org/resource/Emma_Pengelly
+5,52,Pat Ramsey retired on health grounds.[21],http://dbpedia.org/resource/United_States_Public_Health_Service,http://dbpedia.org/resource/Pat_Ramsey
+5,53,Joe Byrne retired on health grounds.[22],http://dbpedia.org/resource/Coffee,http://dbpedia.org/resource/Joe_Byrne_(politician)
+5,54,Gerard Diver co-opted to replace Pat Ramsey[23],http://dbpedia.org/resource/Co-option,http://dbpedia.org/resource/Gerard_Diver
+5,55,Daniel McCrossan co-opted to replace Joe Byrne.[24],http://dbpedia.org/resource/List_of_Family_Guy_characters,http://dbpedia.org/resource/Daniel_McCrossan

@@ -1,0 +1,5 @@
+"F1: 0.00000","Precision: 0.00000","Recall: 0.00000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"8","1","Krejci, Krejci, Horton","http://dbpedia.org/resource/Horton,_Berkshire","http://dbpedia.org/resource/David_Krejčí"
+"8","2","Marchand, Horton, Krejci, Marchand, Bergeron, Boychuk","http://dbpedia.org/resource/Joëlle_Bergeron","http://dbpedia.org/resource/Brad_Marchand http://dbpedia.org/resource/Nose_face_killah http://dbpedia.org/resource/Nose_Face_Killer"
+"8","4","McQuaid","http://fr.dbpedia.org/resource/(28575)_McQuaid","http://dbpedia.org/resource/Adam_McQuaid"

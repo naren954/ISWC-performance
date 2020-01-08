@@ -1,0 +1,4 @@
+F1: 0.77778,Precision: 0.77778,Recall: 0.77778,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,5,Wembley Lions,http://dbpedia.org/resource/Wembley_Lions_(speedway),http://dbpedia.org/resource/Wembley_Lions
+1,6,Edinburgh Royals,"http://dbpedia.org/resource/Prince_Philip,_Duke_of_Edinburgh",http://dbpedia.org/resource/Murrayfield_Royals http://dbpedia.org/resource/Edinburgh_Racers http://dbpedia.org/resource/Edinburgh_Royals http://dbpedia.org/resource/Murrayfield_Racers

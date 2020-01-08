@@ -1,0 +1,11 @@
+F1: 0.88000,Precision: 0.88000,Recall: 0.88000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,27,F. W. Keith,http://dbpedia.org/resource/William_Keith_(artist),http://dbpedia.org/resource/Frederick_W._Keith
+0,33,F. I. Cooper,http://dbpedia.org/resource/James_Fenimore_Cooper,http://dbpedia.org/resource/Frank_Irving_Cooper
+0,40,E. Manfredi,http://dbpedia.org/resource/Nino_Manfredi,http://dbpedia.org/resource/Ercole_Manfredi
+0,44,E. Grey,"http://dbpedia.org/resource/Charles_Grey,_2nd_Earl_Grey",http://dbpedia.org/resource/Elmer_Grey
+0,47,E. Davis,http://dbpedia.org/resource/Miles_Davis,http://dbpedia.org/resource/Eldon_Carlyle_Davis http://dbpedia.org/resource/Eldon_Davis http://dbpedia.org/resource/Eldon_C._Davis
+0,56,D. Ellington,http://dbpedia.org/resource/Duke_Ellington,http://dbpedia.org/resource/Douglas_Ellington
+0,60,D. Hoadley,http://dbpedia.org/resource/George_Hoadley_(Ohio_politician),http://dbpedia.org/resource/David_Hoadley_(architect)
+0,67,"Charles T. Beardsley, Jr.",http://dbpedia.org/resource/Charles_T._Beardsley_Jr.,"http://dbpedia.org/resource/Charles_T._Beardsley,_Jr."
+0,68,C. Steadman,http://dbpedia.org/resource/Ralph_Steadman,http://dbpedia.org/resource/Charles_Steadman

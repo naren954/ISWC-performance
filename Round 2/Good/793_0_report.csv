@@ -1,0 +1,15 @@
+F1: 0.90909,Precision: 0.90909,Recall: 0.90909,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,6,Canton Main Street Historic District,"http://dbpedia.org/resource/Main_Street_Historic_District_(Roslyn,_New_York)",http://dbpedia.org/resource/Canton_Main_Street_Historic_District
+0,9,Campbell-Whittlesey House,http://dbpedia.org/resource/Ambrose_Whittlesey_House,http://dbpedia.org/resource/Campbell-Whittlesey_House http://dbpedia.org/resource/Campbell-Whittlesy_House
+0,17,Calhoun County Courthouse,http://dbpedia.org/resource/Calhoun_County_Courthouse_(Iowa),http://dbpedia.org/resource/Calhoun_County_Courthouse_(South_Carolina)
+0,36,Burlington Northern Depot,http://dbpedia.org/resource/Kelso_Multimodal_Transportation_Center,"http://dbpedia.org/resource/Burlington_Northern_Depot_(Amenia,_North_Dakota)"
+0,49,Brown Palace Hotel,"http://dbpedia.org/resource/Brown_Palace_Hotel_(Mobridge,_South_Dakota)","http://dbpedia.org/resource/Brown_Palace_Hotel_(Denver,_Colorado)"
+0,50,Brooks County Courthouse,http://dbpedia.org/resource/Brooks_County_Courthouse_(Texas),"http://dbpedia.org/resource/Brooks_County_Courthouse_(Quitman,_Georgia) http://dbpedia.org/resource/Brooks_County_Courthouse"
+0,56,Broadway Historic District,"http://dbpedia.org/resource/Broadway_Historic_District_(Bangor,_Maine)","http://dbpedia.org/resource/Downtown_Saratoga_Springs http://dbpedia.org/resource/Broadway_Historic_District_(Saratoga_Springs,_New_York) http://dbpedia.org/resource/Broadway_Historic_District_(Saratoga_Springs)"
+0,80,Bocock-Isbell House,http://dbpedia.org/resource/Isbell_House,http://dbpedia.org/resource/Bocock-Isbell_House
+0,105,Benson Building,"http://dbpedia.org/resource/Benson_Building_(Ottumwa,_Iowa)","http://dbpedia.org/resource/Benson_Building_(Baltimore,_Maryland)"
+0,109,Belvidere,"http://dbpedia.org/resource/Belvidere_(Belmont,_New_York)","http://dbpedia.org/resource/Belvidere_(Williamsboro,_North_Carolina)"
+0,115,Bedford Springs Hotel Historic District,http://dbpedia.org/resource/Pence_Springs_Hotel_Historic_District,http://dbpedia.org/resource/Bedford_Springs_Hotel_Historic_District
+0,117,"Beauport, Sleeper-McCann House","http://dbpedia.org/resource/Beauport_(Gloucester,_Massachusetts)","http://dbpedia.org/resource/Beauport,_Sleeper-McCann_House"
+0,125,Bardwell Illinois Central Railroad Station,http://dbpedia.org/resource/Bardwell_station,http://dbpedia.org/resource/Bardwell_Illinois_Central_Railroad_Station

@@ -1,0 +1,6 @@
+F1: 0.96970,Precision: 0.96970,Recall: 0.96970,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,15,Gyrinophilus palleucus necturoides,http://dbpedia.org/resource/Tennessee_cave_salamander,http://dbpedia.org/resource/Gyrinophilus_palleucus_necturoides http://dbpedia.org/resource/Big_Mouth_Cave_salamander
+0,32,Guerreran stream frog,http://dbpedia.org/resource/Ptychohyla_salvadorensis,http://dbpedia.org/resource/Guerreran_stream_frog http://dbpedia.org/resource/Ptychohyla_erythromma
+0,46,Green big-eyed tree frog,http://dbpedia.org/resource/Leptopelis_vermiculatus,http://dbpedia.org/resource/Nyctimystes_humeralis http://dbpedia.org/resource/Green_Big-eyed_Tree_Frog http://dbpedia.org/resource/Green_big-eyed_tree_frog
+0,129,Gastrotheca ruizi,http://dbpedia.org/resource/Ruiz's_marsupial_frog,http://dbpedia.org/resource/Gastrotheca_ruizi

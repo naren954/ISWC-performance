@@ -1,0 +1,9 @@
+F1: 0.70833,Precision: 0.70833,Recall: 0.70833,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,1,Sharpe's Revenge,http://dbpedia.org/resource/Sharpe_(TV_series),http://dbpedia.org/resource/Sharpe's_Revenge_(film) http://dbpedia.org/resource/Sharpe's_Revenge_(TV_programme)
+2,2,Sharpe's Eagle,http://dbpedia.org/resource/Sharpe_(TV_series),http://dbpedia.org/resource/Sharpe's_Eagle_(TV_programme) http://dbpedia.org/resource/Sharpe's_Eagle_(film)
+2,3,Sharpe's Waterloo,http://dbpedia.org/resource/Sharpe_(TV_series),http://dbpedia.org/resource/Sharpe's_Waterloo_(TV_programme)
+2,7,Degrassi High,http://dbpedia.org/resource/Degrassi:_The_Next_Generation,http://dbpedia.org/resource/Degrassi_High
+2,8,Skylark,http://dbpedia.org/resource/Skylark_(1941_film),http://dbpedia.org/resource/Skylark_(1993_film) http://dbpedia.org/resource/Skylark_(TV_movie)
+2,17,Return of the Living Dead 3,http://dbpedia.org/resource/The_Return_of_the_Living_Dead,http://dbpedia.org/resource/Return_of_the_Living_Dead_Part_III http://dbpedia.org/resource/Return_of_the_Living_Dead_3 http://dbpedia.org/resource/Return_of_the_Living_Dead_III
+2,22,Quatermass and the Pit,http://dbpedia.org/resource/Quatermass_and_the_Pit_(film),http://dbpedia.org/resource/Quatermass_and_the_Pit http://dbpedia.org/resource/Quatermass_and_the_pit http://dbpedia.org/resource/Quatermass_and_The_Pit

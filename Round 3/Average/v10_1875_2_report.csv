@@ -1,0 +1,31 @@
+F1: 0.63291,Precision: 0.63291,Recall: 0.63291,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,2,J. Mann,http://dbpedia.org/resource/Herbie_Mann,http://dbpedia.org/resource/Johnny_Mann_Singers http://dbpedia.org/resource/Johnny_Mann
+2,3,C. Davis,http://dbpedia.org/resource/Colin_Davis,"http://dbpedia.org/resource/Karl_Davis http://dbpedia.org/resource/Davis,_Carl http://dbpedia.org/resource/Carl_Davis"
+2,15,B. Mann,http://dbpedia.org/resource/Billy_Mann,http://dbpedia.org/resource/Barry_Mann
+2,17,A. Sturmer,http://dbpedia.org/resource/Christina_Stürmer,http://dbpedia.org/resource/Andy_Sturmer
+2,20,M. David,http://dbpedia.org/resource/Jacques-Louis_David,http://dbpedia.org/resource/Mack_David
+2,21,D. Filho,http://dbpedia.org/resource/André_Filho,http://dbpedia.org/resource/Daniel_Filho
+2,22,R. Muller,http://dbpedia.org/resource/Richard_Müller_(singer),"http://dbpedia.org/resource/Romeo_Muller,_Jr. http://dbpedia.org/resource/Romeo_muller http://dbpedia.org/resource/Romeo_Muller"
+2,23,R. Muller,http://dbpedia.org/resource/Richard_Müller_(singer),"http://dbpedia.org/resource/Romeo_Muller,_Jr. http://dbpedia.org/resource/Romeo_muller http://dbpedia.org/resource/Romeo_Muller"
+2,24,J. Sebastian,http://dbpedia.org/resource/Johann_Sebastian_Bach,http://dbpedia.org/resource/John_Sebastian http://dbpedia.org/resource/John_B._Sebastian http://dbpedia.org/resource/G._Puglese
+2,28,S. Levy,http://dbpedia.org/resource/Sivan_Levy,http://dbpedia.org/resource/Shuki_Levy http://dbpedia.org/resource/Itty_Bitty_Heartbeats http://dbpedia.org/resource/Shuky_Levy
+2,29,S. Levy,http://dbpedia.org/resource/Sivan_Levy,http://dbpedia.org/resource/Shuki_Levy http://dbpedia.org/resource/Itty_Bitty_Heartbeats http://dbpedia.org/resource/Shuky_Levy
+2,30,J. Angier,http://dbpedia.org/resource/Angier_Goodwin,http://dbpedia.org/resource/John_Angier
+2,31,J. Sebastian,http://dbpedia.org/resource/Johann_Sebastian_Bach,http://dbpedia.org/resource/Tatuajes_(song) http://dbpedia.org/resource/Secreto_de_Amor_(song) http://dbpedia.org/resource/Joan_Sebastian http://dbpedia.org/resource/Joan_Sebastián
+2,32,J. Munsen,http://dbpedia.org/resource/J._J._Philbin,http://dbpedia.org/resource/Judy_Munsen
+2,33,J. Munsen,http://dbpedia.org/resource/J._J._Philbin,http://dbpedia.org/resource/Judy_Munsen
+2,49,E. Bernstein,http://dbpedia.org/resource/Leonard_Bernstein,http://dbpedia.org/resource/Elmer_Bernstein http://dbpedia.org/resource/Elmer_Berstein
+2,55,J. Marks,http://dbpedia.org/resource/Jack_Marks_(performer),"http://dbpedia.org/resource/Johnny_Marks http://dbpedia.org/resource/Holly,_Jolly_Christmas"
+2,58,A. North,http://dbpedia.org/resource/Nigel_North,http://dbpedia.org/resource/Alex_North
+2,59,E. Hagen,http://dbpedia.org/resource/Nina_Hagen,http://dbpedia.org/resource/Earle_H._Hagen http://dbpedia.org/resource/Earle_Hagen
+2,61,G. Fried,http://dbpedia.org/resource/Germain_Fried,http://dbpedia.org/resource/Gerald_Fried
+2,62,G. Fenton,http://dbpedia.org/resource/Frank_Fenton_(actor),http://dbpedia.org/resource/George_Fenton
+2,63,M. Wilkinson,http://dbpedia.org/resource/Mark_Wilkinson_(singer),http://dbpedia.org/resource/Marc_Wilkinson
+2,64,R. Lord,http://dbpedia.org/resource/Jon_Lord,http://dbpedia.org/resource/Rob_Lord_(musician) http://dbpedia.org/resource/Composer_Rob_Lord
+2,65,R. Lord,http://dbpedia.org/resource/Jon_Lord,http://dbpedia.org/resource/Rob_Lord_(musician) http://dbpedia.org/resource/Composer_Rob_Lord
+2,67,R. Wasserman,http://dbpedia.org/resource/Rob_Wasserman,http://dbpedia.org/resource/The_Mighty_RAW http://dbpedia.org/resource/Ron_Wasserman http://dbpedia.org/resource/Aaron_Waters http://dbpedia.org/resource/The_Mighty_Raw
+2,68,P. Kingsland,http://dbpedia.org/resource/Richard_Kingsland,http://dbpedia.org/resource/Paddy_Kingsland
+2,72,A. Green,http://dbpedia.org/resource/Al_Green,http://dbpedia.org/resource/Adolph_Green http://dbpedia.org/resource/Adolf_Green
+2,74,C. Fox,http://dbpedia.org/resource/Curly_Fox,http://dbpedia.org/resource/Charles_Fox_(composer)
+2,77,B. Mike,http://dbpedia.org/resource/Big_Mike_(rapper),http://dbpedia.org/resource/Backhouse_Mike http://dbpedia.org/resource/Michael_Corcoran_(musician)

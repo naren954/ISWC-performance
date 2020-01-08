@@ -1,0 +1,5 @@
+F1: 0.82353,Precision: 0.82353,Recall: 0.82353,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,6,Waltz for Debby,http://dbpedia.org/resource/Sunday_at_the_Village_Vanguard,http://dbpedia.org/resource/Waltz_for_Debby_(jazz_standard) http://dbpedia.org/resource/Monicas_vals http://dbpedia.org/resource/Waltz_for_Debby_(song) http://dbpedia.org/resource/Monicas_Vals http://dbpedia.org/resource/Waltz_for_Debby_(composition) http://dbpedia.org/resource/Waltz_for_Debbie
+0,10,The Look of Love,http://dbpedia.org/resource/The_Look_of_Love_(ABC_song),http://dbpedia.org/resource/The_Look_Of_Love_(The_Wild_Bunch_song)) http://dbpedia.org/resource/The_Look_Of_Love_(1967_song) http://dbpedia.org/resource/The_Look_of_Love_(1967_song) http://dbpedia.org/resource/The_Look_of_Love_(The_Wild_Bunch_song) http://dbpedia.org/resource/The_Look_Of_Love_(Burt_Bacharach_song) http://dbpedia.org/resource/The_Look_of_Love_(Burt_Bacharach_song)
+0,16,So What,http://dbpedia.org/resource/So_What_(Pink_song),http://dbpedia.org/resource/So_What_(instrumental) http://dbpedia.org/resource/So_What_(Miles_Davis_composition) http://dbpedia.org/resource/So_What_(composition)

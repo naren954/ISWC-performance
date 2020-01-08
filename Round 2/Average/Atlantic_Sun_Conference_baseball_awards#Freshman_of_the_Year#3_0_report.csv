@@ -1,0 +1,4 @@
+F1: 0.71429,Precision: 0.71429,Recall: 0.71429,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,6,Troy (1997)[b],http://dbpedia.org/resource/Troy_Trojans,http://dbpedia.org/resource/Troy_Trojans_baseball http://dbpedia.org/resource/Troy_State_Trojans_baseball
+0,7,UCF (1993)[c],http://dbpedia.org/resource/UCF_Knights,http://dbpedia.org/resource/UCF_Knights_baseball_team http://dbpedia.org/resource/UCF_Knights_baseball http://dbpedia.org/resource/UCF_Golden_Knights_baseball http://dbpedia.org/resource/Central_Florida_Knights_baseball http://dbpedia.org/resource/UCF_baseball http://dbpedia.org/resource/Central_Florida_Golden_Knights_baseball

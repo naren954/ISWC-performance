@@ -1,0 +1,4 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,1,Best Direction,http://dbpedia.org/resource/One_Direction,http://dbpedia.org/resource/Saturn_Award_for_Best_Direction http://dbpedia.org/resource/Saturn_Award_for_Best_Director http://dbpedia.org/resource/Saturn_award_for_best_direction http://dbpedia.org/resource/Saturn_Award_for_Best_Directior
+3,3,Best Writing[II],http://dbpedia.org/resource/The_Best_American_Magazine_Writing_2007,http://dbpedia.org/resource/Saturn_Award_for_Best_Writing http://dbpedia.org/resource/Saturn_award_for_best_writing

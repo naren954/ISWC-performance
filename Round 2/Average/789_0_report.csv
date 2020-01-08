@@ -1,0 +1,37 @@
+F1: 0.71545,Precision: 0.71545,Recall: 0.71545,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,Fort Davis National Historic Site,http://dbpedia.org/resource/Fort_Raleigh_National_Historic_Site,http://dbpedia.org/resource/Fort_Davis_National_Historic_Site
+0,5,Former Reidsville High School,http://dbpedia.org/resource/Former_Niagara_Falls_High_School,"http://dbpedia.org/resource/Former_Reidsville_High_School http://dbpedia.org/resource/Reidsville_High_School,_Former"
+0,13,Ford Building,http://dbpedia.org/resource/Ford_Building_(Detroit),"http://dbpedia.org/resource/Ford_Building_(San_Diego,_California) http://dbpedia.org/resource/Ford_Building,_San_Diego,_California http://dbpedia.org/resource/Ford_Building_(San_Diego)"
+0,19,First Universalist Church,"http://dbpedia.org/resource/First_Universalist_Church_(Providence,_Rhode_Island)","http://dbpedia.org/resource/First_Universalist_Church_(Kingston,_New_Hampshire)"
+0,26,First Presbyterian Church,"http://dbpedia.org/resource/First_Presbyterian_Church_(Chattanooga,_Tennessee)","http://dbpedia.org/resource/First_Presbyterian_Church_(Racine,_Wisconsin)"
+0,27,First Presbyterian Church,"http://dbpedia.org/resource/First_Presbyterian_Church_(Chattanooga,_Tennessee)","http://dbpedia.org/resource/First_Presbyterian_Church_(Lexington,_Kentucky) http://dbpedia.org/resource/First_Presbyterian_Church,_Lexington"
+0,28,First Presbyterian Church,"http://dbpedia.org/resource/First_Presbyterian_Church_(Chattanooga,_Tennessee)","http://dbpedia.org/resource/First_Presbyterian_Church_(Fayetteville,_North_Carolina)"
+0,29,First Presbyterian Church,"http://dbpedia.org/resource/First_Presbyterian_Church_(Chattanooga,_Tennessee)","http://dbpedia.org/resource/First_Presbyterian_Church_(Cottage_Grove,_Oregon)"
+0,34,First National Bank Building,"http://dbpedia.org/resource/First_National_Bank_Building_(Fort_Dodge,_Iowa)","http://dbpedia.org/resource/First_National_Bank_Building_(Portland,_Oregon) http://dbpedia.org/resource/First_National_Bank_(Portland,_Oregon) http://dbpedia.org/resource/First_National_Bank_building_(Portland,_Oregon)"
+0,41,First Congregational Church,"http://dbpedia.org/resource/First_Congregational_Church_(Waltham,_Massachusetts)","http://dbpedia.org/resource/First_Congregational_Church_(Ripon,_Wisconsin)"
+0,42,First Congregational Church,"http://dbpedia.org/resource/First_Congregational_Church_(Waltham,_Massachusetts)","http://dbpedia.org/resource/First_Congregational_Church_(Pueblo,_Colorado) http://dbpedia.org/resource/First_Congregational_Church,_Pueblo,_Colorado"
+0,43,First Congregational Church,"http://dbpedia.org/resource/First_Congregational_Church_(Waltham,_Massachusetts)","http://dbpedia.org/resource/First_Congregational_Church_(Portland,_Oregon)"
+0,46,"First Church of Christ, Scientist","http://dbpedia.org/resource/First_Church_of_Christ,_Scientist_(Newton,_Massachusetts)","http://dbpedia.org/resource/First_Church_of_Christ,_Scientist_(Reno,_Nevada)"
+0,47,"First Church of Christ, Scientist","http://dbpedia.org/resource/First_Church_of_Christ,_Scientist_(Newton,_Massachusetts)","http://dbpedia.org/resource/First_Church_of_Christ,_Scientist_(Milwaukee,_Wisconsin)"
+0,52,First Baptist Church,"http://dbpedia.org/resource/First_Baptist_Church_(Cambridge,_Massachusetts)","http://dbpedia.org/resource/First_Baptist_Church_(Waterville,_Maine) http://dbpedia.org/resource/First_Baptist_Church,_Waterville,_Maine"
+0,53,First Baptist Church,"http://dbpedia.org/resource/First_Baptist_Church_(Cambridge,_Massachusetts)","http://dbpedia.org/resource/First_Baptist_Church_(Lynchburg,_Virginia) http://dbpedia.org/resource/First_Baptist_Church,_Lynchburg,_Virginia"
+0,54,First Baptist Church,"http://dbpedia.org/resource/First_Baptist_Church_(Cambridge,_Massachusetts)","http://dbpedia.org/resource/First_Baptist_Church,_Knoxville,_Tennessee http://dbpedia.org/resource/First_Baptist_Church_(Knoxville,_Tennessee)"
+0,55,First Baptist Church,"http://dbpedia.org/resource/First_Baptist_Church_(Cambridge,_Massachusetts)","http://dbpedia.org/resource/First_Baptist_Church,_Elizabethtown,_Kentucky http://dbpedia.org/resource/First_Baptist_Church_(Elizabethtown,_Kentucky)"
+0,57,Fifth Regiment Armory,http://dbpedia.org/resource/Kingsbridge_Armory,http://dbpedia.org/resource/Fifth_Regiment_Armory
+0,66,Federal Building,"http://dbpedia.org/resource/Federal_Building_(Milwaukee,_Wisconsin)","http://dbpedia.org/resource/Federal_Building_(Raleigh,_North_Carolina)"
+0,67,Federal Building,"http://dbpedia.org/resource/Federal_Building_(Milwaukee,_Wisconsin)","http://dbpedia.org/resource/Federal_Building_(Providence,_Rhode_Island) http://dbpedia.org/resource/Providence_Federal_Building"
+0,70,Farmville Historic District,"http://dbpedia.org/resource/Farmville_Historic_District_(Farmville,_Virginia)","http://dbpedia.org/resource/Farmville_Historic_District_(Farmville,_North_Carolina)"
+0,71,Farmington Historic District,"http://dbpedia.org/resource/Farmington_Historic_District_(Farmington,_Michigan)","http://dbpedia.org/resource/Farmington_Historic_District_(Farmington,_Maine)"
+0,78,Fairfield,"http://dbpedia.org/resource/Fairfield_railway_station,_Sydney","http://dbpedia.org/resource/Fairfield_(Berryville,_Virginia)"
+0,79,Fairbanks City Hall,http://dbpedia.org/resource/Radio_City_Music_Hall,http://dbpedia.org/resource/Fairbanks_City_Hall http://dbpedia.org/resource/Main_School
+0,83,Evergreen Cemetery,"http://dbpedia.org/resource/Evergreen_Cemetery_(Menomonie,_Wisconsin)","http://dbpedia.org/resource/Evergreen_Cemetery_(Portland,_Maine)"
+0,88,Ernest W. Smith House,"http://dbpedia.org/resource/George_W._Smith_House_(Oak_Park,_Illinois)",http://dbpedia.org/resource/Ernest_W._Smith_House
+0,95,Emmanuel Episcopal Church,"http://dbpedia.org/resource/Emmanuel_Church_(Newport,_Rhode_Island)","http://dbpedia.org/resource/Emmanuel_Church_(Port_Conway,_Virginia) http://dbpedia.org/resource/Emmanuel_Episcopal_Church_(Port_Conway,_Virginia)"
+0,96,Emmanuel Episcopal Church,"http://dbpedia.org/resource/Emmanuel_Church_(Newport,_Rhode_Island)","http://dbpedia.org/resource/Emmanuel_Episcopal_Church_(Pittsburgh,_Pennsylvania)"
+0,101,Elmwood Historic District–West,http://dbpedia.org/resource/Elmwood_Historic_District–East,http://dbpedia.org/resource/Elmwood_Historic_District–West http://dbpedia.org/resource/Elmwood_Historic_District-West
+0,103,Elmwood Historic District–West,http://dbpedia.org/resource/Elmwood_Historic_District–East,http://dbpedia.org/resource/Elmwood_Historic_District–West http://dbpedia.org/resource/Elmwood_Historic_District-West
+0,106,Elmwood,"http://dbpedia.org/resource/Elmwood_(Cambridge,_Massachusetts)","http://dbpedia.org/resource/Elmwood_(Nunda,_New_York)"
+0,114,Elks Building,http://dbpedia.org/resource/Pawtucket_Elks_Lodge_Building,"http://dbpedia.org/resource/Elks_Building_(Quincy,_Massachusetts)"
+0,116,Elko Main Post Office,http://dbpedia.org/resource/United_States_Post_Office_and_Courthouse–Globe_Main,http://dbpedia.org/resource/U.S._Post_Office-Elko_Main http://dbpedia.org/resource/Elko_Main_Post_Office http://dbpedia.org/resource/US_Post_Office-Elko_Main
+0,120,Electric Building,"http://dbpedia.org/resource/Electric_Building_(Fort_Worth,_Texas)","http://dbpedia.org/resource/Electric_Building_(Portland,_Oregon)"

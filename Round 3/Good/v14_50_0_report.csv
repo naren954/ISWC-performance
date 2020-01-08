@@ -1,0 +1,20 @@
+F1: 0.82000,Precision: 0.82000,Recall: 0.82000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,7,P. Mathews,http://dbpedia.org/resource/Peter_Mathews_(politician),http://dbpedia.org/resource/Phil_Mathews http://dbpedia.org/resource/Philip_Mathews
+0,17,P. Johnson,http://dbpedia.org/resource/Randy_Johnson,http://dbpedia.org/resource/Paul_Johnson_(American_football_coach) http://dbpedia.org/resource/Paul_Johnson_(coach) http://dbpedia.org/resource/Paul_Johnson_(American_football)
+0,20,P. Murphy,"http://dbpedia.org/resource/Phil_Murphy_(rugby_union,_born_1976)",http://dbpedia.org/resource/Patrick_Murphy_(softball_coach)
+0,38,N. Leaman,http://dbpedia.org/resource/Jack_Leaman,http://dbpedia.org/resource/Nate_Leaman http://dbpedia.org/resource/Nathan_Leaman
+0,39,M. Lee,http://dbpedia.org/resource/Marqise_Lee,http://dbpedia.org/resource/Monte_Lee
+0,45,M. Young,"http://dbpedia.org/resource/Michael_Young_(basketball,_born_1961)",http://dbpedia.org/resource/Mike_Young_(basketball_coach) http://dbpedia.org/resource/Mike_Young_(basketball)
+0,47,M. White,http://dbpedia.org/resource/Mike_White_(defensive_lineman),http://dbpedia.org/resource/Mike_White_(basketball) http://dbpedia.org/resource/Michael_White_(basketball) http://dbpedia.org/resource/Michael_White(basketball)
+0,49,M. Stone,http://dbpedia.org/resource/Michael_Stone_(American_football),http://dbpedia.org/resource/Mike_Stone_(baseball)
+0,51,M. Sanford,http://dbpedia.org/resource/Mark_Sanford_(basketball),http://dbpedia.org/resource/Mike_Sanford
+0,53,M. Norvell,http://dbpedia.org/resource/Jay_Norvell,http://dbpedia.org/resource/Mike_Norvell
+0,56,M. Martin,http://dbpedia.org/resource/Mike_Martin_(baseball_coach),"http://dbpedia.org/resource/Mike_Martin_(basketball,_born_1982)"
+0,63,M. Kelly,http://dbpedia.org/resource/Mike_Kelly_(American_football_coach),http://dbpedia.org/resource/Mike_Kelly_(gridiron_coach) http://dbpedia.org/resource/Mike_Kelly_(CFL_coach) http://dbpedia.org/resource/Mike_Kelly_(Canadian_football) http://dbpedia.org/resource/Mike_Kelly_(CFL) http://dbpedia.org/resource/Mike_Kelly_(football_coach) http://dbpedia.org/resource/Mike_Kelly_(gridiron_football)
+0,67,M. Gardner,http://dbpedia.org/resource/Michelle_Gardner,http://dbpedia.org/resource/Mike_Gardner_(American_football) http://dbpedia.org/resource/Mike_Gardner_(football_coach) http://dbpedia.org/resource/Mike_Gardner
+0,70,M. Davis,"http://dbpedia.org/resource/Mark_Davis_(basketball,_born_1963)",http://dbpedia.org/resource/Mike_Davis_(basketball_coach) http://dbpedia.org/resource/Mike_Davis_(coach) http://dbpedia.org/resource/Mike_Davis_Tenure_as_IU_Head_Coach
+0,77,M. Anderson,http://dbpedia.org/resource/Maurice_Anderson_(American_football),http://dbpedia.org/resource/Mike_Anderson_(basketball) http://dbpedia.org/resource/Mike_Anderson_(basketball_coach)
+0,85,M. Mitchell,http://dbpedia.org/resource/Mike_Mitchell_(safety),http://dbpedia.org/resource/Matthew_Mitchell
+0,86,M. Wells,http://dbpedia.org/resource/Robby_Wells,http://dbpedia.org/resource/Matt_Wells_(coach) http://dbpedia.org/resource/Matt_Wells_(American_football)
+0,98,M. Frese,http://dbpedia.org/resource/Brenda_Frese,http://dbpedia.org/resource/Marsha_Frese

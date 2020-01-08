@@ -1,0 +1,8 @@
+F1: 0.86667,Precision: 0.86667,Recall: 0.86667,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,J. Villeneuve,http://dbpedia.org/resource/Jacques_Villeneuve,"http://dbpedia.org/resource/Jacques_Villeneuve_(uncle) http://dbpedia.org/resource/Jacques_Villeneuve_Snr http://dbpedia.org/resource/Jacques_Villeneuve_(elder) http://dbpedia.org/resource/Jacques_Villeneuve_(racing_driver,_born_1953) http://dbpedia.org/resource/Jacques_Villeneuve,_Sr. http://dbpedia.org/resource/Jacques_Villeneuve_(born_1953)"
+0,4,J. Stewart,http://dbpedia.org/resource/Jimmy_Stewart_(racing_driver),http://dbpedia.org/resource/JYS http://dbpedia.org/resource/Jackie_Stewart http://dbpedia.org/resource/John_Young_Stewart http://dbpedia.org/resource/Sir_Jackie_Stewart http://dbpedia.org/resource/Sir_John_Young_Stewart
+0,8,J. Holmes,http://dbpedia.org/resource/Jim_Holmes,http://dbpedia.org/resource/Jackie_Holmes http://dbpedia.org/resource/John_Holmes_(driver)
+0,12,J. Nellemann,,http://dbpedia.org/resource/Jac_Nellemann http://dbpedia.org/resource/Jac_Nelleman
+0,34,H. Walter,http://dbpedia.org/resource/Fritz_Walter,http://dbpedia.org/resource/Heini_Walter
+0,40,H. Stuck,http://dbpedia.org/resource/Hans-Joachim_Stuck,http://dbpedia.org/resource/Hans_Stuck http://dbpedia.org/resource/Hans_Von_Stuck http://dbpedia.org/resource/Hans_von_Stuck

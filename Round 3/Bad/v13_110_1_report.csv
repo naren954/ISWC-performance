@@ -1,0 +1,49 @@
+F1: 0.44048,Precision: 0.44048,Recall: 0.44048,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,2,J. Lawrence,"http://dbpedia.org/resource/John_Lawrence,_1st_Baron_Lawrence",http://dbpedia.org/resource/James_Lawrence_(Ohio_politician)
+1,3,W. E. English,http://dbpedia.org/resource/John_Herschel,http://dbpedia.org/resource/William_E._English http://dbpedia.org/resource/William_Eastin_English
+1,4,W. Angel,http://dbpedia.org/resource/William_G._Angel,http://dbpedia.org/resource/Wilkes_Angel
+1,6,J. D. Bradley,http://dbpedia.org/resource/Thomas_J._Bradley,http://dbpedia.org/resource/Jonathan_Dorr_Bradley
+1,7,W. Cogswell,http://dbpedia.org/resource/William_Cogswell,http://dbpedia.org/resource/William_Cogswell_(New_Hampshire) http://dbpedia.org/resource/William_Cogswell_(Doctor)
+1,8,D. Breckinridge,http://dbpedia.org/resource/John_C._Breckinridge,http://dbpedia.org/resource/Desha_Breckinridge
+1,9,W. Chandler,http://dbpedia.org/resource/Walter_Chandler,http://dbpedia.org/resource/J._Wyeth_Chandler http://dbpedia.org/resource/Wyeth_Chandler
+1,10,T. Rice,http://dbpedia.org/resource/Thomas_Rice_(1768),http://dbpedia.org/resource/Thomas_Rice_(1734)
+1,11,B. Hubbard,http://dbpedia.org/resource/Richard_B._Hubbard,http://dbpedia.org/resource/Bela_Hubbard http://dbpedia.org/resource/Vinewood_(Detroit)
+1,13,T. Lyman,http://dbpedia.org/resource/Theodore_Lyman_III,http://dbpedia.org/resource/Theodore_Lyman http://dbpedia.org/resource/Theodore_Lyman_IV http://dbpedia.org/resource/Theodore_Lyman_(physicist)
+1,16,L. H. Coburn,http://dbpedia.org/resource/Carroll_L._Coburn,http://dbpedia.org/resource/Louise_Helen_Coburn
+1,17,S. H. Phillips,"http://dbpedia.org/resource/Prince_Philip,_Duke_of_Edinburgh",http://dbpedia.org/resource/Stephen_Henry_Phillips
+1,18,P. Massachusetts,http://dbpedia.org/resource/Nathaniel_P._Banks,"http://dbpedia.org/resource/Pittsfield,_Mass. http://dbpedia.org/resource/UN/LOCODE:USPSF http://dbpedia.org/resource/History_of_Pittsfield,_Massachusetts http://dbpedia.org/resource/Pittsfield_ma http://dbpedia.org/resource/Pittsfield,_MA http://dbpedia.org/resource/Pittsfield http://dbpedia.org/resource/Pittsfield,_Massachusetts http://dbpedia.org/resource/Pittsfield_(MA)"
+1,19,R. P. Burroughs,http://dbpedia.org/resource/Edgar_Rice_Burroughs,http://dbpedia.org/resource/Robert_P._Burroughs
+1,20,J. Smith,http://dbpedia.org/resource/John_Smith_(Vermont),http://dbpedia.org/resource/Jeremiah_Smith_(lawyer)
+1,21,B. U. Stratton,http://dbpedia.org/resource/William_Stratton,http://dbpedia.org/resource/Brian_U._Stratton http://dbpedia.org/resource/Brian_Stratton
+1,22,C. W. Eliot,http://dbpedia.org/resource/Charles_Eliot_(diplomat),http://dbpedia.org/resource/Charles_W._Eliot http://dbpedia.org/resource/Charles_William_Eliot
+1,28,P. Peyser,http://dbpedia.org/resource/Peter_A._Peyser,http://dbpedia.org/resource/Penelope_Allison_Peyser http://dbpedia.org/resource/Penny_Peyser
+1,29,C. F. Bass,http://dbpedia.org/resource/Urbane_F._Bass,"http://dbpedia.org/resource/Charles_Foster_""Charlie""_Bass http://dbpedia.org/resource/Charles_Bass http://dbpedia.org/resource/Charles_F._Bass http://dbpedia.org/resource/Charles_Foster_Bass"
+1,30,S. Simon,http://dbpedia.org/resource/Siôn_Simon,http://dbpedia.org/resource/Sheila_Simon
+1,31,P. A. Sorg,http://dbpedia.org/resource/Herbert_Peter_Sorg,http://dbpedia.org/resource/Paul_Arthur_Sorg
+1,32,O. Ames,http://dbpedia.org/resource/Oakes_Ames,http://dbpedia.org/resource/Oliver_Ames_(governor)
+1,36,S. Borden,http://dbpedia.org/resource/Robert_Borden,http://dbpedia.org/resource/Simeon_Borden
+1,38,A. Trafton,http://dbpedia.org/resource/Mark_Trafton,http://dbpedia.org/resource/Adeline_Trafton
+1,39,T. H. Benton,http://dbpedia.org/resource/Thomas_Hart_Benton_(politician),http://dbpedia.org/resource/Rita_piacenza http://dbpedia.org/resource/Thomas_Hart_Benton_(painter)
+1,40,H. N. Butler,http://dbpedia.org/resource/Sampson_H._Butler,http://dbpedia.org/resource/Henry_N._Butler
+1,43,L. Stokes,http://dbpedia.org/resource/Louis_Stokes,http://dbpedia.org/resource/Lori_Stokes
+1,44,S. Douglas,http://dbpedia.org/resource/Kirk_Douglas,http://dbpedia.org/resource/Sharman_Douglas
+1,46,Okinawa,http://dbpedia.org/resource/Battle_of_Okinawa,"http://dbpedia.org/resource/Okinawa_region http://dbpedia.org/resource/Okinava http://dbpedia.org/resource/Tsugen_Jima http://dbpedia.org/resource/Okinowa http://dbpedia.org/resource/沖縄 http://dbpedia.org/resource/Okinawa_Prefecture,_Japan http://dbpedia.org/resource/Okinawa http://dbpedia.org/resource/Okinawa_prefecture http://dbpedia.org/resource/Okinawa_Prefecture http://dbpedia.org/resource/Okinawa-ken http://dbpedia.org/resource/Uchinaa http://dbpedia.org/resource/JP-47 http://dbpedia.org/resource/沖縄県 http://dbpedia.org/resource/Uchina http://dbpedia.org/resource/冲繩 http://dbpedia.org/resource/Okinawa,_Japan"
+1,47,"Lansdale Ghiselin Sasscer, Jr.",http://dbpedia.org/resource/Lansdale_Ghiselin_Sasscer_Jr.,"http://dbpedia.org/resource/Lansdale_Ghiselin_Sasscer,_Jr."
+1,48,"L. Mendel Rivers, Jr.",http://dbpedia.org/resource/L._Mendel_Rivers,"http://dbpedia.org/resource/L._Mendel_Rivers,_Jr."
+1,50,J. Q. Jr.,http://dbpedia.org/resource/Josiah_Quincy_Jr.,"http://dbpedia.org/resource/Josiah_Quincy,_Jr. http://dbpedia.org/resource/Josiah_Quincy_(1802-1882)"
+1,51,M. R. Patterson,http://dbpedia.org/resource/Robert_P._Patterson,http://dbpedia.org/resource/Malcolm_R._Patterson http://dbpedia.org/resource/Malcolm_Patterson http://dbpedia.org/resource/Malcolm_Rice_Patterson
+1,52,J. H. Walker,http://dbpedia.org/resource/Joseph_H._Walker,http://dbpedia.org/resource/Joseph_H._Walker_(Massachusetts_speaker)
+1,57,J. Scott,http://dbpedia.org/resource/John_Scott_(Australian_politician),http://dbpedia.org/resource/John_Scott_(Pennsylvania)
+1,58,"John Randolph Neal, Jr.",http://dbpedia.org/resource/John_Randolph_Neal_Jr.,"http://dbpedia.org/resource/John_Randolph_Neal,_Jr."
+1,59,M. Murphy,http://dbpedia.org/resource/John_M._Murphy,"http://dbpedia.org/resource/Dan_Lamb http://dbpedia.org/resource/United_States_House_of_Representatives_election_in_New_York,_2012 http://dbpedia.org/resource/Francis_Becker_(politician) http://dbpedia.org/resource/Mark_Murphy_(politician) http://dbpedia.org/resource/Francis_X._Becker,_Jr. http://dbpedia.org/resource/Ursula_Rozum http://dbpedia.org/resource/Francis_X._""Fran""_Becker,_Jr. http://dbpedia.org/resource/Julian_Screibman http://dbpedia.org/resource/Francis_X._Becker http://dbpedia.org/resource/United_States_House_of_Representatives_elections_in_New_York,_2012 http://dbpedia.org/resource/Julian_Schreibman"
+1,60,J. W. Davis,http://dbpedia.org/resource/John_Wesley_Davis,"http://dbpedia.org/resource/John_W._Davis http://dbpedia.org/resource/Davis,_John_W. http://dbpedia.org/resource/John_William_Davis"
+1,63,L. Lodge,http://dbpedia.org/resource/John_Davis_Lodge,http://dbpedia.org/resource/Lily_Lodge http://dbpedia.org/resource/Lily_lodge
+1,72,Harley O. Staggers Jr.,http://dbpedia.org/resource/Harley_Orrin_Staggers,"http://dbpedia.org/resource/Harley_O._Staggers_Jr. http://dbpedia.org/resource/Buckey_Staggers http://dbpedia.org/resource/Harley_Staggers,_Jr. http://dbpedia.org/resource/Harley_O._Staggers,_Jr."
+1,73,"Glen D. Johnson, Jr.",http://dbpedia.org/resource/Glen_D._Johnson,"http://dbpedia.org/resource/Glen_D._Johnson,_Jr."
+1,74,S. M. Fairchild,http://dbpedia.org/resource/Charles_S._Fairchild,http://dbpedia.org/resource/Sherman_M._Fairchild http://dbpedia.org/resource/Sherman_Fairchild http://dbpedia.org/resource/Sherman_Mills_Fairchild
+1,77,A. Hartley,http://dbpedia.org/resource/Fred_A._Hartley_Jr.,http://dbpedia.org/resource/Al_Hartley
+1,78,J. Carr,http://dbpedia.org/resource/Jody_Carr,http://dbpedia.org/resource/James_Carr_(Massachusetts) http://dbpedia.org/resource/James_Carr_(Massachusetts_politician)
+1,79,F. B. Fay,http://dbpedia.org/resource/Francis_B._Fay,http://dbpedia.org/resource/Frank_B._Fay
+1,82,E. R. Potter,http://dbpedia.org/resource/Charles_E._Potter,http://dbpedia.org/resource/Elisha_R._Potter http://dbpedia.org/resource/Elisha_Potter
+1,84,J. Cooke,http://dbpedia.org/resource/John_Cooke_(Colorado_politician),http://dbpedia.org/resource/Jay_Cooke

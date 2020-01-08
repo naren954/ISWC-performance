@@ -1,0 +1,4 @@
+F1: 0.92000,Precision: 0.92000,Recall: 0.92000,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,12,T.G. Sheppard,http://dbpedia.org/resource/Andy_Sheppard,http://dbpedia.org/resource/TG_Sheppard http://dbpedia.org/resource/T.G._Sheppard http://dbpedia.org/resource/T_G_Sheppard http://dbpedia.org/resource/T._G._Shepard http://dbpedia.org/resource/T._G._Sheppard http://dbpedia.org/resource/Brian_Stacy
+3,24,Nervo,http://dbpedia.org/resource/Nervo_(DJs),http://dbpedia.org/resource/Miriam_Nervo http://dbpedia.org/resource/Nervo_(duo) http://dbpedia.org/resource/List_of_works_by_Nervo http://dbpedia.org/resource/Olivia_Nervo http://dbpedia.org/resource/Nervo_(band) http://dbpedia.org/resource/The_Nervo_Twins http://dbpedia.org/resource/NERVO_(duo) http://dbpedia.org/resource/NERVO

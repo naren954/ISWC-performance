@@ -1,0 +1,4 @@
+F1: 0.33333,Precision: 0.33333,Recall: 0.33333,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,Sagawa Express Osaka,http://dbpedia.org/resource/Sagawa_Shiga_FC,http://dbpedia.org/resource/Sagawa_Express_Osaka_S_C http://dbpedia.org/resource/Sagawa_Express_Osaka_S._C. http://dbpedia.org/resource/Sagawa_Express_Osaka_SC http://dbpedia.org/resource/Sagawa_Express_Osaka_S.C.
+1,10,Osaka Gas,http://dbpedia.org/resource/Osaka_Prefecture,http://dbpedia.org/resource/Osaka_Gas_S.C. http://dbpedia.org/resource/Osaka_Gas_SC

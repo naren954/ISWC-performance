@@ -1,0 +1,5 @@
+"F1: 0.80000","Precision: 0.80000","Recall: 0.80000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","1","A. Silver","http://dbpedia.org/resource/Ron_Silver","http://dbpedia.org/resource/Abner_Silver"
+"1","2","D. Crosby","http://dbpedia.org/resource/Bing_Crosby","http://dbpedia.org/resource/Crosby,_David http://dbpedia.org/resource/David_Crosby"
+"1","15","S. Schwartz","http://dbpedia.org/resource/Sherwood_Schwartz","http://dbpedia.org/resource/Stephen_Schwartz_(composer)"

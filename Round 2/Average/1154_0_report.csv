@@ -1,0 +1,6 @@
+F1: 0.69231,Precision: 0.69231,Recall: 0.69231,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,Amarte es mi Pecado,http://dbpedia.org/resource/Mi_pecado,http://dbpedia.org/resource/Amarte_es_mi_Pecado http://dbpedia.org/resource/Amarte_es_mi_pecado
+0,5,América,,http://dbpedia.org/resource/América_(Novela) http://dbpedia.org/resource/América_(telenovela) http://dbpedia.org/resource/America_(Novela) http://dbpedia.org/resource/America_(telenovela) http://dbpedia.org/resource/América_(soap_opera) http://dbpedia.org/resource/America_(TV_series) http://dbpedia.org/resource/America_(soap_opera) http://dbpedia.org/resource/América_(TV_series)
+0,8,All Blues,http://dbpedia.org/resource/The_Blues_(song),http://dbpedia.org/resource/All_blues http://dbpedia.org/resource/All_Blues
+0,9,Aladdin,http://dbpedia.org/resource/Aladdin_(animated_TV_series),http://dbpedia.org/resource/Aladdin_(television_series) http://dbpedia.org/resource/Mechanikles http://dbpedia.org/resource/Ayam_Aghoul http://dbpedia.org/resource/Aladdin_(TV_show) http://dbpedia.org/resource/Aladdin_(TV_series) http://dbpedia.org/resource/Aladdin:_The_Series

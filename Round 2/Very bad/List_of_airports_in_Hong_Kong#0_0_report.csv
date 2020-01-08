@@ -1,0 +1,8 @@
+F1: 0.14286,Precision: 0.14286,Recall: 0.14286,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,0,Location,http://dbpedia.org/resource/Location,http://dbpedia.org/resource/List_of_cities_and_towns_in_Hong_Kong http://dbpedia.org/resource/List_of_towns_in_Hong_Kong http://dbpedia.org/resource/List_of_cities_in_Hong_Kong
+0,2,Chek Lap Kok,http://dbpedia.org/resource/Hong_Kong_International_Airport,http://dbpedia.org/resource/Chek_Lap_Kok http://dbpedia.org/resource/Chìliè_Jiao http://dbpedia.org/resource/Chep_Lap_Kok http://dbpedia.org/resource/Chilie_Jiao http://dbpedia.org/resource/赤鱲角 http://dbpedia.org/resource/Ch'ih-lieh_Chiao http://dbpedia.org/resource/Chihlie_Jiao
+0,3,Shek Kong,http://dbpedia.org/resource/Shek_Kong_Airfield,http://dbpedia.org/resource/Shek_Kong
+0,5,Kowloon City \/ Kowloon Bay,http://dbpedia.org/resource/Kowloon_City_Plaza,http://dbpedia.org/resource/Kowloon_City http://dbpedia.org/resource/Kowloon_City_Beach
+0,7,Fanling,http://dbpedia.org/resource/Fanling_Highway,http://dbpedia.org/resource/Fanling http://dbpedia.org/resource/Fan_Ling
+0,8,Sha Tin,http://dbpedia.org/resource/Sha_Tin_Racecourse,"http://dbpedia.org/resource/Sha_Tian http://dbpedia.org/resource/Castello_(Hong_Kong) http://dbpedia.org/resource/Sha_tin http://dbpedia.org/resource/Shatin http://dbpedia.org/resource/Sha_Tin http://dbpedia.org/resource/Sha_Tin,_Hong_Kong"

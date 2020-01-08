@@ -1,0 +1,9 @@
+F1: 0.53333,Precision: 0.53333,Recall: 0.53333,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,SeÃ¡n Boylan,http://dbpedia.org/resource/Lee_Boylan,http://dbpedia.org/resource/Seán_Boylan
+0,3,Ã\u0089amonn Coleman,http://dbpedia.org/resource/Florida_A&M_University,http://dbpedia.org/resource/Éamonn_Coleman
+0,6,Mickey Harte,http://dbpedia.org/resource/Mickey_Joe_Harte,http://dbpedia.org/resource/Mickey_Harte
+0,13,Billy Morgan,"http://dbpedia.org/resource/Billy_Morgan_(footballer,_born_1891)",http://dbpedia.org/resource/Billy_Morgan_(Gaelic_football) http://dbpedia.org/resource/Billy_Morgan_(Gaelic_footballer)
+0,14,Jack O'Connor,http://dbpedia.org/resource/Jack_O'Connor_(pitcher),http://dbpedia.org/resource/Jack_O'Connor_(GAA)
+0,16,John O'Mahony,http://dbpedia.org/resource/John_O'Mahony_(Gaelic_footballer),http://dbpedia.org/resource/John_O'Mahony_(Mayo_politician)
+0,17,PÃ¡idÃ­ Ã\u0093 SÃ©,,http://dbpedia.org/resource/Páidí_Ó_Sé

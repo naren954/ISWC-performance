@@ -1,0 +1,5 @@
+"F1: 0.91429","Precision: 0.91429","Recall: 0.91429"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","4","Vinnie & Bobby","http://dbpedia.org/resource/Married..._with_Children","http://dbpedia.org/resource/Vinnie_&_Bobby http://dbpedia.org/resource/Vinnie_and_Bobby"
+"0","18","The Pacific","http://dbpedia.org/resource/Pacific_(album)","http://dbpedia.org/resource/The_Pacific_(TV_series) http://dbpedia.org/resource/The_Pacific_(TV_miniseries) http://dbpedia.org/resource/Pacific,_The http://dbpedia.org/resource/The_Pacific_(miniseries) http://dbpedia.org/resource/The_Pacific_episodes http://dbpedia.org/resource/The_pacific_miniseries http://dbpedia.org/resource/The_Pacific_(TV) http://dbpedia.org/resource/The_Pacific_(show)"
+"0","19","The Oaks Trilogy","http://dbpedia.org/resource/Marchlands","http://dbpedia.org/resource/The_Oaks_Trilogy"

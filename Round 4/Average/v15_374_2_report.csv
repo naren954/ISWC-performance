@@ -1,0 +1,67 @@
+F1: 0.52899,Precision: 0.52899,Recall: 0.52899,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,2,R. Kent,http://dbpedia.org/resource/Rockwell_Kent,http://dbpedia.org/resource/Rolfe_Kent
+2,3,O. Isaacs,http://dbpedia.org/resource/Jorge_Isaacs,http://dbpedia.org/resource/Orin_Isaacs
+2,7,J. Haskell,http://dbpedia.org/resource/Gordon_Haskell,http://dbpedia.org/resource/Jimmie_Haskell http://dbpedia.org/resource/Jimmy_Haskell http://dbpedia.org/resource/Jimmie_Haskel
+2,10,S. Rogers,http://dbpedia.org/resource/Stan_Rogers,http://dbpedia.org/resource/Shorty_Rogers
+2,11,P. Thomson,http://dbpedia.org/resource/Virgil_Thomson,http://dbpedia.org/resource/Paul_Thomson_(composer)
+2,14,S. Sim,http://dbpedia.org/resource/Sheila_Sim,http://dbpedia.org/resource/Samuel_Sim
+2,15,K. Thorne,http://dbpedia.org/resource/Bella_Thorne,http://dbpedia.org/resource/Ken_Thorne
+2,17,D. Giorgetti,http://dbpedia.org/resource/Florence_Giorgetti,http://dbpedia.org/resource/Daniel_Giorgetti
+2,18,D. Elliott,http://dbpedia.org/resource/Denholm_Elliott,http://dbpedia.org/resource/Dean_Elliot http://dbpedia.org/resource/Dean_Elliott
+2,19,M. Phipps,http://dbpedia.org/resource/Wintley_Phipps,http://dbpedia.org/resource/Martin_Phipps
+2,22,J. Walters,http://dbpedia.org/resource/Julie_Walters,http://dbpedia.org/resource/Jamie_Walters_(American_actor/singer) http://dbpedia.org/resource/Jamie_Walters_(singer) http://dbpedia.org/resource/James_Walters http://dbpedia.org/resource/Jamie_Walters_(American_entertainer) http://dbpedia.org/resource/Jamie_Walters http://dbpedia.org/resource/James_Walters_(American_singer/actor)
+2,28,G. Fried,http://dbpedia.org/resource/Germain_Fried,http://dbpedia.org/resource/Gerald_Fried
+2,31,M. Snow,http://dbpedia.org/resource/Michael_Snow,http://dbpedia.org/resource/Martin_Fulterman http://dbpedia.org/resource/Mark_Snow
+2,35,G. Moon,http://dbpedia.org/resource/Galileo_Galilei,http://dbpedia.org/resource/Guy_Moon
+2,39,W. Josephs,http://dbpedia.org/resource/Joseph_Stalin,http://dbpedia.org/resource/Wilfrid_Josephs http://dbpedia.org/resource/Wilfred_Josephs
+2,42,D. Jones,http://dbpedia.org/resource/David_Bowie,http://dbpedia.org/resource/Dan_Jones_(composer)
+2,43,J. Nott,http://dbpedia.org/resource/Jonathan_Nott,http://dbpedia.org/resource/Julian_Nott
+2,45,R. Evans,http://dbpedia.org/resource/Tiffany_Evans,"http://dbpedia.org/resource/Evans,_Ray http://dbpedia.org/resource/Ray_Evans"
+2,47,M. Small,http://dbpedia.org/resource/Heather_Small,http://dbpedia.org/resource/Michael_Small
+2,53,B. Segall,http://dbpedia.org/resource/Ty_Segall,http://dbpedia.org/resource/Bernardo_Segall http://dbpedia.org/resource/Bernardo_segall
+2,54,P. Miller,http://dbpedia.org/resource/Master_P,"http://dbpedia.org/resource/P._Mill. http://dbpedia.org/resource/Miller,_Philip http://dbpedia.org/resource/Philip_Miller http://dbpedia.org/resource/Mill."
+2,55,D. Wood,http://dbpedia.org/resource/Del_Wood,http://dbpedia.org/resource/David_Wood_(actor)
+2,56,G. A. Tipton,http://dbpedia.org/resource/John_Tipton_(Alberta_politician),http://dbpedia.org/resource/George_Aliceson_Tipton http://dbpedia.org/resource/George_Tipton
+2,57,W. Josephs,http://dbpedia.org/resource/Joseph_Stalin,http://dbpedia.org/resource/Wilfrid_Josephs http://dbpedia.org/resource/Wilfred_Josephs
+2,59,J. Smith,http://dbpedia.org/resource/LL_Cool_J,http://dbpedia.org/resource/Jeremy_Smith_(Australian_musician)
+2,60,D. Pemberton,http://dbpedia.org/resource/John_Stith_Pemberton,http://dbpedia.org/resource/Daniel_Pemberton
+2,61,M. Snow,http://dbpedia.org/resource/Michael_Snow,http://dbpedia.org/resource/Martin_Fulterman http://dbpedia.org/resource/Mark_Snow
+2,68,D. Wiseman,http://dbpedia.org/resource/Frederick_Wiseman,http://dbpedia.org/resource/Debbie_Wiseman
+2,72,T. Kashif,http://dbpedia.org/resource/Kashif_(musician),http://dbpedia.org/resource/Tolga_Kashif http://dbpedia.org/resource/Tolga_Kaşif
+2,73,B. Broughton,"http://dbpedia.org/resource/John_Hobhouse,_1st_Baron_Broughton",http://dbpedia.org/resource/Bruce_Broughton
+2,74,M. Price,http://dbpedia.org/resource/Margaret_Price,http://dbpedia.org/resource/Michael_Price_(composer)
+2,75,D. M. Frank,http://dbpedia.org/resource/Anne_Frank,http://dbpedia.org/resource/David_Michael_Frank
+2,77,S. Tyrell,http://dbpedia.org/resource/Soozie_Tyrell,http://dbpedia.org/resource/Steve_Tyrell
+2,78,J. Frederick,http://dbpedia.org/resource/John_Herschel,http://dbpedia.org/resource/Jesse_Frederick
+2,79,B. Hartman,http://dbpedia.org/resource/Dan_Hartman,"http://dbpedia.org/resource/Hartman_Productions http://dbpedia.org/resource/Butch_Hartman http://dbpedia.org/resource/Billionfold_Studios http://dbpedia.org/resource/Billionfold,_Inc."
+2,81,M. Lira,http://dbpedia.org/resource/Pedro_Lira,http://dbpedia.org/resource/Michael_Lira http://dbpedia.org/resource/Michael_lira
+2,83,J. Mann,http://dbpedia.org/resource/Herbie_Mann,http://dbpedia.org/resource/Johnny_Mann_Singers http://dbpedia.org/resource/Johnny_Mann
+2,86,R. Barrett,http://dbpedia.org/resource/Richie_Barrett,http://dbpedia.org/resource/Ruth_Barrett
+2,87,L. Balfe,http://dbpedia.org/resource/David_Balfe,http://dbpedia.org/resource/Lorne_Balfe
+2,88,J. Rubinstein,http://dbpedia.org/resource/Arthur_Rubinstein,http://dbpedia.org/resource/John_Rubinstein
+2,90,M. Snow,http://dbpedia.org/resource/Michael_Snow,http://dbpedia.org/resource/Martin_Fulterman http://dbpedia.org/resource/Mark_Snow
+2,91,E. Hagen,http://dbpedia.org/resource/Nina_Hagen,http://dbpedia.org/resource/Earle_H._Hagen http://dbpedia.org/resource/Earle_Hagen
+2,93,G. Chang,http://dbpedia.org/resource/Grace_Chang,http://dbpedia.org/resource/Gary_Chang
+2,97,N. Larson,http://dbpedia.org/resource/Nicolette_Larson,http://dbpedia.org/resource/Nathan_Larson_(musician) http://dbpedia.org/resource/Nathan_Larson http://dbpedia.org/resource/Nathan_larson
+2,98,C. Davis,http://dbpedia.org/resource/Colin_Davis,"http://dbpedia.org/resource/Davis,_Carl http://dbpedia.org/resource/Karl_Davis http://dbpedia.org/resource/Carl_Davis"
+2,104,N. Furst,http://dbpedia.org/resource/Anton_Furst,http://dbpedia.org/resource/Nathan_Furst
+2,107,A. Ferguson,http://dbpedia.org/resource/Maynard_Ferguson,http://dbpedia.org/resource/Allyn_Ferguson
+2,108,C. Harris,http://dbpedia.org/resource/T.I.,http://dbpedia.org/resource/Corey_Harris http://dbpedia.org/resource/Daily_Bread_(Corey_Harris_album) http://dbpedia.org/resource/Downhome_Sophisticate
+2,112,S. Sager,http://dbpedia.org/resource/Carole_Bayer_Sager,http://dbpedia.org/resource/Sidney_Sager
+2,113,R. Marvin,http://dbpedia.org/resource/Marvin_Humes,http://dbpedia.org/resource/Richard_Marvin_(composer)
+2,114,K. Gillis,,http://dbpedia.org/resource/Kevin_Gillis
+2,115,J. Wolff,http://fr.dbpedia.org/resource/Jean-Claude_Wolff,http://dbpedia.org/resource/Jonathan_Wolff_(musician)
+2,119,D. Elliott,http://dbpedia.org/resource/Denholm_Elliott,http://dbpedia.org/resource/Dean_Elliot http://dbpedia.org/resource/Dean_Elliott
+2,120,Bono,http://dbpedia.org/resource/Sonny_Bono,http://dbpedia.org/resource/Bono_Vox http://dbpedia.org/resource/Paul_David_Hewson http://dbpedia.org/resource/Bono http://dbpedia.org/resource/Paul_Hewson http://dbpedia.org/resource/Bono_(U2)
+2,121,A. Faris,http://dbpedia.org/resource/Anna_Faris,http://dbpedia.org/resource/Alexander_Faris http://dbpedia.org/resource/Sandy_Faris
+2,122,M. Segal,http://dbpedia.org/resource/George_Segal,http://dbpedia.org/resource/Misha_Segal
+2,124,P. Caird,http://dbpedia.org/resource/John_Caird_(director),http://dbpedia.org/resource/Patrick_Caird http://dbpedia.org/resource/Patric_Caird http://dbpedia.org/resource/Pat_Caird
+2,125,N. Wang,http://dbpedia.org/resource/Nina_Wang,http://dbpedia.org/resource/Wang_Zongxian http://dbpedia.org/resource/Nathan_Wang http://dbpedia.org/resource/Nathan_wang
+2,127,J. Söderqvist,http://de.dbpedia.org/resource/Ann-Sofi_Söderqvist,http://dbpedia.org/resource/Johan_Söderqvist http://dbpedia.org/resource/Johan_Soderqvist
+2,130,M. Snow,http://dbpedia.org/resource/Michael_Snow,http://dbpedia.org/resource/Martin_Fulterman http://dbpedia.org/resource/Mark_Snow
+2,133,T. Morris,http://dbpedia.org/resource/Gary_Morris,http://dbpedia.org/resource/Trevor_Morris_(musician)
+2,134,D. Kurtz,http://dbpedia.org/resource/Efrem_Kurtz,http://dbpedia.org/resource/David_Kurtz_(musician) http://dbpedia.org/resource/David_Kurtz_(composer)
+2,135,P. Howell,http://dbpedia.org/resource/Peter_Howell_(actor),http://dbpedia.org/resource/Peter_Howell_(musician)
+2,137,B. Broughton,"http://dbpedia.org/resource/John_Hobhouse,_1st_Baron_Broughton",http://dbpedia.org/resource/Bruce_Broughton
+2,138,K. Zečević,http://dbpedia.org/resource/Vlada_Zečević,http://dbpedia.org/resource/Ksenija_Zecevic http://dbpedia.org/resource/Ksenija_Zečević

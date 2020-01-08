@@ -1,0 +1,5 @@
+F1: 0.25000,Precision: 0.25000,Recall: 0.25000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,4,Mike Riddle (CAN),http://dbpedia.org/resource/The_Riddle_(Nik_Kershaw_song),http://dbpedia.org/resource/Micheal_Riddle http://dbpedia.org/resource/Mike_Riddle
+1,5,David Wise (USA),http://dbpedia.org/resource/WiseGirls,http://dbpedia.org/resource/David_Wise_(freestyle_skier) http://dbpedia.org/resource/David_Wise_(skier)
+1,6,Kyle Smaine (USA),http://dbpedia.org/resource/Kyle_Hines,http://dbpedia.org/resource/Kyle_Smaine

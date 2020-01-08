@@ -1,0 +1,5 @@
+F1: 0.86364,Precision: 0.86364,Recall: 0.86364,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,4,Ã\u0081lvaro Bautista,http://dbpedia.org/resource/Infanta_Margarita_Teresa_in_a_Pink_Dress,http://dbpedia.org/resource/Álvaro_Bautista
+2,9,James Ellison,http://dbpedia.org/resource/James_Ellison_(motorcyclist),http://dbpedia.org/resource/James_Ellison_(motorcycle_racer)
+2,21,IvÃ¡n Silva,http://dbpedia.org/resource/Iván_Silva_(motorcyclist),http://dbpedia.org/resource/Iván_Silva

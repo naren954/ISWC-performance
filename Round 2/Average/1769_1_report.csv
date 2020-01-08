@@ -1,0 +1,6 @@
+F1: 0.60000,Precision: 0.60000,Recall: 0.60000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,6,D. Willis,http://dbpedia.org/resource/Deborah_Willis_(artist),http://dbpedia.org/resource/Dave_Willis http://dbpedia.org/resource/Dave_Willis_(1976)
+1,8,K. Sullivan,http://dbpedia.org/resource/Kathy_Sullivan_(Australian_politician),http://dbpedia.org/resource/Kevin_Sullivan_(director) http://dbpedia.org/resource/Kevin_Sullivan_(producer) http://dbpedia.org/resource/Love_on_the_land http://dbpedia.org/resource/Sullivan_Entertainment http://dbpedia.org/resource/Love_on_the_Land
+1,9,K. Sullivan,http://dbpedia.org/resource/Kathy_Sullivan_(Australian_politician),http://dbpedia.org/resource/Kevin_Sullivan_(director) http://dbpedia.org/resource/Kevin_Sullivan_(producer) http://dbpedia.org/resource/Love_on_the_land http://dbpedia.org/resource/Sullivan_Entertainment http://dbpedia.org/resource/Love_on_the_Land
+1,10,C. Lilley,http://dbpedia.org/resource/Charles_Lilley,http://dbpedia.org/resource/Christopher_Daniel_Lilley http://dbpedia.org/resource/Chris_Lilley_(comedian)

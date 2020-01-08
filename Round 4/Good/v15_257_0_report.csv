@@ -1,0 +1,19 @@
+F1: 0.77632,Precision: 0.77632,Recall: 0.77632,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,5,1938 Swiss Grand Prix,http://dbpedia.org/resource/1937_Swiss_Grand_Prix,http://dbpedia.org/resource/1938_Swiss_Grand_Prix
+0,13,1937 German Grand Prix,http://dbpedia.org/resource/1937_Italian_Grand_Prix,http://dbpedia.org/resource/1937_German_Grand_Prix
+0,15,1937 Belgian Grand Prix,http://dbpedia.org/resource/1937_Italian_Grand_Prix,http://dbpedia.org/resource/1937_Belgian_Grand_Prix
+0,24,1935 Swiss Grand Prix,http://dbpedia.org/resource/1937_Swiss_Grand_Prix,http://dbpedia.org/resource/1935_Swiss_Grand_Prix
+0,29,1934 Swiss Grand Prix,http://dbpedia.org/resource/1937_Swiss_Grand_Prix,http://dbpedia.org/resource/1934_Swiss_Grand_Prix
+0,53,1927 Italian Grand Prix,http://dbpedia.org/resource/1926_Italian_Grand_Prix,http://dbpedia.org/resource/1927_Italian_Grand_Prix
+0,54,1927 British Grand Prix,http://dbpedia.org/resource/1948_British_Grand_Prix,http://dbpedia.org/resource/1927_British_Grand_Prix
+0,55,1926 San Sebastián Grand Prix,http://dbpedia.org/resource/1930_San_Sebastián_Grand_Prix,http://dbpedia.org/resource/1926_San_Sebastian_Grand_Prix http://dbpedia.org/resource/1926_San_Sebastián_Grand_Prix
+0,56,1926 British Grand Prix,http://dbpedia.org/resource/1948_British_Grand_Prix,http://dbpedia.org/resource/1926_British_Grand_Prix
+0,67,1913 French Grand Prix,http://dbpedia.org/resource/1947_French_Grand_Prix,http://dbpedia.org/resource/1913_French_Grand_Prix
+0,68,1912 American Grand Prize,http://dbpedia.org/resource/1908_American_Grand_Prize,http://dbpedia.org/resource/1912_American_Grand_Prize
+0,69,1911 American Grand Prize,http://dbpedia.org/resource/1908_American_Grand_Prize,http://dbpedia.org/resource/1911_American_Grand_Prize
+0,70,1910 American Grand Prize,http://dbpedia.org/resource/1908_American_Grand_Prize,http://dbpedia.org/resource/1910_American_Grand_Prize
+0,73,1906 French Grand Prix,http://dbpedia.org/resource/1949_French_Grand_Prix,http://dbpedia.org/resource/1906_French_Grand_Prix http://dbpedia.org/resource/1906_Grand_Prix_de_l'Automobile_Club_de_France
+0,74,1905 Gordon Bennett Cup,http://dbpedia.org/resource/1902_Gordon_Bennett_Cup,http://dbpedia.org/resource/1905_Gordon_Bennett_Cup
+0,75,1904 Gordon Bennett Cup,http://dbpedia.org/resource/1902_Gordon_Bennett_Cup,http://dbpedia.org/resource/1904_Gordon_Bennett_Cup
+0,76,1903 Gordon Bennett Cup,http://dbpedia.org/resource/1902_Gordon_Bennett_Cup,http://dbpedia.org/resource/1903_Gordon_Bennett_Cup

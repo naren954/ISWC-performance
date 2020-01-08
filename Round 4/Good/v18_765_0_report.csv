@@ -1,0 +1,26 @@
+F1: 0.80488,Precision: 0.80488,Recall: 0.80488,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,7,William Stevens House,"http://dbpedia.org/resource/William_Stevens_House_(Kenton,_Delaware)","http://dbpedia.org/resource/William_Stevens_House_(Clinton,_Connecticut)"
+0,11,William Smith House,"http://dbpedia.org/resource/William_Smith_House_(Wrightstown,_Pennsylvania)","http://dbpedia.org/resource/William_Smith_House_(Hamilton,_Virginia)"
+0,12,William Smith House,"http://dbpedia.org/resource/William_Smith_House_(Wrightstown,_Pennsylvania)","http://dbpedia.org/resource/William_Smith_House_(Aurora,_Colorado)"
+0,13,William Shoemaker Junior High School,http://dbpedia.org/resource/Shaw_Junior_High_School,http://dbpedia.org/resource/William_Shoemaker_Junior_High_School
+0,17,William Sewall House,http://dbpedia.org/resource/Richards-Sewall_House,http://dbpedia.org/resource/William_Sewall_House
+0,19,William Sayers Homestead,http://dbpedia.org/resource/William_Cornell_Homestead,http://dbpedia.org/resource/William_Sayers_Homestead
+0,21,William S. Smith House,"http://dbpedia.org/resource/William_Smith_House_(Wrightstown,_Pennsylvania)",http://dbpedia.org/resource/William_S._Smith_House
+0,40,William Penn High School for Girls,http://dbpedia.org/resource/Franklin_Learning_Center,http://dbpedia.org/resource/William_Penn_High_School_for_Girls
+0,44,William Parker Straw House,http://dbpedia.org/resource/William_Parker_House,http://dbpedia.org/resource/William_Parker_Straw_House
+0,48,William P. Stroman House,http://dbpedia.org/resource/William_P._Warnock_House,http://dbpedia.org/resource/William_P._Stroman_House
+0,55,William N. Thompson House,"http://dbpedia.org/resource/William_Thompson_House_(Camden,_Tennessee)",http://dbpedia.org/resource/William_N._Thompson_House
+0,64,William Mann School,http://dbpedia.org/resource/Mastery_Charter_School_Mann_Elementary,http://dbpedia.org/resource/William_Mann_School
+0,67,William M. Shaw House,http://dbpedia.org/resource/William_M._Davis_House,http://dbpedia.org/resource/William_M._Shaw_House
+0,68,William M. Nash House,http://dbpedia.org/resource/William_M._Davis_House,http://dbpedia.org/resource/William_M._Nash_House http://dbpedia.org/resource/William_Nash_House
+0,73,William Levering School,http://dbpedia.org/resource/William_M._Meredith_School,http://dbpedia.org/resource/William_Levering_School
+0,88,William J. Wilson House,"http://dbpedia.org/resource/William_Wilson_House_(Gerrardstown,_West_Virginia)",http://dbpedia.org/resource/William_J._Wilson_House
+0,89,William J. Tilden Junior High School,http://dbpedia.org/resource/Shaw_Junior_High_School,http://dbpedia.org/resource/William_J._Tilden_Junior_High_School
+0,94,William J. Greenman House,http://dbpedia.org/resource/William_J._Graham_House,http://dbpedia.org/resource/William_J._Greenman_House
+0,103,William Hicklen House,http://dbpedia.org/resource/William_Poole_House,http://dbpedia.org/resource/William_Hicklen_House
+0,111,William Harris House,http://dbpedia.org/resource/William_B._Harris_House,"http://dbpedia.org/resource/William_Harris_House_(Brattleboro,_Vermont)"
+0,115,William H. Vincent House,"http://dbpedia.org/resource/William_H._Grant_House_(Richmond,_Virginia)",http://dbpedia.org/resource/William_H._Vincent_House
+0,117,William H. Trusty House,"http://dbpedia.org/resource/William_H._Grant_House_(Richmond,_Virginia)",http://dbpedia.org/resource/William_H._Trusty_House
+0,118,William H. Smith House,"http://dbpedia.org/resource/William_Smith_House_(Wrightstown,_Pennsylvania)",http://dbpedia.org/resource/William_H._Smith_House
+0,121,William H. Lee House,http://dbpedia.org/resource/William_H._Wells_House,http://dbpedia.org/resource/William_H._Lee_House

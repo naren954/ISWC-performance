@@ -1,0 +1,8 @@
+F1: 0.87755,Precision: 0.87755,Recall: 0.87755,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,10,N. Benjamin,http://dbpedia.org/resource/Neil_Benjamin,http://dbpedia.org/resource/Nick_Benjamin
+0,16,N. Tate,http://dbpedia.org/resource/Ben_Tate,http://dbpedia.org/resource/Ned_Tate
+0,25,M. Shelton,http://dbpedia.org/resource/Everett_Shelton,http://dbpedia.org/resource/Murray_Shelton
+0,26,M. Wilson,http://dbpedia.org/resource/Mike_Wilson_(wide_receiver),http://dbpedia.org/resource/Mule_Wilson
+0,36,M. Collins,http://dbpedia.org/resource/Mardy_Collins,http://dbpedia.org/resource/Mo_Collins_(American_football) http://dbpedia.org/resource/Damon_Jamal_Collins http://dbpedia.org/resource/Damon_Collins http://dbpedia.org/resource/Mo_Collins_(football_player)
+0,46,M. Davis,http://dbpedia.org/resource/Mike_Davis_(wide_receiver),http://dbpedia.org/resource/Milt_Davis

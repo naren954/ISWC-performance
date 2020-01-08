@@ -1,0 +1,4 @@
+F1: 0.93939,Precision: 0.93939,Recall: 0.93939,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,J. Gregory,http://dbpedia.org/resource/Jack_Gregory_(athlete),http://dbpedia.org/resource/Jack_Gregory_(American_football_coach)
+0,14,J. Butterfield,http://dbpedia.org/resource/Jim_Butterfield_(American_football),http://dbpedia.org/resource/Jack_Butterfield_(baseball)

@@ -1,0 +1,6 @@
+"F1: 0.89189","Precision: 0.89189","Recall: 0.89189"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","8","Joker","http://dbpedia.org/resource/Batman_Beyond:_Return_of_the_Joker","http://dbpedia.org/resource/Joker_(2000_film)"
+"1","27","Aadharam","http://dbpedia.org/resource/Aadade_Aadharam","http://dbpedia.org/resource/Aadhaaram http://dbpedia.org/resource/Aadharam http://dbpedia.org/resource/Adharam"
+"1","28","Dhanam","http://dbpedia.org/resource/Dhanam_(1991_film)","http://dbpedia.org/resource/Dhanam http://dbpedia.org/resource/Dhanam_(Tamil_Film) http://dbpedia.org/resource/Dhanam_(film)"
+"1","42","Kireedam","http://dbpedia.org/resource/Kireedam_(2007_film)","http://dbpedia.org/resource/Kireedam_(1989_film) http://dbpedia.org/resource/Kireedam_(malayalam) http://dbpedia.org/resource/Kireedam_(1990_film)"

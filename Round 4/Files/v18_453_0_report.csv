@@ -1,0 +1,6 @@
+"F1: 0.42857","Precision: 0.42857","Recall: 0.42857"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","2","S. M. King","http://dbpedia.org/resource/Edward_VII","http://dbpedia.org/resource/Spencer_Matthews_King http://dbpedia.org/resource/Spencer_M._King"
+"0","3","M. H. Jr.","http://dbpedia.org/resource/Maurice_Hurst_Jr.","http://dbpedia.org/resource/Memucan_Hunt,_Jr."
+"0","4","M. M. Hamilton","http://dbpedia.org/resource/John_Marshall_Hamilton","http://dbpedia.org/resource/Maxwell_Hamilton http://dbpedia.org/resource/Maxwell_McGaughey_Hamilton http://dbpedia.org/resource/Maxwell_M._Hamilton"
+"0","7","C. T. Manatt","http://dbpedia.org/resource/C._T._C._Wall","http://dbpedia.org/resource/Charles_Manatt http://dbpedia.org/resource/Chuck_Manatt http://dbpedia.org/resource/Charles_Taylor_Manatt http://dbpedia.org/resource/Charles_T._Manatt"

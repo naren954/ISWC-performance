@@ -1,0 +1,9 @@
+F1: 0.85106,Precision: 0.85106,Recall: 0.85106,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,7,F. Hössler,http://de.dbpedia.org/resource/Albert_Hößler,http://dbpedia.org/resource/Franz_Hoessler http://dbpedia.org/resource/Franz_Hössler
+0,12,F. O. Rogers,http://dbpedia.org/resource/Samuel_F._Rogers,http://dbpedia.org/resource/Ford_O._Rogers
+0,27,C. H. Simpson,http://dbpedia.org/resource/William_Hood_Simpson,http://dbpedia.org/resource/Colin_Hall_Simpson
+0,32,C. J. Peterson,http://dbpedia.org/resource/J._Hardin_Peterson,http://dbpedia.org/resource/Carl_Jerrold_Peterson
+0,33,C. Hull,http://dbpedia.org/resource/Cordell_Hull,http://dbpedia.org/resource/Ceasar_Hull http://dbpedia.org/resource/Caesar_Barrand_Hull http://dbpedia.org/resource/Caesar_Hull http://dbpedia.org/resource/Cesar_Hull
+0,37,A. MacDonald,http://dbpedia.org/resource/John_A._Macdonald,http://dbpedia.org/resource/Arthur_MacDonald
+0,44,A. Adair,http://dbpedia.org/resource/John_Adair,"http://dbpedia.org/resource/Sir_Allan_Adair,_6th_Baronet http://dbpedia.org/resource/Allan_Henry_Shafto_Adair http://dbpedia.org/resource/Allan_Adair http://dbpedia.org/resource/Allan_Adair_(British_Army_officer)"

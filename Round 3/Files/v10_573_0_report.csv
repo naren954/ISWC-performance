@@ -1,0 +1,6 @@
+"F1: 0.75000","Precision: 0.75000","Recall: 0.75000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","6","Toyota W engine","http://dbpedia.org/resource/Toyota_AZ_engine","http://dbpedia.org/resource/Toyota_W_engine"
+"0","7","Toyota AD engine","http://dbpedia.org/resource/Toyota_AZ_engine","http://dbpedia.org/resource/Toyota_AD_engine"
+"0","10","Mercedes-Benz OM642","http://dbpedia.org/resource/Mercedes-Benz_OM651_engine","http://dbpedia.org/resource/Mercedes-Benz_OM642_engine http://dbpedia.org/resource/Mercedes-Benz_OM642"
+"0","11","Mercedes-Benz OM603","http://dbpedia.org/resource/Mercedes-Benz_OM601_engine","http://dbpedia.org/resource/Mercedes-Benz_0M603_engine http://dbpedia.org/resource/Mercedes-Benz_OM603_engine http://dbpedia.org/resource/Mercedes-Benz_OM603"

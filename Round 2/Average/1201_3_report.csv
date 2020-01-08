@@ -1,0 +1,60 @@
+F1: 0.66279,Precision: 0.66279,Recall: 0.66279,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,6,S. Kumar,http://dbpedia.org/resource/Sandeep_Kumar_(racewalker),http://dbpedia.org/resource/Sushil_kumar_wins_bronze http://dbpedia.org/resource/Sushil_Kumar_(wrestler) http://dbpedia.org/resource/Kumar_Sushil http://dbpedia.org/resource/Sushil_Kumar_(wrestling)
+3,18,S. Kumar,http://dbpedia.org/resource/Sandeep_Kumar_(racewalker),http://dbpedia.org/resource/Sushil_kumar_wins_bronze http://dbpedia.org/resource/Sushil_Kumar_(wrestler) http://dbpedia.org/resource/Kumar_Sushil http://dbpedia.org/resource/Sushil_Kumar_(wrestling)
+3,25,S. Zlateva,http://dbpedia.org/resource/Svetla_Zlateva,http://dbpedia.org/resource/Stanka_Zlateva
+3,27,X. Li,http://dbpedia.org/resource/Michelle_Li_(badminton),http://dbpedia.org/resource/Xu_Li
+3,43,S. Zlateva,http://dbpedia.org/resource/Svetla_Zlateva,http://dbpedia.org/resource/Stanka_Zlateva
+3,45,X. Li,http://dbpedia.org/resource/Michelle_Li_(badminton),http://dbpedia.org/resource/Xu_Li
+3,61,M. A. Ibragimov,"http://dbpedia.org/resource/Magomed_Ibragimov_(wrestler,_born_1985)",http://dbpedia.org/resource/Magomed_Abdulmuminovich_Ibragimov
+3,64,J. Kelly,http://dbpedia.org/resource/Jim_Kelly,http://dbpedia.org/resource/Jamill_Kelly
+3,65,M. Mostafa-Jokar,http://dbpedia.org/resource/Meisam_Mostafa-Jokar,http://dbpedia.org/resource/Masoud_Mostafa_Jokar http://dbpedia.org/resource/Masoud_Jokar http://dbpedia.org/resource/Masoud_Mostafa-Jokar
+3,75,M. A. Ibragimov,"http://dbpedia.org/resource/Magomed_Ibragimov_(wrestler,_born_1985)",http://dbpedia.org/resource/Magomed_Abdulmuminovich_Ibragimov
+3,78,J. Kelly,http://dbpedia.org/resource/Jim_Kelly,http://dbpedia.org/resource/Jamill_Kelly
+3,79,M. Mostafa-Jokar,http://dbpedia.org/resource/Meisam_Mostafa-Jokar,http://dbpedia.org/resource/Masoud_Mostafa_Jokar http://dbpedia.org/resource/Masoud_Jokar http://dbpedia.org/resource/Masoud_Mostafa-Jokar
+3,90,P. Ollivier,http://dbpedia.org/resource/Émile_Ollivier,http://dbpedia.org/resource/Pierre_Ollivier
+3,91,V. Wikström,http://dbpedia.org/resource/Ragnar_Wikström,http://dbpedia.org/resource/Volmar_Wikström
+3,92,R. Svensson,http://dbpedia.org/resource/Ragnar_Svensson_(sailor),http://dbpedia.org/resource/Rudolf_Svensson http://dbpedia.org/resource/Johan_Svensson_(wrestler)
+3,94,C. Newton,http://dbpedia.org/resource/Chris_Newton,http://dbpedia.org/resource/Chester_Newton
+3,95,K. Mäkinen,http://dbpedia.org/resource/Kauko_Mäkinen,http://dbpedia.org/resource/Kaarlo_Mäkinen
+3,96,A. Lindfors,http://dbpedia.org/resource/Viveca_Lindfors_(figure_skater),http://dbpedia.org/resource/Arthur_Lindfors
+3,97,L. Keresztes,http://dbpedia.org/resource/Attila_Keresztes,http://dbpedia.org/resource/Lajos_Keresztes
+3,98,R. Svensson,http://dbpedia.org/resource/Ragnar_Svensson_(sailor),http://dbpedia.org/resource/Rudolf_Svensson http://dbpedia.org/resource/Johan_Svensson_(wrestler)
+3,99,E. Rosenqvist,http://dbpedia.org/resource/Ernst_Rosenqvist,http://dbpedia.org/resource/Edil_Rosenqvist
+3,100,A. Toivola,http://fr.dbpedia.org/resource/Pentti_Toivola,http://dbpedia.org/resource/Aleksander_Toivola http://dbpedia.org/resource/Aleksanteri_Toivola
+3,102,P. Ollivier,http://dbpedia.org/resource/Émile_Ollivier,http://dbpedia.org/resource/Pierre_Ollivier
+3,103,V. Wikström,http://dbpedia.org/resource/Ragnar_Wikström,http://dbpedia.org/resource/Volmar_Wikström http://dbpedia.org/resource/Volmar_Wikstrom http://dbpedia.org/resource/Volmari_W._Wikström
+3,104,R. Svensson,http://dbpedia.org/resource/Ragnar_Svensson_(sailor),http://dbpedia.org/resource/Rudolf_Svensson http://dbpedia.org/resource/Johan_Svensson_(wrestler)
+3,106,C. Newton,http://dbpedia.org/resource/Chris_Newton,http://dbpedia.org/resource/Chester_Newton
+3,107,K. Mäkinen,http://dbpedia.org/resource/Kauko_Mäkinen,http://dbpedia.org/resource/Kaarlo_E._Mäkinen http://dbpedia.org/resource/Kaarlo_Makinen http://dbpedia.org/resource/Kaarlo_Mäkinen
+3,108,A. Lindfors,http://dbpedia.org/resource/Viveca_Lindfors_(figure_skater),http://dbpedia.org/resource/Arthur_Lindfors
+3,109,L. Keresztes,http://dbpedia.org/resource/Attila_Keresztes,http://dbpedia.org/resource/Lajos_Keresztes
+3,110,R. Svensson,http://dbpedia.org/resource/Ragnar_Svensson_(sailor),http://dbpedia.org/resource/Rudolf_Svensson http://dbpedia.org/resource/Johan_Svensson_(wrestler)
+3,111,E. Rosenqvist,http://dbpedia.org/resource/Ernst_Rosenqvist,http://dbpedia.org/resource/Edil_Rosenqvist
+3,112,A. Toivola,http://fr.dbpedia.org/resource/Pentti_Toivola,http://dbpedia.org/resource/Aleksander_Toivola http://dbpedia.org/resource/Aleksanteri_Toivola
+3,114,G. Svensson,http://dbpedia.org/resource/Gustav_Svensson,http://dbpedia.org/resource/Gottfrid_Svensson http://dbpedia.org/resource/Gottfrid_Svenson
+3,115,N. Pendleton,http://dbpedia.org/resource/Rick_Pendleton,http://dbpedia.org/resource/Nat_Pendleton
+3,116,S. Gerson,http://dbpedia.org/resource/Lars_Krogh_Gerson,http://dbpedia.org/resource/Sam_Gerson http://dbpedia.org/resource/Samuel_Norton_Gerson http://dbpedia.org/resource/Samuel_Gerson
+3,117,A. Lindfors,http://dbpedia.org/resource/Viveca_Lindfors_(figure_skater),http://dbpedia.org/resource/Arthur_Lindfors
+3,118,T. Tamminen,http://dbpedia.org/resource/Juhani_Tamminen,http://dbpedia.org/resource/Taavi_Tamminen
+3,119,E. Rosenqvist,http://dbpedia.org/resource/Ernst_Rosenqvist,http://dbpedia.org/resource/Edil_Rosenqvist
+3,121,H. Kähkönen,http://dbpedia.org/resource/Aulis_Kähkönen,http://dbpedia.org/resource/Heikki_Kähkönen http://dbpedia.org/resource/Heikki_Kahkonen
+3,123,G. Svensson,http://dbpedia.org/resource/Gustav_Svensson,http://dbpedia.org/resource/Gottfrid_Svensson http://dbpedia.org/resource/Gottfrid_Svenson
+3,124,N. Pendleton,http://dbpedia.org/resource/Rick_Pendleton,http://dbpedia.org/resource/Nat_Pendleton
+3,125,S. Gerson,http://dbpedia.org/resource/Lars_Krogh_Gerson,http://dbpedia.org/resource/Sam_Gerson http://dbpedia.org/resource/Samuel_Norton_Gerson http://dbpedia.org/resource/Samuel_Gerson
+3,126,A. Lindfors,http://dbpedia.org/resource/Viveca_Lindfors_(figure_skater),http://dbpedia.org/resource/Arthur_Lindfors
+3,127,T. Tamminen,http://dbpedia.org/resource/Juhani_Tamminen,http://dbpedia.org/resource/Taavi_Tamminen
+3,128,E. Rosenqvist,http://dbpedia.org/resource/Ernst_Rosenqvist,http://dbpedia.org/resource/Edil_Rosenqvist
+3,130,H. Kähkönen,http://dbpedia.org/resource/Aulis_Kähkönen,http://dbpedia.org/resource/Heikki_Kähkönen http://dbpedia.org/resource/Heikki_Kahkonen
+3,131,M. Klein,http://dbpedia.org/resource/Manfred_Klein,http://dbpedia.org/resource/Martin_Klein_(wrestler)
+3,133,A. Ahlgren,http://dbpedia.org/resource/George_Ahlgren,http://dbpedia.org/resource/Anders_Ahlgren
+3,134,M. Klein,http://dbpedia.org/resource/Manfred_Klein,http://dbpedia.org/resource/Martin_Klein_(wrestler)
+3,136,A. Ahlgren,http://dbpedia.org/resource/George_Ahlgren,http://dbpedia.org/resource/Anders_Ahlgren
+3,137,W. Wood,http://dbpedia.org/resource/Willie_Wood_(American_football),http://dbpedia.org/resource/William_Wood_(wrestler)
+3,140,W. Press,http://dbpedia.org/resource/William_J._Press,http://dbpedia.org/resource/William_H._Press http://dbpedia.org/resource/William_Press
+3,141,W. Wood,http://dbpedia.org/resource/Willie_Wood_(American_football),http://dbpedia.org/resource/William_Wood_(wrestler)
+3,144,W. Press,http://dbpedia.org/resource/William_J._Press,http://dbpedia.org/resource/William_H._Press http://dbpedia.org/resource/William_Press
+3,152,K. Min-jae,http://dbpedia.org/resource/Kim_Min-jae_(baseball),http://dbpedia.org/resource/Kim_Min-jae_(weightlifter) http://dbpedia.org/resource/Kim_Min-Jae_(weightlifter)
+3,156,Ó. Figueroa,http://dbpedia.org/resource/Carlos_Figueroa_(equestrian),http://dbpedia.org/resource/Óscar_Figueroa_(athlete) http://dbpedia.org/resource/Oscar_Figueroa_(weightlifter) http://dbpedia.org/resource/Oscar_Albeiro_Figueroa http://dbpedia.org/resource/Óscar_Figueroa_(weightlifter)
+3,167,K. Min-jae,http://dbpedia.org/resource/Kim_Min-jae_(baseball),http://dbpedia.org/resource/Kim_Min-jae_(weightlifter) http://dbpedia.org/resource/Kim_Min-Jae_(weightlifter)
+3,171,Ó. Figueroa,http://dbpedia.org/resource/Carlos_Figueroa_(equestrian),http://dbpedia.org/resource/Óscar_Figueroa_(athlete) http://dbpedia.org/resource/Oscar_Figueroa_(weightlifter) http://dbpedia.org/resource/Oscar_Albeiro_Figueroa http://dbpedia.org/resource/Óscar_Figueroa_(weightlifter)

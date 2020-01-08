@@ -1,0 +1,44 @@
+F1: 0.78462,Precision: 0.78462,Recall: 0.78462,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,Touch Me,http://dbpedia.org/resource/Touch_Me_(Gary_Glitter_album),http://dbpedia.org/resource/Touch_Me_(Willie_Nelson_song)
+0,11,Too Young,http://dbpedia.org/resource/Too_Young_(album),http://dbpedia.org/resource/Too_Young_(1951_song) http://dbpedia.org/resource/Too_Young_(Donny_Osmond_Song) http://dbpedia.org/resource/Too_Young_(Sidney_Lippman_and_Sylvia_Dee_song) http://dbpedia.org/resource/Too_Young_(popular_song)
+0,14,Too Much,http://dbpedia.org/resource/Too_Much_Monkey_Business,http://dbpedia.org/resource/Playing_for_Keeps_(song) http://dbpedia.org/resource/Too_Much_(Elvis_Presley_song)
+0,15,Too Many People,http://dbpedia.org/resource/Flowers_in_the_Dirt,http://dbpedia.org/resource/Too_Many_People
+0,20,Tony Bennett's Something,"http://dbpedia.org/resource/Tony_Bennett's_""Something""",http://dbpedia.org/resource/Tony_Bennett's_Something
+0,24,Tonight,http://dbpedia.org/resource/Tonight_(David_Bowie_album),http://dbpedia.org/resource/Tonight_(David_Bowie_song) http://dbpedia.org/resource/Tonight_(Iggy_Pop_song)
+0,25,Tonight,http://dbpedia.org/resource/Tonight_(David_Bowie_album),http://dbpedia.org/resource/Tonight_(Def_Leppard_song)
+0,27,Tongues,http://dbpedia.org/resource/Tongues_(Esham_album),http://dbpedia.org/resource/Tongues_(Kieran_Hebden_and_Steve_Reid_album)
+0,29,Tomorrow Tomorrow,http://dbpedia.org/resource/Troops_of_Tomorrow,http://dbpedia.org/resource/Tomorrow_Tomorrow_(The_Bee_Gees_song) http://dbpedia.org/resource/Tomorrow_Tomorrow_(Bee_Gees) http://dbpedia.org/resource/Tomorrow_Tomorrow_(Bee_Gees_song)
+0,35,Tokyo Live,http://dbpedia.org/resource/Last_Night_on_Earth:_Live_in_Tokyo,http://dbpedia.org/resource/Tokyo_Live_(Al_Green_album)
+0,36,Tokyo Encore,http://dbpedia.org/resource/Sun_Bear_Concerts,http://dbpedia.org/resource/Tokyo_Encore
+0,40,Together Alone,http://dbpedia.org/resource/Together_Alone,http://dbpedia.org/resource/Together_Alone_(Anthony_Braxton_and_Joseph_Jarman_album)
+0,43,Together,http://dbpedia.org/resource/Together_(Marvin_Gaye_and_Mary_Wells_album),http://dbpedia.org/resource/Together_(McCoy_Tyner_album)
+0,44,Together,http://dbpedia.org/resource/Together_(Marvin_Gaye_and_Mary_Wells_album),http://dbpedia.org/resource/Together_(1928_song)
+0,53,To Whom It May Concern,http://dbpedia.org/resource/To_Whom_It_May_Concern_(Bee_Gees_album),http://dbpedia.org/resource/To_Whom_It_May_Concern_(Nat_King_Cole_album)
+0,59,To Mega Therion,http://dbpedia.org/resource/Theli_(album),http://dbpedia.org/resource/To_Mega_Therion_(music) http://dbpedia.org/resource/To_Mega_Therion_(album)
+0,77,Times Like These,http://dbpedia.org/resource/Times_Like_These_(Friday_Hill_album),http://dbpedia.org/resource/Times_like_These_(song) http://dbpedia.org/resource/Times_Like_These_(song)
+0,79,Time to Think,http://dbpedia.org/resource/Time_to_Think_(The_Kingston_Trio_album),http://dbpedia.org/resource/Time_to_Think_(Mo_Foster_album)
+0,84,Time Traveller,http://dbpedia.org/resource/Time_Traveller_(Keith_LeBlanc_album),http://dbpedia.org/resource/Time_Traveller_(album) http://dbpedia.org/resource/Time_Traveler_(album)
+0,91,Time After Time,http://dbpedia.org/resource/Time_After_Time_(Cyndi_Lauper_song),http://dbpedia.org/resource/Time_After_Time_(Oscar_Peterson_album)
+0,92,Time After Time,http://dbpedia.org/resource/Time_After_Time_(Cyndi_Lauper_song),http://dbpedia.org/resource/Time_After_Time_(Eva_Cassidy_album) http://dbpedia.org/resource/Time_after_Time_(Eva_Cassidy_album)
+0,95,Tiger,http://dbpedia.org/resource/Seven_and_the_Ragged_Tiger,http://dbpedia.org/resource/Tiger_(Fabian_song)
+0,98,Ticket to Ride,http://dbpedia.org/resource/Ticket_to_Ride_(album),http://dbpedia.org/resource/Ticket_to_Ride_(song) http://dbpedia.org/resource/Ticket_to_Ride http://dbpedia.org/resource/Ticket_To_Ride http://dbpedia.org/resource/Ticket_to_Ride_(The_Beatles_song) http://dbpedia.org/resource/Ticket_to_Ryde http://dbpedia.org/resource/Ticket_to_Rye http://dbpedia.org/resource/Ticket_to_ride
+0,102,Thriller,http://dbpedia.org/resource/Thriller_25,http://dbpedia.org/resource/The_Lady_In_My_Life http://dbpedia.org/resource/Carousel_(Michael_Jackson_song) http://dbpedia.org/resource/The_Lady_in_My_Life http://dbpedia.org/resource/Thriller_(Michael_Jackson_album http://dbpedia.org/resource/Michael_Jackson's_Thriller_album http://dbpedia.org/resource/Thriller_album http://dbpedia.org/resource/Thriller_(Michael_Jackson_album) http://dbpedia.org/resource/Carousel_(Michael_Jackson_unrealesed_song) http://dbpedia.org/resource/Legacy_of_Thriller http://dbpedia.org/resource/Thriller_(album)
+0,110,Threads,"http://dbpedia.org/resource/Threads_(Now,_Now_album)",http://dbpedia.org/resource/Threads_(David_S._Ware_album)
+0,115,Those Sessions,http://dbpedia.org/resource/The_Sun_Sessions,http://dbpedia.org/resource/Those_Sessions_EP http://dbpedia.org/resource/Those_Sessions
+0,125,This Is What You Get,http://dbpedia.org/resource/That's_What_You_Get,http://dbpedia.org/resource/This_Is_What_You_Get_(The_Arrogant_Sons_of_Bitches_album)
+0,134,This Is New,http://dbpedia.org/resource/This_Is_New_(Kenny_Drew_album),http://dbpedia.org/resource/This_Is_New_(Dee_Dee_Bridgewater_album)
+0,136,This Is Love,http://dbpedia.org/resource/This_Is_Love_(Utada_Hikaru_song),http://dbpedia.org/resource/This_Is_Love_(Johnny_Mathis_album)
+0,141,This Girl's in Love with You,http://dbpedia.org/resource/This_Girl's_in_Love_with_You_(album),http://dbpedia.org/resource/This_Girl's_in_Love_with_You http://dbpedia.org/resource/This_Girl's_In_Love_With_You
+0,143,This Boy,http://dbpedia.org/resource/This_Ole_Boy,http://dbpedia.org/resource/This_Boy_(The_Beatles_song) http://dbpedia.org/resource/This_Boy
+0,149,Think Tank,http://dbpedia.org/resource/Think_Tank_(Blur_album),http://dbpedia.org/resource/Think_Tank_(Rollins) http://dbpedia.org/resource/Think_Tank_(Henry_Rollins_album)
+0,150,Think,"http://dbpedia.org/resource/Sometimes_I_Sit_and_Think,_and_Sometimes_I_Just_Sit","http://dbpedia.org/resource/Think_(The_5_Royales_song) http://dbpedia.org/resource/Think_(James_Brown_song) http://dbpedia.org/resource/Think_(The_""5""_Royales) http://dbpedia.org/resource/Think_(""5""_Royales_song) http://dbpedia.org/resource/Think_(5_Royales) http://dbpedia.org/resource/Think_(James_Brown) http://dbpedia.org/resource/Think_(The_""5""_Royales_song) http://dbpedia.org/resource/Think_(5_Royales_song) http://dbpedia.org/resource/Think_(""5""_Royales)"
+0,155,Thief,http://dbpedia.org/resource/Thief_(soundtrack),http://dbpedia.org/resource/Thief_(Destroyer_album)
+0,160,They're Red Hot,http://dbpedia.org/resource/The_Uplift_Mofo_Party_Plan,http://dbpedia.org/resource/They're_Red_Hot http://dbpedia.org/resource/Theyre_red_hot
+0,162,Thesis,http://dbpedia.org/resource/Thesis_(Jimmy_Guiffre_3_album),http://dbpedia.org/resource/Thesis_(Matthew_Shipp_album)
+0,170,There It Is,http://dbpedia.org/resource/There_It_Is_(911_album),http://dbpedia.org/resource/There_It_Is_(James_Brown_song)
+0,172,There Goes My Baby,http://dbpedia.org/resource/There_Goes_My_Baby_(Trisha_Yearwood_song),http://dbpedia.org/resource/There_Goes_My_Baby_(The_Drifters_song) http://dbpedia.org/resource/There_Goes_My_Baby_(Drifters_song)
+0,176,There's a Fire,http://dbpedia.org/resource/There's_a_Fire,http://dbpedia.org/resource/There's_a_Fire_(EP)
+0,180,Then and Now,http://dbpedia.org/resource/Then_and_Now_(The_Who_album),http://dbpedia.org/resource/Then_and_Now_Warrant http://dbpedia.org/resource/Then_and_Now_(Warrant_album)
+0,181,Then and Now,http://dbpedia.org/resource/Then_and_Now_(The_Who_album),"http://dbpedia.org/resource/Then_and_Now_(Emerson,_Lake_&_Palmer_album) http://dbpedia.org/resource/Then_and_Now_(ELP)"
+0,183,Then!,http://dbpedia.org/resource/Then_Play_On,http://dbpedia.org/resource/Then!

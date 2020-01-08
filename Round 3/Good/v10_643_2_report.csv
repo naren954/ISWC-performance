@@ -1,0 +1,21 @@
+F1: 0.83333,Precision: 0.83333,Recall: 0.83333,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,7,American River,http://dbpedia.org/resource/Saint_Lawrence_River,"http://dbpedia.org/resource/South_Fork_of_the_American_River http://dbpedia.org/resource/Río_de_los_Americanos http://dbpedia.org/resource/North_Fork,_American_River http://dbpedia.org/resource/American_River http://dbpedia.org/resource/American_(river) http://dbpedia.org/resource/American_river"
+2,19,Trinity River,http://dbpedia.org/resource/Trinity_River_(California),"http://dbpedia.org/resource/Trinity_River_Vision http://dbpedia.org/resource/Elm_Fork_Trinity_River http://dbpedia.org/resource/Trinity_(river,_Texas) http://dbpedia.org/resource/Trinity_River_(Texas)"
+2,37,South Saskatchewan River,http://dbpedia.org/resource/Saskatchewan_River,http://dbpedia.org/resource/South_Saskatchewan http://dbpedia.org/resource/South_Saskatchewan_River
+2,43,Clam River,http://dbpedia.org/resource/Clam_River_(Wisconsin),http://dbpedia.org/resource/Clam_River_(Michigan)
+2,49,Goose River,http://dbpedia.org/resource/Goose_River_(Rockport_Harbor),http://dbpedia.org/resource/Goose_River_(Manitoba)
+2,50,Rivière des Rochers,http://dbpedia.org/resource/Aux_Rochers_River,http://dbpedia.org/resource/Rivière_des_Rochers http://dbpedia.org/resource/Riviere_des_Rochers http://dbpedia.org/resource/Rivière_Des_Rochers
+2,57,Mera River,http://dbpedia.org/resource/Mera_River_(Someș),"http://dbpedia.org/resource/Mera_(river,_Switzerland) http://dbpedia.org/resource/Mera_River_(Switzerland) http://dbpedia.org/resource/Mera_(Switzerland)"
+2,59,Rapid River,http://de.dbpedia.org/resource/Rapid_River_(Arthur_River),http://dbpedia.org/resource/Rapid_River_(Churchill_River)
+2,62,Rautavesi,http://dbpedia.org/resource/Rautavesi_(Hartola),http://dbpedia.org/resource/Rautavesi_(Sastamala) http://dbpedia.org/resource/Rautavesi_(Vammala)
+2,68,Smoky Hill River,http://dbpedia.org/resource/Kansas_River,http://dbpedia.org/resource/Smoky_Hill_River
+2,85,Union River,http://dbpedia.org/resource/Union_River_(Washington),http://dbpedia.org/resource/Mount_Desert_River http://dbpedia.org/resource/Donaquec_River http://dbpedia.org/resource/Union_River_(Maine)
+2,92,New River,http://dbpedia.org/resource/Mississippi_River,http://dbpedia.org/resource/New_River_(Oregon)
+2,96,Strėva River,http://dbpedia.org/resource/Strėva,http://dbpedia.org/resource/Strėva_River
+2,99,River Eira,http://dbpedia.org/resource/Eira_(river),http://dbpedia.org/resource/River_Eira http://dbpedia.org/resource/Eira_River
+2,100,Egå,http://dbpedia.org/resource/Ega_(river),"http://dbpedia.org/resource/Egå http://dbpedia.org/resource/UN/LOCODE:DKEGA http://dbpedia.org/resource/Ega,_Denmark"
+2,107,South Fork McKenzie River,http://dbpedia.org/resource/McKenzie_River_(Oregon),http://dbpedia.org/resource/South_Fork_McKenzie_River
+2,109,Salt Creek,http://dbpedia.org/resource/Salt_Creek_(Des_Plaines_River_tributary),http://dbpedia.org/resource/Salt_Creek_(Sangamon_River) http://dbpedia.org/resource/Salt_Creek_(Sangamon_River_Tributary) http://dbpedia.org/resource/Salt_Creek_(Sangamon_River_tributary)
+2,110,Cache Creek,http://dbpedia.org/resource/Cache_Creek_(Sacramento_River_tributary),"http://dbpedia.org/resource/Cache_Creek_(Yolo_County,_CA) http://dbpedia.org/resource/Cache_Creek_Canyon http://dbpedia.org/resource/Cache_Creek_(Sacramento_River) http://dbpedia.org/resource/Cache_Creek_(Yolo_County,_California) http://dbpedia.org/resource/North_Fork_Cache_Creek"
+2,113,Smoky Hill River,http://dbpedia.org/resource/Kansas_River,http://dbpedia.org/resource/Smoky_Hill_River

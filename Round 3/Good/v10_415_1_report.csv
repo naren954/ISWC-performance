@@ -1,0 +1,39 @@
+F1: 0.77160,Precision: 0.77160,Recall: 0.77160,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,Giovanni Di Clemente,http://dbpedia.org/resource/Roberto_Clemente,http://dbpedia.org/resource/Giovanni_Di_Clemente
+1,2,Jadran Film,http://de.dbpedia.org/resource/Jadran_Ferluga,http://dbpedia.org/resource/Jadran_Film
+1,3,Jakov Sedlar,http://dbpedia.org/resource/Jakov_Nenadović,http://dbpedia.org/resource/Jakov_Sedlar
+1,18,John Penney,"http://dbpedia.org/resource/William_Penney,_Baron_Penney",http://dbpedia.org/resource/John_Penney
+1,34,Milan Todorović,http://dbpedia.org/resource/Bora_Todorović,http://dbpedia.org/resource/Milan_Todorovic http://dbpedia.org/resource/Milan_Todorović
+1,38,Sam Katzman,http://dbpedia.org/resource/Leonard_Katzman,http://dbpedia.org/resource/Kay_Pictures http://dbpedia.org/resource/Banner_Pictures_Corporation http://dbpedia.org/resource/Victory_Pictures http://dbpedia.org/resource/Sam_Katzman http://dbpedia.org/resource/Puritan_Pictures http://dbpedia.org/resource/Clover_Productions http://dbpedia.org/resource/Four_Leaf_Productions
+1,39,Andrew J. Rausch,http://dbpedia.org/resource/Andrew_Weaver,http://dbpedia.org/resource/Andrew_J._Rausch
+1,41,David Michael Latt,http://de.dbpedia.org/resource/David_Michael_Latt,http://dbpedia.org/resource/Asylum_home_entertainment http://dbpedia.org/resource/Asylum_studios http://dbpedia.org/resource/David_Rimawi http://dbpedia.org/resource/The_Asylum http://dbpedia.org/resource/David_Michael_Latt
+1,43,David Michael Latt,http://de.dbpedia.org/resource/David_Michael_Latt,http://dbpedia.org/resource/Asylum_home_entertainment http://dbpedia.org/resource/Asylum_studios http://dbpedia.org/resource/David_Rimawi http://dbpedia.org/resource/The_Asylum http://dbpedia.org/resource/David_Michael_Latt
+1,49,Sam Katzman,http://dbpedia.org/resource/Leonard_Katzman,http://dbpedia.org/resource/Kay_Pictures http://dbpedia.org/resource/Banner_Pictures_Corporation http://dbpedia.org/resource/Victory_Pictures http://dbpedia.org/resource/Sam_Katzman http://dbpedia.org/resource/Puritan_Pictures http://dbpedia.org/resource/Clover_Productions http://dbpedia.org/resource/Four_Leaf_Productions
+1,55,Rajiv S Ruia,http://dbpedia.org/resource/Rajiv_Gandhi,http://dbpedia.org/resource/Rajiv_S_Ruia http://dbpedia.org/resource/Rajiv_Ruia http://dbpedia.org/resource/Rajiv_S._Ruia
+1,58,Sanjay Gupta,http://dbpedia.org/resource/Sanjay_Gupta,http://dbpedia.org/resource/Director_Sanjay_Gupta http://dbpedia.org/resource/Sanjay_Gupta_(Director) http://dbpedia.org/resource/Sanjay_Gupta_(director) http://dbpedia.org/resource/Jazba http://dbpedia.org/resource/Ek_tha_Gangster http://dbpedia.org/resource/Director_Sanjay_gupta
+1,59,Ken McMullen,http://dbpedia.org/resource/Ken_McMullen_(baseball),"http://dbpedia.org/resource/Ken_McMullen_film_maker http://dbpedia.org/resource/Ken_McMullen_(film_director) http://dbpedia.org/resource/Ken_McMullen,_film_director"
+1,72,Louise Garfield,http://dbpedia.org/resource/Andrew_Garfield,http://dbpedia.org/resource/Louise_Garfield
+1,74,Lisa Henson,http://dbpedia.org/resource/Jim_Henson,http://dbpedia.org/resource/Lisa_Henson
+1,80,Vladan Nikolic,http://dbpedia.org/resource/Vladan_Batić,http://dbpedia.org/resource/Vladan_Nikolic
+1,81,Tina Rathborne,http://dbpedia.org/resource/Tina_Aumont,http://dbpedia.org/resource/Tina_Rathborne
+1,84,DEFA,http://dbpedia.org/resource/DEFA_(film_studio),http://dbpedia.org/resource/DEFA_Studios http://dbpedia.org/resource/DEFA-Studio_fur_Spielfilme http://dbpedia.org/resource/DEFA-Studio_fuer_Spielfilme http://dbpedia.org/resource/Progress_Film-Vertrieb http://dbpedia.org/resource/DEFA http://dbpedia.org/resource/Deutsche_Film_Aktien_Gesellschaft http://dbpedia.org/resource/Deutsche-Film_Aktiengesellschaft http://dbpedia.org/resource/DEFA-Studio_für_Spielfilme http://dbpedia.org/resource/Deutsche_Film-Aktiengesellschaft http://dbpedia.org/resource/Defa
+1,86,Jay Kanter,http://dbpedia.org/resource/Arnold_Kanter,http://dbpedia.org/resource/Jay_Kanter
+1,87,Gianni Minervini,http://dbpedia.org/resource/Gianni_Minervini_(swimmer),http://dbpedia.org/resource/Gianni_Minervini_(producer) http://dbpedia.org/resource/Gianni_Minervini_(film_producer)
+1,95,Masayuki Mori,http://dbpedia.org/resource/Masayuki_Mori_(actor),http://dbpedia.org/resource/Masayuki_Mori_(film_producer)
+1,102,Masayuki Mori,http://dbpedia.org/resource/Masayuki_Mori_(actor),http://dbpedia.org/resource/Masayuki_Mori_(film_producer)
+1,106,Mahesh Kothare,http://dbpedia.org/resource/Mahesh_Bhatt,http://dbpedia.org/resource/Mahesh_Kothare http://dbpedia.org/resource/Master_Mahesh
+1,111,S. Ramanathan,http://dbpedia.org/resource/G._Ramanathan,http://dbpedia.org/resource/S._Ramanathan_(film_director)
+1,122,Max Simon Ehrlich,http://dbpedia.org/resource/Max_Ehrlich_(writer),http://dbpedia.org/resource/Max_Simon_Ehrlich
+1,127,Graham Massey,http://dbpedia.org/resource/Anna_Massey,http://dbpedia.org/resource/Graham_Massey
+1,129,Amy Wong,http://dbpedia.org/resource/Derek_Wong,http://dbpedia.org/resource/Amy_Wong_(producer)
+1,132,William F. Broidy,http://dbpedia.org/resource/William_F._Buckley_Jr.,http://dbpedia.org/resource/William_F._Broidy
+1,133,William F. Broidy,http://dbpedia.org/resource/William_F._Buckley_Jr.,http://dbpedia.org/resource/William_F._Broidy
+1,134,William F. Broidy,http://dbpedia.org/resource/William_F._Buckley_Jr.,http://dbpedia.org/resource/William_F._Broidy
+1,136,Shree Venkatesh Films,http://dbpedia.org/resource/Vidhya_Venkatesh,http://dbpedia.org/resource/Shree_Venkatesh_Films http://dbpedia.org/resource/Shree_Venkatesh_Studios http://dbpedia.org/resource/Shrikant_Mohta http://dbpedia.org/resource/Mahendra_Soni
+1,139,Norman Loudon,http://dbpedia.org/resource/John_Claudius_Loudon,http://dbpedia.org/resource/Norman_Loudon
+1,144,Ignace Morgenstern,http://dbpedia.org/resource/Sonja_Morgenstern,http://dbpedia.org/resource/Ignace_Morgenstern
+1,150,Max Liebman,http://dbpedia.org/resource/Dave_Liebman,http://dbpedia.org/resource/Max_Liebman
+1,154,Sam Katzman,http://dbpedia.org/resource/Leonard_Katzman,http://dbpedia.org/resource/Kay_Pictures http://dbpedia.org/resource/Banner_Pictures_Corporation http://dbpedia.org/resource/Victory_Pictures http://dbpedia.org/resource/Sam_Katzman http://dbpedia.org/resource/Puritan_Pictures http://dbpedia.org/resource/Clover_Productions http://dbpedia.org/resource/Four_Leaf_Productions
+1,157,Peter Bart,http://dbpedia.org/resource/Lionel_Bart,http://dbpedia.org/resource/Peter_Bart
+1,161,Edward Black,http://dbpedia.org/resource/Blackbeard,http://dbpedia.org/resource/Edward_Black_(producer) http://dbpedia.org/resource/Ted_Black

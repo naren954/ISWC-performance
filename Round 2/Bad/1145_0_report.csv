@@ -1,0 +1,7 @@
+F1: 0.37500,Precision: 0.37500,Recall: 0.37500,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,"Buffalo, New York","http://dbpedia.org/resource/Buffalo,_New_York",http://sws.geonames.org/5110629/
+0,2,"Fort Worth, Texas","http://dbpedia.org/resource/Fort_Worth,_Texas",http://sws.geonames.org/4691930/
+0,3,Vienna,http://dbpedia.org/resource/Vienna,http://sws.geonames.org/2761369/
+0,4,Vienna,http://dbpedia.org/resource/Vienna,http://sws.geonames.org/2761367/
+0,5,Vienna,http://dbpedia.org/resource/Vienna,http://sws.geonames.org/2761333/

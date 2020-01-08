@@ -1,0 +1,6 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,2,VMI*,http://dbpedia.org/resource/Virginia_Military_Institute,http://dbpedia.org/resource/2008_VMI_Keydets_football_team
+2,3,Norfolk State*,"http://dbpedia.org/resource/Norfolk,_Virginia",http://dbpedia.org/resource/2008_Norfolk_State_Spartans_football_team
+2,7,Rhode Island,http://dbpedia.org/resource/Rhode_Island,http://dbpedia.org/resource/Rhode_Island_Rams_football
+2,9,Northeastern,http://dbpedia.org/resource/Queensland,http://dbpedia.org/resource/Northeastern_Huskies_football

@@ -1,0 +1,4 @@
+F1: 0.98438,Precision: 0.98438,Recall: 0.98438,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,11,Whitespotted smooth-hound,http://dbpedia.org/resource/Slender_smooth-hound,http://dbpedia.org/resource/Mustelus_palumbes http://dbpedia.org/resource/Whitespotted_smooth-hound
+0,24,Whitehead,http://dbpedia.org/resource/Robert_Whitehead,http://dbpedia.org/resource/Whitehead_(bird) http://dbpedia.org/resource/Mohoua_albicilla

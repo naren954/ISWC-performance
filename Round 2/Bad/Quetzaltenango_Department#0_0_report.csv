@@ -1,0 +1,5 @@
+F1: 0.50000,Precision: 0.50000,Recall: 0.50000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,Chicabal[26],http://dbpedia.org/resource/Chicabal,http://dbpedia.org/resource/Chicabal_lake http://dbpedia.org/resource/Laguna_chicabal http://dbpedia.org/resource/Laguna_Chicabal http://dbpedia.org/resource/Chicabal_Lake http://dbpedia.org/resource/Lake_Chicabal http://dbpedia.org/resource/Lake_of_Chicabal http://dbpedia.org/resource/Laguna_Chikabal http://dbpedia.org/resource/Laguna_de_Chicabal
+0,4,Santa MarÃ­a,"http://dbpedia.org/resource/Santa_Maria,_Rio_Grande_do_Sul",http://dbpedia.org/resource/Santa_María_(volcano)
+0,6,Santo TomÃ¡s (Picul),"http://dbpedia.org/resource/Santo_Tomás,_Atlántico",http://dbpedia.org/resource/Volcán_Santo_Tomás

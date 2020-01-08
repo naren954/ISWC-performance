@@ -1,0 +1,4 @@
+"F1: 0.75000","Precision: 0.75000","Recall: 0.75000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"2","1","General Union of Workers","http://dbpedia.org/resource/Spanish_Socialist_Workers'_Party","http://dbpedia.org/resource/União_Geral_de_Trabalhadores http://dbpedia.org/resource/General_Union_of_Workers_(Portugal) http://dbpedia.org/resource/Uniao_Geral_de_Trabalhadores"
+"2","6","Pro-Beijing camp","http://dbpedia.org/resource/Pro-Beijing_camp_(Hong_Kong)","http://dbpedia.org/resource/Conservative_bloc_(Hong_Kong) http://dbpedia.org/resource/Pro_Beijing_camp http://dbpedia.org/resource/Pro-Beijing_Camp http://dbpedia.org/resource/Beijing-loyalist http://dbpedia.org/resource/Pro-Peking_camp http://dbpedia.org/resource/Pro-Beijing_camp http://dbpedia.org/resource/Pro-Beijing"

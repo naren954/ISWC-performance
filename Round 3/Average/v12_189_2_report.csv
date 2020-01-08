@@ -1,0 +1,39 @@
+F1: 0.51316,Precision: 0.51316,Recall: 0.51316,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,1,G. Dennis,http://dbpedia.org/resource/Garth_Dennis,http://dbpedia.org/resource/Gill_Dennis
+2,2,A. Ostrovsky,http://dbpedia.org/resource/Nikolai_Ostrovsky,http://dbpedia.org/resource/Aleksandr_Nikolaevich_Ostrovski http://dbpedia.org/resource/Alexander_Ostrovskij http://dbpedia.org/resource/Ostrovskij http://dbpedia.org/resource/Alexander_Nikolayevich_Ostrovsky http://dbpedia.org/resource/Aleksandr_Nikolayevich_Ostrovsky http://dbpedia.org/resource/Aleksandr_Ostrovsky http://dbpedia.org/resource/Aleksandr_Nikolaievich_Ostrovsky http://dbpedia.org/resource/Alexander_Ostrovski http://dbpedia.org/resource/Alexandr_Ostrovskij http://dbpedia.org/resource/Aleksandr_Nicolaevich_Ostrovsky http://dbpedia.org/resource/Alexander_Nikolaivich_Ostrovskiy http://dbpedia.org/resource/Alexander_Ostrovsky http://dbpedia.org/resource/Aleksandr_Ostrovskiy http://dbpedia.org/resource/Aleksander_Ostrovsky http://dbpedia.org/resource/Alekandr_Ostrovsky http://dbpedia.org/resource/Alexandr_Ostrovsky
+2,6,B. Robinson,http://dbpedia.org/resource/Bill_Robinson,http://dbpedia.org/resource/Bruce_Robinson_(writer) http://dbpedia.org/resource/Bruce_Robinson
+2,8,C. Lederer,http://dbpedia.org/resource/Francis_Lederer,http://dbpedia.org/resource/Charles_Lederer
+2,9,W. J. Lincoln,http://dbpedia.org/resource/Fred_J._Lincoln,http://dbpedia.org/resource/W.J._Lincoln http://dbpedia.org/resource/W._J._Lincoln http://dbpedia.org/resource/W_J_Lincoln http://dbpedia.org/resource/WJ_Lincoln
+2,12,M. Camus,http://dbpedia.org/resource/Marcel_Camus,http://dbpedia.org/resource/Mario_Camús http://dbpedia.org/resource/Mario_Camus
+2,15,R. Allen,http://dbpedia.org/resource/Richard_Allen_(bishop),http://dbpedia.org/resource/R._S._Allen http://dbpedia.org/resource/R.S._Allen http://dbpedia.org/resource/Ray_Saffian_Allen http://dbpedia.org/resource/Ray_Allen_Saffian http://dbpedia.org/resource/Morris_Saffian
+2,19,J. Hoffman,http://de.dbpedia.org/resource/Josef_Hoffmann_(Maler),http://dbpedia.org/resource/Jerzy_Hoffman
+2,20,M. Brothers,http://dbpedia.org/resource/Michael_Haydn,http://dbpedia.org/resource/Bratya_Mormarevi http://dbpedia.org/resource/Mormarevi_Brothers
+2,21,J. Johnson,http://dbpedia.org/resource/Lyndon_B._Johnson,http://dbpedia.org/resource/Julian_Johnson
+2,24,M. Reeves,http://dbpedia.org/resource/Marjorie_Reeves,http://dbpedia.org/resource/Michael_Reeves
+2,25,J. K. Arnold,http://dbpedia.org/resource/Abraham_Arnold,http://dbpedia.org/resource/Jana_K._Arnold
+2,26,M. Turnbull,http://dbpedia.org/resource/Malcolm_Turnbull,http://dbpedia.org/resource/Margaret_Turnbull_(screenwriter)
+2,28,K. Tenney,http://dbpedia.org/resource/Samuel_Tenney,http://dbpedia.org/resource/Kevin_S._Tenney http://dbpedia.org/resource/Kevin_Tenney
+2,29,K. Tenney,http://dbpedia.org/resource/Samuel_Tenney,http://dbpedia.org/resource/Kevin_S._Tenney http://dbpedia.org/resource/Kevin_Tenney
+2,36,E. Nugent,"http://dbpedia.org/resource/Richard_Temple-Nugent-Brydges-Chandos-Grenville,_2nd_Duke_of_Buckingham_and_Chandos",http://dbpedia.org/resource/Elliot_Nugent http://dbpedia.org/resource/Elliott_Nugent
+2,37,A. Scott,http://dbpedia.org/resource/F._Scott_Fitzgerald,http://dbpedia.org/resource/Allan_Scott_(American_screenwriter)
+2,40,J. O'Dea,http://dbpedia.org/resource/Judith_O'Dea,http://dbpedia.org/resource/John_O'Dea
+2,41,B. Woodward,http://dbpedia.org/resource/Henry_Woodward_(geologist),"http://dbpedia.org/resource/Bob_Woodward http://dbpedia.org/resource/Robert_""Bob""_Upshur_Woodward http://dbpedia.org/resource/Robert_U._Woodward http://dbpedia.org/resource/Robert_Upshur_Woodward"
+2,42,G. Neumann,http://dbpedia.org/resource/Carl_Neumann,"http://dbpedia.org/resource/Günter_Neumann_(singer) http://dbpedia.org/resource/Gunter_Neumann http://dbpedia.org/resource/Klaus-Günter_Neumann http://dbpedia.org/resource/Günter_Neumann_(artist) http://dbpedia.org/resource/Günter_Neumann_(cabaret,_artist)"
+2,43,A. Kober,http://dbpedia.org/resource/Alice_Kober,http://dbpedia.org/resource/Arthur_Kober
+2,45,M. Anderson,http://dbpedia.org/resource/Marian_Anderson,http://dbpedia.org/resource/Maxwell_Anderson http://dbpedia.org/resource/James_Maxwell_Anderson http://dbpedia.org/resource/John_Nairne_Michealson http://dbpedia.org/resource/John_Nairne_Michaelson http://dbpedia.org/resource/John_Naime_Michaelson http://dbpedia.org/resource/John_Naime_Michealson
+2,46,C. B. Pierce,http://dbpedia.org/resource/Henry_B._Pierce,http://dbpedia.org/resource/Charles_B._Pierce
+2,47,J. Duigan,http://dbpedia.org/resource/Harry_Duigan,http://dbpedia.org/resource/John_Duigan
+2,51,A. Marx,http://dbpedia.org/resource/Karl_Marx,http://dbpedia.org/resource/Arthur_Marx_(writer) http://dbpedia.org/resource/Arthur_Julius_Marx http://dbpedia.org/resource/Arthur_Marx
+2,52,J. Sternfeld,http://dbpedia.org/resource/Joel_Sternfeld,http://dbpedia.org/resource/Josh_Sternfeld
+2,55,J. Ehle,http://dbpedia.org/resource/Jennifer_Ehle,http://dbpedia.org/resource/The_Free_Men http://dbpedia.org/resource/The_Survivor:_The_Story_of_Eddy_Hukov http://dbpedia.org/resource/Move_Over_Mountain http://dbpedia.org/resource/John_Ehle http://dbpedia.org/resource/The_Land_Breakers
+2,56,A. Rapp,http://dbpedia.org/resource/Jean_Rapp,http://dbpedia.org/resource/Red_Light_Winter http://dbpedia.org/resource/Adam_Rapp http://dbpedia.org/resource/Red_Light_Winter_(film)
+2,57,G. Z. Stone,http://dbpedia.org/resource/Harold_G._Stoner,http://dbpedia.org/resource/Ethel_Vance http://dbpedia.org/resource/The_Bitter_Tea_of_General_Yen_(novel) http://dbpedia.org/resource/Grace_Zaring_Stone
+2,59,R. Condon,http://dbpedia.org/resource/Robert_Condon,"http://dbpedia.org/resource/Condon,_Richard http://dbpedia.org/resource/Richard_Condon"
+2,63,T. Michel,http://dbpedia.org/resource/Detlef_Michel,http://dbpedia.org/resource/Thierry_Michel http://dbpedia.org/resource/Tierry_Michel
+2,64,A. Rosellini,http://dbpedia.org/resource/Albert_Rosellini,http://dbpedia.org/resource/Anne_Rosellini
+2,65,N. S. Hall,http://dbpedia.org/resource/David_S._Hall_(art_director),http://dbpedia.org/resource/Norman_S._Hall
+2,66,O. Crump,http://dbpedia.org/resource/Bruce_Crump,http://dbpedia.org/resource/The_First_Motion_Picture_Unit http://dbpedia.org/resource/First_Motion_Picture_Unit http://dbpedia.org/resource/18th_Army_Air_Force_Base_Unit http://dbpedia.org/resource/FMPU http://dbpedia.org/resource/Owen_Crump http://dbpedia.org/resource/1st_Motion_Picture_Unit
+2,68,R. Wright,http://dbpedia.org/resource/Richard_Wright_(author),http://dbpedia.org/resource/Ralph_Wright
+2,71,R. Kidd,http://dbpedia.org/resource/John_Kidd_(chemist),http://dbpedia.org/resource/Ronald_kidd http://dbpedia.org/resource/Ronald_Kidd
+2,76,A. Ray,http://dbpedia.org/resource/Amy_Ray,http://dbpedia.org/resource/Al_Ray http://dbpedia.org/resource/Albert_Ray

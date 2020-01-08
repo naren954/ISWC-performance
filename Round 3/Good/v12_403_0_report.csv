@@ -1,0 +1,38 @@
+F1: 0.77358,Precision: 0.77358,Recall: 0.77358,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Z. Smith,http://dbpedia.org/resource/Zeke_Smith,http://dbpedia.org/resource/Zuriel_Smith
+0,7,Z. Moore,http://dbpedia.org/resource/Zach_Moore,http://dbpedia.org/resource/Zeke_Moore
+0,8,Z. Coston,http://dbpedia.org/resource/Junius_Coston,http://dbpedia.org/resource/Zed_Coston
+0,25,Z. Miller,"http://dbpedia.org/resource/Zach_Miller_(tight_end,_born_1985)","http://dbpedia.org/resource/Zach_Miller_(American_football_b._1985) http://dbpedia.org/resource/Zach_Miller_(tight_end,_born_1984) http://dbpedia.org/resource/Zach_Miller_(American_football_b._1984) http://dbpedia.org/resource/Zach_Miller_(Jaguars)"
+0,34,Z. Smith,http://dbpedia.org/resource/Zeke_Smith,http://dbpedia.org/resource/Za'Darius_Smith http://dbpedia.org/resource/Zadarius_Smith http://dbpedia.org/resource/Za'Darius
+0,49,W. Green,http://dbpedia.org/resource/William_Green_(American_football),"http://dbpedia.org/resource/Woodrow_Green,_Jr. http://dbpedia.org/resource/Woody_Green http://dbpedia.org/resource/Woodrow_Green"
+0,53,W. Hill,http://dbpedia.org/resource/Will_Hill,http://dbpedia.org/resource/Winston_Hill
+0,56,W. Hayes,http://dbpedia.org/resource/William_Hayes_(American_football),http://dbpedia.org/resource/Windrell_Hayes
+0,60,W. Perry,http://dbpedia.org/resource/William_Perry_(American_football),http://dbpedia.org/resource/Wilmont_Perry
+0,65,W. Adams,http://dbpedia.org/resource/Willie_Adams_(American_football),"http://dbpedia.org/resource/Adams,_Willis http://dbpedia.org/resource/Willis_Adams"
+0,67,W. Williams,http://dbpedia.org/resource/Worrell_Williams,"http://dbpedia.org/resource/Willie_Williams_(Steelers_and_Seahawks) http://dbpedia.org/resource/Willie_J._Williams_(cornerback) http://dbpedia.org/resource/Willie_Williams_(American_football) http://dbpedia.org/resource/Willie_J._Williams http://dbpedia.org/resource/Willie_Williams_(cornerback,_born_1970) http://dbpedia.org/resource/Willie_Williams_(football_player) http://dbpedia.org/resource/Willie_Williams_(Steelers)) http://dbpedia.org/resource/Willie_Williams_(Steelers)"
+0,68,W. Williams,http://dbpedia.org/resource/Worrell_Williams,"http://dbpedia.org/resource/Willie_Williams_(Giants) http://dbpedia.org/resource/Willie_A._Williams_(American_football) http://dbpedia.org/resource/Willie_A._Williams_(cornerback) http://dbpedia.org/resource/Willie_A._Williams http://dbpedia.org/resource/Willie_Williams_(cornerback,_born_1941)"
+0,71,W. Smith,http://dbpedia.org/resource/Wade_Smith,http://dbpedia.org/resource/Willie_Smith_(tight_end)
+0,72,W. Smith,http://dbpedia.org/resource/Wade_Smith,"http://dbpedia.org/resource/Willie_Smith_(offensive_tackle,_born_1937)"
+0,77,W. Parker,http://dbpedia.org/resource/Willie_Parker,http://dbpedia.org/resource/Willie_Parker_(defensive_tackle)
+0,81,W. Howard,http://dbpedia.org/resource/William_Howard_(American_football),http://dbpedia.org/resource/Willie_Howard
+0,84,W. Green,http://dbpedia.org/resource/William_Green_(American_football),http://dbpedia.org/resource/Willie_Green_(American_football) http://dbpedia.org/resource/Willie_Green_(football_player)
+0,97,W. Anderson,http://dbpedia.org/resource/William_Anderson_(Scottish_footballer),http://dbpedia.org/resource/Willie_Anderson_(American_football) http://dbpedia.org/resource/Willie_Anderson_(NFL) http://dbpedia.org/resource/Willie_Anderson_(offensive_lineman)
+0,99,W. Thomas,http://dbpedia.org/resource/Watcyn_Thomas,http://dbpedia.org/resource/William_Thomas_(football_player) http://dbpedia.org/resource/William_Thomas_(linebacker) http://dbpedia.org/resource/William_Thomas_(American_football)
+0,100,W. Roberts,http://dbpedia.org/resource/Wooky_Roberts,http://dbpedia.org/resource/William_Roberts_(American_football) http://dbpedia.org/resource/William_Roberts_(football_player)
+0,102,W. Moore,http://dbpedia.org/resource/Wilbur_Moore,http://dbpedia.org/resource/William_Moore_(American_football)
+0,120,W. Andrews,http://dbpedia.org/resource/Willie_Andrews,http://dbpedia.org/resource/William_Andrews_(American_football) http://dbpedia.org/resource/William_Andrews_(American_football_player) http://dbpedia.org/resource/William_Andrews_(football_player)
+0,126,W. Smith,http://dbpedia.org/resource/Wade_Smith,"http://dbpedia.org/resource/Will_Smith_(linebacker) http://dbpedia.org/resource/Will_Smith_(linebacker,_born_1992)"
+0,127,W. Smith,http://dbpedia.org/resource/Wade_Smith,"http://dbpedia.org/resource/Will_Smith_(football_player) http://dbpedia.org/resource/Will_Smith_(American_football) http://dbpedia.org/resource/Will_smith_football http://dbpedia.org/resource/Will_Smith_(linebacker,_born_1981) http://dbpedia.org/resource/Will_Smith_football http://dbpedia.org/resource/Will_Smith_(defensive_end)"
+0,134,W. Montgomery,http://dbpedia.org/resource/Wilbert_Montgomery,http://dbpedia.org/resource/Will_Montgomery
+0,136,W. Fuller,http://dbpedia.org/resource/William_Fuller_(American_football),http://dbpedia.org/resource/Will_Fuller http://dbpedia.org/resource/Will_Fuller_V
+0,137,W. Davis,http://dbpedia.org/resource/Willie_Davis_(defensive_end),"http://dbpedia.org/resource/Will_Davis_(American_football,_born_1986) http://dbpedia.org/resource/Will_Davis_(linebacker)"
+0,138,W. Davis,http://dbpedia.org/resource/Willie_Davis_(defensive_end),"http://dbpedia.org/resource/Will_Davis_(American_football,_born_1990) http://dbpedia.org/resource/Will_Davis_(cornerback) http://dbpedia.org/resource/Will_Davis_(safety)"
+0,142,W. Allen,http://dbpedia.org/resource/Will_Allen_(cornerback),http://dbpedia.org/resource/Will_Allen_(NFL_safety) http://dbpedia.org/resource/Will_Allen_(American_football_safety) http://dbpedia.org/resource/Will_Allen_(safety) http://dbpedia.org/resource/Will_Allen_(American_football http://dbpedia.org/resource/Will_Allen_(NFL_Safety)
+0,144,W. Young,http://dbpedia.org/resource/Willie_Young_(defensive_end),http://dbpedia.org/resource/Wilbur_Young
+0,146,W. Jackson,http://dbpedia.org/resource/Willie_Jackson_(American_football),http://dbpedia.org/resource/Wilbur_Jackson
+0,147,W. Scott,"http://dbpedia.org/resource/Walter_Scott_(footballer,_born_1932)",http://dbpedia.org/resource/Wilbert_Scott
+0,150,W. Marshall,http://dbpedia.org/resource/Wilber_Marshall,http://dbpedia.org/resource/Whit_Marshall
+0,153,W. Walls,http://dbpedia.org/resource/Will_Walls,http://dbpedia.org/resource/Wesley_Walls
+0,155,W. Johnson,http://dbpedia.org/resource/Walter_Johnson_(American_football),http://dbpedia.org/resource/Wesley_Johnson_(American_football)
+0,156,W. Carroll,http://dbpedia.org/resource/Wesley_Carroll_(quarterback),http://dbpedia.org/resource/Wesley_Carroll_(wide_receiver)

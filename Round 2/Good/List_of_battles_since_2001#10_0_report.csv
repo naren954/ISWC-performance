@@ -1,0 +1,4 @@
+F1: 0.90000,Precision: 0.90000,Recall: 0.90000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,13,Battle of Kandahar,http://dbpedia.org/resource/Battle_of_Kandahar,http://dbpedia.org/resource/Battle_of_Kandahar_(2011)
+0,14,Battle of Sana'a,http://dbpedia.org/resource/Battle_of_Sanaʽa_(2011),http://dbpedia.org/resource/Battle_of_Sana'a_(2011)

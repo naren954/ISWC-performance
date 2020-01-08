@@ -1,0 +1,4 @@
+F1: 0.89474,Precision: 0.89474,Recall: 0.89474,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,2,HC Spartak Moscow,http://dbpedia.org/resource/HC_MVD,http://dbpedia.org/resource/Moscow_Spartacus_HC http://dbpedia.org/resource/HC_Spartak_Moscow http://dbpedia.org/resource/HK_Spartak_Moscow http://dbpedia.org/resource/HK_Spartak_Moskau http://dbpedia.org/resource/Moscow_Spartakus_HC
+3,3,CSKA Sofia,http://dbpedia.org/resource/PFC_CSKA_Sofia,http://dbpedia.org/resource/PHC_CSKA_Sofia http://dbpedia.org/resource/CSKA_Sofia_(ice_hockey) http://dbpedia.org/resource/HK_CSKA_Sofia

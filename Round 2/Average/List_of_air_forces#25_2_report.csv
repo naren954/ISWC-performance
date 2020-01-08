@@ -1,0 +1,5 @@
+F1: 0.62500,Precision: 0.62500,Recall: 0.62500,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,5,People's Liberation Army Air Force â\u0080\u0093 People's Liberation Army Hong Kong Garrison,http://dbpedia.org/resource/People's_Liberation_Army_Hong_Kong_Garrison,http://dbpedia.org/resource/People's_Liberation_Army_Air_Force
+2,9,"Force 14 is the military air wing of Fatah, the largest faction of the PLO.",http://dbpedia.org/resource/315th_Airlift_Wing,http://dbpedia.org/resource/Palestinian_Air_Force http://dbpedia.org/resource/Force_14 http://dbpedia.org/resource/Force-14
+2,11,Transnistrian Air Force,http://dbpedia.org/resource/Air_Force_SC,http://dbpedia.org/resource/Transnistria_Air_Force http://dbpedia.org/resource/Transnistrian_Army http://dbpedia.org/resource/Military_of_Transnistria http://dbpedia.org/resource/Transnistrian_Air_Force http://dbpedia.org/resource/Transnistria_Army http://dbpedia.org/resource/Military_equipment_of_Transnistria

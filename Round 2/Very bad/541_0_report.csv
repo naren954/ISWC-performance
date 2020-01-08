@@ -1,0 +1,29 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,"Alton, New Hampshire","http://dbpedia.org/resource/Alton,_Hampshire",http://sws.geonames.org/5082602/
+0,2,"Omaha, Nebraska","http://dbpedia.org/resource/Omaha,_Nebraska",http://sws.geonames.org/5074472/
+0,3,"Norfolk, Nebraska","http://dbpedia.org/resource/Norfolk,_Virginia",http://sws.geonames.org/5073965/
+0,4,"Fremont, Nebraska","http://dbpedia.org/resource/Fremont,_Nebraska",http://sws.geonames.org/5068725/
+0,5,"Woodbury, Minnesota","http://dbpedia.org/resource/Woodbury,_Minnesota",http://sws.geonames.org/5053358/
+0,6,"Winona, Minnesota","http://dbpedia.org/resource/Winona,_Minnesota",http://sws.geonames.org/5053156/
+0,7,"Rochester, Minnesota","http://dbpedia.org/resource/Rochester,_Minnesota",http://sws.geonames.org/5043473/
+0,8,"Richfield, Minnesota","http://dbpedia.org/resource/Richfield,_Minnesota",http://sws.geonames.org/5043193/
+0,9,Minneapolis,http://dbpedia.org/resource/Minneapolis,http://sws.geonames.org/5037649/
+0,10,"Faribault, Minnesota","http://dbpedia.org/resource/Faribault,_Minnesota",http://sws.geonames.org/5026291/
+0,11,"Edina, Minnesota","http://dbpedia.org/resource/Edina,_Minnesota",http://sws.geonames.org/5025264/
+0,12,"Eagan, Minnesota","http://dbpedia.org/resource/Eagan,_Minnesota",http://sws.geonames.org/5024825/
+0,13,"Coon Rapids, Minnesota","http://dbpedia.org/resource/Blaine,_Minnesota",http://sws.geonames.org/5022025/
+0,14,"Chaska, Minnesota","http://dbpedia.org/resource/Chaska,_Minnesota",http://sws.geonames.org/5020938/
+0,15,"Chanhassen, Minnesota","http://dbpedia.org/resource/Chanhassen,_Minnesota",http://sws.geonames.org/5020881/
+0,16,"Burnsville, Minnesota","http://dbpedia.org/resource/Burnsville,_Minnesota",http://sws.geonames.org/5019767/
+0,17,"Austin, Minnesota","http://dbpedia.org/resource/Austin,_Minnesota",http://sws.geonames.org/5016884/
+0,18,"Apple Valley, Minnesota","http://dbpedia.org/resource/Apple_Valley,_Minnesota",http://sws.geonames.org/5016494/
+0,19,"Wyoming, Michigan","http://dbpedia.org/resource/Wyoming,_Michigan",http://sws.geonames.org/5015618/
+0,20,"Traverse City, Michigan","http://dbpedia.org/resource/Traverse_City,_Michigan",http://sws.geonames.org/5012495/
+0,21,"Romulus, Michigan","http://dbpedia.org/resource/Romulus,_Michigan",http://sws.geonames.org/5007531/
+0,22,"New Buffalo, Michigan","http://dbpedia.org/resource/Buffalo,_New_York",http://sws.geonames.org/5003374/
+0,23,"Jackson, Michigan","http://dbpedia.org/resource/Jackson,_Michigan",http://sws.geonames.org/4997384/
+0,24,"Frankfort, Michigan","http://dbpedia.org/resource/Frankfort,_Michigan",http://sws.geonames.org/4993326/
+0,25,"Flint, Michigan","http://dbpedia.org/resource/Flint,_Michigan",http://sws.geonames.org/4992982/
+0,26,"Farmington Hills, Michigan","http://dbpedia.org/resource/Auburn_Hills,_Michigan",http://sws.geonames.org/4992523/
+0,27,"East Grand Rapids, Michigan","http://dbpedia.org/resource/Grand_Rapids,_Michigan",http://sws.geonames.org/4991600/

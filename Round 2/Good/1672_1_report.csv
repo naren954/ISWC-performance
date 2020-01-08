@@ -1,0 +1,5 @@
+F1: 0.86364,Precision: 0.86364,Recall: 0.86364,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,3,Hornbill,http://dbpedia.org/resource/Great_hornbill,http://dbpedia.org/resource/Bucerotinae http://dbpedia.org/resource/Hornbill http://dbpedia.org/resource/Bucerotidae http://dbpedia.org/resource/Bucerotidoe http://dbpedia.org/resource/Hornbills
+1,11,Leiothrichidae,http://dbpedia.org/resource/Old_World_babbler,http://dbpedia.org/resource/Leiothrichidae
+1,13,Prionopidae,http://dbpedia.org/resource/Prionops,http://dbpedia.org/resource/Prionopidae http://dbpedia.org/resource/Helmet-Shrike http://dbpedia.org/resource/Helmet_shike http://dbpedia.org/resource/Helmetshrikes http://dbpedia.org/resource/Helmetshrike http://dbpedia.org/resource/Helmet_shrike

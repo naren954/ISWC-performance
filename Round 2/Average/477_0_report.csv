@@ -1,0 +1,12 @@
+F1: 0.52381,Precision: 0.52381,Recall: 0.52381,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Á. G. Hurtado,http://es.dbpedia.org/resource/Manuel_Abastos,http://dbpedia.org/resource/Alvaro_Gómez_Hurtado http://dbpedia.org/resource/Alvaro_Gomez_Hurtado http://dbpedia.org/resource/Álvaro_Gómez_Hurtado
+0,2,Y. Fortier,http://dbpedia.org/resource/Yves_Fortier_(geologist),http://dbpedia.org/resource/L._Yves_Fortier http://dbpedia.org/resource/Yves_Fortier_(lawyer)
+0,3,W. B. Jr.,http://dbpedia.org/resource/George_W._Bush,"http://dbpedia.org/resource/William_Bodde http://dbpedia.org/resource/William_Bodde,_Jr."
+0,6,S. C. Davis,http://dbpedia.org/resource/Deane_C._Davis,http://dbpedia.org/resource/Shelby_Collum_Davis http://dbpedia.org/resource/Shelby_Cullom_Davis_Foundation http://dbpedia.org/resource/Shelby_Cullom_Davis
+0,7,S. Rabbani,http://dbpedia.org/resource/Burhanuddin_Rabbani,http://dbpedia.org/resource/Salahuddin_Rabbani http://dbpedia.org/resource/Salahudin_Rabani
+0,8,R. White,http://dbpedia.org/resource/Byron_White,http://dbpedia.org/resource/Robert_White_(ambassador) http://dbpedia.org/resource/Robert_E._White http://dbpedia.org/resource/Robert_Edward_White
+0,11,"Peter Ricketts, Baron Ricketts","http://dbpedia.org/resource/Peter_Rees,_Baron_Rees","http://dbpedia.org/resource/Peter_Ricketts http://dbpedia.org/resource/Sir_Peter_Ricketts http://dbpedia.org/resource/Peter_Forbes_Ricketts http://dbpedia.org/resource/Baron_Ricketts http://dbpedia.org/resource/Peter_Ricketts,_Baron_Ricketts"
+0,13,M. D. Bell,http://dbpedia.org/resource/Larry_M._Bell,http://dbpedia.org/resource/Michael_Dougall_Bell
+0,14,M. Cook,http://dbpedia.org/resource/Marlow_Cook,http://dbpedia.org/resource/Will_Mercer_Cook http://dbpedia.org/resource/Mercer_Cook
+0,21,L. Pezzulo,http://dbpedia.org/resource/Lawrence_Pezzullo,http://dbpedia.org/resource/Lawrence_Pezzulo http://dbpedia.org/resource/Lawrence_A._Pezzullo

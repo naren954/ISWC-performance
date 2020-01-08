@@ -1,0 +1,5 @@
+"F1: 0.84211","Precision: 0.84211","Recall: 0.84211"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","2","Mills & Reeve LLP","http://dbpedia.org/resource/Mills_&_Reeve","http://dbpedia.org/resource/Mills_&_Reeve_LLP"
+"0","8","Husch Blackwell","http://dbpedia.org/resource/Charles_Blackwell_(music_producer)","http://dbpedia.org/resource/Husch_Blackwell http://dbpedia.org/resource/Husch_&_Eppenberger http://dbpedia.org/resource/Husch_Blackwell_Sanders http://dbpedia.org/resource/Husch_Blackwell_Sanders_LLP http://dbpedia.org/resource/Blackwell_Sanders"
+"0","12","Eversheds","http://dbpedia.org/resource/Eversheds_Sutherland","http://dbpedia.org/resource/Eversheds http://dbpedia.org/resource/Eversheds_LLP"

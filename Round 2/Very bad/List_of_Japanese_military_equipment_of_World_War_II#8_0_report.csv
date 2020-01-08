@@ -1,0 +1,4 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,Type 92 Infantry Gun,http://dbpedia.org/resource/M1917_Browning_machine_gun,http://dbpedia.org/resource/Type_92_Battalion_Gun http://dbpedia.org/resource/Type_92_battalion_gun http://dbpedia.org/resource/Type_92_70_mm_Infantry_Gun
+0,3,Type 41 Mountain Gun,http://dbpedia.org/resource/Submachine_gun,http://dbpedia.org/resource/Type_41_75mm_Mountain_Gun http://dbpedia.org/resource/Type_41_75_mm_Mountain_Gun

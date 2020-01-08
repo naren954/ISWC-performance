@@ -1,0 +1,5 @@
+F1: 0.75000,Precision: 0.75000,Recall: 0.75000,,
+Col,Row,Value,Submitted URI,Correct URI's
+4,9,Lao Toyota FC,http://dbpedia.org/resource/Nagoya_Grampus,http://dbpedia.org/resource/Lao_Toyota_F.C. http://dbpedia.org/resource/Lao_Toyota_FC http://dbpedia.org/resource/Lao_Toyota
+4,11,Johor Darul Ta'zim,http://dbpedia.org/resource/Johor_Darul_Ta'zim_F.C.,http://dbpedia.org/resource/Johor_Darul_Ta'zim
+4,13,Lao Toyota FC,http://dbpedia.org/resource/Nagoya_Grampus,http://dbpedia.org/resource/Lao_Toyota_F.C. http://dbpedia.org/resource/Lao_Toyota_FC http://dbpedia.org/resource/Lao_Toyota

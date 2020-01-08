@@ -1,0 +1,5 @@
+F1: 0.50000,Precision: 0.50000,Recall: 0.50000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,UE Junior Warriors,http://dbpedia.org/resource/UE_Red_Warriors,http://dbpedia.org/resource/UE_Junior_Warriors
+0,2,Ateneo Blue Eaglets,http://dbpedia.org/resource/Ateneo_de_Manila_University,http://dbpedia.org/resource/The_Ateneo_Blue_Eagles http://dbpedia.org/resource/Ateneo_Blue_Eagles_men's_basketball http://dbpedia.org/resource/Ateneo_Lady_Eagles http://dbpedia.org/resource/Ateneo_Blue_Eagles http://dbpedia.org/resource/Ateneo_Blue_Eaglets http://dbpedia.org/resource/ADMU_Blue_Eagles
+0,4,De La Salle Junior Archers,http://dbpedia.org/resource/De_La_Salle_University,http://dbpedia.org/resource/De_La_Salle_Junior_Archers http://dbpedia.org/resource/La_Salle_Junior_Archers http://dbpedia.org/resource/Zobel_Junior_Archers http://dbpedia.org/resource/Junior_Archers http://dbpedia.org/resource/DLSZ_Junior_Archers http://dbpedia.org/resource/De_La_Salle_Zobel_Junior_Archers

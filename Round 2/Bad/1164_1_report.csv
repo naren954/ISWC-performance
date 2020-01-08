@@ -1,0 +1,47 @@
+F1: 0.42308,Precision: 0.42308,Recall: 0.42308,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,2,J. James,http://dbpedia.org/resource/John_James_(Australian_rules_footballer),http://dbpedia.org/resource/Jasper_James
+1,3,E. Vonn,http://dbpedia.org/resource/Lindsey_Vonn,http://dbpedia.org/resource/Eric_Vonn
+1,4,K. Johnson,http://dbpedia.org/resource/Dwayne_Johnson,http://dbpedia.org/resource/Lillian_Weezer http://dbpedia.org/resource/Kenneth_Johnson_(producer)
+1,6,K. Hasegawa,http://dbpedia.org/resource/Kiyoshi_Hasegawa,http://dbpedia.org/resource/Keiichi_Hasegawa
+1,7,T. Masuda,http://dbpedia.org/resource/Toshio_Masuda_(director),http://dbpedia.org/resource/Takahiko_Masuda
+1,8,J. Morton,http://dbpedia.org/resource/John_Morton_(cardinal),http://dbpedia.org/resource/John_Morton_(writer)
+1,9,G. Murray,http://dbpedia.org/resource/George_Murray_(British_Army_officer),http://dbpedia.org/resource/Gordon_Murray_(puppeteer)
+1,12,J. Johnson,http://dbpedia.org/resource/Lyndon_B._Johnson,"http://dbpedia.org/resource/J.J._Johnson http://dbpedia.org/resource/Johnson,_J._J. http://dbpedia.org/resource/James_Louis_Johnson http://dbpedia.org/resource/J.J_Johnson http://dbpedia.org/resource/J._J._Johnson http://dbpedia.org/resource/J_J_Johnson http://dbpedia.org/resource/JJ_Johnson http://dbpedia.org/resource/Jay_Jay_Johnson"
+1,13,J. Johnson,http://dbpedia.org/resource/Lyndon_B._Johnson,"http://dbpedia.org/resource/J.J._Johnson http://dbpedia.org/resource/Johnson,_J._J. http://dbpedia.org/resource/James_Louis_Johnson http://dbpedia.org/resource/J.J_Johnson http://dbpedia.org/resource/J._J._Johnson http://dbpedia.org/resource/J_J_Johnson http://dbpedia.org/resource/JJ_Johnson http://dbpedia.org/resource/Jay_Jay_Johnson"
+1,16,K. Grahame,http://dbpedia.org/resource/Gloria_Grahame,http://dbpedia.org/resource/Kenneth_Grahame http://dbpedia.org/resource/Kenneth_Graham
+1,17,M. Wayne,http://dbpedia.org/resource/Michael_Wayne,http://dbpedia.org/resource/Matt_Wayne
+1,23,A. Curtis,http://dbpedia.org/resource/Charles_Curtis,http://dbpedia.org/resource/Kevin_Adam_Curtis http://dbpedia.org/resource/Adam_Curtis http://dbpedia.org/resource/Adam_Curtis_(filmmaker)
+1,24,L. Cha,http://dbpedia.org/resource/Laura_Cha,http://dbpedia.org/resource/Louis_Cha http://dbpedia.org/resource/金庸 http://dbpedia.org/resource/Cha_Lieng_Yung http://dbpedia.org/resource/Kim_Dung http://dbpedia.org/resource/Jin_Yong http://dbpedia.org/resource/Jinyong http://dbpedia.org/resource/Zha_Liangyong http://dbpedia.org/resource/Kim_Yung http://dbpedia.org/resource/Louis_Cha_Leung_Yung_(Jinyong) http://dbpedia.org/resource/查良鏞 http://dbpedia.org/resource/Jinology
+1,28,R. Carpenter,http://dbpedia.org/resource/Randolph_Carpenter,http://dbpedia.org/resource/Richard_Carpenter_(screenwriter)
+1,31,G. Conway,http://dbpedia.org/resource/Tim_Conway,http://dbpedia.org/resource/Gerard_Conway http://dbpedia.org/resource/Gerard_F._Conway http://dbpedia.org/resource/Gerry_F._Conway http://dbpedia.org/resource/Gerry_Conway
+1,34,L. Brody,http://dbpedia.org/resource/Louis_Brody,http://dbpedia.org/resource/Larry_Brody
+1,35,J. Semper,http://dbpedia.org/resource/Gottfried_Semper,"http://dbpedia.org/resource/John_Semper_Jr http://dbpedia.org/resource/John_Semper,_Jr. http://dbpedia.org/resource/John_Semper http://dbpedia.org/resource/John_Semper_Jr."
+1,36,K. Fajer,http://dbpedia.org/resource/Yuri_Fayer,http://dbpedia.org/resource/Kary_Fajer
+1,38,Y. Kobayashi,http://dbpedia.org/resource/Yotaro_Kobayashi,http://dbpedia.org/resource/小林靖子 http://dbpedia.org/resource/Yasuko_Kobayashi
+1,39,P. Monash,http://dbpedia.org/resource/John_Monash,http://dbpedia.org/resource/Paul_Monash
+1,42,M. Palin,http://dbpedia.org/resource/Sarah_Palin,"http://dbpedia.org/resource/Micheal_palin http://dbpedia.org/resource/Hemingway's_Chair http://dbpedia.org/resource/Michael_Pallin http://dbpedia.org/resource/Michael_Edward_Palin http://dbpedia.org/resource/Palin,_Michael_Edward http://dbpedia.org/resource/Palinesque http://dbpedia.org/resource/Palin,_Michael http://dbpedia.org/resource/Michael_pallin http://dbpedia.org/resource/Michael_Palin http://dbpedia.org/resource/Michael_palin"
+1,43,A. Curtis,http://dbpedia.org/resource/Charles_Curtis,http://dbpedia.org/resource/Kevin_Adam_Curtis http://dbpedia.org/resource/Adam_Curtis http://dbpedia.org/resource/Adam_Curtis_(filmmaker)
+1,47,M. Palin,http://dbpedia.org/resource/Sarah_Palin,"http://dbpedia.org/resource/Micheal_palin http://dbpedia.org/resource/Hemingway's_Chair http://dbpedia.org/resource/Michael_Pallin http://dbpedia.org/resource/Michael_Edward_Palin http://dbpedia.org/resource/Palin,_Michael_Edward http://dbpedia.org/resource/Palinesque http://dbpedia.org/resource/Palin,_Michael http://dbpedia.org/resource/Michael_pallin http://dbpedia.org/resource/Michael_Palin http://dbpedia.org/resource/Michael_palin"
+1,48,Thirumurugan,http://dbpedia.org/resource/Thirumurugan_Veeran,http://dbpedia.org/resource/Thirumurugan
+1,50,L. Abud,http://dbpedia.org/resource/Juan_José_Guerra_Abud,"http://dbpedia.org/resource/Abud,_Liliana http://dbpedia.org/resource/Liliana_Abud"
+1,52,Kajari,,http://dbpedia.org/resource/Kajari
+1,53,A. D. Miles,http://de.dbpedia.org/resource/Wyndham_D._Miles,http://dbpedia.org/resource/A_D_Miles http://dbpedia.org/resource/A._D._Miles http://dbpedia.org/resource/AD_Miles http://dbpedia.org/resource/A.D._Miles
+1,54,L. Abud,http://dbpedia.org/resource/Juan_José_Guerra_Abud,"http://dbpedia.org/resource/Abud,_Liliana http://dbpedia.org/resource/Liliana_Abud"
+1,55,R. Yamaguchi,http://dbpedia.org/resource/Yūdai_Yamaguchi,http://dbpedia.org/resource/Ryōta_Yamaguchi http://dbpedia.org/resource/Ryota_Yamaguchi
+1,56,S. Aikawa,http://dbpedia.org/resource/Sōichi_Aikawa,http://dbpedia.org/resource/Shō_Aikawa_(screenwriter) http://dbpedia.org/resource/Shō_Aikawa_(scriptwriter) http://dbpedia.org/resource/Sho_Aikawa_(screenwriter)
+1,58,S. Tomita,http://dbpedia.org/resource/Hirohito,http://dbpedia.org/resource/Sukehiro_Tomita
+1,59,Y. Kobayashi,http://dbpedia.org/resource/Yotaro_Kobayashi,http://dbpedia.org/resource/小林靖子 http://dbpedia.org/resource/Yasuko_Kobayashi
+1,60,T. Inoue,http://dbpedia.org/resource/Takehiko_Inoue,http://dbpedia.org/resource/井上敏樹 http://dbpedia.org/resource/Toshiki_Inoue http://dbpedia.org/resource/Inoue_Toshiki
+1,61,T. Inoue,http://dbpedia.org/resource/Takehiko_Inoue,http://dbpedia.org/resource/井上敏樹 http://dbpedia.org/resource/Toshiki_Inoue http://dbpedia.org/resource/Inoue_Toshiki
+1,62,T. Inoue,http://dbpedia.org/resource/Takehiko_Inoue,http://dbpedia.org/resource/井上敏樹 http://dbpedia.org/resource/Toshiki_Inoue http://dbpedia.org/resource/Inoue_Toshiki
+1,63,T. Inoue,http://dbpedia.org/resource/Takehiko_Inoue,http://dbpedia.org/resource/井上敏樹 http://dbpedia.org/resource/Toshiki_Inoue http://dbpedia.org/resource/Inoue_Toshiki
+1,67,Y. Kobayashi,http://dbpedia.org/resource/Yotaro_Kobayashi,http://dbpedia.org/resource/小林靖子 http://dbpedia.org/resource/Yasuko_Kobayashi
+1,68,T. Inoue,http://dbpedia.org/resource/Takehiko_Inoue,http://dbpedia.org/resource/井上敏樹 http://dbpedia.org/resource/Toshiki_Inoue http://dbpedia.org/resource/Inoue_Toshiki
+1,69,T. Inoue,http://dbpedia.org/resource/Takehiko_Inoue,http://dbpedia.org/resource/井上敏樹 http://dbpedia.org/resource/Toshiki_Inoue http://dbpedia.org/resource/Inoue_Toshiki
+1,70,T. Inoue,http://dbpedia.org/resource/Takehiko_Inoue,http://dbpedia.org/resource/井上敏樹 http://dbpedia.org/resource/Toshiki_Inoue http://dbpedia.org/resource/Inoue_Toshiki
+1,71,K. Padmini,http://dbpedia.org/resource/Padmini_(actress),http://dbpedia.org/resource/Kutty_Padmini
+1,73,C. Lilley,http://dbpedia.org/resource/Charlie_Lilley,http://dbpedia.org/resource/Christopher_Daniel_Lilley http://dbpedia.org/resource/Chris_Lilley_(comedian)
+1,75,S. Bukhari,http://dbpedia.org/resource/Syed_Ata_Ullah_Shah_Bukhari,http://dbpedia.org/resource/Samra_Bukhari
+1,76,G. Miller,http://dbpedia.org/resource/George_Miller_(Arizona_politician),http://dbpedia.org/resource/Greg_Miller_(animator)
+1,77,S. Aikawa,http://dbpedia.org/resource/Sōichi_Aikawa,http://dbpedia.org/resource/Shō_Aikawa_(screenwriter) http://dbpedia.org/resource/Shō_Aikawa_(scriptwriter) http://dbpedia.org/resource/Sho_Aikawa_(screenwriter)

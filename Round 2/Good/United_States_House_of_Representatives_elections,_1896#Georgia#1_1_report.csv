@@ -1,0 +1,3 @@
+F1: 0.88889,Precision: 0.88889,Recall: 0.88889,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,3,"George Paul Harrison, Jr.",http://dbpedia.org/resource/George_Paul_Harrison_Jr.,"http://dbpedia.org/resource/George_P._Harrison http://dbpedia.org/resource/George_Paul_Harrison,_Jr. http://dbpedia.org/resource/George_Paul_Harrison"

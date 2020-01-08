@@ -1,0 +1,4 @@
+F1: 0.60000,Precision: 0.60000,Recall: 0.60000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Flint Generals,http://dbpedia.org/resource/Flint_Generals,http://dbpedia.org/resource/Flint_Generals_(1969–1985)
+0,5,Saginaw Gears,http://dbpedia.org/resource/Saginaw_Spirit,http://dbpedia.org/resource/Saginaw_Gears_(IHL)

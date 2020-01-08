@@ -1,0 +1,29 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+6,1,Lockett,http://dbpedia.org/resource/Lockett_v._Ohio,http://dbpedia.org/resource/Arthur_Lockett
+6,2,Higginson,http://dbpedia.org/resource/6552_Higginson,http://dbpedia.org/resource/Sam_Higginson
+6,3,Lockett,http://dbpedia.org/resource/Lockett_v._Ohio,http://dbpedia.org/resource/Arthur_Lockett
+6,4,Watkins,"http://dbpedia.org/resource/Watkins_Glen,_New_York",http://dbpedia.org/resource/Walter_Watkins
+6,5,Higginson,http://dbpedia.org/resource/6552_Higginson,http://dbpedia.org/resource/Sam_Higginson
+6,6,Johnson,http://dbpedia.org/resource/Lyndon_B._Johnson,http://dbpedia.org/resource/Freddie_Johnson
+6,7,Watkins (2),http://dbpedia.org/resource/Tionne_Watkins,http://dbpedia.org/resource/Walter_Watkins
+6,8,"Watkins, Lockett",http://dbpedia.org/resource/Tyler_Lockett,http://dbpedia.org/resource/Walter_Watkins
+6,9,"Watkins, Whitehouse",http://dbpedia.org/resource/Whitehouse_(band),http://dbpedia.org/resource/Walter_Watkins
+6,11,"Watkins (2), Doig (o.g.)",http://dbpedia.org/resource/Tionne_Watkins,http://dbpedia.org/resource/Walter_Watkins
+6,12,"Watkins, Johnson, Hales",http://dbpedia.org/resource/Detention:_The_Siege_at_Johnson_High,http://dbpedia.org/resource/Walter_Watkins
+6,13,Harris,"http://dbpedia.org/resource/Harris_County,_Texas","http://dbpedia.org/resource/George_Harris_(footballer,_born_1877) http://dbpedia.org/resource/George_Harris_(footballer_born_1877)"
+6,14,Johnson,http://dbpedia.org/resource/Lyndon_B._Johnson,http://dbpedia.org/resource/Freddie_Johnson
+6,15,"Watkins, Hales, Lockett",http://dbpedia.org/resource/Tyler_Lockett,http://dbpedia.org/resource/Walter_Watkins
+6,16,Watkins,"http://dbpedia.org/resource/Watkins_Glen,_New_York",http://dbpedia.org/resource/Walter_Watkins
+6,17,"Watkins (2), MacDonald",http://dbpedia.org/resource/Margo_MacDonald,http://dbpedia.org/resource/Walter_Watkins
+6,18,Whitehouse,"http://dbpedia.org/resource/Whitehorse,_Yukon",http://dbpedia.org/resource/Frank_Whitehouse
+6,21,"Higginson, Watkins, Whitehouse",http://dbpedia.org/resource/Ian_Watkins_(Lostprophets_singer),http://dbpedia.org/resource/Sam_Higginson
+6,24,Watkins,"http://dbpedia.org/resource/Watkins_Glen,_New_York",http://dbpedia.org/resource/Walter_Watkins
+6,25,MacDonald,http://dbpedia.org/resource/Ramsay_MacDonald,http://dbpedia.org/resource/Billy_McDonald http://dbpedia.org/resource/Billy_MacDonald http://dbpedia.org/resource/Billy_Macdonald
+6,26,MacDonald,http://dbpedia.org/resource/Ramsay_MacDonald,http://dbpedia.org/resource/Billy_McDonald http://dbpedia.org/resource/Billy_MacDonald http://dbpedia.org/resource/Billy_Macdonald
+6,28,Lockett,http://dbpedia.org/resource/Lockett_v._Ohio,http://dbpedia.org/resource/Arthur_Lockett
+6,30,Higginson,http://dbpedia.org/resource/6552_Higginson,http://dbpedia.org/resource/Sam_Higginson
+6,31,Harris,"http://dbpedia.org/resource/Harris_County,_Texas","http://dbpedia.org/resource/George_Harris_(footballer,_born_1877) http://dbpedia.org/resource/George_Harris_(footballer_born_1877)"
+6,32,"Harris, Holford, Higginson (2)",http://dbpedia.org/resource/George_Higginson,"http://dbpedia.org/resource/George_Harris_(footballer,_born_1877) http://dbpedia.org/resource/George_Harris_(footballer_born_1877)"
+6,33,"Watkins, Holford","http://dbpedia.org/resource/William_Holford,_Baron_Holford",http://dbpedia.org/resource/Walter_Watkins
+6,34,"Holford, Hillman (o.g.)",http://dbpedia.org/resource/Larry_Hillman,http://dbpedia.org/resource/Tom_Holford http://dbpedia.org/resource/Thomas_Holford_(footballer)

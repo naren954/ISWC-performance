@@ -1,0 +1,8 @@
+F1: 0.89655,Precision: 0.89655,Recall: 0.89655,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,24,N. Piquet,http://dbpedia.org/resource/Nelson_Piquet_Jr.,"http://dbpedia.org/resource/Nelson_Piquet_(racing_driver) http://dbpedia.org/resource/Nelson_Piquet_Sr._(racing_driver) http://dbpedia.org/resource/Nelson_Piquet,_Sr. http://dbpedia.org/resource/Nelson_Piquet"
+2,30,K. Bartlett,http://dbpedia.org/resource/Kevin_Bartlett_(Australian_rules_footballer),http://dbpedia.org/resource/Kevin_Bartlett_(racing_driver) http://dbpedia.org/resource/Kevin_Bartlett_(race_driver) http://dbpedia.org/resource/Kevin_Bartlett_(motor_racing) http://dbpedia.org/resource/Kevin_Bartlett_(auto_racing)
+2,31,G. Lawrence,http://dbpedia.org/resource/D._H._Lawrence,http://dbpedia.org/resource/Graeme_Lawrence
+2,46,S. Jones,http://dbpedia.org/resource/David_Bowie,http://dbpedia.org/resource/Stan_Jones_(racing_driver)
+2,51,R. Fischer,http://dbpedia.org/resource/Bobby_Fischer,http://dbpedia.org/resource/Rudi_Fischer http://dbpedia.org/resource/Ecurie_Espadon
+2,53,A. Piàn,http://dbpedia.org/resource/Johnny_Depp,http://dbpedia.org/resource/Alfredo_Piàn http://dbpedia.org/resource/Alfredo_Pián http://dbpedia.org/resource/Alfredo_Pian

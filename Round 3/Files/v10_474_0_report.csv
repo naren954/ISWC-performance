@@ -1,0 +1,4 @@
+"F1: 0.89474","Precision: 0.89474","Recall: 0.89474"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","17","Biceps femoris muscle","http://dbpedia.org/resource/Quadriceps_femoris_muscle","http://dbpedia.org/resource/Biceps_femoris_muscle http://dbpedia.org/resource/Biceps_Femoris http://dbpedia.org/resource/Musculus_biceps_femoris http://dbpedia.org/resource/Femoral_Biceps http://dbpedia.org/resource/Biceps_femoris_tendon http://dbpedia.org/resource/Biceps_femoris http://dbpedia.org/resource/Femoral_bicep"
+"0","19","Ascending colon","http://dbpedia.org/resource/Large_intestine","http://dbpedia.org/resource/Ascending_colon http://dbpedia.org/resource/Colon_ascendens http://dbpedia.org/resource/Colon,_ascending"

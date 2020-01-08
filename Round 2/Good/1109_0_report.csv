@@ -1,0 +1,6 @@
+F1: 0.84615,Precision: 0.84615,Recall: 0.84615,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,5,C. S. Clancy,http://dbpedia.org/resource/King_Clancy,http://dbpedia.org/resource/Carl_Stearns_Clancy
+0,10,B. McIntyre,http://dbpedia.org/resource/Bob_McIntyre_(motorcyclist),http://dbpedia.org/resource/Bob_McIntyre_(motorcycle_racer)
+0,11,B. Brown,http://dbpedia.org/resource/Benny_Brown,http://dbpedia.org/resource/Bob_Brown_(motorcyclist)
+0,12,B. Anderson,http://dbpedia.org/resource/Biddy_Anderson,http://dbpedia.org/resource/DW_Racing_Enterprises http://dbpedia.org/resource/Bob_Anderson_(racing_driver) http://dbpedia.org/resource/Bob_Anderson_(racer)

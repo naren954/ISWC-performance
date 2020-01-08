@@ -1,0 +1,44 @@
+F1: 0.57143,Precision: 0.57143,Recall: 0.57143,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,KYGO-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/K251AB http://dbpedia.org/resource/KYGO-FM http://dbpedia.org/resource/KYGO-FM1
+0,7,KYCW-LD,http://dbpedia.org/resource/KTPN-LD,http://dbpedia.org/resource/KCZ-TV http://dbpedia.org/resource/KYCW-LD http://dbpedia.org/resource/K15CZ-D http://dbpedia.org/resource/KDL-TV http://dbpedia.org/resource/K15CZ http://dbpedia.org/resource/KYCW http://dbpedia.org/resource/KSPR-DT2
+0,10,KYCH-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/KYCH-FM http://dbpedia.org/resource/KYCH
+0,13,KXXR,http://dbpedia.org/resource/WDAF-FM,http://dbpedia.org/resource/KEGE-FM http://dbpedia.org/resource/KXXR-FM http://dbpedia.org/resource/KXXR
+0,18,KXUN-LD,http://dbpedia.org/resource/KTPN-LD,http://dbpedia.org/resource/KXUN http://dbpedia.org/resource/KXUN-CA http://dbpedia.org/resource/KXUN-LP http://dbpedia.org/resource/KXUN-tv http://dbpedia.org/resource/KXUN-LD
+0,19,KXTX-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/KXTX-DT http://dbpedia.org/resource/KXTX http://dbpedia.org/resource/KXTX-TV http://dbpedia.org/resource/KXTX_TV_Tower
+0,20,KXTN-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/KXTN-FM
+0,21,KXSS-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/KXSS-FM http://dbpedia.org/resource/KMML-FM
+0,24,KXRM-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/K15KG-D http://dbpedia.org/resource/KXRM-DT3 http://dbpedia.org/resource/KXRM http://dbpedia.org/resource/KXRM2 http://dbpedia.org/resource/KXRM3 http://dbpedia.org/resource/K28GE http://dbpedia.org/resource/KXRM-TV http://dbpedia.org/resource/KXRM1
+0,25,KXRA-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/KXRA-FM
+0,27,KXPI-LD,http://dbpedia.org/resource/KTPN-LD,http://dbpedia.org/resource/KXPI-LD http://dbpedia.org/resource/KXPI-LP http://dbpedia.org/resource/KUNP-LP http://dbpedia.org/resource/KXPI
+0,28,KXOJ-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/KXOJ http://dbpedia.org/resource/KXOJ-FM
+0,30,KXO-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/KXO-FM
+0,33,KXMD-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/KXMD-TV http://dbpedia.org/resource/KXMD
+0,34,KXMC-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/KX_Net http://dbpedia.org/resource/Reiten_Broadcasting http://dbpedia.org/resource/KXMC-TV http://dbpedia.org/resource/KCJB-TV http://dbpedia.org/resource/KXNet http://dbpedia.org/resource/KXMC http://dbpedia.org/resource/K09JR
+0,35,KXMB-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/KXMB-TV http://dbpedia.org/resource/KXMB http://dbpedia.org/resource/KBMB-TV
+0,36,KXMA-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/KXMA-TV http://dbpedia.org/resource/KDIX-TV http://dbpedia.org/resource/KXMA
+0,38,KXLY-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/K280BI http://dbpedia.org/resource/K262AF http://dbpedia.org/resource/KXLY(FM) http://dbpedia.org/resource/K262AG http://dbpedia.org/resource/KXLY-FM
+0,39,KXLT-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/KXLT-TV
+0,40,KXLT-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/KXLT-FM
+0,43,KXKL-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/KXKL-FM http://dbpedia.org/resource/KXKL http://dbpedia.org/resource/KXKL-FM1
+0,47,KXJB-LD,http://dbpedia.org/resource/KTPN-LD,http://dbpedia.org/resource/KXJB http://dbpedia.org/resource/KXJB-TV http://dbpedia.org/resource/KVLY-DT2 http://dbpedia.org/resource/KXJB-LD
+0,48,KXFX-CD,http://dbpedia.org/resource/.cd,http://dbpedia.org/resource/KVTF-CA http://dbpedia.org/resource/KXFX-CA http://dbpedia.org/resource/KFTN-CA http://dbpedia.org/resource/KXFX-CD
+0,50,KXEZ,http://dbpedia.org/resource/KSWD_(FM),http://dbpedia.org/resource/KXEZ
+0,52,KXAS-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/NBC_DFW http://dbpedia.org/resource/NBCDFW http://dbpedia.org/resource/NBC_Fort_Worth http://dbpedia.org/resource/WBAP-TV http://dbpedia.org/resource/NBC_Metroplex http://dbpedia.org/resource/NBC_5_Dallas http://dbpedia.org/resource/KXAS-DT http://dbpedia.org/resource/KXAS http://dbpedia.org/resource/Rick_Mitchell_(meteorologist) http://dbpedia.org/resource/KXAS_TV_Tower http://dbpedia.org/resource/KXAS-TV http://dbpedia.org/resource/NBC_Dallas http://dbpedia.org/resource/NBC_5_Dallas-Fort_Worth
+0,53,KXAN-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/KXAN-TV http://dbpedia.org/resource/KHPF http://dbpedia.org/resource/KHFI-TV http://dbpedia.org/resource/NBC_Austin http://dbpedia.org/resource/KXAN http://dbpedia.org/resource/Austin_News
+0,54,KWYN-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/KWYN-FM
+0,60,KWVR-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/KWVR-FM
+0,61,KWVN-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/K261BH http://dbpedia.org/resource/K261BS http://dbpedia.org/resource/KWVN-FM
+0,63,KWVE-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/KWVE-FM1 http://dbpedia.org/resource/KWVE-FM http://dbpedia.org/resource/KWDS
+0,64,KWTX-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/KWTX-TV_News_10 http://dbpedia.org/resource/KWTX-DT2 http://dbpedia.org/resource/KWTX-TV
+0,71,KWSU-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/K17JR-D http://dbpedia.org/resource/KTNW-TV http://dbpedia.org/resource/KWSU-TV http://dbpedia.org/resource/KTNW
+0,72,KWSD,http://dbpedia.org/resource/KMJC,http://dbpedia.org/resource/KWSD
+0,74,KWRD-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/KWRD-FM
+0,78,KWOF,http://dbpedia.org/resource/KXGM_(AM),http://dbpedia.org/resource/KWLI http://dbpedia.org/resource/KWOF http://dbpedia.org/resource/KWOF-FM http://dbpedia.org/resource/K269AE http://dbpedia.org/resource/KWOF_(FM)
+0,81,KWNL-CD,http://dbpedia.org/resource/.cd,http://dbpedia.org/resource/KWNL-CD http://dbpedia.org/resource/KWNL-CA
+0,83,KWNA-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/K265BE http://dbpedia.org/resource/KWNA-FM
+0,85,KWKT-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/KWKTTV http://dbpedia.org/resource/KWKT-TV http://dbpedia.org/resource/KWKT_TV http://dbpedia.org/resource/KWKT
+0,87,KWJJ-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/KWJJ-FM http://dbpedia.org/resource/KWJJ
+0,93,KWGN-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/KFEL-TV http://dbpedia.org/resource/KWGN http://dbpedia.org/resource/K02OS-D http://dbpedia.org/resource/K22CU-D http://dbpedia.org/resource/CW_Denver http://dbpedia.org/resource/The_CW_Denver http://dbpedia.org/resource/K47JR http://dbpedia.org/resource/K04JD http://dbpedia.org/resource/K02OU-D http://dbpedia.org/resource/KWGN-TV http://dbpedia.org/resource/K04GS http://dbpedia.org/resource/K02OG-D http://dbpedia.org/resource/K36BR http://dbpedia.org/resource/K19CE http://dbpedia.org/resource/KWGN-DT http://dbpedia.org/resource/2_The_Deuce
+0,94,KWFS-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/KWFS-FM
+0,97,KWES-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/KWES-FM

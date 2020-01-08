@@ -1,0 +1,6 @@
+F1: 0.66667,Precision: 0.66667,Recall: 0.66667,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,1,FerroviÃ¡rio (RO),http://dbpedia.org/resource/Clube_Ferroviário_de_Nampula,http://dbpedia.org/resource/Ferroviário_Atlético_Clube_(RO)
+2,2,GrÃªmio,http://dbpedia.org/resource/Grêmio_Barueri_Futebol,http://dbpedia.org/resource/Grêmio_Recreativo_e_Esportivo
+2,10,Genus,http://dbpedia.org/resource/Sampson_Genus,http://dbpedia.org/resource/Sport_Club_Genus_de_Porto_Velho http://dbpedia.org/resource/Sport_Club_Genus_Rondoniense
+2,19,Genus,http://dbpedia.org/resource/Sampson_Genus,http://dbpedia.org/resource/Sport_Club_Genus_de_Porto_Velho http://dbpedia.org/resource/Sport_Club_Genus_Rondoniense

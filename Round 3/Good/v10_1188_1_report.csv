@@ -1,0 +1,4 @@
+F1: 0.92000,Precision: 0.92000,Recall: 0.92000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,5,"St. George's Collegiate Church, Tübingen",http://dbpedia.org/resource/Manchester_Cathedral,"http://dbpedia.org/resource/St._George's_Collegiate_Church,_Tübingen"
+1,13,Andechs,http://dbpedia.org/resource/Andechs_Abbey,http://dbpedia.org/resource/Andechs

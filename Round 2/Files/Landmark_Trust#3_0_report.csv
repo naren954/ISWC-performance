@@ -1,0 +1,4 @@
+"F1: 0.77778","Precision: 0.77778","Recall: 0.77778"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","6","Hill House","http://dbpedia.org/resource/Hill_Top,_Cumbria","http://dbpedia.org/resource/Hill_House,_Scotland http://dbpedia.org/resource/Hill_House,_Helensburgh"
+"0","15","West Blockhouse","http://dbpedia.org/resource/East_and_West_Blockhouses","http://dbpedia.org/resource/Llanion_Battery http://dbpedia.org/resource/Pembroke_Dock_Martello_Towers http://dbpedia.org/resource/Palmerston_Forts,_Milford_Haven"

@@ -1,0 +1,8 @@
+F1: 0.14286,Precision: 0.14286,Recall: 0.14286,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Itzcoatl 13 Water (22 June) 13 Reed (1427) â\u0080\u0093 13 Flint (1440),,http://dbpedia.org/resource/Izcoatl http://dbpedia.org/resource/Itzcóatl http://dbpedia.org/resource/Itzcoatl
+0,3,Axayacatl 2 Rain (2 August) 3 House (1469) â\u0080\u0093 2 House (1481),,http://dbpedia.org/resource/Axayácatl http://dbpedia.org/resource/Axayacatzin http://dbpedia.org/resource/Axayacatl http://dbpedia.org/resource/Axáyacatl
+0,4,Tizoc 6 Vulture (2 June) 2 House (1481) â\u0080\u0093 7 Rabbit (1486),,http://dbpedia.org/resource/Tizoc http://dbpedia.org/resource/Tízoc
+0,5,Ahuitzotl 10 Rabbit (15 April) 7 Rabbit (1486) â\u0080\u0093 10 Rabbit (1502),,http://dbpedia.org/resource/Ahuizotl http://dbpedia.org/resource/Axacayle http://dbpedia.org/resource/Auitzotl http://dbpedia.org/resource/Ahuitzotzin http://dbpedia.org/resource/Ahuicocin http://dbpedia.org/resource/Auítzotl http://dbpedia.org/resource/Ahuitzotl http://dbpedia.org/resource/Ahuiçoçin
+0,7,CuitlÃ¡huac 5\/8 Wind (16 September) 2 Flint (1520),http://dbpedia.org/resource/Beaufort_scale,http://dbpedia.org/resource/Cuitláhuac
+0,8,CuauhtÃ©moc Izcalli\/February 3 House (1521) â\u0080\u0093 7 House (1525),http://dbpedia.org/resource/Parliament_Hill,http://dbpedia.org/resource/Cuauhtémoc

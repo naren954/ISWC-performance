@@ -1,0 +1,11 @@
+F1: 0.72727,Precision: 0.72727,Recall: 0.72727,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,8,Shinji Hashimoto,http://dbpedia.org/resource/Hakaru_Hashimoto,http://dbpedia.org/resource/Shinji_Hashimoto
+3,9,Shinji Hashimoto,http://dbpedia.org/resource/Hakaru_Hashimoto,http://dbpedia.org/resource/Shinji_Hashimoto
+3,15,Shinji Hashimoto,http://dbpedia.org/resource/Hakaru_Hashimoto,http://dbpedia.org/resource/Shinji_Hashimoto
+3,19,Masashi Miyamoto,http://dbpedia.org/resource/Masashi_Kishimoto,http://dbpedia.org/resource/Masashi_Miyamoto http://dbpedia.org/resource/Masafumi_Miyamoto
+3,20,Masashi Miyamoto,http://dbpedia.org/resource/Masashi_Kishimoto,http://dbpedia.org/resource/Masashi_Miyamoto http://dbpedia.org/resource/Masafumi_Miyamoto
+3,21,Todd Howard,http://dbpedia.org/resource/Todd_Howard,http://dbpedia.org/resource/Todd_Howard_(video_game_designer) http://dbpedia.org/resource/Todd_Howard_(videogame_designer)
+3,23,Dave Grossman,http://dbpedia.org/resource/Allen_Grossman,http://dbpedia.org/resource/Dave_Grossman_(game_developer)
+3,25,Roppyaku Tsurumi,,http://dbpedia.org/resource/Roppyaku_Tsurumi
+3,28,Kazuhiko Aoki,http://dbpedia.org/resource/Kazuhiko_Kato_(musician),http://dbpedia.org/resource/Kazuhiko_Aoki

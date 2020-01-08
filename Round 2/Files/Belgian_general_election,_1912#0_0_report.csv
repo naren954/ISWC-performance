@@ -1,0 +1,5 @@
+"F1: 0.25000","Precision: 0.25000","Recall: 0.25000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","1","Catholic Party","http://dbpedia.org/resource/Christian_Democratic_People's_Party_of_Switzerland","http://dbpedia.org/resource/Catholic_Block http://dbpedia.org/resource/Katholieke_Partij_(België) http://dbpedia.org/resource/Catholic_Party_(Belgium)"
+"0","3","Liberal Party","http://dbpedia.org/resource/National_Liberal_Party_(Romania)","http://dbpedia.org/resource/Liberal_Party_(Belgium)"
+"0","4","Belgian Labour Party","http://dbpedia.org/resource/Labour_Party_(Ireland)","http://dbpedia.org/resource/Belgian_Workers_Party http://dbpedia.org/resource/Parti_Ouvrier_Belge http://dbpedia.org/resource/Belgische_Werkliedenpartij http://dbpedia.org/resource/Belgian_Labour_party http://dbpedia.org/resource/Belgian_Workers'_Party http://dbpedia.org/resource/Belgian_Labour_Party http://dbpedia.org/resource/Belgian_Labor_Party"

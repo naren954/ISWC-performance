@@ -1,0 +1,6 @@
+F1: 0.84615,Precision: 0.84615,Recall: 0.84615,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,6,Endodermic evagination,,http://dbpedia.org/resource/Endodermic_evagination http://dbpedia.org/resource/Evagination
+1,11,Midgut,http://dbpedia.org/resource/Stomach,http://dbpedia.org/resource/Mid-gut http://dbpedia.org/resource/Mesenteron http://dbpedia.org/resource/Midgut http://dbpedia.org/resource/Midguts
+1,18,Midgut,http://dbpedia.org/resource/Stomach,http://dbpedia.org/resource/Mid-gut http://dbpedia.org/resource/Mesenteron http://dbpedia.org/resource/Midgut http://dbpedia.org/resource/Midguts
+1,24,Midgut,http://dbpedia.org/resource/Stomach,http://dbpedia.org/resource/Mid-gut http://dbpedia.org/resource/Mesenteron http://dbpedia.org/resource/Midgut http://dbpedia.org/resource/Midguts

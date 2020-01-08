@@ -1,0 +1,4 @@
+F1: 0.89474,Precision: 0.89474,Recall: 0.89474,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,7,The Inbetweeners,http://dbpedia.org/resource/The_Inbetweeners,http://dbpedia.org/resource/Alex_Frnka http://dbpedia.org/resource/Bubba_Lewis http://dbpedia.org/resource/The_Inbetweeners_(US_TV_series) http://dbpedia.org/resource/The_Inbetweeners_USA http://dbpedia.org/resource/The_Inbetweeners_(U.S._TV_series)
+0,13,Under One Roof,http://dbpedia.org/resource/Under_One_Roof_(1995_TV_series),http://dbpedia.org/resource/Under_One_Roof_(2008_TV_series)

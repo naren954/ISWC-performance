@@ -1,0 +1,39 @@
+F1: 0.68644,Precision: 0.68644,Recall: 0.68644,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,USS Shark,http://dbpedia.org/resource/USS_Shark_(SS-314),http://dbpedia.org/resource/SSN-591 http://dbpedia.org/resource/USS_Shark_(SSN-591)
+0,2,USS Shark,http://dbpedia.org/resource/USS_Shark_(SS-314),http://dbpedia.org/resource/USS_A-7 http://dbpedia.org/resource/USS_Shark_(SS-8) http://dbpedia.org/resource/USS_A-7_(SS-8)
+0,3,USS Shark,http://dbpedia.org/resource/USS_Shark_(SS-314),http://dbpedia.org/resource/USS_Shark_(SS-174) http://dbpedia.org/resource/SS-174
+0,6,USS Shamrock,http://dbpedia.org/resource/USS_Shamrock_Bay,http://dbpedia.org/resource/USS_Shamrock_(1863) http://dbpedia.org/resource/USS_Shamrock
+0,10,USS Shad,http://dbpedia.org/resource/USS_Shad_(SP-551),http://dbpedia.org/resource/USS_Shad_(SS-235) http://dbpedia.org/resource/SS-235
+0,13,USS Severn,http://dbpedia.org/resource/USS_Severn_(AO-61),http://dbpedia.org/resource/USS_Chesapeake_(1898) http://dbpedia.org/resource/USS_Severn_(1898)
+0,14,USS Severn,http://dbpedia.org/resource/USS_Severn_(AO-61),http://dbpedia.org/resource/USS_Mosholu_(1867) http://dbpedia.org/resource/USS_Moshula_(1867) http://dbpedia.org/resource/USS_Mosholu http://dbpedia.org/resource/USS_Severn_(1867)
+0,20,USS Sentinel,http://dbpedia.org/resource/USS_Sentinel_(AMCU-39),http://dbpedia.org/resource/Am-113 http://dbpedia.org/resource/USS_Sentinel_(AM-113)
+0,21,USS Seneca,http://dbpedia.org/resource/USS_Seneca_(SP-427),http://dbpedia.org/resource/AT-91 http://dbpedia.org/resource/USS_Seneca_(ATF-91) http://dbpedia.org/resource/USS_Seneca_(AT-91)
+0,22,USS Seneca,http://dbpedia.org/resource/USS_Seneca_(SP-427),http://dbpedia.org/resource/USS_Seneca_(1861)
+0,24,USS Seminole,http://dbpedia.org/resource/USS_Seminole_(AKA-104),http://dbpedia.org/resource/USS_Seminole_(AT-65) http://dbpedia.org/resource/YP-284
+0,26,USS Seminole,http://dbpedia.org/resource/USS_Seminole_(AKA-104),http://dbpedia.org/resource/USS_Seminole_(1859)
+0,29,USS Selfridge,http://dbpedia.org/resource/USS_Selfridge_(DD-357),http://dbpedia.org/resource/USS_Selfridge_(DD-320)
+0,38,USS Sebago,http://dbpedia.org/resource/USCGC_Sebago_(WHEC-42),http://dbpedia.org/resource/USS_Sebago http://dbpedia.org/resource/USS_Sebago_(1861)
+0,39,USS Seawolf,http://dbpedia.org/resource/USS_Seawolf_(SS-197),http://dbpedia.org/resource/USS_Seawolf_(SSN-575) http://dbpedia.org/resource/SSN-575
+0,40,USS Seawolf,http://dbpedia.org/resource/USS_Seawolf_(SS-197),http://dbpedia.org/resource/USS_Seawolf_(SSN-21) http://dbpedia.org/resource/USS_Seawolf_(SSN_21) http://dbpedia.org/resource/SSN-21
+0,41,USS Seattle,http://dbpedia.org/resource/USS_Washington_(ACR-11),http://dbpedia.org/resource/AOE-3 http://dbpedia.org/resource/USS_Seattle_(AOE-3)
+0,47,USS Seagull,http://dbpedia.org/resource/USS_Seagull_(AM-30),http://dbpedia.org/resource/USS_Seagull_(YMS-402) http://dbpedia.org/resource/YMS-402 http://dbpedia.org/resource/USS_Seagull_(AMS-55) http://dbpedia.org/resource/USS_Seagull_(MSCO-55) http://dbpedia.org/resource/USS_YMS-402 http://dbpedia.org/resource/USS_Seagull_(MSC(O)-55) http://dbpedia.org/resource/MSC(O)-55
+0,49,USS Seadragon,http://dbpedia.org/resource/USS_Seadragon_(SS-194),http://dbpedia.org/resource/USS_Seadragon_(SSN-584) http://dbpedia.org/resource/SSN-584
+0,54,USS Sea Otter I,http://dbpedia.org/resource/USS_Sea_Otter_(SP-781),http://dbpedia.org/resource/USS_Sea_Otter_I_(IX-51) http://dbpedia.org/resource/USS_Sea_Otter_I
+0,55,USS Sea Otter II,http://dbpedia.org/resource/USS_Sea_Otter_(SP-781),http://dbpedia.org/resource/USS_Sea_Otter_II http://dbpedia.org/resource/USS_Sea_Otter_II_(IX-53)
+0,62,USS Sculpin,http://dbpedia.org/resource/USS_Sculpin_(SS-191),http://dbpedia.org/resource/SSN-590 http://dbpedia.org/resource/USS_Sculpin_(SSN-590)
+0,68,USS Scott,http://dbpedia.org/resource/USS_Scott_(DDG-995),http://dbpedia.org/resource/USS_Scott_(APD-64) http://dbpedia.org/resource/USS_Scott_(DE-214)
+0,70,USS Scoter,http://dbpedia.org/resource/USS_Scoter_(SP-20),http://dbpedia.org/resource/ARM_Melchior_Ocampo_(G16) http://dbpedia.org/resource/AM-381 http://dbpedia.org/resource/USS_Scoter_(AM-381) http://dbpedia.org/resource/MSF-381 http://dbpedia.org/resource/ARM_Ocampo_(G16) http://dbpedia.org/resource/ARM_Ocampo_(C84) http://dbpedia.org/resource/ARM_Melchior_Ocampo_(C84) http://dbpedia.org/resource/ARM_Melchor_Ocampo_(C84) http://dbpedia.org/resource/ARM_Felipe_Xicoténcatl_(P115) http://dbpedia.org/resource/ARM_Melchor_Ocampo_(G16) http://dbpedia.org/resource/ARM_Gutiérrez_Zamora_(G16) http://dbpedia.org/resource/USS_Scoter_(MSF-381)
+0,72,USS Sciota,http://dbpedia.org/resource/USS_Sciota_(1861),http://dbpedia.org/resource/USS_Sciota_(ATA-205) http://dbpedia.org/resource/USS_ATR-132
+0,78,USS Schenectady,http://dbpedia.org/resource/SS_Schenectady,http://dbpedia.org/resource/USS_Schenectady_(LST-1185) http://dbpedia.org/resource/USS_Schenectady http://dbpedia.org/resource/USS_LST-1185
+0,85,USS Savannah,http://dbpedia.org/resource/USS_Savannah_(CL-42),http://dbpedia.org/resource/USS_Savannah_(AS-8) http://dbpedia.org/resource/USS_Savannah_(ID-3015)
+0,86,USS Savannah,http://dbpedia.org/resource/USS_Savannah_(CL-42),http://dbpedia.org/resource/USS_Savannah_(AOR-4)
+0,91,USS Saugus,http://dbpedia.org/resource/USS_Saugus_(LSV-4),http://dbpedia.org/resource/USS_Saugus_(1863) http://dbpedia.org/resource/USS_Centaur_(1863)
+0,95,USS Satterlee,http://dbpedia.org/resource/USS_Satterlee_(DD-190),http://dbpedia.org/resource/USS_Satterlee_(DD-626)
+0,102,USS Sargo,http://dbpedia.org/resource/USS_Sargo_(SS-188),http://dbpedia.org/resource/SSN-583 http://dbpedia.org/resource/USS_Sargo_(SSN-583)
+0,104,USS Sargent Bay,http://dbpedia.org/resource/USS_Oyster_Bay_(AGP-6),http://dbpedia.org/resource/USS_Sargent_Bay http://dbpedia.org/resource/USS_Sargent_Bay_(ACV-83) http://dbpedia.org/resource/USS_Sargent_Bay_(CVU-83) http://dbpedia.org/resource/USS_Sargent_Bay_(CVE-83) http://dbpedia.org/resource/USS_Sargent_Bay_(AVG-83)
+0,106,USS Saratoga,http://dbpedia.org/resource/USS_Saratoga_(CV-3),http://dbpedia.org/resource/USS_Saratoga_(CVA_60) http://dbpedia.org/resource/USS_Saratoga_(CVA-60) http://dbpedia.org/resource/CV_60 http://dbpedia.org/resource/CVA-60 http://dbpedia.org/resource/CV-60 http://dbpedia.org/resource/USS_Saratoga_(CV60) http://dbpedia.org/resource/CVA60 http://dbpedia.org/resource/USS_Saratoga_(CVA60) http://dbpedia.org/resource/USS_Saratoga_(CV_60) http://dbpedia.org/resource/USS_Saratoga_(CV-60) http://dbpedia.org/resource/CVB-60 http://dbpedia.org/resource/USS_Saratoga_(CVB-60) http://dbpedia.org/resource/USS_Saratoga_(CVB_60) http://dbpedia.org/resource/USS_Saratoga_(CVB60) http://dbpedia.org/resource/CVB60 http://dbpedia.org/resource/CVB_60 http://dbpedia.org/resource/CVA_60 http://dbpedia.org/resource/CV60
+0,107,USS Saratoga,http://dbpedia.org/resource/USS_Saratoga_(CV-3),http://dbpedia.org/resource/USS_Saratoga_(1842)
+0,109,USS Saranac,http://dbpedia.org/resource/USS_Saranac_(AO-74),http://dbpedia.org/resource/USS_Saranac_(1848)
+0,112,USS Santee,http://dbpedia.org/resource/USS_Santee_(CVE-29),http://dbpedia.org/resource/USS_Santee_(1855)
+0,117,USS Sangamon,http://dbpedia.org/resource/USS_Sangamon_(CVE-26),http://dbpedia.org/resource/USS_Conestoga_(1862) http://dbpedia.org/resource/USS_Jason_(1869) http://dbpedia.org/resource/USS_Jason_(1862) http://dbpedia.org/resource/USS_Sangamon_(1863) http://dbpedia.org/resource/USS_Sangamon_(1862)

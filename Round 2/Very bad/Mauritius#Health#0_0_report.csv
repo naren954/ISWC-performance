@@ -1,0 +1,9 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,President,http://dbpedia.org/resource/Barack_Obama,http://dbpedia.org/resource/Presidents_of_Mauritius http://dbpedia.org/resource/President_of_the_Republic_of_Mauritius http://dbpedia.org/resource/President_of_Mauritius http://dbpedia.org/resource/President_of_The_Republic_of_Mauritius
+0,2,Prime Minister,http://dbpedia.org/resource/Yes_Minister,http://dbpedia.org/resource/Prime_minister_of_Mauritius http://dbpedia.org/resource/Mauritian_Prime_Minister http://dbpedia.org/resource/Heads_of_Government_of_Mauritius http://dbpedia.org/resource/Prime_Minister_of_Mauritius http://dbpedia.org/resource/Prime_Ministers_of_Mauritius http://dbpedia.org/resource/List_of_Heads_of_Government_of_Mauritius
+0,3,Vice President,http://dbpedia.org/resource/Vice_(magazine),http://dbpedia.org/resource/Vice-President_of_Mauritius http://dbpedia.org/resource/List_of_Vice_Presidents_of_Mauritius http://dbpedia.org/resource/Vice_President_of_Mauritius http://dbpedia.org/resource/Vice_President_of_the_Republic_of_Mauritius
+0,4,Deputy Prime Minister,http://dbpedia.org/resource/Prime_Minister_of_Canada,http://dbpedia.org/resource/Deputy_Prime_Minister_of_Mauritius
+0,5,Chief Justice,http://dbpedia.org/resource/William_Rehnquist,http://dbpedia.org/resource/Supreme_Court_of_Mauritius http://dbpedia.org/resource/Chief_Justice_of_Mauritius
+0,6,Speaker of the National Assembly,http://dbpedia.org/resource/National_Assembly_(Slovenia),http://dbpedia.org/resource/List_of_Speakers_of_the_National_Assembly_of_Mauritius
+0,7,Leader of the Opposition,http://dbpedia.org/resource/Australian_Labor_Party,http://dbpedia.org/resource/Leader_of_the_Opposition_(Mauritius)

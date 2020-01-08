@@ -1,0 +1,4 @@
+F1: 0.66667,Precision: 0.66667,Recall: 0.66667,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,WVIR-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/NBC29.com http://dbpedia.org/resource/W41DT-D http://dbpedia.org/resource/W30CT-D http://dbpedia.org/resource/WVIR-TV http://dbpedia.org/resource/W28BF http://dbpedia.org/resource/WVIR http://dbpedia.org/resource/NBC_29
+1,6,WWCW,http://dbpedia.org/resource/WFXR,http://dbpedia.org/resource/WWCW http://dbpedia.org/resource/WWCW-TV http://dbpedia.org/resource/WWCW_(TV)

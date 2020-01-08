@@ -1,0 +1,7 @@
+F1: 0.64286,Precision: 0.64286,Recall: 0.64286,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Teoponte,http://dbpedia.org/resource/Teoponte,http://dbpedia.org/resource/Teoponte_Airport
+0,7,"Norton, North Carolina",http://dbpedia.org/resource/North_Carolina,"http://dbpedia.org/resource/Norton,_North_Carolina"
+0,9,"Gay, North Carolina",http://dbpedia.org/resource/North_Carolina,"http://dbpedia.org/resource/Gay,_North_Carolina"
+0,10,"Frank, North Carolina",http://dbpedia.org/resource/North_Carolina,"http://dbpedia.org/resource/Frank,_North_Carolina http://dbpedia.org/resource/Frank_Township,_Avery_County,_North_Carolina"
+0,11,Cumbal,http://dbpedia.org/resource/Cumbal,http://dbpedia.org/resource/Cumbal_Volcano

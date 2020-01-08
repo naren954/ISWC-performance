@@ -1,0 +1,52 @@
+F1: 0.71429,Precision: 0.71429,Recall: 0.71429,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,I Want You,http://dbpedia.org/resource/I_Want_You_(Bob_Dylan_song),http://dbpedia.org/resource/I_Want_You_(Janet_Jackson_song)
+0,3,I Should Have Known Better,http://dbpedia.org/resource/I_Should_Have_Known_Better_(Jim_Diamond_song),http://dbpedia.org/resource/I_Should_Have_Known_Better_(The_Beatles_song) http://dbpedia.org/resource/I_Should_Have_Known_Better
+0,10,I Lie Around,http://dbpedia.org/resource/I_Get_Around,http://dbpedia.org/resource/I_Lie_Around
+0,11,I Knew You When,http://dbpedia.org/resource/I_Knew_You_When_(song),http://dbpedia.org/resource/I_Knew_You_When
+0,12,I Have My Life,http://dbpedia.org/resource/I_Wish_You_Could_Have_Turned_My_Head_(And_Left_My_Heart_Alone),http://dbpedia.org/resource/I_Have_My_Life
+0,13,I Got a Woman,http://dbpedia.org/resource/Ain't_No_Woman_(Like_the_One_I've_Got),http://dbpedia.org/resource/I_Got_A_Woman http://dbpedia.org/resource/I've_Got_a_Woman http://dbpedia.org/resource/I_Got_a_Woman_(The_Beatles_song) http://dbpedia.org/resource/I_Got_a_Woman
+0,15,I Get Around,http://dbpedia.org/resource/I_Get_Around,http://dbpedia.org/resource/I_Get_Around_(2Pac_song) http://dbpedia.org/resource/I_Get_Around_(Tupac_Shakur_song)
+0,18,I Don't Know Why,http://dbpedia.org/resource/My_Cherie_Amour_(song),http://dbpedia.org/resource/Don't_Know_Why_I_Love_You http://dbpedia.org/resource/I_Don't_Know_Why_I_Love_You http://dbpedia.org/resource/I_Don't_Know_Why
+0,19,I Don't Care Anymore,http://dbpedia.org/resource/I_Don't_Care_Anymore,http://dbpedia.org/resource/I_Don't_Care_Anymore_(George_Harrison_song)
+0,20,I Don't Care,http://dbpedia.org/resource/I_Don't_Care_(Ricky_Martin_song),http://dbpedia.org/resource/I_Don't_Care_(If_Tomorrow_Never_Comes)
+0,25,I Belong to You,http://dbpedia.org/resource/I_Belong_to_You_(Whitney_Houston_song),http://dbpedia.org/resource/I_Belong_to_You_(Nikki_Sudden_song)
+0,33,I'm a Man,http://dbpedia.org/resource/I'm_a_Man_(Bo_Diddley_song),http://dbpedia.org/resource/I'm_a_Man_(Spencer_Davis_Group_song) http://dbpedia.org/resource/I'm_A_Man_(Chicago_song) http://dbpedia.org/resource/I'm_a_Man_(The_Spencer_Davis_Group_song) http://dbpedia.org/resource/I'm_A_Man_(Spencer_Davis_Group_song)
+0,35,"I'm Sorry For You, My Friend","http://dbpedia.org/resource/I'm_Sorry_for_You,_My_Friend","http://dbpedia.org/resource/I'm_Sorry_For_You,_My_Friend"
+0,37,I'm Sorry,http://dbpedia.org/resource/I'm_Sorry_(John_Denver_song),http://dbpedia.org/resource/I'm_Sorry_(Brenda_Lee_song)
+0,42,I'm Down,http://dbpedia.org/resource/I'm_Goin'_Down,http://dbpedia.org/resource/I'm_Down_(The_Beatles_song) http://dbpedia.org/resource/I'm_Down
+0,45,I'll Try Anything,http://dbpedia.org/resource/You_Only_Live_Once_(The_Strokes_song),http://dbpedia.org/resource/I'll_Try_Anything
+0,47,I'll Go Crazy,http://dbpedia.org/resource/I'll_Go_Crazy_(Andy_Griggs_song),http://dbpedia.org/resource/I'll_Go_Crazy_(James_Brown_song)
+0,48,I'll Get You,http://dbpedia.org/resource/I'll_Be_There_for_You/You're_All_I_Need_to_Get_By,http://dbpedia.org/resource/I'll_Get_You http://dbpedia.org/resource/I'll_Get_You_(The_Beatles_song)
+0,51,I'll Be Your Mirror,http://dbpedia.org/resource/I'll_Be_Your_Shelter,http://dbpedia.org/resource/I'll_Be_Your_Mirror
+0,52,I'll Be Around,http://dbpedia.org/resource/I'll_Be_Around_(Rappin'_4-Tay_song),http://dbpedia.org/resource/I'll_Be_Around_(1972_song) http://dbpedia.org/resource/I'll_Be_Around_(The_Spinners_song)
+0,53,I'll Always Love You,http://dbpedia.org/resource/I_Will_Always_Love_You,http://dbpedia.org/resource/I'll_Always_Love_You_(Taylor_Dayne_song)
+0,54,I'd Still Want You,http://dbpedia.org/resource/Still_Want_You,http://dbpedia.org/resource/I'd_Still_Want_You
+0,57,Hurt So Bad,http://dbpedia.org/resource/Hurts_So_Bad,http://dbpedia.org/resource/Hurt_So_Bad
+0,63,How Come U Don't Call Me Anymore?,http://dbpedia.org/resource/Merciless_(Stephanie_Mills_album),http://dbpedia.org/resource/How_Come_U_Don't_Call_Me_Anymore?
+0,68,Hot Dog,http://dbpedia.org/resource/Chocolate_Starfish_and_the_Hot_Dog_Flavored_Water,http://dbpedia.org/resource/Hot_Dog_(song)
+0,70,Honey,http://dbpedia.org/resource/Honey_(Mariah_Carey_song),http://dbpedia.org/resource/Honey_(I_Miss_You) http://dbpedia.org/resource/Honey_(I_miss_you) http://dbpedia.org/resource/Honey_(Bobby_Goldsboro_song)
+0,82,Here We Go,http://dbpedia.org/resource/Here_We_Go_(NSYNC_song),http://dbpedia.org/resource/Here_We_Go_(Trina_song)
+0,86,Help Yourself,http://dbpedia.org/resource/Help_Yourself_(Tom_Jones_song),http://dbpedia.org/resource/Help_Yourself_(Amy_Winehouse_song)
+0,88,Hello,http://dbpedia.org/resource/Hello_(Masaharu_Fukuyama_song),http://dbpedia.org/resource/Hello_(Turn_Your_Radio_On)_(Queensberry_song) http://dbpedia.org/resource/Hello_(Turn_Your_Radio_On)
+0,89,Hell Yes,http://dbpedia.org/resource/Hell_Yes_(Beck_song),http://dbpedia.org/resource/Hell_Yes_(Alkaline_Trio_Song) http://dbpedia.org/resource/Hell_Yes_EP http://dbpedia.org/resource/Hell_Yes_(Alkaline_Trio_song) http://dbpedia.org/resource/Hell_Yes_(Alkaline_Trio_EP)
+0,92,Heaven Sent,http://dbpedia.org/resource/Heaven_Sent_(Paul_Haig_song),http://dbpedia.org/resource/Heaven_Sent_(Esthero_song)
+0,94,Heaven Knows,http://dbpedia.org/resource/Heaven_Knows_(Taylor_Hicks_song),http://dbpedia.org/resource/Heaven_Knows_(Robert_Plant_song)
+0,98,Heart Trouble,http://dbpedia.org/resource/Heart_Trouble_(Steve_Wariner_song),http://dbpedia.org/resource/Heart_Trouble/That_Was_My_Girl http://dbpedia.org/resource/Heart_Trouble_(The_Parliaments_song)
+0,100,Head On,http://dbpedia.org/resource/Head_On_(Samson_album),http://dbpedia.org/resource/Head_On_(song) http://dbpedia.org/resource/Head_On_(Pixies_single) http://dbpedia.org/resource/Head_On_(The_Jesus_and_Mary_Chain_single)
+0,103,Happy Man,http://dbpedia.org/resource/Squirrel_and_G-Man_Twenty_Four_Hour_Party_People_Plastic_Face_Carnt_Smile_(White_Out),http://dbpedia.org/resource/Happy_Man_(Sunnyboys_song)
+0,104,Hammerhead,http://dbpedia.org/resource/Hammerhead_(The_Offspring_song),http://dbpedia.org/resource/Hammerhead_(James_Reyne_song)
+0,105,Hammer the Hammer,"http://dbpedia.org/resource/Please_Hammer,_Don't_Hurt_'Em",http://dbpedia.org/resource/Hammer_the_Hammer
+0,118,Goodbye,http://dbpedia.org/resource/Goodbye_(Spice_Girls_song),http://dbpedia.org/resource/Goodbye_(Astrid_Goodbye)
+0,128,Goin' Down,http://dbpedia.org/resource/Goin'_Down_(Melanie_C_song),http://dbpedia.org/resource/Goin'_Down_(The_Monkees_song)
+0,129,God Only Knows,http://dbpedia.org/resource/God_Only_Knows_(MKTO_song),http://dbpedia.org/resource/God_Only_Knows http://dbpedia.org/resource/God_Only_Knows_What_I’d_Be_Without_You http://dbpedia.org/resource/The_Impossible_Orchestra http://dbpedia.org/resource/God_only_knows http://dbpedia.org/resource/God_Only_Knows_(The_Beach_Boys_song)
+0,131,Go-Go,http://it.dbpedia.org/resource/GoGoGo_(Single),http://dbpedia.org/resource/Go-Go_(Alphabeat_song)
+0,133,Gloria,http://dbpedia.org/resource/Gloria!,http://dbpedia.org/resource/Gloria_(Them_Song) http://dbpedia.org/resource/Gloria_(Van_Morrison_song) http://dbpedia.org/resource/G-L-O-R-I-A http://dbpedia.org/resource/Gloria_(The_Doors_song) http://dbpedia.org/resource/Gloria_(Them_song) http://dbpedia.org/resource/Gloria_(Shadows_of_Knight_song) http://dbpedia.org/resource/Gloria_(Patti_Smith_song)
+0,153,Freedom,http://dbpedia.org/resource/Freedom!_'90,http://dbpedia.org/resource/Freedom_(Noiseworks_song)
+0,154,Free Me,http://dbpedia.org/resource/Free_Me_(Joss_Stone_song),http://dbpedia.org/resource/Free_Me_(Roger_Daltrey_song) http://dbpedia.org/resource/Free_Me_(Daltrey_song)
+0,156,Freaks,http://dbpedia.org/resource/Freaks_(Live_song),http://dbpedia.org/resource/Freaks_(Marillion_song)
+0,159,Forever Young,http://dbpedia.org/resource/Forever_Young_(Bob_Dylan_song),http://dbpedia.org/resource/Forever_Young_(Youth_Group_song) http://dbpedia.org/resource/Forever_Young_(Alphaville_song) http://dbpedia.org/resource/Fur_immer_jung http://dbpedia.org/resource/Förevigt_nu http://dbpedia.org/resource/Forevigt_nu http://dbpedia.org/resource/Foerevigt_nu
+0,160,Forever Love,http://dbpedia.org/resource/Forever_Love_(X_Japan_song),http://dbpedia.org/resource/Forever_Love_(Gary_Barlow_song)
+0,161,Forever,"http://dbpedia.org/resource/Forever_(Drake,_Kanye_West,_Lil_Wayne,_and_Eminem_song)",http://dbpedia.org/resource/Forever_(The_Beach_Boys_song) http://dbpedia.org/resource/Forever_(Beach_Boys_song)
+0,166,Fools,http://fr.dbpedia.org/resource/Fool,http://dbpedia.org/resource/Fools_(Alphaville_song)
+0,170,Flower,http://dbpedia.org/resource/Flower_(Soundgarden_song),http://dbpedia.org/resource/Flower_(Atsuko_Maeda) http://dbpedia.org/resource/Flower_(Atsuko_Maeda_song)

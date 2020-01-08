@@ -1,0 +1,7 @@
+F1: 0.16667,Precision: 0.16667,Recall: 0.16667,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,2,Blackburn Rovers,http://dbpedia.org/resource/Blackburn_Rovers_F.C.,http://dbpedia.org/resource/Blackburn_Rovers_F.C._(South_Africa) http://dbpedia.org/resource/Blackburn_Rovers_FC_(South_Africa)
+1,4,Blackburn Rovers,http://dbpedia.org/resource/Blackburn_Rovers_F.C.,http://dbpedia.org/resource/Blackburn_Rovers_F.C._(South_Africa) http://dbpedia.org/resource/Blackburn_Rovers_FC_(South_Africa)
+1,11,Blackburn Rovers,http://dbpedia.org/resource/Blackburn_Rovers_F.C.,http://dbpedia.org/resource/Blackburn_Rovers_F.C._(South_Africa) http://dbpedia.org/resource/Blackburn_Rovers_FC_(South_Africa)
+1,12,Blackburn Rovers,http://dbpedia.org/resource/Blackburn_Rovers_F.C.,http://dbpedia.org/resource/Blackburn_Rovers_F.C._(South_Africa) http://dbpedia.org/resource/Blackburn_Rovers_FC_(South_Africa)
+1,13,Buffalo,http://dbpedia.org/resource/University_at_Buffalo,http://dbpedia.org/resource/F.C._Buffalo_(South_Africa) http://dbpedia.org/resource/FC_Buffalo_(South_Africa)

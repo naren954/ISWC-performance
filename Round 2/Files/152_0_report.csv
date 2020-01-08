@@ -1,0 +1,5 @@
+"F1: 0.92683","Precision: 0.92683","Recall: 0.92683"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","22","A. Carlsson","http://dbpedia.org/resource/Allan_Carlsson","http://dbpedia.org/resource/Allan_Carlsson_(cyclist)"
+"0","32","A. Rüegg","http://dbpedia.org/resource/Anny_Rüegg","http://dbpedia.org/resource/Alfred_Ruegg http://dbpedia.org/resource/Alfred_Rüegg http://dbpedia.org/resource/Fredy_Rüegg"
+"0","34","A. Rüegg","http://dbpedia.org/resource/Anny_Rüegg","http://dbpedia.org/resource/Alfred_Ruegg http://dbpedia.org/resource/Alfred_Rüegg http://dbpedia.org/resource/Fredy_Rüegg"

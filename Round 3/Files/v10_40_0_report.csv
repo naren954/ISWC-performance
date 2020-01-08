@@ -1,0 +1,6 @@
+"F1: 0.88571","Precision: 0.88571","Recall: 0.88571"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","5","P. "". Williams","http://dbpedia.org/resource/P._J._Williams","http://dbpedia.org/resource/Paul_(Billy)_Williams http://dbpedia.org/resource/Paul_""Billy""_Williams"
+"0","16","O. Johnson","http://dbpedia.org/resource/Ollie_Johnson_(basketball,_born_1949)","http://dbpedia.org/resource/Osiah_Johnson http://dbpedia.org/resource/Ozias_Johnson http://dbpedia.org/resource/Osias_Johnson http://dbpedia.org/resource/Osiaz_Johnson"
+"0","21","O. Caldwell","http://dbpedia.org/resource/Andre_Caldwell","http://dbpedia.org/resource/Otis_Caldwell_(football_coach) http://dbpedia.org/resource/Otis_William_Caldwell http://dbpedia.org/resource/Otis_Caldwell"
+"0","30","O. Landreth","http://dbpedia.org/resource/Larry_Landreth","http://dbpedia.org/resource/Orian_Landreth"

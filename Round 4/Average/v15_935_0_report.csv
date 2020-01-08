@@ -1,0 +1,10 @@
+F1: 0.66667,Precision: 0.66667,Recall: 0.66667,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,4,C. Cameron,http://dbpedia.org/resource/Clyde_Cameron,http://dbpedia.org/resource/Cyril_St_Clair_Cameron http://dbpedia.org/resource/Cyril_St._Clair_Cameron http://dbpedia.org/resource/Cyril_Cameron
+0,5,C. Rankin,http://dbpedia.org/resource/Christopher_Rankin,http://dbpedia.org/resource/Colin_Rankin http://dbpedia.org/resource/Colin_Dunlop_Wilson_Rankin
+0,8,C. Nicholson,"http://dbpedia.org/resource/Emma_Nicholson,_Baroness_Nicholson_of_Winterbourne","http://dbpedia.org/resource/Sir_Charles_Nicholson http://dbpedia.org/resource/Nicholson,_Charles http://dbpedia.org/resource/Sir_Charles_Nicholson,_1st_Baronet,_of_Luddenham http://dbpedia.org/resource/Sir_Charles_Nicholson,_1st_Baronet http://dbpedia.org/resource/Charles_Nicholson"
+0,9,C. Lee,http://dbpedia.org/resource/Christopher_Lee,http://dbpedia.org/resource/Charles_Lee_(Australian_politician)
+0,10,C. Jones,http://dbpedia.org/resource/Casey_Jones_(politician),http://dbpedia.org/resource/Charles_Jones_(Australian_politician) http://dbpedia.org/resource/Charles_Keith_Jones
+0,15,B. K. Sr.,http://dbpedia.org/resource/Bob_Katter_Sr.,"http://dbpedia.org/resource/Bob_Katter,_senior http://dbpedia.org/resource/Robert_Katter http://dbpedia.org/resource/Bob_Katter,_Sr."
+0,20,B. James,http://dbpedia.org/resource/Bertram_James,"http://dbpedia.org/resource/Albert_William_James http://dbpedia.org/resource/Bert_James http://dbpedia.org/resource/Albert_James http://dbpedia.org/resource/James,_Bert"
+0,22,B. Courtice,http://dbpedia.org/resource/Brian_Courtice,http://dbpedia.org/resource/Ben_Courtice http://dbpedia.org/resource/Benjamin_Courtice

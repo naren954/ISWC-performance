@@ -1,0 +1,15 @@
+F1: 0.81690,Precision: 0.81690,Recall: 0.81690,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,12,J. O'Brien,"http://dbpedia.org/resource/Jim_O'Brien_(basketball,_born_1950)",http://dbpedia.org/resource/Jim_O'Brien_(ice_hockey) http://dbpedia.org/resource/James_O'Brien_(ice_hockey)
+0,13,J. Pettersson,http://dbpedia.org/resource/Jörgen_Pettersson_(ice_hockey),http://dbpedia.org/resource/Jesper_Pettersson
+0,20,J. Campbell,http://dbpedia.org/resource/Jonathan_Campbell_(soccer),http://dbpedia.org/resource/Jack_Campbell_(ice_hockey)
+0,29,G. Wilson,"http://dbpedia.org/resource/George_Wilson_(basketball,_born_1942)",http://dbpedia.org/resource/Garrett_Wilson
+0,31,F. Beaubien,http://fr.dbpedia.org/resource/Frédérik_Beaubien,http://dbpedia.org/resource/Frederik_Beaubien http://dbpedia.org/resource/Frederik_Beaubein
+0,34,E. Karlsson,http://dbpedia.org/resource/Erik_Karlsson,"http://dbpedia.org/resource/Erik_Karlsson_(ice_hockey,_born_1994) http://dbpedia.org/resource/Erik_Karlsson_(ice_hockey_b._1994)"
+0,40,D. Guryanov,http://dbpedia.org/resource/D._D._Jackson,http://dbpedia.org/resource/Denis_Gurianov http://dbpedia.org/resource/Denis_Guryanov
+0,51,C. Brown,http://dbpedia.org/resource/Coretta_Brown,http://dbpedia.org/resource/Chris_Brown_(ice_hockey)
+0,57,B. Sutter,http://dbpedia.org/resource/Brandon_Sutter,http://dbpedia.org/resource/Brody_Sutter
+0,60,B. Ryan,http://dbpedia.org/resource/Bobby_Ryan,http://dbpedia.org/resource/Ben_Ryan_(ice_hockey)
+0,62,A. Forsberg,http://dbpedia.org/resource/Peter_Forsberg,http://dbpedia.org/resource/Anton_Forsberg
+0,65,A. Campbell,http://dbpedia.org/resource/Alex_Campbell_(ice_hockey),http://dbpedia.org/resource/Andrew_Campbell_(ice_hockey) http://dbpedia.org/resource/Soupy_Campbell
+0,70,A. Friesen,http://dbpedia.org/resource/Jeff_Friesen,http://dbpedia.org/resource/Alex_Friesen

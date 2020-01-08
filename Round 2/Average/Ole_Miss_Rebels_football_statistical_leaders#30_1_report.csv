@@ -1,0 +1,3 @@
+F1: 0.66667,Precision: 0.66667,Recall: 0.66667,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,4,Ben Williams,"http://dbpedia.org/resource/Ben_Williams_(American_football,_born_1970)","http://dbpedia.org/resource/Ben_Williams_(American_football,_born_1954)"

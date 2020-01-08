@@ -1,0 +1,9 @@
+F1: 0.73077,Precision: 0.73077,Recall: 0.73077,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,3,T. Wu,http://dbpedia.org/resource/Wu_Ta-You,http://dbpedia.org/resource/Ting_Wu
+2,5,B. Meijer,http://dbpedia.org/resource/Bert_Meijer,http://dbpedia.org/resource/Berthe_Meijer
+2,6,A. Howard,http://dbpedia.org/resource/William_Howard_Taft,http://dbpedia.org/resource/Albert_Howard http://dbpedia.org/resource/Sir_Albert_Howard
+2,13,C. Hamburger,http://dbpedia.org/resource/Viktor_Hamburger,http://dbpedia.org/resource/Cao_Hamburger
+2,17,T. L. Hodgkin,http://dbpedia.org/resource/Alan_Hodgkin,http://dbpedia.org/resource/Thomas_Lionel_Hodgkin
+2,21,G. Finlayson,http://dbpedia.org/resource/Clive_Finlayson,http://dbpedia.org/resource/Geraldine_Finlayson
+2,24,E. Jung,http://dbpedia.org/resource/Carl_Jung,http://dbpedia.org/resource/Emma_Rauschenbach http://dbpedia.org/resource/Emma_Jung

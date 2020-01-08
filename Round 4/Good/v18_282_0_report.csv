@@ -1,0 +1,4 @@
+F1: 0.93750,Precision: 0.93750,Recall: 0.93750,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,11,A. Simon,http://dbpedia.org/resource/Abe_Simon,http://dbpedia.org/resource/Andre_Simon_(racing_driver) http://dbpedia.org/resource/André_Simon_(racing_driver)
+0,16,A. Simon,http://dbpedia.org/resource/Abe_Simon,http://dbpedia.org/resource/Andre_Simon_(racing_driver) http://dbpedia.org/resource/André_Simon_(racing_driver)

@@ -1,0 +1,7 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+6,1,Hughes,"http://dbpedia.org/resource/Hughes_County,_South_Dakota",http://dbpedia.org/resource/Michael_Hughes_(footballer) http://dbpedia.org/resource/Michael_Hughes_(soccer_player)
+6,2,"Cort, Earle (2)",http://dbpedia.org/resource/Cort_Theatre,http://dbpedia.org/resource/Carl_Cort
+6,3,Cort (3),http://dbpedia.org/resource/Les_Corts_(district),http://dbpedia.org/resource/Carl_Cort
+6,4,"Kimble, Euell","http://dbpedia.org/resource/Kimble_County,_Texas",http://dbpedia.org/resource/Alan_Kimble
+6,5,Cort,http://dbpedia.org/resource/Courmayeur,http://dbpedia.org/resource/Carl_Cort

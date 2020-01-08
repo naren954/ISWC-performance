@@ -1,0 +1,36 @@
+F1: 0.46032,Precision: 0.46032,Recall: 0.46032,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,2,N. Farm,http://dbpedia.org/resource/George_Farm,http://dbpedia.org/resource/Newstead_Farm
+3,6,H. d. Quesnay,http://dbpedia.org/resource/H._D._Revanna,http://dbpedia.org/resource/Haras_du_Quesnay http://dbpedia.org/resource/Ghislaine_Head
+3,7,J. Bolger,http://dbpedia.org/resource/Jim_Bolger,http://dbpedia.org/resource/James_S._Bolger http://dbpedia.org/resource/Jim_Bolger_(racehorse_trainer)
+3,8,A. B. Jr.,http://dbpedia.org/resource/George_W._Bush,"http://dbpedia.org/resource/August_Belmont,_Junior http://dbpedia.org/resource/August_Belmont_Jr http://dbpedia.org/resource/August_Belmont,_Jr. http://dbpedia.org/resource/Blemton_Stable http://dbpedia.org/resource/August_Belmont_II http://dbpedia.org/resource/August_Belmont_Jr. http://dbpedia.org/resource/August_Belmont_Junior http://dbpedia.org/resource/August_Belmont,_Jr"
+3,9,J. Farms,http://dbpedia.org/resource/Göran_Färm,http://dbpedia.org/resource/Juddmonte_Stud http://dbpedia.org/resource/Juddmonte_Farm http://dbpedia.org/resource/Juddmonte_Farms
+3,10,J. Farms,http://dbpedia.org/resource/Göran_Färm,http://dbpedia.org/resource/Juddmonte_Stud http://dbpedia.org/resource/Juddmonte_Farm http://dbpedia.org/resource/Juddmonte_Farms
+3,15,"George FitzRoy, 4th Duke of Grafton","http://dbpedia.org/resource/Augustus_FitzRoy,_3rd_Duke_of_Grafton","http://dbpedia.org/resource/George_Henry_Fitzroy,_4th_Duke_of_Grafton http://dbpedia.org/resource/George_Henry_FitzRoy,_4th_Duke_of_Grafton http://dbpedia.org/resource/George_FitzRoy,_4th_Duke_of_Grafton http://dbpedia.org/resource/4th_Duke_of_Grafton http://dbpedia.org/resource/George_Fitzroy,_4th_Duke_of_Grafton"
+3,20,J. Farms,http://dbpedia.org/resource/Göran_Färm,http://dbpedia.org/resource/Juddmonte_Stud http://dbpedia.org/resource/Juddmonte_Farm http://dbpedia.org/resource/Juddmonte_Farms
+3,21,J. Farms,http://dbpedia.org/resource/Göran_Färm,http://dbpedia.org/resource/Juddmonte_Stud http://dbpedia.org/resource/Juddmonte_Farm http://dbpedia.org/resource/Juddmonte_Farms
+3,22,C. Farm,http://dbpedia.org/resource/George_Farm,http://dbpedia.org/resource/Calumet_Farm http://dbpedia.org/resource/Calumet_farm http://dbpedia.org/resource/Calumet_Farms
+3,23,"Sir John Rutherford, 1st Baronet","http://dbpedia.org/resource/Sir_John_Orde,_1st_Baronet","http://dbpedia.org/resource/John_Rutherford_(British_politician) http://dbpedia.org/resource/Sir_John_Rutherford,_1st_Baronet http://dbpedia.org/resource/John_Rutherford,_1st_Baronet http://dbpedia.org/resource/John_Rutherford_Chalmers"
+3,24,J. Moss,http://dbpedia.org/resource/Jeremy_Moss,http://dbpedia.org/resource/Jerry_S._Moss http://dbpedia.org/resource/Jerry_Moss
+3,26,K. H. Stable,http://de.dbpedia.org/resource/K._H._Türk,http://dbpedia.org/resource/Knob_Hill_Stable http://dbpedia.org/resource/Knob_Hill_Stables
+3,28,W. Farm,http://dbpedia.org/resource/George_Farm,http://dbpedia.org/resource/Windfields_Farm
+3,29,J. Bolger,http://dbpedia.org/resource/Jim_Bolger,http://dbpedia.org/resource/James_S._Bolger http://dbpedia.org/resource/Jim_Bolger_(racehorse_trainer)
+3,30,D. Stud,http://dbpedia.org/resource/Bernhard_Studer,http://dbpedia.org/resource/Dalham_Hall_Stud http://dbpedia.org/resource/Darley_stud http://dbpedia.org/resource/Kildangan_Stud http://dbpedia.org/resource/Darley_Stud
+3,34,G. Farm,http://dbpedia.org/resource/Göran_Färm,http://dbpedia.org/resource/Gainesway_Farm
+3,35,S. Stud,http://dbpedia.org/resource/Bernhard_Studer,http://dbpedia.org/resource/Shadwell_Thoroughbred_racing http://dbpedia.org/resource/Shadwell_Stable http://dbpedia.org/resource/Elmswell_Park_Stud http://dbpedia.org/resource/Shadwell_Estate http://dbpedia.org/resource/Kingwood_House_Stables http://dbpedia.org/resource/Shadwell_Farm http://dbpedia.org/resource/Derrinstown_Stud http://dbpedia.org/resource/Salsabil_Stud http://dbpedia.org/resource/Shadwell_Racing http://dbpedia.org/resource/Shadwell_Stud
+3,40,C. Farm,http://dbpedia.org/resource/George_Farm,http://dbpedia.org/resource/Claiborne_Farm
+3,42,L. G. Bentinck,http://dbpedia.org/resource/Lord_William_Bentinck,http://dbpedia.org/resource/Lord_George_Bentinck
+3,43,O. Farm,http://dbpedia.org/resource/George_Farm,http://dbpedia.org/resource/Overbrook_Farm http://dbpedia.org/resource/William_T._Young
+3,44,L. Piggott,http://dbpedia.org/resource/Arthur_Piggott,http://dbpedia.org/resource/Lester_Piggott http://dbpedia.org/resource/Lester_Keith_Piggott http://dbpedia.org/resource/Lester_Pigott http://dbpedia.org/resource/Lester_Piggot
+3,46,J. Farms,http://dbpedia.org/resource/Göran_Färm,http://dbpedia.org/resource/Juddmonte_Stud http://dbpedia.org/resource/Juddmonte_Farm http://dbpedia.org/resource/Juddmonte_Farms
+3,47,"Edward Stanley, 17th Earl of Derby","http://dbpedia.org/resource/Edward_Smith-Stanley,_14th_Earl_of_Derby","http://dbpedia.org/resource/Edward_George_Villiers_Stanley,_17th_Earl_of_Derby http://dbpedia.org/resource/Stanley,_Edward_George_Villiers,_17th_Earl_of_Derby http://dbpedia.org/resource/Edward_George_Villiers_Stanley http://dbpedia.org/resource/17th_Earl_of_Derby http://dbpedia.org/resource/Edward_Stanley_17th_Earl_of_Derby http://dbpedia.org/resource/Edward_George_Villiers,_17th_Earl_of_Derby_Stanley http://dbpedia.org/resource/Edward_Stanley,_17th_Earl_of_Derby"
+3,48,B. Stud,http://dbpedia.org/resource/Bernhard_Studer,http://dbpedia.org/resource/Ballymacoll_Stud
+3,51,N. Stud,http://dbpedia.org/resource/Bernhard_Studer,http://dbpedia.org/resource/Normandie_Stud
+3,53,W. Stable,http://dbpedia.org/resource/Ken_Stabler,http://dbpedia.org/resource/Wheatley_Stable http://dbpedia.org/resource/Wheatley_Stables
+3,54,X. Farm,http://dbpedia.org/resource/George_Farm,http://dbpedia.org/resource/Xalapa_Farm
+3,55,A. E. Paulson,http://dbpedia.org/resource/David_E._Paulson,http://dbpedia.org/resource/Allen_E._Paulson http://dbpedia.org/resource/Allen_Paulson
+3,56,William S. Farish III,http://dbpedia.org/resource/George_III_of_the_United_Kingdom,http://dbpedia.org/resource/William_Stamps_Farish_III http://dbpedia.org/resource/William_S_Farish http://dbpedia.org/resource/William_S._Farish_III http://dbpedia.org/resource/William_Farish_III
+3,60,W. Farm,http://dbpedia.org/resource/George_Farm,http://dbpedia.org/resource/Windfields_Farm
+3,61,G. Stable,http://dbpedia.org/resource/Ken_Stabler,http://dbpedia.org/resource/Greentree_Stables http://dbpedia.org/resource/Greentree_Stable http://dbpedia.org/resource/Greentree_Farm
+3,62,K. Farms,http://dbpedia.org/resource/George_Farm,http://dbpedia.org/resource/Kinghaven_Farms http://dbpedia.org/resource/Kinghaven_Farm
+3,63,A. Springs,http://dbpedia.org/resource/Christopher_Spring,http://dbpedia.org/resource/Adena_Springs_Farms http://dbpedia.org/resource/Adena_Springs_South http://dbpedia.org/resource/Adena_Springs http://dbpedia.org/resource/Adena_Springs_Farm

@@ -1,0 +1,6 @@
+F1: 0.76471,Precision: 0.76471,Recall: 0.76471,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,5,B. Braga,http://dbpedia.org/resource/Teófilo_Braga,"http://dbpedia.org/resource/Brannon_Braga http://dbpedia.org/resource/Braga,_Brannon"
+3,8,J. Whedon,http://dbpedia.org/resource/Joss_Whedon,http://dbpedia.org/resource/Jed_Whedon
+3,11,M. Pugh,http://dbpedia.org/resource/Maureen_Pugh,http://dbpedia.org/resource/Madelyn_Martin http://dbpedia.org/resource/Madelyn_Pugh http://dbpedia.org/resource/Madelyn_Davis http://dbpedia.org/resource/Madelyn_Pugh_Martin_Davis http://dbpedia.org/resource/Madelyn_Pugh_Davis http://dbpedia.org/resource/Madelyn_Pugh_Martin
+3,16,J. Thorpe,http://dbpedia.org/resource/Ian_Thorpe,http://dbpedia.org/resource/James_Thorpe_(TV_producer) http://dbpedia.org/resource/James_Thorpe_(producer)

@@ -1,0 +1,9 @@
+F1: 0.87500,Precision: 0.87500,Recall: 0.87500,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,P. Mazur,http://dbpedia.org/resource/Włodzimierz_Mazur,http://dbpedia.org/resource/Piotr_Mazur
+0,5,P. Lindau,http://dbpedia.org/resource/Peter_Lindau,http://dbpedia.org/resource/Philip_Lindau
+0,17,P. Manning,http://dbpedia.org/resource/Peyton_Manning,http://dbpedia.org/resource/Paul_Christian_Manning http://dbpedia.org/resource/Paul_Manning_(cycling) http://dbpedia.org/resource/Paul_Manning_(cyclist)
+0,19,P. Shaw,http://dbpedia.org/resource/Peter_Shaw_(footballer),http://dbpedia.org/resource/Pat_Shaw http://dbpedia.org/resource/Patrick_Shaw_(cyclist)
+0,23,P. Sang-hoon,http://dbpedia.org/resource/Lee_Sang-hoon_(baseball),http://dbpedia.org/resource/Park_Sang-hoon
+0,35,O. Pardini,http://it.dbpedia.org/resource/Odoacre_Pardini,http://dbpedia.org/resource/Olivier_Pardini
+0,42,N. Banaszek,http://dbpedia.org/resource/Alan_Banaszek,http://dbpedia.org/resource/Norbert_Banaszek

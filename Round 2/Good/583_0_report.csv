@@ -1,0 +1,12 @@
+F1: 0.80392,Precision: 0.80392,Recall: 0.80392,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,C. P. Smyth,http://dbpedia.org/resource/Charles_Piazzi_Smyth,http://dbpedia.org/resource/Charles_Phelps_Smyth
+0,6,C. G. King,http://dbpedia.org/resource/John_G._King_(physicist),http://dbpedia.org/resource/Charles_Glen_King
+0,8,C. Frank,http://dbpedia.org/resource/Frederick_Charles_Frank,http://dbpedia.org/resource/Charles_Frank_(instrument_maker) http://dbpedia.org/resource/Charles_Frank_(Instrument_Maker)
+0,9,C. F. Wagner,http://dbpedia.org/resource/Robert_F._Wagner_Jr.,http://dbpedia.org/resource/Charles_F._Wagner
+0,10,C. F. Cooper,http://dbpedia.org/resource/Clive_Forster-Cooper,http://dbpedia.org/resource/Charles_F._Cooper_(ecologist)
+0,21,C. Payne-Gaposchkin,http://dbpedia.org/resource/Seth_Payne,"http://dbpedia.org/resource/Cecilia_Helena_Payne_Gaposchkin http://dbpedia.org/resource/Cecilia_Payne-Gaposchkin http://dbpedia.org/resource/Cecilia_Payne-Gasposkin http://dbpedia.org/resource/Cecilia_Payne http://dbpedia.org/resource/Cecilia_Gaposchkin http://dbpedia.org/resource/Cecilia_Helena_Payne http://dbpedia.org/resource/Cecilia_H._Payne http://dbpedia.org/resource/Cecilia_Helena_Payne-Gaposchkin http://dbpedia.org/resource/Payne-Gaposchkin,_Cecilia"
+0,24,C. Lucas,http://dbpedia.org/resource/Charles_Lucas_(architect),http://dbpedia.org/resource/Caro_Lucas
+0,38,C. Bolle,http://dbpedia.org/resource/Roberto_Bolle,http://dbpedia.org/resource/Carl_August_Bolle http://dbpedia.org/resource/Carl_Bolle
+0,41,C. Quensel,http://de.dbpedia.org/resource/Conrad_Quensel_(Astronom),http://dbpedia.org/resource/Carl-Erik_Quensel
+0,49,B. Roosevelt,http://dbpedia.org/resource/Kermit_Roosevelt,http://dbpedia.org/resource/Buddy_Roosevelt

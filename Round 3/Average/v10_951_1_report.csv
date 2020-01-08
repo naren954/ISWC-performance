@@ -1,0 +1,11 @@
+F1: 0.62500,Precision: 0.62500,Recall: 0.62500,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,5,M. Reagan,http://dbpedia.org/resource/Ronald_Reagan,http://dbpedia.org/resource/Michael_Reagan http://dbpedia.org/resource/John_Flaugher http://dbpedia.org/resource/The_Michael_Reagan_Talk_Show
+1,6,I. Maxwell,http://dbpedia.org/resource/Isabel_Maxwell,http://dbpedia.org/resource/Ian_Maxwell
+1,10,S. Simon,http://dbpedia.org/resource/Carly_Simon,http://dbpedia.org/resource/Sheila_Simon
+1,11,J. Palme,http://dbpedia.org/resource/Olof_Palme,http://dbpedia.org/resource/Joakim_Palme
+1,13,L. B. Johnson,http://dbpedia.org/resource/Lyndon_B._Johnson,http://dbpedia.org/resource/Luci_Baines_Johnson http://dbpedia.org/resource/Luci_Turpin http://dbpedia.org/resource/Luci_Baines_Johnson_Turpin http://dbpedia.org/resource/Luci_Nugent http://dbpedia.org/resource/Luci_Johnson
+1,16,P. A. Brown,http://dbpedia.org/resource/P._J._Brown,http://dbpedia.org/resource/Pamela_Brown_(journalist) http://dbpedia.org/resource/Pamela_Ashley_Brown
+1,18,P. Carey,"http://dbpedia.org/resource/John_Carey,_3rd_Baron_Hunsdon",http://dbpedia.org/resource/Paul_Carey_(politician)
+1,20,A. Heinz,,http://dbpedia.org/resource/Andre_Heinz http://dbpedia.org/resource/André_Heinz
+1,21,N. Whitlam,http://dbpedia.org/resource/Tony_Whitlam,http://dbpedia.org/resource/Nicholas_Whitlam

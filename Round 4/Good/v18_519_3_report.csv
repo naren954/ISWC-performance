@@ -1,0 +1,4 @@
+F1: 0.90000,Precision: 0.90000,Recall: 0.90000,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,4,Eva Luna,http://dbpedia.org/resource/Eva_Luna_(horse),http://dbpedia.org/resource/Eva_Luna
+3,18,Storm Tide,http://dbpedia.org/resource/Storm_Uru,http://dbpedia.org/resource/Tidal_surge http://dbpedia.org/resource/Storm_surge http://dbpedia.org/resource/Tidal_surges http://dbpedia.org/resource/Storm_flood http://dbpedia.org/resource/Lake_surge http://dbpedia.org/resource/Extratropical_Storm_Surge http://dbpedia.org/resource/Storm_tide http://dbpedia.org/resource/Storm_Tide http://dbpedia.org/resource/Storm_Surge http://dbpedia.org/resource/Hurricane_tide http://dbpedia.org/resource/Storm_surges http://dbpedia.org/resource/Storm_tides

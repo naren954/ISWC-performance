@@ -1,0 +1,5 @@
+F1: 0.81250,Precision: 0.81250,Recall: 0.81250,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,Philippe Ã\u0089tancelin,http://fr.dbpedia.org/resource/Pierre_Philippe_Urbain_Thomas,http://dbpedia.org/resource/Philippe_Étancelin
+0,14,StanisÅ\u0082as Czaykowski,http://dbpedia.org/resource/Rest_area,http://dbpedia.org/resource/Stanisław_Czaykowski
+0,17,Juan Zanelli,http://dbpedia.org/resource/Renan_Zanelli,http://dbpedia.org/resource/Juan_Zanelli

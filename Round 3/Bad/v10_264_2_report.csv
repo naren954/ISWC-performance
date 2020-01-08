@@ -1,0 +1,8 @@
+F1: 0.50000,Precision: 0.50000,Recall: 0.50000,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,1,D. Quincy,http://dbpedia.org/resource/John_Quincy_Adams,http://dbpedia.org/resource/Dorothy_Hancock http://dbpedia.org/resource/Dorothy_Quincy_Hancock_Scott http://dbpedia.org/resource/Dorothy_Quincy_Hancock http://dbpedia.org/resource/Dolly_Hancock http://dbpedia.org/resource/Dorothy_Quincy
+2,3,J. B. Frémont,http://dbpedia.org/resource/John_C._Frémont,http://dbpedia.org/resource/Jessie_Benton http://dbpedia.org/resource/Jessie_Fremont http://dbpedia.org/resource/Jessie_Ann_Benton_Fremont http://dbpedia.org/resource/Jessie_Frémont http://dbpedia.org/resource/Jessie_Ann_Benton http://dbpedia.org/resource/Jessie_Benton_Frémont http://dbpedia.org/resource/Jessie_Benton_Fremont
+2,5,L. F. Mathews,http://dbpedia.org/resource/Alexander_F._Mathews,http://dbpedia.org/resource/Lucy_Fry_Mathews
+2,8,L. R. Marland,http://dbpedia.org/resource/R._L._Ryan,http://dbpedia.org/resource/Lydie_Roberts_Marland http://dbpedia.org/resource/Lydie_Marland
+2,9,A. Bartlett,http://dbpedia.org/resource/Josiah_Bartlet,http://dbpedia.org/resource/Ann_Bartlett
+2,12,B. B. Ames,http://dbpedia.org/resource/Blanche_Ames_Ames,http://dbpedia.org/resource/Blanche_Butler_Ames

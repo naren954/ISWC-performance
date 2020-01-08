@@ -1,0 +1,13 @@
+F1: 0.69444,Precision: 0.69444,Recall: 0.69444,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,9,C. H. Pannam,http://dbpedia.org/resource/H._C._McNeile,http://dbpedia.org/resource/Charlie_H._Pannam
+0,13,C. D. Sr.,http://dbpedia.org/resource/Charles_Doig_Sr.,"http://dbpedia.org/resource/Charles_Doig,_Sr."
+0,17,B. Schultz,http://dbpedia.org/resource/Barney_Schultz,http://dbpedia.org/resource/Bruce_Schultz_(cricketer) http://dbpedia.org/resource/Bruce_Schultz_(footballer)
+0,18,B. McGregor,http://dbpedia.org/resource/Billy_McGregor,http://dbpedia.org/resource/Bruce_McGregor
+0,22,B. Foley,http://dbpedia.org/resource/Bernard_Foley,http://dbpedia.org/resource/Brian_Foley_(footballer)
+0,23,B. Green,http://dbpedia.org/resource/Benny_Green_(footballer),http://dbpedia.org/resource/Brent_Green
+0,25,B. Quinn,http://dbpedia.org/resource/Billy_Quinn_(footballer),http://dbpedia.org/resource/Bob_Quinn_(Australian_footballer)
+0,28,B. Lee,http://dbpedia.org/resource/Bill_Lee_(right-handed_pitcher),http://dbpedia.org/resource/Bob_Lee_(Australian_footballer)
+0,30,B. Green,http://dbpedia.org/resource/Benny_Green_(footballer),http://dbpedia.org/resource/Bob_Green_(footballer)
+0,34,B. B. Johnson,http://dbpedia.org/resource/Lyndon_B._Johnson,http://dbpedia.org/resource/Bob_Johnson_(Australian_rules_football) http://dbpedia.org/resource/Bob_Johnson_(Australian_rules_footballer) http://dbpedia.org/resource/Bob_B._Johnson
+0,35,B. Thomas,"http://dbpedia.org/resource/Bill_Thomas_(footballer,_born_1930)",http://dbpedia.org/resource/Billy_Thomas_(Australian_footballer) http://dbpedia.org/resource/William_'Billy'_Thomas http://dbpedia.org/resource/Billy_Thomas_(Australian_rules_footballer)

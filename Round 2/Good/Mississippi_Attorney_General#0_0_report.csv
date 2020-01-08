@@ -1,0 +1,4 @@
+F1: 0.80000,Precision: 0.80000,Recall: 0.80000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,38,Mike Moore,http://dbpedia.org/resource/Mike_Moore_(New_Zealand_politician),http://dbpedia.org/resource/Mike_Moore_(U.S._politician) http://dbpedia.org/resource/Mike_Moore_(US_politician) http://dbpedia.org/resource/Mike_Moore_(Mississippi_politician)
+0,39,Jim Hood,http://dbpedia.org/resource/Jimmy_Hood,http://dbpedia.org/resource/Jim_Hood

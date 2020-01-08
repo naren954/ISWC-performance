@@ -1,0 +1,21 @@
+F1: 0.86806,Precision: 0.86806,Recall: 0.86806,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,4,Ards,http://dbpedia.org/resource/Ards_F.C.,http://dbpedia.org/resource/Ards_(territory) http://dbpedia.org/resource/Aird_Uladh http://dbpedia.org/resource/Barony_of_Ardes http://dbpedia.org/resource/Na_hArda http://dbpedia.org/resource/Uí_Eachach_Arda http://dbpedia.org/resource/Uí_Echach_Arda http://dbpedia.org/resource/Aird_Ua_nEchach http://dbpedia.org/resource/Barony_of_Ards http://dbpedia.org/resource/Ards_(barony)
+0,16,Baltimore,http://dbpedia.org/resource/Baltimore,http://dbpedia.org/resource/Baltimore_(Irish_Parliament_constituency) http://dbpedia.org/resource/Baltimore_(constituency) http://dbpedia.org/resource/Baltimore_(Parliament_of_Ireland_constituency)
+0,20,Bangor,http://dbpedia.org/resource/Bangor_University,http://dbpedia.org/resource/Bangor_(Parliament_of_Ireland_constituency)
+0,22,Belfast,http://dbpedia.org/resource/HMS_Belfast_(C35),http://dbpedia.org/resource/Belfast_(Parliament_of_Ireland_constituency) http://dbpedia.org/resource/Belfast_Borough_(Irish_Parliament_constituency)
+0,25,Boyle,"http://dbpedia.org/resource/Boyle_County,_Kentucky",http://dbpedia.org/resource/Boyle_(Parliament_of_Ireland_constituency)
+0,30,Carrick,"http://dbpedia.org/resource/Carrick,_Scotland",http://dbpedia.org/resource/Carrick_(Irish_Parliament_constituency) http://dbpedia.org/resource/Carrick_(Parliament_of_Ireland_constituency)
+0,40,Clare,http://dbpedia.org/resource/County_Clare,http://dbpedia.org/resource/County_Clare_(Parliament_of_Ireland_constituency) http://dbpedia.org/resource/Clare_County_(Parliament_of_Ireland_constituency) http://dbpedia.org/resource/Clare_(Parliament_of_Ireland_constituency)
+0,46,Connacht,http://dbpedia.org/resource/Connacht_GAA,http://dbpedia.org/resource/Connaught http://dbpedia.org/resource/Connacht http://dbpedia.org/resource/West_of_Ireland http://dbpedia.org/resource/West_Ireland http://dbpedia.org/resource/Province_of_Connaught http://dbpedia.org/resource/Republic_of_Connaught
+0,49,Coleraine County,http://dbpedia.org/resource/Coleraine_(Parliament_of_Ireland_constituency),http://dbpedia.org/resource/County_of_Coleraine http://dbpedia.org/resource/Co_Coleraine http://dbpedia.org/resource/County_Coleraine
+0,59,Dublin University,http://dbpedia.org/resource/University_of_Dublin,http://dbpedia.org/resource/Dublin_University_(Parliament_of_Ireland_constituency)
+0,65,Ennis,http://dbpedia.org/resource/Ennis,http://dbpedia.org/resource/Ennis_(Irish_Parliament_constituency) http://dbpedia.org/resource/Ennis_(Parliament_of_Ireland_constituency)
+0,69,Ferns,http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Ferns,"http://dbpedia.org/resource/Ferns_Church http://dbpedia.org/resource/Ferns_Abbey http://dbpedia.org/resource/Ferns,_County_Wexford http://dbpedia.org/resource/Ferns,_Ireland"
+0,71,Fethard,http://dbpedia.org/resource/Fethard_(County_Tipperary)_(Parliament_of_Ireland_constituency),http://dbpedia.org/resource/Fethard_(County_Wexford)_(Parliament_of_Ireland_constituency)
+0,72,Fore,http://dbpedia.org/resource/Fore_language,http://dbpedia.org/resource/Fore_(Parliament_of_Ireland_constituency)
+0,81,Jamestown,"http://dbpedia.org/resource/Jamestown,_North_Dakota",http://dbpedia.org/resource/Jamestown_(Parliament_of_Ireland_constituency)
+0,118,Newcastle,"http://dbpedia.org/resource/Newcastle,_Maine",http://dbpedia.org/resource/Newcastle_(Parliament_of_Ireland_constituency)
+0,132,St Johnstown,http://dbpedia.org/resource/St_Johnstown_(County_Longford)_(Parliament_of_Ireland_constituency),http://dbpedia.org/resource/St_Johnston_(Parliament_of_Ireland_constituency) http://dbpedia.org/resource/St_Johnstown_(County_Donegal)_(Parliament_of_Ireland_constituency)
+0,137,Swords,"http://dbpedia.org/resource/Swords,_Dublin",http://dbpedia.org/resource/Swords_(Parliament_of_Ireland_constituency)
+0,144,Trim,"http://dbpedia.org/resource/Trim,_County_Meath",http://dbpedia.org/resource/Trim_(Irish_Parliament_constituency) http://dbpedia.org/resource/Trim_(Parliament_of_Ireland_constituency)

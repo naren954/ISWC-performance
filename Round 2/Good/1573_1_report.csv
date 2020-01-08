@@ -1,0 +1,4 @@
+F1: 0.87500,Precision: 0.87500,Recall: 0.87500,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,M. Jones,http://dbpedia.org/resource/Maxine_Jones,"http://dbpedia.org/resource/Mick_Jones_(The_Clash_guitarist) http://dbpedia.org/resource/Mick_Jones_(The_Clash) http://dbpedia.org/resource/Mick_Jones_(singer,_born_1955) http://dbpedia.org/resource/Jones,_Mick_(The_Clash)"
+1,5,L. Dahlquist,http://dbpedia.org/resource/Michael_Dahlquist,http://dbpedia.org/resource/Lasse_Dahlquist

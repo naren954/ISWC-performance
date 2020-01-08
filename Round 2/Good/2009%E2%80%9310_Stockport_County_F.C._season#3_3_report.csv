@@ -1,0 +1,5 @@
+F1: 0.81250,Precision: 0.81250,Recall: 0.81250,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,3,George Donnelly,http://dbpedia.org/resource/George_Donnelly_(American_football),http://dbpedia.org/resource/George_Donnelly_(footballer)
+3,7,Michael Rose,"http://dbpedia.org/resource/Michael_Rose_(footballer,_born_1995)","http://dbpedia.org/resource/Mike_Rose http://dbpedia.org/resource/Michael_Rose http://dbpedia.org/resource/Mike_Rose_(disambiguation) http://dbpedia.org/resource/Michael_Rose_(footballer) http://dbpedia.org/resource/Rose,_Michael http://dbpedia.org/resource/Michael_Rose_(disambiguation)"
+3,14,Johnny Mullins,http://dbpedia.org/resource/Johnny_Mullins,http://dbpedia.org/resource/John_Mullins http://dbpedia.org/resource/John_Mullins_(disambiguation)

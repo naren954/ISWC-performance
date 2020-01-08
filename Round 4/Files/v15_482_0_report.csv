@@ -1,0 +1,4 @@
+"F1: 0.83333","Precision: 0.83333","Recall: 0.83333"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","5","Thoracic aorta","http://dbpedia.org/resource/Descending_thoracic_aorta","http://dbpedia.org/resource/Thoracic_part http://dbpedia.org/resource/Aorta_thoracica http://dbpedia.org/resource/Pars_thoracica_aortae http://dbpedia.org/resource/Aorta_thoracalis http://dbpedia.org/resource/Aorta,_thoracic http://dbpedia.org/resource/Thoracic_aorta http://dbpedia.org/resource/Pars_thoracica"
+"0","10","Stellate ganglion","http://dbpedia.org/resource/Trigeminal_ganglion","http://dbpedia.org/resource/Cervicothoracic_ganglion http://dbpedia.org/resource/Stellate_ganglion"

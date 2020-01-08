@@ -1,0 +1,11 @@
+F1: 0.76316,Precision: 0.76316,Recall: 0.76316,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,5,Ahn Jae-Joon,http://dbpedia.org/resource/Ahn_Jae-hoon,http://dbpedia.org/resource/An_Jae-jun http://dbpedia.org/resource/An_Jae-Jun http://dbpedia.org/resource/Ahn_Jae-Joon
+3,6,Kim Young-Wook,http://dbpedia.org/resource/Kim_Jin-wook,http://dbpedia.org/resource/Kim_Young-wook http://dbpedia.org/resource/Kim_Young-uk http://dbpedia.org/resource/Kim_Young-Wook http://dbpedia.org/resource/Kim_Young-Uk
+3,8,Lee Hyun-Seung,http://dbpedia.org/resource/Lee_Hyun-seung_(baseball),http://dbpedia.org/resource/Lee_Hyun-seung_(footballer) http://dbpedia.org/resource/Lee_Hyun-Seung_(footballer) http://dbpedia.org/resource/Lee_Hyun-Seung_(football)
+3,9,Ã\u008Dndio,http://dbpedia.org/resource/Tyrrell_008,http://dbpedia.org/resource/Antônio_Rogério_Silva_Oliveira
+3,14,Wesley,http://dbpedia.org/resource/Tai_Wesley,http://dbpedia.org/resource/Wesley_Smith_Alves_Feitosa http://dbpedia.org/resource/Weslley_Smith_Alves_Feitosa
+3,24,Kim Hyung-Pil,http://dbpedia.org/resource/Kim_Hyung-il,http://dbpedia.org/resource/Kim_Hyung-pil http://dbpedia.org/resource/Kim_Hyung-Pil
+3,26,Shin Jung-Hwan,http://dbpedia.org/resource/Ahn_Jung-hwan,http://dbpedia.org/resource/Shin_Jung-Hwan_(footballer) http://dbpedia.org/resource/Shin_Jung-hwan_(footballer)
+3,40,Lee Nam-Yong,http://dbpedia.org/resource/Lee_Chung-yong,http://dbpedia.org/resource/Lee_Nam-Young http://dbpedia.org/resource/Lee_Nam-Yong http://dbpedia.org/resource/Lee_Nam-yong
+3,42,Jung Kyung-ho,http://dbpedia.org/resource/Chung_Kyung-ho,"http://dbpedia.org/resource/Jung_Kyung-ho_(footballer_born_1987) http://dbpedia.org/resource/Jung_Kyung-ho_(footballer,_born_1987)"

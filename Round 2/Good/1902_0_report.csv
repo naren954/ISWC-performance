@@ -1,0 +1,26 @@
+F1: 0.84713,Precision: 0.84713,Recall: 0.84713,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,4,The River,http://dbpedia.org/resource/Into_the_River,http://dbpedia.org/resource/The_River_(Gary_Paulsen_novel) http://dbpedia.org/resource/Hatchet:_The_Return http://dbpedia.org/resource/The_River_(Book) http://dbpedia.org/resource/The_River_(Paulsen) http://dbpedia.org/resource/The_River_(Gary_Paulsen_novel http://dbpedia.org/resource/The_River_(Paulsen_novel)
+0,6,The Ritual,http://dbpedia.org/resource/The_Ritual_(Testament_album),http://dbpedia.org/resource/The_Ritual_(novel)
+0,20,The Reversal,http://fr.dbpedia.org/resource/Reversal,http://dbpedia.org/resource/The_Reversal
+0,22,The Revelation,http://dbpedia.org/resource/Revelation_(Star_Wars_novel),http://dbpedia.org/resource/The_Revelation_(Animorphs) http://dbpedia.org/resource/The_Revelation_(novel)
+0,23,The Reunion,http://es.dbpedia.org/resource/Reunión_(cuento_de_Cortázar),http://dbpedia.org/resource/The_Reunion_(Animorphs) http://dbpedia.org/resource/The_Reunion_(novel)
+0,28,The Return,http://dbpedia.org/resource/The_Return_(Shatner_novel),http://dbpedia.org/resource/The_Return_(Applegate_novel) http://dbpedia.org/resource/The_Return_(Animorphs)
+0,31,The Resistance,http://dbpedia.org/resource/Resistance_(Star_Trek),http://dbpedia.org/resource/The_Resistance_(novel)
+0,32,The Resistance,http://dbpedia.org/resource/Resistance_(Star_Trek),http://dbpedia.org/resource/The_Resistance_(Applegate_novel) http://dbpedia.org/resource/The_Resistance_(Animorphs)
+0,36,The Remnant,http://dbpedia.org/resource/The_Remnant_(newspaper),http://dbpedia.org/resource/The_Remnant_(LaHaye_novel) http://dbpedia.org/resource/The_Remnant_(Left_Behind) http://dbpedia.org/resource/The_Remnant_(novel)
+0,43,The Regime,http://dbpedia.org/resource/Communist_Party_of_Czechoslovakia,http://dbpedia.org/resource/The_Regime http://dbpedia.org/resource/The_Regime_(Left_Behind) http://dbpedia.org/resource/The_Regime_(novel)
+0,45,The Redeemer,http://dbpedia.org/resource/The_Redeemer,http://dbpedia.org/resource/The_Redeemer_(novel)
+0,47,The Red Queen,http://dbpedia.org/resource/The_Red_Queen_(Gregory_novel),http://dbpedia.org/resource/The_Red_Queen_(novel)
+0,51,The Rebels,http://dbpedia.org/resource/Star_Wars_Rebels,http://dbpedia.org/resource/The_Rebels_(John_Jakes_novel) http://dbpedia.org/resource/The_Rebels_(Jakes_novel)
+0,53,The Reaction,http://dbpedia.org/resource/Love_Reaction,http://dbpedia.org/resource/The_Reaction_(novel) http://dbpedia.org/resource/The_Reaction http://dbpedia.org/resource/The_Reaction_(Animorphs)
+0,55,The Ravagers,http://dbpedia.org/resource/The_Ravagers_(novel),http://dbpedia.org/resource/The_Ravagers
+0,59,The Rainbow,http://dbpedia.org/resource/Rainbow_Six_(novel),http://dbpedia.org/resource/Brangwen http://dbpedia.org/resource/The_Rainbow
+0,63,The Quest,http://dbpedia.org/resource/King's_Quest_I,http://dbpedia.org/resource/The_Quest_(novel)
+0,76,The Proposal,,http://dbpedia.org/resource/The_Proposal_(Animorphs) http://dbpedia.org/resource/The_Proposal_(novel)
+0,79,The Prophecy,http://dbpedia.org/resource/The_Prophecy_(novel),http://dbpedia.org/resource/The_Prophecy_(Animorphs) http://dbpedia.org/resource/The_Prophecy_(Applegate_novel)
+0,103,The Predator,http://dbpedia.org/resource/Predators_(film),http://dbpedia.org/resource/The_Predator_(Animorphs) http://dbpedia.org/resource/The_Predator_(novel)
+0,107,The Power,http://es.dbpedia.org/resource/Higher_Power,http://dbpedia.org/resource/The_Power_(2010_novel) http://dbpedia.org/resource/The_power_(2010_novel) http://dbpedia.org/resource/The_Power_(book) http://dbpedia.org/resource/The_Power_(self-help_book) http://dbpedia.org/resource/The_Power_(2010)
+0,108,The Potter's Field,http://dbpedia.org/resource/The_Potter's_Field_(Camilleri_novel),http://dbpedia.org/resource/The_Potter's_Field_(Peters_novel)
+0,110,The Porcupine,http://dbpedia.org/resource/Porcupine_(album),http://dbpedia.org/resource/The_Porcupine
+0,148,The Panther,http://dbpedia.org/resource/Panther_tank,http://dbpedia.org/resource/The_Panther_(novel)

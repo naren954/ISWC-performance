@@ -1,0 +1,7 @@
+"F1: 0.96000","Precision: 0.96000","Recall: 0.96000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","10","Coronation","http://dbpedia.org/resource/Coronation_(British_horse)","http://dbpedia.org/resource/Coronation_V http://dbpedia.org/resource/Coronation_(French_horse)"
+"0","14","Corinne","http://dbpedia.org/resource/Corinne_Roosevelt_Robinson","http://dbpedia.org/resource/Corinne_(horse)"
+"0","33","Coastal","http://dbpedia.org/resource/Coastal_Bluff","http://dbpedia.org/resource/Coastal_(horse)"
+"0","42","Churchill","http://dbpedia.org/resource/Winston_Churchill","http://dbpedia.org/resource/Churchill_(horse)"
+"0","66","Carnegie","http://dbpedia.org/resource/James_Carnegie,_3rd_Duke_of_Fife","http://dbpedia.org/resource/Carnegie_(horse)"

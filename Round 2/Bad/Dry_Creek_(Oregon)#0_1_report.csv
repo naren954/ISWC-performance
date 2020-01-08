@@ -1,0 +1,5 @@
+F1: 0.40000,Precision: 0.40000,Recall: 0.40000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,Crooked Creek,,http://dbpedia.org/resource/Crooked_Creek_(Oregon)
+1,5,Goose Lake,http://dbpedia.org/resource/Goose_Lake_Valley,http://dbpedia.org/resource/Goose_Lake_(Oregon–California) http://dbpedia.org/resource/Goose_Lake_(Oregon-California) http://dbpedia.org/resource/Goose_lake_(oregon-california)
+1,6,Fifteenmile Creek,,http://dbpedia.org/resource/Fifteenmile_Creek_(Columbia_River) http://dbpedia.org/resource/Fifteenmile_Creek_(Oregon)

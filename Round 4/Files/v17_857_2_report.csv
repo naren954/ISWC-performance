@@ -1,0 +1,4 @@
+"F1: 0.98507","Precision: 0.98507","Recall: 0.98507"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"2","26","Malibu Moon","http://dbpedia.org/resource/Malibu_Moon","http://dbpedia.org/resource/Malibu_Moon_(horse)"
+"2","44","Bold Lad","http://dbpedia.org/resource/Bold_Lad","http://dbpedia.org/resource/Bold_Lad_II http://dbpedia.org/resource/Bold_Lad_(IRE)"

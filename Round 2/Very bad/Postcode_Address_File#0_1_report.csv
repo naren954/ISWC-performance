@@ -1,0 +1,3 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,12,Post Town,"http://dbpedia.org/resource/Post,_Texas",http://dbpedia.org/resource/Postal_towns http://dbpedia.org/resource/Post_towns http://dbpedia.org/resource/Post_town http://dbpedia.org/resource/Postal_town http://dbpedia.org/resource/Posttown http://dbpedia.org/resource/Post_Town

@@ -1,0 +1,4 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,"The Winery Dogs Released: May 5 (Japan) July 23 (Worldwide) Label: Loud & Proud Format: Digital download, CD, LP",http://dbpedia.org/resource/Compact_disc,http://dbpedia.org/resource/The_Winery_Dogs_(album)
+1,2,"Hot Streak Released: September 23 (Japan) October 2 (Worldwide) Label: Loud & Proud Format: Digital download, CD, LP",http://dbpedia.org/resource/Compact_disc,http://dbpedia.org/resource/Hot_Streak_(The_Winery_Dogs_album) http://dbpedia.org/resource/Hot_Streak_(album)

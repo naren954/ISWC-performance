@@ -1,0 +1,8 @@
+"F1: 0.57143","Precision: 0.57143","Recall: 0.57143"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","1","HMS Thetis","http://dbpedia.org/resource/HMS_Thetis_(1890)","http://dbpedia.org/resource/SMS_Thetis_(1855) http://dbpedia.org/resource/HMS_Thetis_(1846)"
+"0","2","HMS Thetis","http://dbpedia.org/resource/HMS_Thetis_(1890)","http://dbpedia.org/resource/HMS_Thetis_(1817)"
+"0","9","HMS Tamworth Castle","http://dbpedia.org/resource/HMS_Pretoria_Castle_(F61)","http://dbpedia.org/resource/HMS_Tamworth_Castle_(K393) http://dbpedia.org/resource/HMCS_Kincardine_(K490)"
+"0","10","HMS Talent","http://dbpedia.org/resource/HNLMS_Zwaardvisch_(P322)","http://dbpedia.org/resource/HMS_Talent_(S92)"
+"0","13","HMS Swordfish","http://dbpedia.org/resource/HMS_Swordfish_(1895)","http://dbpedia.org/resource/HMS_Swordfish_(1916)"
+"0","14","HMS Swiftsure","http://dbpedia.org/resource/HMS_Swiftsure_(08)","http://dbpedia.org/resource/HMS_Swiftsure_(S126)"

@@ -1,0 +1,33 @@
+F1: 0.80380,Precision: 0.80380,Recall: 0.80380,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,20,A. d. Costa,http://dbpedia.org/resource/Augusto_da_Costa,http://dbpedia.org/resource/Afranio_da_Costa http://dbpedia.org/resource/Afrânio_da_Costa
+3,29,A. d. Costa,http://dbpedia.org/resource/Augusto_da_Costa,http://dbpedia.org/resource/Afranio_da_Costa http://dbpedia.org/resource/Afrânio_da_Costa
+3,68,H. Simon,http://dbpedia.org/resource/Harry_Simon_(boxer),http://dbpedia.org/resource/Harry_Simon_(sport_shooter) http://dbpedia.org/resource/Harry_Simon_(shooter)
+3,76,H. Simon,http://dbpedia.org/resource/Harry_Simon_(boxer),http://dbpedia.org/resource/Harry_Simon_(sport_shooter) http://dbpedia.org/resource/Harry_Simon_(shooter)
+3,86,H. Nielsen,http://dbpedia.org/resource/Harald_Nielsen,http://dbpedia.org/resource/Holger_Nielsen
+3,89,H. Nielsen,http://dbpedia.org/resource/Harald_Nielsen,http://dbpedia.org/resource/Holger_Nielsen
+3,92,T. Petäjä,http://dbpedia.org/resource/Erkka_Petäjä,http://dbpedia.org/resource/Tuuli_Petäjä
+3,93,S. Clark,http://dbpedia.org/resource/Sherm_Clark,http://dbpedia.org/resource/Saskia_Clark
+3,94,N. Dempsey,http://dbpedia.org/resource/Joseph_Dempsey,http://dbpedia.org/resource/Nick_Dempsey
+3,96,M. Bouwmeester,http://dbpedia.org/resource/Jay_Bouwmeester,http://dbpedia.org/resource/Marit_Bouwmeester http://dbpedia.org/resource/Marrit_Bouwmeester
+3,100,T. Petäjä,http://dbpedia.org/resource/Erkka_Petäjä,http://dbpedia.org/resource/Tuuli_Petaja-Siren http://dbpedia.org/resource/Tuuli_Petaja http://dbpedia.org/resource/Tuuli_Petäjä http://dbpedia.org/resource/Tuuli_Petäjä-Sirén
+3,101,S. Clark,http://dbpedia.org/resource/Sherm_Clark,http://dbpedia.org/resource/Saskia_Clark
+3,102,N. Dempsey,http://dbpedia.org/resource/Joseph_Dempsey,http://dbpedia.org/resource/Nick_Dempsey
+3,104,M. Bouwmeester,http://dbpedia.org/resource/Jay_Bouwmeester,http://dbpedia.org/resource/Marit_Bouwmeester http://dbpedia.org/resource/Marrit_Bouwmeester
+3,108,A. Sensini,http://dbpedia.org/resource/Alberto_Sensini,http://dbpedia.org/resource/Alessandra_Sensini
+3,111,J. Bontemps,http://dbpedia.org/resource/Ron_Bontemps,http://dbpedia.org/resource/Julien_Bontemps
+3,116,I. Martínez,http://dbpedia.org/resource/Iñigo_Martínez,http://dbpedia.org/resource/Iker_Martinez http://dbpedia.org/resource/Iker_Martínez http://dbpedia.org/resource/Iker_Martínez_de_Lizarduy http://dbpedia.org/resource/Iker_Martinez_de_Lizarduy
+3,117,A. Sensini,http://dbpedia.org/resource/Alberto_Sensini,http://dbpedia.org/resource/Alessandra_Sensini
+3,120,J. Bontemps,http://dbpedia.org/resource/Ron_Bontemps,http://dbpedia.org/resource/Julien_Bontemps
+3,125,I. Martínez,http://dbpedia.org/resource/Iñigo_Martínez,http://dbpedia.org/resource/Iker_Martinez http://dbpedia.org/resource/Iker_Martínez http://dbpedia.org/resource/Iker_Martínez_de_Lizarduy http://dbpedia.org/resource/Iker_Martinez_de_Lizarduy
+3,129,R. MacDonald,http://dbpedia.org/resource/Jack_Macdonald_(sportsman),http://dbpedia.org/resource/Ross_MacDonald http://dbpedia.org/resource/D._Ross_Macdonald http://dbpedia.org/resource/Ross_MacDonald_(sailor)
+3,130,N. Rogers,http://dbpedia.org/resource/Nicholas_Rogers_(athlete),http://dbpedia.org/resource/Nick_Rogers_(sailor) http://dbpedia.org/resource/Nicholas_Robert_Rogers
+3,137,R. MacDonald,http://dbpedia.org/resource/Jack_Macdonald_(sportsman),http://dbpedia.org/resource/Ross_MacDonald http://dbpedia.org/resource/D._Ross_Macdonald http://dbpedia.org/resource/Ross_MacDonald_(sailor)
+3,142,A. Lux,http://de.dbpedia.org/resource/Anton_Lux_(Politiker),http://dbpedia.org/resource/Amelie_Lux
+3,145,I. Walker,http://dbpedia.org/resource/George_H._W._Bush,http://dbpedia.org/resource/Ian_Walker_(sailor) http://dbpedia.org/resource/Ian_walker_(sailor)
+3,147,P. Foerster,http://dbpedia.org/resource/Richard_Foerster_(classical_scholar),http://dbpedia.org/resource/Paul_Foerster
+3,149,L. Devoti,http://dbpedia.org/resource/Louis_Devoti,http://dbpedia.org/resource/Luca_Devoti
+3,151,I. Barker,http://dbpedia.org/resource/Harold_Barker,http://dbpedia.org/resource/Ian_Barker_(sailor)
+3,152,A. Lux,http://de.dbpedia.org/resource/Anton_Lux_(Politiker),http://dbpedia.org/resource/Amelie_Lux
+3,155,I. Walker,http://dbpedia.org/resource/George_H._W._Bush,http://dbpedia.org/resource/Ian_Walker_(sailor) http://dbpedia.org/resource/Ian_walker_(sailor)
+3,157,P. Foerster,http://dbpedia.org/resource/Richard_Foerster_(classical_scholar),http://dbpedia.org/resource/Paul_Foerster

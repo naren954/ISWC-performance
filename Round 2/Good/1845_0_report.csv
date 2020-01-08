@@ -1,0 +1,34 @@
+F1: 0.76978,Precision: 0.76978,Recall: 0.76978,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,J. Johansson,"http://dbpedia.org/resource/Jonas_Johansson_(ice_hockey,_born_1984)","http://dbpedia.org/resource/Jonas_Johansson_(ice_hockey,_born_1995)"
+0,19,J. Tavares,http://dbpedia.org/resource/John_Tavares,http://dbpedia.org/resource/John_Tavares_(ice_hockey_player) http://dbpedia.org/resource/John_Tavares_(hockey_player) http://dbpedia.org/resource/John_Tavares_(hockey) http://dbpedia.org/resource/John_Tavares_(ice_hockey)
+0,21,J. Quenneville,http://dbpedia.org/resource/Joel_Quenneville,http://dbpedia.org/resource/John_Quenneville
+0,25,J. Moore,http://dbpedia.org/resource/Jessica_Moore_(basketball),http://dbpedia.org/resource/John_Moore_(Ice_hockey_player) http://dbpedia.org/resource/John_Moore_(ice_hockey)
+0,26,J. Mitchell,http://dbpedia.org/resource/Jamel_Mitchell,"http://dbpedia.org/resource/John_Mitchell_(ice_hockey_b._1985) http://dbpedia.org/resource/John_Mitchell_(ice_hockey,_born_1985)"
+0,28,J. McCarthy,http://dbpedia.org/resource/John_McCarthy_(soccer),http://dbpedia.org/resource/John_McCarthy_(hockey) http://dbpedia.org/resource/John_McCarthy_(hockey http://dbpedia.org/resource/John_McCarthy_(ice_hockey)
+0,32,J. Gibson,"http://dbpedia.org/resource/John_Gibson_(ice_hockey,_born_1959)","http://dbpedia.org/resource/John_Gibson_(ice_hockey_b._1993) http://dbpedia.org/resource/John_Gibson_(ice_hockey,_born_1993)"
+0,41,J. Mattsson,http://dbpedia.org/resource/Jesper_Mattsson_(ice_hockey),http://dbpedia.org/resource/Johan_Mattsson
+0,42,J. Larsson,http://dbpedia.org/resource/Jacob_Larsson,"http://dbpedia.org/resource/Johan_Larsson_(ice_hockey,_born_1992) http://dbpedia.org/resource/Johan_Larsson_(ice_hockey_b._1992)"
+0,43,J. Holmqvist,http://dbpedia.org/resource/Michael_Holmqvist,http://dbpedia.org/resource/Johan_Holmqvist
+0,45,J. Gustafsson,http://dbpedia.org/resource/Juha_Gustafsson,http://dbpedia.org/resource/Johan_Gustafsson
+0,65,J. Stejskal,http://fr.dbpedia.org/resource/Joe_Stejskal,http://dbpedia.org/resource/Joe_Stejskal
+0,73,J. Gage,http://dbpedia.org/resource/Jody_Gage,http://dbpedia.org/resource/Joaquin_Gage
+0,74,J. McCarthy,http://dbpedia.org/resource/John_McCarthy_(soccer),http://dbpedia.org/resource/Joanne_McCarthy
+0,75,J. Ryan,http://fr.dbpedia.org/resource/Joey_Ryan_(hockey_sur_glace),http://dbpedia.org/resource/Joakim_Ryan
+0,78,J. Andersson,http://dbpedia.org/resource/Jonas_Andersson_(ice_hockey),http://dbpedia.org/resource/Joakim_Andersson
+0,79,J. Eriksson,http://dbpedia.org/resource/Jan_Eriksson_(ice_hockey),http://dbpedia.org/resource/Joacim_Eriksson http://dbpedia.org/resource/Joachim_Eriksson
+0,82,J. Chouinard,http://dbpedia.org/resource/Marc_Chouinard,http://dbpedia.org/resource/Joël_Chouinard http://dbpedia.org/resource/Joel_Chouinard
+0,83,J. Champagne,http://fr.dbpedia.org/resource/Joël_Champagne,http://dbpedia.org/resource/Joel_Champagne http://dbpedia.org/resource/Joël_Champagne
+0,90,J. Vesey,http://dbpedia.org/resource/Jim_Vesey,http://dbpedia.org/resource/Jimmy_Vesey
+0,92,J. Howard,http://dbpedia.org/resource/Jack_Howard_(ice_hockey),http://dbpedia.org/resource/Jimmy_Howard http://dbpedia.org/resource/Jim_Howard_(ice_hockey)
+0,93,J. Hayes,http://dbpedia.org/resource/Jim_Hayes_(basketball),http://dbpedia.org/resource/Jimmy_Hayes_(ice_hockey)
+0,95,J. O'Brien,"http://dbpedia.org/resource/Jim_O'Brien_(basketball,_born_1950)",http://dbpedia.org/resource/James_O'Brien_(ice_hockey) http://dbpedia.org/resource/Jim_O'Brien_(ice_hockey)
+0,108,J. Pettersson,http://dbpedia.org/resource/Jörgen_Pettersson_(ice_hockey),http://dbpedia.org/resource/Jesper_Pettersson
+0,112,J. Williams,http://dbpedia.org/resource/Jamal_Williams,http://dbpedia.org/resource/Jeremy_Williams_(ice_hockey_player) http://dbpedia.org/resource/Jeremy_Williams_(ice_hockey)
+0,113,J. V. Hoof,http://fr.dbpedia.org/resource/Jeremy_Van_Hoof,http://dbpedia.org/resource/Jeremy_Van_Hoof
+0,114,J. Smith,"http://dbpedia.org/resource/Joe_Smith_(footballer,_born_1953)",http://dbpedia.org/resource/Jeremy_Smith_(American_Hockey_Player) http://dbpedia.org/resource/Jeremy_Smith_(ice_hockey)
+0,117,J. Duchesne,http://dbpedia.org/resource/Gaétan_Duchesne,http://dbpedia.org/resource/Jeremy_Duchesne
+0,133,J. Carter,http://dbpedia.org/resource/John_Carter_(ice_hockey),"http://dbpedia.org/resource/Jeffrey_Carter http://dbpedia.org/resource/Carter,_Jeff http://dbpedia.org/resource/Jeff_Carter"
+0,134,J. Bérubé,http://fr.dbpedia.org/resource/Jean-Sébastien_Bérubé,http://dbpedia.org/resource/Jean-Sebastien_Berube http://dbpedia.org/resource/Jean-Sébastien_Bérubé http://dbpedia.org/resource/J._S._Berube http://dbpedia.org/resource/J.S._Berube
+0,136,J. Bérubé,http://fr.dbpedia.org/resource/Jean-Sébastien_Bérubé,http://dbpedia.org/resource/Jean-Sebastien_Berube http://dbpedia.org/resource/Jean-Sébastien_Bérubé http://dbpedia.org/resource/J._S._Berube http://dbpedia.org/resource/J.S._Berube
+0,139,J. Rizk,,http://dbpedia.org/resource/Jean-Michel_Rizk

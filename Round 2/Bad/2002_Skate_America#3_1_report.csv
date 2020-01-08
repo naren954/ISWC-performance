@@ -1,0 +1,7 @@
+F1: 0.44444,Precision: 0.44444,Recall: 0.44444,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,Elena Grushina \/ Ruslan Goncharov,http://dbpedia.org/resource/Ruslan_Honcharov,http://dbpedia.org/resource/Elena_Grushina http://dbpedia.org/resource/Elena_Gruschina http://dbpedia.org/resource/Olena_Hrushyna
+1,2,Tatiana Navka \/ Roman Kostomarov,http://dbpedia.org/resource/Sarah's_Key_(novel),http://dbpedia.org/resource/Tatyana_Navka http://dbpedia.org/resource/Tatiana_navka http://dbpedia.org/resource/Tatiana_Navka http://dbpedia.org/resource/Tatjana_Navka
+1,5,Melissa Gregory \/ Denis Petukhov,http://dbpedia.org/resource/Denis_Petukhov,http://dbpedia.org/resource/Melissa_Gregory http://dbpedia.org/resource/Melissa_Petukhova
+1,7,Emilie Nussear \/ Mathew Gates,http://dbpedia.org/resource/Mathew_Gates,http://dbpedia.org/resource/Emile_Nussear http://dbpedia.org/resource/Emilie_Nusseur http://dbpedia.org/resource/Emily_Nussear http://dbpedia.org/resource/Emily_Nusseur http://dbpedia.org/resource/Emilie_Nussear
+1,9,JosÃ©e PichÃ© \/ Pascal Denis,http://dbpedia.org/resource/Pascal_Delannoy,http://dbpedia.org/resource/Josée_Piché

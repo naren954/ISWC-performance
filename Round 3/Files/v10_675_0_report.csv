@@ -1,0 +1,4 @@
+"F1: 0.93333","Precision: 0.93333","Recall: 0.93333"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","2","A Time of Changes","http://dbpedia.org/resource/Time_Changes","http://dbpedia.org/resource/A_Time_of_Changes"
+"0","21","50 in 50","http://dbpedia.org/resource/50/50_(2011_film)","http://dbpedia.org/resource/50_in_50 http://dbpedia.org/resource/50_In_50"

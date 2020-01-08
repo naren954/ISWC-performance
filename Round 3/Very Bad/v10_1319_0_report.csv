@@ -1,0 +1,8 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,W. Roberts,,http://dbpedia.org/resource/Wilma_Roberts
+0,2,T. Kelley,http://dbpedia.org/resource/Devin_Patrick_Kelley,http://dbpedia.org/resource/Tom_Kelley_(photographer)
+0,3,P. Laval,http://dbpedia.org/resource/Pierre_Laval,"http://dbpedia.org/resource/Pop_Laval http://dbpedia.org/resource/Claude_""Pop""_Laval"
+0,4,P. Stern,http://de.dbpedia.org/resource/Leo_Stern,http://dbpedia.org/resource/Phillip_Stern http://dbpedia.org/resource/Philip_Stern http://dbpedia.org/resource/Phil_Stern
+0,5,E. Stoller,http://dbpedia.org/resource/Jerry_Leiber_and_Mike_Stoller,http://dbpedia.org/resource/Ezra_Stoller
+0,6,A. Pollitzer,http://dbpedia.org/resource/Adolf_Pollitzer,http://dbpedia.org/resource/Anie_Politzer http://dbpedia.org/resource/Anita_Pollitzer http://dbpedia.org/resource/Anita_L._Pollitzer http://dbpedia.org/resource/Anie_Pollitzer http://dbpedia.org/resource/Anita_Lily_Pollitzer

@@ -1,0 +1,10 @@
+F1: 0.72414,Precision: 0.72414,Recall: 0.72414,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,4,P. Fernández,http://dbpedia.org/resource/Arman,http://dbpedia.org/resource/Pucho_Fernandez http://dbpedia.org/resource/Pucho_Fernández
+0,14,M. Smith,http://dbpedia.org/resource/Mamie_Smith,"http://dbpedia.org/resource/Melvin_Kenneth_""Mel""_Smith http://dbpedia.org/resource/Mel_Smith http://dbpedia.org/resource/Melvin_Kenneth_Smith"
+0,15,M. Miller,http://dbpedia.org/resource/Mac_Miller,http://dbpedia.org/resource/Max_Miller_(comedian) http://dbpedia.org/resource/Cheeky_Chappy http://dbpedia.org/resource/The_Cheeky_Chappy http://dbpedia.org/resource/Cheeky_Chappie http://dbpedia.org/resource/The_Cheeky_Chappie
+0,17,M. A. Campos,http://dbpedia.org/resource/Marie_Curie,http://dbpedia.org/resource/Marco_Antonio_Campos http://dbpedia.org/resource/Viruta
+0,19,M. Taylor,http://dbpedia.org/resource/Meshach_Taylor,http://dbpedia.org/resource/Mackenzie_Taylor
+0,21,L. Weinstock,http://dbpedia.org/resource/Bob_Weinstock,http://dbpedia.org/resource/Lotus_Weinstock
+0,25,L. Grayson,http://dbpedia.org/resource/Richard_Grayson_(composer),http://dbpedia.org/resource/Larry_Grayson
+0,28,K. Williams,http://dbpedia.org/resource/C._K._Williams,http://dbpedia.org/resource/The_Kenneth_Williams_Diaries http://dbpedia.org/resource/Syd_Rumpo http://dbpedia.org/resource/Kenneth_williams http://dbpedia.org/resource/Rambling_Syd http://dbpedia.org/resource/Kenneth_Williams

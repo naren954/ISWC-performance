@@ -1,0 +1,6 @@
+F1: 0.94286,Precision: 0.94286,Recall: 0.94286,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,14,Jagger/Richards,http://dbpedia.org/resource/Keith_Richards,http://dbpedia.org/resource/Richards/Jagger http://dbpedia.org/resource/Mick_Jagger/Keith_Richards http://dbpedia.org/resource/The_Glimmer_Twins http://dbpedia.org/resource/Jagger/Richards http://dbpedia.org/resource/Glimmer_Twins
+1,33,Don DeVito,http://dbpedia.org/resource/Don_Vito_(producer),http://dbpedia.org/resource/Don_DeVito
+1,43,Voyle Gilmore,http://dbpedia.org/resource/Jim_Gilmore,http://dbpedia.org/resource/Voyle_Gilmore
+1,45,Jagger/Richards,http://dbpedia.org/resource/Keith_Richards,http://dbpedia.org/resource/Richards/Jagger http://dbpedia.org/resource/Mick_Jagger/Keith_Richards http://dbpedia.org/resource/The_Glimmer_Twins http://dbpedia.org/resource/Jagger/Richards http://dbpedia.org/resource/Glimmer_Twins

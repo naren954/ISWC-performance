@@ -1,0 +1,11 @@
+F1: 0.40000,Precision: 0.40000,Recall: 0.40000,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,1,H. Huang,http://dbpedia.org/resource/Helen_Huang,http://dbpedia.org/resource/Huang_Hung http://dbpedia.org/resource/Hong_Huang http://dbpedia.org/resource/Hung_Huang http://dbpedia.org/resource/Hóng_Huàng
+2,2,N. Grant,http://dbpedia.org/resource/Robert_Grant_(novelist),http://dbpedia.org/resource/Ellen_(Nellie)_Wrenshall_Grant http://dbpedia.org/resource/Nellie_Grant http://dbpedia.org/resource/Ellen_Wrenshall_Grant
+2,3,M. Reagan,http://dbpedia.org/resource/Ronald_Reagan,http://dbpedia.org/resource/Michael_Reagan http://dbpedia.org/resource/The_Michael_Reagan_Talk_Show http://dbpedia.org/resource/John_Flaugher
+2,6,S. Simon,http://dbpedia.org/resource/Paul_Simon,http://dbpedia.org/resource/Sheila_Simon
+2,7,J. Brown,http://dbpedia.org/resource/James_Brown_(actor),"http://dbpedia.org/resource/Edmund_G_Brown_Jr http://dbpedia.org/resource/Edmund_G._Brown,_Jr. http://dbpedia.org/resource/Edmund_""Jerry""_G._Brown_Jr. http://dbpedia.org/resource/Governor_Moonbeam http://dbpedia.org/resource/Edmund_G._Brown_Jr. http://dbpedia.org/resource/Edmund_Gerald_Brown,_Jr. http://dbpedia.org/resource/Governor_Jerry_Brown http://dbpedia.org/resource/Brown,_Jerry http://dbpedia.org/resource/Governor_Moonbeam"" http://dbpedia.org/resource/Edmond_G._Brown,_Jr. http://dbpedia.org/resource/Jerry_brown http://dbpedia.org/resource/Jerrie_Brown http://dbpedia.org/resource/Jerry_Brown http://dbpedia.org/resource/Edmund_Gerald_""Jerry""_Brown,_Jr. http://dbpedia.org/resource/Jerry_Brown,_Jr. http://dbpedia.org/resource/Edmund_Brown,_Jr. http://dbpedia.org/resource/Edmund_Gerald_Brown_Jr."
+2,11,A. Heinz,http://de.dbpedia.org/resource/Andreas_Heinz_(Politiker),http://dbpedia.org/resource/André_Heinz http://dbpedia.org/resource/Andre_Heinz
+2,12,Frank Forrester Church IV,http://dbpedia.org/resource/Frank_Church,http://dbpedia.org/resource/Forrest_Church http://dbpedia.org/resource/Forrester_Church http://dbpedia.org/resource/Frank_Forrester_Church_IV http://dbpedia.org/resource/F._Forrester_Church
+2,13,T. Dyachenko,http://dbpedia.org/resource/Alexander_Dyachenko_(actor),http://dbpedia.org/resource/Tatyana_Dyachenko http://dbpedia.org/resource/Tatyana_Yumasheva
+2,15,J. Turner,http://dbpedia.org/resource/J._M._W._Turner,http://dbpedia.org/resource/Jann_Turner

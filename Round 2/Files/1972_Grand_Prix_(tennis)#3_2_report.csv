@@ -1,0 +1,8 @@
+"F1: 0.14286","Precision: 0.14286","Recall: 0.14286"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"2","1","Bob Hewitt 6â\u0080\u00932, 6â\u0080\u00934, 6â\u0080\u00933","nan","http://dbpedia.org/resource/Bob_Hewitt"
+"2","3","Manuel Orantes 6â\u0080\u00934, 6â\u0080\u00931, 2â\u0080\u00936, 7â\u0080\u00935","http://dbpedia.org/resource/Freemasonry","http://dbpedia.org/resource/Manuel_Orantes http://dbpedia.org/resource/Manuel_Orantes_Corral"
+"2","4","Manuel Orantes Juan Gisbert 9â\u0080\u00937, 6â\u0080\u00933","http://dbpedia.org/resource/Constanza_Manuel","http://dbpedia.org/resource/Manuel_Orantes http://dbpedia.org/resource/Manuel_Orantes_Corral"
+"2","5","AndrÃ©s Gimeno 4â\u0080\u00936, 6â\u0080\u00933, 6â\u0080\u00931, 6â\u0080\u00931","http://dbpedia.org/resource/Freemasonry","http://dbpedia.org/resource/Andrés_Gimeno"
+"2","6","Frew McMillan Bob Hewitt 6â\u0080\u00933, 8â\u0080\u00936, 3â\u0080\u00936, 6â\u0080\u00931","http://dbpedia.org/resource/Octahedron","http://dbpedia.org/resource/Frew_McMillan"
+"2","7","Evonne Goolagong Kim Warwick 6â\u0080\u00932, 6â\u0080\u00934","http://dbpedia.org/resource/United_States_dollar","http://dbpedia.org/resource/Evonne_Goolagong http://dbpedia.org/resource/Yvonne_goolagong http://dbpedia.org/resource/Evonne_Cawley http://dbpedia.org/resource/Evonne_Goolagong_Cawley http://dbpedia.org/resource/Evonne_Fay_Goolagong_Cawley http://dbpedia.org/resource/Yvonne_Cawley http://dbpedia.org/resource/Cawley,_Evonne http://dbpedia.org/resource/Goolagong http://dbpedia.org/resource/Evonne_Goolagong-Cawley"

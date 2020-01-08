@@ -1,0 +1,165 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,"Fremont, California","http://dbpedia.org/resource/Fresno,_California",http://sws.geonames.org/5350734/
+0,2,"Fort Bragg, California","http://dbpedia.org/resource/Fort_Bragg,_California",http://sws.geonames.org/5350039/
+0,3,"Forestville, California","http://dbpedia.org/resource/Forestville,_California",http://sws.geonames.org/5349984/
+0,4,"Folsom, California","http://dbpedia.org/resource/Folsom,_California",http://sws.geonames.org/5349705/
+0,5,"Farmersville, California","http://dbpedia.org/resource/Farmersville,_California",http://sws.geonames.org/5347742/
+0,6,"Fairfax, California","http://dbpedia.org/resource/Fairfax,_California",http://sws.geonames.org/5347322/
+0,7,"El Sobrante, California","http://dbpedia.org/resource/El_Monte,_California",http://sws.geonames.org/5345888/
+0,8,"East Palo Alto, California","http://dbpedia.org/resource/Palo_Alto,_California",http://sws.geonames.org/5345032/
+0,9,"Dublin, California","http://dbpedia.org/resource/Dublin,_California",http://sws.geonames.org/5344157/
+0,10,"Dos Palos, California","http://dbpedia.org/resource/Dos_Palos,_California",http://sws.geonames.org/5343728/
+0,11,"Delano, California","http://dbpedia.org/resource/Delano,_California",http://sws.geonames.org/5342485/
+0,12,"Danville, California","http://dbpedia.org/resource/Danville,_California",http://sws.geonames.org/5341531/
+0,13,"Crockett, California","http://dbpedia.org/resource/Crockett,_California",http://sws.geonames.org/5340758/
+0,14,"Cotati, California","http://dbpedia.org/resource/Cotati,_California",http://sws.geonames.org/5339866/
+0,15,"Corte Madera, California","http://dbpedia.org/resource/Corte_Madera,_California",http://sws.geonames.org/5339766/
+0,16,"Colusa, California","http://dbpedia.org/resource/Colusa,_California",http://sws.geonames.org/5338866/
+0,17,"Coalinga, California","http://dbpedia.org/resource/Coalinga,_California",http://sws.geonames.org/5338196/
+0,18,"Cloverdale, California","http://dbpedia.org/resource/Cloverdale,_California",http://sws.geonames.org/5338104/
+0,19,"Clearlake, California","http://dbpedia.org/resource/Clearlake,_California",http://sws.geonames.org/5337908/
+0,20,"Clayton, California","http://dbpedia.org/resource/Clayton,_California",http://sws.geonames.org/5337841/
+0,21,"Chula Vista, California","http://dbpedia.org/resource/Chula_Vista,_California",http://sws.geonames.org/5336899/
+0,22,"Chino, California","http://dbpedia.org/resource/Chino,_California",http://sws.geonames.org/5336537/
+0,23,"Carpinteria, California","http://dbpedia.org/resource/Carpinteria,_California",http://sws.geonames.org/5334423/
+0,24,"Cantua Creek, California","http://dbpedia.org/resource/Walnut_Creek,_California",http://sws.geonames.org/5333929/
+0,25,"Brisbane, California","http://dbpedia.org/resource/Brisbane,_California",http://sws.geonames.org/5330810/
+0,26,"Boulder Creek, California","http://dbpedia.org/resource/Boulder_Creek,_California",http://sws.geonames.org/5330222/
+0,27,"Boonville, California","http://dbpedia.org/resource/Boonville,_California",http://sws.geonames.org/5330040/
+0,28,"Bolinas, California","http://dbpedia.org/resource/Bolinas,_California",http://sws.geonames.org/5329830/
+0,29,"Bodega Bay, California","http://dbpedia.org/resource/Bodega_Bay,_California",http://sws.geonames.org/5329735/
+0,30,"Bloomfield, California","http://dbpedia.org/resource/Bloomfield,_California",http://sws.geonames.org/5329416/
+0,31,"Berkeley, California","http://dbpedia.org/resource/Berkeley,_California",http://sws.geonames.org/5327684/
+0,32,"Beckwourth, California","http://dbpedia.org/resource/Beckwourth,_California",http://sws.geonames.org/5327158/
+0,33,"Bakersfield, California","http://dbpedia.org/resource/Bakersfield,_California",http://sws.geonames.org/5325738/
+0,34,"Baker, California","http://dbpedia.org/resource/Baker,_California",http://sws.geonames.org/5325626/
+0,35,"Auburn, California","http://dbpedia.org/resource/Auburn,_California",http://sws.geonames.org/5325223/
+0,36,"Antioch, California","http://dbpedia.org/resource/Antioch,_California",http://sws.geonames.org/5324200/
+0,37,"Albion, California","http://dbpedia.org/resource/Albion,_California",http://sws.geonames.org/5322883/
+0,38,"Yuma, Arizona","http://dbpedia.org/resource/Yuma,_Arizona",http://sws.geonames.org/5322053/
+0,39,"Winkelman, Arizona","http://dbpedia.org/resource/Winkelman,_Arizona",http://sws.geonames.org/5321456/
+0,40,"Paulden, Arizona","http://dbpedia.org/resource/Tempe,_Arizona",http://sws.geonames.org/5308281/
+0,41,"Patagonia, Arizona","http://dbpedia.org/resource/Patagonia,_Arizona",http://sws.geonames.org/5308240/
+0,42,"Houck, Arizona","http://dbpedia.org/resource/Houck,_Arizona",http://sws.geonames.org/5298887/
+0,43,"Greer, Arizona","http://dbpedia.org/resource/Greer,_Arizona",http://sws.geonames.org/5296856/
+0,44,"Fillmore, California","http://dbpedia.org/resource/Fillmore,_California",http://sws.geonames.org/5284756/
+0,45,"Holbrook, Arizona","http://dbpedia.org/resource/Holbrook,_Arizona",http://sws.geonames.org/5284580/
+0,46,"Columbia, Connecticut","http://dbpedia.org/resource/Stamford,_Connecticut",http://sws.geonames.org/5284338/
+0,47,"Colchester, Connecticut","http://dbpedia.org/resource/Colchester,_Connecticut",http://sws.geonames.org/5284283/
+0,48,"Bridgeport, Connecticut","http://dbpedia.org/resource/Fairfield,_Connecticut",http://sws.geonames.org/5282804/
+0,49,"Bolton, Connecticut","http://dbpedia.org/resource/Bolton,_Connecticut",http://sws.geonames.org/5282617/
+0,50,"Ashford, Connecticut","http://dbpedia.org/resource/Ashford,_Connecticut",http://sws.geonames.org/5281639/
+0,51,"Three Rivers, Massachusetts","http://dbpedia.org/resource/Taunton,_Massachusetts",http://sws.geonames.org/5280975/
+0,52,"Wheeling, West Virginia","http://dbpedia.org/resource/Wheeling,_West_Virginia",http://sws.geonames.org/5280854/
+0,53,"Wausau, Wisconsin","http://dbpedia.org/resource/Wausau,_Wisconsin",http://sws.geonames.org/5278120/
+0,54,"Solon Springs, Wisconsin","http://dbpedia.org/resource/Solon_Springs,_Wisconsin",http://sws.geonames.org/5273607/
+0,55,"Shullsburg, Wisconsin","http://dbpedia.org/resource/Wisconsin_Rapids,_Wisconsin",http://sws.geonames.org/5273110/
+0,56,"Shell Lake, Wisconsin","http://dbpedia.org/resource/Shell_Lake,_Wisconsin",http://sws.geonames.org/5272949/
+0,57,"Sheboygan Falls, Wisconsin","http://dbpedia.org/resource/Sheboygan,_Wisconsin",http://sws.geonames.org/5272907/
+0,58,"Prescott, Wisconsin","http://dbpedia.org/resource/Prescott,_Wisconsin",http://sws.geonames.org/5268045/
+0,59,"Lincoln, Vilas County, Wisconsin","http://dbpedia.org/resource/Lincoln,_Vilas_County,_Wisconsin",http://sws.geonames.org/5260099/
+0,60,"La Crosse, Wisconsin","http://dbpedia.org/resource/La_Crosse,_Wisconsin",http://sws.geonames.org/5258957/
+0,61,"Fulton, Wisconsin","http://dbpedia.org/resource/Fulton,_Wisconsin",http://sws.geonames.org/5253958/
+0,62,"Fern, Wisconsin","http://dbpedia.org/resource/Fern,_Wisconsin",http://sws.geonames.org/5252629/
+0,63,"Diamond Bluff, Wisconsin","http://dbpedia.org/resource/Diamond_Bluff,_Wisconsin",http://sws.geonames.org/5250571/
+0,64,"Bradley, Wisconsin","http://dbpedia.org/resource/Bradley,_Wisconsin",http://sws.geonames.org/5246604/
+0,65,"Argonne, Wisconsin","http://dbpedia.org/resource/Argonne,_Wisconsin",http://sws.geonames.org/5244133/
+0,66,"Westmore, Vermont","http://dbpedia.org/resource/Westmore,_Vermont",http://sws.geonames.org/5242819/
+0,67,"Stratton, Vermont","http://dbpedia.org/resource/Stratton,_Vermont",http://sws.geonames.org/5241643/
+0,68,"Shrewsbury, Vermont",http://dbpedia.org/resource/Shrewsbury,http://sws.geonames.org/5241086/
+0,69,"Peru, Vermont","http://dbpedia.org/resource/Peru,_Vermont",http://sws.geonames.org/5239736/
+0,70,"Orleans, Vermont","http://dbpedia.org/resource/Orleans,_Vermont",http://sws.geonames.org/5239519/
+0,71,Newport,"http://dbpedia.org/resource/Newport,_Wales",http://sws.geonames.org/5239058/
+0,72,"Mount Holly, Vermont","http://dbpedia.org/resource/Mount_Holly,_Vermont",http://sws.geonames.org/5238820/
+0,73,"Londonderry, Vermont",http://dbpedia.org/resource/Derry,http://sws.geonames.org/5238077/
+0,74,"Island Pond, Vermont","http://dbpedia.org/resource/Island_Pond,_Vermont",http://sws.geonames.org/5237402/
+0,75,"Craftsbury, Vermont","http://dbpedia.org/resource/Craftsbury,_Vermont",http://sws.geonames.org/5235219/
+0,76,"Clarendon, Vermont","http://dbpedia.org/resource/Clarendon,_Vermont",http://sws.geonames.org/5234920/
+0,77,"Beecher Falls, Vermont","http://dbpedia.org/resource/Canaan,_Vermont",http://sws.geonames.org/5233690/
+0,78,"Yankton, South Dakota","http://dbpedia.org/resource/Yankton,_South_Dakota",http://sws.geonames.org/5233053/
+0,79,"Chamberlain, South Dakota","http://dbpedia.org/resource/Chamberlain,_South_Dakota",http://sws.geonames.org/5226829/
+0,80,"Providence, Rhode Island","http://dbpedia.org/resource/Providence,_Rhode_Island",http://sws.geonames.org/5224151/
+0,81,"Pawtucket, Rhode Island","http://dbpedia.org/resource/Pawtucket,_Rhode_Island",http://sws.geonames.org/5223869/
+0,82,"Williamsport, Pennsylvania","http://dbpedia.org/resource/Williamsport,_Pennsylvania",http://sws.geonames.org/5219585/
+0,83,"Wilkes-Barre, Pennsylvania","http://dbpedia.org/resource/Wilkes-Barre,_Pennsylvania",http://sws.geonames.org/5219488/
+0,84,"Watsontown, Pennsylvania",http://dbpedia.org/resource/Pennsylvania,http://sws.geonames.org/5218246/
+0,85,"Sunbury, Pennsylvania","http://dbpedia.org/resource/Sunbury,_Pennsylvania",http://sws.geonames.org/5214814/
+0,86,"Stillwater, Pennsylvania","http://dbpedia.org/resource/Stillwater,_Minnesota",http://sws.geonames.org/5214192/
+0,87,"Shickshinny, Pennsylvania","http://dbpedia.org/resource/Shickshinny,_Pennsylvania",http://sws.geonames.org/5211936/
+0,88,"Scranton, Pennsylvania","http://dbpedia.org/resource/Scranton,_Pennsylvania",http://sws.geonames.org/5211303/
+0,89,"Sayre, Pennsylvania","http://dbpedia.org/resource/Sayre,_Pennsylvania",http://sws.geonames.org/5211037/
+0,90,"Rupert, Pennsylvania","http://dbpedia.org/resource/Rupert,_Pennsylvania",http://sws.geonames.org/5209291/
+0,91,"Pillow, Pennsylvania","http://dbpedia.org/resource/Pillow,_Pennsylvania",http://sws.geonames.org/5205965/
+0,92,"Old Forge, Lackawanna County, Pennsylvania","http://dbpedia.org/resource/Old_Forge,_Lackawanna_County,_Pennsylvania",http://sws.geonames.org/5204331/
+0,93,"Nanticoke, Pennsylvania","http://dbpedia.org/resource/Nanticoke,_Pennsylvania",http://sws.geonames.org/5202855/
+0,94,"Muncy Creek Township, Lycoming County, Pennsylvania","http://dbpedia.org/resource/Muncy_Creek_Township,_Lycoming_County,_Pennsylvania",http://sws.geonames.org/5202732/
+0,95,"Mount Pleasant Township, Wayne County, Pennsylvania","http://dbpedia.org/resource/Mount_Pleasant_Township,_Wayne_County,_Pennsylvania",http://sws.geonames.org/5202337/
+0,96,"Moosic, Pennsylvania","http://dbpedia.org/resource/Moosic,_Pennsylvania",http://sws.geonames.org/5201901/
+0,97,"Montoursville, Pennsylvania","http://dbpedia.org/resource/Montoursville,_Pennsylvania",http://sws.geonames.org/5201801/
+0,98,"Milton, Pennsylvania","http://dbpedia.org/resource/Milton,_Pennsylvania",http://sws.geonames.org/5201470/
+0,99,"Millersburg, Pennsylvania","http://dbpedia.org/resource/Millersburg,_Pennsylvania",http://sws.geonames.org/5201405/
+0,100,"Mill Village, Pennsylvania","http://dbpedia.org/resource/Mill_Village,_Pennsylvania",http://sws.geonames.org/5201291/
+0,101,"Linglestown, Pennsylvania",http://dbpedia.org/resource/Pennsylvania,http://sws.geonames.org/5198180/
+0,102,"Lake City, Pennsylvania","http://dbpedia.org/resource/Lake_City,_Pennsylvania",http://sws.geonames.org/5196767/
+0,103,"Jersey Shore, Pennsylvania","http://dbpedia.org/resource/Jersey_City,_New_Jersey",http://sws.geonames.org/5195416/
+0,104,"Harrisburg, Pennsylvania","http://dbpedia.org/resource/Harrisburg,_Pennsylvania",http://sws.geonames.org/5192726/
+0,105,"Franklin Township, Lycoming County, Pennsylvania","http://dbpedia.org/resource/Franklin_Township,_Lycoming_County,_Pennsylvania",http://sws.geonames.org/5190394/
+0,106,"Ellwood City, Pennsylvania","http://dbpedia.org/resource/Ellwood_City,_Pennsylvania",http://sws.geonames.org/5188609/
+0,107,"Easton, Pennsylvania","http://dbpedia.org/resource/Easton,_Pennsylvania",http://sws.geonames.org/5188140/
+0,108,"Duryea, Pennsylvania","http://dbpedia.org/resource/Duryea,_Pennsylvania",http://sws.geonames.org/5187611/
+0,109,"Dupont, Pennsylvania","http://dbpedia.org/resource/Dupont,_Pennsylvania",http://sws.geonames.org/5187577/
+0,110,"Dunmore, Pennsylvania","http://dbpedia.org/resource/Dunmore,_Pennsylvania",http://sws.geonames.org/5187542/
+0,111,"Catawissa, Pennsylvania","http://dbpedia.org/resource/Catawissa,_Pennsylvania",http://sws.geonames.org/5183443/
+0,112,"Carrolltown, Pennsylvania",http://dbpedia.org/resource/Pennsylvania,http://sws.geonames.org/5183339/
+0,113,"Canadohta Lake, Pennsylvania","http://dbpedia.org/resource/Canadohta_Lake,_Pennsylvania",http://sws.geonames.org/5183110/
+0,114,"Briar Creek, Pennsylvania","http://dbpedia.org/resource/Briar_Creek,_Pennsylvania",http://sws.geonames.org/5181581/
+0,115,"Brady Township, Lycoming County, Pennsylvania","http://dbpedia.org/resource/Brady_Township,_Lycoming_County,_Pennsylvania",http://sws.geonames.org/5181454/
+0,116,"Bloomsburg, Pennsylvania","http://dbpedia.org/resource/Bloomsburg,_Pennsylvania",http://sws.geonames.org/5180934/
+0,117,"Athens, Pennsylvania","http://dbpedia.org/resource/Athens,_Ohio",http://sws.geonames.org/5178651/
+0,118,"Allentown, Pennsylvania","http://dbpedia.org/resource/Allentown,_Pennsylvania",http://sws.geonames.org/5178127/
+0,119,"Smithville, Ohio","http://dbpedia.org/resource/Smithville,_Ohio",http://sws.geonames.org/5172321/
+0,120,"Sandy Township, Tuscarawas County, Ohio","http://dbpedia.org/resource/Sandy_Township,_Tuscarawas_County,_Ohio",http://sws.geonames.org/5170744/
+0,121,"Rose Township, Carroll County, Ohio","http://dbpedia.org/resource/Rose_Township,_Carroll_County,_Ohio",http://sws.geonames.org/5168653/
+0,122,"Rocky River, Ohio","http://dbpedia.org/resource/Rocky_River,_Ohio",http://sws.geonames.org/5168491/
+0,123,"Munson Township, Geauga County, Ohio","http://dbpedia.org/resource/Munson_Township,_Geauga_County,_Ohio",http://sws.geonames.org/5163978/
+0,124,"Minerva, Ohio","http://dbpedia.org/resource/Minerva,_Ohio",http://sws.geonames.org/5163143/
+0,125,"Loudonville, Ohio","http://dbpedia.org/resource/Loudonville,_Ohio",http://sws.geonames.org/5161340/
+0,126,"Lorain, Ohio","http://dbpedia.org/resource/Lorain,_Ohio",http://sws.geonames.org/5161262/
+0,127,"Hartville, Ohio","http://dbpedia.org/resource/Hartville,_Ohio",http://sws.geonames.org/5157064/
+0,128,"Hanover Township, Columbiana County, Ohio","http://dbpedia.org/resource/Hanover_Township,_Columbiana_County,_Ohio",http://sws.geonames.org/5156800/
+0,129,"Green Township, Harrison County, Ohio","http://dbpedia.org/resource/Green_Township,_Harrison_County,_Ohio",http://sws.geonames.org/5156429/
+0,130,"Fox Township, Carroll County, Ohio","http://dbpedia.org/resource/Rose_Township,_Carroll_County,_Ohio",http://sws.geonames.org/5155059/
+0,131,"Flushing, Ohio","http://dbpedia.org/resource/Flushing,_Ohio",http://sws.geonames.org/5154730/
+0,132,"Eastlake, Ohio","http://dbpedia.org/resource/Eastlake,_Ohio",http://sws.geonames.org/5152833/
+0,133,"Dover, Ohio","http://dbpedia.org/resource/Dover,_Ohio",http://sws.geonames.org/5152243/
+0,134,"Coshocton, Ohio","http://dbpedia.org/resource/Coshocton,_Ohio",http://sws.geonames.org/5151186/
+0,135,"Cambridge, Ohio","http://dbpedia.org/resource/Cambridge,_Ohio",http://sws.geonames.org/5149007/
+0,136,"Brook Park, Ohio","http://dbpedia.org/resource/Brook_Park,_Ohio",http://sws.geonames.org/5148326/
+0,137,"Bridgeport, Ohio","http://dbpedia.org/resource/Bridgeport,_Connecticut",http://sws.geonames.org/5148192/
+0,138,"Whitesboro, New York","http://dbpedia.org/resource/Whitesboro,_New_York",http://sws.geonames.org/5144396/
+0,139,"White Plains, New York","http://dbpedia.org/resource/White_Plains,_New_York",http://sws.geonames.org/5144336/
+0,140,"Westerlo, New York","http://dbpedia.org/resource/Westerlo,_New_York",http://sws.geonames.org/5144071/
+0,141,"West Haverstraw, New York","http://dbpedia.org/resource/West_Haverstraw,_New_York",http://sws.geonames.org/5143830/
+0,142,"Wawarsing, New York","http://dbpedia.org/resource/Wawarsing,_New_York",http://sws.geonames.org/5143443/
+0,143,"Watkins Glen, New York","http://dbpedia.org/resource/Watkins_Glen,_New_York",http://sws.geonames.org/5143419/
+0,144,"Washingtonville, New York","http://dbpedia.org/resource/Washingtonville,_New_York",http://sws.geonames.org/5143344/
+0,145,"Voorheesville, New York","http://dbpedia.org/resource/Voorheesville,_New_York",http://sws.geonames.org/5142415/
+0,146,"Victor, New York","http://dbpedia.org/resource/Victor,_New_York",http://sws.geonames.org/5142315/
+0,147,"Veteran, New York","http://dbpedia.org/resource/Veteran,_New_York",http://sws.geonames.org/5142303/
+0,148,"Tyre, New York","http://dbpedia.org/resource/Tyre,_New_York",http://sws.geonames.org/5141772/
+0,149,Tonawanda,"http://dbpedia.org/resource/North_Tonawanda,_New_York",http://sws.geonames.org/5141175/
+0,150,"Syracuse, New York",http://dbpedia.org/resource/New_York_City,http://sws.geonames.org/5140405/
+0,151,"Sylvan Beach, New York","http://dbpedia.org/resource/Sylvan_Beach,_New_York",http://sws.geonames.org/5140389/
+0,152,"Sunset Bay, New York","http://dbpedia.org/resource/Oyster_Bay_(town),_New_York",http://sws.geonames.org/5140241/
+0,153,"Stockport, New York","http://dbpedia.org/resource/Stockport,_New_York",http://sws.geonames.org/5139777/
+0,154,"Stockbridge, New York","http://dbpedia.org/resource/Stockbridge,_New_York",http://sws.geonames.org/5139764/
+0,155,"Smithfield, New York","http://dbpedia.org/resource/Smithfield,_New_York",http://sws.geonames.org/5138529/
+0,156,"Sleepy Hollow, New York","http://dbpedia.org/resource/Sleepy_Hollow,_New_York",http://sws.geonames.org/5138371/
+0,157,"Shandaken, New York","http://dbpedia.org/resource/Shandaken,_New_York",http://sws.geonames.org/5137763/
+0,158,"Scarsdale, New York","http://dbpedia.org/resource/Scarsdale,_New_York",http://sws.geonames.org/5136433/
+0,159,"Sand Lake, New York","http://dbpedia.org/resource/Sand_Lake,_New_York",http://sws.geonames.org/5136209/
+0,160,"Rifton, New York","http://dbpedia.org/resource/Rifton,_New_York",http://sws.geonames.org/5133863/
+0,161,"Richmond, New York",http://dbpedia.org/resource/Staten_Island,http://sws.geonames.org/5133803/
+0,162,"Richland, New York","http://dbpedia.org/resource/Richland,_New_York",http://sws.geonames.org/5133799/
+0,163,"Prattsburgh, New York","http://dbpedia.org/resource/Prattsburgh,_New_York",http://sws.geonames.org/5132205/

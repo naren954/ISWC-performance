@@ -1,0 +1,6 @@
+"F1: 0.33333","Precision: 0.33333","Recall: 0.33333"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","1","Bullets (Includes Bata, Total Big, Bakili Bullets)","http://dbpedia.org/resource/Washington_Wizards","http://dbpedia.org/resource/Bata_Bullets http://dbpedia.org/resource/Bakili_Bullets http://dbpedia.org/resource/Total_Big_Bullets http://dbpedia.org/resource/Big_Bullets_F.C. http://dbpedia.org/resource/Big_Bullets http://dbpedia.org/resource/Big_Bullets_FC"
+"0","2","Silver Strikers","http://dbpedia.org/resource/Silver_Strikers_FC","http://dbpedia.org/resource/Silver_Strikers http://dbpedia.org/resource/Silver_Strikers_F.C."
+"0","3","Wanderers (Includes Limbe Leaf, Telecom, MTL Wanderers)","http://dbpedia.org/resource/Wolverhampton_Wanderers_F.C.","http://dbpedia.org/resource/Yamaha_Wanderers http://dbpedia.org/resource/Mighty_Wanderers_F.C. http://dbpedia.org/resource/MTL_Wanderers http://dbpedia.org/resource/Mighty_Wanderers http://dbpedia.org/resource/Mighty_Wanderers_FC http://dbpedia.org/resource/Telecom_Wanderers http://dbpedia.org/resource/Limbe_Leaf_Wanderers"
+"0","5","ADMARC Tigers","http://fr.dbpedia.org/resource/Azam_Tigers_Football_Club","http://dbpedia.org/resource/Tigers_FC_(Malawi) http://dbpedia.org/resource/Tigers_FC_(Blantyre)"

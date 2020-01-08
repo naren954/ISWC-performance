@@ -1,0 +1,8 @@
+"F1: 0.94286","Precision: 0.94286","Recall: 0.94286"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"3","9","C. Jacobs","http://dbpedia.org/resource/Clare_Jacobs","http://dbpedia.org/resource/Chris_Jacobs_(swimmer)"
+"3","16","C. Jacobs","http://dbpedia.org/resource/Clare_Jacobs","http://dbpedia.org/resource/Chris_Jacobs_(swimmer)"
+"3","40","S. Kopliakov","nan","http://dbpedia.org/resource/Sergei_Kopliakov http://dbpedia.org/resource/Kopliakov http://dbpedia.org/resource/Sergey_Koplyakov http://dbpedia.org/resource/Koplyakov http://dbpedia.org/resource/Sergey_Kopliakov http://dbpedia.org/resource/Sergey_Kopliyakov"
+"3","50","V. Kuznetsov","http://dbpedia.org/resource/Vladimir_Kuznetsov_(cyclist)","http://dbpedia.org/resource/Viktor_Kuznetsov_(swimmer)"
+"3","74","Đ. Bjedov","http://dbpedia.org/resource/Nina_Bjedov","http://dbpedia.org/resource/Đurđica_Bjedov"
+"3","89","B. Charlton","http://dbpedia.org/resource/Bobby_Charlton","http://dbpedia.org/resource/Andrew_Charlton http://dbpedia.org/resource/Boy_Charlton"

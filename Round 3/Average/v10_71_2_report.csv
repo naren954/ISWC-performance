@@ -1,0 +1,66 @@
+F1: 0.66667,Precision: 0.66667,Recall: 0.66667,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,4,A. Morishima,http://dbpedia.org/resource/Michio_Morishima,http://dbpedia.org/resource/Morishima_Akiko http://dbpedia.org/resource/Akiko_Morishima
+2,5,K. Takahashi,http://dbpedia.org/resource/Rumiko_Takahashi,http://dbpedia.org/resource/Takahasi_Kazuki http://dbpedia.org/resource/Kazuki_Takahashi http://dbpedia.org/resource/Kazuki_Takahasi http://dbpedia.org/resource/Takahashi_Kazuki http://dbpedia.org/resource/Kazaki_Takahashi
+2,7,Clamp,http://dbpedia.org/resource/Shirley_Clamp,http://dbpedia.org/resource/Clamp_(manga_artists) http://dbpedia.org/resource/Hidari_Te http://dbpedia.org/resource/Studio_clamp http://dbpedia.org/resource/Left_Hand_(manga) http://dbpedia.org/resource/CLAMP_(manga_artists) http://dbpedia.org/resource/CLAMP http://dbpedia.org/resource/Clamp_manga http://dbpedia.org/resource/CLAMP_Manga
+2,10,Y. ABe,http://dbpedia.org/resource/Kōbō_Abe,"http://dbpedia.org/resource/ABe_Yoshitoshi http://dbpedia.org/resource/Yoshitoshi_ABe http://dbpedia.org/resource/Oshitoshi_Abe http://dbpedia.org/resource/ABe http://dbpedia.org/resource/Yoshitoshi_Abe http://dbpedia.org/resource/ABe,_Yoshitoshi http://dbpedia.org/resource/Abe_Yoshitoshi"
+2,12,Yasu,http://fr.dbpedia.org/resource/Yasunori_Hayashi,http://dbpedia.org/resource/Yasu_(illustrator)
+2,14,Hidari,http://dbpedia.org/resource/Sachiko_Hidari,http://dbpedia.org/resource/Hidari_(illustrator)
+2,16,E. Mizuno,http://dbpedia.org/resource/Miki_Mizuno,http://dbpedia.org/resource/Mizuno_Eita http://dbpedia.org/resource/Eita_Mizuno
+2,17,H. Mikimoto,http://dbpedia.org/resource/Yūji_Mikimoto,http://dbpedia.org/resource/Haruhiko_Satō http://dbpedia.org/resource/Haruhiko_Mikimoto http://dbpedia.org/resource/Mikimoto_Haruhiko
+2,18,Yasu,http://fr.dbpedia.org/resource/Yasunori_Hayashi,http://dbpedia.org/resource/Yasu_(illustrator)
+2,19,Y. Sumiyoshi,http://dbpedia.org/resource/Kawamura_Sumiyoshi,http://dbpedia.org/resource/Fumiko_Sumiyoshi http://dbpedia.org/resource/Yukiko_Sumiyoshi
+2,29,Y. Amano,http://dbpedia.org/resource/Kozue_Amano,http://dbpedia.org/resource/Amano_Yositaka http://dbpedia.org/resource/Amano_Yoshitaka http://dbpedia.org/resource/Yositaka_Amano http://dbpedia.org/resource/Yoshitaka_Amano
+2,31,K. Amemiya,http://dbpedia.org/resource/Takeshi_Amemiya,http://dbpedia.org/resource/雨宮慶太 http://dbpedia.org/resource/Keita_Amemiya http://dbpedia.org/resource/Keita_Amamiya
+2,34,H. Shimada,http://dbpedia.org/resource/Yoko_Shimada,http://dbpedia.org/resource/Humikane_Shimada http://dbpedia.org/resource/Fumikane_Shimada
+2,35,C. Maki,http://dbpedia.org/resource/Claude_Maki,http://dbpedia.org/resource/Chitose_Maki
+2,38,K. Yamane,http://dbpedia.org/resource/Ayano_Yamane,http://dbpedia.org/resource/Kimitoshi_Yamane
+2,40,R. Murata,http://dbpedia.org/resource/Minoru_Murata,http://dbpedia.org/resource/Range_Murata
+2,47,Y. Amano,http://dbpedia.org/resource/Kozue_Amano,http://dbpedia.org/resource/Amano_Yositaka http://dbpedia.org/resource/Amano_Yoshitaka http://dbpedia.org/resource/Yositaka_Amano http://dbpedia.org/resource/Yoshitaka_Amano
+2,48,Slayers,http://dbpedia.org/resource/Slayer,http://dbpedia.org/resource/Sureiyāzu http://dbpedia.org/resource/SLayers http://dbpedia.org/resource/Slayers_Next http://dbpedia.org/resource/The_Slayers http://dbpedia.org/resource/Noonsa http://dbpedia.org/resource/スレイヤーズ http://dbpedia.org/resource/Slayers_(first_series) http://dbpedia.org/resource/List_of_Slayers_media http://dbpedia.org/resource/Saillune http://dbpedia.org/resource/Slayers_Evolution-R http://dbpedia.org/resource/Slayers_Try http://dbpedia.org/resource/Slayers_(manga) http://dbpedia.org/resource/Slayers http://dbpedia.org/resource/Nahga http://dbpedia.org/resource/Slayers_Revolution
+2,55,J. Ando,http://dbpedia.org/resource/Tadao_Ando,http://dbpedia.org/resource/Jiro_Ando
+2,56,Y. Higa,http://dbpedia.org/resource/Rino_Higa,http://dbpedia.org/resource/Yukari_Higa http://dbpedia.org/resource/Higa_Yukari
+2,66,M. Kishida,http://dbpedia.org/resource/Kunio_Kishida,http://dbpedia.org/resource/Mel_Kishida
+2,68,A. Amano,http://dbpedia.org/resource/Kozue_Amano,http://dbpedia.org/resource/Amano_Akira http://dbpedia.org/resource/Akira_Amano
+2,73,S. Yamamoto,http://dbpedia.org/resource/Shouma_Yamamoto,http://dbpedia.org/resource/Satoshi_Yamamoto
+2,76,M. Yuki,http://dbpedia.org/resource/Yuki_Ota,http://dbpedia.org/resource/Masami_Yuki http://dbpedia.org/resource/Masami_Yuuki http://dbpedia.org/resource/Yuuki_Masami http://dbpedia.org/resource/Masami_Yūki http://dbpedia.org/resource/Yuki_Masami
+2,79,K. Araki,http://dbpedia.org/resource/Tetsurō_Araki,http://dbpedia.org/resource/Kanao_Araki
+2,81,N. Minegishi,http://dbpedia.org/resource/Keisuke_Minegishi,http://dbpedia.org/resource/Nobuaki_Minegishi http://dbpedia.org/resource/Minegishi_Nobuaki
+2,82,Y. Koyama,http://dbpedia.org/resource/Kimiko_Koyama,http://dbpedia.org/resource/Yū_Koyama
+2,88,K. Fujiwara,http://dbpedia.org/resource/Keiji_Fujiwara,http://dbpedia.org/resource/Kamui_Fujiwara
+2,89,K. Tokita,http://dbpedia.org/resource/Hiroko_Tokita,http://dbpedia.org/resource/Koichi_Tokita http://dbpedia.org/resource/Kōichi_Tokita
+2,97,K. Terada,http://dbpedia.org/resource/Keiko_Terada,http://dbpedia.org/resource/Katsuya_Terada
+2,101,K. Yoshimizu,http://dbpedia.org/resource/Takahiro_Yoshimizu,http://dbpedia.org/resource/Yoshimizu_Kagami http://dbpedia.org/resource/Kagami_Yoshimizu
+2,103,M. Tsuda,http://dbpedia.org/resource/Masami_Tsuda,http://dbpedia.org/resource/Mikiyo_Tsuda http://dbpedia.org/resource/Taishi_Zaō http://dbpedia.org/resource/Taishi_Zao http://dbpedia.org/resource/Taishi_Zaou
+2,106,T. Ejiri,http://dbpedia.org/resource/Atsuhiko_Ejiri,http://dbpedia.org/resource/Tatsuma_Ejiri
+2,107,S. Yamamoto,http://dbpedia.org/resource/Shouma_Yamamoto,http://dbpedia.org/resource/Satoshi_Yamamoto
+2,110,N. Kato,http://dbpedia.org/resource/Nobuyuki_Kato,http://dbpedia.org/resource/Naoyuki_Katoh http://dbpedia.org/resource/Naoyuki_Kato http://dbpedia.org/resource/Kato_Naoyuki http://dbpedia.org/resource/Digan_no_Maseki
+2,111,K. Kamimura,http://dbpedia.org/resource/Yuji_Kamimura,http://dbpedia.org/resource/Kazuo_Kamimura http://dbpedia.org/resource/Kamimura_Kazuo
+2,114,N. Andō,http://dbpedia.org/resource/Tadao_Ando,http://dbpedia.org/resource/Natsumi_Andō
+2,116,H. Kimura,http://dbpedia.org/resource/Masahiko_Kimura,http://dbpedia.org/resource/Hidefumi_Kimura http://dbpedia.org/resource/Hidefumi
+2,118,K. Fujiwara,http://dbpedia.org/resource/Keiji_Fujiwara,http://dbpedia.org/resource/Kamui_Fujiwara
+2,119,Y. Fujiwara,http://de.dbpedia.org/resource/Yū_Fujiwara,http://dbpedia.org/resource/Yoshihide_Fujiwara
+2,121,Y. Katsura,http://dbpedia.org/resource/Masakazu_Katsura,http://dbpedia.org/resource/Yukimaru_Katsura
+2,124,T. Takeuchi,http://dbpedia.org/resource/Yūko_Takeuchi,http://dbpedia.org/resource/Takashi_Takeuchi http://dbpedia.org/resource/Takeuchi_Takeshi http://dbpedia.org/resource/Takeshi_Takeuchi
+2,129,Yasu,http://fr.dbpedia.org/resource/Yasunori_Hayashi,http://dbpedia.org/resource/Yasu_(illustrator)
+2,131,K. Miura,http://dbpedia.org/resource/Kiyohiro_Miura,http://dbpedia.org/resource/Miura_Kentarou http://dbpedia.org/resource/Miura_Kentaro http://dbpedia.org/resource/Kentarō_Miura http://dbpedia.org/resource/Kentarou_Miura http://dbpedia.org/resource/Kentaro_Miura
+2,132,S. Tobe,http://dbpedia.org/resource/Roberto_Tobe,http://dbpedia.org/resource/Sunaho http://dbpedia.org/resource/Sunaho_Tobe http://dbpedia.org/resource/Tobe_Sunaho
+2,140,R. Izumi,http://dbpedia.org/resource/Kyōka_Izumi,http://dbpedia.org/resource/Rei_Izumi http://dbpedia.org/resource/Rei_Idumi http://dbpedia.org/resource/Idumi_Rei http://dbpedia.org/resource/Izumi_Rei
+2,141,M. Kishida,http://dbpedia.org/resource/Kunio_Kishida,http://dbpedia.org/resource/Mel_Kishida
+2,146,T. Zaou,http://dbpedia.org/resource/T.A.T.u.,http://dbpedia.org/resource/Mikiyo_Tsuda http://dbpedia.org/resource/Taishi_Zaō http://dbpedia.org/resource/Taishi_Zao http://dbpedia.org/resource/Taishi_Zaou
+2,147,R. Fujii,http://dbpedia.org/resource/Mihona_Fujii,http://dbpedia.org/resource/Rino_Fujii
+2,149,Y. Amano,http://dbpedia.org/resource/Kozue_Amano,http://dbpedia.org/resource/Amano_Yositaka http://dbpedia.org/resource/Amano_Yoshitaka http://dbpedia.org/resource/Yositaka_Amano http://dbpedia.org/resource/Yoshitaka_Amano
+2,151,G. Ota,http://dbpedia.org/resource/Gakuji_Ota,http://dbpedia.org/resource/Gosaku_Ota
+2,155,K. Ishikawa,http://dbpedia.org/resource/Kaito_Ishikawa,http://dbpedia.org/resource/Ken_Ishikawa
+2,158,S. Kio,http://dbpedia.org/resource/Igor_Kio,http://dbpedia.org/resource/Kio_Shimoku http://dbpedia.org/resource/Shimoku_Kio http://dbpedia.org/resource/木尾士目
+2,159,K. Gotoh,http://dbpedia.org/resource/Masafumi_Gotoh,http://dbpedia.org/resource/Gotō_Keiji http://dbpedia.org/resource/Keiji_Gotou http://dbpedia.org/resource/Keizi_Goto http://dbpedia.org/resource/Gotoh_Keiji http://dbpedia.org/resource/Keiji_Gotô http://dbpedia.org/resource/Keiji_Gotō http://dbpedia.org/resource/Gotoo_Keiji http://dbpedia.org/resource/Gotô_Keizi http://dbpedia.org/resource/Goto_Keizi http://dbpedia.org/resource/Gotô_Keiji http://dbpedia.org/resource/Goto_Keiji http://dbpedia.org/resource/Keizi_Gotô http://dbpedia.org/resource/Keiji_Goto http://dbpedia.org/resource/Gotou_Keiji http://dbpedia.org/resource/Keiji_Gotoh http://dbpedia.org/resource/Keiji_Gotoo
+2,161,T. Check,http://dbpedia.org/resource/Czech_Republic,http://dbpedia.org/resource/Tartan_Check
+2,164,R. Tateo,http://dbpedia.org/resource/Tateo_Ozaki,http://dbpedia.org/resource/Retsu_Tateo http://dbpedia.org/resource/Tateo_Retsu
+2,168,Y. Chiba,http://dbpedia.org/resource/Sonny_Chiba,http://dbpedia.org/resource/Chiba_Yuriko http://dbpedia.org/resource/Yuriko_Chiba
+2,169,T. Takeuchi,http://dbpedia.org/resource/Yūko_Takeuchi,http://dbpedia.org/resource/Takashi_Takeuchi http://dbpedia.org/resource/Takeuchi_Takeshi http://dbpedia.org/resource/Takeshi_Takeuchi
+2,174,K. Fujiwara,http://dbpedia.org/resource/Keiji_Fujiwara,http://dbpedia.org/resource/Kamui_Fujiwara
+2,175,K. Inada,http://dbpedia.org/resource/Nada_Inada,http://dbpedia.org/resource/Kōji_Inada http://dbpedia.org/resource/Kôji_Inada http://dbpedia.org/resource/Koji_Inada
+2,177,Y. Yagami,http://dbpedia.org/resource/Chitose_Yagami,http://dbpedia.org/resource/Yu_Yagami http://dbpedia.org/resource/Yū_Yagami
+2,182,Y. ABe,http://dbpedia.org/resource/Kōbō_Abe,"http://dbpedia.org/resource/ABe_Yoshitoshi http://dbpedia.org/resource/Yoshitoshi_ABe http://dbpedia.org/resource/Oshitoshi_Abe http://dbpedia.org/resource/ABe http://dbpedia.org/resource/Yoshitoshi_Abe http://dbpedia.org/resource/ABe,_Yoshitoshi http://dbpedia.org/resource/Abe_Yoshitoshi"
+2,190,K. Ishikawa,http://dbpedia.org/resource/Kaito_Ishikawa,http://dbpedia.org/resource/Ken_Ishikawa
+2,192,F. Hosono,http://dbpedia.org/resource/Haruomi_Hosono,http://dbpedia.org/resource/Fujihiko_Hosono http://dbpedia.org/resource/Hosono_Fujihiko

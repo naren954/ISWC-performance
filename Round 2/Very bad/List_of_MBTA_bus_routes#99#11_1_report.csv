@@ -1,0 +1,7 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,2,Watertown Yard - Copley Square (St. James Avenue at Dartmouth St.) via Newton Corner & Massachusetts Turnpike,"http://dbpedia.org/resource/Newton_Corner,_Massachusetts",http://dbpedia.org/resource/Watertown_Yard_(MBTA_station) http://dbpedia.org/resource/Watertown_(MBTA_station) http://dbpedia.org/resource/Watertown_Yard_bus_terminal http://dbpedia.org/resource/Watertown_Carhouse http://dbpedia.org/resource/Watertown_Yard
+1,5,"Central Square, Waltham - Downtown via Moody Street & Massachusetts Turnpike",http://dbpedia.org/resource/Downtown_Phoenix,"http://dbpedia.org/resource/Central_Square_Historic_District_(Waltham,_Massachusetts)"
+1,6,"Roberts - Downtown Boston via Newton Corner & Central Square, Waltham",http://dbpedia.org/resource/Beirut_Central_District,http://dbpedia.org/resource/Brandeis/Roberts_(MBTA_station) http://dbpedia.org/resource/Brandeis/Roberts http://dbpedia.org/resource/Roberts_(MBTA_station)
+1,7,Waverley Square - Downtown Boston,http://dbpedia.org/resource/Downtown_Indianapolis,http://dbpedia.org/resource/Waverley_(MBTA_station)
+1,9,Riverside - Downtown Boston via Newton Corner & Turnpike,http://dbpedia.org/resource/Riverside_station_(MBTA),http://dbpedia.org/resource/Riverside_(MBTA) http://dbpedia.org/resource/Riverside_(B&A_station) http://dbpedia.org/resource/Riverside_(MBTA_station)

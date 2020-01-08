@@ -1,0 +1,6 @@
+F1: 0.33333,Precision: 0.33333,Recall: 0.33333,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,R. Coleman,http://dbpedia.org/resource/Ralph_Coleman_(American_football),http://dbpedia.org/resource/Ray_Coleman
+0,3,J. Donaldson,http://dbpedia.org/resource/Julia_Donaldson,http://dbpedia.org/resource/Joan_Donaldson
+0,5,C. Poirier,http://dbpedia.org/resource/Anne_Claire_Poirier,http://dbpedia.org/resource/Conrad_Poirier
+0,6,A. Dunnett,http://dbpedia.org/resource/Stephen_Dunnett,http://dbpedia.org/resource/Sir_Alastair_Dunnett http://dbpedia.org/resource/Alastair_Dunnett http://dbpedia.org/resource/Alastair_MacTavish_Dunnett

@@ -1,0 +1,5 @@
+"F1: 0.89286","Precision: 0.89286","Recall: 0.89286"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","5","William Hiester","http://dbpedia.org/resource/William_Muhlenberg_Hiester","http://dbpedia.org/resource/William_Hiester_(Pennsylvania)"
+"1","13","William Clark","http://dbpedia.org/resource/William_A._Clark","http://dbpedia.org/resource/William_Clark_(congressman)"
+"1","23","Andrew Stewart","http://dbpedia.org/resource/Andrew_Stewart_(American_politician,_died_1903)","http://dbpedia.org/resource/Andrew_Stewart_(1791–1872) http://dbpedia.org/resource/Andrew_Stewart_(died_1872) http://dbpedia.org/resource/Andrew_Stewart_(1791-1872) http://dbpedia.org/resource/Andrew_Stewart_(American_politician,_died_1872)"

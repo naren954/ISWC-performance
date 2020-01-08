@@ -1,0 +1,8 @@
+"F1: 0.81818","Precision: 0.81818","Recall: 0.81818"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","1","B. Armstrong","http://dbpedia.org/resource/Bob_Armstrong_(basketball,_born_1920)","http://dbpedia.org/resource/Bob_Armstrong_(boxer)"
+"0","3","B. Thompson","http://dbpedia.org/resource/Bernard_Thompson","http://dbpedia.org/resource/Billy_Thompson_(boxer)"
+"0","5","B. Kelly","http://dbpedia.org/resource/Bob_Kelly_(footballer)","http://dbpedia.org/resource/Billy_""Spider""_Kelly http://dbpedia.org/resource/Billy_Kelly_(boxer) http://dbpedia.org/resource/Billy_Spider_Kelly"
+"0","7","B. C. Jr.","http://dbpedia.org/resource/Billy_Cannon_Jr.","http://dbpedia.org/resource/Billy_Collins_(boxer) http://dbpedia.org/resource/Billy_Collins_Junior http://dbpedia.org/resource/Billy_Collins_Jnr http://dbpedia.org/resource/Billy_Collins_Jr. http://dbpedia.org/resource/Billy_Collins_Jr http://dbpedia.org/resource/Billy_Collins_Jnr. http://dbpedia.org/resource/Billy_Collins,_Jr. http://dbpedia.org/resource/William_Ray_Collins,_Jr."
+"0","8","B. Richmond","http://dbpedia.org/resource/Beryl_Richmond","http://dbpedia.org/resource/Bill_Richmond"
+"0","17","B. Bass","http://dbpedia.org/resource/Bob_Bass","http://dbpedia.org/resource/Benny_Bass"

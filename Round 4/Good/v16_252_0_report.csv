@@ -1,0 +1,8 @@
+F1: 0.88679,Precision: 0.88679,Recall: 0.88679,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,6,Ada Apa dengan Cinta?,http://dbpedia.org/resource/Ada_Apa_Dengan_Cinta?_2,http://dbpedia.org/resource/Ada_Apa_dengan_Cinta?_(2014_film)
+0,8,Academy,http://dbpedia.org/resource/The_Academy_Is...,http://dbpedia.org/resource/Academy_(1996_film)
+0,14,Aashiqui,http://dbpedia.org/resource/Aashiqui,http://dbpedia.org/resource/Aashiqui_(2015_film)
+0,22,A Time to Die,http://dbpedia.org/resource/A_Time_for_Dying,http://dbpedia.org/resource/A_Time_to_Die_(1982_film) http://dbpedia.org/resource/Seven_Graves_for_Rogan http://dbpedia.org/resource/A_Time_to_Die_(1983_film)
+0,30,A Shot in the Dark,http://dbpedia.org/resource/A_Shot_in_the_Dark_(1964_film),http://dbpedia.org/resource/A_Shot_in_the_Dark_(1933_film)
+0,36,A Matter of Time,http://dbpedia.org/resource/A_Matter_of_Time_(Star_Trek:_The_Next_Generation),http://dbpedia.org/resource/A_Matter_of_Time_(film) http://dbpedia.org/resource/A_Matter_of_Time_(1976_film)

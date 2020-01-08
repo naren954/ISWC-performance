@@ -1,0 +1,12 @@
+F1: 0.60000,Precision: 0.60000,Recall: 0.60000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,Central Railroad Company of Indiana,http://dbpedia.org/resource/New_York_Central_Railroad,http://dbpedia.org/resource/Central_Railroad_of_Indiana http://dbpedia.org/resource/Central_Railroad_Company_of_Indiana http://dbpedia.org/resource/Central_railroad_of_indiana
+0,7,Chicago South Shore & South Bend Railroad,http://dbpedia.org/resource/Chicago_South_Shore_and_South_Bend_Railroad,http://dbpedia.org/resource/Chicago_South_Shore_&_South_Bend_Railroad
+0,8,Dubois County Railroad,http://dbpedia.org/resource/Atlantic_City_Railroad,http://dbpedia.org/resource/Dubois_Railroad http://dbpedia.org/resource/DCRR http://dbpedia.org/resource/Dubois_County_Railroad
+0,10,Evansville Western Railway,"http://dbpedia.org/resource/Main_Western_railway_line,_New_South_Wales",http://dbpedia.org/resource/Evansville_Western http://dbpedia.org/resource/Evansville_Western_Railway http://dbpedia.org/resource/EVWR
+0,11,Fulton County Railroad,"http://dbpedia.org/resource/Fulton_County,_Indiana",http://dbpedia.org/resource/Fulton_County_Railroad
+0,13,Honey Creek Railroad,http://dbpedia.org/resource/Oil_Creek_and_Titusville_Railroad,http://dbpedia.org/resource/HCRR http://dbpedia.org/resource/Honey_Creek_Railroad
+0,15,Indian Creek Railroad,http://dbpedia.org/resource/Indian_Valley_Railroad,http://dbpedia.org/resource/Indian_Creek_Railroad http://dbpedia.org/resource/ICRK
+0,19,Indiana Southwestern Railway,http://dbpedia.org/resource/Southwestern_Railways,http://dbpedia.org/resource/Indiana_Southwestern_Railway
+0,22,Lucas Oil Rail Line,http://dbpedia.org/resource/Lucas_Oil_Rail_Lines,http://dbpedia.org/resource/Lucas_Oil_Rail_Line
+0,24,"Toledo, Peoria & Western Railway","http://dbpedia.org/resource/Toledo,_Peoria_and_Western_Railway","http://dbpedia.org/resource/Toledo,_Peoria_&_Western_Railway"

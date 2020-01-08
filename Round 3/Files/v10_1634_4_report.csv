@@ -1,0 +1,4 @@
+"F1: 0.80000","Precision: 0.80000","Recall: 0.80000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"4","3","Todd Howard","http://dbpedia.org/resource/Todd_Howard","http://dbpedia.org/resource/Todd_Howard_(video_game_designer) http://dbpedia.org/resource/Todd_Howard_(videogame_designer)"
+"4","6","Hideo Baba","http://dbpedia.org/resource/Hideo_Itokawa","http://dbpedia.org/resource/Hideo_Baba"

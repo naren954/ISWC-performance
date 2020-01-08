@@ -1,0 +1,7 @@
+F1: 0.76190,Precision: 0.76190,Recall: 0.76190,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,C. Johnson,http://dbpedia.org/resource/Carl_Johnson_(soccer),http://dbpedia.org/resource/Carl_Johnson_(athletics) http://dbpedia.org/resource/Carl_Johnson_(athlete) http://dbpedia.org/resource/Carl_Edward_Johnson
+0,6,B. Fowler,http://dbpedia.org/resource/Calvin_Fowler,http://dbpedia.org/resource/Bud_Fowler
+0,9,B. Das,http://dbpedia.org/resource/Binod_Das,http://dbpedia.org/resource/Brojen_Das
+0,15,B. Pappas,http://dbpedia.org/resource/Tom_Pappas,http://dbpedia.org/resource/Ben_Pappas
+0,16,B. Worley,http://dbpedia.org/resource/Tessa_Worley,http://dbpedia.org/resource/Barbara_Worley

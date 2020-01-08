@@ -1,0 +1,150 @@
+F1: 0.12941,Precision: 0.12941,Recall: 0.12941,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,"Sora, Boyacá","http://dbpedia.org/resource/Sora,_Boyacá",http://sws.geonames.org/9172278/
+0,2,Somondoco,http://dbpedia.org/resource/Somondoco,http://sws.geonames.org/9172276/
+0,3,Chivatá,http://dbpedia.org/resource/Chivatá,http://sws.geonames.org/9172264/
+0,4,"Murillo, Tolima","http://dbpedia.org/resource/Murillo,_Tolima",http://sws.geonames.org/9172263/
+0,5,Soracá,http://dbpedia.org/resource/Soracá,http://sws.geonames.org/9172038/
+0,6,"Amos, Quebec","http://dbpedia.org/resource/Amos,_Quebec",http://sws.geonames.org/8673831/
+0,7,San Pablo Huitzo,http://dbpedia.org/resource/San_Pablo_Huitzo,http://sws.geonames.org/8582768/
+0,8,Kyustendil,http://dbpedia.org/resource/Kyustendil,http://sws.geonames.org/729730/
+0,9,Oyón-Oion,http://dbpedia.org/resource/Oyón-Oion,http://sws.geonames.org/6355273/
+0,10,"Orangeville, Ontario","http://dbpedia.org/resource/Orangeville,_Ontario",http://sws.geonames.org/6094201/
+0,11,"New Glasgow, Nova Scotia","http://dbpedia.org/resource/New_Glasgow,_Nova_Scotia",http://sws.geonames.org/6087579/
+0,12,Kentville,http://dbpedia.org/resource/Kentville,http://sws.geonames.org/5991148/
+0,13,"Bridgewater, Nova Scotia","http://dbpedia.org/resource/Bridgewater,_Nova_Scotia",http://sws.geonames.org/5908723/
+0,14,"Aylmer, Ontario","http://dbpedia.org/resource/Aylmer,_Ontario",http://sws.geonames.org/5888716/
+0,15,Arnprior,http://dbpedia.org/resource/Arnprior,http://sws.geonames.org/5887214/
+0,16,"Amos, Quebec","http://dbpedia.org/resource/Amos,_Quebec",http://sws.geonames.org/5884588/
+0,17,"Green Garden Township, Will County, Illinois","http://dbpedia.org/resource/Green_Garden_Township,_Will_County,_Illinois",http://sws.geonames.org/4894597/
+0,18,"Boonsboro, Maryland","http://dbpedia.org/resource/Boonsboro,_Maryland",http://sws.geonames.org/4349107/
+0,19,San Antonio del Tequendama,http://dbpedia.org/resource/San_Antonio_del_Tequendama,http://sws.geonames.org/3792404/
+0,20,"Murillo, Tolima","http://dbpedia.org/resource/Murillo,_Tolima",http://sws.geonames.org/3739353/
+0,21,"Aquitania, Boyacá","http://dbpedia.org/resource/Aquitania,_Boyacá",http://sws.geonames.org/3689772/
+0,22,Arcabuco,http://dbpedia.org/resource/Arcabuco,http://sws.geonames.org/3689690/
+0,23,Arcabuco,http://dbpedia.org/resource/Arcabuco,http://sws.geonames.org/3689689/
+0,24,"Barrancas, La Guajira","http://dbpedia.org/resource/Barrancas,_La_Guajira",http://sws.geonames.org/3689165/
+0,25,Bojacá,http://dbpedia.org/resource/Bojacá,http://sws.geonames.org/3688673/
+0,26,Busbanzá,http://dbpedia.org/resource/Busbanzá,http://sws.geonames.org/3688215/
+0,27,Busbanzá,http://dbpedia.org/resource/Busbanzá,http://sws.geonames.org/3688214/
+0,28,Carmen de Carupa,http://dbpedia.org/resource/Carmen_de_Carupa,http://sws.geonames.org/3687321/
+0,29,"Caucasia, Antioquia","http://dbpedia.org/resource/Caucasia,_Antioquia",http://sws.geonames.org/3687026/
+0,30,"Caucasia, Antioquia","http://dbpedia.org/resource/Caucasia,_Antioquia",http://sws.geonames.org/3687025/
+0,31,Cerinza,http://dbpedia.org/resource/Cerinza,http://sws.geonames.org/3686919/
+0,32,Charta,http://dbpedia.org/resource/Charta,http://sws.geonames.org/3686713/
+0,33,Charta,http://dbpedia.org/resource/Charta,http://sws.geonames.org/3686712/
+0,34,Chinavita,http://dbpedia.org/resource/Chinavita,http://sws.geonames.org/3686571/
+0,35,Chitaraque,http://dbpedia.org/resource/Chitaraque,http://sws.geonames.org/3686455/
+0,36,Chivatá,http://dbpedia.org/resource/Chivatá,http://sws.geonames.org/3686453/
+0,37,Choachí,http://dbpedia.org/resource/Choachí,http://sws.geonames.org/3686441/
+0,38,Chocontá,http://dbpedia.org/resource/Chocontá,http://sws.geonames.org/3686422/
+0,39,"Ciénega, Boyacá","http://dbpedia.org/resource/Ciénega,_Boyacá",http://sws.geonames.org/3686280/
+0,40,"Ciénega, Boyacá","http://dbpedia.org/resource/Ciénega,_Boyacá",http://sws.geonames.org/3686262/
+0,41,Cómbita,http://dbpedia.org/resource/Cómbita,http://sws.geonames.org/3686053/
+0,42,Cucunubá,http://dbpedia.org/resource/Cucunubá,http://sws.geonames.org/3685540/
+0,43,"El Molino, La Guajira","http://dbpedia.org/resource/El_Molino,_La_Guajira",http://sws.geonames.org/3683778/
+0,44,"Filandia, Quindío","http://dbpedia.org/resource/Filandia,_Quindío",http://sws.geonames.org/3682475/
+0,45,"Fonseca, La Guajira","http://dbpedia.org/resource/Fonseca,_La_Guajira",http://sws.geonames.org/3682376/
+0,46,"Fosca, Cundinamarca","http://dbpedia.org/resource/Fosca,_Cundinamarca",http://sws.geonames.org/3682358/
+0,47,Funza,http://dbpedia.org/resource/Funza,http://sws.geonames.org/3682281/
+0,48,Gachancipá,http://dbpedia.org/resource/Gachancipá,http://sws.geonames.org/3682262/
+0,49,Gámeza,http://dbpedia.org/resource/Gámeza,http://sws.geonames.org/3682173/
+0,50,Gámeza,http://dbpedia.org/resource/Gámeza,http://sws.geonames.org/3682172/
+0,51,Garzón,"http://dbpedia.org/resource/Garzón,_Huila",http://sws.geonames.org/3682109/
+0,52,"Girardot, Cundinamarca","http://dbpedia.org/resource/Girardot,_Cundinamarca",http://sws.geonames.org/3682029/
+0,53,Guarne,http://dbpedia.org/resource/Guarne,http://sws.geonames.org/3681430/
+0,54,Guasca,http://dbpedia.org/resource/Guasca,http://sws.geonames.org/3681404/
+0,55,Guatavita,http://dbpedia.org/resource/Guatavita,http://sws.geonames.org/3681360/
+0,56,Guateque,http://dbpedia.org/resource/Guateque,http://sws.geonames.org/3681357/
+0,57,Guateque,http://dbpedia.org/resource/Guateque,http://sws.geonames.org/3681356/
+0,58,Jamundí,http://dbpedia.org/resource/Jamundí,http://sws.geonames.org/3680387/
+0,59,Santa Cruz de Lorica,http://dbpedia.org/resource/Santa_Cruz_de_Lorica,http://sws.geonames.org/3676400/
+0,60,Machetá,http://dbpedia.org/resource/Machetá,http://sws.geonames.org/3675757/
+0,61,"Madrid, Cundinamarca","http://dbpedia.org/resource/Madrid,_Cundinamarca",http://sws.geonames.org/3675708/
+0,62,Mongua,http://dbpedia.org/resource/Mongua,http://sws.geonames.org/3674581/
+0,63,Mongua,http://dbpedia.org/resource/Mongua,http://sws.geonames.org/3674580/
+0,64,"Montebello, Antioquia","http://dbpedia.org/resource/Montebello,_Antioquia",http://sws.geonames.org/3674520/
+0,65,Montelíbano,http://dbpedia.org/resource/Montelíbano,http://sws.geonames.org/3674471/
+0,66,Montelíbano,http://dbpedia.org/resource/Montelíbano,http://sws.geonames.org/3674470/
+0,67,"Mosquera, Cundinamarca","http://dbpedia.org/resource/Mosquera,_Cundinamarca",http://sws.geonames.org/3674295/
+0,68,Nobsa,http://dbpedia.org/resource/Nobsa,http://sws.geonames.org/3673830/
+0,69,Nobsa,http://dbpedia.org/resource/Nobsa,http://sws.geonames.org/3673829/
+0,70,Oiba,http://dbpedia.org/resource/Oiba,http://sws.geonames.org/3673638/
+0,71,Oiba,http://dbpedia.org/resource/Oiba,http://sws.geonames.org/3673637/
+0,72,Onzaga,http://dbpedia.org/resource/Onzaga,http://sws.geonames.org/3673591/
+0,73,Onzaga,http://dbpedia.org/resource/Onzaga,http://sws.geonames.org/3673590/
+0,74,Orocué,http://dbpedia.org/resource/Orocué,http://sws.geonames.org/3673536/
+0,75,Pacho,http://dbpedia.org/resource/Pacho,http://sws.geonames.org/3673424/
+0,76,Paipa,http://dbpedia.org/resource/Paipa,http://sws.geonames.org/3673371/
+0,77,Paipa,http://dbpedia.org/resource/Paipa,http://sws.geonames.org/3673369/
+0,78,Pasca,http://dbpedia.org/resource/Pasca,http://sws.geonames.org/3672813/
+0,79,"Paya, Boyacá","http://dbpedia.org/resource/Paya,_Boyacá",http://sws.geonames.org/3672670/
+0,80,"Paya, Boyacá","http://dbpedia.org/resource/Paya,_Boyacá",http://sws.geonames.org/3672669/
+0,81,Paz de Río,http://dbpedia.org/resource/Paz_de_Río,http://sws.geonames.org/3672651/
+0,82,"Pisba, Boyacá",http://dbpedia.org/resource/Pisba,http://sws.geonames.org/3672143/
+0,83,Quetame,http://dbpedia.org/resource/Quetame,http://sws.geonames.org/3671119/
+0,84,Quipile,http://dbpedia.org/resource/Quipile,http://sws.geonames.org/3671072/
+0,85,Ramiriquí,http://dbpedia.org/resource/Ramiriquí,http://sws.geonames.org/3671003/
+0,86,Ramiriquí,http://dbpedia.org/resource/Ramiriquí,http://sws.geonames.org/3671002/
+0,87,Saboyá,http://dbpedia.org/resource/Saboyá,http://sws.geonames.org/3670448/
+0,88,Saboyá,http://dbpedia.org/resource/Saboyá,http://sws.geonames.org/3670447/
+0,89,"Salento, Quindío","http://dbpedia.org/resource/Salento,_Quindío",http://sws.geonames.org/3670353/
+0,90,Samacá,http://dbpedia.org/resource/Samacá,http://sws.geonames.org/3670304/
+0,91,Samacá,http://dbpedia.org/resource/Samacá,http://sws.geonames.org/3670303/
+0,92,San Miguel de Sema,http://dbpedia.org/resource/San_Miguel_de_Sema,http://sws.geonames.org/3669238/
+0,93,Sativanorte,http://dbpedia.org/resource/Sativanorte,http://sws.geonames.org/3668222/
+0,94,Sativanorte,http://dbpedia.org/resource/Sativanorte,http://sws.geonames.org/3668221/
+0,95,Sibaté,http://dbpedia.org/resource/Sibaté,http://sws.geonames.org/3668087/
+0,96,Socha,http://dbpedia.org/resource/Socha,http://sws.geonames.org/3667897/
+0,97,"Socorro, Santander","http://dbpedia.org/resource/Socorro,_Santander",http://sws.geonames.org/3667888/
+0,98,Socotá,http://dbpedia.org/resource/Socotá,http://sws.geonames.org/3667881/
+0,99,Socotá,http://dbpedia.org/resource/Socotá,http://sws.geonames.org/3667880/
+0,100,Somondoco,http://dbpedia.org/resource/Somondoco,http://sws.geonames.org/3667834/
+0,101,"Sora, Boyacá","http://dbpedia.org/resource/Sora,_Boyacá",http://sws.geonames.org/3667806/
+0,102,Soracá,http://dbpedia.org/resource/Soracá,http://sws.geonames.org/3667805/
+0,103,Subachoque,http://dbpedia.org/resource/Subachoque,http://sws.geonames.org/3667761/
+0,104,Subachoque,http://dbpedia.org/resource/Subachoque,http://sws.geonames.org/3667760/
+0,105,Supatá,http://dbpedia.org/resource/Supatá,http://sws.geonames.org/3667702/
+0,106,Supatá,http://dbpedia.org/resource/Supatá,http://sws.geonames.org/3667701/
+0,107,"Susa, Cundinamarca","http://dbpedia.org/resource/Susa,_Cundinamarca",http://sws.geonames.org/3667666/
+0,108,Susacón,http://dbpedia.org/resource/Susacón,http://sws.geonames.org/3667661/
+0,109,Susacón,http://dbpedia.org/resource/Susacón,http://sws.geonames.org/3667660/
+0,110,Sutamarchán,http://dbpedia.org/resource/Sutamarchán,http://sws.geonames.org/3667652/
+0,111,Sutamarchán,http://dbpedia.org/resource/Sutamarchán,http://sws.geonames.org/3667651/
+0,112,Tabio,http://dbpedia.org/resource/Tabio,http://sws.geonames.org/3667630/
+0,113,Tabio,http://dbpedia.org/resource/Tabio,http://sws.geonames.org/3667629/
+0,114,"Támesis, Antioquia","http://dbpedia.org/resource/Támesis,_Antioquia",http://sws.geonames.org/3667474/
+0,115,"Támesis, Antioquia","http://dbpedia.org/resource/Támesis,_Antioquia",http://sws.geonames.org/3667473/
+0,116,"Tasco, Boyacá","http://dbpedia.org/resource/Tasco,_Boyacá",http://sws.geonames.org/3667374/
+0,117,"Tasco, Boyacá","http://dbpedia.org/resource/Tasco,_Boyacá",http://sws.geonames.org/3667373/
+0,118,Tausa,http://dbpedia.org/resource/Tausa,http://sws.geonames.org/3667352/
+0,119,Tausa,http://dbpedia.org/resource/Tausa,http://sws.geonames.org/3667351/
+0,120,"Tena, Cundinamarca","http://dbpedia.org/resource/Tena,_Cundinamarca",http://sws.geonames.org/3667311/
+0,121,"Tena, Cundinamarca","http://dbpedia.org/resource/Tena,_Cundinamarca",http://sws.geonames.org/3667310/
+0,122,Tenjo,http://dbpedia.org/resource/Tenjo,http://sws.geonames.org/3667290/
+0,123,Tibacuy,http://dbpedia.org/resource/Tibacuy,http://sws.geonames.org/3667223/
+0,124,Tibaná,http://dbpedia.org/resource/Tibaná,http://sws.geonames.org/3667219/
+0,125,Tibaná,http://dbpedia.org/resource/Tibaná,http://sws.geonames.org/3667218/
+0,126,Tibiritá,http://dbpedia.org/resource/Tibiritá,http://sws.geonames.org/3667206/
+0,127,Tinjacá,http://dbpedia.org/resource/Tinjacá,http://sws.geonames.org/3667051/
+0,128,Tinjacá,http://dbpedia.org/resource/Tinjacá,http://sws.geonames.org/3667050/
+0,129,Tocancipá,http://dbpedia.org/resource/Tocancipá,http://sws.geonames.org/3666997/
+0,130,"Togüí, Boyacá",http://dbpedia.org/resource/Togüí,http://sws.geonames.org/3666964/
+0,131,"Tópaga, Boyacá",http://dbpedia.org/resource/Tópaga,http://sws.geonames.org/3666906/
+0,132,"Tópaga, Boyacá",http://dbpedia.org/resource/Tópaga,http://sws.geonames.org/3666905/
+0,133,Turmequé,http://dbpedia.org/resource/Turmequé,http://sws.geonames.org/3666563/
+0,134,Turmequé,http://dbpedia.org/resource/Turmequé,http://sws.geonames.org/3666562/
+0,135,"Tuta, Boyacá","http://dbpedia.org/resource/Tuta,_Boyacá",http://sws.geonames.org/3666551/
+0,136,"Tuta, Boyacá","http://dbpedia.org/resource/Tuta,_Boyacá",http://sws.geonames.org/3666550/
+0,137,Tutazá,http://dbpedia.org/resource/Tutazá,http://sws.geonames.org/3666546/
+0,138,Ubaque,http://dbpedia.org/resource/Ubaque,http://sws.geonames.org/3666522/
+0,139,Ubaté,http://dbpedia.org/resource/Ubaté,http://sws.geonames.org/3666519/
+0,140,Úmbita,http://dbpedia.org/resource/Úmbita,http://sws.geonames.org/3666494/
+0,141,Úmbita,http://dbpedia.org/resource/Úmbita,http://sws.geonames.org/3666493/
+0,142,Une,http://dbpedia.org/resource/Une,http://sws.geonames.org/3666482/
+0,143,Valle de San Juan,http://dbpedia.org/resource/Valle_de_San_Juan,http://sws.geonames.org/3666309/
+0,144,Viracachá,http://dbpedia.org/resource/Viracachá,http://sws.geonames.org/3665880/
+0,145,Viracachá,http://dbpedia.org/resource/Viracachá,http://sws.geonames.org/3665879/
+0,146,San Pablo Huitzo,http://dbpedia.org/resource/San_Pablo_Huitzo,http://sws.geonames.org/3518129/
+0,147,Jastrebarsko,http://dbpedia.org/resource/Jastrebarsko,http://sws.geonames.org/3198799/
+0,154,"Tópaga, Boyacá",http://dbpedia.org/resource/Tópaga,"http://dbpedia.org/resource/Tópaga,_Boyacá http://dbpedia.org/resource/Topaga,_Boyaca"

@@ -1,0 +1,22 @@
+F1: 0.83051,Precision: 0.83051,Recall: 0.83051,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,8,S. Watanabe,http://dbpedia.org/resource/Shunsuke_Watanabe,http://dbpedia.org/resource/Susumu_Watanabe
+0,10,S. Ronan,http://dbpedia.org/resource/Skene_Ronan,http://dbpedia.org/resource/Sue_Ronan http://dbpedia.org/resource/Susan_Ronan
+0,26,S. Bhattacharya,http://dbpedia.org/resource/Sushil_Bhattacharya,http://dbpedia.org/resource/Subrata_Bhattacharya_(footballer)
+0,41,S. Williams,http://dbpedia.org/resource/Shaun_Williams_(American_football),http://dbpedia.org/resource/Stuart_Williams_(footballer)
+0,45,S. Taylor,http://dbpedia.org/resource/Steven_Taylor_(footballer),"http://dbpedia.org/resource/Stuart_Taylor_(footballer,_born_1947) http://dbpedia.org/resource/Stuart_Taylor_(footballer_born_1947)"
+0,49,S. Parker,http://dbpedia.org/resource/Scott_Parker_(ice_hockey),http://dbpedia.org/resource/Stuart_Parker_(footballer)
+0,53,S. Millar,http://dbpedia.org/resource/Robert_Millar_(soccer),http://dbpedia.org/resource/Stuart_Millar
+0,58,S. Green,http://dbpedia.org/resource/Scott_Green_(footballer),http://dbpedia.org/resource/Stuart_Green
+0,62,S. Chapman,http://dbpedia.org/resource/Sammy_Chapman,http://dbpedia.org/resource/Stuart_Chapman
+0,63,S. Campbell,http://dbpedia.org/resource/Shane_Campbell_(soccer),http://dbpedia.org/resource/Stuart_Campbell_(footballer) http://dbpedia.org/resource/Stuart_Pearson_Campbell
+0,69,S. M. Jr.,"http://dbpedia.org/resource/Steve_McMahon_(footballer,_born_1984)","http://dbpedia.org/resource/Stoycho_Mladenov,_Jr. http://dbpedia.org/resource/Stoycho_Mladenov_-_Junior"
+0,84,S. Robson,http://dbpedia.org/resource/Bobby_Robson,http://dbpedia.org/resource/Stewart_Robson
+0,86,S. Kerr,http://dbpedia.org/resource/Shelley_Kerr,http://dbpedia.org/resource/Stewart_Kerr
+0,93,S. Skinner,http://dbpedia.org/resource/Sam_Skinner_(rugby_union),http://dbpedia.org/resource/Steven_Skinner
+0,94,S. Reid,http://dbpedia.org/resource/Shaun_Reid,http://dbpedia.org/resource/Steven_Reid
+0,104,S. White,http://dbpedia.org/resource/Sherman_White_(American_football),http://dbpedia.org/resource/Steve_White_(footballer)
+0,108,S. Tully,http://dbpedia.org/resource/Craig_Tully,http://dbpedia.org/resource/Stephen_Tully http://dbpedia.org/resource/Steve_Tully
+0,112,S. Thompson,"http://dbpedia.org/resource/Steve_Thompson_(footballer,_born_1963)","http://dbpedia.org/resource/Steve_Thompson_(footballer,_born_1964) http://dbpedia.org/resource/Steve_Thompson_(footballer_born_1964)"
+0,114,S. Taylor,http://dbpedia.org/resource/Steven_Taylor_(footballer),http://dbpedia.org/resource/Steven_Jeffrey_Taylor http://dbpedia.org/resource/Steve_Taylor_(footballer)
+0,118,S. Smith,http://dbpedia.org/resource/Stanford_Smith,"http://dbpedia.org/resource/Steve_Smith_(footballer,_born_1957) http://dbpedia.org/resource/Steve_Smith_(footballer_born_1957)"

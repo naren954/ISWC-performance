@@ -1,0 +1,5 @@
+"F1: 0.57143","Precision: 0.57143","Recall: 0.57143"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","1","Berkeley College","http://dbpedia.org/resource/University_of_California,_Berkeley","http://dbpedia.org/resource/Berkeley_College"
+"0","6","Jersey College[c]","http://dbpedia.org/resource/Rutgers_University","http://dbpedia.org/resource/Jersey_College"
+"0","7","Lincoln Technical Institute","http://dbpedia.org/resource/Lincoln_University_(Pennsylvania)","http://dbpedia.org/resource/Lincoln_Group_of_Schools http://dbpedia.org/resource/Lincoln_Technical_Institute http://dbpedia.org/resource/Southwestern_College_(Ohio) http://dbpedia.org/resource/Lincoln_Tech http://dbpedia.org/resource/Lincoln_Educational_Services http://dbpedia.org/resource/Lincoln_College_of_Technology"

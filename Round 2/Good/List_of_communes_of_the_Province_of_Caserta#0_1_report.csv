@@ -1,0 +1,7 @@
+F1: 0.95192,Precision: 0.95192,Recall: 0.95192,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,15,Capua,http://dbpedia.org/resource/Santa_Maria_Capua_Vetere,http://dbpedia.org/resource/Capua http://dbpedia.org/resource/S._Maria_di_Capua_Vetere http://dbpedia.org/resource/History_of_Capua http://dbpedia.org/resource/Ancient_Capua http://dbpedia.org/resource/Santa_Maria_in_Capua_Vetere
+1,37,Frignano,http://dbpedia.org/resource/Pavullo_nel_Frignano,http://dbpedia.org/resource/Frignano
+1,45,Liberi,http://dbpedia.org/resource/Liveri,http://dbpedia.org/resource/Liberi
+1,64,Pratella,http://dbpedia.org/resource/Petrella_Tifernina,http://dbpedia.org/resource/Pratella
+1,94,Trentola-Ducenta,http://dbpedia.org/resource/Trentola_Ducenta,http://dbpedia.org/resource/Trentola-Ducenta

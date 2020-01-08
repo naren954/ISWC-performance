@@ -1,0 +1,39 @@
+F1: 0.72388,Precision: 0.72388,Recall: 0.72388,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,6,G. C. Chamberlain,http://dbpedia.org/resource/John_Curtis_Chamberlain,http://dbpedia.org/resource/George_C._Chamberlain
+0,7,G. A. Burton,http://dbpedia.org/resource/Clarence_G._Burton,"http://dbpedia.org/resource/George_Burton,_Jr. http://dbpedia.org/resource/George_A._Burton http://dbpedia.org/resource/George_Aubrey_Burton http://dbpedia.org/resource/George_Aubrey_Burton,_Jr."
+0,8,G. Davis,http://dbpedia.org/resource/Gray_Davis,"http://dbpedia.org/resource/Geoffrey_Davis http://dbpedia.org/resource/Geoff_Davis http://dbpedia.org/resource/Geoffrey_""Geoff""_Davis"
+0,13,G. Jones,http://dbpedia.org/resource/Thomas_G._Jones,http://dbpedia.org/resource/Gary_Jones_(Louisiana_politician)
+0,14,G. Herbert,http://dbpedia.org/resource/George_H._W._Bush,http://dbpedia.org/resource/Gary_Herbert http://dbpedia.org/resource/Gary_r._herbert http://dbpedia.org/resource/Gary_Richard_Herbert http://dbpedia.org/resource/Gary_herbert http://dbpedia.org/resource/Gary_R_Herbert http://dbpedia.org/resource/Gary_R._Herbert
+0,20,F. Wood,"http://dbpedia.org/resource/Edward_Wood,_1st_Earl_of_Halifax",http://dbpedia.org/resource/Fred_Wood_(politician)
+0,23,F. Martin,http://dbpedia.org/resource/Frank_Martin_(mayor),http://dbpedia.org/resource/Fred_S._Martin http://dbpedia.org/resource/Fred_Martin_(Idaho_politician)
+0,26,F. Warnke,http://dbpedia.org/resource/Jürgen_Warnke,http://dbpedia.org/resource/Frank_Warnke
+0,30,F. J. Larkin,http://dbpedia.org/resource/Peter_J._Larkin,http://dbpedia.org/resource/Frank_Larkin http://dbpedia.org/resource/Frank_J._Larkin
+0,40,F. Symington,http://dbpedia.org/resource/James_W._Symington,http://dbpedia.org/resource/Fife_III_Symington http://dbpedia.org/resource/Fife_Symington http://dbpedia.org/resource/Fife_Symington_III http://dbpedia.org/resource/John_F._Symington_III http://dbpedia.org/resource/John_Fife_Symington_III http://dbpedia.org/resource/John_Symington_III http://dbpedia.org/resource/John_Symington http://dbpedia.org/resource/John_Fife_Symington http://dbpedia.org/resource/John_F._Symington
+0,41,F. McMaster,http://dbpedia.org/resource/William_H._McMaster,http://dbpedia.org/resource/Fergus_McMaster http://dbpedia.org/resource/Sir_Fergus_McMaster
+0,46,E. McClendon,http://dbpedia.org/resource/Aubrey_McClendon,http://dbpedia.org/resource/Enos_McClendon
+0,51,E. Anderson,http://dbpedia.org/resource/Eric_Anderson_(politician),http://dbpedia.org/resource/Elliot_T._Anderson http://dbpedia.org/resource/Elliot_Anderson
+0,55,E. Ripoll,http://dbpedia.org/resource/Bernie_Ripoll,http://dbpedia.org/resource/Edward_Ripoll
+0,56,E. Manzano,http://es.dbpedia.org/resource/Veneranda_Manzano,http://dbpedia.org/resource/Edu_Manzano http://dbpedia.org/resource/Eduardo_Barrios_Manzano
+0,58,E. J. Williams,"http://dbpedia.org/resource/Gareth_Williams,_Baron_Williams_of_Mostyn",http://dbpedia.org/resource/Eddie_Joe_Williams
+0,60,E. Harris,http://dbpedia.org/resource/Evan_Harris,http://dbpedia.org/resource/Ed_Harris_(politician)
+0,64,E. J. Jr.,http://dbpedia.org/resource/Bill_Clinton,"http://dbpedia.org/resource/Earl_Jaques,_Jr. http://dbpedia.org/resource/Earl_Jaques_Jr."
+0,73,D. Bratton,http://dbpedia.org/resource/John_Bratton,http://dbpedia.org/resource/Donald_Bratton
+0,76,D. Hathaway,http://dbpedia.org/resource/William_Hathaway,http://dbpedia.org/resource/Don_Hathaway
+0,77,D. Stevenson,http://dbpedia.org/resource/Andrew_Stevenson,http://dbpedia.org/resource/Richard_R._Stevenson http://dbpedia.org/resource/Dick_Stevenson
+0,85,D. Moore,http://dbpedia.org/resource/Dennis_Moore_(politician),http://dbpedia.org/resource/Dennis_Moore
+0,89,D. McIntosh,http://dbpedia.org/resource/David_M._McIntosh,http://dbpedia.org/resource/Dempster_McIntosh
+0,90,D. Jones,"http://dbpedia.org/resource/Digby_Jones,_Baron_Jones_of_Birmingham",http://dbpedia.org/resource/Delwin_Jones
+0,91,D. Johnson,http://dbpedia.org/resource/Lyndon_B._Johnson,"http://dbpedia.org/resource/Dean_Johnson http://dbpedia.org/resource/Johnson,_Dean http://dbpedia.org/resource/Dean_Elton_Johnson http://dbpedia.org/resource/Dean_E._Johnson"
+0,93,D. Shepard,http://dbpedia.org/resource/Alan_Shepard,http://dbpedia.org/resource/David_Shepard_(politician)
+0,95,D. Munro,http://dbpedia.org/resource/Donnie_Munro,http://dbpedia.org/resource/David_Munro_(police_commissioner)
+0,102,D. Floyd,http://dbpedia.org/resource/Davis_Floyd,http://dbpedia.org/resource/David_Floyd
+0,103,D. Elliott,http://dbpedia.org/resource/Dick_Elliott_(politician),http://dbpedia.org/resource/David_Elliott_(politician)
+0,105,D. Bradley,http://dbpedia.org/resource/Bill_Bradley,http://dbpedia.org/resource/David_Bradley_(politician)
+0,106,D. Alexander,http://dbpedia.org/resource/Douglas_Alexander,http://dbpedia.org/resource/David_Alexander_(Tennessee_politician)
+0,110,D. Hayes,http://dbpedia.org/resource/Rutherford_B._Hayes,http://dbpedia.org/resource/Dave_Hayes_(politician)
+0,111,D. Edwards,http://dbpedia.org/resource/Don_Edwards,http://dbpedia.org/resource/Dave_Edwards_(Wyoming_politician)
+0,113,D. Bolz,http://dbpedia.org/resource/Eugen_Bolz,http://dbpedia.org/resource/Darrell_Bolz
+0,116,D. White,http://dbpedia.org/resource/Franklin_D._Roosevelt,http://dbpedia.org/resource/Dan_James_White http://dbpedia.org/resource/Dan_White http://dbpedia.org/resource/Daniel_James_White
+0,119,D. Kaiser,"http://dbpedia.org/resource/Wilhelm_II,_German_Emperor",http://dbpedia.org/resource/Dan_Kaiser
+0,125,C. Martin,http://dbpedia.org/resource/Charles_Martin_(Oregon_politician),http://dbpedia.org/resource/Crawford_Martin

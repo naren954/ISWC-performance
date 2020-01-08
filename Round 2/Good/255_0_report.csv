@@ -1,0 +1,25 @@
+F1: 0.79279,Precision: 0.79279,Recall: 0.79279,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,5,Investigations,http://dbpedia.org/resource/Private_Investigations,http://dbpedia.org/resource/Investigations_(Star_Trek:_Voyager) http://dbpedia.org/resource/Investigations_(Voyager_episode) http://dbpedia.org/resource/Investigations_(VOY)
+0,7,Invasion,http://dbpedia.org/resource/The_Invasion_(Doctor_Who),http://dbpedia.org/resource/Invasion_(Grey's_Anatomy)
+0,9,Interface,http://dbpedia.org/resource/Interface_(album),http://dbpedia.org/resource/Interface_(Star_Trek:_The_Next_Generation) http://dbpedia.org/resource/Interface_(TNG_episode)
+0,12,Indifference,,http://dbpedia.org/resource/Indifference_(The_Walking_Dead)
+0,16,In Control,http://dbpedia.org/resource/No_Control_(Bad_Religion_album),http://dbpedia.org/resource/In_Control_(The_Americans)
+0,24,I Do,"http://dbpedia.org/resource/I_Do,_I_Do,_I_Do,_I_Do,_I_Do",http://dbpedia.org/resource/I_Do_(Lost) http://dbpedia.org/resource/I_Do_(Lost_episode)
+0,25,I Do,"http://dbpedia.org/resource/I_Do,_I_Do,_I_Do,_I_Do,_I_Do",http://dbpedia.org/resource/I_Do_(Glee)
+0,32,Human,http://dbpedia.org/resource/Human_(The_Killers_song),http://dbpedia.org/resource/Human_(Stargate_Universe)
+0,37,Homecoming Out,http://dbpedia.org/resource/Homecoming_(Lost),http://dbpedia.org/resource/Homecoming_Out
+0,39,Home Invasion,http://dbpedia.org/resource/Murder_House_(American_Horror_Story),http://dbpedia.org/resource/Home_Invasion_(American_Horror_Story)
+0,40,Home,http://dbpedia.org/resource/Home_(Star_Trek:_Enterprise),http://dbpedia.org/resource/Home_(Glee) http://dbpedia.org/resource/Splits_Magazine
+0,41,Home,http://dbpedia.org/resource/Home_(Star_Trek:_Enterprise),http://dbpedia.org/resource/Home_(Game_of_Thrones) http://dbpedia.org/resource/Homeward_Bound_(Game_of_Thrones)
+0,52,Hell,http://dbpedia.org/resource/Hell-O_(Glee),http://dbpedia.org/resource/Hell_(Father_Ted) http://dbpedia.org/resource/Hell_(Father_Ted_episode)
+0,56,Heart,http://dbpedia.org/resource/Heart_(Heart_album),http://dbpedia.org/resource/Heart_(Glee)
+0,58,Head,http://dbpedia.org/resource/Screw,http://dbpedia.org/resource/Head_(American_Horror_Story)
+0,60,Haven,http://dbpedia.org/resource/Haven_(TV_series),http://dbpedia.org/resource/Haven_(Star_Trek:_The_Next_Generation) http://dbpedia.org/resource/Haven_(Star_Trek) http://dbpedia.org/resource/Haven_(TNG_episode)
+0,66,Gregory,http://dbpedia.org/resource/Roberta_Gregory,http://dbpedia.org/resource/Gregory_(The_Americans)
+0,67,Gravity,http://dbpedia.org/resource/Gravity_Falls,http://dbpedia.org/resource/Gravity_(Star_Trek:_Voyager) http://dbpedia.org/resource/Gravity_(Voyager_episode)
+0,68,Grave,http://dbpedia.org/resource/One_Foot_in_the_Grave,http://dbpedia.org/resource/Grave_(Buffy_episode) http://dbpedia.org/resource/Grave_(Buffy_the_Vampire_Slayer)
+0,73,Goodbye,http://dbpedia.org/resource/Goodbye_(Glee),http://dbpedia.org/resource/Goodbye_(Grey's_Anatomy)
+0,81,Girls,http://dbpedia.org/resource/Girls_(TV_series),http://dbpedia.org/resource/Girls_(and_Boys)_On_Film
+0,95,Force Majeure,http://dbpedia.org/resource/Force_Majeure_(Millennium),http://dbpedia.org/resource/Force_Majeure_(Under_the_Dome)
+0,96,Fly,http://dbpedia.org/resource/Fly_(Dixie_Chicks_album),http://dbpedia.org/resource/Fly_(Breaking_Bad)

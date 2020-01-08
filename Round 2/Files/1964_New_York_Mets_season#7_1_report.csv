@@ -1,0 +1,5 @@
+"F1: 0.25000","Precision: 0.25000","Recall: 0.25000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","2","Williamsport Mets","http://dbpedia.org/resource/Williamsport_Crosscutters","http://dbpedia.org/resource/Williamsport_Red_Sox http://dbpedia.org/resource/Williamsport_Astros http://dbpedia.org/resource/Williamsport_Mets"
+"1","3","Salinas Mets","http://dbpedia.org/resource/Sulfur","http://dbpedia.org/resource/Salinas_Packers_(baseball) http://dbpedia.org/resource/Salinas_Packers http://dbpedia.org/resource/Salinas_Mets http://dbpedia.org/resource/Salinas_Angels http://dbpedia.org/resource/Salinas_Indians http://dbpedia.org/resource/Salinas_Spurs"
+"1","4","Auburn Mets","http://dbpedia.org/resource/State_College_Spikes","http://dbpedia.org/resource/Auburn_Twins http://dbpedia.org/resource/Auburn_Americans http://dbpedia.org/resource/Auburn_Phillies http://dbpedia.org/resource/Auburn_Mets http://dbpedia.org/resource/Auburn_Doubledays http://dbpedia.org/resource/Auburn_Redstars http://dbpedia.org/resource/Auburn_Yankees"

@@ -1,0 +1,4 @@
+"F1: 0.71429","Precision: 0.71429","Recall: 0.71429"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"3","2","Bullhead City, Arizona","http://dbpedia.org/resource/Tempe,_Arizona","http://dbpedia.org/resource/Bullhead_City,_Arizona http://dbpedia.org/resource/Bullhead_City,_Ariz. http://dbpedia.org/resource/Bullhead_City http://dbpedia.org/resource/History_of_Bullhead_City,_Arizona http://dbpedia.org/resource/Bullhead_City,_AZ http://dbpedia.org/resource/UN/LOCODE:USIFP http://dbpedia.org/resource/Hardyville,_Arizona"
+"3","5","Bridgeport, California","http://dbpedia.org/resource/Bridgeport,_Connecticut","http://dbpedia.org/resource/Bridgeport,_California http://dbpedia.org/resource/Bridgeport,_CA"

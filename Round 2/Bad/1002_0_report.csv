@@ -1,0 +1,14 @@
+F1: 0.42857,Precision: 0.42857,Recall: 0.42857,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,Volkswagen Passat,http://de.dbpedia.org/resource/VW_Passat_B7,http://dbpedia.org/resource/Volkswagen_Passat_(B6) http://dbpedia.org/resource/Volkswagen_Passat_(B7) http://dbpedia.org/resource/Volkswagen_R36
+0,4,Tata Safari Storme,http://dbpedia.org/resource/Tata_Safari,http://dbpedia.org/resource/Safari_Storme http://dbpedia.org/resource/Tata_Safari_Storme
+0,5,Tata Movus,http://dbpedia.org/resource/Tata_Indigo,http://dbpedia.org/resource/Tata_Movus http://dbpedia.org/resource/Movus
+0,6,Tata GenX Nano,http://dbpedia.org/resource/Tata_Nano,http://dbpedia.org/resource/GenX_Nano http://dbpedia.org/resource/Nano_GenX http://dbpedia.org/resource/Tata_Nano_GenX http://dbpedia.org/resource/Tata_GenX_Nano
+0,9,Renault Alliance,http://dbpedia.org/resource/Renault_9_and_11,http://dbpedia.org/resource/AMC_Renault_Alliance http://dbpedia.org/resource/Renault_Alliance http://dbpedia.org/resource/AMC_Alliance http://dbpedia.org/resource/AMC_Renault_Encore http://dbpedia.org/resource/Renault_Encore
+0,10,Porsche 918 Spyder,http://dbpedia.org/resource/Porsche_906,http://dbpedia.org/resource/Porsche_918 http://dbpedia.org/resource/Porsche_918_Spyder http://dbpedia.org/resource/918_spyder
+0,12,Pontiac Astre,http://dbpedia.org/resource/Chevrolet_Vega,http://dbpedia.org/resource/Pontiac_Astre
+0,15,Mercedes-Benz E-Class,http://dbpedia.org/resource/Mercedes-Benz_E-Class_(W211),http://dbpedia.org/resource/Mercedes-Benz_E-Class_(W213) http://dbpedia.org/resource/Mercedes-Benz_E_350_e
+0,16,Mahindra TUV300,http://dbpedia.org/resource/Mahindra_XUV500,http://dbpedia.org/resource/TUV300 http://dbpedia.org/resource/Mahindra_&_Mahindra_TUV300 http://dbpedia.org/resource/Mahindra_&_Mahindra_TUV_300 http://dbpedia.org/resource/Mahindra_TUV_300 http://dbpedia.org/resource/TUV_three_double_O http://dbpedia.org/resource/Mahindra_TUV300 http://dbpedia.org/resource/TUV_300
+0,17,Lincoln EL-series,http://dbpedia.org/resource/Lincoln_K_series,http://dbpedia.org/resource/Lincoln_EL-series
+0,19,Lamborghini Athon,http://dbpedia.org/resource/Lamborghini_Diablo,http://dbpedia.org/resource/Lamborghini_Athon
+0,21,Jaguar R-Coupe,http://dbpedia.org/resource/Jaguar_F-Type,http://dbpedia.org/resource/Jaguar_R-Coupe

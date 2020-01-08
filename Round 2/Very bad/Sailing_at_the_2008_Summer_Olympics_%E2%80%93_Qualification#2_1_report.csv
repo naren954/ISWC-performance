@@ -1,0 +1,39 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,China,http://dbpedia.org/resource/China,http://dbpedia.org/resource/China_at_the_2008_Summer_Olympics http://dbpedia.org/resource/China_at_the_2008_Olympics
+1,2,Brazil,http://dbpedia.org/resource/Brazil,http://dbpedia.org/resource/Brazil_at_the_2008_Summer_Olympics
+1,3,Poland,http://dbpedia.org/resource/Poland,http://dbpedia.org/resource/Poland_at_the_2008_Summer_Olympics
+1,4,Great Britain,http://dbpedia.org/resource/United_Kingdom,http://dbpedia.org/resource/Britain_at_the_2008_olympics http://dbpedia.org/resource/Great_Britain_and_Northern_Ireland_at_the_2008_Summer_Olympics http://dbpedia.org/resource/UK_at_the_2008_Summer_Olympics http://dbpedia.org/resource/United_Kingdom_at_the_2008_Summer_Olympics http://dbpedia.org/resource/Great_Britain_at_the_2008_Summer_Olympics http://dbpedia.org/resource/GB_at_the_2008_Summer_Olympics http://dbpedia.org/resource/Britain_in_2008_olympics
+1,5,Portugal,http://dbpedia.org/resource/Portugal,http://dbpedia.org/resource/Portugal_at_the_2008_Summer_Olympics
+1,6,Spain,http://dbpedia.org/resource/Spain,http://dbpedia.org/resource/Spain_at_the_2008_Summer_Olympics
+1,7,France,http://dbpedia.org/resource/France,http://dbpedia.org/resource/France_at_the_2008_Summer_Olympics http://dbpedia.org/resource/France_at_the_2008_Summer_olympics
+1,8,Israel,http://dbpedia.org/resource/Israel,http://dbpedia.org/resource/Israel_at_the_2008_Summer_Olympics http://dbpedia.org/resource/Israel_at_the_2008_Olympics
+1,9,Greece,http://dbpedia.org/resource/Greece,http://dbpedia.org/resource/Greece_at_the_2008_Summer_Olympics
+1,10,Italy,http://dbpedia.org/resource/Italy,http://dbpedia.org/resource/Italy_at_the_2008_Summer_Olympics
+1,11,Switzerland,http://dbpedia.org/resource/Switzerland,http://dbpedia.org/resource/Switzerland_at_the_2008_Summer_Olympics
+1,12,New Zealand,http://dbpedia.org/resource/New_Zealand,http://dbpedia.org/resource/New_Zealand_at_the_2008_Summer_Olympics
+1,13,Netherlands,http://dbpedia.org/resource/William_I_of_the_Netherlands,http://dbpedia.org/resource/Netherlands_at_the_2008_Summer_Olympics
+1,14,Turkey,http://dbpedia.org/resource/Turkey,http://dbpedia.org/resource/Turkey_at_the_2008_Summer_Olympics
+1,15,Hungary,http://dbpedia.org/resource/Hungary,http://dbpedia.org/resource/Hungary_at_the_2008_Olympics http://dbpedia.org/resource/Hungary_at_the_2008_Summer_Olympics
+1,16,Canada,http://dbpedia.org/resource/Canada,http://dbpedia.org/resource/Canada_at_the_2008_Olympics http://dbpedia.org/resource/Canada_at_the_2008_Summer_Olympics
+1,17,Denmark,http://dbpedia.org/resource/Denmark,http://dbpedia.org/resource/Denmark_at_the_2008_olympics http://dbpedia.org/resource/Denmark_at_the_2008_Summer_Olympics
+1,18,Ukraine,http://dbpedia.org/resource/Ukraine,http://dbpedia.org/resource/Ukraine_at_the_2008_Summer_Olympics
+1,19,Japan,http://dbpedia.org/resource/Japan,http://dbpedia.org/resource/Japan_at_the_2008_Olympics http://dbpedia.org/resource/Japan_at_the_2008_Summer_Olympics
+1,20,Germany,http://dbpedia.org/resource/Germany,http://dbpedia.org/resource/Germany_at_the_2008_Summer_Olympics http://dbpedia.org/resource/Germany_at_the_2008_Beijing_Olympics
+1,21,Mexico,http://dbpedia.org/resource/Mexico,http://dbpedia.org/resource/Mexico_at_the_2008_Summer_Olympics
+1,22,Hong Kong,http://dbpedia.org/resource/Hong_Kong,"http://dbpedia.org/resource/Hong_Kong_at_the_2008_Summer_Olympics http://dbpedia.org/resource/Hong_Kong,_China_at_the_2008_Summer_Olympics"
+1,23,Cyprus,http://dbpedia.org/resource/Cyprus,http://dbpedia.org/resource/Cyprus_at_the_2008_Summer_Olympics
+1,24,Argentina,http://dbpedia.org/resource/Argentina,http://dbpedia.org/resource/Argentina_at_the_2008_Summer_Olympics
+1,25,United States,http://dbpedia.org/resource/United_States_Marine_Corps,http://dbpedia.org/resource/The_United_States_at_the_2008_Summer_Olympics http://dbpedia.org/resource/Usa_at_the_2008_olympics http://dbpedia.org/resource/USA_at_the_2008_Summer_Olympics http://dbpedia.org/resource/United_States_at_the_2008_Olympics http://dbpedia.org/resource/United_States_at_the_2008_Summer_Olympics http://dbpedia.org/resource/The_United_States_at_the_2008_Olympics http://dbpedia.org/resource/USA_at_the_2008_Olympics http://dbpedia.org/resource/United_States_of_America_at_the_2008_Summer_Olympics
+1,26,Belarus,http://dbpedia.org/resource/Belarus,http://dbpedia.org/resource/Belarus_at_the_2008_Summer_Olympics
+1,27,Australia,http://dbpedia.org/resource/Australia,http://dbpedia.org/resource/Australia_at_the_2008_Summer_Olympics
+1,28,Thailand,http://dbpedia.org/resource/Thailand,http://dbpedia.org/resource/Thailand_at_the_2008_Summer_Olympics
+1,29,South Korea,http://dbpedia.org/resource/South_Korea,http://dbpedia.org/resource/Korea_at_the_2008_Summer_Olympics http://dbpedia.org/resource/South_Korea_at_the_2008_Olympics http://dbpedia.org/resource/South_Korea_at_the_2008_Summer_Olympics
+1,30,Russia,http://dbpedia.org/resource/Russia,http://dbpedia.org/resource/Russia_at_the_2008_Summer_Olympics http://dbpedia.org/resource/Russia_at_the_2008_Olympics
+1,31,Slovakia,http://dbpedia.org/resource/Slovakia,http://dbpedia.org/resource/Slovakia_at_the_2008_Summer_Olympics
+1,32,Croatia,http://dbpedia.org/resource/Croatia,http://dbpedia.org/resource/Croatia_at_the_2008_Summer_Olympics
+1,33,Indonesia,http://dbpedia.org/resource/Indonesia,http://dbpedia.org/resource/Indonesia_at_the_2008_Summer_Olympics
+1,34,Estonia,http://dbpedia.org/resource/Estonia,http://dbpedia.org/resource/Estonia_at_the_2008_Summer_Olympics
+1,35,Venezuela,http://dbpedia.org/resource/Venezuela,http://dbpedia.org/resource/Venezuela_at_the_2008_Summer_Olympics
+1,36,Colombia*,http://dbpedia.org/resource/Colombia,http://dbpedia.org/resource/Colombia_at_the_2008_Summer_Olympics
+1,37,Chinese Taipei*,http://dbpedia.org/resource/Taiwan,http://dbpedia.org/resource/Chinese_Taipei_at_the_2008_Summer_Olympics http://dbpedia.org/resource/Taiwan_at_the_2008_Summer_Olympics

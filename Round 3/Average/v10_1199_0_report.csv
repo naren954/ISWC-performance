@@ -1,0 +1,61 @@
+F1: 0.59864,Precision: 0.59864,Recall: 0.59864,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,K. M. Pasha,http://dbpedia.org/resource/Mustafa_Kemal_Atatürk,http://dbpedia.org/resource/Mehmed_Koprulu http://dbpedia.org/resource/Mehmed_Koepruelue http://dbpedia.org/resource/Mehmet_Pasha_Qypërliu http://dbpedia.org/resource/Koprulu_Mehmet_Pasha http://dbpedia.org/resource/Koprulu_Mehmed_Pasha http://dbpedia.org/resource/Köprülü_Mehmed http://dbpedia.org/resource/Mehmed_Köprülü http://dbpedia.org/resource/Köprülü_Mehmed_Pasha http://dbpedia.org/resource/Koepruelue_Mehmed_Pasha http://dbpedia.org/resource/Köprülü_Mehmet_Pasha http://dbpedia.org/resource/Koprulu_Mehmed_Pasa http://dbpedia.org/resource/Koepruelue_Mehmet_Pasha http://dbpedia.org/resource/Köprülü_Mehmet_Paşa
+0,2,Köprülü Fazıl Mustafa Pasha,http://dbpedia.org/resource/Köprülüzade_Fazıl_Mustafa_Pasha,http://dbpedia.org/resource/Mustafa_Koepruelue http://dbpedia.org/resource/Koprulu_Fazil_Mustafa_Pasa http://dbpedia.org/resource/Gazi_Fazıl_Mustafa_Köprülü http://dbpedia.org/resource/Mustafa_Köprülü http://dbpedia.org/resource/Koprulu_Fazil_Mustafa_Pasha http://dbpedia.org/resource/Fazil_Mustafa_Pasha_Koprulu http://dbpedia.org/resource/Ghazi_Fazıl_Mustafa_Köprülü http://dbpedia.org/resource/Fazil_Mustafa_Pasha_Koepruelue http://dbpedia.org/resource/Koepruelue_Fazil_Mustafa_Pasha http://dbpedia.org/resource/Köprülü_Mustafa_Pasha http://dbpedia.org/resource/Mustafa_Koprulu http://dbpedia.org/resource/Köprülü_Fazıl_Mustafa_Pasha http://dbpedia.org/resource/Fazil_Mustafa_Pasha_Köprülü
+0,6,J. Allard,"http://fr.dbpedia.org/resource/Jean_Allard_(homme_politique,_1926-2001)",http://dbpedia.org/resource/Jules_Allard http://dbpedia.org/resource/Louis-Jules_Allard
+0,7,Juan Ponce de León II,http://dbpedia.org/resource/Juan_Ponce_de_León,http://dbpedia.org/resource/Juan_Ponce_de_Leon_II http://dbpedia.org/resource/Juan_Ponce_de_León_II
+0,9,Juan Ponce de León II,http://dbpedia.org/resource/Juan_Ponce_de_León,http://dbpedia.org/resource/Juan_Ponce_de_Leon_II http://dbpedia.org/resource/Juan_Ponce_de_León_II
+0,21,J. Wood,http://dbpedia.org/resource/Jason_Wood_(politician),http://dbpedia.org/resource/Josiah_Wood
+0,22,J. T. Bell,http://dbpedia.org/resource/Charles_J._Bell,http://dbpedia.org/resource/Joshua_T_Bell http://dbpedia.org/resource/Joshua_Thomas_Bell http://dbpedia.org/resource/Joshua_T._Bell
+0,23,J. P. Bell,http://dbpedia.org/resource/Charles_J._Bell,"http://dbpedia.org/resource/Sir_Joshua_Bell http://dbpedia.org/resource/Sir_Joshua_P._Bell,_K.C.M.G. http://dbpedia.org/resource/Sir_Joshua_P_Bell http://dbpedia.org/resource/Sir_Joshua_Peter_Bell_K.C.M.G. http://dbpedia.org/resource/Sir_Joshua_Peter_Bell http://dbpedia.org/resource/Sir_Joshua_Bell_K.C.M.G. http://dbpedia.org/resource/Sir_Joshua_P_Bell_KCMG http://dbpedia.org/resource/Sir_Joshua_P_Bell,_KCMG http://dbpedia.org/resource/Sir_Joshua_P._Bell_K.C.M.G. http://dbpedia.org/resource/Joshua_Peter_Bell http://dbpedia.org/resource/Sir_Joshua_P._Bell http://dbpedia.org/resource/Sir_Joshua_Bell,_K.C.M.G. http://dbpedia.org/resource/Sir_Joshua_Peter_Bell,_K.C.M.G."
+0,24,J. Jewett,http://dbpedia.org/resource/Luther_Jewett,http://dbpedia.org/resource/Joshua_Jewitt http://dbpedia.org/resource/Joshua_H._Jewett http://dbpedia.org/resource/Joshua_Jewett http://dbpedia.org/resource/Joshua_Husband_Jewett
+0,26,J. Sprigg,http://dbpedia.org/resource/Gordon_Sprigg,http://dbpedia.org/resource/Joseph_Sprigg http://dbpedia.org/resource/Joseph_Sprigg_(attorney_general)
+0,31,J. Hodel,http://dbpedia.org/resource/Max_Hödel,http://dbpedia.org/resource/Joseph_Hodel
+0,35,J. Dodson,http://dbpedia.org/resource/John_Dodson_(judge),http://dbpedia.org/resource/Joseph_Reid_Dodson http://dbpedia.org/resource/Joseph_Dodson
+0,36,J. Cook,http://dbpedia.org/resource/John_Pope_Cook,"http://dbpedia.org/resource/Cook,_Joseph http://dbpedia.org/resource/Sir_Joseph_Cook http://dbpedia.org/resource/Joseph_Cook"
+0,37,J. Caron,http://dbpedia.org/resource/Jocelyne_Caron,http://dbpedia.org/resource/Joseph_Caron_(politician)
+0,39,J. Brittan,http://dbpedia.org/resource/Leon_Brittan,http://dbpedia.org/resource/Joseph_Brittan
+0,40,J. Braithwaite,http://dbpedia.org/resource/Walter_Braithwaite,http://dbpedia.org/resource/Joseph_Braithwaite_(mayor)
+0,41,Joseph Barton Elam Jr.,http://dbpedia.org/resource/Joseph_Barton_Elam,"http://dbpedia.org/resource/Joseph_Barton_Elam,_Jr. http://dbpedia.org/resource/Joseph_Barton_Elam_Jr."
+0,47,J. Gosselin,http://dbpedia.org/resource/Théodore_Gosselin,http://dbpedia.org/resource/Joseph-Jean-Baptiste_Gosselin
+0,51,J. Francoeur,http://dbpedia.org/resource/Joseph-Napoléon_Francoeur,http://dbpedia.org/resource/Joseph-Achille_Francoeur
+0,59,J. Robinson,http://dbpedia.org/resource/James_Robinson_(New_Brunswick),http://dbpedia.org/resource/Jonathan_Robinson_(Canadian_politician)
+0,61,J. Hunt,http://dbpedia.org/resource/Jonathan_Hunt_(Vermont_congressman),http://dbpedia.org/resource/Jonathan_Hunt_(Vermont_lieutenant_governor) http://dbpedia.org/resource/Jonathan_Hunt_(Vermont_Lieutenant_Governor) http://dbpedia.org/resource/Jonathan_Hunt_(Vermont_lieutenant_Governor)
+0,63,J. Belcher,http://dbpedia.org/resource/Jonathan_Belcher,http://dbpedia.org/resource/Jonathan_Belcher_(jurist) http://dbpedia.org/resource/Jonathan_Belcher_(lieutenant_governor)
+0,65,J. Williams,"http://dbpedia.org/resource/Gareth_Williams,_Baron_Williams_of_Mostyn",http://dbpedia.org/resource/John_Williams_(Tennessee)
+0,67,J. W. French,http://dbpedia.org/resource/Jan_Potocki,http://dbpedia.org/resource/John_William_French
+0,68,J. Whitman,http://dbpedia.org/resource/Walt_Whitman,http://dbpedia.org/resource/John_Whitman http://dbpedia.org/resource/John_Whitman_(New_Jersey)
+0,70,J. W. Stevenson,http://dbpedia.org/resource/Adlai_Stevenson_I,http://dbpedia.org/resource/John_White_Stevenson http://dbpedia.org/resource/John_W._Stevenson
+0,78,J. S. Graham,http://dbpedia.org/resource/Lindsey_Graham,http://dbpedia.org/resource/John_Stephens_Graham
+0,80,J. S. Jr.,http://dbpedia.org/resource/Bill_Clinton,"http://dbpedia.org/resource/John_Sharples,_Jr."
+0,81,J. S. Turner,http://dbpedia.org/resource/Roy_J._Turner,http://dbpedia.org/resource/John_Sargent_Turner
+0,82,J. R. Benson,http://dbpedia.org/resource/James_Rea_Benson,http://dbpedia.org/resource/John_Robinson_Benson
+0,86,J. Pettigrew,http://dbpedia.org/resource/Pierre_Pettigrew,http://dbpedia.org/resource/John_Pettigrew_(politician)
+0,87,"John P. Poe, Sr.",http://dbpedia.org/resource/John_P._Poe_Sr.,"http://dbpedia.org/resource/John_P._Poe,_Sr."
+0,88,J. P. Buchanan,http://dbpedia.org/resource/James_Buchanan,http://dbpedia.org/resource/John_Price_Buchanan http://dbpedia.org/resource/John_P._Buchanan
+0,89,J. Ollivier,http://dbpedia.org/resource/Émile_Ollivier,http://dbpedia.org/resource/John_Ollivier
+0,92,J. Mathews,http://dbpedia.org/resource/James_Mathews_(American_politician),http://dbpedia.org/resource/John_Mathews_(clerk)
+0,93,J. Mathews,http://dbpedia.org/resource/James_Mathews_(American_politician),http://dbpedia.org/resource/John_Mathews_(Augusta_County)
+0,100,J. L. Campbell,http://dbpedia.org/resource/Jane_L._Campbell,http://dbpedia.org/resource/Logan_Campbell_(politician) http://dbpedia.org/resource/John_Logan_Campbell http://dbpedia.org/resource/John_Logan_Campbell_(politician)
+0,101,J. Logan,http://dbpedia.org/resource/John_Logan_Chipman,http://dbpedia.org/resource/John_Logan_(pioneer)
+0,104,J. Leahy,http://dbpedia.org/resource/Patrick_Leahy,http://dbpedia.org/resource/John_Leahy_(politician)
+0,105,J. L. Farris,http://dbpedia.org/resource/John_Wallace_de_Beque_Farris,http://dbpedia.org/resource/John_Lauchlan_Farris
+0,108,J. K. Allen,http://dbpedia.org/resource/Joel_Asaph_Allen,http://dbpedia.org/resource/J.K._Allen http://dbpedia.org/resource/John_Kirby_Allen http://dbpedia.org/resource/J._K._Allen
+0,109,J. Keswick,http://dbpedia.org/resource/Henry_Keswick_(politician),http://dbpedia.org/resource/John_Henry_Keswick http://dbpedia.org/resource/John_Keswick http://dbpedia.org/resource/Sir_John_Keswick
+0,110,J. Kean,http://dbpedia.org/resource/John_Kean_(New_Jersey_politician),"http://dbpedia.org/resource/John_Kean,_Jr. http://dbpedia.org/resource/John_Kean_(New_Jersey) http://dbpedia.org/resource/John_Livsey_Kean http://dbpedia.org/resource/John_L._Kean"
+0,115,J. H. Harris,http://dbpedia.org/resource/Joseph_Henry_Harris,http://dbpedia.org/resource/John_Hyde_Harris
+0,116,J. Hunt,http://dbpedia.org/resource/Jonathan_Hunt_(Vermont_congressman),http://dbpedia.org/resource/John_Hunt_(Australian_politician)
+0,117,J. Hall,http://dbpedia.org/resource/Joshua_Hall,"http://dbpedia.org/resource/John_Hall_(New_Zealand) http://dbpedia.org/resource/Hall_Ministry,_1879-1882 http://dbpedia.org/resource/John_Hall_(New_Zealand_politician) http://dbpedia.org/resource/Hall_Ministry,_1879–1882"
+0,118,J. H. Wilson,http://dbpedia.org/resource/John_Haden_Wilson,http://dbpedia.org/resource/John_H._Wilson_(mayor_of_Honolulu) http://dbpedia.org/resource/John_H._Wilson_(Hawaii)
+0,121,J. Gray,http://dbpedia.org/resource/James_Gray_(British_politician),http://dbpedia.org/resource/John_Gray_(New_Zealand_politician) http://dbpedia.org/resource/John_Gray_(New_Zealand)
+0,124,J. Fletcher,http://dbpedia.org/resource/John_Fletcher_(playwright),http://dbpedia.org/resource/John_Shearer_Fletcher http://dbpedia.org/resource/John_Fletcher_(New_Zealand_politician)
+0,128,J. Eisenhower,http://dbpedia.org/resource/Dwight_D._Eisenhower,http://dbpedia.org/resource/John_S.D._Eisenhower http://dbpedia.org/resource/John_Eisenhower http://dbpedia.org/resource/John_S._D._Eisenhower
+0,129,J. Dunn,http://dbpedia.org/resource/Jennifer_Dunn_(politician),http://dbpedia.org/resource/John_Dunn_(miller)
+0,130,J. D. Campbell,http://dbpedia.org/resource/John_Dermot_Campbell,http://dbpedia.org/resource/John_Dunmore_Campbell
+0,131,J. Denniston,http://dbpedia.org/resource/Alastair_Denniston,http://dbpedia.org/resource/John_Denniston_(judge) http://dbpedia.org/resource/John_Edward_Denniston
+0,132,J. Davis,http://dbpedia.org/resource/Jeff_Davis_(Arkansas_governor),http://dbpedia.org/resource/John_Davis_(Massachusetts_governor) http://dbpedia.org/resource/John_Davis_(Massachusetts_Governor) http://dbpedia.org/resource/Honest_John_Davis
+0,133,J. D. White,http://dbpedia.org/resource/Bill_Clinton,"http://dbpedia.org/resource/John_D._White,_Jr. http://dbpedia.org/resource/John_Daugherty_White http://dbpedia.org/resource/John_D._White"
+0,135,J. C. Wilson,http://dbpedia.org/resource/James_Crocket_Wilson,http://dbpedia.org/resource/Sir_John_Cracroft_Wilson http://dbpedia.org/resource/John_Cracroft_Wilson http://dbpedia.org/resource/Nabob_Wilson
+0,144,J. Cameron,http://dbpedia.org/resource/J._Donald_Cameron,http://dbpedia.org/resource/John_Cameron_(Queensland_politician)
+0,145,J. C. Brown,http://dbpedia.org/resource/John_C._Brown_(Ohio),http://dbpedia.org/resource/John_Calvin_Brown http://dbpedia.org/resource/John_C._Brown
+0,146,J. Brown,http://dbpedia.org/resource/Clarence_J._Brown,http://dbpedia.org/resource/John_Brown_(Queensland_politician)

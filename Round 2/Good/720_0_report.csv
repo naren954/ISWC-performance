@@ -1,0 +1,12 @@
+F1: 0.90291,Precision: 0.90291,Recall: 0.90291,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,29,Zhanjiang Bay Bridge,http://dbpedia.org/resource/San_Francisco–Oakland_Bay_Bridge,http://dbpedia.org/resource/Zhanjiang_Bay_Bridge
+0,42,Yeongjong Bridge,http://dbpedia.org/resource/Boone_Bridge,http://dbpedia.org/resource/Yeongjong_Grand_Bridge http://dbpedia.org/resource/Yeongjong_Bridge http://dbpedia.org/resource/Yongzong_Bridge
+0,55,Xiling Yangtze River Bridge,http://dbpedia.org/resource/Yiling_Yangtze_River_Bridge,http://dbpedia.org/resource/Xiling_Yangtze_River_Bridge http://dbpedia.org/resource/Xiling_Bridge
+0,58,Xiangshan Harbor Bridge,http://dbpedia.org/resource/Sydney_Harbour_Bridge,http://dbpedia.org/resource/Xiangshan_Harbor_Bridge http://dbpedia.org/resource/Xiangshan_Port_Bridge http://dbpedia.org/resource/Xiangshan_Bridge http://dbpedia.org/resource/Xiangshan_Harbour_Bridge
+0,62,Wujiang Viaduct,http://dbpedia.org/resource/Ribblehead_Viaduct,http://dbpedia.org/resource/Wujiang_Viaduct http://dbpedia.org/resource/Wujiang_River_Viaduct http://dbpedia.org/resource/Wujiang_Bridge
+0,68,Winant Avenue Bridge,http://dbpedia.org/resource/Willis_Avenue_Bridge,http://dbpedia.org/resource/Winant_Avenue_Bridge http://dbpedia.org/resource/Route_46_Hackensack_River_Bridge
+0,70,Wilson Creek Bridge,http://dbpedia.org/resource/Wilson_River_Bridge,http://dbpedia.org/resource/Wilson_Creek_Bridge
+0,92,Washington Crossing Bridge,http://dbpedia.org/resource/Washington_Crossing_Bridge_(Pittsburgh),http://dbpedia.org/resource/Washington_Crossing_Bridge
+0,93,Washington Bridge,http://dbpedia.org/resource/Washington_Bridge_(Connecticut),http://dbpedia.org/resource/Washington_Bridge http://dbpedia.org/resource/Washington_Bridge_(Manhattan) http://dbpedia.org/resource/Washington_Bridge_(New_York_City)
+0,102,Walnut Street Bridge,http://dbpedia.org/resource/Walnut_Street_Bridge_(Philadelphia),"http://dbpedia.org/resource/Walnut_Street_Bridge_(Harrisburg,_Pennsylvania) http://dbpedia.org/resource/Walnut_Street_Bridge_(Pennsylvania) http://dbpedia.org/resource/Walnut_Street_Bridge_(Harrisburg)"

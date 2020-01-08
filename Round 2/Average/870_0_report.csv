@@ -1,0 +1,5 @@
+F1: 0.70000,Precision: 0.70000,Recall: 0.70000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,A. Castiglioni,http://dbpedia.org/resource/Achille_Castiglioni,http://dbpedia.org/resource/Arturo_Castiglioni
+0,4,A. S. Riggs,http://dbpedia.org/resource/Home_Riggs_Popham,http://dbpedia.org/resource/Arthur_Stanley_Riggs http://dbpedia.org/resource/Arthur_S._Riggs http://dbpedia.org/resource/A._S._Riggs
+0,7,A. Morris,http://dbpedia.org/resource/Wayne_Morris_(American_actor),http://dbpedia.org/resource/Allen_Morris_(historian)

@@ -1,0 +1,4 @@
+"F1: 0.00000","Precision: 0.00000","Recall: 0.00000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","1","World Championships","http://dbpedia.org/resource/2013_World_Championships_in_Athletics","http://dbpedia.org/resource/2011_Trampoline_World_Championships"
+"0","2","Olympic Test Event (16 participants)","http://dbpedia.org/resource/2016_Gymnastics_Olympic_Test_Event","http://dbpedia.org/resource/2012_Gymnastics_Olympic_Test_Event http://dbpedia.org/resource/2012_Gymnastics_Olympic_Test_Even http://dbpedia.org/resource/Visa_International_Gymnastics http://dbpedia.org/resource/2012_Artistics_Gymnastics_Olympic_Test_Event"

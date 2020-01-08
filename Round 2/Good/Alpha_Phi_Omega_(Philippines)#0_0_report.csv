@@ -1,0 +1,4 @@
+F1: 0.77778,Precision: 0.77778,Recall: 0.77778,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,12,"Jose Catindig, Jr.",http://dbpedia.org/resource/Jose_Cojuangco_Jr.,"http://dbpedia.org/resource/Jose_Catindig,_Jr."
+0,37,"Manuel \Way Kurat\"" Zamora""",http://dbpedia.org/resource/Manuel_A._Zamora,http://dbpedia.org/resource/Manuel_E._Zamora http://dbpedia.org/resource/Way_Kurat http://dbpedia.org/resource/Manuel_Zamora

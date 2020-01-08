@@ -1,0 +1,10 @@
+F1: 0.71429,Precision: 0.71429,Recall: 0.71429,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,8,Trinity,"http://dbpedia.org/resource/Trinity_(Past,_Present_and_Future)",http://dbpedia.org/resource/Trinity_(Joe_McPhee_album)
+0,13,Tribute,http://dbpedia.org/resource/Tribute_(Paul_Motian_album),http://dbpedia.org/resource/Tribute_(Keith_Jarrett_album)
+0,16,Treat Me Nice,http://dbpedia.org/resource/Jailhouse_Rock_(song),http://dbpedia.org/resource/Treat_Me_Nice
+0,18,Travelin' Light,http://dbpedia.org/resource/Troubadour_(J._J._Cale_album),http://dbpedia.org/resource/Travelin'_Light_(Shirley_Scott_&_Kenny_Burrell_album)
+0,19,Travelin' Light,http://dbpedia.org/resource/Troubadour_(J._J._Cale_album),http://dbpedia.org/resource/Travelin'_Light_(Shirley_Horn_album)
+0,20,Trav'lin' Light,http://dbpedia.org/resource/Trav'lin'_Light_(Queen_Latifah_album),http://dbpedia.org/resource/Trav'lin'_Light_(Anita_O'Day_album)
+0,22,Transmutation Live,http://dbpedia.org/resource/Transmutations_(album),http://dbpedia.org/resource/Transmutation_Live
+0,25,Transition,http://dbpedia.org/resource/Transition_(Chipmunk_album),http://dbpedia.org/resource/Transition_(Steve_Lukather_album)

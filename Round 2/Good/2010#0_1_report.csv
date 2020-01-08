@@ -1,0 +1,16 @@
+F1: 0.81333,Precision: 0.81333,Recall: 0.81333,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,3,Shaun Murphy,http://dbpedia.org/resource/Shaun_Murphy_(footballer),http://dbpedia.org/resource/The_Whiston_Warrior http://dbpedia.org/resource/Shaun_Murphy_(snooker_player) http://dbpedia.org/resource/Shaun_Murphy_(cue_sports) http://dbpedia.org/resource/Shaun_Murphy_(snooker)
+1,4,John Higgins,http://dbpedia.org/resource/John_Higgins,"http://dbpedia.org/resource/John_Higgins_MBE http://dbpedia.org/resource/John_Higgins,_MBE http://dbpedia.org/resource/John_Higgins_(snooker_player) http://dbpedia.org/resource/The_wizard_of_wishaw http://dbpedia.org/resource/Wizard_of_wishaw"
+1,9,Neil Robertson,http://dbpedia.org/resource/Neil_Robertson,http://dbpedia.org/resource/Neil_Robertson_(snooker) http://dbpedia.org/resource/Neil_Robertson_(snooker_player) http://dbpedia.org/resource/The_Melbourne_Machine http://dbpedia.org/resource/Aussie_Ace
+1,24,Michael Holt,http://dbpedia.org/resource/Michael_Holt_(German_footballer),http://dbpedia.org/resource/Michael_Holt_(snooker_player) http://dbpedia.org/resource/Michael_Holt_(snooker)
+1,38,Mike Dunn,http://dbpedia.org/resource/Mike_Dunn_(baseball),http://dbpedia.org/resource/Mike_Dunn_(snooker_player)
+1,45,Marcus Campbell,http://dbpedia.org/resource/Marcus_Campbell_(basketball),"http://dbpedia.org/resource/Dumbarton_Destroyer http://dbpedia.org/resource/Campbell,_Marcus http://dbpedia.org/resource/Marcus_Campbell"
+1,49,Tom Ford,http://dbpedia.org/resource/Tom_Ford_(baseball),http://dbpedia.org/resource/Tom_Ford_(snooker_player)
+1,54,Paul Davies,"http://dbpedia.org/resource/Paul_Davies_(footballer,_born_1952)",http://dbpedia.org/resource/Paul_Davies_(snooker_player)
+1,58,David Morris,http://dbpedia.org/resource/David_Morris_(skier),http://dbpedia.org/resource/David_Morris_(snooker_player) http://dbpedia.org/resource/David_Morris_(snooker)
+1,59,Liu Song,http://dbpedia.org/resource/Liu_Yong_(badminton),http://dbpedia.org/resource/Liu_Song_(snooker) http://dbpedia.org/resource/Liu_Song_(snooker_player) http://dbpedia.org/resource/劉菘
+1,60,Jin Long,http://dbpedia.org/resource/Jin_Long_(snooker_player),http://dbpedia.org/resource/Jin_Long http://dbpedia.org/resource/Jin_Long_(disambiguation)
+1,63,Joe Delaney,http://dbpedia.org/resource/Joe_Delaney,http://dbpedia.org/resource/Joe_Delaney_(snooker_player) http://dbpedia.org/resource/Joe_Delaney_(snooker)
+1,65,David Gray,"http://dbpedia.org/resource/David_Gray_(footballer,_born_1988)",http://dbpedia.org/resource/David_Gray_(snooker) http://dbpedia.org/resource/David_Gray_(snooker_player)
+1,71,Li Hang,http://dbpedia.org/resource/Li_Hang_(footballer),http://dbpedia.org/resource/Hang_Li http://dbpedia.org/resource/Li_Hang http://dbpedia.org/resource/Li_Hang_(disambiguation)

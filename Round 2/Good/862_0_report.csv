@@ -1,0 +1,12 @@
+F1: 0.82456,Precision: 0.82456,Recall: 0.82456,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,L. Nagy,http://dbpedia.org/resource/László_Nagy_(footballer),http://dbpedia.org/resource/Laszlo_Nagy_(handballer) http://dbpedia.org/resource/László_Nagy_(handballer)
+0,3,L. Dinu,http://dbpedia.org/resource/Cornel_Dinu,http://dbpedia.org/resource/Luminita_Dinu http://dbpedia.org/resource/Luminiţa_Huţupan http://dbpedia.org/resource/Luminița_Dinu-Huțupan http://dbpedia.org/resource/Luminita_Dinu-Hutupan http://dbpedia.org/resource/Luminița_Dinu http://dbpedia.org/resource/Luminiţa_Dinu-Huţupan http://dbpedia.org/resource/Luminiţa_Dinu
+0,15,L. Toma,http://dbpedia.org/resource/Luísa_Tomás,http://dbpedia.org/resource/Laurențiu_Toma http://dbpedia.org/resource/Laurenţiu_Toma http://dbpedia.org/resource/Laurentiu_Toma
+0,17,L. Andersson,http://dbpedia.org/resource/Leif_Andersson_(footballer),http://dbpedia.org/resource/Lasse_Andersson
+0,24,L. Nagy,http://dbpedia.org/resource/László_Nagy_(footballer),http://dbpedia.org/resource/Laszlo_Nagy_(handballer) http://dbpedia.org/resource/László_Nagy_(handballer)
+0,29,K. Svensson,http://dbpedia.org/resource/Kjell_Svensson,http://dbpedia.org/resource/Kristian_Svensson
+0,40,K. Nielsen,http://dbpedia.org/resource/Kent_Nielsen,http://dbpedia.org/resource/Kasper_Nielsen
+0,47,J. Hoffmann,http://dbpedia.org/resource/Jamie_Hoffmann,http://dbpedia.org/resource/Jorg_Hoffmann_(swimmer) http://dbpedia.org/resource/Joerg_Hoffmann_(swimmer) http://dbpedia.org/resource/Jörg_Hoffmann_(swimmer)
+0,49,J. Hansen,"http://dbpedia.org/resource/John_Hansen_(footballer,_born_1974)",http://dbpedia.org/resource/Jóhan_Hansen http://dbpedia.org/resource/Johan_Hansen
+0,50,J. Cazal,http://dbpedia.org/resource/Patrick_Cazal,http://dbpedia.org/resource/Jérôme_Cazal http://dbpedia.org/resource/Jerome_Cazal

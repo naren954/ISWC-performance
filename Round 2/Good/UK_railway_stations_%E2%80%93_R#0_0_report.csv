@@ -1,0 +1,12 @@
+F1: 0.89362,Precision: 0.89362,Recall: 0.89362,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,7,Rainham (Kent),http://dbpedia.org/resource/Rainham_railway_station_(London),http://dbpedia.org/resource/Rainham_(Kent)_railway_station http://dbpedia.org/resource/Rainham_(Kent)_station
+0,33,Reedham (Surrey),http://dbpedia.org/resource/Reedham_railway_station_(Norfolk),http://dbpedia.org/resource/Reedham_(Surrey) http://dbpedia.org/resource/Reedham_railway_station_(London) http://dbpedia.org/resource/Reedham_(London)_railway_station http://dbpedia.org/resource/Reedham_(Surrey)_railway_station http://dbpedia.org/resource/Reedham_station_(London)
+0,45,Richmond,"http://dbpedia.org/resource/Richmond_railway_station,_Melbourne","http://dbpedia.org/resource/Richmond_station_(London) http://dbpedia.org/resource/Richmond_(London)_railway_station http://dbpedia.org/resource/Richmond_Station_(London) http://dbpedia.org/resource/Richmond_tube_station http://dbpedia.org/resource/Richmond_(London)_station http://dbpedia.org/resource/Richmond_station,_London http://dbpedia.org/resource/Richmond_Underground_station"
+0,46,Rickmansworth,http://dbpedia.org/resource/Rickmansworth_(Church_Street)_railway_station,http://dbpedia.org/resource/Rickmansworth_Underground_station http://dbpedia.org/resource/Rickmansworth_station http://dbpedia.org/resource/Rickmansworth_railway_station http://dbpedia.org/resource/Rickmansworth_tube_station
+0,53,Roby,"http://dbpedia.org/resource/Hammond,_Indiana",http://dbpedia.org/resource/Roby_station http://dbpedia.org/resource/Roby_railway_station
+0,55,Roche,"http://dbpedia.org/resource/Roche,_Isère",http://dbpedia.org/resource/Roche_railway_station http://dbpedia.org/resource/Roche_station
+0,62,Roman Bridge,http://dbpedia.org/resource/Roman_bridge_of_Córdoba,http://dbpedia.org/resource/Roman_Bridge_railway_station http://dbpedia.org/resource/Roman_Bridge_station
+0,71,Rotherham Central,http://dbpedia.org/resource/Rotherham_Masborough_railway_station,http://dbpedia.org/resource/Rotherham_railway_station http://dbpedia.org/resource/Rotherham_Central_station http://dbpedia.org/resource/Rotherham_Central_train_station http://dbpedia.org/resource/Rotherham_Central_railway_station http://dbpedia.org/resource/Rotherham_Central
+0,81,Rugby,"http://dbpedia.org/resource/Rugby,_Warwickshire",http://dbpedia.org/resource/Rugby_railway_station http://dbpedia.org/resource/Rugby_Railway_Station
+0,93,Rye (East Sussex),http://dbpedia.org/resource/Old_Rye,http://dbpedia.org/resource/Rye_railway_station http://dbpedia.org/resource/Rye_station

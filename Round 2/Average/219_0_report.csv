@@ -1,0 +1,6 @@
+F1: 0.66667,Precision: 0.66667,Recall: 0.66667,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,R. Chaplin,http://dbpedia.org/resource/Charles_Joshua_Chaplin,http://dbpedia.org/resource/Roy_Chaplin
+0,9,B. Kelly,http://dbpedia.org/resource/Petra_Kelly,http://dbpedia.org/resource/Bertram_Kelly http://dbpedia.org/resource/Rev_Bertram_Kelly http://dbpedia.org/resource/George_Bertram_Kelly
+0,11,A. Kennedy,http://dbpedia.org/resource/Ted_Kennedy,http://dbpedia.org/resource/Alexander_Kennedy http://dbpedia.org/resource/Sir_Alexander_Kennedy http://dbpedia.org/resource/Alexander_Blackie_William_Kennedy
+0,12,A. Moulton,http://dbpedia.org/resource/Arthur_Moulton,http://dbpedia.org/resource/Alex_Moulton

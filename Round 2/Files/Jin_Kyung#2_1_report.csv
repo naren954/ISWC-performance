@@ -1,0 +1,4 @@
+"F1: 0.66667","Precision: 0.66667","Recall: 0.66667"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","14","Wit","http://dbpedia.org/resource/The_Wits","http://dbpedia.org/resource/Wit_(play) http://dbpedia.org/resource/W;t"
+"1","24","Closer[6]","http://dbpedia.org/resource/Closers_(video_game)","http://dbpedia.org/resource/Closer_(play)"

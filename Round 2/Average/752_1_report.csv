@@ -1,0 +1,58 @@
+F1: 0.61111,Precision: 0.61111,Recall: 0.61111,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,XEMX-AM,http://dbpedia.org/resource/.am,http://dbpedia.org/resource/XEMX-AM
+1,3,XEXX-AM,http://dbpedia.org/resource/.am,http://dbpedia.org/resource/XEXX-AM
+1,4,XETRA-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/XETRA-FM http://dbpedia.org/resource/91X http://dbpedia.org/resource/XETRA_(FM) http://dbpedia.org/resource/XTRA-FM http://dbpedia.org/resource/Reggae_Makossa
+1,5,KCWT-CD,http://dbpedia.org/resource/.cd,http://dbpedia.org/resource/KCWT-CA http://dbpedia.org/resource/KCWT-CD
+1,6,XEPE-AM,http://dbpedia.org/resource/.am,http://dbpedia.org/resource/XEPE-AM http://dbpedia.org/resource/XEPE
+1,7,XHTIM-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/XHTIM http://dbpedia.org/resource/XHTIM-FM
+1,8,XEBG-AM,http://dbpedia.org/resource/.am,http://dbpedia.org/resource/XEBG-AM http://dbpedia.org/resource/XEBG
+1,9,XEPM-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/TuCanal http://dbpedia.org/resource/XEPM-TV http://dbpedia.org/resource/XEPM http://dbpedia.org/resource/XEPM-TDT
+1,10,XEPM-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/XEPM-TV http://dbpedia.org/resource/TuCanal http://dbpedia.org/resource/XEPM http://dbpedia.org/resource/XEPM-TDT
+1,11,XETRA-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/XETRA-FM http://dbpedia.org/resource/91X http://dbpedia.org/resource/XETRA_(FM) http://dbpedia.org/resource/XTRA-FM http://dbpedia.org/resource/Reggae_Makossa
+1,12,XHTIM-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/XHTIM http://dbpedia.org/resource/XHTIM-FM
+1,13,XEMO-AM,http://dbpedia.org/resource/.am,http://dbpedia.org/resource/XEMO http://dbpedia.org/resource/XEMO-AM
+1,14,XHADA-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/XHADA-FM
+1,15,XHTO-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/XHTO http://dbpedia.org/resource/XHTO-FM
+1,16,KBNT-CD,http://dbpedia.org/resource/.cd,http://dbpedia.org/resource/KBNT-TV http://dbpedia.org/resource/KBNT-CD http://dbpedia.org/resource/KTCD-CA http://dbpedia.org/resource/KBNT http://dbpedia.org/resource/KDTF http://dbpedia.org/resource/KBNT-CA http://dbpedia.org/resource/KTCD-LP http://dbpedia.org/resource/KDTF-LP http://dbpedia.org/resource/KHAX-LP
+1,17,XHCJH-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/XHCJH-TV http://dbpedia.org/resource/XHCJH http://dbpedia.org/resource/XHJCH http://dbpedia.org/resource/XHCJH-TDT
+1,18,XHNUC-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/XHNUC-FM
+1,20,XHENA-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/XHENA-FM
+1,22,XHITZ-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/XHITZ-FM http://dbpedia.org/resource/XHITZ http://dbpedia.org/resource/XHTZ
+1,25,WBBH-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WBBH-TV http://dbpedia.org/resource/WBBH
+1,30,WTCS,http://dbpedia.org/resource/World_Trade_Center_(2001–present),http://dbpedia.org/resource/WTCS_(AM) http://dbpedia.org/resource/WTCS
+1,39,WFUN,http://dbpedia.org/resource/WAXY_(AM),"http://dbpedia.org/resource/WFUN-AM_(Ashtabula,_Ohio) http://dbpedia.org/resource/WFUN_(AM)"
+1,40,WKGL-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/WKGL-FM
+1,46,WHIO-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WHIO-TV_17-6 http://dbpedia.org/resource/WHIO-TV
+1,47,WKIT-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/WKIT-FM http://dbpedia.org/resource/WKIT
+1,51,WHLW,http://dbpedia.org/resource/WOBM_(AM),http://dbpedia.org/resource/WHLW
+1,63,WCFT-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/WFYY http://dbpedia.org/resource/WCFT-FM
+1,64,WSAW-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WSAU-TV http://dbpedia.org/resource/WSAW-DT2 http://dbpedia.org/resource/W42DH-D http://dbpedia.org/resource/WSAW http://dbpedia.org/resource/WSAW-TV http://dbpedia.org/resource/W57AR
+1,68,W221CK,,http://dbpedia.org/resource/WIXY http://dbpedia.org/resource/W259BG http://dbpedia.org/resource/W221CK
+1,70,WQYK-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/WQYK-FM
+1,72,WYFX-LD,http://dbpedia.org/resource/KTPN-LD,http://dbpedia.org/resource/WFXI-CA http://dbpedia.org/resource/WYFX-LP http://dbpedia.org/resource/WYFX-LD
+1,73,WYFX-LD,http://dbpedia.org/resource/KTPN-LD,http://dbpedia.org/resource/WFXI-CA http://dbpedia.org/resource/WYFX-LP http://dbpedia.org/resource/WYFX-LD
+1,74,WBME-CD,http://dbpedia.org/resource/.cd,http://dbpedia.org/resource/WMLW-CA http://dbpedia.org/resource/WBME-CA http://dbpedia.org/resource/WMLW-LD http://dbpedia.org/resource/WBME http://dbpedia.org/resource/WBME-CD http://dbpedia.org/resource/WDJT-DT2
+1,81,WBRE-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WBRE-TV http://dbpedia.org/resource/WBRE
+1,86,WKYT-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WKYT http://dbpedia.org/resource/UKYT http://dbpedia.org/resource/WKYT-DT http://dbpedia.org/resource/WKYT-TV http://dbpedia.org/resource/CWKYT
+1,89,WQUE-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/WQUE-FM http://dbpedia.org/resource/WQUE
+1,92,WLPR-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/WLPR-FM http://dbpedia.org/resource/WWLO
+1,93,WKBN-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WKBN-TV http://dbpedia.org/resource/Tom_Holden http://dbpedia.org/resource/My_Valley_(Youngstown)
+1,94,WTAQ,http://dbpedia.org/resource/WRDZ_(AM),http://dbpedia.org/resource/WTAQ-AM http://dbpedia.org/resource/WBAY-AM http://dbpedia.org/resource/WTAQ_(AM) http://dbpedia.org/resource/WTAQ http://dbpedia.org/resource/WTAQ-FM http://dbpedia.org/resource/News_Radio_1360_WTAQ
+1,95,WDJC-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/WDJC http://dbpedia.org/resource/W256CD http://dbpedia.org/resource/WDJC-FM
+1,96,WSPA-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/W08AX http://dbpedia.org/resource/W08BP http://dbpedia.org/resource/W11AN-D http://dbpedia.org/resource/W09AR-D http://dbpedia.org/resource/WSPA-TV http://dbpedia.org/resource/W02AG-D http://dbpedia.org/resource/W08BF-D http://dbpedia.org/resource/W10AD-D http://dbpedia.org/resource/W10AJ http://dbpedia.org/resource/W02AT-D http://dbpedia.org/resource/W02AH http://dbpedia.org/resource/W09AG-D http://dbpedia.org/resource/W08AO-D http://dbpedia.org/resource/W08AT-D http://dbpedia.org/resource/W09AF-D http://dbpedia.org/resource/W08BP-D
+1,97,WWJ-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WGPR-TV http://dbpedia.org/resource/First_Forecast http://dbpedia.org/resource/CBS_62_Detroit http://dbpedia.org/resource/WWJ-TV http://dbpedia.org/resource/First_Forecast_Mornings http://dbpedia.org/resource/CBS_Detroit http://dbpedia.org/resource/WWJ-DT http://dbpedia.org/resource/CBS_62
+1,98,WFUN,http://dbpedia.org/resource/WAXY_(AM),"http://dbpedia.org/resource/WFUN-AM_(Ashtabula,_Ohio) http://dbpedia.org/resource/WFUN_(AM)"
+1,99,WYBC,http://dbpedia.org/resource/WYBC-FM,http://dbpedia.org/resource/WYBC_(AM)
+1,102,WVLK-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/WVLK-FM
+1,110,WEZI,http://dbpedia.org/resource/WEZI_(FM),http://dbpedia.org/resource/WHJX http://dbpedia.org/resource/WEZI http://dbpedia.org/resource/WFYV_ROCK_105
+1,111,WXXI,http://dbpedia.org/resource/WXXI-FM,http://dbpedia.org/resource/WXXI_(AM)
+1,113,WABG-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WABG-DT http://dbpedia.org/resource/WABG-TV http://dbpedia.org/resource/WABG-DT2
+1,121,WFNX,http://dbpedia.org/resource/WFNX,http://dbpedia.org/resource/WFNX_(FM)
+1,122,WAKE,http://dbpedia.org/resource/Wake_Island,http://dbpedia.org/resource/WAKE_(AM)
+1,129,KBEA-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/KBEA-FM http://dbpedia.org/resource/KBEA
+1,136,WTTV,http://dbpedia.org/resource/WTTS,http://dbpedia.org/resource/WTTV/WTTK http://dbpedia.org/resource/WTTV_Television_Tower http://dbpedia.org/resource/WTTV-TV http://dbpedia.org/resource/CBS_Indianapolis http://dbpedia.org/resource/WTTK http://dbpedia.org/resource/WTTV http://dbpedia.org/resource/WTTK-TV http://dbpedia.org/resource/Indiana's_4
+1,137,WATL,http://dbpedia.org/resource/Gewayantana_Airport,http://dbpedia.org/resource/MyATLtv http://dbpedia.org/resource/WATL http://dbpedia.org/resource/Myatltv http://dbpedia.org/resource/WATL_(TV) http://dbpedia.org/resource/WB_Atlanta http://dbpedia.org/resource/WATL-TV http://dbpedia.org/resource/WATL_(disambiguation)
+1,140,WHHY-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/WHHY-FM http://dbpedia.org/resource/WHHY
+1,142,WQLT-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/WQLT http://dbpedia.org/resource/WQLT-FM
+1,144,WBFM,http://dbpedia.org/resource/WHZT,http://dbpedia.org/resource/WBFM

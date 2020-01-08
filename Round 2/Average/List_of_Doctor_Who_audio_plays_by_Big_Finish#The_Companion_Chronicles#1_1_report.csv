@@ -1,0 +1,4 @@
+F1: 0.75000,Precision: 0.75000,Recall: 0.75000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,7,Human Resources Part 1,,http://dbpedia.org/resource/Human_Resources_(audio_drama) http://dbpedia.org/resource/Human_Resources_(Doctor_Who_audio) http://dbpedia.org/resource/Human_Resources_(Doctor_Who)
+1,8,Human Resources Part 2,http://dbpedia.org/resource/Ajin:_Demi-Human,http://dbpedia.org/resource/Human_Resources_(audio_drama) http://dbpedia.org/resource/Human_Resources_(Doctor_Who_audio) http://dbpedia.org/resource/Human_Resources_(Doctor_Who)

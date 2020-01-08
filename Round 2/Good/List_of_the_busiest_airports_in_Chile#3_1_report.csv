@@ -1,0 +1,5 @@
+F1: 0.81250,Precision: 0.81250,Recall: 0.81250,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,Comodoro Arturo Merino BenÃ­tez International Airport,http://dbpedia.org/resource/Arturo_Merino_Benítez_International_Airport,http://dbpedia.org/resource/Comodoro_Arturo_Merino_Benítez_International_Airport
+1,3,Cerro Moreno International Airport,http://dbpedia.org/resource/Cerro_Largo_International_Airport,http://dbpedia.org/resource/Cerro_Moreno_(airport) http://dbpedia.org/resource/Cerro_Moreno_International http://dbpedia.org/resource/Antofagasta_Airport http://dbpedia.org/resource/Cerro_Moreno_Airport http://dbpedia.org/resource/Cerro_Moreno_International_Airport http://dbpedia.org/resource/Cerro_Moreno_AB http://dbpedia.org/resource/Cerro_Moreno_(international_airport)
+1,15,Pichoy Airfield,http://dbpedia.org/resource/Pichoy_Airport,http://dbpedia.org/resource/Pichoy_Airfield

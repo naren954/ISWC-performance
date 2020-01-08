@@ -1,0 +1,5 @@
+F1: 0.76923,Precision: 0.76923,Recall: 0.76923,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,5,John Hodge,http://dbpedia.org/resource/John_Hodges_(Australian_politician),http://dbpedia.org/resource/John_Hodge_(politician) http://dbpedia.org/resource/John_Hodge_(UK_politician)
+2,12,William Richard Williams,http://dbpedia.org/resource/William_Williams_(Labour_politician),http://dbpedia.org/resource/William_Richard_Williams
+2,15,Andrew Bennett,http://dbpedia.org/resource/Andrew_Bennett_(politician),"http://dbpedia.org/resource/Bennett,_Andrew http://dbpedia.org/resource/Andrew_Bennett http://dbpedia.org/resource/Andrew_Francis_Bennett"

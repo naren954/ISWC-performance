@@ -1,0 +1,86 @@
+F1: 0.50000,Precision: 0.50000,Recall: 0.50000,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,1,L. Carlin,http://dbpedia.org/resource/George_Carlin,http://dbpedia.org/resource/Lynn_Carlin
+2,3,J. L. Hua,http://dbpedia.org/resource/Pope_John_Paul_II,http://dbpedia.org/resource/Jabb_Love_Hua http://dbpedia.org/resource/Jab_Love_Hua
+2,7,M. Bates,http://dbpedia.org/resource/Alan_Bates,http://dbpedia.org/resource/Michael_Bates_(actor)
+2,8,R. Thomas,http://dbpedia.org/resource/Ramblin'_Thomas,http://dbpedia.org/resource/Richard_Thomas_(actor)
+2,9,B. Bates,http://dbpedia.org/resource/Alan_Bates,http://dbpedia.org/resource/Barbara_Bates
+2,10,E. Sabella,http://dbpedia.org/resource/Isabella_I_of_Castile,http://dbpedia.org/resource/Ernie_Sabella
+2,11,J. In-sung,http://dbpedia.org/resource/Jung_Jae-sung,http://dbpedia.org/resource/Jo_In_seong http://dbpedia.org/resource/Jo_In_Seong http://dbpedia.org/resource/Jo_In-Seong http://dbpedia.org/resource/Jo_in_sung http://dbpedia.org/resource/Zo_In_Sung http://dbpedia.org/resource/Inseong_Cho http://dbpedia.org/resource/Jo_In-seong_(actor) http://dbpedia.org/resource/Cho_Inseong http://dbpedia.org/resource/Jo_Insung http://dbpedia.org/resource/Jo_In_sung http://dbpedia.org/resource/Zo_In-sung http://dbpedia.org/resource/Jo_In_Sung http://dbpedia.org/resource/Jo_In-seong http://dbpedia.org/resource/Cho_Insŏng http://dbpedia.org/resource/Jo_In-sung
+2,12,S. Longworth,http://dbpedia.org/resource/Helen_Longworth,http://dbpedia.org/resource/Shelley_Longworth
+2,14,S. Khan,http://dbpedia.org/resource/Shah_Rukh_Khan,http://dbpedia.org/resource/Shamil_Khan http://dbpedia.org/resource/Shamyl_Khan
+2,15,G. Mercado,http://dbpedia.org/resource/Rosendo_Mercado,http://dbpedia.org/resource/Glydel_Mercado
+2,19,C. Orr,http://dbpedia.org/resource/Robin_Orr,http://dbpedia.org/resource/Christopher_Orr_(actor)
+2,21,C. Harris,http://dbpedia.org/resource/Cassandra_Harris,"http://dbpedia.org/resource/Chris_Harris_(actor) http://dbpedia.org/resource/Chris_Harris_(actor,_director_and_writer)"
+2,24,D. Ignacio,http://dbpedia.org/resource/Ignacy_Domeyko,http://dbpedia.org/resource/Dion_Ignacio
+2,25,W. Clarke,http://dbpedia.org/resource/William_Clarke_(musician),http://dbpedia.org/resource/Warren_Clarke
+2,28,M. Jupp,http://dbpedia.org/resource/Mickey_Jupp,http://dbpedia.org/resource/Miles_Jupp
+2,29,I. Calzado,http://dbpedia.org/resource/Lito_Calzado,http://dbpedia.org/resource/Iza_Calzado
+2,31,A. Locsin,http://dbpedia.org/resource/Leandro_Locsin,http://dbpedia.org/resource/Angel_Locsin http://dbpedia.org/resource/Angelica_Colmenares http://dbpedia.org/resource/Angel_Locsín http://dbpedia.org/resource/Angélica_Colmenares http://dbpedia.org/resource/Angel_locsin http://dbpedia.org/resource/Enzerurokkushin
+2,32,P. Avelino,http://pt.dbpedia.org/resource/Pauderney_Avelino,http://dbpedia.org/resource/Paulo_Avelino_(actor) http://dbpedia.org/resource/Paulo_Avelino
+2,34,P. Luna,http://pt.dbpedia.org/resource/Paulo_Luna,http://dbpedia.org/resource/Pauleen_Luna
+2,35,N. Samonte,http://dbpedia.org/resource/Nikki_Samonte,http://dbpedia.org/resource/Nadine_Samonte http://dbpedia.org/resource/Nadine_samonte
+2,36,A. d. Leon,http://dbpedia.org/resource/Alfonso_VII_of_León_and_Castile,http://dbpedia.org/resource/Angelu_de_leon http://dbpedia.org/resource/Angelu_De_Leon http://dbpedia.org/resource/Angelu_de_Leon
+2,37,B. Forteza,http://dbpedia.org/resource/Francisco_Forteza,http://dbpedia.org/resource/Barbie_Forteza
+2,38,J. Torre,http://es.dbpedia.org/resource/Javier_Torre,http://dbpedia.org/resource/Joel_Torre
+2,41,S. Ouimette,http://dbpedia.org/resource/Steve_Ouimette,http://dbpedia.org/resource/Stephen_Ouimette
+2,45,D. Dantes,http://dbpedia.org/resource/Georges-Charles_de_Heeckeren_d'Anthès,http://dbpedia.org/resource/José_Sixto_Gonzáles_Dantes_III http://dbpedia.org/resource/Jon-Erik_Sayson http://dbpedia.org/resource/Dingdong_Dantes
+2,48,S. Yeung,http://dbpedia.org/resource/Emperor_Wen_of_Sui,http://dbpedia.org/resource/Shirley_Yeung http://dbpedia.org/resource/Shirley_Yeung_Sze_Kei http://dbpedia.org/resource/Shirley_Yeung_Tze_Kei
+2,49,S. Cheng,http://dbpedia.org/resource/Ronald_Cheng,http://dbpedia.org/resource/Stephanie_Cheng http://dbpedia.org/resource/鄭融 http://dbpedia.org/resource/Stephanie_cheng
+2,50,S. Yeung,http://dbpedia.org/resource/Emperor_Wen_of_Sui,http://dbpedia.org/resource/Shirley_Yeung http://dbpedia.org/resource/Shirley_Yeung_Sze_Kei http://dbpedia.org/resource/Shirley_Yeung_Tze_Kei
+2,51,A. Fong,http://dbpedia.org/resource/Allen_Fong,http://dbpedia.org/resource/Alex_Fong_(actor) http://dbpedia.org/resource/Alex_Fong_Chung-sun http://dbpedia.org/resource/Fang_Zhongxin http://dbpedia.org/resource/Alex_Fong_Chung-Sun
+2,52,M. Chan,http://dbpedia.org/resource/Moses_Chan,http://dbpedia.org/resource/Monica_Chan
+2,53,N. Lovett,http://dbpedia.org/resource/Lyle_Lovett,http://dbpedia.org/resource/Norman_Lovett
+2,56,J. Wu,http://dbpedia.org/resource/Jacklyn_Wu,http://dbpedia.org/resource/Jiang_Wu
+2,61,B. Bell,http://dbpedia.org/resource/Bill_Bell_(mayor),http://dbpedia.org/resource/Brad_Bell_(producer)
+2,63,A. Macqueen,http://dbpedia.org/resource/Rod_Macqueen,http://dbpedia.org/resource/Alexander_MacQueen http://dbpedia.org/resource/Alex_MacQueen http://dbpedia.org/resource/Alex_Macqueen
+2,66,R. Girard,http://dbpedia.org/resource/René_Girard,http://dbpedia.org/resource/Remy_Girard http://dbpedia.org/resource/Rémy_Girard
+2,67,S. Seth,http://dbpedia.org/resource/Seth_MacFarlane,http://dbpedia.org/resource/Sushma_Seth
+2,68,H. Ladkiyan,,http://dbpedia.org/resource/Hum_Ladkiyan http://dbpedia.org/resource/Jaanvi_Sangwan
+2,71,B. Cowell,http://dbpedia.org/resource/Henry_Cowell,http://dbpedia.org/resource/Brendan_Cowell
+2,73,P. Morley,http://dbpedia.org/resource/Robert_Morley,http://dbpedia.org/resource/Paul_Morley http://dbpedia.org/resource/Words_and_Music:_the_history_of_pop_in_the_shape_of_a_city
+2,74,F. Flanagan,http://dbpedia.org/resource/Barry_Flanagan,http://dbpedia.org/resource/Fionnuala_Flanagan http://dbpedia.org/resource/Fionnula_Flanagan http://dbpedia.org/resource/Fionnula_Flanagan_(version_2)
+2,76,A. Anderson,http://dbpedia.org/resource/Poul_Anderson,http://dbpedia.org/resource/Angry_Anderson
+2,80,W. Rogers,http://dbpedia.org/resource/Will_Rogers,http://dbpedia.org/resource/Wayne_Rogers
+2,81,K. Connolly,http://dbpedia.org/resource/James_Connolly,http://dbpedia.org/resource/Kristen_Connolly
+2,82,N. Mohammed,http://dbpedia.org/resource/Nazr_Mohammed,http://dbpedia.org/resource/Nick_Mohammed
+2,83,P. Copley,http://dbpedia.org/resource/John_Singleton_Copley,http://dbpedia.org/resource/Paul_Copley
+2,84,G. Kearney,http://dbpedia.org/resource/Gus_Kearney,http://dbpedia.org/resource/Gillian_Kearney
+2,85,P. Higgins,http://dbpedia.org/resource/Clare_Higgins,http://dbpedia.org/resource/Paul_Higgins_(actor)
+2,86,K. Browne,http://dbpedia.org/resource/Brian_Browne,http://dbpedia.org/resource/Catharine_Browne http://dbpedia.org/resource/Kathi_Browne http://dbpedia.org/resource/Kathie_McGavin http://dbpedia.org/resource/Katharine_Browne http://dbpedia.org/resource/Catherine_Browne http://dbpedia.org/resource/Cathie_Browne http://dbpedia.org/resource/Kathie_Brown http://dbpedia.org/resource/Cathy_Browne http://dbpedia.org/resource/Kathy_Browne http://dbpedia.org/resource/Katherine_Browne http://dbpedia.org/resource/Kathie_Browne_McGavin http://dbpedia.org/resource/Kathie_Browne http://dbpedia.org/resource/Cathi_Browne
+2,88,F. Alexander,http://dbpedia.org/resource/Frank_Alexander_(actor),"http://dbpedia.org/resource/Flex_Alexander http://dbpedia.org/resource/Alexander,_Flex http://dbpedia.org/resource/Mark_Alexander_Knox"
+2,89,Dolphy,http://dbpedia.org/resource/Eric_Dolphy,"http://dbpedia.org/resource/Rodolfo_Quizon,_Sr. http://dbpedia.org/resource/Kevin_Kosme http://dbpedia.org/resource/Death_and_funeral_of_Dolphy http://dbpedia.org/resource/Rodolfo_Vera_Quizon http://dbpedia.org/resource/Philippine_King_of_Comedy http://dbpedia.org/resource/Dolphy http://dbpedia.org/resource/Tataynic http://dbpedia.org/resource/Rodolfo_Quizon http://dbpedia.org/resource/Pidol http://dbpedia.org/resource/Rodolfo_Vera_Quizon,_Sr. http://dbpedia.org/resource/John_Puruntong http://dbpedia.org/resource/Dolphy's_Cleanup http://dbpedia.org/resource/Mang_Pidol http://dbpedia.org/resource/Dolphy_(Filipino_comedian) http://dbpedia.org/resource/Dolphy_Quizon"
+2,91,O. Milburn,http://dbpedia.org/resource/Amos_Milburn,http://dbpedia.org/resource/Oliver_Milburn
+2,93,M. Young,http://dbpedia.org/resource/Malcolm_Young,http://dbpedia.org/resource/Megan_Young http://dbpedia.org/resource/Megan_young
+2,95,P. Wight,http://dbpedia.org/resource/Andrew_Wight,http://dbpedia.org/resource/Peter_Wight_(actor)
+2,96,D. Trillo,http://dbpedia.org/resource/Carlos_Trillo,http://dbpedia.org/resource/Dennis_Trillo
+2,97,H. H. Hurray,http://dbpedia.org/resource/Hip_Hip_Hurray_(TV_series),http://dbpedia.org/resource/Three_cheers http://dbpedia.org/resource/Hip_hip_hooray http://dbpedia.org/resource/Hip_Hip_Hurray http://dbpedia.org/resource/3_cheers http://dbpedia.org/resource/Hip_Hip_Hooray
+2,100,V. French,"http://dbpedia.org/resource/Charles_V,_Holy_Roman_Emperor",http://dbpedia.org/resource/Victor_French
+2,104,P. Marshall,http://dbpedia.org/resource/Penny_Marshall,http://dbpedia.org/resource/Paula_Marshall
+2,108,M. Hagan,http://dbpedia.org/resource/Marianne_Hagan,http://dbpedia.org/resource/Molly_Hagan
+2,110,M. Warner,http://dbpedia.org/resource/Jack_L._Warner,http://dbpedia.org/resource/Malcolm_Jamal_Warner http://dbpedia.org/resource/Malcom-Jamal_Warner http://dbpedia.org/resource/Malcom_Jamal_Warner http://dbpedia.org/resource/Malcolm-Jamal_Warner http://dbpedia.org/resource/Malcolm_Jamal-Warner
+2,111,D. Jones,http://dbpedia.org/resource/David_Bowie,http://dbpedia.org/resource/Dean_Jones_(actor) http://dbpedia.org/resource/Dean_Jones_(actor
+2,113,C. Hart,http://dbpedia.org/resource/Clyde_Hart_(pianist),http://dbpedia.org/resource/Christina_Hart
+2,115,B. Richmond,http://dbpedia.org/resource/Julius_B._Richmond,http://dbpedia.org/resource/Branscombe_Richmond http://dbpedia.org/resource/Richmond_Branscombe
+2,117,K. Martin,http://dbpedia.org/resource/Kevin_Martin_(American_musician),http://dbpedia.org/resource/Kristofer_Martin_Dangculos http://dbpedia.org/resource/Kristofer_Martin http://dbpedia.org/resource/Kristofer_Dangculos
+2,119,L. Borden,http://dbpedia.org/resource/Robert_Borden,http://dbpedia.org/resource/Lynn_Freyse http://dbpedia.org/resource/Lynn_Borden
+2,127,B. Casey,"http://dbpedia.org/resource/Richard_Casey,_Baron_Casey",http://dbpedia.org/resource/Bernie_Casey
+2,130,R. Santiago,http://dbpedia.org/resource/N.O.R.E.,http://dbpedia.org/resource/Randy_Gerard_Legaspi_Santiago http://dbpedia.org/resource/Randy_Santiago
+2,131,B. Metcalfe,"http://dbpedia.org/resource/Charles_Metcalfe,_1st_Baron_Metcalfe",http://dbpedia.org/resource/Burt_Metcalfe
+2,132,D. Greer,http://dbpedia.org/resource/Germaine_Greer,http://dbpedia.org/resource/Dabbs_Greer
+2,134,D. Monasterio,http://dbpedia.org/resource/Jesús_de_Monasterio,http://dbpedia.org/resource/Rick_Monasterio http://dbpedia.org/resource/Derrick_Monasterio http://dbpedia.org/resource/Derick_Monasterio
+2,135,L. Tolentino,http://dbpedia.org/resource/Bruno_Tolentino,http://dbpedia.org/resource/Victoria_Lorna_Aluquin-Fernandez http://dbpedia.org/resource/Lorna_Tolentino
+2,136,H. Team,http://dbpedia.org/resource/Dayton_Flyers,http://dbpedia.org/resource/Hamro_Team
+2,137,E. Dux,"http://dbpedia.org/resource/Arthur_Wellesley,_1st_Duke_of_Wellington",http://dbpedia.org/resource/Eckart_Dux
+2,140,G. Reyes,http://dbpedia.org/resource/Pedro_Reyes_(comedian),http://dbpedia.org/resource/Gadys_Reyes http://dbpedia.org/resource/Gladys_Reyes
+2,141,A. Martinez,http://dbpedia.org/resource/A_Martinez,http://dbpedia.org/resource/Albert_Martinez http://dbpedia.org/resource/Albert_Martínez
+2,142,É. Judor,http://dbpedia.org/resource/Charles_Evans_Hughes,http://dbpedia.org/resource/Éric_Judor
+2,145,C. Hardwick,http://dbpedia.org/resource/Elizabeth_Hardwick_(writer),http://dbpedia.org/resource/@nerdist http://dbpedia.org/resource/Chris_Hardwick http://dbpedia.org/resource/Funcomfortable
+2,147,F. Khan,http://dbpedia.org/resource/Feroz_Khan_(actor),"http://dbpedia.org/resource/Feroze_Khan_(actor) http://dbpedia.org/resource/Feroze_Khan_Kopitie http://dbpedia.org/resource/Feroze_Malik http://dbpedia.org/resource/Feroze_Khan_(actor,_born_1990) http://dbpedia.org/resource/Feroze_Khan http://dbpedia.org/resource/Feroze_Khan_Kopite http://dbpedia.org/resource/Feroze_Malick"
+2,150,J. Roxas,http://dbpedia.org/resource/Manuel_Roxas,http://dbpedia.org/resource/Jake_Roxas
+2,154,C. Parkinson,http://dbpedia.org/resource/Katherine_Parkinson,http://dbpedia.org/resource/Craig_Parkinson
+2,156,B. Lawrence,http://dbpedia.org/resource/Barbara_Lawrence,http://dbpedia.org/resource/Bruno_Lawrence
+2,157,G. Eigenmann,http://dbpedia.org/resource/Andi_Eigenmann,http://dbpedia.org/resource/Geoff_Eigenmann http://dbpedia.org/resource/Geoff_Eigenman
+2,163,G. Torry,http://dbpedia.org/resource/Clare_Torry,http://dbpedia.org/resource/Guy_Torry
+2,167,B. Turner,http://dbpedia.org/resource/Bridget_Turner,http://dbpedia.org/resource/Bree_Turner http://dbpedia.org/resource/Bree_turner
+2,168,L. L. Smith,http://dbpedia.org/resource/Lonnie_Liston_Smith,http://dbpedia.org/resource/Lauren_lee_smith http://dbpedia.org/resource/Lauren_Lee_Smith

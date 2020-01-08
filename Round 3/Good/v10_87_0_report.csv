@@ -1,0 +1,7 @@
+F1: 0.82143,Precision: 0.82143,Recall: 0.82143,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Actinostrobus pyramidalis,http://dbpedia.org/resource/Actinostrobus,http://dbpedia.org/resource/Swan_river_cypress http://dbpedia.org/resource/Swan_River_cypress http://dbpedia.org/resource/Actinostrobus_pyramidalis http://dbpedia.org/resource/Callitris_pyramidalis
+0,2,Actinostrobus arenarius,http://dbpedia.org/resource/Actinostrobus,http://dbpedia.org/resource/Sandplain_cypress http://dbpedia.org/resource/Actinostrobus_arenarius http://dbpedia.org/resource/Callitris_arenaria
+0,3,Actinostrobus acuminatus,http://dbpedia.org/resource/Actinostrobus,http://dbpedia.org/resource/Callitris_acuminata http://dbpedia.org/resource/Actinostrobus_acuminatus http://dbpedia.org/resource/Moore_cypress_pine
+0,4,Acmopyle sahniana,http://dbpedia.org/resource/Acmopyle,http://dbpedia.org/resource/Acmopyle_sahniana
+0,5,Acmopyle pancheri,http://dbpedia.org/resource/Acmopyle,http://dbpedia.org/resource/Acmopyle_pancheri

@@ -1,0 +1,6 @@
+F1: 0.63636,Precision: 0.63636,Recall: 0.63636,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,5,Country Teachers,http://dbpedia.org/resource/The_Country_Teacher,http://dbpedia.org/resource/Feng_huang_qin http://dbpedia.org/resource/Country_Teachers
+0,7,Dirt,http://dbpedia.org/resource/Dirt_(TV_series),http://dbpedia.org/resource/Dirt_(1994_film) http://dbpedia.org/resource/Tou_fa_luan_le
+0,18,The Square,http://dbpedia.org/resource/Madison_Square_Garden_(film),http://dbpedia.org/resource/Guang_Chang http://dbpedia.org/resource/The_Square_(1994_film)
+0,20,To Live,http://dbpedia.org/resource/One_Life_to_Live,http://dbpedia.org/resource/Huozhe http://dbpedia.org/resource/To_Live http://dbpedia.org/resource/To_live http://dbpedia.org/resource/To_Live_(disambiguation) http://dbpedia.org/resource/To_Live_(film)

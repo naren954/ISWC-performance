@@ -1,0 +1,18 @@
+Serial_ATA#5_0,0,2,eSATAp,http://dbpedia.org/resource/ESATAp
+Serial_ATA#5_0,0,7,PATA (IDE) 133,http://dbpedia.org/resource/Parallel_ATA
+Serial_ATA#5_0,0,8,SAS-3,http://dbpedia.org/resource/Serial_Attached_SCSI
+Serial_ATA#5_0,0,9,SAS-2,http://dbpedia.org/resource/Serial_Attached_SCSI
+Serial_ATA#5_0,0,10,SAS 300,http://dbpedia.org/resource/300
+Serial_ATA#5_0,0,11,SAS 150,http://dbpedia.org/resource/150
+Serial_ATA#5_0,0,12,IEEE 1394 (FireWire) 3200,http://dbpedia.org/resource/IEEE_1394
+Serial_ATA#5_0,0,13,IEEE 1394 (FireWire) 800,http://dbpedia.org/resource/IEEE_1394
+Serial_ATA#5_0,0,14,IEEE 1394 (FireWire) 400,http://dbpedia.org/resource/IEEE_1394
+Serial_ATA#5_0,0,15,USB 3.1,http://dbpedia.org/resource/USB_3.1
+Serial_ATA#5_0,0,16,USB 3.0[g],http://de.dbpedia.org/resource/USB_2.0
+Serial_ATA#5_0,0,17,USB 2.0,http://de.dbpedia.org/resource/USB_2.0
+Serial_ATA#5_0,0,18,USB 1.1,
+Serial_ATA#5_0,0,19,SCSI Ultra-320,http://dbpedia.org/resource/Parallel_SCSI
+Serial_ATA#5_0,0,22,InfiniBand Quad Rate,http://dbpedia.org/resource/InfiniBand
+Serial_ATA#5_0,0,23,Thunderbolt,http://dbpedia.org/resource/Thunderbolt_(interface)
+Serial_ATA#5_0,0,24,Thunderbolt 2,http://dbpedia.org/resource/Thunderbolt_(interface)
+Serial_ATA#5_0,0,25,Thunderbolt 3,http://dbpedia.org/resource/Thunderbolt_(interface)

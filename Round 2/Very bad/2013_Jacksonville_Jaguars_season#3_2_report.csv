@@ -1,0 +1,10 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,1,Kansas City Chiefs,"http://dbpedia.org/resource/Kansas_City,_Missouri",http://dbpedia.org/resource/2013_Kansas_City_Chiefs_season
+2,4,Indianapolis Colts,http://dbpedia.org/resource/University_of_Central_Florida,http://dbpedia.org/resource/2013_Indianapolis_Colts_season
+2,7,San Diego Chargers,http://dbpedia.org/resource/Los_Angeles_Chargers,http://dbpedia.org/resource/2013_San_Diego_Chargers_season
+2,8,San Francisco 49ers,http://dbpedia.org/resource/San_Francisco_49ers,http://dbpedia.org/resource/2013_San_Francisco_49ers_season
+2,11,Arizona Cardinals,http://dbpedia.org/resource/Arizona_Cardinals,http://dbpedia.org/resource/2013_Arizona_Cardinals_season
+2,14,Houston Texans,http://dbpedia.org/resource/Houston,http://dbpedia.org/resource/2013_Houston_Texans_season
+2,15,Buffalo Bills,"http://dbpedia.org/resource/Buffalo,_New_York",http://dbpedia.org/resource/2013_Buffalo_Bills_season
+2,16,Tennessee Titans,http://dbpedia.org/resource/Tennessee_Titans,http://dbpedia.org/resource/2013_Tennessee_Titans_season

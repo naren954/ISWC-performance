@@ -1,0 +1,48 @@
+F1: 0.42500,Precision: 0.42500,Recall: 0.42500,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,WUCF-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WUCF-TV http://dbpedia.org/resource/WMFE-TV http://dbpedia.org/resource/WMFE-DT
+0,3,WTZP-LD,http://dbpedia.org/resource/KTPN-LD,http://dbpedia.org/resource/WTZP-LD
+0,4,WTXX-LP,http://dbpedia.org/resource/Lp_space,http://dbpedia.org/resource/WTXX-LP http://dbpedia.org/resource/WESA-LP
+0,5,WTXL-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WTXL http://dbpedia.org/resource/WTXL-TV
+0,10,WTVH,http://dbpedia.org/resource/WHOI_(TV),http://dbpedia.org/resource/WTVH http://dbpedia.org/resource/WTVH-TV http://dbpedia.org/resource/WHEN-TV
+0,16,WTSD-CA,http://dbpedia.org/resource/.ca,http://dbpedia.org/resource/WTSD-CA
+0,17,WTPM-LD,http://dbpedia.org/resource/KTPN-LD,http://dbpedia.org/resource/WTPM-LD http://dbpedia.org/resource/WTPM-LP
+0,18,WTPC-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WTPC-TV http://dbpedia.org/resource/WHRE-TV
+0,19,WTOV-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WTOV http://dbpedia.org/resource/WTOV-DT http://dbpedia.org/resource/Wtov-tv http://dbpedia.org/resource/WTOV-TV
+0,22,WTMH-LD,http://dbpedia.org/resource/KTPN-LD,http://dbpedia.org/resource/WTMH-LD
+0,24,WTJP-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WTJP-TV http://dbpedia.org/resource/WTJP
+0,25,WTHC-LD,http://dbpedia.org/resource/KTPN-LD,http://dbpedia.org/resource/WTHC-LD http://dbpedia.org/resource/WTHC http://dbpedia.org/resource/WTHC-LP http://dbpedia.org/resource/W42BQ http://dbpedia.org/resource/The_Atlanta_Channel http://dbpedia.org/resource/W63BB
+0,30,WTCN-CA,http://dbpedia.org/resource/.ca,http://dbpedia.org/resource/WTCN-CA
+0,31,WTCE-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WTCE http://dbpedia.org/resource/WTCE-TV
+0,32,WTBY-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/W52DF http://dbpedia.org/resource/WTBY-TV http://dbpedia.org/resource/WTBY
+0,33,WTAJ-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WTAJ-TV http://dbpedia.org/resource/WFBG-TV http://dbpedia.org/resource/WTAJ
+0,36,WSYR-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/W07BA http://dbpedia.org/resource/WSYR-TV http://dbpedia.org/resource/9_ABC http://dbpedia.org/resource/WSYR-DT
+0,37,WSYM-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WSYM http://dbpedia.org/resource/WSYM-TV
+0,40,WSVF-CD,http://dbpedia.org/resource/.cd,http://dbpedia.org/resource/WSVF-CA http://dbpedia.org/resource/WSVF-LD http://dbpedia.org/resource/WSVF-CD http://dbpedia.org/resource/WAZM-CA http://dbpedia.org/resource/The_Valley's_FOX http://dbpedia.org/resource/WSVF-LD1 http://dbpedia.org/resource/WSVF http://dbpedia.org/resource/WAZM http://dbpedia.org/resource/WHSV-DT2
+0,41,WSTM-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WSTM-DT http://dbpedia.org/resource/CNY_Central http://dbpedia.org/resource/NBC3_Weather_Plus http://dbpedia.org/resource/WSTM-TV
+0,43,WSMV-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/Sir_Cecil_Creape http://dbpedia.org/resource/WSMV-TV http://dbpedia.org/resource/Meredith_Nashville http://dbpedia.org/resource/WSMV_TV-Tower http://dbpedia.org/resource/NBC_Nashville http://dbpedia.org/resource/WSMV http://dbpedia.org/resource/WSM-TV
+0,44,WSJU-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WSJU-TV
+0,45,WSJN-CD,http://dbpedia.org/resource/.cd,http://dbpedia.org/resource/WQSJ http://dbpedia.org/resource/WQSJ-CD http://dbpedia.org/resource/WSJN-CA http://dbpedia.org/resource/WSJN-CD http://dbpedia.org/resource/WQSJ-LP http://dbpedia.org/resource/WSJN
+0,47,WSFX-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WJKA-TV http://dbpedia.org/resource/WSFX-DT http://dbpedia.org/resource/WSFX-TV http://dbpedia.org/resource/Fox_Wilmington http://dbpedia.org/resource/WSFX_(TV)
+0,49,WSET-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WLVA-TV http://dbpedia.org/resource/W05AA-D http://dbpedia.org/resource/ABC_Roanoke http://dbpedia.org/resource/WSET-TV http://dbpedia.org/resource/WSET_(TV) http://dbpedia.org/resource/ABC_Lynchburg
+0,50,WSEE-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WSEE-TV http://dbpedia.org/resource/WSEE
+0,51,WSAW-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WSAU-TV http://dbpedia.org/resource/W42DH-D http://dbpedia.org/resource/WSAW http://dbpedia.org/resource/W57AR http://dbpedia.org/resource/WSAW-TV http://dbpedia.org/resource/WSAW-DT2
+0,52,WSAV-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WSAV-TV
+0,53,WRSP-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WCCU_(TV) http://dbpedia.org/resource/WCCU-TV http://dbpedia.org/resource/WRSP http://dbpedia.org/resource/WRSP-TV
+0,54,WRPX-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WRPX-TV http://dbpedia.org/resource/WRPX
+0,55,WROC-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WROC-DT http://dbpedia.org/resource/WROC-TV
+0,56,WRNN-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/Wyxn_ld http://dbpedia.org/resource/WTZA-TV http://dbpedia.org/resource/WRNN-TV http://dbpedia.org/resource/RNN-TV_News http://dbpedia.org/resource/WRNN-LP http://dbpedia.org/resource/WYXN-LD
+0,61,WRDE-LD,http://dbpedia.org/resource/KTPN-LD,http://dbpedia.org/resource/WRDE-LP http://dbpedia.org/resource/WRDE http://dbpedia.org/resource/WRDE-LD
+0,65,WRAZ,http://dbpedia.org/resource/Polish–Lithuanian_Commonwealth,http://dbpedia.org/resource/WRAZ_(TV) http://dbpedia.org/resource/WRAZ-TV
+0,67,WQPT-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/W48CK http://dbpedia.org/resource/WQPT http://dbpedia.org/resource/WQPT-TV http://dbpedia.org/resource/W48CK-D
+0,69,WPXW-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WPXW-TV http://dbpedia.org/resource/WPXW http://dbpedia.org/resource/WPXW-DT
+0,70,WPXV-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WPXV-DT http://dbpedia.org/resource/WPXV-TV http://dbpedia.org/resource/WPXV
+0,71,WPXU-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WPXU-TV
+0,72,WPXR-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WPXR-TV
+0,73,WPXQ-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WPXQ http://dbpedia.org/resource/WPXQ-TV
+0,74,WPXP-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WPXP http://dbpedia.org/resource/WPXP-TV http://dbpedia.org/resource/WPXP_(TV)
+0,75,WPXO-LD,http://dbpedia.org/resource/KTPN-LD,http://dbpedia.org/resource/WPXO-LD http://dbpedia.org/resource/WPXO-TV http://dbpedia.org/resource/WPXO-LP http://dbpedia.org/resource/MundoFOX_34_New_York
+0,76,WPXN-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WNYC-TV http://dbpedia.org/resource/Ion_Television_New_York http://dbpedia.org/resource/WPXN-TV http://dbpedia.org/resource/WPXU-LP http://dbpedia.org/resource/WPXU-LD http://dbpedia.org/resource/WPXN-DT
+0,77,WPXM-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WPXM http://dbpedia.org/resource/WPXM-TV http://dbpedia.org/resource/WPXM_(TV) http://dbpedia.org/resource/WPXM-DT
+0,78,WPXL-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WPXL-TV http://dbpedia.org/resource/WPXL
+0,79,WPXK-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WPXK-TV http://dbpedia.org/resource/WPXK

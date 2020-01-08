@@ -1,0 +1,35 @@
+F1: 0.70796,Precision: 0.70796,Recall: 0.70796,,
+Col,Row,Value,Submitted URI,Correct URI's
+4,1,Wonderful,http://dbpedia.org/resource/Wonderful_(Annie_Lennox_song),http://dbpedia.org/resource/Wonderful_(The_Beach_Boys_song) http://dbpedia.org/resource/Rock_With_Me_Henry
+4,4,Victoria,http://dbpedia.org/resource/Primo_Victoria,http://dbpedia.org/resource/Victoria_(song)
+4,11,Friends,http://dbpedia.org/resource/Friends_(Aura_Dione_song),http://dbpedia.org/resource/Friends_(Elton_John_song)
+4,13,Come Together,http://dbpedia.org/resource/Come_Together_(Primal_Scream_song),http://dbpedia.org/resource/Come_Together_(Michael_Jackson_song) http://dbpedia.org/resource/Come_Together http://dbpedia.org/resource/Come_Together_(The_Beatles_song) http://dbpedia.org/resource/Come_together
+4,18,Delirious,http://dbpedia.org/resource/Delirious_(David_Guetta_song),http://dbpedia.org/resource/Delirious_(Prince_song)
+4,23,The Fall,http://dbpedia.org/resource/The_Fall_(Gorillaz_album),http://dbpedia.org/resource/The_Fall_(Ministry_song)
+4,26,"Hello, Goodbye",http://dbpedia.org/resource/Hello_Goodbye_(Tyler_Farr_song),"http://dbpedia.org/resource/Hello,_goodbye http://dbpedia.org/resource/Hello-goodbye http://dbpedia.org/resource/Hello,_Goodbye http://dbpedia.org/resource/Hello_Goodbye http://dbpedia.org/resource/Hello,_Goodbye_(The_Beatles_song) http://dbpedia.org/resource/Hello_Goodbye_(Jonas_Brothers_song)"
+4,28,I Want to Hold Your Hand,http://dbpedia.org/resource/I_Want_to_Hold_Your_Hand_(album),"http://dbpedia.org/resource/Komm,_Gib_Mir_Deine http://dbpedia.org/resource/I_Want_to_Hold_Your_Hand_(The_Beatles_song) http://dbpedia.org/resource/I_Wanna_Hold_Your_Hand http://dbpedia.org/resource/I_wanna_hold_your_hand http://dbpedia.org/resource/Iwthyh http://dbpedia.org/resource/I_want_to_hold_your_hand http://dbpedia.org/resource/I_Want_to_Hold_Your_Hand http://dbpedia.org/resource/I_Want_To_Hold_Your_Hand"
+4,29,America,http://dbpedia.org/resource/America_(America_album),http://dbpedia.org/resource/America_(Prince) http://dbpedia.org/resource/America_(Prince_song)
+4,40,Sweet Little Sixteen,http://dbpedia.org/resource/Sweet_Sixteen_(song),http://dbpedia.org/resource/Sweet_Little_Sixteen http://dbpedia.org/resource/Sweet_Little_Sixteen_(The_Beatles_song)
+4,42,Charade,http://dbpedia.org/resource/Charade_(Alice_album),http://dbpedia.org/resource/Charade_(Bee_Gees_song)
+4,49,I'll Be There,http://dbpedia.org/resource/I'll_Be_There_(The_Jackson_5_song),http://dbpedia.org/resource/I'll_Be_There_(If_You_Ever_Want_Me)
+4,51,Tell Me,http://dbpedia.org/resource/Tell_Me_(Diddy_song),http://dbpedia.org/resource/Tell_Me_(You're_Coming_Back) http://dbpedia.org/resource/Tell_Me_(The_Rolling_Stones_song)
+4,52,Atrocity Exhibition,http://dbpedia.org/resource/Atrocity_Exhibition_(album),http://dbpedia.org/resource/Atrocity_Exhibition_(song) http://dbpedia.org/resource/Atrocity_Exhibition_(Joy_Division_song)
+4,57,Right or Wrong,http://dbpedia.org/resource/Right_or_Wrong_(1921_song),http://dbpedia.org/resource/Right_or_Wrong_(Wanda_Jackson_song)
+4,67,(Loneliness Made Me Realize) It's You That I Need,http://dbpedia.org/resource/It's_You_That_I_Need,http://dbpedia.org/resource/(Loneliness_Made_Me_Realize)_It's_You_That_I_Need
+4,68,She Loves You,http://dbpedia.org/resource/She_Loves_You_(The_Twilight_Singers_album),http://dbpedia.org/resource/She_loves_you http://dbpedia.org/resource/She_Loves_You_(The_Beatles_song) http://dbpedia.org/resource/She_Loves_You
+4,72,Love Me Do,http://dbpedia.org/resource/Love_Me_(Justin_Bieber_song),http://dbpedia.org/resource/Love_Me_Do_(The_Beatles_song) http://dbpedia.org/resource/Love_Me_Do http://dbpedia.org/resource/Love_me_do
+4,75,Liza Jane,http://dbpedia.org/resource/Liza_Jane_(Vince_Gill_song),http://dbpedia.org/resource/Liza_Jane_(David_Bowie_song)
+4,76,People Say,"http://dbpedia.org/resource/Whatever_People_Say_I_Am,_That's_What_I'm_Not",http://dbpedia.org/resource/People_Say_(song)
+4,77,(You Can't Let the Boy Overpower) The Man in You,http://dbpedia.org/resource/The_Woman_in_Me_(Needs_the_Man_in_You),http://dbpedia.org/resource/(You_Can't_Let_the_Boy_Overpower)_The_Man_in_You
+4,78,How Do You Do It?,http://dbpedia.org/resource/How_Do_You_Do!,http://dbpedia.org/resource/How_Do_You_Do_It?_(The_Beatles_song) http://dbpedia.org/resource/How_Do_You_Do_It http://dbpedia.org/resource/How_Do_You_Do_It?
+4,87,A Hard Day's Night,http://dbpedia.org/resource/A_Hard_Day's_Night_(album),http://dbpedia.org/resource/All_Day_Night_(A_Hard_Days_Night) http://dbpedia.org/resource/A_Hard_Day's_Night_(song) http://dbpedia.org/resource/Hard_Day's_Night_(song)
+4,92,Get It Together,http://dbpedia.org/resource/Get_It_Together_(The_Jackson_5_song),http://dbpedia.org/resource/Get_It_Together_(James_Brown_song)
+4,95,I Saw the Light,http://dbpedia.org/resource/I_Saw_the_Light_(Wynonna_Judd_song),http://dbpedia.org/resource/I_Saw_the_Light_(Hank_Williams_song)
+4,96,All You Need Is Love,http://dbpedia.org/resource/All_You_Need_Is_Love_(Die_Apokalyptischen_Reiter_album),http://dbpedia.org/resource/All_you_need_is_love http://dbpedia.org/resource/All_You_need_Is_Love http://dbpedia.org/resource/All_You_Need_Is_Love http://dbpedia.org/resource/All_You_Need_Is_Love_(The_Beatles_song) http://dbpedia.org/resource/All_You_Need_is_Love
+4,97,I Don't Care,http://dbpedia.org/resource/I_Don't_Care_(Ricky_Martin_song),http://dbpedia.org/resource/I_Don't_Care_(Just_as_Long_as_You_Love_Me)
+4,99,The Kids Are Alright,http://dbpedia.org/resource/The_Kids_Aren't_Alright,http://dbpedia.org/resource/The_Kids_Are_Alright_(song) http://dbpedia.org/resource/Kids_are_alright_(song)
+4,105,And I Love Her,http://dbpedia.org/resource/I_Love_Her,http://dbpedia.org/resource/And_I_Love_Her_(The_Beatles_song) http://dbpedia.org/resource/And_I_Love_Him http://dbpedia.org/resource/And_I_Love_Her
+4,108,Ticket to Ride,http://dbpedia.org/resource/Ticket_to_Ride_(album),http://dbpedia.org/resource/Ticket_to_Rye http://dbpedia.org/resource/Ticket_to_Ride_(The_Beatles_song) http://dbpedia.org/resource/Ticket_to_Ride_(song) http://dbpedia.org/resource/Ticket_to_ride http://dbpedia.org/resource/Ticket_to_Ride http://dbpedia.org/resource/Ticket_To_Ride http://dbpedia.org/resource/Ticket_to_Ryde
+4,110,Bad to Me,http://dbpedia.org/resource/Bad_as_Me_(song),http://dbpedia.org/resource/Bad_to_Me http://dbpedia.org/resource/Bad_to_me http://dbpedia.org/resource/Bad_To_Me http://dbpedia.org/resource/Bad_to_Me_(The_Beatles_song)
+4,112,From Me to You,http://dbpedia.org/resource/From_Me_to_You_(Yui_album),http://dbpedia.org/resource/From_me_to_you http://dbpedia.org/resource/From_Me_to_You_(The_Beatles_song) http://dbpedia.org/resource/From_Us_To_You http://dbpedia.org/resource/FROM_ME_TO_YOU http://dbpedia.org/resource/From_Me_to_You_(The_Beatles) http://dbpedia.org/resource/From_Me_to_You http://dbpedia.org/resource/From_Me_To_You
+4,113,And I Love Her,http://dbpedia.org/resource/I_Love_Her,http://dbpedia.org/resource/And_I_Love_Her_(The_Beatles_song) http://dbpedia.org/resource/And_I_Love_Him http://dbpedia.org/resource/And_I_Love_Her

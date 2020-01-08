@@ -1,0 +1,22 @@
+F1: 0.86395,Precision: 0.86395,Recall: 0.86395,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,3,The One Tree,http://dbpedia.org/resource/One_Tree_Hill_(TV_series),http://dbpedia.org/resource/The_One_Tree
+3,7,The Woman in Black: Angel of Death,http://dbpedia.org/resource/The_Woman_in_Black:_Angel_of_Death,http://dbpedia.org/resource/The_Woman_in_Black:_Angel_of_Death_(book)
+3,13,The Commodore,http://dbpedia.org/resource/The_Commodore,http://dbpedia.org/resource/The_Commodore_(novel) http://dbpedia.org/resource/The_Commodore_(book)
+3,15,The Silver Gryphon,http://dbpedia.org/resource/Gryphon_(film),"http://dbpedia.org/resource/Mercedes_Lackey http://dbpedia.org/resource/Misty_lackey http://dbpedia.org/resource/Mercedes_""Misty""_Lackey http://dbpedia.org/resource/Mage_Winds http://dbpedia.org/resource/Mercedes_R._Lackey http://dbpedia.org/resource/Kerowyn http://dbpedia.org/resource/Tales_of_the_Five_Hundred_Kingdoms http://dbpedia.org/resource/Trio_of_Sorcery http://dbpedia.org/resource/Mage_winds http://dbpedia.org/resource/Herald-Mages http://dbpedia.org/resource/The_Silver_Gryphon"
+3,19,The Arrival,http://dbpedia.org/resource/Arrival_(Journey_album),http://dbpedia.org/resource/The_Arrival_(novel) http://dbpedia.org/resource/The_Arrival_(Animorphs)
+3,21,The Underground,http://dbpedia.org/resource/The_Velvet_Underground_&_Nico,http://dbpedia.org/resource/The_Underground_(Applegate_novel) http://dbpedia.org/resource/The_Underground_(novel) http://dbpedia.org/resource/The_Underground_(Animorphs)
+3,26,The Encounter,http://dbpedia.org/resource/The_Encounter_(Twilight_Zone),http://dbpedia.org/resource/The_Encounter_(novel) http://dbpedia.org/resource/The_Encounter_(Animorphs)
+3,30,The Escape,http://dbpedia.org/resource/The_Sweet_Escape,http://dbpedia.org/resource/The_Escape_(Applegate_novel) http://dbpedia.org/resource/The_Escape_(Animorphs)
+3,32,The Revelation,http://dbpedia.org/resource/Revelation_(Star_Wars_novel),http://dbpedia.org/resource/The_Revelation_(Animorphs) http://dbpedia.org/resource/The_Revelation_(novel)
+3,33,The Decision,http://dbpedia.org/resource/Tonight's_Decision,http://dbpedia.org/resource/The_Decision_(Animorphs) http://dbpedia.org/resource/The_Decision_(novel)
+3,36,The Absolute,http://dbpedia.org/resource/The_Absolute_Sound,http://dbpedia.org/resource/Animorphs_51 http://dbpedia.org/resource/The_Absolute_(Animorphs) http://dbpedia.org/resource/The_Absolute_(novel)
+3,47,Cat and Mouse,http://dbpedia.org/resource/Cat_and_Mouse_(novel),http://dbpedia.org/resource/Cat_and_Mouse_(Gunter_Grass_book) http://dbpedia.org/resource/Cat_and_Mouse_(Günter_Grass_book) http://dbpedia.org/resource/Katz_und_Maus http://dbpedia.org/resource/Cat_and_Mouse_(novella) http://dbpedia.org/resource/Cat_and_Mouse_(Guenter_Grass_book)
+3,52,The Solution,http://dbpedia.org/resource/The_Solution_(band),http://dbpedia.org/resource/The_Solution_(novel) http://dbpedia.org/resource/The_Solution_(Animorphs)
+3,54,The Unexpected,http://dbpedia.org/resource/Unexpected_(Star_Trek:_Enterprise),http://dbpedia.org/resource/The_Unexpected_(novel) http://dbpedia.org/resource/The_Unexpected_(Animorphs)
+3,64,The Hive,http://dbpedia.org/resource/The_Hive_(novella),http://dbpedia.org/resource/The_Hive_(disambiguation) http://dbpedia.org/resource/The_hive http://dbpedia.org/resource/The_Hive
+3,66,The Extreme,http://dbpedia.org/resource/PC_Extreme,http://dbpedia.org/resource/The_Extreme_(novel) http://dbpedia.org/resource/The_Extreme_(Animorphs)
+3,99,The Ravagers,http://dbpedia.org/resource/The_Ravagers_(novel),http://dbpedia.org/resource/The_Ravagers
+3,134,Brothers in Arms,http://dbpedia.org/resource/Brothers_in_Arms_(Bujold_novel),http://dbpedia.org/resource/The_soulforge http://dbpedia.org/resource/The_Soulforge http://dbpedia.org/resource/Brothers_in_Arms_(Dragonlance_novel) http://dbpedia.org/resource/The_Raistlin_Chronicles
+3,139,The Proposal,http://dbpedia.org/resource/The_Proposal_(2009_film),http://dbpedia.org/resource/The_Proposal_(novel) http://dbpedia.org/resource/The_Proposal_(Animorphs)
+3,147,Great Northern?,http://dbpedia.org/resource/Great_Northern_(indie_band),http://dbpedia.org/resource/Great_Northern?

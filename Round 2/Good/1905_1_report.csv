@@ -1,0 +1,12 @@
+F1: 0.90476,Precision: 0.90476,Recall: 0.90476,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,2,Correction,,http://dbpedia.org/resource/Correction_(novel) http://dbpedia.org/resource/Correction_(book)
+1,10,Phantom,http://dbpedia.org/resource/The_Phantom_of_the_Opera,http://dbpedia.org/resource/Phantom_(Nesbø_novel)
+1,21,The Americans,http://dbpedia.org/resource/The_Americans,http://dbpedia.org/resource/The_Americans_(novel)
+1,25,Vox,http://dbpedia.org/resource/Vox_(Stewart_and_Riddell_novel),http://dbpedia.org/resource/Vox_(novel) http://dbpedia.org/resource/Vox_(The_Edge_Chronicles)
+1,32,The Last of the Jedi: Master of Deception,http://dbpedia.org/resource/The_Last_of_the_Jedi:_Secret_Weapon,http://dbpedia.org/resource/The_Last_of_the_Jedi:_Reckoning http://dbpedia.org/resource/Star_Wars:_The_Last_of_the_Jedi http://dbpedia.org/resource/The_Last_of_The_Jedi http://dbpedia.org/resource/The_Last_of_the_Jedi:_Master_of_Deception http://dbpedia.org/resource/The_Last_of_the_Jedi
+1,58,Rules of Engagement,http://dbpedia.org/resource/Rules_of_Engagement_(Elizabeth_Moon_novel),http://dbpedia.org/resource/Rules_of_Engagement_(Star_Trek) http://dbpedia.org/resource/Rules_of_Engagement_(Star_Trek_novel)
+1,75,Burnt Offerings,http://dbpedia.org/resource/Burnt_Offerings_(Hamilton_novel),http://dbpedia.org/resource/Burnt_Offerings_(novel)
+1,78,The English Assassin,http://dbpedia.org/resource/The_English_Assassin:_A_Romance_of_Entropy,http://dbpedia.org/resource/The_English_Assassin_(Daniel_Silva_novel) http://dbpedia.org/resource/The_English_Assassin_(Silva_novel)
+1,93,The Test,http://dbpedia.org/resource/Tested,http://dbpedia.org/resource/The_Test_(Applegate_novel) http://dbpedia.org/resource/The_Test_(Animorphs)
+1,101,The Hunters,http://dbpedia.org/resource/The_Witch_Hunters_(novel),http://dbpedia.org/resource/The_Hunters_(Brotherband)

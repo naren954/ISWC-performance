@@ -1,0 +1,11 @@
+F1: 0.79070,Precision: 0.79070,Recall: 0.79070,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,5,A. Voynova,http://dbpedia.org/resource/Vanya_Voynova,http://dbpedia.org/resource/Anastasiya_Voynova http://dbpedia.org/resource/Anastasia_Voinova http://dbpedia.org/resource/Anastasya_Voynova http://dbpedia.org/resource/Anastasia_Voynova http://dbpedia.org/resource/Anastasiia_Voinova http://dbpedia.org/resource/Anastasiia_Voynova
+0,6,A. Roberts,http://dbpedia.org/resource/Andre_Roberts_(American_football),http://dbpedia.org/resource/Amy_Roberts
+0,11,A. Pierce,http://dbpedia.org/resource/Antonio_Pierce,http://dbpedia.org/resource/Amber_Rais http://dbpedia.org/resource/Amber_Pierce
+0,14,A. Miller,http://dbpedia.org/resource/Andre_Miller,http://dbpedia.org/resource/Amanda_Miller_(cyclist)
+0,21,A. Rybakov,http://dbpedia.org/resource/Alexander_Rybakov_(ice_hockey),http://dbpedia.org/resource/Alexander_Rybakov_(cyclist) http://dbpedia.org/resource/Aleksander_Rybakov
+0,26,A. Rhodes,http://dbpedia.org/resource/Arthur_Rhodes,http://dbpedia.org/resource/Alexis_Rhodes_(cyclist) http://dbpedia.org/resource/Alex_Rhodes_(cyclist)
+0,32,A. Komin,http://dbpedia.org/resource/Pavel_Komin,http://dbpedia.org/resource/Aleksandr_Komin
+0,35,A. Banaszek,http://dbpedia.org/resource/Adrian_Banaszek,http://dbpedia.org/resource/Alan_Banaszek
+0,39,A. Kazemi,http://dbpedia.org/resource/Afshin_Kazemi,http://dbpedia.org/resource/Ahad_Kazemi http://dbpedia.org/resource/Ahad_Kazemi_Sarai

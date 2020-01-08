@@ -1,0 +1,16 @@
+F1: 0.78462,Precision: 0.78462,Recall: 0.78462,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,8,Universe,http://dbpedia.org/resource/Best:_Third_Universe,http://dbpedia.org/resource/Universe_(Slade_song)
+0,13,Universal,http://dbpedia.org/resource/The_Universal,http://dbpedia.org/resource/Universal_(OMD_song)
+0,16,United,http://de.dbpedia.org/resource/United_(Album),http://dbpedia.org/resource/United_(Robbie_Williams_song)
+0,17,United,http://de.dbpedia.org/resource/United_(Album),http://dbpedia.org/resource/United_(Judas_Priest_song)
+0,23,Unicorn,http://dbpedia.org/resource/Unicorn_(Tyrannosaurus_Rex_album),http://dbpedia.org/resource/Unicorn_(Basement_Jaxx_song)
+0,24,Unico,http://dbpedia.org/resource/Único_(album),http://dbpedia.org/resource/Unico_(song)
+0,26,Unforgiven,http://dbpedia.org/resource/The_Unforgiven_(song),http://dbpedia.org/resource/Unforgiven_(Tracy_Lawrence_(song) http://dbpedia.org/resource/Unforgiven_(Tracy_Lawrence_song)
+0,27,Unforgiven,http://dbpedia.org/resource/The_Unforgiven_(song),http://dbpedia.org/resource/Unforgiven_(The_Go-Go's_song) http://dbpedia.org/resource/Unforgiven_(Go-Go's_song)
+0,36,Underwater,http://dbpedia.org/resource/Underwater_(Mika_song),http://dbpedia.org/resource/Underwater_(Delerium_song) http://dbpedia.org/resource/Underwater_(Delerium)
+0,37,Underneath,http://dbpedia.org/resource/Underneath_(Tarja_song),http://dbpedia.org/resource/Underneath_(Alanis_Morissette_song)
+0,39,Underground,http://dbpedia.org/resource/Underground_(David_Bowie_song),http://dbpedia.org/resource/Underground_(Ben_Folds_Five_song)
+0,56,Under My Skin,http://dbpedia.org/resource/Under_My_Skin_(Deborah_Conway_song),http://dbpedia.org/resource/Under_My_Skin_(Sarah_Connor_song)
+0,62,Under,http://dbpedia.org/resource/Going_Under,http://dbpedia.org/resource/Under_(Pleasure_P_song)
+0,64,Unconditional Love,http://dbpedia.org/resource/Unconditional_Love_(Donna_Summer_song),http://dbpedia.org/resource/Unconditional_Love_(Tupac_Shakur_song) http://dbpedia.org/resource/Unconditional_Love) http://dbpedia.org/resource/Unconditional_Love_(2Pac_song) http://dbpedia.org/resource/Unconditional_Love_(2pac_song)

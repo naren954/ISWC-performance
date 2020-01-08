@@ -1,0 +1,7 @@
+"F1: 0.96350","Precision: 0.96350","Recall: 0.96350"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"3","1","Allen Reynolds","http://dbpedia.org/resource/Allen_McReynolds","http://dbpedia.org/resource/Allen_Reynolds"
+"3","78","David Briggs","http://dbpedia.org/resource/David_Briggs_(English_musician)","http://dbpedia.org/resource/David_Briggs--Producer http://dbpedia.org/resource/David_Briggs_(record_producer) http://dbpedia.org/resource/David_Briggs_(producer)"
+"3","81","The Glimmer Twins","http://dbpedia.org/resource/Keith_Richards","http://dbpedia.org/resource/Glimmer_Twins http://dbpedia.org/resource/The_Glimmer_Twins http://dbpedia.org/resource/Richards/Jagger http://dbpedia.org/resource/Mick_Jagger/Keith_Richards http://dbpedia.org/resource/Jagger/Richards"
+"3","98","Bruce Botnick","http://dbpedia.org/resource/Bruce_Trigger","http://dbpedia.org/resource/Bruce_Botnick"
+"3","99","Perpis-Fall Music, Inc.","http://dbpedia.org/resource/Category:Albums_produced_by_Perpis-Fall_Music,_Inc.","http://dbpedia.org/resource/Perpis-Fall_Music,_Inc. http://dbpedia.org/resource/Perpis-Fall_Music"

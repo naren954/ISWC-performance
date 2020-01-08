@@ -1,0 +1,4 @@
+F1: 0.98182,Precision: 0.98182,Recall: 0.98182,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,10,Lebensmittel-Wissenschaft & Technologie,http://dbpedia.org/resource/LWT_(journal),http://dbpedia.org/resource/Katrin_Hecht http://dbpedia.org/resource/Lebensmittel-Wissenschaft_&_Technologie http://dbpedia.org/resource/LWT_-_Food_Science_and_Technology http://dbpedia.org/resource/LWT-_Food_Science_and_Technology
+0,75,Journal of the American Heart Association: Cardiovascular and Cerebrovascular Disease,http://dbpedia.org/resource/Journal_of_the_American_Heart_Association,http://dbpedia.org/resource/Journal_of_the_American_Heart_Association:_Cardiovascular_and_Cerebrovascular_Disease

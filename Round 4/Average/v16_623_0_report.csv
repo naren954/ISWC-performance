@@ -1,0 +1,49 @@
+F1: 0.74457,Precision: 0.74457,Recall: 0.74457,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,S. McGrew,http://dbpedia.org/resource/Larry_McGrew,http://dbpedia.org/resource/Slim_McGrew
+0,4,S. Jones,http://dbpedia.org/resource/Sam_Jones_(baseball),http://dbpedia.org/resource/Slim_Jones
+0,8,S. Embry,http://dbpedia.org/resource/Wayne_Embry,http://dbpedia.org/resource/Slim_Embrey http://dbpedia.org/resource/Slim_Embry
+0,12,S. Allen,http://dbpedia.org/resource/Scott_Allen_(ice_hockey),http://dbpedia.org/resource/Sled_Allen
+0,13,S. Jordan,http://dbpedia.org/resource/Stephen_Jordan_(footballer),http://dbpedia.org/resource/Slats_Jordan
+0,14,S. Smith,http://dbpedia.org/resource/Stanford_Smith,http://dbpedia.org/resource/Skyrocket_Smith
+0,19,S. Graham,http://dbpedia.org/resource/Kyle_Graham,http://dbpedia.org/resource/Skinny_Graham_(outfielder) http://dbpedia.org/resource/Arthur_William_Graham http://dbpedia.org/resource/Arthur_Skinny_Graham
+0,22,S. Webb,http://dbpedia.org/resource/Sid_Webb,http://dbpedia.org/resource/Skeeter_Webb
+0,30,S. King,http://dbpedia.org/resource/Syd_King,http://dbpedia.org/resource/Silver_King(baseball) http://dbpedia.org/resource/Silver_King_(baseball) http://dbpedia.org/resource/Charles_Frederick_Koenig http://dbpedia.org/resource/Silver_King_(baseball_player) http://dbpedia.org/resource/Charles_Koenig
+0,32,S. Simmons,http://dbpedia.org/resource/Sam_Simmons_(American_football),http://dbpedia.org/resource/Silas_Simmons http://dbpedia.org/resource/Si_Simmons http://dbpedia.org/resource/Silas_Joseph_Simmons
+0,36,S. Kohlsachs,http://de.dbpedia.org/resource/S._Sanjeeth,http://dbpedia.org/resource/Sidney_Kohlsachs
+0,54,S. Hamazaki,http://dbpedia.org/resource/Masahiro_Hamazaki,http://dbpedia.org/resource/Shinji_Hamazaki
+0,58,S. Brewer,http://dbpedia.org/resource/Brooke_Brewer,http://dbpedia.org/resource/Sherwood_Brewer
+0,59,S. Smith,http://dbpedia.org/resource/Stanford_Smith,"http://dbpedia.org/resource/Sherry_Smith http://dbpedia.org/resource/Sherrod_""Sherry""_Smith"
+0,62,S. Jones,http://dbpedia.org/resource/Sam_Jones_(baseball),http://dbpedia.org/resource/Sherman_J._Jones http://dbpedia.org/resource/Sherman_Jones http://dbpedia.org/resource/Sherman_Jarvis_Jones
+0,64,S. Barton,http://dbpedia.org/resource/Ken_Barton,http://dbpedia.org/resource/Sherman_Barton
+0,67,S. Wightman,http://dbpedia.org/resource/Jock_Wightman,http://dbpedia.org/resource/Sherburn_Wightman
+0,68,S. Jones,http://dbpedia.org/resource/Sam_Jones_(baseball),http://dbpedia.org/resource/Sheldon_Jones
+0,71,S. Collins,http://dbpedia.org/resource/Sammy_Collins,http://dbpedia.org/resource/Shano_Collins
+0,73,S. Thompson,http://dbpedia.org/resource/Shelley_Thompson_(footballer),http://dbpedia.org/resource/Shag_Thompson
+0,78,S. Hall,http://dbpedia.org/resource/Steven_Hall_(rugby_union),http://dbpedia.org/resource/Sell_Hall
+0,79,S. Lee,http://dbpedia.org/resource/Stuart_Lee,http://dbpedia.org/resource/Scrip_Lee http://dbpedia.org/resource/Script_Lee
+0,80,S. Moore,http://dbpedia.org/resource/Sheena_Moore,http://dbpedia.org/resource/Scrappy_Moore_(baseball) http://dbpedia.org/resource/Scrappy_Moore_(baseball_player)
+0,83,S. Barr,http://dbpedia.org/resource/Steve_Barr,http://dbpedia.org/resource/Scotty_Barr
+0,88,S. Hawley,http://dbpedia.org/resource/Chuck_Hawley,http://dbpedia.org/resource/Scott_Hawley
+0,89,S. Hastings,http://dbpedia.org/resource/Scott_Hastings_(basketball),http://dbpedia.org/resource/Scott_Hastings_(baseball) http://dbpedia.org/resource/Winfield_Scott_Hastings
+0,96,S. Davis,http://dbpedia.org/resource/Sean_Davis_(soccer),http://dbpedia.org/resource/Saul_Davis
+0,107,S. White,http://dbpedia.org/resource/Byron_White,http://dbpedia.org/resource/Sammy_White_(baseball_player) http://dbpedia.org/resource/Samuel_Charles_White http://dbpedia.org/resource/Sammy_White_(baseball) http://dbpedia.org/resource/Sammy_Charles_White
+0,115,S. Curran,http://dbpedia.org/resource/Shane_Curran,http://dbpedia.org/resource/Sammy_Curran_(baseball)
+0,118,S. Wright,http://dbpedia.org/resource/Scott_Wright_(footballer),http://dbpedia.org/resource/Sam_Wright
+0,121,S. White,http://dbpedia.org/resource/Byron_White,http://dbpedia.org/resource/Sam_White_(baseball)
+0,125,S. Thompson,http://dbpedia.org/resource/Shelley_Thompson_(footballer),http://dbpedia.org/resource/Sam_Thompson
+0,131,S. Page,http://dbpedia.org/resource/Solomon_Page,http://dbpedia.org/resource/Sam_Page_(baseball)
+0,136,S. Mongin,http://fr.dbpedia.org/resource/Sébastien_Mongin,http://dbpedia.org/resource/Sam_Mongin
+0,141,S. Lowry,http://dbpedia.org/resource/Shane_Lowry_(footballer),http://dbpedia.org/resource/Sam_Lowry
+0,146,S. King,http://dbpedia.org/resource/Syd_King,http://dbpedia.org/resource/Sam_King_(baseball)
+0,150,S. Jackson,http://fr.dbpedia.org/resource/Skeeter_Jackson,http://dbpedia.org/resource/Sam_Jackson_(baseball)
+0,151,S. Hope,http://dbpedia.org/resource/Shannon_Hope,http://dbpedia.org/resource/Sam_Hope
+0,154,S. Gray,http://dbpedia.org/resource/Stevie_Gray,http://dbpedia.org/resource/Sam_Gray_(baseball) http://dbpedia.org/resource/Sam_Gray
+0,157,S. Gentile,http://dbpedia.org/resource/Stefano_Gentile,http://dbpedia.org/resource/Sam_Gentile
+0,161,S. Field,http://dbpedia.org/resource/Sam_Field_(footballer),http://dbpedia.org/resource/Sam_Field
+0,168,S. Crane,http://dbpedia.org/resource/Sam_Crane_(shortstop),http://dbpedia.org/resource/Sam_Crane_(19th_century_baseball_player) http://dbpedia.org/resource/Sam_Crane_(second_baseman)
+0,173,S. Brown,http://dbpedia.org/resource/Steve_Brown_(American_football),http://dbpedia.org/resource/Sam_Brown_(baseball)
+0,176,S. Bennett,http://dbpedia.org/resource/Shayne_Bennett,http://dbpedia.org/resource/Sam_Bennett_(baseball)
+0,177,S. Barnes,http://dbpedia.org/resource/Skeeter_Barnes,http://dbpedia.org/resource/Sam_Barnes
+0,179,S. Bankhead,http://dbpedia.org/resource/Dan_Bankhead,http://dbpedia.org/resource/Sam_Bankhead http://dbpedia.org/resource/Sammy_Bankhead
+0,181,S. Parker,http://dbpedia.org/resource/Sonny_Parker_(basketball),http://dbpedia.org/resource/Salty_Parker

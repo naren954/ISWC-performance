@@ -1,0 +1,8 @@
+F1: 0.50000,Precision: 0.50000,Recall: 0.50000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,4,WWNY-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WWNY http://dbpedia.org/resource/WWNY-DT http://dbpedia.org/resource/WWNY-TV
+1,6,WXYZ-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/Channel_7_of_Detroit http://dbpedia.org/resource/WXYZ-DT http://dbpedia.org/resource/Action_News_Detroit http://dbpedia.org/resource/ABC_Detroit http://dbpedia.org/resource/WXYZ-TV_Channel_7 http://dbpedia.org/resource/Scripps_Television_Detroit http://dbpedia.org/resource/WXYZ-TV
+1,7,WOHZ-CD,http://dbpedia.org/resource/.cd,http://dbpedia.org/resource/WOHZ-CA http://dbpedia.org/resource/WOHZ http://dbpedia.org/resource/WOHZ-CD
+1,10,WATN-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/ABC_Memphis http://dbpedia.org/resource/WPTY-TV http://dbpedia.org/resource/WATN-TV http://dbpedia.org/resource/WPTY-DT
+1,11,WLNS-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WLNS-TV http://dbpedia.org/resource/WLNS http://dbpedia.org/resource/W67AJ http://dbpedia.org/resource/WJIM-TV
+1,12,WSTR-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/W22DE http://dbpedia.org/resource/WB64 http://dbpedia.org/resource/W66AQ http://dbpedia.org/resource/WSTR-DT http://dbpedia.org/resource/Star_64 http://dbpedia.org/resource/WSTR-TV

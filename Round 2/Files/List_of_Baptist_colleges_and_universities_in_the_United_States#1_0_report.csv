@@ -1,0 +1,4 @@
+"F1: 0.60000","Precision: 0.60000","Recall: 0.60000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","1","Bethel College","http://dbpedia.org/resource/Bethel_College_(Kansas)","http://dbpedia.org/resource/Bethel_College_(Kentucky)"
+"0","3","New-York Central College, McGrawville","http://dbpedia.org/resource/Brooklyn","http://dbpedia.org/resource/McGrawville_College http://dbpedia.org/resource/New_York_Center_College http://dbpedia.org/resource/New-York_Central_College http://dbpedia.org/resource/New-York_Central_College,_McGrawville http://dbpedia.org/resource/New_York_Central_College http://dbpedia.org/resource/New_York_Central_College,_McGrawville"

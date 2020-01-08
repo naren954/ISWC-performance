@@ -1,0 +1,4 @@
+F1: 0.92308,Precision: 0.92308,Recall: 0.92308,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,7,Nearctic,http://dbpedia.org/resource/Nearctic_(horse),http://dbpedia.org/resource/Nearctic_ecozone http://dbpedia.org/resource/Nearctic_Realm http://dbpedia.org/resource/Western_North_America_Bioregion http://dbpedia.org/resource/Eastern_North_America_Bioregion http://dbpedia.org/resource/Northern_Mexico_Bioregion http://dbpedia.org/resource/Nearctic http://dbpedia.org/resource/Nearctic_realm http://dbpedia.org/resource/Canadian_Shield_Bioregion
+1,20,Boston,http://dbpedia.org/resource/Thomas_Boston,http://dbpedia.org/resource/Boston_(horse)

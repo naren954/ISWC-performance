@@ -1,0 +1,8 @@
+F1: 0.92105,Precision: 0.92105,Recall: 0.92105,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,11,Macrozamia dyeri,http://dbpedia.org/resource/Macrozamia_riedlei,http://dbpedia.org/resource/Macrozamia_dyeri
+0,15,Macrozamia cranei,http://dbpedia.org/resource/Macrozamia_riedlei,http://dbpedia.org/resource/Macrozamia_cranei
+0,41,Encephalartos laevifolius,http://dbpedia.org/resource/Encephalartos_longifolius,http://dbpedia.org/resource/Encephalartos_laevifolius
+0,46,Encephalartos hirsutus,http://dbpedia.org/resource/Encephalartos_gratus,http://dbpedia.org/resource/Encephalartos_hirsutus
+0,51,Encephalartos eugene-maraisii,http://dbpedia.org/resource/Encephalartos_middelburgensis,http://dbpedia.org/resource/Encephalartos_eugene-maraisii
+0,58,Encephalartos brevifoliolatus,http://dbpedia.org/resource/Encephalartos_longifolius,http://dbpedia.org/resource/Escarpment_cycad http://dbpedia.org/resource/Encephalartos_brevifoliolatus http://dbpedia.org/resource/Escarpment_Cycad

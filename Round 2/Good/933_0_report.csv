@@ -1,0 +1,13 @@
+F1: 0.90351,Precision: 0.90351,Recall: 0.90351,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,8,M. Granlund,http://dbpedia.org/resource/Mikael_Granlund,http://dbpedia.org/resource/Markus_Granlund
+0,37,K. Simpson,"http://dbpedia.org/resource/Kent_Simpson_(ice_hockey,_born_1975)","http://dbpedia.org/resource/Kent_Simpson_(ice_hockey,_born_1992)"
+0,50,J. Nättinen,http://dbpedia.org/resource/Joonas_Nättinen,http://dbpedia.org/resource/Julius_Nattinen http://dbpedia.org/resource/Julius_Nättinen
+0,61,J. Gunnarsson,http://dbpedia.org/resource/Aron_Gunnarsson,http://dbpedia.org/resource/Jonas_Gunnarsson
+0,70,J. O'Brien,"http://dbpedia.org/resource/Jim_O'Brien_(basketball,_born_1950)",http://dbpedia.org/resource/Jim_O'Brien_(ice_hockey) http://dbpedia.org/resource/James_O'Brien_(ice_hockey)
+0,71,J. Pettersson,http://dbpedia.org/resource/Jörgen_Pettersson_(ice_hockey),http://dbpedia.org/resource/Jesper_Pettersson
+0,78,J. Harrison,http://dbpedia.org/resource/Jim_Harrison_(ice_hockey),http://dbpedia.org/resource/Jay_Harrison
+0,90,J. Campbell,http://dbpedia.org/resource/Jonathan_Campbell_(soccer),http://dbpedia.org/resource/Jack_Campbell_(ice_hockey)
+0,104,G. Carey,http://dbpedia.org/resource/George_Carey_(ice_hockey),http://dbpedia.org/resource/Greg_Carey_(ice_hockey)
+0,105,G. Wilson,"http://dbpedia.org/resource/George_Wilson_(basketball,_born_1942)",http://dbpedia.org/resource/Garrett_Wilson
+0,109,F. Beaubien,http://fr.dbpedia.org/resource/Frédérik_Beaubien,http://dbpedia.org/resource/Frederik_Beaubien http://dbpedia.org/resource/Frederik_Beaubein

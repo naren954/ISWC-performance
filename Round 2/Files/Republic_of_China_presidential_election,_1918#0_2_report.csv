@@ -1,0 +1,4 @@
+"F1: 0.60000","Precision: 0.60000","Recall: 0.60000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"2","3","Wang Shizhen","http://dbpedia.org/resource/Wang_Shizhen_(physician)","http://dbpedia.org/resource/Wang_Shizhen"
+"2","4","Zhang Jian","http://dbpedia.org/resource/Zhang_Jian_(sport_shooter)","http://dbpedia.org/resource/Zhang_Jian_(entrepreneur) http://dbpedia.org/resource/ZhangJian（entrepreneur） http://dbpedia.org/resource/Zhang_Jian_(politician)"

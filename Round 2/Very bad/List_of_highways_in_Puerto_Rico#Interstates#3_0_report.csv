@@ -1,0 +1,37 @@
+F1: 0.14634,Precision: 0.14634,Recall: 0.14634,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Puerto Rico Highway 1,http://dbpedia.org/resource/Puerto_Rico_Highway_52,http://dbpedia.org/resource/Puerto_Rico_Highway_1 http://dbpedia.org/resource/Carretera_de_la_Muda http://dbpedia.org/resource/Highway_1_(Puerto_Rico)
+0,2,Puerto Rico Highway 2,http://dbpedia.org/resource/Puerto_Rico_Highway_22,http://dbpedia.org/resource/Roberto_Sánchez_Vilella_Expressway http://dbpedia.org/resource/Expreso_Roberto_Sánchez_Vilella http://dbpedia.org/resource/Puerto_Rico_Highway_2
+0,3,Puerto Rico Highway 2R,http://dbpedia.org/resource/Puerto_Rico_Highway_22,http://dbpedia.org/resource/Puerto_Rico_Highway_2R http://dbpedia.org/resource/PR-2R http://dbpedia.org/resource/Calle_Post_(Mayaguez) http://dbpedia.org/resource/Calle_Post_(Mayagüez)
+0,4,Puerto Rico Highway 2R,http://dbpedia.org/resource/Puerto_Rico_Highway_22,http://dbpedia.org/resource/Puerto_Rico_Highway_2R http://dbpedia.org/resource/PR-2R http://dbpedia.org/resource/Calle_Post_(Mayaguez) http://dbpedia.org/resource/Calle_Post_(Mayagüez)
+0,5,Puerto Rico Highway 2R,http://dbpedia.org/resource/Puerto_Rico_Highway_22,http://dbpedia.org/resource/Puerto_Rico_Highway_2R http://dbpedia.org/resource/PR-2R http://dbpedia.org/resource/Calle_Post_(Mayaguez) http://dbpedia.org/resource/Calle_Post_(Mayagüez)
+0,6,Puerto Rico Highway 3,http://dbpedia.org/resource/Puerto_Rico_Highway_22,http://dbpedia.org/resource/Avenida_65_de_Infanteria http://dbpedia.org/resource/Puerto_Rico_Highway_3 http://dbpedia.org/resource/PR-3
+0,8,Puerto Rico Highway 5,http://dbpedia.org/resource/Puerto_Rico_Highway_22,http://dbpedia.org/resource/Expreso_Rio_Hondo http://dbpedia.org/resource/Puerto_Rico_Highway_5 http://dbpedia.org/resource/PR-5 http://dbpedia.org/resource/Expreso_Río_Hondo
+0,10,Puerto Rico Highway 8,http://dbpedia.org/resource/Puerto_Rico_Highway_22,http://dbpedia.org/resource/Puerto_Rico_Highway_4 http://dbpedia.org/resource/Puerto_Rico_Highway_8
+0,11,Puerto Rico Highway 9,http://dbpedia.org/resource/Puerto_Rico_Highway_22,http://dbpedia.org/resource/PR-9 http://dbpedia.org/resource/Puerto_Rico_Highway_9
+0,13,Puerto Rico Highway 12,http://dbpedia.org/resource/Puerto_Rico_Highway_22,http://dbpedia.org/resource/PR-12 http://dbpedia.org/resource/Puerto_Rico_Highway_12
+0,14,Puerto Rico Highway 14,http://dbpedia.org/resource/Puerto_Rico_Highway_22,http://dbpedia.org/resource/Puerto_Rico_Highway_14 http://dbpedia.org/resource/PR-14
+0,16,Puerto Rico Highway 15,http://dbpedia.org/resource/Puerto_Rico_Highway_22,http://dbpedia.org/resource/Puerto_Rico_Highway_15 http://dbpedia.org/resource/PR-15
+0,18,Puerto Rico Highway 17,http://dbpedia.org/resource/Puerto_Rico_Highway_22,http://dbpedia.org/resource/Puerto_Rico_Highway_17 http://dbpedia.org/resource/PR-17
+0,19,Puerto Rico Highway 18,http://dbpedia.org/resource/Puerto_Rico_Highway_22,http://dbpedia.org/resource/Puerto_Rico_Highway_18 http://dbpedia.org/resource/Expreso_Las_Américas http://dbpedia.org/resource/PR-18
+0,20,Puerto Rico Highway 19,http://dbpedia.org/resource/Puerto_Rico_Highway_22,http://dbpedia.org/resource/Puerto_Rico_Highway_19
+0,21,Puerto Rico Highway 20,http://dbpedia.org/resource/Puerto_Rico_Highway_22,http://dbpedia.org/resource/Puerto_Rico_Highway_20 http://dbpedia.org/resource/Rafael_Martínez_Nadal_Expressway http://dbpedia.org/resource/PR-20 http://dbpedia.org/resource/Expreso_Martínez_Nadal
+0,22,Puerto Rico Highway 21,http://dbpedia.org/resource/Puerto_Rico_Highway_22,http://dbpedia.org/resource/Puerto_Rico_Highway_21 http://dbpedia.org/resource/PR-21
+0,24,Puerto Rico Highway 23,http://dbpedia.org/resource/Puerto_Rico_Highway_22,http://dbpedia.org/resource/Puerto_Rico_Highway_23
+0,26,Puerto Rico Highway 25,http://dbpedia.org/resource/Puerto_Rico_Highway_22,"http://dbpedia.org/resource/Puerto_Rico_Highway_25 http://dbpedia.org/resource/Ponce_de_Leon_Avenue_(San_Juan,_Puerto_Rico)"
+0,28,Puerto Rico Highway 26,http://dbpedia.org/resource/Puerto_Rico_Highway_22,http://dbpedia.org/resource/Puerto_Rico_Highway_66 http://dbpedia.org/resource/Expreso_Baldorioty_de_Castro http://dbpedia.org/resource/Puerto_Rico_Highway_26 http://dbpedia.org/resource/PR-66 http://dbpedia.org/resource/PR-26
+0,31,Puerto Rico Highway 29,http://dbpedia.org/resource/Puerto_Rico_Highway_22,http://dbpedia.org/resource/Puerto_Rico_Highway_29
+0,32,Puerto Rico Highway 30,http://dbpedia.org/resource/Puerto_Rico_Highway_22,http://dbpedia.org/resource/Expreso_Cruz_Ortiz_Stella http://dbpedia.org/resource/PR-30 http://dbpedia.org/resource/Puerto_Rico_Highway_30
+0,33,Puerto Rico Highway 31,http://dbpedia.org/resource/Puerto_Rico_Highway_22,http://dbpedia.org/resource/Puerto_Rico_Highway_31
+0,37,Puerto Rico Highway 35,http://dbpedia.org/resource/Puerto_Rico_Highway_22,http://dbpedia.org/resource/Puerto_Rico_Highway_35
+0,39,Puerto Rico Highway 37,http://dbpedia.org/resource/Puerto_Rico_Highway_22,http://dbpedia.org/resource/Puerto_Rico_Highway_37
+0,40,Puerto Rico Highway 38,http://dbpedia.org/resource/Puerto_Rico_Highway_22,http://dbpedia.org/resource/Puerto_Rico_Highway_38
+0,41,Puerto Rico Highway 39,http://dbpedia.org/resource/Puerto_Rico_Highway_22,http://dbpedia.org/resource/Puerto_Rico_Highway_39
+0,42,Puerto Rico Highway 40,http://dbpedia.org/resource/Puerto_Rico_Highway_22,http://dbpedia.org/resource/Puerto_Rico_Highway_40
+0,44,Puerto Rico Highway 42,http://dbpedia.org/resource/Puerto_Rico_Highway_22,http://dbpedia.org/resource/Puerto_Rico_Highway_42
+0,45,Puerto Rico Highway 47,http://dbpedia.org/resource/Puerto_Rico_Highway_22,http://dbpedia.org/resource/Puerto_Rico_Highway_47
+0,48,Puerto Rico Highway 54,http://dbpedia.org/resource/Puerto_Rico_Highway_22,http://dbpedia.org/resource/Puerto_Rico_Highway_54 http://dbpedia.org/resource/PR-54
+0,49,Puerto Rico Highway 60,http://dbpedia.org/resource/Puerto_Rico_Highway_66,http://dbpedia.org/resource/Puerto_Rico_Highway_60 http://dbpedia.org/resource/PR-60
+0,50,Puerto Rico Highway 63,http://dbpedia.org/resource/Puerto_Rico_Highway_66,http://dbpedia.org/resource/Puerto_Rico_Highway_63
+0,51,Puerto Rico Highway 64,http://dbpedia.org/resource/Puerto_Rico_Highway_66,http://dbpedia.org/resource/Puerto_Rico_Highway_64
+0,52,Puerto Rico Highway 65,http://dbpedia.org/resource/Puerto_Rico_Highway_66,http://dbpedia.org/resource/PR-65 http://dbpedia.org/resource/Puerto_Rico_Highway_65

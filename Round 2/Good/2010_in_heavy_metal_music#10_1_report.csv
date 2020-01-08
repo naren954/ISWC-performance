@@ -1,0 +1,4 @@
+F1: 0.94444,Precision: 0.94444,Recall: 0.94444,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,10,Therapy?,http://de.dbpedia.org/resource/Therapy_(Produzentenduo),http://dbpedia.org/resource/Therapy_(band) http://dbpedia.org/resource/Therapy?
+1,31,Phobia,http://de.dbpedia.org/resource/Phobia_(Band),http://dbpedia.org/resource/Phobia_(band)

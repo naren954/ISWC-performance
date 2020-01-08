@@ -1,0 +1,35 @@
+F1: 0.77852,Precision: 0.77852,Recall: 0.77852,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,4,T. E. Mayfield,http://dbpedia.org/resource/Curtis_Mayfield,http://dbpedia.org/resource/Thomas_Edd_Mayfield
+0,7,Theodore von Kármán bibliography,http://dbpedia.org/resource/Theodore_von_Kármán,http://dbpedia.org/resource/Theodore_von_Karman_bibliography http://dbpedia.org/resource/Theodore_von_Kármán_bibliography
+0,9,Theodore von Kármán bibliography,http://dbpedia.org/resource/Theodore_von_Kármán,http://dbpedia.org/resource/Theodore_von_Karman_bibliography http://dbpedia.org/resource/Theodore_von_Kármán_bibliography
+0,12,T. Weyl,http://dbpedia.org/resource/Hermann_Weyl,http://dbpedia.org/resource/Theodor_Weyl
+0,14,T. v. Gogh,http://dbpedia.org/resource/Vincent_van_Gogh,"http://dbpedia.org/resource/Theo_van_Gogh_Director http://dbpedia.org/resource/Death_of_Theo_Van_Gogh http://dbpedia.org/resource/Theo_Van_Gogh_(film_director) http://dbpedia.org/resource/Theo_van_Gogh_(Film_director) http://dbpedia.org/resource/Assassination_of_Theo_van_Gogh http://dbpedia.org/resource/Theodoor_van_Gogh_II http://dbpedia.org/resource/Theodoor_""Theo""_van_Gogh_II http://dbpedia.org/resource/Theo_van_Gogh_(film_director) http://dbpedia.org/resource/Assassination_of_Theo_Van_Gogh"
+0,19,T. Nomura,http://dbpedia.org/resource/Kichisaburō_Nomura,http://dbpedia.org/resource/Tatsuji_Nomura
+0,23,T. T. Chang,http://dbpedia.org/resource/Nancy_T._Chang,http://dbpedia.org/resource/T.T.Chang http://dbpedia.org/resource/T.T._Chang http://dbpedia.org/resource/T._T._Chang http://dbpedia.org/resource/Tun_Tschu_Chang http://dbpedia.org/resource/Te-Tzu_Chang
+0,27,S. Morley,http://dbpedia.org/resource/Robert_Morley,http://dbpedia.org/resource/Sylvanus_Griswold_Morley http://dbpedia.org/resource/Sylvanus_Morley http://dbpedia.org/resource/Sylvanus_G._Morley http://dbpedia.org/resource/Vay_Morley http://dbpedia.org/resource/Sylvanus_Grisworld_Morley
+0,28,S. Vincent,"http://dbpedia.org/resource/John_Jervis,_1st_Earl_of_St_Vincent",http://dbpedia.org/resource/Swale_Vincent
+0,31,S. Hill,http://dbpedia.org/resource/Graham_Hill,http://dbpedia.org/resource/Susan_Hill_(activist)
+0,35,S. Sutherland,http://dbpedia.org/resource/Ivan_Sutherland,http://dbpedia.org/resource/Struan_Sutherland http://dbpedia.org/resource/Struan_Keith_Sutherland
+0,38,S. Polyak,http://dbpedia.org/resource/Stanisław_Lem,http://dbpedia.org/resource/Stephen_Polyak
+0,43,S. Unwin,http://dbpedia.org/resource/Stanley_Unwin_(publisher),http://dbpedia.org/resource/Stan_Unwin http://dbpedia.org/resource/Unwinesque http://dbpedia.org/resource/Stanley_Unwin_(comedian) http://dbpedia.org/resource/Unwinese
+0,51,S. Marius,http://dbpedia.org/resource/Pyotr_Ilyich_Tchaikovsky,"http://dbpedia.org/resource/Mundus_Iovialis http://dbpedia.org/resource/Marius,_S. http://dbpedia.org/resource/Simon_Marius http://dbpedia.org/resource/Mundus_Jovialis"
+0,66,S. Ginsburg,http://dbpedia.org/resource/Charles_Ginsburg,http://dbpedia.org/resource/Seymour_Ginsburg
+0,71,S. Reformatsky,"http://ru.dbpedia.org/resource/Реформатский,_Александр_Александрович",http://dbpedia.org/resource/Sergei_Nikolaevich_Reformatskii http://dbpedia.org/resource/Sergey_Reformatsky
+0,81,S. d. Ferro,http://dbpedia.org/resource/Margaret_Thatcher,http://dbpedia.org/resource/Del_Ferro http://dbpedia.org/resource/Scipione_del_ferro http://dbpedia.org/resource/Scipione_del_Ferro http://dbpedia.org/resource/Scipione_dal_Ferro
+0,85,S. C. Prescott,http://dbpedia.org/resource/Edward_C._Prescott,http://dbpedia.org/resource/Samuel_C._Prescott http://dbpedia.org/resource/Samuel_Cate_Prescott
+0,94,R. Dunn,http://dbpedia.org/resource/Clive_Dunn,http://dbpedia.org/resource/Ryan_M._Dunn http://dbpedia.org/resource/Ryan_M_Dunn http://dbpedia.org/resource/Ryan_Dunn http://dbpedia.org/resource/Ryan_Matthew_Dunn http://dbpedia.org/resource/Zachary_Hartwell
+0,103,R. Berlin,http://dbpedia.org/resource/Isaiah_Berlin,http://dbpedia.org/resource/Rudolf_Berlin
+0,107,R. Frisch,http://dbpedia.org/resource/Ragnar_Frisch,http://dbpedia.org/resource/Rose_Frisch http://dbpedia.org/resource/Rose_E._Frisch http://dbpedia.org/resource/Rose_Epstein_Frisch
+0,111,R. Landauer,http://dbpedia.org/resource/Lev_Landau,http://dbpedia.org/resource/Rolf_Landauer
+0,114,R. Khosla,http://dbpedia.org/resource/Chaitan_Khosla,http://dbpedia.org/resource/Rohit_Khosla
+0,117,R. Needham,http://dbpedia.org/resource/Joseph_Needham,http://dbpedia.org/resource/Roger_Needham http://dbpedia.org/resource/Roger_M._Needham http://dbpedia.org/resource/Roger_Michael_Needham http://dbpedia.org/resource/Roger_Needham_Lecture http://dbpedia.org/resource/R._M._Needham
+0,121,R. Escobar,http://dbpedia.org/resource/Jesús_Escobar,http://dbpedia.org/resource/R.Escobar http://dbpedia.org/resource/Rodrigo_Escobar http://dbpedia.org/resource/R._Escobar
+0,123,R. Hudson,http://dbpedia.org/resource/Hugh_Hudson_(politician),http://dbpedia.org/resource/Rock_Hudson_filmography http://dbpedia.org/resource/Roy_Scherer http://dbpedia.org/resource/Rock_Hudson_(actor) http://dbpedia.org/resource/Roy_Scherer_Jr. http://dbpedia.org/resource/Marc_Christian http://dbpedia.org/resource/Roy_Harold_Scherer_Jr. http://dbpedia.org/resource/Rock_Hudson http://dbpedia.org/resource/Roy_Scherer-Fitzgerald_Jr. http://dbpedia.org/resource/Roy_Harold_Scherer
+0,124,R. Phillips,http://dbpedia.org/resource/Ralph_S._Phillips,http://dbpedia.org/resource/Robin_Phillips
+0,128,R. W. Mitchell,http://dbpedia.org/resource/R._J._Mitchell,http://dbpedia.org/resource/Robert_W._Mitchell
+0,130,R. Taylor,http://dbpedia.org/resource/Elizabeth_Taylor,http://dbpedia.org/resource/Robert_Taylor_(actor) http://dbpedia.org/resource/Spangler_arlington_brugh http://dbpedia.org/resource/Spangler_brugh
+0,131,R. Smith,http://dbpedia.org/resource/William_Robertson_Smith,http://dbpedia.org/resource/Robert_Smith_(mathematics) http://dbpedia.org/resource/Robert_Smith_(mathematician)
+0,133,R. R. Kuczynski,http://dbpedia.org/resource/Jürgen_Kuczynski,http://dbpedia.org/resource/R._R._Kuczynski http://dbpedia.org/resource/Robert_Kuczynski http://dbpedia.org/resource/Robert_René_Kuczynski http://dbpedia.org/resource/Robert_Rene_Kuczynski http://dbpedia.org/resource/R.R._Kuczynski
+0,139,R. Knapp,http://dbpedia.org/resource/Justin_Knapp,http://dbpedia.org/resource/Robert_Knapp_(actor)
+0,148,R. Dirks,http://dbpedia.org/resource/Rudolph_Dirks,http://dbpedia.org/resource/Robert_Dirks

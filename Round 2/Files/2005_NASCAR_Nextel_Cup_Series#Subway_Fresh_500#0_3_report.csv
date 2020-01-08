@@ -1,0 +1,5 @@
+"F1: 0.95238","Precision: 0.95238","Recall: 0.95238"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"3","5","Hermie Sadler 8","nan","http://dbpedia.org/resource/Hermie_Sadler"
+"3","8","Johnny Miller 1","http://dbpedia.org/resource/Johnny_Herbert","http://dbpedia.org/resource/Johnny_Miller"
+"3","45","Ryan Newman","http://dbpedia.org/resource/Ryan_Newman_(actress)","http://dbpedia.org/resource/Ryan_Joseph_Newman http://dbpedia.org/resource/Ryan_Newman http://dbpedia.org/resource/Luke_Lambert"

@@ -1,0 +1,24 @@
+F1: 0.80000,Precision: 0.80000,Recall: 0.80000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Á. Miguel,http://fr.dbpedia.org/resource/Brice_Miguel,http://dbpedia.org/resource/Ángel_Miguel http://dbpedia.org/resource/Angel_Miguel
+0,2,Y. Hayashi,http://dbpedia.org/resource/Yohei_Hayashi,http://dbpedia.org/resource/Yoshihiro_Hayashi http://dbpedia.org/resource/Yoshiro_Hayashi
+0,9,W. Reid,http://dbpedia.org/resource/Willie_Reid_(footballer),http://dbpedia.org/resource/Wilfrid_e._reid http://dbpedia.org/resource/Wilfrid_E._Reid http://dbpedia.org/resource/Wilfrid_Reid http://dbpedia.org/resource/Wilfred_Reid
+0,12,W. Gunn,http://dbpedia.org/resource/Adam_Gunn,http://dbpedia.org/resource/Watts_Gunn
+0,22,T. Nakamura,http://dbpedia.org/resource/Tōru_Nakamura_(golfer),http://dbpedia.org/resource/Torakichi_Nakamura http://dbpedia.org/resource/Torakichi http://dbpedia.org/resource/Pete_Nakamura
+0,23,T. Manero,http://dbpedia.org/resource/Tony_Manero_(golfer),http://dbpedia.org/resource/Tony_Manero
+0,26,T. Moore,http://dbpedia.org/resource/Tracy_Moore_(basketball),http://dbpedia.org/resource/Tommy_Moore_(golfer)
+0,37,T. Smith,http://dbpedia.org/resource/Tony_Smith_(basketball),http://dbpedia.org/resource/Taylor_Smith
+0,38,T. Kono,http://dbpedia.org/resource/Takanori_Kono,http://dbpedia.org/resource/Takaaki_Kono
+0,43,S. Alexander,http://dbpedia.org/resource/Shaun_Alexander,http://dbpedia.org/resource/Skip_Alexander
+0,46,S. Mayfield,http://dbpedia.org/resource/Scott_Mayfield,http://dbpedia.org/resource/Shelley_Mayfield
+0,50,S. P. Jr.,http://dbpedia.org/resource/Marvin_Gaye,"http://dbpedia.org/resource/Sam_Parks,_Jr. http://dbpedia.org/resource/Sam_Parks http://dbpedia.org/resource/Sam_Parks,_Jr"
+0,51,S. D. Herron,http://dbpedia.org/resource/Charles_D._Herron,http://dbpedia.org/resource/S._Davidson_Herron
+0,53,R. W. White,http://dbpedia.org/resource/Reggie_White,http://dbpedia.org/resource/Robert_W._White_(architect) http://dbpedia.org/resource/Robert_W._White_(golfer)
+0,59,P. O'Hara,"http://dbpedia.org/resource/Eddie_O'Hara_(footballer,_born_1935)",http://dbpedia.org/resource/Peter_O'Hara
+0,60,P. Brown,http://dbpedia.org/resource/Patricia_Brown,http://dbpedia.org/resource/Pete_Brown_(golfer)
+0,69,O. Jones,http://dbpedia.org/resource/Ozell_Jones,http://dbpedia.org/resource/Orus_Jones
+0,83,M. R. Marston,http://dbpedia.org/resource/Max_Marston,http://dbpedia.org/resource/Max_R._Marston
+0,86,M. Furgol,http://dbpedia.org/resource/Ed_Furgol,http://dbpedia.org/resource/Marty_Furgol
+0,87,M. Smith,"http://dbpedia.org/resource/Michael_Smith_(footballer,_born_1988)",http://dbpedia.org/resource/Mac_Smith http://dbpedia.org/resource/Macdonald_Smith
+0,106,J. Farrell,http://dbpedia.org/resource/Jack_Farrell,http://dbpedia.org/resource/Johnny_Farrell
+0,107,J. Dawson,http://dbpedia.org/resource/Jamie_Dawson,http://dbpedia.org/resource/John_Dawson_(golfer) http://dbpedia.org/resource/Johnny_Dawson

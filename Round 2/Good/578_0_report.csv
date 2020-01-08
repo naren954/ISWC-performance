@@ -1,0 +1,45 @@
+F1: 0.75978,Precision: 0.75978,Recall: 0.75978,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,J. E. Meyer,http://dbpedia.org/resource/Eduard_Meyer,http://dbpedia.org/resource/Joseph_F._Meyer http://dbpedia.org/resource/Joseph_E._Meyer
+0,4,J. Barbier,http://dbpedia.org/resource/Jules_Barbier,http://dbpedia.org/resource/Joseph-Emile_Barbier http://dbpedia.org/resource/Joseph_Emile_Barbier http://dbpedia.org/resource/Joseph-Émile_Barbier
+0,6,J. Barbier,http://dbpedia.org/resource/Jules_Barbier,http://dbpedia.org/resource/Joseph-Emile_Barbier http://dbpedia.org/resource/Joseph_Emile_Barbier http://dbpedia.org/resource/Joseph-Émile_Barbier
+0,9,Josef Hauser S. J.,http://dbpedia.org/resource/Joseph_Stalin,http://dbpedia.org/resource/Josef_Hauser_S._J.
+0,10,José Manuel Rodriguez Delgado,http://dbpedia.org/resource/José_Manuel_Rodríguez_Delgado,http://dbpedia.org/resource/Dr_José_Manuel_Rodriguez_Delgado http://dbpedia.org/resource/Stimoceiver http://dbpedia.org/resource/Jose_Degaldo http://dbpedia.org/resource/Jose_Delgado http://dbpedia.org/resource/José_Manuel_Delgado http://dbpedia.org/resource/José_Delgado http://dbpedia.org/resource/Jose_Manuel_Rodriguez_Delgado http://dbpedia.org/resource/Dr_Jose_Manuel_Rodriguez_Delgado http://dbpedia.org/resource/Brave_bulls_experiment http://dbpedia.org/resource/José_Rodríguez_Delgado http://dbpedia.org/resource/José_Manuel_Rodriguez_Delgado
+0,12,J. Sabato,http://dbpedia.org/resource/Ernesto_Sabato,http://dbpedia.org/resource/Jorge_Sábato http://dbpedia.org/resource/Jorge_Sabato http://dbpedia.org/resource/Jorge_Alberto_Sabato http://dbpedia.org/resource/Jorge_Alberto_Sábato
+0,13,J. Couch,http://dbpedia.org/resource/Warrick_Couch,http://dbpedia.org/resource/Thomas_Quiller_Couch http://dbpedia.org/resource/Jonathan_Couch
+0,15,J. Folkman,http://dbpedia.org/resource/Judah_Folkman,http://dbpedia.org/resource/Jon_Folkman http://dbpedia.org/resource/Jon_Hal_Folkman http://dbpedia.org/resource/Jon_H._Folkman
+0,18,J. W. Nicholson,http://dbpedia.org/resource/Joseph_Shield_Nicholson,http://dbpedia.org/resource/John_William_Nicholson
+0,32,J. P. Wild,http://dbpedia.org/resource/Paul_Wild_(Australian_scientist),http://dbpedia.org/resource/John_Paul_Wild http://dbpedia.org/resource/Paul_Wild
+0,33,J. Parkinson,http://dbpedia.org/resource/James_Parkinson,http://dbpedia.org/resource/John_Parkinson_(botanist)
+0,34,J. P. McGovern,http://dbpedia.org/resource/George_McGovern,http://dbpedia.org/resource/John_P._McGovern http://dbpedia.org/resource/John_P._McGovern_(physician)
+0,38,J. Nesbitt,http://dbpedia.org/resource/James_Nesbitt,http://dbpedia.org/resource/John_Nesbitt_(announcer)
+0,40,J. M. Miller,http://dbpedia.org/resource/Johann_Martin_Miller,http://dbpedia.org/resource/John_Milton_Miller
+0,49,J. Hudson,http://dbpedia.org/resource/James_Hudson_(diplomat),http://dbpedia.org/resource/John_Hudson_(mathematician)
+0,53,J. Hawkins,http://dbpedia.org/resource/Jack_Hawkins,http://dbpedia.org/resource/John_Hawkins_(geologist)
+0,56,J. G. Clark,http://dbpedia.org/resource/J._Desmond_Clark,http://dbpedia.org/resource/John_Gordon_Clark http://dbpedia.org/resource/John_G._Clark http://dbpedia.org/resource/John_g._clark
+0,59,J. G. Ziegler,http://dbpedia.org/resource/Günter_M._Ziegler,http://dbpedia.org/resource/John_G._Ziegler
+0,66,J. Craig,http://fr.dbpedia.org/resource/John_Craig_(écrivain),http://dbpedia.org/resource/John_Craig_(mathematician) http://dbpedia.org/resource/Mathematical_Principles_of_Christian_Theology
+0,70,J. Briscoe,http://dbpedia.org/resource/Dolph_Briscoe,http://dbpedia.org/resource/John_Briscoe_(water_engineer)
+0,73,J. B. Whitehead,http://dbpedia.org/resource/J._H._C._Whitehead,http://dbpedia.org/resource/John_B._Whitehead
+0,85,J. J. Müller,http://dbpedia.org/resource/Johannes_Peter_Müller,http://dbpedia.org/resource/Johann_Jakob_Muller http://dbpedia.org/resource/Johann_Jakob_Müller
+0,99,Jishnu,http://dbpedia.org/resource/Jishnu_Raghavan,http://dbpedia.org/resource/Jishnu http://dbpedia.org/resource/Jishnu_(actor)
+0,101,J. Chapin,http://dbpedia.org/resource/Harry_Chapin,http://dbpedia.org/resource/Jim_Chapin http://dbpedia.org/resource/James_F._Chapin
+0,102,J. S. Miller,http://dbpedia.org/resource/Julius_Sumner_Miller,http://dbpedia.org/resource/Jesse_S._Miller
+0,103,J. Łoś,http://dbpedia.org/resource/Donald_Trump,http://dbpedia.org/resource/Jerzy_Los http://dbpedia.org/resource/Jerzy_Łoś http://dbpedia.org/resource/Jerzy_Zygmunt_Los http://dbpedia.org/resource/Jerzy_Zygmunt_Łoś
+0,105,J. Hill,http://dbpedia.org/resource/John_Hill_(botanist),http://dbpedia.org/resource/Jerome_Foundation http://dbpedia.org/resource/The_Jerome_Foundation http://dbpedia.org/resource/Jerome_Hill
+0,110,J. B. Johnson,http://dbpedia.org/resource/Lyndon_B._Johnson,http://dbpedia.org/resource/Jean_Basset_Johnson http://dbpedia.org/resource/Jean_Bassett_Johnson
+0,112,J. Charcot,http://dbpedia.org/resource/Jean-Baptiste_Charcot,http://dbpedia.org/resource/Jean_Martin_Charcot http://dbpedia.org/resource/J._M._Charcot http://dbpedia.org/resource/Charcotian http://dbpedia.org/resource/Dr._Jean-Martin_Charcot http://dbpedia.org/resource/Jean_Charcot http://dbpedia.org/resource/Jean-Martin_Charcot
+0,132,J. J. Kay,http://dbpedia.org/resource/David_J._C._MacKay,http://dbpedia.org/resource/James_J._Kay
+0,139,J. B. Jr.,http://dbpedia.org/resource/Bill_Clinton,"http://dbpedia.org/resource/James_Bloodworth,_Jr."
+0,142,J. Arness,http://dbpedia.org/resource/Donald_Trump,http://dbpedia.org/resource/James_Aurness http://dbpedia.org/resource/Jim_Arness http://dbpedia.org/resource/James_arness http://dbpedia.org/resource/James_King_Aurness http://dbpedia.org/resource/James_Arness http://dbpedia.org/resource/James_King_Arness http://dbpedia.org/resource/Jim_Aurness
+0,143,J. Hancock,http://dbpedia.org/resource/John_Hancock,http://dbpedia.org/resource/Jake_Hancock
+0,144,J. Agarwal,http://dbpedia.org/resource/Girish_Saran_Agarwal,http://dbpedia.org/resource/Jaiveer_Agarwal
+0,148,J. Carayon,http://dbpedia.org/resource/Auguste_Carayon,http://dbpedia.org/resource/Jacques_Carayon
+0,151,J. L. Moreno,http://es.dbpedia.org/resource/José_Luis_Serrano_Moreno,"http://dbpedia.org/resource/J_L_Moreno http://dbpedia.org/resource/Theatre_of_Spontaneity http://dbpedia.org/resource/Moreno,_Jacob_L. http://dbpedia.org/resource/Jacob_Moreno http://dbpedia.org/resource/Jacob_L._Moreno http://dbpedia.org/resource/J.L._Moreno http://dbpedia.org/resource/Jacob_Levy_Moreno http://dbpedia.org/resource/J._L._Moreno"
+0,152,J. Bernoulli,http://dbpedia.org/resource/Johann_Bernoulli,http://dbpedia.org/resource/James_Bernouilli http://dbpedia.org/resource/Jakob_Bernoulli http://dbpedia.org/resource/Jackob_Bernoulli http://dbpedia.org/resource/James_Bernoulli http://dbpedia.org/resource/Jakob_I_Bernoulli http://dbpedia.org/resource/Jacob_Bernoulli http://dbpedia.org/resource/Jacques_Bernoulli http://dbpedia.org/resource/Jakob_bernoulli http://dbpedia.org/resource/Jacob_Bernouilli
+0,153,J. Wyatt,http://dbpedia.org/resource/James_Wyatt,http://dbpedia.org/resource/Jack_Wyatt
+0,155,J. Horkheimer,http://dbpedia.org/resource/Max_Horkheimer,http://dbpedia.org/resource/Jack_Foley_Horkheimer http://dbpedia.org/resource/Jack_Horkheimer
+0,171,I. Fenyő,http://dbpedia.org/resource/Miksa_Fenyő,http://dbpedia.org/resource/István_Fenyő http://dbpedia.org/resource/Istvan_Fenyo
+0,173,I. Fenyő,http://dbpedia.org/resource/Miksa_Fenyő,http://dbpedia.org/resource/István_Fenyő http://dbpedia.org/resource/Istvan_Fenyo
+0,177,I. Bennett,http://dbpedia.org/resource/Corinne_Bennett,http://dbpedia.org/resource/Dr_Isobel_Bennett http://dbpedia.org/resource/Isobel_Ida_Bennett http://dbpedia.org/resource/Isobel_Bennett
+0,178,I. H. Qureshi,http://dbpedia.org/resource/Iqbal_Hussain_Qureshi,http://dbpedia.org/resource/I_H_Qureshi http://dbpedia.org/resource/Ishtiaq_Hussain_Qureshi

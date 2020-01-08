@@ -1,0 +1,7 @@
+F1: 0.78261,Precision: 0.78261,Recall: 0.78261,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,B. Ruetz,http://dbpedia.org/resource/Joe_Ruetz,http://dbpedia.org/resource/Babe_Ruetz http://dbpedia.org/resource/George_Ruetz
+0,2,B. McCarthy,http://dbpedia.org/resource/Brendan_McCarthy_(American_football),http://dbpedia.org/resource/Babe_McCarthy
+0,6,A. Horween,http://dbpedia.org/resource/Ralph_Horween,http://dbpedia.org/resource/Arnie_Horween http://dbpedia.org/resource/Arnold_Horween
+0,19,A. Davis,"http://dbpedia.org/resource/Anthony_Davis_(offensive_tackle,_born_1989)","http://dbpedia.org/resource/Carol_Davis http://dbpedia.org/resource/Davis,_Al http://dbpedia.org/resource/Al_Davis"
+0,20,A. Bruno,http://dbpedia.org/resource/Alex_Bruno,http://dbpedia.org/resource/Albert_Bruno http://dbpedia.org/resource/Al_Bruno http://dbpedia.org/resource/Albert_P._Bruno

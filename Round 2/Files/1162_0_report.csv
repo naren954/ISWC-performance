@@ -1,0 +1,5 @@
+"F1: 0.72727","Precision: 0.72727","Recall: 0.72727"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","2","S. Unwin","http://dbpedia.org/resource/Stanley_Unwin_(publisher)","http://dbpedia.org/resource/Stanley_Unwin_(comedian) http://dbpedia.org/resource/Unwinesque http://dbpedia.org/resource/Stan_Unwin http://dbpedia.org/resource/Unwinese"
+"0","4","R. Nelson","http://dbpedia.org/resource/Ralph_Nelson","http://dbpedia.org/resource/Rudolf_Nelson http://dbpedia.org/resource/Rudolph_Nelson http://dbpedia.org/resource/Rudolf_Lewysohn"
+"0","5","R. Cash","http://dbpedia.org/resource/Rosanne_Cash","http://dbpedia.org/resource/Rosalind_Cash"

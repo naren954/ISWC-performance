@@ -1,0 +1,5 @@
+"F1: 0.94444","Precision: 0.94444","Recall: 0.94444"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","23","Molecular Neurobiology","http://dbpedia.org/resource/Progress_in_Neurobiology","http://dbpedia.org/resource/Mol_Neurobiol http://dbpedia.org/resource/Molecular_Neurobiology http://dbpedia.org/resource/Mol._Neurobiol."
+"0","39","Molecular BioSystems","http://dbpedia.org/resource/Molecular_Omics","http://dbpedia.org/resource/Molecular_Biosystems http://dbpedia.org/resource/Molecular_BioSystems"
+"0","52","Millennium: Journal of International Studies","http://dbpedia.org/resource/Millennium_(journal)","http://dbpedia.org/resource/Millennium:_Journal_of_International_Studies"

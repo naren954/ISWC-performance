@@ -1,0 +1,48 @@
+F1: 0.70513,Precision: 0.70513,Recall: 0.70513,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,R. Williams,http://dbpedia.org/resource/Rhys_Williams_(footballer),http://dbpedia.org/resource/Robert_Williams_(baseball)
+0,9,R. Collins,http://dbpedia.org/resource/Ray_Collins_(baseball),http://dbpedia.org/resource/Ripper_Collins
+0,10,R. Williams,http://dbpedia.org/resource/Rhys_Williams_(footballer),http://dbpedia.org/resource/Rip_Williams
+0,12,R. Wade,http://fr.dbpedia.org/resource/Ryan_Wade,http://dbpedia.org/resource/Rip_Wade http://dbpedia.org/resource/Dick_Wade
+0,15,R. Russell,http://dbpedia.org/resource/Reb_Russell,http://dbpedia.org/resource/Glen_Russell http://dbpedia.org/resource/Glen_David_Russell http://dbpedia.org/resource/Glen_D._Russell http://dbpedia.org/resource/Rip_Russell
+0,23,R. Collins,http://dbpedia.org/resource/Ray_Collins_(baseball),http://dbpedia.org/resource/Rip_Collins_(pitcher) http://dbpedia.org/resource/Harry_Warren_Collins
+0,24,R. Collins,http://dbpedia.org/resource/Ray_Collins_(baseball),http://dbpedia.org/resource/Robert_Collins_(baseball) http://dbpedia.org/resource/Rip_Collins_(catcher)
+0,25,R. Coleman,http://dbpedia.org/resource/Ray_Coleman_(baseball),http://dbpedia.org/resource/Rip_Coleman
+0,28,R. Williams,http://dbpedia.org/resource/Rhys_Williams_(footballer),http://dbpedia.org/resource/Rinaldo_Williams
+0,29,R. Stephenson,http://dbpedia.org/resource/Roy_Stephenson,http://dbpedia.org/resource/Riggs_Stephenson
+0,36,R. Anderson,http://dbpedia.org/resource/Red_Anderson_(baseball),"http://dbpedia.org/resource/Rick_Anderson_(baseball,_born_1953)"
+0,37,R. Adams,http://dbpedia.org/resource/Ricky_Adams,http://dbpedia.org/resource/Rick_Adams_(baseball)
+0,41,R. Gee,http://dbpedia.org/resource/Robert_Gee,http://dbpedia.org/resource/Rich_Gee
+0,45,R. Jones,"http://dbpedia.org/resource/Ryan_Jones_(footballer,_born_1973)",http://dbpedia.org/resource/Ri_Jones http://dbpedia.org/resource/Jack_Jones_(infielder)
+0,46,R. Smith,http://dbpedia.org/resource/Royce_Smith,http://dbpedia.org/resource/Rex_Smith_(baseball) http://dbpedia.org/resource/Smith_(1886_pitcher)
+0,52,R. Monteagudo,http://dbpedia.org/resource/Aurelio_Monteagudo,http://dbpedia.org/resource/Rene_Monteagudo http://dbpedia.org/resource/René_Monteagudo
+0,55,R. Kelly,http://dbpedia.org/resource/Red_Kelly,http://dbpedia.org/resource/Ren_Kelly
+0,56,R. Monteagudo,http://dbpedia.org/resource/Aurelio_Monteagudo,http://dbpedia.org/resource/Rene_Monteagudo http://dbpedia.org/resource/René_Monteagudo
+0,59,R. Richter,http://dbpedia.org/resource/Ryan_Richter,http://dbpedia.org/resource/Emil_Richter_(baseball) http://dbpedia.org/resource/Reggie_Richter
+0,62,R. McKay,http://dbpedia.org/resource/Roy_McKay_(American_football),http://dbpedia.org/resource/Reeve_McKay
+0,66,R. Foster,http://dbpedia.org/resource/Robert_Foster_(baseball),http://dbpedia.org/resource/Reddy_Foster
+0,69,R. Wilson,"http://dbpedia.org/resource/Ron_Wilson_(footballer,_born_1924)",http://dbpedia.org/resource/Red_Wilson
+0,73,R. Smith,http://dbpedia.org/resource/Royce_Smith,http://dbpedia.org/resource/Red_Smith_(third_baseman) http://dbpedia.org/resource/Red_Smith_(MLB_third_baseman)
+0,74,R. Smith,http://dbpedia.org/resource/Royce_Smith,http://dbpedia.org/resource/Marvin_Harold_Smith http://dbpedia.org/resource/Red_Smith_(shortstop)
+0,75,R. Smith,http://dbpedia.org/resource/Royce_Smith,http://dbpedia.org/resource/Red_Smith_(catcher)
+0,76,R. Smith,http://dbpedia.org/resource/Royce_Smith,http://dbpedia.org/resource/Red_Smith_(1920s_catcher) http://dbpedia.org/resource/Red_Smith_(American_football/baseball)
+0,81,R. Ryan,http://dbpedia.org/resource/Reg_Ryan,http://dbpedia.org/resource/Red_Ryan_(baseball) http://dbpedia.org/resource/Merven_Ryan
+0,85,R. Roberts,"http://dbpedia.org/resource/Robert_Roberts_(footballer,_born_1864)",http://dbpedia.org/resource/Red_Roberts
+0,91,R. Oldham,http://dbpedia.org/resource/Ray_Oldham,http://dbpedia.org/resource/Red_Oldham
+0,96,R. Munson,http://dbpedia.org/resource/Thurman_Munson,http://dbpedia.org/resource/Red_Munson
+0,98,R. Morgan,http://dbpedia.org/resource/Rex_Morgan_(basketball),http://dbpedia.org/resource/Red_Morgan
+0,99,R. Miller,http://dbpedia.org/resource/Ralph_Miller_(footballer),http://dbpedia.org/resource/Red_Miller_(baseball)
+0,100,R. McKee,http://dbpedia.org/resource/Roger_McKee,http://dbpedia.org/resource/Red_McKee
+0,104,R. Lutz,http://dbpedia.org/resource/Roger_Lutz,http://dbpedia.org/resource/Red_Lutz
+0,105,R. Lucas,http://dbpedia.org/resource/Ray_Lucas_(baseball),http://dbpedia.org/resource/Red_Lucas
+0,111,R. Kelly,http://dbpedia.org/resource/Red_Kelly,http://dbpedia.org/resource/Red_Kelly_(baseball)
+0,114,R. Jones,"http://dbpedia.org/resource/Ryan_Jones_(footballer,_born_1973)",http://dbpedia.org/resource/Red_Jones_(outfielder)
+0,115,R. Howell,http://it.dbpedia.org/resource/Rolando_Howell,http://dbpedia.org/resource/Red_Howell
+0,116,R. Holt,http://dbpedia.org/resource/Roger_Holt,http://dbpedia.org/resource/Red_Holt
+0,118,R. Hill,http://dbpedia.org/resource/Reg_Hill_(footballer),http://dbpedia.org/resource/Red_Hill_(baseball)
+0,119,R. Hayworth,http://dbpedia.org/resource/Ray_Hayworth,http://dbpedia.org/resource/Red_Hayworth
+0,125,R. Evans,http://dbpedia.org/resource/Rob_Evans_(rugby_player),http://dbpedia.org/resource/Red_Evans
+0,134,R. Davis,http://dbpedia.org/resource/Ron_Davis_(basketball),http://dbpedia.org/resource/Red_Davis http://dbpedia.org/resource/John_Davis_(infielder) http://dbpedia.org/resource/John_Humphrey_Davis http://dbpedia.org/resource/John_Davis_(third_baseman)
+0,137,R. Connally,http://dbpedia.org/resource/Sarge_Connally,http://dbpedia.org/resource/Red_Connolly http://dbpedia.org/resource/Red_Connally
+0,139,R. Bullock,http://dbpedia.org/resource/Randy_Bullock,http://dbpedia.org/resource/Red_Bullock
+0,145,R. Bird,http://dbpedia.org/resource/Ronnie_Bird_(footballer),http://dbpedia.org/resource/Red_Bird_(baseball)

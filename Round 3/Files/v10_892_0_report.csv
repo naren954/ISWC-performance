@@ -1,0 +1,5 @@
+"F1: 0.76923","Precision: 0.76923","Recall: 0.76923"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","3","Almagreira","http://de.dbpedia.org/resource/Almagreira_(Pombal)","http://dbpedia.org/resource/Almagreira http://dbpedia.org/resource/Almagreira_(Vila_do_Porto)"
+"0","5","Albion","http://dbpedia.org/resource/Albion,_Michigan","http://dbpedia.org/resource/Albion_(village),_Orleans_County,_New_York http://dbpedia.org/resource/Albion_(village),_New_York http://dbpedia.org/resource/Albion,_Orleans_County,_New_York_(village)"
+"0","9","Agualva","http://de.dbpedia.org/resource/Agualva_(Sintra)","http://dbpedia.org/resource/Agualva_(Praia_da_Vitória) http://dbpedia.org/resource/Agualva_(Praia_da_Vitoria)"

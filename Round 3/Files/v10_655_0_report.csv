@@ -1,0 +1,7 @@
+"F1: 0.95050","Precision: 0.95050","Recall: 0.95050"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","7","The Discovery","nan","http://dbpedia.org/resource/The_Discovery_(novel) http://dbpedia.org/resource/The_Discovery_(Animorphs)"
+"0","13","The Decision","http://dbpedia.org/resource/Tonight's_Decision","http://dbpedia.org/resource/The_Decision_(Animorphs) http://dbpedia.org/resource/The_Decision_(novel)"
+"0","19","The Dark Room","http://dbpedia.org/resource/The_Dark_Room_(Walters_novel)","http://dbpedia.org/resource/The_Dark_Room_(Narayan_novel)"
+"0","28","The Crossing","http://dbpedia.org/resource/The_Crossing_(video_game)","http://dbpedia.org/resource/The_Crossing_(McCarthy_novel) http://dbpedia.org/resource/The_Crossing_(Cormac_McCarthy_novel)"
+"0","40","The Commodore","http://dbpedia.org/resource/The_Commodore","http://dbpedia.org/resource/The_Commodore_(book) http://dbpedia.org/resource/The_Commodore_(novel)"

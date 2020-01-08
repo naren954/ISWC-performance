@@ -1,0 +1,8 @@
+"F1: 0.78571","Precision: 0.78571","Recall: 0.78571"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","2","Luge","http://dbpedia.org/resource/André_Luge","http://dbpedia.org/resource/Luge http://dbpedia.org/resource/Luge(sport) http://dbpedia.org/resource/Lugeing http://dbpedia.org/resource/Luging http://dbpedia.org/resource/Two_man_luge"
+"1","6","A. Neuner","http://dbpedia.org/resource/Magdalena_Neuner","http://dbpedia.org/resource/Angelika_Neuner"
+"1","12","K. Ferstl","http://dbpedia.org/resource/Sepp_Ferstl","http://dbpedia.org/resource/Karl_Ferstl"
+"1","15","M. Schmid","http://dbpedia.org/resource/Michael_Schmid","http://dbpedia.org/resource/Manfred_Schmid"
+"1","23","S. Bradl","http://dbpedia.org/resource/Stefan_Bradl","http://dbpedia.org/resource/Sepp_Bradl http://dbpedia.org/resource/Josef_Bradl"
+"1","25","D. Morris","http://dbpedia.org/resource/Derek_Morris_(ice_hockey)","http://dbpedia.org/resource/David_Morris_(Australian_Aerial_Skier) http://dbpedia.org/resource/David_Morris_(Australian_aerial_skier) http://dbpedia.org/resource/David_Morris_(skier)"

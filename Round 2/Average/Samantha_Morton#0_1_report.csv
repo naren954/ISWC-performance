@@ -1,0 +1,12 @@
+F1: 0.64286,Precision: 0.64286,Recall: 0.64286,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,2,Under the Skin,http://dbpedia.org/resource/Under_the_Skin_(2013_film),http://dbpedia.org/resource/Under_the_Skin_(1997_film) http://dbpedia.org/resource/Under_the_Skin_(1997)
+1,4,Jesus' Son,http://dbpedia.org/resource/Jesus'_Son_(film),http://dbpedia.org/resource/Jesus'_Son
+1,9,In America,http://dbpedia.org/resource/America_(America_album),http://dbpedia.org/resource/Emma_Bolger http://dbpedia.org/resource/In_America_(film)
+1,13,The Libertine,http://dbpedia.org/resource/The_Libertine_(1969_film),http://dbpedia.org/resource/The_Libertine_(2005_film) http://dbpedia.org/resource/The_libertine_(2005_film) http://dbpedia.org/resource/The_Libertine_(Nyman) http://dbpedia.org/resource/The_Libertine_(2004_film)
+1,14,Lassie,http://dbpedia.org/resource/Lassie_Come_Home,http://dbpedia.org/resource/Lassie_(2005_film) http://dbpedia.org/resource/Lassie_(2005_movie)
+1,17,Control,http://dbpedia.org/resource/Control_(Janet_Jackson_album),http://dbpedia.org/resource/Control_(2007_film)
+1,22,The Messenger,http://dbpedia.org/resource/The_Messenger_(magazine),http://dbpedia.org/resource/The_Messenger_(2009_film)
+1,23,The Unloved,http://dbpedia.org/resource/The_Unloved_Woman_(1940_film),http://dbpedia.org/resource/The_unloved http://dbpedia.org/resource/The_Unloved
+1,24,John Carter,http://dbpedia.org/resource/Charlton_Heston,http://dbpedia.org/resource/John_Carter_3 http://dbpedia.org/resource/John_Carter_movie http://dbpedia.org/resource/A_Princess_of_Mars_(movie) http://dbpedia.org/resource/John_Carter_2012 http://dbpedia.org/resource/John_Carter_2 http://dbpedia.org/resource/John_Carter_(movie) http://dbpedia.org/resource/John_Carter_film http://dbpedia.org/resource/John_Carter_3D http://dbpedia.org/resource/John_Carter_of_Mars_(film) http://dbpedia.org/resource/John_Carter_(film) http://dbpedia.org/resource/John_Carter_of_Mars_(movie) http://dbpedia.org/resource/A_Princess_of_Mars_(film) http://dbpedia.org/resource/John_Carter_from_Mars
+1,27,The Harvest,http://dbpedia.org/resource/Blue_Harvest,http://dbpedia.org/resource/The_Harvest_(2013_film) http://dbpedia.org/resource/Can't_Come_Out_to_Play

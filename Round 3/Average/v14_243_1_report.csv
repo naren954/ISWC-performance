@@ -1,0 +1,7 @@
+F1: 0.66667,Precision: 0.66667,Recall: 0.66667,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,4,A. Iglesias,http://dbpedia.org/resource/Julio_Iglesias,http://dbpedia.org/resource/Alberto_Iglésias http://dbpedia.org/resource/Alberto_Iglesias
+1,7,E. Masetti,http://dbpedia.org/resource/Guido_Masetti,http://dbpedia.org/resource/Enzo_Masetti
+1,8,E. Masetti,http://dbpedia.org/resource/Guido_Masetti,http://dbpedia.org/resource/Enzo_Masetti
+1,9,M. Michelet,http://dbpedia.org/resource/Jules_Michelet,http://dbpedia.org/resource/Michel_Michelet http://dbpedia.org/resource/Michel_Lévine http://dbpedia.org/resource/Mikhail_Isaakovich_Levin
+1,11,A. Abujamra,http://dbpedia.org/resource/Antônio_Abujamra,"http://dbpedia.org/resource/Abujamra,_André http://dbpedia.org/resource/André_Abujamra http://dbpedia.org/resource/Andre_Abujamra http://dbpedia.org/resource/Abujamra"

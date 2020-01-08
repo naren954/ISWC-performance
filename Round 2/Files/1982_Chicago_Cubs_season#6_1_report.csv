@@ -1,0 +1,4 @@
+"F1: 0.66667","Precision: 0.66667","Recall: 0.66667"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","1","Iowa Cubs","http://dbpedia.org/resource/Chicago_Cubs","http://dbpedia.org/resource/Iowa_Oaks http://dbpedia.org/resource/Raccoon_Baseball,_Inc. http://dbpedia.org/resource/I-Cubs http://dbpedia.org/resource/Iowa_Cubs"
+"1","5","Geneva Cubs","http://dbpedia.org/resource/Chicago_Cubs","http://dbpedia.org/resource/Geneva_Redlegs http://dbpedia.org/resource/Geneva_Robins http://dbpedia.org/resource/Geneva_Pirates http://dbpedia.org/resource/Geneva_Senators http://dbpedia.org/resource/Geneva_Twins http://dbpedia.org/resource/Geneva_Cubs"

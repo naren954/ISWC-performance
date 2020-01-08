@@ -1,0 +1,5 @@
+F1: 0.50000,Precision: 0.50000,Recall: 0.50000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,4,William L. Scruggs,http://dbpedia.org/resource/William_L._Guy,http://dbpedia.org/resource/William_Lindsay_Scruggs http://dbpedia.org/resource/William_Scruggs http://dbpedia.org/resource/William_L._Scruggs
+0,7,William L. Scruggs,http://dbpedia.org/resource/William_L._Guy,http://dbpedia.org/resource/William_Lindsay_Scruggs http://dbpedia.org/resource/William_Scruggs http://dbpedia.org/resource/William_L._Scruggs
+0,9,Charles D. Jacob,http://dbpedia.org/resource/Charles_Jacob_(geologist),http://dbpedia.org/resource/Charles_Donald_jacob http://dbpedia.org/resource/Charles_D._Jacob http://dbpedia.org/resource/Charles_Donald_Jacob

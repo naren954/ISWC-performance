@@ -1,0 +1,4 @@
+F1: 0.77778,Precision: 0.77778,Recall: 0.77778,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,Suiyang District,http://dbpedia.org/resource/Suiyang_County,http://dbpedia.org/resource/Ancient_Suiyang http://dbpedia.org/resource/Suiyang_District
+0,5,Sui County,http://dbpedia.org/resource/Sishui_County,"http://dbpedia.org/resource/Sui_County,_Henan"

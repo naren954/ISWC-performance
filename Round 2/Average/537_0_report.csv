@@ -1,0 +1,8 @@
+F1: 0.70000,Precision: 0.70000,Recall: 0.70000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,A. Parris,http://dbpedia.org/resource/Albion_Parris,http://dbpedia.org/resource/Alexander_Parris
+0,4,A. Ripellino,http://de.dbpedia.org/resource/Angelo_Maria_Ripellino,http://dbpedia.org/resource/Alessandro_Ripellino
+0,8,A. Alfonso,http://dbpedia.org/resource/Alfonso_XII_of_Spain,http://dbpedia.org/resource/Alberto_Alfonso http://dbpedia.org/resource/Alfonso_Architects
+0,9,A. Ford,http://dbpedia.org/resource/Gerald_Ford,http://dbpedia.org/resource/Alan_Ford_(architect) http://dbpedia.org/resource/Alan_Ford_Architects
+0,12,A. Grigoriev,"http://ru.dbpedia.org/resource/Григорьев,_Андрей_Александрович",http://dbpedia.org/resource/Afanasy_Grigoriev
+0,13,A. Smith,http://dbpedia.org/resource/Tony_Smith_(sculptor),http://dbpedia.org/resource/Adrian_D._Smith http://dbpedia.org/resource/Adrian_D._Smith_(S.O.M) http://dbpedia.org/resource/Adrian_Smith_(architect)

@@ -1,0 +1,37 @@
+F1: 0.45312,Precision: 0.45312,Recall: 0.45312,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,5,B. Ogle,http://dbpedia.org/resource/Robert_Ogle,http://dbpedia.org/resource/Bob_Ogle http://dbpedia.org/resource/Bob_Ogle_(actor)
+1,9,E. Monte,http://dbpedia.org/resource/Marisa_Monte,http://dbpedia.org/resource/Eric_Monte
+1,10,J. James,http://dbpedia.org/resource/John_James_(Australian_rules_footballer),http://dbpedia.org/resource/Jasper_James
+1,11,J. Morton,http://dbpedia.org/resource/John_Morton_(cardinal),http://dbpedia.org/resource/John_Morton_(writer)
+1,15,R. Mediaworks,http://dbpedia.org/resource/R._Macors,http://dbpedia.org/resource/Radaan_Mediaworks
+1,16,H. Thomas,http://dbpedia.org/resource/Henri_Thomas,http://dbpedia.org/resource/Heidi_Thomas
+1,18,T. O'Donnell,http://dbpedia.org/resource/Kenneth_O'Donnell,http://dbpedia.org/resource/Tim_O'Donnell_(director)
+1,19,K. Hasegawa,http://dbpedia.org/resource/Kiyoshi_Hasegawa,http://dbpedia.org/resource/Keiichi_Hasegawa
+1,20,K. Hasegawa,http://dbpedia.org/resource/Kiyoshi_Hasegawa,http://dbpedia.org/resource/Keiichi_Hasegawa
+1,21,T. Masuda,http://dbpedia.org/resource/Toshio_Masuda_(director),http://dbpedia.org/resource/Takahiko_Masuda
+1,25,G. Murray,http://dbpedia.org/resource/George_Murray_(British_Army_officer),http://dbpedia.org/resource/Gordon_Murray_(puppeteer)
+1,27,D. Clement,http://dbpedia.org/resource/Henry_Benedict_Stuart,http://dbpedia.org/resource/Dick_Clement
+1,29,J. Johnson,http://dbpedia.org/resource/Lyndon_B._Johnson,"http://dbpedia.org/resource/Jay_Jay_Johnson http://dbpedia.org/resource/J._J._Johnson http://dbpedia.org/resource/JJ_Johnson http://dbpedia.org/resource/J.J_Johnson http://dbpedia.org/resource/J_J_Johnson http://dbpedia.org/resource/J.J._Johnson http://dbpedia.org/resource/James_Louis_Johnson http://dbpedia.org/resource/Johnson,_J._J."
+1,30,J. Thorne,http://dbpedia.org/resource/Bella_Thorne,"http://dbpedia.org/resource/Jack_Thorne_(playwright) http://dbpedia.org/resource/Thorne,_Jack http://dbpedia.org/resource/Jack_Thorne_(writer) http://dbpedia.org/resource/Jack_Thorne"
+1,31,J. Thorne,http://dbpedia.org/resource/Bella_Thorne,"http://dbpedia.org/resource/Jack_Thorne_(playwright) http://dbpedia.org/resource/Thorne,_Jack http://dbpedia.org/resource/Jack_Thorne_(writer) http://dbpedia.org/resource/Jack_Thorne"
+1,32,J. Thorne,http://dbpedia.org/resource/Bella_Thorne,"http://dbpedia.org/resource/Jack_Thorne_(playwright) http://dbpedia.org/resource/Thorne,_Jack http://dbpedia.org/resource/Jack_Thorne_(writer) http://dbpedia.org/resource/Jack_Thorne"
+1,36,K. Grahame,http://dbpedia.org/resource/Gloria_Grahame,http://dbpedia.org/resource/Kenneth_Grahame http://dbpedia.org/resource/Kenneth_Graham
+1,37,A. D. Miles,http://de.dbpedia.org/resource/Wyndham_D._Miles,http://dbpedia.org/resource/A.D._Miles http://dbpedia.org/resource/A._D._Miles http://dbpedia.org/resource/A_D_Miles http://dbpedia.org/resource/AD_Miles
+1,38,A. Burnett,http://dbpedia.org/resource/Carol_Burnett,"http://dbpedia.org/resource/Alan_Burnett http://dbpedia.org/resource/Burnett,_Alan"
+1,39,M. Wayne,http://dbpedia.org/resource/Michael_Wayne,http://dbpedia.org/resource/Matt_Wayne
+1,41,T. Barwick,http://dbpedia.org/resource/Garfield_Barwick,http://dbpedia.org/resource/Tony_Barwick
+1,42,R. Muller,http://dbpedia.org/resource/Richard_Müller_(singer),"http://dbpedia.org/resource/Romeo_Muller,_Jr. http://dbpedia.org/resource/Romeo_muller http://dbpedia.org/resource/Romeo_Muller"
+1,44,J. L. Packer,http://dbpedia.org/resource/J._I._Packer,http://dbpedia.org/resource/Juliet_Law_Packer
+1,45,K. Gillis,,http://dbpedia.org/resource/Kevin_Gillis
+1,46,M. Maltese,http://de.dbpedia.org/resource/Curzio_Maltese,http://dbpedia.org/resource/Mike_Maltese http://dbpedia.org/resource/Michael_Maltese
+1,50,B. Levant,http://dbpedia.org/resource/Oscar_Levant,http://dbpedia.org/resource/Brian_Levant
+1,51,A. Curtis,http://dbpedia.org/resource/Alan_Curtis_(harpsichordist),http://dbpedia.org/resource/Adam_Curtis_(filmmaker) http://dbpedia.org/resource/Kevin_Adam_Curtis http://dbpedia.org/resource/Adam_Curtis
+1,52,R. Muller,http://dbpedia.org/resource/Richard_Müller_(singer),"http://dbpedia.org/resource/Romeo_Muller,_Jr. http://dbpedia.org/resource/Romeo_muller http://dbpedia.org/resource/Romeo_Muller"
+1,53,B. C. Jr.,http://dbpedia.org/resource/Bill_Cody_Jr.,"http://dbpedia.org/resource/Bob_Carroll,_Jr. http://dbpedia.org/resource/Bob_Carroll_(TV_writer) http://dbpedia.org/resource/Bob_Carroll_Jr."
+1,55,W. Luce,http://de.dbpedia.org/resource/Siméon_Luce,http://dbpedia.org/resource/William_Luce
+1,58,J. Ross,http://dbpedia.org/resource/Jerry_Ross_(composer),http://dbpedia.org/resource/The_Last_Resort_with_Jonathan_Ross http://dbpedia.org/resource/Jonathan_Ross_(English_TV_presenter) http://dbpedia.org/resource/Jonathan_Wos http://dbpedia.org/resource/Jonathan_Ross_(Celebrity) http://dbpedia.org/resource/Jonathan_Ross_(critic) http://dbpedia.org/resource/Jonathan_Ross_(television_presenter) http://dbpedia.org/resource/Jonathan_Ross_(presenter) http://dbpedia.org/resource/Jonathan_Stephen_Ross http://dbpedia.org/resource/Johnathan_Ross http://dbpedia.org/resource/Jonathan_Woss http://dbpedia.org/resource/Jonathan_Ros http://dbpedia.org/resource/Johnathan_ross http://dbpedia.org/resource/Wossy http://dbpedia.org/resource/Jonathan_Ross
+1,59,J. Dunham,http://dbpedia.org/resource/Jason_Dunham,"http://dbpedia.org/resource/Melvin_the_Superhero_Guy http://dbpedia.org/resource/Achmed_Saves_America http://dbpedia.org/resource/Sweet_Daddy_D http://dbpedia.org/resource/Bubba_j http://dbpedia.org/resource/Achmed_The_Dead_Terrorist http://dbpedia.org/resource/Melvin,_the_Superhero_Guy http://dbpedia.org/resource/Paige_Dunham http://dbpedia.org/resource/Peanut_(puppet) http://dbpedia.org/resource/Bubba_J http://dbpedia.org/resource/Walter_(puppet) http://dbpedia.org/resource/Achmed,_the_Dead_Terrorist http://dbpedia.org/resource/Jose_Jalapeno_on_a_Stick http://dbpedia.org/resource/List_of_Jeff_Dunham_Puppets http://dbpedia.org/resource/Walter_(Jeff_Dunham_Character) http://dbpedia.org/resource/Achmed_the_Dead_Terrorist http://dbpedia.org/resource/Jose_Jalapeno http://dbpedia.org/resource/Jeff_Dunham http://dbpedia.org/resource/Sweet_Daddy_Dee http://dbpedia.org/resource/Akmed_the_dead_terrorist http://dbpedia.org/resource/Jeff_Dunam http://dbpedia.org/resource/List_of_Jeff_Dunham_puppets http://dbpedia.org/resource/Achmed_the_Terrorist http://dbpedia.org/resource/José_Jalapeño_on_a_Stick"
+1,61,G. Mitchell,http://dbpedia.org/resource/Guy_Mitchell,http://dbpedia.org/resource/Gordon_Mitchell
+1,63,L. Bright,http://dbpedia.org/resource/Richard_Bright_(physician),http://dbpedia.org/resource/Laren_Bright
+1,64,K. Sullivan,http://dbpedia.org/resource/John_Sullivan_(writer),http://dbpedia.org/resource/Love_on_the_Land http://dbpedia.org/resource/Sullivan_Entertainment http://dbpedia.org/resource/Kevin_Sullivan_(director) http://dbpedia.org/resource/Love_on_the_land http://dbpedia.org/resource/Kevin_Sullivan_(producer)

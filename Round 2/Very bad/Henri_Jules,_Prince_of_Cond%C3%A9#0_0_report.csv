@@ -1,0 +1,6 @@
+F1: 0.20000,Precision: 0.20000,Recall: 0.20000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,Louis de Bourbon Duke of Bourbon Prince of CondÃ©,"http://dbpedia.org/resource/Louis_Joseph,_Prince_of_Condé","http://dbpedia.org/resource/Louis,_Prince_of_Condé_(1668-1710)"
+0,7,Anne Marie Victoire de Bourbon Mademoiselle d'Enghien Mademoiselle de CondÃ©,http://dbpedia.org/resource/Mariana_Victoria_of_Spain,http://dbpedia.org/resource/Anne_Marie_Victoire_de_Bourbon http://dbpedia.org/resource/Anne_Marie_de_Bourbon
+0,8,Anne Louise BÃ©nÃ©dicte de Bourbon Duchess of Maine,http://dbpedia.org/resource/Louise_Bénédicte_de_Bourbon,http://dbpedia.org/resource/Anne_Louise_Bénédicte_de_Bourbon
+0,9,Marie Anne de Bourbon Duchess of VendÃ´me,http://dbpedia.org/resource/Princess_Maria_Anna_of_Saxony_(1799–1832),http://dbpedia.org/resource/Marie_Anne_de_Bourbon_(1678–1718)

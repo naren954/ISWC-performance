@@ -1,0 +1,18 @@
+F1: 0.80952,Precision: 0.80952,Recall: 0.80952,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,5,C. Thomas,http://dbpedia.org/resource/Chase_Thomas,http://dbpedia.org/resource/Cam_Thomas
+0,6,C. Johnson,http://dbpedia.org/resource/Charlie_Johnson_(offensive_lineman),http://dbpedia.org/resource/Cam_Johnson
+0,11,C. Campbell,http://dbpedia.org/resource/Cassie_Campbell,http://dbpedia.org/resource/Calais_Campbell
+0,20,B. Dupree,http://dbpedia.org/resource/Marcus_Dupree,http://dbpedia.org/resource/Alvin_Dupree http://dbpedia.org/resource/Bud_Dupree
+0,36,B. Miller,http://dbpedia.org/resource/Bronzell_Miller,http://dbpedia.org/resource/Braxton_Miller
+0,38,B. Williams,http://dbpedia.org/resource/Brandon_Williams_(defensive_tackle),"http://dbpedia.org/resource/Brandon_Williams_(cornerback,_born_1992)"
+0,41,B. Thompson,http://dbpedia.org/resource/Bennie_Thompson_(gridiron_football),http://dbpedia.org/resource/Brandon_Thompson_(American_football)
+0,42,B. Thomas,http://dbpedia.org/resource/Bryan_Thomas_(American_football),http://dbpedia.org/resource/Brandon_Thomas_(American_football)
+0,43,B. Tate,http://dbpedia.org/resource/Ben_Tate,http://dbpedia.org/resource/Brandon_Tate
+0,47,B. Marshall,http://dbpedia.org/resource/Bobby_Marshall,http://dbpedia.org/resource/Brandon_Marshall_(linebacker)
+0,50,B. Brooks,http://dbpedia.org/resource/Brandon_Brooks,http://dbpedia.org/resource/Brandon_Brooks_(American_football)
+0,60,B. McCain,http://dbpedia.org/resource/Brice_McCain,http://dbpedia.org/resource/Bobby_McCain
+0,71,B. Turner,http://dbpedia.org/resource/Barbara_Turner_(basketball),http://dbpedia.org/resource/Billy_Turner_(American_football)
+0,74,B. Jones,http://dbpedia.org/resource/Byron_Jones_(American_football),http://dbpedia.org/resource/Ben_Jones_(offensive_lineman) http://dbpedia.org/resource/Ben_Jones_(center)
+0,78,B. Bell,http://dbpedia.org/resource/Blake_Bell,http://dbpedia.org/resource/Beau_Bell_(American_football)
+0,82,B. Atkins,http://dbpedia.org/resource/Geno_Atkins,http://dbpedia.org/resource/Baraka_Atkins

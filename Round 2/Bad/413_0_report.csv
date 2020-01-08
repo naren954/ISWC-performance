@@ -1,0 +1,8 @@
+F1: 0.50000,Precision: 0.50000,Recall: 0.50000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,French frigate Créole,http://dbpedia.org/resource/French_frigate_Corona_(1807),http://dbpedia.org/resource/French_frigate_Creole_(1799) http://dbpedia.org/resource/French_frigate_Créole_(1799) http://dbpedia.org/resource/French_frigate_Creole_(1797) http://dbpedia.org/resource/French_frigate_Créole_(1797)
+0,4,French frigate Clorinde,http://dbpedia.org/resource/French_frigate_Corona_(1807),http://dbpedia.org/resource/French_frigate_Clorinde_(1808) http://dbpedia.org/resource/HMS_Aurora_(1814)
+0,5,French frigate Clorinde,http://dbpedia.org/resource/French_frigate_Corona_(1807),http://dbpedia.org/resource/French_frigate_Clorinde_(1801) http://dbpedia.org/resource/HMS_Clorinde_(1803)
+0,7,French frigate Aréthuse,http://dbpedia.org/resource/French_submarine_Aréthuse_(1916),http://dbpedia.org/resource/HMS_Undaunted_(1792) http://dbpedia.org/resource/French_frigate_Arethuse_(1792) http://dbpedia.org/resource/French_frigate_Aréthuse_(1792) http://dbpedia.org/resource/HMS_Arethusa_(1793) http://dbpedia.org/resource/HMS_Arethuse_(1793)
+0,8,French frigate Étoile,http://dbpedia.org/resource/French_frigate_Ventôse,http://dbpedia.org/resource/French_frigate_Étoile_(1813) http://dbpedia.org/resource/HMS_Topaze_(1814) http://dbpedia.org/resource/French_frigate_Etoile_(1813)
+0,12,French brig Nisus,http://dbpedia.org/resource/French_brig_Palinure_(1804),http://dbpedia.org/resource/French_brig_Nisus_(1805)

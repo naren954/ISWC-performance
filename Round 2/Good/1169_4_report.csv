@@ -1,0 +1,7 @@
+F1: 0.82759,Precision: 0.82759,Recall: 0.82759,,
+Col,Row,Value,Submitted URI,Correct URI's
+4,8,Love Me Do,http://dbpedia.org/resource/Love_Me_(Justin_Bieber_song),http://dbpedia.org/resource/Love_me_do http://dbpedia.org/resource/Love_Me_Do_(The_Beatles_song) http://dbpedia.org/resource/Love_Me_Do
+4,16,Yellow Submarine,http://dbpedia.org/resource/Yellow_Submarine_(album),http://dbpedia.org/resource/Yellow_Submarine_(song) http://dbpedia.org/resource/Yellow_Submarine_(Song) http://dbpedia.org/resource/We_all_live_in_a_yellow_submarine
+4,19,We Can Work It Out,http://dbpedia.org/resource/We_Can_Work_It_Out_(Sweetbox_song),http://dbpedia.org/resource/We_Can't_Work_It_Out http://dbpedia.org/resource/We_can_work_it_out http://dbpedia.org/resource/We_Can_Work_It_Out http://dbpedia.org/resource/We_Can_Work_It_Out_(The_Beatles_song)
+4,23,Can't Buy Me Love,http://dbpedia.org/resource/Can't_Buy_My_Love,http://dbpedia.org/resource/Can’t_Buy_Me_Love http://dbpedia.org/resource/Can't_Buy_Me_Love_(The_Beatles_song) http://dbpedia.org/resource/Can't_Buy_me_Love http://dbpedia.org/resource/Can't_buy_me_love http://dbpedia.org/resource/Can't_Buy_Me_Love
+4,29,Radio,http://dbpedia.org/resource/Radio_Radio_Radio,http://dbpedia.org/resource/Radio_(The_Corrs_song)

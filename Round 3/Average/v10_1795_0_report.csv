@@ -1,0 +1,10 @@
+F1: 0.70370,Precision: 0.70370,Recall: 0.70370,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,Y. Mikimoto,http://dbpedia.org/resource/Y,http://dbpedia.org/resource/Mikimoto_Yuji http://dbpedia.org/resource/Yuji_Mikimoto http://dbpedia.org/resource/Yûji_Mikimoto http://dbpedia.org/resource/Yūji_Mikimoto
+0,4,Y. Jinguji,http://dbpedia.org/resource/Y,http://dbpedia.org/resource/Yayoi_Jinguji http://dbpedia.org/resource/Jinguji_Yayoi
+0,6,Y. Mikimoto,http://dbpedia.org/resource/Y,http://dbpedia.org/resource/Mikimoto_Yuji http://dbpedia.org/resource/Yuji_Mikimoto http://dbpedia.org/resource/Yûji_Mikimoto http://dbpedia.org/resource/Yūji_Mikimoto
+0,9,T. Ichiryūsai,http://dbpedia.org/resource/T,http://dbpedia.org/resource/鈴木みえ http://dbpedia.org/resource/Mie_Suzuki http://dbpedia.org/resource/Teiyū_Ichiryūsai http://dbpedia.org/resource/Teiyu_Ichiryusai
+0,10,T. Kirimoto,http://dbpedia.org/resource/T,http://dbpedia.org/resource/Takuya_Kirimoto
+0,12,S. Kashii,http://dbpedia.org/resource/Yuu_Kashii,http://dbpedia.org/resource/Shoto_Kashii http://dbpedia.org/resource/Shouto_Kashii http://dbpedia.org/resource/Shōto_Kashii
+0,14,S. Kashii,http://dbpedia.org/resource/Yuu_Kashii,http://dbpedia.org/resource/Shoto_Kashii http://dbpedia.org/resource/Shouto_Kashii http://dbpedia.org/resource/Shōto_Kashii
+0,22,M. Hoshikawa,http://dbpedia.org/resource/Mao_Ichimichi,http://dbpedia.org/resource/Mai_Hoshikawa http://dbpedia.org/resource/Hoshikawa_Mai

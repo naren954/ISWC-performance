@@ -1,0 +1,5 @@
+F1: 0.82353,Precision: 0.82353,Recall: 0.82353,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Fort McAllister,http://dbpedia.org/resource/Fort_McAllister_Historic_State_Park,http://dbpedia.org/resource/Fort_McAllister
+0,2,Fort Massachusetts,"http://dbpedia.org/resource/Fort_Stevens_(Washington,_D.C.)",http://dbpedia.org/resource/Fort_Massachusetts_(Mississippi)
+0,10,Fort C. F. Smith,"http://dbpedia.org/resource/Fort_C._F._Smith_(Arlington,_Virginia)","http://dbpedia.org/resource/Fort_C._F._Smith_(Fort_Smith,_Montana) http://dbpedia.org/resource/Fort_C._F._Smith_Historic_District_(Fort_Smith,_Montana)"

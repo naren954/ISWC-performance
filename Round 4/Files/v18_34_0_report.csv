@@ -1,0 +1,4 @@
+"F1: 0.85714","Precision: 0.85714","Recall: 0.85714"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","3","T. Campbell","http://dbpedia.org/resource/Terrance_Campbell","http://dbpedia.org/resource/Tilden_Campbell"
+"0","4","S. Smith","http://dbpedia.org/resource/Stanford_Smith","http://dbpedia.org/resource/Sid_Smith_(American_football_coach)"

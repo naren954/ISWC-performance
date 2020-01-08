@@ -1,0 +1,4 @@
+F1: 0.33333,Precision: 0.33333,Recall: 0.33333,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,0,Western Conference[31],http://dbpedia.org/resource/Major_League_Soccer,http://dbpedia.org/resource/Western_Conference_(WHL)
+0,9,Chilliwack Bruins,http://dbpedia.org/resource/Chilliwack_Bruins_(BCJHL),http://dbpedia.org/resource/Chilliwack_Bruins http://dbpedia.org/resource/Chiliwack_Bruins

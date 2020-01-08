@@ -1,0 +1,67 @@
+F1: 0.01515,Precision: 0.01515,Recall: 0.01515,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Manvi,http://dbpedia.org/resource/Manvi,http://sws.geonames.org/8224514/
+0,2,Basavakalyan,http://dbpedia.org/resource/Basavakalyan,http://sws.geonames.org/8224510/
+0,3,Chincholi,http://dbpedia.org/resource/Chincholi,http://sws.geonames.org/8224505/
+0,4,Heggadadevana kote,http://dbpedia.org/resource/Heggadadevana_kote,http://sws.geonames.org/8224504/
+0,5,Tirumakudal Narsipur,http://dbpedia.org/resource/Tirumakudal_Narsipur,http://sws.geonames.org/8224503/
+0,6,Udupi,http://dbpedia.org/resource/Udupi,http://sws.geonames.org/8224498/
+0,7,Belthangady,http://dbpedia.org/resource/Belthangady,http://sws.geonames.org/8224497/
+0,8,Arsikere,http://dbpedia.org/resource/Arsikere,http://sws.geonames.org/8224489/
+0,9,Channarayapatna,http://dbpedia.org/resource/Channarayapatna,http://sws.geonames.org/8224488/
+0,10,Madikeri,http://dbpedia.org/resource/Madikeri,http://sws.geonames.org/8224482/
+0,11,Kollegal,http://dbpedia.org/resource/Kollegal,http://sws.geonames.org/8224481/
+0,12,Hunsur,http://dbpedia.org/resource/Hunsur,http://sws.geonames.org/8224477/
+0,13,Ankola,http://dbpedia.org/resource/Ankola,http://sws.geonames.org/8224421/
+0,14,Mudhol,http://dbpedia.org/resource/Mudhol,http://sws.geonames.org/8224418/
+0,15,Bailhongal,http://dbpedia.org/resource/Bailhongal,http://sws.geonames.org/8224409/
+0,16,Sidlaghatta,http://dbpedia.org/resource/Sidlaghatta,http://sws.geonames.org/8224367/
+0,17,Holalkere,http://dbpedia.org/resource/Holalkere,http://sws.geonames.org/8224365/
+0,18,Challakere,http://dbpedia.org/resource/Challakere,http://sws.geonames.org/8224364/
+0,19,Lingasugur,http://dbpedia.org/resource/Lingasugur,http://sws.geonames.org/8224356/
+0,20,Raichur,http://dbpedia.org/resource/Raichur,http://sws.geonames.org/8224354/
+0,21,Jevargi,http://dbpedia.org/resource/Jevargi,http://sws.geonames.org/8224351/
+0,22,Yadgir,http://dbpedia.org/resource/Yadagiri,http://sws.geonames.org/8224350/
+0,23,"Sagara, Karnataka","http://dbpedia.org/resource/Sagara,_Karnataka",http://sws.geonames.org/8224343/
+0,24,Battagram District,http://dbpedia.org/resource/Battagram_District,http://sws.geonames.org/8224052/
+0,25,Belgrade,http://dbpedia.org/resource/Belgrade,http://sws.geonames.org/8199669/
+0,26,Pinsk,http://dbpedia.org/resource/Pinsk,http://sws.geonames.org/8161569/
+0,28,Toronto,http://dbpedia.org/resource/Toronto,http://sws.geonames.org/8133394/
+0,29,Eslöv,http://dbpedia.org/resource/Eslöv,http://sws.geonames.org/8132216/
+0,30,"Eastvale, California","http://dbpedia.org/resource/Eastvale,_California",http://sws.geonames.org/8096217/
+0,31,Arxan,http://dbpedia.org/resource/Arxan,http://sws.geonames.org/8054538/
+0,32,"Kisii, Kenya","http://dbpedia.org/resource/Kisii,_Kenya",http://sws.geonames.org/8051335/
+0,33,"West Hills, Los Angeles",http://dbpedia.org/resource/Los_Angeles,http://sws.geonames.org/8030162/
+0,34,"Dongxing, Guangxi","http://dbpedia.org/resource/Dongxing,_Guangxi",http://sws.geonames.org/8021215/
+0,35,Tindivanam,http://dbpedia.org/resource/Tindivanam,http://sws.geonames.org/8015352/
+0,36,Póvoa de Varzim,http://dbpedia.org/resource/Póvoa_de_Varzim,http://sws.geonames.org/8014137/
+0,37,Agualva-Cacém,http://dbpedia.org/resource/Agualva-Cacém,http://sws.geonames.org/8012556/
+0,38,Póvoa de Varzim,http://dbpedia.org/resource/Póvoa_de_Varzim,http://sws.geonames.org/8010588/
+0,39,Banatski Dvor,http://dbpedia.org/resource/Banatski_Dvor,http://sws.geonames.org/792946/
+0,40,Belgrade,http://dbpedia.org/resource/Belgrade,http://sws.geonames.org/792680/
+0,41,Deçan,http://dbpedia.org/resource/Deçan,http://sws.geonames.org/791580/
+0,42,Elez Han,http://dbpedia.org/resource/Elez_Han,http://sws.geonames.org/791539/
+0,43,Dragaš,http://dbpedia.org/resource/Dragaš,http://sws.geonames.org/791122/
+0,44,Dragaš,http://dbpedia.org/resource/Dragaš,http://sws.geonames.org/791121/
+0,45,"Kandi, Benin","http://dbpedia.org/resource/Kandi,_Benin",http://sws.geonames.org/7911056/
+0,46,Jayapura,http://dbpedia.org/resource/Jayapura,http://sws.geonames.org/7910936/
+0,47,Al-Salt,http://dbpedia.org/resource/Al-Salt,http://sws.geonames.org/7910931/
+0,48,Jomsom,http://dbpedia.org/resource/Jomsom,http://sws.geonames.org/7910491/
+0,49,Fatehgarh Sahib,http://dbpedia.org/resource/Fatehgarh_Sahib,http://sws.geonames.org/7909874/
+0,50,"Devadurga, India","http://dbpedia.org/resource/Devadurga,_India",http://sws.geonames.org/7909857/
+0,51,Ečka,http://dbpedia.org/resource/Ečka,http://sws.geonames.org/790847/
+0,52,Gevgelija,http://dbpedia.org/resource/Gevgelija,http://sws.geonames.org/790744/
+0,53,Hetin,http://dbpedia.org/resource/Hetin,http://sws.geonames.org/790053/
+0,54,Istok,http://dbpedia.org/resource/Istok,http://sws.geonames.org/789996/
+0,55,Istok,http://dbpedia.org/resource/Istok,http://sws.geonames.org/789995/
+0,56,Jagodina,http://dbpedia.org/resource/Jagodina,http://sws.geonames.org/789923/
+0,57,Kaçanik,http://dbpedia.org/resource/Kaçanik,http://sws.geonames.org/789721/
+0,58,Klina,http://dbpedia.org/resource/Klina,http://sws.geonames.org/789455/
+0,59,Klina,http://dbpedia.org/resource/Klina,http://sws.geonames.org/789453/
+0,60,Kosovo Polje,http://dbpedia.org/resource/Kosovo_Polje,http://sws.geonames.org/789228/
+0,61,Kruševo,http://dbpedia.org/resource/Kruševo_(Novi_Pazar),http://sws.geonames.org/788961/
+0,62,Kumanovo,"http://dbpedia.org/resource/Kumanovo,_Bulgaria",http://sws.geonames.org/788886/
+0,63,Leposavić,http://dbpedia.org/resource/Leposavić,http://sws.geonames.org/788731/
+0,64,Leposavić,http://dbpedia.org/resource/Leposavić,http://sws.geonames.org/788730/
+0,65,Lipljan,http://dbpedia.org/resource/Lipljan,http://sws.geonames.org/788652/
+0,66,Lipljan,http://dbpedia.org/resource/Lipljan,http://sws.geonames.org/788651/

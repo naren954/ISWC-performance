@@ -1,0 +1,8 @@
+F1: 0.70000,Precision: 0.70000,Recall: 0.70000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,5,R. Martínez,http://dbpedia.org/resource/Raúl_Martínez_(footballer),http://dbpedia.org/resource/Rogelio_Martínez_(baseball) http://dbpedia.org/resource/Rogelio_Martinez_(baseball)
+0,8,R. Miller,http://dbpedia.org/resource/Ralph_Miller_(footballer),http://dbpedia.org/resource/Rod_Miller_(baseball)
+0,13,R. Beck,http://dbpedia.org/resource/Ray_Beck,http://dbpedia.org/resource/Rodney_Beck http://dbpedia.org/resource/Rod_Beck http://dbpedia.org/resource/Rodney_Roy_Beck
+0,14,R. Stone,http://dbpedia.org/resource/Richard_Stone_(composer),http://dbpedia.org/resource/Rocky_Stone_(baseball)
+0,15,R. Nelson,http://dbpedia.org/resource/Red_Nelson,http://dbpedia.org/resource/Rocky_Nelson
+0,17,R. Roberts,"http://dbpedia.org/resource/Robert_Roberts_(footballer,_born_1864)",http://dbpedia.org/resource/Robin_Roberts_(baseball) http://dbpedia.org/resource/Robin_Roberts_(baseball_player)

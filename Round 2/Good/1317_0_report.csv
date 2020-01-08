@@ -1,0 +1,4 @@
+F1: 0.87500,Precision: 0.87500,Recall: 0.87500,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,J. Williams,"http://dbpedia.org/resource/Gareth_Williams,_Baron_Williams_of_Mostyn",http://dbpedia.org/resource/Jane_Williams_(Ysgafell)
+0,11,E. Williams,http://dbpedia.org/resource/Edgar_Williams,http://dbpedia.org/resource/Eliseus_Williams_(Eifion_Wyn) http://dbpedia.org/resource/Eliseus_Williams http://dbpedia.org/resource/Eifion_Wyn

@@ -1,0 +1,3 @@
+F1: 0.80000,Precision: 0.80000,Recall: 0.80000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,The Best Job In The World,http://dbpedia.org/resource/The_Best_Job_in_the_World_(film),http://dbpedia.org/resource/The_Best_Job_in_the_World_(disambiguation) http://dbpedia.org/resource/The_Best_Job_in_the_World http://dbpedia.org/resource/Le_Plus_Beau_Métier_du_monde http://dbpedia.org/resource/Best_job_in_the_world http://dbpedia.org/resource/The_Best_Job_In_The_World

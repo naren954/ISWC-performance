@@ -1,0 +1,8 @@
+F1: 0.68421,Precision: 0.68421,Recall: 0.68421,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,8,A. E. Orr,http://dbpedia.org/resource/John_Boyd_Orr,http://dbpedia.org/resource/Alexander_Ector_Orr
+0,9,A. Gonzaga,http://dbpedia.org/resource/Pedro_I_of_Brazil,http://dbpedia.org/resource/Cathy_Gonzaga http://dbpedia.org/resource/Catherine_Gonzaga http://dbpedia.org/resource/Alex_Gonzaga
+0,10,A. Bulgheroni,http://dbpedia.org/resource/Carlos_Bulgheroni,http://dbpedia.org/resource/Alejandro_Bulgheroni
+0,14,A. Akhtar,http://dbpedia.org/resource/Farhan_Akhtar,http://dbpedia.org/resource/Adhuna_Akhtar
+0,16,A. Johnson,http://dbpedia.org/resource/Dwayne_Johnson,http://dbpedia.org/resource/Abigail_Johnson http://dbpedia.org/resource/Abigail_P._Johnson http://dbpedia.org/resource/Abigail_Pierrepont_Johnson
+0,17,Aadi,http://dbpedia.org/resource/Adi_Shankara,http://dbpedia.org/resource/Aditya_Pudipeddi http://dbpedia.org/resource/Aadi_(Telugu_actor)

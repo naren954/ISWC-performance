@@ -1,0 +1,5 @@
+F1: 0.40000,Precision: 0.40000,Recall: 0.40000,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,3,Chara,http://dbpedia.org/resource/Zdeno_Chára,http://dbpedia.org/resource/Fernando_Agostinho_da_Costa
+2,5,Job,http://dbpedia.org/resource/Joseph-Désiré_Job,http://dbpedia.org/resource/Ricardo_Job_Estévão
+2,7,MabinÃ¡,http://dbpedia.org/resource/Mabiná,http://dbpedia.org/resource/José_Pedro_Alberto

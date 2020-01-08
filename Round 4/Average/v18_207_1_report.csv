@@ -1,0 +1,12 @@
+F1: 0.74359,Precision: 0.74359,Recall: 0.74359,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,2,S. Nowak-Trębacka,http://dbpedia.org/resource/Sebastian_Nowak,http://dbpedia.org/resource/Sylwia_Novak http://dbpedia.org/resource/Sylwia_Nowak-Trebacka http://dbpedia.org/resource/Silwia_Nowak http://dbpedia.org/resource/Sylwia_Nowak http://dbpedia.org/resource/Sylwia_Nowak-Trębacka
+1,4,T. Dickson,http://dbpedia.org/resource/Tommy_Dickson,http://dbpedia.org/resource/Tom_Dickson
+1,14,S. Baboshyn,,http://dbpedia.org/resource/Slav_Baboshin http://dbpedia.org/resource/Slav_Baboshyn
+1,15,L. Nichol,http://dbpedia.org/resource/Ralph_Nichols,http://dbpedia.org/resource/Lori_Nicol http://dbpedia.org/resource/Lori_Nichol
+1,17,D. Wilson,http://dbpedia.org/resource/Tracy_Wilson,http://dbpedia.org/resource/David_Wilson_(figure_skating) http://dbpedia.org/resource/David_Wilson_(figure_skater)
+1,19,T. Dickson,http://dbpedia.org/resource/Tommy_Dickson,http://dbpedia.org/resource/Tom_Dickson
+1,24,M. Zoueva,http://dbpedia.org/resource/M,http://dbpedia.org/resource/Marina_Zuevea http://dbpedia.org/resource/Marina_Zueva http://dbpedia.org/resource/Marina_Zoueva http://dbpedia.org/resource/Marina_Zuyeva
+1,26,S. W. Barth,http://dbpedia.org/resource/Karl_Barth,http://dbpedia.org/resource/Susan_Wynne http://dbpedia.org/resource/Susie_Wynne http://dbpedia.org/resource/Susan_Wynne_Barth http://dbpedia.org/resource/Susie_Wynne_Barth
+1,32,A. Vaturi,http://dbpedia.org/resource/Simone_Vaturi,http://dbpedia.org/resource/Andrea_Vaturi
+1,39,D. Wilson,http://dbpedia.org/resource/Tracy_Wilson,http://dbpedia.org/resource/David_Wilson_(figure_skating) http://dbpedia.org/resource/David_Wilson_(figure_skater)

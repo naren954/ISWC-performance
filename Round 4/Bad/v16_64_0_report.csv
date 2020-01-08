@@ -1,0 +1,10 @@
+F1: 0.50000,Precision: 0.50000,Recall: 0.50000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Bole,http://dbpedia.org/resource/Bread,http://dbpedia.org/resource/Terra_rosa_(colour) http://dbpedia.org/resource/Bole_(color)
+0,2,Blue-green,http://dbpedia.org/resource/Blue,http://dbpedia.org/resource/Bondi_Blue http://dbpedia.org/resource/Green_Blue http://dbpedia.org/resource/Bluegreen http://dbpedia.org/resource/Bondi_blue http://dbpedia.org/resource/Green-blue http://dbpedia.org/resource/Blue-green http://dbpedia.org/resource/Blue_green
+0,4,Bleu de France,http://dbpedia.org/resource/Royal_blue,http://dbpedia.org/resource/Bleu_De_France http://dbpedia.org/resource/Bleu_de_France_(color) http://dbpedia.org/resource/Blue_de_France_(color) http://dbpedia.org/resource/Bleu_de_France_(colour)
+0,7,Baker-Miller Pink,http://dbpedia.org/resource/Marilyn_Monroe,http://dbpedia.org/resource/Baker-Miller_Pink http://dbpedia.org/resource/Schauss_Pink http://dbpedia.org/resource/P-618
+0,9,Aqua,http://dbpedia.org/resource/Water,http://dbpedia.org/resource/Aqua_(color) http://dbpedia.org/resource/Aqua_(colour) http://dbpedia.org/resource/Aqua_color
+0,11,Android green,http://dbpedia.org/resource/Android_(operating_system),http://dbpedia.org/resource/Android_green
+0,14,Alizarin crimson,http://dbpedia.org/resource/Alizarin,http://dbpedia.org/resource/Alizarin_crimson_(color) http://dbpedia.org/resource/Alizarine_crimson_(color)
+0,16,Acid green,http://dbpedia.org/resource/Amanda_Green,http://dbpedia.org/resource/Acid_green

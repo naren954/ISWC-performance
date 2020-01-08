@@ -1,0 +1,35 @@
+F1: 0.54167,Precision: 0.54167,Recall: 0.54167,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,Anthony,http://dbpedia.org/resource/Anthony_Perkins,http://dbpedia.org/resource/Anthony_(film_editor) http://dbpedia.org/resource/Anthony_(editor) http://dbpedia.org/resource/Editor_Anthony
+1,2,Anthony,http://dbpedia.org/resource/Anthony_Perkins,http://dbpedia.org/resource/Anthony_(film_editor) http://dbpedia.org/resource/Anthony_(editor) http://dbpedia.org/resource/Editor_Anthony
+1,3,B. Lenin,http://dbpedia.org/resource/Vladimir_Lenin,http://dbpedia.org/resource/Bhimsingh_Lenin http://dbpedia.org/resource/B._Lenin
+1,4,V. T. Vijayan,http://dbpedia.org/resource/O._V._Vijayan,http://dbpedia.org/resource/V._T._Vijayan http://dbpedia.org/resource/V.T.Vijayan
+1,6,Anthony,http://dbpedia.org/resource/Anthony_Perkins,http://dbpedia.org/resource/Anthony_(film_editor) http://dbpedia.org/resource/Anthony_(editor) http://dbpedia.org/resource/Editor_Anthony
+1,7,M. Walsh,http://dbpedia.org/resource/Marty_Walsh_(ice_hockey),http://dbpedia.org/resource/Martin_Walsh_(film_editor)
+1,8,K. V. Rao,http://dbpedia.org/resource/Kotagiri_Vidyadhara_Rao,http://dbpedia.org/resource/Kotagiri_Venkateswara_Rao http://dbpedia.org/resource/Kotagiri_Venkateshwara_Rao
+1,10,Krishnan-Panju,http://dbpedia.org/resource/Yogendran_Khrishnan,http://dbpedia.org/resource/R._Krishnan_(director) http://dbpedia.org/resource/S._Panju http://dbpedia.org/resource/Krishnan–Panju http://dbpedia.org/resource/Krishnan-Panju http://dbpedia.org/resource/Krishnan_Panju
+1,12,B. Lenin,http://dbpedia.org/resource/Vladimir_Lenin,http://dbpedia.org/resource/Bhimsingh_Lenin http://dbpedia.org/resource/B._Lenin
+1,13,H. Keller,http://dbpedia.org/resource/Helen_Keller,http://dbpedia.org/resource/Harry_Keller
+1,14,P. Prabhakar,http://dbpedia.org/resource/Spider-Man,http://dbpedia.org/resource/Praveen_Prabhakar
+1,15,J. Tintori,http://dbpedia.org/resource/Lilian_Tintori,http://dbpedia.org/resource/John_Tintori
+1,19,D. Buchwald,http://dbpedia.org/resource/Art_Buchwald,http://dbpedia.org/resource/David_buchwald http://dbpedia.org/resource/The_Enemy_(film_company) http://dbpedia.org/resource/Dave_Buchwald http://dbpedia.org/resource/Bill_From_RNOC http://dbpedia.org/resource/Bill_from_rnoc
+1,21,J. Cassidy,http://dbpedia.org/resource/Jack_Cassidy,http://dbpedia.org/resource/Jay_Lash_Cassidy http://dbpedia.org/resource/Jay_Cassidy
+1,24,R. Lawrence,http://dbpedia.org/resource/Ernest_Lawrence,http://dbpedia.org/resource/Robert_Lawrence_(film_editor)
+1,27,K. Horstmann,http://dbpedia.org/resource/Sophie_Wörishöffer,http://dbpedia.org/resource/Ken_Horstmann
+1,28,G. Hinz-Nischwitz,http://dbpedia.org/resource/Georg_Hainz,http://dbpedia.org/resource/Gertrud_Hinz-Nischwitz http://dbpedia.org/resource/Gertrud_Hinz
+1,30,R. Lawrence,http://dbpedia.org/resource/Ernest_Lawrence,http://dbpedia.org/resource/Robert_Lawrence_(film_editor)
+1,33,B. Butler,http://dbpedia.org/resource/Richard_Butler_(Australian_politician),http://dbpedia.org/resource/Bill_Butler_(cinematographer)
+1,37,C. H. Williamson,http://dbpedia.org/resource/Charles_C._Williamson,http://dbpedia.org/resource/Cecil_H._Williamson
+1,39,V. Deseine,http://dbpedia.org/resource/Louis-Pierre_Deseine,http://dbpedia.org/resource/Valérie_Deseine http://dbpedia.org/resource/Valerie_Deseine
+1,42,R. Meyer,http://dbpedia.org/resource/Eduard_Meyer,http://dbpedia.org/resource/Russ_Meyer_filmography http://dbpedia.org/resource/Russ_Meyer
+1,48,A. Roberts,http://dbpedia.org/resource/Julia_Roberts,http://dbpedia.org/resource/Arthur_Roberts_(editor)
+1,53,L. Troch,http://de.dbpedia.org/resource/Bernhard_Troch,http://dbpedia.org/resource/Ludo_Troch
+1,54,B. Lenin,http://dbpedia.org/resource/Vladimir_Lenin,http://dbpedia.org/resource/Bhimsingh_Lenin http://dbpedia.org/resource/B._Lenin
+1,55,J. Clarke,http://dbpedia.org/resource/John_Clarke_(Baptist_minister),http://dbpedia.org/resource/Julian_Clarke
+1,57,V. T. Vijayan,http://dbpedia.org/resource/O._V._Vijayan,http://dbpedia.org/resource/V._T._Vijayan http://dbpedia.org/resource/V.T.Vijayan
+1,58,R. M. Leeds,http://dbpedia.org/resource/Andrea_Leeds,http://dbpedia.org/resource/Robert_M._Leeds
+1,61,M. d. Ochoa,http://es.dbpedia.org/resource/Armando_Guevara_Ochoa,http://dbpedia.org/resource/Margarita_de_Ochoa
+1,64,T. Daly,http://dbpedia.org/resource/Tyne_Daly,http://dbpedia.org/resource/Tom_Daly_(producer) http://dbpedia.org/resource/Tom_Daly_(filmmaker)
+1,65,J. Hyams,http://dbpedia.org/resource/Joe_Hyams,http://dbpedia.org/resource/John_Hyams
+1,66,S. Monson,http://dbpedia.org/resource/Walter_Monson,http://dbpedia.org/resource/Shaun_Monson
+1,71,J. Ballantine,http://dbpedia.org/resource/Bill_Ballantine_(biologist),http://dbpedia.org/resource/Jason_Ballantine

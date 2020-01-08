@@ -1,0 +1,17 @@
+F1: 0.78571,Precision: 0.78571,Recall: 0.78571,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,7,L. Watkins,http://dbpedia.org/resource/Larry_Watkins,http://dbpedia.org/resource/Leonard_Watkins
+0,12,K. Jones,http://dbpedia.org/resource/Kenyon_Jones_(basketball),http://dbpedia.org/resource/Kingsley_Jones_(Welsh_rugby_player) http://dbpedia.org/resource/Kingsley_Jones_(Welsh_rugby_union_prop)
+0,13,K. Jones,http://dbpedia.org/resource/Kenyon_Jones_(basketball),http://dbpedia.org/resource/Kenyon_Jones
+0,14,K. Jones,http://dbpedia.org/resource/Kenyon_Jones_(basketball),"http://dbpedia.org/resource/Ken_Jones_(rugby_union,_born_1921) http://dbpedia.org/resource/Ken_Jones_(rugby_player_born_1921)"
+0,21,J. Taylor,http://dbpedia.org/resource/Jack_Taylor_(1900s_pitcher),http://dbpedia.org/resource/Johnny_Taylor_(cricketer)
+0,22,J. Hammond,http://dbpedia.org/resource/Jonathan_Hammond_(footballer),http://dbpedia.org/resource/Johnny_Hammond_(rugby_union) http://dbpedia.org/resource/Johnny_Hammond_(rugby_player)
+0,37,J. Batten,http://dbpedia.org/resource/Bert_Batten,http://dbpedia.org/resource/John_Batten
+0,39,J. Wylie,"http://dbpedia.org/resource/John_Wylie_(footballer,_born_1854)",http://dbpedia.org/resource/Jim_Wylie
+0,40,J. Watt,"http://dbpedia.org/resource/Jack_Watt_(footballer,_born_1890)",http://dbpedia.org/resource/Jim_Watt_(rugby_union_player) http://dbpedia.org/resource/Jim_Watt_(rugby_union)
+0,45,J. Young,http://dbpedia.org/resource/Joe_Young_(safety),http://dbpedia.org/resource/Jeff_Young_(rugby_union) http://dbpedia.org/resource/Jeff_Young_(rugby_player)
+0,46,J. Butterfield,http://dbpedia.org/resource/Jack_Butterfield_(footballer),http://dbpedia.org/resource/Jeffrey_Butterfield http://dbpedia.org/resource/Jeff_Butterfield
+0,52,J. Hughes,http://dbpedia.org/resource/Jimmy_Hughes_(footballer),http://dbpedia.org/resource/James_Hughes_(rugby_union) http://dbpedia.org/resource/James_Hughes_(rugby)
+0,58,J. Beith,http://dbpedia.org/resource/Angus_Beith,http://dbpedia.org/resource/Jackie_Beith
+0,62,J. Kelly,"http://dbpedia.org/resource/Jimmy_Kelly_(footballer,_born_1907)",http://dbpedia.org/resource/Jack_Kelly_(rugby_union)
+0,63,J. Jenkins,http://dbpedia.org/resource/Jack_Jenkins_(American_football),http://dbpedia.org/resource/Jack_Jenkins_(rugby_player)

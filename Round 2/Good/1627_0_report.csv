@@ -1,0 +1,16 @@
+F1: 0.91515,Precision: 0.91515,Recall: 0.91515,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,4,M. MacDonald,http://dbpedia.org/resource/Malcolm_Macdonald,http://dbpedia.org/resource/Malky_McDonald http://dbpedia.org/resource/Malky_MacDonald http://dbpedia.org/resource/Malcolm_MacDonald_(Scottish_footballer)
+0,8,M. Evans,"http://dbpedia.org/resource/Mickey_Evans_(footballer,_born_1947)",http://dbpedia.org/resource/Mal_Evans
+0,11,M. d. Almeida,http://dbpedia.org/resource/Murilo_de_Almeida,http://dbpedia.org/resource/Mabi_de_Almeida
+0,14,M. Wilson,http://dbpedia.org/resource/Mitch_Wilson,http://dbpedia.org/resource/Mário_Wilson http://dbpedia.org/resource/Mario_Wilson
+0,71,L. Véron,http://dbpedia.org/resource/Marcelo_Verón,http://dbpedia.org/resource/Louis_Veron http://dbpedia.org/resource/Louis_Désiré_Véron http://dbpedia.org/resource/Louis_Desiro_Veron http://dbpedia.org/resource/Louis_Véron http://dbpedia.org/resource/Louis-Desire_Veron http://dbpedia.org/resource/Louis-Désiré_Véron http://dbpedia.org/resource/Louis-Désiré http://dbpedia.org/resource/Louis_Desiré_Veron
+0,93,L. Smith,http://dbpedia.org/resource/Lionel_Smith_(footballer),http://dbpedia.org/resource/Lionel_Smith
+0,97,L. Simmons,http://dbpedia.org/resource/Lionel_Simmons,http://dbpedia.org/resource/Lew_Simmons
+0,98,L. Phelan,http://dbpedia.org/resource/Leeyon_Phelan,http://dbpedia.org/resource/Lew_Phelan
+0,106,L. Jones,http://dbpedia.org/resource/Lot_Jones,http://dbpedia.org/resource/Leslie_Jones_(footballer)
+0,107,L. Graham,http://dbpedia.org/resource/Len_Graham_(footballer),http://dbpedia.org/resource/Leslie_Graham_(footballer)
+0,109,L. Smith,http://dbpedia.org/resource/Lionel_Smith_(footballer),"http://dbpedia.org/resource/Les_Smith_(footballer_born_1918) http://dbpedia.org/resource/Leslie_Smith_(footballer_born_1918) http://dbpedia.org/resource/Les_Smith_(footballer,_born_1918)"
+0,114,L. Green,http://dbpedia.org/resource/Larry_Green,http://dbpedia.org/resource/Les_Green
+0,145,L. Furniss,http://dbpedia.org/resource/Fred_Furniss,http://dbpedia.org/resource/Lawrence_Furniss
+0,149,L. Brown,http://dbpedia.org/resource/Lloyd_Brown_(baseball),http://dbpedia.org/resource/Laurie_Brown_(UK_football) http://dbpedia.org/resource/Laurie_Brown_(footballer)

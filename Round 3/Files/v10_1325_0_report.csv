@@ -1,0 +1,7 @@
+"F1: 0.96875","Precision: 0.96875","Recall: 0.96875"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","6","S/2000","http://dbpedia.org/resource/Windows_2000","http://dbpedia.org/resource/S/2000_(1998_WW31)_1"
+"0","15","Pan","http://dbpedia.org/resource/Panzhou","http://dbpedia.org/resource/S/1981_S13 http://dbpedia.org/resource/Saturn_XVIII http://dbpedia.org/resource/S/1981_S_13 http://dbpedia.org/resource/Pan_(moon)"
+"0","19","Leda","http://dbpedia.org/resource/38_Leda","http://dbpedia.org/resource/Jupiter_XIII http://dbpedia.org/resource/Leda_(moon) http://dbpedia.org/resource/Leda_(astronomy)"
+"0","24","Francisco","http://dbpedia.org/resource/San_Francisco","http://dbpedia.org/resource/Uranus_XXII http://dbpedia.org/resource/S/2001_U_3 http://dbpedia.org/resource/S/2001_U3 http://dbpedia.org/resource/Francisco_(moon)"
+"0","147","1993 RP","http://dbpedia.org/resource/(65407)_2002_RP120","http://dbpedia.org/resource/1993_RP"

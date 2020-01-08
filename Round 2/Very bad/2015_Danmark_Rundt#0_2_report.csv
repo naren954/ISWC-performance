@@ -1,0 +1,7 @@
+F1: 0.16667,Precision: 0.16667,Recall: 0.16667,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,1,Struer-Holstebro,http://dbpedia.org/resource/Holstebro_station,"http://dbpedia.org/resource/Struer,_Denmark http://dbpedia.org/resource/City_of_Struer http://dbpedia.org/resource/UN/LOCODE:DKSTR"
+2,2,RingkÃ¸bing-Aarhus,http://dbpedia.org/resource/Aarhus,http://dbpedia.org/resource/Ringkøbing
+2,3,Vejle-Vejle,http://dbpedia.org/resource/Vejle_Municipality,"http://dbpedia.org/resource/Vejle,_Denmark http://dbpedia.org/resource/Vejle_(city) http://dbpedia.org/resource/UN/LOCODE:DKVEJ http://dbpedia.org/resource/Vejle http://dbpedia.org/resource/Town_of_Vejle http://dbpedia.org/resource/Vejle_(disambiguation)"
+2,4,Slagelse-FrederiksvÃ¦rk,http://dbpedia.org/resource/Slagelse_Municipality,http://dbpedia.org/resource/Slagelse_Station http://dbpedia.org/resource/Slagelse http://dbpedia.org/resource/UN/LOCODE:DKSLG
+2,6,HillerÃ¸d-Frederiksberg,http://dbpedia.org/resource/Árni_Frederiksberg,http://dbpedia.org/resource/Hillerød

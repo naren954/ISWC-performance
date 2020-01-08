@@ -1,0 +1,6 @@
+F1: 0.33333,Precision: 0.33333,Recall: 0.33333,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,1,The Conformist (Il conformista),http://dbpedia.org/resource/The_Conformist_(1970_film),http://dbpedia.org/resource/Il_conformista http://dbpedia.org/resource/Il_Conformista http://dbpedia.org/resource/The_Conformist
+3,2,The Garden of the Finzi-Continis (Il giardino dei Finzi-Contini),http://dbpedia.org/resource/The_Garden_of_the_Finzi-Continis_(film),http://dbpedia.org/resource/Il_giardino_dei_Finzi_Contini http://dbpedia.org/resource/Il_Giardino_dei_Finzi-Contini http://dbpedia.org/resource/The_Garden_of_the_Finzi-Continis http://dbpedia.org/resource/Garden_of_the_Finzi_Continis http://dbpedia.org/resource/Il_giardino_dei_Finzi-Contini http://dbpedia.org/resource/The_Garden_of_the_Finzi_Continis
+3,3,Scent of a Woman (Profumo di donna),http://dbpedia.org/resource/Scent_of_a_Woman_(1992_film),http://dbpedia.org/resource/Scent_of_a_Woman_(1975_film) http://dbpedia.org/resource/Scent_of_a_Woman_(1974_film) http://dbpedia.org/resource/Profumo_di_donna http://dbpedia.org/resource/That_Female_Scent
+3,6,The Postman (Il postino),http://dbpedia.org/resource/The_Postman_(film),http://dbpedia.org/resource/Il_postino http://dbpedia.org/resource/Il_Postino_(The_Postman) http://dbpedia.org/resource/Il_Postino http://dbpedia.org/resource/Il_Postino:_The_Postman

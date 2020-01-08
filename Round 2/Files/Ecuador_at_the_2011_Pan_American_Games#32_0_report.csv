@@ -1,0 +1,6 @@
+"F1: 0.00000","Precision: 0.00000","Recall: 0.00000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","2","1500 m Freestyle","http://dbpedia.org/resource/1951_Asian_Games","http://dbpedia.org/resource/Swimming_at_the_2011_Pan_American_Games_–_Men's_1500_metre_freestyle"
+"0","3","200 m Individual Medley","http://dbpedia.org/resource/Swimming_at_the_2008_Summer_Olympics_–_Women's_200_metre_individual_medley","http://dbpedia.org/resource/Swimming_at_the_2011_Pan_American_Games_–_Men's_200_metre_individual_medley"
+"0","4","400 m Individual Medley","nan","http://dbpedia.org/resource/Swimming_at_the_2011_Pan_American_Games_–_Men's_400_metre_individual_medley"
+"0","5","10 km Marathon","http://dbpedia.org/resource/Athletics_at_the_1960_Summer_Olympics","http://dbpedia.org/resource/Swimming_at_the_2011_Pan_American_Games_–_Men's_marathon_10_kilometres"

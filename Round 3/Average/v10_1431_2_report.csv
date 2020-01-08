@@ -1,0 +1,6 @@
+F1: 0.66667,Precision: 0.66667,Recall: 0.66667,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,2,Canton Tower Station,http://dbpedia.org/resource/Tower_Gateway_DLR_station,http://dbpedia.org/resource/Chigang_Pagoda_Station http://dbpedia.org/resource/Canton_Tower_Station
+2,3,Nanshijiao Station,http://dbpedia.org/resource/Nanshijiao_metro_station,http://dbpedia.org/resource/Nanshijiao_Station
+2,9,Beloostrov,http://ru.dbpedia.org/resource/Белоостров_(станция),http://dbpedia.org/resource/Valkeasaari http://dbpedia.org/resource/Beloostrov http://dbpedia.org/resource/Beloostrov_railway_station http://dbpedia.org/resource/Rajala http://dbpedia.org/resource/Walkeasaari
+2,10,Rechnoy Vokzal,http://dbpedia.org/resource/Rechnoy_Vokzal_(Novosibirsk_Metro),http://dbpedia.org/resource/Rechnoi_Vokzal http://dbpedia.org/resource/Rechnoy_Vokzal_(Moscow_Metro)

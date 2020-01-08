@@ -1,0 +1,6 @@
+F1: 0.80000,Precision: 0.80000,Recall: 0.80000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,10,Jonas MaÄ\u008Diulis,,http://dbpedia.org/resource/Jonas_Mačiulis
+1,12,Jaka LakoviÄ\u008D,http://dbpedia.org/resource/San_Mamés_Stadium_(1913),http://dbpedia.org/resource/Jaka_Lakovič
+1,15,Nikola PrkaÄ\u008Din,http://dbpedia.org/resource/Nikola_Aistrup,http://dbpedia.org/resource/Nikola_Prkačin
+1,20,Nikola VujÄ\u008DiÄ\u0087,http://dbpedia.org/resource/Nikolas_Špalek,http://dbpedia.org/resource/Nikola_Vujčić

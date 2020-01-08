@@ -1,0 +1,10 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,Brazil,http://dbpedia.org/resource/Brazil,http://dbpedia.org/resource/Brazil_women's_national_basketball_team
+1,2,Argentina,http://dbpedia.org/resource/Argentina,http://dbpedia.org/resource/Argentina_women's_national_basketball_team
+1,3,Colombia,http://dbpedia.org/resource/Colombia,http://dbpedia.org/resource/Colombia_women's_national_basketball_team
+1,4,Venezuela,http://dbpedia.org/resource/Venezuela,http://dbpedia.org/resource/Venezuela_women's_national_basketball_team
+1,5,Ecuador,http://dbpedia.org/resource/Ecuador,http://dbpedia.org/resource/Ecuador_women's_national_basketball_team
+1,6,Chile,http://dbpedia.org/resource/Chile,http://dbpedia.org/resource/Chile_women's_national_basketball_team
+1,7,Paraguay,http://dbpedia.org/resource/Paraguay,http://dbpedia.org/resource/Paraguay_women's_national_basketball_team
+1,9,Peru,http://dbpedia.org/resource/Peru,http://dbpedia.org/resource/Peru_women's_national_basketball_team

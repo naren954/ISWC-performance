@@ -1,0 +1,4 @@
+F1: 0.98261,Precision: 0.98261,Recall: 0.98261,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,16,Malibu Moon,http://dbpedia.org/resource/Malibu_Moon,http://dbpedia.org/resource/Malibu_Moon_(horse)
+3,90,Hastings,"http://dbpedia.org/resource/John_Hastings,_2nd_Earl_of_Pembroke",http://dbpedia.org/resource/Hastings_(horse)

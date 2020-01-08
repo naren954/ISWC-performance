@@ -1,0 +1,7 @@
+F1: 0.77273,Precision: 0.77273,Recall: 0.77273,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,5,Halloween,http://dbpedia.org/resource/Halloween_(Misfits_song),http://dbpedia.org/resource/Halloween_(Dave_Matthews_Band_song)
+0,7,Gaston,,http://dbpedia.org/resource/Gaston_(Disney_song) http://dbpedia.org/resource/Gaston_Reprise_(Disney) http://dbpedia.org/resource/Gaston_(song)
+0,8,Gangsta?,http://dbpedia.org/resource/Gangsta_(Kehlani_song),http://dbpedia.org/resource/Gangsta?_(Tinchy_Stryder_song)
+0,17,Bartender,http://dbpedia.org/resource/Bartender_(Lady_Antebellum_song),http://dbpedia.org/resource/Bartender_(Dave_Matthews_Band_song)
+0,19,Anthem,http://dbpedia.org/resource/Anthem_(Chess_song),http://dbpedia.org/resource/Anthem_(Iced_Earth_song)

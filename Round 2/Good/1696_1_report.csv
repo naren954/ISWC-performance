@@ -1,0 +1,4 @@
+F1: 0.85714,Precision: 0.85714,Recall: 0.85714,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,3,H. Shimizu,http://dbpedia.org/resource/Kohei_Shimizu,http://dbpedia.org/resource/Hiroyasu_Shimizu
+1,6,H. Yamamoto,http://dbpedia.org/resource/Hiroto_Yamamoto,http://dbpedia.org/resource/Hiromi_Yamamoto

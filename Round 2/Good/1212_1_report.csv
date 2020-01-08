@@ -1,0 +1,12 @@
+F1: 0.86111,Precision: 0.86111,Recall: 0.86111,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,A. Lobello,http://dbpedia.org/resource/Anthony_Lobello_Jr.,"http://dbpedia.org/resource/Anthony_Lobello_Jr http://dbpedia.org/resource/Anthony_Lobello,_Jr. http://dbpedia.org/resource/Anthony_Lobello"
+1,6,W. Meng,http://dbpedia.org/resource/Wang_Meng_(figure_skater),http://dbpedia.org/resource/Meng_Wang_(speed_skater) http://dbpedia.org/resource/Wang_Meng_(speed_skater)
+1,7,Y. Yang,"http://dbpedia.org/resource/Yang_Yang_(speed_skater,_born_1977)",http://dbpedia.org/resource/Yáng_Yáng http://dbpedia.org/resource/Yang_Yang_(b._1976) http://dbpedia.org/resource/Yang_Yang_(A) http://dbpedia.org/resource/楊揚 http://dbpedia.org/resource/杨扬
+1,14,Y. Yang,"http://dbpedia.org/resource/Yang_Yang_(speed_skater,_born_1977)",http://dbpedia.org/resource/Yang_Yang_(S) http://dbpedia.org/resource/Yang_Yang_(b._1977)
+1,15,R. Smith,http://dbpedia.org/resource/Rod_Smith_(wide_receiver),http://dbpedia.org/resource/Rusty_Smith_(speed_skater)
+1,20,Y. Yang,"http://dbpedia.org/resource/Yang_Yang_(speed_skater,_born_1977)",http://dbpedia.org/resource/Yang_Yang_(S) http://dbpedia.org/resource/Yang_Yang_(b._1977)
+1,21,R. Smith,http://dbpedia.org/resource/Rod_Smith_(wide_receiver),http://dbpedia.org/resource/Rusty_Smith_(speed_skater)
+1,22,G. Wei,http://dbpedia.org/resource/Guo_Wei_(Paralympic_athlete),http://dbpedia.org/resource/Guo_Wei_(speed_skater)
+1,56,D. Feng,http://dbpedia.org/resource/Du_Feng,http://dbpedia.org/resource/Ding_Feng_(sport_shooter)
+1,71,D. Feng,http://dbpedia.org/resource/Du_Feng,http://dbpedia.org/resource/Ding_Feng_(sport_shooter)

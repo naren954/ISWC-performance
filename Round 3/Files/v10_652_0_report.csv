@@ -1,0 +1,4 @@
+"F1: 0.92857","Precision: 0.92857","Recall: 0.92857"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","7","The Stranger","http://dbpedia.org/resource/The_Stranger_(song)","http://dbpedia.org/resource/The_Stranger_(Animorphs) http://dbpedia.org/resource/The_Stranger_(Applegate_novel)"
+"0","18","The Sound of One Hand Clapping","http://dbpedia.org/resource/The_Sound_of_One_Hand_Clapping_(novel)","http://dbpedia.org/resource/The_Sound_of_One_Hand_Clapping"

@@ -1,0 +1,5 @@
+F1: 0.97030,Precision: 0.97030,Recall: 0.97030,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Clinical and Applied Thrombosis-Hemostasis,http://dbpedia.org/resource/Clinical_and_Applied_Thrombosis/Hemostasis,http://dbpedia.org/resource/Clinical_and_Applied_Thrombosis-Hemostasis http://dbpedia.org/resource/Clinical_And_Applied_Thrombosis-Hemostasis
+0,14,Clinical Medicine,http://dbpedia.org/resource/Clinical_Science_(journal),"http://dbpedia.org/resource/Clin._Med. http://dbpedia.org/resource/Clinical_Medicine http://dbpedia.org/resource/Clinical_medicine_(London,_England) http://dbpedia.org/resource/Journal_of_the_Royal_College_of_Physicians_of_London"
+0,33,Chimica Oggi - Chemistry Today,http://dbpedia.org/resource/Chimica_Oggi_–_Chemistry_Today,http://dbpedia.org/resource/Chimica_Oggi_-_Chemistry_Today

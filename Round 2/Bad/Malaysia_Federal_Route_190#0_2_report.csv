@@ -1,0 +1,5 @@
+F1: 0.50000,Precision: 0.50000,Recall: 0.50000,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,1,KLANG,http://dbpedia.org/resource/Klang_Komuter_station,"http://dbpedia.org/resource/Klang_(city) http://dbpedia.org/resource/Klang,_Malaysia"
+2,3,KLANG,http://dbpedia.org/resource/Klang_Komuter_station,"http://dbpedia.org/resource/Klang_(city) http://dbpedia.org/resource/Klang,_Malaysia"
+2,23,SHAH ALAM Hicom,http://dbpedia.org/resource/Shah_Alam_Circuit,"http://dbpedia.org/resource/Shah_Alam,_Malaysia http://dbpedia.org/resource/Shah_Alam,_Selangor http://dbpedia.org/resource/Shah_Alam"

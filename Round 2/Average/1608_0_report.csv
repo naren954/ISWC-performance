@@ -1,0 +1,51 @@
+F1: 0.67974,Precision: 0.67974,Recall: 0.67974,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,Z. Wu,http://de.dbpedia.org/resource/Joe_Wu,http://dbpedia.org/resource/Zhiting_Wu
+0,12,W. King,http://es.dbpedia.org/resource/Winfred_King,http://dbpedia.org/resource/Warren_King_(snooker_player)
+0,14,V. Calabrese,http://dbpedia.org/resource/Gerald_Calabrese,http://dbpedia.org/resource/Vinnie_Calabrese
+0,15,V. Muldoon,http://dbpedia.org/resource/Pete_Muldoon,http://dbpedia.org/resource/Vincent_Muldoon
+0,22,T. Murphy,http://dbpedia.org/resource/Trent_Murphy,http://dbpedia.org/resource/Terry_Murphy_(snooker_player)
+0,42,S. Francisco,http://dbpedia.org/resource/Frank_Francisco,http://dbpedia.org/resource/Silvino_Francisco
+0,43,S. Ali,http://dbpedia.org/resource/United_States,http://dbpedia.org/resource/Shokat_Ali
+0,44,S. Budd,http://dbpedia.org/resource/Frank_Budd,http://dbpedia.org/resource/Shawn_Budd http://dbpedia.org/resource/Shawn_budd
+0,47,R. Stolk,http://dbpedia.org/resource/Kyle_Stolk,http://dbpedia.org/resource/Roy_Stolk
+0,60,P. Fagan,http://dbpedia.org/resource/Paddy_Fagan,http://dbpedia.org/resource/Patsy_Fagan
+0,61,P. Wallace,http://dbpedia.org/resource/Paul_Wallace_(rugby_union),http://dbpedia.org/resource/Patrick_Wallace
+0,63,P. Murphy,http://dbpedia.org/resource/Patrick_Murphy_(cyclist),http://dbpedia.org/resource/Patricia_Murphy_(referee) http://dbpedia.org/resource/Patricia_Roberts_(referee)
+0,66,P. Xiaoting,http://dbpedia.org/resource/Feng_Xiaoting,http://dbpedia.org/resource/Xiaoting_Pan http://dbpedia.org/resource/Xiao_Ting_Pan http://dbpedia.org/resource/Pan_Xiaoting
+0,67,P. Morgan,http://dbpedia.org/resource/Paul_Morgan_(footballer),http://dbpedia.org/resource/Paddy_Morgan
+0,68,P. Browne,http://dbpedia.org/resource/Paul_Browne_(footballer),http://dbpedia.org/resource/Paddy_Browne
+0,72,N. Robertson,http://dbpedia.org/resource/Neil_Robertson,http://dbpedia.org/resource/Neil_Robertson_(snooker_player) http://dbpedia.org/resource/Aussie_Ace http://dbpedia.org/resource/The_Melbourne_Machine http://dbpedia.org/resource/Neil_Robertson_(snooker)
+0,75,M. Khairy,http://dbpedia.org/resource/Ahmed_Khairy,http://dbpedia.org/resource/Mohamed_Khairy
+0,76,M. Judge,http://dbpedia.org/resource/Matthew_Judge,http://dbpedia.org/resource/Micheal_Judge http://dbpedia.org/resource/Michael_Judge
+0,79,M. Allen,http://dbpedia.org/resource/Malcolm_Allen_(swimmer),http://dbpedia.org/resource/Mark_Allen_(snooker_player)
+0,81,M. Fu,http://dbpedia.org/resource/Marcia_Fu,http://dbpedia.org/resource/Fu_Jiajun http://dbpedia.org/resource/Marco_Fu_Ka-chun http://dbpedia.org/resource/Marco_Fu_Ka_Chun http://dbpedia.org/resource/Fu_Ka_Chun_Marco http://dbpedia.org/resource/Fu_Ka-chun http://dbpedia.org/resource/Cue-Man-Fu http://dbpedia.org/resource/Marco_Ka_Chun_Fu http://dbpedia.org/resource/Full_of_Eastern_Promise http://dbpedia.org/resource/Marco_Fu
+0,89,L. Ning,http://dbpedia.org/resource/Li_Ning,http://dbpedia.org/resource/Lü_Ning http://dbpedia.org/resource/Lu_Ning
+0,90,L. Song,http://dbpedia.org/resource/Luke_Song,http://dbpedia.org/resource/劉菘 http://dbpedia.org/resource/Liu_Song_(snooker_player) http://dbpedia.org/resource/Liu_Song_(snooker)
+0,93,L. Yan,http://dbpedia.org/resource/Poon_Lok_Yan,http://dbpedia.org/resource/Li_Yan_(snooker_player)
+0,94,L. Hang,http://dbpedia.org/resource/Li_Hang_(footballer),http://dbpedia.org/resource/Li_Hang_(snooker_player)
+0,95,L. Fernandez,http://dbpedia.org/resource/Lester_Fernandez,http://dbpedia.org/resource/Leo_Fernandez
+0,99,K. Dunham,http://dbpedia.org/resource/Kellen_Dunham,http://dbpedia.org/resource/Kurt_Dunham
+0,101,K. Stevens,http://dbpedia.org/resource/Kevin_Stevens,http://dbpedia.org/resource/Kirk_Stevens
+0,102,K. Ga-young,http://dbpedia.org/resource/United_Kingdom,http://dbpedia.org/resource/Kim_Ga-young http://dbpedia.org/resource/Ga-Young_Kim http://dbpedia.org/resource/Ga_Young_Kim http://dbpedia.org/resource/Ga-young_Kim http://dbpedia.org/resource/Kim_Ga_Young http://dbpedia.org/resource/Kim_Ga-Young
+0,109,J. Brown,http://dbpedia.org/resource/Jerry_Brown_(gridiron_football),http://dbpedia.org/resource/Jordan_Brown_(snooker_player)
+0,110,J. Campbell,http://dbpedia.org/resource/Jasmine_Campbell,http://dbpedia.org/resource/John_Campbell_(snooker_player)
+0,113,J. Delaney,http://dbpedia.org/resource/Joe_Delaney,http://dbpedia.org/resource/Joe_Delaney_(snooker_player) http://dbpedia.org/resource/Joe_Delaney_(snooker)
+0,114,J. Long,http://dbpedia.org/resource/Jessica_Long,http://dbpedia.org/resource/Jin_Long_(snooker_player)
+0,117,J. Chen,http://dbpedia.org/resource/Xu_Chen,http://dbpedia.org/resource/Chen_Chunchen http://dbpedia.org/resource/Chen_Chun-chen http://dbpedia.org/resource/Ch'en_Ch'unchen http://dbpedia.org/resource/Chen_Chun-Chen http://dbpedia.org/resource/Chén_Chúnzhēn http://dbpedia.org/resource/Chen_Chunzhen http://dbpedia.org/resource/Ch'en_Ch'un-chen http://dbpedia.org/resource/Jennifer_Chen
+0,120,J. Rea,http://dbpedia.org/resource/Jonathan_Rea,http://dbpedia.org/resource/Jack_Rea http://dbpedia.org/resource/Jackie_Rea
+0,121,I. Santos,http://dbpedia.org/resource/Ismael_Santos,http://dbpedia.org/resource/Itaro_Santos
+0,124,I. Anderson,http://dbpedia.org/resource/Ian_Anderson_(baseball),http://dbpedia.org/resource/Ian_Anderson_(snooker_player)
+0,128,H. Jones,http://dbpedia.org/resource/Hugh_Jones_(tennis),http://dbpedia.org/resource/Hannah_Jones_(snooker) http://dbpedia.org/resource/Hannah_Jones_(snooker_player)
+0,129,H. Akbar,http://dbpedia.org/resource/Hakim_Akbar,http://dbpedia.org/resource/Hamza_Akbar
+0,131,G. Wilkinson,http://dbpedia.org/resource/George_Wilkinson_(water_polo),http://dbpedia.org/resource/Glen_Wilkinson http://dbpedia.org/resource/Glen_wilkinson
+0,136,F. Chan,http://dbpedia.org/resource/Michelle_Chan,http://dbpedia.org/resource/Franky_Chan
+0,140,E. Hughes,http://dbpedia.org/resource/Emlyn_Hughes,http://dbpedia.org/resource/Eugene_Hughes_(snooker_player)
+0,141,E. Charlton,http://dbpedia.org/resource/Boy_Charlton,http://dbpedia.org/resource/Edward_Francis_Charlton http://dbpedia.org/resource/Eddie_Charlton
+0,144,D. Sheehan,http://dbpedia.org/resource/Donncha_Sheehan,http://dbpedia.org/resource/Dessie_Sheehan
+0,146,D. Hughes,http://dbpedia.org/resource/Dick_Hughes_(footballer),http://dbpedia.org/resource/Declan_Hughes http://dbpedia.org/resource/Declan_Hughes_(snooker_player)
+0,148,D. Morris,http://dbpedia.org/resource/David_Morris_(skier),http://dbpedia.org/resource/David_Morris_(snooker) http://dbpedia.org/resource/David_Morris_(snooker_player)
+0,149,D. McDonnell,http://dbpedia.org/resource/Alexander_McDonnell,http://dbpedia.org/resource/David_McDonnell
+0,150,D. Hogan,http://dbpedia.org/resource/Darrell_Hogan,http://dbpedia.org/resource/David_Hogan_(snooker_player)
+0,151,D. Hill,http://dbpedia.org/resource/Damon_Hill,http://dbpedia.org/resource/Darryl_Hill_(snooker_player)
+0,153,C. Thorburn,http://dbpedia.org/resource/Christine_Thorburn,http://dbpedia.org/resource/Cliff_Thorburn http://dbpedia.org/resource/Champagne_Cliff http://dbpedia.org/resource/Rhett_Butler_of_the_green_baize

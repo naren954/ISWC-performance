@@ -1,0 +1,4 @@
+F1: 0.84615,Precision: 0.84615,Recall: 0.84615,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,6,Castle of Alcoutim,http://dbpedia.org/resource/Castle_of_Alcoutim,http://dbpedia.org/resource/Castle_of_Alcoutim_(Old) http://dbpedia.org/resource/Castelo_Velho_de_Alcoutim http://dbpedia.org/resource/Velho_de_Alcoutim_Castle
+0,9,Castle Balfour,http://dbpedia.org/resource/Balfour_Castle,http://dbpedia.org/resource/Castle_Balfour

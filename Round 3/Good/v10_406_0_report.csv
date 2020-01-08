@@ -1,0 +1,4 @@
+F1: 0.88235,Precision: 0.88235,Recall: 0.88235,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,The Quest,http://dbpedia.org/resource/King's_Quest_I,http://dbpedia.org/resource/The_Quest_(album)
+0,6,The Private Collection,http://dbpedia.org/resource/Private_Collection_(Jon_and_Vangelis_album),http://dbpedia.org/resource/The_Private_Collection_(Charlie_Haden_album)

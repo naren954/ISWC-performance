@@ -1,0 +1,38 @@
+F1: 0.77914,Precision: 0.77914,Recall: 0.77914,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,7,Sugar,"http://dbpedia.org/resource/Sugar,_Sugar",http://dbpedia.org/resource/Sugar_(Stanley_Turrentine_album)
+0,17,"Studio Sessions New York, 1968",http://dbpedia.org/resource/Studio_Sessions_New_York_1963,"http://dbpedia.org/resource/Studio_Sessions_New_York,_1968"
+0,21,Stuck on You,http://dbpedia.org/resource/Stuck_on_You_(Lionel_Richie_song),http://dbpedia.org/resource/Stuck_On_You_(Elvis_Presley_song) http://dbpedia.org/resource/Stuck_on_You_(Elvis_Presley_song)
+0,26,Stripped,http://dbpedia.org/resource/Stripped_(Hinder_album),http://dbpedia.org/resource/Stripped_(The_Rolling_Stones_album) http://dbpedia.org/resource/Stripped_(Rolling_Stones_album)
+0,27,Strings!,http://dbpedia.org/resource/Strings_(Strings_album),http://dbpedia.org/resource/Strings!
+0,32,Strictly Instrumental,http://dbpedia.org/resource/Strictly_Instrumental_(album),http://dbpedia.org/resource/Strictly_Instrumental
+0,33,Stretching Out,http://dbpedia.org/resource/Stretching_Out,http://dbpedia.org/resource/Stretching_Out_(Zoot_Sims_and_Bob_Brookmeyer_album)
+0,38,Street Singer,http://dbpedia.org/resource/Street_Singer_(album),http://dbpedia.org/resource/Street_Singer
+0,40,Streams,http://dbpedia.org/resource/Love_Streams_(album),http://dbpedia.org/resource/Streams_(album)
+0,44,Strata,http://dbpedia.org/resource/Strata_(Robert_Rich_and_Steve_Roach_album),http://dbpedia.org/resource/Strata_(Matthew_Shipp_album)
+0,51,Straight to Hell,http://dbpedia.org/resource/Straight_to_Hell_(album),http://dbpedia.org/resource/Straight_to_Hell_(Kathy_Griffin_special)
+0,53,Straight Up,http://dbpedia.org/resource/Straight_Up_(Badfinger_album),"http://dbpedia.org/resource/Baby,_Please http://dbpedia.org/resource/Money_(Badfinger_song) http://dbpedia.org/resource/Take_It_All_(Badfinger_song) http://dbpedia.org/resource/It's_Over_(Badfinger_song) http://dbpedia.org/resource/No_Good_at_All http://dbpedia.org/resource/Perfection_(Badfinger_song) http://dbpedia.org/resource/Suitcase_(Badfinger_song) http://dbpedia.org/resource/I'd_Die_Babe http://dbpedia.org/resource/Sweet_Tuesday_Morning http://dbpedia.org/resource/Straight_Up_(album) http://dbpedia.org/resource/Sing_for_the_Song http://dbpedia.org/resource/Flying_(Badfinger_song) http://dbpedia.org/resource/Sometimes_(Badfinger_song)"
+0,57,Straight Life,http://dbpedia.org/resource/Straight_Life_(Jimmy_Smith_album),http://dbpedia.org/resource/Straight_Life_(Freddie_Hubbard_album)
+0,58,Straight Ahead,http://dbpedia.org/resource/Straight_Ahead_(Pennywise_album),http://dbpedia.org/resource/Straight_Ahead_(Oliver_Nelson_album)
+0,59,Straight Ahead,http://dbpedia.org/resource/Straight_Ahead_(Pennywise_album),"http://dbpedia.org/resource/Straight_Ahead_(David_""Fathead""_Newman_album)"
+0,60,Straight Ahead,http://dbpedia.org/resource/Straight_Ahead_(Pennywise_album),http://dbpedia.org/resource/Straight_Ahead_(Abbey_Lincoln_album)
+0,61,Straight Ahead!,http://dbpedia.org/resource/Straight_Ahead_(Pennywise_album),http://dbpedia.org/resource/Straight_Ahead!_(Junior_Mance_album)
+0,62,"Straight, No Chaser","http://dbpedia.org/resource/Straight,_No_Chaser_(Thelonious_Monk_album)","http://dbpedia.org/resource/Straight,_No_Chaser_(Joe_Henderson_album)"
+0,64,Storyline,http://dbpedia.org/resource/Storyline_(album),http://dbpedia.org/resource/Storyline_(Raphe_Malik_album)
+0,72,Stoned Soul Picnic,http://dbpedia.org/resource/Stoned_Soul_Picnic_(album),http://dbpedia.org/resource/Stoned_Soul_Picnic_(Roy_Ayers_album)
+0,81,Stinkfist,http://dbpedia.org/resource/Stinkfist,http://dbpedia.org/resource/Stinkfist_(EP)
+0,87,Still Life,http://dbpedia.org/resource/Still_Life_(Opeth_album),http://dbpedia.org/resource/Still_Life_(Van_der_Graaf_Generator_album)
+0,88,Still Life,http://dbpedia.org/resource/Still_Life_(Opeth_album),"http://dbpedia.org/resource/""Still_Life""_(American_Concert_1981) http://dbpedia.org/resource/Still_Life_(American_Concert_1981) http://dbpedia.org/resource/Still_Life_(Rolling_Stones_album) http://dbpedia.org/resource/Still_Life_(The_Rolling_Stones_album)"
+0,100,Steppin' Out,http://dbpedia.org/resource/Steppin'_Out_with_the_Grateful_Dead:_England_'72,http://dbpedia.org/resource/Steppin'_Out_(Jack_McDuff_album)
+0,101,Steppenwolf,http://dbpedia.org/resource/Steppenwolf_(Steppenwolf_album),http://dbpedia.org/resource/Steppenwolf_(World_Saxophone_Quartet_album) http://dbpedia.org/resource/Steppenwolf_(WSQ_album)
+0,129,Standards,http://dbpedia.org/resource/Standards_(Tortoise_album),http://dbpedia.org/resource/Standards_(Sonny_Clark_album)
+0,130,Standards,http://dbpedia.org/resource/Standards_(Tortoise_album),http://dbpedia.org/resource/Standards_(Lee_Morgan_album)
+0,133,Stand Up,http://dbpedia.org/resource/Stand_Up_(Dave_Matthews_Band_album),http://dbpedia.org/resource/Stand_Up_(Mel_McDaniel_song)
+0,134,Stand Up,http://dbpedia.org/resource/Stand_Up_(Dave_Matthews_Band_album),http://dbpedia.org/resource/Sweet_Dream_(song) http://dbpedia.org/resource/Stand_Up_(Jethro_Tull) http://dbpedia.org/resource/Stand_Up_(1969_album) http://dbpedia.org/resource/Stand_Up_(1969) http://dbpedia.org/resource/Stand_Up_(Jethro_Tull_album)
+0,144,Stages,http://dbpedia.org/resource/Stages_(Melanie_C_album),http://dbpedia.org/resource/Stages_(Jimi_Hendrix_album)
+0,145,St. Anger,http://dbpedia.org/resource/St._Anger_(song),http://dbpedia.org/resource/St_Anger http://dbpedia.org/resource/Sweet_Amber http://dbpedia.org/resource/All_Within_My_Hands http://dbpedia.org/resource/Street_Anger http://dbpedia.org/resource/Shoot_Me_Again http://dbpedia.org/resource/Saint_Anger http://dbpedia.org/resource/St._Anger http://dbpedia.org/resource/St.Anger http://dbpedia.org/resource/Dirty_Window http://dbpedia.org/resource/St._Pissed_the_Fuck_Off
+0,151,Spring,http://dbpedia.org/resource/American_Spring,http://dbpedia.org/resource/Spring_(Tony_Williams_album)
+0,152,Spotlight,http://dbpedia.org/resource/Spotlight_(Madonna_song),http://dbpedia.org/resource/Spotlight_(Tir_na_nOg_album) http://dbpedia.org/resource/Spotlight_(Tír_na_nÓg_album)
+0,154,Spiritual Unity,http://dbpedia.org/resource/Spiritual_Unity_(Marc_Ribot_album),http://dbpedia.org/resource/Spiritual_Unity http://dbpedia.org/resource/Spiritual_Unity_(album)
+0,157,Spirits,http://dbpedia.org/resource/Spirits_(Keith_Jarrett_album),http://dbpedia.org/resource/Spirits_(Albert_Ayler_album) http://dbpedia.org/resource/Witches_&_Devils
+0,161,Spirit in the Dark,http://dbpedia.org/resource/Spirit_in_the_Dark_(song),http://dbpedia.org/resource/Spirit_in_the_Dark http://dbpedia.org/resource/Spirit_in_the_dark http://dbpedia.org/resource/Spirit_In_the_Dark http://dbpedia.org/resource/Spirit_in_the_Dark_(Aretha_Franklin_album) http://dbpedia.org/resource/Spirit_In_The_Dark_(Aretha_Franklin_album) http://dbpedia.org/resource/Spirit_In_The_Dark

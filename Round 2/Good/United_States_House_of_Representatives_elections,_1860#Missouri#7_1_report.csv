@@ -1,0 +1,5 @@
+F1: 0.90909,Precision: 0.90909,Recall: 0.90909,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,6,John Cochrane,http://dbpedia.org/resource/John_Cochrane_(politician),http://dbpedia.org/resource/John_Cochrane_(representative) http://dbpedia.org/resource/John_Cochran_(general) http://dbpedia.org/resource/John_Cochrane_(U.S._politician) http://dbpedia.org/resource/John_Cochrane_(general)
+1,14,John H. Reynolds,http://dbpedia.org/resource/John_W._Reynolds_Jr.,http://dbpedia.org/resource/John_Hazard_Reynolds
+1,28,William Irvine,http://dbpedia.org/resource/William_Irvine_(general),http://dbpedia.org/resource/William_Irvine_(lawyer)

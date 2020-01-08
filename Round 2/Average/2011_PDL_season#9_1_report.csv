@@ -1,0 +1,4 @@
+F1: 0.75000,Precision: 0.75000,Recall: 0.75000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,Fresno Fuego,http://dbpedia.org/resource/Fresno_FC_U-23,http://dbpedia.org/resource/Fresno_Fuego
+1,6,Los Angeles Blues 23,http://dbpedia.org/resource/Orange_County_SC_U-23,http://dbpedia.org/resource/OC_Pateadores_Blues http://dbpedia.org/resource/OC_Blues_Strikers_FC http://dbpedia.org/resource/Orange_County_Blues_U-23 http://dbpedia.org/resource/Orange_County_Blues_FC_(PDL) http://dbpedia.org/resource/Pali_Blues_(PDL) http://dbpedia.org/resource/Los_Angeles_Blues_23

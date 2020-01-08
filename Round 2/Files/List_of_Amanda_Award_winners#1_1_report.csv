@@ -1,0 +1,4 @@
+"F1: 0.71429","Precision: 0.71429","Recall: 0.71429"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","1","Uno","http://dbpedia.org/resource/¡Uno!","http://dbpedia.org/resource/Uno_(film)"
+"1","7","Nokas","http://dbpedia.org/resource/Nokas_(film)","http://dbpedia.org/resource/Nokas http://dbpedia.org/resource/Nokas_AS http://dbpedia.org/resource/NOKAS http://dbpedia.org/resource/NOKAS_AS"

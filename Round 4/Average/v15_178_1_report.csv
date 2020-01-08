@@ -1,0 +1,8 @@
+F1: 0.57143,Precision: 0.57143,Recall: 0.57143,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,4,D. M. Perez,http://dbpedia.org/resource/Pérez_Prado,http://dbpedia.org/resource/Don_Michael_Perez
+1,5,M. Alejandre,http://dbpedia.org/resource/Salvador_Mejía,http://dbpedia.org/resource/Mac_Alejandre
+1,9,J. Laing,http://dbpedia.org/resource/John_Laing_(footballer),http://dbpedia.org/resource/John_Laing_(film_director) http://dbpedia.org/resource/John_Laing_(director)
+1,10,P. Baldwin,http://dbpedia.org/resource/James_Baldwin,http://dbpedia.org/resource/Peter_Baldwin_(director)
+1,12,M. Diamond,http://dbpedia.org/resource/Queen_Victoria,http://dbpedia.org/resource/Matthew_Diamond
+1,13,E. Noyes,http://dbpedia.org/resource/Alfred_Noyes,http://dbpedia.org/resource/Eli_Noyes

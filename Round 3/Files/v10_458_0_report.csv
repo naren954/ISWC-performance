@@ -1,0 +1,6 @@
+"F1: 0.95652","Precision: 0.95652","Recall: 0.95652"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","18","Scutiger liupanensis","http://dbpedia.org/resource/Scutiger_bhutanensis","http://dbpedia.org/resource/Scutiger_liupanensis"
+"0","19","Scutiger jiulongensis","http://dbpedia.org/resource/Scutiger_adungensis","http://dbpedia.org/resource/Scutiger_jiulongensis"
+"0","22","Scutiger chintingensis","http://dbpedia.org/resource/Scutiger_bhutanensis","http://dbpedia.org/resource/Scutiger_chintingensis http://dbpedia.org/resource/Chinting_Alpine_Toad"
+"0","54","Scinax littoreus","http://dbpedia.org/resource/Scinax_littoralis","http://dbpedia.org/resource/Scinax_littoreus"

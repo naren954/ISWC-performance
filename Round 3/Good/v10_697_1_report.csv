@@ -1,0 +1,5 @@
+F1: 0.81250,Precision: 0.81250,Recall: 0.81250,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,9,Eagle River,http://dbpedia.org/resource/Eagle_River_(Colorado),http://dbpedia.org/resource/Eagle_River_(Michigan)
+1,14,Clackline Brook,"http://dbpedia.org/resource/Charles_Brook,_Newfoundland_and_Labrador",http://dbpedia.org/resource/Clackline_Brook
+1,15,Eastern Branch Elizabeth River,http://dbpedia.org/resource/Anacostia_River,http://dbpedia.org/resource/Eastern_Branch_Elizabeth_River http://dbpedia.org/resource/Eastern_Branch_of_the_Elizabeth_River http://dbpedia.org/resource/East_Branch_Elizabeth_River

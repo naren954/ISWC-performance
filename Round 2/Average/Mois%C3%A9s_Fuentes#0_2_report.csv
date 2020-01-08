@@ -1,0 +1,5 @@
+F1: 0.66667,Precision: 0.66667,Recall: 0.66667,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,2,"Francisco RodrÃ­guez, Jr.",http://dbpedia.org/resource/Francisco_Rodríguez_Jr.,"http://dbpedia.org/resource/Francisco_Rodríguez,_Jr."
+2,12,Julio Cesar Felix,http://dbpedia.org/resource/Julio_César_González,http://dbpedia.org/resource/Julio_César_Félix http://dbpedia.org/resource/Julio_Cesar_Felix
+2,15,Juan HernÃ¡ndez,http://dbpedia.org/resource/Juan_Hernández_Sierra,http://dbpedia.org/resource/Juan_Hernández_(boxer_born_1987)

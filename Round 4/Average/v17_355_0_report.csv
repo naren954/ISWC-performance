@@ -1,0 +1,26 @@
+F1: 0.63636,Precision: 0.63636,Recall: 0.63636,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,USS Nitro,http://dbpedia.org/resource/USS_Nitro_(AE-2),http://dbpedia.org/resource/USS_Nitro_(AE-23)
+0,9,USS Nicholson,http://dbpedia.org/resource/USS_Nicholson_(DD-442),http://dbpedia.org/resource/DD-982 http://dbpedia.org/resource/USS_Nicholson_(DD-982)
+0,10,USS Nicholson,http://dbpedia.org/resource/USS_Nicholson_(DD-442),http://dbpedia.org/resource/USS_Nicholson_(DD-52)
+0,12,USS Nicholas,http://dbpedia.org/resource/USS_Nicholas_(DD-449),http://dbpedia.org/resource/FFG-47 http://dbpedia.org/resource/USS_Nicholas_(FFG-47) http://dbpedia.org/resource/USS_Nicholas_(FFG_47)
+0,13,USS Nicholas,http://dbpedia.org/resource/USS_Nicholas_(DD-449),http://dbpedia.org/resource/USS_Nicholas_(DD-311) http://dbpedia.org/resource/DD-311
+0,14,USS Newport News,http://dbpedia.org/resource/USS_Newport_News_(AK-3),http://dbpedia.org/resource/USS_Newport_News_(CA-148)
+0,16,USS Newport,http://dbpedia.org/resource/USS_Newport_(PF-27),http://dbpedia.org/resource/ARM_Papaloapan_(P-411) http://dbpedia.org/resource/USS_LST-1179 http://dbpedia.org/resource/ARM_Sonora_(A-4) http://dbpedia.org/resource/USS_Newport_(LST-1179) http://dbpedia.org/resource/ARM_Papaloapan_(A411)
+0,21,USS Newark,http://dbpedia.org/resource/USS_San_Jacinto_(CVL-30),http://dbpedia.org/resource/USS_Newark_(C-1)
+0,22,USS New York,http://dbpedia.org/resource/USS_New_York_(BB-34),http://dbpedia.org/resource/USS_New_York_(ACR-2) http://dbpedia.org/resource/USS_Saratoga_(ACR-2) http://dbpedia.org/resource/USS_New_York_(CA-2) http://dbpedia.org/resource/USS_Rochester_(ACR-2) http://dbpedia.org/resource/USS_Rochester_(CA-2)
+0,23,USS New Orleans,http://dbpedia.org/resource/USS_New_Orleans_(CL-22),http://dbpedia.org/resource/LPH-11 http://dbpedia.org/resource/USS_New_Orleans_(LPH-11)
+0,29,USS Nevada,http://dbpedia.org/resource/USS_Nevada_(BB-36),http://dbpedia.org/resource/USS_Tonopah http://dbpedia.org/resource/USS_Connecticut_(1899) http://dbpedia.org/resource/USS_Connecticut_(BM-8) http://dbpedia.org/resource/USS_Nevada_(BM-8) http://dbpedia.org/resource/USS_Tonopah_(BM-8)
+0,34,USS Neptune,http://dbpedia.org/resource/USNS_Neptune_(ARC-2),http://dbpedia.org/resource/USS_Neptune_(AC-8)
+0,36,USS Neosho,http://dbpedia.org/resource/USS_Neosho_(AO-23),http://dbpedia.org/resource/USS_Neosho_(AO-48) http://dbpedia.org/resource/SS_Catawba http://dbpedia.org/resource/SS_Catwaba
+0,37,USS Neosho,http://dbpedia.org/resource/USS_Neosho_(AO-23),http://dbpedia.org/resource/USNS_Neosho_(T-AO-143) http://dbpedia.org/resource/USS_Neosho_(AO-143)
+0,39,USS Neches,http://dbpedia.org/resource/USS_Neches_(AO-5),http://dbpedia.org/resource/SS_Aekay http://dbpedia.org/resource/USS_Neches_(AO-47)
+0,44,USS Navajo,http://dbpedia.org/resource/USS_Navajo_(AT-64),http://dbpedia.org/resource/ATR-138 http://dbpedia.org/resource/USS_ATR-138 http://dbpedia.org/resource/USS_Navajo_(ATA-211) http://dbpedia.org/resource/ATA-211
+0,48,USS Natoma Bay,http://dbpedia.org/resource/USS_Oyster_Bay_(AGP-6),http://dbpedia.org/resource/USS_Natoma_Bay http://dbpedia.org/resource/USS_Natoma_Bay_(ACV-62) http://dbpedia.org/resource/USS_Natoma_Bay_(AVG-62) http://dbpedia.org/resource/USS_Natoma_Bay_(CVU-62) http://dbpedia.org/resource/USS_Natoma_Bay_(CVE-62)
+0,52,USS Nashville,http://dbpedia.org/resource/USS_Nashville_(CL-43),http://dbpedia.org/resource/USS_Nashville_(PG-7)
+0,53,USS Nashville,http://dbpedia.org/resource/USS_Nashville_(CL-43),http://dbpedia.org/resource/USS_Nashville_(LPD-13) http://dbpedia.org/resource/LPD-13
+0,54,USS Narwhal,http://dbpedia.org/resource/HMS_Narwhal_(N45),http://dbpedia.org/resource/USS_V-5_(SS-167) http://dbpedia.org/resource/USS_V-5_(SC-1) http://dbpedia.org/resource/USS_Narwhal_(SC-1) http://dbpedia.org/resource/USS_V-5_(SF-8) http://dbpedia.org/resource/USS_Narwhal_(SS-167) http://dbpedia.org/resource/USS_Narwhal_(SF-8) http://dbpedia.org/resource/SS-167 http://dbpedia.org/resource/USS_V-5
+0,58,USS Napa,http://dbpedia.org/resource/USS_Napa_(AT-32),http://dbpedia.org/resource/APA-157 http://dbpedia.org/resource/USS_Napa_(APA-157) http://dbpedia.org/resource/USS_Napa_(LPA-157)
+0,64,USS N-7,http://dbpedia.org/resource/USS_Wasp_(CV-7),http://dbpedia.org/resource/USS_N-7 http://dbpedia.org/resource/SS-59 http://dbpedia.org/resource/USS_N-7_(SS-59)
+0,65,USS N-6,http://dbpedia.org/resource/USS_LST-6,http://dbpedia.org/resource/USS_N-6_(SS-58) http://dbpedia.org/resource/USS_N-6 http://dbpedia.org/resource/SS-58
+0,66,USS N-5,http://dbpedia.org/resource/USS_Yorktown_(CV-5),http://dbpedia.org/resource/USS_N-5_(SS-57) http://dbpedia.org/resource/USS_N-5 http://dbpedia.org/resource/SS-57

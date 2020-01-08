@@ -1,0 +1,5 @@
+"F1: 0.78571","Precision: 0.78571","Recall: 0.78571"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","2","Gorica","http://dbpedia.org/resource/HNK_Gorica","http://dbpedia.org/resource/HIT_Gorica http://dbpedia.org/resource/NK_Gorica http://dbpedia.org/resource/ND_HIT_Gorica http://dbpedia.org/resource/NK_Hit_Gorica http://dbpedia.org/resource/NK_HIT_Gorica http://dbpedia.org/resource/ND_Gorica"
+"0","7","LuÄ\u008Dko","http://dbpedia.org/resource/Lu_Kai_(badminton)","http://dbpedia.org/resource/NK_Lučko"
+"0","12","RudeÅ¡","nan","http://dbpedia.org/resource/NK_Rudeš"

@@ -1,0 +1,13 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Boston Beaneaters,http://dbpedia.org/resource/Atlanta_Braves,http://dbpedia.org/resource/1898_Boston_Beaneaters_season
+0,2,Baltimore Orioles,http://dbpedia.org/resource/Baltimore,http://dbpedia.org/resource/1898_Baltimore_Orioles_season
+0,3,Cincinnati Reds,http://dbpedia.org/resource/Cincinnati,http://dbpedia.org/resource/1898_Cincinnati_Reds_season
+0,4,Chicago Orphans,http://dbpedia.org/resource/Chicago_Tribune,http://dbpedia.org/resource/1898_Chicago_Orphans_season
+0,6,Philadelphia Phillies,http://dbpedia.org/resource/Philadelphia,http://dbpedia.org/resource/1898_Philadelphia_Phillies_season
+0,7,New York Giants,http://dbpedia.org/resource/New_York_(state),http://dbpedia.org/resource/1898_New_York_Giants_season
+0,8,Pittsburg Pirates,http://dbpedia.org/resource/Pittsburgh_Pirates,http://dbpedia.org/resource/1898_Pittsburg_Pirates_season http://dbpedia.org/resource/1898_Pittsburgh_Pirates_season
+0,9,Louisville Colonels,"http://dbpedia.org/resource/Louisville,_Kentucky",http://dbpedia.org/resource/1898_Louisville_Colonels_season
+0,10,Brooklyn Bridegrooms,http://dbpedia.org/resource/Los_Angeles,http://dbpedia.org/resource/1898_Brooklyn_Bridegrooms_season
+0,11,Washington Senators,http://dbpedia.org/resource/Texas_Rangers_(baseball),http://dbpedia.org/resource/1898_Washington_Senators_season
+0,12,St. Louis Browns,http://dbpedia.org/resource/Baltimore_Orioles,http://dbpedia.org/resource/1898_St._Louis_Cardinals_season http://dbpedia.org/resource/1898_St._Louis_Browns_season

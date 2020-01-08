@@ -1,0 +1,48 @@
+F1: 0.70701,Precision: 0.70701,Recall: 0.70701,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,9,The Widowmaker,http://dbpedia.org/resource/K-19:_The_Widowmaker,http://dbpedia.org/resource/The_Widowmaker
+0,11,The Widow,http://dbpedia.org/resource/Black_Widow_(Iggy_Azalea_song),http://dbpedia.org/resource/La_Vedova_X http://dbpedia.org/resource/The_Widow_(1955_film)
+0,12,The Widow,http://dbpedia.org/resource/Black_Widow_(Iggy_Azalea_song),http://dbpedia.org/resource/The_Widow_(1939_film) http://dbpedia.org/resource/La_vedova
+0,14,The Wicker Man,http://dbpedia.org/resource/The_Wicker_Man_(2006_film),http://dbpedia.org/resource/The_Wicker_Man_(1973_movie) http://dbpedia.org/resource/The_Loathsome_Lambton_Worm http://dbpedia.org/resource/The_Wicker_Man_(1973_film)
+0,16,The Wicked Lady,http://dbpedia.org/resource/The_Wicked_Lady_(1983_film),http://dbpedia.org/resource/The_Wicked_Lady http://dbpedia.org/resource/The_Wicked_Lady_(1945_film)
+0,25,The White Sister,http://dbpedia.org/resource/The_White_Sister_(1923_film),http://dbpedia.org/resource/The_White_Sister_(1960_film) http://dbpedia.org/resource/La_hermana_blanca
+0,26,The White Sister,http://dbpedia.org/resource/The_White_Sister_(1923_film),http://dbpedia.org/resource/The_White_Sister_(1933_film)
+0,30,The White Raven,http://dbpedia.org/resource/The_White_Raven_(1998_film),http://dbpedia.org/resource/The_White_Raven_(film)
+0,33,The White Horse Inn,http://dbpedia.org/resource/The_White_Horse_Inn_(1952_film),http://dbpedia.org/resource/The_White_Horse_Inn_(1926_film)
+0,35,The White Hell of Pitz Palu,http://dbpedia.org/resource/The_White_Hell_of_Pitz_Palu_(1950_film),http://dbpedia.org/resource/The_White_Hell_of_Pitz_Palu http://dbpedia.org/resource/White_Hell_of_Pitz_Palu http://dbpedia.org/resource/Die_weisse_Hölle_vom_Piz_Palü http://dbpedia.org/resource/Die_weiße_Hölle_vom_Piz_Palü http://dbpedia.org/resource/Die_Weisse_Holle_vom_Piz_Palu http://dbpedia.org/resource/Die_Weiße_Hölle_vom_Piz_Palü http://dbpedia.org/resource/Die_Weisse_Hoelle_vom_Piz_Palue
+0,45,The White Angel,http://dbpedia.org/resource/The_White_Angel_(1936_film),http://dbpedia.org/resource/Angelo_Bianco http://dbpedia.org/resource/The_White_Angel_(1955_film) http://dbpedia.org/resource/L'angelo_bianco http://dbpedia.org/resource/L'Angelo_bianco
+0,49,The Westerner,http://dbpedia.org/resource/The_Westerner_(1940_film),http://dbpedia.org/resource/The_Westerner_(film)
+0,53,The Werewolf,http://dbpedia.org/resource/The_Werewolf_(1913_film),http://dbpedia.org/resource/The_Werewolf_(1956_film)
+0,54,The Well,http://dbpedia.org/resource/Well_Well_Well_(John_Lennon_song),http://dbpedia.org/resource/The_Well_(1951_film)
+0,55,The Well-Groomed Bride,http://dbpedia.org/resource/The_Well_Groomed_Bride,http://dbpedia.org/resource/The_Well-Groomed_Bride
+0,60,The Wedding,http://dbpedia.org/resource/The_Wedding_(TV_series),http://dbpedia.org/resource/The_Wedding_(TV_miniseries) http://dbpedia.org/resource/The_wedding_(1998_film) http://dbpedia.org/resource/The_Wedding_(miniseries)
+0,61,The Wedding,http://dbpedia.org/resource/The_Wedding_(TV_series),http://dbpedia.org/resource/The_Wedding_(1972_film)
+0,62,The Web,http://dbpedia.org/resource/World_Wide_Web,http://dbpedia.org/resource/The_Web_(film) http://dbpedia.org/resource/The_Web_(1947_film)
+0,63,The Weavers,http://dbpedia.org/resource/The_Weavers,http://dbpedia.org/resource/The_Weavers_(1927_film)
+0,65,The Weapon,http://dbpedia.org/resource/Lethal_Weapon_(TV_series),http://dbpedia.org/resource/The_Weapon_(film)
+0,66,The Weaker Sex,http://dbpedia.org/resource/The_Weaker_Sex,http://dbpedia.org/resource/The_Weaker_Sex_(1933_film)
+0,70,The Wayward Girl,http://dbpedia.org/resource/The_Wayward_Girl_(1959),http://dbpedia.org/resource/The_Wayward_Girl
+0,73,The Way of All Flesh,http://dbpedia.org/resource/The_Way_of_All_Flesh_(1927_film),http://dbpedia.org/resource/The_Way_of_All_Flesh_(1940_film) http://dbpedia.org/resource/The_Way_of_All_Flesh_(1955_film)
+0,87,The Warriors,http://dbpedia.org/resource/Xena:_Warrior_Princess,http://dbpedia.org/resource/The_Warriors_(film) http://dbpedia.org/resource/Warriors_(film) http://dbpedia.org/resource/The_Moonrunners_(gang) http://dbpedia.org/resource/The_Warriors_(2010_film) http://dbpedia.org/resource/List_of_characters_in_The_Warriors http://dbpedia.org/resource/Tom_McKitterick http://dbpedia.org/resource/The_Warriors_(2008_film) http://dbpedia.org/resource/List_of_The_Warriors_characters http://dbpedia.org/resource/Snow_(The_Warriors) http://dbpedia.org/resource/The_Warriors_(movie)
+0,88,The Warrior,http://dbpedia.org/resource/Xena:_Warrior_Princess,http://dbpedia.org/resource/The_Warrior_(2001_British_film)
+0,89,The Warning,http://dbpedia.org/resource/The_Warning_(Queensrÿche_album),http://dbpedia.org/resource/L'avvertimento http://dbpedia.org/resource/The_Warning_(1980_film)
+0,93,The War of the Worlds,http://dbpedia.org/resource/The_War_of_the_Worlds_(miniseries),http://dbpedia.org/resource/The_War_of_the_Worlds_(1953_movie) http://dbpedia.org/resource/The_War_of_the_Worlds_(1953_film) http://dbpedia.org/resource/Battle_of_Pine_Summit
+0,98,The War Is Over,http://dbpedia.org/resource/The_War_Is_Over_(1945_film),http://dbpedia.org/resource/La_guerre_est_finie http://dbpedia.org/resource/La_Guerre_Est_Finie http://dbpedia.org/resource/La_Guerre_est_finie http://dbpedia.org/resource/Guerre_est_finie http://dbpedia.org/resource/The_War_Is_Over_(film)
+0,103,The Walls of Jericho,http://dbpedia.org/resource/The_Walls_of_Jericho_(1948_film),http://dbpedia.org/resource/The_Walls_of_Jericho_(film)
+0,105,The Walk,http://dbpedia.org/resource/Walk_the_Walk,http://dbpedia.org/resource/To_Walk_the_Clouds http://dbpedia.org/resource/To_Walk_The_Clouds http://dbpedia.org/resource/The_Walk_(2015_film) http://dbpedia.org/resource/To_Reach_the_Clouds
+0,108,The Voyage,http://dbpedia.org/resource/Cosmos:_A_Personal_Voyage,http://dbpedia.org/resource/Il_Viaggio http://dbpedia.org/resource/The_Voyage_(film) http://dbpedia.org/resource/Il_viaggio_(film_1974) http://dbpedia.org/resource/Il_viaggio
+0,109,The Volga Boatman,http://dbpedia.org/resource/The_Volga_Boatman_(1926_film),http://dbpedia.org/resource/The_Volga_Boatman_(film)
+0,113,The Visit,http://dbpedia.org/resource/The_Visit_(musical),http://dbpedia.org/resource/Sundowning_(film) http://dbpedia.org/resource/The_Visit_(2015_American_film)
+0,114,The Visit,http://dbpedia.org/resource/The_Visit_(musical),http://dbpedia.org/resource/The_Visit_(1964_film)
+0,123,The Vintage,http://dbpedia.org/resource/WWE_Vintage,http://dbpedia.org/resource/The_Vintage
+0,124,The Village,http://dbpedia.org/resource/Village_People,http://dbpedia.org/resource/Village_(film) http://dbpedia.org/resource/The_Village_(2004_film) http://dbpedia.org/resource/Those_We_Do_Not_Speak_Of http://dbpedia.org/resource/The_Village_(soundtrack) http://dbpedia.org/resource/The_Village_(movie) http://dbpedia.org/resource/Those_We_Don't_Speak_Of
+0,125,The Vikings,http://dbpedia.org/resource/The_Lost_Vikings,http://dbpedia.org/resource/The_Vikings:_Movie_1958 http://dbpedia.org/resource/The_Vikings_(1958_film) http://dbpedia.org/resource/The_Vikings_(film)
+0,128,The Victors,http://pt.dbpedia.org/resource/Let_The_Victors_In!,http://dbpedia.org/resource/The_Victors_(movie) http://dbpedia.org/resource/The_Victors_(film)
+0,129,The Victor,http://dbpedia.org/resource/Victor_Talking_Machine_Company,http://dbpedia.org/resource/The_Victor_(film) http://dbpedia.org/resource/Der_Sieger
+0,131,The Very Thought of You,"http://dbpedia.org/resource/Martha,_Meet_Frank,_Daniel_and_Laurence",http://dbpedia.org/resource/The_Very_Thought_of_You_(film)
+0,143,The Vanishing American,http://dbpedia.org/resource/The_Vanishing_American_(1955_film),http://dbpedia.org/resource/The_Vanishing_American_(1925_film) http://dbpedia.org/resource/The_Vanishing_American
+0,144,The Vanishing,http://dbpedia.org/resource/The_Vanishing_Man,http://dbpedia.org/resource/The_Vanishing_(1993_film)
+0,145,The Van,http://dbpedia.org/resource/The_Auk,http://dbpedia.org/resource/The_Van_(1996_film)
+0,150,The Valet,"http://dbpedia.org/resource/Upstairs,_Downstairs_(1971_TV_series)",http://dbpedia.org/resource/La_Doublure_(film) http://dbpedia.org/resource/La_Doublure http://dbpedia.org/resource/The_Valet http://dbpedia.org/resource/The_Valet_(film)
+0,154,The Vagabond King,http://dbpedia.org/resource/The_Vagabond_King_(1956_film),http://dbpedia.org/resource/The_Vagabond_King_(1930_film) http://dbpedia.org/resource/Vagabond_King_(1930_film)
+0,155,The Vagabond,http://dbpedia.org/resource/Old_Yeller_(film),http://dbpedia.org/resource/The_Vagabond_(1953_film)

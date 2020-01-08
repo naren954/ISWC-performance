@@ -1,0 +1,5 @@
+F1: 0.72727,Precision: 0.72727,Recall: 0.72727,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,13,Thomas & Friends: King of the Railway,http://dbpedia.org/resource/Thomas_&_Friends:_King_of_the_Railway,http://dbpedia.org/resource/King_of_the_Railway
+1,15,Thomas & Friends: Tale of the Brave,http://dbpedia.org/resource/Thomas_&_Friends:_Tale_of_the_Brave,http://dbpedia.org/resource/Tale_of_the_Brave
+1,17,Thomas & Friends: Sodor's Legend of the Lost Treasure,http://dbpedia.org/resource/Thomas_&_Friends:_Sodor's_Legend_of_the_Lost_Treasure,http://dbpedia.org/resource/Sodor's_Legend_of_the_Lost_Treasure

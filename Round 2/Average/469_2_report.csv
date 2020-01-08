@@ -1,0 +1,10 @@
+F1: 0.73333,Precision: 0.73333,Recall: 0.73333,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,4,M. Davis,http://dbpedia.org/resource/Miles_Davis,"http://dbpedia.org/resource/Mac_Davis_(lyricist) http://dbpedia.org/resource/Scott_""Mac""_Davis http://dbpedia.org/resource/Mac_Davis http://dbpedia.org/resource/The_Mac_Davis_Show"
+2,14,A. Schroeder,http://dbpedia.org/resource/Jeff_Schroeder,http://dbpedia.org/resource/Aaron_Schroeder
+2,15,A. Lee,http://dbpedia.org/resource/Stan_Lee,http://dbpedia.org/resource/Love_(Arthur_Lee) http://dbpedia.org/resource/Arthur_Lee_(musician) http://dbpedia.org/resource/My_Diary_(Rosa_Lee_Brooks_song)
+2,16,B. Wilson,http://dbpedia.org/resource/Jackie_Wilson,"http://dbpedia.org/resource/Wilson,_Brian_Douglas http://dbpedia.org/resource/Brian_Wilson_(musician) http://dbpedia.org/resource/Sensitive_Music_for_Sensitive_People http://dbpedia.org/resource/Brian_Wilson http://dbpedia.org/resource/Brian_Douglas_Wilson http://dbpedia.org/resource/Brain_Wilson http://dbpedia.org/resource/Wilson,_Brian"
+2,20,B. Baum,http://dbpedia.org/resource/Vicki_Baum,http://dbpedia.org/resource/Bernie_Baum
+2,21,B. G. Jr.,http://dbpedia.org/resource/Nat_Adderley_Jr.,"http://dbpedia.org/resource/Barry_gordy http://dbpedia.org/resource/Barry_Gordy http://dbpedia.org/resource/Berry_Gordy,_Jr. http://dbpedia.org/resource/Berry_Gordy_Jr. http://dbpedia.org/resource/Berry_Gordy_Jnr http://dbpedia.org/resource/Berry_Gordy,_Jr http://dbpedia.org/resource/Berry_Gordy"
+2,24,K. Mann,http://dbpedia.org/resource/Klaus_Mann,http://dbpedia.org/resource/Kal_Mann
+2,29,B. Wilson,http://dbpedia.org/resource/Jackie_Wilson,"http://dbpedia.org/resource/Wilson,_Brian_Douglas http://dbpedia.org/resource/Brian_Wilson_(musician) http://dbpedia.org/resource/Sensitive_Music_for_Sensitive_People http://dbpedia.org/resource/Brian_Wilson http://dbpedia.org/resource/Brian_Douglas_Wilson http://dbpedia.org/resource/Brain_Wilson http://dbpedia.org/resource/Wilson,_Brian"

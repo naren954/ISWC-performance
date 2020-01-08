@@ -1,0 +1,6 @@
+F1: 0.76471,Precision: 0.76471,Recall: 0.76471,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,3,H. Krieger,http://de.dbpedia.org/resource/Richard_Krieger,http://dbpedia.org/resource/Henry_Krieger
+3,8,P. a. Paul,http://dbpedia.org/resource/Sean_Paul,http://dbpedia.org/resource/Pasek_and_paul http://dbpedia.org/resource/Pasek_and_Paul http://dbpedia.org/resource/Benj_Pasek
+3,10,S. Wilson,http://dbpedia.org/resource/Woodrow_Wilson,"http://dbpedia.org/resource/Sandy_Wilson http://dbpedia.org/resource/Wilson,_Sandy"
+3,13,S. Flaherty,http://dbpedia.org/resource/Ray_Flaherty,http://dbpedia.org/resource/Stephen_Flaherty

@@ -1,0 +1,4 @@
+"F1: 0.94872","Precision: 0.94872","Recall: 0.94872"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","27","Paul Jones","http://dbpedia.org/resource/Paul_Jones_(American_football)","http://dbpedia.org/resource/Paul_Jones_(wrestler) http://dbpedia.org/resource/Paul_Frederick"
+"1","17","Sting","http://dbpedia.org/resource/Sting_(wrestler)","http://dbpedia.org/resource/Imposter_Sting http://dbpedia.org/resource/Jeff_Farmer_(wrestler) http://dbpedia.org/resource/Super_J http://dbpedia.org/resource/N.W.O._Sting http://dbpedia.org/resource/Cobra_(wrestler) http://dbpedia.org/resource/Fake_Sting http://dbpedia.org/resource/NWo_Sting"

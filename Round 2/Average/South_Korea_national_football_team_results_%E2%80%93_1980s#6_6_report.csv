@@ -1,0 +1,7 @@
+F1: 0.58333,Precision: 0.58333,Recall: 0.58333,,
+Col,Row,Value,Submitted URI,Correct URI's
+6,3,"Huh Jung-Moo (2), Kim Seok-Won, Chung Jong-Soo",,http://dbpedia.org/resource/Huh_Jung_Moo http://dbpedia.org/resource/Huh_Jung-Moo http://dbpedia.org/resource/Huh_Jung-moo
+6,5,"Choi Soon-Ho, Park Chang-Seon, Lee Tae-Ho",http://dbpedia.org/resource/Assassination_of_Park_Chung-hee,http://dbpedia.org/resource/Choi_Soon-Ho http://dbpedia.org/resource/Choi_Soon-ho
+6,9,"Byun Byung-Joo, Choi Soon-Ho, Huh Jung-Moo, Kim Joo-Sung",,http://dbpedia.org/resource/Byun_Byung-Joo http://dbpedia.org/resource/Byun_Byung-joo
+6,12,Kim Joo-Sung,http://dbpedia.org/resource/Kim_Joo-sung_(basketball),http://dbpedia.org/resource/Joo-Sung_Kim http://dbpedia.org/resource/Kim_Joo-Sung http://dbpedia.org/resource/Kim_Joo-sung http://dbpedia.org/resource/Joosung_KIM http://dbpedia.org/resource/Joo-Sung_KIM http://dbpedia.org/resource/Joosung_Kim
+6,15,"Kim Jong-Boo, Choi Soon-Ho",http://dbpedia.org/resource/Choi_Soon-ho,http://dbpedia.org/resource/Kim_Jong-Boo http://dbpedia.org/resource/Kim_Jong-boo

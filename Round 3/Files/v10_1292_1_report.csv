@@ -1,0 +1,4 @@
+"F1: 0.93103","Precision: 0.93103","Recall: 0.93103"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","9","Wiley-VCH","http://dbpedia.org/resource/Wiley_(publisher)","http://dbpedia.org/resource/VCH_Publishers http://dbpedia.org/resource/Wiley-VCH_Verlag http://dbpedia.org/resource/Wiley–VCH http://dbpedia.org/resource/Wiley-VCH http://dbpedia.org/resource/Wiley-VCH_Verlag_GmbH_&_Co._KGaA http://dbpedia.org/resource/Wiley_VCH"
+"1","25","Harborside Press","http://dbpedia.org/resource/Yen_Press","http://dbpedia.org/resource/Cold_Spring_Publishing http://dbpedia.org/resource/Harborside_Press"

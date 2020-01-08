@@ -1,0 +1,4 @@
+F1: 0.60000,Precision: 0.60000,Recall: 0.60000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,The Front Page,http://dbpedia.org/resource/The_Front_Page_(1974_film),http://dbpedia.org/resource/The_Front_Page_(1931_film)
+0,4,Skippy,http://dbpedia.org/resource/Death,http://dbpedia.org/resource/Skippy_(1931_movie) http://dbpedia.org/resource/Skippy_(film) http://dbpedia.org/resource/Skippy_(1931_film)

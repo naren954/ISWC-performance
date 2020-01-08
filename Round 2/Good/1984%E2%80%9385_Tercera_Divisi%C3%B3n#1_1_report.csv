@@ -1,0 +1,5 @@
+F1: 0.78571,Precision: 0.78571,Recall: 0.78571,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,3,Castro,http://dbpedia.org/resource/Mauricio_Castro,http://dbpedia.org/resource/Castro_FC http://dbpedia.org/resource/Castro_CF
+1,5,Rayo Cantabria,http://dbpedia.org/resource/Deportivo_Rayo_Cantabria,http://dbpedia.org/resource/Racing_de_Santander_B
+1,15,Laredo,http://dbpedia.org/resource/Laredo_Heat,http://dbpedia.org/resource/CD_Laredo http://dbpedia.org/resource/SD_Laredo

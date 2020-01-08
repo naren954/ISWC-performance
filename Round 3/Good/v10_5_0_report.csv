@@ -1,0 +1,4 @@
+F1: 0.85714,Precision: 0.85714,Recall: 0.85714,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,12,C. Schmidt,http://de.dbpedia.org/resource/Carl_Schmidt_(Bischof),http://dbpedia.org/resource/Christen_Schmidt
+0,13,C. Blomfield,http://dbpedia.org/resource/Alfred_Blomfield,http://dbpedia.org/resource/Charles_Blomfield http://dbpedia.org/resource/C._J._Blomfield http://dbpedia.org/resource/Bishop_Blomfield http://dbpedia.org/resource/C.J._Blomfield http://dbpedia.org/resource/Charles_James_Blomfield

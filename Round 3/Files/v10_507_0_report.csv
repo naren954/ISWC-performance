@@ -1,0 +1,6 @@
+"F1: 0.94118","Precision: 0.94118","Recall: 0.94118"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","8","Oxygen","http://dbpedia.org/resource/Anna_Oxygen","http://dbpedia.org/resource/Oxygen_(horse)"
+"0","31","On-and-On","nan","http://dbpedia.org/resource/On-And-On http://dbpedia.org/resource/On-and-On"
+"0","35","Observatory","http://dbpedia.org/resource/Modra_Observatory","http://dbpedia.org/resource/Observatory_(horse)"
+"0","58","Noble","http://dbpedia.org/resource/Vaguely_Noble","http://dbpedia.org/resource/Noble_(horse)"

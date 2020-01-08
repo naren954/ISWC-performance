@@ -1,0 +1,19 @@
+F1: 0.78750,Precision: 0.78750,Recall: 0.78750,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,W. Wade,http://dbpedia.org/resource/Wallace_Wade,http://dbpedia.org/resource/Will_Wade_(basketball)
+0,7,T. Smith,http://dbpedia.org/resource/Tom_Smith_(basketball),http://dbpedia.org/resource/Tracy_Smith_(baseball)
+0,8,T. Bennett,"http://dbpedia.org/resource/Tony_Bennett_(basketball,_born_1969)",http://dbpedia.org/resource/Tony_Bennett_(basketball) http://dbpedia.org/resource/Tony_Bennett_(coach)
+0,9,T. Gilmore,http://dbpedia.org/resource/Ted_Gilmore,http://dbpedia.org/resource/Tom_Gilmore_(football_coach) http://dbpedia.org/resource/Tom_Gilmore_(American_football)
+0,15,T. Beck,"http://dbpedia.org/resource/Tim_Beck_(American_football,_born_1966)","http://dbpedia.org/resource/Tim_Beck_(American_football,_born_1964) http://dbpedia.org/resource/Tim_Beck_(Pittsburg_State_coach) http://dbpedia.org/resource/Tim_Beck_(Pittsburgh_State_coach)"
+0,20,T. K. Jr.,http://dbpedia.org/resource/Tim_Kempton_Jr.,"http://dbpedia.org/resource/Ted_Karras,_Jr. http://dbpedia.org/resource/Ted_Karras http://dbpedia.org/resource/Ted_Karras_Jr."
+0,21,S. Johnson,http://dbpedia.org/resource/Stanley_Johnson_(basketball),http://dbpedia.org/resource/Sydney_Johnson
+0,25,S. Johnson,http://dbpedia.org/resource/Stanley_Johnson_(basketball),"http://dbpedia.org/resource/Steve_Johnson_(American_football,_born_1956)"
+0,26,S. Campbell,"http://dbpedia.org/resource/Scott_Campbell_(ice_hockey,_born_1972)",http://dbpedia.org/resource/Steve_Campbell_(American_football)
+0,30,S. Miller,http://dbpedia.org/resource/Steven_Miller_(gridiron_football),http://dbpedia.org/resource/Sean_Miller
+0,36,R. Williams,"http://dbpedia.org/resource/Reggie_Williams_(basketball,_born_1964)",http://dbpedia.org/resource/Ryun_Williams
+0,46,R. Miller,http://dbpedia.org/resource/Ryan_Miller,http://dbpedia.org/resource/Regina_Miller
+0,52,P. Johnson,"http://dbpedia.org/resource/Phil_Johnson_(basketball,_born_1941)",http://dbpedia.org/resource/Paul_Johnson_(American_football_coach) http://dbpedia.org/resource/Paul_Johnson_(coach) http://dbpedia.org/resource/Paul_Johnson_(American_football)
+0,53,M. Lee,http://dbpedia.org/resource/Marqise_Lee,http://dbpedia.org/resource/Monte_Lee
+0,57,M. White,http://dbpedia.org/resource/Mike_White_(defensive_lineman),http://dbpedia.org/resource/Michael_White(basketball) http://dbpedia.org/resource/Michael_White_(basketball) http://dbpedia.org/resource/Mike_White_(basketball)
+0,65,M. Kelly,http://dbpedia.org/resource/Mike_Kelly_(American_football_coach),http://dbpedia.org/resource/Mike_Kelly_(football_coach) http://dbpedia.org/resource/Mike_Kelly_(gridiron_football) http://dbpedia.org/resource/Mike_Kelly_(gridiron_coach) http://dbpedia.org/resource/Mike_Kelly_(CFL_coach) http://dbpedia.org/resource/Mike_Kelly_(Canadian_football) http://dbpedia.org/resource/Mike_Kelly_(CFL)
+0,75,M. Joseph,http://dbpedia.org/resource/Maurice_Joseph,http://dbpedia.org/resource/MaChelle_Joseph

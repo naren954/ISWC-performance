@@ -1,0 +1,7 @@
+"F1: 0.83871","Precision: 0.83871","Recall: 0.83871"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","5","You Can't Take It With You","http://dbpedia.org/resource/You_Can't_Take_It_with_You_(film)","http://dbpedia.org/resource/You_Can't_Take_It_With_You_(film)"
+"1","8","In Name Only","http://dbpedia.org/resource/Godzilla_(1998_film)","http://dbpedia.org/resource/In_Name_Only"
+"1","10","Midnight","http://dbpedia.org/resource/Midnight,_Texas","http://dbpedia.org/resource/Midnight_(1939_film)"
+"1","15","To Be or Not to Be","http://dbpedia.org/resource/To_Be_or_Not_to_Be_(song)","http://dbpedia.org/resource/To_Be_or_Not_to_Be_(1942_film)"
+"1","27","Lady in the Lake","http://dbpedia.org/resource/Lady_of_the_Lake_(Once_Upon_a_Time)","http://dbpedia.org/resource/Lady_in_the_lake http://dbpedia.org/resource/Lady_in_the_Lake"

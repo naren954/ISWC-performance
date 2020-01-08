@@ -1,0 +1,6 @@
+"F1: 0.00000","Precision: 0.00000","Recall: 0.00000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","1","Burkina Faso","http://dbpedia.org/resource/Burkina_Faso","http://dbpedia.org/resource/Upper_Volta_national_football_team http://dbpedia.org/resource/Burkina_Faso_national_football_team http://dbpedia.org/resource/Burkina_faso_national_football_team"
+"0","2","Mali","http://dbpedia.org/resource/Mali","http://dbpedia.org/resource/Mali_national_football_team"
+"0","3","Benin","http://dbpedia.org/resource/Benin","http://dbpedia.org/resource/Benin_national_football_team http://dbpedia.org/resource/Dahomey_national_football_team"
+"0","4","Guinea-Bissau","http://dbpedia.org/resource/Guinea-Bissau","http://dbpedia.org/resource/Portuguese_Guinea_national_football_team http://dbpedia.org/resource/Guinea_Bissau_national_football_team http://dbpedia.org/resource/Guinea-Bissau_national_football_team"

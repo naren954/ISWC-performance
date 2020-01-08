@@ -1,0 +1,8 @@
+F1: 0.64706,Precision: 0.64706,Recall: 0.64706,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,2,R. D. Reed,http://dbpedia.org/resource/Les_Reed_(songwriter),http://dbpedia.org/resource/Roland_D._Reed
+1,6,J. Gilbert,http://dbpedia.org/resource/John_Gilbert_(actor),http://dbpedia.org/resource/John_Gilbert_(film_editor)
+1,9,J. Seabourne,http://es.dbpedia.org/resource/Thomas_Seabourne,http://dbpedia.org/resource/John_Seabourne_Sr. http://dbpedia.org/resource/John_Seabourne
+1,12,W. A. Thompson,http://dbpedia.org/resource/D'Arcy_Wentworth_Thompson,http://dbpedia.org/resource/Walter_A._Thompson
+1,15,R. Beck,http://dbpedia.org/resource/Roxanne_Beck,http://dbpedia.org/resource/Reginald_Beck
+1,17,R. Best,http://dbpedia.org/resource/Eve_Best,http://dbpedia.org/resource/Richard_Best_(film_editor)

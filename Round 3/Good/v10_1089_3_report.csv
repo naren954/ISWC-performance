@@ -1,0 +1,5 @@
+F1: 0.85000,Precision: 0.85000,Recall: 0.85000,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,7,The Professionals,http://dbpedia.org/resource/The_Professionals_(album),"http://dbpedia.org/resource/William_Bodie http://dbpedia.org/resource/Professionals,_The http://dbpedia.org/resource/CI5 http://dbpedia.org/resource/Bodie_and_Doyle http://dbpedia.org/resource/The_Professionals_(TV_Series) http://dbpedia.org/resource/The_Professionals_(TV_series)"
+3,10,Born Free,http://dbpedia.org/resource/Born_Free_(TV_series),http://dbpedia.org/resource/Born_Free http://dbpedia.org/resource/Born_Free_(film) http://dbpedia.org/resource/Born_free http://dbpedia.org/resource/Boy_(lion)
+3,18,Pirivom Santhippom,http://dbpedia.org/resource/Pirivom_Santhippom,http://dbpedia.org/resource/Pirivom_Santhippom_(TV_series) http://dbpedia.org/resource/Pirivom_Santhippom_(serial) http://dbpedia.org/resource/Pirivom_santhippom_(serial)

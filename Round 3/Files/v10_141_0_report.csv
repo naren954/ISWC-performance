@@ -1,0 +1,4 @@
+"F1: 0.86667","Precision: 0.86667","Recall: 0.86667"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","5","D. Black","http://dbpedia.org/resource/Davidson_Black","http://dbpedia.org/resource/Black_electoral_system http://dbpedia.org/resource/Duncan_Black http://dbpedia.org/resource/D._Black"
+"0","10","D. Gordon","http://dbpedia.org/resource/David_Gordon_(Australian_politician)","http://dbpedia.org/resource/David_Gordon_(economist) http://dbpedia.org/resource/David_Gordon_(economist_born_1944)"

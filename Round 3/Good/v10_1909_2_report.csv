@@ -1,0 +1,10 @@
+F1: 0.88732,Precision: 0.88732,Recall: 0.88732,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,3,Women,http://dbpedia.org/resource/Feminism,http://dbpedia.org/resource/Women_(novel) http://dbpedia.org/resource/Women_(book)
+2,21,Sacred,http://dbpedia.org/resource/Sacred_(video_game),http://dbpedia.org/resource/Sacred_(novel)
+2,22,The Hamlet,http://dbpedia.org/resource/The_Klingon_Hamlet,http://dbpedia.org/resource/The_Hamlet http://dbpedia.org/resource/Flem_Snopes http://dbpedia.org/resource/Snopes_Family http://dbpedia.org/resource/The_Hamlet_(novel)
+2,25,My Life,http://dbpedia.org/resource/My_Life_(50_Cent_song),http://dbpedia.org/resource/My_Life_(Bill_Clinton_autobiography) http://dbpedia.org/resource/My_Life_(memoir)
+2,26,The A-List,http://dbpedia.org/resource/The_A_List_(album),http://dbpedia.org/resource/The_A-List_(novel)
+2,38,Frost,http://dbpedia.org/resource/Frost_(album),http://dbpedia.org/resource/Frost_(novel) http://dbpedia.org/resource/Frost_(book)
+2,70,Reunion,http://dbpedia.org/resource/Force_Heretic:_Reunion,http://dbpedia.org/resource/Reunion_(novel)
+2,71,At the Core,,http://dbpedia.org/resource/At_the_Core_(Larry_Niven_story) http://dbpedia.org/resource/At_the_Core http://dbpedia.org/resource/At_the_Core_(story) http://dbpedia.org/resource/Long_Shot_(Niven)

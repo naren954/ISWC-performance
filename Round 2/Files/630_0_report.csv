@@ -1,0 +1,5 @@
+"F1: 0.72727","Precision: 0.72727","Recall: 0.72727"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","1","PROFILE Systems and Software","http://dbpedia.org/resource/Profile_Systems_and_Software","http://dbpedia.org/resource/PROFILE_Systems_and_Software"
+"0","3","GoCardless","nan","http://dbpedia.org/resource/GoCardless"
+"0","11","Ameris Bancorp","http://dbpedia.org/resource/U.S._Bancorp","http://dbpedia.org/resource/Ameris_Bancorp http://dbpedia.org/resource/Ameris_Bank http://dbpedia.org/resource/American_Banking_Company http://dbpedia.org/resource/ABC_Holding_Company http://dbpedia.org/resource/AMERIS_BANCORP http://dbpedia.org/resource/ABC_Bancorp"

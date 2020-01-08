@@ -1,0 +1,6 @@
+"F1: 0.71429","Precision: 0.71429","Recall: 0.71429"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"2","2","K. Keller","http://dbpedia.org/resource/Kasey_Keller","http://dbpedia.org/resource/Klete_Keller"
+"2","8","C. Thompson","http://dbpedia.org/resource/Camille_Thompson","http://dbpedia.org/resource/Chris_Thompson_(swimmer)"
+"2","11","R. Sloudnov","http://dbpedia.org/resource/R_with_stroke","http://dbpedia.org/resource/Sloudnov http://dbpedia.org/resource/Roman_Sludnov http://dbpedia.org/resource/Roman_Sloudnov"
+"2","14","S. Völker","http://dbpedia.org/resource/Sabine_Völker","http://dbpedia.org/resource/Sandra_Völker http://dbpedia.org/resource/Sandra_Volker http://dbpedia.org/resource/Sandra_Voelker"

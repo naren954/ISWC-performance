@@ -1,0 +1,6 @@
+F1: 0.86667,Precision: 0.86667,Recall: 0.86667,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,11,New Forest,http://dbpedia.org/resource/New_Forest,http://dbpedia.org/resource/New_Forest_(UK_Parliament_constituency)
+0,15,Newport (Monmouthshire),"http://dbpedia.org/resource/Newport,_Rhode_Island",http://dbpedia.org/resource/Newport_(Monmouthshire)_(UK_Parliament_constituency)
+0,23,Northampton South,http://dbpedia.org/resource/South_Northamptonshire_(UK_Parliament_constituency),http://dbpedia.org/resource/Northampton_South_(UK_Parliament_constituency) http://dbpedia.org/resource/Northampton_South
+0,27,Norwood,"http://dbpedia.org/resource/Norwood,_Ohio",http://dbpedia.org/resource/Lambeth_Norwood_(UK_Parliament_constituency) http://dbpedia.org/resource/Norwood_Division http://dbpedia.org/resource/Norwood_(UK_Parliament_constituency)

@@ -1,0 +1,8 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,Maccabi BucureÈ\u0099ti,,http://dbpedia.org/resource/Maccabi_București
+1,2,AS CFR BraÈ\u0099ov,http://de.dbpedia.org/resource/CFR-Baureihe_96,http://dbpedia.org/resource/AS_CFR_Brașov
+1,5,Sportul StudenÈ\u009Besc BucureÈ\u0099ti,http://dbpedia.org/resource/C0_and_C1_control_codes,http://dbpedia.org/resource/Sportul_Studențesc_București
+1,6,BraÅ\u009Fovia BraÅ\u009Fov,http://dbpedia.org/resource/C0_and_C1_control_codes,http://dbpedia.org/resource/Braşovia_Braşov
+1,7,Prahova PloieÈ\u0099ti,,http://dbpedia.org/resource/Prahova_Ploiești
+1,8,Tricolor PloieÈ\u0099ti,,http://dbpedia.org/resource/Tricolor_Ploiești

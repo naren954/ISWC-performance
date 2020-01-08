@@ -1,0 +1,6 @@
+"F1: 0.60000","Precision: 0.60000","Recall: 0.60000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"3","2","R. Waldman","http://dbpedia.org/resource/Anne_Waldman","http://dbpedia.org/resource/Robert_Waldman"
+"3","4","E. Drake","http://dbpedia.org/resource/Alfred_Drake","http://dbpedia.org/resource/Ervin_Drake"
+"3","5","B. Merrill","http://dbpedia.org/resource/Dina_Merrill","http://dbpedia.org/resource/Bob_Merrill"
+"3","10","P. Williams","http://dbpedia.org/resource/Pharrell_Williams","http://dbpedia.org/resource/Paul_Williams_(songwriter)"

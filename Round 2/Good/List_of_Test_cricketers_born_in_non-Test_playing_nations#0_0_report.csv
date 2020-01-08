@@ -1,0 +1,8 @@
+F1: 0.88235,Precision: 0.88235,Recall: 0.88235,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,4,Tom Campbell,http://dbpedia.org/resource/Tom_Campbell_(ice_hockey),"http://dbpedia.org/resource/Tom_Campbell http://dbpedia.org/resource/Tom_Campbell_(footballer) http://dbpedia.org/resource/Thomas_Campbell_(disambiguation) http://dbpedia.org/resource/Thomas_Campbell_(cricketer) http://dbpedia.org/resource/Tom_Campbell_(cricketer) http://dbpedia.org/resource/Tom_Campbell_(disambiguation) http://dbpedia.org/resource/Tommy_Campbell http://dbpedia.org/resource/Campbell,_Thomas http://dbpedia.org/resource/Thomas_Campbell"
+0,6,Frederick Cook,http://dbpedia.org/resource/Bun_Cook,http://dbpedia.org/resource/Frederick_Cook_(cricketer)
+0,15,MoisÃ©s Henriques,http://dbpedia.org/resource/Moises_Henriques,http://dbpedia.org/resource/Moisés_Henriques
+0,24,Amjad Khan,http://dbpedia.org/resource/Amjad_Khan_(American_cricketer),"http://dbpedia.org/resource/Amjad_Khan_(cricketer,_born_1980) http://dbpedia.org/resource/Amjad_Khan_(English_cricketer)"
+0,34,Stephen O'Keefe,http://dbpedia.org/resource/Steve_O'Keefe,http://dbpedia.org/resource/Stephen_O'Keefe
+0,36,Dipak Patel,"http://dbpedia.org/resource/Dipak_Patel_(cricketer,_born_1961)","http://dbpedia.org/resource/Dipak_Patel_(cricketer,_born_1958)"

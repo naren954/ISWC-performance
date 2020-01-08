@@ -1,0 +1,24 @@
+F1: 0.83459,Precision: 0.83459,Recall: 0.83459,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,14,Williamson Page House,"http://dbpedia.org/resource/Williamson_House_(Louisburg,_North_Carolina)",http://dbpedia.org/resource/Williamson_Page_House
+0,16,Williamson House,"http://dbpedia.org/resource/Williamson_House_(Louisburg,_North_Carolina)","http://dbpedia.org/resource/Williamson_House_(Goshen,_New_Hampshire)"
+0,26,Williams House,"http://dbpedia.org/resource/Williams_House_(Richlands,_Virginia)","http://dbpedia.org/resource/Williams_House_(Odessa,_Delaware)"
+0,27,Williams Historic Business District,http://dbpedia.org/resource/Demopolis_Historic_Business_District,http://dbpedia.org/resource/Williams_Historic_Business_District
+0,30,Williams-Powell House,http://dbpedia.org/resource/John_Powell_House,http://dbpedia.org/resource/Williams-Powell_House
+0,31,Williams-Ligon House,"http://dbpedia.org/resource/William_Williams_House_(Lebanon,_Connecticut)",http://dbpedia.org/resource/Williams-Ligon_House
+0,33,Williams-Gierth House,"http://dbpedia.org/resource/William_Williams_House_(Lebanon,_Connecticut)",http://dbpedia.org/resource/Williams-Gierth_House
+0,34,Williams-Brown House and Store,http://dbpedia.org/resource/Williams–Brown_House_and_Store,http://dbpedia.org/resource/Williams-Brown_House_and_Store
+0,39,William and Mary,http://dbpedia.org/resource/William_and_Mary_Hosmer_House,http://dbpedia.org/resource/William_and_Mary_(Messersmith)_Seerley_Barn_and_Milkhouse-Smokehouse
+0,47,William Wrigley Jr. Summer Cottage,http://dbpedia.org/resource/Wrigley_Mansion,"http://dbpedia.org/resource/William_Wrigley_Jr._Summer_Cottage http://dbpedia.org/resource/William_Wrigley,_Jr._Summer_Cottage"
+0,65,William Taylor House,"http://dbpedia.org/resource/William_Taylor_House_(Resaca,_Georgia)","http://dbpedia.org/resource/William_Taylor_House_(Middleport,_New_York)"
+0,66,William Talley House,"http://dbpedia.org/resource/William_Talley_House_(Safford,_Arizona)","http://dbpedia.org/resource/William_Talley_House_(Wilmington,_Delaware)"
+0,79,William Smith House,"http://dbpedia.org/resource/William_Smith_House_(Wrightstown,_Pennsylvania)","http://dbpedia.org/resource/William_Smith_House_(Hamilton,_Virginia)"
+0,80,William Smith House,"http://dbpedia.org/resource/William_Smith_House_(Wrightstown,_Pennsylvania)","http://dbpedia.org/resource/William_Smith_House_(Aurora,_Colorado)"
+0,81,William Shoemaker Junior High School,http://dbpedia.org/resource/Shaw_Junior_High_School,http://dbpedia.org/resource/William_Shoemaker_Junior_High_School
+0,85,William Sewall House,http://dbpedia.org/resource/Richards-Sewall_House,http://dbpedia.org/resource/William_Sewall_House
+0,89,William S. Smith House,"http://dbpedia.org/resource/William_Smith_House_(Wrightstown,_Pennsylvania)",http://dbpedia.org/resource/William_S._Smith_House
+0,108,William Penn High School for Girls,http://dbpedia.org/resource/Franklin_Learning_Center,http://dbpedia.org/resource/William_Penn_High_School_for_Girls
+0,112,William Parker Straw House,http://dbpedia.org/resource/William_Parker_House,http://dbpedia.org/resource/William_Parker_Straw_House
+0,116,William P. Stroman House,http://dbpedia.org/resource/William_P._Warnock_House,http://dbpedia.org/resource/William_P._Stroman_House
+0,122,William N. Thompson House,"http://dbpedia.org/resource/William_Thompson_House_(Camden,_Tennessee)",http://dbpedia.org/resource/William_N._Thompson_House
+0,131,William Mann School,http://dbpedia.org/resource/Mastery_Charter_School_Mann_Elementary,http://dbpedia.org/resource/William_Mann_School

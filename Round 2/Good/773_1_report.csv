@@ -1,0 +1,5 @@
+F1: 0.86364,Precision: 0.86364,Recall: 0.86364,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,15,Lucerne,http://dbpedia.org/resource/Canton_of_Lucerne,http://dbpedia.org/resource/Lucerne_District http://dbpedia.org/resource/Lucerne_(Amt) http://dbpedia.org/resource/Lucerne_(district) http://dbpedia.org/resource/District_of_Lucerne http://dbpedia.org/resource/Luzern_(Amt)
+1,18,Statutory city,"http://dbpedia.org/resource/Garden_City,_Colorado",http://dbpedia.org/resource/Statutory_city_(Austria) http://dbpedia.org/resource/Statutarstadt http://dbpedia.org/resource/History_of_Statutory_city_(Austria) http://dbpedia.org/resource/Statutarstädte
+1,20,Leibnitz,http://dbpedia.org/resource/Leibnitz_District,http://dbpedia.org/resource/History_of_Leibnitz http://dbpedia.org/resource/Liebnitz http://dbpedia.org/resource/Leibnitz

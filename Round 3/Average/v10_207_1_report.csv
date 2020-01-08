@@ -1,0 +1,90 @@
+F1: 0.51381,Precision: 0.51381,Recall: 0.51381,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,G. Akers,http://dbpedia.org/resource/Doris_Akers,http://dbpedia.org/resource/George_Akers
+1,4,J. Hively,http://dbpedia.org/resource/George_Hively,http://dbpedia.org/resource/Jack_Hively
+1,5,M. Kahn,http://dbpedia.org/resource/Madeline_Kahn,http://dbpedia.org/resource/Michael_Kahn_(film_editor)
+1,10,A. Corriveau,http://dbpedia.org/resource/Marie-Josephte_Corriveau,http://dbpedia.org/resource/Andre_Corriveau_(filmmaker) http://dbpedia.org/resource/André_Corriveau_(filmmaker)
+1,12,T. Noble,http://dbpedia.org/resource/James_Noble_(actor),http://dbpedia.org/resource/Thom_Noble
+1,15,A. Gonçalves,http://pt.dbpedia.org/resource/André_Gonçalves_(ator),http://dbpedia.org/resource/Affonso_Gonçalves
+1,16,J. Sweeney,http://dbpedia.org/resource/Julia_Sweeney,http://dbpedia.org/resource/James_Sweeney_(film_editor)
+1,17,A. Todd,http://dbpedia.org/resource/Ann_Todd,http://dbpedia.org/resource/Alvin_Todd
+1,18,M. Mak,http://dbpedia.org/resource/Max_Planck,http://dbpedia.org/resource/Marco_Mak_Chi_Sin http://dbpedia.org/resource/Marco_Mak
+1,19,P. Pudi,http://dbpedia.org/resource/Danny_Pudi,http://dbpedia.org/resource/Prawin_Pudi http://dbpedia.org/resource/Praveen_Pudi
+1,22,J. Needs,http://dbpedia.org/resource/Chris_Needs,http://dbpedia.org/resource/James_Needs
+1,24,M. Morra,http://it.dbpedia.org/resource/Massimiliano_Morra,http://dbpedia.org/resource/Mario_Morra
+1,26,M. Paredes,http://dbpedia.org/resource/Marisa_Paredes,http://dbpedia.org/resource/María_Paredes http://dbpedia.org/resource/Maria_Paredes
+1,27,A. Varney,http://dbpedia.org/resource/Jim_Varney,http://dbpedia.org/resource/Arthur_Varney http://dbpedia.org/resource/Amerigo_Serrao http://dbpedia.org/resource/Grover_Lee
+1,28,B. Malkin,http://de.dbpedia.org/resource/Borys_Malkin,http://dbpedia.org/resource/Barry_Malkin
+1,30,J. Orton,http://dbpedia.org/resource/Joe_Orton,http://dbpedia.org/resource/John_Andrew_Orton http://dbpedia.org/resource/John_Orton
+1,31,M. Rootes,http://dbpedia.org/resource/Amanda_Root,http://dbpedia.org/resource/Maurice_Rootes
+1,35,T. McArdle,http://dbpedia.org/resource/Andrea_McArdle,http://dbpedia.org/resource/Tom_McArdle
+1,36,H. Dixon,http://dbpedia.org/resource/Luther_Dixon,http://dbpedia.org/resource/Humphrey_Dixon
+1,40,P. May,http://dbpedia.org/resource/Peter_May_(cricketer),http://dbpedia.org/resource/Paul_Ostermayr http://dbpedia.org/resource/Paul_May http://dbpedia.org/resource/Paul_Obermayr
+1,41,J. Coblentz,http://dbpedia.org/resource/William_Coblentz,http://dbpedia.org/resource/James_Coblentz
+1,45,M. Benedict,http://dbpedia.org/resource/Julius_Benedict,http://dbpedia.org/resource/Max_Benedict
+1,46,L. Walker,http://dbpedia.org/resource/Lawrence_Walker,http://dbpedia.org/resource/Lesley_Walker
+1,48,K. Roberts,http://dbpedia.org/resource/Kate_Roberts_(author),http://dbpedia.org/resource/Kim_Roberts_(filmmaker)
+1,49,D. Leonard,http://dbpedia.org/resource/Leonard_Bernstein,http://dbpedia.org/resource/David_Leonard_(musician)
+1,51,E. Newman,http://dbpedia.org/resource/Paul_Newman,http://dbpedia.org/resource/Eve_Newman
+1,52,D. Spencer,"http://dbpedia.org/resource/Diana,_Princess_of_Wales",http://dbpedia.org/resource/Dorothy_Spencer
+1,53,D. Dunham,http://dbpedia.org/resource/Lena_Dunham,http://dbpedia.org/resource/Duwayne_Dunham
+1,54,A. DeGaetano,http://dbpedia.org/resource/Rino_Gaetano,http://dbpedia.org/resource/Alfred_DeGaetano http://dbpedia.org/resource/Al_De_Gaetano
+1,56,J. Legard,http://dbpedia.org/resource/Jonathan_Legard,"http://dbpedia.org/resource/Sir_John_Legard,_1st_Baronet http://dbpedia.org/resource/John_Legard"
+1,57,A. Todd,http://dbpedia.org/resource/Ann_Todd,http://dbpedia.org/resource/Alvin_Todd
+1,58,C. Archer,http://dbpedia.org/resource/Anne_Archer,http://dbpedia.org/resource/Cam_Archer
+1,60,F. Mazzola,http://dbpedia.org/resource/Parmigianino,http://dbpedia.org/resource/Frank_Mazzola
+1,68,J. Poll,http://dbpedia.org/resource/Max_Poll,http://dbpedia.org/resource/Responsible_Adults_(film) http://dbpedia.org/resource/Jon_Poll http://dbpedia.org/resource/Responsible_Adults
+1,70,J. Murray,http://dbpedia.org/resource/John_Murray_(oceanographer),http://dbpedia.org/resource/Jack_Murray_(film_editor)
+1,71,W. A. Thompson,http://dbpedia.org/resource/D'Arcy_Wentworth_Thompson,http://dbpedia.org/resource/Walter_A._Thompson
+1,73,J. Bustos,http://dbpedia.org/resource/Juan_Bustos,http://dbpedia.org/resource/Jorge_Bustos http://dbpedia.org/resource/Jorge_Busto
+1,75,S. B. Jacobson,http://de.dbpedia.org/resource/Allan_S._Jacobson,http://dbpedia.org/resource/Sam_B._Jacobson
+1,76,T. Pratt,http://dbpedia.org/resource/Hugo_Pratt,http://dbpedia.org/resource/Thomas_Pratt_(film_editor)
+1,78,M. Pensa,http://dbpedia.org/resource/Pietro_Pensa,http://dbpedia.org/resource/Martin_Pensa
+1,79,R. C. Currier,http://dbpedia.org/resource/R._C._Sherriff,http://dbpedia.org/resource/Richard_C._Currier http://dbpedia.org/resource/Richard_Currier
+1,81,G. N. Jr.,http://dbpedia.org/resource/George_Nicholls_Jr.,"http://dbpedia.org/resource/George_Nicholls,_Jr."
+1,84,W. Hamilton,http://dbpedia.org/resource/William_Hamilton_(diplomat),http://dbpedia.org/resource/William_Hamilton_(film_editor) http://dbpedia.org/resource/Wm._Hamilton
+1,85,M. Benedict,http://dbpedia.org/resource/Julius_Benedict,http://dbpedia.org/resource/Max_Benedict
+1,86,D. Kern,http://dbpedia.org/resource/Jerome_Kern,http://dbpedia.org/resource/David_Kern http://dbpedia.org/resource/David_J._Kern
+1,87,D. Gross,http://dbpedia.org/resource/David_Gross,http://dbpedia.org/resource/Daniel_Gross
+1,90,K. Mackenzie,http://dbpedia.org/resource/Alexander_Mackenzie_(composer),http://dbpedia.org/resource/Kent_Mackenzie
+1,91,J. Murray,http://dbpedia.org/resource/John_Murray_(oceanographer),http://dbpedia.org/resource/Jack_Murray_(film_editor)
+1,92,B. Yong-kyun,http://dbpedia.org/resource/Park_Yong-kyun,http://dbpedia.org/resource/Yong-Kyun_Bae http://dbpedia.org/resource/Bae_Yong_Kyun http://dbpedia.org/resource/Bae_Yong-kyun http://dbpedia.org/resource/Bae_Yong-gyun http://dbpedia.org/resource/Bae_Yong-Kyun http://dbpedia.org/resource/Bae_Yong-Kyoon http://dbpedia.org/resource/Bae_Yong_Kyoon http://dbpedia.org/resource/Bae_Yongkyun
+1,102,B. Malkin,http://de.dbpedia.org/resource/Borys_Malkin,http://dbpedia.org/resource/Barry_Malkin
+1,103,A. Schmidt,http://dbpedia.org/resource/Arno_Schmidt,http://dbpedia.org/resource/Arthur_Schmidt_(film_editor) http://dbpedia.org/resource/Arthur_R._Schmidt
+1,105,J. Serra,http://dbpedia.org/resource/Junípero_Serra,http://dbpedia.org/resource/Joan_Serra http://dbpedia.org/resource/Juan_Serra
+1,106,S. Mosier,http://dbpedia.org/resource/Susan_Mosier,http://dbpedia.org/resource/Scott_Mosier
+1,108,P. J. Herring,http://dbpedia.org/resource/Jimmy_Herring,http://dbpedia.org/resource/Pembroke_Herring http://dbpedia.org/resource/Pem_Herring http://dbpedia.org/resource/Pembroke_J._Herring
+1,110,E. Turner,http://dbpedia.org/resource/Eva_Turner,http://dbpedia.org/resource/Earl_Turner_(film_editor)
+1,113,J. Bloom,http://dbpedia.org/resource/Claire_Bloom,http://dbpedia.org/resource/John_Bloom_(film_editor) http://dbpedia.org/resource/John_Bloom_(editor)
+1,118,R. Mastroianni,http://dbpedia.org/resource/Marcello_Mastroianni,http://dbpedia.org/resource/Ruggero_Mastroianni http://dbpedia.org/resource/Ruggiero_Mastroianni
+1,120,L. Grisebach,http://de.dbpedia.org/resource/August_Grisebach_(Kunsthistoriker),http://dbpedia.org/resource/Ludolf_Grisebach
+1,122,H. N. Todd,http://dbpedia.org/resource/William_Frederick_Todd,http://dbpedia.org/resource/Holbrook_N._Todd http://dbpedia.org/resource/Holbrook_Todd
+1,124,W. O'Shea,http://dbpedia.org/resource/Milo_O'Shea,http://dbpedia.org/resource/William_O’Shea http://dbpedia.org/resource/William_Henry_O'Shea http://dbpedia.org/resource/William_O'Shea http://dbpedia.org/resource/Captain_O'Shea http://dbpedia.org/resource/W._H._O'Shea http://dbpedia.org/resource/Willie_O'Shea http://dbpedia.org/resource/Willy_O'Shea
+1,126,T. Priestley,http://dbpedia.org/resource/J._B._Priestley,http://dbpedia.org/resource/Tom_Priestley
+1,127,J. Cox,http://dbpedia.org/resource/Jo_Cox,http://dbpedia.org/resource/Joel_Cox
+1,130,E. Turner,http://dbpedia.org/resource/Eva_Turner,http://dbpedia.org/resource/Earl_Turner_(film_editor)
+1,131,B. Gribble,http://dbpedia.org/resource/Matt_Gribble,http://dbpedia.org/resource/Bernard_Gribble
+1,132,M. Renoir,http://dbpedia.org/resource/Jean_Renoir,http://dbpedia.org/resource/Marguerite_Houllé http://dbpedia.org/resource/Marguerite_Renoir
+1,135,S. Fields,http://dbpedia.org/resource/Stanley_Fields_(actor),http://dbpedia.org/resource/Sam_Fields http://dbpedia.org/resource/Sammy_Fields
+1,136,M. Benedict,http://dbpedia.org/resource/Julius_Benedict,http://dbpedia.org/resource/Max_Benedict
+1,138,R. C. Currier,http://dbpedia.org/resource/R._C._Sherriff,http://dbpedia.org/resource/Richard_C._Currier http://dbpedia.org/resource/Richard_Currier
+1,139,L. Laurance,http://dbpedia.org/resource/John_Laurance,http://dbpedia.org/resource/Lister_Laurance
+1,140,J. Needs,http://dbpedia.org/resource/Chris_Needs,http://dbpedia.org/resource/James_Needs
+1,145,M. d. Ochoa,http://es.dbpedia.org/resource/Armando_Guevara_Ochoa,http://dbpedia.org/resource/Margarita_de_Ochoa
+1,147,R. Cahoon,http://dbpedia.org/resource/William_Cahoon,http://dbpedia.org/resource/Richard_Cahoon
+1,148,T. Cross,http://dbpedia.org/resource/Tom_Cross_(rugby),http://dbpedia.org/resource/Tom_Cross_(editor)
+1,149,F. Magee,http://dbpedia.org/resource/Patrick_Magee_(actor),http://dbpedia.org/resource/Frank_Magee
+1,150,D. Tichenor,http://dbpedia.org/resource/Isaac_Tichenor,http://dbpedia.org/resource/Dylan_Tichenor
+1,154,B. Green,http://dbpedia.org/resource/Bennie_Green,http://dbpedia.org/resource/Bruce_Green
+1,155,R. Mastroianni,http://dbpedia.org/resource/Marcello_Mastroianni,http://dbpedia.org/resource/Ruggero_Mastroianni http://dbpedia.org/resource/Ruggiero_Mastroianni
+1,156,W. M. Anderson,http://dbpedia.org/resource/Warren_Melville_Anderson,http://dbpedia.org/resource/William_M._Anderson
+1,158,R. Lawrence,http://dbpedia.org/resource/Ernest_Lawrence,http://dbpedia.org/resource/Robert_Lawrence_(film_editor)
+1,160,S. Shipton,http://dbpedia.org/resource/Roger_Shipton,http://dbpedia.org/resource/Susan_Shipton
+1,163,V. Bánky,http://dbpedia.org/resource/Vilma_Bánky,http://dbpedia.org/resource/Viktor_Banky http://dbpedia.org/resource/Viktor_Bánky
+1,168,A. Rinaldi,http://dbpedia.org/resource/Gérard_Rinaldi,http://dbpedia.org/resource/Atilio_Rinaldi
+1,174,J. McPhail,http://dbpedia.org/resource/John_McPhail,http://dbpedia.org/resource/John_McPhail_(director)
+1,176,E. Warren,http://dbpedia.org/resource/Earl_Warren,http://dbpedia.org/resource/Eda_Warren
+1,178,A. Nicolini,http://it.dbpedia.org/resource/Renato_Nicolini,http://dbpedia.org/resource/Angelo_Nicolini
+1,179,N. Pereda,http://dbpedia.org/resource/Antonio_de_Pereda,http://dbpedia.org/resource/Nicolás_Pereda http://dbpedia.org/resource/Nicolas_Pereda
+1,180,R. Dearing,http://dbpedia.org/resource/Judy_Dearing,http://dbpedia.org/resource/R.E._Dearing http://dbpedia.org/resource/R._E._Dearing
+1,181,R. C. Currier,http://dbpedia.org/resource/R._C._Sherriff,http://dbpedia.org/resource/Richard_C._Currier http://dbpedia.org/resource/Richard_Currier

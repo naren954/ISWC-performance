@@ -1,0 +1,5 @@
+F1: 0.90625,Precision: 0.90625,Recall: 0.90625,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,7,G. Molina,http://dbpedia.org/resource/Gloria_Molina,http://dbpedia.org/resource/Gerardo_Molina
+0,11,G. Davis,http://dbpedia.org/resource/Gray_Davis,"http://dbpedia.org/resource/Geoffrey_Davis http://dbpedia.org/resource/Geoff_Davis http://dbpedia.org/resource/Geoffrey_""Geoff""_Davis"
+0,31,A. T. Smith,"http://dbpedia.org/resource/Edward_Smith-Stanley,_14th_Earl_of_Derby",http://dbpedia.org/resource/Addison_T._Smith http://dbpedia.org/resource/Addison_Smith http://dbpedia.org/resource/Addison_Taylor_Smith

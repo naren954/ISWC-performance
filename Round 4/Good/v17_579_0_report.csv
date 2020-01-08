@@ -1,0 +1,6 @@
+F1: 0.90909,Precision: 0.90909,Recall: 0.90909,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,15,V. Fuller,http://dbpedia.org/resource/Vincent_Fuller_(American_football),http://dbpedia.org/resource/Vern_Fuller
+0,32,V. Law,http://dbpedia.org/resource/Vern_Law,http://dbpedia.org/resource/Vance_Law
+0,34,V. Snider,http://dbpedia.org/resource/Duke_Snider,http://dbpedia.org/resource/Van_Snyder http://dbpedia.org/resource/Van_Snider
+0,41,V. Robinson,http://dbpedia.org/resource/Vivian_Robinson,http://dbpedia.org/resource/Val_Robinson

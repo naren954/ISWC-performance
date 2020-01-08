@@ -1,0 +1,5 @@
+"F1: 0.25000","Precision: 0.25000","Recall: 0.25000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"3","2","Squirrel","http://dbpedia.org/resource/Rocky_the_Flying_Squirrel","http://dbpedia.org/resource/Squirrel_(horse)"
+"3","4","Herod","http://dbpedia.org/resource/Herod_the_Great","http://dbpedia.org/resource/Herod_(horse)"
+"3","12","Eclipse","http://dbpedia.org/resource/The_Twilight_Saga:_Eclipse","http://dbpedia.org/resource/Eclipse_(horse)"

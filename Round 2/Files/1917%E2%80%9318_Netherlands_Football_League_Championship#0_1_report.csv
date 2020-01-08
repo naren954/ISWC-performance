@@ -1,0 +1,4 @@
+"F1: 0.50000","Precision: 0.50000","Recall: 0.50000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","7","SC Enschede","http://dbpedia.org/resource/Sportclub_Enschede","http://dbpedia.org/resource/F.C._Twente http://dbpedia.org/resource/FC_Twente http://dbpedia.org/resource/Fc_twente_enschede http://dbpedia.org/resource/Fc_twente http://dbpedia.org/resource/Enschede_Boys http://dbpedia.org/resource/Twente_Enschede http://dbpedia.org/resource/FC_Twente_Enschede"
+"1","8","Vitesse","http://dbpedia.org/resource/SV_Vitesse","http://dbpedia.org/resource/Vitesse http://dbpedia.org/resource/Vitesse_(disambiguation)"

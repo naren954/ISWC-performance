@@ -1,0 +1,5 @@
+F1: 0.86957,Precision: 0.86957,Recall: 0.86957,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,Burro Schmidt's Tunnel,http://dbpedia.org/resource/Burro_Schmidt_Tunnel,http://dbpedia.org/resource/Burro_Schmidt's_Tunnel
+0,39,San Franciscoâ\u0080\u0093Oakland Bay Bridge,http://dbpedia.org/resource/San_Francisco,http://dbpedia.org/resource/San_Francisco–Oakland_Bay_Bridge
+0,42,Tower Bridge,http://dbpedia.org/resource/Tower_Bridge,http://dbpedia.org/resource/Tower_Bridge_(California) http://dbpedia.org/resource/Tower_Bridge_(Sacramento) http://dbpedia.org/resource/M_Street_Bridge_(Sacramento)

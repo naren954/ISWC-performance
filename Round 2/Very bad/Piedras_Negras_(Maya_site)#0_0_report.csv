@@ -1,0 +1,12 @@
+F1: 0.09091,Precision: 0.09091,Recall: 0.09091,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Ruler A,http://dbpedia.org/resource/Ruler_5_(Copán),http://dbpedia.org/resource/Piedras_Negras_Ruler_A
+0,2,Ruler B,http://dbpedia.org/resource/Ruler_5_(Copán),http://dbpedia.org/resource/Piedras_Negras_Ruler_B
+0,4,Ruler C,http://dbpedia.org/resource/Napoleon,http://dbpedia.org/resource/Piedras_Negras_Ruler_C
+0,5,K'inich Yo'nal Ahk I,http://dbpedia.org/resource/Kʼinich_Yoʼnal_Ahk_II,http://dbpedia.org/resource/K'inich_Yo'nal_Ahk_I
+0,6,Itzam K'an Ahk I,http://dbpedia.org/resource/Kʼinich_Yoʼnal_Ahk_I,http://dbpedia.org/resource/Itzam_K'an_Ahk_I
+0,7,K'inich Yo'nal Ahk II,http://dbpedia.org/resource/Kʼinich_Yoʼnal_Ahk_II,http://dbpedia.org/resource/K'inich_Yo'nal_Ahk_II
+0,8,Itzam K'an Ahk II,http://dbpedia.org/resource/Kʼinich_Yoʼnal_Ahk_II,http://dbpedia.org/resource/Itzam_K'an_Ahk_II
+0,9,Yo'nal Ahk III,http://dbpedia.org/resource/Yoʼnal_Ahk_III,http://dbpedia.org/resource/Yo'nal_Ahk_III
+0,10,Ha' K'in Xook,http://dbpedia.org/resource/Haʼ_Kʼin_Xook,http://dbpedia.org/resource/Ha'_K'in_Xook
+0,11,K'inich Yat Ahk II,http://dbpedia.org/resource/Kʼinich_Yat_Ahk_II,http://dbpedia.org/resource/K'inich_Yat_Ahk_II

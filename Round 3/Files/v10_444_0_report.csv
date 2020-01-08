@@ -1,0 +1,5 @@
+"F1: 0.70000","Precision: 0.70000","Recall: 0.70000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","2","W. Adams","http://dbpedia.org/resource/Walter_Adams_(economist)","http://dbpedia.org/resource/Weston_Adams_(diplomat) http://dbpedia.org/resource/Weston_Adams_II http://dbpedia.org/resource/Weston_Adams_(ambassador)"
+"0","5","S. C. Davis","http://dbpedia.org/resource/Deane_C._Davis","http://dbpedia.org/resource/Shelby_Cullom_Davis_Foundation http://dbpedia.org/resource/Shelby_Collum_Davis http://dbpedia.org/resource/Shelby_Cullom_Davis"
+"0","7","R. C. Duke","http://dbpedia.org/resource/Arthur_Wellesley,_1st_Duke_of_Wellington","http://dbpedia.org/resource/Robin_Chandler_Lynn http://dbpedia.org/resource/Robin_Chandler_Duke"

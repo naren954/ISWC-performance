@@ -1,0 +1,6 @@
+F1: 0.96226,Precision: 0.96226,Recall: 0.96226,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,18,Kentucky,http://dbpedia.org/resource/Gail_Forrest_Kentucky,http://dbpedia.org/resource/Kentucky_(horse)
+0,49,Integral,http://dbpedia.org/resource/Integrál-DAC,http://dbpedia.org/resource/Integral_(horse)
+0,63,Holiday,http://dbpedia.org/resource/Billie_Holiday,http://dbpedia.org/resource/Holiday_(horse)
+0,98,Go and Go,http://dbpedia.org/resource/Go_Nagai,http://dbpedia.org/resource/Go_and_Go http://dbpedia.org/resource/Go_And_Go

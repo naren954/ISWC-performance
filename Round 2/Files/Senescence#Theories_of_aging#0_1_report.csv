@@ -1,0 +1,6 @@
+"F1: 0.20000","Precision: 0.20000","Recall: 0.20000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","3","pit-1","http://dbpedia.org/resource/Barbican_Centre","http://dbpedia.org/resource/POU1F1_(gene) http://dbpedia.org/resource/Pituitary-specific_positive_transcription_factor_1 http://dbpedia.org/resource/POU1F1 http://dbpedia.org/resource/PIT1 http://dbpedia.org/resource/PIT_1 http://dbpedia.org/resource/PIT-1 http://dbpedia.org/resource/Pit-1"
+"1","7","PHB2","nan","http://dbpedia.org/resource/PHB2 http://dbpedia.org/resource/PHB2_(gene)"
+"1","8","CDC7","nan","http://dbpedia.org/resource/CDC7 http://dbpedia.org/resource/CDC7_(gene) http://dbpedia.org/resource/Cell_division_cycle_7-related_protein_kinase"
+"1","13","SIR2","http://dbpedia.org/resource/Sirtuin","http://dbpedia.org/resource/SIRT1 http://dbpedia.org/resource/Silent_information_regulator_proteins,_saccharomyces_cerevisiae http://dbpedia.org/resource/Sirtuin1 http://dbpedia.org/resource/SIR2 http://dbpedia.org/resource/Sirt1 http://dbpedia.org/resource/Sirtuin_1 http://dbpedia.org/resource/SIRT1_(gene)"

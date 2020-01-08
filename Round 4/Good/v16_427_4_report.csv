@@ -1,0 +1,17 @@
+F1: 0.82759,Precision: 0.82759,Recall: 0.82759,,
+Col,Row,Value,Submitted URI,Correct URI's
+4,1,"Hey, Man!",http://dbpedia.org/resource/Hey_Man_(Now_You're_Really_Living),"http://dbpedia.org/resource/Hey,_Man! http://dbpedia.org/resource/Hey,_Man http://dbpedia.org/resource/Hey_Man!"
+4,14,Je veux bien,http://dbpedia.org/resource/Je_veux,http://dbpedia.org/resource/5_(Alizee_album) http://dbpedia.org/resource/5_(Alizée_album) http://dbpedia.org/resource/Je_veux_bien http://dbpedia.org/resource/Alizée's_fifth_studio_album
+4,18,Alone Again Or,http://it.dbpedia.org/resource/Alone_Again_Or,http://dbpedia.org/resource/Alone_Again_Or_(song) http://dbpedia.org/resource/Alone_Again_Or_(Damned) http://dbpedia.org/resource/Alone_Again_Or_(Damned_song) http://dbpedia.org/resource/Alone_Again_Or
+4,27,New York City,http://dbpedia.org/resource/New_York_City_(Emigrate_song),http://dbpedia.org/resource/New_York_City_(T._Rex_song)
+4,28,Hakuna Matata,,http://dbpedia.org/resource/Hakuna_matata http://dbpedia.org/resource/Hakuna_Matata
+4,29,Drive,http://dbpedia.org/resource/Drive_(Incubus_song),http://dbpedia.org/resource/Drive_(Client_song)
+4,34,Fade,http://dbpedia.org/resource/Fade_(Staind_song),http://dbpedia.org/resource/Fade_(Kanye_West_single) http://dbpedia.org/resource/Fade_(Kanye_West_song)
+4,36,Splash!,http://dbpedia.org/resource/Splash_(Sub_Focus_song),http://dbpedia.org/resource/Splash!_(B'z_song) http://dbpedia.org/resource/Splash!_(song)
+4,44,Boom,http://dbpedia.org/resource/Boom_(Anastacia_song),http://dbpedia.org/resource/Boom_P.O.D. http://dbpedia.org/resource/Boom_(P.O.D._song)
+4,54,Broken Arrow,http://dbpedia.org/resource/Broken_Arrow_(Pixie_Lott_song),http://dbpedia.org/resource/Sweet_Fire_of_Love http://dbpedia.org/resource/Fallen_Angel_(Robbie_Robertson_song) http://dbpedia.org/resource/Broken_Arrow_(Robbie_Robertson_song) http://dbpedia.org/resource/Testimony_(Robbie_Robertson_song) http://dbpedia.org/resource/Hell's_Half_Acre_(song) http://dbpedia.org/resource/Showdown_at_Big_Sky http://dbpedia.org/resource/American_Roulette_(song) http://dbpedia.org/resource/Sonny_Got_Caught_in_the_Moonlight http://dbpedia.org/resource/Robbie_Robertson_(album)
+4,56,Sober,http://dbpedia.org/resource/Sober_(Tool_song),http://dbpedia.org/resource/Sober_(Little_Big_Town_song)
+4,60,It's All in the Game,http://dbpedia.org/resource/It's_All_in_the_Game_(Nena_album),http://dbpedia.org/resource/It's_All_in_the_Game_(song)
+4,74,Wonderful,http://dbpedia.org/resource/Wonderful_(Annie_Lennox_song),http://dbpedia.org/resource/Wonderful_(The_Beach_Boys_song) http://dbpedia.org/resource/Rock_With_Me_Henry
+4,75,Where Does a Little Tear Come From,http://dbpedia.org/resource/Where_Do_You_Come_From,http://dbpedia.org/resource/Least_of_All http://dbpedia.org/resource/I_Get_Lonely_in_a_Hurry http://dbpedia.org/resource/Where_Does_a_Little_Tear_Come_From
+4,77,Damn Regret,http://dbpedia.org/resource/No_Regret_(song),http://dbpedia.org/resource/False_Pretense http://dbpedia.org/resource/Don't_You_Fake_It http://dbpedia.org/resource/Damn_Regret

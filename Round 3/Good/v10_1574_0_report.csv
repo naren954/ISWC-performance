@@ -1,0 +1,15 @@
+F1: 0.83750,Precision: 0.83750,Recall: 0.83750,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,You're the One,http://dbpedia.org/resource/You're_the_One_(Dwight_Yoakam_song),http://dbpedia.org/resource/You're_the_One_(The_Vogues_song) http://dbpedia.org/resource/You're_The_One_(Petula_Clark) http://dbpedia.org/resource/You're_the_One_(Petula_Clark_song)
+0,26,You're My Man,http://dbpedia.org/resource/Stars_on_45_(song),http://dbpedia.org/resource/You're_My_Man
+0,30,You're My Everything,http://dbpedia.org/resource/You're_My_Everything_(The_Temptations_song),http://dbpedia.org/resource/You're_My_Everything_(Anita_Baker_song)
+0,32,You're My Best Friend,http://dbpedia.org/resource/You're_My_Best_Friend_(Don_Williams_song),http://dbpedia.org/resource/You're_My_Best_Friend_(Queen_song) http://dbpedia.org/resource/You're_My_Best_Friend/'39
+0,35,You're Lucky I Love You,http://dbpedia.org/resource/I_Can_Tell_by_the_Way_You_Dance_(You're_Gonna_Love_Me_Tonight),http://dbpedia.org/resource/You're_Lucky_I_Love_You
+0,37,You're Gonna Miss Me,http://dbpedia.org/resource/You're_Gonna_Miss_This,http://dbpedia.org/resource/You're_Gonna_Miss_Me_(song)
+0,38,You're Gonna Change,http://dbpedia.org/resource/If_You're_Gonna_Play_in_Texas_(You_Gotta_Have_a_Fiddle_in_the_Band),http://dbpedia.org/resource/You're_Gonna_Change_(Or_I'm_Gonna_Leave)
+0,50,You'll Never Find Another Love Like Mine,http://dbpedia.org/resource/You'll_Never_Find_Another_Love_like_Mine,http://dbpedia.org/resource/You'll_Never_Find_Another_Love_Like_Mine http://dbpedia.org/resource/You'll_Never_Find_(Another_Love_Like_Mine) http://dbpedia.org/resource/You'll_Never_Find_A_Love_Like_Mine
+0,51,You'll Never Be Sorry,http://dbpedia.org/resource/You'll_Never_Be_Alone,http://dbpedia.org/resource/You'll_Never_Be_Sorry
+0,59,Yo-Yo,http://dbpedia.org/resource/Yo-Yo_(Billy_Joe_Royal_song),http://dbpedia.org/resource/Yo-Yo_(Nicola_Roberts_song)
+0,66,Yesterday,http://dbpedia.org/resource/Yesterday_(Toni_Braxton_song),http://dbpedia.org/resource/Scrambled_Eggs_(Beatles) http://dbpedia.org/resource/Yesterday_(Beatles_song) http://dbpedia.org/resource/Yesterday/Maybe_I'm_in_Love http://dbpedia.org/resource/Yesterday_(The_Beatles_song) http://dbpedia.org/resource/Yesterday/Maybe_I'm_In_Love
+0,70,Yesterday's Gone,http://dbpedia.org/resource/Yesterday's_Gone_(song),http://dbpedia.org/resource/Yesterday's_Gone
+0,77,Yes!,"http://dbpedia.org/resource/Yes,_Virginia...",http://dbpedia.org/resource/Yes!_(song) http://dbpedia.org/resource/Yes!_(Chad_Brock_song)

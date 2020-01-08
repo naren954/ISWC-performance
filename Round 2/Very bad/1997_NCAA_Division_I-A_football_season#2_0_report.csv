@@ -1,0 +1,22 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Rose Bowl,"http://dbpedia.org/resource/Pasadena,_California",http://dbpedia.org/resource/1998_Rose_Bowl
+0,2,Orange Bowl,http://dbpedia.org/resource/California,http://dbpedia.org/resource/1998_Orange_Bowl http://dbpedia.org/resource/1998_BCS_National_Championship_Game
+0,3,Sugar Bowl,http://dbpedia.org/resource/Sugar_Bowl,http://dbpedia.org/resource/1998_Sugar_Bowl
+0,4,Cotton Bowl Classic,http://dbpedia.org/resource/Cotton_Bowl_Classic,"http://dbpedia.org/resource/Cotton_Bowl_Classic,_1998 http://dbpedia.org/resource/Southwestern_Bell_Cotton_Bowl_Classic_1998 http://dbpedia.org/resource/1998_Southwestern_Bell_Cotton_Bowl_Classic http://dbpedia.org/resource/Cotton_Bowl_Classic_1998 http://dbpedia.org/resource/Southwestern_Bell_Cotton_Bowl_Classic,_1998 http://dbpedia.org/resource/1998_Cotton_Bowl_Classic"
+0,5,Florida Citrus Bowl,http://dbpedia.org/resource/Camping_World_Stadium,http://dbpedia.org/resource/1998_Florida_Citrus_Bowl
+0,6,Gator Bowl,http://dbpedia.org/resource/Florida_Gators_football,http://dbpedia.org/resource/1998_Gator_Bowl
+0,7,Fiesta Bowl,http://dbpedia.org/resource/Fiesta_Bowl,http://dbpedia.org/resource/1997_Fiesta_Bowl_(December) http://dbpedia.org/resource/1998_Fiesta_Bowl
+0,8,Outback Bowl,http://dbpedia.org/resource/Subaru_Outback,http://dbpedia.org/resource/1998_Outback_Bowl
+0,9,Peach Bowl,http://dbpedia.org/resource/Peach_Bowl,http://dbpedia.org/resource/1998_Peach_Bowl_(January)
+0,10,Independence Bowl,http://dbpedia.org/resource/Independence_Stadium_(Shreveport),http://dbpedia.org/resource/1997_Independence_Bowl
+0,11,Sun Bowl,http://dbpedia.org/resource/Sun_Bowl_(stadium),http://dbpedia.org/resource/1997_Sun_Bowl
+0,12,Alamo Bowl,"http://dbpedia.org/resource/Alamo,_Tennessee",http://dbpedia.org/resource/1997_Alamo_Bowl
+0,13,Holiday Bowl,http://dbpedia.org/resource/California,http://dbpedia.org/resource/1997_Holiday_Bowl
+0,14,Aloha Bowl,http://dbpedia.org/resource/Aloha_Bowl,http://dbpedia.org/resource/1997_Aloha_Bowl
+0,15,Liberty Bowl,http://dbpedia.org/resource/Liberty_Bowl_Memorial_Stadium,http://dbpedia.org/resource/1997_Liberty_Bowl
+0,16,Carquest Bowl,http://dbpedia.org/resource/Paul_Bowles,http://dbpedia.org/resource/1997_Carquest_Bowl
+0,17,Insight.com Bowl,http://dbpedia.org/resource/Paul_Bowles_(footballer),http://dbpedia.org/resource/1997_Insight.com_Bowl
+0,18,Las Vegas Bowl,http://dbpedia.org/resource/Sam_Boyd_Stadium,http://dbpedia.org/resource/1997_Las_Vegas_Bowl
+0,19,Motor City Bowl,http://dbpedia.org/resource/Little_Caesars_Pizza_Bowl,http://dbpedia.org/resource/1997_Motor_City_Bowl
+0,20,Humanitarian Bowl,http://dbpedia.org/resource/Paul_Bowles_(footballer),http://dbpedia.org/resource/1997_Humanitarian_Bowl

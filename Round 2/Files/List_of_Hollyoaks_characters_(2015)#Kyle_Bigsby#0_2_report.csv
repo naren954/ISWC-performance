@@ -1,0 +1,5 @@
+"F1: 0.62500","Precision: 0.62500","Recall: 0.62500"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"2","56","Jason Lewis[115]","http://dbpedia.org/resource/Jason_Lewis_(actor)","http://dbpedia.org/resource/Jason_Lewis_(comedian) http://dbpedia.org/resource/Jason_Lewis_'Actor/Writer/Comedian'"
+"2","68","Charlie De'Ath[124]","http://dbpedia.org/resource/Charlie_Newman","http://dbpedia.org/resource/Charlie_De'Ath"
+"2","91","Andrew Hall[146]","http://dbpedia.org/resource/Andrew_Hall_(rugby_union)","http://dbpedia.org/resource/Andrew_Hall_(actor)"

@@ -1,0 +1,5 @@
+"F1: 0.86957","Precision: 0.86957","Recall: 0.86957"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","5","Sea trout","http://dbpedia.org/resource/Brown_trout","http://dbpedia.org/resource/Salmo_trutta_trutta http://dbpedia.org/resource/Sea_trout"
+"0","7","Redfin pickerel","http://dbpedia.org/resource/American_pickerel","http://dbpedia.org/resource/Esox_americanus_americanus http://dbpedia.org/resource/Redfin_pickerel"
+"0","21","Atlantic sturgeon","http://dbpedia.org/resource/European_sea_sturgeon","http://dbpedia.org/resource/Acipenser_oxyrhinchus http://dbpedia.org/resource/Atlantic_Sturgeon http://dbpedia.org/resource/Acipenser_oxyrhynchus_oxyrhynchus http://dbpedia.org/resource/Atlantic_sturgeon http://dbpedia.org/resource/Acipenser_oxyrinchus_oxyrinchus"

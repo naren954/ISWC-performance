@@ -1,0 +1,8 @@
+"F1: 0.93182","Precision: 0.93182","Recall: 0.93182"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","3","Phantom","http://dbpedia.org/resource/The_Phantom_of_the_Opera","http://dbpedia.org/resource/Phantom_(Sword_of_Truth)"
+"0","10","New Spring","http://de.dbpedia.org/resource/Investigational_New_Drugs","http://dbpedia.org/resource/New_Spring"
+"0","28","Legacy","nan","http://dbpedia.org/resource/Legacy_(Bujold_novel) http://dbpedia.org/resource/Legacy_(2007_novel) http://dbpedia.org/resource/Legacy_(Bujold)"
+"0","54","Gateway","http://dbpedia.org/resource/Gateway_2","http://dbpedia.org/resource/Gateway_(novel)"
+"0","67","Extinction","http://dbpedia.org/resource/Countdown_to_Extinction","http://dbpedia.org/resource/Extinction_(Forgotten_Realms_novel) http://dbpedia.org/resource/Extinction_(Smedman_novel)"
+"0","84","Dragon","http://dbpedia.org/resource/Dragons!","http://dbpedia.org/resource/Dragon_(Clive_Cussler_novel) http://dbpedia.org/resource/Dragon_(Cussler) http://dbpedia.org/resource/Dragon_(Cussler_novel)"

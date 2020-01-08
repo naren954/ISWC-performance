@@ -1,0 +1,10 @@
+F1: 0.86207,Precision: 0.86207,Recall: 0.86207,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,11,Gene Stratton-Porter Cabin,"http://dbpedia.org/resource/Gene_Stratton_Porter_Cabin_(Geneva,_Indiana)","http://dbpedia.org/resource/G.S._Porter_Historic_Site http://dbpedia.org/resource/Gene_Stratton-Porter_Cabin_(Rome_City,_Indiana) http://dbpedia.org/resource/Gene_Stratton_Porter_Cabin_(Rome_City,_Indiana)"
+0,15,Gasquet Ranger Station Historic District,http://dbpedia.org/resource/Walton_Ranger_Station_Historic_District,http://dbpedia.org/resource/Gasquet_Ranger_Station_Historic_District
+0,20,Garfield County Courthouse,http://dbpedia.org/resource/Garfield_County_Courthouse_(Oklahoma),"http://dbpedia.org/resource/Garfield_County_Courthouse_(Enid,_Oklahoma)"
+0,21,Garden District,"http://dbpedia.org/resource/Garden_District,_Baton_Rouge,_Louisiana","http://dbpedia.org/resource/Garden_District_(Montgomery,_Alabama)"
+0,34,Franklin County Courthouse,http://dbpedia.org/resource/Franklin_County_Courthouse_(Pennsylvania),"http://dbpedia.org/resource/Franklin_County_Courthouse_(Carnesville,_Georgia) http://dbpedia.org/resource/Franklin_County_Courthouse_(Georgia)"
+0,37,Frank Lloyd Wright-Prairie School of Architecture Historic District,http://dbpedia.org/resource/Frank_Lloyd_Wright–Prairie_School_of_Architecture_Historic_District,http://dbpedia.org/resource/Frank_Lloyd_Wright-Prairie_School_of_Architecture_Historic_District
+0,44,"Fourth and Gill, Knoxville, Tennessee","http://dbpedia.org/resource/Fourth_and_Gill,_Knoxville","http://dbpedia.org/resource/Fourth_and_Gill http://dbpedia.org/resource/Fourth_and_Gill,_Knoxville,_Tennessee http://dbpedia.org/resource/Fourth_&_Gill_(Knoxville,_Tennessee)"
+0,48,Fort Washington,http://dbpedia.org/resource/Fort_Washington_(Manhattan),"http://dbpedia.org/resource/Fort_Washington_(Cambridge,_Massachusetts) http://dbpedia.org/resource/Ft._Washington http://dbpedia.org/resource/Fort_Washington,_Cambridge http://dbpedia.org/resource/Fort_Washington_(Massachusetts)"

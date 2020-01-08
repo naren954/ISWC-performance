@@ -1,0 +1,4 @@
+"F1: 0.33333","Precision: 0.33333","Recall: 0.33333"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","1","Swift Justice","http://dbpedia.org/resource/Swift_Justice_with_Jackie_Glass","http://dbpedia.org/resource/Swift_Justice"
+"1","5","Donny & Marie","http://dbpedia.org/resource/Donny_&_Marie_(1976_TV_series)","http://dbpedia.org/resource/Donny_&_Marie_(1998_TV_series)"

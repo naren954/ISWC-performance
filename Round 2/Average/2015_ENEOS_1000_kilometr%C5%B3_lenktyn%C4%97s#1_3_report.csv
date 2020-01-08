@@ -1,0 +1,4 @@
+F1: 0.75000,Precision: 0.75000,Recall: 0.75000,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,1,Juta-KG Group,http://de.dbpedia.org/resource/KG_Group,http://dbpedia.org/resource/Juta_Racing
+3,23,Kauno automobilininkÅ³ sporto klubas,http://dbpedia.org/resource/FBK_Kaunas,"http://dbpedia.org/resource/Kauen http://dbpedia.org/resource/Kaunas,_Lithuania http://dbpedia.org/resource/Kovno,_Lithuania http://dbpedia.org/resource/Kaunas_City_Municipality http://dbpedia.org/resource/Kowno http://dbpedia.org/resource/Kovno http://dbpedia.org/resource/Kaunas http://dbpedia.org/resource/History_of_Kaunas http://dbpedia.org/resource/Kunosow http://dbpedia.org/resource/Kovne http://dbpedia.org/resource/Kaunas_city_municipality http://dbpedia.org/resource/Kaunas_city_municipality_council http://dbpedia.org/resource/Kauno"

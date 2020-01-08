@@ -1,0 +1,11 @@
+F1: 0.85484,Precision: 0.85484,Recall: 0.85484,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,7,B. Smith,"http://dbpedia.org/resource/Bobby_Smith_(footballer,_born_1953)","http://dbpedia.org/resource/Barry_Smith_(ice_hockey_b._1955) http://dbpedia.org/resource/Barry_Smith_(ice_hockey,_born_1955)"
+0,23,A. Sixsmith,http://dbpedia.org/resource/James_Sixsmith,http://dbpedia.org/resource/Arthur_Sixsmith
+0,28,A. Jackson,"http://dbpedia.org/resource/Andy_Jackson_(footballer,_born_1988)",http://dbpedia.org/resource/Art_Jackson http://dbpedia.org/resource/Arthur_Morris_'Art'_Jackson http://dbpedia.org/resource/Arthur_Morris_Jackson
+0,34,A. Schmautz,http://dbpedia.org/resource/Bobby_Schmautz,http://dbpedia.org/resource/Arnie_Schmautz
+0,36,A. Lemieux,http://dbpedia.org/resource/Alain_Lemieux,http://dbpedia.org/resource/Armand_Lemieux
+0,43,A. D. Campbell,http://dbpedia.org/resource/Angus_Campbell_(ice_hockey),http://dbpedia.org/resource/Angus_Daniel_Campbell
+0,53,A. Arbour,http://dbpedia.org/resource/Al_Arbour,http://dbpedia.org/resource/Amos_Arbour
+0,54,A. Jones,http://dbpedia.org/resource/Art_Jones_(ice_hockey),"http://dbpedia.org/resource/Alvin_""Buck""_Jones http://dbpedia.org/resource/Buck_Jones_(ice_hockey) http://dbpedia.org/resource/Alvin_Jones_(ice_hockey)"
+0,57,A. Lacroix,http://dbpedia.org/resource/André_Lacroix_(ice_hockey),http://dbpedia.org/resource/Alphonse_Lacroix

@@ -1,0 +1,9 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+4,1,SUZ,http://dbpedia.org/resource/Name,http://dbpedia.org/resource/鈴鹿サーキット http://dbpedia.org/resource/Suzuka_Circuit http://dbpedia.org/resource/Suzuka_International_Racing_Course http://dbpedia.org/resource/Mad_Cobra_(roller_coaster)
+4,3,SUZ Ret,http://dbpedia.org/resource/Suz_Andreasen,http://dbpedia.org/resource/鈴鹿サーキット http://dbpedia.org/resource/Suzuka_Circuit http://dbpedia.org/resource/Suzuka_International_Racing_Course http://dbpedia.org/resource/Mad_Cobra_(roller_coaster)
+4,4,OKA 20,,http://dbpedia.org/resource/TI_Circuit_Aida http://dbpedia.org/resource/TI_Circuit http://dbpedia.org/resource/Ti_aida http://dbpedia.org/resource/Okayama_International_Circuit
+4,5,OKA 6,http://dbpedia.org/resource/Oka_(surname),http://dbpedia.org/resource/TI_Circuit_Aida http://dbpedia.org/resource/TI_Circuit http://dbpedia.org/resource/Ti_aida http://dbpedia.org/resource/Okayama_International_Circuit
+4,6,OKA 9,,http://dbpedia.org/resource/TI_Circuit_Aida http://dbpedia.org/resource/TI_Circuit http://dbpedia.org/resource/Ti_aida http://dbpedia.org/resource/Okayama_International_Circuit
+4,7,OKA 8,http://dbpedia.org/resource/G,http://dbpedia.org/resource/TI_Circuit_Aida http://dbpedia.org/resource/TI_Circuit http://dbpedia.org/resource/Ti_aida http://dbpedia.org/resource/Okayama_International_Circuit
+4,8,OKA 4,,http://dbpedia.org/resource/TI_Circuit_Aida http://dbpedia.org/resource/TI_Circuit http://dbpedia.org/resource/Ti_aida http://dbpedia.org/resource/Okayama_International_Circuit

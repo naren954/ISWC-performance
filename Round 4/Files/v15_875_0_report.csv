@@ -1,0 +1,7 @@
+"F1: 0.70588","Precision: 0.70588","Recall: 0.70588"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","4","USS Undaunted","http://dbpedia.org/resource/HMS_Undaunted_(N55)","http://dbpedia.org/resource/USS_Undaunted_(ATA-199) http://dbpedia.org/resource/USS_ATR-126"
+"0","6","USS Thresher","http://dbpedia.org/resource/USS_Thresher_(SS-200)","http://dbpedia.org/resource/SSN-593 http://dbpedia.org/resource/USS_Thresher_(SSN-593) http://dbpedia.org/resource/Exceeding_test_depth"
+"0","7","USS Texas","http://dbpedia.org/resource/USS_Texan_(ID-1354)","http://dbpedia.org/resource/USS_Texas_(CGN-39) http://dbpedia.org/resource/USS_Texas_(DLGN-39)"
+"0","8","USS Taylor","http://dbpedia.org/resource/USS_Taylor_(DD-468)","http://dbpedia.org/resource/USS_Taylor_(DD-94)"
+"0","12","USS Stewart","http://dbpedia.org/resource/USS_Stewart_(DE-238)","http://dbpedia.org/resource/USS_Stewart_(DD-224) http://dbpedia.org/resource/Japanese_Patrol_Boat_No._102"

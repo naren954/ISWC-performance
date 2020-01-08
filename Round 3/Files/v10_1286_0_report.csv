@@ -1,0 +1,5 @@
+"F1: 0.70000","Precision: 0.70000","Recall: 0.70000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","1","Arrow Lakes Provincial Park","http://dbpedia.org/resource/Chain_Lakes_Provincial_Park","http://dbpedia.org/resource/Arrow_Lakes_Provincial_Park"
+"0","8","Alice Lake Provincial Park","http://dbpedia.org/resource/Chain_Lakes_Provincial_Park","http://dbpedia.org/resource/Alice_Lake_Provincial_Park"
+"0","10","Adams Lake Provincial Park","http://dbpedia.org/resource/Chain_Lakes_Provincial_Park","http://dbpedia.org/resource/Adams_Lake_Provincial_Park http://dbpedia.org/resource/Bush_Creek"

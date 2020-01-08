@@ -1,0 +1,13 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,Cincinnati Outlaw Reds,http://dbpedia.org/resource/Cincinnati_Reds,http://dbpedia.org/resource/1884_Cincinnati_Outlaw_Reds_season
+0,3,Baltimore Monumentals,http://dbpedia.org/resource/Baltimore_Monumentals,http://dbpedia.org/resource/1884_Baltimore_Monumentals_season
+0,4,Boston Reds,http://dbpedia.org/resource/Atlanta_Braves,http://dbpedia.org/resource/1884_Boston_Reds_season
+0,5,Milwaukee Brewers,http://dbpedia.org/resource/Baltimore_Orioles,http://dbpedia.org/resource/1884_Milwaukee_Brewers_season http://dbpedia.org/resource/Milwaukee_Brewers_(UA) http://dbpedia.org/resource/Milwaukee_Unions
+0,6,St. Paul Saints,http://dbpedia.org/resource/St._Paul_Saints,http://dbpedia.org/resource/St._Paul_Saints_(UA) http://dbpedia.org/resource/Fort_Street_Grounds http://dbpedia.org/resource/St._Paul_Whitecaps http://dbpedia.org/resource/St._Paul_Apostles http://dbpedia.org/resource/1884_St._Paul_White_Caps_season http://dbpedia.org/resource/1884_St._Paul_Apostles_season http://dbpedia.org/resource/St._Paul_White_Caps http://dbpedia.org/resource/1884_St._Paul_Saints_season
+0,7,Chicago Browns\/Pittsburgh Stogies,http://dbpedia.org/resource/Chicago_Browns/Pittsburgh_Stogies,http://dbpedia.org/resource/1884_Chicago_Browns/Pittsburgh_Stogies_season
+0,8,Altoona Mountain City,http://dbpedia.org/resource/Altoona_Mountain_Citys,http://dbpedia.org/resource/1884_Altoona_Mountain_City_season
+0,9,Wilmington Quicksteps,http://dbpedia.org/resource/Wilmington_Quicksteps,http://dbpedia.org/resource/1884_Wilmington_Quicksteps_season
+0,10,Washington Nationals (UA),http://dbpedia.org/resource/Washington_Nationals,http://dbpedia.org/resource/1884_Washington_Nationals_(UA)_season
+0,11,Philadelphia Keystones,http://dbpedia.org/resource/Philadelphia_Keystones,http://dbpedia.org/resource/1884_Philadelphia_Keystones_season
+0,12,Kansas City Cowboys,http://dbpedia.org/resource/Kansas_City_Blues_(American_Association),http://dbpedia.org/resource/1884_Kansas_City_Cowboys_season

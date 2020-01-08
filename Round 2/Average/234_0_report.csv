@@ -1,0 +1,11 @@
+F1: 0.60870,Precision: 0.60870,Recall: 0.60870,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,12,Cheilanthes tomentosa,http://es.dbpedia.org/resource/Cheilanthes_tomentosa,http://dbpedia.org/resource/Cheilanthes_tomentosa http://dbpedia.org/resource/Woolly_lipfern
+0,13,Cheilanthes parryi,http://es.dbpedia.org/resource/Cheilanthes_parryi,http://dbpedia.org/resource/Parry's_lipfern http://dbpedia.org/resource/Cheilanthes_parryi
+0,14,Cheilanthes newberryi,http://es.dbpedia.org/resource/Cheilanthes_newberryi,http://dbpedia.org/resource/Newberry's_lipfern http://dbpedia.org/resource/Cheilanthes_newberryi
+0,15,Cheilanthes intertexta,,http://dbpedia.org/resource/Coastal_lipfern http://dbpedia.org/resource/Cheilanthes_intertexta
+0,16,Cheilanthes gracillima,http://es.dbpedia.org/resource/Cheilanthes_gracillima,http://dbpedia.org/resource/Lace_lipfern http://dbpedia.org/resource/Cheilanthes_gracillima
+0,17,Cheilanthes feei,http://fr.dbpedia.org/resource/Cheilanthes_feei,http://dbpedia.org/resource/Cheilanthes_feei http://dbpedia.org/resource/Slender_lipfern
+0,18,Cheilanthes covillei,http://es.dbpedia.org/resource/Cheilanthes_covillei,http://dbpedia.org/resource/Myriopteris_covillei http://dbpedia.org/resource/Cheilanthes_covillei http://dbpedia.org/resource/Coville's_lip_fern http://dbpedia.org/resource/Coville's_lipfern
+0,19,Cheilanthes cooperae,http://dbpedia.org/resource/Cheilanthes,http://dbpedia.org/resource/Cheilanthes_cooperae http://dbpedia.org/resource/Cooper's_lipfern
+0,20,Cheilanthes clevelandii,http://es.dbpedia.org/resource/Cheilanthes_clevelandii,http://dbpedia.org/resource/Cleveland's_lipfern http://dbpedia.org/resource/Cheilanthes_clevelandii

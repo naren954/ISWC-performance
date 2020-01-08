@@ -1,0 +1,5 @@
+"F1: 0.89655","Precision: 0.89655","Recall: 0.89655"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","23","Ron Richards","http://dbpedia.org/resource/Ron_Richards_(boxer)","http://dbpedia.org/resource/Ron_Richards_(producer)"
+"1","28","Ron Richards","http://dbpedia.org/resource/Ron_Richards_(boxer)","http://dbpedia.org/resource/Ron_Richards_(producer)"
+"1","29","The Corrs","http://dbpedia.org/resource/Sharon_Corr","http://dbpedia.org/resource/The_corrs http://dbpedia.org/resource/The_Corrs http://dbpedia.org/resource/The_Cores http://dbpedia.org/resource/The_Coors http://dbpedia.org/resource/The_Cors http://dbpedia.org/resource/Corrs,The http://dbpedia.org/resource/Corrs"

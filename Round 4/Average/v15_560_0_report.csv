@@ -1,0 +1,23 @@
+F1: 0.63793,Precision: 0.63793,Recall: 0.63793,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,USS Pinola,http://dbpedia.org/resource/USS_Pinola_(AT-33),http://dbpedia.org/resource/USS_Pinola_(ATA-206) http://dbpedia.org/resource/ROKS_Do_Bong_(ATA-32) http://dbpedia.org/resource/ROKS_Dobong_(ATA-32) http://dbpedia.org/resource/ROKS_Do_Bong_(ATA-3) http://dbpedia.org/resource/USS_ATR-133
+0,3,USS Pinnacle,http://dbpedia.org/resource/USS_Pinnacle_(AM-274),http://dbpedia.org/resource/USS_Pinnacle_(MSO-462) http://dbpedia.org/resource/MSO-462 http://dbpedia.org/resource/USS_Pinnacle_(AM-462)
+0,11,USS Pillsbury,http://dbpedia.org/resource/USS_Pillsbury_(DE-133),http://dbpedia.org/resource/USS_Pillsbury_(DD-227)
+0,14,USS Pigeon,http://dbpedia.org/resource/USS_Pigeon_(ASR-6),http://dbpedia.org/resource/USS_Pigeon_(ASR-21)
+0,15,USS Pigeon,http://dbpedia.org/resource/USS_Pigeon_(ASR-6),http://dbpedia.org/resource/USS_Pigeon_(MSF-374) http://dbpedia.org/resource/AM-374 http://dbpedia.org/resource/MSF-374 http://dbpedia.org/resource/USS_Pigeon_(AM-374)
+0,21,USS Picket,http://dbpedia.org/resource/USS_Picket_(ACM-8),http://dbpedia.org/resource/USS_Picket_(YAGR-7) http://dbpedia.org/resource/USS_Picket_(AGR-7) http://dbpedia.org/resource/MCE_hull_3138 http://dbpedia.org/resource/SS_James_F._Harrell http://dbpedia.org/resource/YAGR-7 http://dbpedia.org/resource/AGR-7
+0,22,USS Pickerel,http://dbpedia.org/resource/USS_Pickerel_(SS-524),http://dbpedia.org/resource/USS_Pickerel_(SS-177) http://dbpedia.org/resource/SS-177
+0,25,USS Phoenix,http://dbpedia.org/resource/USS_Phoenix_(CL-46),http://dbpedia.org/resource/USS_Phoenix_(SSN-702) http://dbpedia.org/resource/SSN-702
+0,26,USS Phoebe,http://dbpedia.org/resource/USS_Phoebe_(AMc-57),http://dbpedia.org/resource/USS_Phoebe_(AMS-199) http://dbpedia.org/resource/USS_Phoebe_(MSC-199)
+0,27,USS Philip,http://dbpedia.org/resource/USS_Philip_(DD-498),http://dbpedia.org/resource/HMS_Lancaster_(G05) http://dbpedia.org/resource/USS_Philip_(DD-76)
+0,29,USS Philadelphia,http://dbpedia.org/resource/USS_Philadelphia_(C-4),http://dbpedia.org/resource/Brazilian_cruiser_Barroso_(C-11) http://dbpedia.org/resource/Brazilian_cruiser_Almirante_Barroso http://dbpedia.org/resource/Brazilian_cruiser_Barroso http://dbpedia.org/resource/Barroso_(C11) http://dbpedia.org/resource/Brazilian_cruiser_Almirante_Barroso_(C-11) http://dbpedia.org/resource/Brazilian_cruiser_Barroso_(C11) http://dbpedia.org/resource/Brazilian_cruiser_Almirante_Barroso_(C11) http://dbpedia.org/resource/USS_Philadelphia_(CL-41)
+0,31,USS Philadelphia,http://dbpedia.org/resource/USS_Philadelphia_(C-4),http://dbpedia.org/resource/USS_Philadelphia_(1799) http://dbpedia.org/resource/Philadelphia_class_frigate
+0,38,USS Petrof Bay,http://dbpedia.org/resource/USS_Oyster_Bay_(AGP-6),http://dbpedia.org/resource/USS_Petrof_Bay_(CVU-80) http://dbpedia.org/resource/USS_Petrof_Bay_(CVE-80) http://dbpedia.org/resource/USS_Petrof_Bay
+0,39,USS Petrel,http://dbpedia.org/resource/USS_Petrel_(PG-2),http://dbpedia.org/resource/USS_Petrel_(ASR-14)
+0,45,USS Perkins,http://dbpedia.org/resource/USS_Perkins_(DD-877),http://dbpedia.org/resource/USS_Perkins_(DD-377)
+0,46,USS Perkins,http://dbpedia.org/resource/USS_Perkins_(DD-877),http://dbpedia.org/resource/USS_Perkins_(DD-26)
+0,50,USS Perch,http://dbpedia.org/resource/USS_Perch_(SS-176),http://dbpedia.org/resource/USS_Perch_(IXSS-313) http://dbpedia.org/resource/SS_313 http://dbpedia.org/resource/SS-313 http://dbpedia.org/resource/SS313 http://dbpedia.org/resource/ASSP-313 http://dbpedia.org/resource/USS_Perch_(LPSS-313) http://dbpedia.org/resource/USS_Perch_(ASSP-313) http://dbpedia.org/resource/USS_Perch_(SSP-313) http://dbpedia.org/resource/USS_Perch_(SS-313) http://dbpedia.org/resource/USS_Perch_(APSS-313)
+0,54,USS Peoria,http://dbpedia.org/resource/USS_Peoria_(PF-67),http://dbpedia.org/resource/USS_Peoria_(LST-1183) http://dbpedia.org/resource/USS_LST-1183
+0,56,USS Pensacola,http://dbpedia.org/resource/USS_Pensacola_(CA-24),http://dbpedia.org/resource/ROCS_Hsu_Hai http://dbpedia.org/resource/ROCS_Hsu_Hai_(LSD-193) http://dbpedia.org/resource/USS_Pensacola_(LSD-38)
+0,57,USS Pensacola,http://dbpedia.org/resource/USS_Pensacola_(CA-24),http://dbpedia.org/resource/USS_Pensacola_(ID-2078) http://dbpedia.org/resource/USS_Pensacola_(AG-13) http://dbpedia.org/resource/USS_Pensacola_(AK-7/AG-13) http://dbpedia.org/resource/USS_Pensacola_(AK-7)
+0,58,USS Pensacola,http://dbpedia.org/resource/USS_Pensacola_(CA-24),http://dbpedia.org/resource/USS_Pensacola_(1859)

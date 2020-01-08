@@ -1,0 +1,11 @@
+F1: 0.83019,Precision: 0.83019,Recall: 0.83019,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,4,Marisol,http://dbpedia.org/resource/Marisol_(Mexican_TV_series),http://dbpedia.org/resource/Marisol_(Brazilian_soap_opera) http://dbpedia.org/resource/Soap_Opera_Marisol http://dbpedia.org/resource/Marisol_(Brazilian_telenovela) http://dbpedia.org/resource/Marisol_(TV_series)
+0,7,María Mercedes,http://dbpedia.org/resource/María_Mercedes_(Mexican_TV_series),http://dbpedia.org/resource/Maria_Mercedes_(telenovela) http://dbpedia.org/resource/María_Mercedes_(telenovela) http://dbpedia.org/resource/Maria_mercedes_tv_remake http://dbpedia.org/resource/Maria_Mercedes_(Phil._Version) http://dbpedia.org/resource/Maria_mercedes_philippine_remake
+0,15,Man from Interpol,http://dbpedia.org/resource/The_Man_from_Interpol_(film),http://dbpedia.org/resource/The_Man_from_Interpol http://dbpedia.org/resource/Man_from_Interpol
+0,30,Magdalena,,http://dbpedia.org/resource/Magdalena_(TV_series)
+0,33,Mad Dogs,http://dbpedia.org/resource/Mad_Dogs_(British_TV_series),http://dbpedia.org/resource/Mad_Dogs_(U.S._TV_series)
+0,39,Maan,http://dbpedia.org/resource/Moon,http://dbpedia.org/resource/Maan_(TV_series)
+0,45,Luis,http://dbpedia.org/resource/Lui,http://dbpedia.org/resource/Luis_(TV_series) http://dbpedia.org/resource/Luis_(sitcom)
+0,49,Love on a Rooftop,http://dbpedia.org/resource/Love_on_a_Rooftop_(South_Korean_TV_series),http://dbpedia.org/resource/Love_On_A_Rooftop http://dbpedia.org/resource/Love_on_a_Rooftop
+0,51,Lottery!,http://dbpedia.org/resource/The_Lottery_(TV_series),http://dbpedia.org/resource/Lottery!

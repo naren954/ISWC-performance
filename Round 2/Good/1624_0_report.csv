@@ -1,0 +1,11 @@
+F1: 0.94545,Precision: 0.94545,Recall: 0.94545,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,30,P. Sullivan,http://dbpedia.org/resource/Pat_Sullivan_(third_baseman),http://dbpedia.org/resource/Pat_Sullivan_(manager)
+0,75,O. Butler,http://dbpedia.org/resource/Owen_Butler_(rugby_union),http://dbpedia.org/resource/Ormond_Butler
+0,89,O. Ponomarov,,http://dbpedia.org/resource/Oleksandr_Ponomarov http://dbpedia.org/resource/Aleksandr_Ponomaryov http://dbpedia.org/resource/Alexander_Ponomarev http://dbpedia.org/resource/Aleksandr_Ponomarev
+0,104,N. Smith,http://dbpedia.org/resource/Norm_Smith,http://dbpedia.org/resource/Norman_Smith_(English_footballer)
+0,112,N. Bullock,"http://dbpedia.org/resource/Norman_Bullock_(footballer,_born_1932)",http://dbpedia.org/resource/Norman_Bullock
+0,140,N. Kovács,http://dbpedia.org/resource/Norbert_Kovács_(footballer),http://dbpedia.org/resource/Nicolae_Kovács_(footballer) http://dbpedia.org/resource/Nicolae_Kovács http://dbpedia.org/resource/Miklos_Kovacs_(footballer) http://dbpedia.org/resource/Miklós_Kovács_(Footballer) http://dbpedia.org/resource/Nicolae_Kovacs http://dbpedia.org/resource/Miklós_Kovács_(footballer)
+0,148,N. Oyarzún,http://dbpedia.org/resource/Luis_Oyarzún,http://dbpedia.org/resource/Nelson_Oyarzún
+0,149,N. Reagan,http://dbpedia.org/resource/Ronald_Reagan,"http://dbpedia.org/resource/John_Neil_Reagan http://dbpedia.org/resource/Neil_""Moon""_Reagan http://dbpedia.org/resource/Neil_Reagan"
+0,151,N. Harris,"http://dbpedia.org/resource/Neil_Harris_(footballer,_born_1977)","http://dbpedia.org/resource/Neil_Harris_(footballer,_born_1894) http://dbpedia.org/resource/Neil_Harris_(1894-1941) http://dbpedia.org/resource/Neil_Harris_(footballer_born_1894) http://dbpedia.org/resource/Neil_Harris_(Scottish_Footballer) http://dbpedia.org/resource/Neil_Harris_(footballer_born_1984)"

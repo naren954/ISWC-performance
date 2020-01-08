@@ -1,0 +1,4 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,Mondawmin Metro Subway Station,http://dbpedia.org/resource/Glasgow_Subway,http://dbpedia.org/resource/Mondawmin_station http://dbpedia.org/resource/Mondawmin_(Metro_Subway_station) http://dbpedia.org/resource/Mondawmin_Metro_Subway_Station http://dbpedia.org/resource/Mondawmin_Metro http://dbpedia.org/resource/Mondawmin_(MTA_Metro_Subway) http://dbpedia.org/resource/Mondawmin_Station http://dbpedia.org/resource/Mondawmin_(Baltimore_Metro_Subway_station) http://dbpedia.org/resource/Mondawmin_(Metro_Subway)
+1,2,Woodberry Light Rail Stop,http://dbpedia.org/resource/Light_Rail_(MTR),http://dbpedia.org/resource/Woodberry_(PRR_station) http://dbpedia.org/resource/Woodberry_(Baltimore_Light_Rail_station) http://dbpedia.org/resource/Woodberry_Light_Rail_Stop

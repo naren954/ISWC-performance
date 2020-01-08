@@ -1,0 +1,8 @@
+F1: 0.57143,Precision: 0.57143,Recall: 0.57143,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,W. v. Homburg,"http://dbpedia.org/resource/Frederick_V,_Landgrave_of_Hesse-Homburg",http://dbpedia.org/resource/Wilhem_Von_Homburg http://dbpedia.org/resource/Norbert_Grupe http://dbpedia.org/resource/Wilhelm_von_Homberg http://dbpedia.org/resource/Wilhem_von_Homburg http://dbpedia.org/resource/Wilhelm_von_Homburg http://dbpedia.org/resource/Wilhelm_Von_Homburg
+0,2,T. Johnson,http://dbpedia.org/resource/Thomas_Johnson_(cyclist),http://dbpedia.org/resource/Swedish_angel http://dbpedia.org/resource/Tor_Johnson http://dbpedia.org/resource/Tor_Johansson
+0,3,T. Thacker,http://dbpedia.org/resource/Charles_P._Thacker,http://dbpedia.org/resource/Tab_Thacker
+0,5,P. Prehn,http://dbpedia.org/resource/Friedrich_Prehn,http://dbpedia.org/resource/Paul_Prehn
+0,9,M. Lane,http://dbpedia.org/resource/Moses_Lane,http://dbpedia.org/resource/Mike_Lane
+0,11,K. Pasha,http://dbpedia.org/resource/Mustafa_Kemal_Atatürk,http://dbpedia.org/resource/Kalla_Pascha http://dbpedia.org/resource/Kala_Pasha http://dbpedia.org/resource/Kalla_Pasha

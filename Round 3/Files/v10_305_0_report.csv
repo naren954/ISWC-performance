@@ -1,0 +1,6 @@
+"F1: 0.96330","Precision: 0.96330","Recall: 0.96330"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","4","Information Systems Journal","http://dbpedia.org/resource/Information_Systems_(journal)","http://dbpedia.org/resource/Journal_of_Information_Systems http://dbpedia.org/resource/Information_Systems_Journal"
+"0","29","IEEE Transactions on Control Systems and Technology","http://dbpedia.org/resource/IEEE_Transactions_on_Control_Systems_Technology","http://dbpedia.org/resource/IEEE_Transactions_on_Control_Systems_and_Technology http://dbpedia.org/resource/IEEE_Transactions_on_Control_Systems_and_Technologies"
+"0","69","Herpetologica","http://dbpedia.org/resource/Bibliotheca_Herpetologica","http://dbpedia.org/resource/Herpetologica"
+"0","81","HLA","nan","http://dbpedia.org/resource/HLA_(journal) http://dbpedia.org/resource/Tissue_Antigens"

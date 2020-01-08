@@ -1,0 +1,15 @@
+F1: 0.85556,Precision: 0.85556,Recall: 0.85556,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,5,The Floating Island,http://dbpedia.org/resource/Floating_Island_(novel),http://dbpedia.org/resource/The_Floating_Island_(novel) http://dbpedia.org/resource/The_Floating_Island_(Haydon_novel) http://dbpedia.org/resource/The_Floating_Island
+2,7,The Journey,http://dbpedia.org/resource/Journey_to_the_West,http://dbpedia.org/resource/The_Journey_(Applegate_novel) http://dbpedia.org/resource/The_Journey_(Animorphs)
+2,10,The Shape Of Water,http://dbpedia.org/resource/The_Shape_of_Water_(novel),http://dbpedia.org/resource/The_Shape_Of_Water http://dbpedia.org/resource/The_Shape_of_Water
+2,17,The Hit,http://dbpedia.org/resource/The_Hits_(Dr._Bombay_album),http://dbpedia.org/resource/The_Hit_(Baldacci_novel) http://dbpedia.org/resource/The_Hit_(novel) http://dbpedia.org/resource/The_Hit_(Baldacci) http://dbpedia.org/resource/The_Hit_(Baldacci_Novel)
+2,23,The Scar,http://dbpedia.org/resource/Made_of_Scars,http://dbpedia.org/resource/The_Scar
+2,43,Southern Steel,http://dbpedia.org/resource/Southern_Steel_(novel),http://dbpedia.org/resource/Southern_Steel
+2,48,The Potter's Field,http://dbpedia.org/resource/The_Potter's_Field_(Camilleri_novel),http://dbpedia.org/resource/The_Potter's_Field_(Peters_novel)
+2,58,The Capture,http://dbpedia.org/resource/Captured_(Journey_album),http://dbpedia.org/resource/The_Capture_(Animorphs) http://dbpedia.org/resource/The_Capture_(novel)
+2,62,The Dream,http://dbpedia.org/resource/A_Midsummer_Night's_Dream,http://dbpedia.org/resource/The_Dream_(novel)
+2,66,Ishmael,http://dbpedia.org/resource/Ishmael_(Star_Trek),http://dbpedia.org/resource/Ishmael_by_Daniel_Quinn http://dbpedia.org/resource/Ishmael_(book) http://dbpedia.org/resource/Ishmael_(novel) http://dbpedia.org/resource/Ishmael_novel
+2,67,The Empty Chair,http://dbpedia.org/resource/The_Empty_Chair_(novel),http://dbpedia.org/resource/The_Empty_Chair
+2,74,The Rising Tide,http://dbpedia.org/resource/The_Rising_Tide_(Deland_novel),http://dbpedia.org/resource/The_Rising_Tide_(2006_novel) http://dbpedia.org/resource/The_Rising_Tide_(Shaara_novel)
+2,79,The Chosen,http://dbpedia.org/resource/Buffy_the_Vampire_Slayer,http://dbpedia.org/resource/The_Chosen_(Pinto_novel) http://dbpedia.org/resource/The_Chosen_(Ricardo_Pinto)

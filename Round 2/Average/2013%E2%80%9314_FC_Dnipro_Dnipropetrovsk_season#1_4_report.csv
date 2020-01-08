@@ -1,0 +1,8 @@
+F1: 0.57143,Precision: 0.57143,Recall: 0.57143,,
+Col,Row,Value,Submitted URI,Correct URI's
+4,3,Yevhen Konoplyanka,http://dbpedia.org/resource/Yevhen_Seleznyov,http://dbpedia.org/resource/Yevgeny_Konoplyanka http://dbpedia.org/resource/Yevhen_Konoplyanka http://dbpedia.org/resource/Yevhen_Konoplianka http://dbpedia.org/resource/Konoplyanka http://dbpedia.org/resource/Yevhen_Konopljanka http://dbpedia.org/resource/Yevgen_Konoplyanka http://dbpedia.org/resource/Evgen_Konoployanka http://dbpedia.org/resource/Evhen_Konoplyanka
+4,4,Roman Zozulya,http://dbpedia.org/resource/Roman_Zozulya,http://dbpedia.org/resource/Roman_Zozulya_(footballer)
+4,5,Nikola KaliniÄ\u0087,http://dbpedia.org/resource/Nikola_Tesla,http://dbpedia.org/resource/Nikola_Kalinić
+4,6,Giuliano,http://dbpedia.org/resource/Jeff_Giuliano,http://dbpedia.org/resource/Giuliano_Victor_de_Paula http://dbpedia.org/resource/Giulano_Victor_De_Paula http://dbpedia.org/resource/Giuliano_de_Paula
+4,11,Douglas,"http://dbpedia.org/resource/Douglas_(footballer,_born_1990)",http://dbpedia.org/resource/Douglas_Silva_Bacelar
+4,13,Yevhen Shakhov,"http://dbpedia.org/resource/Yevhen_Shakhov_(footballer,_born_1962)","http://dbpedia.org/resource/Yevhen_Yevhenovych_Shakhov http://dbpedia.org/resource/Yevhen_Shakhov_(footballer_born_1990) http://dbpedia.org/resource/Yevhen_Shakhov_(footballer,_born_1990)"

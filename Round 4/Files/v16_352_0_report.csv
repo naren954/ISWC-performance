@@ -1,0 +1,8 @@
+"F1: 0.81250","Precision: 0.81250","Recall: 0.81250"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","17","S. Adams","http://dbpedia.org/resource/Sam_Adams_(American_football)","http://dbpedia.org/resource/Scott_Adams_(American_football) http://dbpedia.org/resource/Scott_Adams_(football_player)"
+"0","21","R. Smith","http://dbpedia.org/resource/Royce_Smith","http://dbpedia.org/resource/Ron_Smith_(defensive_back)"
+"0","23","R. Davis","http://dbpedia.org/resource/Roger_Davis_(American_football)","http://dbpedia.org/resource/Robert_Davis_(American_football)"
+"0","26","P. Miller","http://dbpedia.org/resource/Prince_Miller","http://dbpedia.org/resource/Paul_Miller_(halfback) http://dbpedia.org/resource/Paul_Miller_(Packers) http://dbpedia.org/resource/Paul_Miller_(American_football_back)"
+"0","29","O. Brown","http://dbpedia.org/resource/Orlando_Brown_(American_football)","http://dbpedia.org/resource/Otto_Brown"
+"0","31","N. T. Lane","http://dbpedia.org/resource/Noel_Lane_(Galway_hurler)","http://dbpedia.org/resource/Dick_Lane_(American_football) http://dbpedia.org/resource/Dick_Night_Train_Lane http://dbpedia.org/resource/Night_Train_Lane http://dbpedia.org/resource/Dick_""Night_Train""_Lane http://dbpedia.org/resource/Dick_""Night_Train”_Lane http://dbpedia.org/resource/Dick_'Night_Train'_Lane"

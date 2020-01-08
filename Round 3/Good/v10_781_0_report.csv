@@ -1,0 +1,8 @@
+F1: 0.90476,Precision: 0.90476,Recall: 0.90476,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,12,Burlington Northern Depot,http://dbpedia.org/resource/Kelso_Multimodal_Transportation_Center,"http://dbpedia.org/resource/Burlington_Northern_Depot_(Amenia,_North_Dakota)"
+0,13,Burke County Courthouse,http://dbpedia.org/resource/Burke_County_Courthouse_(Georgia),http://dbpedia.org/resource/Burke_County_Courthouse_(North_Dakota)
+0,26,Brown Palace Hotel,"http://dbpedia.org/resource/Brown_Palace_Hotel_(Mobridge,_South_Dakota)","http://dbpedia.org/resource/Brown_Palace_Hotel_(Denver,_Colorado)"
+0,27,Brooks County Courthouse,http://dbpedia.org/resource/Brooks_County_Courthouse_(Texas),"http://dbpedia.org/resource/Brooks_County_Courthouse http://dbpedia.org/resource/Brooks_County_Courthouse_(Quitman,_Georgia)"
+0,33,Broadway Historic District,"http://dbpedia.org/resource/Broadway_Historic_District_(Bangor,_Maine)","http://dbpedia.org/resource/Broadway_Historic_District_(Saratoga_Springs,_New_York) http://dbpedia.org/resource/Downtown_Saratoga_Springs http://dbpedia.org/resource/Broadway_Historic_District_(Saratoga_Springs)"
+0,62,Bocock-Isbell House,http://dbpedia.org/resource/Isbell_House,http://dbpedia.org/resource/Bocock-Isbell_House

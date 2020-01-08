@@ -1,0 +1,4 @@
+F1: 0.60000,Precision: 0.60000,Recall: 0.60000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Environmental Quality Board,http://dbpedia.org/resource/Council_on_Environmental_Quality,http://dbpedia.org/resource/EQB http://dbpedia.org/resource/Puerto_Rico_Environmental_Quality_Board
+0,2,Office of Management and Budget,http://dbpedia.org/resource/Office_of_Management_and_Budget,http://dbpedia.org/resource/Office_of_Management_and_Budget_of_Puerto_Rico http://dbpedia.org/resource/Puerto_Rico_Office_of_Management_and_Budget

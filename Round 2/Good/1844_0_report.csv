@@ -1,0 +1,17 @@
+F1: 0.91477,Precision: 0.91477,Recall: 0.91477,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,4,K. Koltsov,http://dbpedia.org/resource/Konstantin_Koltsov,http://dbpedia.org/resource/Kirill_Koltsov
+0,41,K. Lowe,http://dbpedia.org/resource/Kevin_Lowe,http://dbpedia.org/resource/Keegan_Lowe
+0,68,J. Williams,http://dbpedia.org/resource/James_O._Williams,"http://dbpedia.org/resource/Justin_Williams http://dbpedia.org/resource/Williams,_Justin http://dbpedia.org/resource/Justin_Williams_(ice_hockey)"
+0,69,J. Vaive,http://dbpedia.org/resource/Rick_Vaive,http://dbpedia.org/resource/Justin_Vaive
+0,71,J. Schultz,http://dbpedia.org/resource/Jeff_Schultz,http://dbpedia.org/resource/Justin_Schultz
+0,82,J. Bailey,http://dbpedia.org/resource/Joe_Bailey_(ice_hockey),http://dbpedia.org/resource/Justin_Bailey_(ice_hockey) http://dbpedia.org/resource/Justin_Bailey
+0,108,J. Champagne,http://fr.dbpedia.org/resource/Joël_Champagne,http://dbpedia.org/resource/Joel_Champagne http://dbpedia.org/resource/Joël_Champagne
+0,121,J. Green,http://dbpedia.org/resource/Johnny_Green_(basketball),http://dbpedia.org/resource/Josh_Green_(ice_hockey)
+0,122,J. Godfrey,http://fr.dbpedia.org/resource/Josh_Godfrey,http://dbpedia.org/resource/Josh_Godfrey
+0,123,J. Brittain,,http://dbpedia.org/resource/Joshua_Brittain http://dbpedia.org/resource/Josh_Brittain
+0,124,J. Bailey,http://dbpedia.org/resource/Joe_Bailey_(ice_hockey),http://dbpedia.org/resource/Josh_Bailey
+0,125,J. Archibald,http://dbpedia.org/resource/Jim_Archibald,http://dbpedia.org/resource/Josh_Archibald_(ice_hockey)
+0,126,J. Anderson,http://dbpedia.org/resource/Jim_Anderson_(ice_hockey),http://dbpedia.org/resource/Josh_Anderson_(ice_hockey)
+0,173,J. Bernier,http://dbpedia.org/resource/Steve_Bernier,http://dbpedia.org/resource/Jonathan_Bernier http://dbpedia.org/resource/Jonny_bernier http://dbpedia.org/resource/Jon_bernier http://dbpedia.org/resource/John_Bernier http://dbpedia.org/resource/Johnny_Bernier
+0,174,J. Nielsen,http://dbpedia.org/resource/Jeff_Nielsen,http://dbpedia.org/resource/Jonatan_Nielsen

@@ -1,0 +1,6 @@
+"F1: 0.66667","Precision: 0.66667","Recall: 0.66667"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"2","1","H. Jones","http://dbpedia.org/resource/Howard_Jones_(American_musician)","http://dbpedia.org/resource/John_Howard_Jones http://dbpedia.org/resource/Jones,_Howard_(musician) http://dbpedia.org/resource/Howard_Jones_(musician) http://dbpedia.org/resource/Engage_(Howard_Jones_album)"
+"2","5","D. Johnson","http://dbpedia.org/resource/Daryl_Johnson_(musician)","http://dbpedia.org/resource/Doug_Johnson_(record_producer)"
+"2","8","D. Malloy","http://dbpedia.org/resource/Donald_Malloy","http://dbpedia.org/resource/David_Malloy http://dbpedia.org/resource/David_malloy"
+"2","9","D. Warren","http://dbpedia.org/resource/Dale_Warren","http://dbpedia.org/resource/Diane_Warren"

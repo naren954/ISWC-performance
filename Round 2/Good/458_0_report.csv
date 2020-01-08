@@ -1,0 +1,4 @@
+F1: 0.90000,Precision: 0.90000,Recall: 0.90000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,4,The War,http://dbpedia.org/resource/At_War,http://dbpedia.org/resource/The_War_(The_New_Power_Generation_song)
+0,20,The Night Before,http://it.dbpedia.org/resource/The_Night_Before_(singolo_Hooverphonic),http://dbpedia.org/resource/The_Night_Before_(song)

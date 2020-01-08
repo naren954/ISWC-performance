@@ -1,0 +1,5 @@
+F1: 0.80000,Precision: 0.80000,Recall: 0.80000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,4,Matador PÃºchov,http://dbpedia.org/resource/MŠK_Púchov,http://dbpedia.org/resource/FK_Púchov
+1,7,PodbrezovÃ¡,http://dbpedia.org/resource/FK_Železiarne_Podbrezová,http://dbpedia.org/resource/FO_ŽP_Šport_Podbrezová
+1,8,Steel Trans LiÄ\u008Dartovce,http://dbpedia.org/resource/FC_VSS_Košice,http://dbpedia.org/resource/FC_Steel_Trans_Ličartovce

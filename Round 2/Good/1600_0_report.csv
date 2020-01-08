@@ -1,0 +1,4 @@
+F1: 0.85714,Precision: 0.85714,Recall: 0.85714,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,9,K. A-lang,http://dbpedia.org/resource/K.d._lang,http://dbpedia.org/resource/Kim_A-lang http://dbpedia.org/resource/Kim_A-Lang http://dbpedia.org/resource/Kim_Alang
+0,14,K. Suzuki,http://dbpedia.org/resource/Keishi_Suzuki,http://dbpedia.org/resource/Keiichi_Suzuki_(speedskater) http://dbpedia.org/resource/Keiichi_Suzuki_(speed_skater)

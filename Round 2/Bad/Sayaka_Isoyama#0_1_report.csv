@@ -1,0 +1,5 @@
+F1: 0.40000,Precision: 0.40000,Recall: 0.40000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,Hero,http://dbpedia.org/resource/Heroes_(American_TV_series),http://dbpedia.org/resource/Hero_(2001_TV_series)
+1,7,Mito KÅ\u008Dmon,http://dbpedia.org/resource/Wansapanataym,http://dbpedia.org/resource/Mito_Kōmon
+1,11,Hungry!,http://dbpedia.org/resource/Young_&_Hungry,http://dbpedia.org/resource/Hungry!

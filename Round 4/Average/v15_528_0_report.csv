@@ -1,0 +1,29 @@
+F1: 0.72727,Precision: 0.72727,Recall: 0.72727,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,H. Die,http://dbpedia.org/resource/Hans_Holbein_the_Younger,http://dbpedia.org/resource/Butterfly_Hu http://dbpedia.org/resource/Hu_Tieh http://dbpedia.org/resource/Hu_Die_(actress) http://dbpedia.org/resource/Hu_Die http://dbpedia.org/resource/Butterfly_Wu
+0,10,H. Standing,http://dbpedia.org/resource/Napoleon,http://dbpedia.org/resource/Herbert_Standing
+0,19,H. Broderick,http://dbpedia.org/resource/James_Broderick,http://dbpedia.org/resource/Helen_Broderick
+0,20,H. Hopper,http://dbpedia.org/resource/Dennis_Hopper,"http://dbpedia.org/resource/Hopper,_Hedda http://dbpedia.org/resource/Elda_Furry http://dbpedia.org/resource/Hedda_Hopper"
+0,23,H. Stockwell,http://dbpedia.org/resource/Hugh_Stockwell,http://dbpedia.org/resource/Harry_Stockwell
+0,26,H. Nelson,"http://dbpedia.org/resource/Horatio_Nelson,_1st_Viscount_Nelson",http://dbpedia.org/resource/Harriet_Nelson http://dbpedia.org/resource/Harriet_Hilliard http://dbpedia.org/resource/Peggy_Lou_Snyder http://dbpedia.org/resource/Harriet_Hilliard_Nelson
+0,27,H. Geller,http://dbpedia.org/resource/Herb_Geller,http://dbpedia.org/resource/Harold_Geller
+0,30,G. Ekman,http://dbpedia.org/resource/Gösta_Ekman,http://dbpedia.org/resource/Gösta_Ekman_(senior) http://dbpedia.org/resource/Gosta_Ekman_(senior) http://dbpedia.org/resource/Gosta_Eckman_Sr. http://dbpedia.org/resource/Frans_Gösta_Viktor_Ekman http://dbpedia.org/resource/Goesta_Ekman_(senior)
+0,31,G. Shipman,http://dbpedia.org/resource/Harold_Shipman,http://dbpedia.org/resource/Gwynne_Shipman
+0,33,G. Kumar,http://dbpedia.org/resource/Rajkumar_(actor),http://dbpedia.org/resource/Gulshan_Kumar's http://dbpedia.org/resource/Gulshan_Kumar
+0,35,G. Morris,http://dbpedia.org/resource/Gouverneur_Morris,http://dbpedia.org/resource/Greg_Morris
+0,39,G. Withers,http://dbpedia.org/resource/Grant_Withers,http://dbpedia.org/resource/Googie_Withers http://dbpedia.org/resource/Georgette_Lizette_Withers http://dbpedia.org/resource/Georgette_Lizette_McCallum http://dbpedia.org/resource/Georgette_McCallum http://dbpedia.org/resource/Georgette_Withers
+0,43,G. R. Stuart,http://dbpedia.org/resource/Gilbert_Stuart,http://dbpedia.org/resource/Jack_Stuart http://dbpedia.org/resource/Giacomo_Rossi_Stuart http://dbpedia.org/resource/Giacomo_Rossi-Stuart
+0,51,G. Curzon,"http://dbpedia.org/resource/George_Curzon,_1st_Marquess_Curzon_of_Kedleston",http://dbpedia.org/resource/George_Curzon_(actor)
+0,56,G. Lewis,http://dbpedia.org/resource/Matthew_Lewis_(writer),http://dbpedia.org/resource/Geoffrey_Lewis_(actor)
+0,57,G. Kerr,http://dbpedia.org/resource/Deborah_Kerr,http://dbpedia.org/resource/Geoffrey_Kerr
+0,63,G. Ekman,http://dbpedia.org/resource/Gösta_Ekman,http://dbpedia.org/resource/Gösta_Ekman_(senior) http://dbpedia.org/resource/Gosta_Ekman_(senior) http://dbpedia.org/resource/Gosta_Eckman_Sr. http://dbpedia.org/resource/Frans_Gösta_Viktor_Ekman http://dbpedia.org/resource/Goesta_Ekman_(senior)
+0,67,F. G. Scott,http://dbpedia.org/resource/F._Scott_Fitzgerald,http://dbpedia.org/resource/Frederick_George_Scott
+0,71,F. Strauss,http://dbpedia.org/resource/Johann_Strauss_II,http://dbpedia.org/resource/Franz_Strauss
+0,78,F. Craven,http://dbpedia.org/resource/Wes_Craven,http://dbpedia.org/resource/Frank_Craven
+0,80,F. Bacon,http://dbpedia.org/resource/Francis_Bacon_(artist),http://dbpedia.org/resource/Frank_Bacon_(actor)
+0,85,F. Hackett,http://dbpedia.org/resource/Buddy_Hackett,http://dbpedia.org/resource/Florence_Hackett
+0,87,F. P. Jr.,http://dbpedia.org/resource/Frank_Peters_Jr.,"http://dbpedia.org/resource/Fernando_Poe,_Jr http://dbpedia.org/resource/Ronwaldo_Reyes http://dbpedia.org/resource/Fernando_Poe_Jr http://dbpedia.org/resource/Da_King http://dbpedia.org/resource/Fernando_Pou,_Jr. http://dbpedia.org/resource/Fernando_Poe,_Jr. http://dbpedia.org/resource/Fernando_Poe_Jr."
+0,89,F. Guillén,http://dbpedia.org/resource/Jorge_Guillén,http://dbpedia.org/resource/Fernando_Guillén_(actor) http://dbpedia.org/resource/Fernando_Guillen_(actor) http://dbpedia.org/resource/Fernando_Guillén(actor)
+0,91,F. Wray,http://dbpedia.org/resource/Link_Wray,http://dbpedia.org/resource/Faye_Wray http://dbpedia.org/resource/Vina_Fay_Wray http://dbpedia.org/resource/Fay_Wray
+0,94,E. Nesbit,http://dbpedia.org/resource/E._Nesbit,"http://dbpedia.org/resource/Evelyn_Nesbit_Thaw http://dbpedia.org/resource/Evelyn_Florence_Nesbit http://dbpedia.org/resource/Evelyn_nesbit_thaw http://dbpedia.org/resource/Evelyn_Nesbitt http://dbpedia.org/resource/Evelyn_Nesbit http://dbpedia.org/resource/Nesbit,_Evelyn"
+0,97,E. Nansen,http://dbpedia.org/resource/Fridtjof_Nansen,http://dbpedia.org/resource/Eva_Helene_Nansen http://dbpedia.org/resource/Eva_Helene_Sars http://dbpedia.org/resource/Eva_Sars http://dbpedia.org/resource/Eva_Nansen

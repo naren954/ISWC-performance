@@ -1,0 +1,8 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,Emory & Henry*,http://dbpedia.org/resource/Emory_and_Henry_College,http://dbpedia.org/resource/Emory_&_Henry_Wasps_football
+1,2,Carsonâ\u0080\u0093Newman*,http://dbpedia.org/resource/C0_and_C1_control_codes,http://dbpedia.org/resource/Carson–Newman_Eagles_football
+1,3,Maryville*,http://dbpedia.org/resource/Maryville_College,http://dbpedia.org/resource/Maryville_Scots_football
+1,6,Ole Miss,http://dbpedia.org/resource/University_of_Mississippi,http://dbpedia.org/resource/Ole_Miss_Rebels_football_team http://dbpedia.org/resource/List_of_Ole_Miss_Rebels_bowl_games http://dbpedia.org/resource/Ole_miss_rebels_football http://dbpedia.org/resource/Ole_Miss_Rebels_football http://dbpedia.org/resource/Ole_Miss_Rebel_football http://dbpedia.org/resource/Ole_miss_football http://dbpedia.org/resource/Mississippi_Rebels_football http://dbpedia.org/resource/2001_Ole_Miss_Rebels_football_team
+1,7,Vanderbilt,http://dbpedia.org/resource/Vanderbilt_University,http://dbpedia.org/resource/1922_vanderbilt_football_team http://dbpedia.org/resource/1922_Vanderbilt_football_team http://dbpedia.org/resource/1922_Vanderbilt_Commodores_football_team
+1,10,Kentucky,"http://dbpedia.org/resource/Louisville,_Kentucky",http://dbpedia.org/resource/Kentucky_Wildcats_football http://dbpedia.org/resource/Kentucky_State_Blue_and_White_football http://dbpedia.org/resource/Kentucky_State_College_Blue_and_White_football http://dbpedia.org/resource/Kentucky_football http://dbpedia.org/resource/Kentucky_wildcats_football

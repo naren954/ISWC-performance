@@ -1,0 +1,4 @@
+"F1: 0.88889","Precision: 0.88889","Recall: 0.88889"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","4","New York State Armory","http://dbpedia.org/resource/New_York_State_Armory_(Poughkeepsie)","http://dbpedia.org/resource/New_York_State_Armory_(Newburgh,_New_York) http://dbpedia.org/resource/New_York_State_Armory_(Newburgh) http://dbpedia.org/resource/Newburgh_Armory"
+"0","6","New Mexico Supreme Court Building","http://dbpedia.org/resource/United_States_Supreme_Court_Building","http://dbpedia.org/resource/New_Mexico_Supreme_Court_Building"

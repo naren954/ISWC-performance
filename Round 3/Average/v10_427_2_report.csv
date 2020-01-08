@@ -1,0 +1,67 @@
+F1: 0.63277,Precision: 0.63277,Recall: 0.63277,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,5,C. Stevens,http://dbpedia.org/resource/Cat_Stevens,http://dbpedia.org/resource/Something_Beautiful_(Connie_Stevens_song) http://dbpedia.org/resource/Connie_Stevens
+2,6,M. Williams,http://dbpedia.org/resource/Miller_Williams,http://dbpedia.org/resource/Michelle_Ingrid_Williams http://dbpedia.org/resource/Michelle_Williams_(Actress) http://dbpedia.org/resource/Michelle_Williams_(actor) http://dbpedia.org/resource/Matilda_Ledger http://dbpedia.org/resource/Michelle_Williams_(actress)
+2,9,S. Callahan,http://dbpedia.org/resource/Gene_Callahan,http://dbpedia.org/resource/Shane_Callahan
+2,16,K. Kapoor,http://dbpedia.org/resource/Kareena_Kapoor,http://dbpedia.org/resource/Kunal_Kapoor
+2,17,A. Cooper,http://dbpedia.org/resource/Jackie_Cooper,http://dbpedia.org/resource/The_Beast_Of_Alice_Cooper http://dbpedia.org/resource/Sheryl_Cooper http://dbpedia.org/resource/Humanary_Stew:_A_Tribute_to_Alice_Cooper http://dbpedia.org/resource/Norma_Byrne http://dbpedia.org/resource/Vincent_D._Furnier http://dbpedia.org/resource/Vince_Furnier http://dbpedia.org/resource/Mascarra_&_Monsters_:_The_Best_Of_Alice_Cooper http://dbpedia.org/resource/Vincent_Damon_Furnier http://dbpedia.org/resource/Calico_Cooper http://dbpedia.org/resource/The_beast_of_alice_cooper http://dbpedia.org/resource/Humanary_Stew:_A_tribute_to_Alice_Cooper http://dbpedia.org/resource/Alice_Coper http://dbpedia.org/resource/Poison_(Alice_Cooper_album) http://dbpedia.org/resource/ALICE_COOPER http://dbpedia.org/resource/Vincent_Furnier http://dbpedia.org/resource/Alice_Cooper
+2,19,J. Marsden,http://dbpedia.org/resource/Jason_Marsden,http://dbpedia.org/resource/James_Marsden http://dbpedia.org/resource/James_Marsden_filmography
+2,20,G. Chaplin,http://dbpedia.org/resource/Sydney_Chaplin_(American_actor),http://dbpedia.org/resource/Geraldine_Leigh_Chaplin http://dbpedia.org/resource/Geraldine_Chaplin http://dbpedia.org/resource/Géraldine_Chaplin
+2,27,M. Lawrence,http://dbpedia.org/resource/Marjorie_Lawrence,http://dbpedia.org/resource/Martin_lawrence http://dbpedia.org/resource/Martin_Lawrence
+2,29,A. Warsi,"http://dbpedia.org/resource/Sayeeda_Warsi,_Baroness_Warsi",http://dbpedia.org/resource/Arshad_Warsi http://dbpedia.org/resource/Arshad_Warsi_Movies http://dbpedia.org/resource/Shooting_Star_Production_Ind_Ltd
+2,33,A. M. Hall,http://dbpedia.org/resource/Anna_Maria_Hall,http://dbpedia.org/resource/Michael_Anthony_Hall http://dbpedia.org/resource/Farmer_ted http://dbpedia.org/resource/Anthony_Michael_Hall
+2,36,M. O'Hara,http://dbpedia.org/resource/Maureen_O'Hara,http://dbpedia.org/resource/Sisa_(1999_film) http://dbpedia.org/resource/Mario_O'_Hara http://dbpedia.org/resource/Mario_O'Hara http://dbpedia.org/resource/Mario_Ohara
+2,37,B. Bell,http://dbpedia.org/resource/Bill_Bell_(mayor),"http://dbpedia.org/resource/Brian_Bell http://dbpedia.org/resource/Bell,_Brian http://dbpedia.org/resource/Brian_Bell_(musician)"
+2,41,A. McCarthy,http://dbpedia.org/resource/Kevin_McCarthy_(actor),http://dbpedia.org/resource/Andrew_McCarthy
+2,45,V. Johnson,http://dbpedia.org/resource/Virgil_Johnson_(singer),http://dbpedia.org/resource/Van_Johnson
+2,49,E. B. Jr.,http://dbpedia.org/resource/George_W._Bush,"http://dbpedia.org/resource/Ed_Begley_Junior http://dbpedia.org/resource/Ed_Begley_Jr http://dbpedia.org/resource/Ed_Begley_Jr. http://dbpedia.org/resource/Ed_Bagley,_Jr. http://dbpedia.org/resource/Edward_Begley,_Jr. http://dbpedia.org/resource/Edward_James_Begley,_Jr. http://dbpedia.org/resource/Ed_Begley,_Jr http://dbpedia.org/resource/Edward_James_Begley http://dbpedia.org/resource/Ed_Bagly,_Jr. http://dbpedia.org/resource/Ed_Begley,_Jr."
+2,50,E. Arnold,http://dbpedia.org/resource/Matthew_Arnold,http://dbpedia.org/resource/Edward_Arnold_(actor) http://dbpedia.org/resource/Gunther_Edward_Arnold_Schneider http://dbpedia.org/resource/Gunther_Schneider
+2,52,J. Chen,http://dbpedia.org/resource/Jo-Yu_Chen,http://dbpedia.org/resource/Chén_Chōng http://dbpedia.org/resource/Chen_Chong http://dbpedia.org/resource/陈冲 http://dbpedia.org/resource/Joan_Chen http://dbpedia.org/resource/Joan_Chong_Chen http://dbpedia.org/resource/Can4_Cung1
+2,56,H. Cooley,http://dbpedia.org/resource/Charles_Cooley,http://dbpedia.org/resource/Hal_Cooley http://dbpedia.org/resource/Hallam_Cooley
+2,58,G. Brouillette,http://fr.dbpedia.org/resource/Marc_André_Brouillette,"http://dbpedia.org/resource/Geneviève_Brouillette http://dbpedia.org/resource/Genevieve_Brouillette http://dbpedia.org/resource/Brouillette,_Genevieve"
+2,60,J. Warner,http://dbpedia.org/resource/Jack_L._Warner,http://dbpedia.org/resource/Julie_Warner
+2,61,A. Karras,http://dbpedia.org/resource/Anton_Karas,http://dbpedia.org/resource/Alex_Karras
+2,63,P. Friend,http://dbpedia.org/resource/Paul_McCartney,http://dbpedia.org/resource/Philip_Friend http://dbpedia.org/resource/Phillip_Friend
+2,65,M. Webber,http://dbpedia.org/resource/Max_Weber,http://dbpedia.org/resource/Mark_Webber
+2,66,L. Steers,http://dbpedia.org/resource/Burr_Steers,http://dbpedia.org/resource/Larry_Steers
+2,71,J. Garfield,http://dbpedia.org/resource/James_A._Garfield,http://dbpedia.org/resource/John_Garfield http://dbpedia.org/resource/Julius_Garfinkle http://dbpedia.org/resource/Jacob_Julius_Garfinkle
+2,74,M. Douglas,http://dbpedia.org/resource/Michael_Douglas,http://dbpedia.org/resource/Melvyn_Hesselberg http://dbpedia.org/resource/Melvyn_Douglas http://dbpedia.org/resource/Melvyn_Edouard_Hesselberg http://dbpedia.org/resource/Melvin_Douglas
+2,75,H. Herbert,http://dbpedia.org/resource/George_H._W._Bush,http://dbpedia.org/resource/Hugh_Herbert
+2,81,I. Stender,http://de.dbpedia.org/resource/Herbert_Stender,http://dbpedia.org/resource/Inger_Stender
+2,86,T. Copley,http://dbpedia.org/resource/John_Singleton_Copley,http://dbpedia.org/resource/Teri_Copley
+2,88,P. Krause,http://dbpedia.org/resource/Günther_Krause,http://dbpedia.org/resource/Peter_Krause
+2,89,J. Mills,http://dbpedia.org/resource/Jonathan_Mills_(composer),http://dbpedia.org/resource/John_Mills http://dbpedia.org/resource/Sir_John_Mills
+2,90,T. Rautavaara,http://dbpedia.org/resource/Einojuhani_Rautavaara,http://dbpedia.org/resource/Tapio_Rautavaara
+2,91,C. Blackstock,http://dbpedia.org/resource/Tommy_Blackstock,http://dbpedia.org/resource/Cindy_Blackstock
+2,92,K. Williams,http://dbpedia.org/resource/Kelli_Williams,http://dbpedia.org/resource/Kathlyn_Williams
+2,96,M. Koch,http://dbpedia.org/resource/Marianne_Koch,http://dbpedia.org/resource/Michael_Koch_(director) http://dbpedia.org/resource/Michael_Koch_(film_director) http://dbpedia.org/resource/Michael_Koch_(actor)
+2,105,I. Bergman,http://dbpedia.org/resource/Ingmar_Bergman,http://dbpedia.org/resource/Ingrid_Bergman http://dbpedia.org/resource/Ingrid_Berman http://dbpedia.org/resource/Ingrid_Rossellini http://dbpedia.org/resource/Isotta_Ingrid_Rossellini http://dbpedia.org/resource/Ingrid_Bergmann
+2,110,W. N. Married!,http://dbpedia.org/resource/W._N._Herbert,http://dbpedia.org/resource/We're_Not_Married! http://dbpedia.org/resource/We_are_not_married http://dbpedia.org/resource/We're_Not_Married
+2,114,E. Thomson,http://dbpedia.org/resource/Virgil_Thomson,http://dbpedia.org/resource/Erik_Thomson
+2,115,E. Ko,http://dbpedia.org/resource/Alan_Ko,http://dbpedia.org/resource/Eddy_Ko
+2,117,B. Flanagan,http://dbpedia.org/resource/Barry_Flanagan,http://dbpedia.org/resource/Bud_Flanagan http://dbpedia.org/resource/Bud_Flannagan http://dbpedia.org/resource/Chaim_Reuben_Weintrop http://dbpedia.org/resource/Chaim_Weintrop
+2,120,T. Jones,http://dbpedia.org/resource/Thad_Jones,http://dbpedia.org/resource/Toby_Jones http://dbpedia.org/resource/Tobey_Jones http://dbpedia.org/resource/Toby_Edward_Heslewood_Jones
+2,121,D. Alvarado,http://dbpedia.org/resource/Don_Alvarado,http://dbpedia.org/resource/Daniel_Alvarado
+2,122,D. McKellar,http://dbpedia.org/resource/Danica_McKellar,http://dbpedia.org/resource/Don_Mckellar http://dbpedia.org/resource/Don_McKellar
+2,125,O. Hardy,http://dbpedia.org/resource/Charles_the_Bold,"http://dbpedia.org/resource/Babe_Hardy http://dbpedia.org/resource/Oliver_Hardy http://dbpedia.org/resource/Oliver_Norvell_Hardy http://dbpedia.org/resource/O.N._Hardy http://dbpedia.org/resource/Oliver_N._Hardy http://dbpedia.org/resource/Norvell_Hardy http://dbpedia.org/resource/O._N._Hardy http://dbpedia.org/resource/Hardy,_Oliver http://dbpedia.org/resource/Ollie_Hardy"
+2,129,B. Davis,http://dbpedia.org/resource/Beryl_Davis,"http://dbpedia.org/resource/Bettie_Davis http://dbpedia.org/resource/Davis,_Bette http://dbpedia.org/resource/Bette_Davis http://dbpedia.org/resource/Arthur_Farnsworth. http://dbpedia.org/resource/Bette_Davies http://dbpedia.org/resource/Harmon_Nelson http://dbpedia.org/resource/Arthur_Farnsworth_(Bette_Davis'_husband) http://dbpedia.org/resource/Ruth_E._Davis http://dbpedia.org/resource/Ruth_Elizabeth_Davis http://dbpedia.org/resource/Ruth_Elizabeth_""Bette""_Davis"
+2,133,K. Slater,http://dbpedia.org/resource/Jenny_Slate,http://dbpedia.org/resource/Kelly_Slater
+2,134,G. Montgomery,http://dbpedia.org/resource/Robert_Montgomery_(actor),http://dbpedia.org/resource/George_Montgomery_(actor) http://dbpedia.org/resource/George_Montgomery_Letz http://dbpedia.org/resource/George_Letz
+2,137,B. Mason,http://dbpedia.org/resource/Bruce_Mason,http://dbpedia.org/resource/Bill_Mason
+2,142,B. Davis,http://dbpedia.org/resource/Beryl_Davis,"http://dbpedia.org/resource/Bettie_Davis http://dbpedia.org/resource/Davis,_Bette http://dbpedia.org/resource/Bette_Davis http://dbpedia.org/resource/Arthur_Farnsworth. http://dbpedia.org/resource/Bette_Davies http://dbpedia.org/resource/Harmon_Nelson http://dbpedia.org/resource/Arthur_Farnsworth_(Bette_Davis'_husband) http://dbpedia.org/resource/Ruth_E._Davis http://dbpedia.org/resource/Ruth_Elizabeth_Davis http://dbpedia.org/resource/Ruth_Elizabeth_""Bette""_Davis"
+2,145,R. Crane,http://dbpedia.org/resource/David_Crane_(producer),http://dbpedia.org/resource/Richard_Crane_(actor)
+2,146,K. Harrison,http://dbpedia.org/resource/Kathryn_Harrison,http://dbpedia.org/resource/Kathleen_Harrison
+2,150,K. Ja-ok,http://dbpedia.org/resource/Peter_the_Great,http://dbpedia.org/resource/Kim_Ja_Ok http://dbpedia.org/resource/Kim_Ja-ok
+2,152,J. Abraham,http://dbpedia.org/resource/John_Abraham,http://dbpedia.org/resource/John_Abraham_(actor) http://dbpedia.org/resource/John_Abraham_(indian_actor_model) http://dbpedia.org/resource/J.A._Entertainment http://dbpedia.org/resource/John_Abraham(actor) http://dbpedia.org/resource/List_of_awards_and_nominations_received_by_John_Abraham http://dbpedia.org/resource/List_of_John_Abraham_awards_and_nominations http://dbpedia.org/resource/List_of_John_Abraham's_awards_and_nominations http://dbpedia.org/resource/List_of_accolades_received_by_John_Abraham
+2,156,L. Tarbuck,http://dbpedia.org/resource/Barbara_Tarbuck,http://dbpedia.org/resource/Lisa_Tarbuck http://dbpedia.org/resource/Liza_Tarbuck
+2,159,W. Hauser,http://dbpedia.org/resource/Walter_Hauser,http://dbpedia.org/resource/Wings_Hauser
+2,160,B. Williams,http://dbpedia.org/resource/Bernard_Williams,http://dbpedia.org/resource/Barbara_Williams_(actress)
+2,161,B. Davis,http://dbpedia.org/resource/Beryl_Davis,"http://dbpedia.org/resource/Bettie_Davis http://dbpedia.org/resource/Davis,_Bette http://dbpedia.org/resource/Bette_Davis http://dbpedia.org/resource/Arthur_Farnsworth. http://dbpedia.org/resource/Bette_Davies http://dbpedia.org/resource/Harmon_Nelson http://dbpedia.org/resource/Arthur_Farnsworth_(Bette_Davis'_husband) http://dbpedia.org/resource/Ruth_E._Davis http://dbpedia.org/resource/Ruth_Elizabeth_Davis http://dbpedia.org/resource/Ruth_Elizabeth_""Bette""_Davis"
+2,162,E. Barker,http://dbpedia.org/resource/Ronnie_Barker,http://dbpedia.org/resource/Eric_Barker
+2,164,Yakub,http://dbpedia.org/resource/Jacob,http://dbpedia.org/resource/Yakub_(actor) http://dbpedia.org/resource/Yakub_Khan_Mehboob_Khan
+2,165,L. Carter,http://dbpedia.org/resource/Leslie_Carter,http://dbpedia.org/resource/Lily_Carter
+2,167,V. Muniz,http://dbpedia.org/resource/Frankie_Muniz,http://dbpedia.org/resource/Vik_Muniz
+2,169,W. Connolly,http://dbpedia.org/resource/James_Connolly,http://dbpedia.org/resource/Walter_Connolly
+2,173,A. Langlands,http://dbpedia.org/resource/Robert_Langlands,http://dbpedia.org/resource/Alex_Langlands
+2,176,J. Morrison,http://dbpedia.org/resource/Jim_Morrison,http://dbpedia.org/resource/Jennifer_Morrisson http://dbpedia.org/resource/Alpha_Alert http://dbpedia.org/resource/Jennifer_Morrison http://dbpedia.org/resource/Event_15_(film) http://dbpedia.org/resource/Event_15
+2,177,P. Eenhoorn,http://dbpedia.org/resource/Bas_Eenhoorn,http://dbpedia.org/resource/Paul_Eenhoorn

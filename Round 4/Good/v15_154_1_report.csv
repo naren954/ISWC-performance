@@ -1,0 +1,7 @@
+F1: 0.80769,Precision: 0.80769,Recall: 0.80769,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,6,S. Nowak-Trębacka,http://dbpedia.org/resource/Sebastian_Nowak,http://dbpedia.org/resource/Sylwia_Novak http://dbpedia.org/resource/Sylwia_Nowak-Trebacka http://dbpedia.org/resource/Silwia_Nowak http://dbpedia.org/resource/Sylwia_Nowak http://dbpedia.org/resource/Sylwia_Nowak-Trębacka
+1,13,A. Matveev,"http://ru.dbpedia.org/resource/Матвеев,_Владимир_Михайлович",http://dbpedia.org/resource/Alexander_Matveev http://dbpedia.org/resource/Alexander_matveev http://dbpedia.org/resource/Alexander_Matveyev http://dbpedia.org/resource/Aleksandr_Matveyev_(sculptor)
+1,18,S. Kawahara,http://dbpedia.org/resource/Sei_Kawahara,http://dbpedia.org/resource/Sara_Kawahara http://dbpedia.org/resource/Sarah_Kawahara
+1,22,D. Wilson,http://dbpedia.org/resource/Tracy_Wilson,http://dbpedia.org/resource/David_Wilson_(figure_skating) http://dbpedia.org/resource/David_Wilson_(figure_skater)
+1,25,A. Najarro,http://dbpedia.org/resource/Alexandra_Najarro,http://dbpedia.org/resource/Antonio_Najarro

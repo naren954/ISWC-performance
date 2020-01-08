@@ -1,0 +1,7 @@
+F1: 0.50000,Precision: 0.50000,Recall: 0.50000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,C. Bragdon,http://dbpedia.org/resource/Peter_Bragdon,http://dbpedia.org/resource/Claude_Fayette_Bragdon http://dbpedia.org/resource/Claude_F._Bragdon http://dbpedia.org/resource/Claude_Bragdon
+1,2,O. Brothers,http://dbpedia.org/resource/The_Isley_Brothers,"http://dbpedia.org/resource/The_Olmsted_Brothers http://dbpedia.org/resource/Olmsteds http://dbpedia.org/resource/Olmsted_Brothers http://dbpedia.org/resource/Olmsted,_Olmsted_and_Eliot http://dbpedia.org/resource/Olmsted_Plan http://dbpedia.org/resource/Olmstead_Brothers"
+1,4,L. Bradley,http://dbpedia.org/resource/Luther_Bradley,http://dbpedia.org/resource/Lucas_Bradley
+1,5,C. Shryock,http://dbpedia.org/resource/Richard_Harrison_Shryock,http://dbpedia.org/resource/Cincinnatus_Shryock
+1,10,W. a. Lewis,http://dbpedia.org/resource/W._Arthur_Lewis,http://dbpedia.org/resource/Whidden_&_Lewis http://dbpedia.org/resource/Whidden_and_Lewis

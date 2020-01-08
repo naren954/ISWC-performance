@@ -1,0 +1,6 @@
+F1: 0.95294,Precision: 0.95294,Recall: 0.95294,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,24,Troy,http://dbpedia.org/resource/Troy_Garity,http://dbpedia.org/resource/Troy_(horse)
+2,27,Roberto,http://dbpedia.org/resource/Roberto_Marinho,http://dbpedia.org/resource/Roberto_(horse)
+2,60,Charlottesville,http://dbpedia.org/resource/Charlottesville_(horse),"http://dbpedia.org/resource/Charlottesville http://dbpedia.org/resource/Charlottesville_County,_Virginia http://dbpedia.org/resource/UN/LOCODE:USCHO http://dbpedia.org/resource/Charlotteville,_Virginia http://dbpedia.org/resource/Charlottesville,_VA http://dbpedia.org/resource/C-Ville_Weekly http://dbpedia.org/resource/History_of_Charlottesville,_Virginia http://dbpedia.org/resource/Charlottesville,_Virginia http://dbpedia.org/resource/Charlottesville_County http://dbpedia.org/resource/Charlottesville_city,_Virginia http://dbpedia.org/resource/Charlottesville_Tomorrow http://dbpedia.org/resource/City_of_Charlottesville,_Virginia http://dbpedia.org/resource/Charlottesville_(VA)"
+2,84,Tristan,http://dbpedia.org/resource/Tristan_de_Clermont,http://dbpedia.org/resource/Tristan_(horse)

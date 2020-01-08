@@ -1,0 +1,6 @@
+"F1: 0.63636","Precision: 0.63636","Recall: 0.63636"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"2","1","Sir John Wood, Bt","http://dbpedia.org/resource/Sir_John_Beresford,_1st_Baronet","http://dbpedia.org/resource/Sir_John_Wood,_1st_Baronet http://dbpedia.org/resource/John_Wood_(UK_politician)"
+"2","2","John Phillips Rhodes","http://dbpedia.org/resource/Sir_John_Rhodes,_2nd_Baronet","http://dbpedia.org/resource/John_Phillips_Rhodes"
+"2","3","John Lincoln Tattersall","http://dbpedia.org/resource/J._Lincoln_Tattersall","http://dbpedia.org/resource/John_Lincoln_Tattersall"
+"2","4","Edmund Walter Hanbury Wood","http://dbpedia.org/resource/Edmund_Wood_(British_politician)","http://dbpedia.org/resource/Edmund_Walter_Hanbury_Wood"

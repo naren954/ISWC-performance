@@ -1,0 +1,5 @@
+F1: 0.25000,Precision: 0.25000,Recall: 0.25000,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,2,Ferrari F12 Berlinetta â\u0080¢ BAC Mono,http://dbpedia.org/resource/Ferrari_F355,http://dbpedia.org/resource/F12berlinetta http://dbpedia.org/resource/Ferrari_F60_America http://dbpedia.org/resource/Ferrari_F12tdf http://dbpedia.org/resource/F12_berlinetta http://dbpedia.org/resource/Ferrari_F12_Berlinetta http://dbpedia.org/resource/Ferrari_F12berlinetta http://dbpedia.org/resource/Ferrari_F12
+3,5,Porsche 911 Carrera S â\u0080¢ Lamborghini Aventador Roadster â\u0080¢ Lamborghini Sesto Elemento,http://dbpedia.org/resource/Porsche_997,http://dbpedia.org/resource/Porsche_991.2 http://dbpedia.org/resource/Porsche_991/2 http://dbpedia.org/resource/Porsche_991
+3,6,Jaguar F-Type â\u0080¢ New Routemaster â\u0080¢ Range Rover Sport,http://dbpedia.org/resource/Atomic_bombings_of_Hiroshima_and_Nagasaki,http://dbpedia.org/resource/Jaguar_F-type http://dbpedia.org/resource/Jaguar_F-Type

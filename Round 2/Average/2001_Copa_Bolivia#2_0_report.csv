@@ -1,0 +1,4 @@
+F1: 0.66667,Precision: 0.66667,Recall: 0.66667,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,4,Real Santa Cruz,http://dbpedia.org/resource/Santa_Cruz_Futebol_Clube,http://dbpedia.org/resource/Real_Santa_Cruz
+0,8,Club Callejas,http://dbpedia.org/resource/Club_Calleja,http://dbpedia.org/resource/Club_Callejas

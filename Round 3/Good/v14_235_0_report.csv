@@ -1,0 +1,35 @@
+F1: 0.80588,Precision: 0.80588,Recall: 0.80588,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,5,Whisper Not,http://dbpedia.org/resource/Whisper_Not_(Ella_Fitzgerald_album),http://dbpedia.org/resource/Whisper_Not_(Keith_Jarrett_album)
+0,6,Whisper Not,http://dbpedia.org/resource/Whisper_Not_(Ella_Fitzgerald_album),http://dbpedia.org/resource/Whisper_Not
+0,17,Whiskey Bent and Hell Bound,http://dbpedia.org/resource/Whiskey_Bent_and_Hell_Bound_(song),http://dbpedia.org/resource/Whiskey_Bent_and_Hell_Bound http://dbpedia.org/resource/Whiskey_Bent_and_Hell_Bound_(album)
+0,19,Whiskey,"http://dbpedia.org/resource/Lyin',_Cheatin',_Woman_Chasin',_Honky_Tonkin',_Whiskey_Drinkin'_You",http://dbpedia.org/resource/Whiskey_(song)
+0,27,Whip It!,http://dbpedia.org/resource/Whip_It_(Nicki_Minaj_song),http://dbpedia.org/resource/Whip_It!_(song)
+0,29,Whip-Smart,http://dbpedia.org/resource/Whip-Smart_(song),http://dbpedia.org/resource/Whip-Smart
+0,41,Wherever You Are,http://dbpedia.org/resource/Wherever_You_Are_(Third_Day_album),http://dbpedia.org/resource/Wherever_You_Are_(Sami_Yusuf_album) http://dbpedia.org/resource/Wherever_You_Are_(Sami_Yusuf_Album)
+0,51,Where the Groupies Killed the Blues,http://dbpedia.org/resource/...Where_the_Groupies_Killed_the_Blues,http://dbpedia.org/resource/Where_the_Groupies_Killed_the_Blues
+0,56,Where in the World?,http://dbpedia.org/resource/Where_Were_You_(When_the_World_Stopped_Turning),http://dbpedia.org/resource/Where_in_the_World?_(album)
+0,58,Where Your Road Leads,http://dbpedia.org/resource/Where_Your_Road_Leads_(song),http://dbpedia.org/resource/Where_Your_Road_Leads
+0,64,Where You At,http://dbpedia.org/resource/Where_You_At_(Jennifer_Hudson_song),http://dbpedia.org/resource/Where_You_At
+0,70,Where We Belong,http://dbpedia.org/resource/Where_We_Belong_(Lostprophets_song),http://dbpedia.org/resource/Where_We_Belong_(album) http://dbpedia.org/resource/You_Flew_Away
+0,77,Where It's At,http://dbpedia.org/resource/Where_It's_At_(Beck_song),"http://dbpedia.org/resource/Where_It's_At_(Dustin_Lynch_song) http://dbpedia.org/resource/Where_It's_At_(Yep,_Yep)"
+0,78,Where It's At,http://dbpedia.org/resource/Where_It's_At_(Beck_song),http://dbpedia.org/resource/Where_It's_At http://dbpedia.org/resource/Where's_it_At
+0,80,Where Is the Love,http://dbpedia.org/resource/Let's_Talk_About_Love,http://dbpedia.org/resource/Where_is_the_Love_(Rick_Price_and_Margaret_Urlich_song) http://dbpedia.org/resource/Where_Is_the_Love_(Roberta_Flack_and_Donny_Hathaway_song) http://dbpedia.org/resource/Where_is_the_love http://dbpedia.org/resource/Where_Is_the_Love http://dbpedia.org/resource/Where_is_the_Love
+0,83,Where I Wanna Be,http://dbpedia.org/resource/Where_I_Wanna_Be_(Donell_Jones_song),http://dbpedia.org/resource/Where_I_Wanna_Be_(Donell_Jones_album)
+0,87,Where I Come From,http://dbpedia.org/resource/Where_I_Come_From_(Alan_Jackson_song),http://dbpedia.org/resource/Where_I_Come_From_(album)
+0,89,Where I'm From,"http://dbpedia.org/resource/In_My_Lifetime,_Vol._1",http://dbpedia.org/resource/Where_I'm_From http://dbpedia.org/resource/Where_I'm_From_(song)
+0,102,Where Do We Go from Here?,http://dbpedia.org/resource/Where_Do_We_Go_from_Here_(album),http://dbpedia.org/resource/Where_Do_We_Go_from_Here?_(Vanessa_Williams_song)
+0,108,Where Did We Go Wrong,http://dbpedia.org/resource/Where_Did_I_Go_Wrong,http://dbpedia.org/resource/Where_Did_We_Go_Wrong_(BlackGirl_song)
+0,109,Where Did They Go,http://dbpedia.org/resource/Where_Did_They_Go,http://dbpedia.org/resource/Where_Did_They_Go_(Peggy_Lee_album) http://dbpedia.org/resource/Where_Did_They_Go_(album)
+0,115,Where Are You Now,http://dbpedia.org/resource/Babel_(album),http://dbpedia.org/resource/Where_Are_You_Now_(Clint_Black_song)
+0,118,Where Are You?,http://dbpedia.org/resource/Where_Were_You,http://dbpedia.org/resource/Where_Are_You?_(Frank_Sinatra_album)
+0,124,Where's the Party?,http://dbpedia.org/resource/True_Blue_(Madonna_album),http://dbpedia.org/resource/Where's_the_Party?
+0,125,Where's the Bone,http://dbpedia.org/resource/Where's_the_Love,http://dbpedia.org/resource/Where's_the_Bone http://dbpedia.org/resource/Where's_the_Bone? http://dbpedia.org/resource/Gretzky_Rocks
+0,131,Where's My Daddy?,http://dbpedia.org/resource/Just_like_You_(Keb'_Mo'_album),http://dbpedia.org/resource/Where's_My_Daddy?
+0,135,Whenever You Need Me,http://dbpedia.org/resource/Whenever_You_Need_Me_(T'Pau_song),http://dbpedia.org/resource/Whenever_You_Need_Me_(Infernal_song)
+0,141,When the Wrong One Loves You Right,http://dbpedia.org/resource/When_the_Wrong_One_Loves_You_Right_(album),http://dbpedia.org/resource/When_the_Wrong_One_Loves_You_Right
+0,147,When the Tingle Becomes a Chill,http://dbpedia.org/resource/When_the_Tingle_Becomes_a_Chill_(song),http://dbpedia.org/resource/When_the_Tingle_Becomes_a_Chill
+0,150,When the Sweet Turns Sour,http://dbpedia.org/resource/When_Sweet_Sleep_Returned,http://dbpedia.org/resource/When_the_Sweet_Turns_Sour
+0,151,When the Sun Goes Down,http://dbpedia.org/resource/When_the_Sun_Goes_Down_(Kenny_Chesney_song),http://dbpedia.org/resource/When_the_Sun_Goes_Down_(Kenny_Chesney_album)
+0,152,When the Sun Goes Down,http://dbpedia.org/resource/When_the_Sun_Goes_Down_(Kenny_Chesney_song),http://dbpedia.org/resource/When_the_Sun_Goes_Down_(Arctic_Monkeys_song) http://dbpedia.org/resource/When_The_Sun_Goes_Down_(Scummy)
+0,156,When the Sky Turns Black,,http://dbpedia.org/resource/When_the_Sky_Turns_Black http://dbpedia.org/resource/When_The_Sky_Turns_Black

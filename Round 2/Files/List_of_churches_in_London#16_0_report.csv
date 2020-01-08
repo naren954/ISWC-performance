@@ -1,0 +1,5 @@
+"F1: 0.00000","Precision: 0.00000","Recall: 0.00000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","22","St George","http://dbpedia.org/resource/George_H._W._Bush","http://dbpedia.org/resource/St_George's_Church,_Hanworth"
+"0","31","St Michael and All Angels","http://dbpedia.org/resource/Michael_(archangel)","http://dbpedia.org/resource/St_Michael_and_All_Angels,_Bedford_Park"
+"0","32","St Nicholas","http://dbpedia.org/resource/Saint_Nicholas","http://dbpedia.org/resource/Church_of_St_Nicholas,_Chiswick http://dbpedia.org/resource/St_Nicholas_Church,_Chiswick http://dbpedia.org/resource/St._Nicholas_Church,_Chiswick"

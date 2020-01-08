@@ -1,0 +1,9 @@
+F1: 0.56250,Precision: 0.56250,Recall: 0.56250,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,The Covert Operations,http://dbpedia.org/resource/Command_&_Conquer_(1995_video_game),http://dbpedia.org/resource/Command_&_Conquer_-_The_Covert_Operations
+0,3,Sole Survivor,http://dbpedia.org/resource/Command_&_Conquer_(1995_video_game),http://dbpedia.org/resource/Command_&_Conquer:_Sole_Survivor
+0,4,Command & Conquer 2: Tiberian Sun,http://dbpedia.org/resource/Command_&_Conquer:_Tiberian_Sun,http://dbpedia.org/resource/Command_&_Conquer_2:_Tiberian_Sun
+0,5,Firestorm,http://dbpedia.org/resource/Command_&_Conquer:_Tiberian_Sun,http://dbpedia.org/resource/Command_&_Conquer_Tiberian_Sun:_Firestorm
+0,10,Command & Conquer: Red Alert,http://dbpedia.org/resource/Command_&_Conquer:_Red_Alert_3,http://dbpedia.org/resource/Command_&_Conquer:_Red_Alert
+0,16,Uprising,http://dbpedia.org/resource/Kid_Icarus:_Uprising,http://dbpedia.org/resource/Command_&_Conquer_Red_Alert_3:_Uprising
+0,18,Zero Hour,http://dbpedia.org/resource/Command_&_Conquer:_Generals_–_Zero_Hour,http://dbpedia.org/resource/Command_&_Conquer:_Generals_-_Zero_Hour

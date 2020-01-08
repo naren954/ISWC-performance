@@ -1,0 +1,29 @@
+F1: 0.18182,Precision: 0.18182,Recall: 0.18182,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Montreal,http://dbpedia.org/resource/Montreal,http://sws.geonames.org/8674139/
+0,2,Lisbon,http://dbpedia.org/resource/Portugal,http://sws.geonames.org/6458923/
+0,3,Bilbao,http://dbpedia.org/resource/Bilbao,http://sws.geonames.org/6362368/
+0,4,Yerevan,http://dbpedia.org/resource/Yerevan,http://sws.geonames.org/616052/
+0,5,Yerevan,http://dbpedia.org/resource/Yerevan,http://sws.geonames.org/616051/
+0,6,Montreal,http://dbpedia.org/resource/Montreal,http://sws.geonames.org/6077243/
+0,7,New Mexico,http://dbpedia.org/resource/Mexico,http://sws.geonames.org/5481136/
+0,8,San Francisco,http://dbpedia.org/resource/San_Francisco,http://sws.geonames.org/5391997/
+0,9,San Francisco,http://dbpedia.org/resource/San_Francisco,http://sws.geonames.org/5391959/
+0,10,Los Angeles,http://dbpedia.org/resource/Los_Angeles,http://sws.geonames.org/5368361/
+0,11,California,http://dbpedia.org/resource/California,http://sws.geonames.org/5332921/
+0,12,Pittsburgh,http://dbpedia.org/resource/Pittsburgh,http://sws.geonames.org/5206379/
+0,13,Chicago,http://dbpedia.org/resource/Judy_Chicago,http://sws.geonames.org/4887398/
+0,14,"Washington, D.C.","http://dbpedia.org/resource/Washington,_D.C.",http://sws.geonames.org/4140963/
+0,15,"Washington, D.C.","http://dbpedia.org/resource/Washington,_D.C.",http://sws.geonames.org/4138106/
+0,16,Bilbao,http://dbpedia.org/resource/Bilbao,http://sws.geonames.org/3128026/
+0,17,Brno,http://dbpedia.org/resource/Brno,http://sws.geonames.org/3078610/
+0,18,Bratislava,http://dbpedia.org/resource/Bratislava,http://sws.geonames.org/3060972/
+0,19,Athens,http://dbpedia.org/resource/Athens,http://sws.geonames.org/264371/
+0,20,Aarhus,http://dbpedia.org/resource/Aarhus,http://sws.geonames.org/2624652/
+0,21,Copenhagen,http://dbpedia.org/resource/Copenhagen,http://sws.geonames.org/2618425/
+0,22,Algiers,http://dbpedia.org/resource/Algeria,http://sws.geonames.org/2507480/
+0,23,Lisbon,http://dbpedia.org/resource/Portugal,http://sws.geonames.org/2267057/
+0,24,Christchurch,http://dbpedia.org/resource/Christchurch,http://sws.geonames.org/2192362/
+0,25,Ko Samui,http://dbpedia.org/resource/Samui_ne,http://sws.geonames.org/1606595/
+0,29,Pittsburgh metropolitan area,http://dbpedia.org/resource/Pittsburgh,"http://dbpedia.org/resource/Greater_Pittsburgh http://dbpedia.org/resource/Pittsburgh_Metropolitan_Area http://dbpedia.org/resource/Pittsburgh,_Pennsylvania_metropolitan_statistical_area http://dbpedia.org/resource/Ohio_Valley_(Pennsylvania) http://dbpedia.org/resource/Pittsburgh_MSA http://dbpedia.org/resource/Pittsburgh-New_Castle-Weirton,_PA-OH-WV_Combined_Statistical_Area http://dbpedia.org/resource/Pittsburgh_Metro_Area http://dbpedia.org/resource/Pittsburgh,_Pennsylvania_MSA http://dbpedia.org/resource/Pittsburgh,_Pennsylvania_Metropolitan_Statistical_Area http://dbpedia.org/resource/Pittsburgh,_Pennsylvania_metropolitan_area http://dbpedia.org/resource/Pittsburgh_metropolitan_area http://dbpedia.org/resource/Pittsburgh_metropolitan_statistical_area http://dbpedia.org/resource/Metropolitan_Pittsburgh http://dbpedia.org/resource/Pittsburgh-New_Castle,_PA_CSA http://dbpedia.org/resource/Pittsburgh,_PA_Metropolitan_Area http://dbpedia.org/resource/Ohio_Valley,_Pennsylvania http://dbpedia.org/resource/Pittsburgh,_PA_MSA http://dbpedia.org/resource/Pittsburgh,_PA_metropolitan_statistical_area http://dbpedia.org/resource/Pittsburgh_Metropolitan_Statistical_Area http://dbpedia.org/resource/Pittsburgh,_PA_Metropolitan_Statistical_Area http://dbpedia.org/resource/Pittsburgh-New_Castle-Weirton,_PA-OH-WV_CSA http://dbpedia.org/resource/Pittsburgh,_PA_metropolitan_area http://dbpedia.org/resource/Southwestern_Pennsylvania"
+0,31,New Mexico,http://dbpedia.org/resource/Mexico,"http://dbpedia.org/resource/Climate_of_New_Mexico http://dbpedia.org/resource/Estado_de_Nuevo_Mexico http://dbpedia.org/resource/New_Mexico_(state) http://dbpedia.org/resource/New_Mexico_state_nickname http://dbpedia.org/resource/State_of_NM http://dbpedia.org/resource/47th_State http://dbpedia.org/resource/New_Mexcio http://dbpedia.org/resource/New_Mexico_(U.S._state) http://dbpedia.org/resource/Nuevo_Mejico http://dbpedia.org/resource/Nuevo_Méjico http://dbpedia.org/resource/Forty-Seventh_State http://dbpedia.org/resource/Transport_in_New_Mexico http://dbpedia.org/resource/Nueva_mexico http://dbpedia.org/resource/Culture_of_New_Mexico http://dbpedia.org/resource/US-NM http://dbpedia.org/resource/Education_in_New_Mexico http://dbpedia.org/resource/New_Mexico http://dbpedia.org/resource/New_Mexico,_United_States http://dbpedia.org/resource/Sports_in_New_Mexico http://dbpedia.org/resource/Geography_of_New_Mexico http://dbpedia.org/resource/Demographics_of_New_Mexico http://dbpedia.org/resource/Estado_de_Nuevo_México http://dbpedia.org/resource/Tierra_del_Encanto http://dbpedia.org/resource/New_mexico http://dbpedia.org/resource/Forty-seventh_State http://dbpedia.org/resource/The_Land_of_Enchantment http://dbpedia.org/resource/Religion_in_New_Mexico http://dbpedia.org/resource/State_of_New_Mexico http://dbpedia.org/resource/Politics_of_New_Mexico http://dbpedia.org/resource/NewMexico http://dbpedia.org/resource/Transportation_in_New_Mexico http://dbpedia.org/resource/Insignia_of_the_State_of_New_Mexico"

@@ -1,0 +1,5 @@
+F1: 0.62500,Precision: 0.62500,Recall: 0.62500,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,2,Charles Edward Bennett,http://dbpedia.org/resource/Charles_E._Bennett_(politician),http://dbpedia.org/resource/Charles_E._Bennett_(Congressman) http://dbpedia.org/resource/Charles_Edward_Bennett
+1,3,Robert L. F. Sikes,http://dbpedia.org/resource/Bob_Sikes,http://dbpedia.org/resource/Robert_L.F._Sikes http://dbpedia.org/resource/Robert_L_F_Sikes http://dbpedia.org/resource/Robert_Sikes http://dbpedia.org/resource/Robert_Lee_Fulton_Sikes http://dbpedia.org/resource/Robert_L._F._Sikes http://dbpedia.org/resource/Robert_LF_Sikes
+1,5,"Albert S. Herlong, Jr.",http://dbpedia.org/resource/Al_Gore,"http://dbpedia.org/resource/Albert_S._Herlong,_Jr. http://dbpedia.org/resource/Albert_S._Herlong_Jr. http://dbpedia.org/resource/Albert_Sydney_Herlong http://dbpedia.org/resource/Albert_Herlong,_Jr. http://dbpedia.org/resource/Albert_Herlong http://dbpedia.org/resource/Albert_S._Herlong"

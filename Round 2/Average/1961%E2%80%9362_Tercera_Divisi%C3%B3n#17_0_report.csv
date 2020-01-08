@@ -1,0 +1,4 @@
+F1: 0.60000,Precision: 0.60000,Recall: 0.60000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,Manchego,http://dbpedia.org/resource/Manchego_CF,http://dbpedia.org/resource/CD_Manchego
+0,5,Imperial,http://dbpedia.org/resource/Cobán_Imperial,http://dbpedia.org/resource/Real_Murcia_B http://dbpedia.org/resource/Real_Murcia_Imperial

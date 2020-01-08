@@ -1,0 +1,7 @@
+F1: 0.72222,Precision: 0.72222,Recall: 0.72222,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,1,L. Dahlquist,http://dbpedia.org/resource/Michael_Dahlquist,http://dbpedia.org/resource/Lasse_Dahlquist
+2,6,J. Ashcroft,http://dbpedia.org/resource/Richard_Ashcroft,"http://dbpedia.org/resource/John_Ashcroft http://dbpedia.org/resource/Attorney_General_Ashcroft http://dbpedia.org/resource/Ashcroftism http://dbpedia.org/resource/John_Ashcrof http://dbpedia.org/resource/The_Ashcroft_Group,_LLC http://dbpedia.org/resource/John_D._Ashcroft http://dbpedia.org/resource/John_David_Ashcroft http://dbpedia.org/resource/Ashcroft_Group"
+2,13,B. Merrill,http://de.dbpedia.org/resource/Bob_Merrill_(Jazzmusiker),http://dbpedia.org/resource/Bob_Merrill
+2,14,S. Schwartz,http://de.dbpedia.org/resource/Stefan_Schwartz,http://dbpedia.org/resource/Stephen_Schwartz_(composer)
+2,17,L. Dahlquist,http://dbpedia.org/resource/Michael_Dahlquist,http://dbpedia.org/resource/Lasse_Dahlquist

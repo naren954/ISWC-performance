@@ -1,0 +1,5 @@
+"F1: 0.86364","Precision: 0.86364","Recall: 0.86364"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"2","12","Ciudad de PanamÃ¡, PanamÃ¡","http://dbpedia.org/resource/Panama_City","http://dbpedia.org/resource/Ciudad_de_Panamá"
+"2","22","Miramar, Florida, United States","http://dbpedia.org/resource/Florida","http://dbpedia.org/resource/Miramar,_Florida http://dbpedia.org/resource/UN/LOCODE:USMMR http://dbpedia.org/resource/Miramar_Police_Department_(Florida) http://dbpedia.org/resource/Miramar_(FL) http://dbpedia.org/resource/History_of_Miramar,_Florida http://dbpedia.org/resource/Glades_Middle_School http://dbpedia.org/resource/Miramar,_Fl http://dbpedia.org/resource/Miramar,_FL http://dbpedia.org/resource/Miramar,_Florida_Police_Department"
+"2","41","SÃ£o Paulo, Brazil","http://dbpedia.org/resource/São_Paulo","http://dbpedia.org/resource/São_Paulo,_Brazil"

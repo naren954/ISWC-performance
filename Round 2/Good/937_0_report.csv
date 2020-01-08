@@ -1,0 +1,5 @@
+F1: 0.83333,Precision: 0.83333,Recall: 0.83333,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,A. Campbell,http://dbpedia.org/resource/Alex_Campbell_(ice_hockey),http://dbpedia.org/resource/Soupy_Campbell http://dbpedia.org/resource/Andrew_Campbell_(ice_hockey)
+0,8,A. Deveaux,http://dbpedia.org/resource/André_Deveaux,http://dbpedia.org/resource/Andre_Deveaux
+0,18,Á. Vay,http://dbpedia.org/resource/Fabricio_Vay,http://dbpedia.org/resource/Adam_Vay http://dbpedia.org/resource/Ádám_Vay

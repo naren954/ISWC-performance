@@ -1,0 +1,15 @@
+F1: 0.77193,Precision: 0.77193,Recall: 0.77193,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,Zen,,http://dbpedia.org/resource/Zen_(tv_series) http://dbpedia.org/resource/Zen_(TV_series) http://dbpedia.org/resource/Zen_(BBC_TV_Series)
+0,3,Youngers,http://dbpedia.org/resource/Younger_(TV_series),http://dbpedia.org/resource/Youngers_(TV_series) http://dbpedia.org/resource/Youngers
+0,7,You Wish!,http://dbpedia.org/resource/You_Wish_(TV_series),http://dbpedia.org/resource/You_Wish!_(film)
+0,18,Wuthering Heights,http://dbpedia.org/resource/Wuthering_Heights_(1939_film),http://dbpedia.org/resource/Wuthering_Heights_(1978_television_serial) http://dbpedia.org/resource/Wuthering_Heights_(1978_film) http://dbpedia.org/resource/Wuthering_Heights_(1978_TV_serial)
+0,22,Word of Honor,http://dbpedia.org/resource/Word_of_Honor_(2003_film),http://dbpedia.org/resource/Word_of_Honor_(1981_film)
+0,25,Wonder Woman,http://dbpedia.org/resource/Wonder_Woman_(TV_series),http://dbpedia.org/resource/Wonder_Woman_(1974_film)
+0,30,Witchblade,http://dbpedia.org/resource/Witchblade_(American_TV_series),http://dbpedia.org/resource/Witchblade_(2000_film)
+0,31,Witch Hunt,http://dbpedia.org/resource/Witch_Hunt_(1994_film),http://dbpedia.org/resource/Witch_Hunt_(1999_film) http://dbpedia.org/resource/Witch_Hunt_(TV_film)
+0,35,Whodunnit?,http://dbpedia.org/resource/Whodunnit?_(2013_TV_series),http://dbpedia.org/resource/Whodunnit?_(UK_TV_series)
+0,41,What a Country!,http://dbpedia.org/resource/Wales,http://dbpedia.org/resource/What_a_Country http://dbpedia.org/resource/What_a_Country!
+0,50,Way Out,http://dbpedia.org/resource/Way_Out_(Roxette_song),http://dbpedia.org/resource/Way_Out_(TV_series)
+0,53,War & Peace,http://dbpedia.org/resource/War_and_Peace:_1796–1815,http://dbpedia.org/resource/War_and_Peace_(2016_TV_miniseries) http://dbpedia.org/resource/War_and_Peace_(2016_TV_series) http://dbpedia.org/resource/War_&_Peace_(2016_TV_series) http://dbpedia.org/resource/War_and_Peace_(2015_TV_series)
+0,54,Wanted,http://dbpedia.org/resource/Wanted_(2008_film),http://dbpedia.org/resource/Wanted_(TV_series)

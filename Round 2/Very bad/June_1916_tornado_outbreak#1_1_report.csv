@@ -1,0 +1,5 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,4,Hot Springs area,http://dbpedia.org/resource/Salt_Lake_City,"http://dbpedia.org/resource/History_of_Hot_Springs,_Arkansas http://dbpedia.org/resource/Hot_Springs,_Arkansas http://dbpedia.org/resource/Hot_Springs,_AR_Metropolitan_Statistical_Area http://dbpedia.org/resource/Hot_Springs_(city,_Arkansas) http://dbpedia.org/resource/Hot_Springs,_Arkansas_metropolitan_area http://dbpedia.org/resource/Hot_Springs,_AR http://dbpedia.org/resource/Hot_Springs-Malvern,_AR_Combined_Statistical_Area http://dbpedia.org/resource/UN/LOCODE:USHOT"
+1,12,"Pulaski Heights, Little Rock area","http://dbpedia.org/resource/Little_Rock,_Arkansas","http://dbpedia.org/resource/Pulaski_Heights http://dbpedia.org/resource/Pulaski_Heights,_Little_Rock,_Arkansas http://dbpedia.org/resource/Pulaski_Heights,_Little_Rock"
+1,35,Oak Grove,"http://dbpedia.org/resource/Oak_Grove,_Minnesota","http://dbpedia.org/resource/UN/LOCODE:USOGK http://dbpedia.org/resource/Oak_Grove,_West_Carroll_Parish,_Louisiana"

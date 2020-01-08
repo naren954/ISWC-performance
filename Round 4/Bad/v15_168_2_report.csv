@@ -1,0 +1,18 @@
+F1: 0.40741,Precision: 0.40741,Recall: 0.40741,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,1,N. Gupta,http://dbpedia.org/resource/Sanjay_Gupta,http://dbpedia.org/resource/Neena_Gupta http://dbpedia.org/resource/Neena_gupta http://dbpedia.org/resource/Nina_Gupta
+2,2,H. Miyauchi,http://dbpedia.org/resource/Takayuki_Miyauchi,http://dbpedia.org/resource/Hiroshi_Miyauchi
+2,5,M. Heap,http://dbpedia.org/resource/Imogen_Heap,http://dbpedia.org/resource/Mark_Heap
+2,6,H. Watari,http://dbpedia.org/resource/Tetsuya_Watari,http://dbpedia.org/resource/Hiroshi_Watari
+2,8,J. Willis,http://de.dbpedia.org/resource/Jack_Willis,http://dbpedia.org/resource/Jerome_Willis
+2,9,C. Adler,http://dbpedia.org/resource/Chris_Adler,"http://dbpedia.org/resource/Charles_Adler_(voice_actor) http://dbpedia.org/resource/Charles_Adler_(actor) http://dbpedia.org/resource/Charlie_Adler http://dbpedia.org/resource/Adler,_Charlie http://dbpedia.org/resource/Charles_Adler_(voice_actor"
+2,10,A. Willis,http://dbpedia.org/resource/Bruce_Willis,http://dbpedia.org/resource/Austin_Willis
+2,11,A. Parsons,http://dbpedia.org/resource/Alan_Parsons,http://dbpedia.org/resource/Alibe_Parsons
+2,12,P. Kelly,http://dbpedia.org/resource/Paul_Kelly_(Australian_musician),http://dbpedia.org/resource/Paula_Kelly_(actress/dancer) http://dbpedia.org/resource/Paula_Kelly_(dancer) http://dbpedia.org/resource/Paula_Kelly_(actress)
+2,13,S. Chandran,http://dbpedia.org/resource/Bernard_Chandran,http://dbpedia.org/resource/Sudha_Chandran
+2,14,D. Matthews,http://dbpedia.org/resource/Dave_Matthews,http://dbpedia.org/resource/Dakin_Matthews
+2,20,K. Abad,http://de.dbpedia.org/resource/Esperanza_Abad,"http://dbpedia.org/resource/Abad,_Kaye http://dbpedia.org/resource/Kaye_Abad"
+2,22,S. Chakraborty,http://dbpedia.org/resource/Soham_Chakraborty_(singer),http://dbpedia.org/resource/Lovely_Maitra http://dbpedia.org/resource/Souptik_Chakraborty http://dbpedia.org/resource/Fahim_Mirza http://dbpedia.org/resource/Jol_Nupur
+2,23,S. Thompson,http://dbpedia.org/resource/Richard_Thompson_(musician),http://dbpedia.org/resource/Sophie_Thompson
+2,25,T. Reid,http://dbpedia.org/resource/James_Reid_(actor),http://dbpedia.org/resource/Tim_Reid
+2,27,E. Schulman,http://dbpedia.org/resource/Cathy_Schulman,http://dbpedia.org/resource/Emily_Schulman

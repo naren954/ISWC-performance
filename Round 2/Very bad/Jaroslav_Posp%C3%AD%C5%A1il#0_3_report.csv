@@ -1,0 +1,6 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,1,"BraÅ\u009Fov, Romania",http://dbpedia.org/resource/Bras-Panon,http://dbpedia.org/resource/Braşov_Challenger
+3,2,"Trnava, Slovakia",http://dbpedia.org/resource/Piešťany,http://dbpedia.org/resource/ATP_Challenger_Trophy http://dbpedia.org/resource/STRABAG_Challenger_Open http://dbpedia.org/resource/Arimex_Challenger_Trophy
+3,3,"Tarragona, Spain",http://dbpedia.org/resource/Tarragona,http://dbpedia.org/resource/Open_Tarragona_Costa_Daurada
+3,4,"Meknes, Morocco",http://dbpedia.org/resource/Meknes,http://dbpedia.org/resource/Morocco_Tennis_Tour_–_Meknes

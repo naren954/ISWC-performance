@@ -1,0 +1,4 @@
+F1: 0.71429,Precision: 0.71429,Recall: 0.71429,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,7,Utah Grizzlies,http://dbpedia.org/resource/Utah_Grizzlies_(1995–2005),http://dbpedia.org/resource/Utah_Grizzlies http://dbpedia.org/resource/Utah_Grizzlies_(ECHL) http://dbpedia.org/resource/Utah_Grizzlies(ECHL) http://dbpedia.org/resource/Utah_Grizzlies_roster
+1,10,Bakersfield Condors,http://dbpedia.org/resource/Bakersfield_Condors,http://dbpedia.org/resource/Bakersfield_Condors_(1998–2015)

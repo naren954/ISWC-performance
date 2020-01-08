@@ -1,0 +1,31 @@
+F1: 0.84492,Precision: 0.84492,Recall: 0.84492,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,The Young Ones,http://dbpedia.org/resource/The_Young_Ones_(album),http://dbpedia.org/resource/The_Young_Ones_(song)
+0,7,The World We Know,http://dbpedia.org/resource/The_World_We_Know,http://dbpedia.org/resource/The_World_We_Know_(Stan_Kenton_album)
+0,17,The Wind,http://dbpedia.org/resource/In_the_Wind_(EP),http://dbpedia.org/resource/The_Wind_(Warren_Zevon_album) http://dbpedia.org/resource/Keep_Me_in_Your_Heart
+0,32,The War,http://dbpedia.org/resource/At_War,http://dbpedia.org/resource/The_War_(The_New_Power_Generation_song)
+0,34,The Waiting Game,http://dbpedia.org/resource/Waiting_Game_(album),http://dbpedia.org/resource/The_Waiting_Game_(album)
+0,40,The Voice,http://dbpedia.org/resource/Other_Voices_(The_Doors_album),http://dbpedia.org/resource/The_Voice_(The_Moody_Blues_song)
+0,41,The Voice,http://dbpedia.org/resource/Other_Voices_(The_Doors_album),http://dbpedia.org/resource/The_Voice_(Bobby_McFerrin_album)
+0,42,The Visitors,http://dbpedia.org/resource/The_Visitors_(ABBA_album),http://dbpedia.org/resource/The_Visitors_(ABBA_song) http://dbpedia.org/resource/The_Visitors_(Crackin'_Up) http://dbpedia.org/resource/The_Visitors_(song) http://dbpedia.org/resource/The_Visitors_(ABBA_single)
+0,44,The Visit,http://dbpedia.org/resource/The_Visit_(Loreena_McKennitt_album),http://dbpedia.org/resource/The_Visit! http://dbpedia.org/resource/The_Visit!_(Pat_Martino_album) http://dbpedia.org/resource/The_Visit_(Pat_Martino_album) http://dbpedia.org/resource/Footprints_(Pat_Martino_album)
+0,58,The Union,http://dbpedia.org/resource/The_Union_(The_Union_album),http://dbpedia.org/resource/The_Union_(with_Leon_Russell) http://dbpedia.org/resource/The_Union_(Elton_John_and_Leon_Russell_album)
+0,59,The Unforgiven,http://dbpedia.org/resource/The_Unforgiven_(album),http://dbpedia.org/resource/The_Unforgiven_(song) http://dbpedia.org/resource/The_Unforgiven_II http://dbpedia.org/resource/Unforgiven_II http://dbpedia.org/resource/The_unforgiven_2 http://dbpedia.org/resource/The_Unforgiven_III http://dbpedia.org/resource/The_Unforgiven_(Metallica_song) http://dbpedia.org/resource/Unforgiven_III http://dbpedia.org/resource/The_Unforgiven_3
+0,63,The Ultimate,http://dbpedia.org/resource/Never_Forget_–_The_Ultimate_Collection,http://dbpedia.org/resource/The_Ultimate_(Elvin_Jones_album)
+0,66,The Turning Point,http://dbpedia.org/resource/Tambu_(album),http://dbpedia.org/resource/The_Turning_Point_(John_Mayall_album) http://dbpedia.org/resource/California_(John_Mayall_song) http://dbpedia.org/resource/California_(John_Mayall_Song)
+0,77,The Trio,http://dbpedia.org/resource/4-5-6_Trio,http://dbpedia.org/resource/The_Trio_(Ted_Curson_album)
+0,83,The Times They Are a-Changin',http://dbpedia.org/resource/The_Times_They_Are_a-Changin'_(album),http://dbpedia.org/resource/The_Times_They_Are_a-Changin'_(song) http://dbpedia.org/resource/The_Times_They_Are_A-Changin'_(song)
+0,86,The Time and the Place,http://dbpedia.org/resource/The_Time_and_the_Place_(Art_Farmer_album),http://dbpedia.org/resource/The_Time_and_the_Place_(Jimmy_Heath_album)
+0,88,The Time Is Right,http://dbpedia.org/resource/The_Time_Is_Right,http://dbpedia.org/resource/The_Time_Is_Right_(Woody_Shaw_album)
+0,119,The Stockholm Concert,"http://dbpedia.org/resource/The_Stockholm_Concert,_1966",http://dbpedia.org/resource/The_Stockholm_Concert
+0,129,The Source,http://dbpedia.org/resource/Source_(game_engine),http://dbpedia.org/resource/The_Source_(Dizzy_Gillespie_album)
+0,133,The Sound of Silence,http://dbpedia.org/resource/The_Sound_of_Silence_(album),http://dbpedia.org/resource/El_Ritmo_Del_Silencio http://dbpedia.org/resource/The_Sounds_of_Silence_(song) http://dbpedia.org/resource/Sound_of_Silence http://dbpedia.org/resource/Hello_Darkness_My_old_Friend http://dbpedia.org/resource/The_Sound_of_Silence_(Disturbed_song) http://dbpedia.org/resource/The_Sound_Of_Silence http://dbpedia.org/resource/The_Sounds_of_Silence http://dbpedia.org/resource/The_Sound_of_Silence_(song) http://dbpedia.org/resource/The_Sound_of_Silence http://dbpedia.org/resource/En_ton_av_tystnad http://dbpedia.org/resource/Sound_of_Silence_(song)
+0,145,The Song Remains the Same,http://dbpedia.org/resource/The_Song_Remains_the_Same_(song),http://dbpedia.org/resource/The_Song_Remains_the_Same_(Soundtrack) http://dbpedia.org/resource/The_Song_Remains_the_Same_-_soundtrack http://dbpedia.org/resource/The_Song_Remains_The_Same_(Soundtrack) http://dbpedia.org/resource/Led_Zeppelin/The_Song_Remains_the_Same_-_soundtrack http://dbpedia.org/resource/The_Song_Remains_the_Same_(album)
+0,146,The Song Is You,http://dbpedia.org/resource/The_Song_Is_You_(Stan_Getz_album),http://dbpedia.org/resource/The_Song_Is_You_(album)
+0,151,The Solo Album,http://dbpedia.org/resource/Nessuno_è_solo,http://dbpedia.org/resource/The_Solo_Album
+0,155,The Smile Sessions,http://dbpedia.org/resource/Smile_(The_Beach_Boys_album),http://dbpedia.org/resource/The_Smile_Sessions http://dbpedia.org/resource/The_SMiLE_Sessions http://dbpedia.org/resource/Smile_Sessions http://dbpedia.org/resource/Smile_(Beach_Boys/Brian_Wilson_project) http://dbpedia.org/resource/I_Don't_Know_(The_Beach_Boys_song)
+0,163,The Singer,http://dbpedia.org/resource/The_Singer_(Liza_Minnelli_album),http://dbpedia.org/resource/The_Singer_(Diamanda_Galás_album) http://dbpedia.org/resource/The_Singer_(Diamanda_Galas_album)
+0,175,The Sheriff,http://dbpedia.org/resource/I_Shot_the_Sheriff,http://dbpedia.org/resource/The_Sheriff_(album)
+0,177,The Shadow of Your Smile,http://dbpedia.org/resource/The_Shadow_of_Your_Smile_(Astrud_Gilberto_album),http://dbpedia.org/resource/The_Shadow_of_Your_Smile_(Johnny_Mathis_album) http://dbpedia.org/resource/The_Shadow_Of_Your_Smile_(Johnny_Mathis_album)
+0,178,The Sermon!,http://dbpedia.org/resource/The_Sermon_(Jimmy_Smith_album),http://dbpedia.org/resource/The_Sermon!
+0,179,The Senior,http://dbpedia.org/resource/Senior_(album),http://dbpedia.org/resource/The_Senior

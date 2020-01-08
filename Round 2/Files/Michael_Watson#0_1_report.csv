@@ -1,0 +1,4 @@
+"F1: 0.71429","Precision: 0.71429","Recall: 0.71429"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","23","James Cook","http://dbpedia.org/resource/James_Cook","http://dbpedia.org/resource/James_Cook_(boxer) http://dbpedia.org/resource/James_Cook_(boxer_and_community_worker) http://dbpedia.org/resource/James_Cook_(Boxer_and_community_worker)"
+"1","28","Dennis Sheehan","http://dbpedia.org/resource/Josh_Sheehan","http://dbpedia.org/resource/U2 http://dbpedia.org/resource/U2_(music) http://dbpedia.org/resource/Dennis_Sheehan http://dbpedia.org/resource/Flowering_Rose_of_Glastonbury http://dbpedia.org/resource/Songs_of_Experience_(U2_album) http://dbpedia.org/resource/U2_band http://dbpedia.org/resource/U2_(band) http://dbpedia.org/resource/You_2 http://dbpedia.org/resource/U2_Lyrics http://dbpedia.org/resource/Flowering_rose_of_glastonbury http://dbpedia.org/resource/U2.com"

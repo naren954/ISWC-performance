@@ -1,0 +1,11 @@
+F1: 0.78049,Precision: 0.78049,Recall: 0.78049,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,2,Charles Grosvenor,"http://dbpedia.org/resource/Richard_Grosvenor,_1st_Earl_Grosvenor","http://dbpedia.org/resource/Charles_Grosvenor http://dbpedia.org/resource/Grosvenor,_Charles"
+3,3,Michael Jaffe,http://dbpedia.org/resource/Michael_Jaffé,http://dbpedia.org/resource/Michael_Jaffe
+3,4,Russell Barnes,http://dbpedia.org/resource/Kirsten_Barnes,http://dbpedia.org/resource/Russell_Barnes
+3,11,Lloyd J. Schwartz,http://dbpedia.org/resource/Jacob_T._Schwartz,http://dbpedia.org/resource/Lloyd_j_schwartz http://dbpedia.org/resource/Lloyd_J._Schwartz
+3,20,Don R. Christensen,http://dbpedia.org/resource/L._Royal_Christensen,http://dbpedia.org/resource/Don_R._Christensen
+3,30,James MacTaggart,,http://dbpedia.org/resource/James_MacTaggart http://dbpedia.org/resource/MacTaggart_Memorial_Lecturer
+3,33,John Semper,http://dbpedia.org/resource/Gottfried_Semper,"http://dbpedia.org/resource/John_Semper http://dbpedia.org/resource/John_Semper_Jr http://dbpedia.org/resource/John_Semper,_Jr. http://dbpedia.org/resource/John_Semper_Jr."
+3,35,Prabhu Nepal,http://dbpedia.org/resource/Prabhu_Deva,http://dbpedia.org/resource/Prabhu_Nepal http://dbpedia.org/resource/Prabhu_nepal
+3,40,Salvador Mejía Alejandre,http://dbpedia.org/resource/Salvador_Mejía,http://dbpedia.org/resource/Salvador_Mejía_Alejandre http://dbpedia.org/resource/Salvador_Mejia_Alejandre http://dbpedia.org/resource/Salvador_Mejía_Alexandre

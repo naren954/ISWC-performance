@@ -1,0 +1,4 @@
+"F1: 0.60000","Precision: 0.60000","Recall: 0.60000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","1","Life","http://dbpedia.org/resource/Life_(Toše_Proeski_song)","http://dbpedia.org/resource/Life_(Mika_Nakashima_song)"
+"1","5","Orion","http://dbpedia.org/resource/Orion_(Girl_Next_Door_song)","http://dbpedia.org/resource/Orion_(Mika_Nakashima) http://dbpedia.org/resource/Orion_(Mika_Nakashima_song)"

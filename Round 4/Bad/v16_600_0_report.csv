@@ -1,0 +1,26 @@
+F1: 0.40000,Precision: 0.40000,Recall: 0.40000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,French destroyer Maillé Brézé,http://dbpedia.org/resource/French_destroyer_Maillé-Brézé_(D627),http://dbpedia.org/resource/French_destroyer_Maillé_Brézé_(1933) http://dbpedia.org/resource/French_destroyer_Maillé_Brézé_(1931) http://dbpedia.org/resource/French_destroyer_Maille_Breze_(1931) http://dbpedia.org/resource/French_destroyer_Maille_Breze_(1933)
+0,3,French destroyer Léopard,http://dbpedia.org/resource/French_destroyer_Panthère,http://dbpedia.org/resource/French_destroyer_Léopard http://dbpedia.org/resource/French_destroyer_Leopard
+0,4,French destroyer Lynx,http://dbpedia.org/resource/French_destroyer_Panthère,http://dbpedia.org/resource/French_destroyer_Lynx
+0,5,French destroyer La Railleuse,http://dbpedia.org/resource/French_destroyer_Trombe,http://dbpedia.org/resource/French_destroyer_La_Railleuse
+0,6,French destroyer L'Alcyon,http://dbpedia.org/resource/French_destroyer_Panthère,http://dbpedia.org/resource/French_destroyer_L'Alcyon
+0,7,French destroyer L'Adroit,http://dbpedia.org/resource/French_destroyer_Panthère,http://dbpedia.org/resource/French_destroyer_L'Adroit
+0,8,French destroyer Léopard,http://dbpedia.org/resource/French_destroyer_Panthère,http://dbpedia.org/resource/French_destroyer_Léopard http://dbpedia.org/resource/French_destroyer_Leopard
+0,10,French destroyer Intrépide,http://dbpedia.org/resource/French_destroyer_Panthère,http://dbpedia.org/resource/French_destroyer_Intrépide
+0,12,French destroyer Foudroyant,http://dbpedia.org/resource/French_destroyer_Panthère,http://dbpedia.org/resource/French_ship_Foudroyant_(1929) http://dbpedia.org/resource/French_destroyer_Foudroyant http://dbpedia.org/resource/French_destroyer_Foudroyant_(44) http://dbpedia.org/resource/French_destroyer_Foudroyant_(1929)
+0,13,French destroyer Forbin,http://dbpedia.org/resource/French_destroyer_Algérien,http://dbpedia.org/resource/French_destroyer_Forbin
+0,16,French destroyer Espingole,http://dbpedia.org/resource/French_destroyer_Panthère,http://dbpedia.org/resource/French_destroyer_Espingole
+0,20,French destroyer Cyclone,http://dbpedia.org/resource/French_destroyer_Panthère,http://dbpedia.org/resource/French_destroyer_Cyclone
+0,21,French destroyer Chacal,http://dbpedia.org/resource/French_destroyer_Panthère,http://dbpedia.org/resource/French_destroyer_Chacal
+0,22,French destroyer Brestois,http://dbpedia.org/resource/French_destroyer_Panthère,http://dbpedia.org/resource/French_destroyer_Brestois
+0,23,French destroyer Boulonnais,http://dbpedia.org/resource/French_destroyer_Panthère,http://dbpedia.org/resource/French_destroyer_Boulonnais
+0,24,French destroyer Bordelais,http://dbpedia.org/resource/French_destroyer_Panthère,http://dbpedia.org/resource/French_destroyer_Bordelais
+0,25,French destroyer Basque,http://dbpedia.org/resource/French_destroyer_Panthère,http://dbpedia.org/resource/French_destroyer_Basque
+0,26,French destroyer Aventurier,http://dbpedia.org/resource/French_destroyer_Panthère,http://dbpedia.org/resource/French_destroyer_Aventurier
+0,29,French cruiser Marseillaise,http://dbpedia.org/resource/French_cruiser_Marseillaise_(1935),http://dbpedia.org/resource/French_cruiser_Marseillaise_(1900)
+0,32,French cruiser Gloire,http://dbpedia.org/resource/French_cruiser_Gloire_(1935),http://dbpedia.org/resource/French_armoured_cruiser_Gloire http://dbpedia.org/resource/French_cruiser_Gloire_(1900) http://dbpedia.org/resource/French_armoured_cruiser_gloire
+0,35,French cruiser Colbert,http://dbpedia.org/resource/French_cruiser_Colbert_(1928),http://dbpedia.org/resource/French_cruiser_Colbert_(C611) http://dbpedia.org/resource/French_cruiser_Colbert http://dbpedia.org/resource/French_cruiser_Colbert_(1956) http://dbpedia.org/resource/Colbert_(C_611)
+0,37,French cruiser Amiral Aube,http://dbpedia.org/resource/French_cruiser_Amiral_Charner,http://dbpedia.org/resource/French_cruiser_Amiral_Aube
+0,39,French battleship Vergniaud,http://dbpedia.org/resource/French_battleship_Lorraine,http://dbpedia.org/resource/French_battleship_Vergniaud http://dbpedia.org/resource/French_battleship_Vergniaud_(1910)
+0,40,French battleship Mirabeau,http://dbpedia.org/resource/French_battleship_République,http://dbpedia.org/resource/French_battleship_Mirabeau http://dbpedia.org/resource/French_battleship_Mirabeau_(1909)

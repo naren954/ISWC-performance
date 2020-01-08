@@ -1,0 +1,7 @@
+F1: 0.75000,Precision: 0.75000,Recall: 0.75000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,Casein kinase 2,"http://dbpedia.org/resource/Casein_kinase_2,_alpha_1",http://dbpedia.org/resource/Protein_kinase_CK2 http://dbpedia.org/resource/Casein_kinase_ii http://dbpedia.org/resource/Casein_kinase_2
+0,4,Carboxypeptidase B,http://dbpedia.org/resource/Carboxypeptidase_B2,http://dbpedia.org/resource/Carboxypeptidase_B http://dbpedia.org/resource/EC_3.4.17.2
+0,8,CAD,http://dbpedia.org/resource/Caspase-activated_DNase,http://dbpedia.org/resource/CAD_(gene)
+0,9,Branched chain aminotransferase,,http://dbpedia.org/resource/Branched-chain-amino-acid:2-oxoglutarate_aminotransferase http://dbpedia.org/resource/Branched-chain-amino-acid_transaminase http://dbpedia.org/resource/EC_2.6.1.42 http://dbpedia.org/resource/Branched_Chain_Aminotransferase http://dbpedia.org/resource/Branched_chain_aminotransferase http://dbpedia.org/resource/Branched-chain_amino_acid_aminotransferase
+0,17,ATP2A2,http://dbpedia.org/resource/ATP2B4,http://dbpedia.org/resource/ATP2A2

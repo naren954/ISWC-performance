@@ -1,0 +1,74 @@
+F1: 0.59777,Precision: 0.59777,Recall: 0.59777,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,7,R. Kapoor,http://dbpedia.org/resource/Rishi_Kapoor,http://dbpedia.org/resource/Raj_Kapoor http://dbpedia.org/resource/Ranbir_Raj_Prithviraj_Kapoor
+1,8,Shanavas,http://dbpedia.org/resource/M._I._Shanavas,http://dbpedia.org/resource/Shanavas_(actor) http://dbpedia.org/resource/Shanavas http://dbpedia.org/resource/Shanavaz http://dbpedia.org/resource/Shanawaz http://dbpedia.org/resource/Shanawas
+1,13,P. C. Jr.,http://dbpedia.org/resource/Paul_Crouch_Jr.,"http://dbpedia.org/resource/Philippe_Cousteau_Jr. http://dbpedia.org/resource/Philippe_Cousteau,_Jr."
+1,14,M. Sellers,http://dbpedia.org/resource/Peter_Sellers,http://dbpedia.org/resource/Michael_Sellers_(actor)
+1,15,K. O'Toole,http://dbpedia.org/resource/Peter_O'Toole,http://dbpedia.org/resource/Kate_O'Toole_(actress)
+1,17,"Peter W. Cookson, Jr.",http://dbpedia.org/resource/Peter_W._Rodino,"http://dbpedia.org/resource/Peter_W._Cookson,_Jr."
+1,20,A. Winchell,http://dbpedia.org/resource/Paul_Winchell,http://dbpedia.org/resource/Regretsy http://dbpedia.org/resource/CF4L http://dbpedia.org/resource/April_Winchell
+1,21,P. R. Jr.,http://dbpedia.org/resource/Paul_Robeson_Jr.,"http://dbpedia.org/resource/Paul_Robeson_Jr http://dbpedia.org/resource/Paul_Robeson,_Jr."
+1,22,M. Newman,http://dbpedia.org/resource/Maria_Newman,http://dbpedia.org/resource/Melissa_Newman
+1,25,D. Troughton,http://dbpedia.org/resource/Sam_Troughton,http://dbpedia.org/resource/David_Troughton
+1,28,R. O'Callaghan,http://dbpedia.org/resource/James_Callaghan,http://dbpedia.org/resource/Richard_O'Callaghan
+1,32,K. Lankesh,http://dbpedia.org/resource/Gauri_Lankesh,http://dbpedia.org/resource/Kavita_Lankesh http://dbpedia.org/resource/Kavitha_Lankesh
+1,35,S. Fries,,http://dbpedia.org/resource/Sherwood_Fries
+1,40,G. Chaplin,http://dbpedia.org/resource/Sydney_Chaplin_(American_actor),http://dbpedia.org/resource/Geraldine_Leigh_Chaplin http://dbpedia.org/resource/Geraldine_Chaplin http://dbpedia.org/resource/Géraldine_Chaplin
+1,43,M. Lear,http://dbpedia.org/resource/Amanda_Lear,http://dbpedia.org/resource/Moya_Lear
+1,47,C. Mitchell,http://dbpedia.org/resource/Cameron_Mitchell_(actor),http://dbpedia.org/resource/Christopher_Mitchell_(actor)
+1,48,I. T. Jr.,http://dbpedia.org/resource/Sammy_Davis_Jr.,"http://dbpedia.org/resource/Irving_Thalberg,_Jr. http://dbpedia.org/resource/Irving_Thalberg_Jr http://dbpedia.org/resource/Irving_Thalberg_Jr."
+1,50,C. Harrison,http://dbpedia.org/resource/Caroline_Harrison,http://dbpedia.org/resource/Cathryn_Harrison
+1,52,J. S. Adams,http://dbpedia.org/resource/John_Quincy_Adams,http://dbpedia.org/resource/Jeb_Stuart_Adams
+1,53,C. Russell,http://dbpedia.org/resource/Catherine_Russell_(singer),http://dbpedia.org/resource/Catherine_Russell_(actress)
+1,54,J. Katzenbach,http://dbpedia.org/resource/Nicholas_Katzenbach,http://dbpedia.org/resource/John_Katzenbach http://dbpedia.org/resource/John_katzenbach
+1,57,M. Khan,http://dbpedia.org/resource/Muhammad_Khan_(Khan_of_Moghulistan),http://dbpedia.org/resource/Mansoor_khan http://dbpedia.org/resource/Mansoor_Khan
+1,60,R. Reagan,http://dbpedia.org/resource/Ronald_Reagan,"http://dbpedia.org/resource/Ronald_Reagan,_Jr. http://dbpedia.org/resource/Ron_Regan_Jr. http://dbpedia.org/resource/Ronald_Reagan_Jr. http://dbpedia.org/resource/Ron_regan http://dbpedia.org/resource/Ron_Regean http://dbpedia.org/resource/Ron_Prescott_Reagan http://dbpedia.org/resource/Ronald_Reagan_Junior http://dbpedia.org/resource/Ron_Reagan http://dbpedia.org/resource/Doria_Palmieri http://dbpedia.org/resource/Ronald_Prescott_Reagan http://dbpedia.org/resource/Ron_regan,_jr. http://dbpedia.org/resource/Ron_Reagan_Jr."
+1,61,A. Babu,http://dbpedia.org/resource/Kalasala_Babu,http://dbpedia.org/resource/Anandababu http://dbpedia.org/resource/Anandhababu http://dbpedia.org/resource/Anand_Babu
+1,63,A. Viswanathan,http://dbpedia.org/resource/M._S._Viswanathan,http://dbpedia.org/resource/Ashoke_Viswanathan
+1,67,A. Ali,http://dbpedia.org/resource/Ali,http://dbpedia.org/resource/Anwar_Ali_(actor)
+1,68,L. Ali,http://dbpedia.org/resource/Ali,http://dbpedia.org/resource/Leila_Ali http://dbpedia.org/resource/Laila_Ali http://dbpedia.org/resource/Layla_Ali
+1,73,L. Kibbee,http://dbpedia.org/resource/Guy_Kibbee,http://dbpedia.org/resource/Lois_Kibbee
+1,76,C. Wallace,http://dbpedia.org/resource/George_Wallace,http://dbpedia.org/resource/Chris_Wallace_(journalist) http://dbpedia.org/resource/Chris_Wallace
+1,78,W. Marshall,http://dbpedia.org/resource/Winston_Marshall,http://dbpedia.org/resource/William_Marshall_(bandleader)
+1,82,L. Flanders,http://dbpedia.org/resource/Philip_the_Bold,http://dbpedia.org/resource/Laura_Flanders
+1,83,M. Ansara,http://dbpedia.org/resource/Michael_Ansara,http://dbpedia.org/resource/Matthew_Michael_Ansara http://dbpedia.org/resource/Matthew_Ansara
+1,85,N. Blanc,http://dbpedia.org/resource/Dominique_Blanc,http://dbpedia.org/resource/Noel_Blanc
+1,86,L. Ali,http://dbpedia.org/resource/Ali,http://dbpedia.org/resource/Lucky_Ali_videography http://dbpedia.org/resource/Lucky_Ali http://dbpedia.org/resource/Maqsood_Mehmood_Ali http://dbpedia.org/resource/Lucky_Ali_Videography
+1,87,X. Żuławski,http://dbpedia.org/resource/Andrzej_Żuławski,http://dbpedia.org/resource/Xawery_Żuławski
+1,91,C. Cork,http://dbpedia.org/resource/John_Cork,"http://dbpedia.org/resource/Contae_Chorcaí http://dbpedia.org/resource/Cork_County http://dbpedia.org/resource/Co_Cork http://dbpedia.org/resource/County_Cork http://dbpedia.org/resource/Corkonian http://dbpedia.org/resource/Corcaigh_(county) http://dbpedia.org/resource/Co._Cork http://dbpedia.org/resource/Contae_Chorcai http://dbpedia.org/resource/Cork_County,_Ireland http://dbpedia.org/resource/County_Cork,_Ireland http://dbpedia.org/resource/History_of_County_Cork http://dbpedia.org/resource/Rebel_County http://dbpedia.org/resource/Rebel_county http://dbpedia.org/resource/County_of_Cork"
+1,94,E. Á. Félix,http://dbpedia.org/resource/Félix_Faure,http://dbpedia.org/resource/Enrique_Álvarez_Félix http://dbpedia.org/resource/Enrique_Alvarez_Felix
+1,95,I. Shaw,http://dbpedia.org/resource/George_Bernard_Shaw,http://dbpedia.org/resource/Ian_Shaw_(actor)
+1,98,P. Gabel,http://dbpedia.org/resource/Martin_Gabel,http://dbpedia.org/resource/Peter_Gabel
+1,101,C. Brando,http://dbpedia.org/resource/Marlon_Brando,http://dbpedia.org/resource/Cheyenne_Brando http://dbpedia.org/resource/Dag_Drollet
+1,104,M. C. Barry,http://dbpedia.org/resource/Edward_Middleton_Barry,http://dbpedia.org/resource/Marion_C_Barry http://dbpedia.org/resource/Marion_C._Barry http://dbpedia.org/resource/Marion_Barry_III http://dbpedia.org/resource/Marion_Christopher_Barry
+1,106,P. Burke,http://dbpedia.org/resource/Tom_Burke_(actor),http://dbpedia.org/resource/Patricia_Burke
+1,116,E. Á. Félix,http://dbpedia.org/resource/Félix_Faure,http://dbpedia.org/resource/Enrique_Álvarez_Félix http://dbpedia.org/resource/Enrique_Alvarez_Felix
+1,118,A. Shabazz,http://dbpedia.org/resource/Ilyasah_Shabazz,http://dbpedia.org/resource/Attallah_Shabazz http://dbpedia.org/resource/Attillah_Shabazz http://dbpedia.org/resource/Atallah_Shabazz
+1,120,Z. Throne,http://dbpedia.org/resource/Charles_Martel_of_Anjou,http://dbpedia.org/resource/Zachary_Throne
+1,121,R. Roddenberry,http://dbpedia.org/resource/Gene_Roddenberry,"http://dbpedia.org/resource/Eugene_Roddenberry_Jr. http://dbpedia.org/resource/Eugene_Roddenberry,_Jr. http://dbpedia.org/resource/Rod_Roddenberry http://dbpedia.org/resource/Eugene_Roddenberry_II http://dbpedia.org/resource/Eugene_Wesley_Roddenberry,_Jr."
+1,124,X. Żuławski,http://dbpedia.org/resource/Andrzej_Żuławski,http://dbpedia.org/resource/Xawery_Żuławski
+1,128,D. A. Jr.,http://dbpedia.org/resource/Barack_Obama,"http://dbpedia.org/resource/Desi_Arnaz_Jr http://dbpedia.org/resource/Desi_Arnez,Jr. http://dbpedia.org/resource/Desi_Arnaz,_Jr http://dbpedia.org/resource/Desiderio_Alberto_Arnaz_IV http://dbpedia.org/resource/Desi_Arnaz,_Jr. http://dbpedia.org/resource/Desi_Arnaz_Jr."
+1,129,E. Scheimer,http://dbpedia.org/resource/Lou_Scheimer,http://dbpedia.org/resource/Erika_Scheimer
+1,130,J. Lewis,http://dbpedia.org/resource/John_Frederick_Lewis,http://dbpedia.org/resource/Judith_Lewis_Gable http://dbpedia.org/resource/Judith_Lewis http://dbpedia.org/resource/Judy_Young http://dbpedia.org/resource/Judy_Lewis http://dbpedia.org/resource/Judy_Lewis_Gable
+1,137,H. Bochner,http://dbpedia.org/resource/Lloyd_Bochner,http://dbpedia.org/resource/Hart_Bochner
+1,138,C. C. Jr.,http://dbpedia.org/resource/Karl_Rudolf_Sohn,"http://dbpedia.org/resource/Charles_Chaplin_Jr. http://dbpedia.org/resource/Charles_S._Chaplin http://dbpedia.org/resource/Charles_Chaplin_jr. http://dbpedia.org/resource/Charles_Chaplin,_Jr. http://dbpedia.org/resource/Charles_chaplin_jr."
+1,139,M. McCartney,http://dbpedia.org/resource/Paul_McCartney,http://dbpedia.org/resource/Mary_McCartney http://dbpedia.org/resource/Mary_Anna_McCartney
+1,141,L. K. Jr.,http://dbpedia.org/resource/Martin_Luther_King_Jr.,"http://dbpedia.org/resource/Lincoln_Kilpatrick,_Jr."
+1,144,C. Harrison,http://dbpedia.org/resource/Caroline_Harrison,http://dbpedia.org/resource/Carey_Harrison
+1,146,S. Flynn,http://dbpedia.org/resource/Errol_Flynn,http://dbpedia.org/resource/Sean_Flynn_(film_actor) http://dbpedia.org/resource/Sean_Leslie_Flynn http://dbpedia.org/resource/Sean_Flynn_(photojournalist) http://dbpedia.org/resource/Sean_Flynn_(born_1941)
+1,148,R. Howard,http://dbpedia.org/resource/Ron_Howard,http://dbpedia.org/resource/Ronald_Howard_(British_actor)
+1,149,L. Crowther,http://dbpedia.org/resource/Samuel_Ajayi_Crowther,http://dbpedia.org/resource/Liz_Crowther http://dbpedia.org/resource/Elizabeth_Crowther
+1,151,M. Penn,http://dbpedia.org/resource/Napoleon,http://dbpedia.org/resource/Michael_Penn http://dbpedia.org/resource/Michael_penn
+1,152,A. McKern,http://dbpedia.org/resource/Leo_McKern,http://dbpedia.org/resource/Abigail_McKern
+1,153,J. Strasberg,http://dbpedia.org/resource/Susan_Strasberg,http://dbpedia.org/resource/John_Strasberg
+1,156,D. Taylor,http://dbpedia.org/resource/Don_Taylor_(American_actor_and_director),http://dbpedia.org/resource/Dwight_Taylor_(writer) http://dbpedia.org/resource/Natalie_Visart
+1,160,A. Ekborg,http://dbpedia.org/resource/Dan_Ekborg,http://dbpedia.org/resource/Anders_Ekborg
+1,161,A. Parks,http://dbpedia.org/resource/Aaron_Parks,http://dbpedia.org/resource/Andrew_Parks
+1,162,C. Crane,http://dbpedia.org/resource/Caprice_Crane,http://dbpedia.org/resource/Cheryl_Crane
+1,164,H. Oshima,http://dbpedia.org/resource/Nagisa_Oshima,http://dbpedia.org/resource/Hanako_Oshima
+1,169,Agun,http://dbpedia.org/resource/Khan_Asifur_Rahman_Agun,http://dbpedia.org/resource/Agun
+1,170,H. Michell,http://dbpedia.org/resource/Keith_Michell,http://dbpedia.org/resource/Helena_Michell
+1,173,J. Standing,http://dbpedia.org/resource/Jack_Standing,"http://dbpedia.org/resource/John_Standing http://dbpedia.org/resource/Sir_John_Leon,_4th_Baronet"
+1,176,P. Gerhard,http://dbpedia.org/resource/Friedrich_Wilhelm_Eduard_Gerhard,http://dbpedia.org/resource/Per_Gerhard
+1,177,H. Carson,http://dbpedia.org/resource/Ben_Carson,http://dbpedia.org/resource/Hunter_Carson
+1,178,F. Director,http://dbpedia.org/resource/F._Richard_Jones,http://dbpedia.org/resource/Film_director http://dbpedia.org/resource/American_film_directors http://dbpedia.org/resource/Choppy_scene http://dbpedia.org/resource/FilmDirectors http://dbpedia.org/resource/Movie_Director http://dbpedia.org/resource/Film_direction http://dbpedia.org/resource/Movie_makers http://dbpedia.org/resource/Film_directing http://dbpedia.org/resource/Film_directors http://dbpedia.org/resource/Movie_directors http://dbpedia.org/resource/Director_(film) http://dbpedia.org/resource/Film_Directors http://dbpedia.org/resource/Movie_directing http://dbpedia.org/resource/Film_Director http://dbpedia.org/resource/Movie_director http://dbpedia.org/resource/Directorial http://dbpedia.org/resource/Movie_direction

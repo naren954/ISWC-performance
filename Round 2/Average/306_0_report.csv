@@ -1,0 +1,9 @@
+F1: 0.72000,Precision: 0.72000,Recall: 0.72000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,1980 New Zealand Grand Prix,http://dbpedia.org/resource/1960_New_Zealand_Grand_Prix,http://dbpedia.org/resource/1980_New_Zealand_Grand_Prix
+0,3,1978 New Zealand Grand Prix,http://dbpedia.org/resource/1958_New_Zealand_Grand_Prix,http://dbpedia.org/resource/1978_New_Zealand_Grand_Prix
+0,13,1968 BRDC International Trophy,http://dbpedia.org/resource/1966_BRDC_International_Trophy,http://dbpedia.org/resource/1968_BRDC_International_Trophy
+0,20,1957 Pau Grand Prix,http://dbpedia.org/resource/1950_Pau_Grand_Prix,http://dbpedia.org/resource/1957_Pau_Grand_Prix
+0,21,1957 New Zealand Grand Prix,http://dbpedia.org/resource/1959_New_Zealand_Grand_Prix,http://dbpedia.org/resource/1957_New_Zealand_Grand_Prix
+0,24,1952 Buenos Aires Grand Prix,http://dbpedia.org/resource/1948_Buenos_Aires_Grand_Prix_(I),http://dbpedia.org/resource/1952_Buenos_Aires_Grand_Prix_(II)
+0,25,1952 Buenos Aires Grand Prix,http://dbpedia.org/resource/1948_Buenos_Aires_Grand_Prix_(I),http://dbpedia.org/resource/1952_Buenos_Aires_Grand_Prix_(I) http://dbpedia.org/resource/1952_Buenos_Aires_Grand_Prix http://dbpedia.org/resource/1952_Buenos_Aires_Grand_Prix_I

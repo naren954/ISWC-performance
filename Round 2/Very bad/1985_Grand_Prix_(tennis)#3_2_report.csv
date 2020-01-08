@@ -1,0 +1,20 @@
+F1: 0.05263,Precision: 0.05263,Recall: 0.05263,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,1,"Ivan Lendl 6â\u0080\u00931, 6â\u0080\u00933, 4â\u0080\u00936, 6â\u0080\u00934",http://dbpedia.org/resource/M1919_Browning_machine_gun,http://dbpedia.org/resource/Ivan_Lendl
+2,2,"Pavel SloÅ¾il TomÃ¡Å¡ Å mÃ­d 6â\u0080\u00932, 6â\u0080\u00933",http://dbpedia.org/resource/2011_Tōhoku_earthquake_and_tsunami,http://dbpedia.org/resource/Pavel_Složil
+2,4,"Johan Kriek Yannick Noah 3â\u0080\u00936, 4â\u0080\u00936, 7â\u0080\u00935, 6â\u0080\u00931, 6â\u0080\u00934",http://dbpedia.org/resource/M1919_Browning_machine_gun,http://dbpedia.org/resource/Johan_Kriek
+2,5,"Joakim NystrÃ¶m 6â\u0080\u00931, 6â\u0080\u00930",http://dbpedia.org/resource/M1919_Browning_machine_gun,http://dbpedia.org/resource/Joakim_Nyström
+2,6,"Mark Edmondson Kim Warwick 4â\u0080\u00936, 7â\u0080\u00935, 7â\u0080\u00935",http://dbpedia.org/resource/Bofors_40_mm_gun,http://dbpedia.org/resource/Mark_Edmondson
+2,7,"Ivan Lendl 7â\u0080\u00936, 6â\u0080\u00934, 6â\u0080\u00931",http://dbpedia.org/resource/M1919_Browning_machine_gun,http://dbpedia.org/resource/Ivan_Lendl
+2,8,"Henri Leconte 6â\u0080\u00934, 6â\u0080\u00934",,http://dbpedia.org/resource/Henri_Leconte
+2,9,"Claudio Panatta Pavel SloÅ¾il 3â\u0080\u00936, 6â\u0080\u00933, 8â\u0080\u00936",,http://dbpedia.org/resource/Claudio_Panatta
+2,10,"Claudio Panatta 6â\u0080\u00932, 1â\u0080\u00936, 7â\u0080\u00936",http://dbpedia.org/resource/M1919_Browning_machine_gun,http://dbpedia.org/resource/Claudio_Panatta
+2,11,"Alejandro GanzÃ¡bal Claudio Panatta 6â\u0080\u00934, 6â\u0080\u00932",http://dbpedia.org/resource/2017_Notre-Dame_de_Paris_attack,http://dbpedia.org/resource/Alejandro_Ganzábal
+2,12,"John McEnroe 7â\u0080\u00936, 7â\u0080\u00936, 6â\u0080\u00932",http://dbpedia.org/resource/Mercury-Atlas_6,"http://dbpedia.org/resource/John_Mcenroe http://dbpedia.org/resource/Johnny_Mac http://dbpedia.org/resource/John_Patrick_McEnroe http://dbpedia.org/resource/John_Patrick_McEnroe,_Jr. http://dbpedia.org/resource/John_McEnroe http://dbpedia.org/resource/John_Macenroe http://dbpedia.org/resource/John_Patrick_McEnroe_Jr. http://dbpedia.org/resource/John_MacEnroe http://dbpedia.org/resource/John_mcenroe http://dbpedia.org/resource/John_McInroe"
+2,13,"Paul Annacone Christo van Rensburg 6â\u0080\u00934, 6â\u0080\u00933",http://dbpedia.org/resource/2007_Rugby_World_Cup,http://dbpedia.org/resource/Paul_Annacone
+2,14,"Horacio de la PeÃ±a 6â\u0080\u00930, 6â\u0080\u00933",http://dbpedia.org/resource/2007_Rugby_World_Cup,http://dbpedia.org/resource/Horacio_de_la_Peña
+2,15,"AndrÃ©s GÃ³mez Cassio Motta 6â\u0080\u00931, 6â\u0080\u00931",http://dbpedia.org/resource/Hwarangdae_station,http://dbpedia.org/resource/Andrés_Gómez
+2,16,"Johan Kriek 4â\u0080\u00936, 6â\u0080\u00934, 6â\u0080\u00933, 6â\u0080\u00932",http://dbpedia.org/resource/M1919_Browning_machine_gun,http://dbpedia.org/resource/Johan_Kriek
+2,17,"Pat Cash John Fitzgerald 7â\u0080\u00936, 6â\u0080\u00937, 7â\u0080\u00936",http://dbpedia.org/resource/M1919_Browning_machine_gun,http://dbpedia.org/resource/Patrick_Cash http://dbpedia.org/resource/Cat_Pash http://dbpedia.org/resource/Pat_Cash
+2,18,"Miloslav MeÄ\u008DÃ­Å\u0099 6â\u0080\u00934, 6â\u0080\u00931, 6â\u0080\u00934",http://dbpedia.org/resource/Messerschmitt_Bf_109,http://dbpedia.org/resource/Miloslav_Mečíř
+2,19,"Hans Gildemeister AndrÃ©s GÃ³mez 6â\u0080\u00934, 6â\u0080\u00933",http://dbpedia.org/resource/Gwangheungchang_station,http://dbpedia.org/resource/Hans_Gildemeister

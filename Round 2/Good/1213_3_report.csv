@@ -1,0 +1,12 @@
+F1: 0.84375,Precision: 0.84375,Recall: 0.84375,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,2,Z. Štefečeková,http://dbpedia.org/resource/Zuzana_Rehák-Štefečeková,http://dbpedia.org/resource/Zuzana_Stefecekova http://dbpedia.org/resource/Zuzana_Štefečeková
+3,12,M. Emmons,http://dbpedia.org/resource/Kateřina_Emmons,http://dbpedia.org/resource/Matthew_Emmons http://dbpedia.org/resource/Matt_Emmons
+3,17,Z. Štefečeková,http://dbpedia.org/resource/Zuzana_Rehák-Štefečeková,http://dbpedia.org/resource/Zuzana_Stefecekova http://dbpedia.org/resource/Zuzana_Štefečeková
+3,27,M. Emmons,http://dbpedia.org/resource/Kateřina_Emmons,http://dbpedia.org/resource/Matthew_Emmons http://dbpedia.org/resource/Matt_Emmons
+3,33,W. Ning,http://dbpedia.org/resource/George_H._W._Bush,http://dbpedia.org/resource/Wei_Ning
+3,35,L. Hyková,,http://dbpedia.org/resource/Lenka_Hykova http://dbpedia.org/resource/Lenka_Hyková http://dbpedia.org/resource/Lenka_Marušková http://dbpedia.org/resource/Lenka_Maruskova
+3,45,L. Jie,http://dbpedia.org/resource/Ling_Jie,http://dbpedia.org/resource/Li_Jie_(rifle_shooter)
+3,48,W. Ning,http://dbpedia.org/resource/George_H._W._Bush,http://dbpedia.org/resource/Wei_Ning
+3,50,L. Hyková,,http://dbpedia.org/resource/Lenka_Hykova http://dbpedia.org/resource/Lenka_Hyková http://dbpedia.org/resource/Lenka_Marušková http://dbpedia.org/resource/Lenka_Maruskova
+3,60,L. Jie,http://dbpedia.org/resource/Ling_Jie,http://dbpedia.org/resource/Li_Jie_(rifle_shooter)

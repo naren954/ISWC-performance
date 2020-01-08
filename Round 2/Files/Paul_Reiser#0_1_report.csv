@@ -1,0 +1,6 @@
+"F1: 0.82609","Precision: 0.82609","Recall: 0.82609"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","3","Odd Jobs","http://dbpedia.org/resource/Odd_Job_(film)","http://dbpedia.org/resource/Odd_Jobs"
+"1","7","Crazy People","http://dbpedia.org/resource/Crazy_People","http://dbpedia.org/resource/Cяazy_People"
+"1","12","Bye Bye Love","http://dbpedia.org/resource/Down_with_Love","http://dbpedia.org/resource/Bye_Bye_Love_(film)"
+"1","25","The Devil and the Deep Blue Sea","http://dbpedia.org/resource/The_Book_of_Love_(film)","http://dbpedia.org/resource/The_Devil_and_the_Deep_Blue_Sea"

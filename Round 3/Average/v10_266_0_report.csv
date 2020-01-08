@@ -1,0 +1,6 @@
+F1: 0.60000,Precision: 0.60000,Recall: 0.60000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,G. Engström,http://dbpedia.org/resource/Christian_Engström,http://dbpedia.org/resource/Gunvor_Engstroem http://dbpedia.org/resource/Gunvor_Engström http://dbpedia.org/resource/Gunvor_Engstrom
+0,3,E. Javier,http://dbpedia.org/resource/Evelio_Javier,http://dbpedia.org/resource/Exequiel_Javier
+0,4,E. Binay,http://dbpedia.org/resource/Jejomar_Binay,http://dbpedia.org/resource/Elenita_Binay
+0,5,E. Ejercito,http://dbpedia.org/resource/Joseph_Estrada,"http://dbpedia.org/resource/George_Estregan,_Jr. http://dbpedia.org/resource/Jorge_Estregan,_Jr. http://dbpedia.org/resource/Emilio_Ramon_Ejercito http://dbpedia.org/resource/George_Estregan_Jr. http://dbpedia.org/resource/E._R._Ejercito http://dbpedia.org/resource/Emilio_Ramon_Ejercito_III http://dbpedia.org/resource/Jorge_Estregan http://dbpedia.org/resource/ER_Ejercito http://dbpedia.org/resource/E.R._Ejercito"

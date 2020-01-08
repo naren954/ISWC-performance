@@ -1,0 +1,4 @@
+F1: 0.91667,Precision: 0.91667,Recall: 0.91667,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,12,Mark Johnson,http://dbpedia.org/resource/Mark_Johnson_(ice_hockey),http://dbpedia.org/resource/Mark_Johnson_(curler)
+2,17,Bruce Korte,http://dbpedia.org/resource/Bruce_Ford_(rower),http://dbpedia.org/resource/Bruce_Korte

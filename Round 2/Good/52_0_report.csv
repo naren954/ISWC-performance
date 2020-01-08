@@ -1,0 +1,27 @@
+F1: 0.81481,Precision: 0.81481,Recall: 0.81481,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,F. Schmidt,http://dbpedia.org/resource/Fred_Schmidt,http://dbpedia.org/resource/Francis_Schmidt
+0,3,F. M. Cayou,http://dbpedia.org/resource/Frank_Cayou,http://dbpedia.org/resource/Francis_M._Cayou
+0,25,F. Laird,http://dbpedia.org/resource/Frank_Laird,http://dbpedia.org/resource/GF_Laird http://dbpedia.org/resource/Green_Laird http://dbpedia.org/resource/Flake_Laird http://dbpedia.org/resource/G._F._Laird http://dbpedia.org/resource/Red_Laird
+0,28,F. Fajardo,http://de.dbpedia.org/resource/Facundo_Fajardo,http://dbpedia.org/resource/Felicisimo_Fajardo
+0,36,F. L. Ferzacca,http://dbpedia.org/resource/Frosty_Ferzacca,http://dbpedia.org/resource/F._L._Ferzacca http://dbpedia.org/resource/F.L._Ferzacca
+0,52,E. Davis,http://dbpedia.org/resource/Ernie_Davis,http://dbpedia.org/resource/Eugene_Davis_(American_football) http://dbpedia.org/resource/Arlie_Davis http://dbpedia.org/resource/Dr._Davis_(coach) http://dbpedia.org/resource/Eugene_Davis_(doctor)
+0,55,E. Chamberlain,http://dbpedia.org/resource/Wilt_Chamberlain,"http://dbpedia.org/resource/Erwin_Chamberlain http://dbpedia.org/resource/Erwin_""Murph""_Chamberlain http://dbpedia.org/resource/Murph_Chamberlain"
+0,62,E. G. Sr.,http://dbpedia.org/resource/George_H._W._Bush,"http://dbpedia.org/resource/Pot_Graves http://dbpedia.org/resource/Ernest_Graves,_Sr. http://dbpedia.org/resource/Ernest_Graves_(college_football_coach)"
+0,69,E. Bauer,http://dbpedia.org/resource/Erhard_Bauer,http://dbpedia.org/resource/Emory_Bauer
+0,74,E. Brown,http://dbpedia.org/resource/Ernest_Brown_(coach),http://dbpedia.org/resource/Elwood_S._Brown http://dbpedia.org/resource/Elwood_Brown http://dbpedia.org/resource/Elwood_Stanley_Brown
+0,75,E. George,http://dbpedia.org/resource/George_H._W._Bush,http://dbpedia.org/resource/Elvan_George
+0,78,E. Jacobsen,http://dbpedia.org/resource/Elsa_Jacobsen,http://dbpedia.org/resource/Else_Baade http://dbpedia.org/resource/Else_Jacobsen
+0,86,E. Gross,http://dbpedia.org/resource/Emil_Gross,http://dbpedia.org/resource/Elmer_Gross
+0,88,E. Ketchum,http://dbpedia.org/resource/Dan_Ketchum,http://dbpedia.org/resource/Ellison_Ketchum
+0,90,E. Jones,http://dbpedia.org/resource/Edgar_Jones_(running_back),http://dbpedia.org/resource/Elliott_Jones
+0,92,E. H. Sr.,http://dbpedia.org/resource/George_H._W._Bush,"http://dbpedia.org/resource/Ellery_Huntington,_Sr."
+0,95,E. Gould,http://dbpedia.org/resource/David_Gould,http://dbpedia.org/resource/Elgin_R._L._Gould http://dbpedia.org/resource/E._R._L._Gould http://dbpedia.org/resource/Elgin_R.L._Gould http://dbpedia.org/resource/Elgin_Gould
+0,98,E. Sweetland,http://dbpedia.org/resource/George_Sweetland,http://dbpedia.org/resource/E._R._Sweetland http://dbpedia.org/resource/Edwin_R._Sweetland_(football_coach) http://dbpedia.org/resource/Edwin_Sweetland http://dbpedia.org/resource/Edwin_R._Sweetland
+0,100,E. O. Smith,http://dbpedia.org/resource/T._E._Lawrence,http://dbpedia.org/resource/E._O._Smith http://dbpedia.org/resource/E_O_Smith http://dbpedia.org/resource/Edwin_O._Smith http://dbpedia.org/resource/E.O._Smith
+0,109,E. McKeever,http://dbpedia.org/resource/Marlin_McKeever,http://dbpedia.org/resource/Edward_McKeever
+0,111,E. Larkin,http://dbpedia.org/resource/Edward_Larkin,http://dbpedia.org/resource/Edward_Larkin_(American_football)
+0,116,E. A. Dalton,http://dbpedia.org/resource/Andy_Dalton_(rugby_union),http://dbpedia.org/resource/Edward_A._Dalton http://dbpedia.org/resource/E._A._Dalton
+0,119,E. Miller,http://dbpedia.org/resource/Eddie_Miller_(outfielder),http://dbpedia.org/resource/Rip_Miller http://dbpedia.org/resource/Edgar_Miller
+0,120,E. Fauver,http://dbpedia.org/resource/Edward_Fauver,http://dbpedia.org/resource/Edgar_Fauver
+0,135,E. Williamson,http://dbpedia.org/resource/Ernie_Williamson,http://dbpedia.org/resource/Ed_Williamson

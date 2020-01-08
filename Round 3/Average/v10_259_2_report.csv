@@ -1,0 +1,5 @@
+F1: 0.72727,Precision: 0.72727,Recall: 0.72727,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,2,UK hardcore,http://dbpedia.org/resource/Hardcore_punk,http://dbpedia.org/resource/UK_hardcore http://dbpedia.org/resource/Uk_hardcore http://dbpedia.org/resource/UK_Hardcore
+2,6,P-Funk,http://dbpedia.org/resource/G-funk,http://dbpedia.org/resource/P_Funk http://dbpedia.org/resource/Pfunk http://dbpedia.org/resource/P._Funk http://dbpedia.org/resource/P-funk http://dbpedia.org/resource/P_funk http://dbpedia.org/resource/P-Funk
+2,8,Coldwave,http://dbpedia.org/resource/Industrial_metal,http://dbpedia.org/resource/French_coldwave http://dbpedia.org/resource/Cold_wave_(music) http://dbpedia.org/resource/Coldwave_(France) http://dbpedia.org/resource/Coldwave

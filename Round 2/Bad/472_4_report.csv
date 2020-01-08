@@ -1,0 +1,14 @@
+F1: 0.50000,Precision: 0.50000,Recall: 0.50000,,
+Col,Row,Value,Submitted URI,Correct URI's
+4,2,C. Wood,http://dbpedia.org/resource/Carl_Wood,http://dbpedia.org/resource/Charles_Wood_(playwright)
+4,3,R. Lewis,http://dbpedia.org/resource/Richard_Lewis_(comedian),"http://dbpedia.org/resource/Lewis,_Russell http://dbpedia.org/resource/Russell_Lewis"
+4,4,Y. Kobayashi,http://de.dbpedia.org/resource/Yuka_Kobayashi,http://dbpedia.org/resource/小林靖子 http://dbpedia.org/resource/Yasuko_Kobayashi
+4,5,S. Nazir,http://dbpedia.org/resource/Prem_Nazir,http://dbpedia.org/resource/Sarwat_Nazir
+4,6,D. Langdale,http://dbpedia.org/resource/Charles_Langdale,http://dbpedia.org/resource/Doug_Langdale
+4,7,Y. Moore,http://dbpedia.org/resource/Dudley_Moore,http://dbpedia.org/resource/Yan_Moore
+4,11,S. Abbott,http://dbpedia.org/resource/Tony_Abbott,http://dbpedia.org/resource/Scott_Abbott_(screenwriter)
+4,16,W. Butler,http://dbpedia.org/resource/William_Butler_(1759–1821),http://dbpedia.org/resource/William_Butler_(director) http://dbpedia.org/resource/William_Butler_(actor) http://dbpedia.org/resource/William_Butler_(Actor)
+4,17,W. Butler,http://dbpedia.org/resource/William_Butler_(1759–1821),http://dbpedia.org/resource/William_Butler_(director) http://dbpedia.org/resource/William_Butler_(actor) http://dbpedia.org/resource/William_Butler_(Actor)
+4,19,E. Schwartz,http://dbpedia.org/resource/Stephen_Schwartz_(composer),http://dbpedia.org/resource/Elroy_Schwartz
+4,21,I. Pattison,http://dbpedia.org/resource/Séamus_Pattison,http://dbpedia.org/resource/Ian_Pattison
+4,24,J. West,http://dbpedia.org/resource/Jessamyn_West_(writer),http://dbpedia.org/resource/Jake_West

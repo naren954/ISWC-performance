@@ -1,0 +1,8 @@
+"F1: 0.50000","Precision: 0.50000","Recall: 0.50000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","1","What Is Love","http://dbpedia.org/resource/What_Is_Love_(En_Vogue_song)","http://dbpedia.org/resource/What_Is_Love_(Howard_Jones_song)"
+"0","2","What Is Love","http://dbpedia.org/resource/What_Is_Love_(En_Vogue_song)","http://dbpedia.org/resource/What_Is_Love_2016 http://dbpedia.org/resource/What_Is_Love_(Kiesza_song) http://dbpedia.org/resource/What_Is_Love_(Haddaway_song http://dbpedia.org/resource/What_is_love_(haddaway_song) http://dbpedia.org/resource/What_Is_Love http://dbpedia.org/resource/What_Is_Love_(song) http://dbpedia.org/resource/What_is_Love_(Haddaway_song) http://dbpedia.org/resource/What_Is_Love_(Haddaway_song) http://dbpedia.org/resource/What_is_Love_(song) http://dbpedia.org/resource/What_Is_Love_(Song) http://dbpedia.org/resource/What_Is_Love? http://dbpedia.org/resource/What_is_Love"
+"0","4","What Is It","http://dbpedia.org/resource/What_Is_Love","http://dbpedia.org/resource/What_Is_It_(song) http://dbpedia.org/resource/What_Is_It_(Baby_Bash_song) http://dbpedia.org/resource/What_Is_It http://dbpedia.org/resource/What_is_it"
+"0","9","What If","http://dbpedia.org/resource/What_If_(Jason_Derulo_song)","http://dbpedia.org/resource/What_If_(Reba_McEntire_song) http://dbpedia.org/resource/What_If_(Reba_McEntire_Song)"
+"0","11","What If","http://dbpedia.org/resource/What_If_(Jason_Derulo_song)","http://dbpedia.org/resource/What_If_(Creed's_Song) http://dbpedia.org/resource/What_If_(Creed_song)"
+"0","12","What I Want","http://dbpedia.org/resource/What_I_Want_(Dead_or_Alive_song)","http://dbpedia.org/resource/What_I_Want_(Daughtry_song)"

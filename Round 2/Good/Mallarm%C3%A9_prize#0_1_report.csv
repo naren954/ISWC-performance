@@ -1,0 +1,6 @@
+F1: 0.86207,Precision: 0.86207,Recall: 0.86207,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,3,Jean Max Tixier,http://dbpedia.org/resource/Jean-Louis_Tixier-Vignancour,http://dbpedia.org/resource/Jean_Max_Tixier
+1,12,BenoÃ®t Conort,http://dbpedia.org/resource/Beno_Gutenberg,http://dbpedia.org/resource/Benoît_Conort
+1,14,Marie Etienne,http://dbpedia.org/resource/Maria_Theresa,http://dbpedia.org/resource/Marie_Étienne http://dbpedia.org/resource/Marie_Etienne
+1,28,AndrÃ©e ChÃ©did,http://dbpedia.org/resource/Andrée_Chedid,http://dbpedia.org/resource/Andrée_Chédid

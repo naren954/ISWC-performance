@@ -1,0 +1,4 @@
+F1: 0.85714,Precision: 0.85714,Recall: 0.85714,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,8,2014 US Open,http://dbpedia.org/resource/2004_US_Open_(tennis),http://dbpedia.org/resource/2014_US_Open_(tennis)
+0,12,2013 US Open,http://dbpedia.org/resource/2014_US_Open_(tennis),http://dbpedia.org/resource/2013_US_Open_(tennis)

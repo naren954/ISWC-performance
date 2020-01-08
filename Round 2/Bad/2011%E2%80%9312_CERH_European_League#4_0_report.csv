@@ -1,0 +1,4 @@
+F1: 0.50000,Precision: 0.50000,Recall: 0.50000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,HC Coinasa Liceo,http://dbpedia.org/resource/HC_Liceo,http://dbpedia.org/resource/HC_Liceo_La_Coruña
+0,3,FC Porto ImpÃ©rio BonanÃ§a,http://dbpedia.org/resource/FC_Porto,http://dbpedia.org/resource/F.C._Porto_(rink_hockey) http://dbpedia.org/resource/FC_Porto_(rink_hockey) http://dbpedia.org/resource/FC_Porto_(roller_hockey) http://dbpedia.org/resource/F.C._Porto_(roller_hockey)

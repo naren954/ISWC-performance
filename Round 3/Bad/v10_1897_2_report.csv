@@ -1,0 +1,8 @@
+F1: 0.50000,Precision: 0.50000,Recall: 0.50000,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,1,J. Austin,http://dbpedia.org/resource/Jeff_Austin_(tennis),http://dbpedia.org/resource/James_Austin_(photographer)
+2,7,G. Wilson,http://dbpedia.org/resource/Glenn_Wilson_(psychologist),http://dbpedia.org/resource/Gahan_wilson http://dbpedia.org/resource/Gahan_Wilson
+2,9,F. Knight,http://dbpedia.org/resource/Frank_Knight,http://dbpedia.org/resource/Frank_Knight_(artist)
+2,10,P. Slater,http://dbpedia.org/resource/Jenny_Slate,http://dbpedia.org/resource/Peter_Slater
+2,11,R. Jacques,http://dbpedia.org/resource/Rémy_Jacques,http://dbpedia.org/resource/Robin_Jacques
+2,12,M. Whelan,http://dbpedia.org/resource/Jim_Whelan,http://dbpedia.org/resource/Michael_Whelan

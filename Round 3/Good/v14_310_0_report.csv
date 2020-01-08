@@ -1,0 +1,4 @@
+F1: 0.86667,Precision: 0.86667,Recall: 0.86667,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,8,A. Brown,"http://dbpedia.org/resource/Arthur_Brown_(footballer,_born_1858)",http://dbpedia.org/resource/Alan_Brown_(racing_driver)
+0,14,Ó. González,http://dbpedia.org/resource/Óscar_González_Marcos,http://dbpedia.org/resource/Óscar_González_(racing_driver) http://dbpedia.org/resource/Oscar_Gonzalez_(racing_driver) http://dbpedia.org/resource/Oscar_Gonzales_(racing_driver) http://dbpedia.org/resource/Oscar_Gonzáles_(racing_driver)

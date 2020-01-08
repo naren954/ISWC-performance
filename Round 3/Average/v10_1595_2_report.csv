@@ -1,0 +1,18 @@
+F1: 0.72881,Precision: 0.72881,Recall: 0.72881,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,4,What About Now,http://dbpedia.org/resource/What_About_Now_(album),http://dbpedia.org/resource/What_About_Now_(Westlife_cover) http://dbpedia.org/resource/What_About_Now_(Daughtry_song) http://dbpedia.org/resource/What_About_Now_(Westlife_song)
+2,5,Cheapskate,http://dbpedia.org/resource/Cheapskate_(song),http://dbpedia.org/resource/Cheapskate_(You_Ain't_Gettin'_Nada)
+2,11,Girl,http://dbpedia.org/resource/Girl_(Destiny's_Child_song),http://dbpedia.org/resource/Girl_(Why_You_Wanna_Make_Me_Blue)
+2,14,Silhouettes,http://dbpedia.org/resource/Silhouettes_(Avicii_song),http://dbpedia.org/resource/Silhouettes_(song) http://dbpedia.org/resource/Silhouettes_(The_Rays_song)
+2,17,Hero,http://dbpedia.org/resource/Hero_(Enrique_Iglesias_song),http://dbpedia.org/resource/Hero_(Skillet_Song) http://dbpedia.org/resource/Hero_(Skillet_song)
+2,18,Out of the Blue,http://dbpedia.org/resource/Out_of_the_Blue_(Debbie_Gibson_song),http://dbpedia.org/resource/Out_of_the_Blue_(Delta_Goodrem_song) http://dbpedia.org/resource/Out_of_the_Blue_(Delta_Goodrem_Song)
+2,20,Hot Stuff,http://dbpedia.org/resource/Hot_Stuff_(Donna_Summer_song),http://dbpedia.org/resource/Hot_Stuff_(Rolling_Stones_song) http://dbpedia.org/resource/Hot_Stuff_(The_Rolling_Stones_song)
+2,28,Love Her,http://dbpedia.org/resource/I_Love_Her,http://dbpedia.org/resource/Love_Her_(song)
+2,29,I Am What I Am,http://dbpedia.org/resource/I_Am_What_I_Am_(Broadway_musical_song),http://dbpedia.org/resource/I_Am_What_I_Am_(Village_People_song) http://dbpedia.org/resource/Key_West_(song)
+2,30,Lady of the Night,http://dbpedia.org/resource/Marry_the_Night,http://dbpedia.org/resource/Lady_of_the_Night_(album) http://dbpedia.org/resource/Lady_of_the_Night_(song)
+2,35,Get Up,http://dbpedia.org/resource/Get_Up_(Ciara_song),http://dbpedia.org/resource/Get_Up_(R.E.M._song) http://dbpedia.org/resource/Get_Up_(R.E.M_song)
+2,43,Come Together,http://dbpedia.org/resource/Come_Together_(Primal_Scream_song),http://dbpedia.org/resource/Come_Together_(Michael_Jackson_song) http://dbpedia.org/resource/Come_together http://dbpedia.org/resource/Come_Together http://dbpedia.org/resource/Come_Together_(The_Beatles_song)
+2,50,We Made It,http://dbpedia.org/resource/We_Made_You,http://dbpedia.org/resource/We_Made_It_(Busta_Rhymes_song) http://dbpedia.org/resource/We_Made_It_(Busta_Ryhmes_song) http://dbpedia.org/resource/We_Made_It http://dbpedia.org/resource/We_Made_It_(song)
+2,52,"Hello, Goodbye",http://dbpedia.org/resource/Hello_Goodbye_(Tyler_Farr_song),"http://dbpedia.org/resource/Hello_Goodbye http://dbpedia.org/resource/Hello,_Goodbye http://dbpedia.org/resource/Hello,_Goodbye_(The_Beatles_song) http://dbpedia.org/resource/Hello_Goodbye_(Jonas_Brothers_song) http://dbpedia.org/resource/Hello,_goodbye http://dbpedia.org/resource/Hello-goodbye"
+2,55,America,http://dbpedia.org/resource/America_(America_album),http://dbpedia.org/resource/America_(Prince) http://dbpedia.org/resource/America_(Prince_song)
+2,59,Goodbye,http://dbpedia.org/resource/Goodbye_(Spice_Girls_song),http://dbpedia.org/resource/Goodbye_(Sneaky_Sound_System) http://dbpedia.org/resource/Goodbye_(Sneaky_Sound_System_song)

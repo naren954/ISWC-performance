@@ -1,0 +1,16 @@
+F1: 0.89552,Precision: 0.89552,Recall: 0.89552,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,18,G. Constantine,http://dbpedia.org/resource/George_Constantine_(racing_driver),http://dbpedia.org/resource/George_Constantine
+0,32,E. Martin,http://dbpedia.org/resource/Evelyn_Martin_(cricketer),http://dbpedia.org/resource/Eugène_Martin http://dbpedia.org/resource/Eugene_Martin
+0,33,E. Martin,http://dbpedia.org/resource/Evelyn_Martin_(cricketer),http://dbpedia.org/resource/Eugène_Martin http://dbpedia.org/resource/Eugene_Martin
+0,48,E. Johnson,http://dbpedia.org/resource/Ernest_Johnson_(cyclist),http://dbpedia.org/resource/Eddie_Johnson_(racing_driver) http://dbpedia.org/resource/Eddie_Johnson_(auto_racer)
+0,51,D. Carter,http://dbpedia.org/resource/Dan_Carter,http://dbpedia.org/resource/Duane_Carter http://dbpedia.org/resource/Duane_Claude_Carter
+0,56,D. Gibson,http://dbpedia.org/resource/Michael_Gibson_(TV_presenter),http://dbpedia.org/resource/Dickie_Gibson http://dbpedia.org/resource/Dick_Gibson
+0,59,D. Taylor,"http://dbpedia.org/resource/Dave_Taylor_(footballer,_born_1940)",http://dbpedia.org/resource/Dennis_Taylor_(auto_racing) http://dbpedia.org/resource/Dennis_Taylor_(racing_driver)
+0,61,D. Wilson,http://dbpedia.org/resource/Don_Wilson_(cricketer),http://dbpedia.org/resource/Dempsey_Wilson
+0,67,C. Harrison,"http://dbpedia.org/resource/Billy_Harrison_(footballer,_born_1886)",http://dbpedia.org/resource/Cuth_Harrison
+0,69,C. Davis,http://dbpedia.org/resource/Curt_Davis,http://dbpedia.org/resource/Colin_Davis_(auto_racing) http://dbpedia.org/resource/Colin_Davis_(racing_driver) http://dbpedia.org/resource/Colin_Davis_(racecar_driver) http://dbpedia.org/resource/Colin_Davis_(driver)
+0,84,C. Green,http://dbpedia.org/resource/Carl_Green,http://dbpedia.org/resource/Cecil_Green
+0,99,B. Scott,http://dbpedia.org/resource/Brian_Scott,http://dbpedia.org/resource/Bob_Scott_(racind_driver) http://dbpedia.org/resource/Bob_Scott_(racing_driver) http://dbpedia.org/resource/Bob_Scott_(auto_racer)
+0,127,A. Simon,http://dbpedia.org/resource/Sam_Simon,http://dbpedia.org/resource/André_Simon_(racing_driver) http://dbpedia.org/resource/Andre_Simon_(racing_driver)
+0,131,A. Simon,http://dbpedia.org/resource/Sam_Simon,http://dbpedia.org/resource/André_Simon_(racing_driver) http://dbpedia.org/resource/Andre_Simon_(racing_driver)

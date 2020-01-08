@@ -1,0 +1,5 @@
+F1: 0.62500,Precision: 0.62500,Recall: 0.62500,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Philadelphia Quakers,http://dbpedia.org/resource/Union_Quakers_of_Philadelphia,http://dbpedia.org/resource/Philadelphia_Quakers_(AFL)
+0,6,Boston Bulldogs,http://dbpedia.org/resource/Pottsville_Maroons,http://dbpedia.org/resource/Boston_Bulldogs_(AFL)
+0,9,Newark Bears,http://dbpedia.org/resource/Orange/Newark_Tornadoes,http://dbpedia.org/resource/Newark_Demons http://dbpedia.org/resource/Newark_Bears_(AFL)

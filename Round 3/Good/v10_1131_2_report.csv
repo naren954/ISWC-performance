@@ -1,0 +1,14 @@
+F1: 0.76923,Precision: 0.76923,Recall: 0.76923,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,2,Fanny,http://dbpedia.org/resource/Fanny_(band),http://dbpedia.org/resource/Fanny_Be_Tender_with_My_Love http://dbpedia.org/resource/Fanny_(Be_Tender_with_My_Love) http://dbpedia.org/resource/Fanny_(song)
+2,4,Hey Now,http://dbpedia.org/resource/Hey_Now_(Tantric_song),http://dbpedia.org/resource/Hey_Now_(London_Grammar_song)
+2,11,Best of Me,http://dbpedia.org/resource/Best_of_Me_(Ratt_song),http://dbpedia.org/resource/Best_of_Me_(Daniel_Powter_song)
+2,12,Robin,http://dbpedia.org/resource/Robin_Gibb,http://dbpedia.org/resource/Robin_(The_Hooded_Man)
+2,13,To Love Somebody,http://dbpedia.org/resource/Love_Somebody_(Maroon_5_song),http://dbpedia.org/resource/To_Love_Somebody_(Bee_Gees_song) http://dbpedia.org/resource/To_Love_Somebody_(song)
+2,24,So in Love,http://dbpedia.org/resource/So_in_Love_(Jill_Scott_song),http://dbpedia.org/resource/So_in_Love_(OMD_song)
+2,30,At Night,http://dbpedia.org/resource/Fight_Night_(song),http://dbpedia.org/resource/At_Night_(I_Think_About_You)
+2,31,You,http://dbpedia.org/resource/You_(Schiller_and_Colbie_Caillat_song),http://dbpedia.org/resource/You_(Shaznay) http://dbpedia.org/resource/You_(Shaznay_Lewis_song)
+2,35,Trespassing,http://dbpedia.org/resource/Trespassing_(album),http://dbpedia.org/resource/Trespassing_(song)
+2,41,Die Young,http://dbpedia.org/resource/Die_Young_(Kesha_song),http://dbpedia.org/resource/Die_Young_(Black_Sabbath_song)
+2,43,Bottoms Up,http://dbpedia.org/resource/Bottoms_Up_(Brantley_Gilbert_song),http://dbpedia.org/resource/Bottoms_Up_(Trey_Songz_song)
+2,47,I Know You Love Me,http://dbpedia.org/resource/I_Know_You_Want_Me_(Calle_Ocho),http://dbpedia.org/resource/Destination_Failure http://dbpedia.org/resource/I_Know_You_Love_Me_(Smoking_Popes_song)

@@ -1,0 +1,4 @@
+F1: 0.88889,Precision: 0.88889,Recall: 0.88889,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,10,Yes,http://dbpedia.org/resource/Yes_Minister,http://dbpedia.org/resource/Yes_(novel) http://dbpedia.org/resource/Ja_(novel) http://dbpedia.org/resource/Yes_(book)
+0,11,Year's Best Science Fiction Novels: 1952,http://dbpedia.org/resource/Year's_Best_Science_Fiction_Novels:_1953,http://dbpedia.org/resource/Year’s_Best_Science_Fiction_Novels:_1952 http://dbpedia.org/resource/Year's_Best_Science_Fiction_Novels:_1952

@@ -1,0 +1,5 @@
+"F1: 0.66667","Precision: 0.66667","Recall: 0.66667"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","2","Grays United","http://dbpedia.org/resource/Grays_Athletic_F.C.","http://dbpedia.org/resource/Grays_United_F.C."
+"1","4","Shepherds Bush","http://dbpedia.org/resource/Queens_Park_Rangers_F.C.","http://dbpedia.org/resource/Old_St_Stephens_F.C. http://dbpedia.org/resource/Old_St_Stephen's_F.C. http://dbpedia.org/resource/Shepherd's_Bush_FC http://dbpedia.org/resource/Old_St._Stephens_F.C. http://dbpedia.org/resource/Shepherd's_Bush_F_C http://dbpedia.org/resource/Shepherd's_Bush_F._C. http://dbpedia.org/resource/Shepherds_Bush_F.C. http://dbpedia.org/resource/Old_St._Stephen's_F.C. http://dbpedia.org/resource/Shepherd's_Bush_F.C."
+"1","6","Chesham Town","http://dbpedia.org/resource/Chesham_United_F.C.","http://dbpedia.org/resource/Chesham_F.C. http://dbpedia.org/resource/Chesham_Town_F._C. http://dbpedia.org/resource/Chesham_Town_F_C http://dbpedia.org/resource/Chesham_Town_FC http://dbpedia.org/resource/Chesham_Town_F.C."

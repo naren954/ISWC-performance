@@ -1,0 +1,4 @@
+F1: 0.33333,Precision: 0.33333,Recall: 0.33333,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,Quintal,http://dbpedia.org/resource/Hundredweight,http://dbpedia.org/resource/Quintal_(unit_of_mass) http://dbpedia.org/resource/Quantar http://dbpedia.org/resource/Quintal http://dbpedia.org/resource/Quintals http://dbpedia.org/resource/Centner
+0,3,Arroba,http://es.dbpedia.org/resource/Arroba_(unidad_de_volumen),http://dbpedia.org/resource/Arroba

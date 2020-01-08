@@ -1,0 +1,7 @@
+"F1: 0.76190","Precision: 0.76190","Recall: 0.76190"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","3","Michael Jennings","http://dbpedia.org/resource/Michael_Jennings_(American_football)","http://dbpedia.org/resource/Michael_Jennings_(rugby_league)"
+"0","9","Cameron Smith","http://dbpedia.org/resource/Cameron_Smith_(rugby_league,_born_1983)","http://dbpedia.org/resource/Smith,_Cameron http://dbpedia.org/resource/Cameron_Smith http://dbpedia.org/resource/Cameron_Smith_(rugby_league)"
+"0","10","Matthew Scott","http://dbpedia.org/resource/Matthew_Scott_(cricketer)","http://dbpedia.org/resource/Matt_Scott_(rugby_league) http://dbpedia.org/resource/Matthew_Scott_(rugby_league)/old http://dbpedia.org/resource/Matthew_Scott_(rugby_league) http://dbpedia.org/resource/Matthew_Scott_(rugby_league_footballer)"
+"0","15","David Taylor","http://dbpedia.org/resource/David_Taylor_(American_football)","http://dbpedia.org/resource/Dave_Taylor_(rugby_league) http://dbpedia.org/resource/David_Taylor_(rugby_league_footballer) http://dbpedia.org/resource/David_Taylor_(rugby_league) http://dbpedia.org/resource/Dave_Taylor_(rugby_league_footballer)"
+"0","19","Michael Ennis","http://dbpedia.org/resource/Michael_Ennis_(Gaelic_footballer)","http://dbpedia.org/resource/Michael_Ennis"

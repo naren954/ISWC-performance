@@ -1,0 +1,48 @@
+F1: 0.57407,Precision: 0.57407,Recall: 0.57407,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,5,W. Jackson,http://dbpedia.org/resource/William_Jackson_(British_Army_officer),http://dbpedia.org/resource/Wilfred_Jackson
+3,7,B. Edwards,http://dbpedia.org/resource/Bernard_Edwards,"http://dbpedia.org/resource/Blake_Edwards http://dbpedia.org/resource/William_Blake_Crump http://dbpedia.org/resource/William_Blake_McEdwards http://dbpedia.org/resource/Edwards,_Blake http://dbpedia.org/resource/A_Blake_Edwards_Production"
+3,10,R. Thomas,http://dbpedia.org/resource/Robert_Thomas_(director),http://dbpedia.org/resource/Ralf_Thomas http://dbpedia.org/resource/Ralph_Thomas
+3,16,L. Bacon,http://dbpedia.org/resource/Francis_Bacon_(artist),http://dbpedia.org/resource/Lloyd_Bacon
+3,21,S. Toyoda,http://dbpedia.org/resource/Teijirō_Toyoda,http://dbpedia.org/resource/Shiro_Toyoda http://dbpedia.org/resource/Shirô_Toyoda http://dbpedia.org/resource/Shirō_Toyoda
+3,22,P. Pesce,http://dbpedia.org/resource/Giovanni_Pesce,http://dbpedia.org/resource/P._J._Pesce http://dbpedia.org/resource/P.J._Pesce
+3,24,C. Fäh,http://de.dbpedia.org/resource/Adolf_Fäh,http://dbpedia.org/resource/Claudio_Fah http://dbpedia.org/resource/Claudio_Fäh http://dbpedia.org/resource/Claudio_Faeh
+3,25,D. M. Paul,http://dbpedia.org/resource/Martin_Luther,http://dbpedia.org/resource/Don_Michael_Paul
+3,26,D. M. Paul,http://dbpedia.org/resource/Martin_Luther,http://dbpedia.org/resource/Don_Michael_Paul
+3,27,A. Winter,http://dbpedia.org/resource/Terence_Winter,http://dbpedia.org/resource/Alex_Winter http://dbpedia.org/resource/Alex_Winter_(actor)
+3,28,G. Sherman,http://dbpedia.org/resource/Allan_Sherman,http://dbpedia.org/resource/George_Sherman
+3,29,L. King,http://dbpedia.org/resource/William_Lyon_Mackenzie_King,http://dbpedia.org/resource/Louis_King
+3,30,K. G. Hall,http://dbpedia.org/resource/George_G._Hall,http://dbpedia.org/resource/Kenneth_George_Hall http://dbpedia.org/resource/Ken_G._Hall
+3,31,W. Duncan,http://dbpedia.org/resource/Walter_Gordon_Duncan,http://dbpedia.org/resource/William_Duncan_(actor)
+3,32,P. Noyce,http://dbpedia.org/resource/Robert_Noyce,http://dbpedia.org/resource/Phillip_Noyce http://dbpedia.org/resource/Philip_noyce http://dbpedia.org/resource/Philip_Noyce
+3,37,S. Taylor,http://dbpedia.org/resource/Elizabeth_Taylor,http://dbpedia.org/resource/Sam_Taylor_(director) http://dbpedia.org/resource/Samuel_Taylor_(director)
+3,38,G. Douglas,http://dbpedia.org/resource/Gavin_Douglas,http://dbpedia.org/resource/Gordon_M._Douglas http://dbpedia.org/resource/Gordon_Douglas_(director) http://dbpedia.org/resource/Gordon_Douglas_Brickner
+3,40,L. Hillyer,http://dbpedia.org/resource/Louis_Baraguey_d'Hilliers,http://dbpedia.org/resource/Lambert_Hillyer
+3,44,V. Samudra,http://dbpedia.org/resource/Imam_Samudra,http://dbpedia.org/resource/V._Samudra
+3,48,R. Shetty,http://dbpedia.org/resource/Reshma_Shetty,http://dbpedia.org/resource/Rohit_Shetty http://dbpedia.org/resource/Golmaal_Again http://dbpedia.org/resource/Angoor_-_The_Remake http://dbpedia.org/resource/Angoor_–_The_Remake http://dbpedia.org/resource/Angoor_(2013_film) http://dbpedia.org/resource/Rohit_shetty http://dbpedia.org/resource/Ram_Lakhan_(2015_film) http://dbpedia.org/resource/Ram_Lakhan_2 http://dbpedia.org/resource/Ram_Lakhan_(film)
+3,51,T. Johnson,http://dbpedia.org/resource/Tommy_Johnson_(musician),http://dbpedia.org/resource/Tim_Johnson_(film_director)
+3,52,A. Jacobs,http://dbpedia.org/resource/Aletta_Jacobs,http://dbpedia.org/resource/Alan_Jacobs
+3,53,S. Narayan,http://dbpedia.org/resource/Siddharth_(actor),http://dbpedia.org/resource/S_Narayan http://dbpedia.org/resource/S._Narayan http://dbpedia.org/resource/S.Narayan
+3,56,J. K. Wells,http://dbpedia.org/resource/Chandler_J._Wells,http://dbpedia.org/resource/John_K._Wells
+3,60,J. London,http://dbpedia.org/resource/Jack_London,http://dbpedia.org/resource/Jerry_London http://dbpedia.org/resource/Grass_Roots_(TV_movie)
+3,61,H. Wadia,http://dbpedia.org/resource/Neville_Wadia,http://dbpedia.org/resource/Homi_Wadia
+3,62,H. Wadia,http://dbpedia.org/resource/Neville_Wadia,http://dbpedia.org/resource/Homi_Wadia
+3,64,R. Houston,http://dbpedia.org/resource/Whitney_Houston,http://dbpedia.org/resource/Robert_Houston_(actor)
+3,70,D. Birt,http://dbpedia.org/resource/Theodor_Birt,http://dbpedia.org/resource/Daniel_Birt
+3,73,B. Ray,http://dbpedia.org/resource/Bingham_Ray,http://dbpedia.org/resource/Billy_Ray_(screenwriter)
+3,74,H. Mehta,http://dbpedia.org/resource/Hemant_Mehta,http://dbpedia.org/resource/Hansal_Mehta
+3,75,M. Punj,http://dbpedia.org/resource/Arjun_Punj,http://dbpedia.org/resource/Manoj_Punj
+3,77,L. Prasad,http://dbpedia.org/resource/Narendra_Prasad,http://dbpedia.org/resource/L.V._Prasad http://dbpedia.org/resource/LV_Prasad http://dbpedia.org/resource/L._V._Prasad http://dbpedia.org/resource/Akkineni_Lakshmi_Vara_Prasada_Rao http://dbpedia.org/resource/L_V_Prasad
+3,78,J. London,http://dbpedia.org/resource/Jack_London,http://dbpedia.org/resource/Jerry_London http://dbpedia.org/resource/Grass_Roots_(TV_movie)
+3,79,W. McGann,http://dbpedia.org/resource/Paul_McGann,http://dbpedia.org/resource/William_C._McGann http://dbpedia.org/resource/William_McGann
+3,82,E. Killy,http://dbpedia.org/resource/Jean-Claude_Killy,http://dbpedia.org/resource/Edward_Killy
+3,83,R. Barker,http://dbpedia.org/resource/Ronnie_Barker,http://dbpedia.org/resource/Reginald_Barker
+3,84,M. Luke,http://dbpedia.org/resource/Matt_Luke,http://dbpedia.org/resource/Monte_Luke
+3,90,Sasi,http://dbpedia.org/resource/Shashi_Kapoor,http://dbpedia.org/resource/Sasi_(director)
+3,92,R. Donner,http://dbpedia.org/resource/Robert_Donner,"http://dbpedia.org/resource/Richard_D._Donner http://dbpedia.org/resource/Donner,_Richard http://dbpedia.org/resource/Richard_Donner http://dbpedia.org/resource/Richard_Donald_Schwartzberg"
+3,93,H. Toriumi,http://dbpedia.org/resource/Jinzō_Toriumi,http://dbpedia.org/resource/Eiko_Toriumi http://dbpedia.org/resource/Hisayuki_Toriumi
+3,95,D. Zucker,http://dbpedia.org/resource/David_Zucker_(director),http://dbpedia.org/resource/David_Zucker_(filmmaker)
+3,100,R. Arvind,http://dbpedia.org/resource/Arvind_(computer_scientist),http://dbpedia.org/resource/Ramesh_(actor) http://dbpedia.org/resource/Ramesh_Aravind http://dbpedia.org/resource/Ramesh_Arvind
+3,102,D. N. Rao,http://dbpedia.org/resource/Akkineni_Nageswara_Rao,http://dbpedia.org/resource/Greek_Veerudu_(1998_film) http://dbpedia.org/resource/Dr._Dasari_Narayan_Rao http://dbpedia.org/resource/Dasari_narayanrao http://dbpedia.org/resource/Dasari_narayana http://dbpedia.org/resource/Greek_Veerudu http://dbpedia.org/resource/Narayana_Rao_Dasari http://dbpedia.org/resource/Dasari_narayanarao http://dbpedia.org/resource/Dasarinarayanarao http://dbpedia.org/resource/Dasarinarayana http://dbpedia.org/resource/Dasari_rao http://dbpedia.org/resource/Dasari_Narayana_Rao http://dbpedia.org/resource/Dasarirao http://dbpedia.org/resource/Dasari_Narayan_Rao http://dbpedia.org/resource/Greeku_Veerudu_(1998_film) http://dbpedia.org/resource/Dasarinarayana_rao
+3,104,T. Murakawa,http://dbpedia.org/resource/Yasutoshi_Murakawa,http://dbpedia.org/resource/Toru_Murakawa http://dbpedia.org/resource/村川透 http://dbpedia.org/resource/Tōru_Murakawa
+3,106,M. Shiva,http://dbpedia.org/resource/Vandana_Shiva,http://dbpedia.org/resource/Muppalaneni_Siva http://dbpedia.org/resource/Muppalaneni_Shiva

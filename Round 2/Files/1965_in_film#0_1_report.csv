@@ -1,0 +1,8 @@
+"F1: 0.75000","Precision: 0.75000","Recall: 0.75000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","5","That Darn Cat!","http://dbpedia.org/resource/That_Darn_Cat_(1997_film)","http://dbpedia.org/resource/That_Darn_Cat http://dbpedia.org/resource/That_Darn_Cat!_(1965_film) http://dbpedia.org/resource/That_Darn_Cat! http://dbpedia.org/resource/That_Darn_Cat!_(1965_movie)"
+"1","6","The Great Race","nan","http://dbpedia.org/resource/The_Great_Leslie http://dbpedia.org/resource/The_Great_Race http://dbpedia.org/resource/The_great_leslie"
+"1","16","Help!","http://dbpedia.org/resource/Help!_Help!","http://dbpedia.org/resource/Help!_(movie) http://dbpedia.org/resource/Help!_(film)"
+"1","18","Darling","http://dbpedia.org/resource/Oh!_Darling","http://dbpedia.org/resource/Darling_(1965_film)"
+"1","23","The Collector","http://dbpedia.org/resource/The_Collector_(2009_film)","http://dbpedia.org/resource/The_Collector_(1965_film)"
+"1","24","The Train","http://dbpedia.org/resource/1_Train_(song)","http://dbpedia.org/resource/The_Train_(1964_film)"

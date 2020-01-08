@@ -1,0 +1,4 @@
+F1: 0.81818,Precision: 0.81818,Recall: 0.81818,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,"Walter B. Jones, Sr.",http://dbpedia.org/resource/Walter_B._Jones_Jr.,"http://dbpedia.org/resource/Walter_Beaman_Jones,_Sr. http://dbpedia.org/resource/Walter_Jones,_Sr. http://dbpedia.org/resource/Walter_B._Jones,_Sr. http://dbpedia.org/resource/Walter_B._Jones_Sr. http://dbpedia.org/resource/Walter_B._Jones_Sr"
+1,7,Charlie Rose,http://dbpedia.org/resource/Charlie_Rose_(politician),"http://dbpedia.org/resource/Charlie_Rose_(congressman) http://dbpedia.org/resource/Charlies_Rose http://dbpedia.org/resource/Charles_Grandison_Rose,_III"

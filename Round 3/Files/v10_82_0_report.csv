@@ -1,0 +1,7 @@
+"F1: 0.95000","Precision: 0.95000","Recall: 0.95000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","13","W. Jones","http://dbpedia.org/resource/William_Jones_(statesman)","http://dbpedia.org/resource/Walter_Jones_(Virginia_politician) http://dbpedia.org/resource/Walter_Jones_(congressman) http://dbpedia.org/resource/Walter_Jones_(Virginia)"
+"0","17","T. T. Davis","http://dbpedia.org/resource/Thomas_Treadwell_Davis","http://dbpedia.org/resource/Thomas_Terry_Davis"
+"0","40","L. Morse","http://dbpedia.org/resource/Wayne_Morse","http://dbpedia.org/resource/Leopold_Morse"
+"0","67","G. Molina","http://dbpedia.org/resource/Gloria_Molina","http://dbpedia.org/resource/Gerardo_Molina"
+"0","71","G. M. Thomas","http://dbpedia.org/resource/George_M._Thomas_(American_politician)","http://dbpedia.org/resource/George_M_Thomas http://dbpedia.org/resource/George_M._Thomas"

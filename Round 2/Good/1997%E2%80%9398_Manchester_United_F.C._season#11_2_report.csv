@@ -1,0 +1,5 @@
+F1: 0.80000,Precision: 0.80000,Recall: 0.80000,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,14,Andy Duncan,"http://dbpedia.org/resource/Andy_Duncan_(footballer,_born_1911)","http://dbpedia.org/resource/Andy_Duncan_(footballer,_born_1977)"
+2,18,David Brown,"http://dbpedia.org/resource/David_J._Brown_(cricketer,_born_1942)","http://dbpedia.org/resource/David_Brown_(footballer,_born_1978) http://dbpedia.org/resource/David_Brown_(footballer_born_1978)"
+2,20,Ross Millard,http://dbpedia.org/resource/Keith_Millard,http://dbpedia.org/resource/Ross_Millard

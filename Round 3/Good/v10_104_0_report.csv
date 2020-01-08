@@ -1,0 +1,6 @@
+F1: 0.80000,Precision: 0.80000,Recall: 0.80000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,10,B. Walsh,http://dbpedia.org/resource/Brian_Walsh_(ice_hockey),http://dbpedia.org/resource/Billy_Walsh_(curler) http://dbpedia.org/resource/William_J._Walsh_(curler)
+0,13,B. Grant,http://dbpedia.org/resource/Buck_Grant_(ice_hockey),http://dbpedia.org/resource/Bill_Grant_(curler) http://dbpedia.org/resource/William_A._Grant
+0,18,A. Welsh,http://dbpedia.org/resource/Ab_Welsh,http://dbpedia.org/resource/Alex_Welsh_(curler)
+0,19,A. Langlois,http://dbpedia.org/resource/Anabelle_Langlois,http://dbpedia.org/resource/Allan_D._Langlois http://dbpedia.org/resource/Al_Langlois_(curler)

@@ -1,0 +1,7 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Wellington,"http://dbpedia.org/resource/Arthur_Wellesley,_1st_Duke_of_Wellington",http://dbpedia.org/resource/Wellington_rugby_league_team http://dbpedia.org/resource/Wellington_Orcas
+0,2,Northland,http://dbpedia.org/resource/Nordland,http://dbpedia.org/resource/Northern_rugby_league_team http://dbpedia.org/resource/Northern_Swords http://dbpedia.org/resource/Northland_rugby_league_team http://dbpedia.org/resource/Northern_Storm http://dbpedia.org/resource/Northland_Wild_Boars
+0,3,Manawatu,http://dbpedia.org/resource/Manawatu-Wanganui,http://dbpedia.org/resource/Manawatu_rugby_league_team http://dbpedia.org/resource/Central_Falcons http://dbpedia.org/resource/Manawatu_Mustangs
+0,4,Gisborne-East Coast,"http://dbpedia.org/resource/Gisborne,_New_Zealand",http://dbpedia.org/resource/Gisborne_Tairawhiti_rugby_league_team http://dbpedia.org/resource/Gisborne-Tairawhiti_rugby_league_team http://dbpedia.org/resource/Gisborne_East_Coast_Lions http://dbpedia.org/resource/Gisborne_East_Coast_rugby_league_team http://dbpedia.org/resource/Gisborne-East_Coast_rugby_league_team http://dbpedia.org/resource/Gisborne-East_Coast_Lions http://dbpedia.org/resource/Giborne_Tairawhiti_rugby_league_team
+0,5,Coastline,http://dbpedia.org/resource/Norway,http://dbpedia.org/resource/Coastlines_Mariners http://dbpedia.org/resource/Coastlines_rugby_league_team http://dbpedia.org/resource/Coastline_rugby_league_team http://dbpedia.org/resource/Coastline_Mariners

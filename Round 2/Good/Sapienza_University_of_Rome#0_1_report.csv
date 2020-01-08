@@ -1,0 +1,6 @@
+F1: 0.91111,Precision: 0.91111,Recall: 0.91111,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,4,Emilio Gino SegrÃ¨,http://dbpedia.org/resource/Emilio_Segrè,http://dbpedia.org/resource/Emilio_Gino_Segrè
+1,18,Gabriele d'Annunzio,http://dbpedia.org/resource/Gabriele_D'Annunzio,http://dbpedia.org/resource/Gabriele_d'Annunzio
+1,25,Abdirashid Ali Shermarke,http://dbpedia.org/resource/Abdirashid_Shermarke,http://dbpedia.org/resource/Abd_ar-Rasid_'Ali_Sirmake http://dbpedia.org/resource/Abdirashid_Ali_Sharmarke http://dbpedia.org/resource/عبد_الرشيد_علي_شارماركي http://dbpedia.org/resource/Abdirashiid_Ali_Sharmarke http://dbpedia.org/resource/Cabdirashiid_Cali_Sharma'arke http://dbpedia.org/resource/Cabdirashiid_Cali_Sharmaarke http://dbpedia.org/resource/Abdirashid_Ali_Shermarke
+1,39,Marco Abbondanza,http://es.dbpedia.org/resource/Marco_Abbondanza,"http://dbpedia.org/resource/Abbondanza http://dbpedia.org/resource/Marco_Abbondanza http://dbpedia.org/resource/Abbondanza,_Marco"

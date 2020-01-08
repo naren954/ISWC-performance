@@ -1,0 +1,17 @@
+F1: 0.63415,Precision: 0.63415,Recall: 0.63415,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Y. Robert,http://dbpedia.org/resource/Robert_Graves,http://dbpedia.org/resource/Yves_Robert http://dbpedia.org/resource/Yves_Robert_(cineaste) http://dbpedia.org/resource/Yves_Robert_(cinéaste)
+0,2,U. Trivedi,,http://dbpedia.org/resource/Upendra_Trivedi http://dbpedia.org/resource/Upendra_Jethalal_Trivedi
+0,3,T. v. Gogh,http://dbpedia.org/resource/Vincent_van_Gogh,"http://dbpedia.org/resource/Assassination_of_Theo_Van_Gogh http://dbpedia.org/resource/Death_of_Theo_Van_Gogh http://dbpedia.org/resource/Theo_van_Gogh_(film_director) http://dbpedia.org/resource/Theo_van_Gogh_(Film_director) http://dbpedia.org/resource/Theo_Van_Gogh_(film_director) http://dbpedia.org/resource/Theodoor_""Theo""_van_Gogh_II http://dbpedia.org/resource/Theo_van_Gogh_Director http://dbpedia.org/resource/Theodoor_van_Gogh_II http://dbpedia.org/resource/Assassination_of_Theo_van_Gogh"
+0,5,S. Caine,http://dbpedia.org/resource/Michael_Caine,http://dbpedia.org/resource/Stanley_Caine
+0,6,S. Kapoor,http://dbpedia.org/resource/Shashi_Kapoor,http://dbpedia.org/resource/Shammi_Kapoor http://dbpedia.org/resource/Shami_Kapoor
+0,8,R. Howard,http://dbpedia.org/resource/Ron_Howard,http://dbpedia.org/resource/Ronald_Howard_(British_actor)
+0,9,R. Webb,http://dbpedia.org/resource/Roy_Webb,http://dbpedia.org/resource/Rita_Webb
+0,17,M. Schell,http://dbpedia.org/resource/Maria_Schell,http://dbpedia.org/resource/Maximilian_schell http://dbpedia.org/resource/Maximillian_Schell http://dbpedia.org/resource/Maximilian_Schell
+0,22,J. O'Hara,http://dbpedia.org/resource/John_O'Hara,http://dbpedia.org/resource/Joan_O'Hara
+0,25,G. Ekman,http://dbpedia.org/resource/Gösta_Ekman,http://dbpedia.org/resource/Gösta_Ekman_(senior) http://dbpedia.org/resource/Gosta_Eckman_Sr. http://dbpedia.org/resource/Goesta_Ekman_(senior) http://dbpedia.org/resource/Gosta_Ekman_(senior) http://dbpedia.org/resource/Frans_Gösta_Viktor_Ekman
+0,27,G. Ekman,http://dbpedia.org/resource/Gösta_Ekman,http://dbpedia.org/resource/Gösta_Ekman_(senior) http://dbpedia.org/resource/Gosta_Eckman_Sr. http://dbpedia.org/resource/Goesta_Ekman_(senior) http://dbpedia.org/resource/Gosta_Ekman_(senior) http://dbpedia.org/resource/Frans_Gösta_Viktor_Ekman
+0,33,E. Andrews,http://dbpedia.org/resource/Edward_Andrews,http://dbpedia.org/resource/Eamon_Andrews http://dbpedia.org/resource/Eamonn_Andrews
+0,34,D. Singh,http://dbpedia.org/resource/Doodhnath_Singh,http://dbpedia.org/resource/Dara_Singh
+0,35,D. Snow,http://dbpedia.org/resource/Dash_Snow,http://dbpedia.org/resource/Daniel_Snow http://dbpedia.org/resource/Daniel_Robert_Snow http://dbpedia.org/resource/Dan_Snow
+0,37,C. Lee,http://dbpedia.org/resource/Christopher_Lee,http://dbpedia.org/resource/Leonard_Lionel_Cornelius_Canegata http://dbpedia.org/resource/Leonard_Canegata http://dbpedia.org/resource/Canada_Lee

@@ -1,0 +1,5 @@
+"F1: 0.72727","Precision: 0.72727","Recall: 0.72727"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","1","E. Baldwin","http://dbpedia.org/resource/James_Baldwin","http://dbpedia.org/resource/Earl_Baldwin"
+"1","5","E. Baldwin","http://dbpedia.org/resource/James_Baldwin","http://dbpedia.org/resource/Earl_Baldwin"
+"1","11","I. Wallace","http://dbpedia.org/resource/Ian_Wallace_(drummer)","http://dbpedia.org/resource/The_Intimate_Sex_Lives_of_Famous_People http://dbpedia.org/resource/Sylvia_Wallace http://dbpedia.org/resource/Irving_Wallace http://dbpedia.org/resource/The_Wallaces"

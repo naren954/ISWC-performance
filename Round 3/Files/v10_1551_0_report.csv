@@ -1,0 +1,5 @@
+"F1: 0.95714","Precision: 0.95714","Recall: 0.95714"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","1","Sidley, East Sussex","http://dbpedia.org/resource/Camber,_East_Sussex","http://dbpedia.org/resource/Sidley,_East_Sussex http://dbpedia.org/resource/Sidley_(bexhill)"
+"0","46","Hammerwood","http://dbpedia.org/resource/Hartfield","http://dbpedia.org/resource/Hammerwood"
+"0","57","Ewhurst Green","http://dbpedia.org/resource/Ewhurst,_East_Sussex","http://dbpedia.org/resource/St_James_the_Great,_Ewhurst_Green http://dbpedia.org/resource/Church_of_St_James_the_Great,_Ewhurst_Green http://dbpedia.org/resource/Ewhurst_Green"

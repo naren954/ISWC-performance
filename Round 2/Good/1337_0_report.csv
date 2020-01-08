@@ -1,0 +1,16 @@
+F1: 0.80000,Precision: 0.80000,Recall: 0.80000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,7,B. Matsui,http://dbpedia.org/resource/Doris_Matsui,http://dbpedia.org/resource/Robert_T._Matsui http://dbpedia.org/resource/Robert_Takeo_Matsui http://dbpedia.org/resource/Bob_Matsui http://dbpedia.org/resource/Robert_Matsui
+0,8,B. Vela,http://es.dbpedia.org/resource/David_Vela,http://dbpedia.org/resource/Blanca_Vela
+0,12,B. Emerson,http://dbpedia.org/resource/John_B._Emerson,"http://dbpedia.org/resource/Bill_K._Emerson http://dbpedia.org/resource/Norvell_William_""Bill""_Emerson http://dbpedia.org/resource/Bill_Keith_Emerson http://dbpedia.org/resource/Norvell_Emerson http://dbpedia.org/resource/Norvell_W._Emerson http://dbpedia.org/resource/Norvell_William_(Bill)_Emerson http://dbpedia.org/resource/Bill_Emerson http://dbpedia.org/resource/Bill_K_Emerson http://dbpedia.org/resource/Norvell_William_Emerson"
+0,16,B. Chew,http://dbpedia.org/resource/Benjamin_Chew,http://dbpedia.org/resource/Betty_Chew
+0,17,B. Gorton,http://dbpedia.org/resource/John_Gorton,http://dbpedia.org/resource/Bettina_Gorton
+0,19,B. Sévigny,http://dbpedia.org/resource/Pierre_Sévigny,http://dbpedia.org/resource/Bernard_Sévigny http://dbpedia.org/resource/Bernard_Sevigny
+0,23,B. Butler,http://dbpedia.org/resource/Richard_Butler_(Australian_politician),http://dbpedia.org/resource/Benjamin_Butler_(politician) http://dbpedia.org/resource/Benjamin_Franklin_Butler_(politician) http://dbpedia.org/resource/Benjamin_F._Butler_(politician) http://dbpedia.org/resource/Beast_Butler http://dbpedia.org/resource/B.F._Butler
+0,24,B. S. Calvert,http://dbpedia.org/resource/Charles_Benedict_Calvert,http://dbpedia.org/resource/Benedict_Swingate_Calvert
+0,27,B. Storer,"http://dbpedia.org/resource/Bellamy_Storer_(politician,_born_1847)","http://dbpedia.org/resource/Bellamy_Storer_(Jr.) http://dbpedia.org/resource/Bellamy_Storer_(Ohio,_1847–1922) http://dbpedia.org/resource/Bellamy_Storer_(1847-1922) http://dbpedia.org/resource/Bellamy_Storer_(1847–1922) http://dbpedia.org/resource/Bellamy_Storer_(Ohio,_1847-1922) http://dbpedia.org/resource/Bellamy_Storer_(1847)"
+0,42,B. U,http://dbpedia.org/resource/Lyndon_B._Johnson,http://dbpedia.org/resource/Ba_U
+0,49,A. l. Torre,http://dbpedia.org/resource/Augusta_La_Torre,http://dbpedia.org/resource/Augusta_la_torre http://dbpedia.org/resource/Augusta_la_Torre
+0,50,A. Abbott,http://dbpedia.org/resource/Tony_Abbott,http://dbpedia.org/resource/Aubrey_Abbott http://dbpedia.org/resource/Charles_Lydiard_Aubrey_Abbott
+0,58,A. Phillips,http://dbpedia.org/resource/John_Phillips_(geologist),http://dbpedia.org/resource/Arthur_Phillips_(Canadian_politician) http://dbpedia.org/resource/Art_Phillips
+0,70,A. Garotinho,http://pt.dbpedia.org/resource/Clarissa_Garotinho,http://dbpedia.org/resource/Anthony_Matheus_de_Oliveira http://dbpedia.org/resource/Anthony_Garotinho http://dbpedia.org/resource/Anthony_William_Garotinho_Matheus_de_Oliveira http://dbpedia.org/resource/Garotinho

@@ -1,0 +1,8 @@
+F1: 0.71429,Precision: 0.71429,Recall: 0.71429,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,2,Sky Tower,http://dbpedia.org/resource/Sky_Tower_(Abu_Dhabi),http://dbpedia.org/resource/Sky_Tower_(Wrocław)
+1,4,ZÅ\u0082ota 44,http://dbpedia.org/resource/Counties_of_Hungary,http://dbpedia.org/resource/Złota_44
+1,10,Oxford Tower,http://dbpedia.org/resource/Oxford_Tower_(Edmonton),"http://dbpedia.org/resource/Oxford_Tower,_Warsaw http://dbpedia.org/resource/Oxford_Tower_(Warsaw)"
+1,17,BÅ\u0082Ä\u0099kitny WieÅ¼owiec,http://dbpedia.org/resource/Ba_Đồn,http://dbpedia.org/resource/Błękitny_Wieżowiec
+1,18,Millennium Plaza,http://dbpedia.org/resource/Atlas_Tower,http://dbpedia.org/resource/Millenium_Plaza http://dbpedia.org/resource/Millennium_Plaza
+1,25,Cracovia Business Center,http://dbpedia.org/resource/VietinBank_Business_Center_Office_Tower,http://dbpedia.org/resource/Cracovia_Business_Center http://dbpedia.org/resource/K1_(building)

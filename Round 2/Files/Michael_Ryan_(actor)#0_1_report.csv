@@ -1,0 +1,4 @@
+"F1: 0.80000","Precision: 0.80000","Recall: 0.80000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","15","Vendetta","http://dbpedia.org/resource/Star_Wars:_Episode_III_–_Revenge_of_the_Sith","http://dbpedia.org/resource/Vendetta_(2013_film)"
+"1","16","Serena","http://dbpedia.org/resource/Serena_Maneesh_(album)","http://dbpedia.org/resource/Serena_(2014_film) http://dbpedia.org/resource/Serena_(upcoming_film) http://dbpedia.org/resource/Serena_(2014_Film)"

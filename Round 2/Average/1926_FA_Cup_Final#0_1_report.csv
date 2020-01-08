@@ -1,0 +1,4 @@
+F1: 0.60000,Precision: 0.60000,Recall: 0.60000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,Accrington Stanley (h),http://dbpedia.org/resource/Accrington_Stanley_F.C.,http://dbpedia.org/resource/Accrington_Stanley_F.C._(1891) http://dbpedia.org/resource/Accrington_Stanley_FC_(1891) http://dbpedia.org/resource/Accrington_Stanley_F._C._(1891) http://dbpedia.org/resource/Accrington_Stanley_F_C_(1891)
+1,4,South Shields (h),http://dbpedia.org/resource/Gateshead_F.C.,http://dbpedia.org/resource/South_Shields_F.C._(disambiguation) http://dbpedia.org/resource/South_Shields_F.C.

@@ -1,0 +1,6 @@
+F1: 0.96154,Precision: 0.96154,Recall: 0.96154,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,18,M. Imanishi,http://dbpedia.org/resource/Kazuo_Imanishi,http://dbpedia.org/resource/Miharu_Imanishi
+1,22,K. Plíšková,http://dbpedia.org/resource/Karolína_Plíšková,http://dbpedia.org/resource/Kristina_Pliskova http://dbpedia.org/resource/Krystina_Plíšková http://dbpedia.org/resource/Kristyna_Plíšková http://dbpedia.org/resource/Kristýna_Plíšková http://dbpedia.org/resource/Krystina_Pliskova http://dbpedia.org/resource/Kristyna_Pliskova
+1,28,K. Barbat,http://dbpedia.org/resource/Luis_Barbat,http://dbpedia.org/resource/Karen_Barritza http://dbpedia.org/resource/Karen_Barbat
+1,90,U. Radwanska,http://dbpedia.org/resource/Agnieszka_Radwańska,http://dbpedia.org/resource/Urszula_Radwanska http://dbpedia.org/resource/Ula_Radwanska http://dbpedia.org/resource/Urszula_Radwańska

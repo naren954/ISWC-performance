@@ -1,0 +1,21 @@
+F1: 0.82243,Precision: 0.82243,Recall: 0.82243,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,6,M. B. Jackson,http://dbpedia.org/resource/Henry_M._Jackson,"http://dbpedia.org/resource/Mercy_B._Jackson http://dbpedia.org/resource/Mercy_B._Jackson,_M.D."
+0,8,M. Kravkov,http://dbpedia.org/resource/Nikolai_Kravkov,http://dbpedia.org/resource/Maximilian_Kravkov
+0,11,M. Rosenheim,http://dbpedia.org/resource/Mikhail_Rosenheim,"http://dbpedia.org/resource/Max_Rosenheim,_Baron_Rosenheim http://dbpedia.org/resource/Baron_Rosenheim http://dbpedia.org/resource/Max_Rosenheim"
+0,20,M. C. Stevenson,http://dbpedia.org/resource/Charles_Stevenson,http://dbpedia.org/resource/Matilda_Coxe_Evans_Stevenson http://dbpedia.org/resource/Tilly_E._Stevenson http://dbpedia.org/resource/Matilda_Coxe_Stevenson http://dbpedia.org/resource/Matilda_Coxe_Evans http://dbpedia.org/resource/Matilda_Stevenson http://dbpedia.org/resource/Matilda_Cox_Evans
+0,22,M. Leakey,http://dbpedia.org/resource/Louis_Leakey,http://dbpedia.org/resource/Mary_Douglas_Leakey http://dbpedia.org/resource/Mary_D_Leakey http://dbpedia.org/resource/Mary_Douglas_Nicol_Leakey http://dbpedia.org/resource/Mary_Nicol http://dbpedia.org/resource/Mary_Leakey http://dbpedia.org/resource/Mary_Nicol_Leakey
+0,23,M. H. Thompson,http://dbpedia.org/resource/Clark_W._Thompson_(Texas_politician),http://dbpedia.org/resource/Mary_Harris_Thompson
+0,37,M. Orbeli,http://dbpedia.org/resource/Joseph_Orbeli,http://dbpedia.org/resource/Maria_Orbeli
+0,38,M. M. Kirch,http://dbpedia.org/resource/Maria_Margaretha_Kirch,http://dbpedia.org/resource/Maria_Margarethe_Kirch http://dbpedia.org/resource/Maria_Margaretha_Winkelmann_Kirch http://dbpedia.org/resource/Maria_Kirch http://dbpedia.org/resource/Maria_Winkelmann http://dbpedia.org/resource/Marie_Kirch http://dbpedia.org/resource/Maria_Margarethe_Winckelmann http://dbpedia.org/resource/Maria_Winkelmann_Kirch
+0,43,M. Gowing,http://dbpedia.org/resource/Lawrence_Gowing,http://dbpedia.org/resource/Margaret_Gowing http://dbpedia.org/resource/Margaret_Mary_Gowing
+0,44,M. Boveri,http://dbpedia.org/resource/Theodor_Boveri,http://dbpedia.org/resource/Marcella_Boveri http://dbpedia.org/resource/Marcella_O'Grady_Boveri
+0,46,M. Renfrew,http://dbpedia.org/resource/Colin_Renfrew,http://dbpedia.org/resource/Malcolm_Renfrew
+0,47,M. Clarke,http://dbpedia.org/resource/Edmund_M._Clarke,http://dbpedia.org/resource/Malcolm_Clarke_(zoologist) http://dbpedia.org/resource/Malcolm_Roy_Clarke http://dbpedia.org/resource/Malcolm_Clark_(zoologist)
+0,52,L. F. Fowler,http://dbpedia.org/resource/Henry_Watson_Fowler,http://dbpedia.org/resource/Lydia_Fowler http://dbpedia.org/resource/Lydia_Folger_Fowler http://dbpedia.org/resource/Lydia_F._Fowler
+0,56,L. Johnson,http://dbpedia.org/resource/Lyndon_B._Johnson,http://dbpedia.org/resource/Dame_Louise_Napier_Johnson http://dbpedia.org/resource/Louise_Johnson
+0,61,L. Wing,http://dbpedia.org/resource/Leonard_Cheshire,"http://dbpedia.org/resource/Lorna_Wing,_MD,_FRCPsych http://dbpedia.org/resource/Lorna_Wing"
+0,80,L. Morley,http://dbpedia.org/resource/Robert_Morley,http://dbpedia.org/resource/Lawrence_Morley http://dbpedia.org/resource/Lawrence_morley
+0,93,K. J. Frost,http://dbpedia.org/resource/Barrie_Frost,http://dbpedia.org/resource/Kenneth_John_Frost
+0,97,K. Stephenson,http://dbpedia.org/resource/Robert_Stephenson,http://dbpedia.org/resource/Kathryn_Stephenson
+0,100,K. S. Kane,http://dbpedia.org/resource/Elisha_Kent_Kane,http://dbpedia.org/resource/Katherine_Sophia_Kane http://dbpedia.org/resource/Katharine_Sophia_Bailey_Kane http://dbpedia.org/resource/Lady_Kane

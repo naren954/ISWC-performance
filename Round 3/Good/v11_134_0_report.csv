@@ -1,0 +1,6 @@
+F1: 0.80000,Precision: 0.80000,Recall: 0.80000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,9,T. E. Korsæth,http://dbpedia.org/resource/Truls_Korsæth,http://dbpedia.org/resource/Truls_Engen_Korsaeth http://dbpedia.org/resource/Truls_Korsaeth http://dbpedia.org/resource/Truls_Engen_Korsæth
+0,10,T. Trondsen,http://it.dbpedia.org/resource/Tor_Trondsen,http://dbpedia.org/resource/Trond_Trondsen
+0,13,T. Robbins,http://dbpedia.org/resource/Tootie_Robbins,http://dbpedia.org/resource/Tristan_Robbins
+0,14,T. McCabe,http://dbpedia.org/resource/Tim_McCabe,http://dbpedia.org/resource/Travis_McCabe

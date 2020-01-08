@@ -1,0 +1,90 @@
+F1: 0.43949,Precision: 0.43949,Recall: 0.43949,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,Ç. Irmak,http://dbpedia.org/resource/Sadi_Irmak,http://dbpedia.org/resource/Cagan_Irmak http://dbpedia.org/resource/Çağan_Irmak
+1,3,D. Zapata,http://de.dbpedia.org/resource/Maya_Zapata,http://dbpedia.org/resource/Dominic_zapata http://dbpedia.org/resource/Dominic_Zapata
+1,4,G. Junger,http://dbpedia.org/resource/Ernst_Jünger,http://dbpedia.org/resource/Gil_Junger
+1,5,S. Siddiqui,http://dbpedia.org/resource/Nawazuddin_Siddiqui,http://dbpedia.org/resource/Sultana_Siddiqui
+1,6,J. Jones,http://dbpedia.org/resource/Jack_Jones_(singer),http://dbpedia.org/resource/Jon_Jones_(director)
+1,7,A. N. Khan,http://dbpedia.org/resource/Liaquat_Ali_Khan,http://dbpedia.org/resource/Amna_Nawaz_Khan
+1,8,S. Foster,http://dbpedia.org/resource/Stephen_Foster,http://dbpedia.org/resource/Shawn_Foster http://dbpedia.org/resource/Shawn_Foster_Director
+1,9,D. Zapata,http://de.dbpedia.org/resource/Maya_Zapata,http://dbpedia.org/resource/Dominic_zapata http://dbpedia.org/resource/Dominic_Zapata
+1,10,R. Dasgupta,http://dbpedia.org/resource/Chidananda_Dasgupta,http://dbpedia.org/resource/Ribhu_Dasgupta
+1,11,C. Garcia-Molina,http://dbpedia.org/resource/Héctor_García-Molina,http://dbpedia.org/resource/Cathy_Garcia-Molina http://dbpedia.org/resource/Cathy_Garcia_Molina
+1,12,Z. Chou,http://dbpedia.org/resource/Jay_Chou,"http://dbpedia.org/resource/Zero_Chou,_周美玲 http://dbpedia.org/resource/Zero_Chou http://dbpedia.org/resource/Zero_Chou,_Zhou_Mei_Ling"
+1,13,N. Young-seok,http://fr.dbpedia.org/resource/Noh_Young-seok,http://dbpedia.org/resource/Na_Young-seok
+1,14,M. Liebman,http://dbpedia.org/resource/Dave_Liebman,http://dbpedia.org/resource/Max_Liebman
+1,16,I. Barry,http://dbpedia.org/resource/Gene_Barry,http://dbpedia.org/resource/Ian_Barry_(director)
+1,17,R. Martin,http://dbpedia.org/resource/Ricky_Martin,http://dbpedia.org/resource/Richard_Martin_(director) http://dbpedia.org/resource/Richard_Martin_(actor)
+1,18,D. Trainer,http://dbpedia.org/resource/James_Trainer,http://dbpedia.org/resource/David_Trainer
+1,21,R. Boden,http://dbpedia.org/resource/Reginald_Boden,http://dbpedia.org/resource/Richard_Boden
+1,22,G. Darby,http://dbpedia.org/resource/George_Darby_(baseball),http://dbpedia.org/resource/Geoffrey_Darby
+1,24,Y. Sung-sik,http://dbpedia.org/resource/Kim_Il-sung,http://dbpedia.org/resource/Yoon_Sung-sik
+1,25,M. Showalter,http://dbpedia.org/resource/Max_Showalter,http://dbpedia.org/resource/Michael_Showalter http://dbpedia.org/resource/Sandwiches_&_Cats http://dbpedia.org/resource/Michael_English_Showalter
+1,28,C. Jacobs,http://dbpedia.org/resource/Max_Jacob,http://dbpedia.org/resource/The_MC_Bat_Commander http://dbpedia.org/resource/Christian_Jacobs http://dbpedia.org/resource/MC_Bat_Commander
+1,29,M. Sinha,http://dbpedia.org/resource/Manoj_Sinha,http://dbpedia.org/resource/Manjul_Sinha
+1,30,R. Sale,"http://dbpedia.org/resource/Charles,_Prince_of_Wales",http://dbpedia.org/resource/Richard_Sale_(director)
+1,31,Naga,http://dbpedia.org/resource/Naga_Chaitanya,http://dbpedia.org/resource/Naga_(director)
+1,32,Y. Tsutsumi,http://dbpedia.org/resource/Kyōhei_Tsutsumi,http://dbpedia.org/resource/Yukihiko_Tsutsumi http://dbpedia.org/resource/堤幸彦 http://dbpedia.org/resource/Tsutsumi_Yukihiko
+1,33,F. Burney,http://dbpedia.org/resource/Frances_Burney,http://dbpedia.org/resource/Fahim_Burney
+1,35,G. Halvorson,http://dbpedia.org/resource/David_Halvorson,http://dbpedia.org/resource/Gary_Halvorson
+1,38,J. Manahan,http://dbpedia.org/resource/James_Manahan,http://dbpedia.org/resource/Johnny_Manahan
+1,39,A. Jenks,http://dbpedia.org/resource/Albert_Jenks,http://dbpedia.org/resource/Andrew_Jenks
+1,41,B. Persky,http://dbpedia.org/resource/Lester_Persky,http://dbpedia.org/resource/Bill_Persky
+1,42,M. Diamond,http://dbpedia.org/resource/Queen_Victoria,http://dbpedia.org/resource/Matthew_Diamond
+1,44,T. Hughes,http://dbpedia.org/resource/Ted_Hughes,http://dbpedia.org/resource/Terry_Hughes_(director) http://dbpedia.org/resource/Terry_Hughes_(film_director)
+1,45,D. Cobham,http://dbpedia.org/resource/Billy_Cobham,http://dbpedia.org/resource/David_Cobham
+1,46,H. Thomason,http://dbpedia.org/resource/Marsha_Thomason,http://dbpedia.org/resource/Harry_Thomason
+1,47,S. Jensen,http://dbpedia.org/resource/Axel_Jensen,http://dbpedia.org/resource/Shelley_Jensen
+1,48,T. Robinson,http://dbpedia.org/resource/Theodore_Robinson,http://dbpedia.org/resource/Ted_Robinson_(TV_director) http://dbpedia.org/resource/Ted_Robinson_(director)
+1,49,P. Kosminsky,http://fr.dbpedia.org/resource/Evgueni_Kosminski,http://dbpedia.org/resource/Peter_kosminksy http://dbpedia.org/resource/Peter_Kosminsky
+1,50,R. Holcomb,http://dbpedia.org/resource/Steven_Holcomb,http://dbpedia.org/resource/Rod_Holcomb
+1,51,T. O'Donnell,http://dbpedia.org/resource/Kenneth_O'Donnell,http://dbpedia.org/resource/Tim_O'Donnell_(director)
+1,52,K. Ghatak,http://dbpedia.org/resource/Ritwik_Ghatak,http://dbpedia.org/resource/Kaushik_Ghatak
+1,53,A. Malik,http://dbpedia.org/resource/Anu_Malik,http://dbpedia.org/resource/Angeline_Malik
+1,55,J. Goddard,http://dbpedia.org/resource/Paulette_Goddard,http://dbpedia.org/resource/Jim_Goddard
+1,57,G. Flemyng,http://dbpedia.org/resource/Robert_Flemyng,http://dbpedia.org/resource/Gordon_Flemyng
+1,58,C. Patton,http://dbpedia.org/resource/Candice_Patton,http://dbpedia.org/resource/Chuck_Patton
+1,62,Y. Seok-ho,http://dbpedia.org/resource/Jeon_Seok-ho,http://dbpedia.org/resource/Yoon_Suk-ho http://dbpedia.org/resource/Yoon_Seok-Ho http://dbpedia.org/resource/Yun_Suk_Ho http://dbpedia.org/resource/Yoon_Seok-ho
+1,63,J. Goddard,http://dbpedia.org/resource/Paulette_Goddard,http://dbpedia.org/resource/Jim_Goddard
+1,66,T. Rogers,http://dbpedia.org/resource/Thorold_Rogers,http://dbpedia.org/resource/Tony_Rogers_(director)
+1,67,J. May,http://dbpedia.org/resource/Jonathan_May,http://dbpedia.org/resource/Juliet_May
+1,68,P. Field,http://dbpedia.org/resource/Patricia_Field,http://dbpedia.org/resource/Paul_Field_(musician)
+1,71,T. Hill,http://dbpedia.org/resource/Thomas_Hill_(painter),http://dbpedia.org/resource/Tim_Hill_(director) http://dbpedia.org/resource/Tim_Hill_(screenwriter)
+1,72,D. Kerr,http://dbpedia.org/resource/Deborah_Kerr,http://dbpedia.org/resource/David_Kerr_(director)
+1,76,H. Martin,http://dbpedia.org/resource/Henri-Jean_Guillaume_Martin,http://dbpedia.org/resource/Hugh_Martin
+1,77,A. Sanford,http://dbpedia.org/resource/Mark_Sanford,http://dbpedia.org/resource/Arlene_Sanford
+1,79,P. H. Hunt,http://dbpedia.org/resource/William_H._Hunt,http://dbpedia.org/resource/Peter_Huls_Hunt http://dbpedia.org/resource/Peter_H._Hunt
+1,80,P. Baldwin,http://dbpedia.org/resource/James_Baldwin,http://dbpedia.org/resource/Peter_Baldwin_(director)
+1,82,E. Weinberger,http://dbpedia.org/resource/Caspar_Weinberger,http://dbpedia.org/resource/Ed_Weinberger http://dbpedia.org/resource/Ed._Weinberger http://dbpedia.org/resource/Edwin_Weinberger http://dbpedia.org/resource/Edwin_B._Weinberger
+1,83,M. Schultz,http://dbpedia.org/resource/Charles_M._Schulz,http://dbpedia.org/resource/Michael_A._Schultz http://dbpedia.org/resource/Michael_Schultz
+1,86,E. Sahin,http://dbpedia.org/resource/Sıla_Şahin,http://dbpedia.org/resource/Emre_şahin http://dbpedia.org/resource/Emre_sahin http://dbpedia.org/resource/Emre_Sahin
+1,87,C. Zisk,http://dbpedia.org/resource/Randy_Zisk,http://dbpedia.org/resource/Craig_Zisk
+1,88,P. Tolan,http://dbpedia.org/resource/Michael_Tolan,http://dbpedia.org/resource/The_Cloudland_Company http://dbpedia.org/resource/Peter_Tolan
+1,89,J. Zwick,http://dbpedia.org/resource/Johannes_Zwick,http://dbpedia.org/resource/Joel_Zwick
+1,92,J. Drake,http://dbpedia.org/resource/Jessica_Drake,http://dbpedia.org/resource/James_R._Drake http://dbpedia.org/resource/Jim_Drake_(director)
+1,93,R. Singleton-Turner,http://dbpedia.org/resource/John_Singleton_Copley,http://dbpedia.org/resource/Roger_Singleton-Turner
+1,94,P. Kosminsky,http://fr.dbpedia.org/resource/Evgueni_Kosminski,http://dbpedia.org/resource/Peter_kosminksy http://dbpedia.org/resource/Peter_Kosminsky
+1,96,T. Harper,http://dbpedia.org/resource/Thelma_Harper_(politician),http://dbpedia.org/resource/Tom_Harper_(director) http://dbpedia.org/resource/Tom_Harper_(film_director)
+1,99,P. Martin,http://es.dbpedia.org/resource/Pete_Martin,http://dbpedia.org/resource/Philip_Martin_(director)
+1,100,C. Brandström,http://dbpedia.org/resource/Elsa_Brändström,http://dbpedia.org/resource/Charlotte_Brandström http://dbpedia.org/resource/Charlotte_Brandstrom http://dbpedia.org/resource/Charlotte_Brändström
+1,106,C. Leathers,http://dbpedia.org/resource/Jonathan_Leathers,http://dbpedia.org/resource/Craig_Leathers
+1,107,C. Leathers,http://dbpedia.org/resource/Jonathan_Leathers,http://dbpedia.org/resource/Craig_Leathers
+1,108,M. Ribero,http://dbpedia.org/resource/Tito_Ribero,"http://dbpedia.org/resource/Betty_la_fea http://dbpedia.org/resource/Yo_Soy_Betty_La_Fea http://dbpedia.org/resource/Betty_la_Fea http://dbpedia.org/resource/Betty_La_Fea http://dbpedia.org/resource/Yo_soy_Betty,_la_fea http://dbpedia.org/resource/Yo_Soy_Betty,_La_Fea http://dbpedia.org/resource/Spinoffs_of_Betty_la_fea http://dbpedia.org/resource/María_del_Pilar_Fernández http://dbpedia.org/resource/Yolanda_Rayo http://dbpedia.org/resource/Mario_Ribero http://dbpedia.org/resource/Canaroy_Pelay http://dbpedia.org/resource/Alirio_Farfán http://dbpedia.org/resource/Liliana_Hernández http://dbpedia.org/resource/List_of_spinoffs_of_Betty_la_fea http://dbpedia.org/resource/Betty_La_Fea_Philippine_TV_Series"
+1,113,S. Mumtaz,http://dbpedia.org/resource/Salman_Mumtaz,http://dbpedia.org/resource/Saba_Mumtaz
+1,116,T. McDonough,http://dbpedia.org/resource/Frank_McDonough,http://dbpedia.org/resource/Terry_McDonough
+1,118,C. Ranganathan,http://dbpedia.org/resource/Romesh_Ranganathan,http://dbpedia.org/resource/C._Ranganathan
+1,120,F. Wong,http://dbpedia.org/resource/Felix_Wong,http://dbpedia.org/resource/RocketJump http://dbpedia.org/resource/Overcrank_Media http://dbpedia.org/resource/Node_(YouTube) http://dbpedia.org/resource/Freddy_wong http://dbpedia.org/resource/Freddiew http://dbpedia.org/resource/Freddie_Wong http://dbpedia.org/resource/Brandon_Laatsch http://dbpedia.org/resource/Freddiew2 http://dbpedia.org/resource/Freddy_Wong
+1,121,B. Cosgrove,http://dbpedia.org/resource/Denis_Cosgrove,http://dbpedia.org/resource/Brian_Cosgrove
+1,124,C. Luna,http://dbpedia.org/resource/Chola_Luna,http://dbpedia.org/resource/Carlos_Luna
+1,127,M. Jabbar,http://dbpedia.org/resource/Abdul_Jabbar_(singer),http://dbpedia.org/resource/Mehreen_Jabbar
+1,134,K. Johnson,http://dbpedia.org/resource/Dwayne_Johnson,http://dbpedia.org/resource/Lillian_Weezer http://dbpedia.org/resource/Kenneth_Johnson_(producer)
+1,142,J. Hawes,http://dbpedia.org/resource/Keeley_Hawes,"http://dbpedia.org/resource/James_Hawes http://dbpedia.org/resource/Hawes,_James"
+1,144,J. Strickland,http://dbpedia.org/resource/Shirley_Strickland,http://dbpedia.org/resource/John_Strickland
+1,145,J. Tracy,http://dbpedia.org/resource/Jack_Tracy,http://dbpedia.org/resource/John_Tracy_(director)
+1,149,T. Yagi,http://dbpedia.org/resource/Jūkichi_Yagi,http://dbpedia.org/resource/Takeshi_Yagi
+1,150,K. Sakamoto,http://dbpedia.org/resource/Kyu_Sakamoto,http://dbpedia.org/resource/坂本浩一 http://dbpedia.org/resource/Koichi_Sakamoto
+1,151,T. Yagi,http://dbpedia.org/resource/Jūkichi_Yagi,http://dbpedia.org/resource/Takeshi_Yagi
+1,153,K. Sakamoto,http://dbpedia.org/resource/Kyu_Sakamoto,http://dbpedia.org/resource/坂本浩一 http://dbpedia.org/resource/Koichi_Sakamoto
+1,155,A. Giordano,http://dbpedia.org/resource/Dick_Giordano,"http://dbpedia.org/resource/Anthony_'Tony_G'_Girodano http://dbpedia.org/resource/Anthony_Giordano http://dbpedia.org/resource/Anthony_""Tony_G""_Giordano"
+1,156,F. Bonner,http://dbpedia.org/resource/Frank_Bonner_(baseball),http://dbpedia.org/resource/Frank_Bonner
+1,157,W. Jing,http://dbpedia.org/resource/Chen_Jing_(table_tennis),http://dbpedia.org/resource/Wong_Jing

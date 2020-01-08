@@ -1,0 +1,11 @@
+F1: 0.95213,Precision: 0.95213,Recall: 0.95213,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,53,T. B. White,http://dbpedia.org/resource/E._B._White,http://dbpedia.org/resource/Tanit_Belbin http://dbpedia.org/resource/Tanith_Belbin_White http://dbpedia.org/resource/Tanith_Belbin
+0,87,S. Smith,http://dbpedia.org/resource/Stanford_Smith,http://dbpedia.org/resource/Scott_Smith_(skater) http://dbpedia.org/resource/Scott_smith_(figure_skater) http://dbpedia.org/resource/Scott_Smith_(figure_skater)
+0,89,S. Cohen,http://dbpedia.org/resource/Syd_Cohen,http://dbpedia.org/resource/Sasha_Coen http://dbpedia.org/resource/Alexandra_Pauline_Cohen http://dbpedia.org/resource/Sasha_Cohen http://dbpedia.org/resource/Sasha_cohen http://dbpedia.org/resource/Shasha_cohen http://dbpedia.org/resource/Alexandra_Cohen http://dbpedia.org/resource/Casha_Cohen
+0,131,O. Bychenko,,http://dbpedia.org/resource/Oleksil_Bychenko http://dbpedia.org/resource/Aleksei_Bychenko http://dbpedia.org/resource/Oleksii_Bychenko http://dbpedia.org/resource/Alexei_Bychenko http://dbpedia.org/resource/Aleksey_Bychenko http://dbpedia.org/resource/Oleksiy_Bychenko
+0,133,O. Voyko,,http://dbpedia.org/resource/Oleh_Voiko http://dbpedia.org/resource/Voiko http://dbpedia.org/resource/Oleg_Voyko http://dbpedia.org/resource/Oleg_Voiko
+0,157,N. Zabijako,http://dbpedia.org/resource/Natalya_Zabiyako,http://dbpedia.org/resource/Natalja_Zabijako http://dbpedia.org/resource/Natalia_Zabijako
+0,158,N. Mishkutionok,,http://dbpedia.org/resource/Natalia_Mishkutenok http://dbpedia.org/resource/Natalia_Mishkutienok http://dbpedia.org/resource/Natalia_Mishentouk http://dbpedia.org/resource/Nataliya_Mishkutenok http://dbpedia.org/resource/Natalia_Mishkutionok http://dbpedia.org/resource/Natalia_Mishutenok http://dbpedia.org/resource/Natalja_Mishkutienok http://dbpedia.org/resource/Natalia_Mishkenetok http://dbpedia.org/resource/Nataliya_Mishkutyonok
+0,183,M. Davis,"http://dbpedia.org/resource/Mark_Davis_(basketball,_born_1963)",http://dbpedia.org/resource/Meryl_Davis
+0,186,M. Wende,http://dbpedia.org/resource/Daniel_Wende,http://dbpedia.org/resource/Maylin_Wende http://dbpedia.org/resource/Maylin_Hausch

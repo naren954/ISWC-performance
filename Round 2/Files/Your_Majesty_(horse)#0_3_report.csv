@@ -1,0 +1,4 @@
+"F1: 0.33333","Precision: 0.33333","Recall: 0.33333"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"3","0","Vedette","http://dbpedia.org/resource/Anchorman:_The_Legend_of_Ron_Burgundy","http://dbpedia.org/resource/Vedette_(horse)"
+"3","2","King Tom","http://dbpedia.org/resource/Aquaman","http://dbpedia.org/resource/King_Tom_(horse)"

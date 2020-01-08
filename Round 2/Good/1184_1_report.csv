@@ -1,0 +1,6 @@
+F1: 0.76471,Precision: 0.76471,Recall: 0.76471,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,Posterior cord,http://dbpedia.org/resource/Brainstem,http://dbpedia.org/resource/Posterior_cord
+1,2,Cervical spinal nerve 8,http://dbpedia.org/resource/Spinal_nerve,http://dbpedia.org/resource/C8_spinal_nerve http://dbpedia.org/resource/C8_nerve http://dbpedia.org/resource/Cervical_spinal_nerve_8 http://dbpedia.org/resource/Nervus_spinalis_C8
+1,4,Posterior cord,http://dbpedia.org/resource/Brainstem,http://dbpedia.org/resource/Posterior_cord
+1,12,Posterior cord,http://dbpedia.org/resource/Brainstem,http://dbpedia.org/resource/Posterior_cord

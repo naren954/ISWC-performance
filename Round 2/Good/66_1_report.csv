@@ -1,0 +1,3 @@
+F1: 0.97959,Precision: 0.97959,Recall: 0.97959,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,17,MediaWorks,http://dbpedia.org/resource/ASCII_Media_Works,"http://dbpedia.org/resource/MediaWorks_(publisher) http://dbpedia.org/resource/Media_Works,Inc http://dbpedia.org/resource/Dengeki_G's_Bunko"

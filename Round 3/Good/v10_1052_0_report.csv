@@ -1,0 +1,4 @@
+F1: 0.92308,Precision: 0.92308,Recall: 0.92308,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,5,Waylla Hirka,http://dbpedia.org/resource/Waylla_Hirka_(Cajatambo),http://dbpedia.org/resource/Huayllajirca http://dbpedia.org/resource/Cerro_Huayllajirca http://dbpedia.org/resource/Waylla_Hirka
+0,9,Waych'awi,,http://dbpedia.org/resource/Nevado_Jatun_Huaychahui http://dbpedia.org/resource/Jatun_Huaychahui http://dbpedia.org/resource/Nevado_Huaychahui http://dbpedia.org/resource/Cerro_Huaychahui http://dbpedia.org/resource/Huaychahui http://dbpedia.org/resource/Hatun_Waychawi http://dbpedia.org/resource/Waych'awi http://dbpedia.org/resource/Cerro_Jatun_Huaychahui

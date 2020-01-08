@@ -1,0 +1,33 @@
+F1: 0.72072,Precision: 0.72072,Recall: 0.72072,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,4,Moving Targets,http://dbpedia.org/resource/Moving_Target_(1988_American_film),http://dbpedia.org/resource/Moving_Targets_(2004_film) http://dbpedia.org/resource/Moving_Targets_(film)
+0,7,Mother,http://dbpedia.org/resource/Mother_3,http://dbpedia.org/resource/Mother_(1999_film)
+0,9,Montana,http://dbpedia.org/resource/Hannah_Montana,http://dbpedia.org/resource/Montana_(1950_film)
+0,19,Mischief,http://dbpedia.org/resource/Mischief_(1985_film),http://dbpedia.org/resource/Mischief_(1931_film)
+0,20,Mirror Mirror,"http://dbpedia.org/resource/Mirror,_Mirror_(Star_Trek:_The_Original_Series)",http://dbpedia.org/resource/Mirror_Mirror_(2012_film) http://dbpedia.org/resource/Mirror_Mirror_(film)
+0,21,Miracle on 34th Street,http://dbpedia.org/resource/Miracle_on_34th_Street,http://dbpedia.org/resource/Miracle_on_34th_Street_(1994_film)
+0,24,Merton of the Movies,http://dbpedia.org/resource/Merton_of_the_Movies_(1947_film),http://dbpedia.org/resource/Merton_of_the_Movies_(1924_film)
+0,26,McHale's Navy,http://dbpedia.org/resource/McHale's_Navy_(1997_film),http://dbpedia.org/resource/McHale's_Navy_(1964_film)
+0,27,McFadden's Flats,http://dbpedia.org/resource/McFadden's_Flats_(1935_film),http://dbpedia.org/resource/McFadden's_Flats
+0,28,Masque of the Red Death,http://dbpedia.org/resource/The_Masque_of_the_Red_Death_(1964_film),http://dbpedia.org/resource/Masque_of_the_Red_Death_(1989_film) http://dbpedia.org/resource/The_Masque_of_the_Red_Death_(1989_film)
+0,31,Mardi Gras,http://dbpedia.org/resource/Mardi_Gras_Massacre,http://dbpedia.org/resource/Mardi_Gras_(1958_film)
+0,36,Mantrap,http://dbpedia.org/resource/The_Mantrap,http://dbpedia.org/resource/Mantrap_(1953_film)
+0,37,Manto,http://dbpedia.org/resource/Joseph_and_the_Amazing_Technicolor_Dreamcoat,http://dbpedia.org/resource/Main_Saadat_Hasan_Manto http://dbpedia.org/resource/Mein_Manto http://dbpedia.org/resource/Saadat_Hasan_Manto_(TV_series) http://dbpedia.org/resource/Manto_(drama) http://dbpedia.org/resource/Main_Mantoo http://dbpedia.org/resource/Manto_(TV_series) http://dbpedia.org/resource/Main_Manto_(drama) http://dbpedia.org/resource/Main_Manto_(film) http://dbpedia.org/resource/Manto_(film) http://dbpedia.org/resource/Main_Manto_(TV_series)
+0,40,Maniac,http://dbpedia.org/resource/Maniac_(2012_film),http://dbpedia.org/resource/Sex_Maniac http://dbpedia.org/resource/Maniac_(1934_film)
+0,45,Man on Horseback,http://dbpedia.org/resource/The_Man_on_Horseback,http://dbpedia.org/resource/Man_on_Horseback http://dbpedia.org/resource/Michael_Kohlhaas_–_der_Rebell http://dbpedia.org/resource/Michael_Kohlhaas-Der_Rebell http://dbpedia.org/resource/Michael_Kohlhaas_-_der_Rebell http://dbpedia.org/resource/Michael_Kohlhaas_-_Der_Rebell http://dbpedia.org/resource/Michael_Kohlhaas_der_Rebell
+0,56,Madame Bovary,http://dbpedia.org/resource/Madame_Bovary_(1991_film),http://dbpedia.org/resource/Madame_Bovary_(1949_film)
+0,57,Macbeth,http://dbpedia.org/resource/Macbeth_(2015_film),http://dbpedia.org/resource/Macbeth_(1948_film) http://dbpedia.org/resource/Macbeth_(1948)
+0,59,Love is Forever,http://dbpedia.org/resource/Love_Is_Forever_(1954_film),http://dbpedia.org/resource/Love_is_Forever_(1954_film) http://dbpedia.org/resource/Und_ewig_bleibt_die_Liebe http://dbpedia.org/resource/...und_ewig_bleibt_die_Liebe
+0,66,Little Red Riding Hood,http://dbpedia.org/resource/Red_Riding_Hood_(2011_film),http://dbpedia.org/resource/Little_Red_Riding_Hood_(1954_film)
+0,74,Let George Do It,http://dbpedia.org/resource/Let_George_Do_It!,http://dbpedia.org/resource/In_the_Nick_of_Time_(Australian_film) http://dbpedia.org/resource/Let_George_Do_It_(1938_film)
+0,75,Let's Dance,http://dbpedia.org/resource/Let's_Dance_(German_TV_series),http://dbpedia.org/resource/Let's_Dance_(1950_film)
+0,76,Les Misérables,http://dbpedia.org/resource/Les_Misérables_(2012_film),http://dbpedia.org/resource/Les_Misérables_(1935_movie) http://dbpedia.org/resource/Les_Miserables_(1935) http://dbpedia.org/resource/Les_Misérables_(1935_film) http://dbpedia.org/resource/Les_Miserables_(1935_film) http://dbpedia.org/resource/Les_Miserables_(1935_movie)
+0,79,Law and Disorder,http://dbpedia.org/resource/Law_and_Disorder_(1974_film),http://dbpedia.org/resource/Law_and_Disorder_(1958_film)
+0,85,Lassie,http://dbpedia.org/resource/Lassie_Come_Home,http://dbpedia.org/resource/Lassie_(2005_film) http://dbpedia.org/resource/Lassie_(2005_movie)
+0,90,La Tosca,http://dbpedia.org/resource/Tosca_(1941_film),http://dbpedia.org/resource/La_Tosca_(1918_film)
+0,91,La Soupe aux choux,http://dbpedia.org/resource/The_Cabbage_Soup,http://dbpedia.org/resource/La_soupe_aux_choux http://dbpedia.org/resource/La_Soupe_aux_choux
+0,100,King Kong,http://dbpedia.org/resource/King_Kong_(2005_film),http://dbpedia.org/resource/King_Kong_(1976) http://dbpedia.org/resource/King_Kong_(1976_film)
+0,103,Kill Bill,http://dbpedia.org/resource/Kill_Bill:_Volume_1,http://dbpedia.org/resource/Kill_Bill http://dbpedia.org/resource/Kill_Bill:_Volume_3 http://dbpedia.org/resource/Kill_bill http://dbpedia.org/resource/The_Whole_Bloody_Affair
+0,104,Kick,http://dbpedia.org/resource/Kick-Ass_(film),http://dbpedia.org/resource/Kick_(2014_Film) http://dbpedia.org/resource/Kick_(2014_film) http://dbpedia.org/resource/Hangover_(The_Salman_Khan_Song)
+0,106,Kean,http://dbpedia.org/resource/Kean_(musical),http://dbpedia.org/resource/Kean_(film)
+0,109,Kangaroo,http://dbpedia.org/resource/Kangaroo_Jack,http://dbpedia.org/resource/Kangaroo_(1986_film) http://dbpedia.org/resource/Kangaroo_(1987_film)

@@ -1,0 +1,6 @@
+F1: 0.75000,Precision: 0.75000,Recall: 0.75000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,7,Going Public,http://dbpedia.org/resource/Going_Public_(Newsboys_album),http://dbpedia.org/resource/Going_Public http://dbpedia.org/resource/Shine_(Newsboys_Song) http://dbpedia.org/resource/Shine_(Newsboys_song)
+0,8,Take Me to Your Leader,http://dbpedia.org/resource/Take_Me_to_Your_Leader_(¡Mayday!_album),http://dbpedia.org/resource/Take_Me_to_Your_Leader_(Newsboys_album)
+0,14,Go,http://dbpedia.org/resource/Go_(programming_language),http://dbpedia.org/resource/GO_(Newsboys_album) http://dbpedia.org/resource/Go_(EP) http://dbpedia.org/resource/Go_(Newsboys_album)
+0,16,Born Again,http://dbpedia.org/resource/Born_Again_(The_Notorious_B.I.G._album),http://dbpedia.org/resource/Born_Again_(Newsboys_album) http://dbpedia.org/resource/Born_Again:_Miracles_Edition

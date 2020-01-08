@@ -1,0 +1,5 @@
+F1: 0.62500,Precision: 0.62500,Recall: 0.62500,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,Bill,http://dbpedia.org/resource/The_Bill,http://dbpedia.org/resource/Bill_(1981_film) http://dbpedia.org/resource/Bill_(TV_movie)
+1,4,Dinner with Friends,http://dbpedia.org/resource/Dinner_with_Friends_with_Brett_Gelman_and_Friends,http://dbpedia.org/resource/Dinner_with_Friends http://dbpedia.org/resource/Dinner_With_Friends
+1,8,Vegas,http://dbpedia.org/resource/Las_Vegas_(TV_series),http://dbpedia.org/resource/Vegas_(TV_show) http://dbpedia.org/resource/Vegas_(TV_series) http://dbpedia.org/resource/List_of_vegas_episodes http://dbpedia.org/resource/Vegas_(TV_Series) http://dbpedia.org/resource/List_of_Vegas_episodes

@@ -1,0 +1,5 @@
+"F1: 0.80000","Precision: 0.80000","Recall: 0.80000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","5","Larry Dixon","http://dbpedia.org/resource/Larry_Dixon_(politician)","http://dbpedia.org/resource/Larry_Dixon_(dragster_driver) http://dbpedia.org/resource/Larry_Dixon_(drag_racer)"
+"1","12","Larry Dixon","http://dbpedia.org/resource/Larry_Dixon_(politician)","http://dbpedia.org/resource/Larry_Dixon_(dragster_driver) http://dbpedia.org/resource/Larry_Dixon_(drag_racer)"
+"1","13","Larry Dixon","http://dbpedia.org/resource/Larry_Dixon_(politician)","http://dbpedia.org/resource/Larry_Dixon_(dragster_driver) http://dbpedia.org/resource/Larry_Dixon_(drag_racer)"

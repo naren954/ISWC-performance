@@ -1,0 +1,20 @@
+F1: 0.88000,Precision: 0.88000,Recall: 0.88000,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,2,M. Venturini,http://dbpedia.org/resource/Bruno_Venturini,http://dbpedia.org/resource/Marco_Venturini
+2,15,M. Venturini,http://dbpedia.org/resource/Bruno_Venturini,http://dbpedia.org/resource/Marco_Venturini
+2,26,A. Maloukhina,,http://dbpedia.org/resource/Anna_Maloukhina http://dbpedia.org/resource/Anna_Malukhina
+2,29,K. Ivanov,"http://dbpedia.org/resource/Valentin_Ivanov_(footballer,_born_1934)",http://dbpedia.org/resource/Kirill_Ivanov_(sport_shooter)
+2,34,A. Maloukhina,,http://dbpedia.org/resource/Anna_Maloukhina http://dbpedia.org/resource/Anna_Malukhina
+2,37,K. Ivanov,"http://dbpedia.org/resource/Valentin_Ivanov_(footballer,_born_1934)",http://dbpedia.org/resource/Kirill_Ivanov_(sport_shooter)
+2,43,M. Sullivan,http://dbpedia.org/resource/Monique_Sullivan,http://dbpedia.org/resource/Michael_Sullivan_(sport_shooter)
+2,49,M. Sullivan,http://dbpedia.org/resource/Monique_Sullivan,http://dbpedia.org/resource/Michael_Sullivan_(sport_shooter)
+2,54,S. Johansson,http://dbpedia.org/resource/Sven_Tumba,http://dbpedia.org/resource/Sven_Johansson_(sport_shooter)
+2,55,L. Dyakov,http://dbpedia.org/resource/Ilia_Dyakov,http://dbpedia.org/resource/Lyubcho_Dyakov http://dbpedia.org/resource/Lubcho_Diakov http://dbpedia.org/resource/Lubtcho_Diakov
+2,58,S. Johansson,http://dbpedia.org/resource/Sven_Tumba,http://dbpedia.org/resource/Sven_Johansson_(sport_shooter)
+2,59,L. Dyakov,http://dbpedia.org/resource/Ilia_Dyakov,http://dbpedia.org/resource/Lyubcho_Dyakov http://dbpedia.org/resource/Lubcho_Diakov http://dbpedia.org/resource/Lubtcho_Diakov
+2,84,H. Vollmar,http://dbpedia.org/resource/Heinz_Vollmar,http://dbpedia.org/resource/Harald_Vollmar
+2,86,H. Vollmar,http://dbpedia.org/resource/Heinz_Vollmar,http://dbpedia.org/resource/Harald_Vollmar
+2,96,S. Kalinin,http://dbpedia.org/resource/Stepan_Kalinin,http://dbpedia.org/resource/Sergei_Kalinin_(shooter) http://dbpedia.org/resource/Sergei_Kalinin_(sport_shooter)
+2,102,S. Kalinin,http://dbpedia.org/resource/Stepan_Kalinin,http://dbpedia.org/resource/Sergei_Kalinin_(shooter) http://dbpedia.org/resource/Sergei_Kalinin_(sport_shooter)
+2,121,A. Jackson,http://dbpedia.org/resource/Arnold_Jackson_(British_Army_officer),http://dbpedia.org/resource/Arthur_Jackson_(sport_shooter) http://dbpedia.org/resource/Art_Jackson_(sport_shooter) http://dbpedia.org/resource/Arthur_Charles_Jackson
+2,126,A. Jackson,http://dbpedia.org/resource/Arnold_Jackson_(British_Army_officer),http://dbpedia.org/resource/Arthur_Jackson_(sport_shooter) http://dbpedia.org/resource/Art_Jackson_(sport_shooter) http://dbpedia.org/resource/Arthur_Charles_Jackson

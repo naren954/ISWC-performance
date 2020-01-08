@@ -1,0 +1,53 @@
+F1: 0.52778,Precision: 0.52778,Recall: 0.52778,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,L. Holdridge,http://dbpedia.org/resource/Leslie_Holdridge,http://dbpedia.org/resource/Lee_Holdridge
+1,3,B. Belland,,http://dbpedia.org/resource/The_Four_Preps http://dbpedia.org/resource/4_preps http://dbpedia.org/resource/Four_Preps http://dbpedia.org/resource/Bruce_Belland http://dbpedia.org/resource/Marv_Ingram
+1,5,K. Nakagawa,http://dbpedia.org/resource/Katsuhiko_Nakagawa,http://dbpedia.org/resource/Kotaro_Nakagawa http://dbpedia.org/resource/Nakagawa_Koutarou http://dbpedia.org/resource/Koutarou_Nakagawa http://dbpedia.org/resource/Nakagawa_Kotaro http://dbpedia.org/resource/Kōtarō_Nakagawa http://dbpedia.org/resource/Kotarou_Nakagawa
+1,6,K. Nakagawa,http://dbpedia.org/resource/Katsuhiko_Nakagawa,http://dbpedia.org/resource/Kotaro_Nakagawa http://dbpedia.org/resource/Nakagawa_Koutarou http://dbpedia.org/resource/Koutarou_Nakagawa http://dbpedia.org/resource/Nakagawa_Kotaro http://dbpedia.org/resource/Kōtarō_Nakagawa http://dbpedia.org/resource/Kotarou_Nakagawa
+1,9,K. Nakagawa,http://dbpedia.org/resource/Katsuhiko_Nakagawa,http://dbpedia.org/resource/Kotaro_Nakagawa http://dbpedia.org/resource/Nakagawa_Koutarou http://dbpedia.org/resource/Koutarou_Nakagawa http://dbpedia.org/resource/Nakagawa_Kotaro http://dbpedia.org/resource/Kōtarō_Nakagawa http://dbpedia.org/resource/Kotarou_Nakagawa
+1,11,K. Yamashita,http://dbpedia.org/resource/Yōsuke_Yamashita,http://dbpedia.org/resource/Kousuke_Yamashita http://dbpedia.org/resource/Kosuke_Yamashita http://dbpedia.org/resource/山下康介
+1,12,S. Naruse,http://dbpedia.org/resource/Mikio_Naruse,http://dbpedia.org/resource/Shuhei_Naruse
+1,13,K. Nakagawa,http://dbpedia.org/resource/Katsuhiko_Nakagawa,http://dbpedia.org/resource/Kotaro_Nakagawa http://dbpedia.org/resource/Nakagawa_Koutarou http://dbpedia.org/resource/Koutarou_Nakagawa http://dbpedia.org/resource/Nakagawa_Kotaro http://dbpedia.org/resource/Kōtarō_Nakagawa http://dbpedia.org/resource/Kotarou_Nakagawa
+1,16,K. Yamashita,http://dbpedia.org/resource/Yōsuke_Yamashita,http://dbpedia.org/resource/Kousuke_Yamashita http://dbpedia.org/resource/Kosuke_Yamashita http://dbpedia.org/resource/山下康介
+1,17,R. Williams,http://dbpedia.org/resource/Ralph_Vaughan_Williams,"http://dbpedia.org/resource/Pure_Frances http://dbpedia.org/resource/Råbi_viliams http://dbpedia.org/resource/Robert_Peter_Williams http://dbpedia.org/resource/Williams,_Robbie http://dbpedia.org/resource/Robbie_Williams http://dbpedia.org/resource/Robbie_williams http://dbpedia.org/resource/Farrell_(clothing_label) http://dbpedia.org/resource/Robbie_Williams_(band)"
+1,19,M. Griffin,http://dbpedia.org/resource/Griffin_Dunne,"http://dbpedia.org/resource/Merv_Griffen http://dbpedia.org/resource/Merv_Griffin http://dbpedia.org/resource/Mervyn_Griffin http://dbpedia.org/resource/Mervyn_Edward_Griffin_Jr. http://dbpedia.org/resource/Mervyn_Edward_Griffin,_Jr."
+1,21,R. Gregson-Williams,http://dbpedia.org/resource/Harry_Gregson-Williams,http://dbpedia.org/resource/Rupert_Gregson-Williams
+1,23,R. Bellis,http://dbpedia.org/resource/Paolo_Belli,http://dbpedia.org/resource/Richard_bellis http://dbpedia.org/resource/Richard_Bellis
+1,24,G. Zanelli,http://it.dbpedia.org/resource/Giovanni_Zanelli,http://dbpedia.org/resource/Geoff_Zanelli http://dbpedia.org/resource/Geoff_zanelli
+1,25,S. Tongue,http://dbpedia.org/resource/The_Tongue,http://dbpedia.org/resource/Sheridan_Tongue
+1,26,B. Keane,http://dbpedia.org/resource/Glen_Keane,http://dbpedia.org/resource/Brian_Keane
+1,28,M. Hudson,http://dbpedia.org/resource/Jennifer_Hudson,http://dbpedia.org/resource/Mark_Hudson_(musician)
+1,29,S. Levy,http://dbpedia.org/resource/Sivan_Levy,http://dbpedia.org/resource/Itty_Bitty_Heartbeats http://dbpedia.org/resource/Shuki_Levy http://dbpedia.org/resource/Shuky_Levy
+1,31,K. Nakagawa,http://dbpedia.org/resource/Katsuhiko_Nakagawa,http://dbpedia.org/resource/Kotaro_Nakagawa http://dbpedia.org/resource/Nakagawa_Koutarou http://dbpedia.org/resource/Koutarou_Nakagawa http://dbpedia.org/resource/Nakagawa_Kotaro http://dbpedia.org/resource/Kōtarō_Nakagawa http://dbpedia.org/resource/Kotarou_Nakagawa
+1,34,R. Blair-Oliphant,http://dbpedia.org/resource/Robert_Blair_(badminton),http://dbpedia.org/resource/Richard_Blair-Oliphant
+1,36,J. Swihart,http://dbpedia.org/resource/Blake_Swihart,http://dbpedia.org/resource/John_Swihart
+1,37,C. Davis,http://dbpedia.org/resource/Colin_Davis,"http://dbpedia.org/resource/Davis,_Carl http://dbpedia.org/resource/Karl_Davis http://dbpedia.org/resource/Carl_Davis"
+1,38,S. Productions,http://dbpedia.org/resource/Pandro_S._Berman,http://dbpedia.org/resource/Score_Productions
+1,42,S. Productions,http://dbpedia.org/resource/Pandro_S._Berman,http://dbpedia.org/resource/Score_Productions
+1,43,B. Foster,http://dbpedia.org/resource/Stephen_Foster,http://dbpedia.org/resource/Ben_Foster_(actor) http://dbpedia.org/resource/Ben_Foster
+1,44,J. McPhillips,http://dbpedia.org/resource/Phillip_Phillips,http://dbpedia.org/resource/John_McPhillips
+1,49,T. Jones,http://dbpedia.org/resource/Thad_Jones,http://dbpedia.org/resource/Trevor_Jones_(composer)
+1,50,M. Messina,http://dbpedia.org/resource/Jim_Messina_(musician),http://dbpedia.org/resource/Matt_Messina http://dbpedia.org/resource/Mateo_Messina
+1,52,N. Wang,http://dbpedia.org/resource/Nina_Wang,http://dbpedia.org/resource/Nathan_wang http://dbpedia.org/resource/Wang_Zongxian http://dbpedia.org/resource/Nathan_Wang
+1,56,K. Nakagawa,http://dbpedia.org/resource/Katsuhiko_Nakagawa,http://dbpedia.org/resource/Kotaro_Nakagawa http://dbpedia.org/resource/Nakagawa_Koutarou http://dbpedia.org/resource/Koutarou_Nakagawa http://dbpedia.org/resource/Nakagawa_Kotaro http://dbpedia.org/resource/Kōtarō_Nakagawa http://dbpedia.org/resource/Kotarou_Nakagawa
+1,57,V. Music,http://dbpedia.org/resource/V._Dakshinamoorthy,"http://dbpedia.org/resource/Vanacore_music http://dbpedia.org/resource/David_Vanacore_Music,_LLC http://dbpedia.org/resource/Vanacore_Music http://dbpedia.org/resource/David_Vanacore_Music"
+1,59,S. Allman,http://dbpedia.org/resource/Gregg_Allman,http://dbpedia.org/resource/Sheldon_Allman
+1,60,S. Allman,http://dbpedia.org/resource/Gregg_Allman,http://dbpedia.org/resource/Sheldon_Allman
+1,64,M. Garson,http://dbpedia.org/resource/Mike_Garson,http://dbpedia.org/resource/Lucifer_(Recording_Artist) http://dbpedia.org/resource/Mort_Garson
+1,65,J. Douglas,http://dbpedia.org/resource/Jahméne,http://dbpedia.org/resource/Johnny_Douglas_(conductor)
+1,67,G. Fenton,http://dbpedia.org/resource/Frank_Fenton_(actor),http://dbpedia.org/resource/George_Fenton
+1,71,J. S. Lindsay,http://dbpedia.org/resource/James_J._Lindsay,http://dbpedia.org/resource/Julian_Stewart_Lindsay http://dbpedia.org/resource/Julian_Lindsay
+1,75,E. Welch,http://dbpedia.org/resource/Florence_Welch,http://dbpedia.org/resource/Ed_Welch
+1,81,T. Transcenders,http://dbpedia.org/resource/Transcendental_number,http://dbpedia.org/resource/The_Transcenders
+1,85,P. Griffin,http://dbpedia.org/resource/Patty_Griffin,http://dbpedia.org/resource/Patrick_Griffin http://dbpedia.org/resource/Patrick_Griffin_(academic)
+1,88,S. Sim,http://dbpedia.org/resource/Sheila_Sim,http://dbpedia.org/resource/Samuel_Sim
+1,89,Z. Top,,http://dbpedia.org/resource/Z.Z._Top http://dbpedia.org/resource/ZZ_TOP http://dbpedia.org/resource/ZZ_Top http://dbpedia.org/resource/Z_Top http://dbpedia.org/resource/ZZTop http://dbpedia.org/resource/Zz_Top http://dbpedia.org/resource/Zztop http://dbpedia.org/resource/Billy_Etheridge http://dbpedia.org/resource/Dan_Mitchell_(musician) http://dbpedia.org/resource/Z_Z_Top http://dbpedia.org/resource/That_Little_Ol'_Band_From_Texas http://dbpedia.org/resource/Zz_top http://dbpedia.org/resource/Lanier_Greig http://dbpedia.org/resource/ĆĆ_Top http://dbpedia.org/resource/ZZ_top http://dbpedia.org/resource/Zz_tops
+1,92,W. Schumann,http://dbpedia.org/resource/Robert_Schumann,http://dbpedia.org/resource/Walter_Schumann
+1,93,W. Schumann,http://dbpedia.org/resource/Robert_Schumann,http://dbpedia.org/resource/Walter_Schumann
+1,96,M. Lira,http://dbpedia.org/resource/Pedro_Lira,http://dbpedia.org/resource/Michael_Lira http://dbpedia.org/resource/Michael_lira
+1,97,K. Valentine,http://dbpedia.org/resource/Kevin_Valentine,http://dbpedia.org/resource/Kathy_Valentine
+1,99,B. Broughton,"http://dbpedia.org/resource/John_Hobhouse,_1st_Baron_Broughton",http://dbpedia.org/resource/Bruce_Broughton
+1,100,R. Kent,http://dbpedia.org/resource/Rockwell_Kent,http://dbpedia.org/resource/Rolfe_Kent
+1,102,D. N. Lawrence,http://dbpedia.org/resource/David_Lawrence_(composer),http://dbpedia.org/resource/David_Nessim_Lawrence
+1,104,T. Nichols,http://dbpedia.org/resource/Todd_Nichols_(musician),http://dbpedia.org/resource/Ted_Nichols
+1,107,C. Davis,http://dbpedia.org/resource/Colin_Davis,"http://dbpedia.org/resource/Davis,_Carl http://dbpedia.org/resource/Karl_Davis http://dbpedia.org/resource/Carl_Davis"

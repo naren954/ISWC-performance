@@ -1,0 +1,5 @@
+"F1: 0.70000","Precision: 0.70000","Recall: 0.70000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","2","Pudhu Pudhu Ragangal","http://dbpedia.org/resource/Pudhu_Pudhu_Arthangal","http://dbpedia.org/resource/Pudhu_Pudhu_Ragangal"
+"1","18","Natpukaaga","nan","http://dbpedia.org/resource/Natpukkaga http://dbpedia.org/resource/Natpukkaaga http://dbpedia.org/resource/Natpukaaga"
+"1","19","Chinna Durai","http://dbpedia.org/resource/Chinna_Durai_(1952_film)","http://dbpedia.org/resource/Chinna_Durai http://dbpedia.org/resource/Chinna_Durai_(disambiguation)"

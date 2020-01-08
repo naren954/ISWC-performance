@@ -1,0 +1,12 @@
+F1: 0.86842,Precision: 0.86842,Recall: 0.86842,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,5,The Defector,http://dbpedia.org/resource/The_Defector_(Silva_novel),http://dbpedia.org/resource/The_Defector_(novel) http://dbpedia.org/resource/The_Defector_(Daniel_Silva_novel)
+0,6,The Deep,http://dbpedia.org/resource/Dive_Deep,http://dbpedia.org/resource/The_Deep_(Helen_Dunmore_novel) http://dbpedia.org/resource/The_Deep_(Dunmore_novel)
+0,8,The Decision,http://dbpedia.org/resource/Tonight's_Decision,http://dbpedia.org/resource/The_Decision_(novel) http://dbpedia.org/resource/The_Decision_(Animorphs)
+0,16,The Dead,http://dbpedia.org/resource/Red_Dead_Redemption,http://dbpedia.org/resource/Jordan_Hordern http://dbpedia.org/resource/The_Dead_(Higson_novel) http://dbpedia.org/resource/Damien_Sullivan http://dbpedia.org/resource/Liam_Thorne http://dbpedia.org/resource/Greg_Thorne http://dbpedia.org/resource/Frederique_Morel http://dbpedia.org/resource/Kwanele_Nkosi http://dbpedia.org/resource/The_Dead_(novel)
+0,36,The Dark Path,http://dbpedia.org/resource/The_Dark_Path_(McIntee_novel),http://dbpedia.org/resource/The_Dark_Path_(Doctor_Who) http://dbpedia.org/resource/The_Dark_Path_(novel)
+0,41,The Dark,http://dbpedia.org/resource/The_Dark_Tower_(series),http://dbpedia.org/resource/The_Dark_(Curley_novel)
+0,57,The Crow,http://dbpedia.org/resource/Jump_Jim_Crow,http://dbpedia.org/resource/The_Crow_(novel)
+0,58,The Crossing,http://dbpedia.org/resource/The_Crossing_(video_game),http://dbpedia.org/resource/The_Crossing_(Cormac_McCarthy_novel) http://dbpedia.org/resource/The_Crossing_(McCarthy_novel)
+0,62,The Crisis,http://dbpedia.org/resource/Crisis_on_Infinite_Earths,http://dbpedia.org/resource/The_Crisis_(novel)
+0,74,The Conspiracy,http://dbpedia.org/resource/Conspiracy_(Star_Trek:_The_Next_Generation),http://dbpedia.org/resource/The_Conspiracy_(Animorphs) http://dbpedia.org/resource/The_Conspiracy_(novel)

@@ -1,0 +1,15 @@
+F1: 0.27778,Precision: 0.27778,Recall: 0.27778,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,El VigÃ­a,http://dbpedia.org/resource/Atlético_El_Vigía_F.C.,http://dbpedia.org/resource/Atlético_El_Vigía
+0,3,AtlÃ©tico Venezuela,http://dbpedia.org/resource/Atlético_Nacional,http://dbpedia.org/resource/Atlético_Venezuela
+0,4,Carabobo,http://dbpedia.org/resource/Carabobo_F.C.,http://dbpedia.org/resource/Carabobo_FC http://dbpedia.org/resource/Carabobo_Futbol_Club http://dbpedia.org/resource/Carabobo_Fútbol_Club http://dbpedia.org/resource/Carabobo_Football_Club
+0,6,CaronÃ­,http://es.dbpedia.org/resource/Banco_Caroní,http://dbpedia.org/resource/Caroní_FC
+0,7,Deportivo AnzoÃ¡tegui,http://dbpedia.org/resource/Deportivo_Anzoátegui_S.C.,http://dbpedia.org/resource/Deportivo_Anzoátegui
+0,9,Deportivo Petare,http://dbpedia.org/resource/Deportivo_Petare_F.C.,http://dbpedia.org/resource/Deportivo_Italia_Fútbol_Club http://dbpedia.org/resource/Deportivo_Italchacao http://dbpedia.org/resource/Italchaco http://dbpedia.org/resource/Deportivo_Italia http://dbpedia.org/resource/Deportivo_Petare http://dbpedia.org/resource/Deportivo_Chacao_F.C. http://dbpedia.org/resource/ItalChacao
+0,10,Deportivo TÃ¡chira,http://dbpedia.org/resource/Deportivo_Táchira_F.C.,http://dbpedia.org/resource/Deportivo_Táchira
+0,11,Estudiantes,http://dbpedia.org/resource/Estudiantes_de_La_Plata,http://dbpedia.org/resource/Estudiantes_de_Mérida
+0,14,Real Esppor,http://dbpedia.org/resource/Warner_Music_Group,http://dbpedia.org/resource/Deportivo_La_Guaira http://dbpedia.org/resource/Real_Esppor_Caracas http://dbpedia.org/resource/Real_Esppor http://dbpedia.org/resource/Real_Esppor_Club
+0,15,Trujillanos,http://dbpedia.org/resource/Trujillanos_F.C.,http://dbpedia.org/resource/Trujillanos_FC http://dbpedia.org/resource/Trujillanos_Fútbol_Club http://dbpedia.org/resource/Trujillanos_Futbol_Club
+0,16,Yaracuyanos,http://dbpedia.org/resource/Yaracuyanos_F.C.,http://dbpedia.org/resource/Yaracuyanos_FC http://dbpedia.org/resource/Yaracuyanos_Fútbol_Club
+0,17,Zamora,http://dbpedia.org/resource/Zamora_CF,http://dbpedia.org/resource/Zamora_Futbol_Club http://dbpedia.org/resource/Zamora_Fútbol_Club http://dbpedia.org/resource/Zamora_FC
+0,18,Zulia,http://dbpedia.org/resource/Águilas_del_Zulia,http://dbpedia.org/resource/Zulia_FC http://dbpedia.org/resource/Zulia_Fútbol_Club

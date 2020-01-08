@@ -1,0 +1,7 @@
+"F1: 0.80000","Precision: 0.80000","Recall: 0.80000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","5","V. Aliyev","http://dbpedia.org/resource/Heydar_Aliyev","http://dbpedia.org/resource/Vagif_Aliyev"
+"0","10","Saul N. Ramirez, Jr.","http://dbpedia.org/resource/Saul_N._Ramirez_Jr.","http://dbpedia.org/resource/Saul_N._Ramirez,_Jr. http://dbpedia.org/resource/Saul_N._Ramirez,Jr."
+"0","15","R. Negoiță","http://dbpedia.org/resource/Liviu_Negoiță","http://dbpedia.org/resource/Robert_Negoita http://dbpedia.org/resource/Robert_Sorin_Negoita http://dbpedia.org/resource/Robert_Negoiță http://dbpedia.org/resource/Robert_Sorin_Negoiță"
+"0","23","P. Elmo Futrell Jr.","nan","http://dbpedia.org/resource/P._Elmo_Futrell_Jr. http://dbpedia.org/resource/P._Elmo_Futrell,_Jr."
+"0","24","O. L. Gozos","http://dbpedia.org/resource/Oscar_Gozos","http://dbpedia.org/resource/Oscar_L._Gozos"

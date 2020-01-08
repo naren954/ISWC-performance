@@ -1,0 +1,26 @@
+F1: 0.86286,Precision: 0.86286,Recall: 0.86286,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,8,J. Lee,http://dbpedia.org/resource/Janet_Lee,http://dbpedia.org/resource/Jack_Lee_(American_football)
+0,9,J. Johnson,http://dbpedia.org/resource/Johnny_Johnson_(American_football),"http://dbpedia.org/resource/Jack_Johnson_(American_football,_born_1933) http://dbpedia.org/resource/Jack_Johnson_(defensive_back)"
+0,12,J. Harris,http://dbpedia.org/resource/Jackie_Harris,http://dbpedia.org/resource/Jack_Harris_(American_football)
+0,17,J. Davis,http://dbpedia.org/resource/Jose_Davis,"http://dbpedia.org/resource/Jack_Davis_(guard,_born_1933)"
+0,29,I. Williams,http://dbpedia.org/resource/Ian_Williams_(American_football),http://dbpedia.org/resource/Ike_Williams_(American_football)
+0,44,H. Muhlmann,http://dbpedia.org/resource/Horst_Mühlmann,http://dbpedia.org/resource/Horst_Muhlmann
+0,50,H. Dixon,http://dbpedia.org/resource/Hanford_Dixon,http://dbpedia.org/resource/Hewritt_Dixon
+0,54,H. G. Jr.,http://dbpedia.org/resource/William_H._Ginn_Jr.,"http://dbpedia.org/resource/Herb_Gilbert_Jnr http://dbpedia.org/resource/Herb_Gilbert,_Jr http://dbpedia.org/resource/Herb_Gilbert,_Jnr. http://dbpedia.org/resource/Herb_Gilbert,_Jr."
+0,61,H. Hammond,"http://dbpedia.org/resource/Henry_Hammond_(footballer,_born_1866)",http://dbpedia.org/resource/Henry_Hammond_(American_football)
+0,73,H. Harris,http://dbpedia.org/resource/Henry_Harris_(American_football),http://dbpedia.org/resource/Harry_Harris_(American_football)
+0,88,H. Thompson,http://dbpedia.org/resource/Harry_Thompson_(American_football),http://dbpedia.org/resource/Hal_Thompson
+0,93,H. Griggs,http://dbpedia.org/resource/Billy_Griggs_(American_football),http://dbpedia.org/resource/Hal_Griggs_(American_football)
+0,107,G. Campbell,http://dbpedia.org/resource/George_Campbell_(American_football),http://dbpedia.org/resource/Glenn_Campbell_(American_football)
+0,114,G. Wilson,http://dbpedia.org/resource/Gillis_Wilson,http://dbpedia.org/resource/George_Wilson_(basketball_forward) http://dbpedia.org/resource/George_Wilson_(American_football_coach) http://dbpedia.org/resource/George_Wilson_(football_coach)
+0,115,G. Wilde,http://dbpedia.org/resource/George_Wilde_(American_football),http://dbpedia.org/resource/George_Wilde
+0,127,G. Schmidt,http://de.dbpedia.org/resource/Gregory_Schmidt,http://dbpedia.org/resource/George_Schmidt
+0,128,G. S. Jr.,http://dbpedia.org/resource/George_Sauer_Jr.,"http://dbpedia.org/resource/George_Sauer,_Jr http://dbpedia.org/resource/George_Sauer,_Jr."
+0,143,G. Christensen,http://dbpedia.org/resource/George_Christensen_(American_football),http://dbpedia.org/resource/George_Christensen
+0,151,G. Atkins,http://dbpedia.org/resource/Geno_Atkins,http://dbpedia.org/resource/George_Atkins_(American_football)
+0,152,G. Wilson,http://dbpedia.org/resource/Gillis_Wilson,http://dbpedia.org/resource/Gene_Wilson_(American_football)
+0,153,G. Smith,http://dbpedia.org/resource/George_Smith_(second_baseman),http://dbpedia.org/resource/Gene_Smith_(American_football_guard)
+0,160,G. Smith,http://dbpedia.org/resource/George_Smith_(second_baseman),http://dbpedia.org/resource/Gaylon_Smith
+0,163,G. Gregory,http://dbpedia.org/resource/Glynn_Gregory,http://dbpedia.org/resource/Garland_Gregory
+0,167,F. Peters,http://dbpedia.org/resource/Floyd_Peters,http://dbpedia.org/resource/Frosty_Peters

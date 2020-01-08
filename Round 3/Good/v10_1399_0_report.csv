@@ -1,0 +1,7 @@
+F1: 0.86842,Precision: 0.86842,Recall: 0.86842,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,A. Bakkerud,http://dbpedia.org/resource/Christian_Bakkerud,http://dbpedia.org/resource/Andreas_Bakkerud
+0,11,A. C. Jr.,http://dbpedia.org/resource/Adrián_Campos_Jr.,"http://dbpedia.org/resource/Alfonso_Celis_Jr. http://dbpedia.org/resource/Alfonso_Celis http://dbpedia.org/resource/Alfonso_Celis,_Jr."
+0,20,A. Müller,http://dbpedia.org/resource/Andreas_Müller_(footballer),http://dbpedia.org/resource/Alexander_Müller_(racing_driver) http://dbpedia.org/resource/Alex_Müller_(racing_driver) http://dbpedia.org/resource/Alex_Muller_(racing_driver)
+0,23,A. Müller,http://dbpedia.org/resource/Andreas_Müller_(footballer),http://dbpedia.org/resource/Alexander_Müller_(racing_driver) http://dbpedia.org/resource/Alex_Müller_(racing_driver) http://dbpedia.org/resource/Alex_Muller_(racing_driver)
+0,35,A. Paya,http://de.dbpedia.org/resource/Agustín_Payá,http://dbpedia.org/resource/Agustin_Paya

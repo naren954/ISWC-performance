@@ -1,0 +1,9 @@
+F1: 0.84444,Precision: 0.84444,Recall: 0.84444,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,6,Chris Sheldon,http://dbpedia.org/resource/Tony_Sheldon,http://dbpedia.org/resource/Chris_Sheldon
+1,12,Stereotypes,http://dbpedia.org/resource/Stereotypes_(song),http://dbpedia.org/resource/Jeremy_Reeves http://dbpedia.org/resource/Stereotypes_(producers) http://dbpedia.org/resource/Ray_Romulos http://dbpedia.org/resource/Stereotypes_(production_team) http://dbpedia.org/resource/Jonathan_Yip http://dbpedia.org/resource/The_Stereotypes
+1,14,Paul Savage,http://dbpedia.org/resource/Paul_Savage_(curler),http://dbpedia.org/resource/Paul_Savage
+1,16,Brian Ahern,http://dbpedia.org/resource/Brian_Aherne,http://dbpedia.org/resource/Brian_Ahern_(producer)
+1,27,Steve Lindsey,http://dbpedia.org/resource/Lindsey_Graham,http://dbpedia.org/resource/Steve_Clark_Lindsey http://dbpedia.org/resource/Steve_Lindsey
+1,40,Charles Fisher,http://dbpedia.org/resource/Charles_W._Fisher,http://dbpedia.org/resource/Charles_Fisher_(producer)
+1,44,Ph.D.,http://dbpedia.org/resource/Donald_Knuth,http://dbpedia.org/resource/Ph.D._(band) http://dbpedia.org/resource/PhD_(band)

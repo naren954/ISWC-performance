@@ -1,0 +1,5 @@
+"F1: 0.70000","Precision: 0.70000","Recall: 0.70000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","2","T. McNally","http://dbpedia.org/resource/Johnny_""Blood""_McNally","http://dbpedia.org/resource/Terrance_McNally http://dbpedia.org/resource/Terrence_McNally"
+"1","4","E. Drake","http://dbpedia.org/resource/Alfred_Drake","http://dbpedia.org/resource/Ervin_Drake"
+"1","7","M. Stewart","http://dbpedia.org/resource/James_Stewart","http://dbpedia.org/resource/Michael_Stewart_(playwright)"

@@ -1,0 +1,7 @@
+"F1: 0.61538","Precision: 0.61538","Recall: 0.61538"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"3","1","Quinceañera","http://dbpedia.org/resource/Quinceañera_(film)","http://dbpedia.org/resource/Quinceanera_(telenovela) http://dbpedia.org/resource/Quinceañera_(TV_series) http://dbpedia.org/resource/Quinceañera_(telenovela) http://dbpedia.org/resource/Quinceanera_(TV_series)"
+"3","2","A Corazón Abierto","http://dbpedia.org/resource/A_corazón_abierto_(Colombian_TV_series)","http://dbpedia.org/resource/A_Corazón_Abierto_(Mexico) http://dbpedia.org/resource/A_Corazon_Abierto_(Mexico) http://dbpedia.org/resource/A_corazon_abierto_(Mexican_telenovela) http://dbpedia.org/resource/A_corazón_abierto_(Mexican_telenovela) http://dbpedia.org/resource/A_Corazon_Abierto_(Mexican_telenovela) http://dbpedia.org/resource/A_Corazón_Abierto_(Mexican_telenovela)"
+"3","3","Velo de novia","http://dbpedia.org/resource/Velo_de_novia_(1971_TV_series)","http://dbpedia.org/resource/Velo_de_Novia http://dbpedia.org/resource/Velo_de_novia"
+"3","10","Muqaddas","http://dbpedia.org/resource/Muqaddas_(TV_series)","http://dbpedia.org/resource/Muqaddas http://dbpedia.org/resource/Al-Muqaddas"
+"3","11","Sakthi","http://dbpedia.org/resource/Sakthi_(1980_film)","http://dbpedia.org/resource/Sakthi_(TV_series) http://dbpedia.org/resource/Shakthi_(TV_series)"

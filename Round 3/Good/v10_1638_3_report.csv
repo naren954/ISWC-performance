@@ -1,0 +1,3 @@
+F1: 0.97778,Precision: 0.97778,Recall: 0.97778,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,10,The Glimmer Twins,http://dbpedia.org/resource/Keith_Richards,http://dbpedia.org/resource/Mick_Jagger/Keith_Richards http://dbpedia.org/resource/Richards/Jagger http://dbpedia.org/resource/Glimmer_Twins http://dbpedia.org/resource/Jagger/Richards http://dbpedia.org/resource/The_Glimmer_Twins

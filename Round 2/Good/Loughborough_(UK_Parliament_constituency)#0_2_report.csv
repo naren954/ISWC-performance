@@ -1,0 +1,4 @@
+F1: 0.84615,Precision: 0.84615,Recall: 0.84615,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,1,"Sir Edward Johnson-Ferguson, 1st Baronet",http://dbpedia.org/resource/Edward_Cust,"http://dbpedia.org/resource/Edward_Johnson-Ferguson http://dbpedia.org/resource/Sir_Edward_Johnson-Ferguson,_1st_Baronet"
+2,3,"Sir Edward Johnson-Ferguson, 1st Baronet",http://dbpedia.org/resource/Edward_Cust,"http://dbpedia.org/resource/Edward_Johnson-Ferguson http://dbpedia.org/resource/Sir_Edward_Johnson-Ferguson,_1st_Baronet"

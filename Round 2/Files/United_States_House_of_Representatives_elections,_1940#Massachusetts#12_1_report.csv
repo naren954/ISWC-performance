@@ -1,0 +1,5 @@
+"F1: 0.88889","Precision: 0.88889","Recall: 0.88889"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","19","William H. Wheat","http://dbpedia.org/resource/William_H._West","http://dbpedia.org/resource/William_Wheat http://dbpedia.org/resource/William_H._Wheat"
+"1","20","James M. Barnes","http://dbpedia.org/resource/James_M._Barnes_(politician)","http://dbpedia.org/resource/James_Martin_Barnes_(Illinois) http://dbpedia.org/resource/James_Martin_Barnes http://dbpedia.org/resource/James_M._Barnes_(congressman)"
+"1","26","John C. Martin","http://dbpedia.org/resource/John_C._Martin_(politician)","http://dbpedia.org/resource/John_C._Martin_(Illinois_Congressman) http://dbpedia.org/resource/John_Cunningham_Martin"

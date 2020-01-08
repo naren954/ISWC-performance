@@ -1,0 +1,4 @@
+F1: 0.90476,Precision: 0.90476,Recall: 0.90476,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,African Express Airways,http://dbpedia.org/resource/British_Airways,http://dbpedia.org/resource/AXK_(airline) http://dbpedia.org/resource/African_Express_Airways
+0,5,Air India Express,http://dbpedia.org/resource/Air_India,http://dbpedia.org/resource/Air-India_Express http://dbpedia.org/resource/Airindia_Express http://dbpedia.org/resource/Air_India_Express http://dbpedia.org/resource/Air_India_Charters_Limited http://dbpedia.org/resource/Air_India_Charters http://dbpedia.org/resource/Air_India_Expess http://dbpedia.org/resource/AI_Express

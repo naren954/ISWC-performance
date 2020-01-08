@@ -1,0 +1,5 @@
+F1: 0.25000,Precision: 0.25000,Recall: 0.25000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,North Queensland Cowboys,http://dbpedia.org/resource/North_Queensland,http://dbpedia.org/resource/Nq_cowboys http://dbpedia.org/resource/Cowboys_1996 http://dbpedia.org/resource/North_Queensland_Cowboys_U20 http://dbpedia.org/resource/North_Queensland_Cowboys http://dbpedia.org/resource/Cowboys_1995 http://dbpedia.org/resource/NQ_Cowboys http://dbpedia.org/resource/Peter_Parr http://dbpedia.org/resource/Peter_Parr_(ceo)
+0,3,Melbourne Storm,http://dbpedia.org/resource/Melbourne,http://dbpedia.org/resource/History_of_the_Melbourne_Storm http://dbpedia.org/resource/Melbourne_Storm
+0,4,Penrith Panthers,"http://dbpedia.org/resource/Penrith,_Cumbria",http://dbpedia.org/resource/Penrith_Panthers

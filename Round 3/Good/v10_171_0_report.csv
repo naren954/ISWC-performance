@@ -1,0 +1,5 @@
+F1: 0.95946,Precision: 0.95946,Recall: 0.95946,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,5,C. Zhang,http://dbpedia.org/resource/Zhang_Wen_(badminton),http://dbpedia.org/resource/Caroline_Zhang http://dbpedia.org/resource/Zhang_Caroline
+0,47,A. Chong,http://dbpedia.org/resource/Andrea_Chong,http://dbpedia.org/resource/Anja_Chong
+0,58,A. Vaturi,http://dbpedia.org/resource/Simone_Vaturi,http://dbpedia.org/resource/Andrea_Vaturi

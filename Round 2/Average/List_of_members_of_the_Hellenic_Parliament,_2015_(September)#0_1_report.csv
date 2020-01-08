@@ -1,0 +1,4 @@
+F1: 0.75000,Precision: 0.75000,Recall: 0.75000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,6,The River (Potami),http://dbpedia.org/resource/Club_Atlético_River_Plate,http://dbpedia.org/resource/To_Potami http://dbpedia.org/resource/The_River_(Greece)
+1,8,Union of Centrists (EK),http://dbpedia.org/resource/Democratic_Party_(United_States),http://dbpedia.org/resource/Union_of_Centrists http://dbpedia.org/resource/Enosi_Kentroon http://dbpedia.org/resource/Ένωση_Κεντρώων

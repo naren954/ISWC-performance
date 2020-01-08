@@ -1,0 +1,6 @@
+F1: 0.42857,Precision: 0.42857,Recall: 0.42857,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,4,Paul-James Corrigan,http://dbpedia.org/resource/James_Corrigan,http://dbpedia.org/resource/Paul-James_Corrigan
+0,8,Leah MacRae,http://dbpedia.org/resource/Leah_Poulos-Mueller,http://dbpedia.org/resource/Leah_MacRae
+0,9,Callum Cuthbertson,http://dbpedia.org/resource/Allan_Cuthbertson,http://dbpedia.org/resource/Callum_Cuthbertson
+0,10,James Allenby-Kirk,http://dbpedia.org/resource/James_T._Kirk,http://dbpedia.org/resource/James_Allenby-Kirk

@@ -1,0 +1,4 @@
+F1: 0.90000,Precision: 0.90000,Recall: 0.90000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,18,Ghost Town,http://dbpedia.org/resource/Ghost_Town_(Cheap_Trick_song),http://dbpedia.org/resource/Ghost_town_(movie) http://dbpedia.org/resource/Ghost_Town_(2008_film)
+1,19,In Bruges,,http://dbpedia.org/resource/In_Bruges_(film) http://dbpedia.org/resource/In_Bruge http://dbpedia.org/resource/In_bruges http://dbpedia.org/resource/In_Bruges

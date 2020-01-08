@@ -1,0 +1,69 @@
+F1: 0.62983,Precision: 0.62983,Recall: 0.62983,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,3,E. M. Hopper,http://dbpedia.org/resource/Dennis_Hopper,http://dbpedia.org/resource/Mason_Hopper http://dbpedia.org/resource/E._Mason_Hopper http://dbpedia.org/resource/E_Mason_Hopper
+2,6,J. Brahm,http://dbpedia.org/resource/Johannes_Brahms,http://dbpedia.org/resource/John_Brahm
+2,10,F. Bouvier,http://dbpedia.org/resource/Jacqueline_Kennedy_Onassis,http://dbpedia.org/resource/François_Bouvier
+2,13,B. Windust,http://dbpedia.org/resource/Penelope_Windust,http://dbpedia.org/resource/Bretaigne_Windust
+2,14,W. Richert,http://dbpedia.org/resource/Hans-Egon_Richert,http://dbpedia.org/resource/William_Richert
+2,27,A. Varney,http://dbpedia.org/resource/Jim_Varney,http://dbpedia.org/resource/Arthur_Varney http://dbpedia.org/resource/Amerigo_Serrao http://dbpedia.org/resource/Grover_Lee
+2,30,J. Orton,http://dbpedia.org/resource/Joe_Orton,http://dbpedia.org/resource/John_Andrew_Orton http://dbpedia.org/resource/John_Orton
+2,31,H. Cass,http://dbpedia.org/resource/Peggy_Cass,http://dbpedia.org/resource/Henry_Cass
+2,33,T. Sheridan,http://dbpedia.org/resource/Tony_Sheridan,http://dbpedia.org/resource/Taylor_Sheridan
+2,35,T. McCarthy,http://dbpedia.org/resource/Kevin_McCarthy_(actor),http://dbpedia.org/resource/Thomas_McCarthy_(director) http://dbpedia.org/resource/Thomas_McCarthy_(actor) http://dbpedia.org/resource/Tom_McCarthy_(director) http://dbpedia.org/resource/Tom_McCarthy_(actor) http://dbpedia.org/resource/Thomas_McCarthy_(entertainer)
+2,37,H. King,http://dbpedia.org/resource/Bhumibol_Adulyadej,http://dbpedia.org/resource/Henry_King_(director)
+2,40,H. Paul,http://dbpedia.org/resource/Hermann_Paul,http://dbpedia.org/resource/Heinz_Paul
+2,41,G. Morgan,http://dbpedia.org/resource/George_Morgan_(singer),http://dbpedia.org/resource/Glen_Morgan
+2,42,D. Mann,http://dbpedia.org/resource/Delbert_Mann,"http://dbpedia.org/resource/Daniel_Mann http://dbpedia.org/resource/Mann,_Daniel"
+2,45,M. Anderson,http://dbpedia.org/resource/Marian_Anderson,http://dbpedia.org/resource/Michael_Joseph_Anderson http://dbpedia.org/resource/Michael_Anderson_(film_director) http://dbpedia.org/resource/Michael_Anderson_(director)
+2,46,E. Perry,http://dbpedia.org/resource/Katy_Perry,http://dbpedia.org/resource/Ellen_Perry
+2,47,Z. King,http://dbpedia.org/resource/Vajiravudh,http://dbpedia.org/resource/Zalman_King http://dbpedia.org/resource/Zalman_King_Lefkowitz
+2,48,K. Roberts,http://dbpedia.org/resource/Keith_Roberts,http://dbpedia.org/resource/Kim_Roberts_(filmmaker)
+2,50,F. McDonald,http://dbpedia.org/resource/Francis_McDonald,http://dbpedia.org/resource/Frank_McDonald_(director)
+2,51,B. Shear,http://dbpedia.org/resource/Norma_Shearer,http://dbpedia.org/resource/Barry_Shear
+2,52,P. Dunne,http://dbpedia.org/resource/Griffin_Dunne,http://dbpedia.org/resource/Philip_Dunne(writer) http://dbpedia.org/resource/Philip_Dunne_(writer)
+2,55,M. Anderson,http://dbpedia.org/resource/Marian_Anderson,http://dbpedia.org/resource/Michael_Joseph_Anderson http://dbpedia.org/resource/Michael_Anderson_(film_director) http://dbpedia.org/resource/Michael_Anderson_(director)
+2,56,P. Carey,http://dbpedia.org/resource/Philip_Carey,http://dbpedia.org/resource/Patrick_Carey_(cinematographer)
+2,58,C. Archer,http://dbpedia.org/resource/Anne_Archer,http://dbpedia.org/resource/Cam_Archer
+2,62,S. Franklin,http://dbpedia.org/resource/Aretha_Franklin,http://dbpedia.org/resource/Sidney_Franklin_(director)
+2,63,L. King,http://dbpedia.org/resource/William_Lyon_Mackenzie_King,http://dbpedia.org/resource/Louis_King
+2,64,C. Franklin,http://dbpedia.org/resource/Carolyn_Franklin,http://dbpedia.org/resource/Chester_M._Franklin http://dbpedia.org/resource/Chester_Franklin
+2,66,D. Petrie,http://dbpedia.org/resource/Flinders_Petrie,"http://dbpedia.org/resource/Daniel_Petrie,_Sr. http://dbpedia.org/resource/Daniel_Petrie"
+2,67,W. Becker,http://dbpedia.org/resource/Walter_Becker,http://dbpedia.org/resource/Walt_Becker
+2,71,J. Brahm,http://dbpedia.org/resource/Johannes_Brahms,http://dbpedia.org/resource/John_Brahm
+2,74,V. Sala,http://dbpedia.org/resource/Emiliano_Sala,http://dbpedia.org/resource/Vittorio_Sala
+2,75,A. Denis,http://fr.dbpedia.org/resource/André_Denis,http://dbpedia.org/resource/Armand_Denis http://dbpedia.org/resource/Armand_and_Michaela
+2,78,J. Vallée,http://dbpedia.org/resource/Jean_Vallée,http://dbpedia.org/resource/Jean-Marc_Vallée
+2,79,R. F. McGowan,http://dbpedia.org/resource/J._P._McGowan,http://dbpedia.org/resource/Robert_F._McGowan
+2,80,M. Vicario,http://dbpedia.org/resource/Leona_Vicario,http://dbpedia.org/resource/Marco_Vicario
+2,82,N. Walker,http://dbpedia.org/resource/Nancy_Walker,http://dbpedia.org/resource/Norman_Walker_(director)
+2,85,K. Hughes,http://dbpedia.org/resource/Kevin_Hughes_(politician),http://dbpedia.org/resource/Ken_Hughes
+2,86,L. Cohen,http://dbpedia.org/resource/Leonard_Cohen,http://dbpedia.org/resource/Larry_Cohen
+2,87,M. Steinberg,http://dbpedia.org/resource/Maximilian_Steinberg,http://dbpedia.org/resource/Michael_Steinberg_(filmmaker)
+2,92,B. Yong-kyun,http://dbpedia.org/resource/Park_Yong-kyun,http://dbpedia.org/resource/Yong-Kyun_Bae http://dbpedia.org/resource/Bae_Yong_Kyun http://dbpedia.org/resource/Bae_Yong-kyun http://dbpedia.org/resource/Bae_Yong-gyun http://dbpedia.org/resource/Bae_Yong-Kyun http://dbpedia.org/resource/Bae_Yong-Kyoon http://dbpedia.org/resource/Bae_Yong_Kyoon http://dbpedia.org/resource/Bae_Yongkyun
+2,95,J. Badham,http://dbpedia.org/resource/Robert_Badham,http://dbpedia.org/resource/John_Badham
+2,96,T. Freeland,http://dbpedia.org/resource/Chrystia_Freeland,http://dbpedia.org/resource/Thornton_Freeland
+2,98,B. Dean,http://dbpedia.org/resource/James_Dean,http://dbpedia.org/resource/Basil_Dean
+2,100,G. Marchand,http://dbpedia.org/resource/Nancy_Marchand,http://dbpedia.org/resource/Gilles_Marchand
+2,101,R. Matarazzo,http://dbpedia.org/resource/Jayme_Matarazzo,http://dbpedia.org/resource/Raffaello_Matarazzo
+2,106,D. M. Paul,http://dbpedia.org/resource/Martin_Luther,http://dbpedia.org/resource/Don_Michael_Paul
+2,108,J. Foley,http://dbpedia.org/resource/James_Foley_(journalist),http://dbpedia.org/resource/James_Foley_(director) http://dbpedia.org/resource/Mary_Mother_of_Christ_(film)
+2,109,H. Morris,http://dbpedia.org/resource/Haviland_Morris,http://dbpedia.org/resource/Howard_Morris http://dbpedia.org/resource/Howie_Morris http://dbpedia.org/resource/Howie_morris
+2,110,H. Bretherton,http://dbpedia.org/resource/David_Bretherton,http://dbpedia.org/resource/Howard_Bretherton
+2,111,D. Mann,http://dbpedia.org/resource/Delbert_Mann,"http://dbpedia.org/resource/Daniel_Mann http://dbpedia.org/resource/Mann,_Daniel"
+2,115,L. Wiseman,http://dbpedia.org/resource/Frederick_Wiseman,http://dbpedia.org/resource/Len_Wiseman
+2,122,S. Newfield,http://dbpedia.org/resource/Jack_Newfield,http://dbpedia.org/resource/Sam_Newfield http://dbpedia.org/resource/Peter_Stewart_(director) http://dbpedia.org/resource/Sherman_Scott http://dbpedia.org/resource/Samuel_Neufeld
+2,131,S. Fuller,http://dbpedia.org/resource/Buckminster_Fuller,"http://dbpedia.org/resource/Samuel_Fuller http://dbpedia.org/resource/Sam_fuller http://dbpedia.org/resource/Fuller,_Samuel http://dbpedia.org/resource/Sam_Fuller"
+2,134,E. Goulding,http://dbpedia.org/resource/Glenn_Gould,http://dbpedia.org/resource/Edmond_Goulding http://dbpedia.org/resource/Edmund_Goulding
+2,135,D. Abrahams,http://dbpedia.org/resource/Abraham_Lincoln,http://dbpedia.org/resource/Derwin_Abrahams
+2,137,J. D. Jerry,http://dbpedia.org/resource/Jerry_Rawlings,http://dbpedia.org/resource/J.D._Jerry http://dbpedia.org/resource/J._D._Jerry http://dbpedia.org/resource/JD_Jerry http://dbpedia.org/resource/J._D.-_Jerry http://dbpedia.org/resource/Jd-Jerry http://dbpedia.org/resource/J_D_Jerry
+2,139,G. Pearson,http://dbpedia.org/resource/Geoffrey_Pearson,http://dbpedia.org/resource/George_Pearson_(filmmaker)
+2,140,F. Searle,http://dbpedia.org/resource/Ronald_Searle,http://dbpedia.org/resource/Francis_Searle
+2,144,E. Piñeyro,http://dbpedia.org/resource/Marcelo_Piñeyro,http://dbpedia.org/resource/Enrique_Piñeyro_(actor) http://dbpedia.org/resource/Enrique_Pineyro_(actor)
+2,145,L. Marquina,http://dbpedia.org/resource/Eduardo_Marquina,http://dbpedia.org/resource/Luis_Marquina
+2,149,L. Seiler,http://dbpedia.org/resource/Lutz_Seiler,http://dbpedia.org/resource/Lewis_Seiler
+2,150,D. Barrymore,http://dbpedia.org/resource/Diana_Barrymore,http://dbpedia.org/resource/Drew_Blyth_Barrymore http://dbpedia.org/resource/Drew_Berrymore http://dbpedia.org/resource/Drew_Barrymore http://dbpedia.org/resource/Drew_B_Barrymore http://dbpedia.org/resource/DrewBarrymore http://dbpedia.org/resource/Drew_barrymore http://dbpedia.org/resource/Drew_B._Barrymore http://dbpedia.org/resource/Drew_Barymore
+2,156,S. Montford,"http://dbpedia.org/resource/Simon_de_Montfort,_6th_Earl_of_Leicester",http://dbpedia.org/resource/Susan_Montford
+2,162,C. Franklin,http://dbpedia.org/resource/Carolyn_Franklin,http://dbpedia.org/resource/Chester_M._Franklin http://dbpedia.org/resource/Chester_Franklin
+2,167,H. Levin,http://dbpedia.org/resource/Ira_Levin,http://dbpedia.org/resource/Henry_Levin
+2,174,J. McPhail,http://dbpedia.org/resource/Billy_McPhail,http://dbpedia.org/resource/John_McPhail_(director)
+2,179,N. Pereda,http://dbpedia.org/resource/Antonio_de_Pereda,http://dbpedia.org/resource/Nicolás_Pereda http://dbpedia.org/resource/Nicolas_Pereda

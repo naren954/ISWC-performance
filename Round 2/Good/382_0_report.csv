@@ -1,0 +1,4 @@
+F1: 0.81818,Precision: 0.81818,Recall: 0.81818,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,10,International Affairs,http://dbpedia.org/resource/International_Relations_(journal),http://dbpedia.org/resource/International_Affairs_(Royal_Institute_of_International_Affairs_1944-) http://dbpedia.org/resource/International_Affairs_(journal)
+0,11,Interfaces,http://dbpedia.org/resource/Interface_Focus,http://dbpedia.org/resource/Interfaces_(journal) http://dbpedia.org/resource/Interfaces:_An_International_Journal_of_the_Institute_for_Operations_Research_and_the_Management_Science http://dbpedia.org/resource/Interfaces_(operations_research)

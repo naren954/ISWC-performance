@@ -1,0 +1,6 @@
+F1: 0.95062,Precision: 0.95062,Recall: 0.95062,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,4,Reform,http://dbpedia.org/resource/Reform_Club,http://dbpedia.org/resource/Reform_(horse)
+2,20,Troy,http://dbpedia.org/resource/Troy_Garity,http://dbpedia.org/resource/Troy_(horse)
+2,34,Hamburg,http://dbpedia.org/resource/Ulmus_'Hamburg',http://dbpedia.org/resource/Hamburg_(horse)
+2,65,Roberto,http://dbpedia.org/resource/Roberto_Marinho,http://dbpedia.org/resource/Roberto_(horse)

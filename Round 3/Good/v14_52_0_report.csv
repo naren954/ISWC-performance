@@ -1,0 +1,10 @@
+F1: 0.85714,Precision: 0.85714,Recall: 0.85714,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,6,J. Jones,http://dbpedia.org/resource/Joe_Jones_(basketball),http://dbpedia.org/resource/Jeff_Jones_(basketball) http://dbpedia.org/resource/Jeff_Jones_(basketball_coach)
+0,12,J. Thomas,http://dbpedia.org/resource/Joe_Thomas_(basketball),http://dbpedia.org/resource/Jay_Thomas_(football_coach) http://dbpedia.org/resource/Jay_Thomas_(American_football)
+0,18,J. Simpson,http://dbpedia.org/resource/Jerome_Simpson,http://dbpedia.org/resource/Jason_Simpson
+0,30,J. Murphy,http://dbpedia.org/resource/John_Murphy_(basketball),http://dbpedia.org/resource/Jack_Murphy_(basketball)
+0,31,J. Payne,http://dbpedia.org/resource/John_Payne_(American_football),http://dbpedia.org/resource/JR_Payne
+0,33,H. VanDerveer,http://dbpedia.org/resource/Tara_VanDerveer,http://dbpedia.org/resource/Heidi_VanDerveer
+0,36,"Harry Edward Welch, Jr.",http://dbpedia.org/resource/Harry_Edward_Welch_Jr.,"http://dbpedia.org/resource/Harry_Edward_Welch,_Jr. http://dbpedia.org/resource/Harry_Welch"
+0,52,G. Williams,http://dbpedia.org/resource/Gerald_Williams_(American_football),"http://dbpedia.org/resource/Gary_Bruce_Williams http://dbpedia.org/resource/Gary_Williams_(English_footballer) http://dbpedia.org/resource/Gary_Williams http://dbpedia.org/resource/Gary_Willams http://dbpedia.org/resource/Gary_Williams_(basketball) http://dbpedia.org/resource/Williams,_Gary"

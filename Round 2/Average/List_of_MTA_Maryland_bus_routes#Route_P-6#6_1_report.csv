@@ -1,0 +1,3 @@
+F1: 0.66667,Precision: 0.66667,Recall: 0.66667,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,3,Columbia (WB) Downtown Baltimore (EB),"http://dbpedia.org/resource/Columbia,_Missouri","http://dbpedia.org/resource/UN/LOCODE:USACW http://dbpedia.org/resource/Columbia,_md http://dbpedia.org/resource/Columbia,_Md. http://dbpedia.org/resource/Columbia_MD http://dbpedia.org/resource/Columbia,_MD http://dbpedia.org/resource/Columbia_(MD) http://dbpedia.org/resource/Columbia,_Maryland"

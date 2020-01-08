@@ -1,0 +1,4 @@
+F1: 0.98473,Precision: 0.98473,Recall: 0.98473,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,66,Cisatracurium besilate,http://dbpedia.org/resource/Atracurium_besilate,http://dbpedia.org/resource/ATCvet_code_QM03AC11 http://dbpedia.org/resource/Cis-atracurium http://dbpedia.org/resource/ATC_code_M03AC11 http://dbpedia.org/resource/Nimbex http://dbpedia.org/resource/Cisatracurium_besylate http://dbpedia.org/resource/Cisatracurium http://dbpedia.org/resource/Cisatracurium_besilate
+0,106,Azilsartan,,http://dbpedia.org/resource/Azilsartan_kamedoxomil http://dbpedia.org/resource/C25H20N4O5 http://dbpedia.org/resource/Edarbi http://dbpedia.org/resource/ATCvet_code_QC09CA09 http://dbpedia.org/resource/Azilsartan_medoxomil http://dbpedia.org/resource/ATC_code_C09CA09 http://dbpedia.org/resource/Azilsartan

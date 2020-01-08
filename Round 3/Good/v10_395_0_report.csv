@@ -1,0 +1,6 @@
+F1: 0.83333,Precision: 0.83333,Recall: 0.83333,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,8,Yellow Submarine,http://dbpedia.org/resource/Yellow_Submarine_(album),http://dbpedia.org/resource/We_all_live_in_a_yellow_submarine http://dbpedia.org/resource/Yellow_Submarine_(song) http://dbpedia.org/resource/Yellow_Submarine_(Song)
+0,10,Yellow & Green,http://dbpedia.org/resource/Yellow_&_Green_(Baroness_album),http://dbpedia.org/resource/Yellow_&_Green_(Ron_Carter_album)
+0,11,Yardbird Suite,http://dbpedia.org/resource/Yardbird_Suite_(Herbie_Mann_album),http://dbpedia.org/resource/Yardbird_Suite_(album)
+0,13,X Japan Returns 1993.12.31,http://dbpedia.org/resource/X_Japan_Returns_1993.12.30,http://dbpedia.org/resource/X_Japan_Returns_1993.12.31

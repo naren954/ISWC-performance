@@ -1,0 +1,4 @@
+"F1: 0.86667","Precision: 0.86667","Recall: 0.86667"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","13","Itzik Cohen","http://dbpedia.org/resource/Itzik_Cohen_(footballer,_born_1983)","http://dbpedia.org/resource/Itzik_Cohen_(footballer,_born_1990) http://dbpedia.org/resource/Itzik_Cohen_(footballer_born_1990)"
+"0","15","Bryan","http://dbpedia.org/resource/Joe_Bryan","http://dbpedia.org/resource/Bryan_Jones_Anicézio"

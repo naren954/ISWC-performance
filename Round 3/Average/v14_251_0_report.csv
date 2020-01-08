@@ -1,0 +1,6 @@
+F1: 0.71429,Precision: 0.71429,Recall: 0.71429,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,To Be or Not to Be,http://dbpedia.org/resource/To_Be_or_Not_to_Be_(album),http://dbpedia.org/resource/To_Be_or_Not_to_Be_(1942_film)
+0,2,To Be and to Have,http://dbpedia.org/resource/Have_a_Cigar,http://dbpedia.org/resource/To_Be_and_To_Have http://dbpedia.org/resource/Être_et_Avoir http://dbpedia.org/resource/To_be_and_to_have http://dbpedia.org/resource/Être_et_avoir http://dbpedia.org/resource/To_Be_&_to_Have http://dbpedia.org/resource/Etre_et_Avoir http://dbpedia.org/resource/To_Be_and_to_Have http://dbpedia.org/resource/Etre_et_avoir
+0,4,Titus,http://dbpedia.org/resource/La_clemenza_di_Tito,http://dbpedia.org/resource/Titus_(film http://dbpedia.org/resource/Titus_(film) http://dbpedia.org/resource/Titus_(1999_film) http://dbpedia.org/resource/Titus_(movie)
+0,6,Titanic,http://dbpedia.org/resource/Titanic_(1997_film),"http://dbpedia.org/resource/Titanic_(1953_movie) http://dbpedia.org/resource/Titanic_(1953_film) http://dbpedia.org/resource/1953_film_version_of_""Titanic."""

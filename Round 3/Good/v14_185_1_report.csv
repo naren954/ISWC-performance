@@ -1,0 +1,6 @@
+F1: 0.83333,Precision: 0.83333,Recall: 0.83333,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,4,Surface ectoderm,http://dbpedia.org/resource/Ectoderm,http://dbpedia.org/resource/Surface_ectoderm http://dbpedia.org/resource/External_ectoderm
+1,13,Surface ectoderm,http://dbpedia.org/resource/Ectoderm,http://dbpedia.org/resource/Surface_ectoderm http://dbpedia.org/resource/External_ectoderm
+1,21,Neural plate,http://dbpedia.org/resource/Neural_tube,http://dbpedia.org/resource/Neural_plate http://dbpedia.org/resource/Medullary_plate
+1,22,Neural plate,http://dbpedia.org/resource/Neural_tube,http://dbpedia.org/resource/Neural_plate http://dbpedia.org/resource/Medullary_plate

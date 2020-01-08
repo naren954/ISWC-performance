@@ -1,0 +1,5 @@
+"F1: 0.57143","Precision: 0.57143","Recall: 0.57143"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","2","Going My Way","http://dbpedia.org/resource/Michael_Jackson","http://dbpedia.org/resource/Going_my_way http://dbpedia.org/resource/Going_My_Way"
+"1","3","The Lost Weekend","http://dbpedia.org/resource/John_Lennon","http://dbpedia.org/resource/The_Lost_Weekend_(film)"
+"1","7","All the King's Men","http://dbpedia.org/resource/All_the_King's_Men_(2006_film)","http://dbpedia.org/resource/All_the_King's_Men_(1949_film)"

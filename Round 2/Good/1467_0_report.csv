@@ -1,0 +1,9 @@
+F1: 0.91954,Precision: 0.91954,Recall: 0.91954,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,7,Dabong Bridge,http://dbpedia.org/resource/Boone_Bridge,http://dbpedia.org/resource/Jambatan_Dabong http://dbpedia.org/resource/Dabong_Bridge
+0,9,Craigmore Viaduct,http://dbpedia.org/resource/Ribblehead_Viaduct,http://dbpedia.org/resource/Craigmore_Viaduct
+0,23,Cherry Avenue Bridge,http://dbpedia.org/resource/Third_Avenue_Bridge_(Minneapolis),http://dbpedia.org/resource/Cherry_Avenue_Bridge http://dbpedia.org/resource/Cherry_Avenue_bridge http://dbpedia.org/resource/North_Avenue_railroad_bridge
+0,30,Chain Bridge,http://dbpedia.org/resource/Chain_Bridge_(Massachusetts),http://dbpedia.org/resource/Széchenyi_Lánchíd http://dbpedia.org/resource/Széchenyi_Chain_Bridge http://dbpedia.org/resource/Budapest_Chain_Bridge http://dbpedia.org/resource/Chain_Bridge_(Budapest) http://dbpedia.org/resource/Szechenyi_Lanchid http://dbpedia.org/resource/Lanchid http://dbpedia.org/resource/Lánchíd http://dbpedia.org/resource/Szechenyi_Chain_Bridge http://dbpedia.org/resource/Lanchid_Bridge http://dbpedia.org/resource/Budapest_chain_bridge
+0,32,Canton Viaduct,http://dbpedia.org/resource/Ribblehead_Viaduct,http://dbpedia.org/resource/Canton_Viaduct
+0,35,Candaba Viaduct,http://dbpedia.org/resource/Ribblehead_Viaduct,http://dbpedia.org/resource/Candaba_Viaduct
+0,46,Broadway Bridge,http://dbpedia.org/resource/Broadway_Bridge_(Daytona_Beach),http://dbpedia.org/resource/Broadway_Bridge_(Portland)

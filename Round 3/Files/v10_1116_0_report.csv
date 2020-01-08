@@ -1,0 +1,5 @@
+"F1: 0.85000","Precision: 0.85000","Recall: 0.85000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","2","Volunteers","http://dbpedia.org/resource/Volunteers_(Jefferson_Airplane_album)","http://dbpedia.org/resource/Volunteers_(song) http://dbpedia.org/resource/We_Can_Be_Together"
+"0","9","Violet","http://dbpedia.org/resource/Violet_(Seal_song)","http://dbpedia.org/resource/Violet_(Hole_song)"
+"0","13","Vienna","http://dbpedia.org/resource/Vienna_(Ultravox_song)","http://dbpedia.org/resource/Vienna_(Billy_Joel_song)"

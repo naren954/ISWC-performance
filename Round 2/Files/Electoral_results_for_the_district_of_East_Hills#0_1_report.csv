@@ -1,0 +1,4 @@
+"F1: 0.60000","Precision: 0.60000","Recall: 0.60000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","1","Arthur Williams","http://dbpedia.org/resource/Arthur_Henry_Williams","http://dbpedia.org/resource/Arthur_Williams_(Australian_politician)"
+"1","2","Joe Kelly","http://dbpedia.org/resource/Joe_Kelly_(Queensland_politician)","http://dbpedia.org/resource/Joe_Kelly_(baseball) http://dbpedia.org/resource/Joe_Kelly_(disambiguation) http://dbpedia.org/resource/Joe_Kelly_(Australian_rules_footballer) http://dbpedia.org/resource/Kelly,_Joe http://dbpedia.org/resource/Joe_Kelly_(politician) http://dbpedia.org/resource/Joe_Kelly"

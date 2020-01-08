@@ -1,0 +1,7 @@
+"F1: 0.77273","Precision: 0.77273","Recall: 0.77273"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","3","Lademoen","http://dbpedia.org/resource/Lademoen_Station","http://dbpedia.org/resource/Lademoen"
+"1","4","West Portal Station","http://dbpedia.org/resource/West_Footscray_railway_station","http://dbpedia.org/resource/West_Portal_Station"
+"1","7","Asker","http://dbpedia.org/resource/Asker_Station","http://dbpedia.org/resource/Asker http://dbpedia.org/resource/Asker,_Norway"
+"1","11","Arthur's Pass","http://dbpedia.org/resource/Arthur's_Pass_National_Park","http://dbpedia.org/resource/Arthur's_Pass http://dbpedia.org/resource/Arthurs_Pass"
+"1","13","Heathcote River","http://dbpedia.org/resource/Heathcote,_New_Jersey","http://dbpedia.org/resource/Heathcote_River http://dbpedia.org/resource/Ōpāwaho http://dbpedia.org/resource/River_Heathcote"

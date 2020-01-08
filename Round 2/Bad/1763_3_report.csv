@@ -1,0 +1,12 @@
+F1: 0.33333,Precision: 0.33333,Recall: 0.33333,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,2,A. Barros,http://dbpedia.org/resource/Aline_Barros,http://dbpedia.org/resource/Alejandra_Barros
+3,6,H. Iwanaga,http://dbpedia.org/resource/Tetsuya_Iwanaga,http://dbpedia.org/resource/Hiroaki_Iwanaga
+3,7,K. Kato,http://dbpedia.org/resource/Kazuki_Kato,http://dbpedia.org/resource/Keisuke_Kato
+3,8,Y. Kobayashi,http://dbpedia.org/resource/Yasuhiro_Kobayashi,http://dbpedia.org/resource/Yutaka_Kobayashi_(actor)
+3,9,Y. Haga,http://dbpedia.org/resource/Ragnhild_Haga,http://dbpedia.org/resource/Haga_Yuria http://dbpedia.org/resource/Yuria_Haga
+3,10,D. Dantes,http://dbpedia.org/resource/Ron_Dante,http://dbpedia.org/resource/Dingdong_Dantes http://dbpedia.org/resource/Jon-Erik_Sayson http://dbpedia.org/resource/José_Sixto_Gonzáles_Dantes_III
+3,11,J. Morita,http://dbpedia.org/resource/Koichi_Morita_(songwriter),http://dbpedia.org/resource/森田順平 http://dbpedia.org/resource/Junpei_Morita
+3,12,A. Noriega,http://dbpedia.org/resource/N.O.R.E.,http://dbpedia.org/resource/Adela_Noriega
+3,14,K. Tanaka,http://dbpedia.org/resource/Hirokazu_Tanaka,http://dbpedia.org/resource/Koutaro_Tanaka
+3,15,A. Rivera,http://dbpedia.org/resource/Naya_Rivera,http://dbpedia.org/resource/Angélica_Rivera http://dbpedia.org/resource/Angelica_Rivera

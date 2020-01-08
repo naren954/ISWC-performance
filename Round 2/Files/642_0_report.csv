@@ -1,0 +1,6 @@
+"F1: 0.89744","Precision: 0.89744","Recall: 0.89744"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","6","W. Moore","http://dbpedia.org/resource/Wilbur_Moore","http://dbpedia.org/resource/Whitey_Moore"
+"0","23","W. Curry","http://dbpedia.org/resource/Walter_Curry","http://dbpedia.org/resource/Wesley_Curry http://dbpedia.org/resource/Wes_Curry"
+"0","27","W. Walker","http://dbpedia.org/resource/Willis_Walker","http://dbpedia.org/resource/Welday_Walker http://dbpedia.org/resource/Weldy_Walker"
+"0","32","W. McDonald","http://dbpedia.org/resource/Willie_McDonald","http://dbpedia.org/resource/Webster_McDonald"

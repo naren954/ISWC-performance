@@ -1,0 +1,4 @@
+F1: 0.50000,Precision: 0.50000,Recall: 0.50000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,HC Bolzano,http://dbpedia.org/resource/HC_Bozen–Bolzano,http://dbpedia.org/resource/Hockey_Club_Bolzano http://dbpedia.org/resource/HC_Bolzano_Bozen http://dbpedia.org/resource/Hockey_Club_Bolzano-Bozen http://dbpedia.org/resource/Bolzano_HC http://dbpedia.org/resource/Bolzano-Bozen_Foxes http://dbpedia.org/resource/HC_Bolzano_Foxes http://dbpedia.org/resource/HC_Bozen http://dbpedia.org/resource/HC_Bolzano http://dbpedia.org/resource/HCB_South_Tyrol
+0,2,Flyers Heerenveen,http://dbpedia.org/resource/SC_Heerenveen,http://dbpedia.org/resource/Heerenveen_Flyers http://dbpedia.org/resource/Vadeko_Flyers http://dbpedia.org/resource/Friesland_Flyers

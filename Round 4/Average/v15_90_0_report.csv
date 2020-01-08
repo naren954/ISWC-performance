@@ -1,0 +1,5 @@
+F1: 0.70000,Precision: 0.70000,Recall: 0.70000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,B. Grant,http://dbpedia.org/resource/Benny_Grant,http://dbpedia.org/resource/Bill_Grant_(curler) http://dbpedia.org/resource/William_A._Grant
+0,8,A. Welsh,http://dbpedia.org/resource/Ab_Welsh,http://dbpedia.org/resource/Alex_Welsh_(curler)
+0,9,A. Langlois,http://dbpedia.org/resource/Al_Langlois,http://dbpedia.org/resource/Allan_D._Langlois http://dbpedia.org/resource/Al_Langlois_(curler)

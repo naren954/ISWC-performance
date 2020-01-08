@@ -1,0 +1,5 @@
+"F1: 0.96907","Precision: 0.96907","Recall: 0.96907"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","49","Roberto","http://dbpedia.org/resource/Roberto_Marinho","http://dbpedia.org/resource/Roberto_(horse)"
+"1","93","Mendez","http://es.dbpedia.org/resource/Oriana_Méndez","http://dbpedia.org/resource/Mendez_(horse)"
+"1","96","Roberto","http://dbpedia.org/resource/Roberto_Marinho","http://dbpedia.org/resource/Roberto_(horse)"

@@ -1,0 +1,4 @@
+F1: 0.90909,Precision: 0.90909,Recall: 0.90909,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,C. Green,http://dbpedia.org/resource/Carl_Green,http://dbpedia.org/resource/Cecil_Green
+0,8,B. Scott,http://dbpedia.org/resource/Brian_Scott,http://dbpedia.org/resource/Bob_Scott_(racind_driver) http://dbpedia.org/resource/Bob_Scott_(racing_driver) http://dbpedia.org/resource/Bob_Scott_(auto_racer)

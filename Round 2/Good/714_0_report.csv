@@ -1,0 +1,6 @@
+F1: 0.90244,Precision: 0.90244,Recall: 0.90244,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,6,B. Bass,http://dbpedia.org/resource/Bob_Bass,http://dbpedia.org/resource/Benny_Bass
+0,28,A. Perov,http://dbpedia.org/resource/Aleksandr_Perov_(cyclist),http://dbpedia.org/resource/Anatoli_Perov http://dbpedia.org/resource/Anatoly_Perov
+0,33,A. Abdo,http://dbpedia.org/resource/Ali_Abdo_(wrestler),http://dbpedia.org/resource/Ali_Abdo http://dbpedia.org/resource/Ali_Abdeh
+0,40,Ó. González,http://dbpedia.org/resource/Omar_Gonzalez,http://dbpedia.org/resource/Óscar_González_(boxer) http://dbpedia.org/resource/Oscar_Gonzalez_(boxer)

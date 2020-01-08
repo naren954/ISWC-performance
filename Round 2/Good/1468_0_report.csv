@@ -1,0 +1,5 @@
+F1: 0.94444,Precision: 0.94444,Recall: 0.94444,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,22,K. Renneberg,http://dbpedia.org/resource/Heinz_Renneberg,http://dbpedia.org/resource/Karl_Renneberg
+0,43,F. Bauer,http://dbpedia.org/resource/Fritz_Bauer_(rowing),http://dbpedia.org/resource/Fritz_Bauer_(rower)
+0,51,B. Knubel,http://dbpedia.org/resource/Bernard_Knubel,http://dbpedia.org/resource/Bernhard_Knubel_(rower)

@@ -1,0 +1,8 @@
+F1: 0.25000,Precision: 0.25000,Recall: 0.25000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,Mal Brown (East Perth),http://dbpedia.org/resource/Brown_Wardle_Hill,http://dbpedia.org/resource/Mal_Brown
+0,3,David Clarke (Geelong),http://dbpedia.org/resource/David_Clarke_(Paralympic_footballer),"http://dbpedia.org/resource/David_E._Clarke http://dbpedia.org/resource/David_Clarke_(Australian_footballer,_born_1952)"
+0,5,Glynn Hewitt (West Adel.),http://dbpedia.org/resource/Lleyton_Hewitt,http://dbpedia.org/resource/Glynn_Hewitt
+0,6,Ian Miller (Perth),"http://dbpedia.org/resource/Ian_Miller_(footballer,_born_1983)",http://dbpedia.org/resource/Ian_Miller_(Australian_footballer)
+0,7,Ross Smith (St Kilda),http://dbpedia.org/resource/Ross_Smith_(badminton),http://dbpedia.org/resource/Ross_G._Smith
+0,8,John Williams (Essendon),http://dbpedia.org/resource/John_Williams,http://dbpedia.org/resource/John_Williams_(Australian_footballer_born_1947)

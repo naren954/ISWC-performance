@@ -1,0 +1,4 @@
+F1: 0.33333,Precision: 0.33333,Recall: 0.33333,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,College,http://dbpedia.org/resource/University_College_London,http://dbpedia.org/resource/NCAA_Men's_Ice_Hockey_Championship
+0,5,Stanley Cup,http://dbpedia.org/resource/Stanley_Bate,http://dbpedia.org/resource/Lord_Stanley's_Mug http://dbpedia.org/resource/Stanley_Cup http://dbpedia.org/resource/The_Stanley_Cup http://dbpedia.org/resource/NHL_championship http://dbpedia.org/resource/Stanley_Cups http://dbpedia.org/resource/Stanely_cup http://dbpedia.org/resource/Dominion_Hockey_Challenge_Cup http://dbpedia.org/resource/Stanley_cup http://dbpedia.org/resource/Stanley_Cup_Trustee http://dbpedia.org/resource/Lord_Stanley's_Cup

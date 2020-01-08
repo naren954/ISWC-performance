@@ -1,0 +1,4 @@
+F1: 0.86667,Precision: 0.86667,Recall: 0.86667,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,6,Dave Myers,http://dbpedia.org/resource/Dave_Myers_(presenter),http://dbpedia.org/resource/Dave_Myers_(chef) http://dbpedia.org/resource/David_Myers_(American_chef) http://dbpedia.org/resource/Chef_David_Myers
+0,11,Patrick Robinson,http://dbpedia.org/resource/Patrick_Robinson_(cornerback),http://dbpedia.org/resource/Patrick_Robinson_(actor)

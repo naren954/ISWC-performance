@@ -1,0 +1,4 @@
+F1: 0.94444,Precision: 0.94444,Recall: 0.94444,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,19,Home Alone,http://dbpedia.org/resource/Home_Alone_2:_Lost_in_New_York,http://dbpedia.org/resource/Harry_and_Marv http://dbpedia.org/resource/Home_Alone_(movie) http://dbpedia.org/resource/Angels_with_Filthy_Souls http://dbpedia.org/resource/Home_alone http://dbpedia.org/resource/Home_Alone_House http://dbpedia.org/resource/Home_Alone_1 http://dbpedia.org/resource/Home_alone_family_fun_edition http://dbpedia.org/resource/Gus_Polinski http://dbpedia.org/resource/Marv_and_Vera http://dbpedia.org/resource/Home_Alone_(film) http://dbpedia.org/resource/Wet_Bandits http://dbpedia.org/resource/Home_Alone http://dbpedia.org/resource/Marv_Merchants http://dbpedia.org/resource/Kenosha_Kickers
+1,22,Dutch,http://dbpedia.org/resource/Netherlands,http://dbpedia.org/resource/Dutch_(film) http://dbpedia.org/resource/Driving_Me_Crazy

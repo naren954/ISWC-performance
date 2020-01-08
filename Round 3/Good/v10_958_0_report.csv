@@ -1,0 +1,5 @@
+F1: 0.83333,Precision: 0.83333,Recall: 0.83333,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,4,Fort of Nossa Senhora da Encarnação,http://dbpedia.org/resource/Fort_of_Our_Lady_of_the_Incarnation_(Carvoeiro),http://dbpedia.org/resource/Fort_of_Nossa_Senhora_da_Encarnacao_(Carvoeiro) http://dbpedia.org/resource/Shrine_of_Nossa_Senhora_da_Encarnacao_(Carvoeiro) http://dbpedia.org/resource/Fort_of_Nossa_Senhora_da_Encarnação_(Carvoeiro) http://dbpedia.org/resource/Shrine_of_Nossa_Senhora_da_Encarnação_(Carvoeiro)
+0,7,Fort of Greta,http://dbpedia.org/resource/Fort_of_Greta_(Angra_do_Heroísmo),http://dbpedia.org/resource/Fort_of_Greta_(Horta)
+0,16,Castle Ring,"http://dbpedia.org/resource/Castle_Rings,_Wiltshire",http://dbpedia.org/resource/Castle_Ring

@@ -1,0 +1,37 @@
+F1: 0.81771,Precision: 0.81771,Recall: 0.81771,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,2,Y. Petrov,"http://ru.dbpedia.org/resource/Петров,_Юрий_Владимирович_(политический_деятель)",http://dbpedia.org/resource/Yevgeni_Petrov_(sport_shooter) http://dbpedia.org/resource/Evgeni_Petrov_(sport_shooter)
+3,8,Y. Petrov,"http://ru.dbpedia.org/resource/Петров,_Юрий_Владимирович_(политический_деятель)",http://dbpedia.org/resource/Yevgeni_Petrov_(sport_shooter) http://dbpedia.org/resource/Evgeni_Petrov_(sport_shooter)
+3,17,V. Velichkov,http://dbpedia.org/resource/Petar_Velichkov,http://dbpedia.org/resource/Velitchko_Khristov http://dbpedia.org/resource/Velitchko_Velichkov http://dbpedia.org/resource/Velichko_Velichkov_(sport_shooter)
+3,21,V. Velichkov,http://dbpedia.org/resource/Petar_Velichkov,http://dbpedia.org/resource/Velitchko_Khristov http://dbpedia.org/resource/Velitchko_Velichkov http://dbpedia.org/resource/Velichko_Velichkov_(sport_shooter)
+3,26,M. Nyýazow,,http://dbpedia.org/resource/Marat_Nyýazow
+3,32,M. Nyýazow,,http://dbpedia.org/resource/Marat_Nyyazow http://dbpedia.org/resource/Marat_Nyýazow http://dbpedia.org/resource/Marat_Niyazov http://dbpedia.org/resource/Marat_Niyasov
+3,51,Á. León,http://dbpedia.org/resource/Joanna_of_Castile,http://dbpedia.org/resource/Ángel_León http://dbpedia.org/resource/Angel_Leon http://dbpedia.org/resource/Angel_Leon_de_Gozalo http://dbpedia.org/resource/Ángel_Léon http://dbpedia.org/resource/Angel_Leon_Gonzalo
+3,56,Á. León,http://dbpedia.org/resource/Joanna_of_Castile,http://dbpedia.org/resource/Ángel_León http://dbpedia.org/resource/Angel_Leon http://dbpedia.org/resource/Angel_Leon_de_Gozalo http://dbpedia.org/resource/Ángel_Léon http://dbpedia.org/resource/Angel_Leon_Gonzalo
+3,84,É. Dupont,http://dbpedia.org/resource/Timothy_Dupont,http://dbpedia.org/resource/Émile_Dupont
+3,85,A. d. Costa,http://dbpedia.org/resource/Augusto_da_Costa,http://dbpedia.org/resource/Afrânio_da_Costa http://dbpedia.org/resource/Afranio_da_Costa
+3,93,A. d. Costa,http://dbpedia.org/resource/Augusto_da_Costa,http://dbpedia.org/resource/Afrânio_da_Costa http://dbpedia.org/resource/Afranio_da_Costa
+3,100,Ø. Østensen,http://dbpedia.org/resource/Sten_Stensen,http://dbpedia.org/resource/Osten_Ostensen http://dbpedia.org/resource/Östen_Östensen http://dbpedia.org/resource/Østen_Østensen
+3,109,O. Sæther,http://dbpedia.org/resource/Ole_Sæther,http://dbpedia.org/resource/Olaf_Sæter http://dbpedia.org/resource/Olaf_Sæther http://dbpedia.org/resource/Olaf_Saether http://dbpedia.org/resource/Olaf_Saeter
+3,118,R. Englebert,http://dbpedia.org/resource/Gaëtan_Englebert,http://dbpedia.org/resource/René_Englebert
+3,120,H. Simon,http://dbpedia.org/resource/Harry_Simon_(boxer),http://dbpedia.org/resource/Harry_Simon_(sport_shooter) http://dbpedia.org/resource/Harry_Simon_(shooter)
+3,125,H. Simon,http://dbpedia.org/resource/Harry_Simon_(boxer),http://dbpedia.org/resource/Harry_Simon_(sport_shooter) http://dbpedia.org/resource/Harry_Simon_(shooter)
+3,131,T. Petäjä,http://dbpedia.org/resource/Erkka_Petäjä,http://dbpedia.org/resource/Tuuli_Petäjä http://dbpedia.org/resource/Tuuli_Petäjä-Sirén http://dbpedia.org/resource/Tuuli_Petaja http://dbpedia.org/resource/Tuuli_Petaja-Siren
+3,132,S. Clark,http://dbpedia.org/resource/Sherm_Clark,http://dbpedia.org/resource/Saskia_Clark
+3,133,N. Dempsey,http://dbpedia.org/resource/Joseph_Dempsey,http://dbpedia.org/resource/Nick_Dempsey
+3,135,M. Bouwmeester,http://dbpedia.org/resource/Jay_Bouwmeester,http://dbpedia.org/resource/Marrit_Bouwmeester http://dbpedia.org/resource/Marit_Bouwmeester
+3,139,T. Petäjä,http://dbpedia.org/resource/Erkka_Petäjä,http://dbpedia.org/resource/Tuuli_Petäjä http://dbpedia.org/resource/Tuuli_Petäjä-Sirén http://dbpedia.org/resource/Tuuli_Petaja http://dbpedia.org/resource/Tuuli_Petaja-Siren
+3,140,S. Clark,http://dbpedia.org/resource/Sherm_Clark,http://dbpedia.org/resource/Saskia_Clark
+3,141,N. Dempsey,http://dbpedia.org/resource/Joseph_Dempsey,http://dbpedia.org/resource/Nick_Dempsey
+3,143,M. Bouwmeester,http://dbpedia.org/resource/Jay_Bouwmeester,http://dbpedia.org/resource/Marrit_Bouwmeester http://dbpedia.org/resource/Marit_Bouwmeester
+3,152,I. Martínez,http://dbpedia.org/resource/Iñigo_Martínez,http://dbpedia.org/resource/Iker_Martínez http://dbpedia.org/resource/Iker_Martinez http://dbpedia.org/resource/Iker_Martínez_de_Lizarduy http://dbpedia.org/resource/Iker_Martinez_de_Lizarduy
+3,158,I. Martínez,http://dbpedia.org/resource/Iñigo_Martínez,http://dbpedia.org/resource/Iker_Martínez http://dbpedia.org/resource/Iker_Martinez http://dbpedia.org/resource/Iker_Martinez_de_Lizarduy http://dbpedia.org/resource/Iker_Martínez_de_Lizarduy
+3,161,R. MacDonald,http://dbpedia.org/resource/Jack_Macdonald_(sportsman),http://dbpedia.org/resource/D._Ross_Macdonald http://dbpedia.org/resource/Ross_MacDonald_(sailor) http://dbpedia.org/resource/Ross_MacDonald
+3,162,N. Rogers,http://dbpedia.org/resource/Nicholas_Rogers_(athlete),http://dbpedia.org/resource/Nicholas_Robert_Rogers http://dbpedia.org/resource/Nick_Rogers_(sailor)
+3,168,R. MacDonald,http://dbpedia.org/resource/Jack_Macdonald_(sportsman),http://dbpedia.org/resource/D._Ross_Macdonald http://dbpedia.org/resource/Ross_MacDonald_(sailor) http://dbpedia.org/resource/Ross_MacDonald
+3,175,J. Forbes,http://dbpedia.org/resource/James_Forbes_(basketball),http://dbpedia.org/resource/John_Forbes_(sailor)
+3,176,I. Walker,http://dbpedia.org/resource/George_H._W._Bush,http://dbpedia.org/resource/Ian_walker_(sailor) http://dbpedia.org/resource/Ian_Walker_(sailor)
+3,180,L. Devoti,http://dbpedia.org/resource/Louis_Devoti,http://dbpedia.org/resource/Luca_Devoti
+3,185,I. Walker,http://dbpedia.org/resource/George_H._W._Bush,http://dbpedia.org/resource/Ian_walker_(sailor) http://dbpedia.org/resource/Ian_Walker_(sailor)
+3,189,L. Devoti,http://dbpedia.org/resource/Louis_Devoti,http://dbpedia.org/resource/Luca_Devoti
+3,192,A. Landenberger,http://dbpedia.org/resource/Ken_Landenberger,http://dbpedia.org/resource/Andrew_Landenberger

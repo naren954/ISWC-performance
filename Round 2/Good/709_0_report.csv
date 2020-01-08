@@ -1,0 +1,6 @@
+F1: 0.78947,Precision: 0.78947,Recall: 0.78947,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,5,The Detective,http://dbpedia.org/resource/The_Great_Mouse_Detective,http://dbpedia.org/resource/The_Detective_(novel)
+0,8,The Descent,http://dbpedia.org/resource/Descent_(1995_video_game),http://dbpedia.org/resource/The_Descent_(novel)
+0,16,The Defector,http://dbpedia.org/resource/The_Defector_(Silva_novel),http://dbpedia.org/resource/The_Defector_(novel) http://dbpedia.org/resource/The_Defector_(Daniel_Silva_novel)
+0,18,The Deep,http://dbpedia.org/resource/Dive_Deep,http://dbpedia.org/resource/The_Deep_(Helen_Dunmore_novel) http://dbpedia.org/resource/The_Deep_(Dunmore_novel)

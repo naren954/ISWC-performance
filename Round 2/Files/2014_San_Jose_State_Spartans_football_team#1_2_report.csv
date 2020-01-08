@@ -1,0 +1,7 @@
+"F1: 0.00000","Precision: 0.00000","Recall: 0.00000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"2","1","North Dakota*","http://dbpedia.org/resource/North_Dakota","http://dbpedia.org/resource/2014_North_Dakota_Fighting_Hawks_football_team http://dbpedia.org/resource/2014_University_of_North_Dakota_football_team"
+"2","4","Nevada","http://dbpedia.org/resource/Nevada","http://dbpedia.org/resource/2014_Nevada_Wolf_Pack_football_team"
+"2","5","UNLV","http://dbpedia.org/resource/University_of_Nevada,_Las_Vegas","http://dbpedia.org/resource/2014_UNLV_Rebels_football_team"
+"2","8","Colorado State","http://dbpedia.org/resource/Colorado","http://dbpedia.org/resource/2014_Colorado_State_Rams_football_team"
+"2","10","Hawaii","http://dbpedia.org/resource/Hawaii","http://dbpedia.org/resource/2014_Hawaii_Rainbow_Warriors_football_team"

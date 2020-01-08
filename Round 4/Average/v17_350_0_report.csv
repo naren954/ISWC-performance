@@ -1,0 +1,37 @@
+F1: 0.60227,Precision: 0.60227,Recall: 0.60227,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,USS S-34,http://dbpedia.org/resource/USS_Hancock_(CV-19),http://dbpedia.org/resource/USS_S-34_(SS-139) http://dbpedia.org/resource/USS_S-34 http://dbpedia.org/resource/SS-139
+0,4,USS S-32,http://dbpedia.org/resource/USS_Hancock_(CV-19),http://dbpedia.org/resource/SS-137 http://dbpedia.org/resource/USS_S-32 http://dbpedia.org/resource/USS_S-32_(SS-137)
+0,5,USS S-31,http://dbpedia.org/resource/USS_Hancock_(CV-19),http://dbpedia.org/resource/USS_S-31_(SS-136) http://dbpedia.org/resource/USS_AL-14 http://dbpedia.org/resource/USS_S-31 http://dbpedia.org/resource/SS-136
+0,6,USS S-30,http://dbpedia.org/resource/USS_Hancock_(CV-19),http://dbpedia.org/resource/USS_S-30_(SS-135) http://dbpedia.org/resource/SS-135 http://dbpedia.org/resource/USS_S-30
+0,7,USS S-2,http://dbpedia.org/resource/USS_Hancock_(CV-19),http://dbpedia.org/resource/SS-106 http://dbpedia.org/resource/USS_S-2_(SS-106) http://dbpedia.org/resource/USS_S-2
+0,8,USS S-29,http://dbpedia.org/resource/USS_Hancock_(CV-19),http://dbpedia.org/resource/USS_S-29_(SS-134) http://dbpedia.org/resource/USS_S-29 http://dbpedia.org/resource/SS-134 http://dbpedia.org/resource/HMS_P.556
+0,9,USS S-25,http://dbpedia.org/resource/USS_Hancock_(CV-19),http://dbpedia.org/resource/SS-130 http://dbpedia.org/resource/USS_S-25 http://dbpedia.org/resource/USS_S-25_(SS-130)
+0,10,USS S-24,http://dbpedia.org/resource/USS_Hancock_(CV-19),http://dbpedia.org/resource/USS_S-24 http://dbpedia.org/resource/USS_S-24_(SS-129) http://dbpedia.org/resource/SS-129 http://dbpedia.org/resource/HMS_P555 http://dbpedia.org/resource/HMS_P.555
+0,11,USS S-23,http://dbpedia.org/resource/USS_Hancock_(CV-19),http://dbpedia.org/resource/USS_S-23 http://dbpedia.org/resource/USS_S-23_(SS-128) http://dbpedia.org/resource/SS-128
+0,12,USS S-22,http://dbpedia.org/resource/USS_Hancock_(CV-19),http://dbpedia.org/resource/SS-127 http://dbpedia.org/resource/HMS_P.554 http://dbpedia.org/resource/USS_S-22 http://dbpedia.org/resource/USS_S-22_(SS-127) http://dbpedia.org/resource/HMS_P554
+0,13,USS S-21,http://dbpedia.org/resource/USS_Hancock_(CV-19),http://dbpedia.org/resource/USS_S-21 http://dbpedia.org/resource/SS-126 http://dbpedia.org/resource/HMS_P.553 http://dbpedia.org/resource/HMS_P553 http://dbpedia.org/resource/USS_S-21_(SS-126)
+0,14,USS S-20,http://dbpedia.org/resource/USS_Hancock_(CV-19),http://dbpedia.org/resource/SS-125 http://dbpedia.org/resource/USS_S-20_(SS-125) http://dbpedia.org/resource/USS_S-20
+0,15,USS S-1,http://dbpedia.org/resource/USS_Hancock_(CV-19),http://dbpedia.org/resource/HMS_P552 http://dbpedia.org/resource/HMS_P.552 http://dbpedia.org/resource/USS_S-1 http://dbpedia.org/resource/USS_S-1_(SS-105) http://dbpedia.org/resource/SS-105
+0,16,USS S-19,http://dbpedia.org/resource/USS_Hancock_(CV-19),http://dbpedia.org/resource/SS-124 http://dbpedia.org/resource/USS_S-19 http://dbpedia.org/resource/USS_S-19_(SS-124)
+0,17,USS S-18,http://dbpedia.org/resource/USS_Hancock_(CV-19),http://dbpedia.org/resource/USS_S-18_(SS-123) http://dbpedia.org/resource/USS_S-18 http://dbpedia.org/resource/SS-123
+0,18,USS S-17,http://dbpedia.org/resource/USS_Hancock_(CV-19),http://dbpedia.org/resource/SS-122 http://dbpedia.org/resource/USS_S-17 http://dbpedia.org/resource/USS_S-17_(SS-122)
+0,19,USS S-16,http://dbpedia.org/resource/USS_Hancock_(CV-19),http://dbpedia.org/resource/USS_S-16_(SS-121) http://dbpedia.org/resource/USS_S-16 http://dbpedia.org/resource/SS-121
+0,20,USS S-15,http://dbpedia.org/resource/USS_Hancock_(CV-19),http://dbpedia.org/resource/USS_S-15_(SS-120) http://dbpedia.org/resource/SS-120 http://dbpedia.org/resource/USS_S-15
+0,21,USS S-13,http://dbpedia.org/resource/USS_Hancock_(CV-19),http://dbpedia.org/resource/USS_S-13 http://dbpedia.org/resource/SS-118 http://dbpedia.org/resource/USS_S-13_(SS-118)
+0,22,USS S-12,http://dbpedia.org/resource/USS_Hancock_(CV-19),http://dbpedia.org/resource/USS_S-12_(SS-117) http://dbpedia.org/resource/SS-117 http://dbpedia.org/resource/USS_S-12
+0,23,USS S-11,http://dbpedia.org/resource/USS_Hancock_(CV-19),http://dbpedia.org/resource/SS-116 http://dbpedia.org/resource/USS_S-11 http://dbpedia.org/resource/USS_S-11_(SS-116)
+0,24,USS S-10,http://dbpedia.org/resource/USS_Hancock_(CV-19),http://dbpedia.org/resource/SS-115 http://dbpedia.org/resource/USS_S-10_(SS-115) http://dbpedia.org/resource/USS_S-10
+0,29,USS Runner,http://dbpedia.org/resource/USS_Runner_(SS-275),http://dbpedia.org/resource/SS-476 http://dbpedia.org/resource/USS_Runner_(AGSS-476) http://dbpedia.org/resource/USS_Runner_(SS-476)
+0,31,USS Rudyerd Bay,http://dbpedia.org/resource/USS_Oyster_Bay_(AGP-6),http://dbpedia.org/resource/USS_Rudyerd_Bay http://dbpedia.org/resource/USS_Rudyerd_Bay_(AKV-29) http://dbpedia.org/resource/USS_Rudyerd_Bay_(CVE-81) http://dbpedia.org/resource/USS_Rudyerd_Bay_(CVU-81)
+0,37,USS Rowan,http://dbpedia.org/resource/USS_Rowan_(DD-782),http://dbpedia.org/resource/Rowan-class_torpedo_boat http://dbpedia.org/resource/USS_Rowan_(TB-8)
+0,38,USS Rowan,http://dbpedia.org/resource/USS_Rowan_(DD-782),http://dbpedia.org/resource/USS_Rowan_(DD-64)
+0,40,USS Ross,http://dbpedia.org/resource/USS_Ross_(DDG-71),http://dbpedia.org/resource/USS_Ross_(DD-563)
+0,51,USS Roe,http://dbpedia.org/resource/USS_Roe_(DD-24),http://dbpedia.org/resource/USS_Roe_(DD-418)
+0,55,USS Rodgers,http://dbpedia.org/resource/USS_Rodgers_(DD-254),http://dbpedia.org/resource/USS_Rodgers_(TB-4)
+0,66,USS Robinson,http://dbpedia.org/resource/USS_Robinson_(DD-88),http://dbpedia.org/resource/USS_Robinson_(DD-562)
+0,67,USS Robin,http://dbpedia.org/resource/USS_Robin_(AM-3),http://dbpedia.org/resource/USS_Robin_(YMS-311) http://dbpedia.org/resource/USS_Robin_(AMS-53) http://dbpedia.org/resource/AMS-53 http://dbpedia.org/resource/USS_Robin_(MSC(O)-53) http://dbpedia.org/resource/USS_YMS-311 http://dbpedia.org/resource/YMS-311 http://dbpedia.org/resource/USS_Robin_(MSCO-53)
+0,70,USS Robert Smith,http://dbpedia.org/resource/USS_Aaron_Ward_(DM-34),http://dbpedia.org/resource/USS_Robert_Smith_(DD-324) http://dbpedia.org/resource/USS_Robert_Smith
+0,73,USS Robert H. Smith,http://dbpedia.org/resource/USS_Aaron_Ward_(DM-34),http://dbpedia.org/resource/DM-23 http://dbpedia.org/resource/DD-735 http://dbpedia.org/resource/USS_Robert_H._Smith_(MMD-23) http://dbpedia.org/resource/USS_Robert_H._Smith http://dbpedia.org/resource/USS_Robert_H._Smith_(DD-735) http://dbpedia.org/resource/USS_Robert_H._Smith_(DM-23)
+0,80,USS Roanoke,http://dbpedia.org/resource/USS_Roanoke_(CL-145),http://dbpedia.org/resource/USS_Roanoke_(AOR-7)
+0,88,USS Rinehart,http://dbpedia.org/resource/USS_Burrows_(DE-105),http://dbpedia.org/resource/DE-196 http://dbpedia.org/resource/USS_Rinehart http://dbpedia.org/resource/HNLMS_De_Bitter_(F807) http://dbpedia.org/resource/USS_Rinehart_(DE-196)

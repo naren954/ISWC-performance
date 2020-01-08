@@ -1,0 +1,30 @@
+F1: 0.56250,Precision: 0.56250,Recall: 0.56250,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,7,D. Newman,http://dbpedia.org/resource/Alfred_Newman_(composer),http://dbpedia.org/resource/David_Newman_(composer)
+2,8,J. Munsen,http://dbpedia.org/resource/J._J._Philbin,http://dbpedia.org/resource/Judy_Munsen
+2,10,B. Bartlett,http://dbpedia.org/resource/Bonnie_Bartlett,http://dbpedia.org/resource/Ben_Bartlett
+2,11,L. Johnson,http://dbpedia.org/resource/Louisa_Johnson,http://dbpedia.org/resource/Laurie_Johnson
+2,12,J. A. Lührs,http://dbpedia.org/resource/Fredrik_Luhr_Dietrichson,http://dbpedia.org/resource/Jorge_Avendaño_Lührs http://dbpedia.org/resource/Jorge_Avendano_Luhrs http://dbpedia.org/resource/Jorge_Avendaño_Lohrs http://dbpedia.org/resource/Jorge_Avendaño_Luhrs http://dbpedia.org/resource/Jorge_Avendano_Luehrs http://dbpedia.org/resource/Jorge_Avendaño http://dbpedia.org/resource/Jorge_Avendano http://dbpedia.org/resource/Jorge_Avendano_Lohrs
+2,13,J. Wolff,http://fr.dbpedia.org/resource/Jean-Claude_Wolff,http://dbpedia.org/resource/Jonathan_Wolff_(musician)
+2,16,D. Pemberton,http://dbpedia.org/resource/Canada,http://dbpedia.org/resource/Daniel_Pemberton
+2,17,D. Neumann,http://dbpedia.org/resource/John_von_Neumann,http://dbpedia.org/resource/Drew_Neumann
+2,20,N. Morino,http://dbpedia.org/resource/Jone_Morino,http://dbpedia.org/resource/Nobuhiko_Morino
+2,25,F. Phillips,http://dbpedia.org/resource/Flip_Phillips,http://dbpedia.org/resource/Freddie_Phillips
+2,26,E. H. Hagen,http://dbpedia.org/resource/Nina_Hagen,http://dbpedia.org/resource/Earle_H._Hagen http://dbpedia.org/resource/Earle_Hagen
+2,27,R. Gibbs,http://dbpedia.org/resource/Robin_Gibb,"http://dbpedia.org/resource/Gibbs,_Richard http://dbpedia.org/resource/Richard_Gibbs"
+2,29,K. Macpherson,http://dbpedia.org/resource/James_Macpherson,http://dbpedia.org/resource/Keith_Macpherson http://dbpedia.org/resource/Easily_Amused
+2,37,T. Roots,http://dbpedia.org/resource/Slovenia,"http://dbpedia.org/resource/Wadud_Ahmad http://dbpedia.org/resource/The_Fifth_Dynasty http://dbpedia.org/resource/James_'Kamal'_Gray http://dbpedia.org/resource/Damon_""Tuba_Gooding_Jr.""_Bryson http://dbpedia.org/resource/Endgame_(The_Roots_album) http://dbpedia.org/resource/The_End_Game_(album) http://dbpedia.org/resource/The_Square_Roots http://dbpedia.org/resource/Damon_Bryson http://dbpedia.org/resource/Frank_Knuckles http://dbpedia.org/resource/The_Legendary_Roots_Crew http://dbpedia.org/resource/The_roots http://dbpedia.org/resource/Mark_Kelley_(Bassist) http://dbpedia.org/resource/F._Knuckles http://dbpedia.org/resource/Kamal_Gray http://dbpedia.org/resource/End_Game_(The_Roots_album) http://dbpedia.org/resource/Wadud_ahmad http://dbpedia.org/resource/Roots_(band) http://dbpedia.org/resource/The_Roots_(band) http://dbpedia.org/resource/The_Roots"
+2,39,K. Carter,http://dbpedia.org/resource/Michael_Carter_(musician),http://dbpedia.org/resource/Kristopher_Carter
+2,40,G. Fried,http://dbpedia.org/resource/Germain_Fried,http://dbpedia.org/resource/Gerald_Fried
+2,43,G. Fried,http://dbpedia.org/resource/Germain_Fried,http://dbpedia.org/resource/Gerald_Fried
+2,46,T. Nichols,http://dbpedia.org/resource/Todd_Nichols_(musician),http://dbpedia.org/resource/Ted_Nichols
+2,48,M. Price,http://dbpedia.org/resource/Margaret_Price,http://dbpedia.org/resource/Michael_Price_(composer)
+2,49,E. Hagen,http://dbpedia.org/resource/Nina_Hagen,http://dbpedia.org/resource/Earle_H._Hagen http://dbpedia.org/resource/Earle_Hagen
+2,51,J. Barry,http://dbpedia.org/resource/Jeff_Barry,http://dbpedia.org/resource/John_Barry_Prendergast http://dbpedia.org/resource/John_Barry_Orchestra http://dbpedia.org/resource/John_Barry_(composer) http://dbpedia.org/resource/Barry_Prendergast
+2,53,W. Hatch,http://dbpedia.org/resource/Teri_Hatcher,http://dbpedia.org/resource/Wilbur_Hatch
+2,55,A. Ferguson,http://dbpedia.org/resource/Maynard_Ferguson,http://dbpedia.org/resource/Allyn_Ferguson
+2,56,J. Morris,http://dbpedia.org/resource/Jenny_Morris_(musician),http://dbpedia.org/resource/John_Morris_(composer)
+2,58,M. Ronson,http://dbpedia.org/resource/Mick_Ronson,http://dbpedia.org/resource/Mark_Ronson http://dbpedia.org/resource/Marc_Ronson http://dbpedia.org/resource/Mark_Ronson_&_The_Business_Intl http://dbpedia.org/resource/Mark_Ronson_&_The_Business_Intl. http://dbpedia.org/resource/Mark_ronson http://dbpedia.org/resource/Future_Sky_Paradise
+2,61,G. Fried,http://dbpedia.org/resource/Germain_Fried,http://dbpedia.org/resource/Gerald_Fried
+2,62,G. Moon,http://dbpedia.org/resource/Galileo_Galilei,http://dbpedia.org/resource/Guy_Moon
+2,64,B. Hartman,http://dbpedia.org/resource/Dan_Hartman,"http://dbpedia.org/resource/Billionfold,_Inc. http://dbpedia.org/resource/Hartman_Productions http://dbpedia.org/resource/Butch_Hartman http://dbpedia.org/resource/Billionfold_Studios"

@@ -1,0 +1,5 @@
+"F1: 0.76923","Precision: 0.76923","Recall: 0.76923"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","3","Hillerød","http://dbpedia.org/resource/Capital_Region_of_Denmark","http://dbpedia.org/resource/UN/LOCODE:DKHIL http://dbpedia.org/resource/Hillerød http://dbpedia.org/resource/Hillerod http://dbpedia.org/resource/City_of_Hillerød"
+"1","7","Santa Maria Island","http://dbpedia.org/resource/Azores","http://dbpedia.org/resource/Santa_Maria_Island http://dbpedia.org/resource/Santa_Maria_Island_power_station http://dbpedia.org/resource/Santa_Maria_Island_(Azores) http://dbpedia.org/resource/Santa_María_Island http://dbpedia.org/resource/Ilha_de_Santa_Maria"
+"1","9","Daga, Bhutan","http://dbpedia.org/resource/Daga,_Bhutan","http://dbpedia.org/resource/Dagana_(district) http://dbpedia.org/resource/Dhakana http://dbpedia.org/resource/Dagana_District http://dbpedia.org/resource/Daga_District,_Bhutan"

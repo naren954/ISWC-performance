@@ -1,0 +1,6 @@
+"F1: 0.82609","Precision: 0.82609","Recall: 0.82609"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","3","Jared Williams","http://dbpedia.org/resource/Jared_W._Williams","http://dbpedia.org/resource/Jared_Williams_(Virginia) http://dbpedia.org/resource/Jared_Williams_(congressman)"
+"1","10","Thomas L. Moore","http://dbpedia.org/resource/Thomas_Overton_Moore","http://dbpedia.org/resource/Thomas_L._Moore http://dbpedia.org/resource/Thomas_Love_Moore"
+"1","19","James Jones","http://dbpedia.org/resource/Jim_Jones_(politician)","http://dbpedia.org/resource/James_Jones_(VA_congressman) http://dbpedia.org/resource/James_Jones_(Virginia)"
+"1","22","Hugh Nelson","http://dbpedia.org/resource/Hugh_Nelson_(Canadian_politician)","http://dbpedia.org/resource/Hugh_Nelson_(congressman) http://dbpedia.org/resource/Hugh_Nelson_(U.S._Representative)"

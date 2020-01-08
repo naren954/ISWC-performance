@@ -1,0 +1,5 @@
+"F1: 0.00000","Precision: 0.00000","Recall: 0.00000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","1","Steve Fuller +","http://dbpedia.org/resource/Stephen_F._Austin","http://dbpedia.org/resource/Steve_Fuller_(American_football) http://dbpedia.org/resource/Steve_Fuller_(football_player)"
+"1","2","Banks McFadden","http://dbpedia.org/resource/Arthur_Fadden","http://dbpedia.org/resource/Banks_McFadden"
+"1","3","CJ Spiller","http://dbpedia.org/resource/Spiller","http://dbpedia.org/resource/C_J_Spiller http://dbpedia.org/resource/CJ_Spiller http://dbpedia.org/resource/Cj_spiller http://dbpedia.org/resource/C._J._Spiller http://dbpedia.org/resource/C.J._Spiller"

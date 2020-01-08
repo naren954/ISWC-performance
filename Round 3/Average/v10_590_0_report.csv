@@ -1,0 +1,17 @@
+F1: 0.58333,Precision: 0.58333,Recall: 0.58333,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,D. Robinson,http://dbpedia.org/resource/David_Robinson,http://dbpedia.org/resource/Drew_Robinson
+0,4,D. Garcia,http://dbpedia.org/resource/Danny_Garcia_(outfielder),http://dbpedia.org/resource/Drew_Garcia http://dbpedia.org/resource/Andrew_Garcia_(baseball)
+0,9,D. Tate,http://dbpedia.org/resource/Drew_Tate,http://dbpedia.org/resource/Donavan_Tate
+0,10,D. Williams,http://dbpedia.org/resource/Derek_Williams_(rugby_player),http://dbpedia.org/resource/Don_Williams_(baseball_scout)
+0,11,D. Long,http://dbpedia.org/resource/Dave_Long_(American_football),http://dbpedia.org/resource/Don_Long
+0,12,D. Smith,http://dbpedia.org/resource/Doug_Smith_(defensive_lineman),http://dbpedia.org/resource/Dominic_Smith_(baseball)
+0,23,D. Holmberg,http://dbpedia.org/resource/David_Holmberg,http://dbpedia.org/resource/Dennis_Holmberg
+0,25,D. Suárez,http://dbpedia.org/resource/Denis_Suárez,http://dbpedia.org/resource/Deinis_Suárez http://dbpedia.org/resource/Deinys_Suárez http://dbpedia.org/resource/Deinys_Suarez http://dbpedia.org/resource/Deinis_Suarez
+0,26,D. McGuire,http://dbpedia.org/resource/David_McGuire,http://dbpedia.org/resource/Deck_McGuire
+0,27,D. Treanor,http://dbpedia.org/resource/Matt_Treanor,http://dbpedia.org/resource/Dean_Treanor
+0,29,D. Cameron,http://dbpedia.org/resource/Dougie_Cameron,http://dbpedia.org/resource/Dazmon_Cameron http://dbpedia.org/resource/Daz_Cameron
+0,31,D. Denson,http://dbpedia.org/resource/Damon_Denson,http://dbpedia.org/resource/David_Denson http://dbpedia.org/resource/Dave_Denson
+0,33,D. Bergman,http://dbpedia.org/resource/Dave_Bergman,http://dbpedia.org/resource/David_Bergman_(baseball)
+0,34,D. Berg,http://dbpedia.org/resource/Dave_Berg_(infielder),http://dbpedia.org/resource/David_Berg_(pitcher) http://dbpedia.org/resource/David_Berg_(baseball)
+0,36,D. Jones,http://dbpedia.org/resource/Dwight_Jones_(basketball),http://dbpedia.org/resource/Daryl_Jones_(baseball)

@@ -1,0 +1,3 @@
+"F1: 0.66667","Precision: 0.66667","Recall: 0.66667"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","1","Billy Taylor","http://dbpedia.org/resource/Billy_Taylor_(running_back,_born_1956)","http://dbpedia.org/resource/Billy_Taylor_(running_back,_born_1950) http://dbpedia.org/resource/Billy_Taylor_(Canadian_football_running_back)"

@@ -1,0 +1,5 @@
+F1: 0.25000,Precision: 0.25000,Recall: 0.25000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,Hapoel Beit She'an,http://dbpedia.org/resource/Beit_She'an,http://dbpedia.org/resource/Hapoel_Beit_She'an_F.C.
+0,3,Hapoel Petah Tikva,http://dbpedia.org/resource/Petah_Tikva,http://dbpedia.org/resource/Hapoel_Petah_Tikva_FC http://dbpedia.org/resource/Hapoel_Petah_Tikva http://dbpedia.org/resource/Hapoel_Petah_Tikva_F.C. http://dbpedia.org/resource/Hapoel_Petah_Tikva_F_C http://dbpedia.org/resource/Hapoel_Petach_Tikva http://dbpedia.org/resource/Hapoel_Petach-Tikva_FC
+0,4,Maccabi Petah Tikva,http://dbpedia.org/resource/Petah_Tikva,http://dbpedia.org/resource/Maccabi_Petah_Tikva_F.C. http://dbpedia.org/resource/Maccabi_Petah_Tikva_F_C http://dbpedia.org/resource/Maccabi_Petach-Tikva_FC http://dbpedia.org/resource/Maccabi_Petah_Tikva_FC http://dbpedia.org/resource/Maccabi_Petah_Tikva_F._C. http://dbpedia.org/resource/Maccabi_Petach_Tikva_FC http://dbpedia.org/resource/Maccabi_Petah_Tikva

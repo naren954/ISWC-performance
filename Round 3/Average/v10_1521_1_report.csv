@@ -1,0 +1,7 @@
+F1: 0.68750,Precision: 0.68750,Recall: 0.68750,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,2,St. Joseph's High School,"http://dbpedia.org/resource/St._Joseph's_High_School_(Camden,_New_Jersey)","http://dbpedia.org/resource/St._Joseph's_High_School_(South_Bend) http://dbpedia.org/resource/St._Joseph_High_School_(South_Bend,_Indiana) http://dbpedia.org/resource/St._Joseph's_High_School_(South_Bend,_Indiana) http://dbpedia.org/resource/Saint_Joseph_High_School_(South_Bend,_Indiana)"
+1,11,Iola High School,http://dbpedia.org/resource/Iola_High_School_(Texas),http://dbpedia.org/resource/Iola_High_School
+1,12,University High School,"http://dbpedia.org/resource/University_High_School_(Waco,_Texas)","http://dbpedia.org/resource/University_High_School_(Normal) http://dbpedia.org/resource/University_High_School_(Normal,_Illinois)"
+1,14,Saint Francis High School,"http://dbpedia.org/resource/Saint_Francis_High_School_(St._Francis,_Wisconsin)","http://dbpedia.org/resource/Saint_Francis_High_School_(Mountain_View) http://dbpedia.org/resource/Saint_Francis_High_School_(Mountain_View,_California)"
+1,15,St. Mary's High School,"http://dbpedia.org/resource/St._Mary_High_School_(Paducah,_Kentucky)","http://dbpedia.org/resource/St._Mary's_High_School_(Maryland) http://dbpedia.org/resource/St._Mary's_High_School_(Annapolis,_Maryland) http://dbpedia.org/resource/St._Mary's_High_School_(Annapolis)"

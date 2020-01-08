@@ -1,0 +1,4 @@
+F1: 0.87500,Precision: 0.87500,Recall: 0.87500,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,8,Zak Jensen,http://dbpedia.org/resource/Zak_Zodiac,http://dbpedia.org/resource/Zak_Jensen
+2,14,Mark Kerr,http://dbpedia.org/resource/Mark_Kerr_(footballer),http://dbpedia.org/resource/The_Smashing_Machine http://dbpedia.org/resource/Mark_Kerr_(sportsman) http://dbpedia.org/resource/Mark_Kerr_(fighter)

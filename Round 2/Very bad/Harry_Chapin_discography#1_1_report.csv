@@ -1,0 +1,9 @@
+F1: 0.12500,Precision: 0.12500,Recall: 0.12500,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,2,"Greatest Stories Live Released: April 23, 1976 Label: Elektra Records",http://dbpedia.org/resource/EMI,http://dbpedia.org/resource/Greatest_Stories_Live
+1,3,"Legends of the Lost and Found Released: November, 1979 Label: Elektra Records",http://dbpedia.org/resource/One_of_a_Kind_(Moe_Bandy_album),http://dbpedia.org/resource/Legends_of_the_Lost_and_Found
+1,5,Remember When the Music Released: 1987 Label: Dunhill Compact Classics,http://dbpedia.org/resource/EMI,http://dbpedia.org/resource/Remember_When_the_Music
+1,6,"The Gold Medal Collection Released: September 13, 1988 Label: Elektra\/Asylum Records",http://dbpedia.org/resource/EMI,http://dbpedia.org/resource/The_Gold_Medal_Collection
+1,7,"Harry Chapin Tribute Released: July 1, 1990 Label: Relativity Records",http://dbpedia.org/resource/Michael_Jackson,http://dbpedia.org/resource/Harry_Chapin_Tribute
+1,8,"The Bottom Line Encore Collection Released: March 10, 1998 Label: The Bottom Line Record Company",http://dbpedia.org/resource/RCA,http://dbpedia.org/resource/The_Bottom_Line_Encore_Collection http://dbpedia.org/resource/The_Bottom_Line_Encore_Collection_(Harry_Chapin_album)
+1,9,"Story of a Life Released: October 19, 1999 Label: Elektra Records",http://dbpedia.org/resource/Michael_Jackson,http://dbpedia.org/resource/Story_of_a_Life

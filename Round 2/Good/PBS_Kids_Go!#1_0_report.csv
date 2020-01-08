@@ -1,0 +1,6 @@
+F1: 0.86207,Precision: 0.86207,Recall: 0.86207,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,6,Bali,http://dbpedia.org/resource/Balinese_language,http://dbpedia.org/resource/Bali_(series) http://dbpedia.org/resource/Bali_(character)
+0,15,It's My Life,http://dbpedia.org/resource/It's_My_Life_(Bon_Jovi_song),http://dbpedia.org/resource/It's_My_Life_(TV_series)
+0,17,Kratt's Creatures,http://dbpedia.org/resource/Kratts'_Creatures,http://dbpedia.org/resource/Kratt's_Creatures
+0,30,Zoom,http://dbpedia.org/resource/Zoom_(The_Knack_album),http://dbpedia.org/resource/Zoom_(1999_TV_series) http://dbpedia.org/resource/Joke_Girl http://dbpedia.org/resource/ZOOM_(1999_TV_series) http://dbpedia.org/resource/Elena_Shieh

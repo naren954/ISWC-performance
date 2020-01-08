@@ -1,0 +1,50 @@
+F1: 0.75130,Precision: 0.75130,Recall: 0.75130,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,2,L. Guerrero,http://dbpedia.org/resource/Lena_Guerrero,http://dbpedia.org/resource/Lalo_Guerrero
+3,5,M. Brooks,http://dbpedia.org/resource/Meredith_Brooks,http://dbpedia.org/resource/Melvin_Kaminsky http://dbpedia.org/resource/Melvin_James_Kaminsky http://dbpedia.org/resource/Melvyn_James_Kaminsky http://dbpedia.org/resource/List_of_Mel_Brooks_films http://dbpedia.org/resource/Melvyn_Kaminsky http://dbpedia.org/resource/Mel_Brooks http://dbpedia.org/resource/Mel_Brookes
+3,11,D. Yazbek,http://dbpedia.org/resource/Samar_Yazbek,http://dbpedia.org/resource/David_Yazbek
+3,14,W. Donaldson,http://dbpedia.org/resource/Lou_Donaldson,http://dbpedia.org/resource/Walter_Donaldson
+3,24,S. Silverman,http://dbpedia.org/resource/Sarah_Silverman,http://dbpedia.org/resource/Stanley_Silverman
+3,27,Disney,http://dbpedia.org/resource/Walt_Disney,"http://dbpedia.org/resource/The_Walt_Disney_Co. http://dbpedia.org/resource/The_Walt_Di$ney_Company http://dbpedia.org/resource/Walt_Disney_Studios_California http://dbpedia.org/resource/Disney_30_Countdown http://dbpedia.org/resource/Disney_(company) http://dbpedia.org/resource/Dispney http://dbpedia.org/resource/Disney_30 http://dbpedia.org/resource/Disney' http://dbpedia.org/resource/Disney_Enterprises,_Inc. http://dbpedia.org/resource/Disney_Company http://dbpedia.org/resource/Di.sn http://dbpedia.org/resource/The_Walt_Disney_Company_History http://dbpedia.org/resource/Disney_corporation http://dbpedia.org/resource/Dinsey http://dbpedia.org/resource/Walt_Disney_Studios_(California) http://dbpedia.org/resource/The_Walt_Disney_Corporation http://dbpedia.org/resource/History_of_The_Walt_Disney_Company http://dbpedia.org/resource/Steamboat_Ventures http://dbpedia.org/resource/Disney_Educational_Productions http://dbpedia.org/resource/Walt_Disney_Productions http://dbpedia.org/resource/Walt_Disney_company http://dbpedia.org/resource/Disney_Insider http://dbpedia.org/resource/Disney30.com http://dbpedia.org/resource/Walt_Disney_Corp. http://dbpedia.org/resource/Walt_Disney_Productions,_Ltd. http://dbpedia.org/resource/Disney30_Countdown http://dbpedia.org/resource/The_Disney_Brothers_Studio http://dbpedia.org/resource/Walt_Disney_Corporation http://dbpedia.org/resource/The_Disney_Company http://dbpedia.org/resource/IFLD http://dbpedia.org/resource/Disney_Editions http://dbpedia.org/resource/Disnwey http://dbpedia.org/resource/DISNEY http://dbpedia.org/resource/Disney30 http://dbpedia.org/resource/Classic_Disney_Cartoon_Era http://dbpedia.org/resource/TWDC http://dbpedia.org/resource/Disney_Media_Networks http://dbpedia.org/resource/Walt_Disney_Co. http://dbpedia.org/resource/Disney http://dbpedia.org/resource/The_Walt_Disney_Company http://dbpedia.org/resource/Mousewitz http://dbpedia.org/resource/Disney_Communications http://dbpedia.org/resource/Disney_Corporation http://dbpedia.org/resource/Walt_Disney_Company"
+3,29,D. Brossé,http://dbpedia.org/resource/Jean-Patrice_Brosse,http://dbpedia.org/resource/Dirk_Brosse http://dbpedia.org/resource/Dirk_Brossé
+3,30,R. Wright,http://dbpedia.org/resource/Richard_Wright_(author),http://dbpedia.org/resource/Robert_Wright_(writer)
+3,31,J. Larson,http://dbpedia.org/resource/Joel_Larson,http://dbpedia.org/resource/Jonathon_Larson http://dbpedia.org/resource/Johnathan_Larson http://dbpedia.org/resource/Jonathan_Larsen http://dbpedia.org/resource/Jonathan_Larson
+3,38,F. Chapin,http://dbpedia.org/resource/Harry_Chapin,http://dbpedia.org/resource/Frederic_Chapin
+3,42,G. Edwards,http://dbpedia.org/resource/Robert_Edwards_(physiologist),"http://dbpedia.org/resource/August_Edwards http://dbpedia.org/resource/Gus_Edwards,_Songwriter http://dbpedia.org/resource/Gus_Simon http://dbpedia.org/resource/Gus_Edwards_(songwriter) http://dbpedia.org/resource/Gus_Edwards"
+3,45,G. Stiles,http://dbpedia.org/resource/Gina_Stile,http://dbpedia.org/resource/George_Stiles
+3,49,M. Sklar,http://dbpedia.org/resource/Leland_Sklar,http://dbpedia.org/resource/Matthew_Sklar http://dbpedia.org/resource/Mathew_Sklar
+3,51,T. Clarke,http://dbpedia.org/resource/Tony_Clarke_(singer),http://dbpedia.org/resource/Terence_Clarke_(composer)
+3,60,L. Simon,http://dbpedia.org/resource/Lucien_Simon,http://dbpedia.org/resource/Lucy_simon http://dbpedia.org/resource/Lucy_Simon http://dbpedia.org/resource/Lucy_levine
+3,66,M. Brooks,http://dbpedia.org/resource/Meredith_Brooks,http://dbpedia.org/resource/Melvin_Kaminsky http://dbpedia.org/resource/Melvin_James_Kaminsky http://dbpedia.org/resource/Melvyn_James_Kaminsky http://dbpedia.org/resource/List_of_Mel_Brooks_films http://dbpedia.org/resource/Melvyn_Kaminsky http://dbpedia.org/resource/Mel_Brooks http://dbpedia.org/resource/Mel_Brookes
+3,93,S. Flaherty,http://dbpedia.org/resource/Robert_J._Flaherty,http://dbpedia.org/resource/Stephen_Flaherty
+3,95,A. Schwartz,http://dbpedia.org/resource/Stephen_Schwartz_(composer),http://dbpedia.org/resource/Arthur_Schwartz
+3,96,D. Yazbek,http://dbpedia.org/resource/Samar_Yazbek,http://dbpedia.org/resource/David_Yazbek
+3,98,M. Friedman,http://dbpedia.org/resource/Milton_Friedman,http://dbpedia.org/resource/Michael_Friedman_(composer) http://dbpedia.org/resource/Michael_Friedman_(Composer)
+3,99,H. Schmidt,http://dbpedia.org/resource/Howard_Schmidt,http://dbpedia.org/resource/Harvey_Schmidt
+3,102,B. Russell,http://dbpedia.org/resource/Bertrand_Russell,http://dbpedia.org/resource/Brenda_Russell http://dbpedia.org/resource/Brenda_Gordon
+3,103,H. Haines,http://dbpedia.org/resource/Richard_Haines,http://dbpedia.org/resource/H._R._Haines http://dbpedia.org/resource/Herbert_Haines http://dbpedia.org/resource/Herbert_E._Haines
+3,110,D. Murray,http://dbpedia.org/resource/David_Murray_(saxophonist),http://dbpedia.org/resource/Diedre_Murray_(playwright) http://dbpedia.org/resource/Deidre_Murray http://dbpedia.org/resource/Diedre_Murray
+3,111,C. Hall,http://dbpedia.org/resource/Conrad_Hall,http://dbpedia.org/resource/Carol_Hall
+3,120,M. Carlo,http://dbpedia.org/resource/Karl_Marx,http://dbpedia.org/resource/Monte_Carlo_(composer)
+3,121,B. Merrill,http://dbpedia.org/resource/Dina_Merrill,http://dbpedia.org/resource/Bob_Merrill
+3,131,T. Ward,http://dbpedia.org/resource/Tyler_Ward,http://dbpedia.org/resource/Trisha_Ward
+3,139,S. Daniels,http://dbpedia.org/resource/Stormy_Daniels,http://dbpedia.org/resource/Stanley_E._Daniels http://dbpedia.org/resource/Stanley_Daniels http://dbpedia.org/resource/Stanley_Edwin_Daniels http://dbpedia.org/resource/Stan_Daniels
+3,141,S. May,http://dbpedia.org/resource/Brian_May,http://dbpedia.org/resource/Simon_May
+3,142,N. H. Brown,http://dbpedia.org/resource/Ruth_Brown,http://dbpedia.org/resource/Ignacio_Herb_Brown http://dbpedia.org/resource/Naceo_Herb_Brown http://dbpedia.org/resource/Maceo_Herb_Brown http://dbpedia.org/resource/Nacio_Brown http://dbpedia.org/resource/Herb_Nacio_Brown http://dbpedia.org/resource/Nacio_Herb_Brown http://dbpedia.org/resource/Macio_Herb_Brown
+3,145,H. Krieger,http://dbpedia.org/resource/Robby_Krieger,http://dbpedia.org/resource/Henry_Krieger
+3,150,H. Netsky,http://dbpedia.org/resource/Netsky_(musician),http://dbpedia.org/resource/Hankus_Netsky
+3,156,D. Reeves,http://dbpedia.org/resource/Dianne_Reeves,http://dbpedia.org/resource/David_Reeves_(composer)
+3,157,S. Flaherty,http://dbpedia.org/resource/Robert_J._Flaherty,http://dbpedia.org/resource/Stephen_Flaherty
+3,162,D. Cerda,http://dbpedia.org/resource/Ferdinand_de_la_Cerda,http://dbpedia.org/resource/David_Cerda
+3,164,D. Friedman,http://dbpedia.org/resource/Don_Friedman,http://dbpedia.org/resource/David_Friedman_(composer)
+3,165,M. Friedman,http://dbpedia.org/resource/Milton_Friedman,http://dbpedia.org/resource/Michael_Friedman_(composer) http://dbpedia.org/resource/Michael_Friedman_(Composer)
+3,166,B. Gees,http://dbpedia.org/resource/Barry_Gibb,"http://dbpedia.org/resource/Bee-Gees http://dbpedia.org/resource/Bee_Gees_(The) http://dbpedia.org/resource/The_Beegees http://dbpedia.org/resource/Bee_Gee http://dbpedia.org/resource/BeeGees http://dbpedia.org/resource/The_Bee_Gees http://dbpedia.org/resource/Beegees http://dbpedia.org/resource/The_Bee-Gees http://dbpedia.org/resource/Brothers_gibb http://dbpedia.org/resource/B_gs http://dbpedia.org/resource/Throw_a_Penny http://dbpedia.org/resource/The_Brothers_Gibb http://dbpedia.org/resource/Bee_Gees http://dbpedia.org/resource/Brothers_Gibb http://dbpedia.org/resource/Bee_gees http://dbpedia.org/resource/Barry,_Robin_&_Maurice_Gibb http://dbpedia.org/resource/B.G.s http://dbpedia.org/resource/B.Gibb/R.Gibb/M.Gibb"
+3,168,S. Flaherty,http://dbpedia.org/resource/Robert_J._Flaherty,http://dbpedia.org/resource/Stephen_Flaherty
+3,171,H. Schmidt,http://dbpedia.org/resource/Howard_Schmidt,http://dbpedia.org/resource/Harvey_Schmidt
+3,172,J. Larson,http://dbpedia.org/resource/Joel_Larson,http://dbpedia.org/resource/Jonathon_Larson http://dbpedia.org/resource/Johnathan_Larson http://dbpedia.org/resource/Jonathan_Larsen http://dbpedia.org/resource/Jonathan_Larson
+3,174,S. Flaherty,http://dbpedia.org/resource/Robert_J._Flaherty,http://dbpedia.org/resource/Stephen_Flaherty
+3,177,S. Romberg,http://dbpedia.org/resource/Andreas_Romberg,http://dbpedia.org/resource/Sigmund_Romberg http://dbpedia.org/resource/Siegmund_Romberg
+3,178,B. J. Taylor,http://dbpedia.org/resource/James_Taylor,http://dbpedia.org/resource/Bernard_J._Taylor http://dbpedia.org/resource/Rock_n_Roll_Cafe_(musical)
+3,179,M. Norman,http://dbpedia.org/resource/Maidie_Norman,http://dbpedia.org/resource/Monty_Norman http://dbpedia.org/resource/Monte_Norman
+3,183,K. Hill,http://dbpedia.org/resource/Kim_Hill_(soul_musician),http://dbpedia.org/resource/Ken_Hill_(playwright)
+3,193,S. Flaherty,http://dbpedia.org/resource/Robert_J._Flaherty,http://dbpedia.org/resource/Stephen_Flaherty

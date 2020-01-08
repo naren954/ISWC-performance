@@ -1,0 +1,16 @@
+F1: 0.72000,Precision: 0.72000,Recall: 0.72000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,4,C. Ponti,http://dbpedia.org/resource/Gio_Ponti,http://dbpedia.org/resource/Carlo_Ponti
+1,7,A. Mann,http://dbpedia.org/resource/Aimee_Mann,"http://dbpedia.org/resource/Anthony_Mann http://dbpedia.org/resource/Mann,_Anthony"
+1,12,J. McWhirter,http://dbpedia.org/resource/John_MacWhirter,http://dbpedia.org/resource/Julie_McWhirter http://dbpedia.org/resource/Julie_Dees
+1,18,1. i. film,http://dbpedia.org/resource/Warner_Bros.,http://dbpedia.org/resource/1975_in_the_movies http://dbpedia.org/resource/List_of_films_of_1975 http://dbpedia.org/resource/1975_in_the_cinema http://dbpedia.org/resource/1975_film http://dbpedia.org/resource/1975_films http://dbpedia.org/resource/1975_in_cinema http://dbpedia.org/resource/1975_in_film http://dbpedia.org/resource/Movies_in_1975 http://dbpedia.org/resource/1975_movie http://dbpedia.org/resource/1975_in_films http://dbpedia.org/resource/1975_movies
+1,27,R. Agoncillo,http://dbpedia.org/resource/Felipe_Agoncillo,http://dbpedia.org/resource/Ryan_Agoncillo
+1,29,S. Penna,http://dbpedia.org/resource/Sandro_Penna,http://dbpedia.org/resource/Sarah_Penna
+1,30,D. Arellano,http://dbpedia.org/resource/Oswaldo_López_Arellano,http://dbpedia.org/resource/Drew_Arellano
+1,31,1. i. music,http://dbpedia.org/resource/Warner_Bros.,http://dbpedia.org/resource/1949_in_music
+1,39,A. Sinclair,http://dbpedia.org/resource/Anne_Sinclair,http://dbpedia.org/resource/Ashraf_Sinclair
+1,42,C. Shivers,http://dbpedia.org/resource/Allan_Shivers,http://dbpedia.org/resource/Coyote_Shivers
+1,43,P. Karanth,http://dbpedia.org/resource/B._V._Karanth,http://dbpedia.org/resource/Prema_Karanth
+1,45,R. Smith,http://dbpedia.org/resource/Ne-Yo,http://dbpedia.org/resource/Roger_Smith_(actor)
+1,46,C. Campbell,http://dbpedia.org/resource/Caroline_Campbell,http://dbpedia.org/resource/Christian_Campbell
+1,47,A. Ramirez,http://dbpedia.org/resource/Sancho_Ramírez,http://dbpedia.org/resource/Abner_Ramirez http://dbpedia.org/resource/Johnnyswim http://dbpedia.org/resource/A_Johnnyswim_Christmas http://dbpedia.org/resource/Georgica_Pond_(album)

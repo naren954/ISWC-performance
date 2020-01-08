@@ -1,0 +1,5 @@
+"F1: 0.94000","Precision: 0.94000","Recall: 0.94000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"3","23","Shōnen Ace","http://dbpedia.org/resource/Monthly_Shōnen_Ace","http://dbpedia.org/resource/Shōnen_Ace"
+"3","25","Monthly Comic Birz","http://dbpedia.org/resource/Comic_Beam","http://dbpedia.org/resource/Comic_Birz http://dbpedia.org/resource/Monthly_Comic_Birz"
+"3","35","Shōnen Ace","http://dbpedia.org/resource/Monthly_Shōnen_Ace","http://dbpedia.org/resource/Shōnen_Ace"

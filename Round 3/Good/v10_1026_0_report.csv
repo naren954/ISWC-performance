@@ -1,0 +1,9 @@
+F1: 0.96447,Precision: 0.96447,Recall: 0.96447,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,Ferrissia fragilis,http://dbpedia.org/resource/Ferrissia_gentilis,http://dbpedia.org/resource/F._fragilis http://dbpedia.org/resource/Ferrissia_fragilis
+0,98,Disculella maderensis,http://dbpedia.org/resource/Disculella_madeirensis,http://dbpedia.org/resource/Disculella_maderensis
+0,103,Discula bulweri,http://dbpedia.org/resource/Discula_bulverii,http://dbpedia.org/resource/Discula_bulweri
+0,123,Digerus gibberulus,http://es.dbpedia.org/resource/Tomigerus_gibberulus,http://dbpedia.org/resource/Digerus_gibberulus http://dbpedia.org/resource/Tornigenus_gibberulus http://dbpedia.org/resource/Digerus http://dbpedia.org/resource/Tomigerus_gibberulus
+0,129,Deroceras fatrense,http://dbpedia.org/resource/Deroceras_tarracense,http://dbpedia.org/resource/Deroceras_fatrense
+0,151,Cyclonaias tuberculata,http://dbpedia.org/resource/Rotundaria_tuberculata,http://dbpedia.org/resource/Cyclonaias_tuberculata http://dbpedia.org/resource/Cyclonaias
+0,163,Cumberland monkeyface pearly mussel,http://dbpedia.org/resource/Theliderma_intermedia,http://dbpedia.org/resource/Q._intermedia http://dbpedia.org/resource/Quadrula_intermedia http://dbpedia.org/resource/Cumberland_monkey-face_pearly_mussel http://dbpedia.org/resource/Cumberland_monkeyface_pearly_mussel http://dbpedia.org/resource/Cumberland_monkeyface

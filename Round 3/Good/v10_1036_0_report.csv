@@ -1,0 +1,9 @@
+F1: 0.87719,Precision: 0.87719,Recall: 0.87719,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,6,E. Cooper,http://dbpedia.org/resource/Edgar_Cooper,http://dbpedia.org/resource/Earl_Cooper
+0,14,D. Wilson,http://dbpedia.org/resource/Dwaine_Wilson,http://dbpedia.org/resource/Dempsey_Wilson
+0,24,C. Harrison,"http://dbpedia.org/resource/Billy_Harrison_(footballer,_born_1886)",http://dbpedia.org/resource/Cuth_Harrison
+0,30,C. Trickle,http://dbpedia.org/resource/Dick_Trickle,http://dbpedia.org/resource/Chris_Trickle
+0,34,C. Green,http://dbpedia.org/resource/Carl_Green,http://dbpedia.org/resource/Cecil_Green
+0,44,B. Scott,http://dbpedia.org/resource/Brian_Scott,http://dbpedia.org/resource/Bob_Scott_(racind_driver) http://dbpedia.org/resource/Bob_Scott_(racing_driver) http://dbpedia.org/resource/Bob_Scott_(auto_racer)
+0,45,B. Brown,"http://dbpedia.org/resource/Billy_Brown_(footballer,_born_1900)",http://dbpedia.org/resource/Bob_Brown_(motorcyclist)

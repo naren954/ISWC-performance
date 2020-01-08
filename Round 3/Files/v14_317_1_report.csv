@@ -1,0 +1,5 @@
+"F1: 0.86364","Precision: 0.86364","Recall: 0.86364"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","5","Eglish St. Patrick's","http://dbpedia.org/resource/St_Patrick's_Athletic_F.C.","http://dbpedia.org/resource/Eglish_St._Patrick's http://dbpedia.org/resource/Eglish_St._Patrick’s_GAC http://dbpedia.org/resource/Eglish_St._Patrick's_GAC"
+"1","12","Erin's Own GAA","http://dbpedia.org/resource/Erin's_Own_GAA_(Cork)","http://dbpedia.org/resource/Erin's_Own_GAA_(Waterford)"
+"1","13","Erin's Own GAA","http://dbpedia.org/resource/Erin's_Own_GAA_(Cork)","http://dbpedia.org/resource/Erin's_Own_GAA_(Waterford)"

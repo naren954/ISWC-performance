@@ -1,0 +1,7 @@
+F1: 0.37500,Precision: 0.37500,Recall: 0.37500,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Newport,"http://dbpedia.org/resource/Newport,_Wales","http://dbpedia.org/resource/Pan_Estate http://dbpedia.org/resource/Newport,_Isle_of_Wight http://dbpedia.org/resource/Newport,_IOW http://dbpedia.org/resource/Newport,_Isle_of_White http://dbpedia.org/resource/Newport,_Hampshire"
+0,2,Brading,http://dbpedia.org/resource/Charles_Brading,http://dbpedia.org/resource/Brading
+0,3,Cowes,http://dbpedia.org/resource/Cattle,http://dbpedia.org/resource/Cowes_Park_&_Ride http://dbpedia.org/resource/West_Cow http://dbpedia.org/resource/Cowes http://dbpedia.org/resource/West_Cowes http://dbpedia.org/resource/Somerton_park_and_ride http://dbpedia.org/resource/Somerton_Park_&_Ride http://dbpedia.org/resource/Cowes_Park_and_Ride
+0,7,Shanklin,http://dbpedia.org/resource/Chuck_Shanklin,http://dbpedia.org/resource/Shanklin
+0,9,Yarmouth,http://dbpedia.org/resource/Nova_Scotia,"http://dbpedia.org/resource/Yarmouth_Bus_Station http://dbpedia.org/resource/Yarmouth,_Hampshire http://dbpedia.org/resource/Yarmouth_bus_station http://dbpedia.org/resource/Yarmouth,_Isle_of_Wight"

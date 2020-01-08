@@ -1,0 +1,9 @@
+F1: 0.36364,Precision: 0.36364,Recall: 0.36364,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,D. E. Garland,http://dbpedia.org/resource/David_W._Garland,http://dbpedia.org/resource/David_E._Garland
+1,2,K. Healey,http://dbpedia.org/resource/Kevin_Healey,http://dbpedia.org/resource/Kerry_Healy http://dbpedia.org/resource/Kerry_Murphy_Healey http://dbpedia.org/resource/Kerry_M._Healey http://dbpedia.org/resource/Kerry_Healey
+1,3,B. Keel,http://dbpedia.org/resource/Romansh_language,http://dbpedia.org/resource/Brooks_A._Keel http://dbpedia.org/resource/Brooks_Keel
+1,6,T. Manley,http://dbpedia.org/resource/Elizabeth_Manley,http://dbpedia.org/resource/Dr._Tom_Manley http://dbpedia.org/resource/Tom_Manley_(college_president) http://dbpedia.org/resource/Dr._Thomas_Manley
+1,8,C. Riordan,http://dbpedia.org/resource/Rick_Riordan,http://dbpedia.org/resource/Christine_Riordan
+1,9,P. Schubert,http://dbpedia.org/resource/Peter_Schubert_(football_manager),http://dbpedia.org/resource/Phil_Schubert
+1,11,C. M. Phelps,http://dbpedia.org/resource/Michael_Phelps,http://dbpedia.org/resource/Craig_M._Phelps

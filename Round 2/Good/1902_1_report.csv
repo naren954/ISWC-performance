@@ -1,0 +1,27 @@
+F1: 0.84076,Precision: 0.84076,Recall: 0.84076,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,The Land,http://dbpedia.org/resource/This_Land_Is_Your_Land,http://dbpedia.org/resource/The_Land_(novel) http://dbpedia.org/resource/The_Land_(Mildred_D._Taylor)
+1,5,Hammer of God,http://dbpedia.org/resource/The_Hammer_of_God_(DeMille_novel),http://dbpedia.org/resource/Hammer_of_God_(Miller_novel) http://dbpedia.org/resource/Hammer_of_God_(2008) http://dbpedia.org/resource/Hammer_of_God_(Karen_Miller_novel)
+1,15,The Crow,http://dbpedia.org/resource/Jump_Jim_Crow,http://dbpedia.org/resource/The_Crow_(novel)
+1,21,The Fate of Ten,http://fr.dbpedia.org/resource/Le_Destin_de_Dix,"http://dbpedia.org/resource/Lorien_Legacies http://dbpedia.org/resource/Pittacus_Lore http://dbpedia.org/resource/The_Lorien_Legacies http://dbpedia.org/resource/United_As_One http://dbpedia.org/resource/Lore,_Pittacus http://dbpedia.org/resource/The_Fate_of_Ten http://dbpedia.org/resource/The_Revenge_Of_Seven http://dbpedia.org/resource/Jobie_Hughes"
+1,23,The Conspiracy,http://dbpedia.org/resource/Conspiracy_(Star_Trek:_The_Next_Generation),http://dbpedia.org/resource/The_Conspiracy_(Animorphs) http://dbpedia.org/resource/The_Conspiracy_(novel)
+1,31,The Legacy,http://dbpedia.org/resource/The_Legacy_(album),http://dbpedia.org/resource/The_Legacy_(novel)
+1,46,Nemesis,http://dbpedia.org/resource/Nemesis_(Angel_novel),http://dbpedia.org/resource/Nemesis_(Jo_Nesbø_novel) http://dbpedia.org/resource/Nemesis_(Nesbø_novel) http://dbpedia.org/resource/Nemesis_(Nesbo_novel) http://dbpedia.org/resource/Sorgenfri_(novel)
+1,50,The Gathering,http://dbpedia.org/resource/The_Gathering_(Testament_album),http://dbpedia.org/resource/The_Gathering_(Armstrong_novel)
+1,51,The Seekers,http://dbpedia.org/resource/The_Seekers_(1964_album),http://dbpedia.org/resource/The_Seekers_(novel)
+1,52,Black Water,http://dbpedia.org/resource/Black_Water_(song),http://dbpedia.org/resource/Black_Water_(Pendragon) http://dbpedia.org/resource/Black_Water_(novel)
+1,53,The Change,http://dbpedia.org/resource/Change_(Sugababes_album),http://dbpedia.org/resource/The_Change_(novel) http://dbpedia.org/resource/The_Change_(Animorphs)
+1,56,Left Behind,http://dbpedia.org/resource/The_Last_of_Us:_Left_Behind,http://dbpedia.org/resource/Left_Behind:_A_Novel_of_the_Earth's_Last_Days http://dbpedia.org/resource/Left_Behind_(novel)
+1,57,Brothers in Arms,http://dbpedia.org/resource/Brothers_in_Arms_(Bujold_novel),http://dbpedia.org/resource/The_soulforge http://dbpedia.org/resource/The_Raistlin_Chronicles http://dbpedia.org/resource/The_Soulforge http://dbpedia.org/resource/Brothers_in_Arms_(Dragonlance_novel)
+1,76,Visser,http://dbpedia.org/resource/Visser,http://dbpedia.org/resource/Visser_(novel)
+1,79,The Proposal,,http://dbpedia.org/resource/The_Proposal_(Animorphs) http://dbpedia.org/resource/The_Proposal_(novel)
+1,100,Eye,http://dbpedia.org/resource/Eye_(journal),http://dbpedia.org/resource/Eye_(short_story_collection) http://dbpedia.org/resource/The_Road_to_Dune_(short_story) http://dbpedia.org/resource/Eye_(Frank_Herbert)
+1,102,Rules of Engagement,http://dbpedia.org/resource/Rules_of_Engagement_(Elizabeth_Moon_novel),http://dbpedia.org/resource/Rules_of_Engagement_(Sir_John_Fielding_novel) http://dbpedia.org/resource/Rules_of_Engagement_(Alexander_novel)
+1,103,The Capture,http://dbpedia.org/resource/Captured_(Journey_album),http://dbpedia.org/resource/The_Capture_(Animorphs) http://dbpedia.org/resource/The_Capture_(novel)
+1,107,The Magic,http://dbpedia.org/resource/My_Little_Pony:_Friendship_Is_Magic,http://dbpedia.org/resource/The_Magic_(book)
+1,109,Mother Earth,http://dbpedia.org/resource/Mother_Earth_(album),http://dbpedia.org/resource/Mother_Earth_(novelette) http://dbpedia.org/resource/Mother_Earth_(Asimov) http://dbpedia.org/resource/Ion_Mereanu
+1,111,The Stranger,http://dbpedia.org/resource/The_Stranger_(song),http://dbpedia.org/resource/The_Stranger_(Van_Allsburg_book) http://dbpedia.org/resource/The_Stranger_(Chris_Van_Allsburg_book) http://dbpedia.org/resource/The_Stranger_(Chris_Van_Allsburg_novel)
+1,114,Space Chronicles: Facing the Ultimate Frontier,http://dbpedia.org/resource/Space_Chronicles,http://dbpedia.org/resource/Space_Chronicles:_Facing_the_Ultimate_Frontier
+1,141,The End,http://dbpedia.org/resource/In_the_End,http://dbpedia.org/resource/A_Series_of_Unfortunate_Events_XIII:_The_End http://dbpedia.org/resource/The_End_(novel) http://dbpedia.org/resource/Book_the_Fourteenth http://dbpedia.org/resource/Chapter_Fourteen_(A_Series_of_Unfortunate_Events) http://dbpedia.org/resource/Book_the_Thirteenth_(A_Series_of_Unfortunate_Events) http://dbpedia.org/resource/Coconut_cordial http://dbpedia.org/resource/Book_the_Thirteenth http://dbpedia.org/resource/The_End_(A_Series_of_Unfortunate_Events) http://dbpedia.org/resource/Chapter_Fourteen
+1,143,Exposure,http://dbpedia.org/resource/Exposure_(Exposé_album),http://dbpedia.org/resource/Exposure_(Peet_novel)
+1,148,Radiant Angel,http://dbpedia.org/resource/Radiant_Angel,http://dbpedia.org/resource/Radiant_Angel_(novel)

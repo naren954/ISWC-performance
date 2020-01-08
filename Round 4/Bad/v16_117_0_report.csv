@@ -1,0 +1,29 @@
+F1: 0.40000,Precision: 0.40000,Recall: 0.40000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,T. Angus,http://dbpedia.org/resource/Terry_Angus,http://dbpedia.org/resource/Tom_Angus
+0,4,T. Adams,http://dbpedia.org/resource/Terry_Adams_(BMX_rider),http://dbpedia.org/resource/Tom_Adams_(cricketer)
+0,5,T. Abel,http://de.dbpedia.org/resource/Torsten_Abel,http://dbpedia.org/resource/Tom_Abel_(cricketer)
+0,6,T. Burnett,http://dbpedia.org/resource/Tom_Burnett_(footballer),http://dbpedia.org/resource/Tolly_Burnett
+0,7,T. Williams,http://dbpedia.org/resource/Tony_Williams_(rugby_league),http://dbpedia.org/resource/Tip_Williams
+0,9,T. Duke,http://dbpedia.org/resource/Tracey_Duke,http://dbpedia.org/resource/Timothy_Duke_(cricketer)
+0,10,T. Curtis,http://dbpedia.org/resource/Tim_Curtis,http://dbpedia.org/resource/Timothy_Curtis
+0,12,T. Bevington,http://dbpedia.org/resource/Terry_Bevington,http://dbpedia.org/resource/Timothy_Bevington
+0,14,T. Caldwell,http://dbpedia.org/resource/Thomas_Caldwell_(sport_shooter),http://dbpedia.org/resource/Tim_Caldwell_(cricketer)
+0,15,T. Smith,http://dbpedia.org/resource/Troy_Smith_(wide_receiver),http://dbpedia.org/resource/Tiger_Smith
+0,16,T. Lance,http://dbpedia.org/resource/Thomas_Lance,http://dbpedia.org/resource/Tiger_Lance http://dbpedia.org/resource/Herbert_Lance
+0,17,T. Freeman,http://dbpedia.org/resource/Thomas_Freeman_(Australian_cricketer),"http://dbpedia.org/resource/A.P._Freeman http://dbpedia.org/resource/Tich_Freeman http://dbpedia.org/resource/A_P_Freeman http://dbpedia.org/resource/Alfred_Percy_Freeman http://dbpedia.org/resource/Alfred_Percy_""Tich""_Freeman"
+0,18,T. Cornford,http://dbpedia.org/resource/Jim_Cornford,http://dbpedia.org/resource/Tich_Cornford
+0,19,T. Cotter,http://dbpedia.org/resource/Tom_Cotter_(baseball),http://dbpedia.org/resource/Tibby_Cotter http://dbpedia.org/resource/Albert_Cotter
+0,22,T. Wright,http://dbpedia.org/resource/Tyler_Wright_(surfer),"http://dbpedia.org/resource/Thomas_Wright_(cricketer,_born_1900)"
+0,25,T. Wilson,http://dbpedia.org/resource/Tom_Wilson_(1910s_catcher),"http://dbpedia.org/resource/Thomas_Wilson_(cricketer,_born_1841) http://dbpedia.org/resource/Thomas_Wilson_(English_cricketer)"
+0,26,T. Williams,http://dbpedia.org/resource/Tony_Williams_(rugby_league),"http://dbpedia.org/resource/Thomas_Williams_(cricketer,_born_1884)"
+0,28,T. White,http://dbpedia.org/resource/Todd_White,"http://dbpedia.org/resource/Thomas_White_(cricketer,_born_1892) http://dbpedia.org/resource/Thomas_White_(Sussex_cricketer)"
+0,31,T. Wells,http://dbpedia.org/resource/Todd_Wells,http://dbpedia.org/resource/Thomas_Wells_(cricketer)
+0,32,T. Welch,http://dbpedia.org/resource/Ted_Welch,http://dbpedia.org/resource/Thomas_Welch_(cricketer)
+0,33,T. Wass,http://dbpedia.org/resource/Ted_Wass_(footballer),http://dbpedia.org/resource/T._Wass http://dbpedia.org/resource/Thomas_Wass http://dbpedia.org/resource/T.G._Wass http://dbpedia.org/resource/Thomas_George_Wass http://dbpedia.org/resource/Tom_Wass
+0,35,T. Warren,http://dbpedia.org/resource/Tanya_Warren,http://dbpedia.org/resource/Thomas_Warren_(cricketer)
+0,37,T. Wall,http://dbpedia.org/resource/Tim_Wall,"http://dbpedia.org/resource/Thomas_Wall_(cricketer,_born_1841)"
+0,38,T. Walker,http://dbpedia.org/resource/Tom_Walker_(1970s_pitcher),http://dbpedia.org/resource/Thomas_Walker_(Yorkshire_cricketer)
+0,41,T. Turner,http://dbpedia.org/resource/Tom_Turner_(catcher),http://dbpedia.org/resource/Thomas_Turner_(cricketer)
+0,42,T. Tucker,http://dbpedia.org/resource/Trent_Tucker,http://dbpedia.org/resource/Thomas_Tucker_(cricketer)
+0,45,T. Toogood,http://dbpedia.org/resource/Ted_Toogood,http://dbpedia.org/resource/Thomas_Toogood

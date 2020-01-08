@@ -1,0 +1,4 @@
+F1: 0.71429,Precision: 0.71429,Recall: 0.71429,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,4,Racing Club de France,http://dbpedia.org/resource/Racing_de_Santander,http://dbpedia.org/resource/Racing_Métro_92
+0,6,Newport,http://dbpedia.org/resource/Newport_County_A.F.C.,http://dbpedia.org/resource/Newport_Rugby_Football_Club http://dbpedia.org/resource/Newport_RFC http://dbpedia.org/resource/Newport_Rugby_Club http://dbpedia.org/resource/Elliot_Norris

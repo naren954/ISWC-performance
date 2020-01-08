@@ -1,0 +1,15 @@
+F1: 0.91772,Precision: 0.91772,Recall: 0.91772,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,9,A. González,http://dbpedia.org/resource/Adrián_González,http://dbpedia.org/resource/Alejandro_Gonzalez_(tennis) http://dbpedia.org/resource/Alejandro_González_(tennis)
+1,18,A. González,http://dbpedia.org/resource/Adrián_González,http://dbpedia.org/resource/Alejandro_Gonzalez_(tennis) http://dbpedia.org/resource/Alejandro_González_(tennis)
+1,21,A. González,http://dbpedia.org/resource/Adrián_González,http://dbpedia.org/resource/Alejandro_Gonzalez_(tennis) http://dbpedia.org/resource/Alejandro_González_(tennis)
+1,27,D. Young,http://dbpedia.org/resource/Derek_Young,"http://dbpedia.org/resource/Donald_Young_(tennis) http://dbpedia.org/resource/Donald_Young,_Jr. http://dbpedia.org/resource/Donald_Young_(Tennis) http://dbpedia.org/resource/Donald_Young_(tennis_player)"
+1,28,A. González,http://dbpedia.org/resource/Adrián_González,http://dbpedia.org/resource/Alejandro_Gonzalez_(tennis) http://dbpedia.org/resource/Alejandro_González_(tennis)
+1,40,B. Becker,http://dbpedia.org/resource/Boris_Becker,http://dbpedia.org/resource/Benjamin_Becker
+1,50,K. Plíšková,http://dbpedia.org/resource/Karolína_Plíšková,http://dbpedia.org/resource/Kristýna_Plíšková
+1,58,B. Jovanovski,http://dbpedia.org/resource/Bojana_Jovanovski_Petrović,http://dbpedia.org/resource/Bojana_Jovanovski http://dbpedia.org/resource/Bojana_Jovanovska
+1,72,A. B. Jr.,http://dbpedia.org/resource/George_W._Bush,"http://dbpedia.org/resource/Alex_Bogomolov_Jr http://dbpedia.org/resource/Alex_Bogomolov http://dbpedia.org/resource/Alex_Bogomolov,_Jr. http://dbpedia.org/resource/Alex_Bogomolov_Jr."
+1,80,A. B. Jr.,http://dbpedia.org/resource/George_W._Bush,"http://dbpedia.org/resource/Alex_Bogomolov_Jr http://dbpedia.org/resource/Alex_Bogomolov http://dbpedia.org/resource/Alex_Bogomolov,_Jr. http://dbpedia.org/resource/Alex_Bogomolov_Jr."
+1,107,L. Davis,http://dbpedia.org/resource/Lee_Davis,http://dbpedia.org/resource/Lauren_Davis
+1,137,B. Becker,http://dbpedia.org/resource/Boris_Becker,http://dbpedia.org/resource/Benjamin_Becker
+1,148,S. Johnson,http://dbpedia.org/resource/Dwayne_Johnson,http://dbpedia.org/resource/Steve_Johnson_(tennis_player) http://dbpedia.org/resource/Steve_Johnson_(tennis)

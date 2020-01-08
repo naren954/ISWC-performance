@@ -1,0 +1,9 @@
+F1: 0.72000,Precision: 0.72000,Recall: 0.72000,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,3,Li Jian,"http://dbpedia.org/resource/Li_Jian_(footballer,_born_1989)","http://dbpedia.org/resource/Li_Jian_(footballer,_born_September_1985) http://dbpedia.org/resource/Li_Jian_(football_goalkeeper,_born_1985)"
+3,6,Dani,http://dbpedia.org/resource/Dani_Sánchez,http://dbpedia.org/resource/Daniel_Cancela http://dbpedia.org/resource/Dani_Cancela
+3,11,Michael,http://dbpedia.org/resource/Willie_Michael,http://dbpedia.org/resource/Majkl_Cvetkovski http://dbpedia.org/resource/Michael_Cvetkovski
+3,18,Diaz,http://dbpedia.org/resource/Raphael_Diaz,http://dbpedia.org/resource/Jose_Maria_Diaz_Munoz http://dbpedia.org/resource/José_María_Díaz_Muñoz
+3,24,Yago,http://dbpedia.org/resource/Iago_Falque,http://dbpedia.org/resource/Yago_González_López
+3,26,Jordi,http://dbpedia.org/resource/Francine_Jordi,http://dbpedia.org/resource/Jordi_Tarrés_(footballer)
+3,27,Roberto,http://dbpedia.org/resource/Sergi_Roberto,http://dbpedia.org/resource/Roberto_Losada_Rodríguez http://dbpedia.org/resource/Roberto_Losada_Rodriguez http://dbpedia.org/resource/Roberto_Losada

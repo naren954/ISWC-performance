@@ -1,0 +1,43 @@
+F1: 0.71724,Precision: 0.71724,Recall: 0.71724,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,4,H. Brooke,http://dbpedia.org/resource/Tyler_Brooke,http://dbpedia.org/resource/Hilary_Brook http://dbpedia.org/resource/Beatrice_Sofia_Mathilda_Peterson http://dbpedia.org/resource/Beatrice_Peterson http://dbpedia.org/resource/Hilary_Brooke http://dbpedia.org/resource/Hillary_Brook http://dbpedia.org/resource/Hillary_Brooke
+0,7,H. Garrett,http://dbpedia.org/resource/Elizabeth_Garrett,http://dbpedia.org/resource/Henry_Garrett http://dbpedia.org/resource/Henry_E._Garrett
+0,9,H. Betti,http://dbpedia.org/resource/Laura_Betti,http://dbpedia.org/resource/Henri_Betti
+0,12,H. Martin,http://dbpedia.org/resource/George_Martin,"http://dbpedia.org/resource/Helen_Martin http://dbpedia.org/resource/Martin,_Helen"
+0,13,H. Gardner,http://dbpedia.org/resource/Elizabeth_Jane_Gardner,http://dbpedia.org/resource/Helen_Gardner_(actress)
+0,18,H. Huber,http://dbpedia.org/resource/Hans_Huber_(composer),http://dbpedia.org/resource/Harold_Huber
+0,20,H. Smith,http://dbpedia.org/resource/Howard_Smith_(director),http://dbpedia.org/resource/Harold_John_Smith http://dbpedia.org/resource/Hal_Smith_(actor)
+0,22,H. Douglas,http://dbpedia.org/resource/Paul_Douglas,http://dbpedia.org/resource/Hal_Douglas
+0,23,H. Block,http://pt.dbpedia.org/resource/Helmut_Block,http://dbpedia.org/resource/Hal_Block
+0,30,G. Morris,http://dbpedia.org/resource/Gouverneur_Morris,http://dbpedia.org/resource/Greg_Morris
+0,43,G. Harding,http://dbpedia.org/resource/Warren_G._Harding,http://dbpedia.org/resource/Gilbert_Harding
+0,44,G. Ryan,http://dbpedia.org/resource/George_Ryan,http://dbpedia.org/resource/Maura_Ryan http://dbpedia.org/resource/Mora_Brennan http://dbpedia.org/resource/Gerry_Ryan http://dbpedia.org/resource/Morah_Brennan http://dbpedia.org/resource/Morah_Ryan http://dbpedia.org/resource/Gerard_Ryan http://dbpedia.org/resource/Would_the_Real_Gerry_Ryan_Please_Stand_Up http://dbpedia.org/resource/Maura_Brennan http://dbpedia.org/resource/Mora_Ryan
+0,45,G. Murphy,http://dbpedia.org/resource/George_Murphy,http://dbpedia.org/resource/Gerard_Murphy_(Irish_actor) http://dbpedia.org/resource/Gerard_Murphy_(British_actor)
+0,52,G. Lindsey,http://dbpedia.org/resource/Lindsey_Graham,"http://dbpedia.org/resource/George_""Goober""_Lindsey http://dbpedia.org/resource/George_Lindsey"
+0,63,G. Davis,http://dbpedia.org/resource/Glenn_Davis_(halfback),http://dbpedia.org/resource/Gail_Davis
+0,69,F. Urquhart,http://dbpedia.org/resource/Thomas_Urquhart,http://dbpedia.org/resource/Fred_Urquhart http://dbpedia.org/resource/Norah_Urquhart http://dbpedia.org/resource/Freud_Urquhart
+0,78,F. Maxwell,http://dbpedia.org/resource/Lois_Maxwell,http://dbpedia.org/resource/Frank_Maxwell
+0,82,F. C. Baxter,http://dbpedia.org/resource/Edward_Felix_Baxter,http://dbpedia.org/resource/Dr._Research http://dbpedia.org/resource/Francis_Baxter http://dbpedia.org/resource/Doctor_Research http://dbpedia.org/resource/Frank_C._Baxter
+0,90,E. Henning,http://de.dbpedia.org/resource/Ernst_Henning,http://dbpedia.org/resource/Eva_Henning
+0,91,E. O'Brien,http://dbpedia.org/resource/Edmond_O'Brien,http://dbpedia.org/resource/Eugene_O'Brien_(actor)
+0,93,E. Williams,http://dbpedia.org/resource/Robin_Williams,http://dbpedia.org/resource/Esther_Jane_Williams http://dbpedia.org/resource/Esther_Wilson http://dbpedia.org/resource/Esther_Williams
+0,101,E. C. Jr.,http://dbpedia.org/resource/Calvin_Coolidge,"http://dbpedia.org/resource/Elisha_Cook_Jr http://dbpedia.org/resource/Elisha_Cook_Junior http://dbpedia.org/resource/Elisha_Cook,_Jr. http://dbpedia.org/resource/Elisha_Cook http://dbpedia.org/resource/Elisha_Cook_Jr."
+0,111,E. Nelson,http://dbpedia.org/resource/Ricky_Nelson,http://dbpedia.org/resource/Edwin_Nelson_(actor) http://dbpedia.org/resource/Ed_Nelson http://dbpedia.org/resource/Edwin_Stafford_Nelson http://dbpedia.org/resource/Edwin_S._Nelson
+0,112,E. McMahon,http://dbpedia.org/resource/Sonia_McMahon,http://dbpedia.org/resource/Ed_MacMahon http://dbpedia.org/resource/Edward_Lee_McMahon http://dbpedia.org/resource/Edward_McMahon http://dbpedia.org/resource/Ed_macmahon http://dbpedia.org/resource/Ed_McMahon http://dbpedia.org/resource/Edward_Leo_Peter_McMahon_Jr. http://dbpedia.org/resource/Ed_mcmahon http://dbpedia.org/resource/Edward_Leo_Peter_McMahon_Jr
+0,113,E. Bishop,http://dbpedia.org/resource/Elizabeth_Bishop,http://dbpedia.org/resource/Ed_Bishop
+0,115,D. Pearson,http://dbpedia.org/resource/Daphne_Pearson,http://dbpedia.org/resource/Andrew_Russell_Pearson http://dbpedia.org/resource/Washington_Merry-Go-Round http://dbpedia.org/resource/Drew_Pearson_(journalist)
+0,116,D. Kennedy,http://dbpedia.org/resource/John_F._Kennedy,http://dbpedia.org/resource/Douglas_Kennedy_(actor) http://dbpedia.org/resource/Douglas_R._Kennedy
+0,117,D. Fowley,http://dbpedia.org/resource/Kim_Fowley,http://dbpedia.org/resource/Douglas_Fowley http://dbpedia.org/resource/Doug_Fowley http://dbpedia.org/resource/Douglas_V._Fowley
+0,118,D. Fairbanks,http://dbpedia.org/resource/Douglas_Fairbanks_Jr.,"http://dbpedia.org/resource/Douglas_Fairbanks_(1883-1939) http://dbpedia.org/resource/Douglas_Fairbanks_Sr. http://dbpedia.org/resource/Douglas_Fairbanks,_Sr. http://dbpedia.org/resource/Douglas_Fairbanks_Film_Corporation http://dbpedia.org/resource/Douglas_Ullman http://dbpedia.org/resource/Douglas_Fairbanks,_Sr http://dbpedia.org/resource/Douglas_Ulman http://dbpedia.org/resource/Douglas_Elton_Thomas_Ullman http://dbpedia.org/resource/Douglas_Elton_Thomas_Ulman http://dbpedia.org/resource/Douglas_Fairbanks_Sr http://dbpedia.org/resource/Douglas_Fairbanks http://dbpedia.org/resource/Douglas_Fairbanks_sr"
+0,122,D. Packer,http://dbpedia.org/resource/Kerry_Packer,http://dbpedia.org/resource/Doris_Packer
+0,124,D. Weaver,http://dbpedia.org/resource/Dennis_Weaver,http://dbpedia.org/resource/Winstead_Weaver http://dbpedia.org/resource/Doodles_Weaver http://dbpedia.org/resource/Winstead_S._Weaver http://dbpedia.org/resource/Winstead_Sheffield_Weaver
+0,125,D. Douglas,http://dbpedia.org/resource/Diana_Douglas,http://dbpedia.org/resource/Donna_Douglas
+0,128,D. Simpson,http://dbpedia.org/resource/Dudley_Simpson,http://dbpedia.org/resource/Donald_C._Simpson http://dbpedia.org/resource/Donald_Clarence_Simpson http://dbpedia.org/resource/Don_Simpson
+0,129,D. Mitchell,http://dbpedia.org/resource/Edgar_Mitchell,http://dbpedia.org/resource/Don_Mitchell_(actor) http://dbpedia.org/resource/Don_Mitchell_(Actor)
+0,135,D. Allison,http://dbpedia.org/resource/Drummond_Allison,http://dbpedia.org/resource/Don_Allison
+0,136,D. Dunne,http://dbpedia.org/resource/Dominick_Dunne,http://dbpedia.org/resource/Dominique_Dunne
+0,138,D. Anwar,http://dbpedia.org/resource/Anwar_Sadat,http://dbpedia.org/resource/Dolly_Anwar http://dbpedia.org/resource/Dolly_Ibrahim
+0,142,D. Purcell,http://dbpedia.org/resource/Henry_Purcell,http://dbpedia.org/resource/Dick_Purcell
+0,143,D. Jones,http://dbpedia.org/resource/David_Bowie,http://dbpedia.org/resource/Dick_Jones_(actor) http://dbpedia.org/resource/Dickie_Jones
+0,144,D. Clark,http://dbpedia.org/resource/Dee_Clark,"http://dbpedia.org/resource/Richard_Augustus_Wagstaff_Clark http://dbpedia.org/resource/Richard_Augustus_Wagstaff_Clark,_Jr. http://dbpedia.org/resource/Richard_Augustus_Clark_Jr http://dbpedia.org/resource/For_now,_Dick_Clark._So_long! http://dbpedia.org/resource/Richard_Clark,_Jr. http://dbpedia.org/resource/Richard_W._Clark http://dbpedia.org/resource/Dick_Clark_(entertainer) http://dbpedia.org/resource/Richard_""dick""_clark http://dbpedia.org/resource/Richard_Augustus_Clark http://dbpedia.org/resource/Richard_Clark_(entertainer) http://dbpedia.org/resource/Richard_Augustus_Clark,_Jr. http://dbpedia.org/resource/Dick_Clark http://dbpedia.org/resource/Richard_Clark_Jr http://dbpedia.org/resource/Richard_Augustus_Wagstaff_Clark_Jr http://dbpedia.org/resource/Richard_Wagstaff_Clark http://dbpedia.org/resource/Clark,_Dick"
+0,145,D. A. Williams,http://dbpedia.org/resource/John_Williams,http://dbpedia.org/resource/Dick_anthony_williams http://dbpedia.org/resource/Richard_Anthony_Williams http://dbpedia.org/resource/Dick_Anthony_Williams

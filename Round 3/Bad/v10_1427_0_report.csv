@@ -1,0 +1,9 @@
+F1: 0.36364,Precision: 0.36364,Recall: 0.36364,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,KFVS-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/Heartland_News http://dbpedia.org/resource/KFVS-TV http://dbpedia.org/resource/KFVS http://dbpedia.org/resource/Raycom_America_Tower_Cape_Girardeau
+0,2,KEYC-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/K38MY-D http://dbpedia.org/resource/K49JG-D http://dbpedia.org/resource/KEYC-TV http://dbpedia.org/resource/KEYC http://dbpedia.org/resource/K50KL-D
+0,3,KESQ-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/K21GI http://dbpedia.org/resource/K27DS http://dbpedia.org/resource/KESQ-TV
+0,5,KBVO-CD,http://dbpedia.org/resource/.cd,http://dbpedia.org/resource/KBVO-CA http://dbpedia.org/resource/KBVO-CD
+0,6,KBOI-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/K10HJ http://dbpedia.org/resource/K09MM http://dbpedia.org/resource/KBCI-TV http://dbpedia.org/resource/K48EB-D http://dbpedia.org/resource/K49EB-D http://dbpedia.org/resource/K05EY-D http://dbpedia.org/resource/K06CT http://dbpedia.org/resource/K11MK http://dbpedia.org/resource/KBOI-TV
+0,8,KBJO-LD,http://dbpedia.org/resource/KTPN-LD,http://dbpedia.org/resource/KBJO-LD http://dbpedia.org/resource/K16KF-D http://dbpedia.org/resource/KBJO http://dbpedia.org/resource/WBJO
+0,10,KAAL,http://dbpedia.org/resource/Kehl,http://dbpedia.org/resource/KAAL-TV http://dbpedia.org/resource/KMMT-TV http://dbpedia.org/resource/KAAL

@@ -1,0 +1,4 @@
+"F1: 0.85714","Precision: 0.85714","Recall: 0.85714"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","8","19-2","http://dbpedia.org/resource/19-2_(2011_TV_series)","http://dbpedia.org/resource/19-2"
+"0","13","10.5: Apocalypse","http://dbpedia.org/resource/10.5_(miniseries)","http://dbpedia.org/resource/10.5:Apocalypse http://dbpedia.org/resource/10.5:_Apocalypse http://dbpedia.org/resource/10.5_Apocalypse"

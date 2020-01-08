@@ -1,0 +1,20 @@
+F1: 0.87050,Precision: 0.87050,Recall: 0.87050,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,2,Matrix,http://dbpedia.org/resource/Enter_the_Matrix,http://dbpedia.org/resource/Matrix_(novel) http://dbpedia.org/resource/Matrix_(Doctor_Who_novel)
+2,9,A Taste for Death,http://dbpedia.org/resource/A_Taste_for_Death_(James_novel),http://dbpedia.org/resource/A_Taste_for_Death_(O'Donnell_novel) http://dbpedia.org/resource/A_Taste_for_Death_(Modesty_Blaise)
+2,11,The Separation,http://dbpedia.org/resource/Separations_(album),http://dbpedia.org/resource/The_Separation_(novel) http://dbpedia.org/resource/The_Separation_(Animorphs)
+2,17,The Invaders,http://dbpedia.org/resource/Invaders!_(anthology),http://dbpedia.org/resource/The_Invaders_(Brotherband) http://dbpedia.org/resource/The_Invaders_(novel)
+2,36,The Solution,http://dbpedia.org/resource/The_Solution_(band),http://dbpedia.org/resource/The_Solution_(novel) http://dbpedia.org/resource/The_Solution_(Animorphs)
+2,45,The Innocent,http://dbpedia.org/resource/Presumed_Innocent_(novel),http://dbpedia.org/resource/The_Innocent_(Baldacci_novel)
+2,49,The Novice,http://dbpedia.org/resource/The_Novice_(novel),http://dbpedia.org/resource/The_Novice
+2,55,The Family Trade,http://fr.dbpedia.org/resource/Une_affaire_de_famille_(roman),http://dbpedia.org/resource/The_Family_Trade http://dbpedia.org/resource/Miriam_Beckstein
+2,56,The Arrival,http://dbpedia.org/resource/The_Arrival_(album),http://dbpedia.org/resource/The_Arrival_(Animorphs) http://dbpedia.org/resource/The_Arrival_(novel)
+2,57,The Dirt,http://dbpedia.org/resource/Dirt_(Alice_in_Chains_album),http://dbpedia.org/resource/The_Dirt http://dbpedia.org/resource/The_Dirt:_Confessions_of_the_World's_Most_Notorious_Rock_Band
+2,76,One Shot,http://dbpedia.org/resource/One_Shot_(Tin_Machine_song),http://dbpedia.org/resource/One_Shot_(novel)
+2,78,Black and Blue,http://fr.dbpedia.org/resource/Black_and_Blue_(album_de_Uh_Huh_Her),http://dbpedia.org/resource/Black_&_Blue_(Rankin_novel) http://dbpedia.org/resource/Black_and_Blue_(Rankin_novel)
+2,79,Finished,http://dbpedia.org/resource/Finished_(novel),http://dbpedia.org/resource/Finished_(short_story) http://dbpedia.org/resource/Finished_(story)
+2,82,The Last of the Jedi: Reckoning,http://dbpedia.org/resource/The_Last_of_the_Jedi:_Dark_Warning,http://dbpedia.org/resource/The_Last_of_the_Jedi http://dbpedia.org/resource/The_Last_of_The_Jedi http://dbpedia.org/resource/The_Last_of_the_Jedi:_Master_of_Deception http://dbpedia.org/resource/The_Last_of_the_Jedi:_Reckoning http://dbpedia.org/resource/Star_Wars:_The_Last_of_the_Jedi
+2,121,The Golden Age,http://dbpedia.org/resource/The_Golden_Age_(comics),http://dbpedia.org/resource/The_Golden_Age_(science_fiction_trilogy) http://dbpedia.org/resource/The_Golden_Age_trilogy http://dbpedia.org/resource/The_Golden_Oecumene http://dbpedia.org/resource/Golden_Oecumene http://dbpedia.org/resource/The_Phoenix_Exultant http://dbpedia.org/resource/The_Golden_Age_(John_C._Wright_novel) http://dbpedia.org/resource/The_Golden_Age_(novel_series) http://dbpedia.org/resource/The_Golden_Transcendence
+2,122,Bloodlines,http://dbpedia.org/resource/Bloodlines_(Star_Wars_novel),http://dbpedia.org/resource/Bloodlines_(Richelle_Mead_novel) http://dbpedia.org/resource/Bloodlines_(Mead_novel)
+2,123,Nemesis,http://dbpedia.org/resource/Nemesis_(Angel_novel),http://dbpedia.org/resource/Nemesis_(Christie) http://dbpedia.org/resource/Nemesis_(Agatha_Christie_novel) http://dbpedia.org/resource/Verity_Hunt http://dbpedia.org/resource/Nemesis_(Christie_novel)
+2,125,The Sicilian,http://dbpedia.org/resource/Mafia,http://dbpedia.org/resource/The_Sicilian

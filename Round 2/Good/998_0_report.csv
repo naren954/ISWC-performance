@@ -1,0 +1,4 @@
+F1: 0.80000,Precision: 0.80000,Recall: 0.80000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,H. Schneider,http://dbpedia.org/resource/Adolphe_Schneider,http://dbpedia.org/resource/Helene_Schneider
+0,8,D. Norris,http://dbpedia.org/resource/Dan_Norris,http://dbpedia.org/resource/Dave_Norris_(Louisiana_politician)

@@ -1,0 +1,8 @@
+F1: 0.85000,Precision: 0.85000,Recall: 0.85000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,6,J. Beddington,http://dbpedia.org/resource/Rosa_Beddington,http://dbpedia.org/resource/John_Beddington http://dbpedia.org/resource/Sir_John_Beddington http://dbpedia.org/resource/John_Rex_Beddington
+0,10,J. Jackson,http://dbpedia.org/resource/Michael_Jackson,http://dbpedia.org/resource/Jeremy_jackson_(scientist) http://dbpedia.org/resource/Jeremy_Jackson_(scientist)
+0,20,J. C. Smith,http://dbpedia.org/resource/Jim_Cuthbert_Smith,http://dbpedia.org/resource/James_Cuthbert_Smith
+0,27,H. Pelham,http://dbpedia.org/resource/Henry_Pelham,http://dbpedia.org/resource/Hugh_Pelham
+0,28,H. S. Hoffman,http://dbpedia.org/resource/Philip_Seymour_Hoffman,http://dbpedia.org/resource/Howard_S._Hoffman
+0,40,G. Walters,http://dbpedia.org/resource/Gareth_Walters,http://dbpedia.org/resource/Guy_walters http://dbpedia.org/resource/Guy_Walters

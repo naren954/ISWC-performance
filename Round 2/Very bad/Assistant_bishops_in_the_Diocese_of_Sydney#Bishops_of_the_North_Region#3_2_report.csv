@@ -1,0 +1,5 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,2,John Reid,http://dbpedia.org/resource/John_Edwards,http://dbpedia.org/resource/John_Robert_Reid http://dbpedia.org/resource/John_Reid_(bishop)
+2,3,Peter Watson,http://dbpedia.org/resource/Peter_Watson_(politician),http://dbpedia.org/resource/Peter_Watson_(archbishop) http://dbpedia.org/resource/Peter_Watson_(bishop)
+2,4,Robert Forsyth,"http://dbpedia.org/resource/Forsyth,_Montana","http://dbpedia.org/resource/Forsyth,_Robert http://dbpedia.org/resource/Robert_Forsyth"

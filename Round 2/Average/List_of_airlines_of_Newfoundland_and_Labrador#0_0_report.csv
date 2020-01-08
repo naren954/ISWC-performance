@@ -1,0 +1,4 @@
+F1: 0.60000,Precision: 0.60000,Recall: 0.60000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,4,Innu Mikun Airlines,http://dbpedia.org/resource/PAL_Airlines,http://dbpedia.org/resource/Provincial_Airlines_Ltd. http://dbpedia.org/resource/Provincial_Airlines http://dbpedia.org/resource/Innu_Mikun_Airlines http://dbpedia.org/resource/Provincial_(airline)
+0,5,Provincial Airlines,http://dbpedia.org/resource/Austrian_Airlines,http://dbpedia.org/resource/Provincial_Airlines_Ltd. http://dbpedia.org/resource/Provincial_Airlines http://dbpedia.org/resource/Innu_Mikun_Airlines http://dbpedia.org/resource/Provincial_(airline)

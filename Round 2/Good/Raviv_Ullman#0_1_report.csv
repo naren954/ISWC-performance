@@ -1,0 +1,5 @@
+F1: 0.78571,Precision: 0.78571,Recall: 0.78571,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,11,That Guy,http://dbpedia.org/resource/I'm_Not_That_Guy,http://dbpedia.org/resource/Leigh_Hart http://dbpedia.org/resource/That_guy http://dbpedia.org/resource/That_Guy
+1,19,Contest,http://dbpedia.org/resource/Contest_(2013_film),http://dbpedia.org/resource/Contest_(film)
+1,20,The Other Side,http://dbpedia.org/resource/The_Other_Side_(Jason_Derulo_song),http://dbpedia.org/resource/The_Other_Side_Album http://dbpedia.org/resource/The_Other_Side_(EP) http://dbpedia.org/resource/The_Other_Side_(episode) http://dbpedia.org/resource/The_Other_Side_(album) http://dbpedia.org/resource/The_other_side_(song) http://dbpedia.org/resource/The_Other_Side_(disambiguation) http://dbpedia.org/resource/Other_Side_(song) http://dbpedia.org/resource/Otherside_(album) http://dbpedia.org/resource/The_Other_Side_(song) http://dbpedia.org/resource/The_Other_Side http://dbpedia.org/resource/Other_Side http://dbpedia.org/resource/The_Other_Side_(film)

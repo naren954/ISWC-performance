@@ -1,0 +1,5 @@
+F1: 0.25000,Precision: 0.25000,Recall: 0.25000,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,52,Tidbinbilla River,http://dbpedia.org/resource/Joan_Rivers,http://dbpedia.org/resource/Tidbinbilla_River
+3,53,Gibraltar Creek,http://dbpedia.org/resource/Gibraltar,http://dbpedia.org/resource/Gibraltar_Creek
+3,94,Isabella River,http://dbpedia.org/resource/Mia_Isabella,http://dbpedia.org/resource/Isabella_River_(New_South_Wales)

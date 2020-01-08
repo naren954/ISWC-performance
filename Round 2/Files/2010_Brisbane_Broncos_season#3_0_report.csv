@@ -1,0 +1,4 @@
+"F1: 0.71429","Precision: 0.71429","Recall: 0.71429"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","2","Scott Anderson","http://dbpedia.org/resource/Scott_Anderson_(baseball)","http://dbpedia.org/resource/Scott_Anderson_(rugby_league)"
+"0","5","Tim Smith","http://dbpedia.org/resource/Tim_Smith_(baseball)","http://dbpedia.org/resource/Tim_Smith_(rugby) http://dbpedia.org/resource/Tim_Smith_(rugby_league_footballer) http://dbpedia.org/resource/Tim_Smith_(rugby_league)"

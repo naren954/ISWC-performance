@@ -1,0 +1,53 @@
+F1: 0.19048,Precision: 0.19048,Recall: 0.19048,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Collagenase,,http://dbpedia.org/resource/Collagenases http://dbpedia.org/resource/Collagenolysis http://dbpedia.org/resource/Cordase http://dbpedia.org/resource/Santyl http://dbpedia.org/resource/Collagenase
+0,2,"Collagen, type XX, alpha 1",,"http://dbpedia.org/resource/COL20A1 http://dbpedia.org/resource/Collagen,_type_XX,_alpha_1"
+0,3,"Collagen, type XI, alpha 2",,"http://dbpedia.org/resource/Collagen,_type_XI,_alpha_2 http://dbpedia.org/resource/COL11A2"
+0,4,Cocaine and amphetamine regulated transcript,,http://dbpedia.org/resource/Cocaine-_and_amphetamine-regulated_transcript http://dbpedia.org/resource/CARTPT http://dbpedia.org/resource/Cocaine-and-amphetamine-regulating_transcript http://dbpedia.org/resource/Cocaine_and_amphetamine_regulated_transcript http://dbpedia.org/resource/Cocaine-and-amphetamine-regulated_transcript http://dbpedia.org/resource/Cocaine-and_amphetamine_regulated_transcript
+0,6,Citrin,,http://dbpedia.org/resource/SLC25A13 http://dbpedia.org/resource/Citrin
+0,7,Ciliary neurotrophic factor receptor,,http://dbpedia.org/resource/CNTFR http://dbpedia.org/resource/Ciliary_neurotrophic_factor_receptor http://dbpedia.org/resource/Cntfr
+0,8,Chymase,,http://dbpedia.org/resource/Skin_chymotryptic_proteinase http://dbpedia.org/resource/Skeletal_muscle_protease http://dbpedia.org/resource/Mast_cell_serine_proteinase http://dbpedia.org/resource/Chymases http://dbpedia.org/resource/Mast_cell_protease_I http://dbpedia.org/resource/Skeletal_muscle_(SK)_protease http://dbpedia.org/resource/Chymase http://dbpedia.org/resource/EC_3.4.21.39
+0,9,Chordin,,http://dbpedia.org/resource/Chordin
+0,10,Cholinesterase,,http://dbpedia.org/resource/Serum_esterase http://dbpedia.org/resource/Cholinesterase http://dbpedia.org/resource/ATCvet_code_QV03AB29 http://dbpedia.org/resource/Cholinesterase_enzyme http://dbpedia.org/resource/ATC_code_V03AB29 http://dbpedia.org/resource/Protexia http://dbpedia.org/resource/Cholinesterase_reactivators http://dbpedia.org/resource/Acylcholine_acylhydrolase http://dbpedia.org/resource/Cholinesterases http://dbpedia.org/resource/EC_3.1.1.8
+0,11,Cholecystokinin receptor,,"http://dbpedia.org/resource/Cholecystokinin_receptor http://dbpedia.org/resource/Receptors,_cholecystokinin http://dbpedia.org/resource/Receptor,_cholecystokinin_b http://dbpedia.org/resource/Receptor,_cholecystokinin_a http://dbpedia.org/resource/CCK_receptor"
+0,12,Chimerin 1,,http://dbpedia.org/resource/Chimerin_1 http://dbpedia.org/resource/CHN1
+0,13,Chicken ovalbumin upstream promoter-transcription factor,,http://dbpedia.org/resource/Chicken_ovalbumin_upstream_promoter-transcription_factor http://dbpedia.org/resource/Chicken_ovalbumin_upstream_promoter_transcription_factor http://dbpedia.org/resource/COUP-TF
+0,15,Channel-inducing factor 4,,http://dbpedia.org/resource/FXYD4 http://dbpedia.org/resource/Channel-inducing_factor http://dbpedia.org/resource/Channel-inducing_factor_4
+0,16,Ceramide synthase 5,,http://dbpedia.org/resource/CerS5 http://dbpedia.org/resource/Ceramide_synthase_5
+0,17,Ceramide synthase 4,,http://dbpedia.org/resource/Ceramide_synthase_4
+0,18,Cellular apoptosis susceptibility protein,,http://dbpedia.org/resource/Cellular_apoptosis_susceptibility_protein
+0,20,Cation channels of sperm,,http://dbpedia.org/resource/CatSper http://dbpedia.org/resource/Cation_channels_of_sperm
+0,21,Caspase 5,,http://dbpedia.org/resource/EC_3.4.22.58 http://dbpedia.org/resource/CASP5 http://dbpedia.org/resource/Caspase_5 http://dbpedia.org/resource/Caspase-5
+0,22,Caspase 4,,http://dbpedia.org/resource/TX_protease http://dbpedia.org/resource/CASP-4 http://dbpedia.org/resource/ICErel-II http://dbpedia.org/resource/Transcript_X http://dbpedia.org/resource/Ich-2 http://dbpedia.org/resource/Caspase-4 http://dbpedia.org/resource/ICErelII http://dbpedia.org/resource/EC_3.4.22.57 http://dbpedia.org/resource/Caspase_4 http://dbpedia.org/resource/CASP4
+0,23,Caspase 12,,http://dbpedia.org/resource/Caspase_12 http://dbpedia.org/resource/Caspase-12
+0,24,Casein kinase 2,,http://dbpedia.org/resource/Casein_kinase_ii http://dbpedia.org/resource/Casein_kinase_2 http://dbpedia.org/resource/Protein_kinase_CK2
+0,25,Carnitine-acylcarnitine translocase,,http://dbpedia.org/resource/SLC25A20 http://dbpedia.org/resource/CACT http://dbpedia.org/resource/Carnitine-acylcarnitine_translocase
+0,26,Cardiotrophin 1,,http://dbpedia.org/resource/Cardiotrophin-1 http://dbpedia.org/resource/Cardiotrophin_1
+0,27,Carboxypeptidase B,,http://dbpedia.org/resource/EC_3.4.17.2 http://dbpedia.org/resource/Carboxypeptidase_B
+0,28,Cannabinoid receptor,,"http://dbpedia.org/resource/Cannabinoid_Receptors http://dbpedia.org/resource/Receptor,_cannabinoid,_cb2 http://dbpedia.org/resource/Receptors,_cannabinoid http://dbpedia.org/resource/Cannabinoid_receptor http://dbpedia.org/resource/Cannabinoid_receptors http://dbpedia.org/resource/Receptor,_cannabinoid,_cb1"
+0,30,Calponin,,http://dbpedia.org/resource/Calponin
+0,31,Calcitonin gene-related peptide,,"http://dbpedia.org/resource/CGRP http://dbpedia.org/resource/Calcitonin_gene-related_peptide http://dbpedia.org/resource/Calcitonin_gene_related_peptide http://dbpedia.org/resource/Receptors,_calcitonin_gene-related_peptide"
+0,33,Calbindin,,http://dbpedia.org/resource/Calbindin
+0,34,CXCL6,,http://dbpedia.org/resource/CXCL6
+0,35,CXCL2,,http://dbpedia.org/resource/CXCL2
+0,36,CXCL17,,http://dbpedia.org/resource/CXCL17
+0,37,CXCL16,,http://dbpedia.org/resource/CXCL16
+0,38,CXCL14,,http://dbpedia.org/resource/CXCL14
+0,40,CORO1B,,http://dbpedia.org/resource/CORO1B
+0,42,CLEC4C,,http://dbpedia.org/resource/CLEC4C http://dbpedia.org/resource/BDCA-2 http://dbpedia.org/resource/CD303 http://dbpedia.org/resource/BDCA2
+0,43,CKMT1A,,http://dbpedia.org/resource/CKMT1A
+0,44,CGMP-dependent protein kinase,,http://dbpedia.org/resource/Protein_kinase_g http://dbpedia.org/resource/CGMP_dependent_protein_kinase http://dbpedia.org/resource/ATP:protein_phosphotransferase_(cGMP-dependent) http://dbpedia.org/resource/Cyclic_gmp-dependent_protein_kinases http://dbpedia.org/resource/STK23 http://dbpedia.org/resource/Protein_kinase_G http://dbpedia.org/resource/CGMP-dependent_protein_kinase http://dbpedia.org/resource/EC_2.7.11.12
+0,45,CEACAM4,,http://dbpedia.org/resource/CEACAM4
+0,46,CEACAM21,,http://dbpedia.org/resource/CEACAM21
+0,47,CEACAM20,,http://dbpedia.org/resource/CEACAM20
+0,48,CEACAM19,,http://dbpedia.org/resource/CEACAM19
+0,49,CEACAM16,,http://dbpedia.org/resource/CEACAM16
+0,50,CDGSH iron sulfur domain,,http://dbpedia.org/resource/MitoNEET http://dbpedia.org/resource/CDGSH_iron_sulfur_domain
+0,53,CD79,,"http://dbpedia.org/resource/CD79 http://dbpedia.org/resource/Antigens,_cd79"
+0,54,CD70,,http://dbpedia.org/resource/TNFSF7 http://dbpedia.org/resource/CD70
+0,55,CD68,,http://dbpedia.org/resource/CD68 http://dbpedia.org/resource/Macrosialin
+0,57,CD58,,"http://dbpedia.org/resource/CD58 http://dbpedia.org/resource/Cd58 http://dbpedia.org/resource/Antigens,_cd58 http://dbpedia.org/resource/LFA-3"
+0,59,CD32,,http://dbpedia.org/resource/FcγRII http://dbpedia.org/resource/CD32
+0,60,CD16,,http://dbpedia.org/resource/CD16a http://dbpedia.org/resource/CD16 http://dbpedia.org/resource/CD16b
+0,62,CD120,http://dbpedia.org/resource/Tumor_necrosis_factor_receptor_1,http://dbpedia.org/resource/TNFAR http://dbpedia.org/resource/Tbp1 http://dbpedia.org/resource/TBP1 http://dbpedia.org/resource/TNFR55 http://dbpedia.org/resource/TNF-R-I http://dbpedia.org/resource/Tumor_necrosis_factor_receptor_superfamily_member_1A http://dbpedia.org/resource/Tumor_necrosis_factor_receptor_superfamily http://dbpedia.org/resource/Cd120a http://dbpedia.org/resource/TNF-R http://dbpedia.org/resource/CD120 http://dbpedia.org/resource/TNFRSF1
+0,63,CD1,,"http://dbpedia.org/resource/CD1a http://dbpedia.org/resource/CD_1 http://dbpedia.org/resource/Antigens,_cd1 http://dbpedia.org/resource/CD1"

@@ -1,0 +1,5 @@
+F1: 0.78571,Precision: 0.78571,Recall: 0.78571,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,6,CaÃ±averal de pasiones,http://dbpedia.org/resource/Cañaveral_de_Pasiones,http://dbpedia.org/resource/Cañaveral_de_pasiones
+1,12,RubÃ­,http://dbpedia.org/resource/Rubí_(2004_TV_series),http://dbpedia.org/resource/Rubí
+1,13,Alborada,http://dbpedia.org/resource/Alborada_(TV_series),http://dbpedia.org/resource/Alborada_(telenovela)

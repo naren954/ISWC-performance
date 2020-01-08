@@ -1,0 +1,6 @@
+F1: 0.88235,Precision: 0.88235,Recall: 0.88235,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,11,Lasse Holm,http://dbpedia.org/resource/Björn_Skifs,http://dbpedia.org/resource/Lasse_Holm
+3,13,Hal Mooney,http://dbpedia.org/resource/Paul_Mooney_(comedian),http://dbpedia.org/resource/Hal_Mooney
+3,21,Oscar Ravichandran,http://dbpedia.org/resource/A._Ravichandran,http://dbpedia.org/resource/Oscar_Films http://dbpedia.org/resource/Oscar_ravi http://dbpedia.org/resource/Oscar_V._Ravichandran http://dbpedia.org/resource/Aascar_Film http://dbpedia.org/resource/Venu_Ravichandran http://dbpedia.org/resource/Aaskar_Films http://dbpedia.org/resource/Oscar_Ravichandran http://dbpedia.org/resource/Viswanathan_Ravichandran http://dbpedia.org/resource/Aascar_Ravichandran http://dbpedia.org/resource/Aascar_Films http://dbpedia.org/resource/Oscar_V_Ravichandran
+3,27,Voyle Gilmore,http://dbpedia.org/resource/Jim_Gilmore,http://dbpedia.org/resource/Voyle_Gilmore

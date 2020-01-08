@@ -1,0 +1,8 @@
+"F1: 0.89286","Precision: 0.89286","Recall: 0.89286"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","10","R. Jackson","http://dbpedia.org/resource/Ralph_Jackson","http://dbpedia.org/resource/Reggie_Jackson_(basketball,_born_1990) http://dbpedia.org/resource/Reginald_Shon_Jackson"
+"0","14","R. M. Jr.","http://dbpedia.org/resource/Roger_Mason_Jr.","http://dbpedia.org/resource/Ray_McCallum_Jr. http://dbpedia.org/resource/Ray_McCallum,_Jr."
+"0","15","R. Allen","http://it.dbpedia.org/resource/Ronald_Allen_(cestista)","http://dbpedia.org/resource/Walter_Ray_Allen http://dbpedia.org/resource/Ray_allen http://dbpedia.org/resource/Ray_Allen"
+"0","17","R. Butler","http://dbpedia.org/resource/Raphael_Butler","http://dbpedia.org/resource/Rasual_Butler"
+"0","36","P. Jones","http://dbpedia.org/resource/Phil_Jones_(basketball)","http://dbpedia.org/resource/Caleb_Jones_(ice_hockey) http://dbpedia.org/resource/Popeye_Jones"
+"0","39","P. Jackson","http://dbpedia.org/resource/Pierre_Jackson","http://dbpedia.org/resource/Phil_Jackson http://dbpedia.org/resource/Philip_Douglas_Jackson"

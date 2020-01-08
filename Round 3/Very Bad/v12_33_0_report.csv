@@ -1,0 +1,10 @@
+F1: 0.11111,Precision: 0.11111,Recall: 0.11111,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,S. Fulton,http://dbpedia.org/resource/Atlanta,http://dbpedia.org/resource/J._S._Fulton http://dbpedia.org/resource/J._Stokeley_Fulton http://dbpedia.org/resource/Stokeley_Fulton
+0,3,S. Sheriff,"http://dbpedia.org/resource/Allegheny_County,_Pennsylvania",http://dbpedia.org/resource/Stan_Sheriff
+0,4,P. Pierce,http://dbpedia.org/resource/Paul_Pierce,http://dbpedia.org/resource/Paul_Pierce_(American_football)
+0,5,J. Wacker,http://dbpedia.org/resource/Fred_Wacker,http://dbpedia.org/resource/Jim_Wacker
+0,6,J. Sochor,"http://ru.dbpedia.org/resource/Сохор,_Антонин",http://dbpedia.org/resource/Jim_Sochor
+0,7,H. Elliott,http://dbpedia.org/resource/Maud_Howe_Elliott,"http://dbpedia.org/resource/Bud_Elliott http://dbpedia.org/resource/Harold_Elliott http://dbpedia.org/resource/Harold_Elliott_(football_coach) http://dbpedia.org/resource/Elliott,_Harold http://dbpedia.org/resource/Harold_""Bud""_Elliott http://dbpedia.org/resource/Harold_Elliot_(football_coach)"
+0,8,E. Robinson,http://dbpedia.org/resource/Marilynne_Robinson,http://dbpedia.org/resource/Eddie_Robinson_(Grambling_football_coach) http://dbpedia.org/resource/Eddie_Robinson_(football_coach) http://dbpedia.org/resource/Eddie_Robinson_(American_football_coach) http://dbpedia.org/resource/Eddie_Robinson_(American_football_coach—Grambling) http://dbpedia.org/resource/Eddie_G._Robinson
+0,9,D. Maurer,http://dbpedia.org/resource/Ueli_Maurer,http://dbpedia.org/resource/Dave_Maurer_(American_football)

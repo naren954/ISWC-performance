@@ -1,0 +1,3 @@
+F1: 0.97222,Precision: 0.97222,Recall: 0.97222,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,29,Descending colon,http://dbpedia.org/resource/Large_intestine,"http://dbpedia.org/resource/Colon,_descending http://dbpedia.org/resource/Descending_iliac http://dbpedia.org/resource/Colon_descendens http://dbpedia.org/resource/Descending_colon"

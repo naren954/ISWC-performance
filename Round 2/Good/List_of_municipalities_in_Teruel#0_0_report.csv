@@ -1,0 +1,7 @@
+F1: 0.97881,Precision: 0.97881,Recall: 0.97881,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,63,El Castellar,http://dbpedia.org/resource/Castellar_de_la_Frontera,"http://dbpedia.org/resource/El_Castellar,_Teruel http://dbpedia.org/resource/El_Castellar,_Spain http://dbpedia.org/resource/El_Castellar"
+0,79,CucalÃ³n,"http://dbpedia.org/resource/Cucalón,_Aragon","http://dbpedia.org/resource/Cucalón,_Spain"
+0,80,El Cuervo,"http://dbpedia.org/resource/El_Cuervo,_Aragon","http://dbpedia.org/resource/El_Cuervo_(disambiguation) http://dbpedia.org/resource/El_Cuervo http://dbpedia.org/resource/El_Cuervo,_Teruel http://dbpedia.org/resource/El_Cuervo,_Spain"
+0,88,FonfrÃ­a,"http://dbpedia.org/resource/Fonfría,_Zamora","http://dbpedia.org/resource/Fonfría,_Teruel"
+0,137,MontalbÃ¡n,http://dbpedia.org/resource/La_Puebla_de_Montalbán,http://dbpedia.org/resource/Montalbán

@@ -1,0 +1,29 @@
+F1: 0.76923,Precision: 0.76923,Recall: 0.76923,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,Wrist,http://dbpedia.org/resource/Wrist_(Logic_song),http://dbpedia.org/resource/Wrist_(Chris_Brown_song)
+0,6,Wrecking Everything,http://dbpedia.org/resource/Everything_Is_Everything_(Brand_Nubian_album),http://dbpedia.org/resource/Wrecking_Everything
+0,7,Wrecking Ball,http://dbpedia.org/resource/Wrecking_Ball_(Miley_Cyrus_song),http://dbpedia.org/resource/Wrecking_Ball_(Neil_Young_song)
+0,9,Wrecking Ball,http://dbpedia.org/resource/Wrecking_Ball_(Miley_Cyrus_song),http://dbpedia.org/resource/Wrecking_Ball_(Emmylou_Harris_album)
+0,10,Wrecking Ball,http://dbpedia.org/resource/Wrecking_Ball_(Miley_Cyrus_song),http://dbpedia.org/resource/Wrecking_Ball_(Dead_Confederate_album)
+0,11,Wrecking Ball,http://dbpedia.org/resource/Wrecking_Ball_(Miley_Cyrus_song),http://dbpedia.org/resource/Shackled_and_Drawn http://dbpedia.org/resource/Wrecking_Ball_(Bruce_Springsteen_album)
+0,18,Wrath,http://dbpedia.org/resource/Wrath_(Lamb_of_God_album),http://dbpedia.org/resource/Wrath_(Iris_album)
+0,19,Wrapped in Red,http://dbpedia.org/resource/Wrapped_in_Red,http://dbpedia.org/resource/Wrapped_in_Red_(song)
+0,26,Wrapped,http://dbpedia.org/resource/Wrapped_(Bruce_Robison_song),http://dbpedia.org/resource/Wrapped_(Gloria_Estefan_song) http://dbpedia.org/resource/Hoy_(Gloria_Estefan_Single) http://dbpedia.org/resource/Wrapped_(Gloria_Estefan_single) http://dbpedia.org/resource/Hoy_(Gloria_Estefan_song)
+0,29,Wrap Your Arms Around Me,http://dbpedia.org/resource/Wrap_Your_Arms_Around_Me,http://dbpedia.org/resource/Wrap_Your_Arms_Around_Me_(song) http://dbpedia.org/resource/Wrap_Your_Arms_Around_Me(song)
+0,40,Wow,http://dbpedia.org/resource/Wow_(Kylie_Minogue_song),http://dbpedia.org/resource/Wow_(Superbus_album)
+0,42,Wow,http://dbpedia.org/resource/Wow_(Kylie_Minogue_song),http://dbpedia.org/resource/Wow_(Kate_Bush_song)
+0,43,Wow,http://dbpedia.org/resource/Wow_(Kylie_Minogue_song),http://dbpedia.org/resource/WOW_(Inna_song) http://dbpedia.org/resource/Wow_(Inna_song)
+0,44,Wow,http://dbpedia.org/resource/Wow_(Kylie_Minogue_song),http://dbpedia.org/resource/Wow_(Beck_song)
+0,46,Wow!,http://dbpedia.org/resource/Wow_(Kylie_Minogue_song),http://dbpedia.org/resource/Wow!_(Bananarama_album)
+0,53,Wouldn't You,http://dbpedia.org/resource/Dark_Globe,http://dbpedia.org/resource/Wouldn't_You
+0,58,Wouldn't Change a Thing,http://dbpedia.org/resource/Wouldn't_Change_a_Thing_(Camp_Rock_song),http://dbpedia.org/resource/Wouldn't_Change_a_Thing_(Kylie_Minogue_song)
+0,64,Would You Believe,http://dbpedia.org/resource/When_You_Believe,http://dbpedia.org/resource/Would_You_Believe_(Ace_of_Base_song)
+0,65,Would You Believe?,http://dbpedia.org/resource/Would_You_Believe?_(Hollies_album),http://dbpedia.org/resource/Would_You_Believe?_(The_Hollies_album)
+0,69,Would I Lie to You?,http://dbpedia.org/resource/Come_an'_Get_It,http://dbpedia.org/resource/Would_I_Lie_to_You?_(Eurythmics_song)
+0,70,Would?,http://dbpedia.org/resource/Dark_Globe,http://dbpedia.org/resource/Would?
+0,80,Worst Case Scenario,http://dbpedia.org/resource/Worst_Case_Scenario_(album),http://dbpedia.org/resource/Worst_Case_Scenario_(song)
+0,98,Worry About You,http://dbpedia.org/resource/Long_Distance_(Ivy_album),http://dbpedia.org/resource/Worry_About_You_(Tyler_James_song) http://dbpedia.org/resource/Worry_About_You_(song)
+0,99,Worry About You,http://dbpedia.org/resource/Long_Distance_(Ivy_album),http://dbpedia.org/resource/Worry_About_You_(Ivy_song)
+0,105,Wormwood,http://dbpedia.org/resource/Wormwood_(Marduk_album),http://dbpedia.org/resource/Wormwood_(moe._album)
+0,106,Wormwood,http://dbpedia.org/resource/Wormwood_(Marduk_album),http://dbpedia.org/resource/Wormwood_(The_Acacia_Strain) http://dbpedia.org/resource/Wormwood_(The_Acacia_Strain_album)
+0,115,Worldwide,http://dbpedia.org/resource/Worldwide_(Audio_Adrenaline_album),http://dbpedia.org/resource/Worldwide_(Everything_but_the_Girl_album)

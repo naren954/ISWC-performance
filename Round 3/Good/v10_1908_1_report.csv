@@ -1,0 +1,15 @@
+F1: 0.89256,Precision: 0.89256,Recall: 0.89256,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,6,Wild Talents,http://dbpedia.org/resource/Billy_Talent_II,http://dbpedia.org/resource/Wild_Talents
+1,8,Constance,http://dbpedia.org/resource/Constance_(name),http://dbpedia.org/resource/Constance_(novel)
+1,11,A Fair Maiden,http://dbpedia.org/resource/The_Bear_and_the_Maiden_Fair,http://dbpedia.org/resource/A_Fair_Maiden
+1,16,Leven Thumps and the Ruins of Alder,http://dbpedia.org/resource/Leven_Thumps_and_the_Eyes_of_the_Want,http://dbpedia.org/resource/Leven_Thumps_series http://dbpedia.org/resource/Lithen http://dbpedia.org/resource/Geth_and_the_Deception_of_Dreams http://dbpedia.org/resource/Geth_and_the_Return_of_the_Lithens http://dbpedia.org/resource/Leven_Thumps http://dbpedia.org/resource/Beyond_Foo http://dbpedia.org/resource/Leven_Thumps_and_the_Ruins_of_Alder http://dbpedia.org/resource/Leven_Thumps_Glossary
+1,22,Passage,http://dbpedia.org/resource/Passage_(The_Carpenters_album),http://dbpedia.org/resource/Passage_(Bujold_novel) http://dbpedia.org/resource/Passage_(2008_novel)
+1,27,Bloodlines,http://dbpedia.org/resource/Bloodlines_(Star_Wars_novel),http://dbpedia.org/resource/Bloodlines_(Richelle_Mead_novel) http://dbpedia.org/resource/Bloodlines_(Mead_novel)
+1,51,Company,http://dbpedia.org/resource/Company_(musical),http://dbpedia.org/resource/Company_(novel)
+1,90,Visions,http://dbpedia.org/resource/Robot_Visions,http://dbpedia.org/resource/Visions:_How_Science_Will_Revolutionize_the_21st_Century http://dbpedia.org/resource/Visions_(book)
+1,94,Now and Then,http://dbpedia.org/resource/Now_&_Then_(Damien_Leith_album),http://dbpedia.org/resource/Now_and_Then_(novel)
+1,96,The Dawn,http://dbpedia.org/resource/Dawn_(newspaper),http://dbpedia.org/resource/The_Dawn_of_Day http://dbpedia.org/resource/The_Dawn_(book) http://dbpedia.org/resource/Daybreak:_Thoughts_on_the_Prejudices_of_Morality http://dbpedia.org/resource/Daybreak:_Reflections_on_Moral_Prejudices http://dbpedia.org/resource/Morgenrote:_Gedanken_uber_die_moralischen
+1,101,"Washington, D.C.",http://dbpedia.org/resource/The_Washington_Post,"http://dbpedia.org/resource/Washington,_D_C_(novel) http://dbpedia.org/resource/Washington,_D.C._(novel) http://dbpedia.org/resource/Washington,_D._C._(novel) http://dbpedia.org/resource/Washington,_DC_(novel)"
+1,117,Image,http://dbpedia.org/resource/NeuroImage,http://dbpedia.org/resource/Image_(Angel_novel) http://dbpedia.org/resource/Image_(Angel)
+1,121,Bloodline,http://dbpedia.org/resource/Bloodlines_(Star_Wars_novel),http://dbpedia.org/resource/Bloodline_(Repairman_Jack_novel) http://dbpedia.org/resource/Bloodline_(Wilson_novel)

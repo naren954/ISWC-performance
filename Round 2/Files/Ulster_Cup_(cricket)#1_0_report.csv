@@ -1,0 +1,5 @@
+"F1: 0.70000","Precision: 0.70000","Recall: 0.70000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","2","Brigade","http://dbpedia.org/resource/Fire_Brigade_SC","http://dbpedia.org/resource/Brigade_Cricket_Club"
+"0","3","North Down","nan","http://dbpedia.org/resource/North_Down_Cricket_Club"
+"0","9","Coleraine","http://dbpedia.org/resource/Coleraine_F.C.","http://dbpedia.org/resource/Coleraine_Cricket_Club"

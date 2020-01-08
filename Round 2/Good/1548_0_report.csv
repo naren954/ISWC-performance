@@ -1,0 +1,7 @@
+F1: 0.83871,Precision: 0.83871,Recall: 0.83871,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,6,A. Kapitsa,http://dbpedia.org/resource/Pyotr_Kapitsa,http://dbpedia.org/resource/Andrei_Kapitsa http://dbpedia.org/resource/Andrey_Kapitsa
+0,13,A. Wilson,http://dbpedia.org/resource/Woodrow_Wilson,http://dbpedia.org/resource/Allan_Charles_Wilson http://dbpedia.org/resource/Allan_Wilson_(biochemist) http://dbpedia.org/resource/Allan_C._Wilson http://dbpedia.org/resource/Allan_Wilson
+0,15,A. Jolly,http://dbpedia.org/resource/Friedrich_Jolly,http://dbpedia.org/resource/Alison_Jolly
+0,16,A. Miller,http://dbpedia.org/resource/Arthur_Miller,http://dbpedia.org/resource/Alice_Miller_(psychologist)
+0,29,A. Shulgin,"http://ru.dbpedia.org/resource/Шульгин,_Владимир_Сергеевич","http://dbpedia.org/resource/Dr._Alexander_Shulgin http://dbpedia.org/resource/Alexander_Shulgin http://dbpedia.org/resource/Sasha_Shulgin http://dbpedia.org/resource/Shulgin_Research_Institute http://dbpedia.org/resource/Alexander_(""Shasha"")_Shulgin http://dbpedia.org/resource/Dr._Alexander_(""Sasha"")_Shulgin http://dbpedia.org/resource/Dr._Alexander_&_Ann_Shulgin http://dbpedia.org/resource/Shuglin http://dbpedia.org/resource/Shulgin,_Alexander http://dbpedia.org/resource/The_Simple_Plant_Isoquinolines"

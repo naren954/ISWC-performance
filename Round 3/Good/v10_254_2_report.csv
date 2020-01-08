@@ -1,0 +1,5 @@
+F1: 0.89286,Precision: 0.89286,Recall: 0.89286,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,8,"Mount Olive, North Carolina","http://dbpedia.org/resource/Mount_Airy,_North_Carolina","http://dbpedia.org/resource/Mount_Olive,_North_Carolina http://dbpedia.org/resource/Mount_Olive,_Wayne_County,_North_Carolina http://dbpedia.org/resource/Mount_Olive,_NC"
+2,17,Dover,"http://dbpedia.org/resource/Dover,_Delaware","http://dbpedia.org/resource/Charlton_by_Dover http://dbpedia.org/resource/Dover_(town,_England) http://dbpedia.org/resource/Dover,_Kent http://dbpedia.org/resource/Dover_RFC http://dbpedia.org/resource/Docks_of_Dover http://dbpedia.org/resource/Dover http://dbpedia.org/resource/Docks_Of_Dover http://dbpedia.org/resource/The_weather_in_Dover http://dbpedia.org/resource/Dover,_England"
+2,18,"Dublin, Texas",http://dbpedia.org/resource/Dublin,"http://dbpedia.org/resource/Dr_Pepper,_Texas http://dbpedia.org/resource/UN/LOCODE:USDBL http://dbpedia.org/resource/Dublin,_Texas http://dbpedia.org/resource/Dublin,_TX http://dbpedia.org/resource/Dr._Pepper,_Texas"

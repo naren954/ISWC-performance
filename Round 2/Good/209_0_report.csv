@@ -1,0 +1,5 @@
+F1: 0.82353,Precision: 0.82353,Recall: 0.82353,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,D. Gordon,http://dbpedia.org/resource/David_Gordon_(Australian_politician),http://dbpedia.org/resource/David_Gordon_(economist_born_1944) http://dbpedia.org/resource/David_Gordon_(economist)
+0,9,B. Graham,http://dbpedia.org/resource/Bob_Graham,http://dbpedia.org/resource/Benjamin_Graham
+0,14,A. Hansen,http://dbpedia.org/resource/Peter_Andreas_Hansen,http://dbpedia.org/resource/Alvin_Hansen http://dbpedia.org/resource/Alvin_hansen http://dbpedia.org/resource/Alvin_Harvey_Hansen http://dbpedia.org/resource/Alvin_H._Hansen

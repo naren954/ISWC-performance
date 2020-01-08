@@ -1,0 +1,8 @@
+F1: 0.14286,Precision: 0.14286,Recall: 0.14286,,
+Col,Row,Value,Submitted URI,Correct URI's
+4,1,"William Barrington, 6th Viscount Barrington","http://dbpedia.org/resource/William_Sidney,_1st_Viscount_De_L'Isle","http://dbpedia.org/resource/William_Keppel_Barrington,_6th_Viscount_Barrington http://dbpedia.org/resource/William_Keppel_Barrington http://dbpedia.org/resource/William_Barrington,_6th_Viscount_Barrington"
+4,2,A. L. More,http://dbpedia.org/resource/Paul_Elmer_More,"http://dbpedia.org/resource/Alice_More http://dbpedia.org/resource/Alice,_Lady_More"
+4,3,R. Runcie,http://dbpedia.org/resource/Robert_Runcie,http://dbpedia.org/resource/Baroness_Runcie http://dbpedia.org/resource/Angela_Rosalind_Runcie http://dbpedia.org/resource/Rosalind_Turner http://dbpedia.org/resource/Rosalind_Runcie
+4,5,Zipporah,http://dbpedia.org/resource/Zipporah_Nawa,"http://dbpedia.org/resource/Tsiporah http://dbpedia.org/resource/Tzipora http://dbpedia.org/resource/Zipora http://dbpedia.org/resource/Zipporah http://dbpedia.org/resource/Sephora,_wife_of_Moses http://dbpedia.org/resource/Tzipris http://dbpedia.org/resource/Ziporah http://dbpedia.org/resource/Tzipporah http://dbpedia.org/resource/Tziporah http://dbpedia.org/resource/Tsipora http://dbpedia.org/resource/Sipporah http://dbpedia.org/resource/Zippora"
+4,6,G. Rask,http://dbpedia.org/resource/Grethe_Rask,http://dbpedia.org/resource/Gertrud_Rask
+4,7,D. baronets,http://dbpedia.org/resource/Madden_baronets,http://dbpedia.org/resource/Davers_baronets http://dbpedia.org/resource/Davers_Baronets

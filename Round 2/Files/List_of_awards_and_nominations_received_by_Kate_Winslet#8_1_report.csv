@@ -1,0 +1,7 @@
+"F1: 0.44444","Precision: 0.44444","Recall: 0.44444"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","2","Hamlet","http://dbpedia.org/resource/Human_settlement","http://dbpedia.org/resource/Hamlet_(1996) http://dbpedia.org/resource/Hamlet_(1996_film) http://dbpedia.org/resource/Hamlet_(1996_movie) http://dbpedia.org/resource/Hamlet_(Kenneth_Branagh)"
+"1","5","Iris","http://dbpedia.org/resource/Iris_West_Allen","http://dbpedia.org/resource/Iris_(movie) http://dbpedia.org/resource/Iris_(film) http://dbpedia.org/resource/Iris_(2001_movie) http://dbpedia.org/resource/Iris_(2001_film)"
+"1","7","Little Children","http://dbpedia.org/resource/My_Little_Pony:_Friendship_Is_Magic","http://dbpedia.org/resource/Little_Children_(film) http://dbpedia.org/resource/Little_Children_(movie)"
+"1","9","Mildred Pierce","http://dbpedia.org/resource/Mildred_Pierce_(film)","http://dbpedia.org/resource/Mildred_Pierce_(mini-series) http://dbpedia.org/resource/Mildred_Pierce_(TV_miniseries) http://dbpedia.org/resource/Mildred_Pierce_(TV_series) http://dbpedia.org/resource/Mildred_Pierce_miniseries http://dbpedia.org/resource/Mildred_Pierce_(miniseries)"
+"1","11","Steve Jobs","http://dbpedia.org/resource/Steve_Jobs","http://dbpedia.org/resource/Steve_Jobs_(2015_film) http://dbpedia.org/resource/Steve_Jobs_(film)"

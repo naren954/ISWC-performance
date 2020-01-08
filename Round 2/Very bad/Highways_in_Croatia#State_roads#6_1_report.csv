@@ -1,0 +1,5 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,2,D100 - Merag (ferry port),http://dbpedia.org/resource/Audi_100,http://dbpedia.org/resource/D100_(Croatia) http://dbpedia.org/resource/D100_road_(Croatia)
+1,4,D102 - Rijeka Airport,http://dbpedia.org/resource/Dijon_Air_Base,http://dbpedia.org/resource/D102_(Croatia) http://dbpedia.org/resource/D102_road_(Croatia)
+1,5,D102- Valbiska (ferry port),http://dbpedia.org/resource/102_BC,http://dbpedia.org/resource/D102_(Croatia) http://dbpedia.org/resource/D102_road_(Croatia)

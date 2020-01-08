@@ -1,0 +1,7 @@
+F1: 0.93671,Precision: 0.93671,Recall: 0.93671,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,17,Troy,http://dbpedia.org/resource/Troy_Garity,http://dbpedia.org/resource/Troy_(horse)
+3,22,Roberto,http://dbpedia.org/resource/Roberto_Marinho,http://dbpedia.org/resource/Roberto_(horse)
+3,26,Kris S.,http://dbpedia.org/resource/Distorted_Humor,http://dbpedia.org/resource/Kris_S http://dbpedia.org/resource/Kris_S.
+3,55,Arch,http://dbpedia.org/resource/Joseph_Arch,http://dbpedia.org/resource/Arch_(horse)
+3,76,Discovery,http://dbpedia.org/resource/Discovery_(apple),http://dbpedia.org/resource/Discovery_(horse)

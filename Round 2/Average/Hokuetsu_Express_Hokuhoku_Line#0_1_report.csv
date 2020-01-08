@@ -1,0 +1,9 @@
+F1: 0.53333,Precision: 0.53333,Recall: 0.53333,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,5,JÅ\u008Detsu-Kokusai-Ski-jÅ\u008D-mae[Note 2],http://dbpedia.org/resource/Japan,http://dbpedia.org/resource/Jōetsu-Kokusai-Ski-jō-mae_Station
+1,9,Uonuma-KyÅ«ryÅ\u008D,http://dbpedia.org/resource/European_route_E008,http://dbpedia.org/resource/Uonuma-Kyūryō_Station
+1,11,Shinza,http://dbpedia.org/resource/Oh!_Edo_Rocket,http://dbpedia.org/resource/Shinza_Station
+1,14,Hokuhoku-Å\u008Cshima,http://de.dbpedia.org/resource/Schützenbrunnen_(Bern),http://dbpedia.org/resource/Hokuhoku-Ōshima_Station
+1,15,Mushigawa-Å\u008Csugi,http://de.dbpedia.org/resource/Schützenbrunnen_(Bern),http://dbpedia.org/resource/Mushigawa-Ōsugi_Station
+1,17,Å\u008Cike-Ikoi-no-mori[Note 3],,http://dbpedia.org/resource/Ōike-Ikoi-no-mori_Station
+1,18,Kubiki,http://dbpedia.org/resource/Kubiki,http://dbpedia.org/resource/Kubiki_Station

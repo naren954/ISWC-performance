@@ -1,0 +1,14 @@
+F1: 0.71429,Precision: 0.71429,Recall: 0.71429,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,USS Mahan,http://dbpedia.org/resource/USS_Mahan_(DD-102),http://dbpedia.org/resource/USS_Mahan_(DDG-42) http://dbpedia.org/resource/USS_Mahan_(DL-11) http://dbpedia.org/resource/USS_Mahan_(DLG-11)
+0,6,USS Magnet,http://dbpedia.org/resource/USS_Magnet_(AM-260),http://dbpedia.org/resource/USS_Magnet_(YDG-9) http://dbpedia.org/resource/USS_PCE-879 http://dbpedia.org/resource/USS_Magnet_(ADG-9)
+0,13,USS Mackerel,http://dbpedia.org/resource/USS_Mackerel_(SS-204),http://dbpedia.org/resource/USS_Mackerel_(SST-1) http://dbpedia.org/resource/USS_T-1_(SST-1) http://dbpedia.org/resource/USS_Mackerel_(AGSS-570) http://dbpedia.org/resource/SST-1
+0,17,USS Macdonough,http://dbpedia.org/resource/USS_Macdonough_(DD-351),http://dbpedia.org/resource/USS_Macdonough_(DLG-8) http://dbpedia.org/resource/USS_Macdonough_(DDG-39) http://dbpedia.org/resource/USS_Macdonough_(DL-8)
+0,18,USS Macdonough,http://dbpedia.org/resource/USS_Macdonough_(DD-351),http://dbpedia.org/resource/DD-9 http://dbpedia.org/resource/USS_Macdonough_(DD-9)
+0,19,USS Macdonough,http://dbpedia.org/resource/USS_Macdonough_(DD-351),http://dbpedia.org/resource/USS_Macdonough_(DD-331)
+0,21,USS MacKenzie,http://dbpedia.org/resource/USS_MacKenzie_(DD-614),http://dbpedia.org/resource/MacKenzie-class_torpedo_boat http://dbpedia.org/resource/USS_MacKenzie_(TB-17)
+0,23,USS MacKenzie,http://dbpedia.org/resource/USS_MacKenzie_(DD-614),http://dbpedia.org/resource/HMCS_Annapolis_(I-04) http://dbpedia.org/resource/USS_Mackenzie_(DD-175) http://dbpedia.org/resource/USS_MacKenzie_(DD-175) http://dbpedia.org/resource/HMCS_Annapolis_(I04)
+0,36,USS Ludlow,http://dbpedia.org/resource/USS_Ludlow_(DD-438),http://dbpedia.org/resource/USS_Ludlow_(DD-112) http://dbpedia.org/resource/USS_Ludlow_(DM-10)
+0,37,USS Lucidor,http://dbpedia.org/resource/USS_Lucid_(AM-259),http://dbpedia.org/resource/USS_Lucidor http://dbpedia.org/resource/USS_Lucidor_(AF-45)
+0,38,USS Lucid,http://dbpedia.org/resource/USS_Lucid_(AM-259),http://dbpedia.org/resource/USS_Lucid_(MSO-458) http://dbpedia.org/resource/USS_Lucid_(AM-458)
+0,40,USS Luce,http://dbpedia.org/resource/USS_Luce_(DD-99),http://dbpedia.org/resource/USS_Dewey_(DLG-7) http://dbpedia.org/resource/USS_Luce_(DLG-7) http://dbpedia.org/resource/USS_Luce_(DDG-38) http://dbpedia.org/resource/USS_Luce_(DL-7)

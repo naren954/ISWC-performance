@@ -1,0 +1,4 @@
+"F1: 0.50000","Precision: 0.50000","Recall: 0.50000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"2","1","SEAT","http://dbpedia.org/resource/Tampa,_Florida","http://dbpedia.org/resource/SEAT,_S.A. http://dbpedia.org/resource/SEAT_Aran http://dbpedia.org/resource/Sociedad_Española_de_Automóviles_de_Turismo http://dbpedia.org/resource/S._E._A._T. http://dbpedia.org/resource/SEAT_S.A. http://dbpedia.org/resource/Sociedad_Espanola_de_Automoviles_de_Turismo http://dbpedia.org/resource/S.E.A.T. http://dbpedia.org/resource/SEAT"
+"2","4","Lada","http://dbpedia.org/resource/Josef_Lada","http://dbpedia.org/resource/L.A.D.A http://dbpedia.org/resource/Lada http://dbpedia.org/resource/Lada_21011 http://dbpedia.org/resource/LADA http://dbpedia.org/resource/L.A.D.A."

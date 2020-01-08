@@ -1,0 +1,7 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Colombia,http://dbpedia.org/resource/Colombia,http://dbpedia.org/resource/Colombia_national_under-20_football_team http://dbpedia.org/resource/Colombia_U-20 http://dbpedia.org/resource/Colombian_U-20_National_Football_Team http://dbpedia.org/resource/Colombia_national_under-19_football_team http://dbpedia.org/resource/Colombia_national_under-21_football_team
+0,2,Brazil,http://dbpedia.org/resource/Brazil,http://dbpedia.org/resource/Seleção_Sub-20 http://dbpedia.org/resource/Brazil_national_under-20_football_team http://dbpedia.org/resource/Selecao_Sub-20 http://dbpedia.org/resource/Brazil_National_U-20_Football_Team
+0,3,Ecuador,http://dbpedia.org/resource/Ecuador,http://dbpedia.org/resource/Ecuador_national_under-20_football_team
+0,4,Bolivia,http://dbpedia.org/resource/Bolivia,http://dbpedia.org/resource/Bolivia_national_under-20_football_team
+0,5,Uruguay,http://dbpedia.org/resource/Uruguay,http://dbpedia.org/resource/Uruguay_national_under-20_football_team http://dbpedia.org/resource/Uruguay_U-20

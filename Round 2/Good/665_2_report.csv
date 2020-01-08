@@ -1,0 +1,4 @@
+F1: 0.97849,Precision: 0.97849,Recall: 0.97849,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,38,New Orleans Pelicans,http://dbpedia.org/resource/Virtus_Pallacanestro_Bologna,"http://dbpedia.org/resource/NO/Oklahoma_City_Hornets http://dbpedia.org/resource/New_Orleans_Pelicans http://dbpedia.org/resource/Hornets,_New_Orleans http://dbpedia.org/resource/Oklahoma_City_Hornets http://dbpedia.org/resource/New_Orleans_Hornets"
+2,53,San Antonio Stars,http://dbpedia.org/resource/Las_Vegas_Aces,http://dbpedia.org/resource/San_Antonio_Silver_Stars http://dbpedia.org/resource/Steve_Shuman http://dbpedia.org/resource/2014_San_Antonio_Stars_season http://dbpedia.org/resource/2014_San_Antonio_Silver_Stars_season http://dbpedia.org/resource/San_Antonio_Stars

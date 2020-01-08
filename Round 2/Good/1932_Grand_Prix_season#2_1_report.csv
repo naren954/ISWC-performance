@@ -1,0 +1,5 @@
+F1: 0.84211,Precision: 0.84211,Recall: 0.84211,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,11,Eugenio Siena,http://it.dbpedia.org/resource/Eugenio_Chiesa,http://dbpedia.org/resource/Eugenio_Siena
+1,19,Philippe Ã\u0089tancelin,http://fr.dbpedia.org/resource/Pierre_Philippe_Urbain_Thomas,http://dbpedia.org/resource/Philippe_Étancelin
+1,20,Max Fourny,http://fr.dbpedia.org/resource/Alexandre_Fourny,http://dbpedia.org/resource/Max_Fourny

@@ -1,0 +1,5 @@
+F1: 0.25000,Precision: 0.25000,Recall: 0.25000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,4,Lausanne,http://dbpedia.org/resource/Athletissima,http://dbpedia.org/resource/Lausanne_Sport http://dbpedia.org/resource/FC_Lausanne-Sport http://dbpedia.org/resource/Lausanne-Sports http://dbpedia.org/resource/Lausanne_Sports http://dbpedia.org/resource/FC_Lausanne_Sport http://dbpedia.org/resource/Montriond_Lausanne http://dbpedia.org/resource/FC_Lausanne http://dbpedia.org/resource/Lausanne-Sport
+1,5,Maccabi Haifa,http://dbpedia.org/resource/Haifa,http://dbpedia.org/resource/Maccabi_Haifa_F._C. http://dbpedia.org/resource/Maccabi_Haifa_FC http://dbpedia.org/resource/Maccabi_Haifa_F.C. http://dbpedia.org/resource/Maccabi_Haifa_F_C
+1,6,Ä\u008Celik NikÅ¡iÄ\u0087,http://dbpedia.org/resource/Ə,http://dbpedia.org/resource/FK_Čelik_Nikšić

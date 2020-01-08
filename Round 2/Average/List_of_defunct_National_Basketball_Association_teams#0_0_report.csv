@@ -1,0 +1,8 @@
+F1: 0.64706,Precision: 0.64706,Recall: 0.64706,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,4,Baltimore Bullets*[b],http://dbpedia.org/resource/Washington_Wizards,http://dbpedia.org/resource/Baltimore_Bullets_(1944–54)
+0,7,Denver Nuggets[c],http://dbpedia.org/resource/Denver_Nuggets,http://dbpedia.org/resource/Denver_Nuggets_(1948–50) http://dbpedia.org/resource/Denver_Nuggets_(NBL) http://dbpedia.org/resource/Denver_Nuggets_(1948–1950) http://dbpedia.org/resource/Denver_Nuggets_(original) http://dbpedia.org/resource/Denver_Nuggets_(1948-50) http://dbpedia.org/resource/Denver_Nuggets_(1948-1950)
+0,11,Pittsburgh Ironmen,http://dbpedia.org/resource/Pittsburgh_Condors,http://dbpedia.org/resource/Pittsburgh_Ironmen
+0,12,Providence Steamrollers,http://dbpedia.org/resource/Providence_Steamrollers_(Basketball_Association_of_America),http://dbpedia.org/resource/Providence_Steamrollers
+0,14,St. Louis Bombers,http://dbpedia.org/resource/St._Louis_Cardinals,http://dbpedia.org/resource/St._Louis_Bombers_NBA http://dbpedia.org/resource/St._Louis_Bombers_(NBA) http://dbpedia.org/resource/Saint_Louis_Bombers
+0,16,Washington Capitols[h],http://dbpedia.org/resource/Washington_Wizards,http://dbpedia.org/resource/Washington_Capitols http://dbpedia.org/resource/Washington_Capitols_(basketball) http://dbpedia.org/resource/1946-47_Washington_Capitols_season http://dbpedia.org/resource/Washington_Capitols_(NBA)

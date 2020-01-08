@@ -1,0 +1,5 @@
+"F1: 0.84211","Precision: 0.84211","Recall: 0.84211"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"2","2","BMW in Formula One","http://dbpedia.org/resource/Williams_Grand_Prix_Engineering","http://dbpedia.org/resource/BMW_F1 http://dbpedia.org/resource/BMW_in_Formula_One http://dbpedia.org/resource/BMW_Sauber_F1_Team http://dbpedia.org/resource/Bmw_sauber http://dbpedia.org/resource/BMW_Sauber_F1 http://dbpedia.org/resource/BMW_Sauber"
+"2","3","BMW Sauber","http://dbpedia.org/resource/Sauber_F1_Team","http://dbpedia.org/resource/BMW_F1 http://dbpedia.org/resource/BMW_in_Formula_One http://dbpedia.org/resource/BMW_Sauber_F1_Team http://dbpedia.org/resource/Bmw_sauber http://dbpedia.org/resource/BMW_Sauber_F1 http://dbpedia.org/resource/BMW_Sauber"
+"2","4","British American Racing","http://dbpedia.org/resource/McLaren","http://dbpedia.org/resource/Bonneville_400 http://dbpedia.org/resource/British_American_Racing http://dbpedia.org/resource/BAR-Honda http://dbpedia.org/resource/BAR_Honda http://dbpedia.org/resource/Lucky_Strike_BAR_Honda"

@@ -1,0 +1,7 @@
+F1: 0.37500,Precision: 0.37500,Recall: 0.37500,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,FenerbahÃ§e,http://dbpedia.org/resource/Fenerbahçe_S.K._(football),http://dbpedia.org/resource/Fenerbahçe_S.K.
+1,4,GenÃ§lerbirliÄ\u009Fi,http://dbpedia.org/resource/.fi,http://dbpedia.org/resource/Gençlerbirliği
+1,5,BeÅ\u009FiktaÅ\u009F,,http://dbpedia.org/resource/Beşiktaş_J.K.
+1,6,Altay,http://dbpedia.org/resource/FC_Altai_Semey,http://dbpedia.org/resource/Altay_SK http://dbpedia.org/resource/Altay_S.K. http://dbpedia.org/resource/Altay_sk http://dbpedia.org/resource/Altay_S_K http://dbpedia.org/resource/Altayspor http://dbpedia.org/resource/Altay_S._K. http://dbpedia.org/resource/Altay_Izmir
+1,7,AltÄ±nordu,http://dbpedia.org/resource/Ordu,http://dbpedia.org/resource/Altınordu_S.K.

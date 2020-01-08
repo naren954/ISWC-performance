@@ -1,0 +1,7 @@
+F1: 0.64286,Precision: 0.64286,Recall: 0.64286,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,1,L. Ren,http://dbpedia.org/resource/MC_Ren,http://dbpedia.org/resource/Ren_Rongxuan http://dbpedia.org/resource/Lorene_Ren http://dbpedia.org/resource/Kirsten_Ren
+2,3,K. Campbell,http://dbpedia.org/resource/Kym_Campbell,"http://dbpedia.org/resource/Campbell,_Ken http://dbpedia.org/resource/Ken_Campbell_(actor) http://dbpedia.org/resource/Ken_Campbell_(British_actor) http://dbpedia.org/resource/The_Ken_Campbell_Roadshow http://dbpedia.org/resource/Ken_Campbell"
+2,8,M. Enriquez,http://dbpedia.org/resource/Juana_Enríquez,http://dbpedia.org/resource/Miguel_Castro_Enríquez http://dbpedia.org/resource/Mike_Enríquez http://dbpedia.org/resource/Mike_Enriquez http://dbpedia.org/resource/Miguel_Castro_Enriquez
+2,10,S. Woo,http://dbpedia.org/resource/John_Woo,http://dbpedia.org/resource/Seowoo http://dbpedia.org/resource/Seo_Woo
+2,13,A. Chen,http://dbpedia.org/resource/Ashton_Chen,http://dbpedia.org/resource/Andie_Chen http://dbpedia.org/resource/Chen_Bangjun

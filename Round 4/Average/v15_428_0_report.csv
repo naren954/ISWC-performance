@@ -1,0 +1,16 @@
+F1: 0.71429,Precision: 0.71429,Recall: 0.71429,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,6,K. Smith,http://dbpedia.org/resource/Kelvin_Smith,http://dbpedia.org/resource/Kenny_Smith_(American_football) http://dbpedia.org/resource/Kenny_Smith_(football_player)
+0,9,K. Flowers,http://dbpedia.org/resource/Keith_Flowers,http://dbpedia.org/resource/Kenny_Flowers
+0,16,K. Bell,http://dbpedia.org/resource/Kay_Bell,http://dbpedia.org/resource/Kendrell_Bell
+0,19,K. Smith,http://dbpedia.org/resource/Kelvin_Smith,http://dbpedia.org/resource/Kendal_Smith
+0,27,K. Brown,http://dbpedia.org/resource/Keith_Brown_(American_football),http://dbpedia.org/resource/Ken_Brown_(linebacker)
+0,28,K. Anderson,http://dbpedia.org/resource/Kim_Anderson_(American_football),http://dbpedia.org/resource/Kenneth_Allan_Anderson http://dbpedia.org/resource/Ken_Anderson_(quarterback) http://dbpedia.org/resource/Kenneth_A._Anderson
+0,32,K. Edwards,http://dbpedia.org/resource/Kalimba_Edwards,http://dbpedia.org/resource/Kelvin_Edwards
+0,34,K. Gregg,http://dbpedia.org/resource/Forrest_Gregg,http://dbpedia.org/resource/Kelly_Gregg
+0,35,K. Washington,http://dbpedia.org/resource/Kenny_Washington_(American_football),http://dbpedia.org/resource/Kelly_Washington http://dbpedia.org/resource/Kelley_Washington
+0,37,K. Wright,http://dbpedia.org/resource/Kendall_Wright,http://dbpedia.org/resource/Keith_Wright_(defensive_tackle)
+0,41,K. Smith,http://dbpedia.org/resource/Kelvin_Smith,http://dbpedia.org/resource/Keith_Smith_(cornerback)
+0,45,K. Lee,http://dbpedia.org/resource/Khari_Lee,http://dbpedia.org/resource/Keith_Lee_(American_football)
+0,46,K. Jennings,http://dbpedia.org/resource/Kelly_Jennings,http://dbpedia.org/resource/Keith_Jennings_(footbal_player) http://dbpedia.org/resource/Keith_Jennings_(American_football_player) http://dbpedia.org/resource/Keith_Jennings_(American_football) http://dbpedia.org/resource/Keith_Jennings_(football_player)
+0,47,K. Jackson,http://dbpedia.org/resource/Kareem_Jackson,http://dbpedia.org/resource/Keith_Jackson_(tight_end) http://dbpedia.org/resource/Keith_Jackson_(football_player)

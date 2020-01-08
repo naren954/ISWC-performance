@@ -1,0 +1,5 @@
+F1: 0.57143,Precision: 0.57143,Recall: 0.57143,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,4,Oobu Joobu â\u0080\u0093 Ecology,,http://dbpedia.org/resource/Oobu_Joobu
+1,8,iTunes Festival: London,http://dbpedia.org/resource/ITunes_Festival:_London_2011_(Adele_EP),http://dbpedia.org/resource/ITunes_Festival:_London http://dbpedia.org/resource/ITunes_Festival:_London_(Paul_McCartney_live_EP)
+1,10,Paul McCartney Live in Los Angeles,http://dbpedia.org/resource/Live_in_Los_Angeles_(Paul_McCartney_album),http://dbpedia.org/resource/Paul_McCartney_Live_in_Los_Angeles

@@ -1,0 +1,4 @@
+F1: 0.80000,Precision: 0.80000,Recall: 0.80000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,8,B. Williams,http://dbpedia.org/resource/Bob_Williams_(quarterback),http://dbpedia.org/resource/Basil_Williams_(figure_skater) http://dbpedia.org/resource/Basil_Williams_(skater)
+0,10,A. Næss,http://dbpedia.org/resource/Børre_Næss,http://dbpedia.org/resource/Alfred_Ingvald_Naess http://dbpedia.org/resource/Alfred_Naess http://dbpedia.org/resource/Alfred_Nass http://dbpedia.org/resource/Alfred_Ingvald_Næss http://dbpedia.org/resource/Alfred_Næss http://dbpedia.org/resource/Alfred_Naes

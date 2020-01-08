@@ -1,0 +1,8 @@
+F1: 0.70000,Precision: 0.70000,Recall: 0.70000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,4,T. Ellison,http://dbpedia.org/resource/Tamati_Ellison,http://dbpedia.org/resource/Tom_Ellison http://dbpedia.org/resource/Tame_Rangiwahia_Erihana http://dbpedia.org/resource/Thomas_Rangiwahia_Ellison http://dbpedia.org/resource/Thomas_Ellison
+0,5,T. Harding,http://dbpedia.org/resource/Natasha_Harding,http://dbpedia.org/resource/Theo_Harding
+0,7,S. Mackay,http://dbpedia.org/resource/Steven_Mackay,http://dbpedia.org/resource/Shawn_Mackay
+0,9,M. Jordan,http://dbpedia.org/resource/Michael_Jordan,http://dbpedia.org/resource/Martyn_Jordan
+0,17,C. Nicholl,http://dbpedia.org/resource/Chris_Nicholl,http://dbpedia.org/resource/Charles_Nicholl
+0,18,B. Stuart,http://dbpedia.org/resource/Bill_Stuart,http://dbpedia.org/resource/Robert_Stuart_(rugby_union) http://dbpedia.org/resource/Bob_Stuart http://dbpedia.org/resource/Robert_Charles_Stuart

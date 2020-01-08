@@ -1,0 +1,5 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,Medusa Oil on panel,http://dbpedia.org/resource/Oil_painting,http://dbpedia.org/resource/Medusa_(Leonardo_da_Vinci) http://dbpedia.org/resource/Medusa_(Leonardo_da_Vinci_painting) http://dbpedia.org/resource/Medusa_(Leonardo)
+0,5,The Battle of Anghiari Commissioned 4 May 1504,http://dbpedia.org/resource/The_Star-Spangled_Banner,http://dbpedia.org/resource/Cerca_trova http://dbpedia.org/resource/The_Battle_of_Anghiari_(painting)
+0,6,Leda and the Swan c.â\u0080\u00891504â\u0080\u00938[15],http://dbpedia.org/resource/Swansea_City_A.F.C.,http://dbpedia.org/resource/Leda_and_the_Swan_(Leonardo)

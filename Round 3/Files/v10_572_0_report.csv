@@ -1,0 +1,6 @@
+"F1: 0.69231","Precision: 0.69231","Recall: 0.69231"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","4","SM UC-90","http://dbpedia.org/resource/SM_UC-50","http://dbpedia.org/resource/Japanese_submarine_O-4 http://dbpedia.org/resource/SM_UC-90"
+"0","5","SM UB-8","http://dbpedia.org/resource/SM_UB-88","http://dbpedia.org/resource/Bulgarian_submarine_Podvodnik_No._18 http://dbpedia.org/resource/Podvodnik_No._18 http://dbpedia.org/resource/German_submarine_UB8 http://dbpedia.org/resource/German_submarine_UB-8 http://dbpedia.org/resource/SM_UB-8 http://dbpedia.org/resource/UB_8 http://dbpedia.org/resource/UB-8 http://dbpedia.org/resource/German_submarine_UB_8 http://dbpedia.org/resource/Unterseeboot_B-8"
+"0","6","SMS Prinz Adalbert","http://dbpedia.org/resource/SMS_Prinz_Adalbert_(1901)","http://dbpedia.org/resource/German_battleship_Prinz_Adalbert http://dbpedia.org/resource/SMS_Prinz_Adalbert_(1865) http://dbpedia.org/resource/Prinz_Adalbert_(ironclad)"
+"0","9","Japanese cruiser Kasuga","http://dbpedia.org/resource/Japanese_cruiser_Nisshin","http://dbpedia.org/resource/Japanese_cruiser_Kasuga http://dbpedia.org/resource/ARA_Rivadavia_(1902) http://dbpedia.org/resource/Italian_cruiser_Mitra"

@@ -1,0 +1,11 @@
+F1: 0.84483,Precision: 0.84483,Recall: 0.84483,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,18,John Duncan,http://dbpedia.org/resource/John_Duncan_(Canadian_politician),http://dbpedia.org/resource/John_Duncan_(diplomat)
+2,33,Ben Whiteman,http://dbpedia.org/resource/Burchell_Whiteman,http://dbpedia.org/resource/Ben_Whiteman http://dbpedia.org/resource/Bernard_Whiteman
+2,37,Ã\u0089douard Fritch,http://dbpedia.org/resource/U-turn,http://dbpedia.org/resource/Édouard_Fritch
+2,41,Eddie Calvo,http://dbpedia.org/resource/Eddie_Baza_Calvo,http://dbpedia.org/resource/Eddie_Calvo http://dbpedia.org/resource/Eddie_B._Calvo
+2,49,Sir Michael Birt,"http://dbpedia.org/resource/Michael_Havers,_Baron_Havers",http://dbpedia.org/resource/Michael_Birt_(Bailiff_of_Jersey) http://dbpedia.org/resource/Michael_Birt_(barrister) http://dbpedia.org/resource/Michael_Birt_(lawyer)
+2,61,Ross Ardern,http://dbpedia.org/resource/Shane_Ardern,http://dbpedia.org/resource/Ross_Ardern
+2,91,Jonathan Kings,http://dbpedia.org/resource/Jonathan_Kent_(director),http://dbpedia.org/resource/Jonathan_Kings
+2,96,Esther Kiaâ\u0080\u0099aina,http://dbpedia.org/resource/Esther_Benbassa,http://dbpedia.org/resource/Esther_Kia’aina
+2,97,Gordon O. Tanner,"http://dbpedia.org/resource/George_Gordon,_5th_Duke_of_Gordon",http://dbpedia.org/resource/Gordon_O._Tanner_(lawyer) http://dbpedia.org/resource/Gordon_O._Tanner

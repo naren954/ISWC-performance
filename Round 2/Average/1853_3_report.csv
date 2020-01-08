@@ -1,0 +1,76 @@
+F1: 0.60215,Precision: 0.60215,Recall: 0.60215,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,2,A. Rifkin,http://dbpedia.org/resource/Jeremy_Rifkin,http://dbpedia.org/resource/Adam_Rifkin http://dbpedia.org/resource/Rif_Coogan
+3,4,G. Nash,http://dbpedia.org/resource/Graham_Nash,http://dbpedia.org/resource/Gustin_Nash
+3,5,D. McBride,http://dbpedia.org/resource/Will_McBride_(photographer),http://dbpedia.org/resource/Danny_R._McBride http://dbpedia.org/resource/Danny_McBride http://dbpedia.org/resource/Danny_mcbride http://dbpedia.org/resource/Danny_R._Mcbride http://dbpedia.org/resource/Danny_R_McBride http://dbpedia.org/resource/Danny_McBride_(actor) http://dbpedia.org/resource/Danny_r_mcbride
+3,7,L. Schuster,http://de.dbpedia.org/resource/Ludwig_Schuster_(Politiker),http://dbpedia.org/resource/Leon_Schuster http://dbpedia.org/resource/Leon_Shushter
+3,8,B. Copeland,http://dbpedia.org/resource/Misty_Copeland,http://dbpedia.org/resource/Brad_Copeland
+3,10,A. Mukerji,http://dbpedia.org/resource/Rani_Mukerji,http://dbpedia.org/resource/Ayan_Mukerji http://dbpedia.org/resource/Ayan_Mukherjee
+3,11,P. Carey,http://dbpedia.org/resource/Peter_Carey_(novelist),http://dbpedia.org/resource/Patrick_Carey_(cinematographer)
+3,12,C. Cuarón,http://dbpedia.org/resource/Alfonso_Cuarón,http://dbpedia.org/resource/Carlos_Cuaron http://dbpedia.org/resource/Carlos_Cuarón
+3,20,C. B. Pierce,http://dbpedia.org/resource/Henry_B._Pierce,http://dbpedia.org/resource/Charles_B._Pierce
+3,21,R. Wright,http://dbpedia.org/resource/Richard_Wright_(author),http://dbpedia.org/resource/Ralph_Wright
+3,22,J. Perrin,http://dbpedia.org/resource/Jean_Baptiste_Perrin,http://dbpedia.org/resource/Jacques_Perrin http://dbpedia.org/resource/Jacques_André_Simonet
+3,23,R. Thom,http://dbpedia.org/resource/René_Thom,http://dbpedia.org/resource/Robert_Thom_(writer)
+3,24,W. Hill,http://dbpedia.org/resource/Jacqueline_Hill,http://dbpedia.org/resource/Walter_Hill_(filmmaker) http://dbpedia.org/resource/Walter_Hill_(Film_Director) http://dbpedia.org/resource/Walter_Hill_(director)
+3,25,J. Peoples,http://dbpedia.org/resource/Joseph_Stalin,http://dbpedia.org/resource/Janet_Peoples
+3,28,M. Cox,http://dbpedia.org/resource/Michael_Cox_(professor),http://dbpedia.org/resource/Morgan_Cox
+3,32,N. Caro,http://dbpedia.org/resource/Nikodem_Caro,http://dbpedia.org/resource/Niki_Caro http://dbpedia.org/resource/Nikki_Caro
+3,34,L. Davies,,http://dbpedia.org/resource/Lauren_Davies
+3,36,M. Rosen,http://dbpedia.org/resource/Michael_Rosen,http://dbpedia.org/resource/Nepenthe_Productions http://dbpedia.org/resource/Martin_Rosen_(director)
+3,46,S. Low,http://dbpedia.org/resource/Seth_Low,http://dbpedia.org/resource/Stephen_Low
+3,47,D. Brittain,http://dbpedia.org/resource/Vera_Brittain,http://dbpedia.org/resource/Donald_Brittain
+3,52,G. Stallings,http://dbpedia.org/resource/Laurence_Stallings,http://dbpedia.org/resource/George_Stallings
+3,57,Baby,http://dbpedia.org/resource/Birdman_(rapper),http://dbpedia.org/resource/Baby_(director)
+3,61,A. Menon,http://dbpedia.org/resource/Tugdual_Menon,http://dbpedia.org/resource/Anjali_Menon
+3,62,S. Ramakrishnan,http://dbpedia.org/resource/Venkatraman_Ramakrishnan,http://dbpedia.org/resource/Shankar_Ramakrishnan
+3,63,Y. Chang,http://dbpedia.org/resource/Grace_Chang,http://dbpedia.org/resource/Yung_Chang http://dbpedia.org/resource/Yung_chang
+3,64,R. R. Pérez,http://fr.dbpedia.org/resource/Rafael_Ramos_(cyclisme),http://dbpedia.org/resource/Richard_Ray_Pérez http://dbpedia.org/resource/Richard_Ray_Perez
+3,67,G. C. Ward,http://dbpedia.org/resource/William_George_Ward,"http://dbpedia.org/resource/Ward,_Geoffrey_C. http://dbpedia.org/resource/Geoffrey_C._Ward http://dbpedia.org/resource/Geoffrey_Ward"
+3,68,D. McBride,http://dbpedia.org/resource/Will_McBride_(photographer),http://dbpedia.org/resource/Danny_McBride_(writer)
+3,72,C. Bennett,http://dbpedia.org/resource/Constance_Bennett,http://dbpedia.org/resource/Charles_Bennett_(screenwriter)
+3,74,M. Morra,http://it.dbpedia.org/resource/Massimiliano_Morra,http://dbpedia.org/resource/Mario_Morra
+3,77,R. E. Kent,"http://dbpedia.org/resource/Alfred,_Duke_of_Saxe-Coburg_and_Gotha",http://dbpedia.org/resource/Robert_E._Kent
+3,80,S. Danielson,http://dbpedia.org/resource/Elin_Danielson-Gambogi,http://dbpedia.org/resource/Shell_Danielson
+3,83,C. brothers,http://dbpedia.org/resource/Cary_Brothers,http://dbpedia.org/resource/Roderick_Jaynes http://dbpedia.org/resource/Coen_brothers http://dbpedia.org/resource/Coens http://dbpedia.org/resource/Ethan_Jesse_Coen http://dbpedia.org/resource/The_Coen_Brothers http://dbpedia.org/resource/Joel_David_Coen http://dbpedia.org/resource/Coen_Brothers http://dbpedia.org/resource/The_Coen_brothers http://dbpedia.org/resource/Joel_and_Ethan_Coen http://dbpedia.org/resource/Coen_bros http://dbpedia.org/resource/Ethan_Coen http://dbpedia.org/resource/Cohen_brothers http://dbpedia.org/resource/Joel_and_ethan_coen http://dbpedia.org/resource/The_Brothers_Coen http://dbpedia.org/resource/Ethan_and_Joel_Coen http://dbpedia.org/resource/Joel_&_Ethan_Coen http://dbpedia.org/resource/E._Coen http://dbpedia.org/resource/Joel_Coen http://dbpedia.org/resource/Joel_Cohen_(director) http://dbpedia.org/resource/Cohen_bros
+3,84,K. Wade,http://dbpedia.org/resource/Kenneth_Wade,http://dbpedia.org/resource/Kevin_Wade
+3,87,B. Devlin,http://dbpedia.org/resource/Art_Devlin_(ski_jumper),http://dbpedia.org/resource/Bernard_Devlin_(director)
+3,88,B. Sanjay,http://dbpedia.org/resource/Sanjay_Khan,http://dbpedia.org/resource/Bobby_Sanjay http://dbpedia.org/resource/Bobby-Sanjay
+3,90,Lal,http://dbpedia.org/resource/Devi_Lal_(politician),http://dbpedia.org/resource/Lal_Release http://dbpedia.org/resource/Lal_Creations http://dbpedia.org/resource/Lal_(actor) http://dbpedia.org/resource/Lal_(director)
+3,92,K. Jarre,http://dbpedia.org/resource/Maurice_Jarre,http://dbpedia.org/resource/Kevin_Jarre
+3,94,H. Foote,http://dbpedia.org/resource/Shelby_Foote,http://dbpedia.org/resource/Horton_Foote
+3,96,T. Meehan,http://dbpedia.org/resource/John_Meehan_(art_director),http://dbpedia.org/resource/Thomas_Meehan_(Writer) http://dbpedia.org/resource/Thomas_Meehan_(writer)
+3,99,R. Peterson,http://dbpedia.org/resource/Roy_Peterson,http://dbpedia.org/resource/Ralph_Peterson_(writer)
+3,103,S. Jarl,"http://dbpedia.org/resource/John_Russell,_1st_Earl_Russell",http://dbpedia.org/resource/Stefan_Jarl
+3,105,P. Farrelly,http://dbpedia.org/resource/Patrick_Farrelly,http://dbpedia.org/resource/Peter_Farrelly
+3,107,G. Wood,http://dbpedia.org/resource/Grant_Wood,http://dbpedia.org/resource/Gene_Wood
+3,108,B. Maddow,http://dbpedia.org/resource/Rachel_Maddow,http://dbpedia.org/resource/David_Wolff http://dbpedia.org/resource/Ben_Maddow
+3,110,R. E. Kent,"http://dbpedia.org/resource/Alfred,_Duke_of_Saxe-Coburg_and_Gotha",http://dbpedia.org/resource/Robert_E._Kent
+3,111,S. Conrad,http://dbpedia.org/resource/Joseph_Conrad,http://dbpedia.org/resource/Steve_Conrad http://dbpedia.org/resource/Steven_Conrad
+3,113,B. Lyndon,http://dbpedia.org/resource/Lyndon_B._Johnson,http://dbpedia.org/resource/Barre_Lyndon http://dbpedia.org/resource/Alfred_Edgar http://dbpedia.org/resource/Barré_Lyndon
+3,121,É. Rappeneau,http://dbpedia.org/resource/Jean-Paul_Rappeneau,http://dbpedia.org/resource/Élisabeth_Rappeneau
+3,125,R. Epstein,http://dbpedia.org/resource/Brian_Epstein,http://dbpedia.org/resource/Robert_P._Epstein http://dbpedia.org/resource/Rob_Epstein
+3,126,D. Duncan,http://dbpedia.org/resource/Dave_Duncan_(writer),http://dbpedia.org/resource/David_Duncan_(screenwriter) http://dbpedia.org/resource/David_Duncan_(writer)
+3,130,R. Williams,http://dbpedia.org/resource/Ralph_Vaughan_Williams,http://dbpedia.org/resource/Richard_Williams_(animator)
+3,131,S. Kosar,http://uk.dbpedia.org/resource/Косар_Михайло_Григорович,http://dbpedia.org/resource/Scott_Kosar
+3,132,S. Turner,http://dbpedia.org/resource/Lana_Turner,http://dbpedia.org/resource/By_Virtue_Fall_(film) http://dbpedia.org/resource/By_Virtue_Fall http://dbpedia.org/resource/Sheldon_Turner
+3,133,T. Hooper,http://dbpedia.org/resource/Tom_Hooper,http://dbpedia.org/resource/Tobe_Hooper
+3,138,G. C. Ward,http://dbpedia.org/resource/William_George_Ward,"http://dbpedia.org/resource/Ward,_Geoffrey_C. http://dbpedia.org/resource/Geoffrey_C._Ward http://dbpedia.org/resource/Geoffrey_Ward"
+3,139,H. Browne,http://dbpedia.org/resource/Brian_Browne,http://dbpedia.org/resource/Howard_Browne
+3,141,R. Knox,http://dbpedia.org/resource/Ronald_Knox,http://dbpedia.org/resource/Robert_Knox_(sailor) http://dbpedia.org/resource/Robert_Knox_(sea_captain)
+3,143,C. Robinson,http://dbpedia.org/resource/Chris_Robinson_(singer),http://dbpedia.org/resource/Casey_Robinson
+3,144,K. Kirkpatrick,http://dbpedia.org/resource/Ralph_Kirkpatrick,http://dbpedia.org/resource/Karey_Kirkpatrick
+3,145,D. N. Weiss,http://dbpedia.org/resource/D._B._Weiss,http://dbpedia.org/resource/David_N._Weiss
+3,146,T. Giglio,http://de.dbpedia.org/resource/Sandro_Giglio,http://dbpedia.org/resource/Tony_Giglio
+3,147,L. Norman,http://dbpedia.org/resource/Ludvig_Norman,http://dbpedia.org/resource/Leslie_Norman_(director)
+3,150,W. Jing,http://dbpedia.org/resource/Chen_Jing_(table_tennis),http://dbpedia.org/resource/Wong_Jing
+3,153,I. Allen,http://dbpedia.org/resource/Woody_Allen,http://dbpedia.org/resource/Irwin_Allen
+3,154,T. Gayton,http://dbpedia.org/resource/Albert_Gayton,http://dbpedia.org/resource/Tony_Gayton
+3,155,L. Kessler,http://dbpedia.org/resource/Heinz_Kessler,http://dbpedia.org/resource/Lyle_Kessler
+3,157,W. Anderson,http://dbpedia.org/resource/Walter_Anderson_(folklorist),http://dbpedia.org/resource/Wes_anderson http://dbpedia.org/resource/Indian_Paintbrush_Productions http://dbpedia.org/resource/Wesley_Anderson http://dbpedia.org/resource/Wes_Anderson http://dbpedia.org/resource/List_of_awards_and_nominations_received_by_Wes_Anderson http://dbpedia.org/resource/Wes_Anderson_filmography
+3,164,A. DeMond,http://dbpedia.org/resource/Frank_DuMond,http://dbpedia.org/resource/Albert_DeMond
+3,166,N. Noxon,http://dbpedia.org/resource/Marti_Noxon,http://dbpedia.org/resource/Nicolas_Noxon
+3,176,L. Iwerks,http://dbpedia.org/resource/Ub_Iwerks,http://dbpedia.org/resource/Leslie_Iwerks
+3,180,L. Rivera,http://dbpedia.org/resource/Chita_Rivera,http://dbpedia.org/resource/Lance_Rivera
+3,181,R. E. Kent,"http://dbpedia.org/resource/Alfred,_Duke_of_Saxe-Coburg_and_Gotha",http://dbpedia.org/resource/Robert_E._Kent
+3,182,L. Buchanan,http://dbpedia.org/resource/James_Buchanan,http://dbpedia.org/resource/Larry_Buchanan

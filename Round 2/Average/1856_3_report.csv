@@ -1,0 +1,78 @@
+F1: 0.51282,Precision: 0.51282,Recall: 0.51282,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,4,M. S. Johnson,http://dbpedia.org/resource/James_Weldon_Johnson,http://dbpedia.org/resource/Mark_Steven_Johnson
+3,5,S. King,http://dbpedia.org/resource/Nat_King_Cole,"http://dbpedia.org/resource/Stephen_king http://dbpedia.org/resource/Steven_King_Accident http://dbpedia.org/resource/Stephan_king http://dbpedia.org/resource/List_of_times_the_name_""Stephen_King""_or_a_Stephen_King_work_is_mentioned_in_some_context http://dbpedia.org/resource/Naomi_King http://dbpedia.org/resource/Stephen_Edwin_King http://dbpedia.org/resource/John_Swithen http://dbpedia.org/resource/Naomi_Rachel http://dbpedia.org/resource/Stephen_E._King http://dbpedia.org/resource/List_of_books_that_stephen_king_has_written http://dbpedia.org/resource/The_Works_of_Stephen_King http://dbpedia.org/resource/Stephen_king_accident http://dbpedia.org/resource/List_of_cultural_references_to_Stephen_King http://dbpedia.org/resource/Stephen_King http://dbpedia.org/resource/King,_Stephen"
+3,6,N. Evans,http://dbpedia.org/resource/Noreen_Evans,http://dbpedia.org/resource/Nigel_Randell_Evans http://dbpedia.org/resource/Nigel_Evans_(filmmaker) http://dbpedia.org/resource/Nigel_Randall_Evans
+3,10,S. Gupta,http://dbpedia.org/resource/Sanjay_Gupta,http://dbpedia.org/resource/Sanjay_Gupta_(director) http://dbpedia.org/resource/Director_Sanjay_gupta http://dbpedia.org/resource/Sanjay_Gupta_(Director) http://dbpedia.org/resource/Director_Sanjay_Gupta http://dbpedia.org/resource/Jazba http://dbpedia.org/resource/Ek_tha_Gangster
+3,13,B. Ray,http://dbpedia.org/resource/Bingham_Ray,http://dbpedia.org/resource/Billy_Ray_(screenwriter)
+3,17,R. E. Kent,"http://dbpedia.org/resource/Alfred,_Duke_of_Saxe-Coburg_and_Gotha",http://dbpedia.org/resource/Robert_E._Kent
+3,18,D. Minahan,http://dbpedia.org/resource/Daniel_F._Minahan,http://dbpedia.org/resource/Dan_Minahan http://dbpedia.org/resource/Daniel_Minahan
+3,21,W. Sachs,http://dbpedia.org/resource/Robin_Sachs,http://dbpedia.org/resource/William_Sachs
+3,24,P. Holmes,http://dbpedia.org/resource/Arthur_Holmes,http://dbpedia.org/resource/Peggy_Holmes
+3,26,R. Richter,http://dbpedia.org/resource/Eugen_Richter,http://dbpedia.org/resource/Robert_Richter_(American_film_producer)
+3,27,A. Shapiro,"http://ru.dbpedia.org/resource/Шапиро,_Александр_Львович",http://dbpedia.org/resource/Arnold_Shapiro
+3,28,J. K. Jain,"http://dbpedia.org/resource/Anil_K._Jain_(computer_scientist,_born_1948)",http://dbpedia.org/resource/Jainendra_K._Jain_(screenwriter)
+3,29,E. Kata,http://dbpedia.org/resource/Kata_Dalström,http://dbpedia.org/resource/Elisabeth_Kata http://dbpedia.org/resource/Elizabeth_Kata http://dbpedia.org/resource/Elizabeth_Katayama
+3,30,J. A. Davis,http://dbpedia.org/resource/Jo_Ann_Davis,http://dbpedia.org/resource/John_A_Davis http://dbpedia.org/resource/John_A._Davis
+3,31,I. R. Anand,http://dbpedia.org/resource/Mulk_Raj_Anand,http://dbpedia.org/resource/Inder_Raj_Anand
+3,32,A. Scott,http://dbpedia.org/resource/F._Scott_Fitzgerald,http://dbpedia.org/resource/Allan_Scott_(Scottish_screenwriter) http://dbpedia.org/resource/Allan_Shiach
+3,35,R. M. Reza,http://dbpedia.org/resource/Reza_Ghoochannejhad,http://dbpedia.org/resource/Dr._Rahi_Masoom_Reza http://dbpedia.org/resource/Rahi_Masoom_Raza http://dbpedia.org/resource/Rahi_Masoom_Reza
+3,39,T. Srinivas,http://dbpedia.org/resource/Vandemataram_Srinivas,http://dbpedia.org/resource/Trivikram_Srinivas_Sarma http://dbpedia.org/resource/Trivikram http://dbpedia.org/resource/Trivikram_Srinivas
+3,41,L. Pelletier,http://dbpedia.org/resource/Jacques_Pelletier,http://dbpedia.org/resource/Louis_Pelletier
+3,42,C. Cuarón,http://dbpedia.org/resource/Alfonso_Cuarón,http://dbpedia.org/resource/Carlos_Cuarón http://dbpedia.org/resource/Carlos_Cuaron
+3,44,S. Richards,http://dbpedia.org/resource/Lloyd_Richards,http://dbpedia.org/resource/Silvia_Richards
+3,45,L. McFarlane,http://dbpedia.org/resource/Seth_MacFarlane,http://dbpedia.org/resource/Leslie_McFarlane http://dbpedia.org/resource/Charles_Leslie_McFarlane
+3,47,G. Butler,http://dbpedia.org/resource/Gwendoline_Butler,http://dbpedia.org/resource/George_Butler_(filmmaker)
+3,49,J. Dearden,http://dbpedia.org/resource/Basil_Dearden,http://dbpedia.org/resource/James_Dearden
+3,50,D. N. Weiss,http://dbpedia.org/resource/D._B._Weiss,http://dbpedia.org/resource/David_N._Weiss
+3,53,S. Peralta,http://dbpedia.org/resource/Austin_Peralta,http://dbpedia.org/resource/Stacey_Peralta http://dbpedia.org/resource/Stacy_Peralta
+3,54,M. Shelton,http://dbpedia.org/resource/Marley_Shelton,http://dbpedia.org/resource/Millicent_Shelton http://dbpedia.org/resource/Millicent_B._Shelton
+3,55,J. Jennewein,http://dbpedia.org/resource/Josef_Jennewein,http://dbpedia.org/resource/Jim_Jennewein
+3,59,C. K. Gray,http://dbpedia.org/resource/George_Kruger_Gray,http://dbpedia.org/resource/Colin_Keith_Gray
+3,60,L. Iwerks,http://dbpedia.org/resource/Ub_Iwerks,http://dbpedia.org/resource/Leslie_Iwerks
+3,62,I. Akhtar,http://dbpedia.org/resource/Farhan_Akhtar,http://dbpedia.org/resource/Ikram_akhtar http://dbpedia.org/resource/Ikram_Akhtar http://dbpedia.org/resource/Iqram_Akhtar
+3,64,J. Dutilleux,http://dbpedia.org/resource/Henri_Dutilleux,http://dbpedia.org/resource/Jean-Pierre_Dutilleux http://dbpedia.org/resource/Jean_Pierre_Dutilleux
+3,65,M. Shulman,http://dbpedia.org/resource/Morton_Shulman,http://dbpedia.org/resource/Max_Shulman
+3,68,D. M. Evans,http://dbpedia.org/resource/Ronald_M._Evans,http://dbpedia.org/resource/David_Mickey_Evans http://dbpedia.org/resource/David_M._Evans_(director) http://dbpedia.org/resource/David_M._Evans
+3,70,S. Reddy,http://dbpedia.org/resource/Helen_Reddy,http://dbpedia.org/resource/Surender_Reddy
+3,72,S. Rafique,http://dbpedia.org/resource/Mohammad_Rafique_(cricketer),http://dbpedia.org/resource/Shagufta_Rafiq http://dbpedia.org/resource/Shagufta_Rafique
+3,74,J. Tickell,http://dbpedia.org/resource/Thomas_Tickell,http://dbpedia.org/resource/Josh_Tickell http://dbpedia.org/resource/Joshua_Tickell http://dbpedia.org/resource/Biodiesel_America http://dbpedia.org/resource/Joshua_Tickel
+3,75,C. Deven,http://dbpedia.org/resource/Charles_Devens,http://dbpedia.org/resource/Simbudeven http://dbpedia.org/resource/Chimbudevan http://dbpedia.org/resource/Chimbudevan_(director) http://dbpedia.org/resource/Chimbu_deven http://dbpedia.org/resource/Chimbu_Deven http://dbpedia.org/resource/Simbudevan http://dbpedia.org/resource/Simbuthevan http://dbpedia.org/resource/Chimbudeven http://dbpedia.org/resource/Mareesan
+3,77,R. Lees,http://dbpedia.org/resource/Gene_Lees,http://dbpedia.org/resource/Robert_Lees
+3,78,Y. Banno,http://dbpedia.org/resource/Yutaka_Banno,http://dbpedia.org/resource/Yoshimitsu_Banno
+3,79,L. Blum,http://dbpedia.org/resource/Léon_Blum,http://dbpedia.org/resource/Len_Blum
+3,81,A. Veiller,http://dbpedia.org/resource/Simone_Veil,http://dbpedia.org/resource/Anthony_Veiller
+3,82,P. Osborn,http://dbpedia.org/resource/Sherard_Osborn,http://dbpedia.org/resource/Paul_Osborn
+3,83,J. C. Higgins,http://dbpedia.org/resource/H._B._Higgins,http://dbpedia.org/resource/John_C._Higgins
+3,84,E. Wood,http://dbpedia.org/resource/Evelyn_Wood_(British_Army_officer),"http://dbpedia.org/resource/Edward_D._Wood,_Jr. http://dbpedia.org/resource/Ed_Wood,_Jr. http://dbpedia.org/resource/Ed_Wood http://dbpedia.org/resource/Edward_D._Wood_Jr http://dbpedia.org/resource/The_Ghoul_Goes_West http://dbpedia.org/resource/Edward_D._Wood,_Jr http://dbpedia.org/resource/Edward_D._Wood http://dbpedia.org/resource/Ed_wood http://dbpedia.org/resource/Ed_Wood_Jr http://dbpedia.org/resource/Ed_Wood,_Jr http://dbpedia.org/resource/Edward_D._Wood,_Jnr http://dbpedia.org/resource/Edward_D._Wood_Jr. http://dbpedia.org/resource/Ed_Wood_Jr."
+3,86,J. Waters,http://dbpedia.org/resource/Roger_Waters,http://dbpedia.org/resource/John_Waters_(director_born_1946) http://dbpedia.org/resource/Carsick:_John_Waters_Hitchhikes_Across_America http://dbpedia.org/resource/John_Waters_(director) http://dbpedia.org/resource/John_Waters_(filmmaker) http://dbpedia.org/resource/Fruitcake_(film) http://dbpedia.org/resource/John_Waters
+3,87,R. M. Anderson,http://dbpedia.org/resource/Roy_M._Anderson,http://dbpedia.org/resource/Robert_Mailer_Anderson
+3,94,B. Dickey,http://dbpedia.org/resource/Jay_Dickey,http://dbpedia.org/resource/Basil_Dickey
+3,95,A. Birkin,http://dbpedia.org/resource/Jane_Birkin,http://dbpedia.org/resource/Andrew_Birkin
+3,96,T. Berman,http://dbpedia.org/resource/Shelley_Berman,http://dbpedia.org/resource/Ted_Berman
+3,98,D. Brittain,http://dbpedia.org/resource/Vera_Brittain,http://dbpedia.org/resource/Donald_Brittain
+3,100,R. Mecartin,,http://dbpedia.org/resource/Raffi_Mecartin http://dbpedia.org/resource/Rafi_and_Mecartin http://dbpedia.org/resource/Rafi-Mecartin http://dbpedia.org/resource/Rafi_Mecartin
+3,101,C. Mohan,http://dbpedia.org/resource/C._Mohan,http://dbpedia.org/resource/Crazy_mohan http://dbpedia.org/resource/Crazy_Mohan http://dbpedia.org/resource/Chocolate_Krishna
+3,104,A. Joshi,http://dbpedia.org/resource/Aravind_Joshi,http://dbpedia.org/resource/Abhijit_Joshi http://dbpedia.org/resource/Abhijat_Joshi
+3,105,K. Sullivan,http://dbpedia.org/resource/John_Sullivan_(writer),http://dbpedia.org/resource/Sullivan_Entertainment http://dbpedia.org/resource/Love_on_the_Land http://dbpedia.org/resource/Kevin_Sullivan_(director) http://dbpedia.org/resource/Kevin_Sullivan_(producer) http://dbpedia.org/resource/Love_on_the_land
+3,106,E. Paul,http://dbpedia.org/resource/Paul_McCartney,http://dbpedia.org/resource/Elliot_Paul http://dbpedia.org/resource/Elliot_Harold_Paul
+3,107,T. Daly,http://dbpedia.org/resource/Tim_Daly,http://dbpedia.org/resource/Tom_Daly_(producer) http://dbpedia.org/resource/Tom_Daly_(filmmaker)
+3,108,L. Jones,http://dbpedia.org/resource/Linda_Jones,http://dbpedia.org/resource/Laura_Jones_(screenwriter)
+3,110,D. MacDonald,http://dbpedia.org/resource/Margo_MacDonald,http://dbpedia.org/resource/David_MacDonald_(director)
+3,112,R. Arora,http://dbpedia.org/resource/Sanjeev_Arora,http://dbpedia.org/resource/Rajat_Aroraa http://dbpedia.org/resource/Rajat_Arora
+3,115,T. Young,http://dbpedia.org/resource/Tata_Young,http://dbpedia.org/resource/Terence_Young_(director) http://dbpedia.org/resource/Stewart_Terence_Herbert_Young
+3,116,J. Perrin,http://dbpedia.org/resource/Jean_Baptiste_Perrin,http://dbpedia.org/resource/Jacques_André_Simonet http://dbpedia.org/resource/Jacques_Perrin
+3,117,A. Bessie,"http://dbpedia.org/resource/Thomas_Graham,_1st_Baron_Lynedoch",http://dbpedia.org/resource/Alvah_Bessie http://dbpedia.org/resource/Alvah_Cecil_Bessie
+3,123,A. Miller,http://dbpedia.org/resource/Arthur_Miller,http://dbpedia.org/resource/Andrew_Miller_(actor)
+3,124,G. Ward,http://dbpedia.org/resource/Gene_Ward,"http://dbpedia.org/resource/Ward,_Geoffrey_C. http://dbpedia.org/resource/Geoffrey_C._Ward http://dbpedia.org/resource/Geoffrey_Ward"
+3,129,R. K. Gupta,http://dbpedia.org/resource/Rabindra_Kumar_Das_Gupta,http://dbpedia.org/resource/Raj_Kumar_Gupta http://dbpedia.org/resource/Rajkumar_Gupta
+3,132,S. Storck,http://dbpedia.org/resource/Frederic_Storck,http://dbpedia.org/resource/Shelby_Storck
+3,136,C. Brackett,http://dbpedia.org/resource/Leigh_Brackett,http://dbpedia.org/resource/Charles_William_Bracket http://dbpedia.org/resource/Charles_Brackett http://dbpedia.org/resource/Charles_William_Brackett
+3,137,A. Garland,http://dbpedia.org/resource/Judy_Garland,http://dbpedia.org/resource/Alex_Garland
+3,143,G. V. Menon,http://dbpedia.org/resource/V._P._Menon,http://dbpedia.org/resource/Yohan:_Adhyaayam_Ondru http://dbpedia.org/resource/Thuppariyum_Anand http://dbpedia.org/resource/Nithya(movie) http://dbpedia.org/resource/Goutham_Vasudev_Menon http://dbpedia.org/resource/Gowtham_Menon http://dbpedia.org/resource/Assi_Nabey_Poore_Sau http://dbpedia.org/resource/Yohan_Adhyayam_Ondru http://dbpedia.org/resource/Gautham_menon http://dbpedia.org/resource/Gautham_Menon_Untitled_Project http://dbpedia.org/resource/Dhruva_Natchathiram http://dbpedia.org/resource/Gautham_Vasudev_Menon http://dbpedia.org/resource/Gautham_Menon http://dbpedia.org/resource/Azhagiya_Kuyile http://dbpedia.org/resource/Goutham_menon
+3,145,N. Cassavetes,http://dbpedia.org/resource/John_Cassavetes,http://dbpedia.org/resource/Cali_(film) http://dbpedia.org/resource/Nick_Cassavetes http://dbpedia.org/resource/Kentucky_Rhapsody http://dbpedia.org/resource/Nick_Cassavettes http://dbpedia.org/resource/Kentucky_Rhapsody_(film)
+3,148,O. Jacoby,http://dbpedia.org/resource/Louis_Jacoby,http://dbpedia.org/resource/Oren_Jacoby
+3,149,A. Zagdansky,"http://ru.dbpedia.org/resource/Загданский,_Евгений_Петрович",http://dbpedia.org/resource/Andrei_Zagdansky
+3,153,W. Herzog,"http://dbpedia.org/resource/Prince_Arthur,_Duke_of_Connaught_and_Strathearn","http://dbpedia.org/resource/Werner_Herzog http://dbpedia.org/resource/Werner_Herzog_Stipetić http://dbpedia.org/resource/Werner_Stipetic http://dbpedia.org/resource/Warner_Herzog http://dbpedia.org/resource/Herzog,_Werner http://dbpedia.org/resource/List_of_Werner_Herzog_films http://dbpedia.org/resource/From_One_Second_to_the_Next http://dbpedia.org/resource/Werner_Herzog_Filmproduktion"
+3,154,J. Paxton,http://dbpedia.org/resource/Bill_Paxton,http://dbpedia.org/resource/John_Paxton
+3,156,G. Pritikin,http://dbpedia.org/resource/Nathan_Pritikin,http://dbpedia.org/resource/Greg_Pritikin

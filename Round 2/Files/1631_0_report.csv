@@ -1,0 +1,5 @@
+"F1: 0.91667","Precision: 0.91667","Recall: 0.91667"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","8","J. Müller","http://de.dbpedia.org/resource/Jochen_Müller_(Fußballspieler,_1925)","http://dbpedia.org/resource/Josef_Muller_(footballer) http://dbpedia.org/resource/Josef_Müller_(footballer)"
+"0","12","J. Müller","http://de.dbpedia.org/resource/Jochen_Müller_(Fußballspieler,_1925)","http://dbpedia.org/resource/Josef_Muller_(footballer) http://dbpedia.org/resource/Josef_Müller_(footballer)"
+"0","27","J. P. Artés","http://dbpedia.org/resource/J.P._Reese","http://dbpedia.org/resource/Jose_Planas_Artes http://dbpedia.org/resource/José_Planas_Artés"

@@ -1,0 +1,7 @@
+"F1: 0.94898","Precision: 0.94898","Recall: 0.94898"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","14","Pinus tropicalis","http://dbpedia.org/resource/Pinus_cubensis","http://dbpedia.org/resource/Tropical_Pine http://dbpedia.org/resource/Pinus_tropicalis http://dbpedia.org/resource/Tropical_pine"
+"0","29","Pinus resinosa","http://dbpedia.org/resource/Pinus_ponderosa","http://dbpedia.org/resource/Norway_pine http://dbpedia.org/resource/Pinus_resinosa http://dbpedia.org/resource/Red_pines http://dbpedia.org/resource/Red_pine http://dbpedia.org/resource/Red_Pine_(North_America) http://dbpedia.org/resource/Red_Pine http://dbpedia.org/resource/Norway_Pine"
+"0","50","Pinus morrisonicola","http://dbpedia.org/resource/Picea_morrisonicola","http://dbpedia.org/resource/Pinus_morrisonicola http://dbpedia.org/resource/Taiwan_white_pine http://dbpedia.org/resource/Taiwan_White_Pine"
+"0","74","Pinus hakkodensis","http://dbpedia.org/resource/Pinus_cubensis","http://dbpedia.org/resource/Pinus_hakkodensis"
+"0","90","Pinus dabeshanensis","http://dbpedia.org/resource/Pinus_cubensis","http://dbpedia.org/resource/Pinus_dabeshanensis"

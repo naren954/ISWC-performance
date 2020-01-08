@@ -1,0 +1,19 @@
+F1: 0.79518,Precision: 0.79518,Recall: 0.79518,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,6,T. T. Party,http://dbpedia.org/resource/TV_Party_(EP),http://dbpedia.org/resource/The_Tea_Party_(band) http://dbpedia.org/resource/The_Tea_Party
+1,9,T. Macaulay,http://dbpedia.org/resource/Macaulay_Culkin,http://dbpedia.org/resource/Macaulay_and_Macleod http://dbpedia.org/resource/Tony_macaulay http://dbpedia.org/resource/Tony_Macaulay
+1,11,A. Carlsson,http://dbpedia.org/resource/Agnes_Carlsson,http://dbpedia.org/resource/Andreas_Carlsson
+1,12,S. Wright,http://dbpedia.org/resource/Shannon_Wright,http://dbpedia.org/resource/Little_Stevie_Wright http://dbpedia.org/resource/Stevie_Wright_(Australian_singer)
+1,15,J. Goldstein,http://dbpedia.org/resource/Johnny_Goldstein,"http://dbpedia.org/resource/Jerry_Goldstein_(record_producer,_musician) http://dbpedia.org/resource/Jerry_Goldstein_(producer) http://dbpedia.org/resource/Jerry_Goldstein_(musician)"
+1,20,P. Daley,http://dbpedia.org/resource/Daley_(musician),"http://dbpedia.org/resource/Paul_""Semtex""_Daley http://dbpedia.org/resource/Paul_Daley"
+1,23,W. Jennings,http://dbpedia.org/resource/Waylon_Jennings,http://dbpedia.org/resource/Will_Jennings http://dbpedia.org/resource/Wilbur_Jennings
+1,27,J. Elofsson,http://dbpedia.org/resource/Tomas_Elofsson,http://dbpedia.org/resource/Joergen_Elofsson http://dbpedia.org/resource/Jorgen_Elofsson http://dbpedia.org/resource/Jörgen_Elofsson
+1,28,C. Brennan,http://dbpedia.org/resource/Eileen_Brennan,http://dbpedia.org/resource/Ciaran_Brennan http://dbpedia.org/resource/CLannad http://dbpedia.org/resource/Baba_Brennan http://dbpedia.org/resource/Clannad http://dbpedia.org/resource/An_Clann_As_Dobhair http://dbpedia.org/resource/Ciaran_O_Braonain http://dbpedia.org/resource/Clann_as_Dobhair http://dbpedia.org/resource/Leo_Brennan http://dbpedia.org/resource/Clannad_(musical_group) http://dbpedia.org/resource/Ciarán_Ó_Braonáin http://dbpedia.org/resource/Clannad_(band) http://dbpedia.org/resource/Ciarán_Brennan
+1,38,T. Brötzmann,http://dbpedia.org/resource/Peter_Brötzmann,http://dbpedia.org/resource/Thorsten_Brotzmann http://dbpedia.org/resource/Thorsten_Brötzmann
+1,40,G. Bigazzi,http://it.dbpedia.org/resource/Arlo_Bigazzi,http://dbpedia.org/resource/Giancarlo_Bigazzi
+1,46,D. Slick,http://dbpedia.org/resource/Grace_Slick,http://dbpedia.org/resource/Darby_Slick
+1,53,A. &. Simpson,http://dbpedia.org/resource/Jessica_Simpson,http://dbpedia.org/resource/Ashford_&_Simpson http://dbpedia.org/resource/Ashford_and_Simpson http://dbpedia.org/resource/Nick_Ashford http://dbpedia.org/resource/Nickolas_Ashford_and_Valerie_Simpson http://dbpedia.org/resource/Nickolas_Ashford_&_Valerie_Simpson http://dbpedia.org/resource/Valerie_Simpson http://dbpedia.org/resource/Nicholas_Ashford
+1,55,C. Roberts,http://dbpedia.org/resource/Collette_Roberts,http://dbpedia.org/resource/Cherise_Roberts
+1,62,A. Williams,http://dbpedia.org/resource/John_Williams,http://dbpedia.org/resource/Andre_Williams
+1,81,M. Nelson,http://dbpedia.org/resource/Marc_Nelson,http://dbpedia.org/resource/Matt_Browne_(musician) http://dbpedia.org/resource/Martyn_Nelson http://dbpedia.org/resource/King_Adora_(band) http://dbpedia.org/resource/Robert_Grimmit http://dbpedia.org/resource/King_Adora http://dbpedia.org/resource/Dan_Dabrowski
+1,83,R. Thomas,http://dbpedia.org/resource/Ramblin'_Thomas,"http://dbpedia.org/resource/Rob_thomes http://dbpedia.org/resource/Thomas,_Rob http://dbpedia.org/resource/A_New_York_Christmas http://dbpedia.org/resource/Marisol_Maldonado http://dbpedia.org/resource/Rob_Thomas_(musician)"

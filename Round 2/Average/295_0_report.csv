@@ -1,0 +1,11 @@
+F1: 0.52632,Precision: 0.52632,Recall: 0.52632,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,B. Burke,http://dbpedia.org/resource/Brian_Burke_(ice_hockey),http://dbpedia.org/resource/Billy_Burke_(golfer)
+0,4,B. Garrett,http://dbpedia.org/resource/Bill_Garrett_(basketball),http://dbpedia.org/resource/Bill_Garrett_(golfer)
+0,5,B. Collins,http://dbpedia.org/resource/Billy_Collins_Jr.,http://dbpedia.org/resource/Bill_Collins_(golfer)
+0,6,B. Hicks,http://dbpedia.org/resource/Brandon_Hicks,http://dbpedia.org/resource/Elizabeth_M._Hicks http://dbpedia.org/resource/Betty_Hicks_Newell http://dbpedia.org/resource/Betty_Hicks http://dbpedia.org/resource/Elizabeth_Hicks
+0,8,B. Nicholls,http://dbpedia.org/resource/Benjamin_Nicholls,http://dbpedia.org/resource/Bernard_Nicholls
+0,12,A. W. Jr.,http://dbpedia.org/resource/Aaron_Wallace_Jr.,"http://dbpedia.org/resource/Art_Wall,_Jr. http://dbpedia.org/resource/Art_Wall,_Jr http://dbpedia.org/resource/Art_Wall_Jr. http://dbpedia.org/resource/Art_Wall http://dbpedia.org/resource/Art_Wall_Jr"
+0,13,A. Palmer,http://it.dbpedia.org/resource/Arthur_Palmer,"http://dbpedia.org/resource/Palmer,_Arnold http://dbpedia.org/resource/Arnold_Daniel_Palmer http://dbpedia.org/resource/Arnie_palmer http://dbpedia.org/resource/Arnold_Palmer http://dbpedia.org/resource/Arnie_Palmer"
+0,16,A. Espinosa,http://dbpedia.org/resource/Abe_Espinosa,http://dbpedia.org/resource/Al_Espinosa
+0,19,Á. Miguel,http://fr.dbpedia.org/resource/Brice_Miguel,http://dbpedia.org/resource/Angel_Miguel http://dbpedia.org/resource/Ángel_Miguel

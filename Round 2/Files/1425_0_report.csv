@@ -1,0 +1,5 @@
+"F1: 0.80000","Precision: 0.80000","Recall: 0.80000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","7","Grafing","http://dbpedia.org/resource/Grafing_station","http://dbpedia.org/resource/Grafing http://dbpedia.org/resource/Grafing_bei_Muenchen http://dbpedia.org/resource/Grafing_bei_Munchen http://dbpedia.org/resource/Grafing_bei_München"
+"0","9","Friedrichshafen","http://dbpedia.org/resource/Germany","http://dbpedia.org/resource/Friedrichshafen_am_Bodensee http://dbpedia.org/resource/Seemoos_(Friedrichshafen) http://dbpedia.org/resource/UN/LOCODE:DEFDH http://dbpedia.org/resource/Friederichshafen http://dbpedia.org/resource/Manzell http://dbpedia.org/resource/Fischbach_(Friedrichshafen) http://dbpedia.org/resource/Friedrichshafen http://dbpedia.org/resource/Buchhorn http://dbpedia.org/resource/Kluftern"
+"0","15","Altenburg","http://dbpedia.org/resource/Mosonmagyaróvár","http://dbpedia.org/resource/R-23_Altenburg http://dbpedia.org/resource/History_of_Altenburg http://dbpedia.org/resource/Altenbourg http://dbpedia.org/resource/Burgraviate_of_Altenburg http://dbpedia.org/resource/Altenburg,_Germany http://dbpedia.org/resource/Altenburg"

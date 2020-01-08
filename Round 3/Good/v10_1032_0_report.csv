@@ -1,0 +1,8 @@
+F1: 0.87500,Precision: 0.87500,Recall: 0.87500,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,22,"C. "". Burton",http://dbpedia.org/resource/Cliff_Burton,"http://dbpedia.org/resource/Squib_Burton http://dbpedia.org/resource/Cyril_""Squib""_Burton"
+0,24,C. Green,http://dbpedia.org/resource/Carl_Green,http://dbpedia.org/resource/Chris_Green_(horse_racing) http://dbpedia.org/resource/Chris_Green_(horseman) http://dbpedia.org/resource/Chris_Green_(jockey)
+0,29,C. S. Clancy,http://dbpedia.org/resource/King_Clancy,http://dbpedia.org/resource/Carl_Stearns_Clancy
+0,34,B. McIntyre,http://dbpedia.org/resource/Bob_McIntyre_(motorcyclist),http://dbpedia.org/resource/Bob_McIntyre_(motorcycle_racer)
+0,35,B. Brown,"http://dbpedia.org/resource/Billy_Brown_(footballer,_born_1900)",http://dbpedia.org/resource/Bob_Brown_(motorcyclist)
+0,36,B. Anderson,http://dbpedia.org/resource/Bill_Anderson_(1920s_pitcher),http://dbpedia.org/resource/Bob_Anderson_(racing_driver) http://dbpedia.org/resource/DW_Racing_Enterprises http://dbpedia.org/resource/Bob_Anderson_(racer)

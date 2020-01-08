@@ -1,0 +1,7 @@
+"F1: 0.64286","Precision: 0.64286","Recall: 0.64286"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","8","Jam Session[38]","http://dbpedia.org/resource/Jam_Session_(1944_film)","http://dbpedia.org/resource/Jam_Session_(movie) http://dbpedia.org/resource/Jam_Session_(film)"
+"1","10","Girl Crazy[40]","http://dbpedia.org/resource/Girl_Crazy_(1932_film)","http://dbpedia.org/resource/Girlcrazy http://dbpedia.org/resource/Girl-crazy http://dbpedia.org/resource/Girl_Crazy"
+"1","12","Du Barry Was a Lady[42]","http://dbpedia.org/resource/Du_Barry_Was_a_Lady_(film)","http://dbpedia.org/resource/Dubarry_Was_A_Lady http://dbpedia.org/resource/Dubarry_was_a_lady http://dbpedia.org/resource/DuBarry_Was_a_Lady_(1943_film) http://dbpedia.org/resource/DuBarry_Was_a_Lady http://dbpedia.org/resource/Du_Barry_Was_a_Lady"
+"1","15","Honolulu[45]","http://dbpedia.org/resource/Honolulu_(magazine)","http://dbpedia.org/resource/Honolulu_(1939_film) http://dbpedia.org/resource/Honolulu_(movie) http://dbpedia.org/resource/Honolulu_(film)"
+"1","16","Goldmine in the Sky[46]","http://dbpedia.org/resource/Velvet_Goldmine","http://dbpedia.org/resource/Goldmine_in_the_Sky http://dbpedia.org/resource/Gold_Mine_in_the_Sky"

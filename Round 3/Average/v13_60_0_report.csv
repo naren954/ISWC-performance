@@ -1,0 +1,19 @@
+F1: 0.55263,Precision: 0.55263,Recall: 0.55263,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Columbia blue,http://dbpedia.org/resource/Blue,http://dbpedia.org/resource/Columbia_Blue http://dbpedia.org/resource/Columbia_blue http://dbpedia.org/resource/Jordy_blue http://dbpedia.org/resource/Columbia_blue_(color)
+0,3,Citron,http://dbpedia.org/resource/Citric_acid,http://dbpedia.org/resource/Citron_(color)
+0,4,Citrine,http://dbpedia.org/resource/Quartz,http://dbpedia.org/resource/Citrine_(colour) http://dbpedia.org/resource/Citrine_(color)
+0,5,Cinereous,http://dbpedia.org/resource/Cinereous_vulture,http://dbpedia.org/resource/Cinereous
+0,6,Chocolate,http://dbpedia.org/resource/Chocolate,http://dbpedia.org/resource/Cocoa_brown http://dbpedia.org/resource/Chocolate_(color)
+0,9,Champagne,http://dbpedia.org/resource/Champagne,http://dbpedia.org/resource/Champagne_(color)
+0,13,Cardinal,http://dbpedia.org/resource/Cardinal_(Catholic_Church),http://dbpedia.org/resource/Cardinal_(color) http://dbpedia.org/resource/Cardinal_red http://dbpedia.org/resource/Cardinal_Red
+0,14,Capri,http://dbpedia.org/resource/Sky_blue,http://dbpedia.org/resource/Capri_(color)
+0,16,Camel,http://dbpedia.org/resource/Camel,http://dbpedia.org/resource/Camel_(color)
+0,18,Byzantium,http://dbpedia.org/resource/Byzantine_music,http://dbpedia.org/resource/Byzantium_(colour) http://dbpedia.org/resource/Byzantium_(color)
+0,23,Bole,http://dbpedia.org/resource/Trunk_(botany),http://dbpedia.org/resource/Bole_(color) http://dbpedia.org/resource/Terra_rosa_(colour)
+0,24,Blue-green,http://dbpedia.org/resource/Blue,http://dbpedia.org/resource/Bondi_Blue http://dbpedia.org/resource/Blue-green http://dbpedia.org/resource/Green-blue http://dbpedia.org/resource/Bondi_blue http://dbpedia.org/resource/Green_Blue http://dbpedia.org/resource/Blue_green http://dbpedia.org/resource/Bluegreen
+0,26,Bleu de France,http://dbpedia.org/resource/Royal_blue,http://dbpedia.org/resource/Blue_de_France_(color) http://dbpedia.org/resource/Bleu_de_France_(colour) http://dbpedia.org/resource/Bleu_De_France http://dbpedia.org/resource/Bleu_de_France_(color)
+0,29,Baker-Miller Pink,http://dbpedia.org/resource/Under_the_Pink,http://dbpedia.org/resource/Schauss_Pink http://dbpedia.org/resource/Baker-Miller_Pink http://dbpedia.org/resource/P-618
+0,31,Aqua,http://dbpedia.org/resource/Water,http://dbpedia.org/resource/Aqua_color http://dbpedia.org/resource/Aqua_(colour) http://dbpedia.org/resource/Aqua_(color)
+0,33,Android green,http://dbpedia.org/resource/Android_(operating_system),http://dbpedia.org/resource/Android_green
+0,38,Acid green,,http://dbpedia.org/resource/Acid_green

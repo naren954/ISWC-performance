@@ -1,0 +1,5 @@
+F1: 0.81250,Precision: 0.81250,Recall: 0.81250,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,5,Don Warrington,http://dbpedia.org/resource/Don_Warrington_(Canadian_football),http://dbpedia.org/resource/Don_Warrington
+0,10,John Sergeant,http://dbpedia.org/resource/John_Sergeant_(politician),http://dbpedia.org/resource/John_Sergeant_(journalist) http://dbpedia.org/resource/John_Sergeant_(1944-)
+0,16,Tom Chambers,http://dbpedia.org/resource/Tom_Chambers_(basketball),http://dbpedia.org/resource/Tom_Chambers_(actor)

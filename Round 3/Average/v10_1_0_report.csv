@@ -1,0 +1,8 @@
+F1: 0.60000,Precision: 0.60000,Recall: 0.60000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,É. Fabre,http://dbpedia.org/resource/Jean-Henri_Fabre,http://dbpedia.org/resource/Édouard-Charles_Fabre http://dbpedia.org/resource/Edouard-Charles_Fabre http://dbpedia.org/resource/Edouard_Charles_Fabre
+0,3,W. D. Coleman,http://dbpedia.org/resource/Hamilton_D._Coleman,http://dbpedia.org/resource/W._D._Coleman http://dbpedia.org/resource/William_D._Coleman_(pastor) http://dbpedia.org/resource/William_D._Coleman_(Pastor)
+0,4,W. Collins,http://dbpedia.org/resource/Wilkie_Collins,http://dbpedia.org/resource/William_Collins_(bishop) http://dbpedia.org/resource/William_Edward_Collins
+0,5,Wenceslaus I of Bohemia,"http://dbpedia.org/resource/Wenceslaus_I,_Duke_of_Bohemia","http://dbpedia.org/resource/Wenceslas_I,_King_of_Bohemia http://dbpedia.org/resource/Wenceslaus_I,_King_of_Bohemia http://dbpedia.org/resource/Venceslas_I_of_Bohemia http://dbpedia.org/resource/Cunigunde_of_Hohenstaufen http://dbpedia.org/resource/Kunigunda_of_Swabia,_Queen_of_Bohemia http://dbpedia.org/resource/Wenceslaus_I_of_Bohemia http://dbpedia.org/resource/Kunigunda_of_Swabia http://dbpedia.org/resource/Václav_I._Přemyslid http://dbpedia.org/resource/Kunigunda_of_Hohenstaufen"
+0,11,S. E. Krupa Rao,http://dbpedia.org/resource/B._R._Ambedkar,http://dbpedia.org/resource/S._E._Krupa_Rao
+0,12,R. Leighton,http://dbpedia.org/resource/Frederic_Leighton,http://dbpedia.org/resource/Robert_Leighton_(educator) http://dbpedia.org/resource/Robert_Leighton_(prelate) http://dbpedia.org/resource/Robert_Leighton_(bishop)

@@ -1,0 +1,5 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,AZS Koszalin,http://dbpedia.org/resource/Koszalin,http://dbpedia.org/resource/AZS_Koszalin http://dbpedia.org/resource/AZS_Gaz_Ziemny_Koszalin
+1,2,Dinamo Tbilisi,http://dbpedia.org/resource/Tbilisi,http://dbpedia.org/resource/Dinamo_Tbilisi_BC http://dbpedia.org/resource/BC_Dinamo_Tbilisi http://dbpedia.org/resource/BC_Dynamo_Tbilisi
+1,3,Donar,http://dbpedia.org/resource/Thor,http://dbpedia.org/resource/Donar_Groningen http://dbpedia.org/resource/MPC_Donar http://dbpedia.org/resource/MPC_Capitals http://dbpedia.org/resource/Donar_(basketball_club) http://dbpedia.org/resource/GasTerra_Flames_Groningen http://dbpedia.org/resource/Hanzevast_Capitals http://dbpedia.org/resource/GasTerra_Flames http://dbpedia.org/resource/Stichting_Prof_Basketbal_Groningen

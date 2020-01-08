@@ -1,0 +1,4 @@
+"F1: 0.00000","Precision: 0.00000","Recall: 0.00000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","2","octahedral-dodecahedral","http://dbpedia.org/resource/Octahedral_molecular_geometry","http://dbpedia.org/resource/Octahedron-dodecahedron_honeycomb http://dbpedia.org/resource/Octahedral-dodecahedral_honeycomb"
+"1","3","cubic-icosahedral","http://dbpedia.org/resource/Cubic_honeycomb","http://dbpedia.org/resource/Icosahedral-cubic_honeycomb http://dbpedia.org/resource/Cubic-icosahedral_honeycomb http://dbpedia.org/resource/Cube-icosahedron_honeycomb"

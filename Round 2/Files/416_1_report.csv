@@ -1,0 +1,5 @@
+"F1: 0.83333","Precision: 0.83333","Recall: 0.83333"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","4","PAL Express","http://dbpedia.org/resource/Philippine_Airlines","http://dbpedia.org/resource/PAL_Express http://dbpedia.org/resource/PAL_express http://dbpedia.org/resource/Air_Philippines http://dbpedia.org/resource/AirphilExpress"
+"1","16","Air Canada Express","http://dbpedia.org/resource/Jazz_(airline)","http://dbpedia.org/resource/Air_Canada_Express"
+"1","18","Aurora","http://dbpedia.org/resource/Club_Aurora","http://dbpedia.org/resource/Sakhalinskiye_Aviatrassy http://dbpedia.org/resource/Aurora_(airline) http://dbpedia.org/resource/Aurora_Airline http://dbpedia.org/resource/Aurora_Airlines_(Russia) http://dbpedia.org/resource/Sakhalinskie_Aviatrassy"

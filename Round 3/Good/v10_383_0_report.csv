@@ -1,0 +1,14 @@
+F1: 0.82090,Precision: 0.82090,Recall: 0.82090,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,When You Sleep,"http://dbpedia.org/resource/I_Like_It_When_You_Sleep,_for_You_Are_So_Beautiful_yet_So_Unaware_of_It",http://dbpedia.org/resource/When_You_Sleep_(My_Bloody_Valentine_song)
+0,13,When You Kiss Me,http://dbpedia.org/resource/Changed_the_Way_You_Kiss_Me,http://dbpedia.org/resource/When_You_Kiss_Me
+0,25,When You're Gone,http://dbpedia.org/resource/When_You're_Gone_(Avril_Lavigne_song),http://dbpedia.org/resource/When_You're_Gone_(The_Cranberries_song) http://dbpedia.org/resource/When_You're_Gone_(Cranberries_song)
+0,27,When Will You Fall For Me,http://dbpedia.org/resource/When_Will_You_Fall_for_Me,http://dbpedia.org/resource/When_Will_You_Fall_For_Me
+0,32,When We Were Young,http://dbpedia.org/resource/When_We_Were_Young_(Take_That_song),http://dbpedia.org/resource/When_We_Were_Young_(Sneaky_Sound_System_song)
+0,33,When We Were Young,http://dbpedia.org/resource/When_We_Were_Young_(Take_That_song),http://dbpedia.org/resource/When_We_Were_Young_(Human_Nature_song)
+0,34,When We Were Young,http://dbpedia.org/resource/When_We_Were_Young_(Take_That_song),http://dbpedia.org/resource/When_We_Were_Young_(Bucks_Fizz_song) http://dbpedia.org/resource/When_We_Were_Young_(Bucks_Fizz_single)
+0,35,When We Were Young,http://dbpedia.org/resource/When_We_Were_Young_(Take_That_song),http://dbpedia.org/resource/When_We_Were_Young_(Adele_song)
+0,46,When Somebody Loves You,http://dbpedia.org/resource/When_Somebody_Loves_You_(Restless_Heart_song),http://dbpedia.org/resource/When_Somebody_Loves_You_(Alan_Jackson_song)
+0,54,When Love Takes Over You,http://dbpedia.org/resource/When_Love_Takes_Over,http://dbpedia.org/resource/When_Love_Takes_Over_You
+0,63,When I Was Your Girl,http://dbpedia.org/resource/When_I_Was_Your_Man,http://dbpedia.org/resource/When_I_Was_Your_Girl http://dbpedia.org/resource/When_I_Was_Your_Girl_(song)
+0,64,When I Was Young,,http://dbpedia.org/resource/When_I_Was_Young http://dbpedia.org/resource/A_Girl_Named_Sandoz

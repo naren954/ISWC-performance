@@ -1,0 +1,6 @@
+F1: 0.33333,Precision: 0.33333,Recall: 0.33333,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Levski Dobrich,http://dbpedia.org/resource/PFC_Levski_Sofia,http://dbpedia.org/resource/PFK_Dobrudzha_Dobrich http://dbpedia.org/resource/Dobrudzha_Dobrich http://dbpedia.org/resource/PFC_Dobrudzha http://dbpedia.org/resource/PFC_Dobrudzha_Dobrich http://dbpedia.org/resource/FC_Dobrudzha_Dobrich http://dbpedia.org/resource/Dobrudzha_Tolbuchin
+0,2,Belomorets Kavala,http://dbpedia.org/resource/Kavala_F.C.,http://dbpedia.org/resource/Belomorets_Kavala http://dbpedia.org/resource/Belomorets_Svetlen
+0,4,Georgi Drazhev Yambol,http://dbpedia.org/resource/FC_Yambol,http://dbpedia.org/resource/FC_Tundzha
+0,10,ZhSK Sofia,http://dbpedia.org/resource/FC_Lokomotiv_1929_Sofia,http://dbpedia.org/resource/FC_Lokomotiv_Sofia_1929 http://dbpedia.org/resource/Loko_Sofia http://dbpedia.org/resource/Loko_(Sofia) http://dbpedia.org/resource/ZhSK_Sofia http://dbpedia.org/resource/Locomotiv_Sofia http://dbpedia.org/resource/ZHSK_Sofia http://dbpedia.org/resource/Lokomotiv_Sofia http://dbpedia.org/resource/PFC_Lokomotiv_Sofia http://dbpedia.org/resource/FC_Lokomotiv_Sofia

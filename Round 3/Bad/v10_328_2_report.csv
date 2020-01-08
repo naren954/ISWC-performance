@@ -1,0 +1,6 @@
+F1: 0.33333,Precision: 0.33333,Recall: 0.33333,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,3,Southwest Airlines destinations,http://dbpedia.org/resource/Porter_Airlines,http://dbpedia.org/resource/Southwest_destinations http://dbpedia.org/resource/List_of_Southwest_Airlines_destinations http://dbpedia.org/resource/Southwest_Airlines_destinations
+2,4,Cathay Pacific destinations,http://dbpedia.org/resource/Cathay_Pacific,http://dbpedia.org/resource/List_of_Cathay_Pacific_destinations http://dbpedia.org/resource/Cathay_pacific_destinations http://dbpedia.org/resource/Cathay_Pacific_destinations
+2,5,Alitalia destinations,http://dbpedia.org/resource/Alitalia_CityLiner,http://dbpedia.org/resource/Alitalia_Express_destinations http://dbpedia.org/resource/Alitalia_destinations http://dbpedia.org/resource/List_of_Alitalia_destinations
+2,6,Aer Lingus destinations,http://dbpedia.org/resource/Aer_Lingus,http://dbpedia.org/resource/Aer_lingus_destinations http://dbpedia.org/resource/List_of_Aer_Lingus_destinations http://dbpedia.org/resource/Aer_Lingus_destinations http://dbpedia.org/resource/Aer_Lingus_Cargo_destinations

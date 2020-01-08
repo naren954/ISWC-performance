@@ -1,0 +1,4 @@
+F1: 0.71429,Precision: 0.71429,Recall: 0.71429,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,3,Ã\u0089ric PacÃ´me N'Dri,http://dbpedia.org/resource/Ə,http://dbpedia.org/resource/Éric_Pacôme_N'Dri
+1,6,Ibrahim MeitÃ©,http://dbpedia.org/resource/Ibrahim_Meité_(sprinter),http://dbpedia.org/resource/Ibrahim_Meité

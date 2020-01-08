@@ -1,0 +1,6 @@
+F1: 0.42857,Precision: 0.42857,Recall: 0.42857,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Chattahoochee Industrial Railroad,http://dbpedia.org/resource/Chattahoochee_and_Gulf_Railroad,http://dbpedia.org/resource/Chattahoochee_Industrial_Railroad http://dbpedia.org/resource/CIRR
+0,3,Georgia Northeastern Railroad,http://dbpedia.org/resource/Georgia_Southwestern_Railroad,http://dbpedia.org/resource/Georgia_Northeastern_Railroad http://dbpedia.org/resource/Elizabeth_Yard http://dbpedia.org/resource/GNRR
+0,5,Sandersville Railroad,http://dbpedia.org/resource/Phillips_and_Rangeley_Railroad,http://dbpedia.org/resource/Sandersville_Railroad
+0,6,St. Mary's Railroad,"http://dbpedia.org/resource/Chicago,_Milwaukee,_St._Paul_and_Pacific_Railroad",http://dbpedia.org/resource/St._Mary's_Railroad

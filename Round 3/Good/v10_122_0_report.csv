@@ -1,0 +1,4 @@
+F1: 0.98347,Precision: 0.98347,Recall: 0.98347,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,11,Roman Catholic Diocese of Barcelona,http://dbpedia.org/resource/Roman_Catholic_Archdiocese_of_Barcelona,http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Barcelona
+0,53,Roman Catholic Diocese of Auchi,http://dbpedia.org/resource/Roman_Catholic_Archdiocese_of_Auch,http://dbpedia.org/resource/Roman_Catholic_Bishop_of_Auchi http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Auchi http://dbpedia.org/resource/Diocese_of_Auchi http://dbpedia.org/resource/Bishop_of_Auchi

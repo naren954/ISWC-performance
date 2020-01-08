@@ -1,0 +1,7 @@
+"F1: 0.66667","Precision: 0.66667","Recall: 0.66667"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","4","A Family","http://dbpedia.org/resource/The_Pride_of_the_Family","http://dbpedia.org/resource/A_Family_(2004_film)"
+"1","6","Family Ties","http://dbpedia.org/resource/Family_Ties","http://dbpedia.org/resource/Family_Ties_(film)"
+"1","7","My Love","http://dbpedia.org/resource/My_Love_(Lionel_Richie_song)","http://dbpedia.org/resource/My_Love_(2007_film)"
+"1","9","Sunny","http://dbpedia.org/resource/Solo_Sunny","http://dbpedia.org/resource/Sunny_(2008_film) http://dbpedia.org/resource/My_Love_is_Faraway"
+"1","15","Never Ending Story","http://dbpedia.org/resource/The_NeverEnding_Story_(film)","http://dbpedia.org/resource/Never_Ending_Story_(2012_film) http://dbpedia.org/resource/Never_Ending_Story_(Korean_Movie) http://dbpedia.org/resource/Never_Ending_Story_(film) http://dbpedia.org/resource/Never_Ending_Story_(Korean_movie)"

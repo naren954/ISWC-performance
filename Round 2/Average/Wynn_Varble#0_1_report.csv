@@ -1,0 +1,5 @@
+F1: 0.57143,Precision: 0.57143,Recall: 0.57143,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,3,Have You Forgotten? co-written with Darryl Worley,http://dbpedia.org/resource/Have_You_Forgotten?,http://dbpedia.org/resource/Have_You_Forgotten?_(song)
+1,6,Waitin' on a Woman co-written with Don Sampson,http://dbpedia.org/resource/Category:Songs_written_by_Don_Sampson,http://dbpedia.org/resource/Waitin'_on_a_Woman
+1,7,"A Little More Country Than That co-written with Rory Lee Feek, and Don Poythress",http://dbpedia.org/resource/No_Country_for_Old_Men_(film),http://dbpedia.org/resource/A_Little_More_Country_Than_That

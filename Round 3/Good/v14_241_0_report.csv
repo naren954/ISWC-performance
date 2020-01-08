@@ -1,0 +1,13 @@
+F1: 0.84722,Precision: 0.84722,Recall: 0.84722,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,7,Welcome Stranger,http://dbpedia.org/resource/Welcome_Stranger_(1947_film),http://dbpedia.org/resource/Welcome_Stranger_(film)
+0,13,Weekend in Paradise,http://dbpedia.org/resource/Weekend_in_Paradise_(1952_film),http://dbpedia.org/resource/Weekend_in_Paradise http://dbpedia.org/resource/Wochenend_im_Paradies http://dbpedia.org/resource/Weekend_in_Paradise_(1931_film)
+0,15,Weekend,http://dbpedia.org/resource/The_Weekend_(Homeland),http://dbpedia.org/resource/Weekend_(1967_film) http://dbpedia.org/resource/Week_End_(1967_film)
+0,42,We Are Not Married,http://dbpedia.org/resource/We're_Not_Married!,http://dbpedia.org/resource/We_Are_Not_Married_(1946_film) http://dbpedia.org/resource/Nous_ne_sommes_pas_mariés
+0,50,We're No Angels,http://dbpedia.org/resource/We're_No_Angels_(1989_film),http://dbpedia.org/resource/We're_No_Angels_(1955_film)
+0,57,Way Out West,http://dbpedia.org/resource/The_Dingoes,http://dbpedia.org/resource/Way_Out_West_(1937_film)
+0,64,Waterloo,http://dbpedia.org/resource/Sharpe's_Waterloo_(TV_programme),http://dbpedia.org/resource/Waterloo_(1929_film)
+0,66,Waterfront,http://dbpedia.org/resource/Waterfront_(1944_film),http://dbpedia.org/resource/Waterfront_(1950_film)
+0,67,Waterfront,http://dbpedia.org/resource/Waterfront_(1944_film),http://dbpedia.org/resource/Waterfront_(1928_film)
+0,69,Water,http://dbpedia.org/resource/Water,http://dbpedia.org/resource/Water_(movie) http://dbpedia.org/resource/Water_(2005_film) http://dbpedia.org/resource/Water_(2005_movie) http://dbpedia.org/resource/Water_(2005)
+0,70,Water,http://dbpedia.org/resource/Water,http://dbpedia.org/resource/Water_(1985_film)

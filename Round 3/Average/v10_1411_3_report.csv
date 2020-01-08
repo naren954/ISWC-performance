@@ -1,0 +1,34 @@
+F1: 0.51515,Precision: 0.51515,Recall: 0.51515,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,2,Jonquil Panting,http://dbpedia.org/resource/Anne_Panter,http://dbpedia.org/resource/Jonquil_Panting
+3,3,Adam Bromley,http://dbpedia.org/resource/Kristan_Bromley,http://dbpedia.org/resource/Adam_Bromley
+3,5,Jon Naismith,http://dbpedia.org/resource/James_Naismith,http://dbpedia.org/resource/Jon_Naismith
+3,7,Adam Bromley,http://dbpedia.org/resource/Kristan_Bromley,http://dbpedia.org/resource/Adam_Bromley
+3,12,William Morrow,http://dbpedia.org/resource/William_Morrow_(physician),http://dbpedia.org/resource/William_Morrow_(screenwriter)
+3,19,William Morrow,http://dbpedia.org/resource/William_Morrow_(physician),http://dbpedia.org/resource/William_Morrow_(screenwriter)
+3,20,William Morrow,http://dbpedia.org/resource/William_Morrow_(physician),http://dbpedia.org/resource/William_Morrow_(screenwriter)
+3,21,William Morrow,http://dbpedia.org/resource/William_Morrow_(physician),http://dbpedia.org/resource/William_Morrow_(screenwriter)
+3,22,William Morrow,http://dbpedia.org/resource/William_Morrow_(physician),http://dbpedia.org/resource/William_Morrow_(screenwriter)
+3,23,Gareth Edwards,http://dbpedia.org/resource/Gareth_Edwards_(Welsh_cricketer),http://dbpedia.org/resource/Gareth_Edwards_(producer) http://dbpedia.org/resource/The_Disgusting_Sandwich
+3,24,David Tyler,http://dbpedia.org/resource/David_Tyler_(businessman),http://dbpedia.org/resource/David_Tyler_(UK) http://dbpedia.org/resource/David_Tyler_(producer)
+3,25,David Tyler,http://dbpedia.org/resource/David_Tyler_(businessman),http://dbpedia.org/resource/David_Tyler_(UK) http://dbpedia.org/resource/David_Tyler_(producer)
+3,29,William Morrow,http://dbpedia.org/resource/William_Morrow_(physician),http://dbpedia.org/resource/William_Morrow_(screenwriter)
+3,31,Freedom House,http://dbpedia.org/resource/Brian_Friel,"http://dbpedia.org/resource/Books_USA http://dbpedia.org/resource/Freedom_house http://dbpedia.org/resource/""books_USA"" http://dbpedia.org/resource/National_Forum_Foundation http://dbpedia.org/resource/Freedomhouse http://dbpedia.org/resource/Freedom_House http://dbpedia.org/resource/FreedomHouse"
+3,34,Steven Canny,http://dbpedia.org/resource/John_Canny,http://dbpedia.org/resource/Steven_Canny
+3,36,Ted Dowd,http://dbpedia.org/resource/Tom_Dowd,http://dbpedia.org/resource/Ted_Dowd
+3,37,Adam Bromley,http://dbpedia.org/resource/Kristan_Bromley,http://dbpedia.org/resource/Adam_Bromley
+3,39,Lissa Evans,http://dbpedia.org/resource/Lissa_Vera,http://dbpedia.org/resource/Their_Finest_Hour_and_a_Half http://dbpedia.org/resource/Lissa_Evans
+3,41,Sarah Smith,http://dbpedia.org/resource/Sarah_Smith_(writer),http://dbpedia.org/resource/Sarah_Smith_(producer)
+3,46,Gareth Edwards,http://dbpedia.org/resource/Gareth_Edwards_(Welsh_cricketer),http://dbpedia.org/resource/Gareth_Edwards_(producer) http://dbpedia.org/resource/The_Disgusting_Sandwich
+3,47,Adam Bromley,http://dbpedia.org/resource/Kristan_Bromley,http://dbpedia.org/resource/Adam_Bromley
+3,50,Dennis Main Wilson,http://dbpedia.org/resource/Dennis_Wilson,http://dbpedia.org/resource/Dennis_Main_Wilson http://dbpedia.org/resource/Denis_Main_Wilson
+3,51,Jon Naismith,http://dbpedia.org/resource/James_Naismith,http://dbpedia.org/resource/Jon_Naismith
+3,53,David Tyler,http://dbpedia.org/resource/David_Tyler_(businessman),http://dbpedia.org/resource/David_Tyler_(UK) http://dbpedia.org/resource/David_Tyler_(producer)
+3,55,John Tydeman,http://de.dbpedia.org/resource/Meinard_Tydeman_der_Ältere,"http://dbpedia.org/resource/John_Tydeman http://dbpedia.org/resource/Tydeman,_John"
+3,56,Anil Gupta,http://dbpedia.org/resource/Anil_Gupta_(philosopher),http://dbpedia.org/resource/Anil_gupta http://dbpedia.org/resource/Anil_Gupta
+3,59,David Tyler,http://dbpedia.org/resource/David_Tyler_(businessman),http://dbpedia.org/resource/David_Tyler_(UK) http://dbpedia.org/resource/David_Tyler_(producer)
+3,60,George Edwards,http://dbpedia.org/resource/George_Edwards_(Welsh_footballer),http://dbpedia.org/resource/George_Edwards_(actor) http://dbpedia.org/resource/George_Edwards_(Actor)
+3,62,Mark Radcliffe,http://dbpedia.org/resource/Mark_Radcliffe_(politician),http://dbpedia.org/resource/The_White_Room_(TV_series) http://dbpedia.org/resource/The_White_Room_(TV_programme) http://dbpedia.org/resource/Mark_Radcliffe
+3,63,David Tyler,http://dbpedia.org/resource/David_Tyler_(businessman),http://dbpedia.org/resource/David_Tyler_(UK) http://dbpedia.org/resource/David_Tyler_(producer)
+3,65,Elliott Lewis,http://dbpedia.org/resource/Elliott_Lewis,http://dbpedia.org/resource/Elliott_Lewis_(radio)
+3,66,Steven Canny,http://dbpedia.org/resource/John_Canny,http://dbpedia.org/resource/Steven_Canny

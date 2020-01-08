@@ -1,0 +1,6 @@
+"F1: 0.75000","Precision: 0.75000","Recall: 0.75000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","1","América Futebol Clube","http://dbpedia.org/resource/América_Futebol_Clube_(RN)","http://dbpedia.org/resource/América_Football_Club_(AC) http://dbpedia.org/resource/América_Futebol_Clube,_AC http://dbpedia.org/resource/América_Football_Club,_AC http://dbpedia.org/resource/América_Futebol_Clube_(AC) http://dbpedia.org/resource/America_Futebol_Clube_(AC)"
+"0","2","América Football Club","http://dbpedia.org/resource/America_Football_Club_(Rio_de_Janeiro)","http://dbpedia.org/resource/América_Football_Club,_CE http://dbpedia.org/resource/América_Futebol_Clube,_CE http://dbpedia.org/resource/América_Foot-Ball_Club http://dbpedia.org/resource/América_Futebol_Clube_(CE) http://dbpedia.org/resource/América_Futebol_e_Comércio http://dbpedia.org/resource/America_Football_Club_(CE) http://dbpedia.org/resource/América_Football_Club_(CE)"
+"0","10","AFC Ajax","http://dbpedia.org/resource/AFC_Ajax","http://dbpedia.org/resource/AFC_Ajax_(women)"
+"0","11","ADO Den Haag","http://dbpedia.org/resource/ADO_Den_Haag","http://dbpedia.org/resource/ADO_Den_Haag_(women)"

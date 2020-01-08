@@ -1,0 +1,28 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+8,1,"Yeaman, Tickle (2), Briscoe",http://dbpedia.org/resource/Constance_Briscoe,http://dbpedia.org/resource/Kirk_Yeaman
+8,2,"Briscoe, Westerman, McKinnon, Yeaman",http://dbpedia.org/resource/Archibald_MacKinnon,http://dbpedia.org/resource/Tom_Briscoe
+8,3,"Seymour (2), McKinnon, Briscoe",http://dbpedia.org/resource/Hector_McKinnon,http://dbpedia.org/resource/Brett_Seymour
+8,4,"Yeaman, Sharp",http://dbpedia.org/resource/Lydia_Yeamans_Titus,http://dbpedia.org/resource/Kirk_Yeaman
+8,5,"McKinnon (2), Turner",http://dbpedia.org/resource/Ray_McKinnon_(footballer),http://dbpedia.org/resource/Wade_McKinnon
+8,6,"Tickle (4), Manu (2), Lynch, Whiting, Moa, Briscoe",http://dbpedia.org/resource/Margaret_Whiting,http://dbpedia.org/resource/Danny_Tickle
+8,7,"Moa, Manu (2), Turner, Tickle, Seymour, Briscoe",http://dbpedia.org/resource/Manuel_Carballo_(gymnast),http://dbpedia.org/resource/Sam_Moa http://dbpedia.org/resource/Samuela_Moa
+8,8,"Horne (2), Manu, Briscoe",http://dbpedia.org/resource/Constance_Briscoe,"http://dbpedia.org/resource/Horne,_Richard http://dbpedia.org/resource/Richard_Horne http://dbpedia.org/resource/Richard_horne_hull_fc"
+8,9,"Radford, Turner (3), Yeaman, Seymour",,http://dbpedia.org/resource/Lee_Radford
+8,11,"Ellis, Sharp",,http://dbpedia.org/resource/Jamie_Ellis
+8,12,"Tickle, Sharp, Briscoe (2), Crooks",http://dbpedia.org/resource/Dolph_Briscoe,http://dbpedia.org/resource/Danny_Tickle
+8,13,"Crooks, Whiting",http://dbpedia.org/resource/Richard_A._Whiting,http://dbpedia.org/resource/Ben_Crooks
+8,14,"Seymour, Horne, Manu, Martin, Turner",http://dbpedia.org/resource/Martin_Turner_(actor),http://dbpedia.org/resource/Brett_Seymour
+8,15,"Whiting, Horne, Tickle",http://dbpedia.org/resource/Richard_A._Whiting,http://dbpedia.org/resource/Richard_Whiting_(Rugby_League_player) http://dbpedia.org/resource/Richard_Whiting_(Rugby_league_footballer) http://dbpedia.org/resource/Richard_Whiting_(rugby_league)
+8,16,"Manu, Seymour, Crooks, Yeaman (2)",http://dbpedia.org/resource/Manu_Crooks,http://dbpedia.org/resource/Willie_Manu http://dbpedia.org/resource/William_Manu
+8,17,"Yeaman, Manu, Westerman",http://dbpedia.org/resource/Alan_Westerman,http://dbpedia.org/resource/Kirk_Yeaman
+8,18,"Crooks, Briscoe, Heremaia, Yeaman (2)",http://dbpedia.org/resource/Dolph_Briscoe,http://dbpedia.org/resource/Ben_Crooks
+8,19,Horne,http://dbpedia.org/resource/John_Horne_(botanist),"http://dbpedia.org/resource/Horne,_Richard http://dbpedia.org/resource/Richard_Horne http://dbpedia.org/resource/Richard_horne_hull_fc"
+8,20,"Crooks, Briscoe (2)",http://dbpedia.org/resource/Stuart_Briscoe,http://dbpedia.org/resource/Ben_Crooks
+8,21,"McGoldrick, Turner, Yeaman, Whiting, Briscoe",http://dbpedia.org/resource/Professional_wrestling_throws,http://dbpedia.org/resource/Ryan_McGoldrick
+8,22,"Lineham (2), Yeaman, Westerman, Turner",http://dbpedia.org/resource/Alan_Westerman,http://dbpedia.org/resource/Tom_Lineman http://dbpedia.org/resource/Tom_Lineham
+8,23,"Lineham, Seymour",,http://dbpedia.org/resource/Tom_Lineman http://dbpedia.org/resource/Tom_Lineham
+8,24,"Manu, Lineham, Green, Briscoe, Foster",http://dbpedia.org/resource/George_Green_Foster,http://dbpedia.org/resource/Willie_Manu http://dbpedia.org/resource/William_Manu
+8,25,"Turner, Westerman, Heremaia",http://dbpedia.org/resource/Bruce_Westerman,http://dbpedia.org/resource/Jordan_Turner
+8,26,"Westerman, Foster (2), Manu (2), Houghton, Heremaia (2), Briscoe (3), Crooks, Lynch",,http://dbpedia.org/resource/Joe_Westerman
+8,27,"Manu, Briscoe, Horne, Houghton, O'Meley, Green",http://dbpedia.org/resource/Professional_wrestling_throws,http://dbpedia.org/resource/Willie_Manu http://dbpedia.org/resource/William_Manu

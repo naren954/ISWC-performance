@@ -1,0 +1,33 @@
+F1: 0.83511,Precision: 0.83511,Recall: 0.83511,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,S. Loeb,http://dbpedia.org/resource/Jacques_Loeb,http://dbpedia.org/resource/Sidney_Loeb
+0,2,S. Tonkin,http://dbpedia.org/resource/Humphrey_Tonkin,http://dbpedia.org/resource/Shirley_Tonkin
+0,9,S. Kravkov,http://dbpedia.org/resource/Nikolai_Kravkov,http://dbpedia.org/resource/Sergey_Kravkov_(psychologist) http://dbpedia.org/resource/Sergey_Vasilyevich_Kravkov
+0,10,S. Kravkov,http://dbpedia.org/resource/Nikolai_Kravkov,http://dbpedia.org/resource/Sergey_Nikolaievich_Kravkov http://dbpedia.org/resource/Sergey_Kravkov_(explorer)
+0,11,S. Kravkov,http://dbpedia.org/resource/Nikolai_Kravkov,http://dbpedia.org/resource/Sergey_Pavlovich_Kravkov http://dbpedia.org/resource/Sergei_Pavlovich_Kravkov http://dbpedia.org/resource/Sergey_Kravkov_(agronomist)
+0,14,S. L. Fraser,http://dbpedia.org/resource/Alexander_Mackenzie_Fraser,"http://dbpedia.org/resource/Fraser,_Sarah_Loguen http://dbpedia.org/resource/Sarah_Loguen_Fraser"
+0,23,R. Snellius,http://dbpedia.org/resource/Willebrord_Snellius,http://dbpedia.org/resource/Rudolph_Snel_van_Royen http://dbpedia.org/resource/Rudolph_Snellius http://dbpedia.org/resource/Rudolf_Snellius http://dbpedia.org/resource/Rudolf_Snel_van_Roijen http://dbpedia.org/resource/Rudolphus_Snellius
+0,28,R. Payne-Scott,http://dbpedia.org/resource/Scott_Walker_(politician),http://dbpedia.org/resource/Ruby_Payne_Scott http://dbpedia.org/resource/Ruby_Violet_Payne-Scott http://dbpedia.org/resource/Ruby_Payne-Scott
+0,33,R. Pitt-Rivers,http://dbpedia.org/resource/Augustus_Pitt_Rivers,http://dbpedia.org/resource/Rosalind_Pitt-Rivers http://dbpedia.org/resource/Rosalind_Venetia_Lane_Fox_Pitt-Rivers http://dbpedia.org/resource/Rosalind_Venetia_Pitt-Rivers
+0,34,R. Franklin,http://dbpedia.org/resource/Franklin_D._Roosevelt,"http://dbpedia.org/resource/Rosland_Franklin http://dbpedia.org/resource/Rosalind_Elsie_Franklin http://dbpedia.org/resource/Rosalynd_Franklin http://dbpedia.org/resource/Rosalind_franklin http://dbpedia.org/resource/Rosland_Elise_Franklin http://dbpedia.org/resource/King's_College_DNA_controversy http://dbpedia.org/resource/Franklin,_Rosalind http://dbpedia.org/resource/Rosalind_E._Franklin http://dbpedia.org/resource/King's_College_(London)_DNA_Controversy http://dbpedia.org/resource/Rosalind_Frankin http://dbpedia.org/resource/King's_College_London_DNA_Controversy http://dbpedia.org/resource/Roslayn_Franklin http://dbpedia.org/resource/Rosalind_Franklin http://dbpedia.org/resource/Rosalyn_Franklin"
+0,42,R. Hill,http://dbpedia.org/resource/Gary_Hill,http://dbpedia.org/resource/Robert_Robin_Hill http://dbpedia.org/resource/Robert_Hill_(plant_biochemist) http://dbpedia.org/resource/Robin_Hill_(biochemist) http://dbpedia.org/resource/Robert_Hill_(British_biophysicist) http://dbpedia.org/resource/Robert_Hill_(british_biophysicist)
+0,45,R. W. Mitchell,http://dbpedia.org/resource/R._J._Mitchell,http://dbpedia.org/resource/Robert_W._Mitchell
+0,59,R. Edwards,http://dbpedia.org/resource/John_Edwards,"http://dbpedia.org/resource/Sir_Robert_Edwards http://dbpedia.org/resource/Sir_Robert_G._Edwards http://dbpedia.org/resource/Robert_Edwards_(physiologist) http://dbpedia.org/resource/Rob_Edwards_(Scientist) http://dbpedia.org/resource/Robert_Geoffrey_Edwards_CBE_FRS http://dbpedia.org/resource/Sir_Robert_Geoffrey_Edwards http://dbpedia.org/resource/Robert_Geoffrey_Edwards http://dbpedia.org/resource/Robert_G._Edwards http://dbpedia.org/resource/Robert_Geoffrey_Edwards,_CBE_FRS"
+0,60,R. Dewar,http://dbpedia.org/resource/James_Dewar,http://dbpedia.org/resource/Robert_Dewar
+0,76,R. Cotton,http://dbpedia.org/resource/Cotton_Mather,http://dbpedia.org/resource/Richard_Cotton_(geneticist)
+0,77,R. A. Jensen,http://dbpedia.org/resource/Arthur_Jensen,http://dbpedia.org/resource/Richard_A._Jensen http://dbpedia.org/resource/Richard_Alvin_Jensen
+0,85,R. Cilento,http://dbpedia.org/resource/Diane_Cilento,http://dbpedia.org/resource/Sir_Raphael_Cilento http://dbpedia.org/resource/Raphael_West_Cilento http://dbpedia.org/resource/Lady_Cilento http://dbpedia.org/resource/Raphael_Cilento
+0,88,R. Raja,http://dbpedia.org/resource/Vajiralongkorn,http://dbpedia.org/resource/Rajendran_Raja
+0,92,R. Schreiber,http://dbpedia.org/resource/Stuart_Schreiber,http://dbpedia.org/resource/Raemer_E._Schreiber http://dbpedia.org/resource/Raemer_Schreiber
+0,94,R. T. Osborne,http://dbpedia.org/resource/Robin_Osborne,http://dbpedia.org/resource/Robert_Travis_Osborne http://dbpedia.org/resource/Travis_Osborne http://dbpedia.org/resource/R._T._Osborne http://dbpedia.org/resource/R._Travis_Osborne
+0,102,P. Nicolson,http://dbpedia.org/resource/Harold_Nicolson,http://dbpedia.org/resource/Phyllis_Nicolson
+0,103,P. Cilento,http://dbpedia.org/resource/Diane_Cilento,http://dbpedia.org/resource/Dr_Phyllis_Cilento http://dbpedia.org/resource/Phyllis_Dorothy_Cilento http://dbpedia.org/resource/Lady_Phyllis_Dorothy_Cilento http://dbpedia.org/resource/Lady_Phyllis_Cilento http://dbpedia.org/resource/Phyllis_Cilento
+0,104,P. Shriver,http://dbpedia.org/resource/Sargent_Shriver,http://dbpedia.org/resource/Phillip_Raymond_Shriver http://dbpedia.org/resource/Phillip_R._Shriver http://dbpedia.org/resource/Phil_Shriver http://dbpedia.org/resource/Phillip_Shriver
+0,152,N. Zinder,http://dbpedia.org/resource/Lev_Zinder,"http://dbpedia.org/resource/Norton_David_Zinder http://dbpedia.org/resource/Norton_Zinder http://dbpedia.org/resource/Zinder,_N._D."
+0,162,N. Anderson,http://dbpedia.org/resource/Oskar_Anderson,http://dbpedia.org/resource/Nikolai_Anderson
+0,164,N. Priestley,http://dbpedia.org/resource/Raymond_Priestley,http://dbpedia.org/resource/Nigel_Priestley
+0,173,N. Wiseman,http://dbpedia.org/resource/Frederick_Wiseman,http://dbpedia.org/resource/Neil_Wiseman
+0,175,N. Faran,http://dbpedia.org/resource/James_J._Faran,http://dbpedia.org/resource/Naila_Faran
+0,180,M. R. Siddiqui,,http://dbpedia.org/resource/Muhammad_Raziuddin_Siddiqui http://dbpedia.org/resource/Raziuddin_Siddiqui http://dbpedia.org/resource/Dr._Razi
+0,187,M. Oehler,http://fr.dbpedia.org/resource/Jean_Oehler,http://dbpedia.org/resource/Mike_Oehler
+0,188,M. Morton,http://dbpedia.org/resource/Marcus_Morton_(judge),http://dbpedia.org/resource/Douglas_Michael_Morton http://dbpedia.org/resource/Mike_Morton_(geologist)

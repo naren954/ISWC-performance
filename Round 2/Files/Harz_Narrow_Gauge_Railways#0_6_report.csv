@@ -1,0 +1,4 @@
+"F1: 0.33333","Precision: 0.33333","Recall: 0.33333"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"6","2","Mallet locomotives","http://dbpedia.org/resource/South_African_Class_MC_2-6-6-0","http://dbpedia.org/resource/Mallet_locomotive http://dbpedia.org/resource/Mallet_Locomotive http://dbpedia.org/resource/Mallet_(locomotive) http://dbpedia.org/resource/Mallet_engine http://dbpedia.org/resource/Mallet_locomotives"
+"6","4","Einheitslok (prototype)","http://dbpedia.org/resource/Einheitsdampflokomotive","http://dbpedia.org/resource/Einheitslokomotive http://dbpedia.org/resource/DRG_standard_locomotives http://dbpedia.org/resource/Einheitslokomotiven http://dbpedia.org/resource/Einheitslok"

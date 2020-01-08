@@ -1,0 +1,7 @@
+F1: 0.73684,Precision: 0.73684,Recall: 0.73684,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,1,E. Felton,http://dbpedia.org/resource/Bill_Russell,http://dbpedia.org/resource/Earl_Felton
+2,5,D. Loucka,http://dbpedia.org/resource/Luboš_Loučka,http://dbpedia.org/resource/David_Loucka
+2,6,L. Borden,http://dbpedia.org/resource/Robert_Borden,http://dbpedia.org/resource/Lizzie_Borden_(director) http://dbpedia.org/resource/Lizzie_Borden_(USA) http://dbpedia.org/resource/Lizzie_Borden_(filmmaker)
+2,17,F. Habicht,http://dbpedia.org/resource/Christian_Habicht_(historian),http://dbpedia.org/resource/Florian_Habicht
+2,18,J. McBride,http://dbpedia.org/resource/Will_McBride_(photographer),http://dbpedia.org/resource/Jon_McBride_(filmmaker)

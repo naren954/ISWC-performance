@@ -1,0 +1,6 @@
+F1: 0.80952,Precision: 0.80952,Recall: 0.80952,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,3,3 A.M.,http://dbpedia.org/resource/3_a.m._(Eminem_song),http://dbpedia.org/resource/3_A.M._(2001_film)
+1,7,Control,http://dbpedia.org/resource/Control_(Janet_Jackson_album),http://dbpedia.org/resource/Control_(2004_film)
+1,12,Fast & Furious,http://dbpedia.org/resource/Fast_Five,http://dbpedia.org/resource/Fast_&_Furious_(2009_film)
+1,21,Turbo,http://dbpedia.org/resource/Power_Rangers_Turbo,http://dbpedia.org/resource/Turbo_(franchise) http://dbpedia.org/resource/Turbo:_FAST http://dbpedia.org/resource/Turbo:_F.A.S.T http://dbpedia.org/resource/Turbo_Racing_League http://dbpedia.org/resource/Turbo_Super_Stunt_Squad http://dbpedia.org/resource/Turbo_2 http://dbpedia.org/resource/Turbo:_F.A.S.T._(TV_series) http://dbpedia.org/resource/Turbo:_F.A.S.T._(Fast_Action_Stunt_Team) http://dbpedia.org/resource/Turbo:_Super_Stunt_Squad http://dbpedia.org/resource/Turbo_(soundtrack) http://dbpedia.org/resource/Turbo_(Character) http://dbpedia.org/resource/Turbo_(film)

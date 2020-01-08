@@ -1,0 +1,42 @@
+F1: 0.79167,Precision: 0.79167,Recall: 0.79167,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,4,The Firm,http://dbpedia.org/resource/The_Firm_(1989_film),http://dbpedia.org/resource/The_Firm_(Season_1) http://dbpedia.org/resource/The_Firm_(season_1)
+0,8,The Family Man,http://dbpedia.org/resource/The_Family_Man,http://dbpedia.org/resource/The_Family_Man_(1990_TV_series) http://dbpedia.org/resource/The_Family_Man_(1990) http://dbpedia.org/resource/The_Family_Man_(American_TV_series)
+0,9,The Faculty,http://dbpedia.org/resource/The_Faculty,http://dbpedia.org/resource/The_Faculty_(TV_series)
+0,11,The Emissary,http://dbpedia.org/resource/The_Emissary_(Star_Trek:_The_Next_Generation),http://dbpedia.org/resource/The_Emissary_(TVB) http://dbpedia.org/resource/The_Emissary_(TV_series)
+0,14,The Edge,http://dbpedia.org/resource/Edge_(magazine),http://dbpedia.org/resource/The_Edge_(Fox_TV_series) http://dbpedia.org/resource/The_Edge_(FOX_TV_series) http://dbpedia.org/resource/The_Edge_(1992-1993_TV_series) http://dbpedia.org/resource/The_Edge_(TV_series)
+0,19,The Duke,http://dbpedia.org/resource/Duke_Nukem_3D,"http://dbpedia.org/resource/The_Duke_(miniseries) http://dbpedia.org/resource/The_Duke_(TV,_1979) http://dbpedia.org/resource/The_Duke_(TV_miniseries) http://dbpedia.org/resource/The_Duke_(1979_television_series)"
+0,21,The Dots,http://dbpedia.org/resource/Dot_(song),http://dbpedia.org/resource/The_Dots_(TV_series) http://dbpedia.org/resource/Noghtechin http://dbpedia.org/resource/The_Dots_(2003_Iranian_Series)
+0,29,The Detectives,http://dbpedia.org/resource/True_Detective,http://dbpedia.org/resource/The_Detectives_Starring_Robert_Taylor http://dbpedia.org/resource/The_Detectives_(1959_TV_series)
+0,32,The Deep Blue Sea,http://dbpedia.org/resource/The_Deep_Blue_Sea_(2011_film),http://dbpedia.org/resource/The_Deep_Blue_Sea_(1954_TV_film)
+0,34,The Day of the Triffids,http://dbpedia.org/resource/The_Day_of_the_Triffids_(miniseries),http://dbpedia.org/resource/The_Day_of_the_Triffids_(2009_TV_miniseries) http://dbpedia.org/resource/The_Day_of_the_Triffids_(2009_TV_series) http://dbpedia.org/resource/The_Day_of_the_Triffids_(2009_TV_Series)
+0,35,The Day of the Triffids,http://dbpedia.org/resource/The_Day_of_the_Triffids_(miniseries),http://dbpedia.org/resource/The_Day_of_the_Triffids_(1981_TV_series)
+0,39,The D.A.,http://dbpedia.org/resource/Jan_Brueghel_the_Elder,http://dbpedia.org/resource/The_DA_(1971_TV_series) http://dbpedia.org/resource/The_D_A_(1971_TV_series) http://dbpedia.org/resource/The_D._A._(1971_TV_series) http://dbpedia.org/resource/The_D.A.(1971_TV_series) http://dbpedia.org/resource/The_D.A._(1971_TV_series) http://dbpedia.org/resource/The_D.A._(1971)
+0,40,The Cup,http://dbpedia.org/resource/2006_FIFA_World_Cup,http://dbpedia.org/resource/The_Cup_(TV_series)
+0,41,The Cult,http://dbpedia.org/resource/The_Cult_(album),http://dbpedia.org/resource/Two_Gardens http://dbpedia.org/resource/The_Cult_(TV_series)
+0,42,The Cube,http://dbpedia.org/resource/The_Cube_(game_show),http://dbpedia.org/resource/The_Cube_(film) http://dbpedia.org/resource/The_Cube_(1969_film)
+0,44,The Crouches,"http://dbpedia.org/resource/Crouching_Tiger,_Hidden_Dragon",http://dbpedia.org/resource/The_Crouches
+0,46,The Crew,http://dbpedia.org/resource/The_Crew_(video_game),http://dbpedia.org/resource/The_Crew_(television) http://dbpedia.org/resource/The_Crew_(TV_series)
+0,50,The Company,http://dbpedia.org/resource/Bad_Company,http://dbpedia.org/resource/The_Company_(TV_miniseries) http://dbpedia.org/resource/The_Company_(TV_series) http://dbpedia.org/resource/The_Company_(miniseries)
+0,52,The Client,http://dbpedia.org/resource/The_Client_List_(TV_series),http://dbpedia.org/resource/The_Client_(TV_series)
+0,60,The Casual Vacancy,http://dbpedia.org/resource/The_Casual_Vacancy_(miniseries),http://dbpedia.org/resource/The_Casual_Vacancy_(series) http://dbpedia.org/resource/The_Casual_Vacancy_(TV_series) http://dbpedia.org/resource/The_Casual_Vacancy_(Television_series)
+0,62,The Café,http://dbpedia.org/resource/Café_(magazine),http://dbpedia.org/resource/The_Cafe_(TV_series) http://dbpedia.org/resource/The_Café_(TV_series)
+0,64,The Building,http://dbpedia.org/resource/Building_a_Building,http://dbpedia.org/resource/The_Building_(TV_series)
+0,81,The Bible,http://dbpedia.org/resource/Bible,http://dbpedia.org/resource/The_Bible_(TV_series) http://dbpedia.org/resource/The_Bible_(miniseries) http://dbpedia.org/resource/The_Bible_(TV_mini_series) http://dbpedia.org/resource/The_Bible_miniseries http://dbpedia.org/resource/The_Bible_(TV_miniseries)
+0,84,The Beast,http://dbpedia.org/resource/Beauty_and_the_Beast_(1991_film),http://dbpedia.org/resource/Ellis_Dove http://dbpedia.org/resource/The_Beast_(TV_Series:_A&E) http://dbpedia.org/resource/List_of_The_Beast_episodes http://dbpedia.org/resource/The_Beast_(2009_TV_series)
+0,85,The Beast,http://dbpedia.org/resource/Beauty_and_the_Beast_(1991_film),http://dbpedia.org/resource/The_Beast_(2001_TV_series)
+0,108,The Adventures of Superboy,http://dbpedia.org/resource/The_New_Adventures_of_Superman_(TV_series),http://dbpedia.org/resource/The_Adventures_of_Superboy_(animated_series) http://dbpedia.org/resource/Adventures_of_Superboy http://dbpedia.org/resource/The_Adventures_of_Superboy_(1966) http://dbpedia.org/resource/The_Adventures_of_Superboy_(TV_series)
+0,129,That's Life,http://dbpedia.org/resource/That's_Life_(2000_TV_series),http://dbpedia.org/resource/That's_Life_(1998) http://dbpedia.org/resource/That's_Life_(1998_TV_series)
+0,131,Tess of the D'Urbervilles,http://dbpedia.org/resource/Tess_of_the_D'Urbervilles_(2008_TV_serial),http://dbpedia.org/resource/Tess_of_the_D'Urbervilles_(TV_series) http://dbpedia.org/resource/Tess_of_the_D'Urbervilles_(TV_serial) http://dbpedia.org/resource/Tess_of_the_d'Urbervilles_(TV_series) http://dbpedia.org/resource/Tess_of_the_d'Urbevilles_(TV_series)
+0,133,Teresa,http://dbpedia.org/resource/Teresa,http://dbpedia.org/resource/Teresa_(2010_TV_Series) http://dbpedia.org/resource/Teresa_(2010_telenovela)
+0,137,Temptation of Wife,http://dbpedia.org/resource/Temptation_of_Wife_(2008_TV_series),http://dbpedia.org/resource/Temptation_of_Wife_(2012_TV_series) http://dbpedia.org/resource/Temptation_Of_Wife_(2012_TV_series)
+0,145,Tawan Deard,http://dbpedia.org/resource/Tawan_Dueat,http://dbpedia.org/resource/Tawan_Deard
+0,146,Tate,http://dbpedia.org/resource/The_Catherine_Tate_Show,http://dbpedia.org/resource/Tate_(TV_series)
+0,151,Tanhai,http://dbpedia.org/resource/Tanhai_(film),http://dbpedia.org/resource/Tanhai_(drama) http://dbpedia.org/resource/Tanhai_(TV_series)
+0,153,Tammy,http://dbpedia.org/resource/Ron_and_Tammy,http://dbpedia.org/resource/Tammy_(TV_comedy) http://dbpedia.org/resource/Tammy_(TV_series)
+0,154,Talk to Me,http://dbpedia.org/resource/Talk_to_Me_(2007_film),http://dbpedia.org/resource/Talk_To_Me_(TV_series) http://dbpedia.org/resource/Talk_to_Me_(TV_series)
+0,169,T-Bag,http://dbpedia.org/resource/Maalaala_Mo_Kaya,http://dbpedia.org/resource/T-Bag_Strikes_Again http://dbpedia.org/resource/T._Bag http://dbpedia.org/resource/T-bag http://dbpedia.org/resource/Tallulah_Bag http://dbpedia.org/resource/T._Bag_And_The_Revenge_Of_The_T._Set http://dbpedia.org/resource/T-Bag's_Christmas_Ding_Dong http://dbpedia.org/resource/T-Bag_and_the_Pearls_of_Wisdom http://dbpedia.org/resource/T-Bag http://dbpedia.org/resource/T-Bag_and_the_Sunstones_of_Montezuma http://dbpedia.org/resource/TBag http://dbpedia.org/resource/Take_Off_With_T._Bag http://dbpedia.org/resource/T-Bag_Bounces_Back http://dbpedia.org/resource/T-Bag_and_the_Rings_of_Olympus
+0,170,Sydney,http://dbpedia.org/resource/The_Sydney_Morning_Herald,http://dbpedia.org/resource/Sydney_(TV_series)
+0,171,Sybil,http://dbpedia.org/resource/Sybil_(2007_film),http://dbpedia.org/resource/Sybil_(1976_film)
+0,173,Sword Stained with Royal Blood,http://dbpedia.org/resource/The_Sword_Stained_with_Royal_Blood_(film),http://dbpedia.org/resource/Sword_Stained_with_Royal_Blood_(2007_TV_series)
+0,177,Super Twins,http://dbpedia.org/resource/The_Super_Mario_Bros._Super_Show!,http://dbpedia.org/resource/Super_Twins

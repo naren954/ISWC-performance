@@ -1,0 +1,25 @@
+F1: 0.81148,Precision: 0.81148,Recall: 0.81148,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Warning Sign,http://dbpedia.org/resource/Warning_Sign_(song),http://dbpedia.org/resource/Warning_Sign_(film)
+0,2,Warning Shot,http://dbpedia.org/resource/Warning_Shot_(1967_film),http://dbpedia.org/resource/Warning_Shot
+0,3,Warming Up,http://dbpedia.org/resource/Warming_Up_(1983_film),http://dbpedia.org/resource/Warming_Up_(1928_film)
+0,10,Warlock,http://dbpedia.org/resource/Warlock_(1989_film),http://dbpedia.org/resource/Warlock_(1959_film) http://dbpedia.org/resource/Warlock_(1959_movie)
+0,15,War on Terror,http://dbpedia.org/resource/War_on_Terror_(game),http://dbpedia.org/resource/War_on_Terror_(film)
+0,20,War of the Buttons,http://dbpedia.org/resource/War_of_the_Buttons_(1962_film),http://dbpedia.org/resource/La_nouvelle_guerre_des_boutons http://dbpedia.org/resource/La_Nouvelle_Guerre_des_boutons http://dbpedia.org/resource/War_of_the_Buttons_(2011_film)
+0,21,War of the Buttons,http://dbpedia.org/resource/War_of_the_Buttons_(1962_film),http://dbpedia.org/resource/War_of_the_Buttons_(1994_film)
+0,23,War and Peace,http://dbpedia.org/resource/War_and_Peace_(1915_film),http://dbpedia.org/resource/War_and_Peace_(1956_movie) http://dbpedia.org/resource/War_and_peace_(1956_film) http://dbpedia.org/resource/War_and_Peace_(1956_film)
+0,25,War Story,http://dbpedia.org/resource/Rogue_One,http://dbpedia.org/resource/War_Story_(2014_film)
+0,28,War Party,http://dbpedia.org/resource/War_Party_(album),http://dbpedia.org/resource/War_Party_(film)
+0,37,War Brides,http://dbpedia.org/resource/War_Brides_(film),http://dbpedia.org/resource/War_Brides
+0,38,War Book,http://dbpedia.org/resource/War_Horse_(novel),http://dbpedia.org/resource/War_Book_(film)
+0,46,Wanted,http://dbpedia.org/resource/Wanted_(2008_film),http://dbpedia.org/resource/Wanted_(2009_film) http://dbpedia.org/resource/Wanted_(hindi_film) http://dbpedia.org/resource/Wanted_Dead_and_Alive http://dbpedia.org/resource/Wanted_Dead_and_Alive_(version_2) http://dbpedia.org/resource/WANTED_DEAD_AND_ALIVE http://dbpedia.org/resource/Wanted_(2008_Hindi_film) http://dbpedia.org/resource/Wanted:_Dead_And_Alive http://dbpedia.org/resource/Tapori_(film)
+0,48,Wanted!,http://dbpedia.org/resource/Wanted_(Hunter_Hayes_song),http://dbpedia.org/resource/Wanted!
+0,50,Wannabe,http://dbpedia.org/resource/The_Wannabe,http://dbpedia.org/resource/Wannabe_(2005_comedy_film) http://dbpedia.org/resource/Wannabe_(movie) http://dbpedia.org/resource/Wannabe_(film)
+0,52,Wanderlust,http://dbpedia.org/resource/Wanderlust_(2012_film),http://dbpedia.org/resource/Wanderlust_(TV_series)
+0,54,Wanderer of the Wasteland,http://dbpedia.org/resource/Wanderer_of_the_Wasteland_(1924_film),http://dbpedia.org/resource/Wanderer_of_the_Wasteland_(1945_film)
+0,67,Wall Street,http://dbpedia.org/resource/Wall_Street:_Money_Never_Sleeps,http://dbpedia.org/resource/Greed_is_Good http://dbpedia.org/resource/Wall_Street_(1987_film) http://dbpedia.org/resource/Wall_Street_I http://dbpedia.org/resource/Wall_Street_1 http://dbpedia.org/resource/Wall_Street_(1987_movie) http://dbpedia.org/resource/Greed_is_good http://dbpedia.org/resource/Greed_Is_Good http://dbpedia.org/resource/Bluestar_airlines
+0,68,Wall Street,http://dbpedia.org/resource/Wall_Street:_Money_Never_Sleeps,http://dbpedia.org/resource/Wall_Street_(1929_movie) http://dbpedia.org/resource/Wall_Street_(1929_film)
+0,76,Walker,http://dbpedia.org/resource/The_Walkers_(Danish_band),http://dbpedia.org/resource/Walker_(film)
+0,78,Walk the Walk,http://dbpedia.org/resource/Walk_This_Way,http://dbpedia.org/resource/Walk_the_Walk http://dbpedia.org/resource/Walk_the_walk
+0,96,Walang Iwanan,http://dbpedia.org/resource/Walang_Iwanan_(TV_series),http://dbpedia.org/resource/Walang_Iwanan
+0,107,Wake Up and Dream,http://dbpedia.org/resource/Wake_Up_and_Dream_(film),http://dbpedia.org/resource/Wake_Up_and_Dream_(1934_film)

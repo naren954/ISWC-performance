@@ -1,0 +1,4 @@
+F1: 0.85714,Precision: 0.85714,Recall: 0.85714,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,2,Brian Muir,http://dbpedia.org/resource/Brian_Muir_(footballer),http://dbpedia.org/resource/Brian_Muir_(driver) http://dbpedia.org/resource/Brian_Muir_(racing_driver)
+2,8,JÃ¼rgen Barth Hurley Haywood,http://dbpedia.org/resource/Hurley_Haywood,http://dbpedia.org/resource/Jürgen_Barth

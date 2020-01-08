@@ -1,0 +1,12 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,1,ISBN 4091383823 [5],http://dbpedia.org/resource/International_Standard_Book_Number,http://dbpedia.org/resource/Special:BookSources/4091383823
+2,2,ISBN 4091383831 [7],http://dbpedia.org/resource/International_Standard_Book_Number,http://dbpedia.org/resource/Special:BookSources/4091383831
+2,3,ISBN 4091383882 [9],http://dbpedia.org/resource/International_Standard_Book_Number,http://dbpedia.org/resource/Special:BookSources/4091383882
+2,4,ISBN 4091383904 [11],http://dbpedia.org/resource/International_Standard_Book_Number,http://dbpedia.org/resource/Special:BookSources/4091383904
+2,5,ISBN 4091302955 [13],http://dbpedia.org/resource/International_Standard_Book_Number,http://dbpedia.org/resource/Special:BookSources/4091302955
+2,6,ISBN 4091304087 [15],http://dbpedia.org/resource/International_Standard_Book_Number,http://dbpedia.org/resource/Special:BookSources/4091304087
+2,7,ISBN 4091306667 [17],http://dbpedia.org/resource/International_Standard_Book_Number,http://dbpedia.org/resource/Special:BookSources/4091306667
+2,8,ISBN 9784091310965 [19],http://dbpedia.org/resource/International_Standard_Book_Number,http://dbpedia.org/resource/Special:BookSources/9784091310965
+2,9,ISBN 9784091312587 [21],http://dbpedia.org/resource/International_Standard_Book_Number,http://dbpedia.org/resource/Special:BookSources/9784091312587
+2,10,ISBN 9784091315007 [23],http://dbpedia.org/resource/International_Standard_Book_Number,http://dbpedia.org/resource/Special:BookSources/9784091315007

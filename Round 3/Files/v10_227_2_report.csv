@@ -1,0 +1,6 @@
+"F1: 0.71429","Precision: 0.71429","Recall: 0.71429"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"2","6","Gimme Shelter","http://dbpedia.org/resource/Gimme_Shelter_(2013_film)","http://dbpedia.org/resource/Gimme_Shelter_(documentary) http://dbpedia.org/resource/Gimme_Shelter_(1970_film)"
+"2","7","The Things of Life","http://dbpedia.org/resource/The_Best_Things_in_Life_Are_Free_(film)","http://dbpedia.org/resource/The_Things_of_Life http://dbpedia.org/resource/Les_choses_de_la_vie"
+"2","10","The Collector","http://dbpedia.org/resource/The_Collector_(2009_film)","http://dbpedia.org/resource/The_Collector_(1965_film)"
+"2","14","Cold War","http://dbpedia.org/resource/Cold_War_(2012_film)","http://dbpedia.org/resource/Cold_War_(film)"

@@ -1,0 +1,11 @@
+F1: 0.82353,Precision: 0.82353,Recall: 0.82353,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,6,Eureka,http://dbpedia.org/resource/Eureka_(American_TV_series),http://dbpedia.org/resource/Eureka_(1983_film) http://dbpedia.org/resource/Eureka_(1984_film)
+0,10,Escape Me Never,http://dbpedia.org/resource/Escape_Me_Never_(1935_film),http://dbpedia.org/resource/Escape_Me_Never_(1947_film)
+0,11,Escapade,http://dbpedia.org/resource/Escapade_(1935_film),http://dbpedia.org/resource/Escapade_(1957_film)
+0,29,Eenadu,http://dbpedia.org/resource/Unnaipol_Oruvan_(2009_film),http://dbpedia.org/resource/Eenadu_(2009_film) http://dbpedia.org/resource/Eenadu_(2009_Telugu_film) http://dbpedia.org/resource/Someone_Like_You_(2009_film) http://dbpedia.org/resource/Eeenadu
+0,36,"East Side, West Side","http://dbpedia.org/resource/East_Side,_West_Side_(1949_film)","http://dbpedia.org/resource/East_Side,_West_Side_(1927_film)"
+0,38,Désirée,http://fr.dbpedia.org/resource/Ice_Cream_Sundae,http://dbpedia.org/resource/Desirée_(film) http://dbpedia.org/resource/Desiree_(film) http://dbpedia.org/resource/Desirée_(movie) http://dbpedia.org/resource/Desiree_(movie) http://dbpedia.org/resource/Désirée_(film)
+0,42,Duma,http://dbpedia.org/resource/Duma_Key,http://dbpedia.org/resource/Duma_(2005_film)
+0,46,Driving Miss Daisy,http://dbpedia.org/resource/Driving_Miss_Daisy,http://dbpedia.org/resource/Driving_Miss_Daisy_(2014_film)
+0,49,Drag,http://dbpedia.org/resource/Drag_(Red_Aunts_album),http://dbpedia.org/resource/Drag_(film)

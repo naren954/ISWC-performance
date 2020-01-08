@@ -1,0 +1,15 @@
+F1: 0.85714,Precision: 0.85714,Recall: 0.85714,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,6,Y. Mishima,http://dbpedia.org/resource/Yukio_Mishima,http://dbpedia.org/resource/Yahiko_Mishima
+0,24,U. Włodarczyk,http://dbpedia.org/resource/Anita_Włodarczyk,http://dbpedia.org/resource/Urszula_Włodarczyk http://dbpedia.org/resource/Ursula_Wlodarczyk http://dbpedia.org/resource/Urszula_Wlodarczyk
+0,30,T. Lawrence,http://dbpedia.org/resource/T._E._Lawrence,http://dbpedia.org/resource/Torrin_Lawrence
+0,31,T. Pires,http://dbpedia.org/resource/Bruno_Pires,http://dbpedia.org/resource/Tome_Piers http://dbpedia.org/resource/Tomé_Piers http://dbpedia.org/resource/Tome_Pires http://dbpedia.org/resource/Suma_Oriental http://dbpedia.org/resource/Tomé_Pires
+0,32,T. Milton,http://dbpedia.org/resource/Hamilton_Milton,http://dbpedia.org/resource/Tommy_Milton
+0,35,T. Pires,http://dbpedia.org/resource/Bruno_Pires,http://dbpedia.org/resource/Tome_Piers http://dbpedia.org/resource/Tomé_Piers http://dbpedia.org/resource/Tome_Pires http://dbpedia.org/resource/Suma_Oriental http://dbpedia.org/resource/Tomé_Pires
+0,39,T. Maroney,http://dbpedia.org/resource/McKayla_Maroney,http://dbpedia.org/resource/Thomas_Maroney
+0,42,T. Arcangeli,http://dbpedia.org/resource/Luigi_Arcangeli,http://dbpedia.org/resource/Telemaco_Arcangeli
+0,64,S. Schwartz,http://dbpedia.org/resource/Sándor_Schwartz,http://dbpedia.org/resource/Samuel_Schwartz_(racewalker) http://dbpedia.org/resource/Samuel_Schwartz_(race_walker) http://dbpedia.org/resource/Samuel_Schwartz_(athlete)
+0,72,R. Zinn,http://dbpedia.org/resource/Howard_Zinn,http://dbpedia.org/resource/Ron_Zinn http://dbpedia.org/resource/Ronald_Zinn
+0,75,R. Hansen,http://dbpedia.org/resource/Rudolf_Hansen,http://dbpedia.org/resource/Rolf_Hansen_(athlete)
+0,81,R. Woodard,http://dbpedia.org/resource/Lynette_Woodard,http://dbpedia.org/resource/Ray_Woodard_(soccer_coach)
+0,82,R. Barrett,http://dbpedia.org/resource/Red_Barrett,http://dbpedia.org/resource/Ray_Barrett_(athlete)

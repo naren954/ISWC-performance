@@ -1,0 +1,5 @@
+F1: 0.95312,Precision: 0.95312,Recall: 0.95312,,
+Col,Row,Value,Submitted URI,Correct URI's
+4,28,La Confidence,,http://dbpedia.org/resource/La_Confidence
+4,51,Eva Luna,http://dbpedia.org/resource/Eva_Luna_(horse),http://dbpedia.org/resource/Eva_Luna
+4,55,Vagrancy,http://dbpedia.org/resource/Vagrancy_(racehorse),http://dbpedia.org/resource/Vagrancy_(horse)

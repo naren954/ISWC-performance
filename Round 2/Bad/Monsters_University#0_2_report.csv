@@ -1,0 +1,7 @@
+F1: 0.37500,Precision: 0.37500,Recall: 0.37500,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,7,Music in an Animated Feature Production,http://dbpedia.org/resource/Annie_Award,http://dbpedia.org/resource/Annie_Award_for_Music_in_a_Feature_Production http://dbpedia.org/resource/Annie_award_for_music_in_an_animated_feature_production http://dbpedia.org/resource/Annie_Award_for_Music_in_an_Animated_Feature_Production
+2,9,Voice Acting in an Animated Feature Production,http://dbpedia.org/resource/Annie_Award,http://dbpedia.org/resource/Annie_Award_for_Voice_Acting_in_a_Feature_Production
+2,15,Best Animated Feature,http://dbpedia.org/resource/Annie_Award_for_Best_Animated_Feature,http://dbpedia.org/resource/Broadcast_Film_Critics_Association_Award_for_Best_Animated_Feature http://dbpedia.org/resource/BFCA_Critics'_Choice_Award_for_Best_Animated_Feature http://dbpedia.org/resource/Broadcast_Film_Critics_Association_Award_for_Best_Animated_Film http://dbpedia.org/resource/Broadcast_film_critics_association_award_for_best_animated_feature http://dbpedia.org/resource/Critics'_Choice_Movie_Award_for_Best_Animated_Feature
+2,24,Best Animated Film,http://dbpedia.org/resource/Satellite_Award_for_Best_Animated_or_Mixed_Media_Feature,http://dbpedia.org/resource/Saturn_Award_for_Best_Animated_Film http://dbpedia.org/resource/Saturn_award_for_best_animated_film
+2,27,Best Animated Feature,http://dbpedia.org/resource/Annie_Award_for_Best_Animated_Feature,http://dbpedia.org/resource/Washington_D.C._Area_Film_Critics_Association_Award_for_Best_Animated_Feature

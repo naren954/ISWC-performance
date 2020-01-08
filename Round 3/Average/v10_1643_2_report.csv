@@ -1,0 +1,12 @@
+F1: 0.69697,Precision: 0.69697,Recall: 0.69697,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,2,No Matter What,http://dbpedia.org/resource/No_Matter_What_(T.I._song),http://dbpedia.org/resource/No_Matter_What_(Badfinger_song)
+2,5,Speak Low,http://dbpedia.org/resource/Speak_to_Me,http://dbpedia.org/resource/Speak_Low
+2,6,Everything's Alright,http://dbpedia.org/resource/Everything's_Alright_(The_Newbeats_song),http://dbpedia.org/resource/Everything's_Alright_(Jesus_Christ_Superstar_song)
+2,7,Play with Fire,http://dbpedia.org/resource/Play_with_Fire_(Hilary_Duff_song),http://dbpedia.org/resource/Play_with_Fire_(The_Rolling_Stones_song) http://dbpedia.org/resource/Play_With_Fire_(The_Rolling_Stones_song)
+2,11,I Wanna Be Around,http://dbpedia.org/resource/I_Wanna_Be_Around...,http://dbpedia.org/resource/I_Wanna_Be_Around
+2,13,Pig,http://dbpedia.org/resource/Pig_(musical_project),http://dbpedia.org/resource/Don't_Burn_the_Pig http://dbpedia.org/resource/Pig_(song)
+2,16,41,http://dbpedia.org/resource/AD_41,http://dbpedia.org/resource/41_(song) http://dbpedia.org/resource/41_Police http://dbpedia.org/resource/♯41
+2,17,Helpless,http://dbpedia.org/resource/Helpless_(song),http://dbpedia.org/resource/Helpless_(Hamilton_song)
+2,19,The Dreaming Tree,http://dbpedia.org/resource/Stupid_Dream,http://dbpedia.org/resource/MacHead http://dbpedia.org/resource/BTCS http://dbpedia.org/resource/The_Dreaming_Tree_(song) http://dbpedia.org/resource/Machead http://dbpedia.org/resource/Before_These_Crowded_Streets
+2,22,Fallen Angel,http://dbpedia.org/resource/Fallen_Angel_(Poison_song),http://dbpedia.org/resource/Fallen_Angel_(King_Crimson_song)

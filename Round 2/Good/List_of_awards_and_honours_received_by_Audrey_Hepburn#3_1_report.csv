@@ -1,0 +1,4 @@
+F1: 0.77778,Precision: 0.77778,Recall: 0.77778,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,3,War and Peace,http://dbpedia.org/resource/War_and_Peace,http://dbpedia.org/resource/War_and_Peace_(1956_movie) http://dbpedia.org/resource/War_and_Peace_(1956_film) http://dbpedia.org/resource/War_and_peace_(1956_film)
+1,10,Wait Until Dark,http://dbpedia.org/resource/Wait_Until_Dark_(film),http://dbpedia.org/resource/Wait_Until_Dark http://dbpedia.org/resource/Suzy_Hendrix

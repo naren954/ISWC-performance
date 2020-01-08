@@ -1,0 +1,12 @@
+F1: 0.94595,Precision: 0.94595,Recall: 0.94595,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,6,The Commodore,http://dbpedia.org/resource/The_Commodore,http://dbpedia.org/resource/The_Commodore_(book) http://dbpedia.org/resource/The_Commodore_(novel)
+0,38,The City & the City,http://dbpedia.org/resource/City_to_City,http://dbpedia.org/resource/Ul_Qoma http://dbpedia.org/resource/The_City_and_the_City http://dbpedia.org/resource/Besźel http://dbpedia.org/resource/The_City_&_the_City http://dbpedia.org/resource/The_city_and_the_city
+0,55,The Change,http://dbpedia.org/resource/Change_(Sugababes_album),http://dbpedia.org/resource/The_Change_(Animorphs) http://dbpedia.org/resource/The_Change_(novel)
+0,74,The Capture,http://dbpedia.org/resource/Captured_(Journey_album),http://dbpedia.org/resource/The_Capture_(Animorphs) http://dbpedia.org/resource/The_Capture_(novel)
+0,85,The Burning,http://dbpedia.org/resource/The_Burning_Red,http://dbpedia.org/resource/The_Burning_(novel) http://dbpedia.org/resource/The_Burning_(Doctor_Who)
+0,87,The Burden of Proof,http://dbpedia.org/resource/The_Burden_of_Proof_(novel),http://dbpedia.org/resource/The_Burden_of_Proof
+0,88,The Burden,http://dbpedia.org/resource/The_Glorious_Burden,http://dbpedia.org/resource/The_Burden_(novel) http://dbpedia.org/resource/The_burden http://dbpedia.org/resource/The_Burden
+0,122,The Boar,http://dbpedia.org/resource/The_Boar,http://dbpedia.org/resource/The_Boar_(novel)
+0,130,The Blood Cell,http://dbpedia.org/resource/White_Blood_Cells_(album),http://dbpedia.org/resource/The_Blood_Cell
+0,137,The Black Mountain,http://dbpedia.org/resource/Songs_from_the_Black_Mountain_Music_Project,http://dbpedia.org/resource/The_Black_Mountain

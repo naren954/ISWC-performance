@@ -1,0 +1,6 @@
+F1: 0.71429,Precision: 0.71429,Recall: 0.71429,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,4,Bob Davidson,http://dbpedia.org/resource/Bob_Davidson_(footballer),http://dbpedia.org/resource/Bob_Davidson_(pitcher)
+0,7,Edwin Jackson,http://dbpedia.org/resource/Edwin_Jackson_(American_football),http://dbpedia.org/resource/Edwin_Jackson
+0,8,Steve Kent,http://dbpedia.org/resource/Steven_Kent_(baseball),http://dbpedia.org/resource/Steve_Kent_(baseball)
+0,10,Tom McCarthy,http://dbpedia.org/resource/Tom_McCarthy_(1900s_pitcher),"http://dbpedia.org/resource/Tom_McCarthy_(baseball_pitcher,_born_1961) http://dbpedia.org/resource/Tom_McCarthy_(1980s_pitcher)"

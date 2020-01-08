@@ -1,0 +1,4 @@
+"F1: 0.88889","Precision: 0.88889","Recall: 0.88889"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","11","J. Holliday","http://dbpedia.org/resource/Judy_Holliday","http://dbpedia.org/resource/Jim_Holliday"
+"0","17","A. Jordan","http://de.dbpedia.org/resource/Alex_Jordan_(Pornodarstellerin)","http://dbpedia.org/resource/Alex_Jordan_(porn_star) http://dbpedia.org/resource/Alex_Jordan"

@@ -1,0 +1,4 @@
+"F1: 0.97260","Precision: 0.97260","Recall: 0.97260"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","33","Yellow-spotted petronia","http://dbpedia.org/resource/Yellow-spotted_agama","http://dbpedia.org/resource/Yellow-spotted_Petronia http://dbpedia.org/resource/Gymnoris_pyrgita http://dbpedia.org/resource/Yellow-spotted_Bush-sparrow http://dbpedia.org/resource/Petronia_pyrgita http://dbpedia.org/resource/Yellow-spotted_petronia"
+"0","68","Yellow-margined flatbill","http://dbpedia.org/resource/Zimmer's_flatbill","http://dbpedia.org/resource/Yellow-margined_Flatbill http://dbpedia.org/resource/Yellow-margined_flycatcher http://dbpedia.org/resource/Yellow-margined_flatbill http://dbpedia.org/resource/Tolmomyias_flavotectus http://dbpedia.org/resource/Yellow-margined_Flycatcher http://dbpedia.org/resource/Tolmomyias_assimilis http://dbpedia.org/resource/Zimmer's_Flatbill"

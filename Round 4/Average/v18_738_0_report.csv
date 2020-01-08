@@ -1,0 +1,12 @@
+F1: 0.61538,Precision: 0.61538,Recall: 0.61538,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Wall Street Historic District,"http://dbpedia.org/resource/Main_Street_Historic_District_(New_Hamburg,_New_York)","http://dbpedia.org/resource/Wall_Street_Historic_District_(New_York,_New_York) http://dbpedia.org/resource/Wall_Street_Historic_District_(Manhattan) http://dbpedia.org/resource/Wall_Street_Historic_District_(New_York)"
+0,2,Wall Brook Farm,http://dbpedia.org/resource/South_Brook_Farm,http://dbpedia.org/resource/Wall_Brook_Farm
+0,6,Walker House,"http://dbpedia.org/resource/Walker_House_(Garrison,_New_York)","http://dbpedia.org/resource/Walker_House_(Warren,_Virginia)"
+0,7,Walker House,"http://dbpedia.org/resource/Walker_House_(Garrison,_New_York)","http://dbpedia.org/resource/Walker_House_(Lancaster,_Kentucky)"
+0,9,Walker House,"http://dbpedia.org/resource/Walker_House_(Garrison,_New_York)","http://dbpedia.org/resource/Walker_House_(Fayetteville,_Arkansas)"
+0,10,Walker Homestead Historic District,http://dbpedia.org/resource/Buckner_Homestead_Historic_District,http://dbpedia.org/resource/Walker_Homestead_Historic_District
+0,11,Walker-Klinner Farm,http://dbpedia.org/resource/Walker–Klinner_Farm,http://dbpedia.org/resource/Walker-Klinner_Farm
+0,17,Wales,http://dbpedia.org/resource/National_Library_of_Wales,"http://dbpedia.org/resource/Wales_(Petersburg,_Virginia) http://dbpedia.org/resource/Wales_(Dinwiddie_County,_Virginia)"
+0,19,Waldron-Beck House and Carriage House,http://dbpedia.org/resource/Waldron–Beck_House_and_Carriage_House,http://dbpedia.org/resource/Waldron-Beck_House_and_Carriage_House
+0,26,Wakefields,"http://dbpedia.org/resource/Wakefield,_Rhode_Island",http://dbpedia.org/resource/Wakefields

@@ -1,0 +1,8 @@
+"F1: 0.40000","Precision: 0.40000","Recall: 0.40000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","1","A. Head","http://dbpedia.org/resource/Edith_Head","http://dbpedia.org/resource/Anthony_Stewart_Head http://dbpedia.org/resource/Tony_Head http://dbpedia.org/resource/Anthony_stewart_head http://dbpedia.org/resource/Head,_Anthony http://dbpedia.org/resource/Anthony_Head http://dbpedia.org/resource/Antony_head"
+"1","2","M. Hudson","http://dbpedia.org/resource/Jennifer_Hudson","http://dbpedia.org/resource/Melanie_Hudson"
+"1","3","K. Williams","http://dbpedia.org/resource/Tod_Williams_(filmmaker)","http://dbpedia.org/resource/Kenneth_Williams http://dbpedia.org/resource/Kenneth_williams http://dbpedia.org/resource/Rambling_Syd http://dbpedia.org/resource/Syd_Rumpo http://dbpedia.org/resource/The_Kenneth_Williams_Diaries"
+"1","6","C. Burton","http://dbpedia.org/resource/Charlotte_Burton","http://dbpedia.org/resource/Corey_Gregg_Weinberg http://dbpedia.org/resource/Corey_Burton http://dbpedia.org/resource/Corey_Gregg_Burton"
+"1","7","J. Sanderson","http://dbpedia.org/resource/William_Sanderson","http://dbpedia.org/resource/Joan_Sanderson"
+"1","9","A. Davies","http://dbpedia.org/resource/Marion_Davies","http://dbpedia.org/resource/Alan_Davies http://dbpedia.org/resource/Alan_Roger_Davies"

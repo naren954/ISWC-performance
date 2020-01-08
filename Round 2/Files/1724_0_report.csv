@@ -1,0 +1,6 @@
+"F1: 0.60000","Precision: 0.60000","Recall: 0.60000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","4","Aunrihar Junction railway station","http://dbpedia.org/resource/Howth_Junction_&_Donaghmede_railway_station","http://dbpedia.org/resource/Aunrihar_Junction_railway_station http://dbpedia.org/resource/Aunrihar_Junction"
+"0","5","Arena","http://dbpedia.org/resource/Wembley_Arena","http://dbpedia.org/resource/Arena_(UTA_station) http://dbpedia.org/resource/Delta_Center_(UTA_station)"
+"0","8","87th Street","http://dbpedia.org/resource/87th_station","http://dbpedia.org/resource/87th_Street_(Metra_Electric) http://dbpedia.org/resource/87th_Street_(Metra_station) http://dbpedia.org/resource/87th_Street_(Metra)"
+"0","9","83rd Street","http://dbpedia.org/resource/83rd_Street_station","http://dbpedia.org/resource/83rd_Street_(Metra_Electric) http://dbpedia.org/resource/83rd_Street_(Metra) http://dbpedia.org/resource/83rd_Street_(Metra_station)"

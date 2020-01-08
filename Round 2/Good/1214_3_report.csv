@@ -1,0 +1,10 @@
+F1: 0.84615,Precision: 0.84615,Recall: 0.84615,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,11,A. Khadjibekov,http://dbpedia.org/resource/Artyom_Khadjibekov,http://dbpedia.org/resource/Artyom_Khadzhibekov http://dbpedia.org/resource/Artem_Khadjibekov
+3,26,A. Khadjibekov,http://dbpedia.org/resource/Artyom_Khadjibekov,http://dbpedia.org/resource/Artyom_Khadzhibekov http://dbpedia.org/resource/Artem_Khadjibekov
+3,29,D. Iorgova,,http://dbpedia.org/resource/Diana_Jorgova http://dbpedia.org/resource/Diana_Iorgova
+3,38,X. Jun,http://dbpedia.org/resource/Xiao_Jun_(sport_shooter),http://dbpedia.org/resource/Xiao_Jun http://dbpedia.org/resource/Xiao_Jun_(sports)
+3,39,W. Waibel,http://dbpedia.org/resource/Craig_Waibel,"http://dbpedia.org/resource/Wolfram_Waibel_Jr. http://dbpedia.org/resource/Wolfram_Waibel,_Junior http://dbpedia.org/resource/Wolfram_Waibel,_Jr. http://dbpedia.org/resource/Wolfram_Waibel_Junior http://dbpedia.org/resource/Wolfram_Waibel"
+3,42,D. Iorgova,,http://dbpedia.org/resource/Diana_Jorgova http://dbpedia.org/resource/Diana_Iorgova
+3,51,X. Jun,http://dbpedia.org/resource/Xiao_Jun_(sport_shooter),http://dbpedia.org/resource/Xiao_Jun http://dbpedia.org/resource/Xiao_Jun_(sports)
+3,52,W. Waibel,http://dbpedia.org/resource/Craig_Waibel,"http://dbpedia.org/resource/Wolfram_Waibel_Jr. http://dbpedia.org/resource/Wolfram_Waibel,_Junior http://dbpedia.org/resource/Wolfram_Waibel,_Jr. http://dbpedia.org/resource/Wolfram_Waibel_Junior http://dbpedia.org/resource/Wolfram_Waibel"

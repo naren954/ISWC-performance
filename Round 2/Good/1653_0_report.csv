@@ -1,0 +1,15 @@
+F1: 0.89764,Precision: 0.89764,Recall: 0.89764,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,S. Marshall,http://dbpedia.org/resource/Scott_Marshall_(footballer),http://dbpedia.org/resource/Shane_Marshall_(footballer)
+0,5,S. Diniyev,http://de.dbpedia.org/resource/S._Sanjeeth,http://dbpedia.org/resource/Sahin_Diniev http://dbpedia.org/resource/Sahin_Diniyev http://dbpedia.org/resource/Shahin_Diniyev http://dbpedia.org/resource/Şahin_Diniyev http://dbpedia.org/resource/Shakhin_Diniyev
+0,14,S. Turyanskyi,,http://dbpedia.org/resource/Serhiy_Turianskyi http://dbpedia.org/resource/Serhiy_Turyanskiy http://dbpedia.org/resource/Serhiy_Turyanskyi http://dbpedia.org/resource/Serhiy_Turiansky
+0,47,S. F. Álvarez,"http://dbpedia.org/resource/Sergio_Fernández_(footballer,_born_1975)",http://dbpedia.org/resource/Sergio_Fernandez_Álvarez http://dbpedia.org/resource/Sergio_Fernández_Álvarez http://dbpedia.org/resource/Sergio_Fernandez_Alvarez
+0,48,S. Egea,http://es.dbpedia.org/resource/Javier_Egea,http://dbpedia.org/resource/Sergio_Egea_Rueda http://dbpedia.org/resource/Sergio_Egea
+0,61,S. Dubrovin,http://dbpedia.org/resource/Stanislav_Dubrovin,http://dbpedia.org/resource/Serghei_Dubrovin http://dbpedia.org/resource/Sergei_Dubrovin_(manager)
+0,72,S. Kuznetsov,"http://dbpedia.org/resource/Sergey_Kuznetsov_(footballer,_born_1966)","http://dbpedia.org/resource/Sergey_Kuznetsov_(footballer,_born_1960) http://dbpedia.org/resource/Sergei_Ivanovich_Kuznetsov http://dbpedia.org/resource/Sergei_Kuznetsov_(footballer_born_1960)"
+0,75,S. Feldman,http://dbpedia.org/resource/Scott_Feldman,http://dbpedia.org/resource/Sergei_Feldman http://dbpedia.org/resource/Sergey_Feldman
+0,76,S. Dmitriyev,http://dbpedia.org/resource/Mikhail_Dmitriyev,http://dbpedia.org/resource/Sergei_Dmitriyev http://dbpedia.org/resource/Sergey_Dmitriyev http://dbpedia.org/resource/Sergei_Dmitriev http://dbpedia.org/resource/Sergey_Dmitriev
+0,84,S. Solovyov,http://dbpedia.org/resource/Sergey_Solovyov_(footballer),http://dbpedia.org/resource/Sergei_Solovyov_(footballer)
+0,87,S. S. Yegorov,http://dbpedia.org/resource/Sergei_Gennadyevich_Yegorov,http://dbpedia.org/resource/Sergei_Sergeyevich_Yegorov
+0,95,S. Petrov,"http://dbpedia.org/resource/Svetoslav_Petrov_(footballer,_born_1978)","http://dbpedia.org/resource/Sergei_Petrov_(footballer,_born_1974)"
+0,119,S. A. Prikhodko,http://dbpedia.org/resource/Sergei_Sergeyevich_Prikhodko,http://dbpedia.org/resource/Sergei_Aleksandrovich_Prikhodko

@@ -1,0 +1,39 @@
+F1: 0.78736,Precision: 0.78736,Recall: 0.78736,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,9,What Does It Take,http://dbpedia.org/resource/What_Does_It_Take_(To_Win_Your_Love),http://dbpedia.org/resource/What_Does_It_Take_(To_Keep_a_Man_Like_You_Satisfied)
+0,15,We Can Work It Out,http://dbpedia.org/resource/We_Can_Work_It_Out_(Sweetbox_song),http://dbpedia.org/resource/We_Can't_Work_It_Out http://dbpedia.org/resource/We_Can_Work_It_Out_(The_Beatles_song) http://dbpedia.org/resource/We_can_work_it_out http://dbpedia.org/resource/We_Can_Work_It_Out
+0,22,Us and Them,http://dbpedia.org/resource/Us_and_Them_(Shinedown_album),http://dbpedia.org/resource/Us_And_Them http://dbpedia.org/resource/Us_and_Them_(song) http://dbpedia.org/resource/The_Violent_Sequence
+0,25,Unchained Melody,http://it.dbpedia.org/resource/La_voce_del_silenzio/Unchained_Melody,http://dbpedia.org/resource/Unchained_Melody
+0,28,Twist and Shout,http://dbpedia.org/resource/Twist_and_Shout_(Deacon_Blue_song),"http://dbpedia.org/resource/Twist_and_Shout_(The_Beatles_song) http://dbpedia.org/resource/Twist_and_Shout http://dbpedia.org/resource/Shake_It_Up,_Baby http://dbpedia.org/resource/Twist_&_Shout http://dbpedia.org/resource/Twist_And_Shout http://dbpedia.org/resource/Twist_and_shout"
+0,33,Treat Me Nice,http://dbpedia.org/resource/Jailhouse_Rock_(song),http://dbpedia.org/resource/Treat_Me_Nice
+0,34,Touch Me,http://dbpedia.org/resource/Touch_Me_(The_Doors_song),http://dbpedia.org/resource/Touch_Me_(Willie_Nelson_song)
+0,36,Tonight,http://dbpedia.org/resource/Tonight_(Jonas_Brothers_song),http://dbpedia.org/resource/Tonight_(Iggy_Pop_song) http://dbpedia.org/resource/Tonight_(David_Bowie_song)
+0,37,Tomorrow Tomorrow,http://dbpedia.org/resource/For_Tomorrow,http://dbpedia.org/resource/Tomorrow_Tomorrow_(Bee_Gees) http://dbpedia.org/resource/Tomorrow_Tomorrow_(The_Bee_Gees_song) http://dbpedia.org/resource/Tomorrow_Tomorrow_(Bee_Gees_song)
+0,42,Ticket to Ride,http://dbpedia.org/resource/Ticket_to_Ride_(album),http://dbpedia.org/resource/Ticket_to_Rye http://dbpedia.org/resource/Ticket_to_Ride_(song) http://dbpedia.org/resource/Ticket_To_Ride http://dbpedia.org/resource/Ticket_to_Ride http://dbpedia.org/resource/Ticket_to_Ryde http://dbpedia.org/resource/Ticket_to_ride http://dbpedia.org/resource/Ticket_to_Ride_(The_Beatles_song)
+0,48,They're Red Hot,http://dbpedia.org/resource/The_Uplift_Mofo_Party_Plan,http://dbpedia.org/resource/Theyre_red_hot http://dbpedia.org/resource/They're_Red_Hot
+0,51,There It Is,http://dbpedia.org/resource/There_It_Is_(Ginuwine_song),http://dbpedia.org/resource/There_It_Is_(James_Brown_song)
+0,53,There Goes My Baby,http://dbpedia.org/resource/There_Goes_My_Baby_(Usher_song),http://dbpedia.org/resource/There_Goes_My_Baby_(The_Drifters_song) http://dbpedia.org/resource/There_Goes_My_Baby_(Drifters_song)
+0,60,The War,http://dbpedia.org/resource/At_War,http://dbpedia.org/resource/The_War_(The_New_Power_Generation_song)
+0,78,The Last Time,http://dbpedia.org/resource/The_Last_Time_(Taylor_Swift_song),http://dbpedia.org/resource/The_Last_Time_(song) http://dbpedia.org/resource/The_Last_Time_(The_Rolling_Stones_song)
+0,79,The Kids Are Alright,http://dbpedia.org/resource/The_Kids_Aren't_Alright,http://dbpedia.org/resource/Kids_are_alright_(song) http://dbpedia.org/resource/The_Kids_Are_Alright_(song)
+0,80,The Inner Light,http://dbpedia.org/resource/The_Inner_Light_(Star_Trek:_The_Next_Generation),http://dbpedia.org/resource/The_Inner_Light_(song)
+0,84,The Bottle,http://dbpedia.org/resource/Dust_on_the_Bottle,http://dbpedia.org/resource/The_Bottle
+0,91,Thank You Girl,http://dbpedia.org/resource/Thank_You_(Dido_song),http://dbpedia.org/resource/Thank_You_Girl http://dbpedia.org/resource/Thank-you_girl http://dbpedia.org/resource/Thank_You_Girl_(The_Beatles_song) http://dbpedia.org/resource/Thankyou_girl
+0,94,Tattoo,http://dbpedia.org/resource/Tattoo_(Van_Halen_song),http://dbpedia.org/resource/Tattoo_(The_Who_song)
+0,102,Sweetheart,http://dbpedia.org/resource/Sweetheart_Like_You,http://dbpedia.org/resource/Sweetheart_(Bee_Gees_song)
+0,108,Surf's Up,http://dbpedia.org/resource/Surf's_Up_(album),http://dbpedia.org/resource/Surf's_Up_(Beach_Boys_song) http://dbpedia.org/resource/Surf's_Up!_(single) http://dbpedia.org/resource/Surf's_Up_(song) http://dbpedia.org/resource/Surf's_Up_(The_Beach_Boys_song)
+0,110,Sunshine Girl,http://dbpedia.org/resource/Sunshine_Girl_(Moumoon_song),http://dbpedia.org/resource/Sunshine_Girl_(Herman's_Hermits_song)
+0,125,Speed,http://dbpedia.org/resource/Speed_Pop,http://dbpedia.org/resource/Speed_(Buck_Tick_song) http://dbpedia.org/resource/Speed_(Buck-Tick_song)
+0,127,Southern Man,http://dbpedia.org/resource/Southern_Man_(song),http://dbpedia.org/resource/Southern_Man
+0,130,Sonic Assassins,http://dbpedia.org/resource/Sonic_Codex,http://dbpedia.org/resource/Sonic_Assassins
+0,132,Something,http://dbpedia.org/resource/Something_(Shirley_Scott_album),http://dbpedia.org/resource/Something_(Beatles_song) http://dbpedia.org/resource/Something_(The_Beatles_song)
+0,142,Shout,http://dbpedia.org/resource/Shout_(Tears_for_Fears_song),http://dbpedia.org/resource/Shout!_(Isley_Brothers_song) http://dbpedia.org/resource/Make_Me_Want_to_Shout http://dbpedia.org/resource/Shout_(Isley_Brothers_song) http://dbpedia.org/resource/Shout_(Parts_1_and_2) http://dbpedia.org/resource/Shout!_(The_Isley_Brothers_song) http://dbpedia.org/resource/Shout_(Joey_Dee_song) http://dbpedia.org/resource/Shout_(The_Isley_Brothers_song)
+0,146,She Loves You,http://dbpedia.org/resource/She_Loves_You_(The_Twilight_Singers_album),http://dbpedia.org/resource/She_Loves_You http://dbpedia.org/resource/She_Loves_You_(The_Beatles_song) http://dbpedia.org/resource/She_loves_you
+0,149,She's a Woman,http://dbpedia.org/resource/She's_a_Woman_(And_Now_He_Is_a_Man),http://dbpedia.org/resource/She's_a_Woman http://dbpedia.org/resource/She's_A_Woman http://dbpedia.org/resource/She's_a_Woman_(The_Beatles_song)
+0,150,She's Not You,http://dbpedia.org/resource/She's_Got_You,http://dbpedia.org/resource/She_Is_Not_You http://dbpedia.org/resource/She's_Not_You
+0,152,She's Leaving Home,http://dbpedia.org/resource/Leaving_Home_(Jebediah_song),http://dbpedia.org/resource/She's_Leaving_Home http://dbpedia.org/resource/She's_Leaving_Home_(The_Beatles_song)
+0,155,Shake,http://dbpedia.org/resource/Shake_(Jesse_McCartney_song),http://dbpedia.org/resource/Shake_(Sam_Cooke_song)
+0,161,Searchin',http://dbpedia.org/resource/Searchin'_(I_Gotta_Find_a_Man),http://dbpedia.org/resource/Searchin'_(Santana_song) http://dbpedia.org/resource/Searchin'_(The_Beatles_song) http://dbpedia.org/resource/Searchin'_(song) http://dbpedia.org/resource/Searchin' http://dbpedia.org/resource/Searchin
+0,164,School Days,http://dbpedia.org/resource/School_Days_(Chuck_Berry_song),http://dbpedia.org/resource/School_Days_(song) http://dbpedia.org/resource/School_Day http://dbpedia.org/resource/School_Day_(Ring!_Ring!_Goes_The_Bell) http://dbpedia.org/resource/School_Day_(Ring_Ring_Goes_the_Bell)
+0,169,S.O.S.,http://dbpedia.org/resource/S.O.S._(Let_the_Music_Play),http://dbpedia.org/resource/SOS_(Too_Bad) http://dbpedia.org/resource/S.O.S._(Too_Bad) http://dbpedia.org/resource/S._O._S._(Too_Bad) http://dbpedia.org/resource/S_O_S_(Too_Bad)
+0,173,Run to Me,http://dbpedia.org/resource/Run_to_Me_(Angela_Winbush_song),http://dbpedia.org/resource/Run_to_Me_(The_Bee_Gees_song) http://dbpedia.org/resource/Run_to_Me_(Bee_Gees_song)

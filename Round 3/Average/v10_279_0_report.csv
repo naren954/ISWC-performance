@@ -1,0 +1,48 @@
+F1: 0.73099,Precision: 0.73099,Recall: 0.73099,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,L. Hall,http://dbpedia.org/resource/Lamont_Hall,http://dbpedia.org/resource/Leon_Hall
+0,5,L. Wilson,http://dbpedia.org/resource/Larry_Wilson_(ice_hockey),http://dbpedia.org/resource/Lawrence_Wilson
+0,10,L. Murray,http://dbpedia.org/resource/Leon_Murray,http://dbpedia.org/resource/Latavius_Murray
+0,16,L. Johnson,http://dbpedia.org/resource/Larry_Johnson_(running_back),http://dbpedia.org/resource/Lane_Johnson
+0,17,L. Jones,http://dbpedia.org/resource/Lee_Jones_(rugby_union),http://dbpedia.org/resource/Landry_Jones
+0,18,L. Collins,http://dbpedia.org/resource/La'el_Collins,http://dbpedia.org/resource/Landon_Collins
+0,21,L. Miller,http://dbpedia.org/resource/Larry_Miller_(baseball),http://dbpedia.org/resource/Lamar_Miller
+0,22,L. Tomlinson,http://dbpedia.org/resource/LaDainian_Tomlinson,http://dbpedia.org/resource/Laken_Tomlinson
+0,23,L. Edwards,http://dbpedia.org/resource/Lavar_Edwards,http://dbpedia.org/resource/Lac_Edwards http://dbpedia.org/resource/Lachlan_Edwards
+0,30,K. Murphy,http://dbpedia.org/resource/Kevin_Murphy_(lineman),http://dbpedia.org/resource/Kyle_Murphy_(American_football)
+0,33,K. Fuller,http://dbpedia.org/resource/Kendall_Fuller,http://dbpedia.org/resource/Kyle_Fuller
+0,34,K. Alexander,http://dbpedia.org/resource/Kevin_Alexander_(wide_receiver),http://dbpedia.org/resource/Kwon_Alexander
+0,40,K. Davis,http://dbpedia.org/resource/Keith_Davis_(safety),http://dbpedia.org/resource/Knile_Davis
+0,48,K. Thomas,"http://dbpedia.org/resource/Kevin_Thomas_(cornerback,_born_1978)","http://dbpedia.org/resource/Kevin_Thomas_(cornerback_b._1986) http://dbpedia.org/resource/Kevin_Thomas_(cornerback,_born_1986)"
+0,49,K. Smith,http://dbpedia.org/resource/Kelvin_Smith,http://dbpedia.org/resource/Kevin_Smith_(American_football_running_back) http://dbpedia.org/resource/Kevin_Smith_(running_back)
+0,54,K. Johnson,http://dbpedia.org/resource/Keyshawn_Johnson,http://dbpedia.org/resource/Kevin_Johnson_(cornerback)
+0,57,K. Martin,http://dbpedia.org/resource/Kareem_Martin,http://dbpedia.org/resource/Keshawn_Martin
+0,58,K. Williams,http://dbpedia.org/resource/Kyle_Williams_(defensive_tackle),http://dbpedia.org/resource/Kerwynn_Williams
+0,64,K. Clark,http://dbpedia.org/resource/Kelvin_Clark,http://dbpedia.org/resource/Kenny_Clark_(defensive_tackle) http://dbpedia.org/resource/Kenneth_Clark_(American_football)
+0,65,K. Bell,http://dbpedia.org/resource/Kendrell_Bell,http://dbpedia.org/resource/Kenny_Bell
+0,75,K. Taylor,http://dbpedia.org/resource/Keith_Taylor_(American_football),http://dbpedia.org/resource/Kelvin_Taylor
+0,91,K. Williams,http://dbpedia.org/resource/Kyle_Williams_(defensive_tackle),http://dbpedia.org/resource/Karlos_Williams
+0,102,J. Burris,http://dbpedia.org/resource/Jeff_Burris,http://dbpedia.org/resource/Juston_Burris
+0,104,J. Pugh,http://dbpedia.org/resource/Jethro_Pugh,http://dbpedia.org/resource/Justin_Pugh
+0,113,J. Anderson,http://dbpedia.org/resource/Joseph_Anderson_(American_football),http://dbpedia.org/resource/Justin_Anderson_(offensive_lineman)
+0,114,J. Thomas,http://dbpedia.org/resource/Joey_Thomas,http://dbpedia.org/resource/Julius_Thomas
+0,115,J. Garrett,http://dbpedia.org/resource/Jason_Garrett,http://dbpedia.org/resource/Judd_Garrett
+0,116,J. Perry,http://dbpedia.org/resource/Jared_Perry,http://dbpedia.org/resource/Joshua_Perry
+0,118,J. Thomas,http://dbpedia.org/resource/Joey_Thomas,http://dbpedia.org/resource/Josh_Thomas_(cornerback) http://dbpedia.org/resource/Josh_Thomas_(Cornerback)
+0,120,J. Shaw,http://dbpedia.org/resource/James_Shaw_(wide_receiver),http://dbpedia.org/resource/Josh_Shaw_(cornerback) http://dbpedia.org/resource/Josh_Shaw_(defensive_back)
+0,122,J. Robinson,http://dbpedia.org/resource/Jermaine_Robinson,http://dbpedia.org/resource/Josh_Robinson_(running_back)
+0,123,J. Robinson,http://dbpedia.org/resource/Jermaine_Robinson,http://dbpedia.org/resource/Josh_Robinson
+0,124,J. Norman,http://dbpedia.org/resource/Josh_Norman,http://dbpedia.org/resource/Joshua_Norman http://dbpedia.org/resource/Josh_Norman_(disambiguation) http://dbpedia.org/resource/Josh_Norman_(cornerback)
+0,128,J. Boyd,http://dbpedia.org/resource/Jerome_Boyd,http://dbpedia.org/resource/Josh_Boyd
+0,142,J. Howard,http://dbpedia.org/resource/Josh_Howard,http://dbpedia.org/resource/Jordan_Howard
+0,143,J. Hicks,http://dbpedia.org/resource/John_Hicks_(American_football),http://dbpedia.org/resource/Jordan_Hicks
+0,144,J. Green,http://dbpedia.org/resource/Jared_Green,http://dbpedia.org/resource/Jonte_Green
+0,145,J. Williams,http://dbpedia.org/resource/Jamal_Williams,"http://dbpedia.org/resource/Jonathan_Williams_(running_back,_born_1994)"
+0,146,J. Stewart,http://dbpedia.org/resource/Josh_Stewart_(American_football),http://dbpedia.org/resource/Jonathan_Stewart
+0,147,J. Smith,http://dbpedia.org/resource/Jared_Smith_(American_football),http://dbpedia.org/resource/Jonathan_Smith_(football_player) http://dbpedia.org/resource/Jonathan_Smith_(wide_receiver)
+0,150,J. Cooper,http://dbpedia.org/resource/Josh_Cooper_(defensive_end),http://dbpedia.org/resource/Jonathan_Cooper
+0,157,J. Holland,http://dbpedia.org/resource/Jonathan_Holland_(American_football),http://dbpedia.org/resource/Johnny_Holland
+0,162,J. Jenkins,http://dbpedia.org/resource/Jordan_Jenkins,http://dbpedia.org/resource/John_Jenkins_(defensive_tackle)
+0,165,J. Brown,http://dbpedia.org/resource/Jerry_Brown_(gridiron_football),http://dbpedia.org/resource/John_Brown_(wide_receiver)
+0,170,J. Webb,http://dbpedia.org/resource/Jeff_Webb,http://dbpedia.org/resource/Joe_Webb_(American_football) http://dbpedia.org/resource/Joe_Webb
+0,171,J. Walker,"http://dbpedia.org/resource/Jackie_Walker_(American_football,_born_1950)",http://dbpedia.org/resource/Joe_Walker_(American_football) http://dbpedia.org/resource/Joe_Walker_(Linebacker)

@@ -1,0 +1,17 @@
+F1: 0.76923,Precision: 0.76923,Recall: 0.76923,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,3,What Comes Around,http://dbpedia.org/resource/What_Goes_Around..._Comes_Around,http://dbpedia.org/resource/What_Comes_Around_(Ill_Niño_song)
+3,5,Inside,http://dbpedia.org/resource/Inside_(Ronnie_Milsap_album),http://dbpedia.org/resource/Chapter_VII:_Hope_&_Sorrow http://dbpedia.org/resource/The_7th_Chapter http://dbpedia.org/resource/Inside_(Sevendust_song) http://dbpedia.org/resource/Chapter_VII:_Hope_and_Sorrow http://dbpedia.org/resource/Hope_and_Sorrow
+3,10,I Want You,http://dbpedia.org/resource/I_Want_You_(Bob_Dylan_song),http://dbpedia.org/resource/I_Want_You_(Common_song)
+3,11,Dance With Me,http://dbpedia.org/resource/I_Wanna_Dance_with_Somebody_(Who_Loves_Me),http://dbpedia.org/resource/Dance_With_Me_(Alphaville_song) http://dbpedia.org/resource/Dance_with_Me_(Alphaville_song)
+3,25,King's X,http://dbpedia.org/resource/King's_X_(album),http://dbpedia.org/resource/Jetydosa_Records http://dbpedia.org/resource/Kings_X http://dbpedia.org/resource/King's_X http://dbpedia.org/resource/Jetydosa
+3,26,Lonely,http://dbpedia.org/resource/Lonely_(Akon_song),http://dbpedia.org/resource/Lonely_(Tracy_Lawrence_song)
+3,28,Daydreaming,http://dbpedia.org/resource/Daydreaming_(Paramore_song),http://dbpedia.org/resource/Daydreaming_(Massive_Attack_song)
+3,38,Absolute Beginners,http://dbpedia.org/resource/Absolute_Beginners_(The_Jam_song),http://dbpedia.org/resource/Absolute_Beginners_(song) http://dbpedia.org/resource/Absolute_Beginners_(David_Bowie_song)
+3,40,Wasted,http://dbpedia.org/resource/Wasted_(Carrie_Underwood_song),http://dbpedia.org/resource/Wasted_(Jennifer_Paige_song) http://dbpedia.org/resource/Wasted_(Jennifer_Paige_Song)
+3,44,No Reason,http://dbpedia.org/resource/No_Reason_(Sum_41_song),http://dbpedia.org/resource/No_Reason
+3,51,Give It Away,http://dbpedia.org/resource/Give_It_Away_(George_Strait_song),http://dbpedia.org/resource/Give_It_Away_(Red_Hot_Chili_Peppers) http://dbpedia.org/resource/Give_It_Away_(RHCP_song) http://dbpedia.org/resource/Give_it_away_(Red_Hot_Chili_Peppers_song) http://dbpedia.org/resource/Give_it_Away_(Red_Hot_Chili_Peppers_song) http://dbpedia.org/resource/Give_It_Away_(Red_Hot_Chili_Peppers_song)
+3,53,Let Me Down Easy,http://dbpedia.org/resource/Let_Me_Down_Easy_(Billy_Currington_song),http://dbpedia.org/resource/Let_Me_Down_Easy_(Roger_Daltrey_song)
+3,56,Sexual Healing,,http://dbpedia.org/resource/Sexual_Healing http://dbpedia.org/resource/Sexual_healing
+3,60,The Same Love,http://dbpedia.org/resource/The_Same_Love_(song),http://dbpedia.org/resource/The_Same_Love
+3,64,Changes,http://dbpedia.org/resource/Changes_(Faul_&_Wad_Ad_song),http://dbpedia.org/resource/Changes_(Tupac_Shakur_song) http://dbpedia.org/resource/Changes_(Tupac_poetry) http://dbpedia.org/resource/Changes_(2Pac_song) http://dbpedia.org/resource/Changes_(Tupac_song)

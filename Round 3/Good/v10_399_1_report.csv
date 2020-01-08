@@ -1,0 +1,6 @@
+F1: 0.87879,Precision: 0.87879,Recall: 0.87879,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,6,Sound-System,http://dbpedia.org/resource/Sound_System_(album),http://dbpedia.org/resource/Sound-System_(album)
+1,12,Outside the Box,http://dbpedia.org/resource/Outside_the_Box_(Skream_album),http://dbpedia.org/resource/Outside_the_Box_(Vicki_Genfan_album)
+1,13,Live in Chicago,http://dbpedia.org/resource/Live_in_Chicago_12.19.98_at_the_United_Center,http://dbpedia.org/resource/Live_in_Chicago_(Panic_at_the_Disco_album) http://dbpedia.org/resource/..Live_in_Chicago http://dbpedia.org/resource/...Live_in_Chicago http://dbpedia.org/resource/Live_in_Chicago_(Panic!_at_the_Disco_album)
+1,21,Shades,http://dbpedia.org/resource/Shades_(J._J._Cale_album),http://dbpedia.org/resource/Shades_(Andrew_Hill_album)

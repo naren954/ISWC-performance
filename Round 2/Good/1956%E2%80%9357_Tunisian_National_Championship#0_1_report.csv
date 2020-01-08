@@ -1,0 +1,4 @@
+F1: 0.77778,Precision: 0.77778,Recall: 0.77778,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,2,EspÃ©rance de Tunis,http://dbpedia.org/resource/Espérance_Sportive_de_Tunis,http://dbpedia.org/resource/Espérance_de_Tunis
+1,3,Ã\u0089toile du Sahel,http://dbpedia.org/resource/Ə,http://dbpedia.org/resource/Étoile_du_Sahel

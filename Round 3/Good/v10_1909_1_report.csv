@@ -1,0 +1,10 @@
+F1: 0.88732,Precision: 0.88732,Recall: 0.88732,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,14,Binary,http://dbpedia.org/resource/Binary_operation,http://dbpedia.org/resource/Binary_(novel)
+1,17,My World,http://dbpedia.org/resource/My_World_(Emilia_Rydberg_album),http://dbpedia.org/resource/My_World_(book)
+1,24,Fallout,http://dbpedia.org/resource/Tom_Clancy's_Splinter_Cell:_Fallout,http://dbpedia.org/resource/Fallout_(novel)
+1,25,Back to Work: Why We Need Smart Government for a Strong Economy,http://dbpedia.org/resource/Back_to_Work_(book),http://dbpedia.org/resource/Back_to_Work:_Why_We_Need_Smart_Government_for_a_Strong_Economy
+1,33,Messenger,http://dbpedia.org/resource/Messenger_(Joe_Pug_album),http://dbpedia.org/resource/Messenger_(novel)
+1,42,Dangerous Games,http://dbpedia.org/resource/The_Dangerous_Games,http://dbpedia.org/resource/Dangerous_Games_(anthology)
+1,60,Of a Boy,http://dbpedia.org/resource/About_a_Boy_(novel),http://dbpedia.org/resource/Of_a_boy http://dbpedia.org/resource/Of_a_Boy
+1,63,The Sicilian,http://dbpedia.org/resource/Mafia,http://dbpedia.org/resource/The_Sicilian

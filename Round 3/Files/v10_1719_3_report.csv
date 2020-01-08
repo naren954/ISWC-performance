@@ -1,0 +1,6 @@
+"F1: 0.80000","Precision: 0.80000","Recall: 0.80000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"3","2","Stanley Wilson","http://dbpedia.org/resource/Gerald_Wilson","http://dbpedia.org/resource/Stanley_Wilson_(musician) http://dbpedia.org/resource/Stanley_Wilson_(composer)"
+"3","5","Lucero","http://dbpedia.org/resource/Lucero_(band)","http://dbpedia.org/resource/Lucero_(entertainer) http://dbpedia.org/resource/Lucero_(actress)"
+"3","7","Andrew Franks","http://dbpedia.org/resource/Andrew_Davis_(conductor)","http://dbpedia.org/resource/Andrew_Franks"
+"3","12","Jin Hashimoto","http://dbpedia.org/resource/Ryosuke_Hashimoto","http://dbpedia.org/resource/Jin_Hashimoto"

@@ -1,0 +1,6 @@
+"F1: 0.42857","Precision: 0.42857","Recall: 0.42857"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","1","R. R. Taylor","http://dbpedia.org/resource/Richard_R._Taylor","http://dbpedia.org/resource/Robert_Robinson_Taylor"
+"0","2","L. Vulliamy","http://dbpedia.org/resource/Benjamin_Vulliamy","http://dbpedia.org/resource/Lewis_Vulliamy"
+"0","4","J. Abele","http://dbpedia.org/resource/John_Abele","http://dbpedia.org/resource/Julian_F._Abele http://dbpedia.org/resource/Julian_Abele"
+"0","7","D. Burton","http://dbpedia.org/resource/Kate_Burton_(actress)","http://dbpedia.org/resource/Decimus_Burton"

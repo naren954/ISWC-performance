@@ -1,0 +1,7 @@
+F1: 0.83333,Precision: 0.83333,Recall: 0.83333,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,8,Cambisol,http://dbpedia.org/resource/Chernozem,http://dbpedia.org/resource/Cambisols http://dbpedia.org/resource/Cambisol
+1,10,Cryosol,http://de.dbpedia.org/resource/Cryosol,http://dbpedia.org/resource/Orthel http://dbpedia.org/resource/Histel http://dbpedia.org/resource/Turbel http://dbpedia.org/resource/Turbels http://dbpedia.org/resource/Cryosols http://dbpedia.org/resource/Cryosol http://dbpedia.org/resource/Orthels http://dbpedia.org/resource/Gelisols http://dbpedia.org/resource/Gelisol http://dbpedia.org/resource/Histels
+1,11,Durisol,http://dbpedia.org/resource/Durisol,http://dbpedia.org/resource/Durisols
+1,17,Kastanozems,http://dbpedia.org/resource/Kastanozem,http://dbpedia.org/resource/Kastanozems
+1,26,Regosol,http://de.dbpedia.org/resource/Regosol,http://dbpedia.org/resource/Regosol_soil http://dbpedia.org/resource/Regosol http://dbpedia.org/resource/Regosols

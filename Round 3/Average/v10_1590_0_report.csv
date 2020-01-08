@@ -1,0 +1,51 @@
+F1: 0.73077,Precision: 0.73077,Recall: 0.73077,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,4,To Love Somebody,http://dbpedia.org/resource/Love_Somebody_(Maroon_5_song),http://dbpedia.org/resource/To_Love_Somebody_(song) http://dbpedia.org/resource/To_Love_Somebody_(Bee_Gees_song)
+0,6,To Live and Die in L.A.,http://dbpedia.org/resource/To_Live_&_Die_in_L.A._(song),http://dbpedia.org/resource/To_Live_and_Die_in_LA_(Wang_Chung_song) http://dbpedia.org/resource/To_Live_and_Die_in_L_A_(Wang_Chung_song) http://dbpedia.org/resource/To_Live_and_Die_in_L.A._(Wang_Chung_song) http://dbpedia.org/resource/To_Live_and_Die_in_L._A._(Wang_Chung_song)
+0,9,To Get Down,http://dbpedia.org/resource/Get_Down_(Nas_song),http://dbpedia.org/resource/To_Get_Down
+0,10,To France,http://dbpedia.org/resource/Napoleonic_Wars,http://dbpedia.org/resource/To_France
+0,25,Tin Man,http://dbpedia.org/resource/Tin_Man_(America_song),http://dbpedia.org/resource/Tin_Man_(song)
+0,26,Timothy,http://dbpedia.org/resource/Timbaland,http://dbpedia.org/resource/Timothy_(song)
+0,31,Time to Say Goodbye,http://dbpedia.org/resource/Con_te_partirò,http://dbpedia.org/resource/Time_to_Say_Goodbye_(Antique_song)
+0,34,Time Won't Let Me,http://dbpedia.org/resource/Love_Won't_Let_Me,http://dbpedia.org/resource/Time_Won't_Let_Me
+0,38,Time Is Time,http://dbpedia.org/resource/Night_Time_Is_the_Right_Time,http://dbpedia.org/resource/Time_Is_Time
+0,40,Time Is Running Out,http://dbpedia.org/resource/Time_Is_Running_Out_(Papa_Roach_song),http://dbpedia.org/resource/The_Groove_(song) http://dbpedia.org/resource/Time_Is_Running_Out_(Muse_song) http://dbpedia.org/resource/Time_Is_Running_Out_(Muse_Song) http://dbpedia.org/resource/Time_is_Running_Out_(Muse_Song)
+0,41,Time In,http://es.dbpedia.org/resource/Timor_(canción_de_Shakira),http://dbpedia.org/resource/Time_In_(song) http://dbpedia.org/resource/Time_In_(The_Oak_Ridge_Boys_song)
+0,42,Time Has Come Today,,http://dbpedia.org/resource/Time_Has_Come_Today http://dbpedia.org/resource/Time_has_come_today
+0,45,Time After Time,http://dbpedia.org/resource/Time_After_Time_(Cyndi_Lauper_song),http://dbpedia.org/resource/Time_After_Time_(Angel_song)
+0,46,Time,http://es.dbpedia.org/resource/Timor_(canción_de_Shakira),http://dbpedia.org/resource/Time_(Alan_Parsons_Project_song) http://dbpedia.org/resource/Time_(Alan_Parsons_Project) http://dbpedia.org/resource/Time_(The_Alan_Parsons_Project_song)
+0,47,Time,http://es.dbpedia.org/resource/Timor_(canción_de_Shakira),http://dbpedia.org/resource/Time_(Kim_Wilde_song)
+0,48,Time,http://es.dbpedia.org/resource/Timor_(canción_de_Shakira),http://dbpedia.org/resource/Time_(song_by_Freddie_Mercury) http://dbpedia.org/resource/Time_(Freddie_Mercury_song)
+0,49,Time,http://es.dbpedia.org/resource/Timor_(canción_de_Shakira),http://dbpedia.org/resource/Time_(David_Bowie_song)
+0,50,Time,http://es.dbpedia.org/resource/Timor_(canción_de_Shakira),http://dbpedia.org/resource/Time_(culture_club_song) http://dbpedia.org/resource/Time_(Clock_of_the_Heart)
+0,52,Till the End,http://dbpedia.org/resource/Till_the_End,http://dbpedia.org/resource/Til_the_End_(song) http://dbpedia.org/resource/Till_the_End_(song) http://dbpedia.org/resource/Til_The_End_(song)
+0,55,Till You Get Enough,http://dbpedia.org/resource/Don't_Stop_'Til_You_Get_Enough,http://dbpedia.org/resource/Till_You_Get_Enough
+0,60,Til I Loved You,http://dbpedia.org/resource/Hate_That_I_Love_You,http://dbpedia.org/resource/Til_I_Loved_You
+0,66,Tighten Up,http://dbpedia.org/resource/Tighten_Up_(Electronic_song),http://dbpedia.org/resource/Tighten_Up_(The_Black_Keys_song)
+0,67,Tight Rope,http://dbpedia.org/resource/Tight_Rope_(album),http://dbpedia.org/resource/Tight_Rope_(song)
+0,74,Tidal Wave,http://dbpedia.org/resource/Tidal_Wave_(song),http://dbpedia.org/resource/Tidal_Wave_(Sub_Focus_song)
+0,76,Ticket to Ride,http://dbpedia.org/resource/Ticket_to_Ride_(album),http://dbpedia.org/resource/Ticket_to_Ride_(song) http://dbpedia.org/resource/Ticket_to_Ride http://dbpedia.org/resource/Ticket_To_Ride http://dbpedia.org/resource/Ticket_to_Ride_(The_Beatles_song) http://dbpedia.org/resource/Ticket_to_Ryde http://dbpedia.org/resource/Ticket_to_Rye http://dbpedia.org/resource/Ticket_to_ride
+0,85,Thunder,http://dbpedia.org/resource/Thunder_(Jessie_J_song),http://dbpedia.org/resource/Thunder_(Prince_song)
+0,89,Throw Your Arms Around Me,http://dbpedia.org/resource/Wrap_Your_Arms_Around_Me_(song),http://dbpedia.org/resource/Throw_Your_Arms_Around_Me
+0,107,Three Days,http://dbpedia.org/resource/Three_Days_(Jane's_Addiction_song),http://dbpedia.org/resource/Three_Days_(Willie_Nelson_song)
+0,111,Those Were the Days,http://dbpedia.org/resource/Those_Were_the_Days_(Lady_Sovereign_song),http://dbpedia.org/resource/Le_Temps_Des_Fleurs http://dbpedia.org/resource/Dorogoi_dlinnoyu http://dbpedia.org/resource/Those_Were_the_Days_(song) http://dbpedia.org/resource/Le_temps_des_fleurs http://dbpedia.org/resource/Those_Were_The_Days_(song) http://dbpedia.org/resource/Kanashiki_Tenshi
+0,114,This Woman,http://dbpedia.org/resource/This_Woman_(Kenny_Rogers_song),http://dbpedia.org/resource/This_Woman_(K._T._Oslin_song)
+0,115,This Woman's Work,http://dbpedia.org/resource/A_Woman's_Worth,http://dbpedia.org/resource/This_Womans'_Work http://dbpedia.org/resource/This_Woman's_Work_(song) http://dbpedia.org/resource/This_Woman's_Work
+0,122,This Time,http://dbpedia.org/resource/This_Time_(Melanie_Fiona_song),http://dbpedia.org/resource/This_Time_(Waylon_Jennings_song)
+0,123,This Time,http://dbpedia.org/resource/This_Time_(Melanie_Fiona_song),http://dbpedia.org/resource/This_Time_(Troy_Shondell_song) http://dbpedia.org/resource/This_Time_(Thomas_Wayne_song)
+0,124,This Time,http://dbpedia.org/resource/This_Time_(Melanie_Fiona_song),http://dbpedia.org/resource/This_Time_(Sawyer_Brown_song)
+0,125,This Time,http://dbpedia.org/resource/This_Time_(Melanie_Fiona_song),http://dbpedia.org/resource/This_Time_(Bryan_Adams_song)
+0,129,This Side of Love,http://dbpedia.org/resource/Other_Side_of_Love,http://dbpedia.org/resource/This_Side_of_Love
+0,132,This One's for You,http://dbpedia.org/resource/If_You're_Thinking_You_Want_a_Stranger_(There's_One_Coming_Home),http://dbpedia.org/resource/This_One's_for_You_(Barry_Manilow_song) http://dbpedia.org/resource/This_One's_For_You_(song)
+0,138,This Masquerade,http://dbpedia.org/resource/Final_Masquerade,http://dbpedia.org/resource/This_Masquerade
+0,140,This Love,http://dbpedia.org/resource/Love_in_This_Club,http://dbpedia.org/resource/This_Love_(Veronicas_song) http://dbpedia.org/resource/This_Love_(The_Veronicas_song)
+0,141,This Love,http://dbpedia.org/resource/Love_in_This_Club,http://dbpedia.org/resource/This_Love_(LeAnn_Rimes_song)
+0,152,This Is Not a Love Song,http://dbpedia.org/resource/This_Is_Not_a_Love_Song_(Public_Image_Ltd_song),http://dbpedia.org/resource/This_Is_Not_a_Love_Song_(song)
+0,154,This Is My Song,http://dbpedia.org/resource/Primavera_in_anticipo_(It_Is_My_Song),http://dbpedia.org/resource/This_is_My_Song_(1967_song) http://dbpedia.org/resource/This_Is_My_Song_(1967_song)
+0,156,This Is Mine,http://dbpedia.org/resource/This_Old_Heart_of_Mine_(Is_Weak_for_You),http://dbpedia.org/resource/This_Is_Mine
+0,159,This Is Me,http://dbpedia.org/resource/This_Is_Me_(Dream_song),http://dbpedia.org/resource/This_Is_Me_(Randy_Travis_song)
+0,160,This Is Me,http://dbpedia.org/resource/This_Is_Me_(Dream_song),http://dbpedia.org/resource/This_Is_Me_(Monrose_Song) http://dbpedia.org/resource/This_Is_Me_(Monrose_song)
+0,161,This Is Love,http://dbpedia.org/resource/This_Is_Love_(Utada_Hikaru_song),http://dbpedia.org/resource/This_Is_Love_(George_Harrison_song)
+0,162,This Is It,http://dbpedia.org/resource/This_Is_It_(Melba_Moore_song),http://dbpedia.org/resource/This_Is_It_(Kenny_Loggins_song) http://dbpedia.org/resource/This_is_It_(Kenny_Loggins_song)
+0,168,This Heart,http://dbpedia.org/resource/This_Old_Heart_of_Mine_(Is_Weak_for_You),http://dbpedia.org/resource/This_Heart
+0,179,This Ain't a Love Song,http://dbpedia.org/resource/This_Ain't_a_Love_Song,http://dbpedia.org/resource/This_Ain't_a_Love_Song_(Scouting_for_Girls_song)

@@ -1,0 +1,5 @@
+F1: 0.75000,Precision: 0.75000,Recall: 0.75000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,T. Bennett,http://dbpedia.org/resource/Tom_Bennett_(footballer),http://dbpedia.org/resource/Tony_Bennett_(basketball) http://dbpedia.org/resource/Tony_Bennett_(coach)
+0,3,S. Johnson,http://dbpedia.org/resource/Samuel_Johnson_(English_footballer),http://dbpedia.org/resource/Sydney_Johnson
+0,4,S. Montgomery,http://dbpedia.org/resource/Shane_Montgomery,http://dbpedia.org/resource/Sandy_Montgomery_(softball) http://dbpedia.org/resource/Sandy_Montgomery

@@ -1,0 +1,27 @@
+F1: 0.76852,Precision: 0.76852,Recall: 0.76852,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,C. McEwan,http://dbpedia.org/resource/Geraldine_McEwan,http://dbpedia.org/resource/Colin_McEwan
+0,2,C. Brook,http://dbpedia.org/resource/Claudio_Brook,http://dbpedia.org/resource/Clifford_Hardman_Brook http://dbpedia.org/resource/Clifford_Brook http://dbpedia.org/resource/Clive_Brook http://dbpedia.org/resource/Clive_Hardman_Brook http://dbpedia.org/resource/Clifford_Clive_Brook http://dbpedia.org/resource/Clifford_Clive_Hardman_Brook
+0,7,C. Stone,http://dbpedia.org/resource/Chuck_Stone,http://dbpedia.org/resource/Christopher_Stone_(actor)
+0,10,C. Walker,http://dbpedia.org/resource/Madam_C._J._Walker,"http://dbpedia.org/resource/Charlotte_Walker_(actress) http://dbpedia.org/resource/Charlotte_Walker,_actress"
+0,12,C. O'Neal,http://dbpedia.org/resource/Ron_O'Neal,http://dbpedia.org/resource/Charles_O'Neal
+0,13,C. Lloyd-Pack,http://dbpedia.org/resource/Roger_Lloyd-Pack,http://dbpedia.org/resource/Charles_Lloyd-Pack http://dbpedia.org/resource/Charles_Lloyd_Pack
+0,14,C. Gokhale,http://dbpedia.org/resource/Mohan_Gokhale,http://dbpedia.org/resource/Chandrakant_Gokhale
+0,20,C. Lindstedt,http://dbpedia.org/resource/Anders_Lindstedt,http://dbpedia.org/resource/Carl-Gustaf_Lindstedt http://dbpedia.org/resource/Carl_Gustaf_Lindstedt
+0,24,B. Jones,http://dbpedia.org/resource/Barbara_Jones_(singer),"http://dbpedia.org/resource/Charles_Jones_(actor) http://dbpedia.org/resource/Buck_Jones http://dbpedia.org/resource/Charles_""Buck""_Jones http://dbpedia.org/resource/Charles_Frederick_Gebhart http://dbpedia.org/resource/Charles_Gebhart http://dbpedia.org/resource/Charles_'Buck'_Jones http://dbpedia.org/resource/Charlea_Gebhart http://dbpedia.org/resource/Buck_Gebhart"
+0,28,B. Holmberg,,http://dbpedia.org/resource/Britta_Holmberg
+0,32,B. Russell,http://dbpedia.org/resource/Bertrand_Russell,http://dbpedia.org/resource/Neil_Oliver_Russell http://dbpedia.org/resource/Neil_Russell http://dbpedia.org/resource/Sarah_Ann_Mitchell http://dbpedia.org/resource/Evelyn_Louise_Russell http://dbpedia.org/resource/Bing_Russell http://dbpedia.org/resource/Andrew_B._Russell http://dbpedia.org/resource/Louise_Crain
+0,42,B. Davis,http://dbpedia.org/resource/Beryl_Davis,"http://dbpedia.org/resource/Ruth_Elizabeth_""Bette""_Davis http://dbpedia.org/resource/Bette_Davis http://dbpedia.org/resource/Arthur_Farnsworth_(Bette_Davis'_husband) http://dbpedia.org/resource/Ruth_E._Davis http://dbpedia.org/resource/Ruth_Elizabeth_Davis http://dbpedia.org/resource/Harmon_Nelson http://dbpedia.org/resource/Arthur_Farnsworth. http://dbpedia.org/resource/Davis,_Bette http://dbpedia.org/resource/Bette_Davies http://dbpedia.org/resource/Bettie_Davis"
+0,46,B. Gorcey,http://dbpedia.org/resource/Leo_Gorcey,http://dbpedia.org/resource/Bernard_Gorcey
+0,54,B. Morse,http://dbpedia.org/resource/Samuel_Morse,http://dbpedia.org/resource/Barry_Morse
+0,55,B. Foster,http://dbpedia.org/resource/Stephen_Foster,http://dbpedia.org/resource/Barry_Foster_(actor)
+0,57,B. Kelly,http://dbpedia.org/resource/Brian_Kelly_(actor),http://dbpedia.org/resource/Barbara_Kelly
+0,58,B. Bennett,http://dbpedia.org/resource/Bob_Bennett_(politician),http://dbpedia.org/resource/Barbara_Bennett
+0,62,Augustine,http://dbpedia.org/resource/Augustine_of_Hippo,http://dbpedia.org/resource/Augustine_(actor) http://dbpedia.org/resource/Augustine_(Malayalam_actor) http://dbpedia.org/resource/Augustine_malayalam_actor http://dbpedia.org/resource/Augustine(Malayalam_Actor)
+0,63,A. Egede-Nissen,http://dbpedia.org/resource/Adam_Egede-Nissen,http://dbpedia.org/resource/Aud_Egede-Nissen http://dbpedia.org/resource/Aud_Egede_Nissen http://dbpedia.org/resource/Aud_Richter
+0,64,A. Castro,http://dbpedia.org/resource/Fidel_Castro,http://dbpedia.org/resource/Arturo_Castro
+0,82,A. Richards,http://dbpedia.org/resource/Ann_Richards,http://dbpedia.org/resource/Ann_Richards_(actress) http://dbpedia.org/resource/Ann_Richards_(actor) http://dbpedia.org/resource/Shirley_Ann_Richards
+0,87,A. Keir,http://dbpedia.org/resource/Keir_Hardie,http://dbpedia.org/resource/Andrew_Keir
+0,89,A. Abrikosov,http://dbpedia.org/resource/Alexei_Alexeyevich_Abrikosov,http://dbpedia.org/resource/Andrey_Abrikosov http://dbpedia.org/resource/Andrei_Abrikosov
+0,100,A. H. Sr.,http://dbpedia.org/resource/George_H._W._Bush,"http://dbpedia.org/resource/Rufus_Alan_McKahan http://dbpedia.org/resource/Rufus_Alan_Mckahan http://dbpedia.org/resource/Alan_Hale,_Sr http://dbpedia.org/resource/Alan_Hale_(Sr.) http://dbpedia.org/resource/Alan_Hale_Sr. http://dbpedia.org/resource/Rufus_Mackahan http://dbpedia.org/resource/Rufus_Edward_McKahan http://dbpedia.org/resource/Alan_Hale_Sr http://dbpedia.org/resource/Alan_Hale_Senior http://dbpedia.org/resource/Rufus_Edward_Mackahan http://dbpedia.org/resource/Alan_Hale,_Senior http://dbpedia.org/resource/Alan_Hale,_Sr."
+0,107,A. Allen,http://dbpedia.org/resource/Steve_Allen,http://dbpedia.org/resource/Adrianne_Allen

@@ -1,0 +1,3 @@
+F1: 0.90909,Precision: 0.90909,Recall: 0.90909,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,4,St. Luke's Hospital,"http://dbpedia.org/resource/St._Luke's_Hospital,_Malta","http://dbpedia.org/resource/St._Luke's_Hospital_(Cleveland) http://dbpedia.org/resource/St._Luke's_Hospital_(Cleveland,_Ohio)"

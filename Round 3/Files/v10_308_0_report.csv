@@ -1,0 +1,4 @@
+"F1: 0.98830","Precision: 0.98830","Recall: 0.98830"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","42","Biological Conservation","http://dbpedia.org/resource/Conservation_Biology_(journal)","http://dbpedia.org/resource/Biol._Conserv. http://dbpedia.org/resource/Biological_Conservation_(journal) http://dbpedia.org/resource/Biol_Conserv"
+"0","160","American Journal of Cardiology","http://dbpedia.org/resource/Journal_of_the_American_College_of_Cardiology","http://dbpedia.org/resource/American_journal_of_cardiology http://dbpedia.org/resource/The_American_journal_of_cardiology http://dbpedia.org/resource/American_Journal_of_Cardiology http://dbpedia.org/resource/The_American_Journal_of_Cardiology http://dbpedia.org/resource/Am._J._Cardiol. http://dbpedia.org/resource/Am_J_Cardiol"

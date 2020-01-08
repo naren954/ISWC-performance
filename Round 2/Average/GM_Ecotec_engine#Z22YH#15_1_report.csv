@@ -1,0 +1,5 @@
+F1: 0.57143,Precision: 0.57143,Recall: 0.57143,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,2,Cadillac ATS,http://dbpedia.org/resource/Cadillac_STS,http://dbpedia.org/resource/Cadillac_ATS
+1,4,Cadillac CTS,http://dbpedia.org/resource/Cadillac_STS,http://dbpedia.org/resource/Cadillac_CTS http://dbpedia.org/resource/Cadillac_CTW http://dbpedia.org/resource/Cadillac_cts http://dbpedia.org/resource/Cadillac_CTC
+1,6,Chevrolet Camaro,http://dbpedia.org/resource/Chevrolet_Camaro_(fifth_generation),http://dbpedia.org/resource/Chevrolet_Camaro_(sixth_generation)

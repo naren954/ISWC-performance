@@ -1,0 +1,7 @@
+"F1: 0.00000","Precision: 0.00000","Recall: 0.00000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"2","2","Texas Southern*","http://dbpedia.org/resource/Texas_House_of_Representatives","http://dbpedia.org/resource/Texas_Southern_Tigers_football"
+"2","3","Southern Miss*","http://dbpedia.org/resource/Japan","http://dbpedia.org/resource/2008_Southern_Miss_Golden_Eagles_football_team"
+"2","4","Middle Tennessee","http://dbpedia.org/resource/Michigan_State_University","http://dbpedia.org/resource/2008_Middle_Tennessee_Blue_Raiders_football_team"
+"2","6","Louisiana-Monroe","http://dbpedia.org/resource/University_of_Louisiana_at_Monroe","http://dbpedia.org/resource/2008_Louisiana–Monroe_Warhawks_football_team http://dbpedia.org/resource/2008_ULM_Warhawks_football_team http://dbpedia.org/resource/2008_Louisiana-Monroe_Warhawks_football_team"
+"2","10","Florida Atlantic","http://dbpedia.org/resource/Florida_Atlantic_University","http://dbpedia.org/resource/2008_Florida_Atlantic_Owls_football_team http://dbpedia.org/resource/2008_FAU_Owls_football_team"

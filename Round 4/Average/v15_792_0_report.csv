@@ -1,0 +1,47 @@
+F1: 0.64000,Precision: 0.64000,Recall: 0.64000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,5,Watts-Hillandale Historic District,http://dbpedia.org/resource/Watts–Hillandale_Historic_District,http://dbpedia.org/resource/Watts-Hillandale_Historic_District
+0,6,Watt-Groce-Fickhardt House,http://dbpedia.org/resource/Watt–Groce–Fickhardt_House,http://dbpedia.org/resource/Watt-Groce-Fickhardt_House
+0,8,Watson Park Historic District,http://dbpedia.org/resource/Mamakating_Park_Historic_District,http://dbpedia.org/resource/Watson_Park_Historic_District
+0,11,Watson-Sanders House,http://dbpedia.org/resource/Watson-Sawyer_House,http://dbpedia.org/resource/Watson-Sanders_House
+0,14,Watkins School,http://dbpedia.org/resource/Watkins_Woolen_Mill_State_Park_and_State_Historic_Site,http://dbpedia.org/resource/Watkins_School
+0,20,Watkins-Coleman House,"http://dbpedia.org/resource/Watkins_House_(Keysville,_Virginia)",http://dbpedia.org/resource/Watkins-Coleman_House
+0,28,Waterman Covered Bridge,http://dbpedia.org/resource/Waterford_Covered_Bridge,http://dbpedia.org/resource/Waterman_Covered_Bridge
+0,29,Waterman-Archer House,http://dbpedia.org/resource/William_Archer_House,http://dbpedia.org/resource/Waterman-Archer_House
+0,30,Waterloo Historic District,http://dbpedia.org/resource/Waterloo_Historic_District_(Illinois),"http://dbpedia.org/resource/Waterloo_Historic_District_(Warner,_New_Hampshire) http://dbpedia.org/resource/Waterloo,_New_Hampshire"
+0,33,Waterloo,http://dbpedia.org/resource/Waterloo_Bridge,"http://dbpedia.org/resource/Waterloo_(Princess_Anne,_Maryland)"
+0,34,Waterloo,http://dbpedia.org/resource/Waterloo_Bridge,"http://dbpedia.org/resource/Waterloo_(Albertson,_North_Carolina)"
+0,42,Washington Vocational School,http://dbpedia.org/resource/Margaret_Murray_Washington_School,http://dbpedia.org/resource/Washington_Vocational_School
+0,44,Washington Street Methodist Church,http://dbpedia.org/resource/Washington_Street_United_Methodist_Church,http://dbpedia.org/resource/Washington_Street_Methodist_Church
+0,45,Washington Street Historic District,"http://dbpedia.org/resource/Washington_Street_Historic_District_(Middletown,_Connecticut)","http://dbpedia.org/resource/Washington_Street_Historic_District_(Valparaiso,_Indiana)"
+0,47,Washington Street Historic District,"http://dbpedia.org/resource/Washington_Street_Historic_District_(Middletown,_Connecticut)","http://dbpedia.org/resource/Washington_Street_Historic_District_(High_Point,_North_Carolina)"
+0,49,Washington Street-Monument Circle Historic District,http://dbpedia.org/resource/Washington_Street–Monument_Circle_Historic_District,http://dbpedia.org/resource/Washington_Street-Monument_Circle_Historic_District
+0,52,Washington Spring Road-Woods Road Historic District,http://dbpedia.org/resource/Washington_Spring_Road–Woods_Road_Historic_District,http://dbpedia.org/resource/Washington_Spring_Road-Woods_Road_Historic_District
+0,53,Washington School,"http://dbpedia.org/resource/Washington_School_(Weymouth,_Massachusetts)","http://dbpedia.org/resource/Washington_School_(Ossining,_New_York)"
+0,54,Washington School,"http://dbpedia.org/resource/Washington_School_(Weymouth,_Massachusetts)","http://dbpedia.org/resource/Washington_School_(Logansport,_Indiana)"
+0,55,Washington School,"http://dbpedia.org/resource/Washington_School_(Weymouth,_Massachusetts)","http://dbpedia.org/resource/Washington_School_(Grand_Forks,_North_Dakota)"
+0,59,Washington Park Historic District,"http://dbpedia.org/resource/Washington_Park_Historic_District_(Newton,_Massachusetts)","http://dbpedia.org/resource/Washington_Park_Historic_District_(Winston-Salem,_North_Carolina)"
+0,61,Washington Park,http://dbpedia.org/resource/Washington_Hall_(University_of_Notre_Dame),"http://dbpedia.org/resource/Washington_Park,_Springfield,_Illinois http://dbpedia.org/resource/Washington_Park_(Springfield) http://dbpedia.org/resource/Washington_Park_(Springfield,_Illinois) http://dbpedia.org/resource/Washington_Park_Botanical_Garden"
+0,62,Washington Park,http://dbpedia.org/resource/Washington_Hall_(University_of_Notre_Dame),"http://dbpedia.org/resource/Washington_Park_(Michigan_City,_Indiana)"
+0,63,Washington Park,http://dbpedia.org/resource/Washington_Hall_(University_of_Notre_Dame),"http://dbpedia.org/resource/Washington_Park,_Chicago_(park) http://dbpedia.org/resource/Washington_Park_(Chicago_park)"
+0,69,Washington Historic District,"http://dbpedia.org/resource/Washington_Historic_District_(Washington,_North_Carolina)","http://dbpedia.org/resource/Washington_Historic_District_(Washington,_Virginia)"
+0,71,Washington Graded and High School,http://dbpedia.org/resource/Washington_Junior_High_School_and_Jefferson_Grade_School,http://dbpedia.org/resource/Washington_Graded_and_High_School
+0,73,Washington County Courthouse,http://dbpedia.org/resource/Washington_County_Courthouse_(Pennsylvania),http://dbpedia.org/resource/Washington_County_Courthouse_(Rhode_Island)
+0,74,Washington County Courthouse,http://dbpedia.org/resource/Washington_County_Courthouse_(Pennsylvania),"http://dbpedia.org/resource/Washington_County_Courthouse_(Machias,_Maine) http://dbpedia.org/resource/Washington_County_Courthouse_(Maine)"
+0,75,Washington County Courthouse,http://dbpedia.org/resource/Washington_County_Courthouse_(Pennsylvania),"http://dbpedia.org/resource/Washington_County_Courthouse_(Greenville,_Mississippi) http://dbpedia.org/resource/Washington_County_Courthouse_(Mississippi)"
+0,76,Washington County Courthouse,http://dbpedia.org/resource/Washington_County_Courthouse_(Pennsylvania),"http://dbpedia.org/resource/Washington_County_Courthouse_(Georgia) http://dbpedia.org/resource/Washington_County_Courthouse_(Sandersville,_Georgia)"
+0,77,Washington County Courthouse,http://dbpedia.org/resource/Washington_County_Courthouse_(Pennsylvania),"http://dbpedia.org/resource/Washington_County_Courthouse_(Arkansas) http://dbpedia.org/resource/Washington_County_Court_House_(Arkansas) http://dbpedia.org/resource/Washington_County_Courthouse_(Fayetteville,_Arkansas)"
+0,78,Washington Coliseum,http://dbpedia.org/resource/London_Coliseum,http://dbpedia.org/resource/Uline_Arena http://dbpedia.org/resource/U-Line_Arena http://dbpedia.org/resource/Uline_Ice_Company_Plant_and_Arena_Complex http://dbpedia.org/resource/Washington_Coliseum
+0,80,Washington Avenue Historic District,http://dbpedia.org/resource/Washington_Avenue_Historic_District_(Philadelphia),"http://dbpedia.org/resource/Washington_Avenue_Historic_District_(Fredericksburg,_Virginia)"
+0,84,Washburn Square-Leicester Common Historic District,http://dbpedia.org/resource/Washburn_Square–Leicester_Common_Historic_District,http://dbpedia.org/resource/Washburn_Square-Leicester_Common_Historic_District
+0,85,Washburn Historic District,http://dbpedia.org/resource/Washburn_and_Moen_North_Works_District,http://dbpedia.org/resource/Washburn_Historic_District
+0,99,Warren G. Harding Junior High School,http://dbpedia.org/resource/Warren_G._Harding_Middle_School,http://dbpedia.org/resource/Warren_G._Harding_Junior_High_School
+0,101,Warren County Fire Tower,http://dbpedia.org/resource/Ute_Mountain_Fire_Tower,http://dbpedia.org/resource/Warren_County_Fire_Tower
+0,103,Warren County Courthouse,http://dbpedia.org/resource/Warren_County_Courthouse_(Virginia),http://dbpedia.org/resource/Warren_County_Courthouse_(Pennsylvania)
+0,106,Warren Block,"http://dbpedia.org/resource/Warren_Block_(Marlborough,_Massachusetts)","http://dbpedia.org/resource/Warren_Block_(Westbrook,_Maine)"
+0,108,Warren-Erwin House,http://dbpedia.org/resource/Warren_Hickox_House,http://dbpedia.org/resource/Warren-Erwin_House
+0,110,Warner Theatre,"http://dbpedia.org/resource/Warner_Theatre_(Erie,_Pennsylvania)","http://dbpedia.org/resource/Warner_Theatre_(Torrington,_Connecticut)"
+0,111,Warner Theater,http://dbpedia.org/resource/Warner_Grand_Theatre,"http://dbpedia.org/resource/Warner_Theatre_(West_Chester,_Pennsylvania) http://dbpedia.org/resource/Warner_Theater_(West_Chester,_Pennsylvania) http://dbpedia.org/resource/Hotel_Warner"
+0,114,Warner Hall,http://dbpedia.org/resource/Powers_Auditorium,http://dbpedia.org/resource/Warner_Hall
+0,121,Ware-Lyndon House,http://dbpedia.org/resource/Henry_A._Ware_House,http://dbpedia.org/resource/Ware-Lyndon_House http://dbpedia.org/resource/Ware-Lyndon_house
+0,124,Wardell House,"http://dbpedia.org/resource/Wardell_House_(Macon,_Missouri)","http://dbpedia.org/resource/Wardell_House_(Shrewsbury,_New_Jersey)"

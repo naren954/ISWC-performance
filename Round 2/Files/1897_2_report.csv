@@ -1,0 +1,8 @@
+"F1: 0.93814","Precision: 0.93814","Recall: 0.93814"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"2","5","Survival","http://dbpedia.org/resource/Survival_(Eminem_song)","http://dbpedia.org/resource/Survival_(Doctor_Who) http://dbpedia.org/resource/Doctor_who_survival"
+"2","9","Raft","http://dbpedia.org/resource/Lipid_raft","http://dbpedia.org/resource/Raft_(Stephen_Baxter) http://dbpedia.org/resource/Raft_(novel)"
+"2","10","The Last Resort","http://dbpedia.org/resource/The_Last_Resort_(novel)","http://dbpedia.org/resource/The_Last_Resort_(Doctor_Who)"
+"2","23","Travels With Myself","http://dbpedia.org/resource/Travels_with_Myself","http://dbpedia.org/resource/Travels_With_Myself http://dbpedia.org/resource/Tahir_Shah"
+"2","26","Branches","http://dbpedia.org/resource/Philosophy","http://dbpedia.org/resource/Branches_(book) http://dbpedia.org/resource/Branches_(novel)"
+"2","78","The Commodore","http://dbpedia.org/resource/The_Commodore","http://dbpedia.org/resource/The_Commodore_(novel) http://dbpedia.org/resource/The_Commodore_(book)"

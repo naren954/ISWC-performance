@@ -1,0 +1,7 @@
+F1: 0.54545,Precision: 0.54545,Recall: 0.54545,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,5,L. Scott,http://dbpedia.org/resource/Laurie_Scott_(footballer),http://dbpedia.org/resource/Larry_Scott_(bodybuilder)
+0,6,K. Baxter,http://dbpedia.org/resource/James_K._Baxter,http://dbpedia.org/resource/Kay_Baxter
+0,7,J. Ferrero,http://fr.dbpedia.org/resource/Leo_Ferrero,http://dbpedia.org/resource/Juan_Ferrero
+0,8,J. Weider,http://dbpedia.org/resource/Bjarne_Odd_Weider,http://dbpedia.org/resource/Joe_Wieder http://dbpedia.org/resource/Joe_Weider http://dbpedia.org/resource/Weider_Global_Nutrition http://dbpedia.org/resource/Bettie_Brosmer http://dbpedia.org/resource/Weider_Publications
+0,9,J. Gold,http://dbpedia.org/resource/John_Gold,http://dbpedia.org/resource/Joe_Gold

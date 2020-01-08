@@ -1,0 +1,16 @@
+F1: 0.83721,Precision: 0.83721,Recall: 0.83721,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,6,L. Egri,,http://dbpedia.org/resource/Lajos_egri http://dbpedia.org/resource/Lajos_Egri
+1,22,B. Lengel,,http://dbpedia.org/resource/Brenton_Lengel
+1,24,K. Narasaki,http://dbpedia.org/resource/Yasumasa_Narasaki,http://dbpedia.org/resource/Ken_Narasaki
+1,32,S. Ruhl,http://dbpedia.org/resource/Philippe_Rühl,http://dbpedia.org/resource/Sarah_Ruhl
+1,37,Śudraka,http://dbpedia.org/resource/Śūdraka,http://dbpedia.org/resource/Śudraka
+1,40,L. Wilson,http://dbpedia.org/resource/Lois_Wilson_(actress),http://dbpedia.org/resource/Brontosaurus_(play) http://dbpedia.org/resource/Lanford_Wilson http://dbpedia.org/resource/Brontosaurus_(Play) http://dbpedia.org/resource/Book_of_Days_(play)
+1,45,W. Smith,http://dbpedia.org/resource/David_Smith_(sculptor),http://dbpedia.org/resource/Winchell_Smith
+1,52,H. Hertz,http://dbpedia.org/resource/Heinrich_Hertz,http://dbpedia.org/resource/Henrik_Hertz
+1,54,W. Russell,http://dbpedia.org/resource/Bertrand_Russell,http://dbpedia.org/resource/Breezeblock_Park http://dbpedia.org/resource/William_Martin_Russell http://dbpedia.org/resource/Willy_Russell
+1,61,M. Miguel,http://dbpedia.org/resource/Mónica_Miguel,http://dbpedia.org/resource/Marlon_Miguel
+1,66,H. Gardner,http://dbpedia.org/resource/Helen_Gardner_(critic),http://dbpedia.org/resource/Herb_Gardner
+1,72,M. C. Chase,http://dbpedia.org/resource/William_Merritt_Chase,http://dbpedia.org/resource/Mary_Chase_(playwright) http://dbpedia.org/resource/Mary_Coyle_Chase http://dbpedia.org/resource/Mrs._McThing
+1,74,M. Norman,http://dbpedia.org/resource/Maidie_Norman,http://dbpedia.org/resource/Marsha_Norman
+1,79,M. Hastings,"http://dbpedia.org/resource/Francis_Rawdon-Hastings,_1st_Marquess_of_Hastings",http://dbpedia.org/resource/Michael_Hastings_(playwright) http://dbpedia.org/resource/Michael_Gerald_Hastings

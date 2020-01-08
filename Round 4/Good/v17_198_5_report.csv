@@ -1,0 +1,4 @@
+F1: 0.84615,Precision: 0.84615,Recall: 0.84615,,
+Col,Row,Value,Submitted URI,Correct URI's
+5,2,J. Yang,http://dbpedia.org/resource/Lee_Yang,http://dbpedia.org/resource/Jin_Yang
+5,10,T. Williams,"http://dbpedia.org/resource/Tom_Williams_(ice_hockey,_born_1940)",http://dbpedia.org/resource/Thomas_Williams_(figure_skater)

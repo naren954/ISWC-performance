@@ -1,0 +1,32 @@
+F1: 0.50000,Precision: 0.50000,Recall: 0.50000,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,1,D. Fontana,http://dbpedia.org/resource/Santino_Fontana,http://dbpedia.org/resource/Michael_Richards_(writer) http://dbpedia.org/resource/J._Michael_Bingham http://dbpedia.org/resource/D._C._Fontana http://dbpedia.org/resource/Dorothy_Catherine_Fontana http://dbpedia.org/resource/Dorothy_C._Fontana http://dbpedia.org/resource/Dorothy_Fontana http://dbpedia.org/resource/D.C._Fontana http://dbpedia.org/resource/D_C_Fontana http://dbpedia.org/resource/DC_Fontana
+2,2,Y. Gotanda,http://dbpedia.org/resource/Y,http://dbpedia.org/resource/Tri-Ace http://dbpedia.org/resource/Labyrinth_no_Kanata http://dbpedia.org/resource/Hajime_Kojima http://dbpedia.org/resource/Triace http://dbpedia.org/resource/Tri-ace http://dbpedia.org/resource/Yoshiharu_Gotanda
+2,6,T. Miyazaki,http://dbpedia.org/resource/Hayao_Miyazaki,"http://dbpedia.org/resource/Quintet_Co.,_Ltd. http://dbpedia.org/resource/Quintet_(developer) http://dbpedia.org/resource/Gaia_series http://dbpedia.org/resource/Masaya_Hashimoto http://dbpedia.org/resource/Quintet_(company) http://dbpedia.org/resource/Tomoyoshi_Miyazaki http://dbpedia.org/resource/Soul_Blazer_series http://dbpedia.org/resource/Quintet_(game_developer)"
+2,7,S. Nakamura,http://dbpedia.org/resource/Shungiku_Nakamura,http://dbpedia.org/resource/Shun_Nakamura
+2,9,T. Iizuka,,http://dbpedia.org/resource/Iizuka_Takashi http://dbpedia.org/resource/Takashi_Iizuka_(game_designer)
+2,20,S. Barlow,http://dbpedia.org/resource/John_Perry_Barlow,http://dbpedia.org/resource/Sam_Barlow_(video_game_director)
+2,21,S. Barlow,http://dbpedia.org/resource/John_Perry_Barlow,http://dbpedia.org/resource/Sam_Barlow_(video_game_director)
+2,22,B. Shelley,http://dbpedia.org/resource/Barbara_Shelley,http://dbpedia.org/resource/Bruce_Shelley
+2,23,H. Takahashi,http://dbpedia.org/resource/Rumiko_Takahashi,http://dbpedia.org/resource/Hiroyuki_Takahashi_(game_producer)
+2,24,H. Takahashi,http://dbpedia.org/resource/Rumiko_Takahashi,http://dbpedia.org/resource/Hiroyuki_Takahashi_(game_producer)
+2,28,A. Pulkkinen,http://dbpedia.org/resource/Riikka_Pulkkinen,http://dbpedia.org/resource/Ari_Pulkkinen
+2,29,T. Iizuka,,http://dbpedia.org/resource/Iizuka_Takashi http://dbpedia.org/resource/Takashi_Iizuka_(game_designer)
+2,31,H. Tanaka,http://dbpedia.org/resource/Hideyuki_Tanaka,http://dbpedia.org/resource/Hiromichi_Tanaka http://dbpedia.org/resource/Tanaka_Hiromichi
+2,33,D. McKenna,http://dbpedia.org/resource/Malcolm_McKenna,http://dbpedia.org/resource/David_McKenna_(writer)
+2,34,M. Kato,http://dbpedia.org/resource/Miliyah_Kato,http://dbpedia.org/resource/Masato_Kato
+2,36,C. Jordan,http://dbpedia.org/resource/Camille_Jordan,http://dbpedia.org/resource/Chuck_Jordan_(game_designer)
+2,37,K. Nojima,http://dbpedia.org/resource/Kenji_Nojima,http://dbpedia.org/resource/Kazushige_Nojima-san http://dbpedia.org/resource/Kazushige_Nojima http://dbpedia.org/resource/Nojima_Kazushige
+2,41,M. Wright,http://dbpedia.org/resource/Max_Wright,http://dbpedia.org/resource/Micah_Wright http://dbpedia.org/resource/Constant_Payne http://dbpedia.org/resource/Mica_Wright http://dbpedia.org/resource/Micah_Ian_Wright
+2,43,D. Satō,http://dbpedia.org/resource/Daisuke_Satō,http://dbpedia.org/resource/Sato_Dai http://dbpedia.org/resource/Dai_Satō
+2,44,N. Sugimura,http://dbpedia.org/resource/Takashi_Sugimura,http://dbpedia.org/resource/Noboru_Sugimura
+2,45,M. J. Costello,http://dbpedia.org/resource/Vincent_Costello,http://dbpedia.org/resource/Matthew_J._Costello http://dbpedia.org/resource/Matt_Costello_(novelist) http://dbpedia.org/resource/Matthew_Costello
+2,46,M. Kato,http://dbpedia.org/resource/Miliyah_Kato,http://dbpedia.org/resource/Masato_Kato
+2,48,M. Toriyama,http://dbpedia.org/resource/Akira_Toriyama,http://dbpedia.org/resource/Motomu_Toriyama
+2,49,C. Jordan,http://dbpedia.org/resource/Camille_Jordan,http://dbpedia.org/resource/Chuck_Jordan_(game_designer)
+2,51,T. Schafer,http://dbpedia.org/resource/Ed_Schafer,http://dbpedia.org/resource/Timothy_John_Schafer http://dbpedia.org/resource/Tim_Schafer
+2,52,T. Schafer,http://dbpedia.org/resource/Ed_Schafer,http://dbpedia.org/resource/Timothy_John_Schafer http://dbpedia.org/resource/Tim_Schafer
+2,53,P. Jenkins,http://dbpedia.org/resource/Paul_Jenkins_(painter),"http://dbpedia.org/resource/Paul_Jenkins_(writer) http://dbpedia.org/resource/Paul_Jenkins_(comics) http://dbpedia.org/resource/Jenkins,_Paul"
+2,54,C. May,http://dbpedia.org/resource/Corinna_May,http://dbpedia.org/resource/Corey_May
+2,55,C. May,http://dbpedia.org/resource/Corinna_May,http://dbpedia.org/resource/Corey_May
+2,57,S. Miller,http://dbpedia.org/resource/Arthur_Miller,http://dbpedia.org/resource/Scott_Miller_(entrepreneur) http://dbpedia.org/resource/Scott_Miller_(programmer)

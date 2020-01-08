@@ -1,0 +1,4 @@
+F1: 0.60000,Precision: 0.60000,Recall: 0.60000,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,2,Lee Wing-tat Democratic,http://dbpedia.org/resource/1973_Chilean_coup_d'état,http://dbpedia.org/resource/Lee_Wing-tat http://dbpedia.org/resource/Lee_Wing_Tat http://dbpedia.org/resource/Lee_Wing-Tat http://dbpedia.org/resource/Li_Yongda
+2,4,Albert Ho Democratic,http://dbpedia.org/resource/Democratic_Republic_of_the_Congo,http://dbpedia.org/resource/Albert_Ho_Chun-yan http://dbpedia.org/resource/Hé_Jùnrén http://dbpedia.org/resource/Albert_Ho_Chun_Yan http://dbpedia.org/resource/Ho_Chun_Yan http://dbpedia.org/resource/Albert_Ho http://dbpedia.org/resource/He_Junren http://dbpedia.org/resource/Ho_Chun-yan

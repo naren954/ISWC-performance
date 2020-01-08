@@ -1,0 +1,10 @@
+F1: 0.81818,Precision: 0.81818,Recall: 0.81818,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,1,V. Fernandes,http://dbpedia.org/resource/Val_Fernandes,http://dbpedia.org/resource/Vanessa_Fernandes
+3,2,S. Whitfield,http://dbpedia.org/resource/Mal_Whitfield,http://dbpedia.org/resource/Simon_Whitfield
+3,7,M. Jones,"http://dbpedia.org/resource/Mark_Jones_(basketball,_born_1961)",http://dbpedia.org/resource/Michellie_Jones
+3,8,S. Vuckovic,http://dbpedia.org/resource/Nenad_Vučković_(handballer),http://dbpedia.org/resource/Stephan_Vuckovic
+3,9,M. Jones,"http://dbpedia.org/resource/Mark_Jones_(basketball,_born_1961)",http://dbpedia.org/resource/Michellie_Jones
+3,10,S. Vuckovic,http://dbpedia.org/resource/Nenad_Vučković_(handballer),http://dbpedia.org/resource/Stephan_Vuckovic
+3,12,A. Hlaváčková,http://dbpedia.org/resource/Andrea_Sestini_Hlaváčková,http://dbpedia.org/resource/Andrea_Hlavackova http://dbpedia.org/resource/Andrea_Hlaváčková
+3,17,A. Hlaváčková,http://dbpedia.org/resource/Andrea_Sestini_Hlaváčková,http://dbpedia.org/resource/Andrea_Hlavackova http://dbpedia.org/resource/Andrea_Hlaváčková

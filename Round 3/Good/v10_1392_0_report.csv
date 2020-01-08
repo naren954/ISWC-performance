@@ -1,0 +1,16 @@
+F1: 0.91026,Precision: 0.91026,Recall: 0.91026,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,4,Á. Smith,http://dbpedia.org/resource/Fiona_Smith_(badminton),http://dbpedia.org/resource/Árón_Smith http://dbpedia.org/resource/Aron_Smith
+0,13,Y. Nakayama,http://dbpedia.org/resource/Yuichi_Nakayama,http://dbpedia.org/resource/Yuhki_Nakayama
+0,26,W. Scott,http://dbpedia.org/resource/Willie_Scott_(basketball),http://dbpedia.org/resource/Warren_Scott
+0,29,V. Jiménez,http://dbpedia.org/resource/Julio_Jiménez,http://dbpedia.org/resource/Víctor_Jiménez http://dbpedia.org/resource/Victor_Jimenez
+0,33,V. Atoev,http://dbpedia.org/resource/V._V._Sadagopan,http://dbpedia.org/resource/Vladimir_Atoev
+0,41,V. Jiménez,http://dbpedia.org/resource/Julio_Jiménez,http://dbpedia.org/resource/Víctor_Jiménez http://dbpedia.org/resource/Victor_Jimenez
+0,48,T. Bell,http://dbpedia.org/resource/Todd_Bell,http://dbpedia.org/resource/Townsend_Bell
+0,65,T. Davis,http://dbpedia.org/resource/Terry_Davis_(basketball),http://dbpedia.org/resource/Toby_Davis
+0,69,T. Timerzyanov,http://dbpedia.org/resource/T,http://dbpedia.org/resource/Timur_Timerzyanov
+0,72,T. Hansen,http://dbpedia.org/resource/Travis_Hansen,http://dbpedia.org/resource/Timmy_Hansen
+0,74,T. Coronel,http://dbpedia.org/resource/Tom_Coronel,http://dbpedia.org/resource/Tim_Coronel
+0,124,S. Peña,http://dbpedia.org/resource/Sergio_Peña_(Peruvian_footballer),http://dbpedia.org/resource/Sergio_Pena http://dbpedia.org/resource/Sergio_Peña_(racing_driver)
+0,140,S. Martin,http://dbpedia.org/resource/Sam_Martin_(speedway_rider),http://dbpedia.org/resource/Scott_Martin_(racing_driver)
+0,152,S. Dejonghe,http://es.dbpedia.org/resource/Sam_Dejonghe,http://dbpedia.org/resource/Sam_Dejonghe

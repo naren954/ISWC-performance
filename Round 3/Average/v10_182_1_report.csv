@@ -1,0 +1,96 @@
+F1: 0.52284,Precision: 0.52284,Recall: 0.52284,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,2,U. Steiger,http://dbpedia.org/resource/Rod_Steiger,http://dbpedia.org/resource/Ueli_Steiger
+1,5,R. H. Wyer,http://dbpedia.org/resource/H._R._Giger,http://dbpedia.org/resource/Reginald_Wyer http://dbpedia.org/resource/Reg_Wyer http://dbpedia.org/resource/Reginald_H._Wyer http://dbpedia.org/resource/Reginald_H_Wyer
+1,7,R. Smoot,http://dbpedia.org/resource/Reed_Smoot,http://dbpedia.org/resource/Reed_Smoot_(cinematographer) http://dbpedia.org/resource/Reed_P._Smoot
+1,8,H. Narita,http://dbpedia.org/resource/Mikio_Narita,http://dbpedia.org/resource/Hiro_Narita
+1,10,R. Richardson,http://dbpedia.org/resource/Ralph_Richardson,"http://dbpedia.org/resource/Robert_Richardson_(cinematographer) http://dbpedia.org/resource/Robert_Richardson,_ASC"
+1,12,K. Peach,http://dbpedia.org/resource/Ben_Peach,http://dbpedia.org/resource/Kenneth_Peach
+1,13,D. Douglas,http://dbpedia.org/resource/Diana_Douglas,http://dbpedia.org/resource/David_Douglas_(director)
+1,18,D. Quinn,http://dbpedia.org/resource/Daniel_Quinn,http://dbpedia.org/resource/Declan_Quinn
+1,26,A. Miller,http://dbpedia.org/resource/Arthur_Miller,http://dbpedia.org/resource/Arthur_C._Miller http://dbpedia.org/resource/A.C._Miller http://dbpedia.org/resource/Art_Miller http://dbpedia.org/resource/Arthur_Charles_Miller http://dbpedia.org/resource/Arthur_Miller_(cinematographer) http://dbpedia.org/resource/A._C._Miller
+1,27,U. Steiger,http://dbpedia.org/resource/Rod_Steiger,http://dbpedia.org/resource/Ueli_Steiger
+1,28,R. Smoot,http://dbpedia.org/resource/Reed_Smoot,http://dbpedia.org/resource/Reed_Smoot_(cinematographer) http://dbpedia.org/resource/Reed_P._Smoot
+1,33,K. MacMillan,http://dbpedia.org/resource/Ernest_MacMillan,http://dbpedia.org/resource/Sir_Kenneth_MacMillan http://dbpedia.org/resource/Kenneth_MacMillan http://dbpedia.org/resource/Ballets_by_Kenneth_MacMillan http://dbpedia.org/resource/Kenneth_Macmillan http://dbpedia.org/resource/Sir_Kenneth_Macmillan
+1,34,R. Karmakar,http://dbpedia.org/resource/Romuald_Karmakar,http://dbpedia.org/resource/Radhu_Karmakar
+1,36,J. Mistry,http://dbpedia.org/resource/Jimi_Mistry,http://dbpedia.org/resource/Jal_Mistry
+1,39,M. Nandan,http://dbpedia.org/resource/Michel_Nandan,http://dbpedia.org/resource/Manush_Nandan
+1,43,A. Mishra,http://dbpedia.org/resource/Amit_Mishra,http://dbpedia.org/resource/Aseem_mishra http://dbpedia.org/resource/Aseem_Mishra
+1,44,F. Mistry,http://dbpedia.org/resource/Jimi_Mistry,http://dbpedia.org/resource/Fali_Mistry
+1,50,S. Hegde,http://dbpedia.org/resource/Shripad_Hegde,http://dbpedia.org/resource/Satya_Hegde
+1,52,G. Lively,http://dbpedia.org/resource/Penelope_Lively,http://dbpedia.org/resource/Gerry_Lively
+1,55,P. Gibbons,http://dbpedia.org/resource/Cedric_Gibbons,http://dbpedia.org/resource/Peter_Gibbons
+1,57,G. J. Folsey,http://dbpedia.org/resource/George_Folsey_(cinematographer),http://dbpedia.org/resource/George_J._Folsey http://dbpedia.org/resource/George_Folsey http://dbpedia.org/resource/George_Joseph_Folsey http://dbpedia.org/resource/George_Falsey http://dbpedia.org/resource/George_J._Falsey
+1,59,R. Mertes,http://de.dbpedia.org/resource/Werner_Mertes,http://dbpedia.org/resource/Raffaele_Mertes
+1,61,R. Cory,http://dbpedia.org/resource/Cory_Booker,http://dbpedia.org/resource/Ray_Cory
+1,62,T. Kurita,http://dbpedia.org/resource/Takeo_Kurita,http://dbpedia.org/resource/Toyomichi_Kurita
+1,63,A. Mehta,http://dbpedia.org/resource/Zubin_Mehta,http://dbpedia.org/resource/Anil_Mehta
+1,64,E. Boyko,http://dbpedia.org/resource/Yaroslav_Boyko,http://dbpedia.org/resource/Eugene_Boyko
+1,67,G. Gee,http://dbpedia.org/resource/George_Gee_(ice_hockey),http://dbpedia.org/resource/Grant_Gee
+1,69,H. E. Squire,http://dbpedia.org/resource/Matt_Squire,http://dbpedia.org/resource/Harry_E._Squire http://dbpedia.org/resource/Harry_Squire
+1,70,R. Civita,http://dbpedia.org/resource/Roberto_Civita,http://dbpedia.org/resource/Ramiro_Civita
+1,72,E. Gautier,http://dbpedia.org/resource/Théophile_Gautier,http://dbpedia.org/resource/Éric_Gautier http://dbpedia.org/resource/Eric_Gautier
+1,73,J. T. John,http://dbpedia.org/resource/Donald_Trump,http://dbpedia.org/resource/Jomon_T._John
+1,74,J. Kaufmann,http://dbpedia.org/resource/Christine_Kaufmann,http://dbpedia.org/resource/Judith_Kaufmann
+1,76,D. Burgess,http://dbpedia.org/resource/Dorothy_Burgess,http://dbpedia.org/resource/Don_Burgess_(cinematographer)
+1,77,J. d. Borman,http://dbpedia.org/resource/Paul_D._Borman,http://dbpedia.org/resource/John_de_Borman
+1,79,A. Mishra,http://dbpedia.org/resource/Amit_Mishra,http://dbpedia.org/resource/Aseem_mishra http://dbpedia.org/resource/Aseem_Mishra
+1,80,N. Khan,http://dbpedia.org/resource/Malik_Nur_Khan,http://dbpedia.org/resource/Nadeem_Khan
+1,82,P. Suschitzky,http://dbpedia.org/resource/Wolfgang_Suschitzky,http://dbpedia.org/resource/Peter_Suschitzky
+1,84,S. Cortez,http://dbpedia.org/resource/Hernán_Cortés,http://dbpedia.org/resource/Stanley_Cortez http://dbpedia.org/resource/Stanley_Krantz
+1,87,D. Okada,http://dbpedia.org/resource/Yoshio_Okada,http://dbpedia.org/resource/Daryn_Okada
+1,89,A. Hume,http://dbpedia.org/resource/Allan_Octavian_Hume,http://dbpedia.org/resource/Alan_Hume
+1,90,G. MacGillivray,http://dbpedia.org/resource/William_MacGillivray,http://dbpedia.org/resource/Greg_MacGillivray
+1,91,S. Hegde,http://dbpedia.org/resource/Shripad_Hegde,http://dbpedia.org/resource/Satya_Hegde
+1,92,F. J. Koenekamp,http://dbpedia.org/resource/J._F._Powers,http://dbpedia.org/resource/Fred_J._Koenekamp http://dbpedia.org/resource/Fred_Koenekamp
+1,93,A. Albert,http://dbpedia.org/resource/Albert_Einstein,http://dbpedia.org/resource/Arthur_Albert
+1,94,L. Kovács,http://dbpedia.org/resource/László_Kovács_(politician),http://dbpedia.org/resource/Laszlo_Panaflex http://dbpedia.org/resource/Laszlo_Kovacs_(cinematographer) http://dbpedia.org/resource/László_Kovács_(cinematographer) http://dbpedia.org/resource/Lazlo_Kovacs
+1,95,H. Waxman,http://dbpedia.org/resource/Franz_Waxman,http://dbpedia.org/resource/Harry_Waxman
+1,98,A. B. Richmond,http://dbpedia.org/resource/Julius_B._Richmond,http://dbpedia.org/resource/Anthony_B._Richmond
+1,100,K. Bose,http://dbpedia.org/resource/Krishna_Bose,http://dbpedia.org/resource/Kamal_Bose
+1,101,D. Douglas,http://dbpedia.org/resource/Diana_Douglas,http://dbpedia.org/resource/David_Douglas_(director)
+1,104,M. Greenbaum,http://dbpedia.org/resource/Kyla_Greenbaum,http://dbpedia.org/resource/Max_Greene http://dbpedia.org/resource/Mutz_Greenbaum http://dbpedia.org/resource/Max_Greenbaum
+1,105,P. Bhatt,http://dbpedia.org/resource/Pooja_Bhatt,http://dbpedia.org/resource/Praveen_Bhatt http://dbpedia.org/resource/Pravin_Bhatt
+1,107,B. Mason,http://dbpedia.org/resource/Bruce_Mason,http://dbpedia.org/resource/Bill_Mason
+1,109,L. Ballard,http://dbpedia.org/resource/Lucinda_Ballard,http://dbpedia.org/resource/Lucien_Ballard
+1,110,M. Chapman,http://dbpedia.org/resource/Marguerite_Chapman,http://dbpedia.org/resource/Michael_Chapman_(cinematographer)
+1,111,N. K. Ekambaram,http://dbpedia.org/resource/N._K._Jemisin,http://dbpedia.org/resource/Ekambaram http://dbpedia.org/resource/N.K.Ekambaram http://dbpedia.org/resource/N._K._Ekambaram http://dbpedia.org/resource/NK_Ekambaram http://dbpedia.org/resource/N_K_Ekambaram http://dbpedia.org/resource/N.K._Ekambaram
+1,113,E. Core,http://dbpedia.org/resource/Carlos_Cores,http://dbpedia.org/resource/Ericson_Core
+1,115,P. Bhatt,http://dbpedia.org/resource/Pooja_Bhatt,http://dbpedia.org/resource/Praveen_Bhatt http://dbpedia.org/resource/Pravin_Bhatt
+1,117,G. Greenough,http://dbpedia.org/resource/Horatio_Greenough,http://dbpedia.org/resource/George_Greenough
+1,121,H. Chaturvedi,http://dbpedia.org/resource/Manjari_Chaturvedi,http://dbpedia.org/resource/Hemant_Chaturvedi
+1,126,A. S. Saini,http://dbpedia.org/resource/Tarsame_Singh_Saini,http://dbpedia.org/resource/Attar_Singh_Saini
+1,128,A. N,http://uk.dbpedia.org/resource/Sandra_N.,http://dbpedia.org/resource/Alagappan_N
+1,129,E. Richard,http://dbpedia.org/resource/Richard_Attenborough,http://dbpedia.org/resource/Edmond_Richard_(cinematographer)
+1,130,S. Saravanan,http://dbpedia.org/resource/Mariappan_Saravanan,http://dbpedia.org/resource/Sakthi_Saravanan http://dbpedia.org/resource/S._Saravanan
+1,132,E. Hillier,"http://dbpedia.org/resource/William_Onslow,_4th_Earl_of_Onslow",http://dbpedia.org/resource/Erwin_Hillier
+1,142,A. B. Richmond,http://dbpedia.org/resource/Julius_B._Richmond,http://dbpedia.org/resource/Anthony_B._Richmond
+1,143,A. Hume,http://dbpedia.org/resource/Allan_Octavian_Hume,http://dbpedia.org/resource/Alan_Hume
+1,144,A. Hume,http://dbpedia.org/resource/Allan_Octavian_Hume,http://dbpedia.org/resource/Alan_Hume
+1,146,J. MacDonald,http://dbpedia.org/resource/Ramsay_MacDonald,http://dbpedia.org/resource/Joe_MacDonald http://dbpedia.org/resource/Joseph_MacDonald
+1,147,J. Else,http://dbpedia.org/resource/Henrik_Ibsen,http://dbpedia.org/resource/Jon_Else http://dbpedia.org/resource/Jon_H._Else
+1,149,A. Mukhopadhyay,http://dbpedia.org/resource/Audri_Mukhopadhyay,http://dbpedia.org/resource/Abhik_Mukhopadhyay
+1,153,C. Berger,http://dbpedia.org/resource/Christian_Berger,http://dbpedia.org/resource/Carl_Berger
+1,154,D. Okada,http://dbpedia.org/resource/Yoshio_Okada,http://dbpedia.org/resource/Daryn_Okada
+1,155,K. Baggot,http://dbpedia.org/resource/King_Baggot,"http://dbpedia.org/resource/King_Baggot_(cinematographer) http://dbpedia.org/resource/King_Baggot,_Jr."
+1,156,S. Shah,http://dbpedia.org/resource/Salman_Shah_(actor),http://dbpedia.org/resource/Sejal_Shah
+1,158,A. Thomson,http://dbpedia.org/resource/George_Paget_Thomson,http://dbpedia.org/resource/Alex_Thomson_(cinematographer)
+1,165,R. Surtees,http://dbpedia.org/resource/Bruce_Surtees,http://dbpedia.org/resource/Robert_L._Surtees_(cinematographer) http://dbpedia.org/resource/Robert_Surtees_(director_of_photography) http://dbpedia.org/resource/Robert_L._Surtees http://dbpedia.org/resource/Robert_Surtees_(cinematographer)
+1,166,M. Coulter,http://dbpedia.org/resource/Mary_Colter,http://dbpedia.org/resource/Michael_Coulter http://dbpedia.org/resource/Mick_Coulter
+1,167,D. Quinn,http://dbpedia.org/resource/Daniel_Quinn,http://dbpedia.org/resource/Declan_Quinn
+1,169,M. Barrett,http://dbpedia.org/resource/Majel_Barrett,http://dbpedia.org/resource/Michael_Barrett_(cinematographer)
+1,170,B. Richardson,http://dbpedia.org/resource/Bill_Richardson,http://dbpedia.org/resource/Ben_Richardson_(cinematographer)
+1,171,J. Hildyard,http://dbpedia.org/resource/David_Hildyard,http://dbpedia.org/resource/Jack_Hildyard
+1,172,A. B. Richmond,http://dbpedia.org/resource/Julius_B._Richmond,http://dbpedia.org/resource/Anthony_B._Richmond
+1,175,S. Roy,http://dbpedia.org/resource/Arundhati_Roy,http://dbpedia.org/resource/Soumendu_Roy
+1,176,S. Chatterjee,http://dbpedia.org/resource/Somnath_Chatterjee,http://dbpedia.org/resource/Sudeep_Chatterjee http://dbpedia.org/resource/Sudeep_Chatterjee_(cinematographer)
+1,177,S. Chatterjee,http://dbpedia.org/resource/Somnath_Chatterjee,http://dbpedia.org/resource/Sudeep_Chatterjee http://dbpedia.org/resource/Sudeep_Chatterjee_(cinematographer)
+1,178,H. Kristiansen,http://dbpedia.org/resource/Knut_Kristiansen,http://dbpedia.org/resource/Henning_Kristiansen
+1,182,S. V. Milton,http://dbpedia.org/resource/John_Milton,http://dbpedia.org/resource/Vijay_Milton http://dbpedia.org/resource/S.D._Vijay_Milton
+1,183,S. Reddy,http://dbpedia.org/resource/Surendran_Reddy,http://dbpedia.org/resource/Sameer_Reddy
+1,184,J. Schwartzman,http://dbpedia.org/resource/Jason_Schwartzman,http://dbpedia.org/resource/John_Schwartzman
+1,187,H. Rosson,http://dbpedia.org/resource/Helene_Rosson,http://dbpedia.org/resource/Harold_Rosson http://dbpedia.org/resource/Hal_Rosson
+1,191,P. James,http://dbpedia.org/resource/P._D._James,http://dbpedia.org/resource/Peter_James_(cinematographer)
+1,192,L. Ballard,http://dbpedia.org/resource/Lucinda_Ballard,http://dbpedia.org/resource/Lucien_Ballard
+1,193,H. Squire,http://dbpedia.org/resource/Chris_Squire,http://dbpedia.org/resource/Harry_E._Squire http://dbpedia.org/resource/Harry_Squire
+1,195,W. Mellor,http://dbpedia.org/resource/William_C._Mellor,http://dbpedia.org/resource/William_Mellor

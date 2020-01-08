@@ -1,0 +1,4 @@
+"F1: 0.84615","Precision: 0.84615","Recall: 0.84615"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"2","2","Swedish Rally","http://dbpedia.org/resource/Rally_Argentina","http://dbpedia.org/resource/International_Swedish_Rally http://dbpedia.org/resource/Swedish_rally http://dbpedia.org/resource/Midnight_Sun_Rally http://dbpedia.org/resource/Rally_to_the_Midnight_Sun http://dbpedia.org/resource/The_Swedish_Rally http://dbpedia.org/resource/Rally_Sweden http://dbpedia.org/resource/Uddeholm_Swedish_Rally http://dbpedia.org/resource/Swedish_Rally"
+"2","12","Rally Australia","http://dbpedia.org/resource/Rally_Argentina","http://dbpedia.org/resource/Rally_Australia http://dbpedia.org/resource/Telstra_Rally_Australia"

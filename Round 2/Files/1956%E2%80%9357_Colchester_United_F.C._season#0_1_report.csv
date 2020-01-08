@@ -1,0 +1,6 @@
+"F1: 0.80000","Precision: 0.80000","Recall: 0.80000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","2","John Wright","http://dbpedia.org/resource/John_Wright_(ice_hockey)","http://dbpedia.org/resource/John_Wright_(footballer_born_1933) http://dbpedia.org/resource/John_Wright_(footballer,_born_1933)"
+"1","8","Bertie Hill","http://dbpedia.org/resource/Bertie_Auld","http://dbpedia.org/resource/Bertie_Hill_(footballer)"
+"1","9","Ron Hunt","http://dbpedia.org/resource/Ron_Hunt_(footballer,_born_1945)","http://dbpedia.org/resource/Ron_Hunt_(footballer,_born_1933) http://dbpedia.org/resource/Ron_Hunt_(footballer_born_1933)"
+"1","14","Tommy Williams","http://dbpedia.org/resource/Tommy_Williams_(footballer,_born_1929)","http://dbpedia.org/resource/Tommy_Williams_(footballer,_born_1935) http://dbpedia.org/resource/Tommy_Williams_(footballer_born_1935)"

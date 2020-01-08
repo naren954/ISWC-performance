@@ -1,0 +1,5 @@
+F1: 0.25000,Precision: 0.25000,Recall: 0.25000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Kayseri Kaski,http://dbpedia.org/resource/Kayseri_Basketbol,http://dbpedia.org/resource/Abdullah_Gül_Üniversitesi_B.K. http://dbpedia.org/resource/Abdullah_Gul_Universitesi_B.K. http://dbpedia.org/resource/Kayseri_Kaski_S.K. http://dbpedia.org/resource/Kayseri_Kaski_Spor_Kulübü http://dbpedia.org/resource/Kayseri_Kaski
+0,2,Islas Canarias,http://dbpedia.org/resource/CB_Gran_Canaria,http://dbpedia.org/resource/Caja_Rural_Las_Palmas http://dbpedia.org/resource/CB_Islas_Canarias
+0,3,Arras,http://dbpedia.org/resource/Arras_FA,http://dbpedia.org/resource/BF_Arras http://dbpedia.org/resource/Arras_Pays_d'Artois http://dbpedia.org/resource/ASPTT_Arras

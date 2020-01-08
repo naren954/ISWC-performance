@@ -1,0 +1,4 @@
+"F1: 0.80000","Precision: 0.80000","Recall: 0.80000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","6","The Sun","http://dbpedia.org/resource/The_Sun_(United_Kingdom)","http://dbpedia.org/resource/Sun_Daily http://dbpedia.org/resource/The_Sun_Daily http://dbpedia.org/resource/The_Sun_(Hong_Kong)"
+"0","9","Sing Pao Daily","http://dbpedia.org/resource/Ming_Pao","http://dbpedia.org/resource/Sing_Pao_Daily_News http://dbpedia.org/resource/Sing_Pao"

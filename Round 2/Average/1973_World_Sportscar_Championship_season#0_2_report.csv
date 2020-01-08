@@ -1,0 +1,5 @@
+F1: 0.70000,Precision: 0.70000,Recall: 0.70000,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,4,Autodromo Nazionale Monza,http://dbpedia.org/resource/Mount_Panorama_Circuit,http://dbpedia.org/resource/Autodromo_Nazionale_di_Monza http://dbpedia.org/resource/Autodromo_Nazionale_Monza http://dbpedia.org/resource/Monza_motor_circuit http://dbpedia.org/resource/Monza_track
+2,6,Palermo,http://dbpedia.org/resource/Palermo_(Buenos_Aires_Underground),"http://dbpedia.org/resource/Little_Tondo http://dbpedia.org/resource/Palermo http://dbpedia.org/resource/Capital_of_Sicily http://dbpedia.org/resource/Palermo,_Sicily http://dbpedia.org/resource/Palerme http://dbpedia.org/resource/Palermo,_Italy http://dbpedia.org/resource/UN/LOCODE:ITPMO"
+2,9,Ã\u0096sterreichring,,http://dbpedia.org/resource/Österreichring

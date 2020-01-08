@@ -1,0 +1,4 @@
+F1: 0.33333,Precision: 0.33333,Recall: 0.33333,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,Michael Rutter,http://dbpedia.org/resource/Michael_Rutter_(motorcyclist),http://dbpedia.org/resource/Michael_Rutter_(motorcycle_racer)
+1,2,John McGuinness,http://dbpedia.org/resource/John_McGuinness_(motorcyclist),http://dbpedia.org/resource/John_McGuinness_(motorcycle_racer)

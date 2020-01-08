@@ -1,0 +1,6 @@
+F1: 0.63636,Precision: 0.63636,Recall: 0.63636,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Work,http://dbpedia.org/resource/Work_(Rihanna_song),http://dbpedia.org/resource/Work_(Jimmy_Eat_World_song)
+0,2,Work,http://dbpedia.org/resource/Work_(Rihanna_song),http://dbpedia.org/resource/Work_(Jars_Of_Clay_song) http://dbpedia.org/resource/Work_(Jars_of_Clay_song)
+0,3,Work,http://dbpedia.org/resource/Work_(Rihanna_song),http://dbpedia.org/resource/Work_(Iggy_Azalea_song)
+0,8,Words of Love,http://dbpedia.org/resource/You_Can_Do_That,http://dbpedia.org/resource/Words_of_Love_(The_Mamas_and_the_Papas_song) http://dbpedia.org/resource/Words_of_Love_(The_Mamas_&_the_Papas_song)

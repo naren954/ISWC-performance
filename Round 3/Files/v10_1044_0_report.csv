@@ -1,0 +1,5 @@
+"F1: 0.95946","Precision: 0.95946","Recall: 0.95946"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","26","B. Scott","http://dbpedia.org/resource/Brian_Scott","http://dbpedia.org/resource/Bob_Scott_(racind_driver) http://dbpedia.org/resource/Bob_Scott_(auto_racer) http://dbpedia.org/resource/Bob_Scott_(racing_driver)"
+"0","63","A. Simon","http://dbpedia.org/resource/Simón_Bolívar","http://dbpedia.org/resource/André_Simon_(racing_driver) http://dbpedia.org/resource/Andre_Simon_(racing_driver)"
+"0","71","A. Simon","http://dbpedia.org/resource/Simón_Bolívar","http://dbpedia.org/resource/André_Simon_(racing_driver) http://dbpedia.org/resource/Andre_Simon_(racing_driver)"

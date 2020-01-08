@@ -1,0 +1,4 @@
+F1: 0.50000,Precision: 0.50000,Recall: 0.50000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,4,Woodfarm High School,http://dbpedia.org/resource/Boys_High_School_(Brooklyn),http://dbpedia.org/resource/Woodfarm_high_school http://dbpedia.org/resource/Braidbar_primary_school http://dbpedia.org/resource/Woodfarm_High_School http://dbpedia.org/resource/Braidbar_Primary_School
+0,5,Glasgow Academy,http://dbpedia.org/resource/Bellahouston_Academy,http://dbpedia.org/resource/Glasgow_academy http://dbpedia.org/resource/Westbourne_School_for_Girls http://dbpedia.org/resource/The_Glasgow_Academy http://dbpedia.org/resource/Glasgow_Academy

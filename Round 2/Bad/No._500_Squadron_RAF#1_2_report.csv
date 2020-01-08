@@ -1,0 +1,12 @@
+F1: 0.33333,Precision: 0.33333,Recall: 0.33333,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,1,"RAF Manston, Kent","http://dbpedia.org/resource/Manston,_Kent",http://dbpedia.org/resource/RNAS_Manston http://dbpedia.org/resource/Manston_Royal_Air_Force_Station http://dbpedia.org/resource/Manston_Air_Field http://dbpedia.org/resource/RAF_Manston
+2,2,"RAF Detling, Kent",http://dbpedia.org/resource/Detling,http://dbpedia.org/resource/RNAS_Detling http://dbpedia.org/resource/RAF_Detling http://dbpedia.org/resource/Detling_Airfield
+2,3,"RAF Warmwell, Dorset",http://dbpedia.org/resource/Warmwell,http://dbpedia.org/resource/RAF_Warmwell
+2,5,"RAF Bircham Newton, Norfolk",http://dbpedia.org/resource/Bircham_Newton,http://dbpedia.org/resource/RNAS_Bircham_Newton http://dbpedia.org/resource/RAF_Bircham_Newton
+2,6,"RAF Stornoway, Western Isles, Scotland",http://dbpedia.org/resource/Western_Isles_Hospital,http://dbpedia.org/resource/RNAS_Stornoway http://dbpedia.org/resource/RAF_Stornoway http://dbpedia.org/resource/HMS_Mentor_II
+2,7,"RAF St Eval, Cornwall",http://dbpedia.org/resource/St_Eval,http://dbpedia.org/resource/RAF_St_Eval http://dbpedia.org/resource/RAF_St._Eval http://dbpedia.org/resource/RAF_St.Eval
+2,8,RAF Gibraltar,http://dbpedia.org/resource/Gibraltar,http://dbpedia.org/resource/RAF_Gibraltar http://dbpedia.org/resource/Gibraltar_airstrip http://dbpedia.org/resource/RAF_North_Front
+2,9,"RAF Tafaraoui, Algeria",http://dbpedia.org/resource/Blida,http://dbpedia.org/resource/Tafaraoui http://dbpedia.org/resource/Tafaroui http://dbpedia.org/resource/Tafraoui
+2,19,"RAF Eastleigh, Kenya","http://dbpedia.org/resource/Eastleigh,_Nairobi",http://dbpedia.org/resource/RAF_Eastleigh http://dbpedia.org/resource/Moi_Airbase http://dbpedia.org/resource/HKRE http://dbpedia.org/resource/Eastleigh_Airport http://dbpedia.org/resource/Moi_Air_Base
+2,20,"RAF West Malling, Kent",http://dbpedia.org/resource/West_Malling,"http://dbpedia.org/resource/RNAS_West_Malling http://dbpedia.org/resource/RAF_West_Malling http://dbpedia.org/resource/Maidstone_Airport,_Kent http://dbpedia.org/resource/Kingshill_Aerodrome http://dbpedia.org/resource/Kingshill_Airfield"

@@ -1,0 +1,6 @@
+"F1: 0.84000","Precision: 0.84000","Recall: 0.84000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","5","San Bruno elfin butterfly","http://dbpedia.org/resource/San_Bruno_elfin","http://dbpedia.org/resource/Incisalia_mossii_bayensis http://dbpedia.org/resource/San_bruno_elfin_butterfly http://dbpedia.org/resource/San_Bruno_elfin_butterfly http://dbpedia.org/resource/Callophrys_mossii_bayensis"
+"0","14","Northern white rhinoceros","http://dbpedia.org/resource/White_rhinoceros","http://dbpedia.org/resource/Northern_White_Rhinoceros http://dbpedia.org/resource/Northern_white_rhinoceros http://dbpedia.org/resource/Northern_White_Rhino http://dbpedia.org/resource/Ceratotherium_cottoni http://dbpedia.org/resource/Ceratotherium_simum_cottoni http://dbpedia.org/resource/Northern_white_rhino"
+"0","15","Myrtle's silverspot butterfly","http://dbpedia.org/resource/Speyeria_zerene_hippolyta","http://dbpedia.org/resource/Speyeria_zerene_behrensii http://dbpedia.org/resource/Myrtle's_Silverspot_Butterfly http://dbpedia.org/resource/Myrtle's_silverspot_butterfly http://dbpedia.org/resource/Speyeria_zerene_myrtleae"
+"0","22","Cyclura cornuta onchiopsis","http://dbpedia.org/resource/Rhinoceros_iguana","http://dbpedia.org/resource/Cyclura_cornuta_onchiopsis"

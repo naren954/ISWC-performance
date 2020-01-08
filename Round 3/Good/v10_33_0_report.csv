@@ -1,0 +1,6 @@
+F1: 0.86667,Precision: 0.86667,Recall: 0.86667,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,W. H. Wood,http://dbpedia.org/resource/William_H._Wood_(American_football),http://dbpedia.org/resource/William_H._Wood
+0,6,W. Glossom,http://dbpedia.org/resource/William_Glosson,http://dbpedia.org/resource/William_Glossom
+0,27,W. Abbott,http://dbpedia.org/resource/Walter_Abbott_(American_football),http://dbpedia.org/resource/Wesley_Abbott http://dbpedia.org/resource/Westley_Abbott
+0,28,W. Moulton,http://dbpedia.org/resource/Edward_Moulton,http://dbpedia.org/resource/Westcott_Moulton

@@ -1,0 +1,62 @@
+F1: 0.40000,Precision: 0.40000,Recall: 0.40000,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,6,(I've Had) The Time of My Life,http://dbpedia.org/resource/World_War_II,http://dbpedia.org/resource/(I've_Had)_the_Time_of_My_Life http://dbpedia.org/resource/I've_had_the_time_of_my_life http://dbpedia.org/resource/(I've_Had)_The_Time_of_My_Life
+2,8,J. Zuckerman,http://dbpedia.org/resource/Josh_Zuckerman,http://dbpedia.org/resource/Jeremy_Zuckerman
+2,9,B. E. King,http://dbpedia.org/resource/B.B._King,http://dbpedia.org/resource/Ben_E._King http://dbpedia.org/resource/Benjamin_Earl_Nelson http://dbpedia.org/resource/Heart_&_Soul_(Ben_E._King_album) http://dbpedia.org/resource/Benny_King http://dbpedia.org/resource/Ben_E_King
+2,11,D. Bell,http://dbpedia.org/resource/Derek_Bell_(musician),http://dbpedia.org/resource/David_Bell_(composer)
+2,13,D. McCarthy,http://dbpedia.org/resource/Kevin_McCarthy_(actor),http://dbpedia.org/resource/Dennis_McCarthy_(composer)
+2,14,S. t. Love,http://dbpedia.org/resource/LL_Cool_J,http://dbpedia.org/resource/Somebody_to_Love_(Jefferson_Airplane) http://dbpedia.org/resource/Don't_you_want_somebody_to_love http://dbpedia.org/resource/Somebody_to_Love_(Jefferson_Airplane_song) http://dbpedia.org/resource/Somebody_to_Love_(Boogie_Pimps_song)
+2,16,D. Bell,http://dbpedia.org/resource/Derek_Bell_(musician),http://dbpedia.org/resource/David_Bell_(composer)
+2,17,B. t. Beguine,http://dbpedia.org/resource/B._T._Collins,http://dbpedia.org/resource/Begin_The_Beguine http://dbpedia.org/resource/Begin_the_Beguine http://dbpedia.org/resource/Begin_the_beguine
+2,18,T. Muses,http://dbpedia.org/resource/Ancient_Greece,http://dbpedia.org/resource/Throwing_muses http://dbpedia.org/resource/Throwing_Muses
+2,19,D. McCarthy,http://dbpedia.org/resource/Kevin_McCarthy_(actor),http://dbpedia.org/resource/Dennis_McCarthy_(composer)
+2,21,R. Jones,http://dbpedia.org/resource/Donell_Jones,http://dbpedia.org/resource/Ron_Jones_(composer)
+2,23,D. Bell,http://dbpedia.org/resource/Derek_Bell_(musician),http://dbpedia.org/resource/David_Bell_(composer)
+2,25,M. F. Valentine,http://dbpedia.org/resource/Jean_Valentine,http://dbpedia.org/resource/My_Funny_Valentine
+2,28,S. N. 9,http://dbpedia.org/resource/United_States_Navy,"http://dbpedia.org/resource/Beethoven's_9th_symphony http://dbpedia.org/resource/Symphony_No._9_in_D_minor,_Opus_125_(Beethoven) http://dbpedia.org/resource/Beethoven’s_Ninth_Symphony http://dbpedia.org/resource/Ode_to_Joy_(Beethoven) http://dbpedia.org/resource/Beethoven_9th http://dbpedia.org/resource/Beethoven_ninth http://dbpedia.org/resource/D_Minor_Symphony http://dbpedia.org/resource/Beethoven’s_9th_symphony http://dbpedia.org/resource/Ninth_Symphony_(Beethoven) http://dbpedia.org/resource/Symphony_9_(Beethoven) http://dbpedia.org/resource/Ludwig_Van_Beethoven's_Ninth_Symphony http://dbpedia.org/resource/Beethoven_9 http://dbpedia.org/resource/Ode_to_joy_notes http://dbpedia.org/resource/Symphony_n°9,_d-minor,_op.125 http://dbpedia.org/resource/Symphony_ndeg9,_d-minor,_op.125 http://dbpedia.org/resource/Beethoven's_Ninth_Symphony_In_D_Minor http://dbpedia.org/resource/Beethoven/Symphony_9 http://dbpedia.org/resource/Beethoven's_Ninth_Symphony http://dbpedia.org/resource/Beethoven_ninth_symphony http://dbpedia.org/resource/Beethovens_Ninth http://dbpedia.org/resource/Beethoven's_ninth_symphony http://dbpedia.org/resource/Choral_Symphony http://dbpedia.org/resource/Allegro_energico,_sempre_ben_marcato http://dbpedia.org/resource/Beethoven's_Ninth http://dbpedia.org/resource/Beethoven_symphony_9 http://dbpedia.org/resource/Beethoven's_9th_Symphony http://dbpedia.org/resource/Beethoven's_9th http://dbpedia.org/resource/Symphony_No._9_(Beethoven) http://dbpedia.org/resource/Symphony_no._9_(Beethoven)"
+2,29,P. Brewis,http://dbpedia.org/resource/Hannes_Brewis,http://dbpedia.org/resource/Peter_Brewis
+2,32,D. McCarthy,http://dbpedia.org/resource/Kevin_McCarthy_(actor),http://dbpedia.org/resource/Dennis_McCarthy_(composer)
+2,33,D. McCarthy,http://dbpedia.org/resource/Kevin_McCarthy_(actor),http://dbpedia.org/resource/Dennis_McCarthy_(composer)
+2,34,D. McCarthy,http://dbpedia.org/resource/Kevin_McCarthy_(actor),http://dbpedia.org/resource/Dennis_McCarthy_(composer)
+2,36,P. Baillargeon,http://dbpedia.org/resource/Pascal_Baillargeon,http://dbpedia.org/resource/Paul_Baillargeon
+2,37,D. McCarthy,http://dbpedia.org/resource/Kevin_McCarthy_(actor),http://dbpedia.org/resource/Dennis_McCarthy_(composer)
+2,39,R. Jones,http://dbpedia.org/resource/Donell_Jones,http://dbpedia.org/resource/Ron_Jones_(composer)
+2,40,Animal,http://dbpedia.org/resource/Road_Warrior_Animal,http://dbpedia.org/resource/Animal_(Neon_Trees_song)
+2,41,D. Porter,http://dbpedia.org/resource/David_Porter_(musician),http://dbpedia.org/resource/Dave_Porter_(composer)
+2,42,D. S. Believin',http://dbpedia.org/resource/S.O.S._(Too_Bad),http://dbpedia.org/resource/Journey_-_Don't_Stop_Believin' http://dbpedia.org/resource/Dont_Stop_Believing http://dbpedia.org/resource/Don't_Stop_Believin http://dbpedia.org/resource/Don't_Stop_Believin'_(Glee) http://dbpedia.org/resource/Don't_Stop_Believing_(song) http://dbpedia.org/resource/Don't_stop_believing http://dbpedia.org/resource/Dont_stop_believin http://dbpedia.org/resource/Don't_Stop_Belivin' http://dbpedia.org/resource/Don't_Stop_Believin'_(disambiguation) http://dbpedia.org/resource/Don't_Stop_Believin'_(Glee_song) http://dbpedia.org/resource/Don't_Stop_Believin' http://dbpedia.org/resource/Don't_Stop_Believin'_(Glee_Cast_song) http://dbpedia.org/resource/Just_a_Small_Town_Girl http://dbpedia.org/resource/Don't_stop_belevin http://dbpedia.org/resource/I_smell_of_wine_and_cheap_perfume
+2,44,D. Bell,http://dbpedia.org/resource/Derek_Bell_(musician),http://dbpedia.org/resource/David_Bell_(composer)
+2,45,L. Johnson,http://dbpedia.org/resource/Lyndon_B._Johnson,http://dbpedia.org/resource/Laurie_Johnson
+2,46,D. McCarthy,http://dbpedia.org/resource/Kevin_McCarthy_(actor),http://dbpedia.org/resource/Dennis_McCarthy_(composer)
+2,47,D. McCarthy,http://dbpedia.org/resource/Kevin_McCarthy_(actor),http://dbpedia.org/resource/Dennis_McCarthy_(composer)
+2,50,D. McCarthy,http://dbpedia.org/resource/Kevin_McCarthy_(actor),http://dbpedia.org/resource/Dennis_McCarthy_(composer)
+2,51,D. Porter,http://dbpedia.org/resource/David_Porter_(musician),http://dbpedia.org/resource/Dave_Porter_(composer)
+2,52,B. Rhapsody,http://dbpedia.org/resource/Rhapsody_of_Fire,http://dbpedia.org/resource/Bohemian_Rapsody http://dbpedia.org/resource/Bohemian_Rhapsody_(song) http://dbpedia.org/resource/Bohemian_Rhapsody_(1991_Version) http://dbpedia.org/resource/Bohemian_Rapcity http://dbpedia.org/resource/Bo_Rhap http://dbpedia.org/resource/Bohamian_Rhapsody http://dbpedia.org/resource/Fred's_thing http://dbpedia.org/resource/Bohemian_Rhapsody http://dbpedia.org/resource/Bohemian_rapsody http://dbpedia.org/resource/Bo_Rap http://dbpedia.org/resource/Bohemian_rhapsody http://dbpedia.org/resource/Bohemian_gravity http://dbpedia.org/resource/Bohemian_Rap_City http://dbpedia.org/resource/BoRhap http://dbpedia.org/resource/Bohemian_Gravity
+2,53,D. McCarthy,http://dbpedia.org/resource/Kevin_McCarthy_(actor),http://dbpedia.org/resource/Dennis_McCarthy_(composer)
+2,54,D. McCarthy,http://dbpedia.org/resource/Kevin_McCarthy_(actor),http://dbpedia.org/resource/Dennis_McCarthy_(composer)
+2,55,O. You,http://dbpedia.org/resource/Only_You_(And_You_Alone),http://dbpedia.org/resource/Only_You_(The_Flying_Pickets_song) http://dbpedia.org/resource/Solo_en_ti http://dbpedia.org/resource/Only_You_(Yazoo_song)
+2,56,D. Bell,http://dbpedia.org/resource/Derek_Bell_(musician),http://dbpedia.org/resource/David_Bell_(composer)
+2,59,Sunny,http://dbpedia.org/resource/Sunny_(singer),http://dbpedia.org/resource/Sunny_(single) http://dbpedia.org/resource/Sunny_(Bobby_Hebb_song) http://dbpedia.org/resource/Sunny_(Boney_M._song) http://dbpedia.org/resource/Sunny_(song) http://dbpedia.org/resource/Sunny_(Boney_M_song) http://dbpedia.org/resource/Sunny_/_Cher_Song
+2,60,T. Chain,http://es.dbpedia.org/resource/Juan_Andrés_Ramírez_Chain,http://dbpedia.org/resource/The_Chain http://dbpedia.org/resource/The_Chain_(song) http://dbpedia.org/resource/The_Chain_(Tantric_song)
+2,62,D. McCarthy,http://dbpedia.org/resource/Kevin_McCarthy_(actor),http://dbpedia.org/resource/Dennis_McCarthy_(composer)
+2,63,P. Baillargeon,http://dbpedia.org/resource/Pascal_Baillargeon,http://dbpedia.org/resource/Paul_Baillargeon
+2,65,D. Bell,http://dbpedia.org/resource/Derek_Bell_(musician),http://dbpedia.org/resource/David_Bell_(composer)
+2,66,T. D. Comedy,http://dbpedia.org/resource/Stand_Up_Comedy_(song),http://dbpedia.org/resource/The_Divine_Comedy_(band) http://dbpedia.org/resource/Divine_Comedy_(band)
+2,71,D. Bell,http://dbpedia.org/resource/Derek_Bell_(musician),http://dbpedia.org/resource/David_Bell_(composer)
+2,72,R. Jones,http://dbpedia.org/resource/Donell_Jones,http://dbpedia.org/resource/Ron_Jones_(composer)
+2,76,D. McCarthy,http://dbpedia.org/resource/Kevin_McCarthy_(actor),http://dbpedia.org/resource/Dennis_McCarthy_(composer)
+2,77,D. McCarthy,http://dbpedia.org/resource/Kevin_McCarthy_(actor),http://dbpedia.org/resource/Dennis_McCarthy_(composer)
+2,80,P. Baillargeon,http://dbpedia.org/resource/Pascal_Baillargeon,http://dbpedia.org/resource/Paul_Baillargeon
+2,81,D. McCarthy,http://dbpedia.org/resource/Kevin_McCarthy_(actor),http://dbpedia.org/resource/Dennis_McCarthy_(composer)
+2,83,D. Bell,http://dbpedia.org/resource/Derek_Bell_(musician),http://dbpedia.org/resource/David_Bell_(composer)
+2,85,D. McCarthy,http://dbpedia.org/resource/Kevin_McCarthy_(actor),http://dbpedia.org/resource/Dennis_McCarthy_(composer)
+2,87,B. Tyler,http://dbpedia.org/resource/Bonnie_Tyler,"http://dbpedia.org/resource/Brian_Tyler_(composer) http://dbpedia.org/resource/Brian_Tyler http://dbpedia.org/resource/Tyler,_Brian"
+2,89,D. McCarthy,http://dbpedia.org/resource/Kevin_McCarthy_(actor),http://dbpedia.org/resource/Dennis_McCarthy_(composer)
+2,91,J. Richmond,http://dbpedia.org/resource/June_Richmond,http://dbpedia.org/resource/Jeff_Richmond
+2,92,D. McCarthy,http://dbpedia.org/resource/Kevin_McCarthy_(actor),http://dbpedia.org/resource/Dennis_McCarthy_(composer)
+2,93,R. Jones,http://dbpedia.org/resource/Donell_Jones,http://dbpedia.org/resource/Ron_Jones_(composer)
+2,94,P. Baillargeon,http://dbpedia.org/resource/Pascal_Baillargeon,http://dbpedia.org/resource/Paul_Baillargeon
+2,95,I. t. Groove,,http://dbpedia.org/resource/Into_the_Groovey http://dbpedia.org/resource/Get_into_the_groove http://dbpedia.org/resource/Into_the_Groove http://dbpedia.org/resource/Into_The_Groove http://dbpedia.org/resource/Into_the_Groovy
+2,96,Run,http://dbpedia.org/resource/Joseph_Simmons,http://dbpedia.org/resource/Run_(Leona_Lewis_cover) http://dbpedia.org/resource/Ameritz_Karaoke http://dbpedia.org/resource/Run_(Leona_cover) http://dbpedia.org/resource/Run_(Leona_song) http://dbpedia.org/resource/Run_(Snow_Patrol_song) http://dbpedia.org/resource/Run_(Leona_Lewis_single) http://dbpedia.org/resource/Run_(snow_patrol_song) http://dbpedia.org/resource/Leona_Lewis_-_Run http://dbpedia.org/resource/Run_(Snow_Patrol_single) http://dbpedia.org/resource/Run_(Snow_Patrol) http://dbpedia.org/resource/Run_Snow_Patrol http://dbpedia.org/resource/Run_(Leona_Lewis_song) http://dbpedia.org/resource/Run_leona_lewis
+2,97,T. N. Teens,http://dbpedia.org/resource/T.N.T._(song),http://dbpedia.org/resource/The_Nashville_Teens http://dbpedia.org/resource/Nashville_Teens
+2,99,D. McCarthy,http://dbpedia.org/resource/Kevin_McCarthy_(actor),http://dbpedia.org/resource/Dennis_McCarthy_(composer)
+2,100,D. Queen,http://dbpedia.org/resource/Elizabeth_II,http://dbpedia.org/resource/Dancing_Queen_(A*Teens_song) http://dbpedia.org/resource/Dancing_Queen_(single) http://dbpedia.org/resource/Dancing_Queen_(A*Teens) http://dbpedia.org/resource/Dancing_Queen_(song) http://dbpedia.org/resource/Dancing_Queen http://dbpedia.org/resource/Abbacadabra_(group)

@@ -1,0 +1,9 @@
+F1: 0.56250,Precision: 0.56250,Recall: 0.56250,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,4,Alta Velocidad EspaÃ±ola,http://dbpedia.org/resource/AVE,http://dbpedia.org/resource/Alta_Velocidad_Española
+0,6,CrossCountry,http://dbpedia.org/resource/Cross_Country_Route,http://dbpedia.org/resource/Cross-Country_Franchise http://dbpedia.org/resource/Arriva_XC http://dbpedia.org/resource/Crosscountry http://dbpedia.org/resource/Cross_Country_Franchise http://dbpedia.org/resource/Arriva_Cross_Country http://dbpedia.org/resource/CrossCountry http://dbpedia.org/resource/XC_Trains http://dbpedia.org/resource/Cross_Country_Trains http://dbpedia.org/resource/Arriva_CrossCountry http://dbpedia.org/resource/Cardiff_Central_to_Nottingham_Route http://dbpedia.org/resource/Cross_country_trains http://dbpedia.org/resource/CrossCountry_Trains http://dbpedia.org/resource/Arriva_Trains_Cross_Country
+0,7,EuroCity,http://dbpedia.org/resource/Cisalpino,http://dbpedia.org/resource/Ec_train http://dbpedia.org/resource/Eurocity http://dbpedia.org/resource/EuroCity
+0,8,Euromed,http://dbpedia.org/resource/AVE,http://dbpedia.org/resource/AVE_Class_101 http://dbpedia.org/resource/Euromed_(train)
+0,10,Frecce,http://dbpedia.org/resource/Arrow,http://dbpedia.org/resource/Italian_Eurostar http://dbpedia.org/resource/Eurostar_Italia http://dbpedia.org/resource/EuroStar_Italia
+0,11,Intercity Direct,http://dbpedia.org/resource/Fyra,http://dbpedia.org/resource/Intercity_Direct
+0,18,X 2000,http://dbpedia.org/resource/SJ_X2,http://dbpedia.org/resource/SJ_2000 http://dbpedia.org/resource/X_2000

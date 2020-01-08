@@ -1,0 +1,4 @@
+F1: 0.85714,Precision: 0.85714,Recall: 0.85714,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,4,2007 US Open,http://dbpedia.org/resource/2015_US_Open_(tennis),http://dbpedia.org/resource/2007_U_S_Open_(tennis) http://dbpedia.org/resource/Us_open_2007 http://dbpedia.org/resource/2007_US_Open_(tennis) http://dbpedia.org/resource/2007_u.s._open_(tennis) http://dbpedia.org/resource/2007_U_S_Open_Seeds http://dbpedia.org/resource/2007_U_S_Open http://dbpedia.org/resource/2007_US_Open_Seeds http://dbpedia.org/resource/2007_U._S._Open_Seeds http://dbpedia.org/resource/2007_U._S._Open http://dbpedia.org/resource/2007_U.S._Open_(tennis) http://dbpedia.org/resource/2007_U.S._Open_Seeds http://dbpedia.org/resource/2007_U._S._Open_(tennis)
+0,6,2002 US Open,http://dbpedia.org/resource/2015_US_Open_(tennis),http://dbpedia.org/resource/2002_U.S._Open_(tennis) http://dbpedia.org/resource/2002_United_States_Open http://dbpedia.org/resource/2002_US_Open_(tennis)

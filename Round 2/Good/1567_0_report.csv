@@ -1,0 +1,5 @@
+F1: 0.92683,Precision: 0.92683,Recall: 0.92683,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,11,J. C. Davis,http://dbpedia.org/resource/Joseph_J._Davis,http://dbpedia.org/resource/John_Caswell_Davis
+0,31,D. Chávez,http://dbpedia.org/resource/Hugo_Chávez,http://dbpedia.org/resource/Dennis_Wyatt_Chavez http://dbpedia.org/resource/Dennis_Chavez http://dbpedia.org/resource/Dennis_Benjamin_Chavez http://dbpedia.org/resource/Dennis_Chávez
+0,40,A. T. Mason,http://dbpedia.org/resource/Stevens_Thomson_Mason_(Virginia),http://dbpedia.org/resource/Armistead_Thompson_Mason http://dbpedia.org/resource/Armistead_Thomson_Mason http://dbpedia.org/resource/Armistead_T._Mason http://dbpedia.org/resource/Armistead_Mason

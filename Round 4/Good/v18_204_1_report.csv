@@ -1,0 +1,7 @@
+F1: 0.88636,Precision: 0.88636,Recall: 0.88636,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,2,J. Turner,http://dbpedia.org/resource/Jeff_Turner,http://dbpedia.org/resource/Jason_Turner_(figure_skater)
+1,24,C. Reed,http://dbpedia.org/resource/Chris_Reed_(figure_skater),http://dbpedia.org/resource/Cathy_Reed
+1,30,A. Souza-Kordeyru,http://dbpedia.org/resource/Antonio_Souza-Kordeiru,http://dbpedia.org/resource/Antonio_Souza-Kordyeru http://dbpedia.org/resource/Antonio_Souza-Kordeyru http://dbpedia.org/resource/Antonino_Souza-Kordyeru
+1,33,D. Copely,http://dbpedia.org/resource/Katherine_Copely,http://dbpedia.org/resource/Dean_Copely
+1,41,N. Zabijako,http://dbpedia.org/resource/Natalya_Zabiyako,http://dbpedia.org/resource/Natalia_Zabijako http://dbpedia.org/resource/Natalja_Zabijako

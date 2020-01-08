@@ -1,0 +1,5 @@
+"F1: 0.62500","Precision: 0.62500","Recall: 0.62500"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","1","W. Collins","http://dbpedia.org/resource/Wilkie_Collins","http://dbpedia.org/resource/William_Collins_(bishop) http://dbpedia.org/resource/William_Edward_Collins"
+"0","2","T. Spurgeon","http://dbpedia.org/resource/Charles_Spurgeon","http://dbpedia.org/resource/Thomas_Spurgeon"
+"0","3","R. Leighton","http://dbpedia.org/resource/Roland_Leighton","http://dbpedia.org/resource/Robert_Leighton_(educator) http://dbpedia.org/resource/Robert_Leighton_(bishop) http://dbpedia.org/resource/Robert_Leighton_(prelate)"

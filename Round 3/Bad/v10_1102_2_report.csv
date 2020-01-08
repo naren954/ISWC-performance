@@ -1,0 +1,6 @@
+F1: 0.50000,Precision: 0.50000,Recall: 0.50000,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,1,R. Fox,http://dbpedia.org/resource/Robin_Fox_(theatrical_agent),"http://dbpedia.org/resource/Rick_Fox http://dbpedia.org/resource/Ulrich_Alexander_""Rick""_Fox http://dbpedia.org/resource/Ulrich_Alexander_Fox"
+2,2,C. Ponti,http://dbpedia.org/resource/Gio_Ponti,http://dbpedia.org/resource/Carlo_Ponti
+2,6,R. Roy,http://fr.dbpedia.org/resource/Raoul_Roy_(folkloriste),http://dbpedia.org/resource/Rachel_roy http://dbpedia.org/resource/Rachel_Roy
+2,8,A. Ramirez,http://dbpedia.org/resource/García_Ramírez_of_Navarre,http://dbpedia.org/resource/Abner_Ramirez http://dbpedia.org/resource/Johnnyswim http://dbpedia.org/resource/Georgica_Pond_(album) http://dbpedia.org/resource/A_Johnnyswim_Christmas

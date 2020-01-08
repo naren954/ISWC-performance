@@ -1,0 +1,5 @@
+"F1: 0.57143","Precision: 0.57143","Recall: 0.57143"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","1","Ş. Ömer","http://dbpedia.org/resource/Umar","http://dbpedia.org/resource/Sehzade_Omer http://dbpedia.org/resource/Şehzade_Ömer"
+"1","5","L. A. Cavendish-Bentinck","http://dbpedia.org/resource/Lord_Charles_Bentinck","http://dbpedia.org/resource/Anne_Cavendish-Bentinck http://dbpedia.org/resource/Lady_Anne_Cavendish-Bentinck"
+"1","7","M. III","http://dbpedia.org/resource/Murad_III","http://dbpedia.org/resource/Mustapha_III http://dbpedia.org/resource/Sultan_Mustapha_III http://dbpedia.org/resource/Mustafa_III"

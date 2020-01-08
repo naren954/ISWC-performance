@@ -1,0 +1,6 @@
+F1: 0.87879,Precision: 0.87879,Recall: 0.87879,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,12,Aditya Patel,http://dbpedia.org/resource/Aditya_Joshi,http://dbpedia.org/resource/Aditya_Patel http://dbpedia.org/resource/Aditya_patel
+1,36,Krzysztof HoÅ\u0082owczyc,http://dbpedia.org/resource/Krzysztof_Kiersznowski,http://dbpedia.org/resource/Krzysztof_Hołowczyc
+1,38,Ralf Kelleners,http://dbpedia.org/resource/Ralf_Büchner,http://dbpedia.org/resource/Ralph_Kelleners http://dbpedia.org/resource/Ralf_Kelleners
+1,41,Sabine Schmitz,http://dbpedia.org/resource/Sabine_Jahn,http://dbpedia.org/resource/Sabine_Reck http://dbpedia.org/resource/Sabine_Schmidt http://dbpedia.org/resource/Sabine_Schmitz

@@ -1,0 +1,7 @@
+F1: 0.28571,Precision: 0.28571,Recall: 0.28571,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,CaransebeÈ\u0099,http://dbpedia.org/resource/ACS_Viitorul_Caransebeș,http://dbpedia.org/resource/FC_Caransebeș
+1,3,FC Hunedoara,http://dbpedia.org/resource/FC_Corvinul_Hunedoara,http://dbpedia.org/resource/FC_Hunedoara http://dbpedia.org/resource/CS_Hunedoara
+1,5,Pandurii II TÃ¢rgu Jiu,http://dbpedia.org/resource/CS_Pandurii_Târgu_Jiu,http://dbpedia.org/resource/CS_Pandurii_II_Târgu_Jiu
+1,9,Muncitorul ReÈ\u0099iÈ\u009Ba,http://dbpedia.org/resource/ACS_Sticla_Arieșul_Turda,http://dbpedia.org/resource/CS_Muncitorul_Reșița
+1,10,FCM ReÈ\u0099iÈ\u009Ba,http://dbpedia.org/resource/1._FC_Magdeburg,http://dbpedia.org/resource/FCM_Reșița

@@ -1,0 +1,6 @@
+F1: 0.73333,Precision: 0.73333,Recall: 0.73333,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Young and Beautiful,http://dbpedia.org/resource/Young_and_Beautiful_(Lana_Del_Rey_song),http://dbpedia.org/resource/Young_and_Beautiful_(Elvis_Presley_song)
+0,7,The Eleven,http://dbpedia.org/resource/Finger_Eleven_(album),http://dbpedia.org/resource/The_Eleven
+0,9,Sweet Thing,http://dbpedia.org/resource/Sweet_Thing_(David_Bowie_song),http://dbpedia.org/resource/Sweet_Thing_(Van_Morrison_song)
+0,15,One Short Day,http://dbpedia.org/resource/One_Day_at_a_Time_(Em's_Version),http://dbpedia.org/resource/One_Short_Day

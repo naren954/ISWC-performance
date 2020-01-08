@@ -1,0 +1,4 @@
+F1: 0.33333,Precision: 0.33333,Recall: 0.33333,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,2,Ã\u0093scar Figueroa (COL),http://dbpedia.org/resource/Omar_Figueroa,http://dbpedia.org/resource/Óscar_Figueroa_(weightlifter)
+1,4,TomÃ¡s Arias (DOM),http://es.dbpedia.org/resource/Tomás_Arias_(Argentina),http://dbpedia.org/resource/Tomás_Arias

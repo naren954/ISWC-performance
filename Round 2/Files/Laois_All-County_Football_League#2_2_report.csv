@@ -1,0 +1,6 @@
+"F1: 0.73333","Precision: 0.73333","Recall: 0.73333"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"2","1","O'Dempseys","http://dbpedia.org/resource/O'Dempseys_GAA","http://dbpedia.org/resource/O'Dempseys"
+"2","12","Harps","http://dbpedia.org/resource/Finn_Harps_F.C.","http://dbpedia.org/resource/The_Harps_GAA http://dbpedia.org/resource/Harps_GAA"
+"2","13","Ballyroan","http://dbpedia.org/resource/Ballyroan_Abbey_GAA","http://dbpedia.org/resource/Ballyroan_GAA"
+"2","22","Harps","http://dbpedia.org/resource/Finn_Harps_F.C.","http://dbpedia.org/resource/The_Harps_GAA http://dbpedia.org/resource/Harps_GAA"

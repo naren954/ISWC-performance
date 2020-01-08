@@ -1,0 +1,5 @@
+F1: 0.25000,Precision: 0.25000,Recall: 0.25000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,AndrÃ© Dias,http://dbpedia.org/resource/Day_of_the_Outlaw,http://dbpedia.org/resource/André_Dias
+0,2,Miranda,http://dbpedia.org/resource/Miranda_de_Ebro,http://dbpedia.org/resource/Miranda_(footballer) http://dbpedia.org/resource/João_Miranda_(footballer) http://dbpedia.org/resource/Joao_Miranda_de_Souza_Filho http://dbpedia.org/resource/João_Miranda_de_Souza_Filho
+0,3,Washington,"http://dbpedia.org/resource/Washington,_D.C.",http://dbpedia.org/resource/Washington_(footballer) http://dbpedia.org/resource/Washington_Stecanelo_Cerqueira http://dbpedia.org/resource/Washington_Stecanela_Cerqueira

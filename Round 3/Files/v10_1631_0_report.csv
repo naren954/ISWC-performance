@@ -1,0 +1,6 @@
+"F1: 0.33333","Precision: 0.33333","Recall: 0.33333"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","3","M. Scott","http://dbpedia.org/resource/Michael_Scott_(footballer)","http://dbpedia.org/resource/Mason_Scott"
+"0","4","J. Howard","http://dbpedia.org/resource/Josh_Howard","http://dbpedia.org/resource/Jake_Howard"
+"0","5","G. Wood","http://dbpedia.org/resource/George_Wood_(cricketer,_born_1893)","http://dbpedia.org/resource/Gordon_Wood_(rugby_union) http://dbpedia.org/resource/Gordon_Wood_(rugby_player)"
+"0","6","D. Taiaroa","http://dbpedia.org/resource/John_Taiaroa","http://dbpedia.org/resource/Richard_Taiaroa http://dbpedia.org/resource/Dick_Taiaroa"

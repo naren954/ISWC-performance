@@ -1,0 +1,5 @@
+F1: 0.40000,Precision: 0.40000,Recall: 0.40000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,2,Sorin FrunzÄ\u0083,http://dbpedia.org/resource/Mobile_Suit_Gundam,http://dbpedia.org/resource/Sorin_Frunză
+1,4,Wesley,http://dbpedia.org/resource/Glen_Wesley,http://dbpedia.org/resource/Wesley_Lopes_ds_Silva http://dbpedia.org/resource/Wesley_Lopez http://dbpedia.org/resource/Wesley_Lopes_da_Silva http://dbpedia.org/resource/Wesley_Lopes_Silva
+1,5,Lucian SÃ¢nmÄ\u0083rtean,http://dbpedia.org/resource/Lucian_Filip,http://dbpedia.org/resource/Lucian_Sânmărtean

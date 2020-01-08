@@ -1,0 +1,60 @@
+F1: 0.67598,Precision: 0.67598,Recall: 0.67598,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,K. Boban,http://dbpedia.org/resource/Mate_Boban,http://dbpedia.org/resource/Chackochan http://dbpedia.org/resource/Kunchako_Boban http://dbpedia.org/resource/Kunchacko_Boban http://dbpedia.org/resource/കുഞ്ചാക്കോ_ബോബൻ http://dbpedia.org/resource/Kunchacko_Boban_filmography
+0,5,K. Kardashian,http://dbpedia.org/resource/Kim_Kardashian,http://dbpedia.org/resource/Kourtney_Mary_Kardashian http://dbpedia.org/resource/Kourtney_kardashian http://dbpedia.org/resource/Kourtney_Kardashian http://dbpedia.org/resource/Penelope_Disick http://dbpedia.org/resource/Scott_Disick
+0,6,K. Jireček,http://dbpedia.org/resource/Josef_Jireček,http://dbpedia.org/resource/Konstantin_Jireček http://dbpedia.org/resource/Konstantin_Josef_Jirecek http://dbpedia.org/resource/Konstantin_Jirecek http://dbpedia.org/resource/K._Jirechek http://dbpedia.org/resource/Konstantin_Josef_Jireček
+0,7,K. Kardashian,http://dbpedia.org/resource/Kim_Kardashian,http://dbpedia.org/resource/Khloé_Kardashian http://dbpedia.org/resource/Khloé_Kardashian_Odom http://dbpedia.org/resource/Chloe_Cardashian http://dbpedia.org/resource/Khloé_Odom http://dbpedia.org/resource/Chloe_Kardashian http://dbpedia.org/resource/Khloé_Kardashian-Odom http://dbpedia.org/resource/Khole_Kardashian http://dbpedia.org/resource/Khloe_Alexandra_Kardashian http://dbpedia.org/resource/Khloé_Alexandra_Kardashian http://dbpedia.org/resource/Khloe_Kardashian http://dbpedia.org/resource/Khloe_Cardashian http://dbpedia.org/resource/Khloé_Alexandra_Kardashian_Odom http://dbpedia.org/resource/Khloe_Odom
+0,8,K. Mori,http://dbpedia.org/resource/Kazutoshi_Mori,http://dbpedia.org/resource/Kenya_Mori
+0,17,K. Koduri,http://dbpedia.org/resource/K._V._Vijayendra_Prasad,http://dbpedia.org/resource/Kalyani_Malik http://dbpedia.org/resource/Kalyan_Koduri
+0,20,J. Moore,http://dbpedia.org/resource/John_Moore_(British_Army_officer),http://dbpedia.org/resource/Julianne_Smith http://dbpedia.org/resource/Freckleface_Strawberry http://dbpedia.org/resource/Julian_Moore http://dbpedia.org/resource/Julianne_Moore http://dbpedia.org/resource/Julienne_Moore http://dbpedia.org/resource/Julieanne_Moore http://dbpedia.org/resource/Julie_Anne_Moore http://dbpedia.org/resource/Julienne_Smith http://dbpedia.org/resource/Julie_Anne_Smith http://dbpedia.org/resource/Juliana_Moore
+0,22,J. Bassett,http://dbpedia.org/resource/Johnnie_Bassett,http://dbpedia.org/resource/Josie_Bassett
+0,24,J. Langley,http://dbpedia.org/resource/James_Langley,http://dbpedia.org/resource/Annie_Howarth http://dbpedia.org/resource/Josephine_Langley
+0,35,J. Hambro,http://dbpedia.org/resource/C._J._Hambro,http://dbpedia.org/resource/Jocelyn_Hambro http://dbpedia.org/resource/Jocelyn_Olaf_Hambro
+0,37,Jishnu,http://dbpedia.org/resource/Jishnu_Raghavan,http://dbpedia.org/resource/Jishnu http://dbpedia.org/resource/Jishnu_(actor)
+0,38,J. Moses,http://dbpedia.org/resource/John_Moses_(American_politician),http://dbpedia.org/resource/Jimmy_Moses
+0,46,J. Hill,http://dbpedia.org/resource/Joe_Hill,http://dbpedia.org/resource/Jerome_Foundation http://dbpedia.org/resource/The_Jerome_Foundation http://dbpedia.org/resource/Jerome_Hill
+0,49,J. Adams,http://dbpedia.org/resource/John_Quincy_Adams,http://dbpedia.org/resource/Jeremy_Adams
+0,51,J. Lee,http://dbpedia.org/resource/Christopher_Lee,http://dbpedia.org/resource/Jenna_Lee
+0,55,J. Lever,http://dbpedia.org/resource/Johnny_Lever,http://dbpedia.org/resource/Jamie_Lever http://dbpedia.org/resource/Jamie_Janumala
+0,57,J. Murdoch,http://dbpedia.org/resource/Rupert_Murdoch,"http://dbpedia.org/resource/James_Murdoch_(media_executive) http://dbpedia.org/resource/James_Murdoch_(born_1972) http://dbpedia.org/resource/Murdoch,_James http://dbpedia.org/resource/Kathryn_Hufschmid http://dbpedia.org/resource/James_Murdoch"
+0,59,J. Fox,http://dbpedia.org/resource/Michael_J._Fox,"http://dbpedia.org/resource/Fox,_James http://dbpedia.org/resource/James_Fox http://dbpedia.org/resource/James_Fox_(actor)"
+0,60,J. Arness,http://dbpedia.org/resource/Donald_Trump,http://dbpedia.org/resource/James_Aurness http://dbpedia.org/resource/Jim_Arness http://dbpedia.org/resource/James_arness http://dbpedia.org/resource/James_King_Aurness http://dbpedia.org/resource/James_Arness http://dbpedia.org/resource/James_King_Arness http://dbpedia.org/resource/Jim_Aurness
+0,62,I. Trump,http://dbpedia.org/resource/Donald_Trump,http://dbpedia.org/resource/Ivanka_Trump_Kushner http://dbpedia.org/resource/Ivanka_Trump http://dbpedia.org/resource/Ivanka_Marie_Trump
+0,66,I. Livingstone,http://dbpedia.org/resource/David_Livingstone,http://dbpedia.org/resource/Ian_Livingstone_(property_developer) http://dbpedia.org/resource/Ian_Livingstone_(property_investor)
+0,72,H. Montag,http://dbpedia.org/resource/Heidi_Montag,http://dbpedia.org/resource/Holly_Montag
+0,73,H. Barry,http://dbpedia.org/resource/Barack_Obama,http://dbpedia.org/resource/Hillary_Barry http://dbpedia.org/resource/Hilary_Barry
+0,74,H. D. Aldrich,http://dbpedia.org/resource/Chester_Hardy_Aldrich,http://dbpedia.org/resource/Herman_D._Aldrich
+0,76,H. L. Carr,http://dbpedia.org/resource/M._L._Carr,http://dbpedia.org/resource/Henry_Lascelles_Carr
+0,80,H. Aslam,http://dbpedia.org/resource/Atif_Aslam,http://dbpedia.org/resource/Haniya_Aslam
+0,84,G. Poehler,http://dbpedia.org/resource/Amy_Poehler,http://dbpedia.org/resource/Greg_Poehler
+0,87,G. Guinness,http://dbpedia.org/resource/Alec_Guinness,http://dbpedia.org/resource/Gloria_Guinness http://dbpedia.org/resource/Gloria_Rubio_y_Alatorre
+0,90,G. Khan,http://dbpedia.org/resource/Genghis_Khan,http://dbpedia.org/resource/Gauahar_Khan http://dbpedia.org/resource/Gauhar_Khan
+0,95,F. Perry,http://dbpedia.org/resource/Fred_Perry,http://dbpedia.org/resource/Frank_J._Perry http://dbpedia.org/resource/Frank_Perry
+0,98,F. B. Walker,http://dbpedia.org/resource/Frederic_John_Walker,http://dbpedia.org/resource/Frank_Buckley_Walker http://dbpedia.org/resource/Frank_B._Walker
+0,102,F. M. Jr.,http://dbpedia.org/resource/William_F._Buckley_Jr.,"http://dbpedia.org/resource/Forrest_Mars_Jr. http://dbpedia.org/resource/Forrest_Edward_Mars,_Jr. http://dbpedia.org/resource/Forrest_Mars,_Jr."
+0,105,F. Khan,http://dbpedia.org/resource/Feroz_Khan_(actor),"http://dbpedia.org/resource/Feroze_Khan_Kopite http://dbpedia.org/resource/Feroze_Khan http://dbpedia.org/resource/Feroze_Malick http://dbpedia.org/resource/Feroze_Khan_Kopitie http://dbpedia.org/resource/Feroze_Khan_(actor) http://dbpedia.org/resource/Feroze_Khan_(actor,_born_1990) http://dbpedia.org/resource/Feroze_Malik"
+0,107,F. Karim,http://dbpedia.org/resource/Fazlul_Karim_(academician),http://dbpedia.org/resource/Captain_Advocate_Fazlul_Karim http://dbpedia.org/resource/Fazlul_Karim_(lawyer)
+0,108,F. Faasil,http://dbpedia.org/resource/Fahadh_Faasil,http://dbpedia.org/resource/Farhaan_Faasil
+0,113,E. S. II,http://dbpedia.org/resource/Elizabeth_II,"http://dbpedia.org/resource/Eugène_Schneider,_II http://dbpedia.org/resource/Eugene_Schneider,_II"
+0,114,E. Washington,http://dbpedia.org/resource/George_Washington,http://dbpedia.org/resource/Eugenia_Washington
+0,115,E. S. II,http://dbpedia.org/resource/Elizabeth_II,"http://dbpedia.org/resource/Eugène_Schneider,_II http://dbpedia.org/resource/Eugene_Schneider,_II"
+0,117,E. Prince,"http://dbpedia.org/resource/Charles,_Prince_of_Wales",http://dbpedia.org/resource/Erik_Prince http://dbpedia.org/resource/Erik_D_Prince http://dbpedia.org/resource/Erik_D._Prince http://dbpedia.org/resource/Prince_Group
+0,118,E. Trump,http://dbpedia.org/resource/Donald_Trump,http://dbpedia.org/resource/Eric_Trump_Foundation http://dbpedia.org/resource/Eric_Trump
+0,127,E. Wynn,http://dbpedia.org/resource/Ed_Wynn,http://dbpedia.org/resource/Elaine_Wynn
+0,133,E. B. Sr.,http://dbpedia.org/resource/George_H._W._Bush,"http://dbpedia.org/resource/Edgar_Miles_Bronfman_Sr. http://dbpedia.org/resource/Edgar_Bronfman_Sr http://dbpedia.org/resource/Edgar_Bronfman_Sr. http://dbpedia.org/resource/Edgar_Bronfman,_Sr. http://dbpedia.org/resource/Edgar_Miles_Bronfman,_Sr."
+0,134,D. Tsarnaev,http://dbpedia.org/resource/Tamerlan_Tsarnaev,http://dbpedia.org/resource/Dzohkhar_Tsarnaev http://dbpedia.org/resource/Dzhokhar_Anzorovich_Tsarnaev http://dbpedia.org/resource/Dzhokhar_A._Tsarnaev http://dbpedia.org/resource/Джохар_Царнаев http://dbpedia.org/resource/Jahar_Tsarnaev http://dbpedia.org/resource/Jokhar_Tsarnaev http://dbpedia.org/resource/Dzokhar_Tsarnaev http://dbpedia.org/resource/Dzhokhar_Tsarnaev http://dbpedia.org/resource/Dzhokhar_Tsarnayev http://dbpedia.org/resource/Dzohkhar_tsarnaev http://dbpedia.org/resource/Johar_Tsarnaev http://dbpedia.org/resource/Dzhokhar_A_Tsarnaev http://dbpedia.org/resource/Dzhokar_Tsarnaev
+0,138,D. Sutherland,"http://dbpedia.org/resource/John_Campbell,_9th_Duke_of_Argyll","http://dbpedia.org/resource/Donald_Sutherland http://dbpedia.org/resource/Don_Sutherland http://dbpedia.org/resource/Sutherland,_Donald"
+0,139,D. Hastings,"http://dbpedia.org/resource/Francis_Rawdon-Hastings,_1st_Marquess_of_Hastings",http://dbpedia.org/resource/Don_Hastings
+0,143,D. Giannakopoulos,http://dbpedia.org/resource/Thanasis_Giannakopoulos,http://dbpedia.org/resource/Dimitrios_Giannakopoulos http://dbpedia.org/resource/Dimitris_Giannakopoulos
+0,145,D. McCall,http://dbpedia.org/resource/Tom_McCall,http://dbpedia.org/resource/Devina_McCall http://dbpedia.org/resource/Davina_Mccall http://dbpedia.org/resource/Matthew_Robertson_(Presenter) http://dbpedia.org/resource/Davina_mccall http://dbpedia.org/resource/Davina_McCall http://dbpedia.org/resource/Davina_mccoll http://dbpedia.org/resource/Davina_McColl
+0,147,D. Nelson,http://dbpedia.org/resource/Nelson_Mandela,http://dbpedia.org/resource/David_Nelson_(Utah_activist)
+0,149,D. Birkhead,http://dbpedia.org/resource/Tim_Birkhead,http://dbpedia.org/resource/Dannielynn_Birkhead http://dbpedia.org/resource/Dannielynn_Hope_Marshall_Birkhead http://dbpedia.org/resource/Dannielynn_Marshall_Birkhead http://dbpedia.org/resource/Dannielynn_Hope_Stern http://dbpedia.org/resource/Dannielynn_Hope_Marshall_Stern
+0,152,D. Ivin,http://dbpedia.org/resource/Philip_IV_of_Spain,http://dbpedia.org/resource/Daniel_Ivin http://dbpedia.org/resource/Danijel_Ivin
+0,157,D. Venkatesh,http://dbpedia.org/resource/Akshay_Venkatesh,http://dbpedia.org/resource/Venkatesh_(actor) http://dbpedia.org/resource/Daggubati_Venkatesh http://dbpedia.org/resource/Victory_Venkatesh http://dbpedia.org/resource/Victory_venkatesh
+0,159,C. Carter,http://dbpedia.org/resource/Carlene_Carter,http://dbpedia.org/resource/Conlan_Carter
+0,161,C. Wrottesley,"http://dbpedia.org/resource/John_Wrottesley,_2nd_Baron_Wrottesley",http://dbpedia.org/resource/Clifton_Wrottesley
+0,163,C. Ganguly,http://dbpedia.org/resource/Sourav_Ganguly,http://dbpedia.org/resource/Churni_Ganguly http://dbpedia.org/resource/Churni_Gangopadhyay
+0,164,C. Walton,http://dbpedia.org/resource/Alice_Walton,http://dbpedia.org/resource/Christy_Walton
+0,168,C. Evans,http://dbpedia.org/resource/Chris_Evans_(actor),http://dbpedia.org/resource/Chris_Evans_(presenter) http://dbpedia.org/resource/Chris_Evans_(British_broadcaster) http://dbpedia.org/resource/Chris_Evans_(broadcaster) http://dbpedia.org/resource/Chris_Evans_(DJ)
+0,178,C. Thatcher,http://dbpedia.org/resource/Margaret_Thatcher,http://dbpedia.org/resource/Carol_Thatcher http://dbpedia.org/resource/Carole_Thatcher http://dbpedia.org/resource/Cawol_Thatcher http://dbpedia.org/resource/Carol_thatcher
+0,179,C. Celdran,http://fr.dbpedia.org/resource/Miguel_Celdrán,http://dbpedia.org/resource/Carlos_Celdran

@@ -1,0 +1,4 @@
+F1: 0.80000,Precision: 0.80000,Recall: 0.80000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,4,The Chase,http://dbpedia.org/resource/The_Great_Locomotive_Chase,http://dbpedia.org/resource/The_Chase_(1994_movie) http://dbpedia.org/resource/The_Chase_(1994_film)
+1,8,Carried Away,http://dbpedia.org/resource/Carried_Away_(1996_film),http://dbpedia.org/resource/Carried_Away_(2009_film)

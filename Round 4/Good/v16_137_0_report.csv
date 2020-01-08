@@ -1,0 +1,30 @@
+F1: 0.80822,Precision: 0.80822,Recall: 0.80822,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,10,R. Desjardins,http://dbpedia.org/resource/Éric_Desjardins,http://dbpedia.org/resource/Robert_Desjardins_(curler)
+0,11,R. Campbell,http://dbpedia.org/resource/Richie_Campbell_(water_polo),http://dbpedia.org/resource/Robert_Campbell_(curler)
+0,12,R. Doherty,http://dbpedia.org/resource/Sean_Doherty_(biathlete),http://dbpedia.org/resource/Robbie_Doherty
+0,22,R. Carruthers,http://dbpedia.org/resource/Kitty_Carruthers,http://dbpedia.org/resource/Reid_Carruthers
+0,26,R. Brown,http://dbpedia.org/resource/Robbie_Brown,http://dbpedia.org/resource/Rachelle_Pidherny http://dbpedia.org/resource/Rachelle_Brown
+0,44,N. Roth,http://dbpedia.org/resource/Nicolas_Roth,http://dbpedia.org/resource/Nina_Roth http://dbpedia.org/resource/Nina_Spatola
+0,46,N. Rizzo,http://dbpedia.org/resource/Matteo_Rizzo,http://dbpedia.org/resource/Nick_Rizzo_(curler)
+0,50,M. Thomas,http://dbpedia.org/resource/Misty_Thomas,http://dbpedia.org/resource/Mitchell_Thomas_(curler)
+0,52,M. McEwen,http://dbpedia.org/resource/Mike_McEwen_(ice_hockey),http://dbpedia.org/resource/Mike_McEwen_(curler)
+0,54,M. Anderson,http://dbpedia.org/resource/Matt_Anderson_(baseball),http://dbpedia.org/resource/Mike_Anderson_(curler)
+0,59,M. Cormier,http://dbpedia.org/resource/Patrice_Cormier,http://dbpedia.org/resource/Megan_Cormier
+0,65,M. Arsenault,http://dbpedia.org/resource/Steve_Arsenault,http://dbpedia.org/resource/Mary-Anne_Arsenault http://dbpedia.org/resource/Mary_Anne_Arsenault
+0,67,M. Ferland,http://dbpedia.org/resource/Micheal_Ferland,http://dbpedia.org/resource/Martin_Ferland
+0,81,M. Poulsen,http://dbpedia.org/resource/Mikkel_Poulsen,http://dbpedia.org/resource/Maria_Poulsen
+0,91,L. Klíma,http://dbpedia.org/resource/Lukáš_Klíma_(ice_hockey),http://dbpedia.org/resource/Lukas_Klima_(curler) http://dbpedia.org/resource/Lukáš_Klíma_(curler)
+0,94,L. Yin,http://dbpedia.org/resource/Yin_Yin,http://dbpedia.org/resource/Liu_Yin_(curler) http://dbpedia.org/resource/Yin_Liu_(curler)
+0,95,L. Rui,http://dbpedia.org/resource/Luciano_Rui,http://dbpedia.org/resource/Liu_Rui http://dbpedia.org/resource/Liu_Riu
+0,99,L. Warkentin,http://dbpedia.org/resource/Mark_Warkentin,http://dbpedia.org/resource/Lindsay_Warkentin http://dbpedia.org/resource/Lindsay_Titheridge
+0,104,L. Crocker,http://dbpedia.org/resource/Darren_Crocker,http://dbpedia.org/resource/Laura_Crocker
+0,105,L. Vey,http://dbpedia.org/resource/Linden_Vey,http://dbpedia.org/resource/Lana_Vey
+0,106,L. Peters,http://dbpedia.org/resource/Dietmar_Peters,http://dbpedia.org/resource/Laine_Peters
+0,110,K. Lindström,http://dbpedia.org/resource/Fredrik_Lindström_(biathlete),http://dbpedia.org/resource/Kristian_Lindström http://dbpedia.org/resource/Kristian_Lindstrom http://dbpedia.org/resource/Kristian_Lindstroem
+0,127,K. Scott,http://dbpedia.org/resource/Kevin_Scott_(American_football),http://dbpedia.org/resource/Kelly_Mackenzie http://dbpedia.org/resource/Kelly_Scott http://dbpedia.org/resource/Kellie_Scott http://dbpedia.org/resource/Kelly_MacKenzie
+0,137,J. Tippin,http://dbpedia.org/resource/Kenny_Tippins,http://dbpedia.org/resource/Julie_Reddick http://dbpedia.org/resource/Julie_Tippin
+0,139,J. Hastings,http://dbpedia.org/resource/Jeff_Hastings,http://dbpedia.org/resource/Julie_Hastings
+0,140,J. Devereaux,http://dbpedia.org/resource/Boyd_Devereaux,http://dbpedia.org/resource/Julie_Devereaux
+0,143,J. Campbell,http://dbpedia.org/resource/Jasmine_Campbell,http://dbpedia.org/resource/Jolene_McIvor http://dbpedia.org/resource/Jolene_Campbell
+0,146,J. Morris,http://dbpedia.org/resource/Jack_Morris,http://dbpedia.org/resource/John_Morris_(curler)

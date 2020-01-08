@@ -1,0 +1,10 @@
+F1: 0.91667,Precision: 0.91667,Recall: 0.91667,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,High Road Bridge,http://dbpedia.org/resource/Forth_Road_Bridge,http://dbpedia.org/resource/High_Road_Bridge
+0,3,High Level Bridge,http://dbpedia.org/resource/Lethbridge_Viaduct,"http://dbpedia.org/resource/High_Level_Rail_Bridge http://dbpedia.org/resource/High_Level_Bridge,_Edmonton http://dbpedia.org/resource/High_level_bridge_(edmonton) http://dbpedia.org/resource/High_Level_Bridge_(Edmonton)"
+0,20,Green Bridge,http://dbpedia.org/resource/Eleanor_Schonell_Bridge,http://dbpedia.org/resource/Paris_Road_Bridge http://dbpedia.org/resource/Green_Bridge_(New_Orleans)
+0,29,Glaisnock Viaduct,http://dbpedia.org/resource/Ribblehead_Viaduct,http://dbpedia.org/resource/Glaisnock_Viaduct
+0,44,Foxburg Bridge,http://dbpedia.org/resource/Foxburg_Bridge_(2008),http://dbpedia.org/resource/Old_Foxburg_Bridge http://dbpedia.org/resource/Foxburg_Bridge_(1921) http://dbpedia.org/resource/Foxburg_Bridge
+0,58,Eighth Street Bridge,http://dbpedia.org/resource/Albertus_L._Meyers_Bridge,http://dbpedia.org/resource/Eighth_Street_Bridge_(Passaic_River)
+0,63,Douvenant Viaduct,http://dbpedia.org/resource/Ribblehead_Viaduct,http://dbpedia.org/resource/Viaduc_de_Douvenant http://dbpedia.org/resource/Douvenant_Viaduct
+0,77,Craigmore Viaduct,http://dbpedia.org/resource/Ribblehead_Viaduct,http://dbpedia.org/resource/Craigmore_Viaduct

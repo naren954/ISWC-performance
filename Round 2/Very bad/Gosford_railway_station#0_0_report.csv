@@ -1,0 +1,5 @@
+F1: 0.25000,Precision: 0.25000,Recall: 0.25000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Narara towards Newcastle,,"http://dbpedia.org/resource/Narara_railway_station,_New_South_Wales http://dbpedia.org/resource/Narara_railway_station"
+0,3,"Wyong towards Grafton, Casino or Brisbane",,"http://dbpedia.org/resource/Wyong_railway_station,_New_South_Wales http://dbpedia.org/resource/WYG http://dbpedia.org/resource/Wyong_railway_station"
+0,4,Wyong towards Moree or Armidale,http://dbpedia.org/resource/Northern_Tablelands_Express,"http://dbpedia.org/resource/Wyong_railway_station,_New_South_Wales http://dbpedia.org/resource/WYG http://dbpedia.org/resource/Wyong_railway_station"

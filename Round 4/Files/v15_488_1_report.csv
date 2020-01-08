@@ -1,0 +1,8 @@
+"F1: 0.95041","Precision: 0.95041","Recall: 0.95041"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","2","Grey Dawn","http://dbpedia.org/resource/Grey_Dawn_II","http://dbpedia.org/resource/Grey_Dawn http://dbpedia.org/resource/Gray_Dawn"
+"1","15","Roberto","http://dbpedia.org/resource/Roberto_Marinho","http://dbpedia.org/resource/Roberto_(horse)"
+"1","45","Solinus","http://dbpedia.org/resource/Solinus_(horse)","http://dbpedia.org/resource/Gaius_Iulius_Solinus http://dbpedia.org/resource/Julius_Solinus http://dbpedia.org/resource/Caius_Julius_Solinus http://dbpedia.org/resource/Gaius_Julius_Solinus http://dbpedia.org/resource/Solinus"
+"1","65","Carnegie","http://dbpedia.org/resource/James_Carnegie,_3rd_Duke_of_Fife","http://dbpedia.org/resource/Carnegie_(horse)"
+"1","81","Green Desert","http://dbpedia.org/resource/Green_Desert_(horse)","http://dbpedia.org/resource/Green_Desert"
+"1","92","Green Desert","http://dbpedia.org/resource/Green_Desert_(horse)","http://dbpedia.org/resource/Green_Desert"

@@ -1,0 +1,5 @@
+F1: 0.50000,Precision: 0.50000,Recall: 0.50000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Fanling Wai,http://dbpedia.org/resource/Fanling,http://dbpedia.org/resource/Fanling_Wai http://dbpedia.org/resource/Fan_Ling_Chung_Wai
+0,21,Wo Hang (ç¦¾å\u009D\u0091),http://dbpedia.org/resource/World_Bank,http://dbpedia.org/resource/Wo_Hang http://dbpedia.org/resource/Sheung_Wo_Hang
+0,23,Kuk Po Lo Wai (è°·å\u009F\u0094è\u0080\u0081å\u009C\u008D),http://dbpedia.org/resource/Po_Leung_Kuk_Lo_Kit_Sing_(1983)_College,http://dbpedia.org/resource/Kuk_Po

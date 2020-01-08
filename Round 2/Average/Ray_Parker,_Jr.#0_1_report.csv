@@ -1,0 +1,4 @@
+F1: 0.66667,Precision: 0.66667,Recall: 0.66667,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,2,The Other Woman,http://dbpedia.org/resource/The_Other_Woman_(Deni_Hines_and_James_Morrison_album),"http://dbpedia.org/resource/The_Other_Woman_(Ray_Parker_Jr._album) http://dbpedia.org/resource/The_Other_Woman_(Ray_Parker,_Jr._album)"
+1,7,I'm Free,http://dbpedia.org/resource/I'm_Free_(Heaven_Helps_the_Man),http://dbpedia.org/resource/I'm_Free_(album)

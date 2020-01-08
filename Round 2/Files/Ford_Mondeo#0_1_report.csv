@@ -1,0 +1,5 @@
+"F1: 0.25000","Precision: 0.25000","Recall: 0.25000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","1","First generation (Mk I)","http://dbpedia.org/resource/PlayStation_2","http://dbpedia.org/resource/Contour_SVT http://dbpedia.org/resource/Mercury_Mystique http://dbpedia.org/resource/Ford_Contour http://dbpedia.org/resource/Ford_SVT_Contour http://dbpedia.org/resource/SVT_Contour http://dbpedia.org/resource/Ford_Mondeo_(first_generation) http://dbpedia.org/resource/Ford_Contour/Mercury_Mystique"
+"1","4","Third generation (Mk IV)","http://dbpedia.org/resource/IPad_(3rd_generation)","http://dbpedia.org/resource/Ford_Mondeo_(third_generation)"
+"1","5","Fourth generation (Mk V)","http://dbpedia.org/resource/Sega_Genesis","http://dbpedia.org/resource/Ford_Mondeo_(fourth_generation)"

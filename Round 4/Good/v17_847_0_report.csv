@@ -1,0 +1,8 @@
+F1: 0.92500,Precision: 0.92500,Recall: 0.92500,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,44,Benson Building,"http://dbpedia.org/resource/Benson_Building_(Ottumwa,_Iowa)","http://dbpedia.org/resource/Benson_Building_(Baltimore,_Maryland)"
+0,48,Belvidere,"http://dbpedia.org/resource/Belvidere_(Belmont,_New_York)","http://dbpedia.org/resource/Belvidere_(Williamsboro,_North_Carolina)"
+0,55,Bedford Springs Hotel Historic District,http://dbpedia.org/resource/Pence_Springs_Hotel_Historic_District,http://dbpedia.org/resource/Bedford_Springs_Hotel_Historic_District
+0,57,"Beauport, Sleeper-McCann House","http://dbpedia.org/resource/Beauport_(Gloucester,_Massachusetts)","http://dbpedia.org/resource/Beauport,_Sleeper-McCann_House"
+0,63,Barnum-Palliser Historic District,http://dbpedia.org/resource/Barnum–Palliser_Historic_District,http://dbpedia.org/resource/Barnum/Palliser_Historic_District http://dbpedia.org/resource/Barnum-Palliser_Historic_District
+0,65,Bardwell Illinois Central Railroad Station,http://dbpedia.org/resource/Bardwell_station,http://dbpedia.org/resource/Bardwell_Illinois_Central_Railroad_Station

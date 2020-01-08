@@ -1,0 +1,6 @@
+F1: 0.92453,Precision: 0.92453,Recall: 0.92453,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,21,K. Szymkowiak,http://dbpedia.org/resource/Edward_Szymkowiak,http://dbpedia.org/resource/Kerstin_Jürgens http://dbpedia.org/resource/Kerstin_Jurgens http://dbpedia.org/resource/Kerstin_Juergins http://dbpedia.org/resource/Kerstin_Juergens http://dbpedia.org/resource/Kerstin_Szymkowiak
+3,23,K. Szymkowiak,http://dbpedia.org/resource/Edward_Szymkowiak,http://dbpedia.org/resource/Kerstin_Jürgens http://dbpedia.org/resource/Kerstin_Jurgens http://dbpedia.org/resource/Kerstin_Juergins http://dbpedia.org/resource/Kerstin_Juergens http://dbpedia.org/resource/Kerstin_Szymkowiak
+3,32,J. Heaton,http://dbpedia.org/resource/Tom_Heaton,http://dbpedia.org/resource/John_Heaton_(athlete) http://dbpedia.org/resource/John_Rutherford_Heaton http://dbpedia.org/resource/John_Heaton_(skeleton_racer)
+3,52,W. Meng,http://dbpedia.org/resource/Wang_Meng_(figure_skater),http://dbpedia.org/resource/Wang_Meng_(speed_skater) http://dbpedia.org/resource/Meng_Wang_(speed_skater)

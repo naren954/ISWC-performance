@@ -1,0 +1,4 @@
+"F1: 0.00000","Precision: 0.00000","Recall: 0.00000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"4","2","Central","http://dbpedia.org/resource/Central_African_Republic","http://dbpedia.org/resource/National_Football_League_Century_Division http://dbpedia.org/resource/American_Football_Conference_North http://dbpedia.org/resource/Afc_north http://dbpedia.org/resource/AFC_North http://dbpedia.org/resource/American_Football_Conference_North_Division http://dbpedia.org/resource/Century_Division http://dbpedia.org/resource/NFL_Century_Division http://dbpedia.org/resource/American_Football_Conference_Central_Division http://dbpedia.org/resource/AFC_Central"
+"4","9","South","http://dbpedia.org/resource/South_Dakota","http://dbpedia.org/resource/American_Football_Conference_South_Division http://dbpedia.org/resource/Afc_south http://dbpedia.org/resource/American_Football_Conference_South http://dbpedia.org/resource/AFC_South"

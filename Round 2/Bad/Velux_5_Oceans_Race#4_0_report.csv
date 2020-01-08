@@ -1,0 +1,5 @@
+F1: 0.40000,Precision: 0.40000,Recall: 0.40000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,4,Josh Hall,http://dbpedia.org/resource/Josh_Hall_(footballer),http://dbpedia.org/resource/Josh_Hall_(sailor) http://dbpedia.org/resource/Josh_Hall_(yachtsman)
+0,6,Mike Golding,http://dbpedia.org/resource/Mike_Gold,http://dbpedia.org/resource/Mike_Golding
+0,15,Minoru Saito,http://dbpedia.org/resource/Minoru_Genda,http://dbpedia.org/resource/Minoru_Saito http://dbpedia.org/resource/Minoru_Saitō

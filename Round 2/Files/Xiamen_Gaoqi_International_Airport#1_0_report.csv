@@ -1,0 +1,5 @@
+"F1: 0.66667","Precision: 0.66667","Recall: 0.66667"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","4","China Cargo Airlines","http://dbpedia.org/resource/China_Airlines","http://dbpedia.org/resource/China_Cargo_(airline) http://dbpedia.org/resource/China_Cargo_Airlines_Ltd. http://dbpedia.org/resource/China_Cargo_Airlines"
+"0","8","Singapore Airlines Cargo","http://dbpedia.org/resource/Singapore_Airlines","http://dbpedia.org/resource/SIA_Cargo http://dbpedia.org/resource/Singapore_Airlines_Cargo_Pte_Ltd http://dbpedia.org/resource/Singapore_Airlines_Cargo http://dbpedia.org/resource/Siacargo.com"
+"0","9","Yangtze River Express","http://dbpedia.org/resource/Suparna_Airlines","http://dbpedia.org/resource/Yangtze_River_Express http://dbpedia.org/resource/Yangtze_River_Express_Airlines_Company_Limited http://dbpedia.org/resource/Yangtze_River_Express_Airlines"

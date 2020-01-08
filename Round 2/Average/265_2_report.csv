@@ -1,0 +1,37 @@
+F1: 0.68468,Precision: 0.68468,Recall: 0.68468,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,5,P. Hébert,http://dbpedia.org/resource/Anne_Hébert,http://dbpedia.org/resource/Paul_Hébert
+2,13,A. Sharp,http://dbpedia.org/resource/Richard_Sharp_(politician),http://dbpedia.org/resource/Anthony_Sharp
+2,16,B. Fitzgerald,http://dbpedia.org/resource/Geraldine_Fitzgerald,http://dbpedia.org/resource/Barry_Fitzgerald http://dbpedia.org/resource/William_Joseph_Shields
+2,17,S. Mukherjee,http://dbpedia.org/resource/Siddhartha_Mukherjee,http://dbpedia.org/resource/Swastika_Mukherjee
+2,19,R. Lynn,http://dbpedia.org/resource/Common_(rapper),http://dbpedia.org/resource/Ralph_Lynn
+2,20,J. Roberts,http://dbpedia.org/resource/Jean-Marc_Roberts,"http://dbpedia.org/resource/Julia_Robert http://dbpedia.org/resource/Roberts,_Julia http://dbpedia.org/resource/Julia_Roberts_(actress) http://dbpedia.org/resource/Julia_Roberts http://dbpedia.org/resource/Julia_Fiona_Roberts http://dbpedia.org/resource/Red_Om_Films http://dbpedia.org/resource/Phinnaeus_Walter_Moder http://dbpedia.org/resource/Julia_roberts"
+2,22,V. Cervi,http://dbpedia.org/resource/Gino_Cervi,http://dbpedia.org/resource/Valentina_Cervi
+2,27,C. Conklin,http://dbpedia.org/resource/Edwin_Conklin,http://dbpedia.org/resource/Chester_Cooper_Conklin http://dbpedia.org/resource/Chester_Conklin
+2,28,A. Paul,http://dbpedia.org/resource/Les_Paul,http://dbpedia.org/resource/Adrian_Paul http://dbpedia.org/resource/Adrian_Hewett
+2,29,Anjali,http://dbpedia.org/resource/Anjali_Devi,http://dbpedia.org/resource/Anjali_(actress_2006-_present) http://dbpedia.org/resource/Anjali_(film_actress) http://dbpedia.org/resource/Anjali_(actress_born_1986)
+2,30,G. Kelly,http://dbpedia.org/resource/Grace_Kelly,http://dbpedia.org/resource/Eugene_Curran_Kelly http://dbpedia.org/resource/Gene_Kelly http://dbpedia.org/resource/Gene_Curran_Kelly http://dbpedia.org/resource/E._C._Kelly
+2,37,S. Qamar,http://dbpedia.org/resource/Naveed_Qamar,http://dbpedia.org/resource/Tere_Ik_Nazar http://dbpedia.org/resource/Saba_Qamar
+2,39,Manjula,http://dbpedia.org/resource/Apu_Nahasapeemapetilon,http://dbpedia.org/resource/Manjula_(Kannada_actress)
+2,40,H. B. Carpenter,http://dbpedia.org/resource/William_Benjamin_Carpenter,http://dbpedia.org/resource/Horace_Carpenter_(actor) http://dbpedia.org/resource/H.B._Carpenter http://dbpedia.org/resource/Horace_B._Carpenter http://dbpedia.org/resource/H._B._Carpenter
+2,41,Srinath,http://dbpedia.org/resource/Srinath_(actor),http://dbpedia.org/resource/Srinath
+2,43,B. Sykes,http://dbpedia.org/resource/Oliver_Sykes,http://dbpedia.org/resource/Brenda_Sykes
+2,45,D. Warner,http://dbpedia.org/resource/Jack_L._Warner,http://dbpedia.org/resource/David_Warner_(actor)
+2,48,R. Karno,http://dbpedia.org/resource/Fred_Karno,http://dbpedia.org/resource/Rano_Karno
+2,49,A. F. Jr.,http://dbpedia.org/resource/William_F._Buckley_Jr.,"http://dbpedia.org/resource/Al_Freeman http://dbpedia.org/resource/Al_Freeman_Jr. http://dbpedia.org/resource/Al_Freeman_Jr http://dbpedia.org/resource/Al_Freeman,_Jr."
+2,58,S. A. Richards,http://dbpedia.org/resource/Keith_Richards,http://dbpedia.org/resource/Shirley_Ann_Richards http://dbpedia.org/resource/Ann_Richards_(actress) http://dbpedia.org/resource/Ann_Richards_(actor)
+2,60,T. Sands,http://dbpedia.org/resource/Diana_Sands,http://dbpedia.org/resource/Tommy_Sands_(American_singer) http://dbpedia.org/resource/Tommy_Sands_(entertainer)
+2,66,E. Frank,http://dbpedia.org/resource/Frank_Sinatra,http://dbpedia.org/resource/Ellen_Frank_(actor) http://dbpedia.org/resource/Ellen_Frank_(actress)
+2,69,C. Moore,http://dbpedia.org/resource/C._L._Moore,http://dbpedia.org/resource/Kathleen_Morrison http://dbpedia.org/resource/Colleen_Moore
+2,74,J. Valli,http://dbpedia.org/resource/June_Valli,http://dbpedia.org/resource/Joe_Valli
+2,84,J. Weaver,http://dbpedia.org/resource/Fritz_Weaver,http://dbpedia.org/resource/Jackie_Weaver http://dbpedia.org/resource/Jacki_Weaver
+2,85,E. Fox,"http://dbpedia.org/resource/Henry_Vassall-Fox,_3rd_Baron_Holland",http://dbpedia.org/resource/Edward_Fox_(actor)
+2,87,A. H. Jr.,http://dbpedia.org/resource/Barack_Obama,"http://dbpedia.org/resource/Alan_Hale,_Junior http://dbpedia.org/resource/Alan_Hale_Jr. http://dbpedia.org/resource/Alan_Hale_MacKahan http://dbpedia.org/resource/Alan_Hale,_Jr http://dbpedia.org/resource/Alan_Hale_Jr http://dbpedia.org/resource/Alan_Hale,_Jr."
+2,92,M. Simon,http://dbpedia.org/resource/Marie_Jalowicz-Simon,http://dbpedia.org/resource/Michel_Simon
+2,96,Manjula,http://dbpedia.org/resource/Apu_Nahasapeemapetilon,http://dbpedia.org/resource/Manjula_(Kannada_actress)
+2,97,S. Parker,http://dbpedia.org/resource/Charlie_Parker,http://dbpedia.org/resource/Suzy_Parker
+2,99,A. Paul,http://dbpedia.org/resource/Les_Paul,http://dbpedia.org/resource/Aaron_Paul http://dbpedia.org/resource/Aaron_Paul_Sturtevant
+2,101,R. Taylor,http://dbpedia.org/resource/Elizabeth_Taylor,http://dbpedia.org/resource/Robert_Taylor_(actor) http://dbpedia.org/resource/Spangler_brugh http://dbpedia.org/resource/Spangler_arlington_brugh
+2,106,I. Mosjoukine,http://dbpedia.org/resource/I,http://dbpedia.org/resource/Ivan_Mozzukhin http://dbpedia.org/resource/Mozzhukhin http://dbpedia.org/resource/Ivan_Mosjoukine http://dbpedia.org/resource/Ivan_Mozhzhukhin http://dbpedia.org/resource/Ivan_Mozzhukhin http://dbpedia.org/resource/Mosjoukine http://dbpedia.org/resource/Ivan_Mozhukhin
+2,107,R. Babbar,http://dbpedia.org/resource/Prateik_Babbar,http://dbpedia.org/resource/Raj_Babbar
+2,109,J. Davis,http://dbpedia.org/resource/Jimmie_Davis,http://dbpedia.org/resource/Judy_Davis

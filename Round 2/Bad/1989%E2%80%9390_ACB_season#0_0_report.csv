@@ -1,0 +1,8 @@
+F1: 0.45455,Precision: 0.45455,Recall: 0.45455,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Ram Joventut,http://dbpedia.org/resource/Shepherd_Rams,http://dbpedia.org/resource/Joventut http://dbpedia.org/resource/Joventut_de_Badalona http://dbpedia.org/resource/FIATC_Joventut http://dbpedia.org/resource/Joventut_badalona http://dbpedia.org/resource/Club_Joventut_Badalona http://dbpedia.org/resource/Joventut_Badalona http://dbpedia.org/resource/DKV_Joventut
+0,5,Caja Ronda,http://dbpedia.org/resource/Baloncesto_Málaga,http://dbpedia.org/resource/CB_Málaga
+0,6,CAI Zaragoza,http://dbpedia.org/resource/Basket_Zaragoza,http://dbpedia.org/resource/CB_Zaragoza
+0,8,Grupo IFA,http://dbpedia.org/resource/RCD_Espanyol_Bàsquet,http://dbpedia.org/resource/Granollers_Esportiu_Bàsquet
+0,10,Cajabilbao,http://dbpedia.org/resource/Bilbao_Basket,http://dbpedia.org/resource/Cajabilbao http://dbpedia.org/resource/CB_Cajabilbao
+0,12,Clesa Ferrol,http://dbpedia.org/resource/Racing_de_Ferrol,http://dbpedia.org/resource/OAR_Ferrol http://dbpedia.org/resource/CB_OAR_Ferrol

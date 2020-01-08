@@ -1,0 +1,7 @@
+F1: 0.70588,Precision: 0.70588,Recall: 0.70588,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,The Rebound,http://dbpedia.org/resource/On_the_Rebound,http://dbpedia.org/resource/The_Rebound
+1,5,Certainty,http://dbpedia.org/resource/The_Certainty_of_Man,http://dbpedia.org/resource/Certainty_(film)
+1,8,The Campaign,http://dbpedia.org/resource/The_Campaign_(Into_the_Moat_album),http://dbpedia.org/resource/The_Campaign_(movie) http://dbpedia.org/resource/Dog_Fight_(film) http://dbpedia.org/resource/Marty_Huggins http://dbpedia.org/resource/Cam_Brady http://dbpedia.org/resource/Cam_Brady_(The_Campaign) http://dbpedia.org/resource/The_Campaign_(film)
+1,16,The Bronze,http://dbpedia.org/resource/Solid_Bronze_–_Great_Hits,http://dbpedia.org/resource/The_Bronze_(film)
+1,19,Going Under,http://dbpedia.org/resource/Going_Under_(2004_film),http://dbpedia.org/resource/Going_Under_(2016_film)

@@ -1,0 +1,5 @@
+"F1: 0.97368","Precision: 0.97368","Recall: 0.97368"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","19","Roman Catholic Diocese of Córdoba","http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Córdoba","http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Córdoba_(Mexico) http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Cordoba_(Mexico)"
+"0","76","Roman Catholic Diocese of Bayonne","http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Bayonne,_Lescar_and_Oloron","http://dbpedia.org/resource/Diocese_of_Bayonne,_Lescar_and_Oloron http://dbpedia.org/resource/Diocese_of_Bayonne http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Bayonne http://dbpedia.org/resource/Bishop_of_Bayonne http://dbpedia.org/resource/See_of_Bayonne http://dbpedia.org/resource/Diocese_of_bayonne http://dbpedia.org/resource/Bishopric_of_Bayonne"
+"0","94","Roman Catholic Diocese of Barcelona","http://dbpedia.org/resource/Roman_Catholic_Archdiocese_of_Barcelona","http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Barcelona"

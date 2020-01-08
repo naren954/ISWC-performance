@@ -1,0 +1,7 @@
+F1: 0.97006,Precision: 0.97006,Recall: 0.97006,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,42,G. Sheehan,http://dbpedia.org/resource/Patty_Sheehan,http://dbpedia.org/resource/Gary_Sheehan_(racing_driver)
+0,86,E. C. III,http://dbpedia.org/resource/Enrique_Contreras_III,http://dbpedia.org/resource/Eddie_Cheever_III
+0,87,E. Jones,http://dbpedia.org/resource/Erik_Jones,http://dbpedia.org/resource/Ed_Jones_(racing_driver) http://dbpedia.org/resource/Edward_Jones_(racing_driver)
+0,127,D. Brown,http://dbpedia.org/resource/Dustin_Brown_(ice_hockey),http://dbpedia.org/resource/Daniel_Brown_(racing_driver)
+0,153,C. Leclerc,http://dbpedia.org/resource/Charles_Leclerc,http://dbpedia.org/resource/Charles_Leclerc_(racing_driver)

@@ -1,0 +1,43 @@
+F1: 0.72667,Precision: 0.72667,Recall: 0.72667,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Top of the World,http://dbpedia.org/resource/Top_of_the_World_(Brandy_song),http://dbpedia.org/resource/Top_of_the_World_(The_Carpenters_song) http://dbpedia.org/resource/Top_of_the_World_(Lynn_Anderson_song)
+0,7,Tokyo,http://dbpedia.org/resource/1964_Summer_Olympics,http://dbpedia.org/resource/Tokyo_(Masaharu_Fukuyama_song) http://dbpedia.org/resource/Tokyo_(Fukuyama_Masaharu)
+0,10,Time,http://es.dbpedia.org/resource/Timor_(canción_de_Shakira),"http://dbpedia.org/resource/Time_-_(song,_Pink_Floyd) http://dbpedia.org/resource/Breathe_(Reprise) http://dbpedia.org/resource/Time_-_Pink_Floyd(song) http://dbpedia.org/resource/Breathe_Reprise http://dbpedia.org/resource/Time_(Pink_Floyd_song) http://dbpedia.org/resource/Time_(Pink_Floyd_Song) http://dbpedia.org/resource/Time_(Pink_Floyd) http://dbpedia.org/resource/Time_(song_by_Pink_Floyd) http://dbpedia.org/resource/Breathe_(reprise) http://dbpedia.org/resource/Time_(song,_Pink_Floyd)"
+0,13,Thursday's Child,http://dbpedia.org/resource/Thursday's_Child_(David_Bowie_song),http://dbpedia.org/resource/Thursday's_Child_(Tanita_Tikaram) http://dbpedia.org/resource/Thursday's_Child_(Tanita_Tikaram_song)
+0,14,Throw Your Arms Around Me,http://dbpedia.org/resource/Wrap_Your_Arms_Around_Me_(song),http://dbpedia.org/resource/Throw_Your_Arms_Around_Me
+0,19,This Boy,http://dbpedia.org/resource/This_Boy's_Fire,http://dbpedia.org/resource/This_Boy http://dbpedia.org/resource/This_Boy_(The_Beatles_song)
+0,26,They Don't Know,http://dbpedia.org/resource/They_Don't_Know_(Paul_Wall_song),http://dbpedia.org/resource/They_Don't_Know_(Tracey_Ullman_song) http://dbpedia.org/resource/They_Don’t_Know http://dbpedia.org/resource/They_Don't_Know_(Kirsty_MacColl_song)
+0,28,They're Red Hot,http://dbpedia.org/resource/The_Uplift_Mofo_Party_Plan,http://dbpedia.org/resource/Theyre_red_hot http://dbpedia.org/resource/They're_Red_Hot
+0,31,These Days,http://dbpedia.org/resource/These_Days_(Bon_Jovi_song),http://dbpedia.org/resource/These_Days_(Gyroscope_song)
+0,37,The Wolf,http://dbpedia.org/resource/She_Wolf,http://dbpedia.org/resource/The_Wolf_(Mumford_&_Sons_single) http://dbpedia.org/resource/The_Wolf_(Mumford_and_Sons_song) http://dbpedia.org/resource/The_Wolf_(Mumford_&_Sons_song)
+0,47,The Singer Sang His Song,,http://dbpedia.org/resource/The_Singer_Sang_His_Song http://dbpedia.org/resource/The_Singer_Sang_his_Song
+0,51,The River,http://dbpedia.org/resource/A_Meeting_by_the_River,http://dbpedia.org/resource/The_River_(The_Tea_Party_song)
+0,52,The Right Time,http://dbpedia.org/resource/The_Right_Time_(The_Corrs_song),http://dbpedia.org/resource/The_Right_Time_(Hoodoo_Gurus_song)
+0,59,The Lord,http://dbpedia.org/resource/The_Lord_of_the_Rings,http://dbpedia.org/resource/The_Lord_(song)
+0,62,The Inner Light,http://dbpedia.org/resource/The_Inner_Light_(Star_Trek:_The_Next_Generation),http://dbpedia.org/resource/The_Inner_Light_(song)
+0,63,The Horses,http://dbpedia.org/resource/A_Horse_with_No_Name,http://dbpedia.org/resource/The_Horses
+0,66,The Hard Way,http://dbpedia.org/resource/The_Hard_Way_(Mary_Chapin_Carpenter_song),http://dbpedia.org/resource/The_Hard_Way_(The_Kinks_song)
+0,67,The Hanging Garden,http://dbpedia.org/resource/A_Single,http://dbpedia.org/resource/Hanging_Garden_(song) http://dbpedia.org/resource/The_Hanging_Garden_(song) http://dbpedia.org/resource/The_Hanging_Garden_(the_song)
+0,77,The Call,http://dbpedia.org/resource/This_Is_a_Call,http://dbpedia.org/resource/The_Call_(Anne_Murray_song)
+0,80,The Bell,http://dbpedia.org/resource/The_Division_Bell,http://dbpedia.org/resource/The_Bell_(song) http://dbpedia.org/resource/The_Venetian_Effect
+0,84,Thank You Girl,http://dbpedia.org/resource/Thank_You_(Dido_song),http://dbpedia.org/resource/Thankyou_girl http://dbpedia.org/resource/Thank-you_girl http://dbpedia.org/resource/Thank_You_Girl http://dbpedia.org/resource/Thank_You_Girl_(The_Beatles_song)
+0,85,Terry,http://dbpedia.org/resource/Clark_Terry,http://dbpedia.org/resource/Terry_(Kirsty_MacColl_song)
+0,91,Teardrops,http://dbpedia.org/resource/Teardrops_(George_Harrison_song),http://dbpedia.org/resource/Teardrops_(Lovestation_song) http://dbpedia.org/resource/Teardrops_(Womack_&_Womack_song)
+0,92,Tear,http://dbpedia.org/resource/Tears_(X_Japan_song),http://dbpedia.org/resource/Tear_(song)
+0,94,Talk Dirty,http://dbpedia.org/resource/Talk_Dirty_(Jason_Derulo_song),http://dbpedia.org/resource/Talk_Dirty_(John_Entwistle_song)
+0,100,Take Me Home,http://dbpedia.org/resource/Take_Me_Home_(Cher_song),http://dbpedia.org/resource/Take_Me_Home_(Rogert_Daltrey_song) http://dbpedia.org/resource/Take_Me_Home_(Roger_Daltrey_song)
+0,103,Tainted Love,http://it.dbpedia.org/resource/Tainted_Love_(Marilyn_Manson),http://dbpedia.org/resource/Tainted_Love_(Marilyn_Manson) http://dbpedia.org/resource/Tainted_Love http://dbpedia.org/resource/Tainted_love http://dbpedia.org/resource/Sometimes_i_feel_i've_got_to http://dbpedia.org/resource/Tainted_Love_(Marilyn_Manson_song)
+0,106,Sweetheart,http://dbpedia.org/resource/Sweetheart_Like_You,http://dbpedia.org/resource/Sweetheart_(Bee_Gees_song)
+0,107,Sweet Love,http://dbpedia.org/resource/Sweet_Love_(Chris_Brown_song),http://dbpedia.org/resource/Sweet_Love_(Company_of_Strangers_song)
+0,112,Sure,http://dbpedia.org/resource/Sure_(Every_Little_Thing_song),http://dbpedia.org/resource/Sure(Debbie_Gibson_song) http://dbpedia.org/resource/Sure_(Debbie_Gibson_song)
+0,113,Superstar,http://dbpedia.org/resource/Superstar_(Lupe_Fiasco_song),http://dbpedia.org/resource/Superstar_(Jade_MacRae_song)
+0,116,Sunglasses at Night,http://dbpedia.org/resource/Sunglasses_at_Night_(Skepta_song),http://dbpedia.org/resource/Sunglasses_At_Night http://dbpedia.org/resource/Sunglasses_at_Night http://dbpedia.org/resource/I_Wear_My_Sunglasses_at_Night
+0,118,Sunday Morning,http://dbpedia.org/resource/Sunday_Morning_(Maroon_5_song),http://dbpedia.org/resource/Sunday_Morning_(No_Doubt_song)
+0,120,Summer,http://dbpedia.org/resource/This_Summer_(Squeeze_song),http://dbpedia.org/resource/Summer_(Mogwai_composition)
+0,124,Sugar Man,http://dbpedia.org/resource/Stars_on_45_(song),http://dbpedia.org/resource/Sugar_Man_(song)
+0,136,Stay with You,http://dbpedia.org/resource/Stay_with_You,http://dbpedia.org/resource/Stay_with_You_(Lemon_Jelly_song) http://dbpedia.org/resource/Stay_With_You_(Lemon_Jelly_song)
+0,137,Start Me Up,http://dbpedia.org/resource/Start_Me_Up,http://dbpedia.org/resource/Start_Me_Up_(Salt-n-Pepa_song)
+0,139,Spring Rain,http://dbpedia.org/resource/Spring_Rain_(MAX_song),http://dbpedia.org/resource/Spring_Rain_(Go-Betweens_song) http://dbpedia.org/resource/Spring_Rain_(The_Go-Betweens_song)
+0,145,Space,http://fr.dbpedia.org/resource/Spacer,http://dbpedia.org/resource/Space_(Prince_song)
+0,147,Sooner or Later,http://dbpedia.org/resource/One_of_Us_Must_Know_(Sooner_or_Later),http://dbpedia.org/resource/Sooner_Or_Later_(Jeff_Lynne_song) http://dbpedia.org/resource/Sooner_or_Later_(Jeff_Lynne_song)
+0,150,Somewhere,http://dbpedia.org/resource/Somewhere_(Shanice_song),http://dbpedia.org/resource/Somewhere_(song) http://dbpedia.org/resource/Somewhere_(West_Side_Story_song) http://dbpedia.org/resource/Somewhere_(1961_song)

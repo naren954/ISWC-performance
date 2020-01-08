@@ -1,0 +1,8 @@
+F1: 0.96000,Precision: 0.96000,Recall: 0.96000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,52,Pteris ensiformis,http://dbpedia.org/resource/Pteris_vittata,http://dbpedia.org/resource/Pteris_ensiformis_'VICTORIAE' http://dbpedia.org/resource/Slender_brake_fern http://dbpedia.org/resource/Slender_brake http://dbpedia.org/resource/P._ensiformis http://dbpedia.org/resource/Pteris_ensiformis_'Evergemiensis' http://dbpedia.org/resource/Victoria_fern http://dbpedia.org/resource/Silver_lace_fern http://dbpedia.org/resource/Evergemiensis http://dbpedia.org/resource/Pteris_ensiformis_'Victoriae' http://dbpedia.org/resource/Slender_Brake_Fern http://dbpedia.org/resource/Silver_Lace_Fern http://dbpedia.org/resource/Pteris_ensiformis http://dbpedia.org/resource/Sword_brake_fern http://dbpedia.org/resource/Sword_Brake_Fern
+0,60,Polypodium virginianum,http://dbpedia.org/resource/Polypodium_vulgare,http://dbpedia.org/resource/Rock_polypody http://dbpedia.org/resource/Polypodium_virginianum
+0,61,Polypodium segregatum,http://dbpedia.org/resource/Polypodium_appalachianum,http://dbpedia.org/resource/Polypodium_segregatum
+0,69,Polypodium latissimum,http://pt.dbpedia.org/resource/Calliarthron_latissimum,http://dbpedia.org/resource/Polypodium_latissimum
+0,136,Dryopteris goldiana,http://dbpedia.org/resource/Dryopteris_expansa,http://dbpedia.org/resource/Goldie's_woodfern http://dbpedia.org/resource/Dryopteris_goldiana http://dbpedia.org/resource/Aspidium_goldianum http://dbpedia.org/resource/Goldie_fern
+0,149,Dicranopteris linearis,http://dbpedia.org/resource/Gleicheniales,http://dbpedia.org/resource/Uluhe http://dbpedia.org/resource/Old_World_forked_fern http://dbpedia.org/resource/Old_World_forkedfern http://dbpedia.org/resource/Dicranopteris_linearis

@@ -1,0 +1,49 @@
+F1: 0.72989,Precision: 0.72989,Recall: 0.72989,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,2,Go!,http://dbpedia.org/resource/Going_to_a_Go-Go_(song),http://dbpedia.org/resource/Go_(Common_song) http://dbpedia.org/resource/Go_(common_song) http://dbpedia.org/resource/Go!_(Common_song) http://dbpedia.org/resource/GO!_(Common_song)
+3,4,A Whiter Shade of Pale,http://dbpedia.org/resource/A_Question_of_Honour_(song),http://dbpedia.org/resource/Whiter_Shade_of_Pale http://dbpedia.org/resource/Lighter_Shade_of_Pale http://dbpedia.org/resource/A_Whiter_Shade_Of_Pale http://dbpedia.org/resource/Whiter_shade_of_pale http://dbpedia.org/resource/A_Whiter_Shade_of_Pale http://dbpedia.org/resource/A_whiter_shade_of_pale
+3,11,In Love and I Hate It,http://dbpedia.org/resource/Hate_That_I_Love_You,http://dbpedia.org/resource/In_Love_And_I_Hate_It http://dbpedia.org/resource/In_Love_and_I_Hate_It
+3,18,Movin' On,http://dbpedia.org/resource/Movin'_On_(Bananarama_song),http://dbpedia.org/resource/Movin'_On_(Elliott_Yamin_song)
+3,19,By the Way,http://dbpedia.org/resource/By_the_Way,http://dbpedia.org/resource/By_the_Way_(Theory_of_a_Deadman_song) http://dbpedia.org/resource/By_The_Way_(Theory_of_a_Deadman_song)
+3,20,It's Over Now,http://dbpedia.org/resource/It's_Over_Now_(112_song),http://dbpedia.org/resource/It's_Over_Now_(Luther_Vandross_song)
+3,32,Generation Ex,http://dbpedia.org/resource/Generation_Ex_(song),http://dbpedia.org/resource/Generation_Ex_(Kent_song) http://dbpedia.org/resource/Generation_Ex
+3,34,Run to You,http://dbpedia.org/resource/Run_to_You_(Whitney_Houston_song),http://dbpedia.org/resource/Run_To_You_(Roxette_song) http://dbpedia.org/resource/Run_to_You_(Roxette_song)
+3,36,H,http://dbpedia.org/resource/H_(Bob_James_album),http://dbpedia.org/resource/H_(EP) http://dbpedia.org/resource/H_(song) http://dbpedia.org/resource/H_(single) http://dbpedia.org/resource/July_1st_(song)
+3,37,I'm Free,http://dbpedia.org/resource/I'm_Free_(The_Rolling_Stones_song),http://dbpedia.org/resource/I'm_Free_(Heaven_Helps_the_Man)
+3,39,Point of No Return,http://dbpedia.org/resource/Point_of_No_Return_(Exposé_song),http://dbpedia.org/resource/Point_Of_No_Return_(Systems_in_Blue_song) http://dbpedia.org/resource/Point_of_No_Return_(Systems_in_Blue_song)
+3,42,Fire,http://dbpedia.org/resource/Fire_(Scooter_song),http://dbpedia.org/resource/Fire_(The_Jimi_Hendrix_Experience_song) http://dbpedia.org/resource/Fire_(Hendrix_song) http://dbpedia.org/resource/Fire_(Jimi_Hendrix_song)
+3,43,Stay?,http://dbpedia.org/resource/Stay_(Rihanna_song),http://dbpedia.org/resource/Stay?
+3,46,Bernadette,http://dbpedia.org/resource/Bernadette_(Four_Tops_song),http://dbpedia.org/resource/Bernadette_(IAMX_song) http://dbpedia.org/resource/Bernadette_(EP)
+3,47,Tuesday Afternoon,http://dbpedia.org/resource/This_Afternoon,http://dbpedia.org/resource/Tuesday_Afternoon_(The_Moody_Blues_song) http://dbpedia.org/resource/Tuesday_Afternoon http://dbpedia.org/resource/Forever_Afternoon_(Tuesday?) http://dbpedia.org/resource/Tuesday_afternoon http://dbpedia.org/resource/Forever_Afternoon http://dbpedia.org/resource/Tuesday_Afternoon_(Forever_Afternoon)
+3,50,Stone,http://dbpedia.org/resource/Stoner_(song),http://dbpedia.org/resource/Stone_(Alice_in_Chains_song) http://dbpedia.org/resource/Stone_alice_in_chains_song
+3,51,American Dream,"http://dbpedia.org/resource/American_Dream_(Crosby,_Stills,_Nash_&_Young_album)",http://dbpedia.org/resource/American_Dream_(Casting_Crowns_song)
+3,54,Keep It Together,http://dbpedia.org/resource/Keep_It_Together_(song),http://dbpedia.org/resource/Keep_It_Together_(Madonna_song)
+3,56,Axis,http://dbpedia.org/resource/Axis:_Bold_as_Love,http://dbpedia.org/resource/Axis_(Pet_Shop_Boys_song) http://dbpedia.org/resource/Axis_(song)
+3,63,Limelight,http://dbpedia.org/resource/Limelight_(Alizée_song),http://dbpedia.org/resource/The_underlying_theme http://dbpedia.org/resource/Limelight_(song) http://dbpedia.org/resource/Limelight_(Rush_song)
+3,65,Hymn,http://dbpedia.org/resource/Hymn_(Moby_song),http://dbpedia.org/resource/Hymn_(Ultravox_song)
+3,68,Set Me Free,http://dbpedia.org/resource/Privilege_(Set_Me_Free),http://dbpedia.org/resource/Set_Me_Free_(Dillon_Francis_song) http://dbpedia.org/resource/Set_Me_Free_(Martin_Garrix_song) http://dbpedia.org/resource/Set_Me_Free_(Dillon_Francis_and_Martin_Garrix_song)
+3,75,Hallå där,,http://dbpedia.org/resource/Hallå_där
+3,79,Meant to Be,http://dbpedia.org/resource/Meant_to_Be_(Bebe_Rexha_song),http://dbpedia.org/resource/Meant_to_Be_(song)
+3,83,Far Away,http://dbpedia.org/resource/Far_Away_(Ayumi_Hamasaki_song),http://dbpedia.org/resource/Far_Away_(Wolfmother_song)
+3,84,Hallelujah,http://dbpedia.org/resource/Hallelujah_(Krystal_Meyers_song),http://dbpedia.org/resource/Patd_hallelujah http://dbpedia.org/resource/Hallelujah_panic_at_the_disco_song http://dbpedia.org/resource/Hallelujah_(Panic!_at_the_Disco_song) http://dbpedia.org/resource/Panic_at_the_disco_hallelujah http://dbpedia.org/resource/Hallelujah_(Panic_at_the_Disco_song) http://dbpedia.org/resource/Hallelujah_patd
+3,96,Aura,http://dbpedia.org/resource/Aura_(CMX_album),http://dbpedia.org/resource/Aura_(song)
+3,97,I Need You,http://dbpedia.org/resource/I_Need_You_(Relient_K_song),http://dbpedia.org/resource/I_Need_You_(America_song)
+3,98,Perdóname,http://dbpedia.org/resource/All_by_Myself,http://dbpedia.org/resource/Perdóname_(Ricky_Martin_song)
+3,115,Oh My God,http://dbpedia.org/resource/Oh_My_God_(A_Tribe_Called_Quest_song),http://dbpedia.org/resource/Oh_My_God_(Kaiser_Chiefs_song)
+3,117,Step by Step,http://dbpedia.org/resource/Step_by_Step_(Annie_Lennox_song),http://dbpedia.org/resource/Step_by_Step_(New_Kids_on_the_Block_song)
+3,123,Islands,http://dbpedia.org/resource/Islands_(Mike_Oldfield_album),http://dbpedia.org/resource/Islands_(The_xx_song)
+3,126,Human,http://dbpedia.org/resource/Human_(The_Killers_song),http://dbpedia.org/resource/Human_(Goldfrapp_song)
+3,127,Home,http://dbpedia.org/resource/Home_(Gabrielle_Aplin_song),http://dbpedia.org/resource/Home_(Depeche_Mode_song)
+3,131,Patience,http://dbpedia.org/resource/Patience_(Take_That_song),http://dbpedia.org/resource/Patience_(Guns_N'_Roses_song)
+3,133,You're the One,http://dbpedia.org/resource/You're_the_One_(Dwight_Yoakam_song),http://dbpedia.org/resource/You're_the_One_(SWV_song) http://dbpedia.org/resource/You're_the_One_Allstar_Rap_Remix
+3,135,Money,http://dbpedia.org/resource/Money_(David_Guetta_song),http://dbpedia.org/resource/Money_(Pink_Floyd_song)
+3,136,Stronger,http://dbpedia.org/resource/Stronger_(What_Doesn't_Kill_You),http://dbpedia.org/resource/Stronger_(kanye_west) http://dbpedia.org/resource/Stronger_(Kanye_West_song) http://dbpedia.org/resource/Kanye_West_Stronger
+3,137,Home,http://dbpedia.org/resource/Home_(Gabrielle_Aplin_song),http://dbpedia.org/resource/Home_(Michael_Bublé_song) http://dbpedia.org/resource/Home_(Westlife_song) http://dbpedia.org/resource/Home_(Michael_Buble_song) http://dbpedia.org/resource/Home_(Blake_Shelton_song)
+3,138,I'll Get Even With You,http://dbpedia.org/resource/I'll_Be_There_for_You/You're_All_I_Need_to_Get_By,http://dbpedia.org/resource/Love_On_The_Telephone http://dbpedia.org/resource/Head_Games http://dbpedia.org/resource/I'll_Get_Even_With_You
+3,141,Still Waiting,http://dbpedia.org/resource/Still_Waiting_(Sum_41_song),http://dbpedia.org/resource/Still_Waiting_(Prince_song)
+3,143,Better Together,http://dbpedia.org/resource/Better_Together_(Jack_Johnson_song),http://dbpedia.org/resource/Better_Together_(song)
+3,145,I Won't Let You Down,http://dbpedia.org/resource/I_Won't_Let_You_Down_(Ph.D._song),http://dbpedia.org/resource/I_Won't_Let_You_Down_(OK_Go_song)
+3,150,July,http://dbpedia.org/resource/July_(EP),http://dbpedia.org/resource/July_(song)
+3,154,Looking for You,http://dbpedia.org/resource/Looking_for_You,http://dbpedia.org/resource/Where_Duty_Calls http://dbpedia.org/resource/Going_Under_(Patti_Smith_song) http://dbpedia.org/resource/Dream_of_life http://dbpedia.org/resource/Wild_Leaves http://dbpedia.org/resource/The_Jackson_Song http://dbpedia.org/resource/As_the_Night_Goes_By http://dbpedia.org/resource/Looking_for_You_(I_Was) http://dbpedia.org/resource/Dream_of_Life_(song) http://dbpedia.org/resource/Paths_That_Cross http://dbpedia.org/resource/Dream_Of_Life http://dbpedia.org/resource/Dream_of_Life
+3,163,Disease,http://dbpedia.org/resource/Shake_the_Disease,http://dbpedia.org/resource/Disease_(song)
+3,170,These Walls,http://dbpedia.org/resource/These_Walls_(Teddy_Geiger_song),http://dbpedia.org/resource/These_Walls_(Kendrick_Lamar_song)

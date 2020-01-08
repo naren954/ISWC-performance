@@ -1,0 +1,8 @@
+"F1: 0.53846","Precision: 0.53846","Recall: 0.53846"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","3","L. Stokes","http://dbpedia.org/resource/Louis_Stokes","http://dbpedia.org/resource/Lori_Stokes"
+"1","4","Lansdale Ghiselin Sasscer, Jr.","http://dbpedia.org/resource/Lansdale_Ghiselin_Sasscer_Jr.","http://dbpedia.org/resource/Lansdale_Ghiselin_Sasscer,_Jr."
+"1","6","J. Q. III","http://dbpedia.org/resource/Bill_Clinton","http://dbpedia.org/resource/Jack_Quinn_(Assemblyman) http://dbpedia.org/resource/Jack_Quinn_III http://dbpedia.org/resource/Jack_Quinn_(assemblyman)"
+"1","11","Compton I. White, Jr.","http://dbpedia.org/resource/Bill_Clinton","http://dbpedia.org/resource/Compton_White,_Jr. http://dbpedia.org/resource/Compton_I._White,_Jr. http://dbpedia.org/resource/Compton_I._White_Jr. http://dbpedia.org/resource/Compton_Ignatius_White,_Jr."
+"1","12","J. Wilson","http://dbpedia.org/resource/Joe_Wilson_(American_politician)","http://dbpedia.org/resource/Jason_Wilson_(politician)"
+"1","13","C. H. Jr.","http://dbpedia.org/resource/Claude_Harris_Jr.","http://dbpedia.org/resource/Carter_Harrison_Jr http://dbpedia.org/resource/Carter_H._Harrison,_Jr. http://dbpedia.org/resource/Carter_Henry_Harrison_Jr. http://dbpedia.org/resource/Carter_Henry_Harrison,_Jr. http://dbpedia.org/resource/Carter_Harrison,_Jr. http://dbpedia.org/resource/Carter_Harrison_Jr. http://dbpedia.org/resource/Carter_Harrison_II"

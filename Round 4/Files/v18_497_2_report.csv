@@ -1,0 +1,5 @@
+"F1: 0.82353","Precision: 0.82353","Recall: 0.82353"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"2","3","Middle colic vein","http://dbpedia.org/resource/Middle_cardiac_vein","http://dbpedia.org/resource/Middle_colic_veins http://dbpedia.org/resource/Middle_colic_vein http://dbpedia.org/resource/Vena_colica_media"
+"2","6","Internal jugular vein","http://dbpedia.org/resource/Jugular_vein","http://dbpedia.org/resource/Internal_Jugular_Vein http://dbpedia.org/resource/Vena_jugularis_interna http://dbpedia.org/resource/Internal_jugular http://dbpedia.org/resource/Internal_jugular_veins http://dbpedia.org/resource/Superior_jugular_bulb http://dbpedia.org/resource/Internal_jugular_vein"
+"2","10","Internal jugular vein","http://dbpedia.org/resource/Jugular_vein","http://dbpedia.org/resource/Internal_Jugular_Vein http://dbpedia.org/resource/Vena_jugularis_interna http://dbpedia.org/resource/Internal_jugular http://dbpedia.org/resource/Internal_jugular_veins http://dbpedia.org/resource/Superior_jugular_bulb http://dbpedia.org/resource/Internal_jugular_vein"

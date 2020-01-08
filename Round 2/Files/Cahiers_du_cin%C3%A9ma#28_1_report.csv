@@ -1,0 +1,4 @@
+"F1: 0.80000","Precision: 0.80000","Recall: 0.80000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","5","The Bridges of Madison County","http://dbpedia.org/resource/The_Bridges_of_Madison_County_(film)","http://dbpedia.org/resource/Love_in_Black_and_White http://dbpedia.org/resource/Bridges_Of_Madison_County http://dbpedia.org/resource/The_Bridges_of_Madison_County http://dbpedia.org/resource/Bridges_of_Madison_County"
+"1","6","Oublie-moi","http://fr.dbpedia.org/resource/Oublie-moi_(film)","http://dbpedia.org/resource/Indra_(singer) http://dbpedia.org/resource/Oublie-moi"

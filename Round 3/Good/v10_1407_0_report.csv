@@ -1,0 +1,8 @@
+F1: 0.93333,Precision: 0.93333,Recall: 0.93333,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,23,R. Martin,http://dbpedia.org/resource/Russell_Martin,http://dbpedia.org/resource/Russ_Martin
+0,31,P. Robert,http://de.dbpedia.org/resource/Philippe_Robert,http://dbpedia.org/resource/Pierre_Robert
+0,48,M. Radcliffe,http://dbpedia.org/resource/Mark_Radcliffe_(politician),http://dbpedia.org/resource/Mark_Radcliffe http://dbpedia.org/resource/The_White_Room_(TV_series) http://dbpedia.org/resource/The_White_Room_(TV_programme)
+0,55,L. a. Davey,http://dbpedia.org/resource/Martin_L._Davey,http://dbpedia.org/resource/Lex_and_Davey
+0,58,K. Lee,http://dbpedia.org/resource/Kui_Lee,http://dbpedia.org/resource/Kristi_Lee http://dbpedia.org/resource/Theresa_Ritz
+0,73,J. Walker,http://dbpedia.org/resource/John_Walker_(natural_historian),http://dbpedia.org/resource/Johnnie_Walker_(DJ)

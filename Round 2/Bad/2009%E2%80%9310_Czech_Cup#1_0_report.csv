@@ -1,0 +1,5 @@
+F1: 0.40000,Precision: 0.40000,Recall: 0.40000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,10,FK AS Pardubice,http://dbpedia.org/resource/FK_Pardubice,http://dbpedia.org/resource/FK_AS_Pardubice http://dbpedia.org/resource/Atlantic_Slovan_Pardubice http://dbpedia.org/resource/FK_Slovan_Pardubice
+0,11,Å½idenice,http://dbpedia.org/resource/FC_Zbrojovka_Brno,http://dbpedia.org/resource/ČAFC_Židenice
+0,12,SpytihnÄ\u009Bv,http://dbpedia.org/resource/BV_Cloppenburg_(women),http://dbpedia.org/resource/FC_Slovácká_Sparta_Spytihněv

@@ -1,0 +1,12 @@
+F1: 0.90099,Precision: 0.90099,Recall: 0.90099,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,36,The Gladiator,http://dbpedia.org/resource/The_Gladiator_(Scarrow_novel),http://dbpedia.org/resource/The_Gladiator_(Turtledove_novel)
+0,42,The Game,http://dbpedia.org/resource/GamePro,http://dbpedia.org/resource/The_Game_(King_novel) http://dbpedia.org/resource/The_Game_(King) http://dbpedia.org/resource/The_Game_(Mary_Russell_novel)
+0,53,The Fires of Merlin,http://dbpedia.org/resource/Merlin_Book_3:_The_Raging_Fires,http://dbpedia.org/resource/The_Fires_of_Merlin
+0,60,The Familiar,http://dbpedia.org/resource/The_Familiars_(novel),http://dbpedia.org/resource/The_Familiar_(Animorphs) http://dbpedia.org/resource/The_Familiar_(novel)
+0,67,The Escape,http://dbpedia.org/resource/The_Sweet_Escape,http://dbpedia.org/resource/The_Escape_(Applegate_novel) http://dbpedia.org/resource/The_Escape_(Animorphs)
+0,70,The Enemy,http://dbpedia.org/resource/The_Enemy_Within_(Star_Trek:_The_Original_Series),http://dbpedia.org/resource/The_Enemy_(Child_novel)
+0,81,The Dragon Knight,http://dbpedia.org/resource/The_Dragon_Knight_(novel),http://dbpedia.org/resource/The_Dragon_Knight
+0,86,The Discovery,,http://dbpedia.org/resource/The_Discovery_(Animorphs) http://dbpedia.org/resource/The_Discovery_(novel)
+0,92,The Decision,http://dbpedia.org/resource/Tonight's_Decision,http://dbpedia.org/resource/The_Decision_(novel) http://dbpedia.org/resource/The_Decision_(Animorphs)
+0,97,The Dark Room,http://dbpedia.org/resource/The_Dark_Room_(Walters_novel),http://dbpedia.org/resource/The_Dark_Room_(Narayan_novel)

@@ -1,0 +1,5 @@
+F1: 0.81250,Precision: 0.81250,Recall: 0.81250,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,4,The Honeydripper,http://dbpedia.org/resource/The_Honeydripper_(Jack_McDuff_album),http://dbpedia.org/resource/The_Honeydripper_(album)
+0,6,The Hill,http://dbpedia.org/resource/One_Tree_Hill_(TV_series),http://dbpedia.org/resource/The_Hill_(album)
+0,8,The High Road,http://dbpedia.org/resource/The_High_Road_(album),http://dbpedia.org/resource/The_High_Road_(Roxy_Music_EP) http://dbpedia.org/resource/The_High_Road_(EP)

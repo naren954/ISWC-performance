@@ -1,0 +1,4 @@
+"F1: 0.00000","Precision: 0.00000","Recall: 0.00000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","4","Francis Kirby","http://dbpedia.org/resource/Francis_Kirby","http://dbpedia.org/resource/Dave_Warner_(strongman) http://dbpedia.org/resource/David_Warner_(strongman)"
+"1","5","Brian Irwin","http://dbpedia.org/resource/Bill_Irwin","http://dbpedia.org/resource/Francis_Kirby"

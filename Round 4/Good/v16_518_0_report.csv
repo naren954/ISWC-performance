@@ -1,0 +1,10 @@
+F1: 0.95918,Precision: 0.95918,Recall: 0.95918,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,Oxygen,http://dbpedia.org/resource/Anna_Oxygen,http://dbpedia.org/resource/Oxygen_(horse)
+0,17,On-and-On,,http://dbpedia.org/resource/On-and-On http://dbpedia.org/resource/On-And-On
+0,22,Observatory,http://dbpedia.org/resource/Lowell_Observatory,http://dbpedia.org/resource/Observatory_(horse)
+0,89,Manitoba,http://dbpedia.org/resource/Richard_Manitoba,http://dbpedia.org/resource/Manitoba_(horse)
+0,94,Malibu Moon,http://dbpedia.org/resource/Malibu_Moon,http://dbpedia.org/resource/Malibu_Moon_(horse)
+0,138,Kentucky,http://dbpedia.org/resource/Gail_Forrest_Kentucky,http://dbpedia.org/resource/Kentucky_(horse)
+0,169,Integral,http://dbpedia.org/resource/Integrál-DAC,http://dbpedia.org/resource/Integral_(horse)
+0,183,Holiday,http://dbpedia.org/resource/Billie_Holiday,http://dbpedia.org/resource/Holiday_(horse)

@@ -1,0 +1,69 @@
+F1: 0.45528,Precision: 0.45528,Recall: 0.45528,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,3,M. Alcorn,http://dbpedia.org/resource/Alvin_Alcorn,http://dbpedia.org/resource/Mary_Alcorn
+1,5,M. Bošković,http://dbpedia.org/resource/Roger_Joseph_Boscovich,http://dbpedia.org/resource/Magda_Boskovic http://dbpedia.org/resource/Magda_Bošković
+1,8,C. Montour,http://dbpedia.org/resource/Brandon_Montour,http://dbpedia.org/resource/Catharine_Montour http://dbpedia.org/resource/Catherine_Montour
+1,9,H. S. Bear,http://dbpedia.org/resource/Greg_Bear,http://dbpedia.org/resource/Henry_Standing_Bear
+1,10,M. Folger,http://de.dbpedia.org/resource/Abigail_Folger,http://dbpedia.org/resource/Topaz_(ship) http://dbpedia.org/resource/Mayhew_Folger
+1,15,A. Stuart,"http://dbpedia.org/resource/Mary,_Queen_of_Scots",http://dbpedia.org/resource/Andrew_Stuart_(seigneur)
+1,16,É. Lagueux,http://dbpedia.org/resource/E,http://dbpedia.org/resource/Etienne-Claude_Lagueux http://dbpedia.org/resource/Étienne-Claude_Lagueux
+1,17,E. Stock,http://dbpedia.org/resource/Nigel_Stock_(actor),http://dbpedia.org/resource/Emil_Stock
+1,21,M. Brady,http://dbpedia.org/resource/Alice_Brady,http://dbpedia.org/resource/Mathew_B._Brady http://dbpedia.org/resource/Matthew_B._Brady http://dbpedia.org/resource/Brady_of_Broadway http://dbpedia.org/resource/Mathew_Brady
+1,22,L. C. Mott,http://dbpedia.org/resource/Frank_Luther_Mott,http://dbpedia.org/resource/Lydia_Mott http://dbpedia.org/resource/Lucretia_Coffin_Mott http://dbpedia.org/resource/Lucretia_Mott
+1,23,O. C. Skinner,http://dbpedia.org/resource/Cornelia_Otis_Skinner,http://dbpedia.org/resource/Onias_C._Skinner
+1,24,F. son,http://dbpedia.org/resource/Diana_Son,http://dbpedia.org/resource/Foster_brother http://dbpedia.org/resource/Foster-brother http://dbpedia.org/resource/Foster-son http://dbpedia.org/resource/Foster_son http://dbpedia.org/resource/Fosterage http://dbpedia.org/resource/Fosterling
+1,25,Married and maiden names,http://dbpedia.org/resource/Constance_Marie_Charpentier,http://dbpedia.org/resource/Maiden_and_married_names http://dbpedia.org/resource/Maiden_Name http://dbpedia.org/resource/Married_name http://dbpedia.org/resource/Maiden_name http://dbpedia.org/resource/Maiden_&_married_names http://dbpedia.org/resource/Japanese_married_and_maiden_names http://dbpedia.org/resource/Married_&_maiden_names http://dbpedia.org/resource/Married_Name http://dbpedia.org/resource/Married_and_maiden_names
+1,26,A. Müller,http://dbpedia.org/resource/Heiner_Müller,http://dbpedia.org/resource/Alfred_Müller_(entrepreneur) http://dbpedia.org/resource/Alfred_Muller_(entrepreneur)
+1,27,K. Bernheimer,http://dbpedia.org/resource/Otto_Bernheimer,http://dbpedia.org/resource/Konrad_Bernheimer
+1,30,Pierre S. du Pont,http://dbpedia.org/resource/Pierre_Samuel_du_Pont_de_Nemours,http://dbpedia.org/resource/Pierre_S._du_Pont http://dbpedia.org/resource/Pierre_S._duPont http://dbpedia.org/resource/Pierre_S_Du_Pont
+1,32,H. Carson,http://dbpedia.org/resource/Ben_Carson,http://dbpedia.org/resource/Hunter_Carson
+1,34,J. Carr,http://dbpedia.org/resource/Jody_Carr,http://dbpedia.org/resource/John_Carr_of_York http://dbpedia.org/resource/John_Carr_(architect)
+1,35,A. Todd,http://dbpedia.org/resource/Ann_Todd,http://dbpedia.org/resource/Andrew_Todd_(New_Zealand)
+1,36,J. S. Graham,http://dbpedia.org/resource/Lindsey_Graham,http://dbpedia.org/resource/John_Stephens_Graham
+1,39,D. Charlie,http://dbpedia.org/resource/Charles_Edward_Stuart,http://dbpedia.org/resource/Kaa_goox http://dbpedia.org/resource/Dawson_Charlie http://dbpedia.org/resource/Tagish_Charlie http://dbpedia.org/resource/Káa_goox
+1,40,Married and maiden names,http://dbpedia.org/resource/Constance_Marie_Charpentier,http://dbpedia.org/resource/Maiden_and_married_names http://dbpedia.org/resource/Maiden_Name http://dbpedia.org/resource/Married_name http://dbpedia.org/resource/Maiden_name http://dbpedia.org/resource/Maiden_&_married_names http://dbpedia.org/resource/Japanese_married_and_maiden_names http://dbpedia.org/resource/Married_&_maiden_names http://dbpedia.org/resource/Married_Name http://dbpedia.org/resource/Married_and_maiden_names
+1,41,W. Liebknecht,http://dbpedia.org/resource/Karl_Liebknecht,http://dbpedia.org/resource/William_Liebknecht http://dbpedia.org/resource/Wilhelm_Liebknecht
+1,45,R. Viswanathan,http://dbpedia.org/resource/N._Viswanathan,http://dbpedia.org/resource/Radha_Viswanathan
+1,49,"Bolivar Edwards Kemp, Jr.",http://dbpedia.org/resource/Bolivar_E._Kemp,"http://dbpedia.org/resource/Bolivar_Edwards_Kemp,_Jr. http://dbpedia.org/resource/Bolivar_Edwards_Kemp_Jr."
+1,51,J. Warhola,http://dbpedia.org/resource/Andy_Warhol,http://dbpedia.org/resource/James_Warhola
+1,52,E. Lilly,http://dbpedia.org/resource/Eli_Lilly,http://dbpedia.org/resource/Eli_Lilly_(industrialist)
+1,55,M. Brant,http://dbpedia.org/resource/Mike_Brant,http://dbpedia.org/resource/Molly_Brandt http://dbpedia.org/resource/Koñwatsiãtsiaiéñni http://dbpedia.org/resource/Molly_Brant http://dbpedia.org/resource/Degonwadonti http://dbpedia.org/resource/Konwatsiatsiaienni http://dbpedia.org/resource/Ganwatsijayenni http://dbpedia.org/resource/Tekonwatonti http://dbpedia.org/resource/Mollie_Brant http://dbpedia.org/resource/Mary_Brandt http://dbpedia.org/resource/Mary_Brant
+1,56,E. DeWolf,http://dbpedia.org/resource/Hedda_Hopper,http://dbpedia.org/resource/Elisha_DeWolf
+1,57,F. Kell,http://dbpedia.org/resource/William_McKell,http://dbpedia.org/resource/Frank_Kell
+1,58,W. J. Murray,http://dbpedia.org/resource/John_Murray_(oceanographer),http://dbpedia.org/resource/William_J_Murray http://dbpedia.org/resource/William_Murray_(author) http://dbpedia.org/resource/My_Life_Without_God http://dbpedia.org/resource/William_J._Murray
+1,63,G. Contant,http://dbpedia.org/resource/Alexis_Contant,http://dbpedia.org/resource/George_Contant
+1,64,M. G. Ross,http://dbpedia.org/resource/Edmund_G._Ross,http://dbpedia.org/resource/Mary_G._Ross
+1,68,J. K. Labatt,http://dbpedia.org/resource/J._K._Simmons,http://dbpedia.org/resource/John_Kinder_Labatt
+1,70,Judge,http://dbpedia.org/resource/Mike_Judge,http://dbpedia.org/resource/Judge http://dbpedia.org/resource/Judge_(United_States) http://dbpedia.org/resource/Judge's_robes http://dbpedia.org/resource/Iudex http://dbpedia.org/resource/Your_honour http://dbpedia.org/resource/Your_Honour http://dbpedia.org/resource/Professional_judges http://dbpedia.org/resource/Presiding_Judge http://dbpedia.org/resource/Your_honor http://dbpedia.org/resource/Your_Honor http://dbpedia.org/resource/Presiding_judge http://dbpedia.org/resource/Justices http://dbpedia.org/resource/United_States_judge http://dbpedia.org/resource/Justice_(official)
+1,72,K. family,http://dbpedia.org/resource/Bagrationi_dynasty,http://dbpedia.org/resource/Kennedy_Family http://dbpedia.org/resource/David_Anthony_Kennedy http://dbpedia.org/resource/Dead_Kennedy_Family_Members http://dbpedia.org/resource/Kennedy_family_political_line http://dbpedia.org/resource/The_Kennedy_Family http://dbpedia.org/resource/Kennedy_political_family http://dbpedia.org/resource/Kennedys http://dbpedia.org/resource/Kennedy_family http://dbpedia.org/resource/Kennedy_political_dynasty http://dbpedia.org/resource/House_of_Kennedy http://dbpedia.org/resource/List_of_descendants_of_Joseph_P._and_Rose_Fitzgerald_Kennedy http://dbpedia.org/resource/Kennedy_dynasty http://dbpedia.org/resource/James_Kennedy_(ancestor_of_John_F._Kennedy) http://dbpedia.org/resource/Family_Kennedy http://dbpedia.org/resource/Kennedy_family_tree
+1,74,J. Dougall,http://dbpedia.org/resource/John_McDougall_(Australian_politician),http://dbpedia.org/resource/James_Dougall
+1,75,R. family,http://dbpedia.org/resource/Albert_R._Broccoli,http://dbpedia.org/resource/Rockefellers http://dbpedia.org/resource/Rockefeller_family http://dbpedia.org/resource/Renee_Rockefeller http://dbpedia.org/resource/Charles_Rockefeller http://dbpedia.org/resource/Rockefeller_Family http://dbpedia.org/resource/Rockefellar http://dbpedia.org/resource/Rockefeller_Archive_Center
+1,78,J. Carne,http://dbpedia.org/resource/John_Carne,http://dbpedia.org/resource/Joseph_Carne
+1,79,B. family,http://dbpedia.org/resource/Clarinet,http://dbpedia.org/resource/Billington_wrestling_family http://dbpedia.org/resource/Billington_family http://dbpedia.org/resource/Billington_executioner_family
+1,81,A. Brinkley,http://dbpedia.org/resource/Joel_Brinkley,http://dbpedia.org/resource/Alan_Brinkley http://dbpedia.org/resource/The_Unfinished_Nation
+1,82,S. Spagnuolo,http://dbpedia.org/resource/Jusepe_de_Ribera,http://dbpedia.org/resource/Steve_Spagnuolo http://dbpedia.org/resource/Steve_spagnola http://dbpedia.org/resource/Steve_Spagnolo http://dbpedia.org/resource/Steve_Spagnulo
+1,83,S. Gregg,http://dbpedia.org/resource/Forrest_Gregg,http://dbpedia.org/resource/Samuel_Gregg
+1,84,P. Marshall,http://dbpedia.org/resource/Penny_Marshall,http://dbpedia.org/resource/Peter_Marshall_(U.S._entertainer) http://dbpedia.org/resource/Peter_Marshall_(game_show_host) http://dbpedia.org/resource/Peter_Marshall_(entertainer)
+1,85,O. Sturgess,http://dbpedia.org/resource/Sydney_Sturgess,http://dbpedia.org/resource/Olive_Sturgess
+1,86,J. Hope,http://dbpedia.org/resource/John_Hope_(botanist),http://dbpedia.org/resource/Johnny_Hope
+1,87,J. Bowman,http://dbpedia.org/resource/Joe_Bowman_(marksman),http://dbpedia.org/resource/John_Bowman_(pioneer)
+1,89,N. Mitford,http://dbpedia.org/resource/Jessica_Mitford,"http://dbpedia.org/resource/Nancy_Freeman-Mitford http://dbpedia.org/resource/Nancy_Freeman-Mitford,_CBE http://dbpedia.org/resource/Nancy_Rodd http://dbpedia.org/resource/Nancy_Mitford,_CBE http://dbpedia.org/resource/Nancy_Mitford_CBE http://dbpedia.org/resource/Nancy_Freeman-Mitford_CBE http://dbpedia.org/resource/Nancy_Mitford"
+1,91,L. Rivera,http://dbpedia.org/resource/Jusepe_de_Ribera,http://dbpedia.org/resource/Lupillo_Rivera_Saavedra http://dbpedia.org/resource/Guadalupe_Rivera_Saavedra http://dbpedia.org/resource/Guadalupe_Saavedra http://dbpedia.org/resource/Lupillo_Rivera
+1,95,E. Waldo,http://dbpedia.org/resource/Waldo_Williams,http://dbpedia.org/resource/Elisabeth_Waldo http://dbpedia.org/resource/Elizabeth_Waldo
+1,96,A. Bolton,"http://dbpedia.org/resource/Charles_Paulet,_2nd_Duke_of_Bolton",http://dbpedia.org/resource/Al_Bolton
+1,97,M. S. Bush,http://dbpedia.org/resource/George_H._W._Bush,http://dbpedia.org/resource/Marian_Spore_Bush http://dbpedia.org/resource/Marian_Spore http://dbpedia.org/resource/Marian_bush
+1,98,R. Branca,http://dbpedia.org/resource/Vittore_Branca,http://dbpedia.org/resource/Ralph_Branca
+1,100,W. West,http://dbpedia.org/resource/Benjamin_West,http://dbpedia.org/resource/Wesley_West
+1,103,Q. Reynolds,http://dbpedia.org/resource/Joshua_Reynolds,"http://dbpedia.org/resource/Reynolds,_Quentin http://dbpedia.org/resource/Quentin_Reynolds"
+1,105,C. Monro,http://dbpedia.org/resource/Alexander_Monro_(tertius),http://dbpedia.org/resource/Charles_John_Monro http://dbpedia.org/resource/Charles_John_Munro http://dbpedia.org/resource/Charles_Monro_(rugby_union)
+1,107,R. F. Scott,http://dbpedia.org/resource/Scott_Walker_(politician),http://dbpedia.org/resource/Robert_Forsyth_Scott
+1,108,C. Schreiber,http://dbpedia.org/resource/Theodor_Schreiber,http://dbpedia.org/resource/Sir_Collingwood_Schreiber http://dbpedia.org/resource/Collingwood_Schreiber
+1,109,J. Dougall,http://dbpedia.org/resource/John_McDougall_(Australian_politician),http://dbpedia.org/resource/John_Dougall_(merchant)
+1,111,J. Cowan,http://dbpedia.org/resource/John_Cowan_(South_Australian_politician),http://dbpedia.org/resource/James_Cowan_(author)
+1,112,B. family,http://dbpedia.org/resource/Clarinet,http://dbpedia.org/resource/Billington_wrestling_family http://dbpedia.org/resource/Billington_family http://dbpedia.org/resource/Billington_executioner_family
+1,113,G. Barnston,http://dbpedia.org/resource/Harry_Barnston,http://dbpedia.org/resource/George_Barnston
+1,116,Agha,http://dbpedia.org/resource/Gul_Agha_(computer_scientist),http://dbpedia.org/resource/Agha_(actor)
+1,117,L. Eliot,"http://dbpedia.org/resource/Edward_Eliot,_3rd_Earl_of_St_Germans",http://dbpedia.org/resource/Louis_Eliot http://dbpedia.org/resource/Everybody_Loves_You_When_You're_Dead
+1,118,A. Zabludovsky,http://dbpedia.org/resource/Jacobo_Zabludovsky,http://dbpedia.org/resource/Abraham_Zabludowsky_Kraves http://dbpedia.org/resource/Abraham_Zabludowski_Kraves http://dbpedia.org/resource/Abraham_Zabludovsky_(architect)
+1,120,L. MacDonald,http://dbpedia.org/resource/Margo_MacDonald,http://dbpedia.org/resource/Leon_MacDonald
+1,122,J. Fairfax,http://dbpedia.org/resource/James_Fairfax,"http://dbpedia.org/resource/John_Fairfax http://dbpedia.org/resource/Fairfax,_John"

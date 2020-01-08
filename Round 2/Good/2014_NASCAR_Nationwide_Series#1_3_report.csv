@@ -1,0 +1,5 @@
+F1: 0.96053,Precision: 0.96053,Recall: 0.96053,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,57,Jason White,http://dbpedia.org/resource/Jason_White_(rugby_union),http://dbpedia.org/resource/Jason_White_(autoracer) http://dbpedia.org/resource/Jason_White_(NASCAR) http://dbpedia.org/resource/Jason_White_(American_racing_driver) http://dbpedia.org/resource/Jason_White_(racing_driver)
+3,59,"RubÃ©n GarcÃ­a, Jr.[34]",http://dbpedia.org/resource/Rubén_García_Jr._(racing_driver),"http://dbpedia.org/resource/Rubén_García,_Jr._(racing_driver)"
+3,61,Jason White,http://dbpedia.org/resource/Jason_White_(rugby_union),http://dbpedia.org/resource/Jason_White_(autoracer) http://dbpedia.org/resource/Jason_White_(NASCAR) http://dbpedia.org/resource/Jason_White_(American_racing_driver) http://dbpedia.org/resource/Jason_White_(racing_driver)

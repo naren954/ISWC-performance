@@ -1,0 +1,6 @@
+"F1: 0.91304","Precision: 0.91304","Recall: 0.91304"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","1","Another Day","http://dbpedia.org/resource/24:_Live_Another_Day","http://dbpedia.org/resource/Another_Day_(TV_series)"
+"0","8","Ang Yaman ni Lola","http://dbpedia.org/resource/Wansapanataym","http://dbpedia.org/resource/Ang_Yaman_ni_Lola"
+"0","9","Ang Iibigin Ay Ikaw","http://dbpedia.org/resource/Ang_Iibigin_ay_Ikaw","http://dbpedia.org/resource/Ang_Iibigin_Ay_Ikaw"
+"0","18","Amber","http://dbpedia.org/resource/The_Chronicles_of_Amber","http://dbpedia.org/resource/Amber_(TV_series) http://dbpedia.org/resource/Amber_(TV_Series)"

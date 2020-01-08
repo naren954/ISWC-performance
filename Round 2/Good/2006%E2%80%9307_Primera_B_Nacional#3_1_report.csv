@@ -1,0 +1,5 @@
+F1: 0.85000,Precision: 0.85000,Recall: 0.85000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,13,San MartÃ­n (T),http://dbpedia.org/resource/San_Martín_de_San_Juan,http://dbpedia.org/resource/San_Martín_de_Tucumán
+1,17,HuracÃ¡n (TA),http://dbpedia.org/resource/Club_Atlético_Huracán,http://dbpedia.org/resource/Huracán_de_Tres_Arroyos
+1,20,Talleres (C)1,,http://dbpedia.org/resource/Talleres_de_Córdoba

@@ -1,0 +1,4 @@
+"F1: 0.33333","Precision: 0.33333","Recall: 0.33333"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","2","Something Real","http://dbpedia.org/resource/Something_Real_(album)","http://dbpedia.org/resource/Monster_(Meg_&_Dia_song) http://dbpedia.org/resource/Monster_(Meg_and_Dia_song) http://dbpedia.org/resource/Something_Real"
+"1","4","Cocoon","http://dbpedia.org/resource/Cocoon_(Björk_song)","http://dbpedia.org/resource/Cocoon_(Meg_&_Dia_Album)"

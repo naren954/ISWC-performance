@@ -1,0 +1,5 @@
+F1: 0.75000,Precision: 0.75000,Recall: 0.75000,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,5,D. Grant,http://dbpedia.org/resource/Duncan_Grant,http://dbpedia.org/resource/David_Grant_(singer) http://dbpedia.org/resource/Mated_(song)
+2,7,G. Roslin,http://dbpedia.org/resource/Alexander_Roslin,http://dbpedia.org/resource/Gaby_Roslin http://dbpedia.org/resource/Gabby_roslin http://dbpedia.org/resource/Gabby_Roslin http://dbpedia.org/resource/Gabi_Roslin
+2,9,Stryker,http://dbpedia.org/resource/Jeff_Stryker,http://dbpedia.org/resource/Stryker_(DJ) http://dbpedia.org/resource/Gary_Sandorf http://dbpedia.org/resource/Theodore_Ramón_Stryker http://dbpedia.org/resource/Theodore_Ramon_Stryker http://dbpedia.org/resource/Stryker_(disc_jockey)

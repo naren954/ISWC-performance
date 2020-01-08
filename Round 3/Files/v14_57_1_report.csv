@@ -1,0 +1,6 @@
+"F1: 0.86667","Precision: 0.86667","Recall: 0.86667"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","7","Brosville, Virginia","http://dbpedia.org/resource/Brosville","http://dbpedia.org/resource/Brosville,_Virginia"
+"1","15","Hill","http://dbpedia.org/resource/Hill_County,_Montana","http://dbpedia.org/resource/Artificial_mountain http://dbpedia.org/resource/Hill http://dbpedia.org/resource/Rolling_hill http://dbpedia.org/resource/Hilly http://dbpedia.org/resource/Hills http://dbpedia.org/resource/Braes"
+"1","16","Newland, North Carolina","http://dbpedia.org/resource/North_Carolina","http://dbpedia.org/resource/Newland,_NC http://dbpedia.org/resource/Newland,_North_Carolina"
+"1","25","Idaho Falls, Idaho","http://dbpedia.org/resource/Pocatello,_Idaho","http://dbpedia.org/resource/History_of_Idaho_Falls,_Idaho http://dbpedia.org/resource/South_Idaho_Falls,_Idaho http://dbpedia.org/resource/Downtown_Idaho_Falls,_Idaho http://dbpedia.org/resource/Idaho_falls http://dbpedia.org/resource/Taylorview http://dbpedia.org/resource/Idaho_Falls,_ID http://dbpedia.org/resource/Idaho_Falls,_Idaho http://dbpedia.org/resource/Taylorview_Junior_High_School http://dbpedia.org/resource/Idaho_Falls http://dbpedia.org/resource/ID_Falls,_ID"

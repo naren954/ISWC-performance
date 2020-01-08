@@ -1,0 +1,5 @@
+F1: 0.86364,Precision: 0.86364,Recall: 0.86364,,
+Col,Row,Value,Submitted URI,Correct URI's
+4,4,Kilburn Towers,,http://dbpedia.org/resource/Kilburn_Towers
+4,8,Mountains,http://dbpedia.org/resource/Mountain_(band),http://dbpedia.org/resource/Mountains_(Prince_song)
+4,16,Now I'm Here,http://dbpedia.org/resource/Sheer_Heart_Attack,http://dbpedia.org/resource/Now_I'm_Here

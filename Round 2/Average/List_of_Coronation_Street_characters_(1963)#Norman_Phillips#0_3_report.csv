@@ -1,0 +1,10 @@
+F1: 0.61905,Precision: 0.61905,Recall: 0.61905,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,3,Barbara Assoon,http://dbpedia.org/resource/Barbara_Minty,http://dbpedia.org/resource/Barbara_assoon http://dbpedia.org/resource/Barbara_Assoon
+3,8,Judy Cornwell,http://dbpedia.org/resource/Dean_Cornwell,http://dbpedia.org/resource/Adventures_of_a_Jelly_Baby http://dbpedia.org/resource/Judy_Valerie_Cornwell http://dbpedia.org/resource/Adventures_of_a_jelly_baby http://dbpedia.org/resource/Judy_Cornwell
+3,20,Roy Holder,http://dbpedia.org/resource/Geoffrey_Holder,http://dbpedia.org/resource/Roy_Holder
+3,37,Roy Minton,http://dbpedia.org/resource/Robert_Minton,http://dbpedia.org/resource/Roy_Minton
+3,56,Alan Curtis,http://dbpedia.org/resource/Alan_Curtis_(harpsichordist),http://dbpedia.org/resource/Alan_Curtis_(British_actor)
+3,58,Harold Goodwin,http://dbpedia.org/resource/Harold_Goodwin_(American_actor),http://dbpedia.org/resource/Harold_Goodwin_(English_actor)
+3,59,John Garrie,http://dbpedia.org/resource/John_Gordon_(badminton),http://dbpedia.org/resource/John_Garrie
+3,62,Ray Brooks,http://dbpedia.org/resource/Arthur_Raymond_Brooks,http://dbpedia.org/resource/Ray_Brooks_(actor) http://dbpedia.org/resource/Ray_Brooks_(Actor)

@@ -1,0 +1,6 @@
+F1: 0.96748,Precision: 0.96748,Recall: 0.96748,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,29,Integral,http://dbpedia.org/resource/Integrál-DAC,http://dbpedia.org/resource/Integral_(horse)
+0,58,Harbour,http://dbpedia.org/resource/Harbor_seal,http://dbpedia.org/resource/Harbour_(horse)
+0,76,Giacomo,http://dbpedia.org/resource/Giacomo_Guardi,http://dbpedia.org/resource/Giacomo_(horse)
+0,78,Germany,http://dbpedia.org/resource/Albert_II_of_Germany,http://dbpedia.org/resource/Germany_(horse)

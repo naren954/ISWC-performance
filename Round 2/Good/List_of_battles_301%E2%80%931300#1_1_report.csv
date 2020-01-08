@@ -1,0 +1,5 @@
+F1: 0.85000,Precision: 0.85000,Recall: 0.85000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,5,Sack of Rome,http://dbpedia.org/resource/Sack_of_Rome_(455),http://dbpedia.org/resource/Sack_of_Rome_(410)
+1,7,Battle of Ravenna,http://dbpedia.org/resource/Battle_of_Ravenna_(1512),http://dbpedia.org/resource/Battle_of_Rimini_(432) http://dbpedia.org/resource/Battle_of_Ravenna_(432)
+1,19,Battle of Cartagena,http://dbpedia.org/resource/Battle_of_Cartagena_de_Indias,http://dbpedia.org/resource/Battle_of_Cartagena_(461)

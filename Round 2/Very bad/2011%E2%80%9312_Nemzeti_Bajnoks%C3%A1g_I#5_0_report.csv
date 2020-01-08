@@ -1,0 +1,16 @@
+F1: 0.06667,Precision: 0.06667,Recall: 0.06667,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Debrecen,http://dbpedia.org/resource/Debrecen,http://dbpedia.org/resource/Debreceni_VSC_II http://dbpedia.org/resource/DVSC http://dbpedia.org/resource/Debreceni_VSC http://dbpedia.org/resource/Debreceni_V.S.C.
+0,2,DiÃ³sgyÅ\u0091r,,http://dbpedia.org/resource/Diósgyőri_VTK
+0,4,GyÅ\u0091r,"http://dbpedia.org/resource/Gy,_Switzerland",http://dbpedia.org/resource/Győri_ETO_FC
+0,5,HaladÃ¡s,http://dbpedia.org/resource/Progress_Party_(Norway),http://dbpedia.org/resource/Szombathelyi_Haladás
+0,6,HonvÃ©d,http://dbpedia.org/resource/Józef_Bem,http://dbpedia.org/resource/Budapest_Honvéd_FC
+0,7,KaposvÃ¡r,http://dbpedia.org/resource/Kaposvár,http://dbpedia.org/resource/Kaposvári_Rákóczi_FC
+0,8,KecskemÃ©t,http://dbpedia.org/resource/Kecskemét,http://dbpedia.org/resource/Kecskeméti_TE
+0,9,Paks,http://dbpedia.org/resource/Pakistan,http://dbpedia.org/resource/Paksi_FC http://dbpedia.org/resource/Paksi_SE http://dbpedia.org/resource/Paksi_F.C.
+0,10,PÃ¡pa,http://dbpedia.org/resource/Pope,http://dbpedia.org/resource/Lombard-Pápa_TFC
+0,11,PÃ©cs,http://dbpedia.org/resource/Pécs,http://dbpedia.org/resource/Pécsi_MFC
+0,12,SiÃ³fok,http://dbpedia.org/resource/Siófok,http://dbpedia.org/resource/BFC_Siófok
+0,13,Ã\u009Ajpest,http://dbpedia.org/resource/009-1,http://dbpedia.org/resource/Újpest_FC
+0,14,Vasas,http://dbpedia.org/resource/Vaasa,http://dbpedia.org/resource/Vasas_Budapest http://dbpedia.org/resource/Vasas_SC http://dbpedia.org/resource/Vasas_S.C. http://dbpedia.org/resource/Budapesti_Vasas_SC http://dbpedia.org/resource/Vasas_SC_(water_polo)
+0,15,Videoton,http://dbpedia.org/resource/Fehérvár_FC,http://dbpedia.org/resource/Videoton_FC http://dbpedia.org/resource/FC_Fehérvár http://dbpedia.org/resource/Videoton_Fehérvár http://dbpedia.org/resource/Videoton_Székesfehérvár http://dbpedia.org/resource/Videoton_F.C. http://dbpedia.org/resource/FC_Fehervar http://dbpedia.org/resource/Videoton_Fehervar http://dbpedia.org/resource/Videoton_FC_Fehérvár http://dbpedia.org/resource/Videoton_FCF http://dbpedia.org/resource/Videoton_FC_Fehervar

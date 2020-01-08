@@ -1,0 +1,5 @@
+F1: 0.78571,Precision: 0.78571,Recall: 0.78571,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,9,Slipstream,http://dbpedia.org/resource/Slipstream_(1989_film),http://dbpedia.org/resource/Slipstream_(2005_film)
+1,14,Big Fellas,http://dbpedia.org/resource/Big_Fella,http://dbpedia.org/resource/Big_Fellas
+1,26,Black Gold,http://dbpedia.org/resource/Black_Gold_(1962_film),http://dbpedia.org/resource/Black_Gold_(2011_Nigerian_film)

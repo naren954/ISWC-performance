@@ -1,0 +1,23 @@
+F1: 0.83846,Precision: 0.83846,Recall: 0.83846,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,4,Success,http://dbpedia.org/resource/Success_(magazine),http://dbpedia.org/resource/Success_(novel)
+1,13,Mother Love,,http://dbpedia.org/resource/Mother_Love
+1,15,The Sicilian,http://dbpedia.org/resource/Mafia,http://dbpedia.org/resource/The_Sicilian
+1,20,I Am NOT Going to Get Up Today!,http://dbpedia.org/resource/I_Am_Not_Going_to_Get_Up_Today!,http://dbpedia.org/resource/I_Am_NOT_Going_to_Get_Up_Today!
+1,23,Blue Moon,http://dbpedia.org/resource/Blue_Moon_(Steve_Holy_song),http://dbpedia.org/resource/Blue_Moon_(Hamilton_novel)
+1,24,The Moor,http://dbpedia.org/resource/Othello,http://dbpedia.org/resource/The_Moor_(novel)
+1,25,Light,http://dbpedia.org/resource/Light_&_Magic,http://dbpedia.org/resource/Light_(novel)
+1,27,The Detective,http://dbpedia.org/resource/The_Great_Mouse_Detective,http://dbpedia.org/resource/The_Detective_(novel)
+1,54,The Mummy Case,http://dbpedia.org/resource/The_Mummy_Case,http://dbpedia.org/resource/The_Mummy_Case_(The_Hardy_Boys_Casefiles) http://dbpedia.org/resource/The_Mummy_Case_(Hardy_Boys)
+1,61,Ishmael,http://dbpedia.org/resource/Ishmael_(Star_Trek),http://dbpedia.org/resource/Ishmael_by_Daniel_Quinn http://dbpedia.org/resource/Ishmael_(book) http://dbpedia.org/resource/Ishmael_(novel) http://dbpedia.org/resource/Ishmael_novel
+1,63,The Guide,http://dbpedia.org/resource/The_Penguin_Guide_to_Jazz,http://dbpedia.org/resource/The_Guide
+1,68,Murphy,http://dbpedia.org/resource/Brittany_Murphy,http://dbpedia.org/resource/Murphy_(Gary_Paulsen_novel) http://dbpedia.org/resource/Murphy_(novella)
+1,71,Empire,http://dbpedia.org/resource/Empire_(film_magazine),http://dbpedia.org/resource/Empire_(Negri_and_Hardt_book)
+1,91,Midnight,http://dbpedia.org/resource/Midnight_Sun_(Meyer_novel),http://dbpedia.org/resource/Midnight_(Hunter_novel) http://dbpedia.org/resource/Midnight_(Hunter) http://dbpedia.org/resource/Midnight_(Warriors)
+1,103,Kingdom Come,http://dbpedia.org/resource/Kingdom_Come_(Bragg_novel),http://dbpedia.org/resource/Kingdom_Come_(Ballard) http://dbpedia.org/resource/Kingdom_Come_(novel_by_J.G._Ballard) http://dbpedia.org/resource/Kingdom_Come_(J._G._Ballard_novel) http://dbpedia.org/resource/Kingdom_Come_(Ballard_novel)
+1,112,Venus,http://dbpedia.org/resource/Venus_(Frankie_Avalon_song),http://dbpedia.org/resource/Venus_(novel) http://dbpedia.org/resource/Venus_(Ben_Bova)
+1,115,Holidays on Ice,http://dbpedia.org/resource/Holidays_on_Ice,http://dbpedia.org/resource/Holidays_on_Ice_(book)
+1,121,"The Fateful Triangle: The United States, Israel, and the Palestinians",,"http://dbpedia.org/resource/The_Fateful_Triangle http://dbpedia.org/resource/Fateful_Triangle http://dbpedia.org/resource/The_Fateful_Triangle:_The_United_States,_Israel,_and_the_Palestinians"
+1,122,Manifold: Space,http://dbpedia.org/resource/Space_(Baxter_novel),http://dbpedia.org/resource/Manifold:_Space
+1,124,All I Need to Know about Filmmaking I Learned from the Toxic Avenger,http://dbpedia.org/resource/All_I_Need_to_Know_about_Filmmaking_I_Learned_from_The_Toxic_Avenger,http://dbpedia.org/resource/All_I_Need_To_Know_about_Filmmaking_I_Learned_from_the_Toxic_Avenger http://dbpedia.org/resource/All_i_need_to_know_about_filmmaking_i_learned_from_the_toxic_avenger http://dbpedia.org/resource/All_I_Need_To_Know_about_Filmmaking_I_Learned_From_the_Toxic_Avenger http://dbpedia.org/resource/All_I_Need_to_Know_About_Filmmaking_I_Learned_from_the_Toxic_Avenger http://dbpedia.org/resource/All_I_Need_to_Know_about_Filmmaking_I_Learned_from_the_Toxic_Avenger http://dbpedia.org/resource/All_I_Need_To_Know_About_Filmmaking_I_Learned_From_the_Toxic_Avenger
+1,125,Dry,http://dbpedia.org/resource/Dry_(album),http://dbpedia.org/resource/Dry_(memoir)

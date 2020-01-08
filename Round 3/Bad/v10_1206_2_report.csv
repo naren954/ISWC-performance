@@ -1,0 +1,13 @@
+F1: 0.45000,Precision: 0.45000,Recall: 0.45000,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,2,J. R. Hamilton,http://dbpedia.org/resource/R._S._Hamilton,http://dbpedia.org/resource/John_Ronald_Hamilton
+2,3,R. Butler,http://dbpedia.org/resource/Richard_Butler_(Australian_politician),"http://dbpedia.org/resource/Baron_Butler_of_Saffron_Walden http://dbpedia.org/resource/Rab_Butler http://dbpedia.org/resource/Richard_Austen_Butler,_Baron_Butler_of_Saffron_Walden http://dbpedia.org/resource/R._A._Butler,_Baron_Butler_of_Saffron_Walden http://dbpedia.org/resource/R._A._Butler http://dbpedia.org/resource/Richard_Austen_Butler,_Baron_Butler_of_Saffron_Walden,_KG_CH_DL_PC http://dbpedia.org/resource/Richard_Austen_Butler http://dbpedia.org/resource/R.A._Butler"
+2,5,D. Provost,http://dbpedia.org/resource/Denise_Provost,http://dbpedia.org/resource/David_Provost
+2,10,C. o. Bangladesh,http://dbpedia.org/resource/Joseph_C._O'Mahoney,"http://dbpedia.org/resource/Cabinet_of_Bangladesh http://dbpedia.org/resource/Ministries_of_Bangladesh http://dbpedia.org/resource/Third_Hasina_Cabinet http://dbpedia.org/resource/Ministry_of_Post,_Telecommunications_and_Information_Technology"
+2,11,A. A. Lawrence,http://dbpedia.org/resource/Thomas_Lawrence,http://dbpedia.org/resource/Amos_Adams_Lawrence http://dbpedia.org/resource/A._A._Lawrence http://dbpedia.org/resource/A.A._Lawrence
+2,13,Ö. Pasha,http://dbpedia.org/resource/Isma'il_Pasha,http://dbpedia.org/resource/Özdemir_Pasha http://dbpedia.org/resource/Ozdemir_Pasha
+2,14,J. Poulin,http://dbpedia.org/resource/Aline_Poulin,http://dbpedia.org/resource/Joseph-Napoleon_Poulin http://dbpedia.org/resource/Joseph-Napoléon_Poulin
+2,15,L. Pâquet,http://fr.dbpedia.org/resource/Aimé_Paquet,http://dbpedia.org/resource/Louis-Honoré_Pâquet http://dbpedia.org/resource/Louis-Honore_Paquet
+2,16,É. L. Sr.,http://dbpedia.org/resource/Jesse_Jackson,"http://dbpedia.org/resource/Émery_Lalonde_Sr. http://dbpedia.org/resource/Émery_Lalonde,_Sr. http://dbpedia.org/resource/Emery_Lalonde,_Sr. http://dbpedia.org/resource/Emery_Lalonde_Sr."
+2,17,A. Dionne,http://dbpedia.org/resource/Maurice_Dionne,http://dbpedia.org/resource/Amable_Dionne
+2,18,P. Garneau,http://dbpedia.org/resource/Marc_Garneau,http://dbpedia.org/resource/Pierre_Garneau

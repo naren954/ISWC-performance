@@ -1,0 +1,7 @@
+"F1: 0.85294","Precision: 0.85294","Recall: 0.85294"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","5","G. Smith","http://dbpedia.org/resource/Gerrit_Smith","http://dbpedia.org/resource/Graham_Smith_(Maori_academic) http://dbpedia.org/resource/Graham_Hingangaroa_Smith http://dbpedia.org/resource/Graham_Smith_(Māori_academic) http://dbpedia.org/resource/Graham_Smith_(New_Zealand_academic)"
+"0","7","G. Wilson","http://dbpedia.org/resource/Kenneth_G._Wilson","http://dbpedia.org/resource/Godfrey_Wilson http://dbpedia.org/resource/Godfrey_wilson"
+"0","9","G. M. Robinson","http://dbpedia.org/resource/Edward_G._Robinson","http://dbpedia.org/resource/Gertrude_Maud_Robinson"
+"0","24","Frederick J. Almgren, Jr.","http://dbpedia.org/resource/Frederick_J._Almgren_Jr.","http://dbpedia.org/resource/Frederick_Almgren http://dbpedia.org/resource/Frederick_J._Almgren http://dbpedia.org/resource/Frederick_J._Almgren,_Jr."
+"0","27","F. Turk","http://dbpedia.org/resource/Stella_Turk","http://dbpedia.org/resource/Dr_Frank_Turk http://dbpedia.org/resource/Frank_Turk_(biologist) http://dbpedia.org/resource/Dr._Frank_Turk"

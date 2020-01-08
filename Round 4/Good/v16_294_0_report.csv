@@ -1,0 +1,20 @@
+F1: 0.87143,Precision: 0.87143,Recall: 0.87143,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,11,K. A. Jr.,http://dbpedia.org/resource/Antonín_Kasper_Jr.,"http://dbpedia.org/resource/Kurt_Ahrens_Jr. http://dbpedia.org/resource/Kurt_Ahrens,_Jr. http://dbpedia.org/resource/Kurt_Ahrens_Jr http://dbpedia.org/resource/Kurt_Ahrens"
+0,25,J. Bailey,"http://dbpedia.org/resource/Jack_Bailey_(footballer,_born_1921)",http://dbpedia.org/resource/Julian_Bailey
+0,35,J. Williams,http://dbpedia.org/resource/John_Williams_(motorcyclist),http://dbpedia.org/resource/Jonathan_Williams_(auto_racing) http://dbpedia.org/resource/Jonathan_Williams_(racing_driver) http://dbpedia.org/resource/Jonathan_Williams_(racer)
+0,45,J. Watson,http://dbpedia.org/resource/Jill_Watson,http://dbpedia.org/resource/John_Watson_(driver) http://dbpedia.org/resource/John_Marshall_Watson http://dbpedia.org/resource/John_Watson_(auto_racing) http://dbpedia.org/resource/John_Watson_(racing_driver)
+0,56,J. Kelly,http://dbpedia.org/resource/Josh_Kelly_(boxer),http://dbpedia.org/resource/Joe_Kelly_(racing_driver) http://dbpedia.org/resource/Joe_Kelly_(Formula_One) http://dbpedia.org/resource/Joe_Kelly_(auto_racing)
+0,57,J. James,http://dbpedia.org/resource/John_James_(racing_driver),http://dbpedia.org/resource/Joe_James_(racing_driver)
+0,69,J. Davies,http://dbpedia.org/resource/James_Davies_(rugby_union),http://dbpedia.org/resource/Jimmy_Davies
+0,73,J. Hall,"http://dbpedia.org/resource/John_Hall_(cricketer,_born_1874)",http://dbpedia.org/resource/Jim_Hall_(race_car_driver) http://dbpedia.org/resource/Jim_Hall_(racing_driver)
+0,75,J. Clark,http://dbpedia.org/resource/Jim_Clark_(Scottish_footballer),"http://dbpedia.org/resource/Jim_Clark_(racing_driver) http://dbpedia.org/resource/Jimmy_Clark http://dbpedia.org/resource/Jim_Clark http://dbpedia.org/resource/Jim_""Jimmy""_Clark http://dbpedia.org/resource/Clark,_Jim"
+0,77,J. U. Jr.,http://dbpedia.org/resource/Calvin_Coolidge,"http://dbpedia.org/resource/Jerry_Unser,_Jr. http://dbpedia.org/resource/Jerry_Unser http://dbpedia.org/resource/Jerry_Unser_Jr."
+0,85,J. Bondurant,http://dbpedia.org/resource/Bob_Bondurant,http://dbpedia.org/resource/James_bondurant http://dbpedia.org/resource/James_Bondurant
+0,86,J. Villeneuve,http://dbpedia.org/resource/Jacques_Villeneuve,"http://dbpedia.org/resource/Jacques_Villeneuve_(uncle) http://dbpedia.org/resource/Jacques_Villeneuve_Snr http://dbpedia.org/resource/Jacques_Villeneuve_(elder) http://dbpedia.org/resource/Jacques_Villeneuve_(racing_driver,_born_1953) http://dbpedia.org/resource/Jacques_Villeneuve,_Sr. http://dbpedia.org/resource/Jacques_Villeneuve_(born_1953)"
+0,89,J. Stewart,http://dbpedia.org/resource/Jimmy_Stewart_(racing_driver),http://dbpedia.org/resource/Jackie_Stewart http://dbpedia.org/resource/JYS http://dbpedia.org/resource/John_Young_Stewart http://dbpedia.org/resource/Sir_Jackie_Stewart http://dbpedia.org/resource/Sir_John_Young_Stewart
+0,93,J. Holmes,http://dbpedia.org/resource/Jim_Holmes,http://dbpedia.org/resource/Jackie_Holmes http://dbpedia.org/resource/John_Holmes_(driver)
+0,97,J. Nellemann,,http://dbpedia.org/resource/Jac_Nellemann http://dbpedia.org/resource/Jac_Nelleman
+0,119,H. Walter,http://dbpedia.org/resource/Fritz_Walter,http://dbpedia.org/resource/Heini_Walter
+0,125,H. Stuck,http://dbpedia.org/resource/Hans-Joachim_Stuck,http://dbpedia.org/resource/Hans_Stuck http://dbpedia.org/resource/Hans_Von_Stuck http://dbpedia.org/resource/Hans_von_Stuck
+0,135,G. Edwards,http://dbpedia.org/resource/George_Edwards_(Welsh_footballer),http://dbpedia.org/resource/Guy_Edwards

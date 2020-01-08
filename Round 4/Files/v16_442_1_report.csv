@@ -1,0 +1,8 @@
+"F1: 0.80000","Precision: 0.80000","Recall: 0.80000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","5","A. Petraglia","http://pt.dbpedia.org/resource/Ricardo_Petraglia","http://dbpedia.org/resource/Angelo_Petraglia"
+"1","6","O. C. Scene","http://dbpedia.org/resource/The_D.O.C.","http://dbpedia.org/resource/Ocean_Colour_Scene http://dbpedia.org/resource/Ocean_Color_Scene"
+"1","7","J. Kerr","http://fr.dbpedia.org/resource/Jonathan_Kerr","http://dbpedia.org/resource/Jim_Kerr"
+"1","11","T. Salter","http://dbpedia.org/resource/Timothy_Salter","http://dbpedia.org/resource/Tawgs_Salter http://dbpedia.org/resource/Thomas_""Tawgs""_Salter http://dbpedia.org/resource/Thomas_Tawgs_Salter"
+"1","22","R. Thomas","http://dbpedia.org/resource/Ramblin'_Thomas","http://dbpedia.org/resource/Rob_thomes http://dbpedia.org/resource/Thomas,_Rob http://dbpedia.org/resource/A_New_York_Christmas http://dbpedia.org/resource/Rob_Thomas_(musician) http://dbpedia.org/resource/Marisol_Maldonado"
+"1","23","M. McGuinn","http://dbpedia.org/resource/Roger_McGuinn","http://dbpedia.org/resource/Mark_McGuinn http://dbpedia.org/resource/One_Man's_Crazy http://dbpedia.org/resource/Mark_McGuinn_(album)"

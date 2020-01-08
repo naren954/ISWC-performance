@@ -1,0 +1,6 @@
+"F1: 0.83333","Precision: 0.83333","Recall: 0.83333"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","4","Kevin Brown","http://dbpedia.org/resource/Kevin_Brown_(right-handed_pitcher)","http://dbpedia.org/resource/Kevin_Brown_(rugby_league) http://dbpedia.org/resource/Kevin_Brown_(rugby_league_footballer) http://dbpedia.org/resource/Kevin_Brown_(rugby)"
+"1","14","Stuart Jones","http://dbpedia.org/resource/Stuart_Jones_(footballer,_born_1977)","http://dbpedia.org/resource/Stuart_Jones_(rugby_league)"
+"1","15","Paul Jackson","http://dbpedia.org/resource/Paul_Jackson_(Australian_cricketer)","http://dbpedia.org/resource/Paul_Jackson_(rugby_league) http://dbpedia.org/resource/Paul_Jackson_(rugby_player)"
+"1","16","Keith Mason","http://dbpedia.org/resource/Keith_Mason_(footballer)","http://dbpedia.org/resource/Keith_Mason_(rugby_league) http://dbpedia.org/resource/Keith_Mason_(rugby)"

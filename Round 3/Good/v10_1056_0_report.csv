@@ -1,0 +1,7 @@
+F1: 0.88889,Precision: 0.88889,Recall: 0.88889,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,27,Uturunqani,http://dbpedia.org/resource/Uturunqani_(Moquegua-Puno),http://dbpedia.org/resource/Uturunqani_(Lampa)
+0,28,Uturunqani,http://dbpedia.org/resource/Uturunqani_(Moquegua-Puno),http://dbpedia.org/resource/Uturunqani_(Ichuña) http://dbpedia.org/resource/Uturunqani_(Ichuna)
+0,29,Uturunqani,http://dbpedia.org/resource/Uturunqani_(Moquegua-Puno),http://dbpedia.org/resource/Uturunqani
+0,30,Uturunku,http://dbpedia.org/resource/Uturunku,http://dbpedia.org/resource/Uturunku_(Peru)
+0,32,Utt'aña,,http://dbpedia.org/resource/Utt'aña http://dbpedia.org/resource/Cerro_Othaña http://dbpedia.org/resource/Utt'ana http://dbpedia.org/resource/Othaña

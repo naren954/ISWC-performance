@@ -1,0 +1,144 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,"Makawao, Hawaii","http://dbpedia.org/resource/Makawao,_Hawaii",http://sws.geonames.org/5850616/
+0,2,"Lihue, Hawaii","http://dbpedia.org/resource/Lihue,_Hawaii",http://sws.geonames.org/5850248/
+0,3,"Lanai City, Hawaii","http://dbpedia.org/resource/Makakilo,_Hawaii",http://sws.geonames.org/5850059/
+0,4,"Laie, Hawaii","http://dbpedia.org/resource/Laie,_Hawaii",http://sws.geonames.org/5850027/
+0,5,"Lahaina, Hawaii","http://dbpedia.org/resource/Lahaina,_Hawaii",http://sws.geonames.org/5849996/
+0,6,"Kurtistown, Hawaii","http://dbpedia.org/resource/Kurtistown,_Hawaii",http://sws.geonames.org/5849961/
+0,7,"Koloa, Hawaii","http://dbpedia.org/resource/Koloa,_Hawaii",http://sws.geonames.org/5849616/
+0,8,Siyəzən,http://dbpedia.org/resource/Siyəzən,http://sws.geonames.org/584954/
+0,9,"Kihei, Hawaii","http://dbpedia.org/resource/Kihei,_Hawaii",http://sws.geonames.org/5849297/
+0,10,Sumqayit,http://dbpedia.org/resource/Sumqayit,http://sws.geonames.org/584923/
+0,11,"Kekaha, Hawaii","http://dbpedia.org/resource/Kekaha,_Hawaii",http://sws.geonames.org/5849164/
+0,12,"Kealakekua, Hawaii","http://dbpedia.org/resource/Kealakekua,_Hawaii",http://sws.geonames.org/5848956/
+0,13,"Keaau, Hawaii","http://dbpedia.org/resource/Keaau,_Hawaii",http://sws.geonames.org/5848891/
+0,14,Tartar,http://dbpedia.org/resource/Tartar_(city),http://sws.geonames.org/584871/
+0,15,"Kaunakakai, Hawaii","http://dbpedia.org/resource/Kaunakakai,_Hawaii",http://sws.geonames.org/5848652/
+0,16,"Kapaau, Hawaii","http://dbpedia.org/resource/Kapaau,_Hawaii",http://sws.geonames.org/5848307/
+0,17,"Kapaa, Hawaii","http://dbpedia.org/resource/Kapaa,_Hawaii",http://sws.geonames.org/5848280/
+0,18,"Kaneohe, Hawaii",http://dbpedia.org/resource/Marine_Corps_Base_Hawaii,http://sws.geonames.org/5848189/
+0,19,"Ucar, Azerbaijan","http://dbpedia.org/resource/Ucar,_Azerbaijan",http://sws.geonames.org/584791/
+0,20,"Kalaheo, Hawaii","http://dbpedia.org/resource/Kalaheo,_Hawaii",http://sws.geonames.org/5847661/
+0,21,"Kailua, Honolulu County, Hawaii","http://dbpedia.org/resource/Kailua,_Honolulu_County,_Hawaii",http://sws.geonames.org/5847486/
+0,22,"Kahului, Hawaii","http://dbpedia.org/resource/Kahului,_Hawaii",http://sws.geonames.org/5847411/
+0,23,"Kahaluu, Hawaii","http://dbpedia.org/resource/Kahaluu,_Hawaii",http://sws.geonames.org/5847207/
+0,24,Goygol,http://dbpedia.org/resource/Goygol_(city),http://sws.geonames.org/584716/
+0,25,"Hoonah, Alaska","http://dbpedia.org/resource/Hoonah,_Alaska",http://sws.geonames.org/5847155/
+0,26,"Hollis, Alaska","http://dbpedia.org/resource/Hollis,_Alaska",http://sws.geonames.org/5847140/
+0,27,"Haines, Alaska","http://dbpedia.org/resource/Haines,_Alaska",http://sws.geonames.org/5846901/
+0,28,Yevlakh,http://dbpedia.org/resource/Yevlakh,http://sws.geonames.org/584649/
+0,29,"Excursion Inlet, Alaska","http://dbpedia.org/resource/Excursion_Inlet,_Alaska",http://sws.geonames.org/5846129/
+0,30,"Elfin Cove, Alaska","http://dbpedia.org/resource/Elfin_Cove,_Alaska",http://sws.geonames.org/5845988/
+0,31,"Edna Bay, Alaska","http://dbpedia.org/resource/Edna_Bay,_Alaska",http://sws.geonames.org/5845973/
+0,32,"Craig, Alaska","http://dbpedia.org/resource/Craig,_Alaska",http://sws.geonames.org/5845544/
+0,33,"Coffman Cove, Alaska","http://dbpedia.org/resource/Coffman_Cove,_Alaska",http://sws.geonames.org/5845435/
+0,34,"Angoon, Alaska","http://dbpedia.org/resource/Angoon,_Alaska",http://sws.geonames.org/5844374/
+0,35,"Vantage, Washington","http://dbpedia.org/resource/Vantage,_Washington",http://sws.geonames.org/5844167/
+0,36,"Palouse, Washington","http://dbpedia.org/resource/Palouse,_Washington",http://sws.geonames.org/5844156/
+0,37,"Pateros, Washington","http://dbpedia.org/resource/Pateros,_Washington",http://sws.geonames.org/5844154/
+0,38,"American Fork, Utah","http://dbpedia.org/resource/American_Fork,_Utah",http://sws.geonames.org/5844096/
+0,39,"Gold Beach, Oregon","http://dbpedia.org/resource/Gold_Beach,_Oregon",http://sws.geonames.org/5843997/
+0,40,"Max, North Dakota","http://dbpedia.org/resource/Max,_North_Dakota",http://sws.geonames.org/5843925/
+0,41,"Wright, Wyoming","http://dbpedia.org/resource/Wright,_Wyoming",http://sws.geonames.org/5843515/
+0,42,"Worland, Wyoming","http://dbpedia.org/resource/Worland,_Wyoming",http://sws.geonames.org/5843495/
+0,43,"Winchester, Wyoming","http://dbpedia.org/resource/Winchester,_Indiana",http://sws.geonames.org/5843261/
+0,44,"Wheatland, Wyoming","http://dbpedia.org/resource/Wheatland,_Wyoming",http://sws.geonames.org/5842753/
+0,45,"Wamsutter, Wyoming","http://dbpedia.org/resource/Wamsutter,_Wyoming",http://sws.geonames.org/5842173/
+0,46,"Upton, Wyoming","http://dbpedia.org/resource/Upton,_Wyoming",http://sws.geonames.org/5841818/
+0,47,"Torrington, Wyoming","http://dbpedia.org/resource/Torrington,_Wyoming",http://sws.geonames.org/5841207/
+0,48,"Thermopolis, Wyoming","http://dbpedia.org/resource/Thermopolis,_Wyoming",http://sws.geonames.org/5840846/
+0,49,"Thayne, Wyoming","http://dbpedia.org/resource/Thayne,_Wyoming",http://sws.geonames.org/5840818/
+0,50,"Teton Village, Wyoming","http://dbpedia.org/resource/Teton_Village,_Wyoming",http://sws.geonames.org/5840800/
+0,51,"Superior, Wyoming","http://dbpedia.org/resource/Superior,_Wyoming",http://sws.geonames.org/5840347/
+0,52,"Sundance, Wyoming","http://dbpedia.org/resource/Sundance,_Wyoming",http://sws.geonames.org/5840284/
+0,53,"Story, Wyoming","http://dbpedia.org/resource/Story,_Wyoming",http://sws.geonames.org/5840065/
+0,54,"South Greeley, Wyoming","http://dbpedia.org/resource/South_Greeley,_Wyoming",http://sws.geonames.org/5839233/
+0,55,"Sleepy Hollow, Wyoming","http://dbpedia.org/resource/Sleepy_Hollow,_Wyoming",http://sws.geonames.org/5838617/
+0,56,"Sheridan, Wyoming","http://dbpedia.org/resource/Sheridan,_Wyoming",http://sws.geonames.org/5838198/
+0,57,"Saratoga, Wyoming","http://dbpedia.org/resource/Saratoga,_Wyoming",http://sws.geonames.org/5837593/
+0,58,"Rolling Hills, Wyoming","http://dbpedia.org/resource/Rolling_Hills,_Wyoming",http://sws.geonames.org/5836984/
+0,59,"Rock Springs, Wyoming","http://dbpedia.org/resource/Rock_Springs,_Wyoming",http://sws.geonames.org/5836898/
+0,60,"Rock River, Wyoming","http://dbpedia.org/resource/Rock_River,_Wyoming",http://sws.geonames.org/5836888/
+0,61,"Riverton, Wyoming","http://dbpedia.org/resource/Riverton,_Wyoming",http://sws.geonames.org/5836665/
+0,62,"Reliance, Wyoming","http://dbpedia.org/resource/Reliance,_Wyoming",http://sws.geonames.org/5836399/
+0,63,"Rawlins, Wyoming","http://dbpedia.org/resource/Rawlins,_Wyoming",http://sws.geonames.org/5836068/
+0,64,"Ranchester, Wyoming","http://dbpedia.org/resource/Ranchester,_Wyoming",http://sws.geonames.org/5835955/
+0,65,"Powell, Wyoming","http://dbpedia.org/resource/Powell,_Wyoming",http://sws.geonames.org/5835606/
+0,66,"Pinedale, Wyoming","http://dbpedia.org/resource/Pinedale,_Wyoming",http://sws.geonames.org/5835178/
+0,67,"Pine Haven, Wyoming","http://dbpedia.org/resource/Pine_Haven,_Wyoming",http://sws.geonames.org/5835124/
+0,68,"Pine Bluffs, Wyoming","http://dbpedia.org/resource/Pine_Bluffs,_Wyoming",http://sws.geonames.org/5835069/
+0,69,"North Rock Springs, Wyoming","http://dbpedia.org/resource/North_Rock_Springs,_Wyoming",http://sws.geonames.org/5833892/
+0,70,"Newcastle, Wyoming",http://dbpedia.org/resource/Newcastle_upon_Tyne,http://sws.geonames.org/5833349/
+0,71,"Moose Wilson Road, Wyoming","http://dbpedia.org/resource/Moose_Wilson_Road,_Wyoming",http://sws.geonames.org/5832759/
+0,72,"Moorcroft, Wyoming","http://dbpedia.org/resource/Moorcroft,_Wyoming",http://sws.geonames.org/5832698/
+0,73,"Mills, Wyoming","http://dbpedia.org/resource/Mills,_Wyoming",http://sws.geonames.org/5832481/
+0,74,"Midwest, Wyoming","http://dbpedia.org/resource/Midwest,_Wyoming",http://sws.geonames.org/5832330/
+0,75,"Meeteetse, Wyoming","http://dbpedia.org/resource/Meeteetse,_Wyoming",http://sws.geonames.org/5832055/
+0,76,"Marbleton, Wyoming","http://dbpedia.org/resource/Marbleton,_Wyoming",http://sws.geonames.org/5831530/
+0,77,"Manderson, Wyoming","http://dbpedia.org/resource/Manderson,_Wyoming",http://sws.geonames.org/5831495/
+0,78,"Lyman, Wyoming","http://dbpedia.org/resource/Lyman,_Wyoming",http://sws.geonames.org/5831346/
+0,79,"Lucerne, Wyoming","http://dbpedia.org/resource/Lucerne,_Wyoming",http://sws.geonames.org/5831275/
+0,80,"Lovell, Wyoming","http://dbpedia.org/resource/Lovell,_Wyoming",http://sws.geonames.org/5831176/
+0,81,"Laramie, Wyoming","http://dbpedia.org/resource/Laramie,_Wyoming",http://sws.geonames.org/5830062/
+0,82,"Lander, Wyoming","http://dbpedia.org/resource/Lander,_Wyoming",http://sws.geonames.org/5830007/
+0,83,"La Grange, Wyoming","http://dbpedia.org/resource/La_Grange,_Wyoming",http://sws.geonames.org/5829832/
+0,84,"La Barge, Wyoming","http://dbpedia.org/resource/La_Barge,_Wyoming",http://sws.geonames.org/5829816/
+0,85,"Kirby, Wyoming","http://dbpedia.org/resource/Kirby,_Wyoming",http://sws.geonames.org/5829672/
+0,86,"Kemmerer, Wyoming","http://dbpedia.org/resource/Kemmerer,_Wyoming",http://sws.geonames.org/5829425/
+0,87,"Johnstown, Wyoming","http://dbpedia.org/resource/Johnstown,_Wyoming",http://sws.geonames.org/5829040/
+0,88,"Jeffrey City, Wyoming","http://dbpedia.org/resource/Laramie,_Wyoming",http://sws.geonames.org/5828759/
+0,89,"James Town, Wyoming","http://dbpedia.org/resource/James_Town,_Wyoming",http://sws.geonames.org/5828717/
+0,90,"Jackson, Wyoming","http://dbpedia.org/resource/Jackson,_Wyoming",http://sws.geonames.org/5828648/
+0,91,"Hudson, Wyoming","http://dbpedia.org/resource/Hudson,_Wyoming",http://sws.geonames.org/5828122/
+0,92,"Hanna, Wyoming","http://dbpedia.org/resource/Hanna,_Wyoming",http://sws.geonames.org/5826986/
+0,93,"Guernsey, Wyoming","http://dbpedia.org/resource/Guernsey,_Wyoming",http://sws.geonames.org/5826723/
+0,94,"Greybull, Wyoming","http://dbpedia.org/resource/Greybull,_Wyoming",http://sws.geonames.org/5826603/
+0,95,"Green River, Wyoming","http://dbpedia.org/resource/Green_River,_Wyoming",http://sws.geonames.org/5826559/
+0,96,"Granger, Wyoming","http://dbpedia.org/resource/Granger,_Wyoming",http://sws.geonames.org/5826334/
+0,97,"Glenrock, Wyoming","http://dbpedia.org/resource/Glenrock,_Wyoming",http://sws.geonames.org/5826088/
+0,98,"Glendo, Wyoming","http://dbpedia.org/resource/Glendo,_Wyoming",http://sws.geonames.org/5826076/
+0,99,"Gillette, Wyoming","http://dbpedia.org/resource/Gillette,_Wyoming",http://sws.geonames.org/5826027/
+0,100,"Fort Washakie, Wyoming","http://dbpedia.org/resource/Fort_Washakie,_Wyoming",http://sws.geonames.org/5825424/
+0,101,"Fort Laramie, Wyoming","http://dbpedia.org/resource/Laramie,_Wyoming",http://sws.geonames.org/5825407/
+0,102,"Fort Bridger, Wyoming","http://dbpedia.org/resource/Fort_Bridger,_Wyoming",http://sws.geonames.org/5825393/
+0,103,"Evansville, Wyoming","http://dbpedia.org/resource/Evansville,_Wyoming",http://sws.geonames.org/5824810/
+0,104,"Evanston, Wyoming","http://dbpedia.org/resource/Evanston,_Wyoming",http://sws.geonames.org/5824805/
+0,105,"Ethete, Wyoming","http://dbpedia.org/resource/Ethete,_Wyoming",http://sws.geonames.org/5824773/
+0,106,"Esterbrook, Wyoming","http://dbpedia.org/resource/Esterbrook,_Wyoming",http://sws.geonames.org/5824768/
+0,107,"Elk Mountain, Wyoming","http://dbpedia.org/resource/Elk_Mountain,_Wyoming",http://sws.geonames.org/5824521/
+0,108,"Dubois, Wyoming","http://dbpedia.org/resource/Dubois,_Wyoming",http://sws.geonames.org/5823819/
+0,109,"Douglas, Wyoming","http://dbpedia.org/resource/Douglas,_Wyoming",http://sws.geonames.org/5823516/
+0,110,"Diamondville, Wyoming","http://dbpedia.org/resource/Diamondville,_Wyoming",http://sws.geonames.org/5823199/
+0,111,"Dayton, Wyoming","http://dbpedia.org/resource/Dayton,_Wyoming",http://sws.geonames.org/5822752/
+0,112,"Daniel, Wyoming","http://dbpedia.org/resource/Daniel,_Wyoming",http://sws.geonames.org/5822639/
+0,113,"Crowheart, Wyoming","http://dbpedia.org/resource/Crowheart,_Wyoming",http://sws.geonames.org/5822434/
+0,114,"Cowley, Wyoming","http://dbpedia.org/resource/Cowley,_Wyoming",http://sws.geonames.org/5822154/
+0,115,"Cody, Wyoming","http://dbpedia.org/resource/Cody,_Wyoming",http://sws.geonames.org/5821593/
+0,116,"Clearmont, Wyoming","http://dbpedia.org/resource/Clearmont,_Wyoming",http://sws.geonames.org/5821413/
+0,117,"Chugwater, Wyoming","http://dbpedia.org/resource/Chugwater,_Wyoming",http://sws.geonames.org/5821247/
+0,118,"Cheyenne, Wyoming","http://dbpedia.org/resource/Cheyenne,_Wyoming",http://sws.geonames.org/5821086/
+0,119,"Casper, Wyoming","http://dbpedia.org/resource/Casper,_Wyoming",http://sws.geonames.org/5820705/
+0,120,"Byron, Wyoming","http://dbpedia.org/resource/Byron,_Wyoming",http://sws.geonames.org/5820291/
+0,121,"Burns, Wyoming","http://dbpedia.org/resource/Burns,_Wyoming",http://sws.geonames.org/5820118/
+0,122,"Buffalo, Wyoming","http://dbpedia.org/resource/Buffalo,_New_York",http://sws.geonames.org/5819881/
+0,123,"Big Piney, Wyoming","http://dbpedia.org/resource/Big_Piney,_Wyoming",http://sws.geonames.org/5818702/
+0,124,"Basin, Wyoming","http://dbpedia.org/resource/Basin,_Wyoming",http://sws.geonames.org/5817923/
+0,125,"Bar Nunn, Wyoming","http://dbpedia.org/resource/Bar_Nunn,_Wyoming",http://sws.geonames.org/5817809/
+0,126,"Arlington, Wyoming","http://dbpedia.org/resource/Arlington,_Wyoming",http://sws.geonames.org/5817373/
+0,127,"Albin, Wyoming","http://dbpedia.org/resource/Albin,_Wyoming",http://sws.geonames.org/5816918/
+0,128,"Afton, Wyoming","http://dbpedia.org/resource/Afton,_Wyoming",http://sws.geonames.org/5816861/
+0,129,"Zillah, Washington","http://dbpedia.org/resource/Zillah,_Washington",http://sws.geonames.org/5816719/
+0,130,"Yelm, Washington","http://dbpedia.org/resource/Yelm,_Washington",http://sws.geonames.org/5816656/
+0,131,"Yakima, Washington","http://dbpedia.org/resource/Yakima,_Washington",http://sws.geonames.org/5816605/
+0,132,"Woodway, Washington","http://dbpedia.org/resource/Woodway,_Washington",http://sws.geonames.org/5816508/
+0,133,"Woodland, Washington","http://dbpedia.org/resource/Woodland,_Washington",http://sws.geonames.org/5816457/
+0,134,"Woodinville, Washington","http://dbpedia.org/resource/Woodinville,_Washington",http://sws.geonames.org/5816449/
+0,135,"Wishram, Washington","http://dbpedia.org/resource/Wishram,_Washington",http://sws.geonames.org/5816375/
+0,136,"Winthrop, Washington","http://dbpedia.org/resource/Winthrop,_Washington",http://sws.geonames.org/5816336/
+0,137,"Winlock, Washington","http://dbpedia.org/resource/Winlock,_Washington",http://sws.geonames.org/5816314/
+0,138,"Wilson Creek, Washington","http://dbpedia.org/resource/Wilson_Creek,_Washington",http://sws.geonames.org/5816201/
+0,139,"White Salmon, Washington","http://dbpedia.org/resource/White_Salmon,_Washington",http://sws.geonames.org/5815842/
+0,140,"Westport, Washington","http://dbpedia.org/resource/Westport,_Washington",http://sws.geonames.org/5815665/
+0,141,"West Wenatchee, Washington","http://dbpedia.org/resource/East_Wenatchee,_Washington",http://sws.geonames.org/5815609/
+0,142,"West Richland, Washington","http://dbpedia.org/resource/West_Richland,_Washington",http://sws.geonames.org/5815599/

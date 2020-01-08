@@ -1,0 +1,6 @@
+"F1: 0.20000","Precision: 0.20000","Recall: 0.20000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","1","Houston Aeros","http://dbpedia.org/resource/Kevin_Houston_(mathematician)","http://dbpedia.org/resource/Houston_Aeros_(WHA) http://dbpedia.org/resource/Dayton_Arrows http://dbpedia.org/resource/Dayton_Aeros http://dbpedia.org/resource/Houston_Aeros_(1972–1978) http://dbpedia.org/resource/Houston_Aeros_(World_Hockey_Association) http://dbpedia.org/resource/Houston_Aeros_(1972-1978)"
+"0","2","San Diego Mariners","http://dbpedia.org/resource/San_Diego_County,_California","http://dbpedia.org/resource/San_Diego_Mariners"
+"0","3","Minnesota Fighting Saints","http://dbpedia.org/resource/1973–74_Minnesota_Fighting_Saints_season","http://dbpedia.org/resource/Minnesota_Fighting_Saints_II http://dbpedia.org/resource/Minnesota_Fighting_Saints"
+"0","4","Phoenix Roadrunners","http://dbpedia.org/resource/Roadrunner_Records","http://dbpedia.org/resource/Phoenix_Roadrunners_(WHA)"

@@ -1,0 +1,7 @@
+F1: 0.28571,Precision: 0.28571,Recall: 0.28571,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,Guthega,http://dbpedia.org/resource/Guthega_Dam,"http://dbpedia.org/resource/Guthega_Power_Station,_New_South_Wales http://dbpedia.org/resource/Guthega_Power_Station"
+0,5,Laverton North,"http://dbpedia.org/resource/Laverton_railway_station,_Melbourne","http://dbpedia.org/resource/Laverton_North_Power_Station http://dbpedia.org/resource/Laverton_North_Power_Station,_Victoria_(Australia) http://dbpedia.org/resource/Laverton_North_Power_Station,_Victoria"
+0,6,Murray 1,http://dbpedia.org/resource/Sly_Cooper_and_the_Thievius_Raccoonus,"http://dbpedia.org/resource/Murray_2_Power_Station,_New_South_Wales http://dbpedia.org/resource/Murray_1_Power_Station,_New_South_Wales http://dbpedia.org/resource/Murray-2_Hydroelectric_Power_Station http://dbpedia.org/resource/Murray_Hydroelectric_Power_Station http://dbpedia.org/resource/Murray-1_Hydroelectric_Power_Station"
+0,7,Murray 2,"http://dbpedia.org/resource/Gilbert_Elliot-Murray-Kynynmound,_2nd_Earl_of_Minto","http://dbpedia.org/resource/Murray_2_Power_Station,_New_South_Wales http://dbpedia.org/resource/Murray_1_Power_Station,_New_South_Wales http://dbpedia.org/resource/Murray-2_Hydroelectric_Power_Station http://dbpedia.org/resource/Murray_Hydroelectric_Power_Station http://dbpedia.org/resource/Murray-1_Hydroelectric_Power_Station"
+0,12,Valley Power,"http://dbpedia.org/resource/Tesla,_Inc.",http://dbpedia.org/resource/Valley_Power_Peaking_Facility

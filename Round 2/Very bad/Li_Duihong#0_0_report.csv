@@ -1,0 +1,4 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,25 metre pistol,http://dbpedia.org/resource/Shooting_at_the_2016_Summer_Olympics,http://dbpedia.org/resource/25_m_Pistol http://dbpedia.org/resource/25_metre_pistol http://dbpedia.org/resource/Sport_Pistol http://dbpedia.org/resource/25_m_pistol http://dbpedia.org/resource/25_meter_pistol
+0,2,10 metre air pistol,http://dbpedia.org/resource/Shooting_at_the_2016_Summer_Olympics,http://dbpedia.org/resource/10_m_Air_Pistol http://dbpedia.org/resource/10_meter_air_pistol http://dbpedia.org/resource/10m_Men's_Air_Pistol http://dbpedia.org/resource/AP40 http://dbpedia.org/resource/10_metre_air_pistol http://dbpedia.org/resource/AP60 http://dbpedia.org/resource/10_m_air_pistol

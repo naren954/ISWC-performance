@@ -1,0 +1,53 @@
+F1: 0.51429,Precision: 0.51429,Recall: 0.51429,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,1,H. Darrow,http://dbpedia.org/resource/Paul_Darrow,http://dbpedia.org/resource/Henry_Darrow http://dbpedia.org/resource/Enrique_Delgado http://dbpedia.org/resource/Enrique_Tomas_Delgado http://dbpedia.org/resource/Henry_Delgado
+2,3,Jovian,http://dbpedia.org/resource/Jovian_(emperor),http://dbpedia.org/resource/Jovian_(Lemur) http://dbpedia.org/resource/Jovian_(lemur)
+2,4,Z. Wins,http://dbpedia.org/resource/Moe_Z._Win,http://dbpedia.org/resource/Zindagi_Wins
+2,5,F. A. Khan,http://dbpedia.org/resource/Fateh_Ali_Khan_(Qawwali_singer),http://dbpedia.org/resource/Fawad_Khan http://dbpedia.org/resource/Fawad_Afzal_Khan
+2,6,A. Malik,http://dbpedia.org/resource/Anu_Malik,http://dbpedia.org/resource/Angeline_Malik
+2,11,T. Long,http://dbpedia.org/resource/Theodore_Long,http://dbpedia.org/resource/Tom_Long_(actor)
+2,13,L. Lye,http://dbpedia.org/resource/Len_Lye,http://dbpedia.org/resource/Les_Lye
+2,14,J. Fry,http://dbpedia.org/resource/Stephen_Fry,http://dbpedia.org/resource/Joel_Fry_(actor)
+2,17,B. Payne,http://dbpedia.org/resource/John_Payne_(actor),"http://dbpedia.org/resource/Payne,_Bruce http://dbpedia.org/resource/Bruce_Payne"
+2,18,K. Kundra,http://dbpedia.org/resource/Vivek_Kundra,http://dbpedia.org/resource/Karan_Kundra
+2,21,A. Austria,"http://dbpedia.org/resource/Albert_VII,_Archduke_of_Austria",http://dbpedia.org/resource/Amy_Austria-Ventura http://dbpedia.org/resource/Amy_Austria
+2,23,J. Lee,http://dbpedia.org/resource/Christopher_Lee,http://dbpedia.org/resource/John_Lee_(producer) http://dbpedia.org/resource/John_Lee_(PFFR)
+2,25,J. Shepherd,http://dbpedia.org/resource/Steve_John_Shepherd,http://dbpedia.org/resource/Jack_Shepherd_(actor)
+2,27,A. Myrin,http://dbpedia.org/resource/Jonas_Myrin,http://dbpedia.org/resource/Arden_Myrin
+2,28,L. Davies,http://dbpedia.org/resource/Lee_Davies,http://dbpedia.org/resource/LANE_DAVIES http://dbpedia.org/resource/Lane_Davies
+2,29,L. Goddard,http://dbpedia.org/resource/Paulette_Goddard,http://dbpedia.org/resource/Liza_Goddard http://dbpedia.org/resource/Lisa_Goddard
+2,32,M. Donovan,,http://dbpedia.org/resource/Martin_Donovan
+2,33,J. Baker,http://dbpedia.org/resource/Julius_Baker,http://dbpedia.org/resource/Jack_Baker_(actor) http://dbpedia.org/resource/John_Bailey_(American_actor) http://dbpedia.org/resource/John-Anthony_Bailey http://dbpedia.org/resource/John_Anthony_Bailey
+2,39,C. Hardwick,http://dbpedia.org/resource/Elizabeth_Hardwick_(writer),http://dbpedia.org/resource/@nerdist http://dbpedia.org/resource/Funcomfortable http://dbpedia.org/resource/Chris_Hardwick
+2,44,J. Hallam,http://dbpedia.org/resource/Henry_Hallam,http://dbpedia.org/resource/John_Hallam
+2,50,B. Slade,http://dbpedia.org/resource/Chris_Slade,http://dbpedia.org/resource/Ben_Slade
+2,53,A. Davies,http://dbpedia.org/resource/Robertson_Davies,http://dbpedia.org/resource/Alan_Roger_Davies http://dbpedia.org/resource/Alan_Davies
+2,54,T. Thiessen,http://dbpedia.org/resource/Matt_Thiessen,http://dbpedia.org/resource/Tiffany-Amber http://dbpedia.org/resource/Tiffany-Amber_Thiessen http://dbpedia.org/resource/Tiffany_Amber_Thiessen http://dbpedia.org/resource/Tiffany_Thiessen http://dbpedia.org/resource/Tiffani_Amber_Thiessen http://dbpedia.org/resource/Tiffani-Amber_Thiessen http://dbpedia.org/resource/Tiffani_Thiessen
+2,55,S. Kwok,http://dbpedia.org/resource/Aaron_Kwok,http://dbpedia.org/resource/郭羨妮 http://dbpedia.org/resource/Sonjia_Kwok http://dbpedia.org/resource/Sonija_Kwok http://dbpedia.org/resource/Sonija_Kwok_Sin-Nei http://dbpedia.org/resource/Sonia_Kwok http://dbpedia.org/resource/Kwok_Sin-Nei
+2,57,F. Alexander,http://dbpedia.org/resource/Alexander_von_Humboldt,"http://dbpedia.org/resource/Flex_Alexander http://dbpedia.org/resource/Alexander,_Flex http://dbpedia.org/resource/Mark_Alexander_Knox"
+2,58,B. Lynn,http://dbpedia.org/resource/Barbara_Lynn,http://dbpedia.org/resource/Betty_Lynn
+2,59,J. T. Bowler,http://dbpedia.org/resource/J._T._Walsh,http://dbpedia.org/resource/Justin_T._Bowler
+2,61,L. Wang,http://dbpedia.org/resource/Linda_Wang,http://dbpedia.org/resource/汪明荃 http://dbpedia.org/resource/Liza_Wang http://dbpedia.org/resource/Liza_Wang_Ming-chun http://dbpedia.org/resource/Elizabeth_Wang http://dbpedia.org/resource/Wang_Mingquan http://dbpedia.org/resource/Wang_Ming-chun
+2,62,E. Jin,http://dbpedia.org/resource/Lee_Jin,http://dbpedia.org/resource/Yanling_Jin http://dbpedia.org/resource/Jin_Yanling http://dbpedia.org/resource/Elaine_Jin http://dbpedia.org/resource/金燕玲 http://dbpedia.org/resource/Elaine_Kam
+2,64,H. W. Jr.,http://dbpedia.org/resource/Hank_Williams_Jr.,"http://dbpedia.org/resource/Harry_Waters_Jr. http://dbpedia.org/resource/Harry_Waters,_Jr."
+2,65,A. Sabiston,http://dbpedia.org/resource/David_Sabiston,http://dbpedia.org/resource/Andrew_Sabiston
+2,66,S. Cox,http://dbpedia.org/resource/Courteney_Cox,http://dbpedia.org/resource/Sarah_cox http://dbpedia.org/resource/Coxy http://dbpedia.org/resource/Sara_cox http://dbpedia.org/resource/Sara_Cox
+2,67,B. Cerf,http://dbpedia.org/resource/Vint_Cerf,http://dbpedia.org/resource/Jonathan_Cerf http://dbpedia.org/resource/Bennett_Cerf http://dbpedia.org/resource/Bennet_Cerf
+2,68,M. Lawrence,http://dbpedia.org/resource/Marjorie_Lawrence,http://dbpedia.org/resource/Martin_Lawrence http://dbpedia.org/resource/Martin_lawrence
+2,69,C. Stevens,http://dbpedia.org/resource/Cat_Stevens,http://dbpedia.org/resource/Something_Beautiful_(Connie_Stevens_song) http://dbpedia.org/resource/Connie_Stevens
+2,71,V. Angel,http://dbpedia.org/resource/Los_Angeles,http://dbpedia.org/resource/Vanessa_Angel http://dbpedia.org/resource/Vanessa_Madeline_Angel
+2,72,A. Gould,http://dbpedia.org/resource/Glenn_Gould,http://dbpedia.org/resource/Alexander_Gould
+2,75,T. Copley,http://dbpedia.org/resource/John_Singleton_Copley,http://dbpedia.org/resource/Teri_Copley
+2,77,T. Scanlan,http://dbpedia.org/resource/Fred_Scanlan,http://dbpedia.org/resource/Toni_Scanlan
+2,78,P. Byrne,http://dbpedia.org/resource/Gabriel_Byrne,http://dbpedia.org/resource/Patsy_Byrne
+2,86,A. David,http://dbpedia.org/resource/Larry_David,http://dbpedia.org/resource/Alan_David_(actor)
+2,88,Viraasat,http://dbpedia.org/resource/Viraasat_(2006_TV_series),http://dbpedia.org/resource/Viraasat_(STAR_One)
+2,89,R. Romano,"http://dbpedia.org/resource/Francis_II,_Holy_Roman_Emperor",http://dbpedia.org/resource/Ray_Ramano http://dbpedia.org/resource/Ray_Romano http://dbpedia.org/resource/Raymond_Romano
+2,92,R. Goodman,http://dbpedia.org/resource/Roy_Goodman,http://dbpedia.org/resource/Ruth_Goodman_(historian)
+2,93,K. Ireland,http://dbpedia.org/resource/Kathy_Ireland,http://dbpedia.org/resource/Kenny_Ireland
+2,98,S. McNicoll,http://dbpedia.org/resource/Walter_McNicoll,http://dbpedia.org/resource/Steven_McNicoll
+2,99,G. Morris,http://dbpedia.org/resource/Gareth_Morris,http://dbpedia.org/resource/Greg_Morris
+2,101,A. Khan,http://dbpedia.org/resource/Aamir_Khan,http://dbpedia.org/resource/Ahsan_Khan_(actor)
+2,102,V. Sotto,http://dbpedia.org/resource/Vicente_Sotto,http://dbpedia.org/resource/Vic_Sotto
+2,103,V. Playhouse,http://dbpedia.org/resource/Los_Angeles,http://dbpedia.org/resource/Vacation_Playhouse
+2,104,V. T. Serial,http://dbpedia.org/resource/Agents_of_S.H.I.E.L.D.,http://dbpedia.org/resource/V_The_Serial

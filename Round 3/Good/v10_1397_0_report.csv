@@ -1,0 +1,5 @@
+F1: 0.82353,Precision: 0.82353,Recall: 0.82353,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,7,B. Deegan,http://dbpedia.org/resource/Brian_Deegan_(motorcyclist),http://dbpedia.org/resource/Brian_Deegan_(Moto_X) http://dbpedia.org/resource/Brian_Deegan_(rider)
+0,10,B. Maïsano,http://de.dbpedia.org/resource/Brandon_Maïsano,http://dbpedia.org/resource/Brandon_Maisano http://dbpedia.org/resource/Brandon_Maïsano
+0,11,B. Smith,http://dbpedia.org/resource/Ben_Smith_(end),http://dbpedia.org/resource/Brad_Smith_(racing_driver)

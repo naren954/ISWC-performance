@@ -1,0 +1,14 @@
+F1: 0.89286,Precision: 0.89286,Recall: 0.89286,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,É. o. Nantes,http://fr.dbpedia.org/resource/Georges_de_Nantes,http://dbpedia.org/resource/Emilian_d’Autun http://dbpedia.org/resource/Emilien_of_Nantes http://dbpedia.org/resource/Émilien_of_Nantes
+0,2,É. d. Villeneuve,http://dbpedia.org/resource/Michael_Servetus,http://dbpedia.org/resource/Emilie_de_Villeneuve http://dbpedia.org/resource/Émilie_de_Villeneuve
+0,8,Z. Agostini,http://dbpedia.org/resource/Augustine_of_Hippo,http://dbpedia.org/resource/Zefirino_Agostini
+0,21,V. Romano,"http://dbpedia.org/resource/Charles_V,_Holy_Roman_Emperor",http://dbpedia.org/resource/Vincenzo_Dominico_Romano http://dbpedia.org/resource/Vincent_Romano http://dbpedia.org/resource/Vicenzo_Romano
+0,29,V. C. Orozco,http://dbpedia.org/resource/José_Clemente_Orozco,http://dbpedia.org/resource/Vicenta_Chávez_Orozco
+0,37,T. d. Cori,http://dbpedia.org/resource/Carl_Ferdinand_Cori,http://dbpedia.org/resource/Thomas_of_Cori http://dbpedia.org/resource/Tommaso_da_Cori
+0,41,T. O. Real,http://dbpedia.org/resource/Donald_Trump,http://dbpedia.org/resource/Tomasa_Ortiz_Real
+0,46,T. C. Mankidiyan,http://dbpedia.org/resource/T._C._Murray,http://dbpedia.org/resource/Blessed_Maria_Theresa_Chiramel http://dbpedia.org/resource/Mariam_Thressia http://dbpedia.org/resource/Maria_Theresa_Chiramel http://dbpedia.org/resource/Mariam_Thresia_Mankidiyan http://dbpedia.org/resource/Thresia_Chiramel_Mankidiyan http://dbpedia.org/resource/Blessed_mariam_thressia http://dbpedia.org/resource/Mariam_Thresia
+0,57,T. J. Ibars,http://dbpedia.org/resource/T._J._Jemison,http://dbpedia.org/resource/St._Teresa_of_Jesus_Jornet http://dbpedia.org/resource/Teresa_of_Jesus_Jornet http://dbpedia.org/resource/Teresa_Jornet_Ibars http://dbpedia.org/resource/Little_Sisters_of_the_Abandoned_Aged
+0,75,S. G. Leonardi,http://dbpedia.org/resource/Gustavo_Leonardi,http://dbpedia.org/resource/St._Giovanni_Leonardi http://dbpedia.org/resource/Saint_John_Leonardi http://dbpedia.org/resource/John_Leonardi http://dbpedia.org/resource/Giovanni_Leonardi
+0,89,S. Leclercq,http://dbpedia.org/resource/Jacques_Leclercq,http://dbpedia.org/resource/Salomone_Leclercq
+0,91,S. D. Comboni,http://dbpedia.org/resource/S._D._Subbulakshmi,http://dbpedia.org/resource/Daniele_Comboni http://dbpedia.org/resource/Daniel_Comboni http://dbpedia.org/resource/Saint_Daniel_Comboni http://dbpedia.org/resource/Saint_Daniele_Comboni http://dbpedia.org/resource/Combonian_Missionaries_of_the_Heart_of_Jesus http://dbpedia.org/resource/Verona_Fathers http://dbpedia.org/resource/Sons_of_the_Sacred_Heart http://dbpedia.org/resource/Comboni http://dbpedia.org/resource/Saint_Danie;_Comboni http://dbpedia.org/resource/Congregation_of_the_Sons_of_the_Sacred_Heart

@@ -1,0 +1,15 @@
+F1: 0.90845,Precision: 0.90845,Recall: 0.90845,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,3,"Ivan \Beli\"" KrstiÄ\u0087""",http://dbpedia.org/resource/Croatian_National_Theatre_Ivan_pl._Zajc_in_Rijeka,"http://dbpedia.org/resource/Ivan_""Beli""_Krstić"
+2,31,SÃ¸ren Frederiksen,"http://dbpedia.org/resource/Søren_Frederiksen_(footballer,_born_1972)",http://dbpedia.org/resource/Søren_Frederiksen_(footballer_born_1972)
+2,45,Marek KrejÄ\u008DÃ­,,http://dbpedia.org/resource/Marek_Krejčí
+2,54,Peter Biaksangzuala,http://dbpedia.org/resource/Peter_Käsbauer,http://dbpedia.org/resource/Association_footballers_who_died_while_playing http://dbpedia.org/resource/Michael_Umanika http://dbpedia.org/resource/Football_Related_Deaths http://dbpedia.org/resource/D._Venkatesh http://dbpedia.org/resource/Yair_Clavijo http://dbpedia.org/resource/List_of_association_footballers_who_died_while_playing http://dbpedia.org/resource/Peter_Biaksangzuala http://dbpedia.org/resource/Footballers_who_died_while_playing http://dbpedia.org/resource/List_of_footballers_who_died_while_playing http://dbpedia.org/resource/Jeanine_Christelle_Djomnang http://dbpedia.org/resource/Henry_Chinonso_Ihelewere http://dbpedia.org/resource/Junior_Dian http://dbpedia.org/resource/Peter_Biaksungzuala
+2,65,NiccolÃ² Galli,"http://dbpedia.org/resource/Niccolò_Galli_(footballer,_born_1983)",http://dbpedia.org/resource/Niccolò_Galli_(footballer_born_1983)
+2,87,FÃ©lix FernÃ¡ndez,http://dbpedia.org/resource/Félix_Fernández_(footballer),http://dbpedia.org/resource/Félix_Fernández
+2,114,WÅ\u0082odzimierz Smolarek,,http://dbpedia.org/resource/Włodzimierz_Smolarek
+2,117,CÄ\u0083tÄ\u0083lin HÃ¢ldan,http://es.dbpedia.org/resource/CA_Ouriense,http://dbpedia.org/resource/Cătălin_Hîldan
+2,125,StefÃ¡n Ã\u009EÃ³rÃ°arson,http://dbpedia.org/resource/Villa_Arson,http://dbpedia.org/resource/Stefán_Þórðarson
+2,138,Stipe BalajiÄ\u0087,http://dbpedia.org/resource/Stipe_Bralić,http://dbpedia.org/resource/Stipe_Balajić
+2,142,Roberto Rivas,http://dbpedia.org/resource/Roberto_Rivas_(footballer),http://dbpedia.org/resource/Roberto_Rivas
+2,145,Marcos,http://dbpedia.org/resource/Rubén_Marcos,http://dbpedia.org/resource/Marcos_Roberto_Silveira_Reis http://dbpedia.org/resource/Marcos_Reis
+2,147,Christiano Junior,http://dbpedia.org/resource/Christiano_François,http://dbpedia.org/resource/Cristiano_Junior http://dbpedia.org/resource/Cristiano_junior http://dbpedia.org/resource/Cristiano_Júnior http://dbpedia.org/resource/Cristiano_de_Lima_Junior http://dbpedia.org/resource/Christiano_Junior

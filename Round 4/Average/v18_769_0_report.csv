@@ -1,0 +1,69 @@
+F1: 0.54730,Precision: 0.54730,Recall: 0.54730,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,Westlawn,"http://dbpedia.org/resource/Westlawn_(Wallingford,_Pennsylvania)","http://dbpedia.org/resource/Westlawn_(Fayetteville,_North_Carolina)"
+0,6,Westervelt-Lydecker House,http://dbpedia.org/resource/Garret_Lydecker_House,http://dbpedia.org/resource/Westervelt-Lydecker_House
+0,7,Westervelt-Ackerson House,http://dbpedia.org/resource/Westervelt-Cameron_House,http://dbpedia.org/resource/Westervelt-Ackerson_House
+0,9,Western Run-Belfast Road Historic District,http://dbpedia.org/resource/Western_Run–Belfast_Road_Historic_District,http://dbpedia.org/resource/Western_Run-Belfast_Road_Historic_District
+0,13,Western Maryland Railway Station,http://dbpedia.org/resource/Pennsylvania_Station_(Baltimore),"http://dbpedia.org/resource/Western_Maryland_Railway_Station_(Hagerstown,_Maryland)"
+0,14,Western Maryland Railway Station,http://dbpedia.org/resource/Pennsylvania_Station_(Baltimore),"http://dbpedia.org/resource/Western_Maryland_Railway_Station_(Cumberland,_Maryland)"
+0,16,Western Maryland Depot,http://dbpedia.org/resource/Denver_and_Rio_Grande_Western_Depot_(Salt_Lake_City),"http://dbpedia.org/resource/Western_Maryland_Depot_(Parsons,_West_Virginia)"
+0,22,Westend,http://dbpedia.org/resource/Berlin-Westend_station,"http://dbpedia.org/resource/Westend_(Trevilians,_Virginia)"
+0,24,Westbrook College Historic District,http://dbpedia.org/resource/Marycrest_College_Historic_District,http://dbpedia.org/resource/Westbrook_College_Historic_District
+0,25,Westbrook-Ardmore Historic District,http://dbpedia.org/resource/Westbrook_College_Historic_District,http://dbpedia.org/resource/Westbrook-Ardmore_Historic_District
+0,26,Westbourne,http://dbpedia.org/resource/Westbourne_Park_tube_station,"http://dbpedia.org/resource/Westbourne_(Richmond,_Virginia)"
+0,29,West Washington Avenue Historic District,http://dbpedia.org/resource/Washington_Avenue_Historic_District_(Philadelphia),http://dbpedia.org/resource/West_Washington_Avenue_Historic_District
+0,30,West Warren Street Historic District,"http://dbpedia.org/resource/West_High_Street_Historic_District_(High_Point,_North_Carolina)",http://dbpedia.org/resource/West_Warren_Street_Historic_District
+0,31,West Ward School,"http://dbpedia.org/resource/West_Ward_School_(Wakefield,_Massachusetts)","http://dbpedia.org/resource/West_Ward_School_(Gas_City,_Indiana)"
+0,32,West Walnut Street Historic District,"http://dbpedia.org/resource/Walnut_Street_Historic_District_(Chaska,_Minnesota)",http://dbpedia.org/resource/West_Walnut_Street_Historic_District
+0,33,West Wabash Historic District,"http://dbpedia.org/resource/West_End_Historic_District_(Fort_Wayne,_Indiana)",http://dbpedia.org/resource/West_Wabash_Historic_District
+0,37,West Village Historic District,"http://dbpedia.org/resource/West_Village_Historic_District_(Buffalo,_New_York)","http://dbpedia.org/resource/West_Village_Historic_District_(Princeton,_Massachusetts)"
+0,39,West Union Street Historic District,"http://dbpedia.org/resource/South_Union_Street_Historic_District_(Concord,_North_Carolina)",http://dbpedia.org/resource/West_Union_Street_Historic_District
+0,47,West Street School,http://dbpedia.org/resource/San_Francisco,http://dbpedia.org/resource/West_Street_School
+0,48,West Street Historic District,"http://dbpedia.org/resource/West_High_Street_Historic_District_(High_Point,_North_Carolina)",http://dbpedia.org/resource/West_Street_Historic_District
+0,53,West Sixth Street Historic District,"http://dbpedia.org/resource/West_High_Street_Historic_District_(High_Point,_North_Carolina)",http://dbpedia.org/resource/West_Sixth_Street_Historic_District
+0,54,West Side Historic District,"http://dbpedia.org/resource/West_Side_Historic_District_(Saratoga_Springs,_New_York)","http://dbpedia.org/resource/West_Side_Historic_District_(Shelbyville,_Indiana)"
+0,55,West Side Historic District,"http://dbpedia.org/resource/West_Side_Historic_District_(Saratoga_Springs,_New_York)","http://dbpedia.org/resource/West_Side_Historic_District_(Hendersonville,_North_Carolina)"
+0,56,West Selma Historic District,"http://dbpedia.org/resource/West_End_Historic_District_(Fort_Wayne,_Indiana)",http://dbpedia.org/resource/West_Selma_Historic_District
+0,57,West School,"http://dbpedia.org/resource/West_School_(Burlington,_Massachusetts)","http://dbpedia.org/resource/West_School_(Crooksville,_Ohio)"
+0,58,West Salem Historic District,http://dbpedia.org/resource/Salem_Downtown_State_Street_–_Commercial_Street_Historic_District,http://dbpedia.org/resource/West_Salem_Historic_District
+0,61,West Radford Commercial Historic District,http://dbpedia.org/resource/West_9th_Street_Commercial_Historic_District,http://dbpedia.org/resource/West_Radford_Commercial_Historic_District
+0,69,West Pleasant Street Historic District,"http://dbpedia.org/resource/West_Broad_Street_Historic_District_(Darlington,_South_Carolina)",http://dbpedia.org/resource/West_Pleasant_Street_Historic_District
+0,72,West Parish Burying Ground,http://dbpedia.org/resource/East_Parish_Burying_Ground,http://dbpedia.org/resource/West_Parish_Burying_Ground
+0,81,West Nash Street Historic District,"http://dbpedia.org/resource/West_High_Street_Historic_District_(High_Point,_North_Carolina)",http://dbpedia.org/resource/West_Nash_Street_Historic_District
+0,85,West Memphis Commercial Historic District,http://dbpedia.org/resource/West_9th_Street_Commercial_Historic_District,http://dbpedia.org/resource/West_Memphis_Commercial_Historic_District
+0,88,West Martinsburg Historic District,http://dbpedia.org/resource/East_Martinsburg_Historic_District,http://dbpedia.org/resource/West_Martinsburg_Historic_District
+0,89,West Market Square Historic District,"http://dbpedia.org/resource/Market_Square_Historic_District_(Newburyport,_Massachusetts)",http://dbpedia.org/resource/West_Market_Square_Historic_District
+0,90,West Marion Historic District,"http://dbpedia.org/resource/Marion_Historic_District_(Marion,_South_Carolina)",http://dbpedia.org/resource/West_Marion_Historic_District
+0,91,West Main Street Residential Historic District,http://dbpedia.org/resource/West_Second_Street_Residential_Historic_District,http://dbpedia.org/resource/West_Main_Street_Residential_Historic_District
+0,92,West Main Street Historic District,"http://dbpedia.org/resource/Main_Street_Historic_District_(Roslyn,_New_York)","http://dbpedia.org/resource/West_Main_Street_Historic_District_(Westborough,_Massachusetts)"
+0,93,West Main Street Historic District,"http://dbpedia.org/resource/Main_Street_Historic_District_(Roslyn,_New_York)","http://dbpedia.org/resource/West_Main_Street_Historic_District_(Lincolnton,_North_Carolina)"
+0,94,West Main Street Historic District,"http://dbpedia.org/resource/Main_Street_Historic_District_(Roslyn,_New_York)","http://dbpedia.org/resource/West_Main_Street_Historic_District_(Forest_City,_North_Carolina)"
+0,95,West Main Street Historic District,"http://dbpedia.org/resource/Main_Street_Historic_District_(Roslyn,_New_York)","http://dbpedia.org/resource/West_Main_Street_Historic_District_(Chesterfield,_South_Carolina)"
+0,96,West Main Street-West James Street Historic District,http://dbpedia.org/resource/West_Main_Street–West_James_Street_Historic_District,http://dbpedia.org/resource/West_Main_Street-West_James_Street_Historic_District
+0,97,West Main-North Chesnutt Streets Historic District,"http://dbpedia.org/resource/West_Main_Street_Historic_District_(Lincolnton,_North_Carolina)",http://dbpedia.org/resource/West_Main-North_Chesnutt_Streets_Historic_District
+0,100,West Liberty Commercial Historic District,http://dbpedia.org/resource/West_9th_Street_Commercial_Historic_District,http://dbpedia.org/resource/West_Liberty_Commercial_Historic_District
+0,101,West Lebanon Historic District,"http://dbpedia.org/resource/West_End_Historic_District_(Fort_Wayne,_Indiana)",http://dbpedia.org/resource/West_Lebanon_Historic_District
+0,103,West Lawn,http://dbpedia.org/resource/United_States_Capitol,"http://dbpedia.org/resource/West_Lawn_(Lancaster,_Pennsylvania)"
+0,104,West Lafayette Baptist Church,"http://dbpedia.org/resource/West_Street_Baptist_Church,_East_Grinstead",http://dbpedia.org/resource/West_Lafayette_Baptist_Church
+0,105,West LaSalle Avenue Historic District,http://dbpedia.org/resource/Summit_Avenue_(St._Paul),http://dbpedia.org/resource/West_LaSalle_Avenue_Historic_District
+0,107,West Jefferson Street Historic District,"http://dbpedia.org/resource/Jefferson_Street_Historic_District_(Bluefield,_West_Virginia)",http://dbpedia.org/resource/West_Jefferson_Street_Historic_District
+0,108,West Jefferson Historic District,"http://dbpedia.org/resource/Jefferson_Historic_District_(Jefferson,_Alabama)",http://dbpedia.org/resource/West_Jefferson_Historic_District
+0,110,West Hill Historic District,http://dbpedia.org/resource/Bush_Hill_Historic_District,"http://dbpedia.org/resource/West_Hill_Historic_District_(Muscatine,_Iowa)"
+0,112,West Haven Historic District,"http://dbpedia.org/resource/West_End_Historic_District_(Fort_Wayne,_Indiana)",http://dbpedia.org/resource/West_Haven_Historic_District
+0,113,West Haven Baptist Church,http://dbpedia.org/resource/West_Union_Baptist_Church,http://dbpedia.org/resource/West_Haven_Baptist_Church
+0,116,West Gervais Street Historic District,"http://dbpedia.org/resource/West_High_Street_Historic_District_(High_Point,_North_Carolina)",http://dbpedia.org/resource/West_Gervais_Street_Historic_District
+0,117,West Garrison Avenue Historic District,http://dbpedia.org/resource/Summit_Avenue_(St._Paul),http://dbpedia.org/resource/West_Garrison_Avenue_Historic_District
+0,118,West Fulton Methodist Church,"http://dbpedia.org/resource/First_United_Methodist_Church_(West_Monroe,_Louisiana)",http://dbpedia.org/resource/West_Fulton_Methodist_Church
+0,119,West Fourth Street Historic District,"http://dbpedia.org/resource/Fourth_Street_Historic_District_(Sioux_City,_Iowa)","http://dbpedia.org/resource/West_Fourth_Street_Historic_District_(Amendment) http://dbpedia.org/resource/West_Fourth_Street_Historic_District_(Cincinnati,_Ohio)"
+0,124,West End School,http://dbpedia.org/resource/Stonewall_Jackson_School_(Virginia),"http://dbpedia.org/resource/West_End_School_(Henderson,_North_Carolina)"
+0,125,West End Historic District,"http://dbpedia.org/resource/West_End_Historic_District_(Waxahachie,_Texas)","http://dbpedia.org/resource/West_End_Historic_District_(Winston-Salem,_North_Carolina)"
+0,127,West End Historic District,"http://dbpedia.org/resource/West_End_Historic_District_(Waxahachie,_Texas)","http://dbpedia.org/resource/West_End_Historic_District_(Suffolk,_Virginia)"
+0,128,West End Historic District,"http://dbpedia.org/resource/West_End_Historic_District_(Waxahachie,_Texas)","http://dbpedia.org/resource/West_End_Historic_District_(Kings_Mountain,_North_Carolina)"
+0,129,West End Historic District,"http://dbpedia.org/resource/West_End_Historic_District_(Waxahachie,_Texas)","http://dbpedia.org/resource/West_End_Historic_District_(Fort_Wayne,_Indiana)"
+0,130,West End Historic District,"http://dbpedia.org/resource/West_End_Historic_District_(Waxahachie,_Texas)","http://dbpedia.org/resource/West_End_Historic_District_(Decatur,_Illinois)"
+0,133,West Eighth Street Historic District,"http://dbpedia.org/resource/West_High_Street_Historic_District_(High_Point,_North_Carolina)",http://dbpedia.org/resource/West_Eighth_Street_Historic_District
+0,134,West Durham Historic District,http://dbpedia.org/resource/Durham_Historic_District,http://dbpedia.org/resource/West_Durham_Historic_District
+0,138,West Davis Street-Fountain Place Historic District,http://dbpedia.org/resource/West_Davis_Street–Fountain_Place_Historic_District,http://dbpedia.org/resource/West_Davis_Street-Fountain_Place_Historic_District
+0,140,West College Avenue Historic District,http://dbpedia.org/resource/Summit_Avenue_(St._Paul),http://dbpedia.org/resource/West_College_Avenue_Historic_District
+0,141,West Church Street Historic District,"http://dbpedia.org/resource/South_Church_Street_Historic_District_(Lewisburg,_West_Virginia)",http://dbpedia.org/resource/West_Church_Street_Historic_District
+0,148,West Broadway Historic District,"http://dbpedia.org/resource/Broadway_Avenue_Historic_District_(Detroit,_Michigan)",http://dbpedia.org/resource/West_Broadway_Historic_District

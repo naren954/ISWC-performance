@@ -1,0 +1,6 @@
+F1: 0.78947,Precision: 0.78947,Recall: 0.78947,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,Dubrovka,http://dbpedia.org/resource/Dubrovka_(Lyublinsko–Dmitrovskaya_line),http://dbpedia.org/resource/Dubrovka_(Metro) http://dbpedia.org/resource/Dubrovka_(Moscow_Metro)
+0,4,Dostoyevskaya,http://dbpedia.org/resource/Dostoyevskaya_(Saint_Petersburg_Metro),http://dbpedia.org/resource/Dostoyevskaya_(Moscow_Metro)
+0,13,Bulvar Rokossovskogo,http://dbpedia.org/resource/Bulvar_Rokossovskogo_(Sokolnicheskaya_line),http://dbpedia.org/resource/Ulitsa_Podbelskogo_(Moscow_Metro) http://dbpedia.org/resource/Bulvar_Rokossovskogo http://dbpedia.org/resource/Bulvar_Marshala_Rokossovskogo http://dbpedia.org/resource/Ulitsa_Podbel'skogo http://dbpedia.org/resource/Bulvar_Rokossovskogo_(Moscow_Metro) http://dbpedia.org/resource/Ulitsa_Podbelskogo
+0,15,Botanichesky Sad,http://dbpedia.org/resource/Botanichesky_Sad_(Kaluzhsko–Rizhskaya_line),http://dbpedia.org/resource/Botanichesky_Sad_(Moscow_Metro)

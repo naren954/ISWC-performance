@@ -1,0 +1,5 @@
+F1: 0.66667,Precision: 0.66667,Recall: 0.66667,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,"Democratic Party (Partai Demokrat, PD)",http://dbpedia.org/resource/Democratic_Party_(Italy),http://dbpedia.org/resource/Democratic_Party_(Indonesia) http://dbpedia.org/resource/Partai_Demokrat http://dbpedia.org/resource/Democrat_Party_(Indonesia)
+0,6,"United Development Party (Partai Persatuan Pembangunan, PPP)",http://dbpedia.org/resource/United_Party_for_National_Development,http://dbpedia.org/resource/Development_Unity_Party http://dbpedia.org/resource/United_Development_Party http://dbpedia.org/resource/Partai_Persatuan_Pembangunan http://dbpedia.org/resource/United_Development_Party_(Indonesia)
+0,11,"Indonesian Democratic Party â\u0080\u0093 Struggle (Partai Demokrasi Indonesia Perjuangan, PDIâ\u0080\u0093P)",http://dbpedia.org/resource/President,http://dbpedia.org/resource/Indonesian_Democratic_Party_–_Struggle

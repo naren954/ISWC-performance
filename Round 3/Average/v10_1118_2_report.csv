@@ -1,0 +1,43 @@
+F1: 0.73548,Precision: 0.73548,Recall: 0.73548,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,1,Rocket Man,,"http://dbpedia.org/resource/Rocket_Man_(I_Think_It's_Going_To_Be_a_Long_Long_Time) http://dbpedia.org/resource/Rocket_Man_(I_Think_It's_Going_to_Be_a_Long,_Long_Time) http://dbpedia.org/resource/Rocket_Man_(I_Think_It's_Going_To_Be_A_Long_Long_Time) http://dbpedia.org/resource/I`m_a_rocket_man http://dbpedia.org/resource/Im'_a_rocket_man http://dbpedia.org/resource/Rocket_Man_(I_Think_It's_Going_to_Be_a_Long,_Long_Time)_(song) http://dbpedia.org/resource/Rocket_Man_(I_Think_it's_Going_to_Be_a_Long,_Long_Time) http://dbpedia.org/resource/Rocket_Man_(song) http://dbpedia.org/resource/I'm_a_rocket_man http://dbpedia.org/resource/Rocket_Man/Candle_in_the_Wind http://dbpedia.org/resource/Rocket_Man_(I_Think_It's_Going_To_Be_A_Long,_Long_Time) http://dbpedia.org/resource/Im_a_rocket_man"
+2,4,Low,http://dbpedia.org/resource/Low_(David_Bowie_album),http://dbpedia.org/resource/Low_(foo) http://dbpedia.org/resource/Low_(Foo_Fighters_song)
+2,5,There She Goes,http://dbpedia.org/resource/There_She_Goes_(Taio_Cruz_song),http://dbpedia.org/resource/There_She_Goes http://dbpedia.org/resource/There_She_Goes_(Sixpence_None_the_Richer_song)
+2,18,Help!,http://dbpedia.org/resource/Help!,http://dbpedia.org/resource/BEATLES-HELP! http://dbpedia.org/resource/Help!_(song) http://dbpedia.org/resource/Help_(song)
+2,19,If I Didn't Love You,http://dbpedia.org/resource/If_I_Didn't_Love_You_(Steve_Wariner_song),http://dbpedia.org/resource/If_I_Didn't_Love_You_(Tina_Arena_song)
+2,23,You Are,http://dbpedia.org/resource/Who_You_Are_(Jessie_J_album),http://dbpedia.org/resource/You_Are_(Pearl_Jam_song)
+2,29,Lonely,http://dbpedia.org/resource/Lonely_(Akon_song),http://dbpedia.org/resource/Lonely_(Sharon_Sheeley_song)
+2,38,Lullaby,http://dbpedia.org/resource/Lullaby_(Book_of_Love_song),http://dbpedia.org/resource/Lullaby_(Nickelback_song)
+2,43,Tattoo,http://dbpedia.org/resource/Tattoo_(Van_Halen_song),http://dbpedia.org/resource/Tattoo_(Jordin_Sparks_song)
+2,44,Crazy,http://dbpedia.org/resource/Crazy_(Aerosmith_song),http://dbpedia.org/resource/Crazy_(Dream_single) http://dbpedia.org/resource/Crazy_(Dream_song)
+2,48,Chains,http://dbpedia.org/resource/Chains_(Cookies_song),http://dbpedia.org/resource/Chains_(Tina_Arena_song)
+2,50,Not Too Late,http://dbpedia.org/resource/Not_Too_Late_(Norah_Jones_song),http://dbpedia.org/resource/Not_Too_Late_(song)
+2,53,I Feel Fine,http://dbpedia.org/resource/I_Feel_Free,http://dbpedia.org/resource/I_Feel_Fine http://dbpedia.org/resource/I_Feel_Fine_(The_Beatles_song)
+2,55,False Alarm,http://dbpedia.org/resource/False_Alarm_(The_Weeknd_song),http://dbpedia.org/resource/False_Alarm_(song)
+2,56,"Move Over, Darling",http://dbpedia.org/resource/Move_Over_Darling_(song),"http://dbpedia.org/resource/Move_Over_Darling http://dbpedia.org/resource/Move_over_darling http://dbpedia.org/resource/Move_Over,_Darling"
+2,57,Sweet Home Chicago,http://dbpedia.org/resource/Sweet_Home_Alabama,http://dbpedia.org/resource/Sweet_Home_Chicago_(Album_Version) http://dbpedia.org/resource/Sweet_Home_Chicago
+2,59,Gone,http://dbpedia.org/resource/Gone_(NSYNC_song),http://dbpedia.org/resource/Gone_(The_Tea_Party_song) http://dbpedia.org/resource/TRIPtych http://dbpedia.org/resource/Triptych_(The_Tea_Party_album)
+2,60,ASAP,http://dbpedia.org/resource/ASAP_(T.I._song),http://dbpedia.org/resource/ASAP_(Bardot_song)
+2,63,Most Girls,http://dbpedia.org/resource/Most_Girls_(Pink_song),http://dbpedia.org/resource/Most_Girls
+2,73,You're Gonna Change,http://dbpedia.org/resource/If_You're_Gonna_Play_in_Texas_(You_Gotta_Have_a_Fiddle_in_the_Band),http://dbpedia.org/resource/You're_Gonna_Change_(Or_I'm_Gonna_Leave)
+2,74,I See Red,http://dbpedia.org/resource/I_See_Red_(Split_Enz_song),http://dbpedia.org/resource/I_See_Red_(Clannad_song) http://dbpedia.org/resource/I_See_Red_(Clanad_song)
+2,78,I Won't Let You Down,http://dbpedia.org/resource/I_Won't_Let_You_Go_(James_Morrison_song),http://dbpedia.org/resource/I_Won't_Let_You_Down_(OK_Go_song)
+2,86,Burning of the Midnight Lamp,,http://dbpedia.org/resource/Burning_of_the_midnight_lamp http://dbpedia.org/resource/Burning_of_the_Midnight_Lamp http://dbpedia.org/resource/Burning_Of_The_Midnight_Lamp
+2,93,Come On,http://dbpedia.org/resource/Come_On_(Earl_King_song),http://dbpedia.org/resource/Come_On_(NPG_song) http://dbpedia.org/resource/Come_On_(The_New_Power_Generation_song)
+2,94,I Can't See Nobody,http://dbpedia.org/resource/Can't_Nobody_(2NE1_song),http://dbpedia.org/resource/I_Can't_See_Nobody
+2,102,Extraordinary,http://dbpedia.org/resource/Extraordinary_(Mandy_Moore_song),http://dbpedia.org/resource/Extraordinary_(Prince_song)
+2,106,Light On,http://dbpedia.org/resource/Paper_Light_(Higher),http://dbpedia.org/resource/Light_On
+2,108,White Christmas,http://dbpedia.org/resource/White_Christmas_(Al_Green_album),http://dbpedia.org/resource/White_Christmas_(song) http://dbpedia.org/resource/I'm_Dreaming_of_a_White_Christmas
+2,110,The Voice,http://dbpedia.org/resource/Other_Voices_(The_Doors_album),http://dbpedia.org/resource/The_Voice_(Ultravox_song)
+2,115,The Guitar,http://dbpedia.org/resource/The_Guitar_Man,http://dbpedia.org/resource/The_Guitar_(The_Lion_Sleeps_Tonight)
+2,117,Missing,http://dbpedia.org/resource/Missing_(Flyleaf_song),http://dbpedia.org/resource/Missing_(Expatriate_song) http://dbpedia.org/resource/Missing_(Everything_But_the_Girl_song) http://dbpedia.org/resource/Missing_(Expatriate_Song) http://dbpedia.org/resource/Missing_(Everything_but_the_Girl_song)
+2,119,Sleeping Sun,http://fr.dbpedia.org/resource/Sleeping_Sun,http://dbpedia.org/resource/Sleeping_Sun_(Four_Ballads_Of_The_Eclipse) http://dbpedia.org/resource/Sleeping_Sun_(Four_Ballads_of_the_Eclipse) http://dbpedia.org/resource/Sleeping_Sun http://dbpedia.org/resource/Sleeping_Sun_(4_Ballads_of_the_Eclipse)
+2,127,Save Me,http://dbpedia.org/resource/Save_Me_(Queen_song),http://dbpedia.org/resource/Save_Me_(The_Tea_Party_song)
+2,131,Love to Love You,http://dbpedia.org/resource/Love_to_Love_You_Baby_(song),http://dbpedia.org/resource/Love_to_Love_You_(song)
+2,132,Mockingbird,http://dbpedia.org/resource/Mockingbird_(Eminem_song),http://dbpedia.org/resource/Mockingbird_(Inez_&_Charlie_Foxx_song) http://dbpedia.org/resource/Mockingbird_(1963_song) http://dbpedia.org/resource/Mockingbird_(1974_song)
+2,135,The Bottle,http://dbpedia.org/resource/Dust_on_the_Bottle,http://dbpedia.org/resource/The_Bottle
+2,139,Serious,http://dbpedia.org/resource/Serious_(Duran_Duran_song),http://dbpedia.org/resource/Serious_(Gwen_Stefani_song) http://dbpedia.org/resource/Serious_(Gwen_song)
+2,142,Shine So Hard,http://dbpedia.org/resource/It's_So_Hard_to_Say_Goodbye_to_Yesterday,http://dbpedia.org/resource/Shine_So_Hard
+2,148,You're So Beautiful,http://dbpedia.org/resource/You_Are_So_Beautiful,http://dbpedia.org/resource/You're_So_Beautiful
+2,151,Rescue,http://dbpedia.org/resource/Rescue_(KAT-TUN_song),http://dbpedia.org/resource/Rescue_(Echo_&_the_Bunnymen_song) http://dbpedia.org/resource/Rescue_(song)
+2,153,Tonight,http://dbpedia.org/resource/Tonight_(Jonas_Brothers_song),http://dbpedia.org/resource/Tonight_(David_Bowie_song) http://dbpedia.org/resource/Tonight_(Iggy_Pop_song)

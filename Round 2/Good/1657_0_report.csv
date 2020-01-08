@@ -1,0 +1,4 @@
+F1: 0.85714,Precision: 0.85714,Recall: 0.85714,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,God Is Love,http://dbpedia.org/resource/What's_Going_On_(Marvin_Gaye_album),http://dbpedia.org/resource/God_Is_Love_(song)
+0,13,After All,http://dbpedia.org/resource/After_All_(The_Miracles_song),http://dbpedia.org/resource/After_All_(David_Bowie_song)

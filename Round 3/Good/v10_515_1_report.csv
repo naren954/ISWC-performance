@@ -1,0 +1,6 @@
+F1: 0.96992,Precision: 0.96992,Recall: 0.96992,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,Roberto,http://dbpedia.org/resource/Roberto_Marinho,http://dbpedia.org/resource/Roberto_(horse)
+1,5,Arch,http://dbpedia.org/resource/Joseph_Arch,http://dbpedia.org/resource/Arch_(horse)
+1,12,Bel Esprit,,http://dbpedia.org/resource/All_I_Think_About_Now http://dbpedia.org/resource/All_the_Saints_(Pixies_song) http://dbpedia.org/resource/Talent_(Pixies_song) http://dbpedia.org/resource/Talent_(song) http://dbpedia.org/resource/Head_Carrier_(song) http://dbpedia.org/resource/Classic_Masher http://dbpedia.org/resource/Oona_(Pixies_song) http://dbpedia.org/resource/All_the_Saints_(song) http://dbpedia.org/resource/Head_Carrier http://dbpedia.org/resource/All_the_Saints http://dbpedia.org/resource/Bel_Esprit http://dbpedia.org/resource/Oona_(song) http://dbpedia.org/resource/Plaster_of_Paris_(song) http://dbpedia.org/resource/Baal's_Back http://dbpedia.org/resource/Tenement_Song http://dbpedia.org/resource/Might_As_Well_Be_Gone http://dbpedia.org/resource/Plaster_of_Paris_(Pixies_song) http://dbpedia.org/resource/Um_Chagga_Lagga http://dbpedia.org/resource/Bel_Esprit_(Pixies_song) http://dbpedia.org/resource/Bel_Esprit_(song)
+1,115,Observatory,http://dbpedia.org/resource/Lowell_Observatory,http://dbpedia.org/resource/Observatory_(horse)

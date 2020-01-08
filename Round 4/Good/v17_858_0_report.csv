@@ -1,0 +1,7 @@
+F1: 0.97396,Precision: 0.97396,Recall: 0.97396,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,23,Integral,http://dbpedia.org/resource/Integrál-DAC,http://dbpedia.org/resource/Integral_(horse)
+0,49,Harbour,http://dbpedia.org/resource/Harbor_seal,http://dbpedia.org/resource/Harbour_(horse)
+0,67,Germany,http://dbpedia.org/resource/Albert_II_of_Germany,http://dbpedia.org/resource/Germany_(horse)
+0,166,Churchill,"http://dbpedia.org/resource/George_Spencer-Churchill,_8th_Duke_of_Marlborough",http://dbpedia.org/resource/Churchill_(horse)
+0,173,Carnegie,"http://dbpedia.org/resource/James_Carnegie,_3rd_Duke_of_Fife",http://dbpedia.org/resource/Carnegie_(horse)

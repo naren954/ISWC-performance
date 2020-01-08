@@ -1,0 +1,70 @@
+F1: 0.51429,Precision: 0.51429,Recall: 0.51429,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,7,S. Ford,http://dbpedia.org/resource/Gerald_Ford,http://dbpedia.org/resource/Steven_Ford http://dbpedia.org/resource/Steven_Meigs_Ford http://dbpedia.org/resource/Steven_M._Ford
+2,8,J. Stewart,http://dbpedia.org/resource/Jon_Stewart,http://dbpedia.org/resource/Jay_Stewart
+2,9,K. Hayley,http://dbpedia.org/resource/Hayley_Mills,http://dbpedia.org/resource/Karen_Hayley
+2,14,P. Smith,http://dbpedia.org/resource/Patti_Smith,http://dbpedia.org/resource/Pete_Smith_(announcer)
+2,15,S. L. Owen,http://dbpedia.org/resource/Edward_Bulwer-Lytton,http://dbpedia.org/resource/Stefania_LaVie_Owen http://dbpedia.org/resource/Stefania_Owen
+2,17,S. Appleby,http://dbpedia.org/resource/Melanie_Appleby,http://dbpedia.org/resource/Sheri_Appleby http://dbpedia.org/resource/Shiri_Appleby http://dbpedia.org/resource/Shiri_Freda_Appleby
+2,18,K. Noda,http://dbpedia.org/resource/Kogo_Noda,http://dbpedia.org/resource/Keiichi_Noda
+2,20,S. Zimbalist,http://dbpedia.org/resource/Efrem_Zimbalist,http://dbpedia.org/resource/Stephaine_Zimbalist http://dbpedia.org/resource/Stephanie_Zimbalist
+2,25,D. Pratt,http://dbpedia.org/resource/Hugo_Pratt,http://dbpedia.org/resource/Deborah_Pratt
+2,26,J. Dale,http://dbpedia.org/resource/Jimmy_Dale_(musician),http://dbpedia.org/resource/Jim_Dale
+2,28,D. Attenborough,http://dbpedia.org/resource/Richard_Attenborough,"http://dbpedia.org/resource/David_Nattenburger http://dbpedia.org/resource/Sir_Dave_Attenborough http://dbpedia.org/resource/Sir_Attenborough http://dbpedia.org/resource/Attenborough,_D. http://dbpedia.org/resource/David_Attenborough http://dbpedia.org/resource/Attenborough,_David http://dbpedia.org/resource/Sir_David_Attenborough http://dbpedia.org/resource/David_attenborough http://dbpedia.org/resource/Sir_David_Frederick_Attenborough http://dbpedia.org/resource/David_attenbourough http://dbpedia.org/resource/David_Frederick_Attenborough"
+2,31,B. Flynn,http://dbpedia.org/resource/Errol_Flynn,http://dbpedia.org/resource/Barbara_Flynn
+2,32,G. Wood,http://dbpedia.org/resource/Grant_Wood,http://dbpedia.org/resource/Gene_Wood
+2,33,G. Wood,http://dbpedia.org/resource/Grant_Wood,http://dbpedia.org/resource/Gene_Wood
+2,34,J. S. Maria,http://dbpedia.org/resource/José_Martí,http://dbpedia.org/resource/Jodi_Santamaria http://dbpedia.org/resource/Jodi_Sta._Maria http://dbpedia.org/resource/Jodi_Sta._Maria-Lacson
+2,36,H. Blick,http://dbpedia.org/resource/Dick_Blick_(swimmer),http://dbpedia.org/resource/Hugo_Blick http://dbpedia.org/resource/Hugo_E._Blick
+2,38,V. Scully,http://dbpedia.org/resource/Sean_Scully,http://dbpedia.org/resource/Vin_Scully http://dbpedia.org/resource/Vin_skully http://dbpedia.org/resource/Vincent_Edward_Scully
+2,39,J. Olson,http://dbpedia.org/resource/Josh_Olson,http://dbpedia.org/resource/Johnny_Olsen http://dbpedia.org/resource/John_Leonard_Olson http://dbpedia.org/resource/Johnny_Olson
+2,41,D. Ingram,http://dbpedia.org/resource/Dave_Ingram,http://dbpedia.org/resource/Dan_Ingram
+2,42,T. Robinson,http://dbpedia.org/resource/Theodore_Robinson,http://dbpedia.org/resource/Sir_Tony_Robinson http://dbpedia.org/resource/Tony_Robinson
+2,43,O. Kobayashi,http://dbpedia.org/resource/Kentarō_Kobayashi,http://dbpedia.org/resource/Osamu_Kobayashi_(voice_actor)
+2,44,D. Attenborough,http://dbpedia.org/resource/Richard_Attenborough,"http://dbpedia.org/resource/David_Nattenburger http://dbpedia.org/resource/Sir_Dave_Attenborough http://dbpedia.org/resource/Sir_Attenborough http://dbpedia.org/resource/Attenborough,_D. http://dbpedia.org/resource/David_Attenborough http://dbpedia.org/resource/Attenborough,_David http://dbpedia.org/resource/Sir_David_Attenborough http://dbpedia.org/resource/David_attenborough http://dbpedia.org/resource/Sir_David_Frederick_Attenborough http://dbpedia.org/resource/David_attenbourough http://dbpedia.org/resource/David_Frederick_Attenborough"
+2,46,L. Dobkin,http://dbpedia.org/resource/David_Dobkin_(director),http://dbpedia.org/resource/Lawrence_Dobkin http://dbpedia.org/resource/Larry_Dobkin
+2,49,J. Olson,http://dbpedia.org/resource/Josh_Olson,http://dbpedia.org/resource/Johnny_Olsen http://dbpedia.org/resource/John_Leonard_Olson http://dbpedia.org/resource/Johnny_Olson
+2,51,S. Nakae,http://dbpedia.org/resource/Masato_Nakae,http://dbpedia.org/resource/Shinji_Nakae http://dbpedia.org/resource/Nakae_Shinji
+2,52,A. DuBois,http://fr.dbpedia.org/resource/Alfred_Dubois,http://dbpedia.org/resource/Alison_Dubois http://dbpedia.org/resource/Alison_DuBois http://dbpedia.org/resource/Allison_DuBois
+2,54,G. Wood,http://dbpedia.org/resource/Grant_Wood,http://dbpedia.org/resource/Gene_Wood
+2,55,N. McKay,http://dbpedia.org/resource/Nellie_McKay,http://dbpedia.org/resource/Nicholas_McKay_(actor)
+2,59,C. King,http://dbpedia.org/resource/Carole_King,http://dbpedia.org/resource/Carl_King_(Emmerdale_character) http://dbpedia.org/resource/Carl_King_(Emmerdale) http://dbpedia.org/resource/Carl_King
+2,60,T. Genda,http://dbpedia.org/resource/Minoru_Genda,http://dbpedia.org/resource/Tesshô_Genda http://dbpedia.org/resource/Genda_Tessyo http://dbpedia.org/resource/Tesho_Genda http://dbpedia.org/resource/Tesshou_Genda http://dbpedia.org/resource/Genda_Tessho http://dbpedia.org/resource/Tesshō_Genda http://dbpedia.org/resource/Tetsuaki_Genda http://dbpedia.org/resource/Mitsuo_Yokoi http://dbpedia.org/resource/Tessho_Genda http://dbpedia.org/resource/Tessyou_Genda http://dbpedia.org/resource/Genda_Tesshou http://dbpedia.org/resource/Genda_Tesshō http://dbpedia.org/resource/Tetsusyo_Genda
+2,62,D. Attenborough,http://dbpedia.org/resource/Richard_Attenborough,"http://dbpedia.org/resource/David_Nattenburger http://dbpedia.org/resource/Sir_Dave_Attenborough http://dbpedia.org/resource/Sir_Attenborough http://dbpedia.org/resource/Attenborough,_D. http://dbpedia.org/resource/David_Attenborough http://dbpedia.org/resource/Attenborough,_David http://dbpedia.org/resource/Sir_David_Attenborough http://dbpedia.org/resource/David_attenborough http://dbpedia.org/resource/Sir_David_Frederick_Attenborough http://dbpedia.org/resource/David_attenbourough http://dbpedia.org/resource/David_Frederick_Attenborough"
+2,66,R. Muller,http://dbpedia.org/resource/Richard_Müller_(singer),"http://dbpedia.org/resource/Romeo_Muller,_Jr. http://dbpedia.org/resource/Romeo_muller http://dbpedia.org/resource/Romeo_Muller"
+2,67,D. Attenborough,http://dbpedia.org/resource/Richard_Attenborough,"http://dbpedia.org/resource/David_Nattenburger http://dbpedia.org/resource/Sir_Dave_Attenborough http://dbpedia.org/resource/Sir_Attenborough http://dbpedia.org/resource/Attenborough,_D. http://dbpedia.org/resource/David_Attenborough http://dbpedia.org/resource/Attenborough,_David http://dbpedia.org/resource/Sir_David_Attenborough http://dbpedia.org/resource/David_attenborough http://dbpedia.org/resource/Sir_David_Frederick_Attenborough http://dbpedia.org/resource/David_attenbourough http://dbpedia.org/resource/David_Frederick_Attenborough"
+2,68,D. Attenborough,http://dbpedia.org/resource/Richard_Attenborough,"http://dbpedia.org/resource/David_Nattenburger http://dbpedia.org/resource/Sir_Dave_Attenborough http://dbpedia.org/resource/Sir_Attenborough http://dbpedia.org/resource/Attenborough,_D. http://dbpedia.org/resource/David_Attenborough http://dbpedia.org/resource/Attenborough,_David http://dbpedia.org/resource/Sir_David_Attenborough http://dbpedia.org/resource/David_attenborough http://dbpedia.org/resource/Sir_David_Frederick_Attenborough http://dbpedia.org/resource/David_attenbourough http://dbpedia.org/resource/David_Frederick_Attenborough"
+2,70,S. Higgins,http://dbpedia.org/resource/Clare_Higgins,http://dbpedia.org/resource/Steve_Higgins
+2,71,J. Godard,http://dbpedia.org/resource/Jean-Luc_Godard,http://dbpedia.org/resource/Joel_Goddard http://dbpedia.org/resource/Joel_Godard
+2,74,K. d. Leon,http://dbpedia.org/resource/Oscar_D'León,http://dbpedia.org/resource/Keempee_de_Leon
+2,76,O. Kobayashi,http://dbpedia.org/resource/Kentarō_Kobayashi,http://dbpedia.org/resource/Osamu_Kobayashi http://dbpedia.org/resource/Osamu_Kobayashi_(disambiguation)
+2,78,J. Stewart,http://dbpedia.org/resource/Jon_Stewart,http://dbpedia.org/resource/Jay_Stewart
+2,80,S. Nakae,http://dbpedia.org/resource/Masato_Nakae,http://dbpedia.org/resource/Shinji_Nakae http://dbpedia.org/resource/Nakae_Shinji
+2,81,H. Hirata,http://dbpedia.org/resource/Hiromi_Hirata,http://dbpedia.org/resource/Hirata_Hiroaki http://dbpedia.org/resource/Hiroaki_Hirata
+2,83,S. Nakae,http://dbpedia.org/resource/Masato_Nakae,http://dbpedia.org/resource/Shinji_Nakae http://dbpedia.org/resource/Nakae_Shinji
+2,84,S. Nakae,http://dbpedia.org/resource/Masato_Nakae,http://dbpedia.org/resource/Shinji_Nakae http://dbpedia.org/resource/Nakae_Shinji
+2,87,A. Ishida,http://dbpedia.org/resource/Ayumi_Ishida_(actress),http://dbpedia.org/resource/Akira_Ishida http://dbpedia.org/resource/Isida_Akira http://dbpedia.org/resource/Ishida_Akira http://dbpedia.org/resource/Akira_Isida
+2,92,S. Nakae,http://dbpedia.org/resource/Masato_Nakae,http://dbpedia.org/resource/Shinji_Nakae http://dbpedia.org/resource/Nakae_Shinji
+2,93,T. Seki,http://dbpedia.org/resource/Toshihiko_Seki,http://dbpedia.org/resource/Seki_Tomokazu http://dbpedia.org/resource/関智一 http://dbpedia.org/resource/Tomokazu_Seki http://dbpedia.org/resource/SEKI_Tomokazu
+2,94,N. McKay,http://dbpedia.org/resource/Nellie_McKay,http://dbpedia.org/resource/Nicholas_McKay_(actor)
+2,97,T. Reid,http://dbpedia.org/resource/Thomas_Reid,http://dbpedia.org/resource/Tim_Reid
+2,99,A. Johnson,http://dbpedia.org/resource/Dwayne_Johnson,http://dbpedia.org/resource/Alexz_S_Johnson http://dbpedia.org/resource/Heart_EP_(Alexz_Johnson_album) http://dbpedia.org/resource/Trip_Around_the_World http://dbpedia.org/resource/Alexzandra_S_Johnson http://dbpedia.org/resource/Let_'Em_Eat_Cake_(Alexz_Johnson_album) http://dbpedia.org/resource/Where_Does_It_Hurt(Alexz_Johnson_song) http://dbpedia.org/resource/Alexzandra_Spencer_Johnson http://dbpedia.org/resource/Alexz_Spencer_Johnson http://dbpedia.org/resource/Alexzandra_Johnson http://dbpedia.org/resource/24_Hours_(Alexz_Johnson_song) http://dbpedia.org/resource/Alexzandra_S._Johnson http://dbpedia.org/resource/Running_With_the_Devil_(Alexz_Johnson_album) http://dbpedia.org/resource/Weight_(Alexz_Johnson_album) http://dbpedia.org/resource/Alexzandra http://dbpedia.org/resource/Alexz_S._Johnson http://dbpedia.org/resource/Alexz_Johnson_discography http://dbpedia.org/resource/Alexz_Johnson http://dbpedia.org/resource/Heart_(Alexz_Johnson_album) http://dbpedia.org/resource/Trip_Around_The_World http://dbpedia.org/resource/Weight_(Alexz_Johnson_Album)
+2,101,D. Goss,http://dbpedia.org/resource/Wayne_Goss,http://dbpedia.org/resource/Dean_Goss
+2,102,R. Taylor,http://dbpedia.org/resource/Elizabeth_Taylor,http://dbpedia.org/resource/Regina_Taylor
+2,107,R. Roddy,http://dbpedia.org/resource/Derek_Roddy,http://dbpedia.org/resource/Robert_Ray_Roddy http://dbpedia.org/resource/Rod_Roddy
+2,108,Harvey,http://dbpedia.org/resource/Laurence_Harvey,http://dbpedia.org/resource/John_Harvey_(television) http://dbpedia.org/resource/John_Harvey_(announcer) http://dbpedia.org/resource/Harvey_(announcer)
+2,109,A. Gilmore,http://dbpedia.org/resource/Jim_Gilmore,http://dbpedia.org/resource/Art_Gilmore
+2,110,D. Goss,http://dbpedia.org/resource/Wayne_Goss,http://dbpedia.org/resource/Dean_Goss
+2,113,A. Miwa,http://dbpedia.org/resource/Katsue_Miwa,http://dbpedia.org/resource/Maruyama_Akihiro http://dbpedia.org/resource/Miwa_Akihiro http://dbpedia.org/resource/Akihiro_Miwa
+2,117,J. Gilbert,http://dbpedia.org/resource/John_Gilbert_(actor),http://dbpedia.org/resource/Johnny_Gilbert
+2,118,S. Ōta,"http://dbpedia.org/resource/Otto_I,_Holy_Roman_Emperor",http://dbpedia.org/resource/Shinichirō_Ōta http://dbpedia.org/resource/Shinichirou_Ohta http://dbpedia.org/resource/Ohta_Shinichiro http://dbpedia.org/resource/Shin'ichiro_Ota http://dbpedia.org/resource/Ohta_Shinichirou http://dbpedia.org/resource/Shinichiro_Ota http://dbpedia.org/resource/Shinichiro_Ohta http://dbpedia.org/resource/Oota_Shinichirou
+2,119,K. Williams,http://dbpedia.org/resource/Kelli_Williams,http://dbpedia.org/resource/Kenny_Williams_(announcer) http://dbpedia.org/resource/Kenny_Williams_(Announcer)
+2,120,J. Beck,http://dbpedia.org/resource/Julian_Beck,http://dbpedia.org/resource/Jackson_Beck
+2,122,J. Leahy,http://dbpedia.org/resource/Patrick_Leahy,http://dbpedia.org/resource/Joe_Leahy
+2,125,J. Deeks,http://dbpedia.org/resource/Don_Deeks,http://dbpedia.org/resource/Jon_Deeks http://dbpedia.org/resource/John_Deeks http://dbpedia.org/resource/John_Deekes
+2,126,T. Robbins,http://dbpedia.org/resource/Tim_Robbins,http://dbpedia.org/resource/Ted_Robbins
+2,128,D. Pardo,http://es.dbpedia.org/resource/Ángel_Pardo_(actor),http://dbpedia.org/resource/Don_Pardo
+2,133,J. Bennett,http://dbpedia.org/resource/Joan_Bennett,"http://dbpedia.org/resource/Jeff_Bennett http://dbpedia.org/resource/Bennett,_Jeff http://dbpedia.org/resource/Jeff_Bennett_(voice_actor) http://dbpedia.org/resource/Jeffrey_Bennett http://dbpedia.org/resource/Jeffrey_Glen_Bennett http://dbpedia.org/resource/Jeff_Glenn_Bennett http://dbpedia.org/resource/Jeff_bennet http://dbpedia.org/resource/Jeff_Glen_Bennett"
+2,134,F. Stevens,http://dbpedia.org/resource/Ted_Stevens,http://dbpedia.org/resource/Fisher_Stevens
+2,135,R. Feinberg,http://dbpedia.org/resource/Leslie_Feinberg,http://dbpedia.org/resource/Ron_Feinberg
+2,137,J. Gilbert,http://dbpedia.org/resource/John_Gilbert_(actor),http://dbpedia.org/resource/Johnny_Gilbert

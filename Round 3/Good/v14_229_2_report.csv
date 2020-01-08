@@ -1,0 +1,6 @@
+F1: 0.91489,Precision: 0.91489,Recall: 0.91489,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,4,Executive producer,http://dbpedia.org/resource/J._Michael_Straczynski,http://dbpedia.org/resource/Co-executive_producer http://dbpedia.org/resource/Executive_producers http://dbpedia.org/resource/Artistic_producer http://dbpedia.org/resource/Creative_producer http://dbpedia.org/resource/Executive_Producer http://dbpedia.org/resource/Executive_Producers http://dbpedia.org/resource/Executive_produced http://dbpedia.org/resource/Executive_in_charge_of_production http://dbpedia.org/resource/Executive_producer
+2,29,Wesley Rose,http://dbpedia.org/resource/Wesley_Eisold,http://dbpedia.org/resource/Wesley_Rose
+2,31,Tjinder Singh,http://dbpedia.org/resource/Cornershop,http://dbpedia.org/resource/Tjinder_Singh http://dbpedia.org/resource/Cornershop_(band)
+2,34,Simon Efemey,http://dbpedia.org/resource/Simon_Archer,http://dbpedia.org/resource/Simon_Efemey

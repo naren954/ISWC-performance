@@ -1,0 +1,7 @@
+F1: 0.44444,Precision: 0.44444,Recall: 0.44444,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,3,Ned Balbo and Philip White,http://dbpedia.org/resource/Philip_Rodney_White,http://dbpedia.org/resource/Ned_Balbo
+1,6,Maryann Corbett and John Richards,http://dbpedia.org/resource/John_Corbett_(chemist),http://dbpedia.org/resource/Maryann_Corbett
+1,7,Michael Palma and Scott Hightower,http://dbpedia.org/resource/Michael_Scott_(priest),http://dbpedia.org/resource/Michael_Palma
+1,9,"Niloufar Talebi, Chana Bloch, and Chana Kronfeld",http://dbpedia.org/resource/Chana_Bloch,http://dbpedia.org/resource/Niloufar_Talebi
+1,12,Marilyn Hacker and Ralph Angel,http://dbpedia.org/resource/Los_Angeles,http://dbpedia.org/resource/Marilyn_Hacker

@@ -1,0 +1,4 @@
+"F1: 0.75000","Precision: 0.75000","Recall: 0.75000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","4","BrÃ¼hl St. Gallen","http://dbpedia.org/resource/SC_Brühl","http://dbpedia.org/resource/Brühl_St._Gallen"
+"1","5","Blue Stars ZÃ¼rich","http://dbpedia.org/resource/FC_Blue_Stars_Zürich","http://dbpedia.org/resource/Blue_Stars_Zürich"

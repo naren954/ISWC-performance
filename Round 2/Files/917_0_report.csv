@@ -1,0 +1,4 @@
+"F1: 0.92593","Precision: 0.92593","Recall: 0.92593"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","2","City Hall","http://dbpedia.org/resource/Antwerp_City_Hall","http://dbpedia.org/resource/City_Hall_(6_Line) http://dbpedia.org/resource/City_Hall_(IRT_Lexington_Avenue_Line_station) http://dbpedia.org/resource/City_Hall_Loop_(IRT_Lexington_Avenue_Line) http://dbpedia.org/resource/City_Hall_(IRT_Lexington_Avenue_Line) http://dbpedia.org/resource/City_Hall_Subway_Station_(IRT)"
+"0","8","Central Library","http://dbpedia.org/resource/Denver_Public_Library","http://dbpedia.org/resource/Multnomah_County_Central_Library http://dbpedia.org/resource/Central_Building,_Public_Library_Multnomah_County http://dbpedia.org/resource/Central_Library_(Portland,_Oregon) http://dbpedia.org/resource/Portland_Central_Library http://dbpedia.org/resource/Central_Building,_Public_Library"

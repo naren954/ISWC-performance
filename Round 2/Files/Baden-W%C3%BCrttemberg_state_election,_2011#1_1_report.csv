@@ -1,0 +1,4 @@
+"F1: 0.71429","Precision: 0.71429","Recall: 0.71429"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","2","Alliance '90\/The Greens (Die GrÃ¼nen)","http://dbpedia.org/resource/Alliance_90/The_Greens","http://dbpedia.org/resource/Alliance_'90/The_Greens"
+"1","7","The Republicans","http://dbpedia.org/resource/Roman_Republic","http://dbpedia.org/resource/The_Republicans_(Germany) http://dbpedia.org/resource/Republican_Party_(Germany) http://dbpedia.org/resource/Republikaner_Party http://dbpedia.org/resource/Die_Republikaner http://dbpedia.org/resource/Republicans_(Germany) http://dbpedia.org/resource/Republikaner http://dbpedia.org/resource/Republikaner_party"

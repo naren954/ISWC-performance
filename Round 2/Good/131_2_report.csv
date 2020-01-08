@@ -1,0 +1,5 @@
+F1: 0.80000,Precision: 0.80000,Recall: 0.80000,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,7,Alberta,"http://dbpedia.org/resource/Red_Deer,_Alberta","http://dbpedia.org/resource/Alberta http://dbpedia.org/resource/Province_of_Alberta http://dbpedia.org/resource/Alberta's http://dbpedia.org/resource/Albertans http://dbpedia.org/resource/Alberta,_Canada http://dbpedia.org/resource/CA-AB http://dbpedia.org/resource/Alberta_Transportation http://dbpedia.org/resource/Alberta_province http://dbpedia.org/resource/Albertan http://dbpedia.org/resource/Alberta_(province)"
+2,11,"Russell, Ontario","http://dbpedia.org/resource/Russell,_Ontario","http://dbpedia.org/resource/Russell_(community),_Ontario http://dbpedia.org/resource/Russell,_Ontario_(community)"
+2,14,Ottawa Curling Club,http://dbpedia.org/resource/Ottawa_Senators_(original),http://dbpedia.org/resource/Ottawa_Curling_Club

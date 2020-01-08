@@ -1,0 +1,44 @@
+F1: 0.71429,Precision: 0.71429,Recall: 0.71429,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,6,S. Kumar,http://dbpedia.org/resource/Sandeep_Kumar_(racewalker),http://dbpedia.org/resource/Kumar_Sushil http://dbpedia.org/resource/Sushil_Kumar_(wrestling) http://dbpedia.org/resource/Sushil_Kumar_(wrestler) http://dbpedia.org/resource/Sushil_kumar_wins_bronze
+3,18,S. Kumar,http://dbpedia.org/resource/Sandeep_Kumar_(racewalker),http://dbpedia.org/resource/Kumar_Sushil http://dbpedia.org/resource/Sushil_Kumar_(wrestling) http://dbpedia.org/resource/Sushil_Kumar_(wrestler) http://dbpedia.org/resource/Sushil_kumar_wins_bronze
+3,27,X. Li,http://dbpedia.org/resource/Michelle_Li_(badminton),http://dbpedia.org/resource/Xu_Li
+3,45,X. Li,http://dbpedia.org/resource/Michelle_Li_(badminton),http://dbpedia.org/resource/Xu_Li
+3,65,M. A. Ibragimov,"http://dbpedia.org/resource/Magomed_Ibragimov_(wrestler,_born_1985)",http://dbpedia.org/resource/Magomed_Abdulmuminovich_Ibragimov
+3,68,J. Kelly,http://dbpedia.org/resource/Josh_Kelly_(boxer),http://dbpedia.org/resource/Jamill_Kelly
+3,83,M. A. Ibragimov,"http://dbpedia.org/resource/Magomed_Ibragimov_(wrestler,_born_1985)",http://dbpedia.org/resource/Magomed_Abdulmuminovich_Ibragimov
+3,86,J. Kelly,http://dbpedia.org/resource/Josh_Kelly_(boxer),http://dbpedia.org/resource/Jamill_Kelly
+3,98,P. Ollivier,http://dbpedia.org/resource/Émile_Ollivier,http://dbpedia.org/resource/Pierre_Ollivier
+3,99,V. Wikström,http://dbpedia.org/resource/Emil_Wikström,http://dbpedia.org/resource/Volmari_W._Wikström http://dbpedia.org/resource/Volmar_Wikstrom http://dbpedia.org/resource/Volmar_Wikström
+3,100,R. Svensson,http://dbpedia.org/resource/Ragnar_Svensson_(sailor),http://dbpedia.org/resource/Johan_Svensson_(wrestler) http://dbpedia.org/resource/Rudolf_Svensson
+3,102,C. Newton,http://dbpedia.org/resource/Chris_Newton,http://dbpedia.org/resource/Chester_Newton
+3,103,K. Mäkinen,http://dbpedia.org/resource/Kauko_Mäkinen,http://dbpedia.org/resource/Kaarlo_E._Mäkinen http://dbpedia.org/resource/Kaarlo_Makinen http://dbpedia.org/resource/Kaarlo_Mäkinen
+3,104,A. Lindfors,http://dbpedia.org/resource/Viveca_Lindfors_(figure_skater),http://dbpedia.org/resource/Arthur_Lindfors
+3,105,L. Keresztes,http://dbpedia.org/resource/Attila_Keresztes,http://dbpedia.org/resource/Lajos_Keresztes
+3,106,R. Svensson,http://dbpedia.org/resource/Ragnar_Svensson_(sailor),http://dbpedia.org/resource/Johan_Svensson_(wrestler) http://dbpedia.org/resource/Rudolf_Svensson
+3,107,E. Rosenqvist,http://dbpedia.org/resource/Ernst_Rosenqvist,http://dbpedia.org/resource/Edil_Rosenqvist
+3,109,A. Ahlfors,http://dbpedia.org/resource/Lars_Ahlfors,http://dbpedia.org/resource/Anselm_Ahlfors
+3,111,P. Ollivier,http://dbpedia.org/resource/Émile_Ollivier,http://dbpedia.org/resource/Pierre_Ollivier
+3,112,V. Wikström,http://dbpedia.org/resource/Emil_Wikström,http://dbpedia.org/resource/Volmari_W._Wikström http://dbpedia.org/resource/Volmar_Wikstrom http://dbpedia.org/resource/Volmar_Wikström
+3,113,R. Svensson,http://dbpedia.org/resource/Ragnar_Svensson_(sailor),http://dbpedia.org/resource/Johan_Svensson_(wrestler) http://dbpedia.org/resource/Rudolf_Svensson
+3,115,C. Newton,http://dbpedia.org/resource/Chris_Newton,http://dbpedia.org/resource/Chester_Newton
+3,116,K. Mäkinen,http://dbpedia.org/resource/Kauko_Mäkinen,http://dbpedia.org/resource/Kaarlo_E._Mäkinen http://dbpedia.org/resource/Kaarlo_Makinen http://dbpedia.org/resource/Kaarlo_Mäkinen
+3,117,A. Lindfors,http://dbpedia.org/resource/Viveca_Lindfors_(figure_skater),http://dbpedia.org/resource/Arthur_Lindfors
+3,118,L. Keresztes,http://dbpedia.org/resource/Attila_Keresztes,http://dbpedia.org/resource/Lajos_Keresztes
+3,119,R. Svensson,http://dbpedia.org/resource/Ragnar_Svensson_(sailor),http://dbpedia.org/resource/Johan_Svensson_(wrestler) http://dbpedia.org/resource/Rudolf_Svensson
+3,120,E. Rosenqvist,http://dbpedia.org/resource/Ernst_Rosenqvist,http://dbpedia.org/resource/Edil_Rosenqvist
+3,122,A. Ahlfors,http://dbpedia.org/resource/Lars_Ahlfors,http://dbpedia.org/resource/Anselm_Ahlfors
+3,124,G. Svensson,http://dbpedia.org/resource/Gösta_Svensson,http://dbpedia.org/resource/Gottfrid_Svenson http://dbpedia.org/resource/Gottfrid_Svensson
+3,125,C. Courant,http://dbpedia.org/resource/Richard_Courant,http://dbpedia.org/resource/Charles_Courant
+3,127,S. Gerson,http://dbpedia.org/resource/Max_Gerson,http://dbpedia.org/resource/Sam_Gerson http://dbpedia.org/resource/Samuel_Norton_Gerson http://dbpedia.org/resource/Samuel_Gerson
+3,128,A. Lindfors,http://dbpedia.org/resource/Viveca_Lindfors_(figure_skater),http://dbpedia.org/resource/Arthur_Lindfors
+3,130,E. Rosenqvist,http://dbpedia.org/resource/Ernst_Rosenqvist,http://dbpedia.org/resource/Edil_Rosenqvist
+3,132,H. Kähkönen,http://dbpedia.org/resource/Aulis_Kähkönen,http://dbpedia.org/resource/Heikki_Kähkönen http://dbpedia.org/resource/Heikki_Kahkonen
+3,134,G. Svensson,http://dbpedia.org/resource/Gösta_Svensson,http://dbpedia.org/resource/Gottfrid_Svenson http://dbpedia.org/resource/Gottfrid_Svensson
+3,135,C. Courant,http://dbpedia.org/resource/Richard_Courant,http://dbpedia.org/resource/Charles_Courant
+3,137,S. Gerson,http://dbpedia.org/resource/Max_Gerson,http://dbpedia.org/resource/Sam_Gerson http://dbpedia.org/resource/Samuel_Norton_Gerson http://dbpedia.org/resource/Samuel_Gerson
+3,138,A. Lindfors,http://dbpedia.org/resource/Viveca_Lindfors_(figure_skater),http://dbpedia.org/resource/Arthur_Lindfors
+3,140,E. Rosenqvist,http://dbpedia.org/resource/Ernst_Rosenqvist,http://dbpedia.org/resource/Edil_Rosenqvist
+3,142,H. Kähkönen,http://dbpedia.org/resource/Aulis_Kähkönen,http://dbpedia.org/resource/Heikki_Kähkönen http://dbpedia.org/resource/Heikki_Kahkonen
+3,143,M. Klein,"http://dbpedia.org/resource/Michael_Klein_(footballer,_born_1959)",http://dbpedia.org/resource/Martin_Klein_(wrestler)
+3,146,J. Olin,http://dbpedia.org/resource/Jim_Olin,http://dbpedia.org/resource/Johan_Olin

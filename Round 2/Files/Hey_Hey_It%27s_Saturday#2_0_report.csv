@@ -1,0 +1,4 @@
+"F1: 0.80000","Precision: 0.80000","Recall: 0.80000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","8","Plucka Duck","http://dbpedia.org/resource/Eugen_Dücker","http://dbpedia.org/resource/Plucka_Duck_(character) http://dbpedia.org/resource/Plucka_Duck"
+"0","10","Penne Dennison","http://dbpedia.org/resource/Rick_Dennison","http://dbpedia.org/resource/Penne_Dennison"

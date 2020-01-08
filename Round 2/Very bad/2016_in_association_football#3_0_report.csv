@@ -1,0 +1,11 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,6,England,http://dbpedia.org/resource/England,http://dbpedia.org/resource/Women's_football_in_England
+0,7,France,http://dbpedia.org/resource/France,http://dbpedia.org/resource/Women's_football_in_France
+0,8,Germany,http://dbpedia.org/resource/Germany,http://dbpedia.org/resource/Women's_football_in_Germany
+0,9,Netherlands,http://dbpedia.org/resource/William_I_of_the_Netherlands,http://dbpedia.org/resource/Women's_football_in_the_Netherlands
+0,10,Norway,http://dbpedia.org/resource/Norway,http://dbpedia.org/resource/Women's_football_in_Norway
+0,12,Scotland,http://dbpedia.org/resource/Scotland,http://dbpedia.org/resource/Women's_football_in_Scotland
+0,13,Spain,http://dbpedia.org/resource/Spain,http://dbpedia.org/resource/Women's_football_in_Spain
+0,14,Sweden,http://dbpedia.org/resource/Sweden,http://dbpedia.org/resource/Women's_football_in_Sweden
+0,15,Wales,http://dbpedia.org/resource/Wales,http://dbpedia.org/resource/Women's_football_in_Wales

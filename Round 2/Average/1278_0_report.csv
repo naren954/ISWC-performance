@@ -1,0 +1,6 @@
+F1: 0.66667,Precision: 0.66667,Recall: 0.66667,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,A. Boone,http://dbpedia.org/resource/Daniel_Boone,http://dbpedia.org/resource/Alphonso_Boone
+0,6,A. Müller,http://dbpedia.org/resource/Heiner_Müller,http://dbpedia.org/resource/Alfred_Muller_(entrepreneur) http://dbpedia.org/resource/Alfred_Müller_(entrepreneur)
+0,8,A. Müller,http://dbpedia.org/resource/Heiner_Müller,http://dbpedia.org/resource/Alfred_Muller_(entrepreneur) http://dbpedia.org/resource/Alfred_Müller_(entrepreneur)
+0,12,A. Onassis,http://dbpedia.org/resource/Jacqueline_Kennedy_Onassis,http://dbpedia.org/resource/Alexander_Onassis http://dbpedia.org/resource/Alexandros_Onassis

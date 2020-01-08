@@ -1,0 +1,19 @@
+F1: 0.22727,Precision: 0.22727,Recall: 0.22727,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,German submarine U-87,http://dbpedia.org/resource/German_submarine_U-214,http://dbpedia.org/resource/German_submarine_U-87_(1941)
+0,2,German submarine U-879,http://dbpedia.org/resource/German_submarine_U-214,http://dbpedia.org/resource/German_submarine_U-879
+0,3,German submarine U-878,http://dbpedia.org/resource/German_submarine_U-214,http://dbpedia.org/resource/German_submarine_U-878
+0,4,German submarine U-877,http://dbpedia.org/resource/German_submarine_U-214,http://dbpedia.org/resource/U-877 http://dbpedia.org/resource/U_877 http://dbpedia.org/resource/German_submarine_U_877 http://dbpedia.org/resource/German_submarine_U-877 http://dbpedia.org/resource/German_submarine_U877 http://dbpedia.org/resource/Unterseeboot_877 http://dbpedia.org/resource/U877
+0,5,German submarine U-876,http://dbpedia.org/resource/German_submarine_U-214,http://dbpedia.org/resource/German_submarine_U-876
+0,6,German submarine U-875,http://dbpedia.org/resource/German_submarine_U-214,http://dbpedia.org/resource/German_submarine_U-875
+0,7,German submarine U-874,http://dbpedia.org/resource/German_submarine_U-214,http://dbpedia.org/resource/German_submarine_U-874
+0,8,German submarine U-873,http://dbpedia.org/resource/German_submarine_U-214,http://dbpedia.org/resource/German_submarine_U-873 http://dbpedia.org/resource/U-873
+0,9,German submarine U-872,http://dbpedia.org/resource/German_submarine_U-214,http://dbpedia.org/resource/German_submarine_U-872
+0,10,German submarine U-871,http://dbpedia.org/resource/German_submarine_U-214,http://dbpedia.org/resource/German_submarine_U-871
+0,11,German submarine U-86,http://dbpedia.org/resource/German_submarine_U-214,http://dbpedia.org/resource/U-86_(1941) http://dbpedia.org/resource/U86_(1941) http://dbpedia.org/resource/German_submarine_U_86_(1941) http://dbpedia.org/resource/U_86_(1941) http://dbpedia.org/resource/German_submarine_U-86_(1941) http://dbpedia.org/resource/Unterseeboot_86_(1941) http://dbpedia.org/resource/German_submarine_U86_(1941)
+0,12,German submarine U-869,http://dbpedia.org/resource/German_submarine_U-214,http://dbpedia.org/resource/U-Who http://dbpedia.org/resource/German_submarine_U869 http://dbpedia.org/resource/German_submarine_U_869 http://dbpedia.org/resource/U_869 http://dbpedia.org/resource/U-869 http://dbpedia.org/resource/U869 http://dbpedia.org/resource/German_submarine_U-869 http://dbpedia.org/resource/Unterseeboot_869
+0,13,German submarine U-868,http://dbpedia.org/resource/German_submarine_U-214,http://dbpedia.org/resource/German_submarine_U-868
+0,15,German submarine U-863,http://dbpedia.org/resource/German_submarine_U-214,http://dbpedia.org/resource/German_submarine_U-863
+0,17,German submarine U-861,http://dbpedia.org/resource/German_submarine_U-214,http://dbpedia.org/resource/German_submarine_U-861
+0,18,German submarine U-860,http://dbpedia.org/resource/German_submarine_U-214,http://dbpedia.org/resource/German_submarine_U-860
+0,22,German submarine U-855,http://dbpedia.org/resource/German_submarine_U-214,http://dbpedia.org/resource/German_submarine_U-855

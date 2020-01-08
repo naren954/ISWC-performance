@@ -1,0 +1,16 @@
+F1: 0.84270,Precision: 0.84270,Recall: 0.84270,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,19,W. Kistler,http://dbpedia.org/resource/Steven_Kistler,http://dbpedia.org/resource/Walter_Kistler http://dbpedia.org/resource/Walter_P._Kistler
+0,23,W. Boas,http://dbpedia.org/resource/Franz_Boas,http://dbpedia.org/resource/Walter_Boas
+0,26,W. Murad,http://dbpedia.org/resource/Ferid_Murad,http://dbpedia.org/resource/Waheed_Murad
+0,46,V. ER,http://dbpedia.org/resource/Vinod_(composer),http://dbpedia.org/resource/Vinod_ER
+0,48,V. Riccati,http://dbpedia.org/resource/Jacopo_Riccati,http://dbpedia.org/resource/Vincenzo_Riccati
+0,49,V. Zemskov,"http://ru.dbpedia.org/resource/Земсков,_Владимир_Сергеевич",http://dbpedia.org/resource/Viktor_Zemskov
+0,56,V. Lebesgue,http://dbpedia.org/resource/Henri_Lebesgue,http://dbpedia.org/resource/Victor_Amédée_Lebesgue http://dbpedia.org/resource/Victor_Lebesgue http://dbpedia.org/resource/V._A._Lebesgue http://dbpedia.org/resource/V.-A._Lebesgue http://dbpedia.org/resource/Victor-Amedee_Lebesgue http://dbpedia.org/resource/V.-A._Le_Besgue http://dbpedia.org/resource/V._A._Le_Besgue http://dbpedia.org/resource/Victor-Amédée_Lebesgue http://dbpedia.org/resource/Victor_Amedee_Lebesgue http://dbpedia.org/resource/Le_Besgue
+0,62,V. Gopalakrishnan,http://dbpedia.org/resource/Adoor_Gopalakrishnan,http://dbpedia.org/resource/V._Gopalakrishnan_(actor) http://dbpedia.org/resource/Venkataraman_Gopalakrishnan
+0,67,U. Yule,http://dbpedia.org/resource/Paul_Alan_Yule,http://dbpedia.org/resource/G._Udny_Yule http://dbpedia.org/resource/George_Udny_Yule http://dbpedia.org/resource/G._U._Yule http://dbpedia.org/resource/Udny_Yule http://dbpedia.org/resource/Udny_yule
+0,68,U. R. Martins,http://dbpedia.org/resource/George_R._R._Martin,http://dbpedia.org/resource/Ubirajara_Ribeiro_Martins
+0,71,T. Roth,http://dbpedia.org/resource/Tim_Roth,http://dbpedia.org/resource/Trudi_Roth
+0,75,T. Wolff,http://dbpedia.org/resource/Étienne_Wolff,http://dbpedia.org/resource/Toni_Wolff http://dbpedia.org/resource/Antonia_Anna_Wolff
+0,76,T. Tomlinson,http://dbpedia.org/resource/Roger_Tomlinson,http://dbpedia.org/resource/Tommy_Tomlinson_(musician)
+0,79,T. C. Winkler,http://dbpedia.org/resource/Clemens_Winkler,http://dbpedia.org/resource/Tiberius_Cornelis_Winkler http://dbpedia.org/resource/Tiberius_Winkler

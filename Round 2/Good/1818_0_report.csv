@@ -1,0 +1,8 @@
+F1: 0.90769,Precision: 0.90769,Recall: 0.90769,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,24,Vysoky,http://de.dbpedia.org/resource/Vysoký,http://dbpedia.org/resource/Vysoky_(higher_stratovolcano)
+0,27,Vulcan,"http://dbpedia.org/resource/Vulcan,_Hunedoara",http://dbpedia.org/resource/Vulcan_(volcano) http://dbpedia.org/resource/Vulcan_Volcano_Vent
+0,28,Vulcan,"http://dbpedia.org/resource/Vulcan,_Hunedoara","http://dbpedia.org/resource/Vulcan_(inactive_volcano) http://dbpedia.org/resource/Vulcan,_New_Mexico http://dbpedia.org/resource/Vulcan_albuquerque http://dbpedia.org/resource/Vulcan_(Inactive_Volcano) http://dbpedia.org/resource/West_Mesa_Volcanos"
+0,29,Volcán de Fuego,http://dbpedia.org/resource/Volcán_de_Colima,http://dbpedia.org/resource/Volcán_de_Fuego http://dbpedia.org/resource/Fuego_volcano http://dbpedia.org/resource/Volcan_de_Fuego http://dbpedia.org/resource/Volcan_De_Fuego
+0,37,Volcán de Fuego,http://dbpedia.org/resource/Volcán_de_Colima,http://dbpedia.org/resource/Volcán_de_Fuego http://dbpedia.org/resource/Fuego_volcano http://dbpedia.org/resource/Volcan_de_Fuego http://dbpedia.org/resource/Volcan_De_Fuego
+0,47,Victory,"http://dbpedia.org/resource/Victory,_Vermont",http://dbpedia.org/resource/Victory_(volcano)

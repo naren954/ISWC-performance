@@ -1,0 +1,4 @@
+"F1: 0.00000","Precision: 0.00000","Recall: 0.00000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","5","Missouri State","http://dbpedia.org/resource/Missouri","http://dbpedia.org/resource/Missouri_State_Bears_baseball"
+"1","9","Cal State Bakersfield","http://dbpedia.org/resource/California_State_University,_Bakersfield","http://dbpedia.org/resource/2009_CSUB_Roadrunners_baseball_team http://dbpedia.org/resource/2009_Cal_State_Bakersfield_Roadrunners_baseball_team"

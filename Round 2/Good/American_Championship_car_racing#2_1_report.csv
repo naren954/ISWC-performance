@@ -1,0 +1,5 @@
+F1: 0.87500,Precision: 0.87500,Recall: 0.87500,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,12,Al Unser,http://dbpedia.org/resource/Al_Unser_Jr.,"http://dbpedia.org/resource/Al_Unser http://dbpedia.org/resource/Al_Unser_Sr http://dbpedia.org/resource/Al_Unser_Snr http://dbpedia.org/resource/Al_Unser_Senior http://dbpedia.org/resource/Al_Unser_Sr. http://dbpedia.org/resource/Al_Unser,_Sr."
+1,15,Jimmy Murphy,http://dbpedia.org/resource/Jimmy_Murphy_(footballer),http://dbpedia.org/resource/James_Anthony_Murphy
+1,19,Joe Leonard,http://dbpedia.org/resource/Joe_Morgan,http://dbpedia.org/resource/Joe_Leonard

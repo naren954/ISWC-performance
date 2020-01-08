@@ -1,0 +1,16 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,Baltimore,http://dbpedia.org/resource/Baltimore,http://dbpedia.org/resource/2015_Baltimore_Orioles_season http://dbpedia.org/resource/Orioles_2015
+0,3,Boston,http://dbpedia.org/resource/Boston,http://dbpedia.org/resource/Red_Sox_2015 http://dbpedia.org/resource/2015_Boston_Red_Sox_season
+0,4,Chicago,http://dbpedia.org/resource/Judy_Chicago,http://dbpedia.org/resource/White_Sox_2015 http://dbpedia.org/resource/2015_Chicago_White_Sox_season
+0,6,Detroit,http://dbpedia.org/resource/Detroit,http://dbpedia.org/resource/2015_Detroit_Tigers_season http://dbpedia.org/resource/Tigers_2015
+0,7,Houston,http://dbpedia.org/resource/Whitney_Houston,http://dbpedia.org/resource/2015_Houston_Astros_season http://dbpedia.org/resource/Astros_2015
+0,8,Kansas City,http://dbpedia.org/resource/Kansas,http://dbpedia.org/resource/Royals_2015 http://dbpedia.org/resource/2015_Kansas_City_Royals_season
+0,9,Los Angeles,http://dbpedia.org/resource/Los_Angeles,http://dbpedia.org/resource/2015_Anaheim_Angels_season http://dbpedia.org/resource/2015_Los_Angeles_Angels_of_Anaheim_season http://dbpedia.org/resource/Angels_2015
+0,10,Minnesota,http://dbpedia.org/resource/Minnesota,http://dbpedia.org/resource/Twins_2015 http://dbpedia.org/resource/2015_Minnesota_Twins_season
+0,11,New York,http://dbpedia.org/resource/New_York_(state),http://dbpedia.org/resource/2015_New_York_Yankees_season http://dbpedia.org/resource/Yankees_2015
+0,12,Oakland,"http://dbpedia.org/resource/Oakland,_California",http://dbpedia.org/resource/2015_Oakland_Athletics_season http://dbpedia.org/resource/Athletics_2015
+0,13,Seattle,http://dbpedia.org/resource/Seattle,http://dbpedia.org/resource/2015_Seattle_Mariners_season http://dbpedia.org/resource/Mariners_2015
+0,14,Tampa Bay,"http://dbpedia.org/resource/Tampa,_Florida",http://dbpedia.org/resource/2015_Tampa_Bay_Rays_season http://dbpedia.org/resource/Rays_2015
+0,15,Texas,http://dbpedia.org/resource/Texas,http://dbpedia.org/resource/Rangers_2015 http://dbpedia.org/resource/2015_Texas_Rangers_season
+0,16,Toronto,http://dbpedia.org/resource/Toronto,http://dbpedia.org/resource/Jays_2015 http://dbpedia.org/resource/Blue_Jays_2015 http://dbpedia.org/resource/2015_Toronto_Blue_Jays_season

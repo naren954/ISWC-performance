@@ -1,0 +1,15 @@
+F1: 0.87736,Precision: 0.87736,Recall: 0.87736,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,…on the Radio,http://dbpedia.org/resource/On_the_Radio_(Donna_Summer_song),http://dbpedia.org/resource/…on_the_Radio_(Remember_the_Days) http://dbpedia.org/resource/..._On_the_Radio_(Remember_the_Days) http://dbpedia.org/resource/Shit_on_the_Radio_(Remember_the_Days) http://dbpedia.org/resource/...On_The_Radio_(Remember_The_Days) http://dbpedia.org/resource/...On_the_Radio_(Remember_the_Days) http://dbpedia.org/resource/...on_the_Radio_(Remember_the_Days)
+0,32,Zero,http://dbpedia.org/resource/Zero_(The_Smashing_Pumpkins_song),http://dbpedia.org/resource/Zero_(Yeah_Yeah_Yeahs_song)
+0,34,Zero,http://dbpedia.org/resource/Zero_(The_Smashing_Pumpkins_song),http://dbpedia.org/resource/Zero_(Fayray_song) http://dbpedia.org/resource/Zero_(Fayray_single)
+0,35,Zero,http://dbpedia.org/resource/Zero_(The_Smashing_Pumpkins_song),http://dbpedia.org/resource/Zero_(Chris_Brown_song)
+0,39,Yūgure,http://dbpedia.org/resource/Yugure_(song),http://dbpedia.org/resource/Yūgure
+0,42,Yummy,http://dbpedia.org/resource/Yummy_(Chelo_song),http://dbpedia.org/resource/Yummy_(Gwen_Stefani_song)
+0,52,Yours,http://dbpedia.org/resource/Yours_(Ella_Henderson_song),http://dbpedia.org/resource/Yours_(song)
+0,76,Your Love,http://dbpedia.org/resource/Your_Love_(Nicole_Scherzinger_song),http://dbpedia.org/resource/Your_Love_(Diddy_-_Dirty_Money_song) http://dbpedia.org/resource/Your_Love_(Diddy-Dirty_Money_song) http://dbpedia.org/resource/Your_Love_(Diddy_–_Dirty_Money_song)
+0,83,Your Heart Turned Left,http://dbpedia.org/resource/I_Wish_You_Could_Have_Turned_My_Head_(And_Left_My_Heart_Alone),http://dbpedia.org/resource/Your_Heart_Turned_Left_(And_I_Was_on_the_Right)
+0,93,Your Body,http://dbpedia.org/resource/Your_Body_(Christina_Aguilera_song),http://dbpedia.org/resource/Your_Body_(Pretty_Ricky_song)
+0,97,Your Best Friend,http://dbpedia.org/resource/You're_My_Best_Friend_(Queen_song),http://dbpedia.org/resource/Your_Best_Friend
+0,104,Young Love,http://dbpedia.org/resource/Young_Love_(Strong_Love),http://dbpedia.org/resource/Young_Love_(Kip_Moore_song)
+0,105,Young Love,http://dbpedia.org/resource/Young_Love_(Strong_Love),http://dbpedia.org/resource/Young_Love_(Jedward_song)

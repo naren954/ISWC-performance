@@ -1,0 +1,6 @@
+"F1: 0.00000","Precision: 0.00000","Recall: 0.00000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"2","1","Texas*","http://dbpedia.org/resource/The_Texas_Chain_Saw_Massacre","http://dbpedia.org/resource/1993_Texas_Longhorns_football_team"
+"2","5","Missouri","http://dbpedia.org/resource/Missouri","http://dbpedia.org/resource/1993_Missouri_Tigers_football_team"
+"2","10","Kansas","http://dbpedia.org/resource/Kansas","http://dbpedia.org/resource/1993_Kansas_Jayhawks_football_team"
+"2","11","Iowa State","http://dbpedia.org/resource/Iowa","http://dbpedia.org/resource/1993_Iowa_State_Cyclones_football_team"

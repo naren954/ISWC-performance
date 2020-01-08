@@ -1,0 +1,6 @@
+F1: 0.60000,Precision: 0.60000,Recall: 0.60000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,5,J. T. Ford,http://dbpedia.org/resource/John_Ford,"http://dbpedia.org/resource/John_Thomson_Ford http://dbpedia.org/resource/John_T._Ford http://dbpedia.org/resource/John_Thompson_Ford http://dbpedia.org/resource/Ford,_John_Thompson"
+0,6,H. Barrett,http://dbpedia.org/resource/Henry_Barrett_(cricketer),http://dbpedia.org/resource/Herbert_Barrett_(talent_manager)
+0,7,E. v. Brauchitsch,http://de.dbpedia.org/resource/Eduard_von_Brauchitsch,http://dbpedia.org/resource/Eberhard_von_Brauchitsch
+0,10,B. Keightley,http://dbpedia.org/resource/Thomas_Keightley,http://dbpedia.org/resource/Bill_Keightley

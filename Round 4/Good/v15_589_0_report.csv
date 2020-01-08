@@ -1,0 +1,10 @@
+F1: 0.78378,Precision: 0.78378,Recall: 0.78378,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,5,S. Curran,http://dbpedia.org/resource/Shane_Curran,http://dbpedia.org/resource/Sammy_Curran_(baseball)
+0,8,S. Wright,http://dbpedia.org/resource/Scott_Wright_(footballer),http://dbpedia.org/resource/Sam_Wright
+0,11,S. White,http://dbpedia.org/resource/Byron_White,http://dbpedia.org/resource/Sam_White_(baseball)
+0,15,S. Thompson,http://dbpedia.org/resource/Shelley_Thompson_(footballer),http://dbpedia.org/resource/Sam_Thompson
+0,21,S. Page,http://dbpedia.org/resource/Solomon_Page,http://dbpedia.org/resource/Sam_Page_(baseball)
+0,26,S. Mongin,http://fr.dbpedia.org/resource/Sébastien_Mongin,http://dbpedia.org/resource/Sam_Mongin
+0,31,S. Lowry,http://dbpedia.org/resource/Shane_Lowry_(footballer),http://dbpedia.org/resource/Sam_Lowry
+0,36,S. King,http://dbpedia.org/resource/Syd_King,http://dbpedia.org/resource/Sam_King_(baseball)

@@ -1,0 +1,6 @@
+"F1: 0.60000","Precision: 0.60000","Recall: 0.60000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","5","Feelings","http://dbpedia.org/resource/Feelings_(Maroon_5_song)","http://dbpedia.org/resource/Les_Sentiments http://dbpedia.org/resource/Feelings_(2003_film)"
+"1","18","Coming Home","http://dbpedia.org/resource/Coming_Home_(2014_film)","http://dbpedia.org/resource/A_moi_seule http://dbpedia.org/resource/À_moi_seule http://dbpedia.org/resource/Coming_Home_(2012_film)"
+"1","21","The Nun","http://dbpedia.org/resource/Leather_Nun","http://dbpedia.org/resource/The_Nun_(2013_film)"
+"1","23","Valentin Valentin","http://dbpedia.org/resource/Valentin_de_Boulogne","http://dbpedia.org/resource/Valentin_Valentin"

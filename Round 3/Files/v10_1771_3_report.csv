@@ -1,0 +1,4 @@
+"F1: 0.91304","Precision: 0.91304","Recall: 0.91304"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"3","14","A. B. Jr.","http://dbpedia.org/resource/George_W._Bush","http://dbpedia.org/resource/Alex_Bogomolov_Jr http://dbpedia.org/resource/Alex_Bogomolov http://dbpedia.org/resource/Alex_Bogomolov,_Jr. http://dbpedia.org/resource/Alex_Bogomolov_Jr."
+"3","22","A. B. Jr.","http://dbpedia.org/resource/George_W._Bush","http://dbpedia.org/resource/Alex_Bogomolov_Jr http://dbpedia.org/resource/Alex_Bogomolov http://dbpedia.org/resource/Alex_Bogomolov,_Jr. http://dbpedia.org/resource/Alex_Bogomolov_Jr."

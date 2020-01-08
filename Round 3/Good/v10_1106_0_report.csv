@@ -1,0 +1,8 @@
+F1: 0.82857,Precision: 0.82857,Recall: 0.82857,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,Hamilton,http://dbpedia.org/resource/Hamilton_(album),http://dbpedia.org/resource/Hamilton_an_american_musical http://dbpedia.org/resource/Hamilton_The_Musical http://dbpedia.org/resource/Hamilton_(musical) http://dbpedia.org/resource/The_Hamilton_Mixtape
+0,12,Golden Lotus,http://dbpedia.org/resource/The_Golden_Lotus_(film),http://dbpedia.org/resource/Golden_Lotus_(musical)
+0,30,Far from Heaven,http://dbpedia.org/resource/Far_from_Heaven,http://dbpedia.org/resource/Far_from_Heaven_(musical)
+0,31,Fantastic Mr Fox,http://dbpedia.org/resource/Fantastic_Mr._Fox_(film),http://dbpedia.org/resource/Fantastic_Mr_Fox_(musical)
+0,32,Fanny,http://dbpedia.org/resource/Sweet_Fanny_Adams_(album),http://dbpedia.org/resource/Fanny_(musical)
+0,34,Elisabeth,http://dbpedia.org/resource/Elisabeth_Luther,http://dbpedia.org/resource/Elisabeth_(musical) http://dbpedia.org/resource/Elisabeth_(Musical)

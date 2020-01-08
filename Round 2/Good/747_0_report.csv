@@ -1,0 +1,13 @@
+F1: 0.83333,Precision: 0.83333,Recall: 0.83333,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,4,"Sir Patrick Agnew, 1st Baronet","http://dbpedia.org/resource/Sir_Patrick_Ford,_1st_Baronet","http://dbpedia.org/resource/Sir_Patrick_Agnew,_1st_Baronet"
+0,6,"Sir Oswald Mosley, 4th Baronet",http://dbpedia.org/resource/Oswald_Mosley,"http://dbpedia.org/resource/Sir_Oswald_Mosley,_4th_Baronet"
+0,9,"Sir Nicholas Bacon, 1st Baronet, of Gillingham","http://dbpedia.org/resource/Sir_Nicholas_Bacon,_1st_Baronet,_of_Redgrave","http://dbpedia.org/resource/Sir_Nicholas_Bacon,_1st_Baronet,_of_Gillingham"
+0,13,"Sir Michael Shaw Stewart, 7th Baronet","http://dbpedia.org/resource/Sir_Hugh_Shaw-Stewart,_8th_Baronet","http://dbpedia.org/resource/Sir_Michael_Shaw-Stewart,_7th_Baronet http://dbpedia.org/resource/Michael_Robert_Shaw_Stewart http://dbpedia.org/resource/Sir_Michael_Shaw_Stewart,_7th_Baronet"
+0,23,"Sir Justinian Isham, 7th Baronet","http://dbpedia.org/resource/Sir_Justinian_Isham,_5th_Baronet","http://dbpedia.org/resource/Sir_Justinian_Isham,_7th_Baronet"
+0,30,"Sir John Wright, 1st Baronet","http://dbpedia.org/resource/Sir_John_Rogers,_1st_Baronet","http://dbpedia.org/resource/Sir_John_Wright,_1st_Baronet http://dbpedia.org/resource/John_Roper_Wright"
+0,38,"Sir John Seton, 1st Baronet","http://dbpedia.org/resource/Sir_John_Jackson,_1st_Baronet","http://dbpedia.org/resource/Sir_John_Seton,_1st_Baronet"
+0,51,"Sir John Latta, 1st Baronet","http://dbpedia.org/resource/Sir_John_Jackson,_1st_Baronet","http://dbpedia.org/resource/Latta_baronets http://dbpedia.org/resource/Nitrate_Producers'_Steamship_Company http://dbpedia.org/resource/Latta_Baronets http://dbpedia.org/resource/Nitrate_Producers_Steamship_Company http://dbpedia.org/resource/Sir_John_Latta,_1st_Baronet"
+0,58,"Sir John Isham, 1st Baronet","http://dbpedia.org/resource/Sir_John_Astley,_1st_Baronet","http://dbpedia.org/resource/Sir_John_Isham,_1st_Baronet http://dbpedia.org/resource/Sir_John_Isham"
+0,59,"Sir John Inglis, 2nd Baronet","http://dbpedia.org/resource/Sir_John_Ennis,_2nd_Baronet","http://dbpedia.org/resource/Sir_John_Inglis,_2nd_Baronet"
+0,65,"Sir John Hayes, 1st Baronet","http://dbpedia.org/resource/Sir_John_Rogers,_1st_Baronet","http://dbpedia.org/resource/John_Macnamara_Hayes http://dbpedia.org/resource/Sir_John_Hayes,_1st_Baronet"

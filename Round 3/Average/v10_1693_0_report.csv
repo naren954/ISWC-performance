@@ -1,0 +1,39 @@
+F1: 0.60638,Precision: 0.60638,Recall: 0.60638,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Șaroș River,http://dbpedia.org/resource/Șaroș_River_(Telciu),http://dbpedia.org/resource/Șaroș_River_(Mureș) http://dbpedia.org/resource/Şaroş_River_(Mureş)
+0,2,Șaroș River,http://dbpedia.org/resource/Șaroș_River_(Telciu),http://dbpedia.org/resource/Şaroş_River_(Bâsca_Mare) http://dbpedia.org/resource/Șaroș_River_(Bâsca_Mare) http://dbpedia.org/resource/Saros_River_(Basca_Mare)
+0,4,Șarba River,http://dbpedia.org/resource/Șarba_River_(Jiu),http://dbpedia.org/resource/Şarba_River_(Vişa) http://dbpedia.org/resource/Sarba_River_(Visa) http://dbpedia.org/resource/Șarba_River_(Vișa)
+0,6,Șar River,http://dbpedia.org/resource/Șar_River_(Cormoș),http://dbpedia.org/resource/Şar_River_(Mureş) http://dbpedia.org/resource/Sár-patak http://dbpedia.org/resource/Șar_River_(Mureș) http://dbpedia.org/resource/Sar_River_(Mures)
+0,8,Șapte Izvoare River,http://dbpedia.org/resource/Trei_Izvoare_River,http://dbpedia.org/resource/Șapte_Izvoare_River http://dbpedia.org/resource/Şapte_Izvoare_River http://dbpedia.org/resource/Sapte_Izvoare_River
+0,11,Șanț River,http://dbpedia.org/resource/Saint_Lawrence_River,http://dbpedia.org/resource/Sant_River http://dbpedia.org/resource/Şanţ_River http://dbpedia.org/resource/Șanț_River
+0,13,Șandru River,http://dbpedia.org/resource/Șandru_River_(Bârnărel),http://dbpedia.org/resource/Şandru_River_(Putna) http://dbpedia.org/resource/Sandru_River_(Putna) http://dbpedia.org/resource/Șandru_River_(Putna) http://dbpedia.org/resource/Sandru_River
+0,14,Șandru River,http://dbpedia.org/resource/Șandru_River_(Bârnărel),http://dbpedia.org/resource/Sandru_River_(Olt) http://dbpedia.org/resource/Șandru_River_(Olt) http://dbpedia.org/resource/Şandru_River_(Olt)
+0,15,Șandru River,http://dbpedia.org/resource/Șandru_River_(Bârnărel),http://dbpedia.org/resource/Șandru_River_(Moldova) http://dbpedia.org/resource/Şandru_River_(Moldova) http://dbpedia.org/resource/Sandru_River_(Moldova)
+0,19,Žukovska,http://dbpedia.org/resource/Žukovačka_River,http://dbpedia.org/resource/Žukovska_River http://dbpedia.org/resource/Zukovska http://dbpedia.org/resource/Žukovska
+0,26,Åre River,http://dbpedia.org/resource/Aare,http://dbpedia.org/resource/Åreälven http://dbpedia.org/resource/Åre_River http://dbpedia.org/resource/Are_River
+0,31,Zăvoaie River,http://dbpedia.org/resource/Zăvoaie_River_(Cibin),http://dbpedia.org/resource/Zavoaie_River_(Mara) http://dbpedia.org/resource/Zăvoaie_River_(Mara)
+0,36,Zăpodia River,http://dbpedia.org/resource/Zăpodia_River_(Secu),http://dbpedia.org/resource/Zăpodia_River_(Neagra_Şarului) http://dbpedia.org/resource/Zapodia_River_(Neagra_Sarului) http://dbpedia.org/resource/Zăpodia_River_(Neagra_Șarului)
+0,37,Zăpodia River,http://dbpedia.org/resource/Zăpodia_River_(Secu),http://dbpedia.org/resource/Zăpodia_River_(Bâlta) http://dbpedia.org/resource/Zapodia_River_(Balta)
+0,41,Zănoguța River,http://dbpedia.org/resource/Zănoguța_River_(Vâlsan),http://dbpedia.org/resource/Zănoguţa_River_(Latoriţa) http://dbpedia.org/resource/Zănoguța_River_(Latorița) http://dbpedia.org/resource/Zanoguta_River_(Latorita) http://dbpedia.org/resource/Zanoguta_River
+0,42,Zănoguța River,http://dbpedia.org/resource/Zănoguța_River_(Vâlsan),http://dbpedia.org/resource/Zanoguta_River_(Judele) http://dbpedia.org/resource/Zănoguța_River_(Judele) http://dbpedia.org/resource/Zănoguţa_River_(Judele)
+0,43,Zănoaga River,http://dbpedia.org/resource/Zănoaga_River_(Balomir),http://dbpedia.org/resource/Zanoaga_River_(Susita) http://dbpedia.org/resource/Zănoaga_River_(Şuşiţa) http://dbpedia.org/resource/Zănoaga_River_(Șușița)
+0,44,Zănoaga River,http://dbpedia.org/resource/Zănoaga_River_(Balomir),http://dbpedia.org/resource/Zanoaga_River_(Urlatelu) http://dbpedia.org/resource/Zănoaga_River_(Urlăţelu) http://dbpedia.org/resource/Zănoaga_River_(Urlățelu)
+0,45,Zănoaga River,http://dbpedia.org/resource/Zănoaga_River_(Balomir),http://dbpedia.org/resource/Zanoaga_River_(Sadu) http://dbpedia.org/resource/Zănoaga_River_(Sadu)
+0,46,Zănoaga River,http://dbpedia.org/resource/Zănoaga_River_(Balomir),http://dbpedia.org/resource/Zanoaga_River_(Lazar) http://dbpedia.org/resource/Zănoaga_River_(Lazăr)
+0,47,Zănoaga River,http://dbpedia.org/resource/Zănoaga_River_(Balomir),http://dbpedia.org/resource/Zănoaga_River_(Judele) http://dbpedia.org/resource/Zanoaga_River_(Judele)
+0,48,Zănoaga River,http://dbpedia.org/resource/Zănoaga_River_(Balomir),http://dbpedia.org/resource/Zănoaga_River_(Ialomiţa) http://dbpedia.org/resource/Zanoaga_River_(Ialomita) http://dbpedia.org/resource/Zănoaga_River_(Ialomița)
+0,49,Zănoaga River,http://dbpedia.org/resource/Zănoaga_River_(Balomir),http://dbpedia.org/resource/Zănoaga_River_(Gilort) http://dbpedia.org/resource/Zanoaga_River_(Gilort)
+0,50,Zănoaga River,http://dbpedia.org/resource/Zănoaga_River_(Balomir),http://dbpedia.org/resource/Zanoaga_River_(Doftana) http://dbpedia.org/resource/Zănoaga_River_(Doftana)
+0,51,Zănoaga River,http://dbpedia.org/resource/Zănoaga_River_(Balomir),http://dbpedia.org/resource/Zanoaga_River_(Cugir) http://dbpedia.org/resource/Zănoaga_River_(Cugir)
+0,52,Zănoaga River,http://dbpedia.org/resource/Zănoaga_River_(Balomir),http://dbpedia.org/resource/Zănoaga_River_(Crevedia) http://dbpedia.org/resource/Zanoaga_River_(Crevedia)
+0,53,Zănoaga River,http://dbpedia.org/resource/Zănoaga_River_(Balomir),http://dbpedia.org/resource/Zănoaga_River_(Bâsca) http://dbpedia.org/resource/Zanoaga_River_(Basca)
+0,54,Zănoaga River,http://dbpedia.org/resource/Zănoaga_River_(Balomir),http://dbpedia.org/resource/Zanoaga_River_(Barsa) http://dbpedia.org/resource/Zănoaga_River_(Bârsa)
+0,59,Zăganu River,http://dbpedia.org/resource/Zăganu_River_(Tâmpa),http://dbpedia.org/resource/Zăganu_River_(Slănic) http://dbpedia.org/resource/Zaganu_River http://dbpedia.org/resource/Zăganu_River http://dbpedia.org/resource/Zaganu_River_(Slanic)
+0,64,Zăbala River,http://dbpedia.org/resource/Măcrișu_River_(Zăbala),http://dbpedia.org/resource/Zăbala_River_(Râul_Negru) http://dbpedia.org/resource/Zabala_River_(Raul_Negru)
+0,65,Zăbala River,http://dbpedia.org/resource/Măcrișu_River_(Zăbala),http://dbpedia.org/resource/Zăbala_River_(Putna) http://dbpedia.org/resource/Zabala_River_(Putna)
+0,67,Zârna River,http://dbpedia.org/resource/Zârna_River_(Argeș),http://dbpedia.org/resource/Zârna_River_(Pleşu) http://dbpedia.org/resource/Zarna_River_(Plesu) http://dbpedia.org/resource/Zârna_River_(Pleșu)
+0,68,Zârna River,http://dbpedia.org/resource/Zârna_River_(Argeș),http://dbpedia.org/resource/Zarna_River_(Dragan) http://dbpedia.org/resource/Zârna_River_(Drăgan)
+0,76,Zopana River,http://dbpedia.org/resource/Zopana,http://dbpedia.org/resource/Zopana_River
+0,90,Zlatina River,http://dbpedia.org/resource/Tărâțeni_River,http://dbpedia.org/resource/Zlatina_River
+0,91,Zlata River,http://dbpedia.org/resource/Zlata_River_(Lăpușnicul_Mare),http://dbpedia.org/resource/Zlata_River_(Raul_Mare) http://dbpedia.org/resource/Zlata_River_(Râul_Mare)
+0,93,Zlast River,http://dbpedia.org/resource/Sașa_River_(Zlast),http://dbpedia.org/resource/Zlast_River

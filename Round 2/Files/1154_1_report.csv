@@ -1,0 +1,5 @@
+"F1: 0.76923","Precision: 0.76923","Recall: 0.76923"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","7","M. Watters","http://dbpedia.org/resource/Muddy_Waters","http://dbpedia.org/resource/Mark_Watters"
+"1","8","M. Davis","http://dbpedia.org/resource/Mac_Davis","http://dbpedia.org/resource/Miles_Davis http://dbpedia.org/resource/Miles_Davies http://dbpedia.org/resource/Miles_davis http://dbpedia.org/resource/M._Davis http://dbpedia.org/resource/Miles_Dewey_Davis http://dbpedia.org/resource/Miles_Dewey_Davis_III http://dbpedia.org/resource/Générique http://dbpedia.org/resource/Electric_Miles http://dbpedia.org/resource/Miles_David"
+"1","9","M. Watters","http://dbpedia.org/resource/Muddy_Waters","http://dbpedia.org/resource/Mark_Watters"

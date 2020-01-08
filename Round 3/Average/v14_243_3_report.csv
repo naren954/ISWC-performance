@@ -1,0 +1,9 @@
+F1: 0.53333,Precision: 0.53333,Recall: 0.53333,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,1,W. Mayes,http://dbpedia.org/resource/William_Harding_Mayes,http://dbpedia.org/resource/Wendell_Mayes
+3,3,A. Hoss,http://dbpedia.org/resource/Rudolf_Höss,http://dbpedia.org/resource/Americo_Hoss http://dbpedia.org/resource/Américo_Hoss
+3,5,L. Benvenuti,http://de.dbpedia.org/resource/Lodovico_Benvenuti,http://dbpedia.org/resource/Leonardo_Benvenuti http://dbpedia.org/resource/Leo_Benvenuti
+3,6,B. Ray,http://dbpedia.org/resource/Bingham_Ray,http://dbpedia.org/resource/Billy_Ray_(screenwriter)
+3,7,M. Chiari,http://dbpedia.org/resource/Walter_Chiari,http://dbpedia.org/resource/Mario_Chiari
+3,10,A. Massaccesi,http://dbpedia.org/resource/Horacio_Massaccesi,http://dbpedia.org/resource/Joe_d'Amato http://dbpedia.org/resource/Aristide_Massacessi http://dbpedia.org/resource/Joe_D'Amato http://dbpedia.org/resource/Michael_Wotruba http://dbpedia.org/resource/David_Hills http://dbpedia.org/resource/Alexandre_Borsky http://dbpedia.org/resource/Top_Girl_(film) http://dbpedia.org/resource/Frederico_Slonisko http://dbpedia.org/resource/Aristide_Massaccesi
+3,14,B. Menon,http://dbpedia.org/resource/Biju_Menon,http://dbpedia.org/resource/Balachandra_Menon http://dbpedia.org/resource/Balachandramenon

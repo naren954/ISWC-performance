@@ -1,0 +1,4 @@
+F1: 0.77778,Precision: 0.77778,Recall: 0.77778,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Science Magazine,http://dbpedia.org/resource/Science_(journal),http://dbpedia.org/resource/Science_Magazine
+0,7,The Fifth Estate,http://dbpedia.org/resource/The_Fifth_Estate_(TV_program),http://dbpedia.org/resource/The_Fifth_Estate_(television) http://dbpedia.org/resource/The_Fifth_Estate_(TV_series) http://dbpedia.org/resource/The_Fifth_Estate_(show) http://dbpedia.org/resource/The_Fifth_Estate_(version_2) http://dbpedia.org/resource/Fifth_Estate_(CBC) http://dbpedia.org/resource/The_Fifth_Estate_(TV) http://dbpedia.org/resource/Fifth_Estate_(TV)

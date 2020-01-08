@@ -1,0 +1,11 @@
+F1: 0.43750,Precision: 0.43750,Recall: 0.43750,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,2,D. Read,http://dbpedia.org/resource/Herbert_Read,http://dbpedia.org/resource/Dolly_Martin http://dbpedia.org/resource/Dolly_read http://dbpedia.org/resource/Dolly_Read
+1,3,C. Nye,http://dbpedia.org/resource/Carroll_Nye,http://dbpedia.org/resource/Carrie_Nye
+1,5,D. McGrath,http://dbpedia.org/resource/Douglas_McGrath,http://dbpedia.org/resource/Deb_McGrath http://dbpedia.org/resource/Debra_McGrath
+1,7,K. Crews,http://dbpedia.org/resource/Terry_Crews,http://dbpedia.org/resource/Kambri_Crews
+1,8,L. Hearst,http://dbpedia.org/resource/Anne_Hearst,http://dbpedia.org/resource/Lydia_Hearst http://dbpedia.org/resource/Lydia_Hearst-Shaw
+1,10,E. Reiner,http://dbpedia.org/resource/Carl_Reiner,http://dbpedia.org/resource/Estelle_Reiner
+1,11,R. Butcher,http://dbpedia.org/resource/Susan_Butcher,http://dbpedia.org/resource/Rhea_Butcher
+1,12,P. Stephenson,"http://dbpedia.org/resource/Robert_Baden-Powell,_1st_Baron_Baden-Powell",http://dbpedia.org/resource/Pamela_Stephenson http://dbpedia.org/resource/Pamela_Connolly http://dbpedia.org/resource/Pamela_Stephenson_Connolly
+1,14,S. Abril,http://dbpedia.org/resource/Dolores_Abril,"http://dbpedia.org/resource/Abril,_Silvia http://dbpedia.org/resource/Silvia_Abril http://dbpedia.org/resource/Sílvia_Abril"

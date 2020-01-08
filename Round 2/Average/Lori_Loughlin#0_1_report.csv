@@ -1,0 +1,8 @@
+F1: 0.57143,Precision: 0.57143,Recall: 0.57143,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,2,The New Kids,http://dbpedia.org/resource/New_Kids,http://dbpedia.org/resource/The_New_Kids_(film) http://dbpedia.org/resource/The_New_Kids
+1,4,Rad,http://dbpedia.org/resource/Rad_(musician),http://dbpedia.org/resource/Rad_(film) http://dbpedia.org/resource/Rad_(movie)
+1,6,The Night Before,http://dbpedia.org/resource/The_Night_Before_(2015_film),http://dbpedia.org/resource/The_Night_Before_(1988_film)
+1,9,Suckers,http://fr.dbpedia.org/resource/Sucker_(film),http://dbpedia.org/resource/Suckers_(film)
+1,10,Critical Mass,http://dbpedia.org/resource/Critical_Mass_(book),http://dbpedia.org/resource/Critical_Mass_(film)
+1,16,Crawlspace,http://dbpedia.org/resource/Crawlspace_(1986_film),http://dbpedia.org/resource/Crawlspace_(2013_film)

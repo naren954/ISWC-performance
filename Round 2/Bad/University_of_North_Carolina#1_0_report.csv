@@ -1,0 +1,4 @@
+F1: 0.33333,Precision: 0.33333,Recall: 0.33333,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,North Carolina Arboretum,http://dbpedia.org/resource/North_Carolina_Tar_Heels,http://dbpedia.org/resource/North_Carolina_Arboretum http://dbpedia.org/resource/The_North_Carolina_Arboretum http://dbpedia.org/resource/NC_Arboretum
+0,8,University of North Carolina Press,http://dbpedia.org/resource/University_of_North_Carolina,http://dbpedia.org/resource/Univ_of_North_Carolina_Press http://dbpedia.org/resource/UNC_Press http://dbpedia.org/resource/U._North_Carolina_Press http://dbpedia.org/resource/The_University_of_North_Carolina_Press http://dbpedia.org/resource/UNC_Press_Books http://dbpedia.org/resource/U_of_North_Carolina_Press http://dbpedia.org/resource/University_of_North_Carolina_Press

@@ -1,0 +1,19 @@
+F1: 0.65306,Precision: 0.65306,Recall: 0.65306,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,3,A. Cox,http://dbpedia.org/resource/Archibald_Cox,http://dbpedia.org/resource/Anthony_Cox_(editor)
+1,4,A. Gibbs,http://dbpedia.org/resource/Robin_Gibb,http://dbpedia.org/resource/Antony_Gibbs
+1,6,J. Warren,http://dbpedia.org/resource/John_Warren_(surgeon),http://dbpedia.org/resource/Jerry_Warren
+1,16,J. Bini,http://dbpedia.org/resource/Alfredo_Bini,http://dbpedia.org/resource/Guiuseppe_Gaetano_Bini http://dbpedia.org/resource/Joe_Bini
+1,19,T. Pratt,http://dbpedia.org/resource/Hugo_Pratt,http://dbpedia.org/resource/Thomas_Pratt_(film_editor)
+1,24,F. Fraticelli,http://fr.dbpedia.org/resource/Éric_Fraticelli,http://dbpedia.org/resource/Franco_Fraticelli
+1,25,E. Jenkins,http://dbpedia.org/resource/Tamara_Jenkins,http://dbpedia.org/resource/Eric_Jenkins
+1,30,H. Gunnlaugsson,http://dbpedia.org/resource/Björn_Gunnlaugsson,http://dbpedia.org/resource/Cod_Western http://dbpedia.org/resource/Hrafn_Gunnlaugsson
+1,33,R. Benedetti,http://dbpedia.org/resource/Mario_Benedetti,http://dbpedia.org/resource/Rolando_Benedetti
+1,34,J. Bustos,http://dbpedia.org/resource/Jorge_Luis_Borges,http://dbpedia.org/resource/Jorge_Bustos http://dbpedia.org/resource/Jorge_Busto
+1,35,E. Blomberg,http://dbpedia.org/resource/Erik_Blomberg_(writer),http://dbpedia.org/resource/Erik_Blomberg
+1,36,J. Bustos,http://dbpedia.org/resource/Jorge_Luis_Borges,http://dbpedia.org/resource/Jorge_Bustos http://dbpedia.org/resource/Jorge_Busto
+1,39,A. Heyne,http://dbpedia.org/resource/Heinrich_Heine,http://dbpedia.org/resource/Arnfried_Heyne
+1,40,C. Ka-fai,http://dbpedia.org/resource/Tony_Leung_Ka-fai,http://dbpedia.org/resource/Cheung_Ka-Fai_(film_editor) http://dbpedia.org/resource/Cheung_Ka-fai_(film_editor)
+1,43,R. Kern,http://dbpedia.org/resource/Jerome_Kern,http://dbpedia.org/resource/Robert_J._Kern http://dbpedia.org/resource/Robert_Kern
+1,47,J. Clarke,http://dbpedia.org/resource/John_Clarke_(Baptist_minister),http://dbpedia.org/resource/Julian_Clarke
+1,49,A. Harvey,http://dbpedia.org/resource/Laurence_Harvey,http://dbpedia.org/resource/Tony_Harvey http://dbpedia.org/resource/Anthony_Harvey

@@ -1,0 +1,6 @@
+"F1: 0.76471","Precision: 0.76471","Recall: 0.76471"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","3","USS Skate","http://dbpedia.org/resource/USS_Skate_(SS-305)","http://dbpedia.org/resource/SSN-578 http://dbpedia.org/resource/USS_Skate_(SSN-578)"
+"0","7","USS Sitkoh Bay","http://dbpedia.org/resource/USS_Oyster_Bay_(AGP-6)","http://dbpedia.org/resource/USS_Sitkoh_Bay http://dbpedia.org/resource/USS_Sitkoh_Bay_(CVU-86) http://dbpedia.org/resource/USS_Sitkoh_Bay_(AKV-30) http://dbpedia.org/resource/USS_Sitkoh_Bay_(CVE-86)"
+"0","13","USS Sims","http://dbpedia.org/resource/USS_Sims_(DD-409)","http://dbpedia.org/resource/USS_Sims_(APD-50) http://dbpedia.org/resource/USS_Sims_(DE-154)"
+"0","16","USS Simon Lake","http://dbpedia.org/resource/USS_Salt_Lake_City_(CA-25)","http://dbpedia.org/resource/USS_Simon_Lake http://dbpedia.org/resource/USS_Simon_Lake_(AS-33)"

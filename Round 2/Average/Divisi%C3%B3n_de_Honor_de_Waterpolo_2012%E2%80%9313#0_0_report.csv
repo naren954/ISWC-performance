@@ -1,0 +1,5 @@
+F1: 0.62500,Precision: 0.62500,Recall: 0.62500,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,4,Real Canoeâ\u0080\u0093Isostar,http://dbpedia.org/resource/Real_Madrid_Baloncesto,http://dbpedia.org/resource/Real_Canoe_NC http://dbpedia.org/resource/Real_Canoe
+0,5,MatarÃ³ Quadis,http://dbpedia.org/resource/CE_Mataró,http://dbpedia.org/resource/CN_Mataró
+0,10,Catalunya,http://dbpedia.org/resource/Televisió_de_Catalunya,http://dbpedia.org/resource/CN_Catalunya

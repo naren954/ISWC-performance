@@ -1,0 +1,11 @@
+F1: 0.71875,Precision: 0.71875,Recall: 0.71875,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,1950 Paris Grand Prix,http://dbpedia.org/resource/1950_Pau_Grand_Prix,http://dbpedia.org/resource/1950_Paris_Grand_Prix
+0,5,1948 San Remo Grand Prix,http://dbpedia.org/resource/1937_San_Remo_Grand_Prix,http://dbpedia.org/resource/1948_San_Remo_Grand_Prix
+0,6,1948 Roussillon Grand Prix,http://dbpedia.org/resource/1946_Roussillon_Grand_Prix,http://dbpedia.org/resource/1948_Roussillon_Grand_Prix
+0,7,1947 San Remo Grand Prix,http://dbpedia.org/resource/1937_San_Remo_Grand_Prix,http://dbpedia.org/resource/1947_San_Remo_Grand_Prix
+0,12,1946 Nice Grand Prix,http://dbpedia.org/resource/1933_Nice_Grand_Prix,http://dbpedia.org/resource/1946_Nice_Grand_Prix
+0,28,1913 French Grand Prix,http://dbpedia.org/resource/1947_French_Grand_Prix,http://dbpedia.org/resource/1913_French_Grand_Prix
+0,29,1912 French Grand Prix,http://dbpedia.org/resource/1947_French_Grand_Prix,http://dbpedia.org/resource/1912_French_Grand_Prix
+0,30,1910 American Grand Prize,http://dbpedia.org/resource/1908_American_Grand_Prize,http://dbpedia.org/resource/1910_American_Grand_Prize
+0,31,1908 French Grand Prix,http://dbpedia.org/resource/1908_American_Grand_Prize,http://dbpedia.org/resource/1908_French_Grand_Prix

@@ -1,0 +1,6 @@
+F1: 0.71429,Precision: 0.71429,Recall: 0.71429,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,2,Silver Queen,http://dbpedia.org/resource/Queen_II,http://dbpedia.org/resource/Silver_Queen http://dbpedia.org/resource/Silver_queen
+3,4,Carrie,http://dbpedia.org/resource/Carrie_(1976_film),http://dbpedia.org/resource/Carrie_(1952_film) http://dbpedia.org/resource/Sister_Carrie_(film)
+3,10,Restoration,http://dbpedia.org/resource/The_Restoration_(1910_film),http://dbpedia.org/resource/Restoration_(1995_film)
+3,14,Frida,http://dbpedia.org/resource/Frida_(album),http://dbpedia.org/resource/Frida_(2002_movie) http://dbpedia.org/resource/Frida http://dbpedia.org/resource/Frida_(movie) http://dbpedia.org/resource/Frida_(film)

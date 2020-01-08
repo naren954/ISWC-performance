@@ -1,0 +1,5 @@
+"F1: 0.83333","Precision: 0.83333","Recall: 0.83333"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"2","3","Pretty Little Liars","http://dbpedia.org/resource/Pretty_Little_Liars","http://dbpedia.org/resource/Pretty_Little_Liars_season_4 http://dbpedia.org/resource/Pretty_Little_Liars_(season_4)"
+"2","5","Florida","http://dbpedia.org/resource/Miami_Marlins","http://dbpedia.org/resource/Florida_(30_Rock)"
+"2","12","200","http://dbpedia.org/resource/Nikon_D200","http://dbpedia.org/resource/200_(South_Park) http://dbpedia.org/resource/Two_hundred_(South_Park) http://dbpedia.org/resource/200_(South_Park_episode) http://dbpedia.org/resource/South_Park_200 http://dbpedia.org/resource/200_south_park"

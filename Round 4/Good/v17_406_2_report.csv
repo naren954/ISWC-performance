@@ -1,0 +1,9 @@
+F1: 0.84783,Precision: 0.84783,Recall: 0.84783,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,10,Julian Schlossberg,http://dbpedia.org/resource/Julian_Cope,http://dbpedia.org/resource/Julian_Schlossberg
+2,11,Dan Ireland,http://dbpedia.org/resource/Charles_I_of_England,http://dbpedia.org/resource/Dan_Ireland
+2,12,Brian Eastman,http://dbpedia.org/resource/Ben_Eastman,http://dbpedia.org/resource/Brian_Eastman
+2,19,Ed Cash,http://dbpedia.org/resource/Johnny_Cash,http://dbpedia.org/resource/Ed_Cash
+2,22,Camelia Frieberg,http://dbpedia.org/resource/Camélia_Jordana,http://dbpedia.org/resource/Camelia_Frieberg
+2,27,DJ Mustard,http://dbpedia.org/resource/Mustard_(record_producer),http://dbpedia.org/resource/Mustard_on_the_beat http://dbpedia.org/resource/Ketchup_(mixtape) http://dbpedia.org/resource/Dijon_McFarlane http://dbpedia.org/resource/DJ_Mustard http://dbpedia.org/resource/Don't_Hurt_Me
+2,38,Christopher Winchester,http://dbpedia.org/resource/Christopher_Wheeldon,http://dbpedia.org/resource/Christopher_Winchester

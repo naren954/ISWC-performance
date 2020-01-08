@@ -1,0 +1,7 @@
+F1: 0.70588,Precision: 0.70588,Recall: 0.70588,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,4,Monica,http://dbpedia.org/resource/Monica_(singer),http://dbpedia.org/resource/Monica_(song)
+2,6,Our Delight,http://dbpedia.org/resource/Our_Delights,http://dbpedia.org/resource/Our_Delight
+2,9,One More Try,http://dbpedia.org/resource/One_More_Try_(George_Michael_song),http://dbpedia.org/resource/Out_of_Our_Heads http://dbpedia.org/resource/Out_Of_Our_Heads http://dbpedia.org/resource/One_More_Try_(Rolling_Stones_song) http://dbpedia.org/resource/One_More_Try_(The_Rolling_Stones_song)
+2,10,What's New Pussycat?,http://dbpedia.org/resource/What's_the_New_Mary_Jane,http://dbpedia.org/resource/What's_New_Pussycat?_(song)
+2,13,The Good Life,http://dbpedia.org/resource/The_Good_Life_(Three_Days_Grace_song),http://dbpedia.org/resource/The_Good_Life_(1962_song) http://dbpedia.org/resource/La_Belle_Vie_(1962_song)

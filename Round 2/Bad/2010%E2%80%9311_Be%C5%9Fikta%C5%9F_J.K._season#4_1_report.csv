@@ -1,0 +1,5 @@
+F1: 0.40000,Precision: 0.40000,Recall: 0.40000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,BeÅ\u009FiktaÅ\u009F,http://dbpedia.org/resource/German_submarine_U-5,http://dbpedia.org/resource/Beşiktaş_J.K.
+1,2,Gaziantep B.B.,http://dbpedia.org/resource/Gazişehir_Gaziantep_F.K.,http://dbpedia.org/resource/Gaziantep_Büyükşehir_Belediyespor
+1,4,Konya Torku Å\u009Eekerspor,http://dbpedia.org/resource/Konya_Anadolu_Selçukspor,http://dbpedia.org/resource/Konya_Şeker_S.K.

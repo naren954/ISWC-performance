@@ -1,0 +1,13 @@
+F1: 0.77551,Precision: 0.77551,Recall: 0.77551,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,The Wind,http://dbpedia.org/resource/Blowin'_in_the_Wind,http://dbpedia.org/resource/The_Wind_(1928_film)
+0,3,The Wilding,http://dbpedia.org/resource/The_Wild_Wild_West,http://dbpedia.org/resource/The_Wilding http://dbpedia.org/resource/The_Wilding_(short_film)
+0,8,The Wild Party,http://dbpedia.org/resource/The_Wild_Party_(1975_film),http://dbpedia.org/resource/The_Wild_Party_(1929_film)
+0,11,The Wild Goose Chase,http://dbpedia.org/resource/The_Wild_Goose_Chase_(1915_film),http://dbpedia.org/resource/The_Wild_Goose_Chase_(film)
+0,15,The Wild Blue Yonder,http://dbpedia.org/resource/The_Wild_Blue_Yonder,http://dbpedia.org/resource/Wild_Blue_Yonder_(film) http://dbpedia.org/resource/Thunder_Across_the_Pacific http://dbpedia.org/resource/The_Wild_Blue_Yonder_(1951_film) http://dbpedia.org/resource/The_Wild_Blue_Yonder_(1952_film)
+0,20,The Widow,http://dbpedia.org/resource/Black_Widow_(Iggy_Azalea_song),http://dbpedia.org/resource/The_Widow_(1939_film) http://dbpedia.org/resource/La_vedova
+0,22,The Wicked Lady,http://dbpedia.org/resource/The_Wicked_Lady,http://dbpedia.org/resource/The_Wicked_Lady_(1983_film)
+0,24,The Wicked,http://dbpedia.org/resource/Wicked_(video_game),http://dbpedia.org/resource/Cattiva http://dbpedia.org/resource/The_Wicked
+0,34,The White Rose,http://dbpedia.org/resource/The_White_Rose_(1923_film),http://dbpedia.org/resource/La_rosa_blanca http://dbpedia.org/resource/The_White_Rose_(1954_film)
+0,39,The White Horse Inn,http://dbpedia.org/resource/The_White_Horse_Inn_(1952_film),http://dbpedia.org/resource/The_White_Horse_Inn_(1960_film) http://dbpedia.org/resource/Im_weißen_Rößl_(1960_film)
+0,45,The White Angel,http://dbpedia.org/resource/The_White_Angel_(1936_film),http://dbpedia.org/resource/Angelo_Bianco http://dbpedia.org/resource/The_White_Angel_(1955_film) http://dbpedia.org/resource/L'angelo_bianco http://dbpedia.org/resource/L'Angelo_bianco

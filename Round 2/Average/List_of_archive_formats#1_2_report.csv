@@ -1,0 +1,6 @@
+F1: 0.60000,Precision: 0.60000,Recall: 0.60000,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,9,Snappy,http://dbpedia.org/resource/Snappy_(package_manager),http://dbpedia.org/resource/Snappy_(software) http://dbpedia.org/resource/Snappy http://dbpedia.org/resource/Snappy_(disambiguation)
+2,10,SQ,http://dbpedia.org/resource/Albanian_Wikipedia,http://dbpedia.org/resource/SQ_(program)
+2,12,xz,http://dbpedia.org/resource/XZ_Utils,http://dbpedia.org/resource/Xz http://dbpedia.org/resource/.xz http://dbpedia.org/resource/X.Z. http://dbpedia.org/resource/Xzip
+2,14,compress,http://dbpedia.org/resource/Data_compression,http://dbpedia.org/resource/Uncompress http://dbpedia.org/resource/Z_(file_format) http://dbpedia.org/resource/COMPRESS http://dbpedia.org/resource/Compress http://dbpedia.org/resource/.Z

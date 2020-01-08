@@ -1,0 +1,7 @@
+"F1: 0.44444","Precision: 0.44444","Recall: 0.44444"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"3","1","N. Sheridan","http://de.dbpedia.org/resource/Nicole_Sheridan","http://dbpedia.org/resource/Nicole_Sheridan"
+"3","3","M. Raven","http://dbpedia.org/resource/Marion_Raven","http://dbpedia.org/resource/Michael_Raven"
+"3","5","R. Caracciolo","http://dbpedia.org/resource/Carlo_Caracciolo","http://dbpedia.org/resource/Rosa_Caracciolo"
+"3","6","R. Mulligan","http://dbpedia.org/resource/Gerry_Mulligan","http://dbpedia.org/resource/Richard_Mulligan"
+"3","7","C. Jordan","http://dbpedia.org/resource/Clifford_Jordan","http://dbpedia.org/resource/Corey_Jordan"

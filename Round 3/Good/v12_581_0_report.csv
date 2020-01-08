@@ -1,0 +1,4 @@
+F1: 0.90909,Precision: 0.90909,Recall: 0.90909,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,6,B. Shaw,http://dbpedia.org/resource/Bob_Shaw_(American_football),http://dbpedia.org/resource/Jose_Perez_Flores http://dbpedia.org/resource/Benny_Kid_Roy http://dbpedia.org/resource/Battling_Shaw
+0,20,A. Oliver,http://dbpedia.org/resource/Adrian_Oliver,http://dbpedia.org/resource/Art_Oliver

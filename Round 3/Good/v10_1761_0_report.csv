@@ -1,0 +1,20 @@
+F1: 0.80851,Precision: 0.80851,Recall: 0.80851,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,2007 US Open,http://dbpedia.org/resource/2015_US_Open_(tennis),http://dbpedia.org/resource/2007_U._S._Open http://dbpedia.org/resource/Us_open_2007 http://dbpedia.org/resource/2007_U._S._Open_Seeds http://dbpedia.org/resource/2007_US_Open_Seeds http://dbpedia.org/resource/2007_U_S_Open http://dbpedia.org/resource/2007_U.S._Open_(tennis) http://dbpedia.org/resource/2007_U_S_Open_(tennis) http://dbpedia.org/resource/2007_US_Open_(tennis) http://dbpedia.org/resource/2007_U._S._Open_(tennis) http://dbpedia.org/resource/2007_U.S._Open_Seeds http://dbpedia.org/resource/2007_U_S_Open_Seeds http://dbpedia.org/resource/2007_u.s._open_(tennis)
+0,22,2003 Challenge Bell,http://dbpedia.org/resource/2004_Challenge_Bell,http://dbpedia.org/resource/2003_Challenge_Bell
+0,24,2002 US Open,http://dbpedia.org/resource/2015_US_Open_(tennis),http://dbpedia.org/resource/2002_United_States_Open http://dbpedia.org/resource/2002_U.S._Open_(tennis) http://dbpedia.org/resource/2002_US_Open_(tennis)
+0,25,2002 Dubai Tennis Championships and Duty Free Women's Open,http://dbpedia.org/resource/2003_Dubai_Tennis_Championships_and_Duty_Free_Women's_Open,http://dbpedia.org/resource/2002_Dubai_Tennis_Championships http://dbpedia.org/resource/2002_Dubai_Duty_Free_Women's_Open http://dbpedia.org/resource/2002_Dubai_Tennis_Championships_and_Duty_Free_Women's_Open http://dbpedia.org/resource/2002_Dubai_Tennis_Championships_and_the_Dubai_Duty_Free_Women's_Open
+0,26,2002 Challenge Bell,http://dbpedia.org/resource/2012_Challenge_Bell,http://dbpedia.org/resource/2002_Challenge_Bell
+0,28,2001 Stuttgart Masters,http://dbpedia.org/resource/2000_Stuttgart_Masters,http://dbpedia.org/resource/2001_Mutua_Madrilena_Masters_Madrid http://dbpedia.org/resource/2001_Madrid_Masters http://dbpedia.org/resource/2001_Stuttgart_Masters
+0,29,2001 Dubai Tennis Championships and Duty Free Women's Open,http://dbpedia.org/resource/2003_Dubai_Tennis_Championships_and_Duty_Free_Women's_Open,http://dbpedia.org/resource/2001_Dubai_Tennis_Championships_and_the_Dubai_Duty_Free_Women's_Open http://dbpedia.org/resource/2001_Dubai_Duty_Free_Women's_Open http://dbpedia.org/resource/2001_Dubai_Tennis_Championships http://dbpedia.org/resource/2001_Dubai_Tennis_Championships_and_Duty_Free_Women's_Open
+0,30,2001 Challenge Bell,http://dbpedia.org/resource/2011_Challenge_Bell,http://dbpedia.org/resource/2001_Challenge_Bell
+0,32,2000 WTA Madrid Open,http://dbpedia.org/resource/2015_Mutua_Madrid_Open,http://dbpedia.org/resource/2000_WTA_Madrid_Open
+0,35,2000 Challenge Bell,http://dbpedia.org/resource/2010_Challenge_Bell,http://dbpedia.org/resource/2000_Challenge_Bell
+0,44,1996 Romanian Open,http://dbpedia.org/resource/1996_Australian_Open,http://dbpedia.org/resource/1996_Open_Romania http://dbpedia.org/resource/1996_Romanian_Open
+0,51,1994 Challenge Bell,http://dbpedia.org/resource/2004_Challenge_Bell,http://dbpedia.org/resource/1994_Challenge_Bell
+0,54,1993 Challenge Bell,http://dbpedia.org/resource/2013_Challenge_Bell,http://dbpedia.org/resource/1993_Challenge_Bell
+0,59,1990 Volvo San Francisco,http://dbpedia.org/resource/Pacific_Coast_Championships,http://dbpedia.org/resource/1990_Volvo_San_Francisco
+0,66,1990 Eurocard Classic,http://dbpedia.org/resource/1990_Eurocard_Classics,http://dbpedia.org/resource/1990_Eurocard_Classic
+0,84,1977 German Open,http://dbpedia.org/resource/1977_Australian_Open_(December),http://dbpedia.org/resource/1977_German_Open_(tennis)
+0,86,1975 Grand Prix German Open,http://dbpedia.org/resource/1972_Grand_Prix_German_Open,http://dbpedia.org/resource/1975_Grand_Prix_German_Open
+0,89,1974 American Airlines Tennis Games,http://dbpedia.org/resource/1975_American_Airlines_Tennis_Games,http://dbpedia.org/resource/1974_American_Airlines_Tennis_Games

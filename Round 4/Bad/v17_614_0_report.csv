@@ -1,0 +1,11 @@
+F1: 0.40000,Precision: 0.40000,Recall: 0.40000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,S. Regmi,http://dbpedia.org/resource/Sanjam_Regmi,http://dbpedia.org/resource/Srijana_Regmi
+0,2,S. Jones,http://dbpedia.org/resource/Suranne_Jones,http://dbpedia.org/resource/Sara_Jones
+0,3,R. Christie,http://dbpedia.org/resource/Chris_Christie,http://dbpedia.org/resource/Rachel_Christie
+0,6,M. G. Pedersen,http://dbpedia.org/resource/Morten_Gamst_Pedersen,http://dbpedia.org/resource/Michelle_Pedersen http://dbpedia.org/resource/Michelle_Gillingwater_Pedersen
+0,9,J. Donat,http://dbpedia.org/resource/Peter_Donat,http://dbpedia.org/resource/Josefin_Donat
+0,10,G. Walcott,http://dbpedia.org/resource/Clyde_Walcott,http://dbpedia.org/resource/Gabrielle_Walcott http://dbpedia.org/resource/Miss_Trinidad_&_Tobago_World_2008 http://dbpedia.org/resource/Gabby_Walcott http://dbpedia.org/resource/Gabrielle_walcott
+0,11,E. Reyes,http://dbpedia.org/resource/Edwin_Reyes,http://dbpedia.org/resource/Elisabeth_Reyes_Villegas http://dbpedia.org/resource/Elisabeth_Reyes
+0,12,D. Ramirez,http://dbpedia.org/resource/Dania_Ramirez,http://dbpedia.org/resource/Domonique_Ramirez
+0,13,C. Gonzales,http://dbpedia.org/resource/Chilly_Gonzales,http://dbpedia.org/resource/Charlene_Gonzalez http://dbpedia.org/resource/Charlene_Bonnin_Gonzalez http://dbpedia.org/resource/Charlene_Gonzales http://dbpedia.org/resource/Charlene_Mae_Bonnin_Gonzalez_Muhlach http://dbpedia.org/resource/Charlene_González

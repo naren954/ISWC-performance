@@ -1,0 +1,7 @@
+F1: 0.66667,Precision: 0.66667,Recall: 0.66667,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,6,Will Davison John McIntyre,http://dbpedia.org/resource/John_McIntyre_(racing_driver),http://dbpedia.org/resource/Will_Davison
+1,7,Todd Kelly Tim Blanchard,http://dbpedia.org/resource/Tim_Blanchard,http://dbpedia.org/resource/Todd_Kelly
+1,8,Jason Bright Andrew Jones,http://dbpedia.org/resource/Andrew_Jones_(racing_driver),http://dbpedia.org/resource/Jason_Bright
+1,12,Fabian Coulthard David Besnard,http://dbpedia.org/resource/David_Besnard,http://dbpedia.org/resource/Fabian_Coulthard
+1,13,Rick Kelly David Russell,http://dbpedia.org/resource/David_Russell_(racing_driver),http://dbpedia.org/resource/Rick_Kelly

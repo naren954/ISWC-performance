@@ -1,0 +1,44 @@
+F1: 0.42466,Precision: 0.42466,Recall: 0.42466,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,P. language,http://dbpedia.org/resource/Italian_language,http://dbpedia.org/resource/Polaco_language http://dbpedia.org/resource/Polish_(language) http://dbpedia.org/resource/Jezyk_polski http://dbpedia.org/resource/PolishLanguage http://dbpedia.org/resource/Polish-language http://dbpedia.org/resource/Idioma_polaco http://dbpedia.org/resource/Siwierski http://dbpedia.org/resource/Polish_language http://dbpedia.org/resource/Polish_Language http://dbpedia.org/resource/Język_polski http://dbpedia.org/resource/Polszczyzna http://dbpedia.org/resource/Modern_Polish http://dbpedia.org/resource/ISO_639:pl http://dbpedia.org/resource/Polish_word http://dbpedia.org/resource/ISO_639:pol
+1,2,List of Hindi film clans,http://dbpedia.org/resource/Lists_of_Indian_film_clans,http://dbpedia.org/resource/List_of_Bollywood_film_clans http://dbpedia.org/resource/Bollywood_film_clans http://dbpedia.org/resource/List_of_Hindi_film_clans
+1,6,A. Huston,http://dbpedia.org/resource/John_Huston,"http://dbpedia.org/resource/Angelica_Huston http://dbpedia.org/resource/Huston,_Anjelica http://dbpedia.org/resource/Anjelica_Huston http://dbpedia.org/resource/Angelica_Houston http://dbpedia.org/resource/Anjelica_Houston http://dbpedia.org/resource/Angellica_Huston"
+1,8,A. Trivedi,http://dbpedia.org/resource/Upendra_Trivedi,http://dbpedia.org/resource/Arvind_Trivedi
+1,15,J. Strasberg,http://dbpedia.org/resource/Susan_Strasberg,http://dbpedia.org/resource/John_Strasberg
+1,16,J. Exner,http://dbpedia.org/resource/Sigmund_Exner,http://dbpedia.org/resource/Judith_Campbell_Exner http://dbpedia.org/resource/Judith_Exner http://dbpedia.org/resource/Judith_Campbell
+1,17,List of Hindi film clans,http://dbpedia.org/resource/Lists_of_Indian_film_clans,http://dbpedia.org/resource/List_of_Bollywood_film_clans http://dbpedia.org/resource/Bollywood_film_clans http://dbpedia.org/resource/List_of_Hindi_film_clans
+1,20,D. Andrews,http://dbpedia.org/resource/William_IV_of_the_United_Kingdom,http://dbpedia.org/resource/Dana_Andrews http://dbpedia.org/resource/Carver_Andrews http://dbpedia.org/resource/Carver_Dana_Andrews
+1,21,C. Hancock,http://dbpedia.org/resource/John_Hancock,http://dbpedia.org/resource/Christopher_Hancock
+1,22,M. Foster,http://dbpedia.org/resource/Stephen_Foster,http://dbpedia.org/resource/Morrison_Foster
+1,25,C. Tufts,http://dbpedia.org/resource/Sonny_Tufts,http://dbpedia.org/resource/Charles_Tufts
+1,26,W. Reed,http://dbpedia.org/resource/Walter_Reed,http://dbpedia.org/resource/Walter_Reed_(actor)
+1,27,M. family,http://dbpedia.org/resource/Eminem,http://dbpedia.org/resource/Mukherjee-Samarth_family http://dbpedia.org/resource/Mukherjee-Samarth_family_(film) http://dbpedia.org/resource/The_Mukherjee-Samarth_Family
+1,29,C. Howard,http://dbpedia.org/resource/Catherine_Howard,"http://dbpedia.org/resource/Jerome_Lester_Horowitz http://dbpedia.org/resource/Curley_Howard http://dbpedia.org/resource/Curly_(The_Three_Stooges) http://dbpedia.org/resource/Jerome_Howard http://dbpedia.org/resource/Nyuk-nyuk-nyuk! http://dbpedia.org/resource/Jerome_Lester_Horwitz http://dbpedia.org/resource/Curly_Howard http://dbpedia.org/resource/""Nyuk-nyuk-nyuk!"" http://dbpedia.org/resource/Soitenly! http://dbpedia.org/resource/Jerry_Howard"
+1,30,M. Fraser,http://dbpedia.org/resource/Malcolm_Fraser,http://dbpedia.org/resource/Moyra_Fraser
+1,33,J. Stallone,http://dbpedia.org/resource/Sylvester_Stallone,http://dbpedia.org/resource/Jacqueline_Stallone http://dbpedia.org/resource/Jackie_Stallone
+1,34,List of Hindi film clans,http://dbpedia.org/resource/Lists_of_Indian_film_clans,http://dbpedia.org/resource/List_of_Bollywood_film_clans http://dbpedia.org/resource/Bollywood_film_clans http://dbpedia.org/resource/List_of_Hindi_film_clans
+1,35,V. Niehaus,http://dbpedia.org/resource/Dave_Niehaus,http://dbpedia.org/resource/Valerie_Niehaus
+1,36,D. family,http://dbpedia.org/resource/Family_(band),http://dbpedia.org/resource/Disney_Brothers http://dbpedia.org/resource/Disney_brothers http://dbpedia.org/resource/Herbert_Arthur_Disney http://dbpedia.org/resource/The_Walt_Disney_family http://dbpedia.org/resource/Descendents_of_Walt_Disney http://dbpedia.org/resource/Sharon_Disney http://dbpedia.org/resource/Disney_Family http://dbpedia.org/resource/Descendants_of_Walt_Disney http://dbpedia.org/resource/Disney_family http://dbpedia.org/resource/Sharon_Mae_Disney
+1,37,A. Howard,http://dbpedia.org/resource/William_Howard_Taft,"http://dbpedia.org/resource/Howard,_Arthur http://dbpedia.org/resource/Arthur_Howard"
+1,38,R. Law,http://dbpedia.org/resource/Rodman_Law,http://dbpedia.org/resource/Ruth_Bancroft_Law http://dbpedia.org/resource/Ruth_Law http://dbpedia.org/resource/Ruth_Law_Oliver
+1,39,M. Inc.,http://dbpedia.org/resource/Charles_M._Schulz,"http://dbpedia.org/resource/Moog_in_the_Netherlands http://dbpedia.org/resource/MOOG,_Inc. http://dbpedia.org/resource/Moog_Inc._Cl._'A' http://dbpedia.org/resource/Moog_Inc http://dbpedia.org/resource/Moog_Inc. http://dbpedia.org/resource/Moog,_Inc http://dbpedia.org/resource/Moog_FCS http://dbpedia.org/resource/Moog_in_the_netherlands http://dbpedia.org/resource/FCS_Control_Systems"
+1,40,J. Mitchum,http://dbpedia.org/resource/Robert_Mitchum,http://dbpedia.org/resource/John_Mitchum http://dbpedia.org/resource/John_mitchum
+1,41,S. glass,http://dbpedia.org/resource/Philip_Glass,http://dbpedia.org/resource/Stained-glass_window http://dbpedia.org/resource/Stained-glass_windows http://dbpedia.org/resource/Painted_glass http://dbpedia.org/resource/Silver_stain_(glass) http://dbpedia.org/resource/Stained_glass_windows http://dbpedia.org/resource/Stain_Glass http://dbpedia.org/resource/Stain_glass http://dbpedia.org/resource/Stained-glass http://dbpedia.org/resource/Stained_Glass http://dbpedia.org/resource/Stained_glass_window http://dbpedia.org/resource/Stained_glass
+1,45,List of Hindi film clans,http://dbpedia.org/resource/Lists_of_Indian_film_clans,http://dbpedia.org/resource/List_of_Bollywood_film_clans http://dbpedia.org/resource/Bollywood_film_clans http://dbpedia.org/resource/List_of_Hindi_film_clans
+1,46,G. Webb,http://dbpedia.org/resource/Gary_Webb,http://dbpedia.org/resource/George_Webb_(actor)
+1,47,R. Cansino,http://es.dbpedia.org/resource/Vernon_Cansino,http://dbpedia.org/resource/Richard_Hayworth http://dbpedia.org/resource/Richard_Cansino
+1,48,P. Castellano,http://es.dbpedia.org/resource/Pablo_Castellano,http://dbpedia.org/resource/Big_Paul http://dbpedia.org/resource/Paul_Castellano http://dbpedia.org/resource/Big_Paul_Castellano
+1,49,M. Kelly,http://fr.dbpedia.org/resource/Martine_Kelly,http://dbpedia.org/resource/Minka_Kelly http://dbpedia.org/resource/Minka_kelley
+1,50,C. Harrison,http://dbpedia.org/resource/Caroline_Harrison,http://dbpedia.org/resource/Cathryn_Harrison
+1,53,V. Rajkumar,http://dbpedia.org/resource/Rajkumar_(actor),http://dbpedia.org/resource/Vinay_Rajkumar
+1,56,S. Kapoor,http://dbpedia.org/resource/Shashi_Kapoor,http://dbpedia.org/resource/Shami_Kapoor http://dbpedia.org/resource/Shammi_Kapoor
+1,57,T. family,http://dbpedia.org/resource/T.I.,http://dbpedia.org/resource/Tagore_family
+1,62,G. Hoffman,http://dbpedia.org/resource/Gregg_Hoffman,http://dbpedia.org/resource/Gordy_Hoffman
+1,63,D. Berrigan,http://dbpedia.org/resource/Philip_Berrigan,http://dbpedia.org/resource/Daniel_Berrigan http://dbpedia.org/resource/Daniel_Joseph_Berrigan http://dbpedia.org/resource/Dan_Berrigan http://dbpedia.org/resource/Father_Dan_Berrigan http://dbpedia.org/resource/Father_Daniel_Berrigan
+1,64,L. Lindgren,http://dbpedia.org/resource/Astrid_Lindgren,http://dbpedia.org/resource/Lars-Magnus_Lindgren
+1,66,C. Walker,http://dbpedia.org/resource/Clint_Walker,http://dbpedia.org/resource/Cody_Walker_(actor)
+1,68,S. Troughton,http://dbpedia.org/resource/Patrick_Troughton,http://dbpedia.org/resource/Sam_Troughton
+1,69,D. Swayze,http://dbpedia.org/resource/Patrick_Swayze,http://dbpedia.org/resource/Don_Swayze
+1,70,Aadi,http://dbpedia.org/resource/Adi_Shankara,http://dbpedia.org/resource/Aditya_Pudipeddi http://dbpedia.org/resource/Aadi_(Telugu_actor)
+1,71,T. Nelson,http://dbpedia.org/resource/Ted_Nelson,http://dbpedia.org/resource/Tracy_Nelson_(actress)
+1,73,J. Wilde,http://dbpedia.org/resource/Johannes_Wilde,http://dbpedia.org/resource/Lady_Wilde http://dbpedia.org/resource/Jane_Elgee http://dbpedia.org/resource/Jane_Wilde http://dbpedia.org/resource/Jane_wilde http://dbpedia.org/resource/Jane_Francesca_Elgee_Wilde http://dbpedia.org/resource/Jane_Francisca_Wilde http://dbpedia.org/resource/Jane_Francesca_Wilde http://dbpedia.org/resource/Jane_Francesca_Elgee http://dbpedia.org/resource/Jane_Francisca_Agnes_Elgee

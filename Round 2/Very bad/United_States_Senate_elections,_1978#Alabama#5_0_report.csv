@@ -1,0 +1,37 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Alabama,http://dbpedia.org/resource/Alabama_language,http://dbpedia.org/resource/List_of_United_States_Senators_from_Alabama
+0,2,Alabama Special: Class 3,http://dbpedia.org/resource/LB&SCR_E3_class,http://dbpedia.org/resource/List_of_United_States_Senators_from_Alabama
+0,3,Alaska,http://dbpedia.org/resource/Alaska_Women's_Hall_of_Fame,http://dbpedia.org/resource/List_of_Senators_from_Alaska http://dbpedia.org/resource/United_States_Senator_from_Alaska http://dbpedia.org/resource/U.S._Senator_from_Alaska http://dbpedia.org/resource/List_of_United_States_Senators_from_Alaska
+0,4,Arkansas,,http://dbpedia.org/resource/List_of_United_States_Senators_from_Arkansas http://dbpedia.org/resource/U.S._Senators_from_Arkansas
+0,5,Colorado,http://dbpedia.org/resource/Governor_of_Colorado,http://dbpedia.org/resource/U.S._Senators_from_Colorado http://dbpedia.org/resource/United_States_Senators_from_Colorado http://dbpedia.org/resource/List_of_United_States_Senators_from_Colorado
+0,6,Delaware,http://dbpedia.org/resource/Delaware-class_battleship,"http://dbpedia.org/resource/United_States_Senate_election_in_Delaware,_1978"
+0,7,Georgia,http://dbpedia.org/resource/Georgia_(typeface),"http://dbpedia.org/resource/United_States_Senate_election_in_Georgia,_1978"
+0,8,Idaho,,http://dbpedia.org/resource/List_of_United_States_Senators_from_Idaho
+0,9,Illinois,"http://dbpedia.org/resource/Mason_County,_Illinois","http://dbpedia.org/resource/United_States_Senate_election_in_Illinois,_1978"
+0,10,Iowa,,http://dbpedia.org/resource/List_of_United_States_Senators_from_Iowa http://dbpedia.org/resource/List_of_senators_from_Iowa
+0,11,Kansas,http://dbpedia.org/resource/Governor_of_Kansas,http://dbpedia.org/resource/List_of_United_States_Senators_from_Kansas
+0,12,Kentucky,http://dbpedia.org/resource/Governor_of_Kentucky,http://dbpedia.org/resource/List_of_United_States_Senators_from_Kentucky http://dbpedia.org/resource/List_of_U.S._senators_from_Kentucky
+0,13,Louisiana,http://dbpedia.org/resource/Louisiana_wine,http://dbpedia.org/resource/List_of_U.S._Senators_from_Louisiana http://dbpedia.org/resource/List_of_United_States_Senators_from_Louisiana
+0,14,Maine,http://dbpedia.org/resource/USS_Maine_(ACR-1),"http://dbpedia.org/resource/United_States_Senate_election_in_Maine,_1978 http://dbpedia.org/resource/Untied_States_Senate_election_in_Maine,_1978"
+0,15,Massachusetts,http://de.dbpedia.org/resource/Texaco_Massachusetts,"http://dbpedia.org/resource/Massachusetts_United_States_senate_election,_1978 http://dbpedia.org/resource/Massachusetts_U.S._senate_election,_1978 http://dbpedia.org/resource/United_States_Senate_election_in_Massachusetts,_1978 http://dbpedia.org/resource/Massachusetts_United_States_Senate_election,_1978 http://dbpedia.org/resource/Massachusetts_U.S._Senate_election,_1978"
+0,16,Michigan,http://dbpedia.org/resource/Governor_of_Michigan,"http://dbpedia.org/resource/United_States_Senate_election_in_Michigan,_1978"
+0,17,Minnesota Special: Class 1,http://dbpedia.org/resource/LB&SCR_E1_class,http://dbpedia.org/resource/List_of_U.S._Senators_from_Minnesota http://dbpedia.org/resource/List_of_United_States_Senators_from_Minnesota
+0,18,Minnesota,http://dbpedia.org/resource/Governor_of_Minnesota,http://dbpedia.org/resource/List_of_U.S._Senators_from_Minnesota http://dbpedia.org/resource/List_of_United_States_Senators_from_Minnesota
+0,19,Mississippi,http://dbpedia.org/resource/Mississippi_wine,"http://dbpedia.org/resource/United_States_Senate_election_in_Mississippi,_1978"
+0,20,Montana,http://dbpedia.org/resource/Montana_Coyote,"http://dbpedia.org/resource/United_States_Senate_election_in_Montana,_1978"
+0,21,Nebraska,http://dbpedia.org/resource/Governor_of_Nebraska,"http://dbpedia.org/resource/United_States_Senate_election_in_Nebraska,_1978"
+0,22,New Hampshire,http://dbpedia.org/resource/Governor_of_New_Hampshire,http://dbpedia.org/resource/List_of_United_States_Senators_from_New_Hampshire
+0,23,New Jersey,http://dbpedia.org/resource/HMS_Jersey_(F72),http://dbpedia.org/resource/List_of_United_States_Senators_from_New_Jersey
+0,24,New Mexico,http://dbpedia.org/resource/USS_New_Mexico_(BB-40),http://dbpedia.org/resource/List_of_United_States_Senators_from_New_Mexico
+0,25,North Carolina,http://dbpedia.org/resource/USS_North_Carolina_(BB-55),"http://dbpedia.org/resource/United_States_Senate_election_in_North_Carolina,_1978"
+0,26,Oklahoma,http://dbpedia.org/resource/USS_Oklahoma_(BB-37),http://dbpedia.org/resource/List_of_United_States_Senators_from_Oklahoma
+0,27,Oregon,http://dbpedia.org/resource/SS_Oregon_(1883),http://dbpedia.org/resource/U.S._Senators_from_Oregon http://dbpedia.org/resource/United_States_Senate_delegations_from_Oregon http://dbpedia.org/resource/List_of_U.S._senators_from_Oregon http://dbpedia.org/resource/United_States_Senators_from_Oregon http://dbpedia.org/resource/List_of_United_States_Senators_from_Oregon
+0,28,Rhode Island,http://dbpedia.org/resource/USS_Rhode_Island_(SSBN-740),http://dbpedia.org/resource/List_of_United_States_Senators_from_Rhode_Island
+0,29,South Carolina,http://dbpedia.org/resource/USS_South_Carolina_(1860),"http://dbpedia.org/resource/United_States_Senate_election_in_South_Carolina,_1978"
+0,30,South Dakota,http://dbpedia.org/resource/USS_South_Dakota_(BB-57),http://dbpedia.org/resource/List_of_United_States_Senators_from_South_Dakota
+0,31,Tennessee,http://dbpedia.org/resource/Governor_of_Tennessee,http://dbpedia.org/resource/List_of_United_States_Senators_from_Tennessee
+0,32,Texas,http://dbpedia.org/resource/USS_Texan_(ID-1354),"http://dbpedia.org/resource/United_States_Senate_election_in_Texas,_1978"
+0,33,Virginia,http://dbpedia.org/resource/Governor_of_Virginia,"http://dbpedia.org/resource/United_States_Senate_election_in_Virginia,_1978"
+0,34,West Virginia,http://dbpedia.org/resource/USS_West_Virginia_(BB-48),http://dbpedia.org/resource/List_of_United_States_Senators_from_West_Virginia http://dbpedia.org/resource/List_of_Senators_from_West_Virginia
+0,35,Wyoming,http://dbpedia.org/resource/Wyoming-class_battleship,http://dbpedia.org/resource/List_of_United_States_Senators_from_Wyoming http://dbpedia.org/resource/Senators_from_Wyoming

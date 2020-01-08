@@ -1,0 +1,4 @@
+"F1: 0.00000","Precision: 0.00000","Recall: 0.00000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","1","San Juan Capistrano toward San Bernardino","http://dbpedia.org/resource/Mission_San_Juan_Capistrano_(Texas)","http://dbpedia.org/resource/San_Juan_Capistrano_(Amtrak_station) http://dbpedia.org/resource/San_Juan_Capistrano_Depot http://dbpedia.org/resource/San_Juan_Capistrano_(Metrolink_station)"
+"0","3","San Juan Capistrano toward Los Angeles Union Station","http://dbpedia.org/resource/United_States_Navy","http://dbpedia.org/resource/San_Juan_Capistrano_(Amtrak_station) http://dbpedia.org/resource/San_Juan_Capistrano_Depot http://dbpedia.org/resource/San_Juan_Capistrano_(Metrolink_station)"

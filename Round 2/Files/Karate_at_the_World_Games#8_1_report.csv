@@ -1,0 +1,6 @@
+"F1: 0.20000","Precision: 0.20000","Recall: 0.20000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","2","Geoff Thompson (GBR)","http://dbpedia.org/resource/Geoff_Thompson_(football_executive)","http://dbpedia.org/resource/Geoff_Thompson_(karateka)"
+"1","5","Leon Walters (GBR)","nan","http://dbpedia.org/resource/Leon_Walters"
+"1","6","Seydina BaldÃ© (FRA)","http://dbpedia.org/resource/Keita_Baldé","http://dbpedia.org/resource/Seydina_Baldé"
+"1","7","Alexander Gerunov (RUS)","http://dbpedia.org/resource/Alexander","http://dbpedia.org/resource/Aleksandr_Guerunov http://dbpedia.org/resource/Alexander_Gerunov http://dbpedia.org/resource/Alexander_Evgenevich_Gerunov"

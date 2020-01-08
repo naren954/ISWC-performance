@@ -1,0 +1,4 @@
+"F1: 0.33333","Precision: 0.33333","Recall: 0.33333"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","1","Liberal","http://dbpedia.org/resource/Liberal_Party_of_Australia_(New_South_Wales_Division)","http://dbpedia.org/resource/Liberal_Party_(Saskatchewan) http://dbpedia.org/resource/Saskatchewan_Liberal_Party http://dbpedia.org/resource/Frank_Proto_(politician) http://dbpedia.org/resource/Liberal_Party_of_Saskatchewan"
+"1","2","Progressive","http://dbpedia.org/resource/Progressive_Conservative_Party_of_Saskatchewan","http://dbpedia.org/resource/Progressive_Party_of_Saskatchewan http://dbpedia.org/resource/United_Farmers_of_Saskatchewan"

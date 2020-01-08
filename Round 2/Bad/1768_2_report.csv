@@ -1,0 +1,9 @@
+F1: 0.46154,Precision: 0.46154,Recall: 0.46154,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,1,Crocodile Shoes II,http://dbpedia.org/resource/Crocodile_Shoes,http://dbpedia.org/resource/Crocodile_Shoes_II
+2,2,Tender is the Night,http://dbpedia.org/resource/Tender_Is_the_Night_(film),http://dbpedia.org/resource/Tender_is_the_Night http://dbpedia.org/resource/Tender_is_the_night http://dbpedia.org/resource/Tender_Is_the_Night_(2015_film) http://dbpedia.org/resource/Tender_Is_the_Night http://dbpedia.org/resource/Tender_Is_the_Night_(2014_film) http://dbpedia.org/resource/Tender_Is_The_Night
+2,4,Chor Lau-heung,http://dbpedia.org/resource/Chor_Lau-heung_(1979_TV_series),http://dbpedia.org/resource/Chor_Lau-heung_(1985_TV_series) http://dbpedia.org/resource/Chor_Lau_Heung_1985
+2,5,"Happy Anniversary, Charlie Brown","http://dbpedia.org/resource/Happy_New_Year,_Charlie_Brown!","http://dbpedia.org/resource/Happy_Anniversary,_Charlie_Brown"
+2,7,Eunice,http://dbpedia.org/resource/Nina_Simone,http://dbpedia.org/resource/Eunice_(film)
+2,11,Rain on the Roof,http://dbpedia.org/resource/Listen_to_the_Rain_on_the_Roof,http://dbpedia.org/resource/Rain_on_the_Roof
+2,13,Blackadder Goes Forth,http://dbpedia.org/resource/Blackadder,http://dbpedia.org/resource/Blackadder_4 http://dbpedia.org/resource/Blackadder_IIII http://dbpedia.org/resource/Blackadder_Goes_Forth http://dbpedia.org/resource/Blackadder_IV

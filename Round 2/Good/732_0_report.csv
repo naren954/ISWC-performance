@@ -1,0 +1,16 @@
+F1: 0.88034,Precision: 0.88034,Recall: 0.88034,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,4,Grosvenor Bridge,http://dbpedia.org/resource/Grosvenor_Bridge_(Chester),http://dbpedia.org/resource/Grosvenor_Bridge
+0,9,Green Bridge,http://dbpedia.org/resource/Green_Bridge_(Vilnius),http://dbpedia.org/resource/Green_Bridge_(New_Orleans) http://dbpedia.org/resource/Paris_Road_Bridge
+0,10,Great River Bridge,http://dbpedia.org/resource/Great_River_Bridge_(Westfield),http://dbpedia.org/resource/Great_River_Bridge
+0,13,Grand Narrows Bridge,http://dbpedia.org/resource/Verrazzano-Narrows_Bridge,http://dbpedia.org/resource/Grand_Narrows_Bridge
+0,19,Golubinjak Viaduct,http://dbpedia.org/resource/Ribblehead_Viaduct,http://dbpedia.org/resource/Golubinjak_Viaduct
+0,23,Golden Ears Bridge,http://dbpedia.org/resource/Golden_Gate_Bridge,http://dbpedia.org/resource/Golden_Ears_Bridge
+0,33,Glebe Island Bridge,http://dbpedia.org/resource/Anzac_Bridge,http://dbpedia.org/resource/Glebe_Island_Bridge
+0,41,George Washington Carver Bridge,http://dbpedia.org/resource/George_Washington_Bridge,http://dbpedia.org/resource/George_Washington_Carver_Bridge
+0,53,Gateway Bridge,http://dbpedia.org/resource/Gateway_Bridge_(Michigan),http://dbpedia.org/resource/Gateway_Bridge_(Illinois–Iowa) http://dbpedia.org/resource/Gateway_Bridge_(Clinton) http://dbpedia.org/resource/Gateway_Bridge_(Illinois-Iowa)
+0,72,Fremont Bridge,http://dbpedia.org/resource/Fremont_Bridge_(Seattle),"http://dbpedia.org/resource/Fremont_Bridge_(Portland,_Oregon) http://dbpedia.org/resource/Fremont_Bridge_(Portland) http://dbpedia.org/resource/Fremont_Bridge_(Portland,_OR)"
+0,88,Fort Pike Bridge,http://dbpedia.org/resource/Fort_Pitt_Bridge,http://dbpedia.org/resource/Rigolets_Bridge http://dbpedia.org/resource/Rigolets_Pass_Bridge http://dbpedia.org/resource/Fort_Pike_Bridge http://dbpedia.org/resource/U.S._90_Rigolets_Pass_Bridge http://dbpedia.org/resource/Rigolets_Pass_High_Rise_Bridge
+0,99,Firefighters' Memorial Bridge,http://dbpedia.org/resource/Anderson_Memorial_Bridge,http://dbpedia.org/resource/Firefighters'_Memorial_Bridge_(Pittston) http://dbpedia.org/resource/Water_Street_Bridge_(Pittston)
+0,103,Falls Bridge,http://dbpedia.org/resource/Victoria_Falls_Bridge,http://dbpedia.org/resource/Falls_Bridge
+0,105,Eurymedon Bridge,http://dbpedia.org/resource/Eurymedon_Bridge_(Aspendos),http://dbpedia.org/resource/Eurymedon_Bridge_(Selge)

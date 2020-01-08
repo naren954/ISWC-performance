@@ -1,0 +1,5 @@
+F1: 0.72727,Precision: 0.72727,Recall: 0.72727,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,3,White Collar Blue,http://dbpedia.org/resource/White_Collar_(TV_series),http://dbpedia.org/resource/White_Collar_Blue
+1,8,The Strip,http://dbpedia.org/resource/Las_Vegas_Strip,http://dbpedia.org/resource/The_Strip_(Australian_TV_series)
+1,11,Matador (U.S. TV series),http://dbpedia.org/resource/Matador_(Danish_TV_series),http://dbpedia.org/resource/Matador_episodes http://dbpedia.org/resource/Matador_(U.S._TV_series)

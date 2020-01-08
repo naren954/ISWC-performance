@@ -1,0 +1,30 @@
+F1: 0.74775,Precision: 0.74775,Recall: 0.74775,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,R. Thomas,http://dbpedia.org/resource/Red_Thomas,http://dbpedia.org/resource/Ray_Thomas_(baseball)
+0,8,R. Shook,http://dbpedia.org/resource/Al_Shook,http://dbpedia.org/resource/Ray_Shook
+0,17,R. Roberts,"http://dbpedia.org/resource/Robert_Roberts_(footballer,_born_1864)",http://dbpedia.org/resource/Ray_Roberts_(baseball)
+0,27,R. Nelson,http://dbpedia.org/resource/Red_Nelson,http://dbpedia.org/resource/Ray_Nelson_(baseball)
+0,29,R. Murray,http://dbpedia.org/resource/Red_Murray,http://dbpedia.org/resource/Raymond_Lee_Murray http://dbpedia.org/resource/Ray_Murray
+0,33,R. Morgan,http://dbpedia.org/resource/Rex_Morgan_(basketball),http://dbpedia.org/resource/Ray_Morgan
+0,35,R. Moore,http://dbpedia.org/resource/Randy_Moore,http://dbpedia.org/resource/Ray_Moore_(baseball)
+0,36,R. Miller,http://dbpedia.org/resource/Ralph_Miller_(footballer),http://dbpedia.org/resource/Ray_Miller_(first_baseman)
+0,37,R. Medeiros,http://dbpedia.org/resource/Renato_Medeiros,http://dbpedia.org/resource/Ray_Medeiros
+0,38,R. Martin,http://dbpedia.org/resource/Russell_Martin,http://dbpedia.org/resource/Ray_Martin_(baseball)
+0,44,R. Kennedy,http://dbpedia.org/resource/Ron_Kennedy,http://dbpedia.org/resource/Ray_Kennedy_(baseball)
+0,46,R. Jansen,http://dbpedia.org/resource/Rogier_Jansen,http://dbpedia.org/resource/Ray_Jansen
+0,58,R. Fitzgerald,http://dbpedia.org/resource/Rusty_Fitzgerald,http://dbpedia.org/resource/Ray_Fitzgerald
+0,59,R. Fisher,http://dbpedia.org/resource/Red_Fisher_(baseball),http://dbpedia.org/resource/Ray_Fisher
+0,63,R. Collins,http://dbpedia.org/resource/Rip_Collins_(pitcher),http://dbpedia.org/resource/Ray_Collins_(baseball_player) http://dbpedia.org/resource/Ray_Collins_(baseball)
+0,66,R. Brown,"http://dbpedia.org/resource/Roger_Brown_(basketball,_born_1942)",http://dbpedia.org/resource/Ray_Brown_(Negro_Leagues_pitcher) http://dbpedia.org/resource/Raymond_Brown_(Negro_leagues_pitcher) http://dbpedia.org/resource/Ray_Brown_(Negro_leagues_pitcher)
+0,67,R. Brown,"http://dbpedia.org/resource/Roger_Brown_(basketball,_born_1942)",http://dbpedia.org/resource/Ray_Percival_Brown http://dbpedia.org/resource/Ray_Brown_(National_League_pitcher) http://dbpedia.org/resource/Ray_P_Brown http://dbpedia.org/resource/Paul_P_Brown http://dbpedia.org/resource/Ray_P._Brown http://dbpedia.org/resource/Paul_Percival_Brown http://dbpedia.org/resource/Ray_Brown_(1909_pitcher) http://dbpedia.org/resource/Paul_P._Brown
+0,69,R. Boggs,http://dbpedia.org/resource/Taylor_Boggs,http://dbpedia.org/resource/Ray_Boggs
+0,77,R. Wright,http://dbpedia.org/resource/Rasty_Wright_(pitcher),http://dbpedia.org/resource/Rasty_Wright_(outfielder)
+0,78,R. J. Sr.,http://dbpedia.org/resource/Rankin_Johnson_Sr.,"http://dbpedia.org/resource/Rankin_Johnson,_Sr. http://dbpedia.org/resource/Tex_Johnson"
+0,83,R. Brown,"http://dbpedia.org/resource/Roger_Brown_(basketball,_born_1942)",http://dbpedia.org/resource/Randy_Brown_(baseball)
+0,87,R. López,http://es.dbpedia.org/resource/Rai_López,http://dbpedia.org/resource/Ramón_López_(baseball) http://dbpedia.org/resource/Ramon_Lopez_(baseball)
+0,88,R. Hernández,http://dbpedia.org/resource/Rosendo_Hernández,http://dbpedia.org/resource/Ramón_Hernández_(pitcher) http://dbpedia.org/resource/Ramon_Hernandez_(pitcher) http://dbpedia.org/resource/Ramon_Hernandez_(baseball_pitcher)
+0,92,R. López,http://es.dbpedia.org/resource/Rai_López,http://dbpedia.org/resource/Ramón_López_(baseball) http://dbpedia.org/resource/Ramon_Lopez_(baseball)
+0,93,R. Hernández,http://dbpedia.org/resource/Rosendo_Hernández,http://dbpedia.org/resource/Ramón_Hernández_(pitcher) http://dbpedia.org/resource/Ramon_Hernandez_(pitcher) http://dbpedia.org/resource/Ramon_Hernandez_(baseball_pitcher)
+0,95,R. Young,http://dbpedia.org/resource/Ricky_Ortiz,http://dbpedia.org/resource/Ralph_Young_(baseball)
+0,104,R. Miller,http://dbpedia.org/resource/Ralph_Miller_(footballer),http://dbpedia.org/resource/Ralph_Miller_(right-handed_pitcher) http://dbpedia.org/resource/Ralph_Miller_(19th_century_baseball_player)
+0,105,R. Miller,http://dbpedia.org/resource/Ralph_Miller_(footballer),http://dbpedia.org/resource/Ralph_Miller_(left-handed_pitcher)

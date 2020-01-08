@@ -1,0 +1,6 @@
+"F1: 0.20000","Precision: 0.20000","Recall: 0.20000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","3","DÃ­as contados","http://dbpedia.org/resource/Días_contados_(film)","http://dbpedia.org/resource/Días_contados"
+"0","4","La PasiÃ³n Turca","http://dbpedia.org/resource/The_Turkish_Passion","http://dbpedia.org/resource/La_Pasión_Turca"
+"0","5","Memory of Water","http://dbpedia.org/resource/The_Memory_of_Water_(film)","http://dbpedia.org/resource/Memory_of_Water_(film) http://dbpedia.org/resource/La_Memoria_del_agua_(1994_film) http://dbpedia.org/resource/La_memoria_del_agua"
+"0","7","Cradle Song","http://dbpedia.org/resource/Cradle_Song_(1933_film)","http://dbpedia.org/resource/Cradle_Song_(1994_film) http://dbpedia.org/resource/Canción_de_cuna_(1994_film)"

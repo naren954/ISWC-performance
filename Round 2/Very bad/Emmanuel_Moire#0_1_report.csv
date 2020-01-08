@@ -1,0 +1,4 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,3,L'Ã\u0089quilibre,,http://dbpedia.org/resource/L'équilibre_(Emmanuel_Moire_album)
+1,4,Le chemin,http://dbpedia.org/resource/Le_Chemin_(song),http://dbpedia.org/resource/Le_chemin_(Emmanuel_Moire_album)

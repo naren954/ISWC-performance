@@ -1,0 +1,3 @@
+F1: 0.85714,Precision: 0.85714,Recall: 0.85714,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,6,X,http://dbpedia.org/resource/Los_Lagos_Region,http://dbpedia.org/resource/X_(roller_coaster) http://dbpedia.org/resource/X:/No_Way_Out http://dbpedia.org/resource/X:_No_Way_Out http://dbpedia.org/resource/X:\_No_Way_Out http://dbpedia.org/resource/X:/_No_Way_Out

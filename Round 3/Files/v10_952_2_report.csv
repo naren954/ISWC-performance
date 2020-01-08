@@ -1,0 +1,5 @@
+"F1: 0.70000","Precision: 0.70000","Recall: 0.70000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"2","4","M. Bayh","http://dbpedia.org/resource/Birch_Bayh","http://dbpedia.org/resource/Marvella_Hern http://dbpedia.org/resource/Marvella_Bayh"
+"2","6","D. Sinatra","http://dbpedia.org/resource/Frank_Sinatra","http://dbpedia.org/resource/Natalina_""Dolly""_Garaventa http://dbpedia.org/resource/Natalina_Garaventa http://dbpedia.org/resource/Dolly_Sinatra"
+"2","7","United Kingdom general election, 1923","http://dbpedia.org/resource/Next_United_Kingdom_general_election","http://dbpedia.org/resource/1923_general_election_(UK) http://dbpedia.org/resource/UK_general_election,_1923 http://dbpedia.org/resource/United_Kingdom_general_election,_1923 http://dbpedia.org/resource/1923_UK_general_election http://dbpedia.org/resource/UK_1923_general_election"

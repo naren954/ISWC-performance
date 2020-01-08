@@ -1,0 +1,4 @@
+F1: 0.33333,Precision: 0.33333,Recall: 0.33333,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,"Kampen, Kampen","http://dbpedia.org/resource/Kampen,_Overijssel",http://dbpedia.org/resource/Kampen_railway_station
+0,3,"Zwolle, Zwolle",http://dbpedia.org/resource/Zwolle,http://dbpedia.org/resource/Zwolle_railway_station

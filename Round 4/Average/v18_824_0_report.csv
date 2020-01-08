@@ -1,0 +1,4 @@
+F1: 0.66667,Precision: 0.66667,Recall: 0.66667,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,4,D. Ward,http://dbpedia.org/resource/David_Ward_(British_politician),http://dbpedia.org/resource/Charles_Ward_(NZ_politician) http://dbpedia.org/resource/Charles_Dudley_Robert_Ward http://dbpedia.org/resource/Dudley_Ward_(judge) http://dbpedia.org/resource/Charles_Ward_(politician)
+0,5,B. O'Keefe,http://dbpedia.org/resource/Michael_O'Keefe,http://dbpedia.org/resource/Barry_O'Keefe

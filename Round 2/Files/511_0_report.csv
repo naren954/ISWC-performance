@@ -1,0 +1,4 @@
+"F1: 0.98095","Precision: 0.98095","Recall: 0.98095"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","75","Kokoda big-eyed tree frog","http://dbpedia.org/resource/Nyctimystes_avocalis","http://dbpedia.org/resource/Kokoda_Big-eyed_Tree_Frog http://dbpedia.org/resource/Nyctimystes_semipalmatus http://dbpedia.org/resource/Kokoda_big-eyed_tree_frog"
+"0","77","Koa Tao Island caecilian","http://dbpedia.org/resource/Billiton_Island_caecilian","http://dbpedia.org/resource/Ichthyophis_kohtaoensis http://dbpedia.org/resource/Koa_Tao_Island_caecilian"

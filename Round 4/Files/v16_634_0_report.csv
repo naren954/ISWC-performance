@@ -1,0 +1,7 @@
+"F1: 0.85714","Precision: 0.85714","Recall: 0.85714"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","5","J. Bradley","http://dbpedia.org/resource/Joe_Bradley_(basketball)","http://dbpedia.org/resource/Jim_Bradley_(basketball)"
+"0","6","J. Barnes","http://dbpedia.org/resource/Jack_Barnes_(English_footballer)","http://dbpedia.org/resource/Bad_News_Barnes http://dbpedia.org/resource/Jim_Barnes_(basketball)"
+"0","14","J. Anderson","http://dbpedia.org/resource/J._J._Anderson","http://dbpedia.org/resource/Jerome_Anderson_(basketball)"
+"0","28","J. Turner","http://dbpedia.org/resource/Jack_Turner_(basketball,_born_1930)","http://dbpedia.org/resource/Jack_Turner_(basketball,_born_1939)"
+"0","31","J. Sullivan","http://dbpedia.org/resource/John_Sullivan_(shortstop)","http://dbpedia.org/resource/John_F._Sullivan http://dbpedia.org/resource/Jack_Sullivan_(basketball)"

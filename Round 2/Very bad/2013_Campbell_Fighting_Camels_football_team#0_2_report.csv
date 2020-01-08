@@ -1,0 +1,8 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,2,Virginia-Wise*,,http://dbpedia.org/resource/Virginia_Wise_Highland_Cavaliers http://dbpedia.org/resource/Virginia–Wise_Highland_Cavaliers_football http://dbpedia.org/resource/Virginia–Wise_Highland_Cavaliers http://dbpedia.org/resource/Highland_Cavaliers http://dbpedia.org/resource/UVa_Wise_Highland_Cavaliers http://dbpedia.org/resource/UVa-Wise_Highland_Cavaliers http://dbpedia.org/resource/Virginia-Wise_Highland_Cavaliers http://dbpedia.org/resource/UVA-Wise_Highland_Cavaliers_football http://dbpedia.org/resource/Virginia-Wise_Highland_Cavaliers_football
+2,3,Charleston Southern*,http://dbpedia.org/resource/2016_Charleston_Southern_Buccaneers_football_team,http://dbpedia.org/resource/2013_Charleston_Southern_Buccaneers_football_team
+2,5,Morehead State,http://dbpedia.org/resource/2015_Morehead_State_Eagles_football_team,http://dbpedia.org/resource/2013_Morehead_State_Eagles_football_team
+2,7,Jacksonville,http://dbpedia.org/resource/2015–16_Jacksonville_Dolphins_men's_basketball_team,http://dbpedia.org/resource/2013_Jacksonville_Dolphins_football_team
+2,8,Mercer,http://dbpedia.org/resource/Mercer_Bears,http://dbpedia.org/resource/2013_Mercer_Bears_football_team
+2,10,Marist,http://dbpedia.org/resource/2014_Marist_Red_Foxes_football_team,http://dbpedia.org/resource/2013_Marist_Red_Foxes_football_team

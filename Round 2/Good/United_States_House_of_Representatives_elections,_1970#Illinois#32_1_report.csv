@@ -1,0 +1,5 @@
+F1: 0.92683,Precision: 0.92683,Recall: 0.92683,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,14,John J. Rooney,http://dbpedia.org/resource/John_J._Rooney_(politician),http://dbpedia.org/resource/John_J._Rooney http://dbpedia.org/resource/John_James_Rooney
+1,33,Robert C. McEwen,http://dbpedia.org/resource/John_McEwen,http://dbpedia.org/resource/Robert_C._McEwen http://dbpedia.org/resource/Robert_Cameron_McEwen
+1,35,Howard W. Robison,http://dbpedia.org/resource/Howard_Cannon,http://dbpedia.org/resource/Howard_Robison http://dbpedia.org/resource/Howard_Winfield_Robison http://dbpedia.org/resource/Howard_W._Robison

@@ -1,0 +1,4 @@
+"F1: 0.84615","Precision: 0.84615","Recall: 0.84615"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","3","B. Moore","http://dbpedia.org/resource/Jenny_Moore","http://dbpedia.org/resource/Belle_Moore http://dbpedia.org/resource/Isabella_Moore"
+"0","4","B. Kerr","http://dbpedia.org/resource/Bertie_Kerr","http://dbpedia.org/resource/Beatrice_Williams http://dbpedia.org/resource/Beatrice_Kerr http://dbpedia.org/resource/Beatrice_Maude_Kerr http://dbpedia.org/resource/Beatrice_Maude_Williams"

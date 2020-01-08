@@ -1,0 +1,8 @@
+"F1: 0.79310","Precision: 0.79310","Recall: 0.79310"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","1","W. Wilson","http://dbpedia.org/resource/Whayne_Wilson","http://dbpedia.org/resource/Woody_Wilson_(driver) http://dbpedia.org/resource/Woodrow_Wilson_(racing_driver) http://dbpedia.org/resource/Woodie_Wilson"
+"0","13","R. Earnhardt","http://dbpedia.org/resource/Dale_Earnhardt","http://dbpedia.org/resource/Ralph_Earnhardt http://dbpedia.org/resource/Ralph_Lee_Earnhardt"
+"0","16","M. Teague","http://dbpedia.org/resource/Marshall_Teague_(racing_driver)","http://dbpedia.org/resource/Marshall_Teague"
+"0","23","J. Crawford","http://dbpedia.org/resource/Jim_Crawford_(racing_driver)","http://dbpedia.org/resource/Jimmy_Crawford_(NASCAR_driver) http://dbpedia.org/resource/Jimmy_Crawford_(NASCAR) http://dbpedia.org/resource/Jimmy_Crawford_(racing_driver)"
+"0","25","J. Smith","http://dbpedia.org/resource/Jack_Smith_(outfielder)","http://dbpedia.org/resource/Jack_Smith_(racing_driver) http://dbpedia.org/resource/Jack_Smith_(NASCAR) http://dbpedia.org/resource/Jack_Smith_(NASCAR_driver)"
+"0","27","J. Thomas","http://dbpedia.org/resource/Johnny_Thomas_(footballer)","http://dbpedia.org/resource/Jabe_Thomas"

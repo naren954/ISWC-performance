@@ -1,0 +1,14 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+6,1,Michelsen Vâ\u0080\u0093Hâ\u0080\u0093MV,,http://dbpedia.org/resource/Michelsen's_Cabinet
+6,3,Knudsen I V,http://dbpedia.org/resource/William_S._Knudsen,http://dbpedia.org/resource/Knudsen's_First_Cabinet
+6,4,Konow Hâ\u0080\u0093FV,http://dbpedia.org/resource/C0_and_C1_control_codes,http://dbpedia.org/resource/Konow's_Cabinet
+6,5,Bratlie Hâ\u0080\u0093FV,,http://dbpedia.org/resource/Bratlie's_Cabinet
+6,7,Bahr Halvorsen I Hâ\u0080\u0093FV,,http://dbpedia.org/resource/Bahr_Halvorsen's_First_Cabinet
+6,9,Bahr Halvorsen II Hâ\u0080\u0093FV,,http://dbpedia.org/resource/Bahr_Halvorsen's_Second_Cabinet
+6,11,Mowinckel I V,http://dbpedia.org/resource/V,http://dbpedia.org/resource/Mowinckel's_First_Cabinet
+6,12,Lykke Hâ\u0080\u0093FV,http://dbpedia.org/resource/C0_and_C1_control_codes,http://dbpedia.org/resource/Lykke's_Cabinet
+6,13,Hornsrud Ap,http://dbpedia.org/resource/Autopista_AP-8,http://dbpedia.org/resource/Hornsrud's_Cabinet
+6,14,Mowinckel II V,http://dbpedia.org/resource/Theobald_II_of_Navarre,http://dbpedia.org/resource/Mowinckel's_Second_Cabinet
+6,17,Mowinckel III V,http://dbpedia.org/resource/Antiochus_III_the_Great,http://dbpedia.org/resource/Mowinckel's_Third_Cabinet
+6,18,Nygaardsvold Ap,http://dbpedia.org/resource/Autopista_AP-8,http://dbpedia.org/resource/Nygaardsvold's_Cabinet

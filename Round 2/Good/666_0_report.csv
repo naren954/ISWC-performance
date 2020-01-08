@@ -1,0 +1,35 @@
+F1: 0.80588,Precision: 0.80588,Recall: 0.80588,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,7,M. Morris,http://dbpedia.org/resource/Marcus_Morris_Sr.,http://dbpedia.org/resource/Markieff_Morris
+0,8,M. Brown,"http://dbpedia.org/resource/Mike_Brown_(ice_hockey,_born_1985)",http://dbpedia.org/resource/Markel_Brown
+0,18,M. Williams,http://dbpedia.org/resource/Marvin_Williams,"http://dbpedia.org/resource/Marcus_Williams_(Connecticut_Huskies) http://dbpedia.org/resource/Marcus_Williams_(born_1985) http://dbpedia.org/resource/Marcus_Williams_(UConn) http://dbpedia.org/resource/Marcus_Williams_(University_of_Connecticut) http://dbpedia.org/resource/Marcus_Darrell_Williams http://dbpedia.org/resource/(Marcus_Williams_(Connecticut_Huskies) http://dbpedia.org/resource/Marcus_Williams_(basketball_player,_born_1985) http://dbpedia.org/resource/Marcus_Williams_(New_Jersey_Nets) http://dbpedia.org/resource/Marcus_Williams_(UConn_Huskies) http://dbpedia.org/resource/Marcus_Williams_(Nets) http://dbpedia.org/resource/Marcus_Williams_(basketball,_born_1985)"
+0,19,Marcus Vinicius de Souza,http://dbpedia.org/resource/Marquinhos_Vieira,http://dbpedia.org/resource/Marcus_Vinicius_(basketball) http://dbpedia.org/resource/Marcus_Vinicius_de_Souza http://dbpedia.org/resource/Marcus_Vinicius_Vieira_de_Souza http://dbpedia.org/resource/Marcus_Vinicius_de_Souza_(basketball) http://dbpedia.org/resource/Maquinhos
+0,22,M. Morris,http://dbpedia.org/resource/Marcus_Morris_Sr.,http://dbpedia.org/resource/Marcus_Morris_(basketball)
+0,23,M. Eriksson,http://dbpedia.org/resource/Magdalena_Eriksson,http://dbpedia.org/resource/Marcus_Eriksson_(basketball)
+0,32,M. Beasley,http://dbpedia.org/resource/Michael_Beasley,http://dbpedia.org/resource/Malik_Beasley
+0,35,M. Lucas,http://dbpedia.org/resource/Maurice_Lucas,http://dbpedia.org/resource/Maggie_Lucas
+0,40,L. Walton,http://dbpedia.org/resource/Lloyd_Walton,http://dbpedia.org/resource/Luke_Walton http://dbpedia.org/resource/Luke_Theodore_Walton http://dbpedia.org/resource/Luke_walton
+0,46,L. Williams,http://dbpedia.org/resource/Latoya_Williams,http://dbpedia.org/resource/Lou_Williams http://dbpedia.org/resource/Lou_williams http://dbpedia.org/resource/Lou_Will
+0,47,L. Brown,http://it.dbpedia.org/resource/La'Shawn_Brown,http://dbpedia.org/resource/Lorenzo_Brown
+0,50,L. Hunter,http://dbpedia.org/resource/Les_Hunter_(basketball),http://dbpedia.org/resource/Lindsey_Hunter
+0,60,L. Allen,http://dbpedia.org/resource/Lucius_Allen,http://dbpedia.org/resource/Lavoy_Allen
+0,61,L. Williams,http://dbpedia.org/resource/Latoya_Williams,http://dbpedia.org/resource/Latavious_Williams
+0,67,L. Sanders,http://dbpedia.org/resource/Larry_Sanders_(basketball),http://dbpedia.org/resource/Latoya_Sanders http://dbpedia.org/resource/Lara_Sanders http://dbpedia.org/resource/LaToya_Sanders http://dbpedia.org/resource/LaToya_Pringle
+0,76,K. Anderson,http://dbpedia.org/resource/Kenny_Anderson_(basketball),http://dbpedia.org/resource/Kyle_Anderson_(basketball) http://dbpedia.org/resource/Kyle_Anderson_(basketball_player)
+0,88,K. Gaucher,http://dbpedia.org/resource/Philippe_Gaucher,http://dbpedia.org/resource/Kim_Smith_(basketball) http://dbpedia.org/resource/Kimberley_Smith_(basketball) http://dbpedia.org/resource/Kim_Gaucher
+0,89,K. Anderson,http://dbpedia.org/resource/Kenny_Anderson_(basketball),http://dbpedia.org/resource/Kim_Anderson_(basketball)
+0,109,K. Hampton,http://dbpedia.org/resource/Kym_Hampton,http://dbpedia.org/resource/Keisha_Hampton
+0,112,K. Alexander,http://dbpedia.org/resource/Kwame_Alexander_(basketball),http://dbpedia.org/resource/Kayla_Alexander
+0,115,K. Smith,http://dbpedia.org/resource/Kenny_Smith,http://dbpedia.org/resource/Katie_Smith
+0,117,K. Christmas,http://dbpedia.org/resource/Karima_Christmas-Kelly,http://dbpedia.org/resource/Karima_Christmas
+0,121,J. Howard,http://dbpedia.org/resource/Josh_Howard,http://dbpedia.org/resource/Juwan_Howard http://dbpedia.org/resource/Juwon_Howard http://dbpedia.org/resource/Juwan_Antonio_Howard
+0,125,J. Hamilton,http://dbpedia.org/resource/Joe_Hamilton_(basketball),"http://dbpedia.org/resource/Justin_Hamilton_(basketball,_born_1990)"
+0,126,J. Anderson,http://dbpedia.org/resource/J._J._Anderson,http://dbpedia.org/resource/Justin_Anderson_(basketball)
+0,129,J. Wright,http://dbpedia.org/resource/John_Wright_(ice_hockey),http://dbpedia.org/resource/Julian_Wright http://dbpedia.org/resource/Julian_Emil-Jamaal_Wright
+0,141,J. Williams,http://dbpedia.org/resource/Justin_Williams_(basketball),http://dbpedia.org/resource/Jordan_Williams_(basketball)
+0,145,J. Hill,http://dbpedia.org/resource/Jo_Hill,http://dbpedia.org/resource/Jordan_Hill_(basketball)
+0,147,J. Crawford,http://dbpedia.org/resource/Jamal_Crawford,http://dbpedia.org/resource/Jordan_Crawford
+0,149,J. Adams,http://dbpedia.org/resource/Jamie_Adams,http://dbpedia.org/resource/Jordan_Adams_(basketball_player) http://dbpedia.org/resource/Jordan_Adams
+0,160,J. Jenkins,http://dbpedia.org/resource/Jordan_Jenkins,http://dbpedia.org/resource/John_Jenkins_(basketball)
+0,164,J. Wright,http://dbpedia.org/resource/John_Wright_(ice_hockey),http://dbpedia.org/resource/Joey_Wright
+0,169,J. Young,http://dbpedia.org/resource/Jahmar_Young,http://dbpedia.org/resource/Joe_Young_(basketball) http://dbpedia.org/resource/Joe_Young_(basketball_player) http://dbpedia.org/resource/Joseph_Young_(basketball)

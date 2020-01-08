@@ -1,0 +1,9 @@
+F1: 0.89394,Precision: 0.89394,Recall: 0.89394,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,21,Phantom,http://dbpedia.org/resource/The_Phantom_of_the_Opera,http://dbpedia.org/resource/Phantom_(Sword_of_Truth)
+1,36,The Breaks,http://dbpedia.org/resource/The_Breaks_(2016_film),http://dbpedia.org/resource/The_Breaks_(novel)
+1,40,Metropolitan,http://dbpedia.org/resource/Metropolitan_(band),http://dbpedia.org/resource/Metropolitan_(book) http://dbpedia.org/resource/Metropolitan_(novel)
+1,44,The Crossing,http://dbpedia.org/resource/The_Crossing_(TV_series),http://dbpedia.org/resource/The_Crossing_(McCarthy_novel) http://dbpedia.org/resource/The_Crossing_(Cormac_McCarthy_novel)
+1,51,The Sparrow,http://dbpedia.org/resource/Little_Sparrow,http://dbpedia.org/resource/The_Sparrow_(book) http://dbpedia.org/resource/The_Sparrow_(1996) http://dbpedia.org/resource/The_Sparrow_(novel)
+1,61,Haunted,http://dbpedia.org/resource/Haunted_(Angel_novel),http://dbpedia.org/resource/Haunted_(Armstrong_novel)
+1,63,Thin Air,http://dbpedia.org/resource/Thin_Air_(novel),http://dbpedia.org/resource/Thin_Air_(Star_Trek)

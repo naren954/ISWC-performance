@@ -1,0 +1,8 @@
+F1: 0.92857,Precision: 0.92857,Recall: 0.92857,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,9,Bill Bottrell,http://dbpedia.org/resource/Marie_Bottrell,http://dbpedia.org/resource/Bottrell http://dbpedia.org/resource/Bill_Bottrell
+2,13,Randy Scruggs,http://dbpedia.org/resource/Earl_Scruggs,http://dbpedia.org/resource/Randy_Scruggs
+2,29,John Porter,http://dbpedia.org/resource/John_Porter_(British-Polish_musician),http://dbpedia.org/resource/John_Porter_(musician) http://dbpedia.org/resource/John_Porter_(record_producer) http://dbpedia.org/resource/John_Porter_(English_musician) http://dbpedia.org/resource/John_Porter_(record_producer_and_musician) http://dbpedia.org/resource/John_Porter_(musician_and_record_producer) http://dbpedia.org/resource/John_Porter_(British_musician)
+2,33,Dust Brothers,http://dbpedia.org/resource/The_Chemical_Brothers,http://dbpedia.org/resource/Dust_Brothers http://dbpedia.org/resource/The_Dust_Brothers
+2,37,Rock Mafia,http://dbpedia.org/resource/Three_6_Mafia,http://dbpedia.org/resource/Rock_Mafia
+2,41,Brown Bannister,http://dbpedia.org/resource/Roger_Bannister,http://dbpedia.org/resource/Brown_Bannister http://dbpedia.org/resource/Brown_bannister

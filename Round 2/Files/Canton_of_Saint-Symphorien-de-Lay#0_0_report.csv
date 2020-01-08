@@ -1,0 +1,5 @@
+"F1: 0.81250","Precision: 0.81250","Recall: 0.81250"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","4","Fourneaux","http://dbpedia.org/resource/Fourneaux,_Savoie","http://dbpedia.org/resource/Fourneaux,_Loire"
+"0","5","Lay","http://dbpedia.org/resource/Lay-Lamidou","http://dbpedia.org/resource/Lay,_Loire"
+"0","9","Pradines","http://dbpedia.org/resource/Baraqueville","http://dbpedia.org/resource/Pradines,_Loire"

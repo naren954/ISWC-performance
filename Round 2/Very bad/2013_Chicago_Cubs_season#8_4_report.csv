@@ -1,0 +1,27 @@
+F1: 0.07407,Precision: 0.07407,Recall: 0.07407,,
+Col,Row,Value,Submitted URI,Correct URI's
+4,1,Otero (1-0),http://dbpedia.org/resource/Otero_(Spain),http://dbpedia.org/resource/Dan_Otero http://dbpedia.org/resource/Danny_Otero
+4,2,Garza (4-1),http://dbpedia.org/resource/San_Pedro_Garza_García,http://dbpedia.org/resource/Matthew_Albidrez-Garza http://dbpedia.org/resource/Matt_Garza
+4,3,Straily (5-1),http://dbpedia.org/resource/Signe_Marie_Stray_Ryssdal,http://dbpedia.org/resource/Dan_Straily http://dbpedia.org/resource/Daniel_Straily http://dbpedia.org/resource/Daniel_Steven_Straily
+4,5,Jackson (5-10),"http://dbpedia.org/resource/Jackson,_Mississippi",http://dbpedia.org/resource/Edwin_Jackson
+4,6,Guerrier (3-4),http://dbpedia.org/resource/Vladimir_Guerrier,http://dbpedia.org/resource/Matt_Guerrier
+4,7,Garza (5-1),http://dbpedia.org/resource/San_Pedro_Garza_García,http://dbpedia.org/resource/Matthew_Albidrez-Garza http://dbpedia.org/resource/Matt_Garza
+4,8,Wood (6-6),"http://dbpedia.org/resource/Wood_County,_Wisconsin",http://dbpedia.org/resource/Travis_Wood
+4,9,Wilson (9-6),http://dbpedia.org/resource/Woodrow_Wilson,http://dbpedia.org/resource/C.J._Wilson_(baseball) http://dbpedia.org/resource/C._J._Wilson_(baseball) http://dbpedia.org/resource/C.J._Wilson http://dbpedia.org/resource/C_J_Wilson http://dbpedia.org/resource/C._J._Wilson http://dbpedia.org/resource/CJ_Wilson
+4,10,Jackson (6-10),"http://dbpedia.org/resource/Jackson,_Mississippi",http://dbpedia.org/resource/Edwin_Jackson
+4,11,Kelly (1-3),http://dbpedia.org/resource/Gene_Kelly,http://dbpedia.org/resource/Joe_Kelly_(pitcher) http://dbpedia.org/resource/Joseph_William_Kelly
+4,12,Garza (6-1),http://dbpedia.org/resource/San_Pedro_Garza_García,http://dbpedia.org/resource/Matthew_Albidrez-Garza http://dbpedia.org/resource/Matt_Garza
+4,13,Mujica (2-1),http://dbpedia.org/resource/José_Mujica,http://dbpedia.org/resource/Edward_Mujica
+4,15,Nicasio (6-4),"http://dbpedia.org/resource/Nicasio,_California",http://dbpedia.org/resource/Juan_Nicasio
+4,16,Chatwood (6-3),http://dbpedia.org/resource/Andrew_Chatwood,http://dbpedia.org/resource/Tyler_Chatwood
+4,17,Rusin (1-0),http://dbpedia.org/resource/Rusín,http://dbpedia.org/resource/Chris_Rusin
+4,18,Corbin (12â\u0080\u00931),http://dbpedia.org/resource/Corbins,http://dbpedia.org/resource/Patrick_Corbin http://dbpedia.org/resource/Patrick_Corbin_(baseball)
+4,19,Rondon (2â\u0080\u00930),http://dbpedia.org/resource/Marechal_Cândido_Rondon,http://dbpedia.org/resource/Hector_Rondon http://dbpedia.org/resource/Héctor_Rondón
+4,20,Miley (7â\u0080\u00938),http://dbpedia.org/resource/Miley_Cyrus,http://dbpedia.org/resource/Wade_Allen_Miley http://dbpedia.org/resource/Wade_Miley
+4,21,Guerrier (4-4),http://dbpedia.org/resource/Vladimir_Guerrier,http://dbpedia.org/resource/Matt_Guerrier
+4,22,Strop (1-3),http://dbpedia.org/resource/Stroppo,http://dbpedia.org/resource/Pedro_Strop
+4,23,Wood (7-7),"http://dbpedia.org/resource/Wood_County,_Wisconsin",http://dbpedia.org/resource/Travis_Wood
+4,24,Kintzler (3-0),http://fr.dbpedia.org/resource/Catherine_Kintzler,http://dbpedia.org/resource/Kintzler http://dbpedia.org/resource/Brandon_Kintzler
+4,25,Wooten (1-0),http://dbpedia.org/resource/Victor_Wooten,http://dbpedia.org/resource/Rob_Wooten
+4,26,Badenhop (2-3),http://de.dbpedia.org/resource/Matthias_Badenhop,http://dbpedia.org/resource/Badenhop http://dbpedia.org/resource/Burke_Badenhop
+4,27,Jackson (7-11),"http://dbpedia.org/resource/Jackson,_Mississippi",http://dbpedia.org/resource/Edwin_Jackson

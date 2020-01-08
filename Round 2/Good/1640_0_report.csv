@@ -1,0 +1,6 @@
+F1: 0.95506,Precision: 0.95506,Recall: 0.95506,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,12,V. Chanov,http://dbpedia.org/resource/Viktor_Chanov,http://dbpedia.org/resource/Vyacheslav_Chanov
+0,18,V. Voynov,http://dbpedia.org/resource/Yuriy_Voynov,http://dbpedia.org/resource/Voyn_Voynov http://dbpedia.org/resource/Voin_Voinov
+0,58,V. Weiss,"http://dbpedia.org/resource/Vladimír_Weiss_(footballer,_born_1939)","http://dbpedia.org/resource/Vladimir_Weiss_(footballer,_born_1964) http://dbpedia.org/resource/Vladimír_Weiss_(born_1964) http://dbpedia.org/resource/Vladimir_Weiss_(footballer_born_1964) http://dbpedia.org/resource/Vladimír_Weiss_II http://dbpedia.org/resource/Vladimír_Weiss_(footballer,_born_1964) http://dbpedia.org/resource/Vladimír_Weiss_(footballer_born_1964)"
+0,66,V. V. Gerasimov,"http://dbpedia.org/resource/Vladimir_Gerasimov_(footballer,_born_1975)",http://dbpedia.org/resource/Vladimir_Vladimirovich_Gerasimov

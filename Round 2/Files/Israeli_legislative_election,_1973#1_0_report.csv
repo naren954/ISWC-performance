@@ -1,0 +1,7 @@
+"F1: 0.66667","Precision: 0.66667","Recall: 0.66667"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","1","Alignment 1 4 5 6","nan","http://dbpedia.org/resource/Labour_Alignment http://dbpedia.org/resource/Alignment_(Israel) http://dbpedia.org/resource/Ma'arach http://dbpedia.org/resource/Alignment_(political_party) http://dbpedia.org/resource/Labor_Alignment"
+"0","3","National Religious Party","http://dbpedia.org/resource/National_Party_of_Australia","http://dbpedia.org/resource/National_Religious_Front http://dbpedia.org/resource/MAFDAL http://dbpedia.org/resource/National_Religious_Party http://dbpedia.org/resource/Mafdal"
+"0","7","Ratz 1","http://dbpedia.org/resource/Jenő_Rátz","http://dbpedia.org/resource/Ratz_(political_party) http://dbpedia.org/resource/Movement_for_Civil_Rights_and_Peace"
+"0","8","Progress and Development 4","nan","http://dbpedia.org/resource/Progress_and_Development"
+"0","12","Black Panthers","http://dbpedia.org/resource/Black_Panther_Party","http://dbpedia.org/resource/Israeli_Black_Panther http://dbpedia.org/resource/Black_Panthers_(Israel) http://dbpedia.org/resource/HaPanterim_HaSHkhorim http://dbpedia.org/resource/Israeli_Black_Panthers"

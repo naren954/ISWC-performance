@@ -1,0 +1,58 @@
+F1: 0.66467,Precision: 0.66467,Recall: 0.66467,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,2,Before the Storm,http://dbpedia.org/resource/Before_the_Storm_(Darude_album),http://dbpedia.org/resource/Before_The_Storm_(Jack_Savoretti_album) http://dbpedia.org/resource/Before_the_Storm_(Jack_Savoretti_album)
+1,3,About Time,http://dbpedia.org/resource/About_Time_(Pennywise_album),http://dbpedia.org/resource/About_Time_(Stranglers_album) http://dbpedia.org/resource/About_Time_(Stranglers) http://dbpedia.org/resource/About_Time_(Stranglers_Album) http://dbpedia.org/resource/About_Time_(The_Stranglers_album)
+1,6,Omen,http://dbpedia.org/resource/Omen_(Soulfly_album),http://dbpedia.org/resource/Omen_(Disclosure_song) http://dbpedia.org/resource/Omen_(Disclosure)
+1,7,Glory Days,http://dbpedia.org/resource/Glory_Days_(Bruce_Springsteen_song),http://dbpedia.org/resource/Glory_Days_(Just_Jack_song)
+1,10,Meanwhile,http://dbpedia.org/resource/...Meanwhile,http://dbpedia.org/resource/Meanwhile_(song)
+1,11,The Life,http://es.dbpedia.org/resource/Good_Life_(canción_de_Jesse_McCartney),http://dbpedia.org/resource/The_Life_(Fifth_Harmony_song)
+1,14,Love Letter,http://dbpedia.org/resource/Love_Letter_(Gackt_album),http://dbpedia.org/resource/Love_Letter_(R._Kelly_song) http://dbpedia.org/resource/Love_letter_r http://dbpedia.org/resource/Love_Letter_(R._Kelly_album)
+1,15,I Hate Mondays,http://dbpedia.org/resource/Hate_That_I_Love_You,http://dbpedia.org/resource/I_Hate_Mondays_(song)
+1,20,I Believe,http://dbpedia.org/resource/I_Believe_(R._Kelly_song),http://dbpedia.org/resource/I_Believe_(Diamond_Rio_song)
+1,21,In the End,http://dbpedia.org/resource/In_the_End,http://dbpedia.org/resource/In_The_End_(Black_Veil_Brides_Song) http://dbpedia.org/resource/In_the_End_(Black_Veil_Brides_song)
+1,23,Bloodletting,http://dbpedia.org/resource/Bloodletting_(Concrete_Blonde_album),http://dbpedia.org/resource/Bloodletting_(Overkill_album)
+1,27,The Promise,"http://dbpedia.org/resource/The_Promise_(Earth,_Wind_&_Fire_album)",http://dbpedia.org/resource/Ain't_Good_Enough_for_You http://dbpedia.org/resource/Save_My_Love http://dbpedia.org/resource/Gotta_Get_That_Feeling http://dbpedia.org/resource/Candy's_Boy http://dbpedia.org/resource/The_Promise_(Bruce_Springsteen_album)
+1,32,Awakening,http://dbpedia.org/resource/Awakening_(Blessthefall_album),http://dbpedia.org/resource/Awakening_(Iris_album)
+1,35,Hand on Heart,http://dbpedia.org/resource/The_Mediator_Between_Head_and_Hands_Must_Be_the_Heart,http://dbpedia.org/resource/Hand_on_Heart_(Olly_Murs_song) http://dbpedia.org/resource/Hand_on_Heart_(song) http://dbpedia.org/resource/Hand_on_Heart
+1,38,It Just Comes Natural,http://dbpedia.org/resource/It_Just_Comes_Natural,http://dbpedia.org/resource/It_Just_Comes_Natural_(song)
+1,39,The Heat Is On,http://dbpedia.org/resource/The_Heat_Is_On_(Glenn_Frey_song),http://dbpedia.org/resource/The_Heat_Is_On_(Agnetha_song)
+1,42,Fantasy,http://dbpedia.org/resource/Fantasy_(Candy_Lo_album),http://dbpedia.org/resource/Corazón_(Carole_King_song) http://dbpedia.org/resource/Fantasy_(Carole_King_album)
+1,43,Call on Me,http://dbpedia.org/resource/Call_on_Me_(Janet_Jackson_song),http://dbpedia.org/resource/Call_on_Me_(Eric_Prydz_song) http://dbpedia.org/resource/Call_On_Me_(Eric_Prydz_single)
+1,49,2 Hearts,http://dbpedia.org/resource/2_Hearts_(Toto_song),http://dbpedia.org/resource/2_Hearts_(Kylie_Minogue_song)
+1,50,Endless,http://dbpedia.org/resource/Endless_(EP),http://dbpedia.org/resource/Endless_(Inna_song)
+1,51,Dreams,http://dbpedia.org/resource/Dreams_(Van_Halen_song),http://dbpedia.org/resource/Dreams_(Beck_song)
+1,56,Number 1,http://dbpedia.org/resource/Number_1_(Big_Bang_album),http://dbpedia.org/resource/Number_1_(N-Dubz_&_Tinchy_Stryder_song) http://dbpedia.org/resource/Number_1_(Tinchy_Stryder_song)
+1,65,All for You,http://dbpedia.org/resource/All_for_You_(Janet_Jackson_song),http://dbpedia.org/resource/All_for_You_(Ace_of_Base_song) http://dbpedia.org/resource/All_For_You_(Ace_of_Base_song)
+1,67,Mare,http://dbpedia.org/resource/Mare_(band),http://dbpedia.org/resource/Mare_(Diama_Song) http://dbpedia.org/resource/Mare_(Diamá_Song)
+1,68,Ukulele Recordings,http://dbpedia.org/resource/Ukulele_Songs,http://dbpedia.org/resource/Ukulele_Recordings
+1,69,Julia,,http://dbpedia.org/resource/Julia_(Eurythmics_song)
+1,71,Handsome,http://dbpedia.org/resource/Handsome_(song),http://dbpedia.org/resource/Handsome_(Kilburn_and_the_High-Roads_album)
+1,72,Happy Talk,http://dbpedia.org/resource/Happy_Talk_(album),http://dbpedia.org/resource/Happy_Talk_(song) http://dbpedia.org/resource/Happy_Talk_(Captain_Sensible_song)
+1,75,Sledgehammer,http://dbpedia.org/resource/Sledgehammer_(Rihanna_song),http://dbpedia.org/resource/Sledgehammer_(Fifth_Harmony_song)
+1,78,Believe Me,http://dbpedia.org/resource/Believe_Me_(Fort_Minor_song),http://dbpedia.org/resource/Believe_Me_(Lil_Wayne_song)
+1,87,Piano Man,http://dbpedia.org/resource/Piano_Man_(album),http://dbpedia.org/resource/Piano_Man_(song) http://dbpedia.org/resource/Real_estate_novelist
+1,90,Never Ever,http://dbpedia.org/resource/Never_Ever_(Ayumi_Hamasaki_song),http://dbpedia.org/resource/Never_Ever_(Weep_EP)
+1,91,Holy Shit EP,http://dbpedia.org/resource/Holy_Shit_(album),http://dbpedia.org/resource/Holy_Shit_EP_(Haunted_Graffiti_7) http://dbpedia.org/resource/Holy_Shit_(EP) http://dbpedia.org/resource/Ariel_Pink_discography http://dbpedia.org/resource/Ariel_pink_discography http://dbpedia.org/resource/Ariel_Pink_Discography
+1,92,Season's Greetings from moe.,http://dbpedia.org/resource/Season's_Greetings_from_Perry_Como,http://dbpedia.org/resource/Season's_Greetings_from_moe.
+1,106,A Place in the Sun,http://dbpedia.org/resource/A_Place_in_the_Sun_(Tim_McGraw_album),http://dbpedia.org/resource/A_Place_in_the_Sun_(Pablo_Cruise_album)
+1,108,High Lonesome Sound,http://dbpedia.org/resource/High_Lonesome_Sound,http://dbpedia.org/resource/High_Lonesome_Sound_(song)
+1,109,From the Cradle to the Grave,http://dbpedia.org/resource/From_the_Cradle_to_the_Grave_(Rage_song),http://dbpedia.org/resource/From_the_Cradle_to_the_Grave_(album)
+1,111,Like a Child,http://dbpedia.org/resource/Like_a_Child_(Noel_song),http://dbpedia.org/resource/Like_a_Child_(Jars_of_Clay_song) http://dbpedia.org/resource/Like_a_Child
+1,113,Spitfire,http://dbpedia.org/resource/Spitfire_(Jefferson_Starship_album),http://dbpedia.org/resource/Spitfire_(EP) http://dbpedia.org/resource/Spitfire_(Porter_Robinson_album)
+1,115,Starfire,http://dbpedia.org/resource/Valley_of_the_Damned,http://dbpedia.org/resource/Starfire_(album)
+1,120,Queen of My Heart,http://dbpedia.org/resource/Queen_of_My_Heart_(Hank_Williams_Jr._song),http://dbpedia.org/resource/Queen_of_My_Heart http://dbpedia.org/resource/Queen_of_my_Heart
+1,124,Anything,http://dbpedia.org/resource/Anything_(Jay-Z_song),http://dbpedia.org/resource/Anything_(Culture_Beat_song)
+1,127,Lives in the Balance,http://dbpedia.org/resource/Lives_in_the_Balance_(song),http://dbpedia.org/resource/Lives_in_the_Balance
+1,133,The Pillars of the Earth,http://dbpedia.org/resource/Transformers:_Dark_of_the_Moon,http://dbpedia.org/resource/The_Pillars_of_the_Earth_(TV_miniseries) http://dbpedia.org/resource/The_Pillars_of_the_Earth_(miniseries)
+1,134,Man of the Hour,http://dbpedia.org/resource/Squirrel_and_G-Man_Twenty_Four_Hour_Party_People_Plastic_Face_Carnt_Smile_(White_Out),http://dbpedia.org/resource/Man_of_the_Hour_(song) http://dbpedia.org/resource/Man_of_the_hour http://dbpedia.org/resource/Man_of_the_Hour
+1,137,Mean to Me,http://dbpedia.org/resource/Mean_to_Me_(Brett_Eldredge_song),http://dbpedia.org/resource/Mean_To_Me_(1986_song) http://dbpedia.org/resource/Mean_to_Me_(Crowded_House_song) http://dbpedia.org/resource/Mean_to_Me_(1986_song)
+1,138,Escape,http://dbpedia.org/resource/Escape_(Journey_album),http://dbpedia.org/resource/Escape_(Nine_Lashes_album)
+1,142,Landslide,http://dbpedia.org/resource/Landslide_(Olivia_Newton-John_song),http://dbpedia.org/resource/Landslide_(Fleetwood_Mac_song)
+1,145,The Good Life,http://dbpedia.org/resource/The_Good_Life_(Weezer_song),http://dbpedia.org/resource/Good_Life_(Three_Days_Grace_song) http://dbpedia.org/resource/The_Good_Life_(Three_Days_Grace_song)
+1,149,Rise of the Fallen,http://dbpedia.org/resource/Jurassic_World:_Fallen_Kingdom,http://dbpedia.org/resource/Rise_of_the_Fallen
+1,151,Still Life,http://dbpedia.org/resource/Still_Life_(Opeth_album),http://dbpedia.org/resource/Still_Life_(Van_der_Graaf_Generator_album)
+1,156,Still Standing,http://dbpedia.org/resource/Still_Standing_(Monica_album),http://dbpedia.org/resource/Still_Standing_(Goodie_Mob_album)
+1,158,Deep Forest,http://dbpedia.org/resource/Deep_Forest_(Do_As_Infinity_album),http://dbpedia.org/resource/Deep_Forest_(Deep_Forest_album)
+1,162,コレクション,http://dbpedia.org/resource/Never_Forget_–_The_Ultimate_Collection,http://dbpedia.org/resource/コレクション_(Collection)
+1,163,The Very Best Of,http://dbpedia.org/resource/The_Very_Best_Of_(Eagles_album),http://dbpedia.org/resource/The_Very_Best_of_the_Doobie_Brothers http://dbpedia.org/resource/The_Very_Best_Of_(The_Doobie_Brothers_album) http://dbpedia.org/resource/The_Very_Best_of_The_Doobie_Brothers
+1,165,Spanish,http://dbpedia.org/resource/Spanish_Fly_(album),http://dbpedia.org/resource/Spanish_(song)

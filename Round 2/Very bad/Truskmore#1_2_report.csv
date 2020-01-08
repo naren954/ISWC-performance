@@ -1,0 +1,8 @@
+F1: 0.25000,Precision: 0.25000,Recall: 0.25000,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,1,RTÃ\u0089 Radio 1,"http://dbpedia.org/resource/Dawu_County,_Sichuan",http://dbpedia.org/resource/RTÉ_Radio_1
+2,3,RTÃ\u0089 2fm,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/RTÉ_2fm
+2,4,RTÃ\u0089 RaidiÃ³ na Gaeltachta,http://dbpedia.org/resource/U-mutation,http://dbpedia.org/resource/RTÉ_Raidió_na_Gaeltachta
+2,5,Today FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/The_Eamon_Lowe_Show http://dbpedia.org/resource/Dermot_and_Dave http://dbpedia.org/resource/Radio_Ireland http://dbpedia.org/resource/Eamon_Lowe_Show http://dbpedia.org/resource/Today_FM
+2,6,Ocean FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/Ocean_FM_(Ireland)
+2,7,iRadio,http://dbpedia.org/resource/WNYC,http://dbpedia.org/resource/IRadio

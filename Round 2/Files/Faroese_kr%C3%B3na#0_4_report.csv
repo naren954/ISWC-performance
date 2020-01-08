@@ -1,0 +1,4 @@
+"F1: 0.50000","Precision: 0.50000","Recall: 0.50000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"4","3","Cod's tail","http://dbpedia.org/resource/Tones_on_Tail","http://dbpedia.org/resource/Cod http://dbpedia.org/resource/Cod_trade http://dbpedia.org/resource/Cod_(fish) http://dbpedia.org/resource/Cod_cheeks http://dbpedia.org/resource/Codfish http://dbpedia.org/resource/Gadus_(genus) http://dbpedia.org/resource/Skrei http://dbpedia.org/resource/Cod_Trade http://dbpedia.org/resource/Cods"
+"4","4","Moth","http://dbpedia.org/resource/Lepidoptera","http://dbpedia.org/resource/Heterocera http://dbpedia.org/resource/Moths http://dbpedia.org/resource/MOTH http://dbpedia.org/resource/Moth_bites http://dbpedia.org/resource/Moth http://dbpedia.org/resource/Miller_(bug)"

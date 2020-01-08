@@ -1,0 +1,5 @@
+"F1: 0.50000","Precision: 0.50000","Recall: 0.50000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","1","Ã\u0096rebro HKk","http://dbpedia.org/resource/Étude_Op._10,_No._1_(Chopin)","http://dbpedia.org/resource/Örebro_HK"
+"0","2","DjurgÃ¥rdens IFk","http://dbpedia.org/resource/IFK_Göteborg","http://dbpedia.org/resource/Djurgårdens_IF_Hockey"
+"0","6","AIKe","http://dbpedia.org/resource/Aike_González","http://dbpedia.org/resource/AIK_Ice_Hockey http://dbpedia.org/resource/AIK_Ishockey http://dbpedia.org/resource/AIK_(ice_hockey) http://dbpedia.org/resource/AIK_IceHockey http://dbpedia.org/resource/AIK_Ishockeyförening http://dbpedia.org/resource/AIK_IF http://dbpedia.org/resource/AIK_Hockey http://dbpedia.org/resource/AIK_Is_hockey"

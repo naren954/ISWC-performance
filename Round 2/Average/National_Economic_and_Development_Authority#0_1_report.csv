@@ -1,0 +1,7 @@
+F1: 0.70588,Precision: 0.70588,Recall: 0.70588,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,6,"Placido Mapa, Jr.",http://dbpedia.org/resource/Placido_Mapa_Jr.,"http://dbpedia.org/resource/Placido_Mapa,_Jr."
+1,8,"Vicente ValdepeÃ±as, Jr.","http://dbpedia.org/resource/Juan_Vicente_de_Güemes,_2nd_Count_of_Revillagigedo","http://dbpedia.org/resource/Vicente_Valdepeñas,_Jr."
+1,17,Augusto Santos (acting),http://dbpedia.org/resource/Augusto_Santos_Silva,http://dbpedia.org/resource/Augusto_Santos
+1,19,Augusto Santos (acting),http://dbpedia.org/resource/Augusto_Santos_Silva,http://dbpedia.org/resource/Augusto_Santos
+1,21,Augusto Santos (acting),http://dbpedia.org/resource/Augusto_Santos_Silva,http://dbpedia.org/resource/Augusto_Santos

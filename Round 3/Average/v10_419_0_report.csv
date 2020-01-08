@@ -1,0 +1,12 @@
+F1: 0.68750,Precision: 0.68750,Recall: 0.68750,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,4,World Without End,http://dbpedia.org/resource/World_Without_End_(film),http://dbpedia.org/resource/World_Without_End_(TV_series) http://dbpedia.org/resource/Knight_(World_Without_End_episode) http://dbpedia.org/resource/World_Without_End_(TV_miniseries) http://dbpedia.org/resource/World_Without_End_(miniseries)
+0,6,World War III,http://dbpedia.org/resource/World_War_III_(film),http://dbpedia.org/resource/World_War_III_(TV_miniseries) http://dbpedia.org/resource/World_War_III_(miniseries)
+0,8,World Premiere,http://dbpedia.org/resource/Union_Pacific_(film),http://dbpedia.org/resource/World_Premiere_(film)
+0,10,Working Girls,http://dbpedia.org/resource/Working_Girl,http://dbpedia.org/resource/Working_Girls_(1986_film)
+0,11,Working Girl,http://dbpedia.org/resource/Working_Girl,http://dbpedia.org/resource/Working_Girl_(TV_series) http://dbpedia.org/resource/Working_Girl:_The_Series
+0,13,Working,http://dbpedia.org/resource/Working!!,http://dbpedia.org/resource/Working_(television_series) http://dbpedia.org/resource/Working_(TV_series) http://dbpedia.org/resource/Working_TV_Show
+0,14,Work,http://dbpedia.org/resource/Work_(Rihanna_song),http://dbpedia.org/resource/Work_(1915_film) http://dbpedia.org/resource/Work_(film) http://dbpedia.org/resource/Work_(Charlie_Chaplin_film)
+0,16,Words and Music,http://dbpedia.org/resource/Words_and_Music_(Roger_Miller_album),http://dbpedia.org/resource/Words_and_Music_(1948_film)
+0,27,Woo,http://dbpedia.org/resource/Woo_(soundtrack),http://dbpedia.org/resource/Woo_(film)
+0,29,Wonderland,http://dbpedia.org/resource/Alice_in_Wonderland_(1951_film),http://dbpedia.org/resource/Wonderland_(TV_series)

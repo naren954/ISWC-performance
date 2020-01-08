@@ -1,0 +1,4 @@
+"F1: 0.75000","Precision: 0.75000","Recall: 0.75000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","4","Ian Marshall","http://dbpedia.org/resource/Ian_Marshall_(English_footballer)","http://dbpedia.org/resource/Ian_Marshall"
+"1","8","Bob Taylor","http://dbpedia.org/resource/Bob_Taylor_(ice_hockey)","http://dbpedia.org/resource/Bob_Taylor_(footballer) http://dbpedia.org/resource/Super_Bob http://dbpedia.org/resource/Bob_Taylor_(Footballer)"

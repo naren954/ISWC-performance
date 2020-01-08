@@ -1,0 +1,7 @@
+F1: 0.54545,Precision: 0.54545,Recall: 0.54545,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Al-Musannah,http://dbpedia.org/resource/Al-Musannah_Sports_City,http://dbpedia.org/resource/Al_Musannah http://dbpedia.org/resource/Al_Msnaa http://dbpedia.org/resource/Al-Mussanah_SC http://dbpedia.org/resource/Al-Mussanah_Club http://dbpedia.org/resource/Al-Musannah_SC
+0,3,Al-Oruba,http://dbpedia.org/resource/Al-Oruba_(Zabid),http://dbpedia.org/resource/Al-Orouba_Club http://dbpedia.org/resource/Al-Oruba_Sur http://dbpedia.org/resource/Al-Orouba_SC http://dbpedia.org/resource/Al-Oruba_SC http://dbpedia.org/resource/Al_Oruba_Sur http://dbpedia.org/resource/Al_Oruba_SC http://dbpedia.org/resource/Al_Orouba_Club
+0,4,Al-Shabab,http://dbpedia.org/resource/Al-Shabab_FC_(Riyadh),http://dbpedia.org/resource/Al-Shabab_Club_(Oman) http://dbpedia.org/resource/Al-Shabab_(Oman) http://dbpedia.org/resource/Al_Shabab_(Oman) http://dbpedia.org/resource/Al-Shabab_SC_(Seeb)
+0,7,Al-Tali'aa,"http://dbpedia.org/resource/Tali,_Estonia",http://dbpedia.org/resource/Al-Tali'aa_SC
+0,11,Al-Hilal,http://dbpedia.org/resource/Al-Hilal_FC,http://dbpedia.org/resource/Al-Hilal_(Salalah) http://dbpedia.org/resource/Salalah_Club http://dbpedia.org/resource/Al-Hilal_Salalah http://dbpedia.org/resource/Salalah_SC

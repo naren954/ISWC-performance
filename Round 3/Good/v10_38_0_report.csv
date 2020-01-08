@@ -1,0 +1,18 @@
+F1: 0.82609,Precision: 0.82609,Recall: 0.82609,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,6,R. Walker,http://dbpedia.org/resource/Roy_Walker_(baseball),http://dbpedia.org/resource/Randy_Walker_(football_coach) http://dbpedia.org/resource/Randy_Walker_(American_football_coach)
+0,15,R. Miller,http://dbpedia.org/resource/Ralph_Miller_(footballer),http://dbpedia.org/resource/Ralph_Miller
+0,19,R. Jones,http://dbpedia.org/resource/Ronnie_Jones_(American_football),http://dbpedia.org/resource/Ralph_Jones http://dbpedia.org/resource/Curley_Jones http://dbpedia.org/resource/Ralph_Jones_(American_football_coach) http://dbpedia.org/resource/Ralph_Jones_(football_coach)
+0,28,R. Davis,http://dbpedia.org/resource/Ralph_Davis_(guard),http://dbpedia.org/resource/Ralph_Davis_(American_football_coach)
+0,29,R. Coleman,http://dbpedia.org/resource/Will_Coleman_(American_football),http://dbpedia.org/resource/Ralph_Coleman
+0,48,P. Smith,http://dbpedia.org/resource/Preston_Smith_(linebacker),http://dbpedia.org/resource/Preston_Smith_(football_coach) http://dbpedia.org/resource/Preston_Smith_(American_football_coach)
+0,50,P. Warner,http://dbpedia.org/resource/Pelham_Warner,"http://dbpedia.org/resource/Glenn_Scobey_Warner http://dbpedia.org/resource/Glenn_""Pop""_Warner http://dbpedia.org/resource/Glenn_S._Warner http://dbpedia.org/resource/Pop_Warner http://dbpedia.org/resource/Glenn_Warner http://dbpedia.org/resource/Pop_warner http://dbpedia.org/resource/""Pop""_Warner"
+0,53,P. Hubert,http://dbpedia.org/resource/Hubert_Gough,http://dbpedia.org/resource/Pooley_Hubert http://dbpedia.org/resource/Allison_Hubert
+0,55,P. Allen,http://dbpedia.org/resource/Phog_Allen,http://dbpedia.org/resource/Pokey_Allen
+0,58,P. H. Bridenbaugh,http://dbpedia.org/resource/Philip_Henry_Bridenbaugh,http://dbpedia.org/resource/P.H._Bridenbaugh http://dbpedia.org/resource/Phillip_Henry_Bridenbaugh
+0,59,P. Arbuckle,http://dbpedia.org/resource/Charles_Arbuckle,http://dbpedia.org/resource/Phillip_Arbuckle http://dbpedia.org/resource/Phil_H._Arbuckle
+0,60,P. King,http://dbpedia.org/resource/Phil_King_(American_football),http://dbpedia.org/resource/Philip_King_(football) http://dbpedia.org/resource/Philip_King_(American_football) http://dbpedia.org/resource/Phil_King_(coach)
+0,72,P. Schmidt,http://dbpedia.org/resource/Pete_Schmidt_(baseball),http://dbpedia.org/resource/Pete_Schmidt
+0,73,P. Rodriguez,http://dbpedia.org/resource/Percy_Rodriguez_(footballer),http://dbpedia.org/resource/Pete_Rodríguez http://dbpedia.org/resource/Pete_Rodriguez
+0,74,P. Reynolds,http://dbpedia.org/resource/Charlie_Reynolds_(pitcher),http://dbpedia.org/resource/C._W._P._Reynolds http://dbpedia.org/resource/CWP_Reynolds http://dbpedia.org/resource/Pete_Reynolds
+0,87,P. Shelton,http://dbpedia.org/resource/Everett_Shelton,http://dbpedia.org/resource/Penwick_Shelton

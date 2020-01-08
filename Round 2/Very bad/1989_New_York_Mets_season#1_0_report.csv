@@ -1,0 +1,13 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,Atlanta,http://dbpedia.org/resource/Atlanta,http://dbpedia.org/resource/1989_Atlanta_Braves_season
+0,3,Chicago,http://dbpedia.org/resource/Chicago,http://dbpedia.org/resource/1989_Chicago_Cubs_season
+0,4,Cincinnati,http://dbpedia.org/resource/Cincinnati,http://dbpedia.org/resource/1989_cincy_reds http://dbpedia.org/resource/1989_Cincinnati_Reds http://dbpedia.org/resource/1989_Cincinnati_Reds_season
+0,5,Houston,http://dbpedia.org/resource/Whitney_Houston,http://dbpedia.org/resource/1989_Houston_Astros_season
+0,6,Los Angeles,http://dbpedia.org/resource/Los_Angeles,http://dbpedia.org/resource/Kiki_Jones http://dbpedia.org/resource/1989_Los_Angeles_Dodgers_season
+0,7,Montreal,http://dbpedia.org/resource/Montreal,http://dbpedia.org/resource/1989_Montréal_Expos_season http://dbpedia.org/resource/1989_Montreal_Expos_season
+0,9,Philadelphia,http://dbpedia.org/resource/Philadelphia,http://dbpedia.org/resource/1989_Philadelphia_Phillies_season
+0,10,Pittsburgh,http://dbpedia.org/resource/Pittsburgh,http://dbpedia.org/resource/1989_Pittsburgh_Pirates_season
+0,11,San Diego,http://dbpedia.org/resource/San_Diego,http://dbpedia.org/resource/1989_San_Diego_Padres_season
+0,12,San Francisco,http://dbpedia.org/resource/San_Francisco,http://dbpedia.org/resource/1989_San_Francisco_Giants_season
+0,13,St. Louis,http://dbpedia.org/resource/St._Louis,http://dbpedia.org/resource/1989_St._Louis_Cardinals_season

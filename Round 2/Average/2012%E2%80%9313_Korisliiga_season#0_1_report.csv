@@ -1,0 +1,7 @@
+F1: 0.54545,Precision: 0.54545,Recall: 0.54545,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,2,Joensuun Kataja,http://dbpedia.org/resource/Kataja_BC,http://dbpedia.org/resource/Kataja_Basket http://dbpedia.org/resource/Joensuun_Kataja http://dbpedia.org/resource/Kataja_Basket_Club
+1,3,KTP-Basket,http://dbpedia.org/resource/Kotkan_Työväen_Palloilijat,http://dbpedia.org/resource/Team_TEHO_Sport http://dbpedia.org/resource/KTP-Basket http://dbpedia.org/resource/KTP_Basket
+1,4,Tampereen PyrintÃ¶,http://dbpedia.org/resource/Tampereen_Pyrintö_(basketball),http://dbpedia.org/resource/Tampereen_Pyrintö
+1,5,Kauhajoen Karhu,http://dbpedia.org/resource/Kauhajoki_Karhu_Basket,http://dbpedia.org/resource/Kauhajoen_Karhu
+1,8,Salon Vilpas,,http://dbpedia.org/resource/Salon_Vilpas http://dbpedia.org/resource/Salon_Vilpas_Vikings

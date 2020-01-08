@@ -1,0 +1,34 @@
+F1: 0.58442,Precision: 0.58442,Recall: 0.58442,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,4,Naples yellow,http://dbpedia.org/resource/Invasion_of_Naples_(1806),http://dbpedia.org/resource/Antimony_Yellow http://dbpedia.org/resource/Naples_yellow http://dbpedia.org/resource/Antimony_yellow http://dbpedia.org/resource/Naples_Yellow http://dbpedia.org/resource/Lead_antimonite
+0,5,NIVO,http://dbpedia.org/resource/Nivôse,http://dbpedia.org/resource/NIVO http://dbpedia.org/resource/Nivo
+0,6,Mustard,http://dbpedia.org/resource/Sulfur_mustard,http://dbpedia.org/resource/Mustard_(color) http://dbpedia.org/resource/Mustard_yellow http://dbpedia.org/resource/Mustard_(colour)
+0,7,Mikado yellow,http://dbpedia.org/resource/Operation_Mikado,http://dbpedia.org/resource/Mikado_yellow
+0,8,Midnight green,http://dbpedia.org/resource/Shades_of_green,http://dbpedia.org/resource/Midnight_green
+0,13,Marengo,,http://dbpedia.org/resource/Marengo-claire http://dbpedia.org/resource/Marengo_(color)
+0,14,Maize,,http://dbpedia.org/resource/Maize_(color) http://dbpedia.org/resource/Corn_(colour) http://dbpedia.org/resource/Corn_(color)
+0,17,Liver,http://dbpedia.org/resource/Hepatomegaly,http://dbpedia.org/resource/Liver_(color)
+0,18,Lion,http://dbpedia.org/resource/Lion-class_battleship,http://dbpedia.org/resource/Lion_(color)
+0,22,Lava,http://dbpedia.org/resource/Volcanic_rock,http://dbpedia.org/resource/Lava_(color) http://dbpedia.org/resource/Lava_color
+0,23,Kobicha,http://dbpedia.org/resource/Cobija,http://dbpedia.org/resource/Kobicha
+0,24,Jonquil,,http://dbpedia.org/resource/Jonquil_(colour) http://dbpedia.org/resource/Jonquil_(color)
+0,25,Jasmine,http://dbpedia.org/resource/Princess_Jasmine,http://dbpedia.org/resource/Jasmine_(color)
+0,36,Flax,http://dbpedia.org/resource/Linseed_oil,http://dbpedia.org/resource/Flax_(colour) http://dbpedia.org/resource/Flax_(color)
+0,39,Fallow,http://dbpedia.org/resource/Fallow_deer,http://dbpedia.org/resource/Fallow_(color)
+0,40,Electric green,http://dbpedia.org/resource/Blue,http://dbpedia.org/resource/Electric_green
+0,41,Electric blue,http://dbpedia.org/resource/Blue,http://dbpedia.org/resource/Electric_blue_(color)
+0,45,Dark purple,http://dbpedia.org/resource/Blue,http://dbpedia.org/resource/Dark_Purple http://dbpedia.org/resource/Dark_purple
+0,46,Cyclamen,http://dbpedia.org/resource/Cyclamen,http://dbpedia.org/resource/Cyclamen_(color)
+0,50,Coyote brown,http://dbpedia.org/resource/Tan_(color),http://dbpedia.org/resource/Coyote_tan http://dbpedia.org/resource/Coyote_brown
+0,52,Cordovan,http://dbpedia.org/resource/Cuir_de_Cordoue,http://dbpedia.org/resource/Cordovan_(color)
+0,53,Coral,http://dbpedia.org/resource/Choir,http://dbpedia.org/resource/Light_Coral http://dbpedia.org/resource/Coral_red http://dbpedia.org/resource/Gray-coral http://dbpedia.org/resource/Coral_pink http://dbpedia.org/resource/Coral_(color) http://dbpedia.org/resource/Dark_coral http://dbpedia.org/resource/Coral_(colour) http://dbpedia.org/resource/Coral_color
+0,55,Copper,http://dbpedia.org/resource/Copper,http://dbpedia.org/resource/Copper_red http://dbpedia.org/resource/Copper_(colour) http://dbpedia.org/resource/Copper_(color)
+0,56,Columbia blue,http://dbpedia.org/resource/Steel_blue,http://dbpedia.org/resource/Columbia_blue http://dbpedia.org/resource/Columbia_Blue http://dbpedia.org/resource/Jordy_blue http://dbpedia.org/resource/Columbia_blue_(color)
+0,58,Citron,,http://dbpedia.org/resource/Citron_(color)
+0,60,Cinereous,http://dbpedia.org/resource/Cinereous_tit,http://dbpedia.org/resource/Cinereous
+0,61,Chocolate,http://dbpedia.org/resource/Chocolate_cake,http://dbpedia.org/resource/Chocolate_(color) http://dbpedia.org/resource/Cocoa_brown
+0,64,Champagne,http://dbpedia.org/resource/Champagne,http://dbpedia.org/resource/Champagne_(color)
+0,68,Cardinal,http://dbpedia.org/resource/Cardinal_(Catholic_Church),http://dbpedia.org/resource/Cardinal_red http://dbpedia.org/resource/Cardinal_(color) http://dbpedia.org/resource/Cardinal_Red
+0,69,Capri,http://dbpedia.org/resource/Sky_blue,http://dbpedia.org/resource/Capri_(color)
+0,71,Camel,http://dbpedia.org/resource/Sopwith_Camel,http://dbpedia.org/resource/Camel_(color)
+0,73,Byzantium,http://dbpedia.org/resource/Byzantine_music,http://dbpedia.org/resource/Byzantium_(colour) http://dbpedia.org/resource/Byzantium_(color)

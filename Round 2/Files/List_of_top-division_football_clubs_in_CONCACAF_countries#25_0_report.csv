@@ -1,0 +1,6 @@
+"F1: 0.60000","Precision: 0.60000","Recall: 0.60000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","1","Deportes Savio","http://dbpedia.org/resource/Deportes_Savio_F.C.","http://dbpedia.org/resource/Deportes_Savio"
+"0","3","Motagua","http://dbpedia.org/resource/F.C._Motagua","http://dbpedia.org/resource/Club_Deportivo_Motagua http://dbpedia.org/resource/C.D._Motagua http://dbpedia.org/resource/CD_Motagua"
+"0","4","Olimpia","http://dbpedia.org/resource/Club_Olimpia","http://dbpedia.org/resource/C.D._Olimpia http://dbpedia.org/resource/CD_Olimpia http://dbpedia.org/resource/Club_Deportivo_Olimpia http://dbpedia.org/resource/Club_Olimpia_Deportivo http://dbpedia.org/resource/CD_Olímpia"
+"0","8","Real Sociedad","http://dbpedia.org/resource/Real_Sociedad","http://dbpedia.org/resource/C.D._Real_Sociedad http://dbpedia.org/resource/Club_Deportivo_Real_Sociedad"

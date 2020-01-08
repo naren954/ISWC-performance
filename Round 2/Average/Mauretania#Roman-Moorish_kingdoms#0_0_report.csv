@@ -1,0 +1,4 @@
+F1: 0.60000,Precision: 0.60000,Recall: 0.60000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Baga,http://dbpedia.org/resource/Bagha_Qaghan,http://dbpedia.org/resource/Baga_(king)
+0,6,Ptolemy,http://dbpedia.org/resource/Ptolemy_I_Soter,http://dbpedia.org/resource/Ptolemy_of_Morocco http://dbpedia.org/resource/Ptolemy_of_Mauretania

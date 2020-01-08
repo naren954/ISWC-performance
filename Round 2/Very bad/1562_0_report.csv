@@ -1,0 +1,22 @@
+F1: 0.16667,Precision: 0.16667,Recall: 0.16667,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Sea of Azov,http://dbpedia.org/resource/Sea_of_Azov,http://sws.geonames.org/713066/
+0,2,Black Sea,http://dbpedia.org/resource/Black_Sea,http://sws.geonames.org/630673/
+0,3,White Sea,http://dbpedia.org/resource/White_Sea,http://sws.geonames.org/577742/
+0,4,Beaufort Sea,http://dbpedia.org/resource/Beaufort_Sea,http://sws.geonames.org/4030285/
+0,5,Baffin Bay,http://dbpedia.org/resource/Baffin_Bay,http://sws.geonames.org/3831554/
+0,6,Mediterranean Sea,http://dbpedia.org/resource/Mediterranean_Sea,http://sws.geonames.org/363196/
+0,7,Labrador Sea,http://dbpedia.org/resource/Labrador_Sea,http://sws.geonames.org/3424929/
+0,8,Adriatic Sea,http://dbpedia.org/resource/Adriatic_Sea,http://sws.geonames.org/3183462/
+0,9,Greenland Sea,http://dbpedia.org/resource/Greenland_Sea,http://sws.geonames.org/2960853/
+0,10,North Sea,http://dbpedia.org/resource/North_Sea,http://sws.geonames.org/2960848/
+0,11,Norwegian Sea,http://dbpedia.org/resource/Barents_Sea,http://sws.geonames.org/2960847/
+0,12,Baltic Sea,http://dbpedia.org/resource/Baltic_Sea,http://sws.geonames.org/2633321/
+0,13,Tyrrhenian Sea,http://dbpedia.org/resource/Tyrrhenian_Sea,http://sws.geonames.org/2522836/
+0,14,Persian Gulf,http://dbpedia.org/resource/Persian_Gulf,http://sws.geonames.org/235616/
+0,15,Coral Sea,http://dbpedia.org/resource/Coral_Sea,http://sws.geonames.org/2194166/
+0,16,East Siberian Sea,http://dbpedia.org/resource/East_Siberian_Sea,http://sws.geonames.org/2127381/
+0,17,Sea of Okhotsk,http://dbpedia.org/resource/Sea_of_Okhotsk,http://sws.geonames.org/2127380/
+0,18,Timor Sea,http://dbpedia.org/resource/Timor_Sea,http://sws.geonames.org/2078065/
+0,19,Laptev Sea,http://dbpedia.org/resource/Laptev_Sea,http://sws.geonames.org/2038683/
+0,20,Andaman Sea,http://dbpedia.org/resource/Andaman_Sea,http://sws.geonames.org/1158425/

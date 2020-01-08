@@ -1,0 +1,23 @@
+F1: 0.71622,Precision: 0.71622,Recall: 0.71622,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,4,Polar Bears,http://dbpedia.org/resource/Polar_Bear_(album),http://dbpedia.org/resource/The_Naked_Brothers_Band:_Polar_Bears http://dbpedia.org/resource/Polar_Bears_(film) http://dbpedia.org/resource/Polar_Bears_(TV_movie)
+0,7,Pilot,http://dbpedia.org/resource/Pilot_(Smallville),http://dbpedia.org/resource/Pilot_(The_Americans)
+0,8,Pilot,http://dbpedia.org/resource/Pilot_(Smallville),http://dbpedia.org/resource/Pilot_(Smash)
+0,9,Pilot,http://dbpedia.org/resource/Pilot_(Smallville),http://dbpedia.org/resource/Pilot_(Preacher)
+0,10,Pilot,http://dbpedia.org/resource/Pilot_(Smallville),http://dbpedia.org/resource/Pilot_(Numb3rs) http://dbpedia.org/resource/Pilot_(Numbers)
+0,11,Pilot,http://dbpedia.org/resource/Pilot_(Smallville),http://dbpedia.org/resource/Pilot_(Glee)
+0,12,Pilot,http://dbpedia.org/resource/Pilot_(Smallville),http://dbpedia.org/resource/Pilot_(Gilmore_Girls) http://dbpedia.org/resource/Gilmore_Girls_(television_pilot) http://dbpedia.org/resource/Pilot_(Gilmore_Girl_episode) http://dbpedia.org/resource/Pilot_(Gilmore_Girls_episode)
+0,13,Pilot,http://dbpedia.org/resource/Pilot_(Smallville),http://dbpedia.org/resource/Pilot_(Faking_It)
+0,14,Pilot,http://dbpedia.org/resource/Pilot_(Smallville),http://dbpedia.org/resource/Pilot_(Breaking_Bad)
+0,15,Pilot,http://dbpedia.org/resource/Pilot_(Smallville),http://dbpedia.org/resource/Pilot_(American_Horror_Story)
+0,19,Perchance to Dream,http://dbpedia.org/resource/Perchance_to_Dream_(Batman:_The_Animated_Series),http://dbpedia.org/resource/The_Twilight_Zone/Perchance_to_Dream http://dbpedia.org/resource/Perchance_to_Dream_(Twilight_Zone_episode) http://dbpedia.org/resource/Perchance_to_Dream_(The_Twilight_Zone)
+0,23,Past Tense,http://pt.dbpedia.org/resource/Past_Tense,http://dbpedia.org/resource/Past_Tense_(DS9_episode) http://dbpedia.org/resource/Past_Tense_(DS9) http://dbpedia.org/resource/Bell_Riot_Day http://dbpedia.org/resource/Past_Tense_(Star_Trek:_Deep_Space_Nine) http://dbpedia.org/resource/Bell_Riots
+0,34,Opening Night,http://dbpedia.org/resource/Opening_Night_(Smash),http://dbpedia.org/resource/Opening_Night_(Glee)
+0,35,Open House,http://dbpedia.org/resource/Open_House_(Breaking_Bad),http://dbpedia.org/resource/Open_House_(The_Americans)
+0,37,Open House,http://dbpedia.org/resource/Open_House_(Breaking_Bad),http://dbpedia.org/resource/Open_House_(American_Horror_Story)
+0,38,Only You,http://dbpedia.org/resource/Only_You_(Morning_Musume_song),http://dbpedia.org/resource/Only_You_(The_Americans)
+0,42,Once Upon a Time,http://dbpedia.org/resource/Once_Upon_a_Time_in_Springfield,http://dbpedia.org/resource/Once_Upon_a_Time_(The_Twilight_Zone)
+0,56,No One,http://dbpedia.org/resource/No_One_(Alicia_Keys_song),http://dbpedia.org/resource/Game_of_Thrones_Season_6_Episode_8_:_No_One http://dbpedia.org/resource/No_One_(Game_of_Thrones)
+0,60,Night,http://dbpedia.org/resource/WWE_Raw,http://dbpedia.org/resource/Malon_(Star_Trek) http://dbpedia.org/resource/Maalons http://dbpedia.org/resource/Maalon http://dbpedia.org/resource/Night_(Star_Trek:_Voyager) http://dbpedia.org/resource/Night_(Voyager_episode)
+0,61,New York,"http://dbpedia.org/resource/New_York,_New_York_(1977_film)",http://dbpedia.org/resource/New_York_(Glee) http://dbpedia.org/resource/My_Cup
+0,67,Nebraska,http://dbpedia.org/resource/Nebraska,http://dbpedia.org/resource/Nebraska_(The_Walking_Dead)

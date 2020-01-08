@@ -1,0 +1,8 @@
+F1: 0.62500,Precision: 0.62500,Recall: 0.62500,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,5,Kowloon Tong,http://dbpedia.org/resource/Kowloon,"http://dbpedia.org/resource/Jiǔlóng_Táng http://dbpedia.org/resource/九龍塘 http://dbpedia.org/resource/Kowloon_Tong http://dbpedia.org/resource/Kau_Lung_Tong http://dbpedia.org/resource/九龙塘 http://dbpedia.org/resource/York_Road,_Hong_Kong"
+2,6,"Toowong, Queensland",http://dbpedia.org/resource/Queensland,"http://dbpedia.org/resource/Toowong,_Queensland http://dbpedia.org/resource/Toowong"
+2,9,Fort Pitt Bridge,http://dbpedia.org/resource/Pittsburgh,"http://dbpedia.org/resource/Fort_Pitt_Bridge http://dbpedia.org/resource/Fort_Pitt_Bridge,_Pennsylvania"
+2,11,Rennesøy,http://dbpedia.org/resource/Rennesøy,http://dbpedia.org/resource/Rennesøy_(island)
+2,12,Hung Hom,http://dbpedia.org/resource/Kowloon,http://dbpedia.org/resource/Hutchison_Park http://dbpedia.org/resource/Hunghom http://dbpedia.org/resource/Hung_Hom
+2,16,Wong Chuk Hang,http://dbpedia.org/resource/Wong_Chuk_Hang_Road,http://dbpedia.org/resource/Wong_Chuk_Hang

@@ -1,0 +1,8 @@
+F1: 0.77778,Precision: 0.77778,Recall: 0.77778,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,6,Zoom,http://dbpedia.org/resource/Zoom_(The_Knack_album),http://dbpedia.org/resource/Zoom_(Kannada_film) http://dbpedia.org/resource/Zoom_(2015_Indian_film) http://dbpedia.org/resource/Zoom_(2016_film)
+0,7,Zoom,http://dbpedia.org/resource/Zoom_(The_Knack_album),http://dbpedia.org/resource/Zoom_(2015_Canadian_film) http://dbpedia.org/resource/Zoom_(2015_film)
+0,8,Zoom,http://dbpedia.org/resource/Zoom_(The_Knack_album),http://dbpedia.org/resource/Zoom:_Academy_for_Superheroes http://dbpedia.org/resource/Wonder_(Zoom) http://dbpedia.org/resource/Zoom_(Movie) http://dbpedia.org/resource/Zoom_(2006_film) http://dbpedia.org/resource/Zoom_2 http://dbpedia.org/resource/Zoom_(Movie http://dbpedia.org/resource/Zoom_(movie) http://dbpedia.org/resource/Zoom_the_Movie
+0,13,Zoo Laka Taka,http://dbpedia.org/resource/Joo_Laka_Taka,http://dbpedia.org/resource/Zoo_Laka_Taka
+0,14,Zoo,http://dbpedia.org/resource/Zoo_(TV_series),http://dbpedia.org/resource/Hannah_Evergreen http://dbpedia.org/resource/Zoo_(film) http://dbpedia.org/resource/Zoo_(movie) http://dbpedia.org/resource/Zoo_2007 http://dbpedia.org/resource/Zoo_film
+0,16,Zone of the Dead,http://dbpedia.org/resource/The_Dead_Zone_(film),http://dbpedia.org/resource/Apocalypse_of_the_Dead http://dbpedia.org/resource/Zone_of_the_Dead

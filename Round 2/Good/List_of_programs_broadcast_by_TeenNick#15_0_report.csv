@@ -1,0 +1,5 @@
+F1: 0.92857,Precision: 0.92857,Recall: 0.92857,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,27,Mission: 4Count,http://dbpedia.org/resource/Mission:_Impossible_–_Ghost_Protocol,http://dbpedia.org/resource/Mission:_4Count
+0,30,The New Ghostwriter Mysteries,http://dbpedia.org/resource/Ghostwriter_(TV_series),http://dbpedia.org/resource/The_New_Ghostwriter_Mysteries
+0,32,One on One,http://dbpedia.org/resource/One_Life_to_Live,http://dbpedia.org/resource/One_on_One_(television_series) http://dbpedia.org/resource/List_of_One_on_One_characters http://dbpedia.org/resource/One_on_One_(TV_series) http://dbpedia.org/resource/Breanna_Barnes_(One_on_One_character) http://dbpedia.org/resource/Breanna_Barnes http://dbpedia.org/resource/One_on_One_(TV_SERIES)

@@ -1,0 +1,6 @@
+"F1: 0.42857","Precision: 0.42857","Recall: 0.42857"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","1","Asia Squawk Box","http://dbpedia.org/resource/Squawk_Box","http://dbpedia.org/resource/Asia_Squawk_Box"
+"1","4","Tokyo Market Watch","http://dbpedia.org/resource/Market_Watch","http://dbpedia.org/resource/Tokyo_Market_Watch"
+"1","11","US Power Lunch","http://dbpedia.org/resource/Tyrone_Power","http://dbpedia.org/resource/Power_Lunch"
+"1","13","Fast Money","http://dbpedia.org/resource/Family_Feud","http://dbpedia.org/resource/Fast_Money_(TV_series) http://dbpedia.org/resource/Fast_Money_(CNBC) http://dbpedia.org/resource/Fast_money_(cnbc)"

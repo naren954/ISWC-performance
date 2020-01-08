@@ -1,0 +1,4 @@
+"F1: 0.85714","Precision: 0.85714","Recall: 0.85714"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","4","1927 Italian Grand Prix","http://dbpedia.org/resource/1926_Italian_Grand_Prix","http://dbpedia.org/resource/1927_Italian_Grand_Prix"
+"0","8","1926 British Grand Prix","http://dbpedia.org/resource/1948_British_Grand_Prix","http://dbpedia.org/resource/1926_British_Grand_Prix"

@@ -1,0 +1,48 @@
+F1: 0.71951,Precision: 0.71951,Recall: 0.71951,,
+Col,Row,Value,Submitted URI,Correct URI's
+4,2,It's Over,http://dbpedia.org/resource/It's_Over_(Jesse_McCartney_song),http://dbpedia.org/resource/It's_Over_(Electric_Light_Orchestra_song) http://dbpedia.org/resource/It's_Over_(ELO_single)
+4,4,Wild,http://dbpedia.org/resource/Wild_(Jessie_J_song),http://dbpedia.org/resource/Wild_(Alessia_Cara_song) http://dbpedia.org/resource/Wild_(Troye_Sivan_song) http://dbpedia.org/resource/Wild_(Troye_Sivan_and_Alessia_Cara_song)
+4,10,Piece of My Heart,http://dbpedia.org/resource/Piece_of_My_Heart_(Tara_Kemp_song),http://dbpedia.org/resource/Another_Piece_of_My_Heart http://dbpedia.org/resource/Piece_of_my_heart http://dbpedia.org/resource/Piece_of_My_Heart http://dbpedia.org/resource/Piece_of_My_Heart_(song) http://dbpedia.org/resource/Piece_of_My_Heart_(Erma_Franklin_song) http://dbpedia.org/resource/Piece_of_my_Heart http://dbpedia.org/resource/Take_Another_Piece_of_My_Heart http://dbpedia.org/resource/Piece_Of_My_Heart
+4,12,Running Up that Hill,http://dbpedia.org/resource/Running_Up_that_Hill_(Within_Temptation_song),http://dbpedia.org/resource/A_Deal_with_God http://dbpedia.org/resource/Running_Up_That_Hill http://dbpedia.org/resource/Running_Up_that_Hill_(A_Deal_with_God) http://dbpedia.org/resource/Running_Up_That_Hill_(EP) http://dbpedia.org/resource/Running_Up_That_Hill_(A_Deal_With_God) http://dbpedia.org/resource/Running_Up_that_Hill http://dbpedia.org/resource/Running_Up_that_Hill_(EP) http://dbpedia.org/resource/Running_up_that_hill http://dbpedia.org/resource/Running_Up_That_Hill_(A_Deal_with_God)
+4,28,Monica,http://dbpedia.org/resource/Monica_Geller,http://dbpedia.org/resource/Monica_(song)
+4,31,Still Waiting,http://dbpedia.org/resource/Still_Waiting_(Sum_41_song),http://dbpedia.org/resource/Still_Waiting_(Prince_song)
+4,32,Whiskey,http://dbpedia.org/resource/Whiskey_(Maroon_5_song),http://dbpedia.org/resource/Whiskey_(song)
+4,35,Elephant,http://dbpedia.org/resource/Elephant_(Alexandra_Burke_song),http://dbpedia.org/resource/Elephant_(Tame_Impala_song)
+4,39,Pride N Joy,http://dbpedia.org/resource/Pride_and_Joy_(Marvin_Gaye_song),http://dbpedia.org/resource/Pride_n_Joy http://dbpedia.org/resource/Pride_N_Joy
+4,43,Gloria,http://dbpedia.org/resource/Gloria!,http://dbpedia.org/resource/Gloria_(Shadows_of_Knight_song) http://dbpedia.org/resource/Gloria_(The_Doors_song) http://dbpedia.org/resource/Gloria_(Van_Morrison_song) http://dbpedia.org/resource/G-L-O-R-I-A http://dbpedia.org/resource/Gloria_(Them_Song) http://dbpedia.org/resource/Gloria_(Patti_Smith_song) http://dbpedia.org/resource/Gloria_(Them_song)
+4,44,You're Welcome to Tonight,http://dbpedia.org/resource/I_Can_Tell_by_the_Way_You_Dance_(You're_Gonna_Love_Me_Tonight),http://dbpedia.org/resource/You're_Welcome_to_Tonight
+4,46,You and Me,http://dbpedia.org/resource/You_and_Me_(Lifehouse_song),http://dbpedia.org/resource/You_and_Me_(Dave_Matthews_Band_song)
+4,55,Wheels,http://dbpedia.org/resource/Wheels_(Foo_Fighters_song),http://dbpedia.org/resource/Wheels_(Restless_Heart_song)
+4,56,Turn,http://dbpedia.org/resource/Turn_(Great_Big_Sea_album),http://dbpedia.org/resource/Turn_(Travis_song)
+4,58,In the Sun,http://dbpedia.org/resource/A_Place_in_the_Sun_(Pablo_Cruise_song),http://dbpedia.org/resource/In_the_Sun_(She_&_Him_song)
+4,66,Catch,http://dbpedia.org/resource/Catch_Me_(TVXQ_song),http://dbpedia.org/resource/Catch_(The_Cure_song)
+4,68,In My Heart,http://dbpedia.org/resource/In_My_Heart_(Moby_song),http://dbpedia.org/resource/In_My_Heart_(Texas_song)
+4,69,More and More,"http://dbpedia.org/resource/More,_More,_More",http://dbpedia.org/resource/More_and_More_(Webb_Pierce_song)
+4,71,Unstoppable,http://dbpedia.org/resource/Unstoppable_(Kat_DeLuna_song),http://dbpedia.org/resource/Unstoppable_(Rascal_Flatts_song)
+4,76,Precious,http://dbpedia.org/resource/Precious_(Depeche_Mode_song),http://dbpedia.org/resource/Precious_(Annie_Lennox_song)
+4,77,Desire,http://dbpedia.org/resource/Desire_(U2_song),http://dbpedia.org/resource/Desire_(Andy_Gibb_song) http://dbpedia.org/resource/Desire_(Bee_Gees_song)
+4,78,I Need You,http://dbpedia.org/resource/I_Need_You_(Frankie_Valli_song),http://dbpedia.org/resource/I_Need_You_(3T_song)
+4,82,Any Man of Mine,,http://dbpedia.org/resource/Any_Man_of_Mine http://dbpedia.org/resource/Any_man_of_mine http://dbpedia.org/resource/Gino_the_New_Guy http://dbpedia.org/resource/Any_Man_Of_Mine
+4,86,(Come 'Round Here) I'm the One You Need,http://dbpedia.org/resource/I'm_the_One_You_Need,http://dbpedia.org/resource/(Come_'Round_Here)_I'm_The_One_You_Need http://dbpedia.org/resource/(Come_Round_Here)_I'm_The_One_You_Need http://dbpedia.org/resource/(Come_'Round_Here)_I'm_the_One_You_Need
+4,89,Let It Go,http://dbpedia.org/resource/Let_It_Go_(Tim_McGraw_song),http://dbpedia.org/resource/Let_It_Go_(Keyshia_Cole_song)
+4,92,Remind Me,http://dbpedia.org/resource/Remind_Me_(Röyksopp_song),http://dbpedia.org/resource/Remind_Me_(Conrad_Sewell_song)
+4,95,Up,http://dbpedia.org/resource/Up!_(album),http://dbpedia.org/resource/Up_(James_Morrison_song)
+4,99,I Want It All,http://dbpedia.org/resource/I_Want_It_All_(High_School_Musical_song),http://dbpedia.org/resource/I_Want_It_All_(Queen_song)
+4,100,C'mon,http://dbpedia.org/resource/C'Mon_(Kesha_song),http://dbpedia.org/resource/C'mon_(Catch_'em_by_Surprise) http://dbpedia.org/resource/C'Mon_(Catch_'Em_By_Surprise) http://dbpedia.org/resource/C'Mon_(Catch_'em_by_Surprise) http://dbpedia.org/resource/C'mon_(Catch_'Em_By_Surprise) http://dbpedia.org/resource/C'mon_(Catch_'Em_by_Surprise)
+4,106,Hero,http://dbpedia.org/resource/Hero_(Enrique_Iglesias_song),http://dbpedia.org/resource/Hero_(David_Crosby_featuring_Phil_Collins_song) http://dbpedia.org/resource/Hero_(David_Crosby_song)
+4,112,A.I.M.,http://dbpedia.org/resource/I'm_Your_Baby_Tonight,http://dbpedia.org/resource/A.I.M._(song)
+4,119,Proud,http://dbpedia.org/resource/Proud_(JLS_song),http://dbpedia.org/resource/Proud_(Britannia_High_song) http://dbpedia.org/resource/Proud_(Britannia_High_Song)
+4,121,The Truth,http://dbpedia.org/resource/The_Truth_(Bleeding_Through_album),http://dbpedia.org/resource/The_Truth_(Relient_K_song)
+4,125,Million Miles Away,http://dbpedia.org/resource/Million_Miles_Away_(The_Offspring_song),http://dbpedia.org/resource/Million_Miles_Away_(Kim_Wilde_song)
+4,130,Dance with Me,http://dbpedia.org/resource/I_Wanna_Dance_with_Somebody_(Who_Loves_Me),http://dbpedia.org/resource/Dance_With_Me_(Justice_Crew_Song) http://dbpedia.org/resource/Dance_with_Me_(Justice_Crew_song)
+4,131,A Star Is Born,http://dbpedia.org/resource/Evergreen_(Love_Theme_from_A_Star_Is_Born),http://dbpedia.org/resource/A_Star_Is_Born_(Jay-Z_song)
+4,132,Grass,http://dbpedia.org/resource/New_Grass,http://dbpedia.org/resource/Grass_(Animal_Collective_song)
+4,134,Trick of the Light,http://dbpedia.org/resource/Trick_of_the_Light_(The_Triffids_song),http://dbpedia.org/resource/Trick_of_the_Light_(The_Who_song)
+4,136,Colour My World,http://dbpedia.org/resource/Colour_My_World_(Chicago_song),http://dbpedia.org/resource/Colour_My_World(Petula_Clark_song) http://dbpedia.org/resource/Colour_My_World_(Petula_Clark_song)
+4,141,Sunshine,http://dbpedia.org/resource/Sunshine_(Lil'_Flip_song),http://dbpedia.org/resource/Sunshine_(The_Archies_song)
+4,145,Right by Your Side,http://dbpedia.org/resource/Right_by_Your_Side_(N-Force_and_Darren_Styles_song),http://dbpedia.org/resource/Right_by_Your_Side http://dbpedia.org/resource/Right_By_Your_Side
+4,148,Domino,http://dbpedia.org/resource/Domino_(Kiss_song),http://dbpedia.org/resource/Domino_(Jessie_J_song)
+4,149,You Wear It Well,http://dbpedia.org/resource/You_Wear_It_Well,http://dbpedia.org/resource/You_Wear_It_Well_(Debarge_song) http://dbpedia.org/resource/You_Wear_It_Well_(DeBarge_song)
+4,150,Mountains,http://dbpedia.org/resource/Mountain_(band),http://dbpedia.org/resource/Mountains_(biffy_clyro_song) http://dbpedia.org/resource/Mountains_(Biffy_Clyro_song)
+4,155,Strictly Business,http://dbpedia.org/resource/Strictly_Business_(EPMD_song),http://dbpedia.org/resource/Strictly_Business_(soundtrack) http://dbpedia.org/resource/Strictly_Business_(LL_Cool_J_song)
+4,157,Heaven and Hell,http://dbpedia.org/resource/Heaven_&_Hell_(Raekwon_song),http://dbpedia.org/resource/Heaven_and_Hell_(The_Easybeats_song)

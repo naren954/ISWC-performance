@@ -1,0 +1,4 @@
+"F1: 0.80000","Precision: 0.80000","Recall: 0.80000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"2","4","J. S. Harrison","http://dbpedia.org/resource/William_Jennings_Bryan","http://dbpedia.org/resource/John_S._Harrison http://dbpedia.org/resource/John_Scott_Harrison"
+"2","9","C. H. Beamish","http://dbpedia.org/resource/Tufton_Beamish,_Baron_Chelwood","http://dbpedia.org/resource/Claudia_Hamilton_Beamish http://dbpedia.org/resource/The_Honourable_Claudia_Beamish http://dbpedia.org/resource/The_Honourable_Claudia_Hamilton_Beamish http://dbpedia.org/resource/Claudia_Beamish"

@@ -1,0 +1,3 @@
+F1: 0.50000,Precision: 0.50000,Recall: 0.50000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,Amityville,http://dbpedia.org/resource/Amityville:_The_Awakening,"http://dbpedia.org/resource/Ammityville http://dbpedia.org/resource/Amityville,_NY http://dbpedia.org/resource/Amittyville http://dbpedia.org/resource/Ammittyville http://dbpedia.org/resource/Amityville,_New_York http://dbpedia.org/resource/Amityville http://dbpedia.org/resource/UN/LOCODE:USAYZ http://dbpedia.org/resource/Amity_Harbor,_New_York"

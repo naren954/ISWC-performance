@@ -1,0 +1,6 @@
+F1: 0.83333,Precision: 0.83333,Recall: 0.83333,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,The St. Petersburg Times,http://dbpedia.org/resource/Tampa_Bay_Times,http://dbpedia.org/resource/The_St._Petersburg_Times http://dbpedia.org/resource/St._Petersburg_Times_(Russia) http://dbpedia.org/resource/The_St._Petersburg_Times_(Russia) http://dbpedia.org/resource/Sptimes.ru http://dbpedia.org/resource/St_Peterbsurg_Times
+0,9,The Comet,http://dbpedia.org/resource/The_Comet,http://dbpedia.org/resource/Stevenage_Sun http://dbpedia.org/resource/Letchworth_Comet http://dbpedia.org/resource/Stevenage_Comet http://dbpedia.org/resource/Hitchin_Comet http://dbpedia.org/resource/The_Comet_(newspaper)
+0,16,I,http://dbpedia.org/resource/Pope_Innocent_I,http://dbpedia.org/resource/I_(newspaper)
+0,19,Evening Express,http://dbpedia.org/resource/Evening_Express_(Portland),http://dbpedia.org/resource/Aberdeen_Evening_Express http://dbpedia.org/resource/Evening_Express_(Scotland)

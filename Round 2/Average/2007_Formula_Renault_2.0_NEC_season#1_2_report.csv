@@ -1,0 +1,4 @@
+F1: 0.75000,Precision: 0.75000,Recall: 0.75000,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,3,Motorsport Arena Oschersleben,http://dbpedia.org/resource/Silverstone_Circuit,http://dbpedia.org/resource/Motopark_Oschersleben http://dbpedia.org/resource/Motopark_Arena_Oschersleben http://dbpedia.org/resource/Motorsport_Arena_Oschersleben
+2,11,Motorsport Arena Oschersleben,http://dbpedia.org/resource/Silverstone_Circuit,http://dbpedia.org/resource/Motopark_Oschersleben http://dbpedia.org/resource/Motopark_Arena_Oschersleben http://dbpedia.org/resource/Motorsport_Arena_Oschersleben

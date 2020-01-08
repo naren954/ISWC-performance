@@ -1,0 +1,4 @@
+"F1: 0.86667","Precision: 0.86667","Recall: 0.86667"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","6","Red fox sparrow","http://dbpedia.org/resource/Sooty_fox_sparrow","http://dbpedia.org/resource/Yukon_Fox_Sparrow http://dbpedia.org/resource/Eastern_Fox_Sparrow http://dbpedia.org/resource/Red_fox_sparrow http://dbpedia.org/resource/Red_Fox_Sparrow http://dbpedia.org/resource/Red_Fox-Sparrow"
+"0","11","Northern spotted owl","http://dbpedia.org/resource/Spotted_owl","http://dbpedia.org/resource/Northern_Spotted_Owl http://dbpedia.org/resource/Northern_spotted_owl"

@@ -1,0 +1,4 @@
+F1: 0.77778,Precision: 0.77778,Recall: 0.77778,,
+Col,Row,Value,Submitted URI,Correct URI's
+6,7,Stephen Jackson (28),http://dbpedia.org/resource/Stephen_Jackson_(scientist),http://dbpedia.org/resource/S-Jax http://dbpedia.org/resource/Stephen_Jackson http://dbpedia.org/resource/Stephen_Jesse_Jackson
+6,8,Stephen Jackson (23),http://dbpedia.org/resource/Stephen_Jackson_(scientist),http://dbpedia.org/resource/S-Jax http://dbpedia.org/resource/Stephen_Jackson http://dbpedia.org/resource/Stephen_Jesse_Jackson

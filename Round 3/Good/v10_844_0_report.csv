@@ -1,0 +1,6 @@
+F1: 0.94595,Precision: 0.94595,Recall: 0.94595,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,Corinne,http://dbpedia.org/resource/Corinne_Roosevelt_Robinson,http://dbpedia.org/resource/Corinne_(horse)
+0,11,Coastal,http://dbpedia.org/resource/Coastal_Bluff,http://dbpedia.org/resource/Coastal_(horse)
+0,33,Carnegie,"http://dbpedia.org/resource/James_Carnegie,_3rd_Duke_of_Fife",http://dbpedia.org/resource/Carnegie_(horse)
+0,48,Bushranger,http://dbpedia.org/resource/Bushranger_(American_horse),http://dbpedia.org/resource/Bushranger_(horse)

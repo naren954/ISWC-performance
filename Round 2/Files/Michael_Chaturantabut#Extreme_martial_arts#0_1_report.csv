@@ -1,0 +1,4 @@
+"F1: 0.81818","Precision: 0.81818","Recall: 0.81818"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","2","Martial Law","http://dbpedia.org/resource/Martial_Law_(TV_series)","http://dbpedia.org/resource/Martial_law_administrator http://dbpedia.org/resource/Martial_Law http://dbpedia.org/resource/Martial_law"
+"1","15","The Time Machine","http://dbpedia.org/resource/The_Time_Machine_(1960_film)","http://dbpedia.org/resource/The_time_machine_(2002) http://dbpedia.org/resource/The_Time_Machine_(2002_film) http://dbpedia.org/resource/The_Time_Machine_(2002_movie) http://dbpedia.org/resource/Alexander_Hartdegen http://dbpedia.org/resource/Time_Machine_(2002_film)"

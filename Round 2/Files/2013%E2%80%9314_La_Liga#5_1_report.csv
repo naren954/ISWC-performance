@@ -1,0 +1,4 @@
+"F1: 0.83333","Precision: 0.83333","Recall: 0.83333"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","11","Pedro","http://dbpedia.org/resource/Pedro_(footballer,_born_1987)","http://dbpedia.org/resource/Pedro_Eliezer_Rodriguez_Ledesma http://dbpedia.org/resource/Pedro_Eliezer_Rodríguez_Ledesma http://dbpedia.org/resource/Pedro_(footballer_born_July_1987) http://dbpedia.org/resource/Pedro_Rodriguez_Ledesma http://dbpedia.org/resource/Pedro_Rodríguez_Ledesma http://dbpedia.org/resource/Pedro_(footballer,_born_July_1987)"
+"1","12","KÃ©vin Gameiro","http://dbpedia.org/resource/Kevin_Gameiro","http://dbpedia.org/resource/Kévin_Gameiro"

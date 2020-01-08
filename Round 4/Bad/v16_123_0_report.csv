@@ -1,0 +1,96 @@
+F1: 0.46893,Precision: 0.46893,Recall: 0.46893,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,9,R. Packe,http://dbpedia.org/resource/Michael_Packe,http://dbpedia.org/resource/Robert_Packe
+0,10,R. Osborne,http://dbpedia.org/resource/Roger_Osborne,"http://dbpedia.org/resource/Robert_Osborne_(cricketer,_born_1881)"
+0,13,R. Nettleton,http://dbpedia.org/resource/Ernie_Nettleton,http://dbpedia.org/resource/Robert_Nettleton
+0,14,R. Nelson,http://dbpedia.org/resource/Red_Nelson,"http://dbpedia.org/resource/Robert_Nelson_(cricketer,_born_1912)"
+0,17,R. Morris,http://dbpedia.org/resource/Robert_Morris_(basketball),http://dbpedia.org/resource/Robert_Morris_(cricketer)
+0,19,R. Monteith,http://dbpedia.org/resource/Dermott_Monteith,http://dbpedia.org/resource/Robert_Monteith_(umpire) http://dbpedia.org/resource/RL_Monteith
+0,22,R. Milne,http://dbpedia.org/resource/Ralph_Milne,"http://dbpedia.org/resource/Robert_Milne_(cricketer,_born_1852)"
+0,23,R. Miller,http://dbpedia.org/resource/Ryan_Miller,http://dbpedia.org/resource/Robert_Miller_(cricketer)
+0,24,R. Miles,http://dbpedia.org/resource/Rontez_Miles,http://dbpedia.org/resource/Robert_Miles_(cricketer)
+0,26,R. McPherson,http://de.dbpedia.org/resource/Ralph_McPherson,http://dbpedia.org/resource/Robert_McPherson_(cricketer)
+0,31,R. Marshall,http://dbpedia.org/resource/Roy_Marshall,http://dbpedia.org/resource/RA_Marshall http://dbpedia.org/resource/Robert_Marshall_(cricketer)
+0,34,R. MacDonald,http://dbpedia.org/resource/Rory_MacDonald_(fighter),http://dbpedia.org/resource/Robert_MacDonald_(creicketer) http://dbpedia.org/resource/Robert_MacDonald_(cricketer)
+0,36,R. Lynch,http://dbpedia.org/resource/Ron_Lynch_(cricketer),"http://dbpedia.org/resource/Robert_Lynch_(Wellington_cricketer) http://dbpedia.org/resource/Robert_Lynch_(cricketer,_born_1856)"
+0,37,R. Long,http://dbpedia.org/resource/Robert_Long_(English_cricketer),"http://dbpedia.org/resource/Robert_Long_(cricketer,_born_1932) http://dbpedia.org/resource/Robert_Long_(New_Zealand_cricketer)"
+0,40,R. Lawson,http://dbpedia.org/resource/Rory_Lawson,http://dbpedia.org/resource/Robert_Lawson_(cricketer)
+0,42,R. Knight,http://dbpedia.org/resource/Roger_Knight_(American_football),"http://dbpedia.org/resource/Robert_Knight_(cricketer,_born_1879)"
+0,45,R. Hunt,"http://dbpedia.org/resource/Ron_Hunt_(footballer,_born_1945)",http://dbpedia.org/resource/Robert_Hunt_(cricketer)
+0,49,R. Hibbert,http://dbpedia.org/resource/Roy_Hibbert,http://dbpedia.org/resource/Robert_Hibbert_(cricketer)
+0,50,R. Hewat,http://dbpedia.org/resource/Peter_Hewat,http://dbpedia.org/resource/Robert_Hewat
+0,53,R. Henderson,http://dbpedia.org/resource/Rob_Henderson,http://dbpedia.org/resource/Robert_Henderson_(cricketer)
+0,54,R. Haywood,http://dbpedia.org/resource/Kate_Haywood,"http://dbpedia.org/resource/Robert_Haywood_(cricketer,_born_1887)"
+0,55,R. Haywood,http://dbpedia.org/resource/Kate_Haywood,http://dbpedia.org/resource/Robert_Haywood_(cricketer) http://dbpedia.org/resource/Robert_Haywood
+0,57,R. Harvey,http://dbpedia.org/resource/Robert_Harvey_(footballer),http://dbpedia.org/resource/Robert_Harvey_(cricketer)
+0,58,R. Gwynn,http://dbpedia.org/resource/William_Gwynn,http://dbpedia.org/resource/Robert_Gwynn
+0,61,R. Gregory,http://dbpedia.org/resource/Ross_Gregory,http://dbpedia.org/resource/Robert_Gregory_(cricketer) http://dbpedia.org/resource/Major_Robert_Gregory
+0,62,R. Green,http://dbpedia.org/resource/Rasmus_Green,http://dbpedia.org/resource/Robert_Green_(cricketer)
+0,63,R. Graham,http://dbpedia.org/resource/Roy_Graham_(baseball),http://dbpedia.org/resource/Robert_Graham_(cricketer)
+0,65,R. Gordon,http://dbpedia.org/resource/Robert_Gordon_(gridiron_football),http://dbpedia.org/resource/Robert_Gordon_(cricketer)
+0,67,R. Frank,http://dbpedia.org/resource/Romero_Frank,http://dbpedia.org/resource/Robert_Frank_(cricketer)
+0,68,R. Flack,http://dbpedia.org/resource/Edwin_Flack,"http://dbpedia.org/resource/Robert_Flack_(South_African_cricketer) http://dbpedia.org/resource/Robert_Flack_(cricketer,_born_1917)"
+0,70,R. Ellis,http://dbpedia.org/resource/Robert_Ellis_(baseball),http://dbpedia.org/resource/Robert_Ellis_(cricketer)
+0,71,R. E. Bush,http://dbpedia.org/resource/George_H._W._Bush,http://dbpedia.org/resource/Robert_Edwin_Bush http://dbpedia.org/resource/Robert_Bush_(cricketer)
+0,72,R. Draper,http://dbpedia.org/resource/Ross_Draper,http://dbpedia.org/resource/Robert_Draper_(cricketer)
+0,74,R. Donovan,http://dbpedia.org/resource/Ryan_Donovan,http://dbpedia.org/resource/Robert_Donovan_(cricketer)
+0,75,R. Dick,http://dbpedia.org/resource/Roy_Dick,http://dbpedia.org/resource/Robert_Dick_(cricketer)
+0,76,R. Dewhurst,http://dbpedia.org/resource/Gerard_Dewhurst,http://dbpedia.org/resource/Robert_Dewhurst
+0,77,R. Dempster,http://dbpedia.org/resource/Ryan_Dempster,http://dbpedia.org/resource/Robert_Dempster
+0,78,R. Davenport,http://dbpedia.org/resource/Ron_Davenport,http://dbpedia.org/resource/Robert_Davenport_(cricketer)
+0,81,R. Coupland,http://dbpedia.org/resource/Joe_Coupland,http://dbpedia.org/resource/Robert_Coupland
+0,84,R. Cooke,http://dbpedia.org/resource/Ronnie_Cooke,"http://dbpedia.org/resource/Robert_Cooke_(Warwickshire_cricketer) http://dbpedia.org/resource/Robert_Cooke_(cricketer,_born_1900)"
+0,85,R. Collinson,http://dbpedia.org/resource/Jimmy_Collinson,http://dbpedia.org/resource/Robert_Collinson
+0,86,R. Coates,http://dbpedia.org/resource/Richard_Coates_(footballer),http://dbpedia.org/resource/Robert_Coates_(cricketer)
+0,87,R. Clifford,http://dbpedia.org/resource/Rosamund_Clifford,http://dbpedia.org/resource/Robert_Clifford_(cricketer)
+0,89,R. Clayton,http://dbpedia.org/resource/Ronnie_Clayton_(footballer),http://dbpedia.org/resource/Robert_Clayton_(cricketer)
+0,91,R. Chalmers,http://dbpedia.org/resource/Lionel_Chalmers,http://dbpedia.org/resource/Robert_Chalmers_(cricketer)
+0,92,R. Chadwick,http://dbpedia.org/resource/Richard_Chadwick_(footballer),http://dbpedia.org/resource/Robert_Chadwick
+0,93,R. Carpenter,http://dbpedia.org/resource/Ryan_Carpenter,http://dbpedia.org/resource/Robert_Carpenter_(cricketer) http://dbpedia.org/resource/Bob_Carpenter_(cricketer) http://dbpedia.org/resource/Robert_P._Carpenter
+0,96,R. Burrows,http://dbpedia.org/resource/Rob_Burrow,http://dbpedia.org/resource/Robert_Burrows
+0,97,R. Brown,http://dbpedia.org/resource/Ross_Brown_(rugby_union),"http://dbpedia.org/resource/Robert_Brown_(cricketer,_born_1850) http://dbpedia.org/resource/Robert_Brown_(New_Zealand_cricketer)"
+0,98,R. Broughton,http://dbpedia.org/resource/Ted_Broughton,http://dbpedia.org/resource/Robert_Broughton_(cricketer)
+0,99,R. Bowers,http://dbpedia.org/resource/Ross_Bowers,http://dbpedia.org/resource/Robert_Bowers
+0,100,R. Boddington,http://dbpedia.org/resource/Peter_Boddington,http://dbpedia.org/resource/Robert_Boddington
+0,101,R. Bestwick,http://dbpedia.org/resource/Dick_Bestwick,http://dbpedia.org/resource/Robert_Bestwick
+0,106,R. Bayford,http://dbpedia.org/resource/Dick_Bayford,http://dbpedia.org/resource/Robert_Bayford
+0,108,R. Bathurst,http://dbpedia.org/resource/Henry_Bathurst_(bishop),http://dbpedia.org/resource/Robert_Bathurst_(cricketer)
+0,109,R. Barnes,http://dbpedia.org/resource/Red_Barnes,http://dbpedia.org/resource/Robert_Barnes_(cricketer)
+0,111,R. Baker,http://dbpedia.org/resource/Snowy_Baker,http://dbpedia.org/resource/Robert_Baker_(cricket) http://dbpedia.org/resource/Robert_Baker_(cricketer)
+0,113,R. Armstrong,http://dbpedia.org/resource/Red_Armstrong,http://dbpedia.org/resource/Robert_Armstrong_(cricketer)
+0,115,R. Anderson,http://dbpedia.org/resource/Red_Anderson_(baseball),"http://dbpedia.org/resource/Robert_Anderson_(MCC_cricketer) http://dbpedia.org/resource/Robert_Anderson_(cricketer,_born_1811) http://dbpedia.org/resource/Robert_Milligan_Anderson http://dbpedia.org/resource/Robert_Anderson_(English_cricketer) http://dbpedia.org/resource/Robert_Anderson_(cricketer_born_1811)"
+0,118,R. Adair,http://dbpedia.org/resource/Rick_Adair,http://dbpedia.org/resource/Robert_Adair_(cricketer)
+0,120,R. Turnbull,http://dbpedia.org/resource/Maurice_Turnbull,http://dbpedia.org/resource/Rivers_Turnbull
+0,121,R. Waller,http://dbpedia.org/resource/Ron_Waller,http://dbpedia.org/resource/Richmond_Waller
+0,122,R. Wright,http://dbpedia.org/resource/Rodney_Wright,http://dbpedia.org/resource/Richard_Wright_(cricketer)
+0,123,R. Wootton,http://dbpedia.org/resource/Stan_Wootton,http://dbpedia.org/resource/Richard_Wootton_(cricketer)
+0,125,R. Williams,http://dbpedia.org/resource/Robert_Williams_(quarterback),"http://dbpedia.org/resource/Richard_Williams_(cricketer,_born_1901) http://dbpedia.org/resource/Richard_Williams_(Worcestershire_cricketer)"
+0,128,R. Watson,http://dbpedia.org/resource/Russ_Watson,http://dbpedia.org/resource/Richard_Watson_(cricketer)
+0,129,R. Vincent,http://dbpedia.org/resource/Rob_Vincent,http://dbpedia.org/resource/Richard_Vincent_(cricketer)
+0,133,R. Turner,http://dbpedia.org/resource/Rob_Turner,http://dbpedia.org/resource/Richard_Turner_(Worcestershire_cricketer) http://dbpedia.org/resource/Richard_Turner_(cricketer)
+0,135,R. Tovey,http://dbpedia.org/resource/Neil_Tovey,http://dbpedia.org/resource/Richard_Tovey http://dbpedia.org/resource/Edward_Tovey http://dbpedia.org/resource/Dick_Tovey
+0,136,R. Torrance,http://dbpedia.org/resource/Bob_Torrance,http://dbpedia.org/resource/Richard_Torrance http://dbpedia.org/resource/Richard_Torrance_(cricketer) http://dbpedia.org/resource/RC_Torrance
+0,137,R. Thomas,http://fr.dbpedia.org/resource/Ronald_Thomas,"http://dbpedia.org/resource/Richard_Thomas_(cricketer,_born_1792)"
+0,139,R. Stanford,http://dbpedia.org/resource/Ross_Stanford,http://dbpedia.org/resource/Richard_Stanford_(Kent_cricketer)
+0,141,R. Simmons,http://dbpedia.org/resource/Roy_Simmons_(American_football),http://dbpedia.org/resource/Richard_Simmons_(cricketer)
+0,143,R. Sanderson,http://dbpedia.org/resource/Pat_Sanderson,http://dbpedia.org/resource/Richard_Sanderson_(cricketer)
+0,144,R. Sampson,http://dbpedia.org/resource/Ralph_Sampson,http://dbpedia.org/resource/Richard_Sampson_(cricketer)
+0,146,R. Rowntree,http://dbpedia.org/resource/Graham_Rowntree,http://dbpedia.org/resource/Richard_Rowntree
+0,147,R. Roe,http://dbpedia.org/resource/Robin_Roe,http://dbpedia.org/resource/Richard_Roe
+0,148,R. Robinson,http://dbpedia.org/resource/Jackie_Robinson,http://dbpedia.org/resource/Richard_Robinson_(cricketer)
+0,149,R. Purchase,http://dbpedia.org/resource/Ralph_Purchase,http://dbpedia.org/resource/Richard_Purchase
+0,150,R. Pratt,http://dbpedia.org/resource/Robert_Pratt_(American_football),http://dbpedia.org/resource/Richard_Pratt_(cricketer)
+0,151,R. Philpott,http://dbpedia.org/resource/Albert_Philpott,http://dbpedia.org/resource/Richard_Philpott
+0,155,R. Ollivierre,http://dbpedia.org/resource/Charles_Ollivierre,http://dbpedia.org/resource/Richard_Ollivierre
+0,156,R. Newland,http://dbpedia.org/resource/Ray_Newland,http://dbpedia.org/resource/Richard_Newland
+0,158,R. Mills,http://dbpedia.org/resource/Ronnie_Mills,http://dbpedia.org/resource/Richard_Mills_(cricketer)
+0,161,R. Lowe,http://dbpedia.org/resource/Richard_Lowe_(footballer),"http://dbpedia.org/resource/Richard_Lowe_(cricketer,_born_1904)"
+0,162,R. Lowe,http://dbpedia.org/resource/Richard_Lowe_(footballer),"http://dbpedia.org/resource/Richard_Lowe_(cricketer) http://dbpedia.org/resource/Richard_Lowe_(cricketer,_born_1869)"
+0,163,R. Lenton,http://dbpedia.org/resource/Jay_Lenton,http://dbpedia.org/resource/Richard_Lenton
+0,164,R. Leigh,http://dbpedia.org/resource/Doug_Leigh,http://dbpedia.org/resource/Richard_Leigh_(cricketer)
+0,166,R. Langridge,http://dbpedia.org/resource/James_Langridge,http://dbpedia.org/resource/Richard_Langridge
+0,167,R. Lane,http://dbpedia.org/resource/Randall_Lane,http://dbpedia.org/resource/Richard_Lane_(cricketer)
+0,171,R. Kelly,http://dbpedia.org/resource/Red_Kelly,"http://dbpedia.org/resource/Richard_Kelly_(cricketer,_born_1870) http://dbpedia.org/resource/Richard_Kelly_(Australian_cricketer)"
+0,173,R. Jones,http://dbpedia.org/resource/Rhonda_Jones,"http://dbpedia.org/resource/Richard_Jones_(cricketer,_born_1916)"
+0,174,R. Johnson,http://dbpedia.org/resource/Reggie_Johnson_(American_football),"http://dbpedia.org/resource/Richard_Johnson_(cricketer,_born_1829)"
+0,175,R. Howitt,http://dbpedia.org/resource/Bobby_Howitt,http://dbpedia.org/resource/Richard_Howitt_(cricketer_born_1864)

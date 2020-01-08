@@ -1,0 +1,8 @@
+F1: 0.96703,Precision: 0.96703,Recall: 0.96703,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,17,Glacidorboidea,http://dbpedia.org/resource/Glacidorbis,http://dbpedia.org/resource/Glacidorboidea http://dbpedia.org/resource/Glacidorbidae
+1,30,Stauroteuthidae,http://dbpedia.org/resource/Stauroteuthis_syrtensis,http://dbpedia.org/resource/Chunioteuthis http://dbpedia.org/resource/Stauroteuthis http://dbpedia.org/resource/Stauroteuthidae
+1,31,Stauroteuthidae,http://dbpedia.org/resource/Stauroteuthis_syrtensis,http://dbpedia.org/resource/Chunioteuthis http://dbpedia.org/resource/Stauroteuthis http://dbpedia.org/resource/Stauroteuthidae
+1,59,Mutelidae,http://fr.dbpedia.org/resource/Mutelidae,http://dbpedia.org/resource/Mutelidae http://dbpedia.org/resource/Iridinidae
+1,118,Sepiidae,http://dbpedia.org/resource/Cuttlefish,http://dbpedia.org/resource/Sepiidae
+1,119,Sepiidae,http://dbpedia.org/resource/Cuttlefish,http://dbpedia.org/resource/Sepiidae

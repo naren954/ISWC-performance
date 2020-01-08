@@ -1,0 +1,4 @@
+F1: 0.92593,Precision: 0.92593,Recall: 0.92593,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,Ã\u008Ele-de-France,http://dbpedia.org/resource/Ə,http://dbpedia.org/resource/Île-de-France_(region)
+1,2,RhÃ´ne-Alpes,http://dbpedia.org/resource/Rhodium,http://dbpedia.org/resource/Rhône-Alpes

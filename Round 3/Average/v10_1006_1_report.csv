@@ -1,0 +1,5 @@
+F1: 0.57143,Precision: 0.57143,Recall: 0.57143,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,2,IULM University of Milan,http://dbpedia.org/resource/University_of_Milan,http://dbpedia.org/resource/IULM_University_-_Milan http://dbpedia.org/resource/IULM_University http://dbpedia.org/resource/IULM http://dbpedia.org/resource/IULM_University_of_Milan
+1,3,Sacred Heart University,http://dbpedia.org/resource/University_of_New_Brunswick,http://dbpedia.org/resource/Sacred_Heart_Pioneers_softball http://dbpedia.org/resource/Sacred_Heart_Pioneers_men's_soccer http://dbpedia.org/resource/Sacred_Heart_University_men's_ice_hockey http://dbpedia.org/resource/Sacred_Heart_Pioneers_baseball http://dbpedia.org/resource/Sacred_Heart_Pioneers_men's_lacrosse http://dbpedia.org/resource/Sacred_Heart_Pioneers_women's_soccer http://dbpedia.org/resource/Sacred_Heart_University http://dbpedia.org/resource/Sacred_Heart_Pioneers_bowling
+1,7,LaSalle College,http://dbpedia.org/resource/De_La_Salle_University,"http://dbpedia.org/resource/Lasalle_College http://dbpedia.org/resource/Lasalle_College,_Bogota http://dbpedia.org/resource/LaSalle_College"

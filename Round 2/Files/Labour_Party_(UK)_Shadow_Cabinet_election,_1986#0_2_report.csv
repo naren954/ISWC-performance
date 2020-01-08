@@ -1,0 +1,5 @@
+"F1: 0.83333","Precision: 0.83333","Recall: 0.83333"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"2","2","John Smith","http://dbpedia.org/resource/John_Smith_(Welsh_politician)","http://dbpedia.org/resource/John_Smith_(Scottish_politician) http://dbpedia.org/resource/John_Smith_(Labour_Party_leader) http://dbpedia.org/resource/John_Smith_(UK_Politician)"
+"2","6","Barry Jones","http://dbpedia.org/resource/Barry_Jones_(Australian_politician)","http://dbpedia.org/resource/Stephen_Barry_Jones,_Baron_Jones http://dbpedia.org/resource/Stephen_Barry_Jones http://dbpedia.org/resource/Barry_Jones,_Baron_Jones"
+"2","17","Robert Hughes","http://dbpedia.org/resource/Robert_Hughes_(critic)","http://dbpedia.org/resource/Baron_Hughes_of_Woodside http://dbpedia.org/resource/Robert_Hughes_(UK_politician) http://dbpedia.org/resource/Robert_Hughes,_Baron_Hughes_of_Woodside http://dbpedia.org/resource/Robert_Hughes,_Baron_Hughes http://dbpedia.org/resource/Lord_Hughes_of_Woodside"

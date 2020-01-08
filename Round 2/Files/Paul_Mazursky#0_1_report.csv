@@ -1,0 +1,4 @@
+"F1: 0.85714","Precision: 0.85714","Recall: 0.85714"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","8","Tempest","http://dbpedia.org/resource/The_Tempest_(2010_film)","http://dbpedia.org/resource/Tempest_(1982_film)"
+"1","14","The Pickle","http://dbpedia.org/resource/The_Pickle_Recipe","http://dbpedia.org/resource/The_Pickle"

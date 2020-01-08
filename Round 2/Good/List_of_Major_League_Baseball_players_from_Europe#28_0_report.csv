@@ -1,0 +1,6 @@
+F1: 0.91111,Precision: 0.91111,Recall: 0.91111,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,6,Bill Collins,http://es.dbpedia.org/resource/Bill_Collins,http://dbpedia.org/resource/Bill_Collins_(catcher)
+0,18,Mike Flynn,http://dbpedia.org/resource/Mike_Flynn_(basketball),http://dbpedia.org/resource/Mike_Flynn_(baseball)
+0,41,Bill Sullivan,http://dbpedia.org/resource/Bill_Sullivan_(pitcher),http://dbpedia.org/resource/Bill_Sullivan_(outfielder)
+0,45,Jimmy Walsh,"http://dbpedia.org/resource/Jimmy_Walsh_(footballer,_born_1930)",http://dbpedia.org/resource/Jimmy_Walsh_(outfielder) http://dbpedia.org/resource/Jimmy_Walsh_(baseball_outfielder)

@@ -1,0 +1,10 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,4,Ariquemes,http://dbpedia.org/resource/Sociedade_Esportiva_Ariquemes,http://dbpedia.org/resource/Ji-Paraná_Futebol_Clube
+1,6,Ji-ParanÃ¡,http://dbpedia.org/resource/Ji-Paraná_Futebol_Clube,http://dbpedia.org/resource/Sociedade_Esportiva_Ariquemes
+1,13,UniÃ£o Cacoalense,http://dbpedia.org/resource/Sociedade_Esportiva_União_Cacoalense,http://dbpedia.org/resource/Clube_de_Futebol_da_Amazônia
+1,14,UniÃ£o Cacoalense,http://dbpedia.org/resource/Sociedade_Esportiva_União_Cacoalense,http://dbpedia.org/resource/Ji-Paraná_Futebol_Clube
+1,15,Vilhena,http://dbpedia.org/resource/Vilhena_Esporte_Clube,http://dbpedia.org/resource/Ji-Paraná_Futebol_Clube
+1,22,Ji-ParanÃ¡,http://dbpedia.org/resource/Ji-Paraná_Futebol_Clube,http://dbpedia.org/resource/Esporte_Clube_Espigão
+1,24,Vilhena,http://dbpedia.org/resource/Vilhena_Esporte_Clube,http://dbpedia.org/resource/Sociedade_Esportiva_Ariquemes
+1,25,Genus,http://dbpedia.org/resource/Sampson_Genus,http://dbpedia.org/resource/Vilhena_Esporte_Clube

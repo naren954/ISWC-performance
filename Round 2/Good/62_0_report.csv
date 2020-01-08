@@ -1,0 +1,6 @@
+F1: 0.76471,Precision: 0.76471,Recall: 0.76471,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,T. Davis,http://dbpedia.org/resource/Troy_Davis,http://dbpedia.org/resource/Tom_Davis_(comedian)
+0,5,S. James,http://dbpedia.org/resource/Steve_James_(actor),http://dbpedia.org/resource/Sidney_James_(actor) http://dbpedia.org/resource/Syd_James_(actor) http://dbpedia.org/resource/Sydney_James_(actor) http://dbpedia.org/resource/Sid_James
+0,7,R. Harris,http://dbpedia.org/resource/Richard_Harris,http://dbpedia.org/resource/Robin_Harris http://dbpedia.org/resource/Robin_Hughes_Harris
+0,14,M. Taylor,http://dbpedia.org/resource/Meshach_Taylor,http://dbpedia.org/resource/Mackenzie_Taylor

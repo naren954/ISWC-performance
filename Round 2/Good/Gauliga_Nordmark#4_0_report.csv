@@ -1,0 +1,4 @@
+F1: 0.81818,Precision: 0.81818,Recall: 0.81818,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,9,Polizei SV LÃ¼beck,http://dbpedia.org/resource/VfB_Lübeck,http://dbpedia.org/resource/Polizei_SV_Lübeck
+0,13,PhÃ¶nix LÃ¼beck,http://dbpedia.org/resource/1._FC_Phönix_Lübeck,http://dbpedia.org/resource/Phönix_Lübeck

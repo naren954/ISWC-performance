@@ -1,0 +1,30 @@
+F1: 0.72549,Precision: 0.72549,Recall: 0.72549,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,6,Wissahickon,http://dbpedia.org/resource/Wissahickon_station,http://dbpedia.org/resource/Wissahickon_(house)
+0,17,Winthrop College Historic District,http://dbpedia.org/resource/Elon_College_Historic_District,http://dbpedia.org/resource/Winthrop_College_Historic_District
+0,20,Winterset Courthouse Square Commercial Historic District,http://dbpedia.org/resource/Athens_Courthouse_Square_Commercial_Historic_District,http://dbpedia.org/resource/Winterset_Courthouse_Square_Commercial_Historic_District
+0,34,Winona Lake Historic District,http://dbpedia.org/resource/Exchange_Place_Historic_District,http://dbpedia.org/resource/Winona_Lake_Historic_District
+0,35,Winona,http://dbpedia.org/resource/Winona_station,"http://dbpedia.org/resource/Winona_(Winona,_Virginia)"
+0,36,Winona,http://dbpedia.org/resource/Winona_station,"http://dbpedia.org/resource/Winona_(Norfolk,_Virginia)"
+0,39,Winnemucca Main Post Office,http://dbpedia.org/resource/United_States_Post_Office–Yuma_Main,http://dbpedia.org/resource/U.S._Post_Office-Winnemucca_Main http://dbpedia.org/resource/US_Post_Office-Winnemucca_Main http://dbpedia.org/resource/Winnemucca_Main_Post_Office
+0,44,Wingate Commercial Historic District,http://dbpedia.org/resource/Sylvester_Commercial_Historic_District,http://dbpedia.org/resource/Wingate_Commercial_Historic_District
+0,55,Windswept,http://dbpedia.org/resource/Windswept_Farm,"http://dbpedia.org/resource/Windswept_(Steuben,_Maine)"
+0,61,Windsor Hills Historic District,"http://dbpedia.org/resource/Windsor_Village_Historic_District_(Windsor,_New_York)",http://dbpedia.org/resource/Windsor_Hills_Historic_District
+0,62,Windsor Castle,http://dbpedia.org/resource/Windsor_Castle,"http://dbpedia.org/resource/Windsor_Castle_(Toano,_Virginia)"
+0,63,Windsor Castle,http://dbpedia.org/resource/Windsor_Castle,"http://dbpedia.org/resource/Windsor_Castle_(Smithfield,_Virginia) http://dbpedia.org/resource/Windsor_Castle,_Smithfield,_Virginia http://dbpedia.org/resource/Windsor_Castle_in_Smithfield,_Virginia http://dbpedia.org/resource/Windsor_Castle_Park http://dbpedia.org/resource/Windsor_Castle_Manor_House"
+0,65,Windsor,http://dbpedia.org/resource/Windsor_Castle,"http://dbpedia.org/resource/Windsor_(Port_Penn,_Delaware)"
+0,66,Windsor,http://dbpedia.org/resource/Windsor_Castle,"http://dbpedia.org/resource/Windsor_(Cascade,_Virginia)"
+0,75,Winchester Town Hall,http://dbpedia.org/resource/Winchester_Town_Hall_(Massachusetts),http://dbpedia.org/resource/Winchester_Town_Hall_(New_Hampshire)
+0,76,Winchester Residential Historic District,http://dbpedia.org/resource/Downtown_Chelsea_Residential_Historic_District,http://dbpedia.org/resource/Winchester_Residential_Historic_District
+0,79,Winchester Memorial Church,http://dbpedia.org/resource/Winchester_Cathedral,http://dbpedia.org/resource/Winchester_Memorial_Church http://dbpedia.org/resource/New_Hampshire_Conservatory_of_Music_and_the_Arts
+0,80,Winchester Historic District,"http://dbpedia.org/resource/Winchester_Historic_District_(Winchester,_Virginia)","http://dbpedia.org/resource/Winchester_Historic_District_(Winchester,_Illinois)"
+0,82,Winchester Courthouse Square Historic District,http://dbpedia.org/resource/Warsaw_Courthouse_Square_Historic_District,http://dbpedia.org/resource/Winchester_Courthouse_Square_Historic_District
+0,85,Winchendon Village Historic District,http://dbpedia.org/resource/Rhinebeck_Village_Historic_District,http://dbpedia.org/resource/Winchendon_Village_Historic_District
+0,87,Wilton,http://dbpedia.org/resource/Wilton_House,"http://dbpedia.org/resource/Wilton_(Wye_Mills,_Maryland)"
+0,88,Wilton,http://dbpedia.org/resource/Wilton_House,"http://dbpedia.org/resource/Wilton_(Wilton,_Virginia)"
+0,91,Wilson Park Houses,"http://dbpedia.org/resource/Wilson_House_(Fort_Mill,_South_Carolina)",http://dbpedia.org/resource/Wilson_Park_Houses
+0,96,Wilson House,"http://dbpedia.org/resource/Wilson_House_(Fort_Mill,_South_Carolina)","http://dbpedia.org/resource/Wilson_House_(York,_South_Carolina)"
+0,97,Wilson Hall,http://dbpedia.org/resource/Shadow_Lawn_(New_Jersey),"http://dbpedia.org/resource/Wilson_Hall_(Bucksport,_Maine)"
+0,98,Wilson Hall,http://dbpedia.org/resource/Shadow_Lawn_(New_Jersey),http://dbpedia.org/resource/Wilson_Hall_(Arkansas_Tech_University)
+0,99,Wilson Central Business-Tobacco Warehouse Historic District,http://dbpedia.org/resource/Wilson_Central_Business–Tobacco_Warehouse_Historic_District,http://dbpedia.org/resource/Wilson_Central_Business-Tobacco_Warehouse_Historic_District
+0,101,Wilson Building,http://dbpedia.org/resource/John_A._Wilson_Building,"http://dbpedia.org/resource/Wilson_Building_(Dallas) http://dbpedia.org/resource/Wilson_Building_(Dallas,_Texas)"

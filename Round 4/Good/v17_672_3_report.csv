@@ -1,0 +1,12 @@
+F1: 0.91870,Precision: 0.91870,Recall: 0.91870,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,1,The Sight,http://dbpedia.org/resource/Out_of_Sight_(novel),http://dbpedia.org/resource/The_Sight_(Hunter_novel) http://dbpedia.org/resource/The_Sight_(Warriors)
+3,3,Warriors: Omen of the Stars,http://dbpedia.org/resource/Warriors_(novel_series),http://dbpedia.org/resource/Fading_Echoes_(Warriors) http://dbpedia.org/resource/Night_Whispers_(Warriors) http://dbpedia.org/resource/The_Sign_of_the_Moon http://dbpedia.org/resource/The_Forgotten_Warrior http://dbpedia.org/resource/The_Last_Hope_(Warriors) http://dbpedia.org/resource/Warriors:_Omen_of_the_Stars http://dbpedia.org/resource/Night_whispers http://dbpedia.org/resource/Fading_echoes http://dbpedia.org/resource/Sign_of_the_Moon http://dbpedia.org/resource/The_Fourth_Apprentice_(Warriors) http://dbpedia.org/resource/Sign_of_the_Moon_(Warriors) http://dbpedia.org/resource/Fading_Echoes http://dbpedia.org/resource/The_Fourth_Apprentice
+3,15,City of Thieves,http://dbpedia.org/resource/City_of_Thieves_(novel),http://dbpedia.org/resource/City_of_Thieves_(gamebook)
+3,17,Twilight,http://dbpedia.org/resource/Twilight_(Meyer_novel),http://dbpedia.org/resource/Twilight_(Hunter) http://dbpedia.org/resource/Twilight_(Hunter_novel) http://dbpedia.org/resource/Twilight_(Warriors)
+3,24,Star Trek Chronology,http://dbpedia.org/resource/Star_Trek_Spaceflight_Chronology,http://dbpedia.org/resource/Star_Trek_timeline http://dbpedia.org/resource/Star_Trek_Chronology http://dbpedia.org/resource/Eugenics_Wars http://dbpedia.org/resource/Timeline_of_Star_Trek http://dbpedia.org/resource/World_War_III_(Star_Trek) http://dbpedia.org/resource/Star_trek_time_line http://dbpedia.org/resource/Eugenics_War
+3,26,Star Science Fiction Stories No.2,http://dbpedia.org/resource/Star_Science_Fiction_Stories_No.3,http://dbpedia.org/resource/Star_Science_Fiction_Stories_No.2
+3,32,Loop,,http://dbpedia.org/resource/Loop_(novel)
+3,64,The Eternal Flame,,http://dbpedia.org/resource/The_Eternal_Flame
+3,65,Shadowrise,,http://dbpedia.org/resource/Shadowmarch http://dbpedia.org/resource/Shadowrise
+3,89,Change of Command,http://dbpedia.org/resource/Change_of_Command_(novel),http://dbpedia.org/resource/Change_Of_Command http://dbpedia.org/resource/Change_of_command http://dbpedia.org/resource/Change_of_Command

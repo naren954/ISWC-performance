@@ -1,0 +1,67 @@
+F1: 0.37500,Precision: 0.37500,Recall: 0.37500,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,P. Duane,http://dbpedia.org/resource/Duane_Allman,http://dbpedia.org/resource/Paul_Duane
+1,2,J. Alexander,http://dbpedia.org/resource/Jason_Alexander,http://dbpedia.org/resource/John_Alexander_(director)
+1,3,P. Wellington,http://dbpedia.org/resource/Peter_Wellington,http://dbpedia.org/resource/Peter_Wellington_(director)
+1,4,G. Sax,http://dbpedia.org/resource/Adolphe_Sax,http://dbpedia.org/resource/Geoff_Sax http://dbpedia.org/resource/Geoffrey_Sax
+1,6,M. Varnel,http://dbpedia.org/resource/Marcel_Varnel,http://dbpedia.org/resource/Max_Varnel
+1,7,S. Smith,http://dbpedia.org/resource/Sam_Smith_(singer),http://dbpedia.org/resource/Scott_Smith_(director)
+1,8,F. Perry,http://dbpedia.org/resource/Fred_Perry,http://dbpedia.org/resource/Frank_Perry http://dbpedia.org/resource/Frank_J._Perry
+1,9,J. Head,http://dbpedia.org/resource/James_Head_(fighter),http://dbpedia.org/resource/James_Head
+1,11,F. Burney,http://dbpedia.org/resource/Charles_Burney,http://dbpedia.org/resource/Fahim_Burney
+1,12,N. Young-seok,http://fr.dbpedia.org/resource/Noh_Young-seok,http://dbpedia.org/resource/Na_Young-seok
+1,13,J. Melman,http://dbpedia.org/resource/Yossi_Melman,http://dbpedia.org/resource/Jeffrey_L._Melman http://dbpedia.org/resource/Jeffrey_Melman http://dbpedia.org/resource/Jeff_Melman
+1,14,R. Davao,http://dbpedia.org/resource/Rodrigo_Duterte,http://dbpedia.org/resource/Ricky_Davao
+1,16,E. Wright,http://dbpedia.org/resource/Richard_Wright_(musician),http://dbpedia.org/resource/Edgar_Wright_filmography http://dbpedia.org/resource/Edgar_Wright
+1,17,D. M. Perez,http://dbpedia.org/resource/Antonio_M._Pérez,http://dbpedia.org/resource/Don_Michael_Perez
+1,18,S. Miller,http://dbpedia.org/resource/Arthur_Miller,http://dbpedia.org/resource/Sam_Miller
+1,19,S. Purcell,http://dbpedia.org/resource/Henry_Purcell,http://dbpedia.org/resource/Steve_Purcell http://dbpedia.org/resource/Collette_Michaud
+1,20,A. Wilson,http://dbpedia.org/resource/Woodrow_Wilson,http://dbpedia.org/resource/Andy_Wilson_(director)
+1,23,M. Smith,http://dbpedia.org/resource/Mamie_Smith,http://dbpedia.org/resource/The_Mandy_EP http://dbpedia.org/resource/Mandy_Smith
+1,24,J. Shea,http://dbpedia.org/resource/John_Shea,http://dbpedia.org/resource/Jack_Shea_(director)
+1,25,G. Huang,http://dbpedia.org/resource/Grace_Huang,http://dbpedia.org/resource/George_Huang_(director)
+1,26,K. Won-seok,http://dbpedia.org/resource/Jang_Won-seok,http://dbpedia.org/resource/Kim_Won-seok
+1,27,J. Hang-jun,http://dbpedia.org/resource/Zhang_Jun_(badminton),http://dbpedia.org/resource/Zhang_Hang-jun http://dbpedia.org/resource/Jang_Hang-jun
+1,28,A. Rojas,http://es.dbpedia.org/resource/Adolfo_Rojas,http://dbpedia.org/resource/Alberto_Rojas
+1,29,J. Fargo,http://dbpedia.org/resource/Jackie_Fargo,http://dbpedia.org/resource/James_fargo http://dbpedia.org/resource/James_Fargo
+1,30,D. Zeff,http://fr.dbpedia.org/resource/Alexandre_Zeff,http://dbpedia.org/resource/Dan_Zeff
+1,31,M. Arnold,http://dbpedia.org/resource/Malcolm_Arnold,http://dbpedia.org/resource/Matthew_Arnold_(director)
+1,34,O. Kaneda,http://dbpedia.org/resource/Kazuya_Kaneda,http://dbpedia.org/resource/Osamu_Kaneda
+1,37,J. Manahan,http://dbpedia.org/resource/James_Manahan,http://dbpedia.org/resource/Johnny_Manahan
+1,38,P. Kosminsky,http://fr.dbpedia.org/resource/Evgueni_Kosminski,http://dbpedia.org/resource/Peter_kosminksy http://dbpedia.org/resource/Peter_Kosminsky
+1,41,S. Reynolds,http://dbpedia.org/resource/Joshua_Reynolds,http://dbpedia.org/resource/Sheldon_Reynolds_(producer)
+1,43,D. Grossman,http://dbpedia.org/resource/David_Grossman,http://dbpedia.org/resource/David_Grossman_(director)
+1,44,I. Toynton,http://dbpedia.org/resource/Norman_Toynton,http://dbpedia.org/resource/Ian_Toynton
+1,46,T. Clegg,http://dbpedia.org/resource/Johnny_Clegg,http://dbpedia.org/resource/Tom_Clegg_(director)
+1,47,J. Manahan,http://dbpedia.org/resource/James_Manahan,http://dbpedia.org/resource/Johnny_Manahan
+1,49,J. R. Thompson,http://dbpedia.org/resource/J._Lee_Thompson,http://dbpedia.org/resource/J._Rupert_Thompson
+1,50,M. Lessac,http://dbpedia.org/resource/Arthur_Lessac,http://dbpedia.org/resource/Michael_Lessac
+1,53,D. Greene,http://dbpedia.org/resource/Diane_Greene,http://dbpedia.org/resource/David_Greene_(director) http://dbpedia.org/resource/David_Greene_(tv_director)
+1,54,A. N. Khan,http://dbpedia.org/resource/Liaquat_Ali_Khan,http://dbpedia.org/resource/Amna_Nawaz_Khan
+1,55,A. Wolff,http://dbpedia.org/resource/Albert_Wolff_(journalist),http://dbpedia.org/resource/Art_Wolff
+1,56,H. Fathi,http://dbpedia.org/resource/Hassan_Fathy,http://dbpedia.org/resource/Hassan_Fathi
+1,57,K. Ghatak,http://dbpedia.org/resource/Ritwik_Ghatak,http://dbpedia.org/resource/Kaushik_Ghatak
+1,59,M. Sawers,http://dbpedia.org/resource/Bill_Sawers,http://dbpedia.org/resource/Mark_Sawers
+1,64,G. Edwards,http://dbpedia.org/resource/Robert_Edwards_(physiologist),http://dbpedia.org/resource/Gale_Edwards
+1,65,T. Whitby,http://dbpedia.org/resource/Thomas_Whitby,http://dbpedia.org/resource/Tim_Whitby
+1,67,J. Alexander,http://dbpedia.org/resource/Jason_Alexander,http://dbpedia.org/resource/John_Alexander_(director)
+1,70,A. Reid,http://dbpedia.org/resource/Anne_Reid,http://dbpedia.org/resource/Alastair_Reid_(director)
+1,74,S. Tully,http://dbpedia.org/resource/James_Tully_(philosopher),http://dbpedia.org/resource/Susan_Tully http://dbpedia.org/resource/Sue_tully http://dbpedia.org/resource/Sue_Tully
+1,75,J. Levy,http://dbpedia.org/resource/Jacques_Levy,http://dbpedia.org/resource/Jefery_Levy
+1,76,S. Lathan,http://dbpedia.org/resource/Sanaa_Lathan,http://dbpedia.org/resource/Stan_Lathan
+1,78,J. Sen,http://dbpedia.org/resource/Patrick_Leahy,http://dbpedia.org/resource/Jon_Sen
+1,79,L. Guillen,"http://dbpedia.org/resource/Wilhelm_II,_German_Emperor",http://dbpedia.org/resource/Laurice_Guillen
+1,80,A. Biberman,http://dbpedia.org/resource/Leonid_Biberman,http://dbpedia.org/resource/Abner_Biberman
+1,81,N. Doi,http://dbpedia.org/resource/Nelson_Doi,http://dbpedia.org/resource/Nobuhiro_Doi http://dbpedia.org/resource/Doi_Nobuhiro http://dbpedia.org/resource/土井裕泰
+1,82,R. Correll,http://dbpedia.org/resource/Charles_Correll,http://dbpedia.org/resource/Rich_Correll http://dbpedia.org/resource/Richard_T._Correll http://dbpedia.org/resource/Richard_Correll
+1,84,J. Melman,http://dbpedia.org/resource/Yossi_Melman,http://dbpedia.org/resource/Jeffrey_L._Melman http://dbpedia.org/resource/Jeffrey_Melman http://dbpedia.org/resource/Jeff_Melman
+1,87,T. Stern,http://dbpedia.org/resource/Tom_Stern_(cinematographer),http://dbpedia.org/resource/Tom_Stern_(director)
+1,90,W. Mackenzie,http://dbpedia.org/resource/William_Lyon_Mackenzie_King,http://dbpedia.org/resource/Will_Mackenzie http://dbpedia.org/resource/Will_Mackenzie_(director)
+1,91,F. Kashmiri,http://dbpedia.org/resource/Ilyas_Kashmiri,http://dbpedia.org/resource/Fahad_Kashmiri
+1,92,F. Rind,http://de.dbpedia.org/resource/Hermann_Rind,http://dbpedia.org/resource/Farooq_Rind
+1,93,K. Nisar,http://dbpedia.org/resource/Hassan_Nisar,http://dbpedia.org/resource/Kashif_Nisar
+1,94,L. Hyung-min,http://dbpedia.org/resource/Shin_Hyung-min,http://dbpedia.org/resource/Lee_Hyeong-min http://dbpedia.org/resource/Lee_Hyung-min http://dbpedia.org/resource/Lee_Hyung_Min
+1,99,A. Biberman,http://dbpedia.org/resource/Leonid_Biberman,http://dbpedia.org/resource/Abner_Biberman
+1,100,C. Cant,http://dbpedia.org/resource/Sanne_Cant,http://dbpedia.org/resource/Colin_Cant
+1,101,Y. Seok-ho,http://dbpedia.org/resource/Jeon_Seok-ho,http://dbpedia.org/resource/Yoon_Suk-ho http://dbpedia.org/resource/Yun_Suk_Ho http://dbpedia.org/resource/Yoon_Seok-ho http://dbpedia.org/resource/Yoon_Seok-Ho
+1,104,M. Salomon,http://de.dbpedia.org/resource/Martina_Salomon,http://dbpedia.org/resource/Mikael_Salomon

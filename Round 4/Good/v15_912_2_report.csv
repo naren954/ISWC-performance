@@ -1,0 +1,4 @@
+F1: 0.91667,Precision: 0.91667,Recall: 0.91667,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,6,Roberto,http://dbpedia.org/resource/Roberto_Marinho,http://dbpedia.org/resource/Roberto_(horse)
+2,13,Easton,http://dbpedia.org/resource/Nicholas_Easton,http://dbpedia.org/resource/Easton_(horse)

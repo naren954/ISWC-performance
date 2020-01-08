@@ -1,0 +1,7 @@
+F1: 0.58333,Precision: 0.58333,Recall: 0.58333,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,Bleak House,http://dbpedia.org/resource/Bleak_House_(1920_film),http://dbpedia.org/resource/Bleak_House_(1985_TV_serial) http://dbpedia.org/resource/Bleak_House_(1985) http://dbpedia.org/resource/Bleak_House_(1985_TV_series)
+1,2,40 Minutes,http://fr.dbpedia.org/resource/40_minutes,http://dbpedia.org/resource/Forty_Minutes http://dbpedia.org/resource/40_Minutes
+1,6,Teachers,http://dbpedia.org/resource/Please_Teacher!,http://dbpedia.org/resource/Teachers_(TV_series) http://dbpedia.org/resource/Teachers_(sitcom) http://dbpedia.org/resource/Teachers_(UK_TV_series) http://dbpedia.org/resource/Brian_Steadman http://dbpedia.org/resource/Kurt_McKenna http://dbpedia.org/resource/Susan_Gately
+1,10,Bleak House,http://dbpedia.org/resource/Bleak_House_(1920_film),http://dbpedia.org/resource/Bleak_House_(2005_TV_series) http://dbpedia.org/resource/Bleak_House_(2005_TV_serial) http://dbpedia.org/resource/Bleak_House_(2005)
+1,11,Jane Eyre,http://dbpedia.org/resource/Jane_Eyre_(1943_film),http://dbpedia.org/resource/Jane_Eyre_(2006_TV_serial) http://dbpedia.org/resource/Jane_Eyre_(2006_miniseries)

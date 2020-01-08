@@ -1,0 +1,6 @@
+"F1: 0.60000","Precision: 0.60000","Recall: 0.60000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","2","Byzantium","http://dbpedia.org/resource/Istanbul","http://dbpedia.org/resource/Byzantium_(colour) http://dbpedia.org/resource/Byzantium_(color)"
+"0","7","Bole","http://dbpedia.org/resource/Trunk_(botany)","http://dbpedia.org/resource/Terra_rosa_(colour) http://dbpedia.org/resource/Bole_(color)"
+"0","8","Blue-green","http://dbpedia.org/resource/Blue","http://dbpedia.org/resource/Bondi_blue http://dbpedia.org/resource/Bluegreen http://dbpedia.org/resource/Blue_green http://dbpedia.org/resource/Blue-green http://dbpedia.org/resource/Green-blue http://dbpedia.org/resource/Bondi_Blue http://dbpedia.org/resource/Green_Blue"
+"0","10","Bleu de France","http://dbpedia.org/resource/Royal_blue","http://dbpedia.org/resource/Bleu_de_France_(colour) http://dbpedia.org/resource/Bleu_de_France_(color) http://dbpedia.org/resource/Bleu_De_France http://dbpedia.org/resource/Blue_de_France_(color)"

@@ -1,0 +1,10 @@
+F1: 0.91919,Precision: 0.91919,Recall: 0.91919,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,10,H. A. Tuấn,http://dbpedia.org/resource/Võ_Huy_Toàn,http://dbpedia.org/resource/Ahn_Tuan_Hoang http://dbpedia.org/resource/Hoàng_Anh_Tuấn http://dbpedia.org/resource/Ahn_Taun_Hoang http://dbpedia.org/resource/Anh_Tuan_Hoang http://dbpedia.org/resource/Hoang_anh_tuan http://dbpedia.org/resource/Hoang_Anh_Tuan
+3,20,H. A. Tuấn,http://dbpedia.org/resource/Võ_Huy_Toàn,http://dbpedia.org/resource/Ahn_Tuan_Hoang http://dbpedia.org/resource/Hoàng_Anh_Tuấn http://dbpedia.org/resource/Ahn_Taun_Hoang http://dbpedia.org/resource/Anh_Tuan_Hoang http://dbpedia.org/resource/Hoang_anh_tuan http://dbpedia.org/resource/Hoang_Anh_Tuan
+3,56,G. Markov,http://fr.dbpedia.org/resource/Guéorgui_Markov,http://dbpedia.org/resource/Georgi_Markov_(weightlifter)
+3,57,L. Sampanis,,http://dbpedia.org/resource/Sabanis http://dbpedia.org/resource/Leonidas_Sampanis http://dbpedia.org/resource/Luan_shabani http://dbpedia.org/resource/Luan_Shabani http://dbpedia.org/resource/Leonidas_Sabanis
+3,64,G. Markov,http://fr.dbpedia.org/resource/Guéorgui_Markov,http://dbpedia.org/resource/Georgi_Markov_(weightlifter)
+3,65,L. Sampanis,,http://dbpedia.org/resource/Sabanis http://dbpedia.org/resource/Leonidas_Sampanis http://dbpedia.org/resource/Luan_shabani http://dbpedia.org/resource/Luan_Shabani http://dbpedia.org/resource/Leonidas_Sabanis
+3,96,A. Stadler,http://dbpedia.org/resource/Achim_Stadler,http://dbpedia.org/resource/Andreas_Stadler
+3,97,F. Aigner,http://dbpedia.org/resource/Hannes_Aigner,http://dbpedia.org/resource/Franz_Aigner_(weightlifter)

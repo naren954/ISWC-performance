@@ -1,0 +1,4 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,"Lost Songs Released: November 20, 2007 Label: Tooth & Nail (TND07377) Formats: CD, album, digital download",http://dbpedia.org/resource/Music_download,http://dbpedia.org/resource/Lost_Songs_(Anberlin_album)
+1,5,"Devotion Released: October 15, 2013 Label: Big3 Format: CD, digital download Details: Vital: Special Edition",http://dbpedia.org/resource/Extended_play,http://dbpedia.org/resource/Devotion_(Anberlin_album) http://dbpedia.org/resource/City_Electric

@@ -1,0 +1,6 @@
+"F1: 0.80952","Precision: 0.80952","Recall: 0.80952"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"4","1","Dave Grossman","http://dbpedia.org/resource/Allen_Grossman","http://dbpedia.org/resource/Dave_Grossman_(game_developer)"
+"4","2","Koichi Ishii","http://dbpedia.org/resource/Kōichi_Mashimo","http://dbpedia.org/resource/Kōichi_Ishii http://dbpedia.org/resource/Kouichi_Ishii http://dbpedia.org/resource/Koichi_Ishii http://dbpedia.org/resource/Koiti_Ishii"
+"4","6","Roppyaku Tsurumi","nan","http://dbpedia.org/resource/Roppyaku_Tsurumi"
+"4","9","Jeff Briggs","http://dbpedia.org/resource/Asa_Briggs","http://dbpedia.org/resource/Jeff_Briggs http://dbpedia.org/resource/Jeffery_briggs http://dbpedia.org/resource/Jeffery_L._Briggs"

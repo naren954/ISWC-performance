@@ -1,0 +1,6 @@
+F1: 0.60000,Precision: 0.60000,Recall: 0.60000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,A. d. Oliveira,http://dbpedia.org/resource/Aloísio_de_Oliveira,http://dbpedia.org/resource/Abraham_d'Oliveira http://dbpedia.org/resource/Abraham_de_oliveira http://dbpedia.org/resource/Abraham_de_Oliviera http://dbpedia.org/resource/Abraham_de_Oliveira
+0,7,Ö. Téry,http://de.dbpedia.org/resource/Edmund_Téry,http://dbpedia.org/resource/Odon_Tery http://dbpedia.org/resource/Odoen_Tery http://dbpedia.org/resource/Ödön_Téry
+0,9,Å. Häger,http://dbpedia.org/resource/Axel_Hager,http://dbpedia.org/resource/Ake_Hager http://dbpedia.org/resource/Ake_Haeger http://dbpedia.org/resource/Åke_Häger
+0,10,Á. Pédery,http://dbpedia.org/resource/Ə,http://dbpedia.org/resource/Árpád_Pédery http://dbpedia.org/resource/Arpad_Pedery

@@ -1,0 +1,7 @@
+F1: 0.82143,Precision: 0.82143,Recall: 0.82143,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,5,S. O'Connell,http://dbpedia.org/resource/Daniel_O'Connell,http://dbpedia.org/resource/Sean_O'Connell_(fighter)
+0,7,R. Gracie,http://dbpedia.org/resource/Renzo_Gracie,http://dbpedia.org/resource/Roger_Gracie
+0,14,K. Yun-sik,http://dbpedia.org/resource/Kelvin,http://dbpedia.org/resource/Kim_Yun-Sik http://dbpedia.org/resource/Kim_Yun-sik
+0,17,K. Yount,http://dbpedia.org/resource/Robin_Yount,http://dbpedia.org/resource/Kendall_Yount
+0,18,K. Harrison,http://dbpedia.org/resource/Kevin_Harrison,http://dbpedia.org/resource/Kayla_Harrison_(Judo) http://dbpedia.org/resource/Kayla_Harrison

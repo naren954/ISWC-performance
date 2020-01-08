@@ -1,0 +1,6 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,5,Jesmo'l sami,,http://dbpedia.org/resource/Jesmo'l_sami
+1,6,Saletova Osveta,,http://dbpedia.org/resource/Slusaj_Mater http://dbpedia.org/resource/Znas_Me http://dbpedia.org/resource/Jesmo'l_sami http://dbpedia.org/resource/Slušaj_mater http://dbpedia.org/resource/Slusaj_mater http://dbpedia.org/resource/Saletova_Osveta http://dbpedia.org/resource/Znaš_Me http://dbpedia.org/resource/Slušaj_Mater
+1,7,Prikaze,http://dbpedia.org/resource/Prikaz,http://dbpedia.org/resource/Prikaze
+1,13,ZnaÅ¡ Me,http://dbpedia.org/resource/.me,http://dbpedia.org/resource/Znaš_Me

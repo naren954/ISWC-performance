@@ -1,0 +1,5 @@
+F1: 0.92500,Precision: 0.92500,Recall: 0.92500,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,Snow Hill,"http://dbpedia.org/resource/Smithfield,_London","http://dbpedia.org/resource/Snow_Hill_(Laurel,_Maryland)"
+0,19,Shubert Theatre,http://dbpedia.org/resource/Cowles_Center_for_Dance_and_the_Performing_Arts,http://dbpedia.org/resource/Shubert_Theatre_(Boston) http://dbpedia.org/resource/Sam_S._Shubert_Theatre_(Boston)
+0,37,Schnull-Rauch House,http://dbpedia.org/resource/Schnull–Rauch_House,http://dbpedia.org/resource/Schnull-Rauch_House

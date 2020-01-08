@@ -1,0 +1,4 @@
+"F1: 0.87500","Precision: 0.87500","Recall: 0.87500"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","13","Not 4 Sale","http://dbpedia.org/resource/Not_4_Sale_(Kardinal_Offishall_album)","http://dbpedia.org/resource/Not_4_Sale_(Sammy_Hagar_album)"
+"1","14","Livin' It Up!","http://dbpedia.org/resource/Chocolate_Starfish_and_the_Hot_Dog_Flavored_Water","http://dbpedia.org/resource/Livin'_It_Up!"

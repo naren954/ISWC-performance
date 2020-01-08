@@ -1,0 +1,29 @@
+F1: 0.84211,Precision: 0.84211,Recall: 0.84211,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,14,T. Nieminen,http://dbpedia.org/resource/Tuure_Nieminen,http://dbpedia.org/resource/Toni_Nieminen
+1,17,T. Nieminen,http://dbpedia.org/resource/Tuure_Nieminen,http://dbpedia.org/resource/Toni_Nieminen
+1,30,H. Glaß,http://dbpedia.org/resource/Harry_Glaß,http://dbpedia.org/resource/Henry_Glass_(ski_jumper) http://dbpedia.org/resource/Henry_Glaß http://dbpedia.org/resource/Henry_Glas http://dbpedia.org/resource/Henry_Glaß_(ski_jumper)
+1,32,H. Glaß,http://dbpedia.org/resource/Harry_Glaß,http://dbpedia.org/resource/Henry_Glass_(ski_jumper) http://dbpedia.org/resource/Henry_Glaß http://dbpedia.org/resource/Henry_Glas http://dbpedia.org/resource/Henry_Glaß_(ski_jumper)
+1,34,R. Schmidt,http://dbpedia.org/resource/Richard_Schmidt_(rower),http://dbpedia.org/resource/Rainer_Schmidt http://dbpedia.org/resource/Rainer_Schmidt_(skier)
+1,36,R. Schmidt,http://dbpedia.org/resource/Richard_Schmidt_(rower),http://dbpedia.org/resource/Rainer_Schmidt http://dbpedia.org/resource/Rainer_Schmidt_(skier)
+1,47,K. Walberg,http://dbpedia.org/resource/Rube_Walberg,http://dbpedia.org/resource/Kåre_Walberg http://dbpedia.org/resource/Kaare_Wahlberg http://dbpedia.org/resource/Kaare_Walberg
+1,49,A. Huber,http://dbpedia.org/resource/Anke_Huber,http://dbpedia.org/resource/Anja_Huber
+1,51,A. Huber,http://dbpedia.org/resource/Anke_Huber,http://dbpedia.org/resource/Anja_Huber
+1,79,W. Meng,http://dbpedia.org/resource/Wang_Meng_(figure_skater),http://dbpedia.org/resource/Meng_Wang_(speed_skater) http://dbpedia.org/resource/Wang_Meng_(speed_skater)
+1,80,Y. Yang,http://dbpedia.org/resource/Yu_Yang_(badminton),http://dbpedia.org/resource/楊揚 http://dbpedia.org/resource/Yang_Yang_(b._1976) http://dbpedia.org/resource/Yáng_Yáng http://dbpedia.org/resource/Yang_Yang_(A) http://dbpedia.org/resource/杨扬
+1,82,A. Lobello,http://dbpedia.org/resource/René_Lobello,"http://dbpedia.org/resource/Anthony_Lobello_Jr http://dbpedia.org/resource/Anthony_Lobello http://dbpedia.org/resource/Anthony_Lobello,_Jr."
+1,87,W. Meng,http://dbpedia.org/resource/Wang_Meng_(figure_skater),http://dbpedia.org/resource/Meng_Wang_(speed_skater) http://dbpedia.org/resource/Wang_Meng_(speed_skater)
+1,88,Y. Yang,http://dbpedia.org/resource/Yu_Yang_(badminton),http://dbpedia.org/resource/楊揚 http://dbpedia.org/resource/Yang_Yang_(b._1976) http://dbpedia.org/resource/Yáng_Yáng http://dbpedia.org/resource/Yang_Yang_(A) http://dbpedia.org/resource/杨扬
+1,95,Y. Yang,http://dbpedia.org/resource/Yu_Yang_(badminton),http://dbpedia.org/resource/Yang_Yang_(S) http://dbpedia.org/resource/Yang_Yang_(b._1977)
+1,96,R. Smith,http://dbpedia.org/resource/Richard_Smith_(field_hockey),http://dbpedia.org/resource/Rusty_Smith_(speed_skater)
+1,101,Y. Yang,http://dbpedia.org/resource/Yu_Yang_(badminton),http://dbpedia.org/resource/Yang_Yang_(S) http://dbpedia.org/resource/Yang_Yang_(b._1977)
+1,102,R. Smith,http://dbpedia.org/resource/Richard_Smith_(field_hockey),http://dbpedia.org/resource/Rusty_Smith_(speed_skater)
+1,106,A. Perreault,http://dbpedia.org/resource/Gilbert_Perreault,http://dbpedia.org/resource/Annie_Perreault
+1,112,A. Perreault,http://dbpedia.org/resource/Gilbert_Perreault,http://dbpedia.org/resource/Annie_Perreault
+1,137,D. Feng,http://dbpedia.org/resource/Du_Feng,http://dbpedia.org/resource/Ding_Feng_(sport_shooter)
+1,152,D. Feng,http://dbpedia.org/resource/Du_Feng,http://dbpedia.org/resource/Ding_Feng_(sport_shooter)
+1,156,C. Brinker,http://dbpedia.org/resource/Jörgen_Brink,http://dbpedia.org/resource/Christine_Brinker http://dbpedia.org/resource/Christina_Wenzel http://dbpedia.org/resource/Christine_Wenzel
+1,161,A. Alipov,http://dbpedia.org/resource/Aleksandr_Alipov,http://dbpedia.org/resource/Aleksey_Alipov http://dbpedia.org/resource/Alexey_Alipov http://dbpedia.org/resource/Alexei_Alipov http://dbpedia.org/resource/Aleksei_Alipov
+1,166,V. Isakov,http://dbpedia.org/resource/Yury_Isakov,http://dbpedia.org/resource/Vladimir_Isakov
+1,169,J. Turner,http://dbpedia.org/resource/Jeff_Turner,http://dbpedia.org/resource/Jason_Turner_(sport_shooter)
+1,171,C. Brinker,http://dbpedia.org/resource/Jörgen_Brink,http://dbpedia.org/resource/Christine_Brinker http://dbpedia.org/resource/Christina_Wenzel http://dbpedia.org/resource/Christine_Wenzel

@@ -1,0 +1,8 @@
+"F1: 0.75000","Precision: 0.75000","Recall: 0.75000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","2","Sharpe's Company","http://dbpedia.org/resource/Sharpe_(TV_series)","http://dbpedia.org/resource/Sharpe's_Company_(TV_programme)"
+"0","3","Sharpe's Challenge","http://dbpedia.org/resource/Sharpe_(TV_series)","http://dbpedia.org/resource/Sharpe's_Challenge_(TV_programme) http://dbpedia.org/resource/Sharpe's_Challenge http://dbpedia.org/resource/Sharpes_Challenge"
+"0","11","Rosemary's Baby","http://dbpedia.org/resource/Rosemary's_Baby_(film)","http://dbpedia.org/resource/Rosemary's_Baby_(miniseries) http://dbpedia.org/resource/Rosemary's_Baby_(TV_series)"
+"0","12","Roots","http://dbpedia.org/resource/Roots_(1977_miniseries)","http://dbpedia.org/resource/Roots_(2016_miniseries) http://dbpedia.org/resource/Roots_(2016_TV_series)"
+"0","16","Return of the Living Dead: Rave to the Grave","http://dbpedia.org/resource/The_Return_of_the_Living_Dead","http://dbpedia.org/resource/Return_of_the_Living_Dead:_Rave_to_the_Grave http://dbpedia.org/resource/Return_of_the_Living_Dead:_Rave_from_the_Grave http://dbpedia.org/resource/Return_of_the_Living_Dead_5:_Rave_from_the_Grave http://dbpedia.org/resource/Return_of_the_Living_Dead_5:_Rave_to_the_Grave"
+"0","22","Quatermass","http://dbpedia.org/resource/Quatermass_2","http://dbpedia.org/resource/Quatermass_(TV_serial) http://dbpedia.org/resource/Quatermass_IV http://dbpedia.org/resource/Quatermass_Four http://dbpedia.org/resource/Ringstone_Round http://dbpedia.org/resource/Quatermass_(1979) http://dbpedia.org/resource/Quatermass_4 http://dbpedia.org/resource/Quatermass_(TV_serial_and_film) http://dbpedia.org/resource/The_Quatermass_Conclusion"

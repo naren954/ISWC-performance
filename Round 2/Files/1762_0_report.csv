@@ -1,0 +1,4 @@
+"F1: 0.81818","Precision: 0.81818","Recall: 0.81818"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","1","Ángela","http://es.dbpedia.org/resource/Ángela_(nombre)","http://dbpedia.org/resource/Angela_(telenovela) http://dbpedia.org/resource/Ángela_(telenovela)"
+"0","11","Salomé","http://dbpedia.org/resource/Salomé_(TV_series)","http://dbpedia.org/resource/Salomé_(telenovela) http://dbpedia.org/resource/Salome_(telenovela)"

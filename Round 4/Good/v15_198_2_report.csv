@@ -1,0 +1,13 @@
+F1: 0.83077,Precision: 0.83077,Recall: 0.83077,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,6,Gorgon City,http://dbpedia.org/resource/Alexander_Gorgon,http://dbpedia.org/resource/RackNRuin http://dbpedia.org/resource/Gorgon_City http://dbpedia.org/resource/Foamo
+2,11,Alphaville,http://dbpedia.org/resource/Sean_Daniel,http://dbpedia.org/resource/Alphaville_(band) http://dbpedia.org/resource/Alphaville_(group)
+2,12,Mike Stevens,http://dbpedia.org/resource/Mike_Stevens_(bluegrass_harmonica),http://dbpedia.org/resource/Mike_Stevens_(saxophonist)
+2,18,Max Matsuura,http://dbpedia.org/resource/Aya_Matsuura,http://dbpedia.org/resource/Matsuura_Masato http://dbpedia.org/resource/Max_Matsuura http://dbpedia.org/resource/Masato_Matsuura http://dbpedia.org/resource/松浦_勝人
+2,24,Warner/Chappell Music,http://dbpedia.org/resource/Warner_Music_Group,http://dbpedia.org/resource/Warner_Chappell_Music http://dbpedia.org/resource/Warner/Chappell_Music http://dbpedia.org/resource/Warner/Chappel_Music http://dbpedia.org/resource/Warner-Chappell http://dbpedia.org/resource/Warner_Chappel_Music http://dbpedia.org/resource/Warner/Chappell http://dbpedia.org/resource/Warner_Chappell
+2,29,Jack Richardson,http://dbpedia.org/resource/Jack_Richardson_(actor),http://dbpedia.org/resource/Jack_Richardson_(record_producer)
+2,43,Eliot James,"http://dbpedia.org/resource/Edward_Eliot,_3rd_Earl_of_St_Germans",http://dbpedia.org/resource/Eliot_James
+2,48,Dai Nagao,http://fr.dbpedia.org/resource/Dai_Nagao,http://dbpedia.org/resource/Do_As_Infinity http://dbpedia.org/resource/D-A-I http://dbpedia.org/resource/Dai_Nagao http://dbpedia.org/resource/Jun_Takase http://dbpedia.org/resource/Do_as_Infinity http://dbpedia.org/resource/Jun_Matsumoto_(drummer) http://dbpedia.org/resource/GREAT_TOUR_BAND http://dbpedia.org/resource/Naoki_Hayashibe http://dbpedia.org/resource/D·A·I http://dbpedia.org/resource/Yoshiyasu_Hayashi
+2,54,Scott Burns,http://dbpedia.org/resource/Scott_Z._Burns,http://dbpedia.org/resource/Scott_Burns_(producer) http://dbpedia.org/resource/Scott_Burns_(record_producer)
+2,56,Remee,http://dbpedia.org/resource/Remigius_van_Leemput,http://dbpedia.org/resource/Remee http://dbpedia.org/resource/Mikkel_Sigvardt http://dbpedia.org/resource/Mikkel_Johan_Imer_Sigvardt
+2,64,"Johnny ""J""",http://dbpedia.org/resource/Johnny_Cash,"http://dbpedia.org/resource/Johnny_""J""_production_discography http://dbpedia.org/resource/Johnny_""J"" http://dbpedia.org/resource/Johnny_J"

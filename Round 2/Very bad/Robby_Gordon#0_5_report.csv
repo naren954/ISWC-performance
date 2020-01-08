@@ -1,0 +1,6 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+5,1,INDY,http://dbpedia.org/resource/Indonesia,http://dbpedia.org/resource/1992_Indianapolis_500 http://dbpedia.org/resource/1992_Indy_500
+5,2,INDY Ret,http://dbpedia.org/resource/IndyCar_Series,http://dbpedia.org/resource/1993_Indianapolis_500 http://dbpedia.org/resource/1993_Indy_500
+5,3,INDY 5,http://dbpedia.org/resource/Indiana_Jones_and_the_Kingdom_of_the_Crystal_Skull,http://dbpedia.org/resource/1994_Indy_500 http://dbpedia.org/resource/1994_Indianapolis_500
+5,5,LBH 13,,http://dbpedia.org/resource/1996_Grand_Prix_of_Long_Beach http://dbpedia.org/resource/1996_Toyota_Grand_Prix_of_Long_Beach

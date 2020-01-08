@@ -1,0 +1,4 @@
+"F1: 0.88235","Precision: 0.88235","Recall: 0.88235"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","2","Entourage","http://dbpedia.org/resource/Entourage_(American_TV_series)","http://dbpedia.org/resource/Entourage_(TV_series) http://dbpedia.org/resource/Entourage_(TV_Series) http://dbpedia.org/resource/Entourage http://dbpedia.org/resource/Entourage_(disambiguation)"
+"1","11","The Finder","http://dbpedia.org/resource/The_Finder_(American_TV_series)","http://dbpedia.org/resource/List_of_The_Finder_episodes http://dbpedia.org/resource/The_Finder_(US_TV_Series) http://dbpedia.org/resource/The_Finder_(US_TV_series) http://dbpedia.org/resource/The_Finder_(U.S._TV_series)"

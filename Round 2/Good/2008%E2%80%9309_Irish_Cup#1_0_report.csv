@@ -1,0 +1,5 @@
+F1: 0.85714,Precision: 0.85714,Recall: 0.85714,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,5,Crumlin United,http://dbpedia.org/resource/Crumlin_United_F.C._(Northern_Ireland),http://dbpedia.org/resource/Crumlin_United_FC http://dbpedia.org/resource/Crumlin_Utd_F_C http://dbpedia.org/resource/Crumlin_Utd_F._C. http://dbpedia.org/resource/Crumlin_United_F.C._(Republic_of_Ireland) http://dbpedia.org/resource/Crumlin_United_F.C. http://dbpedia.org/resource/Crumlin_Utd_FC http://dbpedia.org/resource/Crumlin_Utd_F.C.
+0,15,Hanover,http://dbpedia.org/resource/Hanover_Park_F.C.,http://dbpedia.org/resource/Hanover_F.C.
+0,19,Newington Youth Club,http://dbpedia.org/resource/Pago_Youth_FC,http://dbpedia.org/resource/Newington_Youth_Club_F.C. http://dbpedia.org/resource/Newington_F.C. http://dbpedia.org/resource/Newington_YC_F.C. http://dbpedia.org/resource/Newington_YC_F_C http://dbpedia.org/resource/Newington_Youth_F.C. http://dbpedia.org/resource/Newington_YC_FC http://dbpedia.org/resource/Newington_YC_F._C.

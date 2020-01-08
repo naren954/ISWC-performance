@@ -1,0 +1,8 @@
+"F1: 0.96178","Precision: 0.96178","Recall: 0.96178"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","1","Neocallitropsis","http://dbpedia.org/resource/Callitris_pancheri","http://dbpedia.org/resource/Neocallitropsis_pancheri http://dbpedia.org/resource/Neocallitropsis_araucarioides http://dbpedia.org/resource/Eutacta_pancheri http://dbpedia.org/resource/Neocallitropsis http://dbpedia.org/resource/Callitropsis_araucarioides"
+"0","70","Juniperus formosana","http://dbpedia.org/resource/Juniperus_chinensis","http://dbpedia.org/resource/Juniperus_formosana"
+"0","96","Fokienia","http://de.dbpedia.org/resource/Fujian-Zypresse","http://dbpedia.org/resource/Fujian_Cypress http://dbpedia.org/resource/Fokienia_hodginsii http://dbpedia.org/resource/Fujian_cypress http://dbpedia.org/resource/Fokienia"
+"0","118","Dacrydium ericioides","http://dbpedia.org/resource/Dacrydium_araucarioides","http://dbpedia.org/resource/Dacrydium_ericioides"
+"0","154","Cupressus atlantica","http://dbpedia.org/resource/Cupressus_macnabiana","http://dbpedia.org/resource/Cupressus_atlantica http://dbpedia.org/resource/C._atlantica http://dbpedia.org/resource/Moroccan_Cypress http://dbpedia.org/resource/Moroccan_cypress"
+"0","157","Cupressus abramsiana","http://dbpedia.org/resource/Cupressus_goveniana","http://dbpedia.org/resource/Callitropsis_abramsiana http://dbpedia.org/resource/Santa_Cruz_Cypress http://dbpedia.org/resource/Cupressus_abramsiana http://dbpedia.org/resource/Hesperocyparis_abramsiana http://dbpedia.org/resource/Santa_Cruz_cypress"

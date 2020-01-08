@@ -1,0 +1,5 @@
+"F1: 0.50000","Precision: 0.50000","Recall: 0.50000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","1","Ã\u0089toile de BessÃ¨ges, Mountains classification","nan","http://dbpedia.org/resource/Étoile_de_Bessèges"
+"1","2","Tour MÃ©diterranÃ©en, Young rider classification","http://dbpedia.org/resource/2004_Tour_de_France","http://dbpedia.org/resource/Tour_Méditerranéen"
+"1","5","Tour de Normandie, Stage 6","nan","http://dbpedia.org/resource/Tour_of_Normandy http://dbpedia.org/resource/Tour_de_Normandie"

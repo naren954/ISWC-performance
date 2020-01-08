@@ -1,0 +1,23 @@
+F1: 0.40000,Precision: 0.40000,Recall: 0.40000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,KEYT-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/KEYT-TV http://dbpedia.org/resource/KEYT http://dbpedia.org/resource/K31KE-D http://dbpedia.org/resource/KEYT-DT2 http://dbpedia.org/resource/K57BC
+0,2,KEYE-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/KEYE-DT http://dbpedia.org/resource/KEYE-TV http://dbpedia.org/resource/KEYE-DT2 http://dbpedia.org/resource/K-EYE
+0,3,KEYC-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/KEYC http://dbpedia.org/resource/K50KL-D http://dbpedia.org/resource/K38MY-D http://dbpedia.org/resource/KEYC-TV http://dbpedia.org/resource/K49JG-D
+0,4,KEVN-LD,http://dbpedia.org/resource/KTPN-LD,http://dbpedia.org/resource/KEVN http://dbpedia.org/resource/KEVN-LD http://dbpedia.org/resource/KEVN-TV
+0,5,KETK-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/KETK-TV http://dbpedia.org/resource/Myeasttex.com
+0,6,KESQ-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/K27DS http://dbpedia.org/resource/K21GI http://dbpedia.org/resource/KESQ-TV
+0,7,KERO-TV,http://dbpedia.org/resource/Keros,http://dbpedia.org/resource/ABC_Bakersfield http://dbpedia.org/resource/KERO-TV http://dbpedia.org/resource/KERO http://dbpedia.org/resource/Scripps_Television_Bakersfield
+0,8,KEPR-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/KEPR http://dbpedia.org/resource/KEPR-TV http://dbpedia.org/resource/KEPR-DT2 http://dbpedia.org/resource/KEPR-DT
+0,10,KEET,http://dbpedia.org/resource/Shelby_County_Airport_(Alabama),http://dbpedia.org/resource/K12OV-D http://dbpedia.org/resource/K09VQ http://dbpedia.org/resource/KEET http://dbpedia.org/resource/K44JF-D
+0,11,KECY-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/KECY-TV http://dbpedia.org/resource/K69BQ http://dbpedia.org/resource/KECY http://dbpedia.org/resource/KECY-DT3 http://dbpedia.org/resource/KECY-DT2_(TV)
+0,14,KDSM-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/KDSM-TV
+0,17,KDLT-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/K47MI-D http://dbpedia.org/resource/KORN-TV http://dbpedia.org/resource/K44GG http://dbpedia.org/resource/KDLT http://dbpedia.org/resource/KDLV-TV http://dbpedia.org/resource/KDLV http://dbpedia.org/resource/K40FZ http://dbpedia.org/resource/K41EG-D http://dbpedia.org/resource/K27HJ http://dbpedia.org/resource/K46MX-D http://dbpedia.org/resource/K42FI http://dbpedia.org/resource/KDLT-TV http://dbpedia.org/resource/K35GR http://dbpedia.org/resource/K33GX http://dbpedia.org/resource/KXON-TV
+0,18,KDLH,http://dbpedia.org/resource/Duluth_International_Airport,http://dbpedia.org/resource/KWBD http://dbpedia.org/resource/KDLH-TV http://dbpedia.org/resource/KDAL-TV http://dbpedia.org/resource/KDLH
+0,19,KDKA-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/CBS_2_Pittsburgh http://dbpedia.org/resource/Yvonne_Zanos http://dbpedia.org/resource/KDKA-TV http://dbpedia.org/resource/KDKA-DT http://dbpedia.org/resource/Pittsburgh_Today_Live http://dbpedia.org/resource/CBS_Pittsburgh http://dbpedia.org/resource/KDKA_television
+0,21,KDFX-CD,http://dbpedia.org/resource/.cd,http://dbpedia.org/resource/KDFX-CD http://dbpedia.org/resource/KDFX http://dbpedia.org/resource/KDFX-CA
+0,23,KDBC-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/KDBC-TV http://dbpedia.org/resource/KKNJ-LP http://dbpedia.org/resource/KCWO-CA http://dbpedia.org/resource/CBS_El_Paso http://dbpedia.org/resource/KCWF-CA http://dbpedia.org/resource/KDBC http://dbpedia.org/resource/KCWF-LP http://dbpedia.org/resource/KROD-TV
+0,26,KCWI-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/KPWB-TV http://dbpedia.org/resource/KCWI-DT http://dbpedia.org/resource/KCWI-TV http://dbpedia.org/resource/KCWI
+0,29,KCSM-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/KCSM-TV
+0,31,KCRG-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/KCRG-TV http://dbpedia.org/resource/KCRG-TV9 http://dbpedia.org/resource/Josh_Christensen http://dbpedia.org/resource/KCRG-DT2
+0,33,KCPM,http://dbpedia.org/resource/Compton/Woodley_Airport,http://dbpedia.org/resource/KCPM_(TV) http://dbpedia.org/resource/K35HT http://dbpedia.org/resource/KCPM_(Defunct_TV_Station) http://dbpedia.org/resource/KCPM_(TV)_(version_2) http://dbpedia.org/resource/KCPM-TV http://dbpedia.org/resource/KVNJ-LP http://dbpedia.org/resource/KVNJ
+0,34,KCOS,http://dbpedia.org/resource/Colorado_Springs_Airport,http://dbpedia.org/resource/KCOS_(TV) http://dbpedia.org/resource/KCOS-TV

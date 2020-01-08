@@ -1,0 +1,5 @@
+"F1: 0.81250","Precision: 0.81250","Recall: 0.81250"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","2","H. Einstein","http://dbpedia.org/resource/Bob_Einstein","http://dbpedia.org/resource/Harry_Parke http://dbpedia.org/resource/Parkyakarkus http://dbpedia.org/resource/Harry_Einstein"
+"0","8","E. Tunney","http://dbpedia.org/resource/John_V._Tunney","http://dbpedia.org/resource/Eric_Tunney"
+"0","11","D. Morris","http://dbpedia.org/resource/Wayne_Morris_(American_actor)","http://dbpedia.org/resource/Dave_Morris_(comedian)"

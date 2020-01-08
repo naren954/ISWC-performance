@@ -1,0 +1,4 @@
+F1: 0.80000,Precision: 0.80000,Recall: 0.80000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,6,"Guerrero, Acapulco",http://dbpedia.org/resource/Guerreros_Acapulco,"http://dbpedia.org/resource/Guerrero_(Mexico) http://dbpedia.org/resource/Guerrero http://dbpedia.org/resource/Estado_Libre_y_Soberano_de_Guerrero http://dbpedia.org/resource/MX-GRO http://dbpedia.org/resource/Guerrero_(state) http://dbpedia.org/resource/Guerrero_(State) http://dbpedia.org/resource/Guerrero,_Mexico"
+1,8,"Campeche, Ciudad del Carmen",http://dbpedia.org/resource/Delfines_del_Carmen,http://dbpedia.org/resource/Campeche_(state) http://dbpedia.org/resource/Estado_Libre_y_Soberano_de_Campeche http://dbpedia.org/resource/MX-CAM http://dbpedia.org/resource/Campeachy http://dbpedia.org/resource/Campeche_State http://dbpedia.org/resource/Campeche http://dbpedia.org/resource/Campeche_state

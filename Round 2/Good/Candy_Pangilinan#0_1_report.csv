@@ -1,0 +1,6 @@
+F1: 0.77778,Precision: 0.77778,Recall: 0.77778,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,2,Marimar,http://dbpedia.org/resource/Marimar_(Mexican_TV_series),http://dbpedia.org/resource/MariMar_(2015_telenovela) http://dbpedia.org/resource/Marimar_(2015_TV_series) http://dbpedia.org/resource/MariMar_(2015_TV_series)
+1,9,Indio,http://pt.dbpedia.org/resource/Índios_(canção),http://dbpedia.org/resource/Indio_(TV_series)
+1,12,P. S. I Love You,http://dbpedia.org/resource/P.S._I_Love_You_(film),http://dbpedia.org/resource/P._S._I_Love_You_(TV_series) http://dbpedia.org/resource/P._S._I_Love_You_(TV_Series)
+1,16,Only You,http://dbpedia.org/resource/You_Only_Live_Twice_(film),http://dbpedia.org/resource/Only_You_(2009_TV_series) http://dbpedia.org/resource/Only_You_(Philippine_TV_remake) http://dbpedia.org/resource/Only_You_(Philippine_TV_series)

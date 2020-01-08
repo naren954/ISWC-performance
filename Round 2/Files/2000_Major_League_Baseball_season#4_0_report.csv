@@ -1,0 +1,7 @@
+"F1: 0.00000","Precision: 0.00000","Recall: 0.00000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","2","Cincinnati Reds","http://dbpedia.org/resource/Cincinnati","http://dbpedia.org/resource/2000_Cincinnati_Reds http://dbpedia.org/resource/2000_cincy_reds http://dbpedia.org/resource/2000_Cincinnati_Reds_season"
+"0","3","Milwaukee Brewers","http://dbpedia.org/resource/Baltimore_Orioles","http://dbpedia.org/resource/2000_Milwaukee_Brewers_season"
+"0","4","Houston Astros","http://dbpedia.org/resource/Houston_Astros","http://dbpedia.org/resource/2000_Houston_Astros_season"
+"0","5","Pittsburgh Pirates","http://dbpedia.org/resource/Pittsburgh_Steelers","http://dbpedia.org/resource/2000_Pittsburgh_Pirates_season"
+"0","6","Chicago Cubs","http://dbpedia.org/resource/Chicago_Cubs","http://dbpedia.org/resource/2000_Chicago_Cubs_season"

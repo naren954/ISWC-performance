@@ -1,0 +1,5 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,1,Poland,http://dbpedia.org/resource/Poland,http://dbpedia.org/resource/Poland_national_speedway_team http://dbpedia.org/resource/Poland_speedway_team
+2,2,Sweden,http://dbpedia.org/resource/Sweden,http://dbpedia.org/resource/Sweden_national_speedway_team http://dbpedia.org/resource/Sweden_speedway_team
+2,3,England,http://dbpedia.org/resource/England,http://dbpedia.org/resource/Great_Britain_national_speedway_team http://dbpedia.org/resource/Great_Britain_speedway_team http://dbpedia.org/resource/England_national_speedway_team http://dbpedia.org/resource/Team_GB_speedway

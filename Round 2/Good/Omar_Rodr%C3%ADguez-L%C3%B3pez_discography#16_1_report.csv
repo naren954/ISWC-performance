@@ -1,0 +1,10 @@
+F1: 0.82222,Precision: 0.82222,Recall: 0.82222,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,4,Live,http://dbpedia.org/resource/Live_à_Paris,http://dbpedia.org/resource/Live_(Mars_Volta_EP) http://dbpedia.org/resource/Live_(The_Mars_Volta_EP)
+1,12,"Se Dice Bisonte, No BÃ¹falo","http://dbpedia.org/resource/Se_Dice_Bisonte,_No_Búfalo","http://dbpedia.org/resource/Se_Dice_Bisonte,_No_Bùfalo"
+1,13,Omar Rodriguez Lopez & Lydia Lunch,http://dbpedia.org/resource/Omar_Rodriguez_Lopez_&_Lydia_Lunch,http://dbpedia.org/resource/Omar_Rodriguez-Lopez_&_Lydia_Lunch
+1,25,Terra Incognita,http://dbpedia.org/resource/Terra_Incognita_(Chris_Whitley_album),http://dbpedia.org/resource/Terra_Incognita_(Juliette_Lewis_Album) http://dbpedia.org/resource/Terra_Incognita_(Juliette_Lewis_album) http://dbpedia.org/resource/Terra_Incognita_(juliette_lewis_album)
+1,35,DÅ\u008Ditashimashite,http://fr.dbpedia.org/resource/SMAP_008_TACOMAX,http://dbpedia.org/resource/Dōitashimashite
+1,38,Sin Sin Sin,http://dbpedia.org/resource/Sin_Sin_Sin,http://dbpedia.org/resource/Sin_Sin_Sin_(album)
+1,43,Equinox,http://dbpedia.org/resource/Equinox_(Styx_album),http://dbpedia.org/resource/Equinox_(Omar_Rodríguez-López_album)
+1,46,Â¿SÃ³lo ExtraÃ±o?,http://dbpedia.org/resource/Solo_Solo,http://dbpedia.org/resource/¿Sólo_Extraño?

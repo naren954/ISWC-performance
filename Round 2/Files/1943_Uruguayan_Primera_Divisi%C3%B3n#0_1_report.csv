@@ -1,0 +1,6 @@
+"F1: 0.60000","Precision: 0.60000","Recall: 0.60000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","2","PeÃ±arol","http://dbpedia.org/resource/Peñarol","http://dbpedia.org/resource/C.A._Peñarol"
+"1","5","Montevideo Wanderers","http://dbpedia.org/resource/Wycombe_Wanderers_F.C.","http://dbpedia.org/resource/Montevideo_Wanderers_F_C http://dbpedia.org/resource/Montivideo_Wanderers http://dbpedia.org/resource/Montevideo_Wanderers_Fútbol_Club http://dbpedia.org/resource/Montevideo_Wanderers_FC http://dbpedia.org/resource/Montevideo_Wanderers_Futbol_Club http://dbpedia.org/resource/Montevideo_Wanderers_F.C. http://dbpedia.org/resource/Montevideo_Wanderers http://dbpedia.org/resource/Montevideo_Wanderers_F._C."
+"1","6","Liverpool","http://dbpedia.org/resource/Everton_F.C.","http://dbpedia.org/resource/Liverpool_Fútbol_Club http://dbpedia.org/resource/Liverpool_de_Montevideo http://dbpedia.org/resource/Liverpool_Montevideo http://dbpedia.org/resource/Liverpool_FC_(Montevideo) http://dbpedia.org/resource/Liverpool_F.C._(Montevideo)"
+"1","7","Central","http://dbpedia.org/resource/Rosario_Central","http://dbpedia.org/resource/Central_Español"

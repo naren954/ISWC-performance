@@ -1,0 +1,5 @@
+"F1: 0.88000","Precision: 0.88000","Recall: 0.88000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","20","P. Murphy","http://dbpedia.org/resource/Phil_Murphy_(rugby_union,_born_1976)","http://dbpedia.org/resource/Pace_Murphy"
+"0","23","O. Armstrong","http://dbpedia.org/resource/Otis_Armstrong","http://dbpedia.org/resource/Odie_Armstrong"
+"0","24","O. J. Brigance","http://dbpedia.org/resource/O._J._Simpson","http://dbpedia.org/resource/O.J._Brigance http://dbpedia.org/resource/Orenthial_Brigance http://dbpedia.org/resource/O._J._Brigance http://dbpedia.org/resource/OJ_Brigance http://dbpedia.org/resource/O_J_Brigance"

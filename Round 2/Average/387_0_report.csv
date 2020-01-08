@@ -1,0 +1,45 @@
+F1: 0.73620,Precision: 0.73620,Recall: 0.73620,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,5,T. Naqvi,http://dbpedia.org/resource/Baqar_Naqvi,http://dbpedia.org/resource/Tahira_Naqvi_(actress) http://dbpedia.org/resource/Tahira_Naqvi
+0,13,S. Martin,http://dbpedia.org/resource/Dean_Martin,http://dbpedia.org/resource/Strother_Martin
+0,15,S. Holloway,http://dbpedia.org/resource/Stanley_Holloway,http://dbpedia.org/resource/Stirling_Holloway http://dbpedia.org/resource/Sterling_Holloway
+0,18,S. Haggard,http://dbpedia.org/resource/Merle_Haggard,http://dbpedia.org/resource/Stephen_Haggard
+0,20,S. Unwin,http://dbpedia.org/resource/Rayner_Unwin,http://dbpedia.org/resource/Unwinesque http://dbpedia.org/resource/Stan_Unwin http://dbpedia.org/resource/Stanley_Unwin_(comedian) http://dbpedia.org/resource/Unwinese
+0,21,S. Price,http://dbpedia.org/resource/Sterling_Price,http://dbpedia.org/resource/Stanley_Price
+0,29,S. Ward,http://dbpedia.org/resource/Samuel_Ward_(American_statesman),http://dbpedia.org/resource/Simon_Ward
+0,33,S. Mitchell,http://dbpedia.org/resource/Margaret_Mitchell,http://dbpedia.org/resource/Shirley_Mitchell
+0,35,S. a. Yarnell,,http://dbpedia.org/resource/Shields_&_Yarnell http://dbpedia.org/resource/Lorene_Yarnell http://dbpedia.org/resource/Shields_And_Yarnell http://dbpedia.org/resource/Robert_Shields_(mime) http://dbpedia.org/resource/Shields_and_Yarnell
+0,37,S. Jackson,http://dbpedia.org/resource/Michael_Jackson,http://dbpedia.org/resource/Selmer_Jackson http://dbpedia.org/resource/Selmar_Jackson
+0,39,S. Beckett,http://dbpedia.org/resource/Samuel_Beckett,http://dbpedia.org/resource/Scotty_Beckett http://dbpedia.org/resource/Scotty_beckett http://dbpedia.org/resource/Scotty_Hastings_Beckett http://dbpedia.org/resource/Scott_Beckett
+0,40,S. Brady,http://dbpedia.org/resource/Alice_Brady,http://dbpedia.org/resource/Scott_Brady http://dbpedia.org/resource/Gerard_Kenneth_Tierney
+0,41,S. Baron,"http://dbpedia.org/resource/William_Cecil,_1st_Baron_Burghley",http://dbpedia.org/resource/Sanford_Beresofsky http://dbpedia.org/resource/Sandy_Baron
+0,57,R. Davies,http://dbpedia.org/resource/Ron_Davies_(songwriter),http://dbpedia.org/resource/Rupert_Davies
+0,60,R. Dandridge,http://dbpedia.org/resource/Dorothy_Dandridge,http://dbpedia.org/resource/Ruby_Dandridge
+0,66,R. Martin,http://dbpedia.org/resource/Richard_Martin_(actor),http://dbpedia.org/resource/Ross_Martin http://dbpedia.org/resource/Martin_Rosenblatt
+0,67,R. Hunter,http://dbpedia.org/resource/Ruby_Hunter,http://dbpedia.org/resource/Martin_Terry_Fuss http://dbpedia.org/resource/Martin_Fuss http://dbpedia.org/resource/Ross_Hunter
+0,74,R. Drew,http://dbpedia.org/resource/Ronnie_Drew,http://dbpedia.org/resource/Roland_Drew
+0,79,R. Taylor,http://dbpedia.org/resource/Elizabeth_Taylor,http://dbpedia.org/resource/Rod_Taylor_(actor) http://dbpedia.org/resource/Rod_Taylor http://dbpedia.org/resource/Rodney_Sturt_Taylor
+0,82,R. Young,http://dbpedia.org/resource/Robert_Young_(musician),http://dbpedia.org/resource/Robert_Young_(actor)
+0,83,R. Williams,http://dbpedia.org/resource/Ralph_Vaughan_Williams,http://dbpedia.org/resource/Robert_Williams_(actor)
+0,84,R. Warwick,http://dbpedia.org/resource/Richard_Warwick,http://dbpedia.org/resource/Robert_Warwick
+0,86,R. Taylor,http://dbpedia.org/resource/Elizabeth_Taylor,http://dbpedia.org/resource/Robert_Taylor_(actor) http://dbpedia.org/resource/Spangler_brugh http://dbpedia.org/resource/Spangler_arlington_brugh
+0,88,R. Shields,http://dbpedia.org/resource/Brooke_Shields,"http://dbpedia.org/resource/Shields,_Robert http://dbpedia.org/resource/Robert_Shields"
+0,97,R. Francis,"http://dbpedia.org/resource/Francis_II,_Holy_Roman_Emperor",http://dbpedia.org/resource/Robert_Charles_Francis http://dbpedia.org/resource/Robert_Francis_(actor)
+0,105,R. Johnson,http://dbpedia.org/resource/Richard_Mentor_Johnson,http://dbpedia.org/resource/Rita_McSean http://dbpedia.org/resource/Rita_Johnson http://dbpedia.org/resource/Rita_A._Johnson
+0,108,R. Vallin,http://dbpedia.org/resource/Ninon_Vallin,http://dbpedia.org/resource/Rick_Vallin
+0,110,R. Thorpe,http://dbpedia.org/resource/Jeremy_Thorpe,http://dbpedia.org/resource/Richard_Thorpe http://dbpedia.org/resource/Rollo_Thorpe http://dbpedia.org/resource/Rollo_Smolt_Thorpe
+0,115,R. Fiske,http://dbpedia.org/resource/Billy_Fiske,http://dbpedia.org/resource/Richard_Fiske
+0,126,R. Alexander,http://dbpedia.org/resource/Ross_Alexander,http://dbpedia.org/resource/Richard_Alexander_(actor) http://dbpedia.org/resource/Dick_(Richard)_Alexander
+0,127,R. Cortez,http://dbpedia.org/resource/Raul_Cortez,http://dbpedia.org/resource/Jacob_Krantz http://dbpedia.org/resource/Richard_Cortez http://dbpedia.org/resource/Ricardo_Cortez
+0,128,R. Williams,http://dbpedia.org/resource/Ralph_Vaughan_Williams,http://dbpedia.org/resource/Rhys_Williams_(Welsh_American_actor) http://dbpedia.org/resource/Rhys_Williams_(Welsh-American_actor)
+0,130,R. Shaw,http://dbpedia.org/resource/Robert_Shaw_(conductor),http://dbpedia.org/resource/Reta_Shaw
+0,134,R. Juliá,http://dbpedia.org/resource/Alexandra_of_Denmark,"http://dbpedia.org/resource/Raul_R._C._Julia_y_Arcelay http://dbpedia.org/resource/Raul_Julia_y_Arcelay http://dbpedia.org/resource/Raúl_Juliá http://dbpedia.org/resource/Merel_Poloway http://dbpedia.org/resource/Raul_y_Arcelay http://dbpedia.org/resource/Raul_Rafael_Carlos_Julia http://dbpedia.org/resource/Raúl_Julia http://dbpedia.org/resource/Raúl_Rafael_Juliá_y_Arcelay http://dbpedia.org/resource/Raúl_Júliá http://dbpedia.org/resource/Raul_Rafael_Carlos_Julia_y_Arcelay http://dbpedia.org/resource/Raul_Julia http://dbpedia.org/resource/Raul_Rafael_Julia_y_Arcelay http://dbpedia.org/resource/Raul_R._C._Julia http://dbpedia.org/resource/Julia,_Raul"
+0,135,R. S. Jacques,http://dbpedia.org/resource/James_II_of_England,http://dbpedia.org/resource/Raymond_St_Jacques http://dbpedia.org/resource/James_Arthur_Johnson http://dbpedia.org/resource/Raymond_StJacques http://dbpedia.org/resource/Raymond_St._Jacques
+0,137,R. Barnes,http://dbpedia.org/resource/Red_Barnes,http://dbpedia.org/resource/Rayford_Barnes
+0,139,R. Collins,http://dbpedia.org/resource/Russell_Collins,http://dbpedia.org/resource/Ray_Bidwell_Collins http://dbpedia.org/resource/Ray_Collins_(actor)
+0,144,R. Scott,http://dbpedia.org/resource/Ridley_Scott,http://dbpedia.org/resource/Randolph_Scott
+0,145,R. Brooks,http://dbpedia.org/resource/Richard_Brooks,http://dbpedia.org/resource/Rand_Brooks
+0,150,R. Allen,http://dbpedia.org/resource/Ronald_Allen,http://dbpedia.org/resource/Ralph_Allen
+0,152,R. Juliá,http://dbpedia.org/resource/Alexandra_of_Denmark,"http://dbpedia.org/resource/Raul_R._C._Julia_y_Arcelay http://dbpedia.org/resource/Raul_Julia_y_Arcelay http://dbpedia.org/resource/Raúl_Juliá http://dbpedia.org/resource/Merel_Poloway http://dbpedia.org/resource/Raul_y_Arcelay http://dbpedia.org/resource/Raul_Rafael_Carlos_Julia http://dbpedia.org/resource/Raúl_Julia http://dbpedia.org/resource/Raúl_Rafael_Juliá_y_Arcelay http://dbpedia.org/resource/Raúl_Júliá http://dbpedia.org/resource/Raul_Rafael_Carlos_Julia_y_Arcelay http://dbpedia.org/resource/Raul_Julia http://dbpedia.org/resource/Raul_Rafael_Julia_y_Arcelay http://dbpedia.org/resource/Raul_R._C._Julia http://dbpedia.org/resource/Julia,_Raul"
+0,156,P. Avery,http://dbpedia.org/resource/Tex_Avery,http://dbpedia.org/resource/Phyllis_Avery
+0,157,P. McCullough,http://dbpedia.org/resource/Paul_McCullough,http://dbpedia.org/resource/Philo_McCollough http://dbpedia.org/resource/P.H._McCullough http://dbpedia.org/resource/Philo_McCullough http://dbpedia.org/resource/Philip_McCullough http://dbpedia.org/resource/P.M._McCullough

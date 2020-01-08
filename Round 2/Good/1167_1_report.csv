@@ -1,0 +1,14 @@
+F1: 0.93103,Precision: 0.93103,Recall: 0.93103,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,49,Leon Payne,http://dbpedia.org/resource/John_Payne_(actor),http://dbpedia.org/resource/Leon_Payne
+1,69,Ken Scott,http://dbpedia.org/resource/Ken_Scott_(filmmaker),http://dbpedia.org/resource/Ken_Scott http://dbpedia.org/resource/Ken_Scott_(Record_producer)
+1,76,Ken Nelson,http://dbpedia.org/resource/Ken_Nelson_(British_record_producer),http://dbpedia.org/resource/Kenneth_F._Nelson http://dbpedia.org/resource/Ken_Nelson_(United_States_record_producer)
+1,84,Perpis-Fall Music,http://dbpedia.org/resource/Chris_Faller,"http://dbpedia.org/resource/Perpis-Fall_Music,_Inc. http://dbpedia.org/resource/Perpis-Fall_Music"
+1,107,Jan Berry,"http://dbpedia.org/resource/John,_Duke_of_Berry",http://dbpedia.org/resource/Jan_and_dean http://dbpedia.org/resource/Jan_and_Dean http://dbpedia.org/resource/Jan_and_Arnie http://dbpedia.org/resource/Jan_Berry http://dbpedia.org/resource/Dean_Torrence http://dbpedia.org/resource/Jan_&_Arnie http://dbpedia.org/resource/Jan_&_Dean http://dbpedia.org/resource/Jan_And_Dean
+1,111,Rush,http://dbpedia.org/resource/Otis_Rush,http://dbpedia.org/resource/Canadian_Power_Trio http://dbpedia.org/resource/RushBand http://dbpedia.org/resource/Rush_band http://dbpedia.org/resource/Rush_R40_Tour http://dbpedia.org/resource/Rush_awards_list_and_RIAA_certifications http://dbpedia.org/resource/Ty&7gn http://dbpedia.org/resource/Rush_(band)
+1,113,Ken Scott,http://dbpedia.org/resource/Ken_Scott_(filmmaker),http://dbpedia.org/resource/Ken_Scott http://dbpedia.org/resource/Ken_Scott_(Record_producer)
+1,127,David Briggs,http://dbpedia.org/resource/David_Briggs_(English_musician),http://dbpedia.org/resource/David_Briggs_(producer) http://dbpedia.org/resource/David_Briggs_(record_producer) http://dbpedia.org/resource/David_Briggs--Producer
+1,129,Ron Richards,http://dbpedia.org/resource/Ron_Richards_(ski_jumper),http://dbpedia.org/resource/Ron_Richards_(producer)
+1,154,Jagger/Richards,http://dbpedia.org/resource/Keith_Richards,http://dbpedia.org/resource/Richards/Jagger http://dbpedia.org/resource/Glimmer_Twins http://dbpedia.org/resource/Mick_Jagger/Keith_Richards http://dbpedia.org/resource/Jagger/Richards http://dbpedia.org/resource/The_Glimmer_Twins
+1,158,Tony Hoffer,http://dbpedia.org/resource/Eric_Hoffer,http://dbpedia.org/resource/Tony_Hoffer
+1,171,Jack Richardson,http://dbpedia.org/resource/Jack_Richardson_(actor),http://dbpedia.org/resource/Jack_Richardson_(record_producer)

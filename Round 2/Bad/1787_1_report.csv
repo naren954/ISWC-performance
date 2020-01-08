@@ -1,0 +1,8 @@
+F1: 0.33333,Precision: 0.33333,Recall: 0.33333,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,J. Eberson,http://dbpedia.org/resource/Jon_Eberson,http://dbpedia.org/resource/John_Eberson
+1,2,R. Benjamin,http://dbpedia.org/resource/René_Benjamin,http://dbpedia.org/resource/Roy_A._Benjamin http://dbpedia.org/resource/Roy_Benjamin
+1,4,S. &. Johnson,http://dbpedia.org/resource/Lyndon_B._Johnson,http://dbpedia.org/resource/Smith_&_Johnson
+1,5,B. Brothers,http://dbpedia.org/resource/Benjamin_Boyd,http://dbpedia.org/resource/Carl_Boller http://dbpedia.org/resource/Boller_Brothers http://dbpedia.org/resource/Boller_Bros.
+1,8,C. J. Phipps,"http://dbpedia.org/resource/George_Phipps,_2nd_Marquess_of_Normanby",http://dbpedia.org/resource/Charles_John_Phipps http://dbpedia.org/resource/Charles_J._Phipps
+1,9,W. R. Glen,http://dbpedia.org/resource/R._J._Glen,http://dbpedia.org/resource/W.R.Glen http://dbpedia.org/resource/ABC_Cinemas http://dbpedia.org/resource/W.R._Glen http://dbpedia.org/resource/W_R_Glen http://dbpedia.org/resource/William_R._Glen http://dbpedia.org/resource/MGM_Cinemas http://dbpedia.org/resource/Associated_British_Cinemas http://dbpedia.org/resource/ABC_Cinema http://dbpedia.org/resource/Cannon_Cinemas http://dbpedia.org/resource/MGM_Cinema http://dbpedia.org/resource/Cannon_Cinema

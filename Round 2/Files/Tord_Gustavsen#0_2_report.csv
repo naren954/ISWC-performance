@@ -1,0 +1,4 @@
+"F1: 0.66667","Precision: 0.66667","Recall: 0.66667"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"2","3","The Ground","http://dbpedia.org/resource/Off_the_Ground","http://dbpedia.org/resource/The_Ground"
+"2","6","The Well","http://dbpedia.org/resource/Well,_Well,_Well_(Duffy_song)","http://dbpedia.org/resource/The_Well_(Tord_Gustavsen_album)"

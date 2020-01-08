@@ -1,0 +1,11 @@
+F1: 0.70968,Precision: 0.70968,Recall: 0.70968,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,J. Williams,"http://dbpedia.org/resource/John_Williams_(cricketer,_born_1878)",http://dbpedia.org/resource/Jim_Williams_(curler)
+0,5,G. Watson,http://it.dbpedia.org/resource/Greg_Watson,http://dbpedia.org/resource/Grant_G._Watson http://dbpedia.org/resource/Grant_Watson
+0,8,G. André,http://dbpedia.org/resource/Géo_André,http://dbpedia.org/resource/Georges_André_(curler) http://dbpedia.org/resource/Georges_Andre http://dbpedia.org/resource/Georges_André
+0,9,G. Richardson,http://dbpedia.org/resource/George_Richardson_(ice_hockey),http://dbpedia.org/resource/Sam_Richardson_(curler) http://dbpedia.org/resource/Garnet_S._Richardson http://dbpedia.org/resource/Garnet_Richardson
+0,10,G. Campbell,http://dbpedia.org/resource/Glen_Campbell_(curler),http://dbpedia.org/resource/William_Garnet_Campbell http://dbpedia.org/resource/Garnet_Campbell_(curler) http://dbpedia.org/resource/W._Garnet_Campbell
+0,21,B. Walsh,http://dbpedia.org/resource/Brian_Walsh_(ice_hockey),http://dbpedia.org/resource/William_J._Walsh_(curler) http://dbpedia.org/resource/Billy_Walsh_(curler)
+0,24,B. Grant,http://dbpedia.org/resource/Benny_Grant,http://dbpedia.org/resource/Bill_Grant_(curler) http://dbpedia.org/resource/William_A._Grant
+0,29,A. Welsh,http://dbpedia.org/resource/Ab_Welsh,http://dbpedia.org/resource/Alex_Welsh_(curler)
+0,30,A. Langlois,http://dbpedia.org/resource/Anabelle_Langlois,http://dbpedia.org/resource/Allan_D._Langlois http://dbpedia.org/resource/Al_Langlois_(curler)

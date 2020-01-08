@@ -1,0 +1,50 @@
+F1: 0.69620,Precision: 0.69620,Recall: 0.69620,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,J. Thomason,http://dbpedia.org/resource/Jim_Thomason,http://dbpedia.org/resource/Jeff_Thomason
+0,10,J. Elliott,http://dbpedia.org/resource/Joey_Elliott,http://dbpedia.org/resource/Jayrone_Elliott http://dbpedia.org/resource/Jay_Elliott
+0,11,J. Williams,http://dbpedia.org/resource/Jamal_Williams,http://dbpedia.org/resource/Jay_Williams_(football_player) http://dbpedia.org/resource/Jay_Williams_(American_football)
+0,12,J. Taylor,"http://dbpedia.org/resource/Joseph_Taylor_(footballer,_born_1850)",http://dbpedia.org/resource/Jay_Taylor_(placekicker)
+0,15,J. Arnold,http://dbpedia.org/resource/Jim_Arnold_(American_football),http://dbpedia.org/resource/Jay_Arnold_(American_football)
+0,16,J. Elliott,http://dbpedia.org/resource/Joey_Elliott,http://dbpedia.org/resource/Javien_Elliott
+0,17,J. Dudley,http://dbpedia.org/resource/Jared_Dudley,http://dbpedia.org/resource/Javarus http://dbpedia.org/resource/Javarus_Dudley
+0,18,J. Collins,http://dbpedia.org/resource/Jerry_Collins,http://dbpedia.org/resource/Jasper_Collins http://dbpedia.org/resource/Junior_Collins_(Canadian_football)
+0,19,J. Willis,http://dbpedia.org/resource/James_Willis_(American_football),http://dbpedia.org/resource/Jason_Willis
+0,20,J. Vega,http://dbpedia.org/resource/Jesús_Vega,http://dbpedia.org/resource/Jason_Vega
+0,21,J. Stewart,http://dbpedia.org/resource/Josh_Stewart_(American_football),http://dbpedia.org/resource/Jason_Stewart_(American_football)
+0,23,J. Perry,http://dbpedia.org/resource/Jason_Perry_(American_football),http://dbpedia.org/resource/Jason_Perry_(Arena_football)
+0,26,J. Ball,http://dbpedia.org/resource/Jerry_Ball,http://dbpedia.org/resource/Jason_Ball_(American_football)
+0,27,J. Williams,http://dbpedia.org/resource/Jamal_Williams,http://dbpedia.org/resource/Jarvis_Williams_(wide_receiver)
+0,28,J. Wilson,http://dbpedia.org/resource/Jack_Wilson_(American_football),http://dbpedia.org/resource/Jarrod_Wilson
+0,29,J. Shaw,http://dbpedia.org/resource/James_Shaw_(wide_receiver),http://dbpedia.org/resource/Jarrod_Shaw
+0,30,J. Brown,http://dbpedia.org/resource/Jerry_Brown_(gridiron_football),http://dbpedia.org/resource/Jaron_Brown
+0,37,J. Rogers,http://dbpedia.org/resource/Jacob_Rogers,http://dbpedia.org/resource/James_Rogers_(American_football)
+0,38,J. Rodgers,http://dbpedia.org/resource/Johnny_Rodgers,http://dbpedia.org/resource/James_Rodgers_(football) http://dbpedia.org/resource/James_Rodgers_(American_football)
+0,42,J. Hill,http://dbpedia.org/resource/Jim_Hill_(American_football),http://dbpedia.org/resource/James_Hill_(American_football) http://dbpedia.org/resource/James_Hill_(football_player)
+0,44,J. Harris,http://dbpedia.org/resource/Jackie_Harris,http://dbpedia.org/resource/James_Harris_(defensive_end)
+0,45,J. Franklin,http://dbpedia.org/resource/Johnathan_Franklin,http://dbpedia.org/resource/James_Franklin_(quarterback)
+0,47,J. Dixon,http://dbpedia.org/resource/Juan_Dixon,http://dbpedia.org/resource/James_Dixon_(football_player) http://dbpedia.org/resource/James_Dixon_(American_football)
+0,55,J. Simmons,http://dbpedia.org/resource/Justin_Simmons_(American_football),http://dbpedia.org/resource/Jamarko_Simmons
+0,56,J. Newsome,http://dbpedia.org/resource/Jonathan_Newsome,http://dbpedia.org/resource/Jamar_Newsome
+0,58,J. Marshall,http://dbpedia.org/resource/Johnny_Marshall,http://dbpedia.org/resource/Jalin_Marshall
+0,59,J. Carter,http://dbpedia.org/resource/Jason_Carter_(gridiron_football),http://dbpedia.org/resource/Jalil_Carter
+0,64,J. Smith,http://dbpedia.org/resource/Jared_Smith_(American_football),http://dbpedia.org/resource/Jacquies_Smith
+0,68,J. Allen,http://dbpedia.org/resource/Jeff_Allen_(American_football),http://dbpedia.org/resource/Jack_Allen_(American_football)
+0,71,I. Green,http://dbpedia.org/resource/Isaiah_Green_(gridiron_football),http://dbpedia.org/resource/Isaiah_Green_(American_football)
+0,76,I. Claiborne,http://dbpedia.org/resource/Morris_Claiborne,http://dbpedia.org/resource/Imoan_Claiborne
+0,79,I. Allen,http://dbpedia.org/resource/Ian_Allen_(footballer),http://dbpedia.org/resource/Ian_Allen_(American_football) http://dbpedia.org/resource/Ian_Allen_(football_player)
+0,82,H. Jones,http://dbpedia.org/resource/Hassan_Jones,http://dbpedia.org/resource/Howard_Jones_(defensive_end)
+0,91,G. Wilson,http://dbpedia.org/resource/Gillis_Wilson,http://dbpedia.org/resource/Greg_Wilson_(American_football) http://dbpedia.org/resource/Greg_Wilson_(gridiron_football) http://dbpedia.org/resource/Greg_Wilson_(American_Football)
+0,99,G. Allen,http://dbpedia.org/resource/Greg_Allen_(American_football),http://dbpedia.org/resource/Grady_Allen
+0,104,G. Robinson,http://dbpedia.org/resource/Gil_Robinson,http://dbpedia.org/resource/Gijon_Robinson
+0,105,G. Rivers,http://dbpedia.org/resource/Garland_Rivers,http://dbpedia.org/resource/Gerald_Rivers
+0,108,G. Farmer,"http://dbpedia.org/resource/George_Farmer_(wide_receiver,_born_1958)","http://dbpedia.org/resource/George_Farmer_(wide_receiver,_born_1993) http://dbpedia.org/resource/George_Farmer_(defensive_back) http://dbpedia.org/resource/George_Farmer(Running_back) http://dbpedia.org/resource/George_Farmer_(running_back) http://dbpedia.org/resource/George_Farmer_(wide_receiver)"
+0,115,G. Williams,http://dbpedia.org/resource/Greg_Williams_(American_football),http://dbpedia.org/resource/Garry_Williams_(Canadian_football) http://dbpedia.org/resource/Garry_Williams_(American_football) http://dbpedia.org/resource/Garry_Williams_(gridiron_football)
+0,117,G. Lisenbee,,http://dbpedia.org/resource/Garreous_lisenbee http://dbpedia.org/resource/Garreous_Lisenbee
+0,119,F. Solomon,http://dbpedia.org/resource/Freddie_Solomon,"http://dbpedia.org/resource/Freddie_L._Solomon http://dbpedia.org/resource/Freddie_Solomon_(Philadelphia_Eagles) http://dbpedia.org/resource/Freddie_Solomon_(American_football,_born_1972)"
+0,124,F. Williams,http://dbpedia.org/resource/Fred_Williams_(defensive_lineman),http://dbpedia.org/resource/Frankie_Williams_(American_football)
+0,127,F. Garcia,http://dbpedia.org/resource/Frank_Garcia_(offensive_lineman),http://dbpedia.org/resource/Frank_Garcia_(punter)
+0,135,E. Smith,http://dbpedia.org/resource/Emory_Smith,http://dbpedia.org/resource/Evan_Dietrich-Smith http://dbpedia.org/resource/Evan_Smith_(American_football) http://dbpedia.org/resource/Evan_Smith_(American_Football)
+0,136,E. Robinson,http://dbpedia.org/resource/Edmond_Robinson,http://dbpedia.org/resource/Eugene_Robinson
+0,145,E. Ward,http://dbpedia.org/resource/Eric_Ward_(wide_receiver),http://dbpedia.org/resource/Eric_Ward_(quarterback)
+0,147,E. Rogers,http://dbpedia.org/resource/Eli_Rogers,http://dbpedia.org/resource/Eric_Rogers_(gridiron_football) http://dbpedia.org/resource/Eric_Rogers_(American_football)
+0,158,D. Hicks,http://dbpedia.org/resource/Dwight_Hicks,http://dbpedia.org/resource/Dwone_Hicks

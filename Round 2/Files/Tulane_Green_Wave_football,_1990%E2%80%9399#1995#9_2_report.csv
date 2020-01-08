@@ -1,0 +1,7 @@
+"F1: 0.00000","Precision: 0.00000","Recall: 0.00000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"2","2","SMU*","http://dbpedia.org/resource/Violin","http://dbpedia.org/resource/1999_SMU_Mustangs_football_team http://dbpedia.org/resource/2000_SMU_Mustangs_football_team http://dbpedia.org/resource/SMU_Mustangs_football_under_Mike_Cavan http://dbpedia.org/resource/2001_SMU_Mustangs_football_team"
+"2","3","Army","http://dbpedia.org/resource/Imperial_Russian_Army","http://dbpedia.org/resource/1999_Army_Black_Knights_football_team http://dbpedia.org/resource/1999_Army_Cadets_football_team"
+"2","6","Louisianaâ\u0080\u0093Lafayette*","http://dbpedia.org/resource/C0_and_C1_control_codes","http://dbpedia.org/resource/Louisiana–Lafayette_Ragin'_Cajuns_football"
+"2","8","Memphis","http://dbpedia.org/resource/Memphis,_Egypt","http://dbpedia.org/resource/1999_Memphis_Tigers_football_team"
+"2","11","UAB","http://dbpedia.org/resource/Autonomous_University_of_Barcelona","http://dbpedia.org/resource/1999_UAB_Blazers_football_team"

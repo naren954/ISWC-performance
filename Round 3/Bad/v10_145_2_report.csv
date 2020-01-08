@@ -1,0 +1,6 @@
+F1: 0.33333,Precision: 0.33333,Recall: 0.33333,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,1,E. W. Petter,http://dbpedia.org/resource/W._E._W._Petter,http://dbpedia.org/resource/Ernest_Willoughby_Petter http://dbpedia.org/resource/Ernest_Petter
+2,2,J. Holden,,http://dbpedia.org/resource/James_Holden_(locomotive_engineer) http://dbpedia.org/resource/James_Holden_(engineer)
+2,3,S. R. Freeman,,http://dbpedia.org/resource/Ralph_Freeman_(father) http://dbpedia.org/resource/Sir_Ralph_Freeman_(1880-1950) http://dbpedia.org/resource/Ralph_Freeman_(1880-1950) http://dbpedia.org/resource/Ralph_Freeman_(1880–1950)
+2,4,J. Hornblower,http://dbpedia.org/resource/Jonathan_Hornblower,http://dbpedia.org/resource/Joseph_Hornblower

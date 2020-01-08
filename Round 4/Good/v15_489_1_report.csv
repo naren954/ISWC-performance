@@ -1,0 +1,6 @@
+F1: 0.96748,Precision: 0.96748,Recall: 0.96748,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,13,Reform,http://dbpedia.org/resource/Reform_Club,http://dbpedia.org/resource/Reform_(horse)
+1,16,Grand Lodge,http://dbpedia.org/resource/Grand_Lodge_(horse),http://dbpedia.org/resource/Grand_Orients http://dbpedia.org/resource/Grand_Lodges http://dbpedia.org/resource/Grand_Lodge_of_Colorado http://dbpedia.org/resource/Grand_lodge http://dbpedia.org/resource/Grand_Lodge http://dbpedia.org/resource/Grand_Orient
+1,37,Arch,http://dbpedia.org/resource/Joseph_Arch,http://dbpedia.org/resource/Arch_(horse)
+1,115,Observatory,http://dbpedia.org/resource/Lowell_Observatory,http://dbpedia.org/resource/Observatory_(horse)

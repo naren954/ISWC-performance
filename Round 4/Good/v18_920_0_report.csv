@@ -1,0 +1,38 @@
+F1: 0.76923,Precision: 0.76923,Recall: 0.76923,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,14,USS St. Mary's River,http://dbpedia.org/resource/USS_St._Mary's_River,http://dbpedia.org/resource/USS_St._Marys_River http://dbpedia.org/resource/USS_St._Marys_River_(LSM(R)-528) http://dbpedia.org/resource/USS_St._Mary's_River_(LSM(R)-528) http://dbpedia.org/resource/USS_LSM(R)-528
+0,15,USS St. Louis,http://dbpedia.org/resource/USS_St._Louis_(C-20),http://dbpedia.org/resource/USS_St._Louis_(LKA-116) http://dbpedia.org/resource/USS_St._Louis_(AKA-116)
+0,16,USS St. Louis,http://dbpedia.org/resource/USS_St._Louis_(C-20),http://dbpedia.org/resource/USS_St_Louis_(CL-49) http://dbpedia.org/resource/USS_St._Louis_(CL-49) http://dbpedia.org/resource/Brazilian_cruiser_Almirante_Tamandaré_(C12) http://dbpedia.org/resource/Brazilian_cruiser_Tamandaré_(C-12) http://dbpedia.org/resource/Brazilian_cruiser_Almirante_Tamandare http://dbpedia.org/resource/Brazilian_cruiser_Tamandare http://dbpedia.org/resource/Brazilian_cruiser_Tamandare_(C12) http://dbpedia.org/resource/Brazilian_cruiser_Almirante_Tamandare_(C12) http://dbpedia.org/resource/Brazilian_cruiser_Almirante_Tamandaré http://dbpedia.org/resource/Brazilian_cruiser_Almirante_Tamandaré_(C-12) http://dbpedia.org/resource/Brazilian_cruiser_Tamandaré_(C12) http://dbpedia.org/resource/Brazilian_cruiser_Tamandaré http://dbpedia.org/resource/CL-49
+0,18,USS St. Louis,http://dbpedia.org/resource/USS_St._Louis_(C-20),http://dbpedia.org/resource/USS_Keystone_State_(1904) http://dbpedia.org/resource/USS_St._Louis_(1828)
+0,21,USS St. George,http://dbpedia.org/resource/HMS_Pursuer_(D73),http://dbpedia.org/resource/Italian_ship_Andrea_Bafile_(A5314) http://dbpedia.org/resource/Italian_ship_Andrea_Bafile http://dbpedia.org/resource/USS_St_George_(AV-16) http://dbpedia.org/resource/Italian_ship_Andrea_Bafile_(L9871) http://dbpedia.org/resource/USS_St._George http://dbpedia.org/resource/USS_St._George_(AV-16)
+0,31,USS Spinax,http://dbpedia.org/resource/USS_Saginaw_(LST-1188),http://dbpedia.org/resource/USS_Spinax_(SSR-489) http://dbpedia.org/resource/USS_Spinax_(SS-489) http://dbpedia.org/resource/SS-489 http://dbpedia.org/resource/USS_Spinax http://dbpedia.org/resource/USS_Spinax_(AGSS-489)
+0,45,USS Sparrow,http://dbpedia.org/resource/USS_Sparrow_(AMc-31),http://dbpedia.org/resource/USS_Sparrow_(AMCU-42) http://dbpedia.org/resource/USS_Sparrow_(MHC_42)
+0,51,USS South Carolina,http://dbpedia.org/resource/USS_North_Carolina_(ACR-12),http://dbpedia.org/resource/USS_South_Carolina_(CGN-37) http://dbpedia.org/resource/USS_South_Carolina_(DLGN-37)
+0,54,USS Sonoma,http://dbpedia.org/resource/USS_Sonoma_(AT-12),http://dbpedia.org/resource/USS_Sonoma_(ATA-175) http://dbpedia.org/resource/USS_AT-175 http://dbpedia.org/resource/USS_Sonoma_(AT-175) http://dbpedia.org/resource/USS_ATR-102
+0,61,USS Snook,http://dbpedia.org/resource/USS_Snook_(SS-279),http://dbpedia.org/resource/USS_Snook_(SSN-592) http://dbpedia.org/resource/SSN-592
+0,65,USS Smith Thompson,http://dbpedia.org/resource/USS_Aaron_Ward_(DM-34),http://dbpedia.org/resource/Smith_Thompson_(DD-212) http://dbpedia.org/resource/USS_Smith_Thompson_(DD-212) http://dbpedia.org/resource/USS_Smith_Thompson
+0,67,USS Smith,http://dbpedia.org/resource/USS_Smith_(DD-378),http://dbpedia.org/resource/USS_Smith_(DD-17)
+0,70,USS Sloat,http://dbpedia.org/resource/USS_Sloat_(DE-245),http://dbpedia.org/resource/USS_Sloat_(DD-316)
+0,77,USS Skill,http://dbpedia.org/resource/USS_Skill_(AM-115),http://dbpedia.org/resource/USS_Skill_MSO-471) http://dbpedia.org/resource/USS_Skill_(AM-471) http://dbpedia.org/resource/MSO-471 http://dbpedia.org/resource/USS_Skill_(MSO-471) http://dbpedia.org/resource/MSF-471 http://dbpedia.org/resource/AM-471
+0,81,USS Sitkoh Bay,http://dbpedia.org/resource/USS_Oyster_Bay_(AGP-6),http://dbpedia.org/resource/USS_Sitkoh_Bay_(CVE-86) http://dbpedia.org/resource/USS_Sitkoh_Bay http://dbpedia.org/resource/USS_Sitkoh_Bay_(AKV-30) http://dbpedia.org/resource/USS_Sitkoh_Bay_(CVU-86)
+0,86,USS Sims,http://dbpedia.org/resource/USS_Sims_(DD-409),http://dbpedia.org/resource/USS_Sims_(DE-154) http://dbpedia.org/resource/USS_Sims_(APD-50)
+0,88,USS Simon Lake,http://dbpedia.org/resource/USS_Salt_Lake_City_(CA-25),http://dbpedia.org/resource/USS_Simon_Lake_(AS-33) http://dbpedia.org/resource/USS_Simon_Lake
+0,96,USS Sigourney,http://dbpedia.org/resource/USS_Sigourney_(DD-81),http://dbpedia.org/resource/USS_Sigourney_(DD-643)
+0,103,USS Shubrick,http://dbpedia.org/resource/USS_Shubrick_(DD-268),http://dbpedia.org/resource/USS_Shubrick_(DD-639)
+0,105,USS Shrike,http://dbpedia.org/resource/USS_Shrike_(MHC-62),http://dbpedia.org/resource/USS_Shrike_(AMS-201) http://dbpedia.org/resource/USS_Shrike_(MSC-201) http://dbpedia.org/resource/USS_Shrike_(MSC-201
+0,110,USS Shipley Bay,http://dbpedia.org/resource/USS_Oyster_Bay_(AGP-6),http://dbpedia.org/resource/USS_Shipley_Bay_(CVHE-85) http://dbpedia.org/resource/USS_Shipley_Bay http://dbpedia.org/resource/USS_Shipley_Bay_(CVE-85)
+0,114,USS Shenandoah,http://dbpedia.org/resource/USS_Shenandoah_(AD-44),http://dbpedia.org/resource/USS_Shenandoah_(AD-26)
+0,115,USS Shelton,http://dbpedia.org/resource/USS_Shelton_(DD-790),http://dbpedia.org/resource/USS_Shelton_(DE-407)
+0,122,USS Shaw,http://dbpedia.org/resource/USS_Shaw_(DD-373),http://dbpedia.org/resource/USCGD_Shaw_(CG-22) http://dbpedia.org/resource/USS_Shaw_(DD-68)
+0,123,USS Shasta,http://dbpedia.org/resource/USS_Shasta_(AE-6),http://dbpedia.org/resource/USNS_Shasta_(T-AE-33) http://dbpedia.org/resource/USS_Shasta_(AE-33) http://dbpedia.org/resource/USNS_Shasta
+0,125,USS Shark,http://dbpedia.org/resource/USS_Shark_(SS-314),http://dbpedia.org/resource/SSN-591 http://dbpedia.org/resource/USS_Shark_(SSN-591)
+0,126,USS Shark,http://dbpedia.org/resource/USS_Shark_(SS-314),http://dbpedia.org/resource/USS_A-7 http://dbpedia.org/resource/USS_A-7_(SS-8) http://dbpedia.org/resource/USS_Shark_(SS-8)
+0,127,USS Shark,http://dbpedia.org/resource/USS_Shark_(SS-314),http://dbpedia.org/resource/SS-174 http://dbpedia.org/resource/USS_Shark_(SS-174)
+0,132,USS Shad,http://dbpedia.org/resource/USS_Shad_(SP-551),http://dbpedia.org/resource/USS_Shad_(SS-235) http://dbpedia.org/resource/SS-235
+0,134,USS Severn,http://dbpedia.org/resource/USS_Severn_(AO-61),http://dbpedia.org/resource/USS_Chesapeake_(1898) http://dbpedia.org/resource/USS_Severn_(1898)
+0,138,USS Sentinel,http://dbpedia.org/resource/USS_Sentinel_(AMCU-39),http://dbpedia.org/resource/USS_Sentinel_(AM-113) http://dbpedia.org/resource/Am-113
+0,139,USS Seneca,http://dbpedia.org/resource/USS_Seneca_(SP-427),http://dbpedia.org/resource/USS_Seneca_(ATF-91) http://dbpedia.org/resource/USS_Seneca_(AT-91) http://dbpedia.org/resource/AT-91
+0,141,USS Seminole,http://dbpedia.org/resource/USS_Seminole_(AKA-104),http://dbpedia.org/resource/USS_Seminole_(AT-65) http://dbpedia.org/resource/YP-284
+0,143,USS Selfridge,http://dbpedia.org/resource/USS_Selfridge_(DD-357),http://dbpedia.org/resource/USS_Selfridge_(DD-320)
+0,151,USS Seawolf,http://dbpedia.org/resource/USS_Seawolf_(SS-197),http://dbpedia.org/resource/USS_Seawolf_(SSN-575) http://dbpedia.org/resource/SSN-575
+0,152,USS Seawolf,http://dbpedia.org/resource/USS_Seawolf_(SS-197),http://dbpedia.org/resource/USS_Seawolf_(SSN_21) http://dbpedia.org/resource/USS_Seawolf_(SSN-21) http://dbpedia.org/resource/SSN-21

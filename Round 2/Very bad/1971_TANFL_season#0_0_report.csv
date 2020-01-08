@@ -1,0 +1,8 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Clarence,"http://dbpedia.org/resource/Prince_Albert_Victor,_Duke_of_Clarence_and_Avondale",http://dbpedia.org/resource/Bellerive_Football_Club http://dbpedia.org/resource/Clarence_Football_Club http://dbpedia.org/resource/Clarence_Roos
+0,2,New Norfolk,http://dbpedia.org/resource/Norfolk_Island,http://dbpedia.org/resource/New_Norfolk_Eagles http://dbpedia.org/resource/New_Norfolk_District_Football_Club http://dbpedia.org/resource/New_Norfolk_Football_Club
+0,3,Sandy Bay,http://dbpedia.org/resource/Sandy_Bay_Road,http://dbpedia.org/resource/Sandy_Bay_Football_Club http://dbpedia.org/resource/Sandy_Bay_Seagulls
+0,4,Glenorchy,http://dbpedia.org/resource/Hobart,http://dbpedia.org/resource/Glenorchy_Football_Club http://dbpedia.org/resource/New_Town_Football_Club
+0,5,North Hobart,http://dbpedia.org/resource/Garret_Hobart,http://dbpedia.org/resource/North_Hobart_Football_Club http://dbpedia.org/resource/North_Hobart_Demons
+0,6,Hobart,http://dbpedia.org/resource/Hobart,http://dbpedia.org/resource/Hobart_Football_Club http://dbpedia.org/resource/Hobart_Forever_Boys http://dbpedia.org/resource/Hobart_Tigers

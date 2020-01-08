@@ -1,0 +1,8 @@
+"F1: 0.87234","Precision: 0.87234","Recall: 0.87234"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","2","W. Brown","http://dbpedia.org/resource/Wes_Brown","http://dbpedia.org/resource/Watson_Brown"
+"0","7","T. Beck","http://dbpedia.org/resource/Tim_Beck_(American_football,_born_1966)","http://dbpedia.org/resource/Tim_Beck_(American_football,_born_1964) http://dbpedia.org/resource/Tim_Beck_(Pittsburg_State_coach) http://dbpedia.org/resource/Tim_Beck_(Pittsburgh_State_coach)"
+"0","10","S. Roberts","http://dbpedia.org/resource/Syd_Roberts","http://dbpedia.org/resource/Steve_Roberts_(football_coach) http://dbpedia.org/resource/Steve_Roberts_(American_football)"
+"0","23","P. Johnson","http://dbpedia.org/resource/Randy_Johnson","http://dbpedia.org/resource/Paul_Johnson_(American_football_coach) http://dbpedia.org/resource/Paul_Johnson_(coach) http://dbpedia.org/resource/Paul_Johnson_(American_football)"
+"0","28","M. Gottfried","http://dbpedia.org/resource/Mark_Gottfried","http://dbpedia.org/resource/Mike_Gottfried"
+"0","39","J. Taylor","http://dbpedia.org/resource/Jon_Taylor","http://dbpedia.org/resource/Joe_Taylor_(American_football_coach)"

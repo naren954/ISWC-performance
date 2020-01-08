@@ -1,0 +1,5 @@
+"F1: 0.95455","Precision: 0.95455","Recall: 0.95455"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","1","Roberto","http://dbpedia.org/resource/Roberto_Marinho","http://dbpedia.org/resource/Roberto_(horse)"
+"1","21","Easton","http://dbpedia.org/resource/Nicholas_Easton","http://dbpedia.org/resource/Easton_(horse)"
+"1","39","Desert Sun","http://dbpedia.org/resource/Desert_hedgehog","http://dbpedia.org/resource/MyDesert http://dbpedia.org/resource/The_Desert_Sun http://dbpedia.org/resource/Desert_Sun"

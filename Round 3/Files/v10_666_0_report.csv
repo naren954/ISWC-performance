@@ -1,0 +1,7 @@
+"F1: 0.96269","Precision: 0.96269","Recall: 0.96269"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","15","Bad Business","http://dbpedia.org/resource/Bad_Business_(novel)","http://dbpedia.org/resource/Bad_Business"
+"0","19","Axis","http://dbpedia.org/resource/Hetalia:_Axis_Powers","http://dbpedia.org/resource/Axis_(novel)"
+"0","55","Amrita","http://dbpedia.org/resource/Amrita_(Yoshimoto_novel)","http://dbpedia.org/resource/Amrita_(novel)"
+"0","69","Alta","http://fr.dbpedia.org/resource/Entre_deux_eaux_(roman)","http://dbpedia.org/resource/Alta_(book) http://dbpedia.org/resource/Alta_(novel)"
+"0","89","Abyss","http://dbpedia.org/resource/Abyss_(Weddle_and_Lang_novel)","http://dbpedia.org/resource/Abyss_(Star_Trek_novel) http://dbpedia.org/resource/Abyss_(Star_Trek)"

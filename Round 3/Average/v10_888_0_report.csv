@@ -1,0 +1,17 @@
+F1: 0.55882,Precision: 0.55882,Recall: 0.55882,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,8,Vila do Porto,http://dbpedia.org/resource/Vila_do_Porto,http://dbpedia.org/resource/Vila_do_Porto_(parish)
+0,10,Vila do Corvo,http://dbpedia.org/resource/Corvo_Island,"http://dbpedia.org/resource/Vila_Nova_do_Corvo http://dbpedia.org/resource/Vila_do_Corvo_(Azores) http://dbpedia.org/resource/Corvo_(Azores) http://dbpedia.org/resource/Corvo,_Azores http://dbpedia.org/resource/Vila_do_Corvo"
+0,11,Vila do Bispo,http://es.dbpedia.org/resource/Vila_do_Bispo_(freguesia),http://dbpedia.org/resource/Vila_do_Bispo_(parish)
+0,12,Vila Nova,http://dbpedia.org/resource/New_York_City,http://dbpedia.org/resource/Vila_Nova_(Praia_da_Vitoria) http://dbpedia.org/resource/Vila_Nova_(Praia_da_Vitória)
+0,18,Tunes,http://dbpedia.org/resource/Tunis,http://dbpedia.org/resource/Tunes_(Silves)
+0,19,"Troy, New York","http://dbpedia.org/resource/Albany,_New_York","http://dbpedia.org/resource/Troy,_New_York http://dbpedia.org/resource/Tomhannock http://dbpedia.org/resource/The_Collar_City http://dbpedia.org/resource/Troy_(NY) http://dbpedia.org/resource/Troy_(New_York) http://dbpedia.org/resource/Troy,_ny http://dbpedia.org/resource/Troy,_NY http://dbpedia.org/resource/Troy_new_york http://dbpedia.org/resource/Troy_NY http://dbpedia.org/resource/South_Troy,_New_York http://dbpedia.org/resource/UN/LOCODE:USTRY http://dbpedia.org/resource/Collar_City"
+0,23,Terra Chã,http://dbpedia.org/resource/Lugo,http://dbpedia.org/resource/Terra_Chã
+0,24,Sé,http://dbpedia.org/resource/Sichuan,http://dbpedia.org/resource/Se_(Funchal) http://dbpedia.org/resource/Sé_(Funchal)
+0,25,São Roque do Pico,http://dbpedia.org/resource/São_Roque_do_Pico,http://dbpedia.org/resource/Sao_Roque_do_Pico_(parish) http://dbpedia.org/resource/São_Roque_do_Pico_(parish)
+0,27,São Roque,"http://dbpedia.org/resource/San_Roque,_Cádiz",http://dbpedia.org/resource/São_Roque_(Funchal) http://dbpedia.org/resource/Sao_Roque_(Funchal)
+0,28,São Pedro,"http://dbpedia.org/resource/São_Pedro,_São_Paulo",http://dbpedia.org/resource/São_Pedro_(Vila_do_Porto) http://dbpedia.org/resource/Sao_Pedro_(Vila_do_Porto)
+0,29,São Mateus,http://dbpedia.org/resource/Sant_Mateu,"http://dbpedia.org/resource/São_Mateus,_Azores_Islands http://dbpedia.org/resource/São_Mateus_(Madalena) http://dbpedia.org/resource/Sao_Mateus,_Azores_Islands http://dbpedia.org/resource/São_Mateus,_Azores http://dbpedia.org/resource/Sao_Mateus,_Azores http://dbpedia.org/resource/Sao_Mateus_(Madalena)"
+0,30,São João,http://dbpedia.org/resource/São_João_da_Boa_Vista,http://dbpedia.org/resource/Sao_Joao_(Lajes_do_Pico) http://dbpedia.org/resource/São_João_(Lajes_do_Pico)
+0,31,São Caetano,http://dbpedia.org/resource/São_Caetano_do_Sul,"http://dbpedia.org/resource/Sao_Caetano,_Azores_Islands http://dbpedia.org/resource/São_Caetano_(Madalena) http://dbpedia.org/resource/São_Caetano,_Azores_Islands http://dbpedia.org/resource/Sao_Caetano,_Azores http://dbpedia.org/resource/São_Caetano,_Azores http://dbpedia.org/resource/Sao_Caetano_(Madalena)"
+0,32,São Brás,http://dbpedia.org/resource/São_Brás_de_Alportel,http://dbpedia.org/resource/Sao_Bras_(Praia_da_Vitoria) http://dbpedia.org/resource/São_Brás_(Praia_da_Vitória)

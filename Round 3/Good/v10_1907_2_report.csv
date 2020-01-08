@@ -1,0 +1,22 @@
+F1: 0.88166,Precision: 0.88166,Recall: 0.88166,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,3,The Touch,http://dbpedia.org/resource/The_Touch_(album),http://dbpedia.org/resource/The_Touch_(Wilson_novel)
+2,23,Trace,http://dbpedia.org/resource/Trace_(magazine),http://dbpedia.org/resource/Trace_(novel)
+2,24,"Shut Up & Sing: How Elites from Hollywood, Politics, and the UN Are Subverting America",http://dbpedia.org/resource/Shut_Up_&_Sing_(book),"http://dbpedia.org/resource/Shut_Up_&_Sing:_How_Elites_from_Hollywood,_Politics,_and_the_UN_Are_Subverting_America"
+2,58,Legacy,,http://dbpedia.org/resource/Legacy_(2007_novel) http://dbpedia.org/resource/Legacy_(Bujold) http://dbpedia.org/resource/Legacy_(Bujold_novel)
+2,59,Visions,http://dbpedia.org/resource/Robot_Visions,http://dbpedia.org/resource/Visions:_How_Science_Will_Revolutionize_the_21st_Century http://dbpedia.org/resource/Visions_(book)
+2,64,Hot Springs,http://dbpedia.org/resource/Hot_spring,http://dbpedia.org/resource/Hot_Springs_(novel)
+2,70,Success,http://dbpedia.org/resource/Success_(magazine),http://dbpedia.org/resource/Success_(novel)
+2,77,Mother Love,,http://dbpedia.org/resource/Mother_Love
+2,82,I Am NOT Going to Get Up Today!,http://dbpedia.org/resource/I_Am_Not_Going_to_Get_Up_Today!,http://dbpedia.org/resource/I_Am_NOT_Going_to_Get_Up_Today!
+2,84,Blue Moon,http://dbpedia.org/resource/Blue_Moon_(Steve_Holy_song),http://dbpedia.org/resource/Blue_Moon_(Hamilton_novel)
+2,85,The Moor,http://dbpedia.org/resource/Othello,http://dbpedia.org/resource/The_Moor_(novel)
+2,108,The Mummy Case,http://dbpedia.org/resource/The_Mummy_Case,http://dbpedia.org/resource/The_Mummy_Case_(The_Hardy_Boys_Casefiles) http://dbpedia.org/resource/The_Mummy_Case_(Hardy_Boys)
+2,112,The Guide,http://dbpedia.org/resource/The_Penguin_Guide_to_Jazz,http://dbpedia.org/resource/The_Guide
+2,115,Murphy,http://dbpedia.org/resource/Murphy,http://dbpedia.org/resource/Murphy_(Gary_Paulsen_novel) http://dbpedia.org/resource/Murphy_(novella)
+2,119,Empire,http://dbpedia.org/resource/Empire_(film_magazine),http://dbpedia.org/resource/Empire_(Negri_and_Hardt_book)
+2,138,Midnight,http://dbpedia.org/resource/Midnight_Sun_(Meyer_novel),http://dbpedia.org/resource/Midnight_(Warriors) http://dbpedia.org/resource/Midnight_(Hunter_novel) http://dbpedia.org/resource/Midnight_(Hunter)
+2,157,Holidays on Ice,http://dbpedia.org/resource/Holidays_on_Ice,http://dbpedia.org/resource/Holidays_on_Ice_(book)
+2,161,"The Fateful Triangle: The United States, Israel, and the Palestinians",,"http://dbpedia.org/resource/The_Fateful_Triangle:_The_United_States,_Israel,_and_the_Palestinians http://dbpedia.org/resource/The_Fateful_Triangle http://dbpedia.org/resource/Fateful_Triangle"
+2,162,Manifold: Space,http://dbpedia.org/resource/Space_(Baxter_novel),http://dbpedia.org/resource/Manifold:_Space
+2,164,Dry,http://dbpedia.org/resource/Dry_(album),http://dbpedia.org/resource/Dry_(memoir)

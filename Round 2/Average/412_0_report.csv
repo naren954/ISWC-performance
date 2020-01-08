@@ -1,0 +1,10 @@
+F1: 0.73333,Precision: 0.73333,Recall: 0.73333,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,USS Raleigh,http://dbpedia.org/resource/USS_Raleigh_(CL-7),http://dbpedia.org/resource/HMS_Raleigh_(1776) http://dbpedia.org/resource/USS_Raleigh_(1776) http://dbpedia.org/resource/HBMS_Raleigh_(1776)
+0,10,HMS Warwick,http://dbpedia.org/resource/HMS_Warwick_(D25),http://dbpedia.org/resource/HMS_Warwick_(1733) http://dbpedia.org/resource/French_ship_Warwick_(1733)
+0,11,HMS Seal,http://dbpedia.org/resource/HMS_Seal_(1897),http://dbpedia.org/resource/German_submarine_UB http://dbpedia.org/resource/Unterseeboot_B http://dbpedia.org/resource/HMS_Seal_(N37) http://dbpedia.org/resource/U_B http://dbpedia.org/resource/German_submarine_U_B http://dbpedia.org/resource/German_submarine_U-B
+0,14,HMS Leander,http://dbpedia.org/resource/HMNZS_Leander,http://dbpedia.org/resource/HMS_Leander_(1780) http://dbpedia.org/resource/French_ship_Leander_(1780)
+0,19,HMS Ardent,http://dbpedia.org/resource/HMS_Ardent_(F184),http://dbpedia.org/resource/French_ship_Ardent_(1764) http://dbpedia.org/resource/HMS_Ardent_(1764)
+0,25,French frigate Étoile,http://dbpedia.org/resource/French_frigate_Ventôse,http://dbpedia.org/resource/French_frigate_Étoile_(1813) http://dbpedia.org/resource/HMS_Topaze_(1814) http://dbpedia.org/resource/French_frigate_Etoile_(1813)
+0,27,French frigate Pomone,http://dbpedia.org/resource/French_frigate_Ventôse,http://dbpedia.org/resource/French_frigate_Pomone_(1787) http://dbpedia.org/resource/HMS_Pomone_(1794) http://dbpedia.org/resource/French_frigate_Pomone_(1785)
+0,29,French frigate Magicienne,http://dbpedia.org/resource/French_frigate_Ventôse,http://dbpedia.org/resource/French_frigate_Magicienne_(1778) http://dbpedia.org/resource/HMS_Magicienne_(1781) http://dbpedia.org/resource/HMS_Magicienne_(1778)

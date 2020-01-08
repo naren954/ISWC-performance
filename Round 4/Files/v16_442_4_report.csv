@@ -1,0 +1,7 @@
+"F1: 0.83333","Precision: 0.83333","Recall: 0.83333"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"4","3","Why","http://dbpedia.org/resource/Why_(3T_song)","http://dbpedia.org/resource/Why_(Must_We_Fall_in_Love)"
+"4","9","All Along the Watchtower","http://dbpedia.org/resource/Watchtower_(song)","http://dbpedia.org/resource/All_along_the_watch_tower http://dbpedia.org/resource/All_Along_the_Watchtower_(Hendrix) http://dbpedia.org/resource/All_Along_The_Watchtower http://dbpedia.org/resource/All_Along_the_Watchtower http://dbpedia.org/resource/All_along_the_Watchtower http://dbpedia.org/resource/All_along_the_watchtower"
+"4","15","The Garden","http://dbpedia.org/resource/In_the_Garden_(Eurythmics_album)","http://dbpedia.org/resource/The_Garden_(Take_That_song)"
+"4","19","Issues","http://dbpedia.org/resource/Issues_(Korn_album)","http://dbpedia.org/resource/Issues(The_Saturdays_Song) http://dbpedia.org/resource/Issues_(The_Saturdays_song) http://dbpedia.org/resource/Issues_(The_Saturdays_Song)"
+"4","24","Heart Attack","http://dbpedia.org/resource/Heart_Attack_(Demi_Lovato_song)","http://dbpedia.org/resource/Heart_Attack_(Trey_Songz_song)"

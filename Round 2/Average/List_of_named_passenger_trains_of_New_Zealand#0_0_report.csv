@@ -1,0 +1,17 @@
+F1: 0.54545,Precision: 0.54545,Recall: 0.54545,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Bay Express,http://dbpedia.org/resource/East_Bay_Express,http://dbpedia.org/resource/Bay_Express http://dbpedia.org/resource/Bay_Express_(train)
+0,4,Culverden Express,http://dbpedia.org/resource/Pony_Express,http://dbpedia.org/resource/Parnassus_Express http://dbpedia.org/resource/Culverden_Express
+0,5,Daylight Limited,http://dbpedia.org/resource/Coast_Daylight,http://dbpedia.org/resource/Daylight_Limited
+0,6,Endeavour,http://dbpedia.org/resource/Western_Endeavour,http://dbpedia.org/resource/Endeavour_(train)
+0,7,Geyserland Express,http://dbpedia.org/resource/Pony_Express,http://dbpedia.org/resource/Geyserland_Express_(train) http://dbpedia.org/resource/Geyserland_Express
+0,8,Kaimai Express,http://dbpedia.org/resource/Kaimai_Tunnel,http://dbpedia.org/resource/Kaimai_Express_(train) http://dbpedia.org/resource/Kaimai_Express
+0,12,New Plymouth Express,http://dbpedia.org/resource/New_Plymouth_Airport,http://dbpedia.org/resource/New_Plymouth_Express http://dbpedia.org/resource/The_New_Plymouth_Express
+0,13,New Plymouth Night Express,http://dbpedia.org/resource/List_of_The_Transformers_episodes,http://dbpedia.org/resource/New_Plymouth_Night_Express
+0,18,Picton Express,"http://dbpedia.org/resource/Picton,_Lennox_and_Nueva",http://dbpedia.org/resource/Picton_Express
+0,20,Scenic Daylight,http://dbpedia.org/resource/Coast_Daylight,http://dbpedia.org/resource/Scenic_Daylight
+0,21,Seasider,http://dbpedia.org/resource/Kanazawa_Seaside_Line,http://dbpedia.org/resource/Seasider_(train) http://dbpedia.org/resource/Seasider
+0,23,Silver Star,http://dbpedia.org/resource/Silver_Star_(Amtrak_train),http://dbpedia.org/resource/Silver_Star_(NZR_train) http://dbpedia.org/resource/Silver_Star_(NZR)
+0,24,Southerner,http://dbpedia.org/resource/Southerner_(U.S._train),http://dbpedia.org/resource/Southerner_(train) http://dbpedia.org/resource/The_Southerner_(train) http://dbpedia.org/resource/Southerner_(New_Zealand_train)
+0,27,Seasider,http://dbpedia.org/resource/Kanazawa_Seaside_Line,http://dbpedia.org/resource/Seasider_(train) http://dbpedia.org/resource/Seasider
+0,34,Wairarapa Mail,http://dbpedia.org/resource/NZR_RM_class_(Wairarapa),http://dbpedia.org/resource/Wairarapa_Mail

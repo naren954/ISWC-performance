@@ -1,0 +1,4 @@
+F1: 0.75000,Precision: 0.75000,Recall: 0.75000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,5,The Debt,http://dbpedia.org/resource/The_Debt_(2015_film),http://dbpedia.org/resource/The_Debt_(2011_film) http://dbpedia.org/resource/The_Debt_(2010_film)
+1,8,Frank,http://dbpedia.org/resource/Frank_(band),http://dbpedia.org/resource/Frank_(2014_film) http://dbpedia.org/resource/Frank_(film)

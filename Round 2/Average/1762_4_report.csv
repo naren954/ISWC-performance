@@ -1,0 +1,7 @@
+F1: 0.54545,Precision: 0.54545,Recall: 0.54545,,
+Col,Row,Value,Submitted URI,Correct URI's
+4,1,La Mentira,http://dbpedia.org/resource/La_mentira_(1998_TV_series),http://dbpedia.org/resource/La_Mentira_(1998_telenovela) http://dbpedia.org/resource/La_Mentira http://dbpedia.org/resource/La_mentira
+4,3,Ángela,http://es.dbpedia.org/resource/Ángela_(nombre),http://dbpedia.org/resource/Angela_(telenovela) http://dbpedia.org/resource/Ángela_(telenovela)
+4,8,Corazón salvaje,http://dbpedia.org/resource/Corazón_salvaje_(1993_TV_series),http://dbpedia.org/resource/Corazón_salvaje_(2009_TV_series) http://dbpedia.org/resource/Corazón_salvaje_(2009_telenovela) http://dbpedia.org/resource/Corazón_Salvaje_(2009_TV_series) http://dbpedia.org/resource/Corazón_Salvaje_(2009_telenovela) http://dbpedia.org/resource/Corazon_salvaje_(2009_telenovela) http://dbpedia.org/resource/Corazon_salvaje_(2009_TV_series)
+4,9,Princess Charming,http://dbpedia.org/resource/Princess_Charming_(film),http://dbpedia.org/resource/Princess_Charming_(TV_series)
+4,11,La Intrusa,http://dbpedia.org/resource/La_intrusa_(2001_TV_series),http://dbpedia.org/resource/La_Intrusa_(Mexican_telenovela) http://dbpedia.org/resource/La_Intrusa_(2001) http://dbpedia.org/resource/La_intrusa_(Mexican_telenovela)

@@ -1,0 +1,7 @@
+F1: 0.93671,Precision: 0.93671,Recall: 0.93671,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,21,Was,http://dbpedia.org/resource/Don_Was,http://dbpedia.org/resource/Was_(horse)
+0,38,Victorian,http://dbpedia.org/resource/Painted_lady,http://dbpedia.org/resource/Victorian_(horse)
+0,41,Ventura,http://dbpedia.org/resource/Ventura_Salimbeni,http://dbpedia.org/resource/Ventura_(horse)
+0,48,Vagrancy,http://dbpedia.org/resource/Vagrancy_(racehorse),http://dbpedia.org/resource/Vagrancy_(horse)
+0,70,Tristan,http://dbpedia.org/resource/Tristan_de_Clermont,http://dbpedia.org/resource/Tristan_(horse)

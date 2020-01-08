@@ -1,0 +1,57 @@
+F1: 0.57364,Precision: 0.57364,Recall: 0.57364,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,1,J. Kydd,http://dbpedia.org/resource/Frances_Shand_Kydd,http://dbpedia.org/resource/Jonathan_Kydd_(actor)
+2,3,N. Babbar,http://dbpedia.org/resource/Prateik_Babbar,http://dbpedia.org/resource/Nadira_Babbar
+2,8,W. R. Hess,http://dbpedia.org/resource/Rudolf_Hess,http://dbpedia.org/resource/Wolf_Ruediger_Hess http://dbpedia.org/resource/Wolf_Rudiger_Hess http://dbpedia.org/resource/Wolf_Rüdiger_Heß http://dbpedia.org/resource/Wolf_Rüdiger_Hess
+2,10,V. Dandridge,http://dbpedia.org/resource/Dorothy_Dandridge,http://dbpedia.org/resource/Vivian_Dandridge
+2,13,A. Disney,http://dbpedia.org/resource/Walt_Disney,http://dbpedia.org/resource/Abigail_Disney
+2,18,J. Ashmore,http://dbpedia.org/resource/Aaron_Ashmore,http://dbpedia.org/resource/Jonathan_Ashmore http://dbpedia.org/resource/Jonathan_Felix_Ashmore
+2,19,C. Barker,http://dbpedia.org/resource/Clive_Barker,http://dbpedia.org/resource/Charlotte_Barker
+2,20,M. Reagan,http://dbpedia.org/resource/Ronald_Reagan,http://dbpedia.org/resource/John_Flaugher http://dbpedia.org/resource/The_Michael_Reagan_Talk_Show http://dbpedia.org/resource/Michael_Reagan
+2,21,R. Lacey,http://dbpedia.org/resource/Ronald_Lacey,http://dbpedia.org/resource/Rebecca_Lacey
+2,22,S. Pickering,http://dbpedia.org/resource/Edward_Charles_Pickering,http://dbpedia.org/resource/Shaun_Pickering
+2,25,E. Lloyd,http://dbpedia.org/resource/Sam_Lloyd,http://dbpedia.org/resource/Emily_Lloyd http://dbpedia.org/resource/Charlotte_Ball
+2,26,H. California,http://dbpedia.org/resource/H._Allen_Smith_(California),"http://dbpedia.org/resource/Hollywood_Goes_Green http://dbpedia.org/resource/H'w'd http://dbpedia.org/resource/Greater_Hollywood,_Los_Angeles,_California http://dbpedia.org/resource/Hollywood,_Calif. http://dbpedia.org/resource/Greater_Hollywood http://dbpedia.org/resource/Hollywood_(Los_Angeles) http://dbpedia.org/resource/Hollywood_(Los_Angeles,_Calif.) http://dbpedia.org/resource/English_cinema http://dbpedia.org/resource/Hollywood http://dbpedia.org/resource/Hollywood_(California) http://dbpedia.org/resource/Hwood http://dbpedia.org/resource/UN/LOCODE:USHLW http://dbpedia.org/resource/Hollywood,_Los_Angeles,_CA http://dbpedia.org/resource/Hollywood,_Los_Angeles http://dbpedia.org/resource/Hollywood_America http://dbpedia.org/resource/Hollywood,_Los_Angeles,_California http://dbpedia.org/resource/Hollywood,_California http://dbpedia.org/resource/Hollywood_(CA) http://dbpedia.org/resource/District_of_Hollywood http://dbpedia.org/resource/Tinseltown http://dbpedia.org/resource/HollywooD http://dbpedia.org/resource/Hollywood,_CA http://dbpedia.org/resource/History_of_Hollywood,_California"
+2,28,F. Taylor,http://dbpedia.org/resource/Frederick_Winslow_Taylor,http://dbpedia.org/resource/Felicia_Taylor
+2,29,R. W. Jr.,"http://dbpedia.org/resource/Robert_Walker_(actor,_born_1940)","http://dbpedia.org/resource/Robert_Walker_Jr http://dbpedia.org/resource/Robert_Walker_Jr. http://dbpedia.org/resource/Robert_Walker,_Jr. http://dbpedia.org/resource/Robert_Walker_(1960s_actor)"
+2,32,I. Shaw,http://dbpedia.org/resource/George_Bernard_Shaw,http://dbpedia.org/resource/Ian_Shaw_(actor)
+2,33,J. Prosky,http://dbpedia.org/resource/Robert_Prosky,http://dbpedia.org/resource/John_Prosky
+2,35,C. Mitchum,http://dbpedia.org/resource/Robert_Mitchum,http://dbpedia.org/resource/Christopher_Mitchum http://dbpedia.org/resource/Chris_Mitchum
+2,36,R. C. McNamara,http://dbpedia.org/resource/Kevin_McNamara_(politician),http://dbpedia.org/resource/Robert_Craig_McNamara
+2,37,A. Randall,http://dbpedia.org/resource/Justin_Timberlake,http://dbpedia.org/resource/Addison_Randall
+2,39,N. Goulet,http://dbpedia.org/resource/Nathalie_Goulet,http://dbpedia.org/resource/Nicolette_Goulet
+2,44,R. J. Sherman,http://dbpedia.org/resource/Robert_B._Sherman,http://dbpedia.org/resource/Robbie_Sherman http://dbpedia.org/resource/Robert_J._Sherman
+2,47,Y. A. Khan,http://dbpedia.org/resource/Saif_Ali_Khan,http://dbpedia.org/resource/Yasmin_Aga_Khan http://dbpedia.org/resource/Princess_Yasmin_Aga_Khan
+2,48,J. Thorpe,http://dbpedia.org/resource/Jeremy_Thorpe,http://dbpedia.org/resource/Jerry_Thorpe
+2,52,B. Jaeckel,http://dbpedia.org/resource/Willy_Jaeckel,http://dbpedia.org/resource/Barry_Jaeckel
+2,53,C. Rawson,http://dbpedia.org/resource/Clayton_Rawson,http://dbpedia.org/resource/Christopher_Rawson
+2,54,J. Harris,http://dbpedia.org/resource/Richard_Harris,http://dbpedia.org/resource/Jared_Harris
+2,57,T. Sarafian,http://dbpedia.org/resource/Deran_Sarafian,http://dbpedia.org/resource/Tedi_Sarafian
+2,60,L. Briers,http://dbpedia.org/resource/Richard_Briers,http://dbpedia.org/resource/Lucy_Briers
+2,63,M. Attenborough,http://dbpedia.org/resource/Richard_Attenborough,http://dbpedia.org/resource/Michael_Attenborough http://dbpedia.org/resource/Michael_John_Attenborough
+2,65,R. A. Jr.,http://dbpedia.org/resource/Theodore_Roosevelt,"http://dbpedia.org/resource/Rex_Allen_Jr. http://dbpedia.org/resource/Rex_Allen,_Jr."
+2,66,R. C. Jr.,http://dbpedia.org/resource/Roger_Clinton_Jr.,"http://dbpedia.org/resource/René_Cardona,_Jr. http://dbpedia.org/resource/René_Cardona_jr. http://dbpedia.org/resource/René_Cardona_Jr. http://dbpedia.org/resource/Rene_Cardona_Jr. http://dbpedia.org/resource/Rene_Cardona_Jr http://dbpedia.org/resource/René_Cardona_Jr"
+2,67,K. Satō,http://dbpedia.org/resource/Eisaku_Satō,http://dbpedia.org/resource/Kōichi_Satō_(actor)
+2,68,R. C. Jr.,http://dbpedia.org/resource/Roger_Clinton_Jr.,"http://dbpedia.org/resource/René_Cardona,_Jr. http://dbpedia.org/resource/René_Cardona_jr. http://dbpedia.org/resource/René_Cardona_Jr. http://dbpedia.org/resource/Rene_Cardona_Jr. http://dbpedia.org/resource/Rene_Cardona_Jr http://dbpedia.org/resource/René_Cardona_Jr"
+2,71,P. Ratheesh,http://dbpedia.org/resource/Padmaraj_Ratheesh,http://dbpedia.org/resource/Parvathy_Ratheesh
+2,74,R. Khanna,http://dbpedia.org/resource/Rahul_Khanna,http://dbpedia.org/resource/Rinke_Khanna http://dbpedia.org/resource/Rinkle_Khanna
+2,75,K. Gaurav,http://dbpedia.org/resource/Gaurav_Chakrabarty,http://dbpedia.org/resource/Kumar_gaurav http://dbpedia.org/resource/Kumar_Gaurav
+2,82,R. Kapoor,http://dbpedia.org/resource/Rishi_Kapoor,http://dbpedia.org/resource/Raj_Kapoor http://dbpedia.org/resource/Ranbir_Raj_Prithviraj_Kapoor
+2,83,P. Ra'ad,http://dbpedia.org/resource/Zeid_Raad_Al_Hussein,http://dbpedia.org/resource/Prince_Ra'ad_bin_Zeid http://dbpedia.org/resource/Prince_Raad http://dbpedia.org/resource/Prince_Ra'ad http://dbpedia.org/resource/Ra'ad_bin_Zeid
+2,84,Shanavas,http://dbpedia.org/resource/M._I._Shanavas,http://dbpedia.org/resource/Shanawaz http://dbpedia.org/resource/Shanavaz http://dbpedia.org/resource/Shanawas http://dbpedia.org/resource/Shanavas_(actor) http://dbpedia.org/resource/Shanavas
+2,89,P. C. Jr.,http://dbpedia.org/resource/Paul_Crouch_Jr.,"http://dbpedia.org/resource/Philippe_Cousteau,_Jr. http://dbpedia.org/resource/Philippe_Cousteau_Jr."
+2,90,M. Sellers,http://dbpedia.org/resource/Peter_Sellers,http://dbpedia.org/resource/Michael_Sellers_(actor)
+2,91,K. O'Toole,http://dbpedia.org/resource/Peter_O'Toole,http://dbpedia.org/resource/Kate_O'Toole_(actress)
+2,93,"Peter W. Cookson, Jr.",http://dbpedia.org/resource/Peter_W._Rodino,"http://dbpedia.org/resource/Peter_W._Cookson,_Jr."
+2,95,P. A. Jr.,http://dbpedia.org/resource/Pedro_Armendáriz_Jr.,"http://dbpedia.org/resource/Pedro_Armendáriz,_Jr."
+2,96,A. Winchell,http://dbpedia.org/resource/Paul_Winchell,http://dbpedia.org/resource/Regretsy http://dbpedia.org/resource/CF4L http://dbpedia.org/resource/April_Winchell
+2,97,P. R. Jr.,http://dbpedia.org/resource/Paul_Robeson_Jr.,"http://dbpedia.org/resource/Paul_Robeson,_Jr. http://dbpedia.org/resource/Paul_Robeson_Jr"
+2,98,M. Newman,http://dbpedia.org/resource/Maria_Newman,http://dbpedia.org/resource/Melissa_Newman
+2,99,H. Lange,http://dbpedia.org/resource/Halvard_Lange,http://dbpedia.org/resource/Hans_Lange
+2,104,S. Heron,http://dbpedia.org/resource/Gil_Scott-Heron,http://dbpedia.org/resource/Susanna_Heron
+2,106,R. O'Callaghan,http://dbpedia.org/resource/James_Callaghan,http://dbpedia.org/resource/Richard_O'Callaghan
+2,113,S. Fries,,http://dbpedia.org/resource/Sherwood_Fries
+2,122,M. Lear,http://dbpedia.org/resource/Amanda_Lear,http://dbpedia.org/resource/Moya_Lear
+2,126,C. Mitchell,http://dbpedia.org/resource/Cameron_Mitchell_(actor),http://dbpedia.org/resource/Christopher_Mitchell_(actor)
+2,127,I. T. Jr.,http://dbpedia.org/resource/Sammy_Davis_Jr.,"http://dbpedia.org/resource/Irving_Thalberg,_Jr. http://dbpedia.org/resource/Irving_Thalberg_Jr http://dbpedia.org/resource/Irving_Thalberg_Jr."
+2,129,C. Harrison,http://dbpedia.org/resource/Caroline_Harrison,http://dbpedia.org/resource/Cathryn_Harrison

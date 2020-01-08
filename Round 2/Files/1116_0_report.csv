@@ -1,0 +1,5 @@
+"F1: 0.81250","Precision: 0.81250","Recall: 0.81250"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","3","P. Ozanne","http://dbpedia.org/resource/Pierre_Ozanne","http://dbpedia.org/resource/Patricia_Ozanne"
+"0","7","L. Moore","http://dbpedia.org/resource/Lloyd_Moore","http://dbpedia.org/resource/Moore_(constructor) http://dbpedia.org/resource/Lou_Moore"
+"0","15","E. Cooper","http://dbpedia.org/resource/Duff_Cooper","http://dbpedia.org/resource/Earl_Cooper"

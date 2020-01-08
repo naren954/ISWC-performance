@@ -1,0 +1,59 @@
+F1: 0.55469,Precision: 0.55469,Recall: 0.55469,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,SAS Spioenkop,http://dbpedia.org/resource/SAS_Spioenkop,http://dbpedia.org/resource/SAS_Spioenkop_(F147)
+0,3,SAS President Steyn,http://dbpedia.org/resource/SAS_President_Steyn,http://dbpedia.org/resource/SAS_President_Steyn_(F147)
+0,4,SAS President Pretorius,http://dbpedia.org/resource/SAS_President_Pretorius,http://dbpedia.org/resource/SAS_President_Pretorius_(F145)
+0,7,Russian submarine Verkhoturye,http://dbpedia.org/resource/Russian_submarine_Delfin,http://dbpedia.org/resource/Russian_submarine_Verkhoturye_(K-51) http://dbpedia.org/resource/Russian_submarine_K-51_Verkhoturye
+0,8,Russian submarine Vepr,http://dbpedia.org/resource/Russian_submarine_Delfin,http://dbpedia.org/resource/Russian_submarine_K-157 http://dbpedia.org/resource/Russian_submarine_Vepr_(K-157) http://dbpedia.org/resource/Russian_submarine_Vepr http://dbpedia.org/resource/Russian_submarine_K-157_Vepr http://dbpedia.org/resource/Soviet_submarine_K-157
+0,9,Russian submarine Tula,http://dbpedia.org/resource/Russian_submarine_Pskov_(K-336),http://dbpedia.org/resource/Russian_submarine_K-114_Tula http://dbpedia.org/resource/Russian_submarine_Tula_(K-114)
+0,10,Russian submarine Novomoskovsk,http://dbpedia.org/resource/Russian_submarine_Minoga,http://dbpedia.org/resource/Russian_submarine_Novomoskovsk_(K-407) http://dbpedia.org/resource/Russian_submarine_K-407_Novomoskovsk http://dbpedia.org/resource/K-407_Novomoskovsk http://dbpedia.org/resource/RFS_Novomoskovsk_(K-407) http://dbpedia.org/resource/Russian_submarine_K-407
+0,11,Russian submarine Bryansk,http://dbpedia.org/resource/Russian_submarine_Krab_(1912),http://dbpedia.org/resource/Russian_submarine_Bryansk_(K-117) http://dbpedia.org/resource/Russian_submarine_K-117_Bryansk
+0,12,Russian destroyer Admiral Levchenko,http://dbpedia.org/resource/Russian_destroyer_Admiral_Vinogradov,http://dbpedia.org/resource/Russian_destroyer_Admiral_Levchenko
+0,13,RV Sonne,http://dbpedia.org/resource/RV_Sonne,http://dbpedia.org/resource/RV_Sonne_(2014)
+0,14,ROCS Yueh Fei,http://dbpedia.org/resource/ROCS_Yueh_Fei_(PFG2-1106),http://dbpedia.org/resource/ROCS_Yueh_Fei http://dbpedia.org/resource/ROCS_Yueh_Fei_(FFG-1106) http://dbpedia.org/resource/ROCS_Yueh_Fei_(PFG-1106) http://dbpedia.org/resource/Yueh_Fei_(1106)
+0,19,ORP Sokół,http://dbpedia.org/resource/ORP_Sokół_(1940),http://dbpedia.org/resource/ORP_Sokol_(Kobben_class) http://dbpedia.org/resource/HNoMS_Stord_(S-308) http://dbpedia.org/resource/HNoMS_Stord_(S308) http://dbpedia.org/resource/ORP_Sokół_(Kobben_class) http://dbpedia.org/resource/ORP_Sokół_(294)
+0,28,NOAAS Discoverer,http://dbpedia.org/resource/NOAAS_Surveyor_(S_132),http://dbpedia.org/resource/USC&GS_Discoverer_(1964) http://dbpedia.org/resource/NOAAS_Discoverer_(R_102) http://dbpedia.org/resource/USC&GS_Discoverer_(OSS_02) http://dbpedia.org/resource/NOAAS_Discoverer
+0,41,Keokuk,http://dbpedia.org/resource/USS_Keokuk_(1862),http://dbpedia.org/resource/Keokuk_(YTB-771) http://dbpedia.org/resource/YTB-771 http://dbpedia.org/resource/USS_Keokuk_(YTB-771) http://dbpedia.org/resource/USS_Keokuk_(YTB_771)
+0,42,Japanese support ship Suo,,http://dbpedia.org/resource/JS_Suo_(AMS-4302) http://dbpedia.org/resource/Japanese_support_ship_Suo_(AMS-4302) http://dbpedia.org/resource/Japanese_support_ship_Suō_(AMS-4302) http://dbpedia.org/resource/JS_Suō_(AMS-4302)
+0,43,Japanese support ship Genkai,,http://dbpedia.org/resource/JS_Genkai_(AMS-4304) http://dbpedia.org/resource/Japanese_support_ship_Genkai_(AMS-4304)
+0,44,Japanese support ship Enshu,,http://dbpedia.org/resource/JS_Enshu_(AMS-4305) http://dbpedia.org/resource/Japanese_support_ship_Enshu_(AMS-4305)
+0,45,Japanese submarine I-51,http://dbpedia.org/resource/Japanese_submarine_I-53_(1925),http://dbpedia.org/resource/Japanese_submarine_I-51
+0,46,Japanese submarine I-152,http://dbpedia.org/resource/Japanese_submarine_I-53_(1925),http://dbpedia.org/resource/Japanese_submarine_I-152
+0,51,Japanese icebreaker Shirase,http://dbpedia.org/resource/Japanese_icebreaker_Shirase_(AGB-5003),http://dbpedia.org/resource/Shiraze_(icebreaker) http://dbpedia.org/resource/Japanese_icebreaker_Shirase_(AGB-5002) http://dbpedia.org/resource/Shirase_(1981_icebreaker)
+0,52,Japanese destroyer Uranami,http://dbpedia.org/resource/Japanese_destroyer_Sagiri,http://dbpedia.org/resource/JDS_Uranami_(ASU-7005) http://dbpedia.org/resource/JDS_Uranami_(DD-105) http://dbpedia.org/resource/Japanese_destroyer_Uranami_(DD-105)
+0,53,Japanese destroyer Fuyutsuki,http://dbpedia.org/resource/Japanese_destroyer_Harutsuki,http://dbpedia.org/resource/Japanese_destroyer_Fuyuzuki http://dbpedia.org/resource/Japanese_destroyer_Fuyutsuki
+0,54,JS Ōnami,http://dbpedia.org/resource/Takanami-class_destroyer,http://dbpedia.org/resource/JS_Onami_(DD-111) http://dbpedia.org/resource/Japanese_destroyer_Onami_(DD-111) http://dbpedia.org/resource/JS_Ōnami_(DD-111)
+0,55,JS Takanami,http://dbpedia.org/resource/Takanami-class_destroyer,http://dbpedia.org/resource/JDS_Takanami_(DD-110) http://dbpedia.org/resource/JDS_Takanami_(ASU-7009) http://dbpedia.org/resource/JS_Takanami_(DD-110) http://dbpedia.org/resource/Japanese_destroyer_Takanami_(DD-110) http://dbpedia.org/resource/JS_''Takanami''_(DD-110)
+0,56,JS Suzunami,http://dbpedia.org/resource/Takanami-class_destroyer,http://dbpedia.org/resource/JS_Suzunami_(DD-114) http://dbpedia.org/resource/Japanese_destroyer_Suzunami_(DD-114)
+0,57,JS Sazanami,http://dbpedia.org/resource/Takanami-class_destroyer,http://dbpedia.org/resource/Japanese_destroyer_Sazanami_(DD-113) http://dbpedia.org/resource/JS_Sazanami_(DD-113)
+0,58,JS Murasame,http://dbpedia.org/resource/Japanese_destroyer_Murasame_(1935),http://dbpedia.org/resource/JDS_Murasame_(DD-101) http://dbpedia.org/resource/JS_Murasame_(DD-101)
+0,59,JS Makinami,http://dbpedia.org/resource/Takanami-class_destroyer,http://dbpedia.org/resource/Japanese_destroyer_Makinami_(DD-112) http://dbpedia.org/resource/JS_Makinami_(DD-112) http://dbpedia.org/resource/JDS_Makinami
+0,60,JS Hiuchi,http://dbpedia.org/resource/JS_Hiuchi,http://dbpedia.org/resource/JS_Hiuchi_(AMS-4301)
+0,61,JS Amakusa,http://dbpedia.org/resource/JS_Amakusa,http://dbpedia.org/resource/JS_Amakusa_(AMS-4303)
+0,62,JS Ōnami,http://dbpedia.org/resource/Takanami-class_destroyer,http://dbpedia.org/resource/JS_Onami_(DD-111) http://dbpedia.org/resource/Japanese_destroyer_Onami_(DD-111) http://dbpedia.org/resource/JS_Ōnami_(DD-111)
+0,63,JDS Ōsumi,http://dbpedia.org/resource/JS_Ōsumi,http://dbpedia.org/resource/JDS_Osumi_(LST-4001) http://dbpedia.org/resource/JDS_Ōsumi_(LST-4001)
+0,64,JDS Yamayuki,http://dbpedia.org/resource/JDS_Yamayuki,http://dbpedia.org/resource/JS_Yamayuki_(DD-129) http://dbpedia.org/resource/Japanese_destroyer_Yamayuki_(DD-129) http://dbpedia.org/resource/JDS_Yamayuki_(DD-129)
+0,66,JDS Shimokita,http://dbpedia.org/resource/JDS_Kashima,http://dbpedia.org/resource/JDS_Shimokita_(LST-4002)
+0,67,JDS Kunisaki,http://dbpedia.org/resource/JDS_Kashima,http://dbpedia.org/resource/JDS_Kunisaki_(LST-4003)
+0,69,JDS Ise,http://dbpedia.org/resource/Japanese_battleship_Ise,http://dbpedia.org/resource/JDS_Ise http://dbpedia.org/resource/JS_Ise_(DDH-182) http://dbpedia.org/resource/JDS_Ise_(DDH-182)
+0,70,JDS Hyūga,http://dbpedia.org/resource/JS_Hyūga,http://dbpedia.org/resource/JDS_Hyuga_(DDH-181) http://dbpedia.org/resource/JDS_Hyuga http://dbpedia.org/resource/JDS_Hyūga http://dbpedia.org/resource/JDS_Hyūga_(DDH-181) http://dbpedia.org/resource/JS_Hyūga_(DDH-181)
+0,72,JDS Ōsumi,http://dbpedia.org/resource/JS_Ōsumi,http://dbpedia.org/resource/JDS_Osumi_(LST-4001) http://dbpedia.org/resource/JDS_Ōsumi_(LST-4001)
+0,74,Italian destroyer Caio Duilio,http://dbpedia.org/resource/Italian_battleship_Caio_Duilio,http://dbpedia.org/resource/Italian_destroyer_Caio_Duilio_(D_554) http://dbpedia.org/resource/Caio_Duilio_(D_554) http://dbpedia.org/resource/Italian_Destroyer_Caio_Duilio http://dbpedia.org/resource/Italian_destroyer_Caio_Duilio_(D554) http://dbpedia.org/resource/Italian_destroyer_Caio_Duilio
+0,76,Italian cruiser Giuseppe Garibaldi,http://dbpedia.org/resource/Italian_cruiser_Giuseppe_Garibaldi_(1899),http://dbpedia.org/resource/Italian_cruiser_Giuseppe_Garibaldi_(1936) http://dbpedia.org/resource/Italian_cruiser_Giuseppe_Garibaldi_(1961) http://dbpedia.org/resource/Italian_cruiser_Giuseppe_Garibaldi_(1933) http://dbpedia.org/resource/Italian_cruiser_Giuseppe_Garibaldi_(C551)
+0,81,INS Viraat,http://dbpedia.org/resource/HMS_Hermes_(R12),http://dbpedia.org/resource/INS_Viraat_(R22) http://dbpedia.org/resource/INS_Viraat
+0,82,INS Vikramaditya,http://dbpedia.org/resource/Soviet_aircraft_carrier_Admiral_Gorshkov,http://dbpedia.org/resource/INS_Vikramaditya http://dbpedia.org/resource/INS_Vikramaditya_(R33) http://dbpedia.org/resource/Project_11430 http://dbpedia.org/resource/Indian_aircraft_carrier_Vikramaditya
+0,87,HSwMS Uppland,http://dbpedia.org/resource/HSwMS_Uppland_(Upd),http://dbpedia.org/resource/HMS_Uppland_(Upd) http://dbpedia.org/resource/HMS_Uppland http://dbpedia.org/resource/HSwMS_Uppland
+0,88,HSwMS Halland,http://dbpedia.org/resource/HSwMS_Halland_(Hnd),http://dbpedia.org/resource/HMS_Halland_(Hnd) http://dbpedia.org/resource/HSwMS_Halland_(1996)
+0,89,HSwMS Gotland,http://dbpedia.org/resource/HSwMS_Gotland_(1933),http://dbpedia.org/resource/HMS_Gotland_(Gtd) http://dbpedia.org/resource/HSwMS_Gotland_(1995) http://dbpedia.org/resource/HMS_Gotland_(1995)
+0,91,HNLMS Karel Doorman,http://dbpedia.org/resource/ARA_Veinticinco_de_Mayo_(V-2),http://dbpedia.org/resource/HNLMS_Karel_Doorman_(R81) http://dbpedia.org/resource/HNLMS_Karel_Doorman_II
+0,95,HMS Wolverine,http://dbpedia.org/resource/HMS_Wolverine_(D78),http://dbpedia.org/resource/HMCS_Wolverine http://dbpedia.org/resource/HMS_Wolverine_(1863)
+0,99,HMS Victorious,http://dbpedia.org/resource/HMS_Victorious_(R38),http://dbpedia.org/resource/HMS_Victorious_(S29)
+0,100,HMS Vengeance,http://dbpedia.org/resource/HMS_Vengeance_(1824),http://dbpedia.org/resource/HMS_Vengeance_(S31)
+0,102,HMS Vanguard,http://dbpedia.org/resource/HMS_Vanguard_(1909),http://dbpedia.org/resource/HMS_Vanguard_(S28)
+0,103,HMS Turbulent,http://dbpedia.org/resource/HMS_Turbulent_(1919),http://dbpedia.org/resource/HMS_Turbulent_(S87)
+0,104,HMS Triumph,http://dbpedia.org/resource/HMS_Triumph_(1623),http://dbpedia.org/resource/HMS_Triumph_(S93)
+0,106,HMS Trafalgar,http://dbpedia.org/resource/HMS_Trafalgar_(1841),http://dbpedia.org/resource/HMS_Trafalgar_(S107)
+0,109,HMS Talent,http://dbpedia.org/resource/HMS_Talent_(P337),http://dbpedia.org/resource/HMS_Talent_(S92)
+0,112,HMS Southampton,http://dbpedia.org/resource/HMS_Southampton_(83),http://dbpedia.org/resource/HMS_Southampton_(D90)
+0,114,HMS Sceptre,http://dbpedia.org/resource/HMS_Sceptre_(1802),http://dbpedia.org/resource/HMS_Sceptre_(S104)
+0,125,HMS Niger,http://dbpedia.org/resource/HMS_Niger_(1846),http://dbpedia.org/resource/HMS_Niger_(J73)

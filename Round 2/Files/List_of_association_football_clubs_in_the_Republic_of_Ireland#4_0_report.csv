@@ -1,0 +1,4 @@
+"F1: 0.77778","Precision: 0.77778","Recall: 0.77778"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","2","Bangor Celtic","http://dbpedia.org/resource/Bangor_City_F.C.","http://dbpedia.org/resource/Bangor_Celtic http://dbpedia.org/resource/Bangor_Celtic_F.C."
+"0","5","Dublin University","http://dbpedia.org/resource/Dublin_City_F.C.","http://dbpedia.org/resource/Dublin_University_AFC http://dbpedia.org/resource/Dublin_University_A.F.C. http://dbpedia.org/resource/Dublin_University_Association_Football_Club"

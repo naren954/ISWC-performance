@@ -1,0 +1,4 @@
+F1: 0.94286,Precision: 0.94286,Recall: 0.94286,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,13,R. Evans,http://dbpedia.org/resource/Ronald_M._Evans,"http://dbpedia.org/resource/Ronald_Evans_(astronaut) http://dbpedia.org/resource/Ronald_E._Evans http://dbpedia.org/resource/Ronald_Ellwin_Evans,_Jr. http://dbpedia.org/resource/Ronald_Ellwin_Evans http://dbpedia.org/resource/Ronald_Evans,_Jr."
+0,33,J. M. Taylor,http://dbpedia.org/resource/Montgomery_M._Taylor,http://dbpedia.org/resource/James_M._Taylor http://dbpedia.org/resource/James_Martin_Taylor

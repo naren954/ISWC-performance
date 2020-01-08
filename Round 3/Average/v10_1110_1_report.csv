@@ -1,0 +1,14 @@
+F1: 0.55556,Precision: 0.55556,Recall: 0.55556,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,2,W. Hauptman,http://dbpedia.org/resource/Herbert_A._Hauptman,http://dbpedia.org/resource/William_Hauptman
+1,4,J. Weidman,http://dbpedia.org/resource/Jerome_Weidman,http://dbpedia.org/resource/John_Weidman
+1,5,D. Lipman,http://de.dbpedia.org/resource/Jerzy_Lipman,http://dbpedia.org/resource/Daniel_Lipman
+1,9,C. Walker,http://dbpedia.org/resource/Cindy_Walker,http://dbpedia.org/resource/Che_Walker http://dbpedia.org/resource/Ché_Walker
+1,11,K. H. Harvey,http://dbpedia.org/resource/John_Harvey_Kellogg,http://dbpedia.org/resource/Kit_Hesketh_Harvey http://dbpedia.org/resource/Kit_Hesketh-Harvey
+1,13,M. Bramble,http://dbpedia.org/resource/Curt_Bramble,http://dbpedia.org/resource/Mark_Bramble
+1,14,J. Rosenthal,http://dbpedia.org/resource/Joe_Rosenthal,http://dbpedia.org/resource/Jack_Rosenthal http://dbpedia.org/resource/Jack_Morris_Rosenthal
+1,21,A. Green,http://dbpedia.org/resource/John_Green_(author),http://dbpedia.org/resource/Adolph_Green http://dbpedia.org/resource/Adolf_Green
+1,23,T. Meehan,http://dbpedia.org/resource/John_Meehan_(art_director),http://dbpedia.org/resource/Thomas_Meehan_(Writer) http://dbpedia.org/resource/Thomas_Meehan_(writer)
+1,24,T. Meehan,http://dbpedia.org/resource/John_Meehan_(art_director),http://dbpedia.org/resource/Thomas_Meehan_(Writer) http://dbpedia.org/resource/Thomas_Meehan_(writer)
+1,26,N. White,http://dbpedia.org/resource/Nera_White,http://dbpedia.org/resource/Nancy_White_(singer-songwriter)
+1,27,P. Kellogg,http://dbpedia.org/resource/John_Harvey_Kellogg,http://dbpedia.org/resource/Peter_Kellogg_(writer)

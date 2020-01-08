@@ -1,0 +1,11 @@
+F1: 0.70968,Precision: 0.70968,Recall: 0.70968,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,"Ä\u0080, Ä\u0081",http://dbpedia.org/resource/Ə,http://dbpedia.org/resource/Ā
+0,5,"Ä\u008C, Ä\u008D",http://dbpedia.org/resource/Ə,http://dbpedia.org/resource/Č
+0,8,"Ä\u0092, Ä\u0093",http://dbpedia.org/resource/Ə,http://dbpedia.org/resource/Ē
+0,11,"Ä¢, Ä£",http://dbpedia.org/resource/G,http://dbpedia.org/resource/Ģ
+0,14,"Äª, Ä«",http://dbpedia.org/resource/I,http://dbpedia.org/resource/Ī
+0,17,"Ä¶, Ä·",http://dbpedia.org/resource/K,http://dbpedia.org/resource/Ķ
+0,19,"Ä», Ä¼",http://dbpedia.org/resource/L,http://dbpedia.org/resource/Ļ
+0,30,"Åª, Å«",http://dbpedia.org/resource/U,http://dbpedia.org/resource/Ū
+0,33,"Å½, Å¾",http://dbpedia.org/resource/Z,http://dbpedia.org/resource/Ž

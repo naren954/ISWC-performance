@@ -1,0 +1,10 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,3,Hong Kong,http://dbpedia.org/resource/Hong_Kong,http://dbpedia.org/resource/Hong_Kong_national_under-17_football_team http://dbpedia.org/resource/Hong_Kong_national_under-16_football_team
+3,4,Guam,http://dbpedia.org/resource/Guam,http://dbpedia.org/resource/Guam_national_under-18_football_team http://dbpedia.org/resource/Guam_national_under-17_football_team
+3,6,China PR,http://dbpedia.org/resource/China,http://dbpedia.org/resource/China_national_under-16_football_team http://dbpedia.org/resource/China_national_under-17_football_team http://dbpedia.org/resource/China_PR_national_under-17_football_team http://dbpedia.org/resource/China_national_under-18_football_team
+3,7,China PR,http://dbpedia.org/resource/China,http://dbpedia.org/resource/China_national_under-16_football_team http://dbpedia.org/resource/China_national_under-17_football_team http://dbpedia.org/resource/China_PR_national_under-17_football_team http://dbpedia.org/resource/China_national_under-18_football_team
+3,8,Laos,http://dbpedia.org/resource/Laos,http://dbpedia.org/resource/Laos_national_under-17_football_team http://dbpedia.org/resource/Laos_national_under-16_football_team
+3,9,Vietnam,http://dbpedia.org/resource/Vietnam,http://dbpedia.org/resource/Vietnam_national_under-17_football_team http://dbpedia.org/resource/Vietnam_national_under-16_football_team
+3,10,North Korea,http://dbpedia.org/resource/North_Korea,http://dbpedia.org/resource/North_Korea_national_under-17_football_team
+3,12,Senegal,http://dbpedia.org/resource/Senegal,http://dbpedia.org/resource/Les_Lions_de_la_Teranga http://dbpedia.org/resource/Teranga_Lions http://dbpedia.org/resource/Senegal_national_football_team http://dbpedia.org/resource/Senegalese_national_football_team http://dbpedia.org/resource/Senegal_football_team

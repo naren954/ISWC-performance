@@ -1,0 +1,40 @@
+F1: 0.56818,Precision: 0.56818,Recall: 0.56818,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,2,K. Johnson,http://dbpedia.org/resource/Dwayne_Johnson,http://dbpedia.org/resource/Kevin_johnson_(disambiguation) http://dbpedia.org/resource/Kevin_Johnson_(disambiguation)
+2,5,J. Wurts,http://dbpedia.org/resource/John_Wurts,http://dbpedia.org/resource/Janny_Wurts
+2,6,L. Wood,http://dbpedia.org/resource/Leonard_Wood,http://dbpedia.org/resource/Leslie_Wood_(illustrator)
+2,7,L. Wood,http://dbpedia.org/resource/Leonard_Wood,http://dbpedia.org/resource/Leslie_Wood_(illustrator)
+2,16,A. Pollock,http://dbpedia.org/resource/Jackson_Pollock,http://dbpedia.org/resource/Alan_Pollock http://dbpedia.org/resource/Hawker_Hunter_Tower_Bridge_incident
+2,18,J. Foster,http://dbpedia.org/resource/Jodie_Foster,http://dbpedia.org/resource/Jon_Foster_(Artist) http://dbpedia.org/resource/Jon_Foster_(artist)
+2,19,J. Foster,http://dbpedia.org/resource/Jodie_Foster,http://dbpedia.org/resource/Jon_Foster_(Artist) http://dbpedia.org/resource/Jon_Foster_(artist)
+2,20,C. McGrath,http://dbpedia.org/resource/Douglas_McGrath,http://dbpedia.org/resource/Christian_McGrath http://dbpedia.org/resource/Chris_McGrath_(artist)
+2,21,H. Rousseau,http://dbpedia.org/resource/Théodore_Rousseau,"http://dbpedia.org/resource/Henri_rousseau http://dbpedia.org/resource/Henri-Julien-Félix_Rousseau http://dbpedia.org/resource/Henri_Julien_Felix_Rousseau http://dbpedia.org/resource/Henri_Rousseau http://dbpedia.org/resource/Le_Douanier_Rousseau http://dbpedia.org/resource/Douanier_Rousseau http://dbpedia.org/resource/Rousseau,_Henri_Julien_Félix http://dbpedia.org/resource/Henri_Julien_Félix_Rousseau http://dbpedia.org/resource/Henri_Rousseau_(1844-1910) http://dbpedia.org/resource/Rousseau,_Henri_Julien_Felix http://dbpedia.org/resource/The_Magnificant_Paintings_of_Henri_Rousseau"
+2,24,L. Smith,http://dbpedia.org/resource/Linda_Smith_(comedian),http://dbpedia.org/resource/Lane_Smith_(illustrator) http://dbpedia.org/resource/Lane_Smith_(Illustrator)
+2,25,P. Bacon,http://dbpedia.org/resource/Francis_Bacon_(artist),http://dbpedia.org/resource/Bmcpher:example/Paul_Bacon_(designer) http://dbpedia.org/resource/Paul_Bacon_(designer)
+2,26,J. Lawrence,http://dbpedia.org/resource/Jack_Lawrence,http://dbpedia.org/resource/John_Lawrence_(illustrator)
+2,28,J. Bell,http://dbpedia.org/resource/John_Stewart_Bell,http://dbpedia.org/resource/Julie_Bell
+2,29,C. Moore,http://dbpedia.org/resource/Colleen_Moore,http://dbpedia.org/resource/Chris_Moore_(illustrator)
+2,37,S. Hickman,http://dbpedia.org/resource/Sara_Hickman,http://dbpedia.org/resource/Stephen_Hickman
+2,38,S. Hickman,http://dbpedia.org/resource/Sara_Hickman,http://dbpedia.org/resource/Stephen_Hickman
+2,40,P. Bacon,http://dbpedia.org/resource/Francis_Bacon_(artist),http://dbpedia.org/resource/Bmcpher:example/Paul_Bacon_(designer) http://dbpedia.org/resource/Paul_Bacon_(designer)
+2,49,J. Wurts,http://dbpedia.org/resource/John_Wurts,http://dbpedia.org/resource/Janny_Wurts
+2,51,P. Bacon,http://dbpedia.org/resource/Francis_Bacon_(artist),http://dbpedia.org/resource/Bmcpher:example/Paul_Bacon_(designer) http://dbpedia.org/resource/Paul_Bacon_(designer)
+2,52,B. Lewin,http://dbpedia.org/resource/Albert_Lewin,http://dbpedia.org/resource/Betsy_Lewin
+2,55,B. Jensen,http://dbpedia.org/resource/Berit_Heggenhougen-Jensen,http://dbpedia.org/resource/Bruce_Jensen
+2,56,P. Bacon,http://dbpedia.org/resource/Francis_Bacon_(artist),http://dbpedia.org/resource/Bmcpher:example/Paul_Bacon_(designer) http://dbpedia.org/resource/Paul_Bacon_(designer)
+2,58,A. Barbosa,http://dbpedia.org/resource/Adoniran_Barbosa,http://dbpedia.org/resource/Arthur_Barbosa
+2,59,A. Barbosa,http://dbpedia.org/resource/Adoniran_Barbosa,http://dbpedia.org/resource/Arthur_Barbosa
+2,60,A. Barbosa,http://dbpedia.org/resource/Adoniran_Barbosa,http://dbpedia.org/resource/Arthur_Barbosa
+2,61,A. Barbosa,http://dbpedia.org/resource/Adoniran_Barbosa,http://dbpedia.org/resource/Arthur_Barbosa
+2,62,R. Steen,http://dbpedia.org/resource/Reiulf_Steen,http://dbpedia.org/resource/Rob_Steen
+2,65,R. M. Powers,http://dbpedia.org/resource/Ridgley_C._Powers,http://dbpedia.org/resource/R._M._Powers http://dbpedia.org/resource/Dick_Powers http://dbpedia.org/resource/Richard_Powers_(illustrator) http://dbpedia.org/resource/R.M._Powers http://dbpedia.org/resource/Richard_M._Powers
+2,68,L. Wood,http://dbpedia.org/resource/Leonard_Wood,http://dbpedia.org/resource/Leslie_Wood_(illustrator)
+2,70,J. Berkey,http://dbpedia.org/resource/Jackson_Berkey,http://dbpedia.org/resource/John_Berkey
+2,72,P. Bacon,http://dbpedia.org/resource/Francis_Bacon_(artist),http://dbpedia.org/resource/Bmcpher:example/Paul_Bacon_(designer) http://dbpedia.org/resource/Paul_Bacon_(designer)
+2,73,A. Austin,http://dbpedia.org/resource/Alana_Austin,http://dbpedia.org/resource/Alicia_Austin
+2,79,L. Edwards,http://dbpedia.org/resource/Leroy_Edwards,http://dbpedia.org/resource/Les_Edwards
+2,81,L. Edwards,http://dbpedia.org/resource/Leroy_Edwards,http://dbpedia.org/resource/Les_Edwards
+2,83,L. Edwards,http://dbpedia.org/resource/Leroy_Edwards,http://dbpedia.org/resource/Les_Edwards
+2,84,P. Bacon,http://dbpedia.org/resource/Francis_Bacon_(artist),http://dbpedia.org/resource/Bmcpher:example/Paul_Bacon_(designer) http://dbpedia.org/resource/Paul_Bacon_(designer)
+2,85,L. Edwards,http://dbpedia.org/resource/Leroy_Edwards,http://dbpedia.org/resource/Les_Edwards
+2,86,L. Edwards,http://dbpedia.org/resource/Leroy_Edwards,http://dbpedia.org/resource/Les_Edwards

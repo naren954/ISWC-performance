@@ -1,0 +1,5 @@
+F1: 0.50000,Precision: 0.50000,Recall: 0.50000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,7,Trujillanos FC,http://dbpedia.org/resource/Trujillanos_F.C.,http://dbpedia.org/resource/Trujillanos_Futbol_Club http://dbpedia.org/resource/Trujillanos_Fútbol_Club http://dbpedia.org/resource/Trujillanos_FC
+0,9,Portuguesa FC,http://dbpedia.org/resource/Portuguesa_F.C.,http://dbpedia.org/resource/Portuguesa_Futbol_Club http://dbpedia.org/resource/Portuguesa_Fútbol_Club http://dbpedia.org/resource/Portuguesa_FC
+0,10,AtlÃ©tico El VigÃ­a,http://dbpedia.org/resource/Atlético_Nacional,http://dbpedia.org/resource/Atlético_El_Vigía

@@ -1,0 +1,6 @@
+F1: 0.83333,Precision: 0.83333,Recall: 0.83333,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,Dracula,http://dbpedia.org/resource/Dracula,http://dbpedia.org/resource/Dracula_(1977_play)
+0,3,Detroit,http://dbpedia.org/resource/The_Detroit_News,http://dbpedia.org/resource/Detroit_(play)
+0,11,Class Enemy,http://dbpedia.org/resource/Enemy_of_the_people,http://dbpedia.org/resource/Class_Enemy
+0,19,Bug,http://dbpedia.org/resource/Bug_(Breaking_Bad),http://dbpedia.org/resource/Bug_(play)

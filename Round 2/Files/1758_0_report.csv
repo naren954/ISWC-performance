@@ -1,0 +1,7 @@
+"F1: 0.70588","Precision: 0.70588","Recall: 0.70588"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","2","The Young Runaways","http://dbpedia.org/resource/The_Young_Runaways_(1968_film)","http://dbpedia.org/resource/The_Young_Runaways_(1978_film)"
+"0","3","The Sopranos","http://dbpedia.org/resource/Funhouse_(The_Sopranos)","http://dbpedia.org/resource/Pilot_(The_Sopranos_episode) http://dbpedia.org/resource/The_Sopranos_(Pilot_episode) http://dbpedia.org/resource/The_Sopranos_(episode) http://dbpedia.org/resource/The_Sopranos_(pilot_episode) http://dbpedia.org/resource/Pilot_(The_Sopranos) http://dbpedia.org/resource/The_Sopranos_(Pilot)"
+"0","8","Pilot","http://dbpedia.org/resource/Pilot_(Smallville)","http://dbpedia.org/resource/Pilot_(Agents_of_S.H.I.E.L.D.) http://dbpedia.org/resource/Pilot_(Agents_of_SHIELD)"
+"0","14","Fly","http://dbpedia.org/resource/Fly_(Dixie_Chicks_album)","http://dbpedia.org/resource/Fly_(Breaking_Bad)"
+"0","16","Destiny","http://dbpedia.org/resource/Destiny_(Angel)","http://dbpedia.org/resource/Destiny_(Queen_of_Swords) http://dbpedia.org/resource/Destiny_(Queen_of_Swords_episode)"

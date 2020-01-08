@@ -1,0 +1,9 @@
+F1: 0.41667,Precision: 0.41667,Recall: 0.41667,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Montreal,http://dbpedia.org/resource/Montreal,http://sws.geonames.org/8674139/
+0,2,Sherbrooke,http://dbpedia.org/resource/Sherbrooke,http://sws.geonames.org/6146143/
+0,3,Montreal,http://dbpedia.org/resource/Montreal,http://sws.geonames.org/6077243/
+0,4,Seattle,http://dbpedia.org/resource/Seattle,http://sws.geonames.org/5809844/
+0,5,"Washington, D.C.","http://dbpedia.org/resource/Washington,_D.C.",http://sws.geonames.org/4140963/
+0,6,"Washington, D.C.","http://dbpedia.org/resource/Washington,_D.C.",http://sws.geonames.org/4138106/
+0,7,"Miri, Malaysia","http://dbpedia.org/resource/Miri,_Malaysia",http://sws.geonames.org/1738050/

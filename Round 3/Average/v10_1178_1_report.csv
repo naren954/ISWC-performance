@@ -1,0 +1,4 @@
+F1: 0.71429,Precision: 0.71429,Recall: 0.71429,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,Cervical spinal nerve 8,http://dbpedia.org/resource/Spinal_nerve,http://dbpedia.org/resource/Nervus_spinalis_C8 http://dbpedia.org/resource/C8_spinal_nerve http://dbpedia.org/resource/C8_nerve http://dbpedia.org/resource/Cervical_spinal_nerve_8
+1,7,Thoracic nerves,http://dbpedia.org/resource/Spinal_nerve,http://dbpedia.org/resource/Thoracic_nerves

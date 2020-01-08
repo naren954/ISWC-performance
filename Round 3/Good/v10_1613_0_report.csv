@@ -1,0 +1,4 @@
+F1: 0.93548,Precision: 0.93548,Recall: 0.93548,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,13,O. Wiklund,http://dbpedia.org/resource/Adolf_Wiklund_(biathlete),http://dbpedia.org/resource/Olle_Wiklund
+0,25,B. Johnson,http://dbpedia.org/resource/Lyndon_B._Johnson,http://dbpedia.org/resource/Bill_Johnson_(skier)

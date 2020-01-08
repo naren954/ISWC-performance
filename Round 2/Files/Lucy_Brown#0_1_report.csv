@@ -1,0 +1,7 @@
+"F1: 0.64286","Precision: 0.64286","Recall: 0.64286"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","2","Canterbury Tales","http://dbpedia.org/resource/The_Canterbury_Tales_(film)","http://dbpedia.org/resource/Canterbury_Tales_(TV_series) http://dbpedia.org/resource/The_Canterbury_Tales_(TV_series) http://dbpedia.org/resource/The_Canterbury_Tales_(TV_Series)"
+"1","3","Piccadilly Jim","http://dbpedia.org/resource/Piccadilly_Jim_(1936_film)","http://dbpedia.org/resource/Piccadilly_Jim"
+"1","10","Sharpe's Challenge","http://dbpedia.org/resource/Sharpe_(TV_series)","http://dbpedia.org/resource/Sharpe's_Challenge"
+"1","11","Primeval","http://dbpedia.org/resource/Primeval_(film)","http://dbpedia.org/resource/Primeval http://dbpedia.org/resource/Time_anomaly http://dbpedia.org/resource/Primeverse http://dbpedia.org/resource/Primeval. http://dbpedia.org/resource/Anomaly_(Primeverse) http://dbpedia.org/resource/Primeval_(series) http://dbpedia.org/resource/Primaeval_(TV_series) http://dbpedia.org/resource/Through_the_Anomaly http://dbpedia.org/resource/Primeval_tv_series http://dbpedia.org/resource/Primeval_(TV_series) http://dbpedia.org/resource/Universe_of_Primeval"
+"1","18","The Devilâ\u0080\u0099s Harvest","nan","http://dbpedia.org/resource/The_Devil’s_Harvest"

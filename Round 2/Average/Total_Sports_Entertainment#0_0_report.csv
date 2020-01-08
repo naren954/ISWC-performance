@@ -1,0 +1,7 @@
+F1: 0.54545,Precision: 0.54545,Recall: 0.54545,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,BB&T Ballpark (Charlotte)[11][12],"http://dbpedia.org/resource/BB&T_Ballpark_(Winston-Salem,_North_Carolina)",http://dbpedia.org/resource/BB&T_Ballpark_(Charlotte)
+0,3,Convocation Center[14],http://dbpedia.org/resource/Ted_Constant_Convocation_Center,http://dbpedia.org/resource/Eastern_Michigan_University_Convocation_Center http://dbpedia.org/resource/Convocation_Center_(Eastern_Michigan_University) http://dbpedia.org/resource/Ypsilanti_Convocation_Center http://dbpedia.org/resource/EMU_Convocation_Center
+0,4,FirstEnergy Stadium[15],http://dbpedia.org/resource/FNB_Stadium,"http://dbpedia.org/resource/FirstEnergy_Stadium_(Reading,_Pennsylvania)"
+0,14,Smokies Park,http://dbpedia.org/resource/Smokies_Stadium,http://dbpedia.org/resource/Smokies_Park
+0,15,NYSEG Stadium,http://dbpedia.org/resource/Yankee_Stadium,http://dbpedia.org/resource/NYSEG_Stadium

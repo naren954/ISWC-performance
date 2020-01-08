@@ -1,0 +1,78 @@
+F1: 0.48649,Precision: 0.48649,Recall: 0.48649,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,1,S. Johnson,http://dbpedia.org/resource/Lyndon_B._Johnson,http://dbpedia.org/resource/Lora_Johnson http://dbpedia.org/resource/Shane_Johnson_(author)
+2,2,A. Y. Gilbert,http://dbpedia.org/resource/Margaret_Thatcher,http://dbpedia.org/resource/Yvonne_Gilbert http://dbpedia.org/resource/Anne_Yvonne_Gilbert http://dbpedia.org/resource/Anne_Gilbert
+2,4,Seth,http://dbpedia.org/resource/Seth_MacFarlane,http://dbpedia.org/resource/Vernacular_Drawings http://dbpedia.org/resource/Gregory_Gallant http://dbpedia.org/resource/Wimbledon_Green http://dbpedia.org/resource/Seth_(cartoonist)
+2,5,Seth,http://dbpedia.org/resource/Seth_MacFarlane,http://dbpedia.org/resource/Vernacular_Drawings http://dbpedia.org/resource/Gregory_Gallant http://dbpedia.org/resource/Wimbledon_Green http://dbpedia.org/resource/Seth_(cartoonist)
+2,7,Seth,http://dbpedia.org/resource/Seth_MacFarlane,http://dbpedia.org/resource/Vernacular_Drawings http://dbpedia.org/resource/Gregory_Gallant http://dbpedia.org/resource/Wimbledon_Green http://dbpedia.org/resource/Seth_(cartoonist)
+2,8,J. Sibbick,http://dbpedia.org/resource/J._J._Philbin,http://dbpedia.org/resource/John_Sibbick
+2,10,J. Easley,http://dbpedia.org/resource/Stephen_Easley,http://dbpedia.org/resource/Jeff_Easley
+2,12,R. Bateman,http://dbpedia.org/resource/James_Bateman,http://dbpedia.org/resource/Robert_Bateman_(painter) http://dbpedia.org/resource/Robert_Bateman_(naturalist) http://dbpedia.org/resource/Robert_Bateman_(Canadian)
+2,13,C. F. Cochran,http://dbpedia.org/resource/Charles_F._Cochran,http://dbpedia.org/resource/Connor_Freff_Cochran
+2,16,B. Lent,http://dbpedia.org/resource/Berkeley_Lent,http://dbpedia.org/resource/Blair_Lent
+2,17,"Thomas C. Lea, III",http://dbpedia.org/resource/Louis_XII_of_France,"http://dbpedia.org/resource/Thomas_C._Lea_III http://dbpedia.org/resource/Thomas_C._Lea,_III"
+2,19,F. Modell,http://dbpedia.org/resource/William_Modell,http://dbpedia.org/resource/Frank_Modell
+2,23,S. E. Fabian,http://dbpedia.org/resource/Lara_Fabian,"http://dbpedia.org/resource/Stephen_Emil_Fabian,_Jr. http://dbpedia.org/resource/Stephen_Fabian http://dbpedia.org/resource/Stephen_E._Fabian"
+2,25,M. Whelan,http://dbpedia.org/resource/Jim_Whelan,http://dbpedia.org/resource/Michael_Whelan
+2,28,C. Tolkien,http://dbpedia.org/resource/J._R._R._Tolkien,http://dbpedia.org/resource/C._J._R._Tolkien http://dbpedia.org/resource/Christopher_Tolkein http://dbpedia.org/resource/Christopher_John_Reuel_Tolkien http://dbpedia.org/resource/Christopher_Tolkien http://dbpedia.org/resource/CJR_Tolkien http://dbpedia.org/resource/C.J.R._Tolkien
+2,31,L. Woods,http://dbpedia.org/resource/Leona_Woods,http://dbpedia.org/resource/Lebbeus_Woods http://dbpedia.org/resource/Lebbeus_woods
+2,35,Michelangelo,http://dbpedia.org/resource/Michelangelo_Antonioni,"http://dbpedia.org/resource/Michelangelo_Buonarroti http://dbpedia.org/resource/Michellangelo http://dbpedia.org/resource/Michelangelo_Buonarrotti http://dbpedia.org/resource/Michelangelo_Buonaroti http://dbpedia.org/resource/M._Angelo http://dbpedia.org/resource/Michelangelo_di_Lodovico_Buonarroti_Simoni http://dbpedia.org/resource/Michelangelo_di_Lodovico_Buonarroti_Simon http://dbpedia.org/resource/Michaelangelo http://dbpedia.org/resource/Buonarroti,_Michelangelo http://dbpedia.org/resource/Buonarroti_Michelangelo http://dbpedia.org/resource/Micheangelo http://dbpedia.org/resource/Michelangelo http://dbpedia.org/resource/Michelange http://dbpedia.org/resource/Michelangelo_Bounnaroti http://dbpedia.org/resource/Michael_Angelo_Buonarroti http://dbpedia.org/resource/Michaleangelo http://dbpedia.org/resource/Buonaroti_Michelangelo http://dbpedia.org/resource/Michel-Angelo_Buonarroti http://dbpedia.org/resource/Michaelangalo http://dbpedia.org/resource/Michelangelo_Simoni http://dbpedia.org/resource/Michelangello http://dbpedia.org/resource/Michaelangelo_Buonarroti http://dbpedia.org/resource/Michelangelo's http://dbpedia.org/resource/Michelangelo_di_Lodovico http://dbpedia.org/resource/Michelan http://dbpedia.org/resource/Michael_Angelo_Buonarotti http://dbpedia.org/resource/Michelangelo_Buonarotti http://dbpedia.org/resource/Michalangelo http://dbpedia.org/resource/Michel_angelo http://dbpedia.org/resource/Michelangelesque http://dbpedia.org/resource/Michelangelo_Di_Lodovico_Buonarroti_Simoni"
+2,37,E. B. Lewis,http://dbpedia.org/resource/Edward_B._Lewis,http://dbpedia.org/resource/E._B._Lewis_(illustrator)
+2,39,M. Gerstein,http://dbpedia.org/resource/Kurt_Gerstein,http://dbpedia.org/resource/Mordicai_Gerstein
+2,41,J. Bauman,http://dbpedia.org/resource/Zygmunt_Bauman,http://dbpedia.org/resource/Jill_Bauman
+2,44,S. E. Fabian,http://dbpedia.org/resource/Lara_Fabian,"http://dbpedia.org/resource/Stephen_Emil_Fabian,_Jr. http://dbpedia.org/resource/Stephen_Fabian http://dbpedia.org/resource/Stephen_E._Fabian"
+2,46,J. Smith,http://dbpedia.org/resource/James_Edward_Smith,http://dbpedia.org/resource/Jeff_Smith_(comics) http://dbpedia.org/resource/Cartoon_Books http://dbpedia.org/resource/Jeff_Smith_(cartoonist)
+2,49,Alice and Martin Provensen,http://dbpedia.org/resource/Alice_Martin,http://dbpedia.org/resource/Alice_and_martin_provensen http://dbpedia.org/resource/Martin_Provensen http://dbpedia.org/resource/Alice_Provensen http://dbpedia.org/resource/Alice_and_Martin_Provensen
+2,51,T. Canty,http://dbpedia.org/resource/Kevin_Canty_(author),http://dbpedia.org/resource/Thomas_Canty http://dbpedia.org/resource/Thomas_Canty_(illustrator)
+2,53,B. Lent,http://dbpedia.org/resource/Berkeley_Lent,http://dbpedia.org/resource/Blair_Lent
+2,57,M. Kalman,http://dbpedia.org/resource/Emmerich_Kálmán,http://dbpedia.org/resource/Maira_Kalman
+2,59,J. V. Hollander,http://dbpedia.org/resource/John_Vincent_Holland,http://dbpedia.org/resource/Jason_Van_Hollander http://dbpedia.org/resource/Van_Hollander
+2,61,N. Dameron,http://dbpedia.org/resource/Tadd_Dameron,http://dbpedia.org/resource/Ned_Dameron
+2,62,Alice and Martin Provensen,http://dbpedia.org/resource/Alice_Martin,http://dbpedia.org/resource/Alice_and_martin_provensen http://dbpedia.org/resource/Martin_Provensen http://dbpedia.org/resource/Alice_Provensen http://dbpedia.org/resource/Alice_and_Martin_Provensen
+2,64,A. Lee,http://dbpedia.org/resource/Stan_Lee,http://dbpedia.org/resource/Alan_Lee_(illustrator)
+2,66,"Thomas C. Lea, III",http://dbpedia.org/resource/Louis_XII_of_France,"http://dbpedia.org/resource/Thomas_C._Lea_III http://dbpedia.org/resource/Thomas_C._Lea,_III"
+2,68,A. Brooks,http://dbpedia.org/resource/Gwendolyn_Brooks,http://dbpedia.org/resource/Allan_Brooks http://dbpedia.org/resource/Allan_Cyril_Brooks
+2,72,C. Crawford,http://dbpedia.org/resource/Cindy_Crawford,http://dbpedia.org/resource/Chris_Crawford_(game_designer) http://dbpedia.org/resource/People_game http://dbpedia.org/resource/People_games http://dbpedia.org/resource/Erasmatazz
+2,73,M. E. Rogers,http://dbpedia.org/resource/Ginger_Rogers,http://dbpedia.org/resource/Mark_E._Rogers
+2,75,M. Whelan,http://dbpedia.org/resource/Jim_Whelan,http://dbpedia.org/resource/Michael_Whelan
+2,76,T. CoCorvs,http://dbpedia.org/resource/Conrado_Co,http://dbpedia.org/resource/Constantinos_Coconis http://dbpedia.org/resource/Constantinos_(Ted)_Coconis http://dbpedia.org/resource/Ted_CoConis http://dbpedia.org/resource/Ted_CoCorvs
+2,77,R. Sternbach,http://dbpedia.org/resource/Leo_Sternbach,http://dbpedia.org/resource/Rick_Sternbach
+2,78,R. Sternbach,http://dbpedia.org/resource/Leo_Sternbach,http://dbpedia.org/resource/Rick_Sternbach
+2,79,A. Knowles,http://dbpedia.org/resource/Alison_Knowles,http://dbpedia.org/resource/Andy_Knowles http://dbpedia.org/resource/Andrew_John_Parker_Knowles
+2,80,S. Gammell,http://dbpedia.org/resource/James_Gammell,http://dbpedia.org/resource/Stephen_Gammell
+2,82,M. Azarian,http://dbpedia.org/resource/Albert_Azaryan,http://dbpedia.org/resource/Mary_Azarian
+2,83,D. Díaz,http://dbpedia.org/resource/Diomedes_Díaz,http://dbpedia.org/resource/David_Díaz_(illustrator) http://dbpedia.org/resource/David_Diaz_(illustrator)
+2,84,A. Davidson,http://fr.dbpedia.org/resource/Apollon_Davidson,"http://dbpedia.org/resource/Andrew_Davidson_(illustrator) http://dbpedia.org/resource/Andrew_Davidson,_Illustrator"
+2,85,Seth,http://dbpedia.org/resource/Seth_MacFarlane,http://dbpedia.org/resource/Vernacular_Drawings http://dbpedia.org/resource/Gregory_Gallant http://dbpedia.org/resource/Wimbledon_Green http://dbpedia.org/resource/Seth_(cartoonist)
+2,86,A. Austin,http://dbpedia.org/resource/Stephen_F._Austin,http://dbpedia.org/resource/Alicia_Austin
+2,88,L. Ward,http://dbpedia.org/resource/Lynd_Ward,http://dbpedia.org/resource/Lalla_Ward http://dbpedia.org/resource/Lala_Ward
+2,91,J. Lewin,http://dbpedia.org/resource/Kurt_Lewin,http://dbpedia.org/resource/John_William_Lewin http://dbpedia.org/resource/John_Lewin
+2,93,H. Rey,http://dbpedia.org/resource/Edward_VII,"http://dbpedia.org/resource/Hans_Augusto_Rey http://dbpedia.org/resource/H.A._Rey http://dbpedia.org/resource/HA_Rey http://dbpedia.org/resource/Hans_Augusto_""H.A.""_Rey http://dbpedia.org/resource/Hans_Augusto_Reyersbach http://dbpedia.org/resource/H._A._Rey http://dbpedia.org/resource/Hans_Augusto_""H._A.""_Rey http://dbpedia.org/resource/H_A_Rey http://dbpedia.org/resource/Hans_A._Rey"
+2,94,A. Y. Gilbert,http://dbpedia.org/resource/Margaret_Thatcher,http://dbpedia.org/resource/Yvonne_Gilbert http://dbpedia.org/resource/Anne_Yvonne_Gilbert http://dbpedia.org/resource/Anne_Gilbert
+2,97,J. Linsner,http://fr.dbpedia.org/resource/Joseph_Michael_Linsner,http://dbpedia.org/resource/Linsner.com http://dbpedia.org/resource/Sinful_Suzi http://dbpedia.org/resource/Linsner http://dbpedia.org/resource/Joe_Linsner http://dbpedia.org/resource/Joseph_Linsner http://dbpedia.org/resource/Joseph_Michael_Linsner
+2,99,S. E. Fabian,http://dbpedia.org/resource/Lara_Fabian,"http://dbpedia.org/resource/Stephen_Emil_Fabian,_Jr. http://dbpedia.org/resource/Stephen_Fabian http://dbpedia.org/resource/Stephen_E._Fabian"
+2,102,L. Pichon,http://dbpedia.org/resource/Stephen_Pichon,http://dbpedia.org/resource/Tom_Gates http://dbpedia.org/resource/Liz_Pichon
+2,103,J. Marshall,http://dbpedia.org/resource/John_Marshall,http://dbpedia.org/resource/James_Marshall_(author)
+2,106,M. Langevin,http://dbpedia.org/resource/Paul_Langevin,http://dbpedia.org/resource/Michel_Langevin
+2,109,L. Sharp,http://dbpedia.org/resource/Gene_Sharp,http://dbpedia.org/resource/Liam_McCormack-Sharp http://dbpedia.org/resource/Liam_Sharp
+2,110,E. Young,http://dbpedia.org/resource/Edward_Young,http://dbpedia.org/resource/Ed_Young_(illustrator)
+2,114,L. Smith,http://dbpedia.org/resource/Linda_Smith_(comedian),http://dbpedia.org/resource/Lane_Smith_(illustrator) http://dbpedia.org/resource/Lane_Smith_(Illustrator)
+2,115,S. E. Fabian,http://dbpedia.org/resource/Lara_Fabian,"http://dbpedia.org/resource/Stephen_Emil_Fabian,_Jr. http://dbpedia.org/resource/Stephen_Fabian http://dbpedia.org/resource/Stephen_E._Fabian"
+2,116,Q. Chan,http://dbpedia.org/resource/Jackie_Chan,http://dbpedia.org/resource/Queenie_Chan
+2,117,S. E. Fabian,http://dbpedia.org/resource/Lara_Fabian,"http://dbpedia.org/resource/Stephen_Emil_Fabian,_Jr. http://dbpedia.org/resource/Stephen_Fabian http://dbpedia.org/resource/Stephen_E._Fabian"
+2,118,L. Smith,http://dbpedia.org/resource/Linda_Smith_(comedian),http://dbpedia.org/resource/Lane_Smith_(illustrator) http://dbpedia.org/resource/Lane_Smith_(Illustrator)
+2,120,T. Kirk,http://dbpedia.org/resource/Thomas_Kirk_(botanist),http://dbpedia.org/resource/Tim_Kirk
+2,121,P. McDonnell,http://dbpedia.org/resource/Alexander_McDonnell,http://dbpedia.org/resource/Patrick_McDonnell http://dbpedia.org/resource/Patrick_McDonnel
+2,122,A. Say,http://dbpedia.org/resource/Thomas_Say,http://dbpedia.org/resource/Allan_Say http://dbpedia.org/resource/Alan_Say http://dbpedia.org/resource/Seii_James_Allen_Koichi_Moriwaki http://dbpedia.org/resource/Allen_Say http://dbpedia.org/resource/Seii_James_Allen_Kōichi_Moriwaki
+2,124,D. Wisniewski,http://de.dbpedia.org/resource/Roswitha_Wisniewski,http://dbpedia.org/resource/David_Wisniewski
+2,125,V. DiFate,http://dbpedia.org/resource/Károly_Fatér,http://dbpedia.org/resource/Vincent_Di_Fate http://dbpedia.org/resource/Vincent_DiFate
+2,127,R. Steen,http://dbpedia.org/resource/Reiulf_Steen,http://dbpedia.org/resource/Rob_Steen
+2,131,R. P. Glasser,http://dbpedia.org/resource/Philip_Glass,http://dbpedia.org/resource/Robin_Preiss_Glasser
+2,132,S. Hickman,http://dbpedia.org/resource/Sara_Hickman,http://dbpedia.org/resource/Stephen_Hickman
+2,133,S. Mann,http://dbpedia.org/resource/Thomas_Mann,http://dbpedia.org/resource/Sally_Mann
+2,134,A. Bell,http://dbpedia.org/resource/Andrew_Bell_(educationalist),http://dbpedia.org/resource/Andrew_Bell_(engraver) http://dbpedia.org/resource/Andrew_Bell_(printer)
+2,136,A. Austin,http://dbpedia.org/resource/Stephen_F._Austin,http://dbpedia.org/resource/Alicia_Austin
+2,139,J. V. Hollander,http://dbpedia.org/resource/John_Vincent_Holland,http://dbpedia.org/resource/Jason_Van_Hollander http://dbpedia.org/resource/Van_Hollander
+2,140,M. Howarth,http://dbpedia.org/resource/George_Howarth,http://dbpedia.org/resource/Matt_Howarth http://dbpedia.org/resource/Post_Brothers http://dbpedia.org/resource/Those_Annoying_Post_Brothers
+2,145,B. C. III,http://dbpedia.org/resource/Charles_B._McVay_III,http://dbpedia.org/resource/Ben_Claassen_III
+2,147,D. McKean,http://dbpedia.org/resource/Michael_McKean,http://dbpedia.org/resource/Dave_McKean http://dbpedia.org/resource/Dave_Mckean

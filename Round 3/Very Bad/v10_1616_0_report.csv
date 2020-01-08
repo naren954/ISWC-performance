@@ -1,0 +1,12 @@
+F1: 0.09091,Precision: 0.09091,Recall: 0.09091,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,J. Spencer,http://dbpedia.org/resource/Joel_Spencer,http://dbpedia.org/resource/John_Spencer_(snooker_player) http://dbpedia.org/resource/John_Spencer_(snooker)
+0,3,J. Parrott,"http://dbpedia.org/resource/Parrott,_Georgia",http://dbpedia.org/resource/Mr._JP http://dbpedia.org/resource/John_Parrott http://dbpedia.org/resource/John_parrot
+0,4,J. Higgins,http://dbpedia.org/resource/Jodeyne_Higgins,"http://dbpedia.org/resource/The_wizard_of_wishaw http://dbpedia.org/resource/John_Higgins_(snooker_player) http://dbpedia.org/resource/John_Higgins,_MBE http://dbpedia.org/resource/Wizard_of_wishaw http://dbpedia.org/resource/John_Higgins_MBE"
+0,5,J. Johnson,http://dbpedia.org/resource/Lyndon_B._Johnson,http://dbpedia.org/resource/Joe_Johnson_(snooker) http://dbpedia.org/resource/Joe_Johnson_(snooker_player)
+0,6,G. Dott,http://de.dbpedia.org/resource/Marie-Luise_Dött,http://dbpedia.org/resource/The_Pocket_Dynamo http://dbpedia.org/resource/Graeme_Dot http://dbpedia.org/resource/Dott_the_Pott http://dbpedia.org/resource/Pot_the_lot_Dott http://dbpedia.org/resource/Graham_Dott http://dbpedia.org/resource/Dott_the_Pot http://dbpedia.org/resource/Graeme_Dott_(snooker_player) http://dbpedia.org/resource/Graeme_Dott http://dbpedia.org/resource/The_Pocket_Rocket
+0,7,F. Davis,http://dbpedia.org/resource/Jefferson_Davis,http://dbpedia.org/resource/Fred_Davis_(snooker_player) http://dbpedia.org/resource/Fred_Davis_(billiards_player) http://dbpedia.org/resource/Fred_Davis_(Billiards)
+0,8,D. Taylor,http://dbpedia.org/resource/Baron_Isidore_Justin_Séverin_Taylor,http://dbpedia.org/resource/Dennis_Taylor http://dbpedia.org/resource/Denis_Taylor http://dbpedia.org/resource/Den_Taylor
+0,9,C. Thorburn,http://dbpedia.org/resource/William_Thorburn,http://dbpedia.org/resource/Cliff_Thorburn http://dbpedia.org/resource/Rhett_Butler_of_the_green_baize http://dbpedia.org/resource/Champagne_Cliff
+0,10,C. Melling,http://de.dbpedia.org/resource/Max_Mell,http://dbpedia.org/resource/Chris_Melling_(pool_player) http://dbpedia.org/resource/Chris_Melling_(snooker_player)
+0,11,A. Higgins,http://dbpedia.org/resource/Michael_D._Higgins,"http://dbpedia.org/resource/Alex_""Hurricane""_Higgins http://dbpedia.org/resource/Alex_Higgins http://dbpedia.org/resource/Alexander_Gordon_Higgins http://dbpedia.org/resource/Alex_“Hurricane”_Higgins http://dbpedia.org/resource/Alex_'Hurricane'_Higgins http://dbpedia.org/resource/Hurricane_Higgins"

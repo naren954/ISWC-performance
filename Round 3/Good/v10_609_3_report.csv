@@ -1,0 +1,5 @@
+F1: 0.88462,Precision: 0.88462,Recall: 0.88462,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,12,Chicago Sky,http://dbpedia.org/resource/ESPN,http://dbpedia.org/resource/Chicago_Sky
+3,13,Milwaukee Hawks,http://dbpedia.org/resource/Milwaukee,http://dbpedia.org/resource/Tri-Cities_Blackhawks http://dbpedia.org/resource/Atl_Hawks http://dbpedia.org/resource/Buffalo_Bisons_(NBL) http://dbpedia.org/resource/Milwaukee_Hawks http://dbpedia.org/resource/Saint_Louis_Hawks http://dbpedia.org/resource/Tri-Cities_BlackHawks http://dbpedia.org/resource/Atlanta_Hawks http://dbpedia.org/resource/St._Louis_Hawks http://dbpedia.org/resource/Atlanta_Hawks_Basketball_Club
+3,16,Miami Heat,http://dbpedia.org/resource/Miami,http://dbpedia.org/resource/Head_Coaches_of_the_Miami_Heat http://dbpedia.org/resource/Heat_basketball http://dbpedia.org/resource/Miami_Heat http://dbpedia.org/resource/Miami_HEAT http://dbpedia.org/resource/Miami_heat

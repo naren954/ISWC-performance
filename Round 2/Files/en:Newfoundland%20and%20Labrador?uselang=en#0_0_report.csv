@@ -1,0 +1,5 @@
+"F1: 0.66667","Precision: 0.66667","Recall: 0.66667"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","6","Fogo Island","http://dbpedia.org/resource/Fogo,_Cape_Verde","http://dbpedia.org/resource/Fogo_Island,_Newfoundland http://dbpedia.org/resource/Fogo_Island,_NL http://dbpedia.org/resource/Fogo_Island,_Newfoundland_and_Labrador http://dbpedia.org/resource/Fogo_Island_(Newfoundland_and_Labrador)"
+"0","8","Happy Valley â\u0080\u0093 Goose Bay","http://dbpedia.org/resource/Happy_Valley-Goose_Bay","http://dbpedia.org/resource/Happy_Valley_–_Goose_Bay"
+"0","9","Nain","http://dbpedia.org/resource/Nain,_Iran","http://dbpedia.org/resource/Nain,_NL http://dbpedia.org/resource/Nain,_Newfoundland_and_Labrador http://dbpedia.org/resource/Nain,_Nunatsiavut http://dbpedia.org/resource/Nain,_Newfoundland"

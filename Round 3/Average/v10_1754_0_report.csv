@@ -1,0 +1,8 @@
+F1: 0.53846,Precision: 0.53846,Recall: 0.53846,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,2015 Open du Pays d'Aix,http://dbpedia.org/resource/2014_Open_du_Pays_d'Aix,http://dbpedia.org/resource/2015_Open_du_Pays_d'Aix
+0,4,2015 Open de Rennes,http://dbpedia.org/resource/2013_Open_de_Rennes,http://dbpedia.org/resource/2015_Open_de_Rennes
+0,6,2015 Open d'Orléans,http://dbpedia.org/resource/2013_Open_d'Orléans,http://dbpedia.org/resource/2015_Open_d'Orléans
+0,8,2015 Open Harmonie mutuelle,http://dbpedia.org/resource/2014_Open_Harmonie_mutuelle,http://dbpedia.org/resource/2015_Open_Harmonie_mutuelle
+0,9,2015 Open GDF Suez de Cagnes-sur-Mer Alpes-Maritimes,http://dbpedia.org/resource/2014_Open_GDF_Suez_de_Cagnes-sur-Mer_Alpes-Maritimes,http://dbpedia.org/resource/2015_Open_GDF_Suez_de_Cagnes-sur-Mer_Alpes-Maritimes
+0,10,2015 Open GDF Suez Seine-et-Marne,http://dbpedia.org/resource/2013_Open_GDF_Suez_Seine-et-Marne,http://dbpedia.org/resource/2015_Open_GDF_Suez_Seine-et-Marne

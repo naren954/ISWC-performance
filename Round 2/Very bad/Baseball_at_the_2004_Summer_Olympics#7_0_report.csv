@@ -1,0 +1,4 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Netherlands,http://dbpedia.org/resource/William_I_of_the_Netherlands,http://dbpedia.org/resource/Netherlands_at_the_2004_Summer_Olympics
+0,2,Japan,http://dbpedia.org/resource/Japan,http://dbpedia.org/resource/Japan_at_the_2004_Summer_Games http://dbpedia.org/resource/Japan_at_the_2004_Summer_Olympics

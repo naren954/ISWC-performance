@@ -1,0 +1,8 @@
+F1: 0.95420,Precision: 0.95420,Recall: 0.95420,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,42,R. Bonham,http://dbpedia.org/resource/Ron_Bonham,http://dbpedia.org/resource/Reginald_W_Bonham http://dbpedia.org/resource/Reginald_Bonham http://dbpedia.org/resource/Reginald_W._Bonham http://dbpedia.org/resource/Reginald_Walter_Bonham
+0,46,R. Nezhmetdinov,,http://dbpedia.org/resource/Nezhmetdinov http://dbpedia.org/resource/Rashid_Nezhmetdinov
+0,66,N. G. Kopilov,http://dbpedia.org/resource/Nikolai_Kopilov,http://dbpedia.org/resource/Nikolai_Georgiyevich_Kopilov
+0,69,N. Petrović,http://dbpedia.org/resource/Dražen_Petrović,http://dbpedia.org/resource/Nenad_Petrović_(chess_composer) http://dbpedia.org/resource/Nenad_Petrovic_(1907) http://dbpedia.org/resource/Nenad_Petrovic_(chess_problemist) http://dbpedia.org/resource/Nenad_Petrović_(1907) http://dbpedia.org/resource/Nenad_Petrović_(chess_problemist) http://dbpedia.org/resource/Nenad_Petrovic_(chess) http://dbpedia.org/resource/Nenad_Petrović_(chess) http://dbpedia.org/resource/Nenad_Petrovic_(chess_composer)
+0,75,M. Velimirović,http://dbpedia.org/resource/Dragoljub_Velimirović,http://dbpedia.org/resource/Milan_Velimirovic http://dbpedia.org/resource/Milan_Velimirović
+0,112,L. Evans,http://dbpedia.org/resource/Len_Evans_(footballer),http://dbpedia.org/resource/Larry_Evans

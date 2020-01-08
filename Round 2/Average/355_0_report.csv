@@ -1,0 +1,8 @@
+F1: 0.68421,Precision: 0.68421,Recall: 0.68421,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,5,L. Williams,http://dbpedia.org/resource/Leonard_Williams_(American_football),http://dbpedia.org/resource/Lee_Williams_(American_football) http://dbpedia.org/resource/Lee_Williams_(football_player)
+0,6,K. Mack,http://dbpedia.org/resource/Khalil_Mack,http://dbpedia.org/resource/Kevin_Mack
+0,8,J. Davis,http://dbpedia.org/resource/James_Davis_(running_back),http://dbpedia.org/resource/John_Leonard_Davis http://dbpedia.org/resource/John_Davis_(tight_end)
+0,11,G. Jamison,http://dbpedia.org/resource/Tim_Jamison,http://dbpedia.org/resource/George_Jamison
+0,13,D. Howard,http://dbpedia.org/resource/David_Howard_(defensive_tackle),http://dbpedia.org/resource/David_Howard_(linebacker)
+0,14,D. Wilson,http://dbpedia.org/resource/Damien_Wilson,http://dbpedia.org/resource/Dave_Wilson_(American_football) http://dbpedia.org/resource/Dave_Wilson_(quarterback) http://dbpedia.org/resource/Dave_Wilson_(football_player)

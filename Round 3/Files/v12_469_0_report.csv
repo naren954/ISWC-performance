@@ -1,0 +1,4 @@
+"F1: 0.89474","Precision: 0.89474","Recall: 0.89474"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","17","Transverse facial artery","http://dbpedia.org/resource/Transverse_cervical_artery","http://dbpedia.org/resource/Transverse_facial_artery http://dbpedia.org/resource/Arteria_transversa_faciei http://dbpedia.org/resource/Transverse_artery_of_the_face http://dbpedia.org/resource/Transverse_facial_arteries"
+"0","18","Transverse cervical nerve","http://dbpedia.org/resource/Transverse_cervical_artery","http://dbpedia.org/resource/Transverse_cervical_nerves http://dbpedia.org/resource/Cervical_cutaneous_nerve http://dbpedia.org/resource/Superficial_cervical_nerve http://dbpedia.org/resource/Transverse_cervical_nerve http://dbpedia.org/resource/Cutaneous_cervical_nerves http://dbpedia.org/resource/Cutaneous_cervical_nerve http://dbpedia.org/resource/Cutaneous_cervical http://dbpedia.org/resource/Superficial_cervical_nerves"

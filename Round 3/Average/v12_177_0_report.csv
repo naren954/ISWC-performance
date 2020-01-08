@@ -1,0 +1,13 @@
+F1: 0.73810,Precision: 0.73810,Recall: 0.73810,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,Éxtasis,http://dbpedia.org/resource/Éxtasis_(film),http://dbpedia.org/resource/Extasis http://dbpedia.org/resource/Éxtasis
+0,3,Étoile,http://dbpedia.org/resource/L'étoile_(opera),http://dbpedia.org/resource/Etoile_(film) http://dbpedia.org/resource/Étoile_(film)
+0,4,Étienne,http://dbpedia.org/resource/Étienne_Daho,http://dbpedia.org/resource/Etienne_(film) http://dbpedia.org/resource/Étienne_(film)
+0,6,Élisa,http://fr.dbpedia.org/resource/Élisa_(chanson),http://dbpedia.org/resource/Elisa_(film) http://dbpedia.org/resource/Élisa_(film)
+0,7,Él,http://dbpedia.org/resource/Él_(visual_novel),http://dbpedia.org/resource/Él_(film) http://dbpedia.org/resource/El_(film) http://dbpedia.org/resource/This_Strange_Passion
+0,15,Ángel,http://dbpedia.org/resource/Angel_(1999_TV_series),http://dbpedia.org/resource/Angel_(2007_Puerto_Rican_film) http://dbpedia.org/resource/Ángel_(film)
+0,25,¿Dónde estás amor de mi vida que no te puedo encontrar?,"http://dbpedia.org/resource/Where_Are_You_My_Love,_That_I_Cannot_Find_You?",http://dbpedia.org/resource/¿Dónde_estás_amor_de_mi_vida_que_no_te_puedo_encontrar?
+0,29,Złota Maska,http://dbpedia.org/resource/Złota_Maska,http://dbpedia.org/resource/Złota_Maska_(film) http://dbpedia.org/resource/Zlota_Maska_(film)
+0,38,Zulu,http://dbpedia.org/resource/Shaka_Zulu_(TV_series),http://dbpedia.org/resource/Cape_Town_Cops http://dbpedia.org/resource/Zulu_(2013_film)
+0,39,Zulu,http://dbpedia.org/resource/Shaka_Zulu_(TV_series),http://dbpedia.org/resource/Zulu_(1964_film) http://dbpedia.org/resource/Zulu_(1963_film) http://dbpedia.org/resource/Historical_inaccuracies_in_the_film_Zulu http://dbpedia.org/resource/Historical_innaccuracies_in_the_film_Zulu
+0,42,Zotz!,,http://dbpedia.org/resource/Zotz!_(novel) http://dbpedia.org/resource/Zotz!

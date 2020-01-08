@@ -1,0 +1,5 @@
+"F1: 0.75000","Precision: 0.75000","Recall: 0.75000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"2","2","Purdue Boilermakers women's basketball","http://dbpedia.org/resource/Purdue_Boilermakers_men's_basketball","http://dbpedia.org/resource/Purdue_Boilermakers_women's_basketball http://dbpedia.org/resource/Purdue_Boilermakers_Women's_Basketball"
+"2","4","Oklahoma Sooners women's basketball","http://dbpedia.org/resource/Oklahoma_Sooners_men's_basketball","http://dbpedia.org/resource/Oklahoma_Sooners_women's_basketball"
+"2","6","Emmanuel College","http://dbpedia.org/resource/University_of_Queensland","http://dbpedia.org/resource/Emmanuel_College_Boston http://dbpedia.org/resource/Emmanuel_College_(Massachusetts) http://dbpedia.org/resource/Emmanuel_College,_Boston http://dbpedia.org/resource/Emmanuel_Saints http://dbpedia.org/resource/Emmanuel_(Mass.)_Saints http://dbpedia.org/resource/Emmanuel_(MA)_Saints http://dbpedia.org/resource/Emmanuel_(Massachusetts)_Saints http://dbpedia.org/resource/Emmanuel_College_(Boston)"

@@ -1,0 +1,8 @@
+"F1: 0.00000","Precision: 0.00000","Recall: 0.00000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"2","1","Best Film","http://dbpedia.org/resource/Film","http://dbpedia.org/resource/Metro_Manila_Film_Festival_Award_for_Best_Picture"
+"2","2","Best Director","http://dbpedia.org/resource/Tony_Award_for_Best_Direction_of_a_Musical","http://dbpedia.org/resource/Metro_Manila_Film_Festival_Award_for_Best_Director"
+"2","3","Best Actor","http://dbpedia.org/resource/British_Academy_Television_Award_for_Best_Actor","http://dbpedia.org/resource/Metro_Manila_Film_Festival_Award_for_Best_Actor"
+"2","4","Best Screenplay","http://dbpedia.org/resource/BAFTA_Award_for_Best_Adapted_Screenplay","http://dbpedia.org/resource/Metro_Manila_Film_Festival_Award_for_Best_Screenplay"
+"2","5","Best Music","http://dbpedia.org/resource/Music","http://dbpedia.org/resource/Metro_Manila_Film_Festival_Award_for_Best_Musical_Score"
+"2","6","Best Art Direction","http://dbpedia.org/resource/MTV","http://dbpedia.org/resource/Metro_Manila_Film_Festival_Award_for_Best_Production_Design http://dbpedia.org/resource/Metro_Manila_Film_Festival_Award_for_Best_Art_Direction"

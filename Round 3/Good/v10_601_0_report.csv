@@ -1,0 +1,38 @@
+F1: 0.77215,Precision: 0.77215,Recall: 0.77215,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,S. Young,http://dbpedia.org/resource/Sam_Young_(basketball),http://dbpedia.org/resource/Sophia_Young-Malcolm http://dbpedia.org/resource/Sophia_Ashley_Young http://dbpedia.org/resource/Sophia_Young
+0,6,S. Jones,http://dbpedia.org/resource/Scott_Jones_(Puerto_Rican_footballer),http://dbpedia.org/resource/Solomon_Jones_(basketball) http://dbpedia.org/resource/Solomon_Jones_(basketball_player)
+0,9,S. Williams,http://dbpedia.org/resource/Sam_Williams_(linebacker),http://dbpedia.org/resource/Sly_Williams
+0,11,S. Diggins,http://dbpedia.org/resource/Skylar_Diggins-Smith,http://dbpedia.org/resource/Skylar_Diggins http://dbpedia.org/resource/Skyler_Diggins
+0,15,S. Brown,http://dbpedia.org/resource/Sean_Brown,http://dbpedia.org/resource/Skip_Brown
+0,16,S. Swift,http://dbpedia.org/resource/Stromile_Swift,http://dbpedia.org/resource/Skeeter_Swift http://dbpedia.org/resource/Harley_Swift
+0,17,S. Labissière,,http://dbpedia.org/resource/Skal_Labissière http://dbpedia.org/resource/Skal_Labissiere
+0,19,S. Hill,http://dbpedia.org/resource/Solomon_Hill_(basketball),http://dbpedia.org/resource/Simmie_Hill
+0,20,S. Green,http://dbpedia.org/resource/Steve_Green_(basketball),http://dbpedia.org/resource/Si_Green http://dbpedia.org/resource/Sihugo_Green
+0,25,S. Green,http://dbpedia.org/resource/Steve_Green_(basketball),http://dbpedia.org/resource/Sidney_Green_(basketball)
+0,36,S. Johnson,http://dbpedia.org/resource/Stanley_Johnson_(basketball),http://dbpedia.org/resource/Shenise_Johnson
+0,38,S. Jones,http://dbpedia.org/resource/Scott_Jones_(Puerto_Rican_footballer),http://dbpedia.org/resource/Shelton_Jones
+0,40,S. Williams,http://dbpedia.org/resource/Sam_Williams_(linebacker),http://dbpedia.org/resource/Shelden_DeMar_Williams http://dbpedia.org/resource/Shelden_Williams http://dbpedia.org/resource/Sheldon_Williams
+0,42,S. Murphy,http://dbpedia.org/resource/Stretch_Murphy,http://dbpedia.org/resource/Eshaya_Murphy http://dbpedia.org/resource/Shay_Murphy
+0,45,S. Williams,http://dbpedia.org/resource/Sam_Williams_(linebacker),http://dbpedia.org/resource/Shawne_Williams http://dbpedia.org/resource/Shawne_Brian_Williams
+0,54,S. Johnson,http://dbpedia.org/resource/Stanley_Johnson_(basketball),http://dbpedia.org/resource/Shannon_Johnson
+0,55,S. Brown,http://dbpedia.org/resource/Sean_Brown,"http://dbpedia.org/resource/Shannon_Brown http://dbpedia.org/resource/Brown,_Shannon http://dbpedia.org/resource/Shannon_Brown_(basketball)"
+0,60,S. Anderson,http://dbpedia.org/resource/Shawn_Anderson,http://dbpedia.org/resource/Shandon_Rodriguez_Anderson http://dbpedia.org/resource/Shandon_Anderson
+0,62,S. Williams,http://dbpedia.org/resource/Sam_Williams_(linebacker),http://dbpedia.org/resource/Shammond_Williams
+0,69,S. Christon,http://dbpedia.org/resource/Shameka_Christon,http://dbpedia.org/resource/Semaj_Christon
+0,73,S. Williams,http://dbpedia.org/resource/Sam_Williams_(linebacker),"http://dbpedia.org/resource/Sean_Williams_(New_Jersey_Nets) http://dbpedia.org/resource/Sean_Williams_(NBA) http://dbpedia.org/resource/Sean_Williams_(NBA_player) http://dbpedia.org/resource/Sean_Williams_(basketball) http://dbpedia.org/resource/Sean_Williams_(basketball,_born_1986) http://dbpedia.org/resource/Sean_Williams_(Boston_College)"
+0,80,S. Green,http://dbpedia.org/resource/Steve_Green_(basketball),http://dbpedia.org/resource/Sean_Green_(basketball)
+0,89,S. May,http://dbpedia.org/resource/Sean_May,http://dbpedia.org/resource/Scott_May
+0,109,S. Walker,http://dbpedia.org/resource/Sammy_Walker_(American_football),http://dbpedia.org/resource/Samaki_Ijuma_Walker http://dbpedia.org/resource/Samaki_Walker
+0,112,S. Williams,http://dbpedia.org/resource/Sam_Williams_(linebacker),"http://dbpedia.org/resource/Sam_Williams_(basketball,_born_1959) http://dbpedia.org/resource/Samuel_Keith_Williams"
+0,113,S. Williams,http://dbpedia.org/resource/Sam_Williams_(linebacker),"http://dbpedia.org/resource/Sam_Williams_(basketball,_born_1945)"
+0,117,S. Smith,"http://dbpedia.org/resource/Sam_Smith_(basketball,_born_1955)","http://dbpedia.org/resource/Sam_Smith_(basketball,_born_1944)"
+0,121,S. Mitchell,http://dbpedia.org/resource/Steve_Mitchell_(basketball),"http://dbpedia.org/resource/Samuel_(Sam)_E._Mitchell,_Jr. http://dbpedia.org/resource/Sam_Mitchell_(basketball_coach) http://dbpedia.org/resource/Smitch http://dbpedia.org/resource/Sam_Mitchell_(basketball) http://dbpedia.org/resource/Samuel_E._Mitchell,_Jr."
+0,123,S. Jones,http://dbpedia.org/resource/Scott_Jones_(Puerto_Rican_footballer),http://dbpedia.org/resource/Sam_Jones_(basketball)
+0,126,S. C. Jr.,http://dbpedia.org/resource/George_Wallace,"http://dbpedia.org/resource/Sam_Clancy_Jr. http://dbpedia.org/resource/Sam_Clancy,_Jr. http://dbpedia.org/resource/Sam_Clancy_(basketball)"
+0,138,R. Anderson,http://dbpedia.org/resource/Richard_Anderson_(basketball),"http://dbpedia.org/resource/Ryan_Anderson_(basketball) http://dbpedia.org/resource/Ryan_Anderson_(basketball_player) http://dbpedia.org/resource/Ryan_Anderson_(Nets) http://dbpedia.org/resource/Ryan_Anderson_(basketball,_born_1988)"
+0,144,R. Smith,http://dbpedia.org/resource/J._R._Smith,http://dbpedia.org/resource/Russdiculous http://dbpedia.org/resource/Russ_Smith_(basketball)
+0,146,R. Lee,http://dbpedia.org/resource/Ron_Lee,http://dbpedia.org/resource/Russ_Lee
+0,147,R. Robinson,"http://dbpedia.org/resource/Jackie_Robinson_(basketball,_born_1927)",http://dbpedia.org/resource/Rumeal_Robinson http://dbpedia.org/resource/James_Rumeal_Robinson
+0,149,R. White,http://dbpedia.org/resource/Ryan_White_(basketball),http://dbpedia.org/resource/Rudy_White
+0,158,R. White,http://dbpedia.org/resource/Ryan_White_(basketball),http://dbpedia.org/resource/Royce_White

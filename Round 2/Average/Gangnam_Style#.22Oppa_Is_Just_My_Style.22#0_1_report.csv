@@ -1,0 +1,4 @@
+F1: 0.60000,Precision: 0.60000,Recall: 0.60000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,4,"Jardins du TrocadÃ©ro, Paris",http://de.dbpedia.org/resource/Place_du_Trocadéro-et-du-11-Novembre,http://dbpedia.org/resource/Jardins_du_Trocadéro
+1,5,"Piazza del Popolo, Rome","http://dbpedia.org/resource/Piazza_del_Popolo,_Ascoli_Piceno","http://dbpedia.org/resource/Piazza_del_Popolo,_Rome http://dbpedia.org/resource/Popolo http://dbpedia.org/resource/Piazza_del_Popolo"

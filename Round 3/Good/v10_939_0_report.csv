@@ -1,0 +1,6 @@
+F1: 0.80952,Precision: 0.80952,Recall: 0.80952,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,9,Second Battle of Arquijas,http://dbpedia.org/resource/Second_Battle_of_Ypres,http://dbpedia.org/resource/Second_Battle_of_Arquijas
+0,12,Second Battle of Al-Shaykh Maskin,http://dbpedia.org/resource/Battle_of_Al-Shaykh_Maskin_(2015–16),http://dbpedia.org/resource/Second_Battle_of_Al-Shaykh_Maskin
+0,15,Second Battle of Adrianople,,http://dbpedia.org/resource/Second_Battle_of_Adrianople
+0,21,Scuttling of the French fleet in Toulon,http://dbpedia.org/resource/Scuttling_of_the_French_fleet_at_Toulon,http://dbpedia.org/resource/Scuttling_of_the_French_fleet_in_Toulon http://dbpedia.org/resource/Operation_Lila http://dbpedia.org/resource/Scuttling_of_the_french_fleet_in_toulon

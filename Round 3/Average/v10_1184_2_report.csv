@@ -1,0 +1,5 @@
+F1: 0.57143,Precision: 0.57143,Recall: 0.57143,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,2,"Edmund Grey, 1st Earl of Kent","http://dbpedia.org/resource/Prince_George,_Duke_of_Kent","http://dbpedia.org/resource/Edmund_Grey,_1st_Earl_of_Kent"
+2,4,"Henry Waldegrave, 1st Baron Waldegrave","http://dbpedia.org/resource/Henry_Forster,_1st_Baron_Forster","http://dbpedia.org/resource/Henry_Waldegrave,_1st_Baron_Waldegrave"
+2,5,Fondi,http://dbpedia.org/resource/Renato_Fondi,"http://dbpedia.org/resource/Frondi http://dbpedia.org/resource/History_of_Fondi http://dbpedia.org/resource/Fondi,_Italy http://dbpedia.org/resource/Fondi"

@@ -1,0 +1,5 @@
+F1: 0.94000,Precision: 0.94000,Recall: 0.94000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,24,Kiddy Girl-and,http://dbpedia.org/resource/Kiddy_Grade,http://dbpedia.org/resource/Kiddy_Girl-and http://dbpedia.org/resource/KIDDY_GiRL-AND http://dbpedia.org/resource/Kiddy_Grade_2
+0,26,Kanon,http://dbpedia.org/resource/Kanon_(manga),http://dbpedia.org/resource/Kanon_(visual_novel) http://dbpedia.org/resource/Kanon_(anime) http://dbpedia.org/resource/Mariko_Shimizu http://dbpedia.org/resource/Kanon_(TV_series) http://dbpedia.org/resource/Kanon_VN http://dbpedia.org/resource/Kanon_(video_game) http://dbpedia.org/resource/Kanon_(adult_visual_novel)
+0,39,Gift,http://dbpedia.org/resource/The_Good_Witch's_Gift,http://dbpedia.org/resource/Gift:_Eternal_Rainbow http://dbpedia.org/resource/Gift_eternal_rainbow http://dbpedia.org/resource/Gift_(visual_novel) http://dbpedia.org/resource/Gift_(game) http://dbpedia.org/resource/Gift_~eternal_rainbow~

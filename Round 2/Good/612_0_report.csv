@@ -1,0 +1,6 @@
+F1: 0.86667,Precision: 0.86667,Recall: 0.86667,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,10,D. Collins,http://dbpedia.org/resource/Dan_Collins_(footballer),http://dbpedia.org/resource/Denis_Collins_(footballer)
+0,19,D. Moriarty,"http://dbpedia.org/resource/Dan_Moriarty_(footballer,_born_1875)",http://dbpedia.org/resource/Dan_Moriarty_(Australian_rules_footballer_born_1875) http://dbpedia.org/resource/Dan_Moriarty_(footballer_born_1875)
+0,24,C. Campbell,http://dbpedia.org/resource/Cassie_Campbell,http://dbpedia.org/resource/Colin_Campbell_(Australian_sportsman) http://dbpedia.org/resource/Colin_Campbell_(Australian_footballer)
+0,30,C. Thomas,http://dbpedia.org/resource/Carl_Thomas_(baseball),http://dbpedia.org/resource/Claude_Thomas_(footballer)

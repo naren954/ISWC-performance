@@ -1,0 +1,5 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,2,Man of the match,http://dbpedia.org/resource/Batman,http://dbpedia.org/resource/Man_of_the_Series http://dbpedia.org/resource/Player_of_the_Match http://dbpedia.org/resource/Man_of_the_match http://dbpedia.org/resource/Man_of_the_Match http://dbpedia.org/resource/Best_on_ground http://dbpedia.org/resource/Man_of_the_series http://dbpedia.org/resource/Player_of_the_match http://dbpedia.org/resource/Man_of_The_Match http://dbpedia.org/resource/Man-of-the-match http://dbpedia.org/resource/Player_of_the_game
+1,4,Balls faced,http://dbpedia.org/resource/Balls_Mahoney,http://dbpedia.org/resource/Delivery_(cricket)
+1,8,Strike rate during the innings,http://dbpedia.org/resource/Glossary_of_cricket_terms,http://dbpedia.org/resource/Strike_rate http://dbpedia.org/resource/Strike_rate_(cricket) http://dbpedia.org/resource/Strike_Rate http://dbpedia.org/resource/Batting_strike_rate http://dbpedia.org/resource/Bowling_strike_rate

@@ -1,0 +1,5 @@
+"F1: 0.76923","Precision: 0.76923","Recall: 0.76923"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","5","A. Watson","http://dbpedia.org/resource/Richard_Watson_(bishop_of_Llandaff)","http://dbpedia.org/resource/Adam_Watson http://dbpedia.org/resource/John_Hugh_Adam_Watson"
+"0","6","A. Smith","http://dbpedia.org/resource/Tony_Smith_(sculptor)","http://dbpedia.org/resource/Adam_smith http://dbpedia.org/resource/Smith,_Adam http://dbpedia.org/resource/A_Smith http://dbpedia.org/resource/Adam_Smith http://dbpedia.org/resource/Vile_maxim"
+"0","7","A. Schaff","http://dbpedia.org/resource/Philip_Schaff","http://dbpedia.org/resource/Adam_Schaff"

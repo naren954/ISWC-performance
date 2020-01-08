@@ -1,0 +1,12 @@
+F1: 0.62963,Precision: 0.62963,Recall: 0.62963,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,J. Carroll,http://dbpedia.org/resource/Jim_Carroll,http://dbpedia.org/resource/John_Carroll_(actor) http://dbpedia.org/resource/Julian_Lafaye http://dbpedia.org/resource/Julian_La_Faye
+1,6,Ganesh,http://dbpedia.org/resource/Gemini_Ganesan,"http://dbpedia.org/resource/Ganesh_Comedy_Time http://dbpedia.org/resource/""Comedy_Time""_Ganesh http://dbpedia.org/resource/Actor_Ganesh http://dbpedia.org/resource/Ganesh_(actor) http://dbpedia.org/resource/Ganesh_Comedy_time http://dbpedia.org/resource/Golden_Star_Ganesh http://dbpedia.org/resource/Comedy_Time_Ganesh"
+1,8,C. Chase,http://dbpedia.org/resource/Charley_Chase,http://dbpedia.org/resource/Chevy_Chase http://dbpedia.org/resource/Cornelius_Chase http://dbpedia.org/resource/Chevy_chase
+1,10,C. Taylor,http://dbpedia.org/resource/Carole_Taylor,http://dbpedia.org/resource/Christine_Joan_Taylor http://dbpedia.org/resource/Christine_Taylor http://dbpedia.org/resource/Christine_Taylor-Stiller http://dbpedia.org/resource/Christine_Joan_Taylor_Stiller
+1,13,C. Mohan,http://dbpedia.org/resource/Sujatha_Mohan,http://dbpedia.org/resource/Chandra_Mohan_(Telugu_actor) http://dbpedia.org/resource/Mallampalli_Chandrashekhara_Rao http://dbpedia.org/resource/Chandramohan_(actor) http://dbpedia.org/resource/Chandra_mohan http://dbpedia.org/resource/Mallampalli_Chandrasekhara_Rao http://dbpedia.org/resource/Chandra_Mohan_(actor)
+1,14,P. Eenhoorn,http://dbpedia.org/resource/Bas_Eenhoorn,http://dbpedia.org/resource/Paul_Eenhoorn
+1,19,F. Cano,http://dbpedia.org/resource/Alonzo_Cano,http://dbpedia.org/resource/Fanny_Cano
+1,22,M. Eaton,http://dbpedia.org/resource/Mary_Eaton,http://dbpedia.org/resource/Marjorie_Eaton
+1,24,A. Mayfield,http://dbpedia.org/resource/Curtis_Mayfield,http://dbpedia.org/resource/Adam_Mayfield
+1,27,A. Sugiura,http://dbpedia.org/resource/Naoki_Sugiura,http://dbpedia.org/resource/Asami_Miyajima http://dbpedia.org/resource/亜紗美 http://dbpedia.org/resource/Asami_Sugiura

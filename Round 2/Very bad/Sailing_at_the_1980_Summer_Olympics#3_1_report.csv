@@ -1,0 +1,14 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,Brazil,http://dbpedia.org/resource/Brazil,http://dbpedia.org/resource/Brazil_at_the_1980_Summer_Olympics
+1,2,Soviet Union,http://dbpedia.org/resource/Soviet_Union,http://dbpedia.org/resource/USSR_at_Moscow_1980 http://dbpedia.org/resource/Soviet_Union_at_the_1980_Summer_Olympics http://dbpedia.org/resource/USSR_at_the_1980_Summer_Olympics
+1,3,Denmark,http://dbpedia.org/resource/Denmark,http://dbpedia.org/resource/Denmark_at_the_1980_Summer_Olympics
+1,4,Finland,http://dbpedia.org/resource/Finland,http://dbpedia.org/resource/Finland_at_the_1980_Summer_Olympics
+1,5,Spain,http://dbpedia.org/resource/Spain,http://dbpedia.org/resource/Spain_at_the_1980_Summer_Olympics
+1,6,Austria,http://dbpedia.org/resource/Austria,http://dbpedia.org/resource/Austria_at_the_1980_Summer_Olympics
+1,7,East Germany,http://dbpedia.org/resource/Germany,http://dbpedia.org/resource/East_Germany_at_the_1980_Summer_Olympics
+1,8,Ireland,http://dbpedia.org/resource/Republic_of_Ireland,http://dbpedia.org/resource/Ireland_at_the_1980_Summer_Olympics
+1,9,Greece,http://dbpedia.org/resource/Greece,http://dbpedia.org/resource/Greece_at_the_1980_Summer_Olympics
+1,10,Hungary,http://dbpedia.org/resource/Hungary,http://dbpedia.org/resource/Hungary_at_the_1980_Summer_Olympics
+1,11,Italy,http://dbpedia.org/resource/Italy,http://dbpedia.org/resource/Italy_at_the_1980_Summer_Olympics
+1,12,Sweden,http://dbpedia.org/resource/Sweden,http://dbpedia.org/resource/Sweden_at_the_1980_Summer_Olympics

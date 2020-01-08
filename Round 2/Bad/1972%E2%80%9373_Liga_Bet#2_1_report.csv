@@ -1,0 +1,10 @@
+F1: 0.42857,Precision: 0.42857,Recall: 0.42857,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,Maccabi Holon,http://dbpedia.org/resource/Maccabi_Herzliya_F.C.,http://dbpedia.org/resource/Maccabi_Holon_F.C.
+1,3,Hapoel Kfar Shalem,http://dbpedia.org/resource/Hapoel_Kfar_Saba_F.C.,http://dbpedia.org/resource/Hapoel_Kfar_Shalem_F.C. http://dbpedia.org/resource/Hapoel_Kfar_Shalem
+1,4,Beitar Ramat Gan,http://dbpedia.org/resource/Hakoah_Amidar_Ramat_Gan_F.C.,http://dbpedia.org/resource/Beitar_Ramat_Gan_F.C.
+1,6,Beitar Lod,http://dbpedia.org/resource/Beitar_Tel_Aviv_F.C.,http://dbpedia.org/resource/Beitar_Lod_F.C.
+1,7,Hapoel HaTzafon Tel Aviv,http://dbpedia.org/resource/Hapoel_Tel_Aviv_F.C.,http://dbpedia.org/resource/Hapoel_HaTzafon_Tel_Aviv_F.C.
+1,9,Beitar Holon,http://dbpedia.org/resource/Hapoel_Tzafririm_Holon_F.C.,http://dbpedia.org/resource/Beitar_Holon_F.C.
+1,12,Hapoel Or Yehuda,http://dbpedia.org/resource/Hapoel_Even_Yehuda_F.C.,http://dbpedia.org/resource/Hapoel_Or_Yehuda_F.C. http://dbpedia.org/resource/F.C._Ironi_Or_Yehuda
+1,13,Hapoel Giv'atayim,http://dbpedia.org/resource/Hapoel_Givatayim_F.C.,http://dbpedia.org/resource/Hapoel_Giv'atayim_F.C.

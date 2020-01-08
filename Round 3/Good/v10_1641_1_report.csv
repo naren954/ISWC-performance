@@ -1,0 +1,5 @@
+F1: 0.89655,Precision: 0.89655,Recall: 0.89655,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,The Jimi Hendrix Experience,http://dbpedia.org/resource/Jimi_Hendrix,http://dbpedia.org/resource/JHX http://dbpedia.org/resource/Jimi_Hendrix_Experience http://dbpedia.org/resource/The_Jimi_Hendrix_Experience http://dbpedia.org/resource/Gypsy_Sun_Experience
+1,13,The Jimi Hendrix Experience,http://dbpedia.org/resource/Jimi_Hendrix,http://dbpedia.org/resource/JHX http://dbpedia.org/resource/Jimi_Hendrix_Experience http://dbpedia.org/resource/The_Jimi_Hendrix_Experience http://dbpedia.org/resource/Gypsy_Sun_Experience
+1,29,The Jimi Hendrix Experience,http://dbpedia.org/resource/Jimi_Hendrix,http://dbpedia.org/resource/JHX http://dbpedia.org/resource/Jimi_Hendrix_Experience http://dbpedia.org/resource/The_Jimi_Hendrix_Experience http://dbpedia.org/resource/Gypsy_Sun_Experience

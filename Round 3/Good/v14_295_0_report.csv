@@ -1,0 +1,15 @@
+F1: 0.76786,Precision: 0.76786,Recall: 0.76786,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,7,House of Cards,http://dbpedia.org/resource/House_of_Cards_(American_TV_series),http://dbpedia.org/resource/House_of_Cards_(miniseries) http://dbpedia.org/resource/House_of_Cards_(UK_TV_series) http://dbpedia.org/resource/House_of_Cards_UK http://dbpedia.org/resource/House_Of_Cards_(TV_series) http://dbpedia.org/resource/Francis_Urqhart http://dbpedia.org/resource/House_of_Cards_(UK_TV_show) http://dbpedia.org/resource/YMVWTTICPC http://dbpedia.org/resource/House_of_Cards_(UK_series) http://dbpedia.org/resource/YMSTICPC http://dbpedia.org/resource/YMVWTTICNPC
+0,8,House Full,http://dbpedia.org/resource/Full_House,http://dbpedia.org/resource/House_full_(TV_series) http://dbpedia.org/resource/House_Full_(TV_series) http://dbpedia.org/resource/Housefull_(2008_dramaserial)
+0,12,Holocaust,http://dbpedia.org/resource/Cannibal_Holocaust,"http://dbpedia.org/resource/1978_miniseries_""Holocaust"" http://dbpedia.org/resource/Holocaust_(miniseries) http://dbpedia.org/resource/Holocaust_(TV_miniseries)"
+0,13,Hollywood,http://dbpedia.org/resource/Love_&_Hip_Hop:_Hollywood,http://dbpedia.org/resource/Hollywood_(1980_TV_series) http://dbpedia.org/resource/Hollywood_(documentary) http://dbpedia.org/resource/Hollywood_(1980_film) http://dbpedia.org/resource/Hollywood_(1980_documentary_series) http://dbpedia.org/resource/Hollywood:_A_Celebration_of_the_American_Silent_Film
+0,20,Hidden,http://dbpedia.org/resource/Lioness:_Hidden_Treasures,http://dbpedia.org/resource/Hidden_(TV_series)
+0,23,Here and Now,http://dbpedia.org/resource/Here_and_Now_(2018_TV_series),http://dbpedia.org/resource/Here_and_Now_(1992_TV_series) http://dbpedia.org/resource/Here_and_Now_(TV_series)
+0,26,Henry VIII,http://dbpedia.org/resource/The_Private_Life_of_Henry_VIII,http://dbpedia.org/resource/Henry_VIII_(ITV_drama) http://dbpedia.org/resource/Henry_VIII_(TV_serial)
+0,29,Heartland,http://dbpedia.org/resource/Heartland_(Canadian_TV_series),http://dbpedia.org/resource/Heartland_(Australian_TV_series)
+0,32,Have Faith,http://dbpedia.org/resource/The_Soul_Man,http://dbpedia.org/resource/Have_Faith
+0,36,Hardball,http://dbpedia.org/resource/Hardball_(1994_TV_series),http://dbpedia.org/resource/Hardball_(1989_TV_series) http://dbpedia.org/resource/Hardball_(1989) http://dbpedia.org/resource/Time_Bomb_(Hardball)
+0,38,Hanging In,http://dbpedia.org/resource/Hanging_On,http://dbpedia.org/resource/Hanging_In
+0,39,H,http://dbpedia.org/resource/M*A*S*H_(TV_series),http://dbpedia.org/resource/H_(French_TV_series) http://dbpedia.org/resource/H_(TV_series)
+0,50,Great Expectations,http://dbpedia.org/resource/Great_Expectations_(2011_miniseries),http://dbpedia.org/resource/Great_Expectations_(1989_TV_miniseries) http://dbpedia.org/resource/Great_Expectations_(1991_miniseries) http://dbpedia.org/resource/Great_Expectations_(1989_film)

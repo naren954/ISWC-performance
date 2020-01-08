@@ -1,0 +1,20 @@
+F1: 0.21739,Precision: 0.21739,Recall: 0.21739,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,M. Weidenbaum,http://dbpedia.org/resource/M,http://dbpedia.org/resource/Marc_Weidenbaum
+1,2,E. Solomon,http://dbpedia.org/resource/Elias_Solomon,http://dbpedia.org/resource/Evan_Solomon
+1,3,L. Danziger,http://dbpedia.org/resource/Yitzhak_Danziger,http://dbpedia.org/resource/Lucy_Danziger
+1,4,R. Bridges,http://dbpedia.org/resource/Robert_Bridges,http://dbpedia.org/resource/Robert_Bridges_(critic)
+1,5,P. Frazer,http://dbpedia.org/resource/Lucy_Frazer,http://dbpedia.org/resource/Phillip_Frazer
+1,6,M. Mason,http://dbpedia.org/resource/Monty_Mason,http://dbpedia.org/resource/Matt_Mason_(author)
+1,7,W. Fotheringham,http://dbpedia.org/resource/John_Knight_Fotheringham,http://dbpedia.org/resource/William_Fotheringham
+1,8,H. Carruth,http://dbpedia.org/resource/William_Carruthers_(botanist),http://dbpedia.org/resource/Hayden_Carruth
+1,9,A. Mitchell,http://dbpedia.org/resource/Austin_Mitchell,http://dbpedia.org/resource/Adrian_Mitchell http://dbpedia.org/resource/Adrian_Mitchell_FRSL
+1,10,N. Frank,http://dbpedia.org/resource/Nathan_Frank,http://dbpedia.org/resource/Unfriendly_Fire http://dbpedia.org/resource/Nathaniel_Frank
+1,13,G. Gutfeld,http://dbpedia.org/resource/G,http://dbpedia.org/resource/Greg_Gutfeld http://dbpedia.org/resource/Gutfeld
+1,15,J. A. Byrczek,http://dbpedia.org/resource/J,http://dbpedia.org/resource/Jan_A._Byrczek http://dbpedia.org/resource/Jan_Byrczek
+1,16,H. Primus,"http://dbpedia.org/resource/Stafford_Northcote,_1st_Earl_of_Iddesleigh",http://dbpedia.org/resource/Hubertus_Primus
+1,17,B. Monroe,http://dbpedia.org/resource/Bill_Monroe_(journalist),http://dbpedia.org/resource/Bryan_Monroe
+1,18,M. Politycki,http://dbpedia.org/resource/M,http://dbpedia.org/resource/Matthias_Politycki
+1,19,N. M. Mohanan,http://es.dbpedia.org/resource/C._N._Mohanan,http://dbpedia.org/resource/NM_Mohan http://dbpedia.org/resource/Mohan_(Mayavi) http://dbpedia.org/resource/NM_Mohanan http://dbpedia.org/resource/N._M._Mohan http://dbpedia.org/resource/N.M._Mohan http://dbpedia.org/resource/N._M._Mohanan
+1,20,Ö. Sjöstrand,http://dbpedia.org/resource/Carl_Eneas_Sjöstrand,http://dbpedia.org/resource/Osten_Sjoestrand http://dbpedia.org/resource/Östen_Sjöstrand http://dbpedia.org/resource/Osten_Sjostrand
+1,22,S. Cairns,http://dbpedia.org/resource/David_Cairns_(politician),http://dbpedia.org/resource/Scott_Cairns

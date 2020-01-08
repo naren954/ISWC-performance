@@ -1,0 +1,5 @@
+F1: 0.96591,Precision: 0.96591,Recall: 0.96591,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,13,Holidays on Ice,http://dbpedia.org/resource/Holidays_on_Ice,http://dbpedia.org/resource/Holidays_on_Ice_(book)
+1,25,Brothers,http://dbpedia.org/resource/Brother_(manga),http://dbpedia.org/resource/Brothers_(Goldman) http://dbpedia.org/resource/Brothers_(Goldman_novel)
+1,28,Passage,http://dbpedia.org/resource/Passage_(The_Carpenters_album),http://dbpedia.org/resource/Passage_(Bujold_novel) http://dbpedia.org/resource/Passage_(2008_novel)

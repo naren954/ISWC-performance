@@ -1,0 +1,9 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,Philadelphia Athletics,http://dbpedia.org/resource/Philadelphia_Phillies,http://dbpedia.org/resource/1903_Philadelphia_Athletics_season
+0,3,Cleveland Naps,http://dbpedia.org/resource/Carol_Cleveland,http://dbpedia.org/resource/1903_Cleveland_Broncos_season http://dbpedia.org/resource/1903_Cleveland_Naps_season
+0,4,New York Highlanders,"http://dbpedia.org/resource/Theme_from_New_York,_New_York",http://dbpedia.org/resource/1903_New_York_Highlanders_season
+0,5,Detroit Tigers,http://dbpedia.org/resource/Detroit_Tigers,http://dbpedia.org/resource/1903_season_of_the_Detroit_Tigers http://dbpedia.org/resource/Detroit_Tigers_1903 http://dbpedia.org/resource/Detroit_Tigers_in_1903 http://dbpedia.org/resource/Detroit_Tigers_in_the_1903_season http://dbpedia.org/resource/1903_Detroit_Tigers_season http://dbpedia.org/resource/1903_Detroit_Tigers
+0,6,St. Louis Browns,http://dbpedia.org/resource/Baltimore_Orioles,http://dbpedia.org/resource/1903_St._Louis_Browns_season
+0,7,Chicago White Stockings,http://dbpedia.org/resource/Chicago_Cubs,http://dbpedia.org/resource/1903_Chicago_White_Sox_season http://dbpedia.org/resource/1903_Chicago_White_Stockings_season
+0,8,Washington Senators,http://dbpedia.org/resource/Texas_Rangers_(baseball),http://dbpedia.org/resource/1903_Washington_Senators_season

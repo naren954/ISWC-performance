@@ -1,0 +1,40 @@
+F1: 0.60417,Precision: 0.60417,Recall: 0.60417,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,3,J. Olson,http://dbpedia.org/resource/Justin_Olson,http://dbpedia.org/resource/Johnny_Olsen http://dbpedia.org/resource/John_Leonard_Olson http://dbpedia.org/resource/Johnny_Olson
+2,5,G. James,http://dbpedia.org/resource/Gérard_James,http://dbpedia.org/resource/Geraldine_James
+2,8,G. Hall,http://dbpedia.org/resource/Gus_Hall,http://dbpedia.org/resource/George_Hall_(actor)
+2,10,W. Woodson,http://dbpedia.org/resource/Charles_Woodson,http://dbpedia.org/resource/Bill_Woodson http://dbpedia.org/resource/William_Woodson
+2,11,W. Winchell,http://dbpedia.org/resource/Paul_Winchell,"http://dbpedia.org/resource/Winchell's_Column http://dbpedia.org/resource/Walter_Winchel http://dbpedia.org/resource/Walter_Winchell http://dbpedia.org/resource/Winchell,_Walter"
+2,12,W. Wingert,http://dbpedia.org/resource/Chris_Wingert,http://dbpedia.org/resource/Wally_Wingert
+2,17,M. Miller,http://dbpedia.org/resource/Marcus_Miller,http://dbpedia.org/resource/Marvin_Mueller http://dbpedia.org/resource/Marvin_Elliott_Mueller http://dbpedia.org/resource/Marvin_Miller_(actor) http://dbpedia.org/resource/Marvin_Elliott_Miller
+2,18,G. Owens,http://dbpedia.org/resource/Geoffrey_Owens,http://dbpedia.org/resource/Gary_Owens
+2,20,M. Miller,http://dbpedia.org/resource/Marcus_Miller,http://dbpedia.org/resource/Marvin_Mueller http://dbpedia.org/resource/Marvin_Elliott_Mueller http://dbpedia.org/resource/Marvin_Miller_(actor) http://dbpedia.org/resource/Marvin_Elliott_Miller
+2,21,B. Woodson,http://dbpedia.org/resource/Charles_Woodson,http://dbpedia.org/resource/Bill_Woodson http://dbpedia.org/resource/William_Woodson
+2,22,S. Bird,http://dbpedia.org/resource/Sue_Bird,http://dbpedia.org/resource/Simon_Bird
+2,23,P. Jones,http://dbpedia.org/resource/Phineas_Jones,http://dbpedia.org/resource/Peter_Jones_(actor)
+2,24,E. Hall,http://dbpedia.org/resource/Peter_Hall_(director),http://dbpedia.org/resource/Edd_Hall
+2,25,B. LeMond,http://dbpedia.org/resource/Bernard_Mond,http://dbpedia.org/resource/Bob_LeMond
+2,27,D. Lamb,http://dbpedia.org/resource/Derek_Lamb,http://dbpedia.org/resource/Dave_Lamb http://dbpedia.org/resource/Dave_lamb
+2,29,P. Allen,http://dbpedia.org/resource/Peter_Allen_(musician),"http://dbpedia.org/resource/Patrick_Allen http://dbpedia.org/resource/Allen,_Patrick"
+2,30,R. Powell,"http://dbpedia.org/resource/Robert_Baden-Powell,_1st_Baron_Baden-Powell","http://dbpedia.org/resource/Powell,_Robert http://dbpedia.org/resource/Robert_Powell http://dbpedia.org/resource/Robert_Powell_(actor)"
+2,37,J. Levy,http://dbpedia.org/resource/Jacques_Levy,http://dbpedia.org/resource/Jane_Levy
+2,38,D. Kaufman,http://dbpedia.org/resource/Andy_Kaufman,http://dbpedia.org/resource/David_Kaufman_(actor)
+2,44,K. Yamaguchi,http://dbpedia.org/resource/Ken_Yamaguchi,http://dbpedia.org/resource/山口勝平 http://dbpedia.org/resource/Yamaguti_Mituo http://dbpedia.org/resource/Mitsuo_Yamaguchi http://dbpedia.org/resource/Yamaguti_Kappei http://dbpedia.org/resource/山口光雄 http://dbpedia.org/resource/Kappei_Yamaguchi http://dbpedia.org/resource/Yamaguchi_kappei http://dbpedia.org/resource/Kappei_Yamaguti http://dbpedia.org/resource/Yamaguchi_Kappei http://dbpedia.org/resource/Mituo_Yamaguti http://dbpedia.org/resource/Yamaguchi_Mitsuo
+2,47,D. Pratt,http://dbpedia.org/resource/Hugo_Pratt,http://dbpedia.org/resource/Deborah_Pratt
+2,50,H. Blick,http://dbpedia.org/resource/Dick_Blick_(swimmer),http://dbpedia.org/resource/Hugo_Blick http://dbpedia.org/resource/Hugo_E._Blick
+2,52,L. Hunt,http://dbpedia.org/resource/Lamar_Hunt,http://dbpedia.org/resource/Linda_hunt http://dbpedia.org/resource/Linda_Hunt
+2,53,L. Dobkin,http://dbpedia.org/resource/David_Dobkin_(director),http://dbpedia.org/resource/Lawrence_Dobkin http://dbpedia.org/resource/Larry_Dobkin
+2,54,J. Lee,http://dbpedia.org/resource/Christopher_Lee,http://dbpedia.org/resource/Pilot_Inspektor http://dbpedia.org/resource/Jason_Lee_(actor) http://dbpedia.org/resource/Jason_Lee_(entertainer) http://dbpedia.org/resource/Coach_Frank
+2,55,H. Lau,http://dbpedia.org/resource/Henry_Lau,http://dbpedia.org/resource/Hawick_Lau http://dbpedia.org/resource/Hawick_Lau_Hoi_Wai http://dbpedia.org/resource/Liu_Kaiwei
+2,59,C. King,http://dbpedia.org/resource/Carole_King,http://dbpedia.org/resource/Carl_King_(Emmerdale_character) http://dbpedia.org/resource/Carl_King_(Emmerdale) http://dbpedia.org/resource/Carl_King
+2,64,K. d. Leon,http://dbpedia.org/resource/Pope_Leo_IX,http://dbpedia.org/resource/Keempee_de_Leon
+2,65,M. Dallas,http://dbpedia.org/resource/George_M._Dallas,http://dbpedia.org/resource/Matt_Dallas
+2,67,J. May,http://dbpedia.org/resource/Jonathan_May,http://dbpedia.org/resource/James_may http://dbpedia.org/resource/Captain_slow http://dbpedia.org/resource/Captain_Slow http://dbpedia.org/resource/James_Daniel_May http://dbpedia.org/resource/James_May
+2,68,C. Lilley,http://dbpedia.org/resource/Charlie_Lilley,http://dbpedia.org/resource/Chris_Lilley_(comedian) http://dbpedia.org/resource/Christopher_Daniel_Lilley
+2,69,A. Johnson,http://dbpedia.org/resource/Lyndon_B._Johnson,http://dbpedia.org/resource/Alexz_S_Johnson http://dbpedia.org/resource/Heart_EP_(Alexz_Johnson_album) http://dbpedia.org/resource/Trip_Around_the_World http://dbpedia.org/resource/Alexzandra_S_Johnson http://dbpedia.org/resource/Let_'Em_Eat_Cake_(Alexz_Johnson_album) http://dbpedia.org/resource/Where_Does_It_Hurt(Alexz_Johnson_song) http://dbpedia.org/resource/Alexzandra_Spencer_Johnson http://dbpedia.org/resource/Alexz_Spencer_Johnson http://dbpedia.org/resource/Alexzandra_Johnson http://dbpedia.org/resource/24_Hours_(Alexz_Johnson_song) http://dbpedia.org/resource/Alexzandra_S._Johnson http://dbpedia.org/resource/Running_With_the_Devil_(Alexz_Johnson_album) http://dbpedia.org/resource/Weight_(Alexz_Johnson_album) http://dbpedia.org/resource/Alexzandra http://dbpedia.org/resource/Alexz_S._Johnson http://dbpedia.org/resource/Alexz_Johnson_discography http://dbpedia.org/resource/Alexz_Johnson http://dbpedia.org/resource/Heart_(Alexz_Johnson_album) http://dbpedia.org/resource/Trip_Around_The_World http://dbpedia.org/resource/Weight_(Alexz_Johnson_Album)
+2,72,H. Philbrick,http://dbpedia.org/resource/Nathaniel_Philbrick,http://dbpedia.org/resource/Herbert_Philbrick http://dbpedia.org/resource/Herb_philbrick http://dbpedia.org/resource/Herb_Philbrick http://dbpedia.org/resource/Herbert_Arthur_Philbrick
+2,75,A. Gilmore,http://dbpedia.org/resource/Jim_Gilmore,http://dbpedia.org/resource/Art_Gilmore
+2,87,L. Duncan,http://dbpedia.org/resource/Lois_Duncan,http://dbpedia.org/resource/Lindsay_Duncan http://dbpedia.org/resource/Lindsay_Vere_Duncan
+2,88,K. Roberts,http://dbpedia.org/resource/Keith_Roberts,http://dbpedia.org/resource/Ken_Roberts_(announcer)
+2,90,P. Cashman,http://dbpedia.org/resource/Michael_Cashman,http://dbpedia.org/resource/Pat_Cashman
+2,93,R. Story,http://dbpedia.org/resource/Julian_Russell_Story,http://dbpedia.org/resource/Ralph_Story http://dbpedia.org/resource/Ralph_Story's_Los_Angeles http://dbpedia.org/resource/Ralph_Bernard_Snyder

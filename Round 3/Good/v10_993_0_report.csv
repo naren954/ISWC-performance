@@ -1,0 +1,8 @@
+F1: 0.86364,Precision: 0.86364,Recall: 0.86364,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,13,USS Cassin,http://dbpedia.org/resource/USS_Cassin_(DD-372),http://dbpedia.org/resource/USCGD_Cassin_(CG-1) http://dbpedia.org/resource/USS_Cassin_(DD-43)
+0,21,USS Cardinal,http://dbpedia.org/resource/USS_Cardinal_(AM-67),http://dbpedia.org/resource/USS_Cardinal_(YMS-179) http://dbpedia.org/resource/USS_YMS-179 http://dbpedia.org/resource/YMS-179 http://dbpedia.org/resource/USS_Cardinal_(MSC(O)-4) http://dbpedia.org/resource/USS_Cardinal_(MSCO-4) http://dbpedia.org/resource/Brazilian_minesweeper_Javari_(M11) http://dbpedia.org/resource/AMS-4 http://dbpedia.org/resource/Brazilian_minesweeper_Javarí_(M11) http://dbpedia.org/resource/USS_Cardinal_(AMS-4)
+0,32,USS Canopus,http://dbpedia.org/resource/HMS_Canopus_(1798),http://dbpedia.org/resource/USS_Canopus_(AS-34) http://dbpedia.org/resource/IMO_8628353
+0,35,USS Camden,http://dbpedia.org/resource/USS_Camden_(AS-6),http://dbpedia.org/resource/AOE-2 http://dbpedia.org/resource/USS_Camden_(AOE-2)
+0,37,USS California,http://dbpedia.org/resource/USS_California_(BB-44),http://dbpedia.org/resource/USS_California_(DLGN-36) http://dbpedia.org/resource/USS_California_(CGN-36)
+0,40,USS Burrows,http://dbpedia.org/resource/USS_Burrows_(DD-29),http://dbpedia.org/resource/HNLMS_Van_Amstel_(F806) http://dbpedia.org/resource/DE-105 http://dbpedia.org/resource/USS_Burrows_(DE-105)

@@ -1,0 +1,6 @@
+F1: 0.73333,Precision: 0.73333,Recall: 0.73333,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,1,"Richard Grosvenor, 1st Earl Grosvenor","http://dbpedia.org/resource/Richard_Howe,_1st_Earl_Howe","http://dbpedia.org/resource/Richard_Grosvenor,_1st_Earl_Grosvenor http://dbpedia.org/resource/Richard_Grosvenor,_1st_Earl_of_Grosvenor"
+3,3,C. D. Rose,http://dbpedia.org/resource/Philipp_Peter_Roos,"http://dbpedia.org/resource/Sir_Charles_Rose,_1st_Baronet http://dbpedia.org/resource/Charles_Day_Rose"
+3,6,L. C. II,http://dbpedia.org/resource/Lucius_Quintus_Cincinnatus_Lamar_II,http://dbpedia.org/resource/Leslie_Combs_II
+3,7,V. Sassoon,http://dbpedia.org/resource/Siegfried_Sassoon,http://dbpedia.org/resource/Sir_Victor_Sassoon http://dbpedia.org/resource/E_D_Sassoon_and_Company http://dbpedia.org/resource/Victor_Sassoon

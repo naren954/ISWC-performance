@@ -1,0 +1,10 @@
+F1: 0.80488,Precision: 0.80488,Recall: 0.80488,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,4,Verticordia fimbrilepis subsp. fimbrilepis,http://dbpedia.org/resource/Verticordia_fimbrilepis_subsp._australis,http://dbpedia.org/resource/Verticordia_fimbrilepis_subsp._fimbrilepis
+0,6,Verticordia endlicheriana var. angustifolia,http://dbpedia.org/resource/Verticordia_endlicheriana_var._endlicheriana,http://dbpedia.org/resource/Verticordia_endlicheriana_var._angustifolia
+0,7,Verticordia densiflora var. rosteostella,http://dbpedia.org/resource/Verticordia_densiflora_var._cespitosa,http://dbpedia.org/resource/Verticordia_densiflora_var._rosteostella
+0,8,Verticordia densiflora var. pedunculata,http://dbpedia.org/resource/Verticordia_densiflora_var._cespitosa,http://dbpedia.org/resource/Verticordia_densiflora_var._pedunculata
+0,21,Golden takin,http://dbpedia.org/resource/Takin,http://dbpedia.org/resource/Budorcas_taxicolor_bedfordi http://dbpedia.org/resource/Golden_Takin http://dbpedia.org/resource/Golden_takin
+0,27,Cypripedium macranthum var. rebunense,http://dbpedia.org/resource/Cypripedium_macranthos,http://dbpedia.org/resource/Rebun_orchid http://dbpedia.org/resource/Cypripedium_macranthum_var._rebunense
+0,30,Cama,http://dbpedia.org/resource/Camassia,http://dbpedia.org/resource/Cama_(animal)
+0,31,Calothamnus quadrifidus subsp. teretifolius,http://dbpedia.org/resource/Calothamnus_quadrifidus_subsp._quadrifidus,http://dbpedia.org/resource/Calothamnus_quadrifidus_subsp._teretifolius

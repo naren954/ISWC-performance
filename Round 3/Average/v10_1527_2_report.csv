@@ -1,0 +1,15 @@
+F1: 0.67500,Precision: 0.67500,Recall: 0.67500,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,5,J. C. Loudon,http://dbpedia.org/resource/John_Claudius_Loudon,http://dbpedia.org/resource/Jane_C._Loudon http://dbpedia.org/resource/Jane_Loudon
+2,6,S. Baldwin,http://dbpedia.org/resource/Stanley_Baldwin,http://dbpedia.org/resource/Sally_Baldwin
+2,8,M. Lettvin,http://dbpedia.org/resource/Jerome_Lettvin,http://dbpedia.org/resource/Maggie_Lettvin
+2,12,G. Sheldon,http://dbpedia.org/resource/Gilbert_Sheldon,http://dbpedia.org/resource/George_Sheldon_(preservationist)
+2,14,W. Clift,http://dbpedia.org/resource/Charmian_Clift,http://dbpedia.org/resource/Wallace_Clift
+2,22,C. Haldane,http://dbpedia.org/resource/Duncan_Haldane,http://dbpedia.org/resource/Charlotte_Franken_Haldane http://dbpedia.org/resource/Charlotte_Franken http://dbpedia.org/resource/Charlotte_Burghes http://dbpedia.org/resource/Charlotte_Haldane
+2,28,A. M. Hoffman,http://dbpedia.org/resource/E._T._A._Hoffmann,http://dbpedia.org/resource/Alice_M._Hoffman
+2,29,L. Kuper,http://dbpedia.org/resource/Hilda_Kuper,http://dbpedia.org/resource/Leo_Kuper
+2,30,J. Deacon,http://dbpedia.org/resource/John_Deacon,http://dbpedia.org/resource/Janette_Deacon
+2,31,M. Staudinger,http://dbpedia.org/resource/Hermann_Staudinger,http://dbpedia.org/resource/Magda_Štaudingere http://dbpedia.org/resource/Magda_Staudinger
+2,33,D. Spiegel,http://dbpedia.org/resource/Paul_Spiegel,http://dbpedia.org/resource/David_Spiegel
+2,37,D. Baker,http://dbpedia.org/resource/Dylan_Baker,http://dbpedia.org/resource/Baker_Lab http://dbpedia.org/resource/David_Baker_(biochemist)
+2,40,A. Venning,http://dbpedia.org/resource/John_Venn,http://dbpedia.org/resource/Annabel_Venning

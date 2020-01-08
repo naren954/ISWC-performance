@@ -1,0 +1,5 @@
+"F1: 0.81250","Precision: 0.81250","Recall: 0.81250"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","6","Illawarra Steelers","http://dbpedia.org/resource/St._George_Illawarra_Dragons","http://dbpedia.org/resource/Illawarra_Steelers http://dbpedia.org/resource/List_of_Illawarra_Steelers_representative_players http://dbpedia.org/resource/List_of_Illawarra_Steelers_representatives"
+"1","11","St. George Dragons","http://dbpedia.org/resource/St._George_Illawarra_Dragons","http://dbpedia.org/resource/St._George_DRLFC http://dbpedia.org/resource/St_George_Dragons http://dbpedia.org/resource/St._George_Dragons"
+"1","15","Gold Coast Seagulls","http://dbpedia.org/resource/Gold_Coast_Suns","http://dbpedia.org/resource/Gold_Coast_Giants http://dbpedia.org/resource/Gold_Coast_Giants/Seagulls/Chargers http://dbpedia.org/resource/Gold_Coast_Gladiators http://dbpedia.org/resource/Gold_Coast-Tweed_Giants http://dbpedia.org/resource/List_of_Gold_Coast_Giants/Seagulls/Chargers_representatives http://dbpedia.org/resource/Gold_Coast_Seagulls http://dbpedia.org/resource/Gold_Coast_Chargers"

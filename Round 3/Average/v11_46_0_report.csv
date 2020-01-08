@@ -1,0 +1,18 @@
+F1: 0.74603,Precision: 0.74603,Recall: 0.74603,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,D. Brown,http://dbpedia.org/resource/Dale_Brown_(basketball),http://dbpedia.org/resource/Don_Brown_(football_coach) http://dbpedia.org/resource/Don_Brown_(American_football_coach)
+0,3,D. Carlson,http://dbpedia.org/resource/Dale_Carlson,"http://dbpedia.org/resource/Henery_Clifford_Carlson http://dbpedia.org/resource/Doc_Carlson http://dbpedia.org/resource/H._C._""Doc""_Carlson http://dbpedia.org/resource/Henry_""Doc""_Carlson http://dbpedia.org/resource/Henery_Carlson http://dbpedia.org/resource/Clifford_Carlson"
+0,6,D. Sheridan,http://dbpedia.org/resource/Darren_Sheridan,http://dbpedia.org/resource/Dick_Sheridan
+0,8,D. Bennett,http://dbpedia.org/resource/Darren_Bennett_(football_player),http://dbpedia.org/resource/Dick_Bennett
+0,9,D. Johnson,http://dbpedia.org/resource/Dave_Johnson_(basketball),http://dbpedia.org/resource/Denver_Johnson_(football_coach) http://dbpedia.org/resource/Denver_Johnson
+0,13,D. Hood,http://dbpedia.org/resource/Derek_Hood_(basketball),http://dbpedia.org/resource/Dean_Hood
+0,17,D. Bennett,http://dbpedia.org/resource/Darren_Bennett_(football_player),http://dbpedia.org/resource/David_Bennett_(coach) http://dbpedia.org/resource/David_Bennett_(American_football)
+0,23,D. Roberts,http://dbpedia.org/resource/Dave_Roberts_(outfielder),http://dbpedia.org/resource/Dave_Roberts_(American_football) http://dbpedia.org/resource/Dave_Roberts_(football_coach) http://dbpedia.org/resource/Dave_Roberts_(coach)
+0,26,D. Holmes,http://dbpedia.org/resource/Derek_Holmes,http://dbpedia.org/resource/Dave_Holmes_(football_coach) http://dbpedia.org/resource/Coach_Dave_Holmes http://dbpedia.org/resource/Dave_Holmes_(American_football)
+0,28,D. Arnold,http://dbpedia.org/resource/David_Arnold_(basketball),http://dbpedia.org/resource/Dave_Arnold_(American_football)
+0,34,D. Hale,http://dbpedia.org/resource/David_Hale_(baseball),http://dbpedia.org/resource/Danny_Hale_(American_football)
+0,40,D. Allen,http://dbpedia.org/resource/Dominique_Allen,http://dbpedia.org/resource/Dan_Allen_(American_football)
+0,44,C. Rundle,http://dbpedia.org/resource/Charlie_Rundle,http://dbpedia.org/resource/Craig_Rundle
+0,50,C. Godwin,http://dbpedia.org/resource/Chris_Godwin,http://dbpedia.org/resource/Cliff_Godwin
+0,52,C. Mills,http://dbpedia.org/resource/Chris_Mills_(basketball),http://dbpedia.org/resource/Chuck_Mills_(football_coach) http://dbpedia.org/resource/Chuck_Mills
+0,56,C. Broyles,http://dbpedia.org/resource/Frank_Broyles,http://dbpedia.org/resource/Chuck_Broyles

@@ -1,0 +1,51 @@
+F1: 0.63971,Precision: 0.63971,Recall: 0.63971,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,5,A. Oppenheimer,http://dbpedia.org/resource/J._Robert_Oppenheimer,http://dbpedia.org/resource/Alan_Oppenheimer
+2,6,A. Oppenheimer,http://dbpedia.org/resource/J._Robert_Oppenheimer,http://dbpedia.org/resource/Alan_Oppenheimer
+2,8,W. Huston,http://dbpedia.org/resource/John_Huston,http://dbpedia.org/resource/Walter_Huston http://dbpedia.org/resource/Walter_Houghston http://dbpedia.org/resource/Walter_Thomas_Huston http://dbpedia.org/resource/Walter_Thomas_Houghston
+2,21,R. James,http://dbpedia.org/resource/Rick_James,http://dbpedia.org/resource/Ralph_James
+2,23,E. Judd,http://dbpedia.org/resource/Harry_Judd,http://dbpedia.org/resource/Edward_Judd
+2,24,A. Buxton,http://dbpedia.org/resource/Glen_Buxton,"http://dbpedia.org/resource/Lord_Buxton_of_Alsa http://dbpedia.org/resource/Baron_Buxton_of_Alsa http://dbpedia.org/resource/Aubrey_Buxton http://dbpedia.org/resource/Aubrey_Buxton,_Baron_Buxton_of_Alsa http://dbpedia.org/resource/Aubrey_Leland_Oakes_Buxton"
+2,25,G. Whalley,http://dbpedia.org/resource/Joanne_Whalley,http://dbpedia.org/resource/George_Whalley
+2,27,L. Thomas,http://dbpedia.org/resource/Lewis_Thomas,http://dbpedia.org/resource/Lowell_Thomas_Award http://dbpedia.org/resource/Lowell_Thomas_Sr. http://dbpedia.org/resource/Lowell_Thomas http://dbpedia.org/resource/Lowell_Jackson_Thomas http://dbpedia.org/resource/Lowell_Thomas_Awards
+2,29,R. Allen,http://dbpedia.org/resource/Ronald_Allen,"http://dbpedia.org/resource/Rex_Allen http://dbpedia.org/resource/Rex_Allen,_Sr."
+2,32,D. Thomas,http://dbpedia.org/resource/Dylan_Thomas,http://dbpedia.org/resource/Dave_Thomas_(actor)
+2,34,W. Adams,http://dbpedia.org/resource/Will.i.am,http://dbpedia.org/resource/Weston_Adams_(diplomat) http://dbpedia.org/resource/Weston_Adams_II http://dbpedia.org/resource/Weston_Adams_(ambassador)
+2,35,N. Peltz,http://dbpedia.org/resource/Dietrich_Peltz,http://dbpedia.org/resource/Nicola_Peltz
+2,37,J. Ingle,http://dbpedia.org/resource/John_Herschel,http://dbpedia.org/resource/John_Ingle
+2,38,J. Ingle,http://dbpedia.org/resource/John_Herschel,http://dbpedia.org/resource/John_Ingle
+2,39,J. Ingle,http://dbpedia.org/resource/John_Herschel,http://dbpedia.org/resource/John_Ingle
+2,40,J. Ingle,http://dbpedia.org/resource/John_Herschel,http://dbpedia.org/resource/John_Ingle
+2,41,M. Clarke,http://dbpedia.org/resource/Mae_Clarke,http://dbpedia.org/resource/Malcolm_Clarke_(film_maker)
+2,44,C. Riley,http://dbpedia.org/resource/Charlotte_Riley,http://dbpedia.org/resource/Chuck_Riley_(Voice_Actor) http://dbpedia.org/resource/Chuck_Riley_(voice_actor)
+2,45,B. Hume,http://dbpedia.org/resource/Benita_Hume,"http://dbpedia.org/resource/Alexander_Britton_""Brit""_Hume_Sr. http://dbpedia.org/resource/Brit_Hume http://dbpedia.org/resource/Alexander_Britton_Hume_Sr. http://dbpedia.org/resource/Hume,_Brit http://dbpedia.org/resource/Alexander_Britton_""Brit""_Hume,_Sr. http://dbpedia.org/resource/Brit_hume"
+2,46,A. Gilmore,http://dbpedia.org/resource/Jim_Gilmore,http://dbpedia.org/resource/Art_Gilmore
+2,48,R. Evans,http://dbpedia.org/resource/Tiffany_Evans,"http://dbpedia.org/resource/Robert_Evans_(producer) http://dbpedia.org/resource/Robert_Evans_(film_producer) http://dbpedia.org/resource/Robert_Evans_(film_producer http://dbpedia.org/resource/Robert_Evans http://dbpedia.org/resource/Evans/Peters/Obst_Productions http://dbpedia.org/resource/Evans,_Robert"
+2,49,S. C. Hardwicke,http://dbpedia.org/resource/Catherine_Hardwicke,http://dbpedia.org/resource/Sir_Cedric_Webster_Hardwicke http://dbpedia.org/resource/Cedric_Webster_Hardwicke http://dbpedia.org/resource/Cedric_Hardwicke http://dbpedia.org/resource/Sir_Cedric_Hardwicke
+2,56,G. Williams,http://dbpedia.org/resource/Pharrell_Williams,http://dbpedia.org/resource/Grant_Williams
+2,57,E. G. Marshall,"http://dbpedia.org/resource/Harold_Alexander,_1st_Earl_Alexander_of_Tunis",http://dbpedia.org/resource/E.G._Marshall http://dbpedia.org/resource/Everett_Eugene_Grunz http://dbpedia.org/resource/EG_Marshall http://dbpedia.org/resource/E_G_Marshall http://dbpedia.org/resource/Eg_marshall http://dbpedia.org/resource/E._G._Marshall
+2,58,R. Allen,http://dbpedia.org/resource/Ronald_Allen,"http://dbpedia.org/resource/Rex_Allen http://dbpedia.org/resource/Rex_Allen,_Sr."
+2,59,E. S. Garcia,http://dbpedia.org/resource/Jerry_Garcia,http://dbpedia.org/resource/Emmanuelle_Schick_Garcia http://dbpedia.org/resource/Emmanuelle_schick_garcia
+2,63,R. Lowe,http://dbpedia.org/resource/Robert_Lowe,http://dbpedia.org/resource/Eddie_Nero http://dbpedia.org/resource/Rob_Lowe http://dbpedia.org/resource/Robert_Hepler_Lowe
+2,64,G. Wilson,http://dbpedia.org/resource/Gerald_Wilson,http://dbpedia.org/resource/Georges_Wilson
+2,74,W. Herzog,"http://dbpedia.org/resource/Prince_Arthur,_Duke_of_Connaught_and_Strathearn","http://dbpedia.org/resource/Werner_Herzog http://dbpedia.org/resource/Werner_Herzog_Stipetić http://dbpedia.org/resource/Werner_Stipetic http://dbpedia.org/resource/Warner_Herzog http://dbpedia.org/resource/Herzog,_Werner http://dbpedia.org/resource/List_of_Werner_Herzog_films http://dbpedia.org/resource/From_One_Second_to_the_Next http://dbpedia.org/resource/Werner_Herzog_Filmproduktion"
+2,77,E. Davis,http://dbpedia.org/resource/Miles_Davis,http://dbpedia.org/resource/Elmer_Holmes_Davis http://dbpedia.org/resource/Elmer_Davis
+2,78,P. O'Byrne,http://dbpedia.org/resource/Gabriel_Byrne,http://dbpedia.org/resource/Paddy_O'Byrne
+2,79,P. O'Byrne,http://dbpedia.org/resource/Gabriel_Byrne,http://dbpedia.org/resource/Paddy_O'Byrne
+2,80,C. Tingwell,http://dbpedia.org/resource/C._C._Stevens,http://dbpedia.org/resource/Charles_Tingwell http://dbpedia.org/resource/Bud_Tingwell http://dbpedia.org/resource/Bud_tingwell http://dbpedia.org/resource/Charles_'Bud'_Tingwell
+2,86,D. Keaton,http://dbpedia.org/resource/Buster_Keaton,http://dbpedia.org/resource/Dianne_Keaton http://dbpedia.org/resource/List_of_awards_and_nominations_received_by_Diane_Keaton http://dbpedia.org/resource/Diane_Hall http://dbpedia.org/resource/Diane_Keaton_filmography http://dbpedia.org/resource/Diane_Keaton
+2,90,B. Brown,http://dbpedia.org/resource/James_Brown,http://dbpedia.org/resource/Bruce_Brown
+2,95,M. Reaves,http://dbpedia.org/resource/Pearl_Reaves,http://dbpedia.org/resource/Matt_Reaves
+2,96,P. Leeds,http://dbpedia.org/resource/Phil_Leeds,http://dbpedia.org/resource/Peter_Leeds
+2,99,D. Sutherland,http://dbpedia.org/resource/Joan_Sutherland,"http://dbpedia.org/resource/Don_Sutherland http://dbpedia.org/resource/Donald_Sutherland http://dbpedia.org/resource/Sutherland,_Donald"
+2,102,C. Evans,http://dbpedia.org/resource/Charles_Evans_Hughes,http://dbpedia.org/resource/Clifford_Evans_(actor)
+2,106,M. Edwards,http://dbpedia.org/resource/Harold_Edwards_(mathematician),http://dbpedia.org/resource/Meredith_Edwards_(actor)
+2,110,S. Jens,http://dbpedia.org/resource/Jens_Stoltenberg,http://dbpedia.org/resource/Salome_Jens
+2,111,G. Kelly,http://dbpedia.org/resource/Gene_Kelly,"http://dbpedia.org/resource/Grace_kelly http://dbpedia.org/resource/Princess_Grace http://dbpedia.org/resource/Grace_Kelly,_Princess_of_Monaco http://dbpedia.org/resource/GracePatriciaKelly http://dbpedia.org/resource/Gracekelly http://dbpedia.org/resource/Grace_of_Monaco http://dbpedia.org/resource/Grace_Patricia_Kelly http://dbpedia.org/resource/Grace_de_Monaco http://dbpedia.org/resource/Grace_Kelly http://dbpedia.org/resource/Gracia,_Princess_of_Monaco http://dbpedia.org/resource/Grace,_Princess_of_Monaco http://dbpedia.org/resource/Princess_Grace_of_Monaco http://dbpedia.org/resource/Grace_of_monaco"
+2,113,V. Brandt,http://dbpedia.org/resource/Józef_Brandt,http://dbpedia.org/resource/Victor_Brandt
+2,116,D. Mullen,http://dbpedia.org/resource/Brendan_Mullen,http://dbpedia.org/resource/Desmond_Mullen
+2,130,C. Francis,http://dbpedia.org/resource/Francis_I_of_France,http://dbpedia.org/resource/Coleman_C._Francis http://dbpedia.org/resource/Coleman_Francis
+2,131,D. Farrar,http://dbpedia.org/resource/Geraldine_Farrar,http://dbpedia.org/resource/David_Farrar_(actor)
+2,132,W. Huston,http://dbpedia.org/resource/John_Huston,http://dbpedia.org/resource/Walter_Huston http://dbpedia.org/resource/Walter_Houghston http://dbpedia.org/resource/Walter_Thomas_Huston http://dbpedia.org/resource/Walter_Thomas_Houghston
+2,135,E. Ando,http://dbpedia.org/resource/Tadao_Ando,http://dbpedia.org/resource/Eiko_Ando
+2,136,K. Brennan,http://dbpedia.org/resource/Eileen_Brennan,http://dbpedia.org/resource/Kevin_Brennan_(actor)

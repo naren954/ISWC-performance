@@ -1,0 +1,22 @@
+F1: 0.31034,Precision: 0.31034,Recall: 0.31034,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,ZMPSTE24,,http://dbpedia.org/resource/ZMPSTE24
+0,2,Wee1,,http://dbpedia.org/resource/Wee_(cell_cycle) http://dbpedia.org/resource/Wee_(kinase) http://dbpedia.org/resource/WEE1 http://dbpedia.org/resource/Wee_1 http://dbpedia.org/resource/Wee1 http://dbpedia.org/resource/WEE1_(gene)
+0,4,USP26,,http://dbpedia.org/resource/USP26
+0,5,ULK2,,http://dbpedia.org/resource/ULK2
+0,6,Telokin,,http://dbpedia.org/resource/Telokin
+0,7,TIE1,,http://dbpedia.org/resource/TIE1 http://dbpedia.org/resource/Tie-1 http://dbpedia.org/resource/TIE-1
+0,8,TGM5,,http://dbpedia.org/resource/TGM5
+0,9,Sucrase-isomaltase,,"http://dbpedia.org/resource/Sucrase-isomaltase_complex http://dbpedia.org/resource/Exo-oligo-1,6-glucosidase http://dbpedia.org/resource/Dextrin_6alpha-glucanohydrolase http://dbpedia.org/resource/Oligosaccharide_6-alpha-glucohydrolase http://dbpedia.org/resource/EC_3.2.1.10 http://dbpedia.org/resource/Dextrin_6-glucanohydrolase http://dbpedia.org/resource/Sucrase-isomaltase http://dbpedia.org/resource/Oligosaccharide_alpha-1,6-glucohydrolase http://dbpedia.org/resource/Oligo-1,6-glucosidase"
+0,11,Sorbitol dehydrogenase,,http://dbpedia.org/resource/Sorbitol_dehydrogenase
+0,12,Serine dehydratase,,http://dbpedia.org/resource/Serine_dehydratase
+0,13,Rhodopsin kinase,,http://dbpedia.org/resource/Rhodopsin_kinase http://dbpedia.org/resource/EC_2.7.11.14 http://dbpedia.org/resource/GRK1 http://dbpedia.org/resource/Rhodopsin_kinase_(phosphorylating) http://dbpedia.org/resource/EC_2.7.1.125 http://dbpedia.org/resource/GPCR_kinase_1 http://dbpedia.org/resource/Cone_opsin_kinase http://dbpedia.org/resource/G-protein-coupled_receptor_kinase_1 http://dbpedia.org/resource/Opsin_kinase_(phosphorylating) http://dbpedia.org/resource/G_protein-coupled_receptor_kinase_1 http://dbpedia.org/resource/Opsin_kinase http://dbpedia.org/resource/ATP:rhodopsin_phosphotransferase http://dbpedia.org/resource/EC_2.7.1.97 http://dbpedia.org/resource/STK14
+0,14,Rho-associated protein kinase,,http://dbpedia.org/resource/Rho-kinase http://dbpedia.org/resource/Rho-associated_protein_kinase http://dbpedia.org/resource/Rho_kinase http://dbpedia.org/resource/Rho-associated_kinase
+0,15,Receptor tyrosine kinase-like orphan receptor,,http://dbpedia.org/resource/Receptor_tyrosine_kinase-like_orphan_receptor
+0,17,Pyrophosphomevalonate decarboxylase,,http://dbpedia.org/resource/Pyrophosphomevalonate_decarboxylase http://dbpedia.org/resource/Mevalonate-5-pyrophosphate_decarboxylase http://dbpedia.org/resource/Mevalonate_pyrophosphate_decarboxylase
+0,19,Protein phosphatase 1,,http://dbpedia.org/resource/Protein_phosphatase_1 http://dbpedia.org/resource/PPP1 http://dbpedia.org/resource/PP1
+0,21,Presenilin,http://dbpedia.org/resource/PSEN2,http://dbpedia.org/resource/Presenilins http://dbpedia.org/resource/Presenilin http://dbpedia.org/resource/PSN2
+0,22,Phosphoglycerate mutase,,http://dbpedia.org/resource/EC_5.4.2.1 http://dbpedia.org/resource/Phosphoglycerate_mutase http://dbpedia.org/resource/EC_2.7.5.3 http://dbpedia.org/resource/Phosphoglyceromutase http://dbpedia.org/resource/MPGM
+0,23,Phosphogluconate dehydrogenase,,http://dbpedia.org/resource/6-phospho-D-gluconate:NAD(P)+_2-oxidoreductase http://dbpedia.org/resource/Phosphogluconate_dehydrogenase http://dbpedia.org/resource/6-phosphogluconate_dehydrogenase http://dbpedia.org/resource/6PGD
+0,24,Phosphoenolpyruvate carboxykinase,,http://dbpedia.org/resource/PEP_carboxykinase http://dbpedia.org/resource/Phosphoenol-pyruvate_carboxy_kinase http://dbpedia.org/resource/PEPCK http://dbpedia.org/resource/Phosphoenolpyruvate_carboxykinase http://dbpedia.org/resource/Phosphoenolpyruvate_carboxykinase_(GTP) http://dbpedia.org/resource/Deficiency_of_phosphoenolpyruvate_carboxykinase http://dbpedia.org/resource/Phosphenolpyruvate_carboxykinase http://dbpedia.org/resource/Phosphoenolpyruvate_carboxykinase_(atp) http://dbpedia.org/resource/Phosphoenolpyruvate_carboxykinase_(gtp) http://dbpedia.org/resource/EC_4.1.1.32 http://dbpedia.org/resource/PEPCK-C_enzyme http://dbpedia.org/resource/GTP:oxaloacetate_carboxy-lyase_(adding_GTP;_phosphoenolpyruvate-forming)
+0,27,PHLPP,,http://dbpedia.org/resource/Phlpp1 http://dbpedia.org/resource/PHLPP http://dbpedia.org/resource/PHLPP-1 http://dbpedia.org/resource/PHLPP2

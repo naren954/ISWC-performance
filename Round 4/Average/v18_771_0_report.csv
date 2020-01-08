@@ -1,0 +1,57 @@
+F1: 0.56349,Precision: 0.56349,Recall: 0.56349,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,Waverly Hill,http://dbpedia.org/resource/Waverly_Hills_Historic_District,http://dbpedia.org/resource/Waverly_Hill
+0,5,Waverly,http://dbpedia.org/resource/Waverley_Cemetery,"http://dbpedia.org/resource/Waverly_(Middleburg,_Virginia)"
+0,6,Waverly,http://dbpedia.org/resource/Waverley_Cemetery,"http://dbpedia.org/resource/Waverley_(Marriottsville,_Maryland) http://dbpedia.org/resource/Waverly_(Marriottsville,_Maryland)"
+0,7,Waverly,http://dbpedia.org/resource/Waverley_Cemetery,"http://dbpedia.org/resource/Waverly_(Leesburg,_Virginia)"
+0,8,Waverly,http://dbpedia.org/resource/Waverley_Cemetery,"http://dbpedia.org/resource/Waverly_(Burnt_Chimney,_Virginia)"
+0,9,Waverley,"http://dbpedia.org/resource/Waverley_(West_Point,_Mississippi)","http://dbpedia.org/resource/Waverley_(Morgantown,_Maryland)"
+0,10,Waveland,http://dbpedia.org/resource/Waveland_State_Historic_Site,"http://dbpedia.org/resource/Waveland_(Marshall,_Virginia)"
+0,11,Waveland,http://dbpedia.org/resource/Waveland_State_Historic_Site,"http://dbpedia.org/resource/Waveland_(Danville,_Kentucky)"
+0,16,Waughtown-Belview Historic District,http://dbpedia.org/resource/Jennys_Lane_Historic_District,http://dbpedia.org/resource/Waughtown-Belview_Historic_District
+0,21,Watts-Hillandale Historic District,http://dbpedia.org/resource/Watts–Hillandale_Historic_District,http://dbpedia.org/resource/Watts-Hillandale_Historic_District
+0,22,Watt-Groce-Fickhardt House,http://dbpedia.org/resource/Watt–Groce–Fickhardt_House,http://dbpedia.org/resource/Watt-Groce-Fickhardt_House
+0,24,Watson Park Historic District,http://dbpedia.org/resource/Mamakating_Park_Historic_District,http://dbpedia.org/resource/Watson_Park_Historic_District
+0,27,Watson-Sanders House,http://dbpedia.org/resource/James_Watson_House,http://dbpedia.org/resource/Watson-Sanders_House
+0,30,Watkins School,http://dbpedia.org/resource/Watkins_Woolen_Mill_State_Park_and_State_Historic_Site,http://dbpedia.org/resource/Watkins_School
+0,36,Watkins-Coleman House,"http://dbpedia.org/resource/Watkins_House_(Keysville,_Virginia)",http://dbpedia.org/resource/Watkins-Coleman_House
+0,46,Waterman Covered Bridge,http://dbpedia.org/resource/Waterford_Covered_Bridge,http://dbpedia.org/resource/Waterman_Covered_Bridge
+0,47,Waterman-Archer House,http://dbpedia.org/resource/William_Archer_House,http://dbpedia.org/resource/Waterman-Archer_House
+0,48,Waterloo Mills Historic District,http://dbpedia.org/resource/Waterloo_Historic_District_(Illinois),http://dbpedia.org/resource/Waterloo_Mills_Historic_District
+0,49,Waterloo Historic District,http://dbpedia.org/resource/Waterloo_Historic_District_(Illinois),"http://dbpedia.org/resource/Waterloo_Historic_District_(Warner,_New_Hampshire) http://dbpedia.org/resource/Waterloo,_New_Hampshire"
+0,52,Waterloo,http://dbpedia.org/resource/Waterloo_Bridge,"http://dbpedia.org/resource/Waterloo_(Princess_Anne,_Maryland)"
+0,53,Waterloo,http://dbpedia.org/resource/Waterloo_Bridge,"http://dbpedia.org/resource/Waterloo_(Albertson,_North_Carolina)"
+0,61,Water Street Historic District,"http://dbpedia.org/resource/Main_Street_Historic_District_(New_Hamburg,_New_York)","http://dbpedia.org/resource/Water_Street_Historic_District_(Torrington,_Connecticut)"
+0,62,Water Avenue Historic District,http://dbpedia.org/resource/Hale_Avenue_Historic_District,http://dbpedia.org/resource/Water_Avenue_Historic_District
+0,68,Washington Vocational School,http://dbpedia.org/resource/Margaret_Murray_Washington_School,http://dbpedia.org/resource/Washington_Vocational_School
+0,71,Washington Street Methodist Church,http://dbpedia.org/resource/Washington_Street_United_Methodist_Church,http://dbpedia.org/resource/Washington_Street_Methodist_Church
+0,72,Washington Street Historic District,"http://dbpedia.org/resource/Washington_Street_Historic_District_(Middletown,_Connecticut)","http://dbpedia.org/resource/Washington_Street_Historic_District_(Valparaiso,_Indiana)"
+0,74,Washington Street Historic District,"http://dbpedia.org/resource/Washington_Street_Historic_District_(Middletown,_Connecticut)","http://dbpedia.org/resource/Washington_Street_Historic_District_(High_Point,_North_Carolina)"
+0,75,Washington Street Historic District,"http://dbpedia.org/resource/Washington_Street_Historic_District_(Middletown,_Connecticut)","http://dbpedia.org/resource/Washington_Street_District,_Cumberland http://dbpedia.org/resource/Washington_Street_Historic_District_(Cumberland,_Maryland)"
+0,77,Washington Street-Monument Circle Historic District,http://dbpedia.org/resource/Washington_Street–Monument_Circle_Historic_District,http://dbpedia.org/resource/Washington_Street-Monument_Circle_Historic_District
+0,80,Washington Spring Road-Woods Road Historic District,http://dbpedia.org/resource/Washington_Spring_Road–Woods_Road_Historic_District,http://dbpedia.org/resource/Washington_Spring_Road-Woods_Road_Historic_District
+0,81,Washington School,"http://dbpedia.org/resource/Washington_School_(Weymouth,_Massachusetts)","http://dbpedia.org/resource/Washington_School_(Ossining,_New_York)"
+0,82,Washington School,"http://dbpedia.org/resource/Washington_School_(Weymouth,_Massachusetts)","http://dbpedia.org/resource/Washington_School_(Logansport,_Indiana)"
+0,83,Washington School,"http://dbpedia.org/resource/Washington_School_(Weymouth,_Massachusetts)","http://dbpedia.org/resource/Washington_School_(Grand_Forks,_North_Dakota)"
+0,87,Washington Park Historic District,"http://dbpedia.org/resource/Washington_Park_Historic_District_(Newton,_Massachusetts)","http://dbpedia.org/resource/Washington_Park_Historic_District_(Winston-Salem,_North_Carolina)"
+0,88,Washington Park Historic District,"http://dbpedia.org/resource/Washington_Park_Historic_District_(Newton,_Massachusetts)","http://dbpedia.org/resource/Washington_Park_Historic_District_(Ottawa,_Illinois)"
+0,90,Washington Park Historic District,"http://dbpedia.org/resource/Washington_Park_Historic_District_(Newton,_Massachusetts)","http://dbpedia.org/resource/Washington_Park_Historic_District_(Indianapolis) http://dbpedia.org/resource/Washington_Park_Historic_District_(Indianapolis,_Indiana)"
+0,91,Washington Park Historic District,"http://dbpedia.org/resource/Washington_Park_Historic_District_(Newton,_Massachusetts)","http://dbpedia.org/resource/Washington_Park_(Albany,_New_York) http://dbpedia.org/resource/Washington_Park_Historic_District_(Albany,_New_York) http://dbpedia.org/resource/Washington_Park_(Albany)"
+0,92,Washington Park,http://dbpedia.org/resource/Washington_Hall_(University_of_Notre_Dame),"http://dbpedia.org/resource/Washington_Park,_Springfield,_Illinois http://dbpedia.org/resource/Washington_Park_(Springfield) http://dbpedia.org/resource/Washington_Park_(Springfield,_Illinois) http://dbpedia.org/resource/Washington_Park_Botanical_Garden"
+0,93,Washington Park,http://dbpedia.org/resource/Washington_Hall_(University_of_Notre_Dame),"http://dbpedia.org/resource/Washington_Park_(Michigan_City,_Indiana)"
+0,94,Washington Park,http://dbpedia.org/resource/Washington_Hall_(University_of_Notre_Dame),"http://dbpedia.org/resource/Washington_Park,_Chicago_(park) http://dbpedia.org/resource/Washington_Park_(Chicago_park)"
+0,100,Washington Historic District,"http://dbpedia.org/resource/Washington_Historic_District_(Washington,_North_Carolina)","http://dbpedia.org/resource/Washington_Historic_District_(Washington,_Virginia)"
+0,102,Washington Green Historic District,"http://dbpedia.org/resource/Washington_Street_Historic_District_(Camden,_Arkansas)",http://dbpedia.org/resource/Washington_Green_Historic_District
+0,103,Washington Graded and High School,http://dbpedia.org/resource/Washington_Junior_High_School_and_Jefferson_Grade_School,http://dbpedia.org/resource/Washington_Graded_and_High_School
+0,104,Washington Downtown Historic District,http://dbpedia.org/resource/Central_Troy_Historic_District,http://dbpedia.org/resource/Washington_Downtown_Historic_District
+0,106,Washington County Courthouse,http://dbpedia.org/resource/Washington_County_Courthouse_(Pennsylvania),http://dbpedia.org/resource/Washington_County_Courthouse_(Rhode_Island)
+0,107,Washington County Courthouse,http://dbpedia.org/resource/Washington_County_Courthouse_(Pennsylvania),"http://dbpedia.org/resource/Washington_County_Courthouse_(Machias,_Maine) http://dbpedia.org/resource/Washington_County_Courthouse_(Maine)"
+0,108,Washington County Courthouse,http://dbpedia.org/resource/Washington_County_Courthouse_(Pennsylvania),"http://dbpedia.org/resource/Washington_County_Courthouse_(Greenville,_Mississippi) http://dbpedia.org/resource/Washington_County_Courthouse_(Mississippi)"
+0,109,Washington County Courthouse,http://dbpedia.org/resource/Washington_County_Courthouse_(Pennsylvania),"http://dbpedia.org/resource/Washington_County_Courthouse_(Georgia) http://dbpedia.org/resource/Washington_County_Courthouse_(Sandersville,_Georgia)"
+0,110,Washington County Courthouse,http://dbpedia.org/resource/Washington_County_Courthouse_(Pennsylvania),"http://dbpedia.org/resource/Washington_County_Courthouse_(Arkansas) http://dbpedia.org/resource/Washington_County_Court_House_(Arkansas) http://dbpedia.org/resource/Washington_County_Courthouse_(Fayetteville,_Arkansas)"
+0,112,Washington Coliseum,http://dbpedia.org/resource/London_Coliseum,http://dbpedia.org/resource/U-Line_Arena http://dbpedia.org/resource/Washington_Coliseum http://dbpedia.org/resource/Uline_Ice_Company_Plant_and_Arena_Complex http://dbpedia.org/resource/Uline_Arena
+0,115,Washington Avenue Historic District,http://dbpedia.org/resource/Washington_Avenue_Historic_District_(Philadelphia),"http://dbpedia.org/resource/Washington_Avenue_Historic_District_(Fredericksburg,_Virginia)"
+0,117,Washington-Willow Historic District,"http://dbpedia.org/resource/Washington_Avenue_Historic_District_(St._Louis,_Missouri)",http://dbpedia.org/resource/Washington-Willow_Historic_District
+0,120,Washburn Square-Leicester Common Historic District,http://dbpedia.org/resource/Washburn_Square–Leicester_Common_Historic_District,http://dbpedia.org/resource/Washburn_Square-Leicester_Common_Historic_District
+0,121,Washburn Historic District,http://dbpedia.org/resource/Washburn_and_Moen_North_Works_District,http://dbpedia.org/resource/Washburn_Historic_District
+0,126,Warsaw Historic District,"http://dbpedia.org/resource/Warsaw_Historic_District_(Warsaw,_North_Carolina)","http://dbpedia.org/resource/Warsaw_Historic_District_(Warsaw,_Illinois)"

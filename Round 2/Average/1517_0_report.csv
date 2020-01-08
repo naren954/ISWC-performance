@@ -1,0 +1,12 @@
+F1: 0.52381,Precision: 0.52381,Recall: 0.52381,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,G. Robinson,http://dbpedia.org/resource/Glenn_Robinson,http://dbpedia.org/resource/Gethin_Robinson
+0,2,G. Walsh,http://dbpedia.org/resource/Gary_Walsh,http://dbpedia.org/resource/Geraint_Walsh
+0,3,G. R. Jones,http://dbpedia.org/resource/T._G._Jones,http://dbpedia.org/resource/Geraint_Rhys_Jones
+0,4,G. Lowe,http://dbpedia.org/resource/Gary_Lowe,http://dbpedia.org/resource/George_Lowe_(rugby_union)
+0,6,G. Smith,"http://dbpedia.org/resource/Greg_Smith_(basketball,_born_1991)",http://dbpedia.org/resource/Garyn_Smith
+0,7,G. Williams,http://dbpedia.org/resource/Gabby_Williams,"http://dbpedia.org/resource/Gareth_Williams_(rugby_union,_born_1988)"
+0,8,G. Williams,http://dbpedia.org/resource/Gabby_Williams,"http://dbpedia.org/resource/Gareth_Williams_(rugby_union,_born_1978) http://dbpedia.org/resource/Gareth_John_Williams"
+0,9,G. Frodsham,http://dbpedia.org/resource/Ian_Frodsham,http://dbpedia.org/resource/Gareth_Frodsham
+0,10,G. Evans,http://dbpedia.org/resource/George_Evans_(basketball),http://dbpedia.org/resource/Gareth_Evans_(English_rugby_player) http://dbpedia.org/resource/Gareth_Evans_(english_rugby_player)
+0,12,G. Chapman,http://dbpedia.org/resource/Gil_Chapman,http://dbpedia.org/resource/Gareth_Chapman

@@ -1,0 +1,4 @@
+F1: 0.84615,Precision: 0.84615,Recall: 0.84615,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,G. Wagner,http://de.dbpedia.org/resource/Gerhard_Wagner_(Fußballspieler),http://dbpedia.org/resource/Grzegorz_Wagner
+0,4,G. Creţu,http://dbpedia.org/resource/Alexandru_Crețu,http://dbpedia.org/resource/Gheorghe_Cretu http://dbpedia.org/resource/Gheorghe_Creţu

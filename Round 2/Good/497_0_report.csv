@@ -1,0 +1,10 @@
+F1: 0.89873,Precision: 0.89873,Recall: 0.89873,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,M. Collins,http://dbpedia.org/resource/Mardy_Collins,http://dbpedia.org/resource/Mo_Collins_(football_player) http://dbpedia.org/resource/Damon_Collins http://dbpedia.org/resource/Damon_Jamal_Collins http://dbpedia.org/resource/Mo_Collins_(American_football)
+0,18,M. Holmes,http://dbpedia.org/resource/Melvin_Holmes,http://dbpedia.org/resource/Mel_Holmes
+0,20,M. McFadden,http://dbpedia.org/resource/Marshall_McFadden,http://dbpedia.org/resource/Marv_McFadden
+0,55,K. Williams,http://dbpedia.org/resource/Kyle_Williams_(defensive_tackle),http://dbpedia.org/resource/Kevin_Williams_(running_back)
+0,58,K. Belcher,http://dbpedia.org/resource/Jovan_Belcher,http://dbpedia.org/resource/Kevin_Belcher_(offensive_tackle)
+0,59,K. Belcher,http://dbpedia.org/resource/Jovan_Belcher,http://dbpedia.org/resource/Kevin_Belcher_(center)
+0,73,J. Robinson,http://dbpedia.org/resource/Jermaine_Robinson,"http://dbpedia.org/resource/Junior_Robinson_(gridiron_football) http://dbpedia.org/resource/David_""Junior""_Lee_Robinson_III http://dbpedia.org/resource/Junior_Robinson_(American_football)"
+0,74,J. James,http://dbpedia.org/resource/John_James_(American_football),http://dbpedia.org/resource/June_James

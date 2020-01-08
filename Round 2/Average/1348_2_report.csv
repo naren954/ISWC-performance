@@ -1,0 +1,8 @@
+F1: 0.62500,Precision: 0.62500,Recall: 0.62500,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,1,C. B. Isakson,http://dbpedia.org/resource/C._B._Macpherson,http://dbpedia.org/resource/Carolina_Barco http://dbpedia.org/resource/Carolina_Barco_Isakson
+2,2,N. Grant,http://de.dbpedia.org/resource/Nia_Grant,http://dbpedia.org/resource/Ellen_Wrenshall_Grant http://dbpedia.org/resource/Nellie_Grant http://dbpedia.org/resource/Ellen_(Nellie)_Wrenshall_Grant
+2,3,M. Milošević,http://dbpedia.org/resource/Slobodan_Milošević,http://dbpedia.org/resource/Marko_Milosevic http://dbpedia.org/resource/Marko_Milošević
+2,6,S. Win,http://dbpedia.org/resource/Ne_Win,http://dbpedia.org/resource/Sandar_Win http://dbpedia.org/resource/Khin_Sandar_Win
+2,9,G. Einaudi,http://dbpedia.org/resource/Luigi_Einaudi,http://dbpedia.org/resource/Giulio_Einaudi http://dbpedia.org/resource/Giulio_einaudi
+2,12,T. Dyachenko,http://dbpedia.org/resource/Alexander_Dyachenko_(actor),http://dbpedia.org/resource/Tatyana_Dyachenko http://dbpedia.org/resource/Tatyana_Yumasheva

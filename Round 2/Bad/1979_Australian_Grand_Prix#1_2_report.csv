@@ -1,0 +1,5 @@
+F1: 0.40000,Precision: 0.40000,Recall: 0.40000,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,1,John Walker,http://dbpedia.org/resource/John_Walker_(runner),http://dbpedia.org/resource/Johnnie_Walker_(racing_driver) http://dbpedia.org/resource/Johnnie_Walker_(motor_racing)
+2,2,John Bowe,http://dbpedia.org/resource/Dick_Johnson_(racing_driver),http://dbpedia.org/resource/John_Bowe_(racing_driver) http://dbpedia.org/resource/John_Bowe_(auto_racing) http://dbpedia.org/resource/John_Bowe_(race_driver) http://dbpedia.org/resource/John_Bowe_(motor_racing)
+2,11,John McCormack,http://dbpedia.org/resource/John_McCormack_(boxer),http://dbpedia.org/resource/John_McCormack_(racing_driver)

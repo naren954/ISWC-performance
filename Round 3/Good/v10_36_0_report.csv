@@ -1,0 +1,15 @@
+F1: 0.90441,Precision: 0.90441,Recall: 0.90441,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,4,S. Harrick,http://dbpedia.org/resource/Jim_Harrick,http://dbpedia.org/resource/Steve_Harrick
+0,9,S. Stone,http://dbpedia.org/resource/Steve_Stone_(baseball),http://dbpedia.org/resource/John_N._Stone http://dbpedia.org/resource/Stein_Stone http://dbpedia.org/resource/John_Stone_(coach) http://dbpedia.org/resource/J._N._Stone
+0,10,S. Sutton,http://dbpedia.org/resource/Scott_Sutton,http://dbpedia.org/resource/Stanley_Sutton
+0,47,S. C. Jr.,http://dbpedia.org/resource/George_Wallace,"http://dbpedia.org/resource/Samuel_Colgate_Jr. http://dbpedia.org/resource/Samuel_Colage,_Jr._(football_coach http://dbpedia.org/resource/Samuel_Colgate,_Jr. http://dbpedia.org/resource/Samuel_Colgate,_Jr._(football_coach)"
+0,65,S. D. Crawford,http://dbpedia.org/resource/Sax_Crawford,http://dbpedia.org/resource/SD_Crawford http://dbpedia.org/resource/S.D._Crawford http://dbpedia.org/resource/S._D._Crawford http://dbpedia.org/resource/S_D_Crawford
+0,67,R. Lewis,http://dbpedia.org/resource/Raymond_Lewis,http://dbpedia.org/resource/Russell_Lewis_(football_coach) http://dbpedia.org/resource/Russell_Lewis_(American_football)
+0,72,R. Cohen,http://dbpedia.org/resource/Rudolph_Cohen,http://dbpedia.org/resource/Russ_Cohen
+0,76,R. Greene,http://dbpedia.org/resource/Ron_Greene,http://dbpedia.org/resource/Royner_Greene
+0,87,R. G. Higginbotham,http://dbpedia.org/resource/Grady_Higginbotham,http://dbpedia.org/resource/Roswell_G._Higginbotham
+0,96,R. Hamilton,http://dbpedia.org/resource/Ralph_Hamilton,http://dbpedia.org/resource/Romie_Hamilton
+0,102,R. Franz,http://de.dbpedia.org/resource/Reinhard_Franz,http://dbpedia.org/resource/Rod_Franz
+0,114,R. Harris,http://dbpedia.org/resource/Reg_Harris,http://dbpedia.org/resource/Robert_Harris_(basketball_coach) http://dbpedia.org/resource/Robert_Harris_(basketball)
+0,134,R. Peters,http://dbpedia.org/resource/Rusty_Peters,http://dbpedia.org/resource/Richard_Peters_(American_football) http://dbpedia.org/resource/Richard_Peters_(football_coach)

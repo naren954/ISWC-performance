@@ -1,0 +1,5 @@
+F1: 0.70000,Precision: 0.70000,Recall: 0.70000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,4,Buddies,http://dbpedia.org/resource/Air_Buddies,http://dbpedia.org/resource/Buddies_(1983_film)
+0,5,Bush Christmas,http://dbpedia.org/resource/Bush_Christmas_(1947_film),http://dbpedia.org/resource/Bush_Christmas
+0,28,Undercover,http://dbpedia.org/resource/Undercover_(1943_film),http://dbpedia.org/resource/Undercover_(1984_film) http://dbpedia.org/resource/Undercover_(1983_film)

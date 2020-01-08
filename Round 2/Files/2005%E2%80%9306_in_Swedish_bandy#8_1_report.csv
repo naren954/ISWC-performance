@@ -1,0 +1,5 @@
+"F1: 0.62500","Precision: 0.62500","Recall: 0.62500"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","1","Hammarby IF","http://dbpedia.org/resource/Hammarby_Fotboll","http://dbpedia.org/resource/Hammarby_IF_Bandy"
+"1","3","VÃ¤sterÃ¥s SK","http://dbpedia.org/resource/Västerås_SK_Fotboll","http://dbpedia.org/resource/Västerås_SK_Bandy"
+"1","5","IFK VÃ¤nersborg","http://dbpedia.org/resource/IFK_Göteborg","http://dbpedia.org/resource/IFK_Vänersborg"

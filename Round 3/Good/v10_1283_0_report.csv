@@ -1,0 +1,6 @@
+F1: 0.88889,Precision: 0.88889,Recall: 0.88889,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,11,Copeland Islands Marine Provincial Park,http://dbpedia.org/resource/Catala_Island_Marine_Provincial_Park,http://dbpedia.org/resource/Copeland_Islands_(British_Columbia) http://dbpedia.org/resource/Copeland_Islands_Marine_Provincial_Park
+0,12,Conkle Lake Provincial Park,http://dbpedia.org/resource/Chain_Lakes_Provincial_Park,http://dbpedia.org/resource/Conkle_Lake_Provincial_Park
+0,26,Christina Lake Provincial Park,http://dbpedia.org/resource/Chain_Lakes_Provincial_Park,http://dbpedia.org/resource/Christina_Lake_Provincial_Park
+0,32,Charlie Lake Provincial Park,http://dbpedia.org/resource/Chain_Lakes_Provincial_Park,http://dbpedia.org/resource/Charlie_Lake_Provincial_Park

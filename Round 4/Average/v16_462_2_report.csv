@@ -1,0 +1,45 @@
+F1: 0.53763,Precision: 0.53763,Recall: 0.53763,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,2,J. C. García,http://dbpedia.org/resource/Jerry_Garcia,http://dbpedia.org/resource/Juan_Carlos_García_(actor) http://dbpedia.org/resource/Juan_Carlos_Garcia_(actor)
+2,5,V. Castro,http://dbpedia.org/resource/Cuba,http://dbpedia.org/resource/Verónica_Castro
+2,13,J. Soler,http://dbpedia.org/resource/Toti_Soler,http://dbpedia.org/resource/Juan_Soler
+2,14,J. Jin-young,"http://dbpedia.org/resource/Park_Jin-young_(entertainer,_born_1994)",http://dbpedia.org/resource/Jin-young_Chang http://dbpedia.org/resource/Jin-yeong_Jang http://dbpedia.org/resource/Jin_Yeong_Jang http://dbpedia.org/resource/Chang_Jin_Young http://dbpedia.org/resource/Jang_Jin-young http://dbpedia.org/resource/Jang_Jin_Young http://dbpedia.org/resource/Jin_Young_Chang http://dbpedia.org/resource/Chang_Jin-young http://dbpedia.org/resource/Jang_Jin-yong http://dbpedia.org/resource/Jang_Jin_Yong http://dbpedia.org/resource/Jin-young_Jang http://dbpedia.org/resource/Jang_Jin-yeong http://dbpedia.org/resource/Jang_Jin_Yeong http://dbpedia.org/resource/Jin_Young_Jang
+2,17,K. Tae-young,"http://dbpedia.org/resource/Kim_Tae-young_(footballer,_born_1987)",http://dbpedia.org/resource/Ki_Tae-young
+2,18,S. Power,http://dbpedia.org/resource/United_States,http://dbpedia.org/resource/Susie_Power_(Actress) http://dbpedia.org/resource/Susie_Power_(actress)
+2,19,D. Greer,http://dbpedia.org/resource/Germaine_Greer,http://dbpedia.org/resource/Dabbs_Greer
+2,22,C. P. Xuan,http://dbpedia.org/resource/P._C._Thomas,http://dbpedia.org/resource/Wayne_Chua_Poi_Suan http://dbpedia.org/resource/Wayne_Chua_(Actress) http://dbpedia.org/resource/Wayne_Chua_(actress) http://dbpedia.org/resource/Wayne_Chua http://dbpedia.org/resource/Chua_Poi_Suan http://dbpedia.org/resource/Cai_Pei_Xuan http://dbpedia.org/resource/Cai_Peixuan
+2,24,R. Lam,http://dbpedia.org/resource/Ringo_Lam,http://dbpedia.org/resource/Raymond_Lam http://dbpedia.org/resource/Raymond_Lam_Fung http://dbpedia.org/resource/林峰 http://dbpedia.org/resource/Lam_Fung http://dbpedia.org/resource/林峯
+2,30,L. Sang-yoon,http://dbpedia.org/resource/Yoon_Sang-hyun,http://dbpedia.org/resource/Lee_Sang-yoon http://dbpedia.org/resource/Lee_Sang-yoon_(actor) http://dbpedia.org/resource/Lee_Sang-Yoon http://dbpedia.org/resource/Lee_Sang-yun
+2,32,M. Fraser,http://dbpedia.org/resource/Malcolm_Fraser,http://dbpedia.org/resource/Moyra_Fraser
+2,34,G. Soto,http://es.dbpedia.org/resource/Ricarte_Soto,http://dbpedia.org/resource/Gabriel_Soto
+2,36,L. Sang-yoon,http://dbpedia.org/resource/Yoon_Sang-hyun,http://dbpedia.org/resource/Lee_Sang-yoon http://dbpedia.org/resource/Lee_Sang-yoon_(actor) http://dbpedia.org/resource/Lee_Sang-Yoon http://dbpedia.org/resource/Lee_Sang-yun
+2,38,Y. Doo-joon,http://dbpedia.org/resource/Chun_Doo-hwan,http://dbpedia.org/resource/Doo_Joon http://dbpedia.org/resource/Doojoon http://dbpedia.org/resource/Yoon_Doo-joon http://dbpedia.org/resource/Yoon_Doojoon
+2,41,G. Antonelli,http://dbpedia.org/resource/Laura_Antonelli,http://dbpedia.org/resource/Giovana_Antonelli http://dbpedia.org/resource/Giovanna_Antonelli
+2,43,W. Chua,http://dbpedia.org/resource/Princess_Leia,http://dbpedia.org/resource/Wayne_Chua_Poi_Suan http://dbpedia.org/resource/Wayne_Chua_(Actress) http://dbpedia.org/resource/Wayne_Chua_(actress) http://dbpedia.org/resource/Wayne_Chua http://dbpedia.org/resource/Chua_Poi_Suan http://dbpedia.org/resource/Cai_Pei_Xuan http://dbpedia.org/resource/Cai_Peixuan
+2,44,L. Theroux,http://dbpedia.org/resource/Paul_Theroux,http://dbpedia.org/resource/By_reason_of_insanity http://dbpedia.org/resource/Lois_Théroux http://dbpedia.org/resource/Louis_Theroux http://dbpedia.org/resource/Lois_Theroux http://dbpedia.org/resource/Louis_therouz http://dbpedia.org/resource/Louis_Theorux
+2,45,L. Theroux,http://dbpedia.org/resource/Paul_Theroux,http://dbpedia.org/resource/By_reason_of_insanity http://dbpedia.org/resource/Lois_Théroux http://dbpedia.org/resource/Louis_Theroux http://dbpedia.org/resource/Lois_Theroux http://dbpedia.org/resource/Louis_therouz http://dbpedia.org/resource/Louis_Theorux
+2,46,L. Theroux,http://dbpedia.org/resource/Paul_Theroux,http://dbpedia.org/resource/By_reason_of_insanity http://dbpedia.org/resource/Lois_Théroux http://dbpedia.org/resource/Louis_Theroux http://dbpedia.org/resource/Lois_Theroux http://dbpedia.org/resource/Louis_therouz http://dbpedia.org/resource/Louis_Theorux
+2,47,C. Williams,http://dbpedia.org/resource/Shirley_Williams,"http://dbpedia.org/resource/Cindy_Williams http://dbpedia.org/resource/Williams,_Cindy"
+2,48,C. Orchestra,http://dbpedia.org/resource/Count_Basie,http://dbpedia.org/resource/The_CBS_Orchestra http://dbpedia.org/resource/The_World's_Most_Dangerous_Band http://dbpedia.org/resource/CBS_Orchestra http://dbpedia.org/resource/World's_Most_Dangerous_Band http://dbpedia.org/resource/Cbs_orchestra
+2,49,T. 8. Band,http://dbpedia.org/resource/Al_Coury,http://dbpedia.org/resource/8G_Band http://dbpedia.org/resource/The_8G_Band
+2,50,T. Roots,http://dbpedia.org/resource/Slovenia,"http://dbpedia.org/resource/James_'Kamal'_Gray http://dbpedia.org/resource/Frank_Knuckles http://dbpedia.org/resource/Roots_(band) http://dbpedia.org/resource/Damon_Bryson http://dbpedia.org/resource/End_Game_(The_Roots_album) http://dbpedia.org/resource/The_End_Game_(album) http://dbpedia.org/resource/The_Square_Roots http://dbpedia.org/resource/Kamal_Gray http://dbpedia.org/resource/Endgame_(The_Roots_album) http://dbpedia.org/resource/The_Roots_(band) http://dbpedia.org/resource/Wadud_Ahmad http://dbpedia.org/resource/The_Roots http://dbpedia.org/resource/Damon_""Tuba_Gooding_Jr.""_Bryson http://dbpedia.org/resource/The_roots http://dbpedia.org/resource/The_Legendary_Roots_Crew http://dbpedia.org/resource/F._Knuckles http://dbpedia.org/resource/Mark_Kelley_(Bassist) http://dbpedia.org/resource/The_Fifth_Dynasty http://dbpedia.org/resource/Wadud_ahmad"
+2,51,C. Orchestra,http://dbpedia.org/resource/Count_Basie,http://dbpedia.org/resource/The_CBS_Orchestra http://dbpedia.org/resource/The_World's_Most_Dangerous_Band http://dbpedia.org/resource/CBS_Orchestra http://dbpedia.org/resource/World's_Most_Dangerous_Band http://dbpedia.org/resource/Cbs_orchestra
+2,53,J. Alemán,http://dbpedia.org/resource/Johann_Sebastian_Bach,http://dbpedia.org/resource/Julio_Aleman http://dbpedia.org/resource/Julio_Alemán http://dbpedia.org/resource/Julio_Méndez_Alemán
+2,58,J. C. Ruiz,http://es.dbpedia.org/resource/Juan_Cruz_(periodista),http://dbpedia.org/resource/Jose_Carlos_Ruíz http://dbpedia.org/resource/Jose_Carlos_Ruiz http://dbpedia.org/resource/José_Carlos_Ruiz
+2,59,R. Bertrand,http://es.dbpedia.org/resource/René_Bertrand,http://dbpedia.org/resource/Rafael_Bertrand
+2,60,M. Rubio,http://dbpedia.org/resource/Marco_Rubio,http://dbpedia.org/resource/María_Rubio http://dbpedia.org/resource/Maria_Rubio
+2,62,A. Arámbula,http://dbpedia.org/resource/Juan_Arambula,http://dbpedia.org/resource/Araceli_Arámbula http://dbpedia.org/resource/Aracely_Arambula http://dbpedia.org/resource/Araceli_Arambula http://dbpedia.org/resource/Aracely_Arámbula
+2,67,B. Khan,http://dbpedia.org/resource/Ali,http://dbpedia.org/resource/Babar_Khan
+2,68,R. Yu,http://dbpedia.org/resource/Serbia,http://dbpedia.org/resource/Yu_Hongyuan http://dbpedia.org/resource/Reen_Yu
+2,72,M. Ruiz,http://dbpedia.org/resource/María_Ruiz_Cruz,http://dbpedia.org/resource/Mariangel_Ruiz http://dbpedia.org/resource/Mariángel_Ruiz
+2,73,A. Felipe,http://dbpedia.org/resource/Salvador_Dalí,http://dbpedia.org/resource/Alejandro_Felipe
+2,74,B. Valdés,http://dbpedia.org/resource/Bebo_Valdés,http://dbpedia.org/resource/Beatriz_Valdés
+2,80,D. Garcia,http://dbpedia.org/resource/Dick_Garcia,http://dbpedia.org/resource/Danna_Garcia http://dbpedia.org/resource/Danna_García
+2,82,A. Fernández,http://dbpedia.org/resource/Cristina_Fernández_de_Kirchner,http://dbpedia.org/resource/Angelines_Fernández
+2,84,E. Á. Félix,http://dbpedia.org/resource/Felix_Jacoby,http://dbpedia.org/resource/Enrique_Álvarez_Félix http://dbpedia.org/resource/Enrique_Alvarez_Felix
+2,87,B. Moss,http://dbpedia.org/resource/Buddy_Moss,http://dbpedia.org/resource/Bertha_Moss
+2,88,S. Abril,http://dbpedia.org/resource/Dolores_Abril,"http://dbpedia.org/resource/Abril,_Silvia http://dbpedia.org/resource/Sílvia_Abril http://dbpedia.org/resource/Silvia_Abril"
+2,89,S. González,http://dbpedia.org/resource/Adolfo_Suárez,http://dbpedia.org/resource/Susana_Gonzalez http://dbpedia.org/resource/Susana_González
+2,90,J. Román,http://es.dbpedia.org/resource/Josele_Román,http://dbpedia.org/resource/Julián_Román
+2,92,M. Alejandra,http://dbpedia.org/resource/Alexandra_of_Denmark,http://dbpedia.org/resource/Mayra_Alejandra
+2,93,P. Rey,http://de.dbpedia.org/resource/Pierre_Rey,http://dbpedia.org/resource/Paola_Andrea_Rey http://dbpedia.org/resource/Paola_Rey

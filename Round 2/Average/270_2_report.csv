@@ -1,0 +1,7 @@
+F1: 0.66667,Precision: 0.66667,Recall: 0.66667,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,1,J. Robinson,http://dbpedia.org/resource/Joe_Robinson_(actor),http://dbpedia.org/resource/Jay_Robinson
+2,4,T. Ritter,http://dbpedia.org/resource/Tex_Ritter,http://dbpedia.org/resource/Thelma_Ritter
+2,5,H. Krüger,http://dbpedia.org/resource/Hans_Krüger,http://dbpedia.org/resource/Hardy_Krüger http://dbpedia.org/resource/Hardy_Kruger http://dbpedia.org/resource/Hardy_Krueger
+2,8,C. Campbell,http://dbpedia.org/resource/Norman_Campbell,http://dbpedia.org/resource/Christa_Campbell http://dbpedia.org/resource/Christa_campbell
+2,11,G. Harker,http://dbpedia.org/resource/Charles_Garrison_Harker,http://dbpedia.org/resource/Gordon_Harker

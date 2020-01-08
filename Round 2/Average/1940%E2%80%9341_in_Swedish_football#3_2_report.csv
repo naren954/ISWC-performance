@@ -1,0 +1,5 @@
+F1: 0.62500,Precision: 0.62500,Recall: 0.62500,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,5,Husqvarna IF,http://dbpedia.org/resource/Husqvarna_FF,http://dbpedia.org/resource/Husqvarna_IF
+2,9,IFK VÃ¤rnamo,http://dbpedia.org/resource/IFK_Göteborg,http://dbpedia.org/resource/IFK_Värnamo
+2,10,MalmÃ¶ BI,http://dbpedia.org/resource/Malmö_FF,http://dbpedia.org/resource/Malmö_BI

@@ -1,0 +1,6 @@
+"F1: 0.42857","Precision: 0.42857","Recall: 0.42857"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","2","Battalion","http://dbpedia.org/resource/Battalion","http://dbpedia.org/resource/Battalion_(WildStorm) http://dbpedia.org/resource/Battalion_(Wildstorm)"
+"0","3","Diva","http://dbpedia.org/resource/Diva_(South_Korean_group)","http://dbpedia.org/resource/Diva_(comics)"
+"0","5","Fuji","http://dbpedia.org/resource/Yuki_Fuji","http://dbpedia.org/resource/Fuji_(comics)"
+"0","10","Winter","http://dbpedia.org/resource/Johnny_Winter","http://dbpedia.org/resource/Nikolas_Kamarov http://dbpedia.org/resource/Winter_(comics)"

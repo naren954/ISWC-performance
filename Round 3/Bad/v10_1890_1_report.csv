@@ -1,0 +1,17 @@
+F1: 0.46429,Precision: 0.46429,Recall: 0.46429,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,C. Chesterton,http://dbpedia.org/resource/G._K._Chesterton,http://dbpedia.org/resource/Cecil_E._Chesterton http://dbpedia.org/resource/C._E._Chesterton http://dbpedia.org/resource/Cecil_Chesterton http://dbpedia.org/resource/Cecil_Edward_Chesterton
+1,2,M. Stewart,http://dbpedia.org/resource/James_Stewart,http://dbpedia.org/resource/Michael_Stewart_(playwright)
+1,5,J. Salt,http://dbpedia.org/resource/John_Salt_(bishop),http://dbpedia.org/resource/Jennifer_Salt
+1,6,P. Phillips,http://dbpedia.org/resource/Peter_Phillips,http://dbpedia.org/resource/Pauline_Esther_Phillips http://dbpedia.org/resource/Pauline_Esther_Friedman_Phillips http://dbpedia.org/resource/Pauline_E._Phillips http://dbpedia.org/resource/Pauline_Friedman http://dbpedia.org/resource/Pauline_Phillips http://dbpedia.org/resource/Pauline_E._Friedman http://dbpedia.org/resource/Pauline_Esther_Friedman http://dbpedia.org/resource/Pauline_Friedman_Phillips
+1,7,B. Price,http://dbpedia.org/resource/Bob_Price_(Texas_politician),http://dbpedia.org/resource/Bruce_Price
+1,8,E. Beskow,http://dbpedia.org/resource/Elsa_Beskow,http://dbpedia.org/resource/Elisabeth_Beskow
+1,9,G. M. Syed,http://dbpedia.org/resource/Annie_M._G._Schmidt,http://dbpedia.org/resource/Syed_Ghulam_Murtaza_Shah http://dbpedia.org/resource/G._M._Syed http://dbpedia.org/resource/G.M._Syed http://dbpedia.org/resource/Ghulam_Murtaza_Shah_Syed http://dbpedia.org/resource/G.M_Syed http://dbpedia.org/resource/G.m_syed http://dbpedia.org/resource/Ghulam_Murtaza_Syed http://dbpedia.org/resource/GM_Syed
+1,10,R. Preston,http://dbpedia.org/resource/Robert_Preston_(actor),http://dbpedia.org/resource/Baron_Dunmore http://dbpedia.org/resource/Richard_Preston
+1,15,M. Landon,http://dbpedia.org/resource/Alf_Landon,http://dbpedia.org/resource/Eugene_Orowitz http://dbpedia.org/resource/Eugene_Maurice_Orowitz http://dbpedia.org/resource/Michael_Landon http://dbpedia.org/resource/Michael_Orowitz http://dbpedia.org/resource/Cindy_Clerico
+1,17,A. Moorehead,http://dbpedia.org/resource/Agnes_Moorehead,http://dbpedia.org/resource/Alan_Moorehead
+1,19,F. Leiber,http://dbpedia.org/resource/Robert_Leiber,"http://dbpedia.org/resource/Fritz_Leiber_Jr. http://dbpedia.org/resource/Fritz_Lieber http://dbpedia.org/resource/Gather,_Darkness http://dbpedia.org/resource/Fritz_Reuter_Leiber,_Jr. http://dbpedia.org/resource/Fritz_Leiber"
+1,21,A. A. Lutz,http://dbpedia.org/resource/Lutz_Graf_Schwerin_von_Krosigk,http://dbpedia.org/resource/Adelia_Armstrong_Lutz
+1,22,A. Borchardt,http://dbpedia.org/resource/Knut_Borchardt,http://dbpedia.org/resource/Alice_Borchardt http://dbpedia.org/resource/Alice_O'Brien_Borchardt http://dbpedia.org/resource/Alice_borchardt http://dbpedia.org/resource/Alice_O'Brien http://dbpedia.org/resource/The_Raven_Warrior
+1,23,O. Olsson,http://dbpedia.org/resource/Otto_Olsson,http://dbpedia.org/resource/Olof_Olsson_(theologian) http://dbpedia.org/resource/Olof_Olsson
+1,26,Joseph Medill Patterson Albright,http://dbpedia.org/resource/Joseph_Medill_Patterson,http://dbpedia.org/resource/Joe_Albright http://dbpedia.org/resource/Joseph_Medill_Patterson_Albright

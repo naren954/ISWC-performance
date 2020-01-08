@@ -1,0 +1,4 @@
+F1: 0.92000,Precision: 0.92000,Recall: 0.92000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,Nobita's the Legend of the Sun King (2000),http://dbpedia.org/resource/Doraemon,http://dbpedia.org/resource/Doraemon:_Nobita's_the_Legend_of_the_Sun_King
+1,16,Nobita's Diary of the Creation of the World (1995),http://dbpedia.org/resource/Doraemon:_Nobita's_Diary_on_the_Creation_of_the_World,http://dbpedia.org/resource/Doraemon:_Nobita's_Diary_of_the_Creation_of_the_World

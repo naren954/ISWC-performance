@@ -1,0 +1,6 @@
+"F1: 0.69231","Precision: 0.69231","Recall: 0.69231"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","1","A. Foreman","http://dbpedia.org/resource/George_Foreman","http://dbpedia.org/resource/Al_Foreman"
+"0","5","A. Bain","http://dbpedia.org/resource/Alex_Bain","http://dbpedia.org/resource/Abie_Bain"
+"0","7","A. Simon","http://dbpedia.org/resource/Sam_Simon","http://dbpedia.org/resource/Abe_Simon"
+"0","12","Ó. González","http://dbpedia.org/resource/Omar_Gonzalez","http://dbpedia.org/resource/Óscar_González_(boxer) http://dbpedia.org/resource/Oscar_Gonzalez_(boxer)"

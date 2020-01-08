@@ -1,0 +1,101 @@
+F1: 0.39264,Precision: 0.39264,Recall: 0.39264,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,4,C. Cash,http://dbpedia.org/resource/Johnny_Cash,http://dbpedia.org/resource/Craig_Cash
+1,5,B. A. Young,http://dbpedia.org/resource/Pierce_M._B._Young,http://dbpedia.org/resource/Bruce_A._Young
+1,7,E. Schwartz,http://dbpedia.org/resource/Evgeny_Schwartz,http://dbpedia.org/resource/Elroy_Schwartz
+1,8,H. Browne,http://dbpedia.org/resource/Malcolm_Browne,http://dbpedia.org/resource/Howard_Browne
+1,10,J. Fusco,http://dbpedia.org/resource/Giovanni_Fusco,http://dbpedia.org/resource/John_Fusco
+1,11,S. Mann,http://dbpedia.org/resource/Thomas_Mann,http://dbpedia.org/resource/Stanley_Mann
+1,12,D. Schneider,http://dbpedia.org/resource/Romy_Schneider,http://dbpedia.org/resource/Dan_Schneider_(film_professional) http://dbpedia.org/resource/Dan_Schneider_(producer) http://dbpedia.org/resource/Dan_Schneider_(TV_producer) http://dbpedia.org/resource/Dan_Schneider_(TV_&_Movie_Producer/Writer/Actor) http://dbpedia.org/resource/Dan_Schneider_(actor) http://dbpedia.org/resource/Daniel_Schneider_(TV_producer) http://dbpedia.org/resource/Dan_James_Schneider http://dbpedia.org/resource/Daniel_James_Schneider
+1,13,D. Roodt,http://dbpedia.org/resource/Dan_Roodt,http://dbpedia.org/resource/Darrell_Roodt http://dbpedia.org/resource/Darrell_James_Roodt
+1,16,B. Richmond,http://dbpedia.org/resource/William_Blake_Richmond,http://dbpedia.org/resource/Bill_Richmond_(writer)
+1,17,E. Larrosa,http://dbpedia.org/resource/Omar_Larrosa,http://dbpedia.org/resource/Emilio_Larrosa http://dbpedia.org/resource/Emilio_larrosa
+1,18,D. Israel,http://dbpedia.org/resource/Isaac_D'Israeli,http://dbpedia.org/resource/David_Israel
+1,19,W. Bernstein,http://dbpedia.org/resource/Henri_Bernstein,http://dbpedia.org/resource/Walter_Bernstein
+1,20,R. R. Pool,http://dbpedia.org/resource/Rachel_Ruysch,http://dbpedia.org/resource/Robert_Roy_Pool http://dbpedia.org/resource/Robert_Pool
+1,22,J. Duff,http://dbpedia.org/resource/Lyman_Duff,http://dbpedia.org/resource/James_Duff_(writer)
+1,23,A. Davies,http://dbpedia.org/resource/Robertson_Davies,http://dbpedia.org/resource/Andrew_Davies_(screenwriter) http://dbpedia.org/resource/Andrew_Davies_(writer)
+1,27,D. Ambrose,http://dbpedia.org/resource/Stephen_E._Ambrose,http://dbpedia.org/resource/David_Ambrose
+1,29,D. Pyle,http://dbpedia.org/resource/Howard_Pyle,http://dbpedia.org/resource/Denver_Pile http://dbpedia.org/resource/Denver_Pyle
+1,30,H. Overman,http://dbpedia.org/resource/Lynne_Overman,http://dbpedia.org/resource/Howard_Overman
+1,31,J. Gurney,http://dbpedia.org/resource/John_Gurney_(judge),http://dbpedia.org/resource/Jim_Gurney http://dbpedia.org/resource/James_Gurney
+1,33,F. Iftikhar,http://dbpedia.org/resource/Arsalan_Iftikhar,http://dbpedia.org/resource/Faiza_Iftikhar http://dbpedia.org/resource/Aik_Nayee_Cinderella
+1,34,B. Starr,http://dbpedia.org/resource/Ringo_Starr,http://dbpedia.org/resource/Ben_Starr_(American_producer) http://dbpedia.org/resource/Ben_Starr
+1,36,T. Jordan,http://dbpedia.org/resource/Michael_Jordan,http://dbpedia.org/resource/Tony_Jordan
+1,38,C. Sobieski,http://dbpedia.org/resource/John_III_Sobieski,http://dbpedia.org/resource/Carol_Sobieski
+1,40,B. Hartman,http://dbpedia.org/resource/Phil_Hartman,"http://dbpedia.org/resource/Butch_Hartman http://dbpedia.org/resource/Billionfold_Studios http://dbpedia.org/resource/Hartman_Productions http://dbpedia.org/resource/Billionfold,_Inc."
+1,41,M. Crook,http://dbpedia.org/resource/John_Crook_(classicist),http://dbpedia.org/resource/Mackenzie_Crook
+1,44,L. Hunter,http://dbpedia.org/resource/Lawrence_Hunter,http://dbpedia.org/resource/Lew_Hunter
+1,45,J. McGibbon,http://dbpedia.org/resource/Cedric_Gibbons,http://dbpedia.org/resource/Josann_McGibbon
+1,50,D. B. Mote,http://dbpedia.org/resource/D._B._Deodhar,http://dbpedia.org/resource/Warehouse_13 http://dbpedia.org/resource/Warehouse_13_(TV_series) http://dbpedia.org/resource/Warehouse_Thirteen http://dbpedia.org/resource/WH13 http://dbpedia.org/resource/D._Brent_Mote
+1,51,B. Schiller,http://dbpedia.org/resource/Karl_Schiller,http://dbpedia.org/resource/Bob_Schiller
+1,52,C. Francis,http://dbpedia.org/resource/Francis_I_of_France,http://dbpedia.org/resource/Clare_Francis http://dbpedia.org/resource/Clare_Mary_Francis
+1,54,D. Jackson,http://dbpedia.org/resource/Michael_Jackson,http://dbpedia.org/resource/David_Jackson_(director) http://dbpedia.org/resource/David_S._Jackson_(director)
+1,55,S. Silliphant,http://de.dbpedia.org/resource/A._S._Samuel,http://dbpedia.org/resource/Sterling_Silliphant http://dbpedia.org/resource/Stirling_Silliphant
+1,59,R. Wesley,"http://dbpedia.org/resource/Arthur_Wellesley,_1st_Duke_of_Wellington",http://dbpedia.org/resource/Richard_Wesley
+1,60,D. Higley,http://dbpedia.org/resource/Marcus_Higley,http://dbpedia.org/resource/Dena_Higley
+1,61,J. Allen,http://dbpedia.org/resource/Joel_Asaph_Allen,http://dbpedia.org/resource/Jim_Allen_(playwright) http://dbpedia.org/resource/Jim_Allen_(writer)
+1,63,J. Reeves-Stevens,,http://dbpedia.org/resource/Judith_&_Garfield_Reeves-Stevens http://dbpedia.org/resource/Judith_Reeves-Stevens http://dbpedia.org/resource/Judith_and_Garfield_Reeves-Stevens http://dbpedia.org/resource/Garfield_Reeves-Stevens
+1,64,G. Tibbles,http://dbpedia.org/resource/Susette_La_Flesche,http://dbpedia.org/resource/George_Tibbles
+1,66,R. Sproat,http://dbpedia.org/resource/Ebenezer_Sproat,http://dbpedia.org/resource/Ron_Sproat
+1,67,G. Sawyer,http://dbpedia.org/resource/Grant_Sawyer,http://dbpedia.org/resource/George_Sawyer
+1,68,L. Henry,http://dbpedia.org/resource/Henry_VIII_of_England,http://dbpedia.org/resource/Sir_Lenny_Henry http://dbpedia.org/resource/Lenny_henry http://dbpedia.org/resource/Lenworth_George_Henry http://dbpedia.org/resource/Lenny_Henry http://dbpedia.org/resource/Delbert_Wilkins http://dbpedia.org/resource/Lenworth_Henry http://dbpedia.org/resource/LENNY_HENRY
+1,70,R. Rose,http://dbpedia.org/resource/Ralph_Rose,http://dbpedia.org/resource/Reginald_Rose
+1,72,C. Pelletier,http://dbpedia.org/resource/Jacques_Pelletier,http://dbpedia.org/resource/KC_McKinnon http://dbpedia.org/resource/K._C._McKinnon http://dbpedia.org/resource/Cathie_Pelletier
+1,73,C. o. Dallas,http://dbpedia.org/resource/Joseph_C._O'Mahoney,http://dbpedia.org/resource/Crew_of_Dallas_(1978-1991) http://dbpedia.org/resource/Crew_of_Dallas_(1978_TV_series) http://dbpedia.org/resource/Crew_of_Dallas_(1978–1991) http://dbpedia.org/resource/Crew_of_Dallas_(1978) http://dbpedia.org/resource/Crew_of_Dallas_(1978_-_1991)
+1,74,A. B. Lewis,http://dbpedia.org/resource/Edward_B._Lewis,http://dbpedia.org/resource/Arthur_Bernard_Lewis
+1,75,D. Jacobs,http://dbpedia.org/resource/Marc_Jacobs,http://dbpedia.org/resource/David_Jacobs_(writer)
+1,76,A. B. Lewis,http://dbpedia.org/resource/Edward_B._Lewis,http://dbpedia.org/resource/Arthur_Bernard_Lewis
+1,77,R. Lees,http://dbpedia.org/resource/Gene_Lees,http://dbpedia.org/resource/Robert_Lees
+1,78,A. Gordon,"http://dbpedia.org/resource/George_Gordon,_5th_Duke_of_Gordon",http://dbpedia.org/resource/Andy_Gordon
+1,79,D. Erickson,http://dbpedia.org/resource/Leif_Erickson_(actor),http://dbpedia.org/resource/Dave_Erickson http://dbpedia.org/resource/David_Erickson
+1,80,S. Stern,http://dbpedia.org/resource/Stewart_Stern,http://dbpedia.org/resource/Sandor_Stern
+1,83,M. Carrillo,http://dbpedia.org/resource/Mary_Carrillo,http://dbpedia.org/resource/Martha_Carrillo
+1,84,S. Gallagher,http://dbpedia.org/resource/Noel_Gallagher,http://dbpedia.org/resource/John_Lydecker http://dbpedia.org/resource/Stephen_Gallagher
+1,90,D. Baker,http://dbpedia.org/resource/Dylan_Baker,http://dbpedia.org/resource/Danny_Baker
+1,91,M. White,http://dbpedia.org/resource/Maurice_White,http://dbpedia.org/resource/Mike_White_(scriptwriter) http://dbpedia.org/resource/Mike_White_(script_writer) http://dbpedia.org/resource/Mike_White_(filmmaker) http://dbpedia.org/resource/Mike_White_(screenwriter)
+1,93,M. Dearborn,http://dbpedia.org/resource/Henry_Dearborn,http://dbpedia.org/resource/Matt_Dearborn
+1,95,E. Reid,http://dbpedia.org/resource/Wallace_Reid,http://dbpedia.org/resource/Elwood_Reid
+1,96,D. Cooper,http://dbpedia.org/resource/Duff_Cooper,http://dbpedia.org/resource/Dennis_Cooper
+1,98,D. Zuker,http://dbpedia.org/resource/David_Zucker_(director),http://dbpedia.org/resource/Danny_Zuker
+1,99,S. Soter,http://dbpedia.org/resource/Ptolemy_I_Soter,http://dbpedia.org/resource/Stephen_soter http://dbpedia.org/resource/Steven_Soter
+1,100,I. Abdur-Rahman,http://dbpedia.org/resource/Ibn_Saud,http://dbpedia.org/resource/Islah_Abdur_Rahman http://dbpedia.org/resource/Izzy_Rahman http://dbpedia.org/resource/Islah_Abdur-Rahman
+1,102,T. Johnson,http://dbpedia.org/resource/Tommy_Johnson_(musician),http://dbpedia.org/resource/Terry_Johnson_(dramatist)
+1,104,L. Cohen,http://dbpedia.org/resource/Leonard_Cohen,http://dbpedia.org/resource/Larry_Cohen
+1,105,M. Wood,http://dbpedia.org/resource/Matthew_Wood_(sound_editor),http://dbpedia.org/resource/Art_of_the_Western_World http://dbpedia.org/resource/Michael_Wood_(historian)
+1,106,S. Grant,http://dbpedia.org/resource/Ulysses_S._Grant,http://dbpedia.org/resource/Susannah_Grant
+1,107,D. Hill,http://dbpedia.org/resource/Damon_Hill,http://dbpedia.org/resource/Debra_Hill
+1,108,G. Hibbert,http://dbpedia.org/resource/George_Hibbert,http://dbpedia.org/resource/Guy_Hibbert
+1,109,B. Shipman,http://dbpedia.org/resource/Harold_Shipman,http://dbpedia.org/resource/Barry_Shipman
+1,110,M. Zinberg,http://dbpedia.org/resource/Ed_Lacy,http://dbpedia.org/resource/Michael_Zinberg
+1,112,B. Bailey,http://dbpedia.org/resource/Edward_Battersby_Bailey,http://dbpedia.org/resource/Tinsel_worm http://dbpedia.org/resource/Tinsel_Worm http://dbpedia.org/resource/Tinselworm http://dbpedia.org/resource/Dandelion_Mind http://dbpedia.org/resource/Bewilderness http://dbpedia.org/resource/Part_Troll http://dbpedia.org/resource/Cosmic_Jam http://dbpedia.org/resource/Billbailey.co.uk http://dbpedia.org/resource/Bill_Bailey
+1,115,C. Haas,http://dbpedia.org/resource/Christl_Haas,http://dbpedia.org/resource/Clark_Haas
+1,116,M. Olson,http://dbpedia.org/resource/Mancur_Olson,http://dbpedia.org/resource/Martin_Olson
+1,117,A. Berg,http://dbpedia.org/resource/Alban_Berg,http://dbpedia.org/resource/Alec_Berg http://dbpedia.org/resource/Alec_berg
+1,120,O. H. II,http://dbpedia.org/resource/Barack_Obama,"http://dbpedia.org/resource/Oscar_Hammerstein,_2nd. http://dbpedia.org/resource/Oscar_Hammerstein,_II http://dbpedia.org/resource/II_Hammerstein_Oscar http://dbpedia.org/resource/Oscar_Greeley_Clendenning_Hammerstein http://dbpedia.org/resource/Oscar_Hammerstein_II http://dbpedia.org/resource/Oscar_Greeley_Clendenning_Hammerstein_II http://dbpedia.org/resource/Hammerstein,_Oscar,_II http://dbpedia.org/resource/Oscar,_II_Hammerstein http://dbpedia.org/resource/Oscar_II_Hammerstein"
+1,122,O. H. II,http://dbpedia.org/resource/Barack_Obama,"http://dbpedia.org/resource/Oscar_Hammerstein,_2nd. http://dbpedia.org/resource/Oscar_Hammerstein,_II http://dbpedia.org/resource/II_Hammerstein_Oscar http://dbpedia.org/resource/Oscar_Greeley_Clendenning_Hammerstein http://dbpedia.org/resource/Oscar_Hammerstein_II http://dbpedia.org/resource/Oscar_Greeley_Clendenning_Hammerstein_II http://dbpedia.org/resource/Hammerstein,_Oscar,_II http://dbpedia.org/resource/Oscar,_II_Hammerstein http://dbpedia.org/resource/Oscar_II_Hammerstein"
+1,123,T. Inoue,http://dbpedia.org/resource/Takehiko_Inoue,http://dbpedia.org/resource/Inoue_Toshiki http://dbpedia.org/resource/井上敏樹 http://dbpedia.org/resource/Toshiki_Inoue
+1,124,T. Inoue,http://dbpedia.org/resource/Takehiko_Inoue,http://dbpedia.org/resource/Inoue_Toshiki http://dbpedia.org/resource/井上敏樹 http://dbpedia.org/resource/Toshiki_Inoue
+1,125,W. Jing,http://dbpedia.org/resource/Chen_Jing_(table_tennis),http://dbpedia.org/resource/Wong_Jing
+1,128,R. Mediaworks,http://dbpedia.org/resource/R._Macors,http://dbpedia.org/resource/Radaan_Mediaworks
+1,129,S. Gallagher,http://dbpedia.org/resource/Noel_Gallagher,http://dbpedia.org/resource/John_Lydecker http://dbpedia.org/resource/Stephen_Gallagher
+1,131,J. Eliason,http://dbpedia.org/resource/Don_Eliason,http://dbpedia.org/resource/Joyce_Eliason
+1,132,G. Murray,http://dbpedia.org/resource/George_Murray_(British_Army_officer),http://dbpedia.org/resource/Gordon_Murray_(puppeteer)
+1,134,C. Arquette,http://dbpedia.org/resource/Rosanna_Arquette,http://dbpedia.org/resource/Charley_Weaver http://dbpedia.org/resource/Cliff_Arquette
+1,136,T. Inoue,http://dbpedia.org/resource/Takehiko_Inoue,http://dbpedia.org/resource/Inoue_Toshiki http://dbpedia.org/resource/井上敏樹 http://dbpedia.org/resource/Toshiki_Inoue
+1,137,T. Inoue,http://dbpedia.org/resource/Takehiko_Inoue,http://dbpedia.org/resource/Inoue_Toshiki http://dbpedia.org/resource/井上敏樹 http://dbpedia.org/resource/Toshiki_Inoue
+1,140,J. Sandford,http://dbpedia.org/resource/James_Wallace_Sandford,http://dbpedia.org/resource/Jeremy_Sandford
+1,141,C. Bennett,http://dbpedia.org/resource/Constance_Bennett,http://dbpedia.org/resource/Charles_Bennett_(screenwriter)
+1,142,M. Graham,http://dbpedia.org/resource/Martha_Graham,"http://dbpedia.org/resource/Graham,_Matthew http://dbpedia.org/resource/Matthew_Graham"
+1,143,B. Fuller,http://dbpedia.org/resource/Buckminster_Fuller,http://dbpedia.org/resource/Brian_Fuller http://dbpedia.org/resource/The_Fullerverse http://dbpedia.org/resource/Bryan_Fuller
+1,144,D. Clair,http://dbpedia.org/resource/René_Clair,http://dbpedia.org/resource/Dick_Clair
+1,147,S. Dollard,http://dbpedia.org/resource/John_Dollard,http://dbpedia.org/resource/Sarah_Dollard
+1,150,D. Ingalls,http://dbpedia.org/resource/Mary_Ingalls,http://dbpedia.org/resource/Donald_G._Ingalls http://dbpedia.org/resource/Don_Ingalls http://dbpedia.org/resource/Donald_Ingalls
+1,154,I. Carney,http://dbpedia.org/resource/Art_Carney,http://dbpedia.org/resource/Ian_Carney
+1,155,D. Brittain,http://dbpedia.org/resource/Vera_Brittain,http://dbpedia.org/resource/Donald_Brittain
+1,156,R. Preddy,http://dbpedia.org/resource/George_Preddy,http://dbpedia.org/resource/Richard_Preddy
+1,158,J. Brown,http://dbpedia.org/resource/James_Brown,"http://dbpedia.org/resource/Brown,_Julie http://dbpedia.org/resource/Julie_Brown http://dbpedia.org/resource/Smell_the_Glamour"
+1,159,J. Murray,http://dbpedia.org/resource/John_Murray_(oceanographer),http://dbpedia.org/resource/Joe_Murray_Productions http://dbpedia.org/resource/Joe_Murray_(cartoonist) http://dbpedia.org/resource/Joe_Murray_Television_Productions http://dbpedia.org/resource/Joe_Murray_(animator)
+1,161,P. Moffat,http://dbpedia.org/resource/Donald_Moffat,http://dbpedia.org/resource/Peter_Moffat
+1,162,G. Murray,http://dbpedia.org/resource/George_Murray_(British_Army_officer),http://dbpedia.org/resource/Gordon_Murray_(puppeteer)
+1,163,E. C. Wilson,http://dbpedia.org/resource/Edmund_Wilson,http://dbpedia.org/resource/Erin_Cressida_Wilson

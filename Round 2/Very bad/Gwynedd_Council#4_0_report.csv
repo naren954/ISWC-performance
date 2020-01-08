@@ -1,0 +1,11 @@
+F1: 0.18182,Precision: 0.18182,Recall: 0.18182,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Aberdovey,http://dbpedia.org/resource/Aberdovey_railway_station,"http://dbpedia.org/resource/Aberdyfi http://dbpedia.org/resource/Aberdovey http://dbpedia.org/resource/Clychau_Aberdyfi http://dbpedia.org/resource/Aberdovey,_Gwynedd http://dbpedia.org/resource/Aberdovey_(Wales)"
+0,2,Barmouth,http://dbpedia.org/resource/Barmouth_Bridge,"http://dbpedia.org/resource/Y_Bermo http://dbpedia.org/resource/Barmoth http://dbpedia.org/resource/Barmouth http://dbpedia.org/resource/Abermaw http://dbpedia.org/resource/Barmouth,_Wales"
+0,3,Bala,http://dbpedia.org/resource/Handball,"http://dbpedia.org/resource/Y_Bala http://dbpedia.org/resource/Bala,_Wales http://dbpedia.org/resource/Bala,_Gwynedd http://dbpedia.org/resource/Bala,_Merionethshire"
+0,10,Dyffryn Ardudwy,http://dbpedia.org/resource/Dyffryn_Ardudwy_railway_station,http://dbpedia.org/resource/Dyffryn_ardudwy http://dbpedia.org/resource/Dyffryn_Ardudwy
+0,12,Llanbedr,"http://dbpedia.org/resource/University_of_Wales,_Lampeter","http://dbpedia.org/resource/Llanbedr http://dbpedia.org/resource/Gwynfryn,_Gwynedd http://dbpedia.org/resource/Llanbedr,_Gwynedd"
+0,13,Llandderfel,http://dbpedia.org/resource/Llandderfel_railway_station,"http://dbpedia.org/resource/Rhiwlas,_Llandderfel http://dbpedia.org/resource/Llandderfel"
+0,17,Penrhyndeudraeth,http://dbpedia.org/resource/Penrhyndeudraeth_F.C.,http://dbpedia.org/resource/Penrhyndeudraeth
+0,19,Trawsfynydd,http://dbpedia.org/resource/Trawsfynydd_nuclear_power_station,http://dbpedia.org/resource/Trawsfynydd
+0,20,Tywyn,http://dbpedia.org/resource/Tywyn_&_Bryncrug_F.C.,http://dbpedia.org/resource/Tywyn

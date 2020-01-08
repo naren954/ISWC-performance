@@ -1,0 +1,4 @@
+F1: 0.81818,Precision: 0.81818,Recall: 0.81818,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,1,D. Popova,http://dbpedia.org/resource/Darya_Popova,http://dbpedia.org/resource/Daria_Popova
+3,9,N. Zabijako,http://dbpedia.org/resource/Natalya_Zabiyako,http://dbpedia.org/resource/Natalja_Zabijako http://dbpedia.org/resource/Natalia_Zabijako

@@ -1,0 +1,6 @@
+"F1: 0.78947","Precision: 0.78947","Recall: 0.78947"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","4","America","http://dbpedia.org/resource/America_(America_album)","http://dbpedia.org/resource/America_(Paul_Simon_song) http://dbpedia.org/resource/America_(Simon_and_Garfunkel_song) http://dbpedia.org/resource/America_(Simon_&_Garfunkel_song) http://dbpedia.org/resource/America_(First_Aid_Kit's_Single)"
+"0","10","All I Wanna Do","http://dbpedia.org/resource/All_I_Wanna_Do_(Sheryl_Crow_song)","http://dbpedia.org/resource/All_I_Wanna_Do_(The_Beach_Boys_song) http://dbpedia.org/resource/All_I_Wanna_Do_(Beach_Boys_song)"
+"0","12","After All","http://dbpedia.org/resource/After_All_(The_Miracles_song)","http://dbpedia.org/resource/After_All_(David_Bowie_song)"
+"0","19","1983...","http://dbpedia.org/resource/Scarface_(1983_film)","http://dbpedia.org/resource/1983..._(A_Merman_I_Should_Turn_to_Be)"" http://dbpedia.org/resource/1983_A_Merman_I_Should_Be http://dbpedia.org/resource/1983..._(A_Merman_I_Should_Turn_to_Be) http://dbpedia.org/resource/1983_(A_Merman_I_Should_Turn_to_Be) http://dbpedia.org/resource/1983..._(A_Merman_I_Should_Turn_To_Be)"

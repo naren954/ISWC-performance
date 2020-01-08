@@ -1,0 +1,7 @@
+F1: 0.83871,Precision: 0.83871,Recall: 0.83871,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,È. Curie,http://dbpedia.org/resource/Marie_Curie,http://dbpedia.org/resource/Ève_Curie http://dbpedia.org/resource/Eve_Curie_Labouisse http://dbpedia.org/resource/Eve_Curie_LaBouisse http://dbpedia.org/resource/Eve_Curie
+0,14,J. T. Jr.,http://dbpedia.org/resource/James_Tallmadge_Jr.,"http://dbpedia.org/resource/Raccoona_Sheldon http://dbpedia.org/resource/James_Tiptree http://dbpedia.org/resource/Racoona_Sheldon http://dbpedia.org/resource/James_Tiptree_Junior http://dbpedia.org/resource/James_Tiptree,_Jnr. http://dbpedia.org/resource/Alice_Sheldon http://dbpedia.org/resource/Alice_B._Sheldon http://dbpedia.org/resource/James_Tiptree,_Jr. http://dbpedia.org/resource/James_Tiptree_Jr http://dbpedia.org/resource/James_Tiptree_Jr. http://dbpedia.org/resource/Alice_Hastings_Bradley_Sheldon http://dbpedia.org/resource/James_Tiptree,_Jr http://dbpedia.org/resource/James_M._Tiptree,_Jr http://dbpedia.org/resource/Alice_Bradley_Sheldon"
+0,26,E. Mitchell,http://dbpedia.org/resource/Margaret_Mitchell,http://dbpedia.org/resource/Elyne_Mitchell
+0,30,A. Arlen,http://dbpedia.org/resource/Harold_Arlen,http://dbpedia.org/resource/Alice_Albright http://dbpedia.org/resource/Alice_Albright_Hoge http://dbpedia.org/resource/Alice_Arlen
+0,31,È. Curie,http://dbpedia.org/resource/Marie_Curie,http://dbpedia.org/resource/Ève_Curie http://dbpedia.org/resource/Eve_Curie_Labouisse http://dbpedia.org/resource/Eve_Curie http://dbpedia.org/resource/Eve_Curie_LaBouisse

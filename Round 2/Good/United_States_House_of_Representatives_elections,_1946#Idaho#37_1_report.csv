@@ -1,0 +1,4 @@
+F1: 0.93939,Precision: 0.93939,Recall: 0.93939,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,4,John E. Sheridan,http://dbpedia.org/resource/John_E._Sheridan_(politician),http://dbpedia.org/resource/John_E._Sheridan http://dbpedia.org/resource/John_Edward_Sheridan
+1,25,Louis E. Graham,http://dbpedia.org/resource/Lindsey_Graham,http://dbpedia.org/resource/Louis_Edward_Graham http://dbpedia.org/resource/Louis_E._Graham http://dbpedia.org/resource/Louis_Graham

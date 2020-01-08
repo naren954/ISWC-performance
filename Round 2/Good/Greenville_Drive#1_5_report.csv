@@ -1,0 +1,4 @@
+F1: 0.80000,Precision: 0.80000,Recall: 0.80000,,
+Col,Row,Value,Submitted URI,Correct URI's
+5,10,Darren Fenster,http://dbpedia.org/resource/Darren_Mew,http://dbpedia.org/resource/Darren_Fenster
+5,11,Darren Fenster,http://dbpedia.org/resource/Darren_Mew,http://dbpedia.org/resource/Darren_Fenster

@@ -1,0 +1,4 @@
+F1: 0.71429,Precision: 0.71429,Recall: 0.71429,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,3,Dinner with Friends,http://dbpedia.org/resource/Dinner_with_Friends_(film),http://dbpedia.org/resource/Dinner_with_Friends http://dbpedia.org/resource/Dinner_With_Friends
+1,4,Hard Cash,http://dbpedia.org/resource/Hard_Cash_(2002_film),http://dbpedia.org/resource/Hard_Cash http://dbpedia.org/resource/Run_for_the_Money

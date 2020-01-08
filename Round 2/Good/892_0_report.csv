@@ -1,0 +1,6 @@
+F1: 0.80952,Precision: 0.80952,Recall: 0.80952,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,6,Grace Lutheran Church,http://dbpedia.org/resource/Grace_Lutheran_Church,"http://dbpedia.org/resource/Grace_Lutheran_Church,_Uniontown,_Missouri http://dbpedia.org/resource/Grace_Lutheran_Church_(Uniontown,_Missouri)"
+0,10,"Fatima Parish, Kolkata","http://dbpedia.org/resource/Our_Lady_of_Fatima_Church,_Karachi","http://dbpedia.org/resource/Fatima_parish_kolkata http://dbpedia.org/resource/Fatima_Parish,_Kolkata"
+0,19,Concordia Lutheran Church,"http://dbpedia.org/resource/Concordia_Lutheran_High_School_(Fort_Wayne,_Indiana)","http://dbpedia.org/resource/Concordia_Lutheran_Church_(Frohna,_Missouri)"
+0,21,Church of Our Lady,http://dbpedia.org/resource/Church_of_Our_Lady_of_Laeken,"http://dbpedia.org/resource/Copehagen_Cathedral http://dbpedia.org/resource/Church_of_Our_Lady_(Copenhagen) http://dbpedia.org/resource/Vor_Frue_Kirke_(Copenhagen) http://dbpedia.org/resource/Copenhagen_Cathedral http://dbpedia.org/resource/Church_of_Our_Lady,_Copenhagen"

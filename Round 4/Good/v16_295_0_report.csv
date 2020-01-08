@@ -1,0 +1,9 @@
+F1: 0.89706,Precision: 0.89706,Recall: 0.89706,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,16,G. Berger,http://dbpedia.org/resource/Georges_Berger,http://dbpedia.org/resource/Gerhard_Berger
+0,21,G. Constantine,http://dbpedia.org/resource/George_Constantine_(racing_driver),http://dbpedia.org/resource/George_Constantine
+0,25,G. Lees,http://dbpedia.org/resource/Geoff_Lees_(racing_driver),http://dbpedia.org/resource/Geoff_Lees
+0,29,G. Brabham,http://dbpedia.org/resource/Jack_Brabham,http://dbpedia.org/resource/Gary_Brabham
+0,45,E. Martin,http://dbpedia.org/resource/Evelyn_Martin_(cricketer),http://dbpedia.org/resource/Eugène_Martin http://dbpedia.org/resource/Eugene_Martin
+0,46,E. Martin,http://dbpedia.org/resource/Evelyn_Martin_(cricketer),http://dbpedia.org/resource/Eugène_Martin http://dbpedia.org/resource/Eugene_Martin
+0,66,E. Johnson,http://dbpedia.org/resource/Ernest_Johnson_(cyclist),http://dbpedia.org/resource/Eddie_Johnson_(racing_driver) http://dbpedia.org/resource/Eddie_Johnson_(auto_racer)

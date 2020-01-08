@@ -1,0 +1,6 @@
+"F1: 0.00000","Precision: 0.00000","Recall: 0.00000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","1","with Italy[note 1]","http://dbpedia.org/resource/Order_of_Merit_of_the_Italian_Republic","http://dbpedia.org/resource/Swiss–Italian_border"
+"0","2","with France[note 2]","http://dbpedia.org/resource/Croix_de_guerre_1914–1918_(France)","http://dbpedia.org/resource/France–Switzerland_border"
+"0","3","with Germany[note 3]","http://dbpedia.org/resource/Order_of_Merit_of_the_Federal_Republic_of_Germany","http://dbpedia.org/resource/German-Swiss_border http://dbpedia.org/resource/Germany–Switzerland_border http://dbpedia.org/resource/Swiss-German_border http://dbpedia.org/resource/Germany-Switzerland_border"
+"0","4","with Austria[note 4]","http://dbpedia.org/resource/Decoration_of_Honour_for_Services_to_the_Republic_of_Austria","http://dbpedia.org/resource/Austria–Switzerland_border"

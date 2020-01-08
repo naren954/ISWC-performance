@@ -1,0 +1,30 @@
+F1: 0.76667,Precision: 0.76667,Recall: 0.76667,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Something,http://dbpedia.org/resource/Say_Something_(A_Great_Big_World_song),http://dbpedia.org/resource/Something_(The_Beatles_song) http://dbpedia.org/resource/Something_(Beatles_song)
+0,4,Soldier Boy,http://dbpedia.org/resource/Soldier_Boy_(The_Shirelles_song),http://dbpedia.org/resource/Soldier_Boy_(song)
+0,10,She's Not You,http://dbpedia.org/resource/She's_Got_You,http://dbpedia.org/resource/She_Is_Not_You http://dbpedia.org/resource/She's_Not_You
+0,13,Self Control,http://dbpedia.org/resource/Self_Control_(album),http://dbpedia.org/resource/Self_Control_(Raf_song) http://dbpedia.org/resource/Self_Control_(Laura_Branigan_song)
+0,14,See You,http://dbpedia.org/resource/See_You_(Depeche_Mode_song),http://dbpedia.org/resource/See_You_(song)
+0,19,Run to You,http://dbpedia.org/resource/Run_to_You_(Whitney_Houston_song),http://dbpedia.org/resource/Run_to_You_(Bryan_Adams_song)
+0,25,Regrets,http://dbpedia.org/resource/Regrets_(Mylène_Farmer_and_Jean-Louis_Murat_song),http://dbpedia.org/resource/Regrets_(Mylène_Farmer_song) http://dbpedia.org/resource/Regrets_(song)
+0,29,Radioactive,http://dbpedia.org/resource/Radioactive_(Kings_of_Leon_song),http://dbpedia.org/resource/Radioactive_(Imagine_Dragons_song)
+0,35,Predictable,http://dbpedia.org/resource/Predictable_(Good_Charlotte_song),http://dbpedia.org/resource/Predictable_(Delta_Goodrem_song)
+0,38,Please Please Me,http://dbpedia.org/resource/Easy_Please_Me,http://dbpedia.org/resource/Please_Please_Me_(song)
+0,39,Please Mr. Postman,http://dbpedia.org/resource/Please_Mr._Lostman,"http://dbpedia.org/resource/Wait_a_minute_mr._postman http://dbpedia.org/resource/Please_Mr_Postman http://dbpedia.org/resource/Please_Mr._Postman_(The_Beatles_song) http://dbpedia.org/resource/Please_Mister_Postman http://dbpedia.org/resource/Please_Mr._Postman http://dbpedia.org/resource/Please,_Mr._Postman http://dbpedia.org/resource/Wait_a_minute_Mr._Postman http://dbpedia.org/resource/Mr._postman http://dbpedia.org/resource/Wait_a_Minute_Mr._Postman http://dbpedia.org/resource/Wait_a_minute_Mister_Postman http://dbpedia.org/resource/Wait_a_Minute_Mister_Postman"
+0,47,Out of the Blue,http://dbpedia.org/resource/Out_of_the_Blue_(Debbie_Gibson_song),http://dbpedia.org/resource/Out_of_the_Blue_(Delta_Goodrem_Song) http://dbpedia.org/resource/Out_of_the_Blue_(Delta_Goodrem_song)
+0,51,One More Night,http://dbpedia.org/resource/One_More_Night_(Maroon_5_song),http://dbpedia.org/resource/One_More_Night_(Phil_Collins_song)
+0,52,One,http://dbpedia.org/resource/One-X,http://dbpedia.org/resource/One_(3_Dog_Night_song) http://dbpedia.org/resource/1_is_the_loneliest_number http://dbpedia.org/resource/One_(Filter_song) http://dbpedia.org/resource/One_(Is_the_Loneliest_Number) http://dbpedia.org/resource/One_Is_the_Loneliest_Number http://dbpedia.org/resource/One_(Harry_Nilsson_song) http://dbpedia.org/resource/One_(Three_Dog_Night_song) http://dbpedia.org/resource/1_(3_Dog_Night_song) http://dbpedia.org/resource/1_(Three_Dog_Night_song)
+0,55,No Surprise,http://dbpedia.org/resource/No_Surprises,http://dbpedia.org/resource/No_Surprise_(Daughtry_song) http://dbpedia.org/resource/No_Surprise_(Daughtry)
+0,68,Miss You,http://dbpedia.org/resource/Miss_You_(Aaliyah_song),http://dbpedia.org/resource/Miss_You_(The_Rolling_Stones_song) http://dbpedia.org/resource/Miss_You_(Rolling_Stone_song)
+0,71,Marie,http://fr.dbpedia.org/resource/Marie_(roman_de_Marek_Halter),http://dbpedia.org/resource/Marie_(song)
+0,72,Mandy,http://dbpedia.org/resource/Brandy_(Scott_English_song),http://dbpedia.org/resource/Mandy_(Westlife_version) http://dbpedia.org/resource/Mandy_(English_and_Kerr_song) http://dbpedia.org/resource/Mandy_(song) http://dbpedia.org/resource/Mandy_(1971_song) http://dbpedia.org/resource/Mandy_(Westlife_Version) http://dbpedia.org/resource/Mandy_(1974_song)
+0,80,Lonely Days,http://dbpedia.org/resource/Lonely_Day,http://dbpedia.org/resource/Lonely_Days http://dbpedia.org/resource/Lonely_Days_(Bee_Gees_song)
+0,83,Let It Be,http://dbpedia.org/resource/Let_It_Be_Me_(The_Everly_Brothers_song),http://dbpedia.org/resource/Write_in_C http://dbpedia.org/resource/Let_It_Be_(song) http://dbpedia.org/resource/Let_it_Be_(song) http://dbpedia.org/resource/Let_It_Be_(The_Beatles_song)
+0,86,Let's Get It On,http://dbpedia.org/resource/Let's_Get_It_In,http://dbpedia.org/resource/Let's_Get_It_On_(song) http://dbpedia.org/resource/Lets_Get_It_On_(song)
+0,90,Last Kiss,http://dbpedia.org/resource/Last_Kiss_(Bonnie_Pink_song),http://dbpedia.org/resource/Last_Kiss
+0,93,Kiss,http://dbpedia.org/resource/Kiss_(Mai_Kuraki_song),http://dbpedia.org/resource/Kiss_(Prince_song) http://dbpedia.org/resource/Kiss_(Art_of_Noise_song) http://dbpedia.org/resource/Kiss_(Tom_Jones_song) http://dbpedia.org/resource/Kisspower
+0,94,Killer,http://it.dbpedia.org/resource/Killer_(Baby_K),"http://dbpedia.org/resource/Killer_(atb) http://dbpedia.org/resource/Killer_(Adamski_song) http://dbpedia.org/resource/Killer_(Seal_song) http://dbpedia.org/resource/""Killer""_(1990)"
+0,103,Jean,http://dbpedia.org/resource/Wyclef_Jean,http://dbpedia.org/resource/Jean_(song)
+0,116,If,http://dbpedia.org/resource/(if),http://dbpedia.org/resource/If_(Janet_Jackson_song)
+0,118,I Want to Hold Your Hand,http://dbpedia.org/resource/I_Want_to_Hold_Your_Hand_(album),"http://dbpedia.org/resource/I_want_to_hold_your_hand http://dbpedia.org/resource/Iwthyh http://dbpedia.org/resource/I_Want_to_Hold_Your_Hand http://dbpedia.org/resource/Komm,_Gib_Mir_Deine http://dbpedia.org/resource/I_Wanna_Hold_Your_Hand http://dbpedia.org/resource/I_wanna_hold_your_hand http://dbpedia.org/resource/I_Want_to_Hold_Your_Hand_(The_Beatles_song) http://dbpedia.org/resource/I_Want_To_Hold_Your_Hand"
+0,120,I Want You Back,http://dbpedia.org/resource/Hot_Stuff_(Donna_Summer_song),http://dbpedia.org/resource/I_Want_You_Back http://dbpedia.org/resource/I_Want_You_Back_(song)

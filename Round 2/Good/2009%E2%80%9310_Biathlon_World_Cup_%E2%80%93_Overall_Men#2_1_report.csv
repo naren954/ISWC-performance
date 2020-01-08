@@ -1,0 +1,12 @@
+F1: 0.89899,Precision: 0.89899,Recall: 0.89899,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,17,Maxim Tchoudov (RUS),http://dbpedia.org/resource/Maxim_Chudov,http://dbpedia.org/resource/Maxim_Choudov http://dbpedia.org/resource/Maxim_Tsjudov http://dbpedia.org/resource/Maxim_Tchoudov
+1,26,Sergey Novikov (BLR),http://dbpedia.org/resource/Sergei_Novikov_(mathematician),http://dbpedia.org/resource/Sergey_Novikov_(biathlete) http://dbpedia.org/resource/Sergei_Novikov_(biathlete) http://dbpedia.org/resource/Sergei_Valentinovich_Novikov
+1,30,Jean-Philippe Leguellec (CAN),http://dbpedia.org/resource/Jean-Philippe_Le_Guellec,http://dbpedia.org/resource/Jean_Philippe_Leguellec http://dbpedia.org/resource/Jean-Philippe_Leguellec
+1,32,Nikolay Kruglov (RUS),http://dbpedia.org/resource/Nikolay_Kruglov,"http://dbpedia.org/resource/Nikolay_Kruglov,_Jr. http://dbpedia.org/resource/Nikolai_Kruglov_Jr. http://dbpedia.org/resource/Nikolay_Nikolayevich_Kruglov http://dbpedia.org/resource/Nikolay_Kruglov_Jr."
+1,53,Mattias Nilsson (SWE),http://dbpedia.org/resource/Mattias_Nilsson_(ice_hockey),http://dbpedia.org/resource/Matthias_Nilsson http://dbpedia.org/resource/Mattias_Nilsson_Jr. http://dbpedia.org/resource/Mattias_Nilsson
+1,54,Alexis BÅ\u0093uf (FRA),http://dbpedia.org/resource/Ba_U,http://dbpedia.org/resource/Alexis_Bœuf
+1,56,IlmÄ\u0081rs Bricis (LAT),http://dbpedia.org/resource/Cruzeiro_Esporte_Clube,http://dbpedia.org/resource/Ilmārs_Bricis
+1,64,MagnÃºs JÃ³nsson (SWE),http://dbpedia.org/resource/Magnus_Jonsson_(biathlete),http://dbpedia.org/resource/Magnús_Jónsson_(biathlete)
+1,68,OndÅ\u0099ej Moravec (CZE),http://dbpedia.org/resource/Eine_Nacht_in_Venedig,http://dbpedia.org/resource/Ondřej_Moravec
+1,95,ZdenÄ\u009Bk VÃ­tek (CZE),"http://ru.dbpedia.org/resource/Конли,_Патрик",http://dbpedia.org/resource/Zdeněk_Vítek

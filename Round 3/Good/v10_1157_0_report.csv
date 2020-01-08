@@ -1,0 +1,5 @@
+F1: 0.81250,Precision: 0.81250,Recall: 0.81250,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,8,Son,,http://dbpedia.org/resource/Son_(TV_series)
+0,9,Solo,http://dbpedia.org/resource/Nessuno_è_solo,http://dbpedia.org/resource/Solo_(TV) http://dbpedia.org/resource/Solo_(TV_series)
+0,13,Soap,http://dbpedia.org/resource/Coronation_Street,"http://dbpedia.org/resource/Burt_Campbell http://dbpedia.org/resource/Danny_Dallas http://dbpedia.org/resource/Dunn's_River,_Connecticut http://dbpedia.org/resource/Jessica_Tate http://dbpedia.org/resource/Soap_(TV_series) http://dbpedia.org/resource/Soap_(sitcom) http://dbpedia.org/resource/Soap_TV_Show http://dbpedia.org/resource/Soap_(TV_show)"

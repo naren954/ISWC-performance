@@ -1,0 +1,9 @@
+F1: 0.90000,Precision: 0.90000,Recall: 0.90000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,The Hit,http://dbpedia.org/resource/The_Hits_(Dr._Bombay_album),http://dbpedia.org/resource/The_Hit_(Baldacci_novel) http://dbpedia.org/resource/The_Hit_(novel) http://dbpedia.org/resource/The_Hit_(Baldacci) http://dbpedia.org/resource/The_Hit_(Baldacci_Novel)
+1,7,The Mark,http://dbpedia.org/resource/Mark_Kac,http://dbpedia.org/resource/The_Mark_(Left_Behind) http://dbpedia.org/resource/The_Mark_(novel)
+1,14,The Prophecy,http://dbpedia.org/resource/The_Prophecy_(novel),http://dbpedia.org/resource/The_Prophecy_(Animorphs) http://dbpedia.org/resource/The_Prophecy_(Applegate_novel)
+1,31,Nemesis,http://dbpedia.org/resource/Nemesis_(Angel_novel),http://dbpedia.org/resource/Nemesis_(Philip_Roth_novel http://dbpedia.org/resource/Nemesis_(Philip_Roth_novel) http://dbpedia.org/resource/Nemesis_(Roth_novel) http://dbpedia.org/resource/Nemesis_(Roth)
+1,50,The Human Factor,http://dbpedia.org/resource/The_Human_Factor_(TV_series),http://dbpedia.org/resource/The_Human_Factor
+1,58,The Target,http://dbpedia.org/resource/The_Target_(EP),http://dbpedia.org/resource/The_Target_(Baldacci_novel)
+1,59,Great House,http://dbpedia.org/resource/The_Great_House_(film),http://dbpedia.org/resource/Great_House_(novel)

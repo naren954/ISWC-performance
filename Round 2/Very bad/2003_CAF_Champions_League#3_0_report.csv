@@ -1,0 +1,5 @@
+F1: 0.25000,Precision: 0.25000,Recall: 0.25000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Enyimba,"http://dbpedia.org/resource/Aba,_Abia",http://dbpedia.org/resource/Enyimba_Aba http://dbpedia.org/resource/Enyimba_International_F.C. http://dbpedia.org/resource/Enyimba_Football_Club http://dbpedia.org/resource/Enyimba_FC http://dbpedia.org/resource/Enyimba_F.C.
+0,2,Ismaily,http://dbpedia.org/resource/Isma'il_Pasha,http://dbpedia.org/resource/Al-Ismaily http://dbpedia.org/resource/Ismaily_SC http://dbpedia.org/resource/El_Ismaily http://dbpedia.org/resource/Ismaely_Sporting_Club http://dbpedia.org/resource/Al-Ismaili http://dbpedia.org/resource/El-Ismaily http://dbpedia.org/resource/Ismaily
+0,3,Simba SC,http://dbpedia.org/resource/Simba,http://dbpedia.org/resource/Simba_SC http://dbpedia.org/resource/Simba_Sports_Club http://dbpedia.org/resource/Simbas_SC http://dbpedia.org/resource/Simba_S.C.

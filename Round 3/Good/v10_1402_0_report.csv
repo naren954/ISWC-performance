@@ -1,0 +1,9 @@
+F1: 0.86538,Precision: 0.86538,Recall: 0.86538,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,5,J. James,http://dbpedia.org/resource/John_James_(racing_driver),http://dbpedia.org/resource/Joe_James_(racing_driver)
+0,12,J. Clark,http://dbpedia.org/resource/Jim_Clark_(Scottish_footballer),"http://dbpedia.org/resource/Jimmy_Clark http://dbpedia.org/resource/Jim_Clark_(racing_driver) http://dbpedia.org/resource/Jim_""Jimmy""_Clark http://dbpedia.org/resource/Clark,_Jim http://dbpedia.org/resource/Jim_Clark"
+0,13,J. U. Jr.,http://dbpedia.org/resource/Calvin_Coolidge,"http://dbpedia.org/resource/Jerry_Unser_Jr. http://dbpedia.org/resource/Jerry_Unser http://dbpedia.org/resource/Jerry_Unser,_Jr."
+0,14,J. Holmes,http://dbpedia.org/resource/Jim_Holmes,http://dbpedia.org/resource/John_Holmes_(driver) http://dbpedia.org/resource/Jackie_Holmes
+0,22,H. Walter,http://dbpedia.org/resource/Fritz_Walter,http://dbpedia.org/resource/Heini_Walter
+0,44,D. Wilson,http://dbpedia.org/resource/Dwaine_Wilson,http://dbpedia.org/resource/Dempsey_Wilson
+0,46,C. Harrison,"http://dbpedia.org/resource/Billy_Harrison_(footballer,_born_1886)",http://dbpedia.org/resource/Cuth_Harrison

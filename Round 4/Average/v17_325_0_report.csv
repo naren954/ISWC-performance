@@ -1,0 +1,9 @@
+F1: 0.65000,Precision: 0.65000,Recall: 0.65000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,E. D. Filippo,http://dbpedia.org/resource/Philip_IV_of_Spain,http://dbpedia.org/resource/Edoardo_De_Filippo http://dbpedia.org/resource/Eduardo_de_Filippo http://dbpedia.org/resource/L'abito_nuovo http://dbpedia.org/resource/Eduardo_DeFilippo http://dbpedia.org/resource/Eduardo_De_Filippo
+0,4,D. Barrymore,http://dbpedia.org/resource/Lionel_Barrymore,http://dbpedia.org/resource/Diana_Barrymore
+0,5,D. Nelson,http://dbpedia.org/resource/Oliver_Nelson,http://dbpedia.org/resource/David_Oswald_Nelson http://dbpedia.org/resource/David_Nelson_(actor)
+0,9,D. Snow,http://dbpedia.org/resource/Dash_Snow,http://dbpedia.org/resource/Dan_Snow http://dbpedia.org/resource/Daniel_Snow http://dbpedia.org/resource/Daniel_Robert_Snow
+0,10,C. Penn,http://dbpedia.org/resource/Napoleon,http://dbpedia.org/resource/Christopher_Ryan_Penn http://dbpedia.org/resource/Chris_Penn http://dbpedia.org/resource/Christopher_Penn
+0,11,C. Marx,http://dbpedia.org/resource/Groucho_Marx,"http://dbpedia.org/resource/Maxine_Marx http://dbpedia.org/resource/Leonard_Marx http://dbpedia.org/resource/Leonard_""Chico""_Marx http://dbpedia.org/resource/Chico_Marx"
+0,17,A. Hussain,http://dbpedia.org/resource/Husayn_ibn_Ali,http://dbpedia.org/resource/Anwar_Hussain_(actor)

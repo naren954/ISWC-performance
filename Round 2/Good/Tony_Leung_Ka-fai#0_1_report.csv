@@ -1,0 +1,15 @@
+F1: 0.80000,Precision: 0.80000,Recall: 0.80000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,11,Gunmen,http://dbpedia.org/resource/Gunmen_(1994_film),http://dbpedia.org/resource/Gunmen_(1988_film)
+1,28,The Raid,http://dbpedia.org/resource/The_Raid:_Redemption_(soundtrack),http://dbpedia.org/resource/The_Raid_(1991_film)
+1,36,Centre Stage,http://dbpedia.org/resource/Center_Stage_(1991_film),http://dbpedia.org/resource/Center_Stage_(1992_film) http://dbpedia.org/resource/Centre_Stage_(1992_film) http://dbpedia.org/resource/Yuen_Ling-yuk http://dbpedia.org/resource/The_New_China_Woman
+1,41,Flying Dagger,http://dbpedia.org/resource/House_of_Flying_Daggers,http://dbpedia.org/resource/Flying_Dagger
+1,57,It's a Wonderful Life,http://dbpedia.org/resource/It's_a_Wonderful_Life,http://dbpedia.org/resource/It's_a_Wonderful_Life_(1994_film)
+1,69,Victim,http://dbpedia.org/resource/Law_&_Order:_Special_Victims_Unit,http://dbpedia.org/resource/Victim_(1999_film) http://dbpedia.org/resource/The_Victim_(1999_film)
+1,90,Election,http://dbpedia.org/resource/Election_Law_Journal,http://dbpedia.org/resource/Election_(2005_movie) http://dbpedia.org/resource/Election_(2005_film) http://dbpedia.org/resource/Hak_se_wui
+1,93,Eye in the Sky,http://dbpedia.org/resource/Eye_in_the_Sky_(2015_film),http://dbpedia.org/resource/Eye_in_the_sky http://dbpedia.org/resource/Eye_in_the_Sky http://dbpedia.org/resource/Eye_In_The_Sky http://dbpedia.org/resource/Eye_in_the_sky_(disambiguation) http://dbpedia.org/resource/Eye_in_the_Sky_(film)
+1,94,It's a Wonderful Life,http://dbpedia.org/resource/It's_a_Wonderful_Life,http://dbpedia.org/resource/It's_a_Wonderful_Life_(2007_film)
+1,98,Iron Road,http://dbpedia.org/resource/The_Iron_Lady_(film),http://dbpedia.org/resource/Iron_Road http://dbpedia.org/resource/Iron_Road_(film) http://dbpedia.org/resource/Iron_road
+1,107,Cold Steel,http://dbpedia.org/resource/Cold_Steel_(1987_film),http://dbpedia.org/resource/Cold_Steel_(2011_film)
+1,109,Cold War,http://dbpedia.org/resource/Cold_War_(2012_film),http://dbpedia.org/resource/Cold_War_(film)
+1,115,Beijing Love Story,http://dbpedia.org/resource/Beijing_Love_Story_(film),http://dbpedia.org/resource/Beijing_Love_Story

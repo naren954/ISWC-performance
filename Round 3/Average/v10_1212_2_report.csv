@@ -1,0 +1,21 @@
+F1: 0.74667,Precision: 0.74667,Recall: 0.74667,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,6,L. Jones,http://dbpedia.org/resource/Lloyd_Jones_(footballer),http://dbpedia.org/resource/Liesel_Jones http://dbpedia.org/resource/Leisel_Jones
+2,12,L. Cseh,http://dbpedia.org/resource/László_Cseh_(footballer),http://dbpedia.org/resource/Cseh_László http://dbpedia.org/resource/Laszlo_Cseh http://dbpedia.org/resource/Laszlo_Czeh http://dbpedia.org/resource/Cseh_Laszlo http://dbpedia.org/resource/László_Cseh http://dbpedia.org/resource/Cseh_laszlo http://dbpedia.org/resource/Cseh_lászló http://dbpedia.org/resource/Czeh_László
+2,13,K. Keller,http://dbpedia.org/resource/Kasey_Keller,http://dbpedia.org/resource/Klete_Keller
+2,17,B. Hansen,http://dbpedia.org/resource/Bent_Hansen,http://dbpedia.org/resource/Brendan_Hanson http://dbpedia.org/resource/Brendan_Hansen
+2,19,D. Davies,"http://dbpedia.org/resource/David_Davies_(footballer,_born_1888)",http://dbpedia.org/resource/David_Davies_(swimmer)
+2,27,M. Nakamura,http://dbpedia.org/resource/Micheal_Nakamura,http://dbpedia.org/resource/Mai_Nakamura
+2,30,C. Poll,http://dbpedia.org/resource/Silvia_Poll,http://dbpedia.org/resource/Claudia_Maria_Poll_Ahrens http://dbpedia.org/resource/Claudia_Poll http://dbpedia.org/resource/Claudia_Poll_Ahrens http://dbpedia.org/resource/Claudia_poll
+2,32,C. Poll,http://dbpedia.org/resource/Silvia_Poll,http://dbpedia.org/resource/Claudia_Maria_Poll_Ahrens http://dbpedia.org/resource/Claudia_Poll http://dbpedia.org/resource/Claudia_Poll_Ahrens http://dbpedia.org/resource/Claudia_poll
+2,34,A. Beard,http://dbpedia.org/resource/Alana_Beard,http://dbpedia.org/resource/Amanda_Beard
+2,36,J. Thompson,http://dbpedia.org/resource/Jocko_Thompson,http://dbpedia.org/resource/Jenny_Thompson
+2,45,K. Keller,http://dbpedia.org/resource/Kasey_Keller,http://dbpedia.org/resource/Klete_Keller
+2,51,C. Thompson,http://dbpedia.org/resource/Corny_Thompson,http://dbpedia.org/resource/Chris_Thompson_(swimmer)
+2,54,R. Sloudnov,,http://dbpedia.org/resource/Sloudnov http://dbpedia.org/resource/Roman_Sludnov http://dbpedia.org/resource/Roman_Sloudnov
+2,59,M. Nakamura,http://dbpedia.org/resource/Micheal_Nakamura,http://dbpedia.org/resource/Mai_Nakamura
+2,60,L. Jöhncke,,http://dbpedia.org/resource/Louise_Johncke http://dbpedia.org/resource/Louise_Joehncke http://dbpedia.org/resource/Louise_Jöhncke
+2,62,C. Poll,http://dbpedia.org/resource/Silvia_Poll,http://dbpedia.org/resource/Claudia_Maria_Poll_Ahrens http://dbpedia.org/resource/Claudia_Poll http://dbpedia.org/resource/Claudia_Poll_Ahrens http://dbpedia.org/resource/Claudia_poll
+2,64,C. Poll,http://dbpedia.org/resource/Silvia_Poll,http://dbpedia.org/resource/Claudia_Maria_Poll_Ahrens http://dbpedia.org/resource/Claudia_Poll http://dbpedia.org/resource/Claudia_Poll_Ahrens http://dbpedia.org/resource/Claudia_poll
+2,66,A. Beard,http://dbpedia.org/resource/Alana_Beard,http://dbpedia.org/resource/Amanda_Beard
+2,68,J. Thompson,http://dbpedia.org/resource/Jocko_Thompson,http://dbpedia.org/resource/Jenny_Thompson

@@ -1,0 +1,29 @@
+F1: 0.35714,Precision: 0.35714,Recall: 0.35714,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,J. Stern,http://dbpedia.org/resource/Jacques_Stern,http://dbpedia.org/resource/James_Stern
+1,2,C. Andrews,http://dbpedia.org/resource/V._C._Andrews,http://dbpedia.org/resource/Chris_Andrews_(translator)
+1,3,L. Thompson,http://dbpedia.org/resource/Lindsay_Thompson,http://dbpedia.org/resource/Laurie_Thompson
+1,4,B. Scudder,http://dbpedia.org/resource/Zeno_Scudder,http://dbpedia.org/resource/Bernard_Scudder
+1,5,L. Rix,http://dbpedia.org/resource/Helmut_Rix,http://dbpedia.org/resource/Len_Rix
+1,6,P. Creagh,http://dbpedia.org/resource/Mary_Creagh,http://dbpedia.org/resource/Patrick_Creagh http://dbpedia.org/resource/John_Patrick_Creagh
+1,7,W. Weaver,http://dbpedia.org/resource/Warren_Weaver,http://dbpedia.org/resource/William_Weaver
+1,10,H. Lane,http://dbpedia.org/resource/Harry_Lane,http://dbpedia.org/resource/Helen_R._Lane http://dbpedia.org/resource/Helen_Lane
+1,11,D. Pettigrew,http://dbpedia.org/resource/Pierre_Pettigrew,http://dbpedia.org/resource/Damian_Pettigrew
+1,12,C. Andrews,http://dbpedia.org/resource/V._C._Andrews,http://dbpedia.org/resource/Chris_Andrews_(translator)
+1,13,R. Howard,http://dbpedia.org/resource/Rance_Howard,"http://dbpedia.org/resource/Howard,_Richard http://dbpedia.org/resource/Richard_Howard"
+1,15,M. Kandel,http://dbpedia.org/resource/Eric_Kandel,http://dbpedia.org/resource/Michael_Kandel
+1,17,A. Birnbaum,http://dbpedia.org/resource/Allan_Birnbaum,http://dbpedia.org/resource/Alfred_Birnbaum
+1,18,C. Cafiero,http://dbpedia.org/resource/Antonio_Cafiero,http://dbpedia.org/resource/Carlo_Cafiero
+1,19,C. Andrews,http://dbpedia.org/resource/V._C._Andrews,http://dbpedia.org/resource/Chris_Andrews_(translator)
+1,21,I. Morris,http://dbpedia.org/resource/William_Morris,http://dbpedia.org/resource/Ivan_I._Morris http://dbpedia.org/resource/Ivan_Morris
+1,24,A. Sheridan,http://dbpedia.org/resource/Ann_Sheridan,http://dbpedia.org/resource/A.M._Sheridan_Smith http://dbpedia.org/resource/A._M._Sheridan-Smith http://dbpedia.org/resource/A._M._Sheridan_Smith http://dbpedia.org/resource/Alan_Sheridan
+1,28,A. Birnbaum,http://dbpedia.org/resource/Allan_Birnbaum,http://dbpedia.org/resource/Alfred_Birnbaum
+1,29,W. Weaver,http://dbpedia.org/resource/Warren_Weaver,http://dbpedia.org/resource/William_Weaver
+1,30,R. Howard,http://dbpedia.org/resource/Rance_Howard,"http://dbpedia.org/resource/Howard,_Richard http://dbpedia.org/resource/Richard_Howard"
+1,33,W. Weaver,http://dbpedia.org/resource/Warren_Weaver,http://dbpedia.org/resource/William_Weaver
+1,34,C. Andrews,http://dbpedia.org/resource/V._C._Andrews,http://dbpedia.org/resource/Chris_Andrews_(translator)
+1,35,N. Andrew,http://dbpedia.org/resource/Neil_Andrew,http://dbpedia.org/resource/Linda_Nancy_Andrew http://dbpedia.org/resource/Nancy_Andrew
+1,36,A. Birnbaum,http://dbpedia.org/resource/Allan_Birnbaum,http://dbpedia.org/resource/Alfred_Birnbaum
+1,39,J. Lovell,http://dbpedia.org/resource/Jim_Lovell,http://dbpedia.org/resource/Julia_Lovell
+1,40,R. Barnett,http://dbpedia.org/resource/Ross_Barnett,http://dbpedia.org/resource/Robert_Barnett_(scholar)
+1,42,N. Wimmer,http://de.dbpedia.org/resource/Norbert_Wimmer,http://dbpedia.org/resource/Natasha_Wimmer

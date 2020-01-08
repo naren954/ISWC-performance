@@ -1,0 +1,4 @@
+F1: 0.66667,Precision: 0.66667,Recall: 0.66667,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,16,Three,http://dbpedia.org/resource/The_Three_Caballeros,http://dbpedia.org/resource/Three:_Going_Home http://dbpedia.org/resource/3_(2002_film) http://dbpedia.org/resource/3_Extremes_II http://dbpedia.org/resource/Three_(2002_film)
+1,21,Oceans,http://dbpedia.org/resource/Oceans_(Pearl_Jam_song),http://dbpedia.org/resource/Disneynature:_Oceans http://dbpedia.org/resource/Oceans_2010_film http://dbpedia.org/resource/Oceans_(2009_film) http://dbpedia.org/resource/Océans http://dbpedia.org/resource/Oceans_(movie) http://dbpedia.org/resource/Oceans_(2010_film) http://dbpedia.org/resource/Oceans_(film) http://dbpedia.org/resource/The_Ocean_(film)

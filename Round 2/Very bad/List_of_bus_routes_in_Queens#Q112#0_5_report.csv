@@ -1,0 +1,8 @@
+F1: 0.14286,Precision: 0.14286,Recall: 0.14286,,
+Col,Row,Value,Submitted URI,Correct URI's
+5,7,"Merrick Boulevard, Linden Boulevard",http://dbpedia.org/resource/New_York_State_Route_27,"http://dbpedia.org/resource/Merrick_Road http://dbpedia.org/resource/County_Route_27_(Nassau_County,_New_York) http://dbpedia.org/resource/Merrick_Boulevard"
+5,18,"Jamaica Avenue, Sutphin Boulevard, Rockaway Boulevard, North Boundary Road",http://dbpedia.org/resource/Maryland_Route_97,http://dbpedia.org/resource/Jamaica_Avenue_(Queens) http://dbpedia.org/resource/East_New_York_Avenue http://dbpedia.org/resource/Jamaica_Avenue
+5,29,"Woodhaven Boulevard, Cross Bay Boulevard, then: Toward Howard Beach: 160th Avenue, 99th Street Toward Hamilton Beach: 104th Street.",http://dbpedia.org/resource/U.S._Route_92,http://dbpedia.org/resource/Woodhaven_Boulevard http://dbpedia.org/resource/Woodhaven_boulevard http://dbpedia.org/resource/Woodhaven/Cross_Bay_Boulevards http://dbpedia.org/resource/New_York_State_Route_908V http://dbpedia.org/resource/NY_908V http://dbpedia.org/resource/Woodhaven_Boulevard_(Queens) http://dbpedia.org/resource/Woodhaven_and_Cross_Bay_Boulevards http://dbpedia.org/resource/Crossbay_Blvd http://dbpedia.org/resource/Cross_Bay_Boulevard_(Queens)
+5,41,"Astoria Boulevard, Northern Boulevard",http://dbpedia.org/resource/Astoria–Ditmars_Boulevard_station,http://dbpedia.org/resource/Astoria_Boulevard
+5,44,"Beach Channel Drive, Rockaway Beach Boulevard",http://dbpedia.org/resource/Operation_Overlord,http://dbpedia.org/resource/Beach_Channel_Drive
+5,45,"Ditmars Boulevard, 108th Street, 69th Avenue",http://dbpedia.org/resource/IND_Sixth_Avenue_Line,http://dbpedia.org/resource/Ditmars_Boulevard

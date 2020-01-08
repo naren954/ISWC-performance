@@ -1,0 +1,4 @@
+F1: 0.93333,Precision: 0.93333,Recall: 0.93333,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,19,Roman Bridge,http://dbpedia.org/resource/Roman_Bridge_(Saint-Thibéry),http://dbpedia.org/resource/Roman_Bridge_(Vaison-la-Romaine)
+0,23,Rock Island Swing Bridge,http://dbpedia.org/resource/Government_Bridge,http://dbpedia.org/resource/Newport_Rail_Bridge http://dbpedia.org/resource/Chicago_Rock_Island_and_Pacific_Railroad_Bridge http://dbpedia.org/resource/Rock_Island_Swing_Bridge http://dbpedia.org/resource/JAR_Bridge http://dbpedia.org/resource/J.A.R._bridge

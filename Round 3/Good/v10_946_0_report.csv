@@ -1,0 +1,11 @@
+F1: 0.85484,Precision: 0.85484,Recall: 0.85484,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Operation Harpoon,http://dbpedia.org/resource/Operation_Harpoon_(2002),http://dbpedia.org/resource/Operation_Harpoon_(1942) http://dbpedia.org/resource/Battle_of_Pantelleria_(1942) http://dbpedia.org/resource/Battle_of_Mid-June
+0,4,Operation Hammer,http://dbpedia.org/resource/Operation_Hammer_(1997),http://dbpedia.org/resource/Operation_Hammer_(Afghanistan) http://dbpedia.org/resource/Operation_Chakush
+0,29,Operation Enduring Freedom – Trans Sahara,http://dbpedia.org/resource/Operation_Juniper_Shield,http://dbpedia.org/resource/Operation_Enduring_Freedom_-_Trans_Sahara http://dbpedia.org/resource/Operation_Enduring_Freedom_–_Trans_Sahara http://dbpedia.org/resource/OEF-TS
+0,31,Operation Eagle Ares,http://dbpedia.org/resource/Operation_Eagle_Claw,http://dbpedia.org/resource/Operation_Eagle_Ares
+0,37,Operation Dracula,http://dbpedia.org/resource/Burma_Campaign,http://dbpedia.org/resource/Operation_Dracula
+0,41,Operation Dignity Battle,http://dbpedia.org/resource/Battle_of_Benghazi_(2014),http://dbpedia.org/resource/Operation_Dignity_Battle_(Benghazi)
+0,47,Operation Desert Rat,http://dbpedia.org/resource/Bombing_of_Iraq_(1998),http://dbpedia.org/resource/Operation_Desert_Rat
+0,57,Operation Dawn 6,http://dbpedia.org/resource/Operation_Dawn_3,http://dbpedia.org/resource/Operation_Dawn_6 http://dbpedia.org/resource/Operation_Dawn-6
+0,62,Operation Dawn,http://dbpedia.org/resource/Operation_Dawn_(2012),http://dbpedia.org/resource/Operation_Dawn_(1997) http://dbpedia.org/resource/Şafak_Harekâtı

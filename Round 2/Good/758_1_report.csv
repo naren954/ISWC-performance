@@ -1,0 +1,29 @@
+F1: 0.78571,Precision: 0.78571,Recall: 0.78571,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,3,WOLF,http://de.dbpedia.org/resource/Wolf_(Lebensmittelhersteller),http://dbpedia.org/resource/W288AS http://dbpedia.org/resource/WOLF-AM http://dbpedia.org/resource/WOLF_(AM)
+1,5,WCVE-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WCVW-TV http://dbpedia.org/resource/Commonwealth_Public_Broadcasting_Company http://dbpedia.org/resource/WHTJ http://dbpedia.org/resource/WCVE-TV http://dbpedia.org/resource/WCVW http://dbpedia.org/resource/W66BI http://dbpedia.org/resource/WHTJ-TV
+1,6,WEXL,,http://dbpedia.org/resource/WEXL
+1,8,WOOD-FM,http://dbpedia.org/resource/WSRW-FM,http://dbpedia.org/resource/WMUS-FM http://dbpedia.org/resource/WOOD-FM
+1,9,WCVB-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/The_Boston_Channel http://dbpedia.org/resource/WCVB http://dbpedia.org/resource/ABC_Boston http://dbpedia.org/resource/Hearst_Television_Boston http://dbpedia.org/resource/BostonChannel.com http://dbpedia.org/resource/Me-TV_Boston http://dbpedia.org/resource/WCVB-TV http://dbpedia.org/resource/WCVB-DT
+1,13,WPHD,http://dbpedia.org/resource/WPHD_(FM),http://dbpedia.org/resource/W296BL http://dbpedia.org/resource/WPHD http://dbpedia.org/resource/W275AB http://dbpedia.org/resource/WPHD-FM
+1,20,WOOD-FM,http://dbpedia.org/resource/WSRW-FM,http://dbpedia.org/resource/WMUS-FM http://dbpedia.org/resource/WOOD-FM
+1,31,WAKS,http://dbpedia.org/resource/WCLV,http://dbpedia.org/resource/WAKS-FM http://dbpedia.org/resource/WAKS_(FM) http://dbpedia.org/resource/96.5_Kiss_FM http://dbpedia.org/resource/WAKS
+1,45,WERC-FM,http://dbpedia.org/resource/WBPT,http://dbpedia.org/resource/WENN-FM http://dbpedia.org/resource/WERC-FM http://dbpedia.org/resource/W286BK
+1,47,WFGW,http://dbpedia.org/resource/WKJW,http://dbpedia.org/resource/WFGW http://dbpedia.org/resource/WLYT-FM http://dbpedia.org/resource/WFGW-FM http://dbpedia.org/resource/WRJK
+1,71,WOHZ-CD,http://dbpedia.org/resource/.cd,http://dbpedia.org/resource/WOHZ-CA http://dbpedia.org/resource/WOHZ-CD http://dbpedia.org/resource/WOHZ
+1,74,WCIU-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/The_U_(Chicago) http://dbpedia.org/resource/WCIU-TV
+1,76,WGSR-LD,http://dbpedia.org/resource/KTPN-LD,http://dbpedia.org/resource/WGSR http://dbpedia.org/resource/WGSR-LP http://dbpedia.org/resource/WGSR-LD
+1,77,WHPM-LD,http://dbpedia.org/resource/KTPN-LD,http://dbpedia.org/resource/WBH_(CW_Plus) http://dbpedia.org/resource/WHPM http://dbpedia.org/resource/WHPM-LD2 http://dbpedia.org/resource/WHPM-LD
+1,81,WMCE,http://dbpedia.org/resource/WMCE-FM,http://dbpedia.org/resource/WMCE_(AM)
+1,82,WBKV,http://dbpedia.org/resource/WBKV_(FM),http://dbpedia.org/resource/WBKV-AM http://dbpedia.org/resource/WBKV_(AM) http://dbpedia.org/resource/WBKV
+1,84,WMBI,http://dbpedia.org/resource/WMBI-FM,http://dbpedia.org/resource/WMBI_(AM) http://dbpedia.org/resource/WMBI-AM
+1,85,WCSC-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WCSC-Tower http://dbpedia.org/resource/WCSC_Television_Tower http://dbpedia.org/resource/WCSC-TV
+1,86,WYZZ-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WYZZ-TV http://dbpedia.org/resource/WYZZ
+1,90,Comcast SportsNet Chicago,http://dbpedia.org/resource/Chicago_Bulls,http://dbpedia.org/resource/Jim_Corno http://dbpedia.org/resource/CSN_Chicago http://dbpedia.org/resource/Comcast_Sportsnet_Chicago http://dbpedia.org/resource/CSN-CH http://dbpedia.org/resource/NBC_Sports_Chicago http://dbpedia.org/resource/Comcast_SportsNet_Chicago
+1,92,WMAL,http://dbpedia.org/resource/WMAL-FM,http://dbpedia.org/resource/WMAL_(AM) http://dbpedia.org/resource/WMAL-AM
+1,101,WATT,"http://dbpedia.org/resource/Watts,_Los_Angeles",http://dbpedia.org/resource/WATT http://dbpedia.org/resource/WATT_(AM)
+1,102,WATT,"http://dbpedia.org/resource/Watts,_Los_Angeles",http://dbpedia.org/resource/WATT http://dbpedia.org/resource/WATT_(AM)
+1,107,WHDH,http://dbpedia.org/resource/WJMN_(FM),http://dbpedia.org/resource/WHDH-TV http://dbpedia.org/resource/WHDH-DT http://dbpedia.org/resource/WHDH_(TV) http://dbpedia.org/resource/NBC_Boston http://dbpedia.org/resource/7NBC http://dbpedia.org/resource/WNEV-TV http://dbpedia.org/resource/This_TV_Boston http://dbpedia.org/resource/7_Boston
+1,116,WAMI-DT,http://dbpedia.org/resource/WAMI_(AM),http://dbpedia.org/resource/WAMI-DT http://dbpedia.org/resource/WAMI-TV http://dbpedia.org/resource/WYHS-TV
+1,120,LT-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/Lyons_Township_Television http://dbpedia.org/resource/Lyons_Township_High_School_District_204 http://dbpedia.org/resource/LT-TV http://dbpedia.org/resource/Lyons_Township_High_School
+1,121,WRRK-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/WBZB-FM http://dbpedia.org/resource/WRRK-FM http://dbpedia.org/resource/WRRK

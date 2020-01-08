@@ -1,0 +1,4 @@
+F1: 0.87500,Precision: 0.87500,Recall: 0.87500,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,11,Ryutsu Keizai Dragons,http://dbpedia.org/resource/Ryutsu_Keizai_University_FC,http://dbpedia.org/resource/Ryutsu_Keizai_Dragons_Ryugasaki
+0,13,Tochigi Uva,http://dbpedia.org/resource/Tochigi_SC,http://dbpedia.org/resource/Tochigi_Uva_FC http://dbpedia.org/resource/Tochigi_UVA_F.C. http://dbpedia.org/resource/Hitachi_Tochigi_UVA_S.C. http://dbpedia.org/resource/Tochigi_Uva_S.C. http://dbpedia.org/resource/Tochigi_Uva_F.C. http://dbpedia.org/resource/Hitachi_Tochigi_Uva http://dbpedia.org/resource/Hitachi_Tochigi_Uva_S.C. http://dbpedia.org/resource/Hitachi_Tochigi_UVA

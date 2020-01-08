@@ -1,0 +1,4 @@
+F1: 0.90909,Precision: 0.90909,Recall: 0.90909,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,15,Ulysses S. Grant presidential administration scandals,http://dbpedia.org/resource/Ulysses_S._Grant,http://dbpedia.org/resource/Ulysses_S._Grant_presidential_administration_scandals http://dbpedia.org/resource/Ulysses_S._Grant_(scandals)
+0,17,T. G. Gutiérrez,http://dbpedia.org/resource/Carl_Gutierrez,http://dbpedia.org/resource/Tomás_Guardia_Gutiérrez http://dbpedia.org/resource/Tomás_Guardia http://dbpedia.org/resource/Tomás_Miguel_Guardia_Gutiérrez http://dbpedia.org/resource/Tomas_Miguel_Guardia_Gutierrez http://dbpedia.org/resource/Tomas_Guardia_Gutierrez http://dbpedia.org/resource/General_Tomas_Miguel_Guardia_Gutierrez http://dbpedia.org/resource/Tomas_Guardia http://dbpedia.org/resource/General_Tomás_Miguel_Guardia_Gutiérrez

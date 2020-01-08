@@ -1,0 +1,11 @@
+F1: 0.88000,Precision: 0.88000,Recall: 0.88000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Á. d. Azevedo,http://dbpedia.org/resource/Inácio_de_Azevedo,http://dbpedia.org/resource/Manuel_Antônio_Álvares_de_Azevedo http://dbpedia.org/resource/Manuel_Antonio_Alvares_de_Azevedo http://dbpedia.org/resource/Álvares_de_Azevedo http://dbpedia.org/resource/Alvares_de_Azevedo
+0,5,Y. Yuksa,http://dbpedia.org/resource/Y,http://dbpedia.org/resource/Yi_Wonnok http://dbpedia.org/resource/Yi_Yuk-sa http://dbpedia.org/resource/Lee_Yuksa http://dbpedia.org/resource/Yi_Yuksa
+0,10,T. E. Spencer,"http://dbpedia.org/resource/John_Spencer,_1st_Earl_Spencer",http://dbpedia.org/resource/Thomas_E._Spencer http://dbpedia.org/resource/Thomas_Edward_Spencer
+0,19,S. Watkins,http://dbpedia.org/resource/Sid_Watkins,http://dbpedia.org/resource/Samuel_Watkins http://dbpedia.org/resource/Company_Aytch http://dbpedia.org/resource/Sam_Watkins http://dbpedia.org/resource/Sam_R._Watkins http://dbpedia.org/resource/Co_Aytch http://dbpedia.org/resource/Co._Aytch
+0,25,O. Kemal,http://dbpedia.org/resource/Yaşar_Kemal,http://dbpedia.org/resource/Mehmet_Raşit_Öğütçü http://dbpedia.org/resource/Orhan_Kemal
+0,43,J. Patric,http://dbpedia.org/resource/Jason_Patric,http://dbpedia.org/resource/John_Patric
+0,56,G. W. Harris,http://dbpedia.org/resource/George_W._Harris,http://dbpedia.org/resource/George_Washington_Harris http://dbpedia.org/resource/Mr._Free http://dbpedia.org/resource/Mr_Free http://dbpedia.org/resource/Sugartail
+0,68,E. Bikhovski,,http://dbpedia.org/resource/Elisheva_Bikhovski
+0,70,E. Guest,http://dbpedia.org/resource/Christopher_Guest,http://dbpedia.org/resource/Our_House_(poem) http://dbpedia.org/resource/Edgar_Albert_Guest http://dbpedia.org/resource/Edgar_A._Guest http://dbpedia.org/resource/Eddie_Guest http://dbpedia.org/resource/Edgar_Guest

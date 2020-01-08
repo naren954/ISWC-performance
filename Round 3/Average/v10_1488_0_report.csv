@@ -1,0 +1,30 @@
+F1: 0.58824,Precision: 0.58824,Recall: 0.58824,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,W. Williams,http://dbpedia.org/resource/Ward_Williams,"http://dbpedia.org/resource/William_Williams_(rugby,_born_1925)"
+0,3,W. James,http://dbpedia.org/resource/William_James_(Australian_rules_footballer),"http://dbpedia.org/resource/Will_James_(rugby,_born_1902)"
+0,10,S. McCormick,http://dbpedia.org/resource/Barry_McCormick,http://dbpedia.org/resource/Stan_McCormick http://dbpedia.org/resource/Stan_McCormack http://dbpedia.org/resource/Stanley_McCormick
+0,12,R. Wilson,"http://dbpedia.org/resource/Ron_Wilson_(footballer,_born_1924)",http://dbpedia.org/resource/Bob_Wilson_(rugby_league) http://dbpedia.org/resource/Robert_Wilson_(rugby_league)
+0,15,R. Norman,http://dbpedia.org/resource/Rex_Norman,http://dbpedia.org/resource/Ray_Norman
+0,16,R. Morris,http://dbpedia.org/resource/Robert_Morris_(cricketer),http://dbpedia.org/resource/Ray_Morris
+0,18,P. Jackson,http://dbpedia.org/resource/Perry_Jackson,http://dbpedia.org/resource/Peter_Jackson_(rugby_league) http://dbpedia.org/resource/Peter_Jackson_(rugby_league_footballer)
+0,19,P. Flanagan,http://dbpedia.org/resource/Pat_Flanagan_(English_footballer),http://dbpedia.org/resource/Peter_Flanagan http://dbpedia.org/resource/Peter_Flanagan_(rugby_league)
+0,21,N. Purcell,http://dbpedia.org/resource/Noel_Purcell_(water_polo_and_rugby_union),http://dbpedia.org/resource/Noel_Purcell_(water_polo_player) http://dbpedia.org/resource/Noel_Purcell_(water_polo) http://dbpedia.org/resource/Noel_Mary_Purcell
+0,23,M. Williams,"http://dbpedia.org/resource/Mike_Williams_(American_football,_born_1957)",http://dbpedia.org/resource/Monk_Williams
+0,24,M. Robertson,http://dbpedia.org/resource/Mark_Robertson_(rugby_union),http://dbpedia.org/resource/Morrie_Robertson http://dbpedia.org/resource/Maurie_Robertson
+0,25,M. McCoy,http://dbpedia.org/resource/Mike_McCoy_(cornerback),http://dbpedia.org/resource/Matt_McCoy_(rugby_league)
+0,32,K. English,http://dbpedia.org/resource/Keith_English_(punter),http://dbpedia.org/resource/Ken_English
+0,33,K. O'Shea,http://dbpedia.org/resource/Kevin_O'Shea_(basketball),http://dbpedia.org/resource/Kelvin_O'Shea http://dbpedia.org/resource/Kel_O'Shea
+0,36,J. Ward,http://dbpedia.org/resource/Jimmy_Ward_(ice_hockey),http://dbpedia.org/resource/John_Ward_(rugby)
+0,37,J. Shaw,http://dbpedia.org/resource/Jim_Shaw_(baseball),http://dbpedia.org/resource/John_Shaw_(rugby_league)
+0,38,J. O'Neill,"http://dbpedia.org/resource/John_O'Neill_(footballer,_born_1935)",http://dbpedia.org/resource/Lurch_O'Neill http://dbpedia.org/resource/John_O'Neill_(rugby_league_footballer) http://dbpedia.org/resource/John_O'Neill_(rugby_league) http://dbpedia.org/resource/John_O'Neill_(rugby_league_born_1943) http://dbpedia.org/resource/John_O’Neill_(rugby_league)
+0,39,J. Henderson,"http://dbpedia.org/resource/Joe_Henderson_(footballer,_born_1924)",http://dbpedia.org/resource/John_Henderson_(rugby_league)
+0,44,J. Edwards,http://dbpedia.org/resource/Jack_Edwards_(cricketer),http://dbpedia.org/resource/Jim_Edwards_(rugby_league) http://dbpedia.org/resource/James_Edwards_(rugby_league) http://dbpedia.org/resource/Jimmy_Edwards_(rugby_league)
+0,45,J. Sullivan,http://dbpedia.org/resource/John_Sullivan_(shortstop),http://dbpedia.org/resource/Jim_Sullivan_(rugby_league) http://dbpedia.org/resource/Jim_Sullivan_(rugby_player) http://dbpedia.org/resource/Jim_Sullivan_(Rugby_player) http://dbpedia.org/resource/Jim_Sullivan_(rugby_league_footballer)
+0,46,J. Stevenson,http://dbpedia.org/resource/Jimmy_Stevenson,http://dbpedia.org/resource/Jeff_Stevenson_(rugby_league) http://dbpedia.org/resource/Jeffrey_Stevenson
+0,54,J. Fleming,"http://dbpedia.org/resource/John_Fleming_(footballer,_born_1890)",http://dbpedia.org/resource/Jackie_Fleming http://dbpedia.org/resource/John_Fleming_(rugby_league)
+0,55,J. Rayner,http://dbpedia.org/resource/Jimmy_Rayner,http://dbpedia.org/resource/Jack_Rayner
+0,56,J. Gibson,http://dbpedia.org/resource/Josh_Gibson,http://dbpedia.org/resource/Jack_Arthur_Gibson http://dbpedia.org/resource/Jack_Gibson_(rugby_league) http://dbpedia.org/resource/Jack_Gibson_(rugby_league_footballer) http://dbpedia.org/resource/Jack_Gibson_(rugby_coach)
+0,57,I. Davies,http://dbpedia.org/resource/Idwal_Davies_(footballer),http://dbpedia.org/resource/Idwal_Davies_(rugby)
+0,60,H. Wagstaff,http://dbpedia.org/resource/Hugh_Wagstaff,http://dbpedia.org/resource/Prince_of_Centres http://dbpedia.org/resource/Harold_Wagstaff
+0,61,G. Pierce,http://dbpedia.org/resource/George_Pierce_(baseball),http://dbpedia.org/resource/Greg_Pierce http://dbpedia.org/resource/Gregory_Pierce
+0,62,G. Stone,http://dbpedia.org/resource/Geoff_Stone,http://dbpedia.org/resource/Gordon_Stone_(rugby_union) http://dbpedia.org/resource/Charles_Gordon_Stone

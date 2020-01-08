@@ -1,0 +1,5 @@
+"F1: 0.92683","Precision: 0.92683","Recall: 0.92683"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","1","Racing Club Warwick","http://dbpedia.org/resource/Racing_de_Santander","http://dbpedia.org/resource/Racing_Club_Warwick http://dbpedia.org/resource/Racing_Club_Warwick_F.C. http://dbpedia.org/resource/Racing_Club_Warwick_F_C http://dbpedia.org/resource/Racing_Club_Warwick_F._C. http://dbpedia.org/resource/Racing_Club_Warwick_FC"
+"0","2","Radcliffe Borough","http://dbpedia.org/resource/Radcliffe_F.C.","http://dbpedia.org/resource/RBFC http://dbpedia.org/resource/Radcliffe_Borough http://dbpedia.org/resource/Radcliffe_Borough_F._C. http://dbpedia.org/resource/Radcliffe_Borough_F_C http://dbpedia.org/resource/Radcliffe_Borough_FC http://dbpedia.org/resource/Radcliffe_Borough_F.C."
+"0","4","Radford","http://dbpedia.org/resource/Radford_Highlanders_men's_soccer","http://dbpedia.org/resource/Radford_FC http://dbpedia.org/resource/Radford_F._C. http://dbpedia.org/resource/Radford_F.C. http://dbpedia.org/resource/Radford_F_C"

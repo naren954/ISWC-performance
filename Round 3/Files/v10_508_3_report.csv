@@ -1,0 +1,8 @@
+"F1: 0.94059","Precision: 0.94059","Recall: 0.94059"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"3","13","Discovery","http://dbpedia.org/resource/Discovery_(apple)","http://dbpedia.org/resource/Discovery_(horse)"
+"3","22","Challenger","http://dbpedia.org/resource/Okeem_Challenger","http://dbpedia.org/resource/Challenger_(horse)"
+"3","33","At Talaq","http://dbpedia.org/resource/At_Talaq_(racehorse)","http://dbpedia.org/resource/At_Talaq"
+"3","42","Solinus","http://dbpedia.org/resource/Solinus_(horse)","http://dbpedia.org/resource/Julius_Solinus http://dbpedia.org/resource/Gaius_Julius_Solinus http://dbpedia.org/resource/Gaius_Iulius_Solinus http://dbpedia.org/resource/Solinus http://dbpedia.org/resource/Caius_Julius_Solinus"
+"3","81","Carnegie","http://dbpedia.org/resource/James_Carnegie,_3rd_Duke_of_Fife","http://dbpedia.org/resource/Carnegie_(horse)"
+"3","96","Roberto","http://dbpedia.org/resource/Roberto_Marinho","http://dbpedia.org/resource/Roberto_(horse)"

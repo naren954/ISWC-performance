@@ -1,0 +1,19 @@
+F1: 0.90659,Precision: 0.90659,Recall: 0.90659,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,28,J. Majérus,http://dbpedia.org/resource/Jean_Majerus,http://dbpedia.org/resource/Jean_Majérus
+0,30,J. Majérus,http://dbpedia.org/resource/Jean_Majerus,http://dbpedia.org/resource/Jean_Majérus
+0,32,J. Hansen,http://dbpedia.org/resource/Julius_Hansen,http://dbpedia.org/resource/Jean_Hansen
+0,49,J. Muller,http://dbpedia.org/resource/Joseph_Muller_(cyclist),http://dbpedia.org/resource/Jean-Pierre_Muller_(cyclist)
+0,69,J. Peternel,,http://dbpedia.org/resource/Janez_Peternel
+0,72,J. Pronk,http://dbpedia.org/resource/Bert_Pronk,http://dbpedia.org/resource/Jan_Pronk_(cyclist)
+0,84,J. Rossi,http://dbpedia.org/resource/Jules_Rossi,http://dbpedia.org/resource/James_Rossi
+0,85,J. Freeman,http://dbpedia.org/resource/David_G._Freeman,http://dbpedia.org/resource/James_Freeman_(cyclist)
+0,86,J. Davies,http://dbpedia.org/resource/James_Davies_(rugby_union),"http://dbpedia.org/resource/James_Davies_(cyclist,_born_1906)"
+0,87,J. Schenk,http://dbpedia.org/resource/Juliane_Schenk,http://dbpedia.org/resource/Jakob_Schenk
+0,91,J. Majerus,http://dbpedia.org/resource/Jean_Majerus,http://dbpedia.org/resource/Jacques_Majerus
+0,106,J. Simon,http://dbpedia.org/resource/Jérôme_Simon,http://dbpedia.org/resource/Jurgen_Simon http://dbpedia.org/resource/Jürgen_Simon
+0,110,J. Jensen,http://dbpedia.org/resource/Jackie_Jensen,http://dbpedia.org/resource/Jørgen_Jensen_(cyclist) http://dbpedia.org/resource/Jorgen_Jensen_(cyclist)
+0,125,H. Mitchell,http://dbpedia.org/resource/Harry_Mitchell_(boxer),http://dbpedia.org/resource/Hylton_Mitchell
+0,136,H. Pettersson,http://dbpedia.org/resource/Håkan_Pettersson_(ice_hockey),http://dbpedia.org/resource/Hjalmar_Pettersson
+0,181,H. Suter,http://dbpedia.org/resource/Harry_Suter,http://dbpedia.org/resource/Henri_Suter http://dbpedia.org/resource/Heiri_Suter
+0,182,H. Müller,http://dbpedia.org/resource/Hansi_Müller,http://dbpedia.org/resource/Heinz_Müller_(cyclist) http://dbpedia.org/resource/Heinz_Muller_(cyclist) http://dbpedia.org/resource/Heinz_Mueller_(cyclist)

@@ -1,0 +1,5 @@
+F1: 0.81250,Precision: 0.81250,Recall: 0.81250,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,"George E. Allen, Sr.",http://dbpedia.org/resource/George_E._Allen_Sr.,"http://dbpedia.org/resource/George_E._Allen,_Sr http://dbpedia.org/resource/George_E._Allen,_Sr."
+0,2,"George E. Allen, Jr.",http://dbpedia.org/resource/George_Allen_(American_politician),"http://dbpedia.org/resource/George_E._Allen,_Jr http://dbpedia.org/resource/George_E._Allen,_Jr."
+0,15,A. G. Sr.,http://dbpedia.org/resource/George_H._W._Bush,"http://dbpedia.org/resource/Al_Gore,_Sr. http://dbpedia.org/resource/Albert_A._Gore,_Sr. http://dbpedia.org/resource/Albert_Gore,_Sr http://dbpedia.org/resource/Gore,_Albert,_Sr. http://dbpedia.org/resource/Albert_Gore,_Sr. http://dbpedia.org/resource/Albert_Gore_Sr http://dbpedia.org/resource/Albert_Arnold_""Al""_Gore,_Sr. http://dbpedia.org/resource/Albert_A._Gore_Sr. http://dbpedia.org/resource/Albert_Arnold_""Al""_Gore_I http://dbpedia.org/resource/Albert_Arnold_Gore_Sr. http://dbpedia.org/resource/Albert_Arnold_Gore,_Sr. http://dbpedia.org/resource/Albert_Gore_Sr. http://dbpedia.org/resource/Al_Gore_Sr."

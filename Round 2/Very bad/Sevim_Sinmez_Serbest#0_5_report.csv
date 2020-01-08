@@ -1,0 +1,21 @@
+F1: 0.20833,Precision: 0.20833,Recall: 0.20833,,
+Col,Row,Value,Submitted URI,Correct URI's
+5,2,12.36 m,http://dbpedia.org/resource/1996_European_Athletics_Indoor_Championships_–_Women's_triple_jump,http://dbpedia.org/resource/2006_World_Junior_Championships_in_Athletics_–_Women's_triple_jump
+5,3,12.14 m,http://dbpedia.org/resource/2006_European_Athletics_Championships_–_Women's_triple_jump,http://dbpedia.org/resource/2007_European_Athletics_U23_Championships_–_Women's_triple_jump
+5,5,13.13 m,http://dbpedia.org/resource/Athletics_at_the_2012_Summer_Olympics_–_Women's_100_metres_hurdles,http://dbpedia.org/resource/2012_IAAF_World_Indoor_Championships_–_Women's_triple_jump
+5,6,11.34 m,http://dbpedia.org/resource/2001_World_Championships_in_Athletics_–_Women's_100_metres,http://dbpedia.org/resource/Balkan_Games http://dbpedia.org/resource/Balkan_Athletics_Championships
+5,9,5.97 m,http://dbpedia.org/resource/Athletics_at_the_2012_Summer_Olympics_–_Men's_pole_vault,http://dbpedia.org/resource/2013_European_Athletics_Indoor_Championships_–_Women's_long_jump
+5,10,NM,,http://dbpedia.org/resource/2013_European_Athletics_Indoor_Championships_–_Women's_triple_jump
+5,11,5.94 m,http://dbpedia.org/resource/2011_World_Championships_in_Athletics_–_Women's_long_jump,http://dbpedia.org/resource/2013_European_Team_Championships
+5,12,"12,78 m",http://dbpedia.org/resource/Athletics_at_the_1996_Summer_Olympics_–_Women's_100_metres_hurdles,http://dbpedia.org/resource/2013_European_Team_Championships
+5,13,5.61 m,http://dbpedia.org/resource/Athletics_at_the_2007_Pan_American_Games_–_Women's_long_jump,http://dbpedia.org/resource/Athletics_at_the_2013_Mediterranean_Games
+5,14,"13,75 m",http://dbpedia.org/resource/Athletics_at_the_2012_Summer_Olympics_–_Women's_100_metres_hurdles,http://dbpedia.org/resource/Athletics_at_the_2013_Mediterranean_Games
+5,15,5.90 m,http://dbpedia.org/resource/Athletics_at_the_2016_Summer_Olympics_–_Women's_long_jump,http://dbpedia.org/resource/Athletics_at_the_2013_Summer_Universiade_–_Women's_long_jump
+5,16,"13,31 m",http://dbpedia.org/resource/2016_IAAF_World_Indoor_Championships_–_Women's_triple_jump,http://dbpedia.org/resource/Athletics_at_the_2013_Summer_Universiade_–_Women's_triple_jump
+5,17,5.71 m,http://dbpedia.org/resource/2002_African_Championships_in_Athletics_–_Women's_long_jump,http://dbpedia.org/resource/Balkan_Games http://dbpedia.org/resource/Balkan_Athletics_Championships
+5,18,"13,29 m",http://dbpedia.org/resource/Athletics_at_the_2008_Summer_Olympics_–_Women's_triple_jump,http://dbpedia.org/resource/Balkan_Games http://dbpedia.org/resource/Balkan_Athletics_Championships
+5,19,1.65 m,http://dbpedia.org/resource/2008_World_Junior_Championships_in_Athletics_–_Women's_high_jump,http://dbpedia.org/resource/Athletics_at_the_2013_Islamic_Solidarity_Games
+5,20,"12,81 m",http://dbpedia.org/resource/Athletics_at_the_2012_Summer_Olympics_–_Women's_100_metres_hurdles,http://dbpedia.org/resource/Athletics_at_the_2013_Islamic_Solidarity_Games
+5,21,12.86 m,http://dbpedia.org/resource/Athletics_at_the_2008_Summer_Olympics_–_Women's_100_metres_hurdles,http://dbpedia.org/resource/2014_European_Team_Championships
+5,22,5.90 m,http://dbpedia.org/resource/Athletics_at_the_2016_Summer_Olympics_–_Women's_long_jump,http://dbpedia.org/resource/Balkan_Games http://dbpedia.org/resource/Balkan_Athletics_Championships
+5,23,"13,08 m",http://dbpedia.org/resource/2010_European_Athletics_Championships_–_Women's_100_metres_hurdles,http://dbpedia.org/resource/Balkan_Games http://dbpedia.org/resource/Balkan_Athletics_Championships

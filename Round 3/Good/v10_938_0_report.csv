@@ -1,0 +1,5 @@
+F1: 0.91892,Precision: 0.91892,Recall: 0.91892,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,7,Second Battle of Heglig,http://dbpedia.org/resource/Second_Battle_of_Ypres,http://dbpedia.org/resource/Battle_of_Heglig http://dbpedia.org/resource/Second_Battle_of_Heglig
+0,26,Second Battle of Cobadin,http://dbpedia.org/resource/Second_Battle_of_Ypres,http://dbpedia.org/resource/Second_Battle_of_Cobadin
+0,29,Second Battle of Chuenpi,http://dbpedia.org/resource/Second_Battle_of_Ypres,http://dbpedia.org/resource/Second_Battle_of_Chuanbi http://dbpedia.org/resource/Second_Battle_of_Chuenpi http://dbpedia.org/resource/Second_Battle_of_Chuenpee http://dbpedia.org/resource/Battle_of_the_Shajiao_Battery

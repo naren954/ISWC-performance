@@ -1,0 +1,39 @@
+F1: 0.80526,Precision: 0.80526,Recall: 0.80526,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,K. Walberg,http://dbpedia.org/resource/Rube_Walberg,http://dbpedia.org/resource/Kåre_Walberg http://dbpedia.org/resource/Kaare_Wahlberg http://dbpedia.org/resource/Kaare_Walberg
+1,3,A. Haugen,http://dbpedia.org/resource/Arve_Haugen,http://dbpedia.org/resource/Anders_Haugen
+1,4,A. Huber,http://dbpedia.org/resource/Anke_Huber,http://dbpedia.org/resource/Anja_Huber
+1,6,A. Huber,http://dbpedia.org/resource/Anke_Huber,http://dbpedia.org/resource/Anja_Huber
+1,38,W. Meng,http://dbpedia.org/resource/Wang_Meng_(figure_skater),http://dbpedia.org/resource/Meng_Wang_(speed_skater) http://dbpedia.org/resource/Wang_Meng_(speed_skater)
+1,39,Y. Yang,http://dbpedia.org/resource/Yu_Yang_(badminton),http://dbpedia.org/resource/Yáng_Yáng http://dbpedia.org/resource/Yang_Yang_(b._1976) http://dbpedia.org/resource/Yang_Yang_(A) http://dbpedia.org/resource/楊揚 http://dbpedia.org/resource/杨扬
+1,41,R. Smith,http://dbpedia.org/resource/Richard_Smith_(field_hockey),http://dbpedia.org/resource/Rusty_Smith_(speed_skater)
+1,46,W. Meng,http://dbpedia.org/resource/Wang_Meng_(figure_skater),http://dbpedia.org/resource/Meng_Wang_(speed_skater) http://dbpedia.org/resource/Wang_Meng_(speed_skater)
+1,47,Y. Yang,http://dbpedia.org/resource/Yu_Yang_(badminton),http://dbpedia.org/resource/Yáng_Yáng http://dbpedia.org/resource/Yang_Yang_(b._1976) http://dbpedia.org/resource/Yang_Yang_(A) http://dbpedia.org/resource/楊揚 http://dbpedia.org/resource/杨扬
+1,55,Y. Yang,http://dbpedia.org/resource/Yu_Yang_(badminton),http://dbpedia.org/resource/Yang_Yang_(S) http://dbpedia.org/resource/Yang_Yang_(b._1977)
+1,56,R. Smith,http://dbpedia.org/resource/Richard_Smith_(field_hockey),http://dbpedia.org/resource/Rusty_Smith_(speed_skater)
+1,63,Y. Yang,http://dbpedia.org/resource/Yu_Yang_(badminton),http://dbpedia.org/resource/Yang_Yang_(S) http://dbpedia.org/resource/Yang_Yang_(b._1977)
+1,64,R. Smith,http://dbpedia.org/resource/Richard_Smith_(field_hockey),http://dbpedia.org/resource/Rusty_Smith_(speed_skater)
+1,65,G. Wei,http://dbpedia.org/resource/Guo_Wei_(Paralympic_athlete),http://dbpedia.org/resource/Guo_Wei_(speed_skater)
+1,69,A. Perreault,http://dbpedia.org/resource/Daniel_Perreault,http://dbpedia.org/resource/Annie_Perreault
+1,112,D. Feng,http://dbpedia.org/resource/Du_Feng,http://dbpedia.org/resource/Ding_Feng_(sport_shooter)
+1,127,D. Feng,http://dbpedia.org/resource/Du_Feng,http://dbpedia.org/resource/Ding_Feng_(sport_shooter)
+1,131,C. Brinker,http://dbpedia.org/resource/Julius_Brink,http://dbpedia.org/resource/Christine_Brinker http://dbpedia.org/resource/Christine_Wenzel http://dbpedia.org/resource/Christina_Wenzel
+1,136,A. Alipov,http://dbpedia.org/resource/Aleksandr_Alipov,http://dbpedia.org/resource/Alexey_Alipov http://dbpedia.org/resource/Aleksei_Alipov http://dbpedia.org/resource/Aleksey_Alipov http://dbpedia.org/resource/Alexei_Alipov
+1,141,V. Isakov,http://dbpedia.org/resource/Yury_Isakov,http://dbpedia.org/resource/Vladimir_Isakov
+1,144,J. Turner,http://dbpedia.org/resource/Jeff_Turner,http://dbpedia.org/resource/Jason_Turner_(sport_shooter)
+1,146,C. Brinker,http://dbpedia.org/resource/Julius_Brink,http://dbpedia.org/resource/Christine_Brinker http://dbpedia.org/resource/Christine_Wenzel http://dbpedia.org/resource/Christina_Wenzel
+1,151,A. Alipov,http://dbpedia.org/resource/Aleksandr_Alipov,http://dbpedia.org/resource/Alexey_Alipov http://dbpedia.org/resource/Aleksei_Alipov http://dbpedia.org/resource/Aleksey_Alipov http://dbpedia.org/resource/Alexei_Alipov
+1,156,V. Isakov,http://dbpedia.org/resource/Yury_Isakov,http://dbpedia.org/resource/Vladimir_Isakov
+1,159,J. Turner,http://dbpedia.org/resource/Jeff_Turner,http://dbpedia.org/resource/Jason_Turner_(sport_shooter)
+1,161,Z. Meftahatdinova,http://dbpedia.org/resource/Z._Z._Hill,http://dbpedia.org/resource/Zemfira_Meftakhetdinova http://dbpedia.org/resource/Zeliha_Atıcıoğlu http://dbpedia.org/resource/Zemfira_Meftahaddinova http://dbpedia.org/resource/Zemfira_Meftahatdinova
+1,164,K. Kůrková,http://dbpedia.org/resource/Karolína_Kurková,http://dbpedia.org/resource/Katerina_Kurkova http://dbpedia.org/resource/Kateřina_Kůrková http://dbpedia.org/resource/Katerina_Emmons http://dbpedia.org/resource/Kateřina_Emmons
+1,167,J. M. Rodríguez,http://dbpedia.org/resource/José_Marín_Rodríguez,http://dbpedia.org/resource/Juan_Miguel_Rodríguez
+1,168,W. Zheng,http://dbpedia.org/resource/Wang_Zheng_(hammer_thrower),http://dbpedia.org/resource/Wang_Zheng_(sport_shooter) http://dbpedia.org/resource/Wang_Zheng_(sports_shooter)
+1,171,K. Jong-su,http://dbpedia.org/resource/Ko_Jong-soo,http://dbpedia.org/resource/Kim_Jong-Su http://dbpedia.org/resource/金鐘秀 http://dbpedia.org/resource/Kim_Jong-su http://dbpedia.org/resource/Kim_Jong_Su http://dbpedia.org/resource/김정수 http://dbpedia.org/resource/Jong_Su_Kim
+1,174,V. Isakov,http://dbpedia.org/resource/Yury_Isakov,http://dbpedia.org/resource/Vladimir_Isakov
+1,176,Z. Meftahatdinova,http://dbpedia.org/resource/Z._Z._Hill,http://dbpedia.org/resource/Zemfira_Meftakhetdinova http://dbpedia.org/resource/Zeliha_Atıcıoğlu http://dbpedia.org/resource/Zemfira_Meftahaddinova http://dbpedia.org/resource/Zemfira_Meftahatdinova
+1,179,K. Kůrková,http://dbpedia.org/resource/Karolína_Kurková,http://dbpedia.org/resource/Katerina_Kurkova http://dbpedia.org/resource/Kateřina_Kůrková http://dbpedia.org/resource/Katerina_Emmons http://dbpedia.org/resource/Kateřina_Emmons
+1,182,J. M. Rodríguez,http://dbpedia.org/resource/José_Marín_Rodríguez,http://dbpedia.org/resource/Juan_Rodriguez_(sport_shooter) http://dbpedia.org/resource/Juan_Miguel_Rodriguez http://dbpedia.org/resource/Juan_Miguel_Rodríguez
+1,183,W. Zheng,http://dbpedia.org/resource/Wang_Zheng_(hammer_thrower),http://dbpedia.org/resource/Wang_Zheng_(sport_shooter) http://dbpedia.org/resource/Wang_Zheng_(sports_shooter)
+1,186,K. Jong-su,http://dbpedia.org/resource/Ko_Jong-soo,http://dbpedia.org/resource/Kim_Jong-Su http://dbpedia.org/resource/金鐘秀 http://dbpedia.org/resource/Kim_Jong-su http://dbpedia.org/resource/Kim_Jong_Su http://dbpedia.org/resource/김정수 http://dbpedia.org/resource/Jong_Su_Kim
+1,189,V. Isakov,http://dbpedia.org/resource/Yury_Isakov,http://dbpedia.org/resource/Vladimir_Isakov

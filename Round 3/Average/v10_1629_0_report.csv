@@ -1,0 +1,5 @@
+F1: 0.66667,Precision: 0.66667,Recall: 0.66667,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,R. W. Wilson,http://dbpedia.org/resource/Ronald_Reagan,http://dbpedia.org/resource/Robert_W._Wilson_(philanthropist)
+0,3,J. Milne,http://dbpedia.org/resource/John_Milne,http://dbpedia.org/resource/James_Milne_(railway_manager)
+0,8,B. Biggs,http://dbpedia.org/resource/Riley_Biggs,http://dbpedia.org/resource/Barton_Biggs http://dbpedia.org/resource/Barton_M._Biggs

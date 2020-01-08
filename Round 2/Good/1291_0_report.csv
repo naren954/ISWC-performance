@@ -1,0 +1,6 @@
+F1: 0.81818,Precision: 0.81818,Recall: 0.81818,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,W. Roberts,http://dbpedia.org/resource/William_Roberts_(painter),http://dbpedia.org/resource/Wilma_Roberts
+0,3,P. Laval,http://dbpedia.org/resource/Pierre_Laval,"http://dbpedia.org/resource/Pop_Laval http://dbpedia.org/resource/Claude_""Pop""_Laval"
+0,5,M. Nichols,http://dbpedia.org/resource/Marisol_Nichols,http://dbpedia.org/resource/Michael_Nichols_(photographer)
+0,6,M. Powell,http://dbpedia.org/resource/Michael_Powell,http://dbpedia.org/resource/Mark_Powell_(photographer) http://dbpedia.org/resource/Mark_Alor_Powell http://dbpedia.org/resource/Mark_Powell_(American_photographer)

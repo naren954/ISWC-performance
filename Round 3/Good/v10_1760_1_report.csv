@@ -1,0 +1,4 @@
+F1: 0.93333,Precision: 0.93333,Recall: 0.93333,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,7,O. D. Jr.,http://dbpedia.org/resource/Barack_Obama,"http://dbpedia.org/resource/Oleksandr_Dolgopolov http://dbpedia.org/resource/Oleksandr_Dolgopolov_Jr http://dbpedia.org/resource/Alexandr_Dolgopolov http://dbpedia.org/resource/Aleksandr_Dolgopolov,_Jr. http://dbpedia.org/resource/Oleksandr_Dolgopolov,_Jr. http://dbpedia.org/resource/Oleksandr_Dolgopolov_Jr."
+1,15,F. d. Bonis,http://dbpedia.org/resource/Francesco_De_Bonis,http://dbpedia.org/resource/Federico_Del_Bonis http://dbpedia.org/resource/Federico_del_Bonis http://dbpedia.org/resource/Federico_Delbonis

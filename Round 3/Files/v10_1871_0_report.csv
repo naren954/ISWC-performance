@@ -1,0 +1,6 @@
+"F1: 0.76471","Precision: 0.76471","Recall: 0.76471"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","1","A. Hughes","http://dbpedia.org/resource/Aaron_Hughes","http://dbpedia.org/resource/Albert_Hughes_(ice_hockey)"
+"0","6","A. Murray","http://dbpedia.org/resource/Aaron_Murray","http://dbpedia.org/resource/Al_Murray_(ice_hockey) http://dbpedia.org/resource/Allan_Murray_(ice_hockey)"
+"0","7","A. Millar","http://fr.dbpedia.org/resource/Aaron_Millar","http://dbpedia.org/resource/Al_Millar http://dbpedia.org/resource/Franklin_Millar"
+"0","17","É. Bouchard","http://dbpedia.org/resource/Cal_Bouchard","http://dbpedia.org/resource/Joseph_Émile_Bouchard http://dbpedia.org/resource/Emile_Bouchard http://dbpedia.org/resource/Emile_""Butch""_Bouchard http://dbpedia.org/resource/Joseph_Émile_Alcide_Bouchard http://dbpedia.org/resource/Émile_Bouchard http://dbpedia.org/resource/Butch_Bouchard"

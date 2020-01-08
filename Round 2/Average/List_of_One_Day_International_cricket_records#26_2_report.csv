@@ -1,0 +1,4 @@
+F1: 0.60000,Precision: 0.60000,Recall: 0.60000,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,2,Thisara Pereraâ\u0080¡,http://dbpedia.org/resource/C0_and_C1_control_codes,http://dbpedia.org/resource/Thissara_Perera http://dbpedia.org/resource/Thisara_Perera http://dbpedia.org/resource/Tissara_Perera http://dbpedia.org/resource/NLTC_Perera
+2,5,Kane Williamsonâ\u0080¡ James Franklinâ\u0080¡,"http://dbpedia.org/resource/James_Craig,_1st_Viscount_Craigavon",http://dbpedia.org/resource/Steady_the_ship http://dbpedia.org/resource/K._S._Williamson http://dbpedia.org/resource/Kane_Williamson http://dbpedia.org/resource/K.S._Williamson

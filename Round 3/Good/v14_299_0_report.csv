@@ -1,0 +1,10 @@
+F1: 0.85714,Precision: 0.85714,Recall: 0.85714,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,Amber,http://dbpedia.org/resource/The_Chronicles_of_Amber,http://dbpedia.org/resource/Amber_(TV_Series) http://dbpedia.org/resource/Amber_(TV_series)
+0,6,Alondra,http://dbpedia.org/resource/Alondra_(TV_series),http://dbpedia.org/resource/Alondra_(telenovela)
+0,14,Alice,http://dbpedia.org/resource/Alice_(TV_series),http://dbpedia.org/resource/Alice_(miniseries) http://dbpedia.org/resource/Alice_(2009_TV_Series) http://dbpedia.org/resource/Alice_(TV_Miniseries) http://dbpedia.org/resource/Alice_(TV_miniseries) http://dbpedia.org/resource/Alice_(2009_film)
+0,22,Against the Wind,http://dbpedia.org/resource/Against_the_Wind_(film),http://dbpedia.org/resource/Against_the_Wind_(miniseries) http://dbpedia.org/resource/Against_the_Wind_(TV_series)
+0,27,Accused,http://dbpedia.org/resource/The_Accused_(1988_film),http://dbpedia.org/resource/Accused_(TV_series)
+0,29,Abrázame muy fuerte,http://dbpedia.org/resource/Abrázame_muy_fuerte_(TV_series),http://dbpedia.org/resource/Abrázame_Muy_Fuerte http://dbpedia.org/resource/Abrázame_muy_fuerte http://dbpedia.org/resource/Abrazame_Muy_Fuerte http://dbpedia.org/resource/Abrazame_muy_Fuerte http://dbpedia.org/resource/Abrazame_muy_fuerte
+0,38,A Sucessora,http://dbpedia.org/resource/A_Sucessora_(TV_series),http://dbpedia.org/resource/A_Sucessora_(telenovela)
+0,52,1990,,http://dbpedia.org/resource/1990_(TV_series http://dbpedia.org/resource/1990_(TV_series)

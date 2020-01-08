@@ -1,0 +1,8 @@
+"F1: 0.89474","Precision: 0.89474","Recall: 0.89474"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","3","The Reaction","http://dbpedia.org/resource/Love_Reaction","http://dbpedia.org/resource/The_Reaction http://dbpedia.org/resource/The_Reaction_(novel) http://dbpedia.org/resource/The_Reaction_(Animorphs)"
+"0","5","The Ravagers","http://dbpedia.org/resource/The_Ravagers_(novel)","http://dbpedia.org/resource/The_Ravagers"
+"0","9","The Rainbow","http://dbpedia.org/resource/Rainbow_Six_(novel)","http://dbpedia.org/resource/Brangwen http://dbpedia.org/resource/The_Rainbow"
+"0","12","The Quest","http://dbpedia.org/resource/King's_Quest_I","http://dbpedia.org/resource/The_Quest_(novel)"
+"0","30","The Prophecy","http://dbpedia.org/resource/The_Prophecy_(novel)","http://dbpedia.org/resource/The_Prophecy_(Applegate_novel) http://dbpedia.org/resource/The_Prophecy_(Animorphs)"
+"0","56","The Predator","http://dbpedia.org/resource/Predators_(film)","http://dbpedia.org/resource/The_Predator_(novel) http://dbpedia.org/resource/The_Predator_(Animorphs)"

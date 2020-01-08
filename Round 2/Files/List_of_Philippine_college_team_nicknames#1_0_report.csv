@@ -1,0 +1,4 @@
+"F1: 0.60000","Precision: 0.60000","Recall: 0.60000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","3","Benguet State University","http://dbpedia.org/resource/Florida_State_University","http://dbpedia.org/resource/Benguet_State_University"
+"0","5","Bukidnon State University","http://dbpedia.org/resource/Ohio_State_University","http://dbpedia.org/resource/Bukidnon_State_University http://dbpedia.org/resource/The_Bukidnon_State_University http://dbpedia.org/resource/Bukidnon_State_College http://dbpedia.org/resource/BSU_-_Bukidnon_State_University"

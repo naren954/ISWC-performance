@@ -1,0 +1,10 @@
+F1: 0.93388,Precision: 0.93388,Recall: 0.93388,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,40,The Regime,http://dbpedia.org/resource/Communist_Party_of_Czechoslovakia,http://dbpedia.org/resource/The_Regime http://dbpedia.org/resource/The_Regime_(Left_Behind) http://dbpedia.org/resource/The_Regime_(novel)
+0,60,The Family Trade,http://fr.dbpedia.org/resource/Une_affaire_de_famille_(roman),http://dbpedia.org/resource/The_Family_Trade http://dbpedia.org/resource/Miriam_Beckstein
+0,72,The Dragon Knight,http://dbpedia.org/resource/The_Dragon_Knight_(novel),http://dbpedia.org/resource/The_Dragon_Knight
+0,75,The Descent,http://dbpedia.org/resource/Descent_(Star_Trek:_The_Next_Generation),http://dbpedia.org/resource/The_Descent_(novel)
+0,80,The Commodore,http://dbpedia.org/resource/The_Commodore,http://dbpedia.org/resource/The_Commodore_(book) http://dbpedia.org/resource/The_Commodore_(novel)
+0,90,The Aware,,http://dbpedia.org/resource/The_Aware
+0,101,Speed,http://dbpedia.org/resource/Speed_Racer,http://dbpedia.org/resource/Speed_(novel)
+0,119,Rising Sun,http://dbpedia.org/resource/The_House_of_the_Rising_Sun,http://dbpedia.org/resource/Rising_Sun_(book) http://dbpedia.org/resource/Rising_Sun_(novel)

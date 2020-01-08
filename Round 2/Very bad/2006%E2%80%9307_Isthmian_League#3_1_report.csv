@@ -1,0 +1,4 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,Metropolitan Police,http://dbpedia.org/resource/Paris,http://dbpedia.org/resource/Metropolitan_Police_F._C. http://dbpedia.org/resource/Metropolitan_Police_F.C. http://dbpedia.org/resource/Metropolitan_Police_FC http://dbpedia.org/resource/Metropolitan_Police_F_C
+1,2,Tilbury,"http://dbpedia.org/resource/London,_Tilbury_and_Southend_Railway",http://dbpedia.org/resource/Tilbury_F_C http://dbpedia.org/resource/Tilbury_F.C. http://dbpedia.org/resource/Tilbury_F._C. http://dbpedia.org/resource/Tilbury_FC

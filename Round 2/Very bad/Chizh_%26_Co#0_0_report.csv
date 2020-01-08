@@ -1,0 +1,4 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Chizh,http://dbpedia.org/resource/Maksim_Chizh,http://dbpedia.org/resource/Chizh_(album)
+0,2,Live,http://dbpedia.org/resource/Theatre,http://dbpedia.org/resource/Live_(Chizh_&_Co_album)

@@ -1,0 +1,9 @@
+F1: 0.70833,Precision: 0.70833,Recall: 0.70833,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,5,Time After Time,http://dbpedia.org/resource/Time_After_Time_(TV_series),http://dbpedia.org/resource/Time_after_Time_(1979_film) http://dbpedia.org/resource/Time_After_Time_(1979_movie) http://dbpedia.org/resource/Time_After_Time_(1979_film)
+1,8,Faerie Tale Theatre,http://fr.dbpedia.org/resource/Aladdin_and_His_Wonderful_Lamp,http://dbpedia.org/resource/Shelley_Duvall's_Faerie_Tale_Theatre http://dbpedia.org/resource/Faerie_Tale_Theatre http://dbpedia.org/resource/Fairytale_Theater
+1,9,Volunteers,http://dbpedia.org/resource/Volunteers_(Jefferson_Airplane_album),http://dbpedia.org/resource/Volunteers_(movie) http://dbpedia.org/resource/Volunteers_(film)
+1,17,The Informant,http://dbpedia.org/resource/The_Informant!,http://dbpedia.org/resource/The_Informant_(1997_film) http://dbpedia.org/resource/The_Informant_(film)
+1,18,The Odyssey,http://dbpedia.org/resource/2001:_A_Space_Odyssey_(film),http://dbpedia.org/resource/Die_Abenteuer_des_Odysseus http://dbpedia.org/resource/The_Odyssey_(TV_miniseries) http://dbpedia.org/resource/The_Odyssey_(miniseries) http://dbpedia.org/resource/The_Odyssey_(1997_movie) http://dbpedia.org/resource/The_Odyssey_(mini-series) http://dbpedia.org/resource/The_Odyssey_(1997_film)
+1,20,Vendetta,http://dbpedia.org/resource/Star_Wars:_Episode_III_–_Revenge_of_the_Sith,http://dbpedia.org/resource/Vendetta_(1999_film)
+1,28,Houdini,http://dbpedia.org/resource/Houdini_(1953_film),http://dbpedia.org/resource/Houdini_(miniseries)

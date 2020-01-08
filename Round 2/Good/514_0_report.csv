@@ -1,0 +1,4 @@
+F1: 0.97938,Precision: 0.97938,Recall: 0.97938,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,65,Gastrotheca ruizi,http://dbpedia.org/resource/Ruiz's_marsupial_frog,http://dbpedia.org/resource/Gastrotheca_ruizi
+0,86,Gastrotheca aureomaculata,http://dbpedia.org/resource/Gold-spotted_marsupial_frog,http://dbpedia.org/resource/Gastrotheca_aureomaculata http://dbpedia.org/resource/Gastrotheca_mertensi

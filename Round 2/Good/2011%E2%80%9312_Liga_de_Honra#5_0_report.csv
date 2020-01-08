@@ -1,0 +1,5 @@
+F1: 0.81250,Precision: 0.81250,Recall: 0.81250,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,AtlÃ©tico CP,http://dbpedia.org/resource/Atlético_Nacional,http://dbpedia.org/resource/Atlético_Clube_de_Portugal
+0,12,Portimonense,http://dbpedia.org/resource/Portimonense_S.C.,http://dbpedia.org/resource/Portimonense_S.C._(football) http://dbpedia.org/resource/Portimonense_S.C._(football_team)
+0,14,Sporting da CovilhÃ£,http://dbpedia.org/resource/S.C._Covilhã,http://dbpedia.org/resource/Sporting_Clube_da_Covilhã

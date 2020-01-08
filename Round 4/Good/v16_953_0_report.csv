@@ -1,0 +1,4 @@
+F1: 0.87500,Precision: 0.87500,Recall: 0.87500,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,13,A. Gomez,http://dbpedia.org/resource/Andrés_Gómez,http://dbpedia.org/resource/Anthony_Gomez
+0,15,A. Silva,"http://dbpedia.org/resource/André_Silva_(footballer,_born_1995)","http://dbpedia.org/resource/Anderson_The_Spider_Silva http://dbpedia.org/resource/Spider_Silva http://dbpedia.org/resource/Anderson_""The_Spider""_Silva http://dbpedia.org/resource/Anderson_Silva http://dbpedia.org/resource/Anderson_Silva:_Like_Water http://dbpedia.org/resource/Like_Water"

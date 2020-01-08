@@ -1,0 +1,4 @@
+"F1: 0.95652","Precision: 0.95652","Recall: 0.95652"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","4","USS Monocacy incident","http://dbpedia.org/resource/USS_Stark_incident","http://dbpedia.org/resource/USS_Monocacy_incident http://dbpedia.org/resource/USS_Monocacy_Incident"
+"0","23","Tullahoma Campaign","http://dbpedia.org/resource/Battle_of_Hoover's_Gap","http://dbpedia.org/resource/Tullahoma_Campaign http://dbpedia.org/resource/Middle_Tennessee_Campaign"

@@ -1,0 +1,6 @@
+"F1: 0.78947","Precision: 0.78947","Recall: 0.78947"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","7","St Andrews","http://dbpedia.org/resource/St._Andrews_F.C._(Malta)","http://dbpedia.org/resource/St_Andrews_SC_F.C. http://dbpedia.org/resource/St_Andrews_F.C. http://dbpedia.org/resource/St_Andrews_SC"
+"1","8","Sutton Town","http://dbpedia.org/resource/Sutton_Coldfield_Town_F.C.","http://dbpedia.org/resource/Sutton_Town_A.F.C. http://dbpedia.org/resource/Sutton_Town_A_F_C http://dbpedia.org/resource/A.F.C._Sutton http://dbpedia.org/resource/Sutton_Town_A._F._C. http://dbpedia.org/resource/Sutton_Town http://dbpedia.org/resource/Sutton_Town_AFC"
+"1","15","Radford","http://dbpedia.org/resource/Radford_Highlanders_men's_soccer","http://dbpedia.org/resource/Radford_F_C http://dbpedia.org/resource/Radford_F.C. http://dbpedia.org/resource/Radford_F._C. http://dbpedia.org/resource/Radford_FC"
+"1","19","Barrow Town","http://dbpedia.org/resource/Barrow_A.F.C.","http://dbpedia.org/resource/Barrow_Town_F.C. http://dbpedia.org/resource/Barrow_Town_F_C http://dbpedia.org/resource/Barrow_Town_FC http://dbpedia.org/resource/Barrow_Town_F._C. http://dbpedia.org/resource/Barrow_Town"

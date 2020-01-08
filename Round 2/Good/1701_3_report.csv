@@ -1,0 +1,20 @@
+F1: 0.90217,Precision: 0.90217,Recall: 0.90217,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,5,R. Fox,http://dbpedia.org/resource/Richard_Fox_(canoeist),http://dbpedia.org/resource/Ruby_Fox
+3,16,R. Fox,http://dbpedia.org/resource/Richard_Fox_(canoeist),http://dbpedia.org/resource/Ruby_Fox
+3,27,L. Carlsson,http://dbpedia.org/resource/Lennart_Carlsson,http://dbpedia.org/resource/Lars-Göran_Carlsson http://dbpedia.org/resource/Lars-Goran_Carlsson
+3,29,H. Vollmar,http://dbpedia.org/resource/Heinz_Vollmar,http://dbpedia.org/resource/Harald_Vollmar
+3,31,L. Carlsson,http://dbpedia.org/resource/Lennart_Carlsson,http://dbpedia.org/resource/Lars-Göran_Carlsson http://dbpedia.org/resource/Lars-Goran_Carlsson
+3,33,H. Vollmar,http://dbpedia.org/resource/Heinz_Vollmar,http://dbpedia.org/resource/Harald_Vollmar
+3,37,U. Lind,http://dbpedia.org/resource/Joan_Lind,http://dbpedia.org/resource/Ulrich_Lind
+3,38,H. Vollmar,http://dbpedia.org/resource/Heinz_Vollmar,http://dbpedia.org/resource/Harald_Vollmar
+3,43,U. Lind,http://dbpedia.org/resource/Joan_Lind,http://dbpedia.org/resource/Ulrich_Lind
+3,44,H. Vollmar,http://dbpedia.org/resource/Heinz_Vollmar,http://dbpedia.org/resource/Harald_Vollmar
+3,74,V. Velichkov,http://dbpedia.org/resource/Petar_Velichkov,http://dbpedia.org/resource/Velitchko_Khristov http://dbpedia.org/resource/Velitchko_Velichkov http://dbpedia.org/resource/Velichko_Velichkov_(sport_shooter)
+3,78,V. Velichkov,http://dbpedia.org/resource/Petar_Velichkov,http://dbpedia.org/resource/Velitchko_Khristov http://dbpedia.org/resource/Velitchko_Velichkov http://dbpedia.org/resource/Velichko_Velichkov_(sport_shooter)
+3,83,M. Nyýazow,,http://dbpedia.org/resource/Marat_Niyazov http://dbpedia.org/resource/Marat_Nyyazow http://dbpedia.org/resource/Marat_Nyýazow http://dbpedia.org/resource/Marat_Niyasov
+3,89,M. Nyýazow,,http://dbpedia.org/resource/Marat_Niyazov http://dbpedia.org/resource/Marat_Nyyazow http://dbpedia.org/resource/Marat_Nyýazow http://dbpedia.org/resource/Marat_Niyasov
+3,109,Á. León,http://dbpedia.org/resource/Joanna_of_Castile,http://dbpedia.org/resource/Angel_Leon http://dbpedia.org/resource/Ángel_Léon http://dbpedia.org/resource/Angel_Leon_Gonzalo http://dbpedia.org/resource/Ángel_León http://dbpedia.org/resource/Angel_Leon_de_Gozalo
+3,116,Á. León,http://dbpedia.org/resource/Joanna_of_Castile,http://dbpedia.org/resource/Angel_Leon http://dbpedia.org/resource/Ángel_Léon http://dbpedia.org/resource/Angel_Leon_Gonzalo http://dbpedia.org/resource/Ángel_León http://dbpedia.org/resource/Angel_Leon_de_Gozalo
+3,146,A. d. Costa,http://dbpedia.org/resource/Augusto_da_Costa,http://dbpedia.org/resource/Afrânio_da_Costa http://dbpedia.org/resource/Afranio_da_Costa
+3,155,A. d. Costa,http://dbpedia.org/resource/Augusto_da_Costa,http://dbpedia.org/resource/Afrânio_da_Costa http://dbpedia.org/resource/Afranio_da_Costa

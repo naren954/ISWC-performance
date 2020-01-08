@@ -1,0 +1,13 @@
+F1: 0.73171,Precision: 0.73171,Recall: 0.73171,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,T. Thomas,http://dbpedia.org/resource/Tra_Thomas,http://dbpedia.org/resource/Todd_Thomas_(American_football)
+0,4,T. O'Neill,http://dbpedia.org/resource/Tip_O'Neill_(baseball),http://dbpedia.org/resource/Tip_O'Neill_(American_football)
+0,5,T. Maxwell,http://dbpedia.org/resource/Tommy_Maxwell,http://dbpedia.org/resource/Bob_Maxwell http://dbpedia.org/resource/Tiny_Maxwell
+0,8,T. Washington,http://dbpedia.org/resource/Trooper_Washington,http://dbpedia.org/resource/Tim_Washington
+0,20,T. Brandl,"http://de.dbpedia.org/resource/Thomas_Brandl_(Eishockeyspieler,_1991)",http://dbpedia.org/resource/Therese_Brandl
+0,21,T. Doyle,http://dbpedia.org/resource/Ted_Doyle,http://dbpedia.org/resource/Theo_Doyle
+0,22,T. Bell,http://dbpedia.org/resource/Todd_Bell,http://dbpedia.org/resource/Theo_Bell
+0,29,T. Owens,http://dbpedia.org/resource/Terrell_Owens,http://dbpedia.org/resource/Terry_Owens_(American_football)
+0,32,T. Cole,http://dbpedia.org/resource/Trent_Cole,http://dbpedia.org/resource/Terry_Cole_(American_football)
+0,35,T. Morris,http://dbpedia.org/resource/Terence_Morris,http://dbpedia.org/resource/Ted_Morris http://dbpedia.org/resource/Teddy_Morris http://dbpedia.org/resource/Allan_Morris_(Canadian_football)
+0,41,T. Richards,http://dbpedia.org/resource/Tom_Richards_(rugby_union),http://dbpedia.org/resource/Ted_Richards_(American_football)

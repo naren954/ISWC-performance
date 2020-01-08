@@ -1,0 +1,6 @@
+F1: 0.83333,Precision: 0.83333,Recall: 0.83333,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Ó. González,http://dbpedia.org/resource/Omar_Gonzalez,http://dbpedia.org/resource/Óscar_González_(boxer) http://dbpedia.org/resource/Oscar_Gonzalez_(boxer)
+0,6,Y. P. Jackson,"http://dbpedia.org/resource/Young_Peter_Jackson_(boxer,_born_1877)",http://dbpedia.org/resource/Young_Peter_Jackson_(boxer_born_1877) http://dbpedia.org/resource/Young_Peter_Jackson
+0,14,"W. "". Mellody",http://dbpedia.org/resource/W._W._Jacobs,"http://dbpedia.org/resource/William_""Honey""_Mellody"
+0,18,W. Smith,http://fr.dbpedia.org/resource/Wayne_Smith_(basket-ball),"http://dbpedia.org/resource/Wallace_'Bud'_Smith http://dbpedia.org/resource/Wallace_Bud_Smith http://dbpedia.org/resource/Wallace_""Bud""_Smith http://dbpedia.org/resource/Wallace_‘Bud’_Smith http://dbpedia.org/resource/Wallace_Smith_(boxer) http://dbpedia.org/resource/Wallace_(Bud)_Smith"

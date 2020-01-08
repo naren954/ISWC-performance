@@ -1,0 +1,6 @@
+"F1: 0.63636","Precision: 0.63636","Recall: 0.63636"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","1","Sturup Raceway","http://dbpedia.org/resource/Anderstorp_Raceway","http://dbpedia.org/resource/Sturup_Raceway"
+"1","4","Karlskoga Motorstadion","http://dbpedia.org/resource/Karlskoga","http://dbpedia.org/resource/Karlskoga_Circuit http://dbpedia.org/resource/Karlskoga_Motorstadion http://dbpedia.org/resource/Gelleråsen"
+"1","8","Karlskoga Motorstadion","http://dbpedia.org/resource/Karlskoga","http://dbpedia.org/resource/Karlskoga_Circuit http://dbpedia.org/resource/Karlskoga_Motorstadion http://dbpedia.org/resource/Gelleråsen"
+"1","10","Sturup Raceway","http://dbpedia.org/resource/Anderstorp_Raceway","http://dbpedia.org/resource/Sturup_Raceway"

@@ -1,0 +1,4 @@
+F1: 0.87500,Precision: 0.87500,Recall: 0.87500,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,T. Wilson,http://dbpedia.org/resource/Ronald_Reagan,http://dbpedia.org/resource/Trey_Wilson
+0,6,R. Williams,http://dbpedia.org/resource/Ralph_Vaughan_Williams,http://dbpedia.org/resource/Robert_Williams_(actor)

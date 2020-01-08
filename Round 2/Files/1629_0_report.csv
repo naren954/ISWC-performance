@@ -1,0 +1,7 @@
+"F1: 0.90000","Precision: 0.90000","Recall: 0.90000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","11","J. Szabó","http://dbpedia.org/resource/József_Szabó_(footballer,_born_1896)","http://dbpedia.org/resource/José_Szabo http://dbpedia.org/resource/Jozsef_Szabo_(Hungarian_footballer) http://dbpedia.org/resource/József_Szabó_(Hungarian_footballer)"
+"0","23","J. Bédl","http://dbpedia.org/resource/J","http://dbpedia.org/resource/Bedl http://dbpedia.org/resource/János_Bédl http://dbpedia.org/resource/Janos_Bedl"
+"0","41","J. Enríquez","http://dbpedia.org/resource/Jorge_Enríquez","http://dbpedia.org/resource/Juanjo_Enríquez"
+"0","48","J. Márquez","http://dbpedia.org/resource/Rafael_Márquez","http://dbpedia.org/resource/Juan_Márquez"
+"0","50","J. Márquez","http://dbpedia.org/resource/Rafael_Márquez","http://dbpedia.org/resource/Juan_Márquez"

@@ -1,0 +1,4 @@
+F1: 0.71429,Precision: 0.71429,Recall: 0.71429,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,10,Hollandâ\u0080\u0093Dozierâ\u0080\u0093Holland,http://dbpedia.org/resource/Netherlands,http://dbpedia.org/resource/Holland–Dozier–Holland
+1,31,Jeff Barry and Ellie Greenwich,http://dbpedia.org/resource/Why_Don't_They_Let_Us_Fall_in_Love,http://dbpedia.org/resource/Jeff_Barry http://dbpedia.org/resource/Jeffrey_Barry http://dbpedia.org/resource/Geoff_Barry http://dbpedia.org/resource/J._Barry

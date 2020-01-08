@@ -1,0 +1,6 @@
+F1: 0.75000,Precision: 0.75000,Recall: 0.75000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,3,The Game,http://dbpedia.org/resource/Game_of_Thrones,http://dbpedia.org/resource/The_Game_(1997_film) http://dbpedia.org/resource/Consumer_Recreation_Services http://dbpedia.org/resource/Nicholas_Van_Orton
+1,6,Human Nature,http://dbpedia.org/resource/Human_Nature_(Michael_Jackson_song),http://dbpedia.org/resource/Human_Nature_(film)
+1,10,The Fall,http://dbpedia.org/resource/The_Fall_(TV_series),http://dbpedia.org/resource/The_Fall_(2006_Film) http://dbpedia.org/resource/The_Fall_(2006_film)
+1,13,The 1 Second Film,http://dbpedia.org/resource/The_Naked_Gun_2½:_The_Smell_of_Fear,http://dbpedia.org/resource/The_1_Second_Film http://dbpedia.org/resource/T1SF http://dbpedia.org/resource/1-Second_Film http://dbpedia.org/resource/One_Second_Film http://dbpedia.org/resource/The_1-Second_Film http://dbpedia.org/resource/The_One_Second_Film http://dbpedia.org/resource/One-Second_Film http://dbpedia.org/resource/The_One-Second_Film http://dbpedia.org/resource/List_Of_The_One_Second_Film_Producers http://dbpedia.org/resource/1_Second_Film

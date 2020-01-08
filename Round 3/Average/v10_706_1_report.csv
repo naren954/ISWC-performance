@@ -1,0 +1,10 @@
+F1: 0.55556,Precision: 0.55556,Recall: 0.55556,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,2,KBNT-CD,http://dbpedia.org/resource/.cd,http://dbpedia.org/resource/KBNT http://dbpedia.org/resource/KDTF http://dbpedia.org/resource/KBNT-CA http://dbpedia.org/resource/KBNT-TV http://dbpedia.org/resource/KBNT-CD http://dbpedia.org/resource/KDTF-LP http://dbpedia.org/resource/KTCD-LP http://dbpedia.org/resource/KHAX-LP http://dbpedia.org/resource/KTCD-CA
+1,4,Fox Sports Southwest,http://dbpedia.org/resource/Fox_Sports_(Australia),http://dbpedia.org/resource/Prime_Sports_Southwest http://dbpedia.org/resource/FSN-SW http://dbpedia.org/resource/Fox_Sports_Southwest_Plus http://dbpedia.org/resource/Home_Sports_Entertainment http://dbpedia.org/resource/Fox_Sports_Southwest http://dbpedia.org/resource/Bill_Land http://dbpedia.org/resource/FSN_Southwest http://dbpedia.org/resource/FS_Southwest http://dbpedia.org/resource/Fox_Sports_Net_Southwest
+1,9,KPXB-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/KPXB-TV http://dbpedia.org/resource/KPXB
+1,12,KCBS,http://dbpedia.org/resource/KCBS-TV,http://dbpedia.org/resource/KCBS_(AM) http://dbpedia.org/resource/KCBS-AM
+1,13,KFOR-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/K40JP-D http://dbpedia.org/resource/K14MU-D http://dbpedia.org/resource/K17ID-D http://dbpedia.org/resource/K45JZ-D http://dbpedia.org/resource/K31JQ-D http://dbpedia.org/resource/KFOR-DT http://dbpedia.org/resource/Mike_Morgan_(meteorologist) http://dbpedia.org/resource/Kfor.com http://dbpedia.org/resource/K35KE-D http://dbpedia.org/resource/KFOR-TV http://dbpedia.org/resource/WKY-TV http://dbpedia.org/resource/K51EB http://dbpedia.org/resource/K23IZ-D http://dbpedia.org/resource/K43KU-D
+1,14,KTNL-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/KTNL-TV
+1,16,KLRT-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/KLRT http://dbpedia.org/resource/KLRT-TV http://dbpedia.org/resource/FOX16
+1,17,KDIS,http://dbpedia.org/resource/KRDC_(AM),http://dbpedia.org/resource/KDIS_(AM) http://dbpedia.org/resource/KRLA_1110 http://dbpedia.org/resource/KDIS-AM

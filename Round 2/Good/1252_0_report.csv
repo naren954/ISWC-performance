@@ -1,0 +1,5 @@
+F1: 0.86957,Precision: 0.86957,Recall: 0.86957,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,11,C. Reder,http://de.dbpedia.org/resource/Christian_Reder,http://dbpedia.org/resource/Kristiaan_Reuder http://dbpedia.org/resource/Christian_Reder
+0,14,B. Law,http://dbpedia.org/resource/Bonar_Law,http://dbpedia.org/resource/Bob_Law
+0,20,A. T. Blacker,http://dbpedia.org/resource/Lydia_T._Black,http://dbpedia.org/resource/Ann_Thetis_Blacker http://dbpedia.org/resource/Thetis_Blacker http://dbpedia.org/resource/Ann_Blacker

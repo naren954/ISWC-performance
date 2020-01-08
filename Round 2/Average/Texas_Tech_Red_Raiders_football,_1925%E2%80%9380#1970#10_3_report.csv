@@ -1,0 +1,7 @@
+F1: 0.54545,Precision: 0.54545,Recall: 0.54545,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,1,Montana State Bozeman,http://dbpedia.org/resource/Montana_State_University,http://dbpedia.org/resource/Montana_State_Bobcats_football http://dbpedia.org/resource/List_of_Montana_State_Bobcats_bowl_games
+3,4,Oklahoma City,http://dbpedia.org/resource/Oklahoma_City_Stars,http://dbpedia.org/resource/Oklahoma_City_College http://dbpedia.org/resource/Oklahoma_City_University_School_of_Drama http://dbpedia.org/resource/Oklahoma_City_University http://dbpedia.org/resource/Fort_Worth_University http://dbpedia.org/resource/Oklahoma_Methodist_University http://dbpedia.org/resource/Epworth_University
+3,5,Montana,http://dbpedia.org/resource/Montana_Grizzlies_and_Lady_Griz,http://dbpedia.org/resource/Montana_Grizzlies_football
+3,9,New Mexico,http://dbpedia.org/resource/New_Mexico_Lobos,http://dbpedia.org/resource/New_Mexico_Lobo_football http://dbpedia.org/resource/New_Mexico_Lobo_Football http://dbpedia.org/resource/List_of_New_Mexico_Lobos_bowl_games http://dbpedia.org/resource/New_Mexico_Lobos_football http://dbpedia.org/resource/New_mexico_lobos_football
+3,11,St. Mary's (California) (Cotton Bowl Classic),http://dbpedia.org/resource/Saint_Mary's_Gaels,http://dbpedia.org/resource/Saint_Mary's_College_of_California

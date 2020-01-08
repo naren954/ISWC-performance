@@ -1,0 +1,5 @@
+F1: 0.25000,Precision: 0.25000,Recall: 0.25000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,El Nacional,http://dbpedia.org/resource/Nationalmuseum,http://dbpedia.org/resource/CD_El_Nacional http://dbpedia.org/resource/Nacional_Quito http://dbpedia.org/resource/Club_Deportivo_El_Nacional http://dbpedia.org/resource/C.D._El_Nacional http://dbpedia.org/resource/El_Nacional_(Quito)
+0,3,Caracas,http://dbpedia.org/resource/Caracas,http://dbpedia.org/resource/Caracas_Futbol_Club http://dbpedia.org/resource/Caracas_FC http://dbpedia.org/resource/Caracas_F.C http://dbpedia.org/resource/Caracas_Fútbol_Club http://dbpedia.org/resource/Caracas_F.C.
+0,4,Universitario,http://dbpedia.org/resource/University_of_Puerto_Rico_at_Mayagüez,http://dbpedia.org/resource/Universitario_(Lima) http://dbpedia.org/resource/Universitario http://dbpedia.org/resource/Club_Universitario http://dbpedia.org/resource/Club_Universitario_de_Deportes http://dbpedia.org/resource/Los_Cremas http://dbpedia.org/resource/Universitario_de_Deportes

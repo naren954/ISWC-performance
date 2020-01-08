@@ -1,0 +1,12 @@
+F1: 0.89899,Precision: 0.89899,Recall: 0.89899,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,14,E. Johnson,http://dbpedia.org/resource/Lyndon_B._Johnson,http://dbpedia.org/resource/Eddie_Johnson_(racing_driver) http://dbpedia.org/resource/Eddie_Johnson_(auto_racer)
+0,17,D. Carter,http://dbpedia.org/resource/Dixie_Carter,http://dbpedia.org/resource/Duane_Carter http://dbpedia.org/resource/Duane_Claude_Carter
+0,23,D. Gibson,http://dbpedia.org/resource/Michael_Gibson_(TV_presenter),http://dbpedia.org/resource/Dickie_Gibson http://dbpedia.org/resource/Dick_Gibson
+0,27,D. Wilson,http://dbpedia.org/resource/Dwaine_Wilson,http://dbpedia.org/resource/Dempsey_Wilson
+0,33,C. Harrison,http://dbpedia.org/resource/Caroline_Harrison,http://dbpedia.org/resource/Cuth_Harrison
+0,35,C. Davis,http://dbpedia.org/resource/Curt_Davis,http://dbpedia.org/resource/Colin_Davis_(auto_racing) http://dbpedia.org/resource/Colin_Davis_(racing_driver) http://dbpedia.org/resource/Colin_Davis_(racecar_driver) http://dbpedia.org/resource/Colin_Davis_(driver)
+0,53,C. Green,http://dbpedia.org/resource/Carl_Green,http://dbpedia.org/resource/Cecil_Green
+0,69,B. Scott,http://dbpedia.org/resource/Brian_Scott,http://dbpedia.org/resource/Bob_Scott_(racind_driver) http://dbpedia.org/resource/Bob_Scott_(racing_driver) http://dbpedia.org/resource/Bob_Scott_(auto_racer)
+0,93,A. Simon,http://dbpedia.org/resource/Simón_Bolívar,http://dbpedia.org/resource/André_Simon_(racing_driver) http://dbpedia.org/resource/Andre_Simon_(racing_driver)
+0,98,A. Simon,http://dbpedia.org/resource/Simón_Bolívar,http://dbpedia.org/resource/André_Simon_(racing_driver) http://dbpedia.org/resource/Andre_Simon_(racing_driver)

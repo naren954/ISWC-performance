@@ -1,0 +1,5 @@
+F1: 0.88000,Precision: 0.88000,Recall: 0.88000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,2,With Me,http://dbpedia.org/resource/With_Me_(Destiny's_Child_song),http://dbpedia.org/resource/Sum_41_with_me http://dbpedia.org/resource/With_Me_(Sum_41_song)
+1,9,Why Can't We Be Friends?,,http://dbpedia.org/resource/Why_Can't_We_Be_Friends_(song) http://dbpedia.org/resource/Why_Can't_We_Be_Friends?_(song) http://dbpedia.org/resource/Why_Can't_We_be_Friends_(song)
+1,14,My Baby,http://dbpedia.org/resource/My_Baby_(The_Temptations_song),http://dbpedia.org/resource/My_Baby_(Bow_Wow_song)

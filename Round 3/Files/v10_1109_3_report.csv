@@ -1,0 +1,7 @@
+"F1: 0.79167","Precision: 0.79167","Recall: 0.79167"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"3","6","B. Merrill","http://dbpedia.org/resource/Dina_Merrill","http://dbpedia.org/resource/Bob_Merrill"
+"3","9","R. Hill","http://de.dbpedia.org/resource/Ross_Hill","http://dbpedia.org/resource/Richard_Hill_(musician) http://dbpedia.org/resource/Richard_Hill_(Musician)"
+"3","17","C. Paul","http://dbpedia.org/resource/Paul_McCartney","http://dbpedia.org/resource/Cinco_Paul http://dbpedia.org/resource/Cinco_Paul_and_Ken_Daurio http://dbpedia.org/resource/Ken_Daurio"
+"3","21","B. Merrill","http://dbpedia.org/resource/Dina_Merrill","http://dbpedia.org/resource/Bob_Merrill"
+"3","24","J. M. Gray","http://dbpedia.org/resource/John_Edward_Gray","http://dbpedia.org/resource/John_Gray_(playwright) http://dbpedia.org/resource/John_MacLachlan_Gray"

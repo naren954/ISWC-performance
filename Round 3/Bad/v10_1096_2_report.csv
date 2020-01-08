@@ -1,0 +1,23 @@
+F1: 0.36364,Precision: 0.36364,Recall: 0.36364,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,1,K. Levine,http://dbpedia.org/resource/Paul_Levine,http://dbpedia.org/resource/Ken_Levine_(video_game_designer) http://dbpedia.org/resource/Ken_Levine_(game_developer)
+2,2,K. Levine,http://dbpedia.org/resource/Paul_Levine,http://dbpedia.org/resource/Ken_Levine_(video_game_designer) http://dbpedia.org/resource/Ken_Levine_(game_developer)
+2,3,M. Ancel,http://fr.dbpedia.org/resource/Jules_Ancel,http://dbpedia.org/resource/Michel_Ancel
+2,4,D. Cage,http://dbpedia.org/resource/John_Cage,http://dbpedia.org/resource/David_Cage http://dbpedia.org/resource/David_De_Gruttola
+2,5,K. Nojima,http://dbpedia.org/resource/Minoru_Nojima,http://dbpedia.org/resource/Kazushige_Nojima-san http://dbpedia.org/resource/Kazushige_Nojima http://dbpedia.org/resource/Nojima_Kazushige
+2,7,S. Hall,http://dbpedia.org/resource/Sam_Hall_(diver),http://dbpedia.org/resource/Steven_Hall_(author)
+2,8,C. May,http://dbpedia.org/resource/Chad_May,http://dbpedia.org/resource/Corey_May
+2,9,S. Hill,http://dbpedia.org/resource/Susan_Hill,http://dbpedia.org/resource/Sefton_Hill
+2,12,M. Kato,http://dbpedia.org/resource/Moriyuki_Kato,http://dbpedia.org/resource/Masato_Kato
+2,14,M. Toriyama,,http://dbpedia.org/resource/Motomu_Toriyama
+2,17,C. May,http://dbpedia.org/resource/Chad_May,http://dbpedia.org/resource/Corey_May
+2,18,C. May,http://dbpedia.org/resource/Chad_May,http://dbpedia.org/resource/Corey_May
+2,19,C. May,http://dbpedia.org/resource/Chad_May,http://dbpedia.org/resource/Corey_May
+2,20,C. May,http://dbpedia.org/resource/Chad_May,http://dbpedia.org/resource/Corey_May
+2,21,C. May,http://dbpedia.org/resource/Chad_May,http://dbpedia.org/resource/Corey_May
+2,22,C. May,http://dbpedia.org/resource/Chad_May,http://dbpedia.org/resource/Corey_May
+2,23,C. May,http://dbpedia.org/resource/Chad_May,http://dbpedia.org/resource/Corey_May
+2,25,J. Maeda,http://dbpedia.org/resource/John_Maeda,http://dbpedia.org/resource/Maeda_Jun http://dbpedia.org/resource/Jun_Maeda http://dbpedia.org/resource/麻枝准
+2,27,G. Rennie,http://dbpedia.org/resource/George_Rennie_(Canadian_politician),http://dbpedia.org/resource/Gordon_Rennie
+2,29,P. Ward,http://dbpedia.org/resource/Pete_Ward,http://dbpedia.org/resource/Pendleton_Ward http://dbpedia.org/resource/Pen_Ward
+2,30,P. Ward,http://dbpedia.org/resource/Pete_Ward,http://dbpedia.org/resource/Pendleton_Ward http://dbpedia.org/resource/Pen_Ward

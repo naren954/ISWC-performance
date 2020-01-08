@@ -1,0 +1,7 @@
+F1: 0.92188,Precision: 0.92188,Recall: 0.92188,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,13,F. Jones,"http://dbpedia.org/resource/Fred_Jones_(footballer,_born_1922)",http://dbpedia.org/resource/Frank_Jones_(American_football)
+0,37,"F. "". O'Neill",http://dbpedia.org/resource/Fred_O'Neill,"http://dbpedia.org/resource/Buck_O'Neill http://dbpedia.org/resource/Buck_o'neill http://dbpedia.org/resource/Frank_J._""Buck""_O'Neill_(football_coach) http://dbpedia.org/resource/Frank_O'Neill_(American_football_coach) http://dbpedia.org/resource/Frank_""Buck""_O'Neill http://dbpedia.org/resource/Frank_J._O'Neill http://dbpedia.org/resource/Buck_O'neill"
+0,38,F. Schmidt,http://de.dbpedia.org/resource/Ferenc_Schmidt,http://dbpedia.org/resource/Francis_Schmidt
+0,39,F. M. Cayou,http://dbpedia.org/resource/Frank_Cayou,http://dbpedia.org/resource/Francis_M._Cayou
+0,47,F. Perkins,http://dbpedia.org/resource/Ray_Perkins,http://dbpedia.org/resource/Forrest_Perkins

@@ -1,0 +1,8 @@
+"F1: 0.25000","Precision: 0.25000","Recall: 0.25000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","1","Points","http://dbpedia.org/resource/Three_points_for_a_win","http://dbpedia.org/resource/Scorer_(basketball) http://dbpedia.org/resource/Point_(basketball)"
+"0","2","Rebounds","http://dbpedia.org/resource/Rebound_(2005_film)","http://dbpedia.org/resource/Team_rebound http://dbpedia.org/resource/Rebounds_per_game http://dbpedia.org/resource/Defensive_rebound http://dbpedia.org/resource/Crash_the_boards http://dbpedia.org/resource/Box_out http://dbpedia.org/resource/Rebounder_(basketball) http://dbpedia.org/resource/Rebound_(basketball) http://dbpedia.org/resource/Team_rebounds http://dbpedia.org/resource/Offensive_rebound http://dbpedia.org/resource/Rebound_basketball http://dbpedia.org/resource/Boxing_out"
+"0","3","Assists","http://dbpedia.org/resource/UEFA_Champions_League","http://dbpedia.org/resource/Assists_per_game http://dbpedia.org/resource/Dime_(basketball) http://dbpedia.org/resource/Assist_(basketball)"
+"0","4","Steals","http://dbpedia.org/resource/Theft","http://dbpedia.org/resource/Basketball_(steal) http://dbpedia.org/resource/Steal_(basketball) http://dbpedia.org/resource/Steals_(basketball)"
+"0","5","Blocks","http://dbpedia.org/resource/City_block","http://dbpedia.org/resource/Shot-blocking http://dbpedia.org/resource/Chase-down_block http://dbpedia.org/resource/Blocked_shot http://dbpedia.org/resource/Block_(basketball) http://dbpedia.org/resource/Block_shot http://dbpedia.org/resource/Shots_blocked http://dbpedia.org/resource/Blocked_shots"
+"0","6","Field goals made","http://dbpedia.org/resource/Three-point_field_goal","http://dbpedia.org/resource/Field_goal_(basketball)"

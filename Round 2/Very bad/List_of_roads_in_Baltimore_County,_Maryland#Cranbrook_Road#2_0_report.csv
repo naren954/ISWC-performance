@@ -1,0 +1,4 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,Charles Street,,http://dbpedia.org/resource/Cathedral_Street_(Baltimore) http://dbpedia.org/resource/Maryland_Route_139 http://dbpedia.org/resource/MD_139 http://dbpedia.org/resource/Maryland_State_Route_139 http://dbpedia.org/resource/Maryland_Avenue http://dbpedia.org/resource/Charles_Street_Scenic_Byway http://dbpedia.org/resource/MD-139 http://dbpedia.org/resource/Route_139_(Maryland) http://dbpedia.org/resource/Maryland_139 http://dbpedia.org/resource/Liberty_Street_(Baltimore) http://dbpedia.org/resource/Maryland_State_Highway_139 http://dbpedia.org/resource/Charles_Street_(Baltimore) http://dbpedia.org/resource/Maryland_Avenue_(Baltimore) http://dbpedia.org/resource/Baltimore's_Historic_Charles_Street
+0,7,Cromwell Bridge Road,http://dbpedia.org/resource/Tiffany_Cromwell,http://dbpedia.org/resource/Cromwell_Bridge_Road

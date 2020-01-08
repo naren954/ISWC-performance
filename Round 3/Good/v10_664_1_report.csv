@@ -1,0 +1,5 @@
+F1: 0.86957,Precision: 0.86957,Recall: 0.86957,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,2,The Various,http://dbpedia.org/resource/Various_Positions,http://dbpedia.org/resource/The_Various
+1,9,The Fall,http://dbpedia.org/resource/The_Fall_(Norah_Jones_album),http://dbpedia.org/resource/The_Fall_(Garth_Nix_novel) http://dbpedia.org/resource/The_Fall_(Nix_novel)
+1,22,Haunted,http://dbpedia.org/resource/Haunted_(Palahniuk_novel),http://dbpedia.org/resource/Haunted_(Armstrong_novel)

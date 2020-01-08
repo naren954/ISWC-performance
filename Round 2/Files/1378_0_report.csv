@@ -1,0 +1,4 @@
+"F1: 0.96552","Precision: 0.96552","Recall: 0.96552"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","1","J. Holmes","http://dbpedia.org/resource/Jim_Holmes","http://dbpedia.org/resource/Jackie_Holmes http://dbpedia.org/resource/John_Holmes_(driver)"
+"0","20","H. Walter","http://dbpedia.org/resource/Fritz_Walter","http://dbpedia.org/resource/Heini_Walter"

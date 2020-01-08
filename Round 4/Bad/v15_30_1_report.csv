@@ -1,0 +1,7 @@
+F1: 0.50000,Precision: 0.50000,Recall: 0.50000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,A. Sacco,http://it.dbpedia.org/resource/Andreina_Sacco,"http://dbpedia.org/resource/Albert_Sacco http://dbpedia.org/resource/Albert_Sacco_Jr. http://dbpedia.org/resource/Dr._Albert_Sacco http://dbpedia.org/resource/Albert_Sacco,_Jr."
+1,2,P. Nelson,http://dbpedia.org/resource/Paul_Nelson_(composer),http://dbpedia.org/resource/Peter_Nelson_(researcher)
+1,3,J. G. Ellis,http://dbpedia.org/resource/Joseph_Ellis,http://dbpedia.org/resource/James_G._Ellis
+1,8,FAIA,http://dbpedia.org/resource/Fagus_sylvatica,http://dbpedia.org/resource/Fellow_of_the_American_Institute_of_Architects http://dbpedia.org/resource/F.A.I.A. http://dbpedia.org/resource/FAIA http://dbpedia.org/resource/Hon._FAIA http://dbpedia.org/resource/Fellows_of_the_American_Institute_of_Architects
+1,10,Pharm.D.,http://dbpedia.org/resource/Darryl_S._Inaba,http://dbpedia.org/resource/Pharm.D http://dbpedia.org/resource/Doctorate_of_Pharmacy http://dbpedia.org/resource/Pharm_d http://dbpedia.org/resource/Pharm.D. http://dbpedia.org/resource/Doctor_of_pharmacy http://dbpedia.org/resource/Doctor_of_Pharmacy http://dbpedia.org/resource/Doctorate_in_Pharmacy http://dbpedia.org/resource/Dpharm http://dbpedia.org/resource/PharmD http://dbpedia.org/resource/Pharmd. http://dbpedia.org/resource/Pharmd

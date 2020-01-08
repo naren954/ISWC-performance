@@ -1,0 +1,5 @@
+"F1: 0.62500","Precision: 0.62500","Recall: 0.62500"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","2","R. Miller","http://dbpedia.org/resource/Roger_Miller","http://dbpedia.org/resource/Ruth_Miller_(artist)"
+"0","5","J. B. Jr.","http://dbpedia.org/resource/Bill_Clinton","http://dbpedia.org/resource/John_Bell_Jr."
+"0","6","J. W. Cooke","http://dbpedia.org/resource/Edward_William_Cooke","http://dbpedia.org/resource/Jane_White_Cooke http://dbpedia.org/resource/Jane_White_Hawkes"

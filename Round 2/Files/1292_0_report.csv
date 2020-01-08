@@ -1,0 +1,6 @@
+"F1: 0.75000","Precision: 0.75000","Recall: 0.75000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","1","W. Roberts","http://dbpedia.org/resource/William_Roberts_(painter)","http://dbpedia.org/resource/Wilma_Roberts"
+"0","5","P. Laval","http://dbpedia.org/resource/Pierre_Laval","http://dbpedia.org/resource/Claude_""Pop""_Laval http://dbpedia.org/resource/Pop_Laval"
+"0","8","G. Harrison","http://dbpedia.org/resource/George_Harrison","http://dbpedia.org/resource/Gabe_Harrison http://dbpedia.org/resource/Gabriel_Harrison"
+"0","13","C. Alexander","http://dbpedia.org/resource/Claudia_Alexander","http://dbpedia.org/resource/Cris_Alexander"

@@ -1,0 +1,5 @@
+"F1: 0.57143","Precision: 0.57143","Recall: 0.57143"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","4","AAA chipset (AAA)","http://dbpedia.org/resource/Advanced_Amiga_Architecture_chipset","http://dbpedia.org/resource/Advanced_Amiga_Architecture http://dbpedia.org/resource/Amiga_Advanced_Architecture_chipset http://dbpedia.org/resource/AAA_chipset http://dbpedia.org/resource/Amiga_advanced_architecture_chipset http://dbpedia.org/resource/AAA_Chipset"
+"0","5","Amiga Ranger Chipset","http://dbpedia.org/resource/Amiga_Enhanced_Chip_Set","http://dbpedia.org/resource/Amiga_Ranger_Chipset"
+"0","7","Hombre chipset","http://dbpedia.org/resource/Original_Chip_Set","http://dbpedia.org/resource/Amiga_Hombre_chipset http://dbpedia.org/resource/Amiga_hombre_chipset http://dbpedia.org/resource/Amiga_The_Hombre_chipset http://dbpedia.org/resource/The_Hombre_chipset http://dbpedia.org/resource/Hombre_chipset"

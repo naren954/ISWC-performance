@@ -1,0 +1,4 @@
+F1: 0.50000,Precision: 0.50000,Recall: 0.50000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,San Diego Gulls,http://dbpedia.org/resource/San_Diego_Gulls,http://dbpedia.org/resource/San_Diego_Gulls_(1990–1995)
+0,3,Phoenix Roadrunners,http://dbpedia.org/resource/Phoenix_Roadrunners_(WHA),http://dbpedia.org/resource/Phoenix_Roadrunners_(IHL)

@@ -1,0 +1,4 @@
+"F1: 0.84615","Precision: 0.84615","Recall: 0.84615"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","4","Temple Emanuel","http://dbpedia.org/resource/Temple_Emanuel_(Pearl_Street,_Denver)","http://dbpedia.org/resource/Temple_Emanuel_(Curtis_Street,_Denver,_Colorado)"
+"0","10","Mount Sinai Temple","http://dbpedia.org/resource/Temple_Sinai_(Oakland,_California)","http://dbpedia.org/resource/Mount_Sinai_Temple_(Sioux_City,_Iowa)"

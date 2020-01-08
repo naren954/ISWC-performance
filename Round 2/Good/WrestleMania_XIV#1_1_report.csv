@@ -1,0 +1,5 @@
+F1: 0.76923,Precision: 0.76923,Recall: 0.76923,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,2,Sniper,http://dbpedia.org/resource/Wesley_Snipes,http://dbpedia.org/resource/Sniper_(wrestler) http://dbpedia.org/resource/Rocky_Montana http://dbpedia.org/resource/Luc_Poirier http://dbpedia.org/resource/Le_Merveille_Masquee http://dbpedia.org/resource/Mark_Rambo http://dbpedia.org/resource/Rambo_(wrestler)
+1,11,Scott Taylor,http://dbpedia.org/resource/Scott_Taylor_(rugby_league),http://dbpedia.org/resource/Scott_Garland_(wrestler) http://dbpedia.org/resource/Scotty_the_hotty http://dbpedia.org/resource/S2h http://dbpedia.org/resource/Scotty_to_hotty http://dbpedia.org/resource/Scotty_Too_Hotty http://dbpedia.org/resource/Jeff_Taylor_(wrestler) http://dbpedia.org/resource/Scotty_2_Hotty http://dbpedia.org/resource/Scott_Garland_(professional_wrestler)
+1,15,Hawk and Animal,http://dbpedia.org/resource/Road_Warrior_Animal,http://dbpedia.org/resource/Road_Warrior_Hawk http://dbpedia.org/resource/Hawk_Warrior http://dbpedia.org/resource/Michael_Hegstrand http://dbpedia.org/resource/Hawk_(wrestler)

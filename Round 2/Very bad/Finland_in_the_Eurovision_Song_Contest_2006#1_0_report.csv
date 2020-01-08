@@ -1,0 +1,4 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Estonia Germany Iceland Poland Sweden United Kingdom,http://dbpedia.org/resource/Currency,http://dbpedia.org/resource/Estonia_in_the_Eurovision_Song_Contest http://dbpedia.org/resource/Estonia_in_the_eurovision_song_contest
+0,3,France Moldova Romania Switzerland,http://dbpedia.org/resource/Universal_Music_Group,http://dbpedia.org/resource/France_in_the_eurovision_song_contest http://dbpedia.org/resource/France_in_the_Eurovision_Song_Contest

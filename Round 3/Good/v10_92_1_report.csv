@@ -1,0 +1,3 @@
+F1: 0.95833,Precision: 0.95833,Recall: 0.95833,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,16,"St Anne, Alderney",http://dbpedia.org/resource/Lytham_St_Annes,"http://dbpedia.org/resource/St_Anne,_Alderney http://dbpedia.org/resource/Saint_Anne,_Alderney http://dbpedia.org/resource/St._Anne,_Alderney"

@@ -1,0 +1,15 @@
+F1: 0.82192,Precision: 0.82192,Recall: 0.82192,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,2,G. Esparza,http://dbpedia.org/resource/Marlen_Esparza,http://dbpedia.org/resource/Gabriel_Esparza
+3,7,W. Hao,http://dbpedia.org/resource/Wang_Hao_(chess_player),http://dbpedia.org/resource/Wang_Hao_(table_tennis) http://dbpedia.org/resource/Hao_Wang_(table_tennis) http://dbpedia.org/resource/Wang_Hao_(Table_tennis)
+3,11,W. Hao,http://dbpedia.org/resource/Wang_Hao_(chess_player),http://dbpedia.org/resource/Wang_Hao_(table_tennis) http://dbpedia.org/resource/Hao_Wang_(table_tennis) http://dbpedia.org/resource/Wang_Hao_(Table_tennis)
+3,14,W. Yiwen,http://dbpedia.org/resource/Sun_Yiwen,http://dbpedia.org/resource/Yiwen_Wu http://dbpedia.org/resource/Wu_Yiwen
+3,20,Y. Yoneda,http://dbpedia.org/resource/Yuko_Yoneda,http://dbpedia.org/resource/Yoko_Yoneda
+3,39,M. B. García,http://dbpedia.org/resource/María_García_(judoka),http://dbpedia.org/resource/Mireira_Belmonte http://dbpedia.org/resource/Mireia_Belmonte_García http://dbpedia.org/resource/Mireia_Belmonte http://dbpedia.org/resource/Mireia_Belmonte_Garcia
+3,42,L. Jones,http://dbpedia.org/resource/Lloyd_Jones_(footballer),http://dbpedia.org/resource/Leisel_Jones http://dbpedia.org/resource/Liesel_Jones
+3,48,M. B. Garcia,http://dbpedia.org/resource/Maica_García_Godoy,http://dbpedia.org/resource/Mireira_Belmonte http://dbpedia.org/resource/Mireia_Belmonte_García http://dbpedia.org/resource/Mireia_Belmonte http://dbpedia.org/resource/Mireia_Belmonte_Garcia
+3,49,S. Suzuki,http://dbpedia.org/resource/Seiichi_Suzuki,http://dbpedia.org/resource/Satomi_Suzuki
+3,52,L. Ying,http://dbpedia.org/resource/Luo_Ying,http://dbpedia.org/resource/Lu_Ying
+3,56,C. Jones,http://dbpedia.org/resource/Caldwell_Jones,http://dbpedia.org/resource/Cullen_Jones
+3,67,J. Magnussen,http://dbpedia.org/resource/Karen_Magnussen,http://dbpedia.org/resource/James_Magnussen
+3,71,M. B. García,http://dbpedia.org/resource/María_García_(judoka),http://dbpedia.org/resource/Mireira_Belmonte http://dbpedia.org/resource/Mireia_Belmonte_García http://dbpedia.org/resource/Mireia_Belmonte http://dbpedia.org/resource/Mireia_Belmonte_Garcia

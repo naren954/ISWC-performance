@@ -1,0 +1,4 @@
+F1: 0.90909,Precision: 0.90909,Recall: 0.90909,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,4,LuLu International Shopping Mall,http://dbpedia.org/resource/Lulu_International_Shopping_Mall,http://dbpedia.org/resource/Lulu_Cochin_Mall http://dbpedia.org/resource/Lulu_Shopping_Mall http://dbpedia.org/resource/LuLu_International_Shopping_Mall http://dbpedia.org/resource/Lulu_Mall
+0,18,CityPlace,http://fr.dbpedia.org/resource/35_Mariner,"http://dbpedia.org/resource/CityPlace_(West_Palm_Beach) http://dbpedia.org/resource/CityPlace,_Florida http://dbpedia.org/resource/CityPlace,_FL"

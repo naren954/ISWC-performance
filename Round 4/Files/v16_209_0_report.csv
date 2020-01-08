@@ -1,0 +1,5 @@
+"F1: 0.76923","Precision: 0.76923","Recall: 0.76923"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","2","S. W. Johnson","http://dbpedia.org/resource/James_Weldon_Johnson","http://dbpedia.org/resource/Samuel_W._Johnson http://dbpedia.org/resource/S_W_Johnson http://dbpedia.org/resource/Samuel_Waite_Johnson http://dbpedia.org/resource/S._W._Johnson"
+"0","8","I. M. Campbell","http://dbpedia.org/resource/John_Campbell,_3rd_Earl_of_Breadalbane_and_Holland","http://dbpedia.org/resource/Ian_McDonald_Campbell"
+"0","12","D. S. Galton","http://dbpedia.org/resource/Francis_Galton","http://dbpedia.org/resource/Douglas_Strutt_Galton http://dbpedia.org/resource/Sir_Douglas_Galton http://dbpedia.org/resource/Sir_douglas_Galton http://dbpedia.org/resource/Douglas_Galton"

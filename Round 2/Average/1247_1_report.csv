@@ -1,0 +1,42 @@
+F1: 0.74684,Precision: 0.74684,Recall: 0.74684,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,22,Ø. Østensen,http://dbpedia.org/resource/Sten_Stensen,http://dbpedia.org/resource/Østen_Østensen http://dbpedia.org/resource/Östen_Östensen http://dbpedia.org/resource/Osten_Ostensen
+1,31,Ø. Østensen,http://dbpedia.org/resource/Sten_Stensen,http://dbpedia.org/resource/Østen_Østensen http://dbpedia.org/resource/Östen_Östensen http://dbpedia.org/resource/Osten_Ostensen
+1,36,H. Blau,http://dbpedia.org/resource/Herbert_Blau,http://dbpedia.org/resource/Harry_Blau http://dbpedia.org/resource/Haralds_Blaus
+1,38,J. Jackson,http://dbpedia.org/resource/Roger_Jackson,http://dbpedia.org/resource/John_Jackson_(sport_shooter)
+1,40,C. Stewart,http://dbpedia.org/resource/Chelsea_Stewart,http://dbpedia.org/resource/Charles_Stewart_(sport_shooter)
+1,42,C. Stewart,http://dbpedia.org/resource/Chelsea_Stewart,http://dbpedia.org/resource/Charles_Stewart_(sport_shooter)
+1,43,C. Stewart,http://dbpedia.org/resource/Chelsea_Stewart,http://dbpedia.org/resource/Charles_Stewart_(sport_shooter)
+1,46,A. Londen,http://dbpedia.org/resource/Axel_Fredrik_Londen,http://dbpedia.org/resource/Axel_Londen http://dbpedia.org/resource/Londen
+1,49,H. Blau,http://dbpedia.org/resource/Herbert_Blau,http://dbpedia.org/resource/Harry_Blau http://dbpedia.org/resource/Haralds_Blaus
+1,51,J. Jackson,http://dbpedia.org/resource/Roger_Jackson,http://dbpedia.org/resource/John_Jackson_(sport_shooter)
+1,53,C. Stewart,http://dbpedia.org/resource/Chelsea_Stewart,http://dbpedia.org/resource/Charles_Stewart_(sport_shooter)
+1,55,C. Stewart,http://dbpedia.org/resource/Chelsea_Stewart,http://dbpedia.org/resource/Charles_Stewart_(sport_shooter)
+1,56,C. Stewart,http://dbpedia.org/resource/Chelsea_Stewart,http://dbpedia.org/resource/Charles_Stewart_(sport_shooter)
+1,64,A. Rogers,http://dbpedia.org/resource/Annette_Rogers,http://dbpedia.org/resource/Alexander_Rogers
+1,70,H. Creasey,http://dbpedia.org/resource/John_Creasey,http://dbpedia.org/resource/Harold_Creasey
+1,72,A. Rogers,http://dbpedia.org/resource/Annette_Rogers,http://dbpedia.org/resource/Alexander_Rogers
+1,87,V. Jensen,"http://dbpedia.org/resource/Viggo_Jensen_(footballer,_born_1921)",http://dbpedia.org/resource/Viggo_Jensen
+1,88,H. Nielsen,http://dbpedia.org/resource/Harald_Nielsen,http://dbpedia.org/resource/Holger_Nielsen
+1,90,V. Jensen,"http://dbpedia.org/resource/Viggo_Jensen_(footballer,_born_1921)",http://dbpedia.org/resource/Viggo_Jensen
+1,91,H. Nielsen,http://dbpedia.org/resource/Harald_Nielsen,http://dbpedia.org/resource/Holger_Nielsen
+1,93,L. Westerhof,http://dbpedia.org/resource/Marieke_Westerhof,http://dbpedia.org/resource/Lisa_Westerhof http://dbpedia.org/resource/Lisa_Westerhof_(sailor)
+1,101,L. Westerhof,http://dbpedia.org/resource/Marieke_Westerhof,http://dbpedia.org/resource/Lisa_Westerhof http://dbpedia.org/resource/Lisa_Westerhof_(sailor)
+1,108,B. Shaw,http://dbpedia.org/resource/Brian_Shaw,http://dbpedia.org/resource/Bryony_Shaw
+1,109,F. Oliveira,http://dbpedia.org/resource/Flávia_Oliveira,http://dbpedia.org/resource/Fernanda_Oliveira http://dbpedia.org/resource/Fernanda_Moreira_de_Olivera http://dbpedia.org/resource/Fernanda_Oliveira_(sailor)
+1,111,S. Zubari,,http://dbpedia.org/resource/שחר_צוברי http://dbpedia.org/resource/Shahar_Zubari http://dbpedia.org/resource/Shahar_Tzuberi http://dbpedia.org/resource/Zubari
+1,114,D. Romero,http://dbpedia.org/resource/Rebecca_Romero,http://dbpedia.org/resource/Diego_Emilio_Romero http://dbpedia.org/resource/Diego_Romero_(sailor)
+1,117,B. Shaw,http://dbpedia.org/resource/Brian_Shaw,http://dbpedia.org/resource/Bryony_Shaw
+1,118,F. Oliveira,http://dbpedia.org/resource/Flávia_Oliveira,http://dbpedia.org/resource/Fernanda_Oliveira http://dbpedia.org/resource/Fernanda_Moreira_de_Olivera http://dbpedia.org/resource/Fernanda_Oliveira_(sailor)
+1,120,S. Zubari,,http://dbpedia.org/resource/שחר_צוברי http://dbpedia.org/resource/Shahar_Tzuberi http://dbpedia.org/resource/Shahar_Zubari http://dbpedia.org/resource/Zubari
+1,123,D. Romero,http://dbpedia.org/resource/Rebecca_Romero,http://dbpedia.org/resource/Diego_Emilio_Romero http://dbpedia.org/resource/Diego_Romero_(sailor)
+1,128,S. Lange,http://dbpedia.org/resource/Dorothea_Lange,http://dbpedia.org/resource/Santiago_Lange
+1,133,S. Hiscocks,http://dbpedia.org/resource/Eileen_Hiscock,http://dbpedia.org/resource/Simon_Hiscocks
+1,136,S. Lange,http://dbpedia.org/resource/Dorothea_Lange,http://dbpedia.org/resource/Santiago_Lange
+1,141,S. Hiscocks,http://dbpedia.org/resource/Eileen_Hiscock,http://dbpedia.org/resource/Simon_Hiscocks
+1,144,R. Schwall,http://dbpedia.org/resource/Thomas_Schwall,http://dbpedia.org/resource/Rene_Schwall http://dbpedia.org/resource/René_Schwall
+1,147,J. Conte,"http://dbpedia.org/resource/John_Lambton,_1st_Earl_of_Durham",http://dbpedia.org/resource/Javier_Conte
+1,148,M. Blackburn,http://dbpedia.org/resource/Maurice_Blackburn,http://dbpedia.org/resource/Michael_Blackburn_(athlete) http://dbpedia.org/resource/Michael_Blackburn_(sailor)
+1,154,R. Schwall,http://dbpedia.org/resource/Thomas_Schwall,http://dbpedia.org/resource/Rene_Schwall http://dbpedia.org/resource/René_Schwall
+1,157,J. Conte,"http://dbpedia.org/resource/John_Lambton,_1st_Earl_of_Durham",http://dbpedia.org/resource/Javier_Conte
+1,158,M. Blackburn,http://dbpedia.org/resource/Maurice_Blackburn,http://dbpedia.org/resource/Michael_Blackburn_(athlete) http://dbpedia.org/resource/Michael_Blackburn_(sailor)

@@ -1,0 +1,5 @@
+F1: 0.25000,Precision: 0.25000,Recall: 0.25000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,Rimini,http://dbpedia.org/resource/Rimini,http://dbpedia.org/resource/Rimini_Calcio_F.C. http://dbpedia.org/resource/Rimini_Calcio_FC http://dbpedia.org/resource/A.C._Rimini http://dbpedia.org/resource/Rimini_CFC http://dbpedia.org/resource/Rimini_Calcio_Football_Club http://dbpedia.org/resource/AC_Rimini_1912 http://dbpedia.org/resource/Rimini_Calcio_F_C http://dbpedia.org/resource/Rimini_Calcio http://dbpedia.org/resource/A.C._Rimini_1912 http://dbpedia.org/resource/Rimini_Calcio_F._C.
+0,3,Perugia,http://dbpedia.org/resource/Perugia,http://dbpedia.org/resource/A.C._Perugia_Calcio http://dbpedia.org/resource/A.C._Perugia_(Umbria) http://dbpedia.org/resource/A.C._Perugia http://dbpedia.org/resource/Perugia_Calcio http://dbpedia.org/resource/AC_Perugia http://dbpedia.org/resource/Calcio_Perugia
+0,4,Pescara,http://dbpedia.org/resource/Pescara,http://dbpedia.org/resource/Delfino_Pescara_1936 http://dbpedia.org/resource/Pescara_Calcio http://dbpedia.org/resource/Pietro_Scibilia

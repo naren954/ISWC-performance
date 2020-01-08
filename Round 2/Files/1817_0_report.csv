@@ -1,0 +1,6 @@
+"F1: 0.60000","Precision: 0.60000","Recall: 0.60000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","2","Black Butte","http://dbpedia.org/resource/Black_Butte_(Siskiyou_County,_California)","http://dbpedia.org/resource/Black_Butte_(Oregon)"
+"0","4","Battle Mountain, Virginia","http://dbpedia.org/resource/Laurel_Mountain_(West_Virginia)","http://dbpedia.org/resource/Battle_Mountain,_Virginia"
+"0","7","Asahi-dake","http://dbpedia.org/resource/Mount_Asahi_(Yamagata)","http://dbpedia.org/resource/Asahidake http://dbpedia.org/resource/Asahi-dake http://dbpedia.org/resource/Mount_Asahidake"
+"0","8","Amukta Island","http://dbpedia.org/resource/Mount_Amukta","http://dbpedia.org/resource/Amukta_Island_(Alaska) http://dbpedia.org/resource/Amukta http://dbpedia.org/resource/Amukta_Island"

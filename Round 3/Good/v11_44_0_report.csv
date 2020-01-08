@@ -1,0 +1,4 @@
+F1: 0.90000,Precision: 0.90000,Recall: 0.90000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,6,J. Collins,http://dbpedia.org/resource/Jimmy_Collins_(basketball),http://dbpedia.org/resource/Jory_Collins
+0,20,J. Anderson,http://dbpedia.org/resource/Jermaine_Anderson,http://dbpedia.org/resource/John_Anderson_(baseball_coach)

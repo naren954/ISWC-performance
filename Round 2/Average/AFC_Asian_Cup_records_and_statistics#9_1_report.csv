@@ -1,0 +1,4 @@
+F1: 0.71429,Precision: 0.71429,Recall: 0.71429,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,5,"Behtash Fariba, Hossein Kalani, Choi Soon-Ho, Faisal Al-Dakhil,",http://dbpedia.org/resource/Faisal_Al-Dakhil,http://dbpedia.org/resource/Behtash_Fariba
+1,7,"A'ala Hubail, Ismael Abdullatif, Ali Karimi, Ali Jabbari, Akinori Nishizawa, Woo Sang-Kwon, Chung Hae-Won, Hwang Sun-Hong, Koo Ja-Cheol, Nahum Stelmach, Shao Jiayi, Ali Mabkhout",http://dbpedia.org/resource/Chung_Hong-won,http://dbpedia.org/resource/A'ala_Hubail

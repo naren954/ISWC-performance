@@ -1,0 +1,5 @@
+"F1: 0.50000","Precision: 0.50000","Recall: 0.50000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","2","Arthur Dickinson","http://dbpedia.org/resource/Arthur_Dickinson_(footballer)","http://dbpedia.org/resource/Arthur_Dickinson"
+"0","3","Robert Brown","http://dbpedia.org/resource/Robert_Brown_(American_football)","http://dbpedia.org/resource/Robert_Brown_(football_manager)"
+"0","4","Eric Taylor","http://de.dbpedia.org/resource/Eric_Taylor_(Basketballspieler,_1976)","http://dbpedia.org/resource/Eric_Taylor_(football_manager)"

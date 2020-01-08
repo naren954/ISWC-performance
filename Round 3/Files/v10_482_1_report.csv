@@ -1,0 +1,5 @@
+"F1: 0.88000","Precision: 0.88000","Recall: 0.88000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","10","Ctenomyidae","http://fr.dbpedia.org/resource/Ctenomyidae","http://dbpedia.org/resource/Tuco-tuco http://dbpedia.org/resource/Tuco-tucos http://dbpedia.org/resource/Ctenomyidae http://dbpedia.org/resource/Tuco_tucos http://dbpedia.org/resource/Ctenomys http://dbpedia.org/resource/Tucu-tuco http://dbpedia.org/resource/Tuco-Tuco http://dbpedia.org/resource/Tuco_tuco http://dbpedia.org/resource/Tucutuco"
+"1","15","Dasypodidae","http://dbpedia.org/resource/Armadillo","http://dbpedia.org/resource/Dasypus_bellae http://dbpedia.org/resource/Dasypus http://dbpedia.org/resource/Dasypodinae http://dbpedia.org/resource/Dasypodidae"
+"1","20","Carduelinae","http://dbpedia.org/resource/Finch","http://dbpedia.org/resource/Carduelinae http://dbpedia.org/resource/Cardueline_finches http://dbpedia.org/resource/Cardueline http://dbpedia.org/resource/Cardueline_finch"

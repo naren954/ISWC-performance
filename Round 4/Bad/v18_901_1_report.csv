@@ -1,0 +1,8 @@
+F1: 0.45455,Precision: 0.45455,Recall: 0.45455,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,3,J. B. Ord,http://dbpedia.org/resource/Jules_Garesche_Ord,http://dbpedia.org/resource/James_Basevi_Ord http://dbpedia.org/resource/James_B._Ord
+1,4,B. Kraas,http://dbpedia.org/resource/Hugo_Kraas,http://dbpedia.org/resource/Boris_Kraas
+1,6,E. Braun,http://de.dbpedia.org/resource/Ernst_Braun_(Politiker),"http://dbpedia.org/resource/Eva_Anna_Paula_Hitler_née_Braun http://dbpedia.org/resource/Hitler's_wife http://dbpedia.org/resource/Eva_Braun_Hitler http://dbpedia.org/resource/Ava_Braun http://dbpedia.org/resource/Eva_Brown http://dbpedia.org/resource/Eva_Anna_Paula_Hitler http://dbpedia.org/resource/Eva_Anna_Paula_Braun http://dbpedia.org/resource/Iva_Brown http://dbpedia.org/resource/Franziska_""Fanny""_Kronberger http://dbpedia.org/resource/Eva_Braun http://dbpedia.org/resource/Eva_Anna_Braun http://dbpedia.org/resource/Friedrich_""Fritz""_Braun http://dbpedia.org/resource/Eva_Hitler"
+1,7,P. Schöttler,http://de.dbpedia.org/resource/Horst_Schöttler,http://dbpedia.org/resource/Peter_Schottler http://dbpedia.org/resource/Peter_Schöttler
+1,9,M. Browning,http://dbpedia.org/resource/Miles_Browning,http://dbpedia.org/resource/Montague_Edward_Browning http://dbpedia.org/resource/Montague_Browning
+1,10,W. F. Harris,"http://dbpedia.org/resource/Sir_Arthur_Harris,_1st_Baronet",http://dbpedia.org/resource/William_Frederick_Harris

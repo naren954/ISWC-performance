@@ -1,0 +1,4 @@
+"F1: 0.80000","Precision: 0.80000","Recall: 0.80000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","1","When Will You Fall For Me","http://dbpedia.org/resource/When_Will_You_Fall_for_Me","http://dbpedia.org/resource/When_Will_You_Fall_For_Me"
+"0","5","When We Were Young","http://dbpedia.org/resource/When_We_Were_Young_(Take_That_song)","http://dbpedia.org/resource/When_We_Were_Young_(Bucks_Fizz_song) http://dbpedia.org/resource/When_We_Were_Young_(Bucks_Fizz_single)"

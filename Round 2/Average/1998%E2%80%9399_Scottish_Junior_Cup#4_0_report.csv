@@ -1,0 +1,5 @@
+F1: 0.62500,Precision: 0.62500,Recall: 0.62500,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,Beith,http://dbpedia.org/resource/Beith_Juniors_F.C.,http://dbpedia.org/resource/Beith_F.C.
+0,5,Fauldhouse United,http://dbpedia.org/resource/Sheffield_United_F.C.,http://dbpedia.org/resource/Fauldhouse_United http://dbpedia.org/resource/Fauldhouse_United_F.C. http://dbpedia.org/resource/Fauldhouse_Untied_F.C. http://dbpedia.org/resource/Fauldhouse_United_F_C http://dbpedia.org/resource/Fauldhouse_United_F._C. http://dbpedia.org/resource/Fauldhouse_United_FC
+0,6,Glenafton Athletic,http://dbpedia.org/resource/Dunfermline_Athletic_F.C.,http://dbpedia.org/resource/Glenafton_Athletic_F.C. http://dbpedia.org/resource/Glenafton_Athletic_F_C http://dbpedia.org/resource/Glenafton_Athletic_F._C. http://dbpedia.org/resource/Glenafton_Athletic http://dbpedia.org/resource/Glenafton_Athletic_FC

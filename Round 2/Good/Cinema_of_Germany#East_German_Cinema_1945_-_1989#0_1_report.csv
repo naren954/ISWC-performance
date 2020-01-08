@@ -1,0 +1,4 @@
+F1: 0.80000,Precision: 0.80000,Recall: 0.80000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,10,Home from Home,http://dbpedia.org/resource/A_Letter_from_Home_(film),http://dbpedia.org/resource/Die_andere_Heimat http://dbpedia.org/resource/Die_andere_Heimat_-_Chronik_einer_Sehnsucht http://dbpedia.org/resource/Home_From_Home_-_Chronicle_of_a_Vision http://dbpedia.org/resource/Home_from_Home_(2013_film)
+1,11,Victoria,http://dbpedia.org/resource/Primo_Victoria,http://dbpedia.org/resource/Victoria_(2015_film)

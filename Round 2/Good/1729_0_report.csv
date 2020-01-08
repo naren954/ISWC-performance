@@ -1,0 +1,5 @@
+F1: 0.90323,Precision: 0.90323,Recall: 0.90323,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,5,R. Ricolfi-Doria,,http://dbpedia.org/resource/René_Ricolfi_Doria http://dbpedia.org/resource/René_Ricolfi-Doria http://dbpedia.org/resource/Rene_Ricolfi_Doria http://dbpedia.org/resource/Rene_Ricolfi-Doria
+0,11,R. Ricolfi-Doria,,http://dbpedia.org/resource/René_Ricolfi_Doria http://dbpedia.org/resource/René_Ricolfi-Doria http://dbpedia.org/resource/Rene_Ricolfi_Doria http://dbpedia.org/resource/Rene_Ricolfi-Doria
+0,15,R. Sutton,http://dbpedia.org/resource/Christopher_Sutton_(cyclist),http://dbpedia.org/resource/Reginald_Sutton

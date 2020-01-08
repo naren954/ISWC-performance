@@ -1,0 +1,5 @@
+F1: 0.72727,Precision: 0.72727,Recall: 0.72727,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,4,Inter ZapreÅ¡iÄ\u0087,http://dbpedia.org/resource/Scottish_Inter-District_Championship,http://dbpedia.org/resource/NK_Inter_Zaprešić
+0,5,MeÄ\u0091imurje,,http://dbpedia.org/resource/NK_Međimurje
+0,10,Varteks,http://dbpedia.org/resource/NK_Varaždin_(1931–2015),http://dbpedia.org/resource/NK_Varaždin

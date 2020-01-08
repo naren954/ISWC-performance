@@ -1,0 +1,39 @@
+F1: 0.77976,Precision: 0.77976,Recall: 0.77976,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,8,It,http://dbpedia.org/resource/The_IT_Crowd,http://dbpedia.org/resource/It_(TV_mini-series) http://dbpedia.org/resource/Stephen_kings_it http://dbpedia.org/resource/It_(TV_film) http://dbpedia.org/resource/It_(movie) http://dbpedia.org/resource/It_(Miniseries) http://dbpedia.org/resource/It_(mini-series) http://dbpedia.org/resource/Pennywise_the_clown http://dbpedia.org/resource/It_(1990_film) http://dbpedia.org/resource/It_(miniseries) http://dbpedia.org/resource/Stephen_King's_It
+0,9,It's a Great Life,http://dbpedia.org/resource/It's_a_Great_Life_(1929_film),http://dbpedia.org/resource/It's_a_Great_Life
+0,13,Ishq Ibadat,http://dbpedia.org/resource/Ishq_Ibadat_(2015_TV_series),http://dbpedia.org/resource/Ishq_Ibadat_(Hum_Tv) http://dbpedia.org/resource/Ishq_Ibadat_(Drama) http://dbpedia.org/resource/Ishq_Ibadat_(TV_series)
+0,17,Irmãos Coragem,http://dbpedia.org/resource/Irmãos_Coragem,http://dbpedia.org/resource/Irmãos_Coragem_(1970_telenovela)
+0,18,Iris,http://dbpedia.org/resource/Iris_(opera),http://dbpedia.org/resource/IRIS_(TV_series) http://dbpedia.org/resource/Iris_(TV_series) http://dbpedia.org/resource/Iris_(drama) http://dbpedia.org/resource/IRIS_(2009_TV_series) http://dbpedia.org/resource/Iris_(TV_Series) http://dbpedia.org/resource/IRIS_(TV_Series)
+0,19,Invasion,http://dbpedia.org/resource/The_Invasion_(Doctor_Who),http://dbpedia.org/resource/Invasion_(1997_film) http://dbpedia.org/resource/Invasion_(miniseries) http://dbpedia.org/resource/Invasion_(1998_film)
+0,22,Interns,http://dbpedia.org/resource/Interns_(TV_series),http://dbpedia.org/resource/Interns_(Russian_TV_series) http://dbpedia.org/resource/Interns_(sitcom) http://dbpedia.org/resource/Interny
+0,30,Impact,http://dbpedia.org/resource/Impact!_(TV_series),http://dbpedia.org/resource/Impact_(2008_TV_mini-series) http://dbpedia.org/resource/Impact_(TV_mini-series) http://dbpedia.org/resource/Impact_(2009_TV_mini-series) http://dbpedia.org/resource/Impact_(miniseries) http://dbpedia.org/resource/Impact_(TV_miniseries)
+0,35,Ikaw Sa Puso Ko,http://dbpedia.org/resource/Your_Song_(TV_series),http://dbpedia.org/resource/Ikaw_Sa_Puso_Ko
+0,36,Ikaw Na Sana,http://dbpedia.org/resource/Ikaw_na_Sana,http://dbpedia.org/resource/Ikaw_Na_Sana
+0,38,Iisa Pa Lamang,http://dbpedia.org/resource/Your_Song_(TV_series),http://dbpedia.org/resource/My_Only_One http://dbpedia.org/resource/Iisa_Pa_Lamang
+0,42,I Not Stupid Too,http://dbpedia.org/resource/I_Not_Stupid_Too,http://dbpedia.org/resource/I_Not_Stupid_Too_(TV_serial) http://dbpedia.org/resource/I_Not_Stupid_Too_(TV_series)
+0,48,ICAC Investigators 2014,http://dbpedia.org/resource/ICAC_Investigators_2007,http://dbpedia.org/resource/ICAC_Investigators_2014
+0,49,ICAC Investigators 2009,http://dbpedia.org/resource/ICAC_Investigators_2007,http://dbpedia.org/resource/ICAC_Investigators_2009
+0,51,ICAC Investigators 2004,http://dbpedia.org/resource/ICAC_Investigators_2007,http://dbpedia.org/resource/ICAC_Investigators_2004
+0,55,I'm with Her,http://dbpedia.org/resource/I'm_with_Her_(TV_series),http://dbpedia.org/resource/I'm_With_Her http://dbpedia.org/resource/I'm_with_Her
+0,59,Héroes,http://dbpedia.org/resource/Heroes_(American_TV_series),http://dbpedia.org/resource/Heroes_(Chilean_miniseries) http://dbpedia.org/resource/Héroes_(Chilean_miniseries)
+0,62,Huracán,http://dbpedia.org/resource/Huracán_(TV_series),http://dbpedia.org/resource/Huracán_(telenovela) http://dbpedia.org/resource/Huracan_(telenovela)
+0,64,Humsafars,http://dbpedia.org/resource/Humsafar,http://dbpedia.org/resource/Humsafars_(TV_series) http://dbpedia.org/resource/Humsafars
+0,78,House of Cards,http://dbpedia.org/resource/House_of_Cards_(American_TV_series),http://dbpedia.org/resource/House_of_Cards_(UK_TV_series) http://dbpedia.org/resource/House_of_Cards_(UK_TV_show) http://dbpedia.org/resource/House_Of_Cards_(TV_series) http://dbpedia.org/resource/YMVWTTICNPC http://dbpedia.org/resource/House_of_Cards_(miniseries) http://dbpedia.org/resource/YMVWTTICPC http://dbpedia.org/resource/Francis_Urqhart http://dbpedia.org/resource/YMSTICPC http://dbpedia.org/resource/House_of_Cards_(UK_series) http://dbpedia.org/resource/House_of_Cards_UK
+0,79,House Full,http://dbpedia.org/resource/Full_House,http://dbpedia.org/resource/House_Full_(TV_series) http://dbpedia.org/resource/Housefull_(2008_dramaserial) http://dbpedia.org/resource/House_full_(TV_series)
+0,85,Hope Springs,http://dbpedia.org/resource/Hope_Springs_(2012_film),http://dbpedia.org/resource/Hope_Springs_(TV_series) http://dbpedia.org/resource/Ellie_Lagden http://dbpedia.org/resource/Hope_Springs_(TV_Series) http://dbpedia.org/resource/List_of_Hope_Springs_episodes
+0,90,Holocaust,http://dbpedia.org/resource/Cannibal_Holocaust,"http://dbpedia.org/resource/1978_miniseries_""Holocaust"" http://dbpedia.org/resource/Holocaust_(TV_miniseries) http://dbpedia.org/resource/Holocaust_(miniseries)"
+0,105,Hidden,http://dbpedia.org/resource/Lioness:_Hidden_Treasures,http://dbpedia.org/resource/Hidden_(TV_series)
+0,110,Here and Now,http://dbpedia.org/resource/Here_and_Now_(2018_TV_series),http://dbpedia.org/resource/Here_and_Now_(1992_TV_series) http://dbpedia.org/resource/Here_and_Now_(TV_series)
+0,112,Henry VIII,http://dbpedia.org/resource/The_Private_Life_of_Henry_VIII,http://dbpedia.org/resource/Henry_VIII_(ITV_drama) http://dbpedia.org/resource/Henry_VIII_(TV_serial)
+0,114,Heist,http://dbpedia.org/resource/Money_Heist,http://dbpedia.org/resource/Heist_(TV_series)
+0,119,Hazel,http://dbpedia.org/resource/Hazel_(album),http://dbpedia.org/resource/Hazel_(television_series) http://dbpedia.org/resource/Hazel_(TV_series) http://dbpedia.org/resource/Hazel_(television)
+0,120,Hawak Ko Ang Langit,http://dbpedia.org/resource/Wansapanataym,http://dbpedia.org/resource/Hawak_Ko_Ang_Langit
+0,131,Happy,http://dbpedia.org/resource/Happy_Days,http://dbpedia.org/resource/Happy_(1960_TV_series)
+0,132,Hank,http://dbpedia.org/resource/Hank_(2009_TV_series),http://dbpedia.org/resource/Hank_(1965_TV_series)
+0,133,Hanging In,http://dbpedia.org/resource/Hanging_On,http://dbpedia.org/resource/Hanging_In
+0,135,Hanggang Kailan,http://dbpedia.org/resource/Encantadia:_Pag-ibig_Hanggang_Wakas,http://dbpedia.org/resource/Hanggang_Kailan
+0,142,H,http://dbpedia.org/resource/M*A*S*H_(TV_series),http://dbpedia.org/resource/H_(French_TV_series) http://dbpedia.org/resource/H_(TV_series)
+0,144,Héroes,http://dbpedia.org/resource/Heroes_(American_TV_series),http://dbpedia.org/resource/Heroes_(Chilean_miniseries) http://dbpedia.org/resource/Héroes_(Chilean_miniseries)
+0,150,Growing Up,http://dbpedia.org/resource/Growing_Up_(2011_Philippine_TV_series),http://dbpedia.org/resource/Growing_Up_(1997_Philippine_TV_series)
+0,158,Gran,http://dbpedia.org/resource/El_Gran_Show,http://dbpedia.org/resource/Gran_(TV_series)

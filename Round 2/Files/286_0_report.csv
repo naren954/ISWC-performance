@@ -1,0 +1,8 @@
+"F1: 0.57143","Precision: 0.57143","Recall: 0.57143"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","2","T. Purcell","http://dbpedia.org/resource/Teddy_Purcell_(footballer)","http://dbpedia.org/resource/Tommy_Purcell"
+"0","3","T. Mulligan","http://dbpedia.org/resource/Dave_Mulligan","http://dbpedia.org/resource/Tom_Mulligan"
+"0","4","T. Mulcahy","http://dbpedia.org/resource/Tomás_Mulcahy","http://dbpedia.org/resource/Tom_Mulcahy"
+"0","5","T. Finlay","http://dbpedia.org/resource/Jack_Finlay_(American_football)","http://dbpedia.org/resource/Tom_Finlay"
+"0","11","P. Grimes","http://dbpedia.org/resource/Reggie_Grimes","http://dbpedia.org/resource/Philly_Grimes http://dbpedia.org/resource/Phil_Grimes"
+"0","13","P. Leahy","http://dbpedia.org/resource/Pat_Leahy_(American_football)","http://dbpedia.org/resource/Pat_Leahy_(Cork_hurler)"

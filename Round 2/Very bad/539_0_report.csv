@@ -1,0 +1,40 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,"Marysville, Washington","http://dbpedia.org/resource/Marysville,_Washington",http://sws.geonames.org/5802570/
+0,2,"Maple Valley, Washington","http://dbpedia.org/resource/Maple_Valley,_Washington",http://sws.geonames.org/5802340/
+0,3,"Lakewood, Washington","http://dbpedia.org/resource/Lakewood,_Washington",http://sws.geonames.org/5800420/
+0,4,"Bothell, Washington","http://dbpedia.org/resource/Bothell,_Washington",http://sws.geonames.org/5787829/
+0,5,"Bellingham, Washington","http://dbpedia.org/resource/Bellingham,_Washington",http://sws.geonames.org/5786899/
+0,6,"Bellevue, Washington","http://dbpedia.org/resource/Bellevue,_Washington",http://sws.geonames.org/5786882/
+0,7,Salt Lake City,http://dbpedia.org/resource/Salt_Lake_City,http://sws.geonames.org/5780993/
+0,8,"Salem, Oregon","http://dbpedia.org/resource/Salem,_Massachusetts",http://sws.geonames.org/5750162/
+0,9,"Lewiston, Idaho","http://dbpedia.org/resource/Lewiston,_Idaho",http://sws.geonames.org/5598538/
+0,10,"Sterling, Colorado","http://dbpedia.org/resource/Sterling,_Colorado",http://sws.geonames.org/5582392/
+0,11,"Boulder, Colorado","http://dbpedia.org/resource/Boulder,_Colorado",http://sws.geonames.org/5574991/
+0,12,"San Angelo, Texas","http://dbpedia.org/resource/San_Angelo,_Texas",http://sws.geonames.org/5530022/
+0,13,"Odessa, Texas","http://dbpedia.org/resource/Odessa,_Texas",http://sws.geonames.org/5527554/
+0,14,"Midland, Texas","http://dbpedia.org/resource/Midland,_Texas",http://sws.geonames.org/5526337/
+0,15,"Lubbock, Texas","http://dbpedia.org/resource/Lubbock,_Texas",http://sws.geonames.org/5525577/
+0,16,"El Paso, Texas","http://dbpedia.org/resource/El_Paso,_Texas",http://sws.geonames.org/5520993/
+0,17,"Big Spring, Texas","http://dbpedia.org/resource/Big_Spring,_Texas",http://sws.geonames.org/5517061/
+0,18,"Amarillo, Texas","http://dbpedia.org/resource/Amarillo,_Texas",http://sws.geonames.org/5516233/
+0,19,Las Vegas,http://dbpedia.org/resource/Las_Vegas,http://sws.geonames.org/5506956/
+0,20,"Henderson, Nevada","http://dbpedia.org/resource/Henderson,_Nevada",http://sws.geonames.org/5505411/
+0,21,"Santa Fe, New Mexico","http://dbpedia.org/resource/Santa_Fe,_New_Mexico",http://sws.geonames.org/5490263/
+0,22,"Roswell, New Mexico","http://dbpedia.org/resource/Roswell,_New_Mexico",http://sws.geonames.org/5488441/
+0,23,"Lordsburg, New Mexico","http://dbpedia.org/resource/Lordsburg,_New_Mexico",http://sws.geonames.org/5476799/
+0,24,"Las Cruces, New Mexico","http://dbpedia.org/resource/Las_Cruces,_New_Mexico",http://sws.geonames.org/5475352/
+0,25,"Gallup, New Mexico","http://dbpedia.org/resource/Gallup,_New_Mexico",http://sws.geonames.org/5468773/
+0,26,"Deming, New Mexico","http://dbpedia.org/resource/Deming,_New_Mexico",http://sws.geonames.org/5464806/
+0,27,"Carlsbad, New Mexico","http://dbpedia.org/resource/Carlsbad,_New_Mexico",http://sws.geonames.org/5460459/
+0,28,"Artesia, New Mexico","http://dbpedia.org/resource/Artesia,_New_Mexico",http://sws.geonames.org/5455796/
+0,29,"Albuquerque, New Mexico","http://dbpedia.org/resource/Albuquerque,_New_Mexico",http://sws.geonames.org/5454711/
+0,30,"Nederland, Colorado","http://dbpedia.org/resource/Colorado_Springs,_Colorado",http://sws.geonames.org/5432410/
+0,31,"Montrose, Colorado","http://dbpedia.org/resource/Montrose,_Colorado",http://sws.geonames.org/5431710/
+0,32,"Greenwood Village, Colorado","http://dbpedia.org/resource/Greenwood_Village,_Colorado",http://sws.geonames.org/5423908/
+0,33,"Grand Junction, Colorado","http://dbpedia.org/resource/Grand_Junction,_Colorado",http://sws.geonames.org/5423573/
+0,34,"Glenwood Springs, Colorado","http://dbpedia.org/resource/Colorado_Springs,_Colorado",http://sws.geonames.org/5423092/
+0,35,"Delta, Colorado",http://dbpedia.org/resource/Colorado,http://sws.geonames.org/5419334/
+0,36,"Colorado Springs, Colorado","http://dbpedia.org/resource/Colorado_Springs,_Colorado",http://sws.geonames.org/5417598/
+0,37,"Aurora, Colorado","http://dbpedia.org/resource/Aurora,_Colorado",http://sws.geonames.org/5412347/
+0,38,"Tucson, Arizona","http://dbpedia.org/resource/Tucson,_Arizona",http://sws.geonames.org/5318313/

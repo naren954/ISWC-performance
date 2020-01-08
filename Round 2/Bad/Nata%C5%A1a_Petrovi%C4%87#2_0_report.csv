@@ -1,0 +1,4 @@
+F1: 0.50000,Precision: 0.50000,Recall: 0.50000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,Milan International Film Festival Awards,http://dbpedia.org/resource/Santa_Barbara_International_Film_Festival,http://dbpedia.org/resource/Film_festivals_in_Europe http://dbpedia.org/resource/Film_Festivals_in_Europe http://dbpedia.org/resource/List_of_film_festivals_in_Europe
+0,4,Seattle International Film Festival Awards,http://dbpedia.org/resource/Torino_Film_Festival,http://dbpedia.org/resource/Golden_Space_Needle http://dbpedia.org/resource/SIFF http://dbpedia.org/resource/Seattle_International_Film_Festival http://dbpedia.org/resource/Golden_Space_Needle_Award http://dbpedia.org/resource/Seattle_International_Film_Festival_Awards http://dbpedia.org/resource/New_American_Cinema_Award

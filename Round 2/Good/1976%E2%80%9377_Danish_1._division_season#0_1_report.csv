@@ -1,0 +1,4 @@
+F1: 0.80000,Precision: 0.80000,Recall: 0.80000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,9,Rungsted IK,,http://dbpedia.org/resource/Rungsted_IK http://dbpedia.org/resource/Nordsjælland_Cobras http://dbpedia.org/resource/Nordsjaelland_Cobras http://dbpedia.org/resource/Rungsted/Nordsjaelland http://dbpedia.org/resource/Rungsted_Cobras http://dbpedia.org/resource/Rungsted/Nordsjælland
+1,10,Hellerup IK,http://dbpedia.org/resource/Hellerup_IK,http://dbpedia.org/resource/Gentofte_Stars http://dbpedia.org/resource/IC_Gentofte

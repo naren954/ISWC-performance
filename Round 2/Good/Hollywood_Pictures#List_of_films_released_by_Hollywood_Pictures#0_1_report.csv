@@ -1,0 +1,18 @@
+F1: 0.79487,Precision: 0.79487,Recall: 0.79487,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,2,Taking Care of Business,http://dbpedia.org/resource/Taking_Care_of_Business_(film),http://dbpedia.org/resource/Taking_Care_of_Business http://dbpedia.org/resource/Takin_care_of_business http://dbpedia.org/resource/Takin'_Care_of_Business http://dbpedia.org/resource/Taking_care_of_business http://dbpedia.org/resource/Taking_Care_of_Business_(album)
+1,3,Run,http://dbpedia.org/resource/Run_(Snow_Patrol_song),http://dbpedia.org/resource/Run_(1991_film)
+1,11,Passed Away,http://dbpedia.org/resource/Cast_Away,http://dbpedia.org/resource/Passed_Away
+1,18,Swing Kids,http://dbpedia.org/resource/Swing_Kids_(1993_film),http://dbpedia.org/resource/Swing_Kids_(film)
+1,19,Born Yesterday,http://dbpedia.org/resource/Born_Yesterday_(1950_film),http://dbpedia.org/resource/Born_Yesterday_(1993_film)
+1,29,Angie,http://dbpedia.org/resource/Angie_(1993_film),http://dbpedia.org/resource/Angie_(1994_film)
+1,30,Holy Matrimony,http://dbpedia.org/resource/Holy_Matrimony_(1943_film),http://dbpedia.org/resource/Holy_Matrimony_(1994_film)
+1,48,The Tie That Binds,http://it.dbpedia.org/resource/The_Tie_That_Binds_(film_1910_Balshofer),http://dbpedia.org/resource/The_Tie_That_Binds_(1995_film) http://dbpedia.org/resource/The_Tie_That_Binds_(1995)
+1,52,Powder,http://dbpedia.org/resource/Powder_Burns,http://dbpedia.org/resource/Powder_(movie) http://dbpedia.org/resource/Powder_(film)
+1,53,Nixon,http://dbpedia.org/resource/Nixon_in_China,http://dbpedia.org/resource/Nixon_(movie) http://dbpedia.org/resource/Nixon_film http://dbpedia.org/resource/Nixon_(1995_film) http://dbpedia.org/resource/Jack_Jones_(banker) http://dbpedia.org/resource/Nixon_(film)
+1,56,Before and After,http://dbpedia.org/resource/Tangled:_Before_Ever_After,http://dbpedia.org/resource/Before_and_After_(film)
+1,59,Eddie,http://dbpedia.org/resource/Eddie_(book_series),http://dbpedia.org/resource/Eddie_(film) http://dbpedia.org/resource/Eddie_(motion_picture)
+1,60,The Rock,http://dbpedia.org/resource/Camp_Rock,"http://dbpedia.org/resource/General_Hummel http://dbpedia.org/resource/The_Rock_(movie) http://dbpedia.org/resource/Thermite_plasma http://dbpedia.org/resource/Stanley_Goodspeed http://dbpedia.org/resource/Fort_Walton,_Kansas http://dbpedia.org/resource/Francis_X._Hummel http://dbpedia.org/resource/John_Patrick_Mason http://dbpedia.org/resource/The_Rock_(film)"
+1,61,Jack,http://dbpedia.org/resource/Samurai_Jack,http://dbpedia.org/resource/Jack_(movie) http://dbpedia.org/resource/Jack_(1996_film)
+1,63,The Associate,http://dbpedia.org/resource/The_Associates_(Canadian_TV_series),http://dbpedia.org/resource/The_Associate
+1,70,Washington Square,http://dbpedia.org/resource/Washington_Square_(novel),http://dbpedia.org/resource/Washington_Square_(film)

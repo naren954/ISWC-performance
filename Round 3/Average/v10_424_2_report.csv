@@ -1,0 +1,57 @@
+F1: 0.58333,Precision: 0.58333,Recall: 0.58333,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,6,J. Nelson,http://dbpedia.org/resource/Jimmy_Nelson_(singer),http://dbpedia.org/resource/Judd_Nelson http://dbpedia.org/resource/Jud_Nelson
+2,7,S. McCarthy,http://dbpedia.org/resource/Kevin_McCarthy_(actor),http://dbpedia.org/resource/Sheila_McCarthy
+2,11,M. Keaton,http://dbpedia.org/resource/Buster_Keaton,http://dbpedia.org/resource/Michael_keaton http://dbpedia.org/resource/Michael_Keaton
+2,14,Þ. L. Gunnarsson,,http://dbpedia.org/resource/Throstur_Leo_Gunnarsson http://dbpedia.org/resource/Thröstur_Leó_Gunnarsson http://dbpedia.org/resource/THrostur_Leo_Gunnarsson http://dbpedia.org/resource/Þröstur_Leó_Gunnarsson
+2,15,S. Ye-jin,http://dbpedia.org/resource/Ailee,http://dbpedia.org/resource/Son_Ye_Jin http://dbpedia.org/resource/Yejin_Son http://dbpedia.org/resource/Son_Eon-jin http://dbpedia.org/resource/Son_Ye-jin http://dbpedia.org/resource/Son_yejin http://dbpedia.org/resource/손예진
+2,16,G. Chaplin,http://dbpedia.org/resource/Sydney_Chaplin_(American_actor),http://dbpedia.org/resource/Geraldine_Leigh_Chaplin http://dbpedia.org/resource/Géraldine_Chaplin http://dbpedia.org/resource/Geraldine_Chaplin
+2,18,R. G. Armstrong,http://dbpedia.org/resource/Richard_Lee_Armstrong,http://dbpedia.org/resource/R._G._Armstrong http://dbpedia.org/resource/R_G_Armstrong http://dbpedia.org/resource/RG_Armstrong http://dbpedia.org/resource/R.G._Armstrong
+2,19,N. Beatty,http://dbpedia.org/resource/Warren_Beatty,http://dbpedia.org/resource/Ned_Beatty
+2,21,A. Armstrong,http://dbpedia.org/resource/Louis_Armstrong,http://dbpedia.org/resource/Alun_Armstrong_(actor) http://dbpedia.org/resource/Alun_Armstrong http://dbpedia.org/resource/Alun_Armstrong_(English_actor)
+2,23,C. Tatum,http://dbpedia.org/resource/Art_Tatum,http://dbpedia.org/resource/Tatum_Channing http://dbpedia.org/resource/Channing_tatum http://dbpedia.org/resource/Channing_Tatum_filmography http://dbpedia.org/resource/Channing_Tatum http://dbpedia.org/resource/Chaning_tatum
+2,24,H. S. Jr.,http://dbpedia.org/resource/Hubert_Humphrey,"http://dbpedia.org/resource/Harry_Shum_Jr. http://dbpedia.org/resource/Harry_Shum,_Jr. http://dbpedia.org/resource/Harry_Shum_Junior http://dbpedia.org/resource/Harry_Shum,_Jr"
+2,25,K. Urban,http://dbpedia.org/resource/Keith_Urban,http://dbpedia.org/resource/Karl_Urban
+2,26,J. Muir,http://dbpedia.org/resource/John_Muir,http://dbpedia.org/resource/Jean_Muir_Fullerton http://dbpedia.org/resource/Jean_Muir_(actress) http://dbpedia.org/resource/Jean_Muir_Fullarton
+2,29,B. Jones,http://dbpedia.org/resource/Barbara_Jones_(singer),"http://dbpedia.org/resource/Charles_Jones_(actor) http://dbpedia.org/resource/Buck_Jones http://dbpedia.org/resource/Charles_""Buck""_Jones http://dbpedia.org/resource/Charles_Frederick_Gebhart http://dbpedia.org/resource/Charles_Gebhart http://dbpedia.org/resource/Charles_'Buck'_Jones http://dbpedia.org/resource/Charlea_Gebhart http://dbpedia.org/resource/Buck_Gebhart"
+2,31,G. Withers,http://dbpedia.org/resource/Grant_Withers,http://dbpedia.org/resource/Georgette_Lizette_Withers http://dbpedia.org/resource/Georgette_Lizette_McCallum http://dbpedia.org/resource/Georgette_McCallum http://dbpedia.org/resource/Googie_Withers http://dbpedia.org/resource/Georgette_Withers
+2,35,J. King,http://dbpedia.org/resource/Ernest_King,http://dbpedia.org/resource/Jaime_King http://dbpedia.org/resource/James_King_(model) http://dbpedia.org/resource/James_King_(actress)
+2,36,J. Berry,http://dbpedia.org/resource/John_Berry_(film_director),http://dbpedia.org/resource/Jules_Berry http://dbpedia.org/resource/Marie_Louis_Jules_Paufichet http://dbpedia.org/resource/Jules_Paufichet http://dbpedia.org/resource/Marie_Paufichet
+2,38,J. Muir,http://dbpedia.org/resource/John_Muir,http://dbpedia.org/resource/Jean_Muir_Fullerton http://dbpedia.org/resource/Jean_Muir_(actress) http://dbpedia.org/resource/Jean_Muir_Fullarton
+2,40,E. Arnold,http://dbpedia.org/resource/Eddy_Arnold,http://dbpedia.org/resource/Gunther_Schneider http://dbpedia.org/resource/Edward_Arnold_(actor) http://dbpedia.org/resource/Gunther_Edward_Arnold_Schneider
+2,44,J. Welsh,http://dbpedia.org/resource/Mikey_Welsh,http://dbpedia.org/resource/Jane_Welsh
+2,47,K. Kobayashi,http://dbpedia.org/resource/Kaori_Kobayashi,http://dbpedia.org/resource/Keijyu_Kobayashi http://dbpedia.org/resource/Keiju_Kobayashi
+2,51,M. Mazur,http://dbpedia.org/resource/Marilyn_Mazur,http://dbpedia.org/resource/Monet_Mazur
+2,60,P. Gallagher,http://dbpedia.org/resource/Megan_Gallagher,"http://dbpedia.org/resource/Gallagher,_Peter http://dbpedia.org/resource/Peter_Gallagher http://dbpedia.org/resource/7_Days_in_Memphis"
+2,62,C. Rafferty,http://dbpedia.org/resource/Gerry_Rafferty,http://dbpedia.org/resource/John_William_Pilbean_Goffage http://dbpedia.org/resource/John_Goffage http://dbpedia.org/resource/Chips_Rafferty
+2,63,L. Haas,http://de.dbpedia.org/resource/Albrecht_Haas,http://dbpedia.org/resource/Lukas_Haas
+2,68,L. McKee,http://dbpedia.org/resource/Lyra_McKee,http://dbpedia.org/resource/Lonette_McKee
+2,70,J. Adams,http://dbpedia.org/resource/John_Quincy_Adams,http://dbpedia.org/resource/Jane_Adams_(actress)
+2,71,E. Joyce,http://dbpedia.org/resource/James_Joyce,http://dbpedia.org/resource/Eileen_Joyce http://dbpedia.org/resource/Eileen_Alannah_Joyce
+2,73,R. Carén,http://dbpedia.org/resource/Jean_Carn,http://dbpedia.org/resource/Romana_Caren http://dbpedia.org/resource/Romana_Carén
+2,75,S. Shimono,http://dbpedia.org/resource/Hiro_Shimono,http://dbpedia.org/resource/Sab_Shimono
+2,77,D. Andrews,http://dbpedia.org/resource/William_IV_of_the_United_Kingdom,http://dbpedia.org/resource/Carver_Dana_Andrews http://dbpedia.org/resource/Dana_Andrews http://dbpedia.org/resource/Carver_Andrews
+2,81,I. Kovač,http://dbpedia.org/resource/Miro_Kovač,http://dbpedia.org/resource/Igor_Kovač
+2,84,S. Kwok,http://dbpedia.org/resource/Aaron_Kwok,http://dbpedia.org/resource/Sonjia_Kwok http://dbpedia.org/resource/Kwok_Sin-Nei http://dbpedia.org/resource/Sonija_Kwok http://dbpedia.org/resource/Sonia_Kwok http://dbpedia.org/resource/郭羨妮 http://dbpedia.org/resource/Sonija_Kwok_Sin-Nei
+2,86,A. Judd,http://dbpedia.org/resource/Donald_Judd,http://dbpedia.org/resource/Ashley_Judd http://dbpedia.org/resource/Ashley_Tyler_Ciminella http://dbpedia.org/resource/Ashleigh_Judd
+2,87,C. Glover,http://dbpedia.org/resource/Danny_Glover,http://dbpedia.org/resource/Volcanic_Eruptions_(film_company) http://dbpedia.org/resource/Crispin_Glover http://dbpedia.org/resource/Crispin_glover http://dbpedia.org/resource/Crispin_Hellion_Glover http://dbpedia.org/resource/Crispen_Glover http://dbpedia.org/resource/It_is_Mine http://dbpedia.org/resource/It_Is_Mine
+2,88,B. Spence,http://dbpedia.org/resource/Basil_Spence,http://dbpedia.org/resource/Bruce_Spence
+2,89,J. LeGros,http://fr.dbpedia.org/resource/Jean_Legros,http://dbpedia.org/resource/James_LeGros http://dbpedia.org/resource/James_Le_Gros
+2,91,C. McDonald,http://dbpedia.org/resource/Charles_McDonald_(Australian_politician),http://dbpedia.org/resource/Christopher_McDonald_(actor) http://dbpedia.org/resource/Christopher_MacDonald http://dbpedia.org/resource/Christopher_McDonald http://dbpedia.org/resource/Wildwood_Inn http://dbpedia.org/resource/Christopher_Mcdonald http://dbpedia.org/resource/Wildwood_Inn_(film)
+2,92,C. Francis,http://dbpedia.org/resource/Francis_I_of_France,http://dbpedia.org/resource/Concetta_Rosa_Maria_Franconero http://dbpedia.org/resource/Concetta_Franconero http://dbpedia.org/resource/Connie_Frances http://dbpedia.org/resource/Connie_Francis http://dbpedia.org/resource/Concetta_Franconera http://dbpedia.org/resource/Conney_Francis
+2,100,D. Sheridan,http://dbpedia.org/resource/Dave_Sheridan_(cartoonist),http://dbpedia.org/resource/Dinah_Sheridan
+2,101,B. Davis,http://dbpedia.org/resource/Beryl_Davis,"http://dbpedia.org/resource/Ruth_Elizabeth_""Bette""_Davis http://dbpedia.org/resource/Bette_Davis http://dbpedia.org/resource/Arthur_Farnsworth_(Bette_Davis'_husband) http://dbpedia.org/resource/Ruth_E._Davis http://dbpedia.org/resource/Ruth_Elizabeth_Davis http://dbpedia.org/resource/Harmon_Nelson http://dbpedia.org/resource/Arthur_Farnsworth. http://dbpedia.org/resource/Davis,_Bette http://dbpedia.org/resource/Bette_Davies http://dbpedia.org/resource/Bettie_Davis"
+2,104,M. Eggerth,http://dbpedia.org/resource/Marta_Eggerth,http://dbpedia.org/resource/Mártha_Eggerth
+2,107,F. Alexander,http://dbpedia.org/resource/Alexander_Kerensky,"http://dbpedia.org/resource/Flex_Alexander http://dbpedia.org/resource/Alexander,_Flex http://dbpedia.org/resource/Mark_Alexander_Knox"
+2,110,L. C. Sr.,http://dbpedia.org/resource/Edward_L._Beach_Sr.,"http://dbpedia.org/resource/Lon_Cheney http://dbpedia.org/resource/Lon_Chaney_Sr. http://dbpedia.org/resource/Lon_cheney http://dbpedia.org/resource/Lon_Chaney http://dbpedia.org/resource/Lon_Chaney,_Sr. http://dbpedia.org/resource/Man_of_a_Thousand_Faces http://dbpedia.org/resource/Lon_Chaney_(disambiguation)"
+2,112,A. Peebles,http://dbpedia.org/resource/Melvin_Van_Peebles,http://dbpedia.org/resource/Alison_Peebles
+2,115,Juan de la Cruz,http://dbpedia.org/resource/John_of_the_Cross,http://dbpedia.org/resource/Juan_dela_Cruz http://dbpedia.org/resource/Juan_de_la_Cruz
+2,118,C. Bouchier,http://dbpedia.org/resource/Cecil_Bouchier,http://dbpedia.org/resource/Dorothy_Irene_Boucher http://dbpedia.org/resource/Chili_Bouchier http://dbpedia.org/resource/Dorothy_Bouchier
+2,121,J. T. Bowler,http://dbpedia.org/resource/J._T._Walsh,http://dbpedia.org/resource/Justin_T._Bowler
+2,122,S. Baker,http://dbpedia.org/resource/Josephine_Baker,http://dbpedia.org/resource/Sir_Stanley_Baker http://dbpedia.org/resource/William_Stanley_Baker http://dbpedia.org/resource/Stanley_Baker
+2,125,J. Cooper,http://dbpedia.org/resource/Jeanne_Cooper,http://dbpedia.org/resource/Jackie_Cooper
+2,127,C. Pandolfi,http://dbpedia.org/resource/Elio_Pandolfi,http://dbpedia.org/resource/Claudia_Pandolfi
+2,128,R. Menchú,http://es.dbpedia.org/resource/Menchu_Quesada,"http://dbpedia.org/resource/Rigoberta_Menchú_Tum http://dbpedia.org/resource/Rigoberta_Menchu_Tum http://dbpedia.org/resource/Rigoberta_Menchú http://dbpedia.org/resource/Rigoberto_Menchu http://dbpedia.org/resource/Rigoberta_Menchù_Tum http://dbpedia.org/resource/Menchu http://dbpedia.org/resource/Me_llamo_Rigoberta_Menchú_y_así_me_nació_la_conciencia http://dbpedia.org/resource/Rigoberta_Menchu http://dbpedia.org/resource/I,_Rigoberta_Menchu http://dbpedia.org/resource/Rigoberta_Manchu http://dbpedia.org/resource/Rigoberta_Menchú-Tum http://dbpedia.org/resource/I,_Rigoberta_Menchú"
+2,129,J. Hansen,http://dbpedia.org/resource/Joseph_Hansen_(writer),http://dbpedia.org/resource/Joachim_Hansen_(actor)
+2,130,L. Moran,http://dbpedia.org/resource/Lois_Moran,http://dbpedia.org/resource/Lee_Moran
+2,132,E. Clayton,http://dbpedia.org/resource/Jeff_Lynne,http://dbpedia.org/resource/Ethel_Clayton

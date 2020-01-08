@@ -1,0 +1,6 @@
+F1: 0.85185,Precision: 0.85185,Recall: 0.85185,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,2,"Lorry, Orikkalkoodi, Oppol, Kolangal",http://dbpedia.org/resource/Lorry_(TV_series),http://dbpedia.org/resource/Lorry_(film)
+3,3,"Elippathayam, Pokkuveyil",,http://dbpedia.org/resource/Elippathayam
+3,13,Abhimanyu,http://dbpedia.org/resource/Jaihind_2,http://dbpedia.org/resource/Abhimanyu_-_Crime_Never_Pays http://dbpedia.org/resource/Abhimanyu_(1991_film)
+3,14,Yoddha,http://dbpedia.org/resource/Yoddha:_The_Warrior,http://dbpedia.org/resource/Yoddha_(1992_film) http://dbpedia.org/resource/Ashokan_(film) http://dbpedia.org/resource/Yodha_(1992_film) http://dbpedia.org/resource/Yoddha_(Malayalam_film) http://dbpedia.org/resource/Yodha_(Malayalam_film)

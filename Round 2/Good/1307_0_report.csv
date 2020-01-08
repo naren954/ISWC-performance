@@ -1,0 +1,8 @@
+F1: 0.89831,Precision: 0.89831,Recall: 0.89831,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,12,Cloud 9,http://dbpedia.org/resource/Cloud_Nine_(The_Temptations_album),http://dbpedia.org/resource/Cloud_Nine_(play) http://dbpedia.org/resource/Cloud_9_(play)
+0,13,Closer,http://dbpedia.org/resource/Closer_(novel),http://dbpedia.org/resource/Closer_(play)
+0,15,Class Enemy,http://dbpedia.org/resource/Enemy_of_the_people,http://dbpedia.org/resource/Class_Enemy
+0,31,Bingo,http://fr.dbpedia.org/resource/Bingo_(Les_Petits_Hommes),http://dbpedia.org/resource/Bingo_(play)
+0,44,Arizona,http://dbpedia.org/resource/Arizona_Territory,http://dbpedia.org/resource/Arizona_(play)
+0,45,Arcadia,http://dbpedia.org/resource/Arcadia_(magazine),http://dbpedia.org/resource/Arcadia_(play)

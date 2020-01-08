@@ -1,0 +1,4 @@
+"F1: 0.50000","Precision: 0.50000","Recall: 0.50000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","1","BK ProstÄ\u009Bjov","http://dbpedia.org/resource/Prost_Grand_Prix","http://dbpedia.org/resource/BK_Prostějov"
+"0","2","Pizzaexpress Apollon Limassol","http://dbpedia.org/resource/Apollon_Limassol","http://dbpedia.org/resource/Apollon_Limassol_BC"

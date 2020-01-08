@@ -1,0 +1,15 @@
+F1: 0.88073,Precision: 0.88073,Recall: 0.88073,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,6,Springdale Historic District,"http://dbpedia.org/resource/Springdale_Historic_District_(New_Hope,_Pennsylvania)","http://dbpedia.org/resource/Springdale_Historic_District_(York,_Pennsylvania)"
+0,9,Spencer Town Center Historic District,http://dbpedia.org/resource/Princeton_Center_Historic_District,http://dbpedia.org/resource/Spencer_Town_Center_Historic_District
+0,22,Sophie May House,http://dbpedia.org/resource/Meyer_May_House,http://dbpedia.org/resource/Sophie_May_House
+0,23,Somerset County Courthouse,http://dbpedia.org/resource/Somerset_County_Courthouse_(Pennsylvania),"http://dbpedia.org/resource/Somerset_County_Courthouse_(Maine) http://dbpedia.org/resource/Somerset_County_Courthouse_(Skowhegan,_Maine)"
+0,24,Solomon House,http://dbpedia.org/resource/Mount_Hygeia,http://dbpedia.org/resource/Solomon_House
+0,32,Skylands,"http://dbpedia.org/resource/Savannah,_Georgia",http://dbpedia.org/resource/Skylands_Manor_&_State_Botanical_Garden http://dbpedia.org/resource/Skylands http://dbpedia.org/resource/New_Jersey_State_Botanical_Garden
+0,33,Skowhegan Free Public Library,http://dbpedia.org/resource/Jacksonville_Public_Library,http://dbpedia.org/resource/Skowhegan_Free_Public_Library
+0,57,Seven Oaks,http://dbpedia.org/resource/Seven_Oaks_Dam,"http://dbpedia.org/resource/Seven_Oaks_(Sac_City,_Iowa)"
+0,63,Second Presbyterian Church,"http://dbpedia.org/resource/Second_Presbyterian_Church_(Lexington,_Kentucky)","http://dbpedia.org/resource/Second_Presbyterian_Church_(Memphis,_Tennessee)_(1891)"
+0,72,Scottish Rite Temple,"http://dbpedia.org/resource/Scottish_Rite_Temple_(Santa_Fe,_New_Mexico)","http://dbpedia.org/resource/Scottish_Rite_Temple_(Guthrie,_Oklahoma)"
+0,73,Scottish Rite Cathedral,"http://dbpedia.org/resource/Scottish_Rite_Temple_(Santa_Fe,_New_Mexico)","http://dbpedia.org/resource/Scottish_Rite_Cathedral_(Shreveport,_Louisiana)"
+0,99,Saint Paul's Evangelical Lutheran Church,http://dbpedia.org/resource/St._Paul's_(Zion's)_Evangelical_Lutheran_Church,"http://dbpedia.org/resource/Saint_Paul's_Evangelical_Lutheran_Church_(Fort_Wayne) http://dbpedia.org/resource/Saint_Paul's_Evangelical_Lutheran_Church http://dbpedia.org/resource/Saint_Paul's_Evangelical_Lutheran_Church_(Fort_Wayne,_Indiana)"
+0,107,Sacred Heart Catholic Church,"http://dbpedia.org/resource/Sacred_Heart_Catholic_Church_(Omaha,_Nebraska)","http://dbpedia.org/resource/Sacred_Heart_Catholic_Church_(Dayton,_Ohio) http://dbpedia.org/resource/Sacred_Heart_Church_(Dayton,_Ohio)"

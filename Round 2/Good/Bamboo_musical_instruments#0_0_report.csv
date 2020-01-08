@@ -1,0 +1,10 @@
+F1: 0.76471,Precision: 0.76471,Recall: 0.76471,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,Bashi,http://dbpedia.org/resource/Pasha,http://dbpedia.org/resource/Bashi
+0,3,Bansuri,http://dbpedia.org/resource/Flute,http://dbpedia.org/resource/Bansuri http://dbpedia.org/resource/Bānsurī http://dbpedia.org/resource/Flute_(Indian) http://dbpedia.org/resource/Baanhi http://dbpedia.org/resource/Indian_flute http://dbpedia.org/resource/Murali_flute
+0,22,Native American flute,http://dbpedia.org/resource/Native_Americans_in_the_United_States,http://dbpedia.org/resource/Native_american_flute http://dbpedia.org/resource/Native_American_Flute http://dbpedia.org/resource/Native_American_flute http://dbpedia.org/resource/Drone_flute
+0,28,RyÅ«teki,,http://dbpedia.org/resource/Ryūteki
+0,29,SÃ¡o,http://dbpedia.org/resource/Flute,http://dbpedia.org/resource/Sáo
+0,36,Suling,http://dbpedia.org/resource/Recorder_(musical_instrument),http://dbpedia.org/resource/Lantey http://dbpedia.org/resource/Kinsi http://dbpedia.org/resource/Ring_flute http://dbpedia.org/resource/Suling_Lembang http://dbpedia.org/resource/Babarak http://dbpedia.org/resource/Sundanese_Suling http://dbpedia.org/resource/Ring-flute http://dbpedia.org/resource/Dagoyong http://dbpedia.org/resource/Suling
+0,38,Venu,http://dbpedia.org/resource/Flute,http://dbpedia.org/resource/KoLalu http://dbpedia.org/resource/Venu http://dbpedia.org/resource/Carnatic_flute http://dbpedia.org/resource/പുല്ലാങ്കുഴല്‍ http://dbpedia.org/resource/புல்லாங்குழல் http://dbpedia.org/resource/Carnatic_flutes http://dbpedia.org/resource/Pullanguzhal http://dbpedia.org/resource/పిల్లన_గ్రోవి http://dbpedia.org/resource/ಕೊಳಲು http://dbpedia.org/resource/Pillana_grovi http://dbpedia.org/resource/Pullankuzhal
+0,39,Xiao,http://dbpedia.org/resource/Xiao_Xiao,http://dbpedia.org/resource/Xiao_flute http://dbpedia.org/resource/Dongxiao http://dbpedia.org/resource/Dong_xiao http://dbpedia.org/resource/Qin_xiao http://dbpedia.org/resource/Xiao_(flute) http://dbpedia.org/resource/Xiao_(instrument)

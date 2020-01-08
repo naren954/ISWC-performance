@@ -1,0 +1,5 @@
+F1: 0.50000,Precision: 0.50000,Recall: 0.50000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,W. Polk,http://dbpedia.org/resource/Leonidas_Polk,http://dbpedia.org/resource/William_Polk_(colonel)
+0,5,J. Breckinridge,http://dbpedia.org/resource/Democratic_Party_(United_States),http://dbpedia.org/resource/John_Breckinridge_(Virginia_and_Kentucky) http://dbpedia.org/resource/John_Breckinridge_(U.S._Attorney_General) http://dbpedia.org/resource/John_Breckinridge_(Virginia_&_Kentucky) http://dbpedia.org/resource/John_Breckinridge_(1760–1806) http://dbpedia.org/resource/John_Breckinridge_(1760-1806)
+0,6,C. Scott,http://dbpedia.org/resource/Charlotte_Scott,http://dbpedia.org/resource/Charles_Scott_(governor_of_Kentucky) http://dbpedia.org/resource/Charles_Scott_(general) http://dbpedia.org/resource/Charles_Scott_(governor)

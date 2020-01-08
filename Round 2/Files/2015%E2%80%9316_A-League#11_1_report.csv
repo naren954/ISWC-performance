@@ -1,0 +1,5 @@
+"F1: 0.76923","Precision: 0.76923","Recall: 0.76923"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","9","MiloÅ¡ TrifunoviÄ\u0087","http://dbpedia.org/resource/Miloš_Nikolić","http://dbpedia.org/resource/Miloš_Trifunović"
+"1","10","Diego Castro","http://de.dbpedia.org/resource/Diego_Castro_(Fußballspieler,_1961)","http://dbpedia.org/resource/Diego_Castro_Giménez http://dbpedia.org/resource/Diego_Castro http://dbpedia.org/resource/Diego_Castro_Jiménez"
+"1","12","Filip HoloÅ¡ko","http://dbpedia.org/resource/Filip_Adamski","http://dbpedia.org/resource/Filip_Hološko"

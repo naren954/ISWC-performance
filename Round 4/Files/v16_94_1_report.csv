@@ -1,0 +1,7 @@
+"F1: 0.37500","Precision: 0.37500","Recall: 0.37500"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","2","J. Smith","http://dbpedia.org/resource/Hal_Smith_(actor)","http://dbpedia.org/resource/Jeremiah_Smith_(lawyer)"
+"1","5","J. Webster","http://dbpedia.org/resource/John_Webster_(Royal_Navy_officer)","http://dbpedia.org/resource/John_Webster_(governor) http://dbpedia.org/resource/John_Webster_(Governor_of_the_Colony_of_Connecticut)"
+"1","6","H. B. Joy","http://dbpedia.org/resource/Alfred_Harrison_Joy","http://dbpedia.org/resource/Henry_B._Joy http://dbpedia.org/resource/Henry_Bourne_Joy"
+"1","7","W. Gordon","http://dbpedia.org/resource/John_William_Gordon","http://dbpedia.org/resource/William_Gordon_(congressman) http://dbpedia.org/resource/William_Gordon_(1763–1802) http://dbpedia.org/resource/William_Gordon_(New_Hampshire_politician) http://dbpedia.org/resource/William_Gordon_(1763-1802)"
+"1","8","S. Livermore","http://dbpedia.org/resource/Pete_Livermore","http://dbpedia.org/resource/Samuel_Livermore"

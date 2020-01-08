@@ -1,0 +1,30 @@
+F1: 0.84615,Precision: 0.84615,Recall: 0.84615,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,1,K. Min-jae,http://dbpedia.org/resource/Kim_Min-jae_(baseball),http://dbpedia.org/resource/Kim_Min-jae_(weightlifter) http://dbpedia.org/resource/Kim_Min-Jae_(weightlifter)
+3,5,Ó. Figueroa,http://dbpedia.org/resource/Carlos_Figueroa_(equestrian),http://dbpedia.org/resource/Oscar_Albeiro_Figueroa http://dbpedia.org/resource/Óscar_Figueroa_(weightlifter) http://dbpedia.org/resource/Oscar_Figueroa_(weightlifter) http://dbpedia.org/resource/Óscar_Figueroa_(athlete)
+3,16,K. Min-jae,http://dbpedia.org/resource/Kim_Min-jae_(baseball),http://dbpedia.org/resource/Kim_Min-jae_(weightlifter) http://dbpedia.org/resource/Kim_Min-Jae_(weightlifter)
+3,20,Ó. Figueroa,http://dbpedia.org/resource/Carlos_Figueroa_(equestrian),http://dbpedia.org/resource/Oscar_Albeiro_Figueroa http://dbpedia.org/resource/Óscar_Figueroa_(weightlifter) http://dbpedia.org/resource/Oscar_Figueroa_(weightlifter) http://dbpedia.org/resource/Óscar_Figueroa_(athlete)
+3,31,H. A. Tuấn,http://dbpedia.org/resource/Võ_Huy_Toàn,http://dbpedia.org/resource/Hoàng_Anh_Tuấn
+3,41,H. A. Tuấn,http://dbpedia.org/resource/Võ_Huy_Toàn,http://dbpedia.org/resource/Ahn_Tuan_Hoang http://dbpedia.org/resource/Anh_Tuan_Hoang http://dbpedia.org/resource/Hoang_anh_tuan http://dbpedia.org/resource/Hoang_Anh_Tuan http://dbpedia.org/resource/Ahn_Taun_Hoang http://dbpedia.org/resource/Hoàng_Anh_Tuấn
+3,76,V. Popova,http://dbpedia.org/resource/Valentina_Popova_(table_tennis),http://dbpedia.org/resource/Valentina_Popova
+3,78,L. Feng-ying,http://dbpedia.org/resource/Matthieu_Lo_Ying_Ping,http://dbpedia.org/resource/Li_Fengying http://dbpedia.org/resource/Li_Feng-ying http://dbpedia.org/resource/Feng-Ying_Li
+3,84,G. Markov,http://fr.dbpedia.org/resource/Guéorgui_Markov,http://dbpedia.org/resource/Georgi_Markov_(weightlifter)
+3,85,L. Sampanis,,http://dbpedia.org/resource/Luan_Shabani http://dbpedia.org/resource/Luan_shabani http://dbpedia.org/resource/Sabanis http://dbpedia.org/resource/Leonidas_Sampanis http://dbpedia.org/resource/Leonidas_Sabanis
+3,91,V. Popova,http://dbpedia.org/resource/Valentina_Popova_(table_tennis),http://dbpedia.org/resource/Valentina_Popova
+3,93,L. Feng-ying,http://dbpedia.org/resource/Matthieu_Lo_Ying_Ping,http://dbpedia.org/resource/Li_Fengying http://dbpedia.org/resource/Li_Feng-ying http://dbpedia.org/resource/Feng-Ying_Li
+3,99,G. Markov,http://fr.dbpedia.org/resource/Guéorgui_Markov,http://dbpedia.org/resource/Georgi_Markov_(weightlifter)
+3,100,L. Sampanis,,http://dbpedia.org/resource/Luan_Shabani http://dbpedia.org/resource/Luan_shabani http://dbpedia.org/resource/Sabanis http://dbpedia.org/resource/Leonidas_Sampanis http://dbpedia.org/resource/Leonidas_Sabanis
+3,123,S. Dimitrov,http://dbpedia.org/resource/Ivan_Dimitrov_(footballer),http://dbpedia.org/resource/Stefan_Dimitrov_(weightlifter)
+3,125,H. B. Chol,http://dbpedia.org/resource/H._B._Warner,http://dbpedia.org/resource/Ho_Bong-chol http://dbpedia.org/resource/Ho_Bong-Chol http://dbpedia.org/resource/Ho_Bong_Chol
+3,127,S. Dimitrov,http://dbpedia.org/resource/Ivan_Dimitrov_(footballer),http://dbpedia.org/resource/Stefan_Dimitrov_(weightlifter)
+3,129,H. B. Chol,http://dbpedia.org/resource/H._B._Warner,http://dbpedia.org/resource/Ho_Bong-chol http://dbpedia.org/resource/Ho_Bong-Chol http://dbpedia.org/resource/Ho_Bong_Chol
+3,141,A. Stadler,http://dbpedia.org/resource/Achim_Stadler,http://dbpedia.org/resource/Andreas_Stadler
+3,142,F. Aigner,http://dbpedia.org/resource/Hannes_Aigner,http://dbpedia.org/resource/Franz_Aigner_(weightlifter)
+3,146,A. Stadler,http://dbpedia.org/resource/Achim_Stadler,http://dbpedia.org/resource/Andreas_Stadler
+3,147,F. Aigner,http://dbpedia.org/resource/Hannes_Aigner,http://dbpedia.org/resource/Franz_Aigner_(weightlifter)
+3,149,P. Bianchi,http://dbpedia.org/resource/Pietro_Bianchi_(gymnast),http://dbpedia.org/resource/Pietro_Bianchi_(weightlifter)
+3,154,P. Bianchi,http://dbpedia.org/resource/Pietro_Bianchi_(gymnast),http://dbpedia.org/resource/Pietro_Bianchi_(weightlifter)
+3,161,Liverpool,"http://dbpedia.org/resource/Robert_Jenkinson,_2nd_Earl_of_Liverpool","http://dbpedia.org/resource/Liverpudlian http://dbpedia.org/resource/L'POOL http://dbpedia.org/resource/Liverpool_(England) http://dbpedia.org/resource/Liverpool http://dbpedia.org/resource/Scouseland http://dbpedia.org/resource/Liverpool,_Britain http://dbpedia.org/resource/Landmarks_in_Liverpool http://dbpedia.org/resource/Liverpool,_United_Kingdom http://dbpedia.org/resource/Liverpool,_U.K. http://dbpedia.org/resource/Liverpool,_Merseyside http://dbpedia.org/resource/Lerpwl http://dbpedia.org/resource/Liverpool,_England http://dbpedia.org/resource/The_weather_in_Liverpool http://dbpedia.org/resource/Metropolitan_Borough_of_Liverpool http://dbpedia.org/resource/Liverpool_(borough) http://dbpedia.org/resource/Liverpudlians http://dbpedia.org/resource/Liverpool,_UK http://dbpedia.org/resource/County_Borough_of_Liverpool http://dbpedia.org/resource/Liverpool/Archive_1"
+3,174,M. Jones,"http://dbpedia.org/resource/Mark_Jones_(basketball,_born_1961)",http://dbpedia.org/resource/Michellie_Jones
+3,176,M. Jones,"http://dbpedia.org/resource/Mark_Jones_(basketball,_born_1961)",http://dbpedia.org/resource/Michellie_Jones
+3,179,A. Hlaváčková,http://dbpedia.org/resource/Běla_Hlaváčková,http://dbpedia.org/resource/Andrea_Hlaváčková http://dbpedia.org/resource/Andrea_Hlavackova

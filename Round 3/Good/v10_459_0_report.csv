@@ -1,0 +1,10 @@
+F1: 0.94872,Precision: 0.94872,Recall: 0.94872,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,11,Scinax alcatraz,http://dbpedia.org/resource/Ololygon_alcatraz,http://dbpedia.org/resource/Scinax_alcatraz
+0,32,Santarem tree frog,http://dbpedia.org/resource/Jerdon's_tree_frog,http://dbpedia.org/resource/Santarem_tree_frog http://dbpedia.org/resource/Hyla_inframaculata
+0,36,Sandy big-eyed tree frog,http://dbpedia.org/resource/Leptopelis_vermiculatus,http://dbpedia.org/resource/Sandy_big-eyed_tree_frog http://dbpedia.org/resource/Sandy_Big-eyed_Tree_Frog http://dbpedia.org/resource/Nyctimystes_kubori
+0,76,Richard’s big-eyed tree frog,http://dbpedia.org/resource/Rueppel's_big-eyed_tree_frog,http://dbpedia.org/resource/Nyctimystes_oktediensis http://dbpedia.org/resource/Richard’s_Big-eyed_Tree_Frog http://dbpedia.org/resource/Richard’s_big-eyed_tree_frog
+0,101,Rhamphophryne tenrec,http://dbpedia.org/resource/Rhinella_tenrec,http://dbpedia.org/resource/Rhamphophryne_tenrec
+0,102,Rhamphophryne ruizi,http://dbpedia.org/resource/Rhinella_ruizi,http://dbpedia.org/resource/Rhamphophryne_ruizi
+0,105,Rhamphophryne lindae,http://dbpedia.org/resource/Rhinella_lindae,http://dbpedia.org/resource/Rhamphophryne_lindae
+0,111,Rhacophorus robinsonii,http://dbpedia.org/resource/Robinson's_tree_frog,http://dbpedia.org/resource/Rhacophorus_robinsonii

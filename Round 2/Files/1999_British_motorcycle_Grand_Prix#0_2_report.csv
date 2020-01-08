@@ -1,0 +1,6 @@
+"F1: 0.81818","Precision: 0.81818","Recall: 0.81818"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"2","1","Ã\u0080lex CrivillÃ©","http://dbpedia.org/resource/Lex","http://dbpedia.org/resource/Àlex_Crivillé"
+"2","7","Juan Borja","http://dbpedia.org/resource/Juan_Borja_(motorcyclist)","http://dbpedia.org/resource/Juan_Borja_(motorcycle_racer)"
+"2","11","Michael Rutter","http://dbpedia.org/resource/Michael_Rutter_(motorcyclist)","http://dbpedia.org/resource/Michael_Rutter_(motorcycle_racer)"
+"2","13","John McGuinness","http://dbpedia.org/resource/John_McGuinness_(motorcyclist)","http://dbpedia.org/resource/John_McGuinness_(motorcycle_racer)"

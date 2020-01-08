@@ -1,0 +1,23 @@
+F1: 0.69565,Precision: 0.69565,Recall: 0.69565,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,5,S. Green,http://dbpedia.org/resource/Sammy_Green,http://dbpedia.org/resource/Skyler_Green
+0,9,S. Butler,http://dbpedia.org/resource/Sol_Butler,http://dbpedia.org/resource/Skip_Butler
+0,10,S. Quinlan,http://dbpedia.org/resource/Bernard_Quinlan,http://dbpedia.org/resource/Skeets_Quinlan
+0,13,S. Moore,http://dbpedia.org/resource/Sheena_Moore,http://dbpedia.org/resource/Sio_Moore
+0,14,S. Moss,http://dbpedia.org/resource/Santana_Moss,http://dbpedia.org/resource/Sinorice_Moss
+0,16,S. Rice,http://dbpedia.org/resource/Sidney_Rice,http://dbpedia.org/resource/Simeon_Rice
+0,19,S. Williams,http://dbpedia.org/resource/Steve_Williams_(cornerback),"http://dbpedia.org/resource/Sidney_Williams_(American_football) http://dbpedia.org/resource/Sid_Williams http://dbpedia.org/resource/Williams,_Sid"
+0,29,S. Smith,http://dbpedia.org/resource/Shelley_Smith_(American_football),http://dbpedia.org/resource/Shevin_Smith
+0,30,S. Martin,http://dbpedia.org/resource/Stu_Martin_(baseball),http://dbpedia.org/resource/Sherrod_Martin
+0,32,S. Williams,http://dbpedia.org/resource/Steve_Williams_(cornerback),http://dbpedia.org/resource/Sherman_Williams_(American_football)
+0,36,S. White,http://dbpedia.org/resource/Sherman_White_(American_football),http://dbpedia.org/resource/Sheldon_White
+0,39,S. Jackson,http://dbpedia.org/resource/Stanley_Jackson_(gridiron_football),http://dbpedia.org/resource/Sheldon_Jackson_(American_football)
+0,42,S. Brown,http://dbpedia.org/resource/Sergio_Brown,http://dbpedia.org/resource/Sheldon_Brown_(American_football) http://dbpedia.org/resource/Sheldon_Brown_(football_player)
+0,43,S. Harris,http://dbpedia.org/resource/Steven_Harris_(defensive_tackle),http://dbpedia.org/resource/Shelby_Harris http://dbpedia.org/resource/Shelby_Harris_(American_football)
+0,48,S. Williams,http://dbpedia.org/resource/Steve_Williams_(cornerback),http://dbpedia.org/resource/Shawn_Williams_(American_football)
+0,51,S. Nelson,http://dbpedia.org/resource/Steven_Nelson,http://dbpedia.org/resource/Shawn_Nelson_(American_football)
+0,52,S. Murphy,http://dbpedia.org/resource/Stretch_Murphy,http://dbpedia.org/resource/Shawn_Murphy_(American_football)
+0,53,S. Moore,http://dbpedia.org/resource/Sheena_Moore,http://dbpedia.org/resource/Shawn_moore http://dbpedia.org/resource/Shawn_Moore
+0,55,S. Lee,http://dbpedia.org/resource/Stuart_Lee,http://dbpedia.org/resource/Shawn_Lee_(football_player) http://dbpedia.org/resource/Shawn_Lee_(American_football) http://dbpedia.org/resource/Shawn_Swaboda_Lee
+0,57,S. King,http://dbpedia.org/resource/Shaun_King_(American_football),"http://dbpedia.org/resource/Shawn_King_(American_football) http://dbpedia.org/resource/Shawn_King_(football) http://dbpedia.org/resource/Shawn_King http://dbpedia.org/resource/King,_Shawn"
+0,68,S. Williams,http://dbpedia.org/resource/Steve_Williams_(cornerback),http://dbpedia.org/resource/Shaun_Williams_(American_football)

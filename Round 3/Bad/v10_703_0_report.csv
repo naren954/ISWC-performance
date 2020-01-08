@@ -1,0 +1,10 @@
+F1: 0.33333,Precision: 0.33333,Recall: 0.33333,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,WOTH-CD,http://dbpedia.org/resource/.cd,http://dbpedia.org/resource/WOTH-LP http://dbpedia.org/resource/WOTH-LP/LD http://dbpedia.org/resource/WOTH-CD http://dbpedia.org/resource/WOTH-CA http://dbpedia.org/resource/WOTH-LD http://dbpedia.org/resource/Woth-ld http://dbpedia.org/resource/W39CG http://dbpedia.org/resource/W35BA
+0,3,WOAI-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WOAI-DT http://dbpedia.org/resource/WOAI-TV http://dbpedia.org/resource/KMOL http://dbpedia.org/resource/KMOL-TV
+0,4,WNYF-CD,http://dbpedia.org/resource/.cd,http://dbpedia.org/resource/WWNY-CD http://dbpedia.org/resource/WNYF-LP http://dbpedia.org/resource/WNYF-CA http://dbpedia.org/resource/WNYF-LD http://dbpedia.org/resource/WNYF-CD
+0,5,WNOL-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WNOL-DT http://dbpedia.org/resource/WNOL-TV http://dbpedia.org/resource/WNOL http://dbpedia.org/resource/NOLA_38
+0,7,WMFD-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WMFD_TV http://dbpedia.org/resource/WMFD-TV
+0,8,WMDO-CD,http://dbpedia.org/resource/.cd,http://dbpedia.org/resource/WMDO-LD http://dbpedia.org/resource/WMDO http://dbpedia.org/resource/WMDO-CD http://dbpedia.org/resource/WMDO-CA
+0,9,WMDE,http://dbpedia.org/resource/Wikimedia_Deutschland,http://dbpedia.org/resource/WMDE
+0,12,WKRC-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/Local_12 http://dbpedia.org/resource/CIN_CW http://dbpedia.org/resource/CW_Cincinnati http://dbpedia.org/resource/Liz_Bonis http://dbpedia.org/resource/Local12 http://dbpedia.org/resource/The_CinCW http://dbpedia.org/resource/12WKRC http://dbpedia.org/resource/Cin_CW http://dbpedia.org/resource/Cincinnati_CW http://dbpedia.org/resource/CBS_Cincinnati http://dbpedia.org/resource/CW_Cincy http://dbpedia.org/resource/WKRC-TV http://dbpedia.org/resource/WKRC_(TV) http://dbpedia.org/resource/12_WKRC http://dbpedia.org/resource/The_CW_Cincinnati http://dbpedia.org/resource/CinCW

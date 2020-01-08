@@ -1,0 +1,6 @@
+"F1: 0.69231","Precision: 0.69231","Recall: 0.69231"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","1","W. W. II","http://dbpedia.org/resource/George_W._Bush","http://dbpedia.org/resource/William_Whiting_II_(politician) http://dbpedia.org/resource/William_Whiting_II http://dbpedia.org/resource/William_W._II"
+"0","5","John Thomson Mason, Jr.","http://dbpedia.org/resource/John_Thomson_Mason_Jr.","http://dbpedia.org/resource/John_Thomson_Mason,_Jr."
+"0","7","E. R. Potter","http://dbpedia.org/resource/Elisha_R._Potter","http://dbpedia.org/resource/Elisha_Reynolds_Potter"
+"0","13","C. H. Sr.","http://dbpedia.org/resource/Vernon_Holloway","http://dbpedia.org/resource/Carter_Harrison_Sr http://dbpedia.org/resource/Carter_Harrison,_Sr. http://dbpedia.org/resource/Carter_H._Harrison http://dbpedia.org/resource/Carter_Harrison_Sr. http://dbpedia.org/resource/Carter_H._Harrison,_Sr. http://dbpedia.org/resource/Carter_Henry_Harrison,_Sr."

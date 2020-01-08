@@ -1,0 +1,6 @@
+"F1: 0.84000","Precision: 0.84000","Recall: 0.84000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","1","Danger","http://dbpedia.org/resource/Henry_Danger","http://dbpedia.org/resource/Danger_(film) http://dbpedia.org/resource/Danger_(2005_film)"
+"1","9","Mirapakaay","nan","http://dbpedia.org/resource/Mirapakaay http://dbpedia.org/resource/Mirapakay http://dbpedia.org/resource/Mirapakaya"
+"1","12","Amen","http://dbpedia.org/resource/Amen.","http://dbpedia.org/resource/Amen_(2012_film) http://dbpedia.org/resource/Amen_(2013_film) http://dbpedia.org/resource/PS_Rafeeque"
+"1","21","Double Barrel","http://dbpedia.org/resource/Double_Barrel","http://dbpedia.org/resource/Double_Barrel_(film) http://dbpedia.org/resource/Double_Barrel_(2014_film)"

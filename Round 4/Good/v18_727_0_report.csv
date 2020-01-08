@@ -1,0 +1,10 @@
+F1: 0.82222,Precision: 0.82222,Recall: 0.82222,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,18,William Taylor House,"http://dbpedia.org/resource/William_Taylor_House_(Resaca,_Georgia)","http://dbpedia.org/resource/William_Taylor_House_(Middleport,_New_York)"
+0,19,William Talley House,"http://dbpedia.org/resource/William_Talley_House_(Safford,_Arizona)","http://dbpedia.org/resource/William_Talley_House_(Wilmington,_Delaware)"
+0,30,William Stevens House,"http://dbpedia.org/resource/William_Stevens_House_(Kenton,_Delaware)","http://dbpedia.org/resource/William_Stevens_House_(Clinton,_Connecticut)"
+0,34,William Smith House,"http://dbpedia.org/resource/William_Smith_House_(Wrightstown,_Pennsylvania)","http://dbpedia.org/resource/William_Smith_House_(Hamilton,_Virginia)"
+0,35,William Smith House,"http://dbpedia.org/resource/William_Smith_House_(Wrightstown,_Pennsylvania)","http://dbpedia.org/resource/William_Smith_House_(Aurora,_Colorado)"
+0,36,William Shoemaker Junior High School,http://dbpedia.org/resource/Shaw_Junior_High_School,http://dbpedia.org/resource/William_Shoemaker_Junior_High_School
+0,40,William Sewall House,http://dbpedia.org/resource/Richards-Sewall_House,http://dbpedia.org/resource/William_Sewall_House
+0,42,William Sayers Homestead,http://dbpedia.org/resource/William_Cornell_Homestead,http://dbpedia.org/resource/William_Sayers_Homestead

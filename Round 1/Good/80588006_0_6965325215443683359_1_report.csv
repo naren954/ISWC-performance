@@ -1,0 +1,4 @@
+F1: 0.85714,Precision: 0.85714,Recall: 0.85714,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,21,More Media >>,http://dbpedia.org/resource/More!,http://dbpedia.org/resource/Media_of_Sierra_Leone http://dbpedia.org/resource/Sierra_Leonean_media http://dbpedia.org/resource/Media_in_Sierra_Leone
+1,13,IBN live,http://dbpedia.org/resource/Ibn_Taymiyyah,http://dbpedia.org/resource/News18.com http://dbpedia.org/resource/IBNLive http://dbpedia.org/resource/CNN-_IBN http://dbpedia.org/resource/CNN_IBN http://dbpedia.org/resource/IBN_Live http://dbpedia.org/resource/CNN_India http://dbpedia.org/resource/CNN-IBN http://dbpedia.org/resource/IBN_India http://dbpedia.org/resource/Cable_News_Network-Indian_Broadcasting_Network http://dbpedia.org/resource/CNN-News18

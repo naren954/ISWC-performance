@@ -1,0 +1,7 @@
+F1: 0.88372,Precision: 0.88372,Recall: 0.88372,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,Å. Borg,http://dbpedia.org/resource/Mattias_Borg,http://dbpedia.org/resource/Ake_Borg http://dbpedia.org/resource/Åke_Borg
+0,4,Å. Bergman,"http://ru.dbpedia.org/resource/Бергман,_Александра_Григорьевна",http://dbpedia.org/resource/Åke_Bergman http://dbpedia.org/resource/Ake_Bergman
+0,28,W. Persson,http://dbpedia.org/resource/Joachim_Persson,http://dbpedia.org/resource/Wilhelm_Persson
+0,29,W. Edwards,http://dbpedia.org/resource/Willis_Edwards,http://dbpedia.org/resource/Wilfred_Edwards_(swimmer)
+0,30,W. Moore,http://dbpedia.org/resource/William_Moore_(athlete),http://dbpedia.org/resource/Wayne_Moore_(swimmer)

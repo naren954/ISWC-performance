@@ -1,0 +1,7 @@
+"F1: 0.82759","Precision: 0.82759","Recall: 0.82759"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","1","French battleship Diderot","http://dbpedia.org/resource/French_battleship_France","http://dbpedia.org/resource/French_battleship_Diderot_(1909) http://dbpedia.org/resource/French_battleship_Diderot"
+"0","7","Croatian missile boat Šibenik","http://dbpedia.org/resource/Croatian_missile_boat_Kralj_Dmitar_Zvonimir_(RTOP-12)","http://dbpedia.org/resource/Croatian_missile_boat_Šibenik_(RTOP-21) http://dbpedia.org/resource/Croatian_missile_boat_Sibenik_(RTOP-21)"
+"0","8","Chinese cruiser Laiyuan","http://dbpedia.org/resource/Chinese_cruiser_Jiyuan","http://dbpedia.org/resource/Chinese_cruiser_Laiyuan http://dbpedia.org/resource/Chinese_cruiser_laiyuan http://dbpedia.org/resource/Lai_Yuen"
+"0","21","BAP Unión","http://dbpedia.org/resource/BAP_Unión","http://dbpedia.org/resource/BAP_Unión_(BEV-161) http://dbpedia.org/resource/BAP_Union http://dbpedia.org/resource/BAP_Union_(BEV-161)"
+"0","29","ARA General Belgrano","http://dbpedia.org/resource/ARA_General_Belgrano","http://dbpedia.org/resource/Italian_cruiser_Varese_(1897) http://dbpedia.org/resource/ARA_General_Belgrano_(1896)"

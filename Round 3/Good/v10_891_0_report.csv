@@ -1,0 +1,20 @@
+F1: 0.80220,Precision: 0.80220,Recall: 0.80220,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Lomba,http://de.dbpedia.org/resource/Lomba_(Sabugal),http://dbpedia.org/resource/Lomba_(Lajes_das_Flores)
+0,2,Litchfield,"http://dbpedia.org/resource/Litchfield,_Connecticut","http://dbpedia.org/resource/Litchfield,_Connecticut_(borough) http://dbpedia.org/resource/Litchfield_(borough),_Connecticut http://dbpedia.org/resource/Litchfield_(borough),_Litchfield_County,_Connecticut http://dbpedia.org/resource/Litchfield_Borough"
+0,4,Le Roy,"http://dbpedia.org/resource/Le_Roy,_New_York","http://dbpedia.org/resource/Le_Roy_(village),_New_York http://dbpedia.org/resource/Le_Roy_(village),_Genesee_County,_New_York"
+0,7,Lajes das Flores,http://dbpedia.org/resource/Lajes_das_Flores,http://dbpedia.org/resource/Lajes_das_Flores_(parish)
+0,9,Lajes,http://dbpedia.org/resource/Lajes_do_Pico,http://dbpedia.org/resource/Lajes_(Praia_da_Vitoria) http://dbpedia.org/resource/Lajes_(Praia_da_Vitória)
+0,15,Ilha,http://de.dbpedia.org/resource/Ilha_(Pombal),http://dbpedia.org/resource/Ilha_(Santana)
+0,19,Guadalupe,"http://dbpedia.org/resource/San_Jose,_California",http://dbpedia.org/resource/Guadalupe_(Santa_Cruz_da_Graciosa)
+0,25,Flamengos,http://dbpedia.org/resource/Flemish_Brabant,"http://dbpedia.org/resource/Flamengos,_Azores_Islands http://dbpedia.org/resource/Flamengos http://dbpedia.org/resource/Flamengos,_Azores"
+0,44,Cuneo,http://dbpedia.org/resource/Province_of_Cuneo,"http://dbpedia.org/resource/Cuneo,_Diocese_of http://dbpedia.org/resource/History_of_Cuneo http://dbpedia.org/resource/Madonna_dell'Olmo http://dbpedia.org/resource/Cuneo"
+0,49,Conceição,http://dbpedia.org/resource/Conceição_de_Tavira,"http://dbpedia.org/resource/Conceição_(Horta) http://dbpedia.org/resource/Conceicao,_Azores http://dbpedia.org/resource/Conceição,_Azores_Islands http://dbpedia.org/resource/Conceição,_Azores http://dbpedia.org/resource/Conceicao_(Horta) http://dbpedia.org/resource/Conceicao,_Azores_Islands"
+0,52,Cohocton,"http://dbpedia.org/resource/Cohocton,_New_York","http://dbpedia.org/resource/Cohocton_(village),_Steuben_County,_New_York http://dbpedia.org/resource/Cohocton_(village),_New_York"
+0,53,Chester,"http://dbpedia.org/resource/Chester_County,_Tennessee","http://dbpedia.org/resource/Chester_(village),_Orange_County,_New_York http://dbpedia.org/resource/Chester_(village),_New_York http://dbpedia.org/resource/Chester_Village,_NY"
+0,55,Cedros,http://dbpedia.org/resource/Cedros_(Santa_Cruz_das_Flores),"http://dbpedia.org/resource/Cedros_(Horta) http://dbpedia.org/resource/Cedros,_Azores http://dbpedia.org/resource/Cedros,_Azores_Islands"
+0,57,Catanzaro,http://dbpedia.org/resource/Province_of_Catanzaro,"http://dbpedia.org/resource/Catanzaro,_Italy http://dbpedia.org/resource/UN/LOCODE:ITQCZ http://dbpedia.org/resource/Katantheros http://dbpedia.org/resource/Capital_of_Calabria http://dbpedia.org/resource/Katastarioi_Lokroi http://dbpedia.org/resource/Catanzaro"
+0,59,Castelo Branco,"http://dbpedia.org/resource/Castelo_Branco,_Portugal","http://dbpedia.org/resource/Castelo_Branco_(Horta) http://dbpedia.org/resource/Castelo_Branco,_Azores http://dbpedia.org/resource/Castelo_Branco_Parish"
+0,66,Candelária,"http://dbpedia.org/resource/Candelaria,_Tenerife",http://dbpedia.org/resource/Candelaria_(Madalena) http://dbpedia.org/resource/Candelária_(Madalena)
+0,69,Cambridge,"http://dbpedia.org/resource/Cambridge,_Massachusetts","http://dbpedia.org/resource/Cambridge_(village),_New_York http://dbpedia.org/resource/Cambridge_(village),_Washington_County,_New_York http://dbpedia.org/resource/Cambridge_(village),_WA_County,_New_York"
+0,88,Arcos,http://dbpedia.org/resource/Arcos_de_la_Frontera,http://dbpedia.org/resource/Arcos_(Vila_do_Conde)

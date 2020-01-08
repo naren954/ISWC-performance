@@ -1,0 +1,24 @@
+F1: 0.60000,Precision: 0.60000,Recall: 0.60000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,J. Irving,http://dbpedia.org/resource/Henry_Irving,http://dbpedia.org/resource/Judy_Irving
+1,7,J. Bini,http://dbpedia.org/resource/Lucio_Bini,http://dbpedia.org/resource/Guiuseppe_Gaetano_Bini http://dbpedia.org/resource/Joe_Bini
+1,10,T. Pratt,http://dbpedia.org/resource/Hugo_Pratt,http://dbpedia.org/resource/Thomas_Pratt_(film_editor)
+1,14,F. Fraticelli,http://fr.dbpedia.org/resource/Éric_Fraticelli,http://dbpedia.org/resource/Franco_Fraticelli
+1,15,E. Jenkins,http://dbpedia.org/resource/Leroy_Jenkins_(jazz_musician),http://dbpedia.org/resource/Eric_Jenkins
+1,22,R. Benedetti,http://dbpedia.org/resource/Giovanni_Benedetto_Castiglione,http://dbpedia.org/resource/Rolando_Benedetti
+1,24,J. Bustos,http://dbpedia.org/resource/Juan_Bustos,http://dbpedia.org/resource/Jorge_Bustos http://dbpedia.org/resource/Jorge_Busto
+1,27,R. Kern,http://dbpedia.org/resource/Jerome_Kern,http://dbpedia.org/resource/Robert_J._Kern http://dbpedia.org/resource/Robert_Kern
+1,30,J. Clarke,http://dbpedia.org/resource/John_Clarke_(Baptist_minister),http://dbpedia.org/resource/Julian_Clarke
+1,31,A. Harvey,http://dbpedia.org/resource/Laurence_Harvey,http://dbpedia.org/resource/Tony_Harvey http://dbpedia.org/resource/Anthony_Harvey
+1,32,R. Cinquini,http://dbpedia.org/resource/Roberto_Cinquini,http://dbpedia.org/resource/Renato_Cinquini
+1,33,J. Bohr,http://dbpedia.org/resource/Niels_Bohr,http://dbpedia.org/resource/Jose_Bohr http://dbpedia.org/resource/José_Bohr
+1,35,M. Mak,http://dbpedia.org/resource/Max_Planck,http://dbpedia.org/resource/Marco_Mak_Chi_Sin http://dbpedia.org/resource/Marco_Mak
+1,36,C. Schaeffer,http://dbpedia.org/resource/Pierre_Schaeffer,http://dbpedia.org/resource/Chester_Schaeffer http://dbpedia.org/resource/Chester_W._Schaeffer
+1,40,C. Wood,http://dbpedia.org/resource/Charles_Wood_(composer),http://dbpedia.org/resource/Craig_Wood_(film_editor)
+1,41,M. C. Chorlton,http://dbpedia.org/resource/C._M._Hallard,http://dbpedia.org/resource/Michael_C._Chorlton
+1,42,R. Best,http://dbpedia.org/resource/Eve_Best,http://dbpedia.org/resource/Richard_Best_(film_editor)
+1,45,S. Semel,http://dbpedia.org/resource/Nava_Semel,http://dbpedia.org/resource/Stephen_Semel
+1,49,L. Smith,http://dbpedia.org/resource/Larry_Smith_(producer),http://dbpedia.org/resource/Lee_Smith_(editor)
+1,51,T. S. Riegel,http://dbpedia.org/resource/T._S._Cook,http://dbpedia.org/resource/Tatiana_S._Riegel
+1,53,M. Warner,http://dbpedia.org/resource/Jack_L._Warner,http://dbpedia.org/resource/Mark_Warner_(film_editor) http://dbpedia.org/resource/Mark_Roy_Warner
+1,55,M. Villa,http://dbpedia.org/resource/Mónica_Villa,http://dbpedia.org/resource/Matt_Villa

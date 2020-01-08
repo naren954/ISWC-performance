@@ -1,0 +1,8 @@
+F1: 0.57143,Precision: 0.57143,Recall: 0.57143,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,1,Buck Houghton,http://dbpedia.org/resource/John_T._Houghton,http://dbpedia.org/resource/Buck_Houghton
+3,3,Leonard White,http://dbpedia.org/resource/Leonard_White_(politician),http://dbpedia.org/resource/Leonard_White_(actor) http://dbpedia.org/resource/Leonard_White_(producer)
+3,4,Leonard White,http://dbpedia.org/resource/Leonard_White_(politician),http://dbpedia.org/resource/Leonard_White_(actor) http://dbpedia.org/resource/Leonard_White_(producer)
+3,5,Lissa Evans,http://dbpedia.org/resource/Lissa_Vera,http://dbpedia.org/resource/Their_Finest_Hour_and_a_Half http://dbpedia.org/resource/Lissa_Evans
+3,7,Paul Jackson,http://dbpedia.org/resource/Paul_Jackson_Jr.,http://dbpedia.org/resource/K._Paul_Jackson http://dbpedia.org/resource/Paul_Jackson_(producer)
+3,8,Leonard White,http://dbpedia.org/resource/Leonard_White_(politician),http://dbpedia.org/resource/Leonard_White_(actor) http://dbpedia.org/resource/Leonard_White_(producer)

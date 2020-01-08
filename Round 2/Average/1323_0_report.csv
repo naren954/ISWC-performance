@@ -1,0 +1,5 @@
+F1: 0.62500,Precision: 0.62500,Recall: 0.62500,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Socialist Party,http://dbpedia.org/resource/Socialist_Unity_Party_of_Germany,http://dbpedia.org/resource/Ps.pt http://dbpedia.org/resource/Partido_Socialista_(Portugal) http://dbpedia.org/resource/Socialist_Party_(Portugal) http://dbpedia.org/resource/Socialist_Party_of_Portugal
+0,4,Parti Gerakan Rakyat Malaysia,http://dbpedia.org/resource/MPLA,http://dbpedia.org/resource/Gerakan_Rakyat_Malaysia http://dbpedia.org/resource/Parti_Gerakan http://dbpedia.org/resource/Parti_Gerakan_Rakyat_Malaysia http://dbpedia.org/resource/Malaysian_People's_Movement_Party
+0,7,Democrats,http://dbpedia.org/resource/Democratic_Party_(Italy),http://dbpedia.org/resource/Liberal_Front_Party http://dbpedia.org/resource/Party_of_the_Liberal_Front http://dbpedia.org/resource/Democrats_(Brazil) http://dbpedia.org/resource/Partido_da_Frente_Liberal http://dbpedia.org/resource/Democrat_Party_(Brazil) http://dbpedia.org/resource/Party_of_the_Liberal_Front_(Brazil) http://dbpedia.org/resource/Democratas

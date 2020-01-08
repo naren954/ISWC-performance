@@ -1,0 +1,19 @@
+F1: 0.88742,Precision: 0.88742,Recall: 0.88742,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,25,R. Calvert,http://dbpedia.org/resource/Robert_Calvert,http://dbpedia.org/resource/Reg_Calvert http://dbpedia.org/resource/Reginald_Calvert
+0,26,R. Smith,http://dbpedia.org/resource/Royce_Smith,http://dbpedia.org/resource/Reg_Smith
+0,39,R. Shaw,http://dbpedia.org/resource/Richard_Shaw_(footballer),http://dbpedia.org/resource/Ray_Shaw_(association_footballer)
+0,41,R. Jones,"http://dbpedia.org/resource/Ryan_Jones_(footballer,_born_1973)","http://dbpedia.org/resource/Ray_Jones_(footballer_born_1944) http://dbpedia.org/resource/Ray_Jones_(footballer,_born_1944)"
+0,43,R. Daniel,http://dbpedia.org/resource/Ray_Daniel_(Welsh_footballer),http://dbpedia.org/resource/Ray_Daniel
+0,50,R. Polo,http://dbpedia.org/resource/Roberto_Polo,http://dbpedia.org/resource/Ramón_Polo_Pardo http://dbpedia.org/resource/Ramón_Polo
+0,55,R. B. Rodríguez,http://dbpedia.org/resource/Ramón_Blanco_(footballer),http://dbpedia.org/resource/Ramon_Blanco_Rodriguez http://dbpedia.org/resource/Ramón_Blanco_Rodríguez
+0,57,R. L. Colón,http://dbpedia.org/resource/R._L._Ryan,http://dbpedia.org/resource/Ramiro_L._Colon http://dbpedia.org/resource/Ramiro_Colon_Colon http://dbpedia.org/resource/Ramiro_L._Colón
+0,62,R. Polo,http://dbpedia.org/resource/Roberto_Polo,http://dbpedia.org/resource/Ramón_Polo_Pardo http://dbpedia.org/resource/Ramón_Polo
+0,67,R. B. Rodríguez,http://dbpedia.org/resource/Ramón_Blanco_(footballer),http://dbpedia.org/resource/Ramon_Blanco_Rodriguez http://dbpedia.org/resource/Ramón_Blanco_Rodríguez
+0,79,Q. Hameeduddin,http://dbpedia.org/resource/Mohammed_Hameeduddin,http://dbpedia.org/resource/Qazi_Hameeduddin
+0,99,Pieter Van Den Bosch,http://dbpedia.org/resource/Pieter_van_den_Bosch_(footballer),http://dbpedia.org/resource/Pieter_Van_Den_Bosch
+0,114,P. Taylor,"http://dbpedia.org/resource/Peter_Taylor_(footballer,_born_1928)","http://dbpedia.org/resource/Phil_Taylor_(cricketer) http://dbpedia.org/resource/Phil_Taylor_(football) http://dbpedia.org/resource/Phil_Taylor_(footballer) http://dbpedia.org/resource/Peter_Taylor_(cricketer,_born_1917)"
+0,119,P. Watts,"http://dbpedia.org/resource/Peter_Watts_(cricketer,_born_1938)",http://dbpedia.org/resource/Peter_Watts_(road_manager)
+0,132,P. Grant,"http://dbpedia.org/resource/Peter_Grant_(footballer,_born_1965)",http://dbpedia.org/resource/Peter_Grant_(music_manager)
+0,142,P. Boyle,"http://dbpedia.org/resource/Peter_Boyle_(footballer,_born_1951)","http://dbpedia.org/resource/Peter_Boyle_(footballer_born_1876) http://dbpedia.org/resource/Peter_Boyle_(footballer,_born_1876)"
+0,144,P. Smith,http://dbpedia.org/resource/Philip_Smith_(footballer),http://dbpedia.org/resource/Percy_Smith_(footballer) http://dbpedia.org/resource/Percy_Smith_(football)

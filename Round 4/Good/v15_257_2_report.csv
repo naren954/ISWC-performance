@@ -1,0 +1,10 @@
+F1: 0.89474,Precision: 0.89474,Recall: 0.89474,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,32,G. Zehender,http://dbpedia.org/resource/August_Zehender,http://dbpedia.org/resource/Goffredo_Zehender
+2,53,E. Cooper,http://dbpedia.org/resource/Edgar_Cooper,http://dbpedia.org/resource/Earl_Cooper
+2,55,M. Costantini,http://it.dbpedia.org/resource/Maurizio_Costantini,http://dbpedia.org/resource/Meo_Costantini http://dbpedia.org/resource/Meo_Constantini http://dbpedia.org/resource/Bartolomeo_Costantini
+2,57,M. Costantini,http://it.dbpedia.org/resource/Maurizio_Costantini,http://dbpedia.org/resource/Meo_Costantini http://dbpedia.org/resource/Meo_Constantini http://dbpedia.org/resource/Bartolomeo_Costantini
+2,61,J. A. Murphy,http://dbpedia.org/resource/John_Murphy_(bishop),http://dbpedia.org/resource/James_Anthony_Murphy
+2,62,E. Friderich,http://dbpedia.org/resource/Charles_Friderich,http://dbpedia.org/resource/Ernest_Friderich http://dbpedia.org/resource/Ernest_Friedrich
+2,64,L. Wagner,http://dbpedia.org/resource/Louis_Wagner_(driver),http://dbpedia.org/resource/Louis_Wagner
+2,72,P. Baras,http://dbpedia.org/resource/Theda_Bara,http://dbpedia.org/resource/Paul_Baras

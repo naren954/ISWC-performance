@@ -1,0 +1,12 @@
+F1: 0.09091,Precision: 0.09091,Recall: 0.09091,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,2,Ruch ChorzÃ³w,http://dbpedia.org/resource/Chorzów,http://dbpedia.org/resource/Ruch_Chorzów
+1,4,Lech PoznaÅ\u0084,http://dbpedia.org/resource/Lech_(river),http://dbpedia.org/resource/Lech_Poznań
+1,5,Korona Kielce,http://dbpedia.org/resource/Kielce,http://dbpedia.org/resource/Korona_Kielce_coat_of_arms http://dbpedia.org/resource/Korona_Kielce/Coat_of_arms http://dbpedia.org/resource/Korona_Kielce http://dbpedia.org/resource/Korona_II_Kielce
+1,6,Polonia Warsaw,http://dbpedia.org/resource/Poland,http://dbpedia.org/resource/KS_Polonia_Warszawa http://dbpedia.org/resource/Polonia_II_Warsaw http://dbpedia.org/resource/KS_Polonia_SPEC_Warszawa http://dbpedia.org/resource/Polonia_Warszawa http://dbpedia.org/resource/Polonia_SPEC_Warszawa http://dbpedia.org/resource/Polonia_Warsaw http://dbpedia.org/resource/Polonia_II_Warszawa
+1,8,GÃ³rnik Zabrze,http://dbpedia.org/resource/Zabrze,http://dbpedia.org/resource/Górnik_Zabrze
+1,9,ZagÅ\u0082Ä\u0099bie Lubin,http://dbpedia.org/resource/Lubin,http://dbpedia.org/resource/Zagłębie_Lubin
+1,11,Widzew Å\u0081Ã³dÅº,,http://dbpedia.org/resource/Widzew_Łódź
+1,12,Podbeskidzie Bielsko-BiaÅ\u0082a,http://dbpedia.org/resource/White,http://dbpedia.org/resource/Podbeskidzie_Bielsko-Biała
+1,15,Å\u0081KS Å\u0081Ã³dÅº (R),http://dbpedia.org/resource/Gulf_War,http://dbpedia.org/resource/ŁKS_Łódź
+1,16,Cracovia (R),http://dbpedia.org/resource/Kraków,http://dbpedia.org/resource/KS_Cracovia_(football) http://dbpedia.org/resource/Cracovia_Kraków http://dbpedia.org/resource/Cracovia_Krakow http://dbpedia.org/resource/Joao_Paulo_(footballer_born_1983) http://dbpedia.org/resource/KS_Cracovia_Kraków http://dbpedia.org/resource/Cracovia_(football_club) http://dbpedia.org/resource/Cracovia_II http://dbpedia.org/resource/João_Paulo_(footballer_born_1983)

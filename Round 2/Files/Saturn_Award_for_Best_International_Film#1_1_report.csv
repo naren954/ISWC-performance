@@ -1,0 +1,7 @@
+"F1: 0.66667","Precision: 0.66667","Recall: 0.66667"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","3","The Changeling","http://dbpedia.org/resource/Changeling_(film)","http://dbpedia.org/resource/The_Changeling_(1980_film) http://dbpedia.org/resource/The_Changeling_(film)/2008 http://dbpedia.org/resource/Changeling_(1980_film)"
+"1","4","Harlequin","http://dbpedia.org/resource/Harlequin_(novel)","http://dbpedia.org/resource/Harlequin_(film) http://dbpedia.org/resource/Dark_Forces_(film)"
+"1","7","Full Circle","http://dbpedia.org/resource/Full_Circle_(Doctor_Who)","http://dbpedia.org/resource/The_Haunting_of_Julia http://dbpedia.org/resource/Full_Circle_(1977_film)"
+"1","10","The Watcher in the Woods","http://dbpedia.org/resource/The_Watcher_in_the_Woods_(1980_film)","http://dbpedia.org/resource/The_Watcher_In_The_Woods http://dbpedia.org/resource/The_Watcher_In_the_Woods http://dbpedia.org/resource/Watcher_in_the_Woods http://dbpedia.org/resource/The_Watcher_In_The_Woods_(film) http://dbpedia.org/resource/The_Watcher_in_the_Woods_(film) http://dbpedia.org/resource/The_Watcher_In_the_Woods_(film) http://dbpedia.org/resource/The_Watcher_in_the_Woods"
+"1","12","The Chain Reaction","http://dbpedia.org/resource/Chain_Reaction_(Diana_Ross_song)","http://dbpedia.org/resource/The_Chain_Reaction"

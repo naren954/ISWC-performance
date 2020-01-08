@@ -1,0 +1,57 @@
+F1: 0.52174,Precision: 0.52174,Recall: 0.52174,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,4,B. Bartlett,http://dbpedia.org/resource/Bonnie_Bartlett,http://dbpedia.org/resource/Ben_Bartlett
+2,5,J. A. Lührs,http://dbpedia.org/resource/Fredrik_Luhr_Dietrichson,http://dbpedia.org/resource/Jorge_Avendaño_Lohrs http://dbpedia.org/resource/Jorge_Avendaño_Lührs http://dbpedia.org/resource/Jorge_Avendaño http://dbpedia.org/resource/Jorge_Avendano_Luehrs http://dbpedia.org/resource/Jorge_Avendano_Luhrs http://dbpedia.org/resource/Jorge_Avendano_Lohrs http://dbpedia.org/resource/Jorge_Avendaño_Luhrs http://dbpedia.org/resource/Jorge_Avendano
+2,6,J. Wolff,http://fr.dbpedia.org/resource/José_Wolff,http://dbpedia.org/resource/Jonathan_Wolff_(musician)
+2,7,D. Pemberton,http://dbpedia.org/resource/Canada,http://dbpedia.org/resource/Daniel_Pemberton
+2,10,N. Morino,http://dbpedia.org/resource/Jone_Morino,http://dbpedia.org/resource/Nobuhiko_Morino
+2,12,F. Phillips,http://dbpedia.org/resource/Flip_Phillips,http://dbpedia.org/resource/Freddie_Phillips
+2,13,R. Gibbs,http://dbpedia.org/resource/Robin_Gibb,"http://dbpedia.org/resource/Richard_Gibbs http://dbpedia.org/resource/Gibbs,_Richard"
+2,15,K. Macpherson,http://dbpedia.org/resource/James_Macpherson,http://dbpedia.org/resource/Easily_Amused http://dbpedia.org/resource/Keith_Macpherson
+2,23,K. Carter,http://dbpedia.org/resource/Michael_Carter_(musician),http://dbpedia.org/resource/Kristopher_Carter
+2,25,T. Nichols,http://dbpedia.org/resource/Todd_Nichols_(musician),http://dbpedia.org/resource/Ted_Nichols
+2,27,M. Price,http://dbpedia.org/resource/Margaret_Price,http://dbpedia.org/resource/Michael_Price_(composer)
+2,28,E. Hagen,http://dbpedia.org/resource/Nina_Hagen,http://dbpedia.org/resource/Earle_H._Hagen http://dbpedia.org/resource/Earle_Hagen
+2,30,J. Barry,http://dbpedia.org/resource/Jeff_Barry,http://dbpedia.org/resource/John_Barry_Prendergast http://dbpedia.org/resource/John_Barry_(composer) http://dbpedia.org/resource/Barry_Prendergast http://dbpedia.org/resource/John_Barry_Orchestra
+2,31,W. Hatch,http://dbpedia.org/resource/Teri_Hatcher,http://dbpedia.org/resource/Wilbur_Hatch
+2,33,G. Moon,http://dbpedia.org/resource/Galileo_Galilei,http://dbpedia.org/resource/Guy_Moon
+2,34,J. Mann,http://dbpedia.org/resource/Herbie_Mann,http://dbpedia.org/resource/Johnny_Mann_Singers http://dbpedia.org/resource/Johnny_Mann
+2,35,C. Davis,http://dbpedia.org/resource/Colin_Davis,"http://dbpedia.org/resource/Davis,_Carl http://dbpedia.org/resource/Karl_Davis http://dbpedia.org/resource/Carl_Davis"
+2,36,W. Chau,http://dbpedia.org/resource/Italy,http://dbpedia.org/resource/周華健 http://dbpedia.org/resource/Zhou_Huajian http://dbpedia.org/resource/Wakin_Chau http://dbpedia.org/resource/Emil_Chau
+2,40,B. Mann,http://dbpedia.org/resource/Billy_Mann,http://dbpedia.org/resource/Barry_Mann
+2,43,M. David,http://dbpedia.org/resource/Jacques-Louis_David,http://dbpedia.org/resource/Mack_David
+2,44,D. Filho,http://dbpedia.org/resource/André_Filho,http://dbpedia.org/resource/Daniel_Filho
+2,48,S. Levy,http://dbpedia.org/resource/Sivan_Levy,http://dbpedia.org/resource/Itty_Bitty_Heartbeats http://dbpedia.org/resource/Shuky_Levy http://dbpedia.org/resource/Shuki_Levy
+2,49,S. Levy,http://dbpedia.org/resource/Sivan_Levy,http://dbpedia.org/resource/Itty_Bitty_Heartbeats http://dbpedia.org/resource/Shuky_Levy http://dbpedia.org/resource/Shuki_Levy
+2,50,J. Angier,http://dbpedia.org/resource/Angier_Goodwin,http://dbpedia.org/resource/John_Angier
+2,51,J. Sebastian,http://dbpedia.org/resource/Johann_Sebastian_Bach,http://dbpedia.org/resource/Secreto_de_Amor_(song) http://dbpedia.org/resource/Joan_Sebastián http://dbpedia.org/resource/Joan_Sebastian http://dbpedia.org/resource/Tatuajes_(song)
+2,53,E. Bernstein,http://dbpedia.org/resource/Leonard_Bernstein,http://dbpedia.org/resource/Elmer_Berstein http://dbpedia.org/resource/Elmer_Bernstein
+2,55,A. North,http://dbpedia.org/resource/North_Carolina,http://dbpedia.org/resource/Alex_North
+2,56,M. Wilkinson,http://dbpedia.org/resource/Mark_Wilkinson_(singer),http://dbpedia.org/resource/Marc_Wilkinson
+2,57,P. Kingsland,http://dbpedia.org/resource/Richard_Kingsland,http://dbpedia.org/resource/Paddy_Kingsland
+2,61,C. Fox,http://dbpedia.org/resource/Curly_Fox,http://dbpedia.org/resource/Charles_Fox_(composer)
+2,67,A. Winfrey,http://dbpedia.org/resource/Oprah_Winfrey,http://dbpedia.org/resource/Squid_and_Frog http://dbpedia.org/resource/Amy_Winfrey http://dbpedia.org/resource/Muffin_Films
+2,68,T. Roots,http://dbpedia.org/resource/Slovenia,"http://dbpedia.org/resource/James_'Kamal'_Gray http://dbpedia.org/resource/Frank_Knuckles http://dbpedia.org/resource/Roots_(band) http://dbpedia.org/resource/Damon_Bryson http://dbpedia.org/resource/End_Game_(The_Roots_album) http://dbpedia.org/resource/The_End_Game_(album) http://dbpedia.org/resource/The_Square_Roots http://dbpedia.org/resource/Kamal_Gray http://dbpedia.org/resource/Endgame_(The_Roots_album) http://dbpedia.org/resource/The_Roots_(band) http://dbpedia.org/resource/Wadud_Ahmad http://dbpedia.org/resource/The_Roots http://dbpedia.org/resource/Damon_""Tuba_Gooding_Jr.""_Bryson http://dbpedia.org/resource/The_roots http://dbpedia.org/resource/The_Legendary_Roots_Crew http://dbpedia.org/resource/F._Knuckles http://dbpedia.org/resource/Mark_Kelley_(Bassist) http://dbpedia.org/resource/The_Fifth_Dynasty http://dbpedia.org/resource/Wadud_ahmad"
+2,69,W. Ali,http://dbpedia.org/resource/California,http://dbpedia.org/resource/Waqar_Ali http://dbpedia.org/resource/Thori_Khushi_Thora_Gham
+2,70,J. A. Lührs,http://dbpedia.org/resource/Fredrik_Luhr_Dietrichson,http://dbpedia.org/resource/Jorge_Avendaño_Lohrs http://dbpedia.org/resource/Jorge_Avendaño_Lührs http://dbpedia.org/resource/Jorge_Avendaño http://dbpedia.org/resource/Jorge_Avendano_Luehrs http://dbpedia.org/resource/Jorge_Avendano_Luhrs http://dbpedia.org/resource/Jorge_Avendano_Lohrs http://dbpedia.org/resource/Jorge_Avendaño_Luhrs http://dbpedia.org/resource/Jorge_Avendano
+2,71,T. Watanabe,http://dbpedia.org/resource/Takeo_Watanabe,http://dbpedia.org/resource/Toshiyuki_Watanabe
+2,73,K. Nakagawa,http://dbpedia.org/resource/Katsuhiko_Nakagawa,http://dbpedia.org/resource/Nakagawa_Kotaro http://dbpedia.org/resource/Kotarou_Nakagawa http://dbpedia.org/resource/Kōtarō_Nakagawa http://dbpedia.org/resource/Kotaro_Nakagawa http://dbpedia.org/resource/Nakagawa_Koutarou http://dbpedia.org/resource/Koutarou_Nakagawa
+2,74,K. Nakagawa,http://dbpedia.org/resource/Katsuhiko_Nakagawa,http://dbpedia.org/resource/Nakagawa_Kotaro http://dbpedia.org/resource/Kotarou_Nakagawa http://dbpedia.org/resource/Kōtarō_Nakagawa http://dbpedia.org/resource/Kotaro_Nakagawa http://dbpedia.org/resource/Nakagawa_Koutarou http://dbpedia.org/resource/Koutarou_Nakagawa
+2,76,K. Nakagawa,http://dbpedia.org/resource/Katsuhiko_Nakagawa,http://dbpedia.org/resource/Nakagawa_Kotaro http://dbpedia.org/resource/Kotarou_Nakagawa http://dbpedia.org/resource/Kōtarō_Nakagawa http://dbpedia.org/resource/Kotaro_Nakagawa http://dbpedia.org/resource/Nakagawa_Koutarou http://dbpedia.org/resource/Koutarou_Nakagawa
+2,80,K. Yamashita,http://dbpedia.org/resource/Yōsuke_Yamashita,http://dbpedia.org/resource/Kosuke_Yamashita http://dbpedia.org/resource/Kousuke_Yamashita http://dbpedia.org/resource/山下康介
+2,81,S. Naruse,http://dbpedia.org/resource/Mikio_Naruse,http://dbpedia.org/resource/Shuhei_Naruse
+2,82,K. Nakagawa,http://dbpedia.org/resource/Katsuhiko_Nakagawa,http://dbpedia.org/resource/Nakagawa_Kotaro http://dbpedia.org/resource/Kotarou_Nakagawa http://dbpedia.org/resource/Kōtarō_Nakagawa http://dbpedia.org/resource/Kotaro_Nakagawa http://dbpedia.org/resource/Nakagawa_Koutarou http://dbpedia.org/resource/Koutarou_Nakagawa
+2,84,K. Nakagawa,http://dbpedia.org/resource/Katsuhiko_Nakagawa,http://dbpedia.org/resource/Nakagawa_Kotaro http://dbpedia.org/resource/Kotarou_Nakagawa http://dbpedia.org/resource/Kōtarō_Nakagawa http://dbpedia.org/resource/Kotaro_Nakagawa http://dbpedia.org/resource/Nakagawa_Koutarou http://dbpedia.org/resource/Koutarou_Nakagawa
+2,92,S. Records,http://dbpedia.org/resource/Island_Records,http://dbpedia.org/resource/SBK_Entertainment_World http://dbpedia.org/resource/SBK_Entertainment http://dbpedia.org/resource/SBK_Records
+2,93,W. Ali,http://dbpedia.org/resource/California,http://dbpedia.org/resource/Waqar_Ali http://dbpedia.org/resource/Thori_Khushi_Thora_Gham
+2,95,J. Talbot,http://dbpedia.org/resource/Connie_Talbot,http://dbpedia.org/resource/Jody_Talbot http://dbpedia.org/resource/Ballets_by_Joby_Talbot http://dbpedia.org/resource/Joby_Talbot
+2,96,J. Marshall,"http://ru.dbpedia.org/resource/Маршалл,_Джеймс",http://dbpedia.org/resource/Jack_Marshall_(composer)
+2,97,K. Nakagawa,http://dbpedia.org/resource/Katsuhiko_Nakagawa,http://dbpedia.org/resource/Nakagawa_Kotaro http://dbpedia.org/resource/Kotarou_Nakagawa http://dbpedia.org/resource/Kōtarō_Nakagawa http://dbpedia.org/resource/Kotaro_Nakagawa http://dbpedia.org/resource/Nakagawa_Koutarou http://dbpedia.org/resource/Koutarou_Nakagawa
+2,101,D. Neumann,http://dbpedia.org/resource/John_von_Neumann,http://dbpedia.org/resource/Drew_Neumann
+2,103,J. Avendaño,http://dbpedia.org/resource/Hugo_Avendaño,http://dbpedia.org/resource/Jorge_Avendaño_Lohrs http://dbpedia.org/resource/Jorge_Avendaño_Lührs http://dbpedia.org/resource/Jorge_Avendaño http://dbpedia.org/resource/Jorge_Avendano_Luehrs http://dbpedia.org/resource/Jorge_Avendano_Luhrs http://dbpedia.org/resource/Jorge_Avendano_Lohrs http://dbpedia.org/resource/Jorge_Avendaño_Luhrs http://dbpedia.org/resource/Jorge_Avendano
+2,106,A. Johnston,http://dbpedia.org/resource/Andrew_Johnston_(singer),http://dbpedia.org/resource/Adrian_Johnston_(musician) http://dbpedia.org/resource/Adrian_Johnston
+2,110,S. Yokoyama,http://dbpedia.org/resource/Yui_Yokoyama,http://dbpedia.org/resource/Yokoyama_Seiji http://dbpedia.org/resource/Seiji_Yokoyama
+2,111,K. Toyama,http://dbpedia.org/resource/Kathryn_Toyama,http://dbpedia.org/resource/Kazuhiko_Toyama http://dbpedia.org/resource/Kazuhiko_Sotoyama http://dbpedia.org/resource/Kazz_Toyama
+2,112,F. Phillips,http://dbpedia.org/resource/Flip_Phillips,http://dbpedia.org/resource/Freddie_Phillips
+2,113,S. Yokoyama,http://dbpedia.org/resource/Yui_Yokoyama,http://dbpedia.org/resource/Yokoyama_Seiji http://dbpedia.org/resource/Seiji_Yokoyama
+2,114,K. Toyama,http://dbpedia.org/resource/Kathryn_Toyama,http://dbpedia.org/resource/Kazuhiko_Toyama http://dbpedia.org/resource/Kazuhiko_Sotoyama http://dbpedia.org/resource/Kazz_Toyama

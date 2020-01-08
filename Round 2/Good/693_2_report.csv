@@ -1,0 +1,5 @@
+F1: 0.83333,Precision: 0.83333,Recall: 0.83333,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,2,Skylark,http://dbpedia.org/resource/Bantam_Books,http://dbpedia.org/resource/Skylark_(publisher)
+2,6,Grand Central Publishing,http://dbpedia.org/resource/Hachette_Book_Group,http://dbpedia.org/resource/Grand_Central_Publishing http://dbpedia.org/resource/Warner_Books http://dbpedia.org/resource/Grand_Central_Life_&_Style
+2,9,Del Rey Books,http://dbpedia.org/resource/Random_House,http://dbpedia.org/resource/Del_Ray_Books http://dbpedia.org/resource/Del_Rey_Books http://dbpedia.org/resource/LucasBooks

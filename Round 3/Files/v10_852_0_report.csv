@@ -1,0 +1,4 @@
+"F1: 0.90476","Precision: 0.90476","Recall: 0.90476"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","8","Rhodes-Haverty Building","http://dbpedia.org/resource/Rhodes–Haverty_Building","http://dbpedia.org/resource/Residence_Inn_Atlanta_Downtown http://dbpedia.org/resource/Rhodes-Haverty_Building"
+"0","10","Radisson Royal Hotel, Moscow","http://dbpedia.org/resource/Hotel_Ukraina,_Moscow","http://dbpedia.org/resource/Radisson_Royal_Hotel,_Moscow http://dbpedia.org/resource/Hotel_Ukraina_(Moscow) http://dbpedia.org/resource/Ukraina_Hotel"

@@ -1,0 +1,5 @@
+"F1: 0.90000","Precision: 0.90000","Recall: 0.90000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","3","V. Portnoi","http://dbpedia.org/resource/Vladimir_Portnoy","http://dbpedia.org/resource/""Vladimir_Portnoy"" http://dbpedia.org/resource/Vladimir_Portnoi http://dbpedia.org/resource/Vladamir_Portnoi"
+"0","19","H. Drury","http://dbpedia.org/resource/Herb_Drury","http://dbpedia.org/resource/Herbert_Drury_(gymnast)"
+"0","26","E. Voigt","http://dbpedia.org/resource/Emil_Voigt_(athlete)","http://dbpedia.org/resource/Emil_Voigt_(gymnast)"

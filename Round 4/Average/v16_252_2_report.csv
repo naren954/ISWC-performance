@@ -1,0 +1,23 @@
+F1: 0.60377,Precision: 0.60377,Recall: 0.60377,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,2,Sachin,http://dbpedia.org/resource/Sachin_Tendulkar,http://dbpedia.org/resource/Sachin_Pilgaonkar http://dbpedia.org/resource/Sachin_(actor)
+2,5,Aishwarya,http://dbpedia.org/resource/Aishwarya_Rai,http://dbpedia.org/resource/Aishwarya_(tv_actress) http://dbpedia.org/resource/Aishwarya_(actress) http://dbpedia.org/resource/Aishwarya_Sivachandran http://dbpedia.org/resource/Aishwarya(tv_actress)
+2,7,G. Hamilton,"http://dbpedia.org/resource/George_Douglas-Hamilton,_10th_Earl_of_Selkirk",http://dbpedia.org/resource/George_Stevens_Hamilton http://dbpedia.org/resource/George_Hamilton_(actor)
+2,8,P. Duncan,http://fr.dbpedia.org/resource/Pierre_Duncan,http://dbpedia.org/resource/Paula_Duncan
+2,11,D. Venkatesh,http://dbpedia.org/resource/Venkatesh_Daggubati,http://dbpedia.org/resource/Victory_venkatesh http://dbpedia.org/resource/Victory_Venkatesh http://dbpedia.org/resource/Daggubati_Venkatesh http://dbpedia.org/resource/Venkatesh_(actor)
+2,12,R. Krishna,http://dbpedia.org/resource/Gopi_Krishna_(dancer),http://dbpedia.org/resource/Ramiya_Krishnan http://dbpedia.org/resource/Ramyakrishnan http://dbpedia.org/resource/Ramya_Krishnan http://dbpedia.org/resource/Ramyakrishna http://dbpedia.org/resource/Ramya_Krishna
+2,14,N. F. Mazhar,http://dbpedia.org/resource/Nusrat_Faria,http://dbpedia.org/resource/Nusraat_Faria_Mazhar http://dbpedia.org/resource/Nusrat_Faria_Mazhar
+2,21,S. Aubier,http://dbpedia.org/resource/Dominique_Aubier,http://dbpedia.org/resource/Stéphane_Aubier http://dbpedia.org/resource/Stephane_Aubier
+2,22,E. Albert,http://dbpedia.org/resource/Eddie_Albert,"http://dbpedia.org/resource/Edward_Laurence_Heimberger http://dbpedia.org/resource/Edward_Albert,_Jr. http://dbpedia.org/resource/Edward_Laurence_Albert http://dbpedia.org/resource/Edward_Albert http://dbpedia.org/resource/Edward_Lawrence_Albert http://dbpedia.org/resource/Edward_Laurence_Albert_Jr. http://dbpedia.org/resource/Edward_Albert_Jr"
+2,23,K. Carradine,http://dbpedia.org/resource/John_Carradine,http://dbpedia.org/resource/Keith_Carradine
+2,28,E. Stevens,http://dbpedia.org/resource/Dave_Stevens,"http://dbpedia.org/resource/Emily_Stevens_(actor) http://dbpedia.org/resource/Emily_Stevens,_Actress http://dbpedia.org/resource/Emily_Stevens_(actress)"
+2,31,P. Stevenson,http://dbpedia.org/resource/McLean_Stevenson,http://dbpedia.org/resource/Richard_Stevenson_Parker http://dbpedia.org/resource/Parker_Stevenson
+2,32,H. Hobbs,http://dbpedia.org/resource/Talbot_Hobbs,http://dbpedia.org/resource/Hayford_Hobbs
+2,33,S. Poitier,http://dbpedia.org/resource/Richard_I_of_England,http://dbpedia.org/resource/Sidney_Poritier http://dbpedia.org/resource/Sydney_poitier http://dbpedia.org/resource/Sidney_Potier http://dbpedia.org/resource/Sidney_poitier http://dbpedia.org/resource/Sidney_Poitier http://dbpedia.org/resource/Sidney_Portier
+2,34,D. Gray,http://dbpedia.org/resource/Dolores_Gray,http://dbpedia.org/resource/Dulcie_Bailey http://dbpedia.org/resource/Dulcie_Winifred_Catherine_Bailey http://dbpedia.org/resource/Dulcie_Gray
+2,36,I. Bergman,http://dbpedia.org/resource/Ingmar_Bergman,http://dbpedia.org/resource/Ingrid_Bergmann http://dbpedia.org/resource/Ingrid_Bergman http://dbpedia.org/resource/Ingrid_Berman http://dbpedia.org/resource/Isotta_Ingrid_Rossellini http://dbpedia.org/resource/Ingrid_Rossellini
+2,37,J. Hagerty,http://dbpedia.org/resource/James_Hagerty,http://dbpedia.org/resource/Julie_Haggerty http://dbpedia.org/resource/Julie_Hagerty
+2,38,J. P. Belmondo,http://dbpedia.org/resource/J._P._Blecksmith,http://dbpedia.org/resource/Jean-Paul_Belmondo http://dbpedia.org/resource/Jean_Paul_Belmondo
+2,44,H. Ford,http://dbpedia.org/resource/Henry_Ford,http://dbpedia.org/resource/Harrison_Ford_(silent_film_actor)
+2,45,A. Borges,http://dbpedia.org/resource/Jorge_Luis_Borges,http://dbpedia.org/resource/Alexandre_Borges
+2,51,J. Pickford,http://dbpedia.org/resource/Mary_Pickford,http://dbpedia.org/resource/Jack_Pickford

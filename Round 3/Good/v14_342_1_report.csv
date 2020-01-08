@@ -1,0 +1,5 @@
+F1: 0.81250,Precision: 0.81250,Recall: 0.81250,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,5,A. Ascari,http://dbpedia.org/resource/Alberto_Ascari,http://dbpedia.org/resource/Antonio_Ascari
+1,10,J. A. Murphy,http://dbpedia.org/resource/John_Alphonsus_Murphy,http://dbpedia.org/resource/James_Anthony_Murphy
+1,14,L. Wagner,http://dbpedia.org/resource/Louis_Wagner_(driver),http://dbpedia.org/resource/Louis_Wagner

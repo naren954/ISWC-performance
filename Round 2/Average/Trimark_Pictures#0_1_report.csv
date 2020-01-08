@@ -1,0 +1,13 @@
+F1: 0.75000,Precision: 0.75000,Recall: 0.75000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,5,Kickboxer 2,http://dbpedia.org/resource/Kickboxer_(1989_film),http://dbpedia.org/resource/Kickboxer_2 http://dbpedia.org/resource/Kickboxer_2:_The_Road_Back
+1,8,Into the Sun,http://dbpedia.org/resource/Into_the_Sun_(2005_film),http://dbpedia.org/resource/Into_the_Sun_(1992_film)
+1,11,Dead Alive,http://dbpedia.org/resource/9_Dead_Alive,http://dbpedia.org/resource/Dead_Alive http://dbpedia.org/resource/Rat_monkey http://dbpedia.org/resource/Braindead_(1992_film) http://dbpedia.org/resource/Rat-monkey http://dbpedia.org/resource/Braindead_(1992_movie) http://dbpedia.org/resource/Braindead_(1992) http://dbpedia.org/resource/Braindead_(film) http://dbpedia.org/resource/Sumatran_Rat-Monkey http://dbpedia.org/resource/Skull_Island_(Braindead) http://dbpedia.org/resource/Sumatran_Rat_Monkey http://dbpedia.org/resource/Dead-alive http://dbpedia.org/resource/Sumerian_Rat-Monkey http://dbpedia.org/resource/Sumatran_rat-monkey http://dbpedia.org/resource/Sumatran_rat_monkey
+1,13,Deadfall,http://dbpedia.org/resource/Deadfall_(1968_film),http://dbpedia.org/resource/Deadfall_(1993_film)
+1,16,Leprechaun 2,http://dbpedia.org/resource/Leprechaun_(film),http://dbpedia.org/resource/Leprechaun_2
+1,22,Kicking and Screaming,http://dbpedia.org/resource/Kicking_&_Screaming_(2005_film),http://dbpedia.org/resource/Kicking_and_Screaming_(film) http://dbpedia.org/resource/Kicking_and_Screaming_(1995_film)
+1,25,Crimetime,http://dbpedia.org/resource/Crimetime_(1993_film),http://dbpedia.org/resource/Crimetime http://dbpedia.org/resource/Crimetime_(film)
+1,31,The Curve,http://dbpedia.org/resource/The_Time_Curve,http://dbpedia.org/resource/The_Curve_(film)
+1,37,Slam,http://dbpedia.org/resource/Slam_(Pendulum_song),http://dbpedia.org/resource/Slam_(movie) http://dbpedia.org/resource/Slam_(film)
+1,42,Beautiful People,http://dbpedia.org/resource/Beautiful_People_(American_TV_series),http://dbpedia.org/resource/Beautiful_People_(film)
+1,44,History Is Made at Night,http://dbpedia.org/resource/History_Is_Made_at_Night_(1937_film),http://dbpedia.org/resource/Spy_Games http://dbpedia.org/resource/History_Is_Made_at_Night_(1999_film)

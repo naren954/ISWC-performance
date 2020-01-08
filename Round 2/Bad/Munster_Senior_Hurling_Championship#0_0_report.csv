@@ -1,0 +1,4 @@
+F1: 0.50000,Precision: 0.50000,Recall: 0.50000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Thurles,http://dbpedia.org/resource/Thurles_railway_station,http://dbpedia.org/resource/Thurles
+0,4,Killarney,http://dbpedia.org/resource/Killarney_railway_station,http://dbpedia.org/resource/Killarney_Town_Council http://dbpedia.org/resource/Killarney_Urban_District_Council http://dbpedia.org/resource/Killarney

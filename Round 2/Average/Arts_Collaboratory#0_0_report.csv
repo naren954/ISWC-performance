@@ -1,0 +1,4 @@
+F1: 0.66667,Precision: 0.66667,Recall: 0.66667,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,42,Triangle Arts Trust,http://dbpedia.org/resource/Royal_Society_of_Arts,http://dbpedia.org/resource/Triangle_Arts_Trust
+0,56,MOCA,"http://dbpedia.org/resource/Museum_of_Contemporary_Art,_Los_Angeles","http://dbpedia.org/resource/MoCA,_Miami http://dbpedia.org/resource/Museum_of_Contemporary_Art,_North_Miami http://dbpedia.org/resource/North_Miami_MOCA_Museum"

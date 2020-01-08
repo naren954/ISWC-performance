@@ -1,0 +1,10 @@
+F1: 0.63636,Precision: 0.63636,Recall: 0.63636,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,5,Sir James Fergusson,"http://dbpedia.org/resource/Sir_James_Fergusson,_6th_Baronet","http://dbpedia.org/resource/Sir_James_Fergusson,_2nd_Baronet http://dbpedia.org/resource/James_Fergusson,_Lord_Kilkerran http://dbpedia.org/resource/James_Fergusson_(1688-1759)"
+2,6,Hon. James St Clair,"http://dbpedia.org/resource/James_St_Clair-Erskine,_2nd_Earl_of_Rosslyn",http://dbpedia.org/resource/James_St_Clair http://dbpedia.org/resource/James_St._Clair
+2,10,William Wemyss,http://dbpedia.org/resource/William_Wemyss,http://dbpedia.org/resource/William_Wemyss_(1760—1822)
+2,15,James Macdonald,http://dbpedia.org/resource/Ramsay_MacDonald,"http://dbpedia.org/resource/Sir_James_Macdonald,_2nd_Baronet http://dbpedia.org/resource/James_MacDonald_(1784-1832) http://dbpedia.org/resource/James_MacDonald_(1784–1832)"
+2,24,Lord Ronald Gower,"http://dbpedia.org/resource/Francis_Egerton,_1st_Earl_of_Ellesmere",http://dbpedia.org/resource/RC_Sutherland-Leveson-Gower http://dbpedia.org/resource/Ronald_Sutherland-Leveson-Gower http://dbpedia.org/resource/Ronald_Gower http://dbpedia.org/resource/Ronald_Charles_Sutherland-Leveson-Gower http://dbpedia.org/resource/Lord_Ronald_Sutherland-Leveson-Gower http://dbpedia.org/resource/Lord_Ronald_Gower
+2,25,Marquess of Stafford,"http://dbpedia.org/resource/George_Sutherland-Leveson-Gower,_3rd_Duke_of_Sutherland","http://dbpedia.org/resource/Cromartie_Sutherland-Leveson-Gower,_4th_Duke_of_Sutherland http://dbpedia.org/resource/Cromartie_Sutherland_Leveson-Gower,_4th_Duke_of_Sutherland"
+2,27,John MacLeod,"http://dbpedia.org/resource/Sir_John_MacLeod,_1st_Baronet",http://dbpedia.org/resource/John_MacLeod_(Sutherland_politician)
+2,28,Frederick Leveson-Gower,"http://dbpedia.org/resource/Granville_Leveson-Gower,_2nd_Earl_Granville",http://dbpedia.org/resource/Frederick_Leveson-Gower_(Sutherland) http://dbpedia.org/resource/Frederick_Neville_Sutherland_Leveson-Gower http://dbpedia.org/resource/Frederick_Neville_Leveson-Gower

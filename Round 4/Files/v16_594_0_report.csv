@@ -1,0 +1,5 @@
+"F1: 0.85000","Precision: 0.85000","Recall: 0.85000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","9","A. Robinson","http://dbpedia.org/resource/John_Robinson_(Australian_rules_footballer)","http://dbpedia.org/resource/Alec_Robinson http://dbpedia.org/resource/Alex_Robinson_(footballer)"
+"0","12","A. Lang","http://dbpedia.org/resource/Arthur_Lang","http://dbpedia.org/resource/Alex_Lang"
+"0","18","A. Miller","http://dbpedia.org/resource/Andrew_Miller_(baseball)","http://dbpedia.org/resource/Alan_Miller_(football_coach)"

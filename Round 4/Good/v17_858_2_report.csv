@@ -1,0 +1,6 @@
+F1: 0.97917,Precision: 0.97917,Recall: 0.97917,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,80,Alleged,http://dbpedia.org/resource/Alleged_(horse),http://dbpedia.org/resource/Allegedly http://dbpedia.org/resource/Adduction_(law) http://dbpedia.org/resource/Condescendences http://dbpedia.org/resource/Allege http://dbpedia.org/resource/Allegation_of_fact http://dbpedia.org/resource/Condescendence http://dbpedia.org/resource/Allegation http://dbpedia.org/resource/Alleged http://dbpedia.org/resource/Allegations http://dbpedia.org/resource/Alledged http://dbpedia.org/resource/Disjunctive_allegations http://dbpedia.org/resource/Allegations_of_fact http://dbpedia.org/resource/Alege http://dbpedia.org/resource/Alledge
+2,92,Hastings,"http://dbpedia.org/resource/John_Hastings,_2nd_Earl_of_Pembroke",http://dbpedia.org/resource/Hastings_(horse)
+2,170,Roberto,http://dbpedia.org/resource/Roberto_Marinho,http://dbpedia.org/resource/Roberto_(horse)
+2,190,Roberto,http://dbpedia.org/resource/Roberto_Marinho,http://dbpedia.org/resource/Roberto_(horse)

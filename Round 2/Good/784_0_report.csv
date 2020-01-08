@@ -1,0 +1,5 @@
+F1: 0.86364,Precision: 0.86364,Recall: 0.86364,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,4,Orpheum Theater,http://dbpedia.org/resource/Orpheum_Theatre_(Memphis),"http://dbpedia.org/resource/Orpheum_Theater_(New_Orleans) http://dbpedia.org/resource/Orpheum_Theater_(New_Orleans,_Louisiana) http://dbpedia.org/resource/Orpheum_Theatre_(New_Orleans) http://dbpedia.org/resource/Orpheum_Theatre_(New_Orleans,_Louisiana)"
+0,18,Old Westbrook High School,http://dbpedia.org/resource/Old_Watertown_High_School,http://dbpedia.org/resource/Old_Westbrook_High_School
+0,22,Old Post Office,"http://dbpedia.org/resource/Old_Post_Office_(Albuquerque,_New_Mexico)","http://dbpedia.org/resource/Old_Post_Office_(Biddeford,_Maine)"

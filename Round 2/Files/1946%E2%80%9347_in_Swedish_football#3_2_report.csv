@@ -1,0 +1,7 @@
+"F1: 0.50000","Precision: 0.50000","Recall: 0.50000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"2","2","Sandvikens AIK","http://dbpedia.org/resource/Sandvikens_IF","http://dbpedia.org/resource/Sandvikens_AIK_FK http://dbpedia.org/resource/Sandvikens_AIK_Fotboll"
+"2","4","VÃ¤sterÃ¥s IK","http://dbpedia.org/resource/Västerås_SK_Fotboll","http://dbpedia.org/resource/Västerås_IK_Fotboll"
+"2","5","IFK VÃ¤sterÃ¥s","http://dbpedia.org/resource/IFK_Göteborg","http://dbpedia.org/resource/IFK_Västerås"
+"2","11","Husqvarna IF","http://dbpedia.org/resource/Husqvarna_FF","http://dbpedia.org/resource/Husqvarna_IF"
+"2","12","Ã\u0096rgryte IS","http://dbpedia.org/resource/Étude_Op._10,_No._1_(Chopin)","http://dbpedia.org/resource/Örgryte_IS"

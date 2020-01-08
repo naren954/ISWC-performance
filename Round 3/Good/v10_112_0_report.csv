@@ -1,0 +1,5 @@
+F1: 0.98065,Precision: 0.98065,Recall: 0.98065,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,41,Roman Catholic Diocese of Taizhou,http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Linhai,http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Taizhou
+0,42,Roman Catholic Diocese of Taiohae o Tefenuaenata,http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Taiohae,http://dbpedia.org/resource/Diocese_of_Taiohae http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Taiohae_o_Tefenuaenata
+0,141,Roman Catholic Diocese of Santo Domingo en Ecuador,http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Santo_Domingo_in_Ecuador,http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Santo_Domingo_de_Los_Colorados http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Santo_Domingo_de_los_Colorados http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Santo_Domingo_en_Ecuador http://dbpedia.org/resource/Diocese_of_Santo_Domingo_en_Ecuador

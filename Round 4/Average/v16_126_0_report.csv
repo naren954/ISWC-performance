@@ -1,0 +1,7 @@
+F1: 0.70588,Precision: 0.70588,Recall: 0.70588,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,S. murders,http://dbpedia.org/resource/The_Holocaust,http://dbpedia.org/resource/Maxine_Carr_(Criminal) http://dbpedia.org/resource/Ian_Huntly http://dbpedia.org/resource/Jessica_Aimee_Chapman http://dbpedia.org/resource/Jessica_Chapman http://dbpedia.org/resource/Ian_Huntley http://dbpedia.org/resource/Holly_Marie_Wells http://dbpedia.org/resource/Holly_Wells http://dbpedia.org/resource/Soham_murders_of_2002 http://dbpedia.org/resource/2002_Soham_murders http://dbpedia.org/resource/Soham_Murders http://dbpedia.org/resource/Maxine_Ann_Carr http://dbpedia.org/resource/Soham_murders http://dbpedia.org/resource/Maxine_Carr_(criminal) http://dbpedia.org/resource/Bichard_Inquiry http://dbpedia.org/resource/Ian_Kevin_Huntley http://dbpedia.org/resource/Soham_murders_(2002) http://dbpedia.org/resource/Holly_and_jessica
+0,3,S. Doty,http://dbpedia.org/resource/Mark_Doty,http://dbpedia.org/resource/Sile_Doty
+0,4,S. Mirza,http://dbpedia.org/resource/Sania_Mirza,http://dbpedia.org/resource/Saulat_Mirza
+0,5,S. Bass,http://dbpedia.org/resource/Sharna_Bass,http://dbpedia.org/resource/Sam_Bass_(outlaw)
+0,6,R. B. Martin,http://dbpedia.org/resource/Robert_Bernard_Martin,http://dbpedia.org/resource/Rhonda_Belle_Martin

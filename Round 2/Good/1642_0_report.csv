@@ -1,0 +1,9 @@
+F1: 0.94928,Precision: 0.94928,Recall: 0.94928,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,11,V. K. Ivanov,"http://dbpedia.org/resource/Valentin_Ivanov_(footballer,_born_1934)",http://dbpedia.org/resource/Valentin_Ivanov_(football_player) http://dbpedia.org/resource/Valentin_Ivanov_(footballer_born_1934) http://dbpedia.org/resource/Valentin_Kozmich_Ivanov
+0,19,Valdir de Moraes Filho,http://dbpedia.org/resource/Valdir_Bigode,http://dbpedia.org/resource/Valdir_de_Moraes_Filho http://dbpedia.org/resource/Valdir_de_Morais_Filho
+0,49,V. Oliveira,http://dbpedia.org/resource/Victor_Oliveira,http://dbpedia.org/resource/Vitor_Oliveira http://dbpedia.org/resource/Vítor_Oliveira
+0,52,V. C. Gonçalves,"http://dbpedia.org/resource/Vítor_Gonçalves_(footballer,_born_1896)",http://dbpedia.org/resource/Vitor_Candido_Goncalves http://dbpedia.org/resource/Vítor_Candido_Gonçalves http://dbpedia.org/resource/Vítor_Cândido_Gonçalves
+0,121,T. Keough,http://dbpedia.org/resource/Harry_Keough,http://dbpedia.org/resource/Ty_Keough
+0,125,T. Craig,http://dbpedia.org/resource/Tommy_Craig,http://dbpedia.org/resource/Tully_Craig
+0,137,T. Edwards,http://dbpedia.org/resource/Teresa_Edwards,http://dbpedia.org/resource/Troy_Edwards_(soccer)

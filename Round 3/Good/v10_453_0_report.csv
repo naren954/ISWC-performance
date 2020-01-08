@@ -1,0 +1,25 @@
+F1: 0.78095,Precision: 0.78095,Recall: 0.78095,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,4,J. Smith,http://dbpedia.org/resource/Jared_Smith_(American_football),http://dbpedia.org/resource/Jonathan_Smith_(football_player) http://dbpedia.org/resource/Jonathan_Smith_(wide_receiver)
+0,16,J. Jenkins,http://dbpedia.org/resource/Jordan_Jenkins,http://dbpedia.org/resource/John_Jenkins_(defensive_tackle)
+0,20,J. Brown,http://dbpedia.org/resource/Jerry_Brown_(gridiron_football),http://dbpedia.org/resource/John_Brown_(wide_receiver)
+0,23,J. Morris,http://dbpedia.org/resource/Jontavius_Morris,http://dbpedia.org/resource/Joe_Morris_(Football_Player) http://dbpedia.org/resource/Joe_Morris_(American_football) http://dbpedia.org/resource/Joe_Morris_(football_player)
+0,25,J. Johnson,http://dbpedia.org/resource/Jeremiah_Johnson_(gridiron_football),http://dbpedia.org/resource/Joe_Johnson_(defensive_end)
+0,27,J. Williams,http://dbpedia.org/resource/Jamal_Williams,"http://dbpedia.org/resource/Jimmy_F._Williams http://dbpedia.org/resource/Jimmy_Williams_(cornerback,_born_1984)"
+0,28,J. Johnson,http://dbpedia.org/resource/Jeremiah_Johnson_(gridiron_football),http://dbpedia.org/resource/Jimmy_Johnson_(cornerback) http://dbpedia.org/resource/James_Earl_Johnson
+0,30,J. Powers,http://dbpedia.org/resource/Jerraud_Powers,http://dbpedia.org/resource/Jim_Powers_(American_football)
+0,35,J. Jeffcoat,http://dbpedia.org/resource/Jackson_Jeffcoat,http://dbpedia.org/resource/Jim_Jeffcoat
+0,39,J. Smith,http://dbpedia.org/resource/Jared_Smith_(American_football),http://dbpedia.org/resource/Jerry_Smith_(American_football) http://dbpedia.org/resource/Jerry_Smith_(footbal_player) http://dbpedia.org/resource/Jerry_Smith_(football_player) http://dbpedia.org/resource/Jerry_Smith_(NFL_player)
+0,46,J. George,http://dbpedia.org/resource/Jeff_George,http://dbpedia.org/resource/Jeremiah_George
+0,48,J. Adams,http://dbpedia.org/resource/John_Adams_(running_back),http://dbpedia.org/resource/Jerell_Adams
+0,51,J. Graham,http://dbpedia.org/resource/Jimmy_Graham,http://dbpedia.org/resource/Jeff_Graham
+0,53,J. Christensen,http://dbpedia.org/resource/Jake_Christensen,http://dbpedia.org/resource/Jeff_Christensen
+0,57,J. Shirley,http://dbpedia.org/resource/Josh_Shirley,http://dbpedia.org/resource/Jason_Shirley
+0,60,J. Perry,http://dbpedia.org/resource/Jared_Perry,http://dbpedia.org/resource/Jason_Perry_(American_football)
+0,61,J. Wright,http://dbpedia.org/resource/Jason_Wright_(American_football),http://dbpedia.org/resource/Jarius_Wright
+0,63,J. Lee,http://dbpedia.org/resource/Janet_Lee,http://dbpedia.org/resource/James_Lee_(football_player) http://dbpedia.org/resource/James_Lee_(American_football) http://dbpedia.org/resource/James_Lee_(defensive_tackle)
+0,68,J. Thomas,http://dbpedia.org/resource/Joey_Thomas,http://dbpedia.org/resource/Jaimie_Thomas
+0,74,J. James,http://dbpedia.org/resource/John_James_(American_football),http://dbpedia.org/resource/Ja'Wuan_James
+0,95,G. Crowell,http://dbpedia.org/resource/Isaiah_Crowell,http://dbpedia.org/resource/Germane_Crowell
+0,99,G. Anderson,http://dbpedia.org/resource/Gary_Anderson_(running_back),http://dbpedia.org/resource/Gary_Anderson_(placekicker)
+0,104,F. Jones,http://dbpedia.org/resource/Felix_Jones,http://dbpedia.org/resource/Freddie_Jones_(football_player) http://dbpedia.org/resource/Freddie_Jones_(American_football)

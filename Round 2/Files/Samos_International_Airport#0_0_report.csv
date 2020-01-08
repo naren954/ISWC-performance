@@ -1,0 +1,6 @@
+"F1: 0.77778","Precision: 0.77778","Recall: 0.77778"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","12","Sky Express","http://dbpedia.org/resource/Sky_Express","http://dbpedia.org/resource/Sky_Express_(Greece)"
+"0","14","Thomson Airways","http://dbpedia.org/resource/TUI_Airways","http://dbpedia.org/resource/Thomson_Airways http://dbpedia.org/resource/Thomson_(airline)"
+"0","16","TUI Airlines Netherlands","http://dbpedia.org/resource/TUI_fly_Netherlands","http://dbpedia.org/resource/TUI_Airlines_Netherlands http://dbpedia.org/resource/Arkefly_Curaçao http://dbpedia.org/resource/ArkeFly http://dbpedia.org/resource/Arkefly_Curacao http://dbpedia.org/resource/Arkefly.com http://dbpedia.org/resource/Arke_Fly http://dbpedia.org/resource/Tui_Airlines_Netherlands http://dbpedia.org/resource/Arkefly http://dbpedia.org/resource/Arkefly.nl http://dbpedia.org/resource/ArkeFly.nl http://dbpedia.org/resource/ArkeFly.com"
+"0","17","TUIfly Nordic","http://dbpedia.org/resource/TUI_fly_Nordic","http://dbpedia.org/resource/Britannia_Nordic http://dbpedia.org/resource/Britanniafly http://dbpedia.org/resource/TUIfly_nordic http://dbpedia.org/resource/TUIfly_Nordic http://dbpedia.org/resource/TUIfly_Nordic_AB"

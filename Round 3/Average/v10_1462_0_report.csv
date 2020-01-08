@@ -1,0 +1,12 @@
+F1: 0.54545,Precision: 0.54545,Recall: 0.54545,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,4,Lake George,http://dbpedia.org/resource/Lake_George_(New_York),http://dbpedia.org/resource/Lake_George_(Michigan–Ontario) http://dbpedia.org/resource/Lake_George_(Michigan-Ontario)
+0,6,Lac des Mille Lacs,http://dbpedia.org/resource/Mille_Lacs_Lake,http://dbpedia.org/resource/Lac_des_Mille_Lacs http://dbpedia.org/resource/Lac_des_Mille
+0,9,Hornbach,http://de.dbpedia.org/resource/Werenbach,http://dbpedia.org/resource/Hornbach
+0,11,Grand Lake,http://dbpedia.org/resource/Lake_Michigan,http://dbpedia.org/resource/Grand_Lake_(Timiskaming)
+0,12,Grand Lake,http://dbpedia.org/resource/Lake_Michigan,http://dbpedia.org/resource/Grand_Lake_(Nipissing)
+0,13,Forbach,http://dbpedia.org/resource/Forbach_(Usa),"http://dbpedia.org/resource/Raumünzach http://dbpedia.org/resource/Forbach,_Germany http://dbpedia.org/resource/Forbach_(Baden)"
+0,15,Daisy Lake,http://dbpedia.org/resource/Daisy_Lake_(Algoma_District),http://dbpedia.org/resource/Daisy_Lake_(Thunder_Bay_District)
+0,16,Daisy Lake,http://dbpedia.org/resource/Daisy_Lake_(Algoma_District),"http://dbpedia.org/resource/Daisy_Lake_(Nipissing_District,_Ontario) http://dbpedia.org/resource/Daisy_Lake_(Nipissing_District)"
+0,18,Chuqi Q'awa,http://dbpedia.org/resource/Chuqi_Q'awa_(Chuñuni_Jawira),http://dbpedia.org/resource/Chuqi_Q'awa
+0,20,Centennial Lake,http://dbpedia.org/resource/Centennial_Lake_(Renfrew_County),http://dbpedia.org/resource/Centennial_Lake_(Algoma_District)

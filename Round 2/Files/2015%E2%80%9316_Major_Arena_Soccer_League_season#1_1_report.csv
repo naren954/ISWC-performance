@@ -1,0 +1,6 @@
+"F1: 0.63636","Precision: 0.63636","Recall: 0.63636"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","3","Atletico Baja","http://dbpedia.org/resource/Atlético_Nacional","http://dbpedia.org/resource/Atletico_Baja"
+"1","4","Brownsville Barracudas","http://dbpedia.org/resource/RGV_Barracudas_FC","http://dbpedia.org/resource/Brownsville_Barracudas"
+"1","12","San Diego Sockers","http://dbpedia.org/resource/San_Diego_Sockers_(1978–96)","http://dbpedia.org/resource/San_Diego_Sockers_(2009–) http://dbpedia.org/resource/San_Diego_Sockers_(MASL) http://dbpedia.org/resource/San_Diego_Sockers_III http://dbpedia.org/resource/San_Diego_Sockers_(PASL) http://dbpedia.org/resource/San_Diego_Sockers_(2009-) http://dbpedia.org/resource/San_Diego_Sockers_2009 http://dbpedia.org/resource/San_Diego_Sockers_(2009)"
+"1","13","Dallas Sidekicks","http://dbpedia.org/resource/Dallas_Sidekicks_(1984–2004)","http://dbpedia.org/resource/Dallas_Sidekicks_(2012) http://dbpedia.org/resource/Dallas_Sidekicks_(2012-) http://dbpedia.org/resource/Dallas_Sidekicks_(2012–) http://dbpedia.org/resource/Dallas_Sidekicks_(PASL)"

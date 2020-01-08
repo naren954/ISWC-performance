@@ -1,0 +1,14 @@
+F1: 0.81250,Precision: 0.81250,Recall: 0.81250,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Wiqu,http://dbpedia.org/resource/Wiqu_(Lima),http://dbpedia.org/resource/Wiqu_(Cusco-Puno)
+0,3,Winterstein,http://de.dbpedia.org/resource/Winterstein_(Hainich),http://dbpedia.org/resource/Winterstein_(Saxon_Switzerland)
+0,21,Wiluyu,http://dbpedia.org/resource/Wiluyu_Janq'u_Uma,http://dbpedia.org/resource/Wiluyu_(Tiquillaca)
+0,22,Wiluyu,http://dbpedia.org/resource/Wiluyu_Janq'u_Uma,http://dbpedia.org/resource/Wiluyu_(Cusco) http://dbpedia.org/resource/Wiluyu_(Pitumarca)
+0,23,Wiluyu,http://dbpedia.org/resource/Wiluyu_Janq'u_Uma,http://dbpedia.org/resource/Wiluyu_(Mañazo-Tiquillaca) http://dbpedia.org/resource/Wiluyu_(Manazo-Tiquillaca) http://dbpedia.org/resource/Wiluyu_(Mañazo-Tiquilaca)
+0,24,Wiluyu,http://dbpedia.org/resource/Wiluyu_Janq'u_Uma,http://dbpedia.org/resource/Wiluyu_(Marangani)
+0,25,Wiluyu,http://dbpedia.org/resource/Wiluyu_Janq'u_Uma,http://dbpedia.org/resource/Wiluyu_(Mañazo-Tiquillaca) http://dbpedia.org/resource/Wiluyu_(Manazo-Tiquillaca) http://dbpedia.org/resource/Wiluyu_(Mañazo-Tiquilaca)
+0,38,Williams Peak,"http://dbpedia.org/resource/Williams_Peak_(Custer_County,_Idaho)",http://dbpedia.org/resource/Williams_Peak_(Colorado)
+0,42,Wilerhorn,http://dbpedia.org/resource/Wilerhorn_(Bernese_Alps),http://dbpedia.org/resource/Wilerhorn_(Emmental_Alps)
+0,46,Wildspitz,http://dbpedia.org/resource/Wildspitze,http://dbpedia.org/resource/Rossberg http://dbpedia.org/resource/Rossberg_(Central_Swiss_Prealps) http://dbpedia.org/resource/Wildspitz
+0,51,Wildkarspitze,http://dbpedia.org/resource/Wildkarspitze_(Zillertal_Alps),http://dbpedia.org/resource/Wildkarspitze_(Kitzbühel_Alps) http://dbpedia.org/resource/Wildkarspitze_(Kitzbuhel_Alps)
+0,64,Wildcat Mountain,http://dbpedia.org/resource/Wildcat_Mountain_(Georgia),http://dbpedia.org/resource/Wildcat_Mountain_(New_Hampshire) http://dbpedia.org/resource/Wildcat_D_Mountain_(New_Hampshire)

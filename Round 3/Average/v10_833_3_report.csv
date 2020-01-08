@@ -1,0 +1,6 @@
+F1: 0.63636,Precision: 0.63636,Recall: 0.63636,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,1,A. Jenkins,http://dbpedia.org/resource/Katherine_Jenkins,http://dbpedia.org/resource/Alfred_McGonegal http://dbpedia.org/resource/Allen_Jenkins
+3,3,A. Dvorak,http://dbpedia.org/resource/Antonín_Dvořák,http://dbpedia.org/resource/Ann_Dvořák http://dbpedia.org/resource/Ann_Dvorák http://dbpedia.org/resource/Ann_McKim http://dbpedia.org/resource/Ann_Dvorak http://dbpedia.org/resource/Ann_Dvořak http://dbpedia.org/resource/Anna_McKim
+3,7,J. Muir,http://dbpedia.org/resource/John_Muir,http://dbpedia.org/resource/Jean_Muir_Fullerton http://dbpedia.org/resource/Jean_Muir_(actress) http://dbpedia.org/resource/Jean_Muir_Fullarton
+3,10,D. Morgan,http://dbpedia.org/resource/Daniel_Morgan,http://dbpedia.org/resource/Two_Strike_Park http://dbpedia.org/resource/Dennis_Morgan http://dbpedia.org/resource/Stanley_Morner http://dbpedia.org/resource/Earl_Stanley_Morner

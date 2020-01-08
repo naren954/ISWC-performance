@@ -1,0 +1,14 @@
+F1: 0.57143,Precision: 0.57143,Recall: 0.57143,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,J. Dore,http://dbpedia.org/resource/Jimmy_Dore,http://dbpedia.org/resource/Jon_Dore
+1,2,M. Babel,http://dbpedia.org/resource/Meike_Babel,http://dbpedia.org/resource/Matt_babel http://dbpedia.org/resource/Young_Babel http://dbpedia.org/resource/Matte_Babel
+1,3,D. Pugliese,http://dbpedia.org/resource/Osvaldo_Pugliese,http://dbpedia.org/resource/Dina_Pugliese
+1,4,M. Nicholas,http://dbpedia.org/resource/Joanne_Nicholas,http://dbpedia.org/resource/Mark_Nicholas http://dbpedia.org/resource/Mark_Nicolas
+1,8,D. Koch,http://dbpedia.org/resource/Dan_Koch,http://dbpedia.org/resource/David_Koch_(Television_Presenter) http://dbpedia.org/resource/Kochie http://dbpedia.org/resource/David_Koch_(analyst) http://dbpedia.org/resource/David_Kosch http://dbpedia.org/resource/David_Koch_(television_presenter)
+1,9,K. Browning,http://dbpedia.org/resource/Kolton_Browning,"http://dbpedia.org/resource/Browning,_Kurt http://dbpedia.org/resource/Kurt_Browning"
+1,15,A. Hilal,http://fr.dbpedia.org/resource/Ahmed_Hilal,http://dbpedia.org/resource/Annabella_Hilal
+1,16,A. Hilal,http://fr.dbpedia.org/resource/Ahmed_Hilal,http://dbpedia.org/resource/Annabella_Hilal
+1,17,A. Hilal,http://fr.dbpedia.org/resource/Ahmed_Hilal,http://dbpedia.org/resource/Annabella_Hilal
+1,23,M. Lopez,http://de.dbpedia.org/resource/Manuela_Lopez,http://dbpedia.org/resource/Courtney_Mazza http://dbpedia.org/resource/Courtney_mazza http://dbpedia.org/resource/Mario_Lopez http://dbpedia.org/resource/Mario_López
+1,24,C. Villaroel,http://it.dbpedia.org/resource/Giuseppe_Villaroel,http://dbpedia.org/resource/Carmina_Villaroel http://dbpedia.org/resource/Carmina_Villarroel
+1,25,M. Anand,http://dbpedia.org/resource/Margot_Anand,http://dbpedia.org/resource/Ma_ka_pa_Anand http://dbpedia.org/resource/Ma_Ka_Pa_Anand http://dbpedia.org/resource/Makapa_Anand

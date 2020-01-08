@@ -1,0 +1,4 @@
+"F1: 0.97872","Precision: 0.97872","Recall: 0.97872"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","10","Scorpion","http://dbpedia.org/resource/Scorpion","http://dbpedia.org/resource/Scorpion_(horse)"
+"0","50","Roberto","http://dbpedia.org/resource/Roberto_Marinho","http://dbpedia.org/resource/Roberto_(horse)"

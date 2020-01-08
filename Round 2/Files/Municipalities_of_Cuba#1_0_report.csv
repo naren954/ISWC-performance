@@ -1,0 +1,6 @@
+"F1: 0.69231","Precision: 0.69231","Recall: 0.69231"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","1","CamagÃ¼ey","http://dbpedia.org/resource/Camagüey","http://dbpedia.org/resource/Camagüey,_Cuba"
+"0","5","GuÃ¡imaro","http://dbpedia.org/resource/Guáimaro","http://dbpedia.org/resource/Guáimaro,_Cuba"
+"0","6","JimaguayÃº","http://dbpedia.org/resource/Jimaguayú","http://dbpedia.org/resource/Jimaguayú,_Cuba"
+"0","11","SibanicÃº","http://dbpedia.org/resource/Sibanicú","http://dbpedia.org/resource/Sibanicú,_Cuba"

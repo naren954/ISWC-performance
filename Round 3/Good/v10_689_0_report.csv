@@ -1,0 +1,14 @@
+F1: 0.83784,Precision: 0.83784,Recall: 0.83784,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,A. Smit,http://dbpedia.org/resource/Alexander_Smit,http://dbpedia.org/resource/Arij_Smit
+0,18,A. Abramov,"http://dbpedia.org/resource/Nikolay_Abramov_(footballer,_born_1950)",http://dbpedia.org/resource/Andrey_Abramov_(boxer) http://dbpedia.org/resource/Andrey_Vasilievich_Abramov
+0,20,A. Lewis,http://dbpedia.org/resource/Alan_Lewis_(footballer),"http://dbpedia.org/resource/Andrew_""Six_Heads""_Lewis http://dbpedia.org/resource/Six_Heads http://dbpedia.org/resource/Andrew_Lewis_(boxing) http://dbpedia.org/resource/Andrew_Lewis_(boxer)"
+0,32,A. Abdo,http://dbpedia.org/resource/Ali_Abdo_(wrestler),http://dbpedia.org/resource/Ali_Abdeh http://dbpedia.org/resource/Ali_Abdo
+0,47,A. Pejanović,http://dbpedia.org/resource/Dimitrije_Pejanović,http://dbpedia.org/resource/Aleksandar_Pejanović http://dbpedia.org/resource/Aleksandar_Pejanovic
+0,48,A. Young,http://dbpedia.org/resource/Andre_Young_(basketball),http://dbpedia.org/resource/Albert_Young_(American_boxer) http://dbpedia.org/resource/Albert_Young_(boxer)
+0,50,A. Finch,http://dbpedia.org/resource/Aaron_Finch,http://dbpedia.org/resource/Albert_Finch
+0,53,A. Robinson,"http://dbpedia.org/resource/Angel_Robinson_(basketball,_born_1987)",http://dbpedia.org/resource/Al_Robinson http://dbpedia.org/resource/Albert_Robinson_(boxer) http://dbpedia.org/resource/Alberto_Robinson
+0,56,A. Foreman,http://dbpedia.org/resource/George_Foreman,http://dbpedia.org/resource/Al_Foreman
+0,57,A. Davis,http://it.dbpedia.org/resource/A.J._Davis,"http://dbpedia.org/resource/Al_Davis_(boxer) http://dbpedia.org/resource/Abraham_Davidoff http://dbpedia.org/resource/Al_(Bummy)_Davis http://dbpedia.org/resource/Al_""Bummy""_Davis http://dbpedia.org/resource/Albert_Abraham_Davidoff http://dbpedia.org/resource/Bummy_Davis http://dbpedia.org/resource/Al_Bummy_Davis http://dbpedia.org/resource/Albert_davidoff"
+0,67,A. Simon,http://dbpedia.org/resource/Sam_Simon,http://dbpedia.org/resource/Abe_Simon
+0,73,Ó. González,http://dbpedia.org/resource/Omar_Gonzalez,http://dbpedia.org/resource/Oscar_Gonzalez_(boxer) http://dbpedia.org/resource/Óscar_González_(boxer)

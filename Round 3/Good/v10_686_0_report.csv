@@ -1,0 +1,13 @@
+F1: 0.80000,Precision: 0.80000,Recall: 0.80000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,G. Hernández,http://dbpedia.org/resource/Genaro_Hernández,http://dbpedia.org/resource/Gabriel_Hernández_(boxer) http://dbpedia.org/resource/Gabriel_Hernandez_(boxer)
+0,5,F. Okamoto,http://dbpedia.org/resource/Tetsuo_Okamoto,http://dbpedia.org/resource/Fuji_Okamoto
+0,7,F. Wedge,http://dbpedia.org/resource/Eric_Wedge,http://dbpedia.org/resource/Frederick_Wedge http://dbpedia.org/resource/Kid_Wedge
+0,28,F. Jones,"http://dbpedia.org/resource/Fred_Jones_(footballer,_born_1867)",http://dbpedia.org/resource/Frankie_Jones_(boxer)
+0,33,F. Conley,http://dbpedia.org/resource/Gene_Conley,http://dbpedia.org/resource/Frankie_Conley
+0,34,F. Campbell,http://dbpedia.org/resource/Fred_Campbell_(basketball),http://dbpedia.org/resource/Frankie_Campbell
+0,36,F. Roberts,http://dbpedia.org/resource/Fred_Roberts,http://dbpedia.org/resource/Francis_Roberts_(boxer) http://dbpedia.org/resource/Francis_Roy_Roberts http://dbpedia.org/resource/Frank_Roberts_(boxer)
+0,38,F. Parks,http://dbpedia.org/resource/Frederick_Parks,http://dbpedia.org/resource/Frank_Parks http://dbpedia.org/resource/Francis_George_Parks
+0,41,F. Johnson,http://dbpedia.org/resource/Francis_Johnson_(basketball),http://dbpedia.org/resource/Frank_Johnson_(boxer)
+0,49,F. Quiroz,http://dbpedia.org/resource/Roberto_Quiroz,http://dbpedia.org/resource/Francisco_Quiroz
+0,55,F. J. Flynn,http://dbpedia.org/resource/Jim_Flynn_(footballer),http://dbpedia.org/resource/Fireman_Jim_Flynn

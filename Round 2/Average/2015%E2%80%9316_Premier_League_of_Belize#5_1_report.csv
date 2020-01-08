@@ -1,0 +1,4 @@
+F1: 0.66667,Precision: 0.66667,Recall: 0.66667,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,4,Placencia Assassins,http://dbpedia.org/resource/Altitude_FC,http://dbpedia.org/resource/Placencia_Assassin http://dbpedia.org/resource/Placencia_Texmar_Assassins http://dbpedia.org/resource/Placencia_Assassins http://dbpedia.org/resource/Placencia_Texmar_Assasins http://dbpedia.org/resource/Placencia_Assassins_FC
+1,6,Wagiya,http://dbpedia.org/resource/Wagiya_SC,http://dbpedia.org/resource/Wagiya_FC http://dbpedia.org/resource/Wagiya

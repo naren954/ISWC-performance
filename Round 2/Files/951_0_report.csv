@@ -1,0 +1,8 @@
+"F1: 0.45455","Precision: 0.45455","Recall: 0.45455"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","1","R. Drummond","http://dbpedia.org/resource/Alice_Drummond","http://dbpedia.org/resource/Roscoe_Drummond"
+"0","4","J. Nichols","http://dbpedia.org/resource/Dudley_Nichols","http://dbpedia.org/resource/Joe_Nichols_(journalist)"
+"0","5","J. Donaldson","http://dbpedia.org/resource/John_Donaldson_(pitcher)","http://dbpedia.org/resource/Joan_Donaldson"
+"0","6","J. Perry","http://dbpedia.org/resource/Jeffrey_Perry_(British_actor)","http://dbpedia.org/resource/James_Perry_(journalist)"
+"0","8","D. L. Child","http://dbpedia.org/resource/Louis_the_Child","http://dbpedia.org/resource/David_Lee_Child"
+"0","10","A. Christiansen","http://fr.dbpedia.org/resource/Arne_Christiansen","http://dbpedia.org/resource/Arthur_christiansen http://dbpedia.org/resource/Arthur_Christiansen"

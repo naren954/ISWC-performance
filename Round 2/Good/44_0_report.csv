@@ -1,0 +1,5 @@
+F1: 0.81250,Precision: 0.81250,Recall: 0.81250,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,N. Sterry,http://dbpedia.org/resource/Jamie_Sterry,http://dbpedia.org/resource/Norman_Sterry
+0,2,N. Passmore,http://dbpedia.org/resource/Steve_Passmore,http://dbpedia.org/resource/Norman_Passmore
+0,16,N. Nicolau,http://dbpedia.org/resource/Nicky_Nicolau,http://dbpedia.org/resource/Nick_nicolau http://dbpedia.org/resource/Nick_Nicolau

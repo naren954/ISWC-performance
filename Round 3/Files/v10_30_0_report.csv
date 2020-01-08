@@ -1,0 +1,4 @@
+"F1: 0.80000","Precision: 0.80000","Recall: 0.80000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","2","H. Jones","http://dbpedia.org/resource/Harry_Jones_(footballer,_born_1891)","http://dbpedia.org/resource/Howard_Jones_(football_coach) http://dbpedia.org/resource/Howard_Jones_(American_football_coach) http://dbpedia.org/resource/Howard_H._Jones"
+"0","3","H. Elliott","http://dbpedia.org/resource/Hal_Elliott","http://dbpedia.org/resource/Bud_Elliott http://dbpedia.org/resource/Harold_""Bud""_Elliott http://dbpedia.org/resource/Harold_Elliot_(football_coach) http://dbpedia.org/resource/Harold_Elliott_(football_coach) http://dbpedia.org/resource/Elliott,_Harold http://dbpedia.org/resource/Harold_Elliott"

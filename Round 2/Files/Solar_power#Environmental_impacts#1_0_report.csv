@@ -1,0 +1,5 @@
+"F1: 0.75000","Precision: 0.75000","Recall: 0.75000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","1","Solar Star I and II","http://dbpedia.org/resource/Alpha_Centauri","http://dbpedia.org/resource/Solar_Star http://dbpedia.org/resource/Solar_Star_Project"
+"0","4","Longyangxia Dam Solar Park","http://dbpedia.org/resource/Westlands_Solar_Park","http://dbpedia.org/resource/Longyangxia_Dam http://dbpedia.org/resource/Longyangxia_Hydro_Power_Station"
+"0","9","Charanka Solar Park","http://dbpedia.org/resource/Solarpark_Meuro","http://dbpedia.org/resource/Charanka_Solar_Park http://dbpedia.org/resource/Gujarat_Solar_Park"

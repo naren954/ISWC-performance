@@ -1,0 +1,6 @@
+F1: 0.33333,Precision: 0.33333,Recall: 0.33333,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,Sylvain Geboers,,http://dbpedia.org/resource/Sylvain_Geboers
+1,4,John Banks,http://dbpedia.org/resource/John_Banks_(U.S._politician),http://dbpedia.org/resource/John_Banks_(motorcyclist)
+1,8,Brad Lackey,http://dbpedia.org/resource/Bob_Lackey,http://dbpedia.org/resource/Brad_Lackey
+1,10,Gary Jones,"http://dbpedia.org/resource/Gary_Jones_(footballer,_born_1969)",http://dbpedia.org/resource/Gary_Jones_(motorcyclist)

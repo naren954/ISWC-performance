@@ -1,0 +1,6 @@
+"F1: 0.84615","Precision: 0.84615","Recall: 0.84615"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","11","J. James","http://dbpedia.org/resource/John_James_(racing_driver)","http://dbpedia.org/resource/Joe_James_(racing_driver)"
+"0","18","J. Clark","http://dbpedia.org/resource/Jim_Clark_(Scottish_footballer)","http://dbpedia.org/resource/Jimmy_Clark http://dbpedia.org/resource/Jim_Clark http://dbpedia.org/resource/Jim_""Jimmy""_Clark http://dbpedia.org/resource/Clark,_Jim http://dbpedia.org/resource/Jim_Clark_(racing_driver)"
+"0","19","J. U. Jr.","http://dbpedia.org/resource/Calvin_Coolidge","http://dbpedia.org/resource/Jerry_Unser_Jr. http://dbpedia.org/resource/Jerry_Unser,_Jr. http://dbpedia.org/resource/Jerry_Unser"
+"0","23","J. Holmes","http://dbpedia.org/resource/Jim_Holmes","http://dbpedia.org/resource/Jackie_Holmes http://dbpedia.org/resource/John_Holmes_(driver)"

@@ -1,0 +1,37 @@
+F1: 0.61111,Precision: 0.61111,Recall: 0.61111,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,WWJS-CD,http://dbpedia.org/resource/.cd,http://dbpedia.org/resource/WVHF-TV http://dbpedia.org/resource/WWJS-CA http://dbpedia.org/resource/WWJS-CD http://dbpedia.org/resource/WNDA-CA
+0,3,WWJ-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/CBS_Detroit http://dbpedia.org/resource/WWJ-TV http://dbpedia.org/resource/WWJ-DT http://dbpedia.org/resource/CBS_62_Detroit http://dbpedia.org/resource/WGPR-TV http://dbpedia.org/resource/First_Forecast_Mornings http://dbpedia.org/resource/CBS_62 http://dbpedia.org/resource/First_Forecast
+0,4,WWIS-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/WWIS-FM
+0,10,WWFF-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/WWFF-FM http://dbpedia.org/resource/WWFF http://dbpedia.org/resource/W261CL
+0,19,WWCP-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WWCP-TV http://dbpedia.org/resource/WWCP
+0,20,WWCK-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/WWCK_(FM) http://dbpedia.org/resource/WWCK-FM
+0,21,WWBU,,http://dbpedia.org/resource/WWBU-FM http://dbpedia.org/resource/WWBU
+0,31,WVVE,http://dbpedia.org/resource/WYYX,http://dbpedia.org/resource/WVVE
+0,33,WVUA-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/WVUA-FM
+0,34,WVTY,http://dbpedia.org/resource/WKST-FM,http://dbpedia.org/resource/WEZY http://dbpedia.org/resource/WVTY http://dbpedia.org/resource/WEZY-FM
+0,35,WVTV,http://dbpedia.org/resource/WVTV_(Villanova),http://dbpedia.org/resource/WVTV-DT http://dbpedia.org/resource/WVTV-TV http://dbpedia.org/resource/WVTV
+0,36,WVTT,http://dbpedia.org/resource/WVTT-CD,http://dbpedia.org/resource/WVTT
+0,38,WVSP-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/WVSP http://dbpedia.org/resource/WVSP-FM http://dbpedia.org/resource/WXEZ-FM http://dbpedia.org/resource/WXEZ
+0,39,WVRQ-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/WVRQ-FM
+0,45,WVOR,http://dbpedia.org/resource/WDVI,http://dbpedia.org/resource/WVOR
+0,48,WVNS-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WVNS http://dbpedia.org/resource/WVNS-TV
+0,50,WVNO-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/WVNO-FM http://dbpedia.org/resource/WVNO
+0,51,WVNN-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/WVNN-FM
+0,52,WVNA-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/WVNA-FM
+0,55,WVLT-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WVLT-TV http://dbpedia.org/resource/CBS_Knoxville
+0,57,WVLK-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/WVLK-FM
+0,58,WVLA-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WVLA http://dbpedia.org/resource/WVLA-TV
+0,59,WVKO-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/WVKO-FM
+0,64,WVJP-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/WVJP-FM
+0,65,WVIV-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/WVIV http://dbpedia.org/resource/WVIX http://dbpedia.org/resource/WVIV-FM http://dbpedia.org/resource/La_Kalle_103.1_and_93.5
+0,66,WVIR-DT3,http://dbpedia.org/resource/WVIR-TV,http://dbpedia.org/resource/WVIR-DT3
+0,69,WVII-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WVII-TV http://dbpedia.org/resource/WVII-DT http://dbpedia.org/resource/WVII
+0,70,WVIE,http://dbpedia.org/resource/WQLL,http://dbpedia.org/resource/WVGN_(FM) http://dbpedia.org/resource/WVIE_(FM)
+0,72,WVIA-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/W47DH-D http://dbpedia.org/resource/WVIA-TV http://dbpedia.org/resource/W20CP-D http://dbpedia.org/resource/W25AQ-D
+0,78,WVEN-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WVEN http://dbpedia.org/resource/WVEN-TV http://dbpedia.org/resource/W47DA http://dbpedia.org/resource/WVCI-LP
+0,79,WVEK-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/WVEK-FM http://dbpedia.org/resource/WVEK
+0,81,WVEA-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WVEA-LP http://dbpedia.org/resource/WBSV http://dbpedia.org/resource/WVEA-TV http://dbpedia.org/resource/WVEA
+0,83,WVCY-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/W26EE http://dbpedia.org/resource/W26EE-D http://dbpedia.org/resource/W04CW http://dbpedia.org/resource/WVCY-TV
+0,84,WVCY-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/W235AG http://dbpedia.org/resource/WVCY-FM
+0,89,WVBT,http://dbpedia.org/resource/WAIO,http://dbpedia.org/resource/WPMC-CA http://dbpedia.org/resource/WNLO-CA http://dbpedia.org/resource/WVBT http://dbpedia.org/resource/WPMC-CD http://dbpedia.org/resource/WNLO-CD http://dbpedia.org/resource/WNLO-LP http://dbpedia.org/resource/WVBT-DT http://dbpedia.org/resource/W45BG http://dbpedia.org/resource/WVBT-TV

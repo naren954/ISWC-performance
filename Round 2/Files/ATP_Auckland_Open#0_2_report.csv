@@ -1,0 +1,6 @@
+"F1: 0.92453","Precision: 0.92453","Recall: 0.92453"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"2","3","Robert Mark","http://dbpedia.org/resource/Mark_Warner","http://dbpedia.org/resource/Bob_Mark http://dbpedia.org/resource/Robert_Mark_(tennis)"
+"2","45","Michael Chang","http://dbpedia.org/resource/Andre_Agassi","http://dbpedia.org/resource/Zhang_Depei http://dbpedia.org/resource/Michael_Chang http://dbpedia.org/resource/Michel_Chang http://dbpedia.org/resource/Michael_Te-Pei_Chang"
+"2","51","Mario AnÄ\u008DiÄ\u0087","http://dbpedia.org/resource/Mario_Sagario","http://dbpedia.org/resource/Mario_Ančić"
+"2","54","Sam Querrey","http://dbpedia.org/resource/Donald_Young_(tennis)","http://dbpedia.org/resource/Sam_Querrey http://dbpedia.org/resource/Querrey http://dbpedia.org/resource/Sam_querrey"

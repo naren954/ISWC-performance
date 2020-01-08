@@ -1,0 +1,5 @@
+F1: 0.81250,Precision: 0.81250,Recall: 0.81250,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,Victorian,http://dbpedia.org/resource/Painted_lady,http://dbpedia.org/resource/Victorian_(horse)
+0,6,Ventura,http://dbpedia.org/resource/Ventura_Salimbeni,http://dbpedia.org/resource/Ventura_(horse)
+0,9,Vagrancy,http://dbpedia.org/resource/Vagrancy_(racehorse),http://dbpedia.org/resource/Vagrancy_(horse)

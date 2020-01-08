@@ -1,0 +1,6 @@
+"F1: 0.78947","Precision: 0.78947","Recall: 0.78947"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","2","M. Ochoa","http://dbpedia.org/resource/Severo_Ochoa","http://dbpedia.org/resource/Manuel_Ochoa"
+"0","6","I. Mykolaichuk","http://dbpedia.org/resource/I","http://dbpedia.org/resource/Ivan_Mykolajchuk http://dbpedia.org/resource/Іван_Миколайчук http://dbpedia.org/resource/Ivan_Mykolaychuk http://dbpedia.org/resource/Ivan_Mykolaichuk http://dbpedia.org/resource/Ivan_Mikolajchuk"
+"0","16","B. Collins","http://dbpedia.org/resource/Bootsy_Collins","http://dbpedia.org/resource/Bob_Collins_(broadcaster) http://dbpedia.org/resource/Bob_Collins_(American_radio_broadcaster)"
+"0","17","B. Abrahamian","nan","http://dbpedia.org/resource/Bob_Abrahamian"

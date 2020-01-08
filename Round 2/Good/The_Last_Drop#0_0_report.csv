@@ -1,0 +1,4 @@
+F1: 0.88889,Precision: 0.88889,Recall: 0.88889,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,10,Tommy Flanagan,http://dbpedia.org/resource/Tommy_Flanagan,http://dbpedia.org/resource/Tommy_Flanagan_(actor)
+0,26,Aoife Madden,http://dbpedia.org/resource/Ciaran_Madden,http://dbpedia.org/resource/Aoife_Madden

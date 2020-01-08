@@ -1,0 +1,13 @@
+F1: 0.71795,Precision: 0.71795,Recall: 0.71795,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,4,Wrong Number,http://dbpedia.org/resource/Wrong_Number_(song),"http://dbpedia.org/resource/Wrong_Number_(George_Jones_song) http://dbpedia.org/resource/""Wrong_Number""_(George_Jones_song)"
+0,6,Wrong Is Right,http://dbpedia.org/resource/(If_Loving_You_Is_Wrong)_I_Don't_Want_to_Be_Right,http://dbpedia.org/resource/Wrong_Is_Right http://dbpedia.org/resource/The_Man_with_the_Deadly_Lens http://dbpedia.org/resource/Wrong_is_Right
+0,11,Wrong Again,http://dbpedia.org/resource/Wrong_Again_(song),http://dbpedia.org/resource/Wrong_Again
+0,12,Wrong,http://dbpedia.org/resource/Wrong_(Depeche_Mode_song),http://dbpedia.org/resource/Wrong_(Waylon_Jennings_song)
+0,13,Wrong,http://dbpedia.org/resource/Wrong_(Depeche_Mode_song),http://dbpedia.org/resource/Wrong_(Everything_but_the_Girl_song)
+0,15,Wrong's What I Do Best,http://dbpedia.org/resource/Honky_Tonkin's_What_I_Do_Best_(song),http://dbpedia.org/resource/Wrong's_What_I_Do_Best
+0,17,Written on the Wind,http://dbpedia.org/resource/Written_on_the_Wind_(song),http://dbpedia.org/resource/Written_on_the_Wind http://dbpedia.org/resource/Written_On_The_Wind
+0,26,Write On Me,http://dbpedia.org/resource/Write_on_Me,http://dbpedia.org/resource/Write_On_Me
+0,30,Wrist,http://dbpedia.org/resource/Wrist_(Chris_Brown_song),http://dbpedia.org/resource/Wrist_(Logic_song)
+0,36,Wrecking Crew,http://dbpedia.org/resource/The_Wrecking_Crew_(1968_film),http://dbpedia.org/resource/Wrecking_Crew_(1942_film)
+0,39,Wreck on the Highway,http://dbpedia.org/resource/Wreck_on_the_Highway_(Bruce_Springsteen_song),http://dbpedia.org/resource/Wreck_on_the_Highway

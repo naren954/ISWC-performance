@@ -1,0 +1,7 @@
+"F1: 0.16667","Precision: 0.16667","Recall: 0.16667"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","1","Emory & Henry*","http://dbpedia.org/resource/Emory_and_Henry_College","http://dbpedia.org/resource/Emory_&_Henry_Wasps_football"
+"1","2","Maryville*","http://dbpedia.org/resource/Maryville_College","http://dbpedia.org/resource/Maryville_Scots_football"
+"1","3","Vanderbilt","http://dbpedia.org/resource/Vanderbilt_University","http://dbpedia.org/resource/1920_Vanderbilt_Commodores_football_team"
+"1","5","Clemson","http://dbpedia.org/resource/Clemson_University","http://dbpedia.org/resource/1920_Clemson_Tigers_football_team"
+"1","9","Kentucky","http://dbpedia.org/resource/Lexington,_Kentucky","http://dbpedia.org/resource/Kentucky_Wildcats_football http://dbpedia.org/resource/Kentucky_State_Blue_and_White_football http://dbpedia.org/resource/Kentucky_State_College_Blue_and_White_football http://dbpedia.org/resource/Kentucky_football http://dbpedia.org/resource/Kentucky_wildcats_football"

@@ -1,0 +1,5 @@
+"F1: 0.62500","Precision: 0.62500","Recall: 0.62500"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"3","1","Dundee","http://dbpedia.org/resource/Dundee_United_F.C.","http://dbpedia.org/resource/Dundee_FC http://dbpedia.org/resource/Dundee_F._C. http://dbpedia.org/resource/Peter_&_James_Marr http://dbpedia.org/resource/Dundee_F.C. http://dbpedia.org/resource/Dundee_fc http://dbpedia.org/resource/Dundee_F_C"
+"3","2","1860 MÃ¼nchen","http://dbpedia.org/resource/TSV_1860_Munich","http://dbpedia.org/resource/TSV_1860_München"
+"3","9","Pobeda","http://dbpedia.org/resource/FK_Vardar","http://dbpedia.org/resource/FK_Pobeda http://dbpedia.org/resource/Pobeda_Prilep"

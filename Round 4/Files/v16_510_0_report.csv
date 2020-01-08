@@ -1,0 +1,4 @@
+"F1: 0.94737","Precision: 0.94737","Recall: 0.94737"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","5","Thoracic aorta","http://dbpedia.org/resource/Descending_thoracic_aorta","http://dbpedia.org/resource/Thoracic_part http://dbpedia.org/resource/Aorta_thoracica http://dbpedia.org/resource/Pars_thoracica_aortae http://dbpedia.org/resource/Aorta_thoracalis http://dbpedia.org/resource/Aorta,_thoracic http://dbpedia.org/resource/Thoracic_aorta http://dbpedia.org/resource/Pars_thoracica"
+"0","21","Intercostal nerves","http://dbpedia.org/resource/Intercostal_arteries","http://dbpedia.org/resource/Upper_intercostal_nerves http://dbpedia.org/resource/Intercostal_nerves http://dbpedia.org/resource/Second_intercostal_nerve http://dbpedia.org/resource/Intercostal_nerve http://dbpedia.org/resource/Third_intercostal http://dbpedia.org/resource/First_intercostal_nerve"

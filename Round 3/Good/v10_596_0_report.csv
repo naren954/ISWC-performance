@@ -1,0 +1,8 @@
+F1: 0.88679,Precision: 0.88679,Recall: 0.88679,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,28,W. Williams,http://dbpedia.org/resource/Ward_Williams,http://dbpedia.org/resource/Willie_Williams_(basketball)
+0,29,W. White,http://dbpedia.org/resource/Will_White,http://dbpedia.org/resource/Willie_White_(basketball)
+0,41,W. Anderson,http://dbpedia.org/resource/William_Anderson_(Scottish_footballer),"http://dbpedia.org/resource/Willie_Lloyd_Anderson_Jr. http://dbpedia.org/resource/Willie_Lloyd_Anderson,_Jr. http://dbpedia.org/resource/Willie_Anderson_(basketball_player) http://dbpedia.org/resource/Willie_Anderson_(basketball)"
+0,43,W. Evans,http://dbpedia.org/resource/William_Evans_(basketball_player),http://dbpedia.org/resource/William_Evans_(basketball)
+0,52,W. Frazier,http://dbpedia.org/resource/Walt_Frazier,http://dbpedia.org/resource/Wilbert_Frazier
+0,53,W. Robinson,http://dbpedia.org/resource/Wayne_Robinson_(basketball),http://dbpedia.org/resource/Wil_Robinson

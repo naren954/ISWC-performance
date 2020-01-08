@@ -1,0 +1,9 @@
+F1: 0.41667,Precision: 0.41667,Recall: 0.41667,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,2,I. Bowman,http://dbpedia.org/resource/Thea_Bowman,http://dbpedia.org/resource/Issac_Bowman http://dbpedia.org/resource/Isaac_Bowman
+1,3,J. McLean,http://dbpedia.org/resource/John_McLean,http://dbpedia.org/resource/John_McLean_(New_Zealand_politician)
+1,4,"Alexis Felix du Pont, Jr.",http://dbpedia.org/resource/A._Felix_du_Pont,"http://dbpedia.org/resource/Alexis_Felix_du_Pont,_Jr. http://dbpedia.org/resource/A._Felix_du_Pont,_Jr."
+1,5,R. family,http://dbpedia.org/resource/Albert_R._Broccoli,http://dbpedia.org/resource/Roosevelt_family_tree http://dbpedia.org/resource/Christopher_du_Pont_Roosevelt http://dbpedia.org/resource/Roosevelt_family_political_line http://dbpedia.org/resource/Roosevelt_Family http://dbpedia.org/resource/Roosevelt_coat_of_arms http://dbpedia.org/resource/Roosevelt_family http://dbpedia.org/resource/Common_ancestry_of_Theodore_Roosevelt_and_Franklin_Delano_Roosevelt http://dbpedia.org/resource/Roosevelts
+1,6,L. Müller,http://de.dbpedia.org/resource/Ludwig_Müller_(Ratsherr),http://dbpedia.org/resource/Leo_Muller http://dbpedia.org/resource/Leo_Müller
+1,8,L. Müller,http://de.dbpedia.org/resource/Ludwig_Müller_(Ratsherr),http://dbpedia.org/resource/Leo_Muller http://dbpedia.org/resource/Leo_Müller
+1,10,J. Goodwill,,http://dbpedia.org/resource/Jasper_Goodwill

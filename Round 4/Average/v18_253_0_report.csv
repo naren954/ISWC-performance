@@ -1,0 +1,22 @@
+F1: 0.74026,Precision: 0.74026,Recall: 0.74026,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,Red Riding Hood,http://dbpedia.org/resource/Red_Riding_Hood_(2011_film),http://dbpedia.org/resource/Red_Riding_Hood_(2003_film)
+0,4,Red,http://dbpedia.org/resource/Pokémon_Red_and_Blue,http://dbpedia.org/resource/Red_(2008_film)
+0,5,Rebecca,http://dbpedia.org/resource/Rebecca_(musical),http://dbpedia.org/resource/Rebecca_(1940_film) http://dbpedia.org/resource/Rebecca_(movie) http://dbpedia.org/resource/Rebecca_(1940_movie)
+0,11,Raja,http://dbpedia.org/resource/Raja_(album),http://dbpedia.org/resource/Raja_(1999_film)
+0,13,Rain,http://dbpedia.org/resource/Purple_Rain_(song),http://dbpedia.org/resource/Rain_(2006_film)
+0,14,Rain,http://dbpedia.org/resource/Purple_Rain_(song),http://dbpedia.org/resource/Rain_(1932_film) http://dbpedia.org/resource/Rain_(1932_movie)
+0,17,Quo Vadis,http://dbpedia.org/resource/Quo_Vadis_(1951_film),http://dbpedia.org/resource/Quo_Vadis_(1913_film) http://dbpedia.org/resource/Quo_Vadis_(1912_film)
+0,18,Quiet Days in Clichy,http://dbpedia.org/resource/Quiet_Days_in_Clichy_(1970_film),http://dbpedia.org/resource/Jours_Tranquilles_à_Clichy http://dbpedia.org/resource/Quiet_Days_in_Clichy_(film) http://dbpedia.org/resource/Jours_Tranquils_a_Clichy http://dbpedia.org/resource/Quiet_Days_in_Clichy_(1990_film) http://dbpedia.org/resource/Jours_tranquilles_à_Clichy
+0,22,Pygmalion,http://dbpedia.org/resource/Pygmalion_(1938_film),http://dbpedia.org/resource/Pygmalion_(1935_film)
+0,32,Possession,http://dbpedia.org/resource/Possession_(1981_film),http://dbpedia.org/resource/Possession_(2002_movie) http://dbpedia.org/resource/Possession_(2002_film)
+0,39,"Play It Again, Sam",http://dbpedia.org/resource/Casablanca_(film),"http://dbpedia.org/resource/Play_It_Again,_Sam_(1972_movie) http://dbpedia.org/resource/Play_It_Again,_Sam_(1972_film) http://dbpedia.org/resource/Play_It_Again,_Sam_(film)"
+0,43,Pirates of the Caribbean,http://dbpedia.org/resource/Pirates_of_the_Caribbean:_The_Curse_of_the_Black_Pearl,http://dbpedia.org/resource/Pirates_of_the_Caribbean_films http://dbpedia.org/resource/Mr._Mercer http://dbpedia.org/resource/Pirates_of_the_Caribbean_Four http://dbpedia.org/resource/Pirates_of_the_Caribbean:_Fountain_of_Youth http://dbpedia.org/resource/Pirates_of_the_Caribbean_(franchise) http://dbpedia.org/resource/Pirates_Of_The_Caribbean_Quadrilogy http://dbpedia.org/resource/Pirates_of_the_Caribbean_film_series http://dbpedia.org/resource/Pirates_of_the_Caribbean_(film_series) http://dbpedia.org/resource/Pirates_of_the_Caribbean_(trilogy) http://dbpedia.org/resource/Pirates_of_the_caribbean_film_trilogy http://dbpedia.org/resource/Pirates_of_the_Caribbean_film_trilogy http://dbpedia.org/resource/Pirates_of_the_Caribbean_movies http://dbpedia.org/resource/Pirates_of_the_Caribbean_trilogy
+0,50,Peter and the Wolf,http://dbpedia.org/resource/Make_Mine_Music,http://dbpedia.org/resource/Peter_and_the_Wolf_(1946_film)
+0,53,Pelli Kanuka,http://dbpedia.org/resource/Pelli_Kanuka_(1960_film),http://dbpedia.org/resource/Pelli_Kanuka
+0,54,Pelli Chesi Choodu,http://dbpedia.org/resource/Pelli_Chesi_Choodu,http://dbpedia.org/resource/Pelli_Chesi_Choodu_(1988_film)
+0,62,Paranormal Activity 3,http://dbpedia.org/resource/Paranormal_Activity:_The_Marked_Ones,http://dbpedia.org/resource/Paranormal_Activity_3 http://dbpedia.org/resource/Paranormal_Activity3
+0,64,Pandora's Box,http://dbpedia.org/resource/Pandora's_Box_(TV_series),http://dbpedia.org/resource/Pandora's_Box_(1929_film)
+0,67,Outcast,http://dbpedia.org/resource/The_Outcast_(1954_film),http://dbpedia.org/resource/Outcast_(1928_film)
+0,68,Out of the Blue,http://dbpedia.org/resource/Out_of_the_Blue_(2002_film),http://dbpedia.org/resource/Out_of_the_Blue_(2006_film)
+0,69,Out of the Blue,http://dbpedia.org/resource/Out_of_the_Blue_(2002_film),http://dbpedia.org/resource/Out_of_the_Blue_(1931_film)

@@ -1,0 +1,3 @@
+"F1: 0.00000","Precision: 0.00000","Recall: 0.00000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","1","Yokozuna is not a successive rank, and more than one wrestler can share the title","http://dbpedia.org/resource/Professional_wrestling_match_types","http://dbpedia.org/resource/Yokozuna_(sumo) http://dbpedia.org/resource/Oozeki http://dbpedia.org/resource/Ōzeki http://dbpedia.org/resource/Makuuchi http://dbpedia.org/resource/Komusubi http://dbpedia.org/resource/Sekiwake http://dbpedia.org/resource/Maegashira http://dbpedia.org/resource/Hiramaku http://dbpedia.org/resource/Meagashira http://dbpedia.org/resource/Ozeki http://dbpedia.org/resource/Yokozuna"

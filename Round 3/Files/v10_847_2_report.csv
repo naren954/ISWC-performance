@@ -1,0 +1,4 @@
+"F1: 0.93333","Precision: 0.93333","Recall: 0.93333"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"2","10","Coastal","http://dbpedia.org/resource/Coastal_Bluff","http://dbpedia.org/resource/Coastal_(horse)"
+"2","11","On-and-On","nan","http://dbpedia.org/resource/On-and-On http://dbpedia.org/resource/On-And-On"

@@ -1,0 +1,10 @@
+F1: 0.70370,Precision: 0.70370,Recall: 0.70370,,
+Col,Row,Value,Submitted URI,Correct URI's
+4,2,Holt (3â\u0080\u00936),http://dbpedia.org/resource/Michael_Holt_(English_footballer),http://dbpedia.org/resource/Chris_Holt_(baseball) http://dbpedia.org/resource/Chris_Holt_(baseball_player)
+4,4,Baldwin (9â\u0080\u00931),http://dbpedia.org/resource/James_Baldwin,http://dbpedia.org/resource/James_Baldwin_(baseball_player) http://dbpedia.org/resource/James_Baldwin_(baseball) http://dbpedia.org/resource/James_Baldwin_III
+4,7,PeÃ±a (1â\u0080\u00930),,http://dbpedia.org/resource/Jesús_Peña
+4,14,Baldwin (10â\u0080\u00931),http://dbpedia.org/resource/James_Baldwin,http://dbpedia.org/resource/James_Baldwin_(baseball_player) http://dbpedia.org/resource/James_Baldwin_(baseball) http://dbpedia.org/resource/James_Baldwin_III
+4,21,Lowe (2â\u0080\u00931),http://dbpedia.org/resource/Terrell_Lowe,http://dbpedia.org/resource/Sean_Lowe_(baseball)
+4,22,Mendoza (7â\u0080\u00933),http://dbpedia.org/resource/Verónika_Mendoza,http://dbpedia.org/resource/Ramiro_Mendoza
+4,24,Mays (4â\u0080\u00939),http://dbpedia.org/resource/Willie_Mays,http://dbpedia.org/resource/Joe_Mays
+4,26,Milton (8â\u0080\u00932),http://dbpedia.org/resource/Arthur_Milton,http://dbpedia.org/resource/Eric_Milton

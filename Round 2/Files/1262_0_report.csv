@@ -1,0 +1,6 @@
+"F1: 0.93443","Precision: 0.93443","Recall: 0.93443"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","31","Epileptic Disorders","http://dbpedia.org/resource/Epileptic_Disorders","http://dbpedia.org/resource/Epileptic_Disord http://dbpedia.org/resource/Epileptic_Disorders_(journal)"
+"0","38","Endocrine Journal","http://dbpedia.org/resource/Endocrine_(journal)","http://dbpedia.org/resource/Endocr._J. http://dbpedia.org/resource/Endocr_J http://dbpedia.org/resource/Endocrine_Journal"
+"0","39","Emerging Infectious Diseases","http://dbpedia.org/resource/Emerging_Infectious_Diseases_(journal)","http://dbpedia.org/resource/Emerging_Infectious_Diseases http://dbpedia.org/resource/Emerg_Infect_Dis http://dbpedia.org/resource/Emerging_Infect._Dis."
+"0","60","Communications on Pure and Applied Mathematics","http://dbpedia.org/resource/Communications_of_the_ACM","http://dbpedia.org/resource/Comm._Pure_Appl._Math. http://dbpedia.org/resource/Communications_on_Pure_and_Applied_Mathematics http://dbpedia.org/resource/Communications_on_pure_and_applied_mathematics http://dbpedia.org/resource/Communications_in_Pure_and_Applied_Mathematics"

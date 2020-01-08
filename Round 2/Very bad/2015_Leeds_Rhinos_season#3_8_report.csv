@@ -1,0 +1,25 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+8,1,"Briscoe, Sinfield, McGuire (2), Watkins, Hardaker, Singleton",http://dbpedia.org/resource/McGuire_(Formula_One),http://dbpedia.org/resource/Tom_Briscoe
+8,2,"Hardaker, Hall, Cuthbertson, Briscoe, McGuire, Watkins, Sinfield",http://dbpedia.org/resource/Florida_Museum_of_Natural_History,http://dbpedia.org/resource/Zak_Hardaker
+8,3,"Ablett, Cuthbertson, Hall, Briscoe, Aiton",http://dbpedia.org/resource/Texas_House_of_Representatives,"http://dbpedia.org/resource/Ablett,_Carl http://dbpedia.org/resource/Carl_Ablett"
+8,4,"McGuire (2), Singleton, Watkins, Leuluai, Burrow (2)",http://dbpedia.org/resource/McGuire_Sisters,http://dbpedia.org/resource/Danny_McGuire
+8,5,Briscoe,http://dbpedia.org/resource/Briscoe_Group,http://dbpedia.org/resource/Tom_Briscoe
+8,6,"Cuthbertson, Handley, Singleton, Sutcliffe, Burrow",http://dbpedia.org/resource/Irene_Sutcliffe,http://dbpedia.org/resource/Adam_Cuthbertson
+8,7,"Ablett, S.Ward, Singleton, McGuire, Sutcliffe, Watkins, Hardaker",http://dbpedia.org/resource/Lizzie_McGuire,"http://dbpedia.org/resource/Ablett,_Carl http://dbpedia.org/resource/Carl_Ablett"
+8,8,"Moon, Hall (2), S.Ward, Cuthbertson",http://dbpedia.org/resource/Hospital,http://dbpedia.org/resource/Joel_Moon http://dbpedia.org/resource/Joel_moon
+8,9,"Hall, Hardaker, Burrow (2), Watkins (2), Handley, Yeates",,http://dbpedia.org/resource/Ryan_Hall_(rugby_league)
+8,10,"Peacock (2), Handley, Burrow, Hardaker",http://dbpedia.org/resource/Peacocks_(clothing),http://dbpedia.org/resource/Jamie_Peacock_(rugby_league_footballer) http://dbpedia.org/resource/Jamie_Peacock http://dbpedia.org/resource/James_Darryl_Peacock http://dbpedia.org/resource/Jamie_Peacock_(rugby_league) http://dbpedia.org/resource/Jamie_Peacock_(rugby_player) http://dbpedia.org/resource/James_Peacock
+8,11,"Handley (3), Hardaker, McGuire, Sutcliffe, Moon",,http://dbpedia.org/resource/Ash_Handley
+8,12,"Watkins, Achurch",http://dbpedia.org/resource/Ian_Watkins_(Lostprophets_singer),http://dbpedia.org/resource/Kallum_Watkins
+8,13,"Delaney, Ablett, Moon, Watkins","http://dbpedia.org/resource/Delaney,_California",http://dbpedia.org/resource/Brett_Delaney
+8,14,"S.Ward, Moon, Watkins (2), Keinhorst",http://dbpedia.org/resource/Ladue_Horton_Watkins_High_School,http://dbpedia.org/resource/Stevie_Ward
+8,15,"S.Ward, Achurch, Hall (2), Singleton, Sinfield",http://dbpedia.org/resource/Hospital,http://dbpedia.org/resource/Stevie_Ward
+8,16,"Cuthbertson, Moon",http://dbpedia.org/resource/John_Cuthbertson_(footballer),http://dbpedia.org/resource/Adam_Cuthbertson
+8,17,"Sutcliffe (3), McGuire, Burrow, Ablett, Handley (2), Keinhorst, Singleton (2)",http://dbpedia.org/resource/Stuart_Sutcliffe,http://dbpedia.org/resource/Liam_Sutcliffe
+8,18,"Ablett, Hall, Cuthbertson, Keinhorst",http://dbpedia.org/resource/Ablett_family,"http://dbpedia.org/resource/Ablett,_Carl http://dbpedia.org/resource/Carl_Ablett"
+8,19,"McGuire, Moon (2), Keinhorst, Ablett",,http://dbpedia.org/resource/Danny_McGuire
+8,20,"Watkins, Leuluai, Hall (2), Handley (3), Ablett",,http://dbpedia.org/resource/Kallum_Watkins
+8,21,"Aiton, Singleton, Handley, Burrow",,http://dbpedia.org/resource/Paul_Aiton
+8,22,"McGuire, Cuthbertson, Watkins, Delaney, Hardaker (2), Hall (2), Moon, Keinhorst, Walters, Ablett",,http://dbpedia.org/resource/Danny_McGuire
+8,23,"Briscoe (3), Garbutt, Watkins, Delaney",http://dbpedia.org/resource/Briscoe_Group,http://dbpedia.org/resource/Tom_Briscoe

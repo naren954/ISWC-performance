@@ -1,0 +1,5 @@
+F1: 0.84211,Precision: 0.84211,Recall: 0.84211,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,2,KÃ¡lmÃ¡n KovÃ¡cs,"http://dbpedia.org/resource/Kálmán_Kovács_(footballer,_born_1965)",http://dbpedia.org/resource/Kálmán_Kovács
+1,4,MiloÅ¡ BursaÄ\u0087,http://dbpedia.org/resource/Miloš_Pantović,http://dbpedia.org/resource/Miloš_Bursać
+1,21,Zlatko VujoviÄ\u0087,,http://dbpedia.org/resource/Zlatko_Vujović

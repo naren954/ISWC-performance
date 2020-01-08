@@ -1,0 +1,5 @@
+F1: 0.95082,Precision: 0.95082,Recall: 0.95082,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,7,Jim McElreath,http://dbpedia.org/resource/Jim_McWithey,http://dbpedia.org/resource/McElreath http://dbpedia.org/resource/Jim_McElreath
+3,16,Swede Savage,http://dbpedia.org/resource/Leslie_Savage,http://dbpedia.org/resource/Swede_Savage
+3,23,Mike Mosley,http://dbpedia.org/resource/Mike_Mosley_(American_football),http://dbpedia.org/resource/Mike_Mosley

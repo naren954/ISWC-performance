@@ -1,0 +1,4 @@
+F1: 0.87500,Precision: 0.87500,Recall: 0.87500,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,21,More Media >>,http://dbpedia.org/resource/More!,http://dbpedia.org/resource/Media_of_Sierra_Leone http://dbpedia.org/resource/Sierra_Leonean_media http://dbpedia.org/resource/Media_in_Sierra_Leone
+1,6,Malayala Manorama,http://dbpedia.org/resource/Mathrubhumi,http://dbpedia.org/resource/M._M._Publications_Limited http://dbpedia.org/resource/Malayala_manorama http://dbpedia.org/resource/Manoramaonline.com http://dbpedia.org/resource/Malayala_Manorama http://dbpedia.org/resource/Malayalam_manorama

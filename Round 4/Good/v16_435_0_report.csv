@@ -1,0 +1,23 @@
+F1: 0.80374,Precision: 0.80374,Recall: 0.80374,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,10,When You Were Young,http://dbpedia.org/resource/Where_Were_You_(When_the_World_Stopped_Turning),http://dbpedia.org/resource/When_You_Were_Young
+0,14,When You Sleep,"http://dbpedia.org/resource/I_Like_It_When_You_Sleep,_for_You_Are_So_Beautiful_yet_So_Unaware_of_It",http://dbpedia.org/resource/When_You_Sleep_(My_Bloody_Valentine_song)
+0,21,When You Kiss Me,http://dbpedia.org/resource/Changed_the_Way_You_Kiss_Me,http://dbpedia.org/resource/When_You_Kiss_Me
+0,31,When You're Gone,http://dbpedia.org/resource/When_You're_Gone_(Avril_Lavigne_song),http://dbpedia.org/resource/When_You're_Gone_(Cranberries_song) http://dbpedia.org/resource/When_You're_Gone_(The_Cranberries_song)
+0,33,When Will You Fall For Me,http://dbpedia.org/resource/When_Will_You_Fall_for_Me,http://dbpedia.org/resource/When_Will_You_Fall_For_Me
+0,36,When We Were Young,http://dbpedia.org/resource/When_We_Were_Young_(Take_That_song),http://dbpedia.org/resource/When_We_Were_Young_(Bucks_Fizz_song) http://dbpedia.org/resource/When_We_Were_Young_(Bucks_Fizz_single)
+0,37,When We Were Young,http://dbpedia.org/resource/When_We_Were_Young_(Take_That_song),http://dbpedia.org/resource/When_We_Were_Young_(Adele_song)
+0,48,When Somebody Loves You,http://dbpedia.org/resource/When_Somebody_Loves_You_(Restless_Heart_song),http://dbpedia.org/resource/When_Somebody_Loves_You_(Alan_Jackson_song)
+0,64,When I Was Your Girl,http://dbpedia.org/resource/When_I_Was_Your_Man,http://dbpedia.org/resource/When_I_Was_Your_Girl_(song) http://dbpedia.org/resource/When_I_Was_Your_Girl
+0,65,When I Was Young,,http://dbpedia.org/resource/When_I_Was_Young http://dbpedia.org/resource/A_Girl_Named_Sandoz
+0,76,When I Lost You,http://dbpedia.org/resource/When_I_Look_at_You,http://dbpedia.org/resource/When_I_Lost_You_(Sarah_Whatmore_song)
+0,79,When I Grow Up,http://dbpedia.org/resource/When_I_Grow_Up_(To_Be_a_Man),http://dbpedia.org/resource/When_I_Grow_Up_(Garbage_song)
+0,85,When I Close My Eyes,http://dbpedia.org/resource/When_I_Close_My_Eyes_(Keith_Palmer_song),http://dbpedia.org/resource/When_I_Close_My_Eyes_(Shanice_song)
+0,88,When I'm Gone,http://dbpedia.org/resource/When_I'm_Gone_(Eminem_song),http://dbpedia.org/resource/When_I'm_Gone_(Simple_Plan_song) http://dbpedia.org/resource/When_I'm_Gone_(Simple_Plan_song))
+0,89,When I'm Gone,http://dbpedia.org/resource/When_I'm_Gone_(Eminem_song),http://dbpedia.org/resource/When_I'm_Gone_(Motown_song) http://dbpedia.org/resource/When_I'm_Gone_(Brenda_Holloway_song)
+0,92,When He's Gone,http://dbpedia.org/resource/When_I'm_Gone_(Eminem_song),http://dbpedia.org/resource/When_He's_Gone
+0,99,When Boy Meets Boy,http://dbpedia.org/resource/When_Boy_Meets_Girl,http://dbpedia.org/resource/When_Boy_Meets_Boy
+0,102,When,http://dbpedia.org/resource/When_Doves_Cry,http://dbpedia.org/resource/When_(1958_song) http://dbpedia.org/resource/When_(The_Kalin_Twins_song)
+0,103,When,http://dbpedia.org/resource/When_Doves_Cry,http://dbpedia.org/resource/When_(Shania_Twain_song)
+0,104,When,http://dbpedia.org/resource/When_Doves_Cry,http://dbpedia.org/resource/When_(Amanda_Lear_song)
+0,106,Wheels,http://dbpedia.org/resource/Wheels_(Foo_Fighters_song),http://dbpedia.org/resource/Wheels_(Restless_Heart_song)

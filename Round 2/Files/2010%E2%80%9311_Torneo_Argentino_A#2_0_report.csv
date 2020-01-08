@@ -1,0 +1,6 @@
+"F1: 0.50000","Precision: 0.50000","Recall: 0.50000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","2","Central CÃ³rdoba","http://dbpedia.org/resource/Central_Córdoba_de_Rosario","http://dbpedia.org/resource/Central_Córdoba_de_Santiago_del_Estero"
+"0","5","Gimnasia y Esgrima","http://dbpedia.org/resource/Gimnasia_y_Esgrima_de_Mendoza","http://dbpedia.org/resource/Gimnasia_y_Esgrima_de_Concepción_del_Uruguay"
+"0","7","Libertad","http://dbpedia.org/resource/Club_Libertad","http://dbpedia.org/resource/CD_Libertad http://dbpedia.org/resource/Club_Deportivo_Libertad http://dbpedia.org/resource/Libertad_Sunchales http://dbpedia.org/resource/Libertad_de_Sunchales http://dbpedia.org/resource/Libertad_(Sunchales)"
+"0","8","UniÃ³n","http://dbpedia.org/resource/Unión_de_Santa_Fe","http://dbpedia.org/resource/Unión_de_Sunchales"

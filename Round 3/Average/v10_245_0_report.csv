@@ -1,0 +1,10 @@
+F1: 0.61905,Precision: 0.61905,Recall: 0.61905,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,T. Moloughney,http://dbpedia.org/resource/Tom_Moloughney_(footballer),http://dbpedia.org/resource/Tom_Moloughney
+0,5,P. Lawlor,http://dbpedia.org/resource/Pat_Lawlor_(hurler),http://dbpedia.org/resource/Peter_Lawlor_(hurler)
+0,10,J. Gray,http://dbpedia.org/resource/Julian_Gray,http://dbpedia.org/resource/Jimmy_Gray_(GAA) http://dbpedia.org/resource/Jimmy_Grey
+0,14,D. Murphy,http://dbpedia.org/resource/Dale_Murphy,http://dbpedia.org/resource/Diarmuid_Murphy
+0,15,D. Rooney,http://dbpedia.org/resource/Art_Rooney,http://dbpedia.org/resource/David_Rooney_(Gaelic_footballer)
+0,19,B. Murphy,"http://dbpedia.org/resource/Brian_Murphy_(hurler,_born_1982)","http://dbpedia.org/resource/Brian_Murphy_(hurler,_born_1952) http://dbpedia.org/resource/Brian_Murphy_(dual_player) http://dbpedia.org/resource/Brian_Murphy_(Gaelic_athletics) http://dbpedia.org/resource/Brian_Murphy_(Gaelic_games) http://dbpedia.org/resource/Brian_Murphy_(1970s_Gaelic_footballer)"
+0,20,B. Campion,http://dbpedia.org/resource/Bill_Campion,http://dbpedia.org/resource/Brian_Campion_(hurler)
+0,21,A. Kennedy,http://dbpedia.org/resource/Andrew_Kennedy_(basketball),http://dbpedia.org/resource/Alan_Kennedy_(hurler)

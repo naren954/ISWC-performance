@@ -1,0 +1,7 @@
+"F1: 0.75000","Precision: 0.75000","Recall: 0.75000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","4","Something Something","http://dbpedia.org/resource/Something,_Something,_Something,_Dark_Side","http://dbpedia.org/resource/Something_Something_(film)"
+"1","9","Veeram","http://dbpedia.org/resource/Veeram_(2014_film)","http://dbpedia.org/resource/Vinayagam_Brothers http://dbpedia.org/resource/Thala54 http://dbpedia.org/resource/Veeram_(film) http://dbpedia.org/resource/Veerudokkade http://dbpedia.org/resource/Veeram http://dbpedia.org/resource/Veeram_(soundtrack) http://dbpedia.org/resource/Thala_54"
+"1","14","Inimey Ippadithaan","nan","http://dbpedia.org/resource/Inimey_Ippadithaan http://dbpedia.org/resource/Inimey_Ippadithan"
+"1","18","Puli","http://dbpedia.org/resource/Puli_(2015_film)","http://dbpedia.org/resource/Hungarian_sheepdog http://dbpedia.org/resource/Hungarian_Puli http://dbpedia.org/resource/Puli http://dbpedia.org/resource/Hungarian_puli"
+"1","23","Dynamite","http://dbpedia.org/resource/Napoleon_Dynamite","http://dbpedia.org/resource/Dynamite_(2015_film)"

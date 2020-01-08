@@ -1,0 +1,8 @@
+"F1: 0.94545","Precision: 0.94545","Recall: 0.94545"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"2","1","Green Desert","http://dbpedia.org/resource/Green_Desert_(horse)","http://dbpedia.org/resource/Green_Desert"
+"2","12","Reform","http://dbpedia.org/resource/Reform_Club","http://dbpedia.org/resource/Reform_(horse)"
+"2","50","Observatory","http://dbpedia.org/resource/Palomar_Observatory","http://dbpedia.org/resource/Observatory_(horse)"
+"2","61","Kashmir","nan","http://dbpedia.org/resource/Kashmir_(horse)"
+"2","77","Roberto","http://dbpedia.org/resource/Roberto_Marinho","http://dbpedia.org/resource/Roberto_(horse)"
+"2","84","Easton","http://dbpedia.org/resource/Nicholas_Easton","http://dbpedia.org/resource/Easton_(horse)"

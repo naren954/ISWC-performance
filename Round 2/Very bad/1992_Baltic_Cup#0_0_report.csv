@@ -1,0 +1,5 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Lithuania,http://dbpedia.org/resource/Lithuania,http://dbpedia.org/resource/Lithuanian_National_Football_Team http://dbpedia.org/resource/Lithuania_national_football_team http://dbpedia.org/resource/Lithuanian_national_football_team http://dbpedia.org/resource/Lithuanian_national_soccer_team
+0,2,Latvia,http://dbpedia.org/resource/Latvia,http://dbpedia.org/resource/Latvia_national_football_team http://dbpedia.org/resource/Latvian_national_football_team
+0,3,Estonia,http://dbpedia.org/resource/Estonia,http://dbpedia.org/resource/Estonia_national_football_team http://dbpedia.org/resource/Jalgpallihaigla http://dbpedia.org/resource/Estonian_national_football_team

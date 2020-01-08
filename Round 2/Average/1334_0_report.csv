@@ -1,0 +1,42 @@
+F1: 0.73510,Precision: 0.73510,Recall: 0.73510,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,K. C. James,http://dbpedia.org/resource/Angus_Ogilvy,http://dbpedia.org/resource/Kay_Coles_James
+0,2,K. Corrigan,http://dbpedia.org/resource/Dominic_Corrigan,http://dbpedia.org/resource/Kathy_Corrigan
+0,9,"Karol Stanisław ""Panie Kochanku"" Radziwiłł",http://dbpedia.org/resource/Karol_Stanisław_Radziwiłł_(1734–1790),"http://dbpedia.org/resource/Karol_II_Stanislaw_Radziwill http://dbpedia.org/resource/Karol_Stanislaw_""Panie_Kochanku""_Radziwill http://dbpedia.org/resource/Karol_Stanisław_""Panie_Kochanku""_Radziwiłł"
+0,16,J. Srivastava,http://dbpedia.org/resource/Anil_Srivastava,http://dbpedia.org/resource/Jyotsana_Srivastava
+0,18,J. Trudeau,http://dbpedia.org/resource/Pierre_Trudeau,"http://dbpedia.org/resource/Justin_Pierre_James_Trudeau http://dbpedia.org/resource/Justin_P._J._Trudeau http://dbpedia.org/resource/Justin_Trudeau http://dbpedia.org/resource/Justin_P.J._Trudeau http://dbpedia.org/resource/Just_Trudeau http://dbpedia.org/resource/Justin_trudeau http://dbpedia.org/resource/Trudeau,_justin http://dbpedia.org/resource/Prime_Minister_Justin_Trudeau"
+0,21,J. Morgan,http://dbpedia.org/resource/James_Morgan_(congressman),http://dbpedia.org/resource/Julie_Morgan
+0,28,J. Verde,http://dbpedia.org/resource/Alessandro_Verde,http://dbpedia.org/resource/Juan_verde http://dbpedia.org/resource/Juan_Verde
+0,29,J. Perón,http://dbpedia.org/resource/Eva_Perón,http://dbpedia.org/resource/John_Peron http://dbpedia.org/resource/Juan_Domingo_Perón http://dbpedia.org/resource/Péron http://dbpedia.org/resource/Juan_D._Peron http://dbpedia.org/resource/Perón_Family http://dbpedia.org/resource/Juan_Perón http://dbpedia.org/resource/General_Peron http://dbpedia.org/resource/General_Perón http://dbpedia.org/resource/Juan_Peron http://dbpedia.org/resource/Juan_Domingo_Perón_Sosa http://dbpedia.org/resource/Aurelia_Perón http://dbpedia.org/resource/Juan_Domingo_PeroN http://dbpedia.org/resource/Juan_Domingo_Peron http://dbpedia.org/resource/Perón http://dbpedia.org/resource/Peron http://dbpedia.org/resource/Aurelia_Tizon
+0,36,J. M. Carrera,http://es.dbpedia.org/resource/Juan_Antonio_Santa_María_Carrera,http://dbpedia.org/resource/José_Miguel_de_la_Carrera_y_Verdugo http://dbpedia.org/resource/José_Carrera http://dbpedia.org/resource/Jose_Miguel_Carrera http://dbpedia.org/resource/Jose_Miguel_Carrera_Verdugo http://dbpedia.org/resource/José_Miguel_Carrera http://dbpedia.org/resource/Jose_Miguel_de_Carrera http://dbpedia.org/resource/José_Miguel_Carrera_Verdugo
+0,39,J. A. Páez,http://dbpedia.org/resource/A_Perfect_Day_for_Bananafish,"http://dbpedia.org/resource/José_Antonio_Páez http://dbpedia.org/resource/Páez,_José_Antonio http://dbpedia.org/resource/Jose_Antonio_Paez http://dbpedia.org/resource/Paez,_Jose_Antonio"
+0,41,J. Hanan,http://dbpedia.org/resource/Ralph_Hanan,http://dbpedia.org/resource/Josiah_Hanan http://dbpedia.org/resource/Josiah_Alfred_Hanan
+0,42,J. Chamberlain,http://dbpedia.org/resource/Neville_Chamberlain,http://dbpedia.org/resource/Joshua_Lawrence_Chamberlain http://dbpedia.org/resource/Colonel_Joshua_Lawrence_Chamberlain http://dbpedia.org/resource/Joshua_Chamberlain http://dbpedia.org/resource/Joshua_L._Chamberlain http://dbpedia.org/resource/Col._Joshua_Lawrence_Chamberlain http://dbpedia.org/resource/Joshua_Chamberlin http://dbpedia.org/resource/Lawrence_Joshua_Chamberlain http://dbpedia.org/resource/Lawrence_J._Chamberlain http://dbpedia.org/resource/Lawrence_Chamberlain http://dbpedia.org/resource/J._L._Chamberlain http://dbpedia.org/resource/Major_General_Joshua_Chamberlain http://dbpedia.org/resource/Colonel_Chamberlain
+0,43,J. Platt,http://dbpedia.org/resource/John_Platt_(MP),http://dbpedia.org/resource/Joseph_Platt
+0,48,J. Cook,http://dbpedia.org/resource/John_Pope_Cook,"http://dbpedia.org/resource/Joseph_Cook http://dbpedia.org/resource/Cook,_Joseph http://dbpedia.org/resource/Sir_Joseph_Cook"
+0,52,J. M. Carrera,http://es.dbpedia.org/resource/Juan_Antonio_Santa_María_Carrera,http://dbpedia.org/resource/José_Miguel_de_la_Carrera_y_Verdugo http://dbpedia.org/resource/José_Carrera http://dbpedia.org/resource/Jose_Miguel_Carrera http://dbpedia.org/resource/Jose_Miguel_Carrera_Verdugo http://dbpedia.org/resource/José_Miguel_Carrera http://dbpedia.org/resource/Jose_Miguel_de_Carrera http://dbpedia.org/resource/José_Miguel_Carrera_Verdugo
+0,55,J. A. Páez,http://dbpedia.org/resource/A_Perfect_Day_for_Bananafish,"http://dbpedia.org/resource/Páez,_José_Antonio http://dbpedia.org/resource/Jose_Antonio_Paez http://dbpedia.org/resource/Paez,_Jose_Antonio http://dbpedia.org/resource/José_Antonio_Páez"
+0,59,J. Sullivan,http://dbpedia.org/resource/James_Sullivan_(governor),http://dbpedia.org/resource/Jon_Sullivan
+0,64,J. Read,http://dbpedia.org/resource/Jacob_Read,http://dbpedia.org/resource/John_Read_(Connecticut_politician)
+0,78,J. H. Lee,http://dbpedia.org/resource/J._Bracken_Lee,http://dbpedia.org/resource/John_H._Lee_(Connecticut)
+0,87,J. Deming,http://dbpedia.org/resource/Val_Demings,http://dbpedia.org/resource/John_Deming
+0,90,J. Copp,http://dbpedia.org/resource/Sheila_Copps,http://dbpedia.org/resource/John_Copp
+0,97,J. Betts,http://dbpedia.org/resource/John_Betts_(Canadian_politician),http://dbpedia.org/resource/John_Betts_(Connecticut_politician)
+0,98,J. B. Jr.,http://dbpedia.org/resource/Bill_Clinton,"http://dbpedia.org/resource/John_Betts,_Jr. http://dbpedia.org/resource/John_Betts,_Jr"
+0,99,J. Benedict,http://dbpedia.org/resource/Julius_Benedict,http://dbpedia.org/resource/John_Benedict
+0,101,J. Bartlett,http://dbpedia.org/resource/Josiah_Bartlett,http://dbpedia.org/resource/John_Bartlett_(Connecticut_politician)
+0,104,J. Clark,http://dbpedia.org/resource/James_Clark_(Kentucky),"http://dbpedia.org/resource/Clark,_Joe http://dbpedia.org/resource/Joe_Clark http://dbpedia.org/resource/Joe_clark http://dbpedia.org/resource/Charles_Joseph_Clark"
+0,107,J. Crespo,http://pt.dbpedia.org/resource/José_Caldini_Crespo,http://dbpedia.org/resource/Joaquín_Crespo http://dbpedia.org/resource/Joaquin_Crespo http://dbpedia.org/resource/President_Crespo
+0,108,J. Campbell,http://dbpedia.org/resource/Jodie_Campbell,http://dbpedia.org/resource/Joanne_Campbell_(politician)
+0,116,J. Fitzpatrick,http://dbpedia.org/resource/Charles_Fitzpatrick,http://dbpedia.org/resource/Jim_Fitzpatrick_(politician)
+0,123,J. Clarke,http://dbpedia.org/resource/John_Clarke_(Baptist_minister),http://dbpedia.org/resource/Jeremy_Clarke_(governor) http://dbpedia.org/resource/Jeremy_Clarke_(Governor)
+0,124,J. McAllister,http://dbpedia.org/resource/David_McAllister,http://dbpedia.org/resource/Jenny_McAllister
+0,130,J. D. Davis,http://dbpedia.org/resource/Joseph_J._Davis,http://dbpedia.org/resource/Jeannemarie_Devolites-Davis http://dbpedia.org/resource/Jeannemarie_Devolites_Davis
+0,133,J. Hay,"http://dbpedia.org/resource/Lord_John_Hay_(Royal_Navy_officer,_born_1827)",http://dbpedia.org/resource/Jean_Hay
+0,135,J. Carnahan,http://dbpedia.org/resource/A._S._J._Carnahan,http://dbpedia.org/resource/Jean_Anne_Carpenter_Carnahan http://dbpedia.org/resource/Jean_Carnahan
+0,137,J. Germain,http://dbpedia.org/resource/Jean_Germain_(politician),http://dbpedia.org/resource/Jean-Marc_Germain
+0,139,J. Bertrand,http://dbpedia.org/resource/Jean-Michel_Bertrand,http://dbpedia.org/resource/Jean-Jacques_Bertrand http://dbpedia.org/resource/Jean_Jacques_Bertrand
+0,144,J. Howard,http://dbpedia.org/resource/John_Howard,http://dbpedia.org/resource/Janette_Parker http://dbpedia.org/resource/Janette_Howard
+0,146,J. Cobden,http://dbpedia.org/resource/Richard_Cobden,http://dbpedia.org/resource/Jane_Cobden_Unwin http://dbpedia.org/resource/Jane_Cobden http://dbpedia.org/resource/Jane_Unwin http://dbpedia.org/resource/Jane_Cobden-Unwin
+0,147,J. Barton,http://dbpedia.org/resource/Edmund_Barton,http://dbpedia.org/resource/Jane_Barton http://dbpedia.org/resource/Jane_Barton_(Australian)
+0,151,J. Raskin,http://dbpedia.org/resource/John_Ruskin,http://dbpedia.org/resource/Jamie_raskin http://dbpedia.org/resource/Jaime_Raskin http://dbpedia.org/resource/Jamin_Raskin http://dbpedia.org/resource/Jamie_Raskin

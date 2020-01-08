@@ -1,0 +1,4 @@
+"F1: 0.33333","Precision: 0.33333","Recall: 0.33333"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","1","genitive, ergative, instrumental","http://dbpedia.org/resource/Grammatical_case","http://dbpedia.org/resource/Genitive http://dbpedia.org/resource/Genitival http://dbpedia.org/resource/Subjective_genitive http://dbpedia.org/resource/Second_case http://dbpedia.org/resource/Genetive http://dbpedia.org/resource/Partitive_genitive http://dbpedia.org/resource/Genitive_case http://dbpedia.org/resource/Genetive_case http://dbpedia.org/resource/Genitive_in_English http://dbpedia.org/resource/Genitive_form http://dbpedia.org/resource/Genitive_plural"
+"1","2","locative, allative, dative","http://dbpedia.org/resource/Allative_case","http://dbpedia.org/resource/Locative http://dbpedia.org/resource/Locative_(case) http://dbpedia.org/resource/Locative_case"

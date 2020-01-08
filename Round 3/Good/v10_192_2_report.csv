@@ -1,0 +1,17 @@
+F1: 0.88889,Precision: 0.88889,Recall: 0.88889,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,3,Bob Andrews,http://dbpedia.org/resource/Bob_Andrews_(guitarist),http://dbpedia.org/resource/Bob_Andrews_(keyboardist)
+2,6,Punch Andrews,http://dbpedia.org/resource/Cassie_Andrews,"http://dbpedia.org/resource/Punch_Andrews http://dbpedia.org/resource/Edward_Punch_Andrews http://dbpedia.org/resource/Edward_""Punch""_Andrews"
+2,13,Yung Gud,http://dbpedia.org/resource/Yung_Joc,http://dbpedia.org/resource/Yung_Gud
+2,18,Tim Smith,http://dbpedia.org/resource/T._V._Smith,http://dbpedia.org/resource/Tim_Smith_(Cardiacs)
+2,22,Miles Kurosky,http://dbpedia.org/resource/Miles_White,http://dbpedia.org/resource/Miles_Kurosky http://dbpedia.org/resource/Beulah_(band) http://dbpedia.org/resource/Desert_of_Shallow_Effects
+2,64,Dai Nagao,http://fr.dbpedia.org/resource/Dai_Nagao,http://dbpedia.org/resource/Do_as_Infinity http://dbpedia.org/resource/Jun_Takase http://dbpedia.org/resource/Do_As_Infinity http://dbpedia.org/resource/Naoki_Hayashibe http://dbpedia.org/resource/Dai_Nagao http://dbpedia.org/resource/Jun_Matsumoto_(drummer) http://dbpedia.org/resource/D-A-I http://dbpedia.org/resource/Yoshiyasu_Hayashi http://dbpedia.org/resource/GREAT_TOUR_BAND http://dbpedia.org/resource/D·A·I
+2,66,Bob Porter,http://dbpedia.org/resource/Robert_Harold_Porter,http://dbpedia.org/resource/Bob_Porter_(record_producer)
+2,80,Muff Winwood,http://dbpedia.org/resource/Steve_Winwood,http://dbpedia.org/resource/Muff_Winwood
+2,89,Brian Higgins,http://dbpedia.org/resource/Brian_Higgins,http://dbpedia.org/resource/Brian_Higgins_(producer)
+2,99,Star Records,http://dbpedia.org/resource/Jeffree_Star,http://dbpedia.org/resource/Star_Songs http://dbpedia.org/resource/Star_Records http://dbpedia.org/resource/Star_Music
+2,114,Coldplay,http://dbpedia.org/resource/Chris_Martin,http://dbpedia.org/resource/The_Coldplay http://dbpedia.org/resource/Coldpaly http://dbpedia.org/resource/Cold_Play http://dbpedia.org/resource/Coldplay http://dbpedia.org/resource/Cold_play http://dbpedia.org/resource/Clodplay http://dbpedia.org/resource/ColdPlay http://dbpedia.org/resource/Coldplay.com http://dbpedia.org/resource/Cold-Play http://dbpedia.org/resource/Colplay http://dbpedia.org/resource/Coldplay_(band) http://dbpedia.org/resource/Cold-play
+2,117,Rhett Lawrence,http://dbpedia.org/resource/Rhett_Forrester,http://dbpedia.org/resource/Rhett_Lawrence http://dbpedia.org/resource/James_Everette_Lawrence
+2,122,Donald XL Robertson,http://dbpedia.org/resource/Don_Robertson_(songwriter),http://dbpedia.org/resource/Donald_XL_Robertson http://dbpedia.org/resource/Donald_Robertson_(producer)
+2,126,Jack Frost,http://dbpedia.org/resource/Bob_Dylan,http://dbpedia.org/resource/Jack_Frost_(musician)
+2,129,Eric Hudson,http://dbpedia.org/resource/Garth_Hudson,http://dbpedia.org/resource/Eric_hudson http://dbpedia.org/resource/Eric_Hudson

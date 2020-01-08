@@ -1,0 +1,6 @@
+F1: 0.95789,Precision: 0.95789,Recall: 0.95789,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,23,Enix,http://dbpedia.org/resource/Square_Enix,"http://dbpedia.org/resource/Enix_America,_Inc. http://dbpedia.org/resource/Enix_Co,_Ltd. http://dbpedia.org/resource/Enix_America_Corporation http://dbpedia.org/resource/Enix http://dbpedia.org/resource/Yasuhiro_Fukushima http://dbpedia.org/resource/Enix_America"
+1,43,Fujimi Shobo,http://dbpedia.org/resource/Kadokawa_Shoten,http://dbpedia.org/resource/富士見書房 http://dbpedia.org/resource/Fujimi_Shobo http://dbpedia.org/resource/Fujimi_Shobō
+1,67,MediaWorks,http://dbpedia.org/resource/ASCII_Media_Works,"http://dbpedia.org/resource/Media_Works,Inc http://dbpedia.org/resource/MediaWorks_(publisher) http://dbpedia.org/resource/Dengeki_G's_Bunko"
+1,81,Fujimi Shobo,http://dbpedia.org/resource/Kadokawa_Shoten,http://dbpedia.org/resource/富士見書房 http://dbpedia.org/resource/Fujimi_Shobo http://dbpedia.org/resource/Fujimi_Shobō

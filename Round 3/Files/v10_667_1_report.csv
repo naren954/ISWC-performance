@@ -1,0 +1,5 @@
+"F1: 0.95312","Precision: 0.95312","Recall: 0.95312"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","26","Valediction","http://dbpedia.org/resource/Valediction_(Agent_Carter)","http://dbpedia.org/resource/Valediction_(novel)"
+"1","38","Lincoln","http://dbpedia.org/resource/Lincoln_(album)","http://dbpedia.org/resource/Lincoln_(novel)"
+"1","40","John Adams","http://dbpedia.org/resource/John_Adams_(composer)","http://dbpedia.org/resource/John_Adams_(book)"

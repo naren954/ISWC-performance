@@ -1,0 +1,23 @@
+F1: 0.82203,Precision: 0.82203,Recall: 0.82203,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Yarmouth,http://dbpedia.org/resource/Yarmouth_Castle,"http://dbpedia.org/resource/Yarmouth_(Cambridge,_Maryland)"
+0,2,Yard-Groesbeck House,http://dbpedia.org/resource/Groesbeck_House,http://dbpedia.org/resource/Yard-Groesbeck_House
+0,8,Yancey Collegiate Institute Historic District,http://dbpedia.org/resource/Buckingham_Female_Collegiate_Institute_Historic_District,http://dbpedia.org/resource/Yancey_Collegiate_Institute_Historic_District
+0,19,Yadkin College Historic District,http://dbpedia.org/resource/Elon_College_Historic_District,http://dbpedia.org/resource/Yadkin_College_Historic_District
+0,23,YWCA Building,"http://dbpedia.org/resource/YWCA_Building_(Peoria,_Illinois)","http://dbpedia.org/resource/YWCA_Building_(Honolulu,_Hawaii) http://dbpedia.org/resource/YWCA_Building,_Honolulu,_Hawaii"
+0,24,YWCA Building,"http://dbpedia.org/resource/YWCA_Building_(Peoria,_Illinois)","http://dbpedia.org/resource/Young_Women's_Christian_Association_(Colorado_Springs,_Colorado) http://dbpedia.org/resource/Y.W.C.A._Building http://dbpedia.org/resource/YWCA_Building_(Colorado_Springs,_Colorado)"
+0,27,YWCA,http://dbpedia.org/resource/Wilcannia_Airport,"http://dbpedia.org/resource/YWCA_(Muncie,_Indiana)"
+0,28,YWCA,http://dbpedia.org/resource/Wilcannia_Airport,"http://dbpedia.org/resource/YWCA_(Evansville,_Indiana)"
+0,32,YMCA,"http://dbpedia.org/resource/YMCA_(Salem,_Massachusetts)","http://dbpedia.org/resource/YMCA_(Evansville,_Indiana)"
+0,33,YMCA,"http://dbpedia.org/resource/YMCA_(Salem,_Massachusetts)","http://dbpedia.org/resource/YMCA_(East_Liverpool,_Ohio)"
+0,34,YMCA-Democrat Building,http://dbpedia.org/resource/Democrat_Building,http://dbpedia.org/resource/YMCA-Democrat_Building
+0,36,Y-Bridge,"http://dbpedia.org/resource/Y-Bridge_(Galena,_Missouri)","http://dbpedia.org/resource/Y-Bridge_(Zanesville,_Ohio) http://dbpedia.org/resource/Zanesville_Y-Bridge"
+0,47,Wysor Heights Historic District,http://dbpedia.org/resource/Hamilton_Heights_Historic_District,http://dbpedia.org/resource/Wysor_Heights_Historic_District
+0,49,Wyoming State Insane Asylum,http://dbpedia.org/resource/Oregon_State_Hospital,http://dbpedia.org/resource/The_Wyoming_State_Insane_Asylum http://dbpedia.org/resource/Wyoming_State_Hospital http://dbpedia.org/resource/Wyoming_State_Insane_Asylum http://dbpedia.org/resource/The_Wyoming_State_Hospital
+0,51,Wyoming Railroad Station,http://dbpedia.org/resource/Wyoming_station_(Delaware),http://dbpedia.org/resource/Wyoming_Railroad_Station
+0,53,Wyoming Governor's Mansion,http://dbpedia.org/resource/Florida_Governor's_Mansion,"http://dbpedia.org/resource/Governor's_Mansion_(Cheyenne,_Wyoming) http://dbpedia.org/resource/Wyoming_Governor's_Mansion"
+0,56,Wyoming,http://dbpedia.org/resource/Wyoming,"http://dbpedia.org/resource/Wyoming_(Studley,_Virginia)"
+0,57,Wyoming,http://dbpedia.org/resource/Wyoming,"http://dbpedia.org/resource/Wyoming_(Clinton,_Maryland)"
+0,63,Wynne Commercial Historic District,http://dbpedia.org/resource/Sylvester_Commercial_Historic_District,http://dbpedia.org/resource/Wynne_Commercial_Historic_District
+0,95,Wright Tavern,http://dbpedia.org/resource/Wright's_Tavern,"http://dbpedia.org/resource/Wright_Tavern_(Wentworth,_North_Carolina)"
+0,101,Wright House,"http://dbpedia.org/resource/Wright_House_(Newark,_Delaware)","http://dbpedia.org/resource/Wright_House_(Somerville,_Massachusetts)"

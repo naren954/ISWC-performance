@@ -1,0 +1,11 @@
+F1: 0.80000,Precision: 0.80000,Recall: 0.80000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,Look,http://dbpedia.org/resource/The_Look,http://dbpedia.org/resource/Look_(Song_for_Children) http://dbpedia.org/resource/Song_For_Children http://dbpedia.org/resource/Look_(The_Beach_Boys_song)
+0,6,Little Girl,http://dbpedia.org/resource/Little_Bad_Girl,http://dbpedia.org/resource/Little_Girl_(You're_My_Miss_America)
+0,10,Lies,http://dbpedia.org/resource/Lies_(McFly_song),http://dbpedia.org/resource/Lies_(Rolling_Stones_song) http://dbpedia.org/resource/Lies_(The_Rolling_Stones_song)
+0,12,Lazy,http://dbpedia.org/resource/The_Lazy_Song,http://dbpedia.org/resource/Lazy_(Deep_Purple_song)
+0,20,It's Only Love,http://dbpedia.org/resource/It's_Only_Love_(Bryan_Adams_song),http://dbpedia.org/resource/It's_Only_Love_(The_Beatles_song) http://dbpedia.org/resource/It's_Only_Love_(song) http://dbpedia.org/resource/It`s_only_love http://dbpedia.org/resource/It's_Only_Love
+0,22,Isolation,http://dbpedia.org/resource/Isolation_(Toto_album),http://dbpedia.org/resource/Isolation_(Joy_Division) http://dbpedia.org/resource/Isolation_(Joy_Division_song)
+0,23,In the Pines,http://dbpedia.org/resource/In_the_Pines_(album),http://dbpedia.org/resource/In_The_Pines http://dbpedia.org/resource/Wdysln http://dbpedia.org/resource/In_the_Pines http://dbpedia.org/resource/Where_Did_You_Sleep_Last_Night http://dbpedia.org/resource/In_the_Pines_(Where_Did_You_Sleep_Last_Night?) http://dbpedia.org/resource/Where_Did_You_Sleep_Last_Night? http://dbpedia.org/resource/In_The_Pines_(Where_Did_You_Sleep_Last_Night?) http://dbpedia.org/resource/The_Longest_Train
+0,30,I Want You,http://dbpedia.org/resource/I_Want_You_(Bob_Dylan_song),http://dbpedia.org/resource/I_want_you_(she's_so_heavy) http://dbpedia.org/resource/I_Want_You_(Beatles_song) http://dbpedia.org/resource/I_Want_You_Beatles http://dbpedia.org/resource/I_Want_You_(The_Beatles_song) http://dbpedia.org/resource/I_Want_You_(She's_So_Heavy)
+0,35,I Love You,,http://dbpedia.org/resource/I_Love_You_(The_Zombies_song)

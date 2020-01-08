@@ -1,0 +1,5 @@
+F1: 0.76923,Precision: 0.76923,Recall: 0.76923,,
+Col,Row,Value,Submitted URI,Correct URI's
+6,8,Scott Martin,http://dbpedia.org/resource/Scott_Martin_(racing_driver),http://dbpedia.org/resource/Scott_Martin_(co-driver)
+6,11,Scott Martin,http://dbpedia.org/resource/Scott_Martin_(racing_driver),http://dbpedia.org/resource/Scott_Martin_(co-driver)
+6,16,Daniel Barritt,http://dbpedia.org/resource/Ron_Barritt,http://dbpedia.org/resource/Daniel_Barritt

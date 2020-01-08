@@ -1,0 +1,5 @@
+"F1: 0.85714","Precision: 0.85714","Recall: 0.85714"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","12","Fort Washington, Pennsylvania","http://dbpedia.org/resource/Washington,_Pennsylvania","http://dbpedia.org/resource/Fort_Washington_(PA) http://dbpedia.org/resource/Fort_Washington,_Pennsylvania http://dbpedia.org/resource/Fort_Washington,_PA http://dbpedia.org/resource/UN/LOCODE:USQFW"
+"0","14","Candelária","http://dbpedia.org/resource/Candelária,_Rio_Grande_do_Sul","http://dbpedia.org/resource/Candelaria_(Madalena) http://dbpedia.org/resource/Candelária_(Madalena)"
+"0","17","Alessandria","http://dbpedia.org/resource/Alexandria","http://dbpedia.org/resource/Alessandria,_Italy http://dbpedia.org/resource/History_of_Alessandria http://dbpedia.org/resource/Alessandria http://dbpedia.org/resource/UN/LOCODE:ITALE"

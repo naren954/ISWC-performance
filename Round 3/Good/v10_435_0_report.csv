@@ -1,0 +1,19 @@
+F1: 0.80899,Precision: 0.80899,Recall: 0.80899,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,9,The Weakest Link,http://dbpedia.org/resource/The_Weakest_Link_(Australian_game_show),http://dbpedia.org/resource/The_Weakest_Link_(UK) http://dbpedia.org/resource/The_Weakest_Link_(UK_game_show)
+0,13,The Three Musketeers,http://dbpedia.org/resource/The_Three_Musketeers_(2013_film),http://dbpedia.org/resource/The_Three_Musketeers_(puppetry)
+0,14,The Temptations,http://dbpedia.org/resource/Meet_the_Temptations,http://dbpedia.org/resource/The_Temptations_(miniseries) http://dbpedia.org/resource/The_Temptations_(TV_miniseries)
+0,24,The Restaurant,http://dbpedia.org/resource/Restaurant_(magazine),http://dbpedia.org/resource/The_Restaurant_(UK_TV_Series) http://dbpedia.org/resource/The_Restaurant_(UK_TV_series) http://dbpedia.org/resource/Last_Restaurant_Standing
+0,28,The Price Is Right,http://dbpedia.org/resource/The_Price_Is_Right_(American_game_show),http://dbpedia.org/resource/The_Price_is_Right_(Australian_game_show) http://dbpedia.org/resource/The_Price_Is_Right_(Australian_game_show)
+0,39,The Late Show,http://dbpedia.org/resource/Late_Show_with_David_Letterman,http://dbpedia.org/resource/The_Late_Show_Starring_Joan_Rivers http://dbpedia.org/resource/The_Late_Show_(1980s_TV_series) http://dbpedia.org/resource/The_Late_Show_(1986_TV_series) http://dbpedia.org/resource/The_Late_Show_(FOX_TV_series) http://dbpedia.org/resource/The_Late_Show_(Fox_TV_series)
+0,41,The Joker's Wild,http://dbpedia.org/resource/The_Joker_Is_Wild,http://dbpedia.org/resource/List_of_Joker's_Wild_Categories http://dbpedia.org/resource/Joker/Joker/Joker http://dbpedia.org/resource/Joker!_Joker!!_Joker!!! http://dbpedia.org/resource/The_Joker's_Wild http://dbpedia.org/resource/Unlikely_Pairs http://dbpedia.org/resource/The_Jokers_Wild
+0,42,The Jerry Lewis Show,http://dbpedia.org/resource/Will_the_Real_Jerry_Lewis_Please_Sit_Down,http://dbpedia.org/resource/The_Jerry_Lewis_Show
+0,44,The Invaders,http://dbpedia.org/resource/Invader_Zim,"http://dbpedia.org/resource/Invaders,_The http://dbpedia.org/resource/The_Invaders"
+0,45,The Hunt,http://dbpedia.org/resource/The_Witcher_3:_Wild_Hunt,http://dbpedia.org/resource/The_Hunt_(BBC_series)
+0,50,The Great War,http://dbpedia.org/resource/Britain's_Great_War,http://dbpedia.org/resource/The_Great_War_(documentary)
+0,54,The Edge,http://dbpedia.org/resource/Edge_(magazine),http://dbpedia.org/resource/The_Edge_(FOX_TV_series) http://dbpedia.org/resource/The_Edge_(1992-1993_TV_series) http://dbpedia.org/resource/The_Edge_(TV_series) http://dbpedia.org/resource/The_Edge_(Fox_TV_series)
+0,58,The Challengers,http://dbpedia.org/resource/The_Challengers_(film),http://dbpedia.org/resource/The_Challengers_(game_show)
+0,61,The Black Adder,http://dbpedia.org/resource/Blackadder,http://dbpedia.org/resource/Blackadder_I http://dbpedia.org/resource/The_Black_Adder http://dbpedia.org/resource/The_Blackadder http://dbpedia.org/resource/Natasha_King_(actor) http://dbpedia.org/resource/Blackadder_1 http://dbpedia.org/resource/The_Death_of_the_Scotsman http://dbpedia.org/resource/Mad_Gerald http://dbpedia.org/resource/Blackadder_the_First
+0,63,The Bible,http://dbpedia.org/resource/Bible,http://dbpedia.org/resource/The_Bible_(TV_series) http://dbpedia.org/resource/The_Bible_(TV_mini_series) http://dbpedia.org/resource/The_Bible_miniseries http://dbpedia.org/resource/The_Bible_(TV_miniseries) http://dbpedia.org/resource/The_Bible_(miniseries)
+0,64,The Bananas,http://dbpedia.org/resource/The_Banana_Splits,http://dbpedia.org/resource/The_Bananas_(TV_series)
+0,77,Superman,http://dbpedia.org/resource/Superman:_The_Animated_Series,http://dbpedia.org/resource/Superman_(TV_series) http://dbpedia.org/resource/Superman_(1988) http://dbpedia.org/resource/Ruby_Spears_Superman http://dbpedia.org/resource/Superman_(1988_TV_series) http://dbpedia.org/resource/Superman_ruby_spears

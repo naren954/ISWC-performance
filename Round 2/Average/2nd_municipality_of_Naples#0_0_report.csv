@@ -1,0 +1,4 @@
+F1: 0.66667,Precision: 0.66667,Recall: 0.66667,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,5,Porto,http://dbpedia.org/resource/Porto_District,"http://dbpedia.org/resource/Porto_(Naples) http://dbpedia.org/resource/Porto,_Naples"
+0,6,San Giuseppe,http://dbpedia.org/resource/San_Giuseppe_Jato,http://dbpedia.org/resource/San_Giuseppe_(Naples)

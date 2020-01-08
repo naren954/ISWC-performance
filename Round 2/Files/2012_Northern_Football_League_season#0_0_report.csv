@@ -1,0 +1,4 @@
+"F1: 0.80000","Precision: 0.80000","Recall: 0.80000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","4","Heidelberg Football Club","http://dbpedia.org/resource/Heidelberg_United_FC","http://dbpedia.org/resource/Heidelberg_Football_Club"
+"0","5","Lower Plenty Football Club","http://dbpedia.org/resource/WaiBOP_United","http://dbpedia.org/resource/Lower_Plenty_Football_Club"

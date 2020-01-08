@@ -1,0 +1,5 @@
+"F1: 0.70000","Precision: 0.70000","Recall: 0.70000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","1","Hanover S-Bahn","http://dbpedia.org/resource/Hanover,_New_Hampshire","http://dbpedia.org/resource/S-Bahn-Hannover http://dbpedia.org/resource/Hanover_S-Bahn http://dbpedia.org/resource/S-Bahn_Hannover"
+"0","5","Erie Metropolitan Transit Authority","http://dbpedia.org/resource/Maryland_Transit_Administration","http://dbpedia.org/resource/Erie_Metropolitan_Transit_Authority http://dbpedia.org/resource/Erie_Railways_Company http://dbpedia.org/resource/Buffalo_and_Lake_Erie_Traction_Company http://dbpedia.org/resource/Erie_Electric_Motor_Company http://dbpedia.org/resource/Erie_City_Passenger_Railway_Company http://dbpedia.org/resource/LIFT_(bus) http://dbpedia.org/resource/Erie_Coach_Company http://dbpedia.org/resource/Buffalo_&_Lake_Erie_Traction_Company"
+"0","10","Central Buses","http://dbpedia.org/resource/Slough","http://dbpedia.org/resource/Centrad http://dbpedia.org/resource/Central_Buses"

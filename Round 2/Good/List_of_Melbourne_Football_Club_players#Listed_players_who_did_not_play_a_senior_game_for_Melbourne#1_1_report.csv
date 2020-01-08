@@ -1,0 +1,19 @@
+F1: 0.88816,Precision: 0.88816,Recall: 0.88816,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,26,George Cathie,"http://dbpedia.org/resource/George_Cathie_(footballer,_born_1905)",http://dbpedia.org/resource/George_Cathie
+1,28,Les Rainey,http://dbpedia.org/resource/Chris_Rainey,http://dbpedia.org/resource/Les_Rainey http://dbpedia.org/resource/Leslie_Rainey
+1,32,Syd Anderson,"http://dbpedia.org/resource/Syd_Anderson_(footballer,_born_1918)","http://dbpedia.org/resource/Syd_B._Anderson http://dbpedia.org/resource/Syd_Anderson_(footballer,_born_1884)"
+1,41,Billy Bremner,http://dbpedia.org/resource/Billy_Bremner,http://dbpedia.org/resource/Billy_Bremner_(Australian_footballer)
+1,48,Fred Watson,http://dbpedia.org/resource/Fred_Watson_(Australian_footballer),http://dbpedia.org/resource/Fred_Watson_(footballer)
+1,61,Mark Gardner,http://dbpedia.org/resource/Mark_Gardner_(footballer),http://dbpedia.org/resource/Mark_Gardner_(Australian_rules_footballer)
+1,76,Willie Marshall,http://dbpedia.org/resource/Willie_Marshall_(ice_hockey),http://dbpedia.org/resource/William_Marshall_(Australian_footballer) http://dbpedia.org/resource/William_D._Marshall
+1,79,Jack McIntosh,http://dbpedia.org/resource/Jack_McIntosh_(Australian_footballer),http://dbpedia.org/resource/Jack_McIntosh_(footballer)
+1,88,Henry Smith,http://dbpedia.org/resource/Henry_Smith_(goalkeeper),http://dbpedia.org/resource/Henry_Smith_(Australian_footballer)
+1,92,Charlie Taylor,"http://dbpedia.org/resource/Charlie_Taylor_(footballer,_born_1884)","http://dbpedia.org/resource/Charlie_J._Taylor http://dbpedia.org/resource/Charlie_Taylor_(footballer,_born_1878)"
+1,116,Herbert Hill,http://dbpedia.org/resource/Herbert_Hill_(baseball),http://dbpedia.org/resource/Herbert_Hill_(footballer)
+1,117,Jim Fitzpatrick,http://dbpedia.org/resource/James_Fitzpatrick_(rugby_union),http://dbpedia.org/resource/Jim_Fitzpatrick_(footballer)
+1,131,George Martin,http://dbpedia.org/resource/George_Martin_(American_football),"http://dbpedia.org/resource/George_Martin_(footballer,_born_1883)"
+1,134,Jim Bonelli,http://es.dbpedia.org/resource/Camilo_Bonelli,http://dbpedia.org/resource/Jim_Bonella http://dbpedia.org/resource/Jim_Bonelli
+1,142,Bill Flintoft,http://dbpedia.org/resource/Bill_White_(ice_hockey),http://dbpedia.org/resource/Bill_Flintoft http://dbpedia.org/resource/William_Flintoft
+1,144,Jack Robertson,http://dbpedia.org/resource/Jack_Robertson_(English_cricketer),"http://dbpedia.org/resource/Jack_Robertson_(footballer,_born_1889)"
+1,153,George Woods,"http://dbpedia.org/resource/George_Wood_(cricketer,_born_1893)",http://dbpedia.org/resource/George_Woods_(footballer)

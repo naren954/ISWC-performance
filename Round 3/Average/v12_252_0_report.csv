@@ -1,0 +1,5 @@
+F1: 0.57143,Precision: 0.57143,Recall: 0.57143,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,W. Rockefeller,http://dbpedia.org/resource/Nelson_Rockefeller,http://dbpedia.org/resource/Winthrop_A._Rockefeller http://dbpedia.org/resource/Winthrop_Rockefeller http://dbpedia.org/resource/Winthrop_Rockerfeller_Jr.
+0,3,R. C. Moody,http://dbpedia.org/resource/Gideon_C._Moody,http://dbpedia.org/resource/Richards_Clement_Moody http://dbpedia.org/resource/Colonel_Moody http://dbpedia.org/resource/Colonel_R.C._Moody http://dbpedia.org/resource/R.C._Moody http://dbpedia.org/resource/Richard_Moody http://dbpedia.org/resource/Richard_Clement_Moody
+0,6,J. Bell,http://dbpedia.org/resource/John_Stewart_Bell,http://dbpedia.org/resource/John_Bell_(New_Hampshire) http://dbpedia.org/resource/John_Bell_(New_Hampshire_politician)

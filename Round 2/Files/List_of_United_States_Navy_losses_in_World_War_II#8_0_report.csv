@@ -1,0 +1,5 @@
+"F1: 0.00000","Precision: 0.00000","Recall: 0.00000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","1","Gamble","http://dbpedia.org/resource/Gambling","http://dbpedia.org/resource/USS_Gamble_(DM-15) http://dbpedia.org/resource/USS_Gamble_(DD-123) http://dbpedia.org/resource/USS_Gamble"
+"0","2","Miantonomah","http://dbpedia.org/resource/Miantonomoh","http://dbpedia.org/resource/USS_Miantonomah_(CMc-5) http://dbpedia.org/resource/USS_Miantonomah_(CM-10) http://dbpedia.org/resource/Miantonomah_(CM-10)"
+"0","3","Montgomery","http://dbpedia.org/resource/Bernard_Montgomery","http://dbpedia.org/resource/USS_Montgomery_(DM-17) http://dbpedia.org/resource/DD-121 http://dbpedia.org/resource/USS_Montgomery_(DD-121) http://dbpedia.org/resource/DM-17"

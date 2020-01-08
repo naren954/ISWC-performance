@@ -1,0 +1,4 @@
+F1: 0.77778,Precision: 0.77778,Recall: 0.77778,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,6,MeÄ\u0091imurje,,http://dbpedia.org/resource/Međimurje_County
+0,9,Zagreb,http://dbpedia.org/resource/Zagreb,http://dbpedia.org/resource/Zagrebacka_zupanija http://dbpedia.org/resource/Zagrebačka_županija http://dbpedia.org/resource/Zagreb_county http://dbpedia.org/resource/Zagreb_County http://dbpedia.org/resource/Zagrebačka_County

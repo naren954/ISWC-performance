@@ -1,0 +1,51 @@
+F1: 0.52885,Precision: 0.52885,Recall: 0.52885,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,Rose,http://dbpedia.org/resource/Rose_(heraldry),http://dbpedia.org/resource/Rose_bonbon http://dbpedia.org/resource/Persian_Pink http://dbpedia.org/resource/Rose_(colour) http://dbpedia.org/resource/Rose_(color) http://dbpedia.org/resource/Bazaar_(color) http://dbpedia.org/resource/Persian_pink http://dbpedia.org/resource/Rosy_(color) http://dbpedia.org/resource/American_Beauty_(color)
+0,4,Red-violet,http://dbpedia.org/resource/Phosphorus,http://dbpedia.org/resource/Pale_red-violet http://dbpedia.org/resource/Red-Violet http://dbpedia.org/resource/Violet_red http://dbpedia.org/resource/Purple_red http://dbpedia.org/resource/Red_purple http://dbpedia.org/resource/Red-purple http://dbpedia.org/resource/Reddish-purple http://dbpedia.org/resource/Reddish_purple http://dbpedia.org/resource/Purply_red http://dbpedia.org/resource/Red_Violet http://dbpedia.org/resource/Red-violet http://dbpedia.org/resource/Purply-red
+0,6,Raisin black,http://dbpedia.org/resource/Raisin,http://dbpedia.org/resource/Raisin_black
+0,9,Powder blue,http://dbpedia.org/resource/Ultramarine,http://dbpedia.org/resource/Powder_blue http://dbpedia.org/resource/Powder_blue_(color)
+0,18,Peach,http://dbpedia.org/resource/Peach_(fruit),http://dbpedia.org/resource/Papaya_Whip http://dbpedia.org/resource/Peach-yellow http://dbpedia.org/resource/Peach_color http://dbpedia.org/resource/Pale_orange http://dbpedia.org/resource/Peach_(colour) http://dbpedia.org/resource/Peach-orange http://dbpedia.org/resource/Deep_peach http://dbpedia.org/resource/Peach_(color) http://dbpedia.org/resource/Pink-orange http://dbpedia.org/resource/Dark_peach_(color)
+0,21,Orchid,http://dbpedia.org/resource/Orchid_Island,http://dbpedia.org/resource/Orchid_(colour) http://dbpedia.org/resource/Orchid_(color)
+0,24,Old gold,http://dbpedia.org/resource/Gold_(color),http://dbpedia.org/resource/Olivish_gold http://dbpedia.org/resource/Old_Golds http://dbpedia.org/resource/Goldish-olive http://dbpedia.org/resource/Old_gold http://dbpedia.org/resource/Olivishgolds http://dbpedia.org/resource/Olivegolds http://dbpedia.org/resource/Olivishgold http://dbpedia.org/resource/Goldenolive http://dbpedia.org/resource/Olive-golds http://dbpedia.org/resource/Gold_olive http://dbpedia.org/resource/Old_Gold http://dbpedia.org/resource/Olivish-gold http://dbpedia.org/resource/Goldolive http://dbpedia.org/resource/Gold-olive http://dbpedia.org/resource/Goldisholives http://dbpedia.org/resource/Goldish-olives http://dbpedia.org/resource/Olivegold http://dbpedia.org/resource/Goldisholive http://dbpedia.org/resource/Goldenolives http://dbpedia.org/resource/Gold_olives http://dbpedia.org/resource/Golden-olives http://dbpedia.org/resource/Golden_olive http://dbpedia.org/resource/Old_gold_(color) http://dbpedia.org/resource/Gold-olives http://dbpedia.org/resource/Old_Gold_(color) http://dbpedia.org/resource/Olive_gold http://dbpedia.org/resource/Olivish_golds http://dbpedia.org/resource/Goldish_olive http://dbpedia.org/resource/Golden_olives http://dbpedia.org/resource/Golden-olive http://dbpedia.org/resource/Goldolives http://dbpedia.org/resource/Olivish-golds http://dbpedia.org/resource/Goldish_olives http://dbpedia.org/resource/Olive-gold http://dbpedia.org/resource/Olive_golds
+0,26,Navy blue,http://dbpedia.org/resource/Ultramarine,http://dbpedia.org/resource/Navy_Blue http://dbpedia.org/resource/Navy_(color) http://dbpedia.org/resource/Navy_(colour) http://dbpedia.org/resource/Navy_Blue_(colour) http://dbpedia.org/resource/Navy_Blue_(color) http://dbpedia.org/resource/Navy-blue http://dbpedia.org/resource/Navy_blue_(color) http://dbpedia.org/resource/Navy_blue
+0,29,Naples yellow,http://dbpedia.org/resource/Invasion_of_Naples_(1806),http://dbpedia.org/resource/Antimony_Yellow http://dbpedia.org/resource/Antimony_yellow http://dbpedia.org/resource/Naples_Yellow http://dbpedia.org/resource/Lead_antimonite http://dbpedia.org/resource/Naples_yellow
+0,30,NIVO,http://dbpedia.org/resource/Nivôse,http://dbpedia.org/resource/Nivo http://dbpedia.org/resource/NIVO
+0,31,Mustard,http://dbpedia.org/resource/Sulfur_mustard,http://dbpedia.org/resource/Mustard_(colour) http://dbpedia.org/resource/Mustard_yellow http://dbpedia.org/resource/Mustard_(color)
+0,32,Mikado yellow,http://dbpedia.org/resource/Operation_Mikado,http://dbpedia.org/resource/Mikado_yellow
+0,33,Midnight green,http://dbpedia.org/resource/Shades_of_green,http://dbpedia.org/resource/Midnight_green
+0,38,Marengo,,http://dbpedia.org/resource/Marengo-claire http://dbpedia.org/resource/Marengo_(color)
+0,39,Maize,,http://dbpedia.org/resource/Maize_(color) http://dbpedia.org/resource/Corn_(colour) http://dbpedia.org/resource/Corn_(color)
+0,42,Liver,http://dbpedia.org/resource/Liver,http://dbpedia.org/resource/Liver_(color)
+0,43,Lion,http://dbpedia.org/resource/Lion-class_battleship,http://dbpedia.org/resource/Lion_(color)
+0,47,Lava,http://dbpedia.org/resource/Lava,http://dbpedia.org/resource/Lava_color http://dbpedia.org/resource/Lava_(color)
+0,48,Kobicha,http://dbpedia.org/resource/Cobija,http://dbpedia.org/resource/Kobicha
+0,49,Jungle green,http://dbpedia.org/resource/Jungle_gym,http://dbpedia.org/resource/Amazon_(color) http://dbpedia.org/resource/Jungle_green
+0,50,Jonquil,http://dbpedia.org/resource/Narcissus_(plant),http://dbpedia.org/resource/Jonquil_(colour) http://dbpedia.org/resource/Jonquil_(color)
+0,51,Jasmine,http://dbpedia.org/resource/Princess_Jasmine,http://dbpedia.org/resource/Jasmine_(color)
+0,53,International orange,http://dbpedia.org/resource/Davis_Cup,http://dbpedia.org/resource/International_orange http://dbpedia.org/resource/International_asshole_orange http://dbpedia.org/resource/International_Orange
+0,56,Heliotrope,http://dbpedia.org/resource/Heliotrope_(mineral),http://dbpedia.org/resource/Heliotrope+(color) http://dbpedia.org/resource/Heliotrope_(color) http://dbpedia.org/resource/Heliotrope_(colour)
+0,59,Glaucous,http://dbpedia.org/resource/Leaf,http://dbpedia.org/resource/Bluish-grey http://dbpedia.org/resource/Glaucousness http://dbpedia.org/resource/Glaucous http://dbpedia.org/resource/Bluish-gray
+0,62,Forest green,http://dbpedia.org/resource/Green,http://dbpedia.org/resource/Forest_green http://dbpedia.org/resource/Forest_green_(color)
+0,63,Flax,http://dbpedia.org/resource/Linseed_oil,http://dbpedia.org/resource/Flax_(colour) http://dbpedia.org/resource/Flax_(color)
+0,66,Fallow,http://dbpedia.org/resource/Fallow_deer,http://dbpedia.org/resource/Fallow_(color)
+0,67,Electric green,http://dbpedia.org/resource/Blue,http://dbpedia.org/resource/Electric_green
+0,68,Electric blue,http://dbpedia.org/resource/Blue,http://dbpedia.org/resource/Electric_blue_(color)
+0,70,Eggshell,http://dbpedia.org/resource/Eggshell,http://dbpedia.org/resource/Eggshell_(color) http://dbpedia.org/resource/Eggshell_(colour)
+0,74,Dark purple,http://dbpedia.org/resource/Blue,http://dbpedia.org/resource/Dark_purple http://dbpedia.org/resource/Dark_Purple
+0,75,Cyclamen,http://dbpedia.org/resource/Cyclamen,http://dbpedia.org/resource/Cyclamen_(color)
+0,79,Coyote brown,http://dbpedia.org/resource/Tan_(color),http://dbpedia.org/resource/Coyote_tan http://dbpedia.org/resource/Coyote_brown
+0,82,Cordovan,http://dbpedia.org/resource/Leather,http://dbpedia.org/resource/Cordovan_(color)
+0,83,Coral,http://dbpedia.org/resource/Choir,http://dbpedia.org/resource/Gray-coral http://dbpedia.org/resource/Coral_pink http://dbpedia.org/resource/Coral_(color) http://dbpedia.org/resource/Coral_red http://dbpedia.org/resource/Light_Coral http://dbpedia.org/resource/Dark_coral http://dbpedia.org/resource/Coral_(colour) http://dbpedia.org/resource/Coral_color
+0,85,Copper,http://dbpedia.org/resource/Copper,http://dbpedia.org/resource/Copper_(colour) http://dbpedia.org/resource/Copper_(color) http://dbpedia.org/resource/Copper_red
+0,86,Columbia blue,http://dbpedia.org/resource/Blue,http://dbpedia.org/resource/Columbia_Blue http://dbpedia.org/resource/Jordy_blue http://dbpedia.org/resource/Columbia_blue_(color) http://dbpedia.org/resource/Columbia_blue
+0,88,Citron,http://dbpedia.org/resource/Citric_acid,http://dbpedia.org/resource/Citron_(color)
+0,89,Citrine,http://dbpedia.org/resource/Quartz,http://dbpedia.org/resource/Citrine_(colour) http://dbpedia.org/resource/Citrine_(color)
+0,90,Cinereous,http://dbpedia.org/resource/Cinereous_tinamou,http://dbpedia.org/resource/Cinereous
+0,91,Chocolate,http://dbpedia.org/resource/Chocolate,http://dbpedia.org/resource/Cocoa_brown http://dbpedia.org/resource/Chocolate_(color)
+0,94,Champagne,http://dbpedia.org/resource/Champagne,http://dbpedia.org/resource/Champagne_(color)
+0,97,Carmine,http://dbpedia.org/resource/Carmine,http://dbpedia.org/resource/Pale_carmine http://dbpedia.org/resource/Carmine_(colour) http://dbpedia.org/resource/Carmine_red http://dbpedia.org/resource/Carmine_(color)
+0,98,Cardinal,http://dbpedia.org/resource/Cardinal_(Catholic_Church),http://dbpedia.org/resource/Cardinal_Red http://dbpedia.org/resource/Cardinal_(color) http://dbpedia.org/resource/Cardinal_red
+0,99,Capri,http://dbpedia.org/resource/Sky_blue,http://dbpedia.org/resource/Capri_(color)
+0,101,Camel,http://dbpedia.org/resource/Camel_hair,http://dbpedia.org/resource/Camel_(color)
+0,102,Cambridge Blue,http://dbpedia.org/resource/The_Boat_Race,http://dbpedia.org/resource/Cambridge_Blue_(Colour) http://dbpedia.org/resource/Cambridge_Blue_(color) http://dbpedia.org/resource/Cambridge_Blue_(colour)
+0,103,Cadmium pigments,http://dbpedia.org/resource/Isotopes_of_cadmium,http://dbpedia.org/resource/Cadmium_Yellow http://dbpedia.org/resource/Cadmium_red http://dbpedia.org/resource/Cadmium_Red http://dbpedia.org/resource/Cadmium_orange http://dbpedia.org/resource/Cadmium_yellow http://dbpedia.org/resource/Cadmium_pigments

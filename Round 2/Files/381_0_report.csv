@@ -1,0 +1,4 @@
+"F1: 0.98802","Precision: 0.98802","Recall: 0.98802"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","66","International Organization","http://dbpedia.org/resource/Knowledge_Organization_(journal)","http://dbpedia.org/resource/International_Organization http://dbpedia.org/resource/International_Organisation"
+"0","157","International Journal of Bifurcation and Chaos","http://dbpedia.org/resource/International_Journal_of_Bifurcation_and_Chaos_in_Applied_Sciences_and_Engineering","http://dbpedia.org/resource/International_Journal_of_Bifurcation_and_Chaos http://dbpedia.org/resource/Ijbc"

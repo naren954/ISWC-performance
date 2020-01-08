@@ -1,0 +1,13 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,Cycling,http://dbpedia.org/resource/Cycling_at_the_2016_Summer_Olympics,http://dbpedia.org/resource/Cycling_at_the_2007_Pan_American_Games
+0,3,Karate,http://dbpedia.org/resource/Carate_Brianza,http://dbpedia.org/resource/Karate_at_the_2007_Pan_American_Games
+0,4,Rowing,http://dbpedia.org/resource/Rowing_(sport),http://dbpedia.org/resource/Rowing_at_the_2007_Pan_American_Games
+0,5,Weightlifting,http://dbpedia.org/resource/Olympic_weightlifting,http://dbpedia.org/resource/Weightlifting_at_the_2007_Pan_American_Games
+0,6,Sailing,http://dbpedia.org/resource/Sailing_(Christopher_Cross_song),http://dbpedia.org/resource/Sailing_at_the_2007_Pan_American_Games
+0,7,Tennis,http://dbpedia.org/resource/Tennis,http://dbpedia.org/resource/Tennis_at_the_2015_Pan_American_Games
+0,8,Fencing,http://dbpedia.org/resource/Fencing,http://dbpedia.org/resource/Fencing_at_the_2015_Pan_American_Games
+0,9,Gymnastics,http://dbpedia.org/resource/Oklahoma_Sooners,http://dbpedia.org/resource/Gymnastics_at_the_2015_Pan_American_Games http://dbpedia.org/resource/Rhythmic_gymnastics_at_the_2015_Pan_American_Games http://dbpedia.org/resource/Trampolining_at_the_2015_Pan_American_Games
+0,10,Roller sports,http://fr.dbpedia.org/resource/Roller_Diagama,http://dbpedia.org/resource/Roller_sports_at_the_2015_Pan_American_Games
+0,11,Water skiing,"http://dbpedia.org/resource/Ski,_Norway",http://dbpedia.org/resource/Water_skiing_at_the_2015_Pan_American_Games
+0,12,Field hockey,http://dbpedia.org/resource/Field_hockey_at_the_2016_Summer_Olympics,http://dbpedia.org/resource/Field_hockey_at_the_2015_Pan_American_Games

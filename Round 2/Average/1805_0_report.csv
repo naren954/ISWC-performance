@@ -1,0 +1,6 @@
+F1: 0.63636,Precision: 0.63636,Recall: 0.63636,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Mort Glosser Amphitheater,http://dbpedia.org/resource/Mort_Glosser_Amphitheater,http://sws.geonames.org/11496294/
+0,2,Warner Theater,http://dbpedia.org/resource/Warnors_Theatre,"http://dbpedia.org/resource/Warner_Theatre_(West_Chester,_Pennsylvania) http://dbpedia.org/resource/Hotel_Warner http://dbpedia.org/resource/Warner_Theater_(West_Chester,_Pennsylvania)"
+0,4,Strand Theatre,"http://dbpedia.org/resource/Strand_Theatre_(Shreveport,_Louisiana)","http://dbpedia.org/resource/Strand_Theatre_(Ithaca,_New_York)"
+0,6,State Theater,"http://dbpedia.org/resource/State_Theater_(Ithaca,_New_York)","http://dbpedia.org/resource/State_Theater_(Newark,_Delaware)"

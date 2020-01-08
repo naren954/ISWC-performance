@@ -1,0 +1,10 @@
+F1: 0.69231,Precision: 0.69231,Recall: 0.69231,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,B. Slavev,http://fr.dbpedia.org/resource/Bojidar_Slavev,http://dbpedia.org/resource/Bojidar_Slavev
+0,3,B. Jalowietzki,http://de.dbpedia.org/resource/Bogdan_Jalowietzki,http://dbpedia.org/resource/Bogdan_Jalowietzki
+0,5,B. Berg,http://dbpedia.org/resource/Bill_Berg_(ice_hockey),http://dbpedia.org/resource/Björn_Berg http://dbpedia.org/resource/Bjorn_Berg
+0,8,B. Rivera,http://dbpedia.org/resource/Bernabé_Rivera_(footballer),http://dbpedia.org/resource/Bianca_Rivera
+0,10,B. Carletti,http://fr.dbpedia.org/resource/Bertrand_Carletti,http://dbpedia.org/resource/Bertrand_Carletti
+0,17,B. Krzysiek,http://fr.dbpedia.org/resource/Bartosz_Krzysiek,http://dbpedia.org/resource/Bartosz_Krzysiek
+0,18,Bart-Jan van der Mark,,http://dbpedia.org/resource/Bart-Jan_Van_Der_Mark http://dbpedia.org/resource/Bart-Jan_van_der_Mark
+0,24,B. Webster,http://dbpedia.org/resource/Byron_Webster,http://dbpedia.org/resource/Bailey_Webster

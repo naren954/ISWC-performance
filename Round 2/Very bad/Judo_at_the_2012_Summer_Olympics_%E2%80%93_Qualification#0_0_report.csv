@@ -1,0 +1,133 @@
+F1: 0.00758,Precision: 0.00758,Recall: 0.00758,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,Afghanistan,http://dbpedia.org/resource/Afghanistan,http://dbpedia.org/resource/Afghanistan_at_the_2012_Summer_Olympics
+0,3,Albania,http://dbpedia.org/resource/Albania,http://dbpedia.org/resource/Albania_at_the_2012_Summer_Olympics
+0,4,Algeria,http://dbpedia.org/resource/Algeria,http://dbpedia.org/resource/Algeria_at_the_2012_Summer_Olympics
+0,5,American Samoa,http://dbpedia.org/resource/American_Samoa,http://dbpedia.org/resource/American_Samoa_at_the_2012_Summer_Olympics
+0,6,Angola,http://dbpedia.org/resource/Angola,http://dbpedia.org/resource/Angola_at_the_2012_Summer_Olympics
+0,7,Argentina,http://dbpedia.org/resource/Argentina,http://dbpedia.org/resource/Argentina_at_the_2012_Summer_Olympics
+0,8,Armenia,http://dbpedia.org/resource/Armenia,http://dbpedia.org/resource/Armenia_at_the_2012_Summer_Olympics
+0,9,Aruba,http://dbpedia.org/resource/Aruba,http://dbpedia.org/resource/Aruba_at_the_2012_Summer_Olympics
+0,10,Australia,http://dbpedia.org/resource/Australia,http://dbpedia.org/resource/Australia_at_the_2012_Summer_Olympics http://dbpedia.org/resource/Australia_in_the_2012_Olympics
+0,11,Austria,http://dbpedia.org/resource/Austria,http://dbpedia.org/resource/Austria_at_the_2012_Summer_Olympics
+0,12,Azerbaijan,http://dbpedia.org/resource/Azerbaijan,http://dbpedia.org/resource/Azerbaijan_at_the_2012_Summer_Olympics
+0,13,Barbados,http://dbpedia.org/resource/Barbados,http://dbpedia.org/resource/Barbados_at_the_2012_Summer_Olympics
+0,14,Belarus,http://dbpedia.org/resource/Belarus,http://dbpedia.org/resource/Belarus_at_the_2012_Summer_Olympics
+0,15,Belgium,http://dbpedia.org/resource/Belgium,http://dbpedia.org/resource/Belgium_at_the_2012_Summer_Olympics
+0,16,Belize,http://dbpedia.org/resource/Belize,http://dbpedia.org/resource/Belize_at_the_2012_Summer_Olympics
+0,17,Benin,http://dbpedia.org/resource/Benin,http://dbpedia.org/resource/Benin_at_the_2012_Summer_Olympics
+0,18,Bosnia and Herzegovina,http://dbpedia.org/resource/Bosnia_and_Herzegovina,http://dbpedia.org/resource/Bosnia_and_Herzegovina_at_the_2012_Summer_Olympics
+0,19,Brazil,http://dbpedia.org/resource/Brazil,http://dbpedia.org/resource/Brazil_at_the_2012_Summer_Olympics
+0,20,Bulgaria,http://dbpedia.org/resource/Bulgaria,http://dbpedia.org/resource/Bulgaria_at_the_2012_Summer_Olympics
+0,21,Burkina Faso,http://dbpedia.org/resource/Burkina_Faso,http://dbpedia.org/resource/Burkina_Faso_at_the_2012_Summer_Olympics
+0,22,Burundi,http://dbpedia.org/resource/Burundi,http://dbpedia.org/resource/Burundi_at_the_2012_Summer_Olympics
+0,23,Cambodia,http://dbpedia.org/resource/Cambodia,http://dbpedia.org/resource/Cambodia_at_the_2012_Summer_Olympics
+0,24,Cameroon,http://dbpedia.org/resource/Cameroon,http://dbpedia.org/resource/Cameroon_at_the_2012_Summer_Olympics
+0,25,Canada,http://dbpedia.org/resource/Canada,http://dbpedia.org/resource/Canada_at_the_2012_Summer_Olympics http://dbpedia.org/resource/Canada_at_the_2012_Olympic_Games
+0,26,Chad,http://dbpedia.org/resource/Chad,http://dbpedia.org/resource/Chad_at_the_2012_Summer_Olympics
+0,27,Cape Verde,http://dbpedia.org/resource/Cape_Verde,http://dbpedia.org/resource/Cape_Verde_at_the_2012_Summer_Olympics
+0,28,Chile,http://dbpedia.org/resource/Chile,http://dbpedia.org/resource/Chile_at_the_2012_Summer_Olympics
+0,29,China,http://dbpedia.org/resource/China,http://dbpedia.org/resource/China_at_the_2012_London_Olympics http://dbpedia.org/resource/China_at_the_London_Olympics http://dbpedia.org/resource/China_at_the_2012_Summer_Olympics http://dbpedia.org/resource/China_at_the_2012_Olympics
+0,30,Colombia,http://dbpedia.org/resource/Colombia,http://dbpedia.org/resource/Colombia_at_the_2012_Summer_Olympics
+0,31,Costa Rica,http://dbpedia.org/resource/Costa_Rica,http://dbpedia.org/resource/Costa_Rica_at_the_2012_Summer_Olympics
+0,32,Ivory Coast,http://dbpedia.org/resource/Ivory_Coast,http://dbpedia.org/resource/Ivory_Coast_at_the_2012_Summer_Olympics http://dbpedia.org/resource/Cote_d'Ivoire_at_the_2012_Summer_Olympics http://dbpedia.org/resource/Côte_d'Ivoire_at_the_2012_Summer_Olympics
+0,33,Croatia,http://dbpedia.org/resource/Croatia,http://dbpedia.org/resource/Croatia_at_the_2012_Summer_Olympics
+0,34,Cuba,http://dbpedia.org/resource/Cuba,http://dbpedia.org/resource/Cuba_at_the_2012_Summer_Olympics
+0,35,Czech Republic,http://dbpedia.org/resource/Czech_Republic,http://dbpedia.org/resource/Czech_Republic_at_the_2012_Summer_Olympics
+0,36,Djibouti,http://dbpedia.org/resource/Djibouti,http://dbpedia.org/resource/Djibouti_at_the_2012_Summer_Olympics
+0,37,Dominican Republic,http://dbpedia.org/resource/Dominican_Republic,http://dbpedia.org/resource/Dominican_Republic_at_the_2012_Summer_Olympics
+0,38,DR Congo,http://dbpedia.org/resource/Democratic_Republic_of_the_Congo,http://dbpedia.org/resource/Democratic_Republic_of_the_Congo_at_the_2012_Summer_Olympics http://dbpedia.org/resource/DR_Congo_at_the_2012_Summer_Olympics
+0,39,Ecuador,http://dbpedia.org/resource/Ecuador,http://dbpedia.org/resource/Ecuador_at_the_2012_Summer_Olympics
+0,40,Egypt,http://dbpedia.org/resource/Egypt,http://dbpedia.org/resource/Egypt_at_the_2012_Summer_Olympics
+0,41,El Salvador,http://dbpedia.org/resource/El_Salvador,http://dbpedia.org/resource/El_Salvador_at_the_2012_Summer_Olympics
+0,42,Estonia,http://dbpedia.org/resource/Estonia,http://dbpedia.org/resource/Estonia_at_the_2012_Summer_Olympics
+0,43,Fiji,http://dbpedia.org/resource/Fiji,http://dbpedia.org/resource/Fiji_at_the_2012_Summer_Olympics
+0,44,Finland,http://dbpedia.org/resource/Finland,http://dbpedia.org/resource/Finland_at_the_2012_Summer_Olympics
+0,45,France,http://dbpedia.org/resource/France,http://dbpedia.org/resource/France_at_the_2012_Summer_Olympics
+0,46,Gabon,http://dbpedia.org/resource/Gabon,http://dbpedia.org/resource/Gabon_at_the_2012_Summer_Olympics
+0,47,Georgia,http://dbpedia.org/resource/Georgia_(country),http://dbpedia.org/resource/Georgia_at_the_2012_Summer_Olympics
+0,48,Germany,http://dbpedia.org/resource/Germany,http://dbpedia.org/resource/Germany_at_the_2012_Summer_Olympics
+0,49,Ghana,http://dbpedia.org/resource/Ghana,http://dbpedia.org/resource/Ghana_at_the_2012_Summer_Olympics
+0,50,Great Britain,http://dbpedia.org/resource/United_Kingdom,http://dbpedia.org/resource/Great_Britain_at_the_2012_Olympics http://dbpedia.org/resource/United_Kingdom_at_the_2012_Summer_Olympics http://dbpedia.org/resource/Super_Saturday_(2012_Summer_Olympics) http://dbpedia.org/resource/Great_Britain_at_the_2012_Summer_Olympics http://dbpedia.org/resource/Britain_at_the_2012_Olympics http://dbpedia.org/resource/Great_Britian_at_the_2012_Summer_Olympics
+0,51,Greece,http://dbpedia.org/resource/Greece,http://dbpedia.org/resource/Greece_at_the_2012_Summer_Olympics
+0,52,Guam,http://dbpedia.org/resource/Guam,http://dbpedia.org/resource/Guam_at_the_2012_Summer_Olympics
+0,53,Guatemala,http://dbpedia.org/resource/Guatemala,http://dbpedia.org/resource/Guatemala_at_the_2012_Summer_Olympics
+0,54,Guinea,http://dbpedia.org/resource/Papua_New_Guinea,http://dbpedia.org/resource/Guinea_at_the_2012_Summer_Olympics
+0,55,Guyana,http://dbpedia.org/resource/Guyana,http://dbpedia.org/resource/Guyana_at_the_2012_Summer_Olympics
+0,56,Haiti,http://dbpedia.org/resource/Haiti,http://dbpedia.org/resource/Haiti_at_the_2012_Summer_Olympics
+0,57,Honduras,http://dbpedia.org/resource/Honduras,http://dbpedia.org/resource/Honduras_at_the_2012_Summer_Olympics
+0,58,Hong Kong,http://dbpedia.org/resource/Hong_Kong,http://dbpedia.org/resource/Hong_Kong_at_the_2012_Summer_Olympics
+0,59,Hungary,http://dbpedia.org/resource/Hungary,http://dbpedia.org/resource/Hungary_at_the_2012_Summer_Olympics
+0,60,Indonesia,http://dbpedia.org/resource/Indonesia,http://dbpedia.org/resource/Indonesia_at_the_2012_Summer_Olympics
+0,61,India,http://dbpedia.org/resource/India,http://dbpedia.org/resource/India_at_the_2012_Summer_Olympics http://dbpedia.org/resource/India_at_the_2012_Olympics http://dbpedia.org/resource/India_at_the_2012_London_Olympics http://dbpedia.org/resource/Madhura_Nagendra
+0,62,Iceland,http://dbpedia.org/resource/Iceland,http://dbpedia.org/resource/Iceland_at_the_2012_Summer_Olympics
+0,64,Iran,http://dbpedia.org/resource/Iran,http://dbpedia.org/resource/Iran_at_the_2012_Summer_Olympics
+0,65,Ireland,http://dbpedia.org/resource/Republic_of_Ireland,http://dbpedia.org/resource/Ireland_in_the_2012_olympics http://dbpedia.org/resource/Ireland_at_the_2012_Summer_Olympics
+0,66,Israel,http://dbpedia.org/resource/Israel,http://dbpedia.org/resource/Israel_at_the_2012_Olympics http://dbpedia.org/resource/Israel_at_the_2012_Summer_Olympics
+0,67,Italy,http://dbpedia.org/resource/Italy,http://dbpedia.org/resource/Italy_at_the_2012_Summer_Olympics
+0,68,Japan,http://dbpedia.org/resource/Japan,http://dbpedia.org/resource/Japan_at_the_2012_Summer_Olympics
+0,69,Kazakhstan,http://dbpedia.org/resource/Kazakhstan,http://dbpedia.org/resource/Kazakhstan_at_the_2012_Summer_Olympics
+0,70,Kyrgyzstan,http://dbpedia.org/resource/Kyrgyzstan,http://dbpedia.org/resource/Kyrgyzstan_at_the_2012_Summer_Olympics
+0,71,Latvia,http://dbpedia.org/resource/Latvia,http://dbpedia.org/resource/Latvia_at_the_2012_Summer_Olympics
+0,72,Lebanon,http://dbpedia.org/resource/Lebanon,http://dbpedia.org/resource/Lebanon_at_the_2012_Summer_Olympics
+0,73,Liberia,http://dbpedia.org/resource/Liberia,http://dbpedia.org/resource/Liberia_at_the_2012_Summer_Olympics http://dbpedia.org/resource/Liva_Saryee
+0,74,Libya,http://dbpedia.org/resource/Libya,http://dbpedia.org/resource/Libya_at_the_2012_Summer_Olympics
+0,75,Lithuania,http://dbpedia.org/resource/Lithuania,http://dbpedia.org/resource/Lithuania_at_the_2012_Summer_Olympics
+0,76,Luxembourg,http://dbpedia.org/resource/Luxembourg,http://dbpedia.org/resource/Luxembourg_at_the_2012_Summer_Olympics
+0,77,Madagascar,http://dbpedia.org/resource/Madagascar,http://dbpedia.org/resource/Madagascar_at_the_2012_Summer_Olympics
+0,78,Mali,http://dbpedia.org/resource/Mali,http://dbpedia.org/resource/Mali_at_the_2012_Summer_Olympics
+0,79,Morocco,http://dbpedia.org/resource/Morocco,http://dbpedia.org/resource/Morocco_at_the_2012_Summer_Olympics
+0,80,Mexico,http://dbpedia.org/resource/Mexico,http://dbpedia.org/resource/Mexico_at_the_2012_Summer_Olympics
+0,81,Moldova,http://dbpedia.org/resource/Moldova,http://dbpedia.org/resource/Moldova_at_the_2012_Summer_Olympics
+0,82,Mongolia,http://dbpedia.org/resource/Mongolia,http://dbpedia.org/resource/Mongolia_at_the_2012_Summer_Olympics
+0,83,Montenegro,http://dbpedia.org/resource/Montenegro,http://dbpedia.org/resource/Montenegro_at_the_2012_Summer_Olympics
+0,84,Monaco,http://dbpedia.org/resource/Monaco,http://dbpedia.org/resource/Monaco_at_the_2012_Summer_Olympics
+0,85,Myanmar,http://dbpedia.org/resource/Myanmar,http://dbpedia.org/resource/Burma_at_the_2012_Summer_Olympics http://dbpedia.org/resource/Myanmar_at_the_2012_Summer_Olympics
+0,86,Nauru,http://dbpedia.org/resource/Nauru,http://dbpedia.org/resource/Nauru_at_the_2012_Summer_Olympics
+0,87,Netherlands,http://dbpedia.org/resource/William_I_of_the_Netherlands,http://dbpedia.org/resource/Netherlands_at_the_2012_Summer_Olympics
+0,88,New Zealand,http://dbpedia.org/resource/New_Zealand,http://dbpedia.org/resource/New_Zealand_at_the_2012_Summer_Olympics
+0,89,Niger,http://dbpedia.org/resource/Niger,http://dbpedia.org/resource/Niger_at_the_2012_Summer_Olympics
+0,90,North Korea,http://dbpedia.org/resource/North_Korea,http://dbpedia.org/resource/North_Korea_at_the_2012_Summer_Olympics
+0,91,Palau,http://dbpedia.org/resource/Palau,http://dbpedia.org/resource/Palau_at_the_2012_Summer_Olympics
+0,92,Palestine,http://dbpedia.org/resource/Israel,http://dbpedia.org/resource/Palestine_at_the_2012_Summer_Olympics
+0,93,Panama,http://dbpedia.org/resource/Panama,http://dbpedia.org/resource/Panama_at_the_2012_Summer_Olympics
+0,94,Papua New Guinea,http://dbpedia.org/resource/Papua_New_Guinea,http://dbpedia.org/resource/Papua_New_Guinea_at_the_2012_Summer_Olympics
+0,95,Paraguay,http://dbpedia.org/resource/Paraguay,http://dbpedia.org/resource/Paraguay_at_the_2012_Summer_Olympics
+0,96,Peru,http://dbpedia.org/resource/Peru,http://dbpedia.org/resource/Peru_at_the_2012_Summer_Olympics
+0,97,Philippines,http://dbpedia.org/resource/Philippines,http://dbpedia.org/resource/2012_Philippines_Olympics http://dbpedia.org/resource/Philippines_at_the_2012_Summer_Olympics
+0,98,Portugal,http://dbpedia.org/resource/Portugal,http://dbpedia.org/resource/Portugal_at_the_2012_Summer_Olympics
+0,99,Poland,http://dbpedia.org/resource/Poland,http://dbpedia.org/resource/Poland_at_the_2012_Summer_Olympics
+0,100,Puerto Rico,http://dbpedia.org/resource/Puerto_Rico,http://dbpedia.org/resource/Puerto_Rico_at_the_2012_Summer_Olympics
+0,101,Romania,http://dbpedia.org/resource/Romania,http://dbpedia.org/resource/Romania_at_the_2012_Summer_Olympics
+0,102,Russia,http://dbpedia.org/resource/Russia,http://dbpedia.org/resource/Russia_at_the_2012_Summer_Olympics
+0,103,Rwanda,http://dbpedia.org/resource/Rwanda,http://dbpedia.org/resource/Rwanda_at_the_2012_Summer_Olympics
+0,104,Samoa,http://dbpedia.org/resource/American_Samoa,http://dbpedia.org/resource/Samoa_at_the_2012_Summer_Olympics
+0,105,Saudi Arabia,http://dbpedia.org/resource/Saudi_Arabia,http://dbpedia.org/resource/Saudi_Arabia_at_the_2012_Summer_Olympics
+0,106,Serbia,http://dbpedia.org/resource/Serbia,http://dbpedia.org/resource/Serbia_at_the_2012_Summer_Olympics
+0,107,Senegal,http://dbpedia.org/resource/Senegal,http://dbpedia.org/resource/Senegal_at_the_2012_Summer_Olympics
+0,108,Seychelles,http://dbpedia.org/resource/Seychelles,http://dbpedia.org/resource/Seychelles_at_the_2012_Summer_Olympics
+0,109,Slovakia,http://dbpedia.org/resource/Slovakia,http://dbpedia.org/resource/Slovakia_at_the_2012_Summer_Olympics
+0,110,Slovenia,http://dbpedia.org/resource/Slovenia,http://dbpedia.org/resource/Slovenia_at_the_2012_Summer_Olympics
+0,111,Solomon Islands,http://dbpedia.org/resource/Solomon_Islands,http://dbpedia.org/resource/Solomon_Islands_at_the_2012_Summer_Olympics
+0,112,South Africa,http://dbpedia.org/resource/South_Africa,http://dbpedia.org/resource/South_Africa_at_the_2012_Summer_Olympics
+0,113,South Korea,http://dbpedia.org/resource/South_Korea,http://dbpedia.org/resource/South_Korea_at_the_2012_Summer_Olympics
+0,114,Spain,http://dbpedia.org/resource/Spain,http://dbpedia.org/resource/Spain_at_the_2012_Summer_Olympics
+0,115,Sweden,http://dbpedia.org/resource/Sweden,http://dbpedia.org/resource/Sweden_at_the_2012_Summer_Olympics
+0,116,Switzerland,http://dbpedia.org/resource/Switzerland,http://dbpedia.org/resource/Switzerland_at_the_2012_Summer_Olympics
+0,117,Chinese Taipei,http://dbpedia.org/resource/Taiwan,http://dbpedia.org/resource/Chinese_Taipei_at_the_2012_Summer_Olympics
+0,118,Tajikistan,http://dbpedia.org/resource/Tajikistan,http://dbpedia.org/resource/Tajikistan_at_the_2012_Summer_Olympics
+0,119,Thailand,http://dbpedia.org/resource/Thailand,http://dbpedia.org/resource/Thailand_at_the_2012_Summer_Olympics
+0,120,Togo,http://dbpedia.org/resource/Togo,http://dbpedia.org/resource/Togo_at_the_2012_Summer_Olympics
+0,121,Tunisia,http://dbpedia.org/resource/Tunisia,http://dbpedia.org/resource/Tunisia_at_the_2012_Summer_Olympics
+0,122,Turkey,http://dbpedia.org/resource/Turkey,http://dbpedia.org/resource/Turkey_at_the_2012_Summer_Olympics http://dbpedia.org/resource/Turkish_participation_in_2012_Olympics
+0,123,Turkmenistan,http://dbpedia.org/resource/Turkmenistan,http://dbpedia.org/resource/Turkmenistan_at_the_2012_Summer_Olympics
+0,124,United Arab Emirates,http://dbpedia.org/resource/United_Arab_Emirates,http://dbpedia.org/resource/United_Arab_Emirates_at_the_2012_Summer_Olympics
+0,125,United States,http://dbpedia.org/resource/United_States_Marine_Corps,http://dbpedia.org/resource/United_States_at_the_2012_Olympics http://dbpedia.org/resource/USA_swim_team_2012 http://dbpedia.org/resource/USA_at_the_2012_Summer_Olympics http://dbpedia.org/resource/2012_United_States_Olympic_team http://dbpedia.org/resource/United_States_at_the_2012_Summer_Olympics http://dbpedia.org/resource/2012_United_States_Olympic_Team http://dbpedia.org/resource/United_States_of_America_at_the_2012_Summer_Olympics
+0,126,Ukraine,http://dbpedia.org/resource/Ukraine,http://dbpedia.org/resource/Ukraine_at_the_2012_Summer_Olympics
+0,127,Uruguay,http://dbpedia.org/resource/Uruguay,http://dbpedia.org/resource/Uruguay_at_the_2012_Summer_Olympics
+0,128,Uzbekistan,http://dbpedia.org/resource/Uzbekistan,http://dbpedia.org/resource/Uzbekistan_at_the_2012_Summer_Olympics
+0,129,Vanuatu,http://dbpedia.org/resource/Vanuatu,http://dbpedia.org/resource/Vanuatu_at_the_2012_Summer_Olympics
+0,130,Vietnam,http://dbpedia.org/resource/Vietnam,http://dbpedia.org/resource/Vietnam_at_the_2012_Summer_Olympics
+0,131,Venezuela,http://dbpedia.org/resource/Venezuela,http://dbpedia.org/resource/Venezuela_at_the_2012_Summer_Olympics
+0,132,Yemen,http://dbpedia.org/resource/Yemen,http://dbpedia.org/resource/Yemen_at_the_2012_Summer_Olympics
+0,133,Zambia,http://dbpedia.org/resource/Zambia,http://dbpedia.org/resource/Zambia_at_the_2012_Summer_Olympics

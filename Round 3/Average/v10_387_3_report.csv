@@ -1,0 +1,5 @@
+F1: 0.75000,Precision: 0.75000,Recall: 0.75000,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,1,Howard Jones,http://dbpedia.org/resource/Howard_Jones_(English_musician),"http://dbpedia.org/resource/John_Howard_Jones http://dbpedia.org/resource/Jones,_Howard_(musician) http://dbpedia.org/resource/Howard_Jones_(musician) http://dbpedia.org/resource/Engage_(Howard_Jones_album)"
+3,11,Creed,http://dbpedia.org/resource/Linda_Creed,http://dbpedia.org/resource/Creed_band http://dbpedia.org/resource/Naked_Toddler http://dbpedia.org/resource/List_of_songs_recorded_by_Creed http://dbpedia.org/resource/Torn_(Creed_Song) http://dbpedia.org/resource/Torn_(Creed's_Song) http://dbpedia.org/resource/Apostle's_Greed http://dbpedia.org/resource/Creed_(band)
+3,12,Daughtry,http://dbpedia.org/resource/Chris_Daughtry,http://dbpedia.org/resource/Spaceship_(Daughtry_album) http://dbpedia.org/resource/Doughtry http://dbpedia.org/resource/List_of_Songs_by_Daughtry http://dbpedia.org/resource/Daughtry_(band) http://dbpedia.org/resource/DAUGHTRY_(band) http://dbpedia.org/resource/Josh_Paul_(Musician)

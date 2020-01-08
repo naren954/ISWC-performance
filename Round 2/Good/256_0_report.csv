@@ -1,0 +1,21 @@
+F1: 0.85821,Precision: 0.85821,Recall: 0.85821,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Family Business,http://dbpedia.org/resource/Business_Guy,http://dbpedia.org/resource/Family_Business_(DS9) http://dbpedia.org/resource/Family_Business_(Star_Trek:_Deep_Space_Nine) http://dbpedia.org/resource/Family_Business_(DS9_episode)
+0,2,Family,http://dbpedia.org/resource/Family_Guy,http://dbpedia.org/resource/Family_(Buffy_the_Vampire_Slayer_episode) http://dbpedia.org/resource/Family_(Buffy_episode) http://dbpedia.org/resource/Family_(Buffy_the_Vampire_Slayer)
+0,3,Faith,http://dbpedia.org/resource/Faith_(George_Michael_song),http://dbpedia.org/resource/Faith_(Stargate_Universe)
+0,9,Evolution,http://it.dbpedia.org/resource/Halo:_Evolutions,http://dbpedia.org/resource/Evolution_(TNG_episode) http://dbpedia.org/resource/Evolution_(Star_Trek:_The_Next_Generation)
+0,12,Ethics,http://dbpedia.org/resource/Ethics_(journal),http://dbpedia.org/resource/Ethics_(Star_Trek:_The_Next_Generation) http://dbpedia.org/resource/Ethics_(Star_Trek:_the_Next_Generation) http://dbpedia.org/resource/Ethics_(TNG_episode)
+0,15,Equilibrium,http://dbpedia.org/resource/Equilibrium_(Crowbar_album),http://dbpedia.org/resource/Equilibrium_(Star_Trek:_Deep_Space_Nine) http://dbpedia.org/resource/Equilibrium_(DS9) http://dbpedia.org/resource/Equilibrium_(DS9_episode)
+0,17,Episode 210,http://dbpedia.org/resource/Valar_Morghulis,http://dbpedia.org/resource/Liz_the_Business_Woman http://dbpedia.org/resource/Episode_210_(30_Rock) http://dbpedia.org/resource/Episode_210 http://dbpedia.org/resource/Episode_210_(30_Rock_episode)
+0,20,Endgame,http://dbpedia.org/resource/Endgame_(Babylon_5),http://dbpedia.org/resource/Endgame_(Voyager_episode) http://dbpedia.org/resource/Unimatrix_One http://dbpedia.org/resource/Endgame_(Star_Trek) http://dbpedia.org/resource/Endgame_(Star_Trek:_Voyager) http://dbpedia.org/resource/Endgame:_Part_1
+0,25,Elegy,http://dbpedia.org/resource/Elegy_(The_X-Files),http://dbpedia.org/resource/Elegy_(Twilight_Zone) http://dbpedia.org/resource/Elegy_(Twilight_Zone_episode) http://dbpedia.org/resource/The_Twilight_Zone/Elegy http://dbpedia.org/resource/Elegy_(The_Twilight_Zone_episode) http://dbpedia.org/resource/Elegy_(The_Twilight_Zone)
+0,27,Edward Mordrake,http://dbpedia.org/resource/Edward_Mordrake_(television_episode),http://dbpedia.org/resource/Edward_Mordrake http://dbpedia.org/resource/Edward_Mordrake_(American_Horror_Story)
+0,28,Echo,http://dbpedia.org/resource/Echo_(Leona_Lewis_album),http://dbpedia.org/resource/Echo_(The_Americans)
+0,33,Dust,http://dbpedia.org/resource/Dust_(Tremonti_album),http://dbpedia.org/resource/The_Twilight_Zone/Dust http://dbpedia.org/resource/Dust_(The_Twilight_Zone)
+0,37,Dreams Come True,http://dbpedia.org/resource/First/Dreams_Come_True,http://dbpedia.org/resource/Dreams_Come_True_(Glee)
+0,40,Drake & Josh: Really Big Shrimp,http://dbpedia.org/resource/Really_Big_Shrimp_(Drake_&_Josh),http://dbpedia.org/resource/Really_Big_Shrimp http://dbpedia.org/resource/Drake_&_Josh:_Really_Big_Shrimp
+0,44,Divided We Stand,http://dbpedia.org/resource/Divided_We_Stand,http://dbpedia.org/resource/Divided_We_Stand_(STC_episode) http://dbpedia.org/resource/Divided_We_Stand_(Star_Trek_Continues)
+0,49,Destiny,http://dbpedia.org/resource/Destiny_(Angel),http://dbpedia.org/resource/Destiny_(DS9) http://dbpedia.org/resource/Destiny_(DS9_episode) http://dbpedia.org/resource/Destiny_(Star_Trek:_Deep_Space_Nine)
+0,82,Concerto,http://dbpedia.org/resource/Honda_Concerto,http://dbpedia.org/resource/Concerto_(The_Avengers)
+0,91,Cleveland,http://dbpedia.org/resource/The_Cleveland_Show,http://dbpedia.org/resource/Cleveland_(30_Rock_episode) http://dbpedia.org/resource/Cleveland_(30_Rock) http://dbpedia.org/resource/Black_crusaders
+0,92,Clear,http://dbpedia.org/resource/Clear_(Spirit_album),http://dbpedia.org/resource/Clear_(The_Walking_Dead)

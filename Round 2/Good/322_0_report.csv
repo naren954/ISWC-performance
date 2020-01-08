@@ -1,0 +1,43 @@
+F1: 0.78866,Precision: 0.78866,Recall: 0.78866,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,T. McGee,http://dbpedia.org/resource/Terrence_McGee,http://dbpedia.org/resource/Tony_McGee_(tight_end)
+0,4,T. McGee,http://dbpedia.org/resource/Terrence_McGee,http://dbpedia.org/resource/Tony_McGee
+0,16,T. Jones,http://dbpedia.org/resource/Tony_Jones_(offensive_tackle),http://dbpedia.org/resource/Tony_Jones_(wide_receiver)
+0,17,T. Johnson,http://dbpedia.org/resource/Terrence_Johnson,http://dbpedia.org/resource/Tony_Johnson_(tight_end)
+0,19,T. Jackson,http://dbpedia.org/resource/Tarvaris_Jackson,http://dbpedia.org/resource/Tony_Jackson_(American_football) http://dbpedia.org/resource/Tony_Jackson_(football_player)
+0,24,T. Hill,http://dbpedia.org/resource/Travis_Hill,http://dbpedia.org/resource/Tony_Hill_(wide_receiver) http://dbpedia.org/resource/Tony_Hill_(American_football)
+0,25,T. Hill,http://dbpedia.org/resource/Travis_Hill,http://dbpedia.org/resource/Tony_Hill_(defensive_end)
+0,27,T. Guillory,http://dbpedia.org/resource/Brandon_Guillory,"http://dbpedia.org/resource/Anthony_Guillory http://dbpedia.org/resource/Anthony_""Tony""_Guillory http://dbpedia.org/resource/Tony_Guillory"
+0,28,T. Green,http://dbpedia.org/resource/Trent_Green,http://dbpedia.org/resource/Tony_Green_(American_football) http://dbpedia.org/resource/Tony_Green_(football_player)
+0,30,T. Gonzalez,http://dbpedia.org/resource/Tony_Gonzalez,http://dbpedia.org/resource/Tony_Gonzalez_(American_football) http://dbpedia.org/resource/Anthony_David_Gonzalez http://dbpedia.org/resource/Tony_Gonzalez_(tight_end) http://dbpedia.org/resource/Tony_González_(American_football) http://dbpedia.org/resource/Tony_Gonzalez_(football_player)
+0,33,T. Franklin,http://it.dbpedia.org/resource/Travis_Franklin,http://dbpedia.org/resource/Tony_Franklin_(placekicker) http://dbpedia.org/resource/Tony_Franklin_(American_football)
+0,38,T. Dixon,http://dbpedia.org/resource/Tom_Dixon_(American_football),http://dbpedia.org/resource/Tony_Dixon(American_football) http://dbpedia.org/resource/Tony_Dixon_(American_football)
+0,41,T. Davis,http://dbpedia.org/resource/Terrell_Davis,http://dbpedia.org/resource/Tony_Davis_(running_back)
+0,51,T. Bryant,http://dbpedia.org/resource/Trent_Bryant,http://dbpedia.org/resource/Tony_Bryant
+0,52,T. Brooks,http://dbpedia.org/resource/Terrence_Brooks,http://dbpedia.org/resource/Tony_Brooks_(American_football)
+0,61,T. Baker,http://dbpedia.org/resource/Tim_Baker_(American_football),"http://dbpedia.org/resource/Tony_Baker_(running_back,_born_1964)"
+0,62,T. Adams,http://dbpedia.org/resource/Theo_Adams_(American_football),http://dbpedia.org/resource/Tony_Adams_(gridiron_football) http://dbpedia.org/resource/Tony_Adams_(football_player) http://dbpedia.org/resource/Tony_Adams_(American_football) http://dbpedia.org/resource/Tony_Adams_(American_footballer) http://dbpedia.org/resource/Anthony_Lee_Adams
+0,69,T. Thompson,http://dbpedia.org/resource/Tommy_Thompson_(quarterback),http://dbpedia.org/resource/Tommy_Thompson_(linebacker) http://dbpedia.org/resource/Tommy_Thompson_(Browns)
+0,75,T. McDonald,http://dbpedia.org/resource/Tim_McDonald,http://dbpedia.org/resource/Tommy_McDonald_(American_football)
+0,83,T. James,http://dbpedia.org/resource/Tory_James,http://dbpedia.org/resource/Tommy_James_(football_player) http://dbpedia.org/resource/Tommy_James_(American_football) http://dbpedia.org/resource/Tommy_James_(football)
+0,85,T. Davis,http://dbpedia.org/resource/Terrell_Davis,http://dbpedia.org/resource/Tommy_Davis_(football_player) http://dbpedia.org/resource/Tommy_Davis_(kicker)
+0,91,T. Smith,http://dbpedia.org/resource/Troy_Smith_(wide_receiver),http://dbpedia.org/resource/Tommie_C._Smith http://dbpedia.org/resource/Tommie_Smith
+0,92,T. Harris,http://dbpedia.org/resource/Tim_Harris_(running_back),http://dbpedia.org/resource/Tommie_Harris
+0,97,T. Watkins,http://dbpedia.org/resource/Todd_Watkins,http://dbpedia.org/resource/Tom_Watkins_(American_football) http://dbpedia.org/resource/Tommy_Watkins_(American_football)
+0,108,T. Smith,http://dbpedia.org/resource/Troy_Smith_(wide_receiver),http://dbpedia.org/resource/Tom_Smith_(American_football)
+0,112,T. Scott,http://dbpedia.org/resource/Trevor_Scott,http://dbpedia.org/resource/Tom_Scott_(offensive_lineman) http://dbpedia.org/resource/Tom_Scott_(offensive_tackle)
+0,126,T. Pennington,http://dbpedia.org/resource/Chad_Pennington,http://dbpedia.org/resource/Tom_Pennington
+0,133,T. Myers,http://dbpedia.org/resource/Tommy_Myers_(American_football),http://dbpedia.org/resource/Tom_Myers_(safety)
+0,134,T. Myers,http://dbpedia.org/resource/Tommy_Myers_(American_football),http://dbpedia.org/resource/Tom_Myers_(quarterback)
+0,137,T. Moore,http://dbpedia.org/resource/Tom_Moore_(American_football_coach),http://dbpedia.org/resource/Tom_Moore_(American_football) http://dbpedia.org/resource/Tom_Moore_(football_player)
+0,139,T. McCauley,http://dbpedia.org/resource/Tango_McCauley,http://dbpedia.org/resource/Tom_McCauley_(American_football)
+0,146,T. Johnson,http://dbpedia.org/resource/Terrence_Johnson,http://dbpedia.org/resource/Tom_Johnson_(American_football)
+0,148,T. Jackson,http://dbpedia.org/resource/Tarvaris_Jackson,http://dbpedia.org/resource/Tom_Jackson_(football_player) http://dbpedia.org/resource/Thomas_Jackson_(American_football) http://dbpedia.org/resource/Tom_Jackson_(American_football) http://dbpedia.org/resource/Thomas_Jackson_(football_player)
+0,153,T. Hall,http://dbpedia.org/resource/Travis_Hall,http://dbpedia.org/resource/Tom_Hall_(American_football) http://dbpedia.org/resource/Tom_Hall_(football_player)
+0,159,T. Gatewood,http://dbpedia.org/resource/Curtis_Gatewood,http://dbpedia.org/resource/Tom_Gatewood
+0,174,T. Day,http://dbpedia.org/resource/Todd_Day,http://dbpedia.org/resource/Tom_Day
+0,180,T. Carter,http://dbpedia.org/resource/Tyrone_Carter,http://dbpedia.org/resource/Tom_Carter_(football_player) http://dbpedia.org/resource/Tom_Carter_(American_football)
+0,184,T. Brown,http://dbpedia.org/resource/Tim_Brown_(American_football),"http://dbpedia.org/resource/Tom_Brown_(football_&_baseball_player) http://dbpedia.org/resource/Tom_Brown_(sportsman,_born_1940) http://dbpedia.org/resource/Tom_Brown_(defensive_back) http://dbpedia.org/resource/Tom_Brown_(baseball_outfielder) http://dbpedia.org/resource/Tom_Brown_(safety) http://dbpedia.org/resource/Tom_Brown_(American_football,_born_1940)"
+0,185,T. Brown,http://dbpedia.org/resource/Tim_Brown_(American_football),"http://dbpedia.org/resource/Tom_Brown_(American_football,_born_1964) http://dbpedia.org/resource/Tom_Brown_(running_back)"
+0,191,T. Boyd,http://dbpedia.org/resource/Tyler_Boyd_(American_football),http://dbpedia.org/resource/Tom_Boyd_(American_football) http://dbpedia.org/resource/Tom_Boyd_(gridiron_football) http://dbpedia.org/resource/Thomas_Boyd_(American_football)
+0,193,T. Bienemann,http://dbpedia.org/resource/Troy_Bienemann,http://dbpedia.org/resource/Tom_Bienemann

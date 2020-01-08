@@ -1,0 +1,8 @@
+"F1: 0.40000","Precision: 0.40000","Recall: 0.40000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","1","USS Sparrow","http://dbpedia.org/resource/USS_Sparrow_(AMc-31)","http://dbpedia.org/resource/USS_Sparrow_(AMCU-42) http://dbpedia.org/resource/USS_Sparrow_(MHC_42)"
+"0","3","USS LCI","http://dbpedia.org/resource/USS_LCI(L)-1091","http://dbpedia.org/resource/USS_LCIL-652 http://dbpedia.org/resource/USS_LCI(L)-652 http://dbpedia.org/resource/USS_Accentor_(LCIL-652) http://dbpedia.org/resource/USS_Accentor_(LSIL-652) http://dbpedia.org/resource/USS_Accentor_(AMCU-15)"
+"0","4","USS LCI","http://dbpedia.org/resource/USS_LCI(L)-1091","http://dbpedia.org/resource/USS_LCI(G)-449 http://dbpedia.org/resource/USS_LCI(L)-449"
+"0","6","HMS Mermaid","http://dbpedia.org/resource/HMS_Mermaid_(1898)","http://dbpedia.org/resource/HMS_Mermaid_(1784) http://dbpedia.org/resource/HMS_Mermaid_(1782)"
+"0","7","HMS Hyacinth","http://dbpedia.org/resource/HMS_Hyacinth_(K84)","http://dbpedia.org/resource/HMS_Hyacinth_(1881)"
+"0","9","HMS Conqueror","http://dbpedia.org/resource/HMS_Conqueror_(1911)","http://dbpedia.org/resource/HMS_Conqueror_(1855)"

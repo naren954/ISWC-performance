@@ -1,0 +1,5 @@
+F1: 0.86957,Precision: 0.86957,Recall: 0.86957,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,10,N. Hawthorne,http://dbpedia.org/resource/Nathaniel_Hawthorne,http://dbpedia.org/resource/Nigel_Hawthorne http://dbpedia.org/resource/Nigel_Hawthorn
+0,15,M. Davies,http://dbpedia.org/resource/Michael_Davies_(Catholic_writer),http://dbpedia.org/resource/Bernard_J._Douras http://dbpedia.org/resource/Marion_Davies http://dbpedia.org/resource/Marion_Douras http://dbpedia.org/resource/Marion_Cecilia_Douras http://dbpedia.org/resource/Marion_C._Douras http://dbpedia.org/resource/Marion_Cecelia_Douras
+0,16,L. Gish,http://dbpedia.org/resource/Lillian_Gish,http://dbpedia.org/resource/Lou_Gish

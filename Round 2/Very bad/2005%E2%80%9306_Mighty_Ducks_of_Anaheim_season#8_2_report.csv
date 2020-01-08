@@ -1,0 +1,6 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,1,Canucks,http://dbpedia.org/resource/Neil_Young,http://dbpedia.org/resource/2005–06_Vancouver_Canucks_season
+2,2,Kings,http://dbpedia.org/resource/Kingdom_of_Prussia,http://dbpedia.org/resource/2005–06_Los_Angeles_Kings_season
+2,3,Stars,http://dbpedia.org/resource/Star,http://dbpedia.org/resource/2005–06_Dallas_Stars_season
+2,9,Flames,http://dbpedia.org/resource/In_Flames,http://dbpedia.org/resource/2005–06_Calgary_Flames_season

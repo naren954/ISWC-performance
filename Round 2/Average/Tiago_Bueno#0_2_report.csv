@@ -1,0 +1,4 @@
+F1: 0.71429,Precision: 0.71429,Recall: 0.71429,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,2,"BogotÃ¡, Colombia",http://dbpedia.org/resource/Colombia,"http://dbpedia.org/resource/Bogotá,_Colombia"
+2,3,"Santa Fe, Argentina",http://dbpedia.org/resource/Santa_Fe_Province,"http://dbpedia.org/resource/Santa_Fé,_Argentina http://dbpedia.org/resource/Santa_Fe,_Argentina http://dbpedia.org/resource/UN/LOCODE:ARSFN http://dbpedia.org/resource/History_of_Santa_Fe,_Argentina http://dbpedia.org/resource/Santa_Fe_(Argentina) http://dbpedia.org/resource/Santa_Fe_de_la_Vera_Cruz"

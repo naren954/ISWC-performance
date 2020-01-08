@@ -1,0 +1,60 @@
+F1: 0.56716,Precision: 0.56716,Recall: 0.56716,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,J. Weber,http://dbpedia.org/resource/Jake_Weber_(basketball),http://dbpedia.org/resource/John_Weber_(darts_player)
+0,2,J. Walton,http://dbpedia.org/resource/Jerome_Walton,http://dbpedia.org/resource/John_Walton_(darts_player)
+0,3,J. Scott,http://dbpedia.org/resource/John_Scott_(baseball),http://dbpedia.org/resource/John_Scott_(darts_player)
+0,5,J. Michael,http://dbpedia.org/resource/Jimmy_Michael,http://dbpedia.org/resource/John_Michael_(darts_player)
+0,7,J. Lowe,http://dbpedia.org/resource/Jason_Lowe,http://dbpedia.org/resource/John_Lowe
+0,9,J. Kramer,http://dbpedia.org/resource/Jerry_Kramer,http://dbpedia.org/resource/John_Kramer_(darts_player)
+0,13,J. Bowles,http://dbpedia.org/resource/James_Bowles,http://dbpedia.org/resource/John_Bowles_(darts_player)
+0,16,J. Dodd,http://dbpedia.org/resource/Jason_Dodd,http://dbpedia.org/resource/Joe_Dodd
+0,18,J. Mann,http://dbpedia.org/resource/Julia_Mann,http://dbpedia.org/resource/Jimmy_Mann_(darts_player)
+0,19,J. Hendriks,http://dbpedia.org/resource/Jackie_Hendriks,http://dbpedia.org/resource/Jimmy_Hendriks
+0,21,J. Walker,"http://dbpedia.org/resource/Jackie_Walker_(American_football,_born_1950)",http://dbpedia.org/resource/Jim_Walker_(darts_player)
+0,22,J. Hendriks,http://dbpedia.org/resource/Jackie_Hendriks,http://dbpedia.org/resource/Jerry_Hendriks
+0,26,J. Smith,"http://dbpedia.org/resource/Joe_Smith_(footballer,_born_1953)",http://dbpedia.org/resource/Jeff_Smith_(darts_player)
+0,27,J. Cullen,http://dbpedia.org/resource/Joe_Cullen_(darts_player),http://dbpedia.org/resource/Jason_Cullen
+0,28,J. Clark,http://dbpedia.org/resource/Jack_Clark_(baseball),http://dbpedia.org/resource/Jason_Clark_(darts_player)
+0,29,J. Larsen,http://dbpedia.org/resource/Jakob_Larsen_(handballer),http://dbpedia.org/resource/Janni_Larsen
+0,31,J. Dekker,http://dbpedia.org/resource/Jonathan_Dekker,http://dbpedia.org/resource/Jan_Dekker
+0,32,J. Robinson,http://es.dbpedia.org/resource/Jason_Robinson,http://dbpedia.org/resource/Jamie_Robinson_(darts_player)
+0,33,J. Lewis,http://dbpedia.org/resource/Joe_Lewis_(martial_artist),http://dbpedia.org/resource/Jamie_Lewis http://dbpedia.org/resource/Jamie_Lewis_(darts_player)
+0,34,J. Hughes,http://dbpedia.org/resource/Jeff_Hughes_(soccer),http://dbpedia.org/resource/Jamie_Hughes_(darts_player)
+0,35,J. Harvey,http://dbpedia.org/resource/Johnny_Harvey,http://dbpedia.org/resource/Jamie_Harvey http://dbpedia.org/resource/Bravedart
+0,37,J. Wilson,http://dbpedia.org/resource/James_Wilson_(English_footballer),http://dbpedia.org/resource/James_Wilson_(darts_player)
+0,39,J. Richardson,http://dbpedia.org/resource/Julie_Richardson,http://dbpedia.org/resource/James_Richardson_(darts_player)
+0,41,J. Hubbard,http://dbpedia.org/resource/Johnny_Hubbard,http://dbpedia.org/resource/James_Hubbard_(darts_player)
+0,42,J. Barry,http://dbpedia.org/resource/Jimmy_Barry,http://dbpedia.org/resource/Jason_Barry_(darts_player) http://dbpedia.org/resource/Jacko_Barry
+0,46,H. Muramatsu,http://it.dbpedia.org/resource/Hiroshi_Muramatsu,http://dbpedia.org/resource/Haruki_Muramatsu
+0,48,G. Miller,http://dbpedia.org/resource/Gabe_Miller,http://dbpedia.org/resource/Graham_Miller_(darts_player)
+0,52,G. Moody,http://dbpedia.org/resource/Glen_Moody,http://dbpedia.org/resource/Glenn_Moody
+0,60,G. Stone,http://dbpedia.org/resource/George_Stone_(basketball),http://dbpedia.org/resource/Gary_Stone
+0,61,G. Robson,http://dbpedia.org/resource/George_Robson_(rugby_union),http://dbpedia.org/resource/Gary_Robson_(darts) http://dbpedia.org/resource/Gary_Robson_(darts_player)
+0,64,G. Thompson,http://dbpedia.org/resource/Gregg_Thompson,http://dbpedia.org/resource/Garry_Thompson_(darts_player)
+0,74,D. v. Dijk,http://dbpedia.org/resource/Daan_van_Dijk,http://dbpedia.org/resource/Dick_van_Dijk_(darts_player)
+0,77,D. Smith,http://dbpedia.org/resource/Donovan_Smith,http://dbpedia.org/resource/Dennis_Smith_(dart_player) http://dbpedia.org/resource/Dennis_Smith_(darts_player)
+0,83,D. Reynolds,http://dbpedia.org/resource/Dallas_Reynolds,http://dbpedia.org/resource/Dean_Reynolds_(darts_player)
+0,84,D. Richardson,http://dbpedia.org/resource/Dominique_Richardson,http://dbpedia.org/resource/Davy_Richardson
+0,88,D. Smith,http://dbpedia.org/resource/Donovan_Smith,http://dbpedia.org/resource/Dave_Smith_(darts_player)
+0,90,D. Richardson,http://dbpedia.org/resource/Dominique_Richardson,http://dbpedia.org/resource/Dave_Richardson_(darts_player)
+0,91,D. Prins,http://dbpedia.org/resource/Denise_Prins,http://dbpedia.org/resource/Dave_Prins
+0,92,D. Lee,http://dbpedia.org/resource/Doug_Lee_(basketball),http://dbpedia.org/resource/Dave_Lee_(darts_player)
+0,97,D. Johnson,http://dbpedia.org/resource/Dwayne_Johnson,http://dbpedia.org/resource/Darren_Johnson_(darts_player)
+0,99,D. Inglis,http://dbpedia.org/resource/Damien_Inglis,http://dbpedia.org/resource/Danny_Inglis
+0,100,D. Larsson,http://dbpedia.org/resource/Daniel_Larsson_(ice_hockey),http://dbpedia.org/resource/Daniel_Larsson_(darts_player)
+0,102,C. Caldwell,http://dbpedia.org/resource/Cecil_Caldwell,http://dbpedia.org/resource/Craig_Caldwell
+0,103,C. Daniels,http://dbpedia.org/resource/Carolin_Daniels,http://dbpedia.org/resource/Conrad_Daniels
+0,105,C. Osborne,http://dbpedia.org/resource/Chuck_Osborne_(American_football),http://dbpedia.org/resource/Colin_Osborne
+0,108,C. Lloyd,http://dbpedia.org/resource/Clive_Lloyd,http://dbpedia.org/resource/Colin_Lloyd
+0,109,C. Fowler,http://dbpedia.org/resource/Calvin_Fowler,http://dbpedia.org/resource/Colin_Fowler
+0,115,C. Thompson,http://dbpedia.org/resource/Craig_Thompson_(soccer),http://dbpedia.org/resource/Chris_Thompson_(darts_player)
+0,116,C. Mason,http://dbpedia.org/resource/Chester_Mason,http://dbpedia.org/resource/Chris_Mason_(Darts) http://dbpedia.org/resource/Chris_Mason_(darts_player)
+0,122,C. Pietersen,http://dbpedia.org/resource/Abigail_Pietersen,http://dbpedia.org/resource/Charl_Pietersen_(darts_player)
+0,123,C. Gallagher,http://dbpedia.org/resource/Chad_Gallagher,http://dbpedia.org/resource/Casey_Gallagher
+0,125,C. Jackson,http://dbpedia.org/resource/Charles_Jackson_(basketball),http://dbpedia.org/resource/Campbell_Jackson
+0,126,B. Woods,http://dbpedia.org/resource/Brendan_Woods,http://dbpedia.org/resource/Brian_Woods_(darts_player)
+0,127,B. Dawson,http://dbpedia.org/resource/Bobby_Dawson,http://dbpedia.org/resource/Brian_Dawson_(darts_player)
+0,129,B. Buur,http://dbpedia.org/resource/Oskar_Buur,http://dbpedia.org/resource/Brian_Sorensen http://dbpedia.org/resource/Brian_Sørensen http://dbpedia.org/resource/Brian_Buur
+0,132,B. Koltsov,http://dbpedia.org/resource/Mykola_Koltsov,http://dbpedia.org/resource/Boris_Koltsov
+0,133,B. Anderson,http://dbpedia.org/resource/Brady_Anderson,http://dbpedia.org/resource/Bob_Anderson_(darts_player)
+0,134,B. Davis,http://dbpedia.org/resource/Brad_Davis_(American_football),http://dbpedia.org/resource/Bill_Davis_(darts_player)

@@ -1,0 +1,5 @@
+"F1: 0.57143","Precision: 0.57143","Recall: 0.57143"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"2","3","A. Trudeau","http://dbpedia.org/resource/Justin_Trudeau","http://dbpedia.org/resource/Sacha_Trudeau http://dbpedia.org/resource/Alexandre_Trudeau"
+"2","4","S. Baldwin","http://dbpedia.org/resource/Simeon_Baldwin","http://dbpedia.org/resource/Power_without_responsibillity http://dbpedia.org/resource/Prime_Minister_Baldwin http://dbpedia.org/resource/Baldwin,_Stanley,_1st_Earl_Baldwin_of_Bewdley http://dbpedia.org/resource/Prime_Minister_Stanley_Baldwin http://dbpedia.org/resource/Stanley,_1st_Earl_Baldwin_of_Bewdley,_Viscount_Corvedale_of_Corvedale_Baldwin http://dbpedia.org/resource/Stanley,_1st_Earl_Baldwin_of_Bewdley_Baldwin http://dbpedia.org/resource/Stanley_Baldwin http://dbpedia.org/resource/Stanley_Baldwin,_1st_Earl_Baldwin_of_Bewdley http://dbpedia.org/resource/Stanley_Baldwin,_1st_Earl_Baldwin_of_Bewdley,_KG,_PC"
+"2","6","T. Norman","http://dbpedia.org/resource/Tom_Van_Norman","http://dbpedia.org/resource/Torquil_Norman"

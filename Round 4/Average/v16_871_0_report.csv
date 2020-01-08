@@ -1,0 +1,6 @@
+F1: 0.55556,Precision: 0.55556,Recall: 0.55556,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,R. Wilson,http://dbpedia.org/resource/Robert_Wilson_(Missouri),http://dbpedia.org/resource/Ronald_Wilson
+0,2,M. Arden,http://dbpedia.org/resource/Eve_Arden,"http://dbpedia.org/resource/Dame_Mary_Howarth_Mance,_Lady_Mance,_DBE,_QC http://dbpedia.org/resource/Mary_Arden_(judge) http://dbpedia.org/resource/Lady_Justice_Arden http://dbpedia.org/resource/Mary_Mance http://dbpedia.org/resource/The_Rt_Hon._Lady_Justice_Arden http://dbpedia.org/resource/Arden_LJ http://dbpedia.org/resource/Mary_Howarth_Arden http://dbpedia.org/resource/Dame_Mary_Arden"
+0,8,C. Swift,http://dbpedia.org/resource/Clive_Swift,http://dbpedia.org/resource/Caroline_Swift
+0,9,B. O'Keefe,http://dbpedia.org/resource/Michael_O'Keefe,http://dbpedia.org/resource/Barry_O'Keefe

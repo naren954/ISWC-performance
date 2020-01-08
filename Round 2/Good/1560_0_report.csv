@@ -1,0 +1,4 @@
+F1: 0.97753,Precision: 0.97753,Recall: 0.97753,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,4,J. Jackson,http://dbpedia.org/resource/Michael_Jackson,http://dbpedia.org/resource/Joseph_Jackson_(screenwriter) http://dbpedia.org/resource/Joe_Jackson_(screenwriter)
+0,80,C. Clark,http://dbpedia.org/resource/Carroll_Clark,http://dbpedia.org/resource/Colbert_Clark

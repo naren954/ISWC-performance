@@ -1,0 +1,8 @@
+F1: 0.96552,Precision: 0.96552,Recall: 0.96552,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,10,Destiny,http://dbpedia.org/resource/Destiny_(Irene_Adler),http://dbpedia.org/resource/Destiny_(horse)
+0,52,Coronation,http://dbpedia.org/resource/Coronation_(British_horse),http://dbpedia.org/resource/Coronation_V http://dbpedia.org/resource/Coronation_(French_horse)
+0,54,Corinne,http://dbpedia.org/resource/Corinne_Roosevelt_Robinson,http://dbpedia.org/resource/Corinne_(horse)
+0,63,Coastal,http://dbpedia.org/resource/Coastal_Bluff,http://dbpedia.org/resource/Coastal_(horse)
+0,85,Carnegie,"http://dbpedia.org/resource/James_Carnegie,_3rd_Duke_of_Fife",http://dbpedia.org/resource/Carnegie_(horse)
+0,100,Bushranger,http://dbpedia.org/resource/Bushranger_(American_horse),http://dbpedia.org/resource/Bushranger_(horse)

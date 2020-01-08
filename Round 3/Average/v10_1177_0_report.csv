@@ -1,0 +1,8 @@
+F1: 0.68421,Precision: 0.68421,Recall: 0.68421,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Wood Lake,http://de.dbpedia.org/resource/Woods_Lake_(Tasmanien),"http://dbpedia.org/resource/Wood_Lake,_British_Columbia http://dbpedia.org/resource/Wood_lake_(british_columbia) http://dbpedia.org/resource/Wood_Lake_(British_Columbia)"
+0,10,Howard Lake,http://dbpedia.org/resource/Howard_Lake_(Northwest_Territories),http://dbpedia.org/resource/Howard_Lake_(British_Columbia)
+0,11,Gun Lake,http://dbpedia.org/resource/Gun_Lake_(Michigan),http://dbpedia.org/resource/Gun_Lakes http://dbpedia.org/resource/Gun_Lakes_(British_Columbia) http://dbpedia.org/resource/Big_Gun_Lake http://dbpedia.org/resource/Gun_Lake_(British_Columbia)
+0,12,Grand Lake,http://dbpedia.org/resource/Lake_Michigan,http://dbpedia.org/resource/Grand_Lake_(Newfoundland_and_Labrador) http://dbpedia.org/resource/Grand_Lake_(Newfoundland) http://dbpedia.org/resource/Grand_lake_(newfoundland)
+0,15,Eagle Lake,http://dbpedia.org/resource/Eagle_Lake_(Maine),http://dbpedia.org/resource/Eagle_Lake_(British_Columbia)
+0,16,Charlotte Lake,http://dbpedia.org/resource/Charlotte_Lake_(California),http://dbpedia.org/resource/Charlotte_Lake_(British_Columbia)

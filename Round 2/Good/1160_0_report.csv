@@ -1,0 +1,32 @@
+F1: 0.76190,Precision: 0.76190,Recall: 0.76190,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,6,M. Mohan,http://dbpedia.org/resource/Mac_Mohan,http://dbpedia.org/resource/Madan_Mohan_(music_director) http://dbpedia.org/resource/Madan_Mohan_(director) http://dbpedia.org/resource/Madan_Mohan_(composer)
+0,25,K. Lane,http://dbpedia.org/resource/Kenneth_Lane_(canoeist),http://dbpedia.org/resource/Ken_Lane
+0,26,K. Curtis,http://dbpedia.org/resource/King_Curtis,http://dbpedia.org/resource/Ken_Curtis
+0,29,J. Ichikawa,http://dbpedia.org/resource/Kon_Ichikawa,http://dbpedia.org/resource/Jun_Ichikawa http://dbpedia.org/resource/Ichikawa_Jun
+0,34,J. Baker,http://dbpedia.org/resource/Julius_Baker,http://dbpedia.org/resource/Josephine_Baker http://dbpedia.org/resource/Josephene_Baker http://dbpedia.org/resource/Josephine_Baker_Day http://dbpedia.org/resource/Freda_Josephine_McDonald http://dbpedia.org/resource/Danse_banane http://dbpedia.org/resource/Joséphine_Baker http://dbpedia.org/resource/Danse_sauvage
+0,39,J. Collins,http://dbpedia.org/resource/Jackie_Collins,http://dbpedia.org/resource/John_Collins_(jazz_guitarist)
+0,41,J. O'Neill,http://dbpedia.org/resource/John_O'Neill_(VC),http://dbpedia.org/resource/Jimmy_O'Neill_(DJ) http://dbpedia.org/resource/James_Franklin_O'Neill http://dbpedia.org/resource/James_F._O'Neill
+0,43,J. Boyd,http://dbpedia.org/resource/John_Boyd_(military_strategist),http://dbpedia.org/resource/Bwana_Jimmy http://dbpedia.org/resource/Jimmy_Boyd
+0,44,J. Jones,http://dbpedia.org/resource/Jo_Jones,"http://dbpedia.org/resource/Jim_Jones_(cult_leader) http://dbpedia.org/resource/Jim_jones http://dbpedia.org/resource/James_Warren_Jones http://dbpedia.org/resource/Rev._Jim_Jones http://dbpedia.org/resource/James_Warren_""Jim""_Jones http://dbpedia.org/resource/Jim_Jones http://dbpedia.org/resource/Jim_Warren_Jones"
+0,59,J. P. O'Malley,http://dbpedia.org/resource/Martin_O'Malley,http://dbpedia.org/resource/J._Pat_OMalley http://dbpedia.org/resource/J._Patrick_O'Malley http://dbpedia.org/resource/J._Pat_O'Malley http://dbpedia.org/resource/James_Patrick_O'Malley http://dbpedia.org/resource/J._Patt_O'Malley
+0,61,I. Haglund,http://dbpedia.org/resource/Linda_Haglund,http://dbpedia.org/resource/Ivar_Hagland http://dbpedia.org/resource/Ivar_Haglund
+0,64,H. Stevens,http://dbpedia.org/resource/Hollie_Stevens,http://dbpedia.org/resource/Horace_Stevens
+0,66,H. Greene,http://dbpedia.org/resource/Hugh_Greene,http://dbpedia.org/resource/Herbert_Greene_(Broadway_conductor) http://dbpedia.org/resource/Herbie_Greene
+0,67,H. Caldera,http://dbpedia.org/resource/Rafael_Caldera,http://dbpedia.org/resource/Henry_Caldera
+0,69,H. Nelson,"http://dbpedia.org/resource/Horatio_Nelson,_1st_Viscount_Nelson",http://dbpedia.org/resource/Harriet_Hilliard http://dbpedia.org/resource/Harriet_Nelson http://dbpedia.org/resource/Peggy_Lou_Snyder http://dbpedia.org/resource/Harriet_Hilliard_Nelson
+0,76,G. Workman,http://dbpedia.org/resource/Hawksley_Workman,http://dbpedia.org/resource/Geoff_Workman
+0,77,G. Crosby,http://dbpedia.org/resource/Bing_Crosby,http://dbpedia.org/resource/Gary_Evan_Crosby http://dbpedia.org/resource/Gary_Crosby_(actor) http://dbpedia.org/resource/Gary_Crosby_(singer)
+0,78,G. Moore,http://dbpedia.org/resource/Gary_Moore,"http://dbpedia.org/resource/Thomas_Garrison_Morfit http://dbpedia.org/resource/Thomas_Garrison_Morfit,_III http://dbpedia.org/resource/Thomas_Morfit http://dbpedia.org/resource/Garry_Moore"
+0,80,F. Randall,http://dbpedia.org/resource/Tony_Randall,http://dbpedia.org/resource/Frankie_Randall_(singer)
+0,84,F. Sutro,http://dbpedia.org/resource/Adolph_Sutro,http://dbpedia.org/resource/Florence_Sutro
+0,87,E. Kelly,http://dbpedia.org/resource/Gene_Kelly,http://dbpedia.org/resource/Emmett_Kelly http://dbpedia.org/resource/Emmett_kelley http://dbpedia.org/resource/Weary_Willie http://dbpedia.org/resource/Weary_Willy http://dbpedia.org/resource/Emmett_Leo_Kelly
+0,91,E. Massey,http://dbpedia.org/resource/Ilona_Massey,http://dbpedia.org/resource/Edith_massey http://dbpedia.org/resource/Egg_Lady http://dbpedia.org/resource/Edith_Massey
+0,92,E. Carroll,http://dbpedia.org/resource/Earl_Carroll_(vocalist),http://dbpedia.org/resource/Eddie_Carroll
+0,93,E. Nelson,http://dbpedia.org/resource/Ricky_Nelson,http://dbpedia.org/resource/Ed_Nelson http://dbpedia.org/resource/Edwin_Nelson_(actor) http://dbpedia.org/resource/Edwin_Stafford_Nelson http://dbpedia.org/resource/Edwin_S._Nelson
+0,95,D. Mitchell,http://dbpedia.org/resource/Edgar_Mitchell,http://dbpedia.org/resource/Duke_Mitchell
+0,104,D. Day,http://dbpedia.org/resource/Doris_Day,http://dbpedia.org/resource/Dennis_Day http://dbpedia.org/resource/Owen_Patrick_Eugene_McNulty
+0,107,D. Elliott,http://dbpedia.org/resource/Denholm_Elliott,http://dbpedia.org/resource/Dean_Elliot http://dbpedia.org/resource/Dean_Elliott
+0,116,C. Schumann,http://dbpedia.org/resource/Robert_Schumann,"http://dbpedia.org/resource/Clara_Schumann http://dbpedia.org/resource/Clara_Josephine_Schumann http://dbpedia.org/resource/Schumann,_Clara_Josephine http://dbpedia.org/resource/Clara_Wieck http://dbpedia.org/resource/Klara_Schumann http://dbpedia.org/resource/Clara_Josephine_Wieck_Schumann http://dbpedia.org/resource/Clara_Josephine_Wieck http://dbpedia.org/resource/Clara_Wieck_Schumann"
+0,121,C. Marx,http://dbpedia.org/resource/Groucho_Marx,"http://dbpedia.org/resource/Chico_Marx http://dbpedia.org/resource/Leonard_Marx http://dbpedia.org/resource/Leonard_""Chico""_Marx http://dbpedia.org/resource/Maxine_Marx"
+0,124,C. Anderson,http://dbpedia.org/resource/Chris_Anderson_(pianist),http://dbpedia.org/resource/Carl_Anderson_(singer)

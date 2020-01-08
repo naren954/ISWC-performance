@@ -1,0 +1,7 @@
+F1: 0.64286,Precision: 0.64286,Recall: 0.64286,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,8,MTV Unplugged,http://dbpedia.org/resource/MTV_Unplugged_(Korn_album),"http://dbpedia.org/resource/MTV_Unplugged_(10,000_Maniacs_album)"
+1,11,John Henry,http://dbpedia.org/resource/John_Denver,http://dbpedia.org/resource/No_one_knows_my_plan http://dbpedia.org/resource/Meet_James_Ensor http://dbpedia.org/resource/John_Henry_(album)
+1,14,Jubilee,http://dbpedia.org/resource/Jubilee_(Versailles_album),http://dbpedia.org/resource/Jubilee_(Grant_Lee_Buffalo_album) http://dbpedia.org/resource/Jubilee_(cd_by_Grant_Lee_Buffalo)
+1,15,Deconstruction,http://dbpedia.org/resource/Deconstruction_(Devin_Townsend_Project_album),http://dbpedia.org/resource/Deconstruction_(Meredith_Brooks_album)
+1,17,Divine Discontent,http://dbpedia.org/resource/The_Divine_Wings_of_Tragedy,http://dbpedia.org/resource/Divine_Discontent http://dbpedia.org/resource/Breathe_Your_Name

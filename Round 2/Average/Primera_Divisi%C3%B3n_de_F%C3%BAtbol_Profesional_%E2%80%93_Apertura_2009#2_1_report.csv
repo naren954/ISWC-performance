@@ -1,0 +1,5 @@
+F1: 0.70000,Precision: 0.70000,Recall: 0.70000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,2,Ã\u0081guila,http://dbpedia.org/resource/Guila_Bustabo,http://dbpedia.org/resource/C.D._Águila
+1,8,Alianza,http://dbpedia.org/resource/Alianza_Lima,http://dbpedia.org/resource/Alianza_F.C. http://dbpedia.org/resource/Alianza_F.C._(El_Salvador) http://dbpedia.org/resource/Alianza_futbol_club_(san_salvador) http://dbpedia.org/resource/Alianza_F.C._(San_Salvador)
+1,10,AtlÃ©tico Balboa,http://dbpedia.org/resource/Atlético_Balboa_(1950–2010),http://dbpedia.org/resource/C.D._Atlético_Balboa

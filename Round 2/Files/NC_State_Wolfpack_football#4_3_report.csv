@@ -1,0 +1,6 @@
+"F1: 0.90244","Precision: 0.90244","Recall: 0.90244"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"3","18","A.J. Davis","http://dbpedia.org/resource/A._J._Davis_(cornerback,_born_1989)","http://dbpedia.org/resource/A.J._Davis_(American_football) http://dbpedia.org/resource/A._J._Davis_(football_player) http://dbpedia.org/resource/A._J._Davis_(American_football) http://dbpedia.org/resource/A_J_Davis_(American_football) http://dbpedia.org/resource/A._J._Davis_(cornerback,_born_1983) http://dbpedia.org/resource/AJ_Davis_(American_football)"
+"3","29","Pat Thomas","http://dbpedia.org/resource/Pat_Thomas_(defensive_back)","http://dbpedia.org/resource/Pat_Thomas_(linebacker)"
+"3","36","Brian Williams","http://dbpedia.org/resource/Brian_Williams_(center)","http://dbpedia.org/resource/Brian_Williams_(cornerback)"
+"3","42","Jasonâ\u0080\u0088Perry","http://dbpedia.org/resource/C0_and_C1_control_codes","http://dbpedia.org/resource/Jason_Perry_(American_football)"

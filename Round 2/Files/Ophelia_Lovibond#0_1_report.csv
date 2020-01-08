@@ -1,0 +1,6 @@
+"F1: 0.71429","Precision: 0.71429","Recall: 0.71429"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","4","Popcorn","http://dbpedia.org/resource/Popcorn_(novel)","http://dbpedia.org/resource/Popcorn_(2007_film)"
+"1","6","Shadows in the Sun","http://dbpedia.org/resource/Shadows_in_the_Sun","http://dbpedia.org/resource/Shadows_in_the_Sun_(2009_film)"
+"1","11","No Strings Attached","http://dbpedia.org/resource/No_Strings_Attached_(2011_film)","http://dbpedia.org/resource/No_Strings_(2011_film) http://dbpedia.org/resource/No_Strings_(film) http://dbpedia.org/resource/No_Strings_Attached_(film)"
+"1","18","Guardians of the Galaxy","http://dbpedia.org/resource/Guardians_of_the_Galaxy_Vol._2","http://dbpedia.org/resource/GotG_(film) http://dbpedia.org/resource/Guardians_of_the_galaxy_(film) http://dbpedia.org/resource/Guardians_of_the_Galaxy_Vol._1 http://dbpedia.org/resource/Guardians_of_Galaxy_(film) http://dbpedia.org/resource/Guardians_of_the_Galaxy:_The_Universal_Weapon http://dbpedia.org/resource/List_of_accolades_received_by_Guardians_of_the_Galaxy http://dbpedia.org/resource/Guardians_of_the_Galaxy_film http://dbpedia.org/resource/Guardians_of_the_Galaxy_(film) http://dbpedia.org/resource/Guardians_of_the_Galaxy_(2014_film)"

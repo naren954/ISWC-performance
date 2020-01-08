@@ -1,0 +1,5 @@
+"F1: 0.50000","Precision: 0.50000","Recall: 0.50000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","8","The Childrenâ\u0080\u0099s Hospital at Fitzsimons","http://dbpedia.org/resource/Massachusetts_General_Hospital","http://dbpedia.org/resource/Children's_Hospital_(Aurora,_Colorado)"
+"1","13","Building 500","http://dbpedia.org/resource/Fiat_500","http://dbpedia.org/resource/USAMEOS http://dbpedia.org/resource/Army_Hospital_21 http://dbpedia.org/resource/Fitzsimmons_Army_Hospital http://dbpedia.org/resource/Fitzsimons_Army_Medical_Center http://dbpedia.org/resource/Fitzsimmons_Army_Medical_Center http://dbpedia.org/resource/Fitzsimons_Army_Hospital"
+"1","17","Crowne Plaza Denver International Airport","http://dbpedia.org/resource/Denver_International_Airport","http://dbpedia.org/resource/Crown_plaza http://dbpedia.org/resource/Crowne_Plaza_Hotels http://dbpedia.org/resource/Holiday_Inn_Crowne_Plaza http://dbpedia.org/resource/Hotel_Crowne_Plaza,_Bratislava http://dbpedia.org/resource/Crowne_Plaza_Hotel http://dbpedia.org/resource/Crowne_Plaza_Chateau_Lacombe http://dbpedia.org/resource/Crowne_Plaza"

@@ -1,0 +1,36 @@
+F1: 0.46875,Precision: 0.46875,Recall: 0.46875,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,1,D. McKean,http://dbpedia.org/resource/Michael_McKean,http://dbpedia.org/resource/Dave_Mckean http://dbpedia.org/resource/Dave_McKean
+2,3,S. Shahinian,"http://ru.dbpedia.org/resource/Шагинян,_Мирэль_Яковлевна",http://dbpedia.org/resource/Sako_Shahinian
+2,4,T. Kirk,http://dbpedia.org/resource/Thomas_Kirk_(botanist),http://dbpedia.org/resource/Tim_Kirk
+2,5,T. Kirk,http://dbpedia.org/resource/Thomas_Kirk_(botanist),http://dbpedia.org/resource/Tim_Kirk
+2,6,T. Kirk,http://dbpedia.org/resource/Thomas_Kirk_(botanist),http://dbpedia.org/resource/Tim_Kirk
+2,7,D. Zetterström,http://dbpedia.org/resource/Kar_de_Mumma,"http://dbpedia.org/resource/Dan_Zetterstrom http://dbpedia.org/resource/Dan_Zetterström http://dbpedia.org/resource/Zetterström,_Dan http://dbpedia.org/resource/Zetterstrom,_Dan"
+2,9,J. V. Hollander,http://dbpedia.org/resource/John_Vincent_Holland,http://dbpedia.org/resource/Van_Hollander http://dbpedia.org/resource/Jason_Van_Hollander
+2,10,W. McLoughlin,http://dbpedia.org/resource/Patrick_McLoughlin,http://dbpedia.org/resource/Wayne_McLoughlin
+2,14,M. Foreman,http://dbpedia.org/resource/Michael_Foreman_(astronaut),http://dbpedia.org/resource/Michael_Foreman_(illustrator) http://dbpedia.org/resource/Michael_Foreman_(author/illustrator) http://dbpedia.org/resource/Michael_Foreman_(author_/_illustrator)
+2,15,C. Crawford,http://dbpedia.org/resource/Carl_Crawford,http://dbpedia.org/resource/Erasmatazz http://dbpedia.org/resource/People_games http://dbpedia.org/resource/People_game http://dbpedia.org/resource/Chris_Crawford_(game_designer)
+2,17,L. Ehlert,http://dbpedia.org/resource/Tamara_Ehlert,http://dbpedia.org/resource/Lois_J._Ehlert http://dbpedia.org/resource/Lois_Ehlert
+2,18,Q. Blake,http://dbpedia.org/resource/William_Blake,http://dbpedia.org/resource/Quentin_Blake http://dbpedia.org/resource/Quentin_Saxby_Blake http://dbpedia.org/resource/Sir_Quentin_Blake
+2,19,Q. Blake,http://dbpedia.org/resource/William_Blake,http://dbpedia.org/resource/Quentin_Blake http://dbpedia.org/resource/Quentin_Saxby_Blake http://dbpedia.org/resource/Sir_Quentin_Blake
+2,20,H. Rey,http://dbpedia.org/resource/Edward_VII,"http://dbpedia.org/resource/Hans_A._Rey http://dbpedia.org/resource/Hans_Augusto_Reyersbach http://dbpedia.org/resource/H.A._Rey http://dbpedia.org/resource/H_A_Rey http://dbpedia.org/resource/Hans_Augusto_""H._A.""_Rey http://dbpedia.org/resource/H._A._Rey http://dbpedia.org/resource/HA_Rey http://dbpedia.org/resource/Hans_Augusto_""H.A.""_Rey http://dbpedia.org/resource/Hans_Augusto_Rey"
+2,21,W. McLoughlin,http://dbpedia.org/resource/Patrick_McLoughlin,http://dbpedia.org/resource/Wayne_McLoughlin
+2,22,G. Roux,http://dbpedia.org/resource/Guy_Roux,http://dbpedia.org/resource/George_Roux http://dbpedia.org/resource/Georges_Roux_(illustrator)
+2,24,W. Dennis,http://dbpedia.org/resource/William_Dennis,http://dbpedia.org/resource/Wesley_Dennis_(illustrator)
+2,26,R. Berman,http://dbpedia.org/resource/Rick_Berman,http://dbpedia.org/resource/Rachel_Berman
+2,28,S. E. Fabian,http://dbpedia.org/resource/Lara_Fabian,"http://dbpedia.org/resource/Stephen_E._Fabian http://dbpedia.org/resource/Stephen_Emil_Fabian,_Jr. http://dbpedia.org/resource/Stephen_Fabian"
+2,32,A. Lee,http://dbpedia.org/resource/Stan_Lee,http://dbpedia.org/resource/Alan_Lee_(illustrator)
+2,33,D. McKean,http://dbpedia.org/resource/Michael_McKean,http://dbpedia.org/resource/Dave_Mckean http://dbpedia.org/resource/Dave_McKean
+2,39,F. Bellamy,http://dbpedia.org/resource/François-Xavier_Bellamy,http://dbpedia.org/resource/Frank_Bellamy
+2,40,G. Barr,http://dbpedia.org/resource/Genevieve_Barr,http://dbpedia.org/resource/George_Barr_(artist)
+2,41,L. Darling,http://dbpedia.org/resource/Alistair_Darling,http://dbpedia.org/resource/Louis_Darling
+2,43,J. Kuwata,http://dbpedia.org/resource/Keisuke_Kuwata,http://dbpedia.org/resource/Jiro_Kuwata
+2,44,W. Barlowe,http://dbpedia.org/resource/Francis_Barlow_(artist),http://dbpedia.org/resource/Wayne_Douglas_Barlowe http://dbpedia.org/resource/Wayne_Barlowe http://dbpedia.org/resource/Wayne_D._Barlowe http://dbpedia.org/resource/Wayne_D_Barlowe
+2,46,D. Roberts,http://dbpedia.org/resource/David_Roberts_(painter),http://dbpedia.org/resource/David_Roberts_(illustrator)
+2,47,T. Kirk,http://dbpedia.org/resource/Thomas_Kirk_(botanist),http://dbpedia.org/resource/Tim_Kirk
+2,48,R. Palacios,http://dbpedia.org/resource/Ricardo_Palacios,http://dbpedia.org/resource/Rafael_Palacios_(artist)
+2,50,G. McDermott,http://dbpedia.org/resource/William_McDermott,http://dbpedia.org/resource/Anansi_the_Spider_(book) http://dbpedia.org/resource/Gerald_McDermott
+2,51,B. Graham,http://dbpedia.org/resource/Bob_Graham,http://dbpedia.org/resource/Bob_Graham_(illustrator) http://dbpedia.org/resource/Bob_Graham_(author_/_illustrator) http://dbpedia.org/resource/Bob_Graham_(author/illustrator)
+2,52,J. Austin,http://dbpedia.org/resource/Jeff_Austin_(tennis),http://dbpedia.org/resource/James_Austin_(photographer)
+2,54,D. Martin,http://dbpedia.org/resource/George_Martin,http://dbpedia.org/resource/Dick_Martin_(artist)
+2,61,A. Austin,http://dbpedia.org/resource/Stephen_F._Austin,http://dbpedia.org/resource/Alicia_Austin

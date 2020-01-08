@@ -1,0 +1,6 @@
+F1: 0.80952,Precision: 0.80952,Recall: 0.80952,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,10,V. Isakov,http://dbpedia.org/resource/Yury_Isakov,http://dbpedia.org/resource/Vladimir_Isakov
+1,15,Z. Meftahatdinova,http://dbpedia.org/resource/Z._Z._Hill,http://dbpedia.org/resource/Zemfira_Meftakhetdinova http://dbpedia.org/resource/Zemfira_Meftahatdinova http://dbpedia.org/resource/Zemfira_Meftahaddinova http://dbpedia.org/resource/Zeliha_Atıcıoğlu
+1,18,K. Kůrková,http://dbpedia.org/resource/Karolína_Kurková,http://dbpedia.org/resource/Katerina_Kurkova http://dbpedia.org/resource/Katerina_Emmons http://dbpedia.org/resource/Kateřina_Kůrková http://dbpedia.org/resource/Kateřina_Emmons
+1,21,J. M. Rodríguez,http://dbpedia.org/resource/José_Marín_Rodríguez,http://dbpedia.org/resource/Juan_Rodriguez_(sport_shooter) http://dbpedia.org/resource/Juan_Miguel_Rodríguez http://dbpedia.org/resource/Juan_Miguel_Rodriguez

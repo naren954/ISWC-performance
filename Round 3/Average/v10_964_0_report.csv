@@ -1,0 +1,63 @@
+F1: 0.60131,Precision: 0.60131,Recall: 0.60131,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,USS La Salle,http://dbpedia.org/resource/USS_Hancock_(CV-19),http://dbpedia.org/resource/USS_La_Salle_(AGF_3) http://dbpedia.org/resource/USS_LaSalle_(LPD-3) http://dbpedia.org/resource/USS_La_Salle_(AGF3) http://dbpedia.org/resource/LPD-3 http://dbpedia.org/resource/AGF_3 http://dbpedia.org/resource/USS_La_Salle_(AGF-3) http://dbpedia.org/resource/AGF-3 http://dbpedia.org/resource/USS_La_Salle_(LPD-3) http://dbpedia.org/resource/AGF3
+0,7,USS King,http://dbpedia.org/resource/USS_King_(DD-242),http://dbpedia.org/resource/USS_King_(DDG-41) http://dbpedia.org/resource/USS_King_(DLG-10) http://dbpedia.org/resource/USS_King_(DL-10)
+0,8,USS Kidd,http://dbpedia.org/resource/USS_Kidd_(DDG-100),http://dbpedia.org/resource/USS_Kidd_(DDG-993) http://dbpedia.org/resource/DDG_993 http://dbpedia.org/resource/Taiwanese_destroyer_Chi_Teh http://dbpedia.org/resource/USS_KIDD_(DDG-993) http://dbpedia.org/resource/USS_Kidd_(DD-993) http://dbpedia.org/resource/Iranian_destroyer_Kouroush http://dbpedia.org/resource/DDG-993
+0,10,USS Kentucky,http://dbpedia.org/resource/USS_Kentucky_(SSBN-737),http://dbpedia.org/resource/USS_Kentucky_(BB-6) http://dbpedia.org/resource/BB-6
+0,14,USS Juneau,http://dbpedia.org/resource/USS_Juneau_(CL-52),http://dbpedia.org/resource/LPD-10 http://dbpedia.org/resource/USS_Juneau_(LPD-10)
+0,16,USS Jouett,http://dbpedia.org/resource/USS_Jouett_(DD-396),http://dbpedia.org/resource/DLG-29 http://dbpedia.org/resource/USS_Jouett_(DLG-29) http://dbpedia.org/resource/USS_Jouett_(CG-29) http://dbpedia.org/resource/CG-29
+0,33,USS Indianapolis,http://dbpedia.org/resource/USS_Indianapolis_(SSN-697),http://dbpedia.org/resource/USS_Indianapolis_Museum http://dbpedia.org/resource/USS_Indianapolis_(CA-35)
+0,34,USS Independence,http://dbpedia.org/resource/USS_Independence_(CVL-22),http://dbpedia.org/resource/USS_Independence_(CV62) http://dbpedia.org/resource/CV62 http://dbpedia.org/resource/USS_Independence_(CVA_62) http://dbpedia.org/resource/USS_Independence_(CVA62) http://dbpedia.org/resource/CVA62 http://dbpedia.org/resource/CVA-62 http://dbpedia.org/resource/CV_62 http://dbpedia.org/resource/USS_Independence_(CV-62) http://dbpedia.org/resource/CV-62 http://dbpedia.org/resource/CVA_62 http://dbpedia.org/resource/USS_Independence_(CV_62) http://dbpedia.org/resource/USS_Independence_(CVA-62)
+0,36,USS Idaho,http://dbpedia.org/resource/USS_Idaho_(BB-42),http://dbpedia.org/resource/BB-24 http://dbpedia.org/resource/USS_Idaho_(BB-24)
+0,37,USS Hurricane,http://dbpedia.org/resource/Hawker_Hurricane,http://dbpedia.org/resource/USS_Hurricane http://dbpedia.org/resource/USS_Hurricane_(PC-3) http://dbpedia.org/resource/USS_Hurricane_(PC_3)
+0,39,USS Houston,http://dbpedia.org/resource/USS_Houston_(SSN-713),http://dbpedia.org/resource/USS_Houston_(CL-30) http://dbpedia.org/resource/USS_Houston_(CA-30)
+0,40,USS Hornet,http://dbpedia.org/resource/USS_Hornet_(CV-12),http://dbpedia.org/resource/USS_Hornet_(CV-8) http://dbpedia.org/resource/CV-8
+0,42,USS Honolulu,http://dbpedia.org/resource/USS_Honolulu_(SSN-718),http://dbpedia.org/resource/CL-48 http://dbpedia.org/resource/USS_Honolulu_(CL-48)
+0,47,USS Helena,http://dbpedia.org/resource/USS_Helena_(SSN-725),http://dbpedia.org/resource/USS_Helena_(CL-50) http://dbpedia.org/resource/CL-50
+0,50,USS Haven,http://dbpedia.org/resource/USS_Belleau_Wood_(CVL-24),http://dbpedia.org/resource/SS_Marine_Hawk http://dbpedia.org/resource/USS_Haven http://dbpedia.org/resource/USS_Haven_(APH-112) http://dbpedia.org/resource/USS_Haven_(AH-12)
+0,57,USS Gwin,http://dbpedia.org/resource/USS_Gwin_(DD-433),http://dbpedia.org/resource/USS_Cyane_(YFB-4) http://dbpedia.org/resource/USS_Gwin_(TB-16) http://dbpedia.org/resource/USS_Cyane_(TB-16)
+0,60,USS Guam,http://dbpedia.org/resource/USS_Guam_(CB-2),http://dbpedia.org/resource/LPH-9 http://dbpedia.org/resource/USS_Guam_(LPH-9)
+0,62,USS Guadalcanal,http://dbpedia.org/resource/USS_Guadalcanal_(CVE-60),http://dbpedia.org/resource/LPH-7 http://dbpedia.org/resource/USS_Guadalcanal_(LPH-7)
+0,63,USS Growler,http://dbpedia.org/resource/USS_Growler_(SS-215),http://dbpedia.org/resource/USS_Growler_(SSG-577) http://dbpedia.org/resource/SSG-577
+0,64,USS Gridley,http://dbpedia.org/resource/USS_Gridley_(DD-380),http://dbpedia.org/resource/DDG-101 http://dbpedia.org/resource/DDG101 http://dbpedia.org/resource/DDG_101 http://dbpedia.org/resource/USS_Gridley_(DDG-101) http://dbpedia.org/resource/Gridley_(DDG_101) http://dbpedia.org/resource/USS_Gridley_(DDG_101)
+0,66,USS Green Bay,http://dbpedia.org/resource/USS_Greenwich_Bay_(AVP-41),http://dbpedia.org/resource/USS_Green_Bay_(LPD-20) http://dbpedia.org/resource/USS_Green_Bay_(LPD_20)
+0,67,USS Grayback,http://dbpedia.org/resource/USS_Grayback_(SS-208),http://dbpedia.org/resource/USS_Grayback_(SS-574) http://dbpedia.org/resource/SSG-574 http://dbpedia.org/resource/USS_Grayback_(LPSS-574) http://dbpedia.org/resource/USS_Grayback_(APSS-574) http://dbpedia.org/resource/LPSS-574 http://dbpedia.org/resource/USS_Grayback_(SSG-574)
+0,69,USS Goldsborough,http://dbpedia.org/resource/USS_Goldsborough_(DD-188),http://dbpedia.org/resource/USS_Goldsborough_(TB-20) http://dbpedia.org/resource/Goldsborough-class_torpedo_boat
+0,70,USS Goldsborough,http://dbpedia.org/resource/USS_Goldsborough_(DD-188),http://dbpedia.org/resource/DDG-20 http://dbpedia.org/resource/USS_Goldsborough_(DDG-20) http://dbpedia.org/resource/HMAS_Goldsborough
+0,77,USS Galveston,http://dbpedia.org/resource/USS_Galveston_(CL-93),http://dbpedia.org/resource/USS_Galveston_(CL-19) http://dbpedia.org/resource/USS_Galveston_(C-17) http://dbpedia.org/resource/USS_Galveston_(PG-31)
+0,78,USS Galena,http://dbpedia.org/resource/USS_Galena_(1880),http://dbpedia.org/resource/USS_Galena_(1862)
+0,80,USS Fulton,http://dbpedia.org/resource/USS_Fulton_(AS-11),http://dbpedia.org/resource/USS_Fulton_(AS-1) http://dbpedia.org/resource/USS_Fulton_(PG-49)
+0,84,USS Fox,http://dbpedia.org/resource/USS_Fox_(DD-234),http://dbpedia.org/resource/USS_Fox_(TB-13)
+0,85,USS Fox,http://dbpedia.org/resource/USS_Fox_(DD-234),http://dbpedia.org/resource/USS_Fox_(CG-33) http://dbpedia.org/resource/USS_Fox_(DLG-33)
+0,88,USS Forrest Sherman,http://dbpedia.org/resource/USS_Forrest_(DD-461),http://dbpedia.org/resource/DDG_98 http://dbpedia.org/resource/USS_Forrest_Sherman_(DDG_98) http://dbpedia.org/resource/Forrest_Sherman_(DDG_98) http://dbpedia.org/resource/USS_Forrest_Sherman_(DDG-98) http://dbpedia.org/resource/DDG-98 http://dbpedia.org/resource/DDG98
+0,89,USS Forrest Sherman,http://dbpedia.org/resource/USS_Forrest_(DD-461),http://dbpedia.org/resource/USS_Forrest_Sherman_(DD-931)
+0,90,USS Foote,http://dbpedia.org/resource/USS_Foote_(DD-169),http://dbpedia.org/resource/Foote-class_torpedo_boat http://dbpedia.org/resource/USS_Foote_(TB-3)
+0,95,USS Farragut,http://dbpedia.org/resource/USS_Farragut_(DDG-99),http://dbpedia.org/resource/USS_Farragut_(TB-11) http://dbpedia.org/resource/Farragut-class_torpedo_boat
+0,97,USS Farragut,http://dbpedia.org/resource/USS_Farragut_(DDG-99),http://dbpedia.org/resource/USS_Farragut_(DLG-6) http://dbpedia.org/resource/USS_Farragut_(DDG-37) http://dbpedia.org/resource/USS_Farragut_(DL-6)
+0,98,USS Fanshaw Bay,http://dbpedia.org/resource/USS_Oyster_Bay_(AGP-6),http://dbpedia.org/resource/USS_Fanshaw_Bay http://dbpedia.org/resource/USS_Fanshaw_Bay_(CVE-70) http://dbpedia.org/resource/USS_Fanshaw_Bay_(CVHE-70)
+0,103,USS Essex,http://dbpedia.org/resource/USS_Essex_(CV-9),http://dbpedia.org/resource/USS_Essex_(LHD-2) http://dbpedia.org/resource/USS_Essex_(LHD_2) http://dbpedia.org/resource/LHD-2
+0,104,USS Essex,http://dbpedia.org/resource/USS_Essex_(CV-9),http://dbpedia.org/resource/USS_Essex_(IX-10) http://dbpedia.org/resource/USS_Essex_(1874) http://dbpedia.org/resource/USS_Essex_(1876)
+0,106,USS Ericsson,http://dbpedia.org/resource/USS_Ericsson_(DD-56),http://dbpedia.org/resource/USS_Ericsson_(TB-2) http://dbpedia.org/resource/Ericsson-class_torpedo_boat
+0,108,USS Elmer Montgomery,http://dbpedia.org/resource/USS_Montgomery_(DD-121),http://dbpedia.org/resource/USS_Elmer_Montgomery http://dbpedia.org/resource/USS_Elmer_Montgomery_(DE-1082) http://dbpedia.org/resource/USS_Elmer_Montgomery_(FF-1082)
+0,113,USS Du Pont,http://dbpedia.org/resource/USS_Du_Pont_(DD-152),http://dbpedia.org/resource/USS_Du_Pont_(TB-7)
+0,114,USS Du Pont,http://dbpedia.org/resource/USS_Du_Pont_(DD-152),http://dbpedia.org/resource/USS_Du_Pont_(DD-941) http://dbpedia.org/resource/USS_Dupont_(DD-941)
+0,116,USS Drum,http://dbpedia.org/resource/USS_Drum_(SSN-677),http://dbpedia.org/resource/USS_Drum_(AGSS-228) http://dbpedia.org/resource/SS-228 http://dbpedia.org/resource/USS_Drum_(SS-228)
+0,119,USS Dolphin,http://dbpedia.org/resource/USS_Dolphin_(SS-169),http://dbpedia.org/resource/USS_Dolphin_(AGSS-555) http://dbpedia.org/resource/AGSS-555
+0,124,USS Detroit,http://dbpedia.org/resource/USS_Detroit_(CL-8),http://dbpedia.org/resource/AOE-4 http://dbpedia.org/resource/USS_Detroit_(AOE-4)
+0,125,USS Des Moines,http://dbpedia.org/resource/USS_Des_Moines_(CA-134),http://dbpedia.org/resource/USS_Des_Moines_(C-15) http://dbpedia.org/resource/USS_Des_Moines_(PG-29) http://dbpedia.org/resource/USS_Des_Moines_(CL-17)
+0,127,USS Denver,http://dbpedia.org/resource/USS_Denver_(CL-58),http://dbpedia.org/resource/USS_Denver_(CL-16) http://dbpedia.org/resource/USS_Denver_(C-14) http://dbpedia.org/resource/USS_Denver_(PG-28) http://dbpedia.org/resource/CL-16
+0,128,USS DeLong,http://dbpedia.org/resource/USS_DeLong_(DE-684),http://dbpedia.org/resource/USS_DeLong_(TB-28)
+0,129,USS Davis,http://dbpedia.org/resource/USS_Davis_(DD-937),http://dbpedia.org/resource/Davis-class_torpedo_boat http://dbpedia.org/resource/USS_Davis_(TB-12)
+0,134,USS Dale,http://dbpedia.org/resource/USS_Daly_(DD-519),http://dbpedia.org/resource/USS_Dale_(CG-19) http://dbpedia.org/resource/USS_Dale_(DLG-19)
+0,135,USS Dahlgren,http://dbpedia.org/resource/USS_Dahlgren_(DD-187),http://dbpedia.org/resource/USS_Dahlgren_(TB-9) http://dbpedia.org/resource/TB-9 http://dbpedia.org/resource/Dahlgren-class_torpedo_boat
+0,136,USS Dahlgren,http://dbpedia.org/resource/USS_Dahlgren_(DD-187),http://dbpedia.org/resource/USS_Dahlgren_(DLG-12) http://dbpedia.org/resource/USS_Dahlgren_(DL-12) http://dbpedia.org/resource/DLG-12 http://dbpedia.org/resource/USS_Dahlgren_(DDG-43) http://dbpedia.org/resource/DDG-43
+0,138,USS Cushing,http://dbpedia.org/resource/USS_Cushing_(DD-376),http://dbpedia.org/resource/Cushing-class_torpedo_boat http://dbpedia.org/resource/USS_Cushing_(TB-1)
+0,139,USS Craven,http://dbpedia.org/resource/USS_Craven_(DD-382),http://dbpedia.org/resource/USS_Craven_(TB-10)
+0,141,USS Coronado,http://dbpedia.org/resource/USS_Coronado_(LCS-4),http://dbpedia.org/resource/USNS_Coronado_(T-AGF-11) http://dbpedia.org/resource/USS_Coronado_(AGF-11) http://dbpedia.org/resource/LPD-11 http://dbpedia.org/resource/USS_Coronado_(LPD-11)
+0,143,USS Cook,http://dbpedia.org/resource/USS_Cook_(APD-130),http://dbpedia.org/resource/ROCS_Hae_Yang_(FF-936) http://dbpedia.org/resource/USS_Cook_(FF-1083) http://dbpedia.org/resource/ROCS_Hai_Yang_(FF-936) http://dbpedia.org/resource/USS_Cook_(DE-1083)
+0,144,USS Conyngham,http://dbpedia.org/resource/USS_Conyngham_(DD-371),http://dbpedia.org/resource/DDG-17 http://dbpedia.org/resource/USS_Conyngham_(DDG-17)
+0,147,USS Connecticut,http://dbpedia.org/resource/USS_Connecticut_(SSN-22),http://dbpedia.org/resource/USS_Connecticut_(BB-18) http://dbpedia.org/resource/BB-18
+0,149,USS Comstock,http://dbpedia.org/resource/USS_Comstock_(LSD-19),http://dbpedia.org/resource/USS_Comstock_(LSD-45) http://dbpedia.org/resource/USS_Comstock_(LSD_45)
+0,150,USS Columbus,http://dbpedia.org/resource/USS_Columbus_(SSN-762),http://dbpedia.org/resource/USS_Columbus_(CG-12) http://dbpedia.org/resource/USS_Columbus_(CA-74)
+0,151,USS Columbia,http://dbpedia.org/resource/USS_Columbia_(SSN-771),http://dbpedia.org/resource/USS_Columbia_(C-12) http://dbpedia.org/resource/USS_Old_Columbia_(CA-16) http://dbpedia.org/resource/USS_Columbia_(CA-16) http://dbpedia.org/resource/USS_Old_Columbia
+0,152,USS Colorado,http://dbpedia.org/resource/USS_Colorado_(SSN-788),http://dbpedia.org/resource/USS_Colorado_(BB-45) http://dbpedia.org/resource/BB-45 http://dbpedia.org/resource/USS_Colorado_(BB_45)

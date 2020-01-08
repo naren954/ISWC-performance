@@ -1,0 +1,7 @@
+"F1: 0.64286","Precision: 0.64286","Recall: 0.64286"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","1","W. L. ""Jack"" Howard","http://dbpedia.org/resource/William_Lorenzo_Howard","http://dbpedia.org/resource/W._L._""Jack""_Howard"
+"0","5","P. Elmo Futrell Jr.","nan","http://dbpedia.org/resource/P._Elmo_Futrell,_Jr. http://dbpedia.org/resource/P._Elmo_Futrell_Jr."
+"0","7","J. Child","http://dbpedia.org/resource/Joan_Child","http://dbpedia.org/resource/Jonathan_Child"
+"0","9","J. Viger","http://dbpedia.org/resource/Jacques_Viger_(mayor)","http://dbpedia.org/resource/Jacques_Viger_(1787-1858) http://dbpedia.org/resource/Jacques_Viger_(1787–1858)"
+"0","13","C. Wilson","http://dbpedia.org/resource/Charlie_Wilson_(Ohio_politician)","http://dbpedia.org/resource/Charles_Wilson_(Canadian_politician) http://dbpedia.org/resource/Charles_Wilson_(Montreal_mayor)"

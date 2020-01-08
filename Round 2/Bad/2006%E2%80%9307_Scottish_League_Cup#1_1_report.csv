@@ -1,0 +1,4 @@
+F1: 0.33333,Precision: 0.33333,Recall: 0.33333,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,John O'Neill,http://dbpedia.org/resource/John_O'Neill_(VC),http://dbpedia.org/resource/John_O'Neill_(Scottish_footballer)
+1,2,Mark Cairns,http://dbpedia.org/resource/Cairns,http://dbpedia.org/resource/Mark_Cairns_(footballer)

@@ -1,0 +1,8 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Boston Red Sox,http://dbpedia.org/resource/Texas_Rangers_(baseball),http://dbpedia.org/resource/1986_Boston_Red_Sox_season
+0,3,Detroit Tigers,http://dbpedia.org/resource/Detroit_Tigers,http://dbpedia.org/resource/1986_Detroit_Tigers_season
+0,4,Toronto Blue Jays,http://dbpedia.org/resource/Toronto_Blue_Jays,http://dbpedia.org/resource/1986_Toronto_Blue_Jays_season http://dbpedia.org/resource/1986_Toronto_Blue_Jays_season_game_log
+0,5,Cleveland Indians,http://dbpedia.org/resource/Cleveland,http://dbpedia.org/resource/1986_Cleveland_Indians_season
+0,6,Milwaukee Brewers,http://dbpedia.org/resource/Baltimore_Orioles,http://dbpedia.org/resource/1986_Milwaukee_Brewers_season
+0,7,Baltimore Orioles,http://dbpedia.org/resource/Baltimore,http://dbpedia.org/resource/1986_Baltimore_Orioles_season

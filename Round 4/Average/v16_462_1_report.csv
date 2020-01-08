@@ -1,0 +1,32 @@
+F1: 0.67742,Precision: 0.67742,Recall: 0.67742,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,12,Rosemary's Baby,http://dbpedia.org/resource/Rosemary's_Baby_(miniseries),http://dbpedia.org/resource/Rosemary's_Baby_(film)
+1,17,Scent of a Woman,http://dbpedia.org/resource/Scent_of_a_Woman_(1992_film),http://dbpedia.org/resource/Scent_of_a_Woman_(TV_series) http://dbpedia.org/resource/Scent_of_a_Woman_(TV_Series)
+1,18,Roy,http://dbpedia.org/resource/Roy_Orbison,http://dbpedia.org/resource/Roy_(TV_Series) http://dbpedia.org/resource/Roy_(TV_series)
+1,19,Little House on the Prairie,http://dbpedia.org/resource/Little_House_on_the_Prairie_(TV_series),http://dbpedia.org/resource/Little_House_on_the_Prairie_(film)
+1,22,Addicted To Love,http://dbpedia.org/resource/Addicted_to_Love_(film),http://dbpedia.org/resource/Addicted_to_Love_(TV_series) http://dbpedia.org/resource/Addicted_To_Love_(TV_series)
+1,25,Like Land and Sky,http://dbpedia.org/resource/Heaven_&_Earth_(TV_series),"http://dbpedia.org/resource/Like_Sky,_Like_Earth http://dbpedia.org/resource/High_as_the_sky_wide_as_the_earth http://dbpedia.org/resource/하늘만큼_땅만큼 http://dbpedia.org/resource/Like_Land_and_Sky http://dbpedia.org/resource/Like_Land_And_Sky http://dbpedia.org/resource/High_as_the_Sky,_Wide_as_the_Earth"
+1,29,Good Luck,http://dbpedia.org/resource/Good_Luck!!,http://dbpedia.org/resource/Good_Luck_(TV_series)
+1,33,Midas,,http://dbpedia.org/resource/Midas_(TV_series) http://dbpedia.org/resource/Midas_(TV_Series)
+1,34,Porque el amor manda,http://dbpedia.org/resource/Amor_bravío,http://dbpedia.org/resource/Porque_el_amor_manda_(telenovela) http://dbpedia.org/resource/Porque_el_amor_manda http://dbpedia.org/resource/Porque_el_Amor_Manda
+1,41,Terra Nostra,http://dbpedia.org/resource/Terra_Nostra_(TV_series),http://dbpedia.org/resource/Terra_Nostra_(telenovela)
+1,43,The Descendant,http://dbpedia.org/resource/The_Descendants,http://dbpedia.org/resource/The_Descendant
+1,49,Late Night with Jimmy Fallon,http://dbpedia.org/resource/The_Tonight_Show_Starring_Jimmy_Fallon,http://dbpedia.org/resource/LNJF http://dbpedia.org/resource/Lnwjf http://dbpedia.org/resource/The_Late_Show_with_Jimmy_Fallon http://dbpedia.org/resource/Late_Night_with_Jimmy_Fallon http://dbpedia.org/resource/Late_nite_with_jimmy_fallon http://dbpedia.org/resource/LNWJF http://dbpedia.org/resource/Late_Night_With_Jimmy_Fallon http://dbpedia.org/resource/Late_Show_with_Jimmy_Fallon http://dbpedia.org/resource/Slow_Jam_the_News
+1,51,Tomorrow,http://dbpedia.org/resource/Legends_of_Tomorrow,http://dbpedia.org/resource/Tomorrow_show http://dbpedia.org/resource/The_Tomorrow_Show http://dbpedia.org/resource/Tomorrow_(TV_series)
+1,52,Late Night with David Letterman,http://dbpedia.org/resource/Late_Show_with_David_Letterman,http://dbpedia.org/resource/Peaboy http://dbpedia.org/resource/LNWDL http://dbpedia.org/resource/Lnwdl http://dbpedia.org/resource/Late_Night_with_David_Letterman http://dbpedia.org/resource/LNDL http://dbpedia.org/resource/Late_Night_With_David_Letterman http://dbpedia.org/resource/Toast_on_a_Stick http://dbpedia.org/resource/1992_Tonight_Show_conflict
+1,55,Vecinos,http://dbpedia.org/resource/Neighbours,http://dbpedia.org/resource/Vecinos http://dbpedia.org/resource/Vecinos_(Mexican_sitcom) http://dbpedia.org/resource/Vanessa_Balboa
+1,56,Vida robada,http://dbpedia.org/resource/Vida_robada_(1991_TV_series),http://dbpedia.org/resource/Vida_robada_(1961_telenovela) http://dbpedia.org/resource/Vida_robada
+1,61,El abismo,http://dbpedia.org/resource/The_Abyss,http://dbpedia.org/resource/El_abismo
+1,65,TV Novel: Eunhui,http://dbpedia.org/resource/Eunhui,http://dbpedia.org/resource/TV_Novel:_Eunhui http://dbpedia.org/resource/Eun-hee_(TV_series)
+1,66,Penn,http://dbpedia.org/resource/Penn_(biography),http://dbpedia.org/resource/Penn_(TV_series)
+1,69,La Venganza,http://dbpedia.org/resource/Star_Wars:_Episode_III_–_Revenge_of_the_Sith,http://dbpedia.org/resource/La_Venganza_(2002_Telenovela) http://dbpedia.org/resource/La_venganza_(Colombian_telenovela) http://dbpedia.org/resource/La_Venganza_(Colombian_telenovela) http://dbpedia.org/resource/La_venganza_(2002_telenovela) http://dbpedia.org/resource/La_venganza_(Columbian_telenovela) http://dbpedia.org/resource/La_Venganza_(2002_telenovela)
+1,75,Alborada,http://dbpedia.org/resource/Alborada_(TV_series),http://dbpedia.org/resource/Alborada_(telenovela)
+1,76,María Isabel,http://dbpedia.org/resource/María_Isabel_(1997_TV_series),http://dbpedia.org/resource/María_Isabel_(1997_telenovela) http://dbpedia.org/resource/María_Isabel_(telenovela) http://dbpedia.org/resource/Maria_Isabel_(telenovela)
+1,77,Eclipse,http://dbpedia.org/resource/The_Twilight_Saga:_Eclipse,http://dbpedia.org/resource/Eclipse_(telenovela)
+1,79,Eclipse,http://dbpedia.org/resource/The_Twilight_Saga:_Eclipse,http://dbpedia.org/resource/Eclipse_(telenovela)
+1,83,Risas amargas,http://dbpedia.org/resource/La_sospecha,http://dbpedia.org/resource/Risas_amargas
+1,85,Marisol,http://dbpedia.org/resource/Marisol_(Mexican_TV_series),http://dbpedia.org/resource/Marisol_(telenovela)
+1,86,Enamorada,http://dbpedia.org/resource/Enamorada_(1999_TV_series),http://dbpedia.org/resource/Enamorada_(telenovela) http://dbpedia.org/resource/Enamorada_(TV_series)
+1,89,La fuerza del destino,http://dbpedia.org/resource/La_fuerza_del_destino_(TV_series),http://dbpedia.org/resource/La_fuerza_del_destino_(telenovela) http://dbpedia.org/resource/La_Fuerza_del_Destino_(telenovela)
+1,90,La Tracionera,"http://dbpedia.org/resource/La,_la,_la",http://dbpedia.org/resource/La_traicionera http://dbpedia.org/resource/La_Tracionera
+1,92,Emperatriz,http://dbpedia.org/resource/Emperatriz_(Venezuelan_TV_series),http://dbpedia.org/resource/Emperatriz_(1990_telenovela) http://dbpedia.org/resource/Emperatriz_(1990_TV_series)

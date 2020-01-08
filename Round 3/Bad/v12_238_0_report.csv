@@ -1,0 +1,30 @@
+F1: 0.45098,Precision: 0.45098,Recall: 0.45098,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,H. Flavin,http://dbpedia.org/resource/John_Flavin,http://dbpedia.org/resource/Hugh_Flavin
+0,4,H. Dawson,http://dbpedia.org/resource/Harry_Dawson_(association_footballer),http://dbpedia.org/resource/Harry_Dawson_(Gaelic_footballer)
+0,5,G. Maher,http://dbpedia.org/resource/Grace_Maher,http://dbpedia.org/resource/Greg_Maher
+0,8,G. Clarke,"http://dbpedia.org/resource/George_Clarke_(footballer,_born_1900)",http://dbpedia.org/resource/Graham_Clarke_(hurler)
+0,9,G. Callinan,http://dbpedia.org/resource/John_Callinan,http://dbpedia.org/resource/Graham_Callinan
+0,12,G. Quinn,http://dbpedia.org/resource/Graham_Quinn_(rugby_league),http://dbpedia.org/resource/Gerry_Quinn
+0,13,G. McInerney,http://dbpedia.org/resource/Gerry_McInerney_(Galway_hurler),http://dbpedia.org/resource/Gerry_McInerney_(Clare_hurler)
+0,15,G. Keegan,http://dbpedia.org/resource/Kevin_Keegan,http://dbpedia.org/resource/Gerry_Keegan
+0,16,G. Murphy,http://dbpedia.org/resource/George_Murphy_(footballer),http://dbpedia.org/resource/Gerald_Murphy_(hurler)
+0,19,G. Reidy,http://dbpedia.org/resource/Mike_Reidy,http://dbpedia.org/resource/Ger_Reidy
+0,20,G. Power,http://dbpedia.org/resource/Ger_Power,http://dbpedia.org/resource/Ger_Power_(hurler)
+0,22,G. O'Driscoll,http://dbpedia.org/resource/Gay_O'Driscoll,http://dbpedia.org/resource/Ger_O'Driscoll_(hurler)
+0,25,G. Garrett,http://dbpedia.org/resource/Greg_Garrett_(baseball),http://dbpedia.org/resource/George_Garrett_(hurler)
+0,27,G. Savage,http://dbpedia.org/resource/Gary_Savage_(cricketer),http://dbpedia.org/resource/Gary_Savage_(hurler)
+0,29,G. Kavanagh,http://dbpedia.org/resource/Graham_Kavanagh,http://dbpedia.org/resource/Gary_Kavanagh
+0,31,G. Howard,http://dbpedia.org/resource/Gene_Howard,http://dbpedia.org/resource/Garrett_Howard
+0,32,G. Johnson,"http://dbpedia.org/resource/Gary_""Big_Hands""_Johnson",http://dbpedia.org/resource/Gareth_Johnson_(Hurler) http://dbpedia.org/resource/Gareth_Johnson_(hurler)
+0,33,G. Clarke,"http://dbpedia.org/resource/George_Clarke_(footballer,_born_1900)",http://dbpedia.org/resource/Gabriel_Clarke_(hurler)
+0,34,F. Walsh,http://dbpedia.org/resource/Flat_Walsh,http://dbpedia.org/resource/Frankie_Walsh
+0,35,F. Donnelly,http://dbpedia.org/resource/Frank_Donnelly,http://dbpedia.org/resource/Frankie_Donnelly
+0,38,F. Cummins,http://dbpedia.org/resource/Frank_Cummins_(Dublin_hurler),http://dbpedia.org/resource/Frank_Cummins
+0,41,F. Coffey,http://dbpedia.org/resource/Paul_Coffey,http://dbpedia.org/resource/Flor_Coffey
+0,42,F. Hanley,http://dbpedia.org/resource/Grant_Hanley,http://dbpedia.org/resource/Finian_Hanley
+0,45,F. Healy,http://dbpedia.org/resource/Felix_Healy,http://dbpedia.org/resource/Fergal_Healy
+0,47,F. Doherty,http://dbpedia.org/resource/Fred_Doherty,http://dbpedia.org/resource/Fergal_Doherty
+0,48,E. Reilly,http://dbpedia.org/resource/Elkin_Reilly,http://dbpedia.org/resource/Eoin_Reilly
+0,50,E. Mulligan,http://dbpedia.org/resource/Eugene_Mulligan,http://dbpedia.org/resource/Eoin_Mulligan http://dbpedia.org/resource/Owen_Mulligan
+0,51,E. McGrath,http://dbpedia.org/resource/Evan_McGrath,http://dbpedia.org/resource/Eoin_McGrath

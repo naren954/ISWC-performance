@@ -1,0 +1,7 @@
+"F1: 0.96324","Precision: 0.96324","Recall: 0.96324"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","17","Twilight","http://dbpedia.org/resource/Twilight_(Meyer_novel)","http://dbpedia.org/resource/Twilight_(Warriors) http://dbpedia.org/resource/Twilight_(Hunter) http://dbpedia.org/resource/Twilight_(Hunter_novel)"
+"0","53","Treasure Hunters","http://dbpedia.org/resource/Treasure_Hunters_(comic)","http://dbpedia.org/resource/Treasure_Hunters_(book)"
+"0","73","Trace","http://dbpedia.org/resource/Trace_(magazine)","http://dbpedia.org/resource/Trace_(novel)"
+"0","74","Toxin","http://dbpedia.org/resource/Toxins_(journal)","http://dbpedia.org/resource/Toxin_(novel)"
+"0","134","Tokyo","http://dbpedia.org/resource/1964_Summer_Olympics","http://dbpedia.org/resource/The_Devil_of_Nanking_(novel) http://dbpedia.org/resource/The_devil_of_nanking http://dbpedia.org/resource/Tokyo_(novel) http://dbpedia.org/resource/The_Devil_of_Nanking"

@@ -1,0 +1,5 @@
+F1: 0.50000,Precision: 0.50000,Recall: 0.50000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,Bye,http://dbpedia.org/resource/Logan_Bye,http://dbpedia.org/resource/Bye_(sport) http://dbpedia.org/resource/Bi_week http://dbpedia.org/resource/By_week http://dbpedia.org/resource/Bye_week http://dbpedia.org/resource/Sports_bye http://dbpedia.org/resource/Bye_(sports) http://dbpedia.org/resource/BYE_Week
+1,4,Moderne,http://dbpedia.org/resource/Modern_(political_party),http://dbpedia.org/resource/Sporting_Club_Moderne_Le_Mans http://dbpedia.org/resource/Le_Mans_Sarthe_Basket
+1,5,CSKA Sofia,http://dbpedia.org/resource/PFC_CSKA_Sofia,http://dbpedia.org/resource/PBC_CSKA_Sofia

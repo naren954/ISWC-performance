@@ -1,0 +1,11 @@
+F1: 0.95408,Precision: 0.95408,Recall: 0.95408,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,71,Green Desert,http://dbpedia.org/resource/Green_Desert_(horse),http://dbpedia.org/resource/Green_Desert
+2,92,Hastings,"http://dbpedia.org/resource/Henry_de_Hastings,_1st_Baron_Hastings",http://dbpedia.org/resource/Hastings_(horse)
+2,99,Hastings,"http://dbpedia.org/resource/Henry_de_Hastings,_1st_Baron_Hastings",http://dbpedia.org/resource/Hastings_(horse)
+2,100,Hastings,"http://dbpedia.org/resource/Henry_de_Hastings,_1st_Baron_Hastings",http://dbpedia.org/resource/Hastings_(horse)
+2,106,Roberto,http://dbpedia.org/resource/Roberto_Marinho,http://dbpedia.org/resource/Roberto_(horse)
+2,132,Boston,http://dbpedia.org/resource/Thomas_Boston,http://dbpedia.org/resource/Boston_(horse)
+2,138,Boston,http://dbpedia.org/resource/Thomas_Boston,http://dbpedia.org/resource/Boston_(horse)
+2,141,Bold Lad,http://dbpedia.org/resource/Bold_Lad,http://dbpedia.org/resource/Bold_Lad_(IRE) http://dbpedia.org/resource/Bold_Lad_II
+2,147,Sadlers Wells,http://dbpedia.org/resource/Sadler's_Wells_(horse),http://dbpedia.org/resource/Lilian_Baylis_Theatre http://dbpedia.org/resource/New_Sadler's_Wells_Opera http://dbpedia.org/resource/Sadler’s_Wells_Theatre http://dbpedia.org/resource/Sadler's-Wells http://dbpedia.org/resource/Sadler’s_Wells http://dbpedia.org/resource/Sadler's_Wells http://dbpedia.org/resource/New_Sadler's_Wells_Opera_Company http://dbpedia.org/resource/Sadler's_Wells_Theatre http://dbpedia.org/resource/Sadlers_Wells

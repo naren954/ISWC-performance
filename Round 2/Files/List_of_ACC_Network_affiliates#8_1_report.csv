@@ -1,0 +1,6 @@
+"F1: 0.63636","Precision: 0.63636","Recall: 0.63636"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","1","WBBH-TV","http://dbpedia.org/resource/.tv","http://dbpedia.org/resource/WBBH-TV http://dbpedia.org/resource/WBBH"
+"1","2","WCJB-DT2","http://dbpedia.org/resource/WCJB-TV","http://dbpedia.org/resource/WCJB-DT2"
+"1","4","WFOR-TV","http://dbpedia.org/resource/.tv","http://dbpedia.org/resource/CBS_Miami http://dbpedia.org/resource/WFOR-DT http://dbpedia.org/resource/CBS_South_Florida http://dbpedia.org/resource/WFOR-TV"
+"1","5","WBFS","http://dbpedia.org/resource/WBFS-TV","http://dbpedia.org/resource/WBFS"

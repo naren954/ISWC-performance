@@ -1,0 +1,5 @@
+F1: 0.88889,Precision: 0.88889,Recall: 0.88889,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,8,R. Morris,http://dbpedia.org/resource/Russell_Morris,http://dbpedia.org/resource/The_New_Candidates http://dbpedia.org/resource/Ruthie_Mary_Morris http://dbpedia.org/resource/New_Candidates http://dbpedia.org/resource/Ruthie_Morris
+1,9,D. Wiggins,http://dbpedia.org/resource/Bradley_Wiggins,http://dbpedia.org/resource/Dwayne_Wiggins http://dbpedia.org/resource/D'wayne_Wiggins http://dbpedia.org/resource/D'Wayne_Wiggins
+1,16,J. Carter,http://dbpedia.org/resource/Jay-Z,http://dbpedia.org/resource/John_Carter_(musician)

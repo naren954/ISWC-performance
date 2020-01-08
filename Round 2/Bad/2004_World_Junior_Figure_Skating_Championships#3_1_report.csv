@@ -1,0 +1,10 @@
+F1: 0.33333,Precision: 0.33333,Recall: 0.33333,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,Natalia Shestakova \/ Pavel Lebedev,http://dbpedia.org/resource/Pavel_Pavlovich_Lebedev,http://dbpedia.org/resource/Natalia_Shestakova
+1,2,Jessica DubÃ© \/ Bryce Davison,http://dbpedia.org/resource/Jessica_(novel),http://dbpedia.org/resource/Jessica_Dubé
+1,4,Tatiana Kokareva \/ Egor Golovkin,http://dbpedia.org/resource/Egor_Golovkin,http://dbpedia.org/resource/Tatiana_Kokoreva http://dbpedia.org/resource/Tatyna_Kokoreva http://dbpedia.org/resource/Tatiana_Kokareva
+1,6,Brittany Vise \/ Nicholas Kole,http://dbpedia.org/resource/Nicholas_Kole,http://dbpedia.org/resource/Brittney_Vise http://dbpedia.org/resource/Brittany_Vise http://dbpedia.org/resource/Britanny_Vise
+1,8,Andrea Varraux \/ David Pelletier,http://dbpedia.org/resource/David_Pelletier,http://dbpedia.org/resource/Andrea_Varraux http://dbpedia.org/resource/Varraux
+1,9,Brooke Castile \/ Benjamin Okolski,http://dbpedia.org/resource/Brooke_Benjamin,http://dbpedia.org/resource/Brooke_Castille http://dbpedia.org/resource/Brooke_Castile
+1,10,Terra Findlay \/ John Mattatal,http://dbpedia.org/resource/St_John_Paul_II_Catholic_College,http://dbpedia.org/resource/Terra_Findlay http://dbpedia.org/resource/Terra_Findley
+1,11,Rebecca Handke \/ Daniel Wende,http://dbpedia.org/resource/Daniel_Wende,http://dbpedia.org/resource/Rebecca_Handke

@@ -1,0 +1,8 @@
+"F1: 0.40000","Precision: 0.40000","Recall: 0.40000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","2","IFK Eskilstuna","http://dbpedia.org/resource/IFK_Göteborg","http://dbpedia.org/resource/Eskilstuna_IFK http://dbpedia.org/resource/IFK_Eskilstuna"
+"0","6","HÃ¤lsingborgs IF","http://dbpedia.org/resource/Helsingborgs_IF","http://dbpedia.org/resource/Hälsingborgs_IF"
+"0","8","IFK MalmÃ¶","http://dbpedia.org/resource/IFK_Göteborg","http://dbpedia.org/resource/IFK_Malmö"
+"0","9","IFK NorrkÃ¶ping","http://dbpedia.org/resource/IFK_Göteborg","http://dbpedia.org/resource/IFK_Norrköping"
+"0","11","VÃ¤sterÃ¥s IK","http://dbpedia.org/resource/Västerås_SK_Fotboll","http://dbpedia.org/resource/Västerås_IK_Fotboll"
+"0","12","Ã\u0096rgryte IS","http://dbpedia.org/resource/Étude_Op._10,_No._1_(Chopin)","http://dbpedia.org/resource/Örgryte_IS"

@@ -1,0 +1,7 @@
+"F1: 0.92308","Precision: 0.92308","Recall: 0.92308"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","15","B. Scott","http://dbpedia.org/resource/Brian_Scott","http://dbpedia.org/resource/Bob_Scott_(racind_driver) http://dbpedia.org/resource/Bob_Scott_(auto_racer) http://dbpedia.org/resource/Bob_Scott_(racing_driver)"
+"0","39","A. Simon","http://dbpedia.org/resource/Simón_Bolívar","http://dbpedia.org/resource/André_Simon_(racing_driver) http://dbpedia.org/resource/Andre_Simon_(racing_driver)"
+"0","44","A. Simon","http://dbpedia.org/resource/Simón_Bolívar","http://dbpedia.org/resource/André_Simon_(racing_driver) http://dbpedia.org/resource/Andre_Simon_(racing_driver)"
+"0","57","A. Brown","http://dbpedia.org/resource/Arthur_Brown_(footballer,_born_1858)","http://dbpedia.org/resource/Alan_Brown_(racing_driver)"
+"0","64","Ó. González","http://dbpedia.org/resource/Óscar_González_Marcos","http://dbpedia.org/resource/Oscar_Gonzalez_(racing_driver) http://dbpedia.org/resource/Oscar_Gonzales_(racing_driver) http://dbpedia.org/resource/Óscar_González_(racing_driver) http://dbpedia.org/resource/Oscar_Gonzáles_(racing_driver)"

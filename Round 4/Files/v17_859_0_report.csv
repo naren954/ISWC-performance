@@ -1,0 +1,4 @@
+"F1: 0.95238","Precision: 0.95238","Recall: 0.95238"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","10","Bayern","http://de.dbpedia.org/resource/Luitpold_Emanuel_in_Bayern","http://dbpedia.org/resource/Bayern_(horse)"
+"0","18","Australia","http://dbpedia.org/resource/Australia_national_under-17_soccer_team","http://dbpedia.org/resource/Australia_(horse)"

@@ -1,0 +1,12 @@
+F1: 0.89247,Precision: 0.89247,Recall: 0.89247,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,13,O. Johnson,"http://dbpedia.org/resource/Ollie_Johnson_(basketball,_born_1949)",http://dbpedia.org/resource/Orlando_Johnson http://dbpedia.org/resource/Orlando_Johnson_(basketball)
+0,18,N. Cole,http://dbpedia.org/resource/Norris_Cole,http://dbpedia.org/resource/Norris_Cole_(basketball)
+0,19,N. Powell,http://dbpedia.org/resource/Nicole_Powell,http://dbpedia.org/resource/Norman_Powel http://dbpedia.org/resource/Norman_Powell_(basketball) http://dbpedia.org/resource/Norman_Powell
+0,20,N. Smith,http://dbpedia.org/resource/Neil_Smith_(ice_hockey),http://dbpedia.org/resource/Nolan_Smith
+0,34,N. Johnson,http://dbpedia.org/resource/Neil_Johnson_(basketball),http://dbpedia.org/resource/Nick_Johnson_(basketball)
+0,52,M. Turner,http://dbpedia.org/resource/Mike_Turner_(footballer),http://dbpedia.org/resource/Myles_Turner_(basketball)
+0,60,M. Bass,http://dbpedia.org/resource/Mike_Bass,http://dbpedia.org/resource/Mistie_McCray_Bass http://dbpedia.org/resource/Mistie_Bass http://dbpedia.org/resource/Mistie_Mims http://dbpedia.org/resource/Mistie_Williams
+0,67,M. Miller,http://dbpedia.org/resource/Malcolm_Miller_(basketball),http://dbpedia.org/resource/Let_It_Fly_Energy http://dbpedia.org/resource/Mike_Miller_(basketball_player) http://dbpedia.org/resource/Let_it_fly_energy
+0,91,M. Barnes,http://dbpedia.org/resource/Marvin_Barnes,http://dbpedia.org/resource/Matt_Barnes
+0,93,M. Plumlee,http://dbpedia.org/resource/Miles_Plumlee,http://dbpedia.org/resource/Mason_Plumlee http://dbpedia.org/resource/Mason_Alexander_Plumlee

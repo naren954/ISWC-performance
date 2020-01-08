@@ -1,0 +1,6 @@
+"F1: 0.87879","Precision: 0.87879","Recall: 0.87879"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","4","Big Creek Bridge 2","http://dbpedia.org/resource/Big_Creek_Bridge_(Oregon)","http://dbpedia.org/resource/Big_Creek_Bridge_2"
+"0","14","Beaver Creek Bridge","http://dbpedia.org/resource/Beaver_Creek_Bridge_(Schleswig,_Iowa)","http://dbpedia.org/resource/Beaver_Creek_Bridge_(Perry,_Iowa)"
+"0","15","Beaver Creek Bridge","http://dbpedia.org/resource/Beaver_Creek_Bridge_(Schleswig,_Iowa)","http://dbpedia.org/resource/Beaver_Creek_Bridge_(Electra,_Texas)"
+"0","27","Andalusia","http://dbpedia.org/resource/Andalusia_(Los_Angeles,_California)","http://dbpedia.org/resource/Andalusia_(estate)"

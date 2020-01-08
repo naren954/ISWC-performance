@@ -1,0 +1,5 @@
+F1: 0.81250,Precision: 0.81250,Recall: 0.81250,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,A. Blue,http://fr.dbpedia.org/resource/Anastasia_Blue,http://dbpedia.org/resource/Dixie_Diddle http://dbpedia.org/resource/Ashley_Blue http://dbpedia.org/resource/Oriana_Small
+0,4,A. Biaggi,http://de.dbpedia.org/resource/Antonio_Biaggi,http://dbpedia.org/resource/Antonio_Biaggi
+0,16,A. Anderson,http://fr.dbpedia.org/resource/Abella_Anderson,http://dbpedia.org/resource/Abella_Anderson

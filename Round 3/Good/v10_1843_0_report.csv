@@ -1,0 +1,17 @@
+F1: 0.92386,Precision: 0.92386,Recall: 0.92386,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,10,R. Czarnik,http://dbpedia.org/resource/Austin_Czarnik,http://dbpedia.org/resource/Robbie_Czarnik http://dbpedia.org/resource/Robert_Czarnik
+0,22,R. Nash,http://dbpedia.org/resource/Rick_Nash,http://dbpedia.org/resource/Riley_Nash
+0,43,R. Smith,http://dbpedia.org/resource/Rod_Smith_(wide_receiver),http://dbpedia.org/resource/Reilly_Smith
+0,57,R. Torres,http://dbpedia.org/resource/Rainer_Torres,http://dbpedia.org/resource/Raffi_Torres
+0,80,P. Bouchard,http://dbpedia.org/resource/Pierre_Bouchard,http://dbpedia.org/resource/Pierre-Marc_Bouchard http://dbpedia.org/resource/Pierre_marc_bouchard
+0,91,P. Varone,http://dbpedia.org/resource/Phil_Varone_(ice_hockey),http://dbpedia.org/resource/Philip_Varone
+0,113,P. Sýkora,http://dbpedia.org/resource/Petr_Sýkora,"http://dbpedia.org/resource/Petr_Sykora_(ice_hockey,_born_1978) http://dbpedia.org/resource/Petr_Sýkora_(ice_hockey,_born_1978) http://dbpedia.org/resource/Petr_Sykora_(ice_hockey_b._1978) http://dbpedia.org/resource/Petr_Sýkora_(ice_hockey_b._1978) http://dbpedia.org/resource/Petr_Sykora_(Pardubice_ice_hockey_player) http://dbpedia.org/resource/Petr_Sýkora_(Pardubice_ice_hockey_player) http://dbpedia.org/resource/Petr_Sykora_(ice_hockey_centre) http://dbpedia.org/resource/Petr_Sykora_(b._1978)"
+0,116,P. Sýkora,http://dbpedia.org/resource/Petr_Sýkora,"http://dbpedia.org/resource/Petr_Sykora_(ice_hockey,_born_1978) http://dbpedia.org/resource/Petr_Sýkora_(ice_hockey,_born_1978) http://dbpedia.org/resource/Petr_Sykora_(ice_hockey_b._1978) http://dbpedia.org/resource/Petr_Sýkora_(ice_hockey_b._1978) http://dbpedia.org/resource/Petr_Sykora_(Pardubice_ice_hockey_player) http://dbpedia.org/resource/Petr_Sýkora_(Pardubice_ice_hockey_player) http://dbpedia.org/resource/Petr_Sykora_(ice_hockey_centre) http://dbpedia.org/resource/Petr_Sykora_(b._1978)"
+0,143,P. Andersson,"http://dbpedia.org/resource/Peter_Andersson_(ice_hockey,_born_1965)","http://dbpedia.org/resource/Peter_Andersson_(ice_hockey_b._1991) http://dbpedia.org/resource/Peter_Andersson_(ice_hockey,_born_1991)"
+0,147,P. Johnsson,http://dbpedia.org/resource/Pierre_Johnsson,http://dbpedia.org/resource/Per_Johnsson
+0,167,P. Martin,http://de.dbpedia.org/resource/Peter_Martin_(Fußballspieler),http://dbpedia.org/resource/Paul_Martin_(hockey_player) http://dbpedia.org/resource/Paul_Martin_(ice_hockey)
+0,173,P. Ballantyne,http://de.dbpedia.org/resource/Paul_Ballantyne,http://dbpedia.org/resource/Paul_Ballantyne_(ice_hockey) http://dbpedia.org/resource/Paul_Ballantyne_(hockey)
+0,187,P. McNally,,http://dbpedia.org/resource/Patrick_McNally
+0,192,P. Holland,http://dbpedia.org/resource/Peter_Holland_(ice_hockey),http://dbpedia.org/resource/Patrick_Holland_(ice_hockey)
+0,196,P. Davis,http://dbpedia.org/resource/Paul_Davis_(basketball),http://dbpedia.org/resource/Patrick_Davis_(ice_hockey)

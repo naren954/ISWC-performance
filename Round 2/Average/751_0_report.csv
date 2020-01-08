@@ -1,0 +1,6 @@
+F1: 0.75000,Precision: 0.75000,Recall: 0.75000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,C. Gladstone,http://dbpedia.org/resource/Catherine_Gladstone,"http://dbpedia.org/resource/Sir_Charles_Andrew_Gladstone http://dbpedia.org/resource/Charles_Gladstone http://dbpedia.org/resource/Charles_Andrew_Gladstone http://dbpedia.org/resource/Sir_Charles_Andrew_Gladstone,_6th_Baronet,_of_Fasque http://dbpedia.org/resource/Sir_Charles_Andrew_Gladstone,_6th_Baronet http://dbpedia.org/resource/Sir_Charles_Gladstone,_6th_Baronet"
+0,7,A. Cory-Wright,http://dbpedia.org/resource/Cory_Cory-Wright,"http://dbpedia.org/resource/Arthur_Cory-Wright http://dbpedia.org/resource/Arthur_Cory-Wright,_2nd_Baronet http://dbpedia.org/resource/Sir_Arthur_Cory-Wright,_2nd_Baronet"
+0,10,A. G. Acland,http://dbpedia.org/resource/Hubert_Acland,"http://dbpedia.org/resource/Antony_Guy_Acland http://dbpedia.org/resource/Sir_Antony_Guy_Acland,_5th_Baronet http://dbpedia.org/resource/Sir_Anthony_Guy_Acland,_5th_Baronet"
+0,16,A. Janssen,http://dbpedia.org/resource/Pierre_Janssen,"http://dbpedia.org/resource/Sir_Abraham_Janssen,_2nd_Baronet http://dbpedia.org/resource/Abraham_Janssen"

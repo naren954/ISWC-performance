@@ -1,0 +1,12 @@
+F1: 0.68750,Precision: 0.68750,Recall: 0.68750,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,9,C. Hamburger,http://dbpedia.org/resource/Viktor_Hamburger,http://dbpedia.org/resource/Cao_Hamburger
+2,11,D. Kandel,http://dbpedia.org/resource/Eric_Kandel,http://dbpedia.org/resource/Denise_Kandel
+2,13,L. C. Fermi,http://dbpedia.org/resource/University_of_Chicago,http://dbpedia.org/resource/Laura_Fermi http://dbpedia.org/resource/Laura_Capón http://dbpedia.org/resource/Laura_Capon_Fermi http://dbpedia.org/resource/Laura_Capón_Fermi http://dbpedia.org/resource/Laura_Capon
+2,17,N. Alexander,http://dbpedia.org/resource/Neville_Alexander,http://dbpedia.org/resource/Norman_Alexander
+2,22,H. Matsukata,http://dbpedia.org/resource/Hiroki_Matsukata,http://dbpedia.org/resource/Haru_M._Reischauer http://dbpedia.org/resource/Haru_Matsukata http://dbpedia.org/resource/Haru_Reischauer
+2,24,M. Tweedy,http://dbpedia.org/resource/Jeff_Tweedy,http://dbpedia.org/resource/May_Mellanby http://dbpedia.org/resource/Lady_May_Mellanby http://dbpedia.org/resource/May_Tweedy
+2,28,M. Lobel,http://dbpedia.org/resource/Arnold_Lobel,http://dbpedia.org/resource/Mary_D._Lobel http://dbpedia.org/resource/M.D._Lobel http://dbpedia.org/resource/Mary_D_Lobel http://dbpedia.org/resource/Mary_Lobel http://dbpedia.org/resource/MD_Lobel
+2,29,M. Baird,http://dbpedia.org/resource/David_McCurdy_Baird,http://dbpedia.org/resource/May_Baird
+2,31,T. L. Hodgkin,http://dbpedia.org/resource/Alan_Hodgkin,http://dbpedia.org/resource/Thomas_Lionel_Hodgkin
+2,32,R. A. Brady,http://dbpedia.org/resource/Roger_A._Brady,http://dbpedia.org/resource/Robert_A._Brady_(economist)

@@ -1,0 +1,5 @@
+"F1: 0.78571","Precision: 0.78571","Recall: 0.78571"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","7","USS Trippe","http://dbpedia.org/resource/USS_Trippe_(DD-403)","http://dbpedia.org/resource/USS_Trippe_(DD-33) http://dbpedia.org/resource/USCGD_Trippe_(CG-20)"
+"0","8","USS Tripoli","http://dbpedia.org/resource/USS_Tripoli_(CVE-64)","http://dbpedia.org/resource/USS_Tripoli_(LPH-10) http://dbpedia.org/resource/USS_Tripoli_(LPH-10)_Vietnam_Service,_1967-1973 http://dbpedia.org/resource/LPH-10"
+"0","10","USS Trigger","http://dbpedia.org/resource/USS_Trigger_(SS-237)","http://dbpedia.org/resource/SS-564 http://dbpedia.org/resource/USS_Trigger_(SS-564) http://dbpedia.org/resource/Livio_Piomarta_(S515) http://dbpedia.org/resource/Italian_submarine_Livio_Piomarta_(S-515) http://dbpedia.org/resource/Livio_Piomarta_(S-515) http://dbpedia.org/resource/Italian_submarine_Livio_Piomarta_(S515)"

@@ -1,0 +1,5 @@
+"F1: 0.82353","Precision: 0.82353","Recall: 0.82353"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","6","Ben Lomond","http://dbpedia.org/resource/Ben_Lomond","http://dbpedia.org/resource/Ben_Lomond,_Tasmania http://dbpedia.org/resource/Ben_Lomond_(Tasmania) http://dbpedia.org/resource/Ben_Lomond_(Australia)"
+"0","7","Belknap Mountains","http://dbpedia.org/resource/Belknap_Mountain","http://dbpedia.org/resource/Belknap_Range http://dbpedia.org/resource/Belknap_Mountains"
+"0","16","Alagalla Mountain Range","http://dbpedia.org/resource/California_Coast_Ranges","http://dbpedia.org/resource/Alagalla_Mountain_Range_(Potato_Range) http://dbpedia.org/resource/Alagalla_Mountain_Range"

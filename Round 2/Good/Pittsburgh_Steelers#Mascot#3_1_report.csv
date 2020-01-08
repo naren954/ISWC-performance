@@ -1,0 +1,4 @@
+F1: 0.90909,Precision: 0.90909,Recall: 0.90909,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,9,"\Mean\"" Joe Greene""",http://dbpedia.org/resource/Joe_Greene,"http://dbpedia.org/resource/""Mean""_Joe_Greene http://dbpedia.org/resource/Mean_Joe_Green http://dbpedia.org/resource/Joe_Greene_(football_player) http://dbpedia.org/resource/Joe_Greene_(NFL) http://dbpedia.org/resource/Joe_Greene_(American_football) http://dbpedia.org/resource/Charles_Edward_Greene http://dbpedia.org/resource/Mean_Joe_Greene http://dbpedia.org/resource/Mean_Joe_Greene_ad"
+1,18,Dan Rooney,http://dbpedia.org/resource/Art_Rooney,http://dbpedia.org/resource/Daniel_Milton_Rooney http://dbpedia.org/resource/Daniel_Rooney http://dbpedia.org/resource/Daniel_M._Rooney http://dbpedia.org/resource/Daniel_M_Rooney http://dbpedia.org/resource/Dan_Rooney http://dbpedia.org/resource/Daniel_M._Rooney_CBE

@@ -1,0 +1,4 @@
+"F1: 0.95122","Precision: 0.95122","Recall: 0.95122"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","15","Joe Montana Tommy Kramer","http://dbpedia.org/resource/Tommy_Kramer","http://dbpedia.org/resource/Joe_Montana http://dbpedia.org/resource/Joseph_Montana http://dbpedia.org/resource/Joe_montana http://dbpedia.org/resource/The_Comback_Kid http://dbpedia.org/resource/Joseph_Montana_Jr. http://dbpedia.org/resource/Joe_Montana_(football_player) http://dbpedia.org/resource/Joseph_Jr._Montana"
+"1","29","Joe Johnson","http://dbpedia.org/resource/Joe_Johnson_(wide_receiver)","http://dbpedia.org/resource/Joe_Johnson_(defensive_end)"

@@ -1,0 +1,4 @@
+F1: 0.92593,Precision: 0.92593,Recall: 0.92593,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,6,Nelson Piquet,http://dbpedia.org/resource/Nelson_Piquet_Jr.,"http://dbpedia.org/resource/Nelson_Piquet_Sr._(racing_driver) http://dbpedia.org/resource/Nelson_Piquet http://dbpedia.org/resource/Nelson_Piquet,_Sr. http://dbpedia.org/resource/Nelson_Piquet_(racing_driver)"
+2,7,Keke Rosberg,http://dbpedia.org/resource/Nico_Rosberg,http://dbpedia.org/resource/Keijo_Erik_Rosberg http://dbpedia.org/resource/Keke_Rosberg http://dbpedia.org/resource/Keke_Erik_Rosberg http://dbpedia.org/resource/Keijo_Rosberg

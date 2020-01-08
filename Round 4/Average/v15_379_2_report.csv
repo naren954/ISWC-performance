@@ -1,0 +1,26 @@
+F1: 0.57143,Precision: 0.57143,Recall: 0.57143,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,1,P. Pritchard,http://dbpedia.org/resource/Linda_Pritchard,http://dbpedia.org/resource/Paul_Pritchard
+2,3,D. Simpson,http://dbpedia.org/resource/Donna_Simpson,http://dbpedia.org/resource/Dudley_Simpson
+2,6,N. Patrelakis,http://uk.dbpedia.org/resource/Sandra_N.,http://dbpedia.org/resource/Nikko_Patrelakis http://dbpedia.org/resource/Patrelakis
+2,8,D. Kane,http://dbpedia.org/resource/DJ_Kane,http://dbpedia.org/resource/Dave_Kane_(musician)
+2,9,S. Sim,http://dbpedia.org/resource/Sheila_Sim,http://dbpedia.org/resource/Samuel_Sim
+2,10,J. Goldsmith,http://dbpedia.org/resource/Jerry_Goldsmith,http://dbpedia.org/resource/Jon_Goldsmith http://dbpedia.org/resource/Jonathan_Goldsmith_(musician)
+2,11,S. Rogers,http://dbpedia.org/resource/Stan_Rogers,http://dbpedia.org/resource/Shorty_Rogers
+2,12,L. Holdridge,http://dbpedia.org/resource/Cheryl_Holdridge,http://dbpedia.org/resource/Lee_Holdridge
+2,14,A. Brown,http://dbpedia.org/resource/Ruth_Brown,http://dbpedia.org/resource/Archie_Brown
+2,23,J. Scott,http://dbpedia.org/resource/Jill_Scott,http://dbpedia.org/resource/John_Scott_(composer) http://dbpedia.org/resource/Patrick_John_Scott
+2,25,B. Segall,http://dbpedia.org/resource/Ty_Segall,http://dbpedia.org/resource/Bernardo_Segall http://dbpedia.org/resource/Bernardo_segall
+2,28,J. Dooley,http://dbpedia.org/resource/Jim_Dooley,http://dbpedia.org/resource/James_Michael_Dooley http://dbpedia.org/resource/James_Dooley_(composer)
+2,32,D. Pemberton,http://dbpedia.org/resource/John_Stith_Pemberton,http://dbpedia.org/resource/Daniel_Pemberton
+2,33,A. Parker,http://dbpedia.org/resource/Junior_Parker,http://dbpedia.org/resource/Alan_Parker http://dbpedia.org/resource/Sir_Alan_Parker
+2,35,C. Gross,http://dbpedia.org/resource/Chaim_Gross,http://dbpedia.org/resource/Charles_Gross http://dbpedia.org/resource/Charlie_Gross
+2,39,R. Carmichael,http://dbpedia.org/resource/Hoagy_Carmichael,http://dbpedia.org/resource/Ralph_Carmichael_Big_Band http://dbpedia.org/resource/Ralph_Carmichael
+2,41,S. Brown,http://dbpedia.org/resource/James_Brown,http://dbpedia.org/resource/Steve_Brown_(composer)
+2,42,B. Bartlett,http://dbpedia.org/resource/Bob_Bartlett,http://dbpedia.org/resource/Ben_Bartlett
+2,46,P. Williams,http://dbpedia.org/resource/Pharrell_Williams,http://dbpedia.org/resource/Patrick_Williams_(composer) http://dbpedia.org/resource/Pat_Williams_(composer)
+2,47,J. Morris,http://dbpedia.org/resource/Jenny_Morris_(musician),http://dbpedia.org/resource/John_Morris_(composer)
+2,50,D. Davis,http://dbpedia.org/resource/Dennis_Davis,http://dbpedia.org/resource/Don_Davis_(composer)
+2,52,G. Fenton,http://dbpedia.org/resource/Frank_Fenton_(actor),http://dbpedia.org/resource/George_Fenton
+2,55,P. Williams,http://dbpedia.org/resource/Pharrell_Williams,http://dbpedia.org/resource/Patrick_Williams_(composer) http://dbpedia.org/resource/Pat_Williams_(composer)
+2,56,P. Williams,http://dbpedia.org/resource/Pharrell_Williams,http://dbpedia.org/resource/Patrick_Williams_(composer) http://dbpedia.org/resource/Pat_Williams_(composer)

@@ -1,0 +1,6 @@
+F1: 0.80000,Precision: 0.80000,Recall: 0.80000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,8,O. Somov,http://dbpedia.org/resource/Orest_Somov,http://dbpedia.org/resource/Osip_Ivanovich_Somov http://dbpedia.org/resource/Osip_Somov
+1,13,M. Ahmed,http://dbpedia.org/resource/Muzaffar_Ahmed_(economist),http://dbpedia.org/resource/Masud_Ahmed
+1,19,P. University,http://dbpedia.org/resource/Keith_Shine,http://dbpedia.org/resource/Beijing_University http://dbpedia.org/resource/State_University_of_Peking http://dbpedia.org/resource/北京大學 http://dbpedia.org/resource/Peking_university_news http://dbpedia.org/resource/University_of_Beijing http://dbpedia.org/resource/Peking_University http://dbpedia.org/resource/Peita http://dbpedia.org/resource/Imperial_University_of_Peking http://dbpedia.org/resource/University_of_Peking http://dbpedia.org/resource/The_University_of_Beijing http://dbpedia.org/resource/Beida_University http://dbpedia.org/resource/Beijing_Daxue http://dbpedia.org/resource/北大 http://dbpedia.org/resource/Beijing_daxue http://dbpedia.org/resource/北京大学
+1,20,F. Hussain,http://dbpedia.org/resource/Fazle_Hussain,http://dbpedia.org/resource/Faheem_Hussain

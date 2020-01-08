@@ -1,0 +1,13 @@
+F1: 0.86747,Precision: 0.86747,Recall: 0.86747,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,Dooley Adams,http://dbpedia.org/resource/Wade_Dooley,http://dbpedia.org/resource/Dooley_Adams
+0,3,"Joe Aitcheson, Jr.",http://dbpedia.org/resource/Joe_Smith_Jr.,"http://dbpedia.org/resource/Aitcheson http://dbpedia.org/resource/Joe_Aitcheson,_Jr."
+0,8,Jerry D. Bailey,http://dbpedia.org/resource/Jerry_Rawlings,http://dbpedia.org/resource/Jerry_Bailey http://dbpedia.org/resource/Jerry_D._Bailey
+0,17,"Sam Boulmetis, Sr.",http://dbpedia.org/resource/Sam_Adams_Sr.,"http://dbpedia.org/resource/Sam_Boulmetis,_Sr. http://dbpedia.org/resource/Sam_Boulmetis"
+0,53,Conn McCreary,http://dbpedia.org/resource/Keith_McCreary,http://dbpedia.org/resource/Conn_McCreary
+0,55,Jim McLaughlin,http://dbpedia.org/resource/Jim_McLaughlin_(third_baseman),http://dbpedia.org/resource/Jim_McLaughlin_(jockey)
+0,56,Walter Miller,http://dbpedia.org/resource/Walter_Miller_(footballer),http://dbpedia.org/resource/Walter_Miller_(jockey)
+0,79,Tod Sloan,http://dbpedia.org/resource/Tod_Sloan_(ice_hockey),http://dbpedia.org/resource/Tod_Sloan_(jockey) http://dbpedia.org/resource/Tod_Sloane
+0,83,Gary Stevens,"http://dbpedia.org/resource/Gary_Stevens_(footballer,_born_1963)",http://dbpedia.org/resource/Gary_L._Stevens http://dbpedia.org/resource/Gary_Stevens_(jockey)
+0,84,James Stout,http://dbpedia.org/resource/James_Stout_(rackets),http://dbpedia.org/resource/Jimmy_Stout http://dbpedia.org/resource/James_Stout
+0,86,"Bayard Tuckerman, Jr.",http://dbpedia.org/resource/Bayard_Tuckerman_Jr.,"http://dbpedia.org/resource/Bayard_Tuckerman,_Jr."

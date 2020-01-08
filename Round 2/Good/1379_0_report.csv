@@ -1,0 +1,11 @@
+F1: 0.87143,Precision: 0.87143,Recall: 0.87143,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,8,E. Martin,http://dbpedia.org/resource/Evelyn_Martin_(cricketer),http://dbpedia.org/resource/Eugène_Martin http://dbpedia.org/resource/Eugene_Martin
+0,11,E. Martin,http://dbpedia.org/resource/Evelyn_Martin_(cricketer),http://dbpedia.org/resource/Eugène_Martin http://dbpedia.org/resource/Eugene_Martin
+0,30,E. Johnson,http://dbpedia.org/resource/Lyndon_B._Johnson,http://dbpedia.org/resource/Eddie_Johnson_(auto_racer) http://dbpedia.org/resource/Eddie_Johnson_(racing_driver)
+0,33,D. Carter,http://dbpedia.org/resource/Dixie_Carter,http://dbpedia.org/resource/Duane_Claude_Carter http://dbpedia.org/resource/Duane_Carter
+0,39,D. Gibson,http://dbpedia.org/resource/Michael_Gibson_(TV_presenter),http://dbpedia.org/resource/Dickie_Gibson http://dbpedia.org/resource/Dick_Gibson
+0,43,D. Wilson,http://dbpedia.org/resource/Dwaine_Wilson,http://dbpedia.org/resource/Dempsey_Wilson
+0,49,C. Harrison,http://dbpedia.org/resource/Caroline_Harrison,http://dbpedia.org/resource/Cuth_Harrison
+0,51,C. Davis,http://dbpedia.org/resource/Charlie_Davis_(footballer),http://dbpedia.org/resource/Colin_Davis_(driver) http://dbpedia.org/resource/Colin_Davis_(racing_driver) http://dbpedia.org/resource/Colin_Davis_(racecar_driver) http://dbpedia.org/resource/Colin_Davis_(auto_racing)
+0,69,C. Green,http://dbpedia.org/resource/Carl_Green,http://dbpedia.org/resource/Cecil_Green

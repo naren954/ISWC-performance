@@ -1,0 +1,6 @@
+F1: 0.96190,Precision: 0.96190,Recall: 0.96190,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,13,Kone,"http://dbpedia.org/resource/Koné,_New_Caledonia",http://dbpedia.org/resource/Kone_(volcano)
+0,62,Hudson Mountains,http://dbpedia.org/resource/Mount_Hudson,http://dbpedia.org/resource/Hudson_Mountains
+0,70,Hiuchi,http://dbpedia.org/resource/Hiuchigatake,http://dbpedia.org/resource/Hiuchi
+0,76,Healy,"http://dbpedia.org/resource/Healy,_Kansas",http://dbpedia.org/resource/Healy_(volcano)

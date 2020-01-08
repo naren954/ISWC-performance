@@ -1,0 +1,8 @@
+F1: 0.62500,Precision: 0.62500,Recall: 0.62500,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,4,The World,http://dbpedia.org/resource/For_the_World,http://dbpedia.org/resource/The_World_(Brad_Paisley_song)
+1,5,Outta My Head,http://dbpedia.org/resource/Outta_My_Head_(Daughtry_song),http://dbpedia.org/resource/Outta_My_Head_(Craig_Campbell_song)
+1,6,I Surrender,http://dbpedia.org/resource/I_Surrender_(To_the_Spirit_of_the_Night),http://dbpedia.org/resource/I_Surrender_(Michelle_Wright_song)
+1,12,Make Me Smile,http://dbpedia.org/resource/Make_Me_Smile,http://dbpedia.org/resource/Make_me_smile_(Come_up_and_see_me) http://dbpedia.org/resource/Make_Me_Smile_(Come_Up_and_See_Me) http://dbpedia.org/resource/Make_Me_Smile_(Come_Up_And_See_Me) http://dbpedia.org/resource/Come_Up_and_See_Me
+1,13,Sleepless Nights,http://dbpedia.org/resource/Sleepless_Nights_(Never_Let_Her_Go),http://dbpedia.org/resource/Sleepless_Nights_(Faber_Drive_song)
+1,16,Operator,http://dbpedia.org/resource/Hello_Operator_(song),http://dbpedia.org/resource/Operator_(Motown_song)

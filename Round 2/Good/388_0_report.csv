@@ -1,0 +1,38 @@
+F1: 0.81443,Precision: 0.81443,Recall: 0.81443,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,6,P. Standing,http://dbpedia.org/resource/Joseph_Standing,http://dbpedia.org/resource/Percy_G._Standing http://dbpedia.org/resource/Percy_Standing http://dbpedia.org/resource/P.D._Standing http://dbpedia.org/resource/Percy_D._Standing http://dbpedia.org/resource/Percy_Darrell_Standing
+0,33,P. Kelly,http://dbpedia.org/resource/Paul_Kelly_(actor),http://dbpedia.org/resource/Patsy_Kelly
+0,37,P. Hogan,http://dbpedia.org/resource/James_P._Hogan_(director),http://dbpedia.org/resource/Pat_Hogan
+0,38,P. Conway,http://dbpedia.org/resource/Tim_Conway,http://dbpedia.org/resource/Pat_Conway
+0,41,P. Baer,http://dbpedia.org/resource/Richard_Baer,http://dbpedia.org/resource/Parley_Baer
+0,62,N. MacMillan,http://dbpedia.org/resource/Ernest_MacMillan,http://dbpedia.org/resource/Norma_MacMillan http://dbpedia.org/resource/Norma_Macmillan
+0,77,N. Talmadge,http://dbpedia.org/resource/Norma_Talmadge,http://dbpedia.org/resource/Natalie_Talmadge
+0,78,N. Cole,http://dbpedia.org/resource/Nat_King_Cole,http://dbpedia.org/resource/Natalie_Maria_Cole http://dbpedia.org/resource/Natalie_Cole
+0,79,N. P. Ramlee,http://dbpedia.org/resource/P._Ramlee,http://dbpedia.org/resource/Nasir_P._Ramlee http://dbpedia.org/resource/Nasir_P.Ramlee
+0,85,N. Bryant,http://dbpedia.org/resource/Peter_Bryant,http://dbpedia.org/resource/Nana_Bryant
+0,92,M. Farley,http://dbpedia.org/resource/Chris_Farley,http://dbpedia.org/resource/Morgan_Farley
+0,98,M. Lewis,http://dbpedia.org/resource/Mel_Lewis,http://dbpedia.org/resource/Mitchell_Lewis
+0,100,M. Mitchell,http://dbpedia.org/resource/Martha_Mitchell,http://dbpedia.org/resource/Millard_Mitchell
+0,111,M. Thomas,http://dbpedia.org/resource/Myles_Thomas,http://dbpedia.org/resource/Michelle_Thomas
+0,113,M. Staniforth,http://dbpedia.org/resource/Fred_Staniforth,http://dbpedia.org/resource/Timothy_Claypole http://dbpedia.org/resource/Michael_Staniforth
+0,116,M. Dunn,http://dbpedia.org/resource/Clive_Dunn,http://dbpedia.org/resource/Michael_Dunn_(actor) http://dbpedia.org/resource/Gary_Neil_Miller
+0,117,M. Griffin,http://dbpedia.org/resource/Marvin_Griffin,"http://dbpedia.org/resource/Merv_Griffen http://dbpedia.org/resource/Mervyn_Edward_Griffin,_Jr. http://dbpedia.org/resource/Mervyn_Edward_Griffin_Jr. http://dbpedia.org/resource/Mervyn_Griffin http://dbpedia.org/resource/Merv_Griffin"
+0,123,M. Shorey,http://dbpedia.org/resource/Ranvir_Shorey,http://dbpedia.org/resource/Meena_Shorey
+0,125,M. Robson,http://dbpedia.org/resource/Mark_Robson_(film_director),http://dbpedia.org/resource/May_Robson
+0,130,M. Cass,http://dbpedia.org/resource/Cass_Elliot,http://dbpedia.org/resource/Maurice_Cass
+0,133,M. Ansara,http://dbpedia.org/resource/Michael_Ansara,http://dbpedia.org/resource/Matthew_Ansara http://dbpedia.org/resource/Matthew_Michael_Ansara
+0,134,M. Moore,http://pt.dbpedia.org/resource/Mildred_Moore,http://dbpedia.org/resource/Matt_Moore_(actor)
+0,138,M. Nolan,http://dbpedia.org/resource/Lloyd_Nolan,http://dbpedia.org/resource/Mary_Imogene_Robertson http://dbpedia.org/resource/Mary_Nolan_(actress) http://dbpedia.org/resource/Imogene_Robertson http://dbpedia.org/resource/Mary_Nolan_(Actress) http://dbpedia.org/resource/Mary_Robertson http://dbpedia.org/resource/Mary_Nolan
+0,139,M. Martin,http://dbpedia.org/resource/Morrie_Martin,http://dbpedia.org/resource/Mary_Martin http://dbpedia.org/resource/Mary_Virginia_Martin http://dbpedia.org/resource/Ben_Washer
+0,147,M. Mansfield,http://dbpedia.org/resource/Jayne_Mansfield,http://dbpedia.org/resource/Martha_Mansfield
+0,152,M. Davies,http://dbpedia.org/resource/Michael_Davies_(Catholic_writer),http://dbpedia.org/resource/Marion_Douras http://dbpedia.org/resource/Marion_C._Douras http://dbpedia.org/resource/Marion_Cecelia_Douras http://dbpedia.org/resource/Marion_Davies http://dbpedia.org/resource/Marion_Cecilia_Douras http://dbpedia.org/resource/Bernard_J._Douras
+0,154,M. Windsor,http://dbpedia.org/resource/George_VI,http://dbpedia.org/resource/Emily_Marie_Bertleson http://dbpedia.org/resource/Emily_Bertleson http://dbpedia.org/resource/Emily_Marie_Bertelson http://dbpedia.org/resource/Marie_Windsor
+0,157,M. Bell,http://dbpedia.org/resource/Marshall_Bell,http://dbpedia.org/resource/Marie_Bellon-Downey http://dbpedia.org/resource/Marie-Jeanne_Bellon http://dbpedia.org/resource/Marie_Bell http://dbpedia.org/resource/Marie-Jeanne_Bellon-Downey
+0,158,M. Marsh,http://dbpedia.org/resource/Mae_Marsh,http://dbpedia.org/resource/Marilyn_Morgan http://dbpedia.org/resource/Violet_Krauth http://dbpedia.org/resource/Marian_Marsh http://dbpedia.org/resource/Violet_Ethelred_Krauth
+0,163,M. Hemingway,http://dbpedia.org/resource/Ernest_Hemingway,http://dbpedia.org/resource/Margot_Hemingway http://dbpedia.org/resource/Margeaux_Hemingway http://dbpedia.org/resource/Margaux_Louise_Hemingway http://dbpedia.org/resource/Margaux_Hemingway http://dbpedia.org/resource/Margot_Louise_Hemingway http://dbpedia.org/resource/Margo_Hemingway
+0,164,M. Scott,http://dbpedia.org/resource/Gordon_Scott,http://dbpedia.org/resource/Margueretta_Scott http://dbpedia.org/resource/Margaretta_Scott
+0,167,M. Hamilton,http://dbpedia.org/resource/Mahlon_Hamilton,http://dbpedia.org/resource/Margaret_Brainard_Hamilton http://dbpedia.org/resource/Margaret_Hamilton_(actress)
+0,171,M. Moreland,http://dbpedia.org/resource/Jackie_Moreland,http://dbpedia.org/resource/Mantanmoreland http://dbpedia.org/resource/Mantan_Moreland
+0,176,M. Murray,http://dbpedia.org/resource/Maxwell_Murray,http://dbpedia.org/resource/Marie_Adrienne_Koenig http://dbpedia.org/resource/Marie_Koenig http://dbpedia.org/resource/Mae_Murray http://dbpedia.org/resource/Marie_A._Koenig
+0,177,M. Costello,http://dbpedia.org/resource/Maurice_Costello,http://dbpedia.org/resource/Mae_Costello
+0,191,L. Latimer,http://dbpedia.org/resource/Hugh_Latimer,http://dbpedia.org/resource/Louise_Latimer_(actress)

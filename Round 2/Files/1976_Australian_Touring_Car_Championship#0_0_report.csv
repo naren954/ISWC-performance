@@ -1,0 +1,7 @@
+"F1: 0.72222","Precision: 0.72222","Recall: 0.72222"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","5","Peter Brock","http://dbpedia.org/resource/Pete_Brock_(American_football)","http://dbpedia.org/resource/Brock,_Peter http://dbpedia.org/resource/Brocky http://dbpedia.org/resource/Peter_brock http://dbpedia.org/resource/Peter_Brock"
+"0","16","Barry Seton","nan","http://dbpedia.org/resource/Barry_Seton"
+"0","38","John Harvey","http://dbpedia.org/resource/John_Harvey_(American_football)","http://dbpedia.org/resource/John_Harvey_(motorsport) http://dbpedia.org/resource/John_Harvey_(racing_driver)"
+"0","39","Warwick Henderson","http://dbpedia.org/resource/Marcia_Henderson","http://dbpedia.org/resource/Warwick_Henderson"
+"0","78","Johnnie Walker","http://dbpedia.org/resource/Johnnie_Walker_(cyclist)","http://dbpedia.org/resource/Johnnie_Walker_(racing_driver) http://dbpedia.org/resource/Johnnie_Walker_(motor_racing)"

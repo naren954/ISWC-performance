@@ -1,0 +1,5 @@
+F1: 0.70000,Precision: 0.70000,Recall: 0.70000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,11,GenÃ§lerbirliÄ\u009Fi S.K.,http://fr.dbpedia.org/resource/Gifi,http://dbpedia.org/resource/Gençlerbirliği_S.K.
+0,15,Ankaraspor,http://dbpedia.org/resource/Osmanlıspor,http://dbpedia.org/resource/Büyükşehir_Belediye_Ankaraspor
+0,18,AnkaragÃ¼cÃ¼,http://dbpedia.org/resource/MKE_Ankaragücü,http://dbpedia.org/resource/Ankaragücü

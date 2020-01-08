@@ -1,0 +1,4 @@
+F1: 0.85714,Precision: 0.85714,Recall: 0.85714,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,12,A. Ehrlich,http://dbpedia.org/resource/Paul_Ehrlich,http://dbpedia.org/resource/Alojzy_Ehrlich
+0,13,A. Haydon,http://dbpedia.org/resource/Nicky_Haydon,http://dbpedia.org/resource/Adrian_Haydon

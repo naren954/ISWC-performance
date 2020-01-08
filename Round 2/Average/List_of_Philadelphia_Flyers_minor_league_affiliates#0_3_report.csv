@@ -1,0 +1,5 @@
+F1: 0.72727,Precision: 0.72727,Recall: 0.72727,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,2,Phoenix Roadrunners,http://dbpedia.org/resource/Phoenix_Roadrunners_(WHA),http://dbpedia.org/resource/Phoenix_Roadrunners_(WHL)
+3,5,Flint Generals,http://dbpedia.org/resource/Flint_Generals,http://dbpedia.org/resource/Flint_Generals_(1969–1985)
+3,7,San Diego Gulls,http://dbpedia.org/resource/San_Diego_Gulls,http://dbpedia.org/resource/San_Diego_Gulls_(1966–1974)

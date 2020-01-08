@@ -1,0 +1,8 @@
+"F1: 0.96407","Precision: 0.96407","Recall: 0.96407"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","21","1961 United States Grand Prix","http://dbpedia.org/resource/1960_United_States_Grand_Prix","http://dbpedia.org/resource/1961_United_States_Grand_Prix"
+"1","37","1970 United States Grand Prix","http://dbpedia.org/resource/1960_United_States_Grand_Prix","http://dbpedia.org/resource/1970_United_States_Grand_Prix"
+"1","69","1969 United States Grand Prix","http://dbpedia.org/resource/1960_United_States_Grand_Prix","http://dbpedia.org/resource/1969_United_States_Grand_Prix"
+"1","110","1950 Belgian Grand Prix","http://dbpedia.org/resource/1950_British_Grand_Prix","http://dbpedia.org/resource/1950_Belgian_Grand_Prix"
+"1","113","1950 Belgian Grand Prix","http://dbpedia.org/resource/1950_British_Grand_Prix","http://dbpedia.org/resource/1950_Belgian_Grand_Prix"
+"1","161","1978 United States Grand Prix West","http://dbpedia.org/resource/1983_United_States_Grand_Prix_West","http://dbpedia.org/resource/1978_United_States_West_Grand_Prix http://dbpedia.org/resource/1978_United_States_Grand_Prix_West http://dbpedia.org/resource/1978_USA_West_Grand_Prix"

@@ -1,0 +1,4 @@
+F1: 0.84615,Precision: 0.84615,Recall: 0.84615,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,11,Martha Ostenso,http://dbpedia.org/resource/Martha_Henry,http://dbpedia.org/resource/Martha_Ostenso
+0,12,Lawrence O'Toole,http://dbpedia.org/resource/Donald_Lawrence_O'Toole,http://dbpedia.org/resource/Lawrence_O'Toole_(journalist)

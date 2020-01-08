@@ -1,0 +1,6 @@
+F1: 0.63636,Precision: 0.63636,Recall: 0.63636,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,2,Jeopardy,http://dbpedia.org/resource/Jeopardy!,http://dbpedia.org/resource/Jeopardy_(BBC_TV_Series) http://dbpedia.org/resource/Jeopardy_(BBC_TV_Series)) http://dbpedia.org/resource/Jeopardy_(BBC_TV_series) http://dbpedia.org/resource/Jeopardy_(2002) http://dbpedia.org/resource/Jeopardy_(horror/suspense_series) http://dbpedia.org/resource/Jeopardy_(TV_series)
+1,8,The Royal,,http://dbpedia.org/resource/The_Royal http://dbpedia.org/resource/The_Royal_(TV_series) http://dbpedia.org/resource/Elsinby http://dbpedia.org/resource/Bobby_Sheridan
+1,9,Shameless,http://dbpedia.org/resource/Shameless_(American_TV_series),http://dbpedia.org/resource/Shameless_(UK_TV_series) http://dbpedia.org/resource/Robbie_Conway http://dbpedia.org/resource/The_Chatsworth_Estate_(Shameless)
+1,13,Shetland,,http://dbpedia.org/resource/Shetland_(TV_series)

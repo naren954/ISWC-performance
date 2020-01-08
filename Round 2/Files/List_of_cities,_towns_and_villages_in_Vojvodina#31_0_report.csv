@@ -1,0 +1,5 @@
+"F1: 0.40000","Precision: 0.40000","Recall: 0.40000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","1","Ada","http://dbpedia.org/resource/Ada,_Ohio","http://dbpedia.org/resource/Ada,_Serbia http://dbpedia.org/resource/Opština_Ada http://dbpedia.org/resource/Ada_(Serbia) http://dbpedia.org/resource/Opstina_Ada"
+"0","2","Mol","http://dbpedia.org/resource/Mol_(Ada)","http://dbpedia.org/resource/Mol,_Ada http://dbpedia.org/resource/Mol,_Serbia http://dbpedia.org/resource/Mol_(Serbia)"
+"0","3","ObornjaÄ\u008Da","http://dbpedia.org/resource/National_Route_A008_(Argentina)","http://dbpedia.org/resource/Obornjača_(Ada)"

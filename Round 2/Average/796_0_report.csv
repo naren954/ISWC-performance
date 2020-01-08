@@ -1,0 +1,8 @@
+F1: 0.53846,Precision: 0.53846,Recall: 0.53846,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,M. Jackson,http://dbpedia.org/resource/Michael_Jackson,http://dbpedia.org/resource/Mike_Jackson_(businessman)
+0,4,K. Morse,http://dbpedia.org/resource/Barry_Morse,http://dbpedia.org/resource/Kenneth_P._Morse http://dbpedia.org/resource/Kenneth_Morse
+0,7,D. Portnoy,http://dbpedia.org/resource/Ethel_Portnoy,http://dbpedia.org/resource/David_Portnoy
+0,10,A. J. McKenna,http://dbpedia.org/resource/Malcolm_McKenna,http://dbpedia.org/resource/Andrew_McKenna_(businessman) http://dbpedia.org/resource/Andrew_J._McKenna
+0,11,A. Gores,http://dbpedia.org/resource/Al_Gore,http://dbpedia.org/resource/Alec_Gores
+0,13,A. Lee,http://dbpedia.org/resource/Stan_Lee,http://dbpedia.org/resource/Aileen_Lee

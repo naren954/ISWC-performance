@@ -1,0 +1,7 @@
+F1: 0.61538,Precision: 0.61538,Recall: 0.61538,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,Congregation Knesseth Israel,http://dbpedia.org/resource/Congregation_Knesseth_Israel_(Toronto),"http://dbpedia.org/resource/Congregation_Knesseth_Israel_(Ellington,_Connecticut) http://dbpedia.org/resource/Ellington_temple http://dbpedia.org/resource/Ellington_shul http://dbpedia.org/resource/Congregation_Knesseth_Israel,_(Ellington,_Connecticut) http://dbpedia.org/resource/Ellington_synagogue"
+0,4,Congregation Beth Israel,"http://dbpedia.org/resource/Congregation_Beth_Israel_(Portland,_Oregon)","http://dbpedia.org/resource/Beth_Israel_Cemetery_(Meridian,_Mississippi) http://dbpedia.org/resource/Congregation_Beth_Israel_(Meridian,_Mississippi)"
+0,10,Beth Hillel Synagogue,"http://dbpedia.org/resource/Congregation_Beth_Israel_(Portland,_Oregon)",http://dbpedia.org/resource/Beth_Hillel_Synagogue
+0,12,B'nai Jacob Synagogue,"http://dbpedia.org/resource/B'nai_Jacob_Synagogue_(Ottumwa,_Iowa)","http://dbpedia.org/resource/B'Nai_Jacob_Synagogue_(Middletown,_Pennsylvania) http://dbpedia.org/resource/B'nai_Jacob_Synagogue_(Middletown,_Pennsylvania)"
+0,13,B'nai Israel Synagogue,http://dbpedia.org/resource/B'nai_Israel_Synagogue_and_Montefiore_Cemetery,"http://dbpedia.org/resource/B'nai_Israel_Synagogue_(Council_Bluffs,_Iowa)"

@@ -1,0 +1,37 @@
+F1: 0.75524,Precision: 0.75524,Recall: 0.75524,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,1,S. O'Neill,http://dbpedia.org/resource/Martin_O'Neill,http://dbpedia.org/resource/Susie_O'Niell http://dbpedia.org/resource/Susie_O'Neill http://dbpedia.org/resource/Susan_O’Neill http://dbpedia.org/resource/Susan_O'Neill
+3,6,L. Jones,http://dbpedia.org/resource/Lloyd_Jones_(footballer),http://dbpedia.org/resource/Leisel_Jones http://dbpedia.org/resource/Liesel_Jones
+3,7,M. Nakamura,http://dbpedia.org/resource/Micheal_Nakamura,http://dbpedia.org/resource/Mai_Nakamura
+3,8,J. Davis,http://dbpedia.org/resource/James_Davis_(fencer),"http://dbpedia.org/resource/Joshua_(""Josh"")_Clark_Davis http://dbpedia.org/resource/Joshua_Clark_Davis http://dbpedia.org/resource/Josh_Davis_(swimmer)"
+3,16,T. Parkin,http://dbpedia.org/resource/Tommy_Parkin,http://dbpedia.org/resource/Terence_Parkin
+3,25,S. O'Neill,http://dbpedia.org/resource/Martin_O'Neill,http://dbpedia.org/resource/Susie_O'Niell http://dbpedia.org/resource/Susie_O'Neill http://dbpedia.org/resource/Susan_O’Neill http://dbpedia.org/resource/Susan_O'Neill
+3,28,Y. Tajima,http://dbpedia.org/resource/Naoto_Tajima,http://dbpedia.org/resource/Yasuko_Tajima
+3,32,S. O'Neill,http://dbpedia.org/resource/Martin_O'Neill,http://dbpedia.org/resource/Susie_O'Niell http://dbpedia.org/resource/Susie_O'Neill http://dbpedia.org/resource/Susan_O’Neill http://dbpedia.org/resource/Susan_O'Neill
+3,37,L. Jones,http://dbpedia.org/resource/Lloyd_Jones_(footballer),http://dbpedia.org/resource/Leisel_Jones http://dbpedia.org/resource/Liesel_Jones
+3,38,M. Nakamura,http://dbpedia.org/resource/Micheal_Nakamura,http://dbpedia.org/resource/Mai_Nakamura
+3,39,J. Davis,http://dbpedia.org/resource/James_Davis_(fencer),"http://dbpedia.org/resource/Joshua_(""Josh"")_Clark_Davis http://dbpedia.org/resource/Joshua_Clark_Davis http://dbpedia.org/resource/Josh_Davis_(swimmer)"
+3,40,J. Watson,http://dbpedia.org/resource/Jill_Watson,http://dbpedia.org/resource/Josh_Watson
+3,47,T. Parkin,http://dbpedia.org/resource/Tommy_Parkin,http://dbpedia.org/resource/Terence_Parkin
+3,56,S. O'Neill,http://dbpedia.org/resource/Martin_O'Neill,http://dbpedia.org/resource/Susie_O'Niell http://dbpedia.org/resource/Susie_O'Neill http://dbpedia.org/resource/Susan_O’Neill http://dbpedia.org/resource/Susan_O'Neill
+3,57,A. Wagner,http://dbpedia.org/resource/Ashley_Wagner,http://dbpedia.org/resource/Allison_Wagner
+3,62,A. Beard,http://dbpedia.org/resource/Alana_Beard,http://dbpedia.org/resource/Amanda_Beard
+3,64,S. Völker,http://dbpedia.org/resource/Sabine_Völker,http://dbpedia.org/resource/Sandra_Voelker http://dbpedia.org/resource/Sandra_Volker http://dbpedia.org/resource/Sandra_Völker
+3,66,A. Beard,http://dbpedia.org/resource/Alana_Beard,http://dbpedia.org/resource/Amanda_Beard
+3,79,S. Miller,http://dbpedia.org/resource/Shannon_Miller,http://dbpedia.org/resource/Scott_Andrew_Miller http://dbpedia.org/resource/Scott_Miller_(swimmer)
+3,84,S. O'Neill,http://dbpedia.org/resource/Martin_O'Neill,http://dbpedia.org/resource/Susie_O'Niell http://dbpedia.org/resource/Susie_O'Neill http://dbpedia.org/resource/Susan_O’Neill http://dbpedia.org/resource/Susan_O'Neill
+3,85,A. Wagner,http://dbpedia.org/resource/Ashley_Wagner,http://dbpedia.org/resource/Allison_Wagner
+3,90,A. Beard,http://dbpedia.org/resource/Alana_Beard,http://dbpedia.org/resource/Amanda_Beard
+3,92,S. Völker,http://dbpedia.org/resource/Sabine_Völker,http://dbpedia.org/resource/Sandra_Voelker http://dbpedia.org/resource/Sandra_Volker http://dbpedia.org/resource/Sandra_Völker
+3,94,A. Beard,http://dbpedia.org/resource/Alana_Beard,http://dbpedia.org/resource/Amanda_Beard
+3,107,S. Miller,http://dbpedia.org/resource/Shannon_Miller,http://dbpedia.org/resource/Scott_Andrew_Miller http://dbpedia.org/resource/Scott_Miller_(swimmer)
+3,112,L. Li,http://dbpedia.org/resource/Li_Li_(badminton),http://dbpedia.org/resource/Li_Lin_(swimmer) http://dbpedia.org/resource/Lin_Li_(Swimmer) http://dbpedia.org/resource/Lin_Li_(swimmer)
+3,113,J. Evans,http://dbpedia.org/resource/Jonny_Evans,http://dbpedia.org/resource/Janet_Evans
+3,116,W. Xiaohong,http://dbpedia.org/resource/Wang_Xiaohong_(swimmer),http://dbpedia.org/resource/Wang_Xiaohong
+3,117,L. Li,http://dbpedia.org/resource/Li_Li_(badminton),http://dbpedia.org/resource/Li_Lin_(swimmer) http://dbpedia.org/resource/Lin_Li_(Swimmer) http://dbpedia.org/resource/Lin_Li_(swimmer)
+3,118,J. Thompson,http://dbpedia.org/resource/Jocko_Thompson,http://dbpedia.org/resource/Jenny_Thompson
+3,130,L. Li,http://dbpedia.org/resource/Li_Li_(badminton),http://dbpedia.org/resource/Li_Lin_(swimmer) http://dbpedia.org/resource/Lin_Li_(Swimmer) http://dbpedia.org/resource/Lin_Li_(swimmer)
+3,131,J. Evans,http://dbpedia.org/resource/Jonny_Evans,http://dbpedia.org/resource/Janet_Evans
+3,134,W. Xiaohong,http://dbpedia.org/resource/Wang_Xiaohong_(swimmer),http://dbpedia.org/resource/Wang_Xiaohong
+3,135,L. Li,http://dbpedia.org/resource/Li_Li_(badminton),http://dbpedia.org/resource/Li_Lin_(swimmer) http://dbpedia.org/resource/Lin_Li_(Swimmer) http://dbpedia.org/resource/Lin_Li_(swimmer)
+3,136,J. Thompson,http://dbpedia.org/resource/Jocko_Thompson,http://dbpedia.org/resource/Jenny_Thompson

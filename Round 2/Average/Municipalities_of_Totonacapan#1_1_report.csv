@@ -1,0 +1,18 @@
+F1: 0.63636,Precision: 0.63636,Recall: 0.63636,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,2,AhuacatlÃ¡n,"http://dbpedia.org/resource/Ahuacatlán_Municipality,_Puebla","http://dbpedia.org/resource/Ahuacatlán,_Puebla"
+1,14,CuetzalÃ¡n del Progreso,http://dbpedia.org/resource/Cuetzalan_del_Progreso_(municipality),http://dbpedia.org/resource/Cuetzalán_del_Progreso_(municipality)
+1,17,Huauchinango,http://dbpedia.org/resource/Huauchinango,http://dbpedia.org/resource/Huauchinango_(municipality) http://dbpedia.org/resource/Huauchinango_Municipality
+1,22,Huitzilan de SerdÃ¡n,http://dbpedia.org/resource/Huitzilan_de_Serdán,http://dbpedia.org/resource/Huitzilan_de_Serdán_(municipality)
+1,23,IxtacamaxtitlÃ¡n,http://dbpedia.org/resource/Ixtacamaxtitlán,http://dbpedia.org/resource/Ixtacamaxtitlán_(municipality)
+1,27,Jopala,http://dbpedia.org/resource/Yopal,http://dbpedia.org/resource/Jopala http://dbpedia.org/resource/Jopala_(municipality) http://dbpedia.org/resource/Jopala_Municipality
+1,32,PahuatlÃ¡n,http://dbpedia.org/resource/Pahuatlán,http://dbpedia.org/resource/Pahuatlán_(municipality)
+1,36,Tepango de RodrÃ­guez,http://dbpedia.org/resource/Tepango_de_Rodríguez,http://dbpedia.org/resource/Tepango_de_Rodríguez_(municipality)
+1,37,Tepetzintla,"http://dbpedia.org/resource/Tepetzintla,_Puebla",http://dbpedia.org/resource/Tepetzintla_(municipality) http://dbpedia.org/resource/Tepetzintla_Municipality
+1,39,Teteles de Ã\u0081vila Castillo,http://dbpedia.org/resource/Teteles_de_Ávila_Castillo,http://dbpedia.org/resource/Teteles_de_Ávila_Castillo_(municipality)
+1,44,Tlatlauquitepec,http://dbpedia.org/resource/La_Magdalena_Tlatlauquitepec,http://dbpedia.org/resource/Tlatlauquitepec http://dbpedia.org/resource/Tlatlauquitepec_(municipality) http://dbpedia.org/resource/Tlatlauquitepec_Municipality
+1,45,TuzamapÃ¡n de Galeana,http://dbpedia.org/resource/Tuzamapan_de_Galeana,http://dbpedia.org/resource/Tuzamapán_de_Galeana_(municipality)
+1,46,Venustiano Carranza,http://es.dbpedia.org/resource/Municipio_de_Venustiano_Carranza_(Michoacán),"http://dbpedia.org/resource/Venustiano_Carranz_(municipality) http://dbpedia.org/resource/Venustiano_Carranza,_Puebla http://dbpedia.org/resource/Venustiano_Carranza_Municipality,_Puebla"
+1,49,XochitlÃ¡n de Vicente SuÃ¡rez,http://dbpedia.org/resource/Xochitlán_de_Vicente_Suárez,http://dbpedia.org/resource/Xochitlán_de_Vicente_Suárez_(municipality)
+1,52,ZacatlÃ¡n,http://fr.dbpedia.org/resource/Zacatlán,http://dbpedia.org/resource/Zacatlán_(municipality)
+1,54,Zaragoza,"http://dbpedia.org/resource/Zaragoza_Municipality,_Coahuila","http://dbpedia.org/resource/Zaragoza,_Puebla http://dbpedia.org/resource/Zaragoza_Municipality,_Puebla"

@@ -1,0 +1,6 @@
+"F1: 0.91111","Precision: 0.91111","Recall: 0.91111"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","10","A. o. Gloucester","http://dbpedia.org/resource/Richard_III_of_England","http://dbpedia.org/resource/Anne_of_Gloucester http://dbpedia.org/resource/Anne_of_gloucester"
+"1","27","D. o. Brunswick-Lüneburg","http://dbpedia.org/resource/George_I_of_Great_Britain","http://dbpedia.org/resource/Dorothea_of_Brunswick-Luneburg http://dbpedia.org/resource/Dorothea_of_Brunswick-Lüneburg"
+"1","29","S. o. Jülich-Cleves-Berg","http://dbpedia.org/resource/Anne_of_Cleves","http://dbpedia.org/resource/Sibylle_of_Julich-Cleves-Berg http://dbpedia.org/resource/Sibylle_of_Jülich-Cleves-Berg"
+"1","44","Bothwell","http://dbpedia.org/resource/James_Hepburn,_4th_Earl_of_Bothwell","http://dbpedia.org/resource/Bothwell,_Lanarkshire http://dbpedia.org/resource/Bothwell"

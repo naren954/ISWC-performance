@@ -1,0 +1,6 @@
+F1: 0.91667,Precision: 0.91667,Recall: 0.91667,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,16,The Titans,http://dbpedia.org/resource/Teen_Titans,http://dbpedia.org/resource/The_Titans_(novel)
+1,28,The Last Great Tortoise Race,http://dbpedia.org/resource/The_Last_Great_Traffic_Jam,http://dbpedia.org/resource/Jasper_Fforde http://dbpedia.org/resource/The_Last_Great_Tortoise_Race
+1,35,The Escape,http://dbpedia.org/resource/The_Sweet_Escape,http://dbpedia.org/resource/The_Escape_(Baldacci_novel)
+1,36,The Reaction,http://dbpedia.org/resource/Love_Reaction,http://dbpedia.org/resource/The_Reaction_(novel) http://dbpedia.org/resource/The_Reaction http://dbpedia.org/resource/The_Reaction_(Animorphs)

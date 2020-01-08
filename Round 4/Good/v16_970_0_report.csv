@@ -1,0 +1,4 @@
+F1: 0.81818,Precision: 0.81818,Recall: 0.81818,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,6,B. K. Sr.,http://dbpedia.org/resource/Bob_Katter_Sr.,"http://dbpedia.org/resource/Bob_Katter,_senior http://dbpedia.org/resource/Robert_Katter http://dbpedia.org/resource/Bob_Katter,_Sr."
+0,7,B. Singh,http://dbpedia.org/resource/Baldev_Singh,http://dbpedia.org/resource/Beant_Singh(Chief_Minister) http://dbpedia.org/resource/Beant_Singh_(Chief_Minister) http://dbpedia.org/resource/Beant_Singh_(chief_minister)

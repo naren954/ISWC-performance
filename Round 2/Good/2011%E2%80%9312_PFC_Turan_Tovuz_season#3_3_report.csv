@@ -1,0 +1,4 @@
+F1: 0.77778,Precision: 0.77778,Recall: 0.77778,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,11,Ruslan Abbasov,"http://ru.dbpedia.org/resource/Аббасов,_Руслан_Мохсум_оглы","http://dbpedia.org/resource/Ruslan_Abbasov http://dbpedia.org/resource/Abbasov,_Ruslan"
+3,16,Aftandil Hajiyev,http://dbpedia.org/resource/Aftandil_Hacıyev,http://dbpedia.org/resource/Aftandil_Hajiyev http://dbpedia.org/resource/Aftandil_Hadjiev

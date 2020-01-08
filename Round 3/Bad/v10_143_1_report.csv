@@ -1,0 +1,6 @@
+F1: 0.33333,Precision: 0.33333,Recall: 0.33333,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,Ministry of Education,"http://dbpedia.org/resource/Ministry_of_Education,_Youth_and_Sports_(Czech_Republic)",http://dbpedia.org/resource/Ministry_of_education_in_Malaysia http://dbpedia.org/resource/Ministry_of_Education_(Malaysia)
+1,2,International Association of Universities,"http://dbpedia.org/resource/University_of_California,_Riverside",http://dbpedia.org/resource/International_Association_of_Universities http://dbpedia.org/resource/International_association_of_universities http://dbpedia.org/resource/IAU_Universities_List
+1,4,International Association of Universities,"http://dbpedia.org/resource/University_of_California,_Riverside",http://dbpedia.org/resource/International_Association_of_Universities http://dbpedia.org/resource/International_association_of_universities http://dbpedia.org/resource/IAU_Universities_List
+1,6,International Association of Universities,"http://dbpedia.org/resource/University_of_California,_Riverside",http://dbpedia.org/resource/International_Association_of_Universities http://dbpedia.org/resource/International_association_of_universities http://dbpedia.org/resource/IAU_Universities_List

@@ -1,0 +1,8 @@
+F1: 0.45455,Precision: 0.45455,Recall: 0.45455,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,2,R. Philipp,http://dbpedia.org/resource/Carl_Philipp_Emanuel_Bach,http://dbpedia.org/resource/Brust_and_Philipp http://dbpedia.org/resource/Richard_Philipp http://dbpedia.org/resource/Brust_&_Philipp
+2,4,M. C. Meigs,http://dbpedia.org/resource/Merrill_C._Meigs,http://dbpedia.org/resource/Montgomery_C._Meigs_(1816-1892) http://dbpedia.org/resource/Montgomery_C._Meigs http://dbpedia.org/resource/Montgomery_C._Meigs_(1816–1892)
+2,6,A. C. Railroad,http://dbpedia.org/resource/Railway_coupling,http://dbpedia.org/resource/Alaska_Northern_Railroad http://dbpedia.org/resource/Alaska_Central_Railroad http://dbpedia.org/resource/Alaska_Railway http://dbpedia.org/resource/Alaska_Railroad http://dbpedia.org/resource/Alaska_Central_Railway
+2,7,C. a. Cross,http://dbpedia.org/resource/Order_of_the_Bath,http://dbpedia.org/resource/Cross_and_Cross http://dbpedia.org/resource/Cross_&_cross http://dbpedia.org/resource/Cross_&_Cross http://dbpedia.org/resource/Cross_and_Cross_(Architects) http://dbpedia.org/resource/Cross_and_cross
+2,8,H. &. Hunt,http://dbpedia.org/resource/John_Hunt_Morgan,http://dbpedia.org/resource/Joseph_Howland_Hunt http://dbpedia.org/resource/Hunt_&_Hunt http://dbpedia.org/resource/Richard_Howland_Hunt
+2,11,I. Perry,http://dbpedia.org/resource/Katy_Perry,http://dbpedia.org/resource/Isaac_Gale_Perry http://dbpedia.org/resource/Isaac_G._Perry http://dbpedia.org/resource/Isaac_Perry http://dbpedia.org/resource/Issac_G._Perry

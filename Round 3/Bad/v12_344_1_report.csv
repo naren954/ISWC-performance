@@ -1,0 +1,19 @@
+F1: 0.37037,Precision: 0.37037,Recall: 0.37037,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,R. Cross,http://dbpedia.org/resource/Roy_Cross_(artist),http://dbpedia.org/resource/Randy_Cross
+1,8,F. Rachidi,http://dbpedia.org/resource/Ibrahim_Rachidi,http://dbpedia.org/resource/Farhad_Rachidi http://dbpedia.org/resource/Farhad_rachidi
+1,9,D. Opatoshu,http://dbpedia.org/resource/David_Opatoshu,http://dbpedia.org/resource/Danny_Opatoshu
+1,11,S. Langton,"http://dbpedia.org/resource/Sir_George_Cockburn,_10th_Baronet",http://dbpedia.org/resource/Simon_Langton_(television_director)
+1,12,P. Kossoff,http://dbpedia.org/resource/David_Kossoff,http://dbpedia.org/resource/Paul_Kossoff
+1,13,N. Hemmings,http://dbpedia.org/resource/David_Hemmings,http://dbpedia.org/resource/Nolan_Hemmings
+1,14,E. L. Carr,http://dbpedia.org/resource/Emma_P._Carr,http://dbpedia.org/resource/Erin_Lee_Carr
+1,15,D. Jones,http://dbpedia.org/resource/David_Bowie,http://dbpedia.org/resource/Duncan_Jones http://dbpedia.org/resource/Zowie_Bowie http://dbpedia.org/resource/Zoe_Bowie http://dbpedia.org/resource/Mute_(full-length_film)
+1,16,J. Fo,http://dbpedia.org/resource/Dario_Fo,http://dbpedia.org/resource/Jacopo_Fo
+1,17,V. D. Singh,http://dbpedia.org/resource/V._P._Singh,http://dbpedia.org/resource/Vindu_Dara_Singh
+1,18,T. Thomas,http://dbpedia.org/resource/Theodore_Thomas_(conductor),http://dbpedia.org/resource/Tony_Thomas_(producer)
+1,19,D. P. Kelly,http://dbpedia.org/resource/David_Patrick_Kelly,"http://dbpedia.org/resource/Dan_P._Kelly_(sportscaster) http://dbpedia.org/resource/Dan_Kelly,_Jr. http://dbpedia.org/resource/Dan_P._Kelly"
+1,20,P. Duryea,http://dbpedia.org/resource/Dan_Duryea,http://dbpedia.org/resource/Peter_Duryea
+1,22,D. Venkatesh,http://dbpedia.org/resource/Akshay_Venkatesh,http://dbpedia.org/resource/Victory_venkatesh http://dbpedia.org/resource/Daggubati_Venkatesh http://dbpedia.org/resource/Victory_Venkatesh http://dbpedia.org/resource/Venkatesh_(actor)
+1,24,J. Fletcher,http://dbpedia.org/resource/John_Fletcher_(playwright),http://dbpedia.org/resource/Jill_Fletcher http://dbpedia.org/resource/Betty_Astell
+1,25,S. Cusack,http://dbpedia.org/resource/Cyril_Cusack,http://dbpedia.org/resource/Sinead_Cusack http://dbpedia.org/resource/Sinéad_Cusack
+1,26,J. Redgrave,http://dbpedia.org/resource/Corin_Redgrave,http://dbpedia.org/resource/Jemma_Redgrave http://dbpedia.org/resource/Jemima_Rebecca_Redgrave

@@ -1,0 +1,38 @@
+F1: 0.80328,Precision: 0.80328,Recall: 0.80328,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,5,Đ. Krstić,http://dbpedia.org/resource/Bilja_Krstić,http://dbpedia.org/resource/Đorđe_Krstić http://dbpedia.org/resource/Dorde_Krstic http://dbpedia.org/resource/Djordje_Krstić http://dbpedia.org/resource/Djordje_Krstic
+0,13,Y. Gaucher,http://dbpedia.org/resource/Philippe_Gaucher,http://dbpedia.org/resource/Yves_Gaucher http://dbpedia.org/resource/Yves_Gaucher_(artist)
+0,14,Y. Kataev,http://dbpedia.org/resource/Valentin_Kataev,http://dbpedia.org/resource/Yury_Kataev
+0,18,Y. Simon,http://dbpedia.org/resource/Simón_Bolívar,http://dbpedia.org/resource/Yohanan_Simon
+0,30,W. Anderson,http://dbpedia.org/resource/Walter_Anderson_(folklorist),http://dbpedia.org/resource/Winslow_Anderson
+0,31,W. Turner,http://dbpedia.org/resource/J._M._W._Turner,http://dbpedia.org/resource/Winifred_Turner
+0,41,W. E. Lockhart,http://dbpedia.org/resource/Gene_Lockhart,http://dbpedia.org/resource/William_Ewart_Lockhart
+0,42,W. D. Washington,http://dbpedia.org/resource/George_Washington,http://dbpedia.org/resource/William_D._Washington
+0,49,W. Stone,http://dbpedia.org/resource/Witmer_Stone,http://dbpedia.org/resource/Willard_Stone
+0,51,W. Hirsch,http://dbpedia.org/resource/Max_Hirsch_(labor_economist),http://dbpedia.org/resource/Willard_Hirsch
+0,59,W. Goodman,http://dbpedia.org/resource/Al_Goodman,http://dbpedia.org/resource/Walter_Goodman
+0,60,W. Gilbert,http://dbpedia.org/resource/W._S._Gilbert,http://dbpedia.org/resource/Walter_Gilbert_Sculptor http://dbpedia.org/resource/Walter_Gilbert_(sculptor)
+0,66,V. Bazhenov,http://dbpedia.org/resource/Vasily_Bazhenov,http://dbpedia.org/resource/Bazhenov_Vsevolod http://dbpedia.org/resource/Vsevolod_Bazhenov http://dbpedia.org/resource/Bazhenov_Vsevolod_Andreevich http://dbpedia.org/resource/Vsevolod_Andreevich_Bazhenov
+0,77,V. Dehn,http://dbpedia.org/resource/Max_Dehn,http://dbpedia.org/resource/Virginia_Dehn
+0,80,V. Bissen,http://dbpedia.org/resource/Herman_Wilhelm_Bissen,http://dbpedia.org/resource/Vilhelm_Bissen http://dbpedia.org/resource/Christian_Gottlieb_Vilhelm_Bissen
+0,86,V. Golubev,http://dbpedia.org/resource/Vasily_Golubev_(painter),http://dbpedia.org/resource/Vasily_Golubev
+0,98,T. Novikov,http://dbpedia.org/resource/Sergei_Novikov_(mathematician),http://dbpedia.org/resource/Timur_Novikov
+0,103,T. Furlong,http://dbpedia.org/resource/Thomas_Furlong_(poet),http://dbpedia.org/resource/Thomas_Furlong_(artist) http://dbpedia.org/resource/Thomas_(Tomas)_Furlong
+0,105,T. Bezanson,http://dbpedia.org/resource/Philip_Bezanson,http://dbpedia.org/resource/Brother_Thomas_Bezanson http://dbpedia.org/resource/Brother_thomas_bezanson http://dbpedia.org/resource/Brother_thomas http://dbpedia.org/resource/Thomas_Bezanson http://dbpedia.org/resource/Charles_Bezanson
+0,118,S. S. Frackelton,http://de.dbpedia.org/resource/A._S._Samuel,http://dbpedia.org/resource/Susan_Stuart_Goodrich http://dbpedia.org/resource/Susan_Stuart_Frackleton http://dbpedia.org/resource/Susan_Stuart_Frackelton http://dbpedia.org/resource/Susan_Frackelton
+0,127,S. Stevens,http://dbpedia.org/resource/Wallace_Stevens,http://dbpedia.org/resource/Stanford_Stevens
+0,134,S. Nicholson,http://dbpedia.org/resource/William_Nicholson_(artist),http://dbpedia.org/resource/Simon_Nicholson
+0,136,S. Weil,http://dbpedia.org/resource/Simone_Weil,http://dbpedia.org/resource/Shraga_Weil
+0,138,S. Singh,http://dbpedia.org/resource/Simon_Singh,http://dbpedia.org/resource/Shiv_Singh
+0,142,S. I. Osipov,http://dbpedia.org/resource/Alexei_Osipov,http://dbpedia.org/resource/Sergey_Ivanovich_Osipov http://dbpedia.org/resource/Osipov_Sergei http://dbpedia.org/resource/Artist_Sergei_Osipov http://dbpedia.org/resource/Osipov_Sergey_Ivanovich http://dbpedia.org/resource/Osipov_Sergey http://dbpedia.org/resource/Sergei_Ivanovich_Osipov
+0,146,S. Schneider,http://dbpedia.org/resource/Stephen_Schneider,http://dbpedia.org/resource/Sascha_Schneider
+0,149,S. Ross,http://dbpedia.org/resource/Scott_Ross_(harpsichordist),http://dbpedia.org/resource/Sanford_Ross
+0,150,S. Win,http://dbpedia.org/resource/Soe_Win_(prime_minister),http://dbpedia.org/resource/U_San_Win http://dbpedia.org/resource/San_Win
+0,151,S. B. Baker,http://dbpedia.org/resource/Nathaniel_B._Baker,http://dbpedia.org/resource/Burt_Baker http://dbpedia.org/resource/Samuel_Burtis_Baker
+0,154,S. Corona,http://dbpedia.org/resource/Corona_Schröter,http://dbpedia.org/resource/Salvador_Corona
+0,157,R. Ray,http://dbpedia.org/resource/Robin_Ray,http://dbpedia.org/resource/Ruth_Ray
+0,160,R. King,http://dbpedia.org/resource/Edward_VII,http://dbpedia.org/resource/Roy_King
+0,162,R. Mead,http://dbpedia.org/resource/Richard_Mead,http://dbpedia.org/resource/Rose_Mead
+0,165,R. Armstrong,http://dbpedia.org/resource/Robert_Armstrong_(actor),http://dbpedia.org/resource/Rolf_Armstrong
+0,173,R. White,http://dbpedia.org/resource/Byron_White,http://dbpedia.org/resource/Robert_White_(sculptor)
+0,174,R. W. Brown,"http://dbpedia.org/resource/Robert_Brown_(botanist,_born_1773)",http://dbpedia.org/resource/Robert_W._Brown

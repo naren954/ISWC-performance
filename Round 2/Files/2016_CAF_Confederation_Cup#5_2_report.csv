@@ -1,0 +1,5 @@
+"F1: 0.76923","Precision: 0.76923","Recall: 0.76923"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"2","2","Liga Desportiva de Maputo","http://dbpedia.org/resource/Liga_Desportiva_de_Maputo","http://dbpedia.org/resource/Liga_Muçulmana_de_Maputo"
+"2","11","Al-Ahly Shendi","http://dbpedia.org/resource/Al-Ahly_SC_(Benghazi)","http://dbpedia.org/resource/Al-Ahli_Shandi http://dbpedia.org/resource/Al-Ahli_Shendi http://dbpedia.org/resource/Al-Ahly_Shendi"
+"2","16","ENPPI","http://dbpedia.org/resource/ENPPI_SC","http://dbpedia.org/resource/ENPPI_Club"

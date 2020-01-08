@@ -1,0 +1,7 @@
+F1: 0.68750,Precision: 0.68750,Recall: 0.68750,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,14,Shock to the System,http://dbpedia.org/resource/A_Shock_to_the_System_(1990_film),http://dbpedia.org/resource/Shock_to_the_System_(film)
+1,20,Crossing,http://dbpedia.org/resource/Crossing_Lines,http://dbpedia.org/resource/Crossing_(2005_film) http://dbpedia.org/resource/Crossing_(2007_film)
+1,21,Cerberus,http://dbpedia.org/resource/Seisen_Cerberus,http://dbpedia.org/resource/Cerberus_(film)
+1,26,The Lone Ranger,http://dbpedia.org/resource/The_Lone_Ranger_(2013_film),http://dbpedia.org/resource/The_Lone_Ranger_(2003_film) http://dbpedia.org/resource/The_Lone_Ranger_(2003_TV_movie)
+1,32,"Drive, She Said",http://dbpedia.org/resource/Amateur_Night_(2016_film),"http://dbpedia.org/resource/Drive,_She_Said"

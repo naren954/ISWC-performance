@@ -1,0 +1,6 @@
+F1: 0.60000,Precision: 0.60000,Recall: 0.60000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,St. John's Preparatory School,http://dbpedia.org/resource/St._John's_Preparatory_School_(Queens),"http://dbpedia.org/resource/St._John's_Preparatory_School_(Massachusetts) http://dbpedia.org/resource/St._John's_Preparatory_School_(Danvers,_Massachusetts)"
+0,4,Springfield Central High School,"http://dbpedia.org/resource/Central_High_School_(Springfield,_Missouri)",http://dbpedia.org/resource/Springfield_Central_High_School
+0,7,Riverdale High School,"http://dbpedia.org/resource/Riverdale_High_School_(Hancock_County,_Ohio)","http://dbpedia.org/resource/Riverdale_High_School_(Louisiana) http://dbpedia.org/resource/Riverdale_High_School_(Jefferson,_Louisiana) http://dbpedia.org/resource/Riverdale_High_School_(Jefferson_Parish,_Louisiana)"
+0,10,Notre Dame High School,http://dbpedia.org/resource/Notre_Dame_High_School_(Calgary),"http://dbpedia.org/resource/Notre_Dame_High_School_(Riverside,_California) http://dbpedia.org/resource/Notre_Dame_High_School,_Riverside,_California"

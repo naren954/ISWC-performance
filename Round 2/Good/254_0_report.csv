@@ -1,0 +1,17 @@
+F1: 0.88189,Precision: 0.88189,Recall: 0.88189,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,8,Opening Night,http://dbpedia.org/resource/Opening_Night_(Smash),http://dbpedia.org/resource/Opening_Night_(Glee)
+0,9,Open House,http://dbpedia.org/resource/Open_House_(Breaking_Bad),http://dbpedia.org/resource/Open_House_(The_Americans)
+0,11,Open House,http://dbpedia.org/resource/Open_House_(Breaking_Bad),http://dbpedia.org/resource/Open_House_(American_Horror_Story)
+0,12,Only You,http://dbpedia.org/resource/Only_You_(Morning_Musume_song),http://dbpedia.org/resource/Only_You_(The_Americans)
+0,16,Once Upon a Time,http://dbpedia.org/resource/Once_Upon_a_Time_in_Springfield,http://dbpedia.org/resource/Once_Upon_a_Time_(The_Twilight_Zone)
+0,27,No One,http://dbpedia.org/resource/No_One_(Alicia_Keys_song),http://dbpedia.org/resource/Game_of_Thrones_Season_6_Episode_8_:_No_One http://dbpedia.org/resource/No_One_(Game_of_Thrones)
+0,29,Night,http://dbpedia.org/resource/WWE_Raw,http://dbpedia.org/resource/Maalon http://dbpedia.org/resource/Night_(Voyager_episode) http://dbpedia.org/resource/Night_(Star_Trek:_Voyager) http://dbpedia.org/resource/Maalons http://dbpedia.org/resource/Malon_(Star_Trek)
+0,30,New York,"http://dbpedia.org/resource/New_York,_New_York_(1977_film)",http://dbpedia.org/resource/My_Cup http://dbpedia.org/resource/New_York_(Glee)
+0,35,Nebraska,http://dbpedia.org/resource/Nebraska,http://dbpedia.org/resource/Nebraska_(The_Walking_Dead)
+0,60,Mother's Day,http://dbpedia.org/resource/Mother's_Day_(Modern_Family),http://dbpedia.org/resource/Mother's_Day_(Law_&_Order)
+0,64,Monster Swamp,http://dbpedia.org/resource/Monster_Swamp,http://dbpedia.org/resource/Monster_Swamp_(Preacher)
+0,71,Michael,http://dbpedia.org/resource/Michael_(surname),http://dbpedia.org/resource/Michael_(Glee)
+0,109,Life Support,http://dbpedia.org/resource/Life_Support_(film),http://dbpedia.org/resource/Life_Support_(DS9) http://dbpedia.org/resource/Life_Support_(DS9_episode) http://dbpedia.org/resource/Life_Support_(Star_Trek:_Deep_Space_Nine)
+0,112,Legacy,http://dbpedia.org/resource/Tron:_Legacy,http://dbpedia.org/resource/Legacy_(TNG_episode) http://dbpedia.org/resource/Legacy_(Star_Trek:_The_Next_Generation)
+0,124,Justice,http://dbpedia.org/resource/Batman_v_Superman:_Dawn_of_Justice,http://dbpedia.org/resource/Justice_(Star_Trek) http://dbpedia.org/resource/Justice_(Star_Trek:_The_Next_Generation) http://dbpedia.org/resource/Justice_(TNG_episode)

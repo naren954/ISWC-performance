@@ -1,0 +1,5 @@
+"F1: 0.82353","Precision: 0.82353","Recall: 0.82353"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"2","2","Peterborough County, Ontario","http://dbpedia.org/resource/Peterborough","http://dbpedia.org/resource/Colborne_District,_Ontario http://dbpedia.org/resource/Peterborough_County http://dbpedia.org/resource/Peterborough_County,_Ontario"
+"2","11","Hastings County","http://dbpedia.org/resource/Hastings,_New_Zealand","http://dbpedia.org/resource/Foxboro_Green http://dbpedia.org/resource/Foxboro_Green,_ON http://dbpedia.org/resource/Hastings_County,_ON http://dbpedia.org/resource/Foxboro_Green,_Ontario http://dbpedia.org/resource/Hastings_County,_Ontario http://dbpedia.org/resource/Hastings_County http://dbpedia.org/resource/County_of_Hastings"
+"2","15","Spittal an der Drau","http://dbpedia.org/resource/Spittal_an_der_Drau","http://dbpedia.org/resource/Spittal_an_der_Drau_(district) http://dbpedia.org/resource/Spittal_an_der_Drau_District"

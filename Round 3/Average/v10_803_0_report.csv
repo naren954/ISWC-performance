@@ -1,0 +1,16 @@
+F1: 0.66667,Precision: 0.66667,Recall: 0.66667,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,White Horse Tavern,"http://dbpedia.org/resource/White_Horse_Tavern_(Douglassville,_Pennsylvania)","http://dbpedia.org/resource/White_Horse_Tavern_(East_Whiteland_Township,_Pennsylvania)"
+0,3,White Horse Tavern,"http://dbpedia.org/resource/White_Horse_Tavern_(Douglassville,_Pennsylvania)","http://dbpedia.org/resource/White_Horse_Tavern_(Coatesville,_Pennsylvania)"
+0,9,White Hall Foundry,http://dbpedia.org/resource/White_Hall_State_Historic_Site,http://dbpedia.org/resource/White_Hall_Foundry
+0,10,White Hall,http://dbpedia.org/resource/White_Hall_State_Historic_Site,"http://dbpedia.org/resource/White_Hall_(Zanoni,_Virginia)"
+0,11,White Hall,http://dbpedia.org/resource/White_Hall_State_Historic_Site,"http://dbpedia.org/resource/White_Hall_(Toano,_Virginia)"
+0,12,White Hall,http://dbpedia.org/resource/White_Hall_State_Historic_Site,"http://dbpedia.org/resource/White_Hall_(Spring_Hill,_Tennessee)"
+0,13,White Hall,http://dbpedia.org/resource/White_Hall_State_Historic_Site,"http://dbpedia.org/resource/White_Hall_(Princess_Anne,_Maryland)"
+0,16,White Cross-Huntley Hall,http://dbpedia.org/resource/White_Cross–Huntley_Hall,http://dbpedia.org/resource/White_Cross-Huntley_Hall
+0,17,White County Courthouse,http://dbpedia.org/resource/White_Pine_County_Courthouse,"http://dbpedia.org/resource/White_County_Courthouse_(Arkansas) http://dbpedia.org/resource/White_County_Courthouse_(Searcy,_Arkansas)"
+0,19,White Cottage,,"http://dbpedia.org/resource/White_Cottage_(Natchez,_Mississippi)"
+0,28,White Building,"http://dbpedia.org/resource/White_Memorial_Building_(Syracuse,_New_York)","http://dbpedia.org/resource/White_Building_(Bloomington,_Illinois)"
+0,30,White-Turner-Sanford House,http://dbpedia.org/resource/White–Turner–Sanford_House,http://dbpedia.org/resource/White-Turner-Sanford_House
+0,33,White-Pool House,http://dbpedia.org/resource/White–Pool_House,http://dbpedia.org/resource/White-Pool_House
+0,36,White-Ellery House,http://dbpedia.org/resource/White–Ellery_House,http://dbpedia.org/resource/White-Ellery_House

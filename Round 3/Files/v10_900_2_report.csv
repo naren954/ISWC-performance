@@ -1,0 +1,8 @@
+"F1: 0.95000","Precision: 0.95000","Recall: 0.95000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"2","11","Roberto","http://dbpedia.org/resource/Roberto_Marinho","http://dbpedia.org/resource/Roberto_(horse)"
+"2","22","Charlottesville","http://dbpedia.org/resource/Charlottesville_(horse)","http://dbpedia.org/resource/City_of_Charlottesville,_Virginia http://dbpedia.org/resource/Charlottesville_County,_Virginia http://dbpedia.org/resource/Charlottesville,_VA http://dbpedia.org/resource/C-Ville_Weekly http://dbpedia.org/resource/UN/LOCODE:USCHO http://dbpedia.org/resource/Charlotteville,_Virginia http://dbpedia.org/resource/Charlottesville_city,_Virginia http://dbpedia.org/resource/Charlottesville http://dbpedia.org/resource/History_of_Charlottesville,_Virginia http://dbpedia.org/resource/Charlottesville_Tomorrow http://dbpedia.org/resource/Charlottesville_County http://dbpedia.org/resource/Charlottesville,_Virginia http://dbpedia.org/resource/Charlottesville_(VA)"
+"2","32","Roberto","http://dbpedia.org/resource/Roberto_Marinho","http://dbpedia.org/resource/Roberto_(horse)"
+"2","43","Roberto","http://dbpedia.org/resource/Roberto_Marinho","http://dbpedia.org/resource/Roberto_(horse)"
+"2","72","Roberto","http://dbpedia.org/resource/Roberto_Marinho","http://dbpedia.org/resource/Roberto_(horse)"
+"2","93","Roberto","http://dbpedia.org/resource/Roberto_Marinho","http://dbpedia.org/resource/Roberto_(horse)"

@@ -1,0 +1,6 @@
+F1: 0.33333,Precision: 0.33333,Recall: 0.33333,,
+Col,Row,Value,Submitted URI,Correct URI's
+4,2,"Baltimore County, Maryland",http://dbpedia.org/resource/Baltimore,"http://dbpedia.org/resource/Baltimore_County_Fire_Department http://dbpedia.org/resource/Baltimore_County,_Maryland http://dbpedia.org/resource/History_of_Baltimore_County,_Maryland http://dbpedia.org/resource/Baltimore_County http://dbpedia.org/resource/Baltimore_County,_MD"
+4,3,Clogher,http://dbpedia.org/resource/Clogherhead,"http://dbpedia.org/resource/St._MacCartan's_Convent_Primary_School http://dbpedia.org/resource/Clogher,_County_Tyrone http://dbpedia.org/resource/Clogher"
+4,5,Connecticut Colony,"http://dbpedia.org/resource/New_Haven,_Connecticut",http://dbpedia.org/resource/Connecticut_River_Colony http://dbpedia.org/resource/Connecticut_Colony http://dbpedia.org/resource/Colonial_Connecticut http://dbpedia.org/resource/River_Colony http://dbpedia.org/resource/Colony_of_Connecticut
+4,6,"Baltimore County, Maryland",http://dbpedia.org/resource/Baltimore,"http://dbpedia.org/resource/Baltimore_County_Fire_Department http://dbpedia.org/resource/Baltimore_County,_Maryland http://dbpedia.org/resource/History_of_Baltimore_County,_Maryland http://dbpedia.org/resource/Baltimore_County http://dbpedia.org/resource/Baltimore_County,_MD"

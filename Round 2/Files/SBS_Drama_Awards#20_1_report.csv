@@ -1,0 +1,6 @@
+"F1: 0.71429","Precision: 0.71429","Recall: 0.71429"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","1","Kim Tae-woo","http://dbpedia.org/resource/Roh_Tae-woo","http://dbpedia.org/resource/Kim_Tae-woo_(actor)"
+"1","5","Lee Hoon","http://dbpedia.org/resource/Lee_Ji-hoon_(entertainer)","http://dbpedia.org/resource/Lee_Hoon_(actor)"
+"1","12","Kim Su-ro","http://dbpedia.org/resource/Kim_Seong-su","http://dbpedia.org/resource/Soo-ro_Kim http://dbpedia.org/resource/Kim_Su_Ro http://dbpedia.org/resource/Kim_Su-roh http://dbpedia.org/resource/Soo_Ro_Kim http://dbpedia.org/resource/Kim_Soo-ro http://dbpedia.org/resource/Kim_Su-ro http://dbpedia.org/resource/Su_Ro_Kim http://dbpedia.org/resource/Kim_Soo_Roh http://dbpedia.org/resource/Kim_Soo_Ro http://dbpedia.org/resource/Su-ro_Kim http://dbpedia.org/resource/Kim_Su_Roh http://dbpedia.org/resource/Kim_Soo-roh http://dbpedia.org/resource/Kim_Suro http://dbpedia.org/resource/Kim_Soo-Roh http://dbpedia.org/resource/Kim_Soo-Ro"
+"1","13","Kim Ji-hoon","http://dbpedia.org/resource/Kim_Ji-hoon_(singer)","http://dbpedia.org/resource/Kim_Ji_Hoon_(actor_born_1981) http://dbpedia.org/resource/Kim_Ji-hoon_(actor_born_1981)"

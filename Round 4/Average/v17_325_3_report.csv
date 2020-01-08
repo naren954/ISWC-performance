@@ -1,0 +1,8 @@
+F1: 0.70000,Precision: 0.70000,Recall: 0.70000,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,9,P. Snow,http://dbpedia.org/resource/Phoebe_Snow,http://dbpedia.org/resource/Peter_Snow
+3,10,L. Penn,http://dbpedia.org/resource/William_Penn,http://dbpedia.org/resource/Leo_Penn
+3,11,M. Marx,http://dbpedia.org/resource/Karl_Marx,http://dbpedia.org/resource/Minnie_Marx
+3,13,W. Houston,http://dbpedia.org/resource/William_Shakespeare,http://dbpedia.org/resource/Whitney_houston http://dbpedia.org/resource/Whitney_Houston http://dbpedia.org/resource/Death_of_Whitney_Houston http://dbpedia.org/resource/Whintey_Houston http://dbpedia.org/resource/Whitney_Elizabeth_Houston http://dbpedia.org/resource/Whitney_Huston http://dbpedia.org/resource/Whiteny_Houston http://dbpedia.org/resource/Witney_Houston
+3,15,D. P. Whitney,http://dbpedia.org/resource/Harry_Payne_Whitney,http://dbpedia.org/resource/Dorothy_Whitney_Elmhirst http://dbpedia.org/resource/Dorothy_Payne_Whitney http://dbpedia.org/resource/Dorothy_Elmhirst
+3,16,R. Bennett,http://dbpedia.org/resource/Bob_Bennett_(politician),http://dbpedia.org/resource/Richard_Bennett_(actor)

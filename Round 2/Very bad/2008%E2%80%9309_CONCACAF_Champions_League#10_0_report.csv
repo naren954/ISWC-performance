@@ -1,0 +1,5 @@
+F1: 0.25000,Precision: 0.25000,Recall: 0.25000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,Puerto Rico Islanders,http://dbpedia.org/resource/United_States_Virgin_Islands,http://dbpedia.org/resource/PR_Islanders http://dbpedia.org/resource/San_Juan_Soccer_Club http://dbpedia.org/resource/Puerto_Rico_Islanders http://dbpedia.org/resource/Puerto_Rico_Islanders_Football_Club
+0,3,Tauro,http://dbpedia.org/resource/Taurus_Mountains,http://dbpedia.org/resource/Tauro_F_C http://dbpedia.org/resource/Tauro_F.C http://dbpedia.org/resource/Tauro_F._C http://dbpedia.org/resource/Tauro_F.C. http://dbpedia.org/resource/Tauro_FC http://dbpedia.org/resource/Tauro_F._C.
+0,4,Municipal,http://dbpedia.org/resource/Gemeentemuseum_Den_Haag,http://dbpedia.org/resource/Municipal_Bancafé http://dbpedia.org/resource/Csd_municipal http://dbpedia.org/resource/C.S.D._Municipal http://dbpedia.org/resource/Municipal_Bancafe http://dbpedia.org/resource/CSD_Municipal

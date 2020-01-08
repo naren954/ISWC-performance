@@ -1,0 +1,38 @@
+F1: 0.53247,Precision: 0.53247,Recall: 0.53247,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,6,J. Burns,http://dbpedia.org/resource/Edward_Burns,http://dbpedia.org/resource/Jack_Burns
+1,10,J. Hales,http://dbpedia.org/resource/Georgina_Hale,http://dbpedia.org/resource/Jonathan_hales http://dbpedia.org/resource/Jonathan_Hales
+1,16,C. Chibnall,http://dbpedia.org/resource/Marjorie_Chibnall,http://dbpedia.org/resource/Chris_Chibnall
+1,18,S. Martin,http://dbpedia.org/resource/Steve_Martin,http://dbpedia.org/resource/Suzanne_Martin
+1,19,W. Jing,http://dbpedia.org/resource/Chen_Jing_(table_tennis),http://dbpedia.org/resource/Wong_Jing
+1,21,P. Richardson,http://dbpedia.org/resource/Patricia_Richardson,http://dbpedia.org/resource/Peter_Richardson_(comedian) http://dbpedia.org/resource/Peter_Richardson_(actor) http://dbpedia.org/resource/Peter_Richardson_(British_Director) http://dbpedia.org/resource/Peter_Richardson_(British_director) http://dbpedia.org/resource/Peter_Richardson_(English_director)
+1,22,P. Tolan,http://dbpedia.org/resource/Michael_Tolan,http://dbpedia.org/resource/Peter_Tolan http://dbpedia.org/resource/The_Cloudland_Company
+1,23,S. Simon,http://dbpedia.org/resource/Neil_Simon,http://dbpedia.org/resource/Samuel_Simon http://dbpedia.org/resource/Sam_Simon
+1,25,S. Kraft,http://de.dbpedia.org/resource/Sigisbert_Kraft,http://dbpedia.org/resource/Scott_Kraft
+1,28,D. Wilson,http://dbpedia.org/resource/Woodrow_Wilson,http://dbpedia.org/resource/Donald_Wilson_(writer_and_producer)
+1,29,N. Lear,http://dbpedia.org/resource/Amanda_Lear,http://dbpedia.org/resource/Born_Again_American http://dbpedia.org/resource/Norman_Lear
+1,31,P. Whitbread,http://dbpedia.org/resource/Samuel_Whitbread_(1764–1815),http://dbpedia.org/resource/Peter_Whitbread
+1,32,S. Waddell,http://dbpedia.org/resource/Martin_Waddell,http://dbpedia.org/resource/Sid_Waddell
+1,34,H. Wilson,"http://dbpedia.org/resource/Sir_Henry_Wilson,_1st_Baronet",http://dbpedia.org/resource/Hugh_Wilson_(director)
+1,35,B. Productions,http://dbpedia.org/resource/Cecil_B._DeMille,http://dbpedia.org/resource/Bickley-Warren_Productions
+1,37,H. Gewirtz,http://dbpedia.org/resource/Paul_Gewirtz,http://dbpedia.org/resource/Howard_Gewirtz
+1,38,J. Brown,http://dbpedia.org/resource/James_Brown,"http://dbpedia.org/resource/Smell_the_Glamour http://dbpedia.org/resource/Brown,_Julie http://dbpedia.org/resource/Julie_Brown"
+1,40,H. Kanter,http://dbpedia.org/resource/Gerd_Kanter,http://dbpedia.org/resource/Hal_Kanter
+1,42,J. Murray-Smith,http://dbpedia.org/resource/Stephen_Murray-Smith,http://dbpedia.org/resource/Joanna_Murray_Smith http://dbpedia.org/resource/Joanna_Murray-Smith
+1,43,J. Ace,http://dbpedia.org/resource/Johnny_Ace,"http://dbpedia.org/resource/Juliet_Ace http://dbpedia.org/resource/Ace,_Juliet"
+1,44,G. Marshall,http://dbpedia.org/resource/George_Marshall,"http://dbpedia.org/resource/Garry_K._Marshall http://dbpedia.org/resource/Garry_Kent_Marshall http://dbpedia.org/resource/Garry_Marshall http://dbpedia.org/resource/Henderson_Productions http://dbpedia.org/resource/Gary_Marshall http://dbpedia.org/resource/Henderson_Production_Company,_Inc. http://dbpedia.org/resource/Henderson_Production_Company"
+1,47,K. Taylor,http://dbpedia.org/resource/Kendall_Taylor,http://dbpedia.org/resource/Kenneth_Heywood_Taylor http://dbpedia.org/resource/Kenneth_Taylor_(scriptwriter) http://dbpedia.org/resource/Ken_Taylor_(scriptwriter) http://dbpedia.org/resource/Ken_Taylor_(writer)
+1,49,B. Fisher,http://dbpedia.org/resource/Bud_Fisher,http://dbpedia.org/resource/Bob_Fisher_(screenwriter)
+1,51,A. Kogen,http://dbpedia.org/resource/Jay_Kogen,http://dbpedia.org/resource/Arnie_Kogen
+1,53,J. Docherty,http://dbpedia.org/resource/Thomas_Docherty_(politician),http://dbpedia.org/resource/Saturday_Night_Jack http://dbpedia.org/resource/Jack_Docherty http://dbpedia.org/resource/John_Docherty_(entertainer)
+1,56,I. Pattison,http://dbpedia.org/resource/John_Pattison_(RNZAF_officer),http://dbpedia.org/resource/Ian_Pattison
+1,57,S. Phelps,http://dbpedia.org/resource/Edmund_Phelps,http://dbpedia.org/resource/The_Subtle_Art_of_Boiling_Lobsters http://dbpedia.org/resource/Sarah_Phelps
+1,58,T. Bray,http://dbpedia.org/resource/Thomas_Bray,http://dbpedia.org/resource/Thom_Bray
+1,60,M. Fahey,http://dbpedia.org/resource/John_Fahey_(politician),http://dbpedia.org/resource/Mary_Anne_Fahey http://dbpedia.org/resource/Mary-Anne_Fahey http://dbpedia.org/resource/Kylie_Mole
+1,62,B. Finch,http://dbpedia.org/resource/Flora_Finch,http://dbpedia.org/resource/Brian_Finch
+1,64,E. Williams,http://dbpedia.org/resource/Robin_Williams,"http://dbpedia.org/resource/Emlyn_Williams http://dbpedia.org/resource/Williams,_Emlyn http://dbpedia.org/resource/George_Emlyn_Williams"
+1,65,D. Kallis,http://dbpedia.org/resource/Jacques_Kallis,http://dbpedia.org/resource/Danny_Kallis http://dbpedia.org/resource/Danny_Kallis_Productions
+1,66,A. Prior,http://dbpedia.org/resource/Matthew_Prior,http://dbpedia.org/resource/Allan_Prior
+1,68,S. Phelps,http://dbpedia.org/resource/Edmund_Phelps,http://dbpedia.org/resource/The_Subtle_Art_of_Boiling_Lobsters http://dbpedia.org/resource/Sarah_Phelps
+1,71,R. Little,http://dbpedia.org/resource/Rich_Little,http://dbpedia.org/resource/Ralph_Little http://dbpedia.org/resource/Ralf_Little
+1,73,D. Heaton,http://dbpedia.org/resource/Patricia_Heaton,http://dbpedia.org/resource/Dennis_Heaton

@@ -1,0 +1,6 @@
+F1: 0.80000,Precision: 0.80000,Recall: 0.80000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,Even Stevens,http://dbpedia.org/resource/The_Even_Stevens_Movie,http://dbpedia.org/resource/List_of_Even_Stevens_characters http://dbpedia.org/resource/Even_Stevens http://dbpedia.org/resource/Louis_Stevens http://dbpedia.org/resource/Senator_Eileen_Stevens http://dbpedia.org/resource/Even_stevens http://dbpedia.org/resource/Ren_Stevens
+1,14,The Last Day of Summer,http://dbpedia.org/resource/The_Last_Day_of_Summer,http://dbpedia.org/resource/The_Last_Day_of_Summer_(film) http://dbpedia.org/resource/The_Last_Day_of_Summer_(TV_movie)
+1,15,The Babysitters,http://dbpedia.org/resource/The_Babysitter_(2017_film),http://dbpedia.org/resource/The_Babysitters http://dbpedia.org/resource/The_babysitters
+1,18,The Perfect Game,http://dbpedia.org/resource/Perfect_Game_(2000_film),http://dbpedia.org/resource/The_Perfect_Game_(2008_film) http://dbpedia.org/resource/The_Perfect_Game

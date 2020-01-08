@@ -1,0 +1,6 @@
+"F1: 0.60000","Precision: 0.60000","Recall: 0.60000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","4","First Presbyterian Church","http://dbpedia.org/resource/First_Presbyterian_Church_(Chattanooga,_Tennessee)","http://dbpedia.org/resource/First_Presbyterian_Church_(Racine,_Wisconsin)"
+"0","5","First Presbyterian Church","http://dbpedia.org/resource/First_Presbyterian_Church_(Chattanooga,_Tennessee)","http://dbpedia.org/resource/First_Presbyterian_Church,_Lexington http://dbpedia.org/resource/First_Presbyterian_Church_(Lexington,_Kentucky)"
+"0","6","First Presbyterian Church","http://dbpedia.org/resource/First_Presbyterian_Church_(Chattanooga,_Tennessee)","http://dbpedia.org/resource/First_Presbyterian_Church_(Fayetteville,_North_Carolina)"
+"0","7","First Presbyterian Church","http://dbpedia.org/resource/First_Presbyterian_Church_(Chattanooga,_Tennessee)","http://dbpedia.org/resource/First_Presbyterian_Church_(Cottage_Grove,_Oregon)"

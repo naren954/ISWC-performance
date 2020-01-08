@@ -1,0 +1,42 @@
+F1: 0.52381,Precision: 0.52381,Recall: 0.52381,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Y. Aihara,http://dbpedia.org/resource/Yutaka_Aihara,http://dbpedia.org/resource/Yusuke_Aihara
+0,3,W. Clark,http://dbpedia.org/resource/Wendel_Clark,http://dbpedia.org/resource/Bud_Clark_(skier) http://dbpedia.org/resource/William_Clark_(skier)
+0,5,T. Nakamura,http://dbpedia.org/resource/Tōru_Nakamura_(golfer),http://dbpedia.org/resource/Tomohiko_Nakamura
+0,6,T. Fry,http://dbpedia.org/resource/Shirley_Fry,http://dbpedia.org/resource/Tom_Fry
+0,7,T. Ward,"http://dbpedia.org/resource/Tommy_Ward_(footballer,_born_1917)",http://dbpedia.org/resource/Tim_Ward_(Skater) http://dbpedia.org/resource/Tim_Ward_(skater)
+0,8,T. Nagasako,http://dbpedia.org/resource/Yoshitaku_Nagasako,http://dbpedia.org/resource/Thumper_Nagasako
+0,12,T. Suzuki,http://dbpedia.org/resource/Takahito_Suzuki,http://dbpedia.org/resource/Takeshi_Suzuki_(athlete) http://dbpedia.org/resource/Takeshi_Suzuki_(alpine_skier)
+0,15,S. Kavanagh,http://dbpedia.org/resource/Ryan_Kavanagh,http://dbpedia.org/resource/Steve_Kavanagh http://dbpedia.org/resource/Steven_Kavanagh
+0,17,S. Yost,http://dbpedia.org/resource/Ned_Yost,http://dbpedia.org/resource/Shane_Yost
+0,18,S. García,http://dbpedia.org/resource/Sergio_García,http://dbpedia.org/resource/Sergio_García_(skater) http://dbpedia.org/resource/Sergio_Garcia_(skater)
+0,21,R. Riva,http://dbpedia.org/resource/Ferdinando_Riva,http://dbpedia.org/resource/Roberto_Riva
+0,22,R. Parker,http://dbpedia.org/resource/Ray_Parker_(footballer),http://dbpedia.org/resource/Rich_Parker
+0,25,P. Noworyta,http://uk.dbpedia.org/resource/Патрик_Новорита,http://dbpedia.org/resource/Paul_Noworyta
+0,26,P. Zimmermann,http://dbpedia.org/resource/Egon_Zimmermann,http://dbpedia.org/resource/Patrick_Zimmermann
+0,27,O. Bolaños,http://dbpedia.org/resource/Christian_Bolaños,http://dbpedia.org/resource/Otto_Bolaños http://dbpedia.org/resource/Otto_Bolanos
+0,28,N. Najdenov,http://dbpedia.org/resource/Georgi_Naydenov_(footballer),http://dbpedia.org/resource/Nikolaj_Najdenov
+0,29,N. Mougin,http://dbpedia.org/resource/Eugène_Mougin,http://dbpedia.org/resource/Nicolas_Mougin
+0,30,N. Calderón,http://dbpedia.org/resource/Vicente_Calderón_(fencer),http://dbpedia.org/resource/Nicolas_Calderon http://dbpedia.org/resource/Nicolas_Calderón
+0,33,N. Martín,http://dbpedia.org/resource/Nacho_Martín,http://dbpedia.org/resource/Nel_Martin http://dbpedia.org/resource/Nel_Martín
+0,37,M. Salerno,http://dbpedia.org/resource/Cristiano_Salerno,http://dbpedia.org/resource/Matt_Salerno
+0,47,K. Trayanov,http://dbpedia.org/resource/Todor_Trayanov,http://dbpedia.org/resource/Kiril_Trayanov
+0,49,K. M. Lopez,http://dbpedia.org/resource/Miguel_Ángel_López_(cyclist),http://dbpedia.org/resource/Kevin_Marron_Lopez
+0,51,K. Brown,http://dbpedia.org/resource/Keith_Brown_(ice_hockey),http://dbpedia.org/resource/Keely_Brown
+0,55,J. Wilson,http://dbpedia.org/resource/Tracy_Wilson,http://dbpedia.org/resource/Gerry_Wilson_(ice_hockey) http://dbpedia.org/resource/Jerry_Wilson_(ice_hockey)
+0,60,F. d. Silva,http://dbpedia.org/resource/Filipe_da_Silva,http://dbpedia.org/resource/Fabiola_da_silva http://dbpedia.org/resource/Fabby http://dbpedia.org/resource/Fabiola_rule http://dbpedia.org/resource/Fabiola_da_Silva
+0,61,E. Pillon,http://dbpedia.org/resource/Laurent_Pillon,http://dbpedia.org/resource/Elmer_Pillon
+0,63,E. Kramer,http://dbpedia.org/resource/Edmond_Kramer,http://dbpedia.org/resource/Eitan_Kramer
+0,65,C. Andrade,http://dbpedia.org/resource/Carlos_Andrade,http://dbpedia.org/resource/Cesar_Andrade http://dbpedia.org/resource/César_Andrade
+0,67,C. Louie,http://dbpedia.org/resource/Lakewood_Louie,http://dbpedia.org/resource/Clarence_Louie
+0,70,C. Mora,http://dbpedia.org/resource/Cristian_Mora,http://dbpedia.org/resource/Cesar_Mora_(Skater) http://dbpedia.org/resource/Cesar_Mora_(skater)
+0,71,C. Acharezzi,,"http://dbpedia.org/resource/Cesar_Acharezzi http://dbpedia.org/resource/Acharezzi,_Cesar"
+0,72,C. Andrade,http://dbpedia.org/resource/Carlos_Andrade,http://dbpedia.org/resource/Cesar_Andrade http://dbpedia.org/resource/César_Andrade
+0,74,B. Davis,http://dbpedia.org/resource/Brad_Davis_(soccer),http://dbpedia.org/resource/Brandon_Davis http://dbpedia.org/resource/Brandon_Davis_(skater) http://dbpedia.org/resource/Brandon_Davis_(Skater)
+0,75,B. Fernández,http://dbpedia.org/resource/Beatriz_Fernández,http://dbpedia.org/resource/Borja_Fernández_(skater) http://dbpedia.org/resource/Borja_Fernandez_(Skater) http://dbpedia.org/resource/Borja_Fernandez_(skater)
+0,76,B. McPherson,http://dbpedia.org/resource/Brock_McPherson,http://dbpedia.org/resource/Bob_McPherson
+0,77,A. Kawasaki,http://de.dbpedia.org/resource/Kiyotaka_Kawasaki,http://dbpedia.org/resource/Ayumi_Kawasaki
+0,78,A. H. Bates,http://dbpedia.org/resource/Bhumibol_Adulyadej,http://dbpedia.org/resource/Anna_Bates http://dbpedia.org/resource/Anna_Haining_Swan http://dbpedia.org/resource/Anna_swan http://dbpedia.org/resource/Anna_Hannon_Swain http://dbpedia.org/resource/Anna_Hannon_Bates http://dbpedia.org/resource/Anna_Haining_Bates http://dbpedia.org/resource/Anna_Swan
+0,80,A. Næss,http://dbpedia.org/resource/Børre_Næss,http://dbpedia.org/resource/Alfred_Naes http://dbpedia.org/resource/Alfred_Næss http://dbpedia.org/resource/Alfred_Ingvald_Naess http://dbpedia.org/resource/Alfred_Ingvald_Næss http://dbpedia.org/resource/Alfred_Nass http://dbpedia.org/resource/Alfred_Naess
+0,81,A. Arakaki,http://dbpedia.org/resource/Ernesto_Arakaki,http://dbpedia.org/resource/Alberto_Arakaki
+0,83,A. Neilson,http://dbpedia.org/resource/Sandy_Neilson,http://dbpedia.org/resource/Aileen_Neilson

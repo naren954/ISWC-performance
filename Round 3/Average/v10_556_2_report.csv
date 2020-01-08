@@ -1,0 +1,4 @@
+F1: 0.71429,Precision: 0.71429,Recall: 0.71429,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,2,Forest Lawn Memorial Park,http://dbpedia.org/resource/Forest_Lawn_Memorial_Park_(Glendale),"http://dbpedia.org/resource/Forest_Lawn,_Hollywood_Hills http://dbpedia.org/resource/Forest_Lawn_-_Hollywood_Hills_Cemetery http://dbpedia.org/resource/Forest_Lawn_Memorial_Park_(Hollywood_Hills) http://dbpedia.org/resource/Forest_Lawn_Hollywood_Hills http://dbpedia.org/resource/Forest_Lawn_Memorial_Park,_Hollywood_Hills http://dbpedia.org/resource/Forest_Lawn,_Hollywood_Hills_Cemetery"
+2,5,Monaco Cemetery,http://dbpedia.org/resource/Monaco,http://dbpedia.org/resource/Monaco_Cemetery

@@ -1,0 +1,5 @@
+"F1: 0.57143","Precision: 0.57143","Recall: 0.57143"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"3","3","Denver Broncos","http://dbpedia.org/resource/Denver","http://dbpedia.org/resource/Denver_Broncos_Ring_of_Fame http://dbpedia.org/resource/Logos_and_uniforms_of_the_Denver_Broncos http://dbpedia.org/resource/Colorado_Broncos http://dbpedia.org/resource/The_Denver_Broncos http://dbpedia.org/resource/Broncos_Ring_of_Fame http://dbpedia.org/resource/Browncos http://dbpedia.org/resource/Denver_Broncos"
+"3","5","Tampa Bay Storm","http://dbpedia.org/resource/Tampa,_Florida","http://dbpedia.org/resource/Tampa_Bay_Storm http://dbpedia.org/resource/Pittsburgh_Gladiators"
+"3","6","Ottawa Renegades","http://dbpedia.org/resource/The_Renegade_(wrestler)","http://dbpedia.org/resource/Ottawa_Renegades"

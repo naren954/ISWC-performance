@@ -1,0 +1,9 @@
+F1: 0.91139,Precision: 0.91139,Recall: 0.91139,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,8,William Dean Howells House,"http://dbpedia.org/resource/William_Dean_Howells_House_(Cambridge,_Massachusetts)","http://dbpedia.org/resource/William_Dean_Howells_House_(Kittery_Point,_Maine)"
+0,10,William D. Roberts House,http://dbpedia.org/resource/William_H._Roberts_House,http://dbpedia.org/resource/William_D._Roberts_House
+0,19,William Colburn House,http://dbpedia.org/resource/Gilbert_Colburn_House,http://dbpedia.org/resource/William_Colburn_House
+0,30,William C. Jayne House,http://dbpedia.org/resource/William_C._Jones_House,http://dbpedia.org/resource/William_C._Jayne_House
+0,37,William Breese Jr. House,http://dbpedia.org/resource/William_H._Emery_Jr._House,"http://dbpedia.org/resource/William_Breese,_Jr.,_House http://dbpedia.org/resource/William_Breese_Jr._House"
+0,53,William B. Willis House,http://dbpedia.org/resource/William_B._Harris_House,http://dbpedia.org/resource/William_B._Willis_House http://dbpedia.org/resource/William_B._Wills_House
+0,63,William Allison House,"http://dbpedia.org/resource/William_Allison_House_(College_Grove,_Tennessee)","http://dbpedia.org/resource/William_Allison_House_(Spring_Mills,_Pennsylvania)"

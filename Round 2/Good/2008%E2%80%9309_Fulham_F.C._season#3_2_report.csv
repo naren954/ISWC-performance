@@ -1,0 +1,3 @@
+F1: 0.92308,Precision: 0.92308,Recall: 0.92308,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,11,Andy Johnson,"http://dbpedia.org/resource/Andrew_Johnson_(footballer,_born_1981)",http://dbpedia.org/resource/Andy_Johnson_(English_footballer) http://dbpedia.org/resource/Andrew_Johnson_(soccer_player) http://dbpedia.org/resource/Andrew_Johnson_(English_footballer)

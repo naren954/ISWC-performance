@@ -1,0 +1,9 @@
+F1: 0.69565,Precision: 0.69565,Recall: 0.69565,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,The Outlaw,http://dbpedia.org/resource/The_Littlest_Outlaw,http://dbpedia.org/resource/The_Outlaw http://dbpedia.org/resource/The_Outlaw_(1943_film)
+0,9,The Other Love,http://dbpedia.org/resource/The_Other_Love_Story,http://dbpedia.org/resource/The_Other_Love
+0,15,The Order,http://dbpedia.org/resource/New_Order_(band),http://dbpedia.org/resource/The_Sin_Eater_(2003_film) http://dbpedia.org/resource/The_Sin_Eater_(film) http://dbpedia.org/resource/The_Order_(2003) http://dbpedia.org/resource/The_Order_(2003_film) http://dbpedia.org/resource/The_Sin_Eater_(movie) http://dbpedia.org/resource/The_Sin_Eater
+0,16,The Oranges,http://dbpedia.org/resource/Oranger,http://dbpedia.org/resource/The_Oranges_(film)
+0,18,The One and Only,http://dbpedia.org/resource/The_One_and_Only_(2002_film),http://dbpedia.org/resource/The_One_and_Only_(1978_film)
+0,21,The One,http://dbpedia.org/resource/Rogue_One,http://dbpedia.org/resource/Multiverse_Agency http://dbpedia.org/resource/Multiverse_Authority http://dbpedia.org/resource/Gabriel_Yu_Law http://dbpedia.org/resource/The_One_(movie) http://dbpedia.org/resource/The_One_(2001_film) http://dbpedia.org/resource/Gabriel_Yu-Law http://dbpedia.org/resource/The_One_(game)
+0,22,The Omen,http://dbpedia.org/resource/The_Omen,http://dbpedia.org/resource/The_Omen_(2006) http://dbpedia.org/resource/The_Omen_(2006_film) http://dbpedia.org/resource/The_Omen_666 http://dbpedia.org/resource/Omen_666 http://dbpedia.org/resource/The_Omen:_666

@@ -1,0 +1,6 @@
+F1: 0.33333,Precision: 0.33333,Recall: 0.33333,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,2,W. Bagot,http://dbpedia.org/resource/Alec_Bagot,"http://dbpedia.org/resource/Woods_Bagot,_Jory_&_Laybourne_Smith http://dbpedia.org/resource/Woods_and_Bagot http://dbpedia.org/resource/Woods,_Bagot,_Laybourne_Smith_&_Irwin http://dbpedia.org/resource/Woods,_Bagot,_Jory_and_Laybourne-Smith http://dbpedia.org/resource/Woods,_Bagot,_Jory_&_Laybourne_Smith http://dbpedia.org/resource/Woods,_Bagot,_Laybourne-Smith_&_Irwin http://dbpedia.org/resource/Woods_Bagot http://dbpedia.org/resource/Woods_&_Bagot"
+2,3,Z. P. Architects,http://dbpedia.org/resource/The_Architect_(film),http://dbpedia.org/resource/Zeidler_Partnership_Architects
+2,4,V. Koubek,http://dbpedia.org/resource/Stefan_Koubek,http://dbpedia.org/resource/Vlastimil_Koubek
+2,6,E. Hébrard,http://fr.dbpedia.org/resource/Frédérique_Hébrard,http://dbpedia.org/resource/Hebrard http://dbpedia.org/resource/Ernest_Hébrard http://dbpedia.org/resource/Ernest_Hebrard

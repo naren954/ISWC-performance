@@ -1,0 +1,14 @@
+F1: 0.72093,Precision: 0.72093,Recall: 0.72093,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,Vidra River,http://dbpedia.org/resource/Vidra_River_(Lotru),http://dbpedia.org/resource/Vidra_River_(Firiza)
+0,11,Vițău River,http://dbpedia.org/resource/Vițău,http://dbpedia.org/resource/Vițău_River http://dbpedia.org/resource/Vitau_River http://dbpedia.org/resource/Viţău_River
+0,15,Vișeu River,http://dbpedia.org/resource/Vișeu,http://dbpedia.org/resource/Viseu_river http://dbpedia.org/resource/Vişeu_River http://dbpedia.org/resource/Vișeu_river http://dbpedia.org/resource/Viseu_River http://dbpedia.org/resource/Vișeu_River http://dbpedia.org/resource/Vişeu_river
+0,18,Vișag River,http://dbpedia.org/resource/Vișag_River_(Săcuieu),http://dbpedia.org/resource/Vișag_River_(Drăgan) http://dbpedia.org/resource/Vişag_River_(Drăgan) http://dbpedia.org/resource/Visag_River_(Dragan)
+0,19,Vișag River,http://dbpedia.org/resource/Vișag_River_(Săcuieu),http://dbpedia.org/resource/Visag_River_(Soimu) http://dbpedia.org/resource/Vișag_River_(Șoimu) http://dbpedia.org/resource/Vişag_River_(Şoimu)
+0,20,Vișa River,http://dbpedia.org/resource/Vișa,http://dbpedia.org/resource/Vişa http://dbpedia.org/resource/Vișa_River http://dbpedia.org/resource/Vişa_River
+0,31,Vermilion River,http://dbpedia.org/resource/Vermilion_River_(Wabash_River),"http://dbpedia.org/resource/Bayou_Vermilion http://dbpedia.org/resource/Vermilion_River,_Louisiana http://dbpedia.org/resource/Vermilion_River_(Louisiana) http://dbpedia.org/resource/Vermillion_River_(Louisiana)"
+0,32,Vermilion River,http://dbpedia.org/resource/Vermilion_River_(Wabash_River),http://dbpedia.org/resource/Vermilion_River_(Lac_Seul)
+0,36,Verdele River,http://dbpedia.org/resource/Verdele_River_(Bistrița),http://dbpedia.org/resource/Verdele_River_(Bălosu) http://dbpedia.org/resource/Verdele_River_(Balosu)
+0,38,Verdele River,http://dbpedia.org/resource/Verdele_River_(Bistrița),http://dbpedia.org/resource/Verdele_River_(Bălosu) http://dbpedia.org/resource/Verdele_River_(Balosu)
+0,39,Verdea River,http://dbpedia.org/resource/Verdea_River_(Săraz),http://dbpedia.org/resource/Verdea_River_(Şuşiţa) http://dbpedia.org/resource/Verdea_River_(Șușița) http://dbpedia.org/resource/Verdea_River_(Susita)
+0,41,Verdea River,http://dbpedia.org/resource/Verdea_River_(Săraz),http://dbpedia.org/resource/Verdea_River_(Şuşiţa) http://dbpedia.org/resource/Verdea_River_(Șușița) http://dbpedia.org/resource/Verdea_River_(Susita)

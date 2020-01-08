@@ -1,0 +1,45 @@
+F1: 0.37681,Precision: 0.37681,Recall: 0.37681,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,T. Payne,http://dbpedia.org/resource/Tamaryn_Payne,http://dbpedia.org/resource/Tris_Payne
+1,2,P. McGuinness,http://dbpedia.org/resource/Frank_McGuinness,http://dbpedia.org/resource/Paddy_McGuinness_(comedian) http://dbpedia.org/resource/Patrick_mcguiness http://dbpedia.org/resource/Paddy_mcguiness http://dbpedia.org/resource/Paddy_McGuinness http://dbpedia.org/resource/The_Dark_Side_Tour http://dbpedia.org/resource/Christine_McGuiness http://dbpedia.org/resource/Paddy_McGuinness_(Comedian) http://dbpedia.org/resource/Paddy_Mcguinness
+1,3,D. Lamb,http://dbpedia.org/resource/Doron_Lamb,http://dbpedia.org/resource/Dave_Lamb http://dbpedia.org/resource/Dave_lamb
+1,4,J. Lynch,http://dbpedia.org/resource/John_Lynch_(New_Hampshire),http://dbpedia.org/resource/Jane_Lynch http://dbpedia.org/resource/Jane_lynch
+1,7,K. Yong-man,http://dbpedia.org/resource/Kim_Yong-man_(writer),http://dbpedia.org/resource/Kim_Yong-man
+1,8,D. Somers,http://dbpedia.org/resource/Dermot_Somers,http://dbpedia.org/resource/Daryl_Schultz http://dbpedia.org/resource/Daryl_Somers http://dbpedia.org/resource/Daryl_Sommers
+1,11,B. Owens,http://dbpedia.org/resource/Bill_Owens_(New_York_politician),"http://dbpedia.org/resource/Alvis_E._Owens http://dbpedia.org/resource/Alvis_Edgar_Owens_Jr. http://dbpedia.org/resource/Buck_Owens http://dbpedia.org/resource/Alvis_Owens,_Jr. http://dbpedia.org/resource/Alvis_Owens_Jr. http://dbpedia.org/resource/Corky_Jones http://dbpedia.org/resource/Buck_Owens_and_the_Buckaroos http://dbpedia.org/resource/Alvis_E._Owens,_Jr. http://dbpedia.org/resource/Alvis_Owens http://dbpedia.org/resource/Alvis_E._Owens_Jr. http://dbpedia.org/resource/Alvis_Edgar_Owens http://dbpedia.org/resource/Alvis_Edgar_Owens,_Jr."
+1,14,F. Hall,http://dbpedia.org/resource/Fawn_Hall,http://dbpedia.org/resource/Frank_Hall_(broadcaster)
+1,15,H. T. Dog,http://dbpedia.org/resource/Hound_Dog_Taylor,http://dbpedia.org/resource/Hacker_T._Dog http://dbpedia.org/resource/Hacker_T_Dog http://dbpedia.org/resource/Hacker_the_Dog
+1,16,Yes,http://dbpedia.org/resource/Yes-R,http://dbpedia.org/resource/D.B.S._Satellite_Services_(1998)_Ltd. http://dbpedia.org/resource/Yes_(company) http://dbpedia.org/resource/Yes_(Israel) http://dbpedia.org/resource/YES+
+1,17,G. Worland,http://dbpedia.org/resource/Don_Worland,http://dbpedia.org/resource/Gus_Worland
+1,18,W. Anderson,http://dbpedia.org/resource/Wes_Anderson,http://dbpedia.org/resource/Will_anderson http://dbpedia.org/resource/Wil_Anderson http://dbpedia.org/resource/William_James_(Wil)_Anderson
+1,19,M. Strachan,http://dbpedia.org/resource/Matthew_Strachan,http://dbpedia.org/resource/Michaela_Strachan http://dbpedia.org/resource/Michaela_Evelyn_Ann_Strachan
+1,20,P. McDermott,http://dbpedia.org/resource/Dylan_McDermott,http://dbpedia.org/resource/Paul_McDermott_(comedian) http://dbpedia.org/resource/Paul_McDermot http://dbpedia.org/resource/Paul_mcdermott http://dbpedia.org/resource/Paul_MacDermott http://dbpedia.org/resource/Paul_McDermott
+1,22,I. Wright,http://dbpedia.org/resource/Iain_Wright,http://dbpedia.org/resource/Ian_Wright http://dbpedia.org/resource/Mr_Wright
+1,25,D. Diamond,http://dbpedia.org/resource/Mike_D,http://dbpedia.org/resource/Dominic_Diamond http://dbpedia.org/resource/Dominik_Diamond
+1,26,J. Beadle,http://dbpedia.org/resource/George_Beadle,http://dbpedia.org/resource/Today's_the_Day_–_A_Chronicle_of_the_Curious http://dbpedia.org/resource/Beadlehand http://dbpedia.org/resource/Jeremy_Beadle http://dbpedia.org/resource/Today's_the_Day_-_A_Chronicle_of_the_Curious
+1,29,J. Ross,http://dbpedia.org/resource/John_Ross_(tennis),http://dbpedia.org/resource/The_Last_Resort_with_Jonathan_Ross http://dbpedia.org/resource/Jonathan_Ross_(English_TV_presenter) http://dbpedia.org/resource/Jonathan_Wos http://dbpedia.org/resource/Jonathan_Ross_(Celebrity) http://dbpedia.org/resource/Jonathan_Ross_(critic) http://dbpedia.org/resource/Jonathan_Ross_(television_presenter) http://dbpedia.org/resource/Jonathan_Ross_(presenter) http://dbpedia.org/resource/Jonathan_Stephen_Ross http://dbpedia.org/resource/Johnathan_Ross http://dbpedia.org/resource/Jonathan_Woss http://dbpedia.org/resource/Jonathan_Ros http://dbpedia.org/resource/Johnathan_ross http://dbpedia.org/resource/Wossy http://dbpedia.org/resource/Jonathan_Ross
+1,30,M. Durden-Smith,http://dbpedia.org/resource/Jo_Durden-Smith,http://dbpedia.org/resource/Mark_Durden-Smith http://dbpedia.org/resource/Mark_Durden_Smith
+1,31,M. Messenger,http://dbpedia.org/resource/Chas_Messenger,http://dbpedia.org/resource/Melinda_Messenger
+1,32,C. Hale,http://dbpedia.org/resource/Christina_Hale,http://dbpedia.org/resource/Clive_Hale
+1,33,J. Brazier,http://dbpedia.org/resource/Julian_Brazier,http://dbpedia.org/resource/Jeff_Brazier
+1,34,M. Lewis,http://dbpedia.org/resource/Michael_Lewis,"http://dbpedia.org/resource/Lewis,_Martyn http://dbpedia.org/resource/Martyn_Lewis_(Journalist) http://dbpedia.org/resource/Martyn_Lewis http://dbpedia.org/resource/Martyn_Lewis_(journalist)"
+1,35,J. Conroy,http://dbpedia.org/resource/Frances_Conroy,http://dbpedia.org/resource/Jim_Conroy
+1,36,A. Brown,http://dbpedia.org/resource/Gordon_Brown,http://dbpedia.org/resource/Alton_Brown http://dbpedia.org/resource/Alton_brown
+1,37,M. Edmondson,http://dbpedia.org/resource/Ade_Edmondson,http://dbpedia.org/resource/Matt_Edmondson http://dbpedia.org/resource/Matt_Edmonson
+1,38,D. Forster,http://dbpedia.org/resource/Georg_Forster,http://dbpedia.org/resource/Danny_Forster
+1,39,Mnet,http://dbpedia.org/resource/DStv,http://dbpedia.org/resource/Mnet_(Korea) http://dbpedia.org/resource/M.net http://dbpedia.org/resource/Mnet_America http://dbpedia.org/resource/Mnet_(TV_channel) http://dbpedia.org/resource/M.net.com http://dbpedia.org/resource/Mnet.com
+1,40,J. Gaultier,http://dbpedia.org/resource/Jean-Jacques_Gaultier,http://dbpedia.org/resource/Jean-Paul_Gaultier http://dbpedia.org/resource/John-Paul_Gautier http://dbpedia.org/resource/Jean_Paul_Gaultier http://dbpedia.org/resource/John-Paul_Gaultier http://dbpedia.org/resource/John_Paul_Gautier http://dbpedia.org/resource/John_Paul_Gaultier http://dbpedia.org/resource/Junior_Gaultier http://dbpedia.org/resource/Jean_Paul_Gautier
+1,42,A. Bell,http://dbpedia.org/resource/Kristen_Bell,http://dbpedia.org/resource/Angellica_Bell
+1,45,Quddus,http://dbpedia.org/resource/Quddús,http://dbpedia.org/resource/Benjamin_Philippe http://dbpedia.org/resource/Quddus_(MTV) http://dbpedia.org/resource/Quddus_(MTV_VJ) http://dbpedia.org/resource/Quddus_(TV_personality)
+1,47,D. Waters,http://dbpedia.org/resource/Roger_Waters,http://dbpedia.org/resource/Derek_Waters
+1,48,D. Carey,http://dbpedia.org/resource/Danny_Carey,http://dbpedia.org/resource/Drew_Carey http://dbpedia.org/resource/Drew_allison_carey http://dbpedia.org/resource/Drew_Carrey http://dbpedia.org/resource/Drew_carey http://dbpedia.org/resource/Brooks_Parkenridge
+1,49,E. Davis,http://dbpedia.org/resource/Miles_Davis,http://dbpedia.org/resource/Evan_Davis_(journalist) http://dbpedia.org/resource/Evan_Davis_(UK_broadcaster) http://dbpedia.org/resource/Evan_Davies_(UK_reporter) http://dbpedia.org/resource/Evan_Davis http://dbpedia.org/resource/Evan_Davis_(UK_reporter) http://dbpedia.org/resource/Evan_Harold_Davis
+1,50,D. Buckner,http://dbpedia.org/resource/Dan_Buckner,http://dbpedia.org/resource/Dianne_Buckner
+1,55,B. O'Connor,http://dbpedia.org/resource/Brendan_O'Connor_(politician),http://dbpedia.org/resource/Brendan_O'Connor_(media_personality) http://dbpedia.org/resource/Brendan_O'Connor_(journalist)
+1,56,A. Castle,http://dbpedia.org/resource/Nick_Castle,http://dbpedia.org/resource/Andy_Castle http://dbpedia.org/resource/Andrew_Castle
+1,57,J. Earles,"http://dbpedia.org/resource/John_Lambton,_1st_Earl_of_Durham",http://dbpedia.org/resource/Jason_earles http://dbpedia.org/resource/Jason_Earles
+1,59,L. Mooney,http://dbpedia.org/resource/Jim_Mooney,http://dbpedia.org/resource/Lawrence_Mooney
+1,60,R. McCourt,http://dbpedia.org/resource/Frank_McCourt,"http://dbpedia.org/resource/Richard_""Dick""_McCourt http://dbpedia.org/resource/Richard_McCourt http://dbpedia.org/resource/Dick_McCourt"
+1,61,R. McCourt,http://dbpedia.org/resource/Frank_McCourt,"http://dbpedia.org/resource/Richard_""Dick""_McCourt http://dbpedia.org/resource/Richard_McCourt http://dbpedia.org/resource/Dick_McCourt"
+1,62,J. Gates,http://dbpedia.org/resource/John_Gates_(Portland_mayor),http://dbpedia.org/resource/Josh_Gates http://dbpedia.org/resource/Joshua_Gates
+1,63,N. Edmonds,http://dbpedia.org/resource/Tracey_Edmonds,http://dbpedia.org/resource/Noel_edmonds http://dbpedia.org/resource/Noel_Edmonds http://dbpedia.org/resource/Noel_Edmunds http://dbpedia.org/resource/Noël_Edmonds http://dbpedia.org/resource/Noel_Edmond

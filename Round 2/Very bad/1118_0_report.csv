@@ -1,0 +1,156 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,"Koyukuk, Alaska","http://dbpedia.org/resource/Koyukuk,_Alaska",http://sws.geonames.org/5866753/
+0,2,"Koyuk, Alaska","http://dbpedia.org/resource/Koyuk,_Alaska",http://sws.geonames.org/5866748/
+0,3,"Kotzebue, Alaska","http://dbpedia.org/resource/Kotzebue,_Alaska",http://sws.geonames.org/5866726/
+0,4,"Kivalina, Alaska","http://dbpedia.org/resource/Kivalina,_Alaska",http://sws.geonames.org/5866441/
+0,5,"Kenai, Alaska","http://dbpedia.org/resource/Kenai,_Alaska",http://sws.geonames.org/5866063/
+0,6,"Huslia, Alaska","http://dbpedia.org/resource/Huslia,_Alaska",http://sws.geonames.org/5864431/
+0,7,"Hughes, Alaska","http://dbpedia.org/resource/Hughes,_Alaska",http://sws.geonames.org/5864351/
+0,8,"Homer, Alaska","http://dbpedia.org/resource/Homer,_Alaska",http://sws.geonames.org/5864145/
+0,9,"Holy Cross, Alaska","http://dbpedia.org/resource/Holy_Cross,_Alaska",http://sws.geonames.org/5864131/
+0,10,"Glennallen, Alaska","http://dbpedia.org/resource/Glennallen,_Alaska",http://sws.geonames.org/5862936/
+0,11,"Fort Yukon, Alaska","http://dbpedia.org/resource/Fort_Yukon,_Alaska",http://sws.geonames.org/5862371/
+0,12,"Fairbanks, Alaska","http://dbpedia.org/resource/Fairbanks,_Alaska",http://sws.geonames.org/5861897/
+0,13,"Egegik, Alaska","http://dbpedia.org/resource/Egegik,_Alaska",http://sws.geonames.org/5861423/
+0,14,"Eek, Alaska","http://dbpedia.org/resource/Eek,_Alaska",http://sws.geonames.org/5861393/
+0,15,"Dillingham, Alaska","http://dbpedia.org/resource/Dillingham,_Alaska",http://sws.geonames.org/5860695/
+0,16,"Deering, Alaska","http://dbpedia.org/resource/Deering,_Alaska",http://sws.geonames.org/5860502/
+0,17,"Cold Bay, Alaska","http://dbpedia.org/resource/Cold_Bay,_Alaska",http://sws.geonames.org/5859682/
+0,18,"Chuathbaluk, Alaska","http://dbpedia.org/resource/Chuathbaluk,_Alaska",http://sws.geonames.org/5859357/
+0,19,"Chicken, Alaska","http://dbpedia.org/resource/Chicken,_Alaska",http://sws.geonames.org/5859162/
+0,20,"Haines, Alaska","http://dbpedia.org/resource/Haines,_Alaska",http://sws.geonames.org/5846901/
+0,21,"Pateros, Washington","http://dbpedia.org/resource/Pateros,_Washington",http://sws.geonames.org/5844154/
+0,22,"Gold Beach, Oregon","http://dbpedia.org/resource/Gold_Beach,_Oregon",http://sws.geonames.org/5843997/
+0,23,"Lovell, Wyoming","http://dbpedia.org/resource/Lovell,_Wyoming",http://sws.geonames.org/5831176/
+0,24,"Kaycee, Wyoming","http://dbpedia.org/resource/Kaycee,_Wyoming",http://sws.geonames.org/5829304/
+0,25,"Greybull, Wyoming","http://dbpedia.org/resource/Greybull,_Wyoming",http://sws.geonames.org/5826603/
+0,26,"Big Piney, Wyoming","http://dbpedia.org/resource/Big_Piney,_Wyoming",http://sws.geonames.org/5818702/
+0,27,"Alpine, Wyoming","http://dbpedia.org/resource/Alpine,_Wyoming",http://sws.geonames.org/5817073/
+0,28,"Yakima, Washington","http://dbpedia.org/resource/Yakima,_Washington",http://sws.geonames.org/5816605/
+0,29,"Wenatchee, Washington","http://dbpedia.org/resource/Wenatchee,_Washington",http://sws.geonames.org/5815342/
+0,30,"Washougal, Washington","http://dbpedia.org/resource/Washougal,_Washington",http://sws.geonames.org/5815136/
+0,31,"Wallula, Washington","http://dbpedia.org/resource/Wallula,_Washington",http://sws.geonames.org/5814945/
+0,32,"Vancouver, Washington","http://dbpedia.org/resource/Vancouver,_Washington",http://sws.geonames.org/5814616/
+0,33,"Touchet, Washington","http://dbpedia.org/resource/Touchet,_Washington",http://sws.geonames.org/5813773/
+0,34,"Taholah, Washington","http://dbpedia.org/resource/Taholah,_Washington",http://sws.geonames.org/5812994/
+0,35,"Sultan, Washington","http://dbpedia.org/resource/Sultan,_Washington",http://sws.geonames.org/5812483/
+0,36,"Starbuck, Washington","http://dbpedia.org/resource/Starbuck,_Washington",http://sws.geonames.org/5812009/
+0,37,"Spokane, Washington","http://dbpedia.org/resource/Spokane,_Washington",http://sws.geonames.org/5811696/
+0,38,"Ridgefield, Washington","http://dbpedia.org/resource/Ridgefield,_Washington",http://sws.geonames.org/5808311/
+0,39,"Richland, Washington","http://dbpedia.org/resource/Richland,_Washington",http://sws.geonames.org/5808276/
+0,40,"Orting, Washington","http://dbpedia.org/resource/Orting,_Washington",http://sws.geonames.org/5805849/
+0,41,"Orchards, Washington","http://dbpedia.org/resource/Port_Orchard,_Washington",http://sws.geonames.org/5805815/
+0,42,"Mountlake Terrace, Washington","http://dbpedia.org/resource/Mountlake_Terrace,_Washington",http://sws.geonames.org/5804191/
+0,43,"Morton, Washington","http://dbpedia.org/resource/Morton,_Washington",http://sws.geonames.org/5803964/
+0,44,"Monroe, Washington","http://dbpedia.org/resource/Monroe,_Washington",http://sws.geonames.org/5803786/
+0,45,"Marblemount, Washington","http://dbpedia.org/resource/Marblemount,_Washington",http://sws.geonames.org/5802383/
+0,46,"Lyle, Washington","http://dbpedia.org/resource/Lyle,_Washington",http://sws.geonames.org/5802007/
+0,47,"Longview, Washington","http://dbpedia.org/resource/Longview,_Texas",http://sws.geonames.org/5801617/
+0,48,"Lake Forest Park, Washington","http://dbpedia.org/resource/Lake_Forest_Park,_Washington",http://sws.geonames.org/5800227/
+0,49,"La Crosse, Washington","http://dbpedia.org/resource/La_Crosse,_Wisconsin",http://sws.geonames.org/5800078/
+0,50,"Kelso, Washington","http://dbpedia.org/resource/Kelso,_Washington",http://sws.geonames.org/5799571/
+0,51,"Kalama, Washington","http://dbpedia.org/resource/Kalama,_Washington",http://sws.geonames.org/5799410/
+0,52,"Greenwater, Washington","http://dbpedia.org/resource/Greenwater,_Washington",http://sws.geonames.org/5796280/
+0,53,"Eatonville, Washington","http://dbpedia.org/resource/Eatonville,_Washington",http://sws.geonames.org/5793321/
+0,54,"Desert Aire, Washington","http://dbpedia.org/resource/Desert_Aire,_Washington",http://sws.geonames.org/5792262/
+0,55,"Dayton, Washington","http://dbpedia.org/resource/Dayton,_Washington",http://sws.geonames.org/5791896/
+0,56,"Darrington, Washington","http://dbpedia.org/resource/Darrington,_Washington",http://sws.geonames.org/5791791/
+0,57,"Concrete, Washington","http://dbpedia.org/resource/Concrete,_Washington",http://sws.geonames.org/5790718/
+0,58,"Clallam Bay, Washington","http://dbpedia.org/resource/Clallam_Bay,_Washington",http://sws.geonames.org/5790161/
+0,59,"Castle Rock, Washington","http://dbpedia.org/resource/Castle_Rock,_Washington",http://sws.geonames.org/5789381/
+0,60,"Camas, Washington","http://dbpedia.org/resource/Camas,_Washington",http://sws.geonames.org/5788822/
+0,61,"Burbank, Washington","http://dbpedia.org/resource/Burbank,_Washington",http://sws.geonames.org/5788497/
+0,62,"Brewster, Washington","http://dbpedia.org/resource/Brewster,_Washington",http://sws.geonames.org/5788077/
+0,63,"Bellevue, Washington","http://dbpedia.org/resource/Alhambra,_California",http://sws.geonames.org/5786882/
+0,64,"Rush Valley, Utah","http://dbpedia.org/resource/West_Valley_City,_Utah",http://sws.geonames.org/5780862/
+0,65,"Provo, Utah","http://dbpedia.org/resource/Provo,_Utah",http://sws.geonames.org/5780026/
+0,66,"Murray, Utah","http://dbpedia.org/resource/Murray,_Utah",http://sws.geonames.org/5778755/
+0,67,"Logan, Utah","http://dbpedia.org/resource/Logan,_Utah",http://sws.geonames.org/5777544/
+0,68,"Centerville, Utah","http://dbpedia.org/resource/Centerville,_Iowa",http://sws.geonames.org/5772654/
+0,69,"Bear River City, Utah","http://dbpedia.org/resource/Bear_River_City,_Utah",http://sws.geonames.org/5771179/
+0,70,"Alta, Utah","http://dbpedia.org/resource/Alta,_Utah",http://sws.geonames.org/5770692/
+0,71,"Woodburn, Oregon","http://dbpedia.org/resource/Woodburn,_Oregon",http://sws.geonames.org/5761708/
+0,72,"Willamina, Oregon","http://dbpedia.org/resource/Willamina,_Oregon",http://sws.geonames.org/5760923/
+0,73,"West Linn, Oregon","http://dbpedia.org/resource/West_Linn,_Oregon",http://sws.geonames.org/5760009/
+0,74,"Warrenton, Oregon","http://dbpedia.org/resource/Warrenton,_Oregon",http://sws.geonames.org/5759289/
+0,75,"Waldport, Oregon","http://dbpedia.org/resource/Waldport,_Oregon",http://sws.geonames.org/5758901/
+0,76,"Vale, Oregon","http://dbpedia.org/resource/Vale,_Oregon",http://sws.geonames.org/5758413/
+0,77,"Unity, Oregon","http://dbpedia.org/resource/Unity,_Oregon",http://sws.geonames.org/5758176/
+0,78,"Umatilla, Oregon","http://dbpedia.org/resource/Umatilla,_Oregon",http://sws.geonames.org/5758052/
+0,79,"Troutdale, Oregon","http://dbpedia.org/resource/Troutdale,_Oregon",http://sws.geonames.org/5757477/
+0,80,"Tillamook, Oregon","http://dbpedia.org/resource/Tillamook,_Oregon",http://sws.geonames.org/5756777/
+0,81,"The Dalles, Oregon","http://dbpedia.org/resource/The_Dalles,_Oregon",http://sws.geonames.org/5756304/
+0,82,"Sweet Home, Oregon","http://dbpedia.org/resource/Sweet_Home,_Oregon",http://sws.geonames.org/5755674/
+0,83,"Sunriver, Oregon","http://dbpedia.org/resource/Sunriver,_Oregon",http://sws.geonames.org/5755337/
+0,84,"Sumpter, Oregon","http://dbpedia.org/resource/Sumpter,_Oregon",http://sws.geonames.org/5755242/
+0,85,"Sublimity, Oregon","http://dbpedia.org/resource/Sublimity,_Oregon",http://sws.geonames.org/5754988/
+0,86,"Springfield, Oregon","http://dbpedia.org/resource/Springfield,_Oregon",http://sws.geonames.org/5754005/
+0,87,"Silverton, Oregon","http://dbpedia.org/resource/Silverton,_Oregon",http://sws.geonames.org/5752024/
+0,88,"Seaside, Oregon","http://dbpedia.org/resource/Seaside,_Oregon",http://sws.geonames.org/5750984/
+0,89,"Scio, Oregon","http://dbpedia.org/resource/Scio,_Oregon",http://sws.geonames.org/5750831/
+0,90,"Scappoose, Oregon","http://dbpedia.org/resource/Scappoose,_Oregon",http://sws.geonames.org/5750663/
+0,91,"Salem, Oregon","http://dbpedia.org/resource/Portland,_Oregon",http://sws.geonames.org/5750162/
+0,92,"Roseburg, Oregon","http://dbpedia.org/resource/Roseburg,_Oregon",http://sws.geonames.org/5749352/
+0,93,"Rose Lodge, Oregon","http://dbpedia.org/resource/Portland,_Oregon",http://sws.geonames.org/5749333/
+0,94,"Rogue River, Oregon","http://dbpedia.org/resource/Rogue_River,_Oregon",http://sws.geonames.org/5749213/
+0,95,"Richland, Oregon","http://dbpedia.org/resource/Richland,_Oregon",http://sws.geonames.org/5748191/
+0,96,"Reedsport, Oregon","http://dbpedia.org/resource/Reedsport,_Oregon",http://sws.geonames.org/5747941/
+0,97,"Prineville, Oregon","http://dbpedia.org/resource/Prineville,_Oregon",http://sws.geonames.org/5746901/
+0,98,"Portland, Oregon","http://dbpedia.org/resource/Portland,_Oregon",http://sws.geonames.org/5746545/
+0,99,"Port Orford, Oregon","http://dbpedia.org/resource/Port_Orford,_Oregon",http://sws.geonames.org/5746486/
+0,100,"Pilot Rock, Oregon","http://dbpedia.org/resource/Pilot_Rock,_Oregon",http://sws.geonames.org/5745782/
+0,101,"Pacific City, Oregon","http://dbpedia.org/resource/Prairie_City,_Oregon",http://sws.geonames.org/5744635/
+0,102,"Oregon City, Oregon","http://dbpedia.org/resource/Portland,_Oregon",http://sws.geonames.org/5744253/
+0,103,"Oceanside, Oregon","http://dbpedia.org/resource/Oceanside,_California",http://sws.geonames.org/5743865/
+0,104,"Oakridge, Oregon","http://dbpedia.org/resource/Oakridge,_Oregon",http://sws.geonames.org/5743796/
+0,105,"North Powder, Oregon","http://dbpedia.org/resource/Portland,_Oregon",http://sws.geonames.org/5743427/
+0,106,"Newport, Oregon","http://dbpedia.org/resource/Newport,_Oregon",http://sws.geonames.org/5742750/
+0,107,"Nehalem, Oregon","http://dbpedia.org/resource/Nehalem,_Oregon",http://sws.geonames.org/5742549/
+0,108,"Myrtle Point, Oregon","http://dbpedia.org/resource/Myrtle_Point,_Oregon",http://sws.geonames.org/5742346/
+0,109,"Myrtle Creek, Oregon","http://dbpedia.org/resource/Myrtle_Creek,_Oregon",http://sws.geonames.org/5742332/
+0,110,"Monmouth, Oregon","http://dbpedia.org/resource/Monmouth,_Oregon",http://sws.geonames.org/5741227/
+0,111,"Milwaukie, Oregon","http://dbpedia.org/resource/Milwaukie,_Oregon",http://sws.geonames.org/5740900/
+0,112,"Milton-Freewater, Oregon","http://dbpedia.org/resource/Milton-Freewater,_Oregon",http://sws.geonames.org/5740898/
+0,113,"Mehama, Oregon","http://dbpedia.org/resource/Elgin,_Oregon",http://sws.geonames.org/5740131/
+0,114,"Medford, Oregon","http://dbpedia.org/resource/Medford,_Oregon",http://sws.geonames.org/5740099/
+0,115,"McMinnville, Oregon","http://dbpedia.org/resource/McMinnville,_Oregon",http://sws.geonames.org/5739936/
+0,116,"Maupin, Oregon","http://dbpedia.org/resource/Maupin,_Oregon",http://sws.geonames.org/5739369/
+0,117,"Lowell, Oregon","http://dbpedia.org/resource/Lowell,_Massachusetts",http://sws.geonames.org/5738222/
+0,118,"Lostine, Oregon","http://dbpedia.org/resource/Lostine,_Oregon",http://sws.geonames.org/5738136/
+0,119,"Lincoln City, Oregon","http://dbpedia.org/resource/Lincoln,_Nebraska",http://sws.geonames.org/5736645/
+0,120,"Langlois, Oregon","http://dbpedia.org/resource/Langlois,_Oregon",http://sws.geonames.org/5735913/
+0,121,"Lakeside, Oregon","http://dbpedia.org/resource/Lakeside,_Oregon",http://sws.geonames.org/5735782/
+0,122,"Lake Oswego, Oregon","http://dbpedia.org/resource/Lake_Oswego,_Oregon",http://sws.geonames.org/5735724/
+0,123,"Klamath Falls, Oregon","http://dbpedia.org/resource/Klamath_Falls,_Oregon",http://sws.geonames.org/5735238/
+0,124,"Junction City, Oregon","http://dbpedia.org/resource/Junction_City,_Oregon",http://sws.geonames.org/5734198/
+0,125,"Johnson City, Oregon","http://dbpedia.org/resource/Johnson_City,_Oregon",http://sws.geonames.org/5733855/
+0,126,"Jefferson, Oregon","http://dbpedia.org/resource/Jefferson,_Oregon",http://sws.geonames.org/5733532/
+0,127,"Independence, Oregon","http://dbpedia.org/resource/Independence,_Oregon",http://sws.geonames.org/5732763/
+0,128,"Huntington, Oregon","http://dbpedia.org/resource/Huntington,_West_Virginia",http://sws.geonames.org/5732558/
+0,129,"Hillsboro, Oregon","http://dbpedia.org/resource/Hillsboro,_Oregon",http://sws.geonames.org/5731371/
+0,130,"Hermiston, Oregon","http://dbpedia.org/resource/Hermiston,_Oregon",http://sws.geonames.org/5731070/
+0,131,"Gresham, Oregon","http://dbpedia.org/resource/Gresham,_Oregon",http://sws.geonames.org/5729485/
+0,132,"Grants Pass, Oregon","http://dbpedia.org/resource/Grants_Pass,_Oregon",http://sws.geonames.org/5729080/
+0,133,"Grand Ronde, Oregon","http://dbpedia.org/resource/Grand_Ronde,_Oregon",http://sws.geonames.org/5728972/
+0,134,"Glide, Oregon","http://dbpedia.org/resource/Glide,_Oregon",http://sws.geonames.org/5728531/
+0,135,"Gladstone, Oregon","http://dbpedia.org/resource/Gladstone,_Oregon",http://sws.geonames.org/5728429/
+0,136,"Gaston, Oregon","http://dbpedia.org/resource/Gaston,_Oregon",http://sws.geonames.org/5728080/
+0,137,"Forest Grove, Oregon","http://dbpedia.org/resource/Forest_Grove,_Oregon",http://sws.geonames.org/5727190/
+0,138,"Florence, Oregon","http://dbpedia.org/resource/Florence,_Oregon",http://sws.geonames.org/5727032/
+0,139,"Fairview, Oregon","http://dbpedia.org/resource/Fairview,_Oregon",http://sws.geonames.org/5726018/
+0,140,"Eugene, Oregon","http://dbpedia.org/resource/Eugene,_Oregon",http://sws.geonames.org/5725846/
+0,141,"Elkton, Oregon","http://dbpedia.org/resource/Elkton,_Oregon",http://sws.geonames.org/5725503/
+0,142,"Eagle Point, Oregon","http://dbpedia.org/resource/Eagle_Point,_Oregon",http://sws.geonames.org/5724581/
+0,143,"Durham, Oregon","http://dbpedia.org/resource/Durham,_Oregon",http://sws.geonames.org/5724406/
+0,144,"Drain, Oregon","http://dbpedia.org/resource/Drain,_Oregon",http://sws.geonames.org/5723833/
+0,145,"Dayton, Oregon","http://dbpedia.org/resource/Dayton,_Oregon",http://sws.geonames.org/5722326/
+0,146,"Dayville, Oregon","http://dbpedia.org/resource/Dayville,_Oregon",http://sws.geonames.org/5722320/
+0,147,"Cove, Oregon","http://dbpedia.org/resource/Cove,_Oregon",http://sws.geonames.org/5721027/
+0,148,"Cottage Grove, Oregon","http://dbpedia.org/resource/Cottage_Grove,_Oregon",http://sws.geonames.org/5720755/
+0,149,"Corvallis, Oregon","http://dbpedia.org/resource/Corvallis,_Oregon",http://sws.geonames.org/5720727/
+0,150,"Coos Bay, Oregon","http://dbpedia.org/resource/Coos_Bay,_Oregon",http://sws.geonames.org/5720495/
+0,151,"Coburg, Oregon","http://dbpedia.org/resource/Coburg,_Oregon",http://sws.geonames.org/5719774/
+0,152,"Clatskanie, Oregon","http://dbpedia.org/resource/Clatskanie,_Oregon",http://sws.geonames.org/5719397/
+0,153,"Chiloquin, Oregon","http://dbpedia.org/resource/Chiloquin,_Oregon",http://sws.geonames.org/5719022/
+0,154,"Central Point, Oregon","http://dbpedia.org/resource/Central_Point,_Oregon",http://sws.geonames.org/5718601/

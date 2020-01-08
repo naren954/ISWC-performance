@@ -1,0 +1,30 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,4,Ã\u0089toile Sportive du Sahel,http://dbpedia.org/resource/Étoile_Sportive_du_Sahel,http://dbpedia.org/resource/Espérance_Sportive_de_Tunis
+2,6,Avenir Sportif de La Marsa,http://dbpedia.org/resource/AS_Marsa,http://dbpedia.org/resource/Stade_Tunis http://dbpedia.org/resource/Stade_tunisien http://dbpedia.org/resource/Stade_Tunisien
+2,10,Club Africain,http://dbpedia.org/resource/Club_Africain,http://dbpedia.org/resource/A.S._Marsa http://dbpedia.org/resource/Avenir_sportif_de_la_marsa http://dbpedia.org/resource/AS_La_Marsa http://dbpedia.org/resource/Avenir_Sportif_de_La_Marsa http://dbpedia.org/resource/AS_Marsa
+2,11,Stade Tunisien,http://dbpedia.org/resource/Stade_Tunisien,http://dbpedia.org/resource/A.S._Marsa http://dbpedia.org/resource/Avenir_sportif_de_la_marsa http://dbpedia.org/resource/AS_La_Marsa http://dbpedia.org/resource/Avenir_Sportif_de_La_Marsa http://dbpedia.org/resource/AS_Marsa
+2,14,Club Africain,http://dbpedia.org/resource/Club_Africain,http://dbpedia.org/resource/Espérance_Sportive_de_Tunis
+2,15,Club Africain,http://dbpedia.org/resource/Club_Africain,http://dbpedia.org/resource/A.S._Marsa http://dbpedia.org/resource/Avenir_sportif_de_la_marsa http://dbpedia.org/resource/AS_La_Marsa http://dbpedia.org/resource/Avenir_Sportif_de_La_Marsa http://dbpedia.org/resource/AS_Marsa
+2,16,Club Sportif Sfaxien,http://dbpedia.org/resource/CS_Sfaxien,http://dbpedia.org/resource/Espérance_Sportive_de_Tunis
+2,17,Club Africain,http://dbpedia.org/resource/Club_Africain,http://dbpedia.org/resource/Stade_Tunis http://dbpedia.org/resource/Stade_tunisien http://dbpedia.org/resource/Stade_Tunisien
+2,18,Club Africain,http://dbpedia.org/resource/Club_Africain,http://dbpedia.org/resource/A.S._Marsa http://dbpedia.org/resource/Avenir_sportif_de_la_marsa http://dbpedia.org/resource/AS_La_Marsa http://dbpedia.org/resource/Avenir_Sportif_de_La_Marsa http://dbpedia.org/resource/AS_Marsa
+2,21,Club Africain,http://dbpedia.org/resource/Club_Africain,http://dbpedia.org/resource/Espérance_Sportive_de_Tunis
+2,22,Avenir Sportif de La Marsa,http://dbpedia.org/resource/AS_Marsa,http://dbpedia.org/resource/CS_Sfax http://dbpedia.org/resource/Club_Sportif_Sfaxien http://dbpedia.org/resource/CS_Sfaxien
+2,26,Ã\u0089toile Sportive du Sahel,http://dbpedia.org/resource/Étoile_Sportive_du_Sahel,http://dbpedia.org/resource/Stade_Tunis http://dbpedia.org/resource/Stade_tunisien http://dbpedia.org/resource/Stade_Tunisien
+2,28,Ã\u0089toile Sportive du Sahel,http://dbpedia.org/resource/Étoile_Sportive_du_Sahel,http://dbpedia.org/resource/A.S._Marsa http://dbpedia.org/resource/Avenir_sportif_de_la_marsa http://dbpedia.org/resource/AS_La_Marsa http://dbpedia.org/resource/Avenir_Sportif_de_La_Marsa http://dbpedia.org/resource/AS_Marsa
+2,29,Avenir Sportif de La Marsa,http://dbpedia.org/resource/AS_Marsa,http://dbpedia.org/resource/CS_Sfax http://dbpedia.org/resource/Club_Sportif_Sfaxien http://dbpedia.org/resource/CS_Sfaxien
+2,32,Club AthlÃ©tique Bizertin,http://dbpedia.org/resource/CA_Bizertin,http://dbpedia.org/resource/A.S._Marsa http://dbpedia.org/resource/Avenir_sportif_de_la_marsa http://dbpedia.org/resource/AS_La_Marsa http://dbpedia.org/resource/Avenir_Sportif_de_La_Marsa http://dbpedia.org/resource/AS_Marsa
+2,35,Avenir Sportif de La Marsa,http://dbpedia.org/resource/AS_Marsa,http://dbpedia.org/resource/Stade_Tunis http://dbpedia.org/resource/Stade_tunisien http://dbpedia.org/resource/Stade_Tunisien
+2,37,Club Africain,http://dbpedia.org/resource/Club_Africain,http://dbpedia.org/resource/Stade_Tunis http://dbpedia.org/resource/Stade_tunisien http://dbpedia.org/resource/Stade_Tunisien
+2,38,Olympique BÃ©ja,http://dbpedia.org/resource/Olympique_Béja,http://dbpedia.org/resource/A.S._Marsa http://dbpedia.org/resource/Avenir_sportif_de_la_marsa http://dbpedia.org/resource/AS_La_Marsa http://dbpedia.org/resource/Avenir_Sportif_de_La_Marsa http://dbpedia.org/resource/AS_Marsa
+2,40,Club Sportif Sfaxien,http://dbpedia.org/resource/CS_Sfaxien,http://dbpedia.org/resource/Olympique_Béja
+2,42,EspÃ©rance Sportive de Tunis,http://dbpedia.org/resource/Espérance_Sportive_de_Tunis,http://dbpedia.org/resource/CS_Sfax http://dbpedia.org/resource/Club_Sportif_Sfaxien http://dbpedia.org/resource/CS_Sfaxien
+2,43,Club Africain,http://dbpedia.org/resource/Club_Africain,http://dbpedia.org/resource/Olympique_Béja
+2,45,Club Africain,http://dbpedia.org/resource/Club_Africain,http://dbpedia.org/resource/CS_Sfax http://dbpedia.org/resource/Club_Sportif_Sfaxien http://dbpedia.org/resource/CS_Sfaxien
+2,49,Club Sportif Sfaxien,http://dbpedia.org/resource/CS_Sfaxien,http://dbpedia.org/resource/Espérance_Sportive_de_Tunis
+2,50,EspÃ©rance Sportive de Zarzis,http://dbpedia.org/resource/ES_Zarzis,http://dbpedia.org/resource/Espérance_Sportive_de_Tunis
+2,55,Olympique BÃ©ja,http://dbpedia.org/resource/Olympique_Béja,http://dbpedia.org/resource/CS_Sfax http://dbpedia.org/resource/Club_Sportif_Sfaxien http://dbpedia.org/resource/CS_Sfaxien
+2,57,Ã\u0089toile Sportive du Sahel,http://dbpedia.org/resource/Étoile_Sportive_du_Sahel,http://dbpedia.org/resource/CS_Sfax http://dbpedia.org/resource/Club_Sportif_Sfaxien http://dbpedia.org/resource/CS_Sfaxien
+2,58,Club AthlÃ©tique Bizertin,http://dbpedia.org/resource/CA_Bizertin,http://dbpedia.org/resource/A.S._Marsa http://dbpedia.org/resource/Avenir_sportif_de_la_marsa http://dbpedia.org/resource/AS_La_Marsa http://dbpedia.org/resource/Avenir_Sportif_de_La_Marsa http://dbpedia.org/resource/AS_Marsa
+2,59,Ã\u0089toile Sportive du Sahel,http://dbpedia.org/resource/Étoile_Sportive_du_Sahel,http://dbpedia.org/resource/CS_Sfax http://dbpedia.org/resource/Club_Sportif_Sfaxien http://dbpedia.org/resource/CS_Sfaxien

@@ -1,0 +1,16 @@
+F1: 0.06667,Precision: 0.06667,Recall: 0.06667,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Blue-gray,,http://dbpedia.org/resource/Bluish_gray http://dbpedia.org/resource/Bluish_grey http://dbpedia.org/resource/Blue-gray http://dbpedia.org/resource/Blue-grey
+0,2,Bleu de France,http://dbpedia.org/resource/MS_Saga_Sapphire,http://dbpedia.org/resource/Bleu_De_France http://dbpedia.org/resource/Bleu_de_France_(color) http://dbpedia.org/resource/Blue_de_France_(color) http://dbpedia.org/resource/Bleu_de_France_(colour)
+0,3,Black,http://dbpedia.org/resource/Holly_Black,"http://dbpedia.org/resource/Color/Black http://dbpedia.org/resource/Color/black http://dbpedia.org/resource/000000 http://dbpedia.org/resource/Black_is_not_a_Color http://dbpedia.org/resource/Blackest http://dbpedia.org/resource/(0,_0,_0) http://dbpedia.org/resource/Black_(Colour) http://dbpedia.org/resource/Blackly http://dbpedia.org/resource/Black http://dbpedia.org/resource/Black_(color) http://dbpedia.org/resource/Ultimately_dark http://dbpedia.org/resource/BLACK http://dbpedia.org/resource/Rgb(0,_0,_0) http://dbpedia.org/resource/Black_(colour) http://dbpedia.org/resource/Blackeness"
+0,4,Bistre,,http://dbpedia.org/resource/Bistre
+0,5,Beige,,http://dbpedia.org/resource/Beige
+0,6,Baker-Miller Pink,http://dbpedia.org/resource/Bakers_Pink,http://dbpedia.org/resource/Baker-Miller_Pink http://dbpedia.org/resource/Schauss_Pink http://dbpedia.org/resource/P-618
+0,7,Baby blue,http://fr.dbpedia.org/resource/Baby_blue,http://dbpedia.org/resource/Baby_blue http://dbpedia.org/resource/Baby_Blue. http://dbpedia.org/resource/Baby_Blue
+0,8,Aqua,http://dbpedia.org/resource/Water,http://dbpedia.org/resource/Aqua_(color) http://dbpedia.org/resource/Aqua_(colour) http://dbpedia.org/resource/Aqua_color
+0,9,Apricot,"http://dbpedia.org/resource/Apricot,_Washington",http://dbpedia.org/resource/Apricot_(colour) http://dbpedia.org/resource/Apricot_(color)
+0,10,Android green,http://dbpedia.org/resource/Android_(operating_system),http://dbpedia.org/resource/Android_green
+0,11,Amber,,http://dbpedia.org/resource/Amber_color http://dbpedia.org/resource/SAE/ECE_amber http://dbpedia.org/resource/Yellow-orange http://dbpedia.org/resource/UNECE_Amber http://dbpedia.org/resource/Amber_(colour) http://dbpedia.org/resource/Orange-yellow http://dbpedia.org/resource/Amber_(color)
+0,12,Amaranth,http://dbpedia.org/resource/Peltogyne,http://dbpedia.org/resource/Amaranth_purple http://dbpedia.org/resource/Amaranth_pink http://dbpedia.org/resource/Amaranth_(color)
+0,13,Alizarin crimson,http://dbpedia.org/resource/Alizarin_crimson,http://dbpedia.org/resource/Alizarin_crimson_(color) http://dbpedia.org/resource/Alizarine_crimson_(color)
+0,15,Acid green,http://dbpedia.org/resource/Light_Green_SF,http://dbpedia.org/resource/Acid_green

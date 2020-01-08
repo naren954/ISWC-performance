@@ -1,0 +1,5 @@
+F1: 0.25000,Precision: 0.25000,Recall: 0.25000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Renova,http://dbpedia.org/resource/Tretinoin,http://dbpedia.org/resource/Renova_Džepčište http://dbpedia.org/resource/FK_Renova
+0,2,Sileks,http://dbpedia.org/resource/Liquid,http://dbpedia.org/resource/FK_Sileks_Kratovo http://dbpedia.org/resource/Sileks_Kratovo http://dbpedia.org/resource/FK_Sileks http://dbpedia.org/resource/Vlasto_Savevski
+0,4,Miravci,http://dbpedia.org/resource/Miravci,http://dbpedia.org/resource/FK_Miravci

@@ -1,0 +1,4 @@
+"F1: 0.89474","Precision: 0.89474","Recall: 0.89474"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","8","Dover","http://dbpedia.org/resource/Dover,_New_Hampshire","http://dbpedia.org/resource/Docks_of_Dover http://dbpedia.org/resource/Dover_(town,_England) http://dbpedia.org/resource/Dover,_Kent http://dbpedia.org/resource/Dover_RFC http://dbpedia.org/resource/Dover,_England http://dbpedia.org/resource/Docks_Of_Dover http://dbpedia.org/resource/The_weather_in_Dover http://dbpedia.org/resource/Charlton_by_Dover http://dbpedia.org/resource/Dover"
+"1","9","Dublin, Texas","http://dbpedia.org/resource/Dublin","http://dbpedia.org/resource/Dr_Pepper,_Texas http://dbpedia.org/resource/Dublin,_TX http://dbpedia.org/resource/UN/LOCODE:USDBL http://dbpedia.org/resource/Dublin,_Texas http://dbpedia.org/resource/Dr._Pepper,_Texas"

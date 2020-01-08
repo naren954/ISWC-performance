@@ -1,0 +1,4 @@
+"F1: 0.93103","Precision: 0.93103","Recall: 0.93103"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","45","Ko Ko","http://dbpedia.org/resource/De_Gebroeders_Ko","http://dbpedia.org/resource/Ko_Ko"
+"1","50","Fair & Lovely","http://dbpedia.org/resource/Fair_&_Lovely","http://dbpedia.org/resource/Fair_&_Lovely_(film)"

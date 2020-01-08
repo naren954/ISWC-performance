@@ -1,0 +1,8 @@
+F1: 0.91045,Precision: 0.91045,Recall: 0.91045,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,17,AntonÃ­n DvoÅ\u0099Ã¡k,,http://dbpedia.org/resource/Antonín_Dvořák
+0,23,William Gilchrist,http://dbpedia.org/resource/Ellen_Gilchrist,http://dbpedia.org/resource/William_Gilchrist http://dbpedia.org/resource/William_Wallace_Gilchrist
+0,32,Victor Kolar,http://dbpedia.org/resource/Petr_Kolář_(singer),http://dbpedia.org/resource/Victor_Kolar
+0,39,Ã\u0089tienne MÃ©hul,,http://dbpedia.org/resource/Étienne_Méhul
+0,65,Jan VÃ¡clav VoÅ\u0099Ã­Å¡ek,http://de.dbpedia.org/resource/Jan_Schlubach,http://dbpedia.org/resource/Jan_Václav_Voříšek
+0,66,Pavel VranickÃ½,http://dbpedia.org/resource/Paul_Wranitzky,http://dbpedia.org/resource/Pavel_Vranický

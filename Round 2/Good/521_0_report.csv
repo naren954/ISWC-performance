@@ -1,0 +1,4 @@
+F1: 0.96923,Precision: 0.96923,Recall: 0.96923,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,20,Was,http://dbpedia.org/resource/Don_Was,http://dbpedia.org/resource/Was_(horse)
+0,55,Tinners Way,http://dbpedia.org/resource/Tinners_Way,http://dbpedia.org/resource/Tinners_Way_(horse)

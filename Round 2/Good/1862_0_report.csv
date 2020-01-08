@@ -1,0 +1,4 @@
+F1: 0.90000,Precision: 0.90000,Recall: 0.90000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,5,A Christmas Carol,http://dbpedia.org/resource/A_Christmas_Carol_(1938_film),http://dbpedia.org/resource/A_Christmas_Carol_(1971_film) http://dbpedia.org/resource/A_Christmas_Carol_(1971_movie)
+0,14,4 Clowns,http://dbpedia.org/resource/Hellraiser:_Bloodline,http://dbpedia.org/resource/4_Clowns

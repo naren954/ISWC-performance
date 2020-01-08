@@ -1,0 +1,5 @@
+"F1: 0.00000","Precision: 0.00000","Recall: 0.00000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","1","Agriculture","http://dbpedia.org/resource/Agriculture","http://dbpedia.org/resource/Agriculture_in_iran http://dbpedia.org/resource/Agriculture_in_Iran http://dbpedia.org/resource/Agriculture_of_Iran http://dbpedia.org/resource/Rice_production_in_Iran"
+"0","2","Industry and Mining","http://dbpedia.org/resource/Sonora","http://dbpedia.org/resource/Industry_of_Iran"
+"0","4","Tourism","http://dbpedia.org/resource/Tourism","http://dbpedia.org/resource/Tourism_in_Iran"

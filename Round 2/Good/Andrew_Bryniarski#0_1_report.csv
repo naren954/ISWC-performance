@@ -1,0 +1,6 @@
+F1: 0.78947,Precision: 0.78947,Recall: 0.78947,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,6,The Program,http://dbpedia.org/resource/The_Program_(album),http://dbpedia.org/resource/The_Program_(1993_film)
+1,7,Street Fighter,http://dbpedia.org/resource/Street_Fighter_(1994_film),http://dbpedia.org/resource/Street_Fighter_(disambiguation) http://dbpedia.org/resource/The_Streetfighter http://dbpedia.org/resource/Street_Fighter_(film)
+1,12,Scooby-Doo,http://dbpedia.org/resource/Scooby-Doo_2:_Monsters_Unleashed,http://dbpedia.org/resource/Scooby-Doo_(film) http://dbpedia.org/resource/Scooby-Doo_(movie) http://dbpedia.org/resource/Scooby-Doo_(2002_film) http://dbpedia.org/resource/Scooby_Doo:_The_Movie http://dbpedia.org/resource/Scooby-Doo_(2002_movie) http://dbpedia.org/resource/Daemon_Ritus http://dbpedia.org/resource/Scooby_Doo_(film) http://dbpedia.org/resource/Scooby-Doo:_The_Movie
+1,17,The Texas Chainsaw Massacre,http://dbpedia.org/resource/The_Texas_Chainsaw_Massacre:_The_Beginning,http://dbpedia.org/resource/Texas_Chainsaw_Massacre_(2003) http://dbpedia.org/resource/The_Texas_Chainsaw_Massacre_(2003_Soundtrack) http://dbpedia.org/resource/The_Texas_Chainsaw_Massacre_(2003_film) http://dbpedia.org/resource/The_Texas_Chainsaw_Massacre_(2003)

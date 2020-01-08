@@ -1,0 +1,7 @@
+F1: 0.68750,Precision: 0.68750,Recall: 0.68750,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,KOPB-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/K295BJ http://dbpedia.org/resource/K228DT http://dbpedia.org/resource/K283BL http://dbpedia.org/resource/KOPB-FM http://dbpedia.org/resource/K214AQ http://dbpedia.org/resource/K219FJ http://dbpedia.org/resource/K291BI http://dbpedia.org/resource/K212AQ http://dbpedia.org/resource/K242BY http://dbpedia.org/resource/K252DL http://dbpedia.org/resource/K276BU http://dbpedia.org/resource/K232CK
+0,4,KOAB-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/KOAB-FM
+0,6,KOAC-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/KWYA-FM http://dbpedia.org/resource/KWYA http://dbpedia.org/resource/K229BM http://dbpedia.org/resource/KOAC-FM
+0,15,KTMK-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/KTMK-FM
+0,16,KTVR-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/KTVR-FM

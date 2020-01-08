@@ -1,0 +1,6 @@
+F1: 0.95876,Precision: 0.95876,Recall: 0.95876,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,16,Time and Chance,http://dbpedia.org/resource/Time_and_Chance:_an_Autobiography,http://dbpedia.org/resource/Time_and_Chance_(novel)
+0,51,Thomas,http://dbpedia.org/resource/Thomas_(surname),http://dbpedia.org/resource/Thomas_(novel)
+0,58,Thin Air,http://dbpedia.org/resource/Thin_Air_(Star_Trek),http://dbpedia.org/resource/Thin_Air_(novel)
+0,95,The Year's Best Science Fiction: Third Annual Collection,http://dbpedia.org/resource/The_Year's_Best_Science_Fiction:_Twenty-Third_Annual_Collection,http://dbpedia.org/resource/The_Year's_Best_Science_Fiction:_Third_Annual_Collection

@@ -1,0 +1,17 @@
+F1: 0.81250,Precision: 0.81250,Recall: 0.81250,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,R. Brown,http://dbpedia.org/resource/Randy_Brown,"http://dbpedia.org/resource/Roger_Brown_(basketball,_born_1950) http://dbpedia.org/resource/Walter_Roger_Brown"
+0,3,R. White,http://dbpedia.org/resource/Ryan_White_(basketball),http://dbpedia.org/resource/Rodney_White
+0,5,R. Rogers,http://dbpedia.org/resource/Reggie_Rogers,http://dbpedia.org/resource/Rodney_Rogers
+0,14,R. Strickland,http://dbpedia.org/resource/Roger_Strickland_(basketball),http://dbpedia.org/resource/Rod_Strickland
+0,21,R. Freeman,http://dbpedia.org/resource/Rod_Freeman,http://dbpedia.org/resource/Robin_Freeman_(basketball)
+0,28,R. Smith,http://dbpedia.org/resource/J._R._Smith,http://dbpedia.org/resource/Robert_Leroy_Smith http://dbpedia.org/resource/Robert_Smith_(basketball)
+0,30,R. Reid,http://dbpedia.org/resource/Ryan_Reid,http://dbpedia.org/resource/Robert_Reid_(basketball)
+0,37,R. Williams,"http://dbpedia.org/resource/Reggie_Williams_(basketball,_born_1964)",http://dbpedia.org/resource/Rob_Williams_(basketball)
+0,39,R. Williams,"http://dbpedia.org/resource/Reggie_Williams_(basketball,_born_1964)",http://dbpedia.org/resource/Rita_Williams
+0,40,R. Williams,"http://dbpedia.org/resource/Reggie_Williams_(basketball,_born_1964)",http://dbpedia.org/resource/Riquna_Williams
+0,43,R. Wilson,"http://dbpedia.org/resource/Ron_Wilson_(footballer,_born_1924)",http://dbpedia.org/resource/Ricky_Wilson_(basketball)
+0,50,R. Davis,http://dbpedia.org/resource/Ron_Davis_(basketball),http://dbpedia.org/resource/Ricky_Davis
+0,54,R. Williams,"http://dbpedia.org/resource/Reggie_Williams_(basketball,_born_1964)",http://dbpedia.org/resource/Rickey_Williams
+0,57,R. Brown,http://dbpedia.org/resource/Randy_Brown,http://dbpedia.org/resource/Rickey_Brown
+0,58,R. Wilson,"http://dbpedia.org/resource/Ron_Wilson_(footballer,_born_1924)",http://dbpedia.org/resource/Rick_Wilson_(basketball)

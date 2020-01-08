@@ -1,0 +1,46 @@
+F1: 0.71975,Precision: 0.71975,Recall: 0.71975,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,4,S. Myers,http://dbpedia.org/resource/Sam_Myers,http://dbpedia.org/resource/Stanley_Myers
+1,6,J. Beaver,http://dbpedia.org/resource/Justin_Bieber,http://dbpedia.org/resource/Jack_Beaver
+1,9,R. Portman,http://dbpedia.org/resource/Natalie_Portman,http://dbpedia.org/resource/Rachel_Portman
+1,14,P. Giovanni,http://dbpedia.org/resource/Giovanni_Pierluigi_da_Palestrina,http://dbpedia.org/resource/Paul_Giovanni
+1,15,T. Banks,http://dbpedia.org/resource/Tommy_Banks,http://dbpedia.org/resource/Tony_Banks_(musician)
+1,16,H. May,http://dbpedia.org/resource/Henry_May_(American_politician),http://dbpedia.org/resource/Hans_May
+1,17,J. Haskell,http://dbpedia.org/resource/Gordon_Haskell,http://dbpedia.org/resource/Jimmie_Haskel http://dbpedia.org/resource/Jimmie_Haskell http://dbpedia.org/resource/Jimmy_Haskell
+1,18,M. Gurlitt,http://dbpedia.org/resource/Cornelius_Gurlitt_(composer),http://dbpedia.org/resource/Manfred_Gurlitt
+1,20,D. Sepe,http://dbpedia.org/resource/Majda_Sepe,http://dbpedia.org/resource/Daniele_Sepe http://dbpedia.org/resource/Daniel_Sepe
+1,22,L. Silvers,http://dbpedia.org/resource/Phil_Silvers,http://dbpedia.org/resource/Louis_Silvers http://dbpedia.org/resource/Lou_Silvers
+1,23,B. Byrd,http://dbpedia.org/resource/Bobby_Byrd,http://dbpedia.org/resource/Bretton_Byrd
+1,25,L. H. Bretón,http://fr.dbpedia.org/resource/Constant_Le_Breton,http://dbpedia.org/resource/Luis_Hernández_Bretón
+1,27,R. Rossellini,http://dbpedia.org/resource/Roberto_Rossellini,http://dbpedia.org/resource/Renzo_Rossellini_(composer)
+1,30,N. Orenstein,http://de.dbpedia.org/resource/Benno_Orenstein,http://dbpedia.org/resource/Norman_Orenstein
+1,31,R. Lavista,http://dbpedia.org/resource/Mario_Lavista,http://dbpedia.org/resource/Raúl_Lavista
+1,41,R. Robbins,http://dbpedia.org/resource/Jerome_Robbins,http://dbpedia.org/resource/Richard_Robbins_(composer)
+1,45,M. Cozzoli,http://dbpedia.org/resource/Mauro_Cozzoli,http://dbpedia.org/resource/Michele_Cozzoli
+1,50,M. Glickman,http://dbpedia.org/resource/Marty_Glickman,http://dbpedia.org/resource/Mort_Glickman
+1,57,T. Castellucci,http://dbpedia.org/resource/Cecil_Castellucci,http://dbpedia.org/resource/Teddy_Castellucci
+1,60,S. J. Taylor,http://dbpedia.org/resource/The_Game_(rapper),http://dbpedia.org/resource/Stephen_James_Taylor http://dbpedia.org/resource/Stephen_james_taylor http://dbpedia.org/resource/Stephen_James_taylor
+1,65,J. Stevens,http://dbpedia.org/resource/John_Stevens_(drummer),http://dbpedia.org/resource/James_Stevens_(composer) http://dbpedia.org/resource/James_Stevens_-_British_Composer
+1,67,A. Wilkinson,http://dbpedia.org/resource/Tom_Wilkinson,http://dbpedia.org/resource/Arthur_Wilkinson
+1,68,L. Lucas,http://dbpedia.org/resource/George_Lucas,http://dbpedia.org/resource/Leighton_Lucas http://dbpedia.org/resource/Eve's_Rhapsody
+1,72,J. Kraemer,http://de.dbpedia.org/resource/Olaf_Kraemer,http://dbpedia.org/resource/Joe_Kraemer_(composer)
+1,76,F. Piersanti,http://dbpedia.org/resource/Piersanti_Mattarella,http://dbpedia.org/resource/Franco_Piersanti
+1,77,B. Dallwitz,"http://de.dbpedia.org/resource/Sigismund_von_Dallwitz_(Politiker,_1829)",http://dbpedia.org/resource/Burkhard_Dallwitz
+1,79,R. Simonsen,http://dbpedia.org/resource/Rudolph_Simonsen,http://dbpedia.org/resource/Rob_Simonsen
+1,85,F. Katz,http://dbpedia.org/resource/Friedrich_Katz,http://dbpedia.org/resource/Fred_Katz_(cellist)
+1,92,E. Irving,http://dbpedia.org/resource/George_Irving_(American_actor),http://dbpedia.org/resource/Kelville_Ernest_Irving http://dbpedia.org/resource/Ernest_Irving
+1,93,L. Stevens,http://dbpedia.org/resource/Leslie_Stevens,http://dbpedia.org/resource/Leith_Stevens
+1,94,D. Newman,http://dbpedia.org/resource/David_Newman_(screenwriter),http://dbpedia.org/resource/David_Newman_(composer)
+1,104,S. Myers,http://dbpedia.org/resource/Sam_Myers,http://dbpedia.org/resource/Stanley_Myers
+1,113,P. Cantelon,http://dbpedia.org/resource/Reg_Cantelon,http://dbpedia.org/resource/Paul_Cantelon
+1,115,N. Brodszky,http://dbpedia.org/resource/Sándor_Brodszky,http://dbpedia.org/resource/Nicholas_Brodzsky http://dbpedia.org/resource/Nicholas_Brodszky
+1,118,Air,http://dbpedia.org/resource/Air_(band),http://dbpedia.org/resource/Air_(French_Band) http://dbpedia.org/resource/Air_(French_band) http://dbpedia.org/resource/Air_French_Band
+1,119,E. Nordgren,http://dbpedia.org/resource/Anna_Nordgren,http://dbpedia.org/resource/Erik_Nordgren
+1,120,P. Greenwell,http://dbpedia.org/resource/Tom_Greenwell,http://dbpedia.org/resource/Peter_Greenwell
+1,130,S. Black,http://dbpedia.org/resource/Cilla_Black,http://dbpedia.org/resource/Stanley_Black
+1,133,T. C. Sơn,http://dbpedia.org/resource/Ali,http://dbpedia.org/resource/Trinh_Cong_Son http://dbpedia.org/resource/Hat_Tren_Nhung_Xac_Nguoi http://dbpedia.org/resource/Trịnh_Công_Sơn http://dbpedia.org/resource/Trinh_Cong_So'n
+1,137,J. Haskell,http://dbpedia.org/resource/Gordon_Haskell,http://dbpedia.org/resource/Jimmie_Haskel http://dbpedia.org/resource/Jimmie_Haskell http://dbpedia.org/resource/Jimmy_Haskell
+1,141,E. Ward,http://dbpedia.org/resource/James_Ward_(artist),http://dbpedia.org/resource/Edward_Ward_(composer)
+1,142,P. Smith,http://dbpedia.org/resource/Patti_Smith,http://dbpedia.org/resource/Paul_Smith_(composer) http://dbpedia.org/resource/Paul_J._Smith_(composer) http://dbpedia.org/resource/Paul_Smith_(film_and_television_composer)
+1,146,H. Robinson,"http://dbpedia.org/resource/Hercules_Robinson,_1st_Baron_Rosmead",http://dbpedia.org/resource/Harry_Robertson_(producer) http://dbpedia.org/resource/Harry_M._Robertson http://dbpedia.org/resource/Harry_Robertson_(musician) http://dbpedia.org/resource/Harry_Robinson_(musician) http://dbpedia.org/resource/Harry_M_Robertson http://dbpedia.org/resource/Harry_Robertson_(composer) http://dbpedia.org/resource/Harry_Robertson_(Composer)
+1,149,A. Glasser,http://dbpedia.org/resource/Philip_Glass,http://dbpedia.org/resource/Albert_Glasser

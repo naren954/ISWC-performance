@@ -1,0 +1,6 @@
+F1: 0.82609,Precision: 0.82609,Recall: 0.82609,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,ActRaiser [1],http://dbpedia.org/resource/ActRaiser_2,http://dbpedia.org/resource/Act_Raiser http://dbpedia.org/resource/Actraiser http://dbpedia.org/resource/ActRaiser
+0,13,Dragon Warrior I & II,http://dbpedia.org/resource/Dragon_Quest,http://dbpedia.org/resource/Dragon_Warrior_I_&_II_(disambiguation)
+0,24,Nankoku ShÅ\u008Dnen Papuwa-kun,http://de.dbpedia.org/resource/Ụ,http://dbpedia.org/resource/Nankoku_Shōnen_Papuwa-kun
+0,28,Wonder Project J: Kikai no ShÅ\u008Dnen PÄ«no,http://dbpedia.org/resource/Wonder_Project_J,http://dbpedia.org/resource/Wonder_Project_J:_Kikai_no_Shōnen_Pīno

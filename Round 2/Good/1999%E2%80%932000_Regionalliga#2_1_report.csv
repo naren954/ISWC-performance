@@ -1,0 +1,4 @@
+F1: 0.88889,Precision: 0.88889,Recall: 0.88889,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,7,Rot-WeiÃ\u009F Erfurt,http://dbpedia.org/resource/FC_Rot-Weiß_Erfurt,http://dbpedia.org/resource/Rot-Weiß_Erfurt
+1,11,Hertha BSC (A),http://dbpedia.org/resource/Hertha_BSC,http://dbpedia.org/resource/Hertha_BSC_Berlin_II http://dbpedia.org/resource/Hertha_Berlin_II http://dbpedia.org/resource/Hertha_BSC_II http://dbpedia.org/resource/Hertha_BSC_Amateure

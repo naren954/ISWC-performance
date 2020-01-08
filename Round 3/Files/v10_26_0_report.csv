@@ -1,0 +1,6 @@
+"F1: 0.80000","Precision: 0.80000","Recall: 0.80000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","7","J. Bryan","http://dbpedia.org/resource/Jack_Bryan","http://dbpedia.org/resource/Johnny_Bryan"
+"0","15","D. White","http://dbpedia.org/resource/Danny_White","http://dbpedia.org/resource/Donald_White_(basketball)"
+"0","19","B. McFadden","http://dbpedia.org/resource/Bryant_McFadden","http://dbpedia.org/resource/Banks_McFadden"
+"0","20","A. Bruno","http://dbpedia.org/resource/Alex_Bruno","http://dbpedia.org/resource/Albert_P._Bruno http://dbpedia.org/resource/Al_Bruno http://dbpedia.org/resource/Albert_Bruno"

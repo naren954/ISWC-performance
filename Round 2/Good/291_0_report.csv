@@ -1,0 +1,4 @@
+F1: 0.88889,Precision: 0.88889,Recall: 0.88889,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,8,H. Smith,http://dbpedia.org/resource/Hilton_Smith,http://dbpedia.org/resource/Horton_Smith
+0,15,B. Jones,http://dbpedia.org/resource/Byron_Jones_(American_football),"http://dbpedia.org/resource/Robert_T._Jones,_Jr http://dbpedia.org/resource/Bobby_Jones_(golf) http://dbpedia.org/resource/Bobby_Jones_(golfer) http://dbpedia.org/resource/Robert_T._Jones_Jr http://dbpedia.org/resource/Robert_Tyre_Jones"

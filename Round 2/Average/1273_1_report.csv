@@ -1,0 +1,47 @@
+F1: 0.53125,Precision: 0.53125,Recall: 0.53125,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,3,O. Alexander,http://dbpedia.org/resource/Alexander_III_of_Russia,http://dbpedia.org/resource/Oskar_Alexander
+1,6,M. d. Scott,http://dbpedia.org/resource/Marian_Dale_Scott,http://dbpedia.org/resource/Marion_du_Pont_Scott http://dbpedia.org/resource/Marion_duPont_Scott
+1,8,J. Baird,"http://dbpedia.org/resource/John_Baird,_1st_Viscount_Stonehaven",http://dbpedia.org/resource/John_Baird_(educator)
+1,10,R. family,http://dbpedia.org/resource/Albert_R._Broccoli,http://dbpedia.org/resource/Rockefellers http://dbpedia.org/resource/Rockefeller_family http://dbpedia.org/resource/Renee_Rockefeller http://dbpedia.org/resource/Charles_Rockefeller http://dbpedia.org/resource/Rockefeller_Family http://dbpedia.org/resource/Rockefellar http://dbpedia.org/resource/Rockefeller_Archive_Center
+1,12,J. Dunn,http://dbpedia.org/resource/Jennifer_Dunn_(politician),http://dbpedia.org/resource/John_Dunn_(miller)
+1,13,I. Ford,http://dbpedia.org/resource/Betty_Ford,http://dbpedia.org/resource/Ita_Ford
+1,15,S. M. Jr.,http://dbpedia.org/resource/Marvin_Gaye,"http://dbpedia.org/resource/Shearn_Moody http://dbpedia.org/resource/Shearn_Moody,_Jr."
+1,16,S. M. Jr.,http://dbpedia.org/resource/Marvin_Gaye,"http://dbpedia.org/resource/Shearn_Moody http://dbpedia.org/resource/Shearn_Moody,_Jr."
+1,20,J. K. Letterman,http://dbpedia.org/resource/J._K._Simmons,http://dbpedia.org/resource/Jonathan_K._Letterman http://dbpedia.org/resource/Jonathan_Letterman
+1,22,G. Hanley,http://dbpedia.org/resource/William_Hanley,http://dbpedia.org/resource/Gerald_Hanley
+1,24,W. Bell,http://dbpedia.org/resource/William_Bell_Jr.,http://dbpedia.org/resource/William_H._Bell http://dbpedia.org/resource/William_Bell_(photographer)
+1,25,A. E. Rice,http://dbpedia.org/resource/Albert_E._Rice,http://dbpedia.org/resource/Andrew_E._Rice
+1,26,D. Goodfellow,http://dbpedia.org/resource/Michael_Goodfellow,http://dbpedia.org/resource/William_Douglas_Goodfellow http://dbpedia.org/resource/Douglas_Goodfellow
+1,29,G. H. Steuart,http://dbpedia.org/resource/George_H._Steuart_(militia_general),http://dbpedia.org/resource/Dr_George_H._Steuart http://dbpedia.org/resource/George_H._Steuart_(politician) http://dbpedia.org/resource/George_Hume_Steuart http://dbpedia.org/resource/George_H._Steuart_(planter)
+1,33,B. family,,http://dbpedia.org/resource/Billington_wrestling_family http://dbpedia.org/resource/Billington_family http://dbpedia.org/resource/Billington_executioner_family
+1,34,R. L. Carpenter,http://dbpedia.org/resource/Warren_L._Carpenter,http://dbpedia.org/resource/Russell_Lant_Carpenter
+1,36,A. Buchanan,http://dbpedia.org/resource/James_Buchanan,http://dbpedia.org/resource/Andrew_Buchanan_(New_Zealand_politician)
+1,38,J. W. Bain,http://dbpedia.org/resource/James_William_Bain,http://dbpedia.org/resource/James_Walker_Bain
+1,43,R. B. Fulton,http://dbpedia.org/resource/William_B._Fulton,http://dbpedia.org/resource/Robert_Burwell_Fulton
+1,45,E. Murdoch,http://dbpedia.org/resource/Iris_Murdoch,http://dbpedia.org/resource/Elisabeth_Murdoch_(businesswoman)
+1,46,C. E. Palmer,http://dbpedia.org/resource/Edward_Henry_Palmer,http://dbpedia.org/resource/Clyde_E._Palmer
+1,47,C. Grant,http://dbpedia.org/resource/Cary_Grant,http://dbpedia.org/resource/Colquhoun_Grant_(British_intelligence_officer)
+1,48,D. family,http://dbpedia.org/resource/Family_(band),http://dbpedia.org/resource/Descendents_of_Walt_Disney http://dbpedia.org/resource/Disney_brothers http://dbpedia.org/resource/Descendants_of_Walt_Disney http://dbpedia.org/resource/Herbert_Arthur_Disney http://dbpedia.org/resource/The_Walt_Disney_family http://dbpedia.org/resource/Disney_Family http://dbpedia.org/resource/Sharon_Disney http://dbpedia.org/resource/Sharon_Mae_Disney http://dbpedia.org/resource/Disney_family http://dbpedia.org/resource/Disney_Brothers
+1,49,O. Timm,http://dbpedia.org/resource/Helga_Timm,http://dbpedia.org/resource/Otto_Timm http://dbpedia.org/resource/Otto_W._Timm http://dbpedia.org/resource/Otto_William_Timm
+1,50,H. McCain,http://dbpedia.org/resource/Henri_Caïn,http://dbpedia.org/resource/Harrison_McCain
+1,52,M. McClellan,http://dbpedia.org/resource/George_B._McClellan,http://dbpedia.org/resource/Dr._Mark_McClellan http://dbpedia.org/resource/Mark_McClellan http://dbpedia.org/resource/Mark_B._McClellan
+1,53,G. A. Auden,http://dbpedia.org/resource/W._H._Auden,http://dbpedia.org/resource/George_Augustus_Auden
+1,55,N. Macklin,http://dbpedia.org/resource/Jenny_Macklin,http://dbpedia.org/resource/Sir_Noel_Macklin http://dbpedia.org/resource/Noel_Macklin
+1,58,O. Alexander,http://dbpedia.org/resource/Alexander_III_of_Russia,http://dbpedia.org/resource/Oskar_Alexander
+1,60,T. Morpurgo,http://dbpedia.org/resource/Elio_Morpurgo,http://dbpedia.org/resource/Tina_Morpurgo
+1,61,P. brothers,http://dbpedia.org/resource/Peter_Malam_Brothers,http://dbpedia.org/resource/Pinzón_brothers http://dbpedia.org/resource/The_Pinzon_Brothers http://dbpedia.org/resource/The_Brothers_Pinzon http://dbpedia.org/resource/Pinzon_Brothers http://dbpedia.org/resource/Pinzón_Brothers http://dbpedia.org/resource/The_Brothers_Pinzón http://dbpedia.org/resource/Pinzon_brothers http://dbpedia.org/resource/Brothers_Pinzon http://dbpedia.org/resource/The_Pinzón_Brothers
+1,62,V. Silayan,http://dbpedia.org/resource/Vic_Silayan,http://dbpedia.org/resource/Victor_Silayan
+1,63,A. H. Howard,http://dbpedia.org/resource/William_Howard_Taft,http://dbpedia.org/resource/Alton_Hardy_Howard
+1,67,V. Morpurgo,http://dbpedia.org/resource/Elio_Morpurgo,http://dbpedia.org/resource/Vid_Morpurgo
+1,68,E. family,http://dbpedia.org/resource/Family,http://dbpedia.org/resource/Eaton_Family http://dbpedia.org/resource/Eaton_family
+1,71,S. Reinach,http://dbpedia.org/resource/Théodore_Reinach,http://dbpedia.org/resource/Salomon_Reinach http://dbpedia.org/resource/Solomon_Reinach
+1,77,B. a. Decker,http://de.dbpedia.org/resource/Hugo_Decker,http://dbpedia.org/resource/Black_&_Decker_Corp. http://dbpedia.org/resource/Black_&_Decker_Canada http://dbpedia.org/resource/The_Black_&_Decker_Corporation http://dbpedia.org/resource/Black_and_decker http://dbpedia.org/resource/Black_&_Decker_Corporation http://dbpedia.org/resource/Black&Decker http://dbpedia.org/resource/Black_and_Decker http://dbpedia.org/resource/Black_&_Decker_Inc. http://dbpedia.org/resource/Black_&_Decker http://dbpedia.org/resource/B_&_D
+1,78,A. Pierrepoint,"http://dbpedia.org/resource/Charles_Pierrepont,_2nd_Earl_Manvers",http://dbpedia.org/resource/Albert_Pierrepoint http://dbpedia.org/resource/Albert_Pierrepont
+1,80,T. McKay,http://dbpedia.org/resource/Thomas_McKay_(Canadian_politician),http://dbpedia.org/resource/Thomas_McKay
+1,84,B. family,,http://dbpedia.org/resource/Billington_wrestling_family http://dbpedia.org/resource/Billington_family http://dbpedia.org/resource/Billington_executioner_family
+1,85,D. Wakefield,http://dbpedia.org/resource/Gilbert_Wakefield,http://dbpedia.org/resource/Daniel_Wakefield_(judge) http://dbpedia.org/resource/Daniel_Bell_Wakefield
+1,87,"Joseph Chappell Hutcheson, Jr.",http://dbpedia.org/resource/Joseph_Chappell_Hutcheson,"http://dbpedia.org/resource/Joseph_Chappel_Hutcheson,_Jr http://dbpedia.org/resource/Joseph_Chappell_Hutcheson,_Jr. http://dbpedia.org/resource/Joseph_Chappel_Hutcheson,_Jr. http://dbpedia.org/resource/Joseph_C._Hutcheson,_Jr. http://dbpedia.org/resource/Joseph_Chappell_Hutcheson_Jr."
+1,89,S. Reinach,http://dbpedia.org/resource/Théodore_Reinach,http://dbpedia.org/resource/Salomon_Reinach http://dbpedia.org/resource/Solomon_Reinach
+1,92,W. B. Parsons,http://dbpedia.org/resource/William_Sterling_Parsons,http://dbpedia.org/resource/William_Barclay_Parsons
+1,96,S. Mukherjee,http://dbpedia.org/resource/Pranab_Mukherjee,http://dbpedia.org/resource/Shashadhar_Mukherjee http://dbpedia.org/resource/Sashadhar_Mukherjee

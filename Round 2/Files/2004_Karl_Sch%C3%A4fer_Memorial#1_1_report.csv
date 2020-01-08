@@ -1,0 +1,7 @@
+"F1: 0.66667","Precision: 0.66667","Recall: 0.66667"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","4","TuÄ\u009Fba Karademir","nan","http://dbpedia.org/resource/Tuğba_Karademir"
+"1","7","Christiane Berger","http://dbpedia.org/resource/Christiane_Geras","http://dbpedia.org/resource/Christine_Berger http://dbpedia.org/resource/Christiane_Berger"
+"1","12","Lucia StaroviÄ\u008DovÃ¡","http://de.dbpedia.org/resource/Lucía_Tavera","http://dbpedia.org/resource/Lucia_Starovičová"
+"1","14","Teodora PoÅ¡tiÄ\u008D","http://dbpedia.org/resource/Theodora_(wife_of_Theophilos)","http://dbpedia.org/resource/Teodora_Poštič"
+"1","17","GintarÄ\u0097 VostrecovaitÄ\u0097","nan","http://dbpedia.org/resource/Gintarė_Vostrecovaitė"

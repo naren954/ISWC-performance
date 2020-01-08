@@ -1,0 +1,3 @@
+F1: 0.90000,Precision: 0.90000,Recall: 0.90000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,7,Jim Barnes,"http://dbpedia.org/resource/Jim_""Bad_News""_Barnes",http://dbpedia.org/resource/James_M._Barnes http://dbpedia.org/resource/James_Barnes_(golfer) http://dbpedia.org/resource/Jim_Barnes

@@ -1,0 +1,10 @@
+F1: 0.87302,Precision: 0.87302,Recall: 0.87302,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Z. Smith,http://dbpedia.org/resource/Zeke_Smith,http://dbpedia.org/resource/Zuriel_Smith
+0,7,Z. Moore,http://dbpedia.org/resource/Zach_Moore,http://dbpedia.org/resource/Zeke_Moore
+0,9,Z. Coston,http://dbpedia.org/resource/Junius_Coston,http://dbpedia.org/resource/Zed_Coston
+0,26,Z. Miller,"http://dbpedia.org/resource/Zach_Miller_(tight_end,_born_1985)","http://dbpedia.org/resource/Zach_Miller_(American_football_b._1985) http://dbpedia.org/resource/Zach_Miller_(Jaguars) http://dbpedia.org/resource/Zach_Miller_(tight_end,_born_1984) http://dbpedia.org/resource/Zach_Miller_(American_football_b._1984)"
+0,37,Z. Smith,http://dbpedia.org/resource/Zeke_Smith,http://dbpedia.org/resource/Za'Darius http://dbpedia.org/resource/Za'Darius_Smith http://dbpedia.org/resource/Zadarius_Smith
+0,56,W. Green,http://dbpedia.org/resource/William_Green_(American_football),"http://dbpedia.org/resource/Woody_Green http://dbpedia.org/resource/Woodrow_Green,_Jr. http://dbpedia.org/resource/Woodrow_Green"
+0,59,W. Lewis,http://dbpedia.org/resource/Whitney_Lewis,http://dbpedia.org/resource/Woodley_Lewis
+0,63,W. Hill,http://dbpedia.org/resource/Will_Hill,http://dbpedia.org/resource/Winston_Hill

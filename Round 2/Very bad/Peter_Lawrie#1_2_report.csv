@@ -1,0 +1,5 @@
+F1: 0.25000,Precision: 0.25000,Recall: 0.25000,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,1,Canarias Open de EspaÃ±a,http://dbpedia.org/resource/Open_de_España,http://dbpedia.org/resource/Canarias_Open_de_España
+2,2,Open de EspaÃ±a,http://dbpedia.org/resource/Madrid_Open_(tennis),http://dbpedia.org/resource/Open_de_España
+2,4,Czech Open,http://dbpedia.org/resource/Prague_Open_(1987–1999),http://dbpedia.org/resource/Moravia_Silesia_Open http://dbpedia.org/resource/Celadna_Czech_Open http://dbpedia.org/resource/Chemapol_Trophy_Czech_Open http://dbpedia.org/resource/Czech_Open_(golf)

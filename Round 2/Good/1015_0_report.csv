@@ -1,0 +1,10 @@
+F1: 0.79487,Precision: 0.79487,Recall: 0.79487,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,6,Siege of Luxembourg,http://dbpedia.org/resource/Siege_of_Luxembourg_(1794–95),http://dbpedia.org/resource/Siege_of_Luxembourg_(1684)
+0,9,Siege of Louisbourg,http://dbpedia.org/resource/Siege_of_Louisbourg_(1758),http://dbpedia.org/resource/Siege_of_Louisbourg_(1745) http://dbpedia.org/resource/Capture_of_Louisbourg_(1745)
+0,13,Siege of Lisbon,http://dbpedia.org/resource/Siege_of_Lisbon,http://dbpedia.org/resource/Siege_of_Lisbon_(1384)
+0,14,Siege of Lingen,http://dbpedia.org/resource/Siege_of_Lingen_(1605),http://dbpedia.org/resource/Siege_of_Lingen_(1597)
+0,15,Siege of Limerick,http://dbpedia.org/resource/Siege_of_Limerick_(1690),http://dbpedia.org/resource/Siege_of_Limerick_(1691)
+0,17,Siege of Limerick,http://dbpedia.org/resource/Siege_of_Limerick_(1690),http://dbpedia.org/resource/Siege_of_Limerick_(1650-51) http://dbpedia.org/resource/Siege_of_Limerick_(1650–1651) http://dbpedia.org/resource/Siege_of_Limerick_(1650–51) http://dbpedia.org/resource/Siege_of_Limerick_(1650-1651)
+0,19,Siege of Lille,http://dbpedia.org/resource/Siege_of_Lille_(1792),http://dbpedia.org/resource/Siege_of_Lille_(1708) http://dbpedia.org/resource/Siege_of_Ryssel
+0,31,Siege of La Rochelle,http://dbpedia.org/resource/Siege_of_La_Rochelle,http://dbpedia.org/resource/Siege_of_La_Rochelle_(1572-73) http://dbpedia.org/resource/Siege_of_La_Rochelle_(1572–1573) http://dbpedia.org/resource/Siege_of_La_Rochelle_(1572–73) http://dbpedia.org/resource/Siege_of_La_Rochelle_(1572-1573)

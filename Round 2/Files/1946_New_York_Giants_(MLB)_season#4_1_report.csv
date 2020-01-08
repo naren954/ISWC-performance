@@ -1,0 +1,7 @@
+"F1: 0.61538","Precision: 0.61538","Recall: 0.61538"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","3","Jacksonville Tars","http://dbpedia.org/resource/Jacksonville,_Florida","http://dbpedia.org/resource/Jacksonville_Braves http://dbpedia.org/resource/Jacksonville_Tars http://dbpedia.org/resource/Jacksonville_Jets"
+"1","7","Anderson A's","http://dbpedia.org/resource/UCLA_Anderson_School_of_Management","http://dbpedia.org/resource/Anderson_A's"
+"1","9","Erie Sailors","http://dbpedia.org/resource/Florence_Freedom","http://dbpedia.org/resource/Erie_Tigers http://dbpedia.org/resource/Erie_Orioles http://dbpedia.org/resource/Erie_Sailors http://dbpedia.org/resource/Erie_Blackbirds http://dbpedia.org/resource/Erie_Senators http://dbpedia.org/resource/Erie_Yankees http://dbpedia.org/resource/Erie_Cardinals"
+"1","10","St. Cloud Rox","http://dbpedia.org/resource/St._Cloud_State_University","http://dbpedia.org/resource/St._Cloud_Rox_(minor_league_baseball)"
+"1","16","Oshkosh Giants","http://dbpedia.org/resource/University_of_Wisconsin–Oshkosh","http://dbpedia.org/resource/Oshkosh_Indians http://dbpedia.org/resource/Oshkosh_Giants"

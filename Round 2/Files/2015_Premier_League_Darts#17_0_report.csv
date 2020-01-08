@@ -1,0 +1,4 @@
+"F1: 0.50000","Precision: 0.50000","Recall: 0.50000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","2","Phil Taylor 108.87","http://dbpedia.org/resource/Phil_Taylor_(musician)","http://dbpedia.org/resource/Phil_Taylor_(darts_player) http://dbpedia.org/resource/Phil_""The_Power""_Taylor http://dbpedia.org/resource/Taylor-Barneveld_rivalry http://dbpedia.org/resource/Phil_'The_Power'_Taylor"
+"0","4","Adrian Lewis 94.46","http://dbpedia.org/resource/Adrian_Peterson","http://dbpedia.org/resource/Adrian_Lewis"

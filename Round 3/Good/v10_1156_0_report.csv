@@ -1,0 +1,37 @@
+F1: 0.78528,Precision: 0.78528,Recall: 0.78528,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,The Comedy Annual,http://dbpedia.org/resource/QI,http://dbpedia.org/resource/The_Comedy_Annual
+0,10,The Champions,http://dbpedia.org/resource/Champions_(1975_team),http://dbpedia.org/resource/The_Champions
+0,11,The Celebrity Apprentice Australia,http://dbpedia.org/resource/The_Apprentice_Australia,http://dbpedia.org/resource/The_Celebrity_Apprentice_Australia
+0,25,The Black Adder,http://dbpedia.org/resource/Blackadder,http://dbpedia.org/resource/Blackadder_I http://dbpedia.org/resource/The_Black_Adder http://dbpedia.org/resource/The_Blackadder http://dbpedia.org/resource/Natasha_King_(actor) http://dbpedia.org/resource/Blackadder_1 http://dbpedia.org/resource/The_Death_of_the_Scotsman http://dbpedia.org/resource/Mad_Gerald http://dbpedia.org/resource/Blackadder_the_First
+0,27,The Biggest Loser UK,http://dbpedia.org/resource/The_Biggest_Loser_UK_(series_1),http://dbpedia.org/resource/The_Biggest_Loser_UK_(series_5)
+0,28,The Biggest Loser UK,http://dbpedia.org/resource/The_Biggest_Loser_UK_(series_1),http://dbpedia.org/resource/The_Biggest_Loser_UK_(series_4)
+0,29,The Biggest Loser UK,http://dbpedia.org/resource/The_Biggest_Loser_UK_(series_1),http://dbpedia.org/resource/The_Biggest_Loser_UK_(series_3)
+0,30,The Biggest Loser UK,http://dbpedia.org/resource/The_Biggest_Loser_UK_(series_1),http://dbpedia.org/resource/The_Biggest_Loser_UK_(series_2)
+0,34,The Bible,http://dbpedia.org/resource/Bible,http://dbpedia.org/resource/The_Bible_(TV_series) http://dbpedia.org/resource/The_Bible_(TV_mini_series) http://dbpedia.org/resource/The_Bible_miniseries http://dbpedia.org/resource/The_Bible_(TV_miniseries) http://dbpedia.org/resource/The_Bible_(miniseries)
+0,36,The Beatles Anthology,http://dbpedia.org/resource/The_Beatles_Anthology,http://dbpedia.org/resource/The_Beatles_Anthology_(film) http://dbpedia.org/resource/The_Beatles_Anthology_(5_DVD_Set) http://dbpedia.org/resource/The_Beatles_Anthology_(documentary) http://dbpedia.org/resource/The_Threatles http://dbpedia.org/resource/Threatles
+0,37,The Beast,http://dbpedia.org/resource/Beauty_and_the_Beast_(1991_film),http://dbpedia.org/resource/The_Beast_(2001_TV_series)
+0,38,The Beachcomber,http://dbpedia.org/resource/Vessel_of_Wrath,http://dbpedia.org/resource/The_Beachcomber_(series) http://dbpedia.org/resource/The_Beachcomber_(TV_series)
+0,39,The Baron,http://dbpedia.org/resource/The_Gypsy_Baron,http://dbpedia.org/resource/The_Man_in_a_Looking_Glass http://dbpedia.org/resource/John_Mannering http://dbpedia.org/resource/Baron_(TV_series) http://dbpedia.org/resource/Mystery_Island_(film) http://dbpedia.org/resource/The_Baron
+0,50,The American Girls,http://dbpedia.org/resource/The_Golden_Girls,http://dbpedia.org/resource/The_American_Girls_(TV_series)
+0,68,That's the Question,http://dbpedia.org/resource/That's_the_Question_(American_game_show),http://dbpedia.org/resource/That's_the_Question_(UK_game_show)
+0,70,That's Love,http://dbpedia.org/resource/What's_Love,http://dbpedia.org/resource/That's_Love
+0,71,That's Life,http://dbpedia.org/resource/That's_Life_(2000_TV_series),http://dbpedia.org/resource/That's_Life_(1998) http://dbpedia.org/resource/That's_Life_(1998_TV_series)
+0,72,Thank God You're Here,http://dbpedia.org/resource/Thank_God_You're_Here,http://dbpedia.org/resource/Thank_God_You're_Here_(U.S._TV_series) http://dbpedia.org/resource/Thank_God_You're_Here_(US_TV_show) http://dbpedia.org/resource/Thank_God_You're_Here_(US_TV_series)
+0,74,Texas,http://dbpedia.org/resource/Texas_(band),http://dbpedia.org/resource/Texas_(TV_series) http://dbpedia.org/resource/Texas_(soap_opera) http://dbpedia.org/resource/Another_World_in_Texas http://dbpedia.org/resource/Texas:_The_New_Generation
+0,81,Temptation of Wife,http://dbpedia.org/resource/Temptation_of_Wife_(2008_TV_series),http://dbpedia.org/resource/Temptation_Of_Wife_(2012_TV_series) http://dbpedia.org/resource/Temptation_of_Wife_(2012_TV_series)
+0,82,Temperatures Rising,http://dbpedia.org/resource/Strong_Medicine,http://dbpedia.org/resource/The_New_Temperatures_Rising_Show http://dbpedia.org/resource/Temperatures_Rising
+0,89,Target,,http://dbpedia.org/resource/Target_(UK_TV_series)
+0,95,Talk to Me,http://dbpedia.org/resource/Talk_to_Me_(2007_film),http://dbpedia.org/resource/Talk_to_Me_(TV_series) http://dbpedia.org/resource/Talk_To_Me_(TV_series)
+0,99,Taken,http://dbpedia.org/resource/Taken_(2017_TV_series),http://dbpedia.org/resource/Steven_Spielberg_Presents:_Taken http://dbpedia.org/resource/Coalition_for_Freedom_of_Information http://dbpedia.org/resource/Steven_Spielberg_Presents_Taken http://dbpedia.org/resource/Taken_(mini_series) http://dbpedia.org/resource/Tom_Clarke_(''Taken'') http://dbpedia.org/resource/Taken_(mini-series) http://dbpedia.org/resource/Allie_Keys http://dbpedia.org/resource/Taken_(miniseries) http://dbpedia.org/resource/Coalition_for_freedom_of_information http://dbpedia.org/resource/Taken_(TV_miniseries)
+0,105,Sybil,http://dbpedia.org/resource/Sybil_(2007_film),http://dbpedia.org/resource/Sybil_(1976_film)
+0,107,Sword Stained with Royal Blood,http://dbpedia.org/resource/The_Sword_Stained_with_Royal_Blood_(film),http://dbpedia.org/resource/Sword_Stained_with_Royal_Blood_(2007_TV_series)
+0,108,Sword Stained with Royal Blood,http://dbpedia.org/resource/The_Sword_Stained_with_Royal_Blood_(film),http://dbpedia.org/resource/Sword_Stained_with_Royal_Blood_(1985_TV_series)
+0,121,Supernova,http://es.dbpedia.org/resource/Supernova_(álbum_de_Supernova),http://dbpedia.org/resource/Supernova_(TV_series) http://dbpedia.org/resource/Supernova_(television)
+0,125,Summer's Desire,http://dbpedia.org/resource/Summer's_Desire_(2010_TV_series),http://dbpedia.org/resource/Summer's_Desire
+0,141,Stella,http://dbpedia.org/resource/Stella_(album),http://dbpedia.org/resource/Stella_(US_TV_series) http://dbpedia.org/resource/Stella_(U.S._TV_series) http://dbpedia.org/resource/Pilot_(Stella_episode) http://dbpedia.org/resource/Vegetables_(Stella) http://dbpedia.org/resource/Stella_(television_show) http://dbpedia.org/resource/Pilot_(Stella) http://dbpedia.org/resource/Vegetables_(Stella_episode)
+0,148,Stairway to Heaven,http://dbpedia.org/resource/Stairway_to_Heaven_(2003_TV_series),http://dbpedia.org/resource/Stairway_to_Heaven_(2009_Philippine_Adaptataion) http://dbpedia.org/resource/Stairway_to_Heaven_(2009_Philipppine_TV_series) http://dbpedia.org/resource/Stairway_to_Heaven_(Philippines_TV_series) http://dbpedia.org/resource/Stairway_to_Heaven_(2009_TV_series) http://dbpedia.org/resource/Stairway_to_Heaven_(Philippine_TV_series) http://dbpedia.org/resource/Stairway_to_Heaven_(2009_Philippine_TV_series)
+0,149,Stage Show,http://dbpedia.org/resource/Heute-show,http://dbpedia.org/resource/Stage_Show_(TV_series) http://dbpedia.org/resource/Stage_Show http://dbpedia.org/resource/Show_of_the_Week
+0,154,Sports Tonight,http://dbpedia.org/resource/Sports_Tonight_(Australian_TV_program),http://dbpedia.org/resource/Sports_Tonight
+0,155,Split,http://dbpedia.org/resource/Split_(2016_American_film),http://dbpedia.org/resource/Split_(TV_series) http://dbpedia.org/resource/Split_(TV_Show)
+0,156,Spirited,http://dbpedia.org/resource/Casper:_A_Spirited_Beginning,http://dbpedia.org/resource/Spirited http://dbpedia.org/resource/Spirited_(TV_series)

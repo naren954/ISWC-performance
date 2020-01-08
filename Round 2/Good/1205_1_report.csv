@@ -1,0 +1,31 @@
+F1: 0.82209,Precision: 0.82209,Recall: 0.82209,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,3,J. Jackson,http://dbpedia.org/resource/John_Jackson_(Virgin_Islands_boxer),http://dbpedia.org/resource/Jo_jackson http://dbpedia.org/resource/Jo_Jackson_(swimmer) http://dbpedia.org/resource/Joanne_Jackson_(swimming) http://dbpedia.org/resource/Joanne_Jackson_(swimmer)
+1,30,C. Campbell,http://dbpedia.org/resource/Cassie_Campbell,http://dbpedia.org/resource/Cate_Campbell
+1,33,C. Campbell,http://dbpedia.org/resource/Cassie_Campbell,http://dbpedia.org/resource/Cate_Campbell
+1,35,J. Jackson,http://dbpedia.org/resource/John_Jackson_(Virgin_Islands_boxer),http://dbpedia.org/resource/Jo_jackson http://dbpedia.org/resource/Jo_Jackson_(swimmer) http://dbpedia.org/resource/Joanne_Jackson_(swimming) http://dbpedia.org/resource/Joanne_Jackson_(swimmer)
+1,62,L. Lenton,http://dbpedia.org/resource/Jay_Lenton,http://dbpedia.org/resource/Lisbeth_Trickett http://dbpedia.org/resource/Libby_Trickett http://dbpedia.org/resource/Libby_Tricket http://dbpedia.org/resource/Libby_Lenton http://dbpedia.org/resource/Lisbeth_Lenton
+1,65,C. Groot,http://dbpedia.org/resource/Nycke_Groot,http://dbpedia.org/resource/Chantal_Groot
+1,75,L. Jones,http://dbpedia.org/resource/Lloyd_Jones_(footballer),http://dbpedia.org/resource/Liesel_Jones http://dbpedia.org/resource/Leisel_Jones
+1,81,L. Cseh,http://dbpedia.org/resource/László_Cseh_(footballer),http://dbpedia.org/resource/Cseh_lászló http://dbpedia.org/resource/Laszlo_Czeh http://dbpedia.org/resource/Czeh_László http://dbpedia.org/resource/Cseh_laszlo http://dbpedia.org/resource/László_Cseh http://dbpedia.org/resource/Cseh_Laszlo http://dbpedia.org/resource/Laszlo_Cseh http://dbpedia.org/resource/Cseh_László
+1,82,K. Keller,http://dbpedia.org/resource/Kasey_Keller,http://dbpedia.org/resource/Klete_Keller
+1,86,B. Hansen,http://dbpedia.org/resource/Bent_Hansen,http://dbpedia.org/resource/Brendan_Hansen http://dbpedia.org/resource/Brendan_Hanson
+1,88,D. Davies,"http://dbpedia.org/resource/David_Davies_(footballer,_born_1888)",http://dbpedia.org/resource/David_Davies_(swimmer)
+1,94,L. Lenton,http://dbpedia.org/resource/Jay_Lenton,http://dbpedia.org/resource/Lisbeth_Trickett http://dbpedia.org/resource/Libby_Trickett http://dbpedia.org/resource/Libby_Tricket http://dbpedia.org/resource/Libby_Lenton http://dbpedia.org/resource/Lisbeth_Lenton
+1,97,C. Groot,http://dbpedia.org/resource/Nycke_Groot,http://dbpedia.org/resource/Chantal_Groot
+1,107,L. Jones,http://dbpedia.org/resource/Lloyd_Jones_(footballer),http://dbpedia.org/resource/Liesel_Jones http://dbpedia.org/resource/Leisel_Jones
+1,113,L. Cseh,http://dbpedia.org/resource/László_Cseh_(footballer),http://dbpedia.org/resource/László_Cseh
+1,114,K. Keller,http://dbpedia.org/resource/Kasey_Keller,http://dbpedia.org/resource/Klete_Keller
+1,118,B. Hansen,http://dbpedia.org/resource/Bent_Hansen,http://dbpedia.org/resource/Brendan_Hansen http://dbpedia.org/resource/Brendan_Hanson
+1,120,D. Davies,"http://dbpedia.org/resource/David_Davies_(footballer,_born_1888)",http://dbpedia.org/resource/David_Davies_(swimmer)
+1,128,M. Nakamura,http://dbpedia.org/resource/Micheal_Nakamura,http://dbpedia.org/resource/Mai_Nakamura
+1,131,C. Poll,http://dbpedia.org/resource/Silvia_Poll,http://dbpedia.org/resource/Claudia_poll http://dbpedia.org/resource/Claudia_Poll http://dbpedia.org/resource/Claudia_Maria_Poll_Ahrens http://dbpedia.org/resource/Claudia_Poll_Ahrens
+1,133,C. Poll,http://dbpedia.org/resource/Silvia_Poll,http://dbpedia.org/resource/Claudia_Poll http://dbpedia.org/resource/Claudia_Poll_Ahrens http://dbpedia.org/resource/Claudia_Maria_Poll_Ahrens http://dbpedia.org/resource/Claudia_poll
+1,135,A. Beard,http://dbpedia.org/resource/Alana_Beard,http://dbpedia.org/resource/Amanda_Beard
+1,137,J. Thompson,http://dbpedia.org/resource/Jocko_Thompson,http://dbpedia.org/resource/Jenny_Thompson
+1,145,K. Keller,http://dbpedia.org/resource/Kasey_Keller,http://dbpedia.org/resource/Klete_Keller
+1,151,C. Thompson,http://dbpedia.org/resource/Corny_Thompson,http://dbpedia.org/resource/Chris_Thompson_(swimmer)
+1,154,R. Sloudnov,,http://dbpedia.org/resource/Sloudnov http://dbpedia.org/resource/Roman_Sludnov http://dbpedia.org/resource/Roman_Sloudnov
+1,159,M. Tanaka,http://dbpedia.org/resource/Miho_Tanaka,http://dbpedia.org/resource/Masami_Tanaka
+1,160,J. Sjöberg,http://dbpedia.org/resource/Henrik_Sjöberg,http://dbpedia.org/resource/Johanna_Sjöberg
+1,162,C. Poll,http://dbpedia.org/resource/Silvia_Poll,http://dbpedia.org/resource/Claudia_Poll http://dbpedia.org/resource/Claudia_Poll_Ahrens http://dbpedia.org/resource/Claudia_Maria_Poll_Ahrens http://dbpedia.org/resource/Claudia_poll

@@ -1,0 +1,4 @@
+F1: 0.60000,Precision: 0.60000,Recall: 0.60000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,4,Ballantine's Championship,http://dbpedia.org/resource/The_Championship_at_Laguna_National,http://dbpedia.org/resource/Ballantine's_Championship
+1,15,Kolon Korea Open,http://dbpedia.org/resource/Korea_Open_(tennis),http://dbpedia.org/resource/Kolon_Korea_Open http://dbpedia.org/resource/Kolon_Korean_Open http://dbpedia.org/resource/Korea_Open_(golf) http://dbpedia.org/resource/Kolon-Hana_Bank_Korea_Open http://dbpedia.org/resource/Kolon_Cup_Korean_Open

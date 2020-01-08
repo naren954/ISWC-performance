@@ -1,0 +1,22 @@
+F1: 0.78947,Precision: 0.78947,Recall: 0.78947,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Trust Me,http://dbpedia.org/resource/Trust_Me_(American_TV_series),http://dbpedia.org/resource/Trust_Me_(TV_series)
+0,2,True Love,http://dbpedia.org/resource/One_True_Love_(TV_series),http://dbpedia.org/resource/True_Love_(TV_series)
+0,4,Trudis Liit,http://dbpedia.org/resource/Trudis_Liit_(TV_series),http://dbpedia.org/resource/Trudis_Liit
+0,7,Trinity,http://dbpedia.org/resource/Blade:_Trinity,http://dbpedia.org/resource/Trinity_(TV_series) http://dbpedia.org/resource/Trinity_(TV_Series)
+0,9,Triangle,http://dbpedia.org/resource/One_Tree_Hill_(TV_series),http://dbpedia.org/resource/Triangle_(1981_TV_series) http://dbpedia.org/resource/Triangle_(soap_opera)
+0,29,Toma,http://dbpedia.org/resource/Toma_(song),http://dbpedia.org/resource/Detective_David_Toma http://dbpedia.org/resource/Toma_(television_series) http://dbpedia.org/resource/Toma_(TV_series) http://dbpedia.org/resource/Detective_Dave_Toma http://dbpedia.org/resource/Dave_Toma http://dbpedia.org/resource/David_Toma
+0,34,Together Forever,http://dbpedia.org/resource/Together_Forever_(TV_series),http://dbpedia.org/resource/Together_Forever_(2012_TV_series)
+0,44,Tito,http://dbpedia.org/resource/La_clemenza_di_Tito,http://dbpedia.org/resource/Tito_(2010_TV_series) http://dbpedia.org/resource/Tito_(2010_film) http://dbpedia.org/resource/Tito_(miniseries)
+0,49,Timecop,http://dbpedia.org/resource/Timecop,http://dbpedia.org/resource/Timecop_(TV_series)
+0,56,Thunder Alley,http://dbpedia.org/resource/Thunder_Alley_(TV_series),http://dbpedia.org/resource/Thunder_Alley
+0,59,Thompson,http://dbpedia.org/resource/Thompson_Twins,http://dbpedia.org/resource/Thompson_(TV_series) http://dbpedia.org/resource/Thompson_(TV_show)
+0,69,Thea,http://fr.dbpedia.org/resource/Thea,http://dbpedia.org/resource/Thea_(TV_series)
+0,72,The Wrong Mans,http://dbpedia.org/resource/The_Wrong_Mans_(British_TV_series),http://dbpedia.org/resource/The_Wrong_Mans
+0,81,The White Queen,http://dbpedia.org/resource/The_White_Queen_(miniseries),http://dbpedia.org/resource/White_Queen_(TV_series) http://dbpedia.org/resource/The_White_Queen_(TV-series) http://dbpedia.org/resource/The_White_Queen_(TV_series)
+0,83,The Wedding Scheme,http://dbpedia.org/resource/Wedding_Scheme,http://dbpedia.org/resource/The_Wedding_Scheme
+0,84,The Wedding,http://dbpedia.org/resource/Four_Weddings,http://dbpedia.org/resource/The_Wedding_(TV_series)
+0,88,The Visitor,http://dbpedia.org/resource/The_Visitor_(Star_Trek:_Deep_Space_Nine),"http://dbpedia.org/resource/The_Visitor_(TV_series) http://dbpedia.org/resource/Visitor,_The http://dbpedia.org/resource/The_Visitor_TV_series"
+0,90,The Village,http://dbpedia.org/resource/Village_People,http://dbpedia.org/resource/The_Village_(BBC_TV_series) http://dbpedia.org/resource/The_Village_(2013_TV_series)
+0,91,The Van Dyke Show,http://dbpedia.org/resource/The_Dick_Van_Dyke_Show,http://dbpedia.org/resource/The_Van_Dyke_Show http://dbpedia.org/resource/Van_Dyke_Show
+0,92,The Two of Us,http://dbpedia.org/resource/The_Two_of_Us_(1986_TV_series),http://dbpedia.org/resource/The_Two_of_Us_(1981_TV_series)

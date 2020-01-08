@@ -1,0 +1,5 @@
+F1: 0.84211,Precision: 0.84211,Recall: 0.84211,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,6,G. Wagner,http://de.dbpedia.org/resource/Gerald_Wagner,http://dbpedia.org/resource/Grzegorz_Wagner
+0,7,G. Creţu,http://dbpedia.org/resource/Valentin_Crețu_(footballer),http://dbpedia.org/resource/Gheorghe_Creţu http://dbpedia.org/resource/Gheorghe_Cretu
+0,11,D. Huntley,http://dbpedia.org/resource/Kevin_Huntley_(gridiron_football),http://dbpedia.org/resource/David_Huntley http://dbpedia.org/resource/Dave_Huntley

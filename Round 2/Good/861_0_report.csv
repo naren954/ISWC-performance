@@ -1,0 +1,43 @@
+F1: 0.77348,Precision: 0.77348,Recall: 0.77348,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,Á. Bujdosó,http://dbpedia.org/resource/Nóra_Nagy-Bujdosó,http://dbpedia.org/resource/Ágota_Bujdosó http://dbpedia.org/resource/Agota_Bujdoso
+0,4,Á. Szilágyi,http://dbpedia.org/resource/Loránd_Szilágyi,http://dbpedia.org/resource/Ágnes_Szilágyi http://dbpedia.org/resource/Agnes_Szilagyi
+0,7,Á. Babos,http://dbpedia.org/resource/Gábor_Babos,http://dbpedia.org/resource/Agnes_Babos http://dbpedia.org/resource/Ágnes_Babos
+0,11,Z. Borbély,http://dbpedia.org/resource/Balázs_Borbély,http://dbpedia.org/resource/Zsanett_Borbély http://dbpedia.org/resource/Borbély_Zsanett http://dbpedia.org/resource/Zsanett_Borbely
+0,14,Y. Safina,http://dbpedia.org/resource/Dinara_Safina,http://dbpedia.org/resource/Yuliya_Safina http://dbpedia.org/resource/Yulia_Safina
+0,16,Y. Şahin,http://dbpedia.org/resource/Nuri_Şahin,http://dbpedia.org/resource/Yasemin_Şahin http://dbpedia.org/resource/Yasemin_Sahin
+0,18,V. Jovčevski,,http://dbpedia.org/resource/Vlatko_Jovčevski
+0,38,V. Szabó,http://dbpedia.org/resource/Viktor_Szabó,http://dbpedia.org/resource/Valéria_Szabó http://dbpedia.org/resource/Valeria_Szabo
+0,41,V. Cozma,http://dbpedia.org/resource/Marian_Cozma,http://dbpedia.org/resource/Valentina_Cozma
+0,43,V. Szabó,http://dbpedia.org/resource/Viktor_Szabó,http://dbpedia.org/resource/Valéria_Szabó http://dbpedia.org/resource/Valeria_Szabo
+0,46,T. Tóth,"http://ru.dbpedia.org/resource/Товт,_Дезидерий_Людвигович",http://dbpedia.org/resource/Tóth_Tímea http://dbpedia.org/resource/Timea_Toth http://dbpedia.org/resource/Tímea_Tóth
+0,53,T. Svensson,http://dbpedia.org/resource/Tommy_Svensson,http://dbpedia.org/resource/Tomas_Svensson
+0,55,T. R. Albertsen,http://dbpedia.org/resource/T._R._Knight,http://dbpedia.org/resource/Tine_Rustad_Albertsen http://dbpedia.org/resource/Tine_Kristiansen http://dbpedia.org/resource/Tine_Rustad_Kristiansen
+0,56,T. Tokić,http://dbpedia.org/resource/Mario_Tokić,http://dbpedia.org/resource/Tin_Tokić http://dbpedia.org/resource/Tin_Tokic
+0,58,T. Pedersen,http://dbpedia.org/resource/Tore_Pedersen,http://dbpedia.org/resource/Therese_Pedersen http://dbpedia.org/resource/Terese_Pedersen
+0,66,T. Tóth,"http://ru.dbpedia.org/resource/Товт,_Дезидерий_Людвигович",http://dbpedia.org/resource/Tóth_Tímea http://dbpedia.org/resource/Timea_Toth http://dbpedia.org/resource/Tímea_Tóth
+0,67,S. Rasmussen,http://dbpedia.org/resource/Steffen_Rasmussen,http://dbpedia.org/resource/Sørenn_rasmussen http://dbpedia.org/resource/Søren_Rasmussen http://dbpedia.org/resource/Sören_Rasmussen http://dbpedia.org/resource/Sørenn_Rasmussen http://dbpedia.org/resource/Sorenn_Rasmussen
+0,76,S. Janković,"http://dbpedia.org/resource/Slobodan_Janković_(footballer,_born_1946)",http://dbpedia.org/resource/Stefan_Janković_(handballer) http://dbpedia.org/resource/Stefan_Jankovic_(handballer)
+0,81,S. Spiridon,http://dbpedia.org/resource/Alexandru_Spiridon,http://dbpedia.org/resource/Simona_Spiridon
+0,91,S. Rasmussen,http://dbpedia.org/resource/Steffen_Rasmussen,http://dbpedia.org/resource/Sørenn_rasmussen http://dbpedia.org/resource/Søren_Rasmussen http://dbpedia.org/resource/Sören_Rasmussen http://dbpedia.org/resource/Sørenn_Rasmussen http://dbpedia.org/resource/Sorenn_Rasmussen
+0,94,R. Lelkes,http://dbpedia.org/resource/Péter_Lelkes,http://dbpedia.org/resource/Rozalia_Lelkesne http://dbpedia.org/resource/Rozália_Tomann http://dbpedia.org/resource/Rozalia_Lelkes http://dbpedia.org/resource/Rozália_Lelkes http://dbpedia.org/resource/Rozália_Lelkesné http://dbpedia.org/resource/Rozália_Toman
+0,104,R. González,http://dbpedia.org/resource/Rónald_González_Brenes,http://dbpedia.org/resource/Raúl_González_(handballer) http://dbpedia.org/resource/Raul_Gonzalez_(handballer)
+0,106,R. Aamodt,http://it.dbpedia.org/resource/Asbjørn_Aamodt,"http://dbpedia.org/resource/Ragnhild_Aamodt http://dbpedia.org/resource/Aamodt,_Ragnhild http://dbpedia.org/resource/Ragnhild_Margrethe_Aamodt"
+0,108,R. González,http://dbpedia.org/resource/Rónald_González_Brenes,http://dbpedia.org/resource/Raúl_González_(handballer) http://dbpedia.org/resource/Raul_Gonzalez_(handballer)
+0,113,P. Jokanović,http://dbpedia.org/resource/Slaviša_Jokanović,http://dbpedia.org/resource/Petar_Jokanović
+0,122,O. Kamper,http://dbpedia.org/resource/Jonas_Kamper,http://dbpedia.org/resource/Olívia_Kamper http://dbpedia.org/resource/Olivia_Kamper
+0,127,O. Kamper,http://dbpedia.org/resource/Jonas_Kamper,http://dbpedia.org/resource/Olívia_Kamper http://dbpedia.org/resource/Olivia_Kamper
+0,133,N. Sala,http://dbpedia.org/resource/Emiliano_Sala,http://dbpedia.org/resource/Noelia_Sala
+0,140,N. Jovanović,"http://dbpedia.org/resource/Nikola_Jovanović_(footballer,_born_1952)",http://dbpedia.org/resource/Nedeljko_Jovanović http://dbpedia.org/resource/Nedeljko_Jovanovic
+0,146,M. Halász,http://dbpedia.org/resource/István_Halász,http://dbpedia.org/resource/Mate_Halasz http://dbpedia.org/resource/Máté_Halász
+0,150,M. Ishchenko,http://dbpedia.org/resource/Oleksandr_Ishchenko,http://dbpedia.org/resource/Mikhail_Ischenko http://dbpedia.org/resource/Mikhail_Ishchenko http://dbpedia.org/resource/Mykhaylo_Oleksiyovich_Ishchenko http://dbpedia.org/resource/Mykhaylo_Ishchenko
+0,154,M. Mikić,http://dbpedia.org/resource/Mihael_Mikić,http://dbpedia.org/resource/Mirko_Mikic http://dbpedia.org/resource/Mirko_Mikić
+0,157,M. Dragićević,http://dbpedia.org/resource/Tadija_Dragićević,http://dbpedia.org/resource/Milutin_Dragićević http://dbpedia.org/resource/Milutin_Dragicevic
+0,158,M. Krivokapić,http://dbpedia.org/resource/Miodrag_Krivokapić_(footballer),http://dbpedia.org/resource/Milorad_Krivokapic_(handballer) http://dbpedia.org/resource/Milorad_Krivokapić_(handballer)
+0,159,M. Mirković,http://dbpedia.org/resource/Miško_Mirković,http://dbpedia.org/resource/Milan_Mirković http://dbpedia.org/resource/Milan_Mirkovic
+0,160,M. Popescu,http://dbpedia.org/resource/Mihai_Popescu_(footballer),http://dbpedia.org/resource/Mihai_Popescu
+0,165,M. Schulz,http://dbpedia.org/resource/Michael_Schulz,http://dbpedia.org/resource/Matías_Carlos_Schulz http://dbpedia.org/resource/Matias_Carlos_Schulz http://dbpedia.org/resource/Matias_Schulz http://dbpedia.org/resource/Matías_Schulz
+0,169,M. Schulz,http://dbpedia.org/resource/Michael_Schulz,http://dbpedia.org/resource/Matías_Carlos_Schulz http://dbpedia.org/resource/Matias_Carlos_Schulz http://dbpedia.org/resource/Matias_Schulz http://dbpedia.org/resource/Matías_Schulz
+0,172,M. Đurica,http://dbpedia.org/resource/Martin_Ďurica,http://dbpedia.org/resource/Marin_Đurica
+0,173,M. Nagy,http://dbpedia.org/resource/Mohamed_Nagy,http://dbpedia.org/resource/Marianna_Nagy_(handballer)
+0,179,M. Halász,http://dbpedia.org/resource/István_Halász,http://dbpedia.org/resource/Mate_Halasz http://dbpedia.org/resource/Máté_Halász

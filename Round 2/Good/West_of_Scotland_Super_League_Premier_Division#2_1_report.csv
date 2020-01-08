@@ -1,0 +1,4 @@
+F1: 0.93103,Precision: 0.93103,Recall: 0.93103,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,7,Glenafton Athletic,http://dbpedia.org/resource/Dunfermline_Athletic_F.C.,http://dbpedia.org/resource/Glenafton_Athletic_F.C. http://dbpedia.org/resource/Glenafton_Athletic_F_C http://dbpedia.org/resource/Glenafton_Athletic_F._C. http://dbpedia.org/resource/Glenafton_Athletic http://dbpedia.org/resource/Glenafton_Athletic_FC
+1,19,Larkhall Thistle,http://dbpedia.org/resource/Inverness_Caledonian_Thistle_F.C.,http://dbpedia.org/resource/Larkhall_Thistle_F_C http://dbpedia.org/resource/Larkhall_Thistle http://dbpedia.org/resource/Larkhall_Thistle_F.C. http://dbpedia.org/resource/Larkhall_Thistle_F._C. http://dbpedia.org/resource/Larkhall_Thistle_FC

@@ -1,0 +1,9 @@
+F1: 0.84444,Precision: 0.84444,Recall: 0.84444,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,Just Be,http://dbpedia.org/resource/Just_Be_(Tiësto_song),http://dbpedia.org/resource/Just_Be_(song)
+0,16,It Takes Time,http://dbpedia.org/resource/Love_Takes_Time,http://dbpedia.org/resource/It_Takes_Time_(song)
+0,17,It's for You,http://dbpedia.org/resource/It's_for_You_(Shanice_song),http://dbpedia.org/resource/It's_for_You
+0,23,It's About Time,http://dbpedia.org/resource/It's_About_Time_(Young_the_Giant_song),http://dbpedia.org/resource/It's_About_Time_(Beach_Boys_song) http://dbpedia.org/resource/It's_About_Time_(The_Beach_Boys_song)
+0,42,Ice Cream,http://dbpedia.org/resource/Ice_Cream_(Hyuna_song),http://dbpedia.org/resource/Ice_Cream_(Raekwon_song)
+0,44,I Won't Let You Down,http://dbpedia.org/resource/I_Won't_Let_You_Down_(OK_Go_song),http://dbpedia.org/resource/I_Won't_Let_You_Down
+0,45,I Want You to Know,http://dbpedia.org/resource/I_Want_You_to_Know_(Zedd_song),http://dbpedia.org/resource/I_Want_You_to_Know_(Per_Gessle_song)

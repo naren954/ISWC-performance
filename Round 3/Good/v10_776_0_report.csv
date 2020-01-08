@@ -1,0 +1,19 @@
+F1: 0.84112,Precision: 0.84112,Recall: 0.84112,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,20,Greenville Downtown Historic District,"http://dbpedia.org/resource/Greenville_Commercial_Historic_District_(Greenville,_Pennsylvania)",http://dbpedia.org/resource/Greenville_Downtown_Historic_District
+0,21,Greenville City Hall,http://dbpedia.org/resource/Old_Greenville_City_Hall,"http://dbpedia.org/resource/Greenville_City_Hall_(Greenville,_Kentucky) http://dbpedia.org/resource/Greenville_City_Hall_(Kentucky)"
+0,24,Greenfield Public Square Historic District,"http://dbpedia.org/resource/Public_Square_(Watertown,_New_York)",http://dbpedia.org/resource/Greenfield_Public_Square_Historic_District
+0,28,Great Northern Freight Warehouse and Depot,http://dbpedia.org/resource/Grand_Forks_freight_station,http://dbpedia.org/resource/Great_Northern_Freight_Warehouse_and_Depot
+0,29,Graves Creek Ranger Station,http://dbpedia.org/resource/Beaver_Creek_Ranger_Station,http://dbpedia.org/resource/Graves_Creek_Ranger_Station
+0,31,Graphic Arts Building,"http://dbpedia.org/resource/Graphic_Arts_Building_(Kansas_City,_Missouri)","http://dbpedia.org/resource/Graphic_Arts_Building_(Dayton,_Ohio)"
+0,38,Grand Ole Opry,http://dbpedia.org/resource/Ryman_Auditorium,http://dbpedia.org/resource/Grand_Ole_Opry_House http://dbpedia.org/resource/Grand_ole_opry http://dbpedia.org/resource/Grand_Ole_Opry_Live http://dbpedia.org/resource/Grand_ol_opry http://dbpedia.org/resource/The_Grand_Old_Opry http://dbpedia.org/resource/Grand_Ole_Opry http://dbpedia.org/resource/Grand_Old_Opry http://dbpedia.org/resource/The_Grand_Ole_Opry http://dbpedia.org/resource/Grand_Ol'_Opry
+0,43,Granada Theater,http://dbpedia.org/resource/Granada_Theatre_(Sherbrooke),"http://dbpedia.org/resource/Granada_Theater_(Kansas_City) http://dbpedia.org/resource/Granada_Theater_(Kansas_City,_Kansas)"
+0,47,Grace Episcopal Church,"http://dbpedia.org/resource/Grace_Episcopal_Church_(Syracuse,_New_York)","http://dbpedia.org/resource/Grace_Episcopal_Church_(Keswick,_Virginia)"
+0,48,Grace Church Van Vorst,http://dbpedia.org/resource/Val-de-Grâce_(church),http://dbpedia.org/resource/Grace_Church_Van_Vorst
+0,58,Gold Creek Ranger Station,http://dbpedia.org/resource/Beaver_Creek_Ranger_Station,http://dbpedia.org/resource/Gold_Creek_Ranger_Station
+0,65,Gilmanton Academy,http://dbpedia.org/resource/Academy_of_Music_(Philadelphia),http://dbpedia.org/resource/Gilmanton_Academy
+0,69,Gibraltar,http://dbpedia.org/resource/Victoria_Stadium_(Gibraltar),"http://dbpedia.org/resource/Gibraltar_(Wilmington,_Delaware)"
+0,86,Gene Stratton-Porter Cabin,"http://dbpedia.org/resource/Gene_Stratton_Porter_Cabin_(Geneva,_Indiana)","http://dbpedia.org/resource/G.S._Porter_Historic_Site http://dbpedia.org/resource/Gene_Stratton-Porter_Cabin_(Rome_City,_Indiana) http://dbpedia.org/resource/Gene_Stratton_Porter_Cabin_(Rome_City,_Indiana)"
+0,90,Gasquet Ranger Station Historic District,http://dbpedia.org/resource/Walton_Ranger_Station_Historic_District,http://dbpedia.org/resource/Gasquet_Ranger_Station_Historic_District
+0,95,Garfield County Courthouse,http://dbpedia.org/resource/Garfield_County_Courthouse_(Oklahoma),"http://dbpedia.org/resource/Garfield_County_Courthouse_(Enid,_Oklahoma)"
+0,96,Garden District,"http://dbpedia.org/resource/Garden_District,_Baton_Rouge,_Louisiana","http://dbpedia.org/resource/Garden_District_(Montgomery,_Alabama)"

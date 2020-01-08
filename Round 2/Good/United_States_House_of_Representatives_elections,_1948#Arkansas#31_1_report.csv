@@ -1,0 +1,5 @@
+F1: 0.93333,Precision: 0.93333,Recall: 0.93333,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,3,Henry J. Latham,http://dbpedia.org/resource/John_Latham_(judge),http://dbpedia.org/resource/Henry_Latham http://dbpedia.org/resource/Henry_J._Latham http://dbpedia.org/resource/Henry_Jepson_Latham
+1,12,John J. Rooney,http://dbpedia.org/resource/John_J._Rooney_(politician),http://dbpedia.org/resource/John_J._Rooney http://dbpedia.org/resource/John_James_Rooney
+1,13,Donald L. O'Toole,http://dbpedia.org/resource/Donald_Lawrence_O'Toole,http://dbpedia.org/resource/Donald_L._O'Toole

@@ -1,0 +1,5 @@
+"F1: 0.75000","Precision: 0.75000","Recall: 0.75000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","2","B. Graham","http://dbpedia.org/resource/Bob_Graham","http://dbpedia.org/resource/Benjamin_Graham"
+"0","3","B. Bergmann","http://dbpedia.org/resource/Carl_Bergmann_(anatomist)","http://dbpedia.org/resource/Barbara_Rose_Bergmann http://dbpedia.org/resource/Barbara_Bergmann"
+"0","8","A. Hansen","http://dbpedia.org/resource/Peter_Andreas_Hansen","http://dbpedia.org/resource/Alvin_Hansen http://dbpedia.org/resource/Alvin_Harvey_Hansen http://dbpedia.org/resource/Alvin_hansen http://dbpedia.org/resource/Alvin_H._Hansen"

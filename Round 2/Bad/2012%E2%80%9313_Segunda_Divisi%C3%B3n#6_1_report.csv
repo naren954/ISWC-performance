@@ -1,0 +1,8 @@
+F1: 0.40000,Precision: 0.40000,Recall: 0.40000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,Charles,http://dbpedia.org/resource/Darius_Charles,http://dbpedia.org/resource/Charles_Dias_de_Oliveira
+1,2,JesÃ© RodrÃ­guez,http://dbpedia.org/resource/Jesé,http://dbpedia.org/resource/Jesé_Rodríguez
+1,7,Carlos Javier AcuÃ±a,http://dbpedia.org/resource/Javier_Acuña,http://dbpedia.org/resource/Carlos_Javier_Acuña
+1,8,Chuli,http://dbpedia.org/resource/Chuli,http://dbpedia.org/resource/Manuel_Jesús_Vázquez_Florido
+1,9,Ã\u0093scar DÃ­az,http://dbpedia.org/resource/University_of_South_Carolina,http://dbpedia.org/resource/Óscar_Díaz_González
+1,10,Vitolo,"http://dbpedia.org/resource/Vitolo_(footballer,_born_1989)",http://dbpedia.org/resource/Víctor_Machín_Pérez

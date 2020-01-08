@@ -1,0 +1,4 @@
+F1: 0.33333,Precision: 0.33333,Recall: 0.33333,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,At-large seat A,http://dbpedia.org/resource/United_States_House_of_Representatives,http://dbpedia.org/resource/California's_at-large_congressional_district
+0,3,At-large seat C,http://dbpedia.org/resource/United_States_House_of_Representatives,http://dbpedia.org/resource/California's_at-large_congressional_district

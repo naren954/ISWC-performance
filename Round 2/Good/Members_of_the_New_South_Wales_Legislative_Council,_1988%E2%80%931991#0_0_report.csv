@@ -1,0 +1,6 @@
+F1: 0.84615,Precision: 0.84615,Recall: 0.84615,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,12,Jack Garland 2,http://dbpedia.org/resource/Jack_Garland_(Canadian_politician),http://dbpedia.org/resource/Jack_Garland_(Australian_politician) http://dbpedia.org/resource/John_Davis_Garland
+0,24,Richard Jones,"http://dbpedia.org/resource/Richard_Jones_(New_South_Wales_politician,_born_1843)","http://dbpedia.org/resource/Richard_Jones,_MLA http://dbpedia.org/resource/Richard_Jones_(New_South_Wales_politician)"
+0,26,Richard Killen,http://dbpedia.org/resource/James_Killen,http://dbpedia.org/resource/Richard_Killen http://dbpedia.org/resource/Richard_Weir_Killen
+0,39,Bob Rowland Smith,http://dbpedia.org/resource/Rowland_Smith,http://dbpedia.org/resource/Bob_Rowland_Smith http://dbpedia.org/resource/Bob_Baron_Rowland_Smith http://dbpedia.org/resource/Robert_Baron_Rowland_Smith

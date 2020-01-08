@@ -1,0 +1,10 @@
+F1: 0.85455,Precision: 0.85455,Recall: 0.85455,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,6,The Wild Blue Yonder,http://dbpedia.org/resource/The_Wild_Blue_Yonder,http://dbpedia.org/resource/Wild_Blue_Yonder_(film) http://dbpedia.org/resource/Thunder_Across_the_Pacific http://dbpedia.org/resource/The_Wild_Blue_Yonder_(1951_film) http://dbpedia.org/resource/The_Wild_Blue_Yonder_(1952_film)
+0,11,The Widow,http://dbpedia.org/resource/Black_Widow_(Iggy_Azalea_song),http://dbpedia.org/resource/The_Widow_(1939_film) http://dbpedia.org/resource/La_vedova
+0,12,The Wicked Lady,http://dbpedia.org/resource/The_Wicked_Lady,http://dbpedia.org/resource/The_Wicked_Lady_(1983_film)
+0,14,The Wicked,http://dbpedia.org/resource/Wicked_(video_game),http://dbpedia.org/resource/Cattiva http://dbpedia.org/resource/The_Wicked
+0,28,The White Angel,http://dbpedia.org/resource/The_White_Angel_(1936_film),http://dbpedia.org/resource/Angelo_Bianco http://dbpedia.org/resource/The_White_Angel_(1955_film) http://dbpedia.org/resource/L'angelo_bianco http://dbpedia.org/resource/L'Angelo_bianco
+0,33,The Whip,http://dbpedia.org/resource/The_Whip_(band),http://dbpedia.org/resource/The_Whip_(1939_film) http://dbpedia.org/resource/El_látigo
+0,36,The Well,http://dbpedia.org/resource/Well_Well_Well_(John_Lennon_song),http://dbpedia.org/resource/The_Well_(1951_film)
+0,46,The Way of All Flesh,http://dbpedia.org/resource/The_Way_of_All_Flesh_(1927_film),http://dbpedia.org/resource/The_Way_of_All_Flesh_(1940_film) http://dbpedia.org/resource/The_Way_of_All_Flesh_(1955_film)

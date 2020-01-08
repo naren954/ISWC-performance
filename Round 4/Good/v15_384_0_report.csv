@@ -1,0 +1,41 @@
+F1: 0.76074,Precision: 0.76074,Recall: 0.76074,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,5,E/R,http://dbpedia.org/resource/ER_(TV_series),http://dbpedia.org/resource/Eve_Sheridan http://dbpedia.org/resource/Joan_Thor http://dbpedia.org/resource/Maria_Amardo http://dbpedia.org/resource/Fred_Burdock http://dbpedia.org/resource/E/R_(1984) http://dbpedia.org/resource/E/R http://dbpedia.org/resource/Howard_Sheinfeld
+0,8,Duel at Sundown,http://dbpedia.org/resource/Duel_at_Sundown_(film),http://dbpedia.org/resource/Duel_at_Sundown_(Maverick)
+0,9,Duel,http://dbpedia.org/resource/The_Duel_(The_Office),http://dbpedia.org/resource/Duel_(1971_film) http://dbpedia.org/resource/David_Mann_(Duel)
+0,11,Draw!,http://dbpedia.org/resource/Draw_the_Line_(TV_program),http://dbpedia.org/resource/Draw!
+0,16,Double Trouble,http://dbpedia.org/resource/Double_Trouble_(American_TV_series),http://dbpedia.org/resource/Double_Trouble_(U.S._TV_series)
+0,30,Dirk Gently,http://dbpedia.org/resource/Dirk_Gently's_Holistic_Detective_Agency_(TV_series),http://dbpedia.org/resource/Dirk_Gently_(TV_adaptation) http://dbpedia.org/resource/Dirk_Gently_(2012_TV_series) http://dbpedia.org/resource/Dirk_Gently_(TV_series)
+0,32,Dinnerladies,http://dbpedia.org/resource/Dinnerladies_(TV_series),http://dbpedia.org/resource/Dinnerladies http://dbpedia.org/resource/Dolly_Bellfield http://dbpedia.org/resource/Petula_Gordino http://dbpedia.org/resource/Stan_Meadowcroft http://dbpedia.org/resource/Dinner_Ladies http://dbpedia.org/resource/Brenda_Furlong http://dbpedia.org/resource/Bren_Furlong
+0,37,Diana,http://dbpedia.org/resource/Diana_(locomotive),http://dbpedia.org/resource/Diana_(U.S._TV_series) http://dbpedia.org/resource/Diana_(US_TV_series)
+0,46,Demi-Gods and Semi-Devils,http://dbpedia.org/resource/Demi-Gods_and_Semi-Devils_(1982_TV_series),http://dbpedia.org/resource/Demi-Gods_and_Semi-Devils_(2003_TV_series)
+0,47,Demi-Gods and Semi-Devils,http://dbpedia.org/resource/Demi-Gods_and_Semi-Devils_(1982_TV_series),http://dbpedia.org/resource/The_Demi-Gods_and_Semi-Devils_1996 http://dbpedia.org/resource/Demi-Gods_and_Semi-Devils_(1997_TV_series)
+0,50,Deep Red,http://dbpedia.org/resource/Deep_Red,http://dbpedia.org/resource/Deep_Red_(TV_film) http://dbpedia.org/resource/Deep_Red_(1994_film)
+0,52,Deceit,http://dbpedia.org/resource/Deceit_(2004_film),http://dbpedia.org/resource/Deceit_(TV_serial)
+0,53,Death on the Nile,http://dbpedia.org/resource/Death_on_the_Nile_(1978_film),http://dbpedia.org/resource/Death_on_the_Nile_(2004_film) http://dbpedia.org/resource/Death_on_the_Nile_(TV_2004)
+0,63,David Copperfield,http://dbpedia.org/resource/David_Copperfield_(1999_film),http://dbpedia.org/resource/David_Copperfield_(1993_film) http://dbpedia.org/resource/David_Copperfield_(1993_animated_film)
+0,66,Dark Shadows,http://dbpedia.org/resource/Dark_Shadows_(film),http://dbpedia.org/resource/Hallie_Stokes http://dbpedia.org/resource/Dark_Shadows http://dbpedia.org/resource/Dark_Shadows_(1966_TV_series) http://dbpedia.org/resource/Gerard_Stiles http://dbpedia.org/resource/Gerard_Styles http://dbpedia.org/resource/Violet_Welles http://dbpedia.org/resource/Dark_shadows
+0,70,Danger,http://dbpedia.org/resource/Henry_Danger,http://dbpedia.org/resource/Danger_(TV_series)
+0,78,DAG,http://dbpedia.org/resource/Dag_(Norwegian_TV_series),http://dbpedia.org/resource/DAG_(TV_series) http://dbpedia.org/resource/Dag_(tv_series)
+0,83,Cuando me enamoro,http://dbpedia.org/resource/Cuando_me_enamoro_(TV_series),http://dbpedia.org/resource/Cuando_me_enamoro_(telenovela) http://dbpedia.org/resource/Cuando_Me_Enamoro_(telenovela) http://dbpedia.org/resource/Cuando_Me_Enamoro_(Telenovela) http://dbpedia.org/resource/Cuando_me_enamoro_(Telenovela) http://dbpedia.org/resource/Agustín_Dunant http://dbpedia.org/resource/CMESDET
+0,85,Crooked House,http://dbpedia.org/resource/Crooked_House_(film),http://dbpedia.org/resource/Crooked_House_(TV_series)
+0,86,Crime and Punishment,http://dbpedia.org/resource/Crime_and_Punishment_(2002_Russian_film),http://dbpedia.org/resource/Crime_and_Punishment_(2002_TV_film) http://dbpedia.org/resource/Crime_and_Punishment_(2002_British_film)
+0,87,Crime Story,http://dbpedia.org/resource/Crime_Story_(American_TV_series),http://dbpedia.org/resource/Crime_Story_(TV_series) http://dbpedia.org/resource/Crime_Story_(TV_Series)
+0,88,Crawlspace,http://dbpedia.org/resource/Crawlspace_(1986_film),http://dbpedia.org/resource/Crawlspace_(1972_film)
+0,90,Cradle to Grave,http://dbpedia.org/resource/Cradle_2_the_Grave,http://dbpedia.org/resource/Cradle_to_Grave
+0,91,Cracking Up,http://dbpedia.org/resource/Cracking_Up_(film),http://dbpedia.org/resource/Cracking_Up_(TV_series)
+0,96,Courthouse,http://dbpedia.org/resource/Cork_(city),http://dbpedia.org/resource/Courthouse_(TV_series)
+0,97,Coupling,http://dbpedia.org/resource/Coupling_(British_TV_series),http://dbpedia.org/resource/Captain_Subtext http://dbpedia.org/resource/Eye_slippage http://dbpedia.org/resource/The_Giggle_Loop http://dbpedia.org/resource/Giggle_loop http://dbpedia.org/resource/Coupling_(UK) http://dbpedia.org/resource/Jeff_Murdock http://dbpedia.org/resource/Jeffism http://dbpedia.org/resource/Sock_gap http://dbpedia.org/resource/Coupling_(sitcom) http://dbpedia.org/resource/Jeff_Murdoch http://dbpedia.org/resource/Coupling_(UK_TV_series) http://dbpedia.org/resource/The_Melty_Man http://dbpedia.org/resource/Nudity_buffer http://dbpedia.org/resource/Jeffisms http://dbpedia.org/resource/Coupling_(TV_series)
+0,98,Coupling,http://dbpedia.org/resource/Coupling_(British_TV_series),http://dbpedia.org/resource/Coupling_(US_TV_series) http://dbpedia.org/resource/Coupling_(U.S._TV_series) http://dbpedia.org/resource/Coupling_(US) http://dbpedia.org/resource/Pilot_(Coupling)
+0,106,Confirmation,http://dbpedia.org/resource/Confirmation_(composition),http://dbpedia.org/resource/Confirmation_(film)
+0,110,Coming of Age,http://dbpedia.org/resource/Coming_of_Age_(2008_TV_series),http://dbpedia.org/resource/Coming_of_Age_(1988_TV_series)
+0,111,Coming Home,http://dbpedia.org/resource/Coming_Home_(2014_film),http://dbpedia.org/resource/Coming_Home_(TV_serial)
+0,120,Cinderella,http://dbpedia.org/resource/Cinderella_(2015_Disney_film),http://dbpedia.org/resource/Cinderella_(musical) http://dbpedia.org/resource/Cinderella_(telefilms) http://dbpedia.org/resource/Cinderella_(TV) http://dbpedia.org/resource/Cinderella_(tv) http://dbpedia.org/resource/Rodgers_and_Hammerstein's_Cinderella http://dbpedia.org/resource/Rodger's_and_Hammerstein's_Cinderella
+0,121,Cinderella,http://dbpedia.org/resource/Cinderella_(2015_Disney_film),http://dbpedia.org/resource/Cinderella_(2000_TV_film) http://dbpedia.org/resource/Cinderella_(2000_film)
+0,122,Cinderella,http://dbpedia.org/resource/Cinderella_(2015_Disney_film),http://dbpedia.org/resource/Cinderella_(1997_film)
+0,133,Chicago Story,http://dbpedia.org/resource/My_Name_Is_Rocco_Papaleo,http://dbpedia.org/resource/Chicago_Story_(TV_series) http://dbpedia.org/resource/Chicago_Story
+0,135,Chalk,http://dbpedia.org/resource/Cretaceous,http://dbpedia.org/resource/Chalk_(TV_series)
+0,150,Captain America,http://dbpedia.org/resource/Captain_America:_The_First_Avenger,http://dbpedia.org/resource/Captain_America_(1979_film)
+0,152,Capital,http://dbpedia.org/resource/A_Capital,http://dbpedia.org/resource/Capital_(BBC_adaptation)
+0,156,Campus,http://dbpedia.org/resource/Undeclared,http://dbpedia.org/resource/Campus_(TV_series)
+0,160,Camille,http://dbpedia.org/resource/Camille_(given_name),http://dbpedia.org/resource/Camille_(1984_film)

@@ -1,0 +1,4 @@
+F1: 0.90000,Precision: 0.90000,Recall: 0.90000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,7,Enefit American Oil (parent: Eesti Energia),http://dbpedia.org/resource/Amoco,http://dbpedia.org/resource/Enefit_American_Oil http://dbpedia.org/resource/Oil_Shale_Exploration_Company
+0,32,Shale Technologies LLC,http://dbpedia.org/resource/Seagate_Technology,http://dbpedia.org/resource/Shale_Technologies http://dbpedia.org/resource/Shale_Technologies_LLC http://dbpedia.org/resource/Shale_Technologies_(company)

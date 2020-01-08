@@ -1,0 +1,8 @@
+F1: 0.62500,Precision: 0.62500,Recall: 0.62500,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,Bridget Jones: The Edge of Reason,http://dbpedia.org/resource/Bridget_Jones:_The_Edge_of_Reason_(film),http://dbpedia.org/resource/Bridget_Jones:_The_Edge_of_Reason http://dbpedia.org/resource/Bridget_Jones:_The_Edge_of_Reason_(book)
+1,6,Lightpath,,http://dbpedia.org/resource/Lightpath http://dbpedia.org/resource/Nelson_Street_Cycleway http://dbpedia.org/resource/Te_Ara_I_Whiti
+1,7,Legacy,http://dbpedia.org/resource/Tron:_Legacy,http://dbpedia.org/resource/Legacy_(Bujold_novel) http://dbpedia.org/resource/Legacy_(2007_novel) http://dbpedia.org/resource/Legacy_(Bujold)
+1,8,Recovery,http://dbpedia.org/resource/Recovery_(Eminem_album),http://dbpedia.org/resource/Recovery_(novel)
+1,15,Timeline,http://dbpedia.org/resource/Timeline_(2003_film),http://dbpedia.org/resource/Timeline_(novel)
+1,16,The Unvanquished,http://dbpedia.org/resource/Aparajito,http://dbpedia.org/resource/The_Unvanquished

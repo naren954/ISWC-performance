@@ -1,0 +1,4 @@
+F1: 0.94595,Precision: 0.94595,Recall: 0.94595,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,15,Flying the Flag,http://dbpedia.org/resource/Flying_the_Flag_(For_You),http://dbpedia.org/resource/Flying_The_Flag_(radio_series) http://dbpedia.org/resource/Flying_the_Flag http://dbpedia.org/resource/Flying_the_flag http://dbpedia.org/resource/Flying_The_Flag
+0,33,Alien Worlds,http://dbpedia.org/resource/Alien_Worlds_(radio_series),http://dbpedia.org/resource/Alien_worlds_radio http://dbpedia.org/resource/Alien_worlds_radio_show http://dbpedia.org/resource/Alien_Worlds_(radio)

@@ -1,0 +1,4 @@
+"F1: 0.81818","Precision: 0.81818","Recall: 0.81818"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"2","3","Wayne Brown","http://dbpedia.org/resource/Wayne_Brown_(defender,_born_1977)","http://dbpedia.org/resource/Wayne_Brown_(footballer_born_August_1977) http://dbpedia.org/resource/Wayne_Brown_(defender) http://dbpedia.org/resource/Wayne_Brown_(footballer,_born_August_1977)"
+"2","5","Chris Barker","http://dbpedia.org/resource/Chris_Barker_(American_football)","http://dbpedia.org/resource/Chris_Barker"

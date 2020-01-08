@@ -1,0 +1,6 @@
+F1: 0.87879,Precision: 0.87879,Recall: 0.87879,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,L. Prinz,http://dbpedia.org/resource/Wolfgang_Prinz,http://dbpedia.org/resource/LeRoy_Prinz http://dbpedia.org/resource/Leroy_Prinz
+0,20,K. Johnson,http://dbpedia.org/resource/Dwayne_Johnson,http://dbpedia.org/resource/Kay_Johnson
+0,30,J. Stevens,http://dbpedia.org/resource/John_Stevens_(drummer),http://dbpedia.org/resource/Julie_Stevens_(American_radio_actress)
+0,31,J. Faye,http://dbpedia.org/resource/Alice_Faye,http://dbpedia.org/resource/Julia_Faye

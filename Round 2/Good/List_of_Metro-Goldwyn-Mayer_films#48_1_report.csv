@@ -1,0 +1,6 @@
+F1: 0.81818,Precision: 0.81818,Recall: 0.81818,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,9,Shaft's Big Score,http://dbpedia.org/resource/Shaft's_Big_Score!,http://dbpedia.org/resource/Shaft's_Big_Score
+1,14,Melinda,http://it.dbpedia.org/resource/Boogie/Melinda,http://dbpedia.org/resource/Melinda_(film)
+1,16,Private Parts,http://dbpedia.org/resource/Private_Parts_(1997_film),http://dbpedia.org/resource/Private_Parts_(1972_film)
+1,19,The Great Waltz,http://dbpedia.org/resource/The_Great_Waltz_(1938_film),http://dbpedia.org/resource/The_Great_Waltz_(1972_film)

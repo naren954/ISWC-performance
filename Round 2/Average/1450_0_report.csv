@@ -1,0 +1,32 @@
+F1: 0.58904,Precision: 0.58904,Recall: 0.58904,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,Yasini Expressway,http://dbpedia.org/resource/E01_expressway_(Sri_Lanka),http://dbpedia.org/resource/Yasini_Expressway
+0,5,Western Corridor,http://dbpedia.org/resource/Western_Dedicated_Freight_Corridor,http://dbpedia.org/resource/Western_Corridor
+0,8,Tondguyan Expressway,http://dbpedia.org/resource/E01_expressway_(Sri_Lanka),http://dbpedia.org/resource/Tondguyan_Expressway
+0,9,Thailand Route 41,http://dbpedia.org/resource/California_State_Route_41,http://dbpedia.org/resource/Thailand_Route_41
+0,10,Thailand Route 302,http://dbpedia.org/resource/Maryland_Route_302,http://dbpedia.org/resource/Rattanathibet_Road http://dbpedia.org/resource/Ngam_Wong_Wan_Road http://dbpedia.org/resource/Thailand_Route_302 http://dbpedia.org/resource/Ngamwongwan_Road
+0,14,Tamaulipas State Highway 1,http://dbpedia.org/resource/Oklahoma_State_Highway_1,http://dbpedia.org/resource/Tamaulipas_State_Highway_1
+0,22,Shohadaye Soffeh Expressway,http://dbpedia.org/resource/E01_expressway_(Sri_Lanka),http://dbpedia.org/resource/Soffeh_Expressway http://dbpedia.org/resource/Shohadaye_Soffeh_Expressway
+0,29,Seoul Ring Expressway,http://dbpedia.org/resource/G1001_Harbin_Ring_Expressway,http://dbpedia.org/resource/Seouloegwaksunhwan_Expressway http://dbpedia.org/resource/Seoul_Oegwak_Sunhwan_Expressway http://dbpedia.org/resource/Seoul_Ring_Expressway http://dbpedia.org/resource/Expressway_100_(South_Korea)
+0,32,Saskatchewan Highway 903,http://dbpedia.org/resource/Saskatchewan_Highway_106,http://dbpedia.org/resource/Saskatchewan_Highway_903
+0,34,Saskatchewan Highway 709,http://dbpedia.org/resource/Saskatchewan_Highway_7,http://dbpedia.org/resource/Saskatchewan_Highway_709
+0,36,Saskatchewan Highway 623,http://dbpedia.org/resource/Saskatchewan_Highway_6,http://dbpedia.org/resource/Saskatchewan_Highway_623 http://dbpedia.org/resource/Highway_623_(Saskatchewan)
+0,38,Saskatchewan Highway 55,http://dbpedia.org/resource/Saskatchewan_Highway_35,http://dbpedia.org/resource/Saskatchewan_Highway_55 http://dbpedia.org/resource/Highway_55_(Saskatchewan)
+0,40,Saskatchewan Highway 47,http://dbpedia.org/resource/Saskatchewan_Highway_7,http://dbpedia.org/resource/Highway_47_(Saskatchewan) http://dbpedia.org/resource/Saskatchewan_Highway_47
+0,41,Saskatchewan Highway 40,http://dbpedia.org/resource/Saskatchewan_Highway_16,http://dbpedia.org/resource/Saskatchewan_Highway_40 http://dbpedia.org/resource/Highway_40_(Saskatchewan)
+0,44,Saskatchewan Highway 38,http://dbpedia.org/resource/Saskatchewan_Highway_35,http://dbpedia.org/resource/Saskatchewan_Highway_38
+0,46,Saskatchewan Highway 33,http://dbpedia.org/resource/Saskatchewan_Highway_35,http://dbpedia.org/resource/Saskatchewan_Highway_33
+0,48,Saskatchewan Highway 22,http://dbpedia.org/resource/Saskatchewan_Highway_2,http://dbpedia.org/resource/Saskatchewan_Highway_22 http://dbpedia.org/resource/Highway_22_(Saskatchewan)
+0,49,Saskatchewan Highway 219,http://dbpedia.org/resource/Saskatchewan_Highway_16,http://dbpedia.org/resource/Saskatchewan_Highway_219
+0,52,Saskatchewan Highway 19,http://dbpedia.org/resource/Saskatchewan_Highway_16,http://dbpedia.org/resource/Saskatchewan_Highway_19 http://dbpedia.org/resource/Highway_19_(Saskatchewan)
+0,53,Saskatchewan Highway 18,http://dbpedia.org/resource/Saskatchewan_Highway_16,http://dbpedia.org/resource/Saskatchewan_Highway_18 http://dbpedia.org/resource/Highway_18_(Saskatchewan)
+0,54,Saskatchewan Highway 16B,http://dbpedia.org/resource/Saskatchewan_Highway_16,http://dbpedia.org/resource/Saskatchewan_Highway_16B
+0,58,Saskatchewan Highway 12,http://dbpedia.org/resource/Saskatchewan_Highway_16,http://dbpedia.org/resource/Saskatchewan_Highway_12_(1920s) http://dbpedia.org/resource/Saskatchewan_Highway_12 http://dbpedia.org/resource/Highway_12_(Saskatchewan)
+0,60,Saskatchewan Highway 10A,http://dbpedia.org/resource/Saskatchewan_Highway_106,http://dbpedia.org/resource/Saskatchewan_Highway_10A
+0,65,S1 highway,http://dbpedia.org/resource/M-1_(Michigan_highway),http://dbpedia.org/resource/S1_highway_(Georgia) http://dbpedia.org/resource/S1_Highway_(Georgia)
+0,67,Route 531,http://dbpedia.org/resource/Pennsylvania_Route_531,http://dbpedia.org/resource/Highway_531_(Israel) http://dbpedia.org/resource/Road_531_(Israel) http://dbpedia.org/resource/Route_531_(Israel)
+0,68,Route 471,http://dbpedia.org/resource/Japan_National_Route_471,http://dbpedia.org/resource/Route_471_(Israel) http://dbpedia.org/resource/Maccabit_Road
+0,69,Route 443,http://dbpedia.org/resource/New_York_State_Route_443,http://dbpedia.org/resource/Ma'ale_Beit_Horon http://dbpedia.org/resource/Ascent_of_Beth-Horon http://dbpedia.org/resource/Ascent_of_Bethoron http://dbpedia.org/resource/Route_443_(Israel) http://dbpedia.org/resource/Highway_443_(Israel) http://dbpedia.org/resource/Road_443_(Israel)
+0,70,Route 436,http://dbpedia.org/resource/New_York_State_Route_436,http://dbpedia.org/resource/Sderot_Golda_Meir http://dbpedia.org/resource/Route_436_(Israel)
+0,71,Route 431,http://dbpedia.org/resource/U.S._Route_431_in_Alabama,http://dbpedia.org/resource/Highway_431_(Israel) http://dbpedia.org/resource/Road_431_(Israel) http://dbpedia.org/resource/Route_431_(Israel)
+0,72,Route 417,http://dbpedia.org/resource/Japan_National_Route_417,http://dbpedia.org/resource/Jericho_Road_(street) http://dbpedia.org/resource/Yirmiyahu_Street http://dbpedia.org/resource/Route_417_(Israel) http://dbpedia.org/resource/Wadi_al_Joz_Street http://dbpedia.org/resource/Sderot_Levi_Eshkol http://dbpedia.org/resource/Hativat_Harel_Street

@@ -1,0 +1,6 @@
+F1: 0.71429,Precision: 0.71429,Recall: 0.71429,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,7,Apocalypse,http://dbpedia.org/resource/Superman/Batman:_Apocalypse,http://dbpedia.org/resource/Apocalypse_(Derren_Brown_special) http://dbpedia.org/resource/Derren_Brown:_Apocalypse
+0,10,Amazon,http://dbpedia.org/resource/Kamen_Rider_Amazon,http://dbpedia.org/resource/Amazon_(2008_TV_series) http://dbpedia.org/resource/Amazon_with_Bruce_Parry
+0,11,All Kinds of Everything,http://dbpedia.org/resource/All_Kinds_of_Everything_(game_show),http://dbpedia.org/resource/All_Kinds_of_Everything_(TV_series)
+0,12,All American Girl,http://dbpedia.org/resource/All-American_Girl_(TV_series),http://dbpedia.org/resource/All_American_Girl_(2003_TV_series)

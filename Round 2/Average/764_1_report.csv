@@ -1,0 +1,82 @@
+F1: 0.55801,Precision: 0.55801,Recall: 0.55801,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,WDEF,http://dbpedia.org/resource/WDEF-TV,http://dbpedia.org/resource/WDEF_(AM) http://dbpedia.org/resource/WDEF-AM
+1,3,WLTP,http://dbpedia.org/resource/WLTP_(AM),http://dbpedia.org/resource/WLTP
+1,5,WDMP,http://dbpedia.org/resource/WDMP-FM,http://dbpedia.org/resource/WDMP_(AM)
+1,10,WIMZ-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/WIMZ-FM-Tower http://dbpedia.org/resource/WIMZ-FM_Tower http://dbpedia.org/resource/WIMZ-FM http://dbpedia.org/resource/WIMZ
+1,11,WTAQ,http://dbpedia.org/resource/WRDZ_(AM),http://dbpedia.org/resource/WTAQ_(AM) http://dbpedia.org/resource/News_Radio_1360_WTAQ http://dbpedia.org/resource/WTAQ-FM http://dbpedia.org/resource/WBAY-AM http://dbpedia.org/resource/WTAQ http://dbpedia.org/resource/WTAQ-AM
+1,15,WYDE-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/W268BM http://dbpedia.org/resource/WYDE-FM/AM http://dbpedia.org/resource/WYDE-FM
+1,17,WING,"http://dbpedia.org/resource/Red_Wing,_Minnesota",http://dbpedia.org/resource/WING_(AM) http://dbpedia.org/resource/WING
+1,21,WBRC,http://dbpedia.org/resource/WERC_(AM),http://dbpedia.org/resource/Bounce_TV_Birmingham http://dbpedia.org/resource/Fox_Birmingham http://dbpedia.org/resource/WBRC http://dbpedia.org/resource/WBRC-TV
+1,25,WUCX-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/WUCX-FM http://dbpedia.org/resource/WUCX
+1,26,WJZ,http://dbpedia.org/resource/WABC_(AM),http://dbpedia.org/resource/WJZ_(AM) http://dbpedia.org/resource/WJZ-AM http://dbpedia.org/resource/ESPN_Radio_1300 http://dbpedia.org/resource/WJFK-AM
+1,28,WDCD,http://dbpedia.org/resource/WDCD-FM,http://dbpedia.org/resource/WDCD_(AM)
+1,32,WIBF,http://dbpedia.org/resource/WPPZ-FM,http://dbpedia.org/resource/WJUN-FM http://dbpedia.org/resource/WIBF_(FM)
+1,37,WAXB,http://dbpedia.org/resource/WDBY,http://dbpedia.org/resource/W233CF http://dbpedia.org/resource/WAXB http://dbpedia.org/resource/WREF-AM http://dbpedia.org/resource/WREF_(AM) http://dbpedia.org/resource/WREF
+1,41,WALL,"http://dbpedia.org/resource/Wall_Township,_New_Jersey",http://dbpedia.org/resource/WALL http://dbpedia.org/resource/WALL_(AM)
+1,42,WKUT-LD,http://dbpedia.org/resource/KTPN-LD,http://dbpedia.org/resource/WKUT-LD
+1,47,WEMT,http://dbpedia.org/resource/WVII-TV,http://dbpedia.org/resource/WEMT_39 http://dbpedia.org/resource/WEMT http://dbpedia.org/resource/WEMT_(TV) http://dbpedia.org/resource/WEMT-TV http://dbpedia.org/resource/W43BO
+1,48,WEMT,http://dbpedia.org/resource/WVII-TV,http://dbpedia.org/resource/WEMT_39 http://dbpedia.org/resource/WEMT http://dbpedia.org/resource/WEMT_(TV) http://dbpedia.org/resource/WEMT-TV http://dbpedia.org/resource/W43BO
+1,50,WHAM-TV,http://dbpedia.org/resource/WHAM_(AM),http://dbpedia.org/resource/Norma_Holland http://dbpedia.org/resource/WOKR-TV http://dbpedia.org/resource/WHAM-DT http://dbpedia.org/resource/WHAM-TV
+1,51,WLUK-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WMBV-TV http://dbpedia.org/resource/WLUK-DT http://dbpedia.org/resource/Good_Day_Wisconsin http://dbpedia.org/resource/WLUK-TV http://dbpedia.org/resource/W40AN-D http://dbpedia.org/resource/WLUK
+1,53,WCVE-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/WCVE-FM http://dbpedia.org/resource/WCVE_(FM)
+1,54,WCVE-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WHTJ http://dbpedia.org/resource/WCVE-TV http://dbpedia.org/resource/WCVW http://dbpedia.org/resource/Commonwealth_Public_Broadcasting_Company http://dbpedia.org/resource/WCVW-TV http://dbpedia.org/resource/W66BI http://dbpedia.org/resource/WHTJ-TV
+1,55,WMUR-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/W27BL http://dbpedia.org/resource/WMUR-DT http://dbpedia.org/resource/WMUR_TV http://dbpedia.org/resource/WMUR http://dbpedia.org/resource/WMUR-TV http://dbpedia.org/resource/Hearst_Television_Manchester http://dbpedia.org/resource/W38CB http://dbpedia.org/resource/WMUR-LP
+1,58,WJHG-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WJHG-TV http://dbpedia.org/resource/WJHG http://dbpedia.org/resource/WJHG-DT3 http://dbpedia.org/resource/WJDM-TV
+1,61,WFXI,,http://dbpedia.org/resource/WYDO-TV http://dbpedia.org/resource/WFXI-TV http://dbpedia.org/resource/Fox_8_Fox_14 http://dbpedia.org/resource/WYDO http://dbpedia.org/resource/WFXI
+1,62,WICO-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/WICO-FM
+1,63,WMGC-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/WQRS_Detroit http://dbpedia.org/resource/WMGC-FM
+1,64,WLBZ,http://dbpedia.org/resource/WZON,http://dbpedia.org/resource/WLBZ-TV http://dbpedia.org/resource/WGCI-LP http://dbpedia.org/resource/WGCI-LD http://dbpedia.org/resource/WLBZ http://dbpedia.org/resource/W57AQ
+1,65,WIS,http://dbpedia.org/resource/WVOC,http://dbpedia.org/resource/WIS http://dbpedia.org/resource/WIS-TV
+1,67,WQDY-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/WALZ http://dbpedia.org/resource/WQDY_(AM) http://dbpedia.org/resource/WALZ-FM http://dbpedia.org/resource/WQDY http://dbpedia.org/resource/WQDY-FM
+1,68,WGBH-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WGBH_2 http://dbpedia.org/resource/WGBH-DT http://dbpedia.org/resource/WGBH-TV http://dbpedia.org/resource/The_Caption_Center http://dbpedia.org/resource/WGBH_in_Boston
+1,69,WCKM-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/WCKM-FM http://dbpedia.org/resource/WCKM
+1,70,WFRO-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/WFRO-FM
+1,71,WCPQ,,http://dbpedia.org/resource/WCPQ http://dbpedia.org/resource/WRZA
+1,74,WCLV,http://dbpedia.org/resource/WFHM-FM,http://dbpedia.org/resource/WCLV_(FM) http://dbpedia.org/resource/WCLV-FM http://dbpedia.org/resource/WCLV
+1,79,Megahertz,http://dbpedia.org/resource/Megahertz_(horse),http://dbpedia.org/resource/Decahertz http://dbpedia.org/resource/㎑ http://dbpedia.org/resource/PHz http://dbpedia.org/resource/Khertz http://dbpedia.org/resource/Hertz_(frequency) http://dbpedia.org/resource/Exahertz http://dbpedia.org/resource/Megahertz http://dbpedia.org/resource/Decihertz http://dbpedia.org/resource/Hertz_(unit) http://dbpedia.org/resource/Yoctohertz http://dbpedia.org/resource/Megacycles http://dbpedia.org/resource/Femtohertz http://dbpedia.org/resource/Nanohertz http://dbpedia.org/resource/Hz http://dbpedia.org/resource/Hectohertz http://dbpedia.org/resource/EHz http://dbpedia.org/resource/KHZ http://dbpedia.org/resource/Zettahertz http://dbpedia.org/resource/Khz http://dbpedia.org/resource/Microhertz http://dbpedia.org/resource/Terahertz_(unit) http://dbpedia.org/resource/Tetrahertz http://dbpedia.org/resource/㎒ http://dbpedia.org/resource/Hertz http://dbpedia.org/resource/Petahertz http://dbpedia.org/resource/Picohertz http://dbpedia.org/resource/Hertez http://dbpedia.org/resource/Gigahertz http://dbpedia.org/resource/㎓ http://dbpedia.org/resource/KHz http://dbpedia.org/resource/ZHz http://dbpedia.org/resource/Yottahertz http://dbpedia.org/resource/1_E3_Hz http://dbpedia.org/resource/Gihz http://dbpedia.org/resource/Attohertz http://dbpedia.org/resource/MHz http://dbpedia.org/resource/MHZ http://dbpedia.org/resource/Zeptohertz http://dbpedia.org/resource/㎔ http://dbpedia.org/resource/GHz http://dbpedia.org/resource/MegaHertz http://dbpedia.org/resource/Kilohertz http://dbpedia.org/resource/㎐ http://dbpedia.org/resource/Millihertz http://dbpedia.org/resource/Centihertz http://dbpedia.org/resource/DaHz http://dbpedia.org/resource/Mhz
+1,81,WCVE-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WHTJ http://dbpedia.org/resource/WCVE-TV http://dbpedia.org/resource/WCVW http://dbpedia.org/resource/Commonwealth_Public_Broadcasting_Company http://dbpedia.org/resource/WCVW-TV http://dbpedia.org/resource/W66BI http://dbpedia.org/resource/WHTJ-TV
+1,82,WINA,http://dbpedia.org/resource/Vienna,http://dbpedia.org/resource/W256BY http://dbpedia.org/resource/W255CT http://dbpedia.org/resource/WINA-AM http://dbpedia.org/resource/WINA http://dbpedia.org/resource/WINA_(AM) http://dbpedia.org/resource/Wina
+1,84,WCMU-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/WCMW-FM http://dbpedia.org/resource/WCMB http://dbpedia.org/resource/WWCM http://dbpedia.org/resource/WCMW_(FM) http://dbpedia.org/resource/WCMU-FM http://dbpedia.org/resource/WCMZ_(FM) http://dbpedia.org/resource/WCML-FM http://dbpedia.org/resource/WCMZ-FM http://dbpedia.org/resource/WCMB-FM http://dbpedia.org/resource/WCML_(FM) http://dbpedia.org/resource/WCMU_(FM) http://dbpedia.org/resource/WWCM-FM http://dbpedia.org/resource/WCMB_(FM)
+1,86,WBZA,http://dbpedia.org/resource/WBZ_(AM),http://dbpedia.org/resource/98.9_the_Buzz http://dbpedia.org/resource/WBZA http://dbpedia.org/resource/W234AZ http://dbpedia.org/resource/98.9_The_Buzz
+1,87,WRAL-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WRAL-TV http://dbpedia.org/resource/WRAL-HD http://dbpedia.org/resource/Wral.com http://dbpedia.org/resource/WRAL_HDTV_Mast http://dbpedia.org/resource/Wral_tv
+1,91,WKNG-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/WKNG-FM
+1,96,WTAT-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WTAT http://dbpedia.org/resource/WTAT-TV
+1,97,WWME-CD,http://dbpedia.org/resource/.cd,http://dbpedia.org/resource/Me-TV_Chicago http://dbpedia.org/resource/WWME http://dbpedia.org/resource/WWME-CD http://dbpedia.org/resource/WWME-CA
+1,103,WVAH-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WVAH http://dbpedia.org/resource/WVAH-TV
+1,104,WSRW,http://dbpedia.org/resource/WSRW-FM,http://dbpedia.org/resource/W268CC http://dbpedia.org/resource/WSRW_(AM)
+1,107,WLUK-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WMBV-TV http://dbpedia.org/resource/WLUK-DT http://dbpedia.org/resource/Good_Day_Wisconsin http://dbpedia.org/resource/WLUK-TV http://dbpedia.org/resource/W40AN-D http://dbpedia.org/resource/WLUK
+1,119,WTIC-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WTIC-DT http://dbpedia.org/resource/Ctnow.com http://dbpedia.org/resource/Fox_Connecticut http://dbpedia.org/resource/WTIC-TV http://dbpedia.org/resource/Fox_CT
+1,123,WSAV-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WSAV-TV
+1,124,WSAV-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WSAV-TV
+1,126,WSVF-CD,http://dbpedia.org/resource/.cd,http://dbpedia.org/resource/WAZM-CA http://dbpedia.org/resource/WSVF http://dbpedia.org/resource/WSVF-CA http://dbpedia.org/resource/WHSV-DT2 http://dbpedia.org/resource/WAZM http://dbpedia.org/resource/The_Valley's_FOX http://dbpedia.org/resource/WSVF-LD1 http://dbpedia.org/resource/WSVF-CD http://dbpedia.org/resource/WSVF-LD
+1,127,Comcast SportsNet Philadelphia,http://dbpedia.org/resource/Comcast_Center,http://dbpedia.org/resource/NBC_Sports_Philadelphia http://dbpedia.org/resource/CSNPhilly.com http://dbpedia.org/resource/CSN_Philadelphia http://dbpedia.org/resource/CSN_Philly http://dbpedia.org/resource/Comcast_SportsNet_Philadelphia
+1,130,WCMF,http://dbpedia.org/resource/WDCX_(AM),http://dbpedia.org/resource/WCMF_(FM) http://dbpedia.org/resource/WCMF-FM http://dbpedia.org/resource/WCMF
+1,132,WSBK-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/My_38 http://dbpedia.org/resource/UPN38 http://dbpedia.org/resource/UPN_Boston http://dbpedia.org/resource/MyTV38 http://dbpedia.org/resource/WSBK-DT http://dbpedia.org/resource/WSBK-TV http://dbpedia.org/resource/UPN_38 http://dbpedia.org/resource/WIHS-TV
+1,134,WBLJ-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/WBLJ-FM
+1,136,WVTT,http://dbpedia.org/resource/WVTT-CD,http://dbpedia.org/resource/WVTT
+1,137,WVLT-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WVLT-TV http://dbpedia.org/resource/CBS_Knoxville
+1,138,KSLA-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/KSLA_News_12 http://dbpedia.org/resource/KSLA-TV http://dbpedia.org/resource/KSLA
+1,139,WXKS-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/Kiss_108 http://dbpedia.org/resource/WXKS-FM
+1,140,WLYE-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/WLYE-FM
+1,142,WPRT-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/W270BK http://dbpedia.org/resource/WPRT-FM http://dbpedia.org/resource/WVNS-FM http://dbpedia.org/resource/W271AB
+1,143,WPGD-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WPGD-TV http://dbpedia.org/resource/W36AK http://dbpedia.org/resource/WPGD
+1,146,WRSP-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WCCU-TV http://dbpedia.org/resource/WRSP-TV http://dbpedia.org/resource/WRSP http://dbpedia.org/resource/WCCU_(TV)
+1,150,WKNG-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/WKNG-FM
+1,153,WSJR,http://dbpedia.org/resource/WSRT,http://dbpedia.org/resource/WSJR
+1,154,WBSH,http://dbpedia.org/resource/WBST,http://dbpedia.org/resource/WBSH
+1,156,KBTR-CA,http://dbpedia.org/resource/.ca,http://dbpedia.org/resource/KBTR-CD http://dbpedia.org/resource/KBTR-CA
+1,157,WWBU,,http://dbpedia.org/resource/WWBU http://dbpedia.org/resource/WWBU-FM
+1,158,WQYK-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/WQYK-FM
+1,160,WYOU,http://dbpedia.org/resource/WTJZ,http://dbpedia.org/resource/WYOU http://dbpedia.org/resource/WYOU-TV http://dbpedia.org/resource/WDAU-TV
+1,162,WXTG,http://dbpedia.org/resource/WXTG-FM,http://dbpedia.org/resource/WXTG_(AM)
+1,164,WZZK-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/WZZK-FM http://dbpedia.org/resource/Wzzk http://dbpedia.org/resource/WZZK
+1,165,WICZ-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WICZ-TV http://dbpedia.org/resource/WICZ
+1,167,WROR-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/Men_From_Maine http://dbpedia.org/resource/Tom's_Townie_Tunes http://dbpedia.org/resource/WROR http://dbpedia.org/resource/WROR-FM
+1,168,WRCN-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/WRCN-FM http://dbpedia.org/resource/WRCN
+1,169,WBOC-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/W261AU http://dbpedia.org/resource/WOLC http://dbpedia.org/resource/WBOC-FM
+1,170,WBOC-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WBOC-TV http://dbpedia.org/resource/CBS_Delmarva
+1,174,WTVH,http://dbpedia.org/resource/WHOI_(TV),http://dbpedia.org/resource/WHEN-TV http://dbpedia.org/resource/WTVH http://dbpedia.org/resource/WTVH-TV
+1,177,WBZ-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WBZ-TV http://dbpedia.org/resource/CBS_4_Boston http://dbpedia.org/resource/The_Circle_4_Ranch http://dbpedia.org/resource/WBZ-DT http://dbpedia.org/resource/Dennis_Geisen http://dbpedia.org/resource/CBS_Boston
+1,179,WAKA,http://dbpedia.org/resource/El_Perú_(Maya_site),http://dbpedia.org/resource/WAKA-TV http://dbpedia.org/resource/CBS_8_News http://dbpedia.org/resource/WAKA_(TV) http://dbpedia.org/resource/WAKA http://dbpedia.org/resource/CBS_Montgomery
+1,181,WDLT-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/WDLT_(FM) http://dbpedia.org/resource/WDLT http://dbpedia.org/resource/WDLT-FM

@@ -1,0 +1,39 @@
+F1: 0.77976,Precision: 0.77976,Recall: 0.77976,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,5,T. Everett,http://dbpedia.org/resource/Terrell_Everett,http://dbpedia.org/resource/Tyrone_Everett http://dbpedia.org/resource/Tyrone_Everrett
+0,9,T. A. Jr.,http://dbpedia.org/resource/Theodore_Roosevelt,"http://dbpedia.org/resource/Tony_Ayala_Jr. http://dbpedia.org/resource/Tony_Ayala_Jr http://dbpedia.org/resource/Tony_Ayala http://dbpedia.org/resource/Tony_Ayala,_Jr."
+0,14,T. Gibbons,http://dbpedia.org/resource/Tex_Gibbons,http://dbpedia.org/resource/Tom_Gibbons http://dbpedia.org/resource/Tommy_Gibbons
+0,23,T. Allen,http://dbpedia.org/resource/Terry_Allen_(boxer),http://dbpedia.org/resource/Tom_Allen_(boxer)
+0,32,T. Gardner,http://dbpedia.org/resource/Thomas_Gardner_(basketball),http://dbpedia.org/resource/Teddy_Gardner
+0,34,T. Lowry,http://dbpedia.org/resource/Troy_Lowry,http://dbpedia.org/resource/Ted_Lowry
+0,38,S. Little,http://dbpedia.org/resource/Steve_Little_(American_football),http://dbpedia.org/resource/Steve_Little_(boxer)
+0,49,S. Ş. Sam,http://dbpedia.org/resource/United_States,http://dbpedia.org/resource/Sinan_Şamil_Sam http://dbpedia.org/resource/Sinan_Samil_Sam
+0,56,S. Ferguson,http://dbpedia.org/resource/Simon_Ferguson_(ice_hockey),"http://dbpedia.org/resource/Ferguson,_Sandy http://dbpedia.org/resource/Sandy_Ferguson"
+0,64,R. James,http://dbpedia.org/resource/Ra'Shad_James,http://dbpedia.org/resource/Ronnie_James
+0,66,R. Smith,http://dbpedia.org/resource/J._R._Smith,http://dbpedia.org/resource/Ronald_Smith_(boxer)
+0,70,R. Lobo,http://dbpedia.org/resource/Rebecca_Lobo,http://dbpedia.org/resource/Rogério_Lobo_(boxer) http://dbpedia.org/resource/Rogerio_Lobo_(boxer)
+0,82,R. Arredondo,http://dbpedia.org/resource/Roberto_Arredondo,http://dbpedia.org/resource/Ricardo_Arredondo
+0,101,P. Martin,http://dbpedia.org/resource/Paul_Martin_(baseball),http://dbpedia.org/resource/Phil_Martin_(boxer)
+0,103,P. Maher,http://dbpedia.org/resource/Philip_Maher,http://dbpedia.org/resource/Peter_Maher_(boxer)
+0,107,P. Crawley,http://dbpedia.org/resource/Pauline_Crawley,http://dbpedia.org/resource/Peter_Crawley_(boxer) http://dbpedia.org/resource/Peter_Crawley
+0,108,P. Mead,http://dbpedia.org/resource/Phil_Mead,http://dbpedia.org/resource/Pete_Mead
+0,112,P. Montañez,http://dbpedia.org/resource/Román_Montañez,http://dbpedia.org/resource/Pedro_Montanez http://dbpedia.org/resource/Pedro_Montañez
+0,115,P. Sykes,http://dbpedia.org/resource/April_Sykes,http://dbpedia.org/resource/Paul_Sykes_(boxer)
+0,117,P. Killen,http://dbpedia.org/resource/Chris_Killen,http://dbpedia.org/resource/Patrick_Killen http://dbpedia.org/resource/Patrick_Killen_(boxer)
+0,118,P. O'Keefe,http://dbpedia.org/resource/Peter_O'Keefe_(footballer),http://dbpedia.org/resource/Pat_O'Keefe
+0,123,P. A. Brown,http://dbpedia.org/resource/P._J._Brown,"http://dbpedia.org/resource/Alphonse_T._Brown http://dbpedia.org/resource/Brown,_Al http://dbpedia.org/resource/Al_Brown http://dbpedia.org/resource/Panama_Al_Brown"
+0,124,P. Ryan,http://dbpedia.org/resource/Peter_Ryan_(racing_driver),http://dbpedia.org/resource/Irish_Paddy_Ryan http://dbpedia.org/resource/Paddy_Ryan
+0,128,P. McFarland,http://dbpedia.org/resource/Patrick_McFarland,http://dbpedia.org/resource/Packy_McFarland http://dbpedia.org/resource/Packey_McFarland
+0,129,O. Díaz,http://dbpedia.org/resource/Osvaldo_Díaz,http://dbpedia.org/resource/Oscar_Díaz_(boxer) http://dbpedia.org/resource/Oscar_Diaz_(boxer)
+0,130,O. Andrén,http://fr.dbpedia.org/resource/Vicke_Andrén,http://dbpedia.org/resource/Oscar_Andren http://dbpedia.org/resource/Oscar_Andrén
+0,132,O. Walker,http://dbpedia.org/resource/George_H._W._Bush,http://dbpedia.org/resource/Obie_Walker
+0,133,N. Dempsey,http://dbpedia.org/resource/Jack_Dempsey,"http://dbpedia.org/resource/Nonpareil_Jack_Dempsey http://dbpedia.org/resource/Jack_""Nonpareil""_Dempsey http://dbpedia.org/resource/Jack_(Nonpareil)_Dempsey http://dbpedia.org/resource/Jack_Nonpareil_Dempsey http://dbpedia.org/resource/Jack_""The_Nonpareil""_Dempsey http://dbpedia.org/resource/Nonpareil_Dempsey http://dbpedia.org/resource/""Nonpareil""_Dempsey"
+0,134,N. Valdés,http://dbpedia.org/resource/Víctor_Valdés,http://dbpedia.org/resource/Nino_Valdez http://dbpedia.org/resource/Nino_Valdes http://dbpedia.org/resource/Niño_Valdés
+0,139,N. Valdés,http://dbpedia.org/resource/Víctor_Valdés,http://dbpedia.org/resource/Nino_Valdez http://dbpedia.org/resource/Nino_Valdes http://dbpedia.org/resource/Niño_Valdés
+0,143,N. Turpin,http://dbpedia.org/resource/Randolph_Turpin,http://dbpedia.org/resource/Najai_Turpin
+0,152,M. Hunter,http://dbpedia.org/resource/Michael_Hunter_(American_boxer),http://dbpedia.org/resource/Mike_Hunter_(boxer) http://dbpedia.org/resource/Mike_(The_Bounty)_Hunter http://dbpedia.org/resource/Mike_'The_Bounty'_Hunter
+0,156,M. Cleary,http://dbpedia.org/resource/Michael_Cleary_(rugby),http://dbpedia.org/resource/Mike_Cleary
+0,157,"M. "". Sullivan",http://dbpedia.org/resource/Lawrence_Sullivan_Ross,"http://dbpedia.org/resource/Mike_""Twin""_Sullivan"
+0,158,M. Wolgast,http://dbpedia.org/resource/Ad_Wolgast,http://dbpedia.org/resource/Joseph_Loscalzo http://dbpedia.org/resource/Midget_Wolgast
+0,159,M. Walker,http://it.dbpedia.org/resource/Marcedes_Walker,http://dbpedia.org/resource/Mickey_Walker_(boxer)
+0,160,M. Bennett,http://dbpedia.org/resource/Michael_Bennett_(boxer),http://dbpedia.org/resource/Mervyn_Bennett

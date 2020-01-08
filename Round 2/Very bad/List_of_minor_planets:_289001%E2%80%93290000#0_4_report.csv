@@ -1,0 +1,6 @@
+F1: 0.20000,Precision: 0.20000,Recall: 0.20000,,
+Col,Row,Value,Submitted URI,Correct URI's
+4,1,Spacewatch,http://dbpedia.org/resource/4255_Spacewatch,http://dbpedia.org/resource/Spacewatch_Project http://dbpedia.org/resource/Spacewatch_project http://dbpedia.org/resource/Spacewatch http://dbpedia.org/resource/Kitt_Peak_Spacewatch
+4,2,NEAT,http://dbpedia.org/resource/Cattle,http://dbpedia.org/resource/Near-Earth_Asteroid_Tracking_(NEAT)_project http://dbpedia.org/resource/Near_Earth_Asteroid_Tracking http://dbpedia.org/resource/Near_Earth_Asteroids_Tracking http://dbpedia.org/resource/Near-Earth_Asteroid_Tracking http://dbpedia.org/resource/Asteroid_tracking_program
+4,3,LONEOS,http://dbpedia.org/resource/12574_LONEOS,http://dbpedia.org/resource/Lowell_Observatory_Near-Earth_Object_Search http://dbpedia.org/resource/LONEOS http://dbpedia.org/resource/Lowell_Observatory_Near-Earth-Object_Search
+4,4,LINEAR,http://it.dbpedia.org/resource/Linear_Assicurazioni,http://dbpedia.org/resource/The_Lincoln_Near-Earth_Asteroid_Research http://dbpedia.org/resource/LINEAR_Project http://dbpedia.org/resource/Lincoln_Near-Earth_Asteroid_Research http://dbpedia.org/resource/Lincoln_Laboratory_Near-Earth_Asteroid_Research_Team http://dbpedia.org/resource/Lincoln_Near_Earth_Asteroid_Research http://dbpedia.org/resource/LINEAR

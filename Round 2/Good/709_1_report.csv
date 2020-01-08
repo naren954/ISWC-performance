@@ -1,0 +1,6 @@
+F1: 0.78947,Precision: 0.78947,Recall: 0.78947,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,2,Chickenfeed,http://dbpedia.org/resource/Chickenfeed_(novel),http://dbpedia.org/resource/Chickenfeed
+1,5,Nothing Lasts Forever,http://dbpedia.org/resource/Nothing_Lasts_Forever_(Sheldon_novel),http://dbpedia.org/resource/Nothing_Lasts_Forever_(1977_novel) http://dbpedia.org/resource/Nothing_Lasts_Forever_(1979_novel) http://dbpedia.org/resource/Nothing_Lasts_Forever_(Thorp_novel)
+1,8,Deeper,http://dbpedia.org/resource/Deeper_(Gordon_and_Williams_novel),http://dbpedia.org/resource/Deeper_(Long_novel) http://dbpedia.org/resource/Deeper_(Jeff_Long_novel)
+1,9,The Discovery,,http://dbpedia.org/resource/The_Discovery_(Animorphs) http://dbpedia.org/resource/The_Discovery_(novel)

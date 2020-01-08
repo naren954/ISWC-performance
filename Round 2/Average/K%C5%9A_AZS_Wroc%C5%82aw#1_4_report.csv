@@ -1,0 +1,9 @@
+F1: 0.66667,Precision: 0.66667,Recall: 0.66667,,
+Col,Row,Value,Submitted URI,Correct URI's
+4,3,Arsenal,http://dbpedia.org/resource/Arsenal_W.F.C.,http://dbpedia.org/resource/Arsenal_L_F_C http://dbpedia.org/resource/Arsenal_Ladies http://dbpedia.org/resource/Arsenal_LFC http://dbpedia.org/resource/Arsenal_FC_(Ladies) http://dbpedia.org/resource/Arsenal_L.F.C. http://dbpedia.org/resource/Arsenal_L._F._C. http://dbpedia.org/resource/Arsenal_Ladies_F.C.
+4,4,HJK Helsinki,http://dbpedia.org/resource/Helsingin_Jalkapalloklubi_(women),http://dbpedia.org/resource/HJK_Helsinki_(women)
+4,8,Juvisy,http://de.dbpedia.org/resource/Juvisy_FCF,http://dbpedia.org/resource/FCF_Juvisy http://dbpedia.org/resource/Juvisy_FCF http://dbpedia.org/resource/FCF_Juvisy-sur-Orge
+4,11,KÃ\u008D KlaksvÃ­k,http://dbpedia.org/resource/K._Rudzki_i_S-ka,http://dbpedia.org/resource/KÍ_Klaksvík
+4,15,Montpellier,http://dbpedia.org/resource/Montpellier_HSC_(Women),http://dbpedia.org/resource/Montpellier_HSC_(Ladies) http://dbpedia.org/resource/Montpellier_HSC_(women) http://dbpedia.org/resource/Montpellier_HSC_(ladies)
+4,19,Arsenal,http://dbpedia.org/resource/Arsenal_W.F.C.,http://dbpedia.org/resource/Arsenal_L_F_C http://dbpedia.org/resource/Arsenal_Ladies http://dbpedia.org/resource/Arsenal_LFC http://dbpedia.org/resource/Arsenal_FC_(Ladies) http://dbpedia.org/resource/Arsenal_L.F.C. http://dbpedia.org/resource/Arsenal_L._F._C. http://dbpedia.org/resource/Arsenal_Ladies_F.C.
+4,23,HJK Helsinki,http://dbpedia.org/resource/Helsingin_Jalkapalloklubi_(women),http://dbpedia.org/resource/HJK_Helsinki_(women)

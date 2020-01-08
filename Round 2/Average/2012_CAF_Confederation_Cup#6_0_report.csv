@@ -1,0 +1,4 @@
+F1: 0.75000,Precision: 0.75000,Recall: 0.75000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,Al-Hilal,http://dbpedia.org/resource/Al-Hilal_FC,http://dbpedia.org/resource/Al-Hilal_Omdurman http://dbpedia.org/resource/Al-Hilal_(Omdurman) http://dbpedia.org/resource/Hilal_Omdurman http://dbpedia.org/resource/Al-Hilal_Club_(Omdurman) http://dbpedia.org/resource/Al_Hilal_(Omdurman)
+0,6,Dynamos,http://dbpedia.org/resource/FC_Dynamo_Moscow,http://dbpedia.org/resource/Dynamos_(Zimbabwe) http://dbpedia.org/resource/Dynamos_F.C._(Zimbabwe) http://dbpedia.org/resource/Dynamos_FC_Harare http://dbpedia.org/resource/Dynamos_Harare http://dbpedia.org/resource/Dynamos_F.C.

@@ -1,0 +1,5 @@
+"F1: 0.62500","Precision: 0.62500","Recall: 0.62500"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","6","Å\u009Etefan Iovan","http://dbpedia.org/resource/U-mutation","http://dbpedia.org/resource/Ştefan_Iovan"
+"1","7","Victor PiÅ£urcÄ\u0083","http://dbpedia.org/resource/Victor_Svendsen","http://dbpedia.org/resource/Victor_Piţurcă"
+"1","8","Eloy","http://dbpedia.org/resource/Albert_Eloy","http://dbpedia.org/resource/Eloy_Olaya http://dbpedia.org/resource/José_Olaya_Prendes http://dbpedia.org/resource/Jose_Olaya_Prendes http://dbpedia.org/resource/Eloy_(footballer)"

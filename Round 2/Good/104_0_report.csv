@@ -1,0 +1,8 @@
+F1: 0.95588,Precision: 0.95588,Recall: 0.95588,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,6,Pinus tropicalis,http://dbpedia.org/resource/Pinus_cubensis,http://dbpedia.org/resource/Pinus_tropicalis http://dbpedia.org/resource/Tropical_pine http://dbpedia.org/resource/Tropical_Pine
+0,16,Pinus serotina,http://dbpedia.org/resource/Pinus_rigida,http://dbpedia.org/resource/Marsh_pine http://dbpedia.org/resource/Pocosin_pine http://dbpedia.org/resource/Marsh_Pine http://dbpedia.org/resource/Pond_pine http://dbpedia.org/resource/Pinus_serotina http://dbpedia.org/resource/Pocosin_Pine http://dbpedia.org/resource/Pond_Pine
+0,21,Pinus resinosa,http://dbpedia.org/resource/Pinus_ponderosa,http://dbpedia.org/resource/Pinus_resinosa http://dbpedia.org/resource/Red_Pine http://dbpedia.org/resource/Norway_pine http://dbpedia.org/resource/Red_pines http://dbpedia.org/resource/Red_Pine_(North_America) http://dbpedia.org/resource/Norway_Pine http://dbpedia.org/resource/Red_pine
+0,42,Pinus morrisonicola,http://dbpedia.org/resource/Picea_morrisonicola,http://dbpedia.org/resource/Pinus_morrisonicola http://dbpedia.org/resource/Taiwan_White_Pine http://dbpedia.org/resource/Taiwan_white_pine
+0,66,Pinus hakkodensis,http://dbpedia.org/resource/Pinus_cubensis,http://dbpedia.org/resource/Pinus_hakkodensis
+0,82,Pinus dabeshanensis,http://dbpedia.org/resource/Pinus_cubensis,http://dbpedia.org/resource/Pinus_dabeshanensis

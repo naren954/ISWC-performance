@@ -1,0 +1,7 @@
+F1: 0.66667,Precision: 0.66667,Recall: 0.66667,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,7,Winter Hill Mast,http://dbpedia.org/resource/Stockland_Hill_transmitting_station,http://dbpedia.org/resource/Winter_Hill_TV_pole http://dbpedia.org/resource/Winter_Hill_transmitter http://dbpedia.org/resource/Winter_Hill_transmitting_station http://dbpedia.org/resource/Winter_Hill_TV_Mast
+0,8,Waltham Mast,http://dbpedia.org/resource/London_Borough_of_Waltham_Forest,http://dbpedia.org/resource/Waltham_TV_Mast http://dbpedia.org/resource/Waltham_transmitter http://dbpedia.org/resource/Waltham_transmitting_station
+0,12,Strabane Mast,http://dbpedia.org/resource/Strabane,http://dbpedia.org/resource/Strabane_Mast http://dbpedia.org/resource/Strabane_transmitter http://dbpedia.org/resource/Strabane_transmitting_station
+0,13,Mendlesham Mast,http://dbpedia.org/resource/Mendlesham,http://dbpedia.org/resource/Mendlesham_transmitting_station http://dbpedia.org/resource/Mendlesham_transmitter http://dbpedia.org/resource/Mendlesham_Mast
+0,15,Mendip Mast,http://dbpedia.org/resource/Mendip_Hills,http://dbpedia.org/resource/Mendip_transmitting_station http://dbpedia.org/resource/Mendip_TV_Mast

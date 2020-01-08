@@ -1,0 +1,6 @@
+F1: 0.60000,Precision: 0.60000,Recall: 0.60000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,6,R. Green,http://dbpedia.org/resource/Rickey_Green,http://dbpedia.org/resource/Roy_Green
+0,7,R. Foster,http://dbpedia.org/resource/Reuben_Foster,http://dbpedia.org/resource/Roy_Foster_American_Footballer http://dbpedia.org/resource/Roy_Foster_Amerian_Footballer http://dbpedia.org/resource/Roy_Foster_(football_player) http://dbpedia.org/resource/Roy_Foster_(American_football)
+0,8,R. Curry,http://dbpedia.org/resource/Ronald_Curry,http://dbpedia.org/resource/Roy_Curry
+0,9,R. Barker,http://dbpedia.org/resource/Robert_Barker_(footballer),http://dbpedia.org/resource/Roy_Barker

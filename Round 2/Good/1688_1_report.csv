@@ -1,0 +1,34 @@
+F1: 0.76296,Precision: 0.76296,Recall: 0.76296,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,21,H. Timmer,http://dbpedia.org/resource/Henk_Timmer,http://dbpedia.org/resource/Hendrick_Timmer http://dbpedia.org/resource/Hendrik_Timmer_(tennis_player) http://dbpedia.org/resource/Hendrik_Timmer_(tennis) http://dbpedia.org/resource/Henrik_Timmer
+1,26,H. Timmer,http://dbpedia.org/resource/Henk_Timmer,http://dbpedia.org/resource/Hendrick_Timmer http://dbpedia.org/resource/Hendrik_Timmer_(tennis_player) http://dbpedia.org/resource/Hendrik_Timmer_(tennis) http://dbpedia.org/resource/Henrik_Timmer
+1,33,M. Décugis,http://dbpedia.org/resource/Marie_Decugis,"http://dbpedia.org/resource/Maxime_Décugis http://dbpedia.org/resource/Maxime_""Max""_Omer_Decugis http://dbpedia.org/resource/Max_Decugis http://dbpedia.org/resource/Maxime_Omer_Decugis http://dbpedia.org/resource/Max_Décugis"
+1,38,M. Décugis,http://dbpedia.org/resource/Marie_Decugis,"http://dbpedia.org/resource/Maxime_Décugis http://dbpedia.org/resource/Maxime_""Max""_Omer_Decugis http://dbpedia.org/resource/Max_Decugis http://dbpedia.org/resource/Maxime_Omer_Decugis http://dbpedia.org/resource/Max_Décugis"
+1,39,M. Bjurstedt,,http://dbpedia.org/resource/Molla_Bjurstedt http://dbpedia.org/resource/Molla_Mallory http://dbpedia.org/resource/Anna_Bjurstedt http://dbpedia.org/resource/Molla_Bjurstedt_Mallory http://dbpedia.org/resource/Anna_Bjursted http://dbpedia.org/resource/Molly_Bjurstedt
+1,43,M. Bjurstedt,,http://dbpedia.org/resource/Molla_Bjurstedt http://dbpedia.org/resource/Molla_Mallory http://dbpedia.org/resource/Anna_Bjurstedt http://dbpedia.org/resource/Molla_Bjurstedt_Mallory http://dbpedia.org/resource/Anna_Bjursted http://dbpedia.org/resource/Molly_Bjurstedt
+1,63,M. Jones,"http://dbpedia.org/resource/Mark_Jones_(rugby,_born_1979)",http://dbpedia.org/resource/Marion_Jones_(tennis) http://dbpedia.org/resource/Marion_Jones_Farquhar http://dbpedia.org/resource/Marion_Jones_(tennis_player)
+1,67,M. Jones,"http://dbpedia.org/resource/Mark_Jones_(rugby,_born_1979)",http://dbpedia.org/resource/Marion_Jones_(tennis) http://dbpedia.org/resource/Marion_Jones_Farquhar http://dbpedia.org/resource/Marion_Jones_(tennis_player)
+1,75,P. McPherson,http://dbpedia.org/resource/Paul_McPherson,http://dbpedia.org/resource/Paige_McPherson
+1,79,L. Muhammad,http://dbpedia.org/resource/Muhammad,http://dbpedia.org/resource/Lutalo_Muhammad
+1,80,T. Jennings,http://dbpedia.org/resource/Tim_Jennings,http://dbpedia.org/resource/Terrence_Jennings
+1,81,Ó. M. Oviedo,http://dbpedia.org/resource/Eugene_M._O'Neill,http://dbpedia.org/resource/Óscar_Muñoz_Oviedo http://dbpedia.org/resource/Óscar_Muñoz http://dbpedia.org/resource/Oscar_Munoz_Oveido
+1,82,R. Despaigne,http://dbpedia.org/resource/Alfredo_Despaigne,http://dbpedia.org/resource/Robelis_Despaigne
+1,83,P. McPherson,http://dbpedia.org/resource/Paul_McPherson,http://dbpedia.org/resource/Paige_McPherson
+1,87,L. Muhammad,http://dbpedia.org/resource/Muhammad,http://dbpedia.org/resource/Lutalo_Muhammad
+1,88,T. Jennings,http://dbpedia.org/resource/Tim_Jennings,http://dbpedia.org/resource/Terrence_Jennings
+1,89,Ó. M. Oviedo,http://dbpedia.org/resource/Eugene_M._O'Neill,http://dbpedia.org/resource/Óscar_Muñoz_Oviedo http://dbpedia.org/resource/Óscar_Muñoz http://dbpedia.org/resource/Oscar_Munoz_Oveido
+1,90,R. Despaigne,http://dbpedia.org/resource/Alfredo_Despaigne,http://dbpedia.org/resource/Robelis_Despaigne
+1,91,S. Šarić,http://de.dbpedia.org/resource/Ante_Šarić,http://dbpedia.org/resource/Sandra_Saric http://dbpedia.org/resource/Sandra_Šarić
+1,93,D. Montejo,http://dbpedia.org/resource/Manny_Montejo,http://dbpedia.org/resource/Daynellis_Montejo
+1,94,S. Stevenson,http://dbpedia.org/resource/Shakur_Stevenson,http://dbpedia.org/resource/Sarah_Diana_Stevenson http://dbpedia.org/resource/Sarah_Stephenson http://dbpedia.org/resource/Sarah_Stevenson
+1,97,C. Mu-Yen,http://dbpedia.org/resource/Yen_Chia-kan,http://dbpedia.org/resource/Zhu_Muyan http://dbpedia.org/resource/Chu_Mu-Yen http://dbpedia.org/resource/Chu_Mu-yen http://dbpedia.org/resource/Chu_Mu_Yen
+1,99,S. Šarić,http://de.dbpedia.org/resource/Ante_Šarić,http://dbpedia.org/resource/Sandra_Saric http://dbpedia.org/resource/Sandra_Šarić
+1,101,D. Montejo,http://dbpedia.org/resource/Manny_Montejo,http://dbpedia.org/resource/Daynellis_Montejo
+1,102,S. Stevenson,http://dbpedia.org/resource/Shakur_Stevenson,http://dbpedia.org/resource/Sarah_Diana_Stevenson http://dbpedia.org/resource/Sarah_Stephenson http://dbpedia.org/resource/Sarah_Stevenson
+1,105,C. Mu-Yen,http://dbpedia.org/resource/Yen_Chia-kan,http://dbpedia.org/resource/Zhu_Muyan http://dbpedia.org/resource/Chu_Mu-Yen http://dbpedia.org/resource/Chu_Mu-yen http://dbpedia.org/resource/Chu_Mu_Yen
+1,108,I. Salazar,http://dbpedia.org/resource/Eliseo_Salazar,http://dbpedia.org/resource/Iridia_Salazar
+1,110,A. Carmona,http://dbpedia.org/resource/Adrià_Carmona,http://dbpedia.org/resource/Adriana_Carmona
+1,111,Y. Karami,http://dbpedia.org/resource/Miyoko_Karami,http://dbpedia.org/resource/Yousef_Karami http://dbpedia.org/resource/Yossef_Karami http://dbpedia.org/resource/Youssef_Karami
+1,116,I. Salazar,http://dbpedia.org/resource/Eliseo_Salazar,http://dbpedia.org/resource/Iridia_Salazar
+1,118,A. Carmona,http://dbpedia.org/resource/Adrià_Carmona,http://dbpedia.org/resource/Adriana_Carmona
+1,119,Y. Karami,http://dbpedia.org/resource/Miyoko_Karami,http://dbpedia.org/resource/Yousef_Karami http://dbpedia.org/resource/Yossef_Karami http://dbpedia.org/resource/Youssef_Karami

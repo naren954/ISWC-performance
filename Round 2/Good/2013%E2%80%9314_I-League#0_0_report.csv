@@ -1,0 +1,5 @@
+F1: 0.76923,Precision: 0.76923,Recall: 0.76923,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,6,Mohun Bagan,http://dbpedia.org/resource/East_Bengal_F.C.,http://dbpedia.org/resource/Mohun_Bagan_AC http://dbpedia.org/resource/Mohan_Bagan http://dbpedia.org/resource/McDowell_Mohun_Bagan_AC http://dbpedia.org/resource/Mohun_Bagan_Athletic_Club http://dbpedia.org/resource/Mohun_Bagan_A.C. http://dbpedia.org/resource/Mohun_Bagan
+0,8,Pune,http://dbpedia.org/resource/FC_Pune_City,http://dbpedia.org/resource/Pune_FC http://dbpedia.org/resource/Pune_Football_Club http://dbpedia.org/resource/Pune_F.C.
+0,9,Rangdajied United,http://dbpedia.org/resource/Sheffield_United_F.C.,http://dbpedia.org/resource/Ar-Hima http://dbpedia.org/resource/Ar-Hima_F.C. http://dbpedia.org/resource/Rangdajied_United_F.C.

@@ -1,0 +1,6 @@
+F1: 0.94521,Precision: 0.94521,Recall: 0.94521,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,24,Operation Overlord,http://dbpedia.org/resource/Normandy_landings,http://dbpedia.org/resource/Allied_invasion_of_France http://dbpedia.org/resource/Normandy_breakout http://dbpedia.org/resource/Invasion_of_France_(Allies) http://dbpedia.org/resource/Normandy_breakout_campaign http://dbpedia.org/resource/Operation_overlord_essay http://dbpedia.org/resource/Battle_for_Normandy http://dbpedia.org/resource/Operation_Overlord
+0,34,Operation Northern Watch,http://dbpedia.org/resource/Operation_Southern_Watch,http://dbpedia.org/resource/Operation_NORTHERN_WATCH http://dbpedia.org/resource/Operation_Northern_Watch http://dbpedia.org/resource/Operations_Northern_Watch http://dbpedia.org/resource/Northern_Watch
+0,37,Operation Northern Delay,http://dbpedia.org/resource/Operation_Northern_Iraq,http://dbpedia.org/resource/Operation_Northern_Delay
+0,49,Operation Mountain Storm,http://dbpedia.org/resource/Operation_Mountain_Fury,http://dbpedia.org/resource/Operation_Mountain_Storm_(Republic_of_Macedonia)

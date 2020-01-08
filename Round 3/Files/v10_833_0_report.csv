@@ -1,0 +1,4 @@
+"F1: 0.81818","Precision: 0.81818","Recall: 0.81818"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","2","Going Wild","http://dbpedia.org/resource/Rugrats_Go_Wild","http://dbpedia.org/resource/Going_Wild_(film) http://dbpedia.org/resource/Going_Wild"
+"0","9","Dames","http://dbpedia.org/resource/Charlie's_Angels","http://dbpedia.org/resource/Dames"

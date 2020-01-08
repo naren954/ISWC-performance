@@ -1,0 +1,17 @@
+F1: 0.87288,Precision: 0.87288,Recall: 0.87288,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,4,Challenger,http://dbpedia.org/resource/Challenges_(magazine),http://dbpedia.org/resource/Challenger_(Star_Trek) http://dbpedia.org/resource/Challenger_(novel)
+1,25,The Commodore,http://dbpedia.org/resource/The_Commodore,http://dbpedia.org/resource/The_Commodore_(book) http://dbpedia.org/resource/The_Commodore_(novel)
+1,33,Something Rotten,http://dbpedia.org/resource/Something_Rotten_(Fforde),http://dbpedia.org/resource/Something_Rotten
+1,34,The Arrival,http://dbpedia.org/resource/Arrival_(ABBA_album),http://dbpedia.org/resource/The_Arrival_(Animorphs) http://dbpedia.org/resource/The_Arrival_(novel)
+1,39,The Underground,http://dbpedia.org/resource/The_Velvet_Underground_(album),http://dbpedia.org/resource/The_Underground_(Applegate_novel) http://dbpedia.org/resource/The_Underground_(novel) http://dbpedia.org/resource/The_Underground_(Animorphs)
+1,55,The Revelation,http://dbpedia.org/resource/Revelation_(Star_Wars_novel),http://dbpedia.org/resource/The_Revelation_(novel) http://dbpedia.org/resource/The_Revelation_(Animorphs)
+1,56,The Decision,http://dbpedia.org/resource/Tonight's_Decision,http://dbpedia.org/resource/The_Decision_(novel) http://dbpedia.org/resource/The_Decision_(Animorphs)
+1,63,The Serpent's Shadow,http://dbpedia.org/resource/The_Serpent's_Shadow_(Lackey_novel),http://dbpedia.org/resource/The_Serpent's_Shadow_(Riordan_novel) http://dbpedia.org/resource/The_Serpent's_Shadow_(2012_novel)
+1,69,The Unexpected,http://dbpedia.org/resource/Unexpected_(Star_Trek:_Enterprise),http://dbpedia.org/resource/The_Unexpected_(novel) http://dbpedia.org/resource/The_Unexpected_(Animorphs)
+1,72,Dead or Alive,http://dbpedia.org/resource/Wanted_Dead_or_Alive_(Bon_Jovi_song),http://dbpedia.org/resource/Dead_or_Alive_(novel)
+1,81,Haunted,http://dbpedia.org/resource/Haunted_(Armstrong_novel),http://dbpedia.org/resource/Haunted_(Angel_novel)
+1,90,"See You Later, Alligator","http://dbpedia.org/resource/See_You_Later,_Alligator_(novel)","http://dbpedia.org/resource/See_you_later_alligator http://dbpedia.org/resource/See_You_Later_Alligator http://dbpedia.org/resource/See_you_later,_Alligator http://dbpedia.org/resource/Later_Alligator http://dbpedia.org/resource/See_You_Later,_Alligator"
+1,96,Matter,http://dbpedia.org/resource/Soft_Matter_(journal),http://dbpedia.org/resource/Matter_(novel)
+1,99,The Leopard,http://dbpedia.org/resource/Leopard_2,http://dbpedia.org/resource/Leopold's_Apple http://dbpedia.org/resource/The_Leopard_(Nesbø_novel) http://dbpedia.org/resource/The_Leopard_(Nesbo_novel)
+1,108,Gods Go Begging,,"http://dbpedia.org/resource/Alfredo_Vea,_Jr. http://dbpedia.org/resource/Alfredo_Vea http://dbpedia.org/resource/Alfredo_Véa_Jr. http://dbpedia.org/resource/Gods_Go_Begging http://dbpedia.org/resource/Alfredo_Véa,_Jr. http://dbpedia.org/resource/Alfredo_Vea_Jr"

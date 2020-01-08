@@ -1,0 +1,3 @@
+F1: 0.66667,Precision: 0.66667,Recall: 0.66667,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,7,Great Northern Passenger Depot,"http://dbpedia.org/resource/Burlington,_Cedar_Rapids_&_Northern_Passenger_Depot-Dows","http://dbpedia.org/resource/Great_Northern_Passenger_Depot_(Alexandria,_Minnesota)"

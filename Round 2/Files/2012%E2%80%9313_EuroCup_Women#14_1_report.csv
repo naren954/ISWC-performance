@@ -1,0 +1,5 @@
+"F1: 0.00000","Precision: 0.00000","Recall: 0.00000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","1","Antakya","http://dbpedia.org/resource/Antakya","http://dbpedia.org/resource/Hatay_Büyükşehir_Belediyesi_(women's_basketball) http://dbpedia.org/resource/Hatay_Buyuksehir_Belediyesi_(women's_basketball) http://dbpedia.org/resource/Antakya_Belediyespor http://dbpedia.org/resource/Homend_Antakya_Belediyesi"
+"1","2","RuÅ¾omberok","http://dbpedia.org/resource/Ružomberok","http://dbpedia.org/resource/MBK_Ružomberok"
+"1","4","Elitzur Ramla","nan","http://dbpedia.org/resource/Elitzur_Ramla_(women's_basketball)"

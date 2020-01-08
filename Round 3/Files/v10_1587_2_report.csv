@@ -1,0 +1,5 @@
+"F1: 0.83333","Precision: 0.83333","Recall: 0.83333"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"2","6","Blue","http://dbpedia.org/resource/Blue_Mitchell","http://dbpedia.org/resource/Blue_(boyband) http://dbpedia.org/resource/Blue_(English_band) http://dbpedia.org/resource/Blue_(boy_band) http://dbpedia.org/resource/Blue_boy_band"
+"2","12","Kent","http://fr.dbpedia.org/resource/Kent_(chanteur)","http://dbpedia.org/resource/Spokstad http://dbpedia.org/resource/Martin_Roos_(musician) http://dbpedia.org/resource/Spoekstad http://dbpedia.org/resource/Kent_(band)"
+"2","17","Seduction","http://dbpedia.org/resource/Magneto_(comics)","http://dbpedia.org/resource/Seduction_(group) http://dbpedia.org/resource/Seduction_(band)"

@@ -1,0 +1,4 @@
+F1: 0.75000,Precision: 0.75000,Recall: 0.75000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,T. Bennett,http://dbpedia.org/resource/Thomas_Bennett_(footballer),http://dbpedia.org/resource/Tony_Bennett_(coach) http://dbpedia.org/resource/Tony_Bennett_(basketball)
+0,4,S. Johnson,http://dbpedia.org/resource/Stanley_Johnson_(basketball),http://dbpedia.org/resource/Sydney_Johnson

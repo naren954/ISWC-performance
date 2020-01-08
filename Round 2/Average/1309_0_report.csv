@@ -1,0 +1,9 @@
+F1: 0.73077,Precision: 0.73077,Recall: 0.73077,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,S. Hamilton,http://dbpedia.org/resource/Virginia_Hamilton,http://dbpedia.org/resource/Sue_Hamilton_(model) http://dbpedia.org/resource/Sue_Hamilton_(actress) http://dbpedia.org/resource/Sue_Hamilton_(actress_and_model) http://dbpedia.org/resource/Karen_Susan_Hamilton http://dbpedia.org/resource/Sue_Hamilton_(model_and_actress)
+0,5,P. Bryant,http://dbpedia.org/resource/Peter_Bryant,http://dbpedia.org/resource/Pamela_Bryant http://dbpedia.org/resource/Pamela_Jean_Bryant
+0,6,M. Pertile,http://dbpedia.org/resource/Aureliano_Pertile,http://dbpedia.org/resource/Merle_Pertile
+0,9,M. Collinson,http://dbpedia.org/resource/Peter_Collinson_(botanist),http://dbpedia.org/resource/Madeleine_Collinson
+0,11,J. Cochran,http://dbpedia.org/resource/Eddie_Cochran,http://dbpedia.org/resource/June_Cochran
+0,12,J. L. Jackson,http://dbpedia.org/resource/Stonewall_Jackson,http://dbpedia.org/resource/Jennifer_Lyn_Jackson http://dbpedia.org/resource/Jennifer_Lynn_Jackson
+0,25,B. Blue,http://dbpedia.org/resource/Barry_Blue,http://dbpedia.org/resource/Betty_Blue_(model) http://dbpedia.org/resource/Betty_Blue_(Playmate)

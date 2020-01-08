@@ -1,0 +1,13 @@
+F1: 0.85135,Precision: 0.85135,Recall: 0.85135,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,E. Karlsson,http://dbpedia.org/resource/Erik_Karlsson,"http://dbpedia.org/resource/Erik_Karlsson_(ice_hockey,_born_1994) http://dbpedia.org/resource/Erik_Karlsson_(ice_hockey_b._1994)"
+0,17,D. Malgin,http://dbpedia.org/resource/Denis_Malgin,http://dbpedia.org/resource/Dmitri_Malgin
+0,21,D. Guryanov,http://dbpedia.org/resource/D._D._Jackson,http://dbpedia.org/resource/Denis_Gurianov http://dbpedia.org/resource/Denis_Guryanov
+0,34,C. Desjardins,http://dbpedia.org/resource/Éric_Desjardins,http://dbpedia.org/resource/Cedric_Desjardins http://dbpedia.org/resource/Cédrick_Desjardins http://dbpedia.org/resource/Cedrick_Desjardins_(ice_hockey) http://dbpedia.org/resource/Cedrick_Desjardins
+0,37,C. Allen,http://dbpedia.org/resource/Chris_Allen_(ice_hockey),http://dbpedia.org/resource/Conor_Allen
+0,39,C. Gillies,http://dbpedia.org/resource/Clark_Gillies,http://dbpedia.org/resource/Colton_Gillies
+0,43,C. Thomas,http://dbpedia.org/resource/Carla_Thomas_(basketball),http://dbpedia.org/resource/Christian_Thomas_(ice_hockey)
+0,52,C. Brown,http://dbpedia.org/resource/Curtis_Brown_(cornerback),http://dbpedia.org/resource/Chris_Brown_(ice_hockey)
+0,65,C. Desjardins,http://dbpedia.org/resource/Éric_Desjardins,http://dbpedia.org/resource/Cedric_Desjardins http://dbpedia.org/resource/Cédrick_Desjardins http://dbpedia.org/resource/Cedrick_Desjardins_(ice_hockey) http://dbpedia.org/resource/Cedrick_Desjardins
+0,69,B. Sutter,http://dbpedia.org/resource/Brandon_Sutter,http://dbpedia.org/resource/Brody_Sutter
+0,73,B. Olson,http://dbpedia.org/resource/Benn_Olson,http://dbpedia.org/resource/Brett_Olson_(ice_hockey)

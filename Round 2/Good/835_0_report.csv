@@ -1,0 +1,6 @@
+F1: 0.90000,Precision: 0.90000,Recall: 0.90000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,19,"Peter W. K. Bøckman, Sr.",http://dbpedia.org/resource/Peter_W._K._Bøckman_Sr.,"http://dbpedia.org/resource/Peter_W._K._Bøckman,_Sr. http://dbpedia.org/resource/Peter_W._K._Bockman,_Sr. http://dbpedia.org/resource/Peter_Wilhelm_Kreydahl_Bøckmann"
+0,23,O. Svebilius,,http://dbpedia.org/resource/Olov_Svebilius
+0,27,M. Evans,http://dbpedia.org/resource/Kenneth_Evans_(bishop_of_Dorking),http://dbpedia.org/resource/Michael_Charles_Evans http://dbpedia.org/resource/Michael_Evans_(bishop)
+0,34,L. P. Gothus,http://dbpedia.org/resource/Laurentius_Petri_Gothus,http://dbpedia.org/resource/Paulinus_Gothus http://dbpedia.org/resource/Laurentius_Paulinus_Gothus

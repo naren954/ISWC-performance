@@ -1,0 +1,8 @@
+F1: 0.86364,Precision: 0.86364,Recall: 0.86364,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,Vagrancy,http://dbpedia.org/resource/Vagrancy_(racehorse),http://dbpedia.org/resource/Vagrancy_(horse)
+0,8,Tiago,"http://dbpedia.org/resource/James,_son_of_Zebedee",http://dbpedia.org/resource/Tiago_(horse)
+0,30,Rachel's Valentina,http://dbpedia.org/resource/Rachel_Alexandra,http://dbpedia.org/resource/Rachel's_Valentina
+0,36,Pope,http://dbpedia.org/resource/Pope_Joan_(horse),http://dbpedia.org/resource/Pope_(horse)
+0,41,Oxygen,http://dbpedia.org/resource/Anna_Oxygen,http://dbpedia.org/resource/Oxygen_(horse)
+0,44,On-and-On,,http://dbpedia.org/resource/On-And-On http://dbpedia.org/resource/On-and-On

@@ -1,0 +1,5 @@
+"F1: 0.76923","Precision: 0.76923","Recall: 0.76923"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","2","Johnny King","http://dbpedia.org/resource/John_King_(footballer,_born_1938)","http://dbpedia.org/resource/John_King_(rugby_league) http://dbpedia.org/resource/Johnny_King"
+"0","4","Billy Smith","http://dbpedia.org/resource/Billy_Smith_(ice_hockey)","http://dbpedia.org/resource/Billy_Smith_(rugby_league_footballer) http://dbpedia.org/resource/Billy_Smith_(rugby_league)"
+"0","7","George Evans","http://dbpedia.org/resource/George_Evans_(footballer,_born_1994)","http://dbpedia.org/resource/George_Evans_(rugby_league)"

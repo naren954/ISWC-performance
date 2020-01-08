@@ -1,0 +1,4 @@
+F1: 0.80000,Precision: 0.80000,Recall: 0.80000,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,2,Jennings River,http://dbpedia.org/resource/Jennings_Run,http://dbpedia.org/resource/Jennings_River
+3,8,Trout River,http://dbpedia.org/resource/Trout_River_(Quebec),http://dbpedia.org/resource/Trout_River_(British_Columbia)

@@ -1,0 +1,13 @@
+F1: 0.08333,Precision: 0.08333,Recall: 0.08333,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,BÃ\u008D\/BolungarvÃ­k,http://dbpedia.org/resource/Iraq_War,http://dbpedia.org/resource/BÍ/Bolungarvík
+0,2,GrindavÃ­k,http://dbpedia.org/resource/Grindavík,http://dbpedia.org/resource/Knattspyrnudeild_UMFG http://dbpedia.org/resource/Knattspyrnudeild_umfg http://dbpedia.org/resource/UMF_Grindavík
+0,3,Haukar,http://dbpedia.org/resource/Hawk,http://dbpedia.org/resource/Haukar
+0,4,HK,http://dbpedia.org/resource/Hong_Kong,http://dbpedia.org/resource/Handknattleiksfélag_Kópavogs
+0,5,Ã\u008DA,http://dbpedia.org/resource/European_route_E008,http://dbpedia.org/resource/Íþróttabandalag_Akraness
+0,6,KA,http://dbpedia.org/resource/Canada,http://dbpedia.org/resource/Knattspyrnufélag_Akureyrar
+0,7,KV,http://dbpedia.org/resource/Kosovo,http://dbpedia.org/resource/Knattspyrnufélag_Vesturbæjar
+0,8,Leiknir R.,http://dbpedia.org/resource/R_(programming_language),http://dbpedia.org/resource/Leiknir_Reykjavík
+0,9,Selfoss,http://dbpedia.org/resource/Selfoss_(town),http://dbpedia.org/resource/UMF_Selfoss_(football_club) http://dbpedia.org/resource/UMF_Selfoss
+0,11,VÃ­kingur Ã\u0093.,,http://dbpedia.org/resource/Ungmennafélagið_Víkingur
+0,12,Ã\u009ErÃ³ttur R.,,http://dbpedia.org/resource/Knattspyrnufélagið_Þróttur

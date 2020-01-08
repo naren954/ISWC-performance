@@ -1,0 +1,5 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,4,Governor,http://dbpedia.org/resource/Saint_Petersburg_Governorate,http://dbpedia.org/resource/List_of_Delaware_Governors http://dbpedia.org/resource/List_of_Governors_from_Delaware http://dbpedia.org/resource/Gov_of_Delaware http://dbpedia.org/resource/Governor_(Delaware) http://dbpedia.org/resource/Governor_of_Delaware http://dbpedia.org/resource/President_of_Delaware http://dbpedia.org/resource/List_of_Governors_of_Delaware http://dbpedia.org/resource/Governors_of_Delaware
+0,5,State Representative,http://dbpedia.org/resource/Paraíba,http://dbpedia.org/resource/Delaware_House_of_Representatives http://dbpedia.org/resource/DE_House http://dbpedia.org/resource/Speaker_of_the_Delaware_House_of_Representatives http://dbpedia.org/resource/Delaware_house_of_representatives
+0,6,State Senator,http://dbpedia.org/resource/Louisiana_State_University,http://dbpedia.org/resource/Delaware_State_Senate http://dbpedia.org/resource/Delaware_Senate

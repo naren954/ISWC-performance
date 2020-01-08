@@ -1,0 +1,6 @@
+F1: 0.76471,Precision: 0.76471,Recall: 0.76471,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,S. Foster,http://dbpedia.org/resource/David_Foster,"http://dbpedia.org/resource/Foster,_Stephen http://dbpedia.org/resource/Stephen_Collins_Foster http://dbpedia.org/resource/Stephen_C._Foster http://dbpedia.org/resource/Stephen_Foster http://dbpedia.org/resource/Massa's_in_the_Cold_Ground"
+0,10,H. Nelson,"http://dbpedia.org/resource/Horatio_Nelson,_1st_Viscount_Nelson",http://dbpedia.org/resource/Harriet_Nelson http://dbpedia.org/resource/Harriet_Hilliard_Nelson http://dbpedia.org/resource/Peggy_Lou_Snyder http://dbpedia.org/resource/Harriet_Hilliard
+0,14,A. Sabri,http://dbpedia.org/resource/Ali_Sabri,http://dbpedia.org/resource/Amjad_Fareed_Sabri http://dbpedia.org/resource/Amjad_Farid_Sabri http://dbpedia.org/resource/Amjad_Sabri
+0,15,A. Newman,http://dbpedia.org/resource/Paul_Newman,http://dbpedia.org/resource/Alfred_Newman_(composer)

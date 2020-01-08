@@ -1,0 +1,21 @@
+F1: 0.84677,Precision: 0.84677,Recall: 0.84677,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,14,T. Williams,"http://dbpedia.org/resource/Tom_Williams_(ice_hockey,_born_1940)","http://dbpedia.org/resource/Dave_""Tiger""_Williams http://dbpedia.org/resource/Dave_Williams_(hockey) http://dbpedia.org/resource/Dave_Williams_(hockey_player) http://dbpedia.org/resource/Tiger_Williams"
+0,29,S. Campbell,"http://dbpedia.org/resource/Scott_Campbell_(ice_hockey,_born_1972)","http://dbpedia.org/resource/Gary_Scott_Campbell http://dbpedia.org/resource/Scott_Campbell_(ice_hockey,_born_1957) http://dbpedia.org/resource/Scott_Campbell_(ice_hockey_b._1957)"
+0,30,R. Lemelin,http://dbpedia.org/resource/Roger_Lemelin_(ice_hockey),http://dbpedia.org/resource/Rejean_Lemelin http://dbpedia.org/resource/Réjean_Lemelin http://dbpedia.org/resource/Reggie_Lemelin
+0,31,R. Cloutier,http://dbpedia.org/resource/Roland_Cloutier,http://dbpedia.org/resource/Real_Cloutier http://dbpedia.org/resource/Réal_Cloutier
+0,32,R. Anderson,http://dbpedia.org/resource/Richard_Anderson_(basketball),http://dbpedia.org/resource/Russ_Anderson
+0,33,R. Smith,http://dbpedia.org/resource/J._R._Smith,http://dbpedia.org/resource/Ross_Smith_(ice_hockey)
+0,34,R. Wilson,"http://dbpedia.org/resource/Ron_Wilson_(footballer,_born_1941)","http://dbpedia.org/resource/Ron_Wilson_(ice_hockey._born_1955) http://dbpedia.org/resource/Ron_Wilson_(ice_hockey,_born_1955) http://dbpedia.org/resource/Ron_Wilson_(ice_hockey_defenseman) http://dbpedia.org/resource/Ron_wilson_1955 http://dbpedia.org/resource/Ron_Wilson_(ice_hockey_b._1955)"
+0,46,R. Moore,http://dbpedia.org/resource/Randy_Moore,http://dbpedia.org/resource/Robbie_Moore
+0,52,R. Lalonde,http://dbpedia.org/resource/Ron_Lalonde,http://dbpedia.org/resource/Rick_Lalonde
+0,65,R. Lemelin,http://dbpedia.org/resource/Roger_Lemelin_(ice_hockey),http://dbpedia.org/resource/Rejean_Lemelin http://dbpedia.org/resource/Réjean_Lemelin http://dbpedia.org/resource/Reggie_Lemelin
+0,66,R. Cloutier,http://dbpedia.org/resource/Roland_Cloutier,http://dbpedia.org/resource/Real_Cloutier http://dbpedia.org/resource/Réal_Cloutier
+0,72,P. Brown,http://dbpedia.org/resource/P._J._Brown,http://dbpedia.org/resource/Peter_Brown_(ice_hockey)
+0,80,P. Evans,"http://dbpedia.org/resource/Paul_Evans_(ice_hockey,_born_1955)","http://dbpedia.org/resource/John_Paul_Evans http://dbpedia.org/resource/Paul_Evans_(ice_hockey,_born_1954) http://dbpedia.org/resource/Paul_Evans_(ice_hockey_b._1954)"
+0,85,P. Hickey,http://dbpedia.org/resource/Pat_Hickey_(ice_hockey),http://dbpedia.org/resource/Pat_Hickey
+0,94,M. Robinson,http://dbpedia.org/resource/Marvin_Robinson,http://dbpedia.org/resource/Moe_Robinson
+0,102,M. Kennedy,"http://dbpedia.org/resource/Mark_Kennedy_(footballer,_born_1976)","http://dbpedia.org/resource/Mike_Kennedy_(ice_hockey,_born_1953)"
+0,106,M. Clarke,"http://dbpedia.org/resource/Matthew_Clarke_(footballer,_born_1980)","http://dbpedia.org/resource/Mike_Clarke_(ice_hockey,_born_1953) http://dbpedia.org/resource/Mike_Clarke_(ice_hockey_b._1953)"
+0,113,M. Bergeron,http://dbpedia.org/resource/Marc-André_Bergeron,http://dbpedia.org/resource/Michel_Bergeron_(ice_hockey) http://dbpedia.org/resource/Michel_Bergeron_(hockey_player)
+0,117,M. Johnson,"http://dbpedia.org/resource/Michael_Johnson_(footballer,_born_1990)",http://dbpedia.org/resource/Mark_Johnson_(ice_hockey) http://dbpedia.org/resource/Mark_Johnson_(hockey_player) http://dbpedia.org/resource/Mark_Johnson_(hockey)

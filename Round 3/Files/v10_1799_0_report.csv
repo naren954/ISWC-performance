@@ -1,0 +1,4 @@
+"F1: 0.93750","Precision: 0.93750","Recall: 0.93750"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","6","Larch Mountain","http://dbpedia.org/resource/Larch_Mountain_(Thurston_County,_Washington)","http://dbpedia.org/resource/Sherrard_Point http://dbpedia.org/resource/Larch_Mountain,_Multnomah_County,_Oregon http://dbpedia.org/resource/Larch_Mountain_(Multnomah_County,_Oregon)"
+"0","27","Cold Bay Volcano","http://dbpedia.org/resource/Frosty_Peak_Volcano","http://dbpedia.org/resource/Cold_Bay_Volcano"

@@ -1,0 +1,6 @@
+"F1: 0.60000","Precision: 0.60000","Recall: 0.60000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","1","A. Mickey","http://dbpedia.org/resource/Mickey_Mantle","http://dbpedia.org/resource/Abigail_Mickey"
+"0","6","A. Eshuis","nan","http://dbpedia.org/resource/Aafke_Eshuis"
+"0","7","Ł. Bodnar","http://dbpedia.org/resource/Maciej_Bodnar","http://dbpedia.org/resource/Lukasz_Bodnar http://dbpedia.org/resource/Łukasz_Bodnar"
+"0","10","Á. Edo","http://dbpedia.org/resource/Teo_Edo","http://dbpedia.org/resource/Ángel_Edo_Alsina http://dbpedia.org/resource/Angel_Edo_Alsina http://dbpedia.org/resource/Angel_Edo http://dbpedia.org/resource/Ángel_Edo"

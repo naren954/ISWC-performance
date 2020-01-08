@@ -1,0 +1,20 @@
+F1: 0.18182,Precision: 0.18182,Recall: 0.18182,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,4,S. Smith,http://dbpedia.org/resource/Shelley_Smith_(American_football),http://dbpedia.org/resource/Sid_Smith_(lacrosse)
+0,5,R. V. Beek,http://dbpedia.org/resource/Rinus_van_Beek,http://dbpedia.org/resource/Rob_VanBeek http://dbpedia.org/resource/Rob_Van_Beek
+0,6,R. Pannell,http://dbpedia.org/resource/Richard_Pannell,http://dbpedia.org/resource/Rob_Pannell
+0,8,M. Powell,http://dbpedia.org/resource/Marvin_Powell,http://dbpedia.org/resource/Mikey_Powell http://dbpedia.org/resource/Michael_Powell_(lacrosse_player) http://dbpedia.org/resource/Michael_Powell_(lacrosse)
+0,9,L. Wootton,http://dbpedia.org/resource/Scott_Wootton,http://dbpedia.org/resource/Moon_Wootton http://dbpedia.org/resource/Lloyd_Wootton
+0,10,L. Norman,http://dbpedia.org/resource/Les_Norman_(baseball),http://dbpedia.org/resource/Les_Norman_(lacrosse)
+0,11,K. Hartzell,http://dbpedia.org/resource/Paul_Hartzell,http://dbpedia.org/resource/Kyle_Hartzell
+0,12,J. Comeau,http://dbpedia.org/resource/Blake_Comeau,http://dbpedia.org/resource/Joe_Comeau_(lacrosse)
+0,13,J. Preece,http://dbpedia.org/resource/Steve_Preece,http://dbpedia.org/resource/Jay_Preece
+0,14,J. Jalbert,http://dbpedia.org/resource/Dominic_Jalbert,http://dbpedia.org/resource/Jay_Jalbert
+0,15,D. Hamilton,http://dbpedia.org/resource/Dennis_Hamilton,http://dbpedia.org/resource/Don_Hamilton_(lacrosse)
+0,16,D. Ward,http://dbpedia.org/resource/Dedric_Ward,http://dbpedia.org/resource/Dillon_Ward
+0,17,D. Huntley,http://dbpedia.org/resource/Kevin_Huntley_(gridiron_football),http://dbpedia.org/resource/Dave_Huntley http://dbpedia.org/resource/David_Huntley
+0,18,C. Point,http://dbpedia.org/resource/Christophe_Point,http://dbpedia.org/resource/Craig_Point
+0,19,C. Jamieson,http://dbpedia.org/resource/Chris_Jamieson,http://dbpedia.org/resource/Cody_Jamieson
+0,20,C. Hill,http://dbpedia.org/resource/Craig_Hill_(footballer),http://dbpedia.org/resource/Clay_Hill_(lacrosse_player) http://dbpedia.org/resource/Clay_Hill_(lacrosse)
+0,21,B. McCready,http://dbpedia.org/resource/Scott_McCready,http://dbpedia.org/resource/Buff_McCready http://dbpedia.org/resource/Bob_McCready
+0,22,A. Murray,http://dbpedia.org/resource/Aaron_Murray,http://dbpedia.org/resource/Alyssa_murray http://dbpedia.org/resource/Alyssa_Murray

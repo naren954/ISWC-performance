@@ -1,0 +1,53 @@
+F1: 0.58197,Precision: 0.58197,Recall: 0.58197,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,Z. Jones,http://dbpedia.org/resource/Zoe_Jones_(figure_skater),http://dbpedia.org/resource/Zoe_Jones_(darts_player)
+0,3,W. Havenga,http://dbpedia.org/resource/Willie_Havenga,http://dbpedia.org/resource/Wynand_Havenga
+0,7,W. Newton,http://dbpedia.org/resource/William_Newton_(footballer),http://dbpedia.org/resource/Wes_Newton
+0,11,W. Jones,http://dbpedia.org/resource/Wayne_Jones_(footballer),http://dbpedia.org/resource/Wayne_Jones_(darts_player)
+0,14,W. French,http://dbpedia.org/resource/Walter_French_(baseball),http://dbpedia.org/resource/Warren_French
+0,18,T. Wright,http://dbpedia.org/resource/Tyler_Wright_(surfer),http://dbpedia.org/resource/Tricia_Wright
+0,19,T. Nurse,http://dbpedia.org/resource/Ty_Nurse,http://dbpedia.org/resource/Trevor_Nurse
+0,22,T. Payne,http://dbpedia.org/resource/Tim_Payne_(rugby_union),http://dbpedia.org/resource/Tony_Payne http://dbpedia.org/resource/Tony_Payne_(darts_player) http://dbpedia.org/resource/Thomas_Anthony_Payne
+0,25,T. David,http://dbpedia.org/resource/Tommy_David,http://dbpedia.org/resource/Tony_David
+0,26,T. Brown,http://dbpedia.org/resource/Tony_Brown_(English_cricketer),http://dbpedia.org/resource/Tony_Brown_(darts_player)
+0,29,T. Brown,http://dbpedia.org/resource/Tony_Brown_(English_cricketer),http://dbpedia.org/resource/Tim_Brown_dartsplayer http://dbpedia.org/resource/Tim_Brown_(darts_player)
+0,30,T. Jenkins,http://dbpedia.org/resource/Tom_Jenkins_(baseball),"http://dbpedia.org/resource/Terry_Jenkins http://dbpedia.org/resource/Terry_""The_Bull""_Jenkins"
+0,40,S. Evans,http://dbpedia.org/resource/Sidney_Evans_(footballer),http://dbpedia.org/resource/Steve_Evans_(darts_player)
+0,41,S. Douglas,http://dbpedia.org/resource/Sherman_Douglas,http://dbpedia.org/resource/Steve_Douglas_(darts_player)
+0,43,S. Brown,http://dbpedia.org/resource/Steve_Brown_(baseball),http://dbpedia.org/resource/Steve_Brown_(darts_player)
+0,44,S. Brown,http://dbpedia.org/resource/Steve_Brown_(baseball),http://dbpedia.org/resource/Steve_Brown_(English_darts_player) http://dbpedia.org/resource/Steve_Brown_(England_darts_player)
+0,47,S. Roberts,http://dbpedia.org/resource/Susan_Roberts,http://dbpedia.org/resource/Stephen_Roberts_(darts_player)
+0,53,S. Stevenson,http://dbpedia.org/resource/Shayne_Stevenson_(ice_hockey),http://dbpedia.org/resource/Simon_Stevenson
+0,54,S. Burgess,http://dbpedia.org/resource/Stuart_Burgess,http://dbpedia.org/resource/Shayne_Burgess
+0,55,S. Griffiths,http://dbpedia.org/resource/Scott_Griffiths,http://dbpedia.org/resource/Shaun_Griffiths
+0,58,S. O'Connor,http://dbpedia.org/resource/Sean_O'Connor_(ice_hockey),http://dbpedia.org/resource/Shane_O'Connor_(darts_player)
+0,59,S. Reed,http://dbpedia.org/resource/Steve_Reed_(baseball),http://dbpedia.org/resource/Sean_Reed
+0,62,S. Mitchell,http://dbpedia.org/resource/Seth_Mitchell,http://dbpedia.org/resource/Scott_Mitchell_(darts_player)
+0,69,R. Smith,http://dbpedia.org/resource/Robert_Smith_(safety),http://dbpedia.org/resource/Ross_Smith_(darts_player)
+0,70,R. Montgomery,http://dbpedia.org/resource/Randy_Montgomery,http://dbpedia.org/resource/Ross_Montgomery
+0,72,R. Sharp,http://dbpedia.org/resource/Richard_Sharp,http://dbpedia.org/resource/Ronnie_Sharp
+0,76,R. Thornton,http://dbpedia.org/resource/Rory_Thornton,http://dbpedia.org/resource/Robert_Thornton_(darts_player)
+0,77,R. MacKenzie,http://dbpedia.org/resource/Ross_MacKenzie_(footballer),http://dbpedia.org/resource/Robert_MacKenzie_(darts_player)
+0,78,R. Hughes,http://dbpedia.org/resource/Robert_Hughes_(swimmer),http://dbpedia.org/resource/Robert_Hughes_(darts_player)
+0,79,R. Green,http://dbpedia.org/resource/Robert_Green,http://dbpedia.org/resource/Robbie_Green
+0,81,R. Gardner,http://dbpedia.org/resource/Rod_Gardner,http://dbpedia.org/resource/Richie_Gardner http://dbpedia.org/resource/Ritchie_Gardner
+0,82,R. Davies,http://dbpedia.org/resource/Roger_Davies_(footballer),http://dbpedia.org/resource/Richie_Davies http://dbpedia.org/resource/Ritchie_Davies
+0,85,R. Evans,http://dbpedia.org/resource/Ron_Evans_(cricketer),http://dbpedia.org/resource/Ricky_Evans_(darts_player)
+0,87,R. Burnett,http://dbpedia.org/resource/Ryan_Burnett,http://dbpedia.org/resource/Richie_Burnett
+0,88,R. Herbert,http://dbpedia.org/resource/Ray_Herbert,http://dbpedia.org/resource/Richard_Herbert_(darts_player)
+0,89,R. Edwards,http://dbpedia.org/resource/Raheem_Edwards,http://dbpedia.org/resource/Rhian_Edwards
+0,91,R. v. Eijden,http://dbpedia.org/resource/Rens_van_Eijden,http://dbpedia.org/resource/Remco_van_Eijden
+0,92,R. Robinson,http://dbpedia.org/resource/Jackie_Robinson,http://dbpedia.org/resource/Reece_Robinson_(darts_player)
+0,94,R. Farrell,http://dbpedia.org/resource/Robert_Farrell_(cyclist),http://dbpedia.org/resource/Ray_Farrell
+0,98,P. Blackwell,http://dbpedia.org/resource/Paul_Blackwell_(footballer),http://dbpedia.org/resource/Pip_Blackwell
+0,100,P. Nixon,http://dbpedia.org/resource/Paul_Nixon,http://dbpedia.org/resource/Phill_Nixon http://dbpedia.org/resource/Phil_Nixon
+0,101,P. Taylor,http://dbpedia.org/resource/Pete_Taylor_(baseball),"http://dbpedia.org/resource/Phil_Taylor_(darts_player) http://dbpedia.org/resource/Taylor-Barneveld_rivalry http://dbpedia.org/resource/Phil_'The_Power'_Taylor http://dbpedia.org/resource/Phil_""The_Power""_Taylor"
+0,104,P. Wright,"http://dbpedia.org/resource/Peter_Wright_(footballer,_born_1934)",http://dbpedia.org/resource/Peter_Wright_(darts_player)
+0,105,P. McDonald,http://dbpedia.org/resource/Peter_McDonald_(cyclist),http://dbpedia.org/resource/Peter_McDonald_(darts_player)
+0,108,P. Johnstone,http://dbpedia.org/resource/Paul_Johnstone_(rugby_player),http://dbpedia.org/resource/Peter_Johnstone_(darts_player)
+0,111,P. Nicholson,http://dbpedia.org/resource/Philip_Nicholson_(cricketer),http://dbpedia.org/resource/Paul_Nicholson_(darts_player)
+0,113,P. Jennings,http://dbpedia.org/resource/Pat_Jennings,http://dbpedia.org/resource/Paul_Jennings_(darts_player)
+0,114,P. Hogan,http://fr.dbpedia.org/resource/Peter_Hogan,http://dbpedia.org/resource/Paul_Hogan_(darts_player)
+0,118,P. Coughlin,http://dbpedia.org/resource/Paul_Coughlin,http://dbpedia.org/resource/Paul_Coughlin_(darts_player)
+0,119,P. Carter,http://dbpedia.org/resource/Patrick_Carter_(American_football),http://dbpedia.org/resource/Paul_Carter_(darts_player)
+0,122,O. Thomas,http://dbpedia.org/resource/Orlando_Thomas,http://dbpedia.org/resource/Owen_Thomas_(darts_player)

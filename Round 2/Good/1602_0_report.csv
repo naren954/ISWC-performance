@@ -1,0 +1,8 @@
+F1: 0.95620,Precision: 0.95620,Recall: 0.95620,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,21,E. Donatelli,http://dbpedia.org/resource/Clark_Donatelli,http://dbpedia.org/resource/Eden_Donatelli
+0,71,B. Hansen,http://dbpedia.org/resource/Basil_Hansen,http://dbpedia.org/resource/Brian_Hansen_(speed_skater)
+0,78,B. d. Jong,http://dbpedia.org/resource/Bob_de_Jong,http://dbpedia.org/resource/Bert_de_Jong_(speed_skater)
+0,107,A. Thomas,http://dbpedia.org/resource/George_Thomas_(badminton),http://dbpedia.org/resource/Annamarie_Thomas
+0,114,A. Keszler,http://dbpedia.org/resource/Uschi_Keszler,http://dbpedia.org/resource/Andrea_Keszler
+0,137,Å. Søndrål,http://dbpedia.org/resource/Hans_á_Lag,http://dbpedia.org/resource/Ådne_Søndrål http://dbpedia.org/resource/Adne_Sondral

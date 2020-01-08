@@ -1,0 +1,5 @@
+"F1: 0.82353","Precision: 0.82353","Recall: 0.82353"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","10","T. Dickson","http://dbpedia.org/resource/Tommy_Dickson","http://dbpedia.org/resource/Tom_Dickson"
+"1","11","T. Dickson","http://dbpedia.org/resource/Tommy_Dickson","http://dbpedia.org/resource/Tom_Dickson"
+"1","12","L. Nichol","http://dbpedia.org/resource/Ralph_Nichols","http://dbpedia.org/resource/Lori_Nicol http://dbpedia.org/resource/Lori_Nichol"

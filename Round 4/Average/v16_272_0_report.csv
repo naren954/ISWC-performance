@@ -1,0 +1,5 @@
+F1: 0.70000,Precision: 0.70000,Recall: 0.70000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,Unforgiven,http://dbpedia.org/resource/The_Unforgiven_(1960_film),http://dbpedia.org/resource/William_Munny http://dbpedia.org/resource/Will_Munny http://dbpedia.org/resource/Unforgiven_(1992_film) http://dbpedia.org/resource/Unforgiven http://dbpedia.org/resource/Unforgiven_(film)
+0,3,Unfinished Business,http://dbpedia.org/resource/Unfinished_Business_(1985_American_film),http://dbpedia.org/resource/Business_Trip_(film) http://dbpedia.org/resource/Unfinished_Business_(2015_film)
+0,5,Unfaithfully Yours,http://dbpedia.org/resource/Unfaithfully_Yours_(1948_film),http://dbpedia.org/resource/Unfaithfully_Yours_(1984_film)

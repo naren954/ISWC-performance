@@ -1,0 +1,4 @@
+"F1: 0.77778","Precision: 0.77778","Recall: 0.77778"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","1","French aircraft carrier Foch","http://dbpedia.org/resource/French_aircraft_carrier_Arromanches","http://dbpedia.org/resource/French_aircraft_carrier_Foch_(R_99) http://dbpedia.org/resource/Foch_(R99) http://dbpedia.org/resource/FS_Foch_(1960-2000) http://dbpedia.org/resource/Foch_(R_99) http://dbpedia.org/resource/FS_Foch_(R_99) http://dbpedia.org/resource/French_aircraft_carrier_Foch_(R99) http://dbpedia.org/resource/FS_Foch"
+"0","8","Brazilian ironclad Tamandaré","http://dbpedia.org/resource/Brazilian_ironclad_Lima_Barros","http://dbpedia.org/resource/Brazilian_ironclad_Tamandare http://dbpedia.org/resource/Brazilian_ironclad_Tamandaré"

@@ -1,0 +1,6 @@
+"F1: 0.86207","Precision: 0.86207","Recall: 0.86207"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"2","1","Last to Know","http://dbpedia.org/resource/Last_to_Know","http://dbpedia.org/resource/Last_to_Know_(Human_Nature_song)"
+"2","4","Miss You Nights","http://dbpedia.org/resource/Tonight/Miss_You_Nights","http://dbpedia.org/resource/Miss_You_Nights_(song) http://dbpedia.org/resource/Miss_You_Nights"
+"2","17","I Want to Hold Your Hand","http://dbpedia.org/resource/I_Want_to_Hold_Your_Hand_(album)","http://dbpedia.org/resource/Komm,_Gib_Mir_Deine http://dbpedia.org/resource/I_want_to_hold_your_hand http://dbpedia.org/resource/Iwthyh http://dbpedia.org/resource/I_Want_to_Hold_Your_Hand_(The_Beatles_song) http://dbpedia.org/resource/I_Want_To_Hold_Your_Hand http://dbpedia.org/resource/I_wanna_hold_your_hand http://dbpedia.org/resource/I_Want_to_Hold_Your_Hand http://dbpedia.org/resource/I_Wanna_Hold_Your_Hand"
+"2","29","Gold","http://dbpedia.org/resource/Gold_(Amanda_Lear_song)","http://dbpedia.org/resource/Gold_(Prince_song)"

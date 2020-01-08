@@ -1,0 +1,4 @@
+F1: 0.81818,Precision: 0.81818,Recall: 0.81818,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,3,"Wolf Blitzer, Rose Byrne",http://dbpedia.org/resource/Rose_Byrne,"http://dbpedia.org/resource/Wolfey http://dbpedia.org/resource/Ze'ev_Barak http://dbpedia.org/resource/So_poor_and_so_black http://dbpedia.org/resource/Wolf_Blitzer http://dbpedia.org/resource/So_poor,_so_black http://dbpedia.org/resource/So_poor_so_black http://dbpedia.org/resource/Ze'ev_Blitzer"
+2,8,"Eric Bana, Holly Williams",http://dbpedia.org/resource/Eric_Williams,http://dbpedia.org/resource/Eric_bana http://dbpedia.org/resource/Eric_Bana_filmography http://dbpedia.org/resource/Eric_Bana

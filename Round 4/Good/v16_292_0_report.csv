@@ -1,0 +1,14 @@
+F1: 0.91837,Precision: 0.91837,Recall: 0.91837,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Ó. González,http://dbpedia.org/resource/Omar_Gonzalez,http://dbpedia.org/resource/Oscar_Gonzáles_(racing_driver) http://dbpedia.org/resource/Óscar_González_(racing_driver) http://dbpedia.org/resource/Oscar_Gonzales_(racing_driver) http://dbpedia.org/resource/Oscar_Gonzalez_(racing_driver)
+0,3,É. Bernard,http://dbpedia.org/resource/Jean-François_Bernard,http://dbpedia.org/resource/Eric_Bernard http://dbpedia.org/resource/Éric_Bernard
+0,16,W. Cantrell,http://dbpedia.org/resource/William_Cantrell,http://dbpedia.org/resource/Willard_Cantrell
+0,20,W. Brown,http://dbpedia.org/resource/Warwick_Brown,http://dbpedia.org/resource/Walt_Brown_(racing_driver) http://dbpedia.org/resource/Walt_Brown_(auto_racer)
+0,30,T. Taylor,http://dbpedia.org/resource/Tom_Taylor_(Glamorgan_cricketer),http://dbpedia.org/resource/Trevor_Taylor
+0,41,T. Crook,http://dbpedia.org/resource/Tony_Crook_(racing_driver),http://dbpedia.org/resource/Tony_Crook
+0,42,T. Brooks,http://dbpedia.org/resource/Tony_Brooks_(racing_driver),http://dbpedia.org/resource/Charles_Anthony_Standish_Brooks http://dbpedia.org/resource/Tony_Brooks
+0,48,T. Jones,http://dbpedia.org/resource/Trevor_Jones_(cricketer),http://dbpedia.org/resource/Tom_Jones_(auto_racer) http://dbpedia.org/resource/Tom_Jones_(racing_driver)
+0,55,T. Marques,"http://dbpedia.org/resource/John_Crichton-Stuart,_7th_Marquess_of_Bute",http://dbpedia.org/resource/Tarso_Marques
+0,56,T. Inoue,http://dbpedia.org/resource/Takeshi_Inoue_(footballer),http://dbpedia.org/resource/Takachiho_Inoue http://dbpedia.org/resource/Taki_Inoue
+0,61,S. Johansson,http://dbpedia.org/resource/Sven_Tumba,http://dbpedia.org/resource/Johansson_Motorsport http://dbpedia.org/resource/Stefan_Johansson
+0,103,R. Rodríguez,http://dbpedia.org/resource/Roldán_Rodríguez,http://dbpedia.org/resource/Ricardo_Rodríguez_de_la_Vega http://dbpedia.org/resource/Ricardo_Rodriguez_(racing_driver) http://dbpedia.org/resource/Ricardo_Rodriguez_(auto_racing) http://dbpedia.org/resource/Ricardo_Rodriguez_(Formula_One) http://dbpedia.org/resource/Ricardo_Rodríguez_(racing_driver) http://dbpedia.org/resource/Ricardo_Rodríguez_(Formula_One)

@@ -1,0 +1,5 @@
+"F1: 0.81250","Precision: 0.81250","Recall: 0.81250"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","6","Kangra","http://dbpedia.org/resource/Nagpur_district","http://dbpedia.org/resource/Lambagraon http://dbpedia.org/resource/Kangra_State http://dbpedia.org/resource/Kangra-Lambagraon"
+"0","9","Malerkotla","http://dbpedia.org/resource/Malerkotla_State","http://dbpedia.org/resource/Malerkotla http://dbpedia.org/resource/History_of_Malerkotla http://dbpedia.org/resource/Malair_Kotla"
+"0","16","Tehri Garhwal","http://dbpedia.org/resource/Tehri_Garhwal_district","http://dbpedia.org/resource/Kedarkhand http://dbpedia.org/resource/Maharaja_of_Tehri_Garhwal http://dbpedia.org/resource/Tehri_Garhwal_State http://dbpedia.org/resource/Garhwal_Kingdom"

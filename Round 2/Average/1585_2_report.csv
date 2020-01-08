@@ -1,0 +1,34 @@
+F1: 0.73333,Precision: 0.73333,Recall: 0.73333,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,4,Baby It's You,http://dbpedia.org/resource/Baby_It's_You_(JoJo_song),http://dbpedia.org/resource/Baby_It's_You_(The_Shirelles_song) http://dbpedia.org/resource/Baby_It's_You_(song) http://dbpedia.org/resource/Baby_It's_You_(Shirelles_song) http://dbpedia.org/resource/Baby_It's_You http://dbpedia.org/resource/Baby_It's_You_(Shirelles) http://dbpedia.org/resource/Baby_It's_You_(The_Beatles_song)
+2,5,Leave Me Alone,http://dbpedia.org/resource/Leave_Me_Alone_(Michael_Jackson_song),"http://dbpedia.org/resource/Leave_Me_Alone_(I'm_Lonley) http://dbpedia.org/resource/Leave_Me_Alone_(I'm_Lonely) http://dbpedia.org/resource/I'm_Lonely http://dbpedia.org/resource/Leave_Me_Alone,_I'm_Lonely http://dbpedia.org/resource/Leave_Me_Alone_(I'm_Lonely)/Dear_Mr._President"
+2,6,Candy/Molly's Lips,http://dbpedia.org/resource/Candy_/_Molly's_Lips,http://dbpedia.org/resource/Molly's_lips http://dbpedia.org/resource/Molly's_Lips http://dbpedia.org/resource/Candy/Molly's_Lips
+2,16,Bee,http://dbpedia.org/resource/Bee_Gees,http://dbpedia.org/resource/Bee_(Jennifer_Braun_song) http://dbpedia.org/resource/Bee_(Lena_Meyer-Landrut_song) http://dbpedia.org/resource/Bee_(song)
+2,19,This Time,http://dbpedia.org/resource/Waka_Waka_(This_Time_for_Africa),http://dbpedia.org/resource/This_Time_(Bryan_Adams_song)
+2,20,Lay Down,http://dbpedia.org/resource/Lay_Down,http://dbpedia.org/resource/Lay_Down_(song) http://dbpedia.org/resource/Lay_Down_(Candles_in_the_Rain) http://dbpedia.org/resource/Lay_Down_(Candles_In_The_Rain)
+2,28,Autobahn,http://dbpedia.org/resource/Autobahn_(album),http://dbpedia.org/resource/Autobahn_(Song) http://dbpedia.org/resource/Autobahn_(song)
+2,29,Monster,http://dbpedia.org/resource/Monster_(Paramore_song),http://dbpedia.org/resource/Monster_(Imagine_Dragons_song)
+2,38,Love Me Do,http://dbpedia.org/resource/Love_Me_(Justin_Bieber_song),http://dbpedia.org/resource/Love_me_do http://dbpedia.org/resource/Love_Me_Do_(The_Beatles_song) http://dbpedia.org/resource/Love_Me_Do
+2,41,Saint,http://dbpedia.org/resource/The_Saints_(Australian_band),http://dbpedia.org/resource/(s)AINT http://dbpedia.org/resource/Saint_(song)
+2,45,We Can Work It Out,http://dbpedia.org/resource/We_Can_Work_It_Out_(Sweetbox_song),http://dbpedia.org/resource/We_Can't_Work_It_Out http://dbpedia.org/resource/We_can_work_it_out http://dbpedia.org/resource/We_Can_Work_It_Out http://dbpedia.org/resource/We_Can_Work_It_Out_(The_Beatles_song)
+2,47,Predictable,http://dbpedia.org/resource/Predictable_(Good_Charlotte_song),http://dbpedia.org/resource/Predictable_(Delta_Goodrem_song)
+2,55,What About Now,http://dbpedia.org/resource/What_About_Now_(album),http://dbpedia.org/resource/What_About_Now_(Westlife_song) http://dbpedia.org/resource/What_About_Now_(Daughtry_song) http://dbpedia.org/resource/What_About_Now_(Westlife_cover)
+2,56,Cheapskate,http://dbpedia.org/resource/Cheapskate_(song),http://dbpedia.org/resource/Cheapskate_(You_Ain't_Gettin'_Nada)
+2,58,Summertime,http://dbpedia.org/resource/Summertime_(Kenny_Chesney_song),http://dbpedia.org/resource/Summertime_(Beyoncé_Knowles_song) http://dbpedia.org/resource/Summertime_(Beyoncé_song) http://dbpedia.org/resource/Summertime_(Beyonce_song) http://dbpedia.org/resource/Summertime_(Beyonce_Knowles_song)
+2,61,Girl,http://dbpedia.org/resource/Girl_(Destiny's_Child_song),http://dbpedia.org/resource/Girl_(Why_You_Wanna_Make_Me_Blue)
+2,64,Silhouettes,http://dbpedia.org/resource/Silhouettes_(Avicii_song),http://dbpedia.org/resource/Silhouettes_(The_Rays_song) http://dbpedia.org/resource/Silhouettes_(song)
+2,66,Out of the Blue,http://dbpedia.org/resource/Out_of_the_Blue_(Debbie_Gibson_song),http://dbpedia.org/resource/Out_of_the_Blue_(Delta_Goodrem_Song) http://dbpedia.org/resource/Out_of_the_Blue_(Delta_Goodrem_song)
+2,68,Hot Stuff,http://dbpedia.org/resource/Hot_Stuff_(Donna_Summer_song),http://dbpedia.org/resource/Hot_Stuff_(The_Rolling_Stones_song) http://dbpedia.org/resource/Hot_Stuff_(Rolling_Stones_song)
+2,74,Love Her,http://dbpedia.org/resource/I_Love_Her,http://dbpedia.org/resource/Love_Her_(song)
+2,75,I Am What I Am,http://dbpedia.org/resource/I_Am_What_I_Am_(Broadway_musical_song),http://dbpedia.org/resource/I_Am_What_I_Am_(Village_People_song) http://dbpedia.org/resource/Key_West_(song)
+2,76,Lady of the Night,http://dbpedia.org/resource/Marry_the_Night,http://dbpedia.org/resource/Lady_of_the_Night_(song) http://dbpedia.org/resource/Lady_of_the_Night_(album)
+2,79,Get Up,http://dbpedia.org/resource/Get_Up_(Ciara_song),http://dbpedia.org/resource/Get_Up_(R.E.M._song) http://dbpedia.org/resource/Get_Up_(R.E.M_song)
+2,83,Come Together,http://dbpedia.org/resource/Come_Together_(Primal_Scream_song),http://dbpedia.org/resource/Come_together http://dbpedia.org/resource/Come_Together http://dbpedia.org/resource/Come_Together_(Michael_Jackson_song) http://dbpedia.org/resource/Come_Together_(The_Beatles_song)
+2,91,"Hello, Goodbye",http://dbpedia.org/resource/Hello_Goodbye_(Tyler_Farr_song),"http://dbpedia.org/resource/Hello,_Goodbye http://dbpedia.org/resource/Hello_Goodbye http://dbpedia.org/resource/Hello,_goodbye http://dbpedia.org/resource/Hello_Goodbye_(Jonas_Brothers_song) http://dbpedia.org/resource/Hello,_Goodbye_(The_Beatles_song) http://dbpedia.org/resource/Hello-goodbye"
+2,93,America,http://dbpedia.org/resource/America_(America_album),http://dbpedia.org/resource/America_(Prince_song) http://dbpedia.org/resource/America_(Prince)
+2,100,Charade,http://dbpedia.org/resource/Charade_(Alice_album),http://dbpedia.org/resource/Charade_(Bee_Gees_song)
+2,110,Stuck on You,http://dbpedia.org/resource/Stuck_on_You_(Lionel_Richie_song),http://dbpedia.org/resource/Stuck_On_You_(Elvis_Presley_song) http://dbpedia.org/resource/Stuck_on_You_(Elvis_Presley_song)
+2,113,End of the Road,http://dbpedia.org/resource/End_of_the_Road_(Boyz_II_Men_song),http://dbpedia.org/resource/End_of_The_Road http://dbpedia.org/resource/Al_Final_Del_Camino http://dbpedia.org/resource/End_of_the_road http://dbpedia.org/resource/Al_Final_del_Camino http://dbpedia.org/resource/End_Of_The_Road http://dbpedia.org/resource/End_of_the_Road
+2,117,(Loneliness Made Me Realize) It's You That I Need,http://dbpedia.org/resource/It's_You_That_I_Need,http://dbpedia.org/resource/(Loneliness_Made_Me_Realize)_It's_You_That_I_Need
+2,118,She Loves You,http://dbpedia.org/resource/She_Loves_You_(The_Twilight_Singers_album),http://dbpedia.org/resource/She_loves_you http://dbpedia.org/resource/She_Loves_You http://dbpedia.org/resource/She_Loves_You_(The_Beatles_song)
+2,120,Steeltown Records,,http://dbpedia.org/resource/The_Steeltown_Sessions http://dbpedia.org/resource/Steeltown_Records

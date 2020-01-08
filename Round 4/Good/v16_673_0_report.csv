@@ -1,0 +1,12 @@
+F1: 0.92754,Precision: 0.92754,Recall: 0.92754,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,23,Untamed,http://dbpedia.org/resource/Untamed_(Cast_novel),http://dbpedia.org/resource/Untamed_(Sara_Humphreys_book)
+0,33,Undone,http://dbpedia.org/resource/Undone_(Humphreys_novel),http://dbpedia.org/resource/Undone_(Sara_Humphreys_book)
+0,38,Under Heaven,http://dbpedia.org/resource/Under_Heaven_(novel),http://dbpedia.org/resource/Under_Heaven_(book)
+0,57,Twilight of the Gods,http://dbpedia.org/resource/Twilight_of_the_Gods_(Clapham_and_Miller_novel),http://dbpedia.org/resource/Twilight_of_the_Gods_(Bulis_novel) http://dbpedia.org/resource/Twilight_of_the_Gods_(Doctor_Who)
+0,59,Twilight,http://dbpedia.org/resource/Twilight_(Meyer_novel),http://dbpedia.org/resource/Twilight_(Hunter) http://dbpedia.org/resource/Twilight_(Warriors) http://dbpedia.org/resource/Twilight_(Hunter_novel)
+0,72,Truth,http://dbpedia.org/resource/Truth_(Chiddy_Bang_song),http://dbpedia.org/resource/Truth_(novel)
+0,101,Treasure Hunters,http://dbpedia.org/resource/Treasure_Hunters_(comic),http://dbpedia.org/resource/Treasure_Hunters_(book)
+0,111,Trapped,http://dbpedia.org/resource/Trapped_(Gardner_novel),http://dbpedia.org/resource/Trapped_(2012_novel) http://dbpedia.org/resource/Trapped_(Kevin_Hearne_novel) http://dbpedia.org/resource/Trapped_(Hearne_novel)
+0,124,Trace,http://dbpedia.org/resource/Trace_(magazine),http://dbpedia.org/resource/Trace_(novel)
+0,125,Toxin,http://dbpedia.org/resource/Toxins_(journal),http://dbpedia.org/resource/Toxin_(novel)

@@ -1,0 +1,7 @@
+F1: 0.83333,Precision: 0.83333,Recall: 0.83333,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,USS Tourmaline,http://dbpedia.org/resource/HMS_Tourmaline_(J339),http://dbpedia.org/resource/USS_Tourmaline_(PY-20)
+0,5,USS Tortuga,http://dbpedia.org/resource/USS_Tortuga_(LSD-26),http://dbpedia.org/resource/USS_Tortuga_(LSD-46) http://dbpedia.org/resource/USS_Tortuga_(LSD_46)
+0,25,USS Tinosa,http://dbpedia.org/resource/USS_Tinosa_(SS-283),http://dbpedia.org/resource/SSN-606 http://dbpedia.org/resource/USS_Tinosa_(SSN-606)
+0,27,USS Tingey,http://dbpedia.org/resource/USS_Tingey_(DD-539),http://dbpedia.org/resource/USS_Tingey_(TB-34)
+0,29,USS Tingey,http://dbpedia.org/resource/USS_Tingey_(DD-539),http://dbpedia.org/resource/USS_Tingey_(DD-272)

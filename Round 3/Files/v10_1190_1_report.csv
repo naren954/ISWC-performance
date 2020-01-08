@@ -1,0 +1,4 @@
+"F1: 0.66667","Precision: 0.66667","Recall: 0.66667"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","2","A. Hoover","http://dbpedia.org/resource/Herbert_Hoover","http://dbpedia.org/resource/Allen_Hoover http://dbpedia.org/resource/Allan_Henry_Hoover http://dbpedia.org/resource/Allan_Hoover"
+"1","5","S. Whelan","http://dbpedia.org/resource/Jim_Whelan","http://dbpedia.org/resource/Susan_Whelan"

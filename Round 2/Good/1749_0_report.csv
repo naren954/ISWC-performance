@@ -1,0 +1,13 @@
+F1: 0.90435,Precision: 0.90435,Recall: 0.90435,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,19,Mr. Bean,http://dbpedia.org/resource/Bean_(film),http://dbpedia.org/resource/Mr._Bean_(Mr._Bean) http://dbpedia.org/resource/Mr._Bean_(episode) http://dbpedia.org/resource/Mr._Bean_(Mr._Bean_episode)
+0,31,Michael,,http://dbpedia.org/resource/Michael_(Glee)
+0,66,Lockdown,http://dbpedia.org/resource/Lockdown_(Stargate_SG-1),http://dbpedia.org/resource/Lockedown_(Lost) http://dbpedia.org/resource/Lockdown_(Lost_episode) http://dbpedia.org/resource/Lockdown_(Lost)
+0,74,Life Support,http://dbpedia.org/resource/Life_Support_(film),http://dbpedia.org/resource/Life_Support_(Star_Trek:_Deep_Space_Nine) http://dbpedia.org/resource/Life_Support_(DS9) http://dbpedia.org/resource/Life_Support_(DS9_episode)
+0,77,Legacy,http://dbpedia.org/resource/Tron:_Legacy,http://dbpedia.org/resource/Legacy_(TNG_episode) http://dbpedia.org/resource/Legacy_(Star_Trek:_The_Next_Generation)
+0,91,Justice,http://dbpedia.org/resource/Batman_v_Superman:_Dawn_of_Justice,http://dbpedia.org/resource/Justice_(Star_Trek) http://dbpedia.org/resource/Justice_(TNG_episode) http://dbpedia.org/resource/Justice_(Star_Trek:_The_Next_Generation)
+0,100,Investigations,http://dbpedia.org/resource/Private_Investigations,http://dbpedia.org/resource/Investigations_(Star_Trek:_Voyager) http://dbpedia.org/resource/Investigations_(Voyager_episode) http://dbpedia.org/resource/Investigations_(VOY)
+0,102,Invasion,http://dbpedia.org/resource/The_Invasion_(Doctor_Who),http://dbpedia.org/resource/Invasion_(Grey's_Anatomy)
+0,104,Interface,http://dbpedia.org/resource/Interface_(album),http://dbpedia.org/resource/Interface_(TNG_episode) http://dbpedia.org/resource/Interface_(Star_Trek:_The_Next_Generation)
+0,108,Indifference,,http://dbpedia.org/resource/Indifference_(The_Walking_Dead)
+0,112,In Control,http://dbpedia.org/resource/No_Control_(Bad_Religion_album),http://dbpedia.org/resource/In_Control_(The_Americans)

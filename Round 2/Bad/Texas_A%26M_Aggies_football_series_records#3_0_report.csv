@@ -1,0 +1,4 @@
+F1: 0.33333,Precision: 0.33333,Recall: 0.33333,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,GAC[21],http://dbpedia.org/resource/GAC_Group,http://dbpedia.org/resource/Great_American_Conference
+0,3,LSC[22],http://dbpedia.org/resource/Leinster_Senior_Cup_(association_football),http://dbpedia.org/resource/Lone_Star_Conference

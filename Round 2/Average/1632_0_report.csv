@@ -1,0 +1,44 @@
+F1: 0.72185,Precision: 0.72185,Recall: 0.72185,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,4,J. L. Montes,,http://dbpedia.org/resource/Jose_Luis_Montes http://dbpedia.org/resource/José_Luis_Montes
+0,8,J. L. Corona,http://dbpedia.org/resource/Pepe_Corona,http://dbpedia.org/resource/José_Llopis http://dbpedia.org/resource/José_Llopis_Corona http://dbpedia.org/resource/Jose_Llopis_Corona http://dbpedia.org/resource/Pepe_Llopis
+0,19,J. A. Torres,http://dbpedia.org/resource/José_Anthony_Torres,http://dbpedia.org/resource/Jose_Augusto_Torres http://dbpedia.org/resource/José_Augusto_Torres
+0,24,J. Vieira,http://dbpedia.org/resource/Jorvan_Vieira,http://dbpedia.org/resource/Jorge_Vieira
+0,25,J. S. Landaverde,http://dbpedia.org/resource/José_S._Landaverde,http://dbpedia.org/resource/Jorge_Suarez_Landaverde http://dbpedia.org/resource/Jorge_Suárez_Landaverde
+0,30,J. Williams,http://dbpedia.org/resource/Justin_Williams_(basketball),"http://dbpedia.org/resource/Johnny_Williams_(footballer,_born_1935) http://dbpedia.org/resource/John_Stanley_James_Williams http://dbpedia.org/resource/Johnny_Williams_(footballer_born_1935)"
+0,40,J. Keane,http://dbpedia.org/resource/Jim_Keane,http://dbpedia.org/resource/John_Joseph_Keane_(baseball) http://dbpedia.org/resource/Johnny_Keane
+0,44,J. Brooks,"http://dbpedia.org/resource/John_Brooks_(footballer,_born_1956)",http://dbpedia.org/resource/Johnny_Brooks
+0,47,J. Waite,http://dbpedia.org/resource/Jamie_Waite,http://dbpedia.org/resource/John_Waite_(footballer)
+0,51,J. T. Ford,http://dbpedia.org/resource/T._J._Ford,"http://dbpedia.org/resource/John_T._Ford http://dbpedia.org/resource/John_Thompson_Ford http://dbpedia.org/resource/Ford,_John_Thompson http://dbpedia.org/resource/John_Thomson_Ford"
+0,53,J. Smith,http://dbpedia.org/resource/Jack_Smith_(outfielder),"http://dbpedia.org/resource/John_Smith_(footballer,_born_1939) http://dbpedia.org/resource/John_Smith_(footballer_born_1939) http://dbpedia.org/resource/John_Smith_(association_footballer) http://dbpedia.org/resource/John_Smith_(Association_Football)"
+0,54,J. Simpson,http://dbpedia.org/resource/Jock_Simpson,"http://dbpedia.org/resource/John_Simpson_(footballer_born_1918) http://dbpedia.org/resource/John_Simpson_(footballer,_born_1918)"
+0,56,J. Roberts,http://dbpedia.org/resource/Jeron_Roberts,"http://dbpedia.org/resource/John_Roberts_(footballer_born_1946) http://dbpedia.org/resource/John_Roberts_(footballer,_born_1946) http://dbpedia.org/resource/John_Roberts_(Welsh_footballer)"
+0,61,J. Page,http://dbpedia.org/resource/Joe_Page,http://dbpedia.org/resource/John_Page_(footballer)
+0,70,J. King,http://dbpedia.org/resource/James_King_(footballer),"http://dbpedia.org/resource/John_King_(footballer_born_1938) http://dbpedia.org/resource/John_King_(footballer,_born_1938) http://dbpedia.org/resource/John_Allen_King"
+0,71,J. K. Sr.,"http://dbpedia.org/resource/Joe_Kendrick_(footballer,_born_1905)","http://dbpedia.org/resource/John_Kerr,_Sr._(soccer) http://dbpedia.org/resource/John_Kerr,_Sr."
+0,73,J. Johnston,http://dbpedia.org/resource/Johnny_Johnston_(baseball),"http://dbpedia.org/resource/John_Johnston_(footballer,_born_1878)"
+0,74,J. Jackson,"http://dbpedia.org/resource/Jimmy_Jackson_(footballer,_born_1875)",http://dbpedia.org/resource/John_Jackson_(football_manager)
+0,76,J. Hunter,http://dbpedia.org/resource/Justin_Hunter,http://dbpedia.org/resource/John_Hunter_(player) http://dbpedia.org/resource/John_'Sailor'_Hunter http://dbpedia.org/resource/John_Hunter_(footballer)
+0,77,J. Hulme,http://dbpedia.org/resource/Joe_Hulme,http://dbpedia.org/resource/John_Hulme_(footballer)
+0,80,J. Harris,http://dbpedia.org/resource/Joe_Harris_(first_baseman),"http://dbpedia.org/resource/John_Harris_(footballer,_born_1917) http://dbpedia.org/resource/John_Harris_(Scottish_footballer) http://dbpedia.org/resource/John_Harris_(footballer_born_1917)"
+0,82,J. Hansen,http://dbpedia.org/resource/Jesper_Hansen_(football_manager),"http://dbpedia.org/resource/John_Hansen_(1924-1990) http://dbpedia.org/resource/John_Hansen_(1924_footballer) http://dbpedia.org/resource/John_Hansen_(footballer,_born_1924) http://dbpedia.org/resource/John_Hansen_(footballer_born_1924) http://dbpedia.org/resource/John_Angelo_Hansen http://dbpedia.org/resource/John_Hansen_(Danish_footballer)"
+0,87,J. Evans,http://dbpedia.org/resource/Jack_Evans_(ice_hockey),"http://dbpedia.org/resource/John_Evans_(footballer_born_1929) http://dbpedia.org/resource/John_Evans_(footballer) http://dbpedia.org/resource/John_Evans_(footballer,_born_1929)"
+0,90,J. Chapman,http://dbpedia.org/resource/Jack_Chapman,http://dbpedia.org/resource/John_Chapman_(football_manager) http://dbpedia.org/resource/John_Chapman_(footballer)
+0,100,J. Benson,http://dbpedia.org/resource/Jenny_Benson,http://dbpedia.org/resource/John_Benson_(footballer)
+0,104,J. Wilson,http://dbpedia.org/resource/Jim_Wilson_(pitcher),"http://dbpedia.org/resource/Joe_Wilson_(footballer,_born_1911)"
+0,106,J. Wade,http://dbpedia.org/resource/Jake_Wade_(baseball),http://dbpedia.org/resource/Joe_Wade
+0,107,J. Thomas,http://dbpedia.org/resource/Johnny_Thomas_(footballer),http://dbpedia.org/resource/Joe_Thomas_(football_executive) http://dbpedia.org/resource/Joe_Thomas_(American_football_executive) http://dbpedia.org/resource/Joe_Thomas_(football_coach)
+0,108,J. Smith,http://dbpedia.org/resource/Jack_Smith_(outfielder),"http://dbpedia.org/resource/Joe_Smith_(footballer_born_1890) http://dbpedia.org/resource/Joe_Smith_(footballer,_born_1890)"
+0,109,J. Smith,http://dbpedia.org/resource/Jack_Smith_(outfielder),"http://dbpedia.org/resource/Joe_Smith_(football_forward_born_1889) http://dbpedia.org/resource/Joe_Smith_(footballer,_1889–1971) http://dbpedia.org/resource/Joe_Smith_(football_manager) http://dbpedia.org/resource/Joe_Smith_(football_forward,_born_1889) http://dbpedia.org/resource/Joe_Smith_(footballer,_1889-1971)"
+0,110,J. Shaw,"http://dbpedia.org/resource/Joe_Shaw_(footballer,_born_1883)","http://dbpedia.org/resource/Joe_Shaw_(footballer,_born_1928) http://dbpedia.org/resource/Joe_Shaw_(footballer_born_1928) http://dbpedia.org/resource/Joe_Shaw_(Sheffield_United)"
+0,112,J. Schofield,http://dbpedia.org/resource/Johnny_Schofield,http://dbpedia.org/resource/Joseph_Alfred_Schofield http://dbpedia.org/resource/Joe_Schofield
+0,113,J. Robinson,http://dbpedia.org/resource/Jackie_Robinson_(footballer),"http://dbpedia.org/resource/Joe_Robinson_(footballer,_born_1919) http://dbpedia.org/resource/Joe_Robinson_(footballer)"
+0,122,J. Harvey,http://dbpedia.org/resource/Jim_Harvey,http://dbpedia.org/resource/Joe_Harvey
+0,130,J. Brown,http://dbpedia.org/resource/Jerry_Brown_(gridiron_football),"http://dbpedia.org/resource/Joe_Brown_(footballer,_born_1929) http://dbpedia.org/resource/Joe_Brown_(footballer_born_1929)"
+0,131,J. Baker,http://dbpedia.org/resource/Jesse_Baker_(pitcher),http://dbpedia.org/resource/Joe_Baker
+0,134,J. W. Jr.,http://dbpedia.org/resource/Joe_Whitt_Jr.,"http://dbpedia.org/resource/Jock_Wallace,_Jr. http://dbpedia.org/resource/Jock_Wallace,_Jr http://dbpedia.org/resource/Jock_Wallace"
+0,135,J. Taylor,"http://dbpedia.org/resource/Joseph_Taylor_(footballer,_born_1850)","http://dbpedia.org/resource/Jock_Taylor_(footballer,_born_1909) http://dbpedia.org/resource/Jock_Taylor_(footballer_born_1909)"
+0,137,J. Shearer,http://dbpedia.org/resource/Alan_Shearer,http://dbpedia.org/resource/Jock_Shearer
+0,141,J. McLean,http://dbpedia.org/resource/Jim_McLean,http://dbpedia.org/resource/Jock_McLean
+0,142,J. Hamilton,"http://dbpedia.org/resource/Johnny_Hamilton_(footballer,_born_1935)",http://dbpedia.org/resource/Jock_Hamilton
+0,145,Joaquim Filipe dos Santos,http://dbpedia.org/resource/Filipe_dos_Santos,http://dbpedia.org/resource/Joaquim_Filipe_dos_Santos

@@ -1,0 +1,19 @@
+F1: 0.76056,Precision: 0.76056,Recall: 0.76056,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,Yugoslav monitor Drava,http://dbpedia.org/resource/SMS_Körös,http://dbpedia.org/resource/Yugoslav_monitor_Drava http://dbpedia.org/resource/SMS_Enns
+0,6,Viking,http://dbpedia.org/resource/MS_Color_Viking,http://dbpedia.org/resource/Viking_(barque) http://dbpedia.org/resource/Barken_Viking http://dbpedia.org/resource/Barque_Viking http://dbpedia.org/resource/Viking_(Barque)
+0,13,USS West Corum,http://dbpedia.org/resource/USS_West_Carnifax_(ID-3812),http://dbpedia.org/resource/USAT_Will_H._Point http://dbpedia.org/resource/SS_West_Corum http://dbpedia.org/resource/USAT_William_H._Point http://dbpedia.org/resource/USS_West_Corum http://dbpedia.org/resource/SS_Will_H._Point http://dbpedia.org/resource/USAT_West_Corum http://dbpedia.org/resource/USS_West_Corum_(ID-3982) http://dbpedia.org/resource/SS_William_H._Point
+0,23,USS Undaunted,http://dbpedia.org/resource/HMS_Undaunted_(N55),http://dbpedia.org/resource/USS_Undaunted_(ATA-199) http://dbpedia.org/resource/USS_ATR-126
+0,26,USS Thresher,http://dbpedia.org/resource/USS_Thresher_(SS-200),http://dbpedia.org/resource/SSN-593 http://dbpedia.org/resource/USS_Thresher_(SSN-593) http://dbpedia.org/resource/Exceeding_test_depth
+0,27,USS Texas,http://dbpedia.org/resource/USS_Texas_(BB-35),http://dbpedia.org/resource/SSN-775 http://dbpedia.org/resource/USS_Texas_(SSN_775) http://dbpedia.org/resource/USS_Texas_(SSN-775)
+0,28,USS Texas,http://dbpedia.org/resource/USS_Texas_(BB-35),http://dbpedia.org/resource/USS_Texas_(CGN-39) http://dbpedia.org/resource/USS_Texas_(DLGN-39)
+0,29,USS Taylor,http://dbpedia.org/resource/USS_Taylor_(DD-468),http://dbpedia.org/resource/USS_Taylor_(DD-94)
+0,32,USS Sunnadin,http://dbpedia.org/resource/USS_Sunnadin_(AT-28),http://dbpedia.org/resource/USS_Sunnadin_(ATA-197) http://dbpedia.org/resource/USS_ATR-124
+0,34,USS Stewart,http://dbpedia.org/resource/USS_Stewart_(DE-238),http://dbpedia.org/resource/USS_Stewart_(DD-224) http://dbpedia.org/resource/Japanese_Patrol_Boat_No._102
+0,38,USS Sonoma,http://dbpedia.org/resource/USS_Sonoma_(AT-12),http://dbpedia.org/resource/USS_ATR-102 http://dbpedia.org/resource/USS_AT-175 http://dbpedia.org/resource/USS_Sonoma_(AT-175) http://dbpedia.org/resource/USS_Sonoma_(ATA-175)
+0,53,USS Pinola,http://dbpedia.org/resource/USS_Pinola_(AT-33),http://dbpedia.org/resource/USS_Pinola_(ATA-206) http://dbpedia.org/resource/ROKS_Do_Bong_(ATA-32) http://dbpedia.org/resource/ROKS_Dobong_(ATA-32) http://dbpedia.org/resource/ROKS_Do_Bong_(ATA-3) http://dbpedia.org/resource/USS_ATR-133
+0,58,USS PCS-1450,http://dbpedia.org/resource/USS_PCS-1376,http://dbpedia.org/resource/USS_PC-1450 http://dbpedia.org/resource/USC&GS_Hodgson_(CSS_26) http://dbpedia.org/resource/PCS-1450 http://dbpedia.org/resource/USS_PCS-1450
+0,59,USS PC-552,http://dbpedia.org/resource/USS_PC-542,http://dbpedia.org/resource/USS_PC-552
+0,63,USS New Mexico,http://dbpedia.org/resource/USS_New_Mexico_(BB-40),http://dbpedia.org/resource/USS_New_Mexico_(SSN_779) http://dbpedia.org/resource/SSN-779 http://dbpedia.org/resource/USS_New_Mexico_(SSN-779)
+0,66,USS Nashville,http://dbpedia.org/resource/USS_Nashville_(PG-7),http://dbpedia.org/resource/USS_Nashville_(LPD-13) http://dbpedia.org/resource/LPD-13
+0,68,USS Mercury,http://dbpedia.org/resource/USS_Mercury_(ID-3012),http://dbpedia.org/resource/AK-42 http://dbpedia.org/resource/SS_Lightning http://dbpedia.org/resource/SS_lightning_bolts http://dbpedia.org/resource/SS_Mormactern_(1939) http://dbpedia.org/resource/USS_Mercury_(AKS-20) http://dbpedia.org/resource/USS_Mercury_(AK-42)

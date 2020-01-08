@@ -1,0 +1,13 @@
+F1: 0.84058,Precision: 0.84058,Recall: 0.84058,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,W. K. Morrill,http://dbpedia.org/resource/W._K._Hicks,http://dbpedia.org/resource/William_Kelso_Morrill
+0,6,W. Moore,http://dbpedia.org/resource/Wilbur_Moore,http://dbpedia.org/resource/Wilford_Moore
+0,8,W. Miller,"http://dbpedia.org/resource/William_Miller_(footballer,_born_1875)",http://dbpedia.org/resource/L._F._Miller http://dbpedia.org/resource/Louis_Miller_(basketball) http://dbpedia.org/resource/Weenie_Miller
+0,19,W. Walker,http://dbpedia.org/resource/George_H._W._Bush,http://dbpedia.org/resource/Wade_Walker
+0,28,T. Clark,http://dbpedia.org/resource/Tony_Clark,http://dbpedia.org/resource/Torchy_Clark http://dbpedia.org/resource/Gene_Clark_(basketball)
+0,37,T. Morris,"http://dbpedia.org/resource/Tom_Morris_(footballer,_born_1884)",http://dbpedia.org/resource/Allan_Morris_(Canadian_football) http://dbpedia.org/resource/Ted_Morris http://dbpedia.org/resource/Teddy_Morris
+0,45,S. Marshall,http://dbpedia.org/resource/Sean_Marshall_(basketball),http://dbpedia.org/resource/Stanley_Marshall
+0,50,S. Quilty,http://dbpedia.org/resource/Johnny_Quilty,http://dbpedia.org/resource/Silver_Quilty
+0,54,S. Williams,http://dbpedia.org/resource/Sam_Williams_(linebacker),"http://dbpedia.org/resource/Sam_Williams_(basketball_coach) http://dbpedia.org/resource/Sam_Williams_(basketball,_born_1924)"
+0,60,S. D. Crawford,http://dbpedia.org/resource/Sax_Crawford,http://dbpedia.org/resource/S_D_Crawford http://dbpedia.org/resource/S.D._Crawford http://dbpedia.org/resource/SD_Crawford http://dbpedia.org/resource/S._D._Crawford
+0,64,R. Jacobs,http://dbpedia.org/resource/Ron_Jacobs_(rugby_union),http://dbpedia.org/resource/Ron_Jacobs_(basketball) http://dbpedia.org/resource/Ron_Jacobs_(basketball_coach)

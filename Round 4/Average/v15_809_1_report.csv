@@ -1,0 +1,8 @@
+F1: 0.62500,Precision: 0.62500,Recall: 0.62500,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,Guoman Hotels,http://dbpedia.org/resource/Cabinn_Hotels,http://dbpedia.org/resource/Glh. http://dbpedia.org/resource/Guoman_Hotels
+1,3,Carlson Rezidor Hotel Group,http://dbpedia.org/resource/Radisson_Hotel_Group,http://dbpedia.org/resource/RezidorSAS http://dbpedia.org/resource/Carlson_Rezidor_Hotel_Group http://dbpedia.org/resource/Rezidor_Hotel_Group http://dbpedia.org/resource/Carlson_Rezidor http://dbpedia.org/resource/Rezidor
+1,5,Marriott Vacation Club,http://dbpedia.org/resource/Marriott_International,http://dbpedia.org/resource/Marriott_Vacation_Club http://dbpedia.org/resource/Marriott_Vacation_Club_International http://dbpedia.org/resource/MVCI
+1,10,InterContinental,http://dbpedia.org/resource/InterContinental_Hotels_Group,http://dbpedia.org/resource/InterContinental http://dbpedia.org/resource/InterContinental_Hotel http://dbpedia.org/resource/InterContinental_Hotels_&_Resorts http://dbpedia.org/resource/Hotel_InterContinental http://dbpedia.org/resource/Intercontinental_Hotel
+1,11,InterContinental,http://dbpedia.org/resource/InterContinental_Hotels_Group,http://dbpedia.org/resource/InterContinental http://dbpedia.org/resource/InterContinental_Hotel http://dbpedia.org/resource/InterContinental_Hotels_&_Resorts http://dbpedia.org/resource/Hotel_InterContinental http://dbpedia.org/resource/Intercontinental_Hotel
+1,12,"ITC Welcomgroup Hotels, Palaces and Resorts","http://dbpedia.org/resource/The_Leela_Palaces,_Hotels_and_Resorts","http://dbpedia.org/resource/ITC_Welcomegroup http://dbpedia.org/resource/ITC_Welcomgroup_Hotels,_Palaces_and_Resorts http://dbpedia.org/resource/ITC_WelcomGroup http://dbpedia.org/resource/ITC_Hotels"

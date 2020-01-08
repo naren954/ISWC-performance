@@ -1,0 +1,21 @@
+F1: 0.42424,Precision: 0.42424,Recall: 0.42424,,
+Col,Row,Value,Submitted URI,Correct URI's
+5,2,"Foyle, Kenny (og), Naylor",http://dbpedia.org/resource/Lee_Naylor_(footballer),http://dbpedia.org/resource/Martin_John_Foyle http://dbpedia.org/resource/Martin_Foyle
+5,4,"Burke, L.Glover",http://dbpedia.org/resource/Steven_Burke,http://dbpedia.org/resource/Mark_Burke http://dbpedia.org/resource/Mark_Stephen_Burke
+5,6,"L.Glover, Naylor",http://dbpedia.org/resource/Lee_Naylor_(footballer),http://dbpedia.org/resource/Lee_Glover http://dbpedia.org/resource/Edward_Lee_Glover
+5,8,"L.Glover, Naylor",http://dbpedia.org/resource/Lee_Naylor_(footballer),http://dbpedia.org/resource/Lee_Glover http://dbpedia.org/resource/Edward_Lee_Glover
+5,14,Jeffers,http://dbpedia.org/resource/Francis_Jeffers,http://dbpedia.org/resource/John_Joseph_Jeffers http://dbpedia.org/resource/John_Jeffers
+5,16,"Allon, Foyle, Porter, Walker, van der Laan",,http://dbpedia.org/resource/Joe_Allon
+5,18,"Allon, Burke",http://dbpedia.org/resource/Daniel_Burke_(rower),http://dbpedia.org/resource/Joe_Allon
+5,21,"Guppy, van der Laan",,http://dbpedia.org/resource/Stephen_Andrew_Guppy http://dbpedia.org/resource/Steve_Guppy http://dbpedia.org/resource/Stephen_Guppy
+5,26,"Foyle, van der Laan",,http://dbpedia.org/resource/Martin_John_Foyle http://dbpedia.org/resource/Martin_Foyle
+5,27,Naylor,http://dbpedia.org/resource/Richard_Naylor,http://dbpedia.org/resource/Anthony_Joseph_Naylor http://dbpedia.org/resource/Anthony_Naylor http://dbpedia.org/resource/Tony_Naylor
+5,29,Kent,http://dbpedia.org/resource/Ryan_Kent,http://dbpedia.org/resource/Kevin_Kent
+5,30,"Kent, Naylor",http://dbpedia.org/resource/Lee_Naylor_(footballer),http://dbpedia.org/resource/Kevin_Kent
+5,32,Porter,http://dbpedia.org/resource/Tracy_Porter,http://dbpedia.org/resource/Andy_Porter_(footballer)
+5,33,"Naylor, Scott",http://dbpedia.org/resource/Lee_Naylor_(footballer),http://dbpedia.org/resource/Anthony_Joseph_Naylor http://dbpedia.org/resource/Anthony_Naylor http://dbpedia.org/resource/Tony_Naylor
+5,34,Naylor,http://dbpedia.org/resource/Richard_Naylor,http://dbpedia.org/resource/Anthony_Joseph_Naylor http://dbpedia.org/resource/Anthony_Naylor http://dbpedia.org/resource/Tony_Naylor
+5,39,Naylor,http://dbpedia.org/resource/Richard_Naylor,http://dbpedia.org/resource/Anthony_Joseph_Naylor http://dbpedia.org/resource/Anthony_Naylor http://dbpedia.org/resource/Tony_Naylor
+5,40,"Bogie, Foyle, van der Laan",,http://dbpedia.org/resource/Ian_Bogie
+5,42,"Bogie, Naylor, Porter",http://dbpedia.org/resource/Lee_Naylor_(footballer),http://dbpedia.org/resource/Ian_Bogie
+5,43,van der Laan,,http://dbpedia.org/resource/Robbie_van_der_Laan http://dbpedia.org/resource/Robin_Van_Der_Laan http://dbpedia.org/resource/Robin_van_der_Laan

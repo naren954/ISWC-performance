@@ -1,0 +1,10 @@
+F1: 0.60000,Precision: 0.60000,Recall: 0.60000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,San Lorenzo,http://dbpedia.org/resource/San_Lorenzo_de_Almagro,http://dbpedia.org/resource/Club_Atlético_San_Lorenzo_de_Almagro
+1,5,Arsenal,http://dbpedia.org/resource/Arsenal_F.C.,http://dbpedia.org/resource/Arsenal_de_Sarandí
+1,7,ColÃ³n de Santa Fe,http://dbpedia.org/resource/Club_Atlético_Colón,http://dbpedia.org/resource/Colón_de_Santa_Fe
+1,8,Argentinos Juniors,http://dbpedia.org/resource/Boca_Juniors,http://dbpedia.org/resource/Argentinos_Juniors http://dbpedia.org/resource/Asociación_Atlética_Argentinos_Juniors http://dbpedia.org/resource/Asociacion_Atletica_Argentinos_Juniors http://dbpedia.org/resource/AAAJ http://dbpedia.org/resource/Argentinos_Jrs http://dbpedia.org/resource/Argentinos
+1,9,VÃ©lez SÃ¡rsfield,http://dbpedia.org/resource/Club_Atlético_Vélez_Sarsfield,http://dbpedia.org/resource/Club_Atlético_Vélez_Sársfield
+1,13,Racing Club,http://dbpedia.org/resource/Racing_de_Santander,http://dbpedia.org/resource/Racing_Club_de_Avellaneda http://dbpedia.org/resource/Racing_Club_Buenos_Aires http://dbpedia.org/resource/Racing_de_Avellaneda http://dbpedia.org/resource/Racing_Club_(Argentina) http://dbpedia.org/resource/Racing_Club_of_Avellaneda
+1,17,Belgrano,http://dbpedia.org/resource/Club_Atlético_Belgrano,http://dbpedia.org/resource/Belgrano_de_Córdoba
+1,19,Gimnasia de Jujuy,http://dbpedia.org/resource/Club_de_Gimnasia_y_Esgrima_La_Plata,http://dbpedia.org/resource/Gimnasia_de_Jujuy http://dbpedia.org/resource/Gimnasia_y_Esgrima_de_Jujuy http://dbpedia.org/resource/Gimnasia_Jujuy http://dbpedia.org/resource/Gimnasia_y_esgrima_de_jujuy

@@ -1,0 +1,9 @@
+F1: 0.61111,Precision: 0.61111,Recall: 0.61111,,
+Col,Row,Value,Submitted URI,Correct URI's
+4,4,K. Ito,http://dbpedia.org/resource/Yuna_Ito,http://dbpedia.org/resource/Kenji_Itou http://dbpedia.org/resource/伊藤_賢治 http://dbpedia.org/resource/Kenji_Ito http://dbpedia.org/resource/イトケン http://dbpedia.org/resource/Kenji_Itō http://dbpedia.org/resource/いとけん http://dbpedia.org/resource/Itou_Kenji
+4,9,J. Masuda,http://dbpedia.org/resource/Kento_Masuda,http://dbpedia.org/resource/Masuda_Junichi http://dbpedia.org/resource/Junichi_Masuda
+4,10,J. Masuda,http://dbpedia.org/resource/Kento_Masuda,http://dbpedia.org/resource/Masuda_Junichi http://dbpedia.org/resource/Junichi_Masuda
+4,11,J. Masuda,http://dbpedia.org/resource/Kento_Masuda,http://dbpedia.org/resource/Masuda_Junichi http://dbpedia.org/resource/Junichi_Masuda
+4,12,J. Masuda,http://dbpedia.org/resource/Kento_Masuda,http://dbpedia.org/resource/Masuda_Junichi http://dbpedia.org/resource/Junichi_Masuda
+4,14,T. Iwashiro,,http://dbpedia.org/resource/Taro_Iwashiro http://dbpedia.org/resource/Tarō_Iwashiro
+4,17,J. Burnett,http://dbpedia.org/resource/Carol_Burnett,http://dbpedia.org/resource/Justin_Caine_Burnett http://dbpedia.org/resource/Justin_Burnett

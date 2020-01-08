@@ -1,0 +1,4 @@
+F1: 0.84615,Precision: 0.84615,Recall: 0.84615,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,6,Star-Lord,http://dbpedia.org/resource/Iron_Man,"http://dbpedia.org/resource/Quill,_Peter http://dbpedia.org/resource/Peter_J._Quill http://dbpedia.org/resource/Peter_Quill http://dbpedia.org/resource/Star_Lord http://dbpedia.org/resource/Star-Lord http://dbpedia.org/resource/Peter_Jason_Quill http://dbpedia.org/resource/Peter_Quill_(comics)"
+0,10,Bug,http://dbpedia.org/resource/Ambush_Bug,http://dbpedia.org/resource/Bug_(comics)

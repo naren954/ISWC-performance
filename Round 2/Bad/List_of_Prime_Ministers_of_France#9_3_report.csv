@@ -1,0 +1,5 @@
+F1: 0.40000,Precision: 0.40000,Recall: 0.40000,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,1,Philippe PÃ©tain (1856â\u0080\u00931951),http://dbpedia.org/resource/Philippe_Auguste_(Paris_Métro),http://dbpedia.org/resource/Philippe_Pétain
+3,3,Pierre-Ã\u0089tienne Flandin (1889â\u0080\u00931958),,http://dbpedia.org/resource/Pierre-Étienne_Flandin
+3,4,FranÃ§ois Darlan (1881â\u0080\u00931942),http://dbpedia.org/resource/Hallermann–Streiff_syndrome,http://dbpedia.org/resource/François_Darlan

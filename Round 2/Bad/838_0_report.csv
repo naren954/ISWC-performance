@@ -1,0 +1,7 @@
+F1: 0.50000,Precision: 0.50000,Recall: 0.50000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Thun,http://dbpedia.org/resource/Thun,http://sws.geonames.org/7287306/
+0,2,Langnau im Emmental,http://dbpedia.org/resource/Langnau_im_Emmental,http://sws.geonames.org/7286261/
+0,3,Basel,http://dbpedia.org/resource/Basel,http://sws.geonames.org/2661604/
+0,4,Bütschwil,http://dbpedia.org/resource/Bütschwil,http://sws.geonames.org/2661302/
+0,5,Thun,http://dbpedia.org/resource/Thun,http://sws.geonames.org/2658377/

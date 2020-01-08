@@ -1,0 +1,25 @@
+F1: 0.78704,Precision: 0.78704,Recall: 0.78704,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,9,Something's Got to Give,http://dbpedia.org/resource/Something's_Gotta_Give_(film),http://dbpedia.org/resource/Somethings_Got_To_Give http://dbpedia.org/resource/Something's_Got_To_Give http://dbpedia.org/resource/Something's_Got_to_Give
+0,20,Snow White,http://dbpedia.org/resource/Snow_White_and_the_Seven_Dwarfs_(1937_film),http://dbpedia.org/resource/Snow_White_(1987_film) http://dbpedia.org/resource/Snow_White_(1988)
+0,28,Smoky,http://dbpedia.org/resource/Smoky_Canyon,http://dbpedia.org/resource/Smoky_(1966_film)
+0,29,Smoky,http://dbpedia.org/resource/Smoky_Canyon,http://dbpedia.org/resource/Smoky_(1946_film)
+0,30,Smithy,http://dbpedia.org/resource/Smithy_(1924_film),http://dbpedia.org/resource/Pacific_Adventure http://dbpedia.org/resource/Smithy_(1946_film) http://dbpedia.org/resource/The_Southern_Cross_(Australian_film)
+0,37,Skyline,http://dbpedia.org/resource/Skyline_(2010_film),http://dbpedia.org/resource/Skyline_(1931_film)
+0,39,Skin Deep,http://dbpedia.org/resource/Skin_Deep_(1989_film),http://dbpedia.org/resource/Skin_Deep_(1929_film)
+0,40,Skin Deep,http://dbpedia.org/resource/Skin_Deep_(1989_film),http://dbpedia.org/resource/Skin_Deep_(1922_film)
+0,42,Six Cylinder Love,http://dbpedia.org/resource/Six_Cylinder_Love_(1931_film),http://dbpedia.org/resource/Six_Cylinder_Love
+0,47,Singhasan,http://dbpedia.org/resource/Singhasan,http://dbpedia.org/resource/Singhasan_(1986_Hindi_film)
+0,56,Silks and Saddles,http://dbpedia.org/resource/Silks_and_Saddles_(1936_film),http://dbpedia.org/resource/Queen_o'_Turf http://dbpedia.org/resource/Silks_and_Saddles
+0,60,Shōgun,http://dbpedia.org/resource/Shōgun_(1980_miniseries),http://dbpedia.org/resource/Shogun_(miniseries) http://dbpedia.org/resource/Shogun_(TV_series) http://dbpedia.org/resource/Shogun_(film) http://dbpedia.org/resource/Shogun_(TV_miniseries) http://dbpedia.org/resource/Shogun_(Miniseries) http://dbpedia.org/resource/Shōgun_(miniseries) http://dbpedia.org/resource/Shōgun_(TV_miniseries) http://dbpedia.org/resource/Shōgun_(film)
+0,65,Shoes,http://dbpedia.org/resource/Ballet_Shoes_(film),http://dbpedia.org/resource/Shoes_(1916_film)
+0,66,Shivalinga,http://dbpedia.org/resource/Shivalinga_(2016_film),http://dbpedia.org/resource/Shivalinga_(2017_film)
+0,74,Shahid,http://dbpedia.org/resource/Jaribu_Shahid,http://dbpedia.org/resource/Shahid_(film)
+0,78,Shōgun,http://dbpedia.org/resource/Shōgun_(1980_miniseries),http://dbpedia.org/resource/Shogun_(miniseries) http://dbpedia.org/resource/Shogun_(TV_series) http://dbpedia.org/resource/Shogun_(film) http://dbpedia.org/resource/Shogun_(TV_miniseries) http://dbpedia.org/resource/Shogun_(Miniseries) http://dbpedia.org/resource/Shōgun_(miniseries) http://dbpedia.org/resource/Shōgun_(TV_miniseries) http://dbpedia.org/resource/Shōgun_(film)
+0,80,Seven Sinners,http://dbpedia.org/resource/Seven_Sinners_(1940_film),http://dbpedia.org/resource/Seven_Sinners_(1936_film)
+0,81,Seven Keys to Baldpate,http://dbpedia.org/resource/Seven_Keys_to_Baldpate_(1929_film),http://dbpedia.org/resource/Seven_Keys_to_Baldpate_(1947_film)
+0,82,Seven Keys to Baldpate,http://dbpedia.org/resource/Seven_Keys_to_Baldpate_(1929_film),http://dbpedia.org/resource/Seven_Keys_to_Baldpate_(1935_film)
+0,84,Seven Keys to Baldpate,http://dbpedia.org/resource/Seven_Keys_to_Baldpate_(1929_film),http://dbpedia.org/resource/Seven_Keys_to_Baldpate_(1916_film)
+0,89,Sensation Seekers,http://dbpedia.org/resource/Sensation_Comics,http://dbpedia.org/resource/Sensation_Seekers_(film)
+0,101,Satanás,http://dbpedia.org/resource/Satan_(1920_film),http://dbpedia.org/resource/Satanás_(film) http://dbpedia.org/resource/Satanas_(film) http://dbpedia.org/resource/Satanás/version_2 http://dbpedia.org/resource/Satanás
+0,102,Sarfarosh,http://dbpedia.org/resource/Sarfarosh,http://dbpedia.org/resource/Sarfarosh_(1985_film)

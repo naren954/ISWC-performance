@@ -1,0 +1,27 @@
+F1: 0.70238,Precision: 0.70238,Recall: 0.70238,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,7,A. Meyer,http://dbpedia.org/resource/Eduard_Meyer,http://dbpedia.org/resource/Abe_Meyer
+1,8,Sachin-Jigar,http://dbpedia.org/resource/Sachin_(actor),http://dbpedia.org/resource/Sachin-Jigar http://dbpedia.org/resource/Sachin–Jigar http://dbpedia.org/resource/Sachin_Sanghvi http://dbpedia.org/resource/Jigar_Saraiya http://dbpedia.org/resource/Sachin_-_Jigar http://dbpedia.org/resource/Sachin_K._Sanghvi
+1,10,A. Wurman,http://dbpedia.org/resource/Felix_Wurman,http://dbpedia.org/resource/Alex_Wurman
+1,13,K. Hajos,http://dbpedia.org/resource/Alfréd_Hajós,http://dbpedia.org/resource/Karl_Hajos
+1,15,H. May,http://dbpedia.org/resource/Hellmut_May,http://dbpedia.org/resource/Hans_May
+1,19,C. Torjussen,http://dbpedia.org/resource/C._C._Stevens,http://dbpedia.org/resource/Ceiri_Torjussen
+1,27,H. Grey,http://dbpedia.org/resource/Skylar_Grey,"http://dbpedia.org/resource/Grey,_Harry http://dbpedia.org/resource/Harry_Grey"
+1,31,S. Shaw,http://dbpedia.org/resource/Sandie_Shaw,http://dbpedia.org/resource/Scott_Shaw
+1,34,D. Newman,http://dbpedia.org/resource/David_Newman_(screenwriter),http://dbpedia.org/resource/David_Newman_(composer)
+1,35,E. J. Kay,http://dbpedia.org/resource/John_Kay_(musician),http://dbpedia.org/resource/Ed_Kay http://dbpedia.org/resource/Ed._Kay http://dbpedia.org/resource/Edward_Kay_(composer) http://dbpedia.org/resource/Edward_J_Kay http://dbpedia.org/resource/Eddie_Kay http://dbpedia.org/resource/Edward_J._Kay
+1,36,F. Austin,http://dbpedia.org/resource/Stephen_F._Austin,http://dbpedia.org/resource/Frederic_Austin
+1,37,A. North,http://dbpedia.org/resource/Nigel_North,http://dbpedia.org/resource/Alex_North
+1,41,R. Rossellini,http://dbpedia.org/resource/Roberto_Rossellini,http://dbpedia.org/resource/Renzo_Rossellini_(composer)
+1,50,L. Stone,http://dbpedia.org/resource/Lewis_Stone,http://dbpedia.org/resource/Lew_Stone
+1,52,L. Silvers,http://dbpedia.org/resource/Phil_Silvers,http://dbpedia.org/resource/Lou_Silvers http://dbpedia.org/resource/Louis_Silvers
+1,55,J. F. Hanley,http://dbpedia.org/resource/Michael_J._Hanley,http://dbpedia.org/resource/James_F._Hanley http://dbpedia.org/resource/James_F._Hanley_(composer) http://dbpedia.org/resource/James_F._Hanley_(musician)
+1,57,J. Sylvain,http://fr.dbpedia.org/resource/Jean_Sylvain,http://dbpedia.org/resource/Jules_Sylvain
+1,66,M. s. system,http://dbpedia.org/resource/Colorado_State_University,http://dbpedia.org/resource/Movietone_sound_system
+1,67,L. S. Orchestra,http://dbpedia.org/resource/Louis_Armstrong,http://dbpedia.org/resource/London_Symphony_Orchestra_&_Chorus http://dbpedia.org/resource/London_Symphonic_Orchestra http://dbpedia.org/resource/London_Symphony_Orchestra http://dbpedia.org/resource/LSO_Live http://dbpedia.org/resource/The_London_Symphony_Orchestra
+1,70,Johnson,http://dbpedia.org/resource/Robert_Johnson,http://dbpedia.org/resource/Johnson_(composer) http://dbpedia.org/resource/Johnson_(South_Indian_composer)
+1,71,I. Newborn,http://dbpedia.org/resource/Calvin_Newborn,http://dbpedia.org/resource/Ira_Newborn
+1,72,K. Schröder,http://dbpedia.org/resource/Kristina_Schröder,http://dbpedia.org/resource/Kurt_Schroeder http://dbpedia.org/resource/Kurt_Schroder http://dbpedia.org/resource/Kurt_Schröder
+1,73,L. Evans,http://fr.dbpedia.org/resource/Lewis_Evans,http://dbpedia.org/resource/Lindley_Evans
+1,74,E. Ward,http://dbpedia.org/resource/M._Ward,http://dbpedia.org/resource/Edward_Ward_(composer)
+1,76,L. Levy,http://dbpedia.org/resource/Lou_Levy_(pianist),http://dbpedia.org/resource/Louis_Levy

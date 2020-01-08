@@ -1,0 +1,6 @@
+"F1: 0.97419","Precision: 0.97419","Recall: 0.97419"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","1","P. Bordeleau","http://dbpedia.org/resource/Paulin_Bordeleau","http://dbpedia.org/resource/Patrick_Bordeleau"
+"0","24","O. Hedman","http://dbpedia.org/resource/Victor_Hedman","http://dbpedia.org/resource/Oscar_Hedman"
+"0","101","N. Jensen","http://dbpedia.org/resource/Nick_Jensen","http://dbpedia.org/resource/Nicklas_D._Jensen http://dbpedia.org/resource/Nicklas_Jensen_(ice_hockey) http://dbpedia.org/resource/Nicklas_Jensen"
+"0","136","N. Saunders","http://fr.dbpedia.org/resource/Nathan_Saunders","http://dbpedia.org/resource/Nathan_Saunders"

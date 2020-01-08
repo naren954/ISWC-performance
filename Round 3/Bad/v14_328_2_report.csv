@@ -1,0 +1,7 @@
+F1: 0.44444,Precision: 0.44444,Recall: 0.44444,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,1,G. Reid,http://dbpedia.org/resource/George_Reid,http://dbpedia.org/resource/George_Reid_(soldier)
+2,4,H. D. Jr.,http://dbpedia.org/resource/Barack_Obama,"http://dbpedia.org/resource/Hilario_G._Davide_Jr. http://dbpedia.org/resource/Hilario_Davide,_Jr. http://dbpedia.org/resource/Hilario_Davide_Jr http://dbpedia.org/resource/Hilario_Davide http://dbpedia.org/resource/Hilario_Davide_Jr. http://dbpedia.org/resource/Hilario_Gelbolingo_Davide,_Jr. http://dbpedia.org/resource/Hilario_G._Davide,_Jr."
+2,5,Á. A. Castro,http://dbpedia.org/resource/Cuban_Revolution,http://dbpedia.org/resource/Álvaro_Araújo_Castro http://dbpedia.org/resource/Alvaro_Araújo_Castro http://dbpedia.org/resource/Álvaro_Araújo http://dbpedia.org/resource/Alvaro_Araujo_Castro http://dbpedia.org/resource/Alvaro_Araujo http://dbpedia.org/resource/Álvaro_Araujo_Castro
+2,6,W. Garcia,http://dbpedia.org/resource/William_Garcia,http://dbpedia.org/resource/Winston_Garcia
+2,9,H. Havelock,http://dbpedia.org/resource/Arthur_Havelock,"http://dbpedia.org/resource/General_Sir_Henry_Havelock http://dbpedia.org/resource/Havelock,_Sir_Henry http://dbpedia.org/resource/General_Havelock http://dbpedia.org/resource/Sir_Henry_Havelock http://dbpedia.org/resource/Henry_Havelock"

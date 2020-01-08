@@ -1,0 +1,5 @@
+F1: 0.85000,Precision: 0.85000,Recall: 0.85000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,10,Stairway to Heaven,http://dbpedia.org/resource/Stairway_to_Heaven_(2003_TV_series),http://dbpedia.org/resource/Stairway_to_Heaven_(2009_Philippine_Adaptataion) http://dbpedia.org/resource/Stairway_to_Heaven_(Philippines_TV_series) http://dbpedia.org/resource/Stairway_to_Heaven_(2009_TV_series) http://dbpedia.org/resource/Stairway_to_Heaven_(2009_Philipppine_TV_series) http://dbpedia.org/resource/Stairway_to_Heaven_(Philippine_TV_series) http://dbpedia.org/resource/Stairway_to_Heaven_(2009_Philippine_TV_series)
+0,15,Spy,http://dbpedia.org/resource/Austin_Powers:_The_Spy_Who_Shagged_Me,http://dbpedia.org/resource/Spy_(2011_TV_series) http://dbpedia.org/resource/Spy_(U.S._TV_series) http://dbpedia.org/resource/Spy_(2011_TV_show) http://dbpedia.org/resource/Spy_(2013_TV_series)
+0,19,Split Ends,http://dbpedia.org/resource/Split_Ends_(British_TV_series),http://dbpedia.org/resource/Split_Ends_(UK_TV_series)

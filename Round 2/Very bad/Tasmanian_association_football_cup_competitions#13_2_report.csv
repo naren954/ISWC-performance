@@ -1,0 +1,5 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,5,Hobart Juventus,http://dbpedia.org/resource/Garret_Hobart,http://dbpedia.org/resource/Rapid_FC_(Tas) http://dbpedia.org/resource/Southern_FC http://dbpedia.org/resource/Rapid_SC http://dbpedia.org/resource/Rapid_FC
+2,6,Hobart Juventus,http://dbpedia.org/resource/Garret_Hobart,http://dbpedia.org/resource/Rapid_FC_(Tas) http://dbpedia.org/resource/Southern_FC http://dbpedia.org/resource/Rapid_SC http://dbpedia.org/resource/Rapid_FC
+2,7,Rapid,"http://dbpedia.org/resource/Rapid_City,_South_Dakota",http://dbpedia.org/resource/Hobart_Zebras http://dbpedia.org/resource/Hobart_Zebras_FC

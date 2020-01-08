@@ -1,0 +1,4 @@
+F1: 0.97561,Precision: 0.97561,Recall: 0.97561,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,5,Lemniscia calva,http://dbpedia.org/resource/Caseolus_calvus,http://dbpedia.org/resource/Lemniscia_calva
+0,61,Lampedusa imitratix,http://dbpedia.org/resource/Lampedusa_imitatrix,http://dbpedia.org/resource/Lampedusa_imitratix

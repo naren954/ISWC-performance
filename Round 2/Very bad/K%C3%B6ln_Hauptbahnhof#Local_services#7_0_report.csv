@@ -1,0 +1,5 @@
+F1: 0.25000,Precision: 0.25000,Recall: 0.25000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,KÃ¶ln Hansaring toward DÃ¼sseldorf Flughafen Terminal,http://dbpedia.org/resource/Düsseldorf_Airport_Terminal_station,http://dbpedia.org/resource/Köln_Hansaring_station
+0,3,KÃ¶ln Hansaring toward DÃ¼ren,http://dbpedia.org/resource/Heimbach,http://dbpedia.org/resource/Köln_Hansaring_station
+0,4,KÃ¶ln Hansaring toward KÃ¶ln Hansaring or Horrem,http://dbpedia.org/resource/Cologne–Aachen_high-speed_railway,http://dbpedia.org/resource/Köln_Hansaring_station

@@ -1,0 +1,4 @@
+"F1: 0.91667","Precision: 0.91667","Recall: 0.91667"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","5","B. Evans","http://dbpedia.org/resource/Brad_Evans","http://dbpedia.org/resource/Bill_Evans_(basketball,_born_1948) http://dbpedia.org/resource/Bill_Evans_(basketball_coach)"
+"0","19","A. Williams","http://dbpedia.org/resource/Andre_Williams_(American_football)","http://dbpedia.org/resource/Amy_Williams_(basketball)"

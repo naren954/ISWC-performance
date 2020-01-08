@@ -1,0 +1,4 @@
+F1: 0.77778,Precision: 0.77778,Recall: 0.77778,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,6,Jed Johnson,http://dbpedia.org/resource/Jed_Johnson_(Oklahoma_politician),http://dbpedia.org/resource/Jed_Johnson_(politician) http://dbpedia.org/resource/Jed_Joseph_Johnson http://dbpedia.org/resource/Jed_Johnson_(Oklahoma)
+1,9,Will Rogers,http://dbpedia.org/resource/Will_Rogers_Jr.,http://dbpedia.org/resource/Will_Rogers_(Oklahoma) http://dbpedia.org/resource/Will_Rogers_(Oklahoma_politician)

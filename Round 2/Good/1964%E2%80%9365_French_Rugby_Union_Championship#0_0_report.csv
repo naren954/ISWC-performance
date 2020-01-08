@@ -1,0 +1,5 @@
+F1: 0.76923,Precision: 0.76923,Recall: 0.76923,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,Limoges,http://dbpedia.org/resource/Limoges_CSP,http://dbpedia.org/resource/Union_Sportive_et_Athletique_de_Limoges http://dbpedia.org/resource/Union_Sportive_et_Athlétique_de_Limoges http://dbpedia.org/resource/USA_Limoges
+0,4,BÃ¨gles,http://dbpedia.org/resource/Union_Bordeaux_Bègles,http://dbpedia.org/resource/CA_Bordeaux-Bègles_Gironde
+0,6,La Rochelle,http://dbpedia.org/resource/ES_La_Rochelle,http://dbpedia.org/resource/Atlantique_stade_rochelais http://dbpedia.org/resource/Atlantique_Stade_rochelais http://dbpedia.org/resource/Stade_Rochelais http://dbpedia.org/resource/Atlantique_Stade_Rochelais

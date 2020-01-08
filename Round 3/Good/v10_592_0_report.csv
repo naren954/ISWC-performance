@@ -1,0 +1,40 @@
+F1: 0.79121,Precision: 0.79121,Recall: 0.79121,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,W. Harris,"http://dbpedia.org/resource/William_Harris_(cricketer,_born_1864)",http://dbpedia.org/resource/Wilmer_Harris
+0,4,T. Baker,"http://dbpedia.org/resource/Tony_Baker_(running_back,_born_1945)",http://dbpedia.org/resource/Trent_Baker
+0,7,T. Marshall,"http://dbpedia.org/resource/Thomas_Marshall_(footballer,_born_1858)",http://dbpedia.org/resource/Theda_Marshall
+0,10,S. Berger,http://dbpedia.org/resource/Samuel_Berger_(boxer),http://dbpedia.org/resource/Margaret_Berger_(baseball) http://dbpedia.org/resource/Sonny_Berger
+0,14,R. Williams,http://dbpedia.org/resource/Richard_Williams_(Australian_rules_footballer),"http://dbpedia.org/resource/Ruth_Williams_(baseball) http://dbpedia.org/resource/Williams,_Ruth http://dbpedia.org/resource/Ruth_Williams"
+0,16,R. Stephens,http://dbpedia.org/resource/Rees_Stephens,http://dbpedia.org/resource/Ruby_Stephens
+0,19,R. Meyer,http://dbpedia.org/resource/Russ_Meyer_(baseball),http://dbpedia.org/resource/Rita_Meyer_(baseball)
+0,20,R. Briggs,http://dbpedia.org/resource/Ronnie_Briggs,http://dbpedia.org/resource/Rita_Briggs
+0,23,P. Baker,http://dbpedia.org/resource/Phil_Baker_(baseball),http://dbpedia.org/resource/Phyllis_Baker
+0,44,M. Reynolds,http://dbpedia.org/resource/Mack_Reynolds_(American_football),http://dbpedia.org/resource/Mary_Reynolds_(baseball)
+0,50,M. Carey,http://dbpedia.org/resource/Max_Carey,http://dbpedia.org/resource/Mary_Carey_(baseball)
+0,53,M. Peters,http://dbpedia.org/resource/Marcus_Peters,http://dbpedia.org/resource/Marjorie_Peters
+0,59,M. Pearson,http://dbpedia.org/resource/Monte_Pearson,http://dbpedia.org/resource/Marguerite_Pearson
+0,60,M. Jones,"http://dbpedia.org/resource/Mark_Jones_(basketball,_born_1961)",http://dbpedia.org/resource/Marguerite_Jones
+0,61,M. Russo,http://dbpedia.org/resource/Marius_Russo,http://dbpedia.org/resource/Margaret_Russo
+0,77,L. Jackson,http://dbpedia.org/resource/Les_Jackson_(cricketer),http://dbpedia.org/resource/Lillian_Jackson
+0,78,L. Arnold,http://dbpedia.org/resource/Louise_Arnold_(baseball),http://dbpedia.org/resource/Lenna_Arnold
+0,84,J. Schofield,http://dbpedia.org/resource/Johnny_Schofield,http://dbpedia.org/resource/June_Schofield
+0,95,J. Weaver,http://dbpedia.org/resource/Jim_Weaver_(right-handed_pitcher),http://dbpedia.org/resource/Joanne_Weaver
+0,96,J. Denoble,http://dbpedia.org/resource/Jerre_DeNoble,http://dbpedia.org/resource/Jerre_Denoble
+0,97,J. Weaver,http://dbpedia.org/resource/Jim_Weaver_(right-handed_pitcher),http://dbpedia.org/resource/Jean_Weaver
+0,98,J. Smith,http://dbpedia.org/resource/Jack_Smith_(outfielder),http://dbpedia.org/resource/Jean_Smith_(baseball)
+0,109,J. Jacobs,http://dbpedia.org/resource/Jake_Jacobs,http://dbpedia.org/resource/Jane_Badini http://dbpedia.org/resource/Jane_Jacobs_(baseball)
+0,110,J. Kelley,http://dbpedia.org/resource/Joe_Kelley,http://dbpedia.org/resource/Jacquelyn_Kelley http://dbpedia.org/resource/Jackie_Kelley
+0,116,H. Gilroy,http://dbpedia.org/resource/Freddie_Gilroy,http://dbpedia.org/resource/Henry_Gilroy_(baseball) http://dbpedia.org/resource/Gilroy_(baseball)
+0,120,H. Greiner,http://dbpedia.org/resource/Holden_Greiner,http://dbpedia.org/resource/Harold_Greiner
+0,121,H. Patterson,http://dbpedia.org/resource/Hal_Patterson,http://dbpedia.org/resource/Hank_Patterson_(baseball)
+0,125,F. Brown,http://dbpedia.org/resource/Frank_Brown_(Australian_footballer),http://dbpedia.org/resource/Freeman_Brown
+0,131,E. Adams,http://dbpedia.org/resource/Edgar_Adams,http://dbpedia.org/resource/Evelyn_Adams
+0,132,E. Wingrove,http://dbpedia.org/resource/Francis_Wingrove,http://dbpedia.org/resource/Elsie_Wingrove
+0,143,E. Roth,http://dbpedia.org/resource/Elaine_Roth,http://dbpedia.org/resource/Eilaine_Roth
+0,146,E. Barney,http://dbpedia.org/resource/Ed_Barney,http://dbpedia.org/resource/Edith_Barney
+0,150,D. Green,http://dbpedia.org/resource/Dennis_Green,http://dbpedia.org/resource/Dottie_Green
+0,164,D. Moore,http://dbpedia.org/resource/Dickie_Moore_(ice_hockey),http://dbpedia.org/resource/Dolores_Moore
+0,172,C. Armstrong,http://dbpedia.org/resource/Curly_Armstrong,http://dbpedia.org/resource/Charlotte_Armstrong_(baseball)
+0,175,C. Barnett,http://dbpedia.org/resource/Charlie_Barnett_(cricketer),http://dbpedia.org/resource/Charlene_Barnett
+0,176,C. Morris,"http://dbpedia.org/resource/Charles_Morris_(cricketer,_born_1880)",http://dbpedia.org/resource/Carolyn_Morris
+0,181,B. Whiting,http://dbpedia.org/resource/Bob_Whiting,http://dbpedia.org/resource/Betty_Whiting

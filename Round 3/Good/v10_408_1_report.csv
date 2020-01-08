@@ -1,0 +1,14 @@
+F1: 0.79661,Precision: 0.79661,Recall: 0.79661,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,2,Sing Me Back Home,http://dbpedia.org/resource/Sing_Me_Back_Home,http://dbpedia.org/resource/Sing_Me_Back_Home_(song)
+1,8,Greatest Hits,http://dbpedia.org/resource/Greatest_Hits_(Bon_Jovi_album),http://dbpedia.org/resource/Greatest_Hits_(The_Band_album) http://dbpedia.org/resource/Greatest_Hits_(The_Band)
+1,9,Anthology,http://dbpedia.org/resource/Anthology_(Alien_Ant_Farm_album),http://dbpedia.org/resource/Anthology_(The_Band_album)
+1,19,Mr. Big,http://dbpedia.org/resource/Mr._Big_(Mr._Big_album),http://dbpedia.org/resource/(Little_Richard)_Mr._Big http://dbpedia.org/resource/Mr._Big_(Little_Richard_album)
+1,25,Quiet Kenny,http://dbpedia.org/resource/The_Quiet_Times_of_a_Rock_and_Roll_Farm_Boy,http://dbpedia.org/resource/Quiet_Kenny
+1,27,The Chase!,http://dbpedia.org/resource/The_Chase_(Garth_Brooks_album),http://dbpedia.org/resource/The_Chase!
+1,29,A Love Supreme,http://dbpedia.org/resource/A_Love_Supreme_(Chanté_Moore_album),http://dbpedia.org/resource/A_Love_Supreme http://dbpedia.org/resource/A_Love_Supreme_(John_Coltrane_album) http://dbpedia.org/resource/Acknowledgement_(song) http://dbpedia.org/resource/A_Love_Supreme_(Part_I:_Acknowledgement)
+1,32,Art,http://dbpedia.org/resource/Art_Nouveau,http://dbpedia.org/resource/Art_(album) http://dbpedia.org/resource/Art_(Art_Farmer_album)
+1,41,Skywriter,http://dbpedia.org/resource/Skywriter_(song),http://dbpedia.org/resource/Sky_writer http://dbpedia.org/resource/Hellelujah_Day http://dbpedia.org/resource/Skywriter http://dbpedia.org/resource/Sky-writer
+1,45,"Hello, Goodbye",http://dbpedia.org/resource/Hello_Goodbye_(Tyler_Farr_song),"http://dbpedia.org/resource/Hello_Goodbye http://dbpedia.org/resource/Hello,_Goodbye_(The_Beatles_song) http://dbpedia.org/resource/Hello,_goodbye http://dbpedia.org/resource/Hello-goodbye http://dbpedia.org/resource/Hello_Goodbye_(Jonas_Brothers_song) http://dbpedia.org/resource/Hello,_Goodbye"
+1,52,"Charlie Parker Memorial, Vol. 1","http://dbpedia.org/resource/Charlie_Parker_Memorial,_Vol._2","http://dbpedia.org/resource/Charlie_Parker_Memorial,_Vol._1"
+1,55,Activate,http://de.dbpedia.org/resource/Activator,http://dbpedia.org/resource/Activate_(album)

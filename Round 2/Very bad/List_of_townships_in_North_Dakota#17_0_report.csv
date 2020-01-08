@@ -1,0 +1,13 @@
+F1: 0.08333,Precision: 0.08333,Recall: 0.08333,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,7,Raritan,http://dbpedia.org/resource/Raritan_Valley_Line,"http://dbpedia.org/resource/Raritan_Township,_Barnes_County,_North_Dakota"
+0,11,Red Lake,http://dbpedia.org/resource/Red_Line_(TRAX),"http://dbpedia.org/resource/Red_Lake_Township,_Logan_County,_North_Dakota"
+0,15,Reeder,http://dbpedia.org/resource/Lou_Reed,"http://dbpedia.org/resource/Reeder_Township,_Adams_County,_North_Dakota"
+0,20,Rice Lake,http://dbpedia.org/resource/Rice_Lake_(Ontario),"http://dbpedia.org/resource/Rice_Lake_Township,_Ward_County,_North_Dakota http://dbpedia.org/resource/Ward_County,_ND http://dbpedia.org/resource/Rice_Lake_Township,_North_Dakota http://dbpedia.org/resource/Ward_County,_North_Dakota"
+0,29,Riggin,http://dbpedia.org/resource/John_Riggins,"http://dbpedia.org/resource/Riggin_Township,_Benson_County,_North_Dakota"
+0,35,Rock,"http://dbpedia.org/resource/Little_Rock,_Arkansas","http://dbpedia.org/resource/Rock_Township,_Benson_County,_North_Dakota http://dbpedia.org/resource/Rock_Township,_Benson_County,_ND"
+0,38,Rock Island,http://dbpedia.org/resource/Rock_Island_(album),"http://dbpedia.org/resource/Rock_Island_Township,_Williams_County,_North_Dakota"
+0,41,Rogers,http://dbpedia.org/resource/Ginger_Rogers,"http://dbpedia.org/resource/Rogers_Township,_Barnes_County,_North_Dakota"
+0,45,Roloff,http://dbpedia.org/resource/Helmut_Roloff,"http://dbpedia.org/resource/Roloff_Township http://dbpedia.org/resource/Roloff_Township,_McIntosh_County,_North_Dakota http://dbpedia.org/resource/Roloff_Township,_North_Dakota"
+0,52,Rosebud,http://dbpedia.org/resource/Rosebud_(1975_film),"http://dbpedia.org/resource/Rosebud_Township,_Barnes_County,_North_Dakota"
+0,70,Rushford,"http://dbpedia.org/resource/Rushford,_Norfolk","http://dbpedia.org/resource/Rushford_Township,_Walsh_County,_North_Dakota"

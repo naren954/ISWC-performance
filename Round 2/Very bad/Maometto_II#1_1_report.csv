@@ -1,0 +1,6 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,"Samuel Ramey, June Anderson, Margarita Zimmermann, Ernesto Palacio",http://dbpedia.org/resource/Samuel_Anderson_(politician),http://dbpedia.org/resource/Samuel_Ramey http://dbpedia.org/resource/Sam_Ramey
+1,2,"Samuel Ramey, Cecilia Gasdia, Lucia Valentini Terrani, Chris Merritt",http://dbpedia.org/resource/Lucia_Valentini_Terrani,http://dbpedia.org/resource/Samuel_Ramey http://dbpedia.org/resource/Sam_Ramey
+1,3,"Lorenzo Regazzo, Carmen Giannattasio, Annarita Gemmabella, Maxim Mironov",http://dbpedia.org/resource/Carmen_Giannattasio,"http://dbpedia.org/resource/Lorenzo_Regazzo http://dbpedia.org/resource/Regazzo,_lorenzo http://dbpedia.org/resource/Regazzo,_Lorenzo http://dbpedia.org/resource/Regazzo"
+1,5,"Darren Jeffery, SiÃ n Davies, Caitlin Hulcup, Paul Nilon",,http://dbpedia.org/resource/Darren_Jeffery

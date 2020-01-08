@@ -1,0 +1,10 @@
+F1: 0.46667,Precision: 0.46667,Recall: 0.46667,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,A. M. Jr.,http://dbpedia.org/resource/Arthur_MacArthur_Jr.,"http://dbpedia.org/resource/Alexander_Agnew_McCormick,_Jr. http://dbpedia.org/resource/Alexander_McCormick http://dbpedia.org/resource/Alexander_McCormick,_Jr."
+1,4,G. Wildenstein,http://dbpedia.org/resource/Georges_Wildenstein,http://dbpedia.org/resource/Guy_Wildenstein
+1,7,R. Sainsbury,"http://dbpedia.org/resource/David_Sainsbury,_Baron_Sainsbury_of_Turville",http://dbpedia.org/resource/Sir_Robert_and_Lady_Lisa_Sainsbury http://dbpedia.org/resource/Sir_Robert_Sainsbury http://dbpedia.org/resource/Robert_Sainsbury
+1,9,F. Beaulieu,"http://fr.dbpedia.org/resource/François_Beaulieu_(acteur,_1943)",http://dbpedia.org/resource/François_Beaulieu_II http://dbpedia.org/resource/Francois_Beaulieu_II http://dbpedia.org/resource/François_Beaulieu http://dbpedia.org/resource/Francois_Beaulieu
+1,10,J. Bowman,http://dbpedia.org/resource/James_Bowman_(countertenor),http://dbpedia.org/resource/John_Bowman_(pioneer)
+1,11,H. W. Scott,http://dbpedia.org/resource/Dukinfield_Henry_Scott,http://dbpedia.org/resource/Harvey_Whitfield_Scott http://dbpedia.org/resource/H._W._Scott http://dbpedia.org/resource/Harvey_W._Scott http://dbpedia.org/resource/Harvey_Whitefield_Scott
+1,12,W. H. Low,http://dbpedia.org/resource/Will_Hicok_Low,http://dbpedia.org/resource/William_Henry_Low
+1,14,F. Coe,http://dbpedia.org/resource/Fred_Coe,http://dbpedia.org/resource/Frank_Coe_(Lincoln_County_War)

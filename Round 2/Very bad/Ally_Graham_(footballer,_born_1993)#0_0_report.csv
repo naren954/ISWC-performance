@@ -1,0 +1,4 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,Falkirk,http://dbpedia.org/resource/Falkirk,http://dbpedia.org/resource/Falkirk_fc http://dbpedia.org/resource/Falkirk_F._C. http://dbpedia.org/resource/Falkirk_F.C. http://dbpedia.org/resource/The_Bairns http://dbpedia.org/resource/Falkirk_F_C http://dbpedia.org/resource/Falkirk_FC
+0,4,Dumbarton,"http://dbpedia.org/resource/George_Douglas,_1st_Earl_of_Dumbarton",http://dbpedia.org/resource/Dumbarton_F._C. http://dbpedia.org/resource/Dumbarton_FC http://dbpedia.org/resource/Dumbarton_F.C. http://dbpedia.org/resource/Dumbarton_fc http://dbpedia.org/resource/Dumbarton_F_C http://dbpedia.org/resource/Dumbarton_Football_Club

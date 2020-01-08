@@ -1,0 +1,22 @@
+F1: 0.64286,Precision: 0.64286,Recall: 0.64286,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,W. Stephens,http://dbpedia.org/resource/Westmore_Stephens,http://dbpedia.org/resource/Woody_Stephens
+0,9,W. A. Hurley,http://dbpedia.org/resource/Walter_A._Hurley,http://dbpedia.org/resource/William_A._Hurley http://dbpedia.org/resource/William_Hurley_(horseman) http://dbpedia.org/resource/William_J._Hurley
+0,12,W. Earl,http://dbpedia.org/resource/Bertrand_Russell,http://dbpedia.org/resource/Walter_Earl
+0,13,W. Dunn,http://dbpedia.org/resource/Willie_Dunn_(golfer),http://dbpedia.org/resource/Wally_Dunn
+0,21,S. Hine,http://dbpedia.org/resource/Steve_Hine,http://dbpedia.org/resource/Hubert_Hine http://dbpedia.org/resource/Sonny_Hine http://dbpedia.org/resource/Hubert_hine http://dbpedia.org/resource/Hubert_sonny_hine
+0,24,R. Price,http://dbpedia.org/resource/Reynolds_Price,http://dbpedia.org/resource/H._Ryan_Price http://dbpedia.org/resource/Ryan_Price_(trainer)
+0,31,R. Dawson,http://dbpedia.org/resource/Rhett_Dawson,http://dbpedia.org/resource/Richard_Dawson_(racehorse_trainer) http://dbpedia.org/resource/Richard_C._Dawson
+0,34,P. Martin,http://dbpedia.org/resource/Paul_Martin_(athlete),"http://dbpedia.org/resource/Pancho_Martin http://dbpedia.org/resource/Frank_""Pancho""_Martin"
+0,35,P. Prendergast,http://dbpedia.org/resource/Paddy_Prendergast_(hurler),http://dbpedia.org/resource/Paddy_Prendergast_(horse_racing) http://dbpedia.org/resource/Paddy_Prendergast_(racehorse_trainer)
+0,36,O. White,http://dbpedia.org/resource/Oliver_White,http://dbpedia.org/resource/Oscar_White http://dbpedia.org/resource/Oscar_white
+0,39,M. Jolley,http://dbpedia.org/resource/Michael_Jolley,http://dbpedia.org/resource/Moody_Jolley
+0,40,M. Jarvis,http://dbpedia.org/resource/Mike_Jarvis,"http://dbpedia.org/resource/Jarvis,_Michael http://dbpedia.org/resource/Michael_Jarvis"
+0,42,M. Hirsch,http://dbpedia.org/resource/Maurice_Hirsch_(footballer),http://dbpedia.org/resource/Max_Hirsch http://dbpedia.org/resource/Maximilian_Hirsch
+0,44,M. Dawson,http://dbpedia.org/resource/Mike_Dawson_(American_football),http://dbpedia.org/resource/Mat_Dawson http://dbpedia.org/resource/Mathew_Dawson
+0,45,M. Marsh,http://dbpedia.org/resource/Mitchell_Marsh,http://dbpedia.org/resource/Marcus_Marsh
+0,47,L. Barrera,http://dbpedia.org/resource/Leandro_Barrera,http://dbpedia.org/resource/Laz_Barrera http://dbpedia.org/resource/Lazaro_S._Barrera http://dbpedia.org/resource/Laz_S._Barrera
+0,49,J. Lawson,http://dbpedia.org/resource/Jamie_Lawson_(American_football),http://dbpedia.org/resource/Joe_Lawson_(racehorse_trainer) http://dbpedia.org/resource/Joseph_Lawson_(trainer)
+0,51,J. Scott,http://dbpedia.org/resource/Jake_Scott_(guard),http://dbpedia.org/resource/John_Scott_(horseman)
+0,53,"John M. Gaver, Sr.",http://dbpedia.org/resource/John_M._Gaver_Jr.,"http://dbpedia.org/resource/John_Gaver http://dbpedia.org/resource/John_M._Gaver http://dbpedia.org/resource/John_M._Gaver,_Sr."
+0,55,J. Day,http://dbpedia.org/resource/Jason_Day,http://dbpedia.org/resource/John_Day_(horseman)

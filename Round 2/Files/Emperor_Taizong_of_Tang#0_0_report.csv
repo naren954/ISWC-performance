@@ -1,0 +1,7 @@
+"F1: 0.80769","Precision: 0.80769","Recall: 0.80769"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","10","Li Jing","http://dbpedia.org/resource/Li_Jing_(Southern_Tang)","http://dbpedia.org/resource/Li_Jing_(general) http://dbpedia.org/resource/Li_Weigong"
+"0","11","Wang Gui","http://dbpedia.org/resource/Wang_Gui_(Tang_chancellor)","http://dbpedia.org/resource/Wang_Gui_(disambiguation) http://dbpedia.org/resource/Wang_Kuei http://dbpedia.org/resource/Wang_Gui"
+"0","17","Liu Ji","http://dbpedia.org/resource/Liu_Bowen","http://dbpedia.org/resource/Liu_Ji_(Tang_chancellor) http://dbpedia.org/resource/Liu_Ji_(Tang_dynasty) http://dbpedia.org/resource/Liu_Ji_(Tang_Dynasty)"
+"0","19","Li Shiji","http://dbpedia.org/resource/Yuwen_Shiji","http://dbpedia.org/resource/Xu_Shiji http://dbpedia.org/resource/Li_Shiji http://dbpedia.org/resource/Xu_Maogong"
+"0","20","Zhang Liang","http://dbpedia.org/resource/Zhang_Xueliang","http://dbpedia.org/resource/Zhang_Liang_(Tang_Dynasty) http://dbpedia.org/resource/Zhang_Liang_(Tang_dynasty)"

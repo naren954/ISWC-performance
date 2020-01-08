@@ -1,0 +1,6 @@
+"F1: 0.00000","Precision: 0.00000","Recall: 0.00000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","3","Detroit Pistons","http://dbpedia.org/resource/Detroit_Pistons","http://dbpedia.org/resource/1982–83_Detroit_Pistons_season"
+"0","4","Chicago Bulls","http://dbpedia.org/resource/Chicago_Bulls","http://dbpedia.org/resource/1982–83_Chicago_Bulls_season"
+"0","5","Cleveland Cavaliers","http://dbpedia.org/resource/Cleveland_Cavaliers","http://dbpedia.org/resource/1982–83_Cleveland_Cavaliers_season"
+"0","6","Indiana Pacers","http://dbpedia.org/resource/Indiana_Pacers","http://dbpedia.org/resource/1982–83_Indiana_Pacers_season"

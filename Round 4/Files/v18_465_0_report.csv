@@ -1,0 +1,8 @@
+"F1: 0.60000","Precision: 0.60000","Recall: 0.60000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","2","T. Brown","http://dbpedia.org/resource/Tim_Brown_(American_football)","http://dbpedia.org/resource/Thomas_Brown_(defensive_end)"
+"0","3","T. Brown","http://dbpedia.org/resource/Tim_Brown_(American_football)","http://dbpedia.org/resource/Theotis_Brown"
+"0","4","T. Young","http://dbpedia.org/resource/Titus_Young","http://dbpedia.org/resource/Theo_Young"
+"0","6","T. Doyle","http://dbpedia.org/resource/Ted_Doyle","http://dbpedia.org/resource/Theo_Doyle"
+"0","7","T. Bell","http://dbpedia.org/resource/Todd_Bell","http://dbpedia.org/resource/Theo_Bell"
+"0","12","T. Johnson","http://dbpedia.org/resource/Terrence_Johnson","http://dbpedia.org/resource/Teyo_Johnson"

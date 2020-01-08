@@ -1,0 +1,55 @@
+F1: 0.63194,Precision: 0.63194,Recall: 0.63194,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,5,USS O'Brien,http://dbpedia.org/resource/USS_O'Brien_(DD-415),http://dbpedia.org/resource/USS_O'Brien_(TB-30)
+0,6,USS O'Brien,http://dbpedia.org/resource/USS_O'Brien_(DD-415),http://dbpedia.org/resource/USS_O'Brien_(DD-725) http://dbpedia.org/resource/DD-725
+0,7,USS O'Brien,http://dbpedia.org/resource/USS_O'Brien_(DD-415),http://dbpedia.org/resource/USS_O'Brien_(DD-51)
+0,8,USS O'Bannon,http://dbpedia.org/resource/USS_O'Bannon_(DD-450),http://dbpedia.org/resource/USS_O'Bannon_(DD-177)
+0,16,USS Notable,http://dbpedia.org/resource/USS_Notable_(AM-267),http://dbpedia.org/resource/USS_Notable_(MSO-460) http://dbpedia.org/resource/USS_Notable_(AM-460)
+0,20,USS North Dakota,http://dbpedia.org/resource/USS_North_Dakota_(BB-29),http://dbpedia.org/resource/USS_North_Dakota_(SSN-783) http://dbpedia.org/resource/USS_North_Dakota_(SSN-784) http://dbpedia.org/resource/SSN-784
+0,21,USS North Carolina,http://dbpedia.org/resource/USS_North_Carolina_(ACR-12),http://dbpedia.org/resource/USS_North_Carolina_(SSN_777) http://dbpedia.org/resource/SSN-777 http://dbpedia.org/resource/USS_North_Carolina_(SSN-777)
+0,23,USS North Carolina,http://dbpedia.org/resource/USS_North_Carolina_(ACR-12),http://dbpedia.org/resource/USS_North_Carolina_(1820)
+0,24,USS Norfolk,http://dbpedia.org/resource/USS_Norfolk_(SSN-714),http://dbpedia.org/resource/USS_Norfolk_(DL-1) http://dbpedia.org/resource/USS_Norfolk_(CLK-1) http://dbpedia.org/resource/DL-1
+0,26,USS Noa,http://dbpedia.org/resource/USS_Noa_(DD-841),http://dbpedia.org/resource/USS_Noa_(APD-24) http://dbpedia.org/resource/USS_Noa_(DD-343)
+0,30,USS Nimble,http://dbpedia.org/resource/USS_Nimble_(AM-266),http://dbpedia.org/resource/USS_Nimble_(AM-459) http://dbpedia.org/resource/USS_Nimble_(MSO-459)
+0,32,USS Nightingale,http://dbpedia.org/resource/USS_Nightingale_(1851),http://dbpedia.org/resource/USS_Nightingale_(MSCO-50) http://dbpedia.org/resource/USS_YMS-290 http://dbpedia.org/resource/USS_Nightingale_(YMS-290) http://dbpedia.org/resource/USS_Nightingale_(MSC(O)-50) http://dbpedia.org/resource/YMS-290 http://dbpedia.org/resource/USS_Nightingale_(AMS-50)
+0,34,USS Nicholson,http://dbpedia.org/resource/USS_Nicholson_(DD-442),http://dbpedia.org/resource/USS_Nicholson_(TB-29)
+0,35,USS Nicholson,http://dbpedia.org/resource/USS_Nicholson_(DD-442),http://dbpedia.org/resource/USS_Nicholson_(DD-52)
+0,37,USS Nicholas,http://dbpedia.org/resource/USS_Nicholas_(DD-449),http://dbpedia.org/resource/USS_Nicholas_(DD-311) http://dbpedia.org/resource/DD-311
+0,40,USS Niagara,http://dbpedia.org/resource/USS_Niagara_(APA-87),http://dbpedia.org/resource/USS_Niagara_(AGP-1) http://dbpedia.org/resource/USS_Niagara_(PG-52) http://dbpedia.org/resource/USS_Niagara_(CMc-2) http://dbpedia.org/resource/USS_Niagara_(PG-58) http://dbpedia.org/resource/USS_Niagara_(torpedo_boat_tender/gunboat)
+0,41,USS Niagara,http://dbpedia.org/resource/USS_Niagara_(APA-87),http://dbpedia.org/resource/USS_Niagara_(1855)
+0,42,USS Newport News,http://dbpedia.org/resource/USS_Newport_News_(AK-3),http://dbpedia.org/resource/USS_Newport_News_(CA-148)
+0,43,USS Newport,http://dbpedia.org/resource/USS_Newport_(PF-27),http://dbpedia.org/resource/USS_Newport_(PG-12) http://dbpedia.org/resource/USS_Newport_(IX-19)
+0,45,USS Newport,http://dbpedia.org/resource/USS_Newport_(PF-27),http://dbpedia.org/resource/ARM_Papaloapan_(P-411) http://dbpedia.org/resource/USS_LST-1179 http://dbpedia.org/resource/ARM_Sonora_(A-4) http://dbpedia.org/resource/USS_Newport_(LST-1179) http://dbpedia.org/resource/ARM_Papaloapan_(A411)
+0,50,USS Newark,http://dbpedia.org/resource/USS_San_Jacinto_(CVL-30),http://dbpedia.org/resource/USS_Newark_(C-1)
+0,51,USS New York,http://dbpedia.org/resource/USS_New_York_(BB-34),http://dbpedia.org/resource/LPD-21 http://dbpedia.org/resource/USS_New_York_(LPD-21) http://dbpedia.org/resource/USS_New_York_(LPD_21)
+0,52,USS New York,http://dbpedia.org/resource/USS_New_York_(BB-34),http://dbpedia.org/resource/USS_New_York_(ACR-2) http://dbpedia.org/resource/USS_Saratoga_(ACR-2) http://dbpedia.org/resource/USS_New_York_(CA-2) http://dbpedia.org/resource/USS_Rochester_(ACR-2) http://dbpedia.org/resource/USS_Rochester_(CA-2)
+0,53,USS New Orleans,http://dbpedia.org/resource/USS_New_Orleans_(CL-22),http://dbpedia.org/resource/LPH-11 http://dbpedia.org/resource/USS_New_Orleans_(LPH-11)
+0,54,USS New Orleans,http://dbpedia.org/resource/USS_New_Orleans_(CL-22),http://dbpedia.org/resource/LPD-18 http://dbpedia.org/resource/USS_New_Orleans_(LPD-18) http://dbpedia.org/resource/USS_New_Orleans_(LPD_18)
+0,56,USS New Mexico,http://dbpedia.org/resource/USS_New_Mexico_(BB-40),http://dbpedia.org/resource/USS_New_Mexico_(SSN_779) http://dbpedia.org/resource/SSN-779 http://dbpedia.org/resource/USS_New_Mexico_(SSN-779)
+0,59,USS New Ironsides,http://dbpedia.org/resource/USS_New_York_(BB-34),http://dbpedia.org/resource/USS_New_Ironsides http://dbpedia.org/resource/USS_New_Ironsides_(1862)
+0,62,USS New Hampshire,http://dbpedia.org/resource/USS_New_Hampshire_(BB-25),"http://dbpedia.org/resource/The_New_Hampshire_(Manchester,_Massachusetts) http://dbpedia.org/resource/USS_New_Hampshire_(1864) http://dbpedia.org/resource/USS_Granite_State http://dbpedia.org/resource/USS_Alabama_(1819)"
+0,71,USS Nereus,http://dbpedia.org/resource/USS_Nereus_(AC-10),http://dbpedia.org/resource/USS_Nereus_(AS-17)
+0,74,USS Neosho,http://dbpedia.org/resource/USS_Neosho_(AO-143),http://dbpedia.org/resource/USS_Neosho_(AO-48) http://dbpedia.org/resource/SS_Catawba http://dbpedia.org/resource/SS_Catwaba
+0,76,USS Neosho,http://dbpedia.org/resource/USS_Neosho_(AO-143),http://dbpedia.org/resource/USS_Osceola_(1869) http://dbpedia.org/resource/USS_Vixen_(1869) http://dbpedia.org/resource/USS_Neosho_(1863)
+0,79,USS Nehenta Bay,http://dbpedia.org/resource/USS_Oyster_Bay_(AGP-6),http://dbpedia.org/resource/USS_Nehenta_Bay http://dbpedia.org/resource/USS_Nehenta_Bay_(CVU-74) http://dbpedia.org/resource/USS_Nehenta_Bay_(CVE-74) http://dbpedia.org/resource/USS_Nehenta_Bay_(AKV-24)
+0,81,USS Neches,http://dbpedia.org/resource/USS_Neches_(AO-5),http://dbpedia.org/resource/SS_Aekay http://dbpedia.org/resource/USS_Neches_(AO-47)
+0,87,USS Navajo,http://dbpedia.org/resource/USS_Navajo_(ATA-211),http://dbpedia.org/resource/USS_Navajo_(AT–64) http://dbpedia.org/resource/USS_Navajo_(AT-64)
+0,89,USS Nausett,http://dbpedia.org/resource/USS_Nausett_(IX-190),http://dbpedia.org/resource/USS_Nausett_(1865) http://dbpedia.org/resource/USS_Aetna http://dbpedia.org/resource/USS_Aetna_(1869)
+0,92,USS Naubuc,http://dbpedia.org/resource/USS_Naubuc_(AN-84),http://dbpedia.org/resource/USS_Minnetonka_(1869) http://dbpedia.org/resource/USS_Gorgon http://dbpedia.org/resource/USS_Gorgon_(1869) http://dbpedia.org/resource/USS_Naubuc_(1864)
+0,94,USS Natoma Bay,http://dbpedia.org/resource/USS_Oyster_Bay_(AGP-6),http://dbpedia.org/resource/USS_Natoma_Bay http://dbpedia.org/resource/USS_Natoma_Bay_(ACV-62) http://dbpedia.org/resource/USS_Natoma_Bay_(AVG-62) http://dbpedia.org/resource/USS_Natoma_Bay_(CVU-62) http://dbpedia.org/resource/USS_Natoma_Bay_(CVE-62)
+0,100,USS Nashville,http://dbpedia.org/resource/USS_Nashville_(CL-43),http://dbpedia.org/resource/USS_Nashville_(PG-7)
+0,101,USS Nashville,http://dbpedia.org/resource/USS_Nashville_(CL-43),http://dbpedia.org/resource/USS_Nashville_(LPD-13) http://dbpedia.org/resource/LPD-13
+0,102,USS Narwhal,http://dbpedia.org/resource/HMS_Narwhal_(N45),http://dbpedia.org/resource/USS_V-5_(SS-167) http://dbpedia.org/resource/USS_V-5_(SC-1) http://dbpedia.org/resource/USS_Narwhal_(SC-1) http://dbpedia.org/resource/USS_V-5_(SF-8) http://dbpedia.org/resource/USS_Narwhal_(SS-167) http://dbpedia.org/resource/USS_Narwhal_(SF-8) http://dbpedia.org/resource/SS-167 http://dbpedia.org/resource/USS_V-5
+0,105,USS Narragansett,http://dbpedia.org/resource/USS_Narragansett_(AT-88),http://dbpedia.org/resource/USS_Narragansett_(1859)
+0,106,USS Narkeeta,http://dbpedia.org/resource/USS_Narkeeta_(1891),http://dbpedia.org/resource/USS_Narkeeta_(YTM-133) http://dbpedia.org/resource/USS_Narkeeta_(YT–133) http://dbpedia.org/resource/USS_Narkeeta_(YT-133)
+0,110,USS Napa,http://dbpedia.org/resource/USS_Napa_(AT-32),http://dbpedia.org/resource/APA-157 http://dbpedia.org/resource/USS_Napa_(APA-157) http://dbpedia.org/resource/USS_Napa_(LPA-157)
+0,114,USS Nantahala,http://dbpedia.org/resource/USS_Nantahala_(AO-60),http://dbpedia.org/resource/USS_Nantahala_(1918) http://dbpedia.org/resource/USS_Nantahala_(ID-3519)
+0,124,USS Nahant,http://dbpedia.org/resource/USS_Nahant_(AN-83),http://dbpedia.org/resource/USS_Nahant_(1862) http://dbpedia.org/resource/USS_Atlas_(1869)
+0,126,USS N-7,http://dbpedia.org/resource/USS_Wasp_(CV-7),http://dbpedia.org/resource/USS_N-7 http://dbpedia.org/resource/SS-59 http://dbpedia.org/resource/USS_N-7_(SS-59)
+0,127,USS N-6,http://dbpedia.org/resource/USS_LST-6,http://dbpedia.org/resource/USS_N-6_(SS-58) http://dbpedia.org/resource/USS_N-6 http://dbpedia.org/resource/SS-58
+0,128,USS N-5,http://dbpedia.org/resource/USS_Yorktown_(CV-5),http://dbpedia.org/resource/USS_N-5_(SS-57) http://dbpedia.org/resource/USS_N-5 http://dbpedia.org/resource/SS-57
+0,129,USS N-4,http://dbpedia.org/resource/USS_Boxer_(CV-21),http://dbpedia.org/resource/USS_N-4_(SS-56) http://dbpedia.org/resource/USS_N-4 http://dbpedia.org/resource/SS-56
+0,130,USS N-3,http://dbpedia.org/resource/USS_Saratoga_(CV-3),http://dbpedia.org/resource/USS_N-3_(SS-55) http://dbpedia.org/resource/SS-55 http://dbpedia.org/resource/USS_N-3
+0,131,USS N-2,http://dbpedia.org/resource/USS_Lexington_(CV-2),http://dbpedia.org/resource/SS-54 http://dbpedia.org/resource/USS_N-2 http://dbpedia.org/resource/USS_N-2_(SS-54)
+0,132,USS N-1,http://dbpedia.org/resource/USS_Langley_(CV-1),http://dbpedia.org/resource/USS_N-1 http://dbpedia.org/resource/USS_N-1_(SS-53) http://dbpedia.org/resource/SS-53
+0,139,USS Murray,http://dbpedia.org/resource/USS_Murray_(DD-97),http://dbpedia.org/resource/USS_Murray_(DD-576) http://dbpedia.org/resource/USS_Murray_(DDE-576)

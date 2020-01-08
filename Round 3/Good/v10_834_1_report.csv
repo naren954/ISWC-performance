@@ -1,0 +1,5 @@
+F1: 0.95161,Precision: 0.95161,Recall: 0.95161,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,24,Miss Tahiti,http://pt.dbpedia.org/resource/Acalypha_wilkesiana_'Tahiti',http://dbpedia.org/resource/Miss_Tahiti
+1,39,Horse markings,http://dbpedia.org/resource/Havana_Marking,http://dbpedia.org/resource/Bald_face http://dbpedia.org/resource/Sock_(anatomy) http://dbpedia.org/resource/Corn_spot http://dbpedia.org/resource/Birdcatcher_spots http://dbpedia.org/resource/Corn_mark http://dbpedia.org/resource/Birdcatcher_ticks http://dbpedia.org/resource/Crooked_Blaze http://dbpedia.org/resource/Horse_markings
+1,56,Eva Luna,http://dbpedia.org/resource/Eva_Luna_(horse),http://dbpedia.org/resource/Eva_Luna

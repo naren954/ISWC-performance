@@ -1,0 +1,4 @@
+"F1: 0.33333","Precision: 0.33333","Recall: 0.33333"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","2","London Bridge","http://dbpedia.org/resource/London_Bridge_station","http://dbpedia.org/resource/Old_London_Bridge http://dbpedia.org/resource/New_London_Bridge http://dbpedia.org/resource/London_Bridge http://dbpedia.org/resource/Loddon_Bridge http://dbpedia.org/resource/London_bridge"
+"1","4","Loughton â\u0080","http://dbpedia.org/resource/C0_and_C1_control_codes","http://dbpedia.org/resource/Loughton,_England http://dbpedia.org/resource/Loughton http://dbpedia.org/resource/Oaklands_School_(Essex) http://dbpedia.org/resource/Loughton,_Essex http://dbpedia.org/resource/Www.oaklandsschool.co.uk"

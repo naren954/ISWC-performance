@@ -1,0 +1,5 @@
+"F1: 0.81250","Precision: 0.81250","Recall: 0.81250"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","7","Tattoo","http://dbpedia.org/resource/Tattoo_(Van_Halen_song)","http://dbpedia.org/resource/Tattoo_(The_Who_song)"
+"1","10","Good Morning Good Morning","http://dbpedia.org/resource/Good_Morning_(1939_song)","http://dbpedia.org/resource/Good_Morning_Good_Morning http://dbpedia.org/resource/Good_Morning_Good_Morning_(The_Beatles_song) http://dbpedia.org/resource/Good_Morning,_Good_Morning"
+"1","14","Misery","http://dbpedia.org/resource/Misery_(Maroon_5_song)","http://dbpedia.org/resource/Misery_(Beatles_song) http://dbpedia.org/resource/Misery_(The_Beatles_song)"

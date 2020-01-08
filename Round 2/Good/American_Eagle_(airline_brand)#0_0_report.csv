@@ -1,0 +1,4 @@
+F1: 0.80000,Precision: 0.80000,Recall: 0.80000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,9,Republic Airlines[14],http://dbpedia.org/resource/Republic_Airways_(airline),http://dbpedia.org/resource/Republic_Airlines http://dbpedia.org/resource/Republic_Air http://dbpedia.org/resource/Republic_(airline)
+0,10,SkyWest Airlines,http://dbpedia.org/resource/Virgin_Australia_Regional_Airlines,http://dbpedia.org/resource/Delta_Connection_by_SkyWest http://dbpedia.org/resource/Skyw http://dbpedia.org/resource/SkyWest_Airlines http://dbpedia.org/resource/SkyWest http://dbpedia.org/resource/UNITED_EXPRESS/SKYWEST http://dbpedia.org/resource/SkyWest_(airline) http://dbpedia.org/resource/Skywest_(American_airline)

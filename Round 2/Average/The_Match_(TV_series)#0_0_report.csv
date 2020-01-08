@@ -1,0 +1,5 @@
+F1: 0.72727,Precision: 0.72727,Recall: 0.72727,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,Danny Young,http://dbpedia.org/resource/Danny_Young_(basketball),http://dbpedia.org/resource/Danny_Young_(UK_actor) http://dbpedia.org/resource/Danny_Richardson-Young http://dbpedia.org/resource/Danny_Young_(actor)
+0,6,Anthony Hutton,http://dbpedia.org/resource/Alan_Hutton,http://dbpedia.org/resource/Anthony_Hutton
+0,10,Sam Robertson,http://dbpedia.org/resource/Sam_Robertson_(American_football),http://dbpedia.org/resource/Sam_Robertson

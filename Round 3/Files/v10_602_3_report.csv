@@ -1,0 +1,5 @@
+"F1: 0.95385","Precision: 0.95385","Recall: 0.95385"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"3","3","Vancouver Grizzlies","http://dbpedia.org/resource/Memphis_Grizzlies","http://dbpedia.org/resource/Vancouver_Grizzlies"
+"3","30","Cincinnati Royals","http://dbpedia.org/resource/Sacramento_Kings","http://dbpedia.org/resource/Cincinnati_Royals"
+"3","32","Seattle SuperSonics","http://dbpedia.org/resource/Oklahoma_City_Thunder","http://dbpedia.org/resource/Seattle_supersonics http://dbpedia.org/resource/Seattle_SuperSonics http://dbpedia.org/resource/History_of_the_Seattle_SuperSonics http://dbpedia.org/resource/Seattle_Sonics http://dbpedia.org/resource/The_Supes http://dbpedia.org/resource/SuperSonics http://dbpedia.org/resource/Seattle_Supersonics http://dbpedia.org/resource/Seattle_Super_Sonics http://dbpedia.org/resource/Supersonics"

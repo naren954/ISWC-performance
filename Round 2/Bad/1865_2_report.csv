@@ -1,0 +1,18 @@
+F1: 0.44828,Precision: 0.44828,Recall: 0.44828,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,1,R. Kuhlman,http://dbpedia.org/resource/Walter_Kuhlman,http://dbpedia.org/resource/Roy_Kuhlman
+2,3,M. Harrison,http://dbpedia.org/resource/Michael_Harrison_(writer),http://dbpedia.org/resource/Mark_Harrison_(artist) http://dbpedia.org/resource/Mark_Harrison_(comics) http://dbpedia.org/resource/Mark_Harrison_(comic_artist)
+2,4,S. Hickman,http://dbpedia.org/resource/Jonathan_Hickman,http://dbpedia.org/resource/Stephen_Hickman
+2,6,P. Bacon,http://dbpedia.org/resource/Francis_Bacon_(artist),http://dbpedia.org/resource/Bmcpher:example/Paul_Bacon_(designer) http://dbpedia.org/resource/Paul_Bacon_(designer)
+2,8,C. McGrath,http://dbpedia.org/resource/Charles_McGrath,http://dbpedia.org/resource/Christian_McGrath http://dbpedia.org/resource/Chris_McGrath_(artist)
+2,12,K. Birdsong,http://dbpedia.org/resource/Mary_Birdsong,http://dbpedia.org/resource/Keith_Birdsong
+2,13,P. Bacon,http://dbpedia.org/resource/Francis_Bacon_(artist),http://dbpedia.org/resource/Bmcpher:example/Paul_Bacon_(designer) http://dbpedia.org/resource/Paul_Bacon_(designer)
+2,16,S. Shahinian,"http://ru.dbpedia.org/resource/Шагинян,_Мирэль_Яковлевна",http://dbpedia.org/resource/Sako_Shahinian
+2,17,K. Parkinson,http://dbpedia.org/resource/Sydney_Parkinson,http://dbpedia.org/resource/Keith_Parkinson
+2,18,G. Brom,http://de.dbpedia.org/resource/Joseph_Brom,http://dbpedia.org/resource/Brom_(artist) http://dbpedia.org/resource/Gerald_Brom
+2,19,G. Hunt,http://dbpedia.org/resource/Greg_Hunt,http://dbpedia.org/resource/Geoff_Hunt_(marine_artist)
+2,20,H. L. Hoffman,http://dbpedia.org/resource/Richard_L._Hoffman,http://dbpedia.org/resource/H._Lawrence_Hoffman
+2,21,B. Pennington,http://dbpedia.org/resource/William_Sanford_Pennington,http://dbpedia.org/resource/Bruce_Pennington
+2,24,K. Parkinson,http://dbpedia.org/resource/Sydney_Parkinson,http://dbpedia.org/resource/Keith_Parkinson
+2,25,T. O'Brien,http://dbpedia.org/resource/Tim_O'Brien_(author),http://dbpedia.org/resource/Tim_O'Brien_(illustrator)
+2,26,P. Bacon,http://dbpedia.org/resource/Francis_Bacon_(artist),http://dbpedia.org/resource/Bmcpher:example/Paul_Bacon_(designer) http://dbpedia.org/resource/Paul_Bacon_(designer)

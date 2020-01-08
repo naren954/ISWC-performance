@@ -1,0 +1,4 @@
+"F1: 0.91667","Precision: 0.91667","Recall: 0.91667"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","4","Enterprise","http://dbpedia.org/resource/Enterprise,_Alabama","http://dbpedia.org/resource/Enterprise,_NT http://dbpedia.org/resource/Enterprise,_N.W.T http://dbpedia.org/resource/Enterprise,_Northwest_Territories"
+"0","8","Fort Providence","http://dbpedia.org/resource/Providence,_Rhode_Island","http://dbpedia.org/resource/Zhahti_Koe http://dbpedia.org/resource/Fort_Providence,_Northwest_Territories http://dbpedia.org/resource/Fort_Providence,_NT http://dbpedia.org/resource/Fort_Providence http://dbpedia.org/resource/Fort_Providence_(Northwest_Territories) http://dbpedia.org/resource/Zhahti_Kue"

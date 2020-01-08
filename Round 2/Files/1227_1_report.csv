@@ -1,0 +1,6 @@
+"F1: 0.80000","Precision: 0.80000","Recall: 0.80000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","5","M. McKay","http://dbpedia.org/resource/Mike_McKay_(basketball)","http://dbpedia.org/resource/Michael_McKay_(rower) http://dbpedia.org/resource/Mike_McKay_(rower)"
+"1","6","K. Marshall","http://dbpedia.org/resource/Kendall_Marshall","http://dbpedia.org/resource/Kirstie_Marshall"
+"1","17","D. Gray","http://dbpedia.org/resource/Demarai_Gray","http://dbpedia.org/resource/Edgar_""Dunc""_Gray http://dbpedia.org/resource/Dunc_Gray"
+"1","20","E. C. Sr.","http://dbpedia.org/resource/Charles_Evans_Hughes","http://dbpedia.org/resource/Edwin_Carr,_Sr. http://dbpedia.org/resource/Edwin_(Slip)_Carr http://dbpedia.org/resource/Slip_carr http://dbpedia.org/resource/Slip_Carr"

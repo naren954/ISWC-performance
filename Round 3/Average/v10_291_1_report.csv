@@ -1,0 +1,6 @@
+F1: 0.63636,Precision: 0.63636,Recall: 0.63636,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,4,Dartford,http://dbpedia.org/resource/Dartford_Loop_Line,"http://dbpedia.org/resource/Dartford,_Kent http://dbpedia.org/resource/Dartford http://dbpedia.org/resource/Dartford_(town) http://dbpedia.org/resource/UN/LOCODE:GBDFD http://dbpedia.org/resource/Dartford,_England http://dbpedia.org/resource/Municipal_Borough_of_Dartford"
+1,5,Aslockton,http://dbpedia.org/resource/Aslockton_railway_station,"http://dbpedia.org/resource/Aslockton http://dbpedia.org/resource/Aslockton,_Nottinghamshire"
+1,6,Suffolk,"http://dbpedia.org/resource/Thomas_Howard,_1st_Earl_of_Suffolk","http://dbpedia.org/resource/Suffolk,_England http://dbpedia.org/resource/County_of_Suffolk http://dbpedia.org/resource/Wyverstone_Street http://dbpedia.org/resource/Suffolk http://dbpedia.org/resource/Yoxford_Little_Street http://dbpedia.org/resource/Suffolk,_UK"
+1,11,Bridge of Allan,http://dbpedia.org/resource/Bridge_of_Allan_railway_station,"http://dbpedia.org/resource/Bridge-of-Allan http://dbpedia.org/resource/Bridge_of_Allan,_Stirlingshire http://dbpedia.org/resource/Bridge_of_allan http://dbpedia.org/resource/Bridge_of_Allan http://dbpedia.org/resource/Bridge_of_Allen"

@@ -1,0 +1,6 @@
+"F1: 0.91489","Precision: 0.91489","Recall: 0.91489"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"2","5","Adam Smith","http://dbpedia.org/resource/Adam_Smith_(footballer,_born_1991)","http://dbpedia.org/resource/Adam_Smith_(footballer_born_1992) http://dbpedia.org/resource/Adam_Smith_(footballer,_born_1992)"
+"2","19","Aleksander Tunchev","nan","http://dbpedia.org/resource/Aleksander_Tunchev http://dbpedia.org/resource/Aleksandar_Tunchev"
+"2","36","Shane Byrne","http://dbpedia.org/resource/Shane_Byrne_(rugby_union)","http://dbpedia.org/resource/Shane_Byrne_(footballer)"
+"2","37","Moreno*","http://dbpedia.org/resource/Ángel_Moreno","http://dbpedia.org/resource/Moreno_(footballer_born_1981) http://dbpedia.org/resource/João_Miguel_da_Cunha_Teixeira http://dbpedia.org/resource/Moreno_(Portuguese_footballer) http://dbpedia.org/resource/Joao_Miguel_da_Cunha_Teixeira"

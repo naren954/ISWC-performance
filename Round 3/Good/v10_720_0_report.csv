@@ -1,0 +1,4 @@
+F1: 0.99000,Precision: 0.99000,Recall: 0.99000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,S/2000,http://dbpedia.org/resource/Dia_(moon),http://dbpedia.org/resource/S/2000_(1998_WW31)_1
+0,3,P/2010 A2,http://dbpedia.org/resource/354P/LINEAR,http://dbpedia.org/resource/P/2010_A2 http://dbpedia.org/resource/P/2010_A2_(LINEAR)

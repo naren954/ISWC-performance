@@ -1,0 +1,10 @@
+F1: 0.95628,Precision: 0.95628,Recall: 0.95628,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,117,2014 YB35,http://dbpedia.org/resource/(523775)_2014_YB35,http://dbpedia.org/resource/2014_YB35 http://dbpedia.org/resource/2014-YB35
+0,128,2014 LM28,http://dbpedia.org/resource/(523719)_2014_LM28,http://dbpedia.org/resource/2014_LM28
+0,139,2013 MZ5,http://dbpedia.org/resource/(511002)_2013_MZ5,http://dbpedia.org/resource/2013_MZ5
+0,143,2013 FZ27,http://dbpedia.org/resource/(523671)_2013_FZ27,http://dbpedia.org/resource/2013_FZ27 http://dbpedia.org/resource/2013FZ27
+0,144,2013 FY27,http://dbpedia.org/resource/(532037)_2013_FY27,http://dbpedia.org/resource/2013_FY27
+0,152,2012 MU2,http://dbpedia.org/resource/(523662)_2012_MU2,http://dbpedia.org/resource/2012_MU2
+0,172,2011 BT15,http://dbpedia.org/resource/(471240)_2011_BT15,http://dbpedia.org/resource/2011_BT15
+0,179,2010 RE64,http://dbpedia.org/resource/(523639)_2010_RE64,http://dbpedia.org/resource/2010_RE64

@@ -1,0 +1,5 @@
+F1: 0.85000,Precision: 0.85000,Recall: 0.85000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,4,Yummy,http://dbpedia.org/resource/Yummy_(Chelo_song),http://dbpedia.org/resource/Yummy_(album)
+0,5,Yummy,http://dbpedia.org/resource/Yummy_(Chelo_song),http://dbpedia.org/resource/Yummy_(Gwen_Stefani_song)
+0,16,Yr,http://dbpedia.org/resource/Italy,http://dbpedia.org/resource/Yr_(album)

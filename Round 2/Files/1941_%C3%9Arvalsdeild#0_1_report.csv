@@ -1,0 +1,6 @@
+"F1: 0.20000","Precision: 0.20000","Recall: 0.20000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","1","KR","http://dbpedia.org/resource/South_Korea","http://dbpedia.org/resource/Knattspyrnufélag_Reykjavíkur"
+"1","2","Valur","http://dbpedia.org/resource/Gyrfalcon","http://dbpedia.org/resource/Knattspyrnufélagið_Valur http://dbpedia.org/resource/Valur_Football_Club http://dbpedia.org/resource/Valur_Reykjavík http://dbpedia.org/resource/Valur_Reykjavik http://dbpedia.org/resource/Valur"
+"1","4","Fram","http://dbpedia.org/resource/Royal_Academy_of_Music","http://dbpedia.org/resource/Knattspyrnufélagið_Fram"
+"1","5","Ã\u008DBA","http://dbpedia.org/resource/European_route_E008","http://dbpedia.org/resource/Knattspyrnufélag_Akureyrar"

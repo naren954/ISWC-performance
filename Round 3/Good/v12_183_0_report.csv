@@ -1,0 +1,15 @@
+F1: 0.82667,Precision: 0.82667,Recall: 0.82667,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,4,Yes or No?,http://dbpedia.org/resource/Yes_It_Is,http://dbpedia.org/resource/Yes_or_No?
+0,6,Yes,http://dbpedia.org/resource/Yes_Minister,http://dbpedia.org/resource/Yes_(film) http://dbpedia.org/resource/Yes_(movie)
+0,13,"Yes, Madam","http://dbpedia.org/resource/Yes,_Madam_(1942_film)","http://dbpedia.org/resource/Yes,_Madam_(1933_film)"
+0,14,"Yes, Madam","http://dbpedia.org/resource/Yes,_Madam_(1942_film)","http://dbpedia.org/resource/Yes,_Madam! http://dbpedia.org/resource/Police_Assassins http://dbpedia.org/resource/In_the_Line_of_Duty_2 http://dbpedia.org/resource/Yes,_Madam http://dbpedia.org/resource/Yes_Madam"
+0,15,"Yes, But...",http://dbpedia.org/resource/Yes_It_Is,"http://dbpedia.org/resource/Oui,_mais... http://dbpedia.org/resource/Yes_but http://dbpedia.org/resource/Yes,_But..."
+0,30,Yellow,http://dbpedia.org/resource/Pokémon_Yellow,http://dbpedia.org/resource/Yellow_(2012_film)
+0,31,Yellow,http://dbpedia.org/resource/Pokémon_Yellow,http://dbpedia.org/resource/Yellow_(2006_feature_film)
+0,32,Yellow,http://dbpedia.org/resource/Pokémon_Yellow,http://dbpedia.org/resource/Yellow_(1998_film)
+0,35,Yejamana,http://dbpedia.org/resource/Yajamana_(2000_film),http://dbpedia.org/resource/Yejamana
+0,43,Yearning,http://dbpedia.org/resource/Yearning_(1964_film),http://dbpedia.org/resource/Yume_no_onna http://dbpedia.org/resource/Yearning_(1993_film)
+0,57,Yatra,http://dbpedia.org/resource/Yatra_(2007_film),http://dbpedia.org/resource/Yatra_(movie) http://dbpedia.org/resource/Yatra_(film)
+0,66,Yankee,http://dbpedia.org/resource/Yankee_White_(NCIS),http://dbpedia.org/resource/Yankee_(film)
+0,71,Yamato,http://dbpedia.org/resource/Space_Battleship_Yamato,http://dbpedia.org/resource/Yamato_(film) http://dbpedia.org/resource/Otoko-tachi_no_Yamato http://dbpedia.org/resource/Otokotachi_no_Yamato

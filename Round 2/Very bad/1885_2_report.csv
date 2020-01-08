@@ -1,0 +1,13 @@
+F1: 0.21429,Precision: 0.21429,Recall: 0.21429,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,1,Judgment Day,http://dbpedia.org/resource/Judgment_Day_(2003),http://dbpedia.org/resource/Judgment_Day_2008 http://dbpedia.org/resource/WWE_Judgment_Day_2008 http://dbpedia.org/resource/Judgment_Day_(2008)
+2,2,Judgment Day,http://dbpedia.org/resource/Judgment_Day_(2003),http://dbpedia.org/resource/Judgment_Day_(2007) http://dbpedia.org/resource/WWE_Judgment_Day_(2007) http://dbpedia.org/resource/Judgment_Day_2007 http://dbpedia.org/resource/WWE_Judgement_Day_2007
+2,3,Judgment Day,http://dbpedia.org/resource/Judgment_Day_(2003),http://dbpedia.org/resource/Judgment_Day_(2006) http://dbpedia.org/resource/Judgment_Day_2006
+2,4,Judgment Day,http://dbpedia.org/resource/Judgment_Day_(2003),http://dbpedia.org/resource/Judgment_Day_(2005) http://dbpedia.org/resource/Judgment_Day_2005
+2,5,Judgment Day,http://dbpedia.org/resource/Judgment_Day_(2003),http://dbpedia.org/resource/Judgment_Day_2004 http://dbpedia.org/resource/Judgment_Day_(2004)
+2,8,Royal Rumble,http://dbpedia.org/resource/Royal_Rumble_(2014),http://dbpedia.org/resource/2009_Royal_Rumble http://dbpedia.org/resource/Royal_Rumble_2009 http://dbpedia.org/resource/WWE_Royal_Rumble_(2009) http://dbpedia.org/resource/Royal_Rumble_(2009) http://dbpedia.org/resource/Rr_2009 http://dbpedia.org/resource/Royal_rumble_09 http://dbpedia.org/resource/WWE_Royal_Rumble_2009
+2,9,Royal Rumble,http://dbpedia.org/resource/Royal_Rumble_(2014),http://dbpedia.org/resource/Royal_Rumble_(2008) http://dbpedia.org/resource/Royal_Rumble_2008 http://dbpedia.org/resource/2008_Royal_Rumble http://dbpedia.org/resource/WWE_Royal_Rumble_2008 http://dbpedia.org/resource/Rr_2008
+2,10,New Year's Revolution,http://dbpedia.org/resource/New_Year's_Revolution_(2006),http://dbpedia.org/resource/New_Year's_Revolution_2007 http://dbpedia.org/resource/New_Year's_Revolution_(2007)
+2,12,New Year's Revolution,http://dbpedia.org/resource/New_Year's_Revolution_(2006),http://dbpedia.org/resource/New_Year's_Revolution_(2005)
+2,13,Royal Rumble,http://dbpedia.org/resource/Royal_Rumble_(2014),http://dbpedia.org/resource/Rr_2k4 http://dbpedia.org/resource/Royal_Rumble_2004 http://dbpedia.org/resource/2004_Royal_Rumble http://dbpedia.org/resource/Royal_Rumble_(2004)
+2,14,Royal Rumble,http://dbpedia.org/resource/Royal_Rumble_(2014),http://dbpedia.org/resource/Royal_Rumble_2003 http://dbpedia.org/resource/Royal_Rumble_(2003) http://dbpedia.org/resource/Rr_2003 http://dbpedia.org/resource/2003_Royal_Rumble

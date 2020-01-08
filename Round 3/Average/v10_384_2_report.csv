@@ -1,0 +1,7 @@
+F1: 0.61538,Precision: 0.61538,Recall: 0.61538,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,1,A. Bell,http://dbpedia.org/resource/Andy_Bell_(musician),http://dbpedia.org/resource/Andy_Bell_(singer)
+2,2,D. Warren,http://dbpedia.org/resource/Dale_Warren,http://dbpedia.org/resource/Diane_Warren
+2,3,M. Gray,http://dbpedia.org/resource/Mark_Gray_(singer),"http://dbpedia.org/resource/Macy_Grey http://dbpedia.org/resource/Gray,_Macy http://dbpedia.org/resource/Macy_Gray http://dbpedia.org/resource/Natalie_McIntyre http://dbpedia.org/resource/Macy_gray"
+2,6,C. Black,http://dbpedia.org/resource/Code_Black_(DJ),"http://dbpedia.org/resource/Black,_Clint http://dbpedia.org/resource/Clint_Black"
+2,12,J. Shanks,http://dbpedia.org/resource/Bud_Shank,http://dbpedia.org/resource/John_Shanks

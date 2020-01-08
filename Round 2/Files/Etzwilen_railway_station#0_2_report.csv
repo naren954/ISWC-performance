@@ -1,0 +1,5 @@
+"F1: 0.00000","Precision: 0.00000","Recall: 0.00000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"2","1","Zurich S-Bahn S29 service","http://dbpedia.org/resource/S29_(ZVV)","http://dbpedia.org/resource/Zurich_S-Bahn http://dbpedia.org/resource/Gold_Coast_Express_(Zürich) http://dbpedia.org/resource/Zürich_S-Bahn http://dbpedia.org/resource/Goldküstenexpress http://dbpedia.org/resource/S-Bahn_Zurich http://dbpedia.org/resource/Zuerich_S-Bahn http://dbpedia.org/resource/S-Bahn_Zürich"
+"2","2","St. Gallen S-Bahn S3 service","http://dbpedia.org/resource/Special_Air_Service","http://dbpedia.org/resource/S-Bahn_St._Gallen http://dbpedia.org/resource/St._Gallen_S-Bahn"
+"2","3","St. Gallen S-Bahn S8 service","http://dbpedia.org/resource/S8_(Rhine-Main_S-Bahn)","http://dbpedia.org/resource/S-Bahn_St._Gallen http://dbpedia.org/resource/St._Gallen_S-Bahn"

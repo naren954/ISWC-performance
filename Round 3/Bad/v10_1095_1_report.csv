@@ -1,0 +1,14 @@
+F1: 0.36842,Precision: 0.36842,Recall: 0.36842,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,M. Yamane,http://dbpedia.org/resource/Mai_Yamane,http://dbpedia.org/resource/Yamane_Michiru http://dbpedia.org/resource/Michiru_Yamane
+1,2,M. Yamane,http://dbpedia.org/resource/Mai_Yamane,http://dbpedia.org/resource/Yamane_Michiru http://dbpedia.org/resource/Michiru_Yamane
+1,3,J. Goldsmith,http://dbpedia.org/resource/James_Goldsmith,http://dbpedia.org/resource/Joel_King_Goldsmith http://dbpedia.org/resource/Joel_Goldsmith
+1,4,B. Tyler,http://dbpedia.org/resource/Bonnie_Tyler,"http://dbpedia.org/resource/Brian_Tyler_(composer) http://dbpedia.org/resource/Tyler,_Brian http://dbpedia.org/resource/Brian_Tyler"
+1,5,D. Buckley,http://dbpedia.org/resource/Tim_Buckley,http://dbpedia.org/resource/David_Buckley
+1,6,J. Wall,http://dbpedia.org/resource/Donald_Trump,http://dbpedia.org/resource/Jack_Wall_(composer)
+1,7,S. Murray,http://dbpedia.org/resource/Andy_Murray,http://dbpedia.org/resource/Sean_Murray_(composer)
+1,9,S. Lee,http://dbpedia.org/resource/Stan_Lee,http://dbpedia.org/resource/Shawn_Lee_(musician)
+1,10,P. McConnell,http://dbpedia.org/resource/Drew_McConnell,http://dbpedia.org/resource/Peter_McConnell http://dbpedia.org/resource/Peter_Mc
+1,12,P. McConnell,http://dbpedia.org/resource/Drew_McConnell,http://dbpedia.org/resource/Peter_McConnell http://dbpedia.org/resource/Peter_Mc
+1,13,P. McConnell,http://dbpedia.org/resource/Drew_McConnell,http://dbpedia.org/resource/Peter_McConnell http://dbpedia.org/resource/Peter_Mc
+1,17,J. Hedges,http://dbpedia.org/resource/Michael_Hedges,http://dbpedia.org/resource/Jim_Hedges_(composer)

@@ -1,0 +1,4 @@
+"F1: 0.81818","Precision: 0.81818","Recall: 0.81818"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","6","A. Morgan","http://dbpedia.org/resource/Sir_Charles_Morgan,_2nd_Baronet","http://dbpedia.org/resource/Sir_Arthur_Morgan http://dbpedia.org/resource/Arthur_Morgan_(Queensland_politician) http://dbpedia.org/resource/Arthur_Morgan_(Queensland)"
+"1","7","R. Gietzelt","http://dbpedia.org/resource/Arthur_Gietzelt","http://dbpedia.org/resource/Ray_Gietzelt"

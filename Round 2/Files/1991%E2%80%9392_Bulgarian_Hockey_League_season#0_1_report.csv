@@ -1,0 +1,4 @@
+"F1: 0.60000","Precision: 0.60000","Recall: 0.60000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","4","HK CSKA Sofia","http://dbpedia.org/resource/HC_CSKA_Moscow","http://dbpedia.org/resource/CSKA_Sofia_(ice_hockey) http://dbpedia.org/resource/HK_CSKA_Sofia http://dbpedia.org/resource/PHC_CSKA_Sofia"
+"1","5","Akademik Sofia","http://dbpedia.org/resource/Akademika_Sofia","http://dbpedia.org/resource/Akademik_Sofia http://dbpedia.org/resource/PFC_Akademik_Sofia http://dbpedia.org/resource/Akademic_Sofia"

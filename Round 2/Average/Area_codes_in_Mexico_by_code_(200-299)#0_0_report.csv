@@ -1,0 +1,63 @@
+F1: 0.68394,Precision: 0.68394,Recall: 0.68394,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,13,San AndrÃ©s Cholula,"http://dbpedia.org/resource/Cholula,_Puebla",http://dbpedia.org/resource/San_Andrés_Cholula
+0,35,Tonantzintla,http://es.dbpedia.org/resource/Tonantzintla,"http://dbpedia.org/resource/San_Andres_Cholula http://dbpedia.org/resource/San_Andres_Cholula,_Puebla http://dbpedia.org/resource/San_Andrés_Cholula http://dbpedia.org/resource/San_Andres_Cholula_(municipality) http://dbpedia.org/resource/San_Andrés_Cholula,_Puebla http://dbpedia.org/resource/Tonantzintla"
+0,44,Almolonga,"http://dbpedia.org/resource/Almolonga,_Quetzaltenango","http://dbpedia.org/resource/Cerro_Quemado,_Guatemala http://dbpedia.org/resource/Almolonga"
+0,56,Santo TomÃ¡s HueyotlipÃ¡n,http://dbpedia.org/resource/Santo_Tomás_Hueyotlipan_(municipality),http://dbpedia.org/resource/Santo_Tomás_Hueyotlipán
+0,63,Altotonga,http://ru.dbpedia.org/resource/Альтотонга,http://dbpedia.org/resource/Altotonga_(municipality) http://dbpedia.org/resource/Altotonga http://dbpedia.org/resource/Altotonga_Municipality
+0,67,Huejotzingo,http://dbpedia.org/resource/Huejotzingo_(municipality),http://dbpedia.org/resource/Huejotzingo_Municipality http://dbpedia.org/resource/Huejotzingo
+0,71,San Mateo Ozolco,"http://dbpedia.org/resource/San_Mateo_County,_California","http://dbpedia.org/resource/San_Mateo_Ozolco,_Puebla http://dbpedia.org/resource/San_Mateo_Ozolco"
+0,76,Acajete,"http://dbpedia.org/resource/Acajete_Municipality,_Puebla","http://dbpedia.org/resource/Acajete_Municipality,_Veracruz http://dbpedia.org/resource/Acajete,_Veracruz"
+0,77,Banderilla,http://dbpedia.org/resource/Las_Banderillas,"http://dbpedia.org/resource/Banderilla,_Veracruz"
+0,79,Coatepec,http://de.dbpedia.org/resource/Coatepec,"http://dbpedia.org/resource/Coatepec,_Veracruz"
+0,84,Estanzuela,http://de.dbpedia.org/resource/Estanzuela,http://dbpedia.org/resource/Estanzuela
+0,92,Xico,http://de.dbpedia.org/resource/Xico_(Veracruz),"http://dbpedia.org/resource/Xico_(Veracruz) http://dbpedia.org/resource/Xico,_Veracruz"
+0,102,TeziutlÃ¡n,http://dbpedia.org/resource/Teziutlán_(municipality),http://dbpedia.org/resource/Teziutlán
+0,109,El Pital,"http://dbpedia.org/resource/Pital,_Huila",http://dbpedia.org/resource/El_Pital http://dbpedia.org/resource/El_pital http://dbpedia.org/resource/Cerro_el_Pital http://dbpedia.org/resource/Cerro_El_Pital
+0,115,San Rafael,"http://dbpedia.org/resource/San_Rafael,_California","http://dbpedia.org/resource/San_Rafael,_Veracruz"
+0,118,CuetzalÃ¡n,http://dbpedia.org/resource/Cuetzalan_del_Progreso_(municipality),http://dbpedia.org/resource/Cuetzalán
+0,134,Zaragoza,http://dbpedia.org/resource/Zaragoza,"http://dbpedia.org/resource/Zaragoza_Municipality,_Puebla http://dbpedia.org/resource/Zaragoza,_Puebla"
+0,147,CuicatlÃ¡n,http://dbpedia.org/resource/Cuicatlán_District,http://dbpedia.org/resource/Cuicatlán
+0,148,Huautla de JimÃ©nez,http://es.dbpedia.org/resource/Huautla_de_Jiménez,http://dbpedia.org/resource/Huautla_de_Jiménez
+0,151,TeotitlÃ¡n de Flores MagÃ³n,http://es.dbpedia.org/resource/Teotitlán_de_Flores_Magón,http://dbpedia.org/resource/Teotitlán_de_Flores_Magón
+0,168,JosÃ© MarÃ­a Pino SuÃ¡rez,,http://dbpedia.org/resource/José_María_Pino_Suárez
+0,172,TehuacÃ¡n,http://dbpedia.org/resource/Tehuacán,"http://dbpedia.org/resource/Tehuacán,_Puebla"
+0,197,Chietla,http://es.dbpedia.org/resource/Chietla,http://dbpedia.org/resource/Chietla_Municipality http://dbpedia.org/resource/Chietla http://dbpedia.org/resource/Chietla_(municipality)
+0,242,Esperanza,"http://dbpedia.org/resource/Esperanza,_Ucayali","http://dbpedia.org/resource/Esperanza,_Puebla http://dbpedia.org/resource/Esperanza_(municipality) http://dbpedia.org/resource/Esperanza_Municipality"
+0,256,Santa MarÃ­a Nativitas,http://dbpedia.org/resource/Santa_María_Natívitas,http://dbpedia.org/resource/Santa_María_Nativitas
+0,273,San MartÃ­n Texmelucan de Labastida,http://dbpedia.org/resource/San_Martín_Texmelucan,http://dbpedia.org/resource/San_Martín_Texmelucan_de_Labastida
+0,288,Morelos CaÃ±ada,http://dbpedia.org/resource/Morelos,http://dbpedia.org/resource/Morelos_Cañada
+0,303,AmatlÃ¡n de los Reyes,http://es.dbpedia.org/resource/Amatlán_de_los_Reyes,http://dbpedia.org/resource/Amatlán_de_los_Reyes_(municipality)
+0,305,CÃ³rdoba,"http://dbpedia.org/resource/Córdoba,_Spain","http://dbpedia.org/resource/Córdoba,_Veracruz"
+0,325,Boca del Monte,http://dbpedia.org/resource/Boca_do_Monte,http://dbpedia.org/resource/Boca_del_Monte
+0,326,CamarÃ³n de Tejeda,http://dbpedia.org/resource/Camarón_de_Tejeda_(municipality),http://dbpedia.org/resource/Camarón_de_Tejeda
+0,329,ChocamÃ¡n,http://es.dbpedia.org/resource/San_José_Neria,http://dbpedia.org/resource/Chocamán
+0,341,Temascal,"http://dbpedia.org/resource/Temascal,_Oaxaca",http://dbpedia.org/resource/Temascal http://dbpedia.org/resource/Temescal_(disambiguation) http://dbpedia.org/resource/Temescal
+0,344,El JÃ­caro,"http://dbpedia.org/resource/El_Jícaro,_El_Progreso","http://dbpedia.org/resource/El_Jícaro,_Veracruz"
+0,356,Guadalupe Victoria,"http://dbpedia.org/resource/Victoria,_Texas",http://dbpedia.org/resource/Guadalupe_Victoria http://dbpedia.org/resource/Guadelupe_Victoria http://dbpedia.org/resource/Jose_Miguel_Ramon_Adaucto_Fernandez_y_Felix http://dbpedia.org/resource/José_Miguel_Ramón_Adaucto_Fernández_y_Félix
+0,373,Libres,http://dbpedia.org/resource/Puebla,http://dbpedia.org/resource/Libres_(municipality) http://dbpedia.org/resource/Libres_Municipality
+0,375,Oriental,http://dbpedia.org/resource/East_Flanders,http://dbpedia.org/resource/Oriental_(word) http://dbpedia.org/resource/Oriental http://dbpedia.org/resource/Oriental_world http://dbpedia.org/resource/Orient http://dbpedia.org/resource/European_views_of_the_Orient http://dbpedia.org/resource/The_Orient
+0,385,CuitlÃ¡huac,http://es.dbpedia.org/resource/Cuitláhuac_(Veracruz),"http://dbpedia.org/resource/Cuitláhuac,_Veracruz"
+0,386,El Cuajilote,,http://dbpedia.org/resource/El_Cuajilote
+0,387,El Tamarindo,"http://dbpedia.org/resource/Tamarindo,_Costa_Rica",http://dbpedia.org/resource/Puerto_El_Tamarindo http://dbpedia.org/resource/Puerto_Somoza http://dbpedia.org/resource/El_Tamarindo http://dbpedia.org/resource/Puerto_Sandino
+0,388,Emiliano Zapata,"http://dbpedia.org/resource/Emiliano_Zapata,_Hidalgo","http://dbpedia.org/resource/Emiliano_Zapata_(municipality_of_Veracruz) http://dbpedia.org/resource/Emiliano_Zapata_Municipality,_Veracruz http://dbpedia.org/resource/Emiliano_Zapata,_Veracruz"
+0,396,Tequila,"http://dbpedia.org/resource/Tequila,_Jalisco","http://dbpedia.org/resource/Tequila,_Veracruz"
+0,400,AcatlÃ¡n,"http://dbpedia.org/resource/Acatlán,_Hidalgo","http://dbpedia.org/resource/Acatlán,_Veracruz"
+0,401,Actopan,"http://dbpedia.org/resource/Actopan,_Hidalgo","http://dbpedia.org/resource/Actopan,_Veracruz http://dbpedia.org/resource/Actopan_Municipality,_Veracruz http://dbpedia.org/resource/Actopan_(municipality)"
+0,402,Alto Lucero,http://es.dbpedia.org/resource/Alto_Lucero_de_Gutiérrez_Barrios,"http://dbpedia.org/resource/Alto_Lucero_de_Gutierrez_Barrios http://dbpedia.org/resource/Alto_Lucero_de_Gutiérrez http://dbpedia.org/resource/Alto_Lucero_de_Gutiérrez_Barrios http://dbpedia.org/resource/Alto_Lucero,_Veracruz http://dbpedia.org/resource/Alto_Lucero http://dbpedia.org/resource/Alto_Lucero_de_Gutierrez"
+0,427,Rinconada,"http://dbpedia.org/resource/Rinconada,_Jujuy",http://dbpedia.org/resource/Rinconada
+0,438,CuauhtÃ©moc,http://dbpedia.org/resource/Rojas_de_Cuauhtémoc,http://dbpedia.org/resource/Cuauhtémoc
+0,447,IxhuacÃ¡n de los Reyes,http://dbpedia.org/resource/Ixhuacán,http://dbpedia.org/resource/Ixhuacán_de_los_Reyes
+0,459,Boca del Monte,http://dbpedia.org/resource/Boca_do_Monte,http://dbpedia.org/resource/Boca_del_Monte
+0,460,El Nigromante,http://es.dbpedia.org/resource/El_Perchel,http://dbpedia.org/resource/Ignacio_Ramírez_Calzada http://dbpedia.org/resource/Ignacio_Ramírez http://dbpedia.org/resource/Ignacio_Ramirez http://dbpedia.org/resource/El_Nigromante http://dbpedia.org/resource/Ignacio_Ramirez_Calzada
+0,462,Linda Vista,"http://dbpedia.org/resource/Linda_Vista,_San_Diego",http://dbpedia.org/resource/Tlacotalpan_(municipality) http://dbpedia.org/resource/Tlacotalpan_Municipality
+0,469,Ã\u0081ngel R. Cabada (municipality),http://dbpedia.org/resource/Dot_(diacritic),http://dbpedia.org/resource/Ángel_R._Cabada_(municipality)
+0,477,Ignacio de la Llave,http://dbpedia.org/resource/Veracruz,http://dbpedia.org/resource/Ignacio_de_la_Llave_(municipality) http://dbpedia.org/resource/Ignacio_de_la_Llave
+0,480,Los Robles,http://dbpedia.org/resource/Los_Robles_La_Paz,http://dbpedia.org/resource/Los_Robles
+0,484,Paso de Ovejas,http://dbpedia.org/resource/Ovejas,"http://dbpedia.org/resource/Paso_de_Ovejas,_Veracruz http://dbpedia.org/resource/Paso_de_Ovejas"
+0,507,Cosamaloapan,http://es.dbpedia.org/resource/Cosamaloapan_de_Carpio,http://dbpedia.org/resource/Cosamaloapan
+0,512,Nopaltepec,http://es.dbpedia.org/resource/Municipio_de_Nopaltepec,"http://dbpedia.org/resource/Nopaltepec,_Veracruz"
+0,525,Juan DÃ­az Covarrubias,http://dbpedia.org/resource/Chalco_de_Díaz_Covarrubias,http://dbpedia.org/resource/Juan_Díaz_Covarrubias
+0,543,JosÃ© Cardel,"http://dbpedia.org/resource/José_Cardel,_Veracruz",http://dbpedia.org/resource/José_Cardel
+0,544,La Antigua,http://dbpedia.org/resource/Antigua_Guatemala,"http://dbpedia.org/resource/La_Antigua,_Veracruz"
+0,552,Zempoala,"http://dbpedia.org/resource/Zempoala,_Hidalgo",http://dbpedia.org/resource/Zempoala http://dbpedia.org/resource/Cempoala

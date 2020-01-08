@@ -1,0 +1,5 @@
+"F1: 0.00000","Precision: 0.00000","Recall: 0.00000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"4","1","Mesa (3-2)","http://de.dbpedia.org/resource/Mesa_(Band)","http://dbpedia.org/resource/José_Mesa"
+"4","2","Black (13-11)","http://dbpedia.org/resource/The_Black_Eyed_Peas","http://dbpedia.org/resource/Bud_black http://dbpedia.org/resource/Buddy_Black http://dbpedia.org/resource/Bud_Black"
+"4","3","Olson (6-5)","http://dbpedia.org/resource/Bree_Olson","http://dbpedia.org/resource/Gregg_Olson"

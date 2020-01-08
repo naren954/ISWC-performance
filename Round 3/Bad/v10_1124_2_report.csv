@@ -1,0 +1,16 @@
+F1: 0.48148,Precision: 0.48148,Recall: 0.48148,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,1,Sound of Silence,http://dbpedia.org/resource/The_Sound_of_Silence,http://dbpedia.org/resource/Sound_of_Silence_(Dami_Im_song)
+2,3,You Don't Love Me Anymore,http://dbpedia.org/resource/You_Don't_Love_Me_Anymore_(Eddie_Rabbitt_song),"http://dbpedia.org/resource/You_Don't_Love_Me_Anymore_(""Weird_Al""_Yankovic_song)"
+2,5,Why?,http://dbpedia.org/resource/Why_(Gabrielle_song),http://dbpedia.org/resource/Why?_(Bronski_Beat_song)
+2,7,A Song About Love,http://dbpedia.org/resource/What_About_Love_(Austin_Mahone_song),http://dbpedia.org/resource/Shangri_La_(album) http://dbpedia.org/resource/A_Song_About_Love http://dbpedia.org/resource/Shangri_La_(Jake_Bugg_album)
+2,8,Lay It Down,http://dbpedia.org/resource/Lay_It_Down_(Ratt_song),http://dbpedia.org/resource/Lay_It_Down_(Magnapop_song)
+2,10,Pride,http://dbpedia.org/resource/Bold_&_Delicious/Pride,http://dbpedia.org/resource/Pride_(Amy_Macdonald_song)
+2,11,Number One,http://dbpedia.org/resource/My_Number_One,http://dbpedia.org/resource/Number_One_(R._Kelly_song)
+2,16,Sunshine Girl,http://dbpedia.org/resource/Sunshine_Girl_(Moumoon_song),http://dbpedia.org/resource/Sunshine_Girl_(Herman's_Hermits_song)
+2,20,Eva,http://dbpedia.org/resource/Eve,http://dbpedia.org/resource/Eva_(Nightwish_song)
+2,21,Criminal,http://dbpedia.org/resource/Criminal_(Britney_Spears_song),http://dbpedia.org/resource/Criminal_(Fiona_Apple_song)
+2,22,Testify,http://dbpedia.org/resource/Testify_(Common_song),http://dbpedia.org/resource/Testify_EP http://dbpedia.org/resource/Testify_(Rage_Against_the_Machine_song)
+2,23,Don't Give Up,http://dbpedia.org/resource/I_Don't_Want_Nobody_to_Give_Me_Nothing,http://dbpedia.org/resource/Don't_Give_Up_(Shannon_Noll_and_Natalie_Bassingthwaighte_song) http://dbpedia.org/resource/Don't_Give_Up_(Peter_Gabriel_and_Kate_Bush_song)
+2,25,Pulse,http://dbpedia.org/resource/Pulse_(Toni_Braxton_album),"http://dbpedia.org/resource/""Just_your_Average_Second_On_This_Planet""_1997-1998 http://dbpedia.org/resource/The_Lucky_Monkeys http://dbpedia.org/resource/Fluke_(band) http://dbpedia.org/resource/Pulse_(song) http://dbpedia.org/resource/The_Fluke http://dbpedia.org/resource/Bjango_(Lucky_Monkeys_song) http://dbpedia.org/resource/Lucky_Monkeys http://dbpedia.org/resource/Pulse_(Fluke_song)"
+2,27,Hello,http://dbpedia.org/resource/Hello_(Masaharu_Fukuyama_song),"http://dbpedia.org/resource/Hello_(Adele_song) http://dbpedia.org/resource/""Hello"" http://dbpedia.org/resource/Hello_from_the_otter_slide http://dbpedia.org/resource/Hello_(Adele_single) http://dbpedia.org/resource/Hello_(2015_song) http://dbpedia.org/resource/Hello_(2015) http://dbpedia.org/resource/Adele_Hello http://dbpedia.org/resource/Hello_(Adele) http://dbpedia.org/resource/Hello_from_the_other_side"

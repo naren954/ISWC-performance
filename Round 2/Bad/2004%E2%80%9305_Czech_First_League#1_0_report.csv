@@ -1,0 +1,6 @@
+F1: 0.33333,Precision: 0.33333,Recall: 0.33333,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,LudÄ\u009Bk Zelenka,,http://dbpedia.org/resource/Luděk_Zelenka
+0,3,Stanislav VlÄ\u008Dek,http://dbpedia.org/resource/Stanislav_Klobása,http://dbpedia.org/resource/Stanislav_Vlček
+0,4,JiÅ\u0099Ã­ MaÅ¡ek,,http://dbpedia.org/resource/Jiří_Mašek
+0,5,Marek KuliÄ\u008D,,http://dbpedia.org/resource/Marek_Kulič

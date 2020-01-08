@@ -1,0 +1,3 @@
+F1: 0.92308,Precision: 0.92308,Recall: 0.92308,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,10,John Long,http://dbpedia.org/resource/John_Davis_Long,http://dbpedia.org/resource/John_Long_(North_Carolina_politician) http://dbpedia.org/resource/John_Long_(NC_politician)

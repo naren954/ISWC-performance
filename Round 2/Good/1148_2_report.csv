@@ -1,0 +1,12 @@
+F1: 0.83871,Precision: 0.83871,Recall: 0.83871,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,5,Maverick,http://dbpedia.org/resource/Maverick_(TV_series),http://dbpedia.org/resource/Maverick_(movie) http://dbpedia.org/resource/Maverick_(1994_film) http://dbpedia.org/resource/Maveric http://dbpedia.org/resource/Maverick_(film)
+2,17,Closer to the Heart,http://dbpedia.org/resource/Close_to_My_Heart,http://dbpedia.org/resource/Closer_to_the_Heart http://dbpedia.org/resource/Closer_To_The_Heart http://dbpedia.org/resource/Closer_to_the_heart
+2,24,Monica,http://dbpedia.org/resource/Monica's_Gang,http://dbpedia.org/resource/Monica_(song)
+2,29,Our Delight,http://dbpedia.org/resource/Our_Delights,http://dbpedia.org/resource/Our_Delight
+2,33,Passione,http://dbpedia.org/resource/La_Passione_(2010_film),http://dbpedia.org/resource/Passione_(telenovela)
+2,34,V,http://dbpedia.org/resource/Atlas_V,http://dbpedia.org/resource/V_Series http://dbpedia.org/resource/V_(The_Series) http://dbpedia.org/resource/World_Liberation_Front_(V_series) http://dbpedia.org/resource/World_Liberation_Front http://dbpedia.org/resource/V_(1984_TV_series) http://dbpedia.org/resource/V_(television)
+2,38,Ultraman Orb,http://dbpedia.org/resource/Ultraman_Ace,http://dbpedia.org/resource/Ultraman_Orb
+2,42,Ultraman Nice,http://dbpedia.org/resource/Ultraman_Ace,http://dbpedia.org/resource/Ultraman_Nice
+2,48,Ramona,http://dbpedia.org/resource/Ramona,http://dbpedia.org/resource/Ramona_(2000_telenovela) http://dbpedia.org/resource/Ramona_(2000_TV_series) http://dbpedia.org/resource/Ramona_(telenovela)
+2,59,Super Friends,http://dbpedia.org/resource/Super_Friends_(1973_TV_series),http://dbpedia.org/resource/The_Best_of_Super_Friends http://dbpedia.org/resource/Super_Friends_(1980) http://dbpedia.org/resource/Super_Friends_(1980_TV_series) http://dbpedia.org/resource/Best_of_Super_Friends http://dbpedia.org/resource/The_Super_Friends_Hour

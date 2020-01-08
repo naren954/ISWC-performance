@@ -1,0 +1,5 @@
+F1: 0.76923,Precision: 0.76923,Recall: 0.76923,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,1,Alfa Romeo in motorsport,http://dbpedia.org/resource/McLaren,http://dbpedia.org/resource/Alfa_romeo_in_motorsport http://dbpedia.org/resource/Alfa_Romeo_in_motorsport
+2,8,Benz & Cie.,http://de.dbpedia.org/resource/Benz_&_Cie.,http://dbpedia.org/resource/Benz_&_Co http://dbpedia.org/resource/Benz_Söhne http://dbpedia.org/resource/Carl_Friedrich_Benz http://dbpedia.org/resource/Benz_&_Cie http://dbpedia.org/resource/Benz_&_Co. http://dbpedia.org/resource/Benz_&_Cie. http://dbpedia.org/resource/Karl_Benz http://dbpedia.org/resource/Karl_Friedrich_Benz http://dbpedia.org/resource/Carl_Benz
+2,13,Ballot,http://dbpedia.org/resource/Ballot_(automobile),http://dbpedia.org/resource/Butterfly_ballot http://dbpedia.org/resource/Psephocracy http://dbpedia.org/resource/Punch-card_ballot http://dbpedia.org/resource/Paper_ballot http://dbpedia.org/resource/Ballot http://dbpedia.org/resource/Ballots http://dbpedia.org/resource/Ballot_papers http://dbpedia.org/resource/Ballot_design http://dbpedia.org/resource/Ballot_voting http://dbpedia.org/resource/Ballot_paper

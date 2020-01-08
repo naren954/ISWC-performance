@@ -1,0 +1,4 @@
+F1: 0.81818,Precision: 0.81818,Recall: 0.81818,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,5,AFC[4],http://dbpedia.org/resource/A.F.C._Bournemouth,http://dbpedia.org/resource/AFC_Amsterdam http://dbpedia.org/resource/AFC_(football_club) http://dbpedia.org/resource/Amsterdamsche_FC http://dbpedia.org/resource/Amsterdam_FC
+1,10,DWV Amsterdam,http://dbpedia.org/resource/ASV-DWV,http://dbpedia.org/resource/DWV_Amsterdam http://dbpedia.org/resource/Hermes/DWS http://dbpedia.org/resource/BVC_Amsterdam http://dbpedia.org/resource/AFC_DWS http://dbpedia.org/resource/Door_Wilskracht_Sterk http://dbpedia.org/resource/DWS_Amsterdam

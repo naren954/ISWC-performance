@@ -1,0 +1,36 @@
+F1: 0.77027,Precision: 0.77027,Recall: 0.77027,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,T. Thompson,http://dbpedia.org/resource/Tommy_Thompson_(quarterback),http://dbpedia.org/resource/Tommy_Thompson_(Browns) http://dbpedia.org/resource/Tommy_Thompson_(linebacker)
+0,5,T. James,http://dbpedia.org/resource/Tory_James,http://dbpedia.org/resource/Tommy_James_(football) http://dbpedia.org/resource/Tommy_James_(American_football) http://dbpedia.org/resource/Tommy_James_(football_player)
+0,11,T. Scott,http://dbpedia.org/resource/Trevor_Scott,http://dbpedia.org/resource/Tom_Scott_(offensive_lineman) http://dbpedia.org/resource/Tom_Scott_(offensive_tackle)
+0,26,T. Carter,http://dbpedia.org/resource/Tyrone_Carter,http://dbpedia.org/resource/Tom_Carter_(football_player) http://dbpedia.org/resource/Tom_Carter_(American_football)
+0,29,T. Brown,http://dbpedia.org/resource/Tim_Brown_(American_football),"http://dbpedia.org/resource/Tom_Brown_(running_back) http://dbpedia.org/resource/Tom_Brown_(American_football,_born_1964)"
+0,31,T. Boyd,http://dbpedia.org/resource/Tyler_Boyd_(American_football),http://dbpedia.org/resource/Tom_Boyd_(gridiron_football) http://dbpedia.org/resource/Thomas_Boyd_(American_football) http://dbpedia.org/resource/Tom_Boyd_(American_football)
+0,35,T. Smith,http://dbpedia.org/resource/Timmy_Smith,http://dbpedia.org/resource/Tody_Smith
+0,36,T. Williams,http://dbpedia.org/resource/Thomas_Williams_(American_football),http://dbpedia.org/resource/Todd_Williams_(football_player) http://dbpedia.org/resource/Todd_Williams_(American_football)
+0,37,T. Washington,http://dbpedia.org/resource/Ted_Washington,http://dbpedia.org/resource/Todd_Washington
+0,39,T. Pinkston,http://dbpedia.org/resource/Jason_Pinkston,http://dbpedia.org/resource/Todd_Pinkston http://dbpedia.org/resource/Stinkston
+0,45,T. Collins,http://dbpedia.org/resource/Tony_Collins_(American_football),http://dbpedia.org/resource/Todd_Collins_(quarterback)
+0,47,T. Adams,http://dbpedia.org/resource/Theo_Adams_(American_football),"http://dbpedia.org/resource/Adams,_Titus http://dbpedia.org/resource/Titus_Adams"
+0,49,T. T. Ryan,"http://dbpedia.org/resource/Tim_Ryan_(American_football,_born_1968)",http://dbpedia.org/resource/Timothy_Thomas_Ryan
+0,50,T. Brown,http://dbpedia.org/resource/Tim_Brown_(American_football),http://dbpedia.org/resource/Timmy_Brown http://dbpedia.org/resource/Timothy_Brown_(actor)
+0,53,T. Washington,http://dbpedia.org/resource/Ted_Washington,http://dbpedia.org/resource/Tim_Washington
+0,57,T. Jordan,http://dbpedia.org/resource/Tony_Jordan_(American_football),http://dbpedia.org/resource/Tim_Jordan_(American_football)
+0,63,T. Crowder,http://dbpedia.org/resource/Channing_Crowder,http://dbpedia.org/resource/Tim_Crowder_(American_football) http://dbpedia.org/resource/Tim_Crowder_(football) http://dbpedia.org/resource/Tim_Crowder
+0,64,T. Carter,http://dbpedia.org/resource/Tyrone_Carter,http://dbpedia.org/resource/Tim_Carter_(American_football) http://dbpedia.org/resource/Tim_Carter_(football_player)
+0,73,T. Lewis,http://dbpedia.org/resource/Travis_Lewis,http://dbpedia.org/resource/Thomas_Lewis_(football) http://dbpedia.org/resource/Thomas_Lewis_(football_player) http://dbpedia.org/resource/Thomas_Lewis_(American_football)
+0,77,T. Brown,http://dbpedia.org/resource/Tim_Brown_(American_football),http://dbpedia.org/resource/Thomas_Brown_(defensive_end)
+0,78,T. Young,http://dbpedia.org/resource/Titus_Young,http://dbpedia.org/resource/Theo_Young
+0,84,T. Crouch,http://dbpedia.org/resource/Eric_Crouch,http://dbpedia.org/resource/Terry_Crouch
+0,92,T. Holt,http://dbpedia.org/resource/Torry_Holt,http://dbpedia.org/resource/Terrence_Holt
+0,93,T. Frederick,http://dbpedia.org/resource/Travis_Frederick,http://dbpedia.org/resource/Terrence_Frederick
+0,99,T. Smith,http://dbpedia.org/resource/Timmy_Smith,http://dbpedia.org/resource/Telvin_Smith
+0,107,T. Brown,http://dbpedia.org/resource/Tim_Brown_(American_football),http://dbpedia.org/resource/Ted_Brown_(American_football)
+0,109,T. Thompson,http://dbpedia.org/resource/Tommy_Thompson_(quarterback),http://dbpedia.org/resource/Taylor_Thompson_(American_football)
+0,113,T. Cody,http://dbpedia.org/resource/Terrence_Cody,http://dbpedia.org/resource/Tay_Cody
+0,116,T. Williams,http://dbpedia.org/resource/Thomas_Williams_(American_football),http://dbpedia.org/resource/Tank_Williams
+0,118,T. Jackson,http://dbpedia.org/resource/Tarvaris_Jackson,http://dbpedia.org/resource/Tanard_Jackson
+0,130,S. Barber,http://dbpedia.org/resource/Shawn_Barber,http://dbpedia.org/resource/Stew_Barber
+0,134,S. Wagner,http://dbpedia.org/resource/Sid_Wagner,http://dbpedia.org/resource/Steve_Wagner_(American_football)
+0,137,S. Smith,http://dbpedia.org/resource/Shelley_Smith_(American_football),"http://dbpedia.org/resource/Steve_Smith_(running_back) http://dbpedia.org/resource/Steve_Smith_(American_football,_born_1964)"
+0,140,S. Lawson,http://dbpedia.org/resource/Shaq_Lawson,http://dbpedia.org/resource/Steve_Lawson_(American_football)

@@ -1,0 +1,4 @@
+"F1: 0.00000","Precision: 0.00000","Recall: 0.00000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","1","Episode 1","http://dbpedia.org/resource/Star_Wars:_Episode_I_–_The_Phantom_Menace","http://dbpedia.org/resource/Episode_One_(Primeval_episode) http://dbpedia.org/resource/Episode_One_(Primeval) http://dbpedia.org/resource/Episode_1.1 http://dbpedia.org/resource/Episode_1_(Primeval) http://dbpedia.org/resource/Episode_1.1_(Primeval)"
+"1","11","Episode 6","http://dbpedia.org/resource/Return_of_the_Jedi","http://dbpedia.org/resource/Episode_1.6 http://dbpedia.org/resource/Episode_6_(Primeval) http://dbpedia.org/resource/Predator(bat) http://dbpedia.org/resource/Episode_1.6_(Primeval) http://dbpedia.org/resource/Episode_Six_(Primeval)"

@@ -1,0 +1,6 @@
+F1: 0.84615,Precision: 0.84615,Recall: 0.84615,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,6,M. Johnson,http://dbpedia.org/resource/Marcus_Johnson_(offensive_lineman),http://dbpedia.org/resource/Marques_Johnson
+0,10,M. Morris,http://dbpedia.org/resource/Marcus_Morris_Sr.,http://dbpedia.org/resource/Markieff_Morris
+0,11,M. Brown,"http://dbpedia.org/resource/Mike_Brown_(ice_hockey,_born_1985)",http://dbpedia.org/resource/Markel_Brown
+0,19,M. Price,http://dbpedia.org/resource/Mike_Price_(basketball),http://dbpedia.org/resource/Mark_Price

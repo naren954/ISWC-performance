@@ -1,0 +1,4 @@
+F1: 0.50000,Precision: 0.50000,Recall: 0.50000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,11,Macs Cayo,http://es.dbpedia.org/resource/Fernando_Cayo,http://dbpedia.org/resource/Macs_Cayo http://dbpedia.org/resource/El_Gran_Show_2012_(season_1)
+0,13,Jhoany Vegas,http://dbpedia.org/resource/José_Vega_(cyclist),http://dbpedia.org/resource/Johany_Vegas http://dbpedia.org/resource/Jhoany_Vegas

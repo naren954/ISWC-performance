@@ -1,0 +1,4 @@
+F1: 0.85714,Precision: 0.85714,Recall: 0.85714,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,Warner Theatre,"http://dbpedia.org/resource/Warner_Theatre_(Erie,_Pennsylvania)","http://dbpedia.org/resource/Warner_Theatre_(Washington,_D.C.)"
+0,12,Brixton Academy,http://dbpedia.org/resource/O2_Brixton_Academy,"http://dbpedia.org/resource/O2_Academy,_Brixton http://dbpedia.org/resource/Brixton_Avademy http://dbpedia.org/resource/O2_Academy_Brixton http://dbpedia.org/resource/Carling_Academy_Brixton http://dbpedia.org/resource/Brixton_Academy"

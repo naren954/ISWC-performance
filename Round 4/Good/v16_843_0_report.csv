@@ -1,0 +1,5 @@
+F1: 0.81250,Precision: 0.81250,Recall: 0.81250,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,4,Swissôtel Chicago,http://dbpedia.org/resource/Swissôtel_Nankai_Osaka,http://dbpedia.org/resource/Swissotel_Chicago http://dbpedia.org/resource/Swissôtel_Chicago
+0,6,Swissôtel Chicago,http://dbpedia.org/resource/Swissôtel_Nankai_Osaka,http://dbpedia.org/resource/Swissotel_Chicago http://dbpedia.org/resource/Swissôtel_Chicago
+0,16,Fairmont Olympic Hotel,http://dbpedia.org/resource/The_Empress_(hotel),"http://dbpedia.org/resource/Fairmont_Olympic_Hotel_(Seattle) http://dbpedia.org/resource/Four_Seasons_Olympic_Hotel http://dbpedia.org/resource/Olympic_Hotel_(Seattle,_Washington) http://dbpedia.org/resource/Fairmont_Olympic_Hotel"

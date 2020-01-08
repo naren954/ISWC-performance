@@ -1,0 +1,6 @@
+F1: 0.85185,Precision: 0.85185,Recall: 0.85185,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,Black Sheep,http://dbpedia.org/resource/Black_Sheep_(John_Anderson_song),http://dbpedia.org/resource/Black_Sheep_(Georgette_Heyer_novel) http://dbpedia.org/resource/Black_Sheep_(novel)
+0,4,Beguilement,http://dbpedia.org/resource/Beguilement_(novel),http://dbpedia.org/resource/Beguilement
+0,7,Back,http://dbpedia.org/resource/The_Empire_Strikes_Back,http://dbpedia.org/resource/Back_(novel)
+0,20,Ambient,http://dbpedia.org/resource/Dark_ambient,http://dbpedia.org/resource/Ambient_(novel)

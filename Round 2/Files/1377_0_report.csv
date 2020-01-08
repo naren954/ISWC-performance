@@ -1,0 +1,8 @@
+"F1: 0.94340","Precision: 0.94340","Recall: 0.94340"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","64","J. Williams","http://dbpedia.org/resource/John_Williams_(motorcyclist)","http://dbpedia.org/resource/Jonathan_Williams_(racer) http://dbpedia.org/resource/Jonathan_Williams_(racing_driver) http://dbpedia.org/resource/Jonathan_Williams_(auto_racing)"
+"0","77","J. Kelly","http://dbpedia.org/resource/Jimmy_Kelly_(footballer,_born_1907)","http://dbpedia.org/resource/Joe_Kelly_(Formula_One) http://dbpedia.org/resource/Joe_Kelly_(racing_driver) http://dbpedia.org/resource/Joe_Kelly_(auto_racing)"
+"0","78","J. James","http://dbpedia.org/resource/John_James_(racing_driver)","http://dbpedia.org/resource/Joe_James_(racing_driver)"
+"0","89","J. Davies","http://dbpedia.org/resource/John_Davies_(rugby_player,_born_1941)","http://dbpedia.org/resource/Jimmy_Davies"
+"0","95","J. Clark","http://dbpedia.org/resource/Jim_Clark_(Scottish_footballer)","http://dbpedia.org/resource/Clark,_Jim http://dbpedia.org/resource/Jimmy_Clark http://dbpedia.org/resource/Jim_Clark_(racing_driver) http://dbpedia.org/resource/Jim_Clark http://dbpedia.org/resource/Jim_""Jimmy""_Clark"
+"0","97","J. U. Jr.","http://dbpedia.org/resource/Calvin_Coolidge","http://dbpedia.org/resource/Jerry_Unser,_Jr. http://dbpedia.org/resource/Jerry_Unser_Jr. http://dbpedia.org/resource/Jerry_Unser"

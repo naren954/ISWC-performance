@@ -1,0 +1,63 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Fire Station No. 11,"http://dbpedia.org/resource/Fire_Station_No._11_(Birmingham,_Alabama)",http://sws.geonames.org/8117611/
+0,2,Fire Station No. 19,"http://dbpedia.org/resource/Fire_Station_No._19_(Birmingham,_Alabama)",http://sws.geonames.org/8117585/
+0,3,Fire Station No. 12,"http://dbpedia.org/resource/Fire_Station_No._12_(Birmingham,_Alabama)",http://sws.geonames.org/8117583/
+0,4,Fire Station No. 15,"http://dbpedia.org/resource/Fire_Station_No._15_(Birmingham,_Alabama)",http://sws.geonames.org/8117578/
+0,5,Fire Station No. 22,"http://dbpedia.org/resource/Fire_Station_No._22_(Birmingham,_Alabama)",http://sws.geonames.org/8117565/
+0,6,Fire Station No. 6,"http://dbpedia.org/resource/Fire_Station_No._6_(Birmingham,_Alabama)",http://sws.geonames.org/8117002/
+0,7,Fire Station No. 16,"http://dbpedia.org/resource/Fire_Station_No._16_(Birmingham,_Alabama)",http://sws.geonames.org/8117000/
+0,8,Houston Jail,http://dbpedia.org/resource/Houston_Jail,http://sws.geonames.org/8115511/
+0,9,Illinois Street Historic District,"http://dbpedia.org/resource/Main_Street_Historic_District_(Tampico,_Illinois)",http://sws.geonames.org/8114260/
+0,10,Chicken Ridge Historic District,http://dbpedia.org/resource/Chicken_Ridge_Historic_District,http://sws.geonames.org/8114258/
+0,11,Foster's Mound,http://dbpedia.org/resource/Foster's_Mound,http://sws.geonames.org/8107897/
+0,12,Egyptian Theatre,"http://dbpedia.org/resource/Egyptian_Theatre_(Delta,_Colorado)",http://sws.geonames.org/8103715/
+0,13,Lime Rock Park,http://dbpedia.org/resource/Lime_Rock_Park,http://sws.geonames.org/8103350/
+0,14,Hope Historic District,"http://dbpedia.org/resource/Hope_Historic_District_(Hope,_Indiana)",http://sws.geonames.org/8096958/
+0,15,Rentschler Farm Museum,http://dbpedia.org/resource/Rentschler_Farm_Museum,http://sws.geonames.org/8095257/
+0,16,Independence Mines,http://dbpedia.org/resource/Stratton's_Independence_Mine_and_Mill,http://sws.geonames.org/8094969/
+0,17,Packard Proving Grounds,http://dbpedia.org/resource/Packard_Proving_Grounds,http://sws.geonames.org/8094457/
+0,18,Kelsey Museum of Archaeology,http://dbpedia.org/resource/Kelsey_Museum_of_Archaeology,http://sws.geonames.org/8094069/
+0,19,First Unitarian Church of Rochester,http://dbpedia.org/resource/First_Unitarian_Church_of_Rochester,http://sws.geonames.org/8083172/
+0,20,Gari Melchers Home,http://dbpedia.org/resource/Gari_Melchers_Home,http://sws.geonames.org/7870121/
+0,21,Kaw Mission,http://dbpedia.org/resource/Kaw_Mission,http://sws.geonames.org/7725245/
+0,22,Longue Vue House and Gardens,http://dbpedia.org/resource/Longue_Vue_House_and_Gardens,http://sws.geonames.org/7710565/
+0,23,McKee Botanical Garden,http://dbpedia.org/resource/McKee_Botanical_Garden,http://sws.geonames.org/7668041/
+0,24,St. Mark's Lutheran Church,"http://dbpedia.org/resource/St._Mark's_Lutheran_Church_(Guilderland,_New_York)",http://sws.geonames.org/7314059/
+0,25,Dothan Opera House,http://dbpedia.org/resource/Royal_Opera_House,http://sws.geonames.org/7313752/
+0,26,Carlen House,http://dbpedia.org/resource/Carlen_House,http://sws.geonames.org/7313547/
+0,27,Convent and Academy of the Visitation,http://dbpedia.org/resource/Convent_and_Academy_of_the_Visitation,http://sws.geonames.org/7313123/
+0,28,Old Mission Dam,http://dbpedia.org/resource/Old_Mission_Dam,http://sws.geonames.org/7304736/
+0,29,Seal Island Historic District,http://dbpedia.org/resource/Crane_Island_Historic_District,http://sws.geonames.org/7304699/
+0,30,Russian Bishop's House,http://dbpedia.org/resource/Russian_Bishop's_House,http://sws.geonames.org/7304697/
+0,31,"Japanese Occupation Site, Kiska Island","http://dbpedia.org/resource/Japanese_Occupation_Site,_Kiska_Island",http://sws.geonames.org/7304689/
+0,32,"Dutch Harbor Naval Operating Base and Fort Mears, U.S. Army","http://dbpedia.org/resource/Dutch_Harbor_Naval_Operating_Base_and_Fort_Mears,_U.S._Army",http://sws.geonames.org/7304683/
+0,33,Church of the Holy Ascension,"http://dbpedia.org/resource/Holy_Ascension_Church,_Upton_by_Chester",http://sws.geonames.org/7304681/
+0,34,Castle Hill,http://dbpedia.org/resource/Buda_Castle,http://sws.geonames.org/7304672/
+0,35,Colonial Williamsburg,http://dbpedia.org/resource/Colonial_Williamsburg,http://sws.geonames.org/7304104/
+0,36,Faunsdale Plantation,http://dbpedia.org/resource/Faunsdale_Plantation,http://sws.geonames.org/7279132/
+0,37,Salinas Pueblo Missions National Monument,http://dbpedia.org/resource/Salinas_Pueblo_Missions_National_Monument,http://sws.geonames.org/7276298/
+0,38,Camp Pendleton,http://dbpedia.org/resource/Camp_Pendleton_(Virginia),http://sws.geonames.org/7267715/
+0,39,Camp Mabry,http://dbpedia.org/resource/Camp_Mabry,http://sws.geonames.org/7267339/
+0,40,Rocky Flats Plant,http://dbpedia.org/resource/Rocky_Flats_Plant,http://sws.geonames.org/7267277/
+0,41,Naval Station Pearl Harbor,http://dbpedia.org/resource/Hickam_Air_Force_Base,http://sws.geonames.org/7267222/
+0,42,"Dutch Harbor Naval Operating Base and Fort Mears, U.S. Army","http://dbpedia.org/resource/Dutch_Harbor_Naval_Operating_Base_and_Fort_Mears,_U.S._Army",http://sws.geonames.org/7266833/
+0,43,Battery Weed,http://dbpedia.org/resource/Battery_Weed,http://sws.geonames.org/7266475/
+0,44,Camp Topridge,http://dbpedia.org/resource/Camp_Topridge,http://sws.geonames.org/7263685/
+0,45,"Branford Center, Connecticut","http://dbpedia.org/resource/Branford_Center,_Connecticut",http://sws.geonames.org/7257798/
+0,46,Bethlehem Green Historic District,http://dbpedia.org/resource/Bethlehem_Green_Historic_District,http://sws.geonames.org/7257796/
+0,47,China Camp State Park,http://dbpedia.org/resource/China_Camp_State_Park,http://sws.geonames.org/7254954/
+0,48,Thomaston Colored Institute,http://dbpedia.org/resource/Thomaston_Colored_Institute,http://sws.geonames.org/7251007/
+0,49,"Sugar Hill, Manhattan","http://dbpedia.org/resource/Sugar_Hill,_Manhattan",http://sws.geonames.org/7250947/
+0,50,Main Street Historic District,"http://dbpedia.org/resource/Main_Street_Historic_District_(Tampico,_Illinois)",http://sws.geonames.org/7249013/
+0,51,Mill Street-North Clover Street Historic District,http://dbpedia.org/resource/Mill_Street–North_Clover_Street_Historic_District,http://sws.geonames.org/7248987/
+0,52,Sunnyside,"http://dbpedia.org/resource/Sunnyside_(Tarrytown,_New_York)",http://sws.geonames.org/7248571/
+0,53,Virginia Museum of Fine Arts,http://dbpedia.org/resource/Virginia_Museum_of_Fine_Arts,http://sws.geonames.org/7239215/
+0,54,Taliesin West,http://dbpedia.org/resource/Taliesin_West,http://sws.geonames.org/7236962/
+0,55,Henry B. Plant Museum,http://dbpedia.org/resource/Henry_B._Plant_Museum,http://sws.geonames.org/7215963/
+0,56,Basilica of the National Shrine of the Little Flower,http://dbpedia.org/resource/Basilica_of_the_National_Shrine_of_the_Little_Flower,http://sws.geonames.org/7206752/
+0,57,Christ Church Cathedral,http://dbpedia.org/resource/Canterbury_Cathedral,http://sws.geonames.org/7198927/
+0,58,"Crescent Hill, Louisville","http://dbpedia.org/resource/Crescent_Hill,_Louisville",http://sws.geonames.org/7198829/
+0,59,Clinton Arena,http://dbpedia.org/resource/Clinton_Arena,http://sws.geonames.org/7184839/
+0,60,Old Fort Church,http://dbpedia.org/resource/Old_Fort_Church,http://sws.geonames.org/7160453/
+0,61,Nannie Helen Burroughs School,http://dbpedia.org/resource/Nannie_Helen_Burroughs_School,http://sws.geonames.org/7156534/

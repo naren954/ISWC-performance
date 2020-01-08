@@ -1,0 +1,168 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,"Red Oak, Texas",http://dbpedia.org/resource/Dallas,http://sws.geonames.org/4721921/
+0,2,"Plano, Texas","http://dbpedia.org/resource/Plano,_Texas",http://sws.geonames.org/4719457/
+0,3,"Pasadena, Texas","http://dbpedia.org/resource/Pasadena,_Texas",http://sws.geonames.org/4717782/
+0,4,"Mesquite, Texas","http://dbpedia.org/resource/Mesquite,_Texas",http://sws.geonames.org/4710826/
+0,5,"McAllen, Texas","http://dbpedia.org/resource/McAllen,_Texas",http://sws.geonames.org/4709796/
+0,6,"Marshall, Texas","http://dbpedia.org/resource/Marshall,_Texas",http://sws.geonames.org/4709272/
+0,7,"Lindale, Texas","http://dbpedia.org/resource/Lindale,_Texas",http://sws.geonames.org/4706386/
+0,8,"Lewisville, Texas","http://dbpedia.org/resource/Lewisville,_Texas",http://sws.geonames.org/4706057/
+0,9,"Katy, Texas","http://dbpedia.org/resource/Katy,_Texas",http://sws.geonames.org/4702732/
+0,10,"Humble, Texas","http://dbpedia.org/resource/Humble,_Texas",http://sws.geonames.org/4699442/
+0,11,Houston,http://dbpedia.org/resource/Houston,http://sws.geonames.org/4699066/
+0,12,"Hitchcock, Texas","http://dbpedia.org/resource/Hitchcock,_Texas",http://sws.geonames.org/4697988/
+0,13,"Hempstead, Texas","http://dbpedia.org/resource/Liberty,_Texas",http://sws.geonames.org/4697060/
+0,14,"Giddings, Texas","http://dbpedia.org/resource/Giddings,_Texas",http://sws.geonames.org/4693472/
+0,15,"Frisco, Texas","http://dbpedia.org/resource/Frisco,_Texas",http://sws.geonames.org/4692559/
+0,16,"Freeport, Texas","http://dbpedia.org/resource/Freeport,_Texas",http://sws.geonames.org/4692355/
+0,17,"Fort Worth, Texas","http://dbpedia.org/resource/Fort_Worth,_Texas",http://sws.geonames.org/4691930/
+0,18,"Flower Mound, Texas","http://dbpedia.org/resource/Flower_Mound,_Texas",http://sws.geonames.org/4691585/
+0,19,"Farmers Branch, Texas","http://dbpedia.org/resource/Farmers_Branch,_Texas",http://sws.geonames.org/4690198/
+0,20,"Denison, Texas","http://dbpedia.org/resource/Denison,_Texas",http://sws.geonames.org/4685892/
+0,21,"Dayton, Texas","http://dbpedia.org/resource/Dayton,_Texas",http://sws.geonames.org/4685449/
+0,22,Dallas,http://dbpedia.org/resource/Dallas,http://sws.geonames.org/4684888/
+0,23,"Corpus Christi, Texas","http://dbpedia.org/resource/Corpus_Christi,_Texas",http://sws.geonames.org/4683416/
+0,24,"Conroe, Texas","http://dbpedia.org/resource/Conroe,_Texas",http://sws.geonames.org/4682991/
+0,25,"Cleveland, Texas","http://dbpedia.org/resource/Cleveland,_Texas",http://sws.geonames.org/4682032/
+0,26,"Carrollton, Texas","http://dbpedia.org/resource/Carrollton,_Texas",http://sws.geonames.org/4679195/
+0,27,"Burnet, Texas","http://dbpedia.org/resource/Burnet,_Texas",http://sws.geonames.org/4677592/
+0,28,"Brownsville, Texas","http://dbpedia.org/resource/Brownsville,_Texas",http://sws.geonames.org/4676740/
+0,29,"Beaumont, Texas","http://dbpedia.org/resource/Beaumont,_Texas",http://sws.geonames.org/4672989/
+0,30,"Baytown, Texas","http://dbpedia.org/resource/Baytown,_Texas",http://sws.geonames.org/4672731/
+0,31,"Austin, Texas","http://dbpedia.org/resource/Austin,_Texas",http://sws.geonames.org/4671654/
+0,32,"Arlington, Texas",http://dbpedia.org/resource/Dallas,http://sws.geonames.org/4671240/
+0,33,"Angleton, Texas","http://dbpedia.org/resource/Angleton,_Texas",http://sws.geonames.org/4670866/
+0,34,"Alvin, Texas","http://dbpedia.org/resource/Alvin,_Texas",http://sws.geonames.org/4670592/
+0,35,"Allen, Texas","http://dbpedia.org/resource/Allen,_Texas",http://sws.geonames.org/4670300/
+0,36,"Abilene, Texas","http://dbpedia.org/resource/Abilene,_Texas",http://sws.geonames.org/4669635/
+0,37,"Murfreesboro, Tennessee","http://dbpedia.org/resource/Murfreesboro,_Tennessee",http://sws.geonames.org/4644312/
+0,38,"Memphis, Tennessee","http://dbpedia.org/resource/Memphis,_Tennessee",http://sws.geonames.org/4641239/
+0,39,"Knoxville, Tennessee","http://dbpedia.org/resource/Knoxville,_Tennessee",http://sws.geonames.org/4634946/
+0,40,"Kingsport, Tennessee","http://dbpedia.org/resource/Vincennes,_Indiana",http://sws.geonames.org/4634662/
+0,41,"Erin, Tennessee","http://dbpedia.org/resource/Erin,_Tennessee",http://sws.geonames.org/4621108/
+0,42,"Dyersburg, Tennessee","http://dbpedia.org/resource/Dyersburg,_Tennessee",http://sws.geonames.org/4619800/
+0,43,"Cookeville, Tennessee","http://dbpedia.org/resource/Cookeville,_Tennessee",http://sws.geonames.org/4615145/
+0,44,"Clarksville, Tennessee","http://dbpedia.org/resource/Clarksville,_Tennessee",http://sws.geonames.org/4613868/
+0,45,"Chattanooga, Tennessee","http://dbpedia.org/resource/Chattanooga,_Tennessee",http://sws.geonames.org/4612862/
+0,46,"West Columbia, South Carolina","http://dbpedia.org/resource/Columbia,_South_Carolina",http://sws.geonames.org/4600541/
+0,47,"Ward, South Carolina",http://dbpedia.org/resource/South_Carolina,http://sws.geonames.org/4600120/
+0,48,"Timmonsville, South Carolina",http://dbpedia.org/resource/South_Carolina,http://sws.geonames.org/4598692/
+0,49,"Surfside Beach, South Carolina","http://dbpedia.org/resource/Myrtle_Beach,_South_Carolina",http://sws.geonames.org/4598052/
+0,50,"Sumter, South Carolina","http://dbpedia.org/resource/Sumter,_South_Carolina",http://sws.geonames.org/4597948/
+0,51,"Socastee, South Carolina",http://dbpedia.org/resource/South_Carolina,http://sws.geonames.org/4596208/
+0,52,"Santee, South Carolina","http://dbpedia.org/resource/Santee,_South_Carolina",http://sws.geonames.org/4594983/
+0,53,"Saluda, South Carolina","http://dbpedia.org/resource/Saluda,_South_Carolina",http://sws.geonames.org/4594694/
+0,54,"St. Matthews, South Carolina","http://dbpedia.org/resource/Charleston,_South_Carolina",http://sws.geonames.org/4594258/
+0,55,"Rockville, South Carolina",http://dbpedia.org/resource/South_Carolina,http://sws.geonames.org/4593253/
+0,56,"Red Hill, South Carolina","http://dbpedia.org/resource/Rock_Hill,_South_Carolina",http://sws.geonames.org/4592487/
+0,57,"Ravenel, South Carolina",http://dbpedia.org/resource/South_Carolina,http://sws.geonames.org/4592411/
+0,58,"Quinby, South Carolina",http://dbpedia.org/resource/South_Carolina,http://sws.geonames.org/4592273/
+0,59,"Pelion, South Carolina",http://dbpedia.org/resource/South_Carolina,http://sws.geonames.org/4590739/
+0,60,"Orangeburg, South Carolina","http://dbpedia.org/resource/Orangeburg,_South_Carolina",http://sws.geonames.org/4590184/
+0,61,"Olanta, South Carolina",http://dbpedia.org/resource/South_Carolina,http://sws.geonames.org/4589932/
+0,62,"North Myrtle Beach, South Carolina","http://dbpedia.org/resource/Myrtle_Beach,_South_Carolina",http://sws.geonames.org/4589446/
+0,63,"North, South Carolina","http://dbpedia.org/resource/Myrtle_Beach,_South_Carolina",http://sws.geonames.org/4589360/
+0,64,"Nichols, South Carolina",http://dbpedia.org/resource/South_Carolina,http://sws.geonames.org/4589265/
+0,65,"Myrtle Beach, South Carolina","http://dbpedia.org/resource/Myrtle_Beach,_South_Carolina",http://sws.geonames.org/4588718/
+0,66,"Murrells Inlet, South Carolina","http://dbpedia.org/resource/Murrells_Inlet,_South_Carolina",http://sws.geonames.org/4588682/
+0,67,"Mullins, South Carolina",http://dbpedia.org/resource/South_Carolina,http://sws.geonames.org/4588634/
+0,68,"Mount Pleasant, South Carolina","http://dbpedia.org/resource/Mount_Pleasant,_South_Carolina",http://sws.geonames.org/4588165/
+0,69,"McColl, South Carolina","http://dbpedia.org/resource/McColl,_South_Carolina",http://sws.geonames.org/4586628/
+0,70,"McClellanville, South Carolina","http://dbpedia.org/resource/McClellanville,_South_Carolina",http://sws.geonames.org/4586615/
+0,71,"Marion, South Carolina","http://dbpedia.org/resource/Marion,_South_Carolina",http://sws.geonames.org/4586266/
+0,72,"Manning, South Carolina",http://dbpedia.org/resource/South_Carolina,http://sws.geonames.org/4586196/
+0,73,"Loris, South Carolina",http://dbpedia.org/resource/South_Carolina,http://sws.geonames.org/4585835/
+0,74,"Little River, South Carolina","http://dbpedia.org/resource/Little_River,_South_Carolina",http://sws.geonames.org/4585421/
+0,75,"Latta, South Carolina",http://dbpedia.org/resource/South_Carolina,http://sws.geonames.org/4584668/
+0,76,"Lake View, South Carolina","http://dbpedia.org/resource/Lake_City,_South_Carolina",http://sws.geonames.org/4584453/
+0,77,"Lake City, South Carolina","http://dbpedia.org/resource/Lake_City,_South_Carolina",http://sws.geonames.org/4584322/
+0,78,"Kingstree, South Carolina","http://dbpedia.org/resource/Kingstree,_South_Carolina",http://sws.geonames.org/4584125/
+0,79,"Johnston, South Carolina","http://dbpedia.org/resource/Johnston,_South_Carolina",http://sws.geonames.org/4583636/
+0,80,"Johnsonville, South Carolina",http://dbpedia.org/resource/South_Carolina,http://sws.geonames.org/4583632/
+0,81,"Isle of Palms, South Carolina","http://dbpedia.org/resource/Isle_of_Palms,_South_Carolina",http://sws.geonames.org/4583114/
+0,82,"Irmo, South Carolina",http://dbpedia.org/resource/South_Carolina,http://sws.geonames.org/4583057/
+0,83,"Hollywood, South Carolina",http://dbpedia.org/resource/South_Carolina,http://sws.geonames.org/4582042/
+0,84,"Holly Hill, South Carolina","http://dbpedia.org/resource/Rock_Hill,_South_Carolina",http://sws.geonames.org/4582000/
+0,85,"Georgetown, South Carolina","http://dbpedia.org/resource/Georgetown,_South_Carolina",http://sws.geonames.org/4579662/
+0,86,"Folly Beach, South Carolina","http://dbpedia.org/resource/Myrtle_Beach,_South_Carolina",http://sws.geonames.org/4578801/
+0,87,"Florence, South Carolina","http://dbpedia.org/resource/Florence,_South_Carolina",http://sws.geonames.org/4578737/
+0,88,"Eastover, South Carolina",http://dbpedia.org/resource/South_Carolina,http://sws.geonames.org/4577375/
+0,89,"Dillon, South Carolina","http://dbpedia.org/resource/Dillon,_South_Carolina",http://sws.geonames.org/4576653/
+0,90,"Coward, South Carolina",http://dbpedia.org/resource/South_Carolina,http://sws.geonames.org/4575793/
+0,91,"Cope, South Carolina",http://dbpedia.org/resource/South_Carolina,http://sws.geonames.org/4575613/
+0,92,"Conway, South Carolina","http://dbpedia.org/resource/Conway,_South_Carolina",http://sws.geonames.org/4575461/
+0,93,"Clio, South Carolina",http://dbpedia.org/resource/South_Carolina,http://sws.geonames.org/4575048/
+0,94,"Brookdale, South Carolina",http://dbpedia.org/resource/South_Carolina,http://sws.geonames.org/4572352/
+0,95,"Branchville, South Carolina",http://dbpedia.org/resource/South_Carolina,http://sws.geonames.org/4572098/
+0,96,"Bowman, South Carolina",http://dbpedia.org/resource/South_Carolina,http://sws.geonames.org/4571994/
+0,97,"Bluffton, South Carolina",http://dbpedia.org/resource/South_Carolina,http://sws.geonames.org/4571722/
+0,98,"Blenheim, South Carolina","http://dbpedia.org/resource/Blenheim,_South_Carolina",http://sws.geonames.org/4571635/
+0,99,"Bennettsville, South Carolina","http://dbpedia.org/resource/Bennettsville,_South_Carolina",http://sws.geonames.org/4570634/
+0,100,"Batesburg-Leesville, South Carolina","http://dbpedia.org/resource/Batesburg-Leesville,_South_Carolina",http://sws.geonames.org/4570117/
+0,101,"Aynor, South Carolina","http://dbpedia.org/resource/Beaufort,_South_Carolina",http://sws.geonames.org/4569801/
+0,102,"Andrews, South Carolina","http://dbpedia.org/resource/Andrews,_South_Carolina",http://sws.geonames.org/4569362/
+0,103,"Toa Alta, Puerto Rico","http://dbpedia.org/resource/Toa_Baja,_Puerto_Rico",http://sws.geonames.org/4568404/
+0,104,"Toa Alta, Puerto Rico","http://dbpedia.org/resource/Toa_Baja,_Puerto_Rico",http://sws.geonames.org/4568403/
+0,105,"San Juan, Puerto Rico","http://dbpedia.org/resource/San_Juan,_Puerto_Rico",http://sws.geonames.org/4568138/
+0,106,"San Juan, Puerto Rico","http://dbpedia.org/resource/San_Juan,_Puerto_Rico",http://sws.geonames.org/4568127/
+0,107,"San Germán, Puerto Rico","http://dbpedia.org/resource/San_Juan,_Puerto_Rico",http://sws.geonames.org/4568105/
+0,108,"San Germán, Puerto Rico","http://dbpedia.org/resource/San_Juan,_Puerto_Rico",http://sws.geonames.org/4568104/
+0,109,"Ponce, Puerto Rico","http://dbpedia.org/resource/Ponce,_Puerto_Rico",http://sws.geonames.org/4566886/
+0,110,"Naranjito, Puerto Rico","http://dbpedia.org/resource/Naranjito,_Puerto_Rico",http://sws.geonames.org/4566403/
+0,111,"Naranjito, Puerto Rico","http://dbpedia.org/resource/Naranjito,_Puerto_Rico",http://sws.geonames.org/4566402/
+0,112,"Guayanilla, Puerto Rico",http://dbpedia.org/resource/Puerto_Rico,http://sws.geonames.org/4565112/
+0,113,"Guayanilla, Puerto Rico",http://dbpedia.org/resource/Puerto_Rico,http://sws.geonames.org/4565111/
+0,114,"Carolina, Puerto Rico","http://dbpedia.org/resource/Carolina,_Puerto_Rico",http://sws.geonames.org/4563244/
+0,115,"Caguas, Puerto Rico","http://dbpedia.org/resource/Caguas,_Puerto_Rico",http://sws.geonames.org/4563011/
+0,116,"Caguas, Puerto Rico","http://dbpedia.org/resource/Caguas,_Puerto_Rico",http://sws.geonames.org/4563008/
+0,117,"Arecibo, Puerto Rico","http://dbpedia.org/resource/Arecibo,_Puerto_Rico",http://sws.geonames.org/4562640/
+0,118,"Aguadilla, Puerto Rico","http://dbpedia.org/resource/Aguadilla,_Puerto_Rico",http://sws.geonames.org/4562512/
+0,119,"Aguadilla, Puerto Rico","http://dbpedia.org/resource/Aguadilla,_Puerto_Rico",http://sws.geonames.org/4562506/
+0,120,Philadelphia,http://dbpedia.org/resource/Philadelphia,http://sws.geonames.org/4560349/
+0,121,"Tulsa, Oklahoma","http://dbpedia.org/resource/Tulsa,_Oklahoma",http://sws.geonames.org/4553433/
+0,122,"Terral, Oklahoma","http://dbpedia.org/resource/Terral,_Oklahoma",http://sws.geonames.org/4552884/
+0,123,Oklahoma City,"http://dbpedia.org/resource/Tulsa,_Oklahoma",http://sws.geonames.org/4544349/
+0,124,"Ardmore, Oklahoma","http://dbpedia.org/resource/Ardmore,_Oklahoma",http://sws.geonames.org/4529469/
+0,125,"Springfield, Ohio","http://dbpedia.org/resource/Springfield,_Ohio",http://sws.geonames.org/4525353/
+0,126,"Hillsboro, Ohio","http://dbpedia.org/resource/Hillsboro,_Ohio",http://sws.geonames.org/4514282/
+0,127,"Englewood, Ohio","http://dbpedia.org/resource/Englewood,_Colorado",http://sws.geonames.org/4511064/
+0,128,"Eaton, Ohio","http://dbpedia.org/resource/Eaton,_Ohio",http://sws.geonames.org/4510719/
+0,129,Cincinnati,http://dbpedia.org/resource/Cincinnati,http://sws.geonames.org/4508722/
+0,130,"Athens, Ohio","http://dbpedia.org/resource/Athens,_Ohio",http://sws.geonames.org/4505542/
+0,131,"Winston-Salem, North Carolina","http://dbpedia.org/resource/Winston-Salem,_North_Carolina",http://sws.geonames.org/4499612/
+0,132,"Thomasville, North Carolina","http://dbpedia.org/resource/Thomasville,_North_Carolina",http://sws.geonames.org/4494942/
+0,133,"Rocky Mount, North Carolina","http://dbpedia.org/resource/Rocky_Mount,_North_Carolina",http://sws.geonames.org/4488762/
+0,134,"Lexington, North Carolina","http://dbpedia.org/resource/Lexington,_North_Carolina",http://sws.geonames.org/4475773/
+0,135,"Kinston, North Carolina","http://dbpedia.org/resource/Kinston,_North_Carolina",http://sws.geonames.org/4474436/
+0,136,"Jacksonville, North Carolina","http://dbpedia.org/resource/Jacksonville,_Florida",http://sws.geonames.org/4473083/
+0,137,"High Point, North Carolina","http://dbpedia.org/resource/High_Point,_North_Carolina",http://sws.geonames.org/4471025/
+0,138,"Hickory, North Carolina","http://dbpedia.org/resource/Hickory,_North_Carolina",http://sws.geonames.org/4470778/
+0,139,"Greenville, North Carolina","http://dbpedia.org/resource/Greenville,_North_Carolina",http://sws.geonames.org/4469160/
+0,140,"Gastonia, North Carolina","http://dbpedia.org/resource/Charlotte,_North_Carolina",http://sws.geonames.org/4467732/
+0,141,"Durham, North Carolina","http://dbpedia.org/resource/Durham,_North_Carolina",http://sws.geonames.org/4464368/
+0,142,"Concord, North Carolina","http://dbpedia.org/resource/Concord,_North_Carolina",http://sws.geonames.org/4461574/
+0,143,"Charlotte, North Carolina","http://dbpedia.org/resource/Charlotte,_North_Carolina",http://sws.geonames.org/4460243/
+0,144,"Burlington, North Carolina","http://dbpedia.org/resource/Burlington,_North_Carolina",http://sws.geonames.org/4458228/
+0,145,"Boone, North Carolina","http://dbpedia.org/resource/Boone,_North_Carolina",http://sws.geonames.org/4456703/
+0,146,"Belmont, North Carolina",http://dbpedia.org/resource/North_Carolina,http://sws.geonames.org/4454860/
+0,147,"Asheville, North Carolina","http://dbpedia.org/resource/Asheville,_North_Carolina",http://sws.geonames.org/4453066/
+0,148,"Albemarle, North Carolina","http://dbpedia.org/resource/Albemarle,_North_Carolina",http://sws.geonames.org/4452303/
+0,149,St. Louis,http://dbpedia.org/resource/St._Louis,http://sws.geonames.org/4407066/
+0,150,"Liberty, Missouri","http://dbpedia.org/resource/Liberty,_Missouri",http://sws.geonames.org/4395052/
+0,151,"Kansas City, Missouri","http://dbpedia.org/resource/Kansas_City,_Missouri",http://sws.geonames.org/4393217/
+0,152,"Joplin, Missouri","http://dbpedia.org/resource/Joplin,_Missouri",http://sws.geonames.org/4392768/
+0,153,"Jefferson City, Missouri","http://dbpedia.org/resource/Jefferson_City,_Missouri",http://sws.geonames.org/4392388/
+0,154,"Harrisonville, Missouri","http://dbpedia.org/resource/Harrisonville,_Missouri",http://sws.geonames.org/4389658/
+0,155,"Takoma Park, Maryland","http://dbpedia.org/resource/Takoma_Park,_Maryland",http://sws.geonames.org/4370890/
+0,156,"Gaithersburg, Maryland","http://dbpedia.org/resource/Gaithersburg,_Maryland",http://sws.geonames.org/4355843/
+0,157,"Frederick, Maryland","http://dbpedia.org/resource/Frederick,_Maryland",http://sws.geonames.org/4355585/
+0,158,Baltimore,http://dbpedia.org/resource/Baltimore,http://sws.geonames.org/4347778/
+0,159,"Annapolis, Maryland","http://dbpedia.org/resource/Annapolis,_Maryland",http://sws.geonames.org/4347242/
+0,160,"Shreveport, Louisiana","http://dbpedia.org/resource/Shreveport,_Louisiana",http://sws.geonames.org/4341513/
+0,161,New Orleans,http://dbpedia.org/resource/New_Orleans,http://sws.geonames.org/4335045/
+0,162,"Bossier City, Louisiana","http://dbpedia.org/resource/Bossier_City,_Louisiana",http://sws.geonames.org/4317639/
+0,163,"Baton Rouge, Louisiana","http://dbpedia.org/resource/Baton_Rouge,_Louisiana",http://sws.geonames.org/4315588/
+0,164,"Williamsburg, Kentucky","http://dbpedia.org/resource/Williamsburg,_Virginia",http://sws.geonames.org/4313563/
+0,165,"Madisonville, Kentucky","http://dbpedia.org/resource/Madisonville,_Kentucky",http://sws.geonames.org/4299670/
+0,166,"Louisville, Kentucky","http://dbpedia.org/resource/Louisville,_Kentucky",http://sws.geonames.org/4299276/

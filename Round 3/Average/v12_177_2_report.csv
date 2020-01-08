@@ -1,0 +1,13 @@
+F1: 0.73810,Precision: 0.73810,Recall: 0.73810,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,1,V. v. Bülow,http://dbpedia.org/resource/Loriot,http://dbpedia.org/resource/Victor_von_Bülow http://dbpedia.org/resource/Bernhard-Victor_von_Bülow http://dbpedia.org/resource/Vicco_von_Bülow http://dbpedia.org/resource/Bernhard_Victor_von_Bülow http://dbpedia.org/resource/Vicco_von_Buelow http://dbpedia.org/resource/Vicco_von_Bulow http://dbpedia.org/resource/Bernhard-Victor_Christoph-Carl_von_Bülow http://dbpedia.org/resource/Bernhard_Victor_Christoph_Carl_von_Bülow http://dbpedia.org/resource/Jodel-Diplom http://dbpedia.org/resource/Victor_Christoph_von_Bülow
+2,6,J. Becker,http://dbpedia.org/resource/Jurek_Becker,"http://dbpedia.org/resource/Jean_Becker_(director,_actor) http://dbpedia.org/resource/Jean_Becker_(director)"
+2,7,M. Pinto,http://dbpedia.org/resource/Michele_Pinto,http://dbpedia.org/resource/Mercedes_Pinto
+2,10,M. Manfredi,http://dbpedia.org/resource/Nino_Manfredi,http://dbpedia.org/resource/Matt_Manfredi
+2,14,I. Rodríguez,http://dbpedia.org/resource/Luis_Fonsi,http://dbpedia.org/resource/Ismael_Rodríguez_(cineasta) http://dbpedia.org/resource/Ismael_Rodríguez http://dbpedia.org/resource/Ismael_Rodriguez
+2,15,J. Morales,http://dbpedia.org/resource/Jimmy_Morales,http://dbpedia.org/resource/Jacobo_Morales
+2,26,S. Martin,http://dbpedia.org/resource/Dean_Martin,"http://dbpedia.org/resource/Stephen_Glenn_Martin http://dbpedia.org/resource/Steve_martin http://dbpedia.org/resource/Steve_Martin_Prize_for_Excellence_in_Banjo_and_Bluegrass http://dbpedia.org/resource/Well,_excuse_me! http://dbpedia.org/resource/Martin,_Steve http://dbpedia.org/resource/We_are_two_wild_and_crazy_guys http://dbpedia.org/resource/Steve_Martin"
+2,33,J. Penney,http://fr.dbpedia.org/resource/Mark_Penney,http://dbpedia.org/resource/John_Penney
+2,36,C. Salces,http://dbpedia.org/resource/Luciano_Salce,http://dbpedia.org/resource/Carlos_Salces http://dbpedia.org/resource/Carlos_Salcés
+2,38,J. Salle,http://fr.dbpedia.org/resource/Jean-Baptiste_Salle,http://dbpedia.org/resource/Jerome_Salle http://dbpedia.org/resource/Jérôme_Salle
+2,42,R. Russell,http://dbpedia.org/resource/Rosalind_Russell,http://dbpedia.org/resource/Ray_Russell

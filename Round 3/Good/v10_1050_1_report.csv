@@ -1,0 +1,4 @@
+F1: 0.97619,Precision: 0.97619,Recall: 0.97619,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,60,Willkanuta mountain range,http://dbpedia.org/resource/California_Coast_Ranges,"http://dbpedia.org/resource/Cordillera_de_Vilcanota http://dbpedia.org/resource/Vilcanota_Mountains http://dbpedia.org/resource/Vilcanota_mountain_range http://dbpedia.org/resource/Cordillera_Vilcanota http://dbpedia.org/resource/Abra_Malaga,_Peru http://dbpedia.org/resource/Willkanuta_mountain_range http://dbpedia.org/resource/Abra_Malaga_pass"
+1,67,Willkanuta mountain range,http://dbpedia.org/resource/California_Coast_Ranges,"http://dbpedia.org/resource/Cordillera_de_Vilcanota http://dbpedia.org/resource/Vilcanota_Mountains http://dbpedia.org/resource/Vilcanota_mountain_range http://dbpedia.org/resource/Cordillera_Vilcanota http://dbpedia.org/resource/Abra_Malaga,_Peru http://dbpedia.org/resource/Willkanuta_mountain_range http://dbpedia.org/resource/Abra_Malaga_pass"

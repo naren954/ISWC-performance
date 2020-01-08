@@ -1,0 +1,5 @@
+"F1: 0.78571","Precision: 0.78571","Recall: 0.78571"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","5","Ã\u0087etinkaya TÃ¼rk","http://dbpedia.org/resource/Northern_Cyprus","http://dbpedia.org/resource/Çetinkaya_Türk_S.K."
+"0","7","EPA Larnaca","http://dbpedia.org/resource/AEK_Larnaca_FC","http://dbpedia.org/resource/EPA_Larnaca http://dbpedia.org/resource/EPA_Larnaca_FC"
+"0","13","Pezoporikos Larnaca","http://dbpedia.org/resource/AEK_Larnaca_FC","http://dbpedia.org/resource/Pezoporikos_Larnaca_FC http://dbpedia.org/resource/Pezoporikos http://dbpedia.org/resource/Pezoporikos_Larnaca http://dbpedia.org/resource/Pezoporikos_FC"

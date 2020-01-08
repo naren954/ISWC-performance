@@ -1,0 +1,10 @@
+F1: 0.66667,Precision: 0.66667,Recall: 0.66667,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,Audi Sport Team Joest,http://dbpedia.org/resource/W_Racing_Team,http://dbpedia.org/resource/Joest_Racing http://dbpedia.org/resource/Jöst_Racing http://dbpedia.org/resource/Jost_Racing http://dbpedia.org/resource/Audi_Sport_Team_Joest http://dbpedia.org/resource/Team_Joest
+1,2,Bryan Herta Autosport,http://dbpedia.org/resource/Bryan_Herta,http://dbpedia.org/resource/Bryan_Herta_Autosport http://dbpedia.org/resource/Bryan_Herta_Rallysport http://dbpedia.org/resource/Barracuda_Racing
+1,6,Eklund Motorsport,http://dbpedia.org/resource/Per_Eklund,http://dbpedia.org/resource/Eklund_Motorsport http://dbpedia.org/resource/Per_Eklund_Motorsport
+1,10,K-Pax Racing,http://dbpedia.org/resource/Kremer_Racing,http://dbpedia.org/resource/K-Pax_Racing
+1,12,Motorbase Performance,http://dbpedia.org/resource/Opel_Performance_Center,http://dbpedia.org/resource/Motorbase_Performance
+1,19,A1 Team Malaysia,http://dbpedia.org/resource/Caterham_F1,http://dbpedia.org/resource/A1GP_Team_Malaysia http://dbpedia.org/resource/A1_Team_Malaysia
+1,20,Koiranen GP,http://dbpedia.org/resource/Brawn_GP,http://dbpedia.org/resource/Koiranen_Motorsport http://dbpedia.org/resource/Koiranen_Bros._Motorsport http://dbpedia.org/resource/Koiranen_GP
+1,24,Campos Racing,http://dbpedia.org/resource/HRT_Formula_1_Team,http://dbpedia.org/resource/Campos_Grand_Prix http://dbpedia.org/resource/Campos_Motorsport http://dbpedia.org/resource/Campos_Racing

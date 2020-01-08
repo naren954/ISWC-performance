@@ -1,0 +1,4 @@
+"F1: 0.85714","Precision: 0.85714","Recall: 0.85714"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"3","3","C. Smith","http://dbpedia.org/resource/Cordwainer_Smith","http://dbpedia.org/resource/C._A._B._Smith http://dbpedia.org/resource/Cedric_Smith_(statistician) http://dbpedia.org/resource/C.A.B._Smith"
+"3","13","L. Meyer","http://dbpedia.org/resource/Eduard_Meyer","http://dbpedia.org/resource/Leo_Meyer_(philologist)"

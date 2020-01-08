@@ -1,0 +1,7 @@
+"F1: 0.70588","Precision: 0.70588","Recall: 0.70588"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","7","M. O'Donnell","http://dbpedia.org/resource/Kenneth_O'Donnell","http://dbpedia.org/resource/Mark_O'Donnell"
+"1","8","K. Ludwig","http://dbpedia.org/resource/Louis_IX_of_France","http://dbpedia.org/resource/Ken_Ludwig"
+"1","9","R. Treyz","nan","http://dbpedia.org/resource/Russell_Treyz"
+"1","10","D. Greenspan","http://dbpedia.org/resource/Alan_Greenspan","http://dbpedia.org/resource/David_Greenspan"
+"1","17","D. Greig","http://dbpedia.org/resource/Tamsin_Greig","http://dbpedia.org/resource/David_Greig_(dramatist)"

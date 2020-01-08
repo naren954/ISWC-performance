@@ -1,0 +1,11 @@
+F1: 0.89535,Precision: 0.89535,Recall: 0.89535,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,9,WBYR,http://dbpedia.org/resource/WLKK,http://dbpedia.org/resource/WBYR http://dbpedia.org/resource/WBYR-FM http://dbpedia.org/resource/98.9_The_Bear http://dbpedia.org/resource/WBYR_(FM)
+0,13,WBOW,http://dbpedia.org/resource/WIBQ,http://dbpedia.org/resource/WBOW_(FM)
+0,21,WAIX,http://dbpedia.org/resource/WSSV,http://dbpedia.org/resource/WABY_(1400_kHz) http://dbpedia.org/resource/W291BY http://dbpedia.org/resource/WAIX
+0,27,KWVE,http://dbpedia.org/resource/KWVE-FM,http://dbpedia.org/resource/KWVE_(AM)
+0,41,KRKR,http://dbpedia.org/resource/KUMT,http://dbpedia.org/resource/KRKR
+0,46,KPSI,http://dbpedia.org/resource/KPSI-FM,http://dbpedia.org/resource/KPSI_(AM)
+0,51,KOND,http://dbpedia.org/resource/KRDA,http://dbpedia.org/resource/KOND_(FM) http://dbpedia.org/resource/KOND
+0,53,KOAI,http://dbpedia.org/resource/KMVK,http://dbpedia.org/resource/KOAI http://dbpedia.org/resource/KVIB
+0,67,KHIT-FM,http://dbpedia.org/resource/KSOL,http://dbpedia.org/resource/KXOB http://dbpedia.org/resource/KHIT_(FM) http://dbpedia.org/resource/KHIT-FM

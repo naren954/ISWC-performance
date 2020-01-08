@@ -1,0 +1,5 @@
+F1: 0.98404,Precision: 0.98404,Recall: 0.98404,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,153,Weightlifting at the 2016 Summer Olympics – Men's 85 kg,http://dbpedia.org/resource/Weightlifting_at_the_2016_Summer_Olympics,http://dbpedia.org/resource/Weightlifting_at_the_2016_Summer_Olympics_–_Men's_85_kg
+1,168,Weightlifting at the 2016 Summer Olympics – Men's 85 kg,http://dbpedia.org/resource/Weightlifting_at_the_2016_Summer_Olympics,http://dbpedia.org/resource/Weightlifting_at_the_2016_Summer_Olympics_–_Men's_85_kg http://dbpedia.org/resource/Weightlifting_at_the_2016_Summer_Olympics_-_Men's_85_kg
+1,186,Weightlifting at the 2012 Summer Olympics – Men's 105 kg,http://dbpedia.org/resource/Weightlifting_at_the_2012_Summer_Olympics_–_Men's_+105_kg,http://dbpedia.org/resource/Weightlifting_at_the_2012_Summer_Olympics_–_Men's_105_kg http://dbpedia.org/resource/Weightlifting_at_the_2012_Summer_Olympics_-_Men's_105_kg

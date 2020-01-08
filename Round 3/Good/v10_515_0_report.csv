@@ -1,0 +1,7 @@
+F1: 0.96241,Precision: 0.96241,Recall: 0.96241,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,36,Bayern,http://de.dbpedia.org/resource/Luitpold_Emanuel_in_Bayern,http://dbpedia.org/resource/Bayern_(horse)
+0,57,Australia,http://dbpedia.org/resource/Australia_national_under-17_soccer_team,http://dbpedia.org/resource/Australia_(horse)
+0,73,Arch,http://dbpedia.org/resource/Joseph_Arch,http://dbpedia.org/resource/Arch_(horse)
+0,113,Again,http://dbpedia.org/resource/Seek_Again,http://dbpedia.org/resource/Again_(horse)
+0,121,Adelaide,http://dbpedia.org/resource/Adelaide_of_Saxe-Meiningen,http://dbpedia.org/resource/Adelaide_(horse)

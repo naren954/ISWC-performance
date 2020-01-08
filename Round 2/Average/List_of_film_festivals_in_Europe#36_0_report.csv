@@ -1,0 +1,5 @@
+F1: 0.62500,Precision: 0.62500,Recall: 0.62500,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,10,GijÃ³n International Film Festival,http://dbpedia.org/resource/Marrakech_International_Film_Festival,http://dbpedia.org/resource/Gijón_International_Film_Festival
+0,15,MÃ¡laga Spanish Film Festival,http://dbpedia.org/resource/Málaga_Film_Festival,http://dbpedia.org/resource/Málaga_Spanish_Film_Festival
+0,16,Marbella Film Festival,http://dbpedia.org/resource/Tribeca_Film_Festival,http://dbpedia.org/resource/Marbella_International_Film_Festival http://dbpedia.org/resource/Marbella_Film_Festival

@@ -1,0 +1,11 @@
+F1: 0.47059,Precision: 0.47059,Recall: 0.47059,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,1,Ö. Pasha,http://dbpedia.org/resource/Isma'il_Pasha,http://dbpedia.org/resource/Ozdemir_Pasha http://dbpedia.org/resource/Özdemir_Pasha
+2,2,J. Poulin,http://dbpedia.org/resource/Jacques_Poulin,http://dbpedia.org/resource/Joseph-Napoléon_Poulin http://dbpedia.org/resource/Joseph-Napoleon_Poulin
+2,3,B. Pâquet,http://fr.dbpedia.org/resource/Aimé_Paquet,http://dbpedia.org/resource/Benjamin_Paquet http://dbpedia.org/resource/Benjamin_Pâquet
+2,4,É. L. Sr.,http://dbpedia.org/resource/Jesse_Jackson,"http://dbpedia.org/resource/Émery_Lalonde,_Sr."
+2,6,P. Garneau,http://dbpedia.org/resource/Marc_Garneau,http://dbpedia.org/resource/Pierre_Garneau
+2,9,B. family,,http://dbpedia.org/resource/Bhutto_dynasty http://dbpedia.org/resource/Sassi_Bhutto http://dbpedia.org/resource/Bhutto_family http://dbpedia.org/resource/Ghulam_Murtaza_Bhutto http://dbpedia.org/resource/Bhuttos http://dbpedia.org/resource/Bhutto_Dynasty
+2,10,Z. Fu,http://dbpedia.org/resource/Zhang_Fu,http://dbpedia.org/resource/Zhou_Fu
+2,12,Al-Zayadina,http://dbpedia.org/resource/Al_Kasha,http://dbpedia.org/resource/Zaydani http://dbpedia.org/resource/Bani_Zaidan http://dbpedia.org/resource/Zaydani_family http://dbpedia.org/resource/Zayadina http://dbpedia.org/resource/Banu_Zaydan http://dbpedia.org/resource/Al-Zayadina
+2,17,K. Ho,http://dbpedia.org/resource/Kenny_Ho,http://dbpedia.org/resource/Kai_Ho_Kai http://dbpedia.org/resource/Sir_kai_ho http://dbpedia.org/resource/Kai_Ho http://dbpedia.org/resource/Ho_kai http://dbpedia.org/resource/Ho_Kai

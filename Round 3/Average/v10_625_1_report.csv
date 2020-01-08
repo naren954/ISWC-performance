@@ -1,0 +1,5 @@
+F1: 0.57143,Precision: 0.57143,Recall: 0.57143,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,2,ŽKK Crvena zvezda,http://dbpedia.org/resource/KK_Crvena_zvezda,http://dbpedia.org/resource/ŽKK_Crvena_zvezda http://dbpedia.org/resource/ZKK_Crvena_zvezda http://dbpedia.org/resource/ZKK_Crvena_Zvezda http://dbpedia.org/resource/WBC_Red_Star_Belgrade
+1,4,MBK Ružomberok,http://dbpedia.org/resource/MFK_Ružomberok,http://dbpedia.org/resource/MBK_Ružomberok
+1,7,ŽKK Crvena zvezda,http://dbpedia.org/resource/KK_Crvena_zvezda,http://dbpedia.org/resource/ŽKK_Crvena_zvezda http://dbpedia.org/resource/ZKK_Crvena_zvezda http://dbpedia.org/resource/ZKK_Crvena_Zvezda http://dbpedia.org/resource/WBC_Red_Star_Belgrade

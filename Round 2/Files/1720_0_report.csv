@@ -1,0 +1,7 @@
+"F1: 0.68750","Precision: 0.68750","Recall: 0.68750"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","1","Belorusskaya","http://dbpedia.org/resource/Belorusskaya_(Koltsevaya_line)","http://dbpedia.org/resource/Belorusskaya-Radial'naya http://dbpedia.org/resource/Belorusskaya_(Zamoskvoretskaya_Line) http://dbpedia.org/resource/Belaruskaya-Radial'naya http://dbpedia.org/resource/Belorusskaya-Radialnaya"
+"0","2","Belorusskaya","http://dbpedia.org/resource/Belorusskaya_(Koltsevaya_line)","http://dbpedia.org/resource/Belaruskaya-Kol'tsevaya http://dbpedia.org/resource/Belorusskaya-Kol'tsevaya http://dbpedia.org/resource/Belorusskaya-Koltsevaya http://dbpedia.org/resource/Belorusskaya_(Koltsevaya_Line)"
+"0","7","Avtozavodskaya","http://dbpedia.org/resource/Avtozavodskaya_(Zamoskvoretskaya_line)","http://dbpedia.org/resource/Avtozavodskaya_(Moscow_Metro)"
+"0","9","Arbatskaya","http://dbpedia.org/resource/Arbatskaya_(Arbatsko–Pokrovskaya_line)","http://dbpedia.org/resource/Arbatskaya_(Filyovskaya_Line) http://dbpedia.org/resource/Arbatskaya_(Filyovskaya) http://dbpedia.org/resource/Arbatskaya_(Filovskaya)"
+"0","10","Arbatskaya","http://dbpedia.org/resource/Arbatskaya_(Arbatsko–Pokrovskaya_line)","http://dbpedia.org/resource/Arbatskaya_(Arbatsko-Pokrovskaya) http://dbpedia.org/resource/Arbatskaya_(Arbatsko-Pokrovskaya_Line)"

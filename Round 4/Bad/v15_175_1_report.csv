@@ -1,0 +1,23 @@
+F1: 0.36364,Precision: 0.36364,Recall: 0.36364,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,2,F. Rind,http://dbpedia.org/resource/Friedl_Rinder,http://dbpedia.org/resource/Farooq_Rind
+1,4,J. Castillo,http://dbpedia.org/resource/José_Castillo_(police_officer),http://dbpedia.org/resource/Julio_Castillo http://dbpedia.org/resource/Julio_Cesar_Castillo
+1,5,A. Wheeler,http://dbpedia.org/resource/John_Archibald_Wheeler,http://dbpedia.org/resource/Anne_Wheeler
+1,6,G. T. Miller,http://dbpedia.org/resource/G._William_Miller,http://dbpedia.org/resource/George_T._Miller
+1,7,D. Lowe,http://dbpedia.org/resource/Doug_Lowe_(Australian_politician),http://dbpedia.org/resource/David_Lowe_(producer)
+1,8,T. Haynes,http://dbpedia.org/resource/Todd_Haynes,http://dbpedia.org/resource/Toby_Haynes
+1,9,C. Lilley,http://dbpedia.org/resource/Charles_Lilley,http://dbpedia.org/resource/Chris_Lilley_(comedian) http://dbpedia.org/resource/Christopher_Daniel_Lilley
+1,10,J. Lee,http://dbpedia.org/resource/Christopher_Lee,http://dbpedia.org/resource/John_Lee_(PFFR) http://dbpedia.org/resource/John_Lee_(producer)
+1,11,B. Spiers,http://de.dbpedia.org/resource/Josef_Spies,http://dbpedia.org/resource/Bob_Spiers
+1,12,D. L. Rich,http://dbpedia.org/resource/Mary_of_Burgundy,http://dbpedia.org/resource/David_Lowell_Rich
+1,14,P. Baldwin,http://dbpedia.org/resource/James_Baldwin,http://dbpedia.org/resource/Peter_Baldwin_(director)
+1,15,S. Varma,http://dbpedia.org/resource/Samyuktha_Varma,http://dbpedia.org/resource/Santram_Varma
+1,16,M. Alejandre,http://dbpedia.org/resource/Salvador_Mejía,http://dbpedia.org/resource/Mac_Alejandre
+1,17,L. Ganz,http://dbpedia.org/resource/Bruno_Ganz,http://dbpedia.org/resource/Lowell_Ganz http://dbpedia.org/resource/Bob:_The_Musical
+1,22,R. Young,http://dbpedia.org/resource/Ron_Young_(politician),http://dbpedia.org/resource/Roger_Young_(director)
+1,25,P. Wroblewski,http://dbpedia.org/resource/Augustyn_Wróblewski,http://dbpedia.org/resource/Paul_Wroblewski
+1,26,A. Ackerman,http://dbpedia.org/resource/William_Ackerman,"http://dbpedia.org/resource/Ackerman,_Andy http://dbpedia.org/resource/Andy_Ackerman"
+1,28,D. Mackinnon,http://dbpedia.org/resource/Dan_Mackinnon,http://dbpedia.org/resource/Douglas_Mackinnon
+1,29,D. Zapata,http://de.dbpedia.org/resource/Maya_Zapata,http://dbpedia.org/resource/Dominic_Zapata http://dbpedia.org/resource/Dominic_zapata
+1,32,S. White,http://dbpedia.org/resource/Byron_White,http://dbpedia.org/resource/Susanna_White
+1,33,L. Thompson,http://dbpedia.org/resource/Lindsay_Thompson,http://dbpedia.org/resource/Lea_Thompson http://dbpedia.org/resource/Lea_thomson http://dbpedia.org/resource/Leah_thomson http://dbpedia.org/resource/Leah_Thompson

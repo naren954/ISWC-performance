@@ -1,0 +1,13 @@
+F1: 0.74419,Precision: 0.74419,Recall: 0.74419,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,USS McCall,http://dbpedia.org/resource/USS_McCall_(DD-28),http://dbpedia.org/resource/USS_McCall_(DD_400) http://dbpedia.org/resource/DD400 http://dbpedia.org/resource/DD-400 http://dbpedia.org/resource/USS_McCall_(DD-400) http://dbpedia.org/resource/USS_McCall_(DD400) http://dbpedia.org/resource/DD_400
+0,5,USS Mayrant,http://dbpedia.org/resource/USS_Mayrant_(DD-402),http://dbpedia.org/resource/USS_Mayrant_(DD-31)
+0,8,USS Maury,http://dbpedia.org/resource/USS_Maury_(DD-100),http://dbpedia.org/resource/DD401 http://dbpedia.org/resource/DD-401 http://dbpedia.org/resource/USS_Maury_(DD_401) http://dbpedia.org/resource/DD_401 http://dbpedia.org/resource/USS_Maury_(DD401) http://dbpedia.org/resource/USS_Maury_(DD-401)
+0,10,USS Maury,http://dbpedia.org/resource/USS_Maury_(DD-100),http://dbpedia.org/resource/USS_Maury_(AGS-16) http://dbpedia.org/resource/USS_Renate_(AKA-36)
+0,11,USS Mauna Loa,http://dbpedia.org/resource/USS_Mauna_Loa_(SP-28),http://dbpedia.org/resource/USS_Mauna_Loa_(AE-8) http://dbpedia.org/resource/AE-8
+0,24,USS Maryland,http://dbpedia.org/resource/USS_Maryland_(BB-46),http://dbpedia.org/resource/USS_Maryland_(ACR-8) http://dbpedia.org/resource/USS_Frederick_(CA-8) http://dbpedia.org/resource/USS_Frederick_(ACR-8)
+0,31,USS Mars,http://dbpedia.org/resource/USS_Mars_(AC-6),http://dbpedia.org/resource/USS_Mars_(AFS-1) http://dbpedia.org/resource/USNS_Mars_(T-AFS-1)
+0,33,USS Marlin,http://dbpedia.org/resource/USS_Marlin_(SS-205),http://dbpedia.org/resource/USS_T-2_(SST-2) http://dbpedia.org/resource/USS_Marlin_(SST-2)
+0,36,USS Marietta,http://dbpedia.org/resource/USS_Marietta_(AN-82),http://dbpedia.org/resource/USS_Marietta_(PG-15)
+0,40,USS Marcus Island,http://dbpedia.org/resource/USS_Rhode_Island_(BB-17),http://dbpedia.org/resource/USS_Kanalku_Bay http://dbpedia.org/resource/USS_Marcus_Island http://dbpedia.org/resource/USS_Marcus_Island_(CVE-77) http://dbpedia.org/resource/USS_Marcus_Island_(CVHE-77) http://dbpedia.org/resource/USS_Marcus_Island_(AKV-27) http://dbpedia.org/resource/USS_Kanalku_Bay_(CVE-77)
+0,43,USS Marathon,http://dbpedia.org/resource/USS_Marathon_(PGM-89),http://dbpedia.org/resource/USS_Marathon_(APA-200) http://dbpedia.org/resource/APA-200

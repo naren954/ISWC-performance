@@ -1,0 +1,5 @@
+"F1: 0.78571","Precision: 0.78571","Recall: 0.78571"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","7","IFK NorrkÃ¶ping","http://dbpedia.org/resource/IFK_Göteborg","http://dbpedia.org/resource/IFK_Norrköping"
+"1","12","Ã\u0096rgryte IS (O)","http://dbpedia.org/resource/Étude_Op._10,_No._1_(Chopin)","http://dbpedia.org/resource/Örgryte_IS"
+"1","14","Ã\u0096sters IF (R)","http://dbpedia.org/resource/U_Centauri","http://dbpedia.org/resource/Östers_IF"

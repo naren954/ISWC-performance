@@ -1,0 +1,32 @@
+F1: 0.79310,Precision: 0.79310,Recall: 0.79310,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,2,J. Magnussen,http://dbpedia.org/resource/Karen_Magnussen,http://dbpedia.org/resource/James_Magnussen
+3,5,K. Payne,http://dbpedia.org/resource/Ken_Payne,http://dbpedia.org/resource/Keri-Anne_Payne http://dbpedia.org/resource/Kerianne_Payne http://dbpedia.org/resource/Keri_Anne_Payne
+3,8,Y. Yu,http://dbpedia.org/resource/Luo_Yu,http://dbpedia.org/resource/Yang_Yu_(swimmer)
+3,16,L. Jones,http://dbpedia.org/resource/Lloyd_Jones_(footballer),http://dbpedia.org/resource/Leisel_Jones http://dbpedia.org/resource/Liesel_Jones
+3,22,D. Davies,"http://dbpedia.org/resource/David_Davies_(footballer,_born_1888)",http://dbpedia.org/resource/David_Davies_(swimmer)
+3,27,L. Cseh,http://dbpedia.org/resource/László_Cseh_(footballer),http://dbpedia.org/resource/Cseh_László http://dbpedia.org/resource/László_Cseh http://dbpedia.org/resource/Cseh_Laszlo http://dbpedia.org/resource/Cseh_laszlo http://dbpedia.org/resource/Czeh_László http://dbpedia.org/resource/Laszlo_Cseh http://dbpedia.org/resource/Laszlo_Czeh http://dbpedia.org/resource/Cseh_lászló
+3,28,Z. Lin,http://dbpedia.org/resource/Zhu_Lin_(badminton),http://dbpedia.org/resource/Lin_Zhang_(swimmer) http://dbpedia.org/resource/Zhang_Lin_(swimmer)
+3,29,L. Cseh,http://dbpedia.org/resource/László_Cseh_(footballer),http://dbpedia.org/resource/Cseh_László http://dbpedia.org/resource/László_Cseh http://dbpedia.org/resource/Cseh_Laszlo http://dbpedia.org/resource/Cseh_laszlo http://dbpedia.org/resource/Czeh_László http://dbpedia.org/resource/Laszlo_Cseh http://dbpedia.org/resource/Laszlo_Czeh http://dbpedia.org/resource/Cseh_lászló
+3,31,L. Cseh,http://dbpedia.org/resource/László_Cseh_(footballer),http://dbpedia.org/resource/Cseh_László http://dbpedia.org/resource/László_Cseh http://dbpedia.org/resource/Cseh_Laszlo http://dbpedia.org/resource/Cseh_laszlo http://dbpedia.org/resource/Czeh_László http://dbpedia.org/resource/Laszlo_Cseh http://dbpedia.org/resource/Laszlo_Czeh http://dbpedia.org/resource/Cseh_lászló
+3,39,K. Payne,http://dbpedia.org/resource/Ken_Payne,http://dbpedia.org/resource/Keri-Anne_Payne http://dbpedia.org/resource/Kerianne_Payne http://dbpedia.org/resource/Keri_Anne_Payne
+3,50,L. Jones,http://dbpedia.org/resource/Lloyd_Jones_(footballer),http://dbpedia.org/resource/Leisel_Jones http://dbpedia.org/resource/Liesel_Jones
+3,56,D. Davies,"http://dbpedia.org/resource/David_Davies_(footballer,_born_1888)",http://dbpedia.org/resource/David_Davies_(swimmer)
+3,58,M. Polishchuk,http://dbpedia.org/resource/Anatoliy_Polishchuk,http://dbpedia.org/resource/Mikhail_Polischuk http://dbpedia.org/resource/Michail_Polishuk http://dbpedia.org/resource/Mikhail_Polishschuk http://dbpedia.org/resource/Mikhail_Polishchuk http://dbpedia.org/resource/Mikhail_Polishcuk
+3,61,L. Cseh,http://dbpedia.org/resource/László_Cseh_(footballer),http://dbpedia.org/resource/Cseh_László http://dbpedia.org/resource/László_Cseh http://dbpedia.org/resource/Cseh_Laszlo http://dbpedia.org/resource/Cseh_laszlo http://dbpedia.org/resource/Czeh_László http://dbpedia.org/resource/Laszlo_Cseh http://dbpedia.org/resource/Laszlo_Czeh http://dbpedia.org/resource/Cseh_lászló
+3,62,Z. Lin,http://dbpedia.org/resource/Zhu_Lin_(badminton),http://dbpedia.org/resource/Lin_Zhang_(swimmer) http://dbpedia.org/resource/Zhang_Lin_(swimmer)
+3,63,L. Cseh,http://dbpedia.org/resource/László_Cseh_(footballer),http://dbpedia.org/resource/Cseh_László http://dbpedia.org/resource/László_Cseh http://dbpedia.org/resource/Cseh_Laszlo http://dbpedia.org/resource/Cseh_laszlo http://dbpedia.org/resource/Czeh_László http://dbpedia.org/resource/Laszlo_Cseh http://dbpedia.org/resource/Laszlo_Czeh http://dbpedia.org/resource/Cseh_lászló
+3,65,L. Cseh,http://dbpedia.org/resource/László_Cseh_(footballer),http://dbpedia.org/resource/Cseh_László http://dbpedia.org/resource/László_Cseh http://dbpedia.org/resource/Cseh_Laszlo http://dbpedia.org/resource/Cseh_laszlo http://dbpedia.org/resource/Czeh_László http://dbpedia.org/resource/Laszlo_Cseh http://dbpedia.org/resource/Laszlo_Czeh http://dbpedia.org/resource/Cseh_lászló
+3,74,M. Metella,http://dbpedia.org/resource/Mehdy_Metella,http://dbpedia.org/resource/Malia_Metella http://dbpedia.org/resource/Maria_Metella
+3,75,Y. Yu,http://dbpedia.org/resource/Luo_Yu,http://dbpedia.org/resource/Yang_Yu_(swimmer)
+3,80,A. Beard,http://dbpedia.org/resource/Alana_Beard,http://dbpedia.org/resource/Amanda_Beard
+3,83,L. Jones,http://dbpedia.org/resource/Lloyd_Jones_(footballer),http://dbpedia.org/resource/Leisel_Jones http://dbpedia.org/resource/Liesel_Jones
+3,97,T. Yamamoto,http://dbpedia.org/resource/Tetsuya_Yamamoto,http://dbpedia.org/resource/Takashi_Yamamoto_(swimmer)
+3,103,B. Hansen,http://dbpedia.org/resource/Bent_Hansen,http://dbpedia.org/resource/Brendan_Hansen http://dbpedia.org/resource/Brendan_Hanson
+3,106,M. Metella,http://dbpedia.org/resource/Mehdy_Metella,http://dbpedia.org/resource/Malia_Metella http://dbpedia.org/resource/Maria_Metella
+3,107,Y. Yu,http://dbpedia.org/resource/Luo_Yu,http://dbpedia.org/resource/Yang_Yu_(swimmer)
+3,112,A. Beard,http://dbpedia.org/resource/Alana_Beard,http://dbpedia.org/resource/Amanda_Beard
+3,115,L. Jones,http://dbpedia.org/resource/Lloyd_Jones_(footballer),http://dbpedia.org/resource/Leisel_Jones http://dbpedia.org/resource/Liesel_Jones
+3,129,T. Yamamoto,http://dbpedia.org/resource/Tetsuya_Yamamoto,http://dbpedia.org/resource/Takashi_Yamamoto_(swimmer)
+3,135,B. Hansen,http://dbpedia.org/resource/Bent_Hansen,http://dbpedia.org/resource/Brendan_Hansen http://dbpedia.org/resource/Brendan_Hanson
+3,142,Y. Tajima,http://dbpedia.org/resource/Naoto_Tajima,http://dbpedia.org/resource/Yasuko_Tajima

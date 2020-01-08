@@ -1,0 +1,5 @@
+"F1: 0.78571","Precision: 0.78571","Recall: 0.78571"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","2","Rodrigo LÃ³pez","http://dbpedia.org/resource/Hernán_Rodrigo_López","http://dbpedia.org/resource/Rodrigo_López_(soccer)"
+"1","3","Nate Robinson","http://dbpedia.org/resource/Nate_Robinson","http://dbpedia.org/resource/Nate_Robinson_(soccer)"
+"1","5","Jamie Watson","http://dbpedia.org/resource/Jamie_Watson_(basketball)","http://dbpedia.org/resource/Jamie_Watson_(footballer) http://dbpedia.org/resource/Jamie_Watson_(soccer)"

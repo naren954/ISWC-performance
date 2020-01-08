@@ -1,0 +1,21 @@
+F1: 0.32143,Precision: 0.32143,Recall: 0.32143,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,WDSC-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WCEU http://dbpedia.org/resource/WCEU-TV http://dbpedia.org/resource/WDSC-TV
+0,3,WDNI-CD,http://dbpedia.org/resource/.cd,http://dbpedia.org/resource/W65DW http://dbpedia.org/resource/WDNI-LP http://dbpedia.org/resource/W53AV http://dbpedia.org/resource/Indy's_Music_Channel http://dbpedia.org/resource/WDNI http://dbpedia.org/resource/WDNI-CD
+0,5,WDLI-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WDLI-DT http://dbpedia.org/resource/WDLI http://dbpedia.org/resource/WDLI-TV
+0,6,WDHS,http://dbpedia.org/resource/Hosea_Kutako_International_Airport,http://dbpedia.org/resource/WDHS http://dbpedia.org/resource/WDHS-TV
+0,8,WDFX-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WDFX_34 http://dbpedia.org/resource/WDFX-TV
+0,9,WDCQ-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/Q-TV http://dbpedia.org/resource/WDCP http://dbpedia.org/resource/WDCQ-TV http://dbpedia.org/resource/WUCM http://dbpedia.org/resource/WDCQ http://dbpedia.org/resource/QTV_(Michigan_television_stations) http://dbpedia.org/resource/WDCQ-DT http://dbpedia.org/resource/WDCP-TV http://dbpedia.org/resource/WDCP-TV_and_WDCQ-TV
+0,10,WDCN-LP,http://dbpedia.org/resource/Lp_space,http://dbpedia.org/resource/WDCN-LP http://dbpedia.org/resource/WDCO-LP
+0,11,WDAM-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WDAM-TV http://dbpedia.org/resource/Wdam http://dbpedia.org/resource/WDAM
+0,15,WCVI-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WCVI-TV http://dbpedia.org/resource/WCVI
+0,16,WCTI-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WCTI-TV
+0,18,WCPX-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WCPX-DT http://dbpedia.org/resource/WCPX-TV
+0,19,WCMZ-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WFUM-TV http://dbpedia.org/resource/WFUM-DT http://dbpedia.org/resource/WCMZ-TV
+0,20,WCMH-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WLWC_(Columbus) http://dbpedia.org/resource/WCM-TV http://dbpedia.org/resource/WCMH-TV http://dbpedia.org/resource/WLW-C http://dbpedia.org/resource/WCMH
+0,21,WCLJ-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WCLJ http://dbpedia.org/resource/WCLJ-TV
+0,24,WCCO-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/K46AC-D http://dbpedia.org/resource/KCCW-TV http://dbpedia.org/resource/KCCO-TV http://dbpedia.org/resource/K35IZ-D http://dbpedia.org/resource/KCCO http://dbpedia.org/resource/KCCW http://dbpedia.org/resource/CBS_St_Paul http://dbpedia.org/resource/CBS_St._Paul http://dbpedia.org/resource/CBS_4_St._Paul http://dbpedia.org/resource/K49LO-D http://dbpedia.org/resource/WCCO_4 http://dbpedia.org/resource/KCMT-TV http://dbpedia.org/resource/CBS_4_Minneapolis http://dbpedia.org/resource/K41IZ-D http://dbpedia.org/resource/CBS_Saint_Paul http://dbpedia.org/resource/K22KU-D http://dbpedia.org/resource/K16CP-D http://dbpedia.org/resource/CBS_Twin_Cities http://dbpedia.org/resource/K14OL-D http://dbpedia.org/resource/WCCO-TV http://dbpedia.org/resource/CBS_4_Saint_Paul http://dbpedia.org/resource/K18IR-D http://dbpedia.org/resource/WCCO_Television http://dbpedia.org/resource/WCCO-DT http://dbpedia.org/resource/CBS_Minneapolis
+0,25,WCBD-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WUSN-TV http://dbpedia.org/resource/WCBD http://dbpedia.org/resource/WCBD-TV
+0,26,WCAX-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/W69AR http://dbpedia.org/resource/W12AF http://dbpedia.org/resource/WCAX http://dbpedia.org/resource/W20CS-D http://dbpedia.org/resource/WCAX-TV http://dbpedia.org/resource/WCAX-DT
+0,27,WBXV-LP,http://dbpedia.org/resource/Lp_space,http://dbpedia.org/resource/WBXV-CA http://dbpedia.org/resource/WBXV-LP
+0,28,WBXP-LP,http://dbpedia.org/resource/Lp_space,http://dbpedia.org/resource/WBXP-LP

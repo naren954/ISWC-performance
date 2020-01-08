@@ -1,0 +1,4 @@
+"F1: 0.91667","Precision: 0.91667","Recall: 0.91667"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","8","Chester","http://dbpedia.org/resource/Chester_City_F.C.","http://dbpedia.org/resource/Chester_F.C._(2010) http://dbpedia.org/resource/Chester_F.C. http://dbpedia.org/resource/Chester_FC"
+"0","18","Macclesfield Town","http://dbpedia.org/resource/Barrow_A.F.C.","http://dbpedia.org/resource/Macclesfield_F.C. http://dbpedia.org/resource/Macclesfield_Town_F_C http://dbpedia.org/resource/Macclesfield_Town_F.C. http://dbpedia.org/resource/Macclesfield_Town_FC http://dbpedia.org/resource/Macclesfield_Town_F._C. http://dbpedia.org/resource/Macclesfield_Town http://dbpedia.org/resource/The_Silkmen http://dbpedia.org/resource/Silkmen http://dbpedia.org/resource/Macclesfield_FC http://dbpedia.org/resource/Macclesfield_Town_Football_Club http://dbpedia.org/resource/Macc_Town"

@@ -1,0 +1,3 @@
+F1: 0.92857,Precision: 0.92857,Recall: 0.92857,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,4,Central House,"http://dbpedia.org/resource/Central_House_(Central,_Alaska)","http://dbpedia.org/resource/Central_House_(Orangeville,_Illinois)"

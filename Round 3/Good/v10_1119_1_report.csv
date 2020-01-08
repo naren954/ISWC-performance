@@ -1,0 +1,7 @@
+F1: 0.76190,Precision: 0.76190,Recall: 0.76190,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,8,A-Lee,http://dbpedia.org/resource/Stan_Lee,http://dbpedia.org/resource/A-Lee
+1,9,B. Kaye,http://dbpedia.org/resource/Marina_Kaye,http://dbpedia.org/resource/Buddy_Kaye
+1,16,S. F. Animals,http://dbpedia.org/resource/Frans_Snyders,http://dbpedia.org/resource/Super_Furries http://dbpedia.org/resource/Bunf http://dbpedia.org/resource/Llanfairpwllgwyngllgogerychwyrndrobwllynyngofod http://dbpedia.org/resource/Super_furries http://dbpedia.org/resource/Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch_(In_Space) http://dbpedia.org/resource/Super_Furry_Animals
+1,17,T. Clash,http://dbpedia.org/resource/Kevin_Clash,"http://dbpedia.org/resource/The_Clash_Reunion http://dbpedia.org/resource/The_Clahs http://dbpedia.org/resource/Clash,_The http://dbpedia.org/resource/The_clash http://dbpedia.org/resource/The_Clash_(band) http://dbpedia.org/resource/The_only_band_that_matters http://dbpedia.org/resource/THE_CLASH http://dbpedia.org/resource/The_Clash"
+1,19,D. Richards,http://dbpedia.org/resource/Dig_Richards,http://dbpedia.org/resource/Deke_Richards

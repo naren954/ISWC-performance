@@ -1,0 +1,4 @@
+"F1: 0.00000","Precision: 0.00000","Recall: 0.00000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","1","Zenit Kazan","http://dbpedia.org/resource/FC_Zenit_Saint_Petersburg","http://dbpedia.org/resource/VC_Zenit_Kazan http://dbpedia.org/resource/VC_Zenit-Kazan http://dbpedia.org/resource/Dynamo-Tattransgaz_Kazan http://dbpedia.org/resource/Zenit_Kazan http://dbpedia.org/resource/Zenit-Kazan' http://dbpedia.org/resource/ZENIT_Kazan"
+"0","2","Tours VB","http://dbpedia.org/resource/United_Kingdom","http://dbpedia.org/resource/Tours_VB http://dbpedia.org/resource/Tours_Volley-Ball"

@@ -1,0 +1,8 @@
+F1: 0.53846,Precision: 0.53846,Recall: 0.53846,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,Upper Neretva,http://dbpedia.org/resource/Herzegovina-Neretva_Canton,http://dbpedia.org/resource/Upper_Neretva
+0,3,Puget Sound,http://dbpedia.org/resource/University_of_Puget_Sound,"http://dbpedia.org/resource/Puegt_Bay http://dbpedia.org/resource/Puget_Sound_Clean_Air_Agency http://dbpedia.org/resource/Puget_Sound,_Washington_(State) http://dbpedia.org/resource/Puget_Sound http://dbpedia.org/resource/Puget_sound http://dbpedia.org/resource/Puget_Sound,_Wash. http://dbpedia.org/resource/Puget_Sound,_WA http://dbpedia.org/resource/Pudget_Sound http://dbpedia.org/resource/Puget_Sound,_Washington"
+0,9,Elkhorn Slough,"http://dbpedia.org/resource/Elkhorn,_Manitoba",http://dbpedia.org/resource/Elkhorn_Slough_State_Marine_Conservation_Area http://dbpedia.org/resource/Elkhorn_Slough_State_Marine_Reserve http://dbpedia.org/resource/Elkhorn_Slough
+0,10,Chesbro Reservoir,http://dbpedia.org/resource/Chesbro_Lake,http://dbpedia.org/resource/Elmer_Chesbro_Dam http://dbpedia.org/resource/Elmer_J._Chesbro_Dam http://dbpedia.org/resource/Chesbro_Dam http://dbpedia.org/resource/Chesbro_Reservoir http://dbpedia.org/resource/Chesbro_Reservoir_County_Park
+0,12,Big Spring Creek,http://dbpedia.org/resource/Big_Spring_(Missouri),http://dbpedia.org/resource/Big_Spring_Creek_(Montana)
+0,13,Anderson Lake,http://dbpedia.org/resource/Anderson_Lake_(British_Columbia),http://dbpedia.org/resource/Anderson_Lake_County_Park http://dbpedia.org/resource/Anderson_Lake_(California) http://dbpedia.org/resource/Coyote_Creek_Parkway http://dbpedia.org/resource/Leroy_Anderson_Dam http://dbpedia.org/resource/Anderson_Reservoir

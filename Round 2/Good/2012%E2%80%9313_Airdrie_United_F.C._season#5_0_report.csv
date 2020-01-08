@@ -1,0 +1,5 @@
+F1: 0.78571,Precision: 0.78571,Recall: 0.78571,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,Phil Johnston,http://dbpedia.org/resource/Phil_Johnston_(footballer),http://dbpedia.org/resource/Phil_Johnston_(disambiguation) http://dbpedia.org/resource/Phil_Johnston
+0,4,Jamie Stevenson,http://dbpedia.org/resource/Jamie_Stevenson_(Australian_footballer),http://dbpedia.org/resource/Jamie_Stevenson_(footballer)
+0,18,Jack Boyle,http://dbpedia.org/resource/Jack_Boyle,http://dbpedia.org/resource/Jack_Boyle_(footballer)

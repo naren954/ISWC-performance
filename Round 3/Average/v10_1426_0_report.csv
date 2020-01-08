@@ -1,0 +1,5 @@
+F1: 0.75000,Precision: 0.75000,Recall: 0.75000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,5,KJNB-LD,http://dbpedia.org/resource/KTPN-LD,http://dbpedia.org/resource/KJNB-LD
+0,8,KHTV-CD,http://dbpedia.org/resource/.cd,http://dbpedia.org/resource/KHTV-LP http://dbpedia.org/resource/KHTV-LD http://dbpedia.org/resource/KHTV-CD
+0,10,KGPT-CD,http://dbpedia.org/resource/.cd,http://dbpedia.org/resource/KGPT-CD http://dbpedia.org/resource/KTQW-CA http://dbpedia.org/resource/KGPT-LD http://dbpedia.org/resource/KGPT-CA http://dbpedia.org/resource/KTQW-LP

@@ -1,0 +1,7 @@
+F1: 0.75000,Precision: 0.75000,Recall: 0.75000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,6,T. Yi,http://dbpedia.org/resource/Lü_Yi_(badminton),http://dbpedia.org/resource/Tang_Yi http://dbpedia.org/resource/Yi_Tang
+1,8,S. Suzuki,http://dbpedia.org/resource/Seiichi_Suzuki,http://dbpedia.org/resource/Satomi_Suzuki
+1,12,S. Yang,http://dbpedia.org/resource/Yu_Yang_(badminton),http://dbpedia.org/resource/Sun_Yang_(sportsperson) http://dbpedia.org/resource/Sun_Yang http://dbpedia.org/resource/Sun_Yang_(swimmer) http://dbpedia.org/resource/Sunyang
+1,13,J. Magnussen,http://dbpedia.org/resource/Karen_Magnussen,http://dbpedia.org/resource/James_Magnussen
+1,17,L. Cseh,http://dbpedia.org/resource/László_Cseh_(footballer),http://dbpedia.org/resource/Cseh_Laszlo http://dbpedia.org/resource/Laszlo_Czeh http://dbpedia.org/resource/Czeh_László http://dbpedia.org/resource/Laszlo_Cseh http://dbpedia.org/resource/Cseh_laszlo http://dbpedia.org/resource/Cseh_lászló http://dbpedia.org/resource/László_Cseh http://dbpedia.org/resource/Cseh_László

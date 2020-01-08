@@ -1,0 +1,5 @@
+F1: 0.80000,Precision: 0.80000,Recall: 0.80000,,
+Col,Row,Value,Submitted URI,Correct URI's
+4,10,Voyle Gilmore,http://dbpedia.org/resource/Jim_Gilmore,http://dbpedia.org/resource/Voyle_Gilmore
+4,14,David Briggs,http://dbpedia.org/resource/David_Briggs_(English_musician),http://dbpedia.org/resource/David_Briggs--Producer http://dbpedia.org/resource/David_Briggs_(record_producer) http://dbpedia.org/resource/David_Briggs_(producer)
+4,15,Irving Townsend,http://dbpedia.org/resource/David_Townsend_(rower),http://dbpedia.org/resource/Irving_Townsend

@@ -1,0 +1,8 @@
+F1: 0.68421,Precision: 0.68421,Recall: 0.68421,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,2,WRLH-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WRLH-TV
+2,9,WLOV-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/Wlov.com http://dbpedia.org/resource/WLOV-TV
+2,10,WQAD-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WQAD-TV http://dbpedia.org/resource/WQAD_Storm_Track_8000_doppler_weather_channel
+2,13,KFXL-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/KFXL-TV http://dbpedia.org/resource/KCWL-TV http://dbpedia.org/resource/KOAZ-LP
+2,16,KTNC-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/KTNC-TV
+2,17,KFDA-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/KZBZ-CD http://dbpedia.org/resource/K33CF-D http://dbpedia.org/resource/K24DP http://dbpedia.org/resource/K42AL-D http://dbpedia.org/resource/K41CA http://dbpedia.org/resource/K50CQ-D http://dbpedia.org/resource/K26CD http://dbpedia.org/resource/K44CC http://dbpedia.org/resource/K51BC http://dbpedia.org/resource/K33CQ-D http://dbpedia.org/resource/K46BY http://dbpedia.org/resource/K39AN-D http://dbpedia.org/resource/K46BY-D http://dbpedia.org/resource/KFDA-TV http://dbpedia.org/resource/K35CE-D http://dbpedia.org/resource/K32GD-D http://dbpedia.org/resource/KFDA-DT http://dbpedia.org/resource/K32EH-D http://dbpedia.org/resource/K26JR-D http://dbpedia.org/resource/K38KZ-D http://dbpedia.org/resource/K43ED-D http://dbpedia.org/resource/K51CB-D http://dbpedia.org/resource/K26CD-D http://dbpedia.org/resource/K46BU-D http://dbpedia.org/resource/K41CA-D http://dbpedia.org/resource/K36MA-D http://dbpedia.org/resource/K29HB-D http://dbpedia.org/resource/K41HQ-D http://dbpedia.org/resource/K44CC-D

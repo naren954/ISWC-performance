@@ -1,0 +1,4 @@
+"F1: 0.60000","Precision: 0.60000","Recall: 0.60000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"2","1","Silver Bear for Best Actor","http://dbpedia.org/resource/Silver_Bear_for_Best_Actress","http://dbpedia.org/resource/Silver_Bear_for_Best_Actor"
+"2","2","National Board of Review Award for Best Actor","http://dbpedia.org/resource/National_Board_of_Review","http://dbpedia.org/resource/National_Board_of_Review_Award_for_Best_Lead_Actor http://dbpedia.org/resource/National_board_of_review_award_for_best_actor http://dbpedia.org/resource/National_Board_of_Review_Award_for_Best_Actor http://dbpedia.org/resource/National_Board_of_Review_Award_for_Lead_Actor"

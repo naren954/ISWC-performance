@@ -1,0 +1,6 @@
+"F1: 0.83333","Precision: 0.83333","Recall: 0.83333"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","5","V. Lopez","http://dbpedia.org/resource/Vicente_López_Portaña","http://dbpedia.org/resource/Vincent_Lopez"
+"0","9","S. Gaines","http://dbpedia.org/resource/Donna_Summer","http://dbpedia.org/resource/Stevie_Gaines http://dbpedia.org/resource/Steve_Gaines"
+"0","11","S. Wilson","http://dbpedia.org/resource/Dennis_Wilson","http://dbpedia.org/resource/Clyde_Carol_Wilson http://dbpedia.org/resource/Slim_Wilson"
+"0","22","L. Takamura","http://dbpedia.org/resource/Kōtarō_Takamura","http://dbpedia.org/resource/Runa_Takamura http://dbpedia.org/resource/Luna_Takamura"

@@ -1,0 +1,4 @@
+F1: 0.85714,Precision: 0.85714,Recall: 0.85714,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,3,A. Moore,http://dbpedia.org/resource/Henry_Moore,"http://dbpedia.org/resource/Sinister_ducks http://dbpedia.org/resource/Alan_Moore's_Songbook http://dbpedia.org/resource/Alan_Moore http://dbpedia.org/resource/Moore,_Alan http://dbpedia.org/resource/Translucia_Baboon http://dbpedia.org/resource/Mad_Love_(publisher) http://dbpedia.org/resource/Alan_Oswald_Moore http://dbpedia.org/resource/Curt_Vile http://dbpedia.org/resource/Sinister_Ducks http://dbpedia.org/resource/The_Original_Writer"
+2,14,T. Canty,http://dbpedia.org/resource/Kevin_Canty_(author),http://dbpedia.org/resource/Thomas_Canty http://dbpedia.org/resource/Thomas_Canty_(illustrator)

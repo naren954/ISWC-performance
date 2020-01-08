@@ -1,0 +1,15 @@
+F1: 0.79032,Precision: 0.79032,Recall: 0.79032,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,9,Siege of Nicaea,http://dbpedia.org/resource/Siege_of_Nicaea_(727),http://dbpedia.org/resource/Siege_of_Nicaea_(1328-1331) http://dbpedia.org/resource/Siege_of_Nicaea_(1331) http://dbpedia.org/resource/Siege_of_Nicaea_(1328-31) http://dbpedia.org/resource/Siege_of_Nicaea_(1328–31) http://dbpedia.org/resource/Siege_of_Nicaea_(1328–1331) http://dbpedia.org/resource/Siege_of_Nicaea_1331
+0,10,Siege of Nicaea,http://dbpedia.org/resource/Siege_of_Nicaea_(727),http://dbpedia.org/resource/Siege_of_Nicaea http://dbpedia.org/resource/Siege_of_Nicaea_(1097)
+0,12,Siege of Narva,http://ru.dbpedia.org/resource/Осада_Нарвы_(1581),http://dbpedia.org/resource/Siege_of_Narva_(1704) http://dbpedia.org/resource/Battle_of_Narva_(1704)
+0,15,Siege of Namur,http://dbpedia.org/resource/Siege_of_Namur_(1695),http://dbpedia.org/resource/Siege_of_Namur_(1914)
+0,17,Siege of Namur,http://dbpedia.org/resource/Siege_of_Namur_(1695),http://dbpedia.org/resource/1692_Siege_of_Namur http://dbpedia.org/resource/Siege_of_Namur_(1692)
+0,34,Siege of Metz,http://dbpedia.org/resource/Siege_of_Metz_(1552),http://dbpedia.org/resource/Siege_of_Metz_(1870)
+0,39,Siege of Medina,http://dbpedia.org/resource/Siege_of_Medina,http://dbpedia.org/resource/Siege_of_Medina_(1053–54) http://dbpedia.org/resource/Siege_of_Medina_(1053-54)
+0,49,Siege of Mantua,http://dbpedia.org/resource/Siege_of_Mantua_(1799),http://dbpedia.org/resource/Siege_of_Mantua_(1796-97) http://dbpedia.org/resource/Siege_of_Mantua_(1796-1797) http://dbpedia.org/resource/Siege_of_Mantua_(1796–1797) http://dbpedia.org/resource/Siege_of_Mantua_(1796–97)
+0,50,Siege of Mannheim,http://dbpedia.org/resource/Action_at_Mannheim_(1795),http://dbpedia.org/resource/Siege_of_Mannheim_(1795)
+0,51,Siege of Malta,http://dbpedia.org/resource/Great_Siege_of_Malta,http://dbpedia.org/resource/Air_Battle_of_Malta http://dbpedia.org/resource/Siege_of_Malta_(World_War_Ⅱ) http://dbpedia.org/resource/Malta_1940–42 http://dbpedia.org/resource/Siege_of_Malta_(1940) http://dbpedia.org/resource/Malta_1940-42 http://dbpedia.org/resource/Siege_of_Malta_(World_War_II) http://dbpedia.org/resource/Malta_in_World_War_II http://dbpedia.org/resource/Francisco_Cavalera
+0,53,Siege of Malbork,http://dbpedia.org/resource/Siege_of_Marienburg_(1410),http://dbpedia.org/resource/Siege_of_Marienburg_(1454) http://dbpedia.org/resource/Siege_of_Malbork_(1454) http://dbpedia.org/resource/Siege_of_Marienberg_(1454)
+0,55,Siege of Malacca,http://dbpedia.org/resource/Capture_of_Malacca_(1511),http://dbpedia.org/resource/Siege_of_Malacca_(1606)
+0,61,Siege of Maastricht,http://dbpedia.org/resource/Siege_of_Maastricht_(1673),http://dbpedia.org/resource/Siege_of_Maastricht_(1579) http://dbpedia.org/resource/Second_Spanish_Fury_at_Maastricht http://dbpedia.org/resource/Spanish_Fury_at_Maastricht_(1579)

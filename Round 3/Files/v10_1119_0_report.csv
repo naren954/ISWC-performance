@@ -1,0 +1,7 @@
+"F1: 0.76190","Precision: 0.76190","Recall: 0.76190"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","1","The Other Side","http://dbpedia.org/resource/The_Other_Side_(Jason_Derulo_song)","http://dbpedia.org/resource/The_Other_Side_(Aerosmith_song) http://dbpedia.org/resource/The_Other_Side_Maxi"
+"0","7","The One","http://dbpedia.org/resource/One_and_One_(song)","http://dbpedia.org/resource/The_One_(Backstreet_Boys_song)"
+"0","8","The One","http://dbpedia.org/resource/One_and_One_(song)","http://dbpedia.org/resource/The_One_(A-Lee_song)"
+"0","13","The Man with the Child in His Eyes","nan","http://dbpedia.org/resource/The_Man_with_the_Child_in_His_Eyes http://dbpedia.org/resource/The_Man_With_The_Child_In_His_Eyes"
+"0","15","The Man Who Never Lied","http://dbpedia.org/resource/Overexposed_(album)","http://dbpedia.org/resource/The_Man_Who_Never_Lied http://dbpedia.org/resource/TMWNL"

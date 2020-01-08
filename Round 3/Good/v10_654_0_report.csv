@@ -1,0 +1,17 @@
+F1: 0.90446,Precision: 0.90446,Recall: 0.90446,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,10,The Lighthouse,http://dbpedia.org/resource/The_Lighthouse_(Red_Flag_album),http://dbpedia.org/resource/The_Lighthouse_(James_novel)
+0,25,The Land,http://dbpedia.org/resource/This_Land_Is_Your_Land,http://dbpedia.org/resource/The_Land_(novel) http://dbpedia.org/resource/The_Land_(Mildred_D._Taylor)
+0,39,The Journey,http://dbpedia.org/resource/Journey_to_the_West,http://dbpedia.org/resource/The_Journey_(Animorphs) http://dbpedia.org/resource/The_Journey_(Applegate_novel)
+0,51,The Human Factor,http://dbpedia.org/resource/The_Human_Factor_(TV_series),http://dbpedia.org/resource/The_Human_Factor
+0,96,The Golden Age,http://dbpedia.org/resource/The_Golden_Age_(comics),http://dbpedia.org/resource/The_Golden_Age_(novel_by_Vidal) http://dbpedia.org/resource/The_Golden_Age_(novel_by_Gore_Vidal) http://dbpedia.org/resource/The_Golden_Age_(Gore_Vidal) http://dbpedia.org/resource/The_Golden_Age_(Gore_Vidal_novel) http://dbpedia.org/resource/The_Golden_Age_(2000_novel) http://dbpedia.org/resource/The_Golden_Age_(Vidal) http://dbpedia.org/resource/The_Golden_Age_(Vidal_novel)
+0,100,The Glory,,http://dbpedia.org/resource/The_Glory
+0,101,The Gladiator,http://dbpedia.org/resource/The_Gladiator_(Scarrow_novel),http://dbpedia.org/resource/The_Gladiator_(Turtledove_novel)
+0,108,The Game,http://dbpedia.org/resource/GamePro,http://dbpedia.org/resource/The_Game_(King) http://dbpedia.org/resource/The_Game_(King_novel) http://dbpedia.org/resource/The_Game_(Mary_Russell_novel)
+0,119,The Fires of Merlin,http://dbpedia.org/resource/Merlin_Book_3:_The_Raging_Fires,http://dbpedia.org/resource/The_Fires_of_Merlin
+0,129,The Familiar,http://dbpedia.org/resource/The_Familiars_(novel),http://dbpedia.org/resource/The_Familiar_(Animorphs) http://dbpedia.org/resource/The_Familiar_(novel)
+0,140,The Eternal Flame,,http://dbpedia.org/resource/The_Eternal_Flame
+0,141,The Escape,http://dbpedia.org/resource/The_Sweet_Escape,http://dbpedia.org/resource/The_Escape_(Applegate_novel) http://dbpedia.org/resource/The_Escape_(Animorphs)
+0,144,The Enemy,http://dbpedia.org/resource/The_Enemy_Within_(Star_Trek:_The_Original_Series),http://dbpedia.org/resource/The_Enemy_(Child_novel)
+0,145,The End,http://dbpedia.org/resource/In_the_End,http://dbpedia.org/resource/Book_the_Thirteenth http://dbpedia.org/resource/A_Series_of_Unfortunate_Events_XIII:_The_End http://dbpedia.org/resource/The_End_(novel) http://dbpedia.org/resource/The_End_(A_Series_of_Unfortunate_Events) http://dbpedia.org/resource/Coconut_cordial http://dbpedia.org/resource/Chapter_Fourteen_(A_Series_of_Unfortunate_Events) http://dbpedia.org/resource/Book_the_Fourteenth http://dbpedia.org/resource/Chapter_Fourteen http://dbpedia.org/resource/Book_the_Thirteenth_(A_Series_of_Unfortunate_Events)
+0,157,The Dragon Knight,http://dbpedia.org/resource/The_Dragon_Knight_(novel),http://dbpedia.org/resource/The_Dragon_Knight

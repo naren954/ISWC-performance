@@ -1,0 +1,6 @@
+"F1: 0.33333","Precision: 0.33333","Recall: 0.33333"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"2","2","T. Steers","http://dbpedia.org/resource/Burr_Steers","http://dbpedia.org/resource/Thomas_Steers"
+"2","3","M. Fletcher","http://dbpedia.org/resource/Ronald_Malcolm_Fletcher","http://dbpedia.org/resource/Matthew_Fletcher_(Wet_Earth_Colliery) http://dbpedia.org/resource/Matthew_Fletcher_(mine_owner_and_engineer)"
+"2","4","B. Wright","http://dbpedia.org/resource/Billy_Wright_(footballer,_born_1924)","http://dbpedia.org/resource/Benjamin_Wright http://dbpedia.org/resource/Benjamin_Hall_Wright"
+"2","6","B. Wright","http://dbpedia.org/resource/Billy_Wright_(footballer,_born_1924)","http://dbpedia.org/resource/Benjamin_Wright http://dbpedia.org/resource/Benjamin_Hall_Wright"

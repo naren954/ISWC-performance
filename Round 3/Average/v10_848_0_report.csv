@@ -1,0 +1,7 @@
+F1: 0.66667,Precision: 0.66667,Recall: 0.66667,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,W. White,http://dbpedia.org/resource/William_White_(field_hockey),http://dbpedia.org/resource/Wilfred_White_(equestrian) http://dbpedia.org/resource/Wilf_White http://dbpedia.org/resource/Wilfred_White_(Equestrian)
+0,3,V. Misevich,"http://ru.dbpedia.org/resource/Мисевич,_Владислав_Людвигович",http://dbpedia.org/resource/Vera_Misevich
+0,8,J. Montgomery,http://dbpedia.org/resource/Jim_Montgomery_(swimmer),http://dbpedia.org/resource/John_Montgomery_(equestrian)
+0,11,C. Anderson,http://dbpedia.org/resource/Cliff_Anderson_(American_football),http://dbpedia.org/resource/Charles_Anderson_(equestrian) http://dbpedia.org/resource/Charles_Anderson_(Equestrian)
+0,14,A. Franconi,http://fr.dbpedia.org/resource/Gabriel-Tristan_Franconi,http://dbpedia.org/resource/Antonio_Franconi

@@ -1,0 +1,4 @@
+"F1: 0.50000","Precision: 0.50000","Recall: 0.50000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","1","Wabash Avenue","http://dbpedia.org/resource/Wabash_Avenue_Bridge","http://dbpedia.org/resource/Hilton_Parkway http://dbpedia.org/resource/Dorithan_Road http://dbpedia.org/resource/Hilton_Street_(Baltimore) http://dbpedia.org/resource/Wabash_Avenue_(Baltimore) http://dbpedia.org/resource/Wabash_Avenue_(Baltimore,_Maryland)"
+"0","7","Wilkens Avenue","http://dbpedia.org/resource/U.S._Route_1_in_Maryland","http://dbpedia.org/resource/MD_372 http://dbpedia.org/resource/Maryland_State_Highway_372 http://dbpedia.org/resource/Maryland_State_Route_372 http://dbpedia.org/resource/Maryland_Route_372 http://dbpedia.org/resource/Route_372_(Maryland) http://dbpedia.org/resource/Maryland_372 http://dbpedia.org/resource/Wilkens_Avenue"

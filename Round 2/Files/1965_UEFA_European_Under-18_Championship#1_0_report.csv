@@ -1,0 +1,5 @@
+"F1: 0.00000","Precision: 0.00000","Recall: 0.00000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","1","Republic of Ireland","http://dbpedia.org/resource/Germany","http://dbpedia.org/resource/Republic_of_Ireland_under-19_national_football_team http://dbpedia.org/resource/Republic_of_Ireland_national_under-20_football_team http://dbpedia.org/resource/Republic_of_Ireland_national_under-19_football_team http://dbpedia.org/resource/Republic_of_Ireland_national_under-18_football_team"
+"0","2","Poland","http://dbpedia.org/resource/Poland","http://dbpedia.org/resource/Poland_national_under-18_football_team http://dbpedia.org/resource/Poland_national_U-18_football_team http://dbpedia.org/resource/Poland_men's_national_under-18_soccer_team http://dbpedia.org/resource/Poland_national_football_under-18_team http://dbpedia.org/resource/Poland_U-18_National_Football_Team"
+"0","3","Switzerland","http://dbpedia.org/resource/Switzerland","http://dbpedia.org/resource/Switzerland_national_under-18_football_team"

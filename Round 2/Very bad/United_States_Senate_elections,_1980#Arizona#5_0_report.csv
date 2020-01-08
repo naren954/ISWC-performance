@@ -1,0 +1,35 @@
+F1: 0.02941,Precision: 0.02941,Recall: 0.02941,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Alabama,http://dbpedia.org/resource/Alabama,"http://dbpedia.org/resource/United_States_Senate_election_in_Alabama,_1980"
+0,2,Alaska,http://dbpedia.org/resource/Alaska,"http://dbpedia.org/resource/Alaska_United_States_Senate_election,_1980 http://dbpedia.org/resource/United_States_Senate_election_in_Alaska,_1980"
+0,4,Arkansas,http://dbpedia.org/resource/Arkansas,"http://dbpedia.org/resource/United_States_Senate_election_in_Arkansas,_1980"
+0,5,California,http://dbpedia.org/resource/California,"http://dbpedia.org/resource/United_States_Senate_election_in_California,_1980"
+0,6,Colorado,http://dbpedia.org/resource/Colorado,"http://dbpedia.org/resource/United_States_Senate_election_in_Colorado,_1980"
+0,7,Connecticut,http://dbpedia.org/resource/Connecticut,"http://dbpedia.org/resource/United_States_Senate_election_in_Connecticut,_1980"
+0,8,Florida,http://dbpedia.org/resource/Florida,"http://dbpedia.org/resource/United_States_Senate_election_in_Florida,_1980"
+0,9,Georgia,http://dbpedia.org/resource/Georgia_(country),"http://dbpedia.org/resource/United_States_Senate_election_in_Georgia,_1980"
+0,10,Hawaii,http://dbpedia.org/resource/Hawaii,http://dbpedia.org/resource/List_of_United_States_Senators_from_Hawaii http://dbpedia.org/resource/List_of_Untied_States_Senators_from_Hawaii http://dbpedia.org/resource/List_of_United_States_Senators_from_Hawai`i http://dbpedia.org/resource/List_of_United_States_Senators_from_Hawaiʻi http://dbpedia.org/resource/United_States_Senator_from_Hawaii
+0,11,Idaho,http://dbpedia.org/resource/Idaho,"http://dbpedia.org/resource/United_States_Senate_election_in_Idaho,_1980"
+0,12,Illinois,http://dbpedia.org/resource/Illinois,"http://dbpedia.org/resource/United_States_Senate_election_in_Illinois,_1980"
+0,13,Indiana,http://dbpedia.org/resource/Indiana,"http://dbpedia.org/resource/United_States_Senate_election_in_Indiana,_1980"
+0,14,Iowa,http://dbpedia.org/resource/Iowa,"http://dbpedia.org/resource/United_States_Senate_election_in_Iowa,_1980"
+0,15,Kansas,http://dbpedia.org/resource/Kansas,http://dbpedia.org/resource/List_of_United_States_Senators_from_Kansas
+0,16,Kentucky,http://dbpedia.org/resource/Kentucky,http://dbpedia.org/resource/List_of_United_States_Senators_from_Kentucky http://dbpedia.org/resource/List_of_U.S._senators_from_Kentucky
+0,17,Louisiana,http://dbpedia.org/resource/Louisiana,http://dbpedia.org/resource/List_of_U.S._Senators_from_Louisiana http://dbpedia.org/resource/List_of_United_States_Senators_from_Louisiana
+0,18,Maryland,http://dbpedia.org/resource/Maryland,http://dbpedia.org/resource/List_of_United_States_Senators_from_Maryland http://dbpedia.org/resource/List_of_U.S._Senators_from_Maryland
+0,19,Missouri,http://dbpedia.org/resource/Missouri,http://dbpedia.org/resource/List_of_U.S._senators_from_Missouri http://dbpedia.org/resource/List_of_United_States_Senators_from_Missouri
+0,20,Nevada,http://dbpedia.org/resource/Nevada,"http://dbpedia.org/resource/United_States_Senate_election_in_Nevada,_1980"
+0,21,New Hampshire,http://dbpedia.org/resource/New_Hampshire,"http://dbpedia.org/resource/United_States_Senate_election_in_New_Hampshire,_1980"
+0,22,New York,"http://dbpedia.org/resource/New_York,_New_York_(1977_film)","http://dbpedia.org/resource/United_States_Senate_election_in_New_York,_1980"
+0,23,North Carolina,http://dbpedia.org/resource/North_Carolina,"http://dbpedia.org/resource/United_States_Senate_election_in_North_Carolina,_1980"
+0,24,North Dakota,http://dbpedia.org/resource/North_Dakota,"http://dbpedia.org/resource/United_States_Senate_election_in_North_Dakota,_1980 http://dbpedia.org/resource/North_Dakota_United_States_Senate_election,_1980 http://dbpedia.org/resource/North_Dakota_U.S._Senate_election,_1980"
+0,25,Ohio,http://dbpedia.org/resource/Ohio,"http://dbpedia.org/resource/United_States_Senate_election_in_Ohio,_1980 http://dbpedia.org/resource/Untied_States_Senate_election_in_Ohio,_1980"
+0,26,Oklahoma,http://dbpedia.org/resource/Oklahoma,"http://dbpedia.org/resource/United_States_Senate_election_in_Oklahoma,_1980"
+0,27,Oregon,http://dbpedia.org/resource/Oregon,"http://dbpedia.org/resource/United_States_Senate_election_in_Oregon,_1980"
+0,28,Pennsylvania,http://dbpedia.org/resource/Pennsylvania,"http://dbpedia.org/resource/United_States_Senate_election_in_Pennsylvania,_1980"
+0,29,South Carolina,http://dbpedia.org/resource/South_Carolina,"http://dbpedia.org/resource/United_States_Senate_election_in_South_Carolina,_1980"
+0,30,South Dakota,http://dbpedia.org/resource/South_Dakota,"http://dbpedia.org/resource/United_States_Senate_election_in_South_Dakota,_1980"
+0,31,Utah,http://dbpedia.org/resource/Utah,http://dbpedia.org/resource/List_of_United_States_Senators_from_Utah
+0,32,Vermont,http://dbpedia.org/resource/Vermont,http://dbpedia.org/resource/List_of_United_States_Senators_from_Vermont
+0,33,Washington,http://dbpedia.org/resource/George_Washington,"http://dbpedia.org/resource/United_States_Senate_election_in_Washington,_1980"
+0,34,Wisconsin,http://dbpedia.org/resource/Wisconsin,"http://dbpedia.org/resource/United_States_Senate_election_in_Wisconsin,_1980"

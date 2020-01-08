@@ -1,0 +1,5 @@
+"F1: 0.91176","Precision: 0.91176","Recall: 0.91176"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","1","North Carolina wine","http://dbpedia.org/resource/North_Carolina","http://dbpedia.org/resource/North_Carolina_(wine) http://dbpedia.org/resource/North_Carolina_wine http://dbpedia.org/resource/North_carolina_wine"
+"1","9","San Francisco Bay AVA","http://dbpedia.org/resource/San_Francisco_Bay_Area","http://dbpedia.org/resource/San_Francisco_Bay_AVA"
+"1","15","Long Island AVA","http://dbpedia.org/resource/Long_Island,_Bahamas","http://dbpedia.org/resource/Long_Island_wine http://dbpedia.org/resource/Long_Island_AVA http://dbpedia.org/resource/Long_Island_(wine) http://dbpedia.org/resource/Long_Island_(AVA)"

@@ -1,0 +1,6 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,63,Stephen Quake's Group[247],http://dbpedia.org/resource/Stephen_Foster,http://dbpedia.org/resource/Verinata http://dbpedia.org/resource/Stephen_Quake http://dbpedia.org/resource/Stephen_R._Quake
+2,117,Albert Folch Group[301],http://es.dbpedia.org/resource/Albert_Folch,http://dbpedia.org/resource/Albert_Folch_Folch
+2,121,John Wikswo Group[305],http://dbpedia.org/resource/John_Renbourn,http://dbpedia.org/resource/John_wikswo http://dbpedia.org/resource/John_Wikswo
+2,128,Martin Yarmush Group[312],http://de.dbpedia.org/resource/Martin_Bauer_Group,http://dbpedia.org/resource/Martin_Yarmush

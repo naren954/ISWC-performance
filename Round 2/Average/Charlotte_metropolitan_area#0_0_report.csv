@@ -1,0 +1,6 @@
+F1: 0.66667,Precision: 0.66667,Recall: 0.66667,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,York County,"http://dbpedia.org/resource/Suffolk_County,_New_York","http://dbpedia.org/resource/York_County,_SC http://dbpedia.org/resource/York_County,_South_Carolina"
+0,9,Lancaster County,"http://dbpedia.org/resource/Lancaster_County,_Virginia","http://dbpedia.org/resource/Lancaster,_SC_μSA http://dbpedia.org/resource/Lancaster_County,_SC http://dbpedia.org/resource/Lancaster_County,_South_Carolina http://dbpedia.org/resource/Lancaster,_SC_mSA http://dbpedia.org/resource/Lancaster,_SC_µSA"
+0,10,Lincoln County,"http://dbpedia.org/resource/Lincoln_County,_Wisconsin","http://dbpedia.org/resource/Lincolnton,_NC_mSA http://dbpedia.org/resource/Lincoln_County,_NC http://dbpedia.org/resource/Lincoln_County,_North_Carolina http://dbpedia.org/resource/Lincolnton,_NC_μSA http://dbpedia.org/resource/Lincolnton,_NC_µSA"
+0,12,Chester County,"http://dbpedia.org/resource/Chester_County,_Tennessee","http://dbpedia.org/resource/Chester,_SC_µSA http://dbpedia.org/resource/Chester_County,_South_Carolina http://dbpedia.org/resource/Chester,_SC_μSA http://dbpedia.org/resource/Chester_County,_SC http://dbpedia.org/resource/Chester,_SC_mSA"

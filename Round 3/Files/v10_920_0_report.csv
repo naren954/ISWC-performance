@@ -1,0 +1,5 @@
+"F1: 0.91429","Precision: 0.91429","Recall: 0.91429"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","9","S. Day","http://dbpedia.org/resource/Stephen_Day_(British_politician)","http://dbpedia.org/resource/Stockwell_Day http://dbpedia.org/resource/Stockwell_Burt_Day,_Jr. http://dbpedia.org/resource/Stockwell_Burt_Day"
+"0","23","M. Solberg","http://dbpedia.org/resource/Erna_Solberg","http://dbpedia.org/resource/Monte_Solberg"
+"0","33","H. Khan","http://dbpedia.org/resource/Afzal_Khan_(British_politician)","http://dbpedia.org/resource/Hassan_Khan"

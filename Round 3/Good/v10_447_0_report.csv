@@ -1,0 +1,7 @@
+F1: 0.79167,Precision: 0.79167,Recall: 0.79167,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,5,D. Anderson,http://dbpedia.org/resource/Derek_Anderson_(American_football),http://dbpedia.org/resource/Dunstan_Anderson
+0,11,D. Smith,http://dbpedia.org/resource/Donovan_Smith,http://dbpedia.org/resource/Daryle_Smith
+0,13,D. Cook,http://dbpedia.org/resource/Dalvin_Cook,http://dbpedia.org/resource/Damion_Cook
+0,16,C. Smith,http://dbpedia.org/resource/Craig_Smith_(ice_hockey),http://dbpedia.org/resource/Corey_Smith_(American_football_player) http://dbpedia.org/resource/Corey_Smith_(American_football)
+0,17,C. Ridgway,http://dbpedia.org/resource/Dave_Ridgway,http://dbpedia.org/resource/Colin_Ridgeway http://dbpedia.org/resource/Colin_Ridgway

@@ -1,0 +1,17 @@
+F1: 0.40000,Precision: 0.40000,Recall: 0.40000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,V. Sánchez,http://dbpedia.org/resource/Víctor_Sánchez,http://dbpedia.org/resource/Víctor_Sánchez_(baseball) http://dbpedia.org/resource/Victor_Sanchez_(baseball)
+0,2,V. Walker,http://dbpedia.org/resource/George_H._W._Bush,http://dbpedia.org/resource/Verlon_Walker
+0,3,V. Sánchez,http://dbpedia.org/resource/Víctor_Sánchez,http://dbpedia.org/resource/Víctor_Sánchez_(baseball) http://dbpedia.org/resource/Victor_Sanchez_(baseball)
+0,5,S. Robinson,http://dbpedia.org/resource/Jackie_Robinson,http://dbpedia.org/resource/Sheriff_Robinson
+0,6,R. Perry,"http://dbpedia.org/resource/Ron_Perry_(basketball,_born_1943)",http://dbpedia.org/resource/Ray_Perry_(baseball)
+0,7,M. McDonnell,http://dbpedia.org/resource/Martin_McDonnell,http://dbpedia.org/resource/Maje_McDonnell
+0,9,J. Fitzpatrick,http://dbpedia.org/resource/James_Fitzpatrick_(rugby_union),http://dbpedia.org/resource/John_Fitzpatrick_(baseball)
+0,10,"J. "". Miles",http://dbpedia.org/resource/C._J._Miles,"http://dbpedia.org/resource/John_""Mule""_Miles_(baseball_player) http://dbpedia.org/resource/Mule_Miles http://dbpedia.org/resource/John_""Mule""_Miles"
+0,11,J. Fitzgerald,http://dbpedia.org/resource/John_Fitzgerald_(Boston_Reds_pitcher),http://dbpedia.org/resource/Joe_Fitzgerald_(baseball)
+0,12,J. Williams,http://dbpedia.org/resource/Jamie_Williams_(American_football),http://dbpedia.org/resource/James_B._Williams http://dbpedia.org/resource/Jimmy_Williams_(coach)
+0,14,H. Gilroy,http://dbpedia.org/resource/Matt_Gilroy,http://dbpedia.org/resource/Gilroy_(baseball) http://dbpedia.org/resource/Henry_Gilroy_(baseball)
+0,15,H. Parker,http://dbpedia.org/resource/Harold_Parker_(footballer),http://dbpedia.org/resource/Harry_William_Parker http://dbpedia.org/resource/Harry_Parker_(baseball_player) http://dbpedia.org/resource/Harry_Parker_(baseball)
+0,21,C. Dixon,"http://dbpedia.org/resource/Charlie_Dixon_(English_footballer,_born_1903)",http://dbpedia.org/resource/Cletus_Dixon
+0,24,B. Cole,http://dbpedia.org/resource/Bert_Cole,http://dbpedia.org/resource/Brian_Cole_(baseball)
+0,25,A. Vincent,http://dbpedia.org/resource/Ashley_Vincent,http://dbpedia.org/resource/Al_Vincent

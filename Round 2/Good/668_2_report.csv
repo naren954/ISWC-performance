@@ -1,0 +1,10 @@
+F1: 0.81818,Precision: 0.81818,Recall: 0.81818,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,10,Washington Wizards,http://dbpedia.org/resource/Wizards_of_the_Coast,http://dbpedia.org/resource/Baltimore_Bullets_(1963–73) http://dbpedia.org/resource/Baltimore_Bullets_(1963–1973) http://dbpedia.org/resource/Washington_Wizards http://dbpedia.org/resource/Washington_Bullets http://dbpedia.org/resource/Chicago_Zephyrs http://dbpedia.org/resource/Chicago_Packers http://dbpedia.org/resource/Baltimore_Bullets_(1963-1973) http://dbpedia.org/resource/Baltimore_Bullets_(1963-1965) http://dbpedia.org/resource/Baltimore_Bullets_(1963-73) http://dbpedia.org/resource/Baltimore_Bullets_(1963–1965) http://dbpedia.org/resource/Washingotn_Wiziards http://dbpedia.org/resource/Washington_Wiz
+2,13,New Orleans Hornets,http://dbpedia.org/resource/New_Orleans,"http://dbpedia.org/resource/New_Orleans_Pelicans http://dbpedia.org/resource/Hornets,_New_Orleans http://dbpedia.org/resource/New_Orleans_Hornets http://dbpedia.org/resource/NO/Oklahoma_City_Hornets http://dbpedia.org/resource/Oklahoma_City_Hornets"
+2,14,Vancouver Grizzlies,http://dbpedia.org/resource/Vancouver,http://dbpedia.org/resource/Vancouver_Grizzlies
+2,18,Detroit Shock,http://dbpedia.org/resource/Detroit,http://dbpedia.org/resource/Detroit_Shock_final_roster http://dbpedia.org/resource/Detroit_Shock
+2,20,Tulsa Shock,"http://dbpedia.org/resource/Tulsa,_Oklahoma",http://dbpedia.org/resource/WNBA_Tulsa http://dbpedia.org/resource/Tulsa_Shock
+2,24,Houston Rockets,http://dbpedia.org/resource/Houston,http://dbpedia.org/resource/San_Diego_Rockets http://dbpedia.org/resource/Twin_Towers_(Houston_Rockets) http://dbpedia.org/resource/Houston_Rockets
+2,27,Chicago Sky,http://dbpedia.org/resource/Willis_Tower,http://dbpedia.org/resource/Chicago_Sky
+2,34,New Orleans Pelicans,http://dbpedia.org/resource/New_Orleans,"http://dbpedia.org/resource/New_Orleans_Pelicans http://dbpedia.org/resource/Hornets,_New_Orleans http://dbpedia.org/resource/New_Orleans_Hornets http://dbpedia.org/resource/NO/Oklahoma_City_Hornets http://dbpedia.org/resource/Oklahoma_City_Hornets"

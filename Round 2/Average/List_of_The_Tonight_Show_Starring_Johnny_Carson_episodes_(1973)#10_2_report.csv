@@ -1,0 +1,10 @@
+F1: 0.63636,Precision: 0.63636,Recall: 0.63636,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,6,Robert Blake,http://dbpedia.org/resource/Robert_Blake_(admiral),"http://dbpedia.org/resource/Robert_Blake,_Actor http://dbpedia.org/resource/Mickey_Gubitosi http://dbpedia.org/resource/Murder_of_Bonnie_Lee_Bakley http://dbpedia.org/resource/Robert_Blake_(actor) http://dbpedia.org/resource/Michael_Gubitosi"
+2,8,"Orson Bean, Wayne Newton",http://dbpedia.org/resource/Wayne_Newton,http://dbpedia.org/resource/Orson_Bean http://dbpedia.org/resource/Dallas_Burroughs http://dbpedia.org/resource/Dallas_Frederick_Burrows http://dbpedia.org/resource/Dallas_Frederick_Burroughs http://dbpedia.org/resource/Dallas_Burrows
+2,14,"Karen Valentine (guest host), Bob Hope, John Davidson, Jo Ann Worley",http://dbpedia.org/resource/List_of_shipwrecks_in_June_1917,http://dbpedia.org/resource/Karen_valentine http://dbpedia.org/resource/Karen_Valentine
+2,21,"Dinah Shore, Joan Rivers, Ashley Montagu",http://dbpedia.org/resource/Joan_Rivers,http://dbpedia.org/resource/Frances_Rose_Shore http://dbpedia.org/resource/For_Sentimental_Reasons_(Dinah_Shore/ASV_album) http://dbpedia.org/resource/Frances_Shore http://dbpedia.org/resource/For_Sentimental_Reasons_(Dinah_Shore/Proper_Records_album) http://dbpedia.org/resource/For_Sentimental_Reasons_(Dinah_Shore_album) http://dbpedia.org/resource/Dina_Shore http://dbpedia.org/resource/Dinah_Shore
+2,26,"Robert Goulet, Rodney Dangerfield, Gore Vidal",http://dbpedia.org/resource/Gore_Vidal,http://dbpedia.org/resource/Bob_Goulet http://dbpedia.org/resource/Robert_Goulet
+2,28,"Joan Embery, Buddy Hackett, Steve Martin",http://dbpedia.org/resource/Buddy_Hackett,http://dbpedia.org/resource/Joan_Embery
+2,33,"Carl Reiner, Truman Capote, Jerry Van Dyke",http://dbpedia.org/resource/The_Dick_Van_Dyke_Show,"http://dbpedia.org/resource/Reiner,_Carl http://dbpedia.org/resource/Carl_Reiner"
+2,39,"Rich Little, Carl Sagan",http://dbpedia.org/resource/Carl_Sagan,http://dbpedia.org/resource/Rich_Little

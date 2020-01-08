@@ -1,0 +1,26 @@
+F1: 0.66667,Precision: 0.66667,Recall: 0.66667,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,2,If,http://dbpedia.org/resource/(if),http://dbpedia.org/resource/If_(Janet_Jackson_song)
+2,3,Shake,http://dbpedia.org/resource/Shake_(Jesse_McCartney_song),http://dbpedia.org/resource/Shake_(Sam_Cooke_song)
+2,7,No Promises,http://dbpedia.org/resource/No_Promises_(Icehouse_song),http://dbpedia.org/resource/No_Promises_(Bryan_Rice_song) http://dbpedia.org/resource/No_Promises_(Bryan_Rice)
+2,8,So Close,http://dbpedia.org/resource/So_Close_(Hall_&_Oates_song),http://dbpedia.org/resource/So_Close_(Jon_McLaughlin_song)
+2,10,"Oh, Boy!",http://dbpedia.org/resource/Oh_Boy_(The_Mood_I'm_In),"http://dbpedia.org/resource/Oh,_Boy!_(The_Crickets_song) http://dbpedia.org/resource/Oh_Boy_(Mud_song) http://dbpedia.org/resource/Oh,_Boy!_(song) http://dbpedia.org/resource/Oh,_Boy!_(Buddy_Holly_song)"
+2,11,She Loves You,http://dbpedia.org/resource/She_Loves_You_(The_Twilight_Singers_album),http://dbpedia.org/resource/She_Loves_You http://dbpedia.org/resource/She_Loves_You_(The_Beatles_song) http://dbpedia.org/resource/She_loves_you
+2,15,Faithful,http://dbpedia.org/resource/Faithful_(Go_West_song),http://dbpedia.org/resource/Faithful_(Common_song)
+2,20,Ek Lo Ek Muft,http://dbpedia.org/resource/Holden_EK,http://dbpedia.org/resource/Guru_(soundtrack) http://dbpedia.org/resource/Paisa_Paisa_(2007_song) http://dbpedia.org/resource/Barso_Re_(Guru) http://dbpedia.org/resource/Baazi_Laga_(Guru) http://dbpedia.org/resource/Jaage_Hain_(Guru) http://dbpedia.org/resource/Ay_Hairathe_(Guru) http://dbpedia.org/resource/Ek_Lo_Ek_Muft_(Guru) http://dbpedia.org/resource/Dhoom_Dhamaka_(Guru)
+2,25,Babylon,http://dbpedia.org/resource/Rivers_of_Babylon,http://dbpedia.org/resource/Babylon_(The_Tea_Party_song)
+2,28,L-O-V-E,http://dbpedia.org/resource/L.O.V.E._(Ashlee_Simpson_song),http://dbpedia.org/resource/L-O-V-E http://dbpedia.org/resource/L_o_v_e http://dbpedia.org/resource/L_O_V_E
+2,30,Snow,http://dbpedia.org/resource/Run_(Snow_Patrol_song),http://dbpedia.org/resource/Snow_((Hey_Oh)) http://dbpedia.org/resource/Snow((Hey_Oh)) http://dbpedia.org/resource/Snow_(Hey_Oh) http://dbpedia.org/resource/Snow_(Hey_Oh http://dbpedia.org/resource/Permutation_(song) http://dbpedia.org/resource/Snow_Hey_Oh
+2,37,Beautiful Son,http://dbpedia.org/resource/Beautiful_Day,http://dbpedia.org/resource/Beautiful_Son
+2,46,Cachito,http://dbpedia.org/resource/Cachito_(Maná_song),http://dbpedia.org/resource/Cachito
+2,48,She Wolf,http://dbpedia.org/resource/She_Wolf_(Falling_to_Pieces),http://dbpedia.org/resource/She_Wolf_(Shakira_song) http://dbpedia.org/resource/Loba_(Shakira_song)
+2,51,Our Love Was,http://fr.dbpedia.org/resource/Our_Love_Was,http://dbpedia.org/resource/Silas_Stingy http://dbpedia.org/resource/Our_Love_Was http://dbpedia.org/resource/I_Can't_Reach_You http://dbpedia.org/resource/Armenia_city_in_the_sky http://dbpedia.org/resource/The_Who_Sell-Out http://dbpedia.org/resource/Armenia_City_In_The_Sky http://dbpedia.org/resource/Sell_Out_(The_Who_album) http://dbpedia.org/resource/The_Who_Sell_Out http://dbpedia.org/resource/Sell_Out_(album) http://dbpedia.org/resource/The_Who_Sell-out http://dbpedia.org/resource/Armenia_City_in_the_Sky http://dbpedia.org/resource/Rael_(The_Who_song)
+2,58,Music from Van-Pires,http://dbpedia.org/resource/Songs_from_the_Black_Mountain_Music_Project,http://dbpedia.org/resource/Music_From_Van_Pires http://dbpedia.org/resource/Rebel_Without_a_Car http://dbpedia.org/resource/Don't_Be_a_Sucker http://dbpedia.org/resource/Darker_Side_of_Night http://dbpedia.org/resource/Music_From_Van-Pires http://dbpedia.org/resource/Music_from_Van-Pires http://dbpedia.org/resource/When_the_Sun_Comes_Up http://dbpedia.org/resource/Music_from_Van_Pires http://dbpedia.org/resource/Endless_Vacation http://dbpedia.org/resource/Alan_St._Jon http://dbpedia.org/resource/When_You_See_the_Light http://dbpedia.org/resource/I'll_Try_Again_Today
+2,60,Silver Moon,http://dbpedia.org/resource/Silver_Moon_(song),http://dbpedia.org/resource/Silver_Moon_(David_Sylvian_song)
+2,61,Eyes on Me,http://dbpedia.org/resource/Eyes_on_Me_(Faye_Wong_song),http://dbpedia.org/resource/Eyes_on_Me_(Celine_Dion_song) http://dbpedia.org/resource/Eyes_On_Me_(Celine_Dion_song)
+2,62,Somewhere Down the Road,http://dbpedia.org/resource/Somewhere_Down_the_Road_(Barry_Manilow_song),http://dbpedia.org/resource/Somewhere_Down_the_Road_(Amy_Grant_song) http://dbpedia.org/resource/Like_I_Love_You_(Amy_Grant_song) http://dbpedia.org/resource/Behind_the_Eyes_(Amy_Grant_album) http://dbpedia.org/resource/Somewhere_Down_The_Road_(Amy_Grant_song)
+2,64,Dreamer,http://dbpedia.org/resource/Dreamer_(Ozzy_Osbourne_song),http://dbpedia.org/resource/Dreamer_(Supertramp_song)
+2,68,Forever,"http://dbpedia.org/resource/Forever_(Drake,_Kanye_West,_Lil_Wayne,_and_Eminem_song)",http://dbpedia.org/resource/Forever_(Chris_Brown_song)
+2,69,Suddenly,http://dbpedia.org/resource/Suddenly_(Ashley_Tisdale_song),http://dbpedia.org/resource/Suddenly_(Toni_Braxton_song)
+2,71,The Power of Love,http://dbpedia.org/resource/The_Power_of_Love_(Huey_Lewis_and_the_News_song),http://dbpedia.org/resource/The_Power_of_Love_(Charley_Pride_song)
+2,72,The Box,http://dbpedia.org/resource/The_Box_(Chicago_album),http://dbpedia.org/resource/The_Box_(King_Missile_song)

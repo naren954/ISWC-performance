@@ -1,0 +1,7 @@
+"F1: 0.28571","Precision: 0.28571","Recall: 0.28571"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","2","Great Eastern Railway","http://dbpedia.org/resource/Great_Eastern_Main_Line","http://dbpedia.org/resource/Great_Eastern_Railway"
+"1","3","Great Northern Railway","http://dbpedia.org/resource/Main_North_railway_line,_New_South_Wales","http://dbpedia.org/resource/Leeds,_Bradford_and_Halifax_Junction_Railway http://dbpedia.org/resource/Great_Northern_Railway_(Great_Britain) http://dbpedia.org/resource/Great_Northern_Railway_(UK) http://dbpedia.org/resource/Halifax_and_Ovenden_Joint_Railway http://dbpedia.org/resource/Halifax_and_Ovenden_Railway http://dbpedia.org/resource/GNR_(UK) http://dbpedia.org/resource/Halifax_&_Ovenden_Railway http://dbpedia.org/resource/London_and_York_Railway http://dbpedia.org/resource/Halifax_and_Ovenden_Junction_Railway"
+"1","5","South Eastern Railway","http://dbpedia.org/resource/Eastern_Goldfields_Railway","http://dbpedia.org/resource/Reading,_Guildford_and_Reigate_Railway http://dbpedia.org/resource/South_Eastern_Railway_(UK) http://dbpedia.org/resource/South_Eastern_Railway,_UK"
+"1","6","Great Central Railway","http://dbpedia.org/resource/Great_Central_Main_Line","http://dbpedia.org/resource/Coat_of_arms_of_the_Great_Central_Railway http://dbpedia.org/resource/Great_Central_Railway http://dbpedia.org/resource/Great_central"
+"1","7","Grand Junction Railway","http://dbpedia.org/resource/Grand_Junction_Railroad_and_Depot_Company","http://dbpedia.org/resource/Grand_Junction_Railway"

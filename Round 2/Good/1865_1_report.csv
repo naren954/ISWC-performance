@@ -1,0 +1,6 @@
+F1: 0.86207,Precision: 0.86207,Recall: 0.86207,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,3,Diurnity's Dawn,http://dbpedia.org/resource/Dawn_(newspaper),http://dbpedia.org/resource/Diurnity's_Dawn http://dbpedia.org/resource/Diuturnity's_Dawn
+1,5,Haunted,http://dbpedia.org/resource/Haunted_(Angel_novel),http://dbpedia.org/resource/Haunted_(palahniuk) http://dbpedia.org/resource/Tess_Clark http://dbpedia.org/resource/Haunted_(short_stories_anthology) http://dbpedia.org/resource/Haunted_(Palahniuk_novel) http://dbpedia.org/resource/Foot_Work_(Short_story) http://dbpedia.org/resource/Foot_Work
+1,18,Extinction,http://dbpedia.org/resource/Countdown_to_Extinction,http://dbpedia.org/resource/Extinction_(Smedman_novel) http://dbpedia.org/resource/Extinction_(Forgotten_Realms_novel)
+1,24,Phantom,http://dbpedia.org/resource/The_Phantom_of_the_Opera,http://dbpedia.org/resource/Phantom_(Sword_of_Truth)

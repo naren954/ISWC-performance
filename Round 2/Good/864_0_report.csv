@@ -1,0 +1,14 @@
+F1: 0.76923,Precision: 0.76923,Recall: 0.76923,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,C. Pérez,"http://dbpedia.org/resource/Catalina_Pérez_(footballer,_born_1994)",http://dbpedia.org/resource/Carlos_Pérez_(handballer) http://dbpedia.org/resource/Carlos_Perez_(handballer)
+0,16,B. Yılmaz,http://dbpedia.org/resource/Burak_Yılmaz,http://dbpedia.org/resource/Betül_Yılmaz http://dbpedia.org/resource/Betül_Yilmaz http://dbpedia.org/resource/Betul_Yilmaz
+0,17,B. Pásztor,http://dbpedia.org/resource/István_Pásztor_(handballer),http://dbpedia.org/resource/Bettina_Pasztor http://dbpedia.org/resource/Bettina_Pásztor
+0,18,B. Dajka,http://dbpedia.org/resource/László_Dajka,http://dbpedia.org/resource/Bettina_Dajka
+0,19,B. Yılmaz,http://dbpedia.org/resource/Burak_Yılmaz,http://dbpedia.org/resource/Betül_Yılmaz http://dbpedia.org/resource/Betül_Yilmaz http://dbpedia.org/resource/Betul_Yilmaz
+0,21,B. Horváth,http://dbpedia.org/resource/Bence_Horváth,http://dbpedia.org/resource/Bernadett_Horvath http://dbpedia.org/resource/Bernadett_Horváth
+0,28,B. Bognár,http://dbpedia.org/resource/György_Bognár,http://dbpedia.org/resource/Barbara_Bognár http://dbpedia.org/resource/Barbara_Bognar
+0,29,B. Balogh,http://dbpedia.org/resource/Beatrix_Balogh,http://dbpedia.org/resource/Barbara_Balogh
+0,35,A. Bogdanović,http://dbpedia.org/resource/Bogdan_Bogdanović_(basketball),http://dbpedia.org/resource/Annamária_Bogdanović http://dbpedia.org/resource/Annamária_Bogdanovics http://dbpedia.org/resource/Annamaria_Bogdanovic
+0,37,A. Andersen,http://dbpedia.org/resource/Arne_Andersen_(footballer),http://dbpedia.org/resource/Anja_Jul_Andersen http://dbpedia.org/resource/Anja_Andersen
+0,40,A. Szamoránsky,http://dbpedia.org/resource/Piroska_Szamoránsky,http://dbpedia.org/resource/Aniko_Szamoransky http://dbpedia.org/resource/Anikó_Szamoránsky
+0,47,A. Boshkovski,http://dbpedia.org/resource/Zoran_Boškovski,http://dbpedia.org/resource/Andon_Boshkovski

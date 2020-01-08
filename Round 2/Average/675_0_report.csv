@@ -1,0 +1,7 @@
+F1: 0.64286,Precision: 0.64286,Recall: 0.64286,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,M. Moreno,http://dbpedia.org/resource/Marguerite_Moreno,http://dbpedia.org/resource/Marisela_Moreno
+0,6,L. Jones,http://dbpedia.org/resource/Lee_Jones_(rugby_union),http://dbpedia.org/resource/Maria_Guadalupe_Jones http://dbpedia.org/resource/Guadalupe_Jones http://dbpedia.org/resource/María_Guadalupe_Jones http://dbpedia.org/resource/Lupita_Jones_Garay http://dbpedia.org/resource/María_Guadalupe_Jones_Garay http://dbpedia.org/resource/Lupita_Jones http://dbpedia.org/resource/Maria_Guadalupe_Jones_Garay
+0,7,L. Hintsa,http://dbpedia.org/resource/Lotta_Näkyvä,http://dbpedia.org/resource/Lotta_Hintsa
+0,8,L. Lopes,http://dbpedia.org/resource/Lisa_Lopes,http://dbpedia.org/resource/Leila_Lopes_(pageant_titleholder) http://dbpedia.org/resource/Leila_Lopes_(model) http://dbpedia.org/resource/Leila_Lopes_(Miss_Universe_2011) http://dbpedia.org/resource/Leila_Lopes_(Miss_Angola) http://dbpedia.org/resource/Leila_Lopes_(Miss_Universe) http://dbpedia.org/resource/Leila_Lopes_(Miss_Uníverse)
+0,9,L. Cecil,"http://dbpedia.org/resource/Brownlow_Cecil,_2nd_Marquess_of_Exeter",http://dbpedia.org/resource/Leah_Cecil

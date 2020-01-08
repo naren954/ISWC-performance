@@ -1,0 +1,4 @@
+F1: 0.77778,Precision: 0.77778,Recall: 0.77778,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,2,Jean Gainche (FRA),http://dbpedia.org/resource/Jean_Bottéro,http://dbpedia.org/resource/Jean_Gainche
+1,9,Hans Junkermann (FRG),http://dbpedia.org/resource/Hans_Junkermann_(actor),http://dbpedia.org/resource/Hans_Junkermann

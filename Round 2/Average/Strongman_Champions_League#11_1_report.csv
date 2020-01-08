@@ -1,0 +1,5 @@
+F1: 0.57143,Precision: 0.57143,Recall: 0.57143,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,Mike Burke,http://dbpedia.org/resource/Michael_Burke_(soccer),http://dbpedia.org/resource/Mike_Burke_(strongman)
+1,4,Jason Bergmann,http://dbpedia.org/resource/Jason_Bergmann_(strongman),http://dbpedia.org/resource/Jay_bergmann http://dbpedia.org/resource/Jay_Bergmann http://dbpedia.org/resource/Jason_Bergmann
+1,8,Steve Schmidt,http://dbpedia.org/resource/Steve_Schmidt_(Canadian_football),http://dbpedia.org/resource/Steve_Schmidt

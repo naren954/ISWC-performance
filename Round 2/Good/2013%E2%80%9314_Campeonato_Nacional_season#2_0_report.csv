@@ -1,0 +1,6 @@
+F1: 0.77778,Precision: 0.77778,Recall: 0.77778,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,6,Everton,http://dbpedia.org/resource/Everton_F.C.,http://dbpedia.org/resource/Everton_de_Viña_del_Mar
+0,9,Ã\u0091ublense,,http://dbpedia.org/resource/Ñublense
+0,12,Rangers,http://dbpedia.org/resource/Queens_Park_Rangers_F.C.,http://dbpedia.org/resource/Club_social_de_deportes_rangers http://dbpedia.org/resource/Club_Social_de_Deportes_Rangers http://dbpedia.org/resource/Rangers_Talca http://dbpedia.org/resource/Rangers_football_club_chile http://dbpedia.org/resource/Club_Social_de_Deportes_Rangers_de_Talca http://dbpedia.org/resource/C.S.D._Rangers http://dbpedia.org/resource/CSD_Rangers_de_Talca http://dbpedia.org/resource/Rangers_de_Talca http://dbpedia.org/resource/Rangers_Football_Club_of_Chile
+0,13,Santiago Wanderers,http://dbpedia.org/resource/Wycombe_Wanderers_F.C.,http://dbpedia.org/resource/List_of_Santiago_Wanderers_managers http://dbpedia.org/resource/Club_de_deportes_santiago_wanderers http://dbpedia.org/resource/Santiago_Wanderers http://dbpedia.org/resource/Club_de_Deportes_Santiago_Wanderers_S.A.D.P. http://dbpedia.org/resource/Club_de_Deportes_Santiago_Wanderers

@@ -1,0 +1,8 @@
+F1: 0.86364,Precision: 0.86364,Recall: 0.86364,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,11,Ahmedabad–Mumbai Main Line,http://dbpedia.org/resource/New_Delhi–Mumbai_main_line,http://dbpedia.org/resource/Ahmedabad-Mumbai_main_line http://dbpedia.org/resource/Ahmedabad-Mumbai_Main_Line http://dbpedia.org/resource/Ahmedabad–Mumbai_Main_Line http://dbpedia.org/resource/Ahmedabad–Mumbai_main_line
+0,13,Ahmedabad–Mumbai Main Line,http://dbpedia.org/resource/New_Delhi–Mumbai_main_line,http://dbpedia.org/resource/Ahmedabad-Mumbai_main_line http://dbpedia.org/resource/Ahmedabad-Mumbai_Main_Line http://dbpedia.org/resource/Ahmedabad–Mumbai_Main_Line http://dbpedia.org/resource/Ahmedabad–Mumbai_main_line
+0,20,Aarhus-Randers Line,http://dbpedia.org/resource/Grenaa_Line,http://dbpedia.org/resource/Aarhus-Randers_Line
+0,21,A Line,http://dbpedia.org/resource/West_Coast_Main_Line,http://dbpedia.org/resource/University_of_Colorado_A_Line http://dbpedia.org/resource/A_Line_(RTD) http://dbpedia.org/resource/RTD_East_Corridor http://dbpedia.org/resource/East_Corridor_(RTD)
+0,24,7 Subway Extension,http://dbpedia.org/resource/Red_Line_(MBTA),http://dbpedia.org/resource/7_Line_Extension http://dbpedia.org/resource/IRT_Flushing_Line_Extension http://dbpedia.org/resource/Secaucus_Junction_(IRT_Flushing_Line) http://dbpedia.org/resource/IRT_Flushing_Line_extension http://dbpedia.org/resource/Flushing_line_extension http://dbpedia.org/resource/7_Subway_Extension
+0,25,5,http://dbpedia.org/resource/Bundesautobahn_5,http://dbpedia.org/resource/5_(Los_Angeles_Railway)

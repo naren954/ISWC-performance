@@ -1,0 +1,16 @@
+F1: 0.65000,Precision: 0.65000,Recall: 0.65000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Yo-Yo,http://dbpedia.org/resource/Yo-Yo_(Billy_Joe_Royal_song),http://dbpedia.org/resource/Yo-Yo_(Nicola_Roberts_song)
+0,7,Yesterday,http://dbpedia.org/resource/Yesterday_(Shanice_song),http://dbpedia.org/resource/Yesterday_(Toni_Braxton_song)
+0,8,Yesterday,http://dbpedia.org/resource/Yesterday_(Shanice_song),http://dbpedia.org/resource/Yesterday_(The_Black_Eyed_Peas) http://dbpedia.org/resource/Yesterday_(The_Black_Eyed_Peas_song)
+0,9,Yesterday,http://dbpedia.org/resource/Yesterday_(Shanice_song),http://dbpedia.org/resource/Yesterday_(The_Beatles_song) http://dbpedia.org/resource/Yesterday_(Beatles_song) http://dbpedia.org/resource/Yesterday/Maybe_I'm_In_Love http://dbpedia.org/resource/Yesterday/Maybe_I'm_in_Love http://dbpedia.org/resource/Scrambled_Eggs_(Beatles)
+0,13,Yesterday's Song,http://dbpedia.org/resource/Yesterday's_Songs,http://dbpedia.org/resource/Yesterday's_song http://dbpedia.org/resource/Yesterday's_Song
+0,19,Yes It Is,,http://dbpedia.org/resource/Yes_It_Is_(The_Beatles_song) http://dbpedia.org/resource/Yes_It_Is
+0,21,Yes!,"http://dbpedia.org/resource/Yes,_Virginia...",http://dbpedia.org/resource/Yes!_(Chad_Brock_song) http://dbpedia.org/resource/Yes!_(song)
+0,22,Yep!,http://dbpedia.org/resource/The_Bronx,http://dbpedia.org/resource/Yep!
+0,23,Yellow Submarine,http://dbpedia.org/resource/Yellow_Submarine_(album),http://dbpedia.org/resource/We_all_live_in_a_yellow_submarine http://dbpedia.org/resource/Yellow_Submarine_(song) http://dbpedia.org/resource/Yellow_Submarine_(Song)
+0,30,Yeah Yeah Yeah Yeah Yeah,http://dbpedia.org/resource/ITunes_Originals_–_Yeah_Yeah_Yeahs,http://dbpedia.org/resource/Yeah_Yeah_Yeah_Yeah_Yeah
+0,32,Yeah Yeah,http://dbpedia.org/resource/Yeah_Yeah_(Sabrina_song),http://dbpedia.org/resource/Yeah_Yeah_(Willy_Moon_song)
+0,35,Yeah,http://dbpedia.org/resource/Yeah!_(Usher_song),http://dbpedia.org/resource/Yeah_(LCD_Soundsystem_song)
+0,36,Yeah,http://dbpedia.org/resource/Yeah!_(Usher_song),http://dbpedia.org/resource/Yeah_(Joe_Nichols_song)
+0,38,Yeah!,http://dbpedia.org/resource/Yeah!_(Usher_song),http://dbpedia.org/resource/Yeah!_(Paul_Brandt_song)

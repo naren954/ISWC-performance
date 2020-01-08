@@ -1,0 +1,7 @@
+F1: 0.61538,Precision: 0.61538,Recall: 0.61538,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,M. Owen,http://dbpedia.org/resource/Maurice_Owen,http://dbpedia.org/resource/Marcus_Owen
+0,4,J. Dunning,http://dbpedia.org/resource/Jack_Dunning,http://dbpedia.org/resource/John_Dunnning_(snooker_player) http://dbpedia.org/resource/John_Dunning_(snooker_player)
+0,6,J. Barrie,http://dbpedia.org/resource/John_Barrie_(footballer),http://dbpedia.org/resource/John_Barrie_(snooker_player)
+0,11,E. Charlton,http://dbpedia.org/resource/Boy_Charlton,http://dbpedia.org/resource/Edward_Francis_Charlton http://dbpedia.org/resource/Eddie_Charlton
+0,13,B. Bennett,http://dbpedia.org/resource/Bert_Bennett,http://dbpedia.org/resource/Bernard_Bennett

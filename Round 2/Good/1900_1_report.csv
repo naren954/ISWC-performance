@@ -1,0 +1,14 @@
+F1: 0.86667,Precision: 0.86667,Recall: 0.86667,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,6,One Christmas,http://dbpedia.org/resource/How_the_Grinch_Stole_Christmas!,http://dbpedia.org/resource/One_Christmas
+1,7,The Unexpected,http://dbpedia.org/resource/Unexpected_(Star_Trek:_Enterprise),http://dbpedia.org/resource/The_Unexpected_(novel) http://dbpedia.org/resource/The_Unexpected_(Animorphs)
+1,13,Stargazer,http://dbpedia.org/resource/Stargazer_(novel),http://dbpedia.org/resource/Stargazer_(Patrick_Carman)
+1,15,Dead or Alive,http://dbpedia.org/resource/Wanted_Dead_or_Alive_(Bon_Jovi_song),http://dbpedia.org/resource/Dead_or_Alive_(novel)
+1,17,The Guilty,http://dbpedia.org/resource/Proven_Guilty_(The_Dresden_Files),http://dbpedia.org/resource/The_Guilty_(Baldacci_novel)
+1,34,The Hive,http://dbpedia.org/resource/The_Hive_(novella),http://dbpedia.org/resource/The_Hive_(disambiguation) http://dbpedia.org/resource/The_Hive http://dbpedia.org/resource/The_hive
+1,36,The Extreme,http://dbpedia.org/resource/PC_Extreme,http://dbpedia.org/resource/The_Extreme_(novel) http://dbpedia.org/resource/The_Extreme_(Animorphs)
+1,40,Heritage,http://dbpedia.org/resource/Heritage_(Opeth_album),http://dbpedia.org/resource/Heritage_(novel) http://dbpedia.org/resource/Heritage_(Doctor_Who)
+1,47,Haunted,http://dbpedia.org/resource/Haunted_(Armstrong_novel),http://dbpedia.org/resource/Haunted_(Angel_novel)
+1,65,"See You Later, Alligator","http://dbpedia.org/resource/See_You_Later,_Alligator_(novel)","http://dbpedia.org/resource/Later_Alligator http://dbpedia.org/resource/See_you_later_alligator http://dbpedia.org/resource/See_You_Later_Alligator http://dbpedia.org/resource/See_You_Later,_Alligator http://dbpedia.org/resource/See_you_later,_Alligator"
+1,83,Running Blind,http://dbpedia.org/resource/The_Visitor_(Child_novel),http://dbpedia.org/resource/Running_Blind_(Desmond_Bagley_novel)
+1,84,Electric Light,http://dbpedia.org/resource/Eldorado_(Electric_Light_Orchestra_album),http://dbpedia.org/resource/Electric_Light_(poetry_collection) http://dbpedia.org/resource/Electric_Light_(poetry)

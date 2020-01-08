@@ -1,0 +1,4 @@
+F1: 0.85714,Precision: 0.85714,Recall: 0.85714,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,5,Egaleo,http://dbpedia.org/resource/Egaleo_F.C.,http://dbpedia.org/resource/Aigaleo_BC http://dbpedia.org/resource/Egaleo_B.C. http://dbpedia.org/resource/Egaleo_BC http://dbpedia.org/resource/Egaleo_ΒC http://dbpedia.org/resource/Egaleo_AO
+0,6,Makedonikos,http://dbpedia.org/resource/Makedonikos_F.C.,http://dbpedia.org/resource/Alfa_Makedonikos http://dbpedia.org/resource/Makedonikos_BC http://dbpedia.org/resource/Makedonikos_B.C. http://dbpedia.org/resource/Makedonikos

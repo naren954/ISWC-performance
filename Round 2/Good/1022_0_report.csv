@@ -1,0 +1,10 @@
+F1: 0.93496,Precision: 0.93496,Recall: 0.93496,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,18,Operation Tan No. 2,http://dbpedia.org/resource/Invasion_of_Poland,http://dbpedia.org/resource/Operation_Tan_No._2
+0,42,Operation Southern Focus,http://dbpedia.org/resource/Operation_Southern_Move,http://dbpedia.org/resource/Operation_Southern_Focus
+0,65,Operation Sayasila,http://dbpedia.org/resource/Operation_Crimp,http://dbpedia.org/resource/Operation_Phou_Xang http://dbpedia.org/resource/Operation_Red_Arrow http://dbpedia.org/resource/Operation_Sayasila
+0,68,Operation Safe Teach,http://dbpedia.org/resource/Operation_Safe_Haven_(1957),http://dbpedia.org/resource/Operation_Safe_Teach
+0,72,Operation Rolling Thunder,http://dbpedia.org/resource/Operation_Phantom_Thunder,http://dbpedia.org/resource/Operation_Rolling_Thunder http://dbpedia.org/resource/Operation_Rolling_Thuder
+0,77,Operation Ring,http://dbpedia.org/resource/Battle_of_Stalingrad,http://dbpedia.org/resource/Operation_Ring http://dbpedia.org/resource/Chaykend_operation
+0,88,Operation Rainbow,http://dbpedia.org/resource/Operation_Rainbow,http://dbpedia.org/resource/Operation_Rainbow_(Syrian_Civil_War)
+0,114,Operation Peregrine II,http://dbpedia.org/resource/Operation_Masher,http://dbpedia.org/resource/Operation_Peregrine_II

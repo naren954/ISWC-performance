@@ -1,0 +1,5 @@
+F1: 0.90625,Precision: 0.90625,Recall: 0.90625,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,12,S. Schiff,http://dbpedia.org/resource/Steven_Schiff,http://dbpedia.org/resource/Sol_Schiff
+0,21,I. Kelen,http://dbpedia.org/resource/Stephen_Kelen,http://dbpedia.org/resource/Istvan_Kelen http://dbpedia.org/resource/István_Kelen
+0,25,F. Soos,http://dbpedia.org/resource/Bang_Soo-hyun,http://dbpedia.org/resource/Ferenc_Soos

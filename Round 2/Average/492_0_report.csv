@@ -1,0 +1,7 @@
+F1: 0.66667,Precision: 0.66667,Recall: 0.66667,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,B. Bennett,http://dbpedia.org/resource/Bryan_Bennett,http://dbpedia.org/resource/Brandon_Bennett
+0,2,B. Banks,http://dbpedia.org/resource/Brian_Banks_(American_football),http://dbpedia.org/resource/Brandon_Banks
+0,3,B. Bowman,http://dbpedia.org/resource/Bill_Bowman_(American_football),http://dbpedia.org/resource/Braedon_Bowman
+0,14,B. Kelly,http://dbpedia.org/resource/Bill_Kelly_(American_football),http://dbpedia.org/resource/Bo_Kelly
+0,15,B. Sailors,http://dbpedia.org/resource/Ken_Sailors,http://dbpedia.org/resource/Blake_Sailors

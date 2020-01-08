@@ -1,0 +1,13 @@
+F1: 0.54167,Precision: 0.54167,Recall: 0.54167,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,4,Shin-KÅ\u008Denji,http://dbpedia.org/resource/Zero_Woman,http://dbpedia.org/resource/Shin-Kōenji_Station
+1,5,Higashi-KÅ\u008Denji,,http://dbpedia.org/resource/Higashi-Kōenji_Station
+1,10,Shinjuku-SanchÅ\u008Dme,http://dbpedia.org/resource/Shinjuku_Station,http://dbpedia.org/resource/Shinjuku-Sanchōme_Station
+1,12,Yotsuya-SanchÅ\u008Dme,http://dbpedia.org/resource/Yotsuya-sanchōme_Station,http://dbpedia.org/resource/Yotsuya-Sanchōme_Station
+1,15,Kokkai-GijidÅ\u008D-mae,http://dbpedia.org/resource/Kokkai-gijidō-mae_Station,http://dbpedia.org/resource/Kokkai-Gijidō-mae_Station
+1,19,Å\u008Ctemachi,http://dbpedia.org/resource/European_route_E008,http://dbpedia.org/resource/Ōtemachi_Station_(Tokyo)
+1,20,AwajichÅ\u008D,http://dbpedia.org/resource/National_Route_A008_(Argentina),http://dbpedia.org/resource/Awajichō_Station
+1,22,HongÅ\u008D-SanchÅ\u008Dme,http://dbpedia.org/resource/San_Mamés_Stadium_(1913),http://dbpedia.org/resource/Hongō-Sanchōme_Station
+1,23,KÅ\u008Drakuen,http://dbpedia.org/resource/National_Route_A008_(Argentina),http://dbpedia.org/resource/Kōrakuen_Station
+1,24,MyÅ\u008Dgadani,http://dbpedia.org/resource/National_Route_A008_(Argentina),http://dbpedia.org/resource/Myōgadani_Station
+1,25,Shin-Å\u008Ctsuka,http://dbpedia.org/resource/Shinkanaoka_Station,http://dbpedia.org/resource/Shin-Ōtsuka_Station

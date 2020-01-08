@@ -1,0 +1,4 @@
+F1: 0.66667,Precision: 0.66667,Recall: 0.66667,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,4,ShÅ\u008D ShishÅ\u008D,,http://dbpedia.org/resource/Shō_Shishō
+0,5,ShÅ\u008D Hashi,,http://dbpedia.org/resource/Shō_Hashi

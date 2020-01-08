@@ -1,0 +1,5 @@
+"F1: 0.50000","Precision: 0.50000","Recall: 0.50000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"2","2","Be Mine","http://dbpedia.org/resource/Be_Mine,_Valentine","http://dbpedia.org/resource/Over_The_Top_(album) http://dbpedia.org/resource/1st_Album_(Infinite_album) http://dbpedia.org/resource/Over_the_Top_(Infinite_album)"
+"2","8","Destiny","http://dbpedia.org/resource/Destiny_(Saxon_album)","http://dbpedia.org/resource/Destiny_(Infinite_song) http://dbpedia.org/resource/Destiny_(Infinite_Album) http://dbpedia.org/resource/Destiny_(Infinite_album)"
+"2","9","Season 2","http://dbpedia.org/resource/Season_2_(Infinite_album)","http://dbpedia.org/resource/Season_two http://dbpedia.org/resource/Season_Two http://dbpedia.org/resource/Season_2_(disambiguation) http://dbpedia.org/resource/Season_2 http://dbpedia.org/resource/Season_2_(album)"

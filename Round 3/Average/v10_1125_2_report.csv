@@ -1,0 +1,45 @@
+F1: 0.73292,Precision: 0.73292,Recall: 0.73292,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,1,For The First Time,http://dbpedia.org/resource/For_the_First_Time_(The_Script_song),http://dbpedia.org/resource/For_The_First_Time_(Titanium_song) http://dbpedia.org/resource/All_for_You_(Titanium_album) http://dbpedia.org/resource/Nothing_But_Love_(Titanium_song) http://dbpedia.org/resource/For_the_First_Time_(Titanium_song) http://dbpedia.org/resource/Nothing_but_Love_(Titanium_song) http://dbpedia.org/resource/All_For_You_(Titanium_album)
+2,5,Live at Reading,http://dbpedia.org/resource/Live_at_Reading,http://dbpedia.org/resource/Live_at_Reading_(EP)
+2,6,One Kiss,http://dbpedia.org/resource/One_Kiss_(song),"http://dbpedia.org/resource/One_Kiss_(Eddie_Cochran_song) http://dbpedia.org/resource/Pretty_Girl_(Eddie_Cochran_song) http://dbpedia.org/resource/Eddie_cochran http://dbpedia.org/resource/Eddie_Cochran http://dbpedia.org/resource/Skinny_Jim http://dbpedia.org/resource/Cochran,_Eddie http://dbpedia.org/resource/Eddie_Cochrane"
+2,8,Mind Games,http://dbpedia.org/resource/Mind_Games_(John_Lennon_song),http://dbpedia.org/resource/Mind_Games_(song)
+2,9,History of Modern,http://dbpedia.org/resource/History_of_Modern,http://dbpedia.org/resource/History_of_Modern_(part_1) http://dbpedia.org/resource/History_of_Modern_(Part_I)
+2,12,Eye in the Sky,http://dbpedia.org/resource/Eye_in_the_Sky_(album),http://dbpedia.org/resource/Eye_in_the_Sky_(song)
+2,18,Remedy,http://dbpedia.org/resource/Remedy_(Seether_song),http://dbpedia.org/resource/Remedy_(Crookers_song)
+2,19,Desperado,http://dbpedia.org/resource/Desperado_(Eagles_song),http://dbpedia.org/resource/Desperado_Song http://dbpedia.org/resource/Desperado_(song)
+2,20,Touch Me I'm Sick/Halloween,http://dbpedia.org/resource/Touch_Me_I'm_Sick_/_Halloween,http://dbpedia.org/resource/Touch_Me_I'm_Sick/Halloween
+2,29,You,http://dbpedia.org/resource/You_(Schiller_and_Colbie_Caillat_song),http://dbpedia.org/resource/You_(Queensryche_song) http://dbpedia.org/resource/You_(Queensrÿche_song)
+2,33,Why Do You Love Me,http://dbpedia.org/resource/Why_Don't_You_Love_Me_(Beyoncé_song),http://dbpedia.org/resource/Why_Do_You_Love_Me? http://dbpedia.org/resource/Space_Can_Come_Through_Anyone http://dbpedia.org/resource/Why_Do_You_Love_Me http://dbpedia.org/resource/Nobody_Can_Win
+2,36,Guilty,http://dbpedia.org/resource/Guilty_(Barbra_Streisand_and_Barry_Gibb_song),http://dbpedia.org/resource/Guilty_(1994_album) http://dbpedia.org/resource/Guilty_(All_EP) http://dbpedia.org/resource/Guilty_(ALL_song) http://dbpedia.org/resource/Guilty_(All_song)
+2,38,Run-Away,http://dbpedia.org/resource/Run_Away_(Live_song),http://dbpedia.org/resource/Run-Away_(Super_Furry_Animals_song)
+2,40,Silhouettes,http://dbpedia.org/resource/Silhouettes_(Avicii_song),http://dbpedia.org/resource/Silhouettes_(song) http://dbpedia.org/resource/Silhouettes_(The_Rays_song)
+2,52,Don't Mess with My Man,http://dbpedia.org/resource/Don't_Mess_with_My_Man_(Nivea_song),http://dbpedia.org/resource/Don't_Mess_with_My_Man http://dbpedia.org/resource/Don't_Mess_With_My_Man_(Lucy_Pearl_song) http://dbpedia.org/resource/Don't_Mess_With_My_Man
+2,56,Take Me to Your Heart,http://dbpedia.org/resource/Take_Me_to_Your_Heart_(Bananarama_song),http://dbpedia.org/resource/Take_Me_to_Your_Heart_(Rick_Astley_song)
+2,59,Prayin',http://dbpedia.org/resource/Prayin'_(Plan_B_song),http://dbpedia.org/resource/Prayin'
+2,60,I Want to Hold Your Hand,http://dbpedia.org/resource/I_Want_to_Hold_Your_Hand_(album),"http://dbpedia.org/resource/I_wanna_hold_your_hand http://dbpedia.org/resource/I_Want_To_Hold_Your_Hand http://dbpedia.org/resource/Iwthyh http://dbpedia.org/resource/I_Wanna_Hold_Your_Hand http://dbpedia.org/resource/I_Want_to_Hold_Your_Hand_(The_Beatles_song) http://dbpedia.org/resource/I_Want_to_Hold_Your_Hand http://dbpedia.org/resource/Komm,_Gib_Mir_Deine http://dbpedia.org/resource/I_want_to_hold_your_hand"
+2,61,Champagne And Sleeping Pills,http://dbpedia.org/resource/Champagne_and_Sleeping_Pills,http://dbpedia.org/resource/Until_The_Ink_Runs_Out http://dbpedia.org/resource/Champagne_And_Sleeping_Pills http://dbpedia.org/resource/Until_the_Ink_Runs_Out http://dbpedia.org/resource/Champagne_and_sleeping_pills
+2,66,Ticket to Ride,http://dbpedia.org/resource/Ticket_to_Ride_(album),http://dbpedia.org/resource/Ticket_to_Ride_(song) http://dbpedia.org/resource/Ticket_to_Ride http://dbpedia.org/resource/Ticket_To_Ride http://dbpedia.org/resource/Ticket_to_Ride_(The_Beatles_song) http://dbpedia.org/resource/Ticket_to_Ryde http://dbpedia.org/resource/Ticket_to_Rye http://dbpedia.org/resource/Ticket_to_ride
+2,76,The Call,http://dbpedia.org/resource/This_Is_a_Call,http://dbpedia.org/resource/The_Call_(Backstreet_Boys_song)
+2,80,Dreaming,http://dbpedia.org/resource/Dreaming_(Blondie_song),http://dbpedia.org/resource/Dreaming_(OMD_song)
+2,84,One,http://dbpedia.org/resource/One-X,http://dbpedia.org/resource/One_(Always_Hardcore)
+2,90,Crime of Passion,http://dbpedia.org/resource/Crime_of_Passion_(Ricky_Van_Shelton_song),http://dbpedia.org/resource/Crime_of_Passion_(Mike_Oldfield_song)
+2,92,Findaway,http://dbpedia.org/resource/Findaway_(Silverchair_song),http://dbpedia.org/resource/Leave_Me_Out http://dbpedia.org/resource/Findaway http://dbpedia.org/resource/Suicidal_Dream http://dbpedia.org/resource/Frogstomp
+2,93,Hey Girl,http://dbpedia.org/resource/Hey_Girl_(Billy_Currington_song),http://dbpedia.org/resource/Hey_Girl_(Small_Faces_song)
+2,97,1999,http://dbpedia.org/resource/1999_(Prince_album),http://dbpedia.org/resource/1999_(Prince_song) http://dbpedia.org/resource/Party_Like_It's_1999 http://dbpedia.org/resource/1999_(song) http://dbpedia.org/resource/We're_Gonna_Party_Like_It's_1999 http://dbpedia.org/resource/Party_like_it's_1999
+2,98,Run Baby Run,http://dbpedia.org/resource/Run_Baby_Run_(Amanda_Lear_song),http://dbpedia.org/resource/Badass_(October_2003_Ruff_Demo) http://dbpedia.org/resource/Run_Baby_Run_(Garbage_song)
+2,99,3+1,http://dbpedia.org/resource/3_2_1_(Shinee_song),http://dbpedia.org/resource/3+1
+2,107,Renegade,http://dbpedia.org/resource/Renegade_(Paramore_song),http://dbpedia.org/resource/Renegade_(Daughtry_song)
+2,109,Ebony Eyes,http://dbpedia.org/resource/Ebony_Eyes_(John_D._Loudermilk_song),http://dbpedia.org/resource/Ebony_Eyes_(Bob_Welch_song)
+2,114,Gloria,http://dbpedia.org/resource/Gloria_(Them_song),http://dbpedia.org/resource/Gloria_(Umberto_Tozzi_song) http://dbpedia.org/resource/Gloria_(Laura_Branigan_song) http://dbpedia.org/resource/Gloria_(Umberto_Tozzi/Laura_Branigan_song) http://dbpedia.org/resource/Glori_Gloria
+2,122,New Year's Day,http://dbpedia.org/resource/New_Year's_Day_(U2_song),http://dbpedia.org/resource/New_Year's_Day_(song)
+2,126,Would?,http://dbpedia.org/resource/Dark_Globe,http://dbpedia.org/resource/Would?
+2,128,"Baby, You Don't Wanna Know",http://dbpedia.org/resource/Baby_You_Don't_Wanna_Know,"http://dbpedia.org/resource/Baby,_You_Don't_Wanna_Know"
+2,130,Brave,http://dbpedia.org/resource/Brave_(Idina_Menzel_song),http://dbpedia.org/resource/Brave_(Kelis_song)
+2,132,Ten Days,http://dbpedia.org/resource/Ten_Days_(Missy_Higgins_song),http://dbpedia.org/resource/Ten_Days
+2,134,Digital,http://dbpedia.org/resource/Digital_Underground,http://dbpedia.org/resource/Digital_(Did_You_Tell)
+2,139,Goodbye My Love,http://dbpedia.org/resource/Goodbye_to_Love,http://dbpedia.org/resource/Goodbye_My_Love_(song)
+2,150,Haunting Me,http://dbpedia.org/resource/Haunting_Me_(Stabbing_Westward_song),http://dbpedia.org/resource/Haunting_Me_(song)
+2,153,Love Hurts,http://dbpedia.org/resource/Love_Hurts_(Incubus_song),http://dbpedia.org/resource/Love_Hurts_(Deacon_Blue_song) http://dbpedia.org/resource/Love_Hurts_(Nazareth_song) http://dbpedia.org/resource/Love_Hurts http://dbpedia.org/resource/Love_Hurts_(Cher_single) http://dbpedia.org/resource/Love_Hurts_(Cher_song)
+2,154,What Is Love,http://dbpedia.org/resource/What_Is_Love_(En_Vogue_song),http://dbpedia.org/resource/What_Is_Love_(Kiesza_song) http://dbpedia.org/resource/What_Is_Love? http://dbpedia.org/resource/What_is_Love http://dbpedia.org/resource/What_is_love_(haddaway_song) http://dbpedia.org/resource/What_Is_Love_(Song) http://dbpedia.org/resource/What_Is_Love_2016 http://dbpedia.org/resource/What_Is_Love_(song) http://dbpedia.org/resource/What_Is_Love_(Haddaway_song) http://dbpedia.org/resource/What_is_Love_(song) http://dbpedia.org/resource/What_is_Love_(Haddaway_song) http://dbpedia.org/resource/What_Is_Love_(Haddaway_song http://dbpedia.org/resource/What_Is_Love
+2,155,She Says,http://dbpedia.org/resource/She_Says_(Howie_Day_song),http://dbpedia.org/resource/She_Says_(Unwritten_Law_song)

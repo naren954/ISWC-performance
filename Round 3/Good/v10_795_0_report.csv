@@ -1,0 +1,25 @@
+F1: 0.85161,Precision: 0.85161,Recall: 0.85161,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,18,Williamson Page House,"http://dbpedia.org/resource/Williamson_House_(Louisburg,_North_Carolina)",http://dbpedia.org/resource/Williamson_Page_House
+0,21,Williamson House,"http://dbpedia.org/resource/Williamson_House_(Louisburg,_North_Carolina)","http://dbpedia.org/resource/Williamson_House_(Little_Rock,_Arkansas)"
+0,22,Williamson House,"http://dbpedia.org/resource/Williamson_House_(Louisburg,_North_Carolina)","http://dbpedia.org/resource/Williamson_House_(Goshen,_New_Hampshire)"
+0,28,Williamsburg Inn,http://dbpedia.org/resource/Colonial_Williamsburg,http://dbpedia.org/resource/Williamsburg_Inn
+0,31,Williamsbridge Reservoir,http://dbpedia.org/resource/Keeper's_House_at_Williamsbridge_Reservoir,http://dbpedia.org/resource/Williamsbridge_Reservoir
+0,39,Williams House,"http://dbpedia.org/resource/Williams_House_(Richlands,_Virginia)","http://dbpedia.org/resource/Williams_House_(Ulmer,_South_Carolina)"
+0,40,Williams House,"http://dbpedia.org/resource/Williams_House_(Richlands,_Virginia)","http://dbpedia.org/resource/Williams_House_(Searcy,_Arkansas)"
+0,42,Williams House,"http://dbpedia.org/resource/Williams_House_(Richlands,_Virginia)","http://dbpedia.org/resource/Williams_House_(Odessa,_Delaware)"
+0,43,Williams Historic Business District,http://dbpedia.org/resource/Demopolis_Historic_Business_District,http://dbpedia.org/resource/Williams_Historic_Business_District
+0,52,Williams-Powell House,http://dbpedia.org/resource/John_Powell_House,http://dbpedia.org/resource/Williams-Powell_House
+0,53,Williams-Linscott House,"http://dbpedia.org/resource/William_Williams_House_(Lebanon,_Connecticut)",http://dbpedia.org/resource/Williams-Linscott_House
+0,54,Williams-Ligon House,"http://dbpedia.org/resource/William_Williams_House_(Lebanon,_Connecticut)",http://dbpedia.org/resource/Williams-Ligon_House
+0,56,Williams-Gierth House,"http://dbpedia.org/resource/William_Williams_House_(Lebanon,_Connecticut)",http://dbpedia.org/resource/Williams-Gierth_House
+0,57,Williams-Brown House and Store,http://dbpedia.org/resource/Williams–Brown_House_and_Store,http://dbpedia.org/resource/Williams-Brown_House_and_Store
+0,67,William and Mary,http://dbpedia.org/resource/William_and_Mary_Hosmer_House,http://dbpedia.org/resource/William_and_Mary_(Messersmith)_Seerley_Barn_and_Milkhouse-Smokehouse
+0,78,William Young House,http://dbpedia.org/resource/William_Young_House,"http://dbpedia.org/resource/William_Young_House_(New_Albany,_Indiana)"
+0,80,William Wrigley Jr. Summer Cottage,http://dbpedia.org/resource/Wrigley_Mansion,"http://dbpedia.org/resource/William_Wrigley_Jr._Summer_Cottage http://dbpedia.org/resource/William_Wrigley,_Jr._Summer_Cottage"
+0,95,William Welch House,http://dbpedia.org/resource/William_H._Welch_House,http://dbpedia.org/resource/William_Welch_House
+0,124,William Taylor House,"http://dbpedia.org/resource/William_Taylor_House_(Resaca,_Georgia)","http://dbpedia.org/resource/William_Taylor_House_(Middleport,_New_York)"
+0,126,William Talley House,"http://dbpedia.org/resource/William_Talley_House_(Safford,_Arizona)","http://dbpedia.org/resource/William_Talley_House_(Wilmington,_Delaware)"
+0,133,William T. Donnell House,http://dbpedia.org/resource/William_T._Ogden_House,http://dbpedia.org/resource/William_T._Donnell_House
+0,152,William Smith House,"http://dbpedia.org/resource/William_Smith_House_(Wrightstown,_Pennsylvania)","http://dbpedia.org/resource/William_Smith_House_(Hamilton,_Virginia)"
+0,153,William Smith House,"http://dbpedia.org/resource/William_Smith_House_(Wrightstown,_Pennsylvania)","http://dbpedia.org/resource/William_Smith_House_(Aurora,_Colorado)"

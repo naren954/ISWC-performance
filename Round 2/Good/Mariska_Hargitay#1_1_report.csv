@@ -1,0 +1,4 @@
+F1: 0.77778,Precision: 0.77778,Recall: 0.77778,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,3,Jocks,http://it.dbpedia.org/resource/Jocks,http://dbpedia.org/resource/Jocks_(film)
+1,11,Perfume,http://dbpedia.org/resource/Perfume:_The_Story_of_a_Murderer_(film),http://dbpedia.org/resource/Perfume_(2001_film)

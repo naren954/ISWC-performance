@@ -1,0 +1,5 @@
+F1: 0.75000,Precision: 0.75000,Recall: 0.75000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,Chris Porter,http://dbpedia.org/resource/Chris_Porter_(ice_hockey),"http://dbpedia.org/resource/Chris_Porter_(footballer,_born_1983) http://dbpedia.org/resource/Chris_Porter_(footballer_born_1983)"
+0,3,Kevin McDonald,http://dbpedia.org/resource/Kevin_MacDonald_(footballer),"http://dbpedia.org/resource/Kevin_McDonald_(footballer,_born_1988) http://dbpedia.org/resource/Kevin_McDonald_(footballer_born_1988)"
+0,5,Michael Doyle,http://dbpedia.org/resource/Mike_Doyle_(footballer),"http://dbpedia.org/resource/Michael_Doyle_(Irish_footballer) http://dbpedia.org/resource/Michael_Doyle_(footballer,_born_1981)"

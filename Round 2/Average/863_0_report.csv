@@ -1,0 +1,33 @@
+F1: 0.72321,Precision: 0.72321,Recall: 0.72321,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,J. Jensen,http://dbpedia.org/resource/Jackie_Jensen,http://dbpedia.org/resource/Jesper_Jensen_(handballer)
+0,3,J. Despotović,http://dbpedia.org/resource/Vesna_Despotović,http://dbpedia.org/resource/Jelena_Despotović http://dbpedia.org/resource/Jelena_Despotovic
+0,5,J. Tošković,http://dbpedia.org/resource/Jasna_Boljević,http://dbpedia.org/resource/Jasna_Tošković http://dbpedia.org/resource/Jasna_Toskovic http://dbpedia.org/resource/Jasna_Tošković-_Boljević
+0,8,J. Hoffmann,http://dbpedia.org/resource/Jamie_Hoffmann,http://dbpedia.org/resource/Jorg_Hoffmann_(swimmer) http://dbpedia.org/resource/Jörg_Hoffmann_(swimmer) http://dbpedia.org/resource/Joerg_Hoffmann_(swimmer)
+0,10,J. Hansen,http://dbpedia.org/resource/Jan_Hansen_(footballer),http://dbpedia.org/resource/Johan_Hansen http://dbpedia.org/resource/Jóhan_Hansen
+0,11,J. Cazal,http://dbpedia.org/resource/Patrick_Cazal,http://dbpedia.org/resource/Jérôme_Cazal http://dbpedia.org/resource/Jerome_Cazal
+0,13,I. Szepesi,http://dbpedia.org/resource/Gusztáv_Szepesi,http://dbpedia.org/resource/Ivett_Szepesi
+0,14,I. Nagy,"http://dbpedia.org/resource/István_Nagy_(footballer,_born_1939)",http://dbpedia.org/resource/Ivett_Nagy
+0,15,I. Kurucz,http://uk.dbpedia.org/resource/Куруц_Федір_Михайлович,http://dbpedia.org/resource/Ivett_Kurucz
+0,20,I. Djurkovic,http://dbpedia.org/resource/Marko_Djurković,http://dbpedia.org/resource/Ivan_Đurković http://dbpedia.org/resource/Ivan_Djurkovic
+0,21,I. Managarova,http://dbpedia.org/resource/Yulia_Managarova,http://dbpedia.org/resource/Yuliya_Managarova http://dbpedia.org/resource/Iuliia_Managarova http://dbpedia.org/resource/Yuliya_Manaharova
+0,23,I. Varga,http://dbpedia.org/resource/Iván_Varga,http://dbpedia.org/resource/István_Varga http://dbpedia.org/resource/Istvan_Varga
+0,26,I. Varga,http://dbpedia.org/resource/Iván_Varga,http://dbpedia.org/resource/István_Varga http://dbpedia.org/resource/Istvan_Varga
+0,29,I. Guardiola,http://dbpedia.org/resource/Pep_Guardiola,http://dbpedia.org/resource/Isaías_Guardiola http://dbpedia.org/resource/Isaias_Guardiola
+0,31,I. Blanco,http://dbpedia.org/resource/Ismael_Blanco,http://dbpedia.org/resource/Isabel_Blanco
+0,32,I. Guardiola,http://dbpedia.org/resource/Pep_Guardiola,http://dbpedia.org/resource/Isaías_Guardiola http://dbpedia.org/resource/Isaias_Guardiola
+0,34,I. Munteanu,http://de.dbpedia.org/resource/Ion_Munteanu_(Fußballspieler),http://dbpedia.org/resource/Ionica_Munteanu
+0,36,I. M. Aldave,http://dbpedia.org/resource/M.I.A._(rapper),http://dbpedia.org/resource/Inaki_Malumbres_Aldave
+0,40,H. Winkler,http://dbpedia.org/resource/Hal_Winkler,http://dbpedia.org/resource/Harry_Winkler_(handballer) http://dbpedia.org/resource/Harry_Winkler_(athlete)
+0,49,G. Hammerseng-Edin,,http://dbpedia.org/resource/Gro_Hammerseng http://dbpedia.org/resource/Gro_Hammerseng-Edin
+0,55,G. Juhász,http://dbpedia.org/resource/Gusztáv_Juhász,http://dbpedia.org/resource/Gabriella_Juhász http://dbpedia.org/resource/Gabriella_Juhasz
+0,59,F. Takács,http://dbpedia.org/resource/Péter_Takács_(footballer),http://dbpedia.org/resource/Fruzsina_Takács http://dbpedia.org/resource/Fruzsina_Takacs
+0,60,F. Palkó,http://dbpedia.org/resource/Dávid_Palkó,http://dbpedia.org/resource/Fruzsina_Palko http://dbpedia.org/resource/Fruzsina_Palkó
+0,68,E. Tóth,http://fr.dbpedia.org/resource/Enikő_Tóth,http://dbpedia.org/resource/Eszter_Toth http://dbpedia.org/resource/Eszter_Tóth
+0,78,E. Gjeorgjievska,http://dbpedia.org/resource/E,http://dbpedia.org/resource/Elena_Gjorgjievska http://dbpedia.org/resource/Elena_Gjeorgjievska
+0,79,E. Abramovich,http://dbpedia.org/resource/Luis_Abramovich,"http://dbpedia.org/resource/Elena_Abramovich http://dbpedia.org/resource/Abramovich,_Elena"
+0,84,D. Takács,http://dbpedia.org/resource/Péter_Takács_(footballer),http://dbpedia.org/resource/Dusmáta_Takács http://dbpedia.org/resource/Dusmata_Takacs
+0,89,D. E. Simonet,http://de.dbpedia.org/resource/Claude_Simonet,http://dbpedia.org/resource/Diego_Simonet http://dbpedia.org/resource/Diego_Esteban_Simonet
+0,92,D. Ožbolt,http://dbpedia.org/resource/Sašo_Ožbolt,http://dbpedia.org/resource/Dean_Ožbolt
+0,93,D. Miličević,http://dbpedia.org/resource/Danijel_Milićević,http://dbpedia.org/resource/David_Milicevic http://dbpedia.org/resource/David_Miličević
+0,106,C. Zamfir,http://de.dbpedia.org/resource/Mihai_Zamfir,http://dbpedia.org/resource/Cristina_Zamfir

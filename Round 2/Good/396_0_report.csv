@@ -1,0 +1,7 @@
+F1: 0.85294,Precision: 0.85294,Recall: 0.85294,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,7,B. Thompson,http://dbpedia.org/resource/Benjamin_Thompson,http://dbpedia.org/resource/Bill_Thompson_(voice_actor) http://dbpedia.org/resource/Wallace_Wimple
+0,14,B. Davis,http://dbpedia.org/resource/Beryl_Davis,"http://dbpedia.org/resource/Bette_Davies http://dbpedia.org/resource/Arthur_Farnsworth_(Bette_Davis'_husband) http://dbpedia.org/resource/Ruth_E._Davis http://dbpedia.org/resource/Davis,_Bette http://dbpedia.org/resource/Bettie_Davis http://dbpedia.org/resource/Harmon_Nelson http://dbpedia.org/resource/Ruth_Elizabeth_""Bette""_Davis http://dbpedia.org/resource/Ruth_Elizabeth_Davis http://dbpedia.org/resource/Bette_Davis http://dbpedia.org/resource/Arthur_Farnsworth."
+0,20,B. Hume,http://dbpedia.org/resource/Basil_Hume,http://dbpedia.org/resource/Benita_Hume
+0,27,B. Casimiro,http://pt.dbpedia.org/resource/Mirita_Casimiro,http://dbpedia.org/resource/Bayani_Casimiro
+0,33,B. Nichols,http://dbpedia.org/resource/Dudley_Nichols,http://dbpedia.org/resource/Barbara_Nichols

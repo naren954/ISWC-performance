@@ -1,0 +1,6 @@
+"F1: 0.71429","Precision: 0.71429","Recall: 0.71429"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","3","C. Brown","http://dbpedia.org/resource/Cloria_Brown","http://dbpedia.org/resource/Charles_Brown_(mayor)"
+"0","5","B. Sarto","http://it.dbpedia.org/resource/Giorgio_Sarto","http://dbpedia.org/resource/Bill_Sarto"
+"0","12","A. Kauffman","http://dbpedia.org/resource/Léon_Kauffman","http://dbpedia.org/resource/Allan_Kauffman"
+"0","13","A. B. Morse","http://dbpedia.org/resource/F._Bradford_Morse","http://dbpedia.org/resource/Alex_B._Morse"

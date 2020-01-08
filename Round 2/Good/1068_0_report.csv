@@ -1,0 +1,9 @@
+F1: 0.75862,Precision: 0.75862,Recall: 0.75862,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,T. P. Secundus,http://dbpedia.org/resource/Pliny_the_Elder,http://dbpedia.org/resource/Titus_Petronius_Secundus
+0,9,T. Andrews,http://dbpedia.org/resource/William_IV_of_the_United_Kingdom,http://dbpedia.org/resource/Timothy_Andrews_(general)
+0,15,T. B. Brown,http://dbpedia.org/resource/Egbert_B._Brown,http://dbpedia.org/resource/Thornsberry_Baily_Brown http://dbpedia.org/resource/Thornsbury_Bailey_Brown
+0,20,T. Williams,http://dbpedia.org/resource/Thomas_Williams_(Union_general),http://dbpedia.org/resource/Thomas_Williams_(general)
+0,21,T. Williams,http://dbpedia.org/resource/Thomas_Williams_(Union_general),http://dbpedia.org/resource/Thomas_Williams_(Royal_Navy_officer)
+0,23,T. Wilkinson,http://dbpedia.org/resource/Thomas_Wilkinson_(VC_1942),"http://dbpedia.org/resource/Thomas_Wilkinson_(Royal_Marines) http://dbpedia.org/resource/Thomas_Wilkinson_(VC_1855) http://dbpedia.org/resource/Thomas_Wilkinson,_Royal_Marines"
+0,28,T. W. Sherman,http://dbpedia.org/resource/William_Tecumseh_Sherman,http://dbpedia.org/resource/Thomas_W._Sherman http://dbpedia.org/resource/Thomas_West_Sherman

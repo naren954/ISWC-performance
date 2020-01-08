@@ -1,0 +1,83 @@
+F1: 0.58247,Precision: 0.58247,Recall: 0.58247,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,San Diego Padres minor league players,http://dbpedia.org/resource/Cody_Decker,http://dbpedia.org/resource/Adrian_Morejón http://dbpedia.org/resource/Dinelson_Lamet http://dbpedia.org/resource/Chris_Paddack http://dbpedia.org/resource/Brad_Wieck http://dbpedia.org/resource/Rafael_DePaula http://dbpedia.org/resource/Ruddy_Girón http://dbpedia.org/resource/Rafael_De_Paula http://dbpedia.org/resource/Ryan_Butler_(baseball) http://dbpedia.org/resource/Ruddy_Giron http://dbpedia.org/resource/Rafael_de_Paula http://dbpedia.org/resource/Kyle_Bartsch http://dbpedia.org/resource/San_Diego_Padres_minor_league_players http://dbpedia.org/resource/Zech_Lemond http://dbpedia.org/resource/José_Rondon http://dbpedia.org/resource/Hudson_Sánchez http://dbpedia.org/resource/Michael_Gettys http://dbpedia.org/resource/Phil_Maton http://dbpedia.org/resource/Joseph_Ross_(baseball) http://dbpedia.org/resource/Luis_Urías http://dbpedia.org/resource/Buddy_Reed http://dbpedia.org/resource/Seth_Streich http://dbpedia.org/resource/Javier_Guerra_(baseball) http://dbpedia.org/resource/Franchy_Cordero http://dbpedia.org/resource/Jorge_Oña http://dbpedia.org/resource/Logan_Allen http://dbpedia.org/resource/Luis_Urias http://dbpedia.org/resource/Zechariah_Lemond http://dbpedia.org/resource/Adrian_Morejon http://dbpedia.org/resource/Justin_Hancock
+0,10,R. Berry,http://dbpedia.org/resource/Ricky_Berry,http://dbpedia.org/resource/Ryan_Berry
+0,11,R. Árias,http://dbpedia.org/resource/Rudy_Árias,http://dbpedia.org/resource/Rodolfo_M._Árias http://dbpedia.org/resource/Rudy_Árias_(catcher) http://dbpedia.org/resource/Rodolfo_Árias http://dbpedia.org/resource/Rudy_Arias_(catcher)
+0,12,R. Alaniz,http://dbpedia.org/resource/Martín_Alaniz,http://dbpedia.org/resource/Ruben_Alaniz
+0,14,R. Rhodes,http://dbpedia.org/resource/Ray_Rhodes,http://dbpedia.org/resource/Rory_Rhodes
+0,19,R. Benincasa,http://de.dbpedia.org/resource/José_Benincasa,http://dbpedia.org/resource/Robert_Benincasa
+0,21,R. Thomson,http://dbpedia.org/resource/Robert_Thomson_(basketball),http://dbpedia.org/resource/Rob_Thomson
+0,22,R. Mattson,http://dbpedia.org/resource/Riley_Mattson,http://dbpedia.org/resource/Rob_Mattson
+0,23,R. Leary,http://dbpedia.org/resource/Ronald_Leary,http://dbpedia.org/resource/Rob_Leary http://dbpedia.org/resource/Robert_Leary
+0,24,R. Kaminsky,http://dbpedia.org/resource/Frank_Kaminsky,http://dbpedia.org/resource/Rob_Kaminsky http://dbpedia.org/resource/Robert_Kaminsky
+0,27,R. Barrett,http://dbpedia.org/resource/Rowan_Barrett,http://dbpedia.org/resource/Ricky_Barrett
+0,28,R. Kranitz,http://dbpedia.org/resource/Simon_Kranitz,http://dbpedia.org/resource/Rick_Kranitz
+0,31,R. Castillo,http://dbpedia.org/resource/Rubilio_Castillo,http://dbpedia.org/resource/Richard_Castillo_(baseball)
+0,32,R. Poythress,http://dbpedia.org/resource/Alex_Poythress,http://dbpedia.org/resource/Rich_Poythress
+0,33,R. Hernández,http://dbpedia.org/resource/Rosendo_Hernández,http://dbpedia.org/resource/Ricardo_Hernandez http://dbpedia.org/resource/Ricardo_Hernández
+0,34,R. Ryan,http://dbpedia.org/resource/Rob_Ryan,http://dbpedia.org/resource/Reid_ryan http://dbpedia.org/resource/Reid_Ryan
+0,35,R. Redman,http://dbpedia.org/resource/Rick_Redman,http://dbpedia.org/resource/Reid_Redman
+0,36,R. McGuire,http://dbpedia.org/resource/Ryan_McGuire,http://dbpedia.org/resource/Reese_McGuire
+0,37,R. Perry,"http://dbpedia.org/resource/Ron_Perry_(basketball,_born_1943)",http://dbpedia.org/resource/Ray_Perry_(baseball)
+0,40,R. Tapia,http://dbpedia.org/resource/Renato_Tapia,http://dbpedia.org/resource/Raimel_Tapia
+0,41,R. Álvarez,http://dbpedia.org/resource/Ricky_Álvarez,http://dbpedia.org/resource/Rafael_Alvarez_(baseball) http://dbpedia.org/resource/Rafael_Álvarez_(baseball)
+0,42,R. Moreno,http://dbpedia.org/resource/Raúl_Moreno,http://dbpedia.org/resource/Rafael_Moreno_(baseball)
+0,43,R. Fernandes,http://dbpedia.org/resource/Romeo_Fernandes,http://dbpedia.org/resource/Rafael_Fernandes_(baseball_player) http://dbpedia.org/resource/Rafael_Fernandes_(baseball)
+0,44,R. Díaz,http://dbpedia.org/resource/Ramón_Díaz,http://dbpedia.org/resource/Rafael_Diaz http://dbpedia.org/resource/Rafael_Díaz_(baseball) http://dbpedia.org/resource/Rafael_Díaz
+0,45,R. Álvarez,http://dbpedia.org/resource/Ricky_Álvarez,http://dbpedia.org/resource/Rafael_Alvarez_(baseball) http://dbpedia.org/resource/Rafael_Álvarez_(baseball)
+0,47,R. Orlan,http://dbpedia.org/resource/Richard_Orlans,http://dbpedia.org/resource/RC_Orlan http://dbpedia.org/resource/Robert_Orlan http://dbpedia.org/resource/R.C._Orlan
+0,54,P. Hill,http://dbpedia.org/resource/Peter_Hill_(footballer),http://dbpedia.org/resource/Perry_Hill_(baseball)
+0,55,P. Okuda,http://dbpedia.org/resource/Tatsuro_Okuda,http://dbpedia.org/resource/Pedro_Okuda
+0,58,P. Leonard,http://dbpedia.org/resource/Patrick_Leonard_(footballer),http://dbpedia.org/resource/Patrick_Leonard_(baseball)
+0,59,P. Roessler,http://dbpedia.org/resource/Henri_Roessler,http://dbpedia.org/resource/Pat_Roessler
+0,61,P. Figueroa,http://dbpedia.org/resource/Pedro_Figueroa,http://dbpedia.org/resource/Paco_Figueroa
+0,65,O. Pérez,http://dbpedia.org/resource/Omar_Pérez,http://dbpedia.org/resource/Oneli_Pérez http://dbpedia.org/resource/Oneli_Perez
+0,66,O. Malavé,http://dbpedia.org/resource/José_Malavé,http://dbpedia.org/resource/Omar_Malavé http://dbpedia.org/resource/Omar_Malave
+0,67,O. Luis,http://dbpedia.org/resource/Jesús_Ortiz,http://dbpedia.org/resource/Omar_Luis_(baseball) http://dbpedia.org/resource/Omar_Luis_Rodriguez
+0,77,N. Hill,http://dbpedia.org/resource/Nicky_Hill,http://dbpedia.org/resource/Nick_Hill_(baseball)
+0,80,N. Bucci,http://dbpedia.org/resource/Luca_Bucci,http://dbpedia.org/resource/Nick_Bucci
+0,83,N. Pérez,http://dbpedia.org/resource/Nauzet_Pérez,http://dbpedia.org/resource/Nestor_Perez http://dbpedia.org/resource/Nestor_Pérez
+0,87,M. Canham,http://dbpedia.org/resource/Marc_Canham,http://dbpedia.org/resource/Mitch_Canham http://dbpedia.org/resource/Mitchell_Canham
+0,89,M. Nakamura,http://dbpedia.org/resource/Micheal_Nakamura,http://dbpedia.org/resource/Minoru_Nakamura
+0,90,Minnesota Twins minor league players,http://dbpedia.org/resource/Reynaldo_Rodríguez,http://dbpedia.org/resource/Jason_Wheeler http://dbpedia.org/resource/Randy_Rosario http://dbpedia.org/resource/Daniel_Palka http://dbpedia.org/resource/Mitch_Garver http://dbpedia.org/resource/Travis_Harrison http://dbpedia.org/resource/Fernando_Romero_(baseball) http://dbpedia.org/resource/Niko_Goodrum http://dbpedia.org/resource/Jason_Adam http://dbpedia.org/resource/Reynaldo_Rodriguez http://dbpedia.org/resource/Mason_Melotakis http://dbpedia.org/resource/Michael_Cederoth http://dbpedia.org/resource/Greg_Peavey http://dbpedia.org/resource/Nicholas_Romero http://dbpedia.org/resource/Yorman_Landa http://dbpedia.org/resource/Stephen_Gonsalves http://dbpedia.org/resource/Zack_Jones http://dbpedia.org/resource/Minnesota_Twins_minor_league_players
+0,93,M. Walker,http://dbpedia.org/resource/Mickey_Walker_(American_football),http://dbpedia.org/resource/Mike_Walker_(infielder)
+0,96,M. Rojas,http://dbpedia.org/resource/Minnie_Rojas,http://dbpedia.org/resource/Mike_Rojas
+0,100,M. Guerrero,http://dbpedia.org/resource/Miguel_Guerrero,http://dbpedia.org/resource/Mike_Guerrero
+0,101,M. Goff,http://dbpedia.org/resource/Mike_Goff_(American_football),http://dbpedia.org/resource/Mike_Goff_(baseball)
+0,110,M. Williams,http://dbpedia.org/resource/Marvin_Williams,http://dbpedia.org/resource/Matthew_Williams_(baseball) http://dbpedia.org/resource/Matthew_J._Williams
+0,112,M. Rizzotti,http://dbpedia.org/resource/Jennifer_Rizzotti,http://dbpedia.org/resource/Matt_Rizzotti
+0,115,M. Bischoff,http://dbpedia.org/resource/Mikkel_Bischoff,http://dbpedia.org/resource/Matthew_Bischoff http://dbpedia.org/resource/Matt_Bischoff
+0,116,M. Reed,http://dbpedia.org/resource/Mike_Reed_(American_football),http://dbpedia.org/resource/Marty_Reed
+0,119,M. Riggins,http://dbpedia.org/resource/John_Riggins,http://dbpedia.org/resource/Mark_Riggins
+0,120,M. Pawelek,http://dbpedia.org/resource/Ted_Pawelek,http://dbpedia.org/resource/Mark_Pawelek
+0,121,M. Minicozzi,,http://dbpedia.org/resource/Mark_Minicozzi
+0,122,M. Merchant,http://dbpedia.org/resource/Katherine_Merchant,http://dbpedia.org/resource/Mark_Merchant
+0,123,M. Hardy,http://dbpedia.org/resource/Mark_Hardy_(ice_hockey),http://dbpedia.org/resource/Mark_Hardy_(baseball)
+0,124,M. Cresse,http://dbpedia.org/resource/Brad_Cresse,http://dbpedia.org/resource/Mark_Cresse
+0,125,M. Berry,http://dbpedia.org/resource/Marty_Berry,http://dbpedia.org/resource/Mark_Berry_(baseball) http://dbpedia.org/resource/Mark_Berry_(baseball_player)
+0,128,M. Santiago,http://dbpedia.org/resource/Marcelo_Santiago,http://dbpedia.org/resource/Mario_Santiago_(baseball_player) http://dbpedia.org/resource/Mario_Santiago_(Baseball) http://dbpedia.org/resource/Mario_Santiago_(baseball)
+0,133,M. Tanaka,http://dbpedia.org/resource/Mina_Tanaka,http://dbpedia.org/resource/Marcio_Tanaka
+0,134,M. Culver,http://dbpedia.org/resource/Michael_Culver,http://dbpedia.org/resource/Malcom_Culver
+0,135,M. McDonnell,http://dbpedia.org/resource/Martin_McDonnell,http://dbpedia.org/resource/Maje_McDonnell
+0,136,M. Jenkins,http://dbpedia.org/resource/Michael_Jenkins_(wide_receiver),http://dbpedia.org/resource/Mack_Jenkins
+0,137,M. Marshall,http://dbpedia.org/resource/Mike_Marshall_(pitcher),http://dbpedia.org/resource/Mac_Marshall
+0,139,L. García,http://dbpedia.org/resource/Luis_García_Postigo,http://dbpedia.org/resource/Luis_Garcia_(third_baseman) http://dbpedia.org/resource/Luis_García_(third_baseman)
+0,141,L. Cruz,http://dbpedia.org/resource/Leone_Cruz,http://dbpedia.org/resource/Luis_Cruz_(pitcher)
+0,150,L. Strode,http://dbpedia.org/resource/Woody_Strode,http://dbpedia.org/resource/Lester_Strode
+0,153,L. Boyd,http://dbpedia.org/resource/Len_Boyd,http://dbpedia.org/resource/Leon_Boyd
+0,158,K. Tucker,http://dbpedia.org/resource/Ken_Tucker_(footballer),http://dbpedia.org/resource/Kyle_Tucker
+0,161,K. Russell,http://dbpedia.org/resource/Kelly_Russell,http://dbpedia.org/resource/Kyle_Russell
+0,163,K. Hunter,http://dbpedia.org/resource/Kendall_Hunter,http://dbpedia.org/resource/Kyle_Hunter_(baseball)
+0,164,K. Finnegan,http://dbpedia.org/resource/Cortland_Finnegan,http://dbpedia.org/resource/Kyle_Finnegan
+0,167,K. Kao,http://dbpedia.org/resource/Sharon_Kao,http://dbpedia.org/resource/Lo_Kuo-Hui http://dbpedia.org/resource/Lo_Kuo-hui http://dbpedia.org/resource/Kuo_Hui_Lo http://dbpedia.org/resource/Kuo-Hui_Kao
+0,168,K. Harvey,http://dbpedia.org/resource/Ken_Harvey_(American_football),http://dbpedia.org/resource/Kris_Harvey
+0,170,K. Newman,http://dbpedia.org/resource/Keith_Newman,http://dbpedia.org/resource/Kevin_Newman_(baseball)
+0,172,K. Long,http://dbpedia.org/resource/Kyle_Long,http://dbpedia.org/resource/Kevin_Long_(baseball)
+0,177,K. Davis,http://dbpedia.org/resource/Keith_Davis_(safety),http://dbpedia.org/resource/Kentrail_Davis
+0,178,K. Wilson,http://dbpedia.org/resource/Kris_Wilson_(American_football),http://dbpedia.org/resource/Kenny_Wilson_(baseball)
+0,181,K. Dugan,http://dbpedia.org/resource/Jeff_Dugan,http://dbpedia.org/resource/Kelly_Dugan
+0,184,K. Whitson,http://de.dbpedia.org/resource/Kimmy_Whitson,http://dbpedia.org/resource/Karsten_Whitson
+0,186,J. Simmons,http://dbpedia.org/resource/Jonathon_Simmons,http://dbpedia.org/resource/Justin_Simmons_(baseball)
+0,187,J. Pope,http://dbpedia.org/resource/Jason_Pope,http://dbpedia.org/resource/Justin_Pope
+0,189,J. Cassel,http://dbpedia.org/resource/Jack_Cassel,http://dbpedia.org/resource/Justin_Cassel
+0,191,J. López,http://dbpedia.org/resource/Javier_López_(baseball),http://dbpedia.org/resource/Juan_López_(baseball) http://dbpedia.org/resource/Juan_Lopez_(baseball_coach) http://dbpedia.org/resource/Juan_Lopez_(Cincinnati_Reds_coach) http://dbpedia.org/resource/Porky_Lopez http://dbpedia.org/resource/Juan_López_(Cincinnati_Reds_coach)

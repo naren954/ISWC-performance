@@ -1,0 +1,5 @@
+"F1: 0.70000","Precision: 0.70000","Recall: 0.70000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","3","Quicksand","http://dbpedia.org/resource/Quicksand_(Martha_and_the_Vandellas_song)","http://dbpedia.org/resource/Quicksand_(Bowie_song) http://dbpedia.org/resource/Quicksand_(David_Bowie_song)"
+"0","4","Question","http://dbpedia.org/resource/Question!","http://dbpedia.org/resource/Question_(The_Moody_Blues_song)"
+"0","9","Prisoner of Love","http://dbpedia.org/resource/Prisoner_of_Love_(Utada_Hikaru_song)","http://dbpedia.org/resource/Prisoner_Of_Love_(1931_song) http://dbpedia.org/resource/Prisoner_of_Love_(1931_song) http://dbpedia.org/resource/Prisoner_of_Love_(Russ_Columbo_song)"

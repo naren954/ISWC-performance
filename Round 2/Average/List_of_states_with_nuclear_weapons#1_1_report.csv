@@ -1,0 +1,4 @@
+F1: 0.66667,Precision: 0.66667,Recall: 0.66667,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,2,BÃ¼chel,http://de.dbpedia.org/resource/Büchel_(bei_Naaf),http://dbpedia.org/resource/Büchel_Air_Base
+1,4,Aviano,http://dbpedia.org/resource/Aviano_railway_station,http://dbpedia.org/resource/Aviano_AB http://dbpedia.org/resource/Aviano_AFB http://dbpedia.org/resource/Aviano_Air_Base

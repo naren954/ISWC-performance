@@ -1,0 +1,5 @@
+"F1: 0.95890","Precision: 0.95890","Recall: 0.95890"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","16","Roberto","http://dbpedia.org/resource/Roberto_Marinho","http://dbpedia.org/resource/Robt http://dbpedia.org/resource/Robert http://dbpedia.org/resource/Roope http://dbpedia.org/resource/Robbert http://dbpedia.org/resource/List_of_famous_Roberts http://dbpedia.org/resource/Robt. http://dbpedia.org/resource/Roberto http://dbpedia.org/resource/Robert_(name)"
+"1","27","Imperator","http://dbpedia.org/resource/Swordfish","http://dbpedia.org/resource/Imperator_(horse)"
+"1","44","Roberto","http://dbpedia.org/resource/Roberto_Marinho","http://dbpedia.org/resource/Roberto_(horse)"

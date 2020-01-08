@@ -1,0 +1,4 @@
+F1: 0.71429,Precision: 0.71429,Recall: 0.71429,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,4,SunExpress Deutschland,http://dbpedia.org/resource/SunExpress,http://dbpedia.org/resource/SunExpress_Deutschland http://dbpedia.org/resource/Sun_Express_Deutschland
+0,5,TUIfly,http://dbpedia.org/resource/TUI_fly_Deutschland,http://dbpedia.org/resource/MyTUIfly http://dbpedia.org/resource/TUIfly_Vermarktungs_GmbH http://dbpedia.org/resource/TUIFly http://dbpedia.org/resource/TUIfly_Nordic_destinations http://dbpedia.org/resource/TUIfly.com http://dbpedia.org/resource/TuiFly http://dbpedia.org/resource/Tuifly http://dbpedia.org/resource/Tuifly.com http://dbpedia.org/resource/TUIfly

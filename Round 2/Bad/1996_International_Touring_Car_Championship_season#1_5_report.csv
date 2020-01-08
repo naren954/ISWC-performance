@@ -1,0 +1,8 @@
+F1: 0.40000,Precision: 0.40000,Recall: 0.40000,,
+Col,Row,Value,Submitted URI,Correct URI's
+5,4,,,http://dbpedia.org/resource/Jörg_van_Ommen
+5,8,,,http://dbpedia.org/resource/Hans-Joachim_Stuck http://dbpedia.org/resource/Hans_Joachim_Stuck
+5,10,,,http://dbpedia.org/resource/Uwe_Alzen
+5,20,,,http://dbpedia.org/resource/Bernd_Schneider_(auto_racing) http://dbpedia.org/resource/Bernd_Schneider_(racing_driver) http://dbpedia.org/resource/Bernd_Schneider_(racecar_driver)
+5,21,Klaus Ludwig,http://dbpedia.org/resource/Klaus_Ludwig,http://dbpedia.org/resource/Uwe_Alzen
+5,26,,,http://dbpedia.org/resource/Bernd_Schneider_(auto_racing) http://dbpedia.org/resource/Bernd_Schneider_(racing_driver) http://dbpedia.org/resource/Bernd_Schneider_(racecar_driver)

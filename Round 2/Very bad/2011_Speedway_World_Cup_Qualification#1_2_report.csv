@@ -1,0 +1,6 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,1,Germany,http://dbpedia.org/resource/Germany,http://dbpedia.org/resource/Germany_speedway_team http://dbpedia.org/resource/Germany_national_speedway_team
+2,2,United States,http://dbpedia.org/resource/United_States_Marine_Corps,http://dbpedia.org/resource/United_States_national_speedway_team http://dbpedia.org/resource/USA_speedway_team http://dbpedia.org/resource/USA_national_speedway_team
+2,3,Finland,http://dbpedia.org/resource/Finland,http://dbpedia.org/resource/Finland_national_speedway_team
+2,4,Ukraine,http://dbpedia.org/resource/Ukraine,http://dbpedia.org/resource/Ukraine_national_speedway_team

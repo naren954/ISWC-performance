@@ -1,0 +1,4 @@
+F1: 0.88889,Precision: 0.88889,Recall: 0.88889,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,4,Dynamo-2 Kyiv,http://dbpedia.org/resource/FC_Dynamo_Kyiv,http://dbpedia.org/resource/Dynamo-2_Kyiv http://dbpedia.org/resource/FC_Dynamo-2_Kyiv
+0,9,Obolon Kyiv,http://dbpedia.org/resource/FC_Obolon-Brovar_Kyiv,http://dbpedia.org/resource/FC_Obolon_Kyiv

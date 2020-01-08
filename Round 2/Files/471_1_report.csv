@@ -1,0 +1,4 @@
+"F1: 0.80000","Precision: 0.80000","Recall: 0.80000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","2","C. Brown","http://dbpedia.org/resource/Chris_Brown","http://dbpedia.org/resource/Clancy_Brown http://dbpedia.org/resource/Clarence_J._Brown_III http://dbpedia.org/resource/Clarence_J._""Clancy""_Brown_III"
+"1","7","J. Garza","http://dbpedia.org/resource/Jaime_Garza_(actor)","http://dbpedia.org/resource/Jaime_Garza"

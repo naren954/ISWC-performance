@@ -1,0 +1,7 @@
+"F1: 0.75000","Precision: 0.75000","Recall: 0.75000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","4","In a Mellow Mood","http://dbpedia.org/resource/The_Temptations_in_a_Mellow_Mood","http://dbpedia.org/resource/In_a_Mellow_Mood http://dbpedia.org/resource/In_A_Mellow_Mood"
+"1","12","Milk Tea","http://dbpedia.org/resource/Milk_Tea/Utsukushiki_Hana","http://dbpedia.org/resource/Milk_Tea_(song)"
+"1","13","Platinum","http://dbpedia.org/resource/Platinum_(Miranda_Lambert_album)","http://dbpedia.org/resource/Purachina_(song) http://dbpedia.org/resource/Platinum_(song) http://dbpedia.org/resource/Platina_(song)"
+"1","14","Do or Die","http://dbpedia.org/resource/Do_or_Die_(Thirty_Seconds_to_Mars_song)","http://dbpedia.org/resource/Do_or_Die_(Super_Furry_Animals_song)"
+"1","20","Alive","http://dbpedia.org/resource/Alive_(Sia_song)","http://dbpedia.org/resource/Alive_(P.O.D._Single) http://dbpedia.org/resource/Alive_(P.O.D._song)"

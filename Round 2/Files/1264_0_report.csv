@@ -1,0 +1,5 @@
+"F1: 0.93023","Precision: 0.93023","Recall: 0.93023"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","4","Biology","http://dbpedia.org/resource/PLOS_Biology","http://dbpedia.org/resource/Biology_(journal)"
+"0","17","Atmosphere","http://fr.dbpedia.org/resource/Atmosphère_(magazine)","http://dbpedia.org/resource/Atmosphere_(journal)"
+"0","32","Antiviral Therapy","http://dbpedia.org/resource/Antiviral_Therapy_(journal)","http://dbpedia.org/resource/Antiviral_Therapy http://dbpedia.org/resource/Antiviral_therapy"

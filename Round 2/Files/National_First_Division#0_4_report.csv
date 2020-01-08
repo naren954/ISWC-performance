@@ -1,0 +1,6 @@
+"F1: 0.71429","Precision: 0.71429","Recall: 0.71429"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"4","10","Bloemfontein Young Tigers","http://dbpedia.org/resource/Harimau_Muda_B","http://dbpedia.org/resource/Bloemfontein_Young_Tigers"
+"4","11","Silver Stars","http://dbpedia.org/resource/Platinum_Stars_F.C.","http://dbpedia.org/resource/Silver_Star http://dbpedia.org/resource/Silver_Stars http://dbpedia.org/resource/Silver_star http://dbpedia.org/resource/The_Silver_Star_Medal http://dbpedia.org/resource/Silver_Star_Medal"
+"4","24","African Warriors","http://dbpedia.org/resource/Ajax_Cape_Town_F.C.","http://dbpedia.org/resource/African_Warriors http://dbpedia.org/resource/African_Warriors_F.C. http://dbpedia.org/resource/Jabu_Khumalo"
+"4","28","Blackburn Rovers","http://dbpedia.org/resource/Blackburn_Rovers_F.C.","http://dbpedia.org/resource/Blackburn_Rovers_F.C._(South_Africa) http://dbpedia.org/resource/Blackburn_Rovers_FC_(South_Africa)"

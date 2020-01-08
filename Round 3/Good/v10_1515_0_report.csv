@@ -1,0 +1,5 @@
+F1: 0.80000,Precision: 0.80000,Recall: 0.80000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,E. Alfieri,http://it.dbpedia.org/resource/Enrico_Alfieri,http://dbpedia.org/resource/Enrichetta_Alfieri
+0,12,E. Sanna,http://de.dbpedia.org/resource/Ignazio_Sanna,http://dbpedia.org/resource/Elisabetta_Sanna_Porcu http://dbpedia.org/resource/Elisabetta_Sanna
+0,14,E. M. Satellico,http://dbpedia.org/resource/E._M._Delafield,http://dbpedia.org/resource/Elisabetta_Maria_Satellico

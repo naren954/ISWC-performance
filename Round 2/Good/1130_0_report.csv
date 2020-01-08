@@ -1,0 +1,5 @@
+F1: 0.80000,Precision: 0.80000,Recall: 0.80000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,"Pittsgrove Township, New Jersey","http://dbpedia.org/resource/Union_Township,_Union_County,_New_Jersey","http://dbpedia.org/resource/Pittsgrove_Township,_NJ http://dbpedia.org/resource/Pittsgrove_Township,_Salem_County,_New_Jersey http://dbpedia.org/resource/Pittsgrove,_New_Jersey http://dbpedia.org/resource/Pittsgrove http://dbpedia.org/resource/Pittsgrove_(NJ) http://dbpedia.org/resource/Pittsgrove_Township,_New_Jersey http://dbpedia.org/resource/Pittsgrove,_NJ"
+0,7,"Pine Bush, New York","http://dbpedia.org/resource/Pine_Plains_(CDP),_New_York","http://dbpedia.org/resource/Pine_Bush,_NY http://dbpedia.org/resource/Pine_Bush,_New_York http://dbpedia.org/resource/UN/LOCODE:USYPN http://dbpedia.org/resource/Pine_Bush_(NY)"
+0,14,Phelps,"http://dbpedia.org/resource/Phelps,_Wisconsin","http://dbpedia.org/resource/Phelps_(village),_New_York http://dbpedia.org/resource/Phelps_(village),_Ontario_County,_New_York"

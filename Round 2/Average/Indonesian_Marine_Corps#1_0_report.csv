@@ -1,0 +1,5 @@
+F1: 0.70000,Precision: 0.70000,Recall: 0.70000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,4,AMX-10P,http://dbpedia.org/resource/AMX-13,http://dbpedia.org/resource/AMX_10_P http://dbpedia.org/resource/AMX-10 http://dbpedia.org/resource/AMX-10P
+0,8,BTR-50,http://dbpedia.org/resource/BTR-80,http://dbpedia.org/resource/BTR-50PU http://dbpedia.org/resource/BTR-50PUM1 http://dbpedia.org/resource/BTR-50P http://dbpedia.org/resource/BTR-50 http://dbpedia.org/resource/BTR-50PK http://dbpedia.org/resource/BTR-50PUM http://dbpedia.org/resource/BTR-50YVI
+0,11,PTS,http://dbpedia.org/resource/Princeton_Theological_Seminary,http://dbpedia.org/resource/PTS-M http://dbpedia.org/resource/PTS_(amphibious_vehicle) http://dbpedia.org/resource/PTS_(vehicle)

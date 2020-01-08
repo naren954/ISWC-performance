@@ -1,0 +1,4 @@
+F1: 0.77778,Precision: 0.77778,Recall: 0.77778,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,W. Collins,http://dbpedia.org/resource/Wilkie_Collins,http://dbpedia.org/resource/William_Collins_(bishop) http://dbpedia.org/resource/William_Edward_Collins
+0,3,R. McCoy,http://dbpedia.org/resource/Robert_McCoy,http://dbpedia.org/resource/Randall_McCoy http://dbpedia.org/resource/Randolph_McCoy

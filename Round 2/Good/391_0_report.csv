@@ -1,0 +1,34 @@
+F1: 0.79355,Precision: 0.79355,Recall: 0.79355,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,I. Francis,http://dbpedia.org/resource/Francis_I_of_France,http://dbpedia.org/resource/Ivor_Francis
+0,3,I. E. Cody,http://dbpedia.org/resource/Buffalo_Bill,http://dbpedia.org/resource/Crying_Indian http://dbpedia.org/resource/Iron_eyes_Cody http://dbpedia.org/resource/Iron_Eyes_Cody http://dbpedia.org/resource/Espera_DeCorti http://dbpedia.org/resource/Iron-Eyes_Cody http://dbpedia.org/resource/Crying_indian http://dbpedia.org/resource/Espera_De_Corti http://dbpedia.org/resource/Sad_indian
+0,13,I. MacDonald,http://dbpedia.org/resource/Jeanette_MacDonald,"http://dbpedia.org/resource/Ian_MacDonald_(actor) http://dbpedia.org/resource/Ian_Macdonald,_Actor"
+0,17,H. Green,http://dbpedia.org/resource/Hetty_Green,"http://dbpedia.org/resource/Hughie_Greene http://dbpedia.org/resource/Hughie_Green http://dbpedia.org/resource/Hughie_Green,_Most_Sincerely http://dbpedia.org/resource/Hughy_Green"
+0,24,H. Gibson,http://dbpedia.org/resource/Henry_Gibson,http://dbpedia.org/resource/Hoot_Gibson
+0,25,H. Herbert,http://dbpedia.org/resource/George_H._W._Bush,http://dbpedia.org/resource/Holmes_Edward_Herbert http://dbpedia.org/resource/Homes_E._Herbert http://dbpedia.org/resource/Edward_Sanger http://dbpedia.org/resource/Holmes_E._Herbert http://dbpedia.org/resource/Holmes_Herbert http://dbpedia.org/resource/H.E._Herbert
+0,35,H. Rosson,http://dbpedia.org/resource/Richard_Rosson,http://dbpedia.org/resource/Helene_Rosson
+0,38,H. Chandler,http://dbpedia.org/resource/Jeff_Chandler,http://dbpedia.org/resource/Helen_Chandler
+0,41,H. Hopper,http://dbpedia.org/resource/Dennis_Hopper,"http://dbpedia.org/resource/Hedda_Hopper http://dbpedia.org/resource/Hopper,_Hedda http://dbpedia.org/resource/Elda_Furry"
+0,46,H. Wilson,http://dbpedia.org/resource/Tony_Wilson,http://dbpedia.org/resource/Harry_Wilson_(actor)
+0,53,H. Beaumont,http://dbpedia.org/resource/Hugh_Beaumont,http://dbpedia.org/resource/Harry_Beaumont
+0,56,H. Nelson,"http://dbpedia.org/resource/Horatio_Nelson,_1st_Viscount_Nelson",http://dbpedia.org/resource/Peggy_Lou_Snyder http://dbpedia.org/resource/Harriet_Hilliard http://dbpedia.org/resource/Harriet_Hilliard_Nelson http://dbpedia.org/resource/Harriet_Nelson
+0,63,H. Smith,http://dbpedia.org/resource/Howard_Smith_(director),http://dbpedia.org/resource/Hal_Smith_(actor) http://dbpedia.org/resource/Harold_John_Smith
+0,69,G. Philipp,http://dbpedia.org/resource/Georg_Philipp_Telemann,http://dbpedia.org/resource/Gunther_Philipp
+0,79,G. Kelly,http://dbpedia.org/resource/Gene_Kelly,"http://dbpedia.org/resource/Grace_kelly http://dbpedia.org/resource/Grace_Patricia_Kelly http://dbpedia.org/resource/Grace_Kelly http://dbpedia.org/resource/Princess_Grace http://dbpedia.org/resource/Princess_Grace_of_Monaco http://dbpedia.org/resource/Gracekelly http://dbpedia.org/resource/Gracia,_Princess_of_Monaco http://dbpedia.org/resource/GracePatriciaKelly http://dbpedia.org/resource/Grace_de_Monaco http://dbpedia.org/resource/Grace_of_Monaco http://dbpedia.org/resource/Grace_Kelly,_Princess_of_Monaco http://dbpedia.org/resource/Grace_of_monaco http://dbpedia.org/resource/Grace,_Princess_of_Monaco"
+0,87,G. Grey,http://dbpedia.org/resource/George_Grey,http://dbpedia.org/resource/Gloria_Grey
+0,92,G. Ford,http://dbpedia.org/resource/Gerald_Ford,"http://dbpedia.org/resource/Glenn_Ford http://dbpedia.org/resource/Ford,_Glenn http://dbpedia.org/resource/Glen_Ford http://dbpedia.org/resource/Gwyllyn_Ford http://dbpedia.org/resource/Gwyllyn_Samuel_Newton_Ford"
+0,95,G. Moreno,http://dbpedia.org/resource/Gaby_Moreno,http://dbpedia.org/resource/Kuya_Germs http://dbpedia.org/resource/German_Moreno http://dbpedia.org/resource/German_Moreno_Youth_Awardee
+0,104,G. Meeker,http://dbpedia.org/resource/Ralph_Meeker,http://dbpedia.org/resource/George_Meeker
+0,105,G. Lindsey,http://dbpedia.org/resource/Lindsey_Graham,"http://dbpedia.org/resource/George_""Goober""_Lindsey http://dbpedia.org/resource/George_Lindsey"
+0,113,G. Evans,http://dbpedia.org/resource/Gary_Evans_(serial_killer),http://dbpedia.org/resource/Gene_Evans
+0,115,G. Vinson,http://dbpedia.org/resource/Eddie_Vinson,http://dbpedia.org/resource/Gary_Vinson
+0,116,G. Gray,http://dbpedia.org/resource/Glen_Gray,http://dbpedia.org/resource/Gary_Gray_(actor) http://dbpedia.org/resource/Gary_Dickson_Gray
+0,119,G. Russell,http://dbpedia.org/resource/George_Russell_(composer),http://dbpedia.org/resource/Gail_Russell
+0,124,F. Kerr,http://dbpedia.org/resource/Deborah_Kerr,http://dbpedia.org/resource/Frederick_Keen http://dbpedia.org/resource/Frederick_Grinham_Keen http://dbpedia.org/resource/Frederick_Kerr
+0,125,F. Stone,http://dbpedia.org/resource/Ezra_Stone,http://dbpedia.org/resource/Fred_Stone http://dbpedia.org/resource/Fred_A._Stone
+0,128,F. Hampton,http://dbpedia.org/resource/Lionel_Hampton,http://dbpedia.org/resource/Death_of_Fred_Hampton http://dbpedia.org/resource/Fred_Hampton's_murder_as_a_catalyst http://dbpedia.org/resource/Fred_Hampton's_Murder_as_a_Catalyst http://dbpedia.org/resource/Fred_Hampton
+0,129,F. Berry,"http://dbpedia.org/resource/Charles_Ferdinand,_Duke_of_Berry","http://dbpedia.org/resource/Fred_""Rerun""_Berry http://dbpedia.org/resource/Fred_Berry"
+0,139,F. Merrill,http://dbpedia.org/resource/Dina_Merrill,http://dbpedia.org/resource/Frank_Merrill_(actor)
+0,150,F. Lederer,http://dbpedia.org/resource/Charles_Lederer,http://dbpedia.org/resource/František_Lederer http://dbpedia.org/resource/Francis_Lederer http://dbpedia.org/resource/Frantisek_Lederer
+0,153,F. Tucker,http://dbpedia.org/resource/Mick_Tucker,http://dbpedia.org/resource/Forrest_Tucker
+0,154,F. Rainey,http://dbpedia.org/resource/Ma_Rainey,http://dbpedia.org/resource/Ford_Rainey

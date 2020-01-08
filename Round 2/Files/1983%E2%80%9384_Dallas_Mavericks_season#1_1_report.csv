@@ -1,0 +1,4 @@
+"F1: 0.50000","Precision: 0.50000","Recall: 0.50000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","13","San Diego Clippers","http://dbpedia.org/resource/San_Diego_County,_California","http://dbpedia.org/resource/Los_Angeles_Clippers http://dbpedia.org/resource/L.A._Clippers http://dbpedia.org/resource/Clippers,_Los_Angeles http://dbpedia.org/resource/Clippers http://dbpedia.org/resource/La_clippers http://dbpedia.org/resource/Lob_city http://dbpedia.org/resource/The_Clippers http://dbpedia.org/resource/LA_Clippers http://dbpedia.org/resource/Lob_City http://dbpedia.org/resource/Los_Angeles_Clipper http://dbpedia.org/resource/San_Diego_Clippers"
+"1","14","Houston Rockets","http://dbpedia.org/resource/Houston","http://dbpedia.org/resource/San_Diego_Rockets http://dbpedia.org/resource/Twin_Towers_(Houston_Rockets) http://dbpedia.org/resource/Houston_Rockets"

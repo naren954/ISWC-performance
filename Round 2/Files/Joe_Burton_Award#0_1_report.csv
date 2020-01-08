@@ -1,0 +1,5 @@
+"F1: 0.81250","Precision: 0.81250","Recall: 0.81250"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","7","Derek Grant","http://dbpedia.org/resource/Derek_Grant_(ice_hockey,_born_1990)","http://dbpedia.org/resource/Derek_Grant_(ice_hockey,_born_1974) http://dbpedia.org/resource/Derek_Grant_(ice_hockey_b._1974)"
+"1","9","Yvan Corbin","nan","http://dbpedia.org/resource/Yvan_Corbin"
+"1","10","Dan Price","http://dbpedia.org/resource/Colin_Price","http://dbpedia.org/resource/Dan_Price"

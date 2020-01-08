@@ -1,0 +1,6 @@
+F1: 0.71429,Precision: 0.71429,Recall: 0.71429,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,S. Baker,http://dbpedia.org/resource/Sam_Baker_(offensive_tackle),http://dbpedia.org/resource/Loris_Hoskins_Baker http://dbpedia.org/resource/Sam_Baker_(halfback)
+0,7,S. Saffold,http://dbpedia.org/resource/Rodger_Saffold,http://dbpedia.org/resource/Saint_Saffold
+0,9,R. Robinson,http://dbpedia.org/resource/Ramzee_Robinson,http://dbpedia.org/resource/Ryne_Robinson
+0,10,R. Melancon,http://dbpedia.org/resource/Mark_Melancon,http://dbpedia.org/resource/Rydell_Malancon http://dbpedia.org/resource/Rydell_Melancon

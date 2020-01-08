@@ -1,0 +1,19 @@
+F1: 0.71186,Precision: 0.71186,Recall: 0.71186,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,6,Povoação,"http://dbpedia.org/resource/Povoação,_Azores",http://dbpedia.org/resource/Povoacao_(parish) http://dbpedia.org/resource/Povoação_(parish)
+0,8,Povoação,"http://dbpedia.org/resource/Povoação,_Azores",http://dbpedia.org/resource/Povoacao_(parish) http://dbpedia.org/resource/Povoação_(parish)
+0,24,Pawling,"http://dbpedia.org/resource/Pawling_(village),_New_York","http://dbpedia.org/resource/West_Pawling,_New_York http://dbpedia.org/resource/Pawling_(town),_New_York http://dbpedia.org/resource/Holmes,_New_York http://dbpedia.org/resource/Pawling_(town),_Dutchess_County,_New_York"
+0,27,Paese,http://dbpedia.org/resource/Wales,http://dbpedia.org/resource/Paese_(commune) http://dbpedia.org/resource/Castagnole_(Paese) http://dbpedia.org/resource/Paese
+0,30,Nossa Senhora do Rosário,http://dbpedia.org/resource/Topo_(Calheta),http://dbpedia.org/resource/Nossa_Senhora_do_Rosario_(Lagoa) http://dbpedia.org/resource/Nossa_Senhora_do_Rosário http://dbpedia.org/resource/Nossa_Senhora_do_Rosario http://dbpedia.org/resource/Nossa_Senhora_do_Rosário_(Lagoa)
+0,31,"North Greenbush, New York","http://dbpedia.org/resource/East_Greenbush,_New_York","http://dbpedia.org/resource/North_Greenbush http://dbpedia.org/resource/Defreestville,_New_York http://dbpedia.org/resource/North_Greenbush,_NY http://dbpedia.org/resource/Defreestville,_NY http://dbpedia.org/resource/North_Greenbush,_New_York"
+0,36,"New Paltz, New York","http://dbpedia.org/resource/New_Paltz_(village),_New_York","http://dbpedia.org/resource/New_Paltz http://dbpedia.org/resource/New_Paltz,_New_York http://dbpedia.org/resource/New_Paltz_(town),_New_York http://dbpedia.org/resource/New_Paltz_(town),_Ulster_County,_New_York http://dbpedia.org/resource/New_Paltz_(NY)"
+0,39,Mosteiro,http://dbpedia.org/resource/Mosteirô,http://dbpedia.org/resource/Mosteiro_(Lajes_das_Flores)
+0,40,Montijo,"http://dbpedia.org/resource/Montijo,_Spain",http://dbpedia.org/resource/Montijo_(parish)
+0,41,Montgomery,"http://dbpedia.org/resource/Montgomery,_Alabama","http://dbpedia.org/resource/Montgomery_(village),_Orange_County,_New_York http://dbpedia.org/resource/Montgomery_(village),_New_York"
+0,42,"Montgomery, New York","http://dbpedia.org/resource/Montgomery_(village),_New_York","http://dbpedia.org/resource/Montgomery,_NY http://dbpedia.org/resource/Montgomery_(town),_New_York http://dbpedia.org/resource/Montgomery_(town),_Orange_County,_New_York http://dbpedia.org/resource/Montgomery_(NY) http://dbpedia.org/resource/Montgomery_(town),_NY http://dbpedia.org/resource/Montgomery,_New_York"
+0,43,Monroe,"http://dbpedia.org/resource/Monroe_County,_Florida","http://dbpedia.org/resource/Monroe_(village),_New_York http://dbpedia.org/resource/Smith's_Clove http://dbpedia.org/resource/Monroe_(village),_Orange_County,_New_York"
+0,49,Matriz,http://dbpedia.org/resource/Matriz_(Ribeira_Grande),"http://dbpedia.org/resource/Matriz,_Horta,_Azores_Islands http://dbpedia.org/resource/Matriz,_Horta,_Azores http://dbpedia.org/resource/Matriz_(Horta)"
+0,51,Manadas,http://dbpedia.org/resource/Manado,http://dbpedia.org/resource/Manadas
+0,52,Maia,"http://dbpedia.org/resource/Maia,_Portugal",http://dbpedia.org/resource/Maia_(Ribeira_Grande)
+0,55,Madalena,"http://dbpedia.org/resource/Madalena,_Azores",http://dbpedia.org/resource/Madalena_(Madalena)
+0,57,Luz,http://de.dbpedia.org/resource/Luz_(Lagos),http://dbpedia.org/resource/Luz_(Santa_Cruz_da_Graciosa)

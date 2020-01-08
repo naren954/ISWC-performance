@@ -1,0 +1,6 @@
+F1: 0.42857,Precision: 0.42857,Recall: 0.42857,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,P. Singer,http://dbpedia.org/resource/Paris_Singer,http://dbpedia.org/resource/NML_Capital_Limited http://dbpedia.org/resource/Paul_E._Singer http://dbpedia.org/resource/NML_Capital http://dbpedia.org/resource/Paul_Singer_(businessman)
+0,3,M. Kassam,http://dbpedia.org/resource/Raheem_Kassam,http://dbpedia.org/resource/Moez_Kassam
+0,5,B. Gross,http://dbpedia.org/resource/Bill_H._Gross,http://dbpedia.org/resource/Bill_Gross http://dbpedia.org/resource/William_H._Gross http://dbpedia.org/resource/Bill_Gross_(PIMCO) http://dbpedia.org/resource/Bill_Gross_(mutuals) http://dbpedia.org/resource/William_Gross
+0,6,A. Bundy,http://dbpedia.org/resource/Ted_Bundy,http://dbpedia.org/resource/Ammon_Bndy http://dbpedia.org/resource/Ammon_Bundy http://dbpedia.org/resource/Ammon_Edward_Bundy http://dbpedia.org/resource/Amon_Bundy http://dbpedia.org/resource/Ammon_Bunddy

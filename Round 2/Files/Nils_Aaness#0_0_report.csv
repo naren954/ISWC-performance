@@ -1,0 +1,4 @@
+"F1: 0.33333","Precision: 0.33333","Recall: 0.33333"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","1","Winter Olympics","http://dbpedia.org/resource/Winter_Olympics_(video_game)","http://dbpedia.org/resource/Speed_skating_at_the_Olympics http://dbpedia.org/resource/Speed_skating_at_the_Winter_Olympics"
+"0","2","World Allround","http://dbpedia.org/resource/World_Junior_Speed_Skating_Championships","http://dbpedia.org/resource/World_Allround_Speed_Skating_Championships http://dbpedia.org/resource/World_All-Round_Speed_Skating_Championships http://dbpedia.org/resource/Men_allround_speedskating_worldchampionship"

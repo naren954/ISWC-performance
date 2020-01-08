@@ -1,0 +1,5 @@
+F1: 0.75000,Precision: 0.75000,Recall: 0.75000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,Accelerator,http://dbpedia.org/resource/Particle_accelerator,http://dbpedia.org/resource/Accelerator_(software) http://dbpedia.org/resource/Accelerator_(Software)
+0,39,PHPRunner,,http://dbpedia.org/resource/PHPRunner
+0,47,T4,http://dbpedia.org/resource/Kawasaki_T-4,http://dbpedia.org/resource/Text_Template_Transformation_Toolkit

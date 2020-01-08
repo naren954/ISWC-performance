@@ -1,0 +1,5 @@
+F1: 0.92500,Precision: 0.92500,Recall: 0.92500,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,8,The Unexpected,http://dbpedia.org/resource/Unexpected_(Star_Trek:_Enterprise),http://dbpedia.org/resource/The_Unexpected_(novel) http://dbpedia.org/resource/The_Unexpected_(Animorphs)
+0,9,The Underground,http://dbpedia.org/resource/The_Velvet_Underground_(album),http://dbpedia.org/resource/The_Underground_(Animorphs) http://dbpedia.org/resource/The_Underground_(Applegate_novel) http://dbpedia.org/resource/The_Underground_(novel)
+0,25,The Test,http://dbpedia.org/resource/Tested,http://dbpedia.org/resource/The_Test_(Applegate_novel) http://dbpedia.org/resource/The_Test_(Animorphs)

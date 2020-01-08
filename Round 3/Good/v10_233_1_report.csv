@@ -1,0 +1,14 @@
+F1: 0.92258,Precision: 0.92258,Recall: 0.92258,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,13,1962 United States Grand Prix,http://dbpedia.org/resource/1960_United_States_Grand_Prix,http://dbpedia.org/resource/1962_United_States_Grand_Prix
+1,29,1970 United States Grand Prix,http://dbpedia.org/resource/1960_United_States_Grand_Prix,http://dbpedia.org/resource/1970_United_States_Grand_Prix
+1,36,1950 Belgian Grand Prix,http://dbpedia.org/resource/1950_British_Grand_Prix,http://dbpedia.org/resource/1950_Belgian_Grand_Prix
+1,46,1984 Portuguese Grand Prix,http://dbpedia.org/resource/1991_Portuguese_Grand_Prix,http://dbpedia.org/resource/1984_Portuguese_Grand_Prix
+1,55,1961 United States Grand Prix,http://dbpedia.org/resource/1960_United_States_Grand_Prix,http://dbpedia.org/resource/1961_United_States_Grand_Prix
+1,58,1951 Swiss Grand Prix,http://dbpedia.org/resource/1951_Spanish_Grand_Prix,http://dbpedia.org/resource/1951_Swiss_Grand_Prix
+1,69,1995 Brazilian Grand Prix,http://dbpedia.org/resource/1995_Argentine_Grand_Prix,http://dbpedia.org/resource/1995_Brazilian_Grand_Prix
+1,88,1953 Argentine Grand Prix,http://dbpedia.org/resource/1975_Argentine_Grand_Prix,http://dbpedia.org/resource/1953_Argentine_Grand_Prix
+1,93,1953 Argentine Grand Prix,http://dbpedia.org/resource/1975_Argentine_Grand_Prix,http://dbpedia.org/resource/1953_Argentine_Grand_Prix
+1,110,1959 Portuguese Grand Prix,http://dbpedia.org/resource/1991_Portuguese_Grand_Prix,http://dbpedia.org/resource/1959_Portuguese_Grand_Prix
+1,129,1981 United States Grand Prix West,http://dbpedia.org/resource/1983_United_States_Grand_Prix_West,http://dbpedia.org/resource/1981_United_States_Grand_Prix_West http://dbpedia.org/resource/1981_United_States_West_Grand_Prix http://dbpedia.org/resource/1981_USA_West_Grand_Prix
+1,135,1961 Vienna Grand Prix,http://dbpedia.org/resource/1961_French_Grand_Prix,http://dbpedia.org/resource/1961_Vienna_Grand_Prix

@@ -1,0 +1,17 @@
+F1: 0.62500,Precision: 0.62500,Recall: 0.62500,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,AtatÃ¼rk International Airport,http://dbpedia.org/resource/Istanbul_Atatürk_Airport,http://dbpedia.org/resource/Atatürk_International_Airport
+1,3,Sabiha GÃ¶kÃ§en International Airport,http://dbpedia.org/resource/Istanbul_Sabiha_Gökçen_International_Airport,http://dbpedia.org/resource/Sabiha_Gökçen_International_Airport
+1,4,Adnan Menderes Airport,http://dbpedia.org/resource/Izmir_Adnan_Menderes_Airport,http://dbpedia.org/resource/LTBJ http://dbpedia.org/resource/İzmir_Adnan_Menderes_International_Airport http://dbpedia.org/resource/Adnan_Menderes_(airport) http://dbpedia.org/resource/Adnan_Menderes_Havalimani http://dbpedia.org/resource/Adnan_Menderes_International_Airport http://dbpedia.org/resource/Izmir_Airport http://dbpedia.org/resource/Izmir_Adnan_Menderes_International_Airport http://dbpedia.org/resource/Adnan_Menderes_Airport
+1,5,EsenboÄ\u009Fa International Airport,http://dbpedia.org/resource/Faa'a_International_Airport,http://dbpedia.org/resource/Esenboğa_International_Airport
+1,8,Adana Å\u009EakirpaÅ\u009Fa Airport,http://dbpedia.org/resource/Russia,http://dbpedia.org/resource/Adana_Şakirpaşa_Airport
+1,11,OÄ\u009Fuzeli Airport,http://dbpedia.org/resource/Atuona_Airport,http://dbpedia.org/resource/LTAJ http://dbpedia.org/resource/Oğuzeli_Airport http://dbpedia.org/resource/Oğuzeli_(airport) http://dbpedia.org/resource/Oguzeli_Airport http://dbpedia.org/resource/GZT http://dbpedia.org/resource/Gaziantep_Airport
+1,13,Samsun-Ã\u0087arÅ\u009Famba Airport,http://dbpedia.org/resource/U_(disambiguation),http://dbpedia.org/resource/Samsun-Çarşamba_Airport
+1,19,ElazÄ±Ä\u009F Airport,http://dbpedia.org/resource/Laurel_Airport,http://dbpedia.org/resource/Elazığ_Airport
+1,21,Å\u009EanlÄ±urfa GAP Airport,http://dbpedia.org/resource/Şanlıurfa_GAP_Stadium,http://dbpedia.org/resource/Şanlıurfa_GAP_Airport
+1,24,MuÅ\u009F Airport,,http://dbpedia.org/resource/Muş_Airport
+1,28,AÄ\u009FrÄ± Airport,http://dbpedia.org/resource/A9_highway_(Sri_Lanka),http://dbpedia.org/resource/Ağrı_Airport
+1,30,Bursa YeniÅ\u009Fehir Airport,http://dbpedia.org/resource/Yenişehir_Airport,http://dbpedia.org/resource/Bursa_Yenişehir_Airport
+1,32,Ã\u0087anakkale Airport,http://dbpedia.org/resource/Ronald_Reagan_Washington_National_Airport_station,http://dbpedia.org/resource/Çanakkale_Airport
+1,33,BalÄ±kesir KÃ¶rfez Airport,http://dbpedia.org/resource/Balıkesir_Koca_Seyit_Airport,http://dbpedia.org/resource/Edremit_Körfez_Airport
+1,37,TekirdaÄ\u009F Ã\u0087orlu Airport,,http://dbpedia.org/resource/Tekirdağ_Çorlu_Airport

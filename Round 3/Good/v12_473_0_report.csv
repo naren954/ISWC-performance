@@ -1,0 +1,6 @@
+F1: 0.95918,Precision: 0.95918,Recall: 0.95918,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,10,Efferent arteriole,http://dbpedia.org/resource/Afferent_arterioles,http://dbpedia.org/resource/Arteriola_glomerularis_efferens http://dbpedia.org/resource/Efferent_arterioles http://dbpedia.org/resource/Efferent_glomerular_arterioles http://dbpedia.org/resource/Arteriola_glomerularis_efferens_capsulae_renalis http://dbpedia.org/resource/Efferent_arteriole http://dbpedia.org/resource/Efferent_glomerular_arteriole
+0,18,Dorsal metacarpal arteries,http://dbpedia.org/resource/Dorsal_carpal_arch,http://dbpedia.org/resource/Dorsal_Metacarpal_Arteries http://dbpedia.org/resource/Arteria_metacarpea_dorsalis http://dbpedia.org/resource/Arteriae_metacarpales_dorsales http://dbpedia.org/resource/Dorsal_metacarpal_arteries
+0,70,Cavernous nerves of penis,,http://dbpedia.org/resource/Greater_cavernous_nerve http://dbpedia.org/resource/Cavernous_nerves_of_penis http://dbpedia.org/resource/Cavernous_nerves http://dbpedia.org/resource/Lesser_cavernous_nerves
+0,89,Ascending palatine artery,http://dbpedia.org/resource/Descending_palatine_artery,http://dbpedia.org/resource/Ascending_palatine_artery http://dbpedia.org/resource/Arteria_palatina_ascendens

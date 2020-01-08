@@ -1,0 +1,63 @@
+F1: 0.55147,Precision: 0.55147,Recall: 0.55147,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,3,S. Cooper,http://dbpedia.org/resource/Jackie_Cooper,"http://dbpedia.org/resource/Cooper,_Susan http://dbpedia.org/resource/Susan_Cooper"
+3,4,J. Leven,http://dbpedia.org/resource/Jackie_Leven,http://dbpedia.org/resource/Jeremy_Leven
+3,5,J. Lieberman,http://dbpedia.org/resource/Joe_Lieberman,http://dbpedia.org/resource/Jeff_lieberman http://dbpedia.org/resource/Jeff_Lieberman
+3,6,H. Weigel,http://dbpedia.org/resource/Helene_Weigel,http://dbpedia.org/resource/Herman_Weigel
+3,7,K. Fuller,http://dbpedia.org/resource/Buckminster_Fuller,http://dbpedia.org/resource/Kim_Fuller
+3,9,T. Newsom,http://dbpedia.org/resource/Joanna_Newsom,http://dbpedia.org/resource/Ted_Newsom http://dbpedia.org/resource/Ted_newsom
+3,11,C. Wilbur,http://dbpedia.org/resource/Richard_Wilbur,http://dbpedia.org/resource/Crane_Wilbur
+3,15,G. Axelrod,http://dbpedia.org/resource/Robert_Axelrod,http://dbpedia.org/resource/George_Axelrod
+3,16,J. Roberts,http://dbpedia.org/resource/Jane_Roberts,http://dbpedia.org/resource/Jean_Roberts
+3,22,J. Cork,http://dbpedia.org/resource/Jack_Cork,"http://dbpedia.org/resource/Cork,_John http://dbpedia.org/resource/John_Cork http://dbpedia.org/resource/John_cork"
+3,23,B. Cross,http://dbpedia.org/resource/Ben_Cross,http://dbpedia.org/resource/Beverley_Cross http://dbpedia.org/resource/Beverly_Cross
+3,24,C. Willock,http://dbpedia.org/resource/Charles_Willock,http://dbpedia.org/resource/Colin_Willock
+3,25,J. Feeney,http://dbpedia.org/resource/Denis_Feeney,http://dbpedia.org/resource/John_Feeney_(filmmaker)
+3,27,A. Brunel,http://dbpedia.org/resource/Isambard_Kingdom_Brunel,http://dbpedia.org/resource/Adrian_Brunel
+3,28,T. Sanders,http://dbpedia.org/resource/Tom_Sanders_(mathematician),http://dbpedia.org/resource/Terry_Sanders
+3,30,J. Leven,http://dbpedia.org/resource/Jackie_Leven,http://dbpedia.org/resource/Jeremy_Leven
+3,32,E. Levy,http://dbpedia.org/resource/Émile_Lévy,http://dbpedia.org/resource/The_dad_from_American_Pie http://dbpedia.org/resource/Eugene_Levy
+3,34,J. Adams,http://dbpedia.org/resource/John_Quincy_Adams,"http://dbpedia.org/resource/Julian_Adams http://dbpedia.org/resource/Adams,_Julian"
+3,37,D. Ross,http://dbpedia.org/resource/Diana_Ross,http://dbpedia.org/resource/Dev_Ross
+3,38,D. Ross,http://dbpedia.org/resource/Diana_Ross,http://dbpedia.org/resource/Dev_Ross
+3,39,D. Ross,http://dbpedia.org/resource/Diana_Ross,http://dbpedia.org/resource/Dev_Ross
+3,40,D. Ross,http://dbpedia.org/resource/Diana_Ross,http://dbpedia.org/resource/Dev_Ross
+3,41,M. Clarke,http://dbpedia.org/resource/Mae_Clarke,http://dbpedia.org/resource/Malcolm_Clarke_(film_maker)
+3,45,B. Hume,http://dbpedia.org/resource/Basil_Hume,"http://dbpedia.org/resource/Alexander_Britton_""Brit""_Hume_Sr. http://dbpedia.org/resource/Brit_Hume http://dbpedia.org/resource/Alexander_Britton_Hume_Sr. http://dbpedia.org/resource/Hume,_Brit http://dbpedia.org/resource/Alexander_Britton_""Brit""_Hume,_Sr. http://dbpedia.org/resource/Brit_hume"
+3,50,M. Krims,http://dbpedia.org/resource/Mathilde_Krim,http://dbpedia.org/resource/Milton_Krims
+3,51,R. Gervais,http://dbpedia.org/resource/Paul_Gervais,http://dbpedia.org/resource/Ricky_gervias http://dbpedia.org/resource/Pug_face http://dbpedia.org/resource/Ricky_gervais http://dbpedia.org/resource/Rickey_Gervais http://dbpedia.org/resource/Ricky_Dene_Gervais http://dbpedia.org/resource/Ricky_Gervaise http://dbpedia.org/resource/Ricky_Gervais
+3,57,I. Rosten,http://dbpedia.org/resource/Leo_Rosten,http://dbpedia.org/resource/Irwin_Rosten
+3,59,E. S. Garcia,http://dbpedia.org/resource/Julio_Scherer_García,http://dbpedia.org/resource/Emmanuelle_Schick_Garcia http://dbpedia.org/resource/Emmanuelle_schick_garcia
+3,62,B. Lyndon,http://dbpedia.org/resource/Lyndon_B._Johnson,http://dbpedia.org/resource/Barré_Lyndon http://dbpedia.org/resource/Barre_Lyndon http://dbpedia.org/resource/Alfred_Edgar
+3,64,D. Boulanger,http://dbpedia.org/resource/Nadia_Boulanger,http://dbpedia.org/resource/Daniel_Boulanger
+3,66,Bala,http://dbpedia.org/resource/Krystian_Bala,http://dbpedia.org/resource/Bala_Kumar http://dbpedia.org/resource/Bala_(actor)
+3,71,J. Temple,"http://dbpedia.org/resource/Henry_John_Temple,_3rd_Viscount_Palmerston",http://dbpedia.org/resource/Julien_Temple_videography http://dbpedia.org/resource/Julian_Temple http://dbpedia.org/resource/Julien_Temple
+3,75,D. K. Hall,http://dbpedia.org/resource/Francis_I_of_France,http://dbpedia.org/resource/Douglas_Kent_Hall http://dbpedia.org/resource/Douglas_kent_hall
+3,76,S. Silliphant,http://de.dbpedia.org/resource/A._S._Samuel,http://dbpedia.org/resource/Sterling_Silliphant http://dbpedia.org/resource/Stirling_Silliphant
+3,77,F. L. Allen,http://dbpedia.org/resource/John_F._Allen,http://dbpedia.org/resource/Frederick_Lewis_Allen http://dbpedia.org/resource/F.L._Allen http://dbpedia.org/resource/Frederick_Allen
+3,84,R. L. Jr.,http://dbpedia.org/resource/Richard_Layton_Butler,"http://dbpedia.org/resource/Ring_Lardner_Jr http://dbpedia.org/resource/Ring_Lardner,_Jr. http://dbpedia.org/resource/Ring_Lardner_Jr. http://dbpedia.org/resource/Ring_Lardner_junior http://dbpedia.org/resource/Lardner,_Ring,_Jr."
+3,89,S. Nevins,http://dbpedia.org/resource/Ethelbert_Nevin,http://dbpedia.org/resource/Sheila_Nevins
+3,90,B. Brown,http://dbpedia.org/resource/James_Brown,http://dbpedia.org/resource/Bruce_Brown
+3,92,D. Duncan,http://dbpedia.org/resource/Dave_Duncan_(writer),http://dbpedia.org/resource/Dayton_Duncan
+3,93,K. Hughes,http://dbpedia.org/resource/Kevin_Hughes_(politician),http://dbpedia.org/resource/Ken_Hughes
+3,94,R. Aroraa,,http://dbpedia.org/resource/Rajat_Aroraa http://dbpedia.org/resource/Rajat_Arora
+3,95,M. Reaves,http://dbpedia.org/resource/Pearl_Reaves,http://dbpedia.org/resource/Matt_Reaves
+3,96,R. Kibbee,http://dbpedia.org/resource/Guy_Kibbee,http://dbpedia.org/resource/Roland_Kibbee
+3,99,R. Epstein,http://dbpedia.org/resource/Brian_Epstein,http://dbpedia.org/resource/Ruth_Beverley_Wilson_Epstein http://dbpedia.org/resource/Ruth_Beverley_Wilson http://dbpedia.org/resource/Ruth_Beverly_Wilson http://dbpedia.org/resource/Ruth_Epstein http://dbpedia.org/resource/Ruth_Beverly_Wilson_Epstein http://dbpedia.org/resource/Ruth_Wilson_Epstein http://dbpedia.org/resource/Ruth_Wilson_(alleged_spy) http://dbpedia.org/resource/Ruth_Beverley_Epstein http://dbpedia.org/resource/Ruth_Beverly_Epstein
+3,101,K. Hughes,http://dbpedia.org/resource/Kevin_Hughes_(politician),http://dbpedia.org/resource/Ken_Hughes
+3,102,A. Hinds,http://dbpedia.org/resource/Ciarán_Hinds,http://dbpedia.org/resource/Anthony_Hinds
+3,104,M. Neville,http://dbpedia.org/resource/Edgar_Neville,http://dbpedia.org/resource/Morgan_Neville
+3,109,J. Gutierrez,http://dbpedia.org/resource/Gerald_Gutierrez,http://dbpedia.org/resource/Joey_Gutierrez
+3,112,R. Epstein,http://dbpedia.org/resource/Brian_Epstein,http://dbpedia.org/resource/Rob_Epstein http://dbpedia.org/resource/Robert_P._Epstein
+3,113,A. Berg,http://dbpedia.org/resource/Alban_Berg,http://dbpedia.org/resource/Alec_berg http://dbpedia.org/resource/Alec_Berg
+3,114,P. Sauder,http://dbpedia.org/resource/Arthur_Sanders_(RAF_officer),http://dbpedia.org/resource/Peter_Sauder
+3,116,D. Mullen,http://dbpedia.org/resource/Dan_Mullen,http://dbpedia.org/resource/Desmond_Mullen
+3,117,C. Henkel,http://de.dbpedia.org/resource/Arthur_Henkel,http://dbpedia.org/resource/Cathy_Henkel http://dbpedia.org/resource/Cathy_Henckel
+3,119,R. Johnson,http://dbpedia.org/resource/Richard_Mentor_Johnson,http://dbpedia.org/resource/Rian_Johnson
+3,120,T. Anthony,http://dbpedia.org/resource/Anthony_the_Great,http://dbpedia.org/resource/Tony_Anthony_(actor)
+3,121,C. Burnett,http://dbpedia.org/resource/Carol_Burnett,http://dbpedia.org/resource/Charles_Burnett_(director)
+3,126,J. Lewis,http://dbpedia.org/resource/John_Frederick_Lewis,http://dbpedia.org/resource/Joey_Lewis http://dbpedia.org/resource/Jerome_Levitch http://dbpedia.org/resource/Jerry_Lewis http://dbpedia.org/resource/Joseph_Levitch
+3,130,C. Francis,http://dbpedia.org/resource/Francis_I_of_France,http://dbpedia.org/resource/Coleman_C._Francis http://dbpedia.org/resource/Coleman_Francis
+3,133,D. Nichols,http://dbpedia.org/resource/Mike_Nichols,http://dbpedia.org/resource/Dudley_Nichols
+3,135,C. Grayson,http://dbpedia.org/resource/William_Grayson,http://dbpedia.org/resource/Charles_Grayson_(writer)
+3,136,J. Heyer,http://dbpedia.org/resource/Gerrit_Berckheyde,http://dbpedia.org/resource/John_Heyer

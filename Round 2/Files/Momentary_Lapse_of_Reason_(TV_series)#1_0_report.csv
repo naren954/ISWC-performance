@@ -1,0 +1,4 @@
+"F1: 0.33333","Precision: 0.33333","Recall: 0.33333"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","1","Astro On Demand","http://dbpedia.org/resource/Astro_AOD","http://dbpedia.org/resource/Astro_On_Demand"
+"0","3","Starhub TV","nan","http://dbpedia.org/resource/Starhub_Cable http://dbpedia.org/resource/StarHub_Cable_TV http://dbpedia.org/resource/Starhub_CableTV http://dbpedia.org/resource/Starhub_TV http://dbpedia.org/resource/StarHub_CableTV http://dbpedia.org/resource/Starhub_Cable_TV http://dbpedia.org/resource/StarHub_Cable_Vision http://dbpedia.org/resource/Starhub_Cable_Vision http://dbpedia.org/resource/StarHub_TV http://dbpedia.org/resource/StarHub_Digital_Cable http://dbpedia.org/resource/Singapore_Cable_Vision"

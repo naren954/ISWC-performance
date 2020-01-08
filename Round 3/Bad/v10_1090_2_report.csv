@@ -1,0 +1,61 @@
+F1: 0.34444,Precision: 0.34444,Recall: 0.34444,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,2,S. Murata,http://dbpedia.org/resource/Minoru_Murata,http://dbpedia.org/resource/Kojima_Productions_(2015_studio) http://dbpedia.org/resource/Kojima_Productions http://dbpedia.org/resource/Shuyo_Murata http://dbpedia.org/resource/Guy_Savage
+2,3,A. Johnston,http://dbpedia.org/resource/Ollie_Johnston,http://dbpedia.org/resource/The_Coldest_City http://dbpedia.org/resource/Antony_Johnston
+2,4,K. Nojima,http://dbpedia.org/resource/Minoru_Nojima,http://dbpedia.org/resource/Kazushige_Nojima-san http://dbpedia.org/resource/Kazushige_Nojima http://dbpedia.org/resource/Nojima_Kazushige
+2,5,K. Uchikoshi,,http://dbpedia.org/resource/Kōtarō_Uchikoshi http://dbpedia.org/resource/Kotaro_Uchikoshi http://dbpedia.org/resource/Uchikoshi
+2,6,T. Tezuka,http://dbpedia.org/resource/Osamu_Tezuka,http://dbpedia.org/resource/Tezuka_Takasi http://dbpedia.org/resource/Takasi_Teduka http://dbpedia.org/resource/Tezuka_Takashi http://dbpedia.org/resource/Teduka_Takasi http://dbpedia.org/resource/Ten_Ten http://dbpedia.org/resource/Takasi_Tezuka http://dbpedia.org/resource/Takashi_Tezuka
+2,7,T. Miyazaki,http://dbpedia.org/resource/Hayao_Miyazaki,"http://dbpedia.org/resource/Quintet_Co.,_Ltd. http://dbpedia.org/resource/Quintet_(developer) http://dbpedia.org/resource/Gaia_series http://dbpedia.org/resource/Masaya_Hashimoto http://dbpedia.org/resource/Quintet_(company) http://dbpedia.org/resource/Tomoyoshi_Miyazaki http://dbpedia.org/resource/Soul_Blazer_series http://dbpedia.org/resource/Quintet_(game_developer)"
+2,8,Quintet,http://dbpedia.org/resource/Art_Blakey,"http://dbpedia.org/resource/Quintet_Co.,_Ltd. http://dbpedia.org/resource/Quintet_(developer) http://dbpedia.org/resource/Gaia_series http://dbpedia.org/resource/Masaya_Hashimoto http://dbpedia.org/resource/Quintet_(company) http://dbpedia.org/resource/Tomoyoshi_Miyazaki http://dbpedia.org/resource/Soul_Blazer_series http://dbpedia.org/resource/Quintet_(game_developer)"
+2,9,T. Takahashi,http://dbpedia.org/resource/Rumiko_Takahashi,http://dbpedia.org/resource/Tetsuya_Takahashi
+2,10,T. Takahashi,http://dbpedia.org/resource/Rumiko_Takahashi,http://dbpedia.org/resource/Tetsuya_Takahashi
+2,11,T. Takahashi,http://dbpedia.org/resource/Rumiko_Takahashi,http://dbpedia.org/resource/Tetsuya_Takahashi
+2,14,A. Hino,http://dbpedia.org/resource/Ashihei_Hino,http://dbpedia.org/resource/Akihiro_Hino
+2,17,Y. Matsuno,,"http://dbpedia.org/resource/Yasumi_""YAZZ""_Matsuno http://dbpedia.org/resource/Yasumi_Matsuno http://dbpedia.org/resource/Matsuno_Yasumi"
+2,18,L. Fessenden,http://dbpedia.org/resource/Francis_Fessenden,http://dbpedia.org/resource/Larry_Fessenden
+2,19,B. Bates,http://dbpedia.org/resource/Barbara_Bates,"http://dbpedia.org/resource/Bob_Bates http://dbpedia.org/resource/Challenge,_Inc."
+2,25,R. Benson,http://dbpedia.org/resource/Frank_Benson_(actor),http://dbpedia.org/resource/Raymond_Benson
+2,26,R. Benson,http://dbpedia.org/resource/Frank_Benson_(actor),http://dbpedia.org/resource/Raymond_Benson
+2,27,D. Jaffe,http://dbpedia.org/resource/Shirley_Jaffe_(artist),http://dbpedia.org/resource/David_Jaffe http://dbpedia.org/resource/Dave_Jaffe
+2,28,D. Jaffe,http://dbpedia.org/resource/Shirley_Jaffe_(artist),http://dbpedia.org/resource/David_Jaffe http://dbpedia.org/resource/Dave_Jaffe
+2,29,D. Jaffe,http://dbpedia.org/resource/Shirley_Jaffe_(artist),http://dbpedia.org/resource/David_Jaffe http://dbpedia.org/resource/Dave_Jaffe
+2,30,K. Levine,http://dbpedia.org/resource/Paul_Levine,http://dbpedia.org/resource/Ken_Levine_(video_game_designer) http://dbpedia.org/resource/Ken_Levine_(game_developer)
+2,32,D. Jolley,http://dbpedia.org/resource/Elizabeth_Jolley,http://dbpedia.org/resource/Dan_Jolley
+2,33,M. Wright,http://dbpedia.org/resource/Max_Wright,http://dbpedia.org/resource/Micah_Wright http://dbpedia.org/resource/Constant_Payne http://dbpedia.org/resource/Mica_Wright http://dbpedia.org/resource/Micah_Ian_Wright
+2,34,D. Jolley,http://dbpedia.org/resource/Elizabeth_Jolley,http://dbpedia.org/resource/Dan_Jolley
+2,35,A. Schmidt,http://dbpedia.org/resource/Arno_Schmidt,http://dbpedia.org/resource/Andy_Schmidt
+2,37,A. Lowe,http://dbpedia.org/resource/Adolph_Lowe,http://dbpedia.org/resource/Al_Lowe
+2,38,F. Dille,http://dbpedia.org/resource/Willie_Dille,http://dbpedia.org/resource/Flint_Dille
+2,39,R. Pratchett,http://dbpedia.org/resource/Terry_Pratchett,http://dbpedia.org/resource/Rhianna_Pratchett
+2,41,A. Grossman,http://dbpedia.org/resource/Allen_Grossman,http://dbpedia.org/resource/Austin_Grossman
+2,43,J. Petty,http://dbpedia.org/resource/Tom_Petty,http://dbpedia.org/resource/J._T._Petty http://dbpedia.org/resource/J.T._Petty http://dbpedia.org/resource/JT_Petty
+2,44,R. Dansky,"http://dbpedia.org/resource/Frederik,_Crown_Prince_of_Denmark",http://dbpedia.org/resource/Richard_Dansky http://dbpedia.org/resource/Rich_Dansky http://dbpedia.org/resource/Richard_Danksy
+2,45,R. Dansky,"http://dbpedia.org/resource/Frederik,_Crown_Prince_of_Denmark",http://dbpedia.org/resource/Richard_Dansky http://dbpedia.org/resource/Rich_Dansky http://dbpedia.org/resource/Richard_Danksy
+2,46,R. Dansky,"http://dbpedia.org/resource/Frederik,_Crown_Prince_of_Denmark",http://dbpedia.org/resource/Richard_Dansky http://dbpedia.org/resource/Rich_Dansky http://dbpedia.org/resource/Richard_Danksy
+2,47,K. Igarashi,http://dbpedia.org/resource/Daisuke_Igarashi,http://dbpedia.org/resource/Koji_Igarashi
+2,48,C. Roberts,"http://dbpedia.org/resource/Frederick_Roberts,_1st_Earl_Roberts",http://dbpedia.org/resource/Chris_Roberts_(film_producer) http://dbpedia.org/resource/Chris_Roberts_(game_developer) http://dbpedia.org/resource/Cloud_Imperium_Games_Corporation
+2,50,K. Levine,http://dbpedia.org/resource/Paul_Levine,http://dbpedia.org/resource/Ken_Levine_(video_game_designer) http://dbpedia.org/resource/Ken_Levine_(game_developer)
+2,51,T. Brosius,http://dbpedia.org/resource/Jürgen_Brosius,http://dbpedia.org/resource/Terri_Barous http://dbpedia.org/resource/Terri_Brosius
+2,58,Y. Koizumi,http://dbpedia.org/resource/Hiroshi_Koizumi,http://dbpedia.org/resource/Yoshiaki_Koizumi
+2,63,P. Jenkins,http://dbpedia.org/resource/Paul_Jenkins_(painter),"http://dbpedia.org/resource/Paul_Jenkins_(writer) http://dbpedia.org/resource/Paul_Jenkins_(comics) http://dbpedia.org/resource/Jenkins,_Paul"
+2,64,E. Pagliarulo,http://it.dbpedia.org/resource/Gianfranco_Pagliarulo,http://dbpedia.org/resource/Emil_Pagliarulo
+2,65,L. Schick,http://dbpedia.org/resource/Ludwig_Schick,http://dbpedia.org/resource/Lawrence_Schick
+2,67,H. Tanaka,http://dbpedia.org/resource/Hideyuki_Tanaka,http://dbpedia.org/resource/Hiromichi_Tanaka http://dbpedia.org/resource/Tanaka_Hiromichi
+2,68,P. Jenkins,http://dbpedia.org/resource/Paul_Jenkins_(painter),"http://dbpedia.org/resource/Paul_Jenkins_(writer) http://dbpedia.org/resource/Paul_Jenkins_(comics) http://dbpedia.org/resource/Jenkins,_Paul"
+2,69,P. Jenkins,http://dbpedia.org/resource/Paul_Jenkins_(painter),"http://dbpedia.org/resource/Paul_Jenkins_(writer) http://dbpedia.org/resource/Paul_Jenkins_(comics) http://dbpedia.org/resource/Jenkins,_Paul"
+2,70,J. Mandel,http://dbpedia.org/resource/Gabriele_Mandel,http://dbpedia.org/resource/Josh_Mandel_(video_game_designer)
+2,71,L. Ahern,http://dbpedia.org/resource/Jerry_Ahern,http://dbpedia.org/resource/Lawrence_Ahern http://dbpedia.org/resource/Laurence_Ahern http://dbpedia.org/resource/Larry_Ahern
+2,72,F. Dille,http://dbpedia.org/resource/Willie_Dille,http://dbpedia.org/resource/Flint_Dille
+2,73,M. Costello,http://dbpedia.org/resource/Elvis_Costello,http://dbpedia.org/resource/Matthew_J._Costello http://dbpedia.org/resource/Matt_Costello_(novelist) http://dbpedia.org/resource/Matthew_Costello
+2,74,M. Costello,http://dbpedia.org/resource/Elvis_Costello,http://dbpedia.org/resource/Matthew_J._Costello http://dbpedia.org/resource/Matt_Costello_(novelist) http://dbpedia.org/resource/Matthew_Costello
+2,76,H. Baba,http://dbpedia.org/resource/Giant_Baba,http://dbpedia.org/resource/Hideo_Baba
+2,78,Y. Matsuno,,"http://dbpedia.org/resource/Yasumi_""YAZZ""_Matsuno http://dbpedia.org/resource/Yasumi_Matsuno http://dbpedia.org/resource/Matsuno_Yasumi"
+2,79,K. Levine,http://dbpedia.org/resource/Paul_Levine,http://dbpedia.org/resource/Ken_Levine_(video_game_designer) http://dbpedia.org/resource/Ken_Levine_(game_developer)
+2,81,B. Sokal,http://dbpedia.org/resource/Alan_Sokal,http://dbpedia.org/resource/Benoît_Sokal http://dbpedia.org/resource/Benoit_Sokal
+2,82,J. L. Briggs,http://dbpedia.org/resource/Lindsay_Heathcote_Briggs,http://dbpedia.org/resource/Jeffery_L._Briggs http://dbpedia.org/resource/Jeff_Briggs http://dbpedia.org/resource/Jeffery_briggs
+2,83,K. Miura,http://dbpedia.org/resource/Kiyohiro_Miura,http://dbpedia.org/resource/Miura_Kentarou http://dbpedia.org/resource/Miura_Kentaro http://dbpedia.org/resource/Kentarō_Miura http://dbpedia.org/resource/Kentarou_Miura http://dbpedia.org/resource/Kentaro_Miura
+2,84,Y. Sakamoto,http://dbpedia.org/resource/Ryuichi_Sakamoto,http://dbpedia.org/resource/Yoshio_Sakamoto
+2,85,K. Tanabe,http://dbpedia.org/resource/Kazuhiko_Tanabe,http://dbpedia.org/resource/Kensuke_Tanabe http://dbpedia.org/resource/Tanabe_Kensuke http://dbpedia.org/resource/田邊賢輔
+2,86,Y. Murayama,http://dbpedia.org/resource/Tomoyoshi_Murayama,http://dbpedia.org/resource/Yoshitaka_Murayama
+2,87,P. Oliphant,http://dbpedia.org/resource/Mark_Oliphant,http://dbpedia.org/resource/Peter_Oliphant
+2,88,H. Blackman,http://dbpedia.org/resource/Honor_Blackman,http://dbpedia.org/resource/W._Haden_Blackman http://dbpedia.org/resource/Haden_Blackman

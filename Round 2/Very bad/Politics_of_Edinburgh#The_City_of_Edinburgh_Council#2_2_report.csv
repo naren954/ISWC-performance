@@ -1,0 +1,7 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,1,Edinburgh South West,http://dbpedia.org/resource/West_Coast_Main_Line,http://dbpedia.org/resource/Edinburgh_South_West http://dbpedia.org/resource/Edinburgh_Southwest http://dbpedia.org/resource/Edinburgh_South_West_(UK_Parliament_constituency)
+2,2,Edinburgh South,http://dbpedia.org/resource/Edinburgh,http://dbpedia.org/resource/Fred_Mackintosh http://dbpedia.org/resource/Edinburgh_South_(UK_Parliament_constituency) http://dbpedia.org/resource/Edinburgh_South_constituency
+2,3,Edinburgh North and Leith,http://dbpedia.org/resource/Edinburgh_North_and_Leith_(Scottish_Parliament_constituency),http://dbpedia.org/resource/Edinburgh_North_&_Leith http://dbpedia.org/resource/Edinburgh_North_and_Leith_(UK_Parliament_constituency)
+2,4,Edinburgh East,http://dbpedia.org/resource/Justin_Edinburgh,http://dbpedia.org/resource/Edinburgh_East_(UK_Parliament_constituency) http://dbpedia.org/resource/Edinburgh_East
+2,5,Edinburgh West,http://dbpedia.org/resource/Edinburgh,"http://dbpedia.org/resource/Edinburgh_West_(UK_Parliament_constituency) http://dbpedia.org/resource/Edinburgh,_West_(UK_Parliament_constituency)"

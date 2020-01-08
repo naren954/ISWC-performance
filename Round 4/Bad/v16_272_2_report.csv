@@ -1,0 +1,8 @@
+F1: 0.40000,Precision: 0.40000,Recall: 0.40000,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,1,D. Bhatia,"http://dbpedia.org/resource/Amir_Bhatia,_Baron_Bhatia",http://dbpedia.org/resource/Deepa_Bhatia
+2,2,J. Cox,http://dbpedia.org/resource/Jo_Cox,http://dbpedia.org/resource/Joel_Cox
+2,4,S. Okazaki,http://dbpedia.org/resource/Kyoko_Okazaki,http://dbpedia.org/resource/Steven_Okazaki
+2,5,S. Kahn,http://de.dbpedia.org/resource/Siegbert_Kahn,http://dbpedia.org/resource/Sheldon_Kahn
+2,6,A. V. Coates,http://dbpedia.org/resource/Philip_II_of_Spain,http://dbpedia.org/resource/Anne_V._Coates http://dbpedia.org/resource/Anne_Coates http://dbpedia.org/resource/Ann_V._Coates
+2,10,T. Priestley,http://dbpedia.org/resource/Mark_Priestley,http://dbpedia.org/resource/Tom_Priestley

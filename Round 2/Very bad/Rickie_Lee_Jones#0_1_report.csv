@@ -1,0 +1,15 @@
+F1: 0.07143,Precision: 0.07143,Recall: 0.07143,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,2,"Rickie Lee Jones Released: February 28, 1979 Label: Warner Bros.",http://dbpedia.org/resource/Chuck_E.'s_In_Love,http://dbpedia.org/resource/Rickie_Lee_Jones_(album) http://dbpedia.org/resource/The_Last_Chance_Texaco
+1,3,"Pirates Released: July 15, 1981 Label: Warner Bros.",,http://dbpedia.org/resource/Pirates_(album)
+1,5,"The Magazine Released: September 12, 1984 Label: Warner Bros.",http://dbpedia.org/resource/Warner_Music_Group,http://dbpedia.org/resource/The_Magazine_(album)
+1,6,"Flying Cowboys Released: September 26, 1989 Label: Geffen",,http://dbpedia.org/resource/Flying_Cowboys
+1,7,"Pop Pop Released: September 24, 1991 Label: Geffen",,http://dbpedia.org/resource/Pop_Pop
+1,8,"Traffic from Paradise Released: September 14, 1993 Label: Geffen",,http://dbpedia.org/resource/Traffic_From_Paradise http://dbpedia.org/resource/Traffic_from_Paradise
+1,9,"Naked Songs: Live and Acoustic Released: September 19, 1995 Label: Reprise",http://dbpedia.org/resource/Michael_Jackson,http://dbpedia.org/resource/Naked_Songs_–_Live_and_Acoustic
+1,10,"Ghostyhead Released: June 17, 1997 Label: Reprise",,http://dbpedia.org/resource/Ghostyhead
+1,11,"It's Like This Released: September 12, 2000 Label: Artemis",http://dbpedia.org/resource/2000_in_music,http://dbpedia.org/resource/It's_Like_This
+1,13,"The Evening of My Best Day Released: October 7, 2003 Label: V2",http://dbpedia.org/resource/MTV,http://dbpedia.org/resource/The_Evening_Of_My_Best_Day http://dbpedia.org/resource/The_Evening_of_My_Best_Day
+1,14,"The Sermon on Exposition Boulevard Released: February 6, 2007 Label: New West",http://dbpedia.org/resource/No_Limit_Records,http://dbpedia.org/resource/The_Sermon_on_Exposition_Boulevard
+1,15,"Balm in Gilead Released: November 3, 2009 Label: Fantasy",,http://dbpedia.org/resource/Balm_in_Gilead_(album)
+1,16,"The Devil You Know Released: September 18, 2012 Label: Fantasy",http://dbpedia.org/resource/Light_the_Torch,http://dbpedia.org/resource/The_Devil_You_Know_(Rickie_Lee_Jones_album)

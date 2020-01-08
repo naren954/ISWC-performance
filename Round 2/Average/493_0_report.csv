@@ -1,0 +1,7 @@
+F1: 0.72222,Precision: 0.72222,Recall: 0.72222,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,B. Lyon,http://dbpedia.org/resource/Babe_Lyon,http://dbpedia.org/resource/Billy_Lyon
+0,3,B. Davis,http://dbpedia.org/resource/Brad_Davis_(American_football),http://dbpedia.org/resource/Billy_Davis_(wide_receiver)
+0,14,B. Wilson,http://dbpedia.org/resource/Bobby_Wilson_(defensive_tackle),http://dbpedia.org/resource/Bernard_Wilson_(American_football)
+0,16,B. Bryant,http://dbpedia.org/resource/Bob_Bryant_(tackle),http://dbpedia.org/resource/Beno_Bryant
+0,17,B. Cunningham,http://dbpedia.org/resource/Bennie_Cunningham,http://dbpedia.org/resource/Benny_Cunningham

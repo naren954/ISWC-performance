@@ -1,0 +1,24 @@
+F1: 0.81667,Precision: 0.81667,Recall: 0.81667,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,S. Daniels,http://dbpedia.org/resource/Stanley_Daniels_(American_football),http://dbpedia.org/resource/Steven_Daniels
+0,2,S. Williams,http://dbpedia.org/resource/Shaun_Williams_(American_football),http://dbpedia.org/resource/Steve_Williams_(cornerback)
+0,10,S. Taylor,http://dbpedia.org/resource/Sammy_Taylor_(baseball),http://dbpedia.org/resource/Stepfan_Taylor
+0,12,S. Wisniewski,http://dbpedia.org/resource/Steve_Wisniewski,http://dbpedia.org/resource/Stefen_Wisniewski http://dbpedia.org/resource/Steven_Wisniewski
+0,20,S. Moore,http://dbpedia.org/resource/Sheena_Moore,http://dbpedia.org/resource/Sio_Moore
+0,28,S. Williams,http://dbpedia.org/resource/Shaun_Williams_(American_football),http://dbpedia.org/resource/Shawn_Williams_(American_football)
+0,37,S. Thomas,http://dbpedia.org/resource/Stan_Thomas_(American_football),http://dbpedia.org/resource/Shamarko_Thomas
+0,47,S. Smith,http://dbpedia.org/resource/Shelley_Smith_(American_football),http://dbpedia.org/resource/Sean_Smith_(cornerback)
+0,50,S. Davis,http://dbpedia.org/resource/James_Davis_(running_back),http://dbpedia.org/resource/Sean_Davis_(American_football)
+0,59,R. Taylor,http://dbpedia.org/resource/Rob_Taylor_(American_football),http://dbpedia.org/resource/Ryan_Taylor_(American_football) http://dbpedia.org/resource/Ryan_Taylor_(tight_end)
+0,61,R. Smith,http://dbpedia.org/resource/Rod_Smith_(wide_receiver),"http://dbpedia.org/resource/Ryan_Smith_(cornerback,_born_1993) http://dbpedia.org/resource/Ryan_Smith_(American_football,_born_1993)"
+0,65,R. Kelly,http://dbpedia.org/resource/Rob_Kelly_(American_football),http://dbpedia.org/resource/Ryan_Kelly_(American_football)
+0,67,R. Griffin,http://dbpedia.org/resource/Robert_Griffin_III,http://dbpedia.org/resource/Ryan_Griffin_(tight_end)
+0,70,R. Wilson,"http://dbpedia.org/resource/Ron_Wilson_(footballer,_born_1924)",http://dbpedia.org/resource/RW3 http://dbpedia.org/resource/Russell_Carrington_Wilson http://dbpedia.org/resource/Russell_Wilson http://dbpedia.org/resource/Russell_wilson http://dbpedia.org/resource/Russ_Wilson
+0,73,R. Anderson,http://dbpedia.org/resource/Robby_Anderson,http://dbpedia.org/resource/Rory_Anderson
+0,80,R. Brooks,http://dbpedia.org/resource/Robert_Brooks,http://dbpedia.org/resource/Ron_Brooks
+0,86,R. Woods,"http://dbpedia.org/resource/Robert_Woods_(wide_receiver,_born_1992)",http://dbpedia.org/resource/Robert_Woods_(wide_receiver) http://dbpedia.org/resource/Robert_Woods_(American_football_receiver)
+0,97,R. Matthews,http://dbpedia.org/resource/Ryan_Mathews_(American_football),http://dbpedia.org/resource/Rishard_Matthews
+0,99,R. Dixon,http://dbpedia.org/resource/Randy_Dixon,http://dbpedia.org/resource/Riley_Dixon
+0,101,R. Wagner,http://dbpedia.org/resource/Ray_Wagner,http://dbpedia.org/resource/Ricky_Wagner http://dbpedia.org/resource/Rick_Wagner
+0,116,R. Wilson,"http://dbpedia.org/resource/Ron_Wilson_(footballer,_born_1924)",http://dbpedia.org/resource/Ramik_Wilson
+0,117,R. Nunez-Roches,http://dbpedia.org/resource/Rakeem_Nuñez-Roches,http://dbpedia.org/resource/Rakeem_Nunez_Roches http://dbpedia.org/resource/Nunez-Roches http://dbpedia.org/resource/Rakeem_Nunez-Roches

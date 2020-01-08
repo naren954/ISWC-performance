@@ -1,0 +1,9 @@
+F1: 0.91765,Precision: 0.91765,Recall: 0.91765,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,33,Victorian,http://dbpedia.org/resource/Painted_lady,http://dbpedia.org/resource/Victorian_(horse)
+0,37,Ventura,http://dbpedia.org/resource/Ventura_Salimbeni,http://dbpedia.org/resource/Ventura_(horse)
+0,40,Vagrancy,http://dbpedia.org/resource/Vagrancy_(racehorse),http://dbpedia.org/resource/Vagrancy_(horse)
+0,50,Tristan,http://dbpedia.org/resource/Tristan_de_Clermont,http://dbpedia.org/resource/Tristan_(horse)
+0,67,Tinners Way,http://dbpedia.org/resource/Tinners_Way,http://dbpedia.org/resource/Tinners_Way_(horse)
+0,71,Tiago,"http://dbpedia.org/resource/James,_son_of_Zebedee",http://dbpedia.org/resource/Tiago_(horse)
+0,79,Tanya,http://dbpedia.org/resource/Tanya_Haden,http://dbpedia.org/resource/Tanya_(horse)

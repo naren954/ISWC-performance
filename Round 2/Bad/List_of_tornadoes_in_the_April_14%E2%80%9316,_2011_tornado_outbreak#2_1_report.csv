@@ -1,0 +1,15 @@
+F1: 0.45833,Precision: 0.45833,Recall: 0.45833,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,17,State Line area,http://dbpedia.org/resource/New_York_(state),"http://dbpedia.org/resource/State_Line,_Mississippi http://dbpedia.org/resource/State_Line,_MS"
+1,28,Leakesville area,,"http://dbpedia.org/resource/Leakesville,_Mississippi http://dbpedia.org/resource/Leakesville,_MS http://dbpedia.org/resource/History_of_Leakesville,_Mississippi http://dbpedia.org/resource/Leakesville"
+1,36,Gainesville area,"http://dbpedia.org/resource/Gainesville,_Florida","http://dbpedia.org/resource/Gainesville,_Al http://dbpedia.org/resource/Gainesville,_Alabama http://dbpedia.org/resource/Gainesville,_AL"
+1,39,Cuba area,"http://dbpedia.org/resource/Cuba,_Kansas","http://dbpedia.org/resource/History_of_Cuba,_Alabama http://dbpedia.org/resource/Cuba,_AL http://dbpedia.org/resource/Cuba,_Alabama http://dbpedia.org/resource/Cuba,_Al"
+1,44,Myrtlewood area,,"http://dbpedia.org/resource/Myrtlewood,_AL http://dbpedia.org/resource/History_of_Myrtlewood,_Alabama http://dbpedia.org/resource/Myrtlewood,_Alabama"
+1,45,Pinhook area (1st tornado),"http://dbpedia.org/resource/Pinhook,_Missouri","http://dbpedia.org/resource/Pin_Hook,_Alabama http://dbpedia.org/resource/Pinhook,_Alabama"
+1,47,Dayton area,"http://dbpedia.org/resource/Dayton,_Ohio","http://dbpedia.org/resource/Dayton,_AL http://dbpedia.org/resource/History_of_Dayton,_Alabama http://dbpedia.org/resource/Dayton,_Al http://dbpedia.org/resource/Dayton,_Alabama"
+1,48,Pinhook area (2nd tornado),"http://dbpedia.org/resource/Pinhook,_Missouri","http://dbpedia.org/resource/Pin_Hook,_Alabama http://dbpedia.org/resource/Pinhook,_Alabama"
+1,51,Tunnel Springs area,"http://dbpedia.org/resource/Hot_Springs,_Arkansas","http://dbpedia.org/resource/History_of_Tunnel_Springs,_Alabama http://dbpedia.org/resource/Tunnel_Springs,_Alabama"
+1,54,Hamburg,http://dbpedia.org/resource/Hamburg,"http://dbpedia.org/resource/Hamburg,_Alabama"
+1,70,Equality area,http://dbpedia.org/resource/Wyoming,"http://dbpedia.org/resource/Equality,_Alabama"
+1,74,Damascus area,http://dbpedia.org/resource/Damascus,"http://dbpedia.org/resource/Damascus,_Alabama"
+1,86,Cadiz,http://dbpedia.org/resource/Cádiz,"http://dbpedia.org/resource/Cadiz,_KY http://dbpedia.org/resource/Cadiz,_Kentucky"

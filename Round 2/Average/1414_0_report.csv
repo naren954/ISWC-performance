@@ -1,0 +1,7 @@
+F1: 0.75000,Precision: 0.75000,Recall: 0.75000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Varanasi-Sultanpur-Lucknow Line,http://dbpedia.org/resource/Varanasi–Rae_Bareli–Lucknow_line,http://dbpedia.org/resource/Varanasi-Sultanpur-Lucknow_Line
+0,7,Muzaffarpur–Gorakhpur line,http://dbpedia.org/resource/Muzaffarpur–Gorakhpur_main_line,"http://dbpedia.org/resource/Muzaffarpur-_Gorakhpur_line_(via_Hajipur,_Raxaul_and_Sitamarhi) http://dbpedia.org/resource/Muzaffarpur-Gorakhpur_line_(via_Hajipur,_Raxaul_and_Sitamarhi) http://dbpedia.org/resource/Muzaffarpur–Gorakhpur_line_(via_Hajipur,_Raxaul_and_Sitamarhi)"
+0,9,Muzaffarpur–Gorakhpur line,http://dbpedia.org/resource/Muzaffarpur–Gorakhpur_main_line,"http://dbpedia.org/resource/Muzaffarpur-_Gorakhpur_line_(via_Hajipur,_Raxaul_and_Sitamarhi) http://dbpedia.org/resource/Muzaffarpur-Gorakhpur_line_(via_Hajipur,_Raxaul_and_Sitamarhi) http://dbpedia.org/resource/Muzaffarpur–Gorakhpur_line_(via_Hajipur,_Raxaul_and_Sitamarhi)"
+0,15,Hajipur-Muzaffarpur-Samastipur-Barauni Section,http://dbpedia.org/resource/Hajipur–Muzaffarpur–Samastipur–Barauni_section,http://dbpedia.org/resource/Hajipur-Muzaffarpur-Samastipur-Barauni_Section
+0,16,Green Line,http://dbpedia.org/resource/Green_Line_(Washington_Metro),http://dbpedia.org/resource/Green_Line_(Delhi_Metro)

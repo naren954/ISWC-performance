@@ -1,0 +1,8 @@
+F1: 0.57143,Precision: 0.57143,Recall: 0.57143,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,1,N. Miyamoto,http://dbpedia.org/resource/Miyamoto_Musashi,http://dbpedia.org/resource/Miyamoto_Nobuko http://dbpedia.org/resource/Nobuko_Miyamoto
+2,3,A. Martinez,http://dbpedia.org/resource/Leire_Martínez,http://dbpedia.org/resource/Albert_Martinez http://dbpedia.org/resource/Albert_Martínez
+2,4,R. Story,http://dbpedia.org/resource/Julian_Russell_Story,http://dbpedia.org/resource/Ralph_Bernard_Snyder http://dbpedia.org/resource/Ralph_Story http://dbpedia.org/resource/Ralph_Story's_Los_Angeles
+2,6,R. Malcolm,http://dbpedia.org/resource/Malcolm_III_of_Scotland,http://dbpedia.org/resource/Robyn_Malcolm
+2,11,N. Oliver,http://dbpedia.org/resource/Nuria_Oliver,http://dbpedia.org/resource/Neil_Oliver
+2,14,M. Enriquez,http://dbpedia.org/resource/Juana_Enríquez,http://dbpedia.org/resource/Miguel_Castro_Enríquez http://dbpedia.org/resource/Mike_Enriquez http://dbpedia.org/resource/Miguel_Castro_Enriquez http://dbpedia.org/resource/Mike_Enríquez

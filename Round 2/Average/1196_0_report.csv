@@ -1,0 +1,5 @@
+F1: 0.57143,Precision: 0.57143,Recall: 0.57143,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,T. Bragdon,http://dbpedia.org/resource/Peter_Bragdon,http://dbpedia.org/resource/Tarren_Bragdon
+0,2,L. Chang,http://dbpedia.org/resource/Leroy_Chang,http://dbpedia.org/resource/李昌 http://dbpedia.org/resource/Li_Chang
+0,7,A. Shastri,http://dbpedia.org/resource/Anil_Shastri,http://dbpedia.org/resource/Adarsh_Shastri

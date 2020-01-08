@@ -1,0 +1,5 @@
+F1: 0.81250,Precision: 0.81250,Recall: 0.81250,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,2,RÄ\u0093zeknes BJSS,http://it.dbpedia.org/resource/Sah-u-Ra_Brown,http://dbpedia.org/resource/Rēzeknes_BJSS
+1,4,FK 1625 LiepÄ\u0081ja,http://dbpedia.org/resource/FK_1625_Liepāja,http://dbpedia.org/resource/SFK_Varavīksne
+1,5,FK RÄ«gas Futbola skola,http://dbpedia.org/resource/FK_Rīgas_Futbola_Skola,http://dbpedia.org/resource/FK_Rīgas_Futbola_skola

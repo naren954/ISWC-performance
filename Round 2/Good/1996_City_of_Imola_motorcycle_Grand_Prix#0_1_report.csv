@@ -1,0 +1,6 @@
+F1: 0.83333,Precision: 0.83333,Recall: 0.83333,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,2,Ã\u0080lex CrivillÃ©,http://dbpedia.org/resource/Lex_Cassia,http://dbpedia.org/resource/Àlex_Crivillé
+1,20,Chris Walker,http://dbpedia.org/resource/Chris_Walker_(motorcyclist),http://dbpedia.org/resource/Chris_Walker_(motorcycle_racer)
+1,25,Juan Borja,http://dbpedia.org/resource/Juan_Borja_(motorcyclist),http://dbpedia.org/resource/Juan_Borja_(motorcycle_racer)
+1,26,Paul Young,http://dbpedia.org/resource/Paul_Young_(motorcyclist),http://dbpedia.org/resource/Paul_Young_(motorcycle_racer)

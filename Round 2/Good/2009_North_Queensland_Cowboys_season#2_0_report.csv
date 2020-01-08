@@ -1,0 +1,4 @@
+F1: 0.86667,Precision: 0.86667,Recall: 0.86667,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,8,John Frith,http://dbpedia.org/resource/John_Frith_(rugby_league),"http://dbpedia.org/resource/John_Fryth http://dbpedia.org/resource/John_Frith http://dbpedia.org/resource/Fryth http://dbpedia.org/resource/Frith,_John"
+0,16,Justin Smith,http://dbpedia.org/resource/Justin_Smith_(linebacker),http://dbpedia.org/resource/Justin_Smith_(rugby_league_player) http://dbpedia.org/resource/Justin_Smith_(rugby_league) http://dbpedia.org/resource/Justin_Smith_(rugby_player) http://dbpedia.org/resource/Justin_Smith_(Rugby_player)

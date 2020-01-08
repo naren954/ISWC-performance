@@ -1,0 +1,5 @@
+"F1: 0.78571","Precision: 0.78571","Recall: 0.78571"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","9","Chloe","http://dbpedia.org/resource/Daphnis_and_Chloe","http://dbpedia.org/resource/Chloe_(film) http://dbpedia.org/resource/Chloe_Sweeney"
+"1","10","The Family Tree","http://dbpedia.org/resource/The_Family_Tree","http://dbpedia.org/resource/The_Family_Tree_(2011_film)"
+"1","12","Yellow","http://dbpedia.org/resource/Pokémon_Yellow","http://dbpedia.org/resource/Yellow_(2012_film)"

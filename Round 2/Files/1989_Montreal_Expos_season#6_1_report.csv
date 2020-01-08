@@ -1,0 +1,8 @@
+"F1: 0.00000","Precision: 0.00000","Recall: 0.00000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","1","Indianapolis Indians","http://dbpedia.org/resource/Indianapolis","http://dbpedia.org/resource/Indianapolis_Indians"
+"1","2","Jacksonville Expos","http://dbpedia.org/resource/Jacksonville,_Florida","http://dbpedia.org/resource/Jacksonville_Expos http://dbpedia.org/resource/Jacksonville_Suns"
+"1","3","West Palm Beach Expos","http://dbpedia.org/resource/West_Palm_Beach,_Florida","http://dbpedia.org/resource/West_Palm_Beach_Expos http://dbpedia.org/resource/West_Palm_Beach_Braves"
+"1","4","Rockford Expos","http://dbpedia.org/resource/Rockford,_Illinois","http://dbpedia.org/resource/Rockford_Cubbies http://dbpedia.org/resource/Rockford_Reds http://dbpedia.org/resource/Rockford_Royals http://dbpedia.org/resource/Rockford_Expos http://dbpedia.org/resource/Dayton_Dragons"
+"1","5","Jamestown Expos","http://dbpedia.org/resource/Jamestown,_North_Dakota","http://dbpedia.org/resource/Jamestown_Tigers http://dbpedia.org/resource/Jamestown_Braves http://dbpedia.org/resource/Jamestown_Jaguars http://dbpedia.org/resource/Jamestown_Dodgers http://dbpedia.org/resource/Jamestown_Falcons http://dbpedia.org/resource/Jamestown_Expos"
+"1","6","GCL Expos","http://dbpedia.org/resource/Montreal_Expos","http://dbpedia.org/resource/Gulf_Coast_Expos http://dbpedia.org/resource/GCL_Expos http://dbpedia.org/resource/Gulf_Coast_League_Nationals http://dbpedia.org/resource/Gulf_Coast_Nationals http://dbpedia.org/resource/GCL_Nationals"

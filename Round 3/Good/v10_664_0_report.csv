@@ -1,0 +1,4 @@
+F1: 0.91304,Precision: 0.91304,Recall: 0.91304,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,6,Catalyst,http://dbpedia.org/resource/Catalyst_(New_Found_Glory_album),http://dbpedia.org/resource/Catalyst_(novel)
+0,9,Castle,http://dbpedia.org/resource/Castle_(TV_series),http://dbpedia.org/resource/Castle_(novel)

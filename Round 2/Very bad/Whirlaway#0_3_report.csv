@@ -1,0 +1,4 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,10,Domino,http://dbpedia.org/resource/Fats_Domino,http://dbpedia.org/resource/Domino_(horse)
+3,12,Commando,http://dbpedia.org/resource/Commando_(1985_film),http://dbpedia.org/resource/Commando_(horse)

@@ -1,0 +1,5 @@
+F1: 0.95890,Precision: 0.95890,Recall: 0.95890,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,23,Graecoanatolica anatolica,http://dbpedia.org/resource/Graecoanatolica_pamphylica,http://dbpedia.org/resource/Graecoanatolica_anatolica
+0,40,Gonidea angulata,http://dbpedia.org/resource/Mordella_angulata,http://dbpedia.org/resource/Gonidea_angulata http://dbpedia.org/resource/Gonidea
+0,62,Gibberula punctilum,http://dbpedia.org/resource/Gibberula_punctillum,http://dbpedia.org/resource/Gibberula_puntillum http://dbpedia.org/resource/Gibberula_punctilum

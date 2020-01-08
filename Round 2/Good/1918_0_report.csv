@@ -1,0 +1,20 @@
+F1: 0.89888,Precision: 0.89888,Recall: 0.89888,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,4,"Sam, Bangs and Moonshine","http://dbpedia.org/resource/Sam,_Bangs_&_Moonshine","http://dbpedia.org/resource/Sam,_Bangs,_and_Moonshine http://dbpedia.org/resource/Sam,_Bangs_and_Moonshine"
+0,22,Pretzel,http://dbpedia.org/resource/Pretzel_(picture_book),http://dbpedia.org/resource/Pretzel_(short_story) http://dbpedia.org/resource/Pretzel_(story) http://dbpedia.org/resource/Pretzel_(children's_book) http://dbpedia.org/resource/Pretzel_(book)
+0,30,Penguin,http://dbpedia.org/resource/Penguin_(album),http://dbpedia.org/resource/Penguin_(book)
+0,33,Palestine,http://dbpedia.org/resource/The_Jerusalem_Post,http://dbpedia.org/resource/Palestine_(comic_book) http://dbpedia.org/resource/Palestine_(Joe_Sacco_comic) http://dbpedia.org/resource/Palestine_(Sacco_comic) http://dbpedia.org/resource/Palestine_(comics) http://dbpedia.org/resource/Palestine_(graphic_novel) http://dbpedia.org/resource/Palestine_(comic)
+0,37,Out of the Storm,http://dbpedia.org/resource/Out_of_the_Storm_(short_story_collection),http://dbpedia.org/resource/Out_of_the_Storm
+0,47,Noah's Ark,http://dbpedia.org/resource/Noah's_Ark_(miniseries),http://dbpedia.org/resource/Noah's_Ark_(book)
+0,49,Nightmare Academy: Charlie's Monsters,http://dbpedia.org/resource/Nightmare_Academy:_Monster_Hunters,http://dbpedia.org/resource/Charlie_Benjamin http://dbpedia.org/resource/Nightmare_Academy_(novel) http://dbpedia.org/resource/Nightmare_Academy:_Charlie's_Monsters http://dbpedia.org/resource/Nightmare_Academy_(By_Dean_Lorey)
+0,82,Man on the Moon,http://dbpedia.org/resource/A_Man_on_the_Moon,http://dbpedia.org/resource/Man_on_the_Moon_(book)
+0,85,Lost and Found,http://dbpedia.org/resource/Lost_and_Found_(Mudvayne_album),http://dbpedia.org/resource/Lost_and_Found_(book)
+0,103,Kiss,http://dbpedia.org/resource/Kiss_(Japanese_magazine),http://dbpedia.org/resource/Kiss_(book) http://dbpedia.org/resource/Kiss_(novel)
+0,105,Kim,,"http://dbpedia.org/resource/Mahbub_Ali http://dbpedia.org/resource/Kimball_O'Hara http://dbpedia.org/resource/Kim_(novel) http://dbpedia.org/resource/Hurree_Chunder_Mookherjee http://dbpedia.org/resource/Kim,_Friend_of_all_the_World http://dbpedia.org/resource/The_Royal_Loyal_Musketeers_(""The_Mavericks"") http://dbpedia.org/resource/Kim_(book) http://dbpedia.org/resource/Hurree_Babu"
+0,132,Here Be Monsters!,http://dbpedia.org/resource/Here_Be_Monsters_(Buffy_novel),http://dbpedia.org/resource/Here_Be_Monsters!
+0,135,Gul Afshaniyaat-e-Iqbal,,http://dbpedia.org/resource/Gul_Afshaniyaat-e-Iqbal
+0,143,Gateway,http://dbpedia.org/resource/Gateway_(band),http://dbpedia.org/resource/Gateway_(novel)
+0,169,Fallen Angels,http://dbpedia.org/resource/Fallen_Angels_(Myers_novel),http://dbpedia.org/resource/Fallen_Angels_(science_fiction_novel)
+0,171,Fairy Tales,http://dbpedia.org/resource/Fairy_Tail,http://dbpedia.org/resource/Fairy_Tales_(Jones_book) http://dbpedia.org/resource/Fairy_Tales_(Terry_Jones_book)
+0,172,Fables,http://dbpedia.org/resource/Panchatantra,http://dbpedia.org/resource/Fables_(book)
+0,176,Ethel and Ernest,http://dbpedia.org/resource/Ethel_&_Ernest,http://dbpedia.org/resource/Ethel_and_ernest http://dbpedia.org/resource/Ethel_and_Ernest

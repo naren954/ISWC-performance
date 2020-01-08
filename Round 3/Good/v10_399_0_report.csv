@@ -1,0 +1,5 @@
+F1: 0.90909,Precision: 0.90909,Recall: 0.90909,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,13,Vices & Virtues,http://dbpedia.org/resource/Vices_and_Virtues_(Art_of_Dying_album),http://dbpedia.org/resource/Vices_&_Virtues http://dbpedia.org/resource/Vices_And_Virtues http://dbpedia.org/resource/Let's_kill_tonight http://dbpedia.org/resource/Sarah_smiles http://dbpedia.org/resource/Oh_Glory
+0,18,Vertigo,"http://dbpedia.org/resource/Vertigo_(Jump,_Little_Children_album)",http://dbpedia.org/resource/Vertigo_(Jackie_McLean_album)
+0,31,Vehicle,http://dbpedia.org/resource/Animal_Vehicle,http://dbpedia.org/resource/Vehicle_(The_Clean_album)

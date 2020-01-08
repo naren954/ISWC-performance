@@ -1,0 +1,6 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,3,IRW 16,http://dbpedia.org/resource/AD_16,http://dbpedia.org/resource/Toyota_Speedway_at_Irwindale http://dbpedia.org/resource/Irwindale_Event_Center http://dbpedia.org/resource/Irwindale_Speedway http://dbpedia.org/resource/Toyota_Speedway
+3,5,IRW 6,http://dbpedia.org/resource/Islamic_Relief,http://dbpedia.org/resource/Toyota_Speedway_at_Irwindale http://dbpedia.org/resource/Irwindale_Event_Center http://dbpedia.org/resource/Irwindale_Speedway http://dbpedia.org/resource/Toyota_Speedway
+3,6,IRW TAN,http://dbpedia.org/resource/Lianne_Tan,http://dbpedia.org/resource/Toyota_Speedway_at_Irwindale http://dbpedia.org/resource/Irwindale_Event_Center http://dbpedia.org/resource/Irwindale_Speedway http://dbpedia.org/resource/Toyota_Speedway
+3,7,EBS 3,http://dbpedia.org/resource/EBS_University_of_Business_and_Law,http://dbpedia.org/resource/Ebisu_circuit http://dbpedia.org/resource/Ebisu_Circuit

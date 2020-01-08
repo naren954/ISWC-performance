@@ -1,0 +1,12 @@
+F1: 0.50000,Precision: 0.50000,Recall: 0.50000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,J. Anderson,http://dbpedia.org/resource/John_Anderson_(zoologist),http://dbpedia.org/resource/John_Anderson_(mayor) http://dbpedia.org/resource/John_Anderson_(blacksmith)
+1,4,J. Howell,http://dbpedia.org/resource/Joseph_Howell,http://dbpedia.org/resource/John_Howell_(New_Zealand) http://dbpedia.org/resource/John_Howell_(pioneer)
+1,5,G. F. Harding,http://dbpedia.org/resource/Warren_G._Harding,http://dbpedia.org/resource/George_Frederick_Harding
+1,6,W. L. Morgan,http://dbpedia.org/resource/Lewis_L._Morgan,http://dbpedia.org/resource/William_Llewellyn_Morgan
+1,7,J. Mackay,http://dbpedia.org/resource/James_Mackay_(rugby_union),http://dbpedia.org/resource/John_Mackay(Rugby_League_Footballer) http://dbpedia.org/resource/John_Mackay_(rugby_league_footballer) http://dbpedia.org/resource/John_Mackay_(rugby_league)
+1,8,G. Stephens,http://dbpedia.org/resource/Gene_Stephens,http://dbpedia.org/resource/Glyn_Stephens
+1,9,C. Jordan,http://fr.dbpedia.org/resource/Charles_Jordan,http://dbpedia.org/resource/Charles_Jordan_(rugby_player)
+1,10,C. Tremain,http://dbpedia.org/resource/Kel_Tremain,http://dbpedia.org/resource/Chris_Tremain
+1,18,K. Stuart,http://dbpedia.org/resource/Kenneth_Stuart,http://dbpedia.org/resource/Kevin_Stuart_(rugby_union)
+1,20,H. Tancred,http://dbpedia.org/resource/Henry_Tancred_(New_Zealand_politician),http://dbpedia.org/resource/Harry_Tancred

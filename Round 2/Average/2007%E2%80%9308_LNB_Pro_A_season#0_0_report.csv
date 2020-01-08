@@ -1,0 +1,8 @@
+F1: 0.62500,Precision: 0.62500,Recall: 0.62500,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Ã\u0089S Chalon-sur-SaÃ´ne,http://fr.dbpedia.org/resource/Conservatoire_à_rayonnement_régional_de_Chalon-sur-Saône,http://dbpedia.org/resource/ÉS_Chalon-sur-Saône
+0,5,HyÃ¨res Toulon Var Basket,http://dbpedia.org/resource/HTV_Basket,http://dbpedia.org/resource/Hyères_Toulon_Var_Basket
+0,10,OrlÃ©ans Loiret Basket,http://dbpedia.org/resource/Orléans_Loiret_Basket,http://dbpedia.org/resource/Entente_Orléanaise
+0,11,Paris-Levallois Basket,http://dbpedia.org/resource/Levallois_Metropolitans,http://dbpedia.org/resource/Paris-Levallois_Basket http://dbpedia.org/resource/Paris-Levallois
+0,12,Ã\u0089lan BÃ©arnais Pau-Orthez,http://dbpedia.org/resource/Category:Polish_popes,http://dbpedia.org/resource/Élan_Béarnais_Pau-Lacq-Orthez
+0,16,JA Vichy,http://dbpedia.org/resource/RC_Vichy,http://dbpedia.org/resource/Jeanne_d'Arc_Vichy_Auvergne_Basket http://dbpedia.org/resource/JA_Vichy http://dbpedia.org/resource/Vichy_Basket

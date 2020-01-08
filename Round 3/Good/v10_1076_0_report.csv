@@ -1,0 +1,4 @@
+F1: 0.95455,Precision: 0.95455,Recall: 0.95455,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,7,"Attu Station, Alaska","http://dbpedia.org/resource/Adak,_Alaska","http://dbpedia.org/resource/Attu_Station http://dbpedia.org/resource/Attu_Station,_Alaska http://dbpedia.org/resource/Attu_Station,_AK http://dbpedia.org/resource/USCG_Loran_Station_Attu"
+0,9,"Athens, Pennsylvania","http://dbpedia.org/resource/Athens,_Ohio","http://dbpedia.org/resource/Athens,_PA http://dbpedia.org/resource/Athens,_Pa http://dbpedia.org/resource/Athens,_Pennsylvania http://dbpedia.org/resource/UN/LOCODE:USATN"

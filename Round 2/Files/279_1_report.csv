@@ -1,0 +1,5 @@
+"F1: 0.91892","Precision: 0.91892","Recall: 0.91892"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","9","1961 United States Grand Prix","http://dbpedia.org/resource/1960_United_States_Grand_Prix","http://dbpedia.org/resource/1961_United_States_Grand_Prix"
+"1","18","1971 United States Grand Prix","http://dbpedia.org/resource/1960_United_States_Grand_Prix","http://dbpedia.org/resource/1971_United_States_Grand_Prix"
+"1","36","1981 Caesars Palace Grand Prix","http://dbpedia.org/resource/1982_Caesars_Palace_Grand_Prix","http://dbpedia.org/resource/1981_Las_Vegas_Grand_Prix http://dbpedia.org/resource/1981_Caesars_Palace_Grand_Prix"

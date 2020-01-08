@@ -1,0 +1,3 @@
+F1: 0.66667,Precision: 0.66667,Recall: 0.66667,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,6,Lincoln School,"http://dbpedia.org/resource/Lincoln_School_(Huntsville,_Alabama)","http://dbpedia.org/resource/Lincoln_School_(Pikeville,_Tennessee)"

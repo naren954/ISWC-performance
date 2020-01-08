@@ -1,0 +1,40 @@
+F1: 0.74150,Precision: 0.74150,Recall: 0.74150,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,USS Roe,http://dbpedia.org/resource/USS_Roe_(DD-418),http://dbpedia.org/resource/USS_Roe_(DD-24) http://dbpedia.org/resource/USCGD_Roe_(CG-18)
+0,3,USS Rodgers,http://dbpedia.org/resource/USS_Rodgers_(DD-254),http://dbpedia.org/resource/USS_Rodgers_(TB-4)
+0,4,USS Rodgers,http://dbpedia.org/resource/USS_Rodgers_(DD-254),http://dbpedia.org/resource/USS_Rodgers_(1879)
+0,16,USS Robinson,http://dbpedia.org/resource/USS_Robinson_(DD-88),http://dbpedia.org/resource/USS_Robinson_(DD-562)
+0,17,USS Robin,http://dbpedia.org/resource/USS_Robin_(AM-3),http://dbpedia.org/resource/USS_Robin_(MSC(O)-53) http://dbpedia.org/resource/YMS-311 http://dbpedia.org/resource/USS_Robin_(YMS-311) http://dbpedia.org/resource/AMS-53 http://dbpedia.org/resource/USS_Robin_(AMS-53) http://dbpedia.org/resource/USS_YMS-311 http://dbpedia.org/resource/USS_Robin_(MSCO-53)
+0,20,USS Robert Smith,http://dbpedia.org/resource/USS_Aaron_Ward_(DM-34),http://dbpedia.org/resource/USS_Robert_Smith_(DD-324) http://dbpedia.org/resource/USS_Robert_Smith
+0,23,USS Robert H. Smith,http://dbpedia.org/resource/USS_Aaron_Ward_(DM-34),http://dbpedia.org/resource/DD-735 http://dbpedia.org/resource/USS_Robert_H._Smith_(DD-735) http://dbpedia.org/resource/USS_Robert_H._Smith_(MMD-23) http://dbpedia.org/resource/USS_Robert_H._Smith http://dbpedia.org/resource/USS_Robert_H._Smith_(DM-23) http://dbpedia.org/resource/DM-23
+0,31,USS Roanoke,http://dbpedia.org/resource/USS_Roanoke_(CL-145),http://dbpedia.org/resource/USS_Roanoke_(AOR-7)
+0,32,USS Roanoke,http://dbpedia.org/resource/USS_Roanoke_(CL-145),http://dbpedia.org/resource/USS_Roanoke_(1855)
+0,41,USS Rinehart,http://dbpedia.org/resource/USS_Burrows_(DE-105),http://dbpedia.org/resource/USS_Rinehart_(DE-196) http://dbpedia.org/resource/HNLMS_De_Bitter_(F807) http://dbpedia.org/resource/USS_Rinehart http://dbpedia.org/resource/DE-196
+0,44,USS Rigel,http://dbpedia.org/resource/USS_Rigel_(AF-58),http://dbpedia.org/resource/USS_Rigel_(ARb-1) http://dbpedia.org/resource/USS_Rigel_(AR-11) http://dbpedia.org/resource/USS_Rigel_(AD-13) http://dbpedia.org/resource/SS_Edgecombe
+0,54,USS Rich,http://dbpedia.org/resource/USS_Rich_(DE-695),http://dbpedia.org/resource/DDE-820 http://dbpedia.org/resource/USS_Rich_(DD-820) http://dbpedia.org/resource/DD-820 http://dbpedia.org/resource/USS_Rich_(DDE-820)
+0,57,USS Rhea,http://dbpedia.org/resource/USS_Rhea_(AMc-58),http://dbpedia.org/resource/USS_Rhea_(YMS-299) http://dbpedia.org/resource/USS_Rhea_(AMS-52) http://dbpedia.org/resource/USS_Rhea_(MSC(O)-52) http://dbpedia.org/resource/USS_YMS-299 http://dbpedia.org/resource/USS_Rhea_(MSCO-52) http://dbpedia.org/resource/YMS-299
+0,59,USS Reybold,http://dbpedia.org/resource/USS_Reybold,http://dbpedia.org/resource/Brazilian_destroyer_escort_Bracuí_(BE-3) http://dbpedia.org/resource/Brazilian_destroyer_escort_Bracui_(BE-3) http://dbpedia.org/resource/Brazilian_destroyer_escort_Bracuí_(D18) http://dbpedia.org/resource/USS_Reybold_(DE-177) http://dbpedia.org/resource/Brazilian_destroyer_escort_Bracuí_(U-31) http://dbpedia.org/resource/Brazilian_destroyer_escort_Bracui_(D18) http://dbpedia.org/resource/Brazilian_destroyer_escort_Bracui_(U-31) http://dbpedia.org/resource/DE-177 http://dbpedia.org/resource/Baurú_(D-18) http://dbpedia.org/resource/Brazilian_destroyer_Bracui
+0,62,USS Reuben James,http://dbpedia.org/resource/USS_Reuben_James_(DE-153),http://dbpedia.org/resource/The_Reuben_James http://dbpedia.org/resource/USS_Reuben_James_(DD-245)
+0,68,USS Renshaw,http://dbpedia.org/resource/USS_Renshaw_(DD-499),http://dbpedia.org/resource/USS_Renshaw_(DD-176)
+0,69,USS Reno,http://dbpedia.org/resource/USS_Reno_(CL-96),http://dbpedia.org/resource/USS_Reno_(DD-303)
+0,73,USS Relief,http://dbpedia.org/resource/USS_Relief_(1836),http://dbpedia.org/resource/USS_Relief_(AH-1)
+0,76,USS Reid,http://dbpedia.org/resource/USS_Reid_(DD-292),http://dbpedia.org/resource/USS_Reid_(DD-369)
+0,78,USS Reid,http://dbpedia.org/resource/USS_Reid_(DD-292),http://dbpedia.org/resource/USS_Reid_(DD-21)
+0,80,USS Regulus,http://dbpedia.org/resource/USS_Regulus_(AK-14),http://dbpedia.org/resource/SS_Escanaba_Victory http://dbpedia.org/resource/USS_Regulus_(AF-57)
+0,88,USS Redwing,http://dbpedia.org/resource/USS_Redwing_(AM-48),http://dbpedia.org/resource/USS_Redwing_(MSC-200) http://dbpedia.org/resource/Spanish_minesweeper_Sil_(M29) http://dbpedia.org/resource/USS_Redwing_(AMS-200)
+0,101,USS Reaper,http://dbpedia.org/resource/USS_Reaper_(AMc-96),http://dbpedia.org/resource/USS_Reaper_(AM-467) http://dbpedia.org/resource/USS_Reaper_(MSO-467)
+0,108,USS Ray,http://dbpedia.org/resource/USS_Ray_(SS-271),http://dbpedia.org/resource/SSN-653 http://dbpedia.org/resource/USS_Ray_(SSN-653)
+0,110,USS Raven,http://dbpedia.org/resource/USS_Raven_(AM-55),http://dbpedia.org/resource/Egyptian_minehunter_Al_Faruq_(MHC-524) http://dbpedia.org/resource/USS_Raven_(MHC-61)
+0,117,USS Ranger,http://dbpedia.org/resource/USS_Ranger_(CV-4),http://dbpedia.org/resource/CV61 http://dbpedia.org/resource/USS_Ranger_(CVA61) http://dbpedia.org/resource/USS_Ranger_(CV61) http://dbpedia.org/resource/CV_61 http://dbpedia.org/resource/CVA-61 http://dbpedia.org/resource/USS_Ranger_(CVA-61) http://dbpedia.org/resource/CVA61 http://dbpedia.org/resource/CV-61 http://dbpedia.org/resource/USS_Ranger_(CVA_61) http://dbpedia.org/resource/USS_Ranger_(CV-61) http://dbpedia.org/resource/USS_Ranger_(CV_61) http://dbpedia.org/resource/CVA_61
+0,126,USS Raleigh,http://dbpedia.org/resource/USS_Raleigh_(CL-7),http://dbpedia.org/resource/USS_Raleigh_(LPD-1) http://dbpedia.org/resource/LPD-1
+0,127,USS Raleigh,http://dbpedia.org/resource/USS_Raleigh_(CL-7),http://dbpedia.org/resource/USS_Raleigh_(C-8)
+0,128,USS Rail,http://dbpedia.org/resource/USS_Rail_(AM-26),http://dbpedia.org/resource/USS_Rail_(MHC-37) http://dbpedia.org/resource/USS_Rail_(AMCU-37) http://dbpedia.org/resource/LSIL-1022 http://dbpedia.org/resource/LCI(L)-1022 http://dbpedia.org/resource/USS_LCI(L)-1022
+0,130,USS Radford,http://dbpedia.org/resource/USS_Radford_(DD-120),http://dbpedia.org/resource/USS_Radford_(DD-446) http://dbpedia.org/resource/USS_Radford_(DDE-446)
+0,133,USS Racine,http://dbpedia.org/resource/USS_Racine_(PF-100),http://dbpedia.org/resource/USS_LST-1191 http://dbpedia.org/resource/USS_Racine_(LST-1191)
+0,134,USS Raccoon,http://dbpedia.org/resource/USS_Raccoon_(SP-506),http://dbpedia.org/resource/SS_J._C._W._Beckham http://dbpedia.org/resource/USS_Raccoon_(IX-127)
+0,136,USS R-9,http://dbpedia.org/resource/USS_Essex_(CV-9),http://dbpedia.org/resource/SS-86 http://dbpedia.org/resource/USS_R-9_(SS-86) http://dbpedia.org/resource/USS_R-9
+0,143,USS R-27,http://dbpedia.org/resource/USS_S-27_(SS-132),http://dbpedia.org/resource/USS_R-27 http://dbpedia.org/resource/SS-104 http://dbpedia.org/resource/USS_R-27_(SS-104)
+0,144,USS R-26,http://dbpedia.org/resource/USS_S-26_(SS-131),http://dbpedia.org/resource/USS_R-26 http://dbpedia.org/resource/USS_R-26_(SS-103)
+0,145,USS R-25,http://dbpedia.org/resource/USS_S-25_(SS-130),http://dbpedia.org/resource/USS_R-25 http://dbpedia.org/resource/USS_R-25_(SS-102)
+0,146,USS R-24,http://dbpedia.org/resource/USS_Roe_(DD-24),http://dbpedia.org/resource/USS_R-24 http://dbpedia.org/resource/USS_R-24_(SS-101)
+0,147,USS R-23,http://dbpedia.org/resource/USS_R-14_(SS-91),http://dbpedia.org/resource/USS_R-23_(SS-100) http://dbpedia.org/resource/USS_R-23

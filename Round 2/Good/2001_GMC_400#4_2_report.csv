@@ -1,0 +1,4 @@
+F1: 0.92308,Precision: 0.92308,Recall: 0.92308,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,5,John Bowe,http://dbpedia.org/resource/Dick_Johnson_(racing_driver),http://dbpedia.org/resource/John_Bowe_(motor_racing) http://dbpedia.org/resource/John_Bowe_(racing_driver) http://dbpedia.org/resource/John_Bowe_(auto_racing) http://dbpedia.org/resource/John_Bowe_(race_driver)
+2,24,Anthony Tratt,http://dbpedia.org/resource/Anthony_Sinisuka_Ginting,http://dbpedia.org/resource/Anthony_Tratt

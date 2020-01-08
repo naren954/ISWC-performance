@@ -1,0 +1,5 @@
+"F1: 0.70000","Precision: 0.70000","Recall: 0.70000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","1","W. Miller","http://dbpedia.org/resource/Winston_Miller","http://dbpedia.org/resource/William_Miller_(poet)"
+"0","8","T. O. Mordaunt","http://dbpedia.org/resource/Alexander_Gordon,_4th_Duke_of_Gordon","http://dbpedia.org/resource/Thomas_Osbert_Mordaunt"
+"0","10","S. Roberts","http://dbpedia.org/resource/Stanley_Roberts_(screenwriter)","http://dbpedia.org/resource/Silyn_Roberts"

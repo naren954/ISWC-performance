@@ -1,0 +1,5 @@
+"F1: 0.86364","Precision: 0.86364","Recall: 0.86364"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","10","Blue River Reservoir","http://dbpedia.org/resource/Blue_Mesa_Reservoir","http://dbpedia.org/resource/Blue_River_Dam http://dbpedia.org/resource/Blue_River_Reservoir"
+"0","12","Beaver Lake","http://dbpedia.org/resource/Beaver_Lake_(Alberta)","http://dbpedia.org/resource/Beaver_Dam_(Arkansas) http://dbpedia.org/resource/Beaver_Lake_(Arkansas) http://dbpedia.org/resource/Beaver_lake_(arkansas) http://dbpedia.org/resource/Beaver_Dam,_Arkansas"
+"0","13","Bear Lake","http://dbpedia.org/resource/Great_Bear_Lake","http://dbpedia.org/resource/Bear_lake_(idaho-utah) http://dbpedia.org/resource/Bear_Lake,_Utah http://dbpedia.org/resource/Bear_Lake_(Idaho–Utah) http://dbpedia.org/resource/Bear_Lake,_UT http://dbpedia.org/resource/Black_Bear_Lake http://dbpedia.org/resource/Bear_lake_raspberry_days http://dbpedia.org/resource/Bear_Lake_(Idaho/Utah) http://dbpedia.org/resource/Bear_Lake_(Utah-Idaho) http://dbpedia.org/resource/Bear_Lake_(Idaho-Utah) http://dbpedia.org/resource/Raspberry_days"

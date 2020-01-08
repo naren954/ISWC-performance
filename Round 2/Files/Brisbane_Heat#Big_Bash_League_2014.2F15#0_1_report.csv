@@ -1,0 +1,6 @@
+"F1: 0.76471","Precision: 0.76471","Recall: 0.76471"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","2","Joe Burns","http://dbpedia.org/resource/Joe_Burns_(catcher)","http://dbpedia.org/resource/Joe_Burns_(cricketer)"
+"1","3","Lendl Simmons","http://dbpedia.org/resource/Ivan_Lendl","http://dbpedia.org/resource/Lendl_Simmons"
+"1","14","James Peirson","http://dbpedia.org/resource/Johnny_Peirson","http://dbpedia.org/resource/Jimmy_Peirson http://dbpedia.org/resource/James_Peirson http://dbpedia.org/resource/James_Pierson"
+"1","17","Andrew Fekete","http://dbpedia.org/resource/Ádám_Fekete","http://dbpedia.org/resource/Andrew_Fekete"

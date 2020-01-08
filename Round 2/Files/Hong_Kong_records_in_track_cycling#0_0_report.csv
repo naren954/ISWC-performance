@@ -1,0 +1,7 @@
+"F1: 0.00000","Precision: 0.00000","Recall: 0.00000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","1","Flying 200 m time trial","http://dbpedia.org/resource/Cycling_at_the_1996_Summer_Olympics_–_Women's_sprint","http://dbpedia.org/resource/Track_time_trial http://dbpedia.org/resource/Track_cycling/Track_Time_Trial http://dbpedia.org/resource/500mTT"
+"0","2","1 km time trial","http://dbpedia.org/resource/Cycling_at_the_2016_Summer_Paralympics_–_Women's_1_km_time_trial_B","http://dbpedia.org/resource/Track_time_trial http://dbpedia.org/resource/Track_cycling/Track_Time_Trial http://dbpedia.org/resource/500mTT"
+"0","3","1 km time trial (sea level)","http://dbpedia.org/resource/Cycling_at_the_2016_Summer_Paralympics_–_Women's_1_km_time_trial_B","http://dbpedia.org/resource/Track_time_trial http://dbpedia.org/resource/Track_cycling/Track_Time_Trial http://dbpedia.org/resource/500mTT"
+"0","4","4000m individual pursuit","http://dbpedia.org/resource/Cycling_at_the_2012_Summer_Paralympics_–_Men's_individual_pursuit","http://dbpedia.org/resource/Individual_Pursuit http://dbpedia.org/resource/Track_Cycling/Individual_Pursuit http://dbpedia.org/resource/Track_cycling/Individual_Pursuit http://dbpedia.org/resource/Individual_pursuit"
+"0","5","4000m team pursuit","http://dbpedia.org/resource/Cycling_at_the_1936_Summer_Olympics_–_Men's_team_pursuit","http://dbpedia.org/resource/Track_cycling/Team_Pursuit http://dbpedia.org/resource/Team_pursuit"

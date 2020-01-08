@@ -1,0 +1,5 @@
+F1: 0.85714,Precision: 0.85714,Recall: 0.85714,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,A.F.C. Lymington (C),http://dbpedia.org/resource/New_Milton_Town_F.C.,http://dbpedia.org/resource/Lymington_Town_FC http://dbpedia.org/resource/Lymington_F.C. http://dbpedia.org/resource/Lymington_Town_F._C. http://dbpedia.org/resource/Lymington_Town_F.C. http://dbpedia.org/resource/Lymington_Town_F_C
+1,7,Bournemouth,http://dbpedia.org/resource/A.F.C._Bournemouth,http://dbpedia.org/resource/Bournemouth_Rovers_F.C. http://dbpedia.org/resource/Bournemouth_FC http://dbpedia.org/resource/Bournemouth_Poppies http://dbpedia.org/resource/Bournemouth_Arabs_F.C. http://dbpedia.org/resource/Bournemouth_F._C. http://dbpedia.org/resource/Bournemouth_Poppies_F.C. http://dbpedia.org/resource/Bournemouth_F.C. http://dbpedia.org/resource/Bournemouth_F_C
+1,13,Christchurch,http://dbpedia.org/resource/Belper_Town_F.C.,http://dbpedia.org/resource/Christchurch_FC http://dbpedia.org/resource/Christchurch_F_C http://dbpedia.org/resource/Christchurch_F._C. http://dbpedia.org/resource/Christchurch_F.C.

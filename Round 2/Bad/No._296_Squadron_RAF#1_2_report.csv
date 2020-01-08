@@ -1,0 +1,5 @@
+F1: 0.50000,Precision: 0.50000,Recall: 0.50000,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,1,"RAF Ringway, Cheshire",http://dbpedia.org/resource/Manchester_Airport,http://dbpedia.org/resource/RAF_Ringway
+2,2,"RAF Netheravon, Wiltshire",http://dbpedia.org/resource/Netheravon,http://dbpedia.org/resource/RAF_Netheravon http://dbpedia.org/resource/Joint_Services_Parachute_Centre http://dbpedia.org/resource/Netheravon_Airfield http://dbpedia.org/resource/AAC_Netheravon
+2,11,"RAF Earls Colne, Essex",http://dbpedia.org/resource/Earls_Colne,http://dbpedia.org/resource/EGSR http://dbpedia.org/resource/Earls_Colne_Airfield http://dbpedia.org/resource/Earls_Colne_Airport http://dbpedia.org/resource/RAF_Earls_Colne

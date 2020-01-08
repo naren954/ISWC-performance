@@ -1,0 +1,4 @@
+F1: 0.88889,Precision: 0.88889,Recall: 0.88889,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,10,Kuwait SC,http://dbpedia.org/resource/Kuwait_SC,http://dbpedia.org/resource/Al_Kuwait_SC_(basketball) http://dbpedia.org/resource/Kuwait_SC_(basketball)
+1,15,Besiktas,http://dbpedia.org/resource/Beşiktaş_J.K._(men's_basketball),http://dbpedia.org/resource/Beshiktash http://dbpedia.org/resource/Besiktas http://dbpedia.org/resource/Diplokionion http://dbpedia.org/resource/Abbasağa_Park http://dbpedia.org/resource/Beşiktaş http://dbpedia.org/resource/Bechiktache

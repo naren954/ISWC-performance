@@ -1,0 +1,6 @@
+"F1: 0.20000","Precision: 0.20000","Recall: 0.20000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","2","Nina Ulanova \/ Mikhail Stifunin","http://dbpedia.org/resource/5421_Ulanova","http://dbpedia.org/resource/Nina_Oulanova http://dbpedia.org/resource/Nina_Ulanova"
+"1","4","Aya Kawai \/ Hiroshi Tanaka","http://dbpedia.org/resource/Hiroshi_Tanaka","http://dbpedia.org/resource/Aya_Kawai http://dbpedia.org/resource/Kawai_Aya"
+"1","5","Zhang Weina \/ Cao Xianming","http://dbpedia.org/resource/Cao_Zhang","http://dbpedia.org/resource/Zhang_Weina http://dbpedia.org/resource/Wina_Zhang http://dbpedia.org/resource/Weina_Zhang http://dbpedia.org/resource/Zhang_Wina"
+"1","9","Ekaterina Davydova \/ Roman Kostomarov","http://dbpedia.org/resource/Anna_Karenina","http://dbpedia.org/resource/Ekaterina_Davydova http://dbpedia.org/resource/Ekaterina_Davidova"

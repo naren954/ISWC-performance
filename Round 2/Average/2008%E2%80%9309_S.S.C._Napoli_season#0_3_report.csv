@@ -1,0 +1,6 @@
+F1: 0.63636,Precision: 0.63636,Recall: 0.63636,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,1,Navarro,http://dbpedia.org/resource/Daniel_Navarro,http://dbpedia.org/resource/Nicolás_Navarro_(Argentine_footballer)
+3,3,Cannavaro,http://dbpedia.org/resource/Fabio_Cannavaro,http://dbpedia.org/resource/Paolo_Cannavaro
+3,9,Mannini,http://dbpedia.org/resource/Moreno_Mannini,http://dbpedia.org/resource/Daniele_Mannini
+3,11,Denis,http://dbpedia.org/resource/Denis_Lima_de_Assis,http://dbpedia.org/resource/Germán_Denis

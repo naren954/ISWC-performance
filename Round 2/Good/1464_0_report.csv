@@ -1,0 +1,4 @@
+F1: 0.97701,Precision: 0.97701,Recall: 0.97701,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,19,Victoria Bridge,http://dbpedia.org/resource/Chelsea_Bridge,http://dbpedia.org/resource/Victoria_Bridge_(Penrith)
+0,41,Teesquay Millennium Footbridge,"http://dbpedia.org/resource/Millennium_Bridge,_London",http://dbpedia.org/resource/Teesquay_Millennium_Bridge http://dbpedia.org/resource/Teesquay_Millennium_Footbridge

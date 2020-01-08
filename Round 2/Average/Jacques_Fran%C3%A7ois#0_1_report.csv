@@ -1,0 +1,15 @@
+F1: 0.53571,Precision: 0.53571,Recall: 0.53571,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,3,My Man,http://dbpedia.org/resource/My_Man_and_I,http://dbpedia.org/resource/Mon_Homme_(film) http://dbpedia.org/resource/My_Man_(1996_film)
+1,4,North Star,http://dbpedia.org/resource/North_Star_(Star_Trek:_Enterprise),http://dbpedia.org/resource/North_Star_(1996_film)
+1,7,Triplex,http://dbpedia.org/resource/Plywood,http://dbpedia.org/resource/Triplex_(film)
+1,8,Papy fait de la rÃ©sistance,http://dbpedia.org/resource/Gramps_Is_in_the_Resistance,http://dbpedia.org/resource/Papy_fait_de_la_résistance
+1,9,Le PÃ¨re NoÃ«l est une ordure,http://dbpedia.org/resource/Santa_Claus_Is_a_Stinker,http://dbpedia.org/resource/Le_Père_Noël_est_une_ordure
+1,10,Le Cadeau,http://dbpedia.org/resource/Bankers_Also_Have_Souls,http://dbpedia.org/resource/Il_regalo http://dbpedia.org/resource/Le_Cadeau http://dbpedia.org/resource/La_Cadeau http://dbpedia.org/resource/Le_cadeau
+1,12,Toutes griffes dehors,http://dbpedia.org/resource/Kitty_Kornered,http://dbpedia.org/resource/Toutes_griffes_dehors
+1,16,One Two Two,"http://dbpedia.org/resource/One,_Two,_Two_:_122,_rue_de_Provence",http://dbpedia.org/resource/One_Two_Two
+1,17,Sorcerer,http://dbpedia.org/resource/Harry_Potter_and_the_Philosopher's_Stone_(film),http://dbpedia.org/resource/Sorcerer_(film) http://dbpedia.org/resource/Sorcerer_(movie)
+1,18,The Toy,http://dbpedia.org/resource/Toy_Story_3,http://dbpedia.org/resource/Le_Jouet http://dbpedia.org/resource/The_Toy_(1976_film)
+1,21,Plot,http://dbpedia.org/resource/Hollyoaks,http://dbpedia.org/resource/The_French_Conspiracy http://dbpedia.org/resource/L'attentat http://dbpedia.org/resource/L'Attentat http://dbpedia.org/resource/Plot_(film)
+1,25,Three Women,http://dbpedia.org/resource/Three_Women_(1924_film),"http://dbpedia.org/resource/Three_Women_(1952_film) http://dbpedia.org/resource/Trois_femmes http://dbpedia.org/resource/Trois_femmes_(film,_1952)"
+1,28,Pact with the Devil,http://dbpedia.org/resource/Pact_with_the_Devil_(1950_film),http://dbpedia.org/resource/Patto_col_diavolo http://dbpedia.org/resource/Pact_with_the_Devil_(film)

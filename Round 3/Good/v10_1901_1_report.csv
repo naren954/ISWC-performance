@@ -1,0 +1,16 @@
+F1: 0.91617,Precision: 0.91617,Recall: 0.91617,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,19,Count on the Saint,http://dbpedia.org/resource/Count_On_the_Saint,http://dbpedia.org/resource/Count_on_the_saint http://dbpedia.org/resource/Count_on_the_Saint
+1,43,The Change,http://dbpedia.org/resource/Change_(Sugababes_album),http://dbpedia.org/resource/The_Change_(novel) http://dbpedia.org/resource/The_Change_(Animorphs)
+1,44,Left Behind,http://dbpedia.org/resource/The_Last_of_Us:_Left_Behind,http://dbpedia.org/resource/Left_Behind:_A_Novel_of_the_Earth's_Last_Days http://dbpedia.org/resource/Left_Behind_(novel)
+1,62,Rules of Engagement,http://dbpedia.org/resource/Rules_of_Engagement_(Elizabeth_Moon_novel),http://dbpedia.org/resource/Rules_of_Engagement_(Alexander_novel) http://dbpedia.org/resource/Rules_of_Engagement_(Sir_John_Fielding_novel)
+1,63,Mother Earth,http://dbpedia.org/resource/Mother_Earth_(album),http://dbpedia.org/resource/Mother_Earth_(novelette) http://dbpedia.org/resource/Mother_Earth_(Asimov) http://dbpedia.org/resource/Ion_Mereanu
+1,64,The Stranger,http://dbpedia.org/resource/The_Stranger_(song),http://dbpedia.org/resource/The_Stranger_(Van_Allsburg_book) http://dbpedia.org/resource/The_Stranger_(Chris_Van_Allsburg_book) http://dbpedia.org/resource/The_Stranger_(Chris_Van_Allsburg_novel)
+1,66,Space Chronicles: Facing the Ultimate Frontier,http://dbpedia.org/resource/Space_Chronicles,http://dbpedia.org/resource/Space_Chronicles:_Facing_the_Ultimate_Frontier
+1,77,Exposure,http://dbpedia.org/resource/Exposure_(Exposé_album),http://dbpedia.org/resource/Exposure_(Peet_novel)
+1,89,Medusa,http://dbpedia.org/resource/Medusa_(Dibdin_novel),http://dbpedia.org/resource/Medusa_(Cussler_novel) http://dbpedia.org/resource/Medusa_(Clive_Cussler_novel) http://dbpedia.org/resource/Medusa_(Cussler)
+1,101,The Wings of Merlin,http://dbpedia.org/resource/Merlin_Book_5:_A_Wizard's_Wings,http://dbpedia.org/resource/A_Wizard's_Wings http://dbpedia.org/resource/The_Wings_of_Merlin
+1,128,Correction,http://dbpedia.org/resource/Journal_of_Correctional_Health_Care,http://dbpedia.org/resource/Correction_(book) http://dbpedia.org/resource/Correction_(novel)
+1,136,The Heroes of Olympus,http://dbpedia.org/resource/The_Blood_of_Olympus,"http://dbpedia.org/resource/The_Heroes_of_Olympus,_book_three http://dbpedia.org/resource/Camp_Jupiter http://dbpedia.org/resource/""The_Heroes_of_Olympus"" http://dbpedia.org/resource/The_Heroes_of_Olympus http://dbpedia.org/resource/The_Heroes_of_Olympus,_book_four http://dbpedia.org/resource/The_Heroes_of_Olympus,_book_two http://dbpedia.org/resource/Heroes_of_Olympus http://dbpedia.org/resource/The_Heroes_of_Olympus,_book_five"
+1,155,The Test,http://dbpedia.org/resource/Tested,http://dbpedia.org/resource/The_Test_(Animorphs) http://dbpedia.org/resource/The_Test_(Applegate_novel)
+1,160,The Mark,http://dbpedia.org/resource/Mark_Wahlberg,http://dbpedia.org/resource/The_Mark_(Left_Behind) http://dbpedia.org/resource/The_Mark_(novel)

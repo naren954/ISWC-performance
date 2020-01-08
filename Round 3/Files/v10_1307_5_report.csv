@@ -1,0 +1,6 @@
+"F1: 0.69231","Precision: 0.69231","Recall: 0.69231"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"5","3","F. Hellman","nan","http://dbpedia.org/resource/Frances_Hellman"
+"5","8","A. Ambani","http://dbpedia.org/resource/Mukesh_Ambani","http://dbpedia.org/resource/Akash_Ambani"
+"5","10","M. Ansara","nan","http://dbpedia.org/resource/Matthew_Michael_Ansara http://dbpedia.org/resource/Matthew_Ansara"
+"5","13","S. Jaffrey","http://dbpedia.org/resource/Javed_Jaffrey","http://dbpedia.org/resource/Sakina_Jaffery http://dbpedia.org/resource/Sakina_Jaffrey"

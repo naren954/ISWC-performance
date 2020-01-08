@@ -1,0 +1,29 @@
+F1: 0.84211,Precision: 0.84211,Recall: 0.84211,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,7,I. Zhuk,http://dbpedia.org/resource/Nina_Zhuk,http://dbpedia.org/resource/Irina_Zhuk
+1,13,J. Deutschland,http://dbpedia.org/resource/Joachim_Persson,http://dbpedia.org/resource/Jutta_Deutschland
+1,20,J. Deutschland,http://dbpedia.org/resource/Joachim_Persson,http://dbpedia.org/resource/Jutta_Deutschland
+1,23,E. Tchaikovskaya,http://dbpedia.org/resource/E,http://dbpedia.org/resource/Yelena_Tchaikovskaya http://dbpedia.org/resource/Elena_Chaykovskaya http://dbpedia.org/resource/Elena_Tchaikovskaia http://dbpedia.org/resource/Elena_Osipova http://dbpedia.org/resource/Elena_Chaikovskaia http://dbpedia.org/resource/Elena_Chaikovskaiya http://dbpedia.org/resource/Elena_Chaikovskaya http://dbpedia.org/resource/Yelena_Chaikovskaia http://dbpedia.org/resource/Yelena_Chaikovskaya http://dbpedia.org/resource/Elena_Tchaikovskaya http://dbpedia.org/resource/Yelena_Tchaikovskaia
+1,30,I. Zhuk,http://dbpedia.org/resource/Nina_Zhuk,http://dbpedia.org/resource/Irina_Zhuk
+1,34,E. Tchaikovskaya,http://dbpedia.org/resource/E,http://dbpedia.org/resource/Yelena_Tchaikovskaya http://dbpedia.org/resource/Elena_Chaykovskaya http://dbpedia.org/resource/Elena_Tchaikovskaia http://dbpedia.org/resource/Elena_Osipova http://dbpedia.org/resource/Elena_Chaikovskaia http://dbpedia.org/resource/Elena_Chaikovskaiya http://dbpedia.org/resource/Elena_Chaikovskaya http://dbpedia.org/resource/Yelena_Chaikovskaia http://dbpedia.org/resource/Yelena_Chaikovskaya http://dbpedia.org/resource/Elena_Tchaikovskaya http://dbpedia.org/resource/Yelena_Tchaikovskaia
+1,42,S. Kawahara,http://dbpedia.org/resource/Sei_Kawahara,http://dbpedia.org/resource/Sarah_Kawahara http://dbpedia.org/resource/Sara_Kawahara
+1,47,K. Johnson,http://dbpedia.org/resource/Dwayne_Johnson,http://dbpedia.org/resource/Kelly_Johnson_(figure_skater)
+1,48,P. Wirtz,http://dbpedia.org/resource/Kris_Wirtz,http://dbpedia.org/resource/Paul_Wirtz
+1,50,J. Boyer,http://dbpedia.org/resource/Jacques_Boyer,http://dbpedia.org/resource/Jean-Pierre_Boyer http://dbpedia.org/resource/Jean_Pierre_Boyer
+1,53,K. Johnson,http://dbpedia.org/resource/Dwayne_Johnson,http://dbpedia.org/resource/Kelly_Johnson_(figure_skater)
+1,56,D. Wilson,http://dbpedia.org/resource/Tracy_Wilson,http://dbpedia.org/resource/David_Wilson_(figure_skater) http://dbpedia.org/resource/David_Wilson_(figure_skating)
+1,97,S. Kawahara,http://dbpedia.org/resource/Sei_Kawahara,http://dbpedia.org/resource/Sarah_Kawahara http://dbpedia.org/resource/Sara_Kawahara
+1,99,T. Dickson,http://dbpedia.org/resource/Tommy_Dickson,http://dbpedia.org/resource/Tom_Dickson
+1,108,K. Johnson,http://dbpedia.org/resource/Dwayne_Johnson,http://dbpedia.org/resource/Kelly_Johnson_(figure_skater)
+1,117,D. Wilson,http://dbpedia.org/resource/Tracy_Wilson,http://dbpedia.org/resource/David_Wilson_(figure_skater) http://dbpedia.org/resource/David_Wilson_(figure_skating)
+1,120,D. Allen,http://dbpedia.org/resource/Devon_Allen,http://dbpedia.org/resource/Damon_Allen_(figure_skater)
+1,131,M. Zoueva,http://dbpedia.org/resource/M,http://dbpedia.org/resource/Marina_Zoueva http://dbpedia.org/resource/Marina_Zuyeva http://dbpedia.org/resource/Marina_Zuevea http://dbpedia.org/resource/Marina_Zueva
+1,136,I. Zhuk,http://dbpedia.org/resource/Nina_Zhuk,http://dbpedia.org/resource/Irina_Zhuk
+1,139,K. Johnson,http://dbpedia.org/resource/Dwayne_Johnson,http://dbpedia.org/resource/Kelly_Johnson_(figure_skater)
+1,146,I. Zhuk,http://dbpedia.org/resource/Nina_Zhuk,http://dbpedia.org/resource/Irina_Zhuk
+1,147,M. Zoueva,http://dbpedia.org/resource/M,http://dbpedia.org/resource/Marina_Zoueva http://dbpedia.org/resource/Marina_Zuyeva http://dbpedia.org/resource/Marina_Zuevea http://dbpedia.org/resource/Marina_Zueva
+1,156,L. Nichol,http://dbpedia.org/resource/Ralph_Nichols,http://dbpedia.org/resource/Lori_Nichol http://dbpedia.org/resource/Lori_Nicol
+1,158,D. Wilson,http://dbpedia.org/resource/Tracy_Wilson,http://dbpedia.org/resource/David_Wilson_(figure_skater) http://dbpedia.org/resource/David_Wilson_(figure_skating)
+1,161,L. Nichol,http://dbpedia.org/resource/Ralph_Nichols,http://dbpedia.org/resource/Lori_Nichol http://dbpedia.org/resource/Lori_Nicol
+1,162,D. Wilson,http://dbpedia.org/resource/Tracy_Wilson,http://dbpedia.org/resource/David_Wilson_(figure_skater) http://dbpedia.org/resource/David_Wilson_(figure_skating)
+1,167,K. Johnson,http://dbpedia.org/resource/Dwayne_Johnson,http://dbpedia.org/resource/Kelly_Johnson_(figure_skater)

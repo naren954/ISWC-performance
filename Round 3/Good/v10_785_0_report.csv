@@ -1,0 +1,7 @@
+F1: 0.80769,Precision: 0.80769,Recall: 0.80769,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,5,Amboy Illinois Central Depot,http://dbpedia.org/resource/Newbern_Depot,http://dbpedia.org/resource/James_Nocquet http://dbpedia.org/resource/Amboy_Depot_Museum http://dbpedia.org/resource/Amboy_Illinois_Central_Depot
+0,9,Allen-Lambe House,http://dbpedia.org/resource/Allen–Lambe_House,http://dbpedia.org/resource/Allen-Lambe_House http://dbpedia.org/resource/Arthur_W._Kincade_House http://dbpedia.org/resource/Henry_J._Allen_House
+0,11,All Souls Church,"http://dbpedia.org/resource/All_Souls_Church,_Langham_Place","http://dbpedia.org/resource/All_Souls_Church_(Augusta,_Maine) http://dbpedia.org/resource/Alls_Souls_Church"
+0,12,All Saints Memorial Church,"http://dbpedia.org/resource/All_Saint's_Memorial_Church_(Navesink,_New_Jersey)",http://dbpedia.org/resource/All_Saints_Memorial_Church
+0,13,All Saints Church,"http://dbpedia.org/resource/All_Saints'_Church,_Hertford","http://dbpedia.org/resource/All_Saints'_Episcopal_Church_(Peterborough,_New_Hampshire) http://dbpedia.org/resource/All_Saints_Church_(Peterborough,_New_Hampshire) http://dbpedia.org/resource/All_Saints_Episcopal_Church_(Peterborough,_New_Hampshire)"

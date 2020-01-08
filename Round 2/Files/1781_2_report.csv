@@ -1,0 +1,6 @@
+"F1: 0.90000","Precision: 0.90000","Recall: 0.90000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"2","5","M. Schnur","http://dbpedia.org/resource/Brayden_Schnur","http://dbpedia.org/resource/Max_Schnur"
+"2","13","J. Thompson","http://dbpedia.org/resource/Jason_Thompson_(first_baseman,_born_1971)","http://dbpedia.org/resource/Jordan_Thompson_(tennis)"
+"2","15","J. Thompson","http://dbpedia.org/resource/Jason_Thompson_(first_baseman,_born_1971)","http://dbpedia.org/resource/Jordan_Thompson_(tennis)"
+"2","20","A. González","http://dbpedia.org/resource/Yumari_González","http://dbpedia.org/resource/Alejandro_González_(tennis) http://dbpedia.org/resource/Alejandro_Gonzalez_(tennis)"

@@ -1,0 +1,5 @@
+"F1: 0.50000","Precision: 0.50000","Recall: 0.50000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","1","W. Scott","http://dbpedia.org/resource/William_Scott_(English_cricketer,_born_1903)","http://dbpedia.org/resource/Walter_Scott_Publishing_Co. http://dbpedia.org/resource/Walter_Scott_Publishing http://dbpedia.org/resource/Walter_Scott_(1st_Baronet_of_Beauclerc) http://dbpedia.org/resource/Sir_Walter_Scott,_1st_Baronet_of_Beauclerc http://dbpedia.org/resource/Sir_Walter_Scott,_1st_Baronet,_of_Beauclerc"
+"1","3","W. M. Scott","http://dbpedia.org/resource/Norman_M._Scott","http://dbpedia.org/resource/William_Martin_Scott"
+"1","5","K. Wood","http://de.dbpedia.org/resource/Kevin_Wood","http://dbpedia.org/resource/Keith_Wood"

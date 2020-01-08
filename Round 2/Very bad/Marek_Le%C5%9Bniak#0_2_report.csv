@@ -1,0 +1,8 @@
+F1: 0.14286,Precision: 0.14286,Recall: 0.14286,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,2,"Zawisza Bydgoszcz Stadium, Bydgoszcz, Poland",http://dbpedia.org/resource/Zawisza_Bydgoszcz,http://dbpedia.org/resource/Zdzisław_Krzyszkowiak_Stadium
+2,3,"Zawisza Bydgoszcz Stadium, Bydgoszcz, Poland",http://dbpedia.org/resource/Zawisza_Bydgoszcz,http://dbpedia.org/resource/Zdzisław_Krzyszkowiak_Stadium
+2,4,"Polish Army Stadium, Warsaw, Poland",http://dbpedia.org/resource/Poland,http://dbpedia.org/resource/Wojska_Polskiego_Stadium http://dbpedia.org/resource/Stadion_Marszalka_Jozefa_Pilsudskiego http://dbpedia.org/resource/Legia_Stadium http://dbpedia.org/resource/Stadion_Legii http://dbpedia.org/resource/Stadion_Wojska_Polskiego http://dbpedia.org/resource/Polish_Army_Stadium http://dbpedia.org/resource/Stadion_Marszałka_Józefa_Piłsudskiego
+2,5,"Makario Stadium, Nicosia, Cyprus",http://dbpedia.org/resource/GSP_Stadium,http://dbpedia.org/resource/Makario_Stadium
+2,8,"Stadio Olimpico, Serravalle, San Marino",http://dbpedia.org/resource/Stadio_Olimpico,http://dbpedia.org/resource/Serravalle_Stadium http://dbpedia.org/resource/Stadio_Olimpico_(San_Marino) http://dbpedia.org/resource/San_Marino_Stadium http://dbpedia.org/resource/Stadio_Olimpico_(Serravalle) http://dbpedia.org/resource/Stadio_Olimpico_di_Serravalle
+2,9,"Stadio Olimpico, Serravalle, San Marino",http://dbpedia.org/resource/Stadio_Olimpico,http://dbpedia.org/resource/Serravalle_Stadium http://dbpedia.org/resource/Stadio_Olimpico_(San_Marino) http://dbpedia.org/resource/San_Marino_Stadium http://dbpedia.org/resource/Stadio_Olimpico_(Serravalle) http://dbpedia.org/resource/Stadio_Olimpico_di_Serravalle

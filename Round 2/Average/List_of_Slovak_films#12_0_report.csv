@@ -1,0 +1,3 @@
+F1: 0.66667,Precision: 0.66667,Recall: 0.66667,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,45,Goat,http://dbpedia.org/resource/The_Goat_(How_I_Met_Your_Mother),http://dbpedia.org/resource/Koza_(film) http://dbpedia.org/resource/Goat_(2015_film)

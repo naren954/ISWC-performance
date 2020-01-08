@@ -1,0 +1,38 @@
+F1: 0.81347,Precision: 0.81347,Recall: 0.81347,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,What Comes Around,http://dbpedia.org/resource/What_Goes_Around..._Comes_Around,http://dbpedia.org/resource/What_Comes_Around
+0,4,What Are You Waiting For?,http://dbpedia.org/resource/What_You_Waiting_For?,http://dbpedia.org/resource/What_Are_You_Waiting_For?_(The_Saturdays_song)
+0,5,What Are You Waiting For?,http://dbpedia.org/resource/What_You_Waiting_For?,http://dbpedia.org/resource/What_Are_You_Waiting_For?_(Nickelback_song)
+0,15,What About Us?,http://dbpedia.org/resource/What_About_Us_(Jodeci_song),http://dbpedia.org/resource/What_About_Us?_(Total_song)
+0,16,What About Us?,http://dbpedia.org/resource/What_About_Us_(Jodeci_song),http://dbpedia.org/resource/What_About_Us?_(Brandy_song)
+0,17,What About Now,http://dbpedia.org/resource/What_About_Now_(album),http://dbpedia.org/resource/What_About_Now_(Lonestar_song)
+0,18,What About Now,http://dbpedia.org/resource/What_About_Now_(album),http://dbpedia.org/resource/What_About_Now_(Westlife_cover) http://dbpedia.org/resource/What_About_Now_(Daughtry_song) http://dbpedia.org/resource/What_About_Now_(Westlife_song)
+0,20,What About Love,http://dbpedia.org/resource/What_About_Love,http://dbpedia.org/resource/What_About_Love_(Desert_Rose_Band_song) http://dbpedia.org/resource/What_About_Love_(The_Desert_Rose_Band_song)
+0,24,What's a Woman?,http://dbpedia.org/resource/She's_a_Woman_(And_Now_He_Is_a_Man),http://dbpedia.org/resource/What's_a_Woman?
+0,27,What's Your Sign?,http://dbpedia.org/resource/What's_Your_Name_(Lynyrd_Skynyrd_song),http://dbpedia.org/resource/What's_Your_Sign?_(song)
+0,28,What's Your Number?,http://dbpedia.org/resource/What's_Your_Name_(Lynyrd_Skynyrd_song),http://dbpedia.org/resource/What's_Your_Number?_(song)
+0,29,What's Your Name,http://dbpedia.org/resource/What's_Your_Name_(Lynyrd_Skynyrd_song),http://dbpedia.org/resource/What's_Your_Name_(Usher_song)
+0,36,What's Next?,http://dbpedia.org/resource/What's_Next_(Leaders_of_the_New_School_song),http://dbpedia.org/resource/What's_Next?_(Godsmack_song)
+0,37,What's My Name?,http://dbpedia.org/resource/Loud_(Rihanna_album),http://dbpedia.org/resource/What's_My_Name?_(Snoop_Doggy_Dogg_song)
+0,38,What's My Name?,http://dbpedia.org/resource/Loud_(Rihanna_album),http://dbpedia.org/resource/What's_My_Name?_(DMX_song)
+0,43,What's Happening Brother,http://dbpedia.org/resource/What's_Going_On_(Marvin_Gaye_album),"http://dbpedia.org/resource/What's_Happening,_Brother? http://dbpedia.org/resource/What's_Happening_Brother? http://dbpedia.org/resource/What's_Happening,_Brother http://dbpedia.org/resource/What's_Happening_Brother"
+0,53,Wet,http://dbpedia.org/resource/Wet_(album),http://dbpedia.org/resource/Wet_(Snoop_Dog_song) http://dbpedia.org/resource/Wet_(snoop_dogg_song) http://dbpedia.org/resource/Sweat_(Snoop_Dogg_song) http://dbpedia.org/resource/Wet_(Snoop_Dogg_song)
+0,55,Westside,http://dbpedia.org/resource/Westside_(Athlete_song),http://dbpedia.org/resource/Westside_(Fetty_Wap_song)
+0,63,Welcome to the World,http://dbpedia.org/resource/Welcome_to_the_World_(Noiseworks_song),http://dbpedia.org/resource/Welcome_to_the_World_(song) http://dbpedia.org/resource/Welcome_to_the_World_(Kevin_Rudolf_song) http://dbpedia.org/resource/Welcome_to_the_World(song)
+0,71,Welcome to This World,http://dbpedia.org/resource/Welcome_to_the_World_(Noiseworks_song),http://dbpedia.org/resource/Welcome_To_This_World http://dbpedia.org/resource/Welcome_to_This_World
+0,78,Welcome,http://dbpedia.org/resource/Welcome_(Erick_Sermon_song),http://dbpedia.org/resource/Welcome_(Fort_Minor_song)
+0,80,Weight of the World,http://dbpedia.org/resource/Weight_of_the_World_(Evanescence_song),http://dbpedia.org/resource/Weight_of_the_World_(Lemar_song)
+0,85,Weekend,http://dbpedia.org/resource/Weekend_(Eddie_Cochran_song),http://dbpedia.org/resource/Weekend!_(Scooter_song) http://dbpedia.org/resource/Weekend_(Earth_and_Fire_song) http://dbpedia.org/resource/Weekend!_(Earth_and_Fire_song)
+0,86,Week,http://dbpedia.org/resource/Week_End_(X_Japan_song),http://dbpedia.org/resource/Week! http://dbpedia.org/resource/Week_(Do_As_Infinity_song) http://dbpedia.org/resource/Week!_(Do_As_Infinity)
+0,98,Weak,http://dbpedia.org/resource/Weak_(Skunk_Anansie_song),http://dbpedia.org/resource/Weak_(SWV_song)
+0,120,We Ride,http://dbpedia.org/resource/We_Ride,http://dbpedia.org/resource/We_Ride_((I_See_the_Future)) http://dbpedia.org/resource/We_Ride_(Mary_J._Blige_song) http://dbpedia.org/resource/We_Ride_(I_See_the_Future) http://dbpedia.org/resource/We_Ride_(I_See_The_Future)
+0,127,We Made It,http://dbpedia.org/resource/We_Made_You,http://dbpedia.org/resource/We_Made_It_(song) http://dbpedia.org/resource/We_Made_It_(Busta_Ryhmes_song) http://dbpedia.org/resource/We_Made_It_(Busta_Rhymes_song) http://dbpedia.org/resource/We_Made_It
+0,129,We Love You,http://dbpedia.org/resource/We_Love_You,http://dbpedia.org/resource/We_Love_You_(OMD_song)
+0,137,We Got the Power,http://dbpedia.org/resource/We_Got_the_Power_(Loreen_song),http://dbpedia.org/resource/We_Got_the_Power http://dbpedia.org/resource/We_Got_The_Power
+0,143,We Don't Need Another Hero,http://dbpedia.org/resource/Another_Brick_in_the_Wall,http://dbpedia.org/resource/We_Don't_Need_Another_Hero_(Northern_Kings_version) http://dbpedia.org/resource/We_Don't_Need_Another_Hero_(Thunderdome) http://dbpedia.org/resource/We_Don't_Need_Another_Hero http://dbpedia.org/resource/We_don´t_need_another_hero
+0,154,We Can Work It Out,http://dbpedia.org/resource/We_Can_Work_It_Out_(Sweetbox_song),http://dbpedia.org/resource/We_can_work_it_out http://dbpedia.org/resource/We_Can't_Work_It_Out http://dbpedia.org/resource/We_Can_Work_It_Out http://dbpedia.org/resource/We_Can_Work_It_Out_(The_Beatles_song)
+0,159,We Can,http://dbpedia.org/resource/Yes_We_Can_(will.i.am_song),http://dbpedia.org/resource/We_Can_(song) http://dbpedia.org/resource/We_Can http://dbpedia.org/resource/We_Can_(LeAnn_Rimes_song)
+0,165,We Are the World,http://dbpedia.org/resource/We_Are_the_World,http://dbpedia.org/resource/We_Are_the_World_(Twenty_4_Seven_song)
+0,168,We Are the People,http://dbpedia.org/resource/We_Are_the_People_(Feeder_song),http://dbpedia.org/resource/We_are_the_People_(Empire_of_the_Sun_song) http://dbpedia.org/resource/We_Are_the_People_(Empire_of_the_Sun_song)
+0,179,We Ain't Goin' Down,http://dbpedia.org/resource/Ain't_Goin'_Down_('Til_the_Sun_Comes_Up),http://dbpedia.org/resource/We_Ain't_Goin'_Down http://dbpedia.org/resource/We_Ain't_Goin'_Down_(Shakaya_Song)
+0,183,We've Got It Made,http://dbpedia.org/resource/I've_Got_It_Made,http://dbpedia.org/resource/We've_Got_It_Made

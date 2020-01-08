@@ -1,0 +1,5 @@
+"F1: 0.88000","Precision: 0.88000","Recall: 0.88000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","11","Plymouth Municipal Airport","http://dbpedia.org/resource/Plymouth_Municipal_Airport_(North_Carolina)","http://dbpedia.org/resource/KPYM http://dbpedia.org/resource/Plymouth_Municipal_Airport_(Massachusetts)"
+"0","12","Plymouth Municipal Airport","http://dbpedia.org/resource/Plymouth_Municipal_Airport_(North_Carolina)","http://dbpedia.org/resource/Plymouth_Municipal_Airport_(Indiana)"
+"0","24","Pittsfield Municipal Airport","http://dbpedia.org/resource/Pittsfield_Municipal_Airport_(Maine)","http://dbpedia.org/resource/Pittsfield_Airport http://dbpedia.org/resource/Pittsfield_Municipal_Airport_(Massachusetts)"

@@ -1,0 +1,8 @@
+F1: 0.76000,Precision: 0.76000,Recall: 0.76000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,6,Ring Ring,http://dbpedia.org/resource/Ring_Ring_(ABBA_song),http://dbpedia.org/resource/Ring_Ring_(song) http://dbpedia.org/resource/Ring_Ring_(English_version) http://dbpedia.org/resource/Bara_Du_Slog_En_Signal http://dbpedia.org/resource/Ring_Ring_(Bara_Du_Slog_En_Signal) http://dbpedia.org/resource/Ring_Ring_(Swedish_version)
+0,12,Relay,http://dbpedia.org/resource/Relayer,http://dbpedia.org/resource/Relay_(song) http://dbpedia.org/resource/The_Relay
+0,14,"Red, White and Blue","http://dbpedia.org/resource/Courtesy_of_the_Red,_White_and_Blue_(The_Angry_American)","http://dbpedia.org/resource/Red,_White_and_Blue_(song)"
+0,16,Rain,http://dbpedia.org/resource/Purple_Rain_(song),http://dbpedia.org/resource/Rain_(The_Beatles_song) http://dbpedia.org/resource/Rain_(Beatles_song)
+0,19,Quicksand,http://dbpedia.org/resource/Quicksand_(Martha_and_the_Vandellas_song),http://dbpedia.org/resource/Quicksand_(Bowie_song) http://dbpedia.org/resource/Quicksand_(David_Bowie_song)
+0,20,Question,http://dbpedia.org/resource/Question!,http://dbpedia.org/resource/Question_(The_Moody_Blues_song)

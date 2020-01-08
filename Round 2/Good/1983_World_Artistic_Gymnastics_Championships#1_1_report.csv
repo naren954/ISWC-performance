@@ -1,0 +1,4 @@
+F1: 0.88235,Precision: 0.88235,Recall: 0.88235,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,6,Li Ning (CHN),http://dbpedia.org/resource/Philippines,http://dbpedia.org/resource/Li_Ning_(gymnast) http://dbpedia.org/resource/李宁 http://dbpedia.org/resource/李寧 http://dbpedia.org/resource/Li_Ning http://dbpedia.org/resource/Lǐ_Níng
+1,13,Jens Fischer (GDR),http://de.dbpedia.org/resource/Jens_Malte_Fischer,http://dbpedia.org/resource/Jens_Fischer

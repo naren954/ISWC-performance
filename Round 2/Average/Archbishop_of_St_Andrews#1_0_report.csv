@@ -1,0 +1,18 @@
+F1: 0.63636,Precision: 0.63636,Recall: 0.63636,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Cellach I,http://dbpedia.org/resource/Cellach_of_Armagh,http://dbpedia.org/resource/Cellach_I http://dbpedia.org/resource/Cellach_I_of_Cennrígmonaid http://dbpedia.org/resource/Kellach http://dbpedia.org/resource/Cellach_I_of_Cennrigmonaid
+0,2,Fothad I,http://dbpedia.org/resource/Fothad_II,http://dbpedia.org/resource/Fothad_I http://dbpedia.org/resource/Fothad_I_of_Cennrigmonaid http://dbpedia.org/resource/Fothad_I_of_Cennrígmonaid
+0,3,MÃ¡el Ã\u008Dsu I,http://dbpedia.org/resource/Social_Democratic_Youth_of_Denmark,http://dbpedia.org/resource/Máel_Ísu_I_(bishop_of_the_Scots)
+0,4,Cellach II,http://dbpedia.org/resource/Cellach_of_Armagh,http://dbpedia.org/resource/Cellach_II_of_Cennrígmonaid http://dbpedia.org/resource/Cellach_II http://dbpedia.org/resource/Cellach_II_of_Cennrigmonaid
+0,5,MÃ¡el Muire,http://dbpedia.org/resource/Máel_Muire_Ó_Lachtáin,http://dbpedia.org/resource/Máel_Muire_(bishop_of_the_Scots)
+0,6,MÃ¡el Ã\u008Dsu II,http://dbpedia.org/resource/Dionysius_II_of_Syracuse,http://dbpedia.org/resource/Máel_Ísu_II_(bishop_of_the_Scots)
+0,7,AilÃ­n,http://dbpedia.org/resource/Alan_of_Galloway,http://dbpedia.org/resource/Ailín_(bishop)
+0,8,MÃ¡el DÃºin,http://dbpedia.org/resource/Máel_Dúin_mac_Conaill,http://dbpedia.org/resource/Máel_Dúin_(bishop_of_the_Scots)
+0,12,CathrÃ³e,http://dbpedia.org/resource/Cathróe_of_Metz,http://dbpedia.org/resource/Cathróe_(bishop_of_the_Scots)
+0,19,John Scotus,http://dbpedia.org/resource/Duns_Scotus,http://dbpedia.org/resource/John_the_Scot_(Bishop_of_Dunkeld) http://dbpedia.org/resource/John_Scotus_(Bishop_of_Dunkeld) http://dbpedia.org/resource/John_Scotus_(bishop_of_Dunkeld) http://dbpedia.org/resource/John_l'Escot http://dbpedia.org/resource/John_the_Scot_(bishop_of_Dunkeld)
+0,27,William Wishart,http://dbpedia.org/resource/Robert_Wishart,"http://dbpedia.org/resource/Wishart,_William http://dbpedia.org/resource/William_Wishart_(bishop) http://dbpedia.org/resource/William_Wishart"
+0,28,William Fraser,http://dbpedia.org/resource/William_Fraser_(bishop_of_St_Andrews),"http://dbpedia.org/resource/William_Fraser_(bishop) http://dbpedia.org/resource/William_Fraser_(Guardian_of_Scotland) http://dbpedia.org/resource/William_Fraser,_Bishop_of_St._Andrews"
+0,30,Alexander de Kininmund,http://dbpedia.org/resource/Alexander_de_Kininmund_(died_1380),http://dbpedia.org/resource/Alexander_de_Kininmund_(d._1344) http://dbpedia.org/resource/Alexander_Kininmonth_I http://dbpedia.org/resource/Alexander_de_Kininmonth_I http://dbpedia.org/resource/Alexander_de_Kininmund_(died_1344)
+0,32,William Bell,http://dbpedia.org/resource/William_Bell_Jr.,http://dbpedia.org/resource/William_Bell_(bishop)
+0,35,Stephen de Pa,http://dbpedia.org/resource/Stephen_Paddock,http://dbpedia.org/resource/Stephen_de_Pa
+0,37,Thomas Stewart,http://dbpedia.org/resource/Thomas_Stewart_(bishop_of_St_Andrews),http://dbpedia.org/resource/Thomas_Stewart_(bishop)

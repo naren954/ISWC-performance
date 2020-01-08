@@ -1,0 +1,5 @@
+F1: 0.82353,Precision: 0.82353,Recall: 0.82353,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,4,Cumbria,http://dbpedia.org/resource/University_of_Cumbria,"http://dbpedia.org/resource/Cwmry http://dbpedia.org/resource/Cumbria http://dbpedia.org/resource/Cumbria,_England http://dbpedia.org/resource/East_Cumbria http://dbpedia.org/resource/West_Cumbria"
+3,5,British Columbia Interior,http://dbpedia.org/resource/British_Columbia,http://dbpedia.org/resource/The_Interior_(British_Columbia) http://dbpedia.org/resource/The_Interior http://dbpedia.org/resource/British_Columbia_Inerior http://dbpedia.org/resource/BC_Interior http://dbpedia.org/resource/Interior_of_British_Columbia http://dbpedia.org/resource/British_Columbia_Interior http://dbpedia.org/resource/Bc_interior http://dbpedia.org/resource/Southern_Interior
+3,9,Savoie,http://dbpedia.org/resource/Savoy,http://dbpedia.org/resource/Savoie_(department) http://dbpedia.org/resource/Savoie_(departement) http://dbpedia.org/resource/Savoie_(département) http://dbpedia.org/resource/Savoie

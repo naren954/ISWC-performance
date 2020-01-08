@@ -1,0 +1,16 @@
+F1: 0.84946,Precision: 0.84946,Recall: 0.84946,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,9,K. Miller,http://dbpedia.org/resource/Keith_Miller,http://dbpedia.org/resource/Kay_Miller http://dbpedia.org/resource/Kathleen_Miller_(swimmer)
+0,11,K. Schubert,http://dbpedia.org/resource/Knut_Schubert,http://dbpedia.org/resource/Karl_Schubert
+0,16,K. Kárpáti,http://dbpedia.org/resource/Rudolf_Kárpáti,http://dbpedia.org/resource/Karoly_Karpati http://dbpedia.org/resource/Károly_Kárpáti
+0,25,J. Garay,http://dbpedia.org/resource/Jesús_Garay,http://dbpedia.org/resource/Juan_Garay
+0,27,J. Cooper,"http://dbpedia.org/resource/Joe_Cooper_(footballer,_born_1918)",http://dbpedia.org/resource/Joyce_Badcock http://dbpedia.org/resource/M._Joyce_Cooper http://dbpedia.org/resource/Margaret_Joyce_Cooper http://dbpedia.org/resource/Joyce_Cooper http://dbpedia.org/resource/Margaret_Cooper
+0,28,J. González,http://dbpedia.org/resource/Jorge_González_(wrestler),http://dbpedia.org/resource/José_González_(swimmer) http://dbpedia.org/resource/Jose_Gonzalez_(swimmer)
+0,33,J. González,http://dbpedia.org/resource/Jorge_González_(wrestler),http://dbpedia.org/resource/José_González_(swimmer) http://dbpedia.org/resource/Jose_Gonzalez_(swimmer)
+0,39,J. Paulsen,http://dbpedia.org/resource/Jan_Paulsen_(badminton),http://dbpedia.org/resource/John_Paulsen_(swimmer) http://dbpedia.org/resource/John_Paulsen
+0,40,J. Marshall,http://dbpedia.org/resource/Jack_Marshall_(soccer),http://dbpedia.org/resource/John_Birnie_Marshall http://dbpedia.org/resource/John_Marshall_(swimmer)
+0,50,J. Brink,http://dbpedia.org/resource/Julius_Brink,http://dbpedia.org/resource/Johannes_Brink
+0,56,J. Balke,http://dbpedia.org/resource/Jörg_Balke,http://dbpedia.org/resource/Jochen_Balke http://dbpedia.org/resource/Joachim_Balke
+0,68,J. v. Silfhout,http://dbpedia.org/resource/Jean_van_Silfhout_(sportsman),http://dbpedia.org/resource/Jean_van_Silfhout http://dbpedia.org/resource/Jean_Silfhout http://dbpedia.org/resource/Jean_Van_Silfhout
+0,81,J. Nelson,http://dbpedia.org/resource/Jim_Nelson_(baseball),http://dbpedia.org/resource/Jack_Nelson_(swimmer)
+0,91,I. Tanner,http://dbpedia.org/resource/Vera_Tanner,http://dbpedia.org/resource/Iris_Tanner http://dbpedia.org/resource/Irene_Tanner

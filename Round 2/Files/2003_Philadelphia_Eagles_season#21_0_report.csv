@@ -1,0 +1,4 @@
+"F1: 0.00000","Precision: 0.00000","Recall: 0.00000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","4","Washington Redskins","http://dbpedia.org/resource/Washington_Redskins","http://dbpedia.org/resource/2003_Washington_Redskins_season"
+"0","5","New York Giants","http://dbpedia.org/resource/New_York_(state)","http://dbpedia.org/resource/2003_New_York_Giants_season"

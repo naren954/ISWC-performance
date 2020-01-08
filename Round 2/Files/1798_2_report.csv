@@ -1,0 +1,3 @@
+"F1: 0.85714","Precision: 0.85714","Recall: 0.85714"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"2","5","Bridgeport, California","http://dbpedia.org/resource/Bridgeport,_Connecticut","http://dbpedia.org/resource/Bridgeport,_California http://dbpedia.org/resource/Bridgeport,_CA"

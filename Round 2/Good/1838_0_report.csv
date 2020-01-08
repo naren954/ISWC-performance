@@ -1,0 +1,14 @@
+F1: 0.91837,Precision: 0.91837,Recall: 0.91837,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,7,R. Bourque,http://dbpedia.org/resource/Ray_Bourque,http://dbpedia.org/resource/Ryan_Bourque
+0,8,R. Zainullin,,http://dbpedia.org/resource/Ruslan_Zainullin http://dbpedia.org/resource/Ruslan_Zaynullin
+0,10,R. Bashkirov,http://dbpedia.org/resource/Andrei_Bashkirov,http://dbpedia.org/resource/Ruslan_Bashkirov
+0,18,R. Petrovický,http://dbpedia.org/resource/Róbert_Petrovický,http://dbpedia.org/resource/Ron_Petrovicky http://dbpedia.org/resource/Ronald_Petrovický http://dbpedia.org/resource/Ronald_Petrovicky
+0,26,R. Málek,http://de.dbpedia.org/resource/Marian_Málek,http://dbpedia.org/resource/Roman_Málek http://dbpedia.org/resource/Roman_Malek
+0,45,R. Czarnik,http://dbpedia.org/resource/Austin_Czarnik,http://dbpedia.org/resource/Robert_Czarnik http://dbpedia.org/resource/Robbie_Czarnik
+0,57,R. Nash,http://dbpedia.org/resource/Rick_Nash,http://dbpedia.org/resource/Riley_Nash
+0,68,R. Rochefort,http://dbpedia.org/resource/Normand_Rochefort,http://dbpedia.org/resource/Richard_Rochefort
+0,78,R. Smith,http://dbpedia.org/resource/J._R._Smith,http://dbpedia.org/resource/Reilly_Smith
+0,92,R. Torres,http://dbpedia.org/resource/Rainer_Torres,http://dbpedia.org/resource/Raffi_Torres
+0,117,P. Bouchard,http://dbpedia.org/resource/Pierre_Bouchard,http://dbpedia.org/resource/Pierre-Marc_Bouchard http://dbpedia.org/resource/Pierre_marc_bouchard
+0,128,P. Varone,http://dbpedia.org/resource/Phil_Varone_(ice_hockey),http://dbpedia.org/resource/Philip_Varone

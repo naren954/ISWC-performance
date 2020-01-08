@@ -1,0 +1,15 @@
+F1: 0.69048,Precision: 0.69048,Recall: 0.69048,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,J. Burroughs,http://dbpedia.org/resource/William_S._Burroughs,http://dbpedia.org/resource/Jackie_Burroughs
+0,4,J. Starrett,http://dbpedia.org/resource/Charles_Starrett,http://dbpedia.org/resource/Jack_Starrett http://dbpedia.org/resource/Claude_Ennis_Starrett_Jr. http://dbpedia.org/resource/Claude_E._Starrett_Jr. http://dbpedia.org/resource/Claude_Starrett http://dbpedia.org/resource/Claude_Starrett_Jr. http://dbpedia.org/resource/Claude_Ennis_Starrett
+0,5,J. Riley,http://dbpedia.org/resource/Jimmy_Riley,http://dbpedia.org/resource/John_A._Riley http://dbpedia.org/resource/Jack_Riley_(actor) http://dbpedia.org/resource/John_A._Riley_Jr.
+0,6,J. Pickford,http://dbpedia.org/resource/Mary_Pickford,http://dbpedia.org/resource/Jack_Pickford
+0,8,J. Mercer,http://dbpedia.org/resource/Johnny_Mercer,http://dbpedia.org/resource/Jack_Mercer
+0,9,J. Lord,http://dbpedia.org/resource/Jon_Lord,http://dbpedia.org/resource/John_Joseph_Patrick_Ryan http://dbpedia.org/resource/Marie_Lord http://dbpedia.org/resource/John_Joseph_Ryan http://dbpedia.org/resource/Jack_Lord http://dbpedia.org/resource/Jack_Lord_filmography
+0,15,J. Kelly,http://dbpedia.org/resource/Jonathan_Kelly,http://dbpedia.org/resource/Jack_Kelly_(actor)
+0,18,J. Carter,http://dbpedia.org/resource/Janis_Carter,http://dbpedia.org/resource/Jack_Carter_(comedian)
+0,21,J. Barry,http://dbpedia.org/resource/John_Barry_(composer),http://dbpedia.org/resource/Jack_Barry_(game_show_host) http://dbpedia.org/resource/Jack_Barasch http://dbpedia.org/resource/Jack_Barry_(television_personality) http://dbpedia.org/resource/Jack_Barry_(television)
+0,24,J. P. O'Malley,http://dbpedia.org/resource/Martin_O'Malley,http://dbpedia.org/resource/J._Patt_O'Malley http://dbpedia.org/resource/J._Patrick_O'Malley http://dbpedia.org/resource/J._Pat_OMalley http://dbpedia.org/resource/J._Pat_O'Malley http://dbpedia.org/resource/James_Patrick_O'Malley
+0,31,I. Haglund,http://dbpedia.org/resource/Linda_Haglund,http://dbpedia.org/resource/Ivar_Hagland http://dbpedia.org/resource/Ivar_Haglund
+0,34,I. Keyes,http://dbpedia.org/resource/Alicia_Keys,http://dbpedia.org/resource/Irwin_Keyes
+0,42,I. Balin,http://dbpedia.org/resource/Irving_Berlin,http://dbpedia.org/resource/Ina_Balin http://dbpedia.org/resource/Ina_Rosenberg

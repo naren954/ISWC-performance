@@ -1,0 +1,5 @@
+"F1: 0.72727","Precision: 0.72727","Recall: 0.72727"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","2","The Dagger","http://dbpedia.org/resource/The_Hindoo_Dagger","http://dbpedia.org/resource/Nož http://dbpedia.org/resource/The_Dagger_(1999_film) http://dbpedia.org/resource/The_Knife_(1999_film) http://dbpedia.org/resource/The_Knife_(Serbian_film)"
+"1","3","The Wounds","http://dbpedia.org/resource/The_Wounded","http://dbpedia.org/resource/Rane_(film) http://dbpedia.org/resource/The_Wounds http://dbpedia.org/resource/The_Wounds_(film)"
+"1","4","The Hornet","http://dbpedia.org/resource/The_Green_Hornet_(2011_film)","http://dbpedia.org/resource/The_Hornet"

@@ -1,0 +1,9 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,Nigeria,http://dbpedia.org/resource/Nigeria,http://dbpedia.org/resource/Nigeria_women's_national_basketball_team
+1,2,Mali,http://dbpedia.org/resource/Mali,http://dbpedia.org/resource/Mali_women's_national_basketball_team
+1,4,DR Congo,http://dbpedia.org/resource/Democratic_Republic_of_the_Congo,http://dbpedia.org/resource/DR_Congo_women's_national_basketball_team
+1,5,Angola,http://dbpedia.org/resource/Angola,http://dbpedia.org/resource/Angola_women's_national_basketball_team
+1,6,Mozambique,http://dbpedia.org/resource/Mozambique,http://dbpedia.org/resource/Mozambique_women's_national_basketball_team
+1,7,Senegal,http://dbpedia.org/resource/Senegal,http://dbpedia.org/resource/Senegal_women's_national_basketball_team
+1,8,Gabon,http://dbpedia.org/resource/Gabon,http://dbpedia.org/resource/Gabon_women's_national_basketball_team

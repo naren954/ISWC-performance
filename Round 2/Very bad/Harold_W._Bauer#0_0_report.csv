@@ -1,0 +1,4 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Purple Heart,,"http://dbpedia.org/resource/Purple_Heart,_Order_of_the http://dbpedia.org/resource/Purple_Heart_Medal http://dbpedia.org/resource/Purple-Heart http://dbpedia.org/resource/Purple_Heart http://dbpedia.org/resource/Purple_heart_winners http://dbpedia.org/resource/Purple_heart http://dbpedia.org/resource/Order_of_the_Purple_Heart http://dbpedia.org/resource/Pruple_heart"
+0,2,American Defense Service Medal,http://dbpedia.org/resource/Distinguished_Service_Medal_(U.S._Army),http://dbpedia.org/resource/American_Defense_Medal http://dbpedia.org/resource/American_Defense_Service_Medal http://dbpedia.org/resource/American_Defence_Service_Medal

@@ -1,0 +1,7 @@
+F1: 0.50000,Precision: 0.50000,Recall: 0.50000,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,2,M. Plummer,http://dbpedia.org/resource/Christopher_Plummer,http://dbpedia.org/resource/Mary_Plummer
+2,5,Pejácsevich,http://dbpedia.org/resource/Teodor_Pejačević,http://dbpedia.org/resource/Peyachevichi http://dbpedia.org/resource/Pejacevic http://dbpedia.org/resource/Pejacsevich http://dbpedia.org/resource/Pejačevići http://dbpedia.org/resource/Peyachevich http://dbpedia.org/resource/House_of_Pejačević http://dbpedia.org/resource/Pejácsevich http://dbpedia.org/resource/House_of_Pejacevic http://dbpedia.org/resource/Pejacevici http://dbpedia.org/resource/Pejačević
+2,7,R. Ecevit,http://dbpedia.org/resource/Bülent_Ecevit,http://dbpedia.org/resource/Rahsan_Ecevit http://dbpedia.org/resource/Rahşan_Ecevit
+2,8,L. Faulkner,http://dbpedia.org/resource/Lisa_Faulkner,http://dbpedia.org/resource/Lucy_Barbara_Ethel_Faulkner http://dbpedia.org/resource/Lucy_Faulkner http://dbpedia.org/resource/Lucy_Barbara_Ethel_Forsythe http://dbpedia.org/resource/Lucy_Forsythe
+2,9,R. Ecevit,http://dbpedia.org/resource/Bülent_Ecevit,http://dbpedia.org/resource/Rahsan_Ecevit http://dbpedia.org/resource/Rahşan_Ecevit

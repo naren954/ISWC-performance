@@ -1,0 +1,5 @@
+F1: 0.96000,Precision: 0.96000,Recall: 0.96000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Millennium: Journal of International Studies,http://dbpedia.org/resource/Millennium_(journal),http://dbpedia.org/resource/Millennium:_Journal_of_International_Studies
+0,50,Linear Algebra and its Applications,http://dbpedia.org/resource/Linear_Algebra_and_Its_Applications,http://dbpedia.org/resource/Linear_Algebra_and_its_Applications
+0,54,Lebensmittel-Wissenschaft & Technologie,http://dbpedia.org/resource/LWT_(journal),http://dbpedia.org/resource/LWT_-_Food_Science_and_Technology http://dbpedia.org/resource/Katrin_Hecht http://dbpedia.org/resource/LWT-_Food_Science_and_Technology http://dbpedia.org/resource/Lebensmittel-Wissenschaft_&_Technologie

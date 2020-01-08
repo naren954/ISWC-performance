@@ -1,0 +1,4 @@
+F1: 0.50000,Precision: 0.50000,Recall: 0.50000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,48 Hours,http://dbpedia.org/resource/48_Hours_(TV_program),http://dbpedia.org/resource/48_Hours_Investigates http://dbpedia.org/resource/48_Hours_(TV_series) http://dbpedia.org/resource/48_Hours_Mystery http://dbpedia.org/resource/48_Hours_(show)
+0,5,Who Do You Think You Are?,http://dbpedia.org/resource/Who_Do_You_Think_You_Are?_(British_TV_series),http://dbpedia.org/resource/Who_Do_You_Think_You_Are?_(US_TV_series) http://dbpedia.org/resource/Who_Do_You_Think_You_Are?_(U.S._TV_series)

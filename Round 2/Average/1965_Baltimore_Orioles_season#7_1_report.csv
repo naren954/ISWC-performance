@@ -1,0 +1,5 @@
+F1: 0.57143,Precision: 0.57143,Recall: 0.57143,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,5,Tri-City Atoms,http://dbpedia.org/resource/Tri-City_Dust_Devils,http://dbpedia.org/resource/Tri-City_Atoms http://dbpedia.org/resource/Tri-City_A's http://dbpedia.org/resource/Tri-Cities_Triplets http://dbpedia.org/resource/Tri-City_Ports http://dbpedia.org/resource/Tri-City_Braves http://dbpedia.org/resource/Tri-City_Triplets http://dbpedia.org/resource/Tri-City_Angels http://dbpedia.org/resource/Tri-City_Padres
+1,6,Aberdeen Pheasants,,http://dbpedia.org/resource/Aberdeen_Boosters http://dbpedia.org/resource/Aberdeen_Grays http://dbpedia.org/resource/Aberdeen_Pheasants
+1,7,Bluefield Orioles,http://dbpedia.org/resource/Baltimore_Orioles,http://dbpedia.org/resource/Bluefield_Blue_Jays http://dbpedia.org/resource/Bluefield_Dodgers http://dbpedia.org/resource/Bluefield_Orioles http://dbpedia.org/resource/Bluefield_Blue-Grays

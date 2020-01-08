@@ -1,0 +1,5 @@
+"F1: 0.72727","Precision: 0.72727","Recall: 0.72727"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","5","A. Wilson","http://dbpedia.org/resource/Arthur_Wilson_(English_footballer)","http://dbpedia.org/resource/Arthur_Wilson_(Australian_footballer) http://dbpedia.org/resource/Arthur_Wilson_(Australian_rules_footballer)"
+"0","7","A. Jones","http://dbpedia.org/resource/Art_Jones_(baseball)","http://dbpedia.org/resource/Arthur_Jones_(Australian_rules_footballer) http://dbpedia.org/resource/Arthur_Jones_(Australian_footballer)"
+"0","10","A. F. Jr.","http://dbpedia.org/resource/Arthur_Fox_Jr.","http://dbpedia.org/resource/Arthur_Fox,_Jr."

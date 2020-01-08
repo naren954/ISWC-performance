@@ -1,0 +1,33 @@
+F1: 0.69903,Precision: 0.69903,Recall: 0.69903,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,USS Virginia,http://dbpedia.org/resource/USS_Virginia_(BB-13),http://dbpedia.org/resource/USS_Virginia_(SSN-774) http://dbpedia.org/resource/U.S.S._Virginia http://dbpedia.org/resource/USS_Virginia_(SSN_774) http://dbpedia.org/resource/SSN-774
+0,3,USS Virginia,http://dbpedia.org/resource/USS_Virginia_(BB-13),http://dbpedia.org/resource/USS_Virginia_(CGN-38) http://dbpedia.org/resource/USS_Virginia_(DLGN-38)
+0,7,USS Vincennes,http://dbpedia.org/resource/USS_Vincennes_(CL-64),http://dbpedia.org/resource/USS_Vincennes_(CA-44)
+0,8,USS Vincennes,http://dbpedia.org/resource/USS_Vincennes_(CL-64),http://dbpedia.org/resource/USS_Vincennes_(1826) http://dbpedia.org/resource/USS_Vincennes_(1826-1867)
+0,9,USS Vigor,http://dbpedia.org/resource/USS_Vigor_(AMc-110),http://dbpedia.org/resource/USS_Vigor_(MSO-473) http://dbpedia.org/resource/Spanish_minesweeper_Guadiana http://dbpedia.org/resource/Spanish_ship_Guadiana http://dbpedia.org/resource/USS_Vigor_(AM-473) http://dbpedia.org/resource/Spanish_minesweeper_Guadiana_(M44)
+0,12,USS Vicksburg,http://dbpedia.org/resource/USS_Vicksburg_(CL-86),http://dbpedia.org/resource/USS_Vicksburg_(PG-11)
+0,16,USS Vermont,http://dbpedia.org/resource/USS_Vermont_(BB-20),http://dbpedia.org/resource/USS_Vermont_(1816) http://dbpedia.org/resource/USS_Vermont_(1848)
+0,19,USS Venture,http://dbpedia.org/resource/USS_Venture_(SP-616),http://dbpedia.org/resource/USS_Venture_(AM-496) http://dbpedia.org/resource/USS_Venture_(MSO-496) http://dbpedia.org/resource/AM-496 http://dbpedia.org/resource/MSO-496
+0,24,USS Vega,http://dbpedia.org/resource/USS_Vega_(AK-17),http://dbpedia.org/resource/USS_Vega_(AF-59)
+0,25,USS Vedette,http://dbpedia.org/resource/USS_Vedette_(1914),http://dbpedia.org/resource/USS_Vedette_(SP-163)
+0,37,USS Valor,http://dbpedia.org/resource/USS_Valor_(AMc-108),http://dbpedia.org/resource/USS_Valor_(MSO-472) http://dbpedia.org/resource/USS_Valor_(AM-472)
+0,49,USS Undaunted,http://dbpedia.org/resource/HMS_Undaunted_(N55),http://dbpedia.org/resource/USS_Undaunted_(ATA-199) http://dbpedia.org/resource/USS_ATR-126
+0,51,USS Unadilla,http://dbpedia.org/resource/USS_Unadilla_(ATA-182),http://dbpedia.org/resource/USS_Unadilla_(1861) http://dbpedia.org/resource/Unadilla_class
+0,60,USS Twiggs,http://dbpedia.org/resource/USS_Twiggs_(DD-127),http://dbpedia.org/resource/USS_Twiggs_(DD-591)
+0,63,USS Tutuila,http://dbpedia.org/resource/USS_Tutuila_(ARG-4),http://dbpedia.org/resource/RCS_Mei_Yuan http://dbpedia.org/resource/USS_Tutuila_(PG-44) http://dbpedia.org/resource/ROCS_Mei_Yuan http://dbpedia.org/resource/USS_Tutuila_(PR-4)
+0,68,USS Tuscaloosa,http://dbpedia.org/resource/USS_Tuscaloosa_(CA-37),http://dbpedia.org/resource/USS_Tuscaloosa_(LST_1187) http://dbpedia.org/resource/USS_LST-1187 http://dbpedia.org/resource/USS_Tuscaloosa_(LST-1187)
+0,69,USS Turquoise,http://dbpedia.org/resource/USS_Turquoise,http://dbpedia.org/resource/USS_Turquoise_(PY-18)
+0,70,USS Turner Joy,http://dbpedia.org/resource/USS_Turner_(DD-259),http://dbpedia.org/resource/USS_Turner_Joy_(DD-951) http://dbpedia.org/resource/USS_Joy_(DD-951) http://dbpedia.org/resource/USS_Turner_Joy http://dbpedia.org/resource/USS_C._Turner_Joy
+0,71,USS Turner,http://dbpedia.org/resource/USS_Turner_(DD-259),http://dbpedia.org/resource/USS_Turner_(DD-834) http://dbpedia.org/resource/USS_Turner_(DDR-834) http://dbpedia.org/resource/DD-834 http://dbpedia.org/resource/DDR-834
+0,72,USS Turner,http://dbpedia.org/resource/USS_Turner_(DD-259),http://dbpedia.org/resource/USS_Turner_(DD-648)
+0,74,USS Turkey,http://dbpedia.org/resource/USS_Turkey_(AM-13),http://dbpedia.org/resource/USS_Turkey_(AMS-56) http://dbpedia.org/resource/USS_YMS-444 http://dbpedia.org/resource/MSC(O)-56 http://dbpedia.org/resource/USS_Turkey_(MSC(O)-56) http://dbpedia.org/resource/YMS-444 http://dbpedia.org/resource/USS_Turkey_(YMS-444) http://dbpedia.org/resource/USS_Turkey_(MSCO-56) http://dbpedia.org/resource/AMS-56
+0,79,USS Tunxis,http://dbpedia.org/resource/USS_Tunxis_(AN-90),http://dbpedia.org/resource/USS_Hydra_(1869) http://dbpedia.org/resource/USS_Otsego_(1869) http://dbpedia.org/resource/USS_Otsego_(1864) http://dbpedia.org/resource/USS_Tunxis_(1864)
+0,80,USS Tunny,http://dbpedia.org/resource/USS_Tunny_(SS-282),http://dbpedia.org/resource/USS_Tunney_(SSN-682) http://dbpedia.org/resource/SSN-682 http://dbpedia.org/resource/USS_Tunny_(SSN-682)
+0,83,USS Tuna,http://dbpedia.org/resource/USS_Tuna_(SP-664),http://dbpedia.org/resource/SS-203 http://dbpedia.org/resource/USS_Tuna_(SS-203)
+0,84,USS Tumult,http://dbpedia.org/resource/HMS_Tumult_(R11),http://dbpedia.org/resource/MSF-127 http://dbpedia.org/resource/AM-127 http://dbpedia.org/resource/USS_Tumult_(MSF-127) http://dbpedia.org/resource/USS_Tumult http://dbpedia.org/resource/USS_TUMULT http://dbpedia.org/resource/USS_Tumult_(AM-127)
+0,85,USS Tulsa,http://dbpedia.org/resource/USS_Tulsa_(LCS-16),http://dbpedia.org/resource/USS_Tacloban http://dbpedia.org/resource/USS_Tulsa_(PG-22) http://dbpedia.org/resource/USS_Tacloban_(PG-22)
+0,92,USS Tucker,http://dbpedia.org/resource/USS_Tucker_(DD-57),http://dbpedia.org/resource/USS_Tucker_(DD-374)
+0,94,USS Truxtun,http://dbpedia.org/resource/USS_Truxtun_(APD-98),http://dbpedia.org/resource/USS_Truxtun_(DD-229) http://dbpedia.org/resource/USS_Truxton_(DD-229)
+0,95,USS Truxtun,http://dbpedia.org/resource/USS_Truxtun_(APD-98),http://dbpedia.org/resource/USS_Truxtun_(DD-14) http://dbpedia.org/resource/USS_Truxton_(DD-14)
+0,96,USS Truxtun,http://dbpedia.org/resource/USS_Truxtun_(APD-98),http://dbpedia.org/resource/USS_Truxtun_(DLGN-35) http://dbpedia.org/resource/Truxtun-class_cruiser http://dbpedia.org/resource/USS_Truxtun_(CGN-35) http://dbpedia.org/resource/Truxtun_class_cruiser
+0,98,USS Truxtun,http://dbpedia.org/resource/USS_Truxtun_(APD-98),http://dbpedia.org/resource/USS_Truxtun_(1842)

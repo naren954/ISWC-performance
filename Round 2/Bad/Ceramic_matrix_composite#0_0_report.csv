@@ -1,0 +1,4 @@
+F1: 0.50000,Precision: 0.50000,Recall: 0.50000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,Density (g\/cm3),http://dbpedia.org/resource/Density_21.5,http://dbpedia.org/resource/Kg*m^-3 http://dbpedia.org/resource/Densimetry http://dbpedia.org/resource/Denser http://dbpedia.org/resource/Matter_density http://dbpedia.org/resource/Kg/m^3 http://dbpedia.org/resource/Volumetric_density http://dbpedia.org/resource/Gas_density http://dbpedia.org/resource/Density http://dbpedia.org/resource/G/cm3 http://dbpedia.org/resource/Densiti http://dbpedia.org/resource/Densities http://dbpedia.org/resource/Specific_mass http://dbpedia.org/resource/Mass_Density http://dbpedia.org/resource/Average_density http://dbpedia.org/resource/Mass_density http://dbpedia.org/resource/Fluid_density
+0,5,Young's modulus (GPa),http://dbpedia.org/resource/Elastic_modulus,http://dbpedia.org/resource/Young's_modulus

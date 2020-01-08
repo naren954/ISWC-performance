@@ -1,0 +1,7 @@
+F1: 0.78261,Precision: 0.78261,Recall: 0.78261,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,Palisades-Dows Observatory,,http://dbpedia.org/resource/Palisades-Dows_Observatory http://dbpedia.org/resource/Palisades_Dows_Observatory
+0,9,Peach Mountain Observatory,http://dbpedia.org/resource/Purple_Mountain_Observatory,http://dbpedia.org/resource/Peach_Mountain_Observatory
+0,12,Pic du Midi Observatory,http://ru.dbpedia.org/resource/Обсерватория_Пик-дю-Миди,http://dbpedia.org/resource/Pic_du_Midi_Observatory http://dbpedia.org/resource/Pic_du_Midi_de_Bigorre http://dbpedia.org/resource/Observatoire_du_Pic_du_Midi http://dbpedia.org/resource/Observatoire_du_Pic_du_Midi_de_Bigorre http://dbpedia.org/resource/Observatoire_du_Pic-du-Midi
+0,17,Pine Mountain Observatory,http://dbpedia.org/resource/Wyoming_Infrared_Observatory,http://dbpedia.org/resource/Pine_Mountain_Observatory
+0,21,PoznaÅ\u0084 Observatory,,http://dbpedia.org/resource/Poznań_Observatory

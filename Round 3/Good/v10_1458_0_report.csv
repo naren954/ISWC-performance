@@ -1,0 +1,5 @@
+F1: 0.88462,Precision: 0.88462,Recall: 0.88462,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,Subspecies of Galápagos tortoise,http://dbpedia.org/resource/Pinta_Island_tortoise,http://dbpedia.org/resource/Subspecies_of_Geochelone_nigra http://dbpedia.org/resource/Floreana_Island_tortoise http://dbpedia.org/resource/Volcán_Wolf_tortoise http://dbpedia.org/resource/Chelonoidis_nigra_becki http://dbpedia.org/resource/Chelonoidis_nigra_duncanensis http://dbpedia.org/resource/Subspecies_of_Galápagos_tortoise http://dbpedia.org/resource/Floreana_Tortoise http://dbpedia.org/resource/Subspecies_of_Galapagos_tortoise http://dbpedia.org/resource/Narborough_island_tortoise
+0,6,Red milk snake,http://dbpedia.org/resource/Milk_snake,http://dbpedia.org/resource/Red_milk_snake http://dbpedia.org/resource/Lampropeltis_triangulum_syspila http://dbpedia.org/resource/Red_milksnake
+0,12,Northern ribbon snake,http://dbpedia.org/resource/Southern_ribbon_snake,http://dbpedia.org/resource/Northern_ribbon_snake http://dbpedia.org/resource/Thamnophis_sauritus_septentrionalis http://dbpedia.org/resource/Northern_Ribbon_Snake

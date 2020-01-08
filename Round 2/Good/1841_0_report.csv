@@ -1,0 +1,10 @@
+F1: 0.90805,Precision: 0.90805,Recall: 0.90805,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,11,M. Tanguay,http://dbpedia.org/resource/Alex_Tanguay,http://dbpedia.org/resource/Maxime_Tanguay
+0,38,M. Jones,"http://dbpedia.org/resource/Mark_Jones_(basketball,_born_1961)",http://dbpedia.org/resource/Max_Jones_(ice_hockey)
+0,42,M. Campbell,http://dbpedia.org/resource/Mat_Campbell,http://dbpedia.org/resource/Max_Campbell_(ice_hockey)
+0,45,M. Barrett,"http://dbpedia.org/resource/Mike_Barrett_(basketball,_born_1943)",http://dbpedia.org/resource/Maurice_Barrett
+0,59,M. Spencer,http://uk.dbpedia.org/resource/Меттью_Спенсер,http://dbpedia.org/resource/Matthew_Spencer_(ice_hockey)
+0,71,M. Murray,http://dbpedia.org/resource/Marty_Murray,http://dbpedia.org/resource/Matt_Murray_(ice_hockey) http://dbpedia.org/resource/Matthew_Murray_(ice_hockey)
+0,75,M. Martin,http://dbpedia.org/resource/Marcus_Martin,"http://dbpedia.org/resource/Matt_Martin_(ice_hockey_b._1989) http://dbpedia.org/resource/Matt_Martin_(ice_hockey,_born_1989) http://dbpedia.org/resource/Matthew_Martin_(ice_hockey_b._1989)"
+0,79,M. Kennedy,"http://dbpedia.org/resource/Mark_Kennedy_(footballer,_born_1976)",http://dbpedia.org/resource/Matt_Kennedy_(ice_hockey)

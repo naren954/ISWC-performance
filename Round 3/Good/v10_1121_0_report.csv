@@ -1,0 +1,13 @@
+F1: 0.84722,Precision: 0.84722,Recall: 0.84722,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,6,That's Not Me,http://dbpedia.org/resource/That's_Not_Me_(Skepta_song),http://dbpedia.org/resource/That's_Not_Me http://dbpedia.org/resource/That's_Not_Me_(song) http://dbpedia.org/resource/That's_Not_Me_(The_Beach_Boys_song)
+0,7,That's My Goal,http://dbpedia.org/resource/That's_My_Girl,http://dbpedia.org/resource/That's_My_Goal
+0,8,That's How You Know,http://dbpedia.org/resource/That's_How_You_Know_(When_You're_in_Love),http://dbpedia.org/resource/That's_How_You_Know_(musical_number) http://dbpedia.org/resource/That's_How_You_Know_(Disney_song) http://dbpedia.org/resource/How_does_she_know
+0,11,Thank You Girl,http://dbpedia.org/resource/Thank_You_(Dido_song),http://dbpedia.org/resource/Thank_You_Girl http://dbpedia.org/resource/Thank-you_girl http://dbpedia.org/resource/Thankyou_girl http://dbpedia.org/resource/Thank_You_Girl_(The_Beatles_song)
+0,13,Thank You,http://dbpedia.org/resource/Thank_You_(Dido_song),http://dbpedia.org/resource/Thank_You_(Sevendust_song)
+0,14,Thank You,http://dbpedia.org/resource/Thank_You_(Dido_song),http://dbpedia.org/resource/Thank_You_(Hellyeah_song)
+0,47,Te Quiero,http://dbpedia.org/resource/Te_Quiero_(Ricardo_Arjona_song),http://dbpedia.org/resource/Te_Quiero_(Stromae_song)
+0,51,Tattoo,http://dbpedia.org/resource/Tattoo_(Van_Halen_song),http://dbpedia.org/resource/Tattoo_(The_Who_song)
+0,53,Talking to the Moon,http://dbpedia.org/resource/Talking_to_the_Moon,http://dbpedia.org/resource/Talking_to_the_Moon_(song)
+0,57,Talk Talk,http://dbpedia.org/resource/Talk_Talk_(Talk_Talk_song),http://dbpedia.org/resource/Talk_Talk_(The_Music_Machine_song) http://dbpedia.org/resource/Talk_Talk_(The_Music_Machine_single)
+0,58,Talk Dirty,http://dbpedia.org/resource/Talk_Dirty_(Jason_Derulo_song),http://dbpedia.org/resource/Talk_Dirty_(John_Entwistle_song)

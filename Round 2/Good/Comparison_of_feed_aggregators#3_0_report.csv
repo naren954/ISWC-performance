@@ -1,0 +1,7 @@
+F1: 0.90196,Precision: 0.90196,Recall: 0.90196,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Akregator,http://fr.dbpedia.org/resource/Akregator,http://dbpedia.org/resource/KAddressBook http://dbpedia.org/resource/Kdepim http://dbpedia.org/resource/Akregator http://dbpedia.org/resource/Korganizer http://dbpedia.org/resource/Kjots http://dbpedia.org/resource/Kmail http://dbpedia.org/resource/KMail http://dbpedia.org/resource/KNode http://dbpedia.org/resource/Kontact http://dbpedia.org/resource/KOrganizer http://dbpedia.org/resource/KDE-PIM http://dbpedia.org/resource/Knode http://dbpedia.org/resource/KDE_Personal_Information_Management
+0,10,Feed Viewer,http://dbpedia.org/resource/TeamViewer,http://dbpedia.org/resource/Feed_Viewer
+0,14,Gnus,http://dbpedia.org/resource/GNOME,http://dbpedia.org/resource/Gnus_Network_User_Services http://dbpedia.org/resource/(ding) http://dbpedia.org/resource/Gnus
+0,22,Mail (OS X),http://dbpedia.org/resource/Gmail,http://dbpedia.org/resource/Mac_OS_X_mail http://dbpedia.org/resource/Mail_(OS_X) http://dbpedia.org/resource/Mail_(Mac_OS_X) http://dbpedia.org/resource/Apple_mail http://dbpedia.org/resource/AppleMail http://dbpedia.org/resource/Apple_Mail http://dbpedia.org/resource/.emlx http://dbpedia.org/resource/Mail.app http://dbpedia.org/resource/Mac_OS_mail http://dbpedia.org/resource/Mail_(Apple) http://dbpedia.org/resource/Emlx http://dbpedia.org/resource/Mail_(OSX) http://dbpedia.org/resource/Mac_mail
+0,32,NewsAccess,,http://dbpedia.org/resource/NewsAccess

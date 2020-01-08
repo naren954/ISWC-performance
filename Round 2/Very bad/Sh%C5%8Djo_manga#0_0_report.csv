@@ -1,0 +1,9 @@
+F1: 0.22222,Precision: 0.22222,Recall: 0.22222,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Ciao,http://dbpedia.org/resource/Kudai,http://dbpedia.org/resource/Chao_Magazine http://dbpedia.org/resource/Ciao.shogakukan.co.jp http://dbpedia.org/resource/ちゃお http://dbpedia.org/resource/Chao_(magazine) http://dbpedia.org/resource/Ciao_(magazine)
+0,3,Ribon,http://dbpedia.org/resource/Common_pandora,http://dbpedia.org/resource/Ribon http://dbpedia.org/resource/Ribon_Magazine http://dbpedia.org/resource/Ribon_magazine
+0,4,Bessatsu Margaret,http://dbpedia.org/resource/Bessatsu_Hana_to_Yume,http://dbpedia.org/resource/Bessatsu_Margaret http://dbpedia.org/resource/Betsuma
+0,6,Cookie,http://dbpedia.org/resource/Cookie_(film),http://dbpedia.org/resource/Cookie_(manga) http://dbpedia.org/resource/Cookie_(manga_magazine)
+0,8,Margaret,http://dbpedia.org/resource/Margaret_Thatcher,http://dbpedia.org/resource/Margaret_(magazine) http://dbpedia.org/resource/Aoi_Spice http://dbpedia.org/resource/Margaret_Magazine http://dbpedia.org/resource/Margaret_magazine http://dbpedia.org/resource/Margaret_(manga_magazine) http://dbpedia.org/resource/Margaret_Comics http://dbpedia.org/resource/The_Margaret_(magazine)
+0,9,LaLa,"http://dbpedia.org/resource/Lala,_Lanao_del_Norte",http://dbpedia.org/resource/LaLa_Magazine http://dbpedia.org/resource/Lala_(magazine) http://dbpedia.org/resource/LaLa http://dbpedia.org/resource/LaLa_(magazine)
+0,10,Cheese!,http://dbpedia.org/resource/Cheese,http://dbpedia.org/resource/Monthly_Cheese! http://dbpedia.org/resource/Cheese!

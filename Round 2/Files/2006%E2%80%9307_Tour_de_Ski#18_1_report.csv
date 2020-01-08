@@ -1,0 +1,6 @@
+"F1: 0.71429","Precision: 0.71429","Recall: 0.71429"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","1","Petra MajdiÄ\u008D","http://dbpedia.org/resource/Petra_Overzier","http://dbpedia.org/resource/Petra_Majdič"
+"1","4","Valentina Shevchenko","http://dbpedia.org/resource/Valentyna_Shevchenko_(cross-country_skier)","http://dbpedia.org/resource/Valentina_Shevchenko_(disambiguation) http://dbpedia.org/resource/Valentina_Shevchenko"
+"1","13","KateÅ\u0099ina NeumannovÃ¡","nan","http://dbpedia.org/resource/Kateřina_Neumannová"
+"1","14","Claudia KÃ¼nzel-Nystad","http://dbpedia.org/resource/Claudia_Nystad","http://dbpedia.org/resource/Claudia_Künzel-Nystad"

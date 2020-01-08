@@ -1,0 +1,22 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,1,ISBN 1-4012-3056-3,http://dbpedia.org/resource/4012_Geballe,http://dbpedia.org/resource/Special:BookSources/1401230563
+3,2,ISBN 1-4012-3295-7,,http://dbpedia.org/resource/Special:BookSources/1401232957
+3,3,ISBN 1-56389-087-9,,http://dbpedia.org/resource/Special:BookSources/1563890879
+3,4,ISBN 1-56389-566-8,,http://dbpedia.org/resource/Special:BookSources/1563895668
+3,5,ISBN 1-56389-713-X,,http://dbpedia.org/resource/Special:BookSources/156389713X
+3,6,ISBN 1-56389-811-X,,http://dbpedia.org/resource/Special:BookSources/156389811X
+3,7,ISBN 1-4012-0404-X,,http://dbpedia.org/resource/Special:BookSources/140120404X
+3,8,ISBN 1-4012-1189-5,,http://dbpedia.org/resource/Special:BookSources/1401211895
+3,9,ISBN 1-4012-3513-1,http://dbpedia.org/resource/4012_Geballe,http://dbpedia.org/resource/Special:BookSources/1401235131
+3,10,ISBN 1-4012-2163-7,,http://dbpedia.org/resource/Special:BookSources/1401221637
+3,11,ISBN 1-4012-2499-7,,http://dbpedia.org/resource/Special:BookSources/1401224997
+3,12,ISBN 1-4012-2915-8,,http://dbpedia.org/resource/Special:BookSources/1401229158
+3,13,ISBN 1-4012-3396-1,http://dbpedia.org/resource/4012_Geballe,http://dbpedia.org/resource/Special:BookSources/1401233961
+3,14,ISBN 1-4012-0759-6,,http://dbpedia.org/resource/Special:BookSources/1401207596
+3,15,ISBN 1-4012-1264-6,http://dbpedia.org/resource/LNER_Thompson_Class_B1_(6)1264,http://dbpedia.org/resource/Special:BookSources/1401212646
+3,16,ISBN 1-4012-1792-3,http://dbpedia.org/resource/4012_Geballe,http://dbpedia.org/resource/Special:BookSources/1401217923
+3,17,ISBN 1-4012-2278-1,http://dbpedia.org/resource/4012_Geballe,http://dbpedia.org/resource/Special:BookSources/1401222781
+3,18,ISBN 1-4012-3023-7,,http://dbpedia.org/resource/Special:BookSources/1401230237
+3,19,ISBN 1-4012-0224-1,http://dbpedia.org/resource/4012_Geballe,http://dbpedia.org/resource/Special:BookSources/1401202241
+3,20,ISBN 1-4012-0230-6,,http://dbpedia.org/resource/Special:BookSources/1401202306

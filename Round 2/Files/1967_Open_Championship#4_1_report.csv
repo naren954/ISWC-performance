@@ -1,0 +1,5 @@
+"F1: 0.66667","Precision: 0.66667","Recall: 0.66667"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","1","Roberto De Vicenzo","http://dbpedia.org/resource/Roberto_Clemente","http://dbpedia.org/resource/Roberto_DeVicenzo http://dbpedia.org/resource/Roberto_De_Vicenzo http://dbpedia.org/resource/Roberto_de_Vicenzo"
+"1","4","Clive Clark","http://dbpedia.org/resource/Clive_Clark_(footballer)","http://dbpedia.org/resource/Clive_Clark_(golfer)"
+"1","5","Bruce Devlin","http://dbpedia.org/resource/Art_Devlin_(ski_jumper)","http://dbpedia.org/resource/Bruce_Devlin"

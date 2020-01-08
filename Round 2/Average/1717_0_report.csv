@@ -1,0 +1,39 @@
+F1: 0.64078,Precision: 0.64078,Recall: 0.64078,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Krylatskoye District,http://dbpedia.org/resource/Krylatskoye_(Moscow_Metro),http://dbpedia.org/resource/Krylatskoye_District http://dbpedia.org/resource/Krylatsky http://dbpedia.org/resource/Krylatskaya http://dbpedia.org/resource/Krylatskoye_Municipal_Okrug http://sws.geonames.org/9883030/
+0,2,Girona railway station,http://dbpedia.org/resource/Girona_railway_station,http://sws.geonames.org/8435671/
+0,3,Beresteiska,http://dbpedia.org/resource/Beresteiska_(Kiev_Metro),http://sws.geonames.org/7839325/
+0,4,Elektrozavodskaya,http://dbpedia.org/resource/Elektrozavodskaya_(Moscow_Metro),http://sws.geonames.org/6418600/
+0,5,Dmitrovskaya,http://dbpedia.org/resource/Dmitrovskaya_(Moscow_Metro),http://sws.geonames.org/6418551/
+0,6,Belyayevo,http://dbpedia.org/resource/Belyayevo_(Moscow_Metro),http://sws.geonames.org/577604/
+0,7,Konkovo,http://dbpedia.org/resource/Konkovo_(Moscow_Metro),http://sws.geonames.org/577603/
+0,8,Lyublino,http://dbpedia.org/resource/Lyublino_(Moscow_Metro),http://sws.geonames.org/532535/
+0,9,Maryino,http://dbpedia.org/resource/Maryino_(Moscow_Metro),http://sws.geonames.org/529237/
+0,10,Medvedkovo,http://dbpedia.org/resource/Medvedkovo_(Moscow_Metro),http://sws.geonames.org/527981/
+0,11,Novogireyevo,http://dbpedia.org/resource/Novogireyevo_(Moscow_Metro),http://sws.geonames.org/518879/
+0,12,Novye Cheryomushki,http://dbpedia.org/resource/Novye_Cheryomushki_(Moscow_Metro),http://sws.geonames.org/517161/
+0,13,Petrovsko-Razumovskaya,http://dbpedia.org/resource/Petrovsko-Razumovskaya,http://sws.geonames.org/509904/
+0,14,Planernaya,http://dbpedia.org/resource/Planernaya_(Moscow_Metro),http://sws.geonames.org/509141/
+0,15,Shchukinskaya,http://dbpedia.org/resource/Shchukinskaya,http://sws.geonames.org/495134/
+0,16,Sokol,http://dbpedia.org/resource/Sokol_(Moscow_Metro),http://sws.geonames.org/491280/
+0,17,Sviblovo,http://dbpedia.org/resource/Sviblovo_(Moscow_Metro),http://sws.geonames.org/485630/
+0,18,Vladykino,http://dbpedia.org/resource/Vladykino_(Serpukhovsko–Timiryazevskaya_line),http://sws.geonames.org/473127/
+0,31,Vladykino,http://dbpedia.org/resource/Vladykino_(Serpukhovsko–Timiryazevskaya_line),http://dbpedia.org/resource/Vladykino_(Moscow_Metro) http://dbpedia.org/resource/Vladykino_(Metro)
+0,32,Varshavskaya,http://dbpedia.org/resource/Varshavskaya_(Moscow_Metro),http://dbpedia.org/resource/Varshavskaya
+0,35,Universitet,http://dbpedia.org/resource/University_of_Oxford,http://dbpedia.org/resource/Universitet_(Moscow_Metro)
+0,45,Timiryazevskaya,http://dbpedia.org/resource/Timiryazevskaya_(Serpukhovsko–Timiryazevskaya_line),http://dbpedia.org/resource/Timiryazevskaya_(Metro) http://dbpedia.org/resource/Timiryazevskaya_(Moscow_Metro)
+0,48,Taganskaya,http://dbpedia.org/resource/Taganskaya_(Koltsevaya_line),http://dbpedia.org/resource/Taganskaya_(Tagansko-Krasnopresnenskaya_Line) http://dbpedia.org/resource/Taganskaya-Radialnaya
+0,49,Taganskaya,http://dbpedia.org/resource/Taganskaya_(Koltsevaya_line),http://dbpedia.org/resource/Taganskaya-Kol'tsevaya http://dbpedia.org/resource/Taganskaya-Koltsevaya http://dbpedia.org/resource/Taganskaya_(Koltsevaya_Line)
+0,60,Smolenskaya,http://dbpedia.org/resource/Smolenskaya_(Arbatsko–Pokrovskaya_line),http://dbpedia.org/resource/Smolenskaya_(Filovskaya) http://dbpedia.org/resource/Smolenskaya_Filyovskaya_Line http://dbpedia.org/resource/Smolenskaya_(Filyovskaya_Line) http://dbpedia.org/resource/Smolenskaya_(Filyovskaya)
+0,61,Smolenskaya,http://dbpedia.org/resource/Smolenskaya_(Arbatsko–Pokrovskaya_line),http://dbpedia.org/resource/Smolenskaya_(Arbatsko-Pokrovskaya) http://dbpedia.org/resource/Smolenskaya_(Arbatsko-Pokrovskaya_Line)
+0,71,Savyolovskaya,http://dbpedia.org/resource/Savyolovskaya_(Serpukhovsko–Timiryazevskaya_line),http://dbpedia.org/resource/Savyolovskaya
+0,77,Pushkinskaya,http://dbpedia.org/resource/Pushkinskaya_(Saint_Petersburg_Metro),http://dbpedia.org/resource/Pushkinskaya_(Moscow_Metro)
+0,79,Prospekt Mira,http://dbpedia.org/resource/Prospekt_Mira_(Koltsevaya_line),http://dbpedia.org/resource/Prospekt_Mira_(Koltsevaya_Line) http://dbpedia.org/resource/Prospekt_Mira-Koltsevaya http://dbpedia.org/resource/Prospekt_Mira-Kol'tsevaya
+0,80,Prospekt Mira,http://dbpedia.org/resource/Prospekt_Mira_(Koltsevaya_line),http://dbpedia.org/resource/Prospekt_Mira_(Kaluzhsko—Rizhskaya_Line) http://dbpedia.org/resource/Prospekt_Mira-Radial'naja http://dbpedia.org/resource/Prospekt_Mira-Radialnaya http://dbpedia.org/resource/Prospekt_Mira_(Kaluzhsko-Rizhskaya_Line) http://dbpedia.org/resource/Prospekt_Mira_(Kaluzhsko–Rizhskaya_Line)
+0,93,Paveletskaya,http://dbpedia.org/resource/Paveletskaya_(Zamoskvoretskaya_line),http://dbpedia.org/resource/Paveletskaya-Radialnaya http://dbpedia.org/resource/Paveletskaya-Radial'naya http://dbpedia.org/resource/Paveletskaya_(Zamoskvoretskaya_Line)
+0,94,Paveletskaya,http://dbpedia.org/resource/Paveletskaya_(Zamoskvoretskaya_line),http://dbpedia.org/resource/Paveletskaya_(Koltsevaya_Line) http://dbpedia.org/resource/Paveletskaya-Koltsevaya http://dbpedia.org/resource/Paveletskaya-Kol'tsevaya
+0,96,Park Kultury,http://dbpedia.org/resource/Park_Kultury_(Sokolnicheskaya_line),http://dbpedia.org/resource/Park_Kultury-Radialnaya http://dbpedia.org/resource/Park_Kul'tury-Radial'naya http://dbpedia.org/resource/Park_Kultury_(Sokolnicheskaya_Line) http://dbpedia.org/resource/Park_Kul'turi-Radial'naya
+0,97,Park Kultury,http://dbpedia.org/resource/Park_Kultury_(Sokolnicheskaya_line),http://dbpedia.org/resource/Park_Kultury_(Koltsevaya_Line) http://dbpedia.org/resource/Park_Kultury-Koltsevaya http://dbpedia.org/resource/Park_Kul'tury-Kol'tsevaya
+0,100,Oktyabrskoye Pole,http://dbpedia.org/resource/Oktyabrskoye_Polye,http://dbpedia.org/resource/Oktyabrskoe_Pole http://dbpedia.org/resource/Oktyabrskoye_Pole http://dbpedia.org/resource/Oktiabrskoye_Pole http://dbpedia.org/resource/Oktyabrskoe_Polye
+0,101,Oktyabrskaya,http://dbpedia.org/resource/Oktyabrskaya_(Koltsevaya_line),http://dbpedia.org/resource/Oktyabrskaya_(Koltsevaya_Line) http://dbpedia.org/resource/Oktyabr'skaya-Kol'tsevaya http://dbpedia.org/resource/Oktyabrskaya-Koltsevaya http://dbpedia.org/resource/Oktiabrskaya-Koltsevaya
+0,102,Oktyabrskaya,http://dbpedia.org/resource/Oktyabrskaya_(Koltsevaya_line),http://dbpedia.org/resource/Oktjabr'skaja-Radial'naja http://dbpedia.org/resource/Oktiabrskaya-Radialnaya http://dbpedia.org/resource/Oktyabrskaya-Radialnaya http://dbpedia.org/resource/Oktyabrskaya_(Kaluzhsko-Rizhskaya_Line)

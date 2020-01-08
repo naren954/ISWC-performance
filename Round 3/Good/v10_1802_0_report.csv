@@ -1,0 +1,19 @@
+F1: 0.88667,Precision: 0.88667,Recall: 0.88667,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,33,Santa María,http://dbpedia.org/resource/Santa_Maria_del_Camí,http://dbpedia.org/resource/Santiaguito http://dbpedia.org/resource/Volcán_Santamaria http://dbpedia.org/resource/Volcán_Santa_María http://dbpedia.org/resource/Santa_María_Volcano http://dbpedia.org/resource/Volcan_Santa_Maria http://dbpedia.org/resource/Santa_María_(volcano) http://dbpedia.org/resource/Santamaría_(volcano) http://dbpedia.org/resource/Santa_Maria_Volcano http://dbpedia.org/resource/Santa_Maria_(volcano) http://dbpedia.org/resource/Volcán_Santa_Maria http://dbpedia.org/resource/Santamaria_(volcano) http://dbpedia.org/resource/Volcan_Santamaria
+0,34,Santa Isabel,http://dbpedia.org/resource/Santa_Isabel_Island,http://dbpedia.org/resource/Santa_Isabel_(volcano) http://dbpedia.org/resource/Snow_Mountain_of_St._Isabel http://dbpedia.org/resource/Nevado_de_Santa_Isabel
+0,39,San Pedro,"http://dbpedia.org/resource/San_Pedro,_Laguna",http://dbpedia.org/resource/San_Pedro_(Chile_volcano)
+0,40,San Miguel,http://dbpedia.org/resource/San_Miguel_de_Allende,http://dbpedia.org/resource/Volcán_San_Miguel http://dbpedia.org/resource/Volcan_San_Miguel http://dbpedia.org/resource/San_Miguel_(volcano) http://dbpedia.org/resource/Chaparrastique_volcano http://dbpedia.org/resource/Chaparrastique
+0,42,San José,"http://dbpedia.org/resource/San_Jose,_California",http://dbpedia.org/resource/San_José_Volcano http://dbpedia.org/resource/San_Jose_(volcano) http://dbpedia.org/resource/San_José_(volcano) http://dbpedia.org/resource/San_Jose_Volcano
+0,49,Ruby Mountain,http://dbpedia.org/resource/Ruby_Mountains,http://dbpedia.org/resource/Ruby_Mountain
+0,50,Ruang,http://dbpedia.org/resource/Mount_Ruang,http://dbpedia.org/resource/Ruang
+0,56,Reykjanesskagi,http://de.dbpedia.org/resource/Reykjanesskagi,http://dbpedia.org/resource/Reykjanesskagi
+0,71,Pyramid Mountain,http://de.dbpedia.org/resource/Pyramid_Mountain_(Viktorialand),http://dbpedia.org/resource/Pyramid_Mountain_(Wells_Gray-Clearwater) http://dbpedia.org/resource/Pyramid_Mountain_(volcano)
+0,76,Putana Volcano,http://dbpedia.org/resource/Putana_(volcano),http://dbpedia.org/resource/Putana_Volcano
+0,91,Pilot Knob,"http://dbpedia.org/resource/Pilot_Knob_(Iron_County,_Missouri)","http://dbpedia.org/resource/Pilot_Knob_(Austin,_Texas)"
+0,100,Payun Matru,http://dbpedia.org/resource/Payún_Matrú,http://dbpedia.org/resource/Payun_Matru
+0,110,Pali-Aike Volcanic Field,http://dbpedia.org/resource/Pali-Aike_volcanic_field,http://dbpedia.org/resource/Pali-Aike_Volcanic_Field http://dbpedia.org/resource/Palei-Aike_Volc_Field http://dbpedia.org/resource/Palei-Aike_Volcanic_Field
+0,115,Pacana Caldera,http://dbpedia.org/resource/Piz_Calderas,http://dbpedia.org/resource/La_Pacana http://dbpedia.org/resource/Pacana_Caldera
+0,120,Opala volcano,http://dbpedia.org/resource/Opala_(volcano),http://dbpedia.org/resource/Opala_volcano
+0,133,Niigata-Yake-Yama,http://dbpedia.org/resource/Niigata-Yakeyama,http://dbpedia.org/resource/Niigata-Yake-Yama
+0,143,Nemrut,http://dbpedia.org/resource/Mount_Nemrut,http://dbpedia.org/resource/Nemrut_Dagi_(volcano) http://dbpedia.org/resource/Nemrut_(volcano) http://dbpedia.org/resource/Çiyayê_Nemrud

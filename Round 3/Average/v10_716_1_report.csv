@@ -1,0 +1,8 @@
+F1: 0.75000,Precision: 0.75000,Recall: 0.75000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,2,B. Garrett,http://dbpedia.org/resource/Bill_Garrett_(basketball),http://dbpedia.org/resource/Brad_Garret http://dbpedia.org/resource/Brad_Garrett
+1,4,B. Thompson,http://dbpedia.org/resource/Benjamin_Thompson,http://dbpedia.org/resource/Bill_Thompson_(voice_actor) http://dbpedia.org/resource/Wallace_Wimple
+1,10,B. Davis,http://dbpedia.org/resource/Beryl_Davis,"http://dbpedia.org/resource/Davis,_Bette http://dbpedia.org/resource/Harmon_Nelson http://dbpedia.org/resource/Ruth_Elizabeth_""Bette""_Davis http://dbpedia.org/resource/Bette_Davis http://dbpedia.org/resource/Bette_Davies http://dbpedia.org/resource/Bettie_Davis http://dbpedia.org/resource/Arthur_Farnsworth. http://dbpedia.org/resource/Arthur_Farnsworth_(Bette_Davis'_husband) http://dbpedia.org/resource/Ruth_E._Davis http://dbpedia.org/resource/Ruth_Elizabeth_Davis"
+1,13,C. Stevens,http://dbpedia.org/resource/J._Christopher_Stevens,http://dbpedia.org/resource/Something_Beautiful_(Connie_Stevens_song) http://dbpedia.org/resource/Connie_Stevens
+1,14,B. Jordan,http://dbpedia.org/resource/Barbara_Jordan,http://dbpedia.org/resource/Bobby_Jordan http://dbpedia.org/resource/Bobby_jordan
+1,21,B. Jordan,http://dbpedia.org/resource/Barbara_Jordan,http://dbpedia.org/resource/Bobby_Jordan http://dbpedia.org/resource/Bobby_jordan

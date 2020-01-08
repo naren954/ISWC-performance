@@ -1,0 +1,34 @@
+F1: 0.72650,Precision: 0.72650,Recall: 0.72650,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,19,Springs of Life,http://dbpedia.org/resource/Spring_of_Life_(film),http://dbpedia.org/resource/Springs_of_Life
+0,24,Spider-Man,http://dbpedia.org/resource/Spider-Man_and_His_Amazing_Friends,http://dbpedia.org/resource/The_Wedding_(Spider-man_episode) http://dbpedia.org/resource/Spider-Man_(1994_animated_series) http://dbpedia.org/resource/Spider-Man_the_Animated_Series http://dbpedia.org/resource/Spider-Man_(1994_TV_series) http://dbpedia.org/resource/Spider-Man:_the_animated_series http://dbpedia.org/resource/Spider-Man_1994 http://dbpedia.org/resource/Spider-Man:_The_Animated_Series http://dbpedia.org/resource/Spider-Man_Cartoon_Maker http://dbpedia.org/resource/Spiderman_TAS http://dbpedia.org/resource/Spiderman_1990 http://dbpedia.org/resource/Spider-Man:The_Animated_Series http://dbpedia.org/resource/Spiderman_cartoon_maker http://dbpedia.org/resource/Spider-Man_TAS http://dbpedia.org/resource/Spider-Man_(1994_TV_Series) http://dbpedia.org/resource/Spiderman:_The_Animated_Series http://dbpedia.org/resource/Spider-man:_Guilty http://dbpedia.org/resource/Spiderman_(1994_animated_Series) http://dbpedia.org/resource/The_Return_Of_The_Green_Goblin http://dbpedia.org/resource/Spider-Man_The_Animated_Series
+0,25,Spider-Man,http://dbpedia.org/resource/Spider-Man_and_His_Amazing_Friends,http://dbpedia.org/resource/Spider-Man_(1981_TV_series) http://dbpedia.org/resource/Spider-Man_5000 http://dbpedia.org/resource/Spider-Man_(1980_TV_series) http://dbpedia.org/resource/Spider-Man_(1980) http://dbpedia.org/resource/Spider-Man_(1981)
+0,39,Somos tú y yo: un nuevo día,http://dbpedia.org/resource/Somos_tú_y_yo:_Un_nuevo_día,http://dbpedia.org/resource/Somos_tú_y_yo:_un_nuevo_día
+0,41,Somos tú y yo: un nuevo día,http://dbpedia.org/resource/Somos_tú_y_yo:_Un_nuevo_día,http://dbpedia.org/resource/Somos_tú_y_yo:_un_nuevo_día
+0,46,Someone Like You,http://dbpedia.org/resource/Someone_like_You_(film),http://dbpedia.org/resource/Someone_Like_You_(TV_series)
+0,48,Soledad,,http://dbpedia.org/resource/Soledad_(telenovela)
+0,50,Sol Nascente,http://dbpedia.org/resource/Rising_Sun_(film),http://dbpedia.org/resource/Sol_Nascente
+0,52,So Random!,http://dbpedia.org/resource/Sonny_with_a_Chance,http://dbpedia.org/resource/So_Random!_(TV_series) http://dbpedia.org/resource/So_Random http://dbpedia.org/resource/So_Random!_(season_1) http://dbpedia.org/resource/Sonny_with_a_chance_season_3 http://dbpedia.org/resource/So_Random! http://dbpedia.org/resource/So_Random_!_(TV_series) http://dbpedia.org/resource/Matthew_scott_Montgomery http://dbpedia.org/resource/So_Random!_(season_3) http://dbpedia.org/resource/Matthew_Scott_Montgomery http://dbpedia.org/resource/Sonny_With_a_Chance_(season_3) http://dbpedia.org/resource/So_Random_(season_1) http://dbpedia.org/resource/Sonny_with_a_Chance_(season_3)
+0,55,Smile Again,http://dbpedia.org/resource/Smile_Again_(2006_TV_series),http://dbpedia.org/resource/Smile_again_(2010) http://dbpedia.org/resource/Smile_Again_(2010_TV_series) http://dbpedia.org/resource/Smile_Again_(2010)
+0,67,Sincerity Moves Heaven,http://dbpedia.org/resource/A_Tale_of_Two_Sisters_(TV_series),http://dbpedia.org/resource/Sincerity_is_the_Way_of_Heaven http://dbpedia.org/resource/Sincerity_Moves_Heaven
+0,70,Sin ti,http://dbpedia.org/resource/Sin_ti_(TV_series),http://dbpedia.org/resource/Sin_ti
+0,71,Simplemente María,http://dbpedia.org/resource/Simplemente_María_(1989_TV_series),http://dbpedia.org/resource/Simplemente_María_(2015_telenovela) http://dbpedia.org/resource/Simplemente_María_(2015_Mexican_telenovela)
+0,72,Simplemente María,http://dbpedia.org/resource/Simplemente_María_(1989_TV_series),http://dbpedia.org/resource/Simplemente_María_(1989_telenovela)
+0,73,Simplemente María,http://dbpedia.org/resource/Simplemente_María_(1989_TV_series),http://dbpedia.org/resource/Simplemente_María_(2015_telenovela) http://dbpedia.org/resource/Simplemente_María_(2015_Mexican_telenovela)
+0,74,Simplemente María,http://dbpedia.org/resource/Simplemente_María_(1989_TV_series),http://dbpedia.org/resource/Simplemente_María_(1989_telenovela)
+0,75,Signal,http://dbpedia.org/resource/Signals_(Rush_album),http://dbpedia.org/resource/Signal_(TV_series)
+0,78,Sidekicks,http://dbpedia.org/resource/Sidekicks_(TV_series),http://dbpedia.org/resource/Sidekicks_(1974_TV_movie) http://dbpedia.org/resource/Sidekicks_(1974_film)
+0,80,Shut Up Flower Boy Band,http://dbpedia.org/resource/Flower_Band,http://dbpedia.org/resource/Shut_Up_Flower_Boy_Band
+0,84,Shock to the System,http://dbpedia.org/resource/A_Shock_to_the_System_(1990_film),http://dbpedia.org/resource/Shock_to_the_System_(film)
+0,86,Sharpe's Waterloo,http://dbpedia.org/resource/Sharpe_(TV_series),http://dbpedia.org/resource/Sharpe's_Waterloo_(TV_programme)
+0,87,Sharpe's Sword,http://dbpedia.org/resource/Sharpe_(TV_series),http://dbpedia.org/resource/Sharpe's_Sword_(TV_programme)
+0,89,Sharpe's Revenge,http://dbpedia.org/resource/Sharpe_(TV_series),http://dbpedia.org/resource/Sharpe's_Revenge_(film) http://dbpedia.org/resource/Sharpe's_Revenge_(TV_programme)
+0,90,Sharpe's Regiment,http://dbpedia.org/resource/Sharpe_(TV_series),http://dbpedia.org/resource/Sharpe's_Regiment_(TV_programme)
+0,94,Sharpe's Honour,http://dbpedia.org/resource/Sharpe_(TV_series),http://dbpedia.org/resource/Sharpe's_Honour_(TV_programme)
+0,96,Sharpe's Eagle,http://dbpedia.org/resource/Sharpe_(TV_series),http://dbpedia.org/resource/Sharpe's_Eagle_(film) http://dbpedia.org/resource/Sharpe's_Eagle_(TV_programme)
+0,97,Sharpe's Company,http://dbpedia.org/resource/Sharpe_(TV_series),http://dbpedia.org/resource/Sharpe's_Company_(TV_programme)
+0,98,Sharpe's Challenge,http://dbpedia.org/resource/Sharpe_(TV_series),http://dbpedia.org/resource/Sharpe's_Challenge http://dbpedia.org/resource/Sharpes_Challenge http://dbpedia.org/resource/Sharpe's_Challenge_(TV_programme)
+0,99,Sharpe's Battle,http://dbpedia.org/resource/Sharpe_(TV_series),http://dbpedia.org/resource/Sharpe's_Battle_(TV_programme)
+0,103,Shark,http://dbpedia.org/resource/Shark_(American_TV_series),http://dbpedia.org/resource/Don't_Look_Back:_The_Legend_of_Orpheus http://dbpedia.org/resource/Don't_Look_Back_:_The_Legend_of_Orpheus http://dbpedia.org/resource/Shark_(2013_TV_series)
+0,107,Sete Vidas,http://dbpedia.org/resource/7_vidas,http://dbpedia.org/resource/Sete_Vidas
+0,115,Selva de Pedra,http://dbpedia.org/resource/Selva_de_Pedra_(1972_TV_series),http://dbpedia.org/resource/Selva_de_Pedra_(1986_telenovela)

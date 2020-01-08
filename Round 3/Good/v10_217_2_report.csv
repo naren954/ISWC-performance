@@ -1,0 +1,6 @@
+F1: 0.76471,Precision: 0.76471,Recall: 0.76471,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,4,R. MacDougall,http://dbpedia.org/resource/John_MacDougall_(British_politician),http://dbpedia.org/resource/Ranald_MacDougall
+2,9,J. Lee,http://dbpedia.org/resource/Christopher_Lee,http://dbpedia.org/resource/Jack_Lee_(director) http://dbpedia.org/resource/Wilfred_john_raymond_lee http://dbpedia.org/resource/Jack_Lee_(film_director)
+2,13,R. Wyler,http://dbpedia.org/resource/William_Wyler,http://dbpedia.org/resource/Robert_Wyler
+2,17,L. Vajda,http://dbpedia.org/resource/Lajos_Vajda,http://dbpedia.org/resource/Ladislao_Vajda

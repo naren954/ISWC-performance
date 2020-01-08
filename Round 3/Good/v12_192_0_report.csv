@@ -1,0 +1,32 @@
+F1: 0.81132,Precision: 0.81132,Recall: 0.81132,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,White Gold,http://dbpedia.org/resource/White_Gold_(1927_film),http://dbpedia.org/resource/Weißes_Gold http://dbpedia.org/resource/White_Gold_(1949_film)
+0,2,White Girl,http://dbpedia.org/resource/White_Girl_(2008_film),http://dbpedia.org/resource/White_Girl_(2016_film)
+0,5,White Fang,http://dbpedia.org/resource/White_Fang_(1991_film),http://dbpedia.org/resource/White_Fang_(1936_film)
+0,6,White Face,http://dbpedia.org/resource/Squirrel_and_G-Man_Twenty_Four_Hour_Party_People_Plastic_Face_Carnt_Smile_(White_Out),http://dbpedia.org/resource/White_Face
+0,7,White Elephant,http://dbpedia.org/resource/White_Elephant_(1984_film),http://dbpedia.org/resource/Elefante_blanco http://dbpedia.org/resource/White_Elephant_(2012_film)
+0,8,White Eagle,http://de.dbpedia.org/resource/The_White_Eagle,http://dbpedia.org/resource/White_Eagle_(1941_serial)
+0,10,White Deer Plain,http://dbpedia.org/resource/White_Deer_Plain_(film),http://dbpedia.org/resource/Bai_lu_yuan http://dbpedia.org/resource/White_Deer_Plain
+0,13,White Christmas,http://dbpedia.org/resource/White_Christmas_Blues,http://dbpedia.org/resource/White_Christmas_(film) http://dbpedia.org/resource/White_Christmas_(1954_film) http://dbpedia.org/resource/White_Christmas_(1954_movie)
+0,14,White Cargo,http://dbpedia.org/resource/White_Cargo,http://dbpedia.org/resource/White_Cargo_(1937_film) http://dbpedia.org/resource/Le_chemin_de_Rio http://dbpedia.org/resource/Cargaison_blanche http://dbpedia.org/resource/Cargaisons_Blanches
+0,20,White,http://dbpedia.org/resource/Pokémon_Black_and_White,http://dbpedia.org/resource/White_(2015_film) http://dbpedia.org/resource/White_(2016_film)
+0,21,Whistling in the Dark,http://dbpedia.org/resource/Whistling_in_the_Dark_(1933_film),http://dbpedia.org/resource/Whistling_in_the_Dark_(1941_film)
+0,28,Whistle,http://dbpedia.org/resource/Whistle_Down_the_Wind_(film),http://dbpedia.org/resource/Whistle_(Kannada_film) http://dbpedia.org/resource/Whistle_kannada_film http://dbpedia.org/resource/Whistle_(2013_film)
+0,29,Whistle,http://dbpedia.org/resource/Whistle_Down_the_Wind_(film),http://dbpedia.org/resource/Visil http://dbpedia.org/resource/Whistle_(2003_film)
+0,40,Whirlwind,http://it.dbpedia.org/resource/The_Whirlwind_(film_1920),http://dbpedia.org/resource/Whirlwind_(1988_film)
+0,41,Whirlwind,http://it.dbpedia.org/resource/The_Whirlwind_(film_1920),http://dbpedia.org/resource/Whirlwind_(1941_film) http://dbpedia.org/resource/Torbellino
+0,43,Whirlpool,http://dbpedia.org/resource/Whirlpool_(1949_film),http://dbpedia.org/resource/Whirlpool_(1934_film)
+0,44,Whiplash,http://dbpedia.org/resource/Whiplash_(2014_film),http://dbpedia.org/resource/Whiplash_(1948_film)
+0,49,While the City Sleeps,http://dbpedia.org/resource/While_the_City_Sleeps_(1956_film),http://dbpedia.org/resource/While_the_City_Sleeps_(1950_film) http://dbpedia.org/resource/Medan_staden_sover
+0,50,While the City Sleeps,http://dbpedia.org/resource/While_the_City_Sleeps_(1956_film),http://dbpedia.org/resource/While_the_City_Sleeps_(1928_film)
+0,73,Where the Red Fern Grows,http://dbpedia.org/resource/Where_the_Red_Fern_Grows_(1974_film),http://dbpedia.org/resource/Where_the_Red_Fern_Grows_(2003_film)
+0,75,Where the Penguins Fly,,http://dbpedia.org/resource/Where_the_Penguins_Fly http://dbpedia.org/resource/Gdje_pingvini_lete http://dbpedia.org/resource/Gdje_pingvini_lete_(2008)
+0,80,Where the Heart Is,http://dbpedia.org/resource/Where_the_Heart_Is_(2000_film),http://dbpedia.org/resource/Where_the_Heart_Is_(1990_film) http://dbpedia.org/resource/Where_the_Heart_Is_(1990) http://dbpedia.org/resource/Where_the_Heart_Is_(1989_film)
+0,88,Where Was I?,http://dbpedia.org/resource/What?_Where?_When?,http://dbpedia.org/resource/Where_Was_I?_(film)
+0,89,Where There's a Will,http://dbpedia.org/resource/Where_There's_a_Will_(1936_film),http://dbpedia.org/resource/Where_There's_a_Will_(1955_film)
+0,95,Where It's At,http://dbpedia.org/resource/Where_It's_At_(Beck_song),http://dbpedia.org/resource/Where_It's_At_(film)
+0,105,Where Do We Go from Here?,http://dbpedia.org/resource/Where_Do_I_Go_from_Here_(England_Dan_&_John_Ford_Coley_song),http://dbpedia.org/resource/Where_Do_We_Go_from_Here?_(2015_film)
+0,106,Where Do We Go from Here?,http://dbpedia.org/resource/Where_Do_I_Go_from_Here_(England_Dan_&_John_Ford_Coley_song),http://dbpedia.org/resource/Where_Do_We_Go_from_Here?_(1945_film)
+0,108,Where Are the Children?,http://dbpedia.org/resource/Where_Are_My_Children?,http://dbpedia.org/resource/Where_Are_the_Children?
+0,134,When in Rome,http://dbpedia.org/resource/When_in_Rome_(2010_film),http://dbpedia.org/resource/When_in_Rome_(1952_film) http://dbpedia.org/resource/When_in_Rome_(1952)
+0,136,When a Stranger Calls,http://dbpedia.org/resource/When_a_Stranger_Calls_(2006_film),http://dbpedia.org/resource/The_Stranger_(When_a_Stranger_Calls) http://dbpedia.org/resource/When_a_Stranger_Calls_(1979_film) http://dbpedia.org/resource/Jill_Johnson_(When_a_Stranger_Calls) http://dbpedia.org/resource/Jill_Johnson_(fictional_character)

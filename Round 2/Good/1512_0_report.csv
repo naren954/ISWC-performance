@@ -1,0 +1,33 @@
+F1: 0.76692,Precision: 0.76692,Recall: 0.76692,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,H. Taylor,http://dbpedia.org/resource/Harry_Taylor_(1946–52_pitcher),http://dbpedia.org/resource/Hugh_Taylor_(rugby) http://dbpedia.org/resource/Hugh_Taylor_(rugby_player) http://dbpedia.org/resource/Hugh_Taylor_(rugby_union)
+0,8,H. Fuller,http://it.dbpedia.org/resource/Homer_Fuller,http://dbpedia.org/resource/Herbert_Fuller
+0,10,H. Vassall,http://dbpedia.org/resource/Harry_Vassall,http://dbpedia.org/resource/Henry_Vassall
+0,11,H. Toft,http://dbpedia.org/resource/Henrik_Toft,http://dbpedia.org/resource/Herbert_Toft http://dbpedia.org/resource/Henry_Toft
+0,24,G. Hodgson,http://dbpedia.org/resource/George_Hodgson,http://dbpedia.org/resource/Grahame_Hodgson
+0,26,G. Davies,http://dbpedia.org/resource/George_Davies_(baseball),http://dbpedia.org/resource/Glyn_Davies_(rugby_player)
+0,28,G. Williams,"http://dbpedia.org/resource/George_Williams_(footballer,_born_1897)",http://dbpedia.org/resource/Gerwyn_Williams
+0,29,G. MacPherson,http://dbpedia.org/resource/Gus_MacPherson,http://dbpedia.org/resource/GPS_MacPherson http://dbpedia.org/resource/GPS_Macpherson http://dbpedia.org/resource/George_Macpherson http://dbpedia.org/resource/G.P.S._MacPherson http://dbpedia.org/resource/George_MacPherson http://dbpedia.org/resource/G.P.S._Macpherson http://dbpedia.org/resource/Phil_MacPherson
+0,35,F. Andrews,http://dbpedia.org/resource/Frank_Andrews_(rugby),http://dbpedia.org/resource/Fred_Andrews_(rugby) http://dbpedia.org/resource/Fred_Andrews_(rugby_union_player) http://dbpedia.org/resource/Fred_Andrews_(rugby_union)
+0,38,F. Ward,http://dbpedia.org/resource/Frank_Ward_(footballer),http://dbpedia.org/resource/Francis_Ward_(rugby_union)
+0,42,E. Still,http://dbpedia.org/resource/Eric_Still,http://dbpedia.org/resource/Ernest_Still
+0,43,E. Rowland,http://dbpedia.org/resource/Derrick_Rowland,http://dbpedia.org/resource/Ernest_Rowland
+0,50,E. Evans,http://dbpedia.org/resource/Eric_Evans_(rugby_union),http://dbpedia.org/resource/Eric_Evans_(Welsh_Rugby_Union) http://dbpedia.org/resource/Eric_Evans_(rugby_union_born_1894)
+0,53,E. Field,http://dbpedia.org/resource/Edgar_Field,http://dbpedia.org/resource/Edwin_Field
+0,69,D. Dobson,http://dbpedia.org/resource/Aaron_Dobson,http://dbpedia.org/resource/Denys_Dobson
+0,84,C. Morgan,http://dbpedia.org/resource/Cy_Morgan,http://dbpedia.org/resource/Cliff_Morgan
+0,85,C. Jones,http://dbpedia.org/resource/Caldwell_Jones,http://dbpedia.org/resource/Cliff_Jones_(rugby_player)
+0,88,C. Thomas,http://dbpedia.org/resource/Carla_Thomas_(basketball),http://dbpedia.org/resource/Clem_Thomas
+0,92,C. Wilson,http://dbpedia.org/resource/Claude_Wilson,http://dbpedia.org/resource/Charles_Wilson_(rugby_player) http://dbpedia.org/resource/Charles_Wilson_(rugby)
+0,94,C. P. Allen,http://dbpedia.org/resource/Charles_Allen_(Stroud_MP),http://dbpedia.org/resource/Charles_Peter_Allen
+0,96,C. Lewis,http://dbpedia.org/resource/Cedric_Lewis,http://dbpedia.org/resource/Charles_Lewis_(rugby_union) http://dbpedia.org/resource/Charles_Lewis_(rugby_player) http://dbpedia.org/resource/Charles_Prytherch_Lewis
+0,102,C. James,http://dbpedia.org/resource/Claudis_James,http://dbpedia.org/resource/Carwyn_James
+0,105,B. Lewis,"http://dbpedia.org/resource/Bob_Lewis_(basketball,_born_1925)",http://dbpedia.org/resource/Bryn_Lewis
+0,106,B. Pope,http://dbpedia.org/resource/Bucky_Pope,http://dbpedia.org/resource/Edward_Brian_Pope http://dbpedia.org/resource/Brian_Pope
+0,109,B. Sheehan,http://dbpedia.org/resource/Brett_Sheehan,http://dbpedia.org/resource/Billy_Sheehan_(rugby_union) http://dbpedia.org/resource/Billy_Sheehan_(rugby)
+0,114,B. Evans,http://dbpedia.org/resource/Bill_Evans_(1910s_pitcher),http://dbpedia.org/resource/Bill_Evans_(rugby_union) http://dbpedia.org/resource/Bill_Evans_(rugby_player)
+0,115,B. Clark,http://dbpedia.org/resource/Brett_Clark_(ice_hockey),http://dbpedia.org/resource/Bill_Clark_(rugby_union) http://dbpedia.org/resource/Bill_Clark_(rugby_player) http://dbpedia.org/resource/William_Clark_(rugby_union)
+0,120,A. Young,http://dbpedia.org/resource/Ashley_Young,http://dbpedia.org/resource/Arthur_Young_(rugby_union_player)
+0,121,A. Smith,http://dbpedia.org/resource/Alex_Smith,http://dbpedia.org/resource/Arthur_Smith_(rugby_player) http://dbpedia.org/resource/Arthur_Smith_(rugby_union)
+0,126,A. Gibson,http://dbpedia.org/resource/Archie_Gibson,http://dbpedia.org/resource/Arthur_Sumner_Gibson http://dbpedia.org/resource/Arthur_Gibson_(rugby_union_player)
+0,132,A. Rees,http://dbpedia.org/resource/Arthur_Rees,http://dbpedia.org/resource/Theophilus_Rees http://dbpedia.org/resource/Theophilus_Aneurin_Rees http://dbpedia.org/resource/Aneurin_Rees

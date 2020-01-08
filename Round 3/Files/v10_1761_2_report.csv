@@ -1,0 +1,6 @@
+"F1: 0.95745","Precision: 0.95745","Recall: 0.95745"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"2","33","D. Johnson","http://dbpedia.org/resource/Dwayne_Johnson","http://dbpedia.org/resource/Donald_Johnson_(tennis) http://dbpedia.org/resource/Don_Johnson_(tennis) http://dbpedia.org/resource/Donald_Johnson http://dbpedia.org/resource/Donald_Johnson_(tennis_player) http://dbpedia.org/resource/Don_Johnson_(tennis_player)"
+"2","52","M. McGrath","http://dbpedia.org/resource/Matt_McGrath","http://dbpedia.org/resource/Meredith_McGrath"
+"2","59","K. Jones","http://dbpedia.org/resource/Ken_Jones_(rugby_union,_born_1921)","http://dbpedia.org/resource/Kelly_Jones_(tennis) http://dbpedia.org/resource/Kelly_Jones_(tennis_player)"
+"2","94","P. Walkden","http://dbpedia.org/resource/Christopher_Walkden","http://dbpedia.org/resource/Pat_Walkden http://dbpedia.org/resource/Patricia_Walkden http://dbpedia.org/resource/Patricia_Pretorius"

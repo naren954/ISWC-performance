@@ -1,0 +1,5 @@
+"F1: 0.78571","Precision: 0.78571","Recall: 0.78571"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","3","Hammarby IF","http://dbpedia.org/resource/Hammarby_Fotboll","http://dbpedia.org/resource/Bajen http://dbpedia.org/resource/Hammarby_IF_(disambiguation) http://dbpedia.org/resource/Hammarby_IF"
+"1","6","IFK NorrkÃ¶ping","http://dbpedia.org/resource/IFK_Göteborg","http://dbpedia.org/resource/IFK_Norrköping"
+"1","8","Ã\u0096rgryte IS","http://dbpedia.org/resource/Étude_Op._10,_No._1_(Chopin)","http://dbpedia.org/resource/Örgryte_IS"

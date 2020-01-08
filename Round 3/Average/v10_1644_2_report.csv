@@ -1,0 +1,12 @@
+F1: 0.54545,Precision: 0.54545,Recall: 0.54545,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,2,Still Waiting,http://dbpedia.org/resource/Still_Waiting_(Sum_41_song),http://dbpedia.org/resource/Still_Waiting_(Prince_song)
+2,3,Our Love Is Here to Stay,http://dbpedia.org/resource/Our_Love_Is_Here_to_Stay_(album),http://dbpedia.org/resource/Love_is_Here_to_Stay http://dbpedia.org/resource/Our_Love_Is_Here_to_Stay http://dbpedia.org/resource/Our_Love_is_Here_to_Stay http://dbpedia.org/resource/Love_Is_Here_to_Stay http://dbpedia.org/resource/Love_Is_Here_To_Stay http://dbpedia.org/resource/Our_Love_Is_Here_To_Stay
+2,4,When I Grow Up,http://dbpedia.org/resource/When_I_Grow_Up_(Fever_Ray_song),http://dbpedia.org/resource/When_I_Grow_Up_(to_be_a_man) http://dbpedia.org/resource/When_I_Grow_Up_(To_Be_A_Man) http://dbpedia.org/resource/When_I_Grow_Up_to_Be_a_Man http://dbpedia.org/resource/When_I_Grow_Up_(to_Be_a_Man) http://dbpedia.org/resource/When_I_Grow_Up_(To_Be_a_Man)
+2,5,Stay,http://dbpedia.org/resource/Stay_(David_Guetta_song),http://dbpedia.org/resource/Stay_(Wasting_Time)
+2,7,Belle,"http://dbpedia.org/resource/Belle_(Patrick_Fiori,_Daniel_Lavoie_and_Garou_song)",http://dbpedia.org/resource/Belle_(Disney_song) http://dbpedia.org/resource/Belle_(Beauty_and_the_Beast_song)
+2,9,So What,http://dbpedia.org/resource/So_What_(Pink_song),http://dbpedia.org/resource/So_What_(instrumental) http://dbpedia.org/resource/So_What_(Miles_Davis_composition) http://dbpedia.org/resource/So_What_(composition)
+2,15,Rhythm of Love,http://dbpedia.org/resource/Rhythm_of_Love_(Scorpions_song),http://dbpedia.org/resource/Rhythm_of_Love_(Yes_song)
+2,17,Big Eyed Fish,http://dbpedia.org/resource/Big_Fish_(soundtrack),http://dbpedia.org/resource/You_Never_Know http://dbpedia.org/resource/Kit_Kat_Jam http://dbpedia.org/resource/Grace_Is_Gone_(song) http://dbpedia.org/resource/Big_Eyed_Fish http://dbpedia.org/resource/Busted_Stuff
+2,18,Invincible,http://dbpedia.org/resource/Invincible_(Machine_Gun_Kelly_song),http://dbpedia.org/resource/Invincible_(Muse_song)
+2,19,Dystopia,,http://dbpedia.org/resource/Dystopia_(Iced_Earth_song)

@@ -1,0 +1,4 @@
+"F1: 0.90909","Precision: 0.90909","Recall: 0.90909"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","14","Frickley Athletic","http://dbpedia.org/resource/Dunfermline_Athletic_F.C.","http://dbpedia.org/resource/Westfield_Lane http://dbpedia.org/resource/Frickley_Athletic_F_C http://dbpedia.org/resource/Frickley_Athletic_F.C. http://dbpedia.org/resource/Frickley_Athletic_FC http://dbpedia.org/resource/Frickley_Colliery_F.C. http://dbpedia.org/resource/Frickley_Athletic http://dbpedia.org/resource/Frickley_Athletic_F._C."
+"1","22","Shepshed Albion (R)","http://dbpedia.org/resource/Shepshed_Dynamo_F.C.","http://dbpedia.org/resource/Shepshed_Albion_F.C."

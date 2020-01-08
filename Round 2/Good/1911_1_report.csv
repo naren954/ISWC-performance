@@ -1,0 +1,20 @@
+F1: 0.83333,Precision: 0.83333,Recall: 0.83333,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,20,The Exposed,http://dbpedia.org/resource/Exposed_(Kiss_video),http://dbpedia.org/resource/The_Exposed_(Animorphs) http://dbpedia.org/resource/The_exposed http://dbpedia.org/resource/The_Exposed_(novel)
+1,21,Crash,http://dbpedia.org/resource/Crash_(Ballard_novel),http://dbpedia.org/resource/Crash_(1973_novel) http://dbpedia.org/resource/Crash_(J._G._Ballard_novel) http://dbpedia.org/resource/Crash_(J._G._Ballard)
+1,32,The Hidden,http://dbpedia.org/resource/Lioness:_Hidden_Treasures,http://dbpedia.org/resource/The_Hidden_(novel) http://dbpedia.org/resource/The_Hidden_(Animorphs)
+1,38,The Mummy Case,http://dbpedia.org/resource/The_Mummy_Case,http://dbpedia.org/resource/The_Mummy_Case_(Hardy_Boys) http://dbpedia.org/resource/The_Mummy_Case_(The_Hardy_Boys_Casefiles)
+1,41,The Beginning,http://dbpedia.org/resource/The_Beginning_(The_Black_Eyed_Peas_album),http://dbpedia.org/resource/The_Beginning_(Animorphs) http://dbpedia.org/resource/The_Beginning_(novel)
+1,44,The Forgotten,http://dbpedia.org/resource/The_Forgotten_(Star_Trek:_Enterprise),http://dbpedia.org/resource/The_Forgotten_(Animorphs) http://dbpedia.org/resource/The_Forgotten_(Applegate_novel)
+1,45,The Unknown,http://dbpedia.org/resource/The_Unknown_(1963_anthology),http://dbpedia.org/resource/The_Unknown_(Animorphs) http://dbpedia.org/resource/Animorphs_14:_The_Unknown http://dbpedia.org/resource/The_Unknown_(novel) http://dbpedia.org/resource/The_Unknown_(Animorphs_book)
+1,46,The Alien,http://dbpedia.org/resource/Aliens_(film),http://dbpedia.org/resource/The_Alien_(Animorphs) http://dbpedia.org/resource/The_Alien_(novel)
+1,50,Angelica,http://pt.dbpedia.org/resource/Angélica_(1990),"http://dbpedia.org/resource/General_winston's_daughter http://dbpedia.org/resource/Angelica_(Sharon_Shinn_novel) http://dbpedia.org/resource/Sharon_Shinn http://dbpedia.org/resource/The_Shape-Changer's_Wife http://dbpedia.org/resource/Angelica_(Shinn_novel) http://dbpedia.org/resource/Shinn,_Sharon http://dbpedia.org/resource/The_Safe-Keeper's_Secret"
+1,51,The Secret,http://dbpedia.org/resource/The_Secret_Circle,http://dbpedia.org/resource/The_Secret_(Animorphs) http://dbpedia.org/resource/The_Secret_(novel)
+1,60,Mad Dogs and Englishmen,http://dbpedia.org/resource/Mad_Dogs_and_Englishmen_(novel),http://dbpedia.org/resource/Mad_Dogs_and_Englishmen_(Doctor_Who) http://dbpedia.org/resource/Mad_Dogs_and_Englishmen_(film)
+1,68,The Sacrifice,http://dbpedia.org/resource/Sacrifice_(novel),http://dbpedia.org/resource/The_Sacrifice_(novel) http://dbpedia.org/resource/The_Sacrifice_(Animorphs)
+1,78,The 1990 Annual World's Best SF,http://dbpedia.org/resource/The_1980_Annual_World's_Best_SF,http://dbpedia.org/resource/The_1990_Annual_World's_Best_SF
+1,80,The 1988 Annual World's Best SF,http://dbpedia.org/resource/The_1989_Annual_World's_Best_SF,http://dbpedia.org/resource/The_1988_Annual_World's_Best_SF
+1,81,The 1987 Annual World's Best SF,http://dbpedia.org/resource/The_1989_Annual_World's_Best_SF,http://dbpedia.org/resource/The_1987_Annual_World's_Best_SF
+1,85,The 1983 Annual World's Best SF,http://dbpedia.org/resource/The_1989_Annual_World's_Best_SF,http://dbpedia.org/resource/The_1983_Annual_World's_Best_SF
+1,87,The 1981 Annual World's Best SF,http://dbpedia.org/resource/The_1989_Annual_World's_Best_SF,http://dbpedia.org/resource/The_1981_Annual_World's_Best_SF
+1,97,What Is Man?,http://dbpedia.org/resource/What_a_Man_(2011_film),http://dbpedia.org/resource/What_Is_Man?_(Twain_essay)

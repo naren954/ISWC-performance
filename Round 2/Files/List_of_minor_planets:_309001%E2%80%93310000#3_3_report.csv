@@ -1,0 +1,5 @@
+"F1: 0.50000","Precision: 0.50000","Recall: 0.50000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"3","1","La Sagra","http://dbpedia.org/resource/La_Sagra","http://dbpedia.org/resource/Observatorio_Astronómico_de_La_Sagra"
+"3","4","Farra d'Isonzo","http://dbpedia.org/resource/Farra_d'Isonzo","http://dbpedia.org/resource/Osservatorio_Astronomico_di_Farra_d'Isonzo"
+"3","5","La CaÃ±ada","http://dbpedia.org/resource/La_Cañada,_Santiago_del_Estero","http://dbpedia.org/resource/Observatorio_de_La_Cañada"

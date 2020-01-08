@@ -1,0 +1,5 @@
+F1: 0.25000,Precision: 0.25000,Recall: 0.25000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,Serbian Championships,http://dbpedia.org/resource/Serbian_SuperLiga,http://dbpedia.org/resource/Serbian_Figure_Skating_Championships
+0,3,"Junior Grand Prix, Austria",http://dbpedia.org/resource/ISU_Junior_Grand_Prix,http://dbpedia.org/resource/2007–2008_ISU_Junior_Grand_Prix
+0,4,"Junior Grand Prix, Chinese Taipei",http://dbpedia.org/resource/ISU_Junior_Grand_Prix,http://dbpedia.org/resource/2006–2007_ISU_Junior_Grand_Prix

@@ -1,0 +1,5 @@
+F1: 0.88889,Precision: 0.88889,Recall: 0.88889,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,5,"Robert H. Wentorf, Jr. (General Electric)[4]",http://dbpedia.org/resource/Robert_H._Wentorf_Jr.,"http://dbpedia.org/resource/R._H._Wentorf,_Jr. http://dbpedia.org/resource/Robert_H._Wentorf,_Jr."
+1,8,Andrew H. Bobeck (Bell Labs),http://dbpedia.org/resource/Andrew_Henderson_Leith_Fraser,http://dbpedia.org/resource/A._H._Bobeck http://dbpedia.org/resource/Andrew_Bobeck http://dbpedia.org/resource/Andrew_H._Bobeck
+1,16,Alfred Y. Cho (Bell Labs)[8],http://dbpedia.org/resource/Nobel_Prize_in_Physiology_or_Medicine,http://dbpedia.org/resource/Alfred_Y._Cho http://dbpedia.org/resource/Alfred_Cho

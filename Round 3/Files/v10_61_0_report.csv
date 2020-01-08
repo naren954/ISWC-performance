@@ -1,0 +1,5 @@
+"F1: 0.70000","Precision: 0.70000","Recall: 0.70000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","2","B. Manning","http://dbpedia.org/resource/Frankie_Manning","http://dbpedia.org/resource/Bernard_Manning http://dbpedia.org/resource/Bernard_John_Manning"
+"0","3","B. Hill","http://dbpedia.org/resource/Rowland_Hill","http://dbpedia.org/resource/Alfred_Hawthorne http://dbpedia.org/resource/Alfred_Hawthorne_Hill http://dbpedia.org/resource/Benny_hill http://dbpedia.org/resource/Bennie_Hill http://dbpedia.org/resource/Benny_Hill http://dbpedia.org/resource/Beny_hill"
+"0","10","A. Imam","http://dbpedia.org/resource/Ali","http://dbpedia.org/resource/Abubakar_Imam"

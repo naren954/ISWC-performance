@@ -1,0 +1,7 @@
+"F1: 0.81481","Precision: 0.81481","Recall: 0.81481"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"2","5","Luck","http://dbpedia.org/resource/Luck_(TV_series)","http://dbpedia.org/resource/Luck_(film) http://dbpedia.org/resource/Luck_(2009_film)"
+"2","17","Three â\u0080\u0093 Love, Lies and Betrayal","http://dbpedia.org/resource/Three:_Love,_Lies,_Betrayal","http://dbpedia.org/resource/Three_–_Love,_Lies_and_Betrayal"
+"2","20","Fox","http://dbpedia.org/resource/Fox_Sports_(Australia)","http://dbpedia.org/resource/Fox(film) http://dbpedia.org/resource/Fox_(film)"
+"2","21","Aamras","http://dbpedia.org/resource/Aamra","http://dbpedia.org/resource/Keri_no_ras http://dbpedia.org/resource/Aamras"
+"2","26","Wanted","http://dbpedia.org/resource/Wanted_(2008_film)","http://dbpedia.org/resource/Tapori_(film) http://dbpedia.org/resource/Wanted:_Dead_And_Alive http://dbpedia.org/resource/Wanted_(hindi_film) http://dbpedia.org/resource/Wanted_Dead_and_Alive http://dbpedia.org/resource/Wanted_(2008_Hindi_film) http://dbpedia.org/resource/Wanted_Dead_and_Alive_(version_2) http://dbpedia.org/resource/Wanted_(2009_film) http://dbpedia.org/resource/WANTED_DEAD_AND_ALIVE"

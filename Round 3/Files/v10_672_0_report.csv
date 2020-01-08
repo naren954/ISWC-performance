@@ -1,0 +1,6 @@
+"F1: 0.88235","Precision: 0.88235","Recall: 0.88235"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","11","Dragon","http://dbpedia.org/resource/Dragons!","http://dbpedia.org/resource/Dragon_(Cussler_novel) http://dbpedia.org/resource/Dragon_(Clive_Cussler_novel) http://dbpedia.org/resource/Dragon_(Cussler)"
+"0","18","Dissolution","http://dbpedia.org/resource/Dissolution_of_the_Soviet_Union","http://dbpedia.org/resource/Dissolution_(Forgotten_Realms_novel) http://dbpedia.org/resource/Dissolution_(Byers_novel)"
+"0","22","Dickson!","http://dbpedia.org/resource/Alexander_Dickson_(British_Army_officer)","http://dbpedia.org/resource/Dickson!"
+"0","23","Diary","http://dbpedia.org/resource/The_Diary_of_a_Young_Girl","http://dbpedia.org/resource/Diary_(novel)"

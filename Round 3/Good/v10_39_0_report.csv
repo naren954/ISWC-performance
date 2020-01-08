@@ -1,0 +1,4 @@
+F1: 0.89474,Precision: 0.89474,Recall: 0.89474,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,P. Samson,http://dbpedia.org/resource/Paul_Samson_(water_polo),http://dbpedia.org/resource/Paul_Samson_(American_football) http://dbpedia.org/resource/Paul_Samson_(football_coach)
+0,9,P. Jones,http://dbpedia.org/resource/Pat_Jones_(American_football),http://dbpedia.org/resource/Paul_J._Jones http://dbpedia.org/resource/Paul_Jones_(judge)

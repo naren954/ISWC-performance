@@ -1,0 +1,8 @@
+F1: 0.90476,Precision: 0.90476,Recall: 0.90476,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,M. Kihara,http://dbpedia.org/resource/Ryuichi_Kihara,http://dbpedia.org/resource/Mariko_Kihara
+0,19,M. Aaron,http://dbpedia.org/resource/Max_Aaron,http://dbpedia.org/resource/Madeline_Aaron
+0,30,L. Ilyushechkina,,http://dbpedia.org/resource/Lubov_Ilyusheckina http://dbpedia.org/resource/Lubov_Iliushechkina http://dbpedia.org/resource/Liubov_Iliushechkina http://dbpedia.org/resource/Lubov_Ilyushehkina http://dbpedia.org/resource/Lubov_Ilyushechkina http://dbpedia.org/resource/Daria_Ilushechkina http://dbpedia.org/resource/Lubov_Ilushechkina http://dbpedia.org/resource/Lyubov_Ilyushechkina http://dbpedia.org/resource/Lyubov_Iliushechkina http://dbpedia.org/resource/Lubov_Ilusheckina
+0,33,L. Jones,http://dbpedia.org/resource/Courtney_Jones_(figure_skater),http://dbpedia.org/resource/Lloyd_Jones_(figure_skater)
+0,46,L. Wilson,http://dbpedia.org/resource/Tracy_Wilson,http://dbpedia.org/resource/Lauren_Wilson_(skater) http://dbpedia.org/resource/Lauren_Wilson http://dbpedia.org/resource/Lauren_Wilson_(figure_skater)
+0,57,K. Na-young,http://dbpedia.org/resource/United_Kingdom,http://dbpedia.org/resource/Na-Young_Kim_(figure_skater) http://dbpedia.org/resource/Kim_Na-young_(figure_skater) http://dbpedia.org/resource/Kim_Na-Young_(figure_skater) http://dbpedia.org/resource/Kim_Na-Young_(figure_skater_born_1990) http://dbpedia.org/resource/Kim_Na_Young_(figure_skater)

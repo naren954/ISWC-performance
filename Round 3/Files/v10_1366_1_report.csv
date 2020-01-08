@@ -1,0 +1,4 @@
+"F1: 0.84615","Precision: 0.84615","Recall: 0.84615"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","1","Seoul National Cemetery","http://dbpedia.org/resource/Bohemian_National_Cemetery_(Chicago,_Illinois)","http://dbpedia.org/resource/Seoul_state_cemetery http://dbpedia.org/resource/Korean_National_Cemetery http://dbpedia.org/resource/Seoul_National_Cemetery"
+"1","12","Alberta","http://dbpedia.org/resource/Red_Deer,_Alberta","http://dbpedia.org/resource/Alberta_Transportation http://dbpedia.org/resource/Alberta_(province) http://dbpedia.org/resource/CA-AB http://dbpedia.org/resource/Alberta_province http://dbpedia.org/resource/Province_of_Alberta http://dbpedia.org/resource/Alberta http://dbpedia.org/resource/Albertans http://dbpedia.org/resource/Albertan http://dbpedia.org/resource/Alberta,_Canada http://dbpedia.org/resource/Alberta's"

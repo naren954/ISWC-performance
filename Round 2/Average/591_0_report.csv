@@ -1,0 +1,16 @@
+F1: 0.72549,Precision: 0.72549,Recall: 0.72549,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,J. Bruce,http://dbpedia.org/resource/Jack_Bruce,http://dbpedia.org/resource/Joan_Bruce
+0,2,J. A. Sayers,http://dbpedia.org/resource/Jean-Baptiste_Say,http://dbpedia.org/resource/Jo_Sayers http://dbpedia.org/resource/Miriam_Lucille_Lilygren http://dbpedia.org/resource/Jo_Ann_Sayers http://dbpedia.org/resource/Miriam_Lilygren
+0,3,J. Thurman,http://dbpedia.org/resource/Wallace_Thurman,http://dbpedia.org/resource/Jim_Thurman
+0,4,J. Kelly,http://dbpedia.org/resource/John_B._Kelly_Jr.,http://dbpedia.org/resource/Jim_Kelly_(actor) http://dbpedia.org/resource/Jim_Kelly_(martial_artist) http://dbpedia.org/resource/James_Kelly_(martial_artist)
+0,8,J. Hill,http://dbpedia.org/resource/Jessie_Hill,http://dbpedia.org/resource/The_Jerome_Foundation http://dbpedia.org/resource/Jerome_Hill http://dbpedia.org/resource/Jerome_Foundation
+0,10,J. Jones,http://dbpedia.org/resource/Jo_Jones,"http://dbpedia.org/resource/The_Jennifer_Jones_Pose http://dbpedia.org/resource/Jennifer_Jones_Simon http://dbpedia.org/resource/Phylis_Isley http://dbpedia.org/resource/Phylis_Lee_Isley http://dbpedia.org/resource/Jennifer_Jones http://dbpedia.org/resource/Jennifer_Jones_(actress) http://dbpedia.org/resource/Phyllis_Isley http://dbpedia.org/resource/Jennifer_Jones_(actor) http://dbpedia.org/resource/Jones,_Jennifer"
+0,22,J. Russell,http://dbpedia.org/resource/John_Russell_(actor),http://dbpedia.org/resource/Ernestine_Jane_Geraldine_Russell http://dbpedia.org/resource/Jane_russel http://dbpedia.org/resource/Jane_Russell
+0,23,J. Henson,http://dbpedia.org/resource/Jim_Henson,http://dbpedia.org/resource/Jane_Henson
+0,34,J. Arness,http://dbpedia.org/resource/Donald_Trump,http://dbpedia.org/resource/James_Aurness http://dbpedia.org/resource/Jim_Arness http://dbpedia.org/resource/Jim_Aurness http://dbpedia.org/resource/James_King_Aurness http://dbpedia.org/resource/James_arness http://dbpedia.org/resource/James_King_Arness http://dbpedia.org/resource/James_Arness
+0,35,J. Hill,http://dbpedia.org/resource/Jessie_Hill,http://dbpedia.org/resource/Jacqueline_Hill
+0,36,J. Wyatt,http://dbpedia.org/resource/James_Wyatt,http://dbpedia.org/resource/Jack_Wyatt
+0,39,J. Hemingway,http://dbpedia.org/resource/Ernest_Hemingway,http://dbpedia.org/resource/John_Hadley_Nicanor_Hemingway http://dbpedia.org/resource/Muffet_Hemingway http://dbpedia.org/resource/Jack_Hemingway http://dbpedia.org/resource/Bumby_Hemingway http://dbpedia.org/resource/Joan_Hemingway
+0,47,H. Green,http://dbpedia.org/resource/Martyn_Green,"http://dbpedia.org/resource/Hughie_Green http://dbpedia.org/resource/Hughie_Green,_Most_Sincerely http://dbpedia.org/resource/Hughie_Greene http://dbpedia.org/resource/Hughy_Green"
+0,49,H. Millais,http://dbpedia.org/resource/John_Everett_Millais,http://dbpedia.org/resource/Hugh_Millais

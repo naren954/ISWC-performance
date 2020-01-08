@@ -1,0 +1,11 @@
+F1: 0.47059,Precision: 0.47059,Recall: 0.47059,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,Buffalo Braves,http://dbpedia.org/resource/Los_Angeles_Clippers,http://dbpedia.org/resource/Buffalo_Braves
+0,6,Cleveland Indians (1921),http://dbpedia.org/resource/Cleveland_Indians,http://dbpedia.org/resource/Cleveland_Tigers_(football) http://dbpedia.org/resource/Cleveland_Indians_(NFL_1921) http://dbpedia.org/resource/Cleveland_Tigers_(NFL)
+0,7,Cleveland Indians (1931),http://dbpedia.org/resource/Cleveland_Indians,http://dbpedia.org/resource/Cleveland_Indians_NFL http://dbpedia.org/resource/Cleveland_Indians_(NFL_1931)
+0,8,Duluth Eskimos,http://dbpedia.org/resource/University_of_Minnesota_Duluth,http://dbpedia.org/resource/Duluth_Eskimos http://dbpedia.org/resource/Duluth_Kelleys http://dbpedia.org/resource/Kelley_Duluths http://dbpedia.org/resource/Duluth_(NFL) http://dbpedia.org/resource/Duluth_Kelleys/Eskimos
+0,11,Indios de Ciudad Juarez,http://dbpedia.org/resource/Indios_de_Ciudad_Juárez,http://dbpedia.org/resource/Indios_de_Ciudad_Juárez_(minor_league)
+0,12,Kansas City Scouts,http://dbpedia.org/resource/New_Jersey_Devils,http://dbpedia.org/resource/Kansas_City_Scouts
+0,15,Oorang Indians,http://dbpedia.org/resource/Springfield_Indians,http://dbpedia.org/resource/Oorang_Indians
+0,16,Ottawa Tomahawks,http://dbpedia.org/resource/Tomahawk_(band),http://dbpedia.org/resource/Ottawa_Skyhawks http://dbpedia.org/resource/Ottawa_NBL_team http://dbpedia.org/resource/Ottawa_NBL_Canada_team http://dbpedia.org/resource/Ottawa_Tomahawks http://dbpedia.org/resource/Ottawa_SkyHawks
+0,19,Syracuse Chiefs,http://dbpedia.org/resource/Syracuse_Mets,http://dbpedia.org/resource/Syracuse_Chiefs http://dbpedia.org/resource/Syracuse_SkyChiefs http://dbpedia.org/resource/Community_Baseball_Club_of_Central_New_York http://dbpedia.org/resource/Syracuse_Skychiefs http://dbpedia.org/resource/Syracuse_Sky_Chiefs http://dbpedia.org/resource/SkyChiefs

@@ -1,0 +1,6 @@
+F1: 0.75000,Precision: 0.75000,Recall: 0.75000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,2,Arunachalam,http://dbpedia.org/resource/Arunachalam_(film),http://dbpedia.org/resource/Arunachalam http://dbpedia.org/resource/Arunachalam_(disambiguation)
+1,7,Perumal,http://dbpedia.org/resource/Udhaya,http://dbpedia.org/resource/Perumal_(film)
+1,8,Thee,http://dbpedia.org/resource/I_Take_Thee_Quagmire,http://dbpedia.org/resource/Thee_(2009_film) http://dbpedia.org/resource/Thee_(2008_film)
+1,10,Guru Sishyan,http://dbpedia.org/resource/Guru_Sishyan_(1988_film),http://dbpedia.org/resource/Guru_Sishyan_(2010_film)

@@ -1,0 +1,3 @@
+F1: 0.92857,Precision: 0.92857,Recall: 0.92857,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,7,On Snow,http://dbpedia.org/resource/Let_It_Snow!_Let_It_Snow!_Let_It_Snow!,http://dbpedia.org/resource/On_Snow_or_Descartes_in_Germany http://dbpedia.org/resource/Vom_Schnee_oder_Descartes_in_Deutschland http://dbpedia.org/resource/On_Snow http://dbpedia.org/resource/Vom_Schnee

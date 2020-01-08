@@ -1,0 +1,5 @@
+"F1: 0.76923","Precision: 0.76923","Recall: 0.76923"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","3","E Street","http://dbpedia.org/resource/Wall_Street_(1987_film)","http://dbpedia.org/resource/E_Street"
+"1","11","Outriders","http://dbpedia.org/resource/The_Outriders","http://dbpedia.org/resource/Outriders"
+"1","16","Wonderland","http://dbpedia.org/resource/Once_Upon_a_Time_in_Wonderland","http://dbpedia.org/resource/Wonderland_(Australian_TV_series)"

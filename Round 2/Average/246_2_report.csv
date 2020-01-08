@@ -1,0 +1,5 @@
+F1: 0.72727,Precision: 0.72727,Recall: 0.72727,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,5,Z. Hao,http://dbpedia.org/resource/Wang_Hao_(chess_player),http://dbpedia.org/resource/Zhang_Hao_(figure_skater)
+2,8,N. Zabijako,http://dbpedia.org/resource/Natalya_Zabiyako,http://dbpedia.org/resource/Natalia_Zabijako http://dbpedia.org/resource/Natalja_Zabijako
+2,10,J. Yang,http://dbpedia.org/resource/Lee_Yang,http://dbpedia.org/resource/Jin_Yang

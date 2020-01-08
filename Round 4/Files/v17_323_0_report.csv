@@ -1,0 +1,8 @@
+"F1: 0.80000","Precision: 0.80000","Recall: 0.80000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","1","Z. Marx","http://dbpedia.org/resource/Groucho_Marx","http://dbpedia.org/resource/Zeppo_Marx http://dbpedia.org/resource/Herbert_Manfred_Marx http://dbpedia.org/resource/Zeppo"
+"0","6","S. Kapoor","http://dbpedia.org/resource/Shashi_Kapoor","http://dbpedia.org/resource/Shami_Kapoor http://dbpedia.org/resource/Shammi_Kapoor"
+"0","9","R. Howard","http://dbpedia.org/resource/Ron_Howard","http://dbpedia.org/resource/Ronald_Howard_(British_actor)"
+"0","21","M. Hemingway","http://dbpedia.org/resource/Ernest_Hemingway","http://dbpedia.org/resource/Margeaux_Hemingway http://dbpedia.org/resource/Margo_Hemingway http://dbpedia.org/resource/Margaux_Hemingway http://dbpedia.org/resource/Margaux_Louise_Hemingway http://dbpedia.org/resource/Margot_Hemingway http://dbpedia.org/resource/Margot_Louise_Hemingway"
+"0","24","L. Pickford","http://dbpedia.org/resource/Mary_Pickford","http://dbpedia.org/resource/Lottie_Pickford"
+"0","28","J. Rassam","http://dbpedia.org/resource/Jean-Pierre_Rassam","http://dbpedia.org/resource/Julien_Rassam"

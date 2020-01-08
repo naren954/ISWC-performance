@@ -1,0 +1,4 @@
+F1: 0.90476,Precision: 0.90476,Recall: 0.90476,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,Michael Curry,http://dbpedia.org/resource/Michael_Curry_(basketball),"http://dbpedia.org/resource/Michael_Curry_fired http://dbpedia.org/resource/Curry,_Michael http://dbpedia.org/resource/Michael_Curry"
+0,9,Adrian Peterson,http://dbpedia.org/resource/Adrian_Peterson,"http://dbpedia.org/resource/Adrian_Nicholas_Peterson http://dbpedia.org/resource/Adrian_Peterson_(Chicago_Bears) http://dbpedia.org/resource/Adrian_N._Peterson http://dbpedia.org/resource/Adrian_Peterson_(American_football,_born_1979)"

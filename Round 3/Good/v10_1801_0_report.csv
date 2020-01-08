@@ -1,0 +1,11 @@
+F1: 0.91089,Precision: 0.91089,Recall: 0.91089,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,24,Vysoky,http://de.dbpedia.org/resource/Vysoký,http://dbpedia.org/resource/Vysoky_(higher_stratovolcano)
+0,27,Vulcan,"http://dbpedia.org/resource/Vulcan,_Hunedoara",http://dbpedia.org/resource/Vulcan_(volcano) http://dbpedia.org/resource/Vulcan_Volcano_Vent
+0,28,Vulcan,"http://dbpedia.org/resource/Vulcan,_Hunedoara","http://dbpedia.org/resource/Vulcan_(Inactive_Volcano) http://dbpedia.org/resource/Vulcan,_New_Mexico http://dbpedia.org/resource/Vulcan_albuquerque http://dbpedia.org/resource/Vulcan_(inactive_volcano) http://dbpedia.org/resource/West_Mesa_Volcanos"
+0,29,Volcán de Fuego,http://dbpedia.org/resource/Volcán_de_Colima,http://dbpedia.org/resource/Volcan_de_Fuego http://dbpedia.org/resource/Volcan_De_Fuego http://dbpedia.org/resource/Fuego_volcano http://dbpedia.org/resource/Volcán_de_Fuego
+0,38,Volcán de Fuego,http://dbpedia.org/resource/Volcán_de_Colima,http://dbpedia.org/resource/Volcan_de_Fuego http://dbpedia.org/resource/Volcan_De_Fuego http://dbpedia.org/resource/Fuego_volcano http://dbpedia.org/resource/Volcán_de_Fuego
+0,49,Victory,"http://dbpedia.org/resource/Victory,_Vermont",http://dbpedia.org/resource/Victory_(volcano)
+0,71,Trölladyngja,http://de.dbpedia.org/resource/Trölladyngja_(Reykjanesskagi),http://dbpedia.org/resource/Trolladyngja http://dbpedia.org/resource/Troelladyngja http://dbpedia.org/resource/Trölladyngja
+0,76,Trölladyngja,http://de.dbpedia.org/resource/Trölladyngja_(Reykjanesskagi),http://dbpedia.org/resource/Trolladyngja http://dbpedia.org/resource/Troelladyngja http://dbpedia.org/resource/Trölladyngja
+0,89,The Volcano,http://dbpedia.org/resource/Soufrière_Hills,http://dbpedia.org/resource/Lava_Fork_volcano http://dbpedia.org/resource/The_Volcano_(British_Columbia) http://dbpedia.org/resource/Lava_Fork_vent

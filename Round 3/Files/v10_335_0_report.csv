@@ -1,0 +1,8 @@
+"F1: 0.88462","Precision: 0.88462","Recall: 0.88462"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","7","Albenga Airport","http://dbpedia.org/resource/Riviera_Airport","http://dbpedia.org/resource/Albenga_Airport http://dbpedia.org/resource/Villanova_d'Albenga_International_Airport"
+"0","8","Villamor Air Base","http://dbpedia.org/resource/Colonel_Jesus_Villamor_Air_Base","http://dbpedia.org/resource/Nichols_Air_Base http://dbpedia.org/resource/Villamor_Air_Base http://dbpedia.org/resource/Villamor_Airbase"
+"0","15","Villa Constitución Airport","http://dbpedia.org/resource/Ciudad_Constitución_Airport","http://dbpedia.org/resource/Villa_Constitución_Airport http://dbpedia.org/resource/Villa_Constitucion_Airport"
+"0","37","Vero Beach Municipal Airport","http://dbpedia.org/resource/Vero_Beach_Regional_Airport","http://dbpedia.org/resource/Vero_Beach_Municipal_Airport http://dbpedia.org/resource/KVRB http://dbpedia.org/resource/Naval_Air_Station_Vero_Beach http://dbpedia.org/resource/Vero_Beach_Airport"
+"0","38","Vernon Regional Airport","http://dbpedia.org/resource/Maringá_Regional_Airport","http://dbpedia.org/resource/YVE http://dbpedia.org/resource/Vernon_Regional_Airport http://dbpedia.org/resource/Vernon_Airport http://dbpedia.org/resource/CYVK"
+"0","52","Vavaʻu International Airport","http://dbpedia.org/resource/Nashville_International_Airport","http://dbpedia.org/resource/Vavaʻu_International http://dbpedia.org/resource/Vavaʻu_(airport) http://dbpedia.org/resource/Vavaʻu_International_Airport http://dbpedia.org/resource/Vavaʻu_(international_airport) http://dbpedia.org/resource/Lupepau'u_Airport http://dbpedia.org/resource/Vava'u_International_Airport http://dbpedia.org/resource/NFTV"

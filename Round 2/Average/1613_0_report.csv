@@ -1,0 +1,5 @@
+F1: 0.66667,Precision: 0.66667,Recall: 0.66667,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,7,Boston Breakers,http://dbpedia.org/resource/Boston_Breakers_(WUSA),http://dbpedia.org/resource/Boston_Breakers_(WPS) http://dbpedia.org/resource/Boston_Breakers_(WPSL_Elite) http://dbpedia.org/resource/Boston_Breakers_(NWSL) http://dbpedia.org/resource/Boston_Breakers
+0,8,Arizona United SC,http://dbpedia.org/resource/Arizona_Diamondbacks,http://dbpedia.org/resource/Arizona_United http://dbpedia.org/resource/Phoenix_City_FC http://dbpedia.org/resource/Arizona_United_SC
+0,9,Albion SC Pros,http://dbpedia.org/resource/ASC_San_Diego,http://dbpedia.org/resource/Albion_SC_Pros

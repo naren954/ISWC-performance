@@ -1,0 +1,11 @@
+F1: 0.93525,Precision: 0.93525,Recall: 0.93525,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,11,The Illusion,http://dbpedia.org/resource/The_Grand_Illusion,http://dbpedia.org/resource/The_Illusion_(Animorphs) http://dbpedia.org/resource/The_Illusion_(novel)
+0,17,The Hunters,http://dbpedia.org/resource/The_Witch_Hunters_(novel),http://dbpedia.org/resource/The_Hunters_(Brotherband)
+0,23,The Human Factor,http://dbpedia.org/resource/The_Human_Factor_(album),http://dbpedia.org/resource/The_Human_Factor
+0,45,The Hit,http://dbpedia.org/resource/The_Hits_(Dr._Bombay_album),http://dbpedia.org/resource/The_Hit_(Baldacci_Novel) http://dbpedia.org/resource/The_Hit_(Baldacci_novel) http://dbpedia.org/resource/The_Hit_(Baldacci) http://dbpedia.org/resource/The_Hit_(novel)
+0,56,The Hidden,http://dbpedia.org/resource/Lioness:_Hidden_Treasures,http://dbpedia.org/resource/The_Hidden_(novel) http://dbpedia.org/resource/The_Hidden_(Animorphs)
+0,61,The Heart of the Matter,http://dbpedia.org/resource/The_Heart_of_the_Matter_(Kenny_Rogers_album),http://dbpedia.org/resource/The_Heart_Of_the_Matter http://dbpedia.org/resource/The_heart_of_the_matter http://dbpedia.org/resource/The_Heart_of_the_Matter http://dbpedia.org/resource/Major_Henry_Scobie
+0,85,The Hamlet,http://dbpedia.org/resource/The_Klingon_Hamlet,http://dbpedia.org/resource/The_Hamlet_(novel) http://dbpedia.org/resource/Flem_Snopes http://dbpedia.org/resource/The_Hamlet http://dbpedia.org/resource/Snopes_Family
+0,90,The Guardian,http://dbpedia.org/resource/The_Guardian,http://dbpedia.org/resource/The_Guardian_(Book) http://dbpedia.org/resource/The_Guardian_(novel)
+0,111,The Grantville Gazettes,http://dbpedia.org/resource/The_Grantville_Gazette,http://dbpedia.org/resource/1632_writers http://dbpedia.org/resource/The_Grantville_Gazettes http://dbpedia.org/resource/Grantville_Gazettes http://dbpedia.org/resource/Gorg_Huff http://dbpedia.org/resource/Loren_Jones

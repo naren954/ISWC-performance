@@ -1,0 +1,38 @@
+F1: 0.74101,Precision: 0.74101,Recall: 0.74101,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,L. Smith,http://dbpedia.org/resource/Lee_Smith_(American_football),http://dbpedia.org/resource/Leonard_Smith_(rugby_league) http://dbpedia.org/resource/Len_Smith_(rugby_league)
+0,4,L. Smith,http://dbpedia.org/resource/Lee_Smith_(American_football),http://dbpedia.org/resource/Len_Smith_(American_football)
+0,6,L. McIntyre,http://dbpedia.org/resource/Larry_McIntyre,http://dbpedia.org/resource/Leonard_McIntyre http://dbpedia.org/resource/Len_McIntyre http://dbpedia.org/resource/James_Leonard_McIntyre
+0,7,L. Mason,http://dbpedia.org/resource/Lindsey_Mason,http://dbpedia.org/resource/Leonard_Mason_(rugby_league) http://dbpedia.org/resource/Len_Mason
+0,8,L. Marson,http://dbpedia.org/resource/Mike_Marson,http://dbpedia.org/resource/Len_Marson http://dbpedia.org/resource/Leonard_Marson
+0,10,L. Killeen,http://dbpedia.org/resource/Lewis_Killeen,http://dbpedia.org/resource/Len_Killeen
+0,11,L. Kelly,http://dbpedia.org/resource/Leroy_Kelly,http://dbpedia.org/resource/Len_Kelly
+0,12,L. Jordan,http://dbpedia.org/resource/Leander_Jordan,http://dbpedia.org/resource/Len_Jordan_(rugby_league)
+0,13,L. Garbett,http://dbpedia.org/resource/Terry_Garbett,http://dbpedia.org/resource/Len_Garbett
+0,18,L. Brennan,http://dbpedia.org/resource/Rosie_Brennan,http://dbpedia.org/resource/Len_Brennan
+0,30,L. Gant,http://dbpedia.org/resource/Kenneth_Gant,http://dbpedia.org/resource/Laurie_Gant
+0,47,L. Flaherty,http://dbpedia.org/resource/Ray_Flaherty,http://dbpedia.org/resource/Larry_Flaherty
+0,56,L. Baker,http://dbpedia.org/resource/Lewis_Baker_(gridiron_football),http://dbpedia.org/resource/Larry_Baker
+0,58,L. Foley,http://dbpedia.org/resource/Anthony_Foley,http://dbpedia.org/resource/Lar_Foley
+0,59,L. Todd,http://dbpedia.org/resource/Lee_Todd_(footballer),http://dbpedia.org/resource/Lancelot_Todd http://dbpedia.org/resource/Lance_Todd
+0,68,K. Johnson,http://dbpedia.org/resource/Kermit_Johnson,http://dbpedia.org/resource/Kosse_Johnson
+0,70,K. Christensen,http://dbpedia.org/resource/Keith_Christensen,http://dbpedia.org/resource/Koester_Christensen
+0,78,K. Hill,http://dbpedia.org/resource/Kenny_Hill_(defensive_back),http://dbpedia.org/resource/King_Hill
+0,80,K. MacDonald,http://dbpedia.org/resource/Kevin_MacDonald_(ice_hockey),"http://dbpedia.org/resource/James_""Kilby""_Macdonald http://dbpedia.org/resource/James_""Kilby""_MacDonald http://dbpedia.org/resource/James_Allan_Macdonald http://dbpedia.org/resource/Kilby_Macdonald http://dbpedia.org/resource/Kilby_MacDonald http://dbpedia.org/resource/James_Allan_MacDonald"
+0,82,K. Williams,http://dbpedia.org/resource/Kyle_Williams_(defensive_tackle),http://dbpedia.org/resource/Kevin_Williams_(running_back)
+0,88,K. Brown,http://dbpedia.org/resource/Kevin_Brown_(ice_hockey),"http://dbpedia.org/resource/Kevin_Brown_(rugby_league,_Australia) http://dbpedia.org/resource/Kevin_Brown_(Australian_rugby_league) http://dbpedia.org/resource/Kevin_Brown_(rugby_league_2)"
+0,89,K. Belcher,http://dbpedia.org/resource/Kevin_Belcher_(center),http://dbpedia.org/resource/Kevin_Belcher_(offensive_tackle)
+0,91,K. Barry,http://dbpedia.org/resource/Kevin_Barry_(American_football),http://dbpedia.org/resource/Kevin_Barry_(rugby_league)
+0,97,K. Bowman,http://dbpedia.org/resource/Ken_Bowman,http://dbpedia.org/resource/Kenneth_Bowman
+0,105,K. Richards,http://dbpedia.org/resource/Kink_Richards,http://dbpedia.org/resource/Ken_Richards
+0,119,K. English,http://dbpedia.org/resource/Keith_English_(punter),http://dbpedia.org/resource/Ken_English
+0,121,K. Day,http://dbpedia.org/resource/Keith_Day,http://dbpedia.org/resource/Ken_Day_(rugby_league)
+0,122,K. Davies,http://dbpedia.org/resource/Kyle_Davies_(soccer),"http://dbpedia.org/resource/Kenneth_""Ken""_Davies http://dbpedia.org/resource/Ken_Davies_(rugby)"
+0,125,K. Charlton,http://dbpedia.org/resource/Ike_Charlton,http://dbpedia.org/resource/Ken_Charlton_(rugby_league)
+0,127,K. Brown,http://dbpedia.org/resource/Kevin_Brown_(ice_hockey),http://dbpedia.org/resource/Ken_Brown_(running_back)
+0,130,K. O'Shea,http://dbpedia.org/resource/Kevin_O'Shea,http://dbpedia.org/resource/Kelvin_O'Shea http://dbpedia.org/resource/Kel_O'Shea
+0,131,K. Roberts,http://dbpedia.org/resource/Kyle_Roberts,http://dbpedia.org/resource/Keith_Roberts_(rugby_league)
+0,134,K. Holman,http://dbpedia.org/resource/Brett_Holman,http://dbpedia.org/resource/Keith_Holman http://dbpedia.org/resource/Keith_Victor_Holman
+0,135,K. Froome,http://dbpedia.org/resource/Chris_Froome,http://dbpedia.org/resource/Keith_Froome
+0,138,K. Ellis,http://dbpedia.org/resource/Kenrick_Ellis,http://dbpedia.org/resource/Keith_Ellis_(rugby_league)
+0,139,K. Campbell,http://dbpedia.org/resource/Khary_Campbell,http://dbpedia.org/resource/Keith_Campbell_(ice_hockey)

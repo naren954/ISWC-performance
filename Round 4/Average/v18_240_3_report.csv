@@ -1,0 +1,74 @@
+F1: 0.55280,Precision: 0.55280,Recall: 0.55280,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,11,D. Livingston,http://dbpedia.org/resource/Robert_Livingston_(actor),http://dbpedia.org/resource/David_Livingston http://dbpedia.org/resource/David_Livingston_(producer) http://dbpedia.org/resource/David_Livingston_(director)
+3,15,D. Alexander,http://dbpedia.org/resource/Danny_Alexander,http://dbpedia.org/resource/David_Alexander_(director)
+3,17,G. O'Connor,http://dbpedia.org/resource/Gerry_O'Connor_(fiddle_player),http://dbpedia.org/resource/Gavin_O'Connor_(director) http://dbpedia.org/resource/Massacre_in_the_Himalayas http://dbpedia.org/resource/Gavin_O'Connor_(American_filmmaker) http://dbpedia.org/resource/Gavin_O'Connor_(filmmaker)
+3,18,M. Mayer,http://dbpedia.org/resource/Marissa_Mayer,http://dbpedia.org/resource/Michael_Mayer_(director)
+3,20,M. Jackson,http://dbpedia.org/resource/Michael_Jackson,http://dbpedia.org/resource/Mick_Jackson_(film_director) http://dbpedia.org/resource/Mick_Jackson_(director)
+3,21,R. Murphy,http://dbpedia.org/resource/Ralph_Murphy,http://dbpedia.org/resource/Ryan_Murphy_(television_creator) http://dbpedia.org/resource/Ryan_Murphy_(writer)
+3,23,J. Travis,http://dbpedia.org/resource/June_Travis,http://dbpedia.org/resource/Jamie_Travis
+3,25,R. Murphy,http://dbpedia.org/resource/Ralph_Murphy,http://dbpedia.org/resource/Ryan_Murphy_(television_creator) http://dbpedia.org/resource/Ryan_Murphy_(writer)
+3,28,J. L. Conway,http://dbpedia.org/resource/John_Horton_Conway,http://dbpedia.org/resource/James_L._Conway
+3,35,R. Johnson,http://dbpedia.org/resource/Robert_Johnson,http://dbpedia.org/resource/Rian_Johnson
+3,37,J. Holmquist,http://dbpedia.org/resource/Jörgen_Holmquist,http://dbpedia.org/resource/John_Holmquist
+3,39,B. McCarthy-Miller,http://dbpedia.org/resource/Kevin_McCarthy_(actor),http://dbpedia.org/resource/Beth_McCarthy_Miller http://dbpedia.org/resource/Beth_McCarthy-Miller http://dbpedia.org/resource/Beth_McCarthey
+3,40,A. Bernstein,http://dbpedia.org/resource/Leonard_Bernstein,http://dbpedia.org/resource/Andrew_Bernstein_(director)
+3,42,M. Morris,http://dbpedia.org/resource/William_Morris,http://dbpedia.org/resource/Michael_Morris_(director)
+3,46,T. Hunter,http://dbpedia.org/resource/Tab_Hunter,http://dbpedia.org/resource/Tim_Hunter_(director)
+3,47,A. Arkin,http://dbpedia.org/resource/Alan_Arkin,http://dbpedia.org/resource/Molly_Arkin http://dbpedia.org/resource/Adam_Arkin
+3,50,L. Johnson,http://dbpedia.org/resource/Lyndon_B._Johnson,http://dbpedia.org/resource/Lamont_Johnson
+3,52,A. Kroeker,http://dbpedia.org/resource/Joel_Kroeker,http://dbpedia.org/resource/Allan_Kroeker
+3,53,M. Morris,http://dbpedia.org/resource/William_Morris,http://dbpedia.org/resource/Michael_Morris_(director)
+3,54,D. Lowney,http://dbpedia.org/resource/Garrett_Lowney,http://dbpedia.org/resource/Declan_Lowney
+3,58,A. Biberman,http://dbpedia.org/resource/Leonid_Biberman,http://dbpedia.org/resource/Abner_Biberman
+3,59,B. Anderson,http://dbpedia.org/resource/Benny_Andersson,http://dbpedia.org/resource/Brad_Anderson_(director) http://dbpedia.org/resource/Jack_(2011_film) http://dbpedia.org/resource/Brad_Anderson_(film_director)
+3,60,B. Bain,http://dbpedia.org/resource/Barbara_Bain,http://dbpedia.org/resource/Bill_Bain_(director)
+3,61,J. Riggi,http://dbpedia.org/resource/Chris_Riggi,http://dbpedia.org/resource/John_Riggi
+3,63,R. Donner,http://dbpedia.org/resource/Robert_Donner,"http://dbpedia.org/resource/Richard_D._Donner http://dbpedia.org/resource/Donner,_Richard http://dbpedia.org/resource/Richard_Donner http://dbpedia.org/resource/Richard_Donald_Schwartzberg"
+3,64,D. Livingston,http://dbpedia.org/resource/Robert_Livingston_(actor),http://dbpedia.org/resource/David_Livingston http://dbpedia.org/resource/David_Livingston_(producer) http://dbpedia.org/resource/David_Livingston_(director)
+3,68,J. Dahl,http://dbpedia.org/resource/Johan_Christian_Dahl,http://dbpedia.org/resource/John_Dahl
+3,69,D. Heyes,http://dbpedia.org/resource/David_Heyes,http://dbpedia.org/resource/Matthew_Howard http://dbpedia.org/resource/Douglas_Heyes
+3,70,C. Johnson,http://dbpedia.org/resource/Celia_Johnson,http://dbpedia.org/resource/Clark_Johnson
+3,72,P. Jackson,http://dbpedia.org/resource/Peter_Jackson,http://dbpedia.org/resource/Paul_Jackson_(producer) http://dbpedia.org/resource/K._Paul_Jackson
+3,73,I. Brennan,http://dbpedia.org/resource/Eileen_Brennan,http://dbpedia.org/resource/Ian_Brennan_(writer) http://dbpedia.org/resource/Ian_Brennan_(Writer)
+3,74,T. McDonough,http://dbpedia.org/resource/Frank_McDonough,http://dbpedia.org/resource/Terry_McDonough
+3,76,L. Mendoza,http://dbpedia.org/resource/Lydia_Mendoza,http://dbpedia.org/resource/Linda_Mendoza
+3,78,C. Koch,http://dbpedia.org/resource/Christopher_Koch,http://dbpedia.org/resource/Chris_Koch
+3,79,L. Mendoza,http://dbpedia.org/resource/Lydia_Mendoza,http://dbpedia.org/resource/Linda_Mendoza
+3,80,B. Lawrence,http://dbpedia.org/resource/Barbara_Lawrence,http://dbpedia.org/resource/William_Van_Duzer_Lawrence_IV http://dbpedia.org/resource/William_Lawrence_IV http://dbpedia.org/resource/Bill_Lawrence_(producer) http://dbpedia.org/resource/Bill_Lawrence_(TV_producer)
+3,81,B. Lawrence,http://dbpedia.org/resource/Barbara_Lawrence,http://dbpedia.org/resource/William_Van_Duzer_Lawrence_IV http://dbpedia.org/resource/William_Lawrence_IV http://dbpedia.org/resource/Bill_Lawrence_(producer) http://dbpedia.org/resource/Bill_Lawrence_(TV_producer)
+3,83,W. Mackenzie,http://dbpedia.org/resource/William_Lyon_Mackenzie_King,http://dbpedia.org/resource/Will_Mackenzie http://dbpedia.org/resource/Will_Mackenzie_(director)
+3,84,V. N. Jr.,http://dbpedia.org/resource/N.O.R.E.,"http://dbpedia.org/resource/Victor_Nelli_Jr. http://dbpedia.org/resource/Victor_Nelli http://dbpedia.org/resource/Victor_Nelli,_Jr."
+3,86,A. Bernstein,http://dbpedia.org/resource/Leonard_Bernstein,http://dbpedia.org/resource/Adam_Bernstein
+3,87,L. Mendoza,http://dbpedia.org/resource/Lydia_Mendoza,http://dbpedia.org/resource/Linda_Mendoza
+3,88,B. Johnson,http://dbpedia.org/resource/Lyndon_B._Johnson,http://dbpedia.org/resource/Bill_Johnson_(editor)
+3,90,J. Riggi,http://dbpedia.org/resource/Chris_Riggi,http://dbpedia.org/resource/John_Riggi
+3,91,H. Hart,http://dbpedia.org/resource/Lorenz_Hart,http://dbpedia.org/resource/Harvey_Hart
+3,95,D. Carson,http://dbpedia.org/resource/Ben_Carson,http://dbpedia.org/resource/David_Carson_(director)
+3,96,A. Kroeker,http://dbpedia.org/resource/Joel_Kroeker,http://dbpedia.org/resource/Allan_Kroeker
+3,97,R. Murphy,http://dbpedia.org/resource/Ralph_Murphy,http://dbpedia.org/resource/Ryan_Murphy_(television_creator) http://dbpedia.org/resource/Ryan_Murphy_(writer)
+3,98,A. Sakharov,http://dbpedia.org/resource/Andrei_Sakharov,http://dbpedia.org/resource/Alik_Sakharov
+3,108,L. Mendoza,http://dbpedia.org/resource/Lydia_Mendoza,http://dbpedia.org/resource/Linda_Mendoza
+3,109,M. Cendrowski,http://dbpedia.org/resource/Mariusz_Cendrowski,http://dbpedia.org/resource/Mark_Cendrowski
+3,110,B. McCarthy-Miller,http://dbpedia.org/resource/Kevin_McCarthy_(actor),http://dbpedia.org/resource/Beth_McCarthy_Miller http://dbpedia.org/resource/Beth_McCarthy-Miller http://dbpedia.org/resource/Beth_McCarthey
+3,111,E. Keene,http://dbpedia.org/resource/Donald_Keene,http://dbpedia.org/resource/Elodie_Keene http://dbpedia.org/resource/Elodie_Keenee
+3,114,E. Keene,http://dbpedia.org/resource/Donald_Keene,http://dbpedia.org/resource/Elodie_Keene http://dbpedia.org/resource/Elodie_Keenee
+3,116,B. Bain,http://dbpedia.org/resource/Barbara_Bain,http://dbpedia.org/resource/Bill_Bain_(director)
+3,119,K. Mills,http://dbpedia.org/resource/Kerry_Mills,http://dbpedia.org/resource/Kim_Mills
+3,126,D. Cannon,http://dbpedia.org/resource/Dyan_Cannon,http://dbpedia.org/resource/Danny_Cannon
+3,127,L. Shaw,http://dbpedia.org/resource/Lemuel_Shaw,http://dbpedia.org/resource/Larry_Shaw_(director)
+3,131,J. Vaux,http://dbpedia.org/resource/Noël_Jourda_de_Vaux,http://dbpedia.org/resource/Joe_Vaux
+3,132,S. Williams,http://dbpedia.org/resource/Ralph_Vaughan_Williams,http://dbpedia.org/resource/Stephen_Williams_(director)
+3,133,K. Mills,http://dbpedia.org/resource/Kerry_Mills,http://dbpedia.org/resource/Kim_Mills
+3,137,J. L. Conway,http://dbpedia.org/resource/John_Horton_Conway,http://dbpedia.org/resource/James_L._Conway
+3,138,P. Stewart,http://dbpedia.org/resource/Patrick_Stewart,http://dbpedia.org/resource/Paul_Stewart_(actor)
+3,141,J. Taylor,http://dbpedia.org/resource/James_Taylor,http://dbpedia.org/resource/Jud_Taylor http://dbpedia.org/resource/Judd_Taylor
+3,145,M. Vejar,http://dbpedia.org/resource/Sergio_Véjar,http://dbpedia.org/resource/Michael_Laurence_Vejar http://dbpedia.org/resource/Michael_Vejar http://dbpedia.org/resource/Mike_Vejar
+3,147,P. Abraham,http://dbpedia.org/resource/Paul_Abraham,"http://dbpedia.org/resource/Abraham,_Phil http://dbpedia.org/resource/Phil_Abraham"
+3,149,A. Graves,http://dbpedia.org/resource/Robert_Graves,http://dbpedia.org/resource/Alex_Graves
+3,150,B. Kulik,http://dbpedia.org/resource/Grigory_Kulik,http://dbpedia.org/resource/Buzz_Kulik
+3,151,K. Mills,http://dbpedia.org/resource/Kerry_Mills,http://dbpedia.org/resource/Kim_Mills
+3,152,L. Johnson,http://dbpedia.org/resource/Lyndon_B._Johnson,http://dbpedia.org/resource/Lamont_Johnson
+3,154,J. L. Conway,http://dbpedia.org/resource/John_Horton_Conway,http://dbpedia.org/resource/James_L._Conway
+3,158,B. Kulik,http://dbpedia.org/resource/Grigory_Kulik,http://dbpedia.org/resource/Buzz_Kulik
+3,159,A. Zakrzewski,http://dbpedia.org/resource/Stanisław_Zakrzewski,http://dbpedia.org/resource/Alex_Zakrzewski http://dbpedia.org/resource/Alexander_Zakrzewski

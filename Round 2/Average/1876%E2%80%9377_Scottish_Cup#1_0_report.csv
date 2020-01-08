@@ -1,0 +1,9 @@
+F1: 0.66667,Precision: 0.66667,Recall: 0.66667,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,Ayr Thistle,http://dbpedia.org/resource/Ayr_United_F.C.,http://dbpedia.org/resource/Ayr_Thistle_F.C.
+0,13,Eastern,http://dbpedia.org/resource/Eastern_Sports_Club,http://dbpedia.org/resource/Glasgow_Eastern_FC http://dbpedia.org/resource/Eastern_F.C. http://dbpedia.org/resource/Glasgow_Eastern_F.C.
+0,23,Lennox,http://dbpedia.org/resource/Lennox_International,http://dbpedia.org/resource/Lennox_FC http://dbpedia.org/resource/Lennox_R.F.C. http://dbpedia.org/resource/Lennox_Football_Club http://dbpedia.org/resource/Lennox_RFC http://dbpedia.org/resource/Lennox_F.C.
+0,26,Northern,http://dbpedia.org/resource/Northern_Ireland_national_football_team,http://dbpedia.org/resource/Northern_F_C http://dbpedia.org/resource/Northern_F.C. http://dbpedia.org/resource/Northern_FC http://dbpedia.org/resource/Northern_F._C.
+0,28,Queen's Park,http://dbpedia.org/resource/Queens_Park_Rangers_F.C.,http://dbpedia.org/resource/Queen's_Park_F.C.
+0,31,23rd Renfrew RV,http://dbpedia.org/resource/Third_Lanark_A.C.,http://dbpedia.org/resource/23rd_Renfrewshire_Rifle_Volunteers
+0,40,West End,http://dbpedia.org/resource/Newcastle_West_End_F.C.,http://dbpedia.org/resource/West_End_F.C._(Cowlairs) http://dbpedia.org/resource/Glasgow_West_End_F.C. http://dbpedia.org/resource/Cowlairs_West_End_F.C. http://dbpedia.org/resource/West_End_F.C._(Glasgow)

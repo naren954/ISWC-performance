@@ -1,0 +1,15 @@
+F1: 0.90647,Precision: 0.90647,Recall: 0.90647,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,19,Thirst,http://dbpedia.org/resource/Thirst_(2009_film),http://dbpedia.org/resource/La_sed http://dbpedia.org/resource/Thirst_(1960_film)
+0,20,Thirst,http://dbpedia.org/resource/Thirst_(2009_film),http://dbpedia.org/resource/Three_Strange_Loves http://dbpedia.org/resource/Törst http://dbpedia.org/resource/Torst http://dbpedia.org/resource/Thirst_(1949_film) http://dbpedia.org/resource/Toerst
+0,25,Things to Come,http://dbpedia.org/resource/Things_to_Come,http://dbpedia.org/resource/Things_to_Come_(film) http://dbpedia.org/resource/Things_to_Come_(2015_film) http://dbpedia.org/resource/L'Avenir_(film) http://dbpedia.org/resource/Things_to_Come_(2016_film)
+0,36,Thieves,http://dbpedia.org/resource/Thieves_Like_Us_(film),http://dbpedia.org/resource/Thieves_(1977_film)
+0,58,They Drive by Night,http://dbpedia.org/resource/They_Drive_by_Night,http://dbpedia.org/resource/They_Drive_By_Night_(1938) http://dbpedia.org/resource/They_Drive_by_Night_(1938_film) http://dbpedia.org/resource/They_Drive_by_Night_(1938) http://dbpedia.org/resource/They_Drove_By_Night_(1938)
+0,72,There Was a Crooked Man,http://dbpedia.org/resource/There_Was_a_Crooked_Man...,http://dbpedia.org/resource/There_Was_a_Crooked_Man_(film) http://dbpedia.org/resource/There_was_a_Crooked_Man_(film) http://dbpedia.org/resource/There_Was_a_Crooked_Man_(1960_film)
+0,96,Theatre Royal,http://dbpedia.org/resource/Fireside_Theatre,http://dbpedia.org/resource/Theatre_Royal_(film)
+0,98,The Zone,http://dbpedia.org/resource/The_Dead_Zone_(TV_series),http://dbpedia.org/resource/The_Zone_(2011_film)
+0,108,The Young Lovers,http://dbpedia.org/resource/Never_Fear,http://dbpedia.org/resource/The_Young_Lovers_(1964_film)
+0,109,The Young Lovers,http://dbpedia.org/resource/Never_Fear,http://dbpedia.org/resource/The_Young_Lovers_(1954_film) http://dbpedia.org/resource/Chance_Meeting_(1954_film)
+0,119,The Yearling,http://dbpedia.org/resource/The_Yearling_(1946_film),http://dbpedia.org/resource/The_Yearling_(film)
+0,122,The Yards,http://dbpedia.org/resource/Tune-Yards,http://dbpedia.org/resource/The_Yards
+0,133,The Wreck of the Hesperus,http://dbpedia.org/resource/The_Wreck_of_the_Hesperus_(1927_film),http://dbpedia.org/resource/The_Wreck_of_the_Hesperus_(1948_film)

@@ -1,0 +1,4 @@
+"F1: 0.92308","Precision: 0.92308","Recall: 0.92308"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","8","Belfast","http://dbpedia.org/resource/Belfast,_Maine","http://dbpedia.org/resource/Belfast_council http://dbpedia.org/resource/Belfast_District_Council http://dbpedia.org/resource/Belfast_(district) http://dbpedia.org/resource/Belfast_City_Council http://dbpedia.org/resource/Comhairle_Cathrach_Bhéal_Feirste http://dbpedia.org/resource/Belfast_Corporation http://dbpedia.org/resource/Belfast_District http://dbpedia.org/resource/Bilfawst_Citie_Cooncil"
+"0","15","Down","http://dbpedia.org/resource/County_Down","http://dbpedia.org/resource/Down_District_Council http://dbpedia.org/resource/Down_District http://dbpedia.org/resource/Down_(district)"

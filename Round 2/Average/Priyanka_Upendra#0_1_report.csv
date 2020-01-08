@@ -1,0 +1,12 @@
+F1: 0.65517,Precision: 0.65517,Recall: 0.65517,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,5,Raa,http://dbpedia.org/resource/Raa_Raa,http://dbpedia.org/resource/Raa_(film)
+1,7,Soori,http://dbpedia.org/resource/Soori_(2003_film),http://dbpedia.org/resource/Soori_(2001_film) http://dbpedia.org/resource/Soori_(Telugu_film)
+1,11,Raja,http://dbpedia.org/resource/Raja_(album),http://dbpedia.org/resource/Raja_(2002_film)
+1,15,Dhurga,http://dbpedia.org/resource/Dhurga_language,http://dbpedia.org/resource/Durga_(2002_film) http://dbpedia.org/resource/Dhurga
+1,18,H2O,http://dbpedia.org/resource/H2O:_Just_Add_Water,http://dbpedia.org/resource/H2O_(2002_film) http://dbpedia.org/resource/H2O_(2002_Indian_film)
+1,19,Ice,http://dbpedia.org/resource/Ice_Age_(franchise),http://dbpedia.org/resource/Ice_(2003_film)
+1,21,Malla,http://dbpedia.org/resource/A_Beautiful_Place_to_Die,http://dbpedia.org/resource/Malla_(film)
+1,25,Golmaal,http://dbpedia.org/resource/Golmaal:_Fun_Unlimited,http://dbpedia.org/resource/Golmaal_(2008_film)
+1,26,Aparadhi,http://dbpedia.org/resource/Aparadhi_(1976_film),http://dbpedia.org/resource/Aparadhi_(2009_film)
+1,32,Uppi 2,http://dbpedia.org/resource/Upendra_(film),http://dbpedia.org/resource/Uppi http://dbpedia.org/resource/Uppi_2 http://dbpedia.org/resource/Uppi_2(Upendra_2)

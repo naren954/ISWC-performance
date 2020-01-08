@@ -1,0 +1,5 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Cameroon (Amateur team),http://dbpedia.org/resource/Cameroon,http://dbpedia.org/resource/Cameroun_national_football_team http://dbpedia.org/resource/Cameroonian_National_Football_Team http://dbpedia.org/resource/Cameroon_football_team http://dbpedia.org/resource/Cameroon_Lions http://dbpedia.org/resource/Cameroonian_national_football_team http://dbpedia.org/resource/Cameroon_national_football_team http://dbpedia.org/resource/Cameroon_National_Football_Team http://dbpedia.org/resource/Indomitable_Lions
+0,2,Gabon,http://dbpedia.org/resource/Gabon,http://dbpedia.org/resource/Gabon_national_football_team
+0,3,Central African Republic,http://dbpedia.org/resource/Cameroon,http://dbpedia.org/resource/Central_african_republic_national_football_team http://dbpedia.org/resource/Central_African_Republic_national_football_team

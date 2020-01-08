@@ -1,0 +1,4 @@
+"F1: 0.80000","Precision: 0.80000","Recall: 0.80000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","3","B. Thomas","http://dbpedia.org/resource/Bob_Thomas_(reporter)","http://dbpedia.org/resource/Benjamin_Thomas_(coca-cola_bottler) http://dbpedia.org/resource/Benjamin_Thomas_(Coca-Cola_bottler)"
+"0","8","A. Kay","http://dbpedia.org/resource/Alan_Kay","http://dbpedia.org/resource/Andrew_Kay http://dbpedia.org/resource/Kay_Computers http://dbpedia.org/resource/Andrew_F._Kay"

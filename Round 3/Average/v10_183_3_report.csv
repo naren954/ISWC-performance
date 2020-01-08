@@ -1,0 +1,7 @@
+F1: 0.66667,Precision: 0.66667,Recall: 0.66667,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,3,C. Fox,http://dbpedia.org/resource/Curly_Fox,http://dbpedia.org/resource/Charles_Fox_(composer)
+3,6,A. Gray,http://dbpedia.org/resource/David_Gray_(musician),http://dbpedia.org/resource/Allan_Gray_(composer)
+3,7,F. Hollander,http://dbpedia.org/resource/Frans_Hals,http://dbpedia.org/resource/Frederick_Hollander http://dbpedia.org/resource/Friedrich_Holländer http://dbpedia.org/resource/Friedrich_hollander http://dbpedia.org/resource/Friedrich_Hollaender http://dbpedia.org/resource/Friedrich_Hollander
+3,9,A. Gray,http://dbpedia.org/resource/David_Gray_(musician),http://dbpedia.org/resource/Allan_Gray_(composer)
+3,10,M. Solomon,http://fr.dbpedia.org/resource/Mike_Solomon,http://dbpedia.org/resource/Maribeth_Solomon http://dbpedia.org/resource/Micky_Erbe

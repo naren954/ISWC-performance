@@ -1,0 +1,4 @@
+F1: 0.84615,Precision: 0.84615,Recall: 0.84615,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,3,PAL Express,http://dbpedia.org/resource/Philippine_Airlines,http://dbpedia.org/resource/AirphilExpress http://dbpedia.org/resource/PAL_Express http://dbpedia.org/resource/PAL_express http://dbpedia.org/resource/Air_Philippines
+2,12,Air Canada Express,http://dbpedia.org/resource/Jazz_(airline),http://dbpedia.org/resource/Air_Canada_Express

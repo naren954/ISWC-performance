@@ -1,0 +1,4 @@
+"F1: 0.66667","Precision: 0.66667","Recall: 0.66667"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"2","2","Ararat","http://dbpedia.org/resource/Armenia","http://dbpedia.org/resource/Davalinskiy_Tsemzavod http://dbpedia.org/resource/Ararat_(village),_Armenia"
+"2","5","Colony of Virginia","http://dbpedia.org/resource/Virginia","http://dbpedia.org/resource/Colony_of_virginia http://dbpedia.org/resource/Colony_and_Dominion_of_Virginia http://dbpedia.org/resource/Colony_and_Dominion_of_Virgina http://dbpedia.org/resource/Chesapeake_Bay_Colony http://dbpedia.org/resource/Virginia_colony http://dbpedia.org/resource/Colony_of_Virginia http://dbpedia.org/resource/Dominion_of_Virginia http://dbpedia.org/resource/Virginia_Colony http://dbpedia.org/resource/Colonial_Virginia http://dbpedia.org/resource/Dominion_and_Colony_of_Virginia http://dbpedia.org/resource/Province_of_Virginia"

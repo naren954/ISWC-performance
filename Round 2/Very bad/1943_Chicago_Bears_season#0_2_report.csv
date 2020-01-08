@@ -1,0 +1,5 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,3,Chicago Cardinals,http://dbpedia.org/resource/Arizona_Cardinals,http://dbpedia.org/resource/1943_Chicago_Cardinals_season
+2,4,Steagles,http://dbpedia.org/resource/The_Steagle,http://dbpedia.org/resource/1943_Philadelphia_Eagles_season http://dbpedia.org/resource/Pittsburgh_Steagles http://dbpedia.org/resource/1943_Pittsburgh_Steelers_season http://dbpedia.org/resource/Phil-Pitt_Combine http://dbpedia.org/resource/Phil-Pitt_Steagles http://dbpedia.org/resource/Phil-Pitt http://dbpedia.org/resource/Steagles http://dbpedia.org/resource/Philadelphia_Steagles
+2,5,Brooklyn Dodgers,http://dbpedia.org/resource/Los_Angeles,http://dbpedia.org/resource/1943_Brooklyn_Dodgers_season_(NFL) http://dbpedia.org/resource/1943_Brooklyn_Dodgers_(NFL)_season

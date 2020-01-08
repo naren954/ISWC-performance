@@ -1,0 +1,4 @@
+F1: 0.77778,Precision: 0.77778,Recall: 0.77778,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,Bergville Part 1,http://dbpedia.org/resource/The_Pressure_Part_1,"http://dbpedia.org/resource/Bergville,_KwaZulu-Natal http://dbpedia.org/resource/Bergville"
+0,4,Bergville Part 2,http://dbpedia.org/resource/The_Twilight_Saga:_Breaking_Dawn_–_Part_2_(soundtrack),"http://dbpedia.org/resource/Bergville,_KwaZulu-Natal http://dbpedia.org/resource/Bergville"

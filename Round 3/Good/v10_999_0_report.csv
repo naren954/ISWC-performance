@@ -1,0 +1,9 @@
+F1: 0.81579,Precision: 0.81579,Recall: 0.81579,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,MS Jamaa II,http://dbpedia.org/resource/MS_Asuka_II,http://dbpedia.org/resource/MS_Jamaa_II http://dbpedia.org/resource/M/S_Botnia_Express http://dbpedia.org/resource/MS_Diana http://dbpedia.org/resource/IMO_7224370 http://dbpedia.org/resource/MS_Botnia_Express http://dbpedia.org/resource/M/S_Jamaa_II http://dbpedia.org/resource/M/S_Alandia http://dbpedia.org/resource/M/S_Diana
+0,12,MS Bergensfjord,http://dbpedia.org/resource/MS_Oslofjord_(1993),http://dbpedia.org/resource/IMO_9586617 http://dbpedia.org/resource/MS_Bergensfjord_(2014)
+0,18,MCGS Barracuda,http://dbpedia.org/resource/Fairey_Barracuda,http://dbpedia.org/resource/MCGS_Barracuda
+0,33,Japanese gunboat Toba,http://dbpedia.org/resource/Japanese_gunboat_Sumida_(1903),http://dbpedia.org/resource/Japanese_gunboat_Toba http://dbpedia.org/resource/Japanese_Gunboat_Toba
+0,34,Japanese gunboat Sumida,http://dbpedia.org/resource/Japanese_gunboat_Sumida_(1903),http://dbpedia.org/resource/Japanese_gunboat_Sumida_(1939)
+0,35,Japanese gunboat Seta,http://dbpedia.org/resource/Japanese_gunboat_Sumida_(1903),http://dbpedia.org/resource/Japanese_Gunboat_Seta http://dbpedia.org/resource/Japanese_gunboat_Seta
+0,37,Japanese gunboat Atami,http://dbpedia.org/resource/Japanese_gunboat_Sumida_(1903),http://dbpedia.org/resource/Japanese_Gunboat_Atami http://dbpedia.org/resource/Japanese_gunboat_Atami

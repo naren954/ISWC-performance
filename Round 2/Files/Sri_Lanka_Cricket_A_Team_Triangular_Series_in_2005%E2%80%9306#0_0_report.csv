@@ -1,0 +1,7 @@
+"F1: 0.64286","Precision: 0.64286","Recall: 0.64286"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","3","Gareth Hopkins","http://dbpedia.org/resource/Gareth_Hopkins_(footballer)","http://dbpedia.org/resource/Gareth_Hopkins_(cricketer) http://dbpedia.org/resource/Gareth_Hopkins"
+"0","4","James Franklin","http://dbpedia.org/resource/James_Franklin_(quarterback)","http://dbpedia.org/resource/James_Franklin_(cricketer)"
+"0","5","Chris Harris","http://dbpedia.org/resource/Chris_Harris_(basketball)","http://dbpedia.org/resource/CZ_Harris http://dbpedia.org/resource/Chris_Harris_(cricketer) http://dbpedia.org/resource/Christopher_Harris_(cricketer)"
+"0","7","James Marshall","http://dbpedia.org/resource/Frank_Marshall_(chess_player)","http://dbpedia.org/resource/James_Marshall_(cricketer)"
+"0","9","Chris Martin","http://dbpedia.org/resource/Chris_Martin_(defensive_back)","http://dbpedia.org/resource/Chris_Martin_(cricketer) http://dbpedia.org/resource/Christopher_Stewart_Martin"

@@ -1,0 +1,15 @@
+F1: 0.89922,Precision: 0.89922,Recall: 0.89922,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Trölladyngja,http://de.dbpedia.org/resource/Trölladyngja_(Reykjanesskagi),http://dbpedia.org/resource/Troelladyngja http://dbpedia.org/resource/Trolladyngja http://dbpedia.org/resource/Trölladyngja
+0,4,Trölladyngja,http://de.dbpedia.org/resource/Trölladyngja_(Reykjanesskagi),http://dbpedia.org/resource/Troelladyngja http://dbpedia.org/resource/Trolladyngja http://dbpedia.org/resource/Trölladyngja
+0,15,The Volcano,http://dbpedia.org/resource/Soufrière_Hills,http://dbpedia.org/resource/Lava_Fork_vent http://dbpedia.org/resource/Lava_Fork_volcano http://dbpedia.org/resource/The_Volcano_(British_Columbia)
+0,59,Santa María,http://dbpedia.org/resource/Santa_Maria_del_Camí,http://dbpedia.org/resource/Santamaria_(volcano) http://dbpedia.org/resource/Santa_María_Volcano http://dbpedia.org/resource/Santa_María_(volcano) http://dbpedia.org/resource/Volcán_Santamaria http://dbpedia.org/resource/Santa_Maria_Volcano http://dbpedia.org/resource/Volcan_Santamaria http://dbpedia.org/resource/Santamaría_(volcano) http://dbpedia.org/resource/Santa_Maria_(volcano) http://dbpedia.org/resource/Volcan_Santa_Maria http://dbpedia.org/resource/Volcán_Santa_Maria http://dbpedia.org/resource/Santiaguito http://dbpedia.org/resource/Volcán_Santa_María
+0,60,Santa Isabel,http://dbpedia.org/resource/Santa_Isabel_Island,http://dbpedia.org/resource/Snow_Mountain_of_St._Isabel http://dbpedia.org/resource/Nevado_de_Santa_Isabel http://dbpedia.org/resource/Santa_Isabel_(volcano)
+0,65,San Pedro,"http://dbpedia.org/resource/San_Pedro,_Laguna",http://dbpedia.org/resource/San_Pedro_(Chile_volcano)
+0,66,San Miguel,http://dbpedia.org/resource/San_Miguel_de_Allende,http://dbpedia.org/resource/Chaparrastique http://dbpedia.org/resource/Chaparrastique_volcano http://dbpedia.org/resource/Volcan_San_Miguel http://dbpedia.org/resource/Volcán_San_Miguel http://dbpedia.org/resource/San_Miguel_(volcano)
+0,68,San José,"http://dbpedia.org/resource/San_José,_Costa_Rica",http://dbpedia.org/resource/San_José_Volcano http://dbpedia.org/resource/San_José_(volcano) http://dbpedia.org/resource/San_Jose_(volcano) http://dbpedia.org/resource/San_Jose_Volcano
+0,76,Ruang,http://dbpedia.org/resource/Mount_Ruang,http://dbpedia.org/resource/Ruang
+0,82,Reykjanesskagi,http://de.dbpedia.org/resource/Reykjanesskagi,http://dbpedia.org/resource/Reykjanesskagi
+0,96,Pyramid Mountain,http://de.dbpedia.org/resource/Pyramid_Mountain_(Viktorialand),http://dbpedia.org/resource/Pyramid_Mountain_(Wells_Gray-Clearwater) http://dbpedia.org/resource/Pyramid_Mountain_(volcano)
+0,101,Putana Volcano,http://dbpedia.org/resource/Putana_(volcano),http://dbpedia.org/resource/Putana_Volcano
+0,123,Payun Matru,http://dbpedia.org/resource/Payún_Matrú,http://dbpedia.org/resource/Payun_Matru

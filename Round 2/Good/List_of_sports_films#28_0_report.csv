@@ -1,0 +1,7 @@
+F1: 0.82759,Precision: 0.82759,Recall: 0.82759,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,4,White Lightning,http://dbpedia.org/resource/White_Lightning_(1973_film),http://dbpedia.org/resource/White_Lightning_(1953_film)
+0,14,Net Worth,http://dbpedia.org/resource/Net_Worth_(2000_film),http://dbpedia.org/resource/Net_Worth_(1995_film) http://dbpedia.org/resource/Net_Worth_(TV_film) http://dbpedia.org/resource/Net_Worth_(film)_1995
+0,21,Miracle,http://dbpedia.org/resource/Miracle_in_Lane_2,http://dbpedia.org/resource/Michael_Mantenuto http://dbpedia.org/resource/Miracle_(movie) http://dbpedia.org/resource/Miracle_(film) http://dbpedia.org/resource/Miracle_(2004_film)
+0,28,Breakaway,http://dbpedia.org/resource/Breakaway_(1955_film),http://dbpedia.org/resource/Breakaway_(2012_film) http://dbpedia.org/resource/Breakaway_(2011_film) http://dbpedia.org/resource/Speedy_Singhs http://dbpedia.org/resource/Speedy_Singhs_(2011_film)
+0,32,Red Army,http://dbpedia.org/resource/Red_Army_(novel),http://dbpedia.org/resource/Red_Army_(movie) http://dbpedia.org/resource/Red_Army_(film)

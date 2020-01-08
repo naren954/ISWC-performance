@@ -1,0 +1,38 @@
+F1: 0.71875,Precision: 0.71875,Recall: 0.71875,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,T. Brötzmann,http://dbpedia.org/resource/Peter_Brötzmann,http://dbpedia.org/resource/Thorsten_Brötzmann http://dbpedia.org/resource/Thorsten_Brotzmann
+1,9,B. Steinberg,http://dbpedia.org/resource/Ben_Steinberg,http://dbpedia.org/resource/Billy_Steinberg
+1,13,H. Allen,http://dbpedia.org/resource/Harry_Allen_(musician),http://dbpedia.org/resource/Harley_Lee_Allen http://dbpedia.org/resource/Harley_Allen
+1,17,T. Shapiro,http://dbpedia.org/resource/Ted_Shapiro,http://dbpedia.org/resource/Tom_Shapiro
+1,22,B. Scott,http://dbpedia.org/resource/Bobby_Scott_(musician),"http://dbpedia.org/resource/Ronald_Belford_Scott http://dbpedia.org/resource/Bon_Scott http://dbpedia.org/resource/Ronald_Belford_""Bon""_Scott http://dbpedia.org/resource/Ronald_Scott"
+1,23,R. Miller,http://dbpedia.org/resource/Roger_Miller,http://dbpedia.org/resource/Ron_Miller_(songwriter) http://dbpedia.org/resource/Ronald_Norman_Miller
+1,29,T. T. Party,http://dbpedia.org/resource/TV_Party_(EP),http://dbpedia.org/resource/The_Tea_Party_(band) http://dbpedia.org/resource/The_Tea_Party
+1,31,J. Stevens,http://dbpedia.org/resource/John_Stevens_(drummer),http://dbpedia.org/resource/Jon_Stevens http://dbpedia.org/resource/Jon_Stevens_(musician)
+1,33,T. Fireflies,http://dbpedia.org/resource/Fireflies_(Owl_City_song),http://dbpedia.org/resource/The_Fireflies
+1,43,J. Kay,http://dbpedia.org/resource/John_Kay_(musician),http://dbpedia.org/resource/Jay_Kay http://dbpedia.org/resource/Jay_Kay_(singer) http://dbpedia.org/resource/Jason_Kay http://dbpedia.org/resource/Jamiro
+1,44,S. Lippman,http://dbpedia.org/resource/Laura_Lippman,http://dbpedia.org/resource/Sidney_Lippman
+1,47,J. Fortune,http://dbpedia.org/resource/J.D._Fortune,http://dbpedia.org/resource/Jimmy_Fortune
+1,48,T. Shaw,http://dbpedia.org/resource/Too_Short,http://dbpedia.org/resource/Tommy_Roland_Shaw http://dbpedia.org/resource/Tommy_Shaw
+1,55,G. Clark,http://dbpedia.org/resource/Gene_Clark,http://dbpedia.org/resource/Susanna_Clark http://dbpedia.org/resource/Guy_Clark
+1,56,J. Vallins,http://dbpedia.org/resource/Ninon_Vallin,http://dbpedia.org/resource/John_Vallins
+1,57,S. Page,http://dbpedia.org/resource/Jimmy_Page,http://dbpedia.org/resource/Scott_page http://dbpedia.org/resource/Scott_Page
+1,59,B. Rose,http://dbpedia.org/resource/Bernard_Rose_(director),http://dbpedia.org/resource/Billy_Rose
+1,61,D. Warren,http://dbpedia.org/resource/Dale_Warren,http://dbpedia.org/resource/Diane_Warren
+1,62,J. Alexander,http://dbpedia.org/resource/Jeff_Alexander,"http://dbpedia.org/resource/Josh_Alexander http://dbpedia.org/resource/Alexander,_Josh"
+1,64,J. Lennon,http://dbpedia.org/resource/John_Lennon,http://dbpedia.org/resource/Children_Of_The_World_(Album) http://dbpedia.org/resource/John_Charles_Julian_Lennon http://dbpedia.org/resource/Children_Of_The_World_(album) http://dbpedia.org/resource/Julian_lennon http://dbpedia.org/resource/Julian_Lennon
+1,67,E. White,http://dbpedia.org/resource/Jack_White,"http://dbpedia.org/resource/Francis_""Eg""_White http://dbpedia.org/resource/Eg_White"
+1,68,R. Scott,http://dbpedia.org/resource/Jill_Scott,http://dbpedia.org/resource/Ronnie_Scott_(songwriter) http://dbpedia.org/resource/Scott/Wolfe
+1,76,L. Robbins,http://dbpedia.org/resource/Jerome_Robbins,http://dbpedia.org/resource/Lindy_Robbins
+1,79,R. Rutherford,http://dbpedia.org/resource/Margaret_Rutherford,http://dbpedia.org/resource/Rivers_Rutherford
+1,80,A. Jackson,http://dbpedia.org/resource/Michael_Jackson,"http://dbpedia.org/resource/Jackson,_Alan http://dbpedia.org/resource/Alan_Jackson http://dbpedia.org/resource/Alan_jackson_discography"
+1,82,R. Wood,http://dbpedia.org/resource/Ronnie_Wood,http://dbpedia.org/resource/Roy_Wood_(musician) http://dbpedia.org/resource/Roy_Wood
+1,83,M. Starr,http://dbpedia.org/resource/Ringo_Starr,http://dbpedia.org/resource/Maurice_Starr
+1,84,L. Sea,http://dbpedia.org/resource/North_Sea,http://dbpedia.org/resource/Slow_(Luna_Sea_album) http://dbpedia.org/resource/Luna_Sea http://dbpedia.org/resource/LUNA_SEA
+1,88,D. Byrd,http://dbpedia.org/resource/Donald_Byrd,http://dbpedia.org/resource/Danny_Byrd
+1,95,2D,http://dbpedia.org/resource/Animation,http://dbpedia.org/resource/2D_(musician) http://dbpedia.org/resource/2D_(character) http://dbpedia.org/resource/2D_(fictional_musician) http://dbpedia.org/resource/2D_(Gorillaz_member) http://dbpedia.org/resource/2D_(Gorillaz)
+1,99,M. Jones,http://dbpedia.org/resource/Maggie_Jones_(blues_musician),"http://dbpedia.org/resource/Mick_Jones_(The_Clash_guitarist) http://dbpedia.org/resource/Mick_Jones_(The_Clash) http://dbpedia.org/resource/Jones,_Mick_(The_Clash) http://dbpedia.org/resource/Mick_Jones_(singer,_born_1955)"
+1,112,J. W. Alexander,http://dbpedia.org/resource/John_White_Alexander,http://dbpedia.org/resource/J._W._Alexander_(musician)
+1,116,R. Henderson,http://dbpedia.org/resource/Rosa_Henderson,http://dbpedia.org/resource/Ray_Henderson http://dbpedia.org/resource/Raymond_Brost
+1,120,C. Lewis,http://dbpedia.org/resource/Crystal_Lewis,http://dbpedia.org/resource/Curtis_Reginald_Lewis http://dbpedia.org/resource/Curtis_Lewis http://dbpedia.org/resource/Curtis_R._Lewis
+1,123,D. Jones,http://dbpedia.org/resource/David_Bowie,http://dbpedia.org/resource/Daniel_Jones_(musician)
+1,127,M. London,http://dbpedia.org/resource/George_London_(bass-baritone),http://dbpedia.org/resource/Mark_London

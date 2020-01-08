@@ -1,0 +1,6 @@
+"F1: 0.93750","Precision: 0.93750","Recall: 0.93750"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","24","Brighty of the Grand Canyon","nan","http://dbpedia.org/resource/Brighty_of_the_grand_canyon http://dbpedia.org/resource/Brighty_of_the_Grand_Canyon"
+"0","31","Black and White","http://dbpedia.org/resource/Black_&_White_(video_game)","http://dbpedia.org/resource/Black_and_White_(book)"
+"0","38","Best Friends","http://de.dbpedia.org/resource/Best_Friends_(Schulsoap)","http://dbpedia.org/resource/Best_Friends_(Wilson_novel)"
+"0","51","Aristotle","http://dbpedia.org/resource/Poetics_(Aristotle)","http://dbpedia.org/resource/Aristotle_(book) http://dbpedia.org/resource/Aristotle_(children's_book)"

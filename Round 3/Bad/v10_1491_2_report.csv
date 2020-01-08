@@ -1,0 +1,6 @@
+F1: 0.33333,Precision: 0.33333,Recall: 0.33333,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,1,D. Kearney,http://fr.dbpedia.org/resource/Denny_Kearney,http://dbpedia.org/resource/David_Kearney_(rugby_union) http://dbpedia.org/resource/Dave_Kearney
+2,2,A. E. Smith,http://dbpedia.org/resource/Bubba_Smith,http://dbpedia.org/resource/Anne_Easter_Smith
+2,4,J. Mostert,http://dbpedia.org/resource/Franco_Mostert,http://dbpedia.org/resource/JP_Mostert
+2,5,E. Lewis,http://dbpedia.org/resource/Eddie_Lewis_(American_football),"http://dbpedia.org/resource/Edward_""Eddie""_Lewis http://dbpedia.org/resource/Eddie_Lewis_(English_footballer) http://dbpedia.org/resource/Edward_Lewis_(footballer)"

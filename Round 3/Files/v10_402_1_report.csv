@@ -1,0 +1,8 @@
+"F1: 0.78571","Precision: 0.78571","Recall: 0.78571"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","1","Re-ac-tor","http://dbpedia.org/resource/Re·ac·tor","http://dbpedia.org/resource/Re-ac-tor"
+"1","3","Sunyata","http://dbpedia.org/resource/Sunyata_(VAS_album)","http://dbpedia.org/resource/Sunyata_(Robert_Rich_album)"
+"1","7","To Mega Therion","http://dbpedia.org/resource/Theli_(album)","http://dbpedia.org/resource/To_Mega_Therion_(music) http://dbpedia.org/resource/To_Mega_Therion_(album)"
+"1","24","Extended Versions","http://dbpedia.org/resource/Extended_Versions_(Styx_album)","http://dbpedia.org/resource/Extended_Versions_(Ringo_Starr_album) http://dbpedia.org/resource/Ringo_Starr_and_His_All_Starr_Band:_Extended_Versions"
+"1","26","Live from Austin, Tx","http://dbpedia.org/resource/R.E.M._Live_from_Austin,_TX","http://dbpedia.org/resource/Live_from_Austin,_Tx_(John_Mayall_album) http://dbpedia.org/resource/Live_from_Austin,_TX_(John_Mayall_album)"
+"1","28","All Things Are Possible","http://dbpedia.org/resource/All_Things_Are_Possible_(Dan_Peek_album)","http://dbpedia.org/resource/All_Things_Are_Possible_(Hillsong_Church_album)"

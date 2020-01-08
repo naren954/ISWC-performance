@@ -1,0 +1,34 @@
+F1: 0.34694,Precision: 0.34694,Recall: 0.34694,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,W. Pennington,http://dbpedia.org/resource/William_Pennington,http://dbpedia.org/resource/William_Pennington_(businessman)
+0,3,W. Bucknell,http://dbpedia.org/resource/John_Bucknell,http://dbpedia.org/resource/William_Bucknell
+0,5,W. W. Jr.,http://dbpedia.org/resource/George_W._Bush,"http://dbpedia.org/resource/Wheelock_Whitney,_Jr. http://dbpedia.org/resource/Wheelock_Whitney_(politician) http://dbpedia.org/resource/Wheelock_Whitney_II"
+0,6,W. C. Coleman,http://dbpedia.org/resource/Cy_Coleman,http://dbpedia.org/resource/Warren_Clay_Coleman
+0,7,W. Ritchie,http://dbpedia.org/resource/Neil_Ritchie,http://dbpedia.org/resource/Ward_Ritchie_Press http://dbpedia.org/resource/Ward_Ritchie
+0,10,T. F. Jr.,http://dbpedia.org/resource/Thomas_Francis_Jr.,"http://dbpedia.org/resource/Tench_Francis_Jr. http://dbpedia.org/resource/Tench_Francis_(Jr.) http://dbpedia.org/resource/Tench_Francis,_Jr."
+0,11,S. Bloch,http://dbpedia.org/resource/Ernst_Bloch,http://dbpedia.org/resource/Susan_Bloch_Theater http://dbpedia.org/resource/Susan_Bloch
+0,12,S. Gillen,http://dbpedia.org/resource/Sam_Gillen,http://dbpedia.org/resource/Stanley_Gillen
+0,13,S. Williamson,http://dbpedia.org/resource/Henry_Williamson,http://dbpedia.org/resource/Slim_Williamson
+0,14,"Simon J. Murphy, Sr.",http://dbpedia.org/resource/Daniel_J._Murphy,"http://dbpedia.org/resource/Simon_J._Murphy,_Sr."
+0,16,Samuel Stevens Sands I,http://dbpedia.org/resource/Samuel_Stevens_Sands,"http://dbpedia.org/resource/Samuel_Stevens_Sands,_Sr. http://dbpedia.org/resource/Samuel_Stevens_Sands_I"
+0,17,R. Enrico,"http://dbpedia.org/resource/Henry_of_Grosmont,_1st_Duke_of_Lancaster",http://dbpedia.org/resource/Roger_Enrico
+0,18,R. Owen,http://dbpedia.org/resource/Reginald_Owen,http://dbpedia.org/resource/Ralph_Owen
+0,19,P. Fleet,"http://dbpedia.org/resource/Charles,_Prince_of_Wales",http://dbpedia.org/resource/Preston_Fleet http://dbpedia.org/resource/Preston_Mitchell_Fleet
+0,21,M. Jackson,http://dbpedia.org/resource/Michael_Jackson,http://dbpedia.org/resource/Mike_Jackson_(businessman)
+0,22,M. Robbins,http://dbpedia.org/resource/Jerome_Robbins,http://dbpedia.org/resource/Merle_Robbins
+0,24,L. D. Baker,http://dbpedia.org/resource/Leslie_David_Baker,http://dbpedia.org/resource/Lorenzo_Dow_Baker
+0,25,L. Cahn,http://dbpedia.org/resource/Sammy_Cahn,http://dbpedia.org/resource/Lilian_Cahn
+0,26,L. Phelan,http://dbpedia.org/resource/Lew_Phelan,http://dbpedia.org/resource/L._A._M._Phelan http://dbpedia.org/resource/LAM_Phelan http://dbpedia.org/resource/L.A.M._Phelan http://dbpedia.org/resource/L_A_M_Phelan
+0,28,J. Greenberg,http://dbpedia.org/resource/Hank_Greenberg,http://dbpedia.org/resource/Josh_Greenberg_(entrepreneur) http://dbpedia.org/resource/Josh_Greenberg
+0,29,J. E. Broussard,http://dbpedia.org/resource/Allen_Broussard,http://dbpedia.org/resource/Joseph_Eloi_Broussard
+0,30,J. D. Oliver,http://es.dbpedia.org/resource/Francisco_J._Oliver,http://dbpedia.org/resource/Joseph_D._Oliver
+0,32,J. P. Jr.,http://dbpedia.org/resource/John_Patton_Jr.,http://dbpedia.org/resource/John_Peragallo_Jr.
+0,33,J. Park,http://dbpedia.org/resource/Jim_Park_(footballer),http://dbpedia.org/resource/Boston_Lyceum_for_the_Education_of_Young_Ladies http://dbpedia.org/resource/John_Park_(educator) http://dbpedia.org/resource/Boston_Lyceum_for_Young_Ladies
+0,35,J. Finkelstein,http://dbpedia.org/resource/Nat_Finkelstein,http://dbpedia.org/resource/Jerry_Finkelstein
+0,37,J. Wallace,http://dbpedia.org/resource/Jesse_Wallace,http://dbpedia.org/resource/James_Wallace_(benefactor)
+0,40,J. Humphreys,http://dbpedia.org/resource/Josephine_Humphreys,http://dbpedia.org/resource/James_Humphreys_(printer)
+0,41,J. Davant,http://dbpedia.org/resource/Sophie_Davant,http://dbpedia.org/resource/James_Davant
+0,44,I. Kimball,http://dbpedia.org/resource/Ward_Kimball,http://dbpedia.org/resource/Ingalls_Kimball
+0,45,H. Magnuson,http://dbpedia.org/resource/Keith_Magnuson,http://dbpedia.org/resource/Hugo_Magnuson
+0,46,H. Courtright,http://dbpedia.org/resource/Jim_Courtright_(athlete),http://dbpedia.org/resource/Hernando_Courtright
+0,47,H. D. Aldrich,http://dbpedia.org/resource/Chester_Hardy_Aldrich,http://dbpedia.org/resource/Herman_D._Aldrich

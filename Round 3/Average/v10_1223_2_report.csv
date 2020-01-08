@@ -1,0 +1,71 @@
+F1: 0.59412,Precision: 0.59412,Recall: 0.59412,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,1,B. Maas,http://dbpedia.org/resource/Jelle_Maas,http://dbpedia.org/resource/Bob_Maas http://dbpedia.org/resource/Adriaan_Maas
+2,2,S. Salén,http://dbpedia.org/resource/Dagmar_Salén,http://dbpedia.org/resource/Sven_Salen http://dbpedia.org/resource/Sven_Salén
+2,3,B. Maas,http://dbpedia.org/resource/Jelle_Maas,http://dbpedia.org/resource/Bob_Maas http://dbpedia.org/resource/Adriaan_Maas
+2,4,S. Salén,http://dbpedia.org/resource/Dagmar_Salén,http://dbpedia.org/resource/Sven_Salen http://dbpedia.org/resource/Sven_Salén
+2,5,J. Wilson,http://dbpedia.org/resource/Dave_Wilson_(swimmer),http://dbpedia.org/resource/Gerald_Wilson_(sailor) http://dbpedia.org/resource/Jerry_Wilson_(sailor)
+2,6,C. Sandblom,http://dbpedia.org/resource/Linda_Sandblom,http://dbpedia.org/resource/Carl_Sandblom
+2,8,C. Sandblom,http://dbpedia.org/resource/Linda_Sandblom,http://dbpedia.org/resource/Carl_Sandblom
+2,10,L. Bréguet,http://dbpedia.org/resource/Louis-François-Clement_Breguet,http://dbpedia.org/resource/Louis-Charles_Breguet http://dbpedia.org/resource/Louis_Breguet http://dbpedia.org/resource/Louis_Charles_Brequet http://dbpedia.org/resource/Louis_Charles_Breguet http://dbpedia.org/resource/Louis_Bréguet http://dbpedia.org/resource/Louis_Charles_Bréquet http://dbpedia.org/resource/Louis_Charles_Bréguet
+2,12,A. Guerrier,http://dbpedia.org/resource/Francis_I_of_France,http://dbpedia.org/resource/André_Guerrier
+2,14,T. Pedersen,http://dbpedia.org/resource/Thor_Pedersen_(rower),http://dbpedia.org/resource/Trygve_Pedersen
+2,15,E. Lindh,http://dbpedia.org/resource/Erik_Lindh,http://dbpedia.org/resource/Emil_Aleksander_Lindh http://dbpedia.org/resource/Emil_Lindh
+2,16,E. Sandberg,http://dbpedia.org/resource/Gösta_Sandberg,http://dbpedia.org/resource/Eric_Sandberg
+2,17,E. Sandelin,http://dbpedia.org/resource/Karl_Sandelin,http://dbpedia.org/resource/Eino_Sandelin
+2,18,E. Lindh,http://dbpedia.org/resource/Erik_Lindh,http://dbpedia.org/resource/Emil_Aleksander_Lindh http://dbpedia.org/resource/Emil_Lindh
+2,19,E. Sandberg,http://dbpedia.org/resource/Gösta_Sandberg,http://dbpedia.org/resource/Eric_Sandberg
+2,20,E. Sandelin,http://dbpedia.org/resource/Karl_Sandelin,http://dbpedia.org/resource/Eino_Sandelin
+2,21,Romania national rugby union team,http://dbpedia.org/resource/Tunisia_national_rugby_union_team,http://dbpedia.org/resource/Romania_rugby_union_team http://dbpedia.org/resource/Stejarii http://dbpedia.org/resource/Rumania_national_rugby_union_team http://dbpedia.org/resource/Romania_national_rugby_union_team http://dbpedia.org/resource/Romanian_rugby_union_team
+2,22,K. Crow,http://dbpedia.org/resource/Kevin_Crow,http://dbpedia.org/resource/Kimberley_Brennan http://dbpedia.org/resource/Kim_Crow http://dbpedia.org/resource/Kim_Brennan http://dbpedia.org/resource/KIm_Brennan
+2,28,A. Campbell,http://dbpedia.org/resource/Andrew_Campbell_(rower),http://dbpedia.org/resource/Alan_Campbell_(sculler) http://dbpedia.org/resource/Alan_Campbell_(rower)
+2,30,P. Taylor,http://dbpedia.org/resource/Penny_Taylor,http://dbpedia.org/resource/Peter_Taylor_(rower)
+2,31,J. Barsoe,,http://dbpedia.org/resource/Jacob_Barsoe http://dbpedia.org/resource/Jacob_Barsøe
+2,36,K. Crow,http://dbpedia.org/resource/Kevin_Crow,http://dbpedia.org/resource/Kimberley_Brennan http://dbpedia.org/resource/Kim_Crow http://dbpedia.org/resource/Kim_Brennan http://dbpedia.org/resource/KIm_Brennan
+2,42,A. Campbell,http://dbpedia.org/resource/Andrew_Campbell_(rower),http://dbpedia.org/resource/Alan_Campbell_(sculler) http://dbpedia.org/resource/Alan_Campbell_(rower)
+2,44,P. Taylor,http://dbpedia.org/resource/Penny_Taylor,http://dbpedia.org/resource/Peter_Taylor_(rower)
+2,50,E. Karsten,http://dbpedia.org/resource/Elke_Karsten,http://dbpedia.org/resource/Ekaterina_Karsten-Khodotovitch http://dbpedia.org/resource/Ekaterina_Karsten http://dbpedia.org/resource/Ekaterina_Karsten_-_Khodotovitch http://dbpedia.org/resource/Yekaterina_Khodatovich-Karsten http://dbpedia.org/resource/Ekaterina_Khodotovich
+2,52,M. Wells,http://dbpedia.org/resource/Mark_Wells,http://dbpedia.org/resource/Matthew_Wells_(rower)
+2,54,E. Karsten,http://dbpedia.org/resource/Elke_Karsten,http://dbpedia.org/resource/Ekaterina_Karsten-Khodotovitch http://dbpedia.org/resource/Ekaterina_Karsten http://dbpedia.org/resource/Ekaterina_Karsten_-_Khodotovitch http://dbpedia.org/resource/Yekaterina_Khodatovich-Karsten http://dbpedia.org/resource/Ekaterina_Khodotovich
+2,56,M. Wells,http://dbpedia.org/resource/Mark_Wells,http://dbpedia.org/resource/Matthew_Wells_(rower)
+2,71,R. Mills,http://dbpedia.org/resource/Ronnie_Mills,http://dbpedia.org/resource/Robert_Mills_(rower)
+2,72,P. Kersten,http://dbpedia.org/resource/Dagmar_Kersten,http://dbpedia.org/resource/Peter_Kersten
+2,75,P. Kersten,http://dbpedia.org/resource/Dagmar_Kersten,http://dbpedia.org/resource/Peter_Kersten
+2,76,D. Townsend,http://dbpedia.org/resource/Darian_Townsend,http://dbpedia.org/resource/David_Townsend_(rowing) http://dbpedia.org/resource/David_Townsend_(rower)
+2,80,H. Schmied,http://dbpedia.org/resource/Uli_Schmied,http://dbpedia.org/resource/Hans-Ullrich_Schmied http://dbpedia.org/resource/Hans-Ulrich_Schmied http://dbpedia.org/resource/Hans_Ulrich_Schmied
+2,81,N. Kuznetsov,http://dbpedia.org/resource/Nikolay_Kuznetsov_(cyclist),http://dbpedia.org/resource/Nikolai_Kuznetsov_(rower) http://dbpedia.org/resource/Nikolay_Kuznetsov_(rower) http://dbpedia.org/resource/Nikolai_Kusnezow
+2,85,H. Schmied,http://dbpedia.org/resource/Uli_Schmied,http://dbpedia.org/resource/Hans-Ullrich_Schmied http://dbpedia.org/resource/Hans-Ulrich_Schmied http://dbpedia.org/resource/Hans_Ulrich_Schmied
+2,93,M. Schneider,http://dbpedia.org/resource/Mathieu_Schneider,http://dbpedia.org/resource/Manfred_Schneider
+2,101,G. Fröhlich,http://dbpedia.org/resource/Jan_Fröhlich,http://dbpedia.org/resource/Gottlieb_Frohlich http://dbpedia.org/resource/Gottlieb_Fröhlich
+2,105,H. Kalt,http://dbpedia.org/resource/Dieter_Kalt,http://dbpedia.org/resource/Hans_Kalt
+2,107,H. Kalt,http://dbpedia.org/resource/Dieter_Kalt,http://dbpedia.org/resource/Hans_Kalt
+2,109,W. Jones,http://dbpedia.org/resource/William_Jones_(sport_shooter),http://dbpedia.org/resource/William_Jones_(rower)
+2,112,W. Jones,http://dbpedia.org/resource/William_Jones_(sport_shooter),http://dbpedia.org/resource/William_Jones_(rower)
+2,114,D. Barrow,http://dbpedia.org/resource/Dan_Barrow,http://dbpedia.org/resource/Daniel_Barrow
+2,118,D. Barrow,http://dbpedia.org/resource/Dan_Barrow,http://dbpedia.org/resource/Daniel_Barrow
+2,122,G. Douglas,http://dbpedia.org/resource/Gabby_Douglas,http://dbpedia.org/resource/Guillermo_Douglas
+2,123,A. Taylor,http://dbpedia.org/resource/Angelo_Taylor,http://dbpedia.org/resource/Albert_Taylor_(rower)
+2,124,C. Pratt,http://dbpedia.org/resource/Nicolas_Pratt,http://dbpedia.org/resource/Charles_Pratt_(rower)
+2,128,J. Braun,http://dbpedia.org/resource/József_Braun,http://dbpedia.org/resource/Jerzy_Braun
+2,129,G. Douglas,http://dbpedia.org/resource/Gabby_Douglas,http://dbpedia.org/resource/Guillermo_Douglas
+2,130,A. Taylor,http://dbpedia.org/resource/Angelo_Taylor,http://dbpedia.org/resource/Albert_Taylor_(rower)
+2,131,C. Pratt,http://dbpedia.org/resource/Nicolas_Pratt,http://dbpedia.org/resource/Charles_Pratt_(rower)
+2,135,J. Braun,http://dbpedia.org/resource/József_Braun,http://dbpedia.org/resource/Jerzy_Braun
+2,136,T. Collet,http://dbpedia.org/resource/David_Collet,http://dbpedia.org/resource/Theodore_Collet
+2,139,J. Schmitt,http://dbpedia.org/resource/Josef_Schmitt_(footballer),http://dbpedia.org/resource/John_Schmitt_(rower)
+2,140,C. Rossi,http://dbpedia.org/resource/Al_Rossi,http://dbpedia.org/resource/Cesare_Rossi
+2,143,T. Collet,http://dbpedia.org/resource/David_Collet,http://dbpedia.org/resource/Theodore_Collet
+2,146,P. McDowell,http://dbpedia.org/resource/Paul_McDowell_(rower),http://dbpedia.org/resource/Paul_McDowell
+2,147,C. Rossi,http://dbpedia.org/resource/Al_Rossi,http://dbpedia.org/resource/Cesare_Rossi
+2,150,J. Schneider,http://dbpedia.org/resource/Angela_Schneider,http://dbpedia.org/resource/Josef_Schneider_(rower)
+2,152,H. Thoma,http://dbpedia.org/resource/Georg_Thoma,http://dbpedia.org/resource/Heinrich_Thoma
+2,153,A. Probst,http://dbpedia.org/resource/Erich_Probst,http://dbpedia.org/resource/Alfred_Probst
+2,154,E. Jennings,http://dbpedia.org/resource/Edward_Jennings_(rowing),http://dbpedia.org/resource/Edward_Jennings_(rower)
+2,155,J. Kennedy,http://dbpedia.org/resource/Joe_Kennedy_(basketball),http://dbpedia.org/resource/John_Kennedy_(rower)
+2,156,J. Schneider,http://dbpedia.org/resource/Angela_Schneider,http://dbpedia.org/resource/Josef_Schneider_(rower)
+2,158,H. Thoma,http://dbpedia.org/resource/Georg_Thoma,http://dbpedia.org/resource/Heinrich_Thoma
+2,159,A. Probst,http://dbpedia.org/resource/Erich_Probst,http://dbpedia.org/resource/Alfred_Probst
+2,160,E. Jennings,http://dbpedia.org/resource/Edward_Jennings_(rowing),http://dbpedia.org/resource/Edward_Jennings_(rower)
+2,161,H. Welsford,http://dbpedia.org/resource/Sam_Welsford,http://dbpedia.org/resource/Henry_Welsford
+2,165,P. Piaget,http://dbpedia.org/resource/Jean_Piaget,http://dbpedia.org/resource/Paul_Piaget
+2,170,P. Piaget,http://dbpedia.org/resource/Jean_Piaget,http://dbpedia.org/resource/Paul_Piaget

@@ -1,0 +1,28 @@
+F1: 0.81295,Precision: 0.81295,Recall: 0.81295,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,Odd Fellows Hall,"http://dbpedia.org/resource/Odd_Fellows_Hall_(Cambridge,_Massachusetts)","http://dbpedia.org/resource/Independent_Order_of_Odd_Fellows_Temple_(Sandusky,_Ohio) http://dbpedia.org/resource/Odd_Fellows_Hall_(Sandusky,_Ohio)"
+0,5,Odd Fellows Block,"http://dbpedia.org/resource/Odd_Fellows_Hall_(Sandusky,_Ohio)","http://dbpedia.org/resource/Odd_Fellows_Block_(Lewiston,_Maine)"
+0,6,Odd Fellows' Home,http://dbpedia.org/resource/Caldwell_Odd_Fellow_Home_for_the_Aged,"http://dbpedia.org/resource/Odd_Fellows'_Home_(Worcester,_Massachusetts)"
+0,9,Oakwood-Chimborazo Historic District,http://dbpedia.org/resource/Vine–Oakwood–Green_Bay_Road_Historic_District,"http://dbpedia.org/resource/Oakwood-Chimborazo_Historic_District http://dbpedia.org/resource/Chimborazo,_Richmond http://dbpedia.org/resource/Oakwood,_Richmond,_Virginia http://dbpedia.org/resource/Chimborazo,_Virginia http://dbpedia.org/resource/Oakwood--Chimborazo_Historic_District"
+0,10,Oakley Farm,"http://dbpedia.org/resource/Oakley_(Upperville,_Virginia)","http://dbpedia.org/resource/Oakley_Farm_(Warm_Springs,_Virginia)"
+0,11,Oakley,"http://dbpedia.org/resource/Oakley,_Wisconsin","http://dbpedia.org/resource/Oakley_(Gallatin,_Tennessee)"
+0,12,Oaklands,http://dbpedia.org/resource/Oaklands_Historic_House_Museum,"http://dbpedia.org/resource/Oaklands_(Gardiner,_Maine)"
+0,14,Oak Hill Cemetery,"http://dbpedia.org/resource/Oak_Hill_Cemetery_Chapel_(Washington,_D.C.)","http://dbpedia.org/resource/Oak_Hill_Cemetery_(Evansville,_Indiana)"
+0,27,Northern Pacific Railway Depot,"http://dbpedia.org/resource/Northern_Pacific_Railway_Depot_(Bismarck,_North_Dakota)","http://dbpedia.org/resource/Northern_Pacific_Railway_Depot_(Fargo,_North_Dakota)"
+0,33,North Jefferson Street Historic District,"http://dbpedia.org/resource/Jefferson_Street_Historic_District_(Bluefield,_West_Virginia)",http://dbpedia.org/resource/North_Jefferson_Street_Historic_District
+0,45,New Milford,http://dbpedia.org/resource/Connecticut,http://dbpedia.org/resource/New_Milford_(Metro-North_station) http://dbpedia.org/resource/New_Milford_(Housatonic_Railroad_Station) http://dbpedia.org/resource/Housatonic_Railroad_Station
+0,49,New Imperial Hotel,"http://dbpedia.org/resource/Imperial_Hotel_(Portland,_Oregon)","http://dbpedia.org/resource/Hotel_Lucia http://dbpedia.org/resource/New_Imperial_Hotel http://dbpedia.org/resource/New_Imperial_Hotel_(Portland,_Oregon) http://dbpedia.org/resource/New_Imperial_Hotel,_(Portland,_Oregon)"
+0,65,Nashville Children's Museum,http://dbpedia.org/resource/Seattle_Children's_Museum,http://dbpedia.org/resource/Nashville_Children's_Museum
+0,78,Municipal Building,http://dbpedia.org/resource/John_A._Wilson_Building,"http://dbpedia.org/resource/Municipal_Building_(Bluefield,_West_Virginia)"
+0,100,Montgomery County Courthouse,http://dbpedia.org/resource/Benton_County_Courthouse_(Indiana),"http://dbpedia.org/resource/Montgomery_County_Courthouse_(Troy,_North_Carolina) http://dbpedia.org/resource/Montgomery_County_Courthouse_(North_Carolina)"
+0,101,Montgomery County Courthouse,http://dbpedia.org/resource/Benton_County_Courthouse_(Indiana),"http://dbpedia.org/resource/Montgomery_County_Courthouse_(Mount_Vernon,_Georgia) http://dbpedia.org/resource/Montgomery_County_Courthouse_(Georgia)"
+0,115,Missouri Theatre,http://dbpedia.org/resource/Missouri_Theater_and_Missouri_Theater_Building,"http://dbpedia.org/resource/Missouri_Theatre_Center_for_the_Arts http://dbpedia.org/resource/Historic_Missouri_Theatre http://dbpedia.org/resource/Missouri_Theater_Center_for_the_Arts http://dbpedia.org/resource/Missouri_Theatre_(Columbia,_Missouri) http://dbpedia.org/resource/MIssouri_Theatre_Center_for_the_Arts http://dbpedia.org/resource/Missouri_theatre"
+0,116,"Missouri, Kansas, and Texas Railroad Depot","http://dbpedia.org/resource/Columbia_station_(Missouri,_Kansas,_and_Texas_Railroad)","http://dbpedia.org/resource/Missouri,_Kansas,_and_Texas_Railroad_Depot_(Columbia,_Missouri) http://dbpedia.org/resource/Katy_Station"
+0,118,Minnetrista Boulevard Historic District,http://dbpedia.org/resource/Jackson_Boulevard_District_and_Extension,http://dbpedia.org/resource/Minnetrista_Boulevard_Historic_District
+0,121,Minnesota Home School for Girls Historic District,http://dbpedia.org/resource/Minnesota_Home_School_for_Girls,http://dbpedia.org/resource/Minnesota_Home_School_for_Girls_Historic_District http://dbpedia.org/resource/Sauk_Centre_Home_School
+0,124,Milton Railroad Station,http://dbpedia.org/resource/Milton_station_(New_York),http://dbpedia.org/resource/Milton_Railroad_Station
+0,128,Migeon Avenue Historic District,"http://dbpedia.org/resource/Clinton_Avenue_Historic_District_(Albany,_New_York)",http://dbpedia.org/resource/Migeon_Avenue_Historic_District
+0,129,Midtown Woodward Historic District,http://dbpedia.org/resource/Midtown_Corinth_Historic_District,http://dbpedia.org/resource/Midtown_Woodward_Historic_District
+0,132,Michigan Central Railroad Chelsea Depot,http://dbpedia.org/resource/Michigan_Central_Station,http://dbpedia.org/resource/Michigan_Central_Railroad_Chelsea_Depot
+0,136,Metropolitan Theatre,http://dbpedia.org/resource/Manila_Metropolitan_Theater,"http://dbpedia.org/resource/Metropolitan_Theatre,_Morgantown,_West_Virginia http://dbpedia.org/resource/Metropolitan_Theatre_(Morgantown,_West_Virginia)"
+0,138,Methodist Episcopal Church,"http://dbpedia.org/resource/First_United_Methodist_Church_(Des_Moines,_Iowa)","http://dbpedia.org/resource/Methodist_Episcopal_Church_(Devils_Lake,_North_Dakota)"

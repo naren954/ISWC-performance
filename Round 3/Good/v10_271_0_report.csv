@@ -1,0 +1,15 @@
+F1: 0.77586,Precision: 0.77586,Recall: 0.77586,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,19,1989 San Marino Grand Prix,http://dbpedia.org/resource/1999_San_Marino_Grand_Prix,http://dbpedia.org/resource/1989_San_Marino_Grand_Prix
+0,22,1988 Portuguese Grand Prix,http://dbpedia.org/resource/1991_Portuguese_Grand_Prix,http://dbpedia.org/resource/1988_Portuguese_Grand_Prix
+0,28,1980 New Zealand Grand Prix,http://dbpedia.org/resource/1960_New_Zealand_Grand_Prix,http://dbpedia.org/resource/1980_New_Zealand_Grand_Prix
+0,29,1978 New Zealand Grand Prix,http://dbpedia.org/resource/1958_New_Zealand_Grand_Prix,http://dbpedia.org/resource/1978_New_Zealand_Grand_Prix
+0,39,1968 BRDC International Trophy,http://dbpedia.org/resource/1966_BRDC_International_Trophy,http://dbpedia.org/resource/1968_BRDC_International_Trophy
+0,40,1968 Australian Grand Prix,http://dbpedia.org/resource/1968_Italian_Grand_Prix,http://dbpedia.org/resource/1968_Australian_Grand_Prix
+0,42,1965 Australian Grand Prix,http://dbpedia.org/resource/1965_Italian_Grand_Prix,http://dbpedia.org/resource/1965_Australian_Grand_Prix
+0,43,1964 Australian Grand Prix,http://dbpedia.org/resource/1964_Italian_Grand_Prix,http://dbpedia.org/resource/1964_Australian_Grand_Prix
+0,45,1957 Pau Grand Prix,http://dbpedia.org/resource/1950_Pau_Grand_Prix,http://dbpedia.org/resource/1957_Pau_Grand_Prix
+0,46,1957 New Zealand Grand Prix,http://dbpedia.org/resource/1959_New_Zealand_Grand_Prix,http://dbpedia.org/resource/1957_New_Zealand_Grand_Prix
+0,49,1952 Buenos Aires Grand Prix,http://dbpedia.org/resource/1952_Buenos_Aires_Grand_Prix_(I),http://dbpedia.org/resource/1952_Buenos_Aires_Grand_Prix_(II)
+0,51,1951 San Remo Grand Prix,http://dbpedia.org/resource/1950_San_Remo_Grand_Prix,http://dbpedia.org/resource/1951_San_Remo_Grand_Prix
+0,55,1948 San Remo Grand Prix,http://dbpedia.org/resource/1950_San_Remo_Grand_Prix,http://dbpedia.org/resource/1948_San_Remo_Grand_Prix

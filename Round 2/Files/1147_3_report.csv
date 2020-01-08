@@ -1,0 +1,4 @@
+"F1: 0.81818","Precision: 0.81818","Recall: 0.81818"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"3","1","R. Hunter","http://dbpedia.org/resource/James_Hunter_(singer)","http://dbpedia.org/resource/Robert_Hunter_(singer) http://dbpedia.org/resource/Robert_Hunter_(lyricist)"
+"3","10","T. Rice","http://dbpedia.org/resource/Tony_Rice","http://dbpedia.org/resource/Tim_Rice http://dbpedia.org/resource/Timothy_Miles_Bindon_Rice http://dbpedia.org/resource/Sir_Tim_Rice http://dbpedia.org/resource/Sir_Timothy_Miles_Bindon_Rice"

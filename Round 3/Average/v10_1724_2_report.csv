@@ -1,0 +1,8 @@
+F1: 0.57143,Precision: 0.57143,Recall: 0.57143,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,2,G. Davies,http://dbpedia.org/resource/Geoffrey_Davies,http://dbpedia.org/resource/Greg_Davies
+2,4,T. Lester,http://dbpedia.org/resource/Adrian_Lester,http://dbpedia.org/resource/Terry_Lester
+2,7,S. Cruddas,http://dbpedia.org/resource/Jon_Cruddas,http://dbpedia.org/resource/Sarah_Cruddas
+2,10,B. Parry,http://dbpedia.org/resource/Bill_Parry_(mathematician),http://dbpedia.org/resource/Bruce_Parry
+2,11,M. Rosenstock,http://dbpedia.org/resource/Eugen_Rosenstock-Huessy,http://dbpedia.org/resource/Mario_Rosenstock
+2,13,D. Lamb,http://dbpedia.org/resource/Doron_Lamb,http://dbpedia.org/resource/Dave_Lamb http://dbpedia.org/resource/Dave_lamb

@@ -1,0 +1,6 @@
+"F1: 0.89744","Precision: 0.89744","Recall: 0.89744"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","10","M. Feldman","http://dbpedia.org/resource/Morton_Feldman","http://dbpedia.org/resource/Michael_Feldman"
+"0","15","J. Watt","http://dbpedia.org/resource/James_Watt","http://dbpedia.org/resource/John_Watt_(broadcaster)"
+"0","25","E. Papadopoulos","http://dbpedia.org/resource/Tassos_Papadopoulos","http://dbpedia.org/resource/Emilia_Papadopoulos"
+"0","32","C. Anderson","http://dbpedia.org/resource/Clayton_Anderson","http://dbpedia.org/resource/Casey_Anderson_(naturalist)"

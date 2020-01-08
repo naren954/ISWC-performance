@@ -1,0 +1,7 @@
+F1: 0.16667,Precision: 0.16667,Recall: 0.16667,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,Dorohoi,http://dbpedia.org/resource/Dorohoi,http://dbpedia.org/resource/FCM_Dorohoi
+1,2,BaloteÈ\u0099ti,,http://dbpedia.org/resource/CS_Balotești
+1,3,Berceni,"http://dbpedia.org/resource/Berceni,_Ilfov",http://dbpedia.org/resource/ACS_Constanța http://dbpedia.org/resource/ASC_Constanța http://dbpedia.org/resource/AS_Dodu_București http://dbpedia.org/resource/ACS_Suporter_Club_Constanța http://dbpedia.org/resource/SC_Constanța http://dbpedia.org/resource/ACS_Berceni http://dbpedia.org/resource/Suporter_Club_Constanța http://dbpedia.org/resource/Dodu_București
+1,5,Unirea Slobozia (R),http://dbpedia.org/resource/AFC_Unirea_Slobozia,http://dbpedia.org/resource/CSM_Unirea_Slobozia http://dbpedia.org/resource/Unirea_Slobozia http://dbpedia.org/resource/FC_Unirea_Slobozia http://dbpedia.org/resource/CS_Municipal_Unirea_Slobozia http://dbpedia.org/resource/FC_Unirea_2004_Slobozia http://dbpedia.org/resource/Unirea_2004_Slobozia http://dbpedia.org/resource/CSM_Unirea_'04_Slobozia
+1,6,SÄ\u0083geata NÄ\u0083vodari (R),http://dbpedia.org/resource/Adamson_University,http://dbpedia.org/resource/AFC_Săgeata_Năvodari

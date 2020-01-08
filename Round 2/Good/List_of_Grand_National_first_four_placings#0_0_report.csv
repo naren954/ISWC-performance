@@ -1,0 +1,4 @@
+F1: 0.90476,Precision: 0.90476,Recall: 0.90476,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,19,Corbiere,http://dbpedia.org/resource/Corbiere_(horse),http://dbpedia.org/resource/Corbiere http://dbpedia.org/resource/Corbière_(disambiguation) http://dbpedia.org/resource/Corbière
+0,63,Jerry,http://dbpedia.org/resource/Jerry_Thorpe,http://dbpedia.org/resource/Jerry_(Grand_National_winner)

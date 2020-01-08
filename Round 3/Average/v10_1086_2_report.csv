@@ -1,0 +1,4 @@
+F1: 0.75000,Precision: 0.75000,Recall: 0.75000,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,7,Metropolitan City of Florence,http://dbpedia.org/resource/Berlin,http://dbpedia.org/resource/Metropolitan_city_of_Florence http://dbpedia.org/resource/Metropolitan_City_of_Florence
+2,8,Province of Cremona,http://dbpedia.org/resource/Cremona,http://dbpedia.org/resource/Province_of_cremona http://dbpedia.org/resource/Provincia_di_Cremona http://dbpedia.org/resource/Province_of_Cremona http://dbpedia.org/resource/Cremona_Province

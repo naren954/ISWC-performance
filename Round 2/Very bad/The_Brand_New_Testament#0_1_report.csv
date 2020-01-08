@@ -1,0 +1,16 @@
+F1: 0.17647,Precision: 0.17647,Recall: 0.17647,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,Best Film,http://dbpedia.org/resource/Metro_Manila_Film_Festival_Award_for_Best_Picture,http://dbpedia.org/resource/André_Cavens_Award
+1,7,Best Foreign Film,http://dbpedia.org/resource/Independent_Spirit_Award_for_Best_International_Film,http://dbpedia.org/resource/César_Award_for_Best_Foreign_Film
+1,13,Best Foreign Language Film,http://dbpedia.org/resource/List_of_Yugoslav_submissions_for_the_Academy_Award_for_Best_Foreign_Language_Film,http://dbpedia.org/resource/Golden_Globe_for_Best_Foreign_Film http://dbpedia.org/resource/Golden_Globe_for_Best_Foreign-language_film http://dbpedia.org/resource/Golden_Globe_for_Best_Foreign_Language_Film http://dbpedia.org/resource/Golden_Globe_Award_for_Best_Foreign_Language_Film http://dbpedia.org/resource/Golden_Globe_Award_for_Best_Foreign_Film http://dbpedia.org/resource/List_of_Golden_Globe_Awards:_Foreign_Language_Film
+1,15,Best French-Language Film,http://dbpedia.org/resource/List_of_Yugoslav_submissions_for_the_Academy_Award_for_Best_Foreign_Language_Film,http://dbpedia.org/resource/Lumières_Award_for_Best_French-Language_Film
+1,18,Best Film,http://dbpedia.org/resource/Metro_Manila_Film_Festival_Award_for_Best_Picture,http://dbpedia.org/resource/Magritte_Award_for_Best_Film http://dbpedia.org/resource/Magritte_Award_for_Best_Co-Production
+1,19,Best Director,http://dbpedia.org/resource/Santosham_Best_Director_Award,http://dbpedia.org/resource/Magritte_Award_for_Best_Director
+1,20,Best Screenplay,http://dbpedia.org/resource/AACTA_Award_for_Best_Screenplay_in_Television,http://dbpedia.org/resource/Magritte_Award_for_Best_Screenplay
+1,21,Best Supporting Actress,http://dbpedia.org/resource/AACTA_Award_for_Best_Guest_or_Supporting_Actress_in_a_Television_Drama,http://dbpedia.org/resource/Magritte_Award_for_Best_Supporting_Actress
+1,22,Best Supporting Actor,http://dbpedia.org/resource/Academy_Award_for_Best_Supporting_Actor,http://dbpedia.org/resource/Magritte_Award_for_Best_Supporting_Actor
+1,23,Most Promising Actress,http://dbpedia.org/resource/Chicago_Film_Critics_Association,http://dbpedia.org/resource/Magritte_Award_for_Most_Promising_Actress
+1,24,Most Promising Actor,http://dbpedia.org/resource/Chicago_Film_Critics_Association_Awards_1996,http://dbpedia.org/resource/Magritte_Award_for_Most_Promising_Actor
+1,25,Best Cinematography,http://dbpedia.org/resource/David_di_Donatello_for_Best_Cinematography,http://dbpedia.org/resource/Magritte_Award_for_Best_Cinematography
+1,27,Best Original Score,http://dbpedia.org/resource/Hundred_Flowers_Award_for_Best_Original_Score,http://dbpedia.org/resource/Magritte_Award_for_Best_Original_Score
+1,31,Best Foreign Language Film,http://dbpedia.org/resource/List_of_Yugoslav_submissions_for_the_Academy_Award_for_Best_Foreign_Language_Film,http://dbpedia.org/resource/Satellite_Award_for_Best_Foreign_Language_Film http://dbpedia.org/resource/Satellite_award_for_best_foreign_language_film

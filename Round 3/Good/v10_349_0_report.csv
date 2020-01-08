@@ -1,0 +1,4 @@
+F1: 0.91304,Precision: 0.91304,Recall: 0.91304,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,4,Washingborough,http://dbpedia.org/resource/Washingborough_railway_station,http://dbpedia.org/resource/Washingborough
+0,11,"Thorpe Park, Lincolnshire",http://dbpedia.org/resource/Thorpe_St_Peter,"http://dbpedia.org/resource/Thorpe_Park,_Lincolnshire"

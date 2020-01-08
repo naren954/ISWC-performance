@@ -1,0 +1,12 @@
+F1: 0.84375,Precision: 0.84375,Recall: 0.84375,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,22,Chemistry,http://dbpedia.org/resource/Heathen_Chemistry,http://dbpedia.org/resource/Chemistry_(Smash)
+0,23,Chase,http://dbpedia.org/resource/The_Chase_(Doctor_Who),http://dbpedia.org/resource/Chase_(House_episode)
+0,27,Chapter 5,http://dbpedia.org/resource/Chapter_VI_(album),http://dbpedia.org/resource/Chapter_5_(House_of_Cards)
+0,28,Chapter 4,http://dbpedia.org/resource/Ulysses_(novel),http://dbpedia.org/resource/Chapter_4_(House_of_Cards)
+0,29,Chapter 3,http://dbpedia.org/resource/Insidious:_Chapter_3,http://dbpedia.org/resource/Chapter_3_(House_of_Cards)
+0,30,Chapter 2,http://dbpedia.org/resource/John_Wick:_Chapter_2,http://dbpedia.org/resource/Chapter_2_(House_of_Cards)
+0,36,Cash,http://dbpedia.org/resource/Cash_Flow_(Ace_Hood_song),http://dbpedia.org/resource/Cash_(Young_Ones_episode) http://dbpedia.org/resource/Cash_(The_Young_Ones) http://dbpedia.org/resource/Cash_(Young_Ones) http://dbpedia.org/resource/Cash_(The_Young_Ones_episode)
+0,46,Bullseye,http://dbpedia.org/resource/Bullseye_(The_Avengers),http://dbpedia.org/resource/Bullseye_(American_Horror_Story)
+0,49,Brothers,http://dbpedia.org/resource/Brothers_&_Sisters_(2006_TV_series),http://dbpedia.org/resource/Brothers_(TNG_episode) http://dbpedia.org/resource/Brothers_(Star_Trek) http://dbpedia.org/resource/Brothers_(Star_Trek:_The_Next_Generation)
+0,59,Born Again,http://dbpedia.org/resource/Born_Again_(The_X-Files),http://dbpedia.org/resource/Born_Again_(The_Americans)

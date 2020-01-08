@@ -1,0 +1,6 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,Juventus BucureÈ\u0099ti,http://dbpedia.org/resource/Juventus_F.C.,http://dbpedia.org/resource/CS_Juventus_București
+1,2,BaloteÈ\u0099ti,,http://dbpedia.org/resource/CS_Balotești
+1,7,Dinamo II BucureÈ\u0099ti,http://dbpedia.org/resource/FC_Dynamo_Moscow,http://dbpedia.org/resource/FC_Dinamo_II_București
+1,11,Concordia II Chiajna,http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Salina,http://dbpedia.org/resource/CS_Concordia_Chiajna http://dbpedia.org/resource/CS_Concordia_II_Chiajna http://dbpedia.org/resource/Unirea_II_Chiajna http://dbpedia.org/resource/Concordia_Chiajna

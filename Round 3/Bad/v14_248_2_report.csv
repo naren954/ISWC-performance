@@ -1,0 +1,66 @@
+F1: 0.48387,Precision: 0.48387,Recall: 0.48387,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,2,F. D. Giacomo,http://it.dbpedia.org/resource/Francesco_Di_Giacomo,http://dbpedia.org/resource/Franco_Di_Giacomo http://dbpedia.org/resource/Franco_di_Giacomo
+2,4,L. Barboni,http://dbpedia.org/resource/Enzo_Barboni,http://dbpedia.org/resource/Leonida_Barboni
+2,5,G. d. Battista,http://it.dbpedia.org/resource/Gabriele_di_Battista,http://dbpedia.org/resource/Gérard_de_Battista http://dbpedia.org/resource/Gerard_de_Battista
+2,6,M. Craveri,http://dbpedia.org/resource/Marcello_Craveri,http://dbpedia.org/resource/Mario_Craveri
+2,7,M. Scarpelli,http://dbpedia.org/resource/Furio_Scarpelli,http://dbpedia.org/resource/Marco_Scarpelli
+2,9,A. G. Paz,http://dbpedia.org/resource/Alberto_Gainza_Paz,http://dbpedia.org/resource/Aníbal_González_Paz http://dbpedia.org/resource/Anibal_Gonzalez_Paz
+2,11,P. Jayaraman,http://dbpedia.org/resource/Lalgudi_Jayaraman,http://dbpedia.org/resource/Preetha_Jayaraman
+2,12,A. Traverso,http://es.dbpedia.org/resource/Susana_Traverso,http://dbpedia.org/resource/Alfredo_Traverso
+2,14,A. Bose,http://dbpedia.org/resource/Amar_Bose,http://dbpedia.org/resource/Ayananka_Bose
+2,15,P. Bhatt,http://dbpedia.org/resource/Pooja_Bhatt,http://dbpedia.org/resource/Praveen_Bhatt http://dbpedia.org/resource/Pravin_Bhatt
+2,17,J. Vincent,http://dbpedia.org/resource/Jan-Michael_Vincent,http://dbpedia.org/resource/Jayanan_vincent http://dbpedia.org/resource/Jayanan_Vincent
+2,21,A. Wong,http://dbpedia.org/resource/Alfonso_Wong,http://dbpedia.org/resource/Arthur_Wong
+2,22,A. G. Torresi,http://it.dbpedia.org/resource/Giulio_Torresi,http://dbpedia.org/resource/Alessio_Gelsini_Torresi http://dbpedia.org/resource/Alessio_Gelsini
+2,23,R. Lefebvre,http://dbpedia.org/resource/Raymond_Lefebvre,http://dbpedia.org/resource/Robert_Lefebvre
+2,27,Jeeva,http://dbpedia.org/resource/G._Jeevananthan,http://dbpedia.org/resource/Jeeva_(cinematographer) http://dbpedia.org/resource/Jeeva_(director)
+2,28,Jeeva,http://dbpedia.org/resource/G._Jeevananthan,http://dbpedia.org/resource/Jeeva_(cinematographer) http://dbpedia.org/resource/Jeeva_(director)
+2,30,B. Kannan,http://dbpedia.org/resource/Ravindran_Kannan,http://dbpedia.org/resource/B._Kannan
+2,32,R. Ravi,http://dbpedia.org/resource/Nizhalgal_Ravi,http://dbpedia.org/resource/Rajiv_Ravi http://dbpedia.org/resource/Rajeev_Ravi
+2,33,V. Isc,http://dbpedia.org/resource/Institut_supérieur_du_commerce_de_Paris,http://dbpedia.org/resource/Venu_isc http://dbpedia.org/resource/Venu_(cinematographer) http://dbpedia.org/resource/Venu_Isc
+2,36,J. Vincent,http://dbpedia.org/resource/Jan-Michael_Vincent,http://dbpedia.org/resource/Jayanan_vincent http://dbpedia.org/resource/Jayanan_Vincent
+2,37,S. K. ISC,,http://dbpedia.org/resource/S._Kumar_ISC http://dbpedia.org/resource/S._Kumar_(cinematographer)
+2,38,J. Vincent,http://dbpedia.org/resource/Jan-Michael_Vincent,http://dbpedia.org/resource/Jayanan_vincent http://dbpedia.org/resource/Jayanan_Vincent
+2,39,B. Kannan,http://dbpedia.org/resource/Ravindran_Kannan,http://dbpedia.org/resource/B._Kannan
+2,40,R. Richardson,http://dbpedia.org/resource/Ralph_Richardson,"http://dbpedia.org/resource/Robert_Richardson_(cinematographer) http://dbpedia.org/resource/Robert_Richardson,_ASC"
+2,42,P. Wheeler,http://dbpedia.org/resource/Mortimer_Wheeler,http://dbpedia.org/resource/Paul_Wheeler
+2,45,R. Elton,http://dbpedia.org/resource/Geoffrey_Elton,http://dbpedia.org/resource/Ray_Elton
+2,46,A. Brizzi,http://dbpedia.org/resource/Aldo_Brizzi,http://dbpedia.org/resource/Anchise_Brizzi
+2,47,F. J. Koenekamp,http://dbpedia.org/resource/J._F._Powers,http://dbpedia.org/resource/Fred_J._Koenekamp http://dbpedia.org/resource/Fred_Koenekamp
+2,49,J. Bachelet,http://dbpedia.org/resource/Pierre_Bachelet,http://dbpedia.org/resource/Jean_Bachelet
+2,50,J. MacKenzie,http://dbpedia.org/resource/James_Mackenzie_(cardiologist),http://dbpedia.org/resource/Jack_MacKenzie
+2,52,C. Challis,http://dbpedia.org/resource/James_Challis,http://dbpedia.org/resource/Christopher_Challis http://dbpedia.org/resource/Chris_Challis
+2,53,C. W. Hall,http://dbpedia.org/resource/Carl_Christian_Hall,http://dbpedia.org/resource/Conrad_W._Hall
+2,56,M. Reed,http://dbpedia.org/resource/Mike_Reed_(American_football),http://dbpedia.org/resource/Michael_Reed_(cinematographer)
+2,59,E. Miller,http://dbpedia.org/resource/Arthur_Miller,http://dbpedia.org/resource/Ernest_Miller_(cinematographer)
+2,63,S. Hickox,http://dbpedia.org/resource/Richard_Hickox,http://dbpedia.org/resource/Sid_Hickox http://dbpedia.org/resource/Sidney_Hickox
+2,65,A. Lloyd,http://dbpedia.org/resource/Harold_Lloyd,http://dbpedia.org/resource/Art_Lloyd
+2,68,F. Redman,http://dbpedia.org/resource/Joyce_Redman,http://dbpedia.org/resource/Frank_Redman
+2,69,A. Martinelli,http://dbpedia.org/resource/Alfredo_Martinelli,http://dbpedia.org/resource/Arthur_Martinelli
+2,70,V. Vrdoljak,http://dbpedia.org/resource/Antun_Vrdoljak,http://dbpedia.org/resource/Vjekoslav_Vrdoljak
+2,72,J. L. Alcaine,http://dbpedia.org/resource/J._L._Tarr,http://dbpedia.org/resource/José_Luis_Alcaine http://dbpedia.org/resource/Jose_Luis_Alcaine
+2,77,W. Cooper,http://dbpedia.org/resource/Chris_Cooper,http://dbpedia.org/resource/Wilkie_Cooper
+2,81,G. Faithfull,http://dbpedia.org/resource/Marianne_Faithfull,http://dbpedia.org/resource/Geoffrey_Faithfull
+2,82,C. Hoffmann,http://dbpedia.org/resource/Camill_Hoffmann,http://dbpedia.org/resource/Carl_Hoffmann
+2,85,G. J. Folsey,http://dbpedia.org/resource/George_Folsey_(cinematographer),http://dbpedia.org/resource/George_J._Folsey http://dbpedia.org/resource/George_Folsey http://dbpedia.org/resource/George_Joseph_Folsey http://dbpedia.org/resource/George_Falsey http://dbpedia.org/resource/George_J._Falsey
+2,86,R. Surtees,http://dbpedia.org/resource/Bruce_Surtees,http://dbpedia.org/resource/Robert_L._Surtees_(cinematographer) http://dbpedia.org/resource/Robert_Surtees_(director_of_photography) http://dbpedia.org/resource/Robert_L._Surtees http://dbpedia.org/resource/Robert_Surtees_(cinematographer)
+2,88,C. Mathon,http://fr.dbpedia.org/resource/Charles_Mathon,http://dbpedia.org/resource/Claire_Mathon
+2,92,S. Roy,http://dbpedia.org/resource/Mervyn_LeRoy,http://dbpedia.org/resource/Soumendu_Roy
+2,93,G. Faithfull,http://dbpedia.org/resource/Marianne_Faithfull,http://dbpedia.org/resource/Geoffrey_Faithfull
+2,94,H. Narita,http://dbpedia.org/resource/Mikio_Narita,http://dbpedia.org/resource/Hiro_Narita
+2,98,J. L. Alcaine,http://dbpedia.org/resource/J._L._Tarr,http://dbpedia.org/resource/José_Luis_Alcaine http://dbpedia.org/resource/Jose_Luis_Alcaine
+2,99,H. Waxman,http://dbpedia.org/resource/Franz_Waxman,http://dbpedia.org/resource/Harry_Waxman
+2,100,H. Toro,http://dbpedia.org/resource/Antonio_Herrera_Toro,http://dbpedia.org/resource/Hernan_Toro http://dbpedia.org/resource/Hernán_Toro
+2,101,J. Hartigan,http://dbpedia.org/resource/Grace_Hartigan,http://dbpedia.org/resource/John_Hartigan
+2,102,A. Wong,http://dbpedia.org/resource/Alfonso_Wong,http://dbpedia.org/resource/Arthur_Wong
+2,104,A. Pesci,http://dbpedia.org/resource/Joe_Pesci,http://dbpedia.org/resource/Alessandro_Pesci
+2,105,J. MacBurnie,http://dbpedia.org/resource/Beryl_McBurnie,http://dbpedia.org/resource/John_MacBurnie
+2,108,T. Pinter,http://dbpedia.org/resource/Harold_Pinter,http://dbpedia.org/resource/Tomislav_Pinter
+2,109,J. Wilson,http://dbpedia.org/resource/Jock_Wilson_(British_Army_soldier),http://dbpedia.org/resource/James_Wilson_(cinematographer)
+2,111,A. Phillips,http://dbpedia.org/resource/John_Phillips_(geologist),http://dbpedia.org/resource/Alex_Phillips
+2,114,N. McLean,http://dbpedia.org/resource/Nathaniel_McLean,http://dbpedia.org/resource/Nick_McLean
+2,115,A. Hume,http://dbpedia.org/resource/Allan_Octavian_Hume,http://dbpedia.org/resource/Alan_Hume
+2,117,S. Hickox,http://dbpedia.org/resource/Richard_Hickox,http://dbpedia.org/resource/Sid_Hickox http://dbpedia.org/resource/Sidney_Hickox
+2,121,F. Crosby,http://dbpedia.org/resource/Bing_Crosby,http://dbpedia.org/resource/Floyd_Crosby http://dbpedia.org/resource/Floyd_Delafield_Crosby
+2,123,A. Greenberg,http://dbpedia.org/resource/Hank_Greenberg,http://dbpedia.org/resource/Adam_Greenberg_(cinematographer) http://dbpedia.org/resource/Adam_Grinberg

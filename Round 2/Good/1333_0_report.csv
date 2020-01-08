@@ -1,0 +1,20 @@
+F1: 0.83929,Precision: 0.83929,Recall: 0.83929,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,M. Penn,http://dbpedia.org/resource/Napoleon,http://dbpedia.org/resource/Mark_Penn http://dbpedia.org/resource/Mark_J._Penn
+0,4,M. Parnell,http://dbpedia.org/resource/Charles_Stewart_Parnell,http://dbpedia.org/resource/Mark_Parnell
+0,13,M. Antonescu,http://dbpedia.org/resource/Ion_Antonescu,http://dbpedia.org/resource/Maria_Antonescu http://dbpedia.org/resource/Maria_Niculescu http://dbpedia.org/resource/Maria_Mareşal_Antonescu http://dbpedia.org/resource/Rica_Antonescu http://dbpedia.org/resource/Maria_Maresal_Antonescu http://dbpedia.org/resource/Maria_Mareșal_Antonescu
+0,15,M. Abbott,http://dbpedia.org/resource/Percy_Abbott_(Australian_politician),"http://dbpedia.org/resource/Margie_Abbott http://dbpedia.org/resource/Abbott,_Margie"
+0,16,M. Whitlam,http://dbpedia.org/resource/Gough_Whitlam,http://dbpedia.org/resource/Margaret_Elaine_Whitlam http://dbpedia.org/resource/Margaret_Whitlam http://dbpedia.org/resource/Margaret_Dovey http://dbpedia.org/resource/Margaret_Elaine_Dovey
+0,17,M. Sandhurst,"http://dbpedia.org/resource/William_Mansfield,_1st_Baron_Sandhurst",http://dbpedia.org/resource/Margaret_Sandhurst
+0,18,M. Rideout,http://dbpedia.org/resource/Sherwood_Rideout,http://dbpedia.org/resource/Margaret_Rideout http://dbpedia.org/resource/Margaret_Isabel_Rideout
+0,19,M. Reynolds,http://dbpedia.org/resource/Mel_Reynolds,http://dbpedia.org/resource/Margaret_Reynolds
+0,22,M. Fisher,http://dbpedia.org/resource/Mark_Fisher_(politician),http://dbpedia.org/resource/Margaret_Irvine http://dbpedia.org/resource/Margaret_Fisher
+0,28,M. Grunwald,http://dbpedia.org/resource/Henry_Grunwald_(editor),http://dbpedia.org/resource/Mandy_Grunwald
+0,31,M. Afkhami,http://dbpedia.org/resource/Behrouz_Afkhami,"http://dbpedia.org/resource/Afkhami,_Mahnaz http://dbpedia.org/resource/Mahnaz_Afkhami"
+0,45,L. Turnbull,http://dbpedia.org/resource/Malcolm_Turnbull,http://dbpedia.org/resource/Lucy_Hughes_Turnbull http://dbpedia.org/resource/Lucy_Turnbull
+0,55,L. Palme,http://dbpedia.org/resource/Olof_Palme,http://dbpedia.org/resource/Lisbet_Palme http://dbpedia.org/resource/Lisbet_Beck-Friis http://dbpedia.org/resource/Lisbeth_Palme
+0,60,L. H. Dodds,http://dbpedia.org/resource/Francis_H._Dodds,http://dbpedia.org/resource/Lin_Hatfield_Dodds
+0,79,L. Beyer,http://dbpedia.org/resource/Luc_Beyer_de_Ryke,http://dbpedia.org/resource/Lee_Beyer
+0,85,L. Suk-yee,http://dbpedia.org/resource/Regina_Ip,http://dbpedia.org/resource/Lam_Suk-yee
+0,95,K. Besigye,http://dbpedia.org/resource/K._Maneesha,http://dbpedia.org/resource/Warren_Kizza_Besigye_Kifefe http://dbpedia.org/resource/Kiiza_Besigye http://dbpedia.org/resource/Besigye http://dbpedia.org/resource/Kizza_Besigye
+0,99,K. E. Beazley,http://dbpedia.org/resource/Roger_K._Furse,"http://dbpedia.org/resource/Kim_Beazley_(elder) http://dbpedia.org/resource/Kim_Beazley,_Sr. http://dbpedia.org/resource/Kim_E_Beazley http://dbpedia.org/resource/Kim_Beazley,_senior http://dbpedia.org/resource/Kim_Edward_Beazley http://dbpedia.org/resource/Kim_Beazley_(senior)"

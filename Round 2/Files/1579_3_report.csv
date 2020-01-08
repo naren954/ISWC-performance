@@ -1,0 +1,4 @@
+"F1: 0.95556","Precision: 0.95556","Recall: 0.95556"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"3","18","Carl Smith","http://dbpedia.org/resource/Carl_Smith_(musician)","http://dbpedia.org/resource/Carl_Smith_(country_musician)"
+"3","44","Ph.D.","http://dbpedia.org/resource/Donald_Knuth","http://dbpedia.org/resource/Ph.D._(band) http://dbpedia.org/resource/PhD_(band)"

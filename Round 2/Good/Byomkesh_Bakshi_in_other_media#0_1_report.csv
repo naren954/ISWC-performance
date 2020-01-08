@@ -1,0 +1,4 @@
+F1: 0.81818,Precision: 0.81818,Recall: 0.81818,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,2,Shajarur Kanta,http://dbpedia.org/resource/Shajarur_Kanta_(2015_film),http://dbpedia.org/resource/Shajarur_Kanta_(1974_film)
+1,4,Byomkesh Bakshi,http://dbpedia.org/resource/Byomkesh_Bakshi_(2015_film),http://dbpedia.org/resource/Byomkesh_Bakshi_(2010_film)

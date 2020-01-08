@@ -1,0 +1,4 @@
+"F1: 0.81818","Precision: 0.81818","Recall: 0.81818"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","1","B. King","http://dbpedia.org/resource/Brett_King","http://dbpedia.org/resource/Bradley_King"
+"0","5","B. Weaver","http://dbpedia.org/resource/Fritz_Weaver","http://dbpedia.org/resource/Blayne_Weaver"

@@ -1,0 +1,14 @@
+F1: 0.88785,Precision: 0.88785,Recall: 0.88785,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,20,1976 United States Grand Prix,http://dbpedia.org/resource/2006_United_States_Grand_Prix,http://dbpedia.org/resource/1976_United_States_Grand_Prix_East http://dbpedia.org/resource/1976_USA_East_Grand_Prix http://dbpedia.org/resource/1976_United_States_Grand_Prix
+1,21,1961 United States Grand Prix,http://dbpedia.org/resource/1960_United_States_Grand_Prix,http://dbpedia.org/resource/1961_United_States_Grand_Prix
+1,35,1963 South African Grand Prix,http://dbpedia.org/resource/1993_South_African_Grand_Prix,http://dbpedia.org/resource/1963_South_African_Grand_Prix
+1,51,1950 Swiss Grand Prix,http://dbpedia.org/resource/1950_British_Grand_Prix,http://dbpedia.org/resource/1950_Swiss_Grand_Prix
+1,59,1962 United States Grand Prix,http://dbpedia.org/resource/1960_United_States_Grand_Prix,http://dbpedia.org/resource/1962_United_States_Grand_Prix
+1,73,1951 Swiss Grand Prix,http://dbpedia.org/resource/1951_Spanish_Grand_Prix,http://dbpedia.org/resource/1951_Swiss_Grand_Prix
+1,74,1980 United States Grand Prix West,http://dbpedia.org/resource/1983_United_States_Grand_Prix_West,http://dbpedia.org/resource/1980_United_States_Grand_Prix_West http://dbpedia.org/resource/1980_USA_West_Grand_Prix http://dbpedia.org/resource/1980_United_States_West_Grand_Prix
+1,78,1981 San Marino Grand Prix,http://dbpedia.org/resource/1991_San_Marino_Grand_Prix,http://dbpedia.org/resource/1981_San_Marino_Grand_Prix
+1,81,1981 United States Grand Prix West,http://dbpedia.org/resource/1983_United_States_Grand_Prix_West,http://dbpedia.org/resource/1981_United_States_Grand_Prix_West http://dbpedia.org/resource/1981_United_States_West_Grand_Prix http://dbpedia.org/resource/1981_USA_West_Grand_Prix
+1,87,1963 South African Grand Prix,http://dbpedia.org/resource/1993_South_African_Grand_Prix,http://dbpedia.org/resource/1963_South_African_Grand_Prix
+1,94,1951 Swiss Grand Prix,http://dbpedia.org/resource/1951_Spanish_Grand_Prix,http://dbpedia.org/resource/1951_Swiss_Grand_Prix
+1,102,1961 United States Grand Prix,http://dbpedia.org/resource/1960_United_States_Grand_Prix,http://dbpedia.org/resource/1961_United_States_Grand_Prix

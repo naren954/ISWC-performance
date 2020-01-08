@@ -1,0 +1,8 @@
+"F1: 0.57143","Precision: 0.57143","Recall: 0.57143"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","10","Sacred Heart Catholic Church","http://dbpedia.org/resource/Sacred_Heart_Catholic_Church_(McCartyville,_Ohio)","http://dbpedia.org/resource/Sacred_Heart_Catholic_Church_(Omaha,_Nebraska) http://dbpedia.org/resource/Sacred_Heart_Catholic_Church_Complex"
+"0","11","Holy Family Catholic Church","http://dbpedia.org/resource/Holy_Family_Catholic_Church_(Frenchtown,_Ohio)","http://dbpedia.org/resource/Holy_Family_Church_(Omaha,_Nebraska) http://dbpedia.org/resource/Holy_Family_Catholic_Church_(Omaha,_Nebraska)"
+"0","12","George F. Shepard House","http://dbpedia.org/resource/George_F._Clifford_House","http://dbpedia.org/resource/George_F._Shepard_House"
+"0","13","The Sherman","http://dbpedia.org/resource/Sherman_Brothers","http://dbpedia.org/resource/The_Sherman_(Omaha,_Nebraska) http://dbpedia.org/resource/The_Sherman_(building)"
+"0","14","Harry Buford House","http://dbpedia.org/resource/Harry_Goddard_House","http://dbpedia.org/resource/Harry_Buford_House"
+"0","15","Zion Baptist Church","http://dbpedia.org/resource/Zion_Baptist_Church_(Collinsville,_Mississippi)","http://dbpedia.org/resource/Zion_Baptist_Church_(Omaha,_Nebraska)"

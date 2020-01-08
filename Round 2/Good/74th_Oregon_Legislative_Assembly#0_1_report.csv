@@ -1,0 +1,4 @@
+F1: 0.93939,Precision: 0.93939,Recall: 0.93939,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,6,Bill Morrisette,http://dbpedia.org/resource/Bill_Horne,http://dbpedia.org/resource/Bill_Morrissette http://dbpedia.org/resource/Bill_Morrisette
+1,13,Gary George,http://dbpedia.org/resource/Gary_George_(Wisconsin_politician),http://dbpedia.org/resource/Gary_George_(Oregon_politician)

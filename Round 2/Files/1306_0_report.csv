@@ -1,0 +1,6 @@
+"F1: 0.60000","Precision: 0.60000","Recall: 0.60000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","4","Electra","http://dbpedia.org/resource/Electra_(Euripides_play)","http://dbpedia.org/resource/Electra_(Giraudoux_play) http://dbpedia.org/resource/Electra_(Giraudoux) http://dbpedia.org/resource/Électre_(Giraudoux)"
+"0","5","Eden","nan","http://dbpedia.org/resource/Eden_(Steve_Carter_play)"
+"0","6","Eclipsed","http://dbpedia.org/resource/Eclipse_(Meyer_novel)","http://dbpedia.org/resource/Eclipsed_(play) http://dbpedia.org/resource/Eclipsed_(Play)"
+"0","10","Dracula","http://dbpedia.org/resource/Dracula_(1924_play)","http://dbpedia.org/resource/Dracula_(1995_play) http://dbpedia.org/resource/Dracula_(1995)"

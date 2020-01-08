@@ -1,0 +1,6 @@
+"F1: 0.55556","Precision: 0.55556","Recall: 0.55556"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","1","W. Garne","http://dbpedia.org/resource/Sam_Garnes","http://dbpedia.org/resource/William_Garne"
+"0","2","N. Neville","http://dbpedia.org/resource/John_Neville_(actor)","http://dbpedia.org/resource/Neville_neville http://dbpedia.org/resource/Neville_Neville"
+"0","4","M. Pavri","http://dbpedia.org/resource/M._E._Pavri","http://dbpedia.org/resource/M.E._Pavri"
+"0","6","G. Atkinson","http://dbpedia.org/resource/George_Atkinson_(American_football)","http://dbpedia.org/resource/George_Atkinson_(cricketer)"

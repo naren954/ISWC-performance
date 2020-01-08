@@ -1,0 +1,16 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Backlash,http://dbpedia.org/resource/Backlash_(Marc_Slayton),http://dbpedia.org/resource/Backlash_2008 http://dbpedia.org/resource/Backlash_(2008) http://dbpedia.org/resource/WWE_Backlash_2008
+0,2,Backlash,http://dbpedia.org/resource/Backlash_(Marc_Slayton),http://dbpedia.org/resource/Backlash_2007 http://dbpedia.org/resource/Backlash_(2007) http://dbpedia.org/resource/WWE_Backlash_2007
+0,3,Backlash,http://dbpedia.org/resource/Backlash_(Marc_Slayton),http://dbpedia.org/resource/Backlash_2006 http://dbpedia.org/resource/Backlash_(2006) http://dbpedia.org/resource/WWF_Backlash_2006 http://dbpedia.org/resource/WWE_Backlash_2006
+0,4,Backlash,http://dbpedia.org/resource/Backlash_(Marc_Slayton),http://dbpedia.org/resource/Backlash_2005 http://dbpedia.org/resource/Backlash_(2005)
+0,5,Backlash,http://dbpedia.org/resource/Backlash_(Marc_Slayton),http://dbpedia.org/resource/Backlash_2004 http://dbpedia.org/resource/Backlash_(2004)
+0,6,Backlash,http://dbpedia.org/resource/Backlash_(Marc_Slayton),http://dbpedia.org/resource/Backlash_2003 http://dbpedia.org/resource/Backlash_(2003)
+0,7,Backlash,http://dbpedia.org/resource/Backlash_(Marc_Slayton),http://dbpedia.org/resource/Backlash_(2002) http://dbpedia.org/resource/Backlash_2002
+0,8,Armageddon,http://dbpedia.org/resource/Armageddon_(1998_film),http://dbpedia.org/resource/WWE_Armageddon_2008 http://dbpedia.org/resource/Armageddon_(2008) http://dbpedia.org/resource/Armageddon_2008
+0,9,Armageddon,http://dbpedia.org/resource/Armageddon_(1998_film),http://dbpedia.org/resource/WWE_Armageddon_(2007) http://dbpedia.org/resource/Armageddon_(2007) http://dbpedia.org/resource/WWE_Armageddon_2007 http://dbpedia.org/resource/Armageddon_2007
+0,10,Armageddon,http://dbpedia.org/resource/Armageddon_(1998_film),http://dbpedia.org/resource/Armageddon_2006 http://dbpedia.org/resource/Armageddon_(2006)
+0,11,Armageddon,http://dbpedia.org/resource/Armageddon_(1998_film),http://dbpedia.org/resource/Armageddon_2005 http://dbpedia.org/resource/Armageddon_(2005)
+0,12,Armageddon,http://dbpedia.org/resource/Armageddon_(1998_film),http://dbpedia.org/resource/Armageddon_2004 http://dbpedia.org/resource/Armageddon_(2004)
+0,13,Armageddon,http://dbpedia.org/resource/Armageddon_(1998_film),http://dbpedia.org/resource/Armageddon_(2003) http://dbpedia.org/resource/Armageddon_2003
+0,14,Armageddon,http://dbpedia.org/resource/Armageddon_(1998_film),http://dbpedia.org/resource/Armageddon_2002 http://dbpedia.org/resource/Armageddon_(2002)

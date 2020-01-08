@@ -1,0 +1,47 @@
+F1: 0.75000,Precision: 0.75000,Recall: 0.75000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,7,Year Zero,http://dbpedia.org/resource/Year_Zero_(song),"http://dbpedia.org/resource/Year_zero_2007_album http://dbpedia.org/resource/HYPERPOWER! http://dbpedia.org/resource/Meet_your_Master http://dbpedia.org/resource/The_Great_Destroyer_(song) http://dbpedia.org/resource/Perapin http://dbpedia.org/resource/Halo_24 http://dbpedia.org/resource/Hyperpower! http://dbpedia.org/resource/Me,_I'm_Not http://dbpedia.org/resource/Year_Zero_(album) http://dbpedia.org/resource/The_Good_Soldier_(song)"
+0,11,Yeah Yeah,http://dbpedia.org/resource/Yeah_Yeah_(Sabrina_song),http://dbpedia.org/resource/Yeah_Yeah_(Willy_Moon_song)
+0,15,Yeah,http://dbpedia.org/resource/Yeah!_(Usher_song),http://dbpedia.org/resource/Yeah_(Wannadies) http://dbpedia.org/resource/Yeah_(The_Wannadies_album)
+0,16,Yeah,http://dbpedia.org/resource/Yeah!_(Usher_song),http://dbpedia.org/resource/Yeah_(LCD_Soundsystem_song)
+0,17,Yeah,http://dbpedia.org/resource/Yeah!_(Usher_song),http://dbpedia.org/resource/Yeah_(Joe_Nichols_song)
+0,21,Yeah!,http://dbpedia.org/resource/ITunes_Originals_–_Yeah_Yeah_Yeahs,http://dbpedia.org/resource/Yeah!_(Usher_song) http://dbpedia.org/resource/Yeah_(Usher_song)
+0,22,Yeah!,http://dbpedia.org/resource/ITunes_Originals_–_Yeah_Yeah_Yeahs,http://dbpedia.org/resource/Yeah!_(Paul_Brandt_song)
+0,23,Yeah!,http://dbpedia.org/resource/ITunes_Originals_–_Yeah_Yeah_Yeahs,http://dbpedia.org/resource/Yeah!_(Def_Leppard_album)
+0,24,Yeah!!!,http://dbpedia.org/resource/ITunes_Originals_–_Yeah_Yeah_Yeahs,http://dbpedia.org/resource/Yeah!!!
+0,30,Yardbird Suite,http://dbpedia.org/resource/Yardbird_Suite_(Herbie_Mann_album),http://dbpedia.org/resource/Yardbird_Suite_(album)
+0,41,Yang Yang,,http://dbpedia.org/resource/Yang_Yang_(song)
+0,52,Ya Know?,http://dbpedia.org/resource/...Ya_Know?,http://dbpedia.org/resource/Ya_Know?
+0,62,Y,http://dbpedia.org/resource/Y_chromosome,http://dbpedia.org/resource/Y_(EP)
+0,64,YOLO,http://dbpedia.org/resource/The_Motto,http://dbpedia.org/resource/YOLO_(song)
+0,72,Yūgure,http://dbpedia.org/resource/Yugure_(song),http://dbpedia.org/resource/Yūgure
+0,79,Xscape,http://dbpedia.org/resource/Xscape_(album),http://dbpedia.org/resource/Xscape_(Michael_Jackson_song)
+0,82,Xpander,http://dbpedia.org/resource/Xpander_(EP),http://dbpedia.org/resource/Xpander_(song) http://dbpedia.org/resource/Xpander_EP http://dbpedia.org/resource/Xpander_(album)
+0,92,Xenogears Original Soundtrack,http://dbpedia.org/resource/Original_Soundtracks_1,http://dbpedia.org/resource/Stars_of_Tears http://dbpedia.org/resource/Xenogears_Light http://dbpedia.org/resource/Xenogears_ost http://dbpedia.org/resource/Small_Two_of_Pieces http://dbpedia.org/resource/Xenogears_Original_Soundtrack
+0,96,Xanadu,http://dbpedia.org/resource/Xanadu_(Olivia_Newton-John_and_Electric_Light_Orchestra_song),http://dbpedia.org/resource/The_Fall_(Electric_Light_Orchestra_song) http://dbpedia.org/resource/Xanadu_(soundtrack) http://dbpedia.org/resource/Xanadu_(Soundtrack) http://dbpedia.org/resource/Drum_Dreams
+0,97,Xanadu,http://dbpedia.org/resource/Xanadu_(Olivia_Newton-John_and_Electric_Light_Orchestra_song),http://dbpedia.org/resource/Xanadu_(Rush_song)
+0,103,X My Heart,http://dbpedia.org/resource/X_My_Heart_(album),http://dbpedia.org/resource/X_My_Heart
+0,105,X,http://dbpedia.org/resource/X_(Kylie_Minogue_album),http://dbpedia.org/resource/X_(Xzibit_song)
+0,106,X,http://dbpedia.org/resource/X_(Kylie_Minogue_album),http://dbpedia.org/resource/X_(Tribal_Tech_album)
+0,107,X,http://dbpedia.org/resource/X_(Kylie_Minogue_album),http://dbpedia.org/resource/X_(Trace_Adkins_album)
+0,108,X,http://dbpedia.org/resource/X_(Kylie_Minogue_album),http://dbpedia.org/resource/X_(Spock's_Beard_album) http://dbpedia.org/resource/Spock's_Beard_X
+0,109,X,http://dbpedia.org/resource/X_(Kylie_Minogue_album),http://dbpedia.org/resource/X_(Royal_Hunt_album)
+0,110,X,http://dbpedia.org/resource/X_(Kylie_Minogue_album),http://dbpedia.org/resource/X_(Lucki_album) http://dbpedia.org/resource/X_(Lucki_mixtape)
+0,111,X,http://dbpedia.org/resource/X_(Kylie_Minogue_album),http://dbpedia.org/resource/X_(Liberty_X_single) http://dbpedia.org/resource/X_(Liberty_X_song)
+0,112,X,http://dbpedia.org/resource/X_(Kylie_Minogue_album),http://dbpedia.org/resource/X_Re-Released http://dbpedia.org/resource/X_(Liberty_X_album)
+0,114,X,http://dbpedia.org/resource/X_(Kylie_Minogue_album),http://dbpedia.org/resource/X_(Kristeen_Young_album)
+0,115,X,http://dbpedia.org/resource/X_(Kylie_Minogue_album),http://dbpedia.org/resource/X_(Klaus_Schulze_album) http://dbpedia.org/resource/X_(Ten)
+0,116,X,http://dbpedia.org/resource/X_(Kylie_Minogue_album),http://dbpedia.org/resource/X-K-Ci_&_JoJo http://dbpedia.org/resource/X_(K-Ci_&_JoJo_album) http://dbpedia.org/resource/X_(K-Ci_and_JoJo_album)
+0,117,X,http://dbpedia.org/resource/X_(Kylie_Minogue_album),http://dbpedia.org/resource/X_(INXS_album)
+0,118,X,http://dbpedia.org/resource/X_(Kylie_Minogue_album),http://dbpedia.org/resource/X_(Def_Leppard_album)
+0,119,X,http://dbpedia.org/resource/X_(Kylie_Minogue_album),http://dbpedia.org/resource/Don't_Be_Gone_Too_Long http://dbpedia.org/resource/X_(Chris_Brown_album) http://dbpedia.org/resource/Autumn_Leaves_(Chris_Brown_song)
+0,124,XXX,http://dbpedia.org/resource/XXX_(ZZ_Top_album),http://dbpedia.org/resource/XXX_(Danny_Brown_album)
+0,125,XXX,http://dbpedia.org/resource/XXX_(ZZ_Top_album),http://dbpedia.org/resource/XXX_(Asia_album)
+0,131,XXL,http://dbpedia.org/resource/XXL_(Mylène_Farmer_song),http://dbpedia.org/resource/XXL_(Keith_Anderson_song)
+0,132,XV,http://dbpedia.org/resource/Fifteenth_Dynasty_of_Egypt,http://dbpedia.org/resource/XV_(album)
+0,135,XO,http://dbpedia.org/resource/XO_(song),"http://dbpedia.org/resource/Tomorrow,_Tomorrow http://dbpedia.org/resource/XO_(Elliott_Smith_album) http://dbpedia.org/resource/Everybody_Cares,_Everybody_Understands http://dbpedia.org/resource/I_Didn't_Understand http://dbpedia.org/resource/Pitseleh http://dbpedia.org/resource/Bottle_Up_and_Explode! http://dbpedia.org/resource/Oh_Well,_Okay http://dbpedia.org/resource/Waltz_(song) http://dbpedia.org/resource/Bled_White http://dbpedia.org/resource/Bottle_up_and_Explode! http://dbpedia.org/resource/A_Question_Mark"
+0,138,XI,http://dbpedia.org/resource/1936_Summer_Olympics,http://dbpedia.org/resource/XI_(album) http://dbpedia.org/resource/XI_(Metal_Church_album)
+0,139,XIII,http://dbpedia.org/resource/XIII_(Mushroomhead_album),http://dbpedia.org/resource/XIII_(Rage_album) http://dbpedia.org/resource/XIII_(1998_album)
+0,148,X-Mas In Hell,http://dbpedia.org/resource/X-Mas_in_Hell,http://dbpedia.org/resource/X-Mas_In_Hell
+0,163,Wu-Chronicles,http://dbpedia.org/resource/Chronicles_(Rush_album),http://dbpedia.org/resource/Wu-Chronicles
+0,171,Wrong Number,http://dbpedia.org/resource/Mirotic,http://dbpedia.org/resource/Wrong_Number_(song)

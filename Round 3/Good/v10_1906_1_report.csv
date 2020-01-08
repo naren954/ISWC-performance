@@ -1,0 +1,8 @@
+F1: 0.91892,Precision: 0.91892,Recall: 0.91892,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,13,The Eternal Flame,,http://dbpedia.org/resource/The_Eternal_Flame
+1,15,Shadowrise,,http://dbpedia.org/resource/Shadowrise http://dbpedia.org/resource/Shadowmarch
+1,23,Heat,http://dbpedia.org/resource/HEAT_(magazine),http://dbpedia.org/resource/Heat_(Buffy/Angel_novel) http://dbpedia.org/resource/Heat_(Buffy/Angel) http://dbpedia.org/resource/Heat_(Buffy/Angel_Novel)
+1,40,The Saint,http://dbpedia.org/resource/Saint,http://dbpedia.org/resource/The_Saint_(novel)
+1,52,Seraphs,http://dbpedia.org/resource/Seraph_of_the_End,"http://dbpedia.org/resource/Seraph,_Seraphim http://dbpedia.org/resource/Chalkydri http://dbpedia.org/resource/Seraf http://dbpedia.org/resource/Seraphs http://dbpedia.org/resource/SERAPHIM http://dbpedia.org/resource/Ikisat http://dbpedia.org/resource/Seraph http://dbpedia.org/resource/Seraphims http://dbpedia.org/resource/Seraphim http://dbpedia.org/resource/The_Seraphim"
+1,69,Brimstone,http://dbpedia.org/resource/Brimstone_(Preston_and_Child_novel),http://dbpedia.org/resource/Brimstone_(Robert_B._Parker_novel) http://dbpedia.org/resource/Brimstone_(Parker_novel) http://dbpedia.org/resource/Brimstone_(Parker)

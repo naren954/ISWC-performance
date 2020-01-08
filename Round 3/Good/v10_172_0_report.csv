@@ -1,0 +1,4 @@
+F1: 0.91304,Precision: 0.91304,Recall: 0.91304,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,12,A. Paul,http://dbpedia.org/resource/Ayonika_Paul,http://dbpedia.org/resource/Alexandra_Paul_(figure_skater)
+0,21,A. Johnson,http://dbpedia.org/resource/Dwayne_Johnson,http://dbpedia.org/resource/Alexander_Johnson_(figure_skater)

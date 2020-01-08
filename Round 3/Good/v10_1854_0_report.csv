@@ -1,0 +1,14 @@
+F1: 0.86207,Precision: 0.86207,Recall: 0.86207,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,8,H. Jonsson,http://dbpedia.org/resource/Hans_Jonsson_(ice_hockey),http://dbpedia.org/resource/Hans_Jönsson http://dbpedia.org/resource/Hans_Joensson http://dbpedia.org/resource/Hans_Jonsson
+0,23,G. Johnson,http://dbpedia.org/resource/Greg_Johnson_(ice_hockey),http://dbpedia.org/resource/Gregg_Johnson_(ice_hockey) http://dbpedia.org/resource/Gregg_Johnson
+0,30,G. Black,http://dbpedia.org/resource/Gordon_Black,http://dbpedia.org/resource/Graham_Black
+0,33,G. Fournier,,http://dbpedia.org/resource/Gleason_Fournier
+0,38,G. Wudrick,,http://dbpedia.org/resource/Geordie_Wudrick
+0,40,G. Paukovich,http://fr.dbpedia.org/resource/Geoff_Paukovich,http://dbpedia.org/resource/Geoff_Paukovich http://dbpedia.org/resource/Paukovich
+0,43,G. Wilson,"http://dbpedia.org/resource/George_Wilson_(basketball,_born_1942)",http://dbpedia.org/resource/Garrett_Wilson
+0,46,G. Klotz,http://fr.dbpedia.org/resource/Garrett_Klotz,http://dbpedia.org/resource/Garrett_Klotz
+0,49,G. Patterson,http://dbpedia.org/resource/George_Patterson_(basketball),http://dbpedia.org/resource/Gaelan_Patterson
+0,51,G. Gagne,http://dbpedia.org/resource/Simon_Gagné,http://dbpedia.org/resource/Gabriel_Gagne
+0,62,F. Näslund,http://dbpedia.org/resource/Markus_Näslund,http://dbpedia.org/resource/Fredrik_Naslund http://dbpedia.org/resource/Fredrik_Näslund http://dbpedia.org/resource/Fredrik_Naeslund
+0,66,F. Beaubien,http://fr.dbpedia.org/resource/Frédérik_Beaubien,http://dbpedia.org/resource/Frederik_Beaubien http://dbpedia.org/resource/Frederik_Beaubein

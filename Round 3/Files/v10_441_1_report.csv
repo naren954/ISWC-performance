@@ -1,0 +1,4 @@
+"F1: 0.93548","Precision: 0.93548","Recall: 0.93548"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","8","Nacka Municipality","http://dbpedia.org/resource/Nacka","http://dbpedia.org/resource/Nacka_Municipality http://dbpedia.org/resource/Nacka_kommun http://dbpedia.org/resource/Nacka_Kommun"
+"1","21","Lewisham","http://dbpedia.org/resource/London","http://dbpedia.org/resource/Lewisham_(parish) http://dbpedia.org/resource/Lewisham,_London http://dbpedia.org/resource/Lewisham,_London,_England http://dbpedia.org/resource/Lewisham"

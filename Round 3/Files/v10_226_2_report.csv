@@ -1,0 +1,8 @@
+"F1: 0.53846","Precision: 0.53846","Recall: 0.53846"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"2","2","The Big Blue","http://dbpedia.org/resource/Agatha_Christie's_Poirot","http://dbpedia.org/resource/Le_Grand_Bleu http://dbpedia.org/resource/Le_Grand_bleu http://dbpedia.org/resource/The_Big_Blue"
+"2","3","A Man in Love","http://dbpedia.org/resource/Man_in_Love","http://dbpedia.org/resource/A_Man_in_Love_(1987_film) http://dbpedia.org/resource/Un_uomo_innamorato http://dbpedia.org/resource/Un_homme_amoureux"
+"2","4","Pirates","http://dbpedia.org/resource/Pirates_of_the_Caribbean:_On_Stranger_Tides","http://dbpedia.org/resource/Pirates_(1986_film)"
+"2","7","The King of Comedy","http://dbpedia.org/resource/The_King_of_Comedy_(film)","http://dbpedia.org/resource/The_King_of_Comedy_(1983_film) http://dbpedia.org/resource/Rupert_pupkin http://dbpedia.org/resource/King_of_Comedy_(1983_film) http://dbpedia.org/resource/The_King_of_Comedy_(1983) http://dbpedia.org/resource/The_King_of_Comedy_(1982_film) http://dbpedia.org/resource/Rupert_Pumpkin"
+"2","10","Fantastica","http://dbpedia.org/resource/A_Fantastic_Woman","http://dbpedia.org/resource/Fantastica_(film)"
+"2","11","Hair","http://dbpedia.org/resource/Bad_Hair_Day_(film)","http://dbpedia.org/resource/Hair_(film) http://dbpedia.org/resource/Hair_(movie)"

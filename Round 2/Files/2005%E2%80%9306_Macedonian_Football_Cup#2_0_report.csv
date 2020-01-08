@@ -1,0 +1,5 @@
+"F1: 0.62500","Precision: 0.62500","Recall: 0.62500"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","2","Vardar","http://dbpedia.org/resource/FK_Partizan","http://dbpedia.org/resource/Vardar_Skopje http://dbpedia.org/resource/FK_Vardar http://dbpedia.org/resource/FK_Vardar_Skopje http://dbpedia.org/resource/FC_Vardar http://dbpedia.org/resource/FC_Varadar"
+"0","3","Pobeda","http://dbpedia.org/resource/FK_Vardar","http://dbpedia.org/resource/Pobeda_Prilep http://dbpedia.org/resource/FK_Pobeda"
+"0","6","ShkÃ«ndija 79","http://dbpedia.org/resource/KF_Shkëndija","http://dbpedia.org/resource/FK_Shkëndija"

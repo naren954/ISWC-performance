@@ -1,0 +1,5 @@
+F1: 0.85714,Precision: 0.85714,Recall: 0.85714,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,9,Qaqortoq Hostel,http://dbpedia.org/resource/Qaqortoq_Museum,http://dbpedia.org/resource/Qaqortoq_Hostel
+0,10,Marriott Marquis Houston,http://dbpedia.org/resource/New_York_Marriott_Marquis,http://dbpedia.org/resource/Marriott_Marquis_Houston http://dbpedia.org/resource/Houston_Marriott_Marquis
+0,13,"Mandarin Oriental, Las Vegas",http://dbpedia.org/resource/Waldorf_Astoria_Las_Vegas,"http://dbpedia.org/resource/Residences_at_Mandarin_Oriental http://dbpedia.org/resource/Las_Vegas_Mandarin_Hotel http://dbpedia.org/resource/Mandarin_Oriental,_Las_Vegas http://dbpedia.org/resource/Mandarin_Hotel_Las_Vegas"

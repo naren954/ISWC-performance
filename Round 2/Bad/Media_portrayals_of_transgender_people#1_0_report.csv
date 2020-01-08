@@ -1,0 +1,4 @@
+F1: 0.50000,Precision: 0.50000,Recall: 0.50000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,Conundrum,http://dbpedia.org/resource/Conundrum_(Star_Trek:_The_Next_Generation),"http://dbpedia.org/resource/Morris,_Jan http://dbpedia.org/resource/Wales,_The_first_place http://dbpedia.org/resource/Jan_Morris http://dbpedia.org/resource/The_Great_Port:_A_Passage_through_New_York"
+0,9,She's Not There: A Life in Two Genders,http://dbpedia.org/resource/Sex,http://dbpedia.org/resource/She's_Not_There:_A_Life_in_Two_Genders

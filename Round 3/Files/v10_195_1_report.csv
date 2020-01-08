@@ -1,0 +1,6 @@
+"F1: 0.78947","Precision: 0.78947","Recall: 0.78947"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","7","Massachusetts","nan","http://dbpedia.org/resource/Massachusetts_(The_Bee_Gees_song) http://dbpedia.org/resource/Massachusetts_(The_Lights_Went_Out_In) http://dbpedia.org/resource/Massachusetts_(Bee_Gees_song)"
+"1","9","Invaders Must Die","http://dbpedia.org/resource/Invaders_Must_Die_(song)","http://dbpedia.org/resource/Invaders_must_die_album http://dbpedia.org/resource/Invaders_Must_Die http://dbpedia.org/resource/Invaders_must_die"
+"1","13","Welcome Back My Friends to the Show That Never Ends... Ladies and Gentlemen","http://dbpedia.org/resource/Welcome_Back,_My_Friends,_to_the_Show_That_Never_Ends_～_Ladies_and_Gentlemen","http://dbpedia.org/resource/Welcome_Back_My_Friends_to_the_Show_That_Never_Ends..._Ladies_and_Gentlemen,_Emerson,_Lake_&_Palmer http://dbpedia.org/resource/Welcome_Back_My_Friends_to_the_Show_That_Never_Ends http://dbpedia.org/resource/Welcome_Back_My_Friends_to_the_Show_That_Never_Ends..._Ladies_and_Gentlemen http://dbpedia.org/resource/Welcome_Back_My_Friends http://dbpedia.org/resource/Welcome_Back,_My_Friends,_to_the_Show_That_Never_Ends_~_Ladies_and_Gentlemen"
+"1","15","Workout Holiday","http://dbpedia.org/resource/Workout_Holiday_LP","http://dbpedia.org/resource/Workout_Holiday"

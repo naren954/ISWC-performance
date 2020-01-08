@@ -1,0 +1,21 @@
+F1: 0.78652,Precision: 0.78652,Recall: 0.78652,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,5,W. Wade,http://dbpedia.org/resource/Wallace_Wade,http://dbpedia.org/resource/Will_Wade_(basketball)
+0,6,W. Brown,http://dbpedia.org/resource/Wes_Brown,http://dbpedia.org/resource/Watson_Brown
+0,13,T. Smith,http://dbpedia.org/resource/Tom_Smith_(basketball),http://dbpedia.org/resource/Tracy_Smith_(baseball)
+0,18,T. Bennett,"http://dbpedia.org/resource/Tony_Bennett_(basketball,_born_1969)",http://dbpedia.org/resource/Tony_Bennett_(coach) http://dbpedia.org/resource/Tony_Bennett_(basketball)
+0,22,T. Gilmore,http://dbpedia.org/resource/Ted_Gilmore,http://dbpedia.org/resource/Tom_Gilmore_(American_football) http://dbpedia.org/resource/Tom_Gilmore_(football_coach)
+0,25,T. Beck,"http://dbpedia.org/resource/Tim_Beck_(American_football,_born_1966)",http://dbpedia.org/resource/Tom_Beck_(American_football)
+0,33,T. Beck,"http://dbpedia.org/resource/Tim_Beck_(American_football,_born_1966)","http://dbpedia.org/resource/Tim_Beck_(Pittsburg_State_coach) http://dbpedia.org/resource/Tim_Beck_(American_football,_born_1964) http://dbpedia.org/resource/Tim_Beck_(Pittsburgh_State_coach)"
+0,40,T. K. Jr.,http://dbpedia.org/resource/Tim_Kempton_Jr.,"http://dbpedia.org/resource/Ted_Karras http://dbpedia.org/resource/Ted_Karras,_Jr. http://dbpedia.org/resource/Ted_Karras_Jr."
+0,42,S. Johnson,http://dbpedia.org/resource/Stanley_Johnson_(basketball),http://dbpedia.org/resource/Sydney_Johnson
+0,46,S. Smith,http://dbpedia.org/resource/Sid_Smith_(American_football_coach),http://dbpedia.org/resource/Steve_Smith_(pitcher) http://dbpedia.org/resource/Steve_Smith_(baseball_coach)
+0,47,S. Roberts,http://dbpedia.org/resource/Skipper_Roberts_(baseball),http://dbpedia.org/resource/Steve_Roberts_(football_coach) http://dbpedia.org/resource/Steve_Roberts_(American_football)
+0,51,S. Johnson,http://dbpedia.org/resource/Stanley_Johnson_(basketball),"http://dbpedia.org/resource/Steve_Johnson_(American_football,_born_1956)"
+0,53,S. Campbell,http://dbpedia.org/resource/Soup_Campbell,http://dbpedia.org/resource/Steve_Campbell_(American_football)
+0,58,S. Woods,http://dbpedia.org/resource/Sean_Woods,http://dbpedia.org/resource/Casey_Woods http://dbpedia.org/resource/Sparky_Woods
+0,60,S. Jackson,http://dbpedia.org/resource/Stefon_Jackson,http://dbpedia.org/resource/Sonny_Jackson_(American_football)
+0,63,S. Hall,http://dbpedia.org/resource/Stuart_Hall_(boxer),http://dbpedia.org/resource/Skip_Hall
+0,68,S. Miller,http://dbpedia.org/resource/Steven_Miller_(gridiron_football),http://dbpedia.org/resource/Sean_Miller
+0,74,R. Williams,"http://dbpedia.org/resource/Reggie_Williams_(basketball,_born_1964)",http://dbpedia.org/resource/Ryun_Williams
+0,76,R. Greene,http://dbpedia.org/resource/Ron_Greene,http://dbpedia.org/resource/Royner_Greene

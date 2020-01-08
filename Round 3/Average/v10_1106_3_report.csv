@@ -1,0 +1,12 @@
+F1: 0.71429,Precision: 0.71429,Recall: 0.71429,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,8,S. Frankel,http://dbpedia.org/resource/David_Frankel,http://dbpedia.org/resource/Scott_Frankel http://dbpedia.org/resource/Scott_frankel
+3,10,L. Grossman,http://dbpedia.org/resource/Lev_Grossman,http://dbpedia.org/resource/Larry_Grossman_(composer)
+3,11,W. Marks,http://dbpedia.org/resource/Mark_Kac,http://dbpedia.org/resource/Walter_Marks_(composer)
+3,12,G. Chiang,http://dbpedia.org/resource/Maggie_Chiang,http://dbpedia.org/resource/George_Chiang
+3,17,D. A. Stewart,"http://dbpedia.org/resource/Mary,_Queen_of_Scots",http://dbpedia.org/resource/The_Dave_Stewart_Songbook_Vol._1 http://dbpedia.org/resource/David_Stewart_(song_writer) http://dbpedia.org/resource/David_Allan_Stewart http://dbpedia.org/resource/David_A._Stewart http://dbpedia.org/resource/David_Alan_Stewart http://dbpedia.org/resource/Dave_A_Stewart http://dbpedia.org/resource/Dave_Allan_Stewart http://dbpedia.org/resource/David_Stewart_(songwriter) http://dbpedia.org/resource/David_Stewart_(record_producer) http://dbpedia.org/resource/Dave_A._Stewart http://dbpedia.org/resource/David_A_Stewart http://dbpedia.org/resource/David_Stewart_(musician)
+3,24,T. Snow,http://dbpedia.org/resource/Thomas_Snow_(pianist),http://dbpedia.org/resource/Tom_Snow http://dbpedia.org/resource/Tom_Snow_(songwriter)
+3,27,B. Goldman,http://dbpedia.org/resource/William_Goldman,http://dbpedia.org/resource/Bo_Goldman
+3,30,S. Frankel,http://dbpedia.org/resource/David_Frankel,http://dbpedia.org/resource/Scott_Frankel http://dbpedia.org/resource/Scott_frankel
+3,33,F. Cipolla,http://dbpedia.org/resource/Flavio_Cipolla,http://dbpedia.org/resource/Frank_Cipolla http://dbpedia.org/resource/Frank_cipolla
+3,35,M. Sklar,http://dbpedia.org/resource/Leland_Sklar,http://dbpedia.org/resource/Matthew_Sklar http://dbpedia.org/resource/Mathew_Sklar

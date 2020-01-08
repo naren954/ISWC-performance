@@ -1,0 +1,4 @@
+F1: 0.88889,Precision: 0.88889,Recall: 0.88889,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,7,"Arkansas City, Kansas","http://dbpedia.org/resource/Kansas_City,_Kansas","http://dbpedia.org/resource/Ark_City http://dbpedia.org/resource/Arkansas_City,_KS http://dbpedia.org/resource/Ark_city http://dbpedia.org/resource/History_of_Arkansas_City,_Kansas http://dbpedia.org/resource/Arkansas_City http://dbpedia.org/resource/UN/LOCODE:USARK http://dbpedia.org/resource/Arkansas_City,_Kansas http://dbpedia.org/resource/Ark_City,_KS http://dbpedia.org/resource/Arkansas_City_(KS)"
+1,15,"Excello, Ohio","http://dbpedia.org/resource/Middletown,_Ohio","http://dbpedia.org/resource/Excello,_Ohio"

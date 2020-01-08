@@ -1,0 +1,44 @@
+F1: 0.53846,Precision: 0.53846,Recall: 0.53846,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,WLRN-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WLRN-DT http://dbpedia.org/resource/WLRN-TV
+0,3,WLRD,http://dbpedia.org/resource/WUKS,http://dbpedia.org/resource/WLRD
+0,5,WLQP-LP,http://fr.dbpedia.org/resource/Attraction_Images,http://dbpedia.org/resource/WLQP-LP http://dbpedia.org/resource/WLQP
+0,7,WLPR-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/WWLO http://dbpedia.org/resource/WLPR-FM
+0,10,WLOS,http://dbpedia.org/resource/WKJV_(AM),http://dbpedia.org/resource/W10AP http://dbpedia.org/resource/W06AN http://dbpedia.org/resource/W06AQ http://dbpedia.org/resource/W12AQ http://dbpedia.org/resource/W05AE http://dbpedia.org/resource/W06AD http://dbpedia.org/resource/W08AN http://dbpedia.org/resource/W05AF http://dbpedia.org/resource/W12CI http://dbpedia.org/resource/W05AO http://dbpedia.org/resource/WLOS_(TV) http://dbpedia.org/resource/W11AJ http://dbpedia.org/resource/WLOS http://dbpedia.org/resource/W12AQ-D http://dbpedia.org/resource/W05AC http://dbpedia.org/resource/W11AQ http://dbpedia.org/resource/WLOS-TV http://dbpedia.org/resource/W06AP http://dbpedia.org/resource/W12AU http://dbpedia.org/resource/W05AP http://dbpedia.org/resource/W06AL http://dbpedia.org/resource/W12AR
+0,11,WLOO,http://dbpedia.org/resource/WSHE-FM,http://dbpedia.org/resource/WUFX-TV http://dbpedia.org/resource/WLOO http://dbpedia.org/resource/WLOO-TV http://dbpedia.org/resource/WUFX
+0,12,WLOL-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/WLOL-FM
+0,13,WLNY-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/TV10/55 http://dbpedia.org/resource/WLIG-LP http://dbpedia.org/resource/WLNY-DT http://dbpedia.org/resource/WLNY-TV http://dbpedia.org/resource/Tv_10/55 http://dbpedia.org/resource/WLNY http://dbpedia.org/resource/WLIG
+0,14,WLNS-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WLNS-TV http://dbpedia.org/resource/WJIM-TV http://dbpedia.org/resource/WLNS http://dbpedia.org/resource/W67AJ
+0,17,WLNH-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/WLNH http://dbpedia.org/resource/WLNH-FM
+0,18,WLNE-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WLNE-TV http://dbpedia.org/resource/ABC_Providence http://dbpedia.org/resource/WLNE-DT
+0,21,WLMO-LP,http://fr.dbpedia.org/resource/Attraction_Images,http://dbpedia.org/resource/WLMO-LP http://dbpedia.org/resource/WLMO
+0,25,WLKX-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/WLKX http://dbpedia.org/resource/WLKX-FM
+0,26,WLKW-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/WLKW-FM
+0,27,WLKR-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/WLKR-FM
+0,30,WLJW-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/WLJW-FM
+0,31,WLJN-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/WLJD http://dbpedia.org/resource/WLJN-FM
+0,32,WLJC-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WJLC http://dbpedia.org/resource/WLJC-TV
+0,34,WLIT-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/WLIT-FM http://dbpedia.org/resource/WLIT http://dbpedia.org/resource/W256CL http://dbpedia.org/resource/93.9_Lite_FM
+0,35,WLIO-DT2,http://dbpedia.org/resource/WLIO,http://dbpedia.org/resource/WLIO-DT2
+0,39,WLHT-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/WLHT http://dbpedia.org/resource/WLHT-FM
+0,41,WLGZ-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/WLMF http://dbpedia.org/resource/WLGZ-FM http://dbpedia.org/resource/Wlmf http://dbpedia.org/resource/WDCZ-FM
+0,43,WLGC-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/WLGC-FM
+0,45,WLFW,,http://dbpedia.org/resource/WLFW http://dbpedia.org/resource/WLFW-FM
+0,48,WLFJ-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/W201CR http://dbpedia.org/resource/W238AW http://dbpedia.org/resource/W271BS http://dbpedia.org/resource/W266AH http://dbpedia.org/resource/W289AN http://dbpedia.org/resource/WLFJ-FM http://dbpedia.org/resource/W262AL http://dbpedia.org/resource/W236CD http://dbpedia.org/resource/HIS_Radio http://dbpedia.org/resource/W239AT http://dbpedia.org/resource/W289AO http://dbpedia.org/resource/W258CA http://dbpedia.org/resource/W235AQ http://dbpedia.org/resource/W209CM http://dbpedia.org/resource/W299BO http://dbpedia.org/resource/W270AM
+0,54,WLCL,http://dbpedia.org/resource/WRDA_(FM),http://dbpedia.org/resource/WLCL_(FM) http://dbpedia.org/resource/WLCL
+0,55,WLBZ,http://dbpedia.org/resource/WZON,http://dbpedia.org/resource/WLBZ-TV http://dbpedia.org/resource/WGCI-LP http://dbpedia.org/resource/WGCI-LD http://dbpedia.org/resource/WLBZ http://dbpedia.org/resource/W57AQ
+0,60,WLAV-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/Allison_Harte http://dbpedia.org/resource/WLAV-FM http://dbpedia.org/resource/WLAV
+0,62,WLAN-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/WLAN-FM
+0,63,WLAJ-DT2,http://dbpedia.org/resource/WLAJ,http://dbpedia.org/resource/WLAJ-DT2
+0,65,WKZY,http://dbpedia.org/resource/WPLL,http://dbpedia.org/resource/WKZY
+0,68,WKYV,http://dbpedia.org/resource/WARV-FM,http://dbpedia.org/resource/WKYV
+0,69,WKYU-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WKYU-TV
+0,70,WKYU-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/WKYU-FM
+0,71,WKYT-TV,http://dbpedia.org/resource/.tv,http://dbpedia.org/resource/WKYT http://dbpedia.org/resource/CWKYT http://dbpedia.org/resource/WKYT-TV http://dbpedia.org/resource/UKYT http://dbpedia.org/resource/WKYT-DT
+0,72,WKYT-DT2,http://dbpedia.org/resource/WKYT-TV,http://dbpedia.org/resource/WKYT-DT2 http://dbpedia.org/resource/WKYT_(DT2)
+0,76,WKXI-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/WKXI-FM http://dbpedia.org/resource/WKXI
+0,79,WKUT-LD,http://dbpedia.org/resource/KTPN-LD,http://dbpedia.org/resource/WKUT-LD
+0,84,WKST-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/96.1_Kiss_FM http://dbpedia.org/resource/WKST-FM
+0,87,WKSL,http://dbpedia.org/resource/WNCB,http://dbpedia.org/resource/WKSL http://dbpedia.org/resource/WFKS_old http://dbpedia.org/resource/W300CU http://dbpedia.org/resource/WNWW-HD2 http://dbpedia.org/resource/WKSL-HD2 http://dbpedia.org/resource/WKSL-FM
+0,88,WKSK-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/WKSK-FM
+0,89,WKSI-FM,http://dbpedia.org/resource/.fm,http://dbpedia.org/resource/WKSI-FM http://dbpedia.org/resource/WKSI

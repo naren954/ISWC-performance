@@ -1,0 +1,4 @@
+F1: 0.75000,Precision: 0.75000,Recall: 0.75000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,2,Ã\u0096rgryte IS (D1),"http://dbpedia.org/resource/Étude_Op._10,_No._1_(Chopin)",http://dbpedia.org/resource/Örgryte_IS
+1,6,Assyriska FÃ¶reningen (D2),http://dbpedia.org/resource/Assyriska_FF,http://dbpedia.org/resource/Assyriska_Föreningen

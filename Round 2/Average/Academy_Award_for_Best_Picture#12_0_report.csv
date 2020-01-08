@@ -1,0 +1,6 @@
+F1: 0.60000,Precision: 0.60000,Recall: 0.60000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Rebecca,http://dbpedia.org/resource/Rebecca_(musical),http://dbpedia.org/resource/Rebecca_(1940_movie) http://dbpedia.org/resource/Rebecca_(movie) http://dbpedia.org/resource/Rebecca_(1940_film)
+0,7,The Letter,http://dbpedia.org/resource/The_Scarlet_Letter,http://dbpedia.org/resource/The_Letter_(1940_film) http://dbpedia.org/resource/The_Letter_(1940_movie)
+0,8,The Long Voyage Home,http://dbpedia.org/resource/The_High_and_the_Mighty_(film),http://dbpedia.org/resource/Long_Voyage_Home http://dbpedia.org/resource/The_long_voyage_home http://dbpedia.org/resource/Hombres_del_mar http://dbpedia.org/resource/The_Long_Voyage_Home
+0,9,Our Town,http://dbpedia.org/resource/Our_Town_(2007_film),http://dbpedia.org/resource/Our_Town_(1940_film) http://dbpedia.org/resource/Our_Town_(1940_movie)

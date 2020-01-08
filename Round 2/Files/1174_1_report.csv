@@ -1,0 +1,5 @@
+"F1: 0.95161","Precision: 0.95161","Recall: 0.95161"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","3","Paul Fox","http://dbpedia.org/resource/Paul_Fox_(musician)","http://dbpedia.org/resource/Paul_Fox_(producer) http://dbpedia.org/resource/Paul_Fox_music_producer http://dbpedia.org/resource/Paul_Fox_(record_producer)"
+"1","31","Westwood One","http://dbpedia.org/resource/Tim_Westwood","http://dbpedia.org/resource/Westwood_1 http://dbpedia.org/resource/Westwood_One_Radio http://dbpedia.org/resource/Westwood_One_(orignal) http://dbpedia.org/resource/Westwood_One_(1976–2011) http://dbpedia.org/resource/Westwood_One_(original) http://dbpedia.org/resource/Westwood_One_Radio_Networks http://dbpedia.org/resource/Westwood_One_(1976-2011) http://dbpedia.org/resource/Westwood_One,_Inc. http://dbpedia.org/resource/Westwood_One_Radio_Network"
+"1","52","Tony Clarke","http://dbpedia.org/resource/Tony_Clarke_(singer)","http://dbpedia.org/resource/Tony_Clarke_(producer) http://dbpedia.org/resource/Tony_Clarke_(record_producer)"

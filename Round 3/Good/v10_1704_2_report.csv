@@ -1,0 +1,19 @@
+F1: 0.89032,Precision: 0.89032,Recall: 0.89032,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,1,Nimăiești,http://uk.dbpedia.org/resource/Німеєшть,http://dbpedia.org/resource/Nimăiești
+2,14,"Trifești, Neamț",http://dbpedia.org/resource/Neamț_County,"http://dbpedia.org/resource/Trifești,_Neamț"
+2,16,Bistriţa-Năsăud County,http://dbpedia.org/resource/Bistrița-Năsăud_County,http://dbpedia.org/resource/Bistriţa-Năsăud_County
+2,17,"Prejmer, Braşov",http://dbpedia.org/resource/Brașov,"http://dbpedia.org/resource/Prejmer,_Braşov"
+2,26,Maramureş County,http://dbpedia.org/resource/Maramureș_County,http://dbpedia.org/resource/Maramureş_County
+2,30,Moţeşti,http://uk.dbpedia.org/resource/Моцешть,http://dbpedia.org/resource/Moţeşti
+2,36,"Trifești, Neamț",http://dbpedia.org/resource/Neamț_County,"http://dbpedia.org/resource/Trifești,_Neamț http://dbpedia.org/resource/Trifeşti,_Neamţ http://dbpedia.org/resource/Trifesti,_Neamt"
+2,46,Braşov County,http://dbpedia.org/resource/Brașov_County,http://dbpedia.org/resource/Braşov_County
+2,48,Maramureş County,http://dbpedia.org/resource/Maramureș_County,http://dbpedia.org/resource/Maramureş_County
+2,57,Braşov County,http://dbpedia.org/resource/Brașov_County,http://dbpedia.org/resource/Braşov_County
+2,60,Caraş-Severin County,http://dbpedia.org/resource/Caraș-Severin_County,http://dbpedia.org/resource/Caraş-Severin_County
+2,65,Hunedoara County,http://dbpedia.org/resource/Hunedoara_County,http://dbpedia.org/resource/Hăşdat http://dbpedia.org/resource/Răcăştia http://dbpedia.org/resource/Boş http://dbpedia.org/resource/Bós http://dbpedia.org/resource/Pestisu_Mare http://dbpedia.org/resource/Racastia http://dbpedia.org/resource/Eisenmarkt http://dbpedia.org/resource/Hosdát http://dbpedia.org/resource/Rakosd http://dbpedia.org/resource/Hășdat http://dbpedia.org/resource/Peştişu_Mare http://dbpedia.org/resource/Alpestes http://dbpedia.org/resource/Grós http://dbpedia.org/resource/Hunedoara http://dbpedia.org/resource/Hosdat http://dbpedia.org/resource/Răcăștia http://dbpedia.org/resource/Rákosd http://dbpedia.org/resource/Hasdat http://dbpedia.org/resource/Peștișu_Mare http://dbpedia.org/resource/History_of_Hunedoara http://dbpedia.org/resource/Boș
+2,110,Maramureş County,http://dbpedia.org/resource/Maramureș_County,http://dbpedia.org/resource/Maramureş_County
+2,126,Hunedoara,http://dbpedia.org/resource/Hunedoara_County,http://dbpedia.org/resource/Hăşdat http://dbpedia.org/resource/Răcăştia http://dbpedia.org/resource/Boş http://dbpedia.org/resource/Bós http://dbpedia.org/resource/Pestisu_Mare http://dbpedia.org/resource/Racastia http://dbpedia.org/resource/Eisenmarkt http://dbpedia.org/resource/Hosdát http://dbpedia.org/resource/Rakosd http://dbpedia.org/resource/Hășdat http://dbpedia.org/resource/Peştişu_Mare http://dbpedia.org/resource/Alpestes http://dbpedia.org/resource/Grós http://dbpedia.org/resource/Hunedoara http://dbpedia.org/resource/Hosdat http://dbpedia.org/resource/Răcăștia http://dbpedia.org/resource/Rákosd http://dbpedia.org/resource/Hasdat http://dbpedia.org/resource/Peștișu_Mare http://dbpedia.org/resource/History_of_Hunedoara http://dbpedia.org/resource/Boș
+2,144,Braşov County,http://dbpedia.org/resource/Brașov_County,http://dbpedia.org/resource/Braşov_County
+2,145,Maramureş County,http://dbpedia.org/resource/Maramureș_County,http://dbpedia.org/resource/Maramureş_County
+2,153,Caraş-Severin County,http://dbpedia.org/resource/Caraș-Severin_County,http://dbpedia.org/resource/Caraş-Severin_County

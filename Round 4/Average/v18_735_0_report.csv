@@ -1,0 +1,34 @@
+F1: 0.60000,Precision: 0.60000,Recall: 0.60000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,Waverly,http://dbpedia.org/resource/Waverley_Cemetery,"http://dbpedia.org/resource/Waverly_(Middleburg,_Virginia)"
+0,3,Waverly,http://dbpedia.org/resource/Waverley_Cemetery,"http://dbpedia.org/resource/Waverley_(Marriottsville,_Maryland) http://dbpedia.org/resource/Waverly_(Marriottsville,_Maryland)"
+0,4,Waverly,http://dbpedia.org/resource/Waverley_Cemetery,"http://dbpedia.org/resource/Waverly_(Leesburg,_Virginia)"
+0,5,Waverly,http://dbpedia.org/resource/Waverley_Cemetery,"http://dbpedia.org/resource/Waverly_(Burnt_Chimney,_Virginia)"
+0,6,Waverley,"http://dbpedia.org/resource/Waverley_(West_Point,_Mississippi)","http://dbpedia.org/resource/Waverley_(Morgantown,_Maryland)"
+0,7,Waveland,http://dbpedia.org/resource/Waveland_State_Historic_Site,"http://dbpedia.org/resource/Waveland_(Marshall,_Virginia)"
+0,8,Waveland,http://dbpedia.org/resource/Waveland_State_Historic_Site,"http://dbpedia.org/resource/Waveland_(Danville,_Kentucky)"
+0,13,Waughtown-Belview Historic District,http://dbpedia.org/resource/Jennys_Lane_Historic_District,http://dbpedia.org/resource/Waughtown-Belview_Historic_District
+0,18,Watts-Hillandale Historic District,http://dbpedia.org/resource/Watts–Hillandale_Historic_District,http://dbpedia.org/resource/Watts-Hillandale_Historic_District
+0,19,Watt-Groce-Fickhardt House,http://dbpedia.org/resource/Watt–Groce–Fickhardt_House,http://dbpedia.org/resource/Watt-Groce-Fickhardt_House
+0,21,Watson Park Historic District,http://dbpedia.org/resource/Mamakating_Park_Historic_District,http://dbpedia.org/resource/Watson_Park_Historic_District
+0,24,Watson-Sanders House,http://dbpedia.org/resource/Watson-Sawyer_House,http://dbpedia.org/resource/Watson-Sanders_House
+0,27,Watkins School,http://dbpedia.org/resource/Watkins_Woolen_Mill_State_Park_and_State_Historic_Site,http://dbpedia.org/resource/Watkins_School
+0,33,Watkins-Coleman House,"http://dbpedia.org/resource/Watkins_House_(Keysville,_Virginia)",http://dbpedia.org/resource/Watkins-Coleman_House
+0,43,Waterman Covered Bridge,http://dbpedia.org/resource/Waterford_Covered_Bridge,http://dbpedia.org/resource/Waterman_Covered_Bridge
+0,44,Waterman-Archer House,http://dbpedia.org/resource/William_Archer_House,http://dbpedia.org/resource/Waterman-Archer_House
+0,45,Waterloo Mills Historic District,http://dbpedia.org/resource/Waterloo_Historic_District_(Illinois),http://dbpedia.org/resource/Waterloo_Mills_Historic_District
+0,46,Waterloo Historic District,http://dbpedia.org/resource/Waterloo_Historic_District_(Illinois),"http://dbpedia.org/resource/Waterloo_Historic_District_(Warner,_New_Hampshire) http://dbpedia.org/resource/Waterloo,_New_Hampshire"
+0,49,Waterloo,http://dbpedia.org/resource/Waterloo_Bridge,"http://dbpedia.org/resource/Waterloo_(Princess_Anne,_Maryland)"
+0,50,Waterloo,http://dbpedia.org/resource/Waterloo_Bridge,"http://dbpedia.org/resource/Waterloo_(Albertson,_North_Carolina)"
+0,58,Water Street Historic District,"http://dbpedia.org/resource/Main_Street_Historic_District_(New_Hamburg,_New_York)","http://dbpedia.org/resource/Water_Street_Historic_District_(Torrington,_Connecticut)"
+0,59,Water Avenue Historic District,http://dbpedia.org/resource/Hale_Avenue_Historic_District,http://dbpedia.org/resource/Water_Avenue_Historic_District
+0,65,Washington Vocational School,http://dbpedia.org/resource/Margaret_Murray_Washington_School,http://dbpedia.org/resource/Washington_Vocational_School
+0,68,Washington Street Methodist Church,http://dbpedia.org/resource/Washington_Street_United_Methodist_Church,http://dbpedia.org/resource/Washington_Street_Methodist_Church
+0,69,Washington Street Historic District,"http://dbpedia.org/resource/Washington_Street_Historic_District_(Middletown,_Connecticut)","http://dbpedia.org/resource/Washington_Street_Historic_District_(Valparaiso,_Indiana)"
+0,71,Washington Street Historic District,"http://dbpedia.org/resource/Washington_Street_Historic_District_(Middletown,_Connecticut)","http://dbpedia.org/resource/Washington_Street_Historic_District_(High_Point,_North_Carolina)"
+0,72,Washington Street Historic District,"http://dbpedia.org/resource/Washington_Street_Historic_District_(Middletown,_Connecticut)","http://dbpedia.org/resource/Washington_Street_District,_Cumberland http://dbpedia.org/resource/Washington_Street_Historic_District_(Cumberland,_Maryland)"
+0,74,Washington Street-Monument Circle Historic District,http://dbpedia.org/resource/Washington_Street–Monument_Circle_Historic_District,http://dbpedia.org/resource/Washington_Street-Monument_Circle_Historic_District
+0,77,Washington Spring Road-Woods Road Historic District,http://dbpedia.org/resource/Washington_Spring_Road–Woods_Road_Historic_District,http://dbpedia.org/resource/Washington_Spring_Road-Woods_Road_Historic_District
+0,78,Washington School,"http://dbpedia.org/resource/Washington_School_(Weymouth,_Massachusetts)","http://dbpedia.org/resource/Washington_School_(Ossining,_New_York)"
+0,79,Washington School,"http://dbpedia.org/resource/Washington_School_(Weymouth,_Massachusetts)","http://dbpedia.org/resource/Washington_School_(Logansport,_Indiana)"
+0,80,Washington School,"http://dbpedia.org/resource/Washington_School_(Weymouth,_Massachusetts)","http://dbpedia.org/resource/Washington_School_(Grand_Forks,_North_Dakota)"

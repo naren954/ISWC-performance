@@ -1,0 +1,13 @@
+F1: 0.87778,Precision: 0.87778,Recall: 0.87778,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,16,G. W. Johnson,http://dbpedia.org/resource/George_William_Johnson_(congressman),http://dbpedia.org/resource/George_W._Johnson_(civil_war) http://dbpedia.org/resource/George_W._Johnson_(Civil_War) http://dbpedia.org/resource/George_W._Johnson_(governor)
+0,19,G. R. Davis,http://dbpedia.org/resource/Glenn_Robert_Davis,http://dbpedia.org/resource/George_R._Davis
+0,24,"George E. Allen, Sr.",http://dbpedia.org/resource/George_E._Allen_Sr.,"http://dbpedia.org/resource/George_E._Allen,_Sr. http://dbpedia.org/resource/George_E._Allen,_Sr"
+0,25,"George E. Allen, Jr.",http://dbpedia.org/resource/George_Allen_(American_politician),"http://dbpedia.org/resource/George_E._Allen,_Jr. http://dbpedia.org/resource/George_E._Allen,_Jr"
+0,26,G. Cromwell,http://dbpedia.org/resource/Richard_Cromwell,http://dbpedia.org/resource/George_Cromwell
+0,34,E. C. 2nd,"http://dbpedia.org/resource/George_Phipps,_2nd_Marquess_of_Normanby",http://dbpedia.org/resource/Erastus_Corning_II http://dbpedia.org/resource/Erastus_Corning_2nd
+0,36,E. T. Douglas,"http://dbpedia.org/resource/Douglas_Douglas-Hamilton,_14th_Duke_of_Hamilton",http://dbpedia.org/resource/Emily_Taft_Douglas http://dbpedia.org/resource/Emily_T._Douglas
+0,58,"Charles Wood, 2nd Viscount Halifax","http://dbpedia.org/resource/Charles_Wood,_1st_Viscount_Halifax","http://dbpedia.org/resource/Charles_Wood,_2nd_Viscount_Halifax"
+0,61,C. Nicholson,"http://dbpedia.org/resource/Emma_Nicholson,_Baroness_Nicholson_of_Winterbourne","http://dbpedia.org/resource/Charles_Nicholson http://dbpedia.org/resource/Sir_Charles_Nicholson,_1st_Baronet,_of_Luddenham http://dbpedia.org/resource/Sir_Charles_Nicholson,_1st_Baronet http://dbpedia.org/resource/Sir_Charles_Nicholson http://dbpedia.org/resource/Nicholson,_Charles"
+0,72,B. O'Brien,http://dbpedia.org/resource/Bill_O'Brien_(British_politician),http://dbpedia.org/resource/Billy_O'Brien_(politician) http://dbpedia.org/resource/Billy_O'Brien_(Virginia_politician)
+0,73,B. A. Davis,http://dbpedia.org/resource/Jackson_B._Davis,http://dbpedia.org/resource/Beverly_A._Davis

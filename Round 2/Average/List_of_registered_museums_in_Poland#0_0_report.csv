@@ -1,0 +1,22 @@
+F1: 0.60000,Precision: 0.60000,Recall: 0.60000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,1,Warsaw Royal Castle â\u0080\u0093 Monument to National History and Culture,,"http://dbpedia.org/resource/The_Royal_Castle_in_Warsaw http://dbpedia.org/resource/Warsaw_castle http://dbpedia.org/resource/Royal_Castle_of_Warsaw http://dbpedia.org/resource/Zamek_Krolewski http://dbpedia.org/resource/Royal_Castle_(Warsaw) http://dbpedia.org/resource/Royal_Castle,_Warsaw http://dbpedia.org/resource/Kings_Castle_in_Warsaw http://dbpedia.org/resource/Zamek_Królewski http://dbpedia.org/resource/Warsaw_Castle http://dbpedia.org/resource/Warsaw_Royal_Castle http://dbpedia.org/resource/Warsaw's_Royal_Castle http://dbpedia.org/resource/Castle_of_Warsaw http://dbpedia.org/resource/Royal_Castle_in_Warsaw"
+0,10,National Archaeological Museum of Warsaw,"http://dbpedia.org/resource/National_Museum,_Warsaw",http://dbpedia.org/resource/National_Museum_of_Archaeology_(Poland) http://dbpedia.org/resource/Panstwowe_Muzeum_Archeologiczne_w_Warszawie http://dbpedia.org/resource/Państwowe_Muzeum_Archeologiczne_w_Warszawie
+0,18,Royal Baths Museum,http://dbpedia.org/resource/Royal_Ontario_Museum,http://dbpedia.org/resource/Łazienki_Palace
+0,24,National Prisoners of War Museum at Å\u0081ambinowice,http://dbpedia.org/resource/National_Gallery_of_Art,http://dbpedia.org/resource/Łambinowice
+0,29,WilanÃ³w Palace,http://dbpedia.org/resource/Wilanów_Palace,http://dbpedia.org/resource/Palace_Museum_in_Wilanów
+0,32,Railway Museum,http://dbpedia.org/resource/Railway_Museum_(Netherlands),http://dbpedia.org/resource/Warsaw_Railway_Museum http://dbpedia.org/resource/Railway_Museum_in_Warsaw
+0,34,Regional Museum of ToruÅ\u0084,http://dbpedia.org/resource/Neubrandenburg_Regional_Museum,http://dbpedia.org/resource/Regional_Museum_of_Toruń
+0,48,Å\u0081aÅ\u0084cut Castle,http://dbpedia.org/resource/Ə,http://dbpedia.org/resource/Łańcut_Castle
+0,49,Lublin Museum,http://dbpedia.org/resource/Lublin_Castle,http://dbpedia.org/resource/Lublin_Museum
+0,52,Asia and Pacific Museum,http://dbpedia.org/resource/Wing_Luke_Museum_of_the_Asian_Pacific_American_Experience,http://dbpedia.org/resource/Asia_and_Pacific_Museum
+0,63,Museum of Literature,http://dbpedia.org/resource/Nizami_Museum_of_Azerbaijani_Literature,"http://dbpedia.org/resource/Adam_Mickiewicz_Museum_of_Literature,_Warsaw http://dbpedia.org/resource/Museum_of_Literature,_Warsaw http://dbpedia.org/resource/Muzeum_Literatury_im._Adama_Mickiewicza_w_Warszawie"
+0,66,Historical Museum of the Capital City of Warsaw,,http://dbpedia.org/resource/Museum_of_Warsaw http://dbpedia.org/resource/Muzeum_Historyczne_m.st._Warszawy http://dbpedia.org/resource/Historical_Museum_of_Warsaw
+0,71,Kashubian Ethnographic Park,http://dbpedia.org/resource/Dimitrie_Gusti_National_Village_Museum,http://dbpedia.org/resource/Kashubian_Ethnographic_Park http://dbpedia.org/resource/Wdzydze_Kiszewskie http://dbpedia.org/resource/Kaszubski_Park_Etnograficzny
+0,76,National Museum of GdaÅ\u0084sk,http://dbpedia.org/resource/SK_Rapid_Wien,"http://dbpedia.org/resource/National_Museum,_Gdańsk"
+0,80,National Museum of PoznaÅ\u0084,http://dbpedia.org/resource/National_Museum_of_American_History,"http://dbpedia.org/resource/National_Museum,_Poznań"
+0,86,Silesian Museum,http://dbpedia.org/resource/Silesian_Museum_(Opava),http://dbpedia.org/resource/Silesian_Museum http://dbpedia.org/resource/Muzeum_Slaskie http://dbpedia.org/resource/Museum_of_Silesia http://dbpedia.org/resource/Muzeum_Śląskie
+0,108,Second World War Museum (under construction),http://dbpedia.org/resource/National_Museum_of_the_History_of_Ukraine_in_the_Second_World_War,http://dbpedia.org/resource/World_War_II_Museum http://dbpedia.org/resource/Museum_of_World_War_II_in_Gdansk http://dbpedia.org/resource/Second_World_War_Museum http://dbpedia.org/resource/Museum_of_World_War_II_in_Gdańsk
+0,113,National Museum of WrocÅ\u0082aw,http://dbpedia.org/resource/National_Museum_of_Montserrat,http://dbpedia.org/resource/National_Museum_of_Wrocław
+0,117,Museum of Architecture,http://dbpedia.org/resource/Donskoy_Monastery,"http://dbpedia.org/resource/Museum_of_Architecture,_Wrocław"
+0,120,Walery Rzewuski Museum of the History of Photography,http://dbpedia.org/resource/MuseuMAfricA,http://dbpedia.org/resource/Muzeum_Historii_Fotografii_w_Krakowie

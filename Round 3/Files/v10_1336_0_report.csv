@@ -1,0 +1,5 @@
+"F1: 0.86957","Precision: 0.86957","Recall: 0.86957"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","14","Antigone","http://dbpedia.org/resource/Antigone_(Sophocles_play)","http://dbpedia.org/resource/Antigone_(Euripides_play) http://dbpedia.org/resource/Antigone_(Euripides)"
+"0","20","Andromeda","http://dbpedia.org/resource/The_Andromeda_Strain","http://dbpedia.org/resource/Andromeda_(play) http://dbpedia.org/resource/Andromeda_(Euripides)"
+"0","21","Andromache","http://dbpedia.org/resource/Andromaque","http://dbpedia.org/resource/Andromache_(play)"

@@ -1,0 +1,7 @@
+"F1: 0.95833","Precision: 0.95833","Recall: 0.95833"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"3","9","Roberto","http://dbpedia.org/resource/Roberto_Marinho","http://dbpedia.org/resource/Roberto_(horse)"
+"3","59","Roberto","http://dbpedia.org/resource/Roberto_Marinho","http://dbpedia.org/resource/Roberto_(horse)"
+"3","65","Roberto","http://dbpedia.org/resource/Roberto_Marinho","http://dbpedia.org/resource/Roberto http://dbpedia.org/resource/Roope http://dbpedia.org/resource/Robt http://dbpedia.org/resource/List_of_famous_Roberts http://dbpedia.org/resource/Robt. http://dbpedia.org/resource/Robert_(name) http://dbpedia.org/resource/Robbert http://dbpedia.org/resource/Robert"
+"3","73","Roberto","http://dbpedia.org/resource/Roberto_Marinho","http://dbpedia.org/resource/Roberto_(horse)"
+"3","116","Hastings","http://dbpedia.org/resource/John_Hastings,_2nd_Earl_of_Pembroke","http://dbpedia.org/resource/Hastings_(horse)"

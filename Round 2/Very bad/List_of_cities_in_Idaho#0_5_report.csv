@@ -1,0 +1,6 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+5,99,Bonner,http://dbpedia.org/resource/Yelena_Bonner,"http://dbpedia.org/resource/Kootenai,_Idaho http://dbpedia.org/resource/Kootenai,_ID http://dbpedia.org/resource/Kootenai,_Id"
+5,100,Franklin,http://dbpedia.org/resource/Franklin_D._Roosevelt,"http://dbpedia.org/resource/History_of_Franklin,_Idaho http://dbpedia.org/resource/Franklin,_Id http://dbpedia.org/resource/Franklin,_Idaho http://dbpedia.org/resource/Franklin,_ID"
+5,101,Fremont,http://dbpedia.org/resource/John_C._Frémont,"http://dbpedia.org/resource/Teton,_ID http://dbpedia.org/resource/Teton,_Id http://dbpedia.org/resource/Teton,_Idaho"
+5,184,Minidoka,http://dbpedia.org/resource/Minidoka_Dam,"http://dbpedia.org/resource/Minidoka,_Idaho http://dbpedia.org/resource/Minidoka,_ID http://dbpedia.org/resource/Minidoka,_Id"

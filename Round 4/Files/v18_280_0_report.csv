@@ -1,0 +1,7 @@
+"F1: 0.92647","Precision: 0.92647","Recall: 0.92647"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","1","D. Morgan","http://dbpedia.org/resource/Dennis_Morgan_(American_football)","http://dbpedia.org/resource/Dave_Morgan_(racing_driver)"
+"0","6","C. Harrison","http://dbpedia.org/resource/Billy_Harrison_(footballer,_born_1886)","http://dbpedia.org/resource/Cuth_Harrison"
+"0","11","C. Davis","http://dbpedia.org/resource/Curt_Davis","http://dbpedia.org/resource/Colin_Davis_(racing_driver) http://dbpedia.org/resource/Colin_Davis_(auto_racing) http://dbpedia.org/resource/Colin_Davis_(driver) http://dbpedia.org/resource/Colin_Davis_(racecar_driver)"
+"0","33","C. Green","http://dbpedia.org/resource/Carl_Green","http://dbpedia.org/resource/Cecil_Green"
+"0","57","B. Scott","http://dbpedia.org/resource/Brian_Scott","http://dbpedia.org/resource/Bob_Scott_(auto_racer) http://dbpedia.org/resource/Bob_Scott_(racing_driver) http://dbpedia.org/resource/Bob_Scott_(racind_driver)"

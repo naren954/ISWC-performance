@@ -1,0 +1,6 @@
+"F1: 0.00000","Precision: 0.00000","Recall: 0.00000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"2","2","Georgetown*","http://dbpedia.org/resource/Guyana","http://dbpedia.org/resource/2012_Georgetown_Hoyas_football_team"
+"2","5","Brown","http://dbpedia.org/resource/Brown_University","http://dbpedia.org/resource/2012_Brown_Bears_football_team"
+"2","8","Penn","http://dbpedia.org/resource/Pennsylvania","http://dbpedia.org/resource/2012_Penn_Quakers_football_team"
+"2","10","Dartmouth","http://dbpedia.org/resource/Nova_Scotia","http://dbpedia.org/resource/2012_Dartmouth_Big_Green_football_team"

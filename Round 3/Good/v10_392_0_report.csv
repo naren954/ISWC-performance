@@ -1,0 +1,6 @@
+F1: 0.84000,Precision: 0.84000,Recall: 0.84000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,7,Walking Away,http://dbpedia.org/resource/Love_Don't_Let_Me_Go,http://dbpedia.org/resource/Walking_Away_(Information_Society_song)
+0,11,Walkin' Away,http://dbpedia.org/resource/Walkin'_Away_(Clint_Black_song),http://dbpedia.org/resource/Walkin'_Away_(Diamond_Rio_song)
+0,18,Walk on the Wild Side,http://dbpedia.org/resource/Walk_on_the_Wild_Side_&_Other_Hits,http://dbpedia.org/resource/Walk_on_the_Wild_Side_(Reed) http://dbpedia.org/resource/Walk_on_the_Wild_Side_(Lou_Reed_song) http://dbpedia.org/resource/Take_a_walk_on_the_wild_side http://dbpedia.org/resource/Take_a_Walk_on_the_Wild_Side http://dbpedia.org/resource/I_Giardini_di_Kensington
+0,19,Walk on Water,http://dbpedia.org/resource/Walk_on_Water_(Aerosmith_song),http://dbpedia.org/resource/Walk_on_Water_(Eddie_Money_song)

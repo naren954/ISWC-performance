@@ -1,0 +1,5 @@
+"F1: 0.70000","Precision: 0.70000","Recall: 0.70000"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"2","2","Zürich","http://dbpedia.org/resource/Canton_of_Zürich","http://dbpedia.org/resource/District_of_Zürich http://dbpedia.org/resource/Zurich_District http://dbpedia.org/resource/Zürich_District http://dbpedia.org/resource/Zurich_(district) http://dbpedia.org/resource/Zuerich_district http://dbpedia.org/resource/Zurich_district http://dbpedia.org/resource/District_of_Zurich http://dbpedia.org/resource/Zürich_(district) http://dbpedia.org/resource/Zürich_district"
+"2","8","St. Gallen","http://dbpedia.org/resource/Canton_of_St._Gallen","http://dbpedia.org/resource/St._Gallen_(Wahlkreis) http://dbpedia.org/resource/St._Gallen_(district)"
+"2","9","Rhein-Neckar-Kreis","http://dbpedia.org/resource/Hockenheim","http://dbpedia.org/resource/Rhein-Neckar-Kreis http://dbpedia.org/resource/Rhein-Neckar_Kreis http://dbpedia.org/resource/Rhein-Neckar-Kreis_(district) http://dbpedia.org/resource/Rhein-Neckar_district"

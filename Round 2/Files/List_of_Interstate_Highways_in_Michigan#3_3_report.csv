@@ -1,0 +1,4 @@
+"F1: 0.33333","Precision: 0.33333","Recall: 0.33333"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"3","26","M-5 in Farmington Hills","http://dbpedia.org/resource/List_of_shipwrecks_in_November_1916","http://dbpedia.org/resource/M-5_(MI) http://dbpedia.org/resource/Michigan_State_Highway_5 http://dbpedia.org/resource/Haggerty_Connector http://dbpedia.org/resource/M-5_(Michigan) http://dbpedia.org/resource/M-5_(Michigan_highway)"
+"3","32","M-3 and M-10 in Detroit","http://dbpedia.org/resource/1_kilometre","http://dbpedia.org/resource/M-3_(Michigan) http://dbpedia.org/resource/M-3_(MI) http://dbpedia.org/resource/M-3_(Michigan_highway) http://dbpedia.org/resource/Michigan_State_Highway_3 http://dbpedia.org/resource/Gratiot_Ave http://dbpedia.org/resource/Gration_Avenue http://dbpedia.org/resource/Gratiot_Avenue"

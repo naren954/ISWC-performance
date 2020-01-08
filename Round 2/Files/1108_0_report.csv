@@ -1,0 +1,4 @@
+"F1: 0.83333","Precision: 0.83333","Recall: 0.83333"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","9","C. Roger","http://fr.dbpedia.org/resource/Cosme_Roger","http://dbpedia.org/resource/Cyril_Roger_(speedway_rider) http://dbpedia.org/resource/Cyril_Roger"
+"0","12","C. Green","http://dbpedia.org/resource/Charles_Green_(bobsleigh)","http://dbpedia.org/resource/Chris_Green_(horseman) http://dbpedia.org/resource/Chris_Green_(horse_racing) http://dbpedia.org/resource/Chris_Green_(jockey)"

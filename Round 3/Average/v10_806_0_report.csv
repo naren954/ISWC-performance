@@ -1,0 +1,18 @@
+F1: 0.73770,Precision: 0.73770,Recall: 0.73770,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,3,Westwood,http://dbpedia.org/resource/Westwood_Power_Station,"http://dbpedia.org/resource/Westwood_(Uniontown,_Alabama)"
+0,4,Westwood,http://dbpedia.org/resource/Westwood_Power_Station,"http://dbpedia.org/resource/Westwood_House,_Knoxville,_Tennessee http://dbpedia.org/resource/Westwood_(Knoxville) http://dbpedia.org/resource/Westwood_(Knoxville,_Tennessee)"
+0,11,Westport Town Hall,"http://dbpedia.org/resource/Town_Hall_(Westport,_Connecticut)","http://dbpedia.org/resource/Westport_Town_Hall http://dbpedia.org/resource/Union_Meeting_House,_(Former)"
+0,15,Westphal-Schmidt House,http://dbpedia.org/resource/F._Jacob_Schmidt_House,http://dbpedia.org/resource/Westphal-Schmidt_House
+0,19,Westover,http://dbpedia.org/resource/Westover_Plantation,"http://dbpedia.org/resource/Westover_(Milledgeville,_Georgia)"
+0,20,Westover-Bacon-Potts Farm,http://dbpedia.org/resource/Westover–Bacon–Potts_Farm,http://dbpedia.org/resource/Westover-Bacon-Potts_Farm
+0,26,Weston Homestead,http://dbpedia.org/resource/Daniel_Weston_Homestead,http://dbpedia.org/resource/Weston_Homestead
+0,29,Weston,"http://dbpedia.org/resource/Weston,_Vermont","http://dbpedia.org/resource/Weston_(Middletown,_Delaware)"
+0,30,Weston,"http://dbpedia.org/resource/Weston,_Vermont","http://dbpedia.org/resource/Weston_(Casanova,_Virginia)"
+0,33,Westminster Village-Academy Hill Historic District,http://dbpedia.org/resource/Westminster_Village–Academy_Hill_Historic_District,http://dbpedia.org/resource/Westminster_Village-Academy_Hill_Historic_District
+0,34,Westminster Terrace Historic District,http://dbpedia.org/resource/Westminster_Street_Historic_District,http://dbpedia.org/resource/Westminster_Terrace_Historic_District
+0,38,Westminster Presbyterian Church,"http://dbpedia.org/resource/Westminster_Presbyterian_Church_(Sacramento,_California)","http://dbpedia.org/resource/Westminster_Presbyterian_Church_(Minneapolis) http://dbpedia.org/resource/Westminster_Presbyterian_Church,_Minneapolis,_MN http://dbpedia.org/resource/Westminster_Presbyterian_Church_(Minneapolis,_Minnesota) http://dbpedia.org/resource/Westminster_Presbyterian_Church,_Minneapolis,_Minnesota"
+0,39,Westminster Presbyterian Church,"http://dbpedia.org/resource/Westminster_Presbyterian_Church_(Sacramento,_California)","http://dbpedia.org/resource/Westminster_Presbyterian_Church_(Devils_Lake,_North_Dakota)"
+0,40,Westminster Presbyterian Church,"http://dbpedia.org/resource/Westminster_Presbyterian_Church_(Sacramento,_California)","http://dbpedia.org/resource/Westminster_Church http://dbpedia.org/resource/Westminster_Presbyterian_Church_(Columbus,_Ohio)"
+0,42,Westminster Congregational Church,"http://dbpedia.org/resource/First_Congregational_Church_(Portland,_Oregon)",http://dbpedia.org/resource/Westminister_Congregational_Church http://dbpedia.org/resource/Westminster_Congregational_Church
+0,49,Westlawn,"http://dbpedia.org/resource/Westlawn_(Wallingford,_Pennsylvania)","http://dbpedia.org/resource/Westlawn_(Fayetteville,_North_Carolina)"

@@ -1,0 +1,4 @@
+F1: 0.60000,Precision: 0.60000,Recall: 0.60000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,Felix GroÃ\u009Fschartner,http://fr.dbpedia.org/resource/Céline_Gros,http://dbpedia.org/resource/Felix_Großschartner
+0,3,Stefan Rabitsch,http://dbpedia.org/resource/Stefan_Karlsson_(badminton),http://dbpedia.org/resource/Stephan_Rabitsch http://dbpedia.org/resource/Stefan_Rabitsch

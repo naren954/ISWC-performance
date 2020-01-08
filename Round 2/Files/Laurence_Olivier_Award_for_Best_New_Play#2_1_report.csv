@@ -1,0 +1,7 @@
+"F1: 0.83333","Precision: 0.83333","Recall: 0.83333"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"1","17","Arcadia","http://dbpedia.org/resource/The_Countess_of_Pembroke's_Arcadia","http://dbpedia.org/resource/Arcadia_(play)"
+"1","32","Stanley","http://dbpedia.org/resource/Stan_Lee","http://dbpedia.org/resource/Stanley_(play)"
+"1","37","Closer","http://dbpedia.org/resource/Closer_(novel)","http://dbpedia.org/resource/Closer_(play)"
+"1","44","The Blue Room","http://dbpedia.org/resource/La_Ronde_(play)","http://dbpedia.org/resource/The_Blue_Room_(play)"
+"1","45","Copenhagen","nan","http://dbpedia.org/resource/Copenhagen_(play)"

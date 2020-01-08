@@ -1,0 +1,4 @@
+"F1: 0.88889","Precision: 0.88889","Recall: 0.88889"
+"Col","Row","Value","Submitted URI","Correct URI's"
+"0","10","T. Paget","http://dbpedia.org/resource/Bernard_Paget","http://dbpedia.org/resource/Tony_Paget"
+"0","16","T. M. Claudio","http://de.dbpedia.org/resource/Gaius_Claudius_Canina","http://dbpedia.org/resource/Tomas_Mateo_Claudio http://dbpedia.org/resource/Tomas_Claudio"

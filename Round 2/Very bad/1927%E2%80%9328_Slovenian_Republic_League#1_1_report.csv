@@ -1,0 +1,6 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,Ilirija,"http://dbpedia.org/resource/Elyria,_Ohio",http://dbpedia.org/resource/Ilirija_Ljubljana http://dbpedia.org/resource/NK_Ilirija_Ljubljana http://dbpedia.org/resource/Ilirija_Sports_Park http://dbpedia.org/resource/NK_Ilirija http://dbpedia.org/resource/SK_Ilirija http://dbpedia.org/resource/ND_Ilirija http://dbpedia.org/resource/ND_Ilirija_Ljubljana http://dbpedia.org/resource/ND_Ilirija_1911
+1,2,Primorje,http://dbpedia.org/resource/Primorsky_Krai,http://dbpedia.org/resource/AŠK_Primorje
+1,3,Slovan,http://dbpedia.org/resource/ŠK_Slovan_Bratislava,http://dbpedia.org/resource/ND_Slovan http://dbpedia.org/resource/NK_Slovan
+1,4,Hermes,http://dbpedia.org/resource/HMS_Hermes_(R12),http://dbpedia.org/resource/ŽSK_Hermes

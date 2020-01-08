@@ -1,0 +1,10 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+2,1,New Orleans,http://dbpedia.org/resource/NCIS:_New_Orleans,http://dbpedia.org/resource/2014–15_New_Orleans_Pelicans_season
+2,2,Milwaukee,http://dbpedia.org/resource/Milwaukee,http://dbpedia.org/resource/2014–15_Milwaukee_Bucks_season
+2,5,Houston,http://dbpedia.org/resource/Whitney_Houston,http://dbpedia.org/resource/2014–15_Houston_Rockets_season
+2,6,New York,http://dbpedia.org/resource/New_York_(state),http://dbpedia.org/resource/2014–15_New_York_Knicks_season
+2,7,Atlanta,http://dbpedia.org/resource/Atlanta,http://dbpedia.org/resource/2014–15_Atlanta_Hawks_season
+2,8,Golden State,http://dbpedia.org/resource/California,http://dbpedia.org/resource/2014–15_Golden_State_Warriors_season
+2,14,Philadelphia,http://dbpedia.org/resource/Philadelphia,http://dbpedia.org/resource/2014–15_Philadelphia_76ers_season
+2,15,Utah,http://dbpedia.org/resource/Utah,http://dbpedia.org/resource/2014–15_Utah_Jazz_season

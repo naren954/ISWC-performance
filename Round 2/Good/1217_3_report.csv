@@ -1,0 +1,6 @@
+F1: 0.89189,Precision: 0.89189,Recall: 0.89189,,
+Col,Row,Value,Submitted URI,Correct URI's
+3,19,L. Carlsson,http://dbpedia.org/resource/Lennart_Carlsson,http://dbpedia.org/resource/Lars-Goran_Carlsson http://dbpedia.org/resource/Lars-Göran_Carlsson
+3,23,L. Carlsson,http://dbpedia.org/resource/Lennart_Carlsson,http://dbpedia.org/resource/Lars-Goran_Carlsson http://dbpedia.org/resource/Lars-Göran_Carlsson
+3,29,U. Lind,http://dbpedia.org/resource/Joan_Lind,http://dbpedia.org/resource/Ulrich_Lind
+3,35,U. Lind,http://dbpedia.org/resource/Joan_Lind,http://dbpedia.org/resource/Ulrich_Lind

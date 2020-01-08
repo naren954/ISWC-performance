@@ -1,0 +1,4 @@
+F1: 0.93103,Precision: 0.93103,Recall: 0.93103,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,11,"King's College School, Cambridge","http://dbpedia.org/resource/King's_College,_Cambridge","http://dbpedia.org/resource/King's_College_School,_Cambridge http://dbpedia.org/resource/King's_college_school,_cambridge http://dbpedia.org/resource/King's_College_School_Cambridge"
+0,12,Hereford Cathedral Junior School,http://dbpedia.org/resource/Hereford_Cathedral_School,http://dbpedia.org/resource/Hereford_Cathedral_Junior_School

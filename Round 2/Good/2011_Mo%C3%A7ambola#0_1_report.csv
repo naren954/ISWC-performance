@@ -1,0 +1,5 @@
+F1: 0.76923,Precision: 0.76923,Recall: 0.76923,,
+Col,Row,Value,Submitted URI,Correct URI's
+1,1,Liga MuÃ§ulmana (C),http://dbpedia.org/resource/Liga_Desportiva_de_Maputo,http://dbpedia.org/resource/Liga_Muçulmana_de_Maputo
+1,3,HCB Songo,http://dbpedia.org/resource/UD_Songo,http://dbpedia.org/resource/HCB_Songo http://dbpedia.org/resource/GD_HCB_Songo http://dbpedia.org/resource/Grupo_Desportivo_da_Hidroeléctrica_de_Cahora_Bassa_de_Songo
+1,13,AtlÃ©tico MuÃ§ulmano,http://dbpedia.org/resource/Atlético_Nacional,http://dbpedia.org/resource/Atlético_Muçulmano_da_Matola

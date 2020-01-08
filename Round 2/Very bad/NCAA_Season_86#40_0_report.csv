@@ -1,0 +1,5 @@
+F1: 0.00000,Precision: 0.00000,Recall: 0.00000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,SBC,http://dbpedia.org/resource/AT&T,http://dbpedia.org/resource/San_Beda_Red_Cubs http://dbpedia.org/resource/Bedan_cheers http://dbpedia.org/resource/San_Beda_Red_Lions
+0,3,CSB,http://dbpedia.org/resource/Kashubian_language,http://dbpedia.org/resource/CSB_Blazers http://dbpedia.org/resource/St._Benilde_Blazers http://dbpedia.org/resource/Benilde_Blazers http://dbpedia.org/resource/St._Benilde_Lady_Blazers http://dbpedia.org/resource/CSB_Lady_Blazers
+0,4,CSJL,http://dbpedia.org/resource/Colegio_de_San_Juan_de_Letran,http://dbpedia.org/resource/Letran_Knights http://dbpedia.org/resource/Letran_Murder_Inc. http://dbpedia.org/resource/Letran_Lady_Knights http://dbpedia.org/resource/Letran_Squires

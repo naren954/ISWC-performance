@@ -1,0 +1,5 @@
+F1: 0.40000,Precision: 0.40000,Recall: 0.40000,,
+Col,Row,Value,Submitted URI,Correct URI's
+0,2,Spartak Sofia,http://dbpedia.org/resource/FC_Spartak_Moscow,http://dbpedia.org/resource/Spartak_Sofia
+0,4,Spartak Sofia,http://dbpedia.org/resource/FC_Spartak_Moscow,http://dbpedia.org/resource/Spartak_Sofia
+0,5,Spartak Sofia,http://dbpedia.org/resource/FC_Spartak_Moscow,http://dbpedia.org/resource/Spartak_Sofia
